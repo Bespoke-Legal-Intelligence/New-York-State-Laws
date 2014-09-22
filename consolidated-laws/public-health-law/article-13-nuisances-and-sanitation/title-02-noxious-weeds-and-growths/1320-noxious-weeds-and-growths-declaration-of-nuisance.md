@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1320", "kind": "section", "law_id": "PBH", "location_id": "1320", "path": "ARTICLE 13 › TITLE 2 › SECTION 1320", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1320.md", "title": "Noxious weeds and growths; declaration of nuisance"} -->
+# Public Health Law § 1320 — Noxious weeds and growths; declaration of nuisance
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 2 — Noxious Weeds and Growths](README.md)
+
+```text
+  § 1320. Noxious weeds and growths; declaration of nuisance.  1.
+Whenever in any health district there shall be growing on any property
+therein any ragweed or other species of weed, plant or growth which is
+noxious or detrimental to the public health, or the seed, pollen or
+other emanation therefrom, when carried through the air or otherwise
+dispersed, is noxious or detrimental to the public health, the local
+board of health of any such health district may take and file upon its
+records what it shall regard as sufficient proof to authorize a
+declaration that the existence of any such growth is a nuisance or
+danger to the public health, and may thereupon enter the same upon its
+records as a nuisance and order the same to be removed, destroyed or
+otherwise abated on any property wherever found.
+  2. The local board of health may also take and file among its records
+what it shall regard as sufficient proof to authorize a declaration that
+at any season or period of the year there exists a particular and
+imminent danger to the public health by reason of the approaching period
+of pollination of any such growth and may enter such determination upon
+its record.
+```

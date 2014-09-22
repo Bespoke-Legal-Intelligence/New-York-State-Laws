@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 777", "kind": "section", "law_id": "GMU", "location_id": "777", "path": "ARTICLE 17-A › TITLE 3 › SECTION 777", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/777.md", "title": "Referendum resolution for dissolution of villages"} -->
+# General Municipal Law § 777 — Referendum resolution for dissolution of villages
+
+[General Municipal Law](../../README.md) › [Article 17-A — Consolidation and Dissolution of Local Government](../README.md) › [Title 3 — Dissolution of Local Government Entities](README.md)
+
+```text
+  § 777. Referendum resolution for dissolution of villages. 1. If a
+dissolution plan calls for the dissolution of a village, then
+contemporaneous with the final approval of the dissolution plan pursuant
+to subdivision three of section seven hundred seventy-six of this title,
+the governing body of the village shall enact a resolution calling for a
+referendum on the proposed dissolution by the electors in the village.
+  2. The resolution calling for the referendum on the proposed
+dissolution shall:
+  (a) provide (i) the name of the village to be dissolved; and (ii) the
+date for the referendum, in accordance with subdivision one of section
+seven hundred eighty of this title;
+  (b) state the substance of the question to be submitted to the
+electors; and
+  (c) set forth such other matters as may be necessary to call, provide
+for and give notice of the referendum and to provide for the conduct
+thereof and the canvass of the returns thereupon.
+  3. The resolution calling for the referendum on the proposed
+dissolution shall have attached to it the final approved version of the
+dissolution plan.
+```

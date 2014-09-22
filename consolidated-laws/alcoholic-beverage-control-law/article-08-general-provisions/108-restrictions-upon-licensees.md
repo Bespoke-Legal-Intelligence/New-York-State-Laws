@@ -1,0 +1,12 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 108", "kind": "section", "law_id": "ABC", "location_id": "108", "path": "ARTICLE 8 › SECTION 108", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/108.md", "title": "Restrictions upon licensees"} -->
+# Alcoholic Beverage Control Law § 108 — Restrictions upon licensees
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 8 — General Provisions](README.md)
+
+```text
+  § 108. Restrictions upon licensees.  No licensee except the holder of
+a brewer's or distiller's license or a winery license shall keep or
+permit to be kept or consumed on the licensed premises any alcoholic
+beverage except the alcoholic beverages which he is permitted to sell
+under the terms of the license issued to him.
+```

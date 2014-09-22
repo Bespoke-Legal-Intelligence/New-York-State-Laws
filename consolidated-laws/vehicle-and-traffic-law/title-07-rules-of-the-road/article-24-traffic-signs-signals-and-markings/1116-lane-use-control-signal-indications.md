@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1116", "kind": "section", "law_id": "VAT", "location_id": "1116", "path": "TITLE 7 › ARTICLE 24 › SECTION 1116", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1116.md", "title": "Lane-use control signal indications"} -->
+# Vehicle and Traffic Law § 1116 — Lane-use control signal indications
+
+[Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 24 — Traffic Signs, Signals and Markings](README.md)
+
+```text
+  § 1116. Lane-use control signal indications. Whenever traffic is
+controlled by lane-use control signal indications located over the
+individual lanes of a highway, only the colors green, yellow, white and
+red shall be used, and said signals shall indicate and apply as follows:
+  (a) Traffic facing a steady downward green arrow signal indication is
+permitted to drive in the lane over which the arrow signal indication is
+located.
+  (b) Traffic facing a steady yellow X signal indication shall prepare
+to vacate the lane over which the signal indication is located because a
+lane control change is being made to a steady red X signal indication.
+  (c) Traffic facing a steady white two-way left-turn arrow signal
+indication is permitted to use a lane over which the signal indication
+is located for a left turn, but not for through travel, with the
+understanding that common use of the lane by oncoming road users for
+left turns is also permitted.
+  (d) Traffic facing a steady white one way left-turn arrow signal
+indication is permitted to use a lane over which the signal indication
+is located for a left turn (without opposing turns in the same lane),
+but not for through travel.
+  (e) Traffic facing a steady red X signal shall not use the lane over
+which the signal indication is located and this signal indication shall
+modify accordingly the meaning of other traffic controls present.
+```

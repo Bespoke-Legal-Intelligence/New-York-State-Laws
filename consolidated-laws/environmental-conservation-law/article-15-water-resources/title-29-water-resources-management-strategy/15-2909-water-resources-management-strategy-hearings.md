@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-2909", "kind": "section", "law_id": "ENV", "location_id": "15-2909", "path": "ARTICLE 15 › TITLE 29 › SECTION 15-2909", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-2909.md", "title": "Water resources management strategy; hearings"} -->
+# Environmental Conservation Law § 15-2909 — Water resources management strategy; hearings
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 29 — Water Resources Management Strategy](README.md)
+
+```text
+§ 15-2909. Water resources management strategy; hearings.
+  Upon receipt of the statewide water resources management strategy from
+the department of environmental conservation, the council shall promptly
+publish once a week for three consecutive weeks in newspapers of general
+circulation notice of public hearings thereon. Public hearings shall be
+conducted in each of the substate areas represented in the statewide
+strategy, and shall be in accordance with regulations adopted by the
+department, subject to modification by the council. Such regulations
+shall, at a minimum, require a hearing on the record with sworn
+witnesses and shall afford interested parties a reasonable opportunity
+to sponsor witnesses and to question witnesses sponsored by others,
+including department staff, consistent with the need to conclude the
+hearings expeditiously so that a state water resources management
+strategy can be adopted in a timely manner. The hearings shall not be
+considered part of an adjudicatory proceeding, as defined in subdivision
+three of section one hundred two of the state administrative procedure
+act, or as part of a rule-making proceeding held under subdivision one
+of section two hundred two of such act.
+```

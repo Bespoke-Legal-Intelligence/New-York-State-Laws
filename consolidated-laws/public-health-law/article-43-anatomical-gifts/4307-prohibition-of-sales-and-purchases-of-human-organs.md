@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4307", "kind": "section", "law_id": "PBH", "location_id": "4307", "path": "ARTICLE 43 › SECTION 4307", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4307.md", "title": "Prohibition of sales and purchases of human organs"} -->
+# Public Health Law § 4307 — Prohibition of sales and purchases of human organs
+
+[Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
+
+```text
+  § 4307. Prohibition of sales and purchases of human organs. 1. It
+shall be unlawful for any person to knowingly acquire, receive, or
+otherwise transfer for valuable consideration any human organ for use in
+human transplantation. The term human organ means the human kidney,
+liver, heart, lung, bone marrow, and any other human organ or tissue as
+may be designated by the commissioner but shall exclude blood. The term
+"valuable consideration" does not include the reasonable payments
+associated with the removal, transportation, implantation, processing,
+preservation, quality control, and storage of a human organ or the
+expenses of travel, housing, and lost wages incurred by the donor of a
+human organ in connection with the donation of the organ. Any person who
+violates this section shall be guilty of a class E felony.
+  2. For the purposes of this section, the donation of a kidney or other
+organ from a live donor for transplantation into an individual
+conditioned upon the donation and transplantation of a similar organ
+into an individual specified by the donor shall not, in and of itself,
+be considered to be "valuable consideration" provided that such donation
+and transplant are performed in accordance with other applicable laws,
+rules and regulations, including any specific rules and regulations the
+commissioner may adopt, with the advice and consent of the transplant
+council, with respect to such conditional donations. No individual may
+make a donation conditioned upon the race, color, creed, national origin
+or religious affiliation of the recipient, and no hospital, organ
+procurement organization, tissue bank, physician or other professional
+may participate in the performance of any procedure or otherwise
+facilitate the donation and/or transfer of organs and/or tissue
+conditioned on such factors.
+```

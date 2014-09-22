@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2306", "kind": "section", "law_id": "SCP", "location_id": "2306", "path": "ARTICLE 23 › SECTION 2306", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2306.md", "title": "Annual statements to be furnished to beneficiaries Any trustee who is not required to furnish annual statements under either 2308 or 2309..."} -->
+# Surrogate's Court Procedure Act § 2306 — Annual statements to be furnished to beneficiaries Any trustee who is not required to furnish annual statements under either 2308 or 2309...
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 23 — Costs, Allowances and Commissions](README.md)
+
+```text
+§ 2306. Annual statements to be furnished to beneficiaries
+  Any trustee who is not required to furnish annual statements under
+either 2308 or 2309 because he has not retained annual commissions shall
+nevertheless be required to furnish the annual statements referred to in
+those sections to any beneficiary receiving income or any person
+interested in the principal of the trust who shall request such
+statements.
+```

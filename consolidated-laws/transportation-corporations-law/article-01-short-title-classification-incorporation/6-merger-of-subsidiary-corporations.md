@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 6", "kind": "section", "law_id": "TCP", "location_id": "6", "path": "ARTICLE 1 › SECTION 6", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/6.md", "title": "Merger of subsidiary corporations"} -->
+# Transportation Corporations Law § 6 — Merger of subsidiary corporations
+
+[Transportation Corporations Law](../README.md) › [Article 1 — Short Title; Classification; Incorporation; Application](README.md)
+
+```text
+  § 6. Merger of subsidiary corporations. (a) Any domestic
+transportation corporation or any foreign corporation authorized to do
+in this state any business which may be done in this state by a domestic
+transportation corporation, owning at least ninety-five percent of the
+outstanding shares of each class of any domestic corporation or
+corporations authorized to engage in business similar or incidental to
+the business which the possessor corporation is authorized to engage in,
+and any domestic transportation corporation owning at least ninety-five
+percent of the outstanding shares of each class of any foreign
+corporation authorized to do in this state any business which may be
+done in this state by a domestic transportation corporation and also
+authorized to engage in business similar or incidental to the business
+which the possessor corporation is authorized to engage in, may merge
+such corporation or corporations into itself without the authorization
+of the shareholders of any such corporation, in accordance with the
+procedure and with the effect set forth in article nine of the business
+corporation law for the merger of subsidiary corporations.
+  (b) Any omnibus corporation may be merged under this section with any
+railroad corporation, provided such railroad corporation shall have
+substituted stages, buses or motor vehicles for cars or trains upon
+tracks on any portion of its route in accordance with section one
+hundred twenty-one of the transportation law.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 396-H", "kind": "section", "law_id": "GBS", "location_id": "396-H", "path": "ARTICLE 26 › SECTION 396-H", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/396-H.md", "title": "Fraudulent sale of poppies, forget-me-nots, daisies, flags and other articles sold for patriotic purposes"} -->
+# General Business Law § 396-H — Fraudulent sale of poppies, forget-me-nots, daisies, flags and other articles sold for patriotic purposes
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+```text
+  § 396-h. Fraudulent sale of poppies, forget-me-nots, daisies, flags
+and other articles sold for patriotic purposes.  Any person, whether a
+veteran soldier, sailor, marine or army nurse, or otherwise, who in the
+promotion of his own interests, or to derive personal pecuniary benefit,
+gain or profit, for himself or for any person, firm or corporation other
+than an organization expressly designated and authorized to administer
+veteran relief by the provisions of section one hundred sixty-eight of
+the social welfare law, sells or offers to sell poppies, forget-me-nots,
+daisies, flags or other articles sold for patriotic purposes, while
+claiming that such sale or offer to sell is made as agent of, or for the
+benefit of such organization authorized to administrate veteran relief,
+is guilty of a misdemeanor, punishable by a fine of not more than fifty
+dollars or by imprisonment for not more than six months, or by both such
+fine and imprisonment.
+```

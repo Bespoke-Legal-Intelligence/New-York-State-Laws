@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 405", "kind": "section", "law_id": "BNK", "location_id": "405", "path": "ARTICLE 10 › SECTION 405", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/405.md", "title": "Annual report to shareholders; delivery and publication"} -->
+# Banking Law § 405 — Annual report to shareholders; delivery and publication
+
+[Banking Law](../README.md) › [Article 10 — Savings and Loan Associations](README.md)
+
+```text
+  § 405. Annual report to shareholders; delivery and publication.  Every
+savings and loan association shall (1) prepare a complete statement of
+its financial condition, including a summary of income and expense since
+its last previous statement, and publish the same annually, such
+publication to be made in the form and manner determined by the
+superintendent and in accordance with the requirements of this section,
+(2) mail a copy of such financial statement to each shareholder or
+depositor on application therefor, and (3) make copies of such financial
+statement available to depositors, shareholders and other persons in a
+convenient and conspicuous location on the premises of each of its
+authorized places of business.
+```

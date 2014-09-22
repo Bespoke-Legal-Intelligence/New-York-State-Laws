@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 11", "kind": "section", "law_id": "IND", "location_id": "11", "path": "ARTICLE 2 › SECTION 11", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/11.md", "title": "Trespasses on tribal lands"} -->
+# Indian Law § 11 — Trespasses on tribal lands
+
+[Indian Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 11. Trespasses on tribal lands.  An action may be brought, in the
+name of the people of the state, against any person other than an
+Indian, trespassing upon tribal lands, by the district attorney of the
+county in which such lands are situated, upon security for the payment
+of the costs of such action being given to his satisfaction, or in the
+name of the nation, tribe or band, by any three of the chiefs, head men
+or councilors thereof, upon security being given to the satisfaction of
+the county judge of the county in which such lands are situated, for the
+payment of the costs of such action. The security for the payment of
+costs, as provided by this section, shall be filed, if the action is
+before a justice of the peace, with him, and otherwise, in the office of
+the county clerk. The damages recovered, after paying expenses, shall be
+distributed among the Indians occupying such lands.
+```

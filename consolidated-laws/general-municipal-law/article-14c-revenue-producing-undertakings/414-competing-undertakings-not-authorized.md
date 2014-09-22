@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 414", "kind": "section", "law_id": "GMU", "location_id": "414", "path": "ARTICLE 14-C › SECTION 414", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/414.md", "title": "Competing undertakings not authorized"} -->
+# General Municipal Law § 414 — Competing undertakings not authorized
+
+[General Municipal Law](../README.md) › [Article 14-C — Revenue-producing Undertakings](README.md)
+
+```text
+  § 414. Competing undertakings not authorized. No municipality shall
+have power under this article to construct any undertaking in
+contravention of any act of the legislature of the state of New York
+whereby the state of New York pledges to or agrees with the holders of
+any bonds issued or to be issued pursuant to said act that the state
+will not authorize the construction of an undertaking which will be
+competitive with the project authorized by said act.
+```

@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 411", "kind": "section", "law_id": "RSS", "location_id": "411", "path": "ARTICLE 8 › TITLE 13 › SECTION 411", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/411.md", "title": "Protection against fraud"} -->
+# Retirement and Social Security Law § 411 — Protection against fraud
+
+[Retirement and Social Security Law](../../README.md) › [Article 8 — New York State Policemen's and Firemen's Retirement System Short Title](../README.md) › [Title 13 — Miscellaneous Provisions; Saving and Construction Clauses](README.md)
+
+```text
+  § 411. Protection against fraud. a. Any person who shall:
+  1. Knowingly make any false statement, or
+  2. Falsify or permit to be falsified any record of the New York state
+and local police and fire retirement system, in any attempt to defraud
+such system as the result of such act shall be guilty of a misdemeanor.
+  b. Any violation of subdivision a of this section that results in a
+member or beneficiary of the retirement system receiving a benefit or
+payment in excess of one thousand dollars more than he or she would have
+been entitled to shall be a class E felony. Any violation of subdivision
+a of this section that results in a member or beneficiary of the
+retirement system receiving a benefit or payment in excess of three
+thousand dollars more than he or she would have been entitled to shall
+be a class D felony.
+  c. In the event that any change or error in any record of the New York
+state and local police and fire retirement system causes a member or
+beneficiary of such system to receive more or less than he would have
+been entitled to receive had such record been correct, the comptroller,
+upon the discovery of any such change or error, shall correct such
+record. As far as practicable, the comptroller shall adjust payments in
+such a manner that the actuarial equivalent of any benefit rightly due
+shall be paid.
+```

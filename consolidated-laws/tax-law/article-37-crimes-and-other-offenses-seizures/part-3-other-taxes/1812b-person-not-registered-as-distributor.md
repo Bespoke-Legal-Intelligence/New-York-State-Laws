@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1812-B", "kind": "section", "law_id": "TAX", "location_id": "1812-B", "path": "ARTICLE 37 › PART 3 › SECTION 1812-B", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1812-B.md", "title": "Person not registered as distributor"} -->
+# Tax Law § 1812-B — Person not registered as distributor
+
+[Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 3 — Other Taxes](README.md)
+
+```text
+  § 1812-b. Person not registered as distributor. Any person who, while
+not registered as a distributor of motor fuel pursuant to the provisions
+of article twelve-A of this chapter, imports or causes to be imported
+any motor fuel into the state, for use, distribution, storage or sale
+within the state, except motor fuel delivered into the ordinary fuel
+tank connected to the engine of a means of conveyance in order to propel
+it or in a small drum or similar container, or  produces, refines,
+manufactures or compounds motor fuel within the state shall be guilty of
+a misdemeanor. If, within any ninety day period, two thousand nine
+hundred gallons or more of motor fuel are imported or caused to be
+imported into the state for use, distribution, storage or sale within
+the state or are produced, refined, manufactured or compounded within
+the state by any person while not registered as a distributor of motor
+fuel, such person shall be guilty of a class E felony. Provided further,
+that any person who has twice been convicted under this section shall be
+guilty of a class E felony for any subsequent violation of this section,
+regardless of the amount of motor fuel involved in such violation.
+```

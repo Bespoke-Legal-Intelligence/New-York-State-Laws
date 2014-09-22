@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 67", "kind": "section", "law_id": "EXC", "location_id": "67", "path": "ARTICLE 5 › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/67.md", "title": "Additional counsel"} -->
+# Executive Law § 67 — Additional counsel
+
+[Executive Law](../README.md) › [Article 5 — Department of Law](README.md)
+
+```text
+  § 67. Additional counsel.  The governor or attorney-general may
+designate and employ such additional attorneys or counsel as may be
+necessary to assist in the transaction of any of the legal business
+mentioned in section sixty-three of this chapter and such attorneys or
+counsel shall be paid a reasonable fee upon the certificate of the
+governor and attorney-general, the amount thereof to be audited and
+allowed by them or to be paid by the attorney-general out of costs,
+penalties and judgments collected by him, prior to the payment thereof
+into the state treasury as required by section one hundred twenty-one of
+the state finance law.
+```

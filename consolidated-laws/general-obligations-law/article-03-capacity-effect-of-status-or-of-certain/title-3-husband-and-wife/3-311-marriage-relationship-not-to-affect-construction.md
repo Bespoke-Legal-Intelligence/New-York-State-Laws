@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 3-311", "kind": "section", "law_id": "GOB", "location_id": "3-311", "path": "ARTICLE 3 › TITLE 3 › SECTION 3-311", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/3-311.md", "title": "Marriage relationship not to affect construction of instruments and transactions involving personal property"} -->
+# General Obligations Law § 3-311 — Marriage relationship not to affect construction of instruments and transactions involving personal property
+
+[General Obligations Law](../../README.md) › [Article 3 — Capacity; Effect of Status or of Certain Relationships or Occupations Upon the Creation, Definition or Enforcement of Obligations](../README.md) › [Title 3 — Husband and Wife](README.md)
+
+```text
+  § 3-311. Marriage relationship not to affect construction of
+instruments and transactions involving personal property.  1. Where an
+instrument or transaction creating or transferring an interest in
+personal property would create a joint tenancy or a tenancy in common in
+persons not husband and wife, it shall create a joint tenancy or a
+tenancy in common, as the case may be, in persons who are husband and
+wife.
+  2. An instrument or transaction which does not create a right of
+survivorship in personal property between persons who are not husband
+and wife shall not create a right of survivorship in personal property
+between persons who are husband and wife.
+  3. This section applies without regard to the identity of the person
+who makes the transfer or at whose instance it is had, or from whom the
+consideration for the instrument or transaction proceeds.
+```

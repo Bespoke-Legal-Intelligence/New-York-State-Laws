@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 211", "kind": "section", "law_id": "PML", "location_id": "211", "path": "ARTICLE 2 › SECTION 211", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/211.md", "title": "Fair association, when entitled to privileges"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 211 — Fair association, when entitled to privileges
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 211. Fair association, when entitled to privileges. Any state,
+county or other fair association shall be entitled to the privileges
+conferred by section two hundred four of this chapter upon filing in the
+offices wherein its certificate of incorporation is filed, a certificate
+which shall set forth its intention to avail itself of such privileges;
+and any such state, county or other fair association shall not be
+required to obtain any license or file any other certificate. State,
+county and other fair associations entitled to conduct trotting races
+may also conduct running races in connection therewith, and the
+provisions of this article requiring a racetrack to be of specified
+dimensions shall not apply to such association; but no running races
+shall be conducted for more than five days on any track or grounds,
+unless the license of the state racing and wagering board therefor is
+first obtained.
+```

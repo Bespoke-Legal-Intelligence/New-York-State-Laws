@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Election Law § 5-228", "kind": "section", "law_id": "ELN", "location_id": "5-228", "path": "ARTICLE 5 › TITLE 2 › SECTION 5-228", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/5-228.md", "title": "Registration; certificates of local registration"} -->
+# Election Law § 5-228 — Registration; certificates of local registration
+
+[Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 2 — Registration and Enrollment](README.md)
+
+```text
+  § 5-228. Registration; certificates of local registration. 1.  At the
+close of local registration, each board of inspectors shall mail, or, if
+the board of elections directs, shall deliver to the board of elections
+a certificate, signed by the members of such board, stating the name,
+present residence address of each registrant and such other information
+as the board of elections shall require and a certificate stating the
+name and address of each person whom the board refused to register for
+any reason other than that he was already registered, and, in each
+instance, the reason for such refusal. The names and addresses shall be
+entered on such certificates during the day of registration as the
+voters concerned are registered or refused registration.
+  2. At the end of each period of local registration, the board of
+inspectors shall sign a certificate containing a tabulation of the
+following information:
+  a. The total number of voters registered on each day of local
+registration;
+  b. The total number of voters registered during such period of
+registration;
+  c. Such other information as shall be deemed appropriate by the county
+board of elections and the state board of elections.
+  Such certificate shall be mailed or delivered to the board of
+elections as it may direct, by the board taking registrations. In any
+city having therein an office of the board of elections, the board of
+elections may direct that such certificate shall be delivered to the
+police at the place of registration or the nearest police stationhouse.
+In such event, the police shall forthwith deliver the certificate to the
+board of elections at its nearest office.
+  3. The state board of elections shall prescribe the form of the
+certificates required by this section.
+```

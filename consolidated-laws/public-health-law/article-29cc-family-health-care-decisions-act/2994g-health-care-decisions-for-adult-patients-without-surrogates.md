@@ -1,0 +1,114 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2994-G", "kind": "section", "law_id": "PBH", "location_id": "2994-G", "path": "ARTICLE 29-CC › SECTION 2994-G", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2994-G.md", "title": "Health care decisions for adult patients without surrogates"} -->
+# Public Health Law § 2994-G — Health care decisions for adult patients without surrogates
+
+[Public Health Law](../README.md) › [Article 29-CC — Family Health Care Decisions Act](README.md)
+
+```text
+  § 2994-g. Health care decisions for adult patients without surrogates.
+1. Identifying adult patients without surrogates. Within a reasonable
+time after admission as an inpatient to the hospital of each adult
+patient, the hospital shall make reasonable efforts to determine if the
+patient has appointed a health care agent or has a guardian, or if at
+least one individual is available to serve as the patient's surrogate in
+the event the patient lacks or loses decision-making capacity. With
+respect to a patient who lacks capacity, if no such health care agent,
+guardian or potential surrogate is identified, the hospital shall
+identify, to the extent reasonably possible, the patient's wishes and
+preferences, including the patient's religious and moral beliefs, about
+pending health care decisions, and shall record its findings in the
+patient's medical record.
+  2. Decision-making standards and procedures. (a) The procedures
+specified in this and the following subdivisions of this section apply
+to health care decisions for adult patients who would qualify for
+surrogate decision-making under this article but for whom no surrogate
+is reasonably available, willing or competent to act.
+  (b) Any health care decision made pursuant to this section shall be
+made in accordance with the standards set forth in subdivision four of
+section twenty-nine hundred ninety-four-d of this article and shall not
+be based on the financial interests of the hospital or any other health
+care provider. The specific procedures to be followed depend on whether
+the decision involves routine medical treatment, major medical
+treatment, or the withholding or withdrawal of life-sustaining
+treatment, and the location where the treatment is provided.
+  3. Routine medical treatment. (a) For purposes of this subdivision,
+"routine medical treatment" means any treatment, service, or procedure
+to diagnose or treat an individual's physical or mental condition, such
+as the administration of medication, the extraction of bodily fluids for
+analysis, or dental care performed with a local anesthetic, for which
+health care providers ordinarily do not seek specific consent from the
+patient or authorized representative. It shall not include the long-term
+provision of treatment such as ventilator support or a nasogastric tube
+but shall include such treatment when provided as part of post-operative
+care or in response to an acute illness and recovery is reasonably
+expected within one month or less.
+  (b) An attending physician shall be authorized to decide about routine
+medical treatment for an adult patient who has been determined to lack
+decision-making capacity pursuant to section twenty-nine hundred
+ninety-four-c of this article. Nothing in this subdivision shall require
+health care providers to obtain specific consent for treatment where
+specific consent is not otherwise required by law.
+  4. Major medical treatment. (a) For purposes of this subdivision,
+"major medical treatment" means any treatment, service or procedure to
+diagnose or treat an individual's physical or mental condition: (i)
+where general anesthetic is used; or (ii) which involves any significant
+risk; or (iii) which involves any significant invasion of bodily
+integrity requiring an incision, producing substantial pain, discomfort,
+debilitation or having a significant recovery period; or (iv) which
+involves the use of physical restraints, as specified in regulations
+promulgated by the commissioner, except in an emergency; or (v) which
+involves the use of psychoactive medications, except when provided as
+part of post-operative care or in response to an acute illness and
+treatment is reasonably expected to be administered over a period of
+forty-eight hours or less, or when provided in an emergency.
+  (b) A decision to provide major medical treatment, made in accordance
+with the following requirements, shall be authorized for an adult
+patient who has been determined to lack decision-making capacity
+pursuant to section twenty-nine hundred ninety-four-c of this article.
+  (i) An attending physician shall make a recommendation in consultation
+with hospital staff directly responsible for the patient's care.
+  (ii) In a general hospital, at least one other physician designated by
+the hospital must independently determine that he or she concurs that
+the recommendation is appropriate.
+  (iii) In a residential health care facility, and for a hospice patient
+not in a general hospital, the medical director of the facility or
+hospice, or a physician designated by the medical director, must
+independently determine that he or she concurs that the recommendation
+is appropriate; provided that if the medical director is the patient's
+attending physician, a different physician designated by the residential
+health care facility or hospice must make this independent
+determination. Any health or social services practitioner employed by or
+otherwise formally affiliated with the facility or hospice may provide a
+second opinion for decisions about physical restraints made pursuant to
+this subdivision.
+  5. Decisions to withhold or withdraw life-sustaining treatment. (a) A
+court of competent jurisdiction may make a decision to withhold or
+withdraw life-sustaining treatment for an adult patient who has been
+determined to lack decision-making capacity pursuant to section
+twenty-nine hundred ninety-four-c of this article if the court finds
+that the decision accords with standards for decisions for adults set
+forth in subdivisions four and five of section twenty-nine hundred
+ninety-four-d of this article.
+  (b) If the attending physician, with independent concurrence of a
+second physician designated by the hospital, determines to a reasonable
+degree of medical certainty that:
+  (i) life-sustaining treatment offers the patient no medical benefit
+because the patient will die imminently, even if the treatment is
+provided; and
+  (ii) the provision of life-sustaining treatment would violate accepted
+medical standards, then such treatment may be withdrawn or withheld from
+an adult patient who has been determined to lack decision-making
+capacity pursuant to section twenty-nine hundred ninety-four-c of this
+article, without judicial approval. This paragraph shall not apply to
+any treatment necessary to alleviate pain or discomfort.
+  (c) With respect to a decision regarding hospice care for a patient in
+a general hospital or residential health care facility, the second
+physician must be designated by the general hospital or residential
+health care facility.
+  6. Physician objection. If a physician consulted for a concurring
+opinion objects to an attending physician's recommendation or
+determination made pursuant to this section, or a member of the hospital
+staff directly responsible for the patient's care objects to an
+attending physician's recommendation about major medical treatment or
+treatment without medical benefit, the matter shall be referred to the
+ethics review committee if it cannot be otherwise resolved.
+```

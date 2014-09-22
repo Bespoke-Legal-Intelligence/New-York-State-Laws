@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 29", "kind": "section", "law_id": "UDA", "location_id": "29", "path": "SECTION 29", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/29.md", "title": "Assistance by state officers, departments, boards and commissions"} -->
+# Urban Development Corporation Act § 29 — Assistance by state officers, departments, boards and commissions
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 29. Assistance by state officers, departments, boards and
+commissions. (1) The department of audit and control, department of law,
+and all other state agencies may render such services to the corporation
+within their respective functions as may be requested by the
+corporation.
+  (2) Upon request of the corporation, any state agency is hereby
+authorized and empowered to transfer to the corporation such officers
+and employees as it may deem necessary from time to time to assist the
+corporation in carrying out its functions and duties under this act.
+Officers and employees so transferred shall not lose their civil service
+status or rights.
+  (3) In order most effectively to carry out its corporate purposes, the
+corporation shall assist and cooperate with the corporation for urban
+development and research of New York, created by the New York state
+urban development and research act.
+```

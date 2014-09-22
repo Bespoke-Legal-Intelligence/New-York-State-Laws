@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 61", "kind": "section", "law_id": "CAL", "location_id": "61", "path": "ARTICLE 7 › SECTION 61", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/61.md", "title": "Farm and road bridges"} -->
+# Canal Law § 61 — Farm and road bridges
+
+[Canal Law](../README.md) › [Article 7 — Bridges and Highways](README.md)
+
+```text
+  § 61. Farm and road bridges.  The commissioner of transportation is
+authorized and required to maintain until April first, nineteen hundred
+fifty-four, at public expense farm, road and street bridges over the
+canal system, in all places where such bridges were constructed prior to
+the twentieth day of April, eighteen hundred thirty-nine, if, in his
+opinion, the public convenience requires that they should be continued,
+whether heretofore maintained at the expense of the state or of the
+counties, towns, villages and cities where they are situate, provided,
+however, that commencing on the first day of April, nineteen hundred
+fifty-four, and continuing thereafter, the maintenance, repair,
+improvement, replacement or closing of any such bridge over any section
+of the canal heretofore abandoned or which may hereafter be abandoned
+shall be governed by the provisions of the highway law, except that any
+such bridges situate in a city shall be maintained, repaired, improved,
+replaced or closed in the same manner and subject to the same provisions
+of law as apply to other streets and bridges in such city.
+```

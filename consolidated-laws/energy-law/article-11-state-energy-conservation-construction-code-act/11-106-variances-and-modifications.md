@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Energy Law § 11-106", "kind": "section", "law_id": "ENG", "location_id": "11-106", "path": "ARTICLE 11 › SECTION 11-106", "repealed": false, "repealed_date": null, "source": "nys-laws:ENG/11-106.md", "title": "Variances and modifications"} -->
+# Energy Law § 11-106 — Variances and modifications
+
+[Energy Law](../README.md) › [Article 11 — State Energy Conservation Construction Code Act](README.md)
+
+```text
+  § 11-106. Variances and modifications.  1. Any standard or requirement
+of the code may be varied or modified, in whole or part, with regard to
+specific construction upon application made by or on behalf of an owner,
+where strict compliance with such standard or requirement would entail
+practical difficulty or cause any unnecessary hardship in relation to
+such construction, provided, however, that any such variance or
+modification shall provide for alternative energy conservation standards
+or requirements to achieve to the extent practicable the purposes of
+this article.
+  2. An application for a variance or modification of any standard or
+requirement of the code shall be made to the secretary of state.
+```

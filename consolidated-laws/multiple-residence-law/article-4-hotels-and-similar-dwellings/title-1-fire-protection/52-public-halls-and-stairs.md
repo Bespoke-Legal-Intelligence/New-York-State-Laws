@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Multiple Residence Law § 52", "kind": "section", "law_id": "MRE", "location_id": "52", "path": "ARTICLE 4 › TITLE 1 › SECTION 52", "repealed": false, "repealed_date": null, "source": "nys-laws:MRE/52.md", "title": "Public halls and stairs"} -->
+# Multiple Residence Law § 52 — Public halls and stairs
+
+[Multiple Residence Law](../../README.md) › [Article 4 — Hotels and Similar Dwellings](../README.md) › [Title 1 — Fire Protection](README.md)
+
+```text
+  § 52. Public halls and stairs. The walls and ceiling of every entrance
+hall, stair hall or other public hall, every hall or passage not within
+an apartment or suite of rooms, every dumbwaiter, elevator, and, every
+other shaft, including stairs, connecting more than two successive
+stories, shall be sealed off from every other portion of the dwelling
+with fire-retarded materials, or, in lieu thereof, except in the case of
+elevator shafts, shall be equipped with an automatic sprinkler system.
+Except as provided in subdivision five of section fifty-five, nothing
+contained in this article shall be deemed to exempt an interior required
+means of egress from the enclosure requirements or the equipment
+provided for in this section. A fire-detecting system shall not be
+acceptable for any of the requirements of this section.
+```

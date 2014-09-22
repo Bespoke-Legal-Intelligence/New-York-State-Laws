@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 70", "kind": "section", "law_id": "PTR", "location_id": "70", "path": "ARTICLE 6 › SECTION 70", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/70.md", "title": "Rights where partnership is dissolved for fraud, or misrepresentation"} -->
+# Partnership Law § 70 — Rights where partnership is dissolved for fraud, or misrepresentation
+
+[Partnership Law](../README.md) › [Article 6 — Dissolution and Winding Up](README.md)
+
+```text
+  § 70. Rights where partnership is dissolved for fraud, or
+misrepresentation.  Where a partnership contract is rescinded on the
+ground of the fraud or misrepresentation of one of the parties thereto,
+the party entitled to rescind is, without prejudice to any other right,
+entitled,
+  (a) To a lien on, or right of retention of, the surplus of the
+partnership property after satisfying the partnership liabilities to
+third persons for any sum of money paid by him for the purchase of an
+interest in the partnership and for any capital or advances contributed
+by him; and
+  (b) To stand, after all liabilities to third persons have been
+satisfied, in the place of the creditors of the partnership for any
+payments made by him in respect of the partnership liabilities; and
+  (c) To be indemnified by the person guilty of the fraud or making the
+representation against all debts and liabilities of the partnership.
+```

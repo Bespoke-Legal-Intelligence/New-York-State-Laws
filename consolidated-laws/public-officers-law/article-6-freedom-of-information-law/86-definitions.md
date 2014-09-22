@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 86", "kind": "section", "law_id": "PBO", "location_id": "86", "path": "ARTICLE 6 › SECTION 86", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/86.md", "title": "Definitions"} -->
+# Public Officers Law § 86 — Definitions
+
+[Public Officers Law](../README.md) › [Article 6 — Freedom of Information Law](README.md)
+
+```text
+  § 86. Definitions. As used in this article, unless the context
+requires otherwise:
+  1. "Judiciary" means the courts of the state, including any municipal
+or district court, whether or not of record.
+  2. "State legislature" means the legislature of the state of New York,
+including any committee, subcommittee, joint committee, select
+committee, or commission thereof.
+  3. "Agency" means any state or municipal department, board, bureau,
+division, commission, committee, public authority, public corporation,
+council, office or other governmental entity performing a governmental
+or proprietary function for the state or any one or more municipalities
+thereof, except the judiciary or the state legislature.
+  4. "Record" means any information kept, held, filed, produced or
+reproduced by, with or for an agency or the state legislature, in any
+physical form whatsoever including, but not limited to, reports,
+statements, examinations, memoranda, opinions, folders, files, books,
+manuals, pamphlets, forms, papers, designs, drawings, maps, photos,
+letters, microfilms, computer tapes or discs, rules, regulations or
+codes.
+  5. "Critical infrastructure" means systems, assets, places or things,
+whether physical or virtual, so vital to the state that the disruption,
+incapacitation or destruction of such systems, assets, places or things
+could jeopardize the health, safety, welfare or security of the state,
+its residents or its economy.
+```

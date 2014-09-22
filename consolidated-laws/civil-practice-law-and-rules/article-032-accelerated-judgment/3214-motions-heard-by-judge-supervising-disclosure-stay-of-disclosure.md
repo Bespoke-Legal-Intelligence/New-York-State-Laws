@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 3214", "kind": "section", "law_id": "CVP", "location_id": "3214", "path": "ARTICLE 32 › SECTION 3214", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/3214.md", "title": "Motions heard by judge supervising disclosure; stay of disclosure"} -->
+# Civil Practice Law and Rules § 3214 — Motions heard by judge supervising disclosure; stay of disclosure
+
+[Civil Practice Law and Rules](../README.md) › [Article 32 — Accelerated Judgment](README.md)
+
+```text
+  Rule.  3214.  Motions heard by judge supervising disclosure; stay of
+disclosure. (a)  Judge supervising disclosure. Unless the chief
+administrator of the courts has, by rule, provided otherwise, if a case
+has been assigned to a judge to supervise disclosure pursuant to section
+3104, all motions preliminary to trial shall be referred to such judge
+whenever practicable.
+  (b) Stay of disclosure. Service of a notice of motion under rule 3211,
+3212, or section 3213 stays disclosure until determination of the motion
+unless the court orders otherwise.  If the motion is based solely on the
+defense that the summons and complaint, summons with notice, or notice
+of petition and petition was not properly served, disclosure shall not
+be stayed unless the court orders otherwise.
+```

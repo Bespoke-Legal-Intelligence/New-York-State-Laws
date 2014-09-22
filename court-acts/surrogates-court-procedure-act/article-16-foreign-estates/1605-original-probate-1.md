@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1605", "kind": "section", "law_id": "SCP", "location_id": "1605", "path": "ARTICLE 16 › SECTION 1605", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1605.md", "title": "Original probate 1"} -->
+# Surrogate's Court Procedure Act § 1605 — Original probate 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 16 — Foreign Estates](README.md)
+
+```text
+§ 1605.  Original probate
+  1.  A will of a non-domiciliary which upon probate may operate upon
+any property in this state and is deemed by the laws of this state to
+have been validly executed for probate in this state, may be admitted to
+probate in the same manner as any other will may be admitted to probate
+under this act, except as herein otherwise prescribed.
+  2.  A will which has been admitted to probate or established in the
+testator's domicile shall not thereafter be admitted to original probate
+in this state except
+  (a)  in a case where the court is satisfied that ancillary probate
+would be unduly expensive, inconvenient or impossible under the
+circumstances,
+  (b)  where the testator has directed in such will that it shall be
+offered for probate in this state or
+  (c)  where the laws of testator's domicile discriminate against
+domiciliaries of New York either as a beneficiary or a fiduciary.
+  3.  A will which by judgment or decree of a competent court in the
+testator's domicile has been denied probate or establishment shall not
+be admitted to probate in this state except where the denial of probate
+or establishment is solely for a cause which is not ground for rejection
+of a will of a domiciliary testator.
+```

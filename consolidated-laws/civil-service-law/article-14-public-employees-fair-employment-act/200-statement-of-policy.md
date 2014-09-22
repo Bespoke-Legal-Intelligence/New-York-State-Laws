@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 200", "kind": "section", "law_id": "CVS", "location_id": "200", "path": "ARTICLE 14 › SECTION 200", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/200.md", "title": "Statement of policy"} -->
+# Civil Service Law § 200 — Statement of policy
+
+[Civil Service Law](../README.md) › [Article 14 — Public Employees' Fair Employment Act](README.md)
+
+```text
+  § 200. Statement of policy. The legislature of the state of New York
+declares that it is the public policy of the state and the purpose of
+this act to promote harmonious and cooperative relationships between
+government and its employees and to protect the public by assuring, at
+all times, the orderly and uninterrupted operations and functions of
+government.  These policies are best effectuated by (a) granting to
+public employees the right of organization and representation, (b)
+requiring the state, local governments and other political subdivisions
+to negotiate with, and enter into written agreements with employee
+organizations representing public employees which have been certified or
+recognized, (c) encouraging such public employers and such employee
+organizations to agree upon procedures for resolving disputes, (d)
+creating a public employment relations board to assist in resolving
+disputes between public employees and public employers, and (e)
+continuing the prohibition against strikes by public employees and
+providing remedies for violations of such prohibition.
+```

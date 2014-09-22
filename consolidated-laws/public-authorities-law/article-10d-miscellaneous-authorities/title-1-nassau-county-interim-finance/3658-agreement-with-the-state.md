@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3658", "kind": "section", "law_id": "PBA", "location_id": "3658", "path": "ARTICLE 10-D › TITLE 1 › SECTION 3658", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3658.md", "title": "Agreement with the state"} -->
+# Public Authorities Law § 3658 — Agreement with the state
+
+[Public Authorities Law](../../README.md) › [Article 10-D — Miscellaneous Authorities](../README.md) › [Title 1 — Nassau County Interim Finance Authority](README.md)
+
+```text
+  § 3658. Agreement with the state. The state does hereby pledge to and
+agree with the holders of any issue of bonds issued by the authority
+pursuant to this title and secured by such a pledge that the state will
+not limit, alter or impair the rights hereby vested in the authority to
+fulfill the terms of any agreements made with such holders pursuant to
+this title, or in any way impair the rights and remedies of such holders
+or the security for such bonds until such bonds, together with the
+interest thereon and all costs and expenses in connection with any
+action or proceeding by or on behalf of such holders, are fully paid and
+discharged. The authority is authorized to include this pledge and
+agreement of the state in any agreement with the holders of such bonds.
+Nothing contained in this title shall be deemed to restrict the right of
+the state to amend, modify, repeal or otherwise alter statutes imposing
+or relating to taxes or fees, or appropriations relating thereto. The
+authority shall not include within any resolution, contract or agreement
+with holders of the bonds issued under this title any provision which
+provides that a default occurs as a result of the state exercising its
+right to amend, repeal, modify or otherwise alter such taxes, fees, or
+appropriations. Nothing in this title shall be deemed to obligate the
+state to make any payments or impose any taxes to satisfy the debt
+service obligations of the authority.
+```

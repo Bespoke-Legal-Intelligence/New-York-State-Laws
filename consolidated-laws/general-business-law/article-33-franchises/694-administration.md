@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 694", "kind": "section", "law_id": "GBS", "location_id": "694", "path": "ARTICLE 33 › SECTION 694", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/694.md", "title": "Administration"} -->
+# General Business Law § 694 — Administration
+
+[General Business Law](../README.md) › [Article 33 — Franchises](README.md)
+
+```text
+  § 694. Administration. 1. The department shall charge and collect the
+fees fixed by this section.
+  (a) The fee for filing an application for registration of an offering
+prospectus under subdivision two of section six hundred eighty-three of
+this article is seven hundred fifty dollars.
+  (b) The fee for filing an amendment to any registered offering
+prospectus filed under subdivision two, nine or thirteen of section six
+hundred eighty-three of this article is one hundred fifty dollars.
+  (c) The fee for filing a franchise agent's application under
+subdivision thirteen of section six hundred eighty-three of this article
+is one hundred fifty dollars.
+  2. The department may from time to time make, amend, and rescind such
+rules, forms and regulations as are necessary to carry out the
+provisions of this article, including rules and forms governing
+applications and reports, and defining any terms, whether or not used in
+this article, insofar as the definitions are not inconsistent with the
+provisions of this article.
+```

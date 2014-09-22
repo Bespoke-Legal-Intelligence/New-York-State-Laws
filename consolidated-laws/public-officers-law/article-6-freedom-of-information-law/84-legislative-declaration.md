@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 84", "kind": "section", "law_id": "PBO", "location_id": "84", "path": "ARTICLE 6 › SECTION 84", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/84.md", "title": "Legislative declaration"} -->
+# Public Officers Law § 84 — Legislative declaration
+
+[Public Officers Law](../README.md) › [Article 6 — Freedom of Information Law](README.md)
+
+```text
+  § 84. Legislative declaration. The legislature hereby finds that a
+free society is maintained when government is responsive and responsible
+to the public, and when the public is aware of governmental actions. The
+more open a government is with its citizenry, the greater the
+understanding and participation of the public in government.
+  As state and local government services increase and public problems
+become more sophisticated and complex and therefore harder to solve, and
+with the resultant increase in revenues and expenditures, it is
+incumbent upon the state and its localities to extend public
+accountability wherever and whenever feasible.
+  The people's right to know the process of governmental decision-making
+and to review the documents and statistics leading to determinations is
+basic to our society. Access to such information should not be thwarted
+by shrouding it with the cloak of secrecy or confidentiality.
+  The legislature therefore declares that government is the public's
+business and that the public, individually and collectively and
+represented by a free press, should have access to the records of
+government in accordance with the provisions of this article.
+```

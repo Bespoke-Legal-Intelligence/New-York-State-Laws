@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 518-A", "kind": "section", "law_id": "GBS", "location_id": "518-A", "path": "ARTICLE 29-A › SECTION 518-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/518-A.md", "title": "Presentment of social security number as condition for accepting a check, traveler's check, gift certificate, money order or other negoti..."} -->
+# General Business Law § 518-A — Presentment of social security number as condition for accepting a check, traveler's check, gift certificate, money order or other negoti...
+
+[General Business Law](../README.md) › [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](README.md)
+
+```text
+  § 518-a. Presentment of social security number as condition for
+accepting a check, traveler's check, gift certificate, money order or
+other negotiable instrument in payment of sales transaction prohibited.
+1. No seller in any sales transaction shall record on a check,
+traveler's check, gift certificate, money order, other negotiable
+instrument or attachment thereto, a social security number of a buyer in
+such transaction as a condition for accepting such instrument as payment
+in such transaction. Nothing contained in this subdivision shall
+prohibit a seller from so recording the identifying number from a
+buyer's driver's license where such number is identical to or is a part
+of the buyer's social security number.
+  2. A violation of the provisions of this section shall be punishable
+by a civil fine not to exceed one hundred dollars for a first violation
+and not to exceed two hundred fifty dollars for subsequent violations.
+```

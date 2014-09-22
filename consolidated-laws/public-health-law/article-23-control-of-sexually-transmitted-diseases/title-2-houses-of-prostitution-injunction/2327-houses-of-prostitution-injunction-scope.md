@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2327", "kind": "section", "law_id": "PBH", "location_id": "2327", "path": "ARTICLE 23 › TITLE 2 › SECTION 2327", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2327.md", "title": "Houses of prostitution; injunction; scope; violation"} -->
+# Public Health Law § 2327 — Houses of prostitution; injunction; scope; violation
+
+[Public Health Law](../../README.md) › [Article 23 — Control of Sexually Transmitted Diseases](../README.md) › [Title 2 — Houses of Prostitution: Injunction and Abatement](README.md)
+
+```text
+  § 2327. Houses of prostitution; injunction; scope; violation.  1. When
+an injunction has been granted pursuant to the provisions of this
+article, it shall be binding on each defendant throughout the state, and
+any violation of the provisions of the injunction or temporary
+restraining order herein provided, shall be a contempt and punished as
+hereinafter provided.
+  2. In case of a violation of any injunction granted under the
+provisions of this article, or of a restraining order or the commission
+of any contempt of court in proceedings under this article the court, or
+in vacation a judge thereof, may summarily try and punish the offender.
+  3. The contempt proceedings shall be commenced by filing with the
+clerk of the court a complaint under oath, setting out and alleging the
+facts constituting such violation, upon which the court or judge shall
+cause a warrant to issue, under which the defendant shall be arrested.
+The trial may be had upon affidavits, or either party may demand the
+production and oral examination of the witnesses.
+```

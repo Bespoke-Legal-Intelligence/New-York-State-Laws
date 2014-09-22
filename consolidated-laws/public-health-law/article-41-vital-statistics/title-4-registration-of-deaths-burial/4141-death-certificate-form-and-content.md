@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4141", "kind": "section", "law_id": "PBH", "location_id": "4141", "path": "ARTICLE 41 › TITLE 4 › SECTION 4141", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4141.md", "title": "Death certificate; form and content"} -->
+# Public Health Law § 4141 — Death certificate; form and content
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 4 — Registration of Deaths: Burial Permits](README.md)
+
+```text
+  § 4141. Death certificate; form and content. 1. The certificate of
+death shall contain such information, including but not limited to the
+decedent's social security number, and shall be in such form as the
+commissioner may prescribe.
+  2. The personal particulars called for shall be furnished by a
+competent person acquainted with the facts.
+  3. The statement of facts relating to the disposition of the body
+shall be signed by the funeral director or undertaker in charge of the
+corpse.
+  4. (a) The medical certificate shall be made, dated, and signed by the
+physician or nurse practitioner, if any, last in attendance on the
+deceased.
+  (b) Indefinite terms, denoting only symptoms of disease or conditions
+resulting from disease, shall not be held sufficient.
+  (c) Any certificate stating the cause of death in terms which the
+commissioner declares indefinite shall be returned to the physician,
+nurse practitioner, or person making the medical certificate for
+correction and more definite statement.
+  (d) Where a death is caused by an opioid overdose, such information
+shall be indicated, including any related information as the
+commissioner may require.
+```

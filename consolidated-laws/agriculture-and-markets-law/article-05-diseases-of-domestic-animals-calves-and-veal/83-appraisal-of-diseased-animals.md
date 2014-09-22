@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 83", "kind": "section", "law_id": "AGM", "location_id": "83", "path": "ARTICLE 5 › SECTION 83", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/83.md", "title": "Appraisal of diseased animals"} -->
+# Agriculture and Markets Law § 83 — Appraisal of diseased animals
+
+[Agriculture and Markets Law](../README.md) › [Article 5 — Diseases of Domestic Animals; Calves and Veal; Pure Bred Stock; Certificates of Registry](README.md)
+
+```text
+  § 83. Appraisal of diseased animals.  Each animal directed to be
+slaughtered shall be appraised at its market value. The appraiser shall
+make and transmit to the commissioner a certificate of appraisal and
+shall deliver to the owner a copy of such appraisal certificate. If the
+owner is dissatisfied with the amount of the appraisal he may, within
+ten days after the delivery of the copy of appraisal certificate, make
+written application to the commissioner for a review of the appraisal.
+Upon receipt of such application, the commissioner shall cause an
+investigation to be made as to the market value of the animals referred
+to in the application for a review.  Upon completion of such
+investigation, the commissioner shall render a decision either
+confirming the appraisal or modifying it by an increase or a decrease of
+the amount of the appraisal as justice may require, and shall state in
+his decision the reasons therefor and shall transmit a copy of the
+decision to the owner. The decision of the commissioner may be reviewed
+by a proceeding under article eight of the civil practice law and rules.
+```

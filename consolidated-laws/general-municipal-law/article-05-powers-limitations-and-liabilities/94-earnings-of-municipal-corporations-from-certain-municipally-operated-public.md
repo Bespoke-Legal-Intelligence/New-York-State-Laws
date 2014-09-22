@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 94", "kind": "section", "law_id": "GMU", "location_id": "94", "path": "ARTICLE 5 › SECTION 94", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/94.md", "title": "Earnings of municipal corporations from certain municipally operated public utility services"} -->
+# General Municipal Law § 94 — Earnings of municipal corporations from certain municipally operated public utility services
+
+[General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
+
+```text
+  § 94. Earnings of municipal corporations from certain municipally
+operated public utility services. Any municipal corporation operating a
+gas, electric or water public utility service may earn from and out of
+such operation an amount equivalent to taxes which the said service, if
+privately owned, would pay to such municipal corporation; and, in
+addition, such municipal corporation may earn from and out of such
+operation a fair return on the value of the property used and useful in
+such public utility service, over and above costs of operation and
+necessary and proper reserves.  Profits resulting from the operation of
+such a public utility service may be used for the payment of expenses or
+obligations incurred by such municipal corporation for municipal
+purposes or for the payment of refunds to consumers. The provisions of
+this section shall not apply to any gas, electric or water public
+utility service operated by the city of New York or any agency thereof.
+```

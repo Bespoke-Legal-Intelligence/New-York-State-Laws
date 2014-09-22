@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2112", "kind": "section", "law_id": "SCP", "location_id": "2112", "path": "ARTICLE 21 › SECTION 2112", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2112.md", "title": "Compensation of persons acting under powers of attorney or other instruments 1"} -->
+# Surrogate's Court Procedure Act § 2112 — Compensation of persons acting under powers of attorney or other instruments 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 21 — Miscellaneous Proceedings](README.md)
+
+```text
+§ 2112. Compensation of persons acting under powers of attorney or other
+          instruments
+  1.  At any time during the administration of an estate and
+irrespective of the pendency of a particular proceeding the court is
+authorized either on its own initiative or on application by the
+fiduciary or a person interested to fix and determine the compensation,
+charges and expenses of a person acting under a power of attorney or
+other instrument described in EPTL 13-2.3 for services rendered to his
+principal, and to review and determine the validity and reasonableness
+of any such compensation, charge or expense, whether or not it has been
+fixed previously by agreement.
+  2.  In the event any such person has already received or been paid a
+sum in excess of the fair and reasonable value of his services, charges
+and expenses as determined by the court the latter is authorized to
+direct him to refund the excess.  A proceeding therefor may be commenced
+by the court on its own initiative or by the petition of a person
+interested.
+  3.  Nothing contained herein shall be deemed to authorize the practice
+of law by an attorney in fact or other person acting under an instrument
+described in EPTL 13-2.3 who is not an attorney of this state.
+```

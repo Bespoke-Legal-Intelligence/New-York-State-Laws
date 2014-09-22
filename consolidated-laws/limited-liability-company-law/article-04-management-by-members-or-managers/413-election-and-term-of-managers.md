@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 413", "kind": "section", "law_id": "LLC", "location_id": "413", "path": "ARTICLE 4 › SECTION 413", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/413.md", "title": "Election and term of managers"} -->
+# Limited Liability Company Law § 413 — Election and term of managers
+
+[Limited Liability Company Law](../README.md) › [Article 4 — Management By Members or Managers](README.md)
+
+```text
+  § 413. Election and term of managers. (a) Except as provided in the
+operating agreement, if the articles of organization provides that
+management shall be vested in one or more managers, the members shall
+vote in accordance with section four hundred two of this article to
+designate or elect annually the manager or managers of the limited
+liability company.
+  (b) Each manager shall hold the office and have the terms (which may
+be unlimited) and responsibilities accorded to him or her by the members
+and set out in the operating agreement until his or her successor has
+been elected and qualified or until his or her earlier resignation or
+removal.
+  (c) Except as provided in the operating agreement, the initial
+managers shall hold office until the first annual meeting of members and
+until their successors have been elected and qualified.
+  (d) The number of managers may be increased or decreased by amendment
+to and in the manner provided in the operating agreement.
+```

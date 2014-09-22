@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 123", "kind": "section", "law_id": "NAV", "location_id": "123", "path": "ARTICLE 9 › SECTION 123", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/123.md", "title": "Marks on logs and timber to be recorded"} -->
+# Navigation Law § 123 — Marks on logs and timber to be recorded
+
+[Navigation Law](../README.md) › [Article 9 — Rivers and Streams As Public Highways](README.md)
+
+```text
+  § 123. Marks on logs and timber to be recorded. Every person who shall
+run any logs or timber down any river or stream recognized by law or use
+as a public highway shall select some mark different from any mark
+previously recorded, and shall put the same on each log or stick of
+timber in some conspicuous place, and shall cause such mark to be
+recorded in the county clerk's office of each county in or through which
+such river or stream runs. The county clerk shall be entitled to the sum
+of fifty cents for recording such mark, to be paid by the person having
+the same recorded, and a copy of said entry, certified by the clerk,
+shall be presumptive evidence that the logs or timber so marked are the
+property of the person by whom such mark was selected and recorded.
+```

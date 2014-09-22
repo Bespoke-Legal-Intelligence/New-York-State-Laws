@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Uniform District Court Act § 2415", "kind": "section", "law_id": "UDC", "location_id": "2415", "path": "ARTICLE 23 › SECTION 2415", "repealed": false, "repealed_date": null, "source": "nys-laws:UDC/2415.md", "title": "Court clerks, marshals, and other employees; appointment; compensation"} -->
+# Uniform District Court Act § 2415 — Court clerks, marshals, and other employees; appointment; compensation
+
+[Uniform District Court Act](../README.md) › [Article 23 — Application](README.md)
+
+```text
+  § 2415. Court clerks, marshals, and other employees; appointment;
+compensation. The board of judges shall appoint, subject to the approval
+of the appellate division of the supreme court for the second judicial
+department, such court clerks, deputy court clerks, marshals, deputy
+marshals, stenographers and other assistants and employees as may be
+provided by ordinance. Court clerks, marshals, deputy court clerks and
+deputy marshals shall at the time of their appointment be residents of
+the county and removal of any of them from the county shall vacate the
+office or position of employment. All the officers and employees
+provided by this section shall receive compensation to be fixed by
+ordinance, which salaries together with other expenses of their offices
+or employments as provided by the annual budget shall be a county
+charge.
+```

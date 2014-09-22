@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 81", "kind": "section", "law_id": "PBS", "location_id": "81", "path": "ARTICLE 4-A › SECTION 81", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/81.md", "title": "Approval of incorporation and franchises; certificate"} -->
+# Public Service Law § 81 — Approval of incorporation and franchises; certificate
+
+[Public Service Law](../README.md) › [Article 4-A — Provisions Relating to Steam Corporations; Regulating Price of Steam](README.md)
+
+```text
+  § 81. Approval of incorporation and franchises; certificate.  No steam
+corporation shall begin construction of a steam plant without first
+having obtained the permission and approval of the commission.  No such
+corporation shall exercise any right or privilege under any franchise
+hereafter granted, or under any franchise heretofore granted but not
+heretofore actually exercised, or the exercise of which shall have been
+suspended for more than one year, without first having obtained the
+permission and approval of the commission. Before such certificate shall
+be issued a certified copy of the charter of such corporation shall be
+filed in the office of the commission, together with a verified
+statement of the president and secretary of the corporation, showing
+that it has received the required consent of the proper municipal
+authorities. The commission shall have power to grant the permission and
+approval herein specified whenever it shall after due hearing determine
+that such construction or such exercise of the right, privilege or
+franchise is necessary or convenient for the public service.
+  No municipality shall build, maintain and operate for other than
+municipal purposes any works or systems for the manufacture and
+supplying of steam for purposes without a certificate of authority
+granted by the commission. If the certificate of authority is refused,
+no further proceedings shall be taken by such municipality before the
+commission, but a new application may be made therefor after one year
+from the date of such refusal.
+```

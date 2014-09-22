@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 1308", "kind": "section", "law_id": "ABP", "location_id": "1308", "path": "ARTICLE 13 › SECTION 1308", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/1308.md", "title": "Unclaimed wages"} -->
+# Abandoned Property Law § 1308 — Unclaimed wages
+
+[Abandoned Property Law](../README.md) › [Article 13 — Miscellaneous Unclaimed Property](README.md)
+
+```text
+  § 1308. Unclaimed wages.  1. Any money received from or for the
+account of an employer and held or owing by the department of labor for
+the payment of compensation for services theretofore performed by
+employees or former employees of such employer, which shall have
+remained unclaimed by such employee for a period of one year after
+receipt thereof by such department, shall be deemed abandoned property.
+  2. On or before the first day of May in each year the industrial
+commissioner shall pay over to the state comptroller for credit to the
+abandoned property fund all such property which shall have become
+abandoned prior to the first day of the preceding month.
+  3. Such payment to the comptroller shall be accompanied by a statement
+setting forth:
+  (a) The name and last known address of each employee entitled to such
+abandoned property and the amount to which such employee is entitled.
+  (b) The name of the employer and his or its last known address.
+  (c) The period of employment during which such salary or wages
+accrued.
+  (d) Such other identifying information as the state comptroller may
+require.
+```

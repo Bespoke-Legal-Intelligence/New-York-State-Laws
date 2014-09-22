@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "General City Law § 18-C", "kind": "section", "law_id": "GCT", "location_id": "18-C", "path": "ARTICLE 2 › SECTION 18-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/18-C.md", "title": "The common council in all cities of the third class shall have the power, upon application, in writing, of the property owners, owning at..."} -->
+# General City Law § 18-C — The common council in all cities of the third class shall have the power, upon application, in writing, of the property owners, owning at...
+
+[General City Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 18-c. The common council in all cities of the third class shall have
+the power, upon application, in writing, of the property owners, owning
+at least two-thirds of the number of feet fronting or abutting upon the
+street and along the line of any proposed improvement for the
+construction of an improved system of street lighting, to establish such
+special lighting district or districts for the proposed system of street
+lighting, and from time to time may alter or extend the same, with full
+power to order such construction and installation and to enter into a
+contract for lighting in such district or districts so established or
+extended as they may deem proper or expedient.
+  The amount of any such contract that may be entered into for such
+special lighting, pursuant to the provisions of this act, shall be
+assessed, levied and collected upon and between the taxable property in
+said city and the district or districts respectively, in the same manner
+and by the same officers as city taxes, charges or expenses for said
+city are now assessed, levied and collected.
+  The common council shall, by ordinance, apportion the expenses that
+shall be borne by the property fronting or abutting upon the street and
+along the line of the proposed system or systems, and the city at large;
+but in no event shall the property fronting or abutting upon the street
+or streets along the line of the proposed system or systems be charged
+less than fifty per centum for such charges or expenses, nor more than
+the per centum specified in the application and agreed to by the
+property owners.
+```

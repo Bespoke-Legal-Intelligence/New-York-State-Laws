@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 99", "kind": "section", "law_id": "LIE", "location_id": "99", "path": "ARTICLE 4 › SECTION 99", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/99.md", "title": "Payment of uncontested claims"} -->
+# Lien Law § 99 — Payment of uncontested claims
+
+[Lien Law](../README.md) › [Article 4 — Liens On Vessels and Enforcement Thereof](README.md)
+
+```text
+  § 99. Payment of uncontested claims. Any uncontested claims, entitled
+to priority of payment over the claims which are contested, shall, on
+motion of the parties interested, be paid with costs, in the order of
+their respective priorities, without awaiting the determination of such
+contest. If at any time it is made to appear that after the payment of
+all prior uncontested claims and their respective costs, and after
+deducting an amount sufficient to pay all prior contested claims and
+costs, that there remains a surplus of proceeds applicable to the
+payment of any subsequent uncontested claims, such claims may on notice
+to all the parties interested be paid out of the surplus with costs,
+without awaiting the determination of such contest.
+```

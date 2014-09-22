@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 196", "kind": "section", "law_id": "COM", "location_id": "196", "path": "ARTICLE 7 › SECTION 196", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/196.md", "title": "Evaluation"} -->
+# Economic Development Law § 196 — Evaluation
+
+[Economic Development Law](../README.md) › [Article 7 — Industrial Effectiveness Program](README.md)
+
+```text
+  § 196. Evaluation. 1. The commissioner shall submit to the director of
+the budget, the chairperson of the senate finance committee and the
+chairperson of the assembly ways and means committee an evaluation of
+the success of the industrial effectiveness program prepared by an
+entity independent of the department. Such evaluation shall determine
+whether the services provided have helped client firms to succeed, based
+on a comparison of the performance of client firms to the norms of their
+specific industry, and shall assess the effect, if any, of the program
+on the continued location and growth of industrial firms within the
+state. Such an evaluation shall be submitted by September first, two
+thousand five and by September first every four years thereafter.
+  2. Between evaluation due dates, the commissioner shall maintain the
+necessary records and data required to satisfy such evaluation
+requirements and to satisfy information requests received from the
+director of the budget, the chairperson of the senate finance committee
+and the chairperson of the assembly ways and means committee between
+such evaluation due dates.
+```

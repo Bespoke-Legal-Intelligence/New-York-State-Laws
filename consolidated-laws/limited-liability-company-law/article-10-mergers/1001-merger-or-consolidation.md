@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 1001", "kind": "section", "law_id": "LLC", "location_id": "1001", "path": "ARTICLE 10 › SECTION 1001", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/1001.md", "title": "Merger or consolidation"} -->
+# Limited Liability Company Law § 1001 — Merger or consolidation
+
+[Limited Liability Company Law](../README.md) › [Article 10 — Mergers](README.md)
+
+```text
+  § 1001. Merger or consolidation. (a) As used in this article, "merger"
+means a procedure in which two or more limited liability companies or
+other business entities merge into a single limited liability company or
+other business entity that shall be one of the constituent limited
+liability companies or other business entities, and "consolidation"
+means a procedure in which two or more limited liability companies or
+other business entities consolidate into a single limited liability
+company or other business entity that shall be a new limited liability
+company or other business entity to be formed pursuant to the
+consolidation.
+  (b) Pursuant to an agreement of merger or consolidation and to the
+extent not expressly prohibited by law, a domestic limited liability
+company may merge or consolidate with or into one or more domestic
+limited liability companies or other business entities formed or
+organized under the laws of this state or any other state or the United
+States or any foreign country or other foreign jurisdiction, with such
+domestic limited liability company or other business entity as the
+agreement shall provide being the surviving or resulting domestic
+limited liability company or other business entity.
+```

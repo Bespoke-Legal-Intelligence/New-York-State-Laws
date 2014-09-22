@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 7-0107", "kind": "section", "law_id": "ENV", "location_id": "7-0107", "path": "ARTICLE 7 › SECTION 7-0107", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/7-0107.md", "title": "General functions, powers and duties"} -->
+# Environmental Conservation Law § 7-0107 — General functions, powers and duties
+
+[Environmental Conservation Law](../README.md) › [Article 7 — Council of Environmental Advisers](README.md)
+
+```text
+§ 7-0107. General functions, powers and duties.
+  1. In providing counsel to the Governor on environmental policy
+matters, the council shall:
+  a. Advise the Governor on comprehensive environmental management
+policy for the state.
+  b. At the request of the Governor, provide an overview in both the
+public and private sector on matters affecting the environment, giving
+its judgment on specific matters referred to it.
+  c. Develop or cause to be developed guidelines for weighing the
+complex interrelationships between environmental quality, economic
+development, and the growing population associated with economic growth.
+  d. Study and from time to time report to the Governor on environmental
+conditions and trends in the state.
+  e. Recommend state environmental policies, including legislation for
+implementation thereof, to improve the functioning of the state and the
+environment of the state.
+  2. To assist in carrying out the aforementioned functions as provided
+in this section, the council may:
+  a. Request and shall receive from any court, department, division,
+board, bureau, commission or agency of the state or any political
+subdivision thereof, such assistance as will enable it properly to carry
+out its powers and duties under this section.
+  b. Make or recommend such special environmental studies as it deems
+appropriate or desirable.
+  c. Hold public and private hearings for specified purposes, take
+testimony, subpoena witnesses, and require production of books, records,
+and papers.
+  d. Report its findings to the Governor.
+```

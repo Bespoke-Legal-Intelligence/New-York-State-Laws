@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Xv, § 3", "kind": "section", "law_id": "CNS", "location_id": "A15S3", "path": "ARTICLE XV › SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A15S3.md", "title": "No tolls to be imposed; contracts for work and materials; no            extra compensation"} -->
+# New York State Constitution, Article Xv, § 3 — No tolls to be imposed; contracts for work and materials; no            extra compensation
+
+[New York State Constitution](../README.md) › [Article XV — Canals](README.md)
+
+```text
+  § 3. All boats navigating the canals and the owners and masters
+thereof, shall be subject to such laws and regulations as have been or
+may hereafter be enacted concerning the navigation of the canals. The
+legislature shall annually make provision for the expenses of the
+superintendence and repairs of the canals, and may provide for the
+improvement of the canals in such manner as shall be provided by law
+notwithstanding the creation of a special revenue fund as provided in
+this section. All contracts for work or materials on any canal shall be
+made with the persons who shall offer to do or provide the same at the
+lowest responsible price, with adequate security for their performance
+as provided by law.
+  All funds that may be derived from any sale or other disposition of
+any barge canal lands, barge canal terminals, barge canal terminal lands
+or other canal lands and appertaining structures and any other funds
+collected for the use of the canals or canal lands shall be paid into a
+special revenue fund of the treasury. Such funds shall only be expended
+for the maintenance, construction, reconstruction, development or
+promotion of the canal, canal lands, or lands adjacent to the canal as
+provided by law.
+```

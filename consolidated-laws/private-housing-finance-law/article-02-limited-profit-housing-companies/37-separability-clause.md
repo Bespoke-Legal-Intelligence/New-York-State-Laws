@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 37", "kind": "section", "law_id": "PVH", "location_id": "37", "path": "ARTICLE 2 › SECTION 37", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/37.md", "title": "Separability clause"} -->
+# Private Housing Finance Law § 37 — Separability clause
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 37. Separability clause. 1. Except as specifically provided in this
+article, nothing contained therein shall be deemed to limit or restrict
+any power or authority granted to banking institutions, foundations,
+labor unions, veterans' organizations, or insurance companies or to any
+other corporation or to any fiduciary by any other provision of law
+heretofore or hereafter enacted.
+  2. If any clause, sentence, paragraph, section or part of this article
+shall be adjudged by any court of competent jurisdiction to be invalid
+such judgment shall not affect, impair or invalidate the remainder
+thereof, but shall be confined in its operation to the clause, sentence,
+paragraph, section or part thereof directly involved in the controversy
+in which such judgment shall have been rendered.
+```

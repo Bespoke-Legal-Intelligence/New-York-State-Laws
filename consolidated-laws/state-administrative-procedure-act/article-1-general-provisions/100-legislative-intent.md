@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "State Administrative Procedure Act § 100", "kind": "section", "law_id": "SAP", "location_id": "100", "path": "ARTICLE 1 › SECTION 100", "repealed": false, "repealed_date": null, "source": "nys-laws:SAP/100.md", "title": "Legislative intent"} -->
+# State Administrative Procedure Act § 100 — Legislative intent
+
+[State Administrative Procedure Act](../README.md) › [Article 1 — General Provisions](README.md)
+
+```text
+  § 100. Legislative intent. The legislature hereby finds and declares
+that the administrative rulemaking, adjudicatory and licensing processes
+among the agencies of state government are inconsistent, lack uniformity
+and create misunderstanding by the public. In order to provide the
+people with simple, uniform administrative procedures, an administrative
+procedure act is hereby enacted. This act guarantees that the actions of
+administrative agencies conform with sound standards developed in this
+state and nation since their founding through constitutional, statutory
+and case law. It insures that equitable practices will be provided to
+meet the public interest.
+  It is further found that in the public interest it is desirable for
+state agencies to meet the requirements imposed by the administrative
+procedure act.  Those agencies which will not have to conform to this
+act have been exempted from the act, either specifically by name or
+impliedly by definition.
+```

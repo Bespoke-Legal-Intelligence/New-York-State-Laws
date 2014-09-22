@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 95", "kind": "section", "law_id": "ABC", "location_id": "95", "path": "ARTICLE 7 › SECTION 95", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/95.md", "title": "Drug store permit"} -->
+# Alcoholic Beverage Control Law § 95 — Drug store permit
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 7 — Special Permits](README.md)
+
+```text
+  § 95. Drug store permit. The liquor authority may issue a drug store
+permit to sell liquor and/or wine for off-premises consumption pursuant
+to this section.
+  1. Application must be made upon a form to be provided by the liquor
+authority and shall be filed with the appropriate board. Section
+fifty-four shall control so far as applicable the procedure in
+connection with such application.
+  2. Such permit shall authorize the permittee to sell liquor or wine in
+the original sealed package only upon a written prescription of a
+regularly licensed physician in a quantity not exceeding one pint of
+liquor and one quart of wine; such prescription shall state the date
+thereof; the name of the person for whom prescribed and shall be
+preserved by the vendor and pasted in a book kept for the purpose and be
+but once filled. Such package shall not be opened after sale nor its
+contents consumed on the premises where sold.
+  3. No such permittee shall have, keep or offer for sale, or sell in
+the premises designated in the permit any liquor which is not of the
+strength, quality and purity prescribed in the latest United States
+Pharmacopoeia.
+  4. Such permit shall be issued for a calendar year and the fee
+therefor shall be at the rate of fifty-one dollars per year for each
+place where such traffic is carried on except that where application
+shall be filed after July first in any year the fee to be paid shall be
+the sum of twenty-six dollars for the balance of such year.
+```

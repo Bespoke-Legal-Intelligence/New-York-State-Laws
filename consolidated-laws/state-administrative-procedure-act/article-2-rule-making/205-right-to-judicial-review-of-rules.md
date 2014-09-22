@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "State Administrative Procedure Act § 205", "kind": "section", "law_id": "SAP", "location_id": "205", "path": "ARTICLE 2 › SECTION 205", "repealed": false, "repealed_date": null, "source": "nys-laws:SAP/205.md", "title": "Right to judicial review of rules"} -->
+# State Administrative Procedure Act § 205 — Right to judicial review of rules
+
+[State Administrative Procedure Act](../README.md) › [Article 2 — Rule Making](README.md)
+
+```text
+  § 205. Right to judicial review of rules. Unless an exclusive
+procedure or remedy is provided by law, judicial review of rules may be
+had upon petition presented under article seventy-eight of the civil
+practice law and rules, or in an action for a declaratory judgment where
+applicable and proper.  The agency shall be made a party to the
+proceedings. Such a special proceeding or action may not be maintained
+unless the petitioner has first requested the agency to pass upon the
+validity or applicability of the rule in question and action has been
+taken upon such a request or more than thirty days has elapsed since
+such request has been filed and no final action has been taken thereon
+or the agency has not provided for the issuance of such declaratory
+rulings under section two hundred four. Unless the agency acts upon such
+request within thirty days of its filing, such request shall be deemed
+to have been denied. Nothing in this section shall be construed to grant
+or deny to any person standing to petition under article seventy-eight
+of the civil practice law and rules or to bring an action for a
+declaratory judgment or to prohibit the determination of the validity or
+applicability of the rule in any other action or proceeding in which its
+invalidity or inapplicability is properly asserted.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Election Law § 5-216", "kind": "section", "law_id": "ELN", "location_id": "5-216", "path": "ARTICLE 5 › TITLE 2 › SECTION 5-216", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/5-216.md", "title": "Registration; assistance to applicant"} -->
+# Election Law § 5-216 — Registration; assistance to applicant
+
+[Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 2 — Registration and Enrollment](README.md)
+
+```text
+  § 5-216. Registration; assistance to applicant. 1. If any person
+entitled to be registered shall declare to the board of inspectors that
+he is unable to read or write by reason of illiteracy or disability, the
+board shall provide assistance in registering. Such person shall, if
+unable to write, be excused from signing and the board shall enter the
+words "unable to sign" in each space reserved for his signature. The
+board shall also enter in the remarks space on the face of the
+registration records the reason for his inability to write his name.
+  2. If the applicant be a person who does not speak the English
+language, he may be assisted by a relative who can interpret for him. If
+the applicant registers with this assistance the board shall put in the
+remarks space of the registration forms the name and address, and the
+relationship, of the person so doing the interpreting and the
+interpreter shall sign his name in the remarks space.
+  3. If the registrant needs assistance with registration, he may also
+have the same assistance in order to mark the enrollment blank.
+```

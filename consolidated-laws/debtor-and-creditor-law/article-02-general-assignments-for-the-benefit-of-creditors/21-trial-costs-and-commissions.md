@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 21", "kind": "section", "law_id": "DCD", "location_id": "21", "path": "ARTICLE 2 › SECTION 21", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/21.md", "title": "Trial, costs and commissions"} -->
+# Debtor and Creditor Law § 21 — Trial, costs and commissions
+
+[Debtor and Creditor Law](../README.md) › [Article 2 — General Assignments For the Benefit of Creditors](README.md)
+
+```text
+  § 21. Trial, costs and commissions. The court, in its discretion, may
+order a trial by jury or before a referee, of any disputed claim or
+matter arising under the provisions of this article. It may in its
+discretion award reasonable counsel fees and costs, determine which
+party shall pay the same, and make all necessary rules to govern the
+practice under this article. The assignee or assignees named in any
+assignment shall receive for his or their services a commission of not
+to exceed five per centum on the whole sum which will have come into his
+or their hands, except in a case where such percentage shall not equal
+two hundred dollars in which case the court may grant such a sum which
+with such percentage shall equal two hundred dollars. If the assignee
+continues the business the court may allow him additional compensation
+equal to what he might be allowed as hereinabove provided.
+  The actual and necessary expenses incurred by the assignee in the
+administration of the estate shall be reported in detail, under oath,
+and examined and approved or disapproved by the court. If approved they
+shall be paid out of the estate.
+```

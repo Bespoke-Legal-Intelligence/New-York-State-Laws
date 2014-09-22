@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2602", "kind": "section", "law_id": "SCP", "location_id": "2602", "path": "ARTICLE 26 › SECTION 2602", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2602.md", "title": "Terms of courts and powers of judges in counties having more than one judge of the surrogate's court"} -->
+# Surrogate's Court Procedure Act § 2602 — Terms of courts and powers of judges in counties having more than one judge of the surrogate's court
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 26 — The Surrogate's Court and Its Officers](README.md)
+
+```text
+§ 2602. Terms of courts and powers of judges in counties having more
+          than one judge of the surrogate's court.
+  1. In any county having more than 1 judge of the surrogate's court
+  (a) all of the powers conferred by law upon a judge of the surrogate's
+court may be exercised by either of such judges;
+  (b) the disability of a judge or his illness or absence from the
+county after his decision upon any matter in an action or proceeding
+before him shall not affect the validity of such decision and the other
+judge may give effect thereto and make and sign an appropriate order or
+decree based thereon having the same force and effect as if made by the
+judge making the decision.
+  2. In any such county the judges must
+  (a) appoint and may alter the times of holding terms and sessions of
+that court for the trial of proceedings in which there is a right to
+trial by jury;
+  (b) appoint and may alter the times of holding terms and sessions of
+that court for the disposition of all other business;
+  (c) prescribe the duration of such terms and assign the judge to
+preside and attend at the terms and sessions so appointed.
+  3. In the county of New York the appointment of such terms must be
+published in two newspapers published in the city of New York during or
+before the first week in January in each year.
+```

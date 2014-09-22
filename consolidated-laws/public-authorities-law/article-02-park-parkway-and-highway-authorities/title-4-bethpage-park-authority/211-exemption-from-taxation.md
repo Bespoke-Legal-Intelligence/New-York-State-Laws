@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 211", "kind": "section", "law_id": "PBA", "location_id": "211", "path": "ARTICLE 2 › TITLE 4 › SECTION 211", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/211.md", "title": "Exemption from taxation"} -->
+# Public Authorities Law § 211 — Exemption from taxation
+
+[Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 4 — Bethpage Park Authority](README.md)
+
+```text
+  * § 211. Exemption from taxation. The construction, maintenance and
+operation of Bethpage park is in all respects for the benefit of the
+people of the state of New York for the increase of their pleasure,
+convenience and welfare and for the improvement of their health, and the
+authority shall be regarded as performing a governmental function in
+carrying out its corporate purpose and shall be required to pay no taxes
+or assessments of any kind whatsoever upon any of the property acquired
+by it, which said property shall be exempt from taxation so long as the
+same is owned or possessed by the authority, or upon its activities in
+the operation and maintenance of Bethpage park or upon any revenues or
+other income received by it, and any mortgage of real property executed,
+given or made by the authority shall be exempt from any tax imposed on
+the recording thereof and any person or corporation owning any debt or
+obligation of the authority secured by any mortgage of its real property
+shall be exempt from any tax on the recording of such mortgage. Nothing
+in this section shall be construed, however, to impress any trust upon
+such property as such or to limit the absolute character of any title
+which may be derived through the authority by sale or the foreclosure of
+any lien or mortgage thereon.
+  * NB (Abolished in 1975)
+```

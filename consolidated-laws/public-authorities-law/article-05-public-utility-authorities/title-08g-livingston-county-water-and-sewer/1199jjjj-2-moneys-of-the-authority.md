@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1199-JJJJ*2", "kind": "section", "law_id": "PBA", "location_id": "1199-JJJJ*2", "path": "ARTICLE 5 › TITLE 8-G* › SECTION 1199-JJJJ*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1199-JJJJ_2.md", "title": "Moneys of the authority"} -->
+# Public Authorities Law § 1199-JJJJ*2 — Moneys of the authority
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 8-G* — Livingston County Water and Sewer Authority](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1199-jjjj. Moneys of the authority. All monies of the authority
+from whatever source derived shall be paid to the treasurer of the
+authority and shall be deposited forthwith in a bank or banks designated
+by the authority. The monies in such accounts shall be paid out on check
+of the treasurer upon requisition by such person or persons as the
+authority may authorize to make such requisitions. All deposits of such
+monies shall be secured by obligations of the United States or of the
+state or of any municipality of a market value equal at all times to the
+amount on deposit and all banks and trust companies are authorized to
+give such security for such deposits. To the extent practicable,
+consistent with the cash requirements of the authority, all such monies
+shall be deposited in interest bearing accounts. The authority shall
+have power, notwithstanding the provisions of this section, to contract
+with the holders of any bonds as to the custody, collection, security,
+investment and payment of any monies of the authority or any monies held
+in trust or otherwise for the payment of bonds or any way to secure
+bonds, and carry out any such contract notwithstanding that such
+contract may be inconsistent with the provisions of this section. Monies
+held in trust or otherwise for the payment of bonds or in any way to
+secure bonds and deposits of such monies may be secured in the same
+manner as monies of the authority and all banks and trust companies are
+authorized to give such security for such deposits. Any monies of the
+authority not required for immediate use or disbursement may, at the
+discretion of the authority, be invested in those obligations specified
+pursuant to the provision of section ninety-eight-a of the state finance
+law. Subject to the provisions of any contract with bond holders and
+with the approval of the state comptroller, the authority shall
+prescribe a system of accounts.
+  * NB There are 2 § 1199-jjjj's
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 333-A", "kind": "section", "law_id": "RPP", "location_id": "333-A", "path": "ARTICLE 9 › SECTION 333-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/333-A.md", "title": "Same; maps to be filed"} -->
+# Real Property Law § 333-A — Same; maps to be filed
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 333-a. Same; maps to be filed.  No conveyance of real property or
+other document relating to real property, executed on or after July
+first, nineteen hundred thirty-one, which contains a recital of or a
+reference to a map made on or after that date or which has thereunto
+attached such a map, shall be received for record or recorded by such
+recording officer unless and until a duplicate of such map, prepared in
+the same manner as prescribed for the preparation of maps in section
+three hundred and thirty-four of this chapter, shall be filed in the
+office of such recording officer and no map, attached to any conveyance
+or other document relating to real property, shall exceed the standard
+legal cap size, except that in the county of Putnam the size shall be
+not less than twenty by twenty inches and not more than thirty-six by
+forty-eight inches in size and that in the counties of Westchester and
+Dutchess the size shall not be more than thirty-six by forty-eight
+inches. This section shall not apply to the counties of New York, Kings,
+Queens, Nassau, Suffolk, Bronx, Onondaga, Erie, Monroe or Richmond.
+  Notwithstanding any of the provisions of this section a conveyance of
+real property or other document relating to real property shall not be
+invalid or void for failure to file therewith any map referred to in
+such conveyance or document.
+```

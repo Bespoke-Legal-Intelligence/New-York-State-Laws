@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1207-G", "kind": "section", "law_id": "PBA", "location_id": "1207-G", "path": "ARTICLE 5 › TITLE 9 › SECTION 1207-G", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1207-G.md", "title": "Exemptions from taxation"} -->
+# Public Authorities Law § 1207-G — Exemptions from taxation
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 9 — New York City Transit Authority](README.md)
+
+```text
+  § 1207-g. Exemptions from taxation. 1. It is hereby found, determined
+and declared that the authority and the carrying out of its corporate
+purposes is in all respects for the benefit of the people of the state
+of New York, and the authority will be performing an essential
+governmental function in the exercise of the powers conferred by this
+title, and the state of New York covenants with the purchasers and with
+all subsequent holders and transferees of bonds and notes of the
+authority issued pursuant to this title, in consideration of the
+acceptance of any payments for such bonds and notes, that such bonds and
+notes of the authority issued pursuant to this title and the income
+therefrom, and all moneys, funds, fares and other revenues pledged to
+pay or secure the payment of such bonds and notes, shall at all times be
+free from taxation except for estate taxes and taxes on transfers by or
+in contemplation of death.
+  2. Nothing herein shall be construed to repeal or supersede any tax
+exemptions heretofore or hereafter granted by general or other laws.
+```

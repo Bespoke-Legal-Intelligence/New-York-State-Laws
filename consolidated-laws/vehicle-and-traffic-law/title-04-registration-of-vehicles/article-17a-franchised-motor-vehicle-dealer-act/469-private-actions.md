@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 469", "kind": "section", "law_id": "VAT", "location_id": "469", "path": "TITLE 4 › ARTICLE 17-A › SECTION 469", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/469.md", "title": "Private actions"} -->
+# Vehicle and Traffic Law § 469 — Private actions
+
+[Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 17-A — Franchised Motor Vehicle Dealer Act](README.md)
+
+```text
+  § 469. Private actions. 1. A franchised motor vehicle dealer who is or
+may be aggrieved by a violation of this article shall be entitled to
+request an adjudicatory proceeding, as prescribed in section four
+hundred seventy-one-a of this article, or in lieu thereof, sue for, and
+have, injunctive relief and damages in any court of the state having
+jurisdiction over the parties. In any such judicial action or
+proceeding, the court may award necessary costs and disbursements plus a
+reasonable attorney's fee to any party.
+  2. Whenever a franchise provides for the use of arbitration to resolve
+a controversy arising out of or relating to such contract, arbitration
+may be used to settle such controversy only if after such controversy
+arises all parties to such controversy consent in writing to use
+arbitration to settle such controversy.
+```

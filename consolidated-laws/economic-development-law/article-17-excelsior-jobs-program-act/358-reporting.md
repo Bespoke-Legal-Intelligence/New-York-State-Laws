@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 358", "kind": "section", "law_id": "COM", "location_id": "358", "path": "ARTICLE 17 › SECTION 358", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/358.md", "title": "Reporting"} -->
+# Economic Development Law § 358 — Reporting
+
+[Economic Development Law](../README.md) › [Article 17 — Excelsior Jobs Program Act](README.md)
+
+```text
+  § 358. Reporting. 1. Each participant must submit a performance report
+annually, in such form as the commissioner may require, within thirty
+days of the end of their taxable year.
+  2. The commissioner shall prepare on a quarterly basis a program
+report for posting on the department's website. The first report will be
+due June thirtieth, two thousand eleven, and every three months
+thereafter.  Such report shall include, but not be limited to, the
+following: number of applicants; number of participants approved; names
+of participants; total amount of benefits certified; benefits received
+per participant; total number of net new jobs created; number of net new
+jobs created per participant; aggregate new investment in the state; new
+investment per participant; and such other information as the
+commissioner determines.
+```

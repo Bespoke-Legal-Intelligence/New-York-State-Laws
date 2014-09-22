@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6636", "kind": "section", "law_id": "EDN", "location_id": "6636", "path": "TITLE 8 › ARTICLE 134 › SECTION 6636", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6636.md", "title": "Exempt persons"} -->
+# Education Law § 6636 — Exempt persons
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
+
+```text
+  * § 6636. Exempt persons. This article shall not prohibit:
+  1. The practice of perfusion by any student who is engaged in clinical
+training in a general hospital licensed pursuant to article twenty-eight
+of the public health law or during the transport of patients or organs
+supported by extracorporeal or intracorporeal equipment and who is
+enrolled in a perfusion program approved by the department, provided
+such practice is limited to such clinical training which shall be
+carried out under the direct supervision of a licensed perfusionist and
+pursuant to the order and direction of a physician; or
+  2. The performance of any of the tasks or responsibilities included in
+the definition of perfusion by any other person licensed under this
+title, provided that such tasks or responsibilities are authorized by
+the article governing the profession pursuant to which said person is
+licensed; or
+  3. The practice of perfusion by any legally qualified perfusionist of
+any other state or territory who is serving in the armed forces or the
+public health service of the United States or who is employed by the
+veterans administration, while engaged in the performance of his or her
+duties.
+  * NB Effective October 21, 2016
+```

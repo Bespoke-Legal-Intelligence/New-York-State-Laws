@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4414", "kind": "section", "law_id": "PBH", "location_id": "4414", "path": "ARTICLE 44 › SECTION 4414", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4414.md", "title": "Health care compliance programs"} -->
+# Public Health Law § 4414 — Health care compliance programs
+
+[Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
+
+```text
+  § 4414. Health care compliance programs. The commissioner of health,
+after consultation with the superintendent of financial services, shall
+by regulation establish standards and criteria for compliance programs
+to be implemented by persons providing coverage or coverage and service
+pursuant to any public or governmentally-sponsored or supported plan for
+health care coverage or services. Such regulations shall include
+provisions for the design and implementation of programs or processes to
+prevent, detect and address instances of fraud and abuse. Such
+regulations shall take into account the nature of the entity's business
+and the size of its enrolled population. The commissioner of health and
+the superintendent of financial services shall accept programs and
+processes implemented pursuant to section four hundred nine of the
+insurance law as satisfying the obligations of this section and the
+regulations promulgated thereunder when such programs and processes
+incorporate the objectives contemplated by this section.
+```

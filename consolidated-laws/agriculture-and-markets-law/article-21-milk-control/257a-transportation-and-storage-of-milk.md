@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 257-A", "kind": "section", "law_id": "AGM", "location_id": "257-A", "path": "ARTICLE 21 › SECTION 257-A", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/257-A.md", "title": "Transportation and storage of milk"} -->
+# Agriculture and Markets Law § 257-A — Transportation and storage of milk
+
+[Agriculture and Markets Law](../README.md) › [Article 21 — Milk Control](README.md)
+
+```text
+  § 257-a. Transportation and storage of milk. 1. Any vehicle
+transporting pasteurized milk for retail sale in the same container
+shall be transported in a vehicle capable of maintaining milk at a
+temperature of at least forty-five degrees fahrenheit or cooler.
+  2. It shall be unlawful for milk excluding UHT/aseptic packaged milk
+and milk products to be shipped or stored in the same enclosed
+refrigerated compartment which contains any hazardous or toxic
+chemicals, or solid waste.  "Toxic and hazardous chemicals" shall not
+mean common household products normally sold in grocery stores and
+supermarkets or those products normally provided to commercial
+establishments by a food service company, that are packaged and handled
+in a manner which avoids contamination of milk or milk products. "Solid
+waste" shall not mean any packaging that is approved for reuse such as
+returnable milk bottles.
+  3. It shall be the responsibility of any milk dealer who sells milk or
+dairy products intended for resale to another distributor to obtain
+certification from such distributor that the requirements for proper
+refrigeration transportation as provided in this section are met.
+  4. The commissioner may exempt persons who purchase or handle milk in
+a total quantity not exceeding twenty gallons per day from the
+requirements of this section.
+```

@@ -1,0 +1,54 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 571", "kind": "section", "law_id": "PBH", "location_id": "571", "path": "ARTICLE 5 › TITLE 5 › SECTION 571", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/571.md", "title": "Definitions"} -->
+# Public Health Law § 571 — Definitions
+
+[Public Health Law](../../README.md) › [Article 5 — Laboratories](../README.md) › [Title 5 — Clinical Laboratory and Blood Banking Services](README.md)
+
+```text
+  § 571. Definitions. As used in this title:
+  1. "Clinical laboratory" means a facility for the microbiological,
+immunological, chemical, hematological, biophysical, cytological,
+pathological, genetic, or other examination of materials derived from
+the human body, for the purpose of obtaining information for the
+diagnosis, prevention, or treatment of disease or the assessment of a
+health condition or for identification purposes. Such examinations shall
+include procedures to determine, measure or otherwise describe the
+presence or absence of various substances, components or organisms in
+the human body. The term clinical laboratory shall not include any
+facility or activity specifically excluded by section five hundred
+seventy-nine of this title.
+  2. "Blood bank" means a facility for the collection, processing,
+storage and/or distribution of human blood, blood components or blood
+derivatives.
+  3. "Reference system" means a system of assessment of methods,
+procedures and materials of clinical laboratories and blood banks,
+including, but not limited to, ongoing validation which may include
+direct testing and experimentation by the department of such methods,
+procedures and materials, the distribution of standards and guidelines,
+inspection of facilities, periodic submission of test specimens for
+examination, and research conducted by the department that involves the
+study of new or existing methods, procedures and materials related to
+the quality of clinical laboratory medicine.
+  4. "Director" means the person who is responsible for administration
+of the technical and scientific operation of a clinical laboratory or
+blood bank, including supervision of procedures and reporting of
+findings of tests.
+  5. "Waived test" means a clinical laboratory test that has been
+designated as a waived test or is otherwise subject to certificate of
+waiver requirements pursuant to the federal clinical laboratory
+improvement act of nineteen hundred eighty-eight, as amended.
+  6. "Qualified health care professional" means a physician, dentist,
+podiatrist, optometrist performing a clinical laboratory test that does
+not use an invasive modality as defined in section seventy-one hundred
+one of the education law, physician assistant, specialist assistant,
+nurse practitioner, or midwife, who is licensed and registered with the
+state education department.
+  7. "Provider-performed microscopy procedure" means a procedure
+performed by a qualified health care professional acting within the
+scope of his or her licensed profession, which has been designated as a
+provider-performed microscopy procedure pursuant to the federal clinical
+laboratory improvement act of nineteen hundred eighty-eight, as amended.
+  8. "Laboratory test registrant" means a person, partnership,
+corporation, or other entity holding a valid certificate of registration
+to perform one or more waived tests or provider-performed microscopy
+procedures pursuant to section five hundred seventy-nine of this title.
+```

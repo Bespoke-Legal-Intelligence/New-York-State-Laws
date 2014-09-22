@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Legislative Law § 34", "kind": "section", "law_id": "LEG", "location_id": "34", "path": "ARTICLE 2-A › SECTION 34", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/34.md", "title": "Definitions"} -->
+# Legislative Law § 34 — Definitions
+
+[Legislative Law](../README.md) › [Article 2-A — Procedure For Convening Extraordinary Sessions of the Legislature By Petition](README.md)
+
+```text
+  § 34. Definitions. The words and phrases used in this article shall
+have the following meanings:
+  a. "House" means the senate or assembly of the state of New York.
+  b. "Initiating house" means the house wherein a request is filed with
+the secretary or clerk, as the case may be, under the provisions of
+subdivision a of section thirty-five of this article.
+  c. "Petition" means a document distributed by the secretary or clerk
+of the initiating house to the members thereof transmitting the request
+of a member or members of such house for the convening of an
+extraordinary session.
+  d. "Receiving house" means the house to which is transmitted a
+certified copy of a petition timely executed by two-thirds of the
+members of the initiating house.
+  e. "Concurring petition" means a document distributed by the secretary
+or clerk of the receiving house to the members thereof upon receipt from
+the clerk or secretary of the initiating house of a certified copy of a
+petition timely executed by two-thirds of the members of the initiating
+house duly requesting the convening of an extraordinary session. A
+concurring petition shall transmit such request in language identical to
+that contained in such certified copy.
+  f. "Joint petition" means a document distributed jointly by the
+secretary and clerk to the members of both houses, transmitting the
+joint written request of at least one member of each house for the
+convening of an extraordinary session.
+  g. "Perfected concurring petition" means a concurring petition timely
+executed by two-thirds of the members of the receiving house.
+  h. "Perfected joint petition" means a joint petition timely executed
+by two-thirds of the members of each house.
+```

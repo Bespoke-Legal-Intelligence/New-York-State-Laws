@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 422", "kind": "section", "law_id": "TRA", "location_id": "422", "path": "ARTICLE 17 › SECTION 422", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/422.md", "title": "Powers and duties of the commissioner"} -->
+# Transportation Law § 422 — Powers and duties of the commissioner
+
+[Transportation Law](../README.md) › [Article 17 — Implementation of the Rebuild New York Through Transportation Infrastructure Renewal Bond Act of 1983](README.md)
+
+```text
+  § 422. Powers and duties of the commissioner. The commissioner is
+hereby authorized:
+  1. To provide for the accomplishment of any authorized transportation
+infrastructure renewal project unless otherwise provided for in law.
+  2. To provide for the accomplishment of any authorized municipal
+transportation infrastructure renewal project unless otherwise provided
+for in law, within the limitations of appropriations available therefor,
+pursuant to contract between the commissioner and the municipality
+undertaking such project.
+  3. To utilize federal moneys available or which may become available
+to the state, or to a municipality in the form of federal assistance,
+for the purposes of effectuating the provisions of this article.
+  4. To enter into contracts with any person, firm, corporation or
+agency, private or governmental, for the purpose of effectuating the
+provisions of this article.
+  5. To prescribe such rules and regulations as he may deem appropriate
+to effectuate the provisions of this article, including but not limited
+to rules and regulations governing the form, content and submission of
+applications by municipalities for state financial assistance for
+municipal transportation infrastructure renewal projects.
+  6. To approve vouchers for the payment of state financial assistance
+to persons, firms, corporations or agencies, private and governmental,
+and municipalities pursuant to contracts for the accomplishment of
+municipal transportation infrastructure renewal projects.
+  7. To establish or cause to be established by the department of
+commerce a New York state content program which shall provide for
+notification to New York contractors, subcontractors and suppliers of
+opportunities to bid on contracts for projects financed under this
+article, and to promulgate procedures which will assure the compliance
+of such notification prior to awarding bids, and to require that
+contractors submit, as supplementary materials to their bids, documented
+evidence of their efforts to encourage the participation of New York
+suppliers and subcontractors on transportation infrastructure renewal
+projects financed pursuant to this article.
+  8. To perform such other and additional acts as he deems necessary or
+desirable to effectively carry out the provisions of this article.
+```

@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 860-H", "kind": "section", "law_id": "LAB", "location_id": "860-H", "path": "ARTICLE 25-A › SECTION 860-H", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/860-H.md", "title": "Civil penalty"} -->
+# Labor Law § 860-H — Civil penalty
+
+[Labor Law](../README.md) › [Article 25-A — New York State Worker Adjustment and Retraining Notification Act](README.md)
+
+```text
+  § 860-h. Civil penalty. 1. An employer who fails to give notice as
+required by paragraph (b) of subdivision one of section eight hundred
+sixty-b of this article is subject to a civil penalty of not more than
+five hundred dollars for each day of the employer's violation. The
+employer is not subject to a civil penalty under this section if the
+employer pays to all applicable employees the amounts for which the
+employer is liable under section eight hundred sixty-g within three
+weeks from the date the employer orders the mass layoff, relocation, or
+employment loss.
+  2. The total amount of penalties for which an employer may be liable
+under this section shall not exceed the maximum amount of penalties for
+which the employer may be liable under federal law for the same
+violation.
+  3. Any penalty amount paid by the employer under federal law shall be
+considered a payment made under this article.
+  4. If an employer proves to the satisfaction of the commissioner that
+the act or omission that violated this article was in good faith and
+that the employer had reasonable grounds for believing that the act or
+omission was not a violation of this article, the commissioner may in
+his or her discretion reduce the amount of the penalty provided for in
+this section. In determining the amount of such reduction, the
+commissioner shall consider (a) of the size of the employer; (b) the
+hardships imposed on employees by the violations; (c) any efforts by the
+employer to mitigate the violation; and (d) the grounds for the
+employer's belief.
+```

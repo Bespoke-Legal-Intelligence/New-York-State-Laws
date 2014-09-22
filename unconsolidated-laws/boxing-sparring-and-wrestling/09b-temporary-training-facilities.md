@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Boxing, Sparring and Wrestling § 9-B", "kind": "section", "law_id": "BSW", "location_id": "9-B", "path": "SECTION 9-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BSW/9-B.md", "title": "Temporary training facilities"} -->
+# Boxing, Sparring and Wrestling § 9-B — Temporary training facilities
+
+[Boxing, Sparring and Wrestling](README.md)
+
+```text
+  § 9-b. Temporary training facilities. Any training facility providing
+contact sparring established and maintained on a temporary basis for the
+purpose of preparing a professional boxer or for a specific boxing or
+sparring match or exhibition to be conducted, held or given within the
+state of New York shall be exempt from this act insofar as it concerns
+the licensing of such facilities if, in the judgement of the commission,
+establishment and maintenance of such facility will be consistent with
+the purposes and provisions of this chapter, the best interests of
+boxing generally, and the public interest, convenience or necessity.
+```

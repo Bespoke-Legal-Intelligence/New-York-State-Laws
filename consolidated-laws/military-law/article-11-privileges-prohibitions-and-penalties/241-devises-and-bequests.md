@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Military Law § 241", "kind": "section", "law_id": "MIL", "location_id": "241", "path": "ARTICLE 11 › SECTION 241", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/241.md", "title": "Devises and bequests"} -->
+# Military Law § 241 — Devises and bequests
+
+[Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
+
+```text
+  § 241. Devises and bequests.  Any unit of the organized militia may
+take by devise and bequest real and personal property for its uses and
+purposes as a military organization, and may hold, mortgage, sell or
+otherwise dispose of the same.  The title to such property shall vest in
+the commissioned officer or officers of the unit and if there be three
+or more of such officers the property shall be managed by their majority
+vote and disposed of by their two-thirds vote.  Organizations of the
+veterans of such units and/or their predecessor units in the organized
+militia, in cases where the designation of the corresponding unit in the
+organized militia has been changed by proper authority, incorporated
+under general laws or special charter of the state, as associations of
+the veterans of such units now or as heretofore constituted and
+designated and associations organized pursuant to section two hundred
+sixty of this chapter shall, in addition to the powers and authority
+heretofore granted, possess the same authority herein granted to each
+unit of the organized militia to take by devise and bequest real and
+personal property for the appropriate uses and purposes of such
+organizations and associations and may hold, mortgage, sell or otherwise
+dispose of the same, and use and apply the proceeds thereof and the
+income thereof to its appropriate purposes.  The title to such property
+shall vest in such corporations or associations and shall be managed
+and/or disposed of as provided in and by the constitution, by-laws,
+rules and regulations now in force or hereafter adopted in respect
+thereto.
+```

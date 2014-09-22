@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 235", "kind": "section", "law_id": "FCT", "location_id": "235", "path": "ARTICLE 2 › PART 3 › SECTION 235", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/235.md", "title": "Compensation and liability for support and care in counties within the city of New York"} -->
+# Family Court Act § 235 — Compensation and liability for support and care in counties within the city of New York
+
+[Family Court Act](../../README.md) › [Article 2 — Administration, Medical Examinations, Attorneys For Children, Auxiliary Services](../README.md) › [Part 3 — Medical Examinations and Treatment](README.md)
+
+```text
+  § 235. Compensation and liability for support and care in counties
+within the city of New York. (a) Upon the detention, placement or
+commitment of a child by the family court in a county within the city of
+New York to a public or private institution other than a shelter
+maintained and conducted by a society for the prevention of cruelty to
+children, the department of social services of the city of New York
+shall investigate the ability of the parent of the child, or other
+person legally chargeable, to contribute in whole or in part to the
+expense incurred by the city of New York on account of the maintenance
+of such child.
+  (b) If in the opinion of the department of social services such parent
+or legal custodian is able to contribute in whole or in part the
+commissioner of social services shall thereupon institute a proceeding
+in the family court to compel such parent or person legally chargeable
+to contribute such portion of such expense on account of maintenance of
+such child as shall be proper and just.
+```

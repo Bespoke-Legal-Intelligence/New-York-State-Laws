@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 125", "kind": "section", "law_id": "PML", "location_id": "125", "path": "ARTICLE 1 › SECTION 125", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/125.md", "title": "Pending actions or proceedings"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 125 — Pending actions or proceedings
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 1 — Supervision and Regulation](README.md)
+
+```text
+  § 125. Pending actions or proceedings. No action or proceeding pending
+at the time that this article shall take effect relating to the
+functions, powers and duties of the former division of the lottery and
+former racing and wagering board transferred pursuant to this article,
+brought by or against the former division of the lottery or former
+racing and wagering board, or the officers thereof, shall be affected by
+the transfer or assignment of functions, powers, obligations and duties
+from the former division of the lottery and former racing and wagering
+board to the commission, but the same may be prosecuted or defended in
+the name of the commission. In all such actions and proceedings, the
+commission, upon application to the court, shall be substituted as a
+party.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 429", "kind": "section", "law_id": "RCO", "location_id": "429", "path": "ARTICLE 20 › SECTION 429", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/429.md", "title": "Corporate meetings"} -->
+# Religious Corporations Law § 429 — Corporate meetings
+
+[Religious Corporations Law](../README.md) › [Article 20 — Assemblies of God Churches](README.md)
+
+```text
+  § 429. Corporate meetings. 1. Each church shall determine the
+requirements for a quorum in their by-laws.
+  2. The action of the meeting upon any matter or question shall be
+decided in a manner provided by the by-laws.
+  3. The first named of the following persons who are present at such
+meeting shall preside thereat: the minister of such church, a qualified
+voter designated by the minister, or voter elected thereto at the
+meeting. The presiding officer of the meeting shall receive the votes,
+be the judge of qualifications of voters and declare the result of the
+votes cast on any matter.
+  4. At each annual corporate meeting, successors to those trustees
+whose terms of office then expires, shall be elected from the qualified
+voters for a term of three years thereafter.
+  5. If at any meeting of the church the actions of the minister are to
+be voted upon because of disagreements with the congregation, or a
+change in his teachings from the doctrines of the Assemblies of God, or
+his conduct, the minister shall not chair such meeting. A district
+official is to be invited to chair such a meeting. The minister, being a
+member of said congregation, may speak at such meeting.
+  6. Only the members of the church at its annual meeting, or at a
+special meeting called for that purpose, have the power to call or
+remove its pastor.
+```

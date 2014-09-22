@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 23-2311", "kind": "section", "law_id": "ENV", "location_id": "23-2311", "path": "ARTICLE 23 › TITLE 23 › SECTION 23-2311", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/23-2311.md", "title": "Reports"} -->
+# Environmental Conservation Law § 23-2311 — Reports
+
+[Environmental Conservation Law](../../README.md) › [Article 23 — Mineral Resources](../README.md) › [Title 23 — Rerefining of Used Oil](README.md)
+
+```text
+§ 23-2311. Reports.
+  The commissioner shall in consultation with the commissioners of the
+state energy office and transportation, submit a report to the governor
+and legislature not later than April first of each year, containing, but
+not limited to, the following information:
+  1. The amount of lubricating oil sold throughout the state in the
+previous year;
+  2. The amount and location of used oil collected and the amount
+received in the previous year;
+  3. The significance of used oil as a contributor to air and water
+pollution and other environmental problems;
+  4. The problems of the oil rerefining industry in carrying out the
+purposes of this title, and possible solutions thereto, including but
+not limited to, new technological requirements, marketing techniques and
+deficiencies and suggested tax incentive programs;
+  5. The estimated impact which the provisions of this title and other
+relevant provisions of law have had upon the conservation of petroleum
+resources; and
+  6. Proposals for further legislative action to aid in carrying out the
+purposes of this title.
+```

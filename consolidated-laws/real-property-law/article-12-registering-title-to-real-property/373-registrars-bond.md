@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 373", "kind": "section", "law_id": "RPP", "location_id": "373", "path": "ARTICLE 12 › SECTION 373", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/373.md", "title": "Registrar's bond"} -->
+# Real Property Law § 373 — Registrar's bond
+
+[Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
+
+```text
+  § 373. Registrar's bond. Every registrar, before entering upon his
+duties as registrar, shall give a bond with sufficient security, to be
+approved by a justice of the supreme court, payable to the people of the
+state of New York, in a penal sum the same as that for his bond as
+register or county clerk or in a sum which may be fixed by the county
+board of supervisors, conditioned for the faithful discharge of his
+duties, and to deliver up all papers, books, records and other property
+belonging to the county or appertaining to his office as registrar of
+titles, whole, safe and undefaced, when lawfully required so to do,
+which bond shall be filed in the office of the secretary of state.
+```

@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-619", "kind": "section", "law_id": "UCC", "location_id": "9-619", "path": "ARTICLE 9 › PART 6 › SUBPART 1 › SECTION 9-619", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-619.md", "title": "Transfer of Record or Legal Title"} -->
+# Uniform Commercial Code § 9-619 — Transfer of Record or Legal Title
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 6 — Default](../README.md) › [Subpart 1 — Default and Enforcement of Security Interest](README.md)
+
+```text
+Section 9--619. Transfer of Record or Legal Title.
+  (a) "Transfer statement." In this section, "transfer statement" means
+a record authenticated by a secured party stating:
+       (1) that the debtor has defaulted in connection with an
+           obligation secured by specified collateral;
+       (2) that the secured party has exercised its post-default
+           remedies with respect to the collateral;
+       (3) that, by reason of the exercise, a transferee has acquired
+           the rights of the debtor in the collateral; and
+       (4) the name and mailing address of the secured party, debtor,
+           and transferee.
+  (b) Effect of transfer statement. A transfer statement entitles the
+transferee to the transfer of record of all rights of the debtor in the
+collateral specified in the statement in any official filing, recording,
+registration, or certificate-of-title system covering the collateral. If
+a transfer statement is presented with the applicable fee and request
+form to the official or office responsible for maintaining the system,
+the official or office shall:
+       (1) accept the transfer statement;
+       (2) promptly amend its records to reflect the transfer; and
+       (3) if applicable, issue a new appropriate certificate of title
+           in the name of the transferee.
+  (c) Transfer not a disposition; no relief of secured party's duties. A
+transfer of the record or legal title to collateral to a secured party
+under subsection (b) or otherwise is not of itself a disposition of
+collateral under this article and does not of itself relieve the secured
+party of its duties under this article.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Multiple Residence Law § 201", "kind": "section", "law_id": "MRE", "location_id": "201", "path": "ARTICLE 6 › TITLE 1 › SECTION 201", "repealed": false, "repealed_date": null, "source": "nys-laws:MRE/201.md", "title": "Requirements for fireproof construction"} -->
+# Multiple Residence Law § 201 — Requirements for fireproof construction
+
+[Multiple Residence Law](../../README.md) › [Article 6 — Fireproof New Multiple Dwellings](../README.md) › [Title 1 — Fire Protection](README.md)
+
+```text
+  § 201. Requirements for fireproof construction. 1. Every new multiple
+dwelling exceeding six stories or seventy-five feet in height shall be
+fireproof.
+  2. The foregoing requirements shall not be construed as prohibiting:
+  a. Elsewhere than within, or in the openings to, the public halls,
+stairs and shafts, the use of wood for sleepers, grounds, nailing
+blocks, underflooring, finish flooring, interior doors with their
+assemblies and saddles, floor base not more than one foot in height,
+picture and wall moulding, shelving, closet and kitchen fixtures,
+cupboards, cabinets and wardrobes.
+  b. The use of wood for window and for interior trim and finish backed
+solidly against, or filled with, incombustible material and elsewhere
+than within, or in the openings to, the public halls, stairs and shafts.
+```

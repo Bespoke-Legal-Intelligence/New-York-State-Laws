@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "General City Law § 3-C", "kind": "section", "law_id": "GCT", "location_id": "3-C", "path": "ARTICLE 2 › SECTION 3-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/3-C.md", "title": "Unlawful offers or agreements by municipal officials or omnibus lines with respect to omnibus line operations"} -->
+# General City Law § 3-C — Unlawful offers or agreements by municipal officials or omnibus lines with respect to omnibus line operations
+
+[General City Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 3-c. Unlawful offers or agreements by municipal officials or omnibus
+lines with respect to omnibus line operations. 1. No officer, employee
+or agent of any city or any person acting on his behalf shall, directly
+or indirectly, make an offer to or agree with any private owner or
+operator of an omnibus line within such city or any person acting on
+behalf of such owner or operator, to approve or recommend the approval
+of an increase in fare or any other benefit for such owner or operator
+at some future time, in consideration of the promise or agreement of
+such owner or operator to delay making any application for a fare
+increase until some future time, or to enter into a contract with a
+labor organization.
+  2. No private owner or operator of an omnibus line within any city or
+any person acting on behalf of such owner or operator shall, directly or
+indirectly, make an offer to or agree with any officer, employee or
+agent of such city, or any person acting on his behalf, to delay making
+an application for a fare increase until some future time, or to enter
+into a contract with a labor organization, in consideration of the
+promise or agreement of such officer, employee or agent of such city to
+approve or recommend the approval of an increase in fares or any other
+benefit for such owner or operator at some future time.
+  3. The violation of any provision of this section shall constitute a
+misdemeanor. Any public officer or employee who is convicted of a
+violation of this section shall forfeit his office or employment and
+shall forever be disqualified from holding any public office or
+employment under the state or any political subdivision thereof.
+```

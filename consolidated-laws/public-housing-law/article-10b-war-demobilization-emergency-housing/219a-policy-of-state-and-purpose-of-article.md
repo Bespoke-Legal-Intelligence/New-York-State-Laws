@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 219-A", "kind": "section", "law_id": "PBG", "location_id": "219-A", "path": "ARTICLE 10-B › SECTION 219-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/219-A.md", "title": "Policy of state and purpose of article"} -->
+# Public Housing Law § 219-A — Policy of state and purpose of article
+
+[Public Housing Law](../README.md) › [Article 10-B — War Demobilization Emergency Housing](README.md)
+
+```text
+  § 219-a. Policy of state and purpose of article.  It is hereby
+declared that there exists within the state, and particularly within
+certain cities thereof, an acute shortage of housing; that low income
+inhabitants of the state, and particularly demobilized servicemen of
+world war II and their families, as well as the families of servicemen
+still serving within the military and naval forces of the United States,
+are unable to obtain adequate, safe and sanitary dwelling accommodations
+within their financial reach; that this condition is a menace to the
+health, safety, morals, welfare and reasonable comfort of the citizens
+of the state; that this condition has reached the stage of an acute
+emergency which cannot be adequately and immediately alleviated by the
+normal processes of construction of permanent housing and the
+construction of permanent public housing projects in connection with
+slum clearance, and that immediate mitigation is required by such
+emergency means as are available; that this condition requires that
+provision be made for public emergency housing as hereinafter provided;
+that this condition requires that certain cities and authorities be
+authorized to cooperate and enter into agreements with a government and
+with each other to the end that emergency housing may be obtained as
+expeditiously as possible; that this condition requires the temporary
+suspension of various normal restrictions, prohibitions, limitations and
+procedures to the end that emergency housing may be supplied with the
+least possible delay; that the acquisition, construction, management,
+operation, and disposition of such emergency housing and the real and
+personal property and other facilities necessary, incidental or
+appurtenant thereto is a public use for which public money may be spent,
+private property acquired, and tax exemption granted; and that the
+necessity in the public interest for the provisions hereinafter enacted
+is hereby declared as a matter of legislative determination.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1517", "kind": "section", "law_id": "EDN", "location_id": "1517", "path": "TITLE 2 › ARTICLE 31 › SECTION 1517", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1517.md", "title": "Indebtedness of certain dissolved districts"} -->
+# Education Law § 1517 — Indebtedness of certain dissolved districts
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 31 — School Districts](README.md)
+
+```text
+  § 1517. Indebtedness of certain dissolved districts.  Whenever any
+school district is dissolved pursuant to the provisions of section
+fifteen hundred five of this article and annexed to an adjoining
+district or adjoining districts or consolidated as provided in section
+fifteen hundred twelve, the indebtedness of any such district evidenced
+by bonds or notes or relating to school building construction shall
+thereupon become a charge upon the enlarged district formed by such
+annexation or consolidation.  The board of education or trustees of such
+enlarged district shall raise by tax an amount sufficient to pay any
+such indebtedness of such district as the same shall become due.
+```

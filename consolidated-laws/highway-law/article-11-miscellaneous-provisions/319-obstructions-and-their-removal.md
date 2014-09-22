@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 319", "kind": "section", "law_id": "HAY", "location_id": "319", "path": "ARTICLE 11 › SECTION 319", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/319.md", "title": "Obstructions and their removal"} -->
+# Highway Law § 319 — Obstructions and their removal
+
+[Highway Law](../README.md) › [Article 11 — Miscellaneous Provisions](README.md)
+
+```text
+  § 319. Obstructions and their removal. 1. Obstructions, within the
+meaning of this section, shall include trees which have been cut or have
+fallen either on adjacent lands or within the bounds of the highway, in
+such a manner as to interfere with public travel therein; limbs of trees
+which have fallen within the highway, or branches of trees overhanging
+the highways so as to interfere with public travel therein; lumber, wood
+or logs piled within the bounds of the public highway; machines,
+vehicles and implements abandoned or habitually placed within the bounds
+of the highway; fences, buildings or other structures erected within the
+bounds of the highway; earth, stone or other material placed in any
+ditch or waterway along the highway; telegraph, telephone, trolley and
+other poles, and the wires connected therewith, erected within the
+bounds of the highway in such a manner as to interfere with the use of
+the highway for public travel.
+  2. It shall be the duty of each owner or occupant of lands situate
+along the highway, to remove all obstructions within the bounds of the
+highway, which have been placed there, either by themselves or by their
+consent. It shall be the duty of all telephone, telegraph, electric
+railway and other electrical companies, to remove and reset telephone,
+telegraph, trolley and other poles and the wires connected therewith,
+when the same constitute obstructions to the use of the highway by the
+traveling public. If temporary obstructions such as trees, lumber, wood,
+logs, machinery, vehicles and similar obstructions are not removed
+within forty-eight hours after the service of a notice, personally or by
+mail, upon such owner or occupant, requesting the same to be done, the
+town superintendent shall remove such obstruction. And if permanent
+obstructions, including, among others, telegraph, telephone, trolley and
+other poles and wires connected therewith, are not moved and reset
+within thirty days, the town superintendent shall move and reset such
+poles and wires. The expense thereby incurred shall be paid in the first
+instance out of moneys levied and collected and available therefor, and
+the amount thereof shall be charged against such owner, occupant or
+company, and levied and collected, as provided in section one hundred
+and fifty-seven.
+```

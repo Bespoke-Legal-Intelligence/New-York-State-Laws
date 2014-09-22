@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 361", "kind": "section", "law_id": "LAB", "location_id": "361", "path": "ARTICLE 13 › SECTION 361", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/361.md", "title": "Summary proceedings; when may be instituted"} -->
+# Labor Law § 361 — Summary proceedings; when may be instituted
+
+[Labor Law](../README.md) › [Article 13 — Industrial Homework](README.md)
+
+```text
+  § 361. Summary proceedings; when may be instituted. The carrying on of
+manufacture in a home or of industrial homework contrary to the
+provisions of this article shall be cause for dispossessing its
+occupants by summary proceedings to recover possession of real property.
+Upon receipt from the commissioner of a notice showing such manufacture
+or such industrial homework in a home, the owner or his agent shall
+cause such manufacture or industrial homework to cease within ten days
+and, if unable to do so, shall institute within fifteen days and
+faithfully prosecute proceedings to dispossess the occupants.
+```

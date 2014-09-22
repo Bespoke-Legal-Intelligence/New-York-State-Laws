@@ -1,0 +1,47 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 403", "kind": "section", "law_id": "ABP", "location_id": "403", "path": "ARTICLE 4 › SECTION 403", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/403.md", "title": "Payment of abandoned property"} -->
+# Abandoned Property Law § 403 — Payment of abandoned property
+
+[Abandoned Property Law](../README.md) › [Article 4 — Unclaimed Deposits and Refunds For Utility Services](README.md)
+
+```text
+  § 403. Payment of abandoned property. 1. In such succeeding month of
+October, and on or before the tenth day thereof, every such corporation
+shall pay to the state comptroller all property which, as of the first
+day of July next preceding, was deemed abandoned pursuant to section
+four hundred of this article, held or owing by such corporation.
+  2. Such payment shall be accompanied by a true and accurate report
+setting forth such information as the state comptroller may require
+relating to such abandoned property including:
+  (a) as to abandoned property specified in paragraphs (a) and (b) of
+subdivision one of section four hundred of this article:
+  (i) the name and last known address of each depositor or subscriber
+appearing from the records of such corporation to be entitled to receive
+any such abandoned property;
+  (ii) the date when the deposit was made or amount paid;
+  (iii) the amount of such deposit or payment;
+  (iv) the date when utility services furnished to such consumer or
+subscriber ceased;
+  (v) any sums due and unpaid to the corporation by such consumer or
+subscriber, with interest thereon from the date of termination of
+service;
+  (vi) the amount of interest due upon such deposit or payment on any
+balance thereof that has remained with such corporation and not been
+credited to such consumer's or subscriber's account;
+  (vii) the amount of such abandoned property; and
+  (viii) such other identifying information as the state comptroller may
+require.
+  (b) as to abandoned property specified in paragraph (c) of subdivision
+one of section four hundred of this article:
+  (i) the name and last known address of each person appearing from the
+records of such corporation to be entitled to receive the same;
+  (ii) the amount appearing from such records to be due each such
+person;
+  (iii) the date payment became due; and
+  (iv) such other identifying information as the state comptroller may
+require.
+  3. Such report shall be in such form and the abandoned property listed
+shall be classified in such manner as the state comptroller may
+prescribe. Names of persons entitled to such abandoned property
+appearing in such report shall be listed in alphabetical order within
+each such classification.
+```

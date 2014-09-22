@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 23", "kind": "section", "law_id": "COR", "location_id": "23", "path": "ARTICLE 2 › SECTION 23", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/23.md", "title": "Transfer of inmates from one correctional facility to another; treatment in outside hospitals"} -->
+# Correction Law § 23 — Transfer of inmates from one correctional facility to another; treatment in outside hospitals
+
+[Correction Law](../README.md) › [Article 2 — Department of Corrections and Community Supervision](README.md)
+
+```text
+  § 23. Transfer of inmates from one correctional facility to another;
+treatment in outside hospitals. 1. The commissioner shall have the power
+to transfer inmates from one correctional facility to another. Whenever
+the transfer of inmates from one correctional facility to another shall
+be ordered by the commissioner, the superintendent of the facility from
+which the inmates are transferred shall take immediate steps to make the
+transfer. The transfer shall be in accordance with rules and regulations
+promulgated by the department for the safe delivery of such inmates to
+the designated facility.
+  2. The commissioner, in his or her discretion, may by written order
+permit inmates to receive medical diagnosis and treatment in outside
+hospitals, upon the recommendation of the superintendent or director
+that such outside treatment or diagnosis is necessary by reason of
+inadequate facilities within the institution. Such inmates shall remain
+under the jurisdiction and in the custody of the department while in
+said outside hospital and said superintendent or director shall enforce
+proper measures in each case to safely maintain such jurisdiction and
+custody.
+  3. The cost of transporting inmates between facilities and to outside
+hospitals shall be paid from funds appropriated to the department for
+such purpose.
+```

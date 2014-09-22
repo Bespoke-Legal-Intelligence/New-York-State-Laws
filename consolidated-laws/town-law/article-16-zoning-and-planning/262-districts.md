@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Town Law § 262", "kind": "section", "law_id": "TWN", "location_id": "262", "path": "ARTICLE 16 › SECTION 262", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/262.md", "title": "Districts"} -->
+# Town Law § 262 — Districts
+
+[Town Law](../README.md) › [Article 16 — Zoning and Planning](README.md)
+
+```text
+  § 262. Districts. For any or all of said purposes the town board may
+divide that part of the town which is outside the limits of any
+incorporated village or city into districts of such number, shape and
+area as may be deemed best suited to carry out the purposes of this act;
+and within such districts it may regulate and restrict the erection,
+construction, reconstruction, alteration or use of buildings, structures
+or land. All such regulations shall be uniform for each class or kind of
+buildings, throughout such district but the regulations in one district
+may differ from those in other districts.
+```

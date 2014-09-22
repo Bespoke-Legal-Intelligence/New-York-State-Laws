@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1112", "kind": "section", "law_id": "TAX", "location_id": "1112", "path": "ARTICLE 28 › PART 2 › SECTION 1112", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1112.md", "title": "Taxes imposed on qualified Indian reservations"} -->
+# Tax Law § 1112 — Taxes imposed on qualified Indian reservations
+
+[Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 2 — Imposition of Taxes](README.md)
+
+```text
+  § 1112. Taxes imposed on qualified Indian reservations. (a) Where
+property or services subject to sales or compensating use tax have been
+purchased on or from a qualified Indian reservation, as defined in
+section four hundred seventy of this chapter, the purchaser shall not be
+relieved of his or her liability to pay the tax due. Such tax due and
+not collected shall be paid by the purchaser directly to the department.
+  (b) The tax due and not collected pursuant to subdivision (a) of this
+section may be reported and paid by means of such personal income tax
+forms or other tax forms as the commissioner deems appropriate.
+  (c) The provisions of section two hundred eighty-four-e of this
+chapter concerning sales of motor fuel and Diesel motor fuel on
+qualified Indian reservations shall apply to the prepayment of sales tax
+imposed on motor fuel and Diesel motor fuel pursuant to section eleven
+hundred two of this article in the same manner and with the same force
+and effect as if the provisions of such section two hundred
+eighty-four-e had been incorporated in full into this article, except to
+the extent that any such provision is either inconsistent with a
+provision of such section eleven hundred two or not relevant thereto.
+  (d) The provisions of section four hundred seventy-one-e of this
+chapter concerning sales of cigarettes on qualified Indian reservations
+shall apply to the prepayment of sales tax imposed on cigarettes
+pursuant to section eleven hundred three of this article in the same
+manner and with the same force and effect as if the provisions of such
+section four hundred seventy-one-e had been incorporated in full into
+this article, except to the extent that any such provision is either
+inconsistent with a provision of such section eleven hundred three or is
+not relevant thereto.
+```

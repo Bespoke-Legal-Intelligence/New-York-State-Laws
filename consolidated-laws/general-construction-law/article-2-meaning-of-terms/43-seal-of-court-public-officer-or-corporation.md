@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "General Construction Law § 43", "kind": "section", "law_id": "GCN", "location_id": "43", "path": "ARTICLE 2 › SECTION 43", "repealed": false, "repealed_date": null, "source": "nys-laws:GCN/43.md", "title": "Seal of court, public officer or corporation"} -->
+# General Construction Law § 43 — Seal of court, public officer or corporation
+
+[General Construction Law](../README.md) › [Article 2 — Meaning of Terms](README.md)
+
+```text
+  § 43. Seal of court, public officer or corporation. A seal of a court,
+public officer or corporation may be impressed directly upon the
+instrument or writing to be sealed, or upon wafer, wax or other adhesive
+substance affixed thereto, or upon paper, or other similar substance
+affixed thereto by mucilage or other adhesive substance, or may appear
+as a facsimile, or be engraved or printed or reproduced in any other
+manner.  A seal of a corporation upon a corporate bond or other
+corporate obligation for the payment of money may be a facsimile,
+engraved or printed.
+```

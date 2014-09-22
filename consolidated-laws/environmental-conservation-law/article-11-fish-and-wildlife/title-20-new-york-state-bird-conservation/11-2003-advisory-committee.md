@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-2003", "kind": "section", "law_id": "ENV", "location_id": "11-2003", "path": "ARTICLE 11 › TITLE 20 › SECTION 11-2003", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-2003.md", "title": "Advisory committee"} -->
+# Environmental Conservation Law § 11-2003 — Advisory committee
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 20 — New York State Bird Conservation Area Program](README.md)
+
+```text
+§ 11-2003. Advisory committee.
+  There shall be created within the department a New York state bird
+conservation area program advisory committee whose non-governmental
+members shall serve without pay, meet not less than twice each year, and
+whose sole purpose shall be to advise as to the designation, management,
+educational research and utilization of those sites that are
+individually designated as part of and collectively comprise the New
+York state bird conservation area program. Provided, however, the
+utilization of such sites shall be consistent with the mission of the
+state agency or entity designating a New York state bird conservation
+area pursuant to section 11-2001 of this title. In addition to
+representatives of the department, the advisory committee shall consist
+of, but not be limited to one representative each from the department of
+state, the Conservation Fund Advisory Board, the Conservation Council,
+the office of parks, recreation and historic preservation, the state
+museum, Cornell Laboratory of Ornithology, the Nature Conservancy, the
+National Audubon Society, Ducks Unlimited, the New York State
+Biodiversity Research Institute, and the Federation of New York State
+Bird Clubs. The commissioner may appoint additional members as
+appropriate, who shall serve at his pleasure.
+```

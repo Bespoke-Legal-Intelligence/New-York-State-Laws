@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 170", "kind": "section", "law_id": "HAY", "location_id": "170", "path": "ARTICLE 8 › SECTION 170", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/170.md", "title": "Survey for the laying out of a highway"} -->
+# Highway Law § 170 — Survey for the laying out of a highway
+
+[Highway Law](../README.md) › [Article 8 — Town Highways](README.md)
+
+```text
+  § 170. Survey for the laying out of a highway. Whenever the town
+superintendent shall lay out any highway, either upon application to him
+or otherwise, he shall notify the county superintendent, whose duty it
+shall be to either make a survey, or cause the same to be made, and the
+town superintendent shall incorporate the survey in an order to be
+signed by him, and to be filed and recorded in the office of the town
+clerk, who shall note the time of recording the same. Notwithstanding
+the provisions of any general or special law, the county superintendent,
+his agents, contractors or employees when engaged on work connected with
+laying out a town highway, may pursuant to the eminent domain procedure
+law enter upon any property for the purpose of making surveys, test
+pits, test borings, or other investigations. Claims for any damage
+caused by such work may be adjusted by the town board or determined
+pursuant to the eminent domain procedure law. The cost of such survey
+shall be a town charge payable in the same manner as other charges
+against the town.
+```

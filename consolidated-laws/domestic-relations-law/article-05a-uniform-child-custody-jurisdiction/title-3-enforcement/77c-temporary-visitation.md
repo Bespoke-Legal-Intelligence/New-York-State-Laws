@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 77-C", "kind": "section", "law_id": "DOM", "location_id": "77-C", "path": "ARTICLE 5-A › TITLE 3 › SECTION 77-C", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/77-C.md", "title": "Temporary visitation"} -->
+# Domestic Relations Law § 77-C — Temporary visitation
+
+[Domestic Relations Law](../../README.md) › [Article 5-A — Uniform Child Custody Jurisdiction and Enforcement Act](../README.md) › [Title 3 — Enforcement](README.md)
+
+```text
+  § 77-c. Temporary visitation. 1. A court of this state which does not
+have jurisdiction to modify a child custody determination, may, if
+consistent with subdivision one-c of section two hundred forty of this
+chapter or section one thousand eighty-five of the family court act,
+issue a temporary order enforcing:
+  (a) a visitation schedule made by a court of another state; or
+  (b) the visitation provisions of a child custody determination of
+another state that does not provide for a specific visitation schedule.
+  2. If a court of this state makes an order under paragraph (b) of
+subdivision one of this section, it shall specify in the order a period
+that it considers adequate to allow the petitioner to obtain an order
+from a court having jurisdiction under the criteria specified in title
+two of this article. The order remains in effect until an order is
+obtained from the other court or the period expires.
+```

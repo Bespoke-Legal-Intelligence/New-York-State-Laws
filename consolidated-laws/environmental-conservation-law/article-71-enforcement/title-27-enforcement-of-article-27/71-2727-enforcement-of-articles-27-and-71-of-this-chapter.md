@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-2727", "kind": "section", "law_id": "ENV", "location_id": "71-2727", "path": "ARTICLE 71 › TITLE 27 › SECTION 71-2727", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-2727.md", "title": "Enforcement of articles 27 and 71 of this chapter"} -->
+# Environmental Conservation Law § 71-2727 — Enforcement of articles 27 and 71 of this chapter
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 27 — Enforcement of Article 27 and Article 71](README.md)
+
+```text
+§ 71-2727. Enforcement of articles 27 and 71 of this chapter.
+  1. The commissioner, after investigation, notice and an opportunity to
+be heard, may issue, modify and revoke orders prohibiting violations of
+any of the provisions of article 27 or 71 or of any rule or regulation
+promulgated pursuant thereto and requiring the taking of such remedial
+measures as may be necessary or appropriate.
+  2. The attorney general, on his own initiative, or at the request of
+the commissioner, may initiate any appropriate action or proceeding to
+enforce any provision of article 27 or 71 or any rule or regulation
+promulgated pursuant thereto and any order issued or penalty assessed
+pursuant to this title.
+  3. a. The commissioner, after investigation, notice and an opportunity
+to be heard, may issue, modify and revoke orders requiring corrective
+action, including corrective action beyond the facility boundary where
+necessary to protect human health and the environment, for all releases
+of hazardous waste or constituents from any solid waste management unit
+at any treatment, storage or disposal facility which is either permitted
+or seeking a permit under title 7 or 9 of article 27 of this chapter,
+regardless of the time at which waste was placed in such unit.
+  b. Whenever on the basis of any information the commissioner
+determines that there is or has been a release of hazardous waste or
+constituents into the environment from a facility which has or has had
+interim status according to regulations adopted pursuant to title 7 or 9
+of article 27 of this chapter but which has not received a final status
+permit pursuant to such regulations, the commissioner may issue an order
+requiring corrective action or such other response measures as he deems
+necessary to protect human health or the environment.
+```

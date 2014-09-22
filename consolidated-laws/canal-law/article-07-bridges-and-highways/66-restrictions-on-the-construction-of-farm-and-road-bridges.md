@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 66", "kind": "section", "law_id": "CAL", "location_id": "66", "path": "ARTICLE 7 › SECTION 66", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/66.md", "title": "Restrictions on the construction of farm and road bridges"} -->
+# Canal Law § 66 — Restrictions on the construction of farm and road bridges
+
+[Canal Law](../README.md) › [Article 7 — Bridges and Highways](README.md)
+
+```text
+  § 66. Restrictions on the construction of farm and road bridges.  A
+person shall not be entitled to demand a farm bridge across a canal or
+feeder where the necessity of convenience of such bridge shall have
+arisen from the division or acquisition of property subsequent to the
+location of such canal or feeder. A street or road bridge shall not be
+constructed by the commissioner of transportation over a canal or
+feeder, except upon such streets or roads as were laid out, worked or
+used, previously to the construction of the canal or feeder, by which
+such street or road is obstructed; and when bridges are constructed or
+reconstructed upon any such streets or roads, the cost to the state
+shall in no case be more than is required to preserve in a safe and
+substantial manner the continuity of such streets or roads so as not to
+unnecessarily impair their usefulness. When a bridge of a more costly
+nature is desired by the local authorities of a city, town or village
+within whose corporate limits a bridge is to be built or rebuilt, the
+commissioner of transportation, on presentation to him by such local
+authorities of plans and specifications for such bridge and approval
+thereof by him shall estimate and determine the proportion of the cost,
+which, in order to preserve the continuity of such streets and roads,
+the state ought equitably to pay, and file such estimate and
+determination in his office and a duplicate thereof in the office of the
+clerk of such city, town or village. If a private road or public highway
+is laid out by legal authority in such direction as to require the
+erection of a new bridge over a canal for the accommodation of the road,
+such bridge shall be so constructed and forever maintained at the
+expense of the town, village or city in which it shall be situated.
+```

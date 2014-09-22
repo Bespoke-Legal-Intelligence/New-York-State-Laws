@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Election Law § 15-110", "kind": "section", "law_id": "ELN", "location_id": "15-110", "path": "ARTICLE 15 › SECTION 15-110", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/15-110.md", "title": "Election districts"} -->
+# Election Law § 15-110 — Election districts
+
+[Election Law](../README.md) › [Article 15 — Village Elections](README.md)
+
+```text
+  § 15-110. Election districts. 1. A village shall constitute a single
+election district for village elections. However, if at a general
+village election the number of votes cast exceeds eight hundred, the
+board of trustees, by resolution adopted before the next general village
+election, may divide such village into election districts each
+containing not more than eight hundred qualified voters for village
+offices.
+  2. Following the establishment of two or more such districts, the
+number thereof or their boundaries or both may be enlarged, diminished,
+increased or decreased from year to year by resolution of the board of
+trustees; provided, however, that, if there is more than one district,
+no such district shall contain more than eight hundred qualified voters.
+  3. If village election districts are coterminous with election
+districts established for general elections other than general village
+elections, the limitations as to the number of qualified voters set
+forth in subdivisions one and two of this section shall not be
+applicable.
+  4. For the purposes of this section, the number of qualified voters in
+each election district of a village shall be the average of the number
+of persons who voted in such district in the three preceding general
+village elections.
+  5. Any resolution adopted pursuant to the authority of this section
+shall be adopted at least one hundred twenty days prior to the general
+village election; shall specify the boundaries of each election district
+created or altered; and shall be posted and published with the notice of
+such election as required.
+```

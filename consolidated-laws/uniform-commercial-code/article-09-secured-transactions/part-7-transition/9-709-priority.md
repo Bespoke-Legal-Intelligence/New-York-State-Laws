@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-709", "kind": "section", "law_id": "UCC", "location_id": "9-709", "path": "ARTICLE 9 › PART 7 › SECTION 9-709", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-709.md", "title": "Priority"} -->
+# Uniform Commercial Code § 9-709 — Priority
+
+[Uniform Commercial Code](../../README.md) › [Article 9 — Secured Transactions](../README.md) › [Part 7 — Transition](README.md)
+
+```text
+Section 9--709. Priority.
+  (a) Law governing priority. Revised Article 9 determines the priority
+of conflicting claims to collateral. However, if the relative priorities
+of the claims were established before Revised Article 9 takes effect,
+Former Article 9 determines priority.
+  (b) Priority if security interest becomes enforceable under Section
+9--203. For purposes of Section 9--322(a), the priority of a security
+interest that becomes enforceable under Section 9--203 of Revised
+Article 9 dates from the time Revised Article 9 takes effect if the
+security interest is perfected under Revised Article 9 by the filing of
+a financing statement before Revised Article 9 takes effect which would
+not have been effective to perfect the security interest under Former
+Article 9. This subsection does not apply to conflicting security
+interests each of which is perfected by the filing of such a financing
+statement.
+```

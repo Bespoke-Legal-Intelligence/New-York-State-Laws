@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 17-1701", "kind": "section", "law_id": "ENV", "location_id": "17-1701", "path": "ARTICLE 17 › TITLE 17 › SECTION 17-1701", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/17-1701.md", "title": "Definition of sewage; discharge of sewage and other matter into certain waters prohibited"} -->
+# Environmental Conservation Law § 17-1701 — Definition of sewage; discharge of sewage and other matter into certain waters prohibited
+
+[Environmental Conservation Law](../../README.md) › [Article 17 — Water Pollution Control](../README.md) › [Title 17 — Discharge of Sewage Into Waters](README.md)
+
+```text
+* § 17-1701. Definition of sewage; discharge of sewage and other matter
+               into certain waters prohibited.
+  1. For the purposes of this title sewage shall be defined as any
+substance, solid or liquid that contains any of the waste products or
+excrementitious or other wastes or washings from the bodies of human
+beings or animals.
+  2. No person, corporation or municipality, shall place or cause to be
+placed, or discharged or cause to be discharged into any of the waters
+of this state, in quantities injurious to the public health, or in
+violation of standards, criteria, limitations, rules or regulations
+promulgated or applied pursuant hereto, any sewage, garbage, offal, or
+any decomposable or putrescible matter of any kind or the effluent from
+any sewage disposal plant, or any substance, chemical or otherwise, or
+any refuse or waste matter, either solid or liquid, from any sewer or
+drainage system or from any shop, factory, mill or industrial
+establishment; unless express permission to do so shall have been first
+given in writing by the commissioner as provided in this article, except
+as hereinafter provided.
+  3. This section shall not prevent the discharge of sewage from any
+public sewer system owned and maintained by a municipality until an
+order prohibiting same shall be made as hereinafter provided, or the
+discharge of refuse or waste matter from any shop, factory, mill or
+industrial establishment, if such sewer system was in operation and was
+discharging sewage, or such shop, factory, mill or industrial
+establishment was in operation and discharging refuse or waste matter,
+into any of the waters of this state on or prior to May 7, 1903, and
+such municipality or the proprietor of such shop, factory, mill or
+industrial establishment secured exemption from this section by filing a
+report with the commissioner in accordance with law, nor to any
+extension or modification of such shop, factory, mill or industrial
+establishment, or reconstruction thereof, provided the refuse or waste
+matter discharged therefrom is not materially changed or increased; but
+this exception shall not permit any increase in the discharge of such
+sewage, or in the discharge of refuse or waste matter from any shop,
+factory, mill or industrial establishment, nor shall it permit the
+discharge of sewage from a sewer system which shall be extended,
+modified or reconstructed subsequent to said date.
+  * NB Expired September 1, 1973
+```

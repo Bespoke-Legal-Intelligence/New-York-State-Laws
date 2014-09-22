@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 108", "kind": "section", "law_id": "STF", "location_id": "108", "path": "ARTICLE 7 › SECTION 108", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/108.md", "title": "Application of federal moneys to expense of the audit and disbursement thereof"} -->
+# State Finance Law § 108 — Application of federal moneys to expense of the audit and disbursement thereof
+
+[State Finance Law](../README.md) › [Article 7 — Accounts and Audits](README.md)
+
+```text
+  § 108. Application of federal moneys to expense of the audit and
+disbursement thereof. Where a law of this state enacted or to be enacted
+to supplement or aid in effecting the purposes of an act of congress
+under which federal moneys are granted or allocated to this state or to
+an agency thereof provides, in terms or effect, that the commissioner or
+department of taxation and finance shall be the custodian and disbursing
+agency of such moneys and that they shall be paid out on the audit and
+warrant of the comptroller, and the cost of such additional service,
+within an amount stated, is made a lawful charge against such moneys so
+granted or allocated as part of the expense of administering such law
+and act of congress, by authorized action of state or federal
+authorities, the comptroller and such commissioner are hereby authorized
+to accept and expend such moneys, within the amount so stated, for
+employing any additional assistants and paying necessary expenses
+required for the performance of such added duties. The director of the
+budget shall allocate to the comptroller and the commissioner or
+department of taxation and finance, respectively, the moneys, if any,
+available for each; and so much thereof as may be used for additional
+personal service shall be paid in accordance with schedules approved by
+him.
+```

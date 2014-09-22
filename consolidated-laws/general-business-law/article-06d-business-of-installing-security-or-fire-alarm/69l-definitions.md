@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 69-L", "kind": "section", "law_id": "GBS", "location_id": "69-L", "path": "ARTICLE 6-D › SECTION 69-L", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/69-L.md", "title": "Definitions"} -->
+# General Business Law § 69-L — Definitions
+
+[General Business Law](../README.md) › [Article 6-D — Business of Installing Security or Fire Alarm Systems](README.md)
+
+```text
+  § 69-l. Definitions. As used in this article, unless the context
+requires otherwise:
+  1. "Department" means the department of state.
+  2. "Person" means an individual, firm, company, partnership, limited
+liability company or corporation.
+  3. "Licensee" means a person as herein defined licensed to engage in
+the business of installing, servicing or maintaining security or fire
+alarm systems under this article.
+  4. "To engage in the business of installing, servicing or maintaining
+security or fire alarm systems" means and refers to a person who holds
+himself out directly or indirectly, as being able, or who offers or
+undertakes, by any means or method, to install, service or maintain a
+security or fire alarm system to detect intrusion, break-in, movement,
+sound or fire.
+  5. "Fee", "examination fee", "license fee" and "renewal fee" mean the
+fees required to accompany an application for examination or fingerprint
+processing for or issuance of any license, including any temporary,
+apprentice or renewal license, pursuant to this article. Such fee shall
+be non-refundable.
+```

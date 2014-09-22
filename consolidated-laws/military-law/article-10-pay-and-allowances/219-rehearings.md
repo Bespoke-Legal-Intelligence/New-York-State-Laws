@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Military Law § 219", "kind": "section", "law_id": "MIL", "location_id": "219", "path": "ARTICLE 10 › SECTION 219", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/219.md", "title": "Rehearings"} -->
+# Military Law § 219 — Rehearings
+
+[Military Law](../README.md) › [Article 10 — Pay and Allowances](README.md)
+
+```text
+  § 219. Rehearings.  1. Whenever a claim under sections two hundred
+sixteen or two hundred seventeen of this article is disapproved or
+disallowed, in whole or in part, the chief of staff shall cause notice
+thereof to be served by mail upon the claimant or his attorney.  Within
+six months after the service of such notice the claimant may apply to
+the chief of staff for a rehearing of his claim.  The chief of staff may
+deny or grant such an application.  If granted, the chief of staff may
+appoint, as appropriate, another medical examiner or board as provided
+by section two hundred sixteen of this chapter or another pension
+examining board as provided by section two hundred seventeen of this
+chapter.
+  2. The provisions of subdivision three of section two hundred sixteen
+and of subdivisions two, three and four of section two hundred eighteen
+of this chapter shall be applicable with respect to claims reheard
+pursuant of this section.
+```

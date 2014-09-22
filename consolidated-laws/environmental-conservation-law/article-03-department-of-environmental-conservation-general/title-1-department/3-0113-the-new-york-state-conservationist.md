@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 3-0113", "kind": "section", "law_id": "ENV", "location_id": "3-0113", "path": "ARTICLE 3 › TITLE 1 › SECTION 3-0113", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/3-0113.md", "title": "The New York State Conservationist"} -->
+# Environmental Conservation Law § 3-0113 — The New York State Conservationist
+
+[Environmental Conservation Law](../../README.md) › [Article 3 — Department of Environmental Conservation; General Functions, Powers, Duties and Jurisdiction](../README.md) › [Title 1 — Department of Environmental Conservation](README.md)
+
+```text
+§ 3-0113. The New York State Conservationist.
+  1. To the end that there shall be promoted a wider understanding of
+the problems affecting conservation of natural resources in this state,
+it is declared advisable to authorize the agents who issue hunting,
+fishing and trapping licenses to sell annual subscriptions to the
+official magazine of the department, "The New York State
+Conservationist."
+  2. Any entity which is authorized by section 11-0713 of this chapter
+to sell hunting, trapping and fishing licenses is hereby authorized, but
+not required, to sell annual subscriptions to the department's official
+magazine, "The New York State Conservationist." The fee to be charged
+for a subscription to such magazine shall be such fee as the
+commissioner may, after consultation with the division of the budget,
+deem necessary for the best interest of the state. Such fee shall be
+collected from each subscriber at the time of receiving application for
+subscription. All collected fees, minus a 5.5 percent commission, shall
+be remitted monthly, on a schedule to be determined by the department.
+All receipts of the department from subscriptions shall be deposited in
+an account in the miscellaneous special revenue fund-other. The
+comptroller is authorized and directed to permit interest earnings on
+any balances to accrue to the benefit of this account.
+```

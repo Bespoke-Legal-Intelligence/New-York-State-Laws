@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3014", "kind": "section", "law_id": "EDN", "location_id": "3014", "path": "TITLE 4 › ARTICLE 61 › SECTION 3014", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3014.md", "title": "Tenure: boards of cooperative educational services"} -->
+# Education Law § 3014 — Tenure: boards of cooperative educational services
+
+[Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
+
+```text
+  § 3014. Tenure: boards of cooperative educational services. 1.
+Administrative assistants, supervisors, teachers and all other members
+of the teaching and supervising staff of the board of cooperative
+educational services shall be appointed by a majority vote of the board
+of cooperative educational services upon the recommendation of the
+district superintendent of schools for a probationary period of not to
+exceed three years; provided, however, that in the case of a teacher who
+has been appointed on tenure in a school district within the state, the
+board of cooperative educational services where currently employed, or
+another board of cooperative educational services, and who was not
+dismissed from such district or board as a result of charges brought
+pursuant to subdivision one of section three thousand twenty-a of this
+chapter, the probationary period shall not exceed two years. Services of
+a person so appointed to any such positions may be discontinued at any
+time during such probationary period, upon the recommendation of the
+district superintendent, by a majority vote of the board of cooperative
+educational services.
+  2. On or before the expiration of the probationary term of a person
+appointed for such term the district superintendent of schools shall
+make a written report to the board of cooperative educational services
+recommending for appointment on tenure persons who have been found
+competent, efficient and satisfactory, consistent with any applicable
+rules of the board of regents adopted pursuant to section three thousand
+twelve-b of this article. Such persons shall hold their respective
+positions during good behavior and competent and efficient service and
+shall not be removed except for any of the following causes, after a
+hearing, as provided by section three thousand twenty-a of such law: (a)
+Insubordination, immoral character or conduct unbecoming a teacher; (b)
+Inefficiency, incompetency, physical or mental disability or neglect of
+duty; (c) Failure to maintain certification as required by this chapter
+and by the regulations of the commissioner. Each person who is not to be
+so recommended for appointment on tenure shall be so notified in writing
+by the district superintendent not later than sixty days immediately
+preceding the expiration of his probationary period.
+```

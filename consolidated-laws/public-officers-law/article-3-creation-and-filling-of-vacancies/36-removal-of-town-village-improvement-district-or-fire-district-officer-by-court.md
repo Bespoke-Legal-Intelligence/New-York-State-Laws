@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 36", "kind": "section", "law_id": "PBO", "location_id": "36", "path": "ARTICLE 3 › SECTION 36", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/36.md", "title": "Removal of town, village, improvement district or fire district officer by court"} -->
+# Public Officers Law § 36 — Removal of town, village, improvement district or fire district officer by court
+
+[Public Officers Law](../README.md) › [Article 3 — Creation and Filling of Vacancies](README.md)
+
+```text
+  § 36. Removal of town, village, improvement district or fire district
+officer by court. Any town, village, improvement district or fire
+district officer, except a justice of the peace, may be removed from
+office by the supreme court for any misconduct, maladministration,
+malfeasance or malversation in office. An application for such removal
+may be made by any citizen resident of such town, village, improvement
+district or fire district or by the district attorney of the county in
+which such town, village or district is located, and shall be made to
+the appellate division of the supreme court held within the judicial
+department embracing such town, village, improvement district or fire
+district. Such application shall be made upon notice to such officer of
+not less than eight days, and a copy of the charges upon which the
+application will be made must be served with such notice.
+```

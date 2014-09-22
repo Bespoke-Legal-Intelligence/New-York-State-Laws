@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Legislative Law § 1-G", "kind": "section", "law_id": "LEG", "location_id": "1-G", "path": "ARTICLE 1-A › SECTION 1-G", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/1-G.md", "title": "Termination of retainer, employment or designation"} -->
+# Legislative Law § 1-G — Termination of retainer, employment or designation
+
+[Legislative Law](../README.md) › [Article 1-A — Lobbying Act](README.md)
+
+```text
+  § 1-g. Termination of retainer, employment or designation. Upon the
+termination of a lobbyist's retainer, employment or designation, such
+lobbyist and the client on whose behalf such service has been rendered
+shall both give written notice to the commission within thirty days
+after the lobbyist ceases the activity that required such lobbyist to
+file a statement of registration; however, such lobbyist shall
+nevertheless comply with the bi-monthly reporting requirements up to the
+date such activity has ceased as required by this article and both such
+parties shall each file the semi-annual report required by section one-j
+of this article. The commission shall enter notice of such termination
+in the appropriate monthly registration docket required by section one-f
+of this article.
+```

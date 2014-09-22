@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 703", "kind": "section", "law_id": "LAB", "location_id": "703", "path": "ARTICLE 20 › SECTION 703", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/703.md", "title": "Rights of employees"} -->
+# Labor Law § 703 — Rights of employees
+
+[Labor Law](../README.md) › [Article 20 — New York State Labor Relations Act](README.md)
+
+```text
+  § 703. Rights of employees. Employees shall have the right of
+self-organization, to form, join, or assist labor organizations, to
+bargain collectively through representatives of their own choosing, and
+to engage in concerted activities, for the purpose of collective
+bargaining or other mutual aid or protection, free from interference,
+restraint, or coercion of employers, but nothing contained in this
+article shall be interpreted to prohibit employees from exercising the
+right to confer with their employer at any time, provided that during
+such conference there is no attempt by the employer, directly or
+indirectly, to interfere with, restrain or coerce employees in the
+exercise of the rights guaranteed by this section.
+```

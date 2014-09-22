@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 442", "kind": "section", "law_id": "FCT", "location_id": "442", "path": "ARTICLE 4 › PART 4 › SECTION 442", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/442.md", "title": "Order of support by a spouse"} -->
+# Family Court Act § 442 — Order of support by a spouse
+
+[Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 4 — Orders](README.md)
+
+```text
+  § 442. Order of support by a spouse. If the court finds after a
+hearing that a husband or wife is chargeable under section four hundred
+twelve with the support of his or her spouse and is possessed of
+sufficient means or able to earn such means, the court shall make an
+order requiring the husband or wife to pay weekly or at other fixed
+periods a fair and reasonable sum for or towards the support of the
+other spouse.  The court shall require the spouse chargeable with
+support to make his or her residence known at all times should he or she
+move from the address last known to the court by reporting such change
+to the support collection unit designated by the appropriate social
+services district.  Failure to report such change shall subject him or
+her to the provisions of section four hundred fifty-four of this act.
+```

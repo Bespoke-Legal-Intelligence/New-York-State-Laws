@@ -1,0 +1,295 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4408", "kind": "section", "law_id": "PBH", "location_id": "4408", "path": "ARTICLE 44 › SECTION 4408", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4408.md", "title": "Disclosure of information"} -->
+# Public Health Law § 4408 — Disclosure of information
+
+[Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
+
+```text
+  § 4408. Disclosure of information. 1. Each subscriber, and upon
+request each prospective subscriber prior to enrollment, shall be
+supplied with written disclosure information which may be incorporated
+into the member handbook or the subscriber contract or certificate
+containing at least the information set forth below. In the event of any
+inconsistency between any separate written disclosure statement and the
+subscriber contract or certificate, the terms of the subscriber contract
+or certificate shall be controlling. The information to be disclosed
+shall include at least the following:
+  (a) a description of coverage provisions; health care benefits;
+benefit maximums, including benefit limitations; and exclusions of
+coverage, including the definition of medical necessity used in
+determining whether benefits will be covered;
+  (b) a description of all prior authorization or other requirements for
+treatments and services;
+  (c) a description of utilization review policies and procedures used
+by the health maintenance organization, including:
+  (i) the circumstances under which utilization review will be
+undertaken;
+  (ii) the toll-free telephone number of the utilization review agent;
+  (iii) the timeframes under which utilization review decisions must be
+made for prospective, retrospective and concurrent decisions;
+  (iv) the right to reconsideration;
+  (v) the right to an appeal, including the expedited and standard
+appeals processes and the time frames for such appeals;
+  (vi) the right to designate a representative;
+  (vii) a notice that all denials of claims will be made by qualified
+clinical personnel and that all notices of denials will include
+information about the basis of the decision;
+  (viii) a notice of the right to an external appeal together with a
+description, jointly promulgated by the commissioner and the
+superintendent of financial services as required pursuant to subdivision
+five of section forty-nine hundred fourteen of this chapter, of the
+external appeal process established pursuant to title two of article
+forty-nine of this chapter and the timeframes for such appeals; and
+  (ix) further appeal rights, if any;
+  (d) a description prepared annually of the types of methodologies the
+health maintenance organization uses to reimburse providers specifying
+the type of methodology that is used to reimburse particular types of
+providers or reimburse for the provision of particular types of
+services; provided, however, that nothing in this paragraph should be
+construed to require disclosure of individual contracts or the specific
+details of any financial arrangement between a health maintenance
+organization and a health care provider;
+  (e) an explanation of a subscriber's financial responsibility for
+payment of premiums, coinsurance, co-payments, deductibles and any other
+charges, annual limits on a subscriber's financial responsibility, caps
+on payments for covered services and financial responsibility for
+non-covered health care procedures, treatments or services provided
+within the health maintenance organization;
+  (f) an explanation of a subscriber's financial responsibility for
+payment when services are provided by a health care provider who is not
+part of the health maintenance organization or by any provider without
+required authorization or when a procedure, treatment or service is not
+a covered health care benefit;
+  (g) a description of the grievance procedures to be used to resolve
+disputes between a health maintenance organization and an enrollee,
+including: the right to file a grievance regarding any dispute between
+an enrollee and a health maintenance organization; the right to file a
+grievance orally when the dispute is about referrals or covered
+benefits; the toll-free telephone number which enrollees may use to file
+an oral grievance; the timeframes and circumstances for expedited and
+standard grievances; the right to appeal a grievance determination and
+the procedures for filing such an appeal; the timeframes and
+circumstances for expedited and standard appeals; the right to designate
+a representative; a notice that all disputes involving clinical
+decisions will be made by qualified clinical personnel; and that all
+notices of determination will include information about the basis of the
+decision and further appeal rights, if any;
+  (h) a description of the procedure for providing care and coverage
+twenty-four hours a day for emergency services. Such description shall
+include a definition of emergency services; notice that emergency
+services are not subject to prior approval; and shall describe the
+enrollee's financial and other responsibilities regarding obtaining such
+services including when such services are received outside the health
+maintenance organization's service area;
+  (i) a description of procedures for enrollees to select and access the
+health maintenance organization's primary and specialty care providers,
+including notice of how to determine whether a participating provider is
+accepting new patients;
+  (j) a description of the procedures for changing primary and specialty
+care providers within the health maintenance organization;
+  * (k) notice that an enrollee may obtain a referral to a health care
+provider outside of the health maintenance organization's network or
+panel when the health maintenance organization does not have a health
+care provider with appropriate training and experience in the network or
+panel to meet the particular health care needs of the enrollee and the
+procedure by which the enrollee can obtain such referral;
+  * NB Effective until March 31, 2015
+  * (k) notice that an enrollee may obtain a referral to a health care
+provider outside of the health maintenance organization's network or
+panel when the health maintenance organization does not have a health
+care provider who is geographically accessible to the enrollee and who
+has appropriate training and experience in the network or panel to meet
+the particular health care needs of the enrollee and the procedure by
+which the enrollee can obtain such referral;
+  * NB Effective March 31, 2015
+  (l) notice that an enrollee with a condition which requires ongoing
+care from a specialist may request a standing referral to such a
+specialist and the procedure for requesting and obtaining such a
+standing referral;
+  (m) notice that an enrollee with (i) a life-threatening condition or
+disease or (ii) a degenerative and disabling condition or disease either
+of which requires specialized medical care over a prolonged period of
+time may request a specialist responsible for providing or coordinating
+the enrollee's medical care and the procedure for requesting and
+obtaining such a specialist;
+  (n) notice that an enrollee with a (i) a life-threatening condition or
+disease or (ii) a degenerative and disabling condition or disease either
+of which requires specialized medical care over a prolonged period of
+time may request access to a specialty care center and the procedure by
+which such access may be obtained;
+  (o) a description of the mechanisms by which enrollees may participate
+in the development of the policies of the health maintenance
+organization;
+  (p) a description of how the health maintenance organization addresses
+the needs of non-English speaking enrollees;
+  * (p-1) notice that an enrollee shall have direct access to primary
+and preventive obstetric and gynecologic services from a qualified
+provider of such services of her choice from within the plan for no
+fewer than two examinations annually for such services or to any care
+related to pregnancy and that additionally, the enrollee shall have
+direct access to primary and preventive obstetric and gynecologic
+services required as a result of such annual examinations or as a result
+of an acute gynecologic condition;
+  * NB Effective until March 31, 2015
+  * (p-1) notice that an enrollee shall have direct access to primary
+and preventive obstetric and gynecologic services, including annual
+examinations, care resulting from such annual examinations, and
+treatment of acute gynecologic conditions, from a qualified provider of
+such services of her choice from within the plan or for any care related
+to a pregnancy;
+  * NB Effective March 31, 2015
+  * (q) notice of all appropriate mailing addresses and telephone
+numbers to be utilized by enrollees seeking information or
+authorization; and
+  * NB Effective until March 31, 2015
+  * (q) notice of all appropriate mailing addresses and telephone
+numbers to be utilized by enrollees seeking information or
+authorization;
+  * NB Effective March 31, 2015
+  * (r) a listing by specialty, which may be in a separate document that
+is updated annually, of the name, address and telephone number of all
+participating providers, including facilities, and, in addition, in the
+case of physicians, board certification.
+  * NB Effective until March 31, 2015
+  * (r) a listing by specialty, which may be in a separate document that
+is updated annually, of the name, address and telephone number of all
+participating providers, including facilities, and, in addition, in the
+case of physicians, board certification, languages spoken and any
+affiliations with participating hospitals. The listing shall also be
+posted on the health maintenance organization's website and the health
+maintenance organization shall update the website within fifteen days of
+the addition or termination of a provider from the health maintenance
+organization's network or a change in a physician's hospital
+affiliation;
+  * NB Effective March 31, 2015
+  * (s) where applicable, a description of the method by which an
+enrollee may submit a claim for health care services;
+  * NB Effective March 31, 2015
+  * (t) with respect to out-of-network coverage:
+  (i) a clear description of the methodology used by the health
+maintenance organization to determine reimbursement for out-of-network
+health care services;
+  (ii) the amount that the health maintenance organization will
+reimburse under the methodology for out-of-network health care services
+set forth as a percentage of the usual and customary cost for
+out-of-network health care services;
+  (iii) examples of anticipated out-of-pocket costs for frequently
+billed out-of-network health care services; and
+  * NB Effective March 31, 2015
+  * (u) information in writing and through an internet website that
+reasonably permits an enrollee or prospective enrollee to estimate the
+anticipated out-of-pocket cost for out-of-network health care services
+in a geographical area or zip code based upon the difference between
+what the health maintenance organization will reimburse for
+out-of-network health care services and the usual and customary cost for
+out-of-network health care services.
+  * NB Effective March 31, 2015
+  2. Each health maintenance organization shall, upon request of an
+enrollee or prospective enrollee:
+  (a) provide a list of the names, business addresses and official
+positions of the membership of the board of directors, officers,
+controlling persons, owners or partners of the health maintenance
+organization;
+  (b) provide a copy of the most recent annual certified financial
+statement of the health maintenance organization, including a balance
+sheet and summary of receipts and disbursements prepared by a certified
+public accountant;
+  (c) provide a copy of the most recent individual, direct pay
+subscriber contracts;
+  (d) provide information relating to consumer complaints compiled
+pursuant to section two hundred ten of the insurance law;
+  (e) provide the procedures for protecting the confidentiality of
+medical records and other enrollee information;
+  (f) allow enrollees and prospective enrollees to inspect drug
+formularies used by such health maintenance organization; and provided
+further, that the health maintenance organization shall also disclose
+whether individual drugs are included or excluded from coverage to an
+enrollee or prospective enrollee who requests this information;
+  (g) provide a written description of the organizational arrangements
+and ongoing procedures of the health maintenance organization's quality
+assurance program;
+  (h) provide a description of the procedures followed by the health
+maintenance organization in making decisions about the experimental or
+investigational nature of individual drugs, medical devices or
+treatments in clinical trials;
+  (i) provide individual health practitioner affiliations with
+participating hospitals, if any;
+  (j) upon written request, provide specific written clinical review
+criteria relating to a particular condition or disease and, where
+appropriate, other clinical information which the organization might
+consider in its utilization review and the organization may include with
+the information a description of how it will be used in the utilization
+review process; provided, however, that to the extent such information
+is proprietary to the organization, the enrollee or prospective enrollee
+shall only use the information for the purposes of assisting the
+enrollee or prospective enrollee in evaluating the covered services
+provided by the organization;
+  * (k) provide the written application procedures and minimum
+qualification requirements for health care providers to be considered by
+the health maintenance organization; and
+  * NB Effective until March 31, 2015
+  * (k) provide the written application procedures and minimum
+qualification requirements for health care providers to be considered by
+the health maintenance organization;
+  * NB Effective March 31, 2015
+  * (l) disclose other information as required by the commissioner,
+provided that such requirements are promulgated pursuant to the state
+administrative procedure act.
+  * NB Effective until March 31, 2015
+  * (1) disclose other information as required by the commissioner,
+provided that such requirements are promulgated pursuant to the state
+administrative procedure act;
+  * NB Effective March 31, 2015
+  * (m) disclose whether a health care provider scheduled to provide a
+health care service is an in-network provider; and
+  * NB Effective March 31, 2015
+  * (n) with respect to out-of-network coverage, disclose the
+approximate dollar amount that the health maintenance organization will
+pay for a specific out-of-network health care service. The health
+maintenance organization shall also inform an enrollee through such
+disclosure that such approximation is not binding on the health
+maintenance organization and that the approximate dollar amount that the
+health maintenance organization will pay for a specific out-of-network
+health care service may change.
+  * NB Effective March 31, 2015
+  3. Nothing in this section shall prevent a health maintenance
+organization from changing or updating the materials that are made
+available to enrollees.
+  4. If a primary care provider ceases participation in the health
+maintenance organization, the organization shall provide written notice
+within fifteen days from the date that the organization becomes aware of
+such change in status to each enrollee who has chosen the provider as
+their primary care provider. If an enrollee is in an ongoing course of
+treatment with any other participating provider who becomes unavailable
+to continue to provide services to such enrollee and the health
+maintenance organization is aware of such ongoing course of treatment,
+the health maintenance organization shall provide written notice within
+fifteen days from the date that the health maintenance organization
+becomes aware of such unavailability to such enrollee. Each notice shall
+also describe the procedures for continuing care pursuant to paragraphs
+(e) and (f) of subdivision six of section four thousand four hundred
+three of this article and for choosing an alternative provider.
+  5. Every health maintenance organization shall annually on or before
+April first, file a report with the commissioner and superintendent of
+financial services showing its financial condition as of the last day of
+the preceding calendar year, in such form and providing such information
+as the commissioner shall prescribe.
+  6. Every health maintenance organization offering to indemnify
+enrollees pursuant to subdivision nine of section forty-four hundred
+five and subdivision two of section forty-four hundred six of this
+article shall on a quarterly basis file a report with the commissioner
+and the superintendent of financial services showing the percentage
+utilization for the preceding quarter of non-participating provider
+services in such form and providing such other information as the
+commissioner shall prescribe.
+  * 7. For purposes of this section, "usual and customary cost" shall
+mean the eightieth percentile of all charges for the particular health
+care service performed by a provider in the same or similar specialty
+and provided in the same geographical area as reported in a benchmarking
+database maintained by a nonprofit organization specified by the
+superintendent of financial services. The nonprofit organization shall
+not be affiliated with an insurer, a corporation subject to article
+forty-three of the insurance law, a municipal cooperative health benefit
+plan certified pursuant to article forty-seven of the insurance law, or
+a health maintenance organization certified pursuant to this article.
+  * NB Effective March 31, 2015
+```

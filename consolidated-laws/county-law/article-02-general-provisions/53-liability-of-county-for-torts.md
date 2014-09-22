@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "County Law § 53", "kind": "section", "law_id": "CNT", "location_id": "53", "path": "ARTICLE 2 › SECTION 53", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/53.md", "title": "Liability of county for torts"} -->
+# County Law § 53 — Liability of county for torts
+
+[County Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 53. Liability of county for torts. 1. Upon compliance with section
+fifty-two each county shall be liable under the same rules of law
+applicable to the state, for damage or injury, or death, to person or
+property sustained by reason of the torts of its officers, agents,
+servants and employees.
+  2. Notwithstanding the provisions of any law defining real property
+owned by tax title or owned for purposes of reimbursement of assistance
+granted, as held and used for a public purpose, no county shall be
+liable by reason of such property being defective, out of repair, unsafe
+or dangerous, unless the county is in the actual physical possession,
+control and operation thereof as owner, or deriving a direct income
+therefrom; and with no greater liability than that imposed upon the
+individual owner of property.
+  3. Nothing herein shall repeal or modify the exclusive liability as
+imposed and provided in the workmen's compensation law.
+```

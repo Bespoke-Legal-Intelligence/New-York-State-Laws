@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 324", "kind": "section", "law_id": "RPP", "location_id": "324", "path": "ARTICLE 9 › SECTION 324", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/324.md", "title": "Effect of recording assignment of mortgage"} -->
+# Real Property Law § 324 — Effect of recording assignment of mortgage
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 324. Effect of recording assignment of mortgage. The recording of an
+assignment of a mortgage is not in itself a notice of such assignment to
+a mortgagor, his heirs or personal representatives, or to an owner of
+the mortgaged premises where such assignment is recorded subsequent to
+the recording of the conveyance of such premises to such owner, so as to
+invalidate a payment made by either of them to the mortgagee or to a
+prior assignee of the mortgage.
+```

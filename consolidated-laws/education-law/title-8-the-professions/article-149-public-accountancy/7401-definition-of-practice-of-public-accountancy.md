@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7401", "kind": "section", "law_id": "EDN", "location_id": "7401", "path": "TITLE 8 › ARTICLE 149 › SECTION 7401", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7401.md", "title": "Definition of practice of public accountancy"} -->
+# Education Law § 7401 — Definition of practice of public accountancy
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 149 — Public Accountancy](README.md)
+
+```text
+  § 7401. Definition of practice of public accountancy. The practice of
+the profession of public accountancy is defined as:
+  1. offering to perform or performing attest and/or compilation
+services, as defined in section seventy-four hundred one-a of this
+article;
+  2. incident to the services described in subdivision one of this
+section, offering to perform or performing professional services for
+clients, in any or all matters relating to accounting concepts and to
+the recording, presentation, or certification of financial information
+or data; or
+  3. offering to perform or performing, for other persons one or more
+types of the following services including but not limited to accounting,
+management advisory, financial advisory, and tax exclusive of services
+within subdivisions one and two of this section, involving the use of
+professional skills or competencies of the licensed accountant as
+described in the rules of the board of regents, including professional
+services rendered to one's employer not required to register under
+section seventy-four hundred eight of this article, in any and all
+matters related to accounting concepts and to the recording of financial
+data or information or the preparation or presentation of financial
+statements.
+```

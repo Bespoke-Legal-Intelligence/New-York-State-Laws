@@ -1,0 +1,137 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 1301", "kind": "section", "law_id": "LLC", "location_id": "1301", "path": "ARTICLE 13 › SECTION 1301", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/1301.md", "title": "Definitions"} -->
+# Limited Liability Company Law § 1301 — Definitions
+
+[Limited Liability Company Law](../README.md) › [Article 13 — Foreign Professional Service Limited Liability Companies](README.md)
+
+```text
+  § 1301. Definitions. As used in this article, unless the context
+otherwise requires, the term:
+  (a) "Foreign professional service limited liability company" means a
+professional service limited liability company, whether or not
+denominated as such, organized under the laws of a jurisdiction other
+than this state, (i) each of whose members and managers, if any, is a
+professional authorized by law to render a professional service within
+this state and who is or has been engaged in the practice of such
+profession in such professional service limited liability company or a
+predecessor entity, or will engage in the practice of such profession in
+the professional service limited liability company within thirty days of
+the date such professional becomes a member, or each of whose members
+and managers, if any, is a professional at least one of such members is
+authorized by law to render a professional service within this state and
+who is or has been engaged in the practice of such profession in such
+professional service limited liability company or a predecessor entity,
+or will engage in the practice of such profession in the professional
+service limited liability company within thirty days of the date such
+professional becomes a member, or (ii) authorized by, or holding a
+license, certificate, registration or permit issued by the licensing
+authority pursuant to, the education law to render a professional
+service within this state; except that all members and managers, if any,
+of a foreign professional service limited liability company that
+provides health services in this state shall be licensed in this state.
+With respect to a foreign professional service limited liability company
+which provides veterinary services as such services are defined in
+article 135 of the education law, each member of such foreign
+professional service limited liability company shall be licensed
+pursuant to article 135 of the education law to practice veterinary
+medicine. With respect to a foreign professional service limited
+liability company which provides medical services as such services are
+defined in article 131 of the education law, each member of such foreign
+professional service limited liability company must be licensed pursuant
+to article 131 of the education law to practice medicine in this state.
+With respect to a foreign professional service limited liability company
+which provides dental services as such services are defined in article
+133 of the education law, each member of such foreign professional
+service limited liability company must be licensed pursuant to article
+133 of the education law to practice dentistry in this state. With
+respect to a foreign professional service limited liability company
+which provides professional engineering, land surveying, architectural
+and/or landscape architectural services as such services are defined in
+article 145, article 147 and article 148 of the education law, each
+member of such foreign professional service limited liability company
+must be licensed pursuant to article 145, article 147 and/or article 148
+of the education law to practice one or more of such professions in this
+state. With respect to a foreign professional service limited liability
+company which provides licensed clinical social work services as such
+services are defined in article 154 of the education law, each member of
+such foreign professional service limited liability company shall be
+licensed pursuant to article 154 of the education law to practice
+clinical social work in this state. With respect to a foreign
+professional service limited liability company which provides creative
+arts therapy services as such services are defined in article 163 of the
+education law, each member of such foreign professional service limited
+liability company must be licensed pursuant to article 163 of the
+education law to practice creative arts therapy in this state. With
+respect to a foreign professional service limited liability company
+which provides marriage and family therapy services as such services are
+defined in article 163 of the education law, each member of such foreign
+professional service limited liability company must be licensed pursuant
+to article 163 of the education law to practice marriage and family
+therapy in this state. With respect to a foreign professional service
+limited liability company which provides mental health counseling
+services as such services are defined in article 163 of the education
+law, each member of such foreign professional service limited liability
+company must be licensed pursuant to article 163 of the education law to
+practice mental health counseling in this state. With respect to a
+foreign professional service limited liability company which provides
+psychoanalysis services as such services are defined in article 163 of
+the education law, each member of such foreign professional service
+limited liability company must be licensed pursuant to article 163 of
+the education law to practice psychoanalysis in this state. With respect
+to a foreign professional service limited liability company which
+provides applied behavior analysis services as such services are defined
+in article 167 of the education law, each member of such foreign
+professional service limited liability company must be licensed or
+certified pursuant to article 167 of the education law to practice
+applied behavior analysis in this state.
+  (b) "Licensing authority" means the regents of the university of the
+state of New York or the state education department, as the case may be,
+in the case of all professions licensed under title eight of the
+education law, and the appropriate appellate division of the supreme
+court in the case of the profession of law.
+  (c) "Profession" includes any practice as an attorney and
+counselor-at-law, or as a licensed physician, and those professions
+designated in title eight of the education law.
+  (d) "Professional" means an individual duly authorized to practice a
+profession, a professional service corporation, a professional service
+limited liability company, a foreign professional service limited
+liability company, a registered limited liability partnership, a foreign
+limited liability partnership, a foreign professional service
+corporation or a professional partnership.
+  (e) "Professional service" means any type of service to the public
+that may be lawfully rendered by a member of a profession within the
+purview of his or her profession.
+  (f) "Professional partnership" means (1) a partnership without limited
+partners each of whose partners is a professional authorized by law to
+render a professional service within this state, (2) a partnership
+without limited partners each of whose partners is a professional, at
+least one of whom is authorized by law to render a professional service
+within this state or (3) a partnership without limited partners
+authorized by, or holding a license, certificate, registration or permit
+issued by the licensing authority pursuant to the education law to
+render a professional service within this state; except that all
+partners of a professional partnership that provides medical services in
+this state must be licensed pursuant to article 131 of the education law
+to practice medicine in this state and all partners of a professional
+partnership that provides dental services in this state must be licensed
+pursuant to article 133 of the education law to practice dentistry in
+this state; except that all partners of a professional partnership that
+provides veterinary services in this state must be licensed pursuant to
+article 135 of the education law to practice veterinary medicine in this
+state; and further except that all partners of a professional
+partnership that provides professional engineering, land surveying,
+architectural, and/or landscape architectural services in this state
+must be licensed pursuant to article 145, article 147 and/or article 148
+of the education law to practice one or more of such professions.
+  (g) "Professional service corporation" means (i) a corporation
+organized under article fifteen of the business corporation law and (ii)
+any other corporation organized under the business corporation law or
+any predecessor statute, which is authorized by, or holds a license,
+certificate, registration or permit issued by, the licensing authority
+pursuant to the education law to render professional services within
+this state.
+  (h) "Professional service limited liability company" means a limited
+liability company organized under article twelve of this chapter.
+  (i) "Foreign professional service corporation" has the meaning given
+to it in paragraph (d) of section fifteen hundred twenty-five of the
+business corporation law.
+```

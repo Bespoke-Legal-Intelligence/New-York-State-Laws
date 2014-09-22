@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1836-C", "kind": "section", "law_id": "PBA", "location_id": "1836-C", "path": "ARTICLE 8 › TITLE 8 › SUBTITLE 6 › SECTION 1836-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1836-C.md", "title": "Applications for loans"} -->
+# Public Authorities Law § 1836-C — Applications for loans
+
+[Public Authorities Law](../../../README.md) › [Article 8 — Miscellaneous Authorities](../../README.md) › [Title 8 — New York Job Development Authority](../README.md) › [Subtitle 6 — Employee Ownership Assistance](README.md)
+
+```text
+  § 1836-c. Applications for loans. 1. Any employee ownership
+association may apply to a local development corporation serving the
+municipality in which the eligible project is located for an employee
+ownership assistance loan to be used to help finance an eligible
+project. Such application must include a written statement from the
+entity from which the project is being acquired, stating that such
+entity consents to the acquisition. The application shall include in
+detail:
+  (a) the history and membership of the association;
+  (b) the history and circumstances of the plant to be acquired;
+  (c) financial and marketing projections and analyses sufficient to
+allow the authority to evaluate the continued economic viability of the
+project;
+  (d) estimate of the number of jobs to be saved or created by the
+project; and
+  (e) total anticipated project cost.
+  2. The application shall also include a detailed financial statement
+of funding partner participation in the project, which shall include:
+  (a) the identity of all funding partners; and
+  (b) the terms of the financing agreements with the funding partners,
+including any repayment schedules and finance charges to be included in
+such agreements.
+```

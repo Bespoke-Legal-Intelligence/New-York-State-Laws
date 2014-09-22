@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 218", "kind": "section", "law_id": "PML", "location_id": "218", "path": "ARTICLE 2 › SECTION 218", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/218.md", "title": "Stewards at race meetings"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 218 — Stewards at race meetings
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 218. Stewards at race meetings. There shall be three stewards to
+supervise each running race meeting conducted pursuant to sections two
+hundred five and two hundred six of this article. One of such stewards
+shall be the official steward of the board, one shall be appointed by
+the jockey club or by the national steeplechase and hunt association as
+may be appropriate, and one shall be appointed by the corporation
+conducting such race meeting. Such stewards shall exercise such powers
+and perform such duties at each race meeting as may be prescribed by the
+rules of the state racing and wagering board. During the absence or
+inability to act of an official steward of the board, or in the event of
+the failure or inability to appoint either of the other two stewards,
+the powers and duties of such steward shall be exercised and performed
+without compensation by a member of the board designated by the board
+for that purpose.
+```

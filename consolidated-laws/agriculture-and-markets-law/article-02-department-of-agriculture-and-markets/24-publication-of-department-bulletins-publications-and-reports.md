@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 24", "kind": "section", "law_id": "AGM", "location_id": "24", "path": "ARTICLE 2 › SECTION 24", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/24.md", "title": "Publication of department bulletins, publications and reports"} -->
+# Agriculture and Markets Law § 24 — Publication of department bulletins, publications and reports
+
+[Agriculture and Markets Law](../README.md) › [Article 2 — Department of Agriculture and Markets; Jurisdiction; General Powers and Duties](README.md)
+
+```text
+  § 24. Publication of department bulletins, publications and reports.
+There may be published by the department from time to time bulletins or
+other publications and reports containing accurate data, statistics and
+information.
+  1. As to agriculture, agricultural production, agricultural labor and
+the agricultural conditions of the state, and the development and
+improvement thereof, with a view of increasing farm production and
+values;
+  2. As to the sources, supply and prices of foods, their storage and
+accumulation at different places, and the quantities and location of the
+available supply thereof;
+  3. As to the market prices of foods;
+  4. As to facilities afforded for transportation, marketing and
+distribution of foods within the state;
+  5. As to matters pertaining generally to the production of foods, the
+actual food value of articles used as foods, and the sale and
+distribution thereof to the consumers, which in the opinion of the
+commissioner will prove valuable or of interest to the public;
+  6. As to investigations, hearings and inquiries conducted as provided
+in this chapter, the conclusions reached as to the matters involved
+therein, and the orders and recommendations made as a result thereof;
+  7. As to any other matter which the commissioner deems proper.
+  Such bulletins, publications and reports and the information contained
+therein shall be published and distributed in the manner deemed best by
+the commissioner for the dissemination of knowledge as to the
+agricultural and dairy interests of the state and the production, sale,
+purchase, storage, marketing and distribution of foods, and the economic
+and food value of articles used as food.  The cost of publishing such
+bulletins, publications and reports shall be paid in the same manner as
+other expenses of the department out of appropriations made therefor.
+Copies of the bulletins, publication and reports of the department may
+also be sold to the public at the estimated cost thereof, in accordance
+with a schedule of charges which the commissioner is hereby authorized
+to adopt.
+```

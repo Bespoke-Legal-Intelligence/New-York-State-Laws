@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 89-T", "kind": "section", "law_id": "GBS", "location_id": "89-T", "path": "ARTICLE 8 › SECTION 89-T", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/89-T.md", "title": "Definitions"} -->
+# General Business Law § 89-T — Definitions
+
+[General Business Law](../README.md) › [Article 8 — Process Servers](README.md)
+
+```text
+  § 89-t. Definitions. For this article, a process server is a person
+other than an attorney or a party to an action acting on his own behalf
+who:  (a) derives income from the service of papers in an action; or (b)
+has effected service of process in five or more actions or proceedings
+in the twelve month period immediately preceding the service in
+question. A person who serves interlocutory papers upon an attorney or
+who serves papers on behalf of a federal, state or local governmental
+agency in the course of his employment by such agency shall not be
+deemed a process server within the meaning of this article by virtue of
+such service.
+```

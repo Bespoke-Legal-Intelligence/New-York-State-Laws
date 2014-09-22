@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 2406", "kind": "section", "law_id": "VAT", "location_id": "2406", "path": "TITLE 11 › ARTICLE 48-C › SECTION 2406", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/2406.md", "title": "Equipment"} -->
+# Vehicle and Traffic Law § 2406 — Equipment
+
+[Vehicle and Traffic Law](../../README.md) › [Title 11 — Registration of Snowmobiles, Motorboats and Limited Use Vehicles](../README.md) › [Article 48-C — Rules For Operation of All Terrain Vehicles](README.md)
+
+```text
+  § 2406. Equipment. 1. No person shall operate an ATV unless it is
+equipped with:
+  (a) brakes in good operating condition;
+  (b) a muffler system in good operating condition which meets federal
+standards as established in 40 CFR (Code of Federal Regulations) Part
+205.166, sub Part E;
+  (c) a spark arrester approved by the United States Forest Service;
+  (d) tires having at least two-thirty seconds of an inch of tread with
+no visible breaks, cuts, exposed cords, bumps or bulges;
+  (e) a lighted white headlight approved by the commissioner and a
+lighted red taillight approved by the commissioner when operated for
+one-half hour after sunset to one-half hour before sunrise.
+  2. No person shall operate an ATV or ride as a passenger on an ATV
+unless he is wearing a protective helmet of a type approved by the
+commissioner pursuant to subdivision six of section three hundred
+eighty-one of this chapter.
+  3. No person shall operate an ATV:
+  (a) on a highway with tires equipped with any studs other than
+automotive studs;
+  (b) except as an authorized emergency ATV, police, or civil defense
+ATV as an emergency vehicle, while displaying one or more lighted red or
+a combination red or white lights which are revolving, rotating,
+flashing, oscillating or constantly moving;
+  (c) as an authorized emergency ATV or civil defense ATV, as an
+emergency vehicle unless it is equipped with one or more lighted, red or
+combination red or white light or lights which is or are revolving,
+rotating, flashing, oscillating or constantly moving and which has or
+have minimum candle power of sufficient intensity to be plainly visible
+from a distance of five hundred feet in all directions under normal
+atmospheric conditions.
+```

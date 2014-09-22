@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1506", "kind": "section", "law_id": "SCP", "location_id": "1506", "path": "ARTICLE 15 › SECTION 1506", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1506.md", "title": "Nonliability for acts of predecessor executor A trustee who was not an executor of the estate of the same decedent shall not be liable fo..."} -->
+# Surrogate's Court Procedure Act § 1506 — Nonliability for acts of predecessor executor A trustee who was not an executor of the estate of the same decedent shall not be liable fo...
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 15 — Trusts and Trustees](README.md)
+
+```text
+§ 1506. Nonliability for acts of predecessor executor
+  A trustee who was not an executor of the estate of the same decedent
+shall not be liable for breach of trust committed by the executor in any
+of the following cases:
+  1.  He received the assets of the trust pursuant to a final decree of
+the court.
+  2.  He did not know of a situation constituting a breach of trust
+committed by the executor, and does not improperly permit it to
+continue.
+  3.  He does not neglect to take proper steps to compel the executor to
+deliver trust property to him.
+  4.  He does not neglect to take proper steps to redress a breach of
+trust committed by the executor.
+```

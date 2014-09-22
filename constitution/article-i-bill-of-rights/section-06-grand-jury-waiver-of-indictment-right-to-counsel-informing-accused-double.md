@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article I, § 6", "kind": "section", "law_id": "CNS", "location_id": "A1S6", "path": "ARTICLE I › SECTION 6", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A1S6.md", "title": "Grand jury; waiver of indictment; right to counsel; informing            accused; double jeopardy; self-incrimination; waiver of            immunity by public officers; due process of law"} -->
+# New York State Constitution, Article I, § 6 — Grand jury; waiver of indictment; right to counsel; informing            accused; double jeopardy; self-incrimination; waiver of            immunity by public officers; due process of law
+
+[New York State Constitution](../README.md) › [Article I — Bill of Rights](README.md)
+
+```text
+  § 6. No person shall be held to answer for a capital or otherwise
+infamous crime (except in cases of impeachment, and in cases of militia
+when in actual service, and the land, air and naval forces in time of
+war, or which this state may keep with the consent of congress in time
+of peace, and in cases of petit larceny under the regulation of the
+legislature), unless on indictment of a grand jury, except that a person
+held for the action of a grand jury upon a charge for such an offense,
+other than one punishable by death or life imprisonment, with the
+consent of the district attorney, may waive indictment by a grand jury
+and consent to be prosecuted on an information filed by the district
+attorney; such waiver shall be evidenced by written instrument signed by
+the defendant in open court in the presence of his or her counsel. In
+any trial in any court whatever the party accused shall be allowed to
+appear and defend in person and with counsel as in civil actions and
+shall be informed of the nature and cause of the accusation and be
+confronted with the witnesses against him or her. No person shall be
+subject to be twice put in jeopardy for the same offense; nor shall he
+or she be compelled in any criminal case to be a witness against himself
+or herself, providing, that any public officer who, upon being called
+before a grand jury to testify concerning the conduct of his or her
+present office or of any public office held by him or her within five
+years prior to such grand jury call to testify, or the performance of
+his or her official duties in any such present or prior offices, refuses
+to sign a waiver of immunity against subsequent criminal prosecution, or
+to answer any relevant question concerning such matters before such
+grand jury, shall by virtue of such refusal, be disqualified from
+holding any other public office or public employment for a period of
+five years from the date of such refusal to sign a waiver of immunity
+against subsequent prosecution, or to answer any relevant question
+concerning such matters before such grand jury, and shall be removed
+from his or her present office by the appropriate authority or shall
+forfeit his or her present office at the suit of the attorney-general.
+  The power of grand juries to inquire into the wilful misconduct in
+office of public officers, and to find indictments or to direct the
+filing of informations in connection with such inquiries, shall never be
+suspended or impaired by law. No person shall be deprived of life,
+liberty or property without due process of law.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 172", "kind": "section", "law_id": "DOM", "location_id": "172", "path": "ARTICLE 10 › SECTION 172", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/172.md", "title": "Co-respondent as party"} -->
+# Domestic Relations Law § 172 — Co-respondent as party
+
+[Domestic Relations Law](../README.md) › [Article 10 — Action For Divorce](README.md)
+
+```text
+  § 172. Co-respondent as party. 1. In an action brought to obtain a
+divorce on the ground of adultery the plaintiff or defendant may serve a
+copy of his pleading on a co-respondent named therein. At any time
+within twenty days after such service, the co-respondent may appear to
+defend such action so far as the issues affect him. If no such service
+be made, then at any time before the entry of judgment a co-respondent
+named in any of the pleadings may make a written demand on any party for
+a copy of a summons and a pleading served by such party, which must be
+served within ten days thereafter, and he may appear to defend such
+action so far as the issues affect him.
+  2. In an action for divorce where a co-respondent has appeared and
+defended, in case no one of the allegations of adultery controverted by
+such co-respondent shall be proven, such co-respondent shall be entitled
+to a bill of costs against the person naming him as such co-respondent,
+which bill of costs shall consist only of the sum now allowed by law as
+a trial fee, and disbursements.
+```

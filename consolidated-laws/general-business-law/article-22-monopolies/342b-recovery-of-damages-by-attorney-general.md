@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 342-B", "kind": "section", "law_id": "GBS", "location_id": "342-B", "path": "ARTICLE 22 › SECTION 342-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/342-B.md", "title": "Recovery of damages by attorney general"} -->
+# General Business Law § 342-B — Recovery of damages by attorney general
+
+[General Business Law](../README.md) › [Article 22 — Monopolies](README.md)
+
+```text
+  § 342-b. Recovery of damages by attorney general. In addition to
+existing statutory authority to bring such actions on behalf of the
+state and public authorities, the attorney general may also bring action
+on behalf of any political subdivision or public authority of the state
+upon the request of such political subdivision or public authority to
+recover damages for violations of section three hundred forty of this
+article, or to recover damages provided for by federal law for
+violations of the federal antitrust laws. In any class action the
+attorney general may bring on behalf of these or other subordinate
+governmental entities, any governmental entity that does not
+affirmatively exclude itself from the action, upon due notice thereof,
+shall be deemed to have requested to be treated as a member of the class
+represented in that action.  The attorney general, on behalf of the
+state of New York, shall be entitled to retain from any moneys recovered
+in such actions the costs and expenses of such services.
+```

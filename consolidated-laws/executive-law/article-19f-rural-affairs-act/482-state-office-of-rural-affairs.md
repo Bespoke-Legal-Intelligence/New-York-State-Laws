@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 482", "kind": "section", "law_id": "EXC", "location_id": "482", "path": "ARTICLE 19-F › SECTION 482", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/482.md", "title": "State office of rural affairs"} -->
+# Executive Law § 482 — State office of rural affairs
+
+[Executive Law](../README.md) › [Article 19-F — Rural Affairs Act](README.md)
+
+```text
+  § 482. State office of rural affairs. 1. There is hereby created in
+the executive department an office of rural affairs. The head of the
+office shall be the director of rural affairs who shall be appointed by
+the governor, with the advice and consent of the senate, and who shall
+hold office at the pleasure of the governor.  The director shall receive
+an annual salary to be fixed by the governor within the amount available
+therefor by appropriation. He shall also be entitled to receive
+reimbursement for expenses actually and necessarily incurred by him in
+the performance of his duties. The director may appoint such officers
+and employees, agents, consultants, and special committees as he or she
+may deem necessary, prescribe their duties, fix their compensation and
+provide for reimbursement of their expenses within amounts available
+therefor by appropriation.
+  2. The director shall prepare and submit annually, on or before
+February first, a comprehensive report, pursuant to section four hundred
+ninety of this article.
+  3. The governor shall direct that all state agencies provide the
+director with assistance in advancing the purpose of the office and to
+assure that the activities of the office are fully coordinated with the
+activities of state agencies providing related services.
+```

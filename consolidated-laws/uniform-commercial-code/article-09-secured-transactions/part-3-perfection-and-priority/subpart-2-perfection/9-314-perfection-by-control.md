@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-314", "kind": "section", "law_id": "UCC", "location_id": "9-314", "path": "ARTICLE 9 › PART 3 › SUBPART 2 › SECTION 9-314", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-314.md", "title": "Perfection by Control"} -->
+# Uniform Commercial Code § 9-314 — Perfection by Control
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 3 — Perfection and Priority](../README.md) › [Subpart 2 — Perfection](README.md)
+
+```text
+Section 9--314. Perfection by Control.
+  (a) Perfection by control. A security interest in investment property,
+deposit accounts, letter-of-credit rights, or electronic chattel paper
+may be perfected by control of the collateral under Section 9--104,
+9--105, 9--106, or 9--107.
+  (b) Specified collateral: time of perfection by control; continuation
+of perfection. A security interest in deposit accounts, electronic
+chattel paper, or letter-of-credit rights is perfected by control under
+Section 9--104, 9--105, or 9--107 when the secured party obtains control
+and remains perfected by control only while the secured party retains
+control.
+  (c) Investment property: time of perfection by control; continuation
+of perfection. A security interest in investment property is perfected
+by control under Section 9--106 from the time the secured party obtains
+control and remains perfected by control until:
+       (1) the secured party does not have control; and
+       (2) one of the following occurs:
+           (A) if the collateral is a certificated security, the debtor
+               has or acquires possession of the security certificate;
+           (B) if the collateral is an uncertificated security, the
+               issuer has registered or registers the debtor as the
+               registered owner; or
+           (C) if the collateral is a security entitlement, the debtor
+               is or becomes the entitlement holder.
+  (d) Cooperative interests. Subsections (a) through (c) do not apply to
+cooperative interests.
+```

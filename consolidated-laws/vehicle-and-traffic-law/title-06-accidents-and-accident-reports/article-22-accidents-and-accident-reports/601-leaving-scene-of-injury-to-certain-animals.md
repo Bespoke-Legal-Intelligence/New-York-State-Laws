@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 601", "kind": "section", "law_id": "VAT", "location_id": "601", "path": "TITLE 6 › ARTICLE 22 › SECTION 601", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/601.md", "title": "Leaving scene of injury to certain animals without reporting"} -->
+# Vehicle and Traffic Law § 601 — Leaving scene of injury to certain animals without reporting
+
+[Vehicle and Traffic Law](../../README.md) › [Title 6 — Accidents and Accident Reports](../README.md) › [Article 22 — Accidents and Accident Reports](README.md)
+
+```text
+  § 601. Leaving scene of injury to certain animals without reporting.
+Any person operating a motor vehicle which shall strike and injure any
+horse, dog, cat or animal classified as cattle shall stop and endeavor
+to locate the owner or custodian of such animal or a police, peace or
+judicial officer of the vicinity, and take any other reasonable and
+appropriate action so that the animal may have necessary attention, and
+shall also promptly report the matter to such owner, custodian or
+officer (or if no one of such has been located, then to a police officer
+of some other nearby community), exhibiting his or her license and
+insurance identification card for such vehicle, when such card is
+required pursuant to articles six and eight of this chapter, giving his
+or her name and residence, including street and street number, insurance
+carrier and insurance identification information and license number.
+Violation of this section shall be punishable by a fine of not more than
+one hundred dollars for a first offense and by a fine of not less than
+fifty nor more than one hundred fifty dollars for a second offense and
+each subsequent offense; provided, however where the animal that has
+been struck and injured is a guide dog, hearing dog or service dog, as
+such terms are defined in section forty-seven-b of the civil rights law
+which is actually engaged in aiding or guiding a person with a
+disability, a violation of this section shall be publishable by a fine
+of not less than fifty nor more than one hundred fifty dollars for a
+first offense and by a fine of not less than one hundred fifty dollars
+nor more than three hundred dollars for a second offense and each
+subsequent offense.
+```

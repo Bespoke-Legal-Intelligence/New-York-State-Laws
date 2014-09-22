@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 101", "kind": "section", "law_id": "JUD", "location_id": "101", "path": "ARTICLE 4 › SECTION 101", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/101.md", "title": "Power of justices of appellate division of second department to appoint clerical and other personnel of the appellate term"} -->
+# Judiciary Law § 101 — Power of justices of appellate division of second department to appoint clerical and other personnel of the appellate term
+
+[Judiciary Law](../README.md) › [Article 4 — Appellate Division](README.md)
+
+```text
+  § 101. Power of justices of appellate division of second department to
+appoint clerical and other personnel of the appellate term. The justices
+of the appellate division of the supreme court in the second department,
+or a majority of them, are authorized to appoint in their discretion,
+and to remove at pleasure, for the appellate term of the supreme court
+in the second department, a chief clerk, one deputy clerk, one assistant
+deputy clerk, and all necessary other assistants and personnel in said
+court, and to prescribe the duties and fix the salaries thereof. Except
+as provided in the state finance law, such salaries and all other
+necessary expenses of such appellate term, shall be paid by the state
+comptroller out of moneys appropriated therefor by law.  The state
+department of taxation and finance shall pay such salaries in equal
+biweekly installments and shall apportion the total amount of such
+salaries and expenses among the counties comprising the second judicial
+department. Such counties shall reimburse the state for such salaries
+and expenses. The time and method of such reimbursement shall be as
+specified in section seventy-four of this chapter.
+```

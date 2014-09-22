@@ -1,0 +1,84 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "EDN", "location_id": "A5P1", "path": "TITLE 1 › ARTICLE 5 › PART 1", "source": "nys-laws:EDN/A5P1.md", "title": "General Organization"} -->
+# Part 1 — General Organization
+
+[Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md)
+
+## Contents
+
+- [§ 201 Corporate name and objects](201-corporate-name-and-objects.md)
+- [§ 202 Regents](202-regents.md)
+- [§ 203 Officers](203-officers.md)
+- [§ 204 Meetings and absences](204-meetings-and-absences.md)
+- [§ 205 Quorum](205-quorum.md)
+- [§ 206 Authority to take testimony and conduct hearings](206-authority-to-take-testimony.md)
+- [§ 207 Legislative power](207-legislative-power.md)
+- [§ 207-A Disclosure of gifts made to institutions of higher education by foreign governments, persons and entities](207a-disclosure-of-gifts-made.md)
+- [§ 208 General examinations, credentials and degrees](208-general-examinations-credentials.md)
+- [§ 208-A Scheduling of examinations](208a-scheduling-of-examinations.md)
+- [§ 209 Academic examinations; admission and fees](209-academic-examinations-admission.md)
+- [§ 209-A Applications for admission to college](209a-applications-for-admission.md)
+- [§ 210 Registrations](210-registrations.md)
+- [§ 211 Review of regents learning standards](211-review-of-regents-learning-standards.md)
+- [§ 211-A Enhanced state accountability system](211a-enhanced-state-accountability-system.md)
+- [§ 211-B Consequences for consistent lack of improvement in academic performance](211b-consequences-for-consistent-lack.md)
+- [§ 211-C Distinguished educators](211c-distinguished-educators.md)
+- [§ 211-D Contract for excellence](211d-contract-for-excellence.md)
+- [§ 211-E Educational partnership organizations](211e-educational-partnership.md)
+- [§ 212 Fees](212-fees.md)
+- [§ 212-A Return of deposits for professional and graduate schools](212a-return-of-deposits-for-professional.md)
+- [§ 212-B Return of tuition for colleges, universities, professional, proprietary and graduate schools](212b-return-of-tuition-for-colleges.md)
+- [§ 212-C Teacher accreditation review fees](212c-teacher-accreditation-review-fees.md)
+- [§ 213 Extension of educational facilities](213-extension-of-educational-facilities.md)
+- [§ 213-B Unlawful sale of dissertations, theses and term papers](213b-unlawful-sale-of-dissertations.md)
+- [§ 214 Institutions in the university](214-institutions-in-the-university.md)
+- [§ 215 Visitation and reports](215-visitation-and-reports.md)
+- [§ 215-A Annual report by regents to governor and legislature](215a-annual-report-by-regents-to-governor.md)
+- [§ 215-B Annual report by commissioner to governor and legislature](215b-annual-report-by-commissioner.md)
+- [§ 215-C Promoting cost-effectiveness in public elementary and secondary schools](215c-promoting-cost-effectiveness.md)
+- [§ 215-D State university of New York report on economic development activities](215d-state-university-of-new-york-report.md)
+- [§ 216 Charters](216-charters.md)
+- [§ 216-A Applicability of not-for-profit corporation law](216a-applicability-of-not-for-profit.md)
+- [§ 216-B Private foundations, as defined in the United States internal revenue code of 1954: provisions included in the charter](216b-private-foundations-as-defined.md)
+- [§ 216-C Special provisions for cutlery and knife museums that exhibit automatic knives](216c-special-provisions-for-cutlery.md)
+- [§ 217 Provisional charters](217-provisional-charters.md)
+- [§ 218 Conditions of incorporation](218-conditions-of-incorporation.md)
+- [§ 219 Change of name or charter](219-change-of-name-or-charter.md)
+- [§ 220 Distribution of assets](220-distribution-of-assets.md)
+- [§ 221 Dissolution of educational institution by stockholders](221-dissolution-of-educational.md)
+- [§ 222 Suspension of operations](222-suspension-of-operations.md)
+- [§ 223 Consolidation or merger of corporations](223-consolidation-or-merger.md)
+- [§ 224 Prohibitions](224-prohibitions.md)
+- [§ 224-A Students unable because of religious beliefs to register or attend classes on certain days](224a-students-unable-because-of-religious.md)
+- [§ 225 Unlawful acts in respect to examinations and records](225-unlawful-acts-in-respect.md)
+- [§ 226 Powers of trustees of institutions](226-powers-of-trustees-of-institutions.md)
+- [§ 227 Colleges may construct water-works and sewer systems](227-colleges-may-construct-water-works.md)
+- [§ 228 The Hamilton college sewer district](228-the-hamilton-college-sewer-district.md)
+- [§ 229 County educational institutions](229-county-educational-institutions.md)
+- [§ 230 Municipal training institute](230-municipal-training-institute.md)
+- [§ 231 Town and county officers training school](231-town-and-county-officers-training.md)
+- [§ 232 Departments and their government](232-departments-and-their-government.md)
+- [§ 233 State Museum; collections made by the staff](233-state-museum-collections-made.md)
+- [§ 233-A Property of the state museum](233a-property-of-the-state-museum.md)
+- [§ 233-AA Property of other museums](233aa-property-of-other-museums.md)
+- [§ 233-B New York state freedom trail commission](233b-new-york-state-freedom-trail.md)
+- [§ 233-C Study](233c-study.md)
+- [§ 234 Indian collection](234-indian-collection.md)
+- [§ 235 State science service](235-state-science-service.md)
+- [§ 235-A New York state biodiversity research institute](235a-new-york-state-biodiversity-research.md)
+- [§ 235-B New York state biological survey](235b-new-york-state-biological-survey.md)
+- [§ 236 Public television and radio](236-public-television-and-radio.md)
+- [§ 237 Regents plan for higher education including approved plans of state university and city university of New York and plans of independent i...](237-regents-plan-for-higher-education.md)
+- [§ 238 Chair on geriatrics in the state university](238-chair-on-geriatrics-in-the-state.md)
+- [§ 238-A Statewide resource centers for geriatric education](238a-statewide-resource-centers.md)
+- [§ 239 Albert Einstein chairs in science and Albert Schweitzer chairs in the humanities](239-albert-einstein-chairs-in-science.md)
+- [§ 239-A Collection and distribution of student's residual consumer goods](239a-collection-and-distribution.md)
+
+<details>
+<summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                                 PART I
+                          GENERAL ORGANIZATION
+```
+
+</details>

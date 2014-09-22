@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 64", "kind": "section", "law_id": "LIE", "location_id": "64", "path": "ARTICLE 3 › SECTION 64", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/64.md", "title": "Award of personal judgment by court or referee"} -->
+# Lien Law § 64 — Award of personal judgment by court or referee
+
+[Lien Law](../README.md) › [Article 3 — Enforcement of Liens On Real Property](README.md)
+
+```text
+  § 64. Award of personal judgment by court or referee. A court or
+referee in any action heretofore or hereafter brought may at any time
+award a money judgment in favor of any party. This shall not preclude
+the rendition of other judgments in the action. Any payment made on
+account of either judgment in favor of a party shall be credited on the
+other judgment.
+```

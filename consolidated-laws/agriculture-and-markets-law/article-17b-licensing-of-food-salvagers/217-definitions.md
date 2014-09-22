@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 217", "kind": "section", "law_id": "AGM", "location_id": "217", "path": "ARTICLE 17-B › SECTION 217", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/217.md", "title": "Definitions"} -->
+# Agriculture and Markets Law § 217 — Definitions
+
+[Agriculture and Markets Law](../README.md) › [Article 17-B — Licensing of Food Salvagers](README.md)
+
+```text
+  § 217. Definitions. (a) The term "food salvager" as used in this
+article, means a person engaged in the business of reconditioning,
+labeling, relabeling, packing, repacking, sorting, cleaning, culling, or
+by other means salvaging food or food products, single service food
+containers and utensils, soda straws, paper napkins or any product of a
+similar nature that may have become damaged, contaminated, adulterated
+or misbranded as a result of fire, flood, transit wreck, accident or
+other cause, or by water, smoke, chemicals, or any other adulterating
+agents. The term food salvager shall not include a person who collects
+donated farm salvage from lands owned, occupied or leased by such person
+with the intent to donate such farm salvage to a charitable
+not-for-profit organization provided that such salvage is in fact so
+donated. A person who manufactures animal feed or an animal feed
+ingredient from food products in a facility registered pursuant to
+section one hundred twenty-nine of this chapter shall not be considered
+a food salvager based on such activity.
+  (b) "Donated farm salvage" shall mean an agricultural crop that is
+unharvested, surplus or unmarketable but otherwise nutritious and
+edible.
+```

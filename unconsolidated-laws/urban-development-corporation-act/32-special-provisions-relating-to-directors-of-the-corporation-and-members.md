@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 32", "kind": "section", "law_id": "UDA", "location_id": "32", "path": "SECTION 32", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/32.md", "title": "Special provisions relating to directors of the corporation and members of the business advisory council for urban development"} -->
+# Urban Development Corporation Act § 32 — Special provisions relating to directors of the corporation and members of the business advisory council for urban development
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 32. Special provisions relating to directors of the corporation and
+members of the business advisory council for urban development.
+Notwithstanding the provisions of any other law, any state
+instrumentality, including any state agency, trust fund or public
+benefit corporation other than the corporation, may purchase from, sell
+to, borrow from, loan to, contract with or otherwise deal with any
+corporation, trust, association, partnership or other entity in which
+any director of the corporation or any member of the business advisory
+council for urban development, created by section four of this act, has
+a financial interest, direct or indirect, and the corporation may engage
+in any such transaction with any other state instrumentality with which
+any director of the corporation is affiliated as a state officer or
+employee, provided that prior to such transaction such interest or
+affiliation is disclosed to such other state instrumentality and is
+disclosed in the minutes of the corporation, and provided further that
+no director having such an affiliation (except such an affiliation with
+a subsidiary corporation of the corporation organized in accordance with
+section twelve of this act or with any authority or commission
+heretofore or hereafter continued or created under the public
+authorities law) may participate in any decision of the corporation
+affecting such transaction.
+```

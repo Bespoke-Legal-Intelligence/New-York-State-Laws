@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 3431", "kind": "section", "law_id": "ISC", "location_id": "3431", "path": "ARTICLE 34 › SECTION 3431", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/3431.md", "title": "Immunity; insurers' reports to insureds, to applicants for insurance and to terminated agents or brokers"} -->
+# Insurance Law § 3431 — Immunity; insurers' reports to insureds, to applicants for insurance and to terminated agents or brokers
+
+[Insurance Law](../README.md) › [Article 34 — Insurance Contracts-property/casualty](README.md)
+
+```text
+  § 3431. Immunity; insurers' reports to insureds, to applicants for
+insurance and to terminated agents or brokers. (a) In any written notice
+of:
+  (1) refusal to issue,
+  (2) cancellation,
+  (3) reduction of limits,
+  (4) substitution of policy form,
+  (5) elimination of coverages,
+  (6) conditioned renewal,
+  (7) non-renewal, or
+  (8) termination or refusal to renew a contract or account of a
+licensed agent or broker, or in any other communication, oral or
+written, specifying the reasons for such action, there shall be no
+liability on the part of, and no cause of action of any nature shall
+arise against any insurer, its authorized representatives, agents, or
+employees or any licensed agent or broker for any statement made in good
+faith by any of them or for providing information pertaining thereto or
+for statements made or evidence submitted at any hearings in connection
+therewith.
+  (b) Subsection (a) hereof shall provide immunity with respect to all
+obligations and duties performed pursuant to sections three thousand
+four hundred twenty-five, three thousand four hundred twenty-six, three
+thousand four hundred twenty-nine and three thousand four hundred
+thirty-three of this article.
+  (c) Notwithstanding subsection (a) hereof in the case of any statement
+made pursuant to section three thousand four hundred twenty-six of this
+article, there shall be no liability unless the statement is shown to
+have been in bad faith and with malice in fact.
+```

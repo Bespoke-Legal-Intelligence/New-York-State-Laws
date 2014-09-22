@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 346", "kind": "section", "law_id": "RCO", "location_id": "346", "path": "ARTICLE 18 › SECTION 346", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/346.md", "title": "Changing number of laymen trustees"} -->
+# Religious Corporations Law § 346 — Changing number of laymen trustees
+
+[Religious Corporations Law](../README.md) › [Article 18 — Churches of the Byelorussian Autocephalic Orthodox Church In America](README.md)
+
+```text
+  § 346. Changing number of laymen trustees. An incorporated church to
+which this article is applicable may, at its annual corporate meeting
+where trustees are elected, by a majority vote of the duly qualified
+voters at such meeting, change the number of its trustees by adding more
+trustees, one-third of which shall be elected for three years, one-third
+for two years and one-third for one year; or by voting to discontinue
+the offices of certain specified trustees as they expire, one-third of
+said offices to be discontinued each year, until the number left is the
+number decided upon. No such changes shall affect the terms of the
+trustees then in office, but each shall hold office until his full term
+has expired unless his office shall terminate as provided for elsewhere
+in this article.
+```

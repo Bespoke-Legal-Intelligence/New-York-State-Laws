@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 165", "kind": "section", "law_id": "AGM", "location_id": "165", "path": "ARTICLE 14 › SECTION 165", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/165.md", "title": "Damages for property destroyed"} -->
+# Agriculture and Markets Law § 165 — Damages for property destroyed
+
+[Agriculture and Markets Law](../README.md) › [Article 14 — Prevention and Control of Disease In Trees and Plants; Insect Pests; Sale of Fruit-bearing Trees](README.md)
+
+```text
+  § 165. Damages for property destroyed.  No damages shall be awarded
+for the destruction of infested or infected trees, shrubs, plants and
+vines, host plants or other material under the provisions of this
+article except as follows: any person deeming himself aggrieved may,
+within six months after the destruction occurs, present to the
+commissioner a verified claim setting forth the grounds of his grievance
+and the amount of his damages, which claim shall be determined by the
+commissioner after giving due consideration to any benefits which have
+accrued or may accrue to the claimant by reason of such destruction, as
+an offset to the amount of the claim. The determination of the
+commissioner may be reviewed in the manner provided by article
+seventy-eight of the civil practice law and rules.
+```

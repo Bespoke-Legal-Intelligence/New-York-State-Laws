@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 248", "kind": "section", "law_id": "PML", "location_id": "248", "path": "ARTICLE 2 › SECTION 248", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/248.md", "title": "Racing season; allotment of dates for racing"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 248 — Racing season; allotment of dates for racing
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 248. Racing season; allotment of dates for racing. In the assignment
+of dates by the state racing and wagering board to corporations for
+conducting running races or steeplechases no conflict shall be deemed to
+exist by reason of duplication of dates as between race meetings in the
+first zone and race meetings in the second zone, nor as between race
+meetings within a zone if the race courses at which such meetings are
+held are at least thirty-five miles apart in the first zone and at least
+seventy-five miles apart in the second zone, except that a minimum of
+thirty-six days of racing shall be assigned exclusively to the second
+zone unless the governor determines that a sufficient emergency exists
+for reducing such number of days of racing, in which event the state
+racing and wagering board is then authorized to assign a lesser number
+of days of racing to the second zone. The state racing and wagering
+board may separately apportion to the several corporations licensed or
+franchised to conduct running races or steeplechases as many of the
+racing days for the season, not to exceed the maximum number of racing
+days permitted by law.
+```

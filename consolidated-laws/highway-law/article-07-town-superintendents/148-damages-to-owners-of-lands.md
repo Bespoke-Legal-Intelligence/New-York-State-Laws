@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 148", "kind": "section", "law_id": "HAY", "location_id": "148", "path": "ARTICLE 7 › SECTION 148", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/148.md", "title": "Damages to owners of lands"} -->
+# Highway Law § 148 — Damages to owners of lands
+
+[Highway Law](../README.md) › [Article 7 — Town Superintendents](README.md)
+
+```text
+  § 148. Damages to owners of lands. Where lands are entered upon under
+the provisions of the preceding section, the town superintendent shall
+agree with the owner of such lands, subject to the approval of the town
+board, as to the amount of damages, if any, sustained by such owner in
+consequence of such entry in performance of the work authorized by such
+section, and the amount of such damages shall be a town charge. If the
+town superintendent is unable to agree with such owner upon the amount
+of damages thus sustained the amount thereof shall be ascertained,
+determined and paid in the manner that damages are so ascertained,
+determined and paid, where new highways are laid out and opened and the
+town superintendent and land owners are unable to agree upon the amount
+thereof.
+```

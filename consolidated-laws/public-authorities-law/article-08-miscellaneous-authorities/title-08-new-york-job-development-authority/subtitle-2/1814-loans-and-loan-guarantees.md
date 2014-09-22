@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1814", "kind": "section", "law_id": "PBA", "location_id": "1814", "path": "ARTICLE 8 › TITLE 8 › SUBTITLE 2 › SECTION 1814", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1814.md", "title": "Loans and loan guarantees for machinery and equipment"} -->
+# Public Authorities Law § 1814 — Loans and loan guarantees for machinery and equipment
+
+[Public Authorities Law](../../../README.md) › [Article 8 — Miscellaneous Authorities](../../README.md) › [Title 8 — New York Job Development Authority](../README.md) › [Subtitle 2 — Financial Assistance From Special Purpose Funds](README.md)
+
+```text
+  § 1814. Loans and loan guarantees for machinery and equipment. 1.
+Notwithstanding any other provisions of this title, the authority may
+make loans to local development corporations to assist in financing the
+cost of machinery and equipment, provided, however,
+  (a) that the amount of such loan shall not exceed forty percent of the
+cost of such machinery and equipment, except as provided in paragraph
+(b) of subdivision two of section eighteen hundred three and paragraph
+(a) of subdivision seven of section eighteen hundred twenty-three of
+this chapter;
+  (b) that the loan shall be evidenced by a bond, note or other
+obligation of a local development corporation, a project occupant, or
+other person, firm or corporation and secured by a security agreement,
+chattel paper, loan agreement, or such other instruments or documents
+deemed necessary or convenient to perfect a security interest in the
+machinery and equipment financed and to protect the interests of the
+authority; and
+  (c) that such security interest taken by the authority shall not be
+subordinate, but may be a participating interest which, when added to
+the security interests of other lenders, does not exceed ninety percent
+of the cost of such machinery and equipment.
+  2. Notwithstanding any other provisions of this title, the authority
+may issue a loan guarantee to a banking organization to assist in
+financing the cost of machinery and equipment, provided, however,
+  (a) that the amount of the loan guarantee shall not exceed eighty
+percent of the amount of the cost of the machinery and equipment; and
+  (b) that the loan of the banking organization shall be evidenced by a
+bond, note or other obligation of a project occupant, or other person,
+firm or corporation and secured by a security agreement, chattel paper,
+loan agreement, or such other instruments or documents deemed necessary
+or convenient by the authority to perfect a security interest in the
+machinery and equipment financed and to protect the interests of the
+authority.
+```

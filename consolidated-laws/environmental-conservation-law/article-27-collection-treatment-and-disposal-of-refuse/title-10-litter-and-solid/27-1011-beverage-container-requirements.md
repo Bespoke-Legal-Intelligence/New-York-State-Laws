@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-1011", "kind": "section", "law_id": "ENV", "location_id": "27-1011", "path": "ARTICLE 27 › TITLE 10 › SECTION 27-1011", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-1011.md", "title": "Beverage container requirements"} -->
+# Environmental Conservation Law § 27-1011 — Beverage container requirements
+
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 10 — Litter and Solid Waste Control](README.md)
+
+```text
+§ 27-1011. Beverage container requirements.
+  1. a. Every beverage container sold or offered for sale in this state
+shall clearly indicate by permanently marking or embossing the container
+or by printing as part of the product label the refund value of the
+container and the words "New York" or the letters "NY".
+  b. Such embossing or permanent imprinting on the beverage container
+shall be the responsibility of the person, firm or corporation which
+bottles, cans or otherwise fills or packages a beverage container or a
+brand owner for whose exclusive account private label beverages are
+bottled, canned or otherwise packaged; provided, however, that the duly
+authorized agent of any such person, firm or corporation may indicate
+such refund value by a label securely affixed on any beverage container
+containing beverages imported into the United States. Private label
+beverages shall be defined as beverages purchased from a bottler in
+beverage containers bearing a brand name or trademark for sale at retail
+directly by the owner or licensee of such brand name or trademark; or
+through retail dealers affiliated with such owner or licensee by a
+cooperative or franchise agreement.
+  2. No deposit initiator, distributor or dealer shall sell or offer for
+sale, at wholesale or retail in this state, any metal beverage container
+designed and constructed with a ring or tab which is detachable in
+opening the container unless such detachable part will decompose by
+photodegradation or biodegradation.
+  3. No deposit initiator, distributor or dealer shall sell or offer for
+sale in this state beverage containers connected to each other by a
+separate holding device constructed of plastic which does not decompose
+by photodegradation or biodegradation.
+```

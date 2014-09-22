@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Town Law § 113", "kind": "section", "law_id": "TWN", "location_id": "113", "path": "ARTICLE 8 › SECTION 113", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/113.md", "title": "Transfers from general purpose funds to other funds"} -->
+# Town Law § 113 — Transfers from general purpose funds to other funds
+
+[Town Law](../README.md) › [Article 8 — Finances](README.md)
+
+```text
+  § 113. Transfers from general purpose funds to other funds.
+Notwithstanding any other provision of law, the town board may, by
+resolution, authorize the transfer of surplus moneys, contingent
+appropriations, and unexpended balances
+  (1) from the fund maintained for general town purposes and comprised
+of moneys which, if raised by taxes, would be raised by taxes levied on
+property in the entire area of the town, to any of the funds or accounts
+authorized by section one hundred forty-one of the highway law and
+comprised of moneys which, if raised by taxes, would be raised by taxes
+levied on property in the entire area of the town; and,
+  (2) from the fund maintained for general town purposes and comprised
+of moneys which, if raised by taxes, would be raised by taxes levied
+solely on property in the area of the town outside of villages, to any
+of the funds or accounts authorized by section one hundred forty-one of
+the highway law which are comprised of moneys which, if raised by taxes,
+would be raised by taxes levied solely on property in such area.
+```

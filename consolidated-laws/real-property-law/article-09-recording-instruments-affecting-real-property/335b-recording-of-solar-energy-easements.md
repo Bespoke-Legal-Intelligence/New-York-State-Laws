@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 335-B", "kind": "section", "law_id": "RPP", "location_id": "335-B", "path": "ARTICLE 9 › SECTION 335-B", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/335-B.md", "title": "Recording of solar energy easements"} -->
+# Real Property Law § 335-B — Recording of solar energy easements
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 335-b. Recording of solar energy easements. 1. Any easement obtained
+for the purpose of exposure of a solar energy device shall be created in
+writing and shall be subject to the same conveyancing and instrument
+recording requirements as other easements.
+  2. Any instrument creating a solar energy easement shall include, but
+the contents shall not be limited to:
+  (a) The vertical and horizontal angles, expressed in degrees, at which
+the solar energy easement extends over the real property subject to the
+solar energy easement.
+  (b) Any terms or conditions or both under which the solar energy
+easement is granted or will be terminated.
+  (c) Any provisions for compensation of the owner of the property
+benefiting from the solar energy easement in the event of interference
+with the enjoyment of the solar energy easement or compensation of the
+owner of the property subject to the solar energy easement for
+maintaining the solar energy easement.
+```

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 212-C", "kind": "section", "law_id": "LAB", "location_id": "212-C", "path": "ARTICLE 7 › SECTION 212-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/212-C.md", "title": "Definitions"} -->
+# Labor Law § 212-C — Definitions
+
+[Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
+
+```text
+  § 212-c. Definitions. As used in section two hundred twelve-b:  1.
+"Persons" includes any individual, firm, partnership, association, or
+corporation.
+  2. "Farm labor camp commissary" means a place where goods are offered
+for sale or lease and which is operated in or in connection with a farm
+labor camp, including meals sold to workers. "Farm labor camp
+commissary" includes a building, shed, or structure, or any part
+thereof, occupied as a farm labor camp commissary.
+  3. "Farm labor camp" means a property consisting of a tract of land
+and all tents, vehicles, buildings, or other structure pertaining
+thereto, any part of which may be occupied by persons employed as
+laborers in farm activities who are provided with sleeping facilities,
+in whole or in part, by the owner, lessee, or operator thereof, with or
+without stipulated agreement as to the duration of their stay, whether
+or not they are supplied with meals but who are supplied with such
+services or facilities as are necessary for their use of such property.
+The term, "farm activities" shall include the following activities in
+connection with vegetables and fruits and the plants, bushes, or trees
+producing the vegetables or fruits: fitting, planting, cultivating,
+harvesting, vining, sorting, grading, packing, storing, canning,
+freezing, dehydrating, bottling and preserving or treating by any
+method.
+  4. "Goods" includes all goods, wares, merchandise, food or any article
+or thing.
+```

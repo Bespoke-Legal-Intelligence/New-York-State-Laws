@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 432", "kind": "section", "law_id": "JUD", "location_id": "432", "path": "ARTICLE 14 › SECTION 432", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/432.md", "title": "Copies of opinions, decisions and papers to be furnished to state reporter"} -->
+# Judiciary Law § 432 — Copies of opinions, decisions and papers to be furnished to state reporter
+
+[Judiciary Law](../README.md) › [Article 14 — Law Reporting](README.md)
+
+```text
+  § 432. Copies of opinions, decisions and papers to be furnished to
+state reporter. With the exception of court of appeals and appellate
+division causes directed not to be reported, as provided in section four
+hundred thirty-one of this article, the judges or justices of every
+court of record, including surrogates, shall promptly cause to be
+delivered to the state reporter, without charge, a copy of every written
+opinion rendered in causes determined therein. The judges or justices of
+the court of appeals and of the appellate divisions and the appellate
+terms of the supreme court shall, in addition, cause to be delivered to
+the state reporter, without charge, a list of all decisions rendered by
+the respective courts, together with copies of such points of counsel
+and records and papers on appeal, if practicable, as the state reporter
+may require.
+```

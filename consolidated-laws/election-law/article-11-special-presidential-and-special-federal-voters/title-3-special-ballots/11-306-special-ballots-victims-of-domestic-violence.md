@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Election Law § 11-306", "kind": "section", "law_id": "ELN", "location_id": "11-306", "path": "ARTICLE 11 › TITLE 3 › SECTION 11-306", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/11-306.md", "title": "Special ballots; victims of domestic violence"} -->
+# Election Law § 11-306 — Special ballots; victims of domestic violence
+
+[Election Law](../../README.md) › [Article 11 — Special Presidential and Special Federal Voters and Special Ballots](../README.md) › [Title 3 — Special Ballots](README.md)
+
+```text
+  § 11-306. Special ballots; victims of domestic violence. 1. A voter
+may deliver to the board of elections, at any time during the period in
+which absentee ballot applications may be delivered, a signed written
+statement swearing or affirming:
+  (a) that he or she is the victim of domestic violence;
+  (b) that he or she has left his or her residence because of such
+violence; and
+  (c) that because of the threat of physical or emotional harm to
+himself or herself or to family or household members, he or she wishes
+to cast a special ballot in the next election. The statement must
+include the voter's address of registration. The board of elections
+shall permit such a voter to cast a special ballot at an office of such
+board of elections not earlier than one week before the election and not
+later than the close of the polls on election day. Such ballots shall be
+retained at the board of elections and cast and canvassed pursuant to
+the provisions of section 9-209 of this chapter.
+  2. "Family or household members" mean the following individuals:
+  (a) persons related by consanguinity or affinity;
+  (b) persons legally married to one another;
+  (c) persons formerly married to one another regardless of whether they
+still reside in the same household;
+  (d) persons who have a child in common regardless of whether such
+persons are married or have lived together at any time; or
+  (e) persons who are not related by consanguinity or affinity and who
+are or have been in an intimate relationship regardless of whether such
+persons have lived together at any time.
+```

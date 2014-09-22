@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 59", "kind": "section", "law_id": "PBG", "location_id": "59", "path": "ARTICLE 3 › SECTION 59", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/59.md", "title": "Disposal of records"} -->
+# Public Housing Law § 59 — Disposal of records
+
+[Public Housing Law](../README.md) › [Article 3 — Municipal Housing Authorities](README.md)
+
+```text
+  § 59. Disposal of records.  1. Notwithstanding the provisions of any
+general, special or local law, any municipal housing authority or
+officer or employee thereof is hereby empowered to destroy, sell or
+otherwise dispose of any book, paper, map, photograph, microphotograph
+or other record regardless of its physical form or characteristic, which
+has been made, acquired, or received or is now in its custody and which
+the authority determines no longer has sufficient administrative, legal,
+fiscal, research or historical value to warrant its continued retention
+and preservation, provided the authority authorizes such destruction,
+sale, or other disposition.
+  2. The provisions of this section shall not apply to the following
+records of municipal housing authorities unless copies for retention are
+reproduced as provided in section sixty of this chapter:
+  (a) The official copy of the minutes of any municipal housing
+authority including appendices and attachments thereto.
+  (b) The official copy of any annual report of any municipal housing
+authority to the commissioner.
+  (c) Records which have not been retained for such period of time as
+may be required:
+  (1) by the federal government or any of its agencies;
+  (2) by rules and regulations of the state comptroller;
+  (3) by rules and regulations of the commissioner.
+```

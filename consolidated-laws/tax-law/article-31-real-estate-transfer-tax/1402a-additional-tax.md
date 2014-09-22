@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1402-A", "kind": "section", "law_id": "TAX", "location_id": "1402-A", "path": "ARTICLE 31 › SECTION 1402-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1402-A.md", "title": "Additional tax"} -->
+# Tax Law § 1402-A — Additional tax
+
+[Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
+
+```text
+  § 1402-a. Additional tax. (a) In addition to the tax imposed by
+section fourteen hundred two of this article, a tax is hereby imposed on
+each conveyance of residential real property or interest therein when
+the consideration for the entire conveyance is one million dollars or
+more. For purposes of this section, residential real property shall
+include any premises that is or may be used in whole or in part as a
+personal residence, and shall include a one, two, or three-family house,
+an individual condominium unit, or a cooperative apartment unit. The
+rate of such tax shall be one percent of the consideration or part
+thereof attributable to the residential real property. Such tax shall be
+paid at the same time and in the same manner as the tax imposed by
+section fourteen hundred two of this article.
+  (b) Notwithstanding the provisions of subdivision (a) of section
+fourteen hundred four of this article, the additional tax imposed by
+this section shall be paid by the grantee.  If the grantee is exempt
+from such tax, the grantor shall have the duty to pay the tax.
+  (c) Except as otherwise provided in this section, all the provisions
+of this article relating to or applicable to the administration,
+collection, determination and distribution of the tax imposed by section
+fourteen hundred two of this article shall apply to the tax imposed
+under the authority of this section with such modifications as may be
+necessary to adapt such language to the tax so authorized.  Such
+provisions shall apply with the same force and effect as if those
+provisions had been set forth in this section except to the extent that
+any provision is either inconsistent with a provision of this section or
+not relevant to the tax authorized by this section.
+```

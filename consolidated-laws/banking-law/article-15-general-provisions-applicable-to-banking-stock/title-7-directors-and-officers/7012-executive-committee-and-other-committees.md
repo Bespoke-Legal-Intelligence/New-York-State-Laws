@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 7012", "kind": "section", "law_id": "BNK", "location_id": "7012", "path": "ARTICLE 15 › TITLE 7 › SECTION 7012", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/7012.md", "title": "Executive committee and other committees"} -->
+# Banking Law § 7012 — Executive committee and other committees
+
+[Banking Law](../../README.md) › [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](../README.md) › [Title 7 — Directors and Officers](README.md)
+
+```text
+  § 7012. Executive committee and other committees. 1. If the
+organization certificate or the by-laws so provide, the board, by
+resolution adopted by a majority of the entire board, may designate from
+among its members an executive committee consisting of at least five
+directors in the case of banks, trust companies, stock-form savings
+banks, and stock-form savings and loan associations and of at least
+three directors in the case of other corporations, and other committees
+each consisting of three or more directors, and each of which, to the
+extent provided in the resolution or in the organization certificate or
+by-laws, shall have all the authority of the board, except that no such
+committee shall have authority as to the following matters:
+  (a) The submission to stockholders of any action that needs
+stockholders' authorization under this chapter.
+  (b) The filling of vacancies in the board of directors or in any such
+committee.
+  (c) The fixing of compensation of the directors for serving on the
+board or on any committee.
+  (d) The amendment or repeal of the by-laws, or the adoption of new
+by-laws.
+  (e) The amendment or repeal of any resolution of the board which by
+its terms shall not be so amendable or repealable.
+  (f) The taking of action which is expressly required by any provision
+of this chapter to be taken at a meeting of the board or by a specified
+proportion of the directors.
+  The board may designate one or more directors as alternate members of
+any such committee, who may replace any absent member or members at any
+meeting of such committee.
+  2. The board may appoint or provide for such other committees
+consisting of such directors, officers or other persons and having such
+powers and functions in the management of the corporation as may be
+provided in the by-laws or, to the extent not so provided, by the board.
+  3. Each such committee shall serve at the pleasure of the board.  The
+designation or appointment of, or making of provision for, any such
+committee and the delegation thereto of authority shall not alone
+relieve any director of his duty to the corporation under section seven
+thousand fifteen of this article.
+```

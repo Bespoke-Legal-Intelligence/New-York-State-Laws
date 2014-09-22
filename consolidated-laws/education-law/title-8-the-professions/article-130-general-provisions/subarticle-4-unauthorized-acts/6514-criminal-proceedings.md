@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6514", "kind": "section", "law_id": "EDN", "location_id": "6514", "path": "TITLE 8 › ARTICLE 130* › SUBARTICLE 4 › SECTION 6514", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6514.md", "title": "Criminal proceedings"} -->
+# Education Law § 6514 — Criminal proceedings
+
+[Education Law](../../../README.md) › [Title 8 — The Professions](../../README.md) › [Article 130* — General Provisions](../README.md) › [Subarticle 4 — Unauthorized Acts](README.md)
+
+```text
+  § 6514. Criminal proceedings. 1. All alleged violations of sections
+sixty-five hundred twelve or sixty-five hundred thirteen of this article
+shall be reported to the department which shall cause an investigation
+to be instituted.  All alleged violations of section sixty-five hundred
+thirty-one of the education law shall be reported to the department of
+health which shall cause an investigation to be instituted. If the
+investigation substantiates that violations exist, such violations shall
+be reported to the attorney general with a request for prosecution.
+  2. The attorney general shall prosecute such alleged offenses in the
+name of the state, provided, however, in the event of alleged violations
+of article one hundred fifty-five of this title, a district attorney may
+prosecute such alleged offenses in the name of the state provided,
+however, that any district attorney may prosecute such offenses where
+they are incidental to a criminal prosecution instituted by him under
+other statutes.
+  3. All criminal courts having jurisdiction over misdemeanors are
+hereby empowered to hear, try and determine alleged violations under
+this title, which constitute misdemeanors, without indictment and to
+impose applicable punishment of fines or imprisonments or both. It shall
+be necessary to prove in any prosecution under this title only a single
+prohibited act or a single holding out without proving a general course
+of conduct.
+  4. A proceeding before a committee on professional conduct shall not
+be deemed to be a criminal proceeding within the meaning of this
+section.
+```

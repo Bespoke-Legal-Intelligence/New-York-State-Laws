@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 349-A", "kind": "section", "law_id": "GBS", "location_id": "349-A", "path": "ARTICLE 22-A › SECTION 349-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/349-A.md", "title": "Observant consumer protection law"} -->
+# General Business Law § 349-A — Observant consumer protection law
+
+[General Business Law](../README.md) › [Article 22-A — Consumer Protection From Deceptive Acts and Practices](README.md)
+
+```text
+  § 349-a. Observant consumer protection law. 1. No person selling or
+exposing for sale any mezuzah or tefillin which, to the seller's
+knowledge, does not satisfy orthodox Hebrew ritual requirements shall
+represent, by direct or implied oral or written statement, that such
+mezuzah or tefillin is kosher or meets orthodox Hebrew religious
+requirements.
+  2. No manufacturer, fabricator or importer of mezuzahs or tefillin
+shall sell or transfer for sale any mezuzah or tefillin unless the
+following truthful consumer information is printed legibly upon the
+article itself, upon its packaging, or upon a label securely attached
+thereto:
+  (a) the name and address of the manufacturer, fabricator, or importer;
+  (b) in the case of any mezuzah or tefillin that, in the form
+reasonably expected to be sold at retail, is not in accordance with
+orthodox Hebrew ritual requirements, the word "non-kosher."
+  3. No person selling or exposing for sale any mezuzah or tefillin
+shall sell such article without the accompanying consumer information
+specified in subdivision two of this section.
+  4. Any sale, transfer for sale, or exposure for sale in violation of
+the provisions of this section shall be deemed a deceptive practice
+within the meaning of section three hundred forty-nine of this chapter,
+and any remedy provided therein shall be available for the enforcement
+of this section.
+  5. (a) "Mezuzah" means the religious article designed to be affixed,
+according to Jewish law, to the doorposts of rooms in a home, including
+the parchment or other matter upon which passages from the Bible are
+written, and the writing thereon.
+  (b) "Tefillin" means the religious article, also known as
+"phylacteries," designed to be worn, according to Jewish law, on the
+upper arm and head during morning prayers, including the parchment or
+other matter upon which passages from the Bible are written, the writing
+thereon, the capsules in which the parchment is contained, and the
+straps affixed thereto.
+```

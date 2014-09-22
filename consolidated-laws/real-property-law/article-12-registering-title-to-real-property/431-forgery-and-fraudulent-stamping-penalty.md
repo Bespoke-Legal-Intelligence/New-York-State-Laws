@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 431", "kind": "section", "law_id": "RPP", "location_id": "431", "path": "ARTICLE 12 › SECTION 431", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/431.md", "title": "Forgery and fraudulent stamping; penalty"} -->
+# Real Property Law § 431 — Forgery and fraudulent stamping; penalty
+
+[Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
+
+```text
+  § 431. Forgery and fraudulent stamping; penalty. Whoever forges, or
+procures to be forged, or assists in forging, the seal of the registrar,
+or the name, signature, handwriting of any officer of the registrar's
+office; or fraudulently stamps or procures to be stamped, or assists in
+stamping, any document with any forged seal of said registrar, or forges
+or procures to be forged, or assists in forging, the name, signature or
+handwriting of any person whomsoever, to any instrument which is
+expressly or impliedly authorized to be signed by such person, or uses
+any document upon which any impression or part of the impression of any
+seal of said registrar has been forged, knowing the same to have been
+forged, or any document the signature to which has been forged, knowing
+the same to have been forged, or swears falsely concerning any matter or
+proceeding made or done in pursuance of this article, shall be guilty of
+a felony.
+```

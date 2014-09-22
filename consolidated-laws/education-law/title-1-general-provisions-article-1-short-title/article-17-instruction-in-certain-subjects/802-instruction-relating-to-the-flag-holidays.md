@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Education Law § 802", "kind": "section", "law_id": "EDN", "location_id": "802", "path": "TITLE 1 › ARTICLE 17 › SECTION 802", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/802.md", "title": "Instruction relating to the flag; holidays"} -->
+# Education Law § 802 — Instruction relating to the flag; holidays
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 17 — Instruction In Certain Subjects](README.md)
+
+```text
+  § 802. Instruction relating to the flag; holidays.  1. It shall be the
+duty of the commissioner to prepare, for the use of the public schools
+of the state, a program providing for a salute to the flag and a daily
+pledge of allegiance to the flag, and instruction in its correct use and
+display which shall include, as a minimum, specific instruction
+regarding respect for the flag of the United States of America, its
+display and use as provided by federal statute and regulation and such
+other patriotic exercises as may be deemed by him to be expedient, under
+such regulations and instructions as may best meet the varied
+requirements of the different grades in such schools. However, such
+instruction shall include, as a minimum, the provisions of sections one
+hundred seventy through one hundred seventy-seven of title thirty-six of
+the United States Code.
+  2. It shall also be his duty to make special provision for the
+observance in the public schools of Lincoln's birthday, Washington's
+birthday, Memorial day and Flag day, and such other legal holidays of
+like character as may be hereafter designated by law when the
+legislature makes an appropriation therefor.
+  3. Nothing herein contained shall be construed to authorize military
+instruction or drill in the public schools during school hours, except
+that the board of education of any school district may offer during
+school hours a junior reserve officer training program in conjunction
+with the United States Department of Defense to those students in grades
+nine through twelve who are at least fourteen years of age provided that
+enrollment and participation in such program is voluntary on the part of
+the student and written consent of a parent or guardian is submitted by
+such student and further provided, that the conduct of instruction on or
+the presence within any school of any type of current or future weaponry
+as part of such program is prohibited.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 9", "kind": "section", "law_id": "AGM", "location_id": "9", "path": "ARTICLE 2 › SECTION 9", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/9.md", "title": "Bureaus"} -->
+# Agriculture and Markets Law § 9 — Bureaus
+
+[Agriculture and Markets Law](../README.md) › [Article 2 — Department of Agriculture and Markets; Jurisdiction; General Powers and Duties](README.md)
+
+```text
+  § 9. Bureaus. Existing bureaus in the department are continued until
+consolidated or abolished pursuant to this section. The commissioner may
+establish such divisions, bureaus, and other units within the department
+as may be necessary for the administration and operation of the
+department and the proper exercise of its powers and the performance of
+its duties, under this chapter, and may, from time to time, consolidate
+or abolish such divisions, bureaus or other units within the department.
+Notwithstanding any inconsistent provision of law, the commissioner may
+determine the official functions of each division, bureau, or other unit
+within the department. There shall be a director of each bureau to be
+appointed by the commissioner and who shall serve during the pleasure of
+the commissioner. The directors of bureaus in the department who are in
+office when this chapter takes effect shall continue in office during
+the pleasure of the commissioner.
+```

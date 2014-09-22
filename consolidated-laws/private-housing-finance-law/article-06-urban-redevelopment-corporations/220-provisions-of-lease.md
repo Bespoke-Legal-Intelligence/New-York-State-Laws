@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 220", "kind": "section", "law_id": "PVH", "location_id": "220", "path": "ARTICLE 6 › SECTION 220", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/220.md", "title": "Provisions of lease"} -->
+# Private Housing Finance Law § 220 — Provisions of lease
+
+[Private Housing Finance Law](../README.md) › [Article 6 — Urban Redevelopment Corporations](README.md)
+
+```text
+  § 220. Provisions of lease. If real property of a city be leased to a
+redevelopment corporation:
+  1. The lease may provide that all improvements shall be the property
+of the lessor;
+  2. The lessor may grant to the redevelopment corporation the right to
+mortgage the fee of such property and thus enable the redevelopment
+corporation to give as security for its notes or bonds a first lien upon
+the land and improvements;
+  3. The execution of a lease shall not impose upon the lessor any
+liability or obligation in connection with or arising out of the
+financing, construction, management or operation of a development
+involving the land so leased. The lessor shall not, by executing such
+lease, incur any obligation or liability with respect to such leased
+premises other than may devolve upon the lessor with respect to premises
+not owned by it. The lessor, by consenting to the execution by a
+redevelopment corporation of a mortgage upon the leased land, shall not
+thereby assume, and such consent shall not be construed as imposing upon
+the lessor, any liability upon the note or bond secured by the mortgage;
+  4. The lease may reserve such easements or other rights in connection
+with the real property as may be deemed necessary or desirable for the
+future planning and development of the city and the extension of public
+facilities therein (including the construction of subways and conduits,
+the widening and change of grade of streets); and it may contain such
+other provisions for the protection of the parties as are not
+inconsistent with the provisions of this article.
+```

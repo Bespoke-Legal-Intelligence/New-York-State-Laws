@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 1615", "kind": "section", "law_id": "NPC", "location_id": "1615", "path": "ARTICLE 16 › SECTION 1615", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/1615.md", "title": "Construction, intent and scope"} -->
+# Not-for-Profit Corporation Law § 1615 — Construction, intent and scope
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 16 — Land Banks](README.md)
+
+```text
+§ 1615. Construction, intent and scope.
+  The provisions of this article shall be construed liberally to
+effectuate the legislative intent and the purposes as complete and
+independent authorization for the performance of each and every act and
+thing authorized by this article, and all powers granted shall be
+broadly interpreted to effectuate the intent and purposes and not as a
+limitation of powers. Except as otherwise expressly set forth in this
+article, in the exercise of its powers and duties under this article and
+its powers relating to property held by the land bank, the land bank
+shall have complete control as fully and completely as if it represented
+a private property owner and shall not be subject to restrictions
+imposed by the charter, ordinances, or resolutions of a local unit of
+government.
+```

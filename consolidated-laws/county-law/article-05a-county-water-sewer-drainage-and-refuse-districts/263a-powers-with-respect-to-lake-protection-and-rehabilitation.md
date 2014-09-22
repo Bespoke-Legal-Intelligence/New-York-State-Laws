@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "County Law § 263-A", "kind": "section", "law_id": "CNT", "location_id": "263-A", "path": "ARTICLE 5-A › SECTION 263-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/263-A.md", "title": "Powers with respect to lake protection and rehabilitation"} -->
+# County Law § 263-A — Powers with respect to lake protection and rehabilitation
+
+[County Law](../README.md) › [Article 5-A — County Water, Sewer, Drainage and Refuse Districts](README.md)
+
+```text
+  § 263-a. Powers with respect to lake protection and rehabilitation.
+The administrative head or body shall be responsible for:
+  1. Initiating and coordinating research and surveys for the purpose of
+gathering data on the lake, related shorelands, and the drainage basin;
+  2. Planning lake rehabilitation projects;
+  3. Adopting by resolution rules for carrying out their duties and
+plans for lake rehabilitation projects;
+  4. Contacting and attempting to secure the cooperation of officials of
+units of general purpose government in the area for the purpose of
+enacting ordinances deemed necessary by the board of supervisors as
+furthering the objectives of the district;
+  5. Carrying out lake protection and rehabilitation projects and
+obtaining any necessary permits therefor; and
+  6. Maintaining liaison with those officials of state government and
+local government involved in lake protection and rehabilitation.
+```

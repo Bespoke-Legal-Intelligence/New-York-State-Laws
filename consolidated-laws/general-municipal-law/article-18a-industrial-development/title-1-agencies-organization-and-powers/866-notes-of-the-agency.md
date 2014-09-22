@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 866", "kind": "section", "law_id": "GMU", "location_id": "866", "path": "ARTICLE 18-A › TITLE 1 › SECTION 866", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/866.md", "title": "Notes of the agency"} -->
+# General Municipal Law § 866 — Notes of the agency
+
+[General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 1 — Agencies, Organization and Powers](README.md)
+
+```text
+  § 866. Notes of the agency. The agency shall have power from time to
+time to issue notes and from time to time to issue renewal notes (herein
+referred to as notes) maturing not later than five years from their
+respective original dates for any purpose or purposes for which bonds
+may be issued, whenever the agency shall determine that payment thereof
+can be made in full from any moneys or revenues which the agency expects
+to receive from any source. The agency may secure the notes in the same
+manner and with the same effect as herein provided for bonds. The notes
+shall be issued in the same manner as bonds. The agency shall have power
+to make contracts for the future sale from time to time of the notes, by
+which the purchasers shall be committed to purchase the notes from time
+to time on terms and conditions stated in such contracts, and the agency
+shall have power to pay such consideration as it shall deem proper for
+such commitments. In case of default on its notes or violation of any of
+the obligations of the agency to the noteholders, the noteholders shall
+have all the remedies provided herein for bondholders. Such notes shall
+be as fully negotiable as the bonds of the agency.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-2507", "kind": "section", "law_id": "ENV", "location_id": "71-2507", "path": "ARTICLE 71 › TITLE 25 › SECTION 71-2507", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-2507.md", "title": "Pollution of tidal wetlands"} -->
+# Environmental Conservation Law § 71-2507 — Pollution of tidal wetlands
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 25 — Enforcement of Article 25](README.md)
+
+```text
+§ 71-2507. Pollution of tidal wetlands.
+  Where any tidal wetlands are subject to pollution, the commissioner
+and attorney general shall take all appropriate action to abate the
+pollution. In addition, the commissioner may restrict or order cessation
+of solid waste disposal, deep well disposal, or liquid waste disposal
+where such is polluting a given area of tidal wetland. Where pesticides,
+chemical products, or fertilizer residues are the polluting agents, the
+commissioner shall confer with other appropriate public officials to
+limit the use of such substances at their source; after appropriate
+consultations, the commissioner may make such rules and regulations as
+he deems necessary under section 3-0301 of the environmental
+conservation law.
+```

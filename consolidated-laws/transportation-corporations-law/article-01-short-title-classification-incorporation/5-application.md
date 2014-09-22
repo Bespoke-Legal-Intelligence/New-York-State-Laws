@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 5", "kind": "section", "law_id": "TCP", "location_id": "5", "path": "ARTICLE 1 › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/5.md", "title": "Application"} -->
+# Transportation Corporations Law § 5 — Application
+
+[Transportation Corporations Law](../README.md) › [Article 1 — Short Title; Classification; Incorporation; Application](README.md)
+
+```text
+  § 5. Application. A corporation heretofore or hereafter incorporated
+under a general law for a purpose or purposes for which a corporation
+may be formed under this chapter shall in respect to such purpose or
+purposes have all the powers and privileges conferred, and be subject to
+all the duties, liabilities and limitations imposed, on a corporation
+organized for such purpose or purposes under this chapter. Any
+corporation heretofore incorporated under a general law for any one or
+more of the purposes specified in this chapter, may exercise the powers
+now possessed by it to carry on any business in which it now may
+lawfully engage. A corporation heretofore incorporated under or by
+special law for such purpose or purposes shall in respect to such
+purpose or purposes have all the powers and privileges conferred, and be
+subject to the duties, liabilities and limitations imposed by this
+chapter, in so far as such duties, liabilities and limitations are not
+inconsistent with such special law.
+```

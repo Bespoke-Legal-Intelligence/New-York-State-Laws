@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Multiple Residence Law § 50", "kind": "section", "law_id": "MRE", "location_id": "50", "path": "ARTICLE 4 › SECTION 50", "repealed": false, "repealed_date": null, "source": "nys-laws:MRE/50.md", "title": "Application of article four"} -->
+# Multiple Residence Law § 50 — Application of article four
+
+[Multiple Residence Law](../README.md) › [Article 4 — Hotels and Similar Dwellings](README.md)
+
+```text
+  § 50. Application of article four. 1. As used in this article, the
+term "transient dwellings" shall mean and include hotels, lodging
+houses, boarding and nursery schools, sorority houses, fraternity
+houses, college and school dormitories, convalescent, old age and
+nursing homes, and dwellings used for single room occupancy. The term
+"transient occupancy" shall mean the occupancy of a room for sleeping
+purposes by the same person or persons for a period of ninety days or
+less.
+  2. Except as provided in sections sixty-three and sixty-four with
+respect to one and two story transient dwellings only, this article
+shall apply to all transient dwellings three or more stories in height
+and in existence on July first, nineteen hundred fifty-two, provided,
+however, that the provisions of article two and sections fifty-three,
+fifty-six and sixty-one of this article shall apply to new transient
+dwellings.
+  3. As to such existing transient dwellings, the provisions of sections
+fifty-six, sixty-one and sixty-two of this article shall be complied
+with on or before July first, nineteen hundred fifty-four, and all other
+sections of this article shall be complied with on or before July first,
+nineteen hundred fifty-five.
+```

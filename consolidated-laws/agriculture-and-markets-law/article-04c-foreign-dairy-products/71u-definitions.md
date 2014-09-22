@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 71-U", "kind": "section", "law_id": "AGM", "location_id": "71-U", "path": "ARTICLE 4-C › SECTION 71-U", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/71-U.md", "title": "Definitions"} -->
+# Agriculture and Markets Law § 71-U — Definitions
+
+[Agriculture and Markets Law](../README.md) › [Article 4-C — Foreign Dairy Products](README.md)
+
+```text
+  § 71-u. Definitions. As used in this article:
+  1. The term "commissioner" means the commissioner of agriculture and
+markets of the state of New York.
+  2. The term "dairy product" means all milk and milk products defined
+by the definitions and standards of identity promulgated pursuant to
+section forty-six-a of this chapter and such other food products derived
+from milk as the commissioner shall designate by regulation.
+  3. The term "foreign dairy product" means any dairy product produced,
+processed or manufactured outside the United States.
+  4. The term "packaged foreign dairy product" means a foreign dairy
+product which is enclosed in a container or wrapper (including a
+shipping container or wrapping used for the transportation of such
+product in bulk or quantity to manufacturers, packers, processors, or to
+wholesale or retail distributors) or which although not so enclosed has
+written, printed, or graphic matter pertaining to such foreign dairy
+product affixed or attached.
+```

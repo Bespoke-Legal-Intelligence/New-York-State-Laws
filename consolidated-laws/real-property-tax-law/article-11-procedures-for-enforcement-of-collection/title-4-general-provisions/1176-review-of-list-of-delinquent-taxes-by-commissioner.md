@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1176", "kind": "section", "law_id": "RPT", "location_id": "1176", "path": "ARTICLE 11 › TITLE 4 › SECTION 1176", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1176.md", "title": "Review of list of delinquent taxes by commissioner; parcels in which state has an interest"} -->
+# Real Property Tax Law § 1176 — Review of list of delinquent taxes by commissioner; parcels in which state has an interest
+
+[Real Property Tax Law](../../README.md) › [Article 11 — Procedures For Enforcement of Collection of Delinquent Taxes](../README.md) › [Title 4 — General Provisions](README.md)
+
+```text
+  § 1176. Review of list of delinquent taxes by commissioner; parcels in
+which state has an interest. 1. Each list of delinquent taxes filed
+pursuant to section eleven hundred twenty-two of this article shall be
+submitted to the commissioner for identification of state lands.
+  2. Upon reviewing the list, the commissioner shall in so far as
+possible notify the enforcing officer of any parcel listed thereon which
+belongs to the state. The enforcing officer shall withdraw such parcels
+from foreclosure in the manner provided by section eleven hundred
+thirty-eight of this article and shall furnish the commissioner with a
+verified and itemized statement showing the amount of taxes due against
+each such parcel, the purposes for which levied, the date of the levy,
+the assessment upon which levied and the year in which such assessment
+was made. Subject to the provisions of title two of article five of this
+chapter, the taxes upon such parcels, without interest or penalties,
+shall be audited and paid by the comptroller out of any funds available
+for the payment of taxes on state lands.
+```

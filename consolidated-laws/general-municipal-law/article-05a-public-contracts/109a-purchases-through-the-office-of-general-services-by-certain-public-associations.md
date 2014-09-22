@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 109-A", "kind": "section", "law_id": "GMU", "location_id": "109-A", "path": "ARTICLE 5-A › SECTION 109-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/109-A.md", "title": "Purchases through the office of general services by certain public associations"} -->
+# General Municipal Law § 109-A — Purchases through the office of general services by certain public associations
+
+[General Municipal Law](../README.md) › [Article 5-A — Public Contracts](README.md)
+
+```text
+  § 109-a. Purchases through the office of general services by certain
+public associations. The New York State Association of Counties, the
+Association of Towns of the State of New York, the New York State Town
+Clerk's Association, Inc., the New York State Conference of Mayors and
+Other Municipal Officials, the New York State School Boards Association,
+Inc., the New York Planning Federation and the Association of Fire
+Districts of the State of New York, the New York State Association of
+School Business Officials, the New York state council of school
+superintendents, any nonpublic elementary and/or secondary school of the
+state of New York, which provides the instruction required by section
+thirty-two hundred four and article seventeen of the education law, and
+which is chartered by, registered with or subject to examination and
+inspection by the department of education and which is a not for profit
+institution and any public library, association library, library system,
+cooperative library system, the New York Library Association, and the
+New York State Association of Library Boards or any other library except
+those which are operated by for profit entities, may make purchases
+through the office of general services subject to such rules as may be
+promulgated pursuant to section one hundred sixty-three of the state
+finance law and subdivision eight-a of section one hundred three of this
+article which may establish limitations with respect to commodities and
+impose such other appropriate conditions upon purchasing as deemed
+necessary by the commissioner of general services in order to protect
+the state's own purchasing interests; and that such association, school,
+library, library system or cooperative library system shall accept sole
+responsibility for any payment due the vendor. Boards of education may
+permit such nonpublic schools to make purchases pursuant to this section
+through the school district in which the nonpublic school is located,
+provided that any administrative costs incurred by the school district
+will be paid by the nonpublic school.
+```

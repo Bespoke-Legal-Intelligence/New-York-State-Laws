@@ -1,0 +1,55 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1283", "kind": "section", "law_id": "TAX", "location_id": "1283", "path": "ARTICLE 29-A › SECTION 1283", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1283.md", "title": "Liability for tax; special provisions"} -->
+# Tax Law § 1283 — Liability for tax; special provisions
+
+[Tax Law](../README.md) › [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](README.md)
+
+```text
+  § 1283. Liability for tax; special provisions. Notwithstanding any
+provision of law to the contrary: (a) The taxicab owner or HAIL base, as
+the case may be, shall be liable for the tax imposed by this article.
+  (b) If the taxicab owner has designated an agent, then the agent shall
+be jointly liable with the taxicab owner for the tax on trips occurring
+during the period that such designation is in effect. Even if the TLC
+has specified that the taxicab owner's agent cannot operate as an agent,
+that agent shall be jointly liable with the taxicab owner if the agent
+has acted for the taxicab owner. During the period that a taxicab
+owner's designation of an agent is in effect, the agent shall file the
+returns required by this article and pay any tax due with such return,
+but the taxicab owner shall not be relieved of liability for tax,
+penalty or interest due under this article, or for the filing of returns
+required to be filed, unless the agent has timely filed accurate returns
+and timely paid the tax required to be paid under this article. If a
+taxicab owner has designated an agent, then the agent must perform any
+act this article requires the taxicab owner to perform, but the failure
+of such agent to perform any such act shall not relieve the taxicab
+owner from the obligation to perform such act or from any liability that
+may arise from failure to perform the act.
+  (c) (1) Although the tax is imposed on the taxicab owner or the HAIL
+base, the city or the TLC shall adopt or amend ordinances or regulations
+to ensure that the economic incidence of the tax is passed through to
+passengers, such as by increasing taxicab or HAIL vehicle trip fares.
+The passing along of such economic incidence may not be construed by any
+court or administrative body as imposing the tax on any person other
+than the taxicab owner or the HAIL base. The city or the TLC must adjust
+trip fares to include therein the pass-through of the economic incidence
+of the tax imposed by this article, as the rate of such tax may from
+time to time change, and must timely require that any taximeter in a
+taxicab or HAIL vehicle used to provide trips that originate in the city
+be adjusted to include the pass-through.
+  (2) A taxicab owner or a HAIL base or HAIL vehicle owner in such city
+must timely adjust the taximeter in any of such person's taxicabs or
+HAIL vehicles so that it reflects such pass-through as such pass-through
+amount may from time to time change.
+  (3) Neither the failure of such city or the TLC to adjust fares nor
+the failure of a taxicab owner, HAIL base, HAIL vehicle owner, or other
+person to adjust a taximeter will relieve any person liable for the tax
+imposed by this article from the obligation to pay such tax timely, at
+the correct rate.
+  (d) Nothing in this article shall be construed as limiting the
+imposition of any tax imposed by article twenty-eight of this chapter on
+transportation service provided by a HAIL base, HAIL vehicle, or owner
+or operator of a HAIL vehicle. Nor shall anything in article
+twenty-eight of this chapter be construed as limiting the imposition of
+any tax imposed by this article on a HAIL vehicle trip or as limiting
+the obligation on a HAIL base to pay such tax.
+```

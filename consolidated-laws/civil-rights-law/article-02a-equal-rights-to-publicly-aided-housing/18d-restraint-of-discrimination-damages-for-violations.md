@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 18-D", "kind": "section", "law_id": "CVR", "location_id": "18-D", "path": "ARTICLE 2-A › SECTION 18-D", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/18-D.md", "title": "Restraint of discrimination; damages for violations"} -->
+# Civil Rights Law § 18-D — Restraint of discrimination; damages for violations
+
+[Civil Rights Law](../README.md) › [Article 2-A — Equal Rights to Publicly-aided Housing](README.md)
+
+```text
+  § 18-d. Restraint of discrimination; damages for violations. 1.  Any
+person aggrieved by a violation of section eighteen-c of this chapter
+and any person whose assessment shall amount to more than one thousand
+dollars and who shall be liable to pay taxes on such assessment in any
+county, town, village or municipal corporation in the state or who has
+been assessed or who has paid taxes upon any assessment of the
+above-named amount within one year previous to the initiation of an
+action under this section shall have a right of action in any court of
+appropriate jurisdiction for restraint of such violation and for other
+equitable remedies including such affirmative relief as may be necessary
+to undo the effects of such violation.
+  2. Any person aggrieved by a violation of section eighteen-c of this
+chapter shall in addition have a right of action in any court of
+appropriate jurisdiction for damages caused by such violation.
+  3. At or before the commencement of any action under this section,
+notice thereof shall be served upon the attorney general.
+```

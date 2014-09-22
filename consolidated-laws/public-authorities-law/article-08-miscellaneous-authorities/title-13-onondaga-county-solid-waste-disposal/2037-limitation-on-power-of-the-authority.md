@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2037", "kind": "section", "law_id": "PBA", "location_id": "2037", "path": "ARTICLE 8 › TITLE 13 › SECTION 2037", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2037.md", "title": "Limitation on power of the authority"} -->
+# Public Authorities Law § 2037 — Limitation on power of the authority
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 13 — Onondaga County Solid Waste Disposal Authority](README.md)
+
+```text
+  * § 2037. Limitation on power of the authority. Notwithstanding any
+other provision of this title, the authority, on and after the effective
+date of this section, shall not exercise any of the powers granted
+pursuant to subdivisions three, four, six, seven, eight, nine, ten,
+thirteen, fourteen and fifteen of section two thousand eighteen, or
+section two thousand twenty or two thousand twenty-one of this title,
+without approval by resolution of the county legislature; provided,
+however, that the authority may continue to exercise such powers granted
+pursuant to subdivisions three, four, six, seven, eight, nine, ten,
+thirteen, fourteen and fifteen of section two thousand eighteen of this
+title as may be necessary for the routine operation and ordinary
+maintenance of the properties of the authority unless the county
+legislature otherwise acts to the contrary within forty-five days of the
+submission to the county legislature of a request by the authority for
+approval to exercise any such powers.
+  * NB Expired April 1, 1982
+```

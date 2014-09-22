@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 18", "kind": "section", "law_id": "LAB", "location_id": "18", "path": "ARTICLE 2 › SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/18.md", "title": "Officers and employees"} -->
+# Labor Law § 18 — Officers and employees
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 18. Officers and employees. The officers, deputy commissioners and
+employees of the department of labor in office when this section takes
+effect shall continue in office subject to the power of removal or the
+appointment of their successors as provided in this chapter. There shall
+be in such department and the commissioner may appoint such heads of
+divisions or bureaus and such inspectors, investigators, statisticians
+and other assistants and employees as he shall deem necessary for the
+exercise of the powers and the performance of the duties of the
+department.
+  The commissioner may transfer officers or employees from their
+positions to other positions in the department, or abolish or
+consolidate such positions. The commissioner may remove from office any
+officer or employee in the department. All such transfers, removal of
+employees or officers and abolishment or consolidation of positions
+shall be made in accordance with the provisions of the civil service
+law.
+```

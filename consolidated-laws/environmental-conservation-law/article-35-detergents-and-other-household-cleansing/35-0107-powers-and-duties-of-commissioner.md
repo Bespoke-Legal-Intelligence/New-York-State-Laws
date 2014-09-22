@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 35-0107", "kind": "section", "law_id": "ENV", "location_id": "35-0107", "path": "ARTICLE 35 › SECTION 35-0107", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/35-0107.md", "title": "Powers and duties of commissioner"} -->
+# Environmental Conservation Law § 35-0107 — Powers and duties of commissioner
+
+[Environmental Conservation Law](../README.md) › [Article 35 — Detergents and Other Household Cleansing Products](README.md)
+
+```text
+§ 35-0107. Powers and duties of commissioner.
+  1. The commissioner is hereby authorized to promulgate regulations
+requiring manufacturers of household cleansing products distributed,
+sold or offered for sale in this state, to furnish to the commissioner
+for the public record as herein provided information regarding such
+products in a form prescribed by the commissioner including the nature
+and extent of investigations and research performed by the manufacturer
+concerning the effects of such products on human health and the
+environment. These reports shall be available to the public at the
+department of environmental conservation, except those portions the
+manufacturer determines, subject to the approval of the commissioner,
+would be, if disclosed, seriously prejudicial to the manufacturer's
+legitimate interest in trade secrets and economics of operation.
+  2. No later than February 1, 1973 the commissioner shall prepare and
+submit a comprehensive report to the governor and legislature on the
+status of progress made in research and development to provide a safe
+and effective substitute for phosphates in household cleansing products.
+  3. Whenever the commissioner finds, after investigation, that any
+ingredient of household cleansing products distributed, sold, offered or
+exposed for sale in this state, other than an ingredient for which
+limitations are set forth in subdivision 2 of section 35-0105, will or
+is likely to materially affect adversely human health or the
+environment, he may, after public hearing, restrict or limit by
+regulation the use of such ingredient in such products.
+```

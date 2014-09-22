@@ -1,0 +1,46 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1300", "kind": "section", "law_id": "PML", "location_id": "1300", "path": "ARTICLE 13 › TITLE 1 › SECTION 1300", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1300.md", "title": "Legislative findings and purpose"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1300 — Legislative findings and purpose
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 1300. Legislative findings and purpose. The legislature hereby finds
+and declares that:
+  1. New York state is already in the business of gambling with nine
+video lottery facilities, five tribal class III casinos, and three
+tribal class II facilities;
+  2. New York state has more electronic gaming machines than any state
+in the Northeast or Mideast;
+  3. While gambling already exists throughout the state, the state does
+not fully capitalize on the economic development potential of legalized
+gambling;
+  4. The state should authorize four destination resort casinos in
+upstate New York;
+  5. Four upstate casinos can boost economic development, create
+thousands of well-paying jobs and provide added revenue to the state;
+  6. The upstate tourism industry constitutes a critical component of
+our state's economic infrastructure and that four upstate casinos will
+attract non-New York residents and bring downstate New Yorkers to
+upstate;
+  7. The casino sites and the licensed owners shall be selected on
+merit;
+  8. Local impact of the casino sites will be considered in the casino
+evaluation process;
+  9. Revenue realized from casinos shall be utilized to increase support
+for education beyond that of the state's education formulae and to
+provide real property tax relief to localities;
+  10. Casinos will be tightly and strictly regulated by the commission
+to guarantee public confidence and trust in the credibility and
+integrity of all casino gambling in the state and to prevent organized
+crime from any involvement in the casino industry;
+  11. The need for strict state controls extends to regulation of all
+persons, locations, practices and associations related to the operation
+of licensed enterprises and all related service industries as provided
+in this article;
+  12. The state and the casinos will develop programs and resources to
+combat compulsive and problem gambling;
+  13. The state will ensure that host municipalities of casinos are
+provided with funding to limit any potential adverse impacts of casinos;
+  14. As thoroughly and pervasively regulated by the state, four upstate
+casinos will work to the betterment of all New York.
+```

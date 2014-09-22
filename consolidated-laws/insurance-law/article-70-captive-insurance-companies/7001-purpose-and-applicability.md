@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7001", "kind": "section", "law_id": "ISC", "location_id": "7001", "path": "ARTICLE 70 › SECTION 7001", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7001.md", "title": "Purpose and applicability"} -->
+# Insurance Law § 7001 — Purpose and applicability
+
+[Insurance Law](../README.md) › [Article 70 — Captive Insurance Companies](README.md)
+
+```text
+  § 7001. Purpose and applicability. (a) The purpose of this article is
+to facilitate the formation and operation of captive insurance companies
+within the state of New York.
+  (b) In addition to the provisions of this article and this chapter
+specifically referred to in this article, the following provisions of
+this chapter shall apply to captive insurance companies:
+  (1) article one of this chapter, pertaining to general provisions;
+  (2) sections three hundred one, three hundred two, three hundred
+three, three hundred four, three hundred five, three hundred six, three
+hundred eight, three hundred ten, three hundred eleven, three hundred
+twelve, three hundred thirteen, three hundred twenty-six, three hundred
+twenty-seven, three hundred twenty-nine, and three hundred thirty-two of
+this chapter, pertaining to certain administrative and procedural
+provisions; and
+  (3) article seventy-four, pertaining to rehabilitation, liquidation,
+conservation and dissolution of insurers.
+```

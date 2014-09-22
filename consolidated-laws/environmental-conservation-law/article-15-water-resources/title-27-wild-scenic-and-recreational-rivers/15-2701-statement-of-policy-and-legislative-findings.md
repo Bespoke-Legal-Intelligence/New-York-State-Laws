@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-2701", "kind": "section", "law_id": "ENV", "location_id": "15-2701", "path": "ARTICLE 15 › TITLE 27 › SECTION 15-2701", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-2701.md", "title": "Statement of policy and legislative findings"} -->
+# Environmental Conservation Law § 15-2701 — Statement of policy and legislative findings
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 27 — Wild, Scenic and Recreational Rivers System](README.md)
+
+```text
+§ 15-2701. Statement of policy and legislative findings.
+  1. The legislature hereby finds that many rivers of the state, with
+their immediate environs, possess outstanding natural, scenic, historic,
+ecological and recreational values.
+  2. Improvident development and use of these rivers and their immediate
+environs will deprive present and future generations of the benefit and
+enjoyment of these unique and valuable resources.
+  3. It is hereby declared to be the policy of this state that certain
+selected rivers of the state which, with their immediate environs,
+possess the aforementioned characteristics, shall be preserved in
+free-flowing condition and that they and their immediate environs shall
+be protected for the benefit and enjoyment of present and future
+generations.
+  4. The purpose of this act is to implement this policy by instituting
+a state wild, scenic and recreational rivers system, by designating the
+initial components of that system and by prescribing the methods by
+which and standards according to which additional components may be
+added to the system from time to time.
+```

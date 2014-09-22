@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1372", "kind": "section", "law_id": "PBA", "location_id": "1372", "path": "ARTICLE 6 › TITLE 2 › SECTION 1372", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1372.md", "title": "Actions against authority"} -->
+# Public Authorities Law § 1372 — Actions against authority
+
+[Public Authorities Law](../../README.md) › [Article 6 — Port Authorities](../README.md) › [Title 2 — Port of Oswego Authority](README.md)
+
+```text
+  § 1372. Actions against authority. In any case founded upon a tort,
+except an action for wrongful death, a notice of claim shall be required
+as a condition precedent to the commencement of an action or special
+proceeding against the authority and the provisions of section fifty-e
+of the general municipal law shall apply. An action against the
+authority for wrongful death shall be commenced in accordance with the
+notice of claim and time limitation provisions of title eleven of
+article nine of this chapter. Except in an action for wrongful death, an
+action against the authority for damages for injuries to real or
+personal property, or for the destruction thereof, or for personal
+injuries, alleged to have been sustained, shall not be commenced more
+than one year and ninety days after the cause of action therefor shall
+have accrued.
+```

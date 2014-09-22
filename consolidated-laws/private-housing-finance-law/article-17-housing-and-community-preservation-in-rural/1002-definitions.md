@@ -1,0 +1,47 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1002", "kind": "section", "law_id": "PVH", "location_id": "1002", "path": "ARTICLE 17 › SECTION 1002", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1002.md", "title": "Definitions"} -->
+# Private Housing Finance Law § 1002 — Definitions
+
+[Private Housing Finance Law](../README.md) › [Article 17 — Housing and Community Preservation In Rural Areas](README.md)
+
+```text
+  § 1002. Definitions. As used in this article, the following terms
+shall have the following meanings:
+  1. "Commissioner" shall mean the commissioner of the state division of
+housing and community renewal.
+  2. "Division" shall mean the state division of housing and community
+renewal.
+  3. "Rural area of the state" shall mean cities, towns and villages
+having a population of less than twenty-five thousand.
+  4. "Region" shall mean those portions of the rural area of the state,
+as specified in the contract entered into pursuant to this article,
+within which housing and community renewal activities funded in part
+pursuant to this article are to be carried out.
+  5. "Housing preservation and community renewal activities" include (a)
+the new construction or the acquisition, maintenance, preservation,
+repair, rehabilitation or other improvement of vacant or occupied
+housing accommodations; demolition or sealing of vacant structures where
+necessary or appropriate; disposition of housing accommodations to
+present or potential occupants or co-operative organizations; training
+or other forms of assistance to occupants of housing accommodations; and
+management of housing accommodations as agent for the owners, receivers,
+administrators or municipalities; (b) activities, similar to those
+specified in paragraph (a) of this subdivision, aimed at accomplishing
+similar purposes and meeting similar needs with respect to retail and
+service establishments within a region when carried out in connection
+with and incidental to a program of housing related activities.
+  6. "Persons of low income" shall mean individuals and families whose
+annual incomes do not exceed ninety per cent of the median annual income
+for all residents of the region within which they reside or a larger
+area encompassing such region for which median annual income can be
+determined.
+  7. "Merged corporation" shall mean a not-for-profit corporation
+maintaining a contract pursuant to section one thousand three of this
+article that has undergone a merger with one or more other
+not-for-profit corporation, which is also maintaining a contract
+pursuant to section one thousand three of this article, that has led the
+merged corporations to reduce the number of contracts being maintained
+with the division pursuant to section one thousand three of this article
+to a total of one.
+  8. "Unmerged corporation" shall mean a not-for-profit corporation that
+is not a merged corporation.
+```

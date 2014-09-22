@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 226", "kind": "section", "law_id": "PBH", "location_id": "226", "path": "ARTICLE 2 › TITLE 2 › SECTION 226", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/226.md", "title": "Sanitary code; filing and publication"} -->
+# Public Health Law § 226 — Sanitary code; filing and publication
+
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 2 — The Public Health Council](README.md)
+
+```text
+  § 226. Sanitary code; filing and publication. 1. Every regulation
+adopted by the public health and health planning council shall state the
+date on which it takes effect, and a copy thereof, duly signed by the
+secretary of the public health and health planning council, shall be
+filed as a public record in the department and in the office of the
+secretary of state.
+  2. A copy of every regulation adopted by the public health and health
+planning council shall be sent by the commissioner to each health
+officer within the state, and shall be published in such manner as the
+public health and health planning council may from time to time
+determine.
+```

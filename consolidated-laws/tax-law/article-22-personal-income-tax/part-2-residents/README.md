@@ -1,0 +1,72 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A22P2", "path": "ARTICLE 22 › PART 2", "source": "nys-laws:TAX/A22P2.md", "title": "Residents"} -->
+# Part 2 — Residents
+
+[Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md)
+
+## Contents
+
+- [§ 611 New York taxable income of a resident individual](611-new-york-taxable-income-of-a-resident-individual.md)
+- [§ 612 New York adjusted gross income of a resident individual](612-new-york-adjusted-gross-income-of-a-resident-individual.md)
+- [§ 613 New York deduction of a resident individual](613-new-york-deduction-of-a-resident-individual.md)
+- [§ 614 New York standard deduction of a resident individual](614-new-york-standard-deduction-of-a-resident-individual.md)
+- [§ 615 New York itemized deduction of a resident individual](615-new-york-itemized-deduction-of-a-resident-individual.md)
+- [§ 616 New York exemptions of a resident individual](616-new-york-exemptions-of-a-resident-individual.md)
+- [§ 617 Resident partners and shareholders of S corporations](617-resident-partners-and-shareholders-of-s-corporations.md)
+- [§ 617-A Residents; special provisions](617a-residents-special-provisions.md)
+- [§ 618 New York taxable income of a resident estate or trust](618-new-york-taxable-income-of-a-resident-estate-or-trust.md)
+- [§ 619 Share of a resident estate, trust or beneficiary in New York fiduciary adjustment](619-share-of-a-resident-estate-trust-or-beneficiary-in-new-york-fiduciary-adjustment.md)
+- [§ 620 Credit for income tax of another state](620-credit-for-income-tax-of-another-state.md)
+- [§ 620-A Credit against separate tax](620a-credit-against-separate-tax.md)
+- [§ 621 Credits to trust beneficiary receiving accumulation distribution](621-credits-to-trust-beneficiary-receiving-accumulation-distribution.md)
+- [§ 624 Computation of separate tax on the ordinary income portion of lump sum distributions received by resident individuals, estates and trusts](624-computation-of-separate-tax-on-the-ordinary-income-portion-of-lump-sum.md)
+- [§ 625 Gift for fish and wildlife management](625-gift-for-fish-and-wildlife-management.md)
+- [§ 626 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](626-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
+- [§ 627 Gift for breast cancer research and education](627-gift-for-breast-cancer-research-and-education.md)
+- [§ 627-A Gift for honor and remembrance of veterans](627a-gift-for-honor-and-remembrance-of-veterans.md)
+- [§ 628 Gift for missing and exploited children clearinghouse fund](628-gift-for-missing-and-exploited-children-clearinghouse-fund.md)
+- [§ 629 Gift for Alzheimer's disease support services](629-gift-for-alzheimers-disease-support-services.md)
+- [§ 630 Gift for prostate and testicular cancer research and education](630-gift-for-prostate-and-testicular-cancer-research-and-education.md)
+- [§ 630-A Gift for World Trade Center memorial foundation](630a-gift-for-world-trade-center-memorial-foundation.md)
+- [§ 630-B Gift for volunteer firefighting and volunteer emergency services fund](630b-gift-for-volunteer-firefighting-and-volunteer-emergency-services-fund.md)
+- [§ 630-C Gift for New York state teen health education fund](630c-gift-for-new-york-state-teen-health-education-fund.md)
+
+<details>
+<summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                            PART II-RESIDENTS
+Section 611.   New York taxable income of a resident individual.
+        612.   New York adjusted gross income of a resident individual.
+        613.   New York deduction of a resident individual.
+        614.   New York standard deduction of a resident individual.
+        615.   New York itemized deduction of a resident individual.
+        616.   New York exemptions of a resident individual.
+        617.   Resident partners and shareholders of S corporations.
+        617-a. Residents; special provisions.
+        618.   New York taxable income of a resident estate or trust.
+        619.   Share of a resident estate, trust or beneficiary in New
+                 York fiduciary adjustment.
+        620.   Credit for income tax of another state.
+        620-A. Credit against separate tax.
+        621.   Credits to trust beneficiary receiving accumulation
+                 distribution.
+        624.   Computation of separate tax on the ordinary income
+                 portion of lump sum distributions received by resident
+                 individuals, estates and trusts.
+        625.   Gift for fish and wildlife management.
+        626.   The United States Olympic Committee/Lake Placid Olympic
+                 Training Center Fund.
+        627.   Gift for breast cancer research and education.
+        627-a. Gift for honor and remembrance of veterans.
+        628.   Gift for missing and exploited children clearinghouse
+                 fund.
+        629.   Gift for Alzheimer's disease support services.
+        630.   Gift for prostate and testicular cancer research and
+                 education.
+        630-a. Gift for World Trade Center memorial foundation.
+        630-b. Gift for volunteer firefighting and volunteer emergency
+                 services fund.
+        630-c. Gift for New York state teen health education fund.
+```
+
+</details>

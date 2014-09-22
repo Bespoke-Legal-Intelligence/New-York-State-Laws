@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7419", "kind": "section", "law_id": "ISC", "location_id": "7419", "path": "ARTICLE 74 › SECTION 7419", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7419.md", "title": "Injunctions"} -->
+# Insurance Law § 7419 — Injunctions
+
+[Insurance Law](../README.md) › [Article 74 — Rehabilitation, Liquidation, Conservation and Dissolution of Insurers](README.md)
+
+```text
+  § 7419. Injunctions. (a) Upon application by the superintendent for an
+order to show cause under this article or at any time thereafter, the
+court in which such order is made, or any justice thereof may without
+notice issue an injunction restraining the insurer, its officers,
+directors, shareholders, members, trustees, agents, servants, employees,
+policyholders, attorneys, managers, and all other persons from the
+transaction of its business or the waste or disposition of its property
+until further order of the court.
+  (b) Such court or justice may at any time during a proceeding under
+this article issue such other injunctions or orders as it deems
+necessary to prevent interference with the superintendent or the
+proceeding, or waste of the assets of the insurer, or the commencement
+or prosecution of any actions, the obtaining of preferences, judgments,
+attachments or other liens, or the making of any levy against the
+insurer, its assets or any part thereof.
+```

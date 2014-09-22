@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 65", "kind": "section", "law_id": "CVR", "location_id": "65", "path": "ARTICLE 6 › SECTION 65", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/65.md", "title": "Optional change of name upon marriage, divorce or annulment"} -->
+# Civil Rights Law § 65 — Optional change of name upon marriage, divorce or annulment
+
+[Civil Rights Law](../README.md) › [Article 6 — Change of Name](README.md)
+
+```text
+  § 65. Optional change of name upon marriage, divorce or annulment. 1.
+Any person may, upon marriage, elect to assume a new name according to
+the provisions of paragraph (b) of subdivision one of section fifteen of
+the domestic relations law.
+  2. Any person may, upon divorce or annulment, elect to resume the use
+of a former surname according to the provisions of section two hundred
+forty-a of the domestic relations law.
+  3. The effect of the name changes accomplished in the manner
+prescribed in subdivisions one and two of this section shall be as set
+forth in section sixty-four of this chapter.
+  4. Nothing in this article shall be construed to abrogate or alter the
+common law right of every person, whether married or single, to retain
+his or her name or to assume a new one so long as the new name is used
+consistently and without intent to defraud.
+  5. Notwithstanding any inconsistent provision of law, the state shall
+not impose any fee, charge, surcharge or assessment solely to change the
+surname contained on a license, permit, registration or other
+identifying document for a person who, because of a change in marital
+status, has assumed a new name or reassumes use of a former surname as
+provided for in this section.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article V, § 4", "kind": "section", "law_id": "CNS", "location_id": "A5S4", "path": "ARTICLE V › SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A5S4.md", "title": "Department heads"} -->
+# New York State Constitution, Article V, § 4 — Department heads
+
+[New York State Constitution](../README.md) › [Article V — Officers and Civil Departments](README.md)
+
+```text
+  § 4. The head of the department of audit and control shall be the
+comptroller and of the department of law, the attorney-general. The head
+of the department of education shall be The Regents of the University of
+the State of New York, who shall appoint and at pleasure remove a
+commissioner of education to be the chief administrative officer of the
+department. The head of the department of agriculture and markets shall
+be appointed in a manner to be prescribed by law. Except as otherwise
+provided in this constitution, the heads of all other departments and
+the members of all boards and commissions, excepting temporary
+commissions for special purposes, shall be appointed by the governor by
+and with the advice and consent of the senate and may be removed by the
+governor, in a manner to be prescribed by law.
+```

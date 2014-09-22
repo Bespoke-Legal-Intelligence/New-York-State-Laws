@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 756-D", "kind": "section", "law_id": "GBS", "location_id": "756-D", "path": "ARTICLE 35-E › SECTION 756-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/756-D.md", "title": "Exceptions for failure of lender to disburse funds"} -->
+# General Business Law § 756-D — Exceptions for failure of lender to disburse funds
+
+[General Business Law](../README.md) › [Article 35-E — Construction Contracts](README.md)
+
+```text
+  § 756-d. Exceptions for failure of lender to disburse funds. The date
+of payment required by the owner, the contractor and/or subcontractor
+pursuant to section seven hundred fifty-six-a of this article, shall be
+extended to the seventh day after the owner, contractor or
+subcontractor, as the case may be, receives loan proceeds necessary to
+make such payment in the event that:
+  1. the owner, contractor or subcontractor, as the case may be, has
+obtained a loan intended to pay for all or part of the construction
+contract;
+  2. the owner, contractor or subcontractor, as the case may be, has
+timely requested disbursement of proceeds from that loan; and
+  3. the lender is legally obligated to disburse such proceeds to the
+owner, contractor or subcontractor, as the case may be, but has failed
+to do so in a timely manner.
+```

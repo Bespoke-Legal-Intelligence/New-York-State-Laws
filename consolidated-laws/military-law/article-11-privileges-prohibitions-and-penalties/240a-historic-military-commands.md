@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Military Law § 240-A", "kind": "section", "law_id": "MIL", "location_id": "240-A", "path": "ARTICLE 11 › SECTION 240-A", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/240-A.md", "title": "Historic military commands"} -->
+# Military Law § 240-A — Historic military commands
+
+[Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
+
+```text
+  § 240-a. Historic military commands.  1. Historic military commands
+are those independent military organizations located within the state as
+were on the twenty-third day of April, eighteen hundred eighty-three and
+are now in existence, and whose members associate themselves together at
+regular meetings and elect their officers in accordance with their
+respective rules and regulations or constitutions and by-laws.
+  2. The Old Guard of the City of New York, the Troy Citizens Corps, the
+Utica Citizens Corps, the One Hundred Twenty-fourth New York State
+Volunteers and the Veteran Corps of Artillery of the state of New York,
+are designated as historic military commands.
+  3. The adjutant general may issue a certificate of election under the
+seal of the chief of staff to officers of historic military commands
+elected pursuant to the rules and regulations or constitutions and
+by-laws of their respective commands. Such certificate of election shall
+be in a format approved by the adjutant general and shall be provided by
+the command at no cost to the state. Elected officers of historic
+military commands may take their oath of office before any officer of
+the organized militia of the state.
+  4. Historic military commands and independent military organizations
+defined in section two hundred forty of this chapter are not units of
+the militia of the state.
+```

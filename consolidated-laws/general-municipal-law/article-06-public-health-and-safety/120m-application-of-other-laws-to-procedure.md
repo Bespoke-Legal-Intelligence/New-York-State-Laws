@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 120-M", "kind": "section", "law_id": "GMU", "location_id": "120-M", "path": "ARTICLE 6 › SECTION 120-M", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/120-M.md", "title": "Application of other laws to procedure"} -->
+# General Municipal Law § 120-M — Application of other laws to procedure
+
+[General Municipal Law](../README.md) › [Article 6 — Public Health and Safety](README.md)
+
+```text
+  § 120-m. Application of other laws to procedure. Except where
+inconsistent with this act, or otherwise permitted hereunder the
+apportionment of local assessments and the manner of payment of the
+expenses of construction of such public works shall be as provided in
+the town law, the village law, the general cities law, or the local
+finance law or in the manner provided in any special city and of any
+contracting city.
+```

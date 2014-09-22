@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 353-A", "kind": "section", "law_id": "GBS", "location_id": "353-A", "path": "ARTICLE 23-A › SECTION 353-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/353-A.md", "title": "Receivers"} -->
+# General Business Law § 353-A — Receivers
+
+[General Business Law](../README.md) › [Article 23-A — Fraudulent Practices In Respect to Stocks, Bonds and Other Securities](README.md)
+
+```text
+  § 353-a. Receivers. In any action brought by the attorney-general as
+provided in this article, the court at any stage of the proceedings may
+appoint a receiver of any and all property derived by the defendant or
+defendants or any of them by means of any such fraudulent practices,
+including also all property with which such property has been mingled if
+such property can not be identified in kind because of such commingling,
+together with any or all books of account and papers relating to the
+same. The judgment entered in such action may provide that such receiver
+shall take title to any or all such property and books of account and
+papers relating to the same and liquidate such property or any part
+thereof for the benefit of all persons intervening in the said action
+and establishing an interest in such property. The judgment may also
+provide that all such property, the title to or interest in which has
+not been established in such action by intervenors or otherwise by due
+process to be in a person or persons other than defendant or defendants,
+shall be returned to the defendant or defendants as their interest may
+appear. Such receiver shall be subject to all the duties of receivers
+appointed in a civil action as far as practicable except that such
+provisions relating to commissions or compensation of receivers shall
+not be applicable to receivers appointed pursuant to this section, but
+such commissions or compensation shall be fixed by the court in any
+amount which it may determine to be just and equitable. In any action
+brought by the attorney-general as provided in this article the court
+may grant such other and further relief as may be proper.
+```

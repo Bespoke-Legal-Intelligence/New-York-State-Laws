@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4406", "kind": "section", "law_id": "ISC", "location_id": "4406", "path": "ARTICLE 44 › SECTION 4406", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4406.md", "title": "Examinations; publication"} -->
+# Insurance Law § 4406 — Examinations; publication
+
+[Insurance Law](../README.md) › [Article 44 — Employee Welfare Funds](README.md)
+
+```text
+  § 4406. Examinations; publication. (a) All reports and copies of
+reports of examinations and investigations of any employee welfare fund,
+shall be confidential communications, shall not be subject to subpoena
+and shall not be made public unless, in the judgment of the
+superintendent, the ends of justice and the public advantage will be
+served by the publication thereof, in which event he may publish a copy
+of any such report or any part thereof in such manner as he may deem
+proper.
+  (b) In any action or proceeding against the trustees of any fund, or
+against its other officers, agents, or employees, such report, or any
+part thereof, if published by the superintendent, shall be admissible in
+evidence and shall be presumptive evidence of the facts stated therein.
+  (c) The superintendent may assemble and file for public inspection
+such information covering:
+  (1) forms of trust indentures in use;
+  (2) commission and fee schedules adopted by insurers;
+  (3) compensation paid to trustees of employee welfare funds; and
+  (4) such other matters affecting the establishment and administration
+of such funds as, in his opinion, are in the public interest.
+```

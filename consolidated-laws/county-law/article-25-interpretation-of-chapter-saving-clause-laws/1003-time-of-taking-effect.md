@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "County Law § 1003", "kind": "section", "law_id": "CNT", "location_id": "1003", "path": "ARTICLE 25 › SECTION 1003", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/1003.md", "title": "Time of taking effect"} -->
+# County Law § 1003 — Time of taking effect
+
+[County Law](../README.md) › [Article 25 — Interpretation of Chapter; Saving Clause; Laws Repealed; Time of Taking Effect](README.md)
+
+```text
+  § 1003. Time of taking effect. 1. The provisions of sections three
+hundred fifty, three hundred fifty-one, three hundred fifty-two, three
+hundred fifty-three, three hundred fifty-four, three hundred fifty-five,
+three hundred fifty-six, three hundred fifty-seven, three hundred
+fifty-eight, three hundred fifty-nine, three hundred sixty, three
+hundred sixty-one, three hundred sixty-five, three hundred sixty-seven,
+three hundred sixty-nine, three hundred seventy-one, three hundred
+seventy-two, three hundred seventy-three, three hundred seventy-four,
+three hundred seventy-five, three hundred seventy-six, three hundred
+eighty and three hundred eighty-one shall take effect July first,
+nineteen hundred fifty.
+  2. All other provisions of this chapter shall take effect January
+first, nineteen hundred fifty-one.
+```

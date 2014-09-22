@@ -1,0 +1,89 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2801", "kind": "section", "law_id": "PBH", "location_id": "2801", "path": "ARTICLE 28 › SECTION 2801", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2801.md", "title": "Definitions"} -->
+# Public Health Law § 2801 — Definitions
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  § 2801. Definitions. The following words or phrases, as used in this
+article, shall have the following meanings, unless the context otherwise
+requires:
+  1. "Hospital" means a facility or institution engaged principally in
+providing services by or under the supervision of a physician or, in the
+case of a dental clinic or dental dispensary, of a dentist, for the
+prevention, diagnosis or treatment of human disease, pain, injury,
+deformity or physical condition, including, but not limited to, a
+general hospital, public health center, diagnostic center, treatment
+center, dental clinic, dental dispensary, rehabilitation center other
+than a facility used solely for vocational rehabilitation, nursing home,
+tuberculosis hospital, chronic disease hospital, maternity hospital,
+lying-in-asylum, out-patient department, out-patient lodge, dispensary
+and a laboratory or central service facility serving one or more such
+institutions, but the term hospital shall not include an institution,
+sanitarium or other facility engaged principally in providing services
+for the prevention, diagnosis or treatment of mental disability and
+which is subject to the powers of visitation, examination, inspection
+and investigation of the department of mental hygiene except for those
+distinct parts of such a facility which provide hospital service. The
+provisions of this article shall not apply to a facility or institution
+engaged principally in providing services by or under the supervision of
+the bona fide members and adherents of a recognized religious
+organization whose teachings include reliance on spiritual means through
+prayer alone for healing in the practice of the religion of such
+organization and where services are provided in accordance with those
+teachings.
+  2. "Nursing home" means a facility providing therein nursing care to
+sick, invalid, infirm, disabled or convalescent persons in addition to
+lodging and board or health-related service, or any combination of the
+foregoing, and in addition thereto, providing nursing care and
+health-related service, or either of them, to persons who are not
+occupants of the facility.
+  3. "Residential health care facility" means a nursing home or a
+facility providing health-related service.
+  4. (a) "Hospital service" means the preadmission, out-patient,
+in-patient and post discharge care provided in or by a hospital, and
+such other items or services as are necessary for such care, which are
+provided by or under the supervision of a physician for the purpose of
+prevention, diagnosis or treatment of human disease, pain, injury,
+disability, deformity or physical condition, including, but not limited
+to, nursing service, home-care nursing and other paramedical service,
+ambulance service, service provided by an intern or resident in
+training, laboratory service, medical social service, drugs,
+biologicals, supplies, appliances, equipment, bed and board.
+  (b) "Health-related service" means service in a facility or facilities
+which provide or offer lodging, board and physical care including, but
+not limited to, the recording of health information, dietary supervision
+and supervised hygienic services incident to such service.
+  5. "Construction" means the erection, building, or substantial
+acquisition, alteration, reconstruction, improvement, extension or
+modification of a hospital, including its equipment; the inspection and
+supervision thereof; and the studies, surveys, designs, plans, working
+drawings, specifications, procedures and other actions necessary
+thereto.
+  6. "Council" and "public health council" mean the public health and
+health planning council.
+  7. "Government agency" means a department, board, bureau, division,
+office, agency, public benefit or other corporation, or any other unit,
+however described, of the state or a political subdivision thereof.
+  8. "Caretaker" means a person appointed pursuant to the provisions of
+section twenty-eight hundred six-b of this article, to act as a
+fiduciary responsible to the court which appoints him for the conserving
+and preserving of the rights and property of the operator of a
+residential health care facility, while also preserving and providing
+for the rights of the patients in such facility to care appropriate to
+their needs in a clean and wholesome environment in accordance with
+applicable federal and state laws and regulations.
+  9. "Out-patient lodge" means a facility affiliated with an institution
+providing hospital service, which provides therein food and overnight
+lodging to the chronically ill undergoing out-patient treatment for
+cancer at such institution.
+  10. "General hospital" means a hospital engaged in providing medical
+or medical and surgical services primarily to in-patients by or under
+the supervision of a physician on a twenty-four hour basis with
+provisions for admission or treatment of persons in need of emergency
+care and with an organized medical staff and nursing service, including
+facilities providing services relating to particular diseases, injuries,
+conditions or deformities. The term general hospital shall not include a
+residential health care facility, public health center, diagnostic
+center, treatment center, out-patient lodge, dispensary and laboratory
+or central service facility serving more than one institution.
+```

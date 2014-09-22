@@ -1,0 +1,57 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-208", "kind": "section", "law_id": "UCC", "location_id": "9-208", "path": "ARTICLE 9 › PART 2 › SUBPART 2 › SECTION 9-208", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-208.md", "title": "Additional Duties of Secured Party Having Control of Collateral"} -->
+# Uniform Commercial Code § 9-208 — Additional Duties of Secured Party Having Control of Collateral
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 2 — Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement](../README.md) › [Subpart 2 — Rights and Duties](README.md)
+
+```text
+Section 9--208. Additional Duties of Secured Party Having Control of
+                  Collateral.
+  (a) Applicability of section. This section applies to cases in which
+there is no outstanding secured obligation and the secured party is not
+committed to make advances, incur obligations, or otherwise give value.
+  (b) Duties of secured party after receiving demand from debtor. Within
+10 days after receiving an authenticated demand by the debtor:
+       (1) a secured party having control of a deposit account under
+           Section 9--104(a)(2) shall send to the bank with which the
+           deposit account is maintained an authenticated statement that
+           releases the bank from any further obligation to comply with
+           instructions originated by the secured party;
+       (2) a secured party having control of a deposit account under
+           Section 9--104(a)(3) shall:
+           (A) pay the debtor the balance on deposit in the deposit
+               account; or
+           (B) transfer the balance on deposit into a deposit account in
+               the debtor's name;
+       (3) a secured party, other than a buyer, having control of
+           electronic chattel paper under Section 9--105 shall:
+           (A) communicate the authoritative copy of the electronic
+               chattel paper to the debtor or its designated custodian;
+           (B) if the debtor designates a custodian that is the
+               designated custodian with which the authoritative copy of
+               the electronic chattel paper is maintained for the
+               secured party, communicate to the custodian an
+               authenticated record releasing the designated custodian
+               from any further obligation to comply with instructions
+               originated by the secured party and instructing the
+               custodian to comply with instructions originated by the
+               debtor; and
+           (C) take appropriate action to enable the debtor or its
+               designated custodian to make copies of or revisions to
+               the authoritative copy which add or change an identified
+               assignee of the authoritative copy without the consent of
+               the secured party;
+       (4) a secured party having control of investment property under
+           Section 8--106(d)(2) or 9--106(b) shall send to the
+           securities intermediary or commodity intermediary with which
+           the security entitlement or commodity contract is maintained
+           an authenticated record that releases the securities
+           intermediary or commodity intermediary from any further
+           obligation to comply with entitlement orders or directions
+           originated by the secured party; and
+       (5) a secured party having control of a letter-of-credit right
+           under Section 9--107 shall send to each person having an
+           unfulfilled obligation to pay or deliver proceeds of the
+           letter-of-credit to the secured party an authenticated
+           release from any further obligation to pay or deliver
+           proceeds of the letter-of-credit to the secured party.
+```

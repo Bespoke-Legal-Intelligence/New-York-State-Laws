@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 4404", "kind": "section", "law_id": "CVP", "location_id": "4404", "path": "ARTICLE 44 › SECTION 4404", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/4404.md", "title": "Post-trial motion for judgment and new trial"} -->
+# Civil Practice Law and Rules § 4404 — Post-trial motion for judgment and new trial
+
+[Civil Practice Law and Rules](../README.md) › [Article 44 — Trial Motions](README.md)
+
+```text
+  Rule 4404. Post-trial motion for judgment and new trial. (a) Motion
+after trial where jury required. After a trial of a cause of action or
+issue triable of right by a jury, upon the motion of any party or on its
+own initiative, the court may set aside a verdict or any judgment
+entered thereon and direct that judgment be entered in favor of a party
+entitled to judgment as a matter of law or it may order a new trial of a
+cause of action or separable issue where the verdict is contrary to the
+weight of the evidence, in the interest of justice or where the jury
+cannot agree after being kept together for as long as is deemed
+reasonable by the court.
+  (b) Motion after trial where jury not required. After a trial not
+triable of right by a jury, upon the motion of any party or on its own
+initiative, the court may set aside its decision or any judgment entered
+thereon.  It may make new findings of fact or conclusions of law, with
+or without taking additional testimony, render a new decision and direct
+entry of judgment, or it may order a new trial of a cause of action or
+separable issue.
+```

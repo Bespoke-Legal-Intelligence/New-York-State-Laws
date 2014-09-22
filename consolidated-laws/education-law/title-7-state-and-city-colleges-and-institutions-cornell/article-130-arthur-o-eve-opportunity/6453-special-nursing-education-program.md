@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6453", "kind": "section", "law_id": "EDN", "location_id": "6453", "path": "TITLE 7 › ARTICLE 130 › SECTION 6453", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6453.md", "title": "Special nursing education program"} -->
+# Education Law § 6453 — Special nursing education program
+
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
+
+```text
+  * § 6453. Special nursing education program.  To grant greater
+opportunity in nursing education, the commissioner may:
+  1. Enter into contracts with any institution of higher education
+incorporated in this state, voluntary non-profit hospitals incorporated
+within this state or public hospitals located within this state for:
+  (1) A contract for conducting courses approved by the department to
+assist foreign trained nurses to qualify for a license as a registered
+professional nurse in this state.
+  (2) A contract for conducting refresher courses for residents of this
+state who have been licensed as registered professional nurses but who
+are not actively engaged in nursing.
+  2. Enter into a contract to expand the enrollment of any institution
+of higher education incorporated within this state or any voluntary
+non-profit hospital or municipal or county hospital incorporated within
+this state providing either a regents' approved curriculum leading to a
+baccalaureate degree in professional nursing or a regents' registered
+program in professional nursing, by paying an agreed sum to the
+institution for each additional student enrolled in each year of
+instruction above the average enrollment in such year of instruction for
+the last five years prior to the year for which the payment is made. The
+sum shall not be paid for more than ten additional students per year.
+  3. Promulgate regulations necessary for the implementation of these
+programs.
+  * NB Section set out as 6443. Should read 6453
+```

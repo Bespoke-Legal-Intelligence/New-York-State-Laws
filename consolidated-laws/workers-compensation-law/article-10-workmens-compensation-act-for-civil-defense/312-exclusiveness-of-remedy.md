@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 312", "kind": "section", "law_id": "WKC", "location_id": "312", "path": "ARTICLE 10 › SECTION 312", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/312.md", "title": "Exclusiveness of remedy"} -->
+# Workers' Compensation Law § 312 — Exclusiveness of remedy
+
+[Workers' Compensation Law](../README.md) › [Article 10 — Workmen's Compensation Act For Civil Defense Volunteers](README.md)
+
+```text
+  § 312. Exclusiveness of remedy. Compensation as provided in this
+article shall be the exclusive remedy of a civil defense volunteer or
+his or her spouse, dependents, executor or administrator, for injury,
+disease or death arising in the course of civil defense volunteer
+service, as against the state or any political subdivision of the state
+or civil defense agency or any person or other agency acting under
+governmental authoritiy in furtherance of civil defense activities, with
+or without negligence, except only as otherwise provided by law. A
+member of a civil defense agency of the federal government or of another
+state or of the Dominion of Canada or a province thereof, who may
+perform services within this state, whether pursuant to a mutual aid
+compact or otherwise, shall not be entitled to compensation under the
+provisions of this article.
+```

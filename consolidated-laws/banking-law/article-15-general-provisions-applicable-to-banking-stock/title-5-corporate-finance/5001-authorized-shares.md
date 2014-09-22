@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 5001", "kind": "section", "law_id": "BNK", "location_id": "5001", "path": "ARTICLE 15 › TITLE 5 › SECTION 5001", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/5001.md", "title": "Authorized shares"} -->
+# Banking Law § 5001 — Authorized shares
+
+[Banking Law](../../README.md) › [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](../README.md) › [Title 5 — Corporate Finance](README.md)
+
+```text
+  § 5001. Authorized shares. 1. Every corporation shall have power to
+create and issue the number of shares stated in its organization
+certificate. Such shares may be all of one class or may be divided into
+two or more classes. Each class shall consist of shares with par value,
+having such designation and such relative voting, dividend, liquidation
+and other rights, preferences and limitations, consistent with this
+chapter, as shall be stated in the organization certificate. The
+organization certificate may deny, limit or otherwise define the voting
+rights and may limit or otherwise define the dividend or liquidation
+rights or shares of any class, but no such denial, limitation or
+definition of voting rights shall be effective unless at the time one or
+more classes of outstanding shares, singly or in the aggregate, are
+entitled to full voting rights, and no such limitation or definition of
+dividend or liquidation rights shall be effective unless at the time one
+or more classes of outstanding shares, singly or in the aggregate, are
+entitled to unlimited dividend and liquidation rights.
+  2. If the shares are divided into two or more classes, the shares of
+each class shall be designated to distinguish them from the shares of
+all other classes. Shares which are entitled to preference in the
+distribution of dividends or assets shall not be designated as common
+shares. Shares which are not entitled to preference in the distribution
+of dividends or assets shall not be designated as preferred shares.
+  3. Subject to the designations, relative rights, preferences and
+limitations applicable to separate series and except as otherwise
+permitted by subdivision two of section five thousand five of this
+chapter, each share shall be equal to every other share of the same
+class.
+```

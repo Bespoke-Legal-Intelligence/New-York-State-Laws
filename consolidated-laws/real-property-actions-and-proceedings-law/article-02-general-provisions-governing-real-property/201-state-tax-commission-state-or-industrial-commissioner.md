@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 201", "kind": "section", "law_id": "RPA", "location_id": "201", "path": "ARTICLE 2 › SECTION 201", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/201.md", "title": "State tax commission, state or industrial commissioner as defendant in certain real property actions"} -->
+# Real Property Actions and Proceedings Law § 201 — State tax commission, state or industrial commissioner as defendant in certain real property actions
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 2 — General Provisions Governing Real Property Actions](README.md)
+
+```text
+  § 201. State tax commission, state or industrial commissioner as
+defendant in certain real property actions. In any action affecting real
+property upon which the state tax commission has a lien under the tax
+law or under a law enacted pursuant to the authority of the tax law or
+article two-E of the general city law, whether or not such lien exists
+by reason of the filing or docketing of a warrant under such laws, the
+state tax commission may be made a party defendant in the same manner as
+a private person. In any action affecting real property upon which the
+state has a lien under sections two hundred forty-six-a and two hundred
+forty-six-b of the lien law, the state may be made a party defendant in
+the same manner as a private person. In any action affecting real
+property upon which a lien exists by reason of the docketing of a
+warrant pursuant to the unemployment insurance law, the industrial
+commissioner may be made a party defendant in the same manner as a
+private person.
+```

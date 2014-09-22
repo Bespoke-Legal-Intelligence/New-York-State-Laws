@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1551", "kind": "section", "law_id": "GOB", "location_id": "5-1551", "path": "ARTICLE 5 › TITLE 15-A › SECTION 5-1551", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1551.md", "title": "Power of parent to designate a person in parental relation"} -->
+# General Obligations Law § 5-1551 — Power of parent to designate a person in parental relation
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15-A — Designation of Person In Parental Relation](README.md)
+
+```text
+  § 5-1551. Power of parent to designate a person in parental relation.
+A parent of a minor or incapacitated person may designate another person
+as a person in parental relation to such minor or incapacitated person
+pursuant to sections twenty-one hundred sixty-four and twenty-five
+hundred four of the public health law and sections two and thirty-two
+hundred twelve of the education law for a period not exceeding six
+months provided that there is no prior order of any court in any
+jurisdiction currently in effect that would prohibit such parent from
+himself or herself exercising the same or similar authority, and
+provided further, that, in the case where a court has ordered that both
+parents must agree on education or health decisions regarding the child,
+a designation pursuant to this subdivision shall not be valid unless
+both parents have consented thereto. Such designation shall be in the
+form prescribed by section 5-1552 of this title, and may be presented to
+any school, health care provider or health plan that requires such
+designation by either the parent or the designee.
+```

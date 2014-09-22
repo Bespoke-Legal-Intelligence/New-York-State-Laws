@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 750-D", "kind": "section", "law_id": "GBS", "location_id": "750-D", "path": "ARTICLE 35-C › SECTION 750-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/750-D.md", "title": "Rules and regulations"} -->
+# General Business Law § 750-D — Rules and regulations
+
+[General Business Law](../README.md) › [Article 35-C — Operation of Pet Cemeteries and Pet Crematoriums](README.md)
+
+```text
+  § 750-d. Rules and regulations. 1. With respect to pet cemeteries and
+pet crematoriums, the department of state shall have power to adopt such
+rules and regulations not inconsistent with the provisions of this
+article, as may be necessary with respect to the form and content of
+applications for licenses, the reception thereof, the investigation of
+applicants and their qualifications, the operation of pet cemeteries and
+pet crematoriums whose licenses to operate such enterprises are
+suspended, revoked or not renewed, and the other matters incidental or
+appropriate to his powers and duties as prescribed by this article and
+for the proper administration and enforcement of the provisions of this
+article, and to amend or repeal any of such rules and regulations.
+  2. With respect to pet disposal for a fee, whether by earth burial,
+entombment, inurnment, cremation, or otherwise, by a veterinarian, pet
+cemetery or pet crematorium, the department of state shall have the
+power to adopt such rules and regulations not inconsistent with the
+provisions of this article, as may be necessary with respect to the form
+and content of pet disposal forms, registration of disposals by pet
+cemeteries or pet crematoriums, and the other matters incidental or
+appropriate to his powers and duties as prescribed by this article and
+for the proper administration and enforcement of the provisions of this
+article, and to amend or repeal any of such rules and regulations.
+```

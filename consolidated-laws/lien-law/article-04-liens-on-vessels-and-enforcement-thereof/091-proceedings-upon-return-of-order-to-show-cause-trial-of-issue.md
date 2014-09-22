@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 91", "kind": "section", "law_id": "LIE", "location_id": "91", "path": "ARTICLE 4 › SECTION 91", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/91.md", "title": "Proceedings upon return of order to show cause; trial of issue"} -->
+# Lien Law § 91 — Proceedings upon return of order to show cause; trial of issue
+
+[Lien Law](../README.md) › [Article 4 — Liens On Vessels and Enforcement Thereof](README.md)
+
+```text
+  § 91. Proceedings upon return of order to show cause; trial of issue.
+At the time and place mentioned in the order to show cause, the master
+or other person in charge of such vessel, the owner or consignee thereof
+or any other person interested therein, may apply and contest the claim
+of the lienor as contained in the application for a warrant, by filing
+with the justice an affidavit controverting any material allegation
+contained in the notice of lien or the application of the lienor. The
+issue so raised shall be tried as are other issues in a court of record,
+without a jury, before the justice granting the order at a time to be
+fixed by him, or they may be referred by him to a referee, to be heard
+and determined.
+```

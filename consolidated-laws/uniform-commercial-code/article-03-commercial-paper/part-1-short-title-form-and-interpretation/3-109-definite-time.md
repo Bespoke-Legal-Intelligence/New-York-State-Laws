@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 3-109", "kind": "section", "law_id": "UCC", "location_id": "3-109", "path": "ARTICLE 3 › PART 1 › SECTION 3-109", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/3-109.md", "title": "Definite Time"} -->
+# Uniform Commercial Code § 3-109 — Definite Time
+
+[Uniform Commercial Code](../../README.md) › [Article 3 — Commercial Paper](../README.md) › [Part 1 — Short Title, Form and Interpretation](README.md)
+
+```text
+Section 3--109. Definite Time.
+  (1) An instrument is payable at a definite time if by its terms it is
+payable
+       (a) on or before a stated date or at a fixed period after a
+           stated date; or
+       (b) at a fixed period after sight; or
+       (c) at a definite time subject to any acceleration; or
+       (d) at a definite time subject to extension at the option of the
+           holder, or to extension to a further definite time at the
+           option of the maker or acceptor or automatically upon or
+           after a specified act or event.
+  (2) An instrument which by its terms is otherwise payable only upon an
+act or event uncertain as to time of occurrence is not payable at a
+definite time even though the act or event has occurred.
+```

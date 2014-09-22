@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-0111", "kind": "section", "law_id": "ENV", "location_id": "15-0111", "path": "ARTICLE 15 › TITLE 1 › SECTION 15-0111", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-0111.md", "title": "Public Authorities Law and Administrative Code of the City of New York are not affected"} -->
+# Environmental Conservation Law § 15-0111 — Public Authorities Law and Administrative Code of the City of New York are not affected
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 1 — Short Title; Statement of Policy; Definitions; General Provisions](README.md)
+
+```text
+§ 15-0111. Public Authorities Law and Administrative Code of the City of
+             New York are not affected.
+  Nothing contained in this article shall be deemed or construed as
+amending, repealing, altering or otherwise modifying in whole or in part
+any provision of Title 1, Article 5 of the Public Authorities Law, as
+amended, with respect to Power Authority of the State of New York, or
+any provision of Title K of Chapter fifty-one and Title D of Chapter 15
+of the Administrative Code of the City of New York, as amended, with
+respect to the City of New York, and such acts shall remain in full
+force and effect, except that notwithstanding the provisions of this
+section and title 3 of article 1 of this chapter, section 15-0103 and
+title 8 of this article shall apply to the city of New York, its
+agencies and departments. Nothing in this article shall be deemed or
+construed as adding to, diminishing or otherwise modifying the rights,
+powers, duties and obligations granted to and imposed upon Power
+Authority of the State of New York and the City of New York, its or
+their agencies and departments by such statutes or any other statutes,
+except that notwithstanding the provisions of this section and title 3
+of article 1 of this chapter, section 15-0103 and of title 8 of this
+article shall apply to the city of New York, its agencies and
+departments.
+```

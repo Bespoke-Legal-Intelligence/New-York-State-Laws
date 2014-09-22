@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 13-0313", "kind": "section", "law_id": "ENV", "location_id": "13-0313", "path": "ARTICLE 13 › TITLE 3 › SECTION 13-0313", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/13-0313.md", "title": "Shellfish growers; definition; bed permit"} -->
+# Environmental Conservation Law § 13-0313 — Shellfish growers; definition; bed permit
+
+[Environmental Conservation Law](../../README.md) › [Article 13 — Marine and Coastal Resources](../README.md) › [Title 3 — Marine Fisheries](README.md)
+
+```text
+§ 13-0313. Shellfish growers; definition; bed permit.
+  1. Any person resident in this state one year or more may engage in
+the cultivation and marketing of shellfish subject to the provisions of
+sections 13-0307, 13-0309, 13-0311 and 13-0319 and shall be known as a
+grower.
+  2. A grower shall not take shellfish, for shipping or marketing from
+lands owned, leased or rented by him, except upon permit of the
+department which shall certify that such lands lie within certified
+areas. The department shall prescribe and furnish forms for application
+for such permits.
+  3. The fee for such permit shall be twenty-five cents for each acre
+from which shellfish are to be taken; provided, however, that the
+minimum fee shall be five dollars. Such certificates shall expire on
+December 31 of the year of issue.
+  4. If it appears in the public interest, the department may suspend or
+cancel any such permit.
+  5. Where lands for which such permit has been issued are found to be
+in part within an uncertified area, the department shall issue without
+fee, a new permit covering the remaining portion of such lands.
+  6. In case of assignment or transfer of rights or ownership of any
+private or leased lands under water, or parts thereof, a new permit
+shall be required.
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 2", "kind": "section", "law_id": "ABC", "location_id": "2", "path": "ARTICLE 1 › SECTION 2", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/2.md", "title": "Policy of state and purpose of chapter"} -->
+# Alcoholic Beverage Control Law § 2 — Policy of state and purpose of chapter
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 1 — Short Title; Policy of State and Purpose of Chapter: Definitions](README.md)
+
+```text
+  § 2. Policy of state and purpose of chapter.  It is hereby declared as
+the policy of the state that it is necessary to regulate and control the
+manufacture, sale and distribution within the state of alcoholic
+beverages for the purpose of fostering and promoting temperance in their
+consumption and respect for and obedience to law. It is hereby declared
+that such policy will best be carried out by empowering the liquor
+authority of the state to determine whether public convenience and
+advantage will be promoted by the issuance of licenses to traffic in
+alcoholic beverages, the increase or decrease in the number thereof and
+the location of premises licensed thereby, subject only to the right of
+judicial review hereinafter provided for. It is the purpose of this
+chapter to carry out that policy in the public interest. The
+restrictions, regulations and provisions contained in this chapter are
+enacted by the legislature for the protection, health, welfare and
+safety of the people of the state.
+```

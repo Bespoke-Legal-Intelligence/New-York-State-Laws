@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 528", "kind": "section", "law_id": "PML", "location_id": "528", "path": "ARTICLE 5-A › SECTION 528", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/528.md", "title": "Agreements involving other states"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 528 — Agreements involving other states
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 5-A — Off-track Pari-mutuel Betting](README.md)
+
+```text
+  § 528. Agreements involving other states. 1. The board shall be
+empowered to conclude agreements with another state or a racing
+corporation or association in another state, as the case may be, on
+behalf of any or all regional corporations for the purpose of conducting
+off-track betting on races run in another state, subject to the other
+provisions of this article.
+  2. No regional corporation shall conclude such an agreement without
+the express approval of the board which shall be withheld upon a finding
+that such agreement would be contrary to the purposes of this article or
+upon the board's determination to act directly, pursuant to this
+section.
+  3. Subdivisions one and two of this section shall apply in like manner
+to any agreements with another state or any agency, subdivision or
+entity thereof concerning off-track pari-mutuel betting conducted in
+another state on races run in this state. No franchised corporation, nor
+any racing corporation or association licensed by the board shall enter
+into such an agreement without the board's express approval.
+```

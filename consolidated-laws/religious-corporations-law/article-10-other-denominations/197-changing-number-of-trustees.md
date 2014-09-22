@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 197", "kind": "section", "law_id": "RCO", "location_id": "197", "path": "ARTICLE 10 › SECTION 197", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/197.md", "title": "Changing number of trustees"} -->
+# Religious Corporations Law § 197 — Changing number of trustees
+
+[Religious Corporations Law](../README.md) › [Article 10 — Other Denominations](README.md)
+
+```text
+  § 197. Changing number of trustees.  An incorporated church to which
+this article is applicable, may, at an annual corporate meeting, change
+the number of its trustees to three, six, nine, twelve, fifteen,
+eighteen, twenty-one or twenty-four, or classify them so that the terms
+of one-third expire each year. No such change shall affect the terms of
+the trustees then in office, and if the change reduces the number of
+trustees, it shall not take effect until the number of trustees whose
+terms of office continue for one or more years after an annual election
+is less than the number determined on. Whenever the number of trustees
+so holding over is less than the number so determined on, trustees shall
+be elected in addition to those so holding over, sufficient to make the
+number of trustees for the ensuing year equal to the number so
+determined on. The trustees so elected up to and including one-third of
+the number so determined on, shall be elected for three years, the
+remainder up to and including one-third of the number so determined on
+for two years, and the remainder for one year.
+```

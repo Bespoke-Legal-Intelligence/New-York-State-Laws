@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "County Law § 703-A", "kind": "section", "law_id": "CNT", "location_id": "703-A", "path": "ARTICLE 18 › SECTION 703-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/703-A.md", "title": "Employment of stenographer"} -->
+# County Law § 703-A — Employment of stenographer
+
+[County Law](../README.md) › [Article 18 — District Attorney](README.md)
+
+```text
+  § 703-a. Employment of stenographer. Whenever the district attorney of
+any county in the performance of his duties shall be required to
+prosecute a contested criminal proceeding before a magistrate of a town
+or village, unless pursuant to law a stenographer be regularly employed
+by such magistrate or in the court over which he presides, said district
+attorney may employ a stenographer to take the testimony on such trial.
+The board of supervisors of each county shall fix the rate of
+compensation to be paid to such stenographer for such services rendered;
+and in addition thereto such stenographer shall be entitled to and shall
+be allowed for a copy of testimony furnished to the district attorney
+the same rate per folio as is now allowed to the stenographers of the
+county court in their respective counties, and such stenographer shall
+receive the same compensation for all copies of the evidence in excess
+of three copies furnished by him to the district attorney. Such
+compensation shall be a county charge, and shall be audited and paid
+upon the affidavit of the stenographer and the certificate of the
+district attorney specifying the number of days of actual service and
+the number of folios furnished.
+```

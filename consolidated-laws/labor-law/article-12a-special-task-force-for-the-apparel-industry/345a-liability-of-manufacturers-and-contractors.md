@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 345-A", "kind": "section", "law_id": "LAB", "location_id": "345-A", "path": "ARTICLE 12-A › SECTION 345-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/345-A.md", "title": "Liability of manufacturers and contractors"} -->
+# Labor Law § 345-A — Liability of manufacturers and contractors
+
+[Labor Law](../README.md) › [Article 12-A — Special Task Force For the Apparel Industry](README.md)
+
+```text
+  § 345-a. Liability of manufacturers and contractors. 1. A manufacturer
+or contractor who contracts or subcontracts with another manufacturer or
+contractor for the performance of any apparel industry service within
+the meaning of subdivision (c) of section three hundred forty of this
+article and who knew or should have known with the exercise of
+reasonable care or diligence of such other manufacturer's or
+contractor's failure to comply with article six or nineteen of this
+chapter in the performance of such service shall be liable for such
+failure.
+  2. For the purposes of this section, the exercise of reasonable care
+or diligence by a manufacturer or contractor shall be presumed if, prior
+to the execution of such contract or subcontract, and annually
+thereafter, such manufacturer or contractor receives from the department
+written assurance of compliance with section three hundred forty-one of
+this article. The department may charge a reasonable fee for providing
+such assurance to a manufacturer or contractor.
+```

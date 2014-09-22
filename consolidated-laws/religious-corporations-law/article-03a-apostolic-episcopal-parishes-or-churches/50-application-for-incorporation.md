@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 50", "kind": "section", "law_id": "RCO", "location_id": "50", "path": "ARTICLE 3-A › SECTION 50", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/50.md", "title": "Application for incorporation"} -->
+# Religious Corporations Law § 50 — Application for incorporation
+
+[Religious Corporations Law](../README.md) › [Article 3-A — Apostolic Episcopal Parishes or Churches](README.md)
+
+```text
+  § 50. Application for incorporation. An unincorporated Apostolic
+Episcopal Church, or a congregation acknowledging the historic apostolic
+eastern confession and order in this state, may apply to the bishop who
+is the ecclesiastical administrator of Metropolitan Synod Apostolic
+Episcopal Church for permission and sanction to incorporate such church.
+When such permission aforesaid has been obtained in writing over the
+signature and seal of such bishop, such church may become an
+incorporated church by executing, acknowledging and filing a certificate
+of incorporation as hereinafter provided.
+  Any religious order, biblical seminary for the preparation of
+candidates for the ministry, leading to ordination and the granting of
+credentials of ecclesiastical degrees of orders in sacred theology, or
+religious society established for evangelical efforts or the relief of
+the poor and needy, which is intended to be an auxiliary organization of
+the Apostolic Episcopal Church, where a chapel for the conduct of
+worship is provided, shall be deemed a congregation to all intents and
+purposes, and may be incorporated in the manner prescribed in this
+article as a congregation of the Apostolic Episcopal Church.
+```

@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 189", "kind": "section", "law_id": "RRD", "location_id": "189", "path": "ARTICLE 5 › SECTION 189", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/189.md", "title": "Time extended for payment of percentage based on gross receipts"} -->
+# Railroad Law § 189 — Time extended for payment of percentage based on gross receipts
+
+[Railroad Law](../README.md) › [Article 5 — Street Surface Railroads](README.md)
+
+```text
+  § 189. Time extended for payment of percentage based on gross
+receipts.  Every corporation building or operating a street surface
+railroad, or a branch or extension thereof, under the provisions of this
+article, or chapter two hundred and fifty-two of the laws of eighteen
+hundred and eighty-four, which, at any time during the period of six
+years prior to January first, nineteen hundred and one, became liable to
+pay any percentage based upon the gross receipts of said corporation,
+under the provisions of section one hundred and seventy-five of this
+article, and which heretofore has paid or hereafter shall pay,
+separately or together, the amount of such percentage and, in addition
+thereto, interest thereon at the rate of seven per centum per annum,
+computed from the time such percentage became due by said section one
+hundred and seventy-five up to the time such percentage was or shall be
+paid, by virtue of such payment or payments, shall be discharged of
+liability with the same force and effect as if the amount of such
+percentage had been paid upon the date when it first became due under
+the provisions of the said section of this article.
+```

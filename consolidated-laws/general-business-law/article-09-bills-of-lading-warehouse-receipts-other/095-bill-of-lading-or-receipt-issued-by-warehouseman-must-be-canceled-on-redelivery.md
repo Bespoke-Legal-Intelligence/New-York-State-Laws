@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 95", "kind": "section", "law_id": "GBS", "location_id": "95", "path": "ARTICLE 9 › SECTION 95", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/95.md", "title": "Bill of lading or receipt issued by warehouseman must be canceled on redelivery of the property"} -->
+# General Business Law § 95 — Bill of lading or receipt issued by warehouseman must be canceled on redelivery of the property
+
+[General Business Law](../README.md) › [Article 9 — Bills of Lading, Warehouse Receipts, Other Receipts and Vouchers](README.md)
+
+```text
+  § 95. Bill of lading or receipt issued by warehouseman must be
+canceled on redelivery of the property. A person mentioned in section
+ninety, who delivers to another any merchandise for which a bill of
+lading, receipt or voucher has been issued, unless such bill of lading,
+receipt or voucher bears upon its face the words, "not negotiable,"
+plainly written or stamped, or unless such receipt is surrendered to be
+canceled at the time of such delivery or a bond, undertaking, letter of
+guarantee or indemnity is given in lieu thereof at the time of such
+delivery, or unless, in case of a partial delivery, a memorandum thereof
+is endorsed upon such bill of lading, receipt or voucher, is guilty of a
+misdemeanor.
+```

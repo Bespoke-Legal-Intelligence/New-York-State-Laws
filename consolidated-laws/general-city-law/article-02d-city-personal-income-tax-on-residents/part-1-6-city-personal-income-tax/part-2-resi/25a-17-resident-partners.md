@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "General City Law § 25-A-17", "kind": "section", "law_id": "GCT", "location_id": "25-A-17", "path": "ARTICLE 2-D › PART 1-6 › PART 2 › SECTION 17", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/25-A-17.md", "title": "Resident partners"} -->
+# General City Law § 25-A-17 — Resident partners
+
+[General City Law](../../../README.md) › [Article 2-D — City Personal Income Tax On Residents](../../README.md) › [Part 1-6 — City Personal Income Tax On Residents](../README.md) › [Part 2 — Residents](README.md)
+
+```text
+  § 17. Resident partners.--(a) Partner's modifications.--In determining
+city adjusted gross income and city taxable income of a resident
+partner, any modification described in subdivisions (b), (c) or (d) of
+section twelve, subdivision (c) of section fifteen or paragraphs two or
+three of subdivision (d) of such section, which relates to an item of
+partnership income, gain, loss or deduction shall be made in accordance
+with the partner's distributive share, for federal income tax purposes,
+of the item to which the modification relates.  Where a partner's
+distributive share of any such item is not required to be taken into
+account separately for federal income tax purposes, the partner's
+distributive share of such item shall be determined in accordance with
+his distributive share, for federal income tax purposes, of partnership
+taxable income or loss generally.
+  (b) Character of items.--Each item of partnership income, gain, loss,
+or deduction shall have the same character for a partner under this
+local law as for federal income tax purposes. Where an item is not
+characterized for federal income tax purposes, it shall have the same
+character for a partner as if realized directly from the source from
+which realized by the partnership or incurred in the same manner as
+incurred by the partnership.
+  (c) City tax avoidance or evasion.--Where a partner's distributive
+share of an item of partnership income, gain, loss or deduction is
+determined for federal income tax purposes by special provision in the
+partnership agreement with respect to such item, and where the principal
+purpose of such provision is the avoidance or evasion of tax under this
+local law, the partner's distributive share of such item, and any
+modification required with respect thereto, shall be determined as if
+the partnership agreement made no special provision with respect to such
+item.
+```

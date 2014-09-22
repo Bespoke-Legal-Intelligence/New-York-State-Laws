@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 9-B", "kind": "section", "law_id": "UDA", "location_id": "9-B", "path": "SECTION 9-B", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/9-B.md", "title": "For any positions opened as a result of assistance provided pursuant to section nine-a of this act, industrial firms so assisted shall fi..."} -->
+# Urban Development Corporation Act § 9-B — For any positions opened as a result of assistance provided pursuant to section nine-a of this act, industrial firms so assisted shall fi...
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 9-b. For any positions opened as a result of assistance provided
+pursuant to section nine-a of this act, industrial firms so assisted
+shall first consider persons eligible to participate in federal job
+training partnership act (P.L. 97-300) programs who shall be referred to
+the industrial firm by administrative entities of service delivery areas
+created pursuant to such act or by the job service division of the
+department of labor.
+```

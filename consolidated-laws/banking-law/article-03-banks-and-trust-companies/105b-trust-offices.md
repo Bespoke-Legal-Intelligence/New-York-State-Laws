@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 105-B", "kind": "section", "law_id": "BNK", "location_id": "105-B", "path": "ARTICLE 3 › SECTION 105-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/105-B.md", "title": "Trust offices"} -->
+# Banking Law § 105-B — Trust offices
+
+[Banking Law](../README.md) › [Article 3 — Banks and Trust Companies](README.md)
+
+```text
+  § 105-b. Trust offices. 1. A trust company may establish or acquire
+and maintain one or more trust offices anywhere in this state, or
+outside the state of New York, either in the United States or in foreign
+countries.
+  2. A trust company seeking to establish or acquire and maintain a
+trust office shall submit a written notice to the superintendent
+describing the proposed activities and such other information as the
+superintendent shall request. The notice shall be accompanied by an
+investigation fee as prescribed pursuant to section eighteen-a of this
+chapter.
+  3. The trust office may commence operation thirty days after the
+superintendent receives such notice, unless the superintendent notifies
+the trust company in writing within such time period that the office may
+not commence operation or that additional information or time is
+required for the superintendent to consider such notice.
+  4. The superintendent may deny approval of the trust office if the
+superintendent finds that the maintenance of such office would not be
+consistent with the goals set forth in the declaration of policy
+contained in section ten of this chapter.
+```

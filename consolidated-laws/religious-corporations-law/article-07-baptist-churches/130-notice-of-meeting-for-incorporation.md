@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 130", "kind": "section", "law_id": "RCO", "location_id": "130", "path": "ARTICLE 7 › SECTION 130", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/130.md", "title": "Notice of meeting for incorporation"} -->
+# Religious Corporations Law § 130 — Notice of meeting for incorporation
+
+[Religious Corporations Law](../README.md) › [Article 7 — Baptist Churches](README.md)
+
+```text
+  § 130. Notice of meeting for incorporation.  Notice of a meeting for
+the purpose of incorporating an unincorporated Baptist church shall be
+given as follows: The notice shall be in writing, and shall state, in
+substance, that a meeting of such unincorporated church will be held at
+its usual place of worship at a specified day and hour, for the purpose
+of incorporating such church, electing trustees thereof, and selecting a
+corporate name therefor. The notice must be signed by at least six
+persons of full age, who are then members in good and regular standing
+of such church by admission into full communion or membership therewith.
+A copy of such notice shall be publicly read at a regular meeting of
+such unincorporated church for public worship, on the two successive
+Sundays immediately preceding the meeting, by the minister of such
+church, or a deacon thereof or by any person qualified to sign such
+notice.
+```

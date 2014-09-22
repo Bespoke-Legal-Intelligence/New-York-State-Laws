@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 423", "kind": "section", "law_id": "EXC", "location_id": "423", "path": "ARTICLE 19-A › SECTION 423", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/423.md", "title": "Grants; raising and paying over of local funds"} -->
+# Executive Law § 423 — Grants; raising and paying over of local funds
+
+[Executive Law](../README.md) › [Article 19-A — Delinquency and Youth Crime Prevention](README.md)
+
+```text
+  § 423. Grants; raising and paying over of local funds. 1. The office,
+with the approval of the governor, may accept as agent of the state any
+gift or grant for any of the purposes of this article. Any moneys so
+received may be expended by the office to effectuate any of the purposes
+of this article, subject to the same limitations as to approval of
+project, approval of expenditures and audit as are prescribed for state
+moneys appropriated for the purposes of this article.
+  2. A board of education, board of trustees or trustee of a school
+district may raise, appropriate and pay over to a municipality in which
+it is in whole or in part located moneys to be expended by such
+municipality for any purpose authorized by this article. Such a
+municipality may accept and expend moneys so received only for such
+purpose. Moneys so appropriated and paid over by a school district shall
+not be included in computing the amount that should be apportioned to
+such school district pursuant to article seventy-three of the education
+law.
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 360-E", "kind": "section", "law_id": "GBS", "location_id": "360-E", "path": "ARTICLE 24 › SECTION 360-E", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/360-E.md", "title": "Duration and renewal"} -->
+# General Business Law § 360-E — Duration and renewal
+
+[General Business Law](../README.md) › [Article 24 — Trademarks](README.md)
+
+```text
+  § 360-e. Duration and renewal. A registration of mark hereunder shall
+be effective for a term of ten years from the date of registration and,
+upon application filed within six months prior to the expiration of such
+term, in a manner complying with the requirements of the secretary, the
+registration may be renewed for a like term from the end of the expiring
+term. A renewal fee, payable to the secretary, shall accompany the
+application for renewal of the registration. A registration may be
+renewed for successive periods of ten years in like manner. Any
+registration in force on the date on which this article shall become
+effective shall continue in full force and effect for the unexpired term
+thereof and may be renewed by filing an application for renewal with the
+secretary complying with the requirements of the secretary and paying
+the aforementioned renewal fee therefor within six months prior to the
+expiration of the registration.  All applications for renewal under this
+article, whether of registrations made under this article or of
+registrations effected under any prior law, shall include a verified
+statement that the mark has been and is still in use and include a
+specimen showing actual use of the mark on or in connection with the
+goods or services.
+```

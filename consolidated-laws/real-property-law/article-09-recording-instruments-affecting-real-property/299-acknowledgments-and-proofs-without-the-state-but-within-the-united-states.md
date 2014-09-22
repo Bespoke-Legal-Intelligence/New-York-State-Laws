@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 299", "kind": "section", "law_id": "RPP", "location_id": "299", "path": "ARTICLE 9 › SECTION 299", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/299.md", "title": "Acknowledgments and proofs without the state, but within the United States or any territory, possession, or dependency thereof"} -->
+# Real Property Law § 299 — Acknowledgments and proofs without the state, but within the United States or any territory, possession, or dependency thereof
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 299. Acknowledgments and proofs without the state, but within the
+United States or any territory, possession, or dependency thereof.  The
+acknowledgment or proof of a conveyance of real property situate in this
+state, if made (a) without the state but within the United States, (b)
+within any territory, possession, or dependency of the United States, or
+(c) within any place over which the United States, at the time when such
+acknowledgment or proof is taken, has or exercises jurisdiction,
+sovereignty, control, or a protectorate, may be made before any of the
+following officers acting within his territorial jurisdiction or within
+that of the court of which he is an officer: 1. A judge or other
+presiding officer of any court having a seal, or the clerk or other
+certifying officer thereof.
+  2. A mayor or other chief civil officer of any city or other political
+subdivision.
+  3. A notary public.
+  4. A commissioner of deeds appointed pursuant to the laws of this
+state to take acknowledgments or proofs without this state.
+  5. Any person authorized, by the laws of the state, District of
+Columbia, territory, possession, dependency, or other place where the
+acknowledgment or proof is made, to take the acknowledgment or proof of
+deeds to be recorded therein.
+```

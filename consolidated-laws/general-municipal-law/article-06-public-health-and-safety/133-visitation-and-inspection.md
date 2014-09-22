@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 133", "kind": "section", "law_id": "GMU", "location_id": "133", "path": "ARTICLE 6 › SECTION 133", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/133.md", "title": "Visitation and inspection"} -->
+# General Municipal Law § 133 — Visitation and inspection
+
+[General Municipal Law](../README.md) › [Article 6 — Public Health and Safety](README.md)
+
+```text
+  § 133. Visitation and inspection. Members of the board of managers
+shall be admitted to every part of the hospital and premises, and shall
+have access to all books, papers, accounts and records pertaining to the
+hospital and shall be furnished with copies, abstracts and reports
+whenever required by them. All hospitals established or maintained under
+the provisions of sections one hundred and twenty-six, one hundred and
+twenty-seven, one hundred and twenty-eight, one hundred and twenty-nine,
+one hundred and thirty, one hundred and thirty-one, one hundred and
+thirty-two, one hundred and thirty-three and one hundred and thirty-four
+of this act shall be subject to inspection by any duly authorized
+representative of the state board of charities, of the state department
+of health, of the state charities aid association, and of the governing
+board of the county, town, city or village by which the hospital is
+maintained; and the resident officer in charge shall admit such
+representatives into every part of the hospital and premises, and give
+them access on demand to all records, reports, books, papers and
+accounts pertaining to the hospital.
+```

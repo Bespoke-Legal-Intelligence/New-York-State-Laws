@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 452", "kind": "section", "law_id": "AGM", "location_id": "452", "path": "ARTICLE 27 › SECTION 452", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/452.md", "title": "Pending actions or proceedings"} -->
+# Agriculture and Markets Law § 452 — Pending actions or proceedings
+
+[Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+```text
+  § 452. Pending actions or proceedings.  This chapter shall not affect
+pending actions or proceedings brought by or against the department of
+agriculture and markets or the department of farms and markets, the
+commissioner of agriculture and markets or the commissioner of farms and
+markets, the department of agriculture, the commissioner of agriculture,
+the department of foods and markets, the commissioner of foods and
+markets, the state superintendent of weights and measures, the state
+commissioner of health, or any other officer, person or corporation, or
+by or in behalf of the people of the state, under or in pursuance of any
+of the provisions of the laws which are to be enforced or carried into
+effect under the provisions of this chapter by the department, but the
+same may be prosecuted or defended in the same manner and for the same
+purpose by the department, or by the proper officer or party, under the
+provisions of this chapter. Any investigation, examination or proceeding
+undertaken, commenced or instituted by the department of agriculture and
+markets or the department of farms and markets, the commissioner of
+agriculture and markets or the commissioner of farms and markets, the
+department of agriculture, the commissioner of agriculture, the
+department of foods and markets, the commissioner of foods and markets,
+the state superintendent of weights and measures, the state commissioner
+of health, or any other officer, under the provisions of the laws which
+are to be enforced or carried into effect as provided in this chapter by
+the department, may be conducted or continued to a final determination
+by the department, commissioner, or other proper officer of such
+department, in the same manner and under the same terms and conditions
+as though this chapter had not been passed.
+```

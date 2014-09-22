@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Village Law § 23-2200", "kind": "section", "law_id": "VIL", "location_id": "23-2200", "path": "ARTICLE 23 › SECTION 23-2200", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/23-2200.md", "title": "Savings clause"} -->
+# Village Law § 23-2200 — Savings clause
+
+[Village Law](../README.md) › [Article 23 — Construction; Laws Repealed; Effective Date](README.md)
+
+```text
+  § 23-2200 Savings clause. The repeal of the village law, chapter
+sixty-four of the laws of nineteen hundred nine and amendments thereto,
+shall not affect or impair the validity or operation of any local law,
+ordinance or resolution adopted pursuant to such law. For the purposes
+of actions or proceedings which may or have been taken or rights which
+may or have been granted or obtained thereunder, such law and such local
+laws, ordinances or resolutions shall continue in force and effect as
+fully and to the same extent as if such law had not been so repealed.
+```

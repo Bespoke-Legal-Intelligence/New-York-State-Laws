@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Uniform District Court Act § 2412", "kind": "section", "law_id": "UDC", "location_id": "2412", "path": "ARTICLE 23 › SECTION 2412", "repealed": false, "repealed_date": null, "source": "nys-laws:UDC/2412.md", "title": "Expenses of court, how paid"} -->
+# Uniform District Court Act § 2412 — Expenses of court, how paid
+
+[Uniform District Court Act](../README.md) › [Article 23 — Application](README.md)
+
+```text
+  * § 2412. Expenses of court, how paid. It shall be the duty of the
+county to supply and pay for whatever may be necessary for the
+transaction of the business of said court and the judges thereof, and to
+supply all proper accommodations, books, stationery and furniture and to
+pay all authorized salaries, compensations and expenses and
+disbursements; and the proper authorities shall annually include in the
+budget such sums as may be necessary to pay the same.
+  * NB There are 2 § 2412's
+```

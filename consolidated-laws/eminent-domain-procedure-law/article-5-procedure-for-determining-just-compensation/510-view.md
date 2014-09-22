@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Eminent Domain Procedure Law § 510", "kind": "section", "law_id": "EDP", "location_id": "510", "path": "ARTICLE 5 › SECTION 510", "repealed": false, "repealed_date": null, "source": "nys-laws:EDP/510.md", "title": "View"} -->
+# Eminent Domain Procedure Law § 510 — View
+
+[Eminent Domain Procedure Law](../README.md) › [Article 5 — Procedure For Determining Just Compensation](README.md)
+
+```text
+  § 510. View. (A) The trial court shall view the property in all
+claims, unless waived by stipulation of the parties. The parties to the
+suit or claim, may attend the viewing by the court at a time scheduled
+by the court.
+  (B) When the property or improvements acquired are to be removed,
+razed or obliterated prior to trial, any party may make a request to the
+presiding judge of the court of claims or an administrative justice of
+the supreme court of the judicial department in which the property is
+located, that a trial judge or justice be assigned to view the subject
+premises prior to removal or demolition.  When practicable the judge or
+justice viewing property shall be assigned to the trial.
+```

@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "New York City Health and Hospitals Corporation Act § 18", "kind": "section", "law_id": "HHC", "location_id": "18", "path": "SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:HHC/18.md", "title": "Assistance to the corporation"} -->
+# New York City Health and Hospitals Corporation Act § 18 — Assistance to the corporation
+
+[New York City Health and Hospitals Corporation Act](README.md)
+
+```text
+  § 18. Assistance to the corporation. The state or city shall be
+empowered to make grants of money or property to the corporation for the
+purpose of enabling it to carry out its corporate purposes and for the
+exercise of its powers, including, but not limited to, deposits to the
+capital reserve fund to assist the corporation in maintaining the said
+capital reserve fund in the amounts required by section thirteen.
+Nothing in this section shall be interpreted as implying that in the
+absence thereof the state or city would not be empowered to make such
+grants to the corporation.
+```

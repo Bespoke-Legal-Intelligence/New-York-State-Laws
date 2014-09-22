@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 376", "kind": "section", "law_id": "RPP", "location_id": "376", "path": "ARTICLE 12 › SECTION 376", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/376.md", "title": "Disposition of fees received by registrar"} -->
+# Real Property Law § 376 — Disposition of fees received by registrar
+
+[Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
+
+```text
+  § 376. Disposition of fees received by registrar. All fees received by
+the registrar, for the performance of the duties devolving upon him and
+upon the official examiners of title pursuant to this article, shall be
+disposed of in the same manner as are fees paid to county clerks and
+registers, except as otherwise provided for in this article. It shall be
+the duty of the local authorities who provide for county expenses, to
+provide such accommodations, help, safes, books, papers, and for such
+other expenses as may properly be required by the registrar in the
+conduct of his office.
+```

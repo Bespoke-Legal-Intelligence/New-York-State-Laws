@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 37-0203", "kind": "section", "law_id": "ENV", "location_id": "37-0203", "path": "ARTICLE 37 › TITLE 2 › SECTION 37-0203", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/37-0203.md", "title": "Definitions"} -->
+# Environmental Conservation Law § 37-0203 — Definitions
+
+[Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 2 — Hazardous Packaging](README.md)
+
+```text
+§ 37-0203. Definitions.
+  For the purposes of this title, the term:
+  1. "Distributor" shall mean any person, firm, association, partnership
+or corporation, who or which imports or causes to be imported into the
+state, any container, whether filled or unfilled, used to package
+products.
+  2. "Manufacturer" shall mean a person, firm, association, partnership
+or corporation, who or which makes containers to be used to package
+products.
+  3. "Package" means a container providing a means of marketing,
+protecting or handling a product and shall include a unit package, an
+intermediate package and a shipping container. "Package" shall also mean
+and include, but not be limited to, such unsealed receptacles as
+carrying cases, crates, cups, pails, rigid foil and other trays,
+wrappers and wrapping films, bags and tubs.
+  4. "Packaging component" means any individual assembled part of a
+package such as, but not limited to, any interior or exterior blocking,
+bracing, cushioning, weatherproofing, exterior strapping, coatings,
+closures, inks and labels.
+```

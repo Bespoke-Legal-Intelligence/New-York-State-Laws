@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 612", "kind": "section", "law_id": "NPC", "location_id": "612", "path": "ARTICLE 6 › SECTION 612", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/612.md", "title": "Limitations on right to vote"} -->
+# Not-for-Profit Corporation Law § 612 — Limitations on right to vote
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 6 — Members](README.md)
+
+```text
+§ 612. Limitations on right to vote.
+  The certificate of incorporation or the by-laws may provide, either
+absolutely or contingently, that the members of any class shall not be
+entitled to vote, or it may limit or define the matters on, and the
+circumstances in, which a member or a class of members shall be entitled
+to vote, and, except as otherwise provided in this chapter, such
+provisions of the certificate of incorporation or the by-laws shall
+prevail, according to their tenor, in all elections and in all
+proceedings, over the provisions of this chapter which authorize any
+action by the members, but no such denial, limitation or definition of
+voting rights shall be effective unless at the time one or more classes
+of members, singly or in the aggregate, are entitled to full voting
+rights.
+```

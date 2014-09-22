@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 625", "kind": "section", "law_id": "BSC", "location_id": "625", "path": "ARTICLE 6 › SECTION 625", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/625.md", "title": "Infant shareholders and bondholders"} -->
+# Business Corporation Law § 625 — Infant shareholders and bondholders
+
+[Business Corporation Law](../README.md) › [Article 6 — Shareholders](README.md)
+
+```text
+§ 625. Infant shareholders and bondholders.
+  (a) A corporation may treat an infant who holds shares or bonds of
+such corporation as having capacity to receive and to empower others to
+receive dividends, interest, principal and other payments and
+distributions, to vote or express consent or dissent, in person or by
+proxy, and to make elections and exercise rights relating to such shares
+or bonds, unless, in the case of shares, the corporate officer
+responsible for maintaining the list of shareholders or the transfer
+agent of the corporation or, in the case of bonds, the treasurer or
+paying officer or agent has received written notice that such holder is
+an infant.
+  (b) An infant holder of shares or bonds of a corporation who has
+received or empowered others to receive payments or distributions, voted
+or expressed consent or dissent, or made an election or exercised a
+right relating thereto, shall have no right thereafter to disaffirm or
+avoid, as against the corporation, any such act on his part, unless
+prior to such receipt, vote, consent, dissent, election or exercise, as
+to shares, the corporate officer responsible for maintaining the list of
+shareholders or its transfer agent or, in the case of bonds, the
+treasurer or paying officer had received written notice that such holder
+was an infant.
+  (c) This section does not limit any other statute which authorizes any
+corporation to deal with an infant or limits the right of an infant to
+disaffirm his acts.
+```

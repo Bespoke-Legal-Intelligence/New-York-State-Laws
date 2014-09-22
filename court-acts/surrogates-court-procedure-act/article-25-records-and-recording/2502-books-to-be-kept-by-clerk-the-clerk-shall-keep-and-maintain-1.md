@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2502", "kind": "section", "law_id": "SCP", "location_id": "2502", "path": "ARTICLE 25 › SECTION 2502", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2502.md", "title": "Books to be kept by clerk The clerk shall keep and maintain: 1"} -->
+# Surrogate's Court Procedure Act § 2502 — Books to be kept by clerk The clerk shall keep and maintain: 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 25 — Records and Recording](README.md)
+
+```text
+§ 2502. Books to be kept by clerk
+  The clerk shall keep and maintain:
+  1. A record book properly indexed in which shall be entered a
+description of every proceeding with proper entries under each denoting
+the papers filed, orders and decrees made and the steps taken therein,
+with the dates of filing and recording the several papers in the
+proceeding.
+  2. Such other record books, properly indexed, as may be necessary or
+convenient to record at length any documents required by law to be
+recorded.
+  3. A court and trust fund register in which shall be entered a
+reference to any proceeding in which a decree or order directs a deposit
+of money, the date thereof, the amount thereof, the amount so deposited,
+any receipt therefor and the name of the person to and for whom the
+deposit is made.
+  4. A record book, properly indexed, with proper entries denoting the
+name and file number of the estate and the date of filing any informal
+account or any release pursuant to 2202.
+  5. Such other books as the chief administrator of the courts in each
+department or the court in each county may direct to be kept.
+```

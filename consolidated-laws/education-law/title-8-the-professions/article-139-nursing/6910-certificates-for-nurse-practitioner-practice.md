@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6910", "kind": "section", "law_id": "EDN", "location_id": "6910", "path": "TITLE 8 › ARTICLE 139 › SECTION 6910", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6910.md", "title": "Certificates for nurse practitioner practice"} -->
+# Education Law § 6910 — Certificates for nurse practitioner practice
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 139 — Nursing](README.md)
+
+```text
+  § 6910. Certificates for nurse practitioner practice.  1. For issuance
+of a certificate to practice as a nurse practitioner under subdivision
+three of section six thousand nine hundred two of this article, the
+applicant shall fulfill the following requirements:
+  (a) Application: file an application with the department;
+  (b) License: be licensed as a registered professional nurse in the
+state;
+  (c) Education: (i) have satisfactorily completed educational
+preparation for provision of these services in a program registered by
+the department or in a program determined by the department to be the
+equivalent; or
+  (ii) submit evidence of current certification by a national certifying
+body, recognized by the department; or
+  (iii) meet such alternative criteria as established by the
+commissioner's regulations;
+  (d) Fees: pay a fee to the department of fifty dollars for each
+initial certificate authorizing nurse practitioner practice in a
+specialty area and a triennial registration fee of thirty dollars.
+Registration under this section shall be coterminous with the nurse
+practitioner's registration as a professional nurse.
+  2. Only a person certified under this section shall use the title
+"nurse practitioner".
+  3. The provisions of this section shall not apply to any act or
+practice authorized by any other law, rule, regulation or certification.
+  4. The provisions of this section shall not apply to any activity
+authorized, pursuant to statute, rule or regulation, to be performed by
+a registered professional nurse in a hospital as defined in article
+twenty-eight of the public health law.
+  5. The commissioner is authorized to promulgate regulations to
+implement the provisions of this section.
+```

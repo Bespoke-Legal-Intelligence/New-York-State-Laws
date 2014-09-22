@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 133", "kind": "section", "law_id": "RCO", "location_id": "133", "path": "ARTICLE 7 › SECTION 133", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/133.md", "title": "Time, place and notice of corporate meetings"} -->
+# Religious Corporations Law § 133 — Time, place and notice of corporate meetings
+
+[Religious Corporations Law](../README.md) › [Article 7 — Baptist Churches](README.md)
+
+```text
+  § 133. Time, place and notice of corporate meetings.  The annual
+corporate meeting of every incorporated Baptist church shall be held at
+the time and place fixed by or in pursuance of law therefor, if such
+time and place be so fixed, and otherwise, at a time and place to be
+fixed by its trustees. A special corporate meeting of any such church
+may be called by the board of trustees thereof, on its own motion, and
+shall be called on the written request of at least ten qualified voters
+of such church. The trustees shall cause notice of the time and place of
+its annual corporate meeting, and of the names of any trustees whose
+successors are to be elected thereat; and, if a special meeting, of the
+business to be transacted thereat, to be publicly read by the minister
+of such church or any trustee thereof at a regular meeting of the church
+for public worship, on the two successive Sundays immediately preceding
+such meeting; or if no such meeting for public worship shall have been
+held during such period, by conspicuously posting such notice, in
+writing, upon the outer entrance of the principal place of worship of
+such church and by mailing a copy of such notice to each member of such
+church in a securely sealed envelope, postage prepaid, addressed to his
+last known place of residence, at least two weeks before such meeting.
+```

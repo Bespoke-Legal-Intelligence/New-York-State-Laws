@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1704", "kind": "section", "law_id": "GOB", "location_id": "5-1704", "path": "ARTICLE 5 › TITLE 17 › SECTION 5-1704", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1704.md", "title": "Provisions prohibited in transfer agreement"} -->
+# General Obligations Law § 5-1704 — Provisions prohibited in transfer agreement
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 17 — Structured Settlement Protection Act](README.md)
+
+```text
+  § 5-1704. Provisions prohibited in transfer agreement. No transfer
+agreement or other document or agreement executed in association with
+the transfer shall contain any provision described in this section. To
+the extent that a prohibited provision is included in a transfer
+agreement such provision shall be void and unenforceable. A prohibited
+provision is:
+  (a) any provision that waives the payee's right to sue under any law,
+or where the payee agrees not to sue, or which waives jurisdiction or
+standing to sue under the transfer agreement;
+  (b) any provision that requires the payee to indemnify and hold
+harmless the transferee, or to pay the transferee's costs of defense, in
+any claim or action brought by the payee on or the payee's behalf
+contesting the transfer for any reason;
+  (c) any provision that requires the payee to pay the transferee's
+attorney's fees or costs if the transfer contemplated by the transfer
+agreement is not completed; and
+  (d) any provision that requires the payee to pay any tax liability
+arising under federal tax laws, other than the seller's own tax
+liability, if any, that results from the transfer.
+```

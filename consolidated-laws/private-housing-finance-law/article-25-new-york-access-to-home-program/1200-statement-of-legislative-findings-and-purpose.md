@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1200", "kind": "section", "law_id": "PVH", "location_id": "1200", "path": "ARTICLE 25 › SECTION 1200", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1200.md", "title": "Statement of legislative findings and purpose"} -->
+# Private Housing Finance Law § 1200 — Statement of legislative findings and purpose
+
+[Private Housing Finance Law](../README.md) › [Article 25 — New York Access to Home Program](README.md)
+
+```text
+  § 1200. Statement of legislative findings and purpose. The legislature
+hereby finds and declares that there exists in New York state a serious
+need for financial and technical resources to assist renters and
+property owners to make dwelling units accessible for low and moderate
+income persons with disabilities. Providing assistance with the cost of
+adapting homes will enable many New Yorkers with disabilities to safely
+and comfortably continue to, or return to, live in their residences
+instead of residing in an institutional setting.
+```

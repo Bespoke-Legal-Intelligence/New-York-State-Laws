@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 402", "kind": "section", "law_id": "BNK", "location_id": "402", "path": "ARTICLE 10 › SECTION 402", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/402.md", "title": "Amendment of articles of association and by-laws"} -->
+# Banking Law § 402 — Amendment of articles of association and by-laws
+
+[Banking Law](../README.md) › [Article 10 — Savings and Loan Associations](README.md)
+
+```text
+§ 402. Amendment of articles of association and by-laws. Any proposed
+change in the articles of association, certificate of association,
+organization certificate or the by-laws of any savings and loan
+association shall be submitted to the superintendent and, upon the
+superintendent's written approval thereof, shall be posted in a
+conspicuous place in the office of the association for thirty days. Such
+proposed changes may thereafter be incorporated in the articles of
+association, certificate of association, organization certificate or the
+by-laws of the association by being duly adopted by its directors. A
+copy of such change shall be filed in the office of the superintendent
+within thirty days after such adoption.
+```

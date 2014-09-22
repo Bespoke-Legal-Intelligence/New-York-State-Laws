@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3018", "kind": "section", "law_id": "EDN", "location_id": "3018", "path": "TITLE 4 › ARTICLE 61 › SECTION 3018", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3018.md", "title": "Revocation of certificate by district superintendent"} -->
+# Education Law § 3018 — Revocation of certificate by district superintendent
+
+[Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
+
+```text
+  § 3018. Revocation of certificate by district superintendent.  A
+district superintendent shall examine any charge affecting the moral
+character of any teacher within his district, first giving such teacher
+reasonable notice of the charge, and an opportunity to defend himself
+therefrom; and if he find the charge sustained, he shall annul the
+teacher's certificate, by whomsoever granted, and declare him unfit to
+teach; and if the teacher holds a certificate of the commissioner of
+education or of a former superintendent of public instruction or a
+diploma of a state college for teachers or state teachers college, he
+shall notify the commissioner of education forthwith of such annulment
+and declaration.
+```

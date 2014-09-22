@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 877", "kind": "section", "law_id": "COR", "location_id": "877", "path": "ARTICLE 27 › SECTION 877", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/877.md", "title": "Prisoner not an agent of county"} -->
+# Correction Law § 877 — Prisoner not an agent of county
+
+[Correction Law](../README.md) › [Article 27 — Work Release Program For County Jails](README.md)
+
+```text
+  § 877. Prisoner not an agent of county.  No prisoner participating in
+a work release program shall be deemed an agent, employee or involuntary
+servant of the county while released from the jail of confinement
+pursuant to the terms of any work release plan; provided, however, that
+when a prisoner is employed by the state or a local municipality, his
+relationship to the state or local municipality arising out of such
+employment shall be determined in the same manner as if he were a free
+person so employed.
+```

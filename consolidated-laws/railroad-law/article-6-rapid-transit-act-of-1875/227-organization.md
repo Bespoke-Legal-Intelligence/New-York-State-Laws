@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 227", "kind": "section", "law_id": "RRD", "location_id": "227", "path": "ARTICLE 6 › SECTION 227", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/227.md", "title": "Organization"} -->
+# Railroad Law § 227 — Organization
+
+[Railroad Law](../README.md) › [Article 6 — Rapid Transit Act of 1875](README.md)
+
+```text
+  § 227. Organization. Whenever the whole capital stock of such
+corporation or an amount of such capital stock proportioned to the part
+of such railroad directed by the commissioners to be constructed, shall
+have been subscribed by not less than fifteen persons, and the fixed
+percentage of such subscriptions shall have been paid, in cash, the
+commissioners shall, by written or printed notice of ten days, served
+personally or by mail, call a meeting of such subscribers for
+organization, and appoint the inspectors of election to serve thereat.
+At such meeting, or at any subsequent one to which the same may be
+adjourned, a majority in number and amount of such subscribers may elect
+persons, of a number to be theretofore determined by the commissioners
+not less than nine, who shall be directors for one year of the
+corporation formed for the purposes of constructing and operating such
+railroad.
+```

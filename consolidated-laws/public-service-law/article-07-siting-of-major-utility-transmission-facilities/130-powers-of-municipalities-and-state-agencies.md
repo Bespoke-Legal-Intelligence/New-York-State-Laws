@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 130", "kind": "section", "law_id": "PBS", "location_id": "130", "path": "ARTICLE 7 › SECTION 130", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/130.md", "title": "Powers of municipalities and state agencies"} -->
+# Public Service Law § 130 — Powers of municipalities and state agencies
+
+[Public Service Law](../README.md) › [Article 7 — Siting of Major Utility Transmission Facilities](README.md)
+
+```text
+  § 130. Powers of municipalities and state agencies. Notwithstanding
+any other provision of law, no state agency, municipality or any agency
+thereof may require any approval, consent, permit, certificate or other
+condition for the construction or operation of a major facility with
+respect to which an application for a certificate hereunder has been
+issued, other than those provided by otherwise applicable state law for
+the protection of employees engaged in the construction and operation of
+such facility, and provided that in the case of a municipality or an
+agency thereof, such municipality has received notice of the filing of
+the application therefor.
+  Neither the Tug Hill commission nor the Adirondack park agency shall
+hold public hearings for a major utility transmission facility with
+respect to which an application hereunder has been filed, provided that
+such commission or agency has received notice of the filing of such
+application.
+```

@@ -1,0 +1,53 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 171-R", "kind": "section", "law_id": "TAX", "location_id": "171-R", "path": "ARTICLE 8 › SECTION 171-R", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/171-R.md", "title": "Brownfield credit report"} -->
+# Tax Law § 171-R — Brownfield credit report
+
+[Tax Law](../README.md) › [Article 8 — Department of Taxation and Finance; Commissioner of Taxation and Finance](README.md)
+
+```text
+  § 171-r. Brownfield credit report. (a) The commissioner, in
+consultation with the commissioner of environmental conservation, must
+publish a brownfield credit report annually by January thirty-first. The
+first report must be published by January thirty-first, two thousand
+nine.
+  (b) The brownfield credit report must contain the following
+information about the credits claimed under sections twenty-one,
+twenty-two and twenty-three of this chapter during the previous calendar
+year:
+  (1) the name of each taxpayer claiming a credit; provided however, if
+the taxpayer claims a credit because the taxpayer is a member of a
+limited liability company, a partner in a partnership or a shareholder
+in a subchapter S corporation, the name of each limited liability
+company, partnership or subchapter S corporation earning any of those
+credits must be included in the report instead of information about the
+taxpayer claiming the credit;
+  (2) the amount of each credit earned by each taxpayer; provided
+however, if the taxpayer claims a credit because the taxpayer is a
+member of a limited liability company, a partner in a partnership or a
+shareholder in a subchapter S corporation, the amount of credit earned
+by each entity must be included in the report instead of information
+about the taxpayer claiming the credit;
+  (3) information identifying the project for which a certificate of
+completion was issued and the credit claimed under section twenty-one,
+twenty-two or twenty-three of this chapter, including the name of the
+project and municipality, including the county, in which the project is
+located; and
+  (4) the number of credits by each credit type and the amount of such
+credits granted, claimed and earned on a brownfield site, statewide and
+department of environmental conservation region basis; and of those, the
+number of credits and the average amount of such credits allowed to
+taxpayers in each county, brownfield opportunity area designated
+pursuant to section nine hundred seventy-r of the general municipal law
+and in each environmental zone as defined in subdivision (b) of section
+twenty-one of this chapter.
+  (5) copies of all reports received from developers pursuant to section
+one hundred seventy-one-s of this article or, in the commissioner's
+discretion, a summary of the contents of such reports.
+  (c) The information included in the brownfield credit report will be
+based on the information filed with the department during the previous
+calendar year, to the extent that it is practicable to use that
+information.
+  (d) Such report shall also contain any other information received from
+the commissioner of environmental conservation with regard to such
+credits, and any other statistical information that such commissioner
+deems to be useful in analyzing the effects of the program.
+```

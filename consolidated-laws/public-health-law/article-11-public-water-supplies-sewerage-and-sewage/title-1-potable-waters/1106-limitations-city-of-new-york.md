@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1106", "kind": "section", "law_id": "PBH", "location_id": "1106", "path": "ARTICLE 11 › TITLE 1 › SECTION 1106", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1106.md", "title": "Limitations; city of New York"} -->
+# Public Health Law § 1106 — Limitations; city of New York
+
+[Public Health Law](../../README.md) › [Article 11 — Public Water Supplies; Sewerage and Sewage Control](../README.md) › [Title 1 — Potable Waters](README.md)
+
+```text
+  § 1106. Limitations; city of New York.  Nothing contained in this
+chapter shall extend the sanitary control of the board of water supply
+of the city of New York, beyond the sources of potable water supply,
+tributary to the Catskill and Delaware aqueducts; and the powers granted
+by this chapter to the board of water supply of the city of New York
+shall cease at the time of the transference of the jurisdiction over the
+source of water supply, by the board of water supply to the commissioner
+of environmental protection of the city of New York; and at no time
+shall the commissioner of environmental protection of the city of New
+York and the board of water supply of said city have or exercise
+concurrent powers or sanitary control over any source of potable water
+supply tributary to the Catskill or Delaware aqueduct.
+```

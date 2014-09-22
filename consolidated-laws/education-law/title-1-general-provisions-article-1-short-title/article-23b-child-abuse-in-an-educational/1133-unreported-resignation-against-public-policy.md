@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1133", "kind": "section", "law_id": "EDN", "location_id": "1133", "path": "TITLE 1 › ARTICLE 23-B › SECTION 1133", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1133.md", "title": "Unreported resignation against public policy"} -->
+# Education Law § 1133 — Unreported resignation against public policy
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 23-B — Child Abuse In an Educational Setting](README.md)
+
+```text
+  § 1133. Unreported resignation against public policy. 1. A school
+administrator or superintendent shall not make any agreement to withhold
+from law enforcement authorities, the superintendent or the
+commissioner, where appropriate, the fact that an allegation of child
+abuse in an educational setting on the part of any employee or volunteer
+as required by this article in return for the resignation or voluntary
+suspension from his or her position of such person, against whom the
+allegation is made.
+  2. Each violation of subdivision one of this section shall constitute
+a class E felony, and shall also be punishable by a civil penalty not to
+exceed twenty thousand dollars.
+  3. Any superintendent of schools who reasonably and in good faith
+reports to law enforcement officials information regarding allegations
+of child abuse or a resignation as required by this article shall have
+immunity from any liability, civil or criminal, which might otherwise
+result by reason of such actions.
+```

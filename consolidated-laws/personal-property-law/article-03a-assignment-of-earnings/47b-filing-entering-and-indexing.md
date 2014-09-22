@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Personal Property Law § 47-B", "kind": "section", "law_id": "PEP", "location_id": "47-B", "path": "ARTICLE 3-A › SECTION 47-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PEP/47-B.md", "title": "Filing, entering and indexing"} -->
+# Personal Property Law § 47-B — Filing, entering and indexing
+
+[Personal Property Law](../README.md) › [Article 3-A — Assignment of Earnings](README.md)
+
+```text
+  § 47-b. Filing, entering and indexing. 1. The filing officer shall
+mark upon the assignment or true copy thereof filed with him the date of
+its filing and shall file such assignment or true copy thereof in his
+office for public inspection. He shall keep a separate book in which he
+shall enter the names of the assignor and assignee, the date of its
+filing, its filing number and the date of cancellation thereof, or of
+its vacation by order of the court. Such book shall be indexed
+alphabetically under the names and changed names, if any, of both
+assignor and assignee.
+  2. A county clerk may adopt a new indexing system utilizing
+electro-mechanical, electronic or any other method he deems suitable for
+maintaining the indexes.
+```

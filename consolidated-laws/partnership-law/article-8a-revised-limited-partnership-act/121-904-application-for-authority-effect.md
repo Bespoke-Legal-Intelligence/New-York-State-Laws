@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-904", "kind": "section", "law_id": "PTR", "location_id": "121-904", "path": "ARTICLE 8-A › SECTION 121-904", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-904.md", "title": "Application for authority; effect"} -->
+# Partnership Law § 121-904 — Application for authority; effect
+
+[Partnership Law](../README.md) › [Article 8-A — Revised Limited Partnership Act](README.md)
+
+```text
+  § 121-904. Application for authority; effect. (a) Upon filing by the
+department of state of the application for authority the foreign limited
+partnership shall be authorized to do business in this state. Such
+authority shall continue so long as it retains its authority to do
+business in the jurisdiction of its formation and its authority to do
+business has not been surrendered, suspended or annulled in accordance
+with the law.
+  (b) A foreign limited partnership which has received a certificate of
+authority shall have such powers to conduct business in this state as
+are permitted by the laws of the jurisdiction in which it was organized
+but no greater than those of a domestic limited partnership; provided,
+that this subdivision shall not affect the powers of the foreign limited
+partnership outside this state.
+```

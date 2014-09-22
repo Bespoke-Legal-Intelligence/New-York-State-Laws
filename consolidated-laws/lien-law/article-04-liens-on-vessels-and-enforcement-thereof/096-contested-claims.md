@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 96", "kind": "section", "law_id": "LIE", "location_id": "96", "path": "ARTICLE 4 › SECTION 96", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/96.md", "title": "Contested claims"} -->
+# Lien Law § 96 — Contested claims
+
+[Lien Law](../README.md) › [Article 4 — Liens On Vessels and Enforcement Thereof](README.md)
+
+```text
+  § 96. Contested claims. The master, owner, agent or consignee of the
+vessel, or any person having an interest in the proceeds before final
+distribution thereof, may contest any claim made against the vessel or
+its proceeds, by filing with such justice a written answer, verified as
+a pleading in a court of record, designating the claims contested and
+controverting any material allegation of the notice of lien, application
+for a warrant or statement of lien, and setting up any other matter in
+defense thereto. A copy of such answer shall be served within five days
+from such filing, upon the person whose claim is contested, or his
+attorney.
+  If the answer does not contain any matter of defense to the claim, it
+may be stricken out on motion of any person who has filed a notice of
+lien against the vessel.
+```

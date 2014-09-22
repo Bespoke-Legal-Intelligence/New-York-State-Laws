@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 399-F", "kind": "section", "law_id": "VAT", "location_id": "399-F", "path": "TITLE 3 › ARTICLE 12-B › SECTION 399-F", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/399-F.md", "title": "Proof of effectiveness"} -->
+# Vehicle and Traffic Law § 399-F — Proof of effectiveness
+
+[Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 12-B — Approval of Motor Vehicle Accident Prevention Courses](README.md)
+
+```text
+  § 399-f. Proof of effectiveness. Proof of effectiveness shall be
+verifiable research documentation submitted by the applicant for
+sponsorship showing evidence of effectiveness comparable to that of the
+national safety council's defensive driving course as determined by the
+commissioner in terms of reduced convictions or accidents or both. This
+research documentation shall employ accepted research principles and
+include treatment and non-treatment control groups comprised of samples
+of the representative driver base. In order to establish verifiable
+effectiveness, each sample group should be comprised of a minimum of
+three thousand drivers selected randomly. The documentation shall
+include conviction or accident data for each motorist for a period of at
+least eighteen months prior to the course completion date and at least
+eighteen months subsequent to such date, and equivalent time periods for
+non-treatment control groups. The documentation shall also include a
+description of the sampling and analytic procedures used, and the
+motorist identification number and course completion date for all course
+attendees. The applicant for sponsorship shall provide, at the request
+of the commissioner and at the applicant's expense, all driving record
+data and analysis used in the development of the submitted research
+documentation. Submission of any fraudulent or intentionally misleading
+data will disqualify that organization and all owners and principals
+from participating or approval in the accident prevention course for a
+period of ten years from submission date. The commissioner may, by
+regulation, provide for a smaller sample group for specialized courses.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 7-602", "kind": "section", "law_id": "UCC", "location_id": "7-602", "path": "ARTICLE 7 › PART 6 › SECTION 7-602", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/7-602.md", "title": "Attachment of Goods Covered by a Negotiable Document"} -->
+# Uniform Commercial Code § 7-602 — Attachment of Goods Covered by a Negotiable Document
+
+[Uniform Commercial Code](../../README.md) › [Article 7 — Warehouse Receipts, Bills of Lading and Other Documents of Title](../README.md) › [Part 6 — Warehouse Receipts and Bills of Lading: Miscellaneous Provisions](README.md)
+
+```text
+Section 7--602. Attachment of Goods Covered by a Negotiable Document.
+  Except where the document was originally issued upon delivery of the
+goods by a person who had no power to dispose of them, no lien attaches
+by virtue of any judicial process to goods in the possession of a bailee
+for which a negotiable document of title is outstanding unless the
+document be first surrendered to the bailee or its negotiation enjoined,
+and the bailee shall not be compelled to deliver the goods pursuant to
+process until the document is surrendered to him or impounded by the
+court. One who purchases the document for value without notice of the
+process or injunction takes free of the lien imposed by judicial
+process.
+```

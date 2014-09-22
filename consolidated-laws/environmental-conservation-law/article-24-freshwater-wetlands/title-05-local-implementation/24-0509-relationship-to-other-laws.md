@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 24-0509", "kind": "section", "law_id": "ENV", "location_id": "24-0509", "path": "ARTICLE 24 › TITLE 5 › SECTION 24-0509", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/24-0509.md", "title": "Relationship to other laws"} -->
+# Environmental Conservation Law § 24-0509 — Relationship to other laws
+
+[Environmental Conservation Law](../../README.md) › [Article 24 — Freshwater Wetlands](../README.md) › [Title 5 — Local Implementation](README.md)
+
+```text
+§ 24-0509. Relationship to other laws.
+  No provision of this article shall be deemed to remove from any local
+government any authority pertaining to the regulation of freshwater
+wetlands, whether such wetlands are under the jurisdiction of the
+department or a county pursuant to subdivision 4 of section 24-0501 of
+this title, under the county, general city, general municipal, municipal
+home rule, town, village, or any other law, provided, however, that any
+such regulation by a local government shall be at least as protective of
+freshwater wetlands as the regulations in effect pursuant to the
+provisions of this chapter or any rule or regulation promulgated
+pursuant to the provisions of this article or pursuant to a local
+freshwater wetlands protection law or ordinance adopted by a county
+pursuant to the provisions of section 24-0501 of this title.
+```

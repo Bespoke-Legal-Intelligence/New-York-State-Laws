@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "State Technology Law § 203", "kind": "section", "law_id": "STT", "location_id": "203", "path": "ARTICLE 2 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/203.md", "title": "Model internet privacy policy"} -->
+# State Technology Law § 203 — Model internet privacy policy
+
+[State Technology Law](../README.md) › [Article 2 — Internet Security and Privacy Act](README.md)
+
+```text
+  § 203. Model internet privacy policy. 1. The office shall adopt rules
+and regulations in conformity with the provisions of this article, and
+specify a model internet privacy policy for state agencies that maintain
+state agency websites. Such model privacy policy shall include, but not
+be limited to, the following elements:
+  (a) a statement of any information, including personal information,
+the state agency website will collect with respect to the user and the
+use of the information;
+  (b) the circumstances under which information, including personal
+information, collected may be disclosed;
+  (c) whether any information collected will be retained by the state
+agency, and, if so, the period of time that such information will be
+retained;
+  (d) the procedures by which a user may gain access to the collected
+information pertaining to that user;
+  (e) the means by which information is collected and whether such
+collection occurs actively or passively;
+  (f) whether the collection of information is voluntary or required,
+and the consequences, if any, of a refusal to provide the required
+information; and
+  (g) the steps being taken by the state agency to protect the
+confidentiality and integrity of the information.
+  2. Each state agency that maintains a state agency website shall adopt
+an internet privacy policy which shall, at a minimum, include the
+information required by the model internet privacy policy. Each state
+agency shall post its internet privacy policy on its website. Such
+posting shall include a conspicuous and direct link to such privacy
+policy.
+  3. The model internet privacy policy specified by the office shall
+also be made available at no charge to other public and private
+entities.
+```

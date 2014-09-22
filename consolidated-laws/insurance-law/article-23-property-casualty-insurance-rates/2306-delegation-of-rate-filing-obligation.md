@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 2306", "kind": "section", "law_id": "ISC", "location_id": "2306", "path": "ARTICLE 23 › SECTION 2306", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2306.md", "title": "Delegation of rate filing obligation"} -->
+# Insurance Law § 2306 — Delegation of rate filing obligation
+
+[Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
+
+```text
+  § 2306. Delegation of rate filing obligation. An insurer or group of
+insurers may discharge the rate filing obligation required by
+subsections (b) and (c) of section two thousand three hundred five of
+this article by giving notice to the superintendent that it uses rates
+and rate information prepared by a designated rate service organization,
+with such information and modifications thereof as is necessary fully to
+inform the superintendent. The rate and rate information of such insurer
+or group of insurers shall be those filed from time to time by the rate
+service organization, including any amendments thereto as filed,
+subject, however, in the case of an insurer to the modifications filed
+by such insurer.
+```

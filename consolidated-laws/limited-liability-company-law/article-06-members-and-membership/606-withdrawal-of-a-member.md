@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 606", "kind": "section", "law_id": "LLC", "location_id": "606", "path": "ARTICLE 6 › SECTION 606", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/606.md", "title": "Withdrawal of a member"} -->
+# Limited Liability Company Law § 606 — Withdrawal of a member
+
+[Limited Liability Company Law](../README.md) › [Article 6 — Members and Membership](README.md)
+
+```text
+  § 606. Withdrawal of a member. (a) A member may withdraw as a member
+of a limited liability company only at the time or upon the happening of
+events specified in the operating agreement and in accordance with the
+operating agreement.  Notwithstanding anything to the contrary under
+applicable law, unless an operating agreement provides otherwise, a
+member may not withdraw from a limited liability company prior to the
+dissolution and winding up of the limited liability company.
+Notwithstanding anything to the contrary under applicable law, an
+operating agreement may provide that a membership interest may not be
+assigned prior to the dissolution and winding up of the limited
+liability company.
+  (b) A limited liability company whose original article of organization
+were filed with the secretary of state and effective prior to the
+effective date of this subdivision shall continue to be governed by this
+section as in effect on such date and shall not be governed by this
+section, unless otherwise provided in the operating agreement.
+```

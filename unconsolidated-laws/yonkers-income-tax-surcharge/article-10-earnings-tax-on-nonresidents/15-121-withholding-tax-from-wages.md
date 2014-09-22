@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Yonkers Income Tax Surcharge § 15-121", "kind": "section", "law_id": "YTS", "location_id": "15-121", "path": "ARTICLE 10 › SECTION 15-121", "repealed": false, "repealed_date": null, "source": "nys-laws:YTS/15-121.md", "title": "Withholding tax from wages"} -->
+# Yonkers Income Tax Surcharge § 15-121 — Withholding tax from wages
+
+[Yonkers Income Tax Surcharge](../README.md) › [Article 10 — Earnings Tax On Nonresidents](README.md)
+
+```text
+  § 15-121. Withholding tax from wages.
+  Withholding of the City of Yonkers earnings tax on nonresidents' wages
+shall commence on November 1, 1984. With respect to payment of wages
+made on or after November 1, 1984, the provisions contained in Part V of
+Article 22 of the New York State Tax Law relating to withholding of tax
+on wages shall be applicable with the same force and effect as if those
+provisions had been incorporated in full in this section and had
+expressly referred to the tax imposed by this article, except where
+inconsistent with the provisions of this article, except that the term
+"aggregate amount" contained in Subdivision (a)(1), (2), (3) and (4) of
+§ 674 of the Tax Law shall mean the aggregate of the aggregate amounts
+of New York State personal income tax, city earnings tax on nonresidents
+authorized pursuant to Article 2-E of the General City Law or Article
+30-B of the New York State Tax Law, city personal income tax on
+residents authorized pursuant to Article 30 of the New York State Tax
+Law or city income tax surcharge authorized pursuant to Article 30-A of
+the New York State Tax Law required to be deducted and withheld.
+```

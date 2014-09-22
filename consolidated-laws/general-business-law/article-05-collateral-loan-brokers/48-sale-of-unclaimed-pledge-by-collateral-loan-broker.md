@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 48", "kind": "section", "law_id": "GBS", "location_id": "48", "path": "ARTICLE 5 › SECTION 48", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/48.md", "title": "Sale of unclaimed pledge by collateral loan broker"} -->
+# General Business Law § 48 — Sale of unclaimed pledge by collateral loan broker
+
+[General Business Law](../README.md) › [Article 5 — Collateral Loan Brokers](README.md)
+
+```text
+  § 48. Sale of unclaimed pledge by collateral loan broker. 1. No pawn
+or pledge made with a collateral loan broker shall be sold until the
+same shall have remained four months in his possession.
+  2. All sales of defaulted pledges shall be public or private with each
+such pledge being individually offered for sale.
+  (a) If at public sale, then it shall be by public auction, and shall
+be conducted by licensed auctioneers within the state of New York. All
+bids for the purchase of any defaulted pledge offered at such sale shall
+be oral, and expressed in dollars and cents without the use of any
+special signs, signals or motions, if less than eleven people attend
+such sale.
+  (b) A private sale may be at any time and place and on any terms but
+every aspect of the disposition including the method, manner, time,
+place and terms must be commercially reasonable and conducted in
+conformity with applicable uniform commercial code provisions regarding
+the disposal of collateral after default.
+  (c) In addition to any other provision contained in this article and
+article twenty-two-A of this chapter, section three hundred forty-nine
+of this chapter shall apply to a violation of the private and public
+sale provisions of this article.
+```

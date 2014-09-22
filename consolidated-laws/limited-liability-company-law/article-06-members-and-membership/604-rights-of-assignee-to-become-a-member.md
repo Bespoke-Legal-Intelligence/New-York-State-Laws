@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 604", "kind": "section", "law_id": "LLC", "location_id": "604", "path": "ARTICLE 6 › SECTION 604", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/604.md", "title": "Rights of assignee to become a member"} -->
+# Limited Liability Company Law § 604 — Rights of assignee to become a member
+
+[Limited Liability Company Law](../README.md) › [Article 6 — Members and Membership](README.md)
+
+```text
+  § 604. Rights of assignee to become a member. (a) Except as provided
+in the operating agreement, an assignee of a membership interest may not
+become a member without the vote or written consent of at least a
+majority in interest of the members, other than the member who assigned
+or proposes to assign such membership interest.
+  (b) An assignee who has become a member has, to the extent assigned,
+the rights, powers, preferences and limitations and is subject to the
+restrictions and liabilities, of a member under the articles of
+organization, the operating agreement and this chapter. Notwithstanding
+the foregoing, unless otherwise provided in the operating agreement, an
+assignee who becomes a member is liable for the obligations of his or
+her assignor to make contributions as provided in section five hundred
+two of this chapter, but shall not be liable for the obligations of his
+or her assignor under sections six hundred six and five hundred eight of
+this chapter. However, the assignee is not obligated for (i)
+liabilities, including the obligations of his or her assignor to make
+contributions as provided in section five hundred two of this chapter,
+unknown to the assignee at the time he or she becomes a member and that
+could not be ascertained from the operating agreement or (ii) any
+accrued liabilities of the assignor at the time of assignment unless the
+assignee specifically assumes such liabilities.
+```

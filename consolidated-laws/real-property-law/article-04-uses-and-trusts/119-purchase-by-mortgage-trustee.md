@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 119", "kind": "section", "law_id": "RPP", "location_id": "119", "path": "ARTICLE 4 › SECTION 119", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/119.md", "title": "Purchase by mortgage trustee"} -->
+# Real Property Law § 119 — Purchase by mortgage trustee
+
+[Real Property Law](../README.md) › [Article 4 — Uses and Trusts](README.md)
+
+```text
+  § 119. Purchase by mortgage trustee. Any banking corporation,
+including corporations organized under the banking law and also national
+banking associations authorized to act as trustees within this state,
+which shall act as trustee, depository or in other representative or
+fiduciary capacity in respect to any mortgage upon real property within
+this state or upon some interest therein or in respect to any indenture
+relating to such real property against which bonds or certificates of
+parts or of shares have been issued to the public, may acquire such real
+property in any foreclosure action now or hereafter pending; and in lieu
+of paying cash therefor, may make settlement for the purchase price by
+crediting upon the bond, mortgage or other obligation held by it, the
+net proceeds of sale after deducting therefrom the expenses of the sale
+and the costs of the action and any other sums which such trustee is
+authorized to deduct under the mortgage, deed of trust or indenture. The
+officer making such foreclosure sale shall accept such settlement
+without requiring the production of the bonds, notes, certificates of
+sharing, certificates of participation, or other security evidencing the
+pro rata interest of the holders thereof in the mortgage or indenture
+being foreclosed; and, without such production, there shall be deemed
+credited thereon the pro rata share of the net proceeds of sale
+ascertained and established as aforesaid.
+```

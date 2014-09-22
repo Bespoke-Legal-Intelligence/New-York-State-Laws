@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 15-503", "kind": "section", "law_id": "GOB", "location_id": "15-503", "path": "ARTICLE 15 › TITLE 5 › SECTION 15-503", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/15-503.md", "title": "Offer of accord followed by tender"} -->
+# General Obligations Law § 15-503 — Offer of accord followed by tender
+
+[General Obligations Law](../../README.md) › [Article 15 — Modification and Discharge of Obligations](../README.md) › [Title 5 — Accord and Satisfaction](README.md)
+
+```text
+  § 15-503. Offer of accord followed by tender. 1. An offer in writing,
+signed by the offeror or by his agent, to accept a performance therein
+designated in satisfaction or discharge in whole or in part of any
+claim, cause of action, contract, obligation, or lease, or any mortgage
+or other security interest in personal or real property, followed by
+tender of such performance by the offeree or by his agent before
+revocation of the offer, shall not be denied effect as a defense or as
+the basis of an action or counterclaim by reason of the fact that such
+tender was not accepted by the offeror or by his agent.
+  2. If executed by an agent, any offer required by this section to be
+in writing which affects or relates to real property or an interest
+therein as defined in section 5-101 in any manner stated in subdivisions
+one or two of section 5-703 of this chapter shall be void unless such
+agent was thereunto authorized in writing.
+```

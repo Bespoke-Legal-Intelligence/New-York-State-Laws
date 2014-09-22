@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Education Law § 467", "kind": "section", "law_id": "EDN", "location_id": "467", "path": "TITLE 1 › ARTICLE 10 › SECTION 467", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/467.md", "title": "Actions by and against fund"} -->
+# Education Law § 467 — Actions by and against fund
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 10 — New York City Educational Construction Fund](README.md)
+
+```text
+  § 467. Actions by and against fund. 1. The state supreme court shall
+have exclusive jurisdiction of any action, suit or special proceeding
+brought by or against or involving the fund. The venue of any action,
+suit or special proceeding brought against the fund shall be laid in the
+city and county of New York.
+  2. In every action against the fund for damages, for injuries to real
+or personal property, or for the destruction thereof, or for personal
+injuries or death, the complaint shall contain an allegation that at
+least thirty days have elapsed since the demand, claim or claims upon
+which such action is founded were presented to a trustee or officer of
+the fund and that the fund has neglected or refused to make an
+adjustment or payment thereof for thirty days after such presentment.
+  3. Except in an action for wrongful death, an action against the fund
+for damages for injuries to real or personal property, or for the
+destruction thereof, or for personal injuries, alleged to have been
+sustained, shall not be commenced more than one year and ninety days
+after the cause of action therefor shall have accrued, nor unless a
+notice of claim shall have been served on the fund within the time limit
+established by, and in compliance with all requirements of section
+fifty-e of the general municipal law. An action against the fund for
+wrongful death shall be commenced in accordance with the notice of claim
+and time limitation provisions of title eleven of article nine of the
+public authorities law.
+```

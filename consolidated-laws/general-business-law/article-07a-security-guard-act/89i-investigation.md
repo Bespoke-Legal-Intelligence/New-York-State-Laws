@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 89-I", "kind": "section", "law_id": "GBS", "location_id": "89-I", "path": "ARTICLE 7-A › SECTION 89-I", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/89-I.md", "title": "Investigation"} -->
+# General Business Law § 89-I — Investigation
+
+[General Business Law](../README.md) › [Article 7-A — Security Guard Act](README.md)
+
+```text
+  § 89-i. Investigation. Within five business days after receipt of an
+application, the department shall transmit to the division two sets of
+fingerprints and the fees required pursuant to paragraph (b) of
+subdivision ten of section eighty-nine-h of this article. One set of
+fingerprints and the required fee shall be submitted to the federal
+bureau of investigation for a national criminal history record check.
+The results will be used to ascertain whether or not the applicant has
+been charged with or convicted of a serious offense and may cause to be
+conducted an investigation to verify the information contained in the
+application; provided, however, that the department shall cause such
+investigation to be conducted for applicants whose application has not
+been submitted and verified pursuant to section eighty-nine-g of this
+article. The department, in consultation with the division, may waive
+such background checks, investigations and fees if in its opinion, the
+security guard applicant has been subject to previous background checks
+and investigation requirements which meet or exceed the requirements of
+this section. The department, in consultation with the division, may not
+be required to conduct background checks or investigations for
+applicants who are also employed as peace officers.
+```

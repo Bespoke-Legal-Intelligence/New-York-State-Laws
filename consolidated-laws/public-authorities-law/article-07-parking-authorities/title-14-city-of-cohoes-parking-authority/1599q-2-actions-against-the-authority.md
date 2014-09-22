@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1599-Q*2", "kind": "section", "law_id": "PBA", "location_id": "1599-Q*2", "path": "ARTICLE 7 › TITLE 14* › SECTION 1599-Q*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1599-Q_2.md", "title": "Actions against the authority"} -->
+# Public Authorities Law § 1599-Q*2 — Actions against the authority
+
+[Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 14* — City of Cohoes Parking Authority](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1599-q. Actions against the authority. 1. In every action against
+the authority for damages, for injuries to real or personal property, or
+for the destruction thereof, or for personal injuries or death, the
+complaint shall contain an allegation that at least ninety days have
+elapsed since the demand, claim or claims upon which such action is
+founded were presented to a member of the authority, or to its
+secretary, or to its chief executive officer and that the authority has
+neglected or refused to make an adjustment or payment thereof for ninety
+days after such presentment.
+  2. An action against the authority for damages for injuries to real or
+personal property, or for the destruction thereof, or for personal
+injuries or death, alleged to have been sustained, shall not be
+commenced more than one year after the cause of action therefor shall
+have accrued, nor unless a notice of intention to commence such action
+and of the time when and place where the damages or personal injuries or
+death were incurred or sustained, together with a verified statement
+showing in detail the property alleged to have been damaged or destroyed
+and the value thereof, or the personal injuries alleged to have been
+sustained and by whom, shall have been filed with the secretary of the
+authority in the principal office of the authority within six months
+after such cause of action shall have accrued.
+  * NB Authority terminated 07/01/1974
+  * NB There are 4 § 1599-q's
+```

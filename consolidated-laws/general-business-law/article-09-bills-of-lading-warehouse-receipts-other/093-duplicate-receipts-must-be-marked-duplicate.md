@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 93", "kind": "section", "law_id": "GBS", "location_id": "93", "path": "ARTICLE 9 › SECTION 93", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/93.md", "title": "Duplicate receipts must be marked \"duplicate"} -->
+# General Business Law § 93 — Duplicate receipts must be marked "duplicate
+
+[General Business Law](../README.md) › [Article 9 — Bills of Lading, Warehouse Receipts, Other Receipts and Vouchers](README.md)
+
+```text
+  § 93. Duplicate receipts must be marked "duplicate." A person
+mentioned in sections ninety and ninety-one, who issues any second or
+duplicate receipt or voucher, of a kind specified in those sections, at
+a time while a former receipt or voucher for the merchandise specified
+in such second receipt is outstanding and uncanceled, without writing
+across the face of the same the word "duplicate," in a plain and legible
+manner, is guilty of a misdemeanor.
+```

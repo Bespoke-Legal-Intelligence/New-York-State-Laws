@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "Volunteer Ambulance Workers' Benefit Law § 56", "kind": "section", "law_id": "VAW", "location_id": "56", "path": "ARTICLE 4 › SECTION 56", "repealed": false, "repealed_date": null, "source": "nys-laws:VAW/56.md", "title": "Non-duplication of benefits"} -->
+# Volunteer Ambulance Workers' Benefit Law § 56 — Non-duplication of benefits
+
+[Volunteer Ambulance Workers' Benefit Law](../README.md) › [Article 4 — Procedure](README.md)
+
+```text
+  § 56. Non-duplication of benefits. If benefits are required to be paid
+under this chapter in the event of injury to or death of a volunteer
+ambulance worker, the volunteer ambulance worker or other persons
+entitled to such benefits shall not receive workers' compensation under
+the provisions of the workers' compensation law in relation to such
+injury or death.
+```

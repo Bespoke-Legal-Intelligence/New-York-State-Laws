@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1306", "kind": "section", "law_id": "PBH", "location_id": "1306", "path": "ARTICLE 13 › TITLE 1 › SECTION 1306", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1306.md", "title": "Nuisances; abatement expenses"} -->
+# Public Health Law § 1306 — Nuisances; abatement expenses
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 1 — General Provisions; Control and Abatement](README.md)
+
+```text
+  § 1306. Nuisances; abatement expenses.  1. The expense of suppression
+or removal of a nuisance or conditions detrimental to health shall be
+paid by the owner or occupant of the premises, or by the person who
+caused or maintained such nuisance or other matters, and the board of
+health of the municipality or county wherein the premises are located
+may maintain an action in the name of the municipality or county to
+recover such expense, and the same when recovered shall be paid to the
+treasurer of the municipality or county, or if it has no treasurer to
+its chief fiscal officer, to be held and used as the funds of the
+municipality or county.
+  2. Whenever the suppression or removal of such nuisance or conditions
+detrimental to health demand the immediate expenditure of money, every
+local board of health, local health officer of a health district having
+no board of health or county health commissioner shall be authorized to
+use for such purpose any money in the hands of the board, or may call on
+the governing body of the municipality or county as the case may be for
+such money. All such moneys so expended shall be immediately repaid to
+the fund or source whence they were received on the recovery of the same
+by action or otherwise from the persons responsible for the expenses of
+suppression or removal.
+```

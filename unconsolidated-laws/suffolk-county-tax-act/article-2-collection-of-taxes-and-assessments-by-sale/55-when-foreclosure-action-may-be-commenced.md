@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Suffolk County Tax Act § 55", "kind": "section", "law_id": "SCT", "location_id": "55", "path": "ARTICLE 2 › SECTION 55", "repealed": false, "repealed_date": null, "source": "nys-laws:SCT/55.md", "title": "When foreclosure action may be commenced"} -->
+# Suffolk County Tax Act § 55 — When foreclosure action may be commenced
+
+[Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
+
+```text
+§ 55. When foreclosure action may be commenced. Except as herein
+otherwise provided, the action provided for in the last section may be
+commenced at any time after twelve months in respect to unimproved or
+non-residential real estate, or thirty-six months in respect to
+residential real estate and within eight years from the date of sale
+mentioned in the certificate of sale, or five years from the date of the
+tax deed and all the provisions of the civil practice law and rules and
+all other provisions of law and the rules of practice relating to
+actions for the foreclosure of mortgages shall apply to the action
+hereby authorized so far as applicable, except as herein otherwise
+provided. It shall be sufficient for the plaintiff to set forth in his
+complaint in such action a copy of or the substance of his certificate
+of sale or tax deed, and the interest, penalties, additions and expenses
+claimed by him, with a statement that the premises described in the
+certificate of sale or deed have not been redeemed or conveyed pursuant
+to the provisions of this act, and that the plaintiff elects to recover
+as herein provided, also that the defendants have or may have some
+interest in or lien upon the property affected by the action.
+```

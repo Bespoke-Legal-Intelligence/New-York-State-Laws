@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Energy Law § 17-101", "kind": "section", "law_id": "ENG", "location_id": "17-101", "path": "ARTICLE 17 › SECTION 17-101", "repealed": false, "repealed_date": null, "source": "nys-laws:ENG/17-101.md", "title": "Definitions"} -->
+# Energy Law § 17-101 — Definitions
+
+[Energy Law](../README.md) › [Article 17 — Energy Information](README.md)
+
+```text
+  § 17-101. Definitions.  For the purpose of this article, the following
+terms shall have the following meanings:
+  1. "Residential structure" shall mean a one or two family dwelling or
+a single unit of a multiple dwelling, including an individual
+condominium unit or cooperative unit, which is offered for sale or
+rental on or after January first, nineteen hundred eighty-one by any
+person other than the original contractor or builder of any such
+dwelling.
+  2. "Heating and/or cooling bills" shall mean all bills rendered by a
+retail vendor for energy used for heating and/or cooling purposes in a
+residential structure, including any bills where the cost of energy used
+for heating and/or cooling purposes is not differentiated from the costs
+of energy used for any other purpose.
+  3. "Lessor" shall mean any person who offers any residential structure
+for lease to the general public.
+  4. "Seller" shall mean any person who offers a residential structure
+for sale to the general public.
+```

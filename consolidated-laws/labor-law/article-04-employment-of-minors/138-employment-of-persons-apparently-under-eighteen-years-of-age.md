@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 138", "kind": "section", "law_id": "LAB", "location_id": "138", "path": "ARTICLE 4 › SECTION 138", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/138.md", "title": "Employment of persons apparently under eighteen years of age"} -->
+# Labor Law § 138 — Employment of persons apparently under eighteen years of age
+
+[Labor Law](../README.md) › [Article 4 — Employment of Minors](README.md)
+
+```text
+  § 138. Employment of persons apparently under eighteen years of age.
+1.  If any person apparently under eighteen years of age is employed
+without the certificate on file as required by law, in or in connection
+with any employment to which the provisions of this article apply, the
+commissioner may require the employer to cease employing the person or
+file, within ten days after demand, evidence in the form required by the
+education law for the issuance of such certificate that the person is
+over the age for which the certificate is required.
+  2. If the employer fails to furnish such evidence within ten days
+after demand, and thereafter employs the person, proof of the service of
+the demand and of the failure to furnish such evidence shall be prima
+facie evidence in any prosecution brought for a violation of this
+article that such person is under the age for which such certificate is
+required and is unlawfully employed.
+```

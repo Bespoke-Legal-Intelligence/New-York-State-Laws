@@ -1,0 +1,114 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2803-J", "kind": "section", "law_id": "PBH", "location_id": "2803-J", "path": "ARTICLE 28 › SECTION 2803-J", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2803-J.md", "title": "Information for maternity patients"} -->
+# Public Health Law § 2803-J — Information for maternity patients
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  * § 2803-j. Information for maternity patients. ** 1. The commissioner
+shall require that every hospital and birth center shall prepare in
+printed or photocopied form and distribute at the time of pre-booking
+directly to each prospective maternity patient and, upon request, to the
+general public an informational leaflet. Such leaflet shall be designed
+by the commissioner and shall contain brief definitions of maternity
+related procedures and practices as specified in subdivision two of this
+section and such other material as deemed appropriate by the
+commissioner. Hospitals and birth centers may also elect to distribute
+additional explanatory material along with the maternity patients
+informational leaflet.
+  ** NB Effective until January 31, 2015
+  ** 1. The commissioner shall require that every hospital and birth
+center shall prepare in printed or photocopied form and distribute at
+the time of pre-booking directly to each prospective maternity patient
+and, upon request, to the general public an informational leaflet. Such
+leaflet shall be designed by the commissioner and shall contain brief
+definitions of maternity related procedures and practices as specified
+in subdivision two of this section and such other material as deemed
+appropriate by the commissioner. Hospitals and birth centers may also
+elect to distribute additional explanatory material along with the
+maternity patients informational leaflet. The commissioner shall make
+the information contained in the leaflet available on the department's
+website.
+  ** NB Effective January 31, 2015
+  1-a. The informational leaflet shall also include an explanation of
+the special provisions relating to maternity care and coverage under the
+insurance law and section two thousand eight hundred three-n of this
+chapter, and suggest that expectant parents check their insurance
+policies for the details of their maternity coverage.
+  ** 1-b. The informational leaflet shall also include information
+relating to the physical and mental health of the maternity patient
+after discharge from the hospital, including, but not limited to,
+information about post-partum depression.
+  ** NB Effective until January 31, 2015
+  ** 1-b. The informational leaflet shall also include information
+relating to the physical and mental health of the maternity patient
+after discharge from the hospital, including, but not limited to,
+information about maternal depression. The commissioner, in
+collaboration with the commissioner of mental health, shall review and
+update the information on maternal depression contained in the leaflet,
+as necessary. The informational leaflets shall be made available to
+patients in the top six languages spoken in the state, other than
+English, according to the latest available data from the United States
+Census Bureau.
+  ** NB Effective January 31, 2015
+  1-c. The informational leaflet shall also include a description of the
+dangers of shaking infants and young children. The description shall
+include information on the effects of shaking infants and young
+children, appropriate ways to manage the causes of shaking infants and
+young children, and discussion on how to reduce the risks of shaking
+infants and young children.
+  2. Such leaflet shall also include statistics relating to the annual
+percentage of maternity related procedures performed at such hospital or
+birth center, as provided by the commissioner, including but not limited
+to the following:
+  (a) the annual rate of cesarean sections, primary, repeat and total,
+performed at such facility;
+  (b) the annual percentage of women with previous cesarean sections who
+have had a subsequent successful vaginal birth;
+  (c) the annual percentage of deliveries by midwives;
+  (d) the annual percentage of births utilizing electronic fetal
+monitoring listed on the basis of external and internal;
+  (e) the annual percentage of births utilizing forceps, listed on the
+basis of low forceps delivery and mid forceps delivery;
+  (f) the annual percentage of breech births delivered vaginally;
+  (g) the annual percentage of births utilizing analgesia;
+  (h) the annual percentage of births utilizing anesthesia including
+general, spinal, epidural, and paracervical listed on the basis of
+vaginal and cesarean births;
+  (i) the annual percentage of births utilizing induction of labor;
+  (j) the annual percentage of births utilizing augmentation of labor;
+  (k) the annual percentage of vaginal births utilizing episiotomies;
+  (l) whether birthing rooms are available for use in the facility;
+  (m) whether rooming-in is available in the facility, on the basis of
+twenty-four hours a day or daytime.
+  3. Compilation of the statistics set out in subdivision two of this
+section shall be the responsibility of the commissioner.
+  4. Statistical information shall be presented in the most recent one
+year aggregate.
+  5. (a) The commissioner shall establish an immunization schedule for
+newborn children. The immunization schedule shall chart out recommended
+immunizations against certain diseases and illnesses and age-appropriate
+times for the administration of each immunization. The immunization
+schedule shall also include information on the importance of getting
+children immunized at the recommended ages. The immunization schedule
+shall also include the toll-free telephone number operated by the
+department as part of its immunization education efforts. The
+immunization schedule shall be in accordance with recommendations
+established by the New York state department of health and the
+immunization practices advisory committee of the United States
+department of health and human services.
+  (b) The commissioner shall provide the immunization schedule to the
+local registrars for distribution pursuant to paragraph (b) of
+subdivision one of section four thousand one hundred thirty-seven of
+this chapter.
+  6. Every hospital and birth center shall request that each maternity
+patient and father of a newborn child, if available, view a video
+presentation, approved by the commissioner, on the dangers of shaking
+infants and young children, and the symptoms of shaken baby syndrome.
+After viewing such a video presentation or upon refusal to view such a
+video presentation, the hospital or birth center shall request that such
+patient and/or father sign a form stating that they have viewed or
+refused to view such video presentation. All training materials and
+forms required to implement the provisions of this subdivision shall be
+provided by the commissioner.
+  * NB There are 2 § 2803-j's
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5713", "kind": "section", "law_id": "CVP", "location_id": "5713", "path": "ARTICLE 57 › SECTION 5713", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5713.md", "title": "Content of order granting permission to appeal to court of appeals"} -->
+# Civil Practice Law and Rules § 5713 — Content of order granting permission to appeal to court of appeals
+
+[Civil Practice Law and Rules](../README.md) › [Article 57 — Appeals to the Appellate Division](README.md)
+
+```text
+  § 5713. Content of order granting permission to appeal to court of
+appeals. When the appellate division grants permission to appeal to the
+court of appeals, its order granting such permission shall state that
+questions of law have arisen which in its opinion ought to be reviewed.
+When the appeal is from a non-final order, the order granting such
+permission shall also state that the findings of fact have been
+affirmed, or reversed or modified and new findings of fact made, or have
+not been considered, shall specify the findings of fact which have been
+reversed or modified and set forth new findings of fact with at least
+the same particularity as was employed for the findings of fact below
+and shall certify the questions of law decisive of the correctness of
+its determination or of any separable portion of it.
+```

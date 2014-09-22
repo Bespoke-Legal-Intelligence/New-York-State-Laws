@@ -1,0 +1,48 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6610", "kind": "section", "law_id": "EDN", "location_id": "6610", "path": "TITLE 8 › ARTICLE 133 › SECTION 6610", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6610.md", "title": "Exempt persons"} -->
+# Education Law § 6610 — Exempt persons
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 133 — Dentistry and Dental Hygiene](README.md)
+
+```text
+  § 6610.  Exempt persons.  Nothing in this article shall be construed
+to affect or prevent:
+  1. An unlicensed person from performing solely mechanical work upon
+inert matter in a dental office or on a dental laboratory prescription
+of a dentist holding a license or limited permit;
+  2. A student from engaging in clinical practice as part of a
+registered program operated by a school of dentistry under supervision
+of a dentist holding a license or limited permit for instructing in
+dentistry in a school of dentistry:
+  3. A student from engaging in any procedure authorized under section
+sixty-six hundred six of this article in clinical practice as part of a
+registered program in dental hygiene under supervision of a dentist
+holding a license or a limited permit for instructing in dentistry in a
+school of dental hygiene;
+  4. An employee of a federal agency from using the title of and
+practicing as a dentist or dental hygienist insofar as such activities
+are required by his salaried position;
+  5. A dentist or a dental hygienist licensed in some other state or
+country from making a teaching clinical demonstration before a regularly
+organized dental or medical society or group, or from meeting licensed
+dentists in this state for consultation, provided such activities are
+limited to such demonstration or consultation.
+  6. A dentist licensed in another state or country who is employed on a
+full-time basis by a registered dental school as a faculty member with
+the rank of assistant professor or higher from conducting research and
+clinical demonstrations as a part of such employment, under the
+supervision of a licensed dentist and on the premises of the school. No
+fee may be charged for the practice of dentistry authorized by this
+subdivision.
+  7. A dentist licensed in another state or country who is visiting an
+approved dental school or any other entity operating a residency program
+that has been accredited by a national accrediting body approved by the
+department to receive dental instruction for a period not to exceed
+ninety days from engaging in clinical practice, provided such practice
+is limited to such instruction and is under the direct supervision of a
+licensed dentist.
+  8. Any student matriculated in an accredited dental school located
+outside New York state from engaging in appropriately supervised
+clinical practice as part of the school's dental program in a teaching
+hospital which has a teaching affiliation agreement with the student's
+dental school.
+```

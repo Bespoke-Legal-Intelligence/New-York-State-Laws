@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1163", "kind": "section", "law_id": "PBA", "location_id": "1163", "path": "ARTICLE 5 › TITLE 7 › SECTION 1163", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1163.md", "title": "Exemption from taxes"} -->
+# Public Authorities Law § 1163 — Exemption from taxes
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 7 — Onondaga County Water Authority](README.md)
+
+```text
+  § 1163. Exemption from taxes.  1. It is hereby determined that the
+creation of the authority and the carrying out of its corporate purposes
+is in all respects for the benefit of the people of the state of New
+York and is a public purpose.  Accordingly, the authority shall be
+regarded as performing an essential governmental function in the
+exercise of the powers conferred upon it by this title, and the
+authority shall not be required to pay any fees, taxes, special ad
+valorem levies or assessments of any kind, whether state or local,
+including but not limited to fees, taxes, special ad valorem levies or
+assessments on real property, franchise taxes, sales taxes or other
+taxes, upon or with respect to any property owned by it or under its
+jurisdiction, control or supervision, or upon the uses thereof, or upon
+or with respect to its activities or operations in furtherance of the
+powers conferred upon it by the title, or upon or with respect to any
+fares, tolls, rentals, rates, charges, fees, revenues or other income
+received by the authority.
+  2. Any bonds or notes issued pursuant to this title, together with the
+income therefrom, as well as the property of the authority, shall be
+exempt from taxation, except for transfer and estate taxes.
+```

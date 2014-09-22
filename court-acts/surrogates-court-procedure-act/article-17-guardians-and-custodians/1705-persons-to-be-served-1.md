@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1705", "kind": "section", "law_id": "SCP", "location_id": "1705", "path": "ARTICLE 17 › SECTION 1705", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1705.md", "title": "Persons to be served 1"} -->
+# Surrogate's Court Procedure Act § 1705 — Persons to be served 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 17 — Guardians and Custodians](README.md)
+
+```text
+§ 1705. Persons to be served
+  1. Upon presentation of the petition process shall issue:
+  (a) To the parent or parents, and if the infant is married, to the
+spouse, if such persons are within the state and their residences
+therein are known, or if there be none, to the grandparents who are
+within the county.
+  (b) To the person having the care and custody of the infant or with
+whom he resides.
+  (c) If the application is made in behalf of an infant over the age of
+14 years by any person, to the infant.
+  2. No process shall be necessary to a parent who has abandoned the
+infant or is deprived of civil rights or divorced from the parent having
+legal custody of the infant or an incompetent or who is otherwise
+judicially deprived of the custody of the infant or in case the infant
+is married to a spouse who has abandoned the infant or is deprived of
+civil rights or divorced or an incompetent.
+  3. The court shall ascertain so far as practicable what relatives of
+the infant are domiciled in its county or elsewhere and with whom the
+infant resides and it may issue process to any relative or class of
+relatives to show cause why the appointment should not be made.
+```

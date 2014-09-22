@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2879", "kind": "section", "law_id": "PBH", "location_id": "2879", "path": "ARTICLE 28-B › SECTION 2879", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2879.md", "title": "Foreclosures and judgments"} -->
+# Public Health Law § 2879 — Foreclosures and judgments
+
+[Public Health Law](../README.md) › [Article 28-B — Hospital Mortgage Loan Construction](README.md)
+
+```text
+  § 2879. Foreclosures and judgments. 1. In any foreclosure action the
+commissioner shall be made a party defendant. He shall take all steps
+necessary to protect the interests of the public therein and no costs
+shall be awarded against him. Foreclosures shall not be decreed unless
+the court to which application is made shall be satisfied that the
+interests of the lienholder or holders cannot be adequately assured
+except by the sale of the property. In any such proceeding, the court
+shall be authorized to appoint the commissioner as receiver of the
+property, or to grant such other and further relief as may be reasonable
+and proper.
+  2. Notwithstanding the foregoing provisions of this section, wherever
+it shall appear that the agency shall have loaned on a mortgage which is
+a lien upon any such property, such agency shall have all the remedies
+available to a mortgagee under the laws of the state of New York, free
+from any restrictions contained in this section, except that the
+commissioner shall be made a party defendant and that the commissioner
+shall take all steps necessary to protect the interests of the public
+and no costs shall be awarded against him.
+  3. In the event of a judgment against an eligible borrower in any
+action not pertaining to the collection of a mortgage indebtedness,
+there shall be no sale of any of the real property of such eligible
+borrower except upon sixty days' written notice to the commissioner and
+the agency. Upon receipt of such notice the commissioner and the agency
+shall take such steps as in its judgment may be necessary to protect the
+rights of all parties.
+```

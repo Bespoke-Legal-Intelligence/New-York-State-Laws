@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 136", "kind": "section", "law_id": "RCO", "location_id": "136", "path": "ARTICLE 7 › SECTION 136", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/136.md", "title": "Changing number of trustees"} -->
+# Religious Corporations Law § 136 — Changing number of trustees
+
+[Religious Corporations Law](../README.md) › [Article 7 — Baptist Churches](README.md)
+
+```text
+  § 136. Changing number of trustees.  An incorporated Baptist church
+may, at an annual corporate meeting, change the number of its trustees
+to not less than three, nor more than eighteen, or classify them so that
+the terms of one-third expire each year, provided that notice of such
+intended change or classification be included in the notice of such
+annual corporate meeting. No such change shall affect the terms of the
+trustees then in office, and if the change reduces the number of
+trustees, elections shall not be held to fill vacancies caused by the
+expiration of the terms of trustees until the number of trustees equals
+the number to which the trustees were reduced. Whenever the number of
+trustees in office is less than the number so determined on, sufficient
+additional trustees shall be elected to make the number of trustees
+equal to the number so determined on. The trustees so elected up to and
+including one-third of the number so determined on, shall be elected for
+three years, the remainder up to and including one-third of the number
+so determined on for two years, and the remainder for one year.
+```

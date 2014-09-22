@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 137", "kind": "section", "law_id": "TRA", "location_id": "137", "path": "ARTICLE 6 › SECTION 137", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/137.md", "title": "Transportation policy"} -->
+# Transportation Law § 137 — Transportation policy
+
+[Transportation Law](../README.md) › [Article 6 — Matters Relating to All Motor Carriers](README.md)
+
+```text
+  § 137. Transportation policy. It is hereby declared to be the policy
+of this state to regulate transportation by motor carriers in such
+manner as to recognize and preserve the inherent advantages of, and
+foster sound economic conditions in such transportation and among such
+carriers in the public interest; promote safe, adequate, economical and
+efficient service by motor carriers, and reasonable charges therefor,
+without unjust discriminations, undue preferences or advantages, and
+unfair or destructive competitive practices; improve the relations
+between, and coordinate transportation by and regulation of motor
+carriers and other carriers.
+```

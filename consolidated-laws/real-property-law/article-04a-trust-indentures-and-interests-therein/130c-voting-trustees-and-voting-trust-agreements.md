@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 130-C", "kind": "section", "law_id": "RPP", "location_id": "130-C", "path": "ARTICLE 4-A › SECTION 130-C", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/130-C.md", "title": "Voting trustees and voting trust agreements"} -->
+# Real Property Law § 130-C — Voting trustees and voting trust agreements
+
+[Real Property Law](../README.md) › [Article 4-A — Trust Indentures and Interests Therein](README.md)
+
+```text
+  § 130-c. Voting trustees and voting trust agreements. 1. No trustee or
+member of a committee or the attorney of such trustee or committee or
+any employee of either shall be eligible to become a voting trustee or
+an officer or director of a corporation to be formed or used under a
+plan of reorganization to acquire title to property previously
+administered by such trustee or committee unless the facts with respect
+to their previous connection with the property are disclosed to the
+court and the affirmative approval of the holders of at least fifty-one
+per centum of the mortgage investments is obtained or unless a plan of
+reorganization approved by the court in proceedings under section one
+hundred and twenty-two of this chapter shall so provide.
+  2. No agreement appointing trustees to vote the stock of any
+corporation formed or used under a plan of reorganization of property
+shall be valid for a longer term than five years and unless it has been
+submitted to and approved by the court and no trustees appointed by such
+agreement shall continue to act thereunder after the expiration of its
+term, unless and until a new or an extension agreement has been entered
+into and received the affirmative approval of the holders of at least
+fifty-one per centum of the stock.
+  3. No salary or other compensation shall be paid to any voting trustee
+or any officer or director of a corporation formed or used to acquire
+the title to property in or through reorganization unless the same has
+been approved by the court.
+```

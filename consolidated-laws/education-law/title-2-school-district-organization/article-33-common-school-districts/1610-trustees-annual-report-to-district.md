@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1610", "kind": "section", "law_id": "EDN", "location_id": "1610", "path": "TITLE 2 › ARTICLE 33 › SECTION 1610", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1610.md", "title": "Trustees' annual report to district"} -->
+# Education Law § 1610 — Trustees' annual report to district
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 33 — Common School Districts](README.md)
+
+```text
+  § 1610. Trustees' annual report to district.  The trustees shall
+render to the district, at its annual meeting, a just, full and true
+account in writing, of all moneys received by them respectively for the
+use of the district, or raised or collected by taxes, in the preceding
+year, and of the manner in which the same shall have been expended, and
+showing to which of them an unexpended balance, or any part thereof, is
+chargeable; and of all drafts or orders made by them upon the county
+treasurer, collector, treasurer or other custodian of moneys of the
+district; and a full statement of all appeals, actions or suits and
+proceedings brought by or against them, and of every special matter
+touching the condition of the district.
+```

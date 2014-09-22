@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 514", "kind": "section", "law_id": "NPC", "location_id": "514", "path": "ARTICLE 5 › SECTION 514", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/514.md", "title": "Delegation of investment management"} -->
+# Not-for-Profit Corporation Law § 514 — Delegation of investment management
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 5 — Corporate Finance](README.md)
+
+```text
+§ 514. Delegation of investment management.
+  (a) Except as otherwise provided by the applicable gift instrument as
+defined in section 551 (Definitions), the governing board may delegate
+to its committees, officers or employees of the corporation or the fund
+the authority to act in place of the governing board in investment and
+reinvestment of institutional funds as defined in section 551
+(Definitions). Each contract, if any, pursuant to which authority is so
+delegated shall provide that it may be terminated by the governing board
+at any time, without penalty, upon not more than sixty days' notice.
+Section 554 (Delegation of management and investment functions) shall
+govern external delegation.
+  (b) The governing board shall exercise the standard of care required
+by section 717 (Duty of directors and officers) in the selection of
+persons to whom authority is delegated or with whom contracts are made
+under paragraph (a) of this section and in the continuation or
+termination of such delegation or contracts.  The governing board shall
+be relieved of all liability for the investment and reinvestment of
+institutional funds by, and for the other acts or omissions of, persons
+to whom authority is so delegated or with whom contracts are so made.
+```

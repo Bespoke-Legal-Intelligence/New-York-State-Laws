@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 370", "kind": "section", "law_id": "PBA", "location_id": "370", "path": "ARTICLE 2 › TITLE 9 › SECTION 370", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/370.md", "title": "Notes and bonds legal investments for public officers and fiduciaries"} -->
+# Public Authorities Law § 370 — Notes and bonds legal investments for public officers and fiduciaries
+
+[Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
+
+```text
+  § 370. Notes and bonds legal investments for public officers and
+fiduciaries. The notes and bonds are hereby made securities in which all
+public officers and bodies of this state and all municipalities and
+municipal subdivisions, all insurance companies and associations and
+other persons carrying on an insurance business, all banks, bankers,
+trust companies, savings banks and saving associations, including
+savings and loan associations, building and loan associations,
+investment companies and other persons carrying on a banking business,
+all administrators, guardians, executors, trustees and other fiduciaries
+and all other persons whatsoever who are now or may hereafter be
+authorized to invest in bonds or other obligations of the state, may
+properly and legally invest funds including capital in their control or
+belonging to them. The notes and bonds are also hereby made securities
+which may be deposited with and may be received by all public officers
+and bodies of this state and all municipalities and municipal
+subdivisions for any purpose for which the deposit of bonds or other
+obligations of this state is now or may hereafter be authorized.
+```

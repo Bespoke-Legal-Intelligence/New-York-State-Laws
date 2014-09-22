@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 7562", "kind": "section", "law_id": "CVP", "location_id": "7562", "path": "ARTICLE 75-A › SECTION 7562", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/7562.md", "title": "Witnesses' fees and mileage; arbitrators' fees and expenses"} -->
+# Civil Practice Law and Rules § 7562 — Witnesses' fees and mileage; arbitrators' fees and expenses
+
+[Civil Practice Law and Rules](../README.md) › [Article 75-A — Health Care Arbitration](README.md)
+
+```text
+  § 7562. Witnesses' fees and mileage; arbitrators' fees and expenses.
+(a) Except for the parties to the arbitration and their agents,
+officers, and employees, all witnesses appearing pursuant to subpoena
+are entitled to receive fees and mileage in the same amount and under
+the same circumstances as prescribed by law for witnesses in civil
+actions. The fee and mileage of a witness subpoenaed upon the
+application of a party to the arbitration shall be paid by that party.
+The fee and mileage of a witness subpoenaed solely at the request of an
+arbitrator shall be deemed to be a cost of the proceeding.
+  (b) Each arbitrator's salary or fees and expenses, together with any
+other costs of the proceeding shall be paid from the arbitration
+administration fund established pursuant to section five thousand six
+hundred three of the insurance law. The range of such salary or fees and
+expenses and the manner of their payment shall be established by
+regulation of the superintendent of financial services.
+```

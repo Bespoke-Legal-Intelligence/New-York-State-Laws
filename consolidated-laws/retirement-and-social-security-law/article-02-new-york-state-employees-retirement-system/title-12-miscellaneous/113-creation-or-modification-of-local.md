@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 113", "kind": "section", "law_id": "RSS", "location_id": "113", "path": "ARTICLE 2 › TITLE 12 › SECTION 113", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/113.md", "title": "Creation or modification of local retirement systems prohibited"} -->
+# Retirement and Social Security Law § 113 — Creation or modification of local retirement systems prohibited
+
+[Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 12 — Miscellaneous Provisions; Saving and Construction Clauses](README.md)
+
+```text
+  § 113. Creation or modification of local retirement systems
+prohibited.  a. No municipality, after April twelfth, nineteen hundred
+twenty-two, shall create any retirement system for its officers or
+employees.
+  b. Notwithstanding any inconsistent provisions of any general, special
+or local law, ordinance or city or village charter, no municipality
+shall have power to add, change, modify, supersede, amend or repeal any
+provision relating to contributions payable to or pensions, annuities,
+or other benefits payable by any pension or retirement system or fund
+administered by such municipality or an agency thereof for the benefit
+of officers or employees of such municipality, except as provided herein
+or in article four or article six of this chapter. Any such provision
+for the payment of a pension or retirement allowance of a fixed amount,
+expressed in dollars, may be amended by the municipality to provide
+future retirees with a pension or retirement allowance in terms of a
+percentage, not to exceed fifty per cent, of the annual salary before
+retirement of the officer or employee.
+  c. The provisions of subdivision b of this section shall not prevent a
+municipality having the power to adopt local laws to provide by local
+law, or a municipality not having the power to adopt local laws to
+provide by ordinance or resolution, for increased-take-home-pay for
+members of a pension or retirement system or fund administered by it or
+by any agency thereof. Such local law, ordinance, or resolution may
+provide a plan for increased-take-home-pay which shall not be
+inconsistent with the provisions, limitations, restrictions and payroll
+periods of the plans for increased-take-home-pay provided by chapters of
+the laws of nineteen hundred sixty, entitled "An act to amend the
+retirement and social security law, in relation to the addition of
+pensions providing-for-increased-take-home-pay, death benefits, and
+reopening of a plan for retirement at age fifty-five", "An act to amend
+the retirement and social security law, in relation to authorizing the
+provision of added pensions-providing-for-increased-take-home-pay and
+death benefits for officers and employees of participating employers in
+the New York state employees' retirement system", "An act to amend the
+mental hygiene law, in relation to reducing contributions of members of
+the New York state hospital system and providing added death benefits,"
+and any acts amendatory thereof.
+```

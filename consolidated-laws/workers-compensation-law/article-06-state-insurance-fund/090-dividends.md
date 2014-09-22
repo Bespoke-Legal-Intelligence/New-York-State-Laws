@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 90", "kind": "section", "law_id": "WKC", "location_id": "90", "path": "ARTICLE 6 › SECTION 90", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/90.md", "title": "Dividends"} -->
+# Workers' Compensation Law § 90 — Dividends
+
+[Workers' Compensation Law](../README.md) › [Article 6 — State Insurance Fund](README.md)
+
+```text
+  § 90. Dividends. Policyholders insured in the state insurance fund may
+be divided into such groups as shall be equitable for the purpose of
+accounting and declaration of dividends but for the purpose of paying
+compensation the state fund shall be deemed one and indivisible.
+Separate accounts shall be kept of income and of losses and expenses
+incurred, including contributions to catastrophe surplus and reserves
+adequate to meet anticipated losses and carry all claims to maturity,
+for each such group. If such accounting shows a balance remaining to the
+credit of the group at the close of any policy period, which shall be
+deemed to be safely and properly so applied, there may be credited or
+paid to each individual member of such group such proportion of such
+balance as the amount of his earned premium sustains to the total earned
+premium of the group for the period for which the accounting is made. If
+any member who has withdrawn from the group would otherwise have been
+entitled to such a dividend, the same may be credited or paid to him.
+```

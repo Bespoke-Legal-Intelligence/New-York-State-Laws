@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 4314", "kind": "section", "law_id": "CVP", "location_id": "4314", "path": "ARTICLE 43 › SECTION 4314", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/4314.md", "title": "Successor referee"} -->
+# Civil Practice Law and Rules § 4314 — Successor referee
+
+[Civil Practice Law and Rules](../README.md) › [Article 43 — Trial By a Referee](README.md)
+
+```text
+  Rule 4314. Successor referee. Upon being notified that a referee
+declines or fails to serve, or in the case of the death, resignation or
+removal of a referee, or if a new trial is granted after a reference, on
+motion of any party or on its own initiative, the court may designate a
+successor referee, unless a stipulation upon which the order of
+reference is based expressly provides otherwise.
+```

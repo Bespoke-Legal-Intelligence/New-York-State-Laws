@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 206-A", "kind": "section", "law_id": "GBS", "location_id": "206-A", "path": "ARTICLE 12 › SECTION 206-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/206-A.md", "title": "Advertising of rates for motels and motor courts"} -->
+# General Business Law § 206-A — Advertising of rates for motels and motor courts
+
+[General Business Law](../README.md) › [Article 12 — Hotels and Boarding Houses](README.md)
+
+```text
+  § 206-a. Advertising of rates for motels and motor courts. No person
+engaged in the business of furnishing public lodging accommodations in
+motels and motor courts shall:
+  (a) post or maintain posted on any outdoor or outside advertising sign
+pertaining to such establishment, that may be seen from a public highway
+or street, any rates for accommadations in such establishment unless the
+sign shall have posted thereon both the minimum and maximum room, or
+other rental unit rates, for accommodations offered for rental. All
+posted rates and descriptive data on such sign shall be in type and
+material of the same size and prominence.
+  (b) post or maintain posted on such outdoor or outside advertising
+signs rates for accommodations in any such establishment unless there
+are available in any such establishment, when vacant, accommodations for
+immediate occupancy to meet the posted rates of such advertising signs.
+  (c) post or maintain outdoor or outside advertising signs in
+connection with any such establishment relating to rates which shall
+have thereon any untrue, false, fraudulent or misleading representations
+or statements as to any matter whatsoever.
+  Advertising signs stating the rate per person and bearing the legend
+"and up" shall not be deemed to comply with the provisions of this
+section.
+  Any person who violates any of the provisions of this section shall be
+guilty of an offense and subject to a fine of not more than fifty
+dollars.
+```

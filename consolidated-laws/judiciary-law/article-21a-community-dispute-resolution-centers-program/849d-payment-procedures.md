@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 849-D", "kind": "section", "law_id": "JUD", "location_id": "849-D", "path": "ARTICLE 21-A › SECTION 849-D", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/849-D.md", "title": "Payment procedures"} -->
+# Judiciary Law § 849-D — Payment procedures
+
+[Judiciary Law](../README.md) › [Article 21-A — Community Dispute Resolution Centers Program](README.md)
+
+```text
+  § 849-d. Payment procedures. 1. Upon the approval of the chief
+administrator, funds appropriated or available for the purposes of this
+article shall be used for the costs of operation of approved programs.
+The methods of payment or reimbursement for dispute resolution costs
+shall be specified by the chief administrator and may vary among
+centers. All such arrangements shall conform to the eligibility criteria
+of this article and the rules and regulations of the chief
+administrator.
+  2. The state share of the cost of any center approved under this
+section shall include a basic grant of up to forty thousand dollars for
+each county served by the center and may include an additional amount
+not exceeding fifty per centum of the difference between the approved
+estimated cost of the program and the basic grant.
+```

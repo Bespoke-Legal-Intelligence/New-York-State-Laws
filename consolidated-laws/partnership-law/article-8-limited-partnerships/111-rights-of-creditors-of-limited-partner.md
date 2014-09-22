@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 111", "kind": "section", "law_id": "PTR", "location_id": "111", "path": "ARTICLE 8 › SECTION 111", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/111.md", "title": "Rights of creditors of limited partner"} -->
+# Partnership Law § 111 — Rights of creditors of limited partner
+
+[Partnership Law](../README.md) › [Article 8 — Limited Partnerships](README.md)
+
+```text
+  § 111. Rights of creditors of limited partner.  (1) On due application
+to a court of competent jurisdiction by any judgment creditor of a
+limited partner, the court may charge the interest of the indebted
+limited partner with payment of the unsatisfied amount of the judgment
+debt; and may appoint a receiver, and make all other orders, directions,
+and inquiries which the circumstances of the case may require.
+  (2) The interest may be redeemed with the separate property of any
+general partner, but may not be redeemed with partnership property.
+  (3) The remedies conferred by subdivision one of this section shall
+not be deemed exclusive of others which may exist.
+  (4) Nothing in this act shall be held to deprive a limited partner of
+his statutory exemption.
+```

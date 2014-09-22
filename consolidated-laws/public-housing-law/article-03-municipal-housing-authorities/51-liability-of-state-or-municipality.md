@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 51", "kind": "section", "law_id": "PBG", "location_id": "51", "path": "ARTICLE 3 › SECTION 51", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/51.md", "title": "Liability of state or municipality"} -->
+# Public Housing Law § 51 — Liability of state or municipality
+
+[Public Housing Law](../README.md) › [Article 3 — Municipal Housing Authorities](README.md)
+
+```text
+  § 51. Liability of state or municipality.  1. The bonds or other
+obligations of an authority shall not be a debt of the state or the
+municipality and neither the state nor the municipality shall be liable
+thereon nor shall an authority have power in any way to pledge the
+credit of the state or the municipality, nor shall the transfer from the
+authority to the municipality or the vesting in the municipality of
+property theretofore belonging to an authority impose upon the
+municipality any obligations except such as it may expressly assume. The
+foregoing provisions shall not apply in the event of a guaranty by a
+municipality of the bonds or obligations of an authority.
+  2. Notwithstanding the provisions of the foregoing paragraph, a
+municipality shall be liable for the repayment of any loans and interest
+thereon made by the state to an authority, acting as an instrumentality
+of such municipality.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 92", "kind": "section", "law_id": "TCP", "location_id": "92", "path": "ARTICLE 7 › SECTION 92", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/92.md", "title": "Semi-annual statements"} -->
+# Transportation Corporations Law § 92 — Semi-annual statements
+
+[Transportation Corporations Law](../README.md) › [Article 7 — Pipe Line Corporations](README.md)
+
+```text
+  § 92. Semi-annual statements. Every such corporation shall make a
+semi-annual statement showing the quantity of all commodities on hand on
+the first day of the period for which the statement is made; the
+quantity received and delivered during such period, and the quantity on
+hand on the last day of such period, and the quantity represented by
+outstanding certificates, receipts or orders, and the credit balances on
+the books of the corporation. Such statement shall be made on or before
+the tenth day of the month succeeding the period for which the statement
+is made and verified by the oaths of the president and secretary, and
+shall be filed within three days thereafter in the office of the county
+clerk in the county in which the office of the corporation is located,
+and a true copy thereof shall be posted in a conspicuous place in its
+office for at least thirty days thereafter.
+```

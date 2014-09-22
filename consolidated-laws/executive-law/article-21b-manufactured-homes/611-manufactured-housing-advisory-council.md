@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 611", "kind": "section", "law_id": "EXC", "location_id": "611", "path": "ARTICLE 21-B › SECTION 611", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/611.md", "title": "Manufactured housing advisory council"} -->
+# Executive Law § 611 — Manufactured housing advisory council
+
+[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+
+```text
+  § 611. Manufactured housing advisory council. 1. There is hereby
+established within the department a manufactured housing advisory
+council. The advisory council shall consist of fifteen members to be
+appointed as follows:
+  a. Four members shall be appointed by the governor; one of whom shall
+be a member, officer, or employee of an installer, one of whom shall be
+a member, officer, or employee of a park residence advocacy association,
+one of whom shall be a member, officer, or employee of a retailer, and
+one of whom shall be a member, officer, or employee of a trade
+association representing the manufactured home industry.
+  b. Four members shall be appointed by the temporary president of the
+senate; one of whom shall be a member, officer, or employee of a
+manufacturer, one of whom shall be a member, officer, or employee of the
+engineering industry involved in manufactured housing issues, one of
+whom shall be a member, officer, or employee of a consumer advocacy
+association involved in manufactured housing issues, and one of whom
+shall be a manufactured housing resident owner.
+  c. Four members shall be appointed by the speaker of the assembly; one
+of whom shall be a member, officer, or employee of a manufacturer, one
+of whom shall be a member, officer, or employee of the banking industry
+involved in manufactured housing issues, one of whom shall be a member,
+officer, or employee of a consumer advocacy association involved in
+manufactured housing issues, and one of whom shall be a manufactured
+housing resident owner.
+  d. One member shall be appointed by the minority leader of the senate;
+who shall be a manufactured home resident owner.
+  e. One member shall be appointed by the minority leader of the
+assembly; who shall be a manufactured home resident owner.
+  2. The secretary shall be a member of the advisory council and shall
+serve as chair to the council.
+```

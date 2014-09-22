@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 922", "kind": "section", "law_id": "RPA", "location_id": "922", "path": "ARTICLE 9 › SECTION 922", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/922.md", "title": "Meeting of commissioners; report of actual partition; confirming or setting aside report"} -->
+# Real Property Actions and Proceedings Law § 922 — Meeting of commissioners; report of actual partition; confirming or setting aside report
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 9 — Action For Partition](README.md)
+
+```text
+  § 922. Meeting of commissioners; report of actual partition;
+confirming or setting aside report. 1. All the commissioners shall meet
+together in the performance of any of their duties, but the acts of a
+majority so met are valid.  They shall make a full report of their
+proceedings, under their hands, specifying therein the manner in which
+they have discharged their trust, describing the property divided and
+the share or interest in a share allotted to each party, with the
+quantity, courses and distances or other particular description of each
+share, and a description of the monuments; and specifying the items of
+their charges. Their report shall be acknowledged or proved, and
+certified, in like manner as a deed to be recorded, and shall be filed
+in the office of the clerk.
+  2. The court shall confirm or set aside the report, and, if necessary,
+may appoint new commissioners.
+  3. If the commissioners report that the property, or a particular lot,
+tract or other portion thereof is so circumstanced that a partition
+thereof cannot be made without great prejudice to the owners, the court
+may render a supplemental interlocutory judgment reciting the facts and
+directing that the property or the distinct parcel so circumstanced be
+sold.
+```

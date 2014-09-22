@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 333", "kind": "section", "law_id": "BNK", "location_id": "333", "path": "ARTICLE 8-A › SECTION 333", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/333.md", "title": "Access to safe deposit boxes by certain fiduciaries"} -->
+# Banking Law § 333 — Access to safe deposit boxes by certain fiduciaries
+
+[Banking Law](../README.md) › [Article 8-A — Safe Deposit Business](README.md)
+
+```text
+  § 333. Access to safe deposit boxes by certain fiduciaries.  Where a
+safe deposit box is let by a lessor to one or more persons acting as
+executors, administrators, trustees, guardians, a committee, or as
+conservators, the lessor may, except as otherwise expressly provided by
+the terms of the lease or by the will or other instrument or order or
+decree under which such person or persons may be acting, allow access
+thereto as follows:
+  1. By any one or more of the persons acting as executors or
+administrators;
+  2. By any one or more of the persons acting as trustees, guardians, a
+committee, or as conservators when authorized in writing signed by the
+other person or all other persons so acting.
+  3. By any agent, authorized in a writing signed and duly acknowledged
+by the person, or if more than one, by all the persons acting as
+executors, administrators, trustees or guardians, a committee, or as
+conservators.
+```

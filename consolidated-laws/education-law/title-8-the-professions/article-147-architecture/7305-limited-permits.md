@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7305", "kind": "section", "law_id": "EDN", "location_id": "7305", "path": "TITLE 8 › ARTICLE 147 › SECTION 7305", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7305.md", "title": "Limited permits"} -->
+# Education Law § 7305 — Limited permits
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 147 — Architecture](README.md)
+
+```text
+  § 7305. Limited permits.  1. On recommendation of the board, the
+department may issue a limited permit to practice architecture to an
+architect not a resident of this state and having no established
+business in this state who is legally qualified to practice as such in
+his own country or state and who submits evidence satisfactory to the
+board of established and recognized professional standing in his own
+country or state and who submits satisfactory certifications as to
+character and qualifications. Such limited permit shall entitle the
+holder to practice architecture in this state but only in connection
+with the specific project for which it is granted.
+  2. Fees. The fee for each limited permit shall be one hundred five
+dollars.
+```

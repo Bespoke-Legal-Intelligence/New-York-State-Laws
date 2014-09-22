@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 640", "kind": "section", "law_id": "EXC", "location_id": "640", "path": "ARTICLE 23 › SECTION 640", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/640.md", "title": "Fair treatment standards for crime victims"} -->
+# Executive Law § 640 — Fair treatment standards for crime victims
+
+[Executive Law](../README.md) › [Article 23 — Fair Treatment Standards For Crime Victims](README.md)
+
+```text
+  § 640. Fair treatment standards for crime victims. 1. The commissioner
+of the division of criminal justice services, in consultation with the
+director of the office of victim services and other appropriate
+officials, shall promulgate standards for the treatment of the innocent
+victims of crime by the agencies which comprise the criminal justice
+system of the state.
+  2. For the purposes of this article the term "criminal justice" shall
+include juvenile justice and the objectives and criteria set forth in
+sections six hundred forty-one and six hundred forty-two of this article
+shall apply to presentment agencies as defined in subdivision twelve of
+section 301.2 of the family court act.
+```

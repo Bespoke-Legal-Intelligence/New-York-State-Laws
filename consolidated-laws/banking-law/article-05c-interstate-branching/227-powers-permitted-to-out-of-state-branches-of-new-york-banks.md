@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 227", "kind": "section", "law_id": "BNK", "location_id": "227", "path": "ARTICLE 5-C › SECTION 227", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/227.md", "title": "Powers permitted to out-of-state branches of New York banks"} -->
+# Banking Law § 227 — Powers permitted to out-of-state branches of New York banks
+
+[Banking Law](../README.md) › [Article 5-C — Interstate Branching](README.md)
+
+```text
+  § 227. Powers permitted to out-of-state branches of New York banks.  A
+New York bank that opens, occupies and maintains one or more branch
+offices in any state may exercise such powers at such branch or branches
+as would be permitted at such place or places to an out-of-state state
+bank maintaining a branch or branches at such place or places with the
+type of charter that most nearly corresponds to the charter of such New
+York bank; provided, however, that prior to exercising in any state any
+power not permitted to be exercised by such New York bank in this state,
+it shall apply to the superintendent to exercise such power and approval
+therefor shall be given unless the superintendent determines that the
+exercise of such power is contrary to the declaration of policy
+contained in section ten of this chapter.
+```

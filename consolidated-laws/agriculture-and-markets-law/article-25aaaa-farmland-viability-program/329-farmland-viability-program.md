@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 329", "kind": "section", "law_id": "AGM", "location_id": "329", "path": "ARTICLE 25-AAAA › SECTION 329", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/329.md", "title": "Farmland viability program"} -->
+# Agriculture and Markets Law § 329 — Farmland viability program
+
+[Agriculture and Markets Law](../README.md) › [Article 25-AAAA — Farmland Viability Program](README.md)
+
+```text
+  § 329. Farmland viability program. The commissioner shall initiate and
+maintain a state farmland viability program within the department which
+is intended to improve the profitability and efficiency of participating
+farms. The program shall provide technical and financial assistance in
+the form of matching grants to applicants for projects which contribute
+to overall farm profitability and sound environmental management.
+  1. The commissioner may award grants, within available funding, for
+the following purposes:
+  a. to a county agricultural and farmland protection board for the
+implementation of any component of its approved agricultural protection
+plan which addresses improved farm profitability;
+  b. to an applicant, other than a county agricultural and farmland
+protection board, for the development of a farmland viability plan or a
+portion of such a plan, which shall assess overall farm profitability
+and identify potential strategies for improved farm profitability such
+as farm expansion, value added production, diversification,
+environmental management, or marketing and promotional activities, and
+  c. to an applicant, other than a county agricultural and farmland
+protection board, for the implementation of any component of its
+farmland viability plan which has been approved by the commissioner.
+  2. The commissioner shall consult with the college of agriculture and
+life sciences at Cornell university and the state advisory council on
+agriculture to identify and coordinate available resources for the
+farmland viability program.
+```

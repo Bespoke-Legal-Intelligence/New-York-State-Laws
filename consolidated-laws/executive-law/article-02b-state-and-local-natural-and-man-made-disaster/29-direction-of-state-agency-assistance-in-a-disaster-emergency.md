@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 29", "kind": "section", "law_id": "EXC", "location_id": "29", "path": "ARTICLE 2-B › SECTION 29", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/29.md", "title": "Direction of state agency assistance in a disaster emergency"} -->
+# Executive Law § 29 — Direction of state agency assistance in a disaster emergency
+
+[Executive Law](../README.md) › [Article 2-B — State and Local Natural and Man-made Disaster Preparedness](README.md)
+
+```text
+  § 29. Direction of state agency assistance in a disaster emergency.
+Upon the declaration of a state disaster emergency the governor may
+direct any and all agencies of the state government to provide
+assistance under the coordination of the disaster preparedness
+commission. Such state assistance may include: (1) utilizing, lending,
+or giving to political subdivisions, with or without compensation
+therefor, equipment, supplies, facilities, services of state personnel,
+and other resources, other than the extension of credit; (2)
+distributing medicine, medical supplies, food and other consumable
+supplies through any public or private agency authorized to distribute
+the same; (3) performing on public or private lands temporary emergency
+work essential for the protection of public health and safety, clearing
+debris and wreckage, making emergency repairs to and temporary
+replacements of public facilities of political subdivisions damaged or
+destroyed as a result of such disaster; and (4) making such other use of
+their facilities, equipment, supplies and personnel as may be necessary
+to assist in coping with the disaster or any emergency resulting
+therefrom.
+```

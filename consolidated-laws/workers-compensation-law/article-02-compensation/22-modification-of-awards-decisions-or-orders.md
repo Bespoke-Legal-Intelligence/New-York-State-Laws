@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 22", "kind": "section", "law_id": "WKC", "location_id": "22", "path": "ARTICLE 2 › SECTION 22", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/22.md", "title": "Modification of awards, decisions or orders"} -->
+# Workers' Compensation Law § 22 — Modification of awards, decisions or orders
+
+[Workers' Compensation Law](../README.md) › [Article 2 — Compensation](README.md)
+
+```text
+  § 22. Modification of awards, decisions or orders. Upon its own motion
+or upon the application of any party in interest, on the ground of a
+change in conditions or proof of erroneous wage rate, the board may at
+any time, subject to the limitations set forth in sections twenty-five-a
+and one hundred and twenty-three of this chapter, review any award,
+decision or order and, on such review, may make an award ending,
+diminishing or increasing the compensation previously awarded, subject
+to the maximum or minimum provided in this chapter, and shall
+immediately send to the parties a copy of its decision, which shall
+include a statement of the facts which formed the basis of its action.
+No such review shall affect such award as regards any moneys already
+paid, except that an award increasing the compensation rate may be made
+effective from date of injury, and except that if any part of the
+compensation due or to become due is unpaid, an award decreasing the
+compensation rate may be made effective from the date of injury, and any
+payments made prior thereto in excess of such decreased rate shall be
+deducted from any unpaid compensation, in such manner and by such
+methods as may be determined by the board.
+```

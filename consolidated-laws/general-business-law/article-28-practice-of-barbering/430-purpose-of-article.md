@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 430", "kind": "section", "law_id": "GBS", "location_id": "430", "path": "ARTICLE 28 › SECTION 430", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/430.md", "title": "Purpose of article"} -->
+# General Business Law § 430 — Purpose of article
+
+[General Business Law](../README.md) › [Article 28 — Practice of Barbering](README.md)
+
+```text
+  § 430. Purpose of article.  The need for technical skill, training and
+experience, good health, good moral character and other fundamental
+qualities and qualifications in persons engaged in the practice of
+barbering, as herein defined, having been unquestionably established and
+demonstrated and in order to safeguard the health of the persons who
+patronize the barber shops of our state and because of the evils
+connected with itinerant barbers and barber shops and because of the
+inadequacy of local regulation, it is the purpose of the legislature, in
+enacting this article, to safeguard and protect the barbers of this
+state from the evils of itinerant barbers and barber shops and to
+safeguard and protect the lives, health and well being of those persons
+who patronize the barber shops of our state by making adequate provision
+for the examination, licensing and regulation of the barber shops and
+the barbers and apprentices to whom such persons submit themselves for
+barber work.
+```

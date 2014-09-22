@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 8", "kind": "section", "law_id": "GMU", "location_id": "8", "path": "ARTICLE 2 › SECTION 8", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/8.md", "title": "Application of revenues of a public improvement or part thereof, or service"} -->
+# General Municipal Law § 8 — Application of revenues of a public improvement or part thereof, or service
+
+[General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+```text
+  § 8. Application of revenues of a public improvement or part thereof,
+or service. For the purpose of determining the amount of taxes which may
+be raised on real estate pursuant to section ten of article eight of the
+constitution the revenues received in each fiscal year by any county,
+city or village from that portion of a public improvement or part
+thereof, or service, owned or rendered by such municipal corporation for
+which bonds or capital notes are issued after January first, nineteen
+hundred fifty, shall be applied first to the payment of all costs of
+operation, maintenance and repairs thereof incurred during such fiscal
+year, and then to the payment of the amounts required in such fiscal
+year to pay the interest on and the amortization of, or payment of, such
+indebtedness contracted for such public improvement or part thereof, or
+service, or such revenues may be deposited in a special fund to be used
+solely for such payments. The provisions of this section shall not
+prohibit the use of excess revenues for any lawful county, city or
+village purpose.  The provisions of this section shall not apply to a
+public improvement or part thereof constructed to provide for the supply
+of water or to a joint sewage or drainage project described in section
+15.00 of the local finance law.
+```

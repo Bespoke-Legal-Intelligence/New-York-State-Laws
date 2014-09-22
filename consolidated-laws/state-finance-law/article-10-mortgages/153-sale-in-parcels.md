@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 153", "kind": "section", "law_id": "STF", "location_id": "153", "path": "ARTICLE 10 › SECTION 153", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/153.md", "title": "Sale in parcels"} -->
+# State Finance Law § 153 — Sale in parcels
+
+[State Finance Law](../README.md) › [Article 10 — Mortgages](README.md)
+
+```text
+  § 153. Sale in parcels. On any such foreclosure, if any person having
+title to a part of the mortgaged premises, by conveyance from or through
+the mortgagor, delivers to the comptroller an affidavit stating that he
+has such title, and describing with certainty such part, the comptroller
+on the sale under such foreclosure shall cause to be first sold that
+part of the mortgaged premises not specified in the affidavit. If the
+part so sold does not produce enough to satisfy the amount so unpaid and
+costs and expenses he shall immediately cause such part or parts of the
+premises as have been conveyed by the mortgagor and described in any
+such affidavit, to be sold, and if more than one part of such premises
+has been so conveyed, and an affidavit made as herein required, the
+comptroller shall cause such parts to be sold in the inverse order of
+the dates of such conveyances, if it is necessary to sell them,
+commencing with the part last conveyed by the mortgagor, and such sale
+shall cease when the proceeds of the sale are sufficient to satisfy the
+amount so unpaid and such costs and expenses.
+```

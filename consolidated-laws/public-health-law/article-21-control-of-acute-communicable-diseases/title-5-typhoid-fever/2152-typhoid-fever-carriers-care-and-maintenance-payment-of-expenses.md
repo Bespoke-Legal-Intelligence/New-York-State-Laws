@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2152", "kind": "section", "law_id": "PBH", "location_id": "2152", "path": "ARTICLE 21 › TITLE 5 › SECTION 2152", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2152.md", "title": "Typhoid fever; carriers; care and maintenance, payment of expenses"} -->
+# Public Health Law § 2152 — Typhoid fever; carriers; care and maintenance, payment of expenses
+
+[Public Health Law](../../README.md) › [Article 21 — Control of Acute Communicable Diseases](../README.md) › [Title 5 — Typhoid Fever](README.md)
+
+```text
+  § 2152. Typhoid fever; carriers; care and maintenance, payment of
+expenses.  1. No expenditure for the purposes authorized in sections two
+thousand one hundred fifty and two thousand one hundred fifty-one of
+this chapter, shall be contracted for or incurred by any agency or
+person until after such expense has been authorized and approved by the
+commissioner.
+  2. (a) A verified statement of any such approved expense incurred
+pursuant to this section and sections two thousand one hundred fifty and
+two thousand one hundred fifty-one of this chapter, shall be transmitted
+to the commissioner.
+  (b) The commissioner shall examine the statement and if satisfied that
+such authorized expenses are correct and necessary in accordance with
+rules and regulations adopted by him he shall audit and allow the same
+and when so audited the amount thereof shall be paid by the state
+department of taxation and finance, on the warrant of the state
+comptroller to the institution, agency or person.
+```

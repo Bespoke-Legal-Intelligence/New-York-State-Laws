@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2631", "kind": "section", "law_id": "PBH", "location_id": "2631", "path": "ARTICLE 26-A › SECTION 2631", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2631.md", "title": "Board of visitors; special provision"} -->
+# Public Health Law § 2631 — Board of visitors; special provision
+
+[Public Health Law](../README.md) › [Article 26-A — New York State Veterans' Home](README.md)
+
+```text
+  § 2631. Board of visitors; special provision.  The board of visitors
+of each such home shall consist of nine members appointed from the
+members of the New York departments of the major organizations of war
+veterans to which charters have been issued by Acts of Congress or of
+their women's auxiliaries. The terms of office of such visitors
+hereafter appointed shall be five years, and they shall be so appointed
+that the terms of two of the members shall expire on the first day of
+February of each year, except that the term of but one member shall so
+expire every fifth year. Appointments shall be so made that there will
+be at all times four women and five men members of such board.
+```

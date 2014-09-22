@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1102", "kind": "section", "law_id": "PML", "location_id": "1102", "path": "ARTICLE 11 › SECTION 1102", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1102.md", "title": "Definitions"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1102 — Definitions
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 11 — Interstate Compact On Licensure of Participants In Live Horse Racing With Pari-mutuel Wagering](README.md)
+
+```text
+  § 1102. Definitions. For the purposes of this article, the following
+terms shall have the following meanings:
+  a. "Compact committee" means the organization of officials from the
+party states that is authorized and empowered by this compact to carry
+out the purposes of this compact;
+  b. "Official" means the duly selected member of a party state racing
+commission, or its equivalent, who represents that party state as a
+member of the compact committee;
+  c. "Participants in live racing" means participants in live horse
+racing with pari-mutuel wagering in the party states;
+  d. "Party state" means each state that has enacted this compact; and
+  e. "State" means each of the several states of the United States, the
+District of Columbia, the Commonwealth of Puerto Rico, and each
+territory or possession of the United States.
+```

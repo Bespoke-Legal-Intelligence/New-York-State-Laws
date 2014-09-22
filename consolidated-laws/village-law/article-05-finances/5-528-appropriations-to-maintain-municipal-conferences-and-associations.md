@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Village Law § 5-528", "kind": "section", "law_id": "VIL", "location_id": "5-528", "path": "ARTICLE 5 › SECTION 5-528", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/5-528.md", "title": "Appropriations to maintain municipal conferences and associations"} -->
+# Village Law § 5-528 — Appropriations to maintain municipal conferences and associations
+
+[Village Law](../README.md) › [Article 5 — Finances](README.md)
+
+```text
+  § 5-528 Appropriations to maintain municipal conferences and
+associations. l. The board of trustees of any village is hereby
+authorized to annually include in the budget and raise by taxation a sum
+to meet its proportionate share of the actual and necessary expenses of
+maintaining and continuing the conference of mayors and other municipal
+officials of the state of New York and any of its activities in this
+state for the purpose of devising practical ways and means for obtaining
+greater economy and efficiency in the government thereof.
+  2. The board of trustees of any village is hereby authorized and
+empowered to include annually in the budget and raise by taxation in
+such village, a sum sufficient to defray the proportionate share of such
+village to meet the actual and necessary expenses of maintaining and
+continuing a conference of village officials of the villages in the
+county in which such village is located or a conference composed of
+village officials of villages located in an area of adjoining counties,
+and any of its activities in this state, for the purpose of devising
+practical ways and means of promoting and obtaining greater economy and
+efficiency in the government of such village.
+  3. The board in control of an electric utility, owned and operated by
+the village is hereby authorized to pay from the proceeds of the
+operation of said utility its proportionate share of the actual and
+necessary expenses of maintaining and continuing the municipal electric
+utilities association of the state of New York, and any of its
+activities in this state, for the purpose of devising practical ways and
+means for obtaining greater economy and efficiency in the operation of
+municipally owned electric light plants.
+```

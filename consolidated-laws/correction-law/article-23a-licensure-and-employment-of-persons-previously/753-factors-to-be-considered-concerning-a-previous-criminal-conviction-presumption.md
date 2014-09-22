@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 753", "kind": "section", "law_id": "COR", "location_id": "753", "path": "ARTICLE 23-A › SECTION 753", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/753.md", "title": "Factors to be considered concerning a previous criminal conviction; presumption"} -->
+# Correction Law § 753 — Factors to be considered concerning a previous criminal conviction; presumption
+
+[Correction Law](../README.md) › [Article 23-A — Licensure and Employment of Persons Previously Convicted of One or More Criminal Offenses](README.md)
+
+```text
+  § 753. Factors to be considered concerning a previous criminal
+conviction; presumption. 1. In making a determination pursuant to
+section seven hundred fifty-two of this chapter, the public agency or
+private employer shall consider the following factors:
+  (a) The public policy of this state, as expressed in this act, to
+encourage the licensure and employment of persons previously convicted
+of one or more criminal offenses.
+  (b) The specific duties and responsibilities necessarily related to
+the license or employment sought or held by the person.
+  (c) The bearing, if any, the criminal offense or offenses for which
+the person was previously convicted will have on his fitness or ability
+to perform one or more such duties or responsibilities.
+  (d) The time which has elapsed since the occurrence of the criminal
+offense or offenses.
+  (e) The age of the person at the time of occurrence of the criminal
+offense or offenses.
+  (f) The seriousness of the offense or offenses.
+  (g) Any information produced by the person, or produced on his behalf,
+in regard to his rehabilitation and good conduct.
+  (h) The legitimate interest of the public agency or private employer
+in protecting property, and the safety and welfare of specific
+individuals or the general public.
+  2. In making a determination pursuant to section seven hundred
+fifty-two of this chapter, the public agency or private employer shall
+also give consideration to a certificate of relief from disabilities or
+a certificate of good conduct issued to the applicant, which certificate
+shall create a presumption of rehabilitation in regard to the offense or
+offenses specified therein.
+```

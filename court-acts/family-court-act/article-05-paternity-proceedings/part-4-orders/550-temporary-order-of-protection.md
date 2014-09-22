@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 550", "kind": "section", "law_id": "FCT", "location_id": "550", "path": "ARTICLE 5 › PART 4 › SECTION 550", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/550.md", "title": "Temporary order of protection"} -->
+# Family Court Act § 550 — Temporary order of protection
+
+[Family Court Act](../../README.md) › [Article 5 — Paternity Proceedings](../README.md) › [Part 4 — Orders](README.md)
+
+```text
+  § 550. Temporary order of protection. (a) Upon the filing of a
+petition or counter-claim under this article, the court for good cause
+shown may issue a temporary order of protection which may contain any of
+the provisions authorized on the making of an order of protection under
+section five hundred fifty-one.
+  (b) A temporary order of protection is not a finding of wrongdoing.
+  (c) The court may issue or extend a temporary order of protection ex
+parte or on notice simultaneously with the issuance of a warrant
+directing that the respondent be arrested and brought before the court
+pursuant to section five hundred twenty-six of this article.
+  Notwithstanding the foregoing provisions, an order of protection, or
+temporary order of protection where applicable, may be entered against a
+former spouse and persons who have a child in common, regardless of
+whether such persons have been married or have lived together at any
+time, or against a member of the same family or household as defined in
+subdivision one of section eight hundred twelve of this act.
+```

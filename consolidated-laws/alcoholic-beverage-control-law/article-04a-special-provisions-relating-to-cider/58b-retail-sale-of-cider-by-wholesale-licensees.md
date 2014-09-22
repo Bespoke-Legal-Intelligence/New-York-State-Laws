@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 58-B", "kind": "section", "law_id": "ABC", "location_id": "58-B", "path": "ARTICLE 4-A › SECTION 58-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/58-B.md", "title": "Retail sale of cider by wholesale licensees"} -->
+# Alcoholic Beverage Control Law § 58-B — Retail sale of cider by wholesale licensees
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 4-A — Special Provisions Relating to Cider](README.md)
+
+```text
+  § 58-b. Retail sale of cider by wholesale licensees. 1.
+Notwithstanding any other law upon payment to the liquor authority of an
+additional annual fee of one hundred twenty-five dollars, the liquor
+authority may in its discretion and upon such terms and conditions as it
+may prescribe, issue to a licensed cider producer upon application
+therefor a certificate authorizing such producer to sell cider at retail
+in sealed containers to a householder for consumption in his home, but
+no sale to such householder shall be in quantities aggregating more than
+fifteen gallons. Revenues received by any such licensed cider producer
+from the sale of cider at retail to householders under such a
+certificate during the term thereof shall not exceed five per centum of
+all the revenues derived by such licensee from the sale of apples and
+cider during such term.
+  2. No retail licensee of cider authorized by this section shall keep
+or permit to be kept upon the licensed premises, any cider in any
+unsealed bottle or other unsealed container, except for the purpose of
+cider tasting or sampling by any person pursuant to authorization to
+conduct such a sampling or tasting pursuant to subdivision two of
+section fifty-eight of this article, except to those persons to whom
+sales are prohibited in section sixty-five of this chapter.
+```

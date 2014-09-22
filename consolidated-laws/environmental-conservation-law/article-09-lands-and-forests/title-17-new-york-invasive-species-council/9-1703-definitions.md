@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 9-1703", "kind": "section", "law_id": "ENV", "location_id": "9-1703", "path": "ARTICLE 9 › TITLE 17 › SECTION 9-1703", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/9-1703.md", "title": "Definitions"} -->
+# Environmental Conservation Law § 9-1703 — Definitions
+
+[Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 17 — New York Invasive Species Council](README.md)
+
+```text
+§ 9-1703. Definitions.
+  As used in this title:
+  1. "Advisory committee" means the New York invasive species advisory
+committee established by section 9-1707 of this title.
+  2. "Council" means the New York invasive species council established
+by section 9-1705 of this title.
+  3. "Control" means, as appropriate, eradicating, suppressing,
+reducing, or managing invasive species populations, preventing spread of
+invasive species from areas where they are present, and taking steps
+such as restoration of native species and habitats to reduce the effects
+of invasive species and to prevent further invasions.
+  4. "Ecosystem" means the complex of a community of organisms and its
+environment.
+  5. "Introduction" means the intentional or unintentional escape,
+release, dissemination, or placement of a species into an ecosystem as a
+result of human activity.
+  6. "Native species" means, with respect to a particular ecosystem, a
+species that, other than as a result of an introduction, historically
+occurred or currently occurs in that ecosystem.
+  7. "Species" means a group of organisms all of which have a high
+degree of physical and genetic similarity, generally interbreed only
+among themselves, and show persistent differences from members of allied
+groups of organisms.
+  8. "Plan" means the plan developed pursuant to section 9-1705 of this
+title.
+  9. "GIS" means geographic information system.
+  10. "Invasive species" means a species that is:
+  (a) nonnative to the ecosystem under consideration; and
+  (b) whose introduction causes or is likely to cause economic or
+environmental harm or harm to human health. For the purposes of this
+paragraph, the harm must significantly outweigh any benefits.
+```

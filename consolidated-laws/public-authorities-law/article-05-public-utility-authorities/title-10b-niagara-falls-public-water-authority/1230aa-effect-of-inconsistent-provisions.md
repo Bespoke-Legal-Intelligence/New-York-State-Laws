@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1230-AA", "kind": "section", "law_id": "PBA", "location_id": "1230-AA", "path": "ARTICLE 5 › TITLE 10-B › SECTION 1230-AA", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1230-AA.md", "title": "Effect of inconsistent provisions"} -->
+# Public Authorities Law § 1230-AA — Effect of inconsistent provisions
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 10-B — Niagara Falls Public Water Authority](README.md)
+
+```text
+  § 1230-aa. Effect of inconsistent provisions. Insofar as the
+provisions of this title are inconsistent with the provisions of any
+other act, general or special, or of any charter, local law, ordinance
+or resolution of any municipality, the provisions of this title shall be
+controlling. Nothing contained in this section shall be held to
+supplement or otherwise expand the powers or duties of the authority or
+water board otherwise set forth in this title. Except as specifically
+provided for in this title, in the performance of any of its functions,
+powers and duties, the authority and the water board shall be subject to
+all applicable general or special laws of the state, the county charter,
+city charter and any local law or ordinance.
+```

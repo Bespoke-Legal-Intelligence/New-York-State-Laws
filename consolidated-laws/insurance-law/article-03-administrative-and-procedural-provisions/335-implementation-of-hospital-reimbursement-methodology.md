@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 335", "kind": "section", "law_id": "ISC", "location_id": "335", "path": "ARTICLE 3 › SECTION 335", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/335.md", "title": "Implementation of hospital reimbursement methodology"} -->
+# Insurance Law § 335 — Implementation of hospital reimbursement methodology
+
+[Insurance Law](../README.md) › [Article 3 — Administrative and Procedural Provisions](README.md)
+
+```text
+  § 335. Implementation of hospital reimbursement methodology. The
+superintendent shall have the power to prescribe rules and regulations
+governing insurer procedures and subscriber contract provisions
+necessary to implement a hospital reimbursement methodology established
+in accordance with the provisions of article twenty-eight of the public
+health law, and insurer procedures and subscriber contract provisions
+necessary to implement a hospital inpatient discharge review program
+established in accordance with the provisions of section twenty-eight
+hundred three-i of the public health law, and to establish standards,
+criteria and procedures for evaluation of insurer performance in
+offering contracts for hospital and medical benefits on an open
+enrollment basis necessary for a determination of the hospital payment
+rate conversion factor in accordance with the provisions of paragraph
+(i) of subdivision eleven of section twenty-eight hundred seven-c of the
+public health law.
+  The superintendent shall periodically report his findings and
+conclusions to the commissioner of health and to the chairman and
+vice-chairman of the council on health care financing concerning insurer
+performance in offering contracts for hospital and medical benefits on
+an open enrollment basis.
+```

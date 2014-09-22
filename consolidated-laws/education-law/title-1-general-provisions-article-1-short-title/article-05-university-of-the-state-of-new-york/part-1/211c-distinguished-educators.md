@@ -1,0 +1,69 @@
+﻿<!-- nyslaw {"citation": "Education Law § 211-C", "kind": "section", "law_id": "EDN", "location_id": "211-C", "path": "TITLE 1 › ARTICLE 5 › PART 1 › SECTION 211-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/211-C.md", "title": "Distinguished educators"} -->
+# Education Law § 211-C — Distinguished educators
+
+[Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
+
+```text
+  § 211-c. Distinguished educators. The regents shall establish a
+distinguished educator program that recognizes educational leaders who
+have agreed to assist in improving the performance of low performing
+school districts.
+  1. Building principals, superintendents of schools and teachers
+including retirees and current employees of school districts, under
+whose leadership schools have demonstrated consistent growth in academic
+performance and other individuals who have demonstrated educational
+expertise, including superior performance in the classroom, shall be
+eligible for designation by the regents as distinguished educators.
+Provided, however, individuals employed by for-profit entities shall not
+be eligible for such recognition.
+  2. From the pool of distinguished educators designated by the regents
+pursuant to subdivision one of this section, the commissioner shall
+appoint distinguished educators who have expressed their willingness to
+assist low performing districts in improving their academic performance.
+To the extent practicable, the commissioner shall appoint distinguished
+educators to assist districts with comparable demographics to the
+schools or districts that are or were under such educator's leadership.
+  3. The commissioner may appoint a distinguished educator to a school
+district;
+  a. when such district or a school within such district has failed to
+achieve adequate yearly progress for four or more years;
+  b. as a member of a joint school intervention team pursuant to
+paragraph b of subdivision two of section two hundred eleven-b of this
+part.
+  4. The school district to which a distinguished educator is appointed
+shall cooperate fully with an appointed distinguished educator.
+  5. An appointed distinguished educator shall assess the learning
+environment of schools in the district, review or provide assistance in
+the development and implementation of any district improvement plan
+and/or any corrective action, restructuring, or comprehensive plan of
+any school within the district to which the distinguished educator is
+assigned. Such distinguished educator shall either endorse without
+change or make recommendations for modifications to any such plan to the
+board of education, trustees, or chancellor, in a school district in a
+city of one million or more inhabitants, and the commissioner. Upon
+receipt of any recommendations for modification, the board of education,
+trustees, or chancellor shall either modify the plans accordingly or
+provide a written explanation to the commissioner of its reasons for not
+adopting such recommendations. The commissioner shall direct the
+district to modify the plans as recommended by the distinguished
+educator unless the commissioner finds that the written explanation
+provided by the district has compelling merit.
+  6. Appointed distinguished educators shall be deemed ex-officio,
+non-voting members of the board of education or trustees. In a school
+district in a city of one million or more inhabitants, any such
+distinguished educator shall be deemed an ex-officio, non-voting member
+of the community district education council or the city board, as
+applicable.
+  7. The reasonable and necessary expenses incurred by the appointed
+distinguished educators while performing their official duties shall be
+paid by the school district.
+  8. If an appointed distinguished educator is employed by a school
+district or charter school, it shall be the duty of the board of
+education or trustees of such school district, the chancellor of a city
+school district in a city of one million or more inhabitants, or the
+board of trustees of such charter school to facilitate the efforts of
+any such appointed distinguished educators in their employ by granting
+reasonable leave requests and otherwise accommodating their efforts, to
+the extent such efforts do not substantially interfere with the
+educator's performance of his or her regular duties.
+```

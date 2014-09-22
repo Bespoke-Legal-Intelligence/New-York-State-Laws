@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3032", "kind": "section", "law_id": "PBA", "location_id": "3032", "path": "ARTICLE 10 › TITLE 3 › SECTION 3032", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3032.md", "title": "Definitions"} -->
+# Public Authorities Law § 3032 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 10 — New York State Municipal Assistance Corporation Act](../README.md) › [Title 3 — Municipal Assistance Corporation For the City of New York](README.md)
+
+```text
+  * § 3032. Definitions. As used in this title, the following words and
+terms shall have the following meanings unless the context shall
+indicate another or different meaning or intent:
+  1. "Corporation" means the corporate governmental agency created by
+section three thousand thirty-three of this chapter.
+  2. "City" means the city of New York.
+  3. "Mayor" means the mayor of the city of New York.
+  4. "City comptroller" means the comptroller of the city of New York.
+  5. "City budget director" means the director of management and budget
+of the city of New York.
+  6. "Short-term obligations" means tax anticipation notes, revenue
+anticipation notes, bond anticipation notes, budget notes and urban
+renewal notes.
+  * NB The corporation shall continue for a term ending the later of
+July 1, 2008 or one year after its liabilities have been fully paid and
+discharged per § 3033 sub 1.
+```

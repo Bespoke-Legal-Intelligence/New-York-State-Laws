@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 701", "kind": "section", "law_id": "GBS", "location_id": "701", "path": "ARTICLE 34 › SECTION 701", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/701.md", "title": "Definitions"} -->
+# General Business Law § 701 — Definitions
+
+[General Business Law](../README.md) › [Article 34 — Creditor Billing Errors](README.md)
+
+```text
+  § 701. Definitions. Whenever used in this article:
+  1. "Consumer" means a natural person.
+  2. "Creditor" means a person, partnership, corporation, association or
+other entity who, in the ordinary course of business, regularly extends
+consumer credit.
+  3. "Consumer credit" means credit extended to a consumer, primarily
+for personal, family or household purposes, pursuant to a plan under
+which the creditor may permit the consumer to make purchases or obtain
+loans, from time to time, directly from the creditor or indirectly by
+use of a credit card, check or other device, as the plan may provide.
+  4. "Billing error" means the initial occurrence of an error by
+omission or commission by the creditor in a billing statement given to
+the consumer by the creditor in (a) posting any debit or credit or (b)
+the computation of any amount or (c) any similar error of an accounting
+nature or (d) posting any debit for goods which were not received by the
+consumer as required by the provisions of subdivision fourteen of
+section four hundred thirteen of the personal property law.
+```

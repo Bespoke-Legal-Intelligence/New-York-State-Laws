@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-0913", "kind": "section", "law_id": "ENV", "location_id": "71-0913", "path": "ARTICLE 71 › TITLE 9 › SECTION 71-0913", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-0913.md", "title": "Reciprocal enforcement of violations in boundary waters"} -->
+# Environmental Conservation Law § 71-0913 — Reciprocal enforcement of violations in boundary waters
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 9 — Enforcement of Articles 11 and 13--the Fish and Wildlife Law](README.md)
+
+```text
+§ 71-0913. Reciprocal enforcement of violations in boundary waters.
+  If and when the state of Vermont, or the state of New Jersey, or the
+state of Pennsylvania, or the state of Connecticut, or the state of
+Rhode Island, as the case may be, shall enact a similar law for the
+arrest and punishment of violations of the conservation law or fish laws
+of such state or of the provisions listed in section 71-0501 or under
+titles 5 through 15 inclusive and title 33 of this article, committed or
+attempted by any person fishing in any waters or parts thereof lying
+between such state and the state of New York, any conservation officer
+or other person, who is authorized to make arrests for violations of the
+conservation or fish laws of such state or of the provisions listed in
+section 71-0501 or under titles 5 through 15 inclusive and title 33 of
+this article, shall have power and authority to make arrests on any part
+of such waters between such state and the State of New York, or the
+shores thereof, and to take the person so arrested for trial to the
+state in which the violation was committed and there to prosecute him
+according to the laws of such state.
+```

@@ -1,0 +1,112 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4656*2", "kind": "section", "law_id": "PBH", "location_id": "4656*2", "path": "ARTICLE 46-B › TITLE 4 › SECTION 4656*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4656_2.md", "title": "General requirements; applicability of laws to assisted living and enhanced assisted living"} -->
+# Public Health Law § 4656*2 — General requirements; applicability of laws to assisted living and enhanced assisted living
+
+[Public Health Law](../../README.md) › [Article 46-B — Assisted Living](../README.md) › [Title 4 — General Requirements](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 4656. General requirements; applicability of laws to assisted
+living and enhanced assisted living. 1. No entity shall establish,
+operate, provide, conduct, or offer assisted living in this state, or
+hold itself out as an entity which otherwise meets the definition of
+assisted living or advertise itself as assisted living or by a similar
+term, without obtaining the approval of the department to operate as an
+adult care facility pursuant to title two of article seven of the social
+services law, obtaining the approval of the department as required in
+this article, and otherwise acting in accordance with this article.
+Provided however that an entity may simultaneously apply for approval to
+operate as an adult care facility and as an assisted living residence
+pursuant to this article. This subdivision shall not apply to assisted
+living programs approved by the department pursuant to section four
+hundred sixty-one-l of the social services law.
+  2. An assisted living operator shall comply with all applicable
+statutes, rules and regulations required for maintaining a valid
+operating certificate issued pursuant to title two of article seven of
+the social services law and shall obtain and maintain all other
+licenses, permits, registrations, or other governmental approvals
+required in addition to requirements under this article.
+  3. Approval for licensure or certification pursuant to this article
+may be granted only to an applicant who satisfactorily demonstrates:
+  (a) that such applicant possesses a valid operating certificate to
+operate as an adult home or enriched housing program pursuant to article
+seven of the social services law. An applicant that does not currently
+possess such operating certificate as an adult home or enriched housing
+program may simultaneously apply and be approved for such certificate
+and all other licenses and certifications authorized under this article;
+  (b) that such applicant which has an existing valid adult care
+facility operating certificate, is in good standing with the department.
+For purposes of this subdivision, good standing shall mean the applicant
+has not (i) received any official written notice from the department of
+a proposed revocation, suspension, denial or limitation on the operating
+certificate of the facility or residence; (ii) within the previous three
+years, been assessed a civil penalty after a hearing conducted pursuant
+to subparagraph one of paragraph (b) of subdivision seven of section
+four hundred sixty-d of the social services law for a violation that has
+not been rectified; (iii) within the previous year, received any
+official written notice from the department of a proposed assessment of
+a civil penalty for a violation described in subparagraph two of
+paragraph (b) of subdivision seven of section four hundred sixty-d of
+the social services law; (iv) within the previous three years, been
+issued an order pursuant to subdivision two, five, six, or eight of
+section four hundred sixty-d of the social services law; (v) within the
+previous three years, been placed on, and if placed on, removed from the
+department's "do not refer list" pursuant to subdivision fifteen of
+section four hundred sixty-d of the social services law. Provided
+however that in the case of an applicant which otherwise meets the
+requirements of this section, but is not in good standing as provided in
+this paragraph, the department may approve said applicant if it
+determines that the applicant is of good moral character and is
+competent to operate the residence. Such character and competence review
+shall be limited to applicants not in good standing pursuant to this
+paragraph or an applicant subject to paragraph (f) of this subdivision.
+As part of the review provided pursuant to this paragraph, the
+department shall, on its webpage, solicit and consider public comment;
+  (c) that such applicant has adequate financial resources to provide
+such assisted living as proposed;
+  (d) that the building, equipment, staff, standards of care and records
+to be employed in the operation comply with applicable statutes and any
+applicable local law;
+  (e) that any license or permit required by law for the operation of
+such residence has been issued to such operator; and
+  (f) in the case of an applicant which does not have an existing valid
+adult care facility operating certificate, such applicant shall
+otherwise comply with the provisions for certification as prescribed by
+article seven of the social services law.
+  4. The department shall develop an expedited review and approval
+process for applications for up to nine additional beds to an existing
+enhanced or special needs assisted living certificate qualified as being
+in good standing under section forty-six hundred fifty-three of this
+article.
+  5. The knowing operation of an assisted living or enhanced assisted
+living residence without the prior written approval of the department
+shall be a class A misdemeanor.
+  6. Every assisted living residence that is required to possess an
+assisted living residence license shall be licensed on a biennial basis
+and shall pay a biennial licensure fee. Such fee shall be five hundred
+dollars per license, with an additional fee of fifty dollars per
+resident whose annual income is above four hundred percent of the
+federal poverty level. Such additional fee shall be based on the total
+occupied beds at the time of application, up to a maximum biennial
+licensure fee of five thousand dollars. Said fee shall be in addition to
+the fee charged by the department for certification as an adult care
+facility. Every assisted living residence that applies for an enhanced
+assisted living certificate or a special needs assisted living
+certificate shall pay an additional biennial fee, in addition to any
+other fee required by this subdivision, in the amount of two thousand
+dollars, provided that for any residence applying for both an enhanced
+assisted living certificate and a special needs assisted living
+certificate the amount of such fee shall be three thousand dollars.
+  7. The requirements of this article shall be in addition to those
+required of an adult care facility. In the event of a conflict between
+any provision of this article and a provision of article seven of the
+social services law or a regulation adopted thereunder, the applicable
+provision of this article or the applicable regulation shall supersede
+article seven of the social services law or the applicable regulation
+thereunder to the extent of such conflict.
+  8. The assisted living operator shall not use deceptive or coercive
+marketing practices to encourage residents or potential residents to
+sign or reauthorize the residency agreement required pursuant to section
+four thousand six hundred fifty-eight of this article.
+  * NB There are 2 § 4656's
+```

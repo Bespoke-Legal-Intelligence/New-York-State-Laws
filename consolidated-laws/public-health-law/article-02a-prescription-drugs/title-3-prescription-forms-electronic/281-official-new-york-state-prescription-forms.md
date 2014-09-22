@@ -1,0 +1,82 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 281", "kind": "section", "law_id": "PBH", "location_id": "281", "path": "ARTICLE 2-A › TITLE 3 › SECTION 281", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/281.md", "title": "Official New York state prescription forms"} -->
+# Public Health Law § 281 — Official New York state prescription forms
+
+[Public Health Law](../../README.md) › [Article 2-A — Prescription Drugs](../README.md) › [Title 3 — Prescription Forms, Electronic Prescribing and Language Assistance](README.md)
+
+```text
+  § 281. Official New York state prescription forms. 1. In addition to
+the requirements of section sixty-eight hundred ten of the education law
+or article thirty-three of this chapter, all prescriptions written in
+this state by a person authorized by this state to issue such
+prescriptions shall be on serialized official New York state
+prescription forms provided by the department. Such forms shall be
+furnished to practitioners authorized to write prescriptions and to
+institutional dispensers, and shall be non-reproducible and
+non-transferable. The commissioner, in consultation with the
+commissioner of education, may promulgate emergency regulations for the
+electronic transmission of prescriptions from prescribers to pharmacists
+or for ordering and filling requirements of prescription drugs for
+prescriptions written for recipients eligible for medical assistance
+pursuant to title eleven of article five of the social services law, for
+participants in the program for elderly pharmaceutical insurance
+coverage pursuant to title three of article two of the elder law and for
+prescriptions written pursuant to article thirty-three of this chapter.
+Nothing in this section shall prohibit the commissioner in consultation
+with the commissioner of education from promulgating any additional
+emergency regulations in furtherance of this subdivision.
+  2. The commissioner, in consultation with the commissioner of
+education, shall promulgate regulations requiring that prescription
+forms and electronic prescriptions include: (a) a section wherein
+prescribers may indicate whether an individual is limited English
+proficient, as defined in section sixty-eight hundred twenty-nine of the
+education law; and (b) if the patient is limited English proficient, a
+line where the prescriber may specify the preferred language indicated
+by the patient. Failure to include such indication on the part of the
+prescriber shall not invalidate the prescription.
+  3. On or before December thirty-first, two thousand twelve, the
+commissioner shall promulgate regulations, in consultation with the
+commissioner of education, establishing standards for electronic
+prescriptions. Notwithstanding any other provision of this section or
+any other law to the contrary, effective two years subsequent to the
+date on which such regulations are promulgated, no person shall issue
+any prescription in this state unless such prescription is made by
+electronic prescription from the person issuing the prescription to a
+pharmacy in accordance with such regulatory standards, except for
+prescriptions: (a) issued by veterinarians; (b) issued in circumstances
+where electronic prescribing is not available due to temporary
+technological or electrical failure, as set forth in regulation; (c)
+issued by practitioners who have received a waiver or a renewal thereof
+for a specified period determined by the commissioner, not to exceed one
+year, from the requirement to use electronic prescribing, pursuant to a
+process established in regulation by the commissioner, in consultation
+with the commissioner of education, due to economic hardship,
+technological limitations that are not reasonably within the control of
+the practitioner, or other exceptional circumstance demonstrated by the
+practitioner; (d) issued by a practitioner under circumstances where,
+notwithstanding the practitioner's present ability to make an electronic
+prescription as required by this subdivision, such practitioner
+reasonably determines that it would be impractical for the patient to
+obtain substances prescribed by electronic prescription in a timely
+manner, and such delay would adversely impact the patient's medical
+condition, provided that if such prescription is for a controlled
+substance, the quantity of controlled substances does not exceed a five
+day supply if the controlled substance were used in accordance with the
+directions for use; or (e) issued by a practitioner to be dispensed by a
+pharmacy located outside the state, as set forth in regulation.
+  4. In the case of a prescription for a controlled substance issued by
+a practitioner under paragraph (b) of subdivision three of this section,
+the practitioner shall file information about the issuance of such
+prescription with the department as soon as practicable, as set forth in
+regulation.
+  5. In the case of a prescription for a controlled substance issued by
+a practitioner under paragraph (d) or (e) of subdivision three of this
+section, the practitioner shall, upon issuing such prescription, file
+information about the issuance of such prescription with the department
+by electronic means, as set forth in regulation.
+  6. The waiver process established in regulation pursuant to paragraph
+(c) of subdivision three of this section shall provide that a
+practitioner prescribing under a waiver must notify the department in
+writing promptly upon gaining the capability to use electronic
+prescribing, and that a waiver shall terminate within a specified period
+of time after the practitioner gains such capability.
+```

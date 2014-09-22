@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 45", "kind": "section", "law_id": "WKC", "location_id": "45", "path": "ARTICLE 3 › SECTION 45", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/45.md", "title": "Notice to employers"} -->
+# Workers' Compensation Law § 45 — Notice to employers
+
+[Workers' Compensation Law](../README.md) › [Article 3 — Occupational Diseases](README.md)
+
+```text
+  § 45. Notice to employers. The employer to whom notice of death or
+disability is to be given, or against whom claim is to be made by the
+employee, shall be the employer who last employed the employee in the
+employment to the nature of which the disease was due and such notice
+and claim shall be deemed seasonable as against prior employers. The
+requirements as to notice as to occupational disease and death resulting
+therefrom shall be the same as required in section eighteen of this
+chapter, except that the notice shall be given to the employer within
+two years after the disablement or after the claimant knew or should
+have known that the disease is due to the nature of the employment,
+whichever is the later date.
+```

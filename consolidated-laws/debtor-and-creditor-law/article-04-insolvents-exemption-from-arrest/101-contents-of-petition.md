@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 101", "kind": "section", "law_id": "DCD", "location_id": "101", "path": "ARTICLE 4 › SECTION 101", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/101.md", "title": "Contents of petition"} -->
+# Debtor and Creditor Law § 101 — Contents of petition
+
+[Debtor and Creditor Law](../README.md) › [Article 4 — Insolvent's Exemption From Arrest and Imprisonment](README.md)
+
+```text
+  § 101. Contents of petition. The petition must be in writing; it must
+be signed by the insolvent, and specify his residence, and also, if he
+is in prison, the county in which he is imprisoned, and the cause of his
+imprisonment. It must set forth, in substance, that he is unable to pay
+all his debts in full; that he is willing to assign his property for the
+benefit of all his creditors, and in all other respects to comply with
+the provisions of this article, for the purpose of being exempted from
+arrest and imprisonment, as prescribed therein; and it must pray, that
+upon his so doing, he may thereafter be exempted from arrest, by reason
+of a debt, arising upon a contract previously made; and also, if he is
+imprisoned, that he may be discharged from his imprisonment. It must be
+verified by the affidavit of the insolvent, annexed thereto, taken on
+the day of the presentation thereof, to the effect, that the petition is
+in all respects true in matter of fact.
+```

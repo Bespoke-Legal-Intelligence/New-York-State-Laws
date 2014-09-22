@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 3213", "kind": "section", "law_id": "CVP", "location_id": "3213", "path": "ARTICLE 32 › SECTION 3213", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/3213.md", "title": "Motion for summary judgment in lieu of complaint"} -->
+# Civil Practice Law and Rules § 3213 — Motion for summary judgment in lieu of complaint
+
+[Civil Practice Law and Rules](../README.md) › [Article 32 — Accelerated Judgment](README.md)
+
+```text
+  § 3213. Motion for summary judgment in lieu of complaint. When an
+action is based upon an instrument for the payment of money only or upon
+any judgment, the plaintiff may serve with the summons a notice of
+motion for summary judgment and the supporting papers in lieu of a
+complaint. The summons served with such motion papers shall require the
+defendant to submit answering papers on the motion within the time
+provided in the notice of motion. The minimum time such motion shall be
+noticed to be heard shall be as provided by subdivision (a) of rule 320
+for making an appearance, depending upon the method of service. If the
+plaintiff sets the hearing date of the motion later than the minimum
+time therefor, he may require the defendant to serve a copy of his
+answering papers upon him within such extended period of time, not
+exceeding ten days, prior to such hearing date. No default judgment may
+be entered pursuant to subdivision (a) of section 3215 prior to the
+hearing date of the motion. If the motion is denied, the moving and
+answering papers shall be deemed the complaint and answer, respectively,
+unless the court orders otherwise.
+```

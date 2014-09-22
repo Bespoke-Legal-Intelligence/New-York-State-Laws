@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 46-0103", "kind": "section", "law_id": "ENV", "location_id": "46-0103", "path": "ARTICLE 46 › SECTION 46-0103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/46-0103.md", "title": "Definitions"} -->
+# Environmental Conservation Law § 46-0103 — Definitions
+
+[Environmental Conservation Law](../README.md) › [Article 46 — Albany Pine Bush Preserve Commission](README.md)
+
+```text
+§ 46-0103. Definitions.
+  As used in this article:
+  1. "Albany Pine Bush preserve" or "preserve" shall mean lands in the
+city of Albany and towns of Guilderland and Colonie in the county of
+Albany characterized by the growth of pitch pine and scrub oak, pine
+barrens, vernal ponds and/or the presence of sand dunes which are
+dedicated for protection and beneficial public use pursuant to section
+46-0107 of this article. Land which lacks such physical or vegetative
+characteristics may be dedicated pursuant to section 46-0107 of this
+article as a protective or buffer zone for other dedicated lands, or
+otherwise supports the management of the preserve.
+  2. "Albany Pine Bush preserve commission" or "commission" shall mean
+the Albany Pine Bush preserve commission created pursuant to section
+46-0105 of this article.
+```

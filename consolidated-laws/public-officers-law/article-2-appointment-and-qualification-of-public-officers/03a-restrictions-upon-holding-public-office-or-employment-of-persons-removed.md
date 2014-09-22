@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 3-A", "kind": "section", "law_id": "PBO", "location_id": "3-A", "path": "ARTICLE 2 › SECTION 3-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/3-A.md", "title": "Restrictions upon holding public office or employment of persons removed from office for certain reasons"} -->
+# Public Officers Law § 3-A — Restrictions upon holding public office or employment of persons removed from office for certain reasons
+
+[Public Officers Law](../README.md) › [Article 2 — Appointment and Qualification of Public Officers](README.md)
+
+```text
+  § 3-a. Restrictions upon holding public office or employment of
+persons removed from office for certain reasons.  Any public officer
+who, upon being called before a grand jury to testify concerning the
+conduct of his office or the performance of his official duties, refuses
+to sign a waiver of immunity against subsequent criminal prosecution, or
+to answer any relevant question concerning such matters before such
+grand jury and who, by virtue thereof, has been removed from such public
+office by the appropriate authority or who has forfeited such office at
+the suit of the attorney general shall not be capable of holding a civil
+office or public employment for a period of five years from the date of
+the removal from or forfeit of such public office.
+```

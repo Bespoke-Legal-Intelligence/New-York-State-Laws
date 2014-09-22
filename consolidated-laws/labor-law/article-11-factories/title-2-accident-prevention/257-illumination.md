@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 257", "kind": "section", "law_id": "LAB", "location_id": "257", "path": "ARTICLE 11 › TITLE 2 › SECTION 257", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/257.md", "title": "Illumination"} -->
+# Labor Law § 257 — Illumination
+
+[Labor Law](../../README.md) › [Article 11 — Factories](../README.md) › [Title 2 — Accident Prevention](README.md)
+
+```text
+  § 257. Illumination.  1. In every factory proper lighting shall be
+provided during working hours for:
+  a. All places where persons work or pass, or may have to work or pass
+in emergencies;
+  b. All elevator cars and entrances;
+  c. All halls and stairs leading to workrooms;
+  d. All moving parts of machinery not required to be guarded by section
+two hundred and the rules of the board, and which are dangerous because
+of their location.
+  2. In every factory workroom the lighting shall be such as will not
+cause strain on the vision or glare in the eyes of workers.
+  3. In the public hallway upon each floor of every factory building a
+proper light shall be kept burning near the stairs during each working
+day from the opening of the building until its closing, except when
+natural light suffices. Such lights shall be arranged to operate
+reliably when through accident or other cause other lights of the
+building are extinguished.
+```

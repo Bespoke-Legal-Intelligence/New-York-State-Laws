@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Port of Albany § 10", "kind": "section", "law_id": "POA", "location_id": "10", "path": "SECTION 10", "repealed": false, "repealed_date": null, "source": "nys-laws:POA/10.md", "title": "No title"} -->
+# Port of Albany § 10 — No title
+
+[Port of Albany](README.md)
+
+```text
+  § 10. After estimates of the cost of any improvement or improvements
+by the commission under this act shall have been made and after the
+apportionment, or any revision or apportionment, covering any such
+improvement or improvements shall have become final, as provided in this
+act, whereby the proportions to be paid by the real estate in the
+several municipalities shall have been determined, the commission may
+provide moneys for construction of such improvements, in an amount not
+exceeding such estimated cost. Any judicial review of such final
+apportionment by the commission, however, shall not delay or prevent the
+commencement of construction work. Bonds or notes of the district shall
+not be construed in any event as obligations of the state, and the state
+shall not be obligated to pay the principal or interest, or either.
+```

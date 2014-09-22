@@ -1,0 +1,49 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 205-B", "kind": "section", "law_id": "FIS", "location_id": "205-B", "path": "ARTICLE 2 › SECTION 205-B", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/205-B.md", "title": "State charter advisory board"} -->
+# Financial Services Law § 205-B — State charter advisory board
+
+[Financial Services Law](../README.md) › [Article 2 — Organization of the Department of Financial Services](README.md)
+
+```text
+  * § 205-b. State charter advisory board. There shall be within the
+department a state charter advisory board to work with the
+superintendent in retaining state chartered banking institutions,
+encouraging federally chartered institutions to convert to a state
+charter and promoting the state banking system. There shall be nine
+members of the advisory board who shall be appointed by the
+superintendent. The membership shall consist of: (a) one representative
+of credit unions, (b) one representative of consumers, (c) one
+representative of foreign banks; and (d) representatives of banks which,
+to the extent practicable, reflect a range of size and geographical
+location, provided, however, that at least one shall represent
+institutions of more than three billion dollars in assets; at least two
+shall represent institutions of less than five hundred million dollars
+in assets. The superintendent shall make rules to govern the method by
+which state chartered institutions may nominate persons to the board and
+the process for selecting such members, provided that the representative
+of consumers shall be selected by the superintendent. The term of each
+member of such advisory board shall be three years, or until a successor
+is appointed and vacancies shall be filled for the unexpired term only.
+The board shall meet at least three times annually pursuant to the call
+of the superintendent. Such meetings may be held by means of a
+conference telephone or similar communications equipment allowing all
+persons participating in the meeting to hear each other at the same
+time. The members of the advisory board shall receive no compensation
+nor reimbursement for expenses. The advisory board may:
+  (1) consider and recommend ways to maintain the state charter as a
+viable and attractive option, including bringing to the superintendent's
+attention issues of concern to state chartered banking institutions;
+  (2) consider and recommend ways to encourage banking institutions to
+offer a diversity of financial products and services throughout the
+state;
+  (3) recommend to the superintendent the establishment of such laws as
+may be deemed necessary, and the amendment or repeal thereof;
+  (4) recommend to the superintendent the promulgation of rules and
+regulations not inconsistent with the law, as may be deemed necessary,
+and the amendment or repeal thereof; and
+  (5) report within thirty days after receipt, on any proposed
+regulations, amendments thereto, or repeal thereof, prior to final
+action thereon by the superintendent.
+  The advisory board shall have no executive, administrative or
+appointive powers or duties.
+  * NB Repealed October 3, 2016
+```

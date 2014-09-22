@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 106", "kind": "section", "law_id": "ISC", "location_id": "106", "path": "ARTICLE 1 › SECTION 106", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/106.md", "title": "Construction of references"} -->
+# Insurance Law § 106 — Construction of references
+
+[Insurance Law](../README.md) › [Article 1 — General Provisions](README.md)
+
+```text
+  § 106. Construction of references. (a) In this chapter, unless
+otherwise stated or required by the context:
+  (1) All references to a part, title, article or section number or
+letter refer to the part, title, article or section so numbered or
+lettered in this chapter, and all references in any section of this
+chapter to a numbered or lettered subsection, paragraph, subparagraph,
+item or clause refer to the subsection, paragraph, subparagraph, item or
+clause so numbered or lettered in such section.
+  (2) All references to former provisions of chapter twenty-eight of the
+consolidated laws refer to provisions of the former insurance law
+enacted by chapter eight hundred eighty-two of the laws of nineteen
+hundred thirty-nine.
+  (b) In other laws of this state, references to the former insurance
+law repealed by this chapter, and to any article, section or other
+provision thereof, refer to this chapter and its provisions which
+correspond to the repealed article, section or other provision.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 466", "kind": "section", "law_id": "JUD", "location_id": "466", "path": "ARTICLE 15 › SECTION 466", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/466.md", "title": "Attorney's oath of office"} -->
+# Judiciary Law § 466 — Attorney's oath of office
+
+[Judiciary Law](../README.md) › [Article 15 — Attorneys and Counsellors](README.md)
+
+```text
+  § 466. Attorney's oath of office. Each person, admitted as prescribed
+in this chapter must, upon his admission, take the constitutional oath
+of office in open court, and subscribe the same in a roll or book, to be
+kept in the office of the clerk of the appellate division of the supreme
+court for that purpose.
+  Any person now in actual service in the armed forces of the United
+States or whose induction or enlistment therein is imminent, or within
+sixty days after he has been honorably discharged, if the appellate
+division of the supreme court in the department in which such person
+resides is not in session, may subscribe and take the oath before a
+justice of that court, with the same force and effect as if it were
+taken in open court, except that in the first department the oath must
+be taken before the presiding justice or, in his absence, before the
+senior justice.
+```

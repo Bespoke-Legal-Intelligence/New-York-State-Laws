@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 3-419", "kind": "section", "law_id": "UCC", "location_id": "3-419", "path": "ARTICLE 3 › PART 4 › SECTION 3-419", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/3-419.md", "title": "Conversion of Instrument; Innocent Representative"} -->
+# Uniform Commercial Code § 3-419 — Conversion of Instrument; Innocent Representative
+
+[Uniform Commercial Code](../../README.md) › [Article 3 — Commercial Paper](../README.md) › [Part 4 — Liability of Parties](README.md)
+
+```text
+Section 3--419. Conversion of Instrument; Innocent Representative.
+  (1) An instrument is converted when
+       (a) a drawee to whom it is delivered for acceptance refuses to
+           return it on demand; or
+       (b) any person to whom it is delivered for payment refuses on
+           demand either to pay or to return it; or
+       (c) it is paid on a forged indorsement.
+  (2) In an action against a drawee under subsection (1) the measure of
+the drawee's liability is the face amount of the instrument. In any
+other action under subsection (1) the measure of liability is presumed
+to be the face amount of the instrument.
+  (3) Subject to the provisions of this Act concerning restrictive
+indorsements a representative, including a depositary or collecting
+bank, who has in good faith and in accordance with the reasonable
+commercial standards applicable to the business of such representative
+dealt with an instrument or its proceeds on behalf of one who was not
+the true owner is not liable in conversion or otherwise to the true
+owner beyond the amount of any proceeds remaining in his hands.
+  (4) An intermediary bank or payor bank which is not a depositary bank
+is not liable in conversion solely by reason of the fact that proceeds
+of an item indorsed restrictively (Sections 3--205 and 3--206) are not
+paid or applied consistently with the restrictive indorsement of an
+indorser other than its immediate transferor.
+```

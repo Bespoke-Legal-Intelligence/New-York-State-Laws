@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 700", "kind": "section", "law_id": "RPT", "location_id": "700", "path": "ARTICLE 7 › TITLE 1 › SECTION 700", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/700.md", "title": "Proceeding to review an assessment of real property; preference"} -->
+# Real Property Tax Law § 700 — Proceeding to review an assessment of real property; preference
+
+[Real Property Tax Law](../../README.md) › [Article 7 — Judicial Review](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 700.  Proceeding to review an assessment of real property;
+preference.  1.  A proceeding to review an assessment of real property
+shall be brought as provided in this article unless otherwise provided
+by law.  Reference in any statute to certiorari proceedings heretofore
+controlled by any provision of article thirteen of the tax law shall be
+deemed to refer to the procedure set forth in this article.
+  2.  All rights, remedies and practices heretofore applicable to a
+proceeding commenced by a writ of certiorari which are not inconsistent
+with the provisions of this article shall apply to a proceeding to
+review an assessment of real property under this article.
+  3.  A proceeding brought pursuant to this article and appeals
+therefrom shall have preference over all other civil actions and
+proceedings in all courts.
+```

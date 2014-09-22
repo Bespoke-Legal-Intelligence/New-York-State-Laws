@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "County Law § 226", "kind": "section", "law_id": "CNT", "location_id": "226", "path": "ARTICLE 5 › SECTION 226", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/226.md", "title": "Monuments and memorials"} -->
+# County Law § 226 — Monuments and memorials
+
+[County Law](../README.md) › [Article 5 — General Powers of Board of Supervisors](README.md)
+
+```text
+  § 226. Monuments and memorials. 1. The board of supervisors of any
+county may, by the affirmative vote of two-thirds of its total
+membership erect in the county, monuments and memorials in commemoration
+of the members of the armed forces of the United States in any of its
+wars or of any person or event. Adequate funds may be appropriated and
+expended for the site and structure and thereafter funds may be
+appropriated for its maintenance and repair. Trustees may be designated
+by the board who shall serve without compensation. If there already
+exists within the county a monument or memorial commemorating the same
+historical site, person or event which was erected and is maintained by
+a city, town or village, no tax shall be levied upon the property within
+such city, town or village without the approval of the governing board
+of such city, town or village.
+  2. Any county may, before acting under subdivision one of this
+section, by resolution of its board of supervisors, cause to be
+submitted to the qualified electors of said county, in the manner
+provided for the submission of a question to electors by the election
+law and article three of this chapter, a proposition or question as to
+whether a monument or memorial as provided for in such subdivision
+should be erected.
+  3. Expenditures for county monuments and memorials erected pursuant to
+section seventy-seven-a of the general municipal law shall be levied
+upon all taxable real property within the county without approval of
+local authorities, even though there exists honor rolls or other
+monuments or memorials in commemoration of the members of the armed
+forces of the United States from such cities, towns and villages.
+```

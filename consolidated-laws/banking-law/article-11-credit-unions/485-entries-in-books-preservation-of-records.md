@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 485", "kind": "section", "law_id": "BNK", "location_id": "485", "path": "ARTICLE 11 › SECTION 485", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/485.md", "title": "Entries in books; preservation of records"} -->
+# Banking Law § 485 — Entries in books; preservation of records
+
+[Banking Law](../README.md) › [Article 11 — Credit Unions](README.md)
+
+```text
+  § 485. Entries in books; preservation of records. 1. No credit union
+shall by any system of accounting or any device of bookkeeping, directly
+or indirectly, enter any of its assets or liabilities upon its books in
+the name of any person, or under any title or designation that is not
+truly descriptive thereof.
+  2. Every credit union shall preserve all of its records of original
+and final entry, including cancelled checks, withdrawal slips and
+deposit tickets, for a period of at least six years from the date of
+making same or from the date of the last entry thereon; provided,
+however, that preservation of photographic reproduction thereof or
+records in photographic form shall constitute compliance with the
+requirements of this section.
+```

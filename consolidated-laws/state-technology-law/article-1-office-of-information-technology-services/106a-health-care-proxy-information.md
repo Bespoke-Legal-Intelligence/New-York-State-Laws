@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "State Technology Law § 106-A", "kind": "section", "law_id": "STT", "location_id": "106-A", "path": "ARTICLE 1 › SECTION 106-A", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/106-A.md", "title": "Health care proxy information"} -->
+# State Technology Law § 106-A — Health care proxy information
+
+[State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
+
+```text
+  § 106-a. Health care proxy information. Any state agency, board,
+bureau, authority, commission, division, or other governmental entity
+performing a governmental or proprietary function for the state that
+maintains a public website and has a significant public interaction in
+the field of public health shall, in consultation with the office of
+information technology services and the department of health, create a
+link on their homepage to the health care proxy information on the
+department of health's website. A state agency, board, bureau,
+authority, commission, division, or other governmental entity performing
+a governmental or proprietary function for the state which determines
+that creating such link would create a financial hardship or which do
+not have a significant public interaction in the field of public health
+shall be exempted from the provisions of this section.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 12-106", "kind": "section", "law_id": "GOB", "location_id": "12-106", "path": "ARTICLE 12 › SECTION 12-106", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/12-106.md", "title": "Scope of defendant's liability established"} -->
+# General Obligations Law § 12-106 — Scope of defendant's liability established
+
+[General Obligations Law](../README.md) › [Article 12 — Drug Dealer Liability Act](README.md)
+
+```text
+  § 12-106. Scope of defendant's liability established. A person shall
+be deemed to have affected a target community based upon the following
+grades of offenses:
+  1. For a grade one violation, the county in which the place of
+participation by the defendant is situated;
+  2. For a grade two violation, the community described in subdivision
+one of this section along with all counties with a border contiguous to
+such community;
+  3. For a grade three violation, the community described in subdivision
+two of this section plus all counties with a border contiguous to such
+community; and
+  4. For a level four offense, the entire state.
+```

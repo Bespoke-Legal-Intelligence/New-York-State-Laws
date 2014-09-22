@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4306-B", "kind": "section", "law_id": "ISC", "location_id": "4306-B", "path": "ARTICLE 43 › SECTION 4306-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4306-B.md", "title": "Primary and preventive obstetric and gynecologic care"} -->
+# Insurance Law § 4306-B — Primary and preventive obstetric and gynecologic care
+
+[Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
+
+```text
+  § 4306-b. Primary and preventive obstetric and gynecologic care. (a)
+No corporation subject to the provisions of this article shall by
+contract, written policy or procedure limit a female subscriber's direct
+access to primary and preventive obstetric and gynecologic services,
+including annual examinations, care resulting from such annual
+examinations, and treatment of acute gynecologic conditions, from a
+qualified provider of such services of her choice from within the plan
+or for any care related to a pregnancy, provided that: (1) such
+qualified provider discusses such services and treatment plan with the
+subscriber's primary care practitioner in accordance with the
+requirements of the corporation; and (2) such qualified provider agrees
+to adhere to the corporation's policies and procedures, including any
+applicable procedures regarding referrals and obtaining prior
+authorization for services other than obstetric and gynecologic services
+rendered by such qualified provider, and agrees to provide services
+pursuant to a treatment plan (if any) approved by the corporation.
+  (b) A corporation shall treat the provision of obstetric and
+gynecologic care, and the ordering of related obstetric and gynecologic
+items and services, pursuant to the direct access described in
+subsection (a) of this section by a participating qualified provider of
+such services, as the authorization of the primary care provider.
+  (c) It shall be the duty of the administrative officer or other person
+in charge of each corporation subject to the provisions of this article
+to advise each female subscriber, in writing, of the provisions of this
+section.
+```

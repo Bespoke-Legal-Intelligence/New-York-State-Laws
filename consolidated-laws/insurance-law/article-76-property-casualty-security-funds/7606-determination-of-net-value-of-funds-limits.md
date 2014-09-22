@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7606", "kind": "section", "law_id": "ISC", "location_id": "7606", "path": "ARTICLE 76 › SECTION 7606", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7606.md", "title": "Determination of net value of funds; limits"} -->
+# Insurance Law § 7606 — Determination of net value of funds; limits
+
+[Insurance Law](../README.md) › [Article 76 — Property/casualty Security Funds](README.md)
+
+```text
+  § 7606. Determination of net value of funds; limits. (a) The
+superintendent shall annually, on or before March first, ascertain and
+determine the net value of each fund as of the next preceding December
+thirty-first by deducting from the value of the assets of each fund,
+ascertained pursuant to this article, the aggregate actual and estimated
+liabilities of each fund as determined by the superintendent. When the
+net value of a fund, as thus determined, reaches an amount equal to
+fifteen percent of the outstanding claim reserves of all authorized
+insurers, incurred under policies or bonds providing benefits as
+specified in subsection (a) of section seven thousand six hundred three
+or subsection (a) of section seven thousand six hundred four of this
+article, as the case may be, no further contributions to such fund shall
+be required to be made.
+  (b) Whenever, thereafter, the amount of a fund is reduced below such
+fifteen percent, by reason of payments from, and known and estimated
+liabilities of, that fund, then contributions to such fund shall be
+resumed and continued until that fund, over and above its known and
+estimated liabilities, reaches such amount.
+```

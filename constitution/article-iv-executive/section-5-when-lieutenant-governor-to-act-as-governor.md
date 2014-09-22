@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Iv, § 5", "kind": "section", "law_id": "CNS", "location_id": "A4S5", "path": "ARTICLE IV › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A4S5.md", "title": "When lieutenant-governor to act as governor"} -->
+# New York State Constitution, Article Iv, § 5 — When lieutenant-governor to act as governor
+
+[New York State Constitution](../README.md) › [Article IV — Executive](README.md)
+
+```text
+  § 5. In case of the removal of the governor from office or of his or
+her death or resignation, the lieutenant-governor shall become governor
+for the remainder of the term.
+  In case the governor-elect shall decline to serve or shall die, the
+lieutenant-governor-elect shall become governor for the full term.
+  In case the governor is impeached, is absent from the state or is
+otherwise unable to discharge the powers and duties of the office of
+governor, the lieutenant-governor shall act as governor until the
+inability shall cease or until the term of the governor shall expire.
+  In case of the failure of the governor-elect to take the oath of
+office at the commencement of his or her term, the
+lieutenant-governor-elect shall act as governor until the governor shall
+take the oath.
+```

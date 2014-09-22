@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 8010", "kind": "section", "law_id": "CVP", "location_id": "8010", "path": "ARTICLE 80 › SECTION 8010", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/8010.md", "title": "County treasurers"} -->
+# Civil Practice Law and Rules § 8010 — County treasurers
+
+[Civil Practice Law and Rules](../README.md) › [Article 80 — Fees](README.md)
+
+```text
+  § 8010. County treasurers. The treasurer of a county or the
+commissioner of finance of the city of New York is entitled for the
+services specified to the following fees:
+  1. two per cent upon a sum of money paid out of court by him;
+  2. one-half of one per cent upon a sum of money invested by him;
+  3. two per cent of the par value of investments transferred or
+assigned out of court by him, when the investments have been made by
+him;
+  4. two per cent of the par value of securities deposited into court
+and received by him, to be paid at the time of the deposit by the
+parties making it; and
+  5. one dollar for each certificate issued by him certifying as to the
+amount of deposit to the credit of court funds.
+```

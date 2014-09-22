@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 182", "kind": "section", "law_id": "GBS", "location_id": "182", "path": "ARTICLE 11 › SECTION 182", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/182.md", "title": "Cards to be furnished nurses; registry records"} -->
+# General Business Law § 182 — Cards to be furnished nurses; registry records
+
+[General Business Law](../README.md) › [Article 11 — Employment Agencies](README.md)
+
+```text
+  § 182. Cards to be furnished nurses; registry records. A nurses'
+registry shall send out to practice nursing only persons duly licensed
+pursuant to article one hundred thirty-nine of the education law as a
+registered professional nurse or licensed practical nurse. Every nurses'
+registry, before sending a person out to practice nursing, shall
+investigate such person's educational qualifications and verify such
+person's licensure and current registration. At least two current
+written references shall be required of such person.  The record of such
+investigation and verification shall be kept on file in the registry.
+  Every nurses' registry that sends out any such person shall at such
+time give to such person and send to the employer of such person a card
+stating (1) such person's name, address and salary, (2) whether such
+person is a registered professional nurse or licensed practical nurse,
+(3) the number of the current registration certificate issued to such
+person by the education department, and (4) a statement that the record
+of such person's educational qualifications and experience in the
+practice of nursing is on file in such registry and that a copy thereof
+will be sent to such employer on request. A copy of such card shall be
+kept on file in the registry.
+  The record of investigation and verification and the card-copy
+required by this section to be kept on file shall be open to inspection
+by any duly authorized agent of the university of the state of New York,
+and every nurses' registry shall furnish a complete list of its
+registrants on request of such agent.
+```

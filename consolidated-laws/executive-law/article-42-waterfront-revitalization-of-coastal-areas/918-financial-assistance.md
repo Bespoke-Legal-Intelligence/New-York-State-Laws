@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 918", "kind": "section", "law_id": "EXC", "location_id": "918", "path": "ARTICLE 42 › SECTION 918", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/918.md", "title": "Financial assistance"} -->
+# Executive Law § 918 — Financial assistance
+
+[Executive Law](../README.md) › [Article 42 — Waterfront Revitalization of Coastal Areas and Inland Waterways](README.md)
+
+```text
+  § 918. Financial assistance. 1. The secretary may enter into a
+contract or contracts for grants to be made, within the limits of any
+appropriations therefor, for the following:
+  a. To any local governments, or to two or more local governments, for
+projects approved by the secretary which lead to preparation of a
+waterfront revitalization program; provided, however, that such grants
+shall not exceed fifty percent of the approved cost of such projects;
+  b. To any local government or local government agency for research,
+design, and other activities which serve to facilitate construction
+projects provided for in an approved waterfront revitalization program;
+provided, however, that such grants shall not exceed ten percent of the
+estimated cost of such construction project.
+  2. Funds available for the purposes of this section shall be allocated
+in a fair and equitable manner; such allocation shall reflect the
+initiative shown by local governments in preparing waterfront
+revitalization programs and in carrying them out.
+```

@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-405", "kind": "section", "law_id": "UCC", "location_id": "2-A-405", "path": "ARTICLE 2-A › PART 4 › SECTION 2-A-405", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-405.md", "title": "Excused Performance"} -->
+# Uniform Commercial Code § 2-A-405 — Excused Performance
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 4 — Performance of Lease Contract: Repudiated, Substituted and Excused](README.md)
+
+```text
+Section 2-A-405. Excused Performance.
+  (1) Subject to Section 2-A-404 on substituted performance, the
+following rules apply:
+       (a) delay in delivery or nondelivery in whole or in part by a
+           lessor or a supplier who complies with paragraph (b) and
+           subsection (2) is not a default under the lease contract if
+           performance as agreed has been made impracticable by the
+           occurrence of a contingency the nonoccurrence of which was a
+           basic assumption on which the lease contract was made or by
+           compliance in good faith with any applicable foreign or
+           domestic governmental regulation or order, whether or not the
+           regulation or order later proves to be invalid.
+       (b) if the causes mentioned in paragraph (a) affect only part of
+           the lessor's or the supplier's capacity to perform, he or she
+           shall allocate production and deliveries among his or her
+           customers but at his or her option may include regular
+           customers not then under contract for sale or lease as well
+           as his or her own requirements for further manufacture. He or
+           she may so allocate in any manner that is fair and
+           reasonable.
+  (2) The lessor seasonably shall notify the lessee and in the case of a
+finance lease the supplier seasonably shall notify the lessor and the
+lessee, if known, that there will be delay or nondelivery and, if
+allocation is required under subsection (1) (b), of the estimated quota
+thus made available for the lessee.
+```

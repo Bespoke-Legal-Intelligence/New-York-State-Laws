@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1198-M", "kind": "section", "law_id": "PBA", "location_id": "1198-M", "path": "ARTICLE 5 › TITLE 8-C › SECTION 1198-M", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1198-M.md", "title": "Agreement with the state"} -->
+# Public Authorities Law § 1198-M — Agreement with the state
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 8-C — Water Authority of Western Nassau County](README.md)
+
+```text
+  § 1198-m. Agreement with the state. The state does hereby pledge to
+and agree with the holders of any bonds issued by the authority pursuant
+to this title that the state will not alter or limit the rights hereby
+vested in the authority to fulfill the terms of any agreement made with
+or for the benefit of the holders of bonds or in any way impair the
+rights and remedies of bondholders until the bonds together with the
+interest thereon, with interest on any unpaid installments of interest,
+and all costs and expenses in connection with any action or proceeding
+by or on behalf of such holders, are fully met and discharged. The
+authority is authorized to include this pledge and agreement of the
+state in any agreement with bondholders.
+```

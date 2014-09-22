@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 77-D", "kind": "section", "law_id": "GMU", "location_id": "77-D", "path": "ARTICLE 5 › SECTION 77-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/77-D.md", "title": "Traveling expenses for applicants for public employment"} -->
+# General Municipal Law § 77-D — Traveling expenses for applicants for public employment
+
+[General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
+
+```text
+  § 77-d. Traveling expenses for applicants for public employment.  The
+governing board of each county, city, town, village, school district,
+fire district or other district corporation may, by local law, ordinance
+or resolution, authorize the payment of the actual and necessary travel
+expenses, including meals and lodging, of an applicant for any office or
+position in the service of such county, city, town, village, school
+district, fire district or district corporation.  Such payment shall be
+deemed a purpose of the county, city, town, village, school district,
+fire district, or other district corporation and shall be a charge
+against the taxable property within each such county, city, town,
+village, school district, fire district or district corporation.
+However, in the event taxes are levied upon taxable property of an area
+of less than an entire city, county, town or village for the
+compensation or salary of such office or position, the expense incurred
+under this section shall be a charge against such area and shall be
+levied and collected from the taxable property thereof.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-106", "kind": "section", "law_id": "UCC", "location_id": "2-106", "path": "ARTICLE 2 › PART 1 › SECTION 2-106", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-106.md", "title": "Definitions"} -->
+# Uniform Commercial Code § 2-106 — Definitions
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 1 — Short Title, General Construction and Subject Matter](README.md)
+
+```text
+Section 2--106. Definitions. "Contract"; "Agreement"; "Contract for
+                  Sale"; "Sale"; "Present Sale"; "Conforming" to
+                  Contract; "Termination"; "Cancellation".
+  (1) In this Article unless the context otherwise requires "contract"
+and "agreement" are limited to those relating to the present or future
+sale of goods. "Contract for sale" includes both a present sale of goods
+and a contract to sell goods at a future time. A "sale" consists in the
+passing of title from the seller to the buyer for a price (Section
+2--401). A "present sale" means a sale which is accomplished by the
+making of the contract.
+  (2) Goods or conduct including any part of a performance are
+"conforming" or conform to the contract when they are in accordance with
+the obligations under the contract.
+  (3) "Termination" occurs when either party pursuant to a power created
+by agreement or law puts an end to the contract otherwise than for its
+breach. On "termination" all obligations which are still executory on
+both sides are discharged but any right based on prior breach or
+performance survives.
+  (4) "Cancellation" occurs when either party puts an end to the
+contract for breach by the other and its effect is the same as that of
+"termination" except that the cancelling party also retains any remedy
+for breach of the whole contract or any unperformed balance.
+```

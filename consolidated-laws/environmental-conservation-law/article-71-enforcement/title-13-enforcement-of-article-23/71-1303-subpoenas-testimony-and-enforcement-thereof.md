@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-1303", "kind": "section", "law_id": "ENV", "location_id": "71-1303", "path": "ARTICLE 71 › TITLE 13 › SECTION 71-1303", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-1303.md", "title": "Subpoenas, testimony and enforcement thereof"} -->
+# Environmental Conservation Law § 71-1303 — Subpoenas, testimony and enforcement thereof
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 13 — Enforcement of Article 23](README.md)
+
+```text
+§ 71-1303. Subpoenas, testimony and enforcement thereof.
+  1. To aid in the administration of article 23, the commissioner or any
+person designated by him may issue subpoenas in his name requiring the
+attendance and giving of testimony by witnesses and the production of
+books, papers and other evidence for any hearing, proceeding or
+investigation conducted or to be conducted by or before the department.
+Service of such a subpoena, enforcement of obedience thereto, and
+punishment for disobedience thereof shall be had as and in the manner
+provided by the civil practice law and rules relating to enforcement of
+any subpoena issued by a board or committee except that in the case of
+hearings, proceedings or investigations before or conducted by the
+department neither the holder of a permit or lease issued pursuant to
+article 23, nor an employee of such permit holder or lessee, nor an
+officer or stockholder in a permittee or lessee corporation, when
+required to attend as a witness, shall be entitled to any subpoena fee
+or mileage. Any member of the department or any person who may be
+designated hereunder by the department to hold hearings may administer
+oaths to witnesses. The department also may provide for the taking of
+depositions of witnesses for the purpose of any such hearing. In such
+case such officer, employee or other person may administer oaths to the
+witnesses whose depositions are to be taken. Each deposition shall be
+reduced to writing and subscribed by the deponent.
+  2. The provisions of this section shall apply only to the
+administration of article 23.
+```

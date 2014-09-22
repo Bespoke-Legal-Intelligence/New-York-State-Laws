@@ -1,0 +1,233 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A29", "path": "ARTICLE 29", "source": "nys-laws:TAX/A29.md", "title": "Taxes Authorized For Cities, Counties and School Districts"} -->
+# Article 29 — Taxes Authorized For Cities, Counties and School Districts
+
+[Tax Law](../README.md)
+
+## Contents
+
+- [Part 1 — Authority to Impose Taxes](part-1-authority-to-impose-taxes/)
+- [Part 2 — Limitations On Authority and Exemptions](part-2-limitations-on-authority/)
+- [Part 3 — Administrative Provisions](part-3-administrative-provisions/)
+- [Part 4 — Disposition of Revenues](part-4-disposition-of-revenues/)
+
+<details>
+<summary>Official heading of Article 29, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                               ARTICLE 29
+       TAXES AUTHORIZED FOR CITIES, COUNTIES AND SCHOOL DISTRICTS
+                    PART I--AUTHORITY TO IMPOSE TAXES
+            SUBPART A--TAXES ADMINISTERED BY CITIES, COUNTIES
+                          AND SCHOOL DISTRICTS
+Section 1201.      Taxes administered by cities of one million or more.
+        1201-a.    Credits against taxes administered by cities of one
+                     million or more.
+        1201-b.    Additional credits against taxes administered by
+                     cities of one million or more.
+        1201-c.    Credits against taxes administered by cities of one
+                     million or more.
+        1201-d.    Dedication of taxes authorized for cities and
+                     counties.
+        1201-e.    Credit.
+        1202.      Taxes administered by counties not wholly within a
+                     city.
+        1202-a.    Hotel or motel taxes in Onondaga county.
+        1202-b.    Hotel or motel taxes in Broome county.
+        1202-c.    Hotel or motel taxes in Jefferson county.
+        1202-d.    Hotel or motel taxes in Oneida county.
+        1202-e.    Hotel or motel taxes in Schenectady county.
+        1202-f.    Hotel or motel taxes in Tompkins county.
+        1202-g.    Hotel or motel taxes in Cortland county.
+        1202-g*2.  Tourist home, inn, hotel or motel taxes in Saratoga
+                     county and the city of Saratoga Springs.
+        1202-g*3.  Hotel or motel taxes in Steuben county.
+        1202-g*4.  Hotel or motel taxes in the county of Westchester.
+        1202-h.    Hotel or motel taxes in Chemung county.
+        1202-h*2.  Hotel or motel taxes in the county of Oswego.
+        1202-i.    Hotel or motel taxes in Schuyler county.
+        1202-j.    Hotel or motel taxes in Otsego county.
+        1202-j*2.  Hotel and motel taxes in Sullivan county.
+        1202-j*3.  Hotel or motel taxes in Chautauqua county.
+        1202-k.    Hotel or motel taxes in Montgomery county.
+        1202-k*2.  Hotel or motel taxes in the county of Rockland.
+        1202-l.    Hotel and motel taxes in Ulster county.
+        1202-l*2.  Hotel or motel taxes in the city of Canandaigua.
+        1202-l*3.  Hotel or motel taxes in the county of St. Lawrence.
+        1202-l*4.  Hotel or motel taxes in Niagara Falls.
+        1202-m.    Hotel or motel taxes in Livingston county.
+        1202-n.    Hotel or motel taxes in Rensselaer county.
+        1202-o.    Hotel and motel taxes in Suffolk county.
+        1202-o*2.  Hotel or motel taxes in the city of Lockport, Niagara
+                     county.
+        1202-o*3.  Hotel or motel taxes in Seneca county.
+        1202-p.    Hotel or motel taxes in Madison county.
+        1202-q.    Hotel and motel taxes in Nassau county.
+        1202-q*2.  Hotel or motel taxes in Cayuga county.
+        1202-r.    Hotel or motel taxes in Genesee county.
+        1202-s.    Hotel or motel taxes in Essex county.
+        1202-t.    Hotel or motel taxes in Niagara county.
+        1202-t*2.  Hotel or motel taxes in Ontario county.
+        1202-u.    Hotel or motel taxes in Allegany county.
+        1202-u*2.  Hotel and motel tax in Warren county.
+        1202-u*3.  Hotel or motel taxes in Orleans county.
+        1202-u*4.  Hotel and motel taxes in Cattaraugus county.
+        1202-v.    Hotel or motel taxes in Lewis county.
+        1202-w.    Hotel or motel taxes in Wyoming county.
+        1202-y.    Hotel or motel taxes in the city of Geneva.
+        1202-y*2.  Hotel or motel taxes in Yates county.
+        1202-z.    Hotel or motel taxes in Clinton county.
+        1202-aa.   Occupancy tax in the city of New Rochelle.
+        1202-aa*2. Occupancy tax in the city of Rye.
+        1202-aa*3. Occupancy tax in the city of White Plains.
+        1202-aa*4. Hotel or motel taxes in Schoharie county.
+        1202-aa*5. Hotel and motel tax in Washington county.
+        1202-aa*6. Hotel or motel taxes in Orange county.
+        1202-aa*7. Hotel or motel taxes in the city of Peekskill.
+        1202-aa*8. Hotel or motel taxes in Tioga county.
+        1202-bb.   Occupancy tax in the Village of Rye Brook.
+        1203.      Taxes administered by cities under one million.
+        1204.      Taxes administered by cities with populations of less
+                     than one hundred twenty-five thousand on request of
+                     school districts.
+        1205.      Imposition of taxes on deeds in the city of Mount
+                     Vernon.
+        1206.      Imposition of taxes on deeds in the city of
+                     Peekskill.
+          SUBPART B--TAXES ADMINISTERED BY STATE TAX COMMISSION
+        1210.     Taxes of cities and counties administered by state tax
+                     commission.
+        1210-A.   Sales and compensating use tax for purposes of the
+                     Suffolk county drinking water protection program.
+        1210-B.   Sales and compensating use tax within Suffolk county
+                     for purposes of stabilizing property taxes and
+                     either paying certain judgments, compromises or
+                     settlements or paying debt service on obligations
+                     of said county issued to pay said judgments,
+                     compromises or settlements.
+        1210-C.   Sales and compensating use tax for purposes of the
+                     Schenectady county metroplex development authority.
+        1210-E.   Sales and compensating use taxes within Herkimer
+                     county.
+        1211.     Taxes of certain cities and school districts
+                     administered by state tax commission.
+        1212.     Certain taxes of school districts administered by
+                     commissioner.
+        1212-A.   Certain taxes of cities of one million or more
+                     administered by commissioner of taxation and
+                     finance.
+        1213.     Deliveries outside the jurisdiction where sale is
+                     made.
+        1214.     Certain sales of motor vehicles and vessels: proof
+                     required for registration of motor vehicles and
+                     vessels.
+        1215.     Definitions.
+        1216.     Special transitional provisions for utility services.
+        1217.     General transitional provisions.
+        1218.     Incorporation of articles twenty-eight and twenty-nine
+                     into local enactments.
+            PART II--LIMITATIONS ON AUTHORITY AND EXEMPTIONS
+                           SUBPART A--GENERAL
+Section 1220.      Territorial limitations.
+        1221.      Taxes not authorized.
+        1222.      Taxes to be in addition to others.
+        1223.      Limitations on rates.
+        1224.      Prior rights assigned counties and cities.
+            SUBPART B--TAXES ADMINISTERED BY CITIES, COUNTIES
+                          AND SCHOOL DISTRICTS
+Section 1230.      Exempt organizations.
+        1231.      Certain restrictions against double taxation.
+          SUBPART C--TAXES ADMINISTERED BY STATE TAX COMMISSION
+        1235.      Taxes paid to other jurisdictions.
+                   PART III--ADMINISTRATIVE PROVISIONS
+            SUBPART A--TAXES ADMINISTERED BY CITIES, COUNTIES
+                          AND SCHOOL DISTRICTS
+        1240.      Administration and collection.
+        1241.      Joint administration and collection of taxes by
+                     counties and cities.
+        1242.      Limitations on assessment.
+        1243.      Judicial review.
+             SUBPART B--TAXES ADMINISTERED BY TAX COMMISSION
+        1250.      Administration and collection.
+        1251.      Returns.
+        1252.      Payment of tax.
+        1253.      Registration.
+        1254.      Duty to collect taxes.
+                        SUBPART C--MISCELLANEOUS
+        1256.      Cooperation by localities.
+        1257.      Preparation of model local laws, resolutions and
+                     regulations by tax commission.
+                    PART IV--DISPOSITION OF REVENUES
+Section 1260.     Revenues resulting from taxes administered by cities
+                     over one million.
+        1261.     Revenues resulting from taxes administered by the
+                     commissioner.
+        1261-a.   Revenues from certain taxes imposed by Washington and
+                     Warren counties.
+        1262.     Disposition of revenues from taxes imposed by cities
+                     under one million, counties and school districts.
+        1262-a.   Sales tax; Tompkins county.
+        1262-b.   The Westchester county property tax stabilization and
+                     relief act.
+        1262-c.   Allocation of revenue from sales and use taxes to
+                     villages wholly or partially contained within
+                     Broome county.
+        1262-d.   Allocation and distribution of revenues from sales and
+                     use taxes to villages within the county of Albany.
+        1262-e.   Establishment of local government assistance programs
+                     in Nassau county.
+        1262-f.   Allocation and distribution of revenues from sales and
+                     use taxes within the village of Barker and town of
+                     Somerset, Niagara county.
+        1262-g.   The Monroe county sales tax adjustment act.
+        1262-g*2. Oneida county allocation and distribution of net
+                     collections from the additional one percent rate of
+                     sales and compensating use taxes.
+        1262-h.   Allocation and distribution of net collections from
+                     the additional one percent rate of sales and
+                     compensating use taxes in Steuben county.
+        1262-i.   Allocation of net collections from the additional one
+                     percent rate of sales and compensating use taxes in
+                     the county of Tioga.
+        1262-j.   Allocation and distribution of net collections from
+                     the additional sales and compensating use taxes in
+                     Suffolk county.
+        1262-k.   Allocation and distribution of net collections in
+                     Oswego county.
+        1262-l.   Allocation and distribution of net collections from
+                     the additional rate of sales and compensating use
+                     tax in Rockland county.
+        1262-l*2. Allocation and distribution of certain net collections
+                     in Warren county.
+        1262-m.   Allocation of net collections from the additional one
+                     percent rate of sales and compensating use taxes in
+                     the county of Chenango.
+        1262-m*2. Allocation and distribution of net collections in
+                     Saratoga county.
+        1262-n.   Disposition of net collections from the additional one
+                     percent rate of sales and compensating use taxes in
+                     the county of Niagara.
+        1262-o.   Disposition of net collections from the additional
+                     rate of sales and compensating use taxes in the
+                     county of Chautauqua.
+        1262-p.   Disposition of net collections from the additional one
+                     percent rate of sales and compensating use taxes in
+                     the county of Livingston.
+        1262-q.   Erie county-disposition of net collections from the
+                     one percent and the three-quarters of one percent
+                     rates of sales and compensating use taxes in excess
+                     of three percent.
+        1262-r.   Allocation and distribution of certain net collections
+                     in the county of Oswego.
+        1262-r*2. Disposition of net collections from sales and
+                     compensating use taxes imposed by the county of
+                     Ontario.
+        1262-s.   Disposition of net collections from the additional
+                     one-quarter of one percent rate of sales and
+                     compensating use taxes in the county of Herkimer.
+        1263.     Deposit of funds and use of funds not having assigned
+                     purposes.
+        1264.     References to certain taxes or revenues from certain
+                     taxes administered by the commissioner.
+```
+
+</details>

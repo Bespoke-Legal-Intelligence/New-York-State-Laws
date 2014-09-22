@@ -1,0 +1,53 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7407", "kind": "section", "law_id": "EDN", "location_id": "7407", "path": "TITLE 8 › ARTICLE 149 › SECTION 7407", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7407.md", "title": "Exempt persons"} -->
+# Education Law § 7407 — Exempt persons
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 149 — Public Accountancy](README.md)
+
+```text
+  § 7407. Exempt persons. Nothing contained in this article shall be
+construed to prohibit:
+  a. Any individual other than a certified public accountant or public
+accountant who is an officer of a corporation or partner of a
+partnership or sole proprietor of a business enterprise or member of a
+joint venture or member of a committee appointed by stockholders,
+creditors, courts, trustees, executors or administrators, or an employee
+of any of the foregoing, in his capacity as such, from signing,
+delivering, or issuing any financial, accounting or related statement or
+report thereon, relating to said corporation, partnership, business
+venture, joint venture, committee, trust or estate, provided, however,
+that in so doing such person does not hold himself or herself out to be
+a certified public accountant or public accountant;
+  b. An attorney-at-law, or a partnership, limited liability
+partnership, limited liability company or professional service
+corporation of attorneys-at-law from signing a financial, accounting or
+related statement or report thereon, prepared by such attorney or
+organizations of attorneys as incidental to the practice of law;
+  c. Any individual from serving as an employee of a certified public
+accountant, public accountant or firm licensed under this article;
+  d. Any individual, not engaged in practice as a certified public
+accountant or public accountant within the state, from performing
+services within the state which are incidental to the practice conducted
+by him outside the state;
+  e. Any official or employee of a governmental unit, agency or
+instrumentality other than a certified public accountant or public
+accountant in the performance of his official duties from signing,
+delivering or issuing any financial, accounting, or related statement or
+report thereon relating to said unit, agency or instrumentality; or
+  f. A corporation chartered in the state of New York to engage in the
+practice of public accountancy and so engaged as its principal activity
+on and before the first day of July, nineteen hundred fifty-nine, from
+continuing in such practice as long as its corporate acts comply with
+the board of regents rules, provided all employees of such corporation
+performing any acts constituting the practice of public accountancy as
+defined herein and who are not certified public accountants or public
+accountants licensed under this article shall in the performance of such
+acts be under the supervision of certified public accountants or public
+accountants licensed in this state; or
+  g. An individual other than a certified public accountant or public
+accountant, or an entity not required to register under paragraph a of
+subdivision three of section seventy-four hundred eight of this article,
+from offering to perform or performing the types of services set forth
+in subdivision three of section seventy-four hundred one of this article
+or preparing financial statements in accordance with subdivision five of
+section seventy-four hundred eight of this article.
+```

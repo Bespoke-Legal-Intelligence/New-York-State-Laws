@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 183", "kind": "section", "law_id": "STF", "location_id": "183", "path": "ARTICLE 12 › SECTION 183", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/183.md", "title": "Custodian's books of account of court funds"} -->
+# State Finance Law § 183 — Custodian's books of account of court funds
+
+[State Finance Law](../README.md) › [Article 12 — Court Funds](README.md)
+
+```text
+  § 183. Custodian's books of account of court funds.  Every officer
+having charge of moneys, securities or other property in the custody of
+the court, shall keep a book or books in which he shall make an exact
+account thereof. Such book or books shall state the name of the court,
+the title of the case, the date of receipt, from whom received, the
+amount of money, if any, and a description of the securities or other
+property received, if any, and each addition of interest; also the date
+and description of each order for payment and the dates and amounts of
+payments thereunder and to whom paid; also an account of each change of
+investment, if any.
+```

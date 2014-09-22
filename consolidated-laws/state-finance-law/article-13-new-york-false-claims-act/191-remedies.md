@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 191", "kind": "section", "law_id": "STF", "location_id": "191", "path": "ARTICLE 13 › SECTION 191", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/191.md", "title": "Remedies"} -->
+# State Finance Law § 191 — Remedies
+
+[State Finance Law](../README.md) › [Article 13 — New York False Claims Act](README.md)
+
+```text
+  § 191. Remedies. 1. Any current or former employee, contractor, or
+agent of any private or public employer who is discharged, demoted,
+suspended, threatened, harassed or in any other manner discriminated
+against in the terms and conditions of employment, or otherwise harmed
+or penalized by an employer, or a prospective employer, because of
+lawful acts done by the employee, contractor, agent, or associated
+others in furtherance of an action brought under this article or other
+efforts to stop one or more violations of this article, shall be
+entitled to all relief necessary to make the employee, contractor or
+agent whole. Such relief shall include but not be limited to:
+  (a) an injunction to restrain continued discrimination;
+  (b) hiring, contracting or reinstatement to the position such person
+would have had but for the discrimination or to an equivalent position;
+  (c) reinstatement of full fringe benefits and seniority rights;
+  (d) payment of two times back pay, plus interest; and
+  (e) compensation for any special damages sustained as a result of the
+discrimination, including litigation costs and reasonable attorneys'
+fees.
+  2. For purposes of this section, a "lawful act" shall include, but not
+be limited to, obtaining or transmitting to the state, a local
+government, a qui tam plaintiff, or private counsel solely employed to
+investigate, potentially file, or file a cause of action under this
+article, documents, data, correspondence, electronic mail, or any other
+information, even though such act may violate a contract, employment
+term, or duty owed to the employer or contractor, so long as the
+possession and transmission of such documents are for the sole purpose
+of furthering efforts to stop one or more violations of this article.
+Nothing in this subdivision shall be interpreted to prevent any law
+enforcement authority from bringing a civil or criminal action against
+any person for violating any provision of law.
+  3. An employee, contractor or agent described in subdivision one of
+this section may bring an action in the appropriate supreme court for
+the relief provided in this section.
+```

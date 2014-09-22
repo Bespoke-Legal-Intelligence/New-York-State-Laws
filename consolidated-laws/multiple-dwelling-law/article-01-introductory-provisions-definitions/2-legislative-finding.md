@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Multiple Dwelling Law § 2", "kind": "section", "law_id": "MDW", "location_id": "2", "path": "ARTICLE 1 › SECTION 2", "repealed": false, "repealed_date": null, "source": "nys-laws:MDW/2.md", "title": "Legislative finding"} -->
+# Multiple Dwelling Law § 2 — Legislative finding
+
+[Multiple Dwelling Law](../README.md) › [Article 1 — Introductory Provisions; Definitions](README.md)
+
+```text
+  § 2. Legislative finding. It is hereby declared that intensive
+occupation of multiple dwelling sites, overcrowding of multiple dwelling
+rooms, inadequate provision for light and air, and insufficient
+protection against the defective provision for escape from fire, and
+improper sanitation of multiple dwellings in certain areas of the state
+are a menace to the health, safety, morals, welfare, and reasonable
+comfort of the citizens of the state; and that the establishment and
+maintenance of proper housing standards requiring sufficient light, air,
+sanitation and protection from fire hazards are essential to the public
+welfare.  Therefore the provisions hereinafter prescribed are enacted
+and their necessity in the public interest is hereby declared as a
+matter of legislative determination.
+```

@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 324", "kind": "section", "law_id": "PBH", "location_id": "324", "path": "ARTICLE 3 › TITLE 2 › SECTION 324", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/324.md", "title": "Local health officer; general powers and duties"} -->
+# Public Health Law § 324 — Local health officer; general powers and duties
+
+[Public Health Law](../../README.md) › [Article 3 — Local Health Organization](../README.md) › [Title 2 — Local Health Officers](README.md)
+
+```text
+  § 324. Local health officer; general powers and duties.  1. In
+addition to such other duties as may be lawfully imposed upon him and
+subject to the provisions of this chapter and the sanitary code, every
+health officer shall:
+  (a) make an annual sanitary survey and maintain sanitary supervision
+over the territory within his jurisdiction;
+  (b) make a sanitary inspection periodically of all places of public
+assemblage, and report thereon to those responsible for the maintenance
+of such places of public assemblage;
+  (c) promote the spread of information as to the causes, nature and
+prevention of prevalent diseases, and the preservation and improvement
+of health;
+  (d) take such steps as may be necessary to secure prompt and full
+reports by physicians of reportable diseases and prompt and complete
+registration of births and deaths;
+  (e) enforce within his jurisdiction the provisions of this chapter and
+the sanitary code; and,
+  (f) attend conferences called by the commissioner or his authorized
+representatives.
+  2. The health officer may employ such persons as shall be necessary to
+enable him to carry into effect the orders and regulations of the board
+of health and the provisions of this chapter and of the sanitary code,
+and fix their compensation within the limits of the appropriation
+therefor.
+  3. A health officer appointed for two or more towns or villages shall
+have and exercise in each such town or village all the rights, powers,
+duties and obligations conferred and imposed by law upon a health
+officer therein, in the same manner as though appointed separately,
+rather than jointly, by the local boards of health for each such town or
+village.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Town Law § 58-A", "kind": "section", "law_id": "TWN", "location_id": "58-A", "path": "ARTICLE 3-B › SECTION 58-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/58-A.md", "title": "Powers and duties"} -->
+# Town Law § 58-A — Powers and duties
+
+[Town Law](../README.md) › [Article 3-B — Town Manager](README.md)
+
+```text
+  § 58-a. Powers and duties. The town manager shall be the chief
+administrative officer of the town and may be given such powers and
+duties by local law, as the town board in its discretion shall prescribe
+notwithstanding the provisions of any general or special law to the
+contrary, unless the legislature expressly shall have restricted or
+prohibited the adoption of a local law relating to the delegation or
+grant of such powers provided, however, that the powers of legislation
+and appropriation shall be exercised by the town board. Subject to the
+provisions of sections twenty-three and twenty-four of the municipal
+home rule law, the town board may also, by local law, grant or transfer
+to such town manager powers and duties held by elected officials of the
+town.
+```

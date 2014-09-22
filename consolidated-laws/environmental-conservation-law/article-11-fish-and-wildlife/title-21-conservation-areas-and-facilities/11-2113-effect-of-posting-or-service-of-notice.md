@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-2113", "kind": "section", "law_id": "ENV", "location_id": "11-2113", "path": "ARTICLE 11 › TITLE 21 › SECTION 11-2113", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-2113.md", "title": "Effect of posting or service of notice"} -->
+# Environmental Conservation Law § 11-2113 — Effect of posting or service of notice
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 21 — Conservation Areas and Facilities; Private Refuges and Posted Lands](README.md)
+
+```text
+§ 11-2113. Effect of posting or service of notice.
+  1. No person shall enter or remain unlawfully or engage in any
+activity upon land which has been posted pursuant to section 11-2111 in
+violation of the terms of such posted signs or the terms of any written
+notice and warning served upon such person pursuant to subdivision four
+of section 11-2111.
+  2. No person shall post any sign prohibiting or limiting activities on
+land pursuant to this article, unless authorized to do so by the owner,
+lawful occupant or other person or organization having authority to post
+such lands.
+  3. No unauthorized person shall injure, conceal, deface or remove a
+sign erected and maintained as provided in section 11-2111.
+```

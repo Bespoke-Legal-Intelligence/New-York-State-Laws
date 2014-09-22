@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1680-F", "kind": "section", "law_id": "PBA", "location_id": "1680-F", "path": "ARTICLE 8 › TITLE 4 › SECTION 1680-F", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1680-F.md", "title": "Roswell Park Cancer Institute development account"} -->
+# Public Authorities Law § 1680-F — Roswell Park Cancer Institute development account
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 4 — Dormitory Authority](README.md)
+
+```text
+  § 1680-f. Roswell Park Cancer Institute development account.  The
+dormitory authority shall create and establish a special account to be
+known as the Roswell Park Cancer Institute development account and shall
+pay into such account any moneys which may be made available to the
+authority for the purpose of such account from any source, including but
+not limited to, moneys appropriated by and made available pursuant to
+appropriations by the state and any increase or interest earned by or
+increments to the account due to the investment thereof prior to
+expenditures from such account for the purposes of the Roswell Park
+Cancer Institute.  The moneys held in or credited to the Roswell Park
+Cancer Institute development account established under this section
+shall be expended solely to carry out the development of the Roswell
+Park Cancer Institute by the authority.
+```

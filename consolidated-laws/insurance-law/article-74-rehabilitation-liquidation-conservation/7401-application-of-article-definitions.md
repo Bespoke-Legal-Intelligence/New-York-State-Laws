@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7401", "kind": "section", "law_id": "ISC", "location_id": "7401", "path": "ARTICLE 74 › SECTION 7401", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7401.md", "title": "Application of article; definitions"} -->
+# Insurance Law § 7401 — Application of article; definitions
+
+[Insurance Law](../README.md) › [Article 74 — Rehabilitation, Liquidation, Conservation and Dissolution of Insurers](README.md)
+
+```text
+  § 7401. Application of article; definitions. (a) This article shall
+apply to all corporations, associations, societies, orders, firms, and
+individuals to which this chapter is applicable, or which are subject to
+examination or supervision by the superintendent under this chapter or
+under any other law of this state, or which are doing or attempting to
+do or representing that they are doing the business of insurance in this
+state, or which are in process of organization for the purpose of or
+intending to do such business therein, anything in this chapter or any
+other law of this state to the contrary notwithstanding.
+  (b) In this article:
+  (1) "insurer" includes all corporations, associations, societies,
+orders, firms, and individuals specified in subsection (a) hereof;
+  (2) "assets" includes all deposits and funds of a special or trust
+nature.
+```

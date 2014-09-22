@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 94", "kind": "section", "law_id": "WKC", "location_id": "94", "path": "ARTICLE 6 › SECTION 94", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/94.md", "title": "Withdrawal from fund"} -->
+# Workers' Compensation Law § 94 — Withdrawal from fund
+
+[Workers' Compensation Law](../README.md) › [Article 6 — State Insurance Fund](README.md)
+
+```text
+  § 94. Withdrawal from fund.  a.   Any employer may, upon complying
+with subdivision two or three of section fifty of this chapter, withdraw
+from the fund by turning in his insurance contract for cancellation,
+provided he has given written notice to the fund of his intention to
+withdraw not less than thirty days before the effective date of such
+cancellation.  Upon receipt of such notice the fund shall, at least ten
+days prior to the effective date file in the office of the chairman a
+notice of such cancellation date.
+  In no event shall the insurance contract be deemed cancelled until at
+least ten days after the date of such filing, any earlier date mentioned
+in the notice to the contrary notwithstanding.
+  If an employer withdraws from the fund upon complying with subdivision
+two of section fifty of this chapter, the new insurance contract with
+the stock corporation, mutual corporation or reciprocal insurer shall be
+deemed not to take effect until the cancellation of such employer's
+contract with the state insurance fund has become effective.
+  b. Notwithstanding any of the provisions contained in subdivision five
+of section fifty-four of this chapter the fund may cancel a contract of
+insurance at any time during the contract period upon being furnished by
+an employer with proof satisfactory to the fund that he is no longer
+required to comply with section fifty of this chapter by reason of his
+having discontinued, sold, transferred, assigned or otherwise disposed
+of his business and has ceased employing workmen or operatives; or,
+where the insurance contract has been issued to cover the operations
+under a specific contract or at a specified location, that such
+operations have been completed or discontinued and the employment of
+workmen or operatives in connection therewith has ceased; provided,
+however, such cancellation shall not become effective until at least ten
+days after notice thereof shall have been filed in the office of the
+chairman.
+```

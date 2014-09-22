@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 203", "kind": "section", "law_id": "BNK", "location_id": "203", "path": "ARTICLE 5 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/203.md", "title": "Change of location, name or business"} -->
+# Banking Law § 203 — Change of location, name or business
+
+[Banking Law](../README.md) › [Article 5 — Foreign Banking Corporations and National Banks](README.md)
+
+```text
+§ 203. Change of location, name or business.
+  Any foreign corporation licensed pursuant to article two of this
+chapter to engage in business in this state, may make a written
+application to the superintendent for leave to do one or more of the
+following:
+  1. To change its place of business from the place designated in its
+license to another place in this state. An application for such change
+shall be accompanied by an investigation fee as prescribed pursuant to
+section eighteen-a of this chapter.
+  2. To change its corporate name if such change has been effected under
+the laws of the jurisdiction of its incorporation.
+  3. To enlarge, limit or otherwise change the business which it
+proposes to do in this state.
+```

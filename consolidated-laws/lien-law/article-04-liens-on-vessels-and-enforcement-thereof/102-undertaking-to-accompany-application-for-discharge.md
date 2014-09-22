@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 102", "kind": "section", "law_id": "LIE", "location_id": "102", "path": "ARTICLE 4 › SECTION 102", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/102.md", "title": "Undertaking to accompany application for discharge"} -->
+# Lien Law § 102 — Undertaking to accompany application for discharge
+
+[Lien Law](../README.md) › [Article 4 — Liens On Vessels and Enforcement Thereof](README.md)
+
+```text
+  § 102. Undertaking to accompany application for discharge. The
+application shall be accompanied by an undertaking to the lienor
+executed by at least two sureties in a sum at least twice the amount
+specified in the warrant, to the effect that the person making the
+application for the discharge of the vessel will pay the amount of all
+claims and demands which shall be established to be due to the person in
+whose behalf the warrant was issued, and to have been a subsisting lien
+on the vessel at the time of its issue. The undertaking when found
+sufficient, must be approved by the justice to whom the application is
+made as to the sufficiency of the sureties, and the lienor may examine
+the sureties as to their sufficiency at such time and places as may be
+fixed by such justice.
+```

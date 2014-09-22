@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 80", "kind": "section", "law_id": "DOM", "location_id": "80", "path": "ARTICLE 6 › SECTION 80", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/80.md", "title": "Guardians in socage"} -->
+# Domestic Relations Law § 80 — Guardians in socage
+
+[Domestic Relations Law](../README.md) › [Article 6 — Guardians](README.md)
+
+```text
+  § 80. Guardians in socage. Where a minor for whom a general guardian
+of the property has not been appointed shall acquire real property, the
+guardianship of his property with the rights, powers and duties of a
+guardian in socage belongs: (1) to the parents jointly, or, if they be
+separated, or divorced, to the parent who has been given the custody of
+the minor by a decree of court, or in the absence of such a decree, to
+the parent having the actual custody of the minor; (2) if one of the
+parents be dead, to the sole surviving parent; (3) if there be no father
+or mother, to the nearest and eldest relative of full age, not under any
+legal incapacity.
+  The rights and authority of every such guardian shall be superseded by
+a testamentary or other guardian appointed in pursuance of this article
+or in pursuance of article ten of the surrogates court act.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2730", "kind": "section", "law_id": "PBH", "location_id": "2730", "path": "ARTICLE 27-C › SECTION 2730", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2730.md", "title": "Declaration of policy"} -->
+# Public Health Law § 2730 — Declaration of policy
+
+[Public Health Law](../README.md) › [Article 27-C — Birth Defects Institute](README.md)
+
+```text
+  § 2730. Declaration of policy.  Occurrence of malformation or
+inherited disease at the time of birth is a tragedy for the child, the
+family and the community, and a matter of vital concern to the public
+health. In order to provide for the protection and promotion of the
+health of the inhabitants of the state, the department of health shall
+have the central and comprehensive responsibility for the development
+and administration of the state's policy with respect to the conduct of
+scientific investigations and research concerning the causes,
+prevention, treatment and cure of birth defects and genetic and allied
+diseases.
+```

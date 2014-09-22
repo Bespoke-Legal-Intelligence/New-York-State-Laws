@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 130", "kind": "section", "law_id": "SCC", "location_id": "130", "path": "ARTICLE 9 › SECTION 130", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/130.md", "title": "Commissioner of public safety; appointees"} -->
+# Second Class Cities Law § 130 — Commissioner of public safety; appointees
+
+[Second Class Cities Law](../README.md) › [Article 9 — Department of Public Safety](README.md)
+
+```text
+  § 130. Commissioner of public safety; appointees. The commissioner of
+public safety shall be the head of the department of public safety. He
+may appoint, to hold office during his pleasure, a deputy, a health
+officer and a superintendent of buildings. Whenever a vacancy occurs in
+the office of the chief of police or chief of the fire department, the
+commissioner of public safety, shall appoint, in his discretion, a
+person deemed by him to be suitable and competent to fill the same. The
+chief of police and chief of the fire department shall each hold office
+during good behavior, or until permanently incapacitated or unfit to
+discharge his duties.  The commissioner may appoint such other
+subordinates as may be prescribed by the board of estimate and
+apportionment to hold office, except as otherwise provided by law,
+during his pleasure. In case of the absence or disability of the
+commissioner or a vacancy in the office, the deputy shall discharge the
+duties of the office until the commissioner returns, his disability
+ceases or the vacancy is filled. Before entering upon the discharge of
+the duties of their respective offices, the commissioner, deputy, health
+officer, superintendent of buildings, chief of police and chief of the
+fire department shall each execute and file with the city clerk an
+official undertaking in such penal sum as may be prescribed by the
+common council.
+```

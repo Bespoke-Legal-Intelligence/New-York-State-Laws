@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 85", "kind": "section", "law_id": "TRA", "location_id": "85", "path": "ARTICLE 3 › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/85.md", "title": "Service and effect of orders; stay"} -->
+# Transportation Law § 85 — Service and effect of orders; stay
+
+[Transportation Law](../README.md) › [Article 3 — Jurisdiction of Commissioner; Proceedings Before Commissioner; Recovery of Penalties; Court Preferences; Fees](README.md)
+
+```text
+  § 85. Service and effect of orders; stay.
+  1. Every order of the commissioner shall be served upon every person
+or corporation to be affected thereby, either by personal delivery of a
+copy thereof; or by mailing a copy thereof, in a sealed package with
+postage prepaid, to the person to be affected thereby or, in the case of
+a corporation, to any officer or agent thereof upon whom a summons may
+be served in accordance with the provisions of the civil practice law
+and rules. Within a time specified in the order of the commissioner
+every person and corporation upon whom it is served must if so required
+in the order notify the commissioner, in writing, whether the terms of
+the order are accepted and will be obeyed and in the case of a
+corporation such notification shall be signed and acknowledged by a
+person or officer duly authorized by the corporation to execute such
+acceptance and agreement. Every order of the commissioner shall take
+effect at a time therein specified and shall continue in force either
+for a period which may be designated therein or until changed or
+abrogated by the commissioner, unless such order be unauthorized by this
+chapter or any other act or be in violation of law.
+  2. No order staying or suspending an order of the commissioner fixing
+any rate, fare or charge or joint rate, fare or charge shall be made by
+the supreme court otherwise than upon notice and after hearing; and if
+the order of the commissioner is suspended, the order suspending the
+same shall contain a specific finding based upon evidence submitted to
+the court and identified by reference thereto, that great and
+irreparable damage would otherwise result to the petitioner and
+specifying the nature of the damage.
+```

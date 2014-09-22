@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1264", "kind": "section", "law_id": "TAX", "location_id": "1264", "path": "ARTICLE 29 › PART 4 › SECTION 1264", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1264.md", "title": "References to certain taxes or revenues from certain taxes administered by the commissioner"} -->
+# Tax Law § 1264 — References to certain taxes or revenues from certain taxes administered by the commissioner
+
+[Tax Law](../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../README.md) › [Part 4 — Disposition of Revenues](README.md)
+
+```text
+  § 1264. References to certain taxes or revenues from certain taxes
+administered by the commissioner. Notwithstanding any provision of this
+article or other law to the contrary: where a section of subpart B of
+part one of this article or a local law, ordinance or resolution adopted
+pursuant to the authority of such subpart B or an agreement described in
+subdivision (c) of section twelve hundred sixty-two of this part or a
+section of this part refers to revenues or net collections, or the like,
+from a tax or taxes imposed pursuant to the authority of such subpart B,
+and such tax or taxes are imposed on motor fuel and diesel motor fuel,
+any such reference expressed as a percentage of the rate imposed as a
+percentage or as a percentage of such revenues or net collections, or
+the like, shall be deemed also to refer to such tax or taxes imposed on
+such fuels at a rate of cents per gallon; and any such amount expressed
+as a percentage shall be calculated in a like manner as an equal
+fraction of such tax on such fuels imposed at a rate of cents per
+gallon.
+```

@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 204", "kind": "section", "law_id": "RPT", "location_id": "204", "path": "ARTICLE 2 › SECTION 204", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/204.md", "title": "Oaths and affidavits; subpoenas"} -->
+# Real Property Tax Law § 204 — Oaths and affidavits; subpoenas
+
+[Real Property Tax Law](../README.md) › [Article 2 — State Board](README.md)
+
+```text
+  § 204. Oaths and affidavits; subpoenas. Each member of the board, and
+any officer or employee of the state board of real property tax services
+duly authorized by resolution of the board, shall have power to
+administer oaths, take affidavits and certify acknowledgements in
+relation to any matter or proceeding in the exercise of the powers or
+duties of the board under this chapter or any other law and in relation
+to any written instrument authorized or required to be filed with the
+board. The board or any officer or employee of the state board of real
+property tax services duly authorized by resolution of the board shall
+have power to subpoena and require the attendance of witnesses and the
+production of books, papers and documents pertinent to the
+investigations and inquiries which it is authorized to conduct and to
+examine them in relation to any matter which it has power to
+investigate, and to issue commissions for the examination of witnesses
+who are out of the state or unable to attend before the board or excused
+from attendance. A subpoena issued under this section shall be regulated
+by the civil practice law and rules.
+```

@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "County Law § 843", "kind": "section", "law_id": "CNT", "location_id": "843", "path": "ARTICLE 23 › SECTION 843", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/843.md", "title": "Advancing school taxes in Suffolk county"} -->
+# County Law § 843 — Advancing school taxes in Suffolk county
+
+[County Law](../README.md) › [Article 23 — Provisions Applicable to Certain Counties](README.md)
+
+```text
+  § 843. Advancing school taxes in Suffolk county. In Suffolk county the
+county treasurer shall advance to the several school districts within
+said county, in anticipation of the collection of the school tax levies
+therein, and to provide funds for meeting the expenses in the said
+several districts prior to the receiving of moneys from the collection
+of school taxes, from funds in his hands available, such advancements
+only to be made upon a verified copy of the annual budget voted at the
+preceding school meeting and verified report of the trustees or board of
+education of each district applying for such advancement showing the
+amount of moneys on hand and a list of unpaid current bills of said
+district, such advancements to be made in installments in the months of
+September, October, November and December, and not exceeding fifteen per
+centum in September, fifteen per centum in October, ten per centum in
+November, and ten per centum in December, of the total amount of the
+annual budget of such district to which such advancement be made. The
+county treasurer of Suffolk county is hereby authorized to reimburse the
+county of Suffolk for such advancements as soon as the funds collected
+in the various school districts are available therefor.
+```

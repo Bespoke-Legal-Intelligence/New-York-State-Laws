@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-1929", "kind": "section", "law_id": "ENV", "location_id": "71-1929", "path": "ARTICLE 71 › TITLE 19 › SECTION 71-1929", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-1929.md", "title": "Violations; civil liability"} -->
+# Environmental Conservation Law § 71-1929 — Violations; civil liability
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 19 — Enforcement of Titles 1 Through 11 and 15 Through 21 Inclusive of Article 17 and Spills of Bulk Liquids](README.md)
+
+```text
+§ 71-1929. Violations; civil liability.
+  1. A person who violates any of the provisions of, or who fails to
+perform any duty imposed by titles 1 through 11 inclusive and title 19
+of article 17, or the rules, regulations, orders or determinations of
+the commissioner promulgated thereto or the terms of any permit issued
+thereunder, shall be liable to a penalty of not to exceed thirty-seven
+thousand five hundred dollars per day for each violation, and, in
+addition thereto, such person may be enjoined from continuing such
+violation as hereinafter provided. Violation of a permit condition shall
+constitute grounds for revocation of such permit, which revocation may
+be accomplished either as provided in paragraph f of subdivision 4 of
+section 17-0303 or by order of judgment of the supreme court as an
+alternate or additional civil penalty in an action brought pursuant to
+subdivision 3 of this section.
+  2. Any penalties for violations of titles 1 through 11 inclusive and
+title 19 of article 17 resulting in the killing of fish or shellfish,
+shall be credited to the conservation fund established by section 83 of
+the State Finance Law and shall be available for the uses and purposes
+of such fund.
+  3. The penalties provided by subdivisions one and two shall be
+recoverable in an action brought by the Attorney General.
+  4. An action or cause of action for the recovery of a penalty under
+this title may be settled or compromised by the Attorney General after
+proceedings are brought to recover such penalties and prior to the entry
+for judgment therefor.
+```

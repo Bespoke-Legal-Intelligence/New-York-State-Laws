@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2559-A", "kind": "section", "law_id": "PBH", "location_id": "2559-A", "path": "ARTICLE 25 › TITLE 2-A › SECTION 2559-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2559-A.md", "title": "Transportation"} -->
+# Public Health Law § 2559-A — Transportation
+
+[Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 2-A — Early Intervention Program For Infants and Toddlers With Disabilities and Their Families](README.md)
+
+```text
+  § 2559-a. Transportation.  The municipality in which an eligible child
+resides shall, beginning with the first day of service, provide either
+directly, by contract, or through reimbursement at a mileage rate
+authorized by the municipality for the use of a private vehicle or for
+other reasonable transportation costs, for suitable transportation
+pursuant to section twenty-five hundred forty-five of this title. All
+contracts for transportation of such children shall be provided pursuant
+to the procedures set forth in section two hundred thirty-six of the
+family court act, using the date on which the child's IFSP is
+implemented, in lieu of the date the court order was issued; provided,
+however, that the city of New York shall provide such transportation in
+accordance with the provisions of chapter one hundred thirty of the laws
+of nineteen hundred ninety-two, if applicable.
+```

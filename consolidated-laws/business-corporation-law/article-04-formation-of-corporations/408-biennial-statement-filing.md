@@ -1,0 +1,54 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 408", "kind": "section", "law_id": "BSC", "location_id": "408", "path": "ARTICLE 4 › SECTION 408", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/408.md", "title": "Biennial statement; filing"} -->
+# Business Corporation Law § 408 — Biennial statement; filing
+
+[Business Corporation Law](../README.md) › [Article 4 — Formation of Corporations](README.md)
+
+```text
+§ 408. Biennial statement; filing.
+  1. Each domestic corporation, and each foreign corporation authorized
+to do business in this state, shall, during the applicable filing period
+as determined by subdivision three of this section, file a statement
+setting forth:
+  (a) The name and business address of its chief executive officer.
+  (b) The street address of its principal executive office.
+  (c) The post office address within or without this state to which the
+secretary of state shall mail a copy of any process against it served
+upon him or her. Such address shall supersede any previous address on
+file with the department of state for this purpose.
+  2. Such statement shall be made on forms prescribed by the secretary
+of state, and the information therein contained shall be given as of the
+date of the execution of the statement. Such statement shall only
+request reporting of information required under paragraph one of this
+section. It shall be signed and delivered to the department of state.
+  3. For the purpose of this section the applicable filing period for a
+corporation shall be the calendar month during which its original
+certificate of incorporation or application for authority were filed or
+the effective date thereof if stated. The applicable filing period shall
+only occur: (a) annually, during the period starting on April 1, 1992
+and ending on March 31, 1994; and (b) biennially, during a period
+starting on April 1 and ending on March 31 thereafter. Those
+corporations that filed between April 1, 1992 and June 30, 1994 shall
+not be required to file such statements again until such time as they
+would have filed, had this subdivision not been amended.
+  4. The provisions of subdivision eleven of section ninety-six of the
+executive law and paragraph (g) of section one hundred four of this
+chapter shall not be applicable to filings pursuant to this section.
+  5. The provisions of this section and section 409 of this article
+shall not apply to a farm corporation. For the purposes of this
+subdivision, the term "farm corporation" shall mean any domestic
+corporation or foreign corporation authorized to do business in this
+state under this chapter engaged in the production of crops, livestock
+and livestock products on land used in agricultural production, as
+defined in section 301 of the agriculture and markets law.
+  6. No such statement shall be accepted for filing when a certificate
+of resignation for receipt of process has been filed under section three
+hundred six-A of this chapter unless the corporation has stated a
+different address for process which does not include the name of the
+party previously designated in the address for process in such
+certificate.
+  7. A domestic corporation or foreign corporation may amend its
+statement to change the information required by subdivisions (a) and (b)
+of paragraph one of this section. Such amendment shall be made on forms
+prescribed by the secretary of state. It shall be signed and delivered
+to the department of state.
+```

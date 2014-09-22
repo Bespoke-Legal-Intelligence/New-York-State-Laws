@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 62-A", "kind": "section", "law_id": "PBO", "location_id": "62-A", "path": "ARTICLE 4 › SECTION 62-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/62-A.md", "title": "Leave of absence for certain appointive state officers; temporary vacancy"} -->
+# Public Officers Law § 62-A — Leave of absence for certain appointive state officers; temporary vacancy
+
+[Public Officers Law](../README.md) › [Article 4 — Powers and Duties of Public Officers](README.md)
+
+```text
+  § 62-a. Leave of absence for certain appointive state officers;
+temporary vacancy. A person holding a state office by appointment of the
+governor, or of the governor by and with the consent of the senate, may
+be granted by the governor, on the application of such person, a leave
+of absence from such office, without pay, for a stated period less than
+the remainder of the unexpired term. The office shall be deemed vacant
+for the purpose only of filling it, in the manner provided by law, for a
+term expiring at the end of such period. At or after the end of such
+period, the person who is granted such leave of absence, if not then
+disqualified, may resume such office, its title, duties and salary for
+the unexpired regular term, without reappointment, and the interim
+incumbent, if any, shall cease to hold it. On or after the beginning of
+such period, such person, if otherwise eligible, may be appointed to and
+hold any other appointive office in the state service; but he shall
+resign therefrom before resuming such former office under the foregoing
+provisions. A person resuming such office shall file in the office of
+the department of state his statement in writing that he elects to and
+does resume it pursuant to this section.
+```

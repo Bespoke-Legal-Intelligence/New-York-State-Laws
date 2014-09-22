@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1160", "kind": "section", "law_id": "TAX", "location_id": "1160", "path": "ARTICLE 28-A › SECTION 1160", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1160.md", "title": "Special tax on passenger car rentals"} -->
+# Tax Law § 1160 — Special tax on passenger car rentals
+
+[Tax Law](../README.md) › [Article 28-A — Special Tax On Passenger Car Rentals](README.md)
+
+```text
+  § 1160. Special tax on passenger car rentals. (a) (1) In addition to
+any tax imposed under any other article of this chapter, there is hereby
+imposed and there shall be paid a tax of six percent upon the receipts
+from every rental of a passenger car which is a retail sale of such
+passenger car.
+  (2) Except to the extent that a passenger car rental described in
+paragraph one of this subdivision has already been or will be subject to
+the tax imposed under such paragraph and except as otherwise exempted
+under this article, there is hereby imposed on every person and there
+shall be paid a use tax for the use within this state of any passenger
+car rented by the user, which is a purchase at retail of such passenger
+car, but not including any lease of a passenger car to which subdivision
+(i) of section eleven hundred eleven of this chapter applies. For
+purposes of this paragraph, the tax shall be at the rate of six percent
+of the consideration given or contracted to be given for such property,
+or for the use of such property, including any charges for shipping or
+delivery as described in paragraph three of subdivision (b) of section
+eleven hundred one of this chapter, but excluding any credit for
+tangible personal property accepted in part payment and intended for
+resale.
+  (b) For purposes of this section, the following definitions shall
+apply:
+  (1) Motor vehicle. A motor vehicle as defined in section one hundred
+twenty-five of the vehicle and traffic law, but not including a
+motorcycle.
+  (2) Passenger car. A motor vehicle having a gross vehicle weight of
+nine thousand pounds or less with a seating capacity of nine persons or
+less designed for passenger transportation.
+  (3) Rental. The transfer of possession of a motor vehicle, whether or
+not the motor vehicle is required to be or is registered by this state,
+for a consideration, without the transfer of the ownership of such motor
+vehicle, but not including a lease described in subdivision (i) of
+section eleven hundred eleven of this chapter.
+```

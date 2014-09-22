@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 89", "kind": "section", "law_id": "PVH", "location_id": "89", "path": "ARTICLE 4 › SECTION 89", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/89.md", "title": "Consolidated projects; operation of more than one project"} -->
+# Private Housing Finance Law § 89 — Consolidated projects; operation of more than one project
+
+[Private Housing Finance Law](../README.md) › [Article 4 — Limited Dividend Housing Companies](README.md)
+
+```text
+  § 89. Consolidated projects; operation of more than one project.  The
+commissioner may permit the consolidation of two or more approved
+projects or the extension or amendment of any approved project or the
+consolidation of any approved project with a proposed project. In any of
+these events, the consolidated project shall be treated as an original
+project and an application shall be submitted as in the case of an
+original project and rents and costs may be averaged throughout the
+consolidated or extended project. The commissioner may likewise permit
+any housing company to organize and operate more than one project or to
+take over any project heretofore approved by the commissioner and to
+operate it independently of other projects of the housing company.  The
+commissioner may in his discretion decline to permit more than one
+project to be operated by the same housing company.
+```

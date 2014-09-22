@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 7020", "kind": "section", "law_id": "BNK", "location_id": "7020", "path": "ARTICLE 15 › TITLE 7 › SECTION 7020", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/7020.md", "title": "Payment of indemnification other than by court award"} -->
+# Banking Law § 7020 — Payment of indemnification other than by court award
+
+[Banking Law](../../README.md) › [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](../README.md) › [Title 7 — Directors and Officers](README.md)
+
+```text
+  § 7020. Payment of indemnification other than by court award. 1. A
+person who has been successful, on the merits or otherwise, in the
+defense of a civil or criminal action or proceeding of the character
+described in section seven thousand nineteen shall be entitled to
+indemnification as authorized in such section.
+  2. Except as provided in subdivision one, any indemnification under
+section seven thousand nineteen or otherwise permitted by section seven
+thousand eighteen, unless ordered by a court under section seven
+thousand twenty-one, shall be made by the corporation, only if
+authorized in the specific case:
+  (a) By the board acting by a quorum consisting of directors who are
+not parties to such action or proceeding upon a finding that the
+director or officer has met the standard of conduct set forth in section
+seven thousand nineteen or established pursuant to section seven
+thousand eighteen, as the case may be, or,
+  (b) If a quorum under paragraph (a) is not obtainable or, even if
+obtainable, a quorum of disinterested directors so directs:
+  (i) By the board upon the opinion in writing of independent legal
+counsel that indemnification is proper in the circumstances because the
+applicable standard of conduct set forth in such sections has been met
+by such director or officer, or
+  (ii) By the stockholders upon a finding that the director or officer
+has met the applicable standard of conduct set forth in such sections.
+  3. Expenses incurred in defending a civil or criminal action or
+proceeding may be paid by the corporation in advance of the final
+disposition of such action or proceeding upon receipt of an undertaking
+by or on behalf of such director or officer to repay such amount as, and
+to the extent, required by subdivision one of section seven thousand
+twenty-two.
+```

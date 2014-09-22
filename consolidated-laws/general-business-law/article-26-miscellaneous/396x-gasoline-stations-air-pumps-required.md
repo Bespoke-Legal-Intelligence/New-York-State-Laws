@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 396-X", "kind": "section", "law_id": "GBS", "location_id": "396-X", "path": "ARTICLE 26 › SECTION 396-X", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/396-X.md", "title": "Gasoline stations; air pumps required"} -->
+# General Business Law § 396-X — Gasoline stations; air pumps required
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+```text
+  * § 396-x. Gasoline stations; air pumps required. 1. Definition. As
+used in this section: "dealer" shall mean any person owning or operating
+a premise or facility with four or more gas dispensing nozzles for the
+retail sale of motor fuels for use in motor vehicles.
+  2. Any dealer must provide on the premises where motor fuel is sold at
+retail for use in motor vehicles a functioning motor driven air
+compressor capable of inflating automobile tires for use by customers
+during hours in which such station is open for business.
+  3. Wilful failure to comply with the provisions of this section shall
+subject a dealer to a civil penalty of up to twenty-five dollars for
+each day such failure occurs. If the failure to comply results from the
+breakdown of the air compressor, the failure to repair within a
+reasonable time shall constitute wilful conduct.
+  * NB There are 2 § 396-x's
+```

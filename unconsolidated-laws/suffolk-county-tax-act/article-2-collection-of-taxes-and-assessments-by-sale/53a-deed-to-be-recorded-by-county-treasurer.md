@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Suffolk County Tax Act § 53-A", "kind": "section", "law_id": "SCT", "location_id": "53-A", "path": "ARTICLE 2 › SECTION 53-A", "repealed": false, "repealed_date": null, "source": "nys-laws:SCT/53-A.md", "title": "Deed to be recorded by county treasurer"} -->
+# Suffolk County Tax Act § 53-A — Deed to be recorded by county treasurer
+
+[Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
+
+```text
+§ 53-a. Deed to be recorded by county treasurer. That any grantee or
+purchaser entitled to a deed from the county treasurer as herein set
+forth, shall, in addition to the payments herein before required to pay
+to the county treasurer an amount sufficient to record such deed in the
+county clerk's office. All payments for the recording of the deed shall
+be made payable to the county clerk. Any such conveyance shall be duly
+recorded by the county treasurer in the county clerk's office of Suffolk
+county prior to the delivery of such deed to the grantee or purchaser.
+```

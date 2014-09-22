@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1064", "kind": "section", "law_id": "RPA", "location_id": "1064", "path": "ARTICLE 10 › SECTION 1064", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1064.md", "title": "Appeal not to stay execution if undertaking is given"} -->
+# Real Property Actions and Proceedings Law § 1064 — Appeal not to stay execution if undertaking is given
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 10 — Action For Dower](README.md)
+
+```text
+  § 1064. Appeal not to stay execution if undertaking is given. An
+appeal from a final judgment awarding to the plaintiff possession of the
+part admeasured and laid off to her does not stay the execution thereof
+unless the court, or a judge thereof, grants an order directing such a
+stay. Such an order shall not be granted if an undertaking is given on
+the part of the respondent, with one or more sureties approved by the
+court, or a judge thereof, to the effect that, if the judgment appealed
+from is reversed or modified, and restitution is awarded, she will pay
+to the person entitled thereto the value of the use and occupation of
+the part so admeasured and laid off to her, or of the portion
+restitution of which is awarded, during the time she holds possession
+thereof, by virtue of the judgment.
+```

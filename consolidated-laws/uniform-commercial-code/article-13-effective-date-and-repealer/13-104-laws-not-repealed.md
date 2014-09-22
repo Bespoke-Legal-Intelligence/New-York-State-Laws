@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 13-104", "kind": "section", "law_id": "UCC", "location_id": "13-104", "path": "ARTICLE 13 › SECTION 13-104", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/13-104.md", "title": "Laws Not Repealed"} -->
+# Uniform Commercial Code § 13-104 — Laws Not Repealed
+
+[Uniform Commercial Code](../README.md) › [Article 13 — Effective Date and Repealer](README.md)
+
+```text
+Section 13--104. Laws Not Repealed.
+  The Article on Documents of Title (Article 7) does not repeal or
+modify any laws prescribing the form or contents of documents of title
+or the services or facilities to be afforded by bailees, or otherwise
+regulating bailees' businesses in respects not specifically dealt with
+herein; but the fact that such laws are violated does not affect the
+status of a document of title which otherwise complies with the
+definition of a document of title (Section 1--201).
+```

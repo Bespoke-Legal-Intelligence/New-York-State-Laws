@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 407", "kind": "section", "law_id": "SCP", "location_id": "407", "path": "ARTICLE 4 › SECTION 407", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/407.md", "title": "Assignment of counsel for indigent persons 1"} -->
+# Surrogate's Court Procedure Act § 407 — Assignment of counsel for indigent persons 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 4 — Appearance; Protection of Persons Under Disability; Counsel For Indigent Adults In Surrogate's Court Proceedings](README.md)
+
+```text
+§ 407. Assignment of counsel for indigent persons
+  1. (a)  Each of the persons described below in this subdivision has
+the right to the assistance of counsel.  When such person first appears
+in court, the surrogate shall advise such person before proceeding that
+he has the right to be represented by counsel of his own choosing, of
+his right to have an adjournment to confer with counsel, and of his
+right to have counsel assigned by the court in any case where he is
+financially unable to obtain the same;
+  (i)  the respondent in any proceeding under section three hundred
+eighty-four-b of the social services law;
+  (ii) the respondent in any proceeding for the approval of a surrender
+instrument under section three hundred eighty-four of the social
+services law;
+  (iii) the parent of a child in any adoption proceeding who opposes the
+adoption of such child;
+  (iv) the parent of any child seeking custody or contesting the
+substantial infringement of his or her right to custody of such child,
+in any proceeding before the court in which the court has jurisdiction
+to determine such custody;
+  (v) any of the above persons upon an appeal in any of the above
+proceedings.
+  (b) In addition to the cases listed in paragraph (a) of this
+subdivision, a judge may assign counsel to represent any adult in a
+proceeding under this act if he determines that such assignment of
+counsel is mandated by the constitution of this state or of the United
+States, and includes such determination in the order assigning counsel.
+  2.  Any order for the assignment of counsel issued under this section
+shall be implemented as provided in article eighteen-B of the county
+law.
+```

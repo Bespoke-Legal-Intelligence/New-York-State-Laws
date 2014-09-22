@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 208", "kind": "section", "law_id": "VAT", "location_id": "208", "path": "TITLE 2 › ARTICLE 2 › SECTION 208", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/208.md", "title": "Affirmation of complaints"} -->
+# Vehicle and Traffic Law § 208 — Affirmation of complaints
+
+[Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2 — Department of Motor Vehicles; Commissioner](README.md)
+
+```text
+  § 208. Affirmation of complaints. Where a traffic summons has been
+served by a police officer, police cadet or bridge and tunnel officers
+employed by the triborough bridge and tunnel authority in cases of
+violations of any provision of this chapter, except title eleven, or of
+any ordinance, rule or regulation enacted pursuant thereto or pursuant
+to any other law relating to traffic, any chief, deputy chief, captain,
+lieutenant or acting lieutenant, or sergeant or acting sergeant of a
+police department, or any sheriff, undersheriff, chief deputy, deputy
+sergeant or deputy in charge of a road patrol maintained by any sheriff
+in any county to whom the service of the traffic summons is reported, is
+hereby authorized to administer to such police officer, police cadet or
+bridge and tunnel officer employed by the triborough bridge and tunnel
+authority all necessary oaths in connection with the execution of the
+complaint to be presented in court by such police officer, police cadet
+or bridge and tunnel officer employed by the triborough bridge and
+tunnel authority in the prosecution of such offense, but a complaint
+need not be verified provided it shall be affirmed under penalty of
+perjury.
+```

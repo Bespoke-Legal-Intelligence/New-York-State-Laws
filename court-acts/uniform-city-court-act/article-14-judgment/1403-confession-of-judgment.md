@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Uniform City Court Act § 1403", "kind": "section", "law_id": "UCT", "location_id": "1403", "path": "ARTICLE 14 › SECTION 1403", "repealed": false, "repealed_date": null, "source": "nys-laws:UCT/1403.md", "title": "Confession of judgment"} -->
+# Uniform City Court Act § 1403 — Confession of judgment
+
+[Uniform City Court Act](../README.md) › [Article 14 — Judgment](README.md)
+
+```text
+§ 1403. Confession of judgment.
+  The provisions of CPLR § 3218, relating to judgment by confession,
+shall be applicable in this court where the relief for which the
+judgment is confessed is within the jurisdiction of this court,
+provided, with reference to paragraph one of subdivision (a) of said
+section, that the affidavit specify that the defendant is a resident of
+the city or, if he is not such a resident, that entry is authorized in
+this court. If such additional requirements are fulfilled, the words
+"clerk of the county" as used in subdivision (b) of said section shall
+be deemed a reference to the clerk of this court, and the judgment
+confessed shall be entered in this court and shall be enforcible in the
+same manner and with the same effect as a judgment in an action in this
+court.
+```

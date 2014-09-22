@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 25", "kind": "section", "law_id": "PBG", "location_id": "25", "path": "ARTICLE 2-A › SECTION 25", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/25.md", "title": "Regulations, coordination with federal low-income housing credit provisions"} -->
+# Public Housing Law § 25 — Regulations, coordination with federal low-income housing credit provisions
+
+[Public Housing Law](../README.md) › [Article 2-A — New York State Low Income Housing Tax Credit Program](README.md)
+
+```text
+  § 25. Regulations, coordination with federal low-income housing credit
+provisions. 1. The commissioner shall promulgate rules and regulations
+necessary to administer the provisions of this act.
+  2. The provisions of section 42 of the internal revenue code shall
+apply to the credit under this article, provided however, to the extent
+such provisions are inconsistent with this article, the provisions of
+this article shall control.
+```

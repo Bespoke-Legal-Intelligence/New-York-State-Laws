@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 68", "kind": "section", "law_id": "RCO", "location_id": "68", "path": "ARTICLE 4 › SECTION 68", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/68.md", "title": "Changing number of trustees"} -->
+# Religious Corporations Law § 68 — Changing number of trustees
+
+[Religious Corporations Law](../README.md) › [Article 4 — Presbyterian Churches](README.md)
+
+```text
+  § 68. Changing number of trustees. An incorporated church to which
+this article is applicable, may, at an annual corporate meeting, change
+the number of its trustees to three, six, nine, twelve, fifteen,
+eighteen, twenty-one or twenty-four, and classify them so that the terms
+of one-third expire each year. No such change shall affect the terms of
+the trustees then in office, and if the change reduces the number of
+trustees it shall not take effect until the number of trustees whose
+terms of office continue for one or more years after an annual election,
+is less than the number determined upon. Whenever the number of trustees
+so holding over is less than the number so determined on, trustees shall
+be elected in addition to those so holding over sufficient to make the
+number of trustees for the ensuing year equal to the number so
+determined on.  The trustees so elected up to and including one-third of
+the number so determined on, shall be elected for three years, the
+remainder up to and including one-third of the number so determined on
+for two years and the remainder for one year.
+```

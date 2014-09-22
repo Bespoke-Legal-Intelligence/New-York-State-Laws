@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2897-D", "kind": "section", "law_id": "PBH", "location_id": "2897-D", "path": "ARTICLE 28-D › TITLE 3 › SECTION 2897-D", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2897-D.md", "title": "Injunctive relief"} -->
+# Public Health Law § 2897-D — Injunctive relief
+
+[Public Health Law](../../README.md) › [Article 28-D — Practice of Nursing Home Administration](../README.md) › [Title 3 — Violations; Penalties](README.md)
+
+```text
+  § 2897-d. Injunctive relief. The attorney general may apply to the
+supreme court within the judicial district in which a violation of this
+article is alleged to have occurred for an order enjoining or
+restraining commission or continuance of the acts complained of.
+Thereupon the court shall have jurisdiction of the proceeding and shall
+have power to grant such temporary relief or restraining order as it
+deems just and proper. In any such proceeding it shall be unnecessary to
+allege or prove that an adequate remedy at law does not exist or that
+irreparable damage would result if such order were not granted.  The
+remedy provided by this section shall be in addition to any other remedy
+provided by law.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5522", "kind": "section", "law_id": "CVP", "location_id": "5522", "path": "ARTICLE 55 › SECTION 5522", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5522.md", "title": "Disposition of appeal"} -->
+# Civil Practice Law and Rules § 5522 — Disposition of appeal
+
+[Civil Practice Law and Rules](../README.md) › [Article 55 — Appeals Generally](README.md)
+
+```text
+  Rule 5522. Disposition of appeal. (a) A court to which an appeal is
+taken may reverse, affirm, or modify, wholly or in part, any judgment,
+or order before it, as to any party.  The court shall render a final
+determination or, where necessary or proper, remit to another court for
+further proceedings. A court reversing or modifying a judgment or order
+without opinion shall briefly state the grounds of its decision.
+  (b) In an appeal from a money judgment in an action in which an
+itemized verdict is required by rule forty-one hundred eleven of this
+chapter in which it is contended that the award is excessive or
+inadequate, the appellate division shall set forth in its decision the
+reasons therefor, including the factors it considered in complying with
+subdivision (c) of section fifty-five hundred one of this chapter.
+```

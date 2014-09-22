@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 307", "kind": "section", "law_id": "AGM", "location_id": "307", "path": "ARTICLE 25-AA › SECTION 307", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/307.md", "title": "Promulgation of rules and regulations"} -->
+# Agriculture and Markets Law § 307 — Promulgation of rules and regulations
+
+[Agriculture and Markets Law](../README.md) › [Article 25-AA — Agricultural Districts](README.md)
+
+```text
+  § 307. Promulgation of rules and regulations. The commissioner of
+taxation and finance and the commissioner are each empowered to
+promulgate such rules and regulations and to prescribe such forms as
+each shall deem necessary to effectuate the purposes of this article,
+and the commissioner is further empowered to promulgate such rules and
+regulations as are necessary to provide for the reasonable consolidation
+of existing agricultural districts with new agricultural districts or
+with other existing districts undergoing modification pursuant to
+section three hundred three of this article. Where a document or any
+other paper or information is required, by such rules and regulations,
+or by any provision of this article, to be filed with, or by, a county
+clerk or any other local official, such clerk or other local official
+may file such document, paper, or information as he deems proper, but he
+shall also file or record it in any manner directed by the commissioner
+of taxation and finance, by rule or regulation. In promulgating such a
+rule or regulation, such commissioner shall consider, among any other
+relevant factors, the need for security of land titles, the requirement
+that purchasers of land know of all potential tax and penalty
+liabilities, and the desirability that the searching of titles not be
+further complicated by the establishment of new sets of record books.
+```

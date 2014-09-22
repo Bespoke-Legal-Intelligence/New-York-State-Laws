@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7101", "kind": "section", "law_id": "ISC", "location_id": "7101", "path": "ARTICLE 71 › SECTION 7101", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7101.md", "title": "Definitions"} -->
+# Insurance Law § 7101 — Definitions
+
+[Insurance Law](../README.md) › [Article 71 — Merger, Consolidation, Redomestication, Acquisition of Assets and Acquisition of Certain Shares of Insurers](README.md)
+
+```text
+  § 7101. Definitions. In this article:
+  (a) "Merger" means the merger of two or more companies in a single
+company which is one of the constituent companies.
+  (b) "Consolidation" means the consolidation of two or more companies
+into a single new company.
+  (c) "Constituent company" means an existing company that is
+participating in the merger or consolidation with one or more other
+companies.
+  (d) "Surviving company" means the constituent company into which one
+or more other constituent companies are merged.
+  (e) "Consolidated company" means the new company into which two or
+more constituent companies are consolidated.
+  (f) "Company" means an insurance company.
+  (g) "Acquisition of assets" and "acquire the assets of", means the
+acquisition through the purchase or otherwise of all or substantially
+all of the assets of a domestic company or of any company by a domestic
+company.
+```

@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 499-D", "kind": "section", "law_id": "VAT", "location_id": "499-D", "path": "TITLE 4 › ARTICLE 17-C › SECTION 499-D", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/499-D.md", "title": "Deposit and disposition of revenue from supplemental fee"} -->
+# Vehicle and Traffic Law § 499-D — Deposit and disposition of revenue from supplemental fee
+
+[Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 17-C — Metropolitan Commuter Transportation District Supplemental Registration Fee](README.md)
+
+```text
+  § 499-d. Deposit and disposition of revenue from supplemental fee. The
+commissioner shall deposit daily all funds derived from the collection
+of the supplemental fee established pursuant to this article with such
+responsible banks, banking houses or trust companies as may be
+designated by the state comptroller, to the credit of the comptroller.
+On or before the twelfth day of each month, the commissioner shall
+certify to the comptroller the amount of all revenues received pursuant
+to this article during the prior month as a result of the supplemental
+fee imposed, including any interest and penalties thereon. The revenues
+so certified shall be deposited by the state comptroller in the
+metropolitan transportation authority aid trust account of the
+metropolitan transportation authority financial assistance fund
+established pursuant to section ninety-two-ff of the state finance law
+for deposit, subject to appropriation, in the corporate transportation
+account of the metropolitan transportation authority special assistance
+fund established by section twelve hundred seventy-a of the public
+authorities law, to be applied as provided in paragraph (e) of
+subdivision four of such section. Any money collected pursuant to this
+section that is deposited by the comptroller in the metropolitan
+transportation authority aid trust account of the metropolitan
+transportation authority financial assistance fund shall be held in such
+fund free and clear of any claim by any person or entity paying an
+additional fee pursuant to this section, including, without limiting the
+generality of the foregoing, any right or claim against the metropolitan
+transportation authority, any of its bondholders, or any subsidiary or
+affiliate of the metropolitan transportation authority.
+```

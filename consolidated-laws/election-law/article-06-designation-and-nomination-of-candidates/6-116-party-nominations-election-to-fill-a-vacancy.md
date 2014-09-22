@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Election Law § 6-116", "kind": "section", "law_id": "ELN", "location_id": "6-116", "path": "ARTICLE 6 › SECTION 6-116", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/6-116.md", "title": "Party nominations; election to fill a vacancy"} -->
+# Election Law § 6-116 — Party nominations; election to fill a vacancy
+
+[Election Law](../README.md) › [Article 6 — Designation and Nomination of Candidates](README.md)
+
+```text
+  § 6-116. Party nominations; election to fill a vacancy. A party
+nomination of a candidate for election to fill a vacancy in an elective
+office required to be filled at the next general election, occurring
+after seven days before the last day for circulating designating
+petitions or after the holding of the meeting or convention to nominate
+or designate candidates for such, shall be made, after the day of the
+primary election, by a majority vote of a quorum of the state committee
+if the vacancy occurs in an office to be filled by all voters of the
+state, and otherwise by a majority vote of a quorum of the members of a
+county committee or committees last elected in the political subdivision
+in which such vacancy is to be filled, or by a majority of such other
+committee as the rules of the party may provide. A certificate of
+nomination shall be filed as provided for herein.
+```

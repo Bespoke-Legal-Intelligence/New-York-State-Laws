@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 803", "kind": "section", "law_id": "SCP", "location_id": "803", "path": "ARTICLE 8 › SECTION 803", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/803.md", "title": "Deposit of assets to reduce bond 1"} -->
+# Surrogate's Court Procedure Act § 803 — Deposit of assets to reduce bond 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 8 — General Provisions Relating to Bonds](README.md)
+
+```text
+§ 803. Deposit of assets to reduce bond
+  1. Whenever a bond or new surety may be required, if the value of the
+estate is so great or for other sufficient reasons the court deems it
+inexpedient to require security in the full amount prescribed by law it
+may direct that all or part of the assets of the estate be delivered
+subject to further order of the court to the county treasurer or other
+proper fiscal officer, the clerk of the court or a trust company, bank
+or safe deposit company or otherwise restrict the authority of the
+fiduciary. The court may thereupon fix the amount of the bond taking
+into consideration the value of the remainder only of the estate.
+  2. The assets so deposited shall not be withdrawn from the custody of
+the depositary and no person other than the proper fiscal officer of
+such county, city or depositary shall receive or collect any principal
+or income or other benefits derived from such assets without order of
+the court.
+```

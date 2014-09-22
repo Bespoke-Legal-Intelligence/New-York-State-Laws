@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 43", "kind": "section", "law_id": "STF", "location_id": "43", "path": "ARTICLE 4 › SECTION 43", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/43.md", "title": "Specific appropriations limited as to use; certain appropriations to be specific"} -->
+# State Finance Law § 43 — Specific appropriations limited as to use; certain appropriations to be specific
+
+[State Finance Law](../README.md) › [Article 4 — Appropriations](README.md)
+
+```text
+  § 43. Specific appropriations limited as to use; certain
+appropriations to be specific. Money appropriated for a specific purpose
+shall not be used for any other purpose, and the comptroller shall not
+draw a warrant for the payment of any sum appropriated, unless it
+clearly appears from the detailed statement presented to him by the
+person demanding the same as required by this chapter, that the purposes
+for which such money is demanded are those for which it was
+appropriated. The comptroller shall not audit any claim for salary,
+labor or wages, unless an appropriation applicable thereto has been
+already made specifying the amount thereof appropriated for such
+purpose.
+  Except as otherwise expressly provided, the comptroller shall not
+audit any claim or account or draw a warrant for the payment of moneys
+for the purchase of an aircraft intended primarily for the purpose of
+carrying passengers or the rent of an aircraft for such purpose for a
+period longer than ten days. The provision of this section shall not
+apply to the necessary rental of automobiles for construction and
+maintenance work on the highways of the state or for grade crossing
+elimination work.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 29", "kind": "section", "law_id": "PVH", "location_id": "29", "path": "ARTICLE 2 › SECTION 29", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/29.md", "title": "Acquisition of property"} -->
+# Private Housing Finance Law § 29 — Acquisition of property
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 29. Acquisition of property.
+  (a) After a project, other than a state urban development corporation
+project, has been been approved by the commissioner or the supervising
+agency and the local legislative body, the commissioner or the
+supervising agency as the case may be, shall issue a certificate
+declaring that the acquisition of the property is necessary for the
+public purpose defined in this article and the company may acquire the
+property needed for the project or the municipality may, with respect to
+a municipally-aided project or a project aided either by a state loan or
+a loan from the New York state housing finance agency, take property by
+condemnation for the company, pursuant to the provisions of article nine
+of this chapter.
+  (b) after a state urban development corporation project has been
+approved by the commissioner, the commissioner shall authorize the
+company undertaking the project to acquire the property needed for such
+project.
+  (c) Notwithstanding the provisions of subdivision (a) of this section,
+in the case of a Battery Park city project financed or to be financed by
+a loan from Battery Park city authority, the approval of the project and
+the certificate declaring that the acquisition of the property is
+necessary for the public purposes defined in this article shall be
+issued by Battery Park city authority.
+```

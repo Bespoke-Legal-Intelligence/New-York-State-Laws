@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 399", "kind": "section", "law_id": "RPP", "location_id": "399", "path": "ARTICLE 12 › SECTION 399", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/399.md", "title": "Certificate of title as evidence"} -->
+# Real Property Law § 399 — Certificate of title as evidence
+
+[Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
+
+```text
+  § 399. Certificate of title as evidence. The certificate of title, and
+any copy thereof duly certified under the hand and seal of the registrar
+and the owner's duplicate certificate, until the expiration of the time
+herein limited to bring an action or proceeding to set aside the final
+order or judgment of registration shall be received as evidence in all
+the courts of the state, and in all courts and places shall be prima
+facie evidence that the provisions of law up to the time of issue of
+such certificate or duplicate, or of the time of entry of the last
+memorial thereon, have been complied with, and that such certificate of
+title has been issued in compliance with a valid final order or
+judgment, and that the title to the property is as therein stated; and
+after the expiration of such time limited for bringing said proceedings
+to set aside said final order or judgment, such certificate or copy, up
+to the time of its issue, shall be so received as evidence in all courts
+of the state, and shall be conclusive evidence of the same facts. Every
+memorial or notation or cancellation thereof made on any certificate or
+duplicate or copy thereof shall be signed by the registrar or his deputy
+or his duly authorized deputy or clerk.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 740", "kind": "section", "law_id": "GBS", "location_id": "740", "path": "ARTICLE 35-B › SECTION 740", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/740.md", "title": "Escrow required for advance payments"} -->
+# General Business Law § 740 — Escrow required for advance payments
+
+[General Business Law](../README.md) › [Article 35-B — Automobile Broker Business](README.md)
+
+```text
+  § 740. Escrow required for advance payments. All monies paid by a
+consumer to an automobile broker business in connection with a
+transaction covered by this article shall be trust funds in the
+possession of such automobile broker business and shall be deposited by
+it within five days after receipt thereof, in an account in a banking
+organization within the state. The automobile broker business shall
+thereupon notify in writing the consumer, giving the name and address of
+the banking organization and the amount deposited. The monies shall be
+held on deposit until fully applied to the contract price at the time
+the automobile is delivered to the consumer, unless sooner repaid in
+accordance with the provisions of this article.
+```

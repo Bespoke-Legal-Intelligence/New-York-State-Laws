@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 180", "kind": "section", "law_id": "RCO", "location_id": "180", "path": "ARTICLE 9 › SECTION 180", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/180.md", "title": "Corporation, how formed"} -->
+# Religious Corporations Law § 180 — Corporation, how formed
+
+[Religious Corporations Law](../README.md) › [Article 9 — Free Churches](README.md)
+
+```text
+  § 180. Corporation, how formed. Any seven or more persons of full age,
+citizens of the United States, and a majority of them being residents of
+this state, who shall associate themselves for the purpose of founding
+and continuing one or more free churches, may make, sign and
+acknowledge, before any officer authorized to take the acknowledgment of
+deeds of land to be recorded in this state, and may file in the office
+of the secretary of state, and also of the clerk of the county in which
+any such church is to be established, and record as provided in section
+three of this chapter, a certificate in writing, in which shall be
+stated the name or title by which such society shall be known in the
+law, the purpose of its organization, and the names of seven trustees,
+of whom not less than five shall be persons who are not ministers of the
+gospel or priests of any denomination, to manage the same; but such
+certificate shall not be filed, unless with the written consent and
+approbation of a justice of the supreme court of the district in which
+any such church shall be intended to be established, to be indorsed on
+such certificate.
+```

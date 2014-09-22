@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7818", "kind": "section", "law_id": "ISC", "location_id": "7818", "path": "ARTICLE 78 › SECTION 7818", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7818.md", "title": "Nonconforming contracts"} -->
+# Insurance Law § 7818 — Nonconforming contracts
+
+[Insurance Law](../README.md) › [Article 78 — Life Settlements](README.md)
+
+```text
+  § 7818. Nonconforming contracts. (a) Except as otherwise specifically
+provided in this chapter, any life settlement contract subject to this
+chapter that is in violation of any of the provisions of this chapter
+shall be valid and binding upon the life settlement provider, but in all
+respects in which the contract's provisions are in violation of the
+requirements or prohibitions of this chapter it shall be enforceable as
+if it conformed with such requirements or prohibitions.
+  (b) In any action to recover under the provisions of any life
+settlement contract that the superintendent is authorized by this
+chapter to approve, if in the superintendent's opinion the provisions of
+this chapter are more favorable to owners, the court shall enforce such
+contract as if its provisions were the same as those specified in this
+chapter unless the court finds that the actual provisions of the
+contract were more favorable to owners at the date when the contract was
+entered into.
+```

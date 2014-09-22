@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 23-1725", "kind": "section", "law_id": "ENV", "location_id": "23-1725", "path": "ARTICLE 23 › TITLE 17 › SECTION 23-1725", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/23-1725.md", "title": "Preservation of jurisdiction of public service commission; consultation and coordination with commission and energy office"} -->
+# Environmental Conservation Law § 23-1725 — Preservation of jurisdiction of public service commission; consultation and coordination with commission and energy office
+
+[Environmental Conservation Law](../../README.md) › [Article 23 — Mineral Resources](../README.md) › [Title 17 — Liquefied Natural and Petroleum Gas](README.md)
+
+```text
+§ 23-1725. Preservation of jurisdiction of public service commission;
+             consultation and coordination with commission and energy
+             office.
+  Except herein as specifically provided with regard to the public
+safety, as legislatively determined, this title shall not otherwise
+affect the jurisdiction of the public service commission in the
+performance of its statutory responsibilities with regard to the
+regulation of utilities, the setting of rates, and other aspects of its
+jurisdiction. The department shall consult on a continuing basis with
+the public service commission and the state energy office, if
+established, in the administration of this title, and shall coordinate
+its administration thereof with those agencies in the interests of
+coordinated state energy policy.
+```

@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5032", "kind": "section", "law_id": "CVP", "location_id": "5032", "path": "ARTICLE 50-A › SECTION 5032", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5032.md", "title": "Form of security"} -->
+# Civil Practice Law and Rules § 5032 — Form of security
+
+[Civil Practice Law and Rules](../README.md) › [Article 50-A — Periodic Payment of Judgments In Medical and Dental Malpractice Actions](README.md)
+
+```text
+  § 5032. Form of security. Security authorized or required for payment
+of a judgment for periodic installments entered in accordance with this
+article must be in the form of an annuity contract, executed by a
+qualified insurer and approved by the superintendent of financial
+services pursuant to section five thousand thirty-nine of this article,
+and approved by the court.
+```

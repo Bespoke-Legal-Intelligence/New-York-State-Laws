@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 97", "kind": "section", "law_id": "PVH", "location_id": "97", "path": "ARTICLE 4 › SECTION 97", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/97.md", "title": "Corporations in existence prior to enactment of article"} -->
+# Private Housing Finance Law § 97 — Corporations in existence prior to enactment of article
+
+[Private Housing Finance Law](../README.md) › [Article 4 — Limited Dividend Housing Companies](README.md)
+
+```text
+  § 97. Corporations in existence prior to enactment of article.
+Nothing in this article contained shall be deemed to require the
+reincorporation of any public limited dividend housing company or any
+private limited dividend housing company heretofore organized under the
+provisions of chapter eight hundred twenty-three of the laws of nineteen
+hundred twenty-six, entitled "state housing law," as amended prior to
+the enactment of this article, nor to alter or affect any rights,
+privileges, powers, benefits, or immunities granted to such corporations
+by the provisions of any law, general, special or local. Such housing
+companies shall exist, continue to function and they and their
+stockholders, debenture holders, tenants, mortgagees, creditors and all
+other persons having an interest therein shall possess the powers,
+rights and privileges, be subject to the duties, restrictions and
+liabilities, of this article, provided that the legality, terms, rights,
+duties, limitations, privileges and immunities with respect to rents,
+dividend returns, mortgage interest, state and local tax exemptions and
+investments in such companies heretofore made and of transactions
+heretofore had by such companies shall not be affected by the provisions
+of this article, but the same shall continue to be governed by the
+provisions of chapter eight hundred twenty-three of the laws of nineteen
+hundred twenty-six and amendatory acts thereto, and for such purposes,
+such chapter and amendatory acts thereto shall continue to be in full
+force and effect.
+```

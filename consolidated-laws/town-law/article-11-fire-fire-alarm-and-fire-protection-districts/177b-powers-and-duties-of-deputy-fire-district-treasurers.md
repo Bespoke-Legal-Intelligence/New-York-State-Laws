@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Town Law § 177-B", "kind": "section", "law_id": "TWN", "location_id": "177-B", "path": "ARTICLE 11 › SECTION 177-B", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/177-B.md", "title": "Powers and duties of deputy fire district treasurers"} -->
+# Town Law § 177-B — Powers and duties of deputy fire district treasurers
+
+[Town Law](../README.md) › [Article 11 — Fire, Fire Alarm and Fire Protection Districts](README.md)
+
+```text
+  § 177-b. Powers and duties of deputy fire district treasurers.  The
+board of fire commissioners of any fire district may appoint a deputy
+fire district treasurer to hold office until the thirty-first day of
+December next succeeding his appointment. During the absence or
+inability to act of the fire district treasurer, or while the office of
+fire district treasurer is vacant, the deputy fire district treasurer
+shall be vested with all of the powers and may perform all of the duties
+of the fire district treasurer under this chapter or any other law,
+including the provisions of subdivision four of section one hundred
+seventy-six of this chapter relating to the giving and filing of an
+official undertaking.  The fire district treasurer shall not be liable
+for the acts of a deputy fire district treasurer.
+```

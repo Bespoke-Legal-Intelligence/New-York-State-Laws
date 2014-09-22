@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-UUU*2", "kind": "section", "law_id": "STF", "location_id": "97-UUU*2", "path": "ARTICLE 6 › SECTION 97-UUU*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-UUU_2.md", "title": "Transportation infrastructure bond fund"} -->
+# State Finance Law § 97-UUU*2 — Transportation infrastructure bond fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 97-uuu. Transportation infrastructure bond fund. 1. There is
+hereby established in the joint custody of the state comptroller and the
+commissioner of taxation and finance a special fund to be known as the
+"transportation infrastructure bond fund."
+  2. The comptroller shall establish at least three separate and
+distinct accounts within the transportation infrastructure bond fund as
+follows, which shall include the following: (a) an account containing
+all moneys received by the state from the sale of bonds and/or notes for
+uses eligible pursuant to subdivision a of section four of the
+Transportation Infrastructure Bond Act of 2000, enacted by a chapter of
+the laws of two thousand; (b) an account containing all moneys received
+by the state from the sale of bonds and/or notes for uses eligible
+pursuant to subdivision b of section four of the Transportation
+Infrastructure Bond Act of 2000, enacted by a chapter of the laws of two
+thousand; and (c) an account containing all moneys received by the state
+from the sale of bonds and/or notes for uses eligible pursuant to
+subdivision c of section four of the Transportation Infrastructure Bond
+Act of 2000, enacted by a chapter of the laws of two thousand.
+  3. Moneys in any account of this fund, following appropriation by the
+legislature and allocation by the director of the budget, shall be
+available only for reimbursement of expenditures made from
+appropriations from the capital projects fund for the purpose of the
+transportation infrastructure bond fund, as set forth in the
+Transportation Infrastructure Bond Act of 2000.
+  4. No moneys received by the state from the sale of bonds and/or notes
+sold pursuant to the Transportation Infrastructure Bond Act of 2000
+shall be expended for any project until funds therefor have been
+allocated pursuant to the provisions of this section and copies of the
+appropriate certificates of approval filed with the chairman of the
+senate finance committee, the chairman of the assembly ways and means
+committee and the state comptroller.
+  * NB Not effective due to defeat of the Transportation Bond Act of
+2000.
+  * NB There are 2 § 97-uuu's
+```

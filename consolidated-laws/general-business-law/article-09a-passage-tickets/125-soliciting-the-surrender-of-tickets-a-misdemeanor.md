@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 125", "kind": "section", "law_id": "GBS", "location_id": "125", "path": "ARTICLE 9-A › SECTION 125", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/125.md", "title": "Soliciting the surrender of tickets a misdemeanor"} -->
+# General Business Law § 125 — Soliciting the surrender of tickets a misdemeanor
+
+[General Business Law](../README.md) › [Article 9-A — Passage Tickets](README.md)
+
+```text
+  § 125. Soliciting the surrender of tickets a misdemeanor.  Any hotel,
+boarding-house, lodging-house or restaurant owner, proprietor, manager,
+clerk or other employee or any runner, guide, porter or solicitor who
+solicits in any manner any immigrant or steerage passenger inward or
+outward bound, having a railroad or steamship ticket, order or other
+instrument entitling or purporting to entitle such passenger to
+transportation or conveyance on any railroad or steamship, to surrender
+such ticket, order or other instrument to such hotel, boarding-house,
+lodging-house or restaurant owner, proprietor, manager or other employee
+or to any runner, guide, porter or solicitor or any other person for the
+purpose of detaining any such immigrant or steerage passenger in any
+such hotel, boarding-house, lodging-house, or restaurant, shall be
+guilty of a misdemeanor.
+```

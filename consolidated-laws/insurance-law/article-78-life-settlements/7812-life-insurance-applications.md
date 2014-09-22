@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 7812", "kind": "section", "law_id": "ISC", "location_id": "7812", "path": "ARTICLE 78 › SECTION 7812", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/7812.md", "title": "Life insurance applications"} -->
+# Insurance Law § 7812 — Life insurance applications
+
+[Insurance Law](../README.md) › [Article 78 — Life Settlements](README.md)
+
+```text
+  § 7812. Life insurance applications. (a) Without limiting the ability
+of an insurer to assess the insurability of a policy applicant and to
+determine whether or not to issue the policy, and in addition to other
+questions an insurer may lawfully pose to a life insurance applicant,
+insurers may inquire in the application for insurance whether the
+proposed owner intends to pay premiums with the assistance of financing
+from a lender that will use the policy as collateral to support the
+financing.
+  (b) The insurer may include the following notice to the applicant and
+the insured, or other notice acceptable to the superintendent, on the
+application or as an amendment thereto: "If you enter into a loan
+arrangement where the policy is used as collateral, and the policy
+changes ownership at some point in the future in satisfaction of the
+loan, then the following may be true:
+  (1) a change of ownership may lead to a person unknown to you owning
+an interest in the insured's life;
+  (2) a change of ownership may limit your ability to purchase insurance
+in the future on the insured's life because there is a limit to how much
+coverage insurers will issue on one life;
+  (3) if ownership of the life insurance policy changes, and you wish to
+obtain more insurance coverage on the insured's life in the future, the
+insured's higher issue age, a change in health status, and/or other
+factors may reduce the ability to obtain coverage and/or may result in
+significantly higher premiums; and
+  (4) you should consult a professional advisor, since a change in
+ownership in satisfaction of the loan may result in tax consequences to
+the owner."
+```

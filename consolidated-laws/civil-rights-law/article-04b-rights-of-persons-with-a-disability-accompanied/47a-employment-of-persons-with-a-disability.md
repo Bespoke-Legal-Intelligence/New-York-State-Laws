@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 47-A", "kind": "section", "law_id": "CVR", "location_id": "47-A", "path": "ARTICLE 4-B › SECTION 47-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/47-A.md", "title": "Employment of persons with a disability"} -->
+# Civil Rights Law § 47-A — Employment of persons with a disability
+
+[Civil Rights Law](../README.md) › [Article 4-B — Rights of Persons With a Disability Accompanied By Guide Dogs, Hearing Dogs or Service Dogs](README.md)
+
+```text
+  § 47-a. Employment of persons with a disability. Unless it can be
+clearly shown that a person's disability would prevent such person from
+performing the particular job no person who is otherwise qualified shall
+be denied equal opportunities to obtain and/or maintain employment
+and/or to advance in position in his job solely because said person is a
+person with a disability and is accompanied by a guide dog, hearing dog
+or service dog regardless of whether the employer or prospective
+employer is the state or any political subdivision thereof or any other
+category of employer.
+```

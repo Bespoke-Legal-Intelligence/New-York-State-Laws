@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-108", "kind": "section", "law_id": "UCC", "location_id": "9-108", "path": "ARTICLE 9 › PART 1 › SUBPART 1 › SECTION 9-108", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-108.md", "title": "Sufficiency of Description"} -->
+# Uniform Commercial Code § 9-108 — Sufficiency of Description
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 1 — General Provisions](../README.md) › [Subpart 1 — Short Title, Definitions, and General Concepts](README.md)
+
+```text
+Section 9--108. Sufficiency of Description.
+  (a) Sufficiency of description. Except as otherwise provided in
+subsections (c), (d), and (e), a description of personal or real
+property is sufficient, whether or not it is specific, if it reasonably
+identifies what is described.
+  (b) Examples of reasonable identification. Except as otherwise
+provided in Section 9--502 and subsection (d), a description of
+collateral reasonably identifies the collateral if it identifies the
+collateral by:
+       (1) specific listing;
+       (2) category;
+       (3) except as otherwise provided in subsection (e), a type of
+           collateral defined in this chapter;
+       (4) quantity;
+       (5) computational or allocational formula or procedure; or
+       (6) except as otherwise provided in subsection (c), any other
+           method, if the identity of the collateral is objectively
+           determinable.
+  (c) Supergeneric description not sufficient. A description of
+collateral as "all the debtor's assets" or "all the debtor's personal
+property" or using words of similar import does not reasonably identify
+the collateral.
+  (d) Investment property. Except as otherwise provided in subsection
+(e), a description of a security entitlement, securities account, or
+commodity account is sufficient if it describes:
+       (1) the collateral by those terms or as investment property; or
+       (2) the underlying financial asset or commodity contract.
+  (e) When description by type insufficient. A description only by type
+of collateral defined in this chapter is an insufficient description of:
+       (1) a commercial tort claim;
+       (2) in a consumer transaction, consumer goods, a security
+           entitlement, a securities account, or a commodity account; or
+       (3) a cooperative interest.
+```

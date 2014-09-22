@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Village Law § 8-800", "kind": "section", "law_id": "VIL", "location_id": "8-800", "path": "ARTICLE 8 › SECTION 8-800", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/8-800.md", "title": "Police departments"} -->
+# Village Law § 8-800 — Police departments
+
+[Village Law](../README.md) › [Article 8 — Police Department](README.md)
+
+```text
+  § 8-800 Police departments. The board of trustees of a village may, by
+resolution, establish a police department in such village and appoint a
+chief of police and such personnel as may be needed, and fix their
+compensation.  The board of trustees may abolish a police department
+established pursuant to this section by local law, subject to permissive
+referendum, and the department shall be deemed abolished as presented in
+such proposition. The board of trustees of a village, upon establishing
+or abolishing a police department, shall notify the commissioner of the
+division of criminal justice services of such action within thirty days
+thereafter.
+```

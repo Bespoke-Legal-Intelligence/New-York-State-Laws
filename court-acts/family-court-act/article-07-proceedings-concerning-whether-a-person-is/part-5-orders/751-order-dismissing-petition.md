@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 751", "kind": "section", "law_id": "FCT", "location_id": "751", "path": "ARTICLE 7 › PART 5 › SECTION 751", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/751.md", "title": "Order dismissing petition"} -->
+# Family Court Act § 751 — Order dismissing petition
+
+[Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 5 — Orders](README.md)
+
+```text
+  § 751. Order dismissing petition. If the allegations of a petition
+under this article are not established, the court shall dismiss the
+petition. The court may in its discretion dismiss a petition under this
+article, in the interests of justice where attempts have been made to
+adjust the case as provided for in sections seven hundred thirty-five
+and seven hundred forty-two of this article and the probation service
+has exhausted its efforts to successfully adjust such case as a result
+of the petition's failure to provide reasonable assistance to the
+probation service.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 2407", "kind": "section", "law_id": "ISC", "location_id": "2407", "path": "ARTICLE 24 › SECTION 2407", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2407.md", "title": "Procedure after report; determined violation"} -->
+# Insurance Law § 2407 — Procedure after report; determined violation
+
+[Insurance Law](../README.md) › [Article 24 — Unfair Methods of Competition and Unfair and Deceptive Acts and Practices](README.md)
+
+```text
+  § 2407. Procedure after report; determined violation. (a) If the
+report charges a determined violation and if the method of competition,
+act or practice constituting such determined violation has not been
+discontinued, the superintendent may, through the attorney general, at
+any time after the service of the report cause an action to be
+instituted to enjoin the person from engaging in such determined
+violation.
+  (b) The court may on motion and affidavits grant a preliminary
+injunction and interlocutory injunction upon such terms as may be just.
+  (c) A certified transcript of the proceedings before the
+superintendent including all evidence taken and the report and findings
+shall be received in evidence in the action.
+```

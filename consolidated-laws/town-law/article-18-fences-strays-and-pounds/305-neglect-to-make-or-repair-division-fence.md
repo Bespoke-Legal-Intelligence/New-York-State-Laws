@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Town Law § 305", "kind": "section", "law_id": "TWN", "location_id": "305", "path": "ARTICLE 18 › SECTION 305", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/305.md", "title": "Neglect to make or repair division fence"} -->
+# Town Law § 305 — Neglect to make or repair division fence
+
+[Town Law](../README.md) › [Article 18 — Fences, Strays and Pounds](README.md)
+
+```text
+  § 305. Neglect to make or repair division fence. If any person who is
+liable to contribute to the erection or repair of a division fence shall
+neglect or refuse to make and maintain his proportion of such fence, or
+shall permit the same to be out of repair, he shall be liable to pay the
+party injured all such damages as shall accrue thereby, to be
+ascertained and appraised by any two fence viewers of the town, and to
+be recovered with costs. The appraisement shall be reduced to writing,
+and signed by the fence viewers making it. If such neglect or refusal
+shall be continued for the period of one month after request in writing
+to make or repair the fence, the party injured may make or repair the
+same, at the expense of the party so neglecting or refusing, to be
+recovered from him with costs.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Yonkers Income Tax Surcharge § 15-100", "kind": "section", "law_id": "YTS", "location_id": "15-100", "path": "ARTICLE 9 › SECTION 15-100", "repealed": false, "repealed_date": null, "source": "nys-laws:YTS/15-100.md", "title": "Persons subject to tax surcharge"} -->
+# Yonkers Income Tax Surcharge § 15-100 — Persons subject to tax surcharge
+
+[Yonkers Income Tax Surcharge](../README.md) › [Article 9 — Income Tax Surcharge](README.md)
+
+```text
+  § 15-100. Persons subject to tax surcharge.
+  A. General. The City of Yonkers income tax surcharge imposed hereby
+shall be imposed for each taxable year on every City resident
+individual, estate and trust in every taxable year commencing after
+December 31, 1983 and ending on or before December 31, 2003. A
+taxpayer's taxable year for the purposes of the City of Yonkers income
+tax surcharge imposed pursuant to this article shall be the same as
+his/her taxable year under Article 22 of the New York State Tax Law.
+  B. Partners and partnerships. A partnership as such shall not be
+subject to the City of Yonkers income tax surcharge imposed pursuant to
+this article. Persons carrying on business as partners shall be liable
+for the City of Yonkers income tax surcharge only in their separate or
+individual capacities.
+  C. Associations taxable as corporations. An association, trust or
+other unincorporated organization which is taxable as a corporation for
+federal income tax purposes shall not be subject to the City of Yonkers
+income tax surcharge imposed pursuant to this article.
+  D. Exempt trustees and organizations. A trust or other unincorporated
+organization which, by reason of its purposes or activities, is exempt
+from federal income tax shall be exempt from any City of Yonkers income
+tax surcharge imposed pursuant to this article, regardless of whether it
+is subject to federal income tax on unrelated business taxable income.
+```

@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4213", "kind": "section", "law_id": "PBH", "location_id": "4213", "path": "ARTICLE 42 › TITLE 2 › SECTION 4213", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4213.md", "title": "Cadavers; delivery to relatives or friends"} -->
+# Public Health Law § 4213 — Cadavers; delivery to relatives or friends
+
+[Public Health Law](../../README.md) › [Article 42 — Cadavers](../README.md) › [Title 2 — Autopsy and Dissection](README.md)
+
+```text
+  § 4213. Cadavers; delivery to relatives or friends. 1. In the counties
+of Oneida, Onondaga, Oswego, Madison and Cortland, a friend who claims
+the body of a deceased person for interment or other disposition may be
+required by the person having lawful possession, charge, custody or
+control of it to present an affidavit stating (a) that such claimant is
+a friend; (b) the facts and circumstances upon which the claim that he
+is such friend is based; and (c), that he will bear the expense of such
+interment or other lawful disposition. If such claimant shall refuse to
+make such affidavit the body shall not be delivered to him but he shall
+forfeit his claim and right to same.  The expense of such affidavit, if
+required, shall be paid by the person requiring the affidavit.
+  2. If the body of a deceased person is claimed for interment or other
+lawful disposition by a relative and in the counties of Oneida,
+Onondaga, Oswego, Madison and Cortland a relative or friend after
+delivery or release to, and receipt by a university, college, school or
+institute, same shall be given up and released to such relative or
+friend.
+```

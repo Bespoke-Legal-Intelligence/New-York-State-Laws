@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 52-E", "kind": "section", "law_id": "RRD", "location_id": "52-E", "path": "ARTICLE 3 › SECTION 52-E", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/52-E.md", "title": "Penalties for littering"} -->
+# Railroad Law § 52-E — Penalties for littering
+
+[Railroad Law](../README.md) › [Article 3 — Construction, Operation and Management](README.md)
+
+```text
+  § 52-e. Penalties for littering. 1. No person shall throw, dump, or
+cause to be thrown, dumped, deposited or placed upon any railroad or
+subway tracks, or within the limits of the right of way of any railroad
+or subway, any refuse, trash, garbage, rubbish, litter or any nauseous
+or offensive matter. For purposes of this section, the term "subway"
+shall mean all rail rapid transit systems operated by the New York city
+transit authority including but not limited to track and track beds,
+passenger stations, tunnels, elevated structures, yards, depots and
+shops.
+  2. Where a highway or road lies in whole or part within a railroad
+right of way, nothing in this section shall be construed as prohibiting
+the use in a reasonable manner of ashes, sand, salt or other material
+for the purpose of reducing the hazard of, or providing traction on
+snow, ice or sleet situated on such highway or road.
+  3. A violation of the provisions of subdivision one of this section
+shall be punishable by a fine not to exceed two hundred fifty dollars
+and/or a requirement to perform services for a public or not-for-profit
+corporation, association, institution or agency not to exceed eight
+hours and for any second or subsequent violation by a fine not to exceed
+five hundred dollars and/or a requirement to perform services for a
+public or not-for-profit corporation, association, institution or agency
+not to exceed eight hours.
+  4. Fines collected pursuant to subdivision three of this section on
+subway tracks or subway rights-of-way shall be deposited to the credit
+of the New York subway littering prevention fund established pursuant to
+section ninety-seven-uuu of the state finance law, and shall be used by
+the New York city transit authority to post signs notifying the public
+of the maximum fine for a violation of subdivision one of this section.
+```

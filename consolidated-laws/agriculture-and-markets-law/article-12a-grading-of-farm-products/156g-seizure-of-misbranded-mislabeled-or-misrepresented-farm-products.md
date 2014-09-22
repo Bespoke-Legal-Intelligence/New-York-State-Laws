@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 156-G", "kind": "section", "law_id": "AGM", "location_id": "156-G", "path": "ARTICLE 12-A › SECTION 156-G", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/156-G.md", "title": "Seizure of misbranded, mislabeled or misrepresented farm products"} -->
+# Agriculture and Markets Law § 156-G — Seizure of misbranded, mislabeled or misrepresented farm products
+
+[Agriculture and Markets Law](../README.md) › [Article 12-A — Grading of Farm Products](README.md)
+
+```text
+  § 156-g. Seizure of misbranded, mislabeled or misrepresented farm
+products.  Whenever the commissioner or his duly authorized
+representative shall find that any farm product is misbranded,
+mislabeled or misrepresented within the meaning of this article, he may
+seize such product, so that it cannot be sold, offered, exposed or
+transported for sale, and he may affix to such farm product a tag or
+other appropriate marking, giving notice that such product is
+misbranded, mislabeled or misrepresented, and warning all persons not to
+remove or dispose of such product by sale or otherwise until such
+product is branded or labeled properly and permission to dispose of the
+product has been granted by the commissioner or his duly authorized
+representative. It shall be a violation of this article for any person
+to remove or dispose of such product so seized by sale or otherwise
+without such permission.
+```

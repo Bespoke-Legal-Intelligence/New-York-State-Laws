@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 19-0507", "kind": "section", "law_id": "ENV", "location_id": "19-0507", "path": "ARTICLE 19 › TITLE 5 › SECTION 19-0507", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/19-0507.md", "title": "Conduct of hearing"} -->
+# Environmental Conservation Law § 19-0507 — Conduct of hearing
+
+[Environmental Conservation Law](../../README.md) › [Article 19 — Air Pollution Control](../README.md) › [Title 5 — Procedure](README.md)
+
+```text
+§ 19-0507. Conduct of hearing.
+  1. The respondent to such complaint may file a written answer thereto
+at least three days prior to the hearing and may appear at such hearing
+in person or by representative, with or without counsel, and may submit
+testimony, or may do both.
+  2. The hearing may be held before the commissioner or a representative
+designated by the commissioner.
+  3. The commissioner or his delegate shall have power to subpoena and
+compel the attendance of witnesses and the production for examination of
+any book or paper relating to the matter under investigation. The
+commissioner or his delegate at the request of any respondent to a
+complaint made pursuant to this article shall subpoena and compel the
+attendance of such witnesses and shall require the production for
+examination of any such book or paper relating to the matter under
+investigation as the respondent may reasonably designate.
+  4. In the case of contumacy or refusal to obey a subpoena, the supreme
+court shall have jurisdiction upon the application of the commissioner
+or his delegate to issue an order requiring such person to appear and
+testify or produce evidence as the case may require. Any failure to obey
+such an order may be judged by the court as contempt thereof.
+  5. The testimony taken at the hearing before the commissioner or his
+delegate shall be under oath and recorded, stenographically or
+otherwise.
+```

@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 623", "kind": "section", "law_id": "COR", "location_id": "623", "path": "ARTICLE 22 › SECTION 623", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/623.md", "title": "Inmate telephone services"} -->
+# Correction Law § 623 — Inmate telephone services
+
+[Correction Law](../README.md) › [Article 22 — Miscellaneous Provisions](README.md)
+
+```text
+  § 623. Inmate telephone services. 1. Telephone services contracts for
+inmates in state correctional facilities shall be subject to the
+procurement provisions as set forth in article eleven of the state
+finance law provided, however, that when determining the best value of
+such telephone service, the lowest possible cost to the telephone user
+shall be emphasized.
+  2. The department shall make available either a "prepaid" or "collect
+call" system, or a combination thereof, for telephone service. Under the
+"prepaid" system, funds may be deposited into an account in order to pay
+for station-to-station calls, provided that nothing in this subdivision
+shall require the department to provide or administer a prepaid system.
+Under a "collect call" system, call recipients are billed for the cost
+of an accepted telephone call initiated by an inmate. Under such
+"collect call" system, the provider of inmate telephone service, as an
+additional means of payment, must permit the recipient of inmate calls
+to establish an account with such provider in order to deposit funds to
+pay for such collect calls in advance.
+  3. The department shall not accept or receive revenue in excess of its
+reasonable operating cost for establishing and administering such
+telephone system services as provided in subdivisions one and two of
+this section.
+  4. The department shall establish rules and regulations or
+departmental procedures to ensure that any inmate phone call system
+established by this section provides reasonable security measures to
+preserve the safety and security of each correctional facility, all
+staff and all persons outside a facility who may receive inmate phone
+calls.
+```

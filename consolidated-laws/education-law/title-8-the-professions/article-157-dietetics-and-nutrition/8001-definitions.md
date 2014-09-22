@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Education Law § 8001", "kind": "section", "law_id": "EDN", "location_id": "8001", "path": "TITLE 8 › ARTICLE 157 › SECTION 8001", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/8001.md", "title": "Definitions"} -->
+# Education Law § 8001 — Definitions
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 157 — Dietetics and Nutrition](README.md)
+
+```text
+  § 8001. Definitions.  1. Dietetics and nutrition are herein each
+defined as  the integration and application of principles derived from
+the sciences of nutrition, biochemistry, physiology, food management and
+behavioral and social sciences to achieve and maintain people's health.
+  2. Where the title "certified dietitian" or "certified nutritionist"
+is used in this article it shall mean "certified dietitian", "certified
+dietician", or "certified nutritionist".
+  3. A certified dietitian or certified nutritionist is one who engages
+in the integration and application of principles derived from the
+sciences of nutrition, biochemistry, physiology, food management and
+behavioral and social sciences to achieve and maintain people's health,
+and who is certified as such by the department pursuant to section eight
+thousand four of this article.  The primary function of a certified
+dietitian or certified nutritionist is the provision of nutrition care
+services that shall include:
+  (a) Assessing nutrition needs and food patterns;
+  (b) Planning for and directing the provision of food appropriate for
+physical and nutrition needs; and
+  (c) Providing nutrition counseling.
+```

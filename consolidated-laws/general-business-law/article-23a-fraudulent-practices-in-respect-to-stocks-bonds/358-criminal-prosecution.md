@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 358", "kind": "section", "law_id": "GBS", "location_id": "358", "path": "ARTICLE 23-A › SECTION 358", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/358.md", "title": "Criminal prosecution"} -->
+# General Business Law § 358 — Criminal prosecution
+
+[General Business Law](../README.md) › [Article 23-A — Fraudulent Practices In Respect to Stocks, Bonds and Other Securities](README.md)
+
+```text
+  § 358. Criminal prosecution. The attorney-general may prosecute every
+person charged with the commission of a criminal offense in violation of
+the laws of this state, applicable to or in respect of the practices or
+transactions which in this article are referred to as fraudulent
+practices. In all such proceedings, the attorney-general may appear in
+person or by his deputy before any court of record or any grand jury and
+exercise all the powers and perform all the duties in respect of such
+actions or proceedings which the district attorney would otherwise be
+authorized or required to exercise or perform; or the attorney-general
+may in his discretion transmit evidence, proof and information as to
+such offense to the district attorney of the county or counties in which
+the alleged violation has occurred, and every district attorney to whom
+such evidence, proof and information is so transmitted shall forthwith
+proceed to prosecute any corporation, company, association, or officer,
+manager or agent thereof, or any firm or person charged with such
+violation. In any such proceeding, wherein the attorney-general has
+appeared either in person or by deputy, the district attorney shall only
+exercise such powers and perform such duties as are required of him by
+the attorney-general or the deputy attorney-general so appearing.
+```

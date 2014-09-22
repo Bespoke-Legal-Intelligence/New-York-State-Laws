@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 837-L", "kind": "section", "law_id": "EXC", "location_id": "837-L", "path": "ARTICLE 35 › SECTION 837-L", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/837-L.md", "title": "Capital prosecution extraordinary assistance program"} -->
+# Executive Law § 837-L — Capital prosecution extraordinary assistance program
+
+[Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
+
+```text
+  § 837-l. Capital prosecution extraordinary assistance program. There
+is hereby created within the division a capital prosecution
+extraordinary assistance program to be administered by the commissioner,
+to distribute funds to district attorneys for the prosecution of capital
+cases. Such funds shall be distributed where the commissioner
+determines, on the basis of a written certification by the applicant
+district attorney, that due to the nature or number of capital cases
+being prosecuted by the district attorney a significant financial burden
+has resulted and financial assistance is necessary in order to fulfill
+such district attorney's responsibilities; provided, however, that such
+funds shall not be used to supplant existing resources.  Such funds may
+also be distributed to a district attorney who, upon the request of
+another district attorney, has provided assistance in the prosecution of
+a capital case.
+```

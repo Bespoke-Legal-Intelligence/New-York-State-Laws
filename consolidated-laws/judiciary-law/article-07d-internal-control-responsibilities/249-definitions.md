@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 249", "kind": "section", "law_id": "JUD", "location_id": "249", "path": "ARTICLE 7-D › SECTION 249", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/249.md", "title": "Definitions"} -->
+# Judiciary Law § 249 — Definitions
+
+[Judiciary Law](../README.md) › [Article 7-D — Internal Control Responsibilities of the Judiciary](README.md)
+
+```text
+  § 249. Definitions. As used in this article, the following terms shall
+have the following meanings:
+  1. "Internal control". A process that integrates the activities,
+plans, attitudes, policies, systems, resources and efforts of the people
+of an organization working together, and that is designed to provide
+reasonable assurance that the organization will achieve its objectives
+and mission. The objectives of an internal control system include, but
+are not limited to: the safeguarding of assets; checking the accuracy
+and reliability of accounting data and financial reporting; promoting
+the effectiveness and efficiency of operations; ensuring compliance with
+applicable laws and regulations; and encouraging adherence to prescribed
+managerial policies. Internal control review processes are used
+periodically to evaluate the ongoing internal control system and to
+assess and monitor the implementation of necessary corrective actions.
+  2. "Internal audit". An appraisal activity established by the
+management of an organization for the review of operations as a means of
+assuring conformance with management policies and the effectiveness of
+internal control, and conducted in conformance with generally accepted
+standards for internal auditing.
+  3. "Judiciary". The courts and court-related programs, including the
+office of court administration, of the state-funded portion of the
+unified court system and all components thereof as provided in
+subdivision two of section two hundred forty-nine-a of this article.
+```

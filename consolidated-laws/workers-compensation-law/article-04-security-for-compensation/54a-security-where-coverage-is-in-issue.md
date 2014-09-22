@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 54-A", "kind": "section", "law_id": "WKC", "location_id": "54-A", "path": "ARTICLE 4 › SECTION 54-A", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/54-A.md", "title": "Security where coverage is in issue"} -->
+# Workers' Compensation Law § 54-A — Security where coverage is in issue
+
+[Workers' Compensation Law](../README.md) › [Article 4 — Security For Compensation](README.md)
+
+```text
+  § 54-a. Security where coverage is in issue. Where the issue of policy
+coverage is raised by a carrier in any hearing or proceeding before the
+board, and an appeal by the carrier, or the making of an application for
+review is made, although an award is made to a claimant therein against
+the employer and carrier, the chairman may, nevertheless, require the
+employer to deposit the amount of said award or furnish such security
+therefor as may be deemed satisfactory by said chairman. If the employer
+shall fail to make such deposit or give such security, the award may be
+enforced promptly against said employer by the entry of judgment by and
+in the name of the chairman, for and in behalf of such claimant in
+accordance with the provisions of section twenty-six hereof. In the
+event that the award made as against the carrier is finally affirmed,
+the employer shall be entitled to the return of said security deposited
+or, if the said award has been paid, to an award by way of reimbursement
+against the said carrier for the amount of money paid upon the award or
+judgment entered thereon to the claimant. If the award against the
+carrier is finally reversed on appeal, then the carrier is relieved of
+liability and not otherwise.
+```

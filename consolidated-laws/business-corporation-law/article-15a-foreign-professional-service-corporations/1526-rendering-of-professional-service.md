@@ -1,0 +1,46 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1526", "kind": "section", "law_id": "BSC", "location_id": "1526", "path": "ARTICLE 15-A › SECTION 1526", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1526.md", "title": "Rendering of professional service"} -->
+# Business Corporation Law § 1526 — Rendering of professional service
+
+[Business Corporation Law](../README.md) › [Article 15-A — Foreign Professional Service Corporations](README.md)
+
+```text
+§ 1526. Rendering of professional service.
+  (a) No foreign professional service corporation may render
+professional services in this state except through individuals
+authorized by law to render such professional services as individuals in
+this state.
+  (b) Each final plan and report made or issued by a foreign
+professional service corporation practicing professional engineering,
+architecture, landscape architecture or land surveying shall bear the
+name and seal of one or more professional engineers, architects,
+landscape architects, or land surveyors, respectively, who are in
+responsible charge of such plan or report.
+  (c) Each report, diagnosis, prognosis, and prescription made or issued
+by a foreign professional service corporation practicing medicine,
+dentistry, podiatry, optometry, ophthalmic dispensing, veterinary
+medicine, pharmacy, nursing, physiotherapy or chiropractic shall bear
+the signature of one or more physicians, dentists, podiatrists,
+optometrists, ophthalmic dispensers, veterinarians, pharmacists, nurses,
+physiotherapists, or chiropractors, respectively, who are in responsible
+charge of such report, diagnosis, prognosis, or prescription.
+  (d) Each record, transcript, report and hearing report prepared by a
+foreign professional service corporation practicing certified shorthand
+reporting shall bear the signature of one or more certified shorthand
+reporters who are in responsible charge of such record, transcript,
+report, or hearing report.
+  (e) Each report and statement prepared by a foreign professional
+service corporation practicing public accounting or certified public
+accounting shall bear the signature of one or more public accountants or
+certified public accountants, respectively, who are in responsible
+charge of such report or statement.
+  (f) Each opinion prepared by a foreign professional service
+corporation practicing law shall bear the signature of one or more
+attorneys and counsellors-at-law who are in responsible charge of such
+opinion.
+  (g) In addition to the requirements in paragraphs (b) through (f)
+inclusive herein, each document prepared by a foreign professional
+service corporation which under the rules, regulations, laws or customs
+of the applicable profession is required to bear the signature of an
+individual in responsible charge of such document, shall be signed by
+one or more such individuals licensed to practice in this state.
+```

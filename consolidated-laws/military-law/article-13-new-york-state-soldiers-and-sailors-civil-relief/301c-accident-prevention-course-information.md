@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Military Law § 301-C", "kind": "section", "law_id": "MIL", "location_id": "301-C", "path": "ARTICLE 13 › SECTION 301-C", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/301-C.md", "title": "Accident prevention course information"} -->
+# Military Law § 301-C — Accident prevention course information
+
+[Military Law](../README.md) › [Article 13 — New York State Soldiers' and Sailors' Civil Relief Act](README.md)
+
+```text
+  § 301-c. Accident prevention course information. The division of
+military and naval affairs shall provide returning servicemen and women
+who have returned from a combat theater or combat zone of operations
+with information about accident prevention courses approved by the
+commissioner of motor vehicles pursuant to article twelve-B of the
+vehicle and traffic law. This information may be provided in written
+form to be available at Yellow Ribbon Reintegration programs or any
+other reintegration programs offered by the division or may be made
+available online on the division's website. The division shall also
+provide a link to the department of motor vehicles website pages
+containing information about the accident prevention courses.
+```

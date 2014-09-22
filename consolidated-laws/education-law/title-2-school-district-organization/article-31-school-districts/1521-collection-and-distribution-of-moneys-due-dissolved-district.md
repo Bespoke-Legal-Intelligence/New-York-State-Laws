@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1521", "kind": "section", "law_id": "EDN", "location_id": "1521", "path": "TITLE 2 › ARTICLE 31 › SECTION 1521", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1521.md", "title": "Collection and distribution of moneys due dissolved district"} -->
+# Education Law § 1521 — Collection and distribution of moneys due dissolved district
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 31 — School Districts](README.md)
+
+```text
+  § 1521. Collection and distribution of moneys due dissolved district.
+The supervisor of the town or towns within which the schoolhouse of the
+dissolved district was situated may demand, sue for and collect, in the
+name of his office, any money of the district outstanding in the hands
+of any of its former officers, or any other person; and, after deducting
+his costs and expenses, shall report the balance to the district
+superintendent who shall apportion the same equitably among the
+districts to which the parts of the dissolved district were annexed, to
+be by them applied as their district meeting shall determine.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 3113", "kind": "section", "law_id": "ISC", "location_id": "3113", "path": "ARTICLE 31 › SECTION 3113", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/3113.md", "title": "Consent of and notification of an irrevocable beneficiary under a court order of divorce or separation"} -->
+# Insurance Law § 3113 — Consent of and notification of an irrevocable beneficiary under a court order of divorce or separation
+
+[Insurance Law](../README.md) › [Article 31 — Insurance Contracts - General](README.md)
+
+```text
+  § 3113. Consent of and notification of an irrevocable beneficiary
+under a court order of divorce or separation. In any case where a policy
+owner has, pursuant to an order of separation or divorce, designated his
+or her spouse or children as the irrevocable beneficiary of a policy of
+insurance subject to the provisions of section three thousand two
+hundred three of this chapter, and a copy of such order has been served,
+by registered mail, on the home office of the insurer specifying the
+name and mailing address of the spouse or children, such insurer shall:
+  (a) prohibit the policy holder from borrowing from the cash value or
+changing the named beneficiary of such insurance policy without the
+written consent of the irrevocable beneficiary; and
+  (b) provide written notification to the irrevocable beneficiary in the
+event that such insurance policy is scheduled to lapse due to
+non-payment of premium.
+```

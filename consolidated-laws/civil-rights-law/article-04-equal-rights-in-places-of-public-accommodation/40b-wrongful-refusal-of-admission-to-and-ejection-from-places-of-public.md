@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 40-B", "kind": "section", "law_id": "CVR", "location_id": "40-B", "path": "ARTICLE 4 › SECTION 40-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/40-B.md", "title": "Wrongful refusal of admission to and ejection from places of public entertainment and amusement"} -->
+# Civil Rights Law § 40-B — Wrongful refusal of admission to and ejection from places of public entertainment and amusement
+
+[Civil Rights Law](../README.md) › [Article 4 — Equal Rights In Places of Public Accommodation and Amusement](README.md)
+
+```text
+  § 40-b. Wrongful refusal of admission to and ejection from places of
+public entertainment and amusement. No person, agency, bureau,
+corporation or association, being the owner, lessee, proprietor,
+manager, superintendent, agent or employee of any place of public
+entertainment and amusement as hereinafter defined shall refuse to admit
+to any public performance held at such place any person over the age of
+twenty-one years who presents a ticket of admission to the performance a
+reasonable time before the commencement thereof, or shall eject or
+demand the departure of any such person from such place during the
+course of the performance, whether or not accompanied by an offer to
+refund the purchase price or value of the ticket of admission presented
+by such person; but nothing in this section contained shall be construed
+to prevent the refusal of admission to or the ejection of any person
+whose conduct or speech thereat or therein is abusive or offensive or of
+any person engaged in any activity which may tend to a breach of the
+peace.
+  The places of public entertainment and amusement within the meaning of
+this section shall be legitimate theatres, burlesque theatres, music
+halls, opera houses, concert halls and circuses.
+```

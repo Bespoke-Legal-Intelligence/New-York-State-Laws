@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 84", "kind": "section", "law_id": "IND", "location_id": "84", "path": "ARTICLE 6 › SECTION 84", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/84.md", "title": "Leases for the extraction of minerals, oil or natural gas"} -->
+# Indian Law § 84 — Leases for the extraction of minerals, oil or natural gas
+
+[Indian Law](../README.md) › [Article 6 — The Seneca Indians On the Tonawanda Reservation](README.md)
+
+```text
+  § 84. Leases for the extraction of minerals, oil or natural gas.  The
+council of the Tonawanda nation, with the approval of the attorney for
+the nation, may by lease give the right to explore land located upon the
+Tonawanda reservation and extract minerals, oil or natural gas therefrom
+by means other than those commonly known as surface, open pit, or strip
+mining. No lease shall be for a term in excess of twenty years. The
+council of the nation shall use the rents from any such lease for the
+common benefit of the nation as determined by the council, provided
+however, that any Indian residing on the Tonawanda reservation, who is
+deprived of substantial use or enjoyment of his allotted land because of
+mining operations conducted under any such lease, shall receive from the
+proceeds of the lease fair and equitable compensation for his loss.
+```

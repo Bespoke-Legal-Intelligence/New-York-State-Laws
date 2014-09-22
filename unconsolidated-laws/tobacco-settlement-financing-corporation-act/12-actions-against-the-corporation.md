@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Tobacco Settlement Financing Corporation Act § 12", "kind": "section", "law_id": "TSF", "location_id": "12", "path": "SECTION 12", "repealed": false, "repealed_date": null, "source": "nys-laws:TSF/12.md", "title": "Actions against the corporation"} -->
+# Tobacco Settlement Financing Corporation Act § 12 — Actions against the corporation
+
+[Tobacco Settlement Financing Corporation Act](README.md)
+
+```text
+  § 12. Actions against the corporation. 1. An action against the
+corporation for death, personal injury or property damage or founded on
+tort shall not be commenced more than one year and ninety days after the
+cause of action thereof shall have accrued nor unless a notice of claim
+shall have been served on a member of the corporation or officer or
+employee thereof designated by the corporation for such purpose, within
+the time limited by, and in compliance with the requirements of section
+50-e of the general municipal law.
+  2. The venue of every action, suit or special proceeding brought
+against the corporation shall be laid in the county of Albany.
+  3. Neither any member of the corporation nor any officer, employee, or
+agent of the corporation, while acting within the scope of their
+authority, shall be subject to any personal liability resulting from
+exercising or carrying out of any of the corporation's purposes or
+powers.
+```

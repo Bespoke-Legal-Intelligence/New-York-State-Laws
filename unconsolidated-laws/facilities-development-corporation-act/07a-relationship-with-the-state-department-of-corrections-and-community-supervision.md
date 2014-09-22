@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Facilities Development Corporation Act § 7-A", "kind": "section", "law_id": "FDC", "location_id": "7-A", "path": "SECTION 7-A", "repealed": false, "repealed_date": null, "source": "nys-laws:FDC/7-A.md", "title": "Relationship with the state department of corrections and community supervision"} -->
+# Facilities Development Corporation Act § 7-A — Relationship with the state department of corrections and community supervision
+
+[Facilities Development Corporation Act](README.md)
+
+```text
+  § 7-a. Relationship with the state department of corrections and
+community supervision. The corporation, upon the issuance by the
+director of the budget of a certificate of approval segregating funds to
+pay for their corporate services, shall design, construct, reconstruct,
+rehabilitate, improve, and equip facilities for the department of
+corrections and community supervision or cause facilities to be
+designed, constructed, reconstructed, rehabilitated, improved, and
+equipped. The corporation shall also assist and cooperate with and shall
+make its personnel and services fully available to the commissioner of
+corrections and community supervision and the department of corrections
+and community supervision in matters relating to their responsibilities
+for site selection, acquisition of and capital planning relating to
+facilities for the department of corrections and community supervision.
+During the course of construction, acquisition, reconstruction,
+rehabilitation and improvement of such facilities, the corporation shall
+consult with the commissioner of corrections and community supervision
+and the personnel of the department of corrections and community
+supervision as the work progresses in matters relating to space
+requirements, site plans, architectural concept and substantial changes
+in the plans and specifications therefor and in matters relating to the
+original furnishings, equipment, machinery, and apparatus needed to
+furnish and equip such facilities upon the completion of the work. The
+commissioner of corrections and community supervision and the department
+of corrections and community supervision shall assist and cooperate with
+the corporation in such matters.
+```

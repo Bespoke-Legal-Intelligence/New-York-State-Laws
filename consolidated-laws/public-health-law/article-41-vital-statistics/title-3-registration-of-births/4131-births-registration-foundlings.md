@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4131", "kind": "section", "law_id": "PBH", "location_id": "4131", "path": "ARTICLE 41 › TITLE 3 › SECTION 4131", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4131.md", "title": "Births; registration; foundlings"} -->
+# Public Health Law § 4131 — Births; registration; foundlings
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
+
+```text
+  § 4131. Births; registration; foundlings. 1. The report of the finding
+of a child whose parents are unknown, filed by the commissioner of
+social services or by the city social services officer in accordance
+with the provisions of subdivision two of section three hundred
+ninety-eight of the social services law, shall constitute the birth
+record of such child.
+  2. The district wherein such child was found shall be considered as
+the place of birth, and the date of birth shall be that determined by
+the commissioner of social services or by the city social services
+officer as the approximate date of birth.
+  3. If, however, such child be subsequently identified, and it should
+appear that a certificate of birth for this child has either before or
+following identification been filed, as otherwise provided in this
+article, the report of the commissioner of social services or of the
+city social services officer shall be placed under seal by the state
+commissioner of health, such seal not to be broken except upon order of
+a court of competent jurisdiction.
+```

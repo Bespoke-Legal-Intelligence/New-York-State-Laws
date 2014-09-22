@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-208", "kind": "section", "law_id": "UCC", "location_id": "2-A-208", "path": "ARTICLE 2-A › PART 2 › SECTION 2-A-208", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-208.md", "title": "Modification, Rescission and Waiver"} -->
+# Uniform Commercial Code § 2-A-208 — Modification, Rescission and Waiver
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 2 — Formation and Construction of Lease Contract](README.md)
+
+```text
+Section 2-A-208. Modification, Rescission and Waiver.
+  (1) An agreement modifying a lease contract needs no consideration to
+be binding.
+  (2) A signed lease agreement that excludes modification or rescission
+except by a signed writing may not be otherwise modified or rescinded,
+but, except as between merchants, such a requirement on a form supplied
+by a merchant must be separately signed by the other party.
+  (3) Although an attempt at modification or rescission does not satisfy
+the requirements of subsection (2), it may operate as a waiver.
+  (4) A party who has made a waiver affecting an executory portion of a
+lease contract may retract the waiver by reasonable notification
+received by the other party that strict performance will be required of
+any term waived, unless the retraction would be unjust in view of a
+material change of position in reliance on the waiver.
+```

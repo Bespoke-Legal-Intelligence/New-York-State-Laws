@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 5210", "kind": "section", "law_id": "ISC", "location_id": "5210", "path": "ARTICLE 52 › SECTION 5210", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/5210.md", "title": "Application for payment of judgment"} -->
+# Insurance Law § 5210 — Application for payment of judgment
+
+[Insurance Law](../README.md) › [Article 52 — Motor Vehicle Accident Indemnification Corporation](README.md)
+
+```text
+  § 5210. Application for payment of judgment. (a) When any qualified
+person who has complied with all the applicable requirements of this
+article recovers a final judgment in a court against a financially
+irresponsible motorist, for injury to, or death of, any person arising
+out of the ownership, maintenance or use of the uninsured motor vehicle
+in this state, which remains unpaid, and all appeals have been concluded
+or the time for commencing them has expired, the judgment creditor may
+file a verified petition in the court in which the judgment was entered
+and, upon ten days' written notice to the corporation apply to the court
+for an order directing payment by the corporation of the amount unpaid
+on the judgment.  However, there shall be no right of recovery by a
+covered person from the corporation for non-economic loss unless such
+person has incurred a serious injury, as such terms are defined in
+section five thousand one hundred two of this chapter.  Such judgment
+exclusive of interest and costs shall not exceed:
+  (1) twenty-five thousand dollars on account of injury to one person in
+any one accident, and
+  (2) fifty thousand dollars on account of death to one person in any
+one accident, and
+  (3) fifty thousand dollars on account of injury to more than one
+person in any one accident subject to the limit of twenty-five thousand
+dollars for any one person, and
+  (4) one hundred thousand dollars on account of death to more than one
+person in any one accident subject to the limit of fifty thousand
+dollars for any one person.
+  (b) The above applicable limit of liability shall be reduced by the
+amount of:
+  (1)  any collectible liability insurance and available assets or
+contribution of the financially irresponsible motorist; and
+  (2)  any payment received by the qualified person from or on behalf of
+any person jointly or severally liable with the financially
+irresponsible motorist.
+  (c) Any such judgment shall be regarded as excess to any other
+collectible liability insurance afforded to any financially
+irresponsible motorist.
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 21-0515", "kind": "section", "law_id": "ENV", "location_id": "21-0515", "path": "ARTICLE 21 › TITLE 5 › SECTION 21-0515", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/21-0515.md", "title": "Preparation of plan; consultation"} -->
+# Environmental Conservation Law § 21-0515 — Preparation of plan; consultation
+
+[Environmental Conservation Law](../../README.md) › [Article 21 — Pollution Control Compacts](../README.md) › [Title 5 — Tri-state Compact and Interstate Environmental Commission](README.md)
+
+```text
+§ 21-0515. Preparation of plan; consultation.
+  The commission may prepare a general plan of the most practicable and
+economical method of securing conformity with the standards set forth in
+the compact, having in view the future growth and development of the
+district, and to that end shall cooperate and advise with the respective
+state authorities having jurisdiction over stream pollution and any
+other bodies having to do with sewage and garbage disposal and the
+pollution of the waters of the district, with the secretary of the army
+of the United States, with appropriate committees of congress and any
+and all other federal authorities having jurisdiction in the premises,
+with representatives of chambers of commerce and other civic bodies
+within the district, and with such bodies, commissions and legislative
+committees as may exist or be created in any of the signatory states,
+for the purpose of bringing about a comprehensive program for the
+abatement and elimination of pollution.
+```

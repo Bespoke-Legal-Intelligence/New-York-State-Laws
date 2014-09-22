@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 4-214", "kind": "section", "law_id": "UCC", "location_id": "4-214", "path": "ARTICLE 4 › PART 2 › SECTION 4-214", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/4-214.md", "title": "Insolvency and Preference"} -->
+# Uniform Commercial Code § 4-214 — Insolvency and Preference
+
+[Uniform Commercial Code](../../README.md) › [Article 4 — Bank Deposits and Collections](../README.md) › [Part 2 — Collection of Items: Depositary and Collecting Banks](README.md)
+
+```text
+Section 4--214. Insolvency and Preference.
+  (1) Any item in or coming into the possession of a payor or collecting
+bank which suspends payment and which item is not finally paid shall be
+returned by the receiver, trustee or agent in charge of the closed bank
+to the presenting bank or the closed bank's customer.
+  (2) If a payor bank finally pays an item and suspends payments without
+making a settlement for the item with its customer or the presenting
+bank which settlement is or becomes final, the owner of the item has a
+preferred claim against the payor bank.
+  (3) If a payor bank gives or a collecting bank gives or receives a
+provisional settlement for an item and thereafter suspends payments, the
+suspension does not prevent or interfere with the settlement becoming
+final if such finality occurs automatically upon the lapse of certain
+time or the happening of certain events (subsection (3) of Section
+4--211, subsections (1) (d), (2) and (3) of Section 4--213).
+  (4) If a collecting bank receives from subsequent parties settlement
+for an item which settlement is or becomes final and suspends payments
+without making a settlement for the item with its customer which is or
+becomes final, the owner of the item has a preferred claim against such
+collecting bank.
+```

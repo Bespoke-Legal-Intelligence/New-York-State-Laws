@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4513", "kind": "section", "law_id": "ISC", "location_id": "4513", "path": "ARTICLE 45 › SECTION 4513", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4513.md", "title": "Annuity certificates; compliance with rules and regulations"} -->
+# Insurance Law § 4513 — Annuity certificates; compliance with rules and regulations
+
+[Insurance Law](../README.md) › [Article 45 — Fraternal Benefit Societies](README.md)
+
+```text
+  § 4513. Annuity certificates; compliance with rules and regulations.
+No certificate or other evidence of any annuity contract and no
+application or rider or endorsement for use in connection therewith,
+shall be delivered or issued for delivery in this state unless it
+conforms with reasonable rules and regulations prescribed by the
+superintendent. Pursuant to the foregoing the superintendent shall have
+power, from time to time to make, alter and supersede reasonable rules
+and regulations prescribing the required, optional and prohibited
+provisions in such contracts, and such rules and regulations shall
+conform, as far as practicable with the provisions of section three
+thousand two hundred nineteen of this chapter.
+```

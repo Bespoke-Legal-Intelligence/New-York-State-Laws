@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-519", "kind": "section", "law_id": "UCC", "location_id": "2-A-519", "path": "ARTICLE 2-A › PART 5 › SECTION 2-A-519", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-519.md", "title": "Lessee's Damages for Non-delivery, Repudiation, Default, and Breach of Warranty in Regard to Accepted Goods"} -->
+# Uniform Commercial Code § 2-A-519 — Lessee's Damages for Non-delivery, Repudiation, Default, and Breach of Warranty in Regard to Accepted Goods
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 5 — Default a In General B Default By Lessor C Default By Lessee](README.md)
+
+```text
+Section 2-A-519. Lessee's Damages for Non-delivery, Repudiation,
+                   Default, and Breach of Warranty in Regard to Accepted
+                   Goods.
+  (1) Except as otherwise provided with respect to damages liquidated in
+the lease agreement (Section 2-A-504) or otherwise determined pursuant
+to agreement of the parties (Section 1-102(3) and 2-A-503), if a lessee
+elects not to cover or a lessee elects to cover and the cover is by
+lease agreement, whether or not the lease agreement qualifies for
+treatment under Section 2-A-518(2), or is by purchase or otherwise, the
+measure of damages for non-delivery or repudiation by the lessor or for
+rejection or revocation of acceptance by the lessee is the present
+value, as of the date of the default, of the then market rent minus the
+present value as of the same date of the original rent, computed for the
+remaining lease term of the original lease agreement, together with
+incidental and consequential damages, less expenses saved in consequence
+of the lessor's default.
+  (2) Market rent is to be determined as of the place for tender or, in
+cases of rejection after arrival or revocation of acceptance, as of the
+place of arrival.
+  (3) Except as otherwise agreed, if the lessee has accepted goods and
+given notification (Section 2-A-516(3)), the measure of damages for
+non-conforming tender or delivery or other default by a lessor is the
+loss resulting in the ordinary course of events from the lessor's
+default as determined in any manner that is reasonable together with
+incidental and consequential damages, less expenses saved in consequence
+of the lessor's default.
+  (4) Except as otherwise agreed, the measure of damages for breach of
+warranty is the present value at the time and place of acceptance of the
+difference between the value of the use of the goods accepted and the
+value if they had been as warranted for the lease term, unless special
+circumstances show proximate damages of a different amount, together
+with incidental and consequential damages, less expenses saved in
+consequence of the lessor's default or breach of warranty.
+```

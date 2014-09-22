@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 7104", "kind": "section", "law_id": "CVP", "location_id": "7104", "path": "ARTICLE 71 › SECTION 7104", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/7104.md", "title": "Seizing, reclaiming or returning less than all chattels"} -->
+# Civil Practice Law and Rules § 7104 — Seizing, reclaiming or returning less than all chattels
+
+[Civil Practice Law and Rules](../README.md) › [Article 71 — Recovery of Chattel](README.md)
+
+```text
+  § 7104. Seizing, reclaiming or returning less than all chattels. Where
+the seizure of two or more chattels is required by the order of seizure,
+the sheriff shall seize those chattels which can be found. Less than all
+of the seized chattels may be impounded, reclaimed or returned. The
+value of the chattels seized, as stated in the affidavit of the
+plaintiff, or as determined by the court upon application of the
+defendant, shall be the value for the purposes of subsequent
+undertakings in the action. Unless the court orders otherwise, the
+sheriff may, at any time before entry of judgment, seize those chattels
+not yet seized; the proceedings for reclaiming, impounding or returning
+a chattel subsequently seized are the same as on a former seizure.
+```

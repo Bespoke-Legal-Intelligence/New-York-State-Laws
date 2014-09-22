@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 119-S-1", "kind": "section", "law_id": "GMU", "location_id": "119-S-1", "path": "ARTICLE 5-I › SECTION 119-S-1", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/119-S-1.md", "title": "Provision of mass transportation, in the county of Tompkins"} -->
+# General Municipal Law § 119-S-1 — Provision of mass transportation, in the county of Tompkins
+
+[General Municipal Law](../README.md) › [Article 5-I — Mass Transportation and Airport and Aviation Facilities](README.md)
+
+```text
+  § 119-s-1. Provision of mass transportation, in the county of
+Tompkins. 1. Notwithstanding any other provision of law to the contrary,
+the county of Tompkins, the city of Ithaca and Cornell University may
+jointly provide for mass transportation services in the county of
+Tompkins.
+  2. In addition to the power to apply for, accept and expend financial
+assistance individually or jointly, as provided pursuant to section one
+hundred nineteen-s of this article, the county of Tompkins and city of
+Ithaca shall have the power to apply for, accept and expend financial
+assistance jointly with Cornell University.
+  3. The powers granted by this section shall be in addition to and not
+in substitution of any other powers granted to the county of Tompkins,
+the city of Ithaca and Cornell University to provide mass transportation
+services.
+  4. For the purposes of this section, "mass transportation services"
+shall mean common carriers of passengers in accordance with established
+routes and schedules, but shall not include charter transportation by a
+motor carrier as proscribed by the applicable federal regulations.
+```

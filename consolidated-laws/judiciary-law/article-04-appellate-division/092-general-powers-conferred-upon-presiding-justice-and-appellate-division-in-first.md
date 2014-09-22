@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 92", "kind": "section", "law_id": "JUD", "location_id": "92", "path": "ARTICLE 4 › SECTION 92", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/92.md", "title": "General powers conferred upon presiding justice and appellate division in first department"} -->
+# Judiciary Law § 92 — General powers conferred upon presiding justice and appellate division in first department
+
+[Judiciary Law](../README.md) › [Article 4 — Appellate Division](README.md)
+
+```text
+  § 92. General powers conferred upon presiding justice and appellate
+division in first department. Except as otherwise provided in this
+article, all the powers heretofore conferred by law upon the presiding
+justice of the general term of the supreme court in the first judicial
+department, the chief judge of the court of common pleas for the city
+and county of New York, and the chief judge of the superior court of the
+city of New York, either or all of them, are vested in the presiding
+justice of the appellate division of the supreme court in the first
+department. All the powers heretofore conferred by law upon the general
+term of the supreme court in the first judicial department, upon the
+general term of the superior court of the city of New York and upon the
+general term of the court of common pleas for the city and county of New
+York, are conferred upon and vested in the appellate division of the
+supreme court in the first department. And all the powers conferred by
+law upon the supreme court in the first judicial district, upon the
+superior court of the city of New York and upon the court of common
+pleas for the city and county of New York, other than as courts of first
+instance in actions and special proceedings, are also conferred upon and
+vested in said appellate division.
+```

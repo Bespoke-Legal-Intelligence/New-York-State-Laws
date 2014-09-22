@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1514", "kind": "section", "law_id": "BSC", "location_id": "1514", "path": "ARTICLE 15 › SECTION 1514", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1514.md", "title": "Triennial statement"} -->
+# Business Corporation Law § 1514 — Triennial statement
+
+[Business Corporation Law](../README.md) › [Article 15 — Professional Service Corporations](README.md)
+
+```text
+§ 1514. Triennial statement.
+  (a) Each professional service corporation shall, at least once every
+three years on or before the date prescribed by the licensing authority,
+furnish a statement to the licensing authority listing the name and
+residence address of each shareholder, director and officer of such
+corporation and certifying that all such individuals are authorized by
+law in this state to practice a profession which such corporation is
+authorized to practice. The statement shall be signed by the president
+or any vice-president of the corporation and attested to by the
+secretary or any assistant secretary of the corporation.
+  (b) Each design professional service corporation shall, at least once
+every three years on or before the date prescribed by the licensing
+authority, furnish a statement to the licensing authority listing the
+names and residence addresses of each shareholder, director and officer
+of such corporation and certify as the date of certification and at all
+times over the entire three year period that:
+  (i) greater than seventy-five percent of the outstanding shares of
+stock of the corporation are and were owned by design professionals,
+  (ii) greater than seventy-five percent of the directors are and were
+design professionals,
+  (iii) greater than seventy-five percent of the officers are and were
+design professionals,
+  (iv) the president, the chairperson of the board of directors and the
+chief executive officer or officers are and were design professionals,
+and
+  (v) the single largest shareholder is and was either a design
+professional or an ESOP with greater than seventy-five percent of the
+plan's voting trustees being design professionals and greater than
+seventy-five percent of the plan's committee members being design
+professionals.
+  The statement shall be signed by the president or any design
+professional vice-president and attested to by the secretary or any
+assistant secretary of the corporation.
+```

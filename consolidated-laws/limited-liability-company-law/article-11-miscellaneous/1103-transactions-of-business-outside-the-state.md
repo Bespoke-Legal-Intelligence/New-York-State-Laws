@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 1103", "kind": "section", "law_id": "LLC", "location_id": "1103", "path": "ARTICLE 11 › SECTION 1103", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/1103.md", "title": "Transactions of business outside the state"} -->
+# Limited Liability Company Law § 1103 — Transactions of business outside the state
+
+[Limited Liability Company Law](../README.md) › [Article 11 — Miscellaneous](README.md)
+
+```text
+  § 1103. Transactions of business outside the state. (a) It is the
+intention of the legislature by the enactment of this chapter that the
+legal existence of a limited liability company formed under this chapter
+be recognized beyond the limits of this state and that, subject to any
+reasonable registration requirements, any such limited liability company
+transacting business outside this state shall be granted the protection
+of full faith and credit under section l of article IV of the
+Constitution of the United States.
+  (b) The provisions of this chapter shall determine the rights and
+obligations of a domestic limited liability company, organized under
+this chapter, in commerce with foreign nations and among the several
+states, except as prohibited by law.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 303-A", "kind": "section", "law_id": "PML", "location_id": "303-A", "path": "ARTICLE 3 › SECTION 303-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/303-A.md", "title": "Non-managing ownership of standardbred horses"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 303-A — Non-managing ownership of standardbred horses
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 3 — Harness Racing and Breeding](README.md)
+
+```text
+  § 303-a. Non-managing ownership of standardbred horses. (a) For
+purposes of this section, a managing owner shall mean a person who
+through ownership, lease or designation manages all racing activities
+for a race horse and is personally responsible for all liabilities
+arising therefrom.
+  (b) Non-managing owners. There shall be no restriction on the number
+of non-managing owners of a race horse except that no horse shall be
+entered or started which is owned by thirty-five or fewer owners unless
+all such owners are licensed; in the event that a horse is owned by more
+than thirty-five owners, only those individuals having a three percent
+or greater property interest in such horse shall be required to be
+licensed as an owner.
+  The board shall adopt rules and regulations regarding ownership of
+horses not inconsistent with this section.
+```

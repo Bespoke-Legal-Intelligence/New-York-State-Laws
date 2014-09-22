@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 403", "kind": "section", "law_id": "FIS", "location_id": "403", "path": "ARTICLE 4 › SECTION 403", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/403.md", "title": "Financial frauds and consumer protection unit"} -->
+# Financial Services Law § 403 — Financial frauds and consumer protection unit
+
+[Financial Services Law](../README.md) › [Article 4 — Financial Frauds Prevention](README.md)
+
+```text
+  § 403. Financial frauds and consumer protection unit. (a) The
+superintendent shall establish a financial frauds and consumer
+protection unit in the department of financial services.
+  (b) The financial frauds and consumer protection unit shall be a
+qualified agency, as defined in section eight hundred thirty-five of the
+executive law, to enforce the provisions of this article and article
+four of the insurance law and article II-B of the banking law.
+  (c) The superintendent shall have the power to designate employees of
+the unit as peace officers as defined in section 2.10 of the criminal
+procedure law. Any such designations made by the superintendent of
+insurance or the superintendent of banks, as they relate to peace
+officers within the insurance frauds bureau and the criminal
+investigations bureau, made prior to the effective date of this chapter,
+shall be deemed continued and will remain effective subject to the
+discretion of the superintendent.
+  (d) The superintendent is authorized to establish within the financial
+frauds and consumer protection unit one or more units designated for the
+purpose of investigating and preventing fraud and other criminal
+activity in certain specified areas of the banking, finance and
+insurance industries, as authorized by this chapter.
+```

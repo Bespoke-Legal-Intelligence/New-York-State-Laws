@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 304", "kind": "section", "law_id": "ABP", "location_id": "304", "path": "ARTICLE 3 › SECTION 304", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/304.md", "title": "Unclaimed property held by the superintendent of financial services after liquidation"} -->
+# Abandoned Property Law § 304 — Unclaimed property held by the superintendent of financial services after liquidation
+
+[Abandoned Property Law](../README.md) › [Article 3 — Unclaimed Property Held or Owing By Banking Organizations](README.md)
+
+```text
+  § 304. Unclaimed property held by the superintendent of financial
+services after liquidation. 1. All amounts held by the superintendent of
+financial services as trustee for the owners thereof after the
+completion of the voluntary or involuntary liquidation of the business
+and property of any banking organization or of the business and property
+in this state of any foreign banking corporation, as provided in section
+thirty of the banking law, which shall not have been claimed and paid
+within four years after receipt by the superintendent shall be deemed
+abandoned property.
+  2. Any such abandoned property held by the superintendent of financial
+services to which the right to receive the same is established as
+provided in section thirty-one of the banking law shall cease to be
+deemed abandoned.
+```

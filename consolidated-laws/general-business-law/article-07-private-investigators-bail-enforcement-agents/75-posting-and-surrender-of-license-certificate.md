@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 75", "kind": "section", "law_id": "GBS", "location_id": "75", "path": "ARTICLE 7 › SECTION 75", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/75.md", "title": "Posting and surrender of license certificate"} -->
+# General Business Law § 75 — Posting and surrender of license certificate
+
+[General Business Law](../README.md) › [Article 7 — Private Investigators, Bail Enforcement Agents and Watch, Guard and Patrol Agencies](README.md)
+
+```text
+  § 75. Posting and surrender of license certificate. Immediately upon
+the receipt of the license certificate issued by the department of state
+pursuant to this article, the licensee named therein shall cause such
+license certificate to be posted up and at all times displayed in a
+conspicuous place in the bureau, agency, sub-agency, office or branch
+office for which it is issued, so that all persons visiting such place
+may readily see the same. Such license certificate shall at all
+reasonable times be subject to inspection by the secretary of state or
+an authorized representative or representatives of the department of
+state. It shall be unlawful for any person, firm, partnership, limited
+liability company or corporation holding such license certificate to
+post such certificate or to permit such certificate to be posted upon
+premises other than those described therein or to which it has been
+transferred pursuant to the provisions of this article, or knowingly to
+alter, deface or destroy any such license certificate. Every license
+certificate shall be surrendered to the department of state within
+seventy-two hours after its terms shall have expired or after notice in
+writing to the holder that such license has been revoked. Failure to
+comply with any of the provisions of this section is a misdemeanor and
+sufficient cause for the revocation of a license.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-2103", "kind": "section", "law_id": "ENV", "location_id": "11-2103", "path": "ARTICLE 11 › TITLE 21 › SECTION 11-2103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-2103.md", "title": "Acquisition and use of property"} -->
+# Environmental Conservation Law § 11-2103 — Acquisition and use of property
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 21 — Conservation Areas and Facilities; Private Refuges and Posted Lands](README.md)
+
+```text
+§ 11-2103. Acquisition and use of property.
+  1. The department shall have power to acquire by lease, purchase,
+gift, devise, agreement or otherwise from any sources, lands, waters or
+lands and waters, or any right or interest therein for the purpose of
+establishing and maintaining public hunting, trapping and fishing
+grounds.
+  2. a. The department shall have power to receive real and personal
+property by gift or devise from any person or from the United States
+Government and to accept such property in the name of the people of the
+state. Under this power any property of any nature or any rights therein
+may be received and accepted if the department deems it suitable for
+purposes of fish and wildlife management.
+  b. Lands or waters accepted under this power shall be held for the use
+of the department and shall be improved or developed as the department
+deems best for such purposes. Such lands and waters shall not become
+part of the forest preserve nor be subject to the limitation of section
+1 of article XIV of the State Constitution.
+  3. The department may purchase the shooting and fishing rights on
+lands or waters outside the Adirondack and Catskill parks and establish
+game refuges thereon.
+```

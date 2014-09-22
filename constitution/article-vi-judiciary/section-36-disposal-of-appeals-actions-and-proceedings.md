@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Vi, § 36", "kind": "section", "law_id": "CNS", "location_id": "A6S36", "path": "ARTICLE VI › SECTION 36", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A6S36.md", "title": "  Disposal of appeals, actions and proceedings"} -->
+# New York State Constitution, Article Vi, § 36 —   Disposal of appeals, actions and proceedings
+
+[New York State Constitution](../README.md) › [Article VI — Judiciary](README.md)
+
+```text
+  § 36. No civil or criminal appeal, action or proceeding pending before
+any court or any judge or justice on the effective date of this article
+shall abate but such appeal, action or proceeding so pending shall be
+continued in the courts as provided in this article and, for the
+purposes of the disposition of such actions or proceedings only, the
+jurisdiction of any court to which any such action or proceeding is
+transferred by this article shall be coextensive with the jurisdiction
+of the former court from which the action or proceeding was transferred.
+Except to the extent inconsistent with the provisions of this article,
+subsequent proceedings in such appeal, action or proceeding shall be
+conducted in accordance with the laws in force on the effective date of
+this article until superseded in the manner authorized by law.
+```

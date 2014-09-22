@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "State Technology Law § 105", "kind": "section", "law_id": "STT", "location_id": "105", "path": "ARTICLE 1 › SECTION 105", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/105.md", "title": "Functions, powers and duties of the council"} -->
+# State Technology Law § 105 — Functions, powers and duties of the council
+
+[State Technology Law](../README.md) › [Article 1 — Office of Information Technology Services](README.md)
+
+```text
+  § 105. Functions, powers and duties of the council. The council shall
+have the following functions, powers and duties:
+  1. To review and comment on all rules and regulations of the office;
+  2. To provide guidance and support to the office in the development of
+any statewide plan for the further development and improvement of the
+state's technology acquisitions;
+  3. To recommend surveys and reports to be completed by the director to
+carry out all of the objectives and purposes of this article; and
+  4. To perform such other acts as may be assigned by the chairperson of
+the council which are necessary or appropriate to carry out the
+functions of the council.
+```

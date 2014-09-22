@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Election Law § 6-162", "kind": "section", "law_id": "ELN", "location_id": "6-162", "path": "ARTICLE 6 › SECTION 6-162", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/6-162.md", "title": "Primary; New York City, run-off"} -->
+# Election Law § 6-162 — Primary; New York City, run-off
+
+[Election Law](../README.md) › [Article 6 — Designation and Nomination of Candidates](README.md)
+
+```text
+  § 6-162. Primary; New York City, run-off. 1. In the city of New York,
+when no candidate for the office of mayor, public advocate or
+comptroller receives forty percent or more of the votes cast by the
+members of a political party for such office in a city-wide primary
+election, the board of elections of such city shall conduct a run-off
+primary election between the two candidates receiving the greatest
+number of votes for the same office.
+  2. In any jurisdiction that authorizes a run-off election after a
+primary election, if one of the two candidates receiving the greatest
+number of votes for the same office files with the local board of
+elections a certificate of withdrawal within three days following such
+primary election, the board shall accept and certify the withdrawal and
+declare the remaining candidate the winner and no such run-off primary
+election shall be held. Such certificate of withdrawal shall be in
+affidavit or affirmation form as determined by the state board of
+elections.
+```

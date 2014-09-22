@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 67", "kind": "section", "law_id": "RCO", "location_id": "67", "path": "ARTICLE 4 › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/67.md", "title": "Changing date of annual corporate meetings"} -->
+# Religious Corporations Law § 67 — Changing date of annual corporate meetings
+
+[Religious Corporations Law](../README.md) › [Article 4 — Presbyterian Churches](README.md)
+
+```text
+  § 67. Changing date of annual corporate meetings.  An annual corporate
+meeting of an incorporated church to which this article is applicable,
+may change the date of its annual meeting thereafter. If such date shall
+next thereafter occur less than six months after the annual meeting at
+which such change is made the next annual meeting shall be held one year
+from such next recurring date. For the purpose of determining the terms
+of office of trustees, the time between the annual meeting at which such
+change is made and the next annual meeting thereafter shall be reckoned
+as one year.
+```

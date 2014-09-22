@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-704", "kind": "section", "law_id": "PTR", "location_id": "121-704", "path": "ARTICLE 8-A › SECTION 121-704", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-704.md", "title": "Right of assignee to become limited partner"} -->
+# Partnership Law § 121-704 — Right of assignee to become limited partner
+
+[Partnership Law](../README.md) › [Article 8-A — Revised Limited Partnership Act](README.md)
+
+```text
+  § 121-704. Right of assignee to become limited partner. (a) An
+assignee of a partnership interest, including an assignee of a general
+partner, may become a limited partner if (i) the assignor gives the
+assignee that right in accordance with authority granted in the
+partnership agreement, or (ii) all partners consent in writing, or (iii)
+to the extent that the partnership agreement so provides.
+  (b) An assignee who has become a limited partner has, to the extent
+assigned, the rights and powers, and is subject to the restrictions and
+liabilities, of a limited partner under the partnership agreement and
+this article. Notwithstanding the foregoing, unless otherwise provided
+in the partnership agreement, an assignee who becomes a limited partner
+is liable for the obligations of his assignor to make contributions as
+provided in section 121-502 of this article, but shall not be liable for
+the obligations of his assignor under sections 121-603 and 121-607 of
+this article. However, the assignee is not obligated for liabilities,
+including the obligations of his assignor to make contributions as
+provided in section 121-502 of this article, unknown to the assignee at
+the time he becomes a limited partner.
+```

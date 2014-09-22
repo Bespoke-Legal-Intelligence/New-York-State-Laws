@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Town Law § 216", "kind": "section", "law_id": "TWN", "location_id": "216", "path": "ARTICLE 13 › SECTION 216", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/216.md", "title": "Powers of town board"} -->
+# Town Law § 216 — Powers of town board
+
+[Town Law](../README.md) › [Article 13 — Improvement District Commissioners](README.md)
+
+```text
+  § 216. Powers of town board. Every petition for any purpose required
+by article twelve of this chapter to be initiated by petition shall be
+presented to the town board but no such petition for any such purpose
+within a district to which this article shall apply, shall be acted upon
+by the town board unless such petition and the purposes thereof shall
+have been approved in writing by a majority of the commissioners of such
+district. The town board shall call a hearing upon all petitions so
+approved by the commissioners and give notice thereof and such hearing
+shall be held in the manner provided in article twelve of this chapter.
+The town board shall call a hearing upon other purposes authorized by
+article twelve of this chapter to be undertaken without petition, only
+after such purposes shall have been approved in writing by a majority of
+the commissioners of such district, and the town board shall give notice
+thereof and such hearing shall be held in the manner provided in article
+twelve of this chapter. If the town board shall determine to grant the
+petition or to authorize any such purpose, it may delegate to the board
+of commissioners the conduct of all further proceedings thereon pursuant
+to article twelve. Nothing herein contained shall be construed to
+delegate or transfer any power of the town board not contained in
+article twelve or in sections two hundred thirty-seven, two hundred
+thirty-eight and two hundred thirty-nine of article fifteen of this
+chapter.
+```

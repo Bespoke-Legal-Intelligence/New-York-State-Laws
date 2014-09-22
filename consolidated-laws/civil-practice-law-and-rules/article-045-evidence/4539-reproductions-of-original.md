@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 4539", "kind": "section", "law_id": "CVP", "location_id": "4539", "path": "ARTICLE 45 › SECTION 4539", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/4539.md", "title": "Reproductions of original"} -->
+# Civil Practice Law and Rules § 4539 — Reproductions of original
+
+[Civil Practice Law and Rules](../README.md) › [Article 45 — Evidence](README.md)
+
+```text
+  Rule 4539. Reproductions of original. (a) If any business,
+institution, or member of a profession or calling, in the regular course
+of business or activity has made, kept or recorded any writing, entry,
+print or representation and in the regular course of business has
+recorded, copied, or reproduced it by any process, including
+reproduction, which accurately reproduces or forms a durable medium for
+reproducing the original, such reproduction, when satisfactorily
+identified, is as admissible in evidence as the original, whether the
+original is in existence or not, and an enlargement or facsimile of such
+reproduction is admissible in evidence if the original reproduction is
+in existence and available for inspection under direction of the court.
+The introduction of a reproduction does not preclude admission of the
+original.
+  (b) A reproduction created by any process which stores an image of any
+writing, entry, print or representation and which does not permit
+additions, deletions, or changes without leaving a record of such
+additions, deletions, or changes, when authenticated by competent
+testimony or affidavit which shall include the manner or method by which
+tampering or degradation of the reproduction is prevented, shall be as
+admissible in evidence as the original.
+```

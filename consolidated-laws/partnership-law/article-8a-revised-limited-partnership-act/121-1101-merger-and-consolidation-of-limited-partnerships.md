@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-1101", "kind": "section", "law_id": "PTR", "location_id": "121-1101", "path": "ARTICLE 8-A › SECTION 121-1101", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-1101.md", "title": "Merger and consolidation of limited partnerships"} -->
+# Partnership Law § 121-1101 — Merger and consolidation of limited partnerships
+
+[Partnership Law](../README.md) › [Article 8-A — Revised Limited Partnership Act](README.md)
+
+```text
+  § 121-1101. Merger and consolidation of limited partnerships.  One or
+more limited partnerships formed under this article or which complies
+with subdivision (a) of section 121-1202 of this article may merge with,
+or consolidate into, a limited partnership formed under this article or
+which complies with subdivision (a) of such section or under the law of
+any other state. Whenever used in this article, "merger" shall mean a
+procedure in which two or more limited partnerships merge into a single
+limited partnership which shall be one of the constituent limited
+partnerships and "consolidation" shall mean a procedure in which two or
+more limited partnerships consolidate into a single limited partnership
+which shall be a new limited partnership to be formed pursuant to the
+consolidation.
+```

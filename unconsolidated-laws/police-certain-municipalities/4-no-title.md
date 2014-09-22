@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Police Certain Municipalities § 4", "kind": "section", "law_id": "PCM", "location_id": "4", "path": "SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:PCM/4.md", "title": "No title"} -->
+# Police Certain Municipalities § 4 — No title
+
+[Police Certain Municipalities](README.md)
+
+```text
+  § 4. Any commissioner of police, superintendent of police, chief of
+police, or other officer or officers, having the management, control or
+direction of the police force of any city of the first or second class
+in this state, (excepting such cities which on December thirty-first,
+nineteen hundred and ten, had in force and operation a three platoon
+system) who shall fail to divide such force into three platoons within
+the time prescribed in section one of this act shall be deemed to have
+forfeited his office and, upon the written petition of any citizen of
+the city in which such violation took place, must be removed therefrom
+by the supreme court of the judicial district within which such city is
+contained. A copy of such petition must be served upon the officer
+accused and he shall have the right to appear and to give evidence and
+to be heard in his defense.
+```

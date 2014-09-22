@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "County Law § 409", "kind": "section", "law_id": "CNT", "location_id": "409", "path": "ARTICLE 8 › SECTION 409", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/409.md", "title": "Actions and proceedings in official capacity"} -->
+# County Law § 409 — Actions and proceedings in official capacity
+
+[County Law](../README.md) › [Article 8 — Officers; General Provisions](README.md)
+
+```text
+  § 409. Actions and proceedings in official capacity. 1. No officer
+whose compensation is paid from county funds shall employ an
+attorney-at-law to appear and prosecute or defend any civil action or
+proceeding brought by or against him in an official capacity whenever
+under the provisions of this chapter or other law it is made the duty of
+the district attorney or county attorney to prosecute or defend the
+same.
+  2. All damages recovered against, or costs and expenses lawfully
+incurred by any officer whose compensation is paid from county funds in
+the prosecution or defense of any civil action or proceeding brought by
+or against him for an official act done or for failure to perform an
+official act shall be a county charge and shall be audited and paid in
+the same manner as other county charges. When the act upon which the
+action or proceeding is based was done in good faith, but without
+authority of law or authorization of the board of supervisors, the board
+of supervisors may audit and pay the same as other county charges.
+```

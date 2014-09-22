@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-703", "kind": "section", "law_id": "UCC", "location_id": "9-703", "path": "ARTICLE 9 › PART 7 › SECTION 9-703", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-703.md", "title": "Security Interest Perfected Before Effective Date"} -->
+# Uniform Commercial Code § 9-703 — Security Interest Perfected Before Effective Date
+
+[Uniform Commercial Code](../../README.md) › [Article 9 — Secured Transactions](../README.md) › [Part 7 — Transition](README.md)
+
+```text
+Section 9--703. Security Interest Perfected Before Effective Date.
+  (a) Continuing priority over lien creditor: perfection requirements
+satisfied. A security interest that is enforceable immediately before
+Revised Article 9 takes effect and would have priority over the rights
+of a person that becomes a lien creditor at that time is a perfected
+security interest under Revised Article 9 if, when Revised Article 9
+takes effect, the applicable requirements for enforceability and
+perfection under Revised Article 9 are satisfied without further action.
+  (b) Continuing priority over lien creditor: perfection requirements
+not satisfied. Except as otherwise provided in Section 9--705 and
+subsection (c), if, immediately before this article takes effect, a
+security interest is enforceable and would have priority over the rights
+of a person that becomes a lien creditor at that time, but the
+applicable requirements for enforceability or perfection under this
+article are not satisfied when this article takes effect, the security
+interest:
+       (1) is a perfected security interest for one year after this
+           article takes effect;
+       (2) remains enforceable thereafter only if the security interest
+           becomes enforceable under Section 9--203 before the year
+           expires; and
+       (3) remains perfected thereafter only if the applicable
+           requirements for perfection under this article are satisfied
+           before the year expires.
+  (c) Special rule for cooperative interests: perfection requirements
+not satisfied. If, immediately before Revised Article 9 takes effect, a
+security interest in a cooperative interest is enforceable and would
+have priority over the rights of a person that becomes a lien creditor
+at that time, but the applicable requirements for perfection under
+Revised Article 9 are not satisfied when Revised Article 9 takes effect,
+the security interest:
+       (1) is a perfected security interest for 5 years after Revised
+           Article 9 takes effect; and
+       (2) remains perfected thereafter only if the applicable
+           requirements for perfection under Revised Article 9 are
+           satisfied before the 5 years expire.
+```

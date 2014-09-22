@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1321", "kind": "section", "law_id": "CVP", "location_id": "1321", "path": "ARTICLE 13-A › SECTION 1321", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1321.md", "title": "Levy upon personal property by seizure"} -->
+# Civil Practice Law and Rules § 1321 — Levy upon personal property by seizure
+
+[Civil Practice Law and Rules](../README.md) › [Article 13-A — Proceeds of a Crime-forfeiture](README.md)
+
+```text
+  § 1321. Levy upon personal property by seizure. If the claiming
+authority shall so direct the collecting agent, as an alternative to the
+method prescribed by section one thousand three hundred twenty of this
+article, shall levy upon property capable of delivery by taking the
+property into his actual custody. In cases in which the collecting agent
+is a sheriff, the sheriff may require that the claiming authority
+furnish indemnity that is either satisfactory to the sheriff or is fixed
+by the court. The collecting agent shall within four days serve a copy
+of the order of attachment in the manner prescribed by subdivision one
+of section one thousand three hundred twenty of this article upon the
+person from whose possession or custody the property was taken.
+```

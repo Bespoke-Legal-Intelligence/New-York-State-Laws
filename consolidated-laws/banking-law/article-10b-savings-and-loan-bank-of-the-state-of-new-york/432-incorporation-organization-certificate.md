@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 432", "kind": "section", "law_id": "BNK", "location_id": "432", "path": "ARTICLE 10-B › SECTION 432", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/432.md", "title": "Incorporation; organization certificate"} -->
+# Banking Law § 432 — Incorporation; organization certificate
+
+[Banking Law](../README.md) › [Article 10-B — Savings and Loan Bank of the State of New York](README.md)
+
+```text
+  § 432. Incorporation; organization certificate. When authorized by the
+superintendent as provided in article two of this chapter, ten or more
+savings and loan associations, the aggregate resources of which shall
+not be less than five million dollars, may form the Savings and Loan
+Bank of the State of New York.  Each of such associations shall
+subscribe, acknowledge and submit to the superintendent at his office an
+organization certificate in duplicate which shall specifically state:
+  1. The name, "Savings and Loan Bank of the State of New York."
+  2. The place in the state of New York where its business is to be
+transacted.
+  3. The number of shares for which each association has subscribed
+which shall amount in the aggregate to not less than one hundred
+thousand dollars.
+  4. The number of directors of such savings and loan bank, which shall
+not be less than seven nor more than fifteen, and the names of the
+persons who shall be its directors until the first annual meeting.  The
+certificate shall recite that the directors possess the qualifications
+specified in section four hundred forty-one of this article.
+  5. The name and location of the principal office of each savings and
+loan association subscribing the certificate and the aggregate resources
+of each such association.
+```

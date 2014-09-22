@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1312", "kind": "section", "law_id": "PML", "location_id": "1312", "path": "ARTICLE 13 › TITLE 2 › SECTION 1312", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1312.md", "title": "Requests for applications"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1312 — Requests for applications
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 2 — Facility Determination and Licensing](README.md)
+
+```text
+  § 1312. Requests for applications. 1. The board shall issue within
+ninety days of a majority of members being appointed a request for
+applications for a gaming facility license in regions one, two and five
+in zone two; provided, however, that the board shall not issue any
+requests for applications for any region in zone one; and further
+provided that the board shall not issue any requests for applications
+with respect to any gaming facility subsequently legislatively
+authorized until seven years following the commencement of gaming
+activities in zone two. All requests for applications shall include:
+  (a) the time and date for receipt of responses to the request for
+applications, the manner they are to be received and the address of the
+office to which the applications shall be delivered;
+  (b) the form of the application and the method for submission;
+  (c) a general description of the anticipated schedule for processing
+the application;
+  (d) the contact information of board employees responsible for
+handling applicant questions; and
+  (e) any other information that the board determines.
+  2. Board activities shall be subject to section one hundred
+thirty-nine-j and section one hundred thirty-nine-k of the state finance
+law.
+  3. Requests for applications pursuant to subdivision one of this
+section shall be advertised in a newspaper of general circulation and on
+the official internet website of the commission and the board.
+  4. The board shall establish deadlines for the receipt of all
+applications. Applications received after the deadline shall not be
+reviewed by the board.
+```

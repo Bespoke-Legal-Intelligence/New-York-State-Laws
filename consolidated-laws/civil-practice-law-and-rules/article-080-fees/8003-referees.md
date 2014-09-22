@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 8003", "kind": "section", "law_id": "CVP", "location_id": "8003", "path": "ARTICLE 80 › SECTION 8003", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/8003.md", "title": "Referees"} -->
+# Civil Practice Law and Rules § 8003 — Referees
+
+[Civil Practice Law and Rules](../README.md) › [Article 80 — Fees](README.md)
+
+```text
+  § 8003.  Referees.  (a)  Generally.  A referee is entitled, for each
+day spent in the business of the reference, to fifty dollars unless a
+different compensation is fixed by the court or by the consent in
+writing of all parties not in default for failure to appear or plead.
+  (b)  Upon sale of real property. A referee appointed to sell real
+property pursuant to a judgment is entitled to the same fees and
+disbursements as those allowed to a sheriff. Where a referee is required
+to take security upon a sale, or to distribute, apply, or ascertain and
+report upon the distribution or application of any of the proceeds of
+the sale, he or she is also entitled to one-half of the commissions upon
+the amount secured, distributed or applied as are allowed by law to an
+executor or administrator for receiving and paying out money.
+Commissions in excess of fifty dollars shall not be allowed upon a sum
+bid by a party, and applied upon that party's judgment, without being
+paid to the referee. A referee's compensation, including commissions,
+upon a sale pursuant to a judgment in any action cannot exceed five
+hundred dollars, unless the property sold for fifty thousand dollars or
+more, in which event the referee may receive such additional
+compensation as to the court may seem proper.
+  (c) This section shall not apply to judicial hearing officers who have
+been designated referees.
+```

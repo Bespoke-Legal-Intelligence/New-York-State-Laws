@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 141", "kind": "section", "law_id": "CAL", "location_id": "141", "path": "ARTICLE 14 › SECTION 141", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/141.md", "title": "Laws repealed"} -->
+# Canal Law § 141 — Laws repealed
+
+[Canal Law](../README.md) › [Article 14 — Saving Clause; Laws Repealed](README.md)
+
+```text
+  § 141. Laws repealed.  Chapter thirteen of the laws of nineteen
+hundred and nine, entitled "An act relating to canals, constituting
+chapter five of the consolidated laws, " and all acts amendatory thereof
+and supplemental thereto, and chapter sixty, laws of nineteen hundred
+and thirty-eight, relating to revocable permits, chapter six hundred
+fifty-five, laws of nineteen hundred and thirty-four relating to
+terminal facilities and storage, chapter three hundred thirty-eight,
+laws of nineteen hundred thirty-four, relating to disposition of
+terminals, are hereby repealed, but the repeal of such acts shall not
+revive any act or acts repealed by them; and no act or privilege
+heretofore granted or acquired and no limitation, restriction,
+reservation or obligation heretofore imposed by or under the provisions
+of this or any of the acts hereby repealed, shall be impaired,
+invalidated or otherwise affected by such repeal.
+```

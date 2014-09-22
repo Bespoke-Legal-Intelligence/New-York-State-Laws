@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1202", "kind": "section", "law_id": "CVP", "location_id": "1202", "path": "ARTICLE 12 › SECTION 1202", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1202.md", "title": "Appointment of guardian ad litem"} -->
+# Civil Practice Law and Rules § 1202 — Appointment of guardian ad litem
+
+[Civil Practice Law and Rules](../README.md) › [Article 12 — Infants, Incompetents and Conservatees](README.md)
+
+```text
+  Rule 1202. Appointment of guardian ad litem. (a) By whom motion made.
+The court in which an action is triable may appoint a guardian ad litem
+at any stage in the action upon its own initiative or upon the motion
+of:
+  1. an infant party if he is more than fourteen years of age; or
+  2. a relative, friend or a guardian, committee of the property, or
+conservator; or
+  3. any other party to the action if a motion has not been made under
+paragraph one or two within ten days after completion of service.
+  (b) Notice of motion. Notice of a motion for appointment of a guardian
+ad litem for a person shall be served upon the guardian of his property,
+upon his committee or upon his conservator, or if he has no such
+guardian, committee, or conservator, upon the person with whom he
+resides. Notice shall also be served upon the person who would be
+represented if he is more than fourteen years of age and has not been
+judicially declared to be incompetent.
+  (c) Consent. No order appointing a guardian ad litem shall be
+effective until a written consent of the proposed guardian has been
+submitted to the court together with an affidavit stating facts showing
+his ability to answer for any damage sustained by his negligence or
+misconduct.
+```

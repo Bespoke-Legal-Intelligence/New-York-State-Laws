@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3023", "kind": "section", "law_id": "EDN", "location_id": "3023", "path": "TITLE 4 › ARTICLE 61 › SECTION 3023", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3023.md", "title": "Liability of a board of education, trustee, trustees or board of cooperative educational services"} -->
+# Education Law § 3023 — Liability of a board of education, trustee, trustees or board of cooperative educational services
+
+[Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
+
+```text
+  § 3023. Liability of a board of education, trustee, trustees or board
+of cooperative educational services.  Notwithstanding any inconsistent
+provision of law, general, special or local, or the limitation contained
+in the provisions of any city charter, it shall be the duty of each
+board of education, trustee or trustees, in any school district having a
+population of less than one million, and each board of cooperative
+educational services established pursuant to section nineteen hundred
+fifty of this chapter, to save harmless and protect all teachers,
+practice or cadet teachers, authorized participants in a school
+volunteer program,  and members of supervisory and administrative staff
+or employees from financial loss arising out of any claim, demand, suit
+or judgment by reason of alleged negligence or other act resulting in
+accidental bodily injury to any person, or accidental damage to the
+property of any person within or without the school building, provided
+such teacher, practice or cadet teacher, authorized participant in a
+school volunteer program, or member of the supervisory or administrative
+staff or employee at the time of the accident or injury was acting in
+the discharge of his duties within the scope of his employment or
+authorized volunteer duties  and/or under the direction of said board of
+education, trustee, trustees or board of cooperative educational
+services; and said board of education, trustee, trustees or board of
+cooperative educational services may arrange for and maintain
+appropriate insurance with any insurance company created by or under the
+laws of this state, or in any insurance company authorized by law to
+transact business in this state, or such board, trustee, trustees or
+board of cooperative educational services may elect to act as
+self-insurers to maintain the aforesaid protection.  A board of
+education, trustee, board of trustees, or board of cooperative
+educational services, however, shall not be subject to the duty imposed
+by this section, unless such teacher, practice or cadet teacher,
+authorized participant in a school volunteer program, or member of the
+supervisory and administrative staff or employee shall, within ten days
+of the time he is served with any summons, complaint, process, notice,
+demand or pleading, deliver the original or a copy of the same to such
+board of education, trustee, board of trustes, or board of cooperative
+educational services.
+```

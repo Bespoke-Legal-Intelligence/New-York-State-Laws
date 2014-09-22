@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 96-Z-9", "kind": "section", "law_id": "AGM", "location_id": "96-Z-9", "path": "ARTICLE 5-C › SECTION 96-Z-9", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/96-Z-9.md", "title": "Criminal slaughter, processing or possession of inedible meat"} -->
+# Agriculture and Markets Law § 96-Z-9 — Criminal slaughter, processing or possession of inedible meat
+
+[Agriculture and Markets Law](../README.md) › [Article 5-C — Licensing of Rendering Plants](README.md)
+
+```text
+  § 96-z-9. Criminal slaughter, processing or possession of inedible
+meat. A person is guilty of criminal slaughter, processing or possession
+of inedible meat when he knowingly and unlawfully (a) slaughters, for
+the purpose of human consumption, any animal from which such meat would
+be derived, (b) adds, mixes or otherwise combines any such meat with
+food intended for human consumption, or bones, cuts, grinds or otherwise
+processes such meat for the purpose of human consumption, or (c)
+possesses such meat with intent to sell the meat for human consumption.
+Criminal slaughter, processing or possession of an inedible meat is a
+class E felony.
+```

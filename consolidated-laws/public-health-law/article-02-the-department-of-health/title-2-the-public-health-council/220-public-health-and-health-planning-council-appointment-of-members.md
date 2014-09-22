@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 220", "kind": "section", "law_id": "PBH", "location_id": "220", "path": "ARTICLE 2 › TITLE 2 › SECTION 220", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/220.md", "title": "Public health and health planning council; appointment of members"} -->
+# Public Health Law § 220 — Public health and health planning council; appointment of members
+
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 2 — The Public Health Council](README.md)
+
+```text
+  § 220. Public health and health planning council; appointment of
+members. There shall continue to be in the department a public health
+and health planning council to consist of the commissioner and fourteen
+members to be appointed by the governor with the advice and consent of
+the senate; provided that effective December first, two thousand ten,
+the membership of the council shall consist of the commissioner and
+twenty-four members to be appointed by the governor with the advice and
+consent of the senate. Membership on the council shall be reflective of
+the diversity of the state's population including, but not limited to,
+the various geographic areas and population densities throughout the
+state. The members shall include representatives of the public health
+system, health care providers that comprise the state's health care
+delivery system, individuals with expertise in the clinical and
+administrative aspects of health care delivery, issues affecting health
+care consumers, health planning, health care financing and
+reimbursement, health care regulation and compliance, and public health
+practice and at least two members shall also be members of the
+behavioral health services advisory council; at least four members shall
+be representatives of general hospitals or nursing homes; and at least
+one member shall be a representative of each of the following groups:
+home care agencies, diagnostic and treatment centers, health care
+payors, labor organizations for health care employees, and health care
+consumer advocacy organizations.
+```

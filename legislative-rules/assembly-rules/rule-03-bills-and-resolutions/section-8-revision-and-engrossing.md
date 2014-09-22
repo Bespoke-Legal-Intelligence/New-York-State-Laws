@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Assembly Rules § R3S8", "kind": "section", "law_id": "CMA", "location_id": "R3S8", "path": "RULE 3 › SECTION 8", "repealed": false, "repealed_date": null, "source": "nys-laws:CMA/R3S8.md", "title": "Revision and engrossing"} -->
+# Assembly Rules § R3S8 — Revision and engrossing
+
+[Assembly Rules](../README.md) › [Rule 3 — Bills and Resolutions](README.md)
+
+```text
+§ 8. Revision and engrossing.
+  a. The Office of Assembly  Revision  shall  examine  and  correct  all
+bills, for the purpose of avoiding repetitions, insuring accuracy in the
+text  and  references, and consistency with the language of the existing
+statutes. Any recommendation of the Office of  Assembly  Revision  which
+requires  further  amendment  of the bill shall be handled by the member
+introducing it or by the  Majority  or  Minority  Leader  as  a  regular
+amendment to the bill.
+  b. All bills when ordered to a third reading except Senate bills which
+have  not  been  amended  in the House, or bills, which have been made a
+special order on second and third reading, shall be sent  to  the  Index
+Clerk  to  be  jacketed with the proper jurat for certification of final
+passage. Each  such  bill  shall,  after  passage  by  both  Houses,  be
+engrossed,  if  so ordered by the Speaker, or stamped "Official Copy" in
+which case it shall be deemed to have been engrossed.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 260", "kind": "section", "law_id": "BNK", "location_id": "260", "path": "ARTICLE 6 › SECTION 260", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/260.md", "title": "Charters of all savings banks conformed to this article"} -->
+# Banking Law § 260 — Charters of all savings banks conformed to this article
+
+[Banking Law](../README.md) › [Article 6 — Savings Banks](README.md)
+
+```text
+  § 260. Charters of all savings banks conformed to this article.  The
+powers, privileges and duties, and all restrictions, heretofore or
+hereafter conferred or imposed upon any savings bank by whatever name
+known, by its charter or act of incorporation, are hereby abridged,
+enlarged or modified, as each particular case may require, in such
+manner that every such charter or act of incorporation shall be made to
+conform to the provisions of this article and to such amendments thereof
+as may be hereafter made. Every savings bank shall possess the powers,
+rights and privileges, and be subject to the duties, restrictions and
+liabilities, conferred and imposed by this article, notwithstanding
+anything to the contrary in their respective charters or acts of
+incorporation.
+```

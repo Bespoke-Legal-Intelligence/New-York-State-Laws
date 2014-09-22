@@ -1,0 +1,67 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 34*2", "kind": "section", "law_id": "TAX", "location_id": "34*2", "path": "ARTICLE 1 › SECTION 34*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/34_2.md", "title": "Temporary deferral payout credits"} -->
+# Tax Law § 34*2 — Temporary deferral payout credits
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 34.  Temporary deferral payout credits. 1. The amounts of
+nonrefundable credits that are deferred pursuant to section thirty-three
+of this article in taxable years beginning on or after January first,
+two thousand ten and before January first, two thousand thirteen shall
+be accumulated and constitute the taxpayer's temporary deferral
+nonrefundable payout credit. The taxpayer may first claim this credit in
+the taxable year beginning on or after January first, two thousand
+thirteen and before January first, two thousand fourteen. The taxpayer
+shall be allowed to claim this credit until the accumulated amounts are
+exhausted. The credit shall be allowed against the taxpayer's tax as
+provided in the provisions referenced in paragraph (a) of subdivision
+three of this section.
+  2. The amounts of refundable credits that are deferred pursuant to
+section thirty-three of this article in taxable years beginning on or
+after January first, two thousand ten and before January first, two
+thousand thirteen shall be accumulated and constitute the taxpayer's
+temporary deferral refundable payout credit. In the taxable year
+beginning on or after January first, two thousand thirteen and before
+January first, two thousand fourteen, the taxpayer shall be allowed to
+claim a credit equal to fifty percent of the amount accumulated. In the
+taxable year beginning on or after January first, two thousand fourteen
+and before January first, two thousand fifteen, the taxpayer shall be
+allowed to claim a credit equal to seventy-five percent of the balance
+of the amount accumulated. In the taxable year beginning on or after
+January first, two thousand fifteen and before January first, two
+thousand sixteen, the taxpayer shall be allowed to claim a credit equal
+to the remaining balance of the amount accumulated. The credit shall be
+allowed against the taxpayer's tax as provided in the provisions
+referenced in paragraph (b) of subdivision three of this section.
+  ** 3. (a) For application of the temporary deferral nonrefundable
+payout credit, see the following provisions of this chapter:
+  (1) Article 9: section 187-0
+  (2) Article 9-A: section 210(41)
+  (3) Article 22: section 606(qq)
+  (4) Article 32: section 1456(v)
+  (5) Article 33: section 1511(y)
+  (b) For application of the temporary deferral refundable payout
+credit, see the following provisions of this chapter:
+  (1) Article 9: section 187-p
+  (2) Article 9-A: section 210(42)
+  (3) Article 22: section 606(rr)
+  (4) Article 32: section 1456(w)
+  (5) Article 33: section 1511(z)
+  ** NB Effective until January 1, 2015
+  ** 3. (a) For application of the temporary deferral nonrefundable
+payout credit, see the following provisions of this chapter:
+  (1) Article 9: section 187-o
+  (2) Article 9-A: section 210-B(33)
+  (3) Article 22: section 606(qq)
+  (4) Article 33: section 1511(y)
+  (b) For application of the temporary deferral refundable payout
+credit, see the following provisions of this chapter:
+  (1) Article 9: section 187-p
+  (2) Article 9-A: section 210-B(34)
+  (3) Article 22: section 606(rr)
+  (4) Article 33: section 1511(z)
+  ** NB Effective January 1, 2015
+  * NB There are 2 § 34's
+```

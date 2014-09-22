@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-704", "kind": "section", "law_id": "UCC", "location_id": "2-704", "path": "ARTICLE 2 › PART 7 › SECTION 2-704", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-704.md", "title": "Seller's Right to Identify Goods to the Contract Notwithstanding Breach or to Salvage Unfinished Goods"} -->
+# Uniform Commercial Code § 2-704 — Seller's Right to Identify Goods to the Contract Notwithstanding Breach or to Salvage Unfinished Goods
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 7 — Remedies](README.md)
+
+```text
+Section 2--704. Seller's Right to Identify Goods to the Contract
+                  Notwithstanding Breach or to Salvage Unfinished Goods.
+  (1) An aggrieved seller under the preceding section may
+       (a) identify to the contract conforming goods not already
+           identified if at the time he learned of the breach they are
+           in his possession or control;
+       (b) treat as the subject of resale goods which have demonstrably
+           been intended for the particular contract even though those
+           goods are unfinished.
+  (2) Where the goods are unfinished an aggrieved seller may in the
+exercise of reasonable commercial judgment for the purposes of avoiding
+loss and of effective realization either complete the manufacture and
+wholly identify the goods to the contract or cease manufacture and
+resell for scrap or salvage value or proceed in any other reasonable
+manner.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "City of Troy Issuance of Serial Bonds § 3", "kind": "section", "law_id": "TRY", "location_id": "3", "path": "SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:TRY/3.md", "title": "The state comptroller shall not confirm the amount of any deficit unless and until the chief executive officer, as such term is defined i..."} -->
+# City of Troy Issuance of Serial Bonds § 3 — The state comptroller shall not confirm the amount of any deficit unless and until the chief executive officer, as such term is defined i...
+
+[City of Troy Issuance of Serial Bonds](README.md)
+
+```text
+  § 3. The state comptroller shall not confirm the amount of any deficit
+unless and until the chief executive officer, as such term is defined in
+paragraph 5-a of section 2.00 of the local finance law, of the city of
+Troy, shall have provided an independently-audited financial statement
+for the applicable year for which the associated deficit is being
+financed to the state comptroller. The state comptroller shall then
+certify the deficit amount and notify such chief executive officer,
+chief fiscal officer, the city council, the supervisory board as
+established pursuant to section ten of this act, the director of the
+budget, the chair of the senate finance committee, and the chair of the
+assembly ways and means committee of the certified amount.
+```

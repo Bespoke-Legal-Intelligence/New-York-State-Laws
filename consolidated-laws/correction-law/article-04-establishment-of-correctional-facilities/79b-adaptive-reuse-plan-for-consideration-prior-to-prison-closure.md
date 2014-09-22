@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 79-B", "kind": "section", "law_id": "COR", "location_id": "79-B", "path": "ARTICLE 4 › SECTION 79-B", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/79-B.md", "title": "Adaptive reuse plan for consideration prior to prison closure"} -->
+# Correction Law § 79-B — Adaptive reuse plan for consideration prior to prison closure
+
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+
+```text
+  § 79-b. Adaptive reuse plan for consideration prior to prison closure.
+Not later than six months prior to the effective date of closure of a
+correctional facility, the commissioner of economic development shall,
+in consultation with the commissioner, the commissioners of civil
+service, general services and the division of criminal justice services,
+the director of the governor's office of employee relations, officials
+of all local governments of any political subdivision in which the
+correctional facility is located and any other appropriate state
+agencies or authorities, provide a report for an adaptive reuse plan for
+any facility slated for closure which will evaluate the community impact
+of the proposed closure including but not limited to the following
+factors: the potential to utilize the property for another state
+government purpose, including for a new purpose as part of the state
+criminal justice system; potential for the sale or transfer of the
+property to a local government or other governmental entity; potential
+for the sale of the property to a private entity for development into a
+business, residential or other purpose; community input for local
+development; and the condition of the facility and the investments
+required to keep the structure in good repair, or to make it viable for
+reuse.
+```

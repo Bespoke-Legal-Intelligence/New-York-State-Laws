@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 330", "kind": "section", "law_id": "RCO", "location_id": "330", "path": "ARTICLE 17 › SECTION 330", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/330.md", "title": "Powers and duties of trustees"} -->
+# Religious Corporations Law § 330 — Powers and duties of trustees
+
+[Religious Corporations Law](../README.md) › [Article 17 — Methodist Churches](README.md)
+
+```text
+  § 330. Powers and duties of trustees. 1. The trustees of an
+incorporated United Methodist church shall have the custody and control
+of all the temporalities and property belonging to the corporation and
+of the revenues from such property, and shall administer the same in
+accordance with the discipline, rules and usages of The United Methodist
+Church, and with the provisions of law relating thereto, for the support
+and maintenance of the corporation or providing the members thereof at a
+corporate meeting thereof shall so authorize, of some religious,
+charitable or benevolent object, conducted by such church, or connected
+with it, or with The United Methodist Church, and they shall not use
+such property for any other purpose or divert the same from such uses.
+  2. The trustees shall be responsible to the charge conference of the
+church in a manner not inconsistent with any directions of a corporate
+meeting, and shall annually make a written report to the charge
+conference which report shall include the items required by the
+discipline of The United Methodist Church.
+  3. The trustees shall not prevent or interfere with the pastor or
+other duly authorized ministers of The United Methodist Church in the
+use of said property for religious services or other proper meetings
+recognized by the law and usage of The United Methodist Church.
+```

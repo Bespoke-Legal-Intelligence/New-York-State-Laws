@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Eminent Domain Procedure Law § 206", "kind": "section", "law_id": "EDP", "location_id": "206", "path": "ARTICLE 2 › SECTION 206", "repealed": false, "repealed_date": null, "source": "nys-laws:EDP/206.md", "title": "Exemptions"} -->
+# Eminent Domain Procedure Law § 206 — Exemptions
+
+[Eminent Domain Procedure Law](../README.md) › [Article 2 — Determination of the Need and Location of a Public Project Prior to Acquisition](README.md)
+
+```text
+  § 206. Exemptions. The condemnor shall be exempt from compliance with
+the provisions of this article when:
+  (A) pursuant to other state, federal, or local law or regulation it
+considers and submits factors similar to those enumerated in subdivision
+(B) of section two hundred four, to a state, federal or local
+governmental agency, board or commission before proceeding with the
+acquisition and obtains a license, a permit, a certificate of public
+convenience or necessity or other similar approval from such agency,
+board, or commission or;
+  (B) pursuant to article VII or article VIII of the public service law
+it obtained a certificate of environmental compatibility and public need
+or;
+  (C) pursuant to other law or regulation it undergoes or conducts or
+offers to conduct prior to an acquisition one or more public hearings
+upon notice to the public and owners of property to be acquired, and
+provided further that factors similar to those enumerated in subdivision
+(B) of section two hundred four herein may be considered at such public
+hearings, or;
+  (D) when in the opinion of the condemnor the acquisition is de minimis
+in nature so that the public interest will not be prejudiced by the
+construction of the project or because of an emergency situation the
+public interest will be endangered by any delay caused by the public
+hearing requirement in this article.
+  (E) when it complies with the procedures contained in section 41.34 of
+the mental hygiene law.
+```

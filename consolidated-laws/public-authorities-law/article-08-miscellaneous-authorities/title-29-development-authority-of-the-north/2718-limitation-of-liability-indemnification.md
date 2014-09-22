@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2718", "kind": "section", "law_id": "PBA", "location_id": "2718", "path": "ARTICLE 8 › TITLE 29 › SECTION 2718", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2718.md", "title": "Limitation of liability; indemnification"} -->
+# Public Authorities Law § 2718 — Limitation of liability; indemnification
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 29 — Development Authority of the North Country Act](README.md)
+
+```text
+  § 2718. Limitation of liability; indemnification. 1. Neither the
+members of the authority nor any person acting in its behalf, while
+acting within the scope of their authority, shall be subject to any
+personal liability resulting from carrying out any of the powers
+expressly given in or authorized by this title.
+  2. The provisions of section eighteen of the public officers law shall
+apply to members, officers, employees and agents of the authority in
+connection with any and all claims, demands, suits, actions or
+proceedings which may be made or brought against any of them arising out
+of any determinations made or actions taken or omitted to be taken in
+compliance with any obligations under or pursuant to the terms of this
+title.
+```

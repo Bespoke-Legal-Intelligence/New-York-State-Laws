@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6905", "kind": "section", "law_id": "EDN", "location_id": "6905", "path": "TITLE 8 › ARTICLE 139 › SECTION 6905", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6905.md", "title": "Requirements for a license as a registered professional nurse"} -->
+# Education Law § 6905 — Requirements for a license as a registered professional nurse
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 139 — Nursing](README.md)
+
+```text
+  § 6905. Requirements for a license as a registered professional nurse.
+To qualify for a license as a registered professional nurse, an
+applicant shall fulfill the following requirements:
+  (1) Application: file an application with the department;
+  (2) Education: have received an education, and a diploma or degree in
+professional nursing, in accordance with the commissioner's regulations;
+  (3) Experience: meet no requirement as to experience;
+  (4) Examination: pass an examination satisfactory to the board and in
+accordance with the commissioner's regulations;
+  (5) Age: be at least eighteen years of age;
+  (6) Citizenship: meet no requirement as to United States citizenship;
+  (7) Character: be of good moral character as determined by the
+department; and
+  (8) Fees: pay a fee of one hundred fifteen dollars to the department
+for admission to a department conducted examination and for an initial
+license, a fee of forty-five dollars for each reexamination, a fee of
+seventy dollars for an initial license for persons not requiring
+admission to a department conducted examination, and a fee of fifty
+dollars for each triennial registration period.
+```

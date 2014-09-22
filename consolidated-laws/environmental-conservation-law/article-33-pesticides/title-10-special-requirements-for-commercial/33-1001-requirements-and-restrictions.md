@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 33-1001", "kind": "section", "law_id": "ENV", "location_id": "33-1001", "path": "ARTICLE 33 › TITLE 10 › SECTION 33-1001", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/33-1001.md", "title": "Requirements and restrictions"} -->
+# Environmental Conservation Law § 33-1001 — Requirements and restrictions
+
+[Environmental Conservation Law](../../README.md) › [Article 33 — Pesticides](../README.md) › [Title 10 — Special Requirements For Commercial and Residential Lawn Applications](README.md)
+
+```text
+§ 33-1001. Requirements and restrictions.
+  1. Prior to any commercial lawn application the applicator shall enter
+into a written contract with the owner of the property or his or her
+agent specifying the approximate date or dates of application, number of
+applications, and total cost for the service to be provided.
+  2. Prior to any commercial lawn application the applicator shall
+supply the property owner or his or her agent with a copy of:
+  a. a list of substances to be applied including brand names and
+generic names of active ingredients;
+  b. any warnings that appear on the label of pesticides to be applied
+that are pertinent to the protection of humans, animals or the
+environment; and
+  c. the company name, address, telephone number, business registration
+number and applicator certification identification card number.
+  Such information shall be supplied in either a written, digital or
+electronic format which shall be determined by the owner or his or her
+agent provided however that the applicator must also have a written copy
+of such information in his or her possession.
+  3. In the event that application on the date or dates specified
+becomes infeasible, the person who is to provide such application shall
+give the owner or his agent oral or written notice of the proposed
+alternate date or dates, and shall receive acceptance of such alternate
+date or dates from the owner or his agent prior to initiating commercial
+lawn application.
+  4. Persons providing commercial lawn applications shall maintain
+copies of all contracts required pursuant to subdivision one of this
+section.
+```

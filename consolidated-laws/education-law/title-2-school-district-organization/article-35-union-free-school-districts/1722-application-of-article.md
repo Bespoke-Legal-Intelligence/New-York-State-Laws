@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1722", "kind": "section", "law_id": "EDN", "location_id": "1722", "path": "TITLE 2 › ARTICLE 35 › SECTION 1722", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1722.md", "title": "Application of article"} -->
+# Education Law § 1722 — Application of article
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 35 — Union Free School Districts](README.md)
+
+```text
+  § 1722. Application of article.  The provisions of this article shall
+apply to all union free school districts heretofore organized pursuant
+to the provisions of chapter four hundred thirty-three of the laws of
+eighteen hundred fifty-three, and the amendments thereof, chapter five
+hundred fifty-five of the laws of eighteen hundred sixty-four, and the
+amendments thereof, and of chapter five hundred fifty-six of the laws of
+eighteen hundred ninety-four and the amendments thereof; and sections
+seventeen hundred seventeen, four hundred one, subdivision one, four
+hundred sixteen and seventeen hundred nineteen, subdivision three, of
+this chapter are made applicable to all school districts established by
+and organized under special statutes, except those of cities; and
+sections seventeen hundred eleven and four hundred one, subdivision two,
+of this chapter are made applicable to all school districts, except
+those of cities, having a population of five thousand and upwards
+established by and organized under special statutes.
+```

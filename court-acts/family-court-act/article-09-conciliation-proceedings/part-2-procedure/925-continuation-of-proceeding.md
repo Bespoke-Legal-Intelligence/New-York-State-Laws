@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 925", "kind": "section", "law_id": "FCT", "location_id": "925", "path": "ARTICLE 9 › PART 2 › SECTION 925", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/925.md", "title": "Continuation of proceeding"} -->
+# Family Court Act § 925 — Continuation of proceeding
+
+[Family Court Act](../../README.md) › [Article 9 — Conciliation Proceedings](../README.md) › [Part 2 — Procedure](README.md)
+
+```text
+  § 925. Continuation of proceeding. If the petitioner's spouse attends
+a conference to which he or she has been invited under section nine
+hundred twenty-two or has been directed to attend under section nine
+hundred twenty-four and thereafter does not attend any conciliation
+conference, the court, on due notice to both spouses, may hold a hearing
+to determine whether the proceeding should be continued. If it concludes
+that conciliation under the auspices of the family court is not
+feasible, it may refer the parties to interested voluntary social or
+religious agencies in the community and shall terminate the proceeding
+under this article. If it concludes that further efforts at conciliation
+under this article should be undertaken, it may direct the spouses to
+attend another conciliation conference.
+```

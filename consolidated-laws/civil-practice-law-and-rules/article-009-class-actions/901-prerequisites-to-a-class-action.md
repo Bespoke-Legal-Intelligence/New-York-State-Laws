@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 901", "kind": "section", "law_id": "CVP", "location_id": "901", "path": "ARTICLE 9 › SECTION 901", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/901.md", "title": "Prerequisites to a class action"} -->
+# Civil Practice Law and Rules § 901 — Prerequisites to a class action
+
+[Civil Practice Law and Rules](../README.md) › [Article 9 — Class Actions](README.md)
+
+```text
+  § 901. Prerequisites to a class action. a. One or more members of a
+class may sue or be sued as representative parties on behalf of all if:
+  1. the class is so numerous that joinder of all members, whether
+otherwise required or permitted, is impracticable;
+  2. there are questions of law or fact common to the class which
+predominate over any questions affecting only individual members;
+  3. the claims or defenses of the representative parties are typical of
+the claims or defenses of the class;
+  4. the representative parties will fairly and adequately protect the
+interests of the class; and
+  5. a class action is superior to other available methods for the fair
+and efficient adjudication of the controversy.
+  b. Unless a statute creating or imposing a penalty, or a minimum
+measure of recovery specifically authorizes the recovery thereof in a
+class action, an action to recover a penalty, or minimum measure of
+recovery created or imposed by statute may not be maintained as a class
+action.
+```

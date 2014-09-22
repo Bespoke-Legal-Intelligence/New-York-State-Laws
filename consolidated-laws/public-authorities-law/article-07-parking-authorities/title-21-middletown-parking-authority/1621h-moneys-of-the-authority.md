@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1621-H", "kind": "section", "law_id": "PBA", "location_id": "1621-H", "path": "ARTICLE 7 › TITLE 21 › SECTION 1621-H", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1621-H.md", "title": "Moneys of the authority"} -->
+# Public Authorities Law § 1621-H — Moneys of the authority
+
+[Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 21 — Middletown Parking Authority](README.md)
+
+```text
+  § 1621-h. Moneys of the authority. All moneys of the authority shall
+be paid to the city treasurer of the city as agent of the authority, who
+shall not commingle such moneys with any other moneys.  Such moneys
+shall be deposited in a separate bank account or accounts.  The moneys
+in such accounts shall be paid out by the city treasurer of the city on
+requisition of the chairperson of the authority or of such other person
+or persons as the authority may authorize to make such requisitions
+after audit by the city treasurer of the city. All deposits of such
+moneys shall be secured by obligations of the United States or of the
+state of New York of a market value equal at all times to the amount of
+the deposit, and all banks and trust companies are authorized to give
+such security for such deposits. The treasurer of the city and his or
+her legally authorized representatives are authorized and empowered from
+time to time to examine the accounts and books of the authority,
+including its receipts, disbursements, contracts, leases, sinking funds,
+investments and any other records and papers relating to its financial
+standing. The authority shall have power, notwithstanding the provisions
+of this section, to contract with the holders of any of its bonds or
+notes as to the custody, collection, securing, investment and payment of
+any moneys of the authority or any moneys held in trust or otherwise for
+the payment of bonds or notes or in anyway to secure bonds or notes, and
+to carry out any such contract notwithstanding that such contract may be
+inconsistent with the previous provisions of this section. Moneys held
+in trust or otherwise for the payment of bonds or in any way to secure
+bonds and deposits of such moneys may be secured in the same manner as
+moneys of the authority, and all banks and trust companies are
+authorized to give such security for such deposits. The accounts of the
+authority shall be subject to the supervision of the state comptroller.
+The authority shall render a complete account of its proceedings to the
+common council at its first meeting of each year and at such other times
+as may reasonably be requested by the common council.
+```

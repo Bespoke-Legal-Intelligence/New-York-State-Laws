@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2303", "kind": "section", "law_id": "SCP", "location_id": "2303", "path": "ARTICLE 23 › SECTION 2303", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2303.md", "title": "Security for costs 1"} -->
+# Surrogate's Court Procedure Act § 2303 — Security for costs 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 23 — Costs, Allowances and Commissions](README.md)
+
+```text
+§ 2303. Security for costs
+   1. In any proceeding in which an issue is raised by answer or
+objection by or on behalf of a non-domiciliary against the proponent of
+a will or a fiduciary or where the probate of a will has been tried
+before a jury which has disagreed, the court may require the person or
+persons raising such issue to give security for costs upon motion made
+by the proponent or fiduciary.
+  2. Security for costs may be required from any non-domiciliary who is
+the petitioner in any proceeding, provided the court finds that security
+is necessary for the protection of the estate.
+  3. If any party fails to comply with an order requiring him to give
+security for costs the court, upon the application of any interested
+party who might resort to the security if furnished, may make an order
+or decree dismissing the objections, answer or petition of the party in
+default.
+```

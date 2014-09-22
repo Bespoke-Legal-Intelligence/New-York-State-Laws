@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 162", "kind": "section", "law_id": "WKC", "location_id": "162", "path": "ARTICLE 8-A › SECTION 162", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/162.md", "title": "Registration of participation in World Trade Center rescue, recovery and clean-up operations"} -->
+# Workers' Compensation Law § 162 — Registration of participation in World Trade Center rescue, recovery and clean-up operations
+
+[Workers' Compensation Law](../README.md) › [Article 8-A — World Trade Center Rescue, Recovery and Clean-up Operations](README.md)
+
+```text
+  § 162. Registration of participation in World Trade Center rescue,
+recovery and clean-up operations. In order for the claim of a
+participant in World Trade Center rescue, recovery and clean-up
+operations to come within the application of this article, such
+participant must file a written and sworn statement with the board on a
+form promulgated by the chair indicating the dates and locations of such
+participation and the name of such participant's employer during the
+period of participation. Such statement must be filed not later than
+September eleventh, two thousand fourteen. The board shall transmit a
+copy of such statement to the employer or carrier named therein. The
+filing of such a statement shall not be considered the filing of a claim
+for benefits under this chapter.
+```

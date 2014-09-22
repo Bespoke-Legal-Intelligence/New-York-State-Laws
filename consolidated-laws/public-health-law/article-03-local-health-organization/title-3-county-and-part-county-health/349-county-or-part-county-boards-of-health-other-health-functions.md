@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 349", "kind": "section", "law_id": "PBH", "location_id": "349", "path": "ARTICLE 3 › TITLE 3 › SECTION 349", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/349.md", "title": "County or part-county boards of health; other health functions; hospitals and laboratories"} -->
+# Public Health Law § 349 — County or part-county boards of health; other health functions; hospitals and laboratories
+
+[Public Health Law](../../README.md) › [Article 3 — Local Health Organization](../README.md) › [Title 3 — County and Part-county Health Districts](README.md)
+
+```text
+  § 349. County or part-county boards of health; other health functions;
+hospitals and laboratories.  In any county in which a county health
+district has been or is hereafter established, the boundaries of which
+are coterminous with the county, the board of supervisors shall have
+power to abolish the board of managers of the county tuberculosis
+hospital, or of the county public general hospital, or of the county
+laboratory, and, if so abolished, shall confer all the powers and duties
+of any or all of such boards of managers upon the county board of
+health.
+```

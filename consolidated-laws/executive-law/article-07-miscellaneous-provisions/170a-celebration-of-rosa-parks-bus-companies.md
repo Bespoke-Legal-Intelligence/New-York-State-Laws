@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 170-A", "kind": "section", "law_id": "EXC", "location_id": "170-A", "path": "ARTICLE 7 › SECTION 170-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/170-A.md", "title": "Celebration of Rosa Parks; bus companies"} -->
+# Executive Law § 170-A — Celebration of Rosa Parks; bus companies
+
+[Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+```text
+  § 170-a. Celebration of Rosa Parks; bus companies. 1. For purposes of
+this section, the terms "bus company" and "bus line" shall have the same
+meanings as set forth in subdivisions two and three of section two of
+the transportation law.
+  2. On February fourth, two thousand eight and every February fourth
+thereafter, a day of commemoration designated as "Rosa Parks Day"
+pursuant to section one hundred sixty-eight-a of this article, every bus
+company operating a bus line in this state may reserve and keep empty
+one seat on each bus placed in service by such bus company in honor of
+civil rights activist Rosa Parks.
+  3. Compliance with the provisions of this section shall be voluntary,
+and no bus company operating a bus line in this state shall be subject
+to any liability, either civil or criminal, solely for the failure to
+comply with the provisions of this section.
+```

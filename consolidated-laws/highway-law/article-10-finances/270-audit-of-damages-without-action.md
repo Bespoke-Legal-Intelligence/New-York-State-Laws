@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 270", "kind": "section", "law_id": "HAY", "location_id": "270", "path": "ARTICLE 10 › SECTION 270", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/270.md", "title": "Audit of damages without action"} -->
+# Highway Law § 270 — Audit of damages without action
+
+[Highway Law](../README.md) › [Article 10 — Finances](README.md)
+
+```text
+  § 270. Audit of damages without action. The town board of any town may
+audit as a town charge, in the same manner as other town charges are
+audited, any one claim not exceeding five hundred dollars, for damages
+to person or property, heretofore or hereafter sustained by reason of
+defective highways or bridges in the town, if in their judgment it be
+for the interest of the town so to do; but no claim shall be so audited
+unless it shall have been presented to the supervisor and town clerk of
+the town within ninety days after it accrued, nor if any action thereon
+shall be barred by the statute of limitations. The town board may also
+audit any unpaid judgment heretofore or hereafter recovered against a
+town superintendent for any such damages, if such town board shall be
+satisfied that he acted in good faith, and the defect causing such
+damage did not exist because of the negligence or misconduct of the
+superintendent against whom such judgment shall have been recovered.
+```

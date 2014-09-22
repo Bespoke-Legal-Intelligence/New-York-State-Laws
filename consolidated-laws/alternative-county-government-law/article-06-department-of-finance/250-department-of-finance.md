@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Alternative County Government Law § 250", "kind": "section", "law_id": "ACG", "location_id": "250", "path": "ARTICLE 6 › SECTION 250", "repealed": false, "repealed_date": null, "source": "nys-laws:ACG/250.md", "title": "Department of finance"} -->
+# Alternative County Government Law § 250 — Department of finance
+
+[Alternative County Government Law](../README.md) › [Article 6 — Department of Finance](README.md)
+
+```text
+  § 250. Department of finance. The head of the department of finance
+shall be the director of finance, except that in counties adopting the
+county administrator form, the head of the department shall be the
+county treasurer. The director of finance shall be appointed as provided
+in section two hundred two. In counties adopting the county manager
+form, the county director form or the county president form, the office
+of county treasurer is abolished and the functions, powers and duties of
+the office, except as otherwise expressly provided, shall devolve upon
+the department of finance. In a county in which the office of county
+treasurer is abolished, the county treasurer in office at the time the
+alternative form becomes effective in the county, shall perform the
+duties of director of finance, unless a vacancy otherwise occurs, until
+the expiration of the term for which he was elected county treasurer.
+Whenever in this chapter the term "director of finance" is used, it
+shall be deemed to mean and to refer to the county treasurer in counties
+adopting the county administrator form of government.
+```

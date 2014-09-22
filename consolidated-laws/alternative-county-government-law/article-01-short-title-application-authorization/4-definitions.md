@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Alternative County Government Law § 4", "kind": "section", "law_id": "ACG", "location_id": "4", "path": "ARTICLE 1 › SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:ACG/4.md", "title": "Definitions"} -->
+# Alternative County Government Law § 4 — Definitions
+
+[Alternative County Government Law](../README.md) › [Article 1 — Short Title; Application; Authorization; Definitions](README.md)
+
+```text
+  § 4. Definitions. As used in this chapter the following terms shall
+mean and include:
+  1. "County".  Any county other than a county within the city of New
+York.
+  2. "County executive". A county administrator, county manager, county
+director or county president.
+  3. "County administrator form". The form of county government
+prescribed by section fifty of this chapter.
+  4. "County manager form". The form of county government prescribed by
+section fifty-one of this chapter.
+  5. "County director form". The form of county government prescribed by
+section fifty-two of this chapter.
+  6. "County president form". The form of county government prescribed
+by section fifty-three of this chapter.
+  7. "Unit of local government". A city, town or village within the
+county.
+  8. "Population". The population shown by the last completed federal
+census.
+  9. "Administrative unit". An office, department, division, bureau,
+board or commission, or any other agency of county government.
+  10. "Spending agency". Any administrative unit of the county or office
+which expends or incurs obligations for the expenditure of county money.
+  11. "Auditing authority". The county comptroller, except that with
+respect to the county administrator form, it shall mean the county
+auditor.
+  12. "County act". A local law or resolution adopted by the board of
+supervisors.
+  13. "Local law". A law adopted by the board of supervisors pursuant to
+this chapter or other act of the legislature in accordance with the
+provisions of the municipal home rule law.
+  14. "Whole number". Shall have the meaning defined in section
+forty-one of the general construction law.
+  15. "County-using agency". Any administrative unit of the county which
+uses any supplies, materials or other articles.
+```

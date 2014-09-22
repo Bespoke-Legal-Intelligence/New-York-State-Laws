@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 104", "kind": "section", "law_id": "PBO", "location_id": "104", "path": "ARTICLE 7 › SECTION 104", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/104.md", "title": "Public notice"} -->
+# Public Officers Law § 104 — Public notice
+
+[Public Officers Law](../README.md) › [Article 7 — Open Meetings Law](README.md)
+
+```text
+  § 104. Public notice. 1. Public notice of the time and place of a
+meeting scheduled at least one week prior thereto shall be given to the
+news media and shall be conspicuously posted in one or more designated
+public locations at least seventy-two hours before such meeting.
+  2. Public notice of the time and place of every other meeting shall be
+given, to the extent practicable, to the news media and shall be
+conspicuously posted in one or more designated public locations at a
+reasonable time prior thereto.
+  3. The public notice provided for by this section shall not be
+construed to require publication as a legal notice.
+  4. If videoconferencing is used to conduct a meeting, the public
+notice for the meeting shall inform the public that videoconferencing
+will be used, identify the locations for the meeting, and state that the
+public has the right to attend the meeting at any of the locations.
+  5. When a public body has the ability to do so, notice of the time and
+place of a meeting given in accordance with subdivision one or two of
+this section, shall also be conspicuously posted on the public body's
+internet website.
+```

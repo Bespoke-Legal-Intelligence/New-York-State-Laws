@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 702", "kind": "section", "law_id": "PBA", "location_id": "702", "path": "ARTICLE 3 › TITLE 8 › SECTION 702", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/702.md", "title": "Ogdensburg bridge authority"} -->
+# Public Authorities Law § 702 — Ogdensburg bridge authority
+
+[Public Authorities Law](../../README.md) › [Article 3 — Bridge and Tunnel Authorities](../README.md) › [Title 8 — Ogdensburg Bridge Authority](README.md)
+
+```text
+  § 702. Ogdensburg bridge authority. A board to be known as "Ogdensburg
+bridge authority" is hereby created. Such board shall be a body
+corporate and politic constituting a public benefit corporation. It
+shall consist of seven members who shall be appointed by the governor.
+The terms of office of the members shall be five years except as
+hereinafter provided. Of the two members first appointed to fill a
+vacancy created by reason of the increase in the membership of the
+authority to seven in number one shall be appointed for an initial term
+of three years and one for an initial term of four years. Each of the
+above terms provided for shall commence on the first day of January in
+the year in which the vacancy occurs. Each member shall hold office
+until the appointment and qualification of his successor. An appointment
+to fill a vacancy shall be for the unexpired term. The board shall elect
+annually a chairman, a vice-chairman, a secretary and a treasurer of the
+board. The members of the board shall not be entitled to compensation
+for their services but shall be entitled to reimbursement for all
+expenses necessarily incurred in the performance of their duties. The
+powers of the authority shall be vested in and exercised by a majority
+of the members of the board then in office. The board may delegate to
+one or more of its members or to its officers, agents or employees such
+powers and duties as it may deem proper. When all its liabilities shall
+have been met and its bonds shall have been paid in full, all its rights
+and properties, so far as the same are located in the United States of
+America, including the right to charge tolls, shall be conveyed without
+cost or expense to the state of New York, and all its rights and
+properties so far as the same are located in the Dominion of Canada,
+including the right to charge tolls, shall be conveyed without cost or
+expense to the province of Ontario or otherwise disposed of in
+accordance with the laws of the Dominion of Canada. The authority and
+its corporate existence shall continue until all its liabilities shall
+have been met and its bonds paid in full and until all its rights and
+properties shall have been conveyed as hereinabove provided.
+```

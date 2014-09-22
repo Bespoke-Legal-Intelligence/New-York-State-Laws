@@ -1,0 +1,144 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1146", "kind": "section", "law_id": "TAX", "location_id": "1146", "path": "ARTICLE 28 › PART 4 › SECTION 1146", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1146.md", "title": "Returns to be secret"} -->
+# Tax Law § 1146 — Returns to be secret
+
+[Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 4 — Administrative Provisions](README.md)
+
+```text
+  § 1146. Returns to be secret. (a) Except in accordance with proper
+judicial order or as otherwise provided by law, it shall be unlawful for
+the tax commission, any tax commissioner, any officer or employee of the
+department of taxation and finance, any person engaged or retained by
+such department on an independent contract basis, or any person who in
+any manner may acquire knowledge of the contents of a return or report
+filed with the tax commission pursuant to this article, to divulge or
+make known in any manner any particulars set forth or disclosed in any
+such return or report. The officers charged with the custody of such
+returns and reports shall not be required to produce any of them or
+evidence of anything contained in them in any action or proceeding in
+any court, except on behalf of the tax commission in an action or
+proceeding under the provisions of the tax law or in any other action or
+proceeding involving the collection of a tax due under this chapter to
+which the state or the tax commission is a party or a claimant, or on
+behalf of any party to any action, proceeding or hearing under the
+provisions of this article when the returns, reports or facts shown
+thereby are directly involved in such action, proceeding or hearing, in
+any of which events the court, or in the case of a hearing, the tax
+commission may require the production of, and may admit into evidence,
+so much of said returns, reports or of the facts shown thereby, as are
+pertinent to the action, proceeding or hearing and no more. The tax
+commission may, nevertheless, publish a copy or a summary of any
+decision rendered after a hearing required by this article. Nothing
+herein shall be construed to prohibit the delivery to a person who has
+filed a return or report or his duly authorized representative of a
+certified copy of any return or report filed in connection with his tax.
+Nor shall anything herein be construed to prohibit the delivery to a
+person required to collect the tax under this article or a purchaser,
+transferee or assignee personally liable under the provisions of
+subdivision (c) of section eleven hundred forty-one of this chapter for
+the tax due from the seller, transferor or assignor, of any return or
+report filed under this article in connection with such tax provided,
+however, that there may be delivered only so much of said return, report
+or of the facts shown thereby as are pertinent to a determination of the
+taxes due or liability owed by such person or purchaser, transferee or
+assignee and no more or to prohibit the publication of statistics so
+classified as to prevent the identification of particular returns or
+reports and the items thereof, or the inspection by the attorney general
+or other legal representatives of the state of the return or report of
+any person required to collect or pay the tax who shall bring action to
+review the tax based thereon, or against whom an action or proceeding
+under this chapter has been recommended by the commissioner of taxation
+and finance or the attorney general or has been instituted, or the
+inspection of the returns or reports required under this article by the
+comptroller or duly designated officer or employee of the state
+department of audit and control, for purposes of the audit of a refund
+of any tax paid by a person required to collect or pay the tax under
+this article. Provided, further, nothing herein shall be construed to
+prohibit the disclosure, in such manner as the tax commission deems
+appropriate, of the names and other appropriate identifying information
+of those persons holding certificates of authority pursuant to section
+eleven hundred thirty-four of this article, those persons whose
+certificates of authority have been suspended or revoked, those persons
+whose certificates of authority have expired, those persons who have
+filed a certificate of registration for a certificate of authority where
+the tax commission has refused to issue a certificate of authority,
+those persons holding direct payment permits pursuant to section eleven
+hundred thirty-two or those persons whose direct payment permits have
+been suspended or revoked by the tax commission.
+  (b) Notwithstanding the provisions of subdivision (a) of this section,
+the tax commission may, in its discretion, permit the proper officer of
+any city, county or school district imposing any tax authorized by
+article twenty-nine, or the authorized representative of such officer,
+to inspect any return filed under this article, or may furnish to such
+officer or his authorized representative an abstract of any such return
+or supply him with information concerning an item contained in any such
+return, or disclosed by any investigation of tax liability under this
+article; but such permission shall be granted or such information
+furnished only if such city, county or school district shall have
+furnished the tax commission with all information requested by it
+pursuant to article twenty-nine of this chapter and shall have permitted
+the tax commission or its authorized representative to make any
+inspection of returns or reports filed with such city, county or school
+district which the tax commission may have requested pursuant to said
+section.
+  (c) Notwithstanding the provisions of subdivision (a) of this section,
+the tax commission, in its discretion, may require or permit any or all
+persons liable for any tax or required to collect any tax imposed by
+this article, to make payment to banks, banking houses or trust
+companies designated by the tax commission and to file returns with such
+banks, banking houses or trust companies as agents of the tax
+commission, in lieu of paying any such tax directly to the tax
+commission. However, the tax commission shall designate only such banks,
+banking houses or trust companies as are already designated by the
+comptroller as depositories pursuant to section eleven hundred
+forty-eight.
+  (d) Notwithstanding the provisions of subdivision (a) of this section,
+the tax commission may permit the secretary of the treasury of the
+United States or his delegates, or the proper tax officer of any state
+imposing a sales or compensating use tax, or the authorized
+representative of either such officer, to inspect any return filed under
+this article, or may furnish to such officer or his authorized
+representative an abstract of any such return or supply him with
+information concerning an item contained in any such return, or
+disclosed by any investigation of tax liability under this article, but
+such permission shall be granted or such information furnished only if
+the laws of the United States or of such other state, as the case may
+be, grant substantially similar privileges to the commission or officer
+of this state charged with the administration of the tax imposed by this
+article, and only if such information is to be used for tax purposes
+only; and provided further the commissioner of taxation and finance may
+furnish to the commissioner of internal revenue or his authorized
+representative such returns filed under this article and other tax
+information, as he may consider proper, for use in court actions or
+proceedings under the internal revenue code, whether civil or criminal,
+where a written request therefor has been made to the commissioner of
+taxation and finance by the secretary of the treasury of the United
+States or his delegates, provided the laws of the United States grant
+substantially similar powers to the secretary of the treasury of the
+United States or his delegates. Where the commissioner of taxation and
+finance has so authorized use of returns and other information in such
+actions or proceedings, officers and employees of the department of
+taxation and finance may testify in such actions or proceedings in
+respect to such returns or other information.
+  (e) Returns and reports filed under this article shall be preserved
+for three years and thereafter until the tax commission orders them to
+be destroyed.
+  (f) (1) Any officer or employee of the state who willfully violates
+the provisions of subdivision (a) of this section shall be dismissed
+from office and be incapable of holding any public office for a period
+of five years thereafter.
+  (2) Cross-reference: For criminal penalties, see article thirty-seven
+of this chapter.
+  (g) Notwithstanding the provisions of subdivision (a) of this section,
+if the commissioner determines that a person required to collect tax is
+liable for any tax, penalty or interest under this article or is liable
+for a penalty under subdivision (e) of section eleven hundred forty-five
+of this article with respect to any failure, upon request in writing of
+such person, the commissioner shall disclose in writing to such person
+(1) the name of any other person required to collect tax or any other
+person liable for such penalty under such subdivision (e) whom the
+commissioner has determined to be liable for the same tax, penalty or
+interest or for such penalty with respect to such failure, and (2)
+whether the commissioner has attempted to collect such tax, penalty or
+interest or such penalty from such other person, the general nature of
+such collection activities, and the amount collected.
+```

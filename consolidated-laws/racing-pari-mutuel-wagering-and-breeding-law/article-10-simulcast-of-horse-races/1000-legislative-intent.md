@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1000", "kind": "section", "law_id": "PML", "location_id": "1000", "path": "ARTICLE 10 › SECTION 1000", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1000.md", "title": "Legislative intent"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1000 — Legislative intent
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 10 — Simulcast of Horse Races](README.md)
+
+```text
+  § 1000. Legislative intent. The legislature finds that the racing,
+breeding and pari-mutuel wagering industry is an important sector of the
+agricultural economy of this state, provides substantial revenue for
+state and local governments, and employs tens of thousands of state
+residents.
+  The legislature further determines that simulcasting, the simultaneous
+telecast of live audio and visual signals of horse races on which
+pari-mutuel betting is permitted, holds the potential to strengthen and
+further these economic contributions and that it is in the best interest
+of the state to encourage experimentation with such live telecasts.
+  The purpose of such experimentation shall be to determine if that
+technology can promote the overall growth of the industry resulting in
+additional revenues for the support of the racing associations and
+corporations, purses, breeders, off-track betting corporations, labor
+and government.
+  No simulcasts shall be authorized which jeopardize present racing or
+employment opportunities or which infringe on current operations or
+markets of the racetracks and the regional off-track betting
+corporations which generate significant revenues for local governments
+in the state.
+  Accordingly, the legislature hereby authorizes experimentation with
+the telecasts of horse races, on which pari-mutuel wagering shall be
+permitted, under the regulation of the state racing and wagering board
+in the manner and subject to the conditions provided in this article.
+```

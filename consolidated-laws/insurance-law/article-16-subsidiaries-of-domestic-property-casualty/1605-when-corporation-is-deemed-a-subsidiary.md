@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1605", "kind": "section", "law_id": "ISC", "location_id": "1605", "path": "ARTICLE 16 › SECTION 1605", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1605.md", "title": "When corporation is deemed a subsidiary"} -->
+# Insurance Law § 1605 — When corporation is deemed a subsidiary
+
+[Insurance Law](../README.md) › [Article 16 — Subsidiaries of Domestic Property/casualty Insurance Companies and Certain Other Entities](README.md)
+
+```text
+  § 1605. When corporation is deemed a subsidiary. (a) For the purposes
+of this article:
+  (1) any corporation a majority of whose outstanding voting shares is
+owned or controlled by another corporation shall be deemed the latter's
+subsidiary, and
+  (2) any corporation whose voting shares are held by a domestic
+insurance company pursuant to section one thousand six hundred two, one
+thousand six hundred three or one thousand six hundred four of this
+article shall be deemed the subsidiary of the insurer, provided that for
+purposes of section one thousand six hundred six of this article, a
+corporation shall be deemed the insurer's subsidiary only so long as the
+insurer owns a majority of the total voting shares or retains direct or
+indirect control of such subsidiary.
+  (b) For purposes of this article "voting shares" means shares of any
+class having voting power for the election of the corporation's
+directors except shares having such power only by reason of the
+happening of a contingency.
+```

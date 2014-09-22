@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 575", "kind": "section", "law_id": "PBH", "location_id": "575", "path": "ARTICLE 5 › TITLE 5 › SECTION 575", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/575.md", "title": "Issuance of permits"} -->
+# Public Health Law § 575 — Issuance of permits
+
+[Public Health Law](../../README.md) › [Article 5 — Laboratories](../README.md) › [Title 5 — Clinical Laboratory and Blood Banking Services](README.md)
+
+```text
+  § 575. Issuance of permits. 1. Application for a permit shall be made
+by the owner and the director of the clinical laboratory or blood bank
+in a manner and format prescribed by the department. The application
+shall contain the name of the owner, the name of the director, the
+procedures or categories of procedures or services for which the permit
+is sought, the location or locations and physical description of the
+facility or location or locations at which tests are to be performed or
+at which a blood bank is to be operated, and such other information as
+the department may require.
+  2. A permit or permit category shall not be issued unless a valid
+certificate of qualification in the category of procedures for which the
+permit is sought has been issued to the director pursuant to the
+provisions of section five hundred seventy-three of this title, unless
+all fees and outstanding penalties, if any, have been paid, and the
+department finds that the clinical laboratory or blood bank is
+competently staffed and properly equipped, and will be operated in the
+manner required by this title.
+  3. The permit shall be issued jointly to the owner and the director
+and they jointly and severally shall be responsible to the department
+for the maintenance and operation of the clinical laboratory or blood
+bank and for any violations of this title and the rules and regulations
+promulgated thereunder.
+  4. A permit shall be valid for the year for which it is issued. The
+initial application for a permit shall be accompanied by a registration
+fee of one hundred dollars.
+  5. The permit shall specify the names of the owners and the director,
+the procedures or categories of procedures or services authorized, and
+the locations at which such procedures or services may be performed. The
+permit and the certificate of qualification shall be displayed at all
+times in a prominent place in the laboratory.
+  6. A permit shall become void by a change in the director, owner, or
+location. A category on a permit shall become void by a change in the
+director for that category. The department may, pursuant to regulations
+adopted under this title, extend the date on which a permit or category
+on a permit shall become void for a period not to exceed sixty days from
+the date of a change of the director, owner or location. An application
+for a new permit must be made in the manner provided by this section.
+```

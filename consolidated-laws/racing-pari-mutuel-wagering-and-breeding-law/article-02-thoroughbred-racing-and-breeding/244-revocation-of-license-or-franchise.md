@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 244", "kind": "section", "law_id": "PML", "location_id": "244", "path": "ARTICLE 2 › SECTION 244", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/244.md", "title": "Revocation of license or franchise"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 244 — Revocation of license or franchise
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 244. Revocation of license or franchise. The state racing and
+wagering board may revoke a license issued by it under this chapter or a
+franchise granted pursuant to section two hundred six of this article if
+the corporation to which such license or franchise shall have been
+issued, or its officers or directors, shall not conduct racing at its
+track, including pari-mutuel betting on races thereat, in accordance
+with the terms and conditions of such license or franchise, with the
+rules of such board and with the provisions of this chapter; or if such
+corporation or its officers or directors shall knowingly permit on its
+grounds or within the enclosure of its racetrack, lotteries, pool
+selling or bookmaking, or any other kind of gambling, in violation of
+this chapter or of the penal law.
+```

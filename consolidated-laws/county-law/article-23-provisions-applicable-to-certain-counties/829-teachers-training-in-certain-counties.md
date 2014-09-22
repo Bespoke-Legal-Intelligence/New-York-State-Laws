@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "County Law § 829", "kind": "section", "law_id": "CNT", "location_id": "829", "path": "ARTICLE 23 › SECTION 829", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/829.md", "title": "Teachers' training in certain counties"} -->
+# County Law § 829 — Teachers' training in certain counties
+
+[County Law](../README.md) › [Article 23 — Provisions Applicable to Certain Counties](README.md)
+
+```text
+  § 829. Teachers' training in certain counties. In order to provide an
+adequate number of teachers to be available for employment in the public
+schools in the county, the board of supervisors of any county in which
+is located a college or university having a department for fitting
+pupils to be teachers and commonly known as a pedagogical department,
+may, from time to time, appropriate moneys for salaries of the teaching
+staff in such department, or to be applied toward the payment of such
+salaries, and may raise such moneys by tax on the taxable property
+within the county.
+```

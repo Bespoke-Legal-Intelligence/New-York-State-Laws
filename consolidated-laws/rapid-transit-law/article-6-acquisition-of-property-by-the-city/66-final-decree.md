@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Rapid Transit Law § 66", "kind": "section", "law_id": "RAT", "location_id": "66", "path": "ARTICLE 6 › SECTION 66", "repealed": false, "repealed_date": null, "source": "nys-laws:RAT/66.md", "title": "Final decree"} -->
+# Rapid Transit Law § 66 — Final decree
+
+[Rapid Transit Law](../README.md) › [Article 6 — Acquisition of Property By the City](README.md)
+
+```text
+  § 66. Final decree.  After considering the objections, if any, and
+making any corrections or alterations in the tentative decree which the
+court shall consider just and proper, it shall give instructions to the
+corporation counsel as to the preparation of the final decree, which
+shall consist of the tentative decree altered and corrected in
+accordance with the instructions of the court, together with a statement
+of the facts conferring on the court jurisdiction of the proceeding, and
+that the amounts set opposite each parcel in the column headed "final
+awards" constitute the compensation to which the respective owners of or
+persons in any way interested in the property taken or extinguished in
+such proceeding are justly entitled to receive from the city and a
+statement of the respective owners and interested parties. In all cases
+where the owners or persons interested are unknown, or not fully known
+to the court, it shall be sufficient to set forth and state in general
+terms the respective sums to be allowed and paid to the respective
+owners and interested parties without specifying their names or their
+estates or interests. The final decree shall be filed in the office of
+the clerk of the county where the property affected by the proceeding is
+situated.
+```

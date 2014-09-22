@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 99-N*2", "kind": "section", "law_id": "STF", "location_id": "99-N*2", "path": "ARTICLE 6 › SECTION 99-N*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/99-N_2.md", "title": "Oneida Indian Nation real property tax depository fund"} -->
+# State Finance Law § 99-N*2 — Oneida Indian Nation real property tax depository fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * §99-n. Oneida Indian Nation real property tax depository fund. There
+is hereby established in the sole custody of the comptroller a special
+fund to be known as the "Oneida Indian Nation real property tax
+depository fund". Such fund shall consist of real property tax payments
+on Oneida Indian Nation taxable property until such time as the Oneida
+county treasurer certifies to the state comptroller that no unpaid taxes
+remain due on the lands of the Oneida Indian Nation of New York which
+have been subjected to taxation, or until June thirtieth, two thousand
+sixteen, whichever comes first. Upon such occurrence, the funds shall be
+released to the county treasurer, who shall distribute them to the
+affected municipal corporations in a manner that to the extent possible
+replicates the distribution of such taxes that would have occurred if
+the final resolution were in effect during such tax years, unless
+otherwise directed by court order.
+  * NB Repealed June 30, 2016
+  * NB There are 2 § 99-n's
+```

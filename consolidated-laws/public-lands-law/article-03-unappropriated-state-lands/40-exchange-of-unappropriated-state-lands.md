@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Lands Law § 40", "kind": "section", "law_id": "PBL", "location_id": "40", "path": "ARTICLE 3 › SECTION 40", "repealed": false, "repealed_date": null, "source": "nys-laws:PBL/40.md", "title": "Exchange of unappropriated state lands"} -->
+# Public Lands Law § 40 — Exchange of unappropriated state lands
+
+[Public Lands Law](../README.md) › [Article 3 — Unappropriated State Lands](README.md)
+
+```text
+  § 40. Exchange of unappropriated state lands.  The commissioner of
+general services may, from time to time, exchange a part or all of any
+parcel or parcels of unappropriated state lands for real property
+required by or of benefit to the state of New York and in which title is
+held by the United States of America or a city, incorporated village,
+town or county when the combined value of such unappropriated state
+lands and required real property does not exceed five hundred thousand
+dollars. An appraisal of the value of the real property to be acquired
+by the state and of the property to be conveyed by the state shall be
+completed by a qualified professional real estate appraiser. If the
+value of either property is in excess of one hundred thousand dollars,
+two appraisals of that property shall be required prior to the exchange.
+The terms and conditions of such exchange, including any monetary
+consideration to be paid to equalize the value of such exchange
+properties, shall be subject to the prior approval of the state
+comptroller. The attorney general shall approve the title to the lands
+to be thus acquired by the state.
+```

@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-2712", "kind": "section", "law_id": "ENV", "location_id": "71-2712", "path": "ARTICLE 71 › TITLE 27 › SECTION 71-2712", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-2712.md", "title": "Endangering public health, safety or the environment in the third degree"} -->
+# Environmental Conservation Law § 71-2712 — Endangering public health, safety or the environment in the third degree
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 27 — Enforcement of Article 27 and Article 71](README.md)
+
+```text
+§ 71-2712. Endangering public health, safety or the environment in the
+             third degree.
+  A person is guilty of endangering public health, safety or the
+environment in the third degree when:
+  1. He recklessly engages in conduct which causes the release of a
+substance acutely hazardous to public health, safety or the environment;
+or
+  2. He recklessly engages in conduct which causes the release of more
+than two hundred gallons or two thousand pounds, whichever is less, of
+an aggregate weight or volume of a substance hazardous to public health,
+safety or the environment; or
+  3. He recklessly engages in conduct which causes the release of more
+than one hundred gallons or one thousand pounds, whichever is less, of
+an aggregate weight or volume of a substance hazardous to public health,
+safety or the environment  and such release creates a substantial risk
+of physical injury to any person who is not a participant in the crime;
+or
+  4. He knowingly engages in conduct which causes the release of more
+than one hundred gallons or one thousand pounds, whichever is less, of
+an aggregate weight or volume of a substance hazardous to public health,
+safety or the environment.
+  Endangering public health, safety or the environment in the third
+degree is a class E felony.
+```

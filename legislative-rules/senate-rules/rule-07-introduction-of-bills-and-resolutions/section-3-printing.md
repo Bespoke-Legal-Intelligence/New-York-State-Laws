@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Senate Rules § R7S3", "kind": "section", "law_id": "CMS", "location_id": "R7S3", "path": "RULE 7 › SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:CMS/R7S3.md", "title": "Printing"} -->
+# Senate Rules § R7S3 — Printing
+
+[Senate Rules](../README.md) › [Rule 7 — Introduction of Bills and Resolutions](README.md)
+
+```text
+§  3.  Printing. Every bill immediately upon its introduction shall be
+printed and placed on the bill files on the desks of the Senators, where
+it shall remain for at least three calendar legislative days. All  bills
+reported  favorably  or  for consideration, if reported with amendments,
+and all bills amended in  the  Senate,  shall  be  immediately  printed,
+except  that  any  bill  which  is amended by restoring it to an earlier
+form, shall not be required to be  printed  again,  and  thereafter  the
+printed  number of the bill in the form to which it has been so restored
+shall constitute the final form of such  bill  unless  further  amended.
+Whenever  a  bill  is  amended  and  printed,  a  letter of the alphabet
+starting with "A" shall be added to its number.
+```

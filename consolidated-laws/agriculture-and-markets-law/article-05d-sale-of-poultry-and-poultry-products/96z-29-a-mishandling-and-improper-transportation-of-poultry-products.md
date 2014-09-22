@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 96-Z-29-A", "kind": "section", "law_id": "AGM", "location_id": "96-Z-29-A", "path": "ARTICLE 5-D › SECTION 96-Z-29-A", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/96-Z-29-A.md", "title": "Mishandling and improper transportation of poultry products"} -->
+# Agriculture and Markets Law § 96-Z-29-A — Mishandling and improper transportation of poultry products
+
+[Agriculture and Markets Law](../README.md) › [Article 5-D — Sale of Poultry and Poultry Products](README.md)
+
+```text
+  § 96-z-29-a. Mishandling and improper transportation of poultry
+products. (1) No person, firm, association, partnership, or corporation
+engaged in carrying or transporting poultry products shall transport
+such poultry products except in an enclosed vehicle in such a manner as
+to assure delivery of the aforesaid products so that frozen products
+remain frozen and such other products do not rise above forty degrees
+Fahrenheit, provided, however, that this section shall not apply to (a)
+household consumers; (b) retail dealers with respect to poultry products
+sold directly to consumers in retail stores; (c) poultry products
+derived from either the slaughter by any person of poultry of his own
+raising, or the custom slaughter by another person of poultry delivered
+by the owner thereof for such slaughter, when such poultry products are
+used exclusively by such owner and members of his household and his
+non-paying guests and employees. This section shall not apply to poultry
+products which because of their method of manufacture, processing, and
+packaging, require no special handling temperatures to prevent
+adulteration or unwholesomeness including, but not limited to,
+commercially sterile poultry products in hermetically sealed containers.
+  (2) The commissioner may promulgate rules and regulations to further
+define standards for the transportation of poultry products to further
+ensure that they are delivered in an unadulterated and wholesome
+condition.
+  (3) A violation of the provisions of this section shall be a violation
+as defined in subdivision three of section 10.00 of the penal law.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 1420", "kind": "section", "law_id": "ABP", "location_id": "1420", "path": "ARTICLE 14 › SECTION 1420", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/1420.md", "title": "Property held by agricultural cooperative corporations"} -->
+# Abandoned Property Law § 1420 — Property held by agricultural cooperative corporations
+
+[Abandoned Property Law](../README.md) › [Article 14 — General Provisions](README.md)
+
+```text
+  § 1420. Property held by agricultural cooperative corporations.  1.
+For the purposes of this section, "agricultural cooperative corporation"
+shall include any corporation organized or qualified to do business in
+this state pursuant to the cooperative corporations law, which is
+operated primarily for the benefit of producers of agricultural
+products, as such term is defined in subdivision (a) of section three of
+the cooperative corporations law.  Notwithstanding any other provision
+of this chapter to the contrary, any share of stock, credit, dividend,
+profit, patronage refund, distribution, interest, equity certificate,
+equity retain, payment, or other money or property which:
+  (a) is in the possession of an agricultural cooperative corporation
+organized or qualified to do business in this state pursuant to the
+cooperative corporations law;
+  (b) evidences membership in or resulted from patronage with an
+agricultural cooperative corporation or the predecessor of such
+corporation; and
+  (c) is held for, allocated to the account of, allocated in the name of
+or owing by the agricultural cooperative corporation to a member,
+stockholder, patron or other person; shall not be deemed abandoned
+property or otherwise subject to the provisions of this chapter.
+```

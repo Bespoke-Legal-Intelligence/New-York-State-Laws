@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 154", "kind": "section", "law_id": "JUD", "location_id": "154", "path": "ARTICLE 5 › SECTION 154", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/154.md", "title": "Duty of supreme court justices in first judicial district to enforce rules made by appellate division of first department"} -->
+# Judiciary Law § 154 — Duty of supreme court justices in first judicial district to enforce rules made by appellate division of first department
+
+[Judiciary Law](../README.md) › [Article 5 — Supreme Court](README.md)
+
+```text
+  § 154. Duty of supreme court justices in first judicial district to
+enforce rules made by appellate division of first department.  It shall
+be the duty of every justice of the supreme court in the first judicial
+district to enforce the rules made by the appellate division in the
+first department pursuant to section seventy-eight of this chapter and
+to require the commissioner of public works to do all acts necessary to
+give full force and effect to such of said rules as relate to the
+management and protection of the court-houses and court-rooms of the
+supreme court.
+```

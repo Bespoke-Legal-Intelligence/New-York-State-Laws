@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-1505", "kind": "section", "law_id": "PTR", "location_id": "121-1505", "path": "ARTICLE 8-B › SECTION 121-1505", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-1505.md", "title": "Service of process"} -->
+# Partnership Law § 121-1505 — Service of process
+
+[Partnership Law](../README.md) › [Article 8-B — Registered Limited Liability Partnerships](README.md)
+
+```text
+  § 121-1505. Service of process. (a) Service of process on the
+secretary of state as agent of a registered limited liability
+partnership under this article shall be made by personally delivering to
+and leaving with the secretary of state or a deputy, or with any person
+authorized by the secretary of state to receive such service, at the
+office of the department of state in the city of Albany, duplicate
+copies of such process together with the statutory fee, which fee shall
+be a taxable disbursement. Service of process on such registered limited
+liability partnership shall be complete when the secretary of state is
+so served. The secretary of state shall promptly send one of such copies
+by certified mail, return receipt requested, to such registered limited
+liability partnership, at the post office address on file in the
+department of state specified for such purpose.
+  (b) As used in this article, process shall mean judicial process and
+all orders, demands, notices or other papers required or permitted by
+law to be personally served on a registered limited liability
+partnership, for the purpose of acquiring jurisdiction of such
+registered limited liability partnership in any action or proceeding,
+civil or criminal, whether judicial, administrative, arbitrative or
+otherwise, in this state or in the federal courts sitting in or for this
+state.
+  (c) Nothing in this section shall affect the right to serve process in
+any other manner permitted by law.
+```

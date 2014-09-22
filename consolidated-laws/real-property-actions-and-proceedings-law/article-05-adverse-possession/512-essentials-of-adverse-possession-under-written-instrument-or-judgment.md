@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 512", "kind": "section", "law_id": "RPA", "location_id": "512", "path": "ARTICLE 5 › SECTION 512", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/512.md", "title": "Essentials of adverse possession under written instrument or judgment"} -->
+# Real Property Actions and Proceedings Law § 512 — Essentials of adverse possession under written instrument or judgment
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 5 — Adverse Possession](README.md)
+
+```text
+  § 512. Essentials of adverse possession under written instrument or
+judgment. For the purpose of constituting an adverse possession, founded
+upon a written instrument or a judgment or decree, land is deemed to
+have been possessed and occupied in any of the following cases:
+  1. Where there has been acts sufficiently open to put a reasonably
+diligent owner on notice.
+  2. Where it has been protected by a substantial enclosure, except as
+provided in subdivision one of section five hundred forty-three of this
+article.
+  3. Where, although not enclosed, it has been used for the supply of
+fuel or of fencing timber, either for the purposes of husbandry or for
+the ordinary use of the occupant.
+  Where a known farm or a single lot has been partly improved, the
+portion of the farm or lot that has been left not cleared or not
+enclosed, according to the usual course and custom of the adjoining
+country, is deemed to have been occupied for the same length of time as
+the part improved and cultivated.
+```

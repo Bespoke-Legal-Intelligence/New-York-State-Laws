@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2308", "kind": "section", "law_id": "PBH", "location_id": "2308", "path": "ARTICLE 23 › TITLE 1 › SECTION 2308", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2308.md", "title": "Sexually transmitted disease; pregnant women; blood test for syphilis"} -->
+# Public Health Law § 2308 — Sexually transmitted disease; pregnant women; blood test for syphilis
+
+[Public Health Law](../../README.md) › [Article 23 — Control of Sexually Transmitted Diseases](../README.md) › [Title 1 — Care and Treatment](README.md)
+
+```text
+  § 2308. Sexually transmitted disease; pregnant women; blood test for
+syphilis. 1. Every physician attending pregnant women in the state shall
+in the case of every woman so attended take or cause to be taken a
+sample of blood of such woman at the time of first examination, and
+submit such sample to an approved laboratory for a standard serological
+test for syphilis.
+  2. Every other person permitted by law to attend upon pregnant women
+in the state but not permitted by law to take blood tests, shall cause a
+sample of the blood of such pregnant woman to be taken promptly by a
+duly licensed physician and submitted to an approved laboratory for a
+standard serological test for syphilis.
+  3. The term "approved laboratory" means a laboratory approved for the
+purpose as herein provided by the department, or in the city of New York
+by the department of health of such city.
+  4. A standard serological test for syphilis is one recognized as such
+by the department or in the city of New York by the department of health
+of such city.
+```

@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-526", "kind": "section", "law_id": "GOB", "location_id": "5-526", "path": "ARTICLE 5 › TITLE 5 › SECTION 5-526", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-526.md", "title": "Interest on secured loans or forbearances"} -->
+# General Obligations Law § 5-526 — Interest on secured loans or forbearances
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 5 — Interest and Usury; Brokerage On Loans](README.md)
+
+```text
+  § 5-526. Interest on secured loans or forbearances. 1. Interest
+charged on loans or forbearances made to corporations for business or
+commercial purposes in the amount of one hundred thousand dollars or
+more and secured in compliance with the uniform commercial code shall
+not be subject to the limitations of this title or sections 190.40 and
+190.42 of the penal law, if on the date when the interest is charged or
+accrued, such interest is not greater than eight percentage points above
+the prime rate.
+  2. Such secured loans or forbearances which are made or advanced to
+any one corporate borrower in one or more installments pursuant to a
+written agreement which provides for either discretionary or mandatory
+advances by one or more lenders shall be deemed to be a single loan or
+forbearance for the total amount which the lender or lenders have
+advanced, if such advances are discretionary, or have agreed to advance,
+if such advances are mandatory, pursuant to such agreement on the terms
+and conditions provided therein.
+  3. For purposes of this section, the loan or forbearance transaction
+must create a security interest as set forth in section 9--109 of the
+uniform commercial code and must be filed pursuant to article nine of
+such code unless filing is not required pursuant to section 9--310 of
+such code, or (b) must create a security interest set forth in section
+9--110 of such code.
+  4. For purposes of this section, the prime rate shall equal the
+average prime rate on short term business loans which is published by
+the board of governors of the federal reserve system for the most recent
+week which was publicly available from the board of governors of the
+federal reserve system on the previous business day.
+```

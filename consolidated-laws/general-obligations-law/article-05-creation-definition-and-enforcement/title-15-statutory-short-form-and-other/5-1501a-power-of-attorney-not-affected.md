@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1501A", "kind": "section", "law_id": "GOB", "location_id": "5-1501A", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1501A", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1501A.md", "title": "Power of attorney not affected by incapacity"} -->
+# General Obligations Law § 5-1501A — Power of attorney not affected by incapacity
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15 — Statutory Short Form and Other Powers of Attorney For Financial and Estate Planning](README.md)
+
+```text
+  § 5-1501A. Power of attorney not affected by incapacity. 1. A power of
+attorney is durable unless it expressly provides that it is terminated
+by the incapacity of the principal.
+  2. The subsequent incapacity of a principal shall not revoke or
+terminate the authority of an agent who acts under a durable power of
+attorney. All acts done during any period of the principal's incapacity
+by an agent pursuant to a durable power of attorney shall have the same
+effect and inure to the benefit of and bind a principal and his or her
+distributees, devisees, legatees and personal representatives as if such
+principal had capacity. If a guardian is thereafter appointed for such
+principal, such agent, during the continuance of the appointment, shall
+account to the guardian rather than to such principal.
+```

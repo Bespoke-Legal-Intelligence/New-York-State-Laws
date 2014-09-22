@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-804", "kind": "section", "law_id": "PTR", "location_id": "121-804", "path": "ARTICLE 8-A › SECTION 121-804", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-804.md", "title": "Distribution of assets"} -->
+# Partnership Law § 121-804 — Distribution of assets
+
+[Partnership Law](../README.md) › [Article 8-A — Revised Limited Partnership Act](README.md)
+
+```text
+  § 121-804. Distribution of assets. Upon the winding up of a limited
+partnership, the assets shall be distributed as follows:
+  (a) to creditors, including partners who are creditors, to the extent
+permitted by law, in satisfaction of liabilities of the limited
+partnership, whether by payment or by establishment of adequate
+reserves, other than liabilities for distributions to partners under
+section 121-601 or 121-604 of this article;
+  (b) except as provided in the partnership agreement, to partners and
+former partners in satisfaction of liabilities for distributions under
+section 121-601 or 121-604 of this article; and
+  (c) except as provided in the partnership agreement, to partners first
+for the return of their contributions, to the extent not previously
+returned, and secondly respecting their partnership interests, in the
+proportions in which the partners share in distributions in accordance
+with section 121-504 of this article.
+```

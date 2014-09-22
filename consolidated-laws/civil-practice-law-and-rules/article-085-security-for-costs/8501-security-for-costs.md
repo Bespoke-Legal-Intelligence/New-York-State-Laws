@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 8501", "kind": "section", "law_id": "CVP", "location_id": "8501", "path": "ARTICLE 85 › SECTION 8501", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/8501.md", "title": "Security for costs"} -->
+# Civil Practice Law and Rules § 8501 — Security for costs
+
+[Civil Practice Law and Rules](../README.md) › [Article 85 — Security For Costs](README.md)
+
+```text
+  § 8501. Security for costs. (a) As of right. Except where the
+plaintiff has been granted permission to proceed as a poor person or is
+the petitioner in a habeas corpus proceeding, upon motion by the
+defendant without notice, the court or a judge thereof shall order
+security for costs to be given by the plaintiffs where none of them is a
+domestic corporation, a foreign corporation licensed to do business in
+the state or a resident of the state when the motion is made.
+  (b) In court's discretion. Upon motion by the defendant with notice,
+or upon its own initiative, the court may order the plaintiff to give
+security for costs in an action by or against an assignee or trustee for
+the benefit of creditors, a trustee, a receiver or debtor in possession
+in bankruptcy, an official trustee or committee of a person imprisoned
+in this state, an executor or administrator, the committee of a person
+judicially declared to be incompetent, the conservator of a conservatee,
+a guardian ad litem, or a receiver.
+```

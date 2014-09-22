@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 27", "kind": "section", "law_id": "TCP", "location_id": "27", "path": "ARTICLE 3 › SECTION 27", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/27.md", "title": "Construction of lines"} -->
+# Transportation Corporations Law § 27 — Construction of lines
+
+[Transportation Corporations Law](../README.md) › [Article 3 — Telegraph and Telephone Corporations](README.md)
+
+```text
+  § 27. Construction of lines. Any such corporation may erect, construct
+and maintain the necessary fixtures for its lines upon, over or under
+any of the public roads, streets and highways; and through, across or
+under any of the waters within the limits of this state, and may erect,
+construct and maintain its necessary stations, plants, equipment or
+lines upon, through or over any other land, subject to the right of the
+owners thereof to full compensation for the same. If any such
+corporation can not agree with such owner or owners upon the
+compensation to be paid therefor, such compensation shall be ascertained
+in the manner provided in the eminent domain procedure law. Any such
+corporation is authorized, from time to time, to construct and lay lines
+of electrical conductors under ground in any city, village or town
+within the limits of this state, subject to all the provisions of law in
+reference to such companies not inconsistent with this section; provided
+that such corporation shall, before laying any such line in any city,
+village or town of this state, first obtain from the common council of
+cities, or other body having like jurisdiction therein, the trustees of
+villages, or the town superintendents of towns, permission to use the
+streets within such city, village or town for the purposes herein set
+forth. Nothing in this section shall limit, alter, or affect the
+provisions or powers relating or granted to telegraph corporations
+heretofore created by special act of the legislature of this state,
+except in so far as to confer on any such corporation the right to lay
+electrical conductors under ground.
+```

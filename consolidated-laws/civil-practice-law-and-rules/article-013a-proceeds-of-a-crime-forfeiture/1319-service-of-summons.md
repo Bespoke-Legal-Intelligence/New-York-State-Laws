@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1319", "kind": "section", "law_id": "CVP", "location_id": "1319", "path": "ARTICLE 13-A › SECTION 1319", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1319.md", "title": "Service of summons"} -->
+# Civil Practice Law and Rules § 1319 — Service of summons
+
+[Civil Practice Law and Rules](../README.md) › [Article 13-A — Proceeds of a Crime-forfeiture](README.md)
+
+```text
+  § 1319. Service of summons. An order of attachment granted before
+service is made on the defendant against whom the attachment is granted
+is valid only if, within sixty days after the order is granted, a
+summons is served upon the defendant or first publication of the summons
+against the defendant is made pursuant to an order and publication is
+subsequently completed, except that a person upon whom the order of
+attachment is served shall not be liable for acting upon it as if it
+were valid without knowledge of the invalidity. If the defendant dies
+within sixty days after the order is granted and before the summons is
+served upon him or her or publication is completed, the order is valid
+only if the summons is served upon his or her executor or administrator
+within sixty days after letters are issued. Upon such terms as may be
+just and upon good cause shown the court may extend the time, not
+exceeding sixty days, within which the summons must be served or
+publication commenced pursuant to this section, provided that the
+application for extension is made before the expiration of the time
+fixed.
+```

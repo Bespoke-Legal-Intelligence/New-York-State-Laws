@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Xiv, § 3", "kind": "section", "law_id": "CNS", "location_id": "A14S3", "path": "ARTICLE XIV › SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A14S3.md", "title": "Forest and wild life conservation; use or disposition of            certain forest preserve lands authorized"} -->
+# New York State Constitution, Article Xiv, § 3 — Forest and wild life conservation; use or disposition of            certain forest preserve lands authorized
+
+[New York State Constitution](../README.md) › [Article XIV — Conservation](README.md)
+
+```text
+  § 3. 1. Forest and wild life conservation are hereby declared to be
+policies of the state. For the purpose of carrying out such policies the
+legislature may appropriate moneys for the acquisition by the state of
+land, outside of the Adirondack and Catskill parks as now fixed by law,
+for the practice of forest or wild life conservation. The prohibitions
+of section 1 of this article shall not apply to any lands heretofore or
+hereafter acquired or dedicated for such purposes within the forest
+preserve counties but outside of the Adirondack and Catskill parks as
+now fixed by law, except that such lands shall not be leased, sold or
+exchanged, or be taken by any corporation, public or private.
+  2. As to any other lands of the state, now owned or hereafter
+acquired, constituting the forest preserve referred to in section one of
+this article, but outside of the Adirondack and Catskill parks as now
+fixed by law, and consisting in any case of not more than one hundred
+contiguous acres entirely separated from any other portion of the forest
+preserve, the legislature may by appropriate legislation,
+notwithstanding the provisions of section one of this article,
+authorize: (a) the dedication thereof for the practice of forest or
+wildlife conservation; or (b) the use thereof for public recreational or
+other state purposes or the sale, exchange or other disposition thereof;
+provided, however, that all moneys derived from the sale or other
+disposition of any of such lands shall be paid into a special fund of
+the treasury and be expended only for the acquisition of additional
+lands for such forest preserve within either such Adirondack or Catskill
+park.
+```

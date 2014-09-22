@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 8013", "kind": "section", "law_id": "ISC", "location_id": "8013", "path": "ARTICLE 80 › SECTION 8013", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/8013.md", "title": "Notice of proposed reorganization"} -->
+# Insurance Law § 8013 — Notice of proposed reorganization
+
+[Insurance Law](../README.md) › [Article 80 — Mutual Holding Company](README.md)
+
+```text
+  § 8013. Notice of proposed reorganization. (a) In addition to the
+notices given pursuant to section eight thousand eight of this article,
+the reorganizing insurer shall give written notice of the pendency of
+the proposed reorganization and of the effect thereof to all persons to
+whom the reorganizing insurer delivers policies or contracts which are
+issued after the adoption date and before the plan takes effect or is
+withdrawn, sent by mail or electronic transmission to the last known
+mailing or electronic addresses of such policyholders as shown on the
+records of the reorganizing insurer. Except as otherwise provided in
+this section, such persons shall have the right, unless the laws of
+their domiciliary state provide otherwise, to rescind such policies or
+contracts, and to be refunded any amounts paid with respect thereto, by
+written notice to such insurer or its agent given within ten days of
+their receipt of the aforesaid notice given by such insurer.
+  (b) Neither the receipt of such policy or contract nor the right to
+receive such notice shall entitle such persons to vote on the proposed
+plan of reorganization pursuant to section eight thousand eight of this
+article or vest such persons with any other rights or entitlements
+except as provided for in this article.
+  (c) Where, prior to the issuance of a policy or contract, the
+reorganizing insurer provides the prospective policyholders with notice
+of the pendency of the proposed reorganization and of the effect
+thereof, which notice has been approved for such purpose by the
+superintendent, then, unless the laws of the policyholder's domiciliary
+state otherwise require, such policyholders shall not have the foregoing
+rights of rescission and refund.
+```

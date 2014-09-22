@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1354", "kind": "section", "law_id": "PBH", "location_id": "1354", "path": "ARTICLE 13 › TITLE 8 › SECTION 1354", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1354.md", "title": "Contracts for meat inspection"} -->
+# Public Health Law § 1354 — Contracts for meat inspection
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 8 — Food Handling](README.md)
+
+```text
+  § 1354. Contracts for meat inspection.  When a board of health of a
+county or part county health district or a city, or a public health
+committee of a county has made application to the commissioner for
+approval of a meat inspection program and providing such application has
+been approved by the commissioner, the board of supervisors of any such
+county or the common council of any such city, may approve and enter
+into a contract with another county or city for inspection in such
+county or city which has no meat inspection program. The county or city
+receiving such meat inspection shall pay to the county or city doing the
+meat inspection an amount agreed upon but not less than the actual cost
+of any such meat inspection. Any county or city may accept contributions
+from any individual, company or corporation which receives the benefit
+of any meat inspection.
+```

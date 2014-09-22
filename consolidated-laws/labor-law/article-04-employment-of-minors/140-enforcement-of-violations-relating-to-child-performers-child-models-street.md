@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 140", "kind": "section", "law_id": "LAB", "location_id": "140", "path": "ARTICLE 4 › SECTION 140", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/140.md", "title": "Enforcement of violations relating to child performers, child models, street trades, and newspaper carriers"} -->
+# Labor Law § 140 — Enforcement of violations relating to child performers, child models, street trades, and newspaper carriers
+
+[Labor Law](../README.md) › [Article 4 — Employment of Minors](README.md)
+
+```text
+  § 140. Enforcement of violations relating to child performers, child
+models, street trades, and newspaper carriers. The commissioner is
+hereby authorized and empowered to prosecute violations of section 35.01
+of the arts and cultural affairs law, relating to child performers,
+section 35.05 of the arts and cultural affairs law, relating to child
+models, section thirty-two hundred twenty-seven of the education law,
+relating to street trades, and section thirty-two hundred twenty-eight
+of the education law, relating to newspaper carriers.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 360", "kind": "section", "law_id": "AGM", "location_id": "360", "path": "ARTICLE 26 › SECTION 360", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/360.md", "title": "Poisoning or attempting to poison animals"} -->
+# Agriculture and Markets Law § 360 — Poisoning or attempting to poison animals
+
+[Agriculture and Markets Law](../README.md) › [Article 26 — Animals](README.md)
+
+```text
+  § 360. Poisoning or attempting to poison animals. A person who
+unjustifiably administers any poisonous or noxious drug or substance to
+a horse, mule or domestic cattle or unjustifiably exposes any such drug
+or substance with intent that the same shall be taken by horse, mule or
+by domestic cattle, whether such horse, mule or domestic cattle be the
+property of himself or another, is guilty of a felony. A person who
+unjustifiably administers any poisonous or noxious drug or substance to
+an animal, other than a horse, mule or domestic cattle, or unjustifiably
+exposes any such drug or substance with intent that the same shall be
+taken by an animal other than a horse, mule or domestic cattle, whether
+such animal be the property of himself or another, is guilty of a
+misdemeanor, punishable by imprisonment for not more than one year, or
+by a fine of not more than one thousand dollars, or by both.
+```

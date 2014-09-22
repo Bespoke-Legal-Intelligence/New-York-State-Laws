@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Personal Property Law § 421", "kind": "section", "law_id": "PEP", "location_id": "421", "path": "ARTICLE 10 › SECTION 421", "repealed": false, "repealed_date": null, "source": "nys-laws:PEP/421.md", "title": "Security interest in other property"} -->
+# Personal Property Law § 421 — Security interest in other property
+
+[Personal Property Law](../README.md) › [Article 10 — Retail Instalment Sales Act](README.md)
+
+```text
+  § 421. Security interest in other property. Except as provided in
+section four hundred ten of this chapter, no retail instalment contract
+or obligation, or any other agreement executed in connection therewith,
+may provide for the creation of a security interest in any real or
+personal property, other than the goods which are the subject matter of
+the retail instalment sale, to secure the payment of the time sale price
+under such contract or obligation or any part thereof; provided,
+however, that the prohibition of this section shall not be applicable to
+the taking of a mortgage upon real property to secure the payment of the
+time sale price of a retail instalment obligation, if the transaction
+which gave rise to such obligation was the furnishing of goods or
+services for repairs, alterations or improvements upon, or in connection
+with buildings upon, such real property. Any such prohibited provision
+shall be void but shall not otherwise affect the validity of the
+contract or obligation.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 47", "kind": "section", "law_id": "TRA", "location_id": "47", "path": "ARTICLE 2-D › SECTION 47", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/47.md", "title": "Disqualification of members and employees"} -->
+# Transportation Law § 47 — Disqualification of members and employees
+
+[Transportation Law](../README.md) › [Article 2-D — Utica Transit Authority](README.md)
+
+```text
+  § 47. Disqualification of members and employees. No member or employee
+of the Utica transit authority should have any interest, financial or
+otherwise, direct or indirect, or engage in any business or transaction
+or professional activity or incur any obligation of any nature, which is
+in substantial conflict with the proper discharge of his duties, in the
+public interest. If any member or employee of the Utica transit
+authority owns or controls an interest, financial or otherwise, direct
+or indirect, in any property included in any project, which was acquired
+prior to his appointment or employment, he shall disclose such interest
+and the date of acquisition thereof in writing to the Utica transit
+authority prior to such appointment and such disclosure shall be entered
+upon the minutes of the Utica transit authority.
+```

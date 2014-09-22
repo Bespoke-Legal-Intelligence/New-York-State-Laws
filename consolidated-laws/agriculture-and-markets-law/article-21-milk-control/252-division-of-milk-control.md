@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 252", "kind": "section", "law_id": "AGM", "location_id": "252", "path": "ARTICLE 21 › SECTION 252", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/252.md", "title": "Division of milk control"} -->
+# Agriculture and Markets Law § 252 — Division of milk control
+
+[Agriculture and Markets Law](../README.md) › [Article 21 — Milk Control](README.md)
+
+```text
+  § 252. Division of milk control. There shall be in the department a
+division to be known as the division of milk control. The head of the
+division shall be a director who shall be appointed by the commissioner
+and serve during his pleasure. The functions, powers and duties of the
+department, as provided by this article, and by article four of this
+chapter, shall be exercised and performed therein by and through the
+division of milk control. The commissioner may delegate any of his
+powers to, or direct any of his duties to be performed by the director
+of the division of milk control.
+```

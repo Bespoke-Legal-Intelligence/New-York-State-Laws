@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Town Law § 231-A", "kind": "section", "law_id": "TWN", "location_id": "231-A", "path": "ARTICLE 15 › SECTION 231-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/231-A.md", "title": "Permanent financing of district improvements to be paid from general taxation"} -->
+# Town Law § 231-A — Permanent financing of district improvements to be paid from general taxation
+
+[Town Law](../README.md) › [Article 15 — Financing of Public Improvements](README.md)
+
+```text
+  § 231-a. Permanent financing of district improvements to be paid from
+general taxation. When the cost of any improvement is to be assessed,
+levied and collected from the several lots and parcels of lands within a
+district in the same manner and at the same time as other town charges,
+the town board may finance said improvement pursuant to the local
+finance law. The town board shall raise annually by tax a sum sufficient
+to pay the interest and the principal of obligations issued to finance
+such improvement, if not otherwise paid, as the same shall become due;
+such tax shall be assessed, levied and collected from the several lots
+and parcels of land within the district in the same manner and at the
+same time as the annual tax for other town charges.
+  Annual collections of such taxes shall be applied by the supervisor in
+payment of maturing obligations and accruing interest, for which such
+taxes were levied. If the total of annual collections of such taxes
+shall be less than the amount required for such purposes, the town board
+may direct that surplus moneys not otherwise appropriated be applied.
+```

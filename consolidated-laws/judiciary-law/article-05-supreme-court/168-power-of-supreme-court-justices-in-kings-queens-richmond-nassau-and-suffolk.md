@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 168", "kind": "section", "law_id": "JUD", "location_id": "168", "path": "ARTICLE 5 › SECTION 168", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/168.md", "title": "Power of supreme court justices in Kings, Queens, Richmond, Nassau and Suffolk counties to appoint court officers"} -->
+# Judiciary Law § 168 — Power of supreme court justices in Kings, Queens, Richmond, Nassau and Suffolk counties to appoint court officers
+
+[Judiciary Law](../README.md) › [Article 5 — Supreme Court](README.md)
+
+```text
+  * § 168. Power of supreme court justices in Kings, Queens, Richmond,
+Nassau and Suffolk counties to appoint court officers. The justices of
+the supreme court for the second judicial district residing in Kings
+county, or a majority of them; the justice or justices of the supreme
+court residing in Richmond county, or a majority of them; the justices
+of the supreme court for the eleventh judicial district residing in
+Queens county, or a majority of them; the justice or justices of the
+supreme court residing in Nassau county, or a majority of them; the
+justice or justices of the supreme court residing in Suffolk county, or
+a majority of them, may appoint, and at pleasure remove all clerks,
+attendants, messengers, and court officers in the supreme court in said
+counties, and fix their compensation except where such compensation is
+fixed by law. In the event of there being no resident justice in the
+county of Richmond, the power vested in and exercised by the resident
+justice or justices of Richmond county shall then be vested in the
+justices or a majority of them residing in Kings county during such
+period.
+  * NB There are 2 § 168's
+```

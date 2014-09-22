@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 905", "kind": "section", "law_id": "PBH", "location_id": "905", "path": "ARTICLE 9 › SECTION 905", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/905.md", "title": "Grants for primary care practitioner education"} -->
+# Public Health Law § 905 — Grants for primary care practitioner education
+
+[Public Health Law](../README.md) › [Article 9 — Primary Care Education and Training](README.md)
+
+```text
+  § 905. Grants for primary care practitioner education. 1. The
+commissioner in collaboration with the commissioner of education is
+authorized, within amounts available pursuant to subdivision nineteen-a
+of section twenty-eight hundred seven-c of this chapter, to make grants
+to colleges, universities or hospital-based training programs within New
+York state to establish or expand training programs for nurse
+practitioners, physician assistants or midwives, and to increase the
+opportunities for practitioner education in primary care at
+community-based sites.
+  2. Grant funds may be used for administration, faculty recruitment and
+development, start-up costs and costs incurred teaching primary care
+practitioners at community-based sites, including, but not limited to,
+personnel, administration and student related expenses and other
+expenses judged reasonable and necessary by the commissioner.
+  3. Grants shall be awarded on a competitive basis in amounts not to
+exceed two hundred fifty thousand dollars through a request for
+application process.  In making awards, the commissioner shall consider:
+  (a) the need for primary care practitioners in the region in which the
+applicant is located;
+  (b) the cost-effectiveness of the proposal; and
+  (c) the applicant's commitment to place graduates in primary care
+settings and/or underserved areas.
+  4. The intent of the program is to augment or increase training
+programs for nurse practitioners, physician assistants and midwives.
+Grant funding shall not be used to offset existing expenditures the
+institution or program has obligated or intends to obligate for such
+training programs.
+```

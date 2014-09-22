@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 9-1707", "kind": "section", "law_id": "ENV", "location_id": "9-1707", "path": "ARTICLE 9 › TITLE 17 › SECTION 9-1707", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/9-1707.md", "title": "New York invasive species advisory committee"} -->
+# Environmental Conservation Law § 9-1707 — New York invasive species advisory committee
+
+[Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 17 — New York Invasive Species Council](README.md)
+
+```text
+§ 9-1707. New York invasive species advisory committee.
+  1. There shall be established a New York invasive species advisory
+committee which shall provide information, advice and guidance to the
+council, including but not limited to providing assistance with the
+development of the four-tier classification system for nonnative animal
+and plant species.
+  2. The commissioner and the commissioner of agriculture and markets
+shall select up to twenty-five at-large members with at least one member
+from each of the following: New York biodiversity research institute,
+New York state's land grant university, New York sea grant, a statewide
+organization formed to address invasive species, a statewide land
+conservation organization, a statewide agricultural organization, a
+nursery business, a boating organization, the darrin freshwater
+institute, the soil and water conservation districts, the natural
+heritage program, a New York state forestry school, a lake association,
+the New York city department of environmental protection, and a
+statewide local government organization.
+  3. The members of the advisory council shall serve without
+compensation, except members shall be allowed their necessary and actual
+expenses incurred in the performance of their duties under this section.
+```

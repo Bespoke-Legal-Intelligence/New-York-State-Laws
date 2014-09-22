@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 504", "kind": "section", "law_id": "CVP", "location_id": "504", "path": "ARTICLE 5 › SECTION 504", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/504.md", "title": "Actions against counties, cities, towns, villages, school districts and district corporations"} -->
+# Civil Practice Law and Rules § 504 — Actions against counties, cities, towns, villages, school districts and district corporations
+
+[Civil Practice Law and Rules](../README.md) › [Article 5 — Venue](README.md)
+
+```text
+  § 504. Actions against counties, cities, towns, villages, school
+districts and district corporations. Notwithstanding the provisions of
+any charter heretofore granted by the state and subject to the
+provisions of subdivision (b) of section 506, the place of trial of all
+actions against counties, cities, towns, villages, school districts and
+district corporations or any of their officers, boards or departments
+shall be, for:
+  1. a county, in such county;
+  2. a city, except the city of New York, town, village, school district
+or district corporation, in the county in which such city, town,
+village, school district or district corporation is situated, or if such
+school district or district corporation is situated in more than one
+county, in either county; and
+  3. the city of New York, in the county within the city in which the
+cause of action arose, or if it arose outside of the city, in the county
+of New York.
+```

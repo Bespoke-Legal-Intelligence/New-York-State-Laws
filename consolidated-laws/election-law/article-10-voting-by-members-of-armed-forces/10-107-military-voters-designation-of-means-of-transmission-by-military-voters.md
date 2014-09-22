@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Election Law § 10-107", "kind": "section", "law_id": "ELN", "location_id": "10-107", "path": "ARTICLE 10 › SECTION 10-107", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/10-107.md", "title": "Military voters; designation of means of transmission by military voters"} -->
+# Election Law § 10-107 — Military voters; designation of means of transmission by military voters
+
+[Election Law](../README.md) › [Article 10 — Voting By Members of Armed Forces](README.md)
+
+```text
+  § 10-107. Military voters; designation of means of transmission by
+military voters. 1. A military voter may designate a preference to
+receive a voter registration application, a military ballot application
+or a military ballot by mail, facsimile transmission or electronic mail.
+Such designation shall remain in effect until revoked or changed by the
+military voter. If a military voter does not designate a preference, the
+board of elections shall transmit the voter registration application,
+military ballot application or military ballot by mail. If a military
+voter designates a preference for facsimile transmission or electronic
+mail but does not provide the necessary facsimile number or e-mail
+address, the board of elections shall transmit the voter registration
+application, military ballot application or military ballot by mail and
+request the omitted information. All communications to the military
+voter shall include the mailing address of the board of elections.
+  2. Irrespective of the preferred method of transmission designated by
+a military voter, a military voter's original completed voter
+registration application, military ballot application and military
+ballot must be returned by mail or in person notwithstanding that a
+prior copy was sent to the board of elections by facsimile transmission
+or electronic mail.
+```

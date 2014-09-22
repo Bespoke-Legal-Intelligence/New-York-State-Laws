@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 850", "kind": "section", "law_id": "GBS", "location_id": "850", "path": "ARTICLE 39 › SECTION 850", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/850.md", "title": "Definitions"} -->
+# General Business Law § 850 — Definitions
+
+[General Business Law](../README.md) › [Article 39 — Drug-related Paraphernalia](README.md)
+
+```text
+  § 850. Definitions. As used in this article, unless the context
+clearly requires otherwise, the following words or terms shall have the
+following meanings:
+  1. "Controlled substance" shall have the same meaning as defined in
+section three thousand three hundred two of the public health law.
+  2. "Drug-related paraphernalia" consists of the following objects used
+for the following purposes:
+  (a) Kits, used or designed for the purpose of planting, propagating,
+cultivating, growing or harvesting of any species of plant which is a
+controlled substance or from which a controlled substance can be
+derived;
+  (b) Kits, used or designed for the purpose of manufacturing,
+compounding, converting, producing, or preparing controlled substances;
+  (c) Isomerization devices, used or designed for the purpose of
+increasing the potency of any species of plant which is a controlled
+substance;
+  (d) Scales and balances, used or designed for the purpose of weighing
+or measuring controlled substances;
+  (e) Diluents and adulterants, including but not limited to quinine
+hydrochloride, mannitol, mannite, dextrose and lactose, used or designed
+for the purpose of cutting controlled substances;
+  (f) Separation gins, used or designed for the purpose of removing
+twigs and seeds in order to clean or refine marihuana;
+  (g) Hypodermic syringes, needles and other objects, used or designed
+for the purpose of parenterally injecting controlled substances into the
+human body;
+  (h) Objects, used or designed for the purpose of ingesting, inhaling,
+or otherwise introducing marihuana, cocaine, hashish, or hashish oil
+into the human body.
+```

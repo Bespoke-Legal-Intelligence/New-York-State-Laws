@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Military Law § 301", "kind": "section", "law_id": "MIL", "location_id": "301", "path": "ARTICLE 13 › SECTION 301", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/301.md", "title": "Definitions"} -->
+# Military Law § 301 — Definitions
+
+[Military Law](../README.md) › [Article 13 — New York State Soldiers' and Sailors' Civil Relief Act](README.md)
+
+```text
+  § 301. Definitions.  As used in this article:
+  1. The term "military service" means duty by a person, male or female,
+in the active military service of the United States as defined in
+section one of this chapter and active duty in the military service of
+the state pursuant to an order of the governor issued pursuant to
+section six or seven of this chapter.
+  2. The term "person" when used herein with reference to the holder of
+any right alleged to exist against a person in military service, or
+against a person secondarily liable under such right, shall include
+individuals, partnerships, corporations, and any other forms of business
+association.
+  3. The term "court" as used herein, shall include any state court of
+competent jurisdiction, whether or not a court of record.
+```

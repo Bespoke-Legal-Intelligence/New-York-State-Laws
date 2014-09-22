@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 203", "kind": "section", "law_id": "LIE", "location_id": "203", "path": "ARTICLE 9 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/203.md", "title": "Redemption before sale"} -->
+# Lien Law § 203 — Redemption before sale
+
+[Lien Law](../README.md) › [Article 9 — Enforcement of Liens On Personal Property](README.md)
+
+```text
+  § 203. Redemption before sale. At any time before such property is so
+sold, the owner thereof or any person entitled to notice of sale
+pursuant to section two hundred one of this article may redeem the
+property by paying to the lienor the amount due on account of the lien,
+and whatever legitimate expenses have been incurred at the time of such
+payment in serving the notice and advertising the sale as required in
+this article. Upon making such payment, any of such persons are entitled
+to the possession thereof.
+```

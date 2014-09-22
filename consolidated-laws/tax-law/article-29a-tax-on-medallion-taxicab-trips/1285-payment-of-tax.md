@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1285", "kind": "section", "law_id": "TAX", "location_id": "1285", "path": "ARTICLE 29-A › SECTION 1285", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1285.md", "title": "Payment of tax"} -->
+# Tax Law § 1285 — Payment of tax
+
+[Tax Law](../README.md) › [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](README.md)
+
+```text
+  § 1285. Payment of tax. Every person required to file a return under
+this article shall, at the time of filing such return, pay to the
+commissioner the total of all tax imposed by this article, on the
+correct number of trips subject to tax under this article. The amount so
+payable to the commissioner for the period for which a return is
+required to be filed shall be due and payable to the commissioner on the
+date limited for the filing of the return for such period, without
+regard to whether a return is filed or whether the return which is filed
+correctly shows the correct number of trips or the amount of tax due
+thereon. The commissioner may require that the tax be paid
+electronically.
+```

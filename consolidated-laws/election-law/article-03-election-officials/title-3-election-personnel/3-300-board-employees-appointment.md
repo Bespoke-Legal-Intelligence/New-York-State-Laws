@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Election Law § 3-300", "kind": "section", "law_id": "ELN", "location_id": "3-300", "path": "ARTICLE 3 › TITLE 3 › SECTION 3-300", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/3-300.md", "title": "Board employees; appointment"} -->
+# Election Law § 3-300 — Board employees; appointment
+
+[Election Law](../../README.md) › [Article 3 — Election Officials](../README.md) › [Title 3 — Election Personnel](README.md)
+
+```text
+  § 3-300. Board employees; appointment. Every board of elections shall
+appoint, and at its pleasure remove, clerks, voting machine technicians,
+custodians and other employees, fix their number, prescribe their
+duties, fix their titles and rank and establish their salaries within
+the amounts appropriated therefor by the local legislative body and
+shall secure in the appointment of employees of the board of elections
+equal representation of the major political parties.  Every commissioner
+in each board of elections except for commissioners of the board of
+elections of the city of New York, may approve and at pleasure remove a
+deputy, establish his title and prescribe his duties. In the city of New
+York, the board of elections shall appoint an executive director and a
+deputy executive director whose duties it shall be to supervise the
+operations of the board of elections under the supervision of such
+board.
+```

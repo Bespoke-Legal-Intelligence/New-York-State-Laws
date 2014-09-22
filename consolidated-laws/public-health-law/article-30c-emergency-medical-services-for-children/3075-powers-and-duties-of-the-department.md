@@ -1,0 +1,49 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3075", "kind": "section", "law_id": "PBH", "location_id": "3075", "path": "ARTICLE 30-C › SECTION 3075", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3075.md", "title": "Powers and duties of the department"} -->
+# Public Health Law § 3075 — Powers and duties of the department
+
+[Public Health Law](../README.md) › [Article 30-C — Emergency Medical Services For Children](README.md)
+
+```text
+  § 3075. Powers and duties of the department. 1. The department shall
+develop and maintain, with the advice of the state emergency medical
+services for children advisory committee, the state emergency medical
+services council, the state emergency medical advisory committee, and
+the state trauma advisory committee, a statewide system for recognition
+of facilities able to provide sustentative or definitive specialty
+pediatric emergency medical and trauma care for sudden childhood illness
+and injury and for preferential transport of suddenly ill or injured
+children to such facilities, and shall promote the use of such
+facilities in accordance with written protocols or transfer agreements
+as appropriate.
+  2. The department shall develop and maintain, with the advice of the
+state emergency medical services for children advisory committee, the
+state emergency medical services council, the state emergency medical
+advisory committee, and the state trauma advisory committee, a statewide
+system for provision of prehospital medical oversight, including direct
+and indirect medical control, for pediatric emergencies.
+  3. The department shall develop, maintain, and offer, with the advice
+of the state emergency medical services for children advisory committee,
+the state emergency medical services council, the state emergency
+medical advisory committee, and the state trauma advisory committee,
+statewide educational programs for initial and continuing education in
+pediatric prehospital basic and advanced life support, including child
+maltreatment recognition and management, consistent with those of
+national professional organizations concerned with child health and
+emergency care.
+  4. The department shall develop, maintain, and adopt, with the advice
+of the state emergency medical services for children advisory committee,
+the state emergency medical services council, the state emergency
+medical advisory committee, and the state trauma advisory committee,
+statewide equipment guidelines for basic and advanced life support of
+pediatric emergencies, consistent with those of national professional
+organizations concerned with child health and emergency care.
+  5. The department shall ensure that all other aspects of emergency
+medical services for children are also properly integrated with all
+other emergency medical services, trauma care, and disaster preparedness
+programs, with the advice of the state emergency medical services for
+children advisory committee, and shall facilitate timely communication
+among the state emergency medical services for children advisory
+committee, the state emergency medical services council, the state
+emergency medical advisory committee, and the state trauma advisory
+committee as appropriate.
+```

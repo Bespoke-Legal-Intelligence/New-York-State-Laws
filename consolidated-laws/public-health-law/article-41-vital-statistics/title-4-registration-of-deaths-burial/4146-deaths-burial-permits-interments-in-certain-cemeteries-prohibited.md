@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4146", "kind": "section", "law_id": "PBH", "location_id": "4146", "path": "ARTICLE 41 › TITLE 4 › SECTION 4146", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4146.md", "title": "Deaths; burial permits; interments in certain cemeteries prohibited"} -->
+# Public Health Law § 4146 — Deaths; burial permits; interments in certain cemeteries prohibited
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 4 — Registration of Deaths: Burial Permits](README.md)
+
+```text
+  § 4146. Deaths; burial permits; interments in certain cemeteries
+prohibited. 1. Whenever the legislative authority of any municipality
+shall deem that further interments in any cemetery in such municipality
+would be detrimental to the public health, it may by resolution direct
+its clerk to cause a notice to be served upon the person or corporation
+owning or controlling such cemetery, and to publish said notice once a
+week for three successive weeks in two papers published in such city,
+stating a time and place not less than thirty days after service and
+first publication of such notice, at which any person interested may
+show cause to the legislative authority why further interments in such
+cemetery should not be prohibited.
+  2. At the time and place specified in such notice the legislative
+authority of such municipality shall hear all persons desiring to be
+heard, and if upon such hearing it appears that further interments in
+such cemetery will be detrimental to public health, it may by resolution
+prohibit further interments therein.
+  3. If such resolution is adopted a certified copy thereof shall be
+filed with the board of health of the municipality in which the cemetery
+is located, and thereafter permits for interments in such cemetery shall
+not be issued. The action of the legislative authority in passing such
+resolution may be reviewed within thirty days thereafter under and
+pursuant to article seventy-eight of the civil practice act.
+  4. A burial permit issued by any registrar of vital statistics
+authorizing burial in such cemetery shall be deemed null and void and of
+no legal effect after a copy of the resolution has been filed with the
+board of health of the municipality.
+```

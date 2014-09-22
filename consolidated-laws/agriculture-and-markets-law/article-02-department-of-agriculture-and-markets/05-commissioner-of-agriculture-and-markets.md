@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 5", "kind": "section", "law_id": "AGM", "location_id": "5", "path": "ARTICLE 2 › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/5.md", "title": "Commissioner of agriculture and markets"} -->
+# Agriculture and Markets Law § 5 — Commissioner of agriculture and markets
+
+[Agriculture and Markets Law](../README.md) › [Article 2 — Department of Agriculture and Markets; Jurisdiction; General Powers and Duties](README.md)
+
+```text
+  § 5. Commissioner of agriculture and markets.  The head of the
+department of agriculture and markets shall be the commissioner of
+agriculture and markets, who shall be appointed by the governor, by and
+with the advice and consent of the senate, and hold office until the end
+of the term of the governor by whom he was appointed, and until his
+successor is appointed and has qualified.  He shall be a person
+qualified by training and experience for the duties of his office.
+Subject to removal by the governor, the commissioner of agriculture and
+markets in office at the time this section takes effect shall be the
+head of the department of agriculture and markets and shall hold such
+office until his successor is appointed and has qualified. In addition
+to the powers and duties specifically prescribed by this chapter, the
+commissioner shall have supervision over and direction of all officers
+and employees and of the affairs of the department. He shall be
+responsible for the enforcement and carrying into effect of the laws,
+rules and orders pertaining to matters as to which the department has
+functions, powers and duties.
+```

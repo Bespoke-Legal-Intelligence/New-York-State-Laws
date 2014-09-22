@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 170", "kind": "section", "law_id": "JUD", "location_id": "170", "path": "ARTICLE 5 › SECTION 170", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/170.md", "title": "Power of supreme court justices in Rockland county to appoint court officer or attendant"} -->
+# Judiciary Law § 170 — Power of supreme court justices in Rockland county to appoint court officer or attendant
+
+[Judiciary Law](../README.md) › [Article 5 — Supreme Court](README.md)
+
+```text
+  § 170. Power of supreme court justices in Rockland county to appoint
+court officer or attendant.  The justice or justices of the supreme
+court, residing in Rockland county, may appoint, and at pleasure remove,
+a court officer or attendant, to attend at the judge's chambers in such
+county, and the special terms of the supreme court, held at such
+chambers; such court officer or attendant to receive a salary to be
+fixed by such resident justice, or justices, not exceeding six hundred
+dollars per annum, to be paid monthly by the county treasurer of such
+county, upon the certificate of such justice or justices.
+```

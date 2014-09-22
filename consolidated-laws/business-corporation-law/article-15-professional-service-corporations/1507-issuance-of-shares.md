@@ -1,0 +1,53 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1507", "kind": "section", "law_id": "BSC", "location_id": "1507", "path": "ARTICLE 15 › SECTION 1507", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1507.md", "title": "Issuance of shares"} -->
+# Business Corporation Law § 1507 — Issuance of shares
+
+[Business Corporation Law](../README.md) › [Article 15 — Professional Service Corporations](README.md)
+
+```text
+§ 1507. Issuance of shares.
+  (a) A professional service corporation may issue shares only to
+individuals who are authorized by law to practice in this state a
+profession which such corporation is authorized to practice and who are
+or have been engaged in the practice of such profession in such
+corporation or a predecessor entity, or who will engage in the practice
+of such profession in such corporation within thirty days of the date
+such shares are issued. No shareholder of a professional service
+corporation shall enter into a voting trust agreement, proxy, or any
+other type agreement vesting in another person, other than another
+shareholder of the same corporation or a person who would be eligible to
+become a shareholder if employed by the corporation, the authority to
+exercise voting power of any or all of his shares. All shares issued,
+agreements made, or proxies granted in violation of this section shall
+be void.
+  (b) A design professional service corporation may issue shares to
+individuals who are authorized by law to practice in this state a
+profession which such corporation is authorized to practice and who are
+or have been engaged in the practice of such profession in such
+corporation or a predecessor entity, or who will engage in the practice
+of such profession in such corporation within thirty days of the date
+such shares are issued. A design professional service corporation may
+also issue shares to employee stock ownership plans (ESOPs) and
+employees of the corporation not licensed as design professionals,
+provided that:
+  (i) greater than seventy-five percent of the outstanding shares of
+stock of the corporation are owned by design professionals,
+  (ii) an ESOP, either in part or in its entirety, shall not constitute
+part of the greater than seventy-five percent owned by design
+professionals,
+  (iii) greater than seventy-five percent of the directors are design
+professionals,
+  (iv) greater than seventy-five percent of the officers are design
+professionals,
+  (v) the president, the chairperson of the board of directors and the
+chief executive officer or officers are design professionals, and
+  (vi) the single largest shareholder is either a design professional or
+an ESOP with greater than seventy-five percent of the plan's voting
+trustees being design professionals and greater than seventy-five
+percent of the plan's committee members being design professionals.
+  No shareholder of a design professional service corporation shall
+enter into a voting trust agreement, proxy or any other type of
+agreement vesting in another person, other than another shareholder of
+the same corporation, the authority to exercise voting power of any or
+all of his or her shares. All shares issued, agreements made or proxies
+granted in violation of this section shall be void.
+```

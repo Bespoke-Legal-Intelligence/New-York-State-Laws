@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 165-C", "kind": "section", "law_id": "JUD", "location_id": "165-C", "path": "ARTICLE 5 › SECTION 165-C", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/165-C.md", "title": "Power of supreme court justices in Putnam county to appoint law stenographers and typists"} -->
+# Judiciary Law § 165-C — Power of supreme court justices in Putnam county to appoint law stenographers and typists
+
+[Judiciary Law](../README.md) › [Article 5 — Supreme Court](README.md)
+
+```text
+  § 165-c. Power of supreme court justices in Putnam county to appoint
+law stenographers and typists.  The justice or justices of the supreme
+court residing in Putnam county, or a majority of them, may appoint and
+at pleasure remove and prescribe the duties of a confidential law
+stenographer and typist, who shall receive such compensation as may be
+fixed by the board of supervisors of such county. Such compensation
+shall be a charge against such county and shall be paid by the treasurer
+thereof in monthly installments upon the certificate of such justice or
+justices, or a majority of them, or, if all such justices have died or
+are disabled, of the county judge of such county.
+```

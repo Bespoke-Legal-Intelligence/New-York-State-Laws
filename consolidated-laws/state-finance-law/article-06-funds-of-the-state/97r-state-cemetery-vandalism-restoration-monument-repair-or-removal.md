@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-R", "kind": "section", "law_id": "STF", "location_id": "97-R", "path": "ARTICLE 6 › SECTION 97-R", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-R.md", "title": "State cemetery vandalism restoration, monument repair or removal and administration fund"} -->
+# State Finance Law § 97-R — State cemetery vandalism restoration, monument repair or removal and administration fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 97-r. State cemetery vandalism restoration, monument repair or
+removal and administration fund. 1. There is hereby established in the
+joint custody of the state comptroller and the commissioner of taxation
+and finance a special fund to be known as the state cemetery vandalism
+restoration, monument repair or removal and administration fund.
+  2. Such fund shall consist of all revenues received from the
+assessment pursuant to paragraph (h) of section fifteen hundred seven of
+the not-for-profit corporation law and all other moneys credited or
+transferred thereto from any other fund or source pursuant to law.
+  3. Moneys of the fund may be expended for the purposes provided in
+subparagraph three of paragraph (h) of section fifteen hundred seven of
+the not-for-profit corporation law according to the requirements of such
+paragraph (h). Moneys shall be paid out of the fund on the audit and
+warrant of the state comptroller on vouchers certified or approved by
+the secretary of state.
+  4. The fund shall be held within the business and licensing services
+account as established in section ninety-seven-y of this article.
+```

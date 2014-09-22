@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 138", "kind": "section", "law_id": "SCC", "location_id": "138", "path": "ARTICLE 9 › SECTION 138", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/138.md", "title": "Appeal from determination of commissioner"} -->
+# Second Class Cities Law § 138 — Appeal from determination of commissioner
+
+[Second Class Cities Law](../README.md) › [Article 9 — Department of Public Safety](README.md)
+
+```text
+  § 138. Appeal from determination of commissioner. In case any such
+officer or member is aggrieved by the determination of the commissioner
+on any trial of charges, as specified in the preceding section, he may,
+within thirty days after the rendering of such determination, take an
+appeal therefrom on questions of law to the appellate division of the
+supreme court. An appeal taken, as prescribed herein, shall be perfected
+by the service of notice of appeal upon the commissioner. He shall,
+within ten days thereafter, make and file with the county clerk of the
+county in which the city is situated a complete return of the
+proceedings on such trial. For the use of the parties and the court on
+such appeal, the appellant shall cause a certified or stipulated copy of
+said return to be printed and issued and all the rules and statutes
+concerning the correction and service and use of a printed case on
+appeal shall as far as appropriate be applicable to the correction,
+service and use on appeal of said records.
+```

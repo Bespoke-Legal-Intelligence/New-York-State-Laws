@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 8-507", "kind": "section", "law_id": "UCC", "location_id": "8-507", "path": "ARTICLE 8 › PART 5 › SECTION 8-507", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/8-507.md", "title": "Duty of Securities Intermediary to comply with Entitlement Order"} -->
+# Uniform Commercial Code § 8-507 — Duty of Securities Intermediary to comply with Entitlement Order
+
+[Uniform Commercial Code](../../README.md) › [Article 8 — Investment Securities](../README.md) › [Part 5 — Security Entitlements](README.md)
+
+```text
+Section 8--507. Duty of Securities Intermediary to comply with
+                  Entitlement Order.
+  (a) A securities intermediary shall comply with an entitlement order
+if the entitlement order is originated by the appropriate person, the
+securities intermediary has had reasonable opportunity to assure itself
+that the entitlement order is genuine and authorized, and the securities
+intermediary has had reasonable opportunity to comply with the
+entitlement order. A securities intermediary satisfies the duty if:
+       (1) the securities intermediary acts with respect to the duty as
+           agreed upon by the entitlement holder and the securities
+           intermediary; or
+       (2) in the absence of agreement, the securities intermediary
+           exercises due care in accordance with reasonable commercial
+           standards to comply with the entitlement order.
+  (b) If a securities intermediary transfers a financial asset pursuant
+to an ineffective entitlement order, the securities intermediary shall
+reestablish a security entitlement in favor of the person entitled to
+it, and pay or credit any payments or distributions that the person did
+not receive as a result of the wrongful transfer. If the securities
+intermediary does not reestablish a security entitlement, the securities
+intermediary is liable to the entitlement holder for damages.
+```

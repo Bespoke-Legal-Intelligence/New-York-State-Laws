@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1318", "kind": "section", "law_id": "ISC", "location_id": "1318", "path": "ARTICLE 13 › SECTION 1318", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1318.md", "title": "Deposits, securities eligible"} -->
+# Insurance Law § 1318 — Deposits, securities eligible
+
+[Insurance Law](../README.md) › [Article 13 — Assets and Deposits](README.md)
+
+```text
+  § 1318. Deposits, securities eligible. (a) Except as otherwise
+provided in this chapter, every deposit made with the superintendent
+shall be in the securities specified in paragraphs one and two of
+subsection (b) of section one thousand four hundred two of this chapter,
+estimated at an amount not exceeding their current market value, but
+their total par value shall not be less than the amount required.
+  (b) Such deposit made by a foreign insurer may be in like securities
+of its home state if similar domestic insurers doing business in such
+state are permitted to deposit therein like securities of this state.
+  (c) If the aggregate market value of the securities on deposit shall
+fall below the required amount, the superintendent may require the
+depositing insurer to deposit sufficient additional securities of like
+character.
+```

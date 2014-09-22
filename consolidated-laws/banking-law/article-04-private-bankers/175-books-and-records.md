@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 175", "kind": "section", "law_id": "BNK", "location_id": "175", "path": "ARTICLE 4 › SECTION 175", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/175.md", "title": "Books and records"} -->
+# Banking Law § 175 — Books and records
+
+[Banking Law](../README.md) › [Article 4 — Private Bankers](README.md)
+
+```text
+  § 175. Books and records. 1. Every private banker shall keep separate
+and complete books of account in which shall be promptly entered the
+details of all business transacted by him as a private banker including
+statements in detail of the liabilities incurred by him as a private
+banker and of the securities or property in which funds held by him as a
+private banker have been invested.
+  2. Every private banker shall conform his or her methods of keeping
+his or her books and records to such orders in respect thereto as shall
+have been made and promulgated by the superintendent pursuant to article
+two of this chapter. Any private banker who refuses or neglects to obey
+any such order shall be subject to a penalty of an amount as determined
+pursuant to section forty-four of this chapter for each day that such
+refusal or neglect continues.
+  3. Every private banker shall preserve all his records of final entry,
+including cards used under the card system and deposit tickets, for a
+period of at least six years from the date of making the same or from
+the date of the last entry thereon; provided, however, that preservation
+of photographic reproduction thereof or records in photographic form
+shall constitute compliance with the requirements of this section.
+```

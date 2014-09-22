@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 435", "kind": "section", "law_id": "FCT", "location_id": "435", "path": "ARTICLE 4 › PART 3 › SECTION 435", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/435.md", "title": "Procedure; adjournment; confidentiality of requests"} -->
+# Family Court Act § 435 — Procedure; adjournment; confidentiality of requests
+
+[Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 3 — Hearing](README.md)
+
+```text
+  § 435. Procedure; adjournment; confidentiality of requests. (a)
+Hearings are conducted by the court without a jury. The court may
+adjourn the hearing to enable it to make inquiry into the surroundings,
+conditions and capacities of the child, into the financial abilities and
+responsibilities of both parents and for other proper cause. If the
+court so adjourns the hearing, it may require the respondent to give an
+undertaking to appear or in default thereof may commit him until the
+hearing resumes.
+  (b) Hearings are conducted without a jury. The support magistrate may
+adjourn the hearing in order to make inquiry into the surroundings,
+conditions and capacities of the child and into the financial abilities
+and responsibilities of both parents and for other proper cause
+including a referral of issues required to be determined by a judge. If
+the support magistrate so adjourns the hearing, the support magistrate
+shall make a temporary order of support, pending a final determination,
+and may require the respondent to give an undertaking to appear or in
+default thereof may, subject to the provisions in section four hundred
+thirty-nine of this act and confirmation by a judge, commit him or her
+until the hearing resumes. The support magistrate shall enter an order
+of support on default if the respondent fails to answer or appear after
+having been properly served.
+  (c) Reports prepared by the probation service for use by the court at
+any time prior to the making of an order of disposition shall be deemed
+confidential information furnished to the court which the court in a
+proper case may, in its discretion, withhold from or disclose in whole
+or in part to the support magistrate, child's attorney, counsel, party
+in interest, or other appropriate person. Such reports may not be made
+available to the court prior to a determination that the respondent is
+liable under this article for the support of the petitioner.
+```

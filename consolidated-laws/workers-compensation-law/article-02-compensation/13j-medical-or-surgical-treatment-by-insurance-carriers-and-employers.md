@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 13-J", "kind": "section", "law_id": "WKC", "location_id": "13-J", "path": "ARTICLE 2 › SECTION 13-J", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/13-J.md", "title": "Medical or surgical treatment by insurance carriers and employers"} -->
+# Workers' Compensation Law § 13-J — Medical or surgical treatment by insurance carriers and employers
+
+[Workers' Compensation Law](../README.md) › [Article 2 — Compensation](README.md)
+
+```text
+  § 13-j. Medical or surgical treatment by insurance carriers and
+employers. (1) An insurance carrier shall not participate in the
+treatment of injured workers, except as provided in paragraph five of
+subdivision (i) of section thirteen of this article and subdivision
+seven of section thirteen-a of this article and except, that it may
+employ medical inspectors to examine compensation cases periodically,
+while under treatment, and report upon the adequacy of medical care, and
+other matters relative to the medical conduct of the case, a copy of
+which report shall be filed directly with the chair within ten days, and
+that it may maintain rehabilitation bureaus operated by qualified
+physicians if authorized by the chair in accordance with section
+thirteen-c of this article. (2) An employer may maintain a compensation
+medical bureau at the place or places of employment, if such bureau is
+required because of the nature of the industrial hazards, or the
+frequency of injuries to employees arising out of industry. Such bureau
+or bureaus shall be authorized and licensed pursuant to section
+thirteen-c, and their use by an injured employee shall be optional in
+accordance with the provisions of section thirteen-a.
+```

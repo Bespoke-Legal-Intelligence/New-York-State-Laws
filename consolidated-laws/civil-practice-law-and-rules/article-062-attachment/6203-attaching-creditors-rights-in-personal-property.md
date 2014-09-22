@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 6203", "kind": "section", "law_id": "CVP", "location_id": "6203", "path": "ARTICLE 62 › SECTION 6203", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/6203.md", "title": "Attaching creditor's rights in personal property"} -->
+# Civil Practice Law and Rules § 6203 — Attaching creditor's rights in personal property
+
+[Civil Practice Law and Rules](../README.md) › [Article 62 — Attachment](README.md)
+
+```text
+  § 6203. Attaching creditor's rights in personal property. Where a
+plaintiff has delivered an order of attachment to a sheriff, the
+plaintiff's rights in a debt owed to the defendant or in an interest of
+the defendant in personal property against which debt or property a
+judgment may be enforced, are superior to the extent of the amount of
+the attachment to the rights of any transferee of the debt or property,
+except:
+  1. a transferee who acquired the debt or property before it was levied
+upon for fair consideration or without knowledge of the order of
+attachment; or
+  2. a transferee who acquired the debt or property for fair
+consideration after it was levied upon without knowledge of the levy
+while it was not in the possession of the sheriff.
+```

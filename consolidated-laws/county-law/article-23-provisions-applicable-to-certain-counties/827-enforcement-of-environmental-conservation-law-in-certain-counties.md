@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "County Law § 827", "kind": "section", "law_id": "CNT", "location_id": "827", "path": "ARTICLE 23 › SECTION 827", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/827.md", "title": "Enforcement of environmental conservation law in certain counties"} -->
+# County Law § 827 — Enforcement of environmental conservation law in certain counties
+
+[County Law](../README.md) › [Article 23 — Provisions Applicable to Certain Counties](README.md)
+
+```text
+  § 827. Enforcement of environmental conservation law in certain
+counties. In those counties wherein the state owns a park, forest
+preserve, reforested area, hatchery, nursery, game refuge, or wherein
+the state has established and controls fire prevention apparatus and
+structures, public hunting, trapping and fishing grounds, marine
+fisheries, or other lawful objects established and controlled by the
+state in furtherance of the preservation of the natural resources and
+wild life of the state, the board of supervisors shall have power to
+appropriate not exceeding one thousand dollars in any one year for the
+purpose of aiding the state in the enforcement of the provisions of the
+environmental conservation law. Such appropriation shall be expended by
+the county pursuant to a contract made with the department of
+environmental conservation in the manner provided in section two hundred
+twenty-five of this chapter or paid to the state and expended by the
+department of environmental conservation pursuant to the provisions of
+the environmental conservation law. The county of Erie may appropriate
+not exceeding four thousand dollars for this purpose. Nothing herein
+shall be deemed to allow the payment of extra compensation to any
+officer in the performance of official duties for which a compensation
+is otherwise provided by law. Nothing herein shall be deemed to modify
+or impair the power of a county to enforce the provisions of the
+environmental conservation law or its own ordinances, rules and
+regulations upon grounds or structures owned and controlled by the
+county.
+```

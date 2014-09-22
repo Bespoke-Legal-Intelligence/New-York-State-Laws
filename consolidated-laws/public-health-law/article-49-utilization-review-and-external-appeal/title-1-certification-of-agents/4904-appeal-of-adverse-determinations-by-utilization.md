@@ -1,0 +1,130 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4904", "kind": "section", "law_id": "PBH", "location_id": "4904", "path": "ARTICLE 49 › TITLE 1 › SECTION 4904", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4904.md", "title": "Appeal of adverse determinations by utilization review agents"} -->
+# Public Health Law § 4904 — Appeal of adverse determinations by utilization review agents
+
+[Public Health Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 1 — Certification of Agents and Utilization Review Process](README.md)
+
+```text
+  § 4904. Appeal of adverse determinations by utilization review agents.
+1. An enrollee, the enrollee's designee and, in connection with
+retrospective adverse determinations, an enrollee's health care
+provider, may appeal an adverse determination rendered by a utilization
+review agent.
+  1-a. An enrollee or the enrollee's designee may appeal an
+out-of-network denial by a health care plan by submitting: (a) a written
+statement from the enrollee's attending physician, who must be a
+licensed, board certified or board eligible physician qualified to
+practice in the specialty area of practice appropriate to treat the
+enrollee for the health service sought, that the requested
+out-of-network health service is materially different from the health
+service the health care plan approved to treat the insured's health care
+needs; and (b) two documents from the available medical and scientific
+evidence that the out-of-network health service is likely to be more
+clinically beneficial to the enrollee than the alternate recommended
+in-network health service and for which the adverse risk of the
+requested health service would likely not be substantially increased
+over the in-network health service.
+  * 1-b. An enrollee or the enrollee's designee may appeal a denial of
+an out-of-network referral by a health care plan by submitting a written
+statement from the enrollee's attending physician, who must be a
+licensed, board certified or board eligible physician qualified to
+practice in the specialty area of practice appropriate to treat the
+enrollee for the health service sought, provided that: (a) the
+in-network health care provider or providers recommended by the health
+care plan do not have the appropriate training and experience to meet
+the particular health care needs of the enrollee for the health service;
+and (b) recommends an out-of-network provider with the appropriate
+training and experience to meet the particular health care needs of the
+enrollee, and who is able to provide the requested health service.
+  * NB Effective March 31, 2015
+  * 2. A utilization review agent shall establish an expedited appeal
+process for appeal of an adverse determination involving:
+  (a) continued or extended health care services, procedures or
+treatments or additional services for an enrollee undergoing a course of
+continued treatment prescribed by a health care provider home health
+care services following discharge from an inpatient hospital admission
+pursuant to subdivision three of section forty-nine hundred three of
+this article; or
+  (b) an adverse determination in which the health care provider
+believes an immediate appeal is warranted except any retrospective
+determination.  Such process shall include mechanisms which facilitate
+resolution of the appeal including but not limited to the sharing of
+information from the enrollee's health care provider and the utilization
+review agent by telephonic means or by facsimile. The utilization review
+agent shall provide reasonable access to its clinical peer reviewer
+within one business day of receiving notice of the taking of an
+expedited appeal.  Expedited appeals shall be determined within two
+business days of receipt of necessary information to conduct such
+appeal. Expedited appeals which do not result in a resolution
+satisfactory to the appealing party may be further appealed through the
+standard appeal process, or through the external appeal process pursuant
+to section forty-nine hundred fourteen of this article as applicable.
+  * NB Effective until April 1, 2015
+  * 2. A utilization review agent shall establish an expedited appeal
+process for appeal of an adverse determination involving:
+  (a) continued or extended health care services, procedures or
+treatments or additional services for an enrollee undergoing a course of
+continued treatment prescribed by a health care provider home health
+care services following discharge from an inpatient hospital admission
+pursuant to subdivision three of section forty-nine hundred three of
+this article; or
+  (b) an adverse determination in which the health care provider
+believes an immediate appeal is warranted except any retrospective
+determination.  Such process shall include mechanisms which facilitate
+resolution of the appeal including but not limited to the sharing of
+information from the enrollee's health care provider and the utilization
+review agent by telephonic means or by facsimile. The utilization review
+agent shall provide reasonable access to its clinical peer reviewer
+within one business day of receiving notice of the taking of an
+expedited appeal.  Expedited appeals shall be determined within two
+business days of receipt of necessary information to conduct such appeal
+except, with respect to inpatient substance use disorder treatment
+provided pursuant to paragraph (c) of subdivision 3 of section four
+thousand nine hundred three of this article, expedited appeals shall be
+determined within twenty-four hours of receipt of such appeal. Expedited
+appeals which do not result in a resolution satisfactory to the
+appealing party may be further appealed through the standard appeal
+process, or through the external appeal process pursuant to section
+forty-nine hundred fourteen of this article as applicable. Provided that
+the enrollee or the enrollee's health care provider files an expedited
+internal and external appeal within twenty-four hours from receipt of an
+adverse determination for inpatient substance use disorder treatment for
+which coverage was provided while the initial utilization review
+determination was pending pursuant to paragraph (c) of subdivision 3 of
+section four thousand nine hundred three of this article, a utilization
+review agent shall not deny on the basis of medical necessity or lack of
+prior authorization such substance use disorder treatment while a
+determination by the utilization review agent or external appeal agent
+is pending.
+  * NB Effective April 1, 2015
+  3. A utilization review agent shall establish a standard appeal
+process which includes procedures for appeals to be filed in writing or
+by telephone. A utilization review agent must establish a period of no
+less than forty-five days after receipt of notification by the enrollee
+of the initial utilization review determination and receipt of all
+necessary information to file the appeal from said determination. The
+utilization review agent must provide written acknowledgment of the
+filing of the appeal to the appealing party within fifteen days of such
+filing and shall make a determination with regard to the appeal within
+sixty days of the receipt of necessary information to conduct the
+appeal. The utilization review agent shall notify the enrollee, the
+enrollee's designee and, where appropriate, the enrollee's health care
+provider, in writing, of the appeal determination within two business
+days of the rendering of such determination. The notice of the appeal
+determination shall include:
+  (a) the reasons for the determination; provided, however, that where
+the adverse determination is upheld on appeal, the notice shall include
+the clinical rationale for such determination; and
+  (b) a notice of the enrollee's right to an external appeal together
+with a description, jointly promulgated by the commissioner and the
+superintendent of financial services as required pursuant to subdivision
+five of section forty-nine hundred fourteen of this article, of the
+external appeal process established pursuant to title two of this
+article and the time frames for such external appeals.
+  4. Both expedited and standard appeals shall only be conducted by
+clinical peer reviewers, provided that any such appeal shall be reviewed
+by a clinical peer reviewer other than the clinical peer reviewer who
+rendered the adverse determination.
+  5. Failure by the utilization review agent to make a determination
+within the applicable time periods in this section shall be deemed to be
+a reversal of the utilization review agent's adverse determination.
+```

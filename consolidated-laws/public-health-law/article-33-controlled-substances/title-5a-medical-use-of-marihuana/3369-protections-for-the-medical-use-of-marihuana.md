@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3369", "kind": "section", "law_id": "PBH", "location_id": "3369", "path": "ARTICLE 33 › TITLE 5-A › SECTION 3369", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3369.md", "title": "Protections for the medical use of marihuana"} -->
+# Public Health Law § 3369 — Protections for the medical use of marihuana
+
+[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 5-A — Medical Use of Marihuana](README.md)
+
+```text
+  * § 3369. Protections for the medical use of marihuana. 1. Certified
+patients, designated caregivers, practitioners, registered organizations
+and the employees of registered organizations shall not be subject to
+arrest, prosecution, or penalty in any manner, or denied any right or
+privilege, including but not limited to civil penalty or disciplinary
+action by a business or occupational or professional licensing board or
+bureau, solely for the certified medical use or manufacture of
+marihuana, or for any other action or conduct in accordance with this
+title.
+  2. Non-discrimination. Being a certified patient shall be deemed to be
+having a "disability" under article fifteen of the executive law (human
+rights law), section forty-c of the civil rights law, sections 240.00,
+485.00, and 485.05 of the penal law, and section 200.50 of the criminal
+procedure law. This subdivision shall not bar the enforcement of a
+policy prohibiting an employee from performing his or her employment
+duties while impaired by a controlled substance. This subdivision shall
+not require any person or entity to do any act that would put the person
+or entity in violation of federal law or cause it to lose a federal
+contract or funding.
+  3. The fact that a person is a certified patient and/or acting in
+accordance with this title, shall not be a consideration in a proceeding
+pursuant to applicable sections of the domestic relations law, the
+social services law and the family court act.
+  4. Certification applications, certification forms, any certified
+patient information contained within a database, and copies of registry
+identification cards shall be deemed exempt from public disclosure under
+sections eighty-seven and eighty-nine of the public officers law.
+  * NB Repealed July 5, 2021
+```

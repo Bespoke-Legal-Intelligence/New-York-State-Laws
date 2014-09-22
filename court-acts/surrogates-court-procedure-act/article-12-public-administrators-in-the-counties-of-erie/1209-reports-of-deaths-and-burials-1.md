@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1209", "kind": "section", "law_id": "SCP", "location_id": "1209", "path": "ARTICLE 12 › SECTION 1209", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1209.md", "title": "Reports of deaths and burials 1"} -->
+# Surrogate's Court Procedure Act § 1209 — Reports of deaths and burials 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 12 — Public Administrators In the Counties of Erie, Monroe, Nassau, Onondaga, Suffolk and Westchester and County Treasurers Appointed Administrators](README.md)
+
+```text
+§ 1209. Reports of deaths and burials
+  1.  Every person keeping a hotel, boarding or rooming house in any of
+the counties to which this article applies shall report to the public
+administrator of his county information concerning every person not a
+member of his family who shall die in his hotel, boarding or rooming
+house, within 12 hours after such death.
+  2.  The chief medical examiner or such similar public officer of each
+county to which this article applies within 12 hours after an inquest
+shall report in writing to the public administrator of his county,
+information, if known, regarding the decedent.
+  3.  Every undertaker shall file a report in writing with the public
+administrator of his county upon the form provided by him, within 12
+hours after receiving an order for the burial by him of any decedent
+having no known distributees or having been survived only by cousins or
+relatives by marriage, such information regarding the decedent which he
+may have.
+```

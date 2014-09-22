@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 409", "kind": "section", "law_id": "BSC", "location_id": "409", "path": "ARTICLE 4 › SECTION 409", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/409.md", "title": "Penalty for failure to file; cure"} -->
+# Business Corporation Law § 409 — Penalty for failure to file; cure
+
+[Business Corporation Law](../README.md) › [Article 4 — Formation of Corporations](README.md)
+
+```text
+§ 409. Penalty for failure to file; cure.
+  1. Each corporation which has failed to file its statement within the
+time required by this chapter after thirty days shall be shown to be
+past due on the records of the department of state.
+  2. Each corporation which has failed to file its statement for two
+years shall be shown to be delinquent on the records of the department
+of state sixty days after a notice of delinquency has been mailed to the
+last known address of such corporation. Such delinquency shall be
+removed from the records of the department of state upon the filing of
+the current statement required by section four hundred eight of this
+article, and the payment of a fine of two hundred fifty dollars.
+  3. The notice of delinquency shall state the cure and fine for such
+delinquency as determined by subdivision two of this section and the
+period during which such delinquency shall be foreborne without the
+imposition of such fine.
+```

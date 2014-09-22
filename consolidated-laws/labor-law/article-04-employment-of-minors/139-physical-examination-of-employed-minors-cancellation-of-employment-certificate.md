@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 139", "kind": "section", "law_id": "LAB", "location_id": "139", "path": "ARTICLE 4 › SECTION 139", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/139.md", "title": "Physical examination of employed minors; cancellation of employment certificate"} -->
+# Labor Law § 139 — Physical examination of employed minors; cancellation of employment certificate
+
+[Labor Law](../README.md) › [Article 4 — Employment of Minors](README.md)
+
+```text
+  § 139. Physical examination of employed minors; cancellation of
+employment certificate. 1. A medical inspector of the department of
+labor shall require any minor sixteen or seventeen years of age employed
+in or in connection with any trade, business, or service, to submit to a
+physical examination by him if in his judgment such minor is physically
+unfit for the work at which he is employed. The result shall be recorded
+on a form filed with the commissioner.
+  2. If such minor fails to submit to such examination or if on
+examination the inspector finds the minor physically unfit to be so
+employed, he shall so report to the commissioner with his reasons
+therefor and the commissioner, if he approves the report, shall then
+cause the employment certificate issued in accordance with the education
+law to be taken from the office of the employer and shall return the
+same to the superintendent of schools recommending its cancellation.
+```

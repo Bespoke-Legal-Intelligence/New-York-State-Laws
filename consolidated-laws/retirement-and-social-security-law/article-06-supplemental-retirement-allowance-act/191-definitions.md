@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 191", "kind": "section", "law_id": "RSS", "location_id": "191", "path": "ARTICLE 6 › SECTION 191", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/191.md", "title": "Definitions"} -->
+# Retirement and Social Security Law § 191 — Definitions
+
+[Retirement and Social Security Law](../README.md) › [Article 6 — Supplemental Retirement Allowance Act](README.md)
+
+```text
+  § 191. Definitions. As used in this act:
+  a. The term "state retired employee" shall mean a person sixty-two
+years of age or older who is retired, or any person retired for
+disability regardless of age, and receives, as a result of such
+retirement, a retirement allowance or pension from any state
+administered and operated retirement or pension plan or system.
+  b. The term "local retired employee" shall mean a person sixty-two
+years of age or older who is retired, or any person retired for
+disability regardless of age, and receives, as a result of such
+retirement, a retirement allowance or pension from any retirement or
+pension system or plan of a municipality.
+  c. The term "state retired teacher" shall mean a person sixty-two
+years of age or older who is retired, or any person retired for
+disability regardless of age, and receives, as a result of such
+retirement, a retirement allowance from the New York state teachers
+retirement system.
+  d. The term "local retired teacher" shall mean a person sixty-two
+years of age or older who is retired, or any person retired for
+disability regardless of age, and receives, as a result of such
+retirement, a retirement allowance from any teachers' retirement system
+administered and operated by a municipality or a school district located
+therein.
+  e. The term "municipality" shall mean a county, city, town or village.
+  f. The term "comptroller" shall mean the state comptroller.
+```

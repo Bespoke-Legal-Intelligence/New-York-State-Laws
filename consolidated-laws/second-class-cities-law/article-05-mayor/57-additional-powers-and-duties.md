@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 57", "kind": "section", "law_id": "SCC", "location_id": "57", "path": "ARTICLE 5 › SECTION 57", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/57.md", "title": "Additional powers and duties"} -->
+# Second Class Cities Law § 57 — Additional powers and duties
+
+[Second Class Cities Law](../README.md) › [Article 5 — Mayor](README.md)
+
+```text
+  § 57. Additional powers and duties. The mayor shall have such other
+powers and perform such other duties as may be prescribed in this
+chapter or by other laws of the state or by ordinance of the common
+council, not inconsistent with law. In case of riot, conflagration or
+other public emergency requiring it, the mayor shall have power to call
+out the police and firemen; he shall also have power to appoint such
+number of special policemen as he may deem necessary to preserve the
+public peace. Such special policemen shall be under the sole control of
+the regularly appointed and constituted officers of the police
+department. They have shall have power to make arrests only for
+disorderly conduct or other offenses against peace or good order. In
+case of riot or insurrection, he may take command of the whole police
+force, including the chief executive officer thereof.
+```

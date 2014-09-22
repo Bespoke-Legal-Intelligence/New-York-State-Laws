@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 203-B", "kind": "section", "law_id": "LAB", "location_id": "203-B", "path": "ARTICLE 7 › SECTION 203-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/203-B.md", "title": "Seats for female employees"} -->
+# Labor Law § 203-B — Seats for female employees
+
+[Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
+
+```text
+  § 203-b. Seats for female employees. A sufficient number of suitable
+seats, with backs where practicable, shall be provided and maintained in
+every factory, mercantile establishment, freight or passenger elevator,
+hotel and restaurant for female employees who shall be allowed to use
+the seats to such an extent as may be reasonable for the preservation of
+their health. In factories, female employees shall be allowed to use
+such seats whenever they are engaged in work which can be properly
+performed in a sitting posture.  In mercantile establishments, at least
+one seat shall be provided for every three female employees and if the
+duties of such employees are to be performed principally in front of a
+counter, table, desk or fixture, such seats shall be placed in front
+thereof, or if such duties are to be performed principally behind such
+counter, table, desk or fixture they shall be placed behind the same.
+```

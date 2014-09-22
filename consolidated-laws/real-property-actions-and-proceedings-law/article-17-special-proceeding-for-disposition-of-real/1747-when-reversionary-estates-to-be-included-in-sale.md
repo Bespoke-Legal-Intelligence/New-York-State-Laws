@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1747", "kind": "section", "law_id": "RPA", "location_id": "1747", "path": "ARTICLE 17 › SECTION 1747", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1747.md", "title": "When reversionary estates to be included in sale"} -->
+# Real Property Actions and Proceedings Law § 1747 — When reversionary estates to be included in sale
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 17 — Special Proceeding For Disposition of Real Property of Infant, Incompetent or Conservatee](README.md)
+
+```text
+  § 1747. When reversionary estates to be included in sale. When the
+interest of the infant, incompetent person or conservatee, consists of a
+right of dower or an estate for life, or for years, the judgment may
+authorize the guardian, committee or conservator to join, with the
+person or persons holding the reversionary estate, in a conveyance of
+the property to which the interest attaches, so as to release the right
+of dower, or fully convey the particular estate, on receiving from the
+proceeds of the sale a gross sum in satisfaction of that interest, or a
+proportionate part of the proceeds, to be invested until the
+determination of the particular estate.
+```

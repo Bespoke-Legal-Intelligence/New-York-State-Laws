@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 434", "kind": "section", "law_id": "RCO", "location_id": "434", "path": "ARTICLE 20 › SECTION 434", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/434.md", "title": "Right of affiliation; relationships between churches, district corporations and the general council of the Assemblies of God"} -->
+# Religious Corporations Law § 434 — Right of affiliation; relationships between churches, district corporations and the general council of the Assemblies of God
+
+[Religious Corporations Law](../README.md) › [Article 20 — Assemblies of God Churches](README.md)
+
+```text
+  § 434. Right of affiliation; relationships between churches, district
+corporations and the general council of the Assemblies of God. Churches
+shall be deemed to be sovereign, autonomous, self governing and self
+determining bodies. The affiliation of each church with the general
+council of the Assemblies of God and the New York district of the
+Assemblies of God shall be in matters of doctrine and conduct. In the
+event determination of disaffiliation with the general council of the
+Assemblies of God is under consideration by an affiliated assembly, the
+pastor and/or the church council shall invite the district officiary to
+participate in a special called church meeting for the express matter of
+giving the district officiary the opportunity to present the case for
+continued general council affiliation. Final disposition of the matter
+may then proceed in accordance with the by-laws of the local church not
+inconsistent with this article.
+```

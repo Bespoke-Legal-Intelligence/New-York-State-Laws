@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 350", "kind": "section", "law_id": "VAT", "location_id": "350", "path": "TITLE 3 › ARTICLE 7 › SECTION 350", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/350.md", "title": "Money or securities deposited as proof of financial responsibility"} -->
+# Vehicle and Traffic Law § 350 — Money or securities deposited as proof of financial responsibility
+
+[Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 7 — Motor Vehicle Safety Responsibility Act](README.md)
+
+```text
+  § 350. Money or securities deposited as proof of financial
+responsibility. (a) A person may give proof of financial responsibility
+by delivering to the commissioner one hundred fifty thousand dollars in
+cash, or securities, such as may legally be purchased by savings banks
+or for trust funds, of a market value of one hundred fifty thousand
+dollars.
+  (b) All money or securities so delivered to the commissioner shall be
+placed by the commissioner in the custody of the commissioner of
+taxation and finance and shall be subject to execution to satisfy any
+judgment mentioned in this article within the limits of coverage and
+subject to the limits on amounts required by this article for motor
+vehicle liability policies, and if such moneys or securities shall be
+otherwise subjected to attachment or any execution, the depositor shall
+immediately furnish such additional moneys or securities, not otherwise
+subjected to attachment or execution, to meet the requirements of this
+section.
+  (c) The commissioner shall not accept such money or securities unless
+accompanied by evidence that there are no unsatisfied judgments against
+such person registered in the office of the county clerk of the county
+where such person resides.
+```

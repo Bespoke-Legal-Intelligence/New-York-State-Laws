@@ -1,0 +1,95 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2401-B", "kind": "section", "law_id": "PBH", "location_id": "2401-B", "path": "ARTICLE 24 › TITLE 1 › SECTION 2401-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2401-B.md", "title": "Cancer incidence and environmental facility maps"} -->
+# Public Health Law § 2401-B — Cancer incidence and environmental facility maps
+
+[Public Health Law](../../README.md) › [Article 24 — Control of Malignant Diseases](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  * § 2401-b. Cancer incidence and environmental facility maps. 1. For
+purposes of this section, "environmental facility" shall have the same
+meaning as provided in section 3-0317 of the environmental conservation
+law.
+  2. For purposes of this section, "cancer incidence and environmental
+facility maps technical advisory group" or "technical advisory group"
+shall mean the environmental public health tracking program technical
+advisory group required by a cooperative agreement between the
+department and the federal centers for disease control and prevention.
+  3. The technical advisory group shall make recommendations to the
+department on the appropriate use and communication of the cancer
+incidence and environmental facility maps. Such recommendations shall
+consider the scientific strengths and limitations of such mapping and
+overlay methodologies for cancer tracking and geospatial linking to
+significant disease risk factors, and the appropriate means for
+communicating such strengths and limitation to the public in an easily
+discernible manner. The department shall consider the recommendations of
+the technical advisory group when making the maps required by this
+section available to the public.
+  4. The department, in consultation with the department of
+environmental conservation and the technical advisory group, shall
+establish and maintain a computer mapping system for plotting cancer
+incidence and environmental facilities throughout the state, including
+but not limited to cancer clusters. Such maps shall overlay locations of
+environmental facilities with cancer incidences.
+  5. Cancer incidence and environmental facility maps shall include data
+on the incidence of the following cancer types:
+  (a) lung and bronchus;
+  (b) female breast;
+  (c) urinary bladder (including in situ);
+  (d) brain and other nervous system;
+  (e) colon and rectum;
+  (f) non-Hodgkin lymphomas;
+  (g) leukemias;
+  (h) thyroid;
+  (i) liver/intrahepatic bile duct;
+  (j) kidney and renal pelvis;
+  (k) prostate;
+  (l) oral cavity and pharynx;
+  (m) stomach;
+  (n) esophagus;
+  (o) larynx;
+  (p) pancreas;
+  (q) corpus uterus;
+  (r) ovary;
+  (s) testis;
+  (t) mesothelioma;
+  (u) bone;
+  (v) nasal and nasopharynx; and
+  (w) soft tissue sarcomas.
+  6. Plotting of data for cancer incidence and environmental facility
+maps shall be by census block, except in cases where such plotting could
+disclose the identity of any person to whom the data relate, in which
+case census blocks shall be aggregated for plotting to protect the
+identity of such person. When such aggregation is required, the
+department shall utilize the minimum number of census blocks practicable
+to protect the identity of such person.
+  7. By March first, two thousand eleven the department shall make
+available to the public information on cancer as designated by the
+environmental public health tracking program of the centers for disease
+control and prevention, and, in consultation with the department of
+environmental conservation, current data on locations and type of
+environmental facilities.
+  8. By June thirtieth, two thousand eleven the department shall make
+available to the public cancer incidence and environmental facility maps
+which show available information on the location of environmental
+facilities and the total number of reported cancers by census block and
+associated data for each reported cancer type listed in subdivision five
+of this section.
+  9. The department shall make available to the public cancer incidence
+and environmental facility maps in the manner described in subdivision
+four of this section showing cancer clusters by cancer types. Prior to
+plotting such data, the department shall use an appropriate statistical
+method to detect statistical anomalies for the purpose of identifying
+cancer clusters.
+  (a) The department shall make such maps available as follows:
+  (i) by June thirtieth, two thousand twelve cancer types listed in
+paragraphs (a) through (e) of subdivision five of this section;
+  (ii) by December thirty-first, two thousand twelve cancer types listed
+in paragraphs (f) through (o) of subdivision five of this section; and
+  (iii) by June thirtieth, two thousand thirteen cancer types listed in
+paragraphs (p) through (w) of subdivision five of this section.
+  (b) The department, in consultation with the department of
+environmental conservation, shall update the maps periodically.
+  (c) The department shall post these maps on its public website as soon
+as practicable following the dates set forth in paragraph (a) of this
+subdivision.
+  * NB Repealed March 31, 2016
+```

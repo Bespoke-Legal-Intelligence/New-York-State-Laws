@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 404-U", "kind": "section", "law_id": "VAT", "location_id": "404-U", "path": "TITLE 4 › ARTICLE 14 › SECTION 404-U", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/404-U.md", "title": "Distinctive \"keep kids drug free\" license plates"} -->
+# Vehicle and Traffic Law § 404-U — Distinctive "keep kids drug free" license plates
+
+[Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 14 — Registration of Motor Vehicles](README.md)
+
+```text
+  * § 404-u. Distinctive "keep kids drug free" license plates. 1. Any
+person residing in this state shall, upon request, be issued a
+distinctive "keep kids drug free" license plate in support of youth drug
+prevention and treatment programs. Application for such license plate
+shall be filed with the commissioner in such form and detail as the
+commissioner shall prescribe.
+  2. A distinctive "keep kids drug free" license plate issued pursuant
+to this section shall be issued in the same manner as other number
+plates upon the payment of the regular registration fee prescribed by
+section four hundred one of this article, provided, however, that an
+additional annual service charge of twenty-five dollars shall be charged
+for such plate. The additional service charge of twenty-five dollars
+shall be deposited to the credit of the office of alcoholism and
+substance abuse services and shall be used to support programs which
+seek to reduce alcoholism and substance abuse among the youth population
+in New York state through prevention and/or treatment. Such deposits
+shall not be used to replace, offset, or supplant any existing funding
+streams which aid the office, but shall be in addition thereto.
+Provided, however, that one year after the effective date of this
+section, funds in the amount of five thousand dollars, or so much
+thereof as may be available, shall be allocated to the department to
+offset costs associated with the production of such license plates.
+  * NB There are 4 §404-u's
+```

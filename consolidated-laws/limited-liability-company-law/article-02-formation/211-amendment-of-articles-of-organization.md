@@ -1,0 +1,56 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 211", "kind": "section", "law_id": "LLC", "location_id": "211", "path": "ARTICLE 2 › SECTION 211", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/211.md", "title": "Amendment of articles of organization"} -->
+# Limited Liability Company Law § 211 — Amendment of articles of organization
+
+[Limited Liability Company Law](../README.md) › [Article 2 — Formation](README.md)
+
+```text
+  § 211. Amendment of articles of organization. (a) A limited liability
+company may amend its articles of organization, from time to time, in
+any and as many respects as may be desired by (i) preparing a
+certificate of amendment, entitled "Certificate of amendment of the
+articles of organization of... (name of limited liability company) under
+section two hundred eleven of the Limited Liability Company Law," in
+accordance with this section, (ii) executing such certificate of
+amendment in accordance with section two hundred seven of this article
+and (iii) filing such certificate of amendment in accordance with
+section two hundred nine of this article.
+  (b) The certificate of amendment may set forth only such provisions as
+might be lawfully contained in the initial articles of organization
+filed at the time of making such amendment.
+  (c) The certificate of amendment shall set forth:
+  (1) the name of the limited liability company and, if it has been
+changed, the name under which it was formed;
+  (2) the date of filing its initial articles of organization; and
+  (3) each amendment effected thereby, setting forth the subject matter
+of each provision of the articles of organization that is to be amended
+or eliminated and the full text of the provision or provisions, if any,
+which are to be substituted or added.
+  (d) In particular, but without limiting the general power of amendment
+as stated in subdivision (b) of this section, a limited liability
+company shall amend its articles of organization no later than ninety
+days after the happening of any of the following events:
+  (1) a change in the name of the limited liability company;
+  (2) a change in the county within this state in which the office of
+the limited liability company is to be located;
+  (3) a change in the latest date, if any, on which the limited
+liability company is to dissolve;
+  (4) the continuation of the limited liability company under section
+seven hundred one of this chapter after an event of dissolution;
+  (5) a change in the name or street address of its registered agent in
+the state if such change is made other than pursuant to section three
+hundred two of this chapter;
+  (6) a change in the post office address to which the secretary of
+state shall mail a copy of any process against the limited liability
+company served upon him or her if such change is made other than
+pursuant to section three hundred one of this chapter;
+  (7) a change in whether the limited liability company is to be managed
+by one or more members of a class or classes of members or by one or
+more managers or a class or classes of managers;
+  (8) the discovery of a materially false or inaccurate statement in the
+articles of organization; and
+  (9) the decision to change any other statement in the articles of
+organization.
+  (e) Unless otherwise provided in this chapter, a certificate of
+amendment shall be effective at the time of its filing with the
+department of state.
+```

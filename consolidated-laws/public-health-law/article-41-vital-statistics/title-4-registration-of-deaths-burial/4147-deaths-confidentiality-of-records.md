@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4147", "kind": "section", "law_id": "PBH", "location_id": "4147", "path": "ARTICLE 41 › TITLE 4 › SECTION 4147", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4147.md", "title": "Deaths; confidentiality of records"} -->
+# Public Health Law § 4147 — Deaths; confidentiality of records
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 4 — Registration of Deaths: Burial Permits](README.md)
+
+```text
+  § 4147. Deaths; confidentiality of records. The death certificate,
+burial permit or any other record of death or interment, as defined by
+article forty-one of this chapter, including but not limited to the
+name, address or telephone number of the decedent, next of kin or
+surviving relatives of such decedent, shall not be sold or offered for
+sale for commercial, promotional or profit-making purposes without the
+written consent of the next of kin or the legal representative of such
+decedent or next of kin. The provisions of this section shall not apply
+to newspapers or newsletters providing general information to the
+public. A violation of this section shall constitute a violation as
+defined in the penal law.
+```

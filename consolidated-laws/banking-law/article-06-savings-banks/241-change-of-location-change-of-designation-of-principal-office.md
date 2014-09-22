@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 241", "kind": "section", "law_id": "BNK", "location_id": "241", "path": "ARTICLE 6 › SECTION 241", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/241.md", "title": "Change of location; change of designation of principal office"} -->
+# Banking Law § 241 — Change of location; change of designation of principal office
+
+[Banking Law](../README.md) › [Article 6 — Savings Banks](README.md)
+
+```text
+  § 241. Change of location; change of designation of principal office.
+Any savings bank may make a written application to the superintendent,
+such application to be accompanied by an investigation fee as prescribed
+pursuant to section eighteen-a of this chapter, for leave to change its
+place or one of its places of business to another place in the state or
+for leave to change the designation of its principal office to a branch
+office and to change the designation of one of its branch offices to its
+principal office. This application shall state the reasons for such
+proposed change. Such change may be made upon the written approval of
+the superintendent. If the superintendent shall grant his or her
+certificate authorizing the change of location, as provided in article
+two of this chapter, the savings bank may, upon or after the day
+specified in the certificate, remove its property and effects to the
+location designated therein.
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 8011", "kind": "section", "law_id": "ISC", "location_id": "8011", "path": "ARTICLE 80 › SECTION 8011", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/8011.md", "title": "Corporate existence"} -->
+# Insurance Law § 8011 — Corporate existence
+
+[Insurance Law](../README.md) › [Article 80 — Mutual Holding Company](README.md)
+
+```text
+  § 8011. Corporate existence. (a) The reorganized insurer shall be a
+continuation of the reorganizing insurer, and the reorganization shall
+in no way annul, modify or change any of such insurer's existing suits,
+rights, contracts or liabilities except as provided in the approved plan
+of reorganization. All rights, franchises and interests of the
+reorganizing insurer in and to every species of property, real, personal
+and mixed, and things in action thereunto belonging, shall be vested in
+the continuing company, without any deed or transfer, and simultaneously
+therewith such continuing company shall be subject to all of the
+obligations and liabilities of the reorganizing insurer, other than
+obligations and liabilities with respect to the policyholders'
+membership interests extinguished by the plan of reorganization.
+  (b) No action or proceeding pending at the time of the reorganization
+to which the reorganizing insurer may be a party shall be abated or
+discontinued by reason of such reorganization, but the same may be
+prosecuted to final judgment in the same manner as if the reorganization
+had not taken place, or the reorganized insurer may be substituted in
+place of such reorganizing insurer by order of the court in which the
+action or proceeding may be pending.
+```

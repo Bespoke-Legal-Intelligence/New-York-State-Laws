@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1319", "kind": "section", "law_id": "BSC", "location_id": "1319", "path": "ARTICLE 13 › SECTION 1319", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1319.md", "title": "Applicability of other provisions"} -->
+# Business Corporation Law § 1319 — Applicability of other provisions
+
+[Business Corporation Law](../README.md) › [Article 13 — Foreign Corporations](README.md)
+
+```text
+§ 1319. Applicability of other provisions.
+  (a) In addition to articles 1 (Short title; definitions; application;
+certificates; miscellaneous) and 3 (Corporate name and service of
+process) and the other sections of article 13, the following provisions,
+to the extent provided therein, shall apply to a foreign corporation
+doing business in this state, its directors, officers and shareholders:
+  (1) Section 623 (Procedure to enforce shareholder's right to receive
+payment for shares).
+  (2) Section 626 (Shareholders' derivative action brought in the right
+of the corporation to procure a judgment in its favor).
+  (3) Section 627 (Security for expenses in shareholders' derivative
+action brought in the right of the corporation to procure a judgment in
+its favor).
+  (4) Sections 721 (Exclusivity of statutory provisions for
+indemnification of directors and officers) through 727 (Insurance for
+indemnification of directors and officers), inclusive.
+  (5) Section 808 (Reorganization under act of congress).
+  (6) Section 907 (Merger or consolidation of domestic and foreign
+corporations).
+```

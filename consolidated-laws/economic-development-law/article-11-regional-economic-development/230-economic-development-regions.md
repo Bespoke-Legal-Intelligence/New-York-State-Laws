@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 230", "kind": "section", "law_id": "COM", "location_id": "230", "path": "ARTICLE 11 › SECTION 230", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/230.md", "title": "Economic development regions"} -->
+# Economic Development Law § 230 — Economic development regions
+
+[Economic Development Law](../README.md) › [Article 11 — Regional Economic Development](README.md)
+
+```text
+  § 230. Economic development regions. 1. The department shall establish
+economic development regions of the state and shall establish within
+each region at least one regional office.
+  2. The boundaries of regions shall be based on factors including, but
+not limited to: (a) interdependence and commonality of economic and
+social interests; (b) previous cooperation in economic development
+related matters; (c) intraregional commuting and transportation
+patterns; (d) geographic proximity to and dependence on centers of
+employment and economic opportunity, population concentration and
+markets; (e) unifying topographic characteristics; (f) labor markets;
+and (g) geographic size.
+```

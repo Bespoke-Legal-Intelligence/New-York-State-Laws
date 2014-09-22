@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 23", "kind": "section", "law_id": "IND", "location_id": "23", "path": "ARTICLE 3 › SECTION 23", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/23.md", "title": "Consent of agent to certain contracts"} -->
+# Indian Law § 23 — Consent of agent to certain contracts
+
+[Indian Law](../README.md) › [Article 3 — The Onondaga Tribe](README.md)
+
+```text
+  § 23. Consent of agent to certain contracts.  Every contract which
+shall be made without the written consent of the agent of the Onondaga
+Indians, by any person other than an Indian, with any Indian of the
+Onondaga tribe, or with any Indian of any other nation or tribe residing
+or living with such Indians, for or concerning any stone, or any wood,
+timber or bark on the tribal lands of such nation, or that has been
+taken or removed from such lands, shall be void; and any person who,
+without such consent, shall receive from any such Indian or other
+person, any such stone, wood, timber or bark, on such reservation, or
+removed therefrom, knowing the same to have been taken or removed
+therefrom, shall be liable to a penalty of five times the value of such
+property, recoverable by the agent of such tribe, in the name of the
+people of the state, and payable upon recovery, after he has deducted
+his fees and the reasonable costs and expenses of collection, to the
+chiefs of such tribe for the benefit of the tribe.
+```

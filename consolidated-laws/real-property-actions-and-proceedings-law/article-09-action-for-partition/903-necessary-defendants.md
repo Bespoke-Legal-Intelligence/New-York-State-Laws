@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 903", "kind": "section", "law_id": "RPA", "location_id": "903", "path": "ARTICLE 9 › SECTION 903", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/903.md", "title": "Necessary defendants"} -->
+# Real Property Actions and Proceedings Law § 903 — Necessary defendants
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 9 — Action For Partition](README.md)
+
+```text
+  § 903. Necessary defendants. Each of the following persons shall be
+made a party to the action:
+  1. Every person having an undivided share, in possession or otherwise,
+in the property, as tenant in fee, for life, by the curtesy or for
+years;
+  2. Every person entitled to the reversion, remainder or inheritance of
+an undivided share, after the determination of a particular estate
+therein;
+  3. Every person who, by any contingency, is or may become entitled to
+a beneficial interest in an undivided share in the property, provided
+that where a future estate or interest is limited in any contingency to
+the persons who shall compose a certain class upon the happening of a
+future event, it shall be sufficient to make parties to the action the
+persons who would have been entitled to such estate or interest if such
+event had happened immediately before the commencement of the action;
+  4. Every person having an inchoate right of dower in an undivided
+share in the property;
+  5. Every person having a right of dower in the property, or any part
+thereof, which has not been admeasured; and
+  6. An executor or administrator, where letters testamentary or of
+administration have been issued on the estate of the decedent from whom
+the plaintiff's title to the real property is derived, and the action is
+brought within eighteen months after such letters were issued; or where
+the person of whose estate the executor or administrator has been
+appointed should, if living, be a party to the action. If no executor or
+administrator has been appointed for the estate of such a person, that
+fact must be stated in the complaint.
+```

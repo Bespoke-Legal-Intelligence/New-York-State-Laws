@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1009", "kind": "section", "law_id": "PVH", "location_id": "1009", "path": "ARTICLE 17 › SECTION 1009", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1009.md", "title": "Annual report"} -->
+# Private Housing Finance Law § 1009 — Annual report
+
+[Private Housing Finance Law](../README.md) › [Article 17 — Housing and Community Preservation In Rural Areas](README.md)
+
+```text
+  § 1009. Annual report. The commissioner shall, on or before December
+thirty-first in each year submit a report to the legislature on the
+implementation of this article. Such report shall include, but not be
+limited to, for each company receiving payments under this article: a
+description of such company's contract amount and cumulative total; the
+specific housing and community preservation activities in rural areas
+performed by such company; the findings required by the commissioner
+under subdivision two of section one thousand three of this article; the
+amounts of monies received by the company from sources other than
+payments made pursuant to this article; the value of services rendered
+for the benefit of the company for which payment is not required to be
+made; and such other information as the commissioner deems appropriate.
+```

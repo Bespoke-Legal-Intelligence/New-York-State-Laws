@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 85", "kind": "section", "law_id": "GMU", "location_id": "85", "path": "ARTICLE 5 › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/85.md", "title": "Service charge on returned checks"} -->
+# General Municipal Law § 85 — Service charge on returned checks
+
+[General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
+
+```text
+  § 85. Service charge on returned checks. 1. The governing body of a
+municipal corporation may by resolution provide for the imposition of a
+charge to be added to any account owing to the municipal corporation
+where a tendered payment of such account was dishonored by a bank or
+depository institution.
+  2. Whenever the account owing to the municipal corporation is for a
+tax, special ad valorem levy or special assessment, the charge
+authorized by the preceding subdivision shall be included on whatever
+list of delinquent accounts is prepared for the enforcement of the lien.
+  3. Said charge shall be determined and set by resolution of the
+governing body, from time to time, as appropriate, but shall not exceed
+the maximum charge for dishonored checks authorized under section 5-328
+of the general obligations law.
+  4. Any such service charge shall be collected in the same manner
+prescribed by law for the collection of the account for which the check
+was tendered. In addition, such municipal corporation may require future
+payments to be tendered in cash or by certified or cashier's check.
+  5. For purposes of this section, the term "municipal corporation"
+shall mean a municipal corporation as defined in section two of this
+chapter and a school district.
+```

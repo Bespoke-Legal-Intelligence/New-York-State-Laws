@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "New York City Criminal Court Act § 52", "kind": "section", "law_id": "CRC", "location_id": "52", "path": "ARTICLE 5 › SECTION 52", "repealed": false, "repealed_date": null, "source": "nys-laws:CRC/52.md", "title": "Transfer of persons and charges"} -->
+# New York City Criminal Court Act § 52 — Transfer of persons and charges
+
+[New York City Criminal Court Act](../README.md) › [Article 5 — Miscellaneous Provisions Affecting Cases In Which Judge Sits As Magistrate](README.md)
+
+```text
+  § 52. Transfer of persons and charges. (1) Except as provided in this
+section, no charge, complaint or person brought before one judge of the
+court sitting as a magistrate shall be sent before another such judge,
+or any other magistrate, except for adequate cause, to be fully and at
+once entered upon the records kept by the respective clerks and signed
+by the judge, and no person shall be committed or recommitted for
+examination save for necessary cause, to be then clearly stated upon the
+record; the hearing upon any charge shall not be adjourned to another
+day without the reason therefor being entered upon such record, nor
+shall any charge be dismissed or any prisoner discharged without record
+thereof made as above provided.
+  (2) Illness, absence or other inability of a judge, or the occurrence
+of a vacancy in his office, shall be adequate cause, without entry upon
+the record, for any transfer included in the preceding subdivision of
+this section, if the judge or other magistrate appearing in his place
+shall elect to proceed.
+```

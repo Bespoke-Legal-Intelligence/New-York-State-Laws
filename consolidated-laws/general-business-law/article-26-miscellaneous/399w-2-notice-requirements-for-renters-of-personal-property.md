@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 399-W*2", "kind": "section", "law_id": "GBS", "location_id": "399-W*2", "path": "ARTICLE 26 › SECTION 399-W*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-W_2.md", "title": "Notice requirements for renters of personal property"} -->
+# General Business Law § 399-W*2 — Notice requirements for renters of personal property
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 399-w. Notice requirements for renters of personal property. 1.
+For the purposes of this section, the following terms shall have the
+following meanings:
+  (a) "Owner" shall include any person, partnership, firm, association,
+or corporation engaged in the business of renting personal property for
+profit.
+  (b) "Personal property" shall include but not be limited to tangible
+chattels used for personal, household, or business purposes but shall
+not include motor vehicles.
+  (c) "Rental agreement" shall mean the total legal obligation that
+results from a written rental contract between a person and the owner
+for the rental of personal property.
+  2. Any owner who rents personal property shall:
+  (a) conspicuously post a sign in a prominent and visible area in the
+place of business, measuring at least two feet by four feet in writing
+of at least thirty-six point print, with the following notice:
+                           RENTAL INFORMATION
+     WARNING! Failure to return rented property pursuant to the terms of
+     the rental agreement may subject the renter to criminal
+     prosecution.
+  (b) include in all rental contracts, in writing in at least twelve
+point print, the following notice:
+     Failure to return rented property under the terms of this agreement
+     may subject the undersigned party(ies) to criminal prosecution.
+  3. This section shall not apply to: (a) rental purchase agreements as
+regulated by article eleven of the personal property law and (b) motor
+vehicle rentals under paragraph two of subdivision (a) of section one
+hundred ninety-eight-a and paragraph two of subdivision a of section one
+hundred ninety-eight-b of this chapter.
+  * NB There are 2 § 399-w's
+```

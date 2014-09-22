@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Village Law § 20-2002", "kind": "section", "law_id": "VIL", "location_id": "20-2002", "path": "ARTICLE 20 › SECTION 20-2002", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/20-2002.md", "title": "Traffic orders, rules or regulations"} -->
+# Village Law § 20-2002 — Traffic orders, rules or regulations
+
+[Village Law](../README.md) › [Article 20 — Actions Involving the Village; Ordinances](README.md)
+
+```text
+  § 20-2002 Traffic orders, rules or regulations. In the event the board
+of trustees of a village adopts any order, rule or regulation pursuant
+to the authority of the vehicle and traffic law or delegates any powers
+granted to such village by the vehicle and traffic law to any official,
+board or agency of such village as authorized by section sixteen hundred
+three of the vehicle and traffic law, any orders, rules or regulations
+adopted by such board of trustees, official, board or agency shall take
+effect immediately upon adoption, subject to the limitations imposed by
+section sixteen hundred eighty-four of the vehicle and traffic law,
+without notice or hearing, providing traffic control devices complying
+with the manual and specifications thereof as adopted by the department
+of transportation are placed and maintained as shall be deemed necessary
+to indicate and carry out the provisions of such orders, rules or
+regulations as required by section sixteen hundred eight-two of the
+vehicle and traffic law.
+  No orders, rules or regulations heretofore adopted by any board of
+trustees, or by any official, board or agency as authorized by the
+provisions of section sixteen hundred three of the vehicle and traffic
+law shall be deemed invalid or ineffective solely because such order was
+adopted without notice or hearing.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 407", "kind": "section", "law_id": "PBH", "location_id": "407", "path": "ARTICLE 4 › TITLE 1 › SECTION 407", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/407.md", "title": "Hospitals; privileges to students"} -->
+# Public Health Law § 407 — Hospitals; privileges to students
+
+[Public Health Law](../../README.md) › [Article 4 — Property and Hospitals In the Department of Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 407. Hospitals; privileges to students. 1. Whenever the person or
+persons having lawful control and management over any public hospital in
+any city or county in this state, shall grant to matriculated students
+of any legally incorporated medical college in said city or county,
+privileges of admission to such hospital for hearing clinics or
+lectures, or receiving medical or surgical instruction therein, the like
+privileges and advantages shall be granted to the matriculated students
+in each and all legally incorporated medical colleges in said city and
+county who may desire the same, without distinction or preference, and
+upon equal terms and conditions as to all.
+  2. Nothing in this section shall prevent the directors of such
+hospitals from limiting the attendance of students in such hospitals to
+a number compatible with the welfare of patients. But in such limitation
+they shall receive students from such legally incorporated medical
+colleges applying for such admission in proportion to the number of
+students in attendance upon such college.
+```

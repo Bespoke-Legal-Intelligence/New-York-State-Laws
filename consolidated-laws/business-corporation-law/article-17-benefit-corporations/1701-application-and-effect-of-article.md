@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1701", "kind": "section", "law_id": "BSC", "location_id": "1701", "path": "ARTICLE 17 › SECTION 1701", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1701.md", "title": "Application and effect of article"} -->
+# Business Corporation Law § 1701 — Application and effect of article
+
+[Business Corporation Law](../README.md) › [Article 17 — Benefit Corporations](README.md)
+
+```text
+§ 1701. Application and effect of article.
+  (a) This article shall be applicable to all benefit corporations.
+  (b) The existence of a provision of this article shall not of itself
+create any implication that a contrary or different rule of law is or
+would be applicable to a business corporation that is not a benefit
+corporation. This article shall not affect any statute or rule of law
+that is or would be applicable to a business corporation that is not a
+benefit corporation.
+  (c) Except as otherwise provided in this article, this chapter shall
+be applicable to all benefit corporations. The specific provisions of
+this article shall control over the general provisions of this chapter.
+  (d) A provision of the certificate of incorporation or bylaws of a
+benefit corporation may not relax, be inconsistent with or supersede any
+provision of this article.
+```

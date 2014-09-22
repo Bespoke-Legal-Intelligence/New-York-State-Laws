@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 83", "kind": "section", "law_id": "TCP", "location_id": "83", "path": "ARTICLE 7 › SECTION 83", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/83.md", "title": "Condemnation of real property"} -->
+# Transportation Corporations Law § 83 — Condemnation of real property
+
+[Transportation Corporations Law](../README.md) › [Article 7 — Pipe Line Corporations](README.md)
+
+```text
+  § 83. Condemnation of real property. In case such corporation is
+unable to agree for the purchase of any real property required for the
+purposes of its incorporation, and its route in the county in which such
+real property is situated has been finally located, it shall have the
+right to acquire title thereto by condemnation, but such corporation
+shall not locate its route or construct any line of pipe through or
+under any building, dooryard, lawn, garden or orchard, except by the
+consent of the owner thereof in writing duly acknowledged, nor through
+any cemetery or burial ground, nor within one hundred feet of any
+building except where such line is authorized by public officers to be
+laid across or upon any public highway. No such corporation shall lay or
+construct its line of pipe through or under a street in any city, unless
+it shall first obtain the consent of a majority of the owners of
+property abutting on that portion of the street in which its pipe line
+is to be laid. Such pipe line shall be laid with reasonable care and
+prudence.
+```

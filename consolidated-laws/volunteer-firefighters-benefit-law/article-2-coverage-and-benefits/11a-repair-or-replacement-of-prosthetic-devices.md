@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Volunteer Firefighters' Benefit Law § 11-A", "kind": "section", "law_id": "VOL", "location_id": "11-A", "path": "ARTICLE 2 › SECTION 11-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VOL/11-A.md", "title": "Repair or replacement of prosthetic devices"} -->
+# Volunteer Firefighters' Benefit Law § 11-A — Repair or replacement of prosthetic devices
+
+[Volunteer Firefighters' Benefit Law](../README.md) › [Article 2 — Coverage and Benefits](README.md)
+
+```text
+  § 11-a. Repair or replacement of prosthetic devices.  If, as a result
+of services performed in line of duty, a volunteer fireman damages or
+loses any prosthetic devices required to be worn or used by him, whether
+or not he is injured, such prosthetic device shall be repaired, or
+replaced in the discretion of the workmen's compensation board, and
+necessary medical, surgical or other attendance or treatment, nurse and
+hospital service, in connection therewith shall be furnished, in the
+same manner as a prosthetic device would be furnished, replaced or
+repaired and treatment and care provided under the provisions of section
+sixteen of this chapter.  Damage to or loss of a prosthetic device shall
+be deemed an injury, except that no disability benefits shall be payable
+with respect to such injury under sections eight, nine, ten and eleven
+of this chapter.  The term "prosthetic device" as used in this section
+includes an artificial limb, artificial eye, eyeglasses, contact lens,
+hearing aid, denture or dental appliance or any surgical appliance
+required to be worn or used by the volunteer fireman, but shall not
+include shoes or any other article considered as ordinary wearing
+apparel, whether or not specially constructed.
+```

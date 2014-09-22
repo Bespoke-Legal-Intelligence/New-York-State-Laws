@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 86", "kind": "section", "law_id": "LIE", "location_id": "86", "path": "ARTICLE 4 › SECTION 86", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/86.md", "title": "Application for warrant"} -->
+# Lien Law § 86 — Application for warrant
+
+[Lien Law](../README.md) › [Article 4 — Liens On Vessels and Enforcement Thereof](README.md)
+
+```text
+  § 86. Application for warrant. The lienor may make a written
+application to a justice of the supreme court, at chambers, in the
+judicial district in which the lienor resides or in a county adjoining
+such district, for a warrant to enforce a lien on a vessel and to
+collect the amount thereof.
+  The application shall specify:
+  1. By whom and when such debt was contracted and for what vessel; and
+the name and residence of the owner of the vessel, if known.
+  2. The items composing the debt and the amount claimed.
+  3. That the debt is justly due the applicant over and above all
+payments and just deductions.
+  4. Any assignment or transfer of the debt which may have taken place
+since it was contracted.
+  5. When and where the notice of lien was filed.
+  The application shall be verified in the same manner as a pleading in
+a court of record.
+```

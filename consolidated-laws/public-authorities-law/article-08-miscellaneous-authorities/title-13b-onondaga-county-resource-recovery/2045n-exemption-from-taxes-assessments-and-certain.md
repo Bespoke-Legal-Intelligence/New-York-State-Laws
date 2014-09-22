@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2045-N", "kind": "section", "law_id": "PBA", "location_id": "2045-N", "path": "ARTICLE 8 › TITLE 13-B › SECTION 2045-N", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2045-N.md", "title": "Exemption from taxes, assessments and certain fees"} -->
+# Public Authorities Law § 2045-N — Exemption from taxes, assessments and certain fees
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 13-B — Onondaga County Resource Recovery Agency](README.md)
+
+```text
+  § 2045-n. Exemption from taxes, assessments and certain fees. 1. It is
+hereby determined that the creation of the agency and the carrying out
+of its corporate purposes is in all respects for the benefit of the
+people of the county and the state and is a public purpose and the
+agency shall be regarded as performing a governmental function in the
+exercise of the powers conferred upon it by this title and shall not be
+required to pay any taxes or assessments upon any property owned by it
+or under its jurisdiction, control or supervision or upon its
+activities, or any filing, recording or transfer fees or taxes in
+relation to instruments filed, recorded or transferred by it or on its
+behalf. The construction, use, occupation or possession of any property
+owned by the agency or the county, including improvements thereon, by
+any person or public corporation under a lease, lease and sublease or
+any other agreement shall not operate to abrogate or limit the foregoing
+exemption, notwithstanding that the lessee, user, occupant or person in
+possession shall claim ownership for federal income tax purposes. The
+agency shall be deemed a public authority for the purposes of section
+four hundred twelve of the real property tax law.
+  2. Except in the case of a municipality in which there shall be
+located a solid waste management-resource recovery facility, the agency
+shall not be authorized to make any payments in lieu of real property
+taxes or assessments. The provisions of this subdivision shall not be
+deemed to prohibit the agency from paying for specific governmental
+services provided to it by any municipality, fire district or fire
+protection district, and any fire district or fire protection district
+providing such services is hereby authorized to charge for such services
+and to receive such payments.
+  3. Any bonds issued pursuant to this title together with the income
+therefrom as well as the property of the agency shall be exempt from
+taxes, except for transfer and estate taxes. The state hereby covenants
+with the purchasers and with all subsequent holders and transferees of
+bonds issued by the agency pursuant to this title, in consideration of
+the acceptance of and payment for the bonds, that the bonds of the
+agency issued pursuant to this title and the income therefrom and all
+revenues, moneys, and other property pledged to secure the payment of
+such bonds shall at all times be free from taxation, except for transfer
+and estate taxes.
+```

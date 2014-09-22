@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 205", "kind": "section", "law_id": "SCC", "location_id": "205", "path": "ARTICLE 13 › SECTION 205", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/205.md", "title": "Compromise of claims"} -->
+# Second Class Cities Law § 205 — Compromise of claims
+
+[Second Class Cities Law](../README.md) › [Article 13 — Department of Law](README.md)
+
+```text
+  § 205. Compromise of claims. The corporation counsel shall, whenever
+he considers that the interests of the city will be subserved thereby,
+enter into an agreement in writing, subject to the approval of the board
+of estimate and apportionment, to compromise and settle any claim
+against the city, which agreement shall constitute a valid obligation
+against the city; and the amount therein provided to be paid shall, with
+interest thereon from its date, be included in the next city tax budget
+and be collected and paid the same in all respects as a judgment against
+the city. If, however, before the adoption of the city tax budget there
+shall be received by the city treasurer from any source any moneys not
+otherwise appropriated, the amount in the agreement provided to be paid
+out of such moneys so received, so far as they will satisfy the same.
+```

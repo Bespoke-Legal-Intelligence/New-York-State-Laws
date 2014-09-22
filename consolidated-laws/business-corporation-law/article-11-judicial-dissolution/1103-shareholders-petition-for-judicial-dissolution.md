@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1103", "kind": "section", "law_id": "BSC", "location_id": "1103", "path": "ARTICLE 11 › SECTION 1103", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1103.md", "title": "Shareholders' petition for judicial dissolution"} -->
+# Business Corporation Law § 1103 — Shareholders' petition for judicial dissolution
+
+[Business Corporation Law](../README.md) › [Article 11 — Judicial Dissolution](README.md)
+
+```text
+§ 1103. Shareholders' petition for judicial dissolution.
+  (a) If the shareholders of a corporation adopt a resolution stating
+that they find that its assets are not sufficient to discharge its
+liabilities, or that they deem a dissolution to be beneficial to the
+shareholders, the shareholders or such of them as are designated for
+that purpose in such resolution may present a petition for its
+dissolution.
+  (b) A shareholders' meeting to consider such a resolution may be
+called, notwithstanding any provision in the certificate of
+incorporation, by the holders of shares representing ten percent of the
+votes of all outstanding shares entitled to vote thereon, or if the
+certificate of incorporation authorizes a lesser proportion of votes of
+shares to call the meeting, by such lesser proportion.  A meeting under
+this paragraph may not be called more often than once in any period of
+twelve consecutive months.
+  (c) Such a resolution may be adopted at a meeting of shareholders by
+vote of a majority of the votes of all outstanding shares entitled to
+vote thereon or if the certificate of incorporation requires a greater
+proportion of votes to adopt such a resolution, by such greater
+proportion.
+```

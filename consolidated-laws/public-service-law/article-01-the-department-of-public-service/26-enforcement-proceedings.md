@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 26", "kind": "section", "law_id": "PBS", "location_id": "26", "path": "ARTICLE 1 › SECTION 26", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/26.md", "title": "Enforcement proceedings"} -->
+# Public Service Law § 26 — Enforcement proceedings
+
+[Public Service Law](../README.md) › [Article 1 — The Department of Public Service](README.md)
+
+```text
+  § 26. Enforcement proceedings. Whenever the commission shall be of the
+opinion that a public utility company, corporation or person and the
+officers, agents or employees thereof is failing or omitting or is about
+to fail or omit to do anything required of it by any provision of this
+chapter or by order or regulation, adopted under the authority of this
+chapter or is doing anything or about to do anything, or permitting
+anything or about to permit anything to be done contrary to or in
+violation of any provision of this chapter or an order or regulation
+adopted pursuant to this chapter, the commission may direct counsel to
+the commission to commence an action or special proceeding in the
+supreme court in the name of the commission for the purpose of having
+such violations or threatened violations stopped and prevented.  Counsel
+to the commission shall thereupon begin an action or special proceeding
+alleging the violation complained of and praying for appropriate relief.
+In case of default in answer or after answer, the court shall
+immediately inquire into the facts and circumstances in such manner as
+the court shall direct. Such other corporations or persons, as it shall
+seem to the court necessary or proper to join as parties in order to
+make its judgment effective may be joined as parties to the action or
+proceeding. The final judgment in any such action or special proceeding
+shall either dismiss the action or special proceeding, direct judgment
+as prayed for in the complaint or petition, or be in such other form as
+the court may determine is just and reasonable.
+```

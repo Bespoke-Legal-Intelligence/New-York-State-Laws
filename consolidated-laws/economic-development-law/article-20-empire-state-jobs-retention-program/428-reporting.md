@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 428", "kind": "section", "law_id": "COM", "location_id": "428", "path": "ARTICLE 20 › SECTION 428", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/428.md", "title": "Reporting"} -->
+# Economic Development Law § 428 — Reporting
+
+[Economic Development Law](../README.md) › [Article 20 — Empire State Jobs Retention Program](README.md)
+
+```text
+  § 428. Reporting. 1. Each participant must submit a performance report
+annually, in such form as the commissioner may require, within thirty
+days of the end of their taxable year.
+  2. The commissioner shall prepare on a quarterly basis a program
+report for posting on the department's website. The first report will be
+due June thirtieth, two thousand thirteen, and every three months
+thereafter. Such report shall include, but not be limited to, the
+following: number of applicants; number of participants approved; names
+of participants; total amount of benefits certified; benefits received
+per participant; total number of retained jobs; and such other
+information as the commissioner determines.
+```

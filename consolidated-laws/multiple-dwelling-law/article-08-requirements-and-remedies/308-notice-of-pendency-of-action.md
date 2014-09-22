@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Multiple Dwelling Law § 308", "kind": "section", "law_id": "MDW", "location_id": "308", "path": "ARTICLE 8 › SECTION 308", "repealed": false, "repealed_date": null, "source": "nys-laws:MDW/308.md", "title": "Notice of pendency of action"} -->
+# Multiple Dwelling Law § 308 — Notice of pendency of action
+
+[Multiple Dwelling Law](../README.md) › [Article 8 — Requirements and Remedies](README.md)
+
+```text
+  § 308. Notice of pendency of action.  1. In any action or proceeding
+instituted by the department the plaintiff or petitioner may file in the
+county clerk's office of the county where the premises affected by such
+action or proceeding are situated, a notice of the pendency of such
+action or proceeding. Such notice may be filed at any time after the
+service of any notice or order issued by the department, at the time of
+the commencement of the action or proceeding, or at any time afterwards,
+before final judgment or order.
+  2. Each county clerk with whom such a notice is filed shall record and
+index it to the name of each person specified in a direction subscribed
+by the corporation counsel or other legal officer of the city.
+  3. Any such notice may be vacated upon the order of a judge or justice
+of the court in which such action or proceeding was instituted or is
+pending, or upon the consent in writing of the corporation counsel or
+other legal officer of the city. The clerk of the county where such
+notice is filed shall mark such notice and any record or docket thereof
+as cancelled of record upon the presentation and filing of such consent
+or of a certified copy of such order.
+```

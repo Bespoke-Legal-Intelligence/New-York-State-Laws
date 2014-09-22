@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "County Law § 306", "kind": "section", "law_id": "CNT", "location_id": "306", "path": "ARTICLE 6 › SECTION 306", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/306.md", "title": "Liability for surcharge"} -->
+# County Law § 306 — Liability for surcharge
+
+[County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+```text
+  § 306. Liability for surcharge. 1. Each service supplier customer who
+is subject to the provisions of this article shall be liable to the
+municipality for the surcharge until it has been paid to the
+municipality, except that payment to a service supplier is sufficient to
+relieve the customer from further liability for such surcharge.
+  2. The service supplier shall have no obligation to take any legal
+action to enforce the collection of any surcharge.  However, whenever
+the service supplier remits the funds collected as the surcharge to the
+county, it shall also provide the county with the name and address of
+any customer refusing or failing to pay the surcharge imposed by this
+article and shall state the amount of such surcharge remaining unpaid.
+```

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 505", "kind": "section", "law_id": "EXC", "location_id": "505", "path": "ARTICLE 19-G › TITLE 2 › SECTION 505", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/505.md", "title": "Directors of facilities"} -->
+# Executive Law § 505 — Directors of facilities
+
+[Executive Law](../../README.md) › [Article 19-G — Office of Children and Family Services](../README.md) › [Title 2 — Facilities](README.md)
+
+```text
+  § 505. Directors of facilities. 1. There shall be a facility director
+of each division for youth facility. Such facility director shall be
+appointed by the director of the division and shall be in the
+noncompetitive class and designated as confidential as defined by
+subdivision two-a of section forty-two of the civil service law. The
+facility director shall have two years experience in appropriate titles
+in state government. Such facility director shall have such other
+qualifications as may be prescribed by the director of the division,
+based on differences in duties, levels of responsibility, size and
+character of the facility, knowledge, skills and abilities required, and
+other factors affecting the position and shall serve at the pleasure of
+the director of the division.
+  2. Subject to regulations of the division, the facility director of a
+state facility in the division shall:
+  (a) operate and manage the facility,
+  (b) submit a monthly report on such matters as the division may
+specify.
+  3. Subject to the regulations of the division, the facility director
+may authorize the use of the buildings and grounds of the facility by a
+municipality, special district or non-profit association, corporation or
+organization for educational, recreational, social and civic purposes
+whenever such use may promote better relationships with the community in
+which the facility is located, provided, however, that such use does not
+interfere with the purposes and program of the facility.
+```

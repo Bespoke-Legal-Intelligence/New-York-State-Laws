@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 109", "kind": "section", "law_id": "PVH", "location_id": "109", "path": "ARTICLE 5 › SECTION 109", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/109.md", "title": "Minimum amount of capital and debentures"} -->
+# Private Housing Finance Law § 109 — Minimum amount of capital and debentures
+
+[Private Housing Finance Law](../README.md) › [Article 5 — Redevelopment Companies](README.md)
+
+```text
+  § 109. Minimum amount of capital and debentures. Except as provided in
+this section the capital of a redevelopment company together with any
+income debentures shall in no event be less than the total of ten per
+centum of the actual cost of any project or projects undertaken pursuant
+to this article. The supervising agency may permit capital to be
+increased or income debenture certificates to be issued for working
+capital to be used in connection with such project to an amount not
+exceeding three per centum of the estimated cost, or three per centum of
+the total actual final cost, if that should exceed the estimated cost of
+a project.
+  The provisions of this section shall not be applicable to any
+redevelopment company if funds made available by the federal government
+or any instrumentality thereof, or any mortgage or mortgage bonds
+insured by the federal housing administrator or any other
+instrumentality of the federal government are used in financing the
+project in whole or in part.
+```

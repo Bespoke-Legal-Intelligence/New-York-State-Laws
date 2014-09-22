@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 126", "kind": "section", "law_id": "PBG", "location_id": "126", "path": "ARTICLE 7 › SECTION 126", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/126.md", "title": "Condemnation of excess property"} -->
+# Public Housing Law § 126 — Condemnation of excess property
+
+[Public Housing Law](../README.md) › [Article 7 — Acquisition of Property](README.md)
+
+```text
+  § 126. Condemnation of excess property.  A municipality or an
+authority may take private property by condemnation for the purpose of
+providing low rent housing for families of low income, or for the
+clearance, replanning, reconstruction and rehabilitation of areas, or
+for both of such purposes, and for recreational and other facilities
+incidental or appurtenant thereto, but in excess of that required for
+public use after such purposes shall have been accomplished. An
+authority or municipality may improve and utilize such excess property
+wholly or partly for any other public purpose, or may lease or sell such
+excess property with restrictions to preserve and protect the project or
+projects. Proceedings to acquire such excess property may be brought by
+the authority or municipality in the same manner as for the real
+property required for the project and may be included in the proceedings
+for the acquisition of real property required for the project.
+```

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 202-C", "kind": "section", "law_id": "BNK", "location_id": "202-C", "path": "ARTICLE 5 › SECTION 202-C", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/202-C.md", "title": "Reserves against deposits"} -->
+# Banking Law § 202-C — Reserves against deposits
+
+[Banking Law](../README.md) › [Article 5 — Foreign Banking Corporations and National Banks](README.md)
+
+```text
+  § 202-c. Reserves against deposits. Each such foreign banking
+corporation which is authorized to maintain a branch or branches in this
+state shall maintain such reserves against the deposits of such branch
+or branches as may be required from time to time by the laws of this
+state to be maintained by banks and trust companies. Such reserves shall
+be maintained, subject to call, as provided by sections thirty-three and
+one hundred seven of this chapter; provided, however, that any such
+foreign banking corporation which maintains reserves with a federal
+reserve bank pursuant to federal law shall be exempt from the preceding
+provisions of this section so long as it shall comply with the
+requirements of such law with reference to reserves, and provided
+further that the superintendent of financial services may determine that
+it is necessary or appropriate to require such a foreign banking
+corporation to maintain additional reserves against the deposits of its
+branch or branches in this state, taking into consideration the
+character of business conducted by such institutions and the need to
+maintain vigorous and fair competition between and among such branches
+and banks organized under the laws of this state. As to any such
+additional reserves which are required to be maintained pursuant to this
+section, to the extent permitted by the superintendent, amounts carried
+on the books of any such branch or branches as credits to the account of
+another office or branch or wholly owned (except for a nominal number of
+directors' shares) subsidiary of such foreign banking corporation shall
+not be deemed to be deposits.
+```

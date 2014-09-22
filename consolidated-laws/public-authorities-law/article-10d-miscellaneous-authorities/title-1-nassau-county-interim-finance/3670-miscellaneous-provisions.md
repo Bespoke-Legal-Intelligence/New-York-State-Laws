@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3670", "kind": "section", "law_id": "PBA", "location_id": "3670", "path": "ARTICLE 10-D › TITLE 1 › SECTION 3670", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3670.md", "title": "Miscellaneous provisions"} -->
+# Public Authorities Law § 3670 — Miscellaneous provisions
+
+[Public Authorities Law](../../README.md) › [Article 10-D — Miscellaneous Authorities](../README.md) › [Title 1 — Nassau County Interim Finance Authority](README.md)
+
+```text
+  § 3670. Miscellaneous provisions. 1. Notwithstanding anything to the
+contrary in title six-A of article two of the local finance law, neither
+the county nor any covered organization shall file any petition
+authorized by such title six-A without the approval of the authority and
+the state comptroller. No such petition shall be filed as long as any
+bonds issued by the authority remain outstanding. Failure of the
+authority or the state comptroller to notify the county or a covered
+organization within thirty days (or such additional time, not exceeding
+thirty days, as the authority or state comptroller shall have notified
+the county or covered organization that it requires to complete its
+review) after submission to it of a petition shall be deemed to
+constitute authority or state comptroller approval thereof.
+  2. Nothing contained in this title shall limit the right of the county
+or any covered organization to comply with the provisions of any
+existing contract within or for the benefit of the holders of any bonds
+or notes of the county or such covered organization.
+   3. Nothing contained in this title shall be construed to limit the
+power of the county or a covered organization during any interim finance
+period to determine, from time to time, within available funds for the
+county or for such covered organization, the purposes for which
+expenditures are to be made by the county or such covered organization
+and the amounts of such expenditures, consistent with the aggregate
+expenditures then permitted under the financial plan for the county or
+such covered organization.
+  4. The authority's fiscal year shall be January first through December
+thirty-first.
+  5. Nothing contained in this title shall alter or modify the right of
+any town, city or village within the county regarding funding assistance
+due from the county as authorized pursuant to section twelve hundred
+sixty-two-e of the tax law.
+  6. The authority shall adopt guidelines for procurement contracts in
+accordance with section twenty-eight hundred seventy-nine of this
+chapter.
+```

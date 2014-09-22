@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 123", "kind": "section", "law_id": "WKC", "location_id": "123", "path": "ARTICLE 7 › SECTION 123", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/123.md", "title": "Jurisdiction of board to be continuing"} -->
+# Workers' Compensation Law § 123 — Jurisdiction of board to be continuing
+
+[Workers' Compensation Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+```text
+  § 123. Jurisdiction of board to be continuing. The power and
+jurisdiction of the board over each case shall be continuing, and it
+may, from time to time, make such modification or change with respect to
+former findings, awards, decisions or orders relating thereto, as in its
+opinion may be just, except that, where the employer has secured the
+payment of compensation in accordance with the provisions of section
+fifty of this chapter, no claim for compensation or for death benefits
+that has been disallowed after a trial on the merits, or that has been
+otherwise disposed of without an award after the parties in interest
+have been given due notice of hearing or hearings and opportunity to be
+heard and for which no determination was made on the merits, shall be
+reopened after a lapse of seven years from the date of the accident or
+death. Nor shall any award of compensation or death benefits be made
+against the special fund provided in section twenty-five-a of this
+chapter or against an employer or an insurance carrier where application
+therefor is made after a lapse of eighteen years from the date of the
+injury or death and also a lapse of eight years from the date of the
+last payment of compensation.
+```

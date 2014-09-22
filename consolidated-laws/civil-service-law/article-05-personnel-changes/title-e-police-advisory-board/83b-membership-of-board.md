@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 83-B", "kind": "section", "law_id": "CVS", "location_id": "83-B", "path": "ARTICLE 5 › TITLE E › SECTION 83-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/83-B.md", "title": "Membership of board"} -->
+# Civil Service Law § 83-B — Membership of board
+
+[Civil Service Law](../../README.md) › [Article 5 — Personnel Changes](../README.md) › [Title E — Police Advisory Board](README.md)
+
+```text
+  § 83-b. Membership of board. The advisory board shall consist of:
+  (a) A representative of the New York state department of civil service
+who will serve as secretary to the board. This member will have no vote
+in the proceedings but shall transmit to findings of the board to the
+state civil service commission.
+  (b) The chief executive officer of the civil service agency
+responsible for the administration of civil service law for the newly
+organized or enlarged police organization.
+  (c) The chief executive of the municipality of the newly created or
+enlarged police organization or his duly designated representative.
+  (d) 1. Three chiefs of police nominated by the president of the New
+York state association of chiefs of police, none of whom are involved in
+the transfer, merger, or creation of the combined agency either directly
+or indirectly. These members shall have no votes upon matters pertaining
+to the ranks below that of lieutenant.
+  2. In matters pertaining to the ranks below that of lieutenant, votes
+shall be cast by three members of the police conference of the state of
+New York nominated by the president of the police conference of New
+York.
+```

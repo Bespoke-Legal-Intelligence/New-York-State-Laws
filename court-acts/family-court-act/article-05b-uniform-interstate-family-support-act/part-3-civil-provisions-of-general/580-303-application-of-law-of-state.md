@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-303", "kind": "section", "law_id": "FCT", "location_id": "580-303", "path": "ARTICLE 5-B › PART 3 › SECTION 580-303", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-303.md", "title": "Application of law of state"} -->
+# Family Court Act § 580-303 — Application of law of state
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
+
+```text
+  § 580-303. Application of law of state.  Except as otherwise provided
+by this article, a responding tribunal of this state:
+  (1) shall apply the procedural and substantive law, including the
+rules on choice of law, generally applicable to similar proceedings
+originating in this state and may exercise all powers and provide all
+remedies available in those proceedings; and
+  (2) shall determine the duty of support and the amount payable in
+accordance with the law and support guidelines of this state.
+```

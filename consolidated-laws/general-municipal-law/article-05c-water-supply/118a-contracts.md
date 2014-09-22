@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 118-A", "kind": "section", "law_id": "GMU", "location_id": "118-A", "path": "ARTICLE 5-C › SECTION 118-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/118-A.md", "title": "Contracts"} -->
+# General Municipal Law § 118-A — Contracts
+
+[General Municipal Law](../README.md) › [Article 5-C — Water Supply](README.md)
+
+```text
+  § 118-a. Contracts. Any municipality authorized herein to develop a
+supply of water for sale is hereby empowered to enter into contracts for
+such periods as it may deem necessary but not in excess of forty years.
+Such contracts may contain provisions for establishment and revision of
+charges for water, for adjudication of disputes and, in return for a
+guaranteed minimum consumption by the purchaser, for the application of
+conservation methods by the seller when necessary to preserve such
+excess.
+```

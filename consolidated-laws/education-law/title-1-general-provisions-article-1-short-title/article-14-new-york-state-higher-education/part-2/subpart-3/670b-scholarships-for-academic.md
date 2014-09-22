@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Education Law § 670-B", "kind": "section", "law_id": "EDN", "location_id": "670-B", "path": "TITLE 1 › ARTICLE 14 › PART 2 › SUBPART 3 › SECTION 670-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/670-B.md", "title": "Scholarships for academic excellence"} -->
+# Education Law § 670-B — Scholarships for academic excellence
+
+[Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 3 — Academic Performance Awards](README.md)
+
+```text
+  § 670-b. Scholarships for academic excellence.  1. Number and
+certification. Five thousand scholarships shall be awarded in the
+nineteen hundred ninety-seven--ninety-eight academic year, and eight
+thousand scholarships shall be awarded in the nineteen hundred
+ninety-eight--ninety-nine academic year and thereafter.  Such
+scholarships shall be allocated as provided in article thirteen of this
+chapter to eligible students certified to the president by the
+commissioner.
+  2. Duration. A scholarship shall entitle the recipient to an annual
+award for not more than four academic years of undergraduate study, or
+five academic years, if the program of study normally requires five
+years as defined by the commissioner pursuant to article thirteen of
+this chapter.
+  3. Amount. a. (i) For the nineteen hundred ninety-seven--ninety-eight
+academic year, there shall be two thousand scholarships in the amount of
+one thousand dollars each and there shall be three thousand scholarships
+in the amount of five hundred dollars each.
+  (ii) For the nineteen hundred ninety-eight--ninety-nine academic year
+and thereafter, there shall be two thousand scholarships in the amount
+of one thousand five hundred dollars each and there shall be six
+thousand scholarships in the amount of five hundred dollars each.
+  (iii) Notwithstanding any inconsistent provision of law, students
+awarded one thousand dollar scholarships in the nineteen hundred
+ninety-seven--ninety-eight academic year shall be entitled in the
+nineteen hundred ninety-eight--ninety-nine academic year  and thereafter
+to an annual award of one thousand five hundred dollars.
+  b. In no event shall the amount of the annual award exceed the
+recipient's cost of attendance at the institution attended.  Cost of
+attendance shall mean tuition, required fees, laboratory and other
+instruction related expenses, books, transportation, room and board.
+Anything in this article to the contrary notwithstanding, a recipient of
+a scholarship may concurrently receive with such award any other
+academic or general award for which he or she may be eligible provided
+however in no event shall a recipient be awarded a scholarship in any
+amount where the combination of all such awards would exceed the
+recipient's cost of attendance at the institution.
+```

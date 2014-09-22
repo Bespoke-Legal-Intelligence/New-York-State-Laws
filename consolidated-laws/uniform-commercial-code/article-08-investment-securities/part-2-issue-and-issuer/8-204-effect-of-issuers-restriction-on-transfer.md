@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 8-204", "kind": "section", "law_id": "UCC", "location_id": "8-204", "path": "ARTICLE 8 › PART 2 › SECTION 8-204", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/8-204.md", "title": "Effect of Issuer's Restriction on Transfer"} -->
+# Uniform Commercial Code § 8-204 — Effect of Issuer's Restriction on Transfer
+
+[Uniform Commercial Code](../../README.md) › [Article 8 — Investment Securities](../README.md) › [Part 2 — Issue and Issuer](README.md)
+
+```text
+Section 8--204. Effect of Issuer's Restriction on Transfer.
+  A restriction on transfer of a security imposed by the issuer, even if
+otherwise lawful, is ineffective against a person without knowledge of
+the restriction unless:
+  (1) the security is certificated and the restriction is noted
+conspicuously on the security certificate; or
+  (2) the security is uncertificated and the registered owner has been
+notified of the restriction; or
+  (3) the restriction is on the transfer of a cooperative interest and
+the restriction is set forth in the cooperative record.
+```

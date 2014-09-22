@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 387", "kind": "section", "law_id": "JUD", "location_id": "387", "path": "ARTICLE 12 › SECTION 387", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/387.md", "title": "Temporary appointment of interpreters"} -->
+# Judiciary Law § 387 — Temporary appointment of interpreters
+
+[Judiciary Law](../README.md) › [Article 12 — Interpreters](README.md)
+
+```text
+  § 387. Temporary appointment of interpreters. If the services of an
+interpreter be required in any court and there be no unemployed official
+interpreter to act therein, the court may appoint an interpreter to act
+temporarily in such court. Such interpreter shall before entering upon
+his duties file with the clerk of the court the constitutional oath of
+office. The court shall fix the compensation of such interpreter at not
+more than twenty-five dollars per day for each day's actual attendance
+by direction of the presiding judge or justice and such compensation
+shall be paid from the court fund of the county upon the order of the
+court.
+```

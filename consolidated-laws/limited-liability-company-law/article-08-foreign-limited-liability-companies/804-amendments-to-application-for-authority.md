@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 804", "kind": "section", "law_id": "LLC", "location_id": "804", "path": "ARTICLE 8 › SECTION 804", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/804.md", "title": "Amendments to application for authority"} -->
+# Limited Liability Company Law § 804 — Amendments to application for authority
+
+[Limited Liability Company Law](../README.md) › [Article 8 — Foreign Limited Liability Companies](README.md)
+
+```text
+  § 804. Amendments to application for authority.  (a) A foreign limited
+liability company may amend its application for authority from time to
+time if the amendments contain only such provisions as might be lawfully
+contained in an application for authority at the time of making such
+amendment.  To accomplish such amendment, a certificate, entitled
+"Certificate of amendment of ...  (name of foreign limited liability
+company) under section eight hundred four of the Limited Liability
+Company Law," shall be signed by an authorized person and delivered to
+the department of state. The certificate shall set forth:
+  (1) the name of the foreign limited liability company as it appears on
+the index of names of existing domestic and authorized foreign limited
+liability companies of any type or kind in the department of state, and
+the fictitious name, if any, the foreign limited liability company has
+agreed to use in this state pursuant to section eight hundred two of
+this article;
+  (2) the jurisdiction of its organization;
+  (3) the date it was authorized to do business in this state;
+  (4) each amendment effected thereby; and
+  (5) if the true name of the foreign limited liability company is to be
+changed, a statement that the change of name has been effected under the
+laws of the jurisdiction of its formation and the date the change was so
+effected.
+  (b) Every foreign limited liability company that has received a filing
+receipt entitled "Certificate of authority of... (name of foreign
+limited liability company) under section eight hundred five of the
+Limited Liability Company Law," evidencing authority as provided herein,
+shall, within ninety days after it has changed its name in the
+jurisdiction of its formation, file an amendment to its application with
+the department of state under subdivision (a) of this section.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 81", "kind": "section", "law_id": "CAL", "location_id": "81", "path": "ARTICLE 8 › SECTION 81", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/81.md", "title": "Deposit of refuse in navigable waters"} -->
+# Canal Law § 81 — Deposit of refuse in navigable waters
+
+[Canal Law](../README.md) › [Article 8 — Canal Navigation](README.md)
+
+```text
+  § 81. Deposit of refuse in navigable waters. It shall be unlawful to
+throw from or otherwise deposit, either from or out of any float or from
+the shore, wharf, manufacturing establishment or mill of any kind,
+refuse or other matter of any description, into any of the waters of the
+canal system or into any waters dredged at public expense and used for
+canal purposes. Every person that shall violate the provisions of this
+section shall be subject to damages to the amount as will compensate the
+corporation for the expenses involved in restoring such waters to its
+useful condition to meet the needs of canal navigation. It shall also be
+unlawful for any person to obstruct the navigation of a canal by the
+improper mooring, management or conduct of a float, or by placing any
+obstruction on the banks thereof.
+```

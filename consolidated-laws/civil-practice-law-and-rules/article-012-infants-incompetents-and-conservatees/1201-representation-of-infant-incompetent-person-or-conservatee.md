@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1201", "kind": "section", "law_id": "CVP", "location_id": "1201", "path": "ARTICLE 12 › SECTION 1201", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1201.md", "title": "Representation of infant, incompetent person, or conservatee"} -->
+# Civil Practice Law and Rules § 1201 — Representation of infant, incompetent person, or conservatee
+
+[Civil Practice Law and Rules](../README.md) › [Article 12 — Infants, Incompetents and Conservatees](README.md)
+
+```text
+  § 1201. Representation of infant, incompetent person, or conservatee.
+Unless the court appoints a guardian ad litem, an infant shall appear by
+the guardian of his property or, if there is no such guardian, by a
+parent having legal custody, or, if there is no such parent, by another
+person or agency having legal custody, or, if the infant is married, by
+an adult spouse residing with the infant, a person judicially declared
+to be incompetent shall appear by the committee of his property, and a
+conservatee shall appear by the conservator of his property. A person
+shall appear by his guardian ad litem if he is an infant and has no
+guardian of his property, parent, or other person or agency having legal
+custody, or adult spouse with whom he resides, or if he is an infant,
+person judicially declared to be incompetent, or a conservatee as
+defined in section 77.01 of the mental hygiene law and the court so
+directs because of a conflict of interest or for other cause, or if he
+is an adult incapable of adequately prosecuting or defending his rights.
+```

@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 154", "kind": "section", "law_id": "WKC", "location_id": "154", "path": "ARTICLE 8 › SECTION 154", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/154.md", "title": "Construction of article"} -->
+# Workers' Compensation Law § 154 — Construction of article
+
+[Workers' Compensation Law](../README.md) › [Article 8 — Administration](README.md)
+
+```text
+  § 154. Construction of article. This article shall be construed as a
+continuation of those parts of article two of chapter thirty-six of the
+laws of nineteen hundred nine, entitled "An act relating to labor,
+constituting chapter thirty-one of the consolidated laws," as amended by
+chapter fifty of the laws of nineteen hundred twenty-one, and acts
+amendatory thereof, in so far as it relates to the administration of the
+workmen's compensation law, and not as a new enactment.
+```

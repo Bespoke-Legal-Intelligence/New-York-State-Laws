@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 21-1103", "kind": "section", "law_id": "ENV", "location_id": "21-1103", "path": "ARTICLE 21 › TITLE 11 › SECTION 21-1103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/21-1103.md", "title": "State member of the basin panel and representative; planning members"} -->
+# Environmental Conservation Law § 21-1103 — State member of the basin panel and representative; planning members
+
+[Environmental Conservation Law](../../README.md) › [Article 21 — Pollution Control Compacts](../README.md) › [Title 11 — Champlain Basin Compact](README.md)
+
+```text
+§ 21-1103. State member of the basin panel and representative; planning
+             members.
+  1. As provided in the third subdivision of section three of article
+three of the compact the Governor shall be this state's member on the
+basin panel established thereby or shall appoint a representative to act
+for him. He shall appoint four planning members of the commissions to
+serve at his pleasure: a citizen who is a resident of the valley, a
+state planning official, a state parks official and an officer of the
+Department of Environmental Conservation.
+  2. The legislative member shall be elected by a majority vote of the
+legislators elected from the counties of Clinton, Essex, Warren and
+Washington.
+  3. Any person, member or alternate, serving on the interstate
+commission on Lake Champlain basin (Incochamp) pursuant to this section
+shall be reimbursed for all necessary expenses incurred as an incident
+of such service, and such reimbursement shall be from the funds of said
+person's department or office. For this purpose the citizen member shall
+be considered as a member of the executive department.
+```

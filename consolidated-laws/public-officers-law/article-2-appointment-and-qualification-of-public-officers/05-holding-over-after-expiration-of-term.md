@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 5", "kind": "section", "law_id": "PBO", "location_id": "5", "path": "ARTICLE 2 › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/5.md", "title": "Holding over after expiration of term"} -->
+# Public Officers Law § 5 — Holding over after expiration of term
+
+[Public Officers Law](../README.md) › [Article 2 — Appointment and Qualification of Public Officers](README.md)
+
+```text
+  § 5. Holding over after expiration of term.  Every officer except a
+judicial officer, a notary public, a commissioner of deeds and an
+officer whose term is fixed by the constitution, having duly entered on
+the duties of his office, shall, unless the office shall terminate or be
+abolished, hold over and continue to discharge the duties of his office,
+after the expiration of the term for which he shall have been chosen,
+until his successor shall be chosen and qualified; but after the
+expiration of such term, the office shall be deemed vacant for the
+purpose of choosing his successor. An officer so holding over for one or
+more entire terms, shall, for the purpose of choosing his successor, be
+regarded as having been newly chosen for such terms. An appointment for
+a term shortened by reason of a predecessor holding over, shall be for
+the residue of the term only.
+```

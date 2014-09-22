@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 239-R", "kind": "section", "law_id": "GMU", "location_id": "239-R", "path": "ARTICLE 12-D › SECTION 239-R", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/239-R.md", "title": "General obligations"} -->
+# General Municipal Law § 239-R — General obligations
+
+[General Municipal Law](../README.md) › [Article 12-D — Commissions On Human Rights](README.md)
+
+```text
+  § 239-r. General obligations. A commission on human rights created
+under the provisions of section two hundred thirty-nine-o of this
+article shall discharge the following obligations. (a) To receive
+complaints of alleged discrimination because of race, creed, color or
+national origin, to seek the active assistance of the division of human
+rights in the solution of complaints which fall within the jurisdiction
+of the division and to prepare its own plans in the case of other
+complaints with a view to reducing and eliminating such alleged
+discrimination through the process of conference, conciliation and
+persuasion.
+  (b) To hold conferences, and other public meetings in the interest of
+the constructive resolution of racial, religious and nationality group
+tensions and the prejudice and discrimination occasioned thereby.
+  (c) To issue such publications and reports of investigation as in its
+judgment will tend to effectuate the purposes of this article.
+  (d) To enlist the cooperation and participation of the various racial,
+religious and nationality groups, community organizations, industry and
+labor organizations media or mass communication, fraternal and
+benevolent associations, and other groups in an educational campaign
+devoted to fostering among the diverse groups of the community mutual
+esteem, justice and equity and opening new opportunities into all phases
+of community life for all individuals.
+  (e) To encourage and stimulate agencies under the jurisdiction of the
+governing board which created the commission to take such action as will
+fulfill the purposes of this article.
+  (f) To submit an annual report to the governing board or boards and to
+furnish a copy thereof to the division of human rights.
+```

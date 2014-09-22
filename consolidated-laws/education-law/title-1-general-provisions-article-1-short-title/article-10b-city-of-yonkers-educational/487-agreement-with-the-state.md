@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Education Law § 487", "kind": "section", "law_id": "EDN", "location_id": "487", "path": "TITLE 1 › ARTICLE 10-B › SECTION 487", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/487.md", "title": "Agreement with the state"} -->
+# Education Law § 487 — Agreement with the state
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 10-B — City of Yonkers Educational Construction Fund](README.md)
+
+```text
+  § 487. Agreement with the state.  The state does hereby pledge to and
+agree with the holders of any notes or bonds issued under this article,
+that the state will not limit or alter the rights hereby vested in the
+fund to fulfill the terms of any agreements made with the holders
+thereof, or in any way impair the rights and remedies of such holders
+until such notes or bonds, together with the interest thereon, with
+interest on any unpaid installments of interest, and all costs and
+expenses in connection with any action or proceeding by or on behalf of
+such holders, are fully met and discharged.  The fund is authorized to
+include this pledge and agreement of the state in any agreement with the
+holders of such notes or bonds.
+```

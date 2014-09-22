@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Uniform City Court Act § 1912", "kind": "section", "law_id": "UCT", "location_id": "1912", "path": "ARTICLE 19 › SECTION 1912", "repealed": false, "repealed_date": null, "source": "nys-laws:UCT/1912.md", "title": "Actions in which no fees to be charged; employees"} -->
+# Uniform City Court Act § 1912 — Actions in which no fees to be charged; employees
+
+[Uniform City Court Act](../README.md) › [Article 19 — Costs and Fees](README.md)
+
+```text
+§ 1912. Actions in which no fees to be charged; employees.
+  Employee's action. When the action is brought by an employee against
+an employer for services performed by such employee, the clerk shall not
+demand or receive any fees whatsoever from the plaintiff or his
+attorney, if the plaintiff shall present proof by his own affidavit that
+his demand does not exceed three hundred dollars exclusive of interest
+and costs; that he is a resident of or an employee in the county; that
+he has a good and meritorious cause of action against the defendant and
+the nature thereof; and that he has made either a written or a personal
+demand upon the defendant or his agent for payment thereof and payment
+was refused; provided that if the plaintiff shall demand a trial by
+jury, he must pay to the clerk the fees therefor.
+```

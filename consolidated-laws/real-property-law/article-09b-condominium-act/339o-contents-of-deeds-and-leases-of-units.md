@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 339-O", "kind": "section", "law_id": "RPP", "location_id": "339-O", "path": "ARTICLE 9-B › SECTION 339-O", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/339-O.md", "title": "Contents of deeds and leases of units"} -->
+# Real Property Law § 339-O — Contents of deeds and leases of units
+
+[Real Property Law](../README.md) › [Article 9-B — Condominium Act](README.md)
+
+```text
+  § 339-o. Contents of deeds and leases of units. Deeds and leases of
+units shall include the following particulars:
+  1. Description of the land as provided in subsection two of section
+three hundred thirty-nine-n and the liber, page and date of recording of
+the declaration or solely by naming the city, village or town and the
+county in which the unit is located and referring to the liber, page and
+date of recording of the declaration.
+  2. The unit designation of the unit in the declaration and any other
+data necessary for its proper identification.
+  3. Statement of the use for which the unit is intended.
+  4. The common interest appertaining to the unit.
+  5. Any further details which the grantor and grantee may deem
+desirable to set forth.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 333", "kind": "section", "law_id": "LAB", "location_id": "333", "path": "ARTICLE 12 › SECTION 333", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/333.md", "title": "Powers"} -->
+# Labor Law § 333 — Powers
+
+[Labor Law](../README.md) › [Article 12 — Fair Wages Task Force](README.md)
+
+```text
+  § 333. Powers. Notwithstanding any other state or local law or
+regulation to the contrary, the task force shall have the following
+powers:
+  1. to inspect books, records and premises of employers, with respect
+to their respective employees to determine compliance with this chapter,
+including but not limited to, minimum wage, overtime compensation,
+unemployment insurance coverage and child labor; and
+  2. when in the course of inspections pursuant to subdivision one of
+this section, (a) to inspect books and records of employers with respect
+to their respective employees concerning the deduction and remittance to
+the proper authorities of all federal, state and local payroll taxes and
+to refer to the appropriate authorities any instance in which there is
+reasonable cause to believe that the payment of federal, state and local
+payroll taxes is being evaded; and
+  (b) to take action authorized by this chapter necessary to implement
+its provisions.
+```

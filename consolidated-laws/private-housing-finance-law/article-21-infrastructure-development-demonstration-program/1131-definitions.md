@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1131", "kind": "section", "law_id": "PVH", "location_id": "1131", "path": "ARTICLE 21 › SECTION 1131", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1131.md", "title": "Definitions"} -->
+# Private Housing Finance Law § 1131 — Definitions
+
+[Private Housing Finance Law](../README.md) › [Article 21 — Infrastructure Development Demonstration Program](README.md)
+
+```text
+  § 1131. Definitions. 1. "Eligible applicant" shall mean a public
+benefit corporation, not-for-profit corporation or charitable
+organization whose purpose includes the construction or rehabilitation
+of affordable housing or a municipality.
+  2. "Infrastructure improvements" shall mean the installation or
+upgrading of water and sewer lines to a public connection, the
+installation or upgrading of private wells and sanitary systems, storm
+sewers and road and sidewalk construction where required by local zoning
+ordinances and the installation of gas and electric lines and other site
+improvements or site preparation which is necessary for the creation of
+affordable housing.
+  3. "Affordable housing project" shall mean residential housing being
+rehabilitated or constructed in conjunction with a state, federal or
+local program to produce affordable housing.
+  4. "Agency" shall mean the New York state housing finance agency.
+  5. "Municipality" shall mean a county, city, town or village.
+```

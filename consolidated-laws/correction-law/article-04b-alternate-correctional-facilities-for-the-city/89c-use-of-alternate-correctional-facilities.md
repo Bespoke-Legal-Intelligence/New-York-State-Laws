@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 89-C", "kind": "section", "law_id": "COR", "location_id": "89-C", "path": "ARTICLE 4-B › SECTION 89-C", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/89-C.md", "title": "Use of alternate correctional facilities"} -->
+# Correction Law § 89-C — Use of alternate correctional facilities
+
+[Correction Law](../README.md) › [Article 4-B — Alternate Correctional Facilities For the City of New York](README.md)
+
+```text
+  § 89-c. Use of alternate correctional facilities. 1. Alternate
+correctional facilities shall serve only to supplement local
+correctional facilities within the city of New York. In considering
+whether to assign an eligible inmate to an alternate correctional
+facility or to transfer such inmate from such facility, preference shall
+be given to available space suitable for housing sentenced inmates at
+local correctional facilities within the city of New York.
+  2. Consistent with the provisions of this article and subject to the
+applicable rules and regulations for operation of alternate correctional
+facilities and the provisions of the operation agreement, assignment of
+inmates to alternate correctional facilities shall be made jointly by
+the commissioner and the commissioner of the New York city department of
+correction. In making such assignments, consideration shall be given to
+inmates who have a greater period of time remaining to be served on
+their sentences, taking into account any applicable jail time and good
+behavior time. No inmate who is eligible for educational services
+pursuant to subdivision seven of section three thousand two hundred two
+of the education law and who chooses to avail himself of such services
+shall be assigned to an alternate correctional facility.
+  3. Inmates assigned to alternate correctional facilities shall be
+returned to a local correctional facility within the city of New York at
+any such time as the commissioner determines:
+  (a) that the assignment was not in accordance with this article, or
+  (b) that the confinement of an inmate in an alternate correctional
+facility is no longer suitable because it potentially endangers the
+safety, security or order of the facility.
+  4. Any inmate who is eligible for educational services pursuant to
+subdivision seven of section three thousand two hundred two of the
+education law shall also be returned to a New York city local
+correctional facility if he chooses to avail himself of such services.
+  5. Inmates assigned to alternate correctional facilities shall be
+returned to a New York city correctional facility within the city of New
+York no later than seven days prior to their scheduled release or
+discharge from incarceration.
+  6. Notwithstanding any other provisions of law, no inmates from
+jurisdictions other than the city of New York shall be housed at any
+time in an alternate correctional facility.
+```

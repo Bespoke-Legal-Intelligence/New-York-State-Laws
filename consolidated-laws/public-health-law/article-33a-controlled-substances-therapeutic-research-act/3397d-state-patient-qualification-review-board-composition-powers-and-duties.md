@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3397-D", "kind": "section", "law_id": "PBH", "location_id": "3397-D", "path": "ARTICLE 33-A › SECTION 3397-D", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3397-D.md", "title": "State patient qualification review board; composition; powers and duties"} -->
+# Public Health Law § 3397-D — State patient qualification review board; composition; powers and duties
+
+[Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
+
+```text
+  § 3397-d. State patient qualification review board; composition;
+powers and duties.  1. The commissioner shall appoint a state patient
+qualification review board of no less than three nor more than five
+members. The state patient qualification review board shall be comprised
+of:
+  (a) A physician licensed to practice medicine in New York and
+certified by the American board of ophthalmology;
+  (b) A physician licensed to practice medicine in New York and
+certified by the American board of internal medicine and also certified
+in the subspecialty of medical oncology;
+  (c) A physician licensed to practice medicine in New York and
+certified in psychiatry by the American board of psychiatry and
+neurology; and
+  (d) Any other members that the commissioner may deem necessary.
+  2. Members of such board shall be appointed for three year terms
+except that the term of those first appointed shall be arranged so that
+as nearly as possible an equal number shall terminate annually. A
+vacancy occurring during a term shall be filled by an appointment by the
+commissioner for the unexpired term. The commissioner shall designate
+the chairman of the board. Any member may be removed from the board at
+the pleasure of the commissioner.
+  3. Each member of the board shall receive up to one hundred fifty
+dollars as prescribed by the commissioner for each day devoted to board
+work not to exceed forty-five hundred dollars in any one year, and shall
+be reimbursed for necessary expenses.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "NYS Project Finance Agency Act § 21-A", "kind": "section", "law_id": "NYP", "location_id": "21-A", "path": "SECTION 21-A", "repealed": false, "repealed_date": null, "source": "nys-laws:NYP/21-A.md", "title": "Actions against corporation"} -->
+# NYS Project Finance Agency Act § 21-A — Actions against corporation
+
+[NYS Project Finance Agency Act](README.md)
+
+```text
+  § 21-a. Actions against corporation. Except in an action for wrongful
+death, in any case founded upon tort a notice of claim shall be required
+as a condition precedent to the commencement of an action or special
+proceeding against the agency and the provisions of section fifty-e of
+the general municipal law shall govern the giving of such notice. No
+such action shall be commenced more than one year and ninety days after
+the cause of action therefor shall have accrued. An action for wrongful
+death shall be commenced in accordance with the notice of claim and time
+limitation provisions of title eleven of article nine of the public
+authorities law.
+```

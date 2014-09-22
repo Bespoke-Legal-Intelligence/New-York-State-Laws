@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1705", "kind": "section", "law_id": "BSC", "location_id": "1705", "path": "ARTICLE 17 › SECTION 1705", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1705.md", "title": "Termination of benefit corporation status"} -->
+# Business Corporation Law § 1705 — Termination of benefit corporation status
+
+[Business Corporation Law](../README.md) › [Article 17 — Benefit Corporations](README.md)
+
+```text
+§ 1705. Termination of benefit corporation status.
+  (a) A benefit corporation may terminate its status as such and cease
+to be subject to this article by amending its certificate of
+incorporation to delete the statement that the corporation is a benefit
+corporation.  The amendment shall not be effective unless it is adopted
+by at least the minimum status vote.
+  (b) If a benefit corporation is a party to a merger or consolidation
+in which the surviving or new corporation will not be a benefit
+corporation, the plan of merger or consolidation shall not be effective
+unless it is adopted by at least the minimum status vote in addition to
+any other vote required by this chapter, the certificate of
+incorporation or the bylaws.
+  (c) Any benefit corporation that is party to a merger or consolidation
+in which shares of stock of such benefit corporation will be converted
+into a right to receive shares of stock of a corporation that is not a
+benefit corporation must approve the plan of merger or consolidation by
+at least the minimum status vote in addition to any other vote required
+by this chapter, the certificate of incorporation or the bylaws.
+  (d) A sale, lease, conveyance, exchange, transfer, or other
+disposition of all or substantially all of the assets of a benefit
+corporation, unless the transaction is in the usual and regular course
+of business of the benefit corporation, shall not be effective unless
+the transaction is approved by at least the minimum status vote in
+addition to any other vote required by this chapter, the certificate of
+incorporation or the bylaws.
+```

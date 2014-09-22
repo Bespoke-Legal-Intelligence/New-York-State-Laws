@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 380-K", "kind": "section", "law_id": "GBS", "location_id": "380-K", "path": "ARTICLE 25 › SECTION 380-K", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/380-K.md", "title": "Compliance procedures"} -->
+# General Business Law § 380-K — Compliance procedures
+
+[General Business Law](../README.md) › [Article 25 — Fair Credit Reporting Act](README.md)
+
+```text
+  § 380-k. Compliance procedures. Every consumer or reporting agency
+shall maintain reasonable procedures designed to avoid violations of
+sections three hundred eighty-b, three hundred eighty-j and three
+hundred eighty-t of this article and to limit the furnishing of consumer
+reports to the purposes listed under said section three hundred
+eighty-b. These procedures shall require all prospective users of the
+information to identify themselves, certify the purposes for which the
+information is sought, and certify that the information will be used for
+no other purpose. Every consumer reporting agency shall make a
+reasonable effort to verify the identity of a new prospective user and
+the uses certified by such prospective user prior to furnishing such
+user a consumer report. No consumer reporting agency may furnish a
+consumer report to any person if it has reasonable grounds for believing
+that the consumer report will not be used for a purpose listed in
+section three hundred eighty-b of this article.
+```

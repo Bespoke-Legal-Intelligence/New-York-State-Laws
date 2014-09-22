@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1121", "kind": "section", "law_id": "EDN", "location_id": "1121", "path": "TITLE 1 › ARTICLE 23-A › SECTION 1121", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1121.md", "title": "Service centers for independent living; purpose and duties"} -->
+# Education Law § 1121 — Service centers for independent living; purpose and duties
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 23-A — Service Centers For Independent Living](README.md)
+
+```text
+  § 1121. Service centers for independent living; purpose and duties.
+1. A service center for independent living shall be a community based
+non-residential program designed to promote independent living for
+persons with disabilities.
+  (a) Such center shall:
+  (i) be a private not-for-profit corporation, pursuant to subdivision
+five of paragraph a of section one hundred two of the not-for-profit
+corporation law; provided, however, that persons with disabilities
+comprise at least fifty-one percent of the membership of the board of
+directors;
+  (ii) be staffed by persons experienced in assisting persons with
+disabilities;
+  (iii) provide services designed to meet the needs of persons with
+disabilities, including such services as assisting persons with
+disabilities to obtain housing, employment referral, transportation
+referral, attendant care, independent living skills, peer counseling,
+advocacy services, job training, health care, homemaker services, and
+other such services as approved by the commissioner;
+  (iv) train personnel for the purpose of attendant care in assisting
+and serving persons with disabilities; and
+  (v) serve persons with disabilities.
+  (b) Such center may also, but need not limit itself to, provide
+disability awareness programs, peer counseling, role modeling and any
+other appropriate services within elementary and secondary schools.
+  2. Such service centers shall not be established or operated as a
+residential or housing facility.
+  3. Such service centers shall make maximum use of existing resources
+available to persons with disabilities and shall not duplicate any
+existing services or programs, to the extent that such services or
+programs are available through other state sources to meet the needs of
+persons with disabilities. Such centers shall however provide necessary
+information and referral to assist a person with a disability in
+obtaining such services and coordinate where possible the delivery of
+such services to persons with disabilities.
+  4. Such service centers shall be in compliance with all applicable
+local laws and ordinances.
+```

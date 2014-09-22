@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 81", "kind": "section", "law_id": "NAV", "location_id": "81", "path": "ARTICLE 5 › SECTION 81", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/81.md", "title": "Supervisor to serve notice"} -->
+# Navigation Law § 81 — Supervisor to serve notice
+
+[Navigation Law](../README.md) › [Article 5 — Tidewater Navigation](README.md)
+
+```text
+  § 81. Supervisor to serve notice. It shall be the duty of the
+supervisor of the town or the president of the incorporated village in
+which any such tidewater creek or estuary is located, in whole or in
+part, to serve written or printed notice on the chief officer of the
+municipal corporation so diverting water from the stream of fresh water,
+or on the superintendent or other person in charge of the works, at any
+time, of the fact of such tidewater creek or estuary not being
+maintained at the depth and width herein provided for, and the said
+municipal corporation shall within fifteen days thereafter, by dredging
+or otherwise, restore such navigable stream to the depth as specified by
+this article; and it shall not be lawful for such corporation to
+continue the diversion of any such fresh water stream after said fifteen
+days have expired from the time of serving such notice, until the
+tidewater creek or estuary into which any such stream flows shall have
+been deepened to the required depth and width.  If such municipal
+corporation disputes any of the allegations of fact contained in such
+notice, it must within three days after receiving the notice cause a
+reply in writing to be served on the town or village officer whose name
+is signed thereto by delivering the same to him personally, or to the
+town clerk or village clerk as the case may be, and such reply in
+writing must state what alleged fact is disputed, and also clearly
+specify the reasons for controverting the allegations of fact contained
+in the notice.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Volunteer Ambulance Workers' Benefit Law § 11-B", "kind": "section", "law_id": "VAW", "location_id": "11-B", "path": "ARTICLE 2 › SECTION 11-B", "repealed": false, "repealed_date": null, "source": "nys-laws:VAW/11-B.md", "title": "Hazardous exposures"} -->
+# Volunteer Ambulance Workers' Benefit Law § 11-B — Hazardous exposures
+
+[Volunteer Ambulance Workers' Benefit Law](../README.md) › [Article 2 — Coverage and Benefits](README.md)
+
+```text
+  § 11-b. Hazardous exposures. If, as a result of services performed in
+line of duty, a volunteer ambulance worker is exposed to or comes in
+contact with any poisons, gases, x-rays, radium, radioactive materials
+or other potentially harmful substances or matter, the captain or other
+executive officer of the ambulance department, volunteer ambulance
+company or ambulance district of which he is a member may authorize the
+volunteer ambulance worker to obtain such examinations, tests, treatment
+and care as are immediately necessary to determine whether he is
+injured.  Any such authorization may be granted prior to the giving of a
+notice of injury under this chapter. In any such case, the volunteer
+ambulance worker shall be deemed to have been injured and shall be
+entitled to treatment and care and disability benefits as provided in
+this chapter.
+```

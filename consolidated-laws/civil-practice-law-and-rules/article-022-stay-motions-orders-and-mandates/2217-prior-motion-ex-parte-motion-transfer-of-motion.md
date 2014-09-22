@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 2217", "kind": "section", "law_id": "CVP", "location_id": "2217", "path": "ARTICLE 22 › SECTION 2217", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/2217.md", "title": "Prior motion; ex parte motion; transfer of motion"} -->
+# Civil Practice Law and Rules § 2217 — Prior motion; ex parte motion; transfer of motion
+
+[Civil Practice Law and Rules](../README.md) › [Article 22 — Stay, Motions, Orders and Mandates](README.md)
+
+```text
+  Rule 2217. Prior motion; ex parte motion; transfer of motion.
+  (a) Prior motion. Any motion may be referred to a judge who decided a
+prior motion in the action.
+  (b) Affidavit on ex parte motion. An ex parte motion shall be
+accompanied by an affidavit stating the result of any prior motion for
+similar relief and specifying the new facts, if any, that were not
+previously shown.
+  (c) Transfer of motion. If a motion is made to a judge who is or will
+be for any reason unable to hear it, it may be transferred by order of
+such judge or by written stipulation of the parties to any other judge
+to whom it might originally have been made.
+  (d) Rules of the chief administrator of the courts. The chief
+administrator may by rule exclude motions within a department, district
+or county from the operation of subdivisions (a) and (c) of this rule.
+```

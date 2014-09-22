@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 2501", "kind": "section", "law_id": "CVP", "location_id": "2501", "path": "ARTICLE 25 › SECTION 2501", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/2501.md", "title": "Undertaking; definition"} -->
+# Civil Practice Law and Rules § 2501 — Undertaking; definition
+
+[Civil Practice Law and Rules](../README.md) › [Article 25 — Undertakings](README.md)
+
+```text
+  § 2501. Undertaking; definition. Undertaking includes
+  1. Any obligation, whether or not the principal is a party thereto,
+which contains a covenant by a surety to pay the required amount, as
+specified therein, if any required condition, as specified therein or as
+provided in subdivision (c) section 2502, is not fulfilled; and
+  2. any deposit, made subject to the required condition, of the
+required amount in legal tender of the United States or in face value of
+unregistered bonds of the United States or of the state.
+```

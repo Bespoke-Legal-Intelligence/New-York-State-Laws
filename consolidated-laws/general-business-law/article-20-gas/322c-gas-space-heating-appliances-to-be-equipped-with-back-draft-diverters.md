@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 322-C", "kind": "section", "law_id": "GBS", "location_id": "322-C", "path": "ARTICLE 20 › SECTION 322-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/322-C.md", "title": "Gas space heating appliances to be equipped with back draft diverters and automatic shutoff devices"} -->
+# General Business Law § 322-C — Gas space heating appliances to be equipped with back draft diverters and automatic shutoff devices
+
+[General Business Law](../README.md) › [Article 20 — Gas](README.md)
+
+```text
+  § 322-c.  Gas space heating appliances to be equipped with back draft
+diverters and automatic shutoff devices. On and after July first,
+nineteen hundred sixty-five it shall be unlawful to manufacture or
+assemble, or to sell or offer for sale, or to install, use or maintain
+in any building used or occupied as a residence, any space heating
+appliance using natural and/or manufactured gas fuel unless such
+appliance is equipped with (a) a back draft diverter with vents of
+sufficient capacity to permit the discharge of combustion gases away
+from the burning gas, except where such appliance (i) is provided with a
+sealed combustion chamber directly vented to the outside, or (ii) is
+listed by an accredited third party agency as an unvented appliance in
+compliance with American National Standard Z21.11.2 and meets or exceeds
+standards established by rules and regulations promulgated, and which
+may be periodically amended, by the department of health and approved by
+the state fire prevention and building code council, and (b) an
+automatic shutoff device to prevent the flow of gas if the flame or
+pilot light, thereof is extinguished; provided, however, that nothing
+contained herein shall be construed as repealing or in any manner
+limiting, restricting or diminishing any power conferred by any
+provision of law upon any city having a population of one million or
+more, or any body, agency or officer thereof, to enact or adopt local
+laws, ordinances, other local enactments or rules or regulations
+relating in any manner to gas space heating appliances, so long as such
+local laws, ordinances, enactments, rules or regulations in so far as
+the same relate to the subject matter of this section, are not less
+restrictive than the provisions of this section.  A violation of the
+provisions of this section shall constitute a misdemeanor.
+```

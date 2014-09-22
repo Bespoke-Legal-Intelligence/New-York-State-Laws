@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "State Technology Law § 303", "kind": "section", "law_id": "STT", "location_id": "303", "path": "ARTICLE 3 › SECTION 303", "repealed": false, "repealed_date": null, "source": "nys-laws:STT/303.md", "title": "Electronic facilitator"} -->
+# State Technology Law § 303 — Electronic facilitator
+
+[State Technology Law](../README.md) › [Article 3 — Electronic Signatures and Records Act](README.md)
+
+```text
+  § 303. Electronic facilitator. 1. The office of information technology
+services shall be the electronic facilitator and administer this
+article. In addition to the authority, duties and responsibilities set
+forth in article one of this chapter, the electronic facilitator shall
+have the authority, duties and responsibilities granted in this article.
+  2. The electronic facilitator shall have the following functions,
+powers, and duties:
+  (a) To promulgate rules and regulations consistent with the provisions
+of this article. In developing rules and regulations, the electronic
+facilitator shall seek the advice of the attorney general, the state
+comptroller, the director of budget, government and private entities and
+individuals as the electronic facilitator deems appropriate.
+  (b) To cooperate with government and private entities and individuals
+in order to assist in the development and implementation of this
+article.
+  (c) To develop guidelines for the improvement of business and commerce
+by electronic means. Such guidelines shall identify preferred technology
+standards relating to security, confidentiality and privacy of
+electronic signatures and electronic records.
+```

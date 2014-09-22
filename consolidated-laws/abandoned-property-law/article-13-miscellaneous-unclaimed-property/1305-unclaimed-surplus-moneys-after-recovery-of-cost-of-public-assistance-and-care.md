@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 1305", "kind": "section", "law_id": "ABP", "location_id": "1305", "path": "ARTICLE 13 › SECTION 1305", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/1305.md", "title": "Unclaimed surplus moneys after recovery of cost of public assistance and care"} -->
+# Abandoned Property Law § 1305 — Unclaimed surplus moneys after recovery of cost of public assistance and care
+
+[Abandoned Property Law](../README.md) › [Article 13 — Miscellaneous Unclaimed Property](README.md)
+
+```text
+  § 1305. Unclaimed surplus moneys after recovery of cost of public
+assistance and care.
+  Any amount comprising a balance credited to an estate or person
+pursuant to sections one hundred fifty-two-b or three hundred sixty of
+the social services law which, on June thirtieth in any year, has for
+four years from the date of such credit remained unclaimed by the estate
+or person entitled thereto shall be deemed abandoned property.
+  On or before the tenth day of September in each year every public
+welfare official shall pay such abandoned property to the state
+comptroller. Such payment shall be accompanied by a written report,
+affirmed as true and accurate under penalty of perjury, in such form as
+the state comptroller may prescribe.
+```

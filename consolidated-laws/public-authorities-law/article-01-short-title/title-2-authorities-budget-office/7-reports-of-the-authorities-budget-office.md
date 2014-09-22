@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 7", "kind": "section", "law_id": "PBA", "location_id": "7", "path": "ARTICLE 1 › TITLE 2 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/7.md", "title": "Reports of the authorities budget office"} -->
+# Public Authorities Law § 7 — Reports of the authorities budget office
+
+[Public Authorities Law](../../README.md) › [Article 1 — Short Title](../README.md) › [Title 2 — Authorities Budget Office](README.md)
+
+```text
+  § 7. Reports of the authorities budget office. On July first, two
+thousand ten and annually thereafter the authorities budget office shall
+issue reports on its findings and analyses to the governor, the chair
+and ranking minority member of the senate finance committee, the chair
+and ranking minority member of the assembly ways and means committee,
+the chair and ranking minority member of the senate standing committee
+on corporations, authorities and commissions, the chair and ranking
+minority member of the assembly standing committee on corporations,
+authorities and commissions, the state comptroller and the attorney
+general, with conclusions and opinions concerning the performance of
+public authorities and to study, review and report on the operations,
+practices and finances of state and local authorities as defined by
+section two of this article.
+```

@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1195", "kind": "section", "law_id": "VAT", "location_id": "1195", "path": "TITLE 7 › ARTICLE 31 › SECTION 1195", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1195.md", "title": "Chemical test evidence"} -->
+# Vehicle and Traffic Law § 1195 — Chemical test evidence
+
+[Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 31 — Alcohol and Drug-related Offenses and Procedures Applicable Thereto](README.md)
+
+```text
+  § 1195. Chemical test evidence. 1. Admissibility. Upon the trial of
+any action or proceeding arising out of actions alleged to have been
+committed by any person arrested for a violation of any subdivision of
+section eleven hundred ninety-two of this article, the court shall admit
+evidence of the amount of alcohol or drugs in the defendant's blood as
+shown by a test administered pursuant to the provisions of section
+eleven hundred ninety-four of this article.
+  2. Probative value. The following effect shall be given to evidence of
+blood-alcohol content, as determined by such tests, of a person arrested
+for violation of section eleven hundred ninety-two of this article:
+  (a) Evidence that there was .05 of one per centum or less by weight of
+alcohol in such person's blood shall be prima facie evidence that the
+ability of such person to operate a motor vehicle was not impaired by
+the consumption of alcohol, and that such person was not in an
+intoxicated condition;
+  (b) Evidence that there was more than .05 of one per centum but less
+than .07 of one per centum by weight of alcohol in such person's blood
+shall be prima facie evidence that such person was not in an intoxicated
+condition, but such evidence shall be relevant evidence, but shall not
+be given prima facie effect, in determining whether the ability of such
+person to operate a motor vehicle was impaired by the consumption of
+alcohol; and
+  (c) Evidence that there was .07 of one per centum or more but less
+than .08 of one per centum by weight of alcohol in such person's blood
+shall be prima facie evidence that such person was not in an intoxicated
+condition, but such evidence shall be given prima facie effect in
+determining whether the ability of such person to operate a motor
+vehicle was impaired by the consumption of alcohol.
+  3. Suppression. A defendant who has been compelled to submit to a
+chemical test pursuant to the provisions of subdivision three of section
+eleven hundred ninety-four of this article may move for the suppression
+of such evidence in accordance with article seven hundred ten of the
+criminal procedure law on the grounds that the order was obtained and
+the test administered in violation of the provisions of such subdivision
+or any other applicable law.
+```

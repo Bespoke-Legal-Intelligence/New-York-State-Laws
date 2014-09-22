@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1287", "kind": "section", "law_id": "PBA", "location_id": "1287", "path": "ARTICLE 5 › TITLE 12 › SECTION 1287", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1287.md", "title": "Construction contracts"} -->
+# Public Authorities Law § 1287 — Construction contracts
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 12 — New York State Environmental Facilities Corporation](README.md)
+
+```text
+  § 1287. Construction contracts. 1. Construction contracts other than
+for resource recovery facilities let by the corporation shall be in
+conformity with the applicable provisions of section one hundred
+thirty-five of the state finance law, but the corporation in its
+discretion may assign such contracts for supervision and coordination to
+the successful bidder for any subdivision of work for which the
+corporation receives bids. Contracts for resource recovery facilities
+may be awarded by the corporation in the same manner as by a
+municipality pursuant to section one hundred twenty-w of the general
+municipal law.
+  2. Except in the case of contracts for resource recovery facilities
+awarded consistent with subdivision one of this section, the corporation
+shall not award any construction contract involving an expenditure of
+more than ten thousand dollars except to the lowest bidder who in its
+opinion is qualified to perform the work required and is responsible and
+reliable. The lowest bid shall be deemed to be that which specifically
+states the lowest gross sum for which the entire work will be performed,
+including all items in the bid proposal. The lowest bid shall be
+determined by the corporation on the basis of the gross sum for which
+the entire work will be performed, arrived at by a correct computation
+of all items specified in the bid therefor at the unit prices contained
+in the bid. The corporation may, however, reject any or all bids or
+waive any informality in a bid if it believes that the public interest
+will be promoted thereby. The corporation may reject any bid if in its
+judgment the business and technical organization, plant, resources,
+financial standing or experience of the bidder, compared with the work
+to be performed, justifies such rejection.
+  3. Any construction contract awarded by the corporation shall contain
+such other terms and conditions, and such provisions for penalties, as
+the corporation may deem desirable.
+  4. Notwithstanding the provisions of any other law to the contrary,
+all contracts for public work awarded by the New York state
+environmental facilities corporation pursuant to this section shall be
+in accordance with section one hundred thirty-nine-f of the state
+finance law.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Military Law § 90", "kind": "section", "law_id": "MIL", "location_id": "90", "path": "ARTICLE 4 › SECTION 90", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/90.md", "title": "Enlistment, period of service, transfer, discharge, and extension of enlistment"} -->
+# Military Law § 90 — Enlistment, period of service, transfer, discharge, and extension of enlistment
+
+[Military Law](../README.md) › [Article 4 — Enlisted Personnel of the Organized Militia](README.md)
+
+```text
+  § 90. Enlistment, period of service, transfer, discharge, and
+extension of enlistment.  1. The qualifications for enlistment and
+re-enlistment, the periods of enlistment, re-enlistment and voluntary
+extension of enlistment, the period of service, the form of oath to be
+taken, and the manner and form of transfer and discharge of enlisted
+personnel of the forces of the organized militia shall be those
+prescribed by applicable laws of the United States and by this chapter
+and by regulations issued thereunder.
+  2. a. The governor is authorized to extend the period of any
+enlistment, re-enlistment, voluntary extension of enlistment, and the
+period of service of enlisted personnel of the organized militia for a
+period not to exceed six months after the termination of an emergency
+declared by him, the legislature or congress.
+  b. Whenever the period of enlistment, re-enlistment, voluntary
+extension of enlistment and the period of service of enlisted personnel
+of the reserve components of the armed forces of the United States are
+extended, the governor shall extend the period of any enlistment,
+re-enlistment, voluntary extension of enlistment and the period of
+service of enlisted personnel in the corresponding force of the
+organized militia for the same period.
+```

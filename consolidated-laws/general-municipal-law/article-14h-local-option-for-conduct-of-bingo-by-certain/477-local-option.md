@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 477", "kind": "section", "law_id": "GMU", "location_id": "477", "path": "ARTICLE 14-H › SECTION 477", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/477.md", "title": "Local option"} -->
+# General Municipal Law § 477 — Local option
+
+[General Municipal Law](../README.md) › [Article 14-H — Local Option For Conduct of Bingo By Certain Organizations](README.md)
+
+```text
+  § 477. Local option. Subject to the provisions of this article, and
+pursuant to the direction contained in subdivision two of section nine
+of article one of the constitution of the state, the legislature hereby
+gives and grants to every municipality the right, power and authority to
+authorize the conduct of bingo games by authorized organizations within
+the territorial limits of such municipality provided, however, that
+where the electors of a village shall hereafter approve a local law or
+ordinance pursuant to section four hundred seventy-eight of this
+article, the right, power and authority under this article of any town
+in which such village is located shall not extend to such village during
+such time as such village local law or ordinance is in effect.
+```

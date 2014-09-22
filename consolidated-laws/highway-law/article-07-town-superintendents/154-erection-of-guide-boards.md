@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 154", "kind": "section", "law_id": "HAY", "location_id": "154", "path": "ARTICLE 7 › SECTION 154", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/154.md", "title": "Erection of guide boards"} -->
+# Highway Law § 154 — Erection of guide boards
+
+[Highway Law](../README.md) › [Article 7 — Town Superintendents](README.md)
+
+```text
+  § 154. Erection of guide boards. The town superintendent may, with the
+consent of the town board, cause guide posts with proper inscriptions
+and devices to be erected at the intersections of such highways therein,
+as may be necessary, which shall be kept in repair by him at the expense
+of the town. Upon written application to him, of five resident taxpayers
+of any town or twenty resident taxpayers of the county in which such
+town is located, requesting the erection of one or more guide boards at
+the intersection of highways in such town, it shall be his duty to cause
+to be erected at the intersections mentioned in such application, such
+guide boards indicating the direction, distances and names of the towns,
+villages or cities to or through which such intersecting highways run.
+Such application shall designate the highway intersections at which such
+guide boards are requested to be erected, and may contain suggestions as
+to the inscriptions and devices to be placed upon such boards. The cost
+of the erection and maintenance of such boards shall be a town charge.
+If the town superintendent refuses or neglects for a period of sixty
+days after receiving such application to comply with the request
+contained therein, he shall, for such neglect or refusal, forfeit to the
+town, the sum of twenty-five dollars, to be recovered by the supervisor
+in the name of the town and the amount so recovered shall be set apart
+for the erection of such guide boards.
+```

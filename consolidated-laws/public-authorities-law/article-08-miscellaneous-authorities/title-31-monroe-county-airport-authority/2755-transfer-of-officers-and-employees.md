@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2755", "kind": "section", "law_id": "PBA", "location_id": "2755", "path": "ARTICLE 8 › TITLE 31 › SECTION 2755", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2755.md", "title": "Transfer of officers and employees"} -->
+# Public Authorities Law § 2755 — Transfer of officers and employees
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 31 — Monroe County Airport Authority](README.md)
+
+```text
+  § 2755. Transfer of officers and employees. 1. In accordance with the
+provisions of section seventy of the civil service law, any officer or
+employee of the county, selected by the authority may, with the consent
+of the county executive, be transferred to the authority and shall be
+eligible for such transfer and appointment, without further examination,
+to applicable offices, positions and employment under the authority.
+  2. A transferred employee shall remain in the same collective
+bargaining unit as was the case prior to his or her transfer; successor
+employees to the positions held by such transferred employees shall,
+consistent with the provisions of article fourteen of the civil service
+law, be included in the same unit as their predecessors. Employees
+serving in positions in newly created titles shall be assigned to such
+same collective bargaining unit if they would have been assigned to such
+unit were such titles created prior to the establishment of the
+authority. Nothing contained in this title shall be construed to
+diminish (a) the rights of employees pursuant to a collective bargaining
+agreement or (b) to affect existing law with respect to an application
+to the public employment relations board seeking a designation by the
+board that certain persons are managerial or confidential.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 155", "kind": "section", "law_id": "PBG", "location_id": "155", "path": "ARTICLE 8 › SECTION 155", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/155.md", "title": "Compliance with state and local laws"} -->
+# Public Housing Law § 155 — Compliance with state and local laws
+
+[Public Housing Law](../README.md) › [Article 8 — Provisions Relating to Approval, Construction, Management and Operation of Projects](README.md)
+
+```text
+  § 155. Compliance with state and local laws.  All projects shall be
+subject to the planning, zoning, sanitary and building laws, ordinances
+and regulations applicable in the municipality in which the project is
+situated. Zoning regulations or other restrictions enacted by the
+municipality to adequately protect the area or areas of a project, as
+such area or areas are shown on an approved zoning map of such project
+filed with the municipal officer charged with enforcing such zoning
+regulations or other restrictions, shall thereafter be maintained
+without variance unless written notice of any proposed change, amendment
+or variance be given by the municipality to the housing authority
+erecting or owning such project and to the government providing
+financial aid or assistance to the project at least ten days prior to
+the date of any public hearing at which such proposed change, amendment
+or variance is to be considered.
+```

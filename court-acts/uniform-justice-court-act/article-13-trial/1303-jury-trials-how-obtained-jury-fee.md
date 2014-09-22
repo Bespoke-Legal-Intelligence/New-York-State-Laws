@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Uniform Justice Court Act § 1303", "kind": "section", "law_id": "UJC", "location_id": "1303", "path": "ARTICLE 13 › SECTION 1303", "repealed": false, "repealed_date": null, "source": "nys-laws:UJC/1303.md", "title": "Jury trials; how obtained; jury fee"} -->
+# Uniform Justice Court Act § 1303 — Jury trials; how obtained; jury fee
+
+[Uniform Justice Court Act](../README.md) › [Article 13 — Trial](README.md)
+
+```text
+§ 1303. Jury trials; how obtained; jury fee.
+  (a) If the defendant appears before the clerk to answer in person, he
+shall demand a jury trial, if desired, at that time. If he does not do
+so, any other party may demand trial by jury by mailing such a demand to
+the clerk and all other parties within three days after receiving notice
+of the trial date as set forth in § 1301(a).
+  (b) If a motion is made to have a trial date set, as provided in §
+1301(b), the movant shall include demand for trial by jury, if desired,
+in his notice of motion. If he omits to do so, any other party desiring
+trial by jury shall demand it in papers opposing the motion.
+  (c) If the trial date is set by agreement pursuant to § 1301(c), the
+trial shall be without jury unless the stipulation provides otherwise.
+  (d) The party demanding trial by jury shall pay the fee therefor upon
+making the demand. If trial by jury is stipulated to, the stipulation
+shall provide for payment of the jury fee, and in the absence of
+providing therefor, it shall be paid by the plaintiff.
+  (e) Unless a jury is demanded or stipulated to, and the jury fee paid
+as provided in section nineteen hundred eleven of this act, trial by
+jury is waived.
+  (f) The court may relieve a party from the effect of failing to comply
+with this section if no undue prejudice to the rights of another party
+would result.
+```

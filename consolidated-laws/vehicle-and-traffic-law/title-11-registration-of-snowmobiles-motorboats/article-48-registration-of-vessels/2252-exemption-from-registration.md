@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 2252", "kind": "section", "law_id": "VAT", "location_id": "2252", "path": "TITLE 11 › ARTICLE 48 › SECTION 2252", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/2252.md", "title": "Exemption from registration"} -->
+# Vehicle and Traffic Law § 2252 — Exemption from registration
+
+[Vehicle and Traffic Law](../../README.md) › [Title 11 — Registration of Snowmobiles, Motorboats and Limited Use Vehicles](../README.md) › [Article 48 — Registration of Vessels](README.md)
+
+```text
+  § 2252. Exemption from registration. 1. The provisions of section
+twenty-two hundred fifty-one of this article shall not apply to the
+following vessels:
+  (a) Vessels having a valid marine document issued by the United States
+or a foreign government, while being used for commercial purposes.
+  (b) Vessels displaying a valid identification or registration number
+issued by another state under a numbering system which has been approved
+in accordance with the provisions of federal law, provided such vessel
+shall not have been within this state for a period in excess of ninety
+consecutive days.
+  (c) Vessels owned by residents of foreign countries temporarily using
+the waters of the state.
+  (d) Vessels owned by the United States, a state, or a subdivision
+thereof.
+  (e) Boats which are "lifeboats." No vessel which is used for other
+than lifesaving purposes shall be deemed a "lifeboat" for purposes of
+this subdivision.
+  (f) Vessels used exclusively for racing.
+  (g) Any vessel which is not equipped with a motor by which it may be
+mechanically propelled.
+  2. Notwithstanding the provisions of subdivision one of this section,
+the owner of a vessel which is exempt from the provisions of section
+twenty-two hundred fifty-one of this article may apply for, and the
+commissioner may issue, a registration for such vessel. If such a
+registration is issued, and while such registration is in effect, the
+provisions of this article relating to certificates of registration,
+registration numbers and validating stickers shall apply to such vessel.
+Upon the expiration of the registration of any such vessel, the
+registration number assigned to it shall be effectively removed from
+such vessel.
+```

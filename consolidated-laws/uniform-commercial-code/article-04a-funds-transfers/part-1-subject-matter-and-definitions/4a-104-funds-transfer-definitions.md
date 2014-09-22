@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 4-A-104", "kind": "section", "law_id": "UCC", "location_id": "4-A-104", "path": "ARTICLE 4-A › PART 1 › SECTION 4-A-104", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/4-A-104.md", "title": "Funds Transfer-Definitions"} -->
+# Uniform Commercial Code § 4-A-104 — Funds Transfer-Definitions
+
+[Uniform Commercial Code](../../README.md) › [Article 4-A — Funds Transfers](../README.md) › [Part 1 — Subject Matter and Definitions](README.md)
+
+```text
+Section 4-A-104. Funds Transfer-Definitions.
+  In this article:
+  (1) "Funds transfer" means the series of transactions, beginning with
+the originator's payment order, made for the purpose of making payment
+to the beneficiary of the order. The term includes any payment order
+issued by the originator's bank or an intermediary bank intended to
+carry out the originator's payment order. A funds transfer is completed
+by acceptance by the beneficiary's bank of a payment order for the
+benefit of the beneficiary of the originator's payment order.
+  (2) "Intermediary bank" means a receiving bank other than the
+originator's bank or the beneficiary's bank.
+  (3) "Originator" means the sender of the first payment order in a
+funds transfer.
+  (4) "Originator's bank" means (a) the receiving bank to which the
+payment order of the originator is issued if the originator is not a
+bank, or (b) the originator if the originator is a bank.
+```

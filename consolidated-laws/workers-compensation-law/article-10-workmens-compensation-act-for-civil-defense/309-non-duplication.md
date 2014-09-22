@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 309", "kind": "section", "law_id": "WKC", "location_id": "309", "path": "ARTICLE 10 › SECTION 309", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/309.md", "title": "Non-duplication"} -->
+# Workers' Compensation Law § 309 — Non-duplication
+
+[Workers' Compensation Law](../README.md) › [Article 10 — Workmen's Compensation Act For Civil Defense Volunteers](README.md)
+
+```text
+  § 309. Non-duplication. No compensation under the provisions of this
+article shall be payable to any civil defense volunteer or to the
+dependents of a deceased civil defense volunteer otherwise entitled to
+receive workers' compensation under the provisions of this chapter or of
+any other law, or volunteer firefighters' benefits or volunteer
+ambulance workers' benefits under the provisions of the volunteer
+firefighters' benefit law or the volunteer ambulance workers' benefit
+law or of any other law, or if the disabled civil defense volunteer or
+the dependents of a deceased civil defense volunteer are entitled to
+receive benefits under the disability benefits law or similar statute of
+any state or under any disability or retirement or insurance program of
+an employer who has contributed to the cost thereof or under any
+provision of benefits by or under laws of the federal government or a
+state or political subdivision thereof, except only as herein provided.
+Compensation payable under this article shall in such event, or any of
+them, be reduced to an amount which, together with such other
+compensation or benefits, shall not exceed in aggregate the amount of
+compensation to which the claimant, or his dependents, would be entitled
+under this article but for such other provision.
+```

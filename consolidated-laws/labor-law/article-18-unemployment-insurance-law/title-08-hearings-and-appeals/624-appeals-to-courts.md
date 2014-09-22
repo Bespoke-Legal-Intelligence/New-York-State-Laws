@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 624", "kind": "section", "law_id": "LAB", "location_id": "624", "path": "ARTICLE 18 › TITLE 8 › SECTION 624", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/624.md", "title": "Appeals to courts"} -->
+# Labor Law § 624 — Appeals to courts
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 8 — Hearings and Appeals](README.md)
+
+```text
+  § 624. Appeals to courts. Within thirty days after the mailing or
+personal delivery of notice of a decision by the appeal board, the
+commissioner or any other party affected thereby who appeared at the
+appeal before the board may appeal questions of law involved in such
+decision to the appellate division of the supreme court, third
+department. The board may also, in its discretion, certify to such court
+questions of law involved in its decisions.  Such appeals and the
+questions so certified shall be heard in a summary manner and shall have
+precedence over all other civil cases in such court except cases arising
+under the workmen's compensation law. The commissioner shall be
+represented in court by the attorney-general without additional
+compensation. An appeal may be taken from the decision of such court to
+the court of appeals in the same manner and subject to the same
+limitations, not inconsistent herewith, as is provided for in civil
+action. It shall not be necessary to file exception to the rulings of
+the appeal board. No bond shall be required to be filed upon an appeal
+to the appellate division or to the court of appeals, except as
+hereinafter provided. Upon final determination of an appeal, the appeal
+board shall enter an order in accordance with such determination.
+```

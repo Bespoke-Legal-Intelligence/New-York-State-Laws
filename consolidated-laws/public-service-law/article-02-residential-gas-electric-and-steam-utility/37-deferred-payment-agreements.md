@@ -1,0 +1,46 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 37", "kind": "section", "law_id": "PBS", "location_id": "37", "path": "ARTICLE 2 › SECTION 37", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/37.md", "title": "Deferred payment agreements"} -->
+# Public Service Law § 37 — Deferred payment agreements
+
+[Public Service Law](../README.md) › [Article 2 — Residential Gas, Electric and Steam Utility Service](README.md)
+
+```text
+  § 37. Deferred payment agreements.  1. No utility corporation or
+municipality shall terminate or refuse to take all actions within such
+corporation or municipality's control and, where applicable, consistent
+with the provisions of the agreement for commodity service, if any,
+between the corporation and the customer, provided such provisions are
+consistent with this article, to restore service to a residential
+customer, because of arrears owed the utility corporation or
+municipality, unless the utility or municipality offers such customer a
+deferred payment agreement for such arrears; provided, however, that a
+deferred payment agreement under this article shall not be available to
+any customer who the commission determines has the resources available
+to pay his bill, and provided further, however, that any such agreement
+may provide for the customer to make a downpayment of the arrears,
+provided that no such downpayment shall exceed one-half of the amount of
+arrears or three months average billing, whichever is less. In addition,
+the commission shall provide by regulation that (a) all deferred payment
+agreements authorized by this article be fair and equitable, considering
+the customer's financial circumstances; (b) that such agreements
+obligate customers to make timely payment of current charges for service
+together with payment of arrears during the pendency of the agreements;
+that such agreements may be renegotiated and amended where the customer
+can demonstrate that there have been significant changes in his or her
+financial circumstances which have arisen due to conditions beyond the
+customer's control, and that, if the customer receives a utility service
+by the receipt of portions of such service from each of two or more
+utility corporations and is billed for such service through a single
+bill, the payments pursuant to the deferred payment agreement for
+current charges shall be allocated to each such utility corporation
+based on the current charges owing to each and the payments for arrears
+shall be allocated equitably on a pro-rata basis between such utility
+corporations based on the amount of arrears owing to each.
+  2. Upon offering any deferred payment agreement, and prior to the
+signing thereof, a utility corporation or municipality shall give a
+customer a copy of the agreement, in a form established or affirmatively
+approved by the commission, which shall contain a conspicuous, bold type
+notice that the customer may request the assistance of the commission in
+reaching an agreement. Any such agreement shall be signed in duplicate
+by the utility or municipality and the customer and each shall receive a
+signed copy thereof.
+```

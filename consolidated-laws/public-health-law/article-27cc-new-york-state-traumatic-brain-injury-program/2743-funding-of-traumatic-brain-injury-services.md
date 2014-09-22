@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2743", "kind": "section", "law_id": "PBH", "location_id": "2743", "path": "ARTICLE 27-CC › SECTION 2743", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2743.md", "title": "Funding of traumatic brain injury services"} -->
+# Public Health Law § 2743 — Funding of traumatic brain injury services
+
+[Public Health Law](../README.md) › [Article 27-CC — New York State Traumatic Brain Injury Program](README.md)
+
+```text
+  § 2743. Funding of traumatic brain injury services.  1. The department
+shall develop a biennial plan and priorities for the funding of services
+and programs as authorized by this article, with emphasis on the
+development and expansion of community-based services and programs.
+  2. Such plan shall provide for the development of services, dispersed
+geographically to the extent feasible, which shall minimize the need for
+out-of-state placements and promote the return of individuals currently
+placed out-of-state to enhance family involvement and promote community
+reintegration.
+  3. The department shall, to the extent feasible, utilize existing
+organizations with demonstrated interest and expertise in serving
+persons with traumatic brain injuries and shall, within funds available,
+enter into contracts with such organizations.
+```

@@ -1,0 +1,166 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1503", "kind": "section", "law_id": "BSC", "location_id": "1503", "path": "ARTICLE 15 › SECTION 1503", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1503.md", "title": "Organization"} -->
+# Business Corporation Law § 1503 — Organization
+
+[Business Corporation Law](../README.md) › [Article 15 — Professional Service Corporations](README.md)
+
+```text
+§ 1503. Organization.
+  (a) Notwithstanding any other provision of law, one or more
+individuals duly authorized by law to render the same professional
+service within the state may organize, or cause to be organized, a
+professional service corporation for pecuniary profit under this article
+for the purpose of rendering the same professional service, except that
+one or more individuals duly authorized by law to practice professional
+engineering, architecture, landscape architecture or land surveying
+within the state may organize, or cause to be organized, a professional
+service corporation or a design professional service corporation for
+pecuniary profit under this article for the purpose of rendering such
+professional services as such individuals are authorized to practice.
+  (b) The certificate of incorporation of a professional service
+corporation shall meet the requirements of this chapter and (i) shall
+state the profession or professions to be practiced by such corporation
+and the names and residence addresses of all individuals who are to be
+the original shareholders, directors and officers of such corporation,
+and (ii) shall have attached thereto a certificate or certificates
+issued by the licensing authority certifying that each of the proposed
+shareholders, directors and officers is authorized by law to practice a
+profession which the corporation is being organized to practice and, if
+applicable, that one or more of such individuals is authorized to
+practice each profession which the corporation will be authorized to
+practice.
+  (b-1) The certificate of incorporation of a design professional
+service corporation shall meet the requirements of this chapter,
+provided that shareholders may include employee stock ownership plans
+(ESOPs) and employees of the corporation not licensed as design
+professionals, and provided further however that:
+  (i) greater than seventy-five percent of the outstanding shares of
+stock of the corporation are owned by design professionals,
+  (ii) an ESOP, either in part or in its entirety, shall not constitute
+part of the greater than seventy-five percent owned by design
+professionals,
+  (iii) greater than seventy-five percent of the directors are design
+professionals,
+  (iv) greater than seventy-five percent of the officers are design
+professionals,
+  (v) the president, the chairperson of the board of directors and the
+chief executive officer or officers are design professionals, and
+  (vi) the single largest shareholder is either a design professional or
+an ESOP with greater than seventy-five percent of the plan's voting
+trustees being design professionals and greater than seventy-five
+percent of the plan's committee members being design professionals.
+  (b-2) The certificate of incorporation of a design professional
+service corporation shall:
+  (i) state the profession or professions to be practiced by such
+corporation,
+  (ii) state the names and residence addresses of all individuals or
+ESOPs who are to be the original shareholders, directors and officers of
+such corporation,
+  (iii) indicate the profession or professions of each original
+shareholder, director and officer who is a design professional,
+  (iv) state the ownership interest of each original shareholder, and
+  (v) indicate the names of the original officers and directors who are
+the president, the chairperson of the board of directors and the chief
+executive officer or officers.
+  (b-3) The certificate of incorporation of a design professional
+service corporation shall have attached thereto a certificate or
+certificates issued by the licensing authority certifying that each of
+the proposed shareholders, directors and officers who is listed as a
+design professional is authorized by law to practice a profession which
+the corporation is being organized to practice and, if applicable, that
+one or more of such individuals is authorized to practice each
+profession which the corporation will be authorized to practice. The
+attached certificate or certificates shall also certify that the
+president, the chairperson of the board of directors and the chief
+executive officer or officers are authorized by law to practice a
+profession which the corporation is being organized to practice.
+  (b-4) The certificate of incorporation of a design professional
+service corporation shall also have attached thereto a certificate or
+certificates issued by the licensing authority certifying that each of
+the shareholders, officers, directors and owners have been deemed to
+have been of good moral character as may be established by the
+regulations of the commissioner of education.
+  (b-5) On or after January first, two thousand twelve, the state
+education department and the department of state shall allow an existing
+professional service corporation organized under this article and
+practicing professional engineering, architecture, landscape
+architecture, or land surveying, or practicing any combination of such
+professions to become a design professional service corporation as
+defined in this article, provided the professional service corporation
+meets all of the requirements to become a design professional service
+corporation, including that its name shall end with the words "design
+professional corporation" or the abbreviation "D.P.C.", by amending its
+certificate of incorporation so that it contains the following
+statements:
+  (1) the names and residence addresses of all individuals or ESOPs who
+will be the shareholders, directors and officers of the original design
+professional service corporation; and
+  (2) the profession or professions of each shareholder, director and
+officer who is a design professional of the original design professional
+service corporation; and
+  (3) the ownership interest of each shareholder of the original design
+professional service corporation; and
+  (4) the names of the officers and directors who will be the president,
+the chairperson of the board of directors and the chief executive
+officer or officers of the original design professional service
+corporation.
+  (i) The certificate of amendment shall have attached thereto a
+certificate or certificates issued by the licensing authority certifying
+that each of the proposed shareholders, directors and officers who is
+listed as a design professional is authorized by law to practice a
+profession which the corporation is organized to practice and, if
+applicable, that one or more of such individuals is authorized to
+practice each profession which the corporation will be authorized to
+practice. The attached certificate or certificates shall also certify
+that the proposed president, the chairperson of the board of directors
+and the chief executive officer or officers are authorized by law to
+practice a profession which the corporation is organized to practice.
+  (ii) The certificate of amendment shall also have attached thereto a
+certificate or certificates issued by the licensing authority certifying
+that each of the proposed shareholders, officers, directors and owners
+listed have been deemed to have been of good moral character as may be
+established by the regulations of the commissioner of education.
+  (iii) The certificate of amendment shall also have attached thereto:
+(A) a tax clearance issued by the department of taxation and finance
+certifying that the existing professional service corporation is current
+with respect to payment of its state tax liabilities and (B) a
+certificate of good standing from the state education department
+certifying that the existing professional service corporation is
+authorized to provide professional services without restriction.
+  (c) A certified copy of the certificate of incorporation and of each
+amendment thereto shall be filed by the corporation with the licensing
+authority within thirty days after the filing of such certificate or
+amendment with the department of state.
+  (d) A professional service corporation, including a design
+professional service corporation, other than a corporation authorized to
+practice law, shall be under the supervision of the regents of the
+university of the state of New York and be subject to disciplinary
+proceedings and penalties, and its certificate of incorporation shall be
+subject to suspension, revocation or annulment for cause, in the same
+manner and to the same extent as is provided with respect to individuals
+and their licenses, certificates, and registrations in title eight of
+the education law relating to the applicable profession. Notwithstanding
+the provisions of this paragraph, a professional service corporation
+authorized to practice medicine shall be subject to the prehearing
+procedures and hearing procedures as is provided with respect to
+individual physicians and their licenses in title II-A of article two of
+the public health law.
+  (e) A corporation authorized to practice law shall be subject to the
+regulation and control of, and its certificate of incorporation shall be
+subject to suspension, revocation or annulment for cause by, the
+appellate division of the supreme court and the court of appeals in the
+same manner and to the same extent provided in the judiciary law with
+respect to individual attorneys and counselors-at-law. Such corporation
+need not qualify for any certification under section four hundred
+sixty-four of the judiciary law, take an oath of office under section
+four hundred sixty-six of such law or register under section four
+hundred sixty-seven of such law.
+  (f) The order of suspension, revocation or annulment of the
+certificate of incorporation of a professional service corporation
+pursuant to paragraphs (d) and (e) of this section shall be effective
+upon the filing of such order with the department of state.
+  (g) The practices of creative arts therapy, marriage and family
+therapy, mental health counseling, and psychoanalysis shall not be
+deemed the same professional service for the purpose of paragraph (a) of
+this section, notwithstanding that such practices are all licensed under
+article one hundred sixty-three of the education law.
+```

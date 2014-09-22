@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-2503", "kind": "section", "law_id": "ENV", "location_id": "15-2503", "path": "ARTICLE 15 › TITLE 25 › SECTION 15-2503", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-2503.md", "title": "Finances"} -->
+# Environmental Conservation Law § 15-2503 — Finances
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 25 — Joint River Regulating, River Improvement and Drainage Improvement Districts](README.md)
+
+```text
+§ 15-2503. Finances.
+  The financial affairs of each sub-district shall be handled as a unit
+and in accordance with the provisions of title 25 of this article which
+apply thereto. Compensation of the members of the board, salaries of
+regular employees of the regulating district, together with expenses and
+general operating costs shall be allocated by the board on a time basis
+among the sub-districts and paid from district funds. Such payments
+shall not operate to change the status of any member, officer or
+employee, nor shall they result in an increment in the rate of payment
+made to them, computed on an annual basis. Preliminary costs incurred in
+the formation of a sub-district shall be reimbursed from sub-district
+funds if the sub-district is formed; otherwise they shall be a charge
+against the signers of the petition. Funds raised under the provisions
+of title 21 of this article cannot be used in connection with any river
+or drainage improvement district or sub-district.
+```

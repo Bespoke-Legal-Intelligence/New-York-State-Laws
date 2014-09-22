@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 195-K", "kind": "section", "law_id": "GMU", "location_id": "195-K", "path": "ARTICLE 9-A › SECTION 195-K", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/195-K.md", "title": "Unlawful games of chance"} -->
+# General Municipal Law § 195-K — Unlawful games of chance
+
+[General Municipal Law](../README.md) › [Article 9-A — Local Option For Conduct of Games of Chance By Certain Organizations](README.md)
+
+```text
+  § 195-k. Unlawful games of chance. 1. Any person, association,
+corporation or organization holding, operating, or conducting a game or
+games of chance is guilty of a misdemeanor, except when operating,
+holding or conducting:
+  (a) In accordance with a valid license issued pursuant to this
+article;
+  (b) On behalf of a bona fide organization of persons sixty years of
+age or over, commonly referred to as senior citizens, solely for the
+purpose of amusement and recreation of its members where (i) the
+organization has applied for and received an identification number from
+the board, (ii) no player or other person furnishes anything of value
+for the opportunity to participate, (iii) the prizes awarded or to be
+awarded are nominal, (iv) no person other than a bona fide active member
+of the organization participates in the conduct of the games, and (v) no
+person is paid for conducting or assisting in the conduct of the game or
+games; or
+  (c) A raffle pursuant to section one hundred ninety-a of this article.
+  2. The provisions of this section shall apply to all municipalities
+within this state, including those municipalities where this article is
+inoperative.
+```

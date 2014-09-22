@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2312", "kind": "section", "law_id": "PBH", "location_id": "2312", "path": "ARTICLE 23 › TITLE 1 › SECTION 2312", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2312.md", "title": "Expedited partner therapy for chlamydia trachomatis infection"} -->
+# Public Health Law § 2312 — Expedited partner therapy for chlamydia trachomatis infection
+
+[Public Health Law](../../README.md) › [Article 23 — Control of Sexually Transmitted Diseases](../README.md) › [Title 1 — Care and Treatment](README.md)
+
+```text
+  § 2312. Expedited partner therapy for chlamydia trachomatis infection.
+1. Notwithstanding any other provision of law and consistent with
+section two thousand three hundred five of this title, a health care
+practitioner (who is authorized under title eight of the education law
+to diagnose and prescribe drugs for sexually transmitted chlamydia
+trachomatis infection, acting within his or her lawful scope of
+practice) who diagnoses a sexually transmitted chlamydia trachomatis
+infection in an individual patient may prescribe, dispense, furnish, or
+otherwise provide prescription antibiotic drugs to that patient's sexual
+partner or partners without examination of that patient's partner or
+partners.
+  2. A health care practitioner who reasonably and in good faith renders
+expedited partner therapy in accordance with this section and following
+the rules and regulations promulgated by the commissioner shall not be
+subject to civil or criminal liability or be deemed to have engaged in
+unprofessional conduct.
+  3. The commissioner shall promulgate rules and regulations concerning
+the implementation of this section and shall also develop forms for
+patients and their partners explaining expedited partner therapy for a
+chlamydia trachomatis infection. Such forms shall be written in a clear
+and coherent manner using words with common, everyday meanings.
+```

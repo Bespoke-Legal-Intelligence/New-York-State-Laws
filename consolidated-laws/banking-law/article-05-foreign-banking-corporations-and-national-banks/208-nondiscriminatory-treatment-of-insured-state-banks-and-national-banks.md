@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 208", "kind": "section", "law_id": "BNK", "location_id": "208", "path": "ARTICLE 5 › SECTION 208", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/208.md", "title": "Nondiscriminatory treatment of insured state banks and national banks"} -->
+# Banking Law § 208 — Nondiscriminatory treatment of insured state banks and national banks
+
+[Banking Law](../README.md) › [Article 5 — Foreign Banking Corporations and National Banks](README.md)
+
+```text
+  § 208. Nondiscriminatory treatment of insured state banks and national
+banks. Notwithstanding any other laws of this state, a state bank, which
+is incorporated in another state and whose deposits are insured by
+Federal Deposit Insurance Corporation, shall have the same protection,
+privileges and immunities, including the right to sue, collect debts,
+realize on collateral security, enforce liens, claims and obligations,
+and protect its property in this state, as a national bank whose
+principal office is located in the same state as such state bank, and
+such state bank and its shares, securities and evidences of indebtedness
+shall enjoy the same privileges, protections and immunities as those of
+such a national bank and shall not be subject to any disability,
+incapacity, restriction, regulation, penalty, fee, fine or taxation
+which is not imposed by this state in the case of such a national bank,
+provided however that this section shall not apply with respect to any
+state bank and its shares, securities and evidences of indebtedness
+unless such state bank's state of incorporation has a statute with
+provisions substantially similar to this section which is applicable to
+a state bank incorporated in this state. As used in this section the
+term "state bank" shall mean any commercial bank or trust company.
+```

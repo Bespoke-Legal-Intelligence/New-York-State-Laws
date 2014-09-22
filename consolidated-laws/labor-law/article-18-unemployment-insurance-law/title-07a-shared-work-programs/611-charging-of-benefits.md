@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 611", "kind": "section", "law_id": "LAB", "location_id": "611", "path": "ARTICLE 18 › TITLE 7-A › SECTION 611", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/611.md", "title": "Charging of benefits"} -->
+# Labor Law § 611 — Charging of benefits
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 7-A — Shared Work Programs](README.md)
+
+```text
+  * § 611. Charging of benefits. Benefits paid to a claimant shall be
+charged to the employers' accounts as provided in paragraph (e) of
+subdivision one of section five hundred eighty-one of this article.
+However, except for individuals employed by a participating employer on
+a seasonal, temporary or intermittent basis, no benefits paid to a
+claimant shall be charged to an employer's account if the state is
+reimbursed by the United States pursuant to the Middle Class Tax Relief
+and Job Creation Act of 2012, PL 112-96.
+  * NB Effective until August 23, 2015
+  * § 611. Charging of benefits. Benefits paid to a claimant shall be
+charged to the employers' accounts as provided in paragraph (e) of
+subdivision one of section five hundred eighty-one of this article.
+  * NB Effective August 23, 2015
+```

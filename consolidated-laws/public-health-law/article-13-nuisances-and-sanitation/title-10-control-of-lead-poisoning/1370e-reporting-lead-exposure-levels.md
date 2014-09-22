@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1370-E", "kind": "section", "law_id": "PBH", "location_id": "1370-E", "path": "ARTICLE 13 › TITLE 10 › SECTION 1370-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1370-E.md", "title": "Reporting lead exposure levels"} -->
+# Public Health Law § 1370-E — Reporting lead exposure levels
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 10 — Control of Lead Poisoning](README.md)
+
+```text
+  § 1370-e. Reporting lead exposure levels. 1. Every physician or
+authorized practitioner shall give notice of elevated lead levels as
+specified by the commissioner pursuant to regulation, to the health
+officer of the health district wherein the patient resides, except as
+otherwise provided.
+  2. The commissioner may, by regulation, provide that cases of elevated
+lead levels which occur (a) in health districts of less than fifty
+thousand population not having a full-time health officer, or (b) in
+state institutions shall be reported directly to the department or its
+district health officer.
+  3. Whenever an analysis of a clinical specimen for lead is performed
+by a laboratory or a physician or authorized practitioner, the director
+of such laboratory or such physician or authorized practitioner shall,
+within such period specified by the commissioner report the results and
+any related information in connection therewith to the local and state
+health officer to whom a physician or authorized practitioner is
+required to report such cases pursuant to this section.
+  4. The person in charge of every hospital, clinic, or other similar
+public or private institution shall give notice of every child with an
+elevated blood lead level coming under the care of the institution to
+the local or state health officer to whom a physician or authorized
+practitioner is required to report such cases pursuant to this section.
+  5. The notices required by this section shall be in a form and filed
+in such time period as shall be prescribed by the commissioner.
+```

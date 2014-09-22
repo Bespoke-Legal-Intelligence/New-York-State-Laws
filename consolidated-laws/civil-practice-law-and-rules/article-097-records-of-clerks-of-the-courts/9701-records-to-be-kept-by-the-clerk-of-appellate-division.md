@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 9701", "kind": "section", "law_id": "CVP", "location_id": "9701", "path": "ARTICLE 97 › SECTION 9701", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/9701.md", "title": "Records to be kept by the clerk of appellate division"} -->
+# Civil Practice Law and Rules § 9701 — Records to be kept by the clerk of appellate division
+
+[Civil Practice Law and Rules](../README.md) › [Article 97 — Records of Clerks of the Courts](README.md)
+
+```text
+  Rule 9701. Records to be kept by the clerk of appellate division.  The
+clerk of the appellate division in each department shall keep:
+  1. a book, properly indexed, or an index, in which shall be entered
+the title of all proceedings in that court, with entries under each,
+showing the proceedings taken therein and the final disposition thereof;
+and
+  2. a book in which shall be indexed all undertakings filed in the
+clerk's office, with a statement of the proceedings in which they are
+given, and a statement of any disposition or order made of or concerning
+them; and
+  3. a book, properly indexed, or an index, which shall contain (a) the
+name of each attorney admitted to practice in the department, with the
+date of the attorney's admission, and (b) the name of each person who
+has been refused admission or who has been disbarred, disciplined or
+censured by the court. The clerk of each department shall transmit to
+the clerk of the court of appeals and to the clerks of the other
+departments the names of all applicants who have been refused admission,
+and the names of all attorneys who have resigned or who have been
+disbarred, disciplined, censured or reinstated by the court.
+```

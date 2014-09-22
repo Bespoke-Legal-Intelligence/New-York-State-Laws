@@ -1,0 +1,84 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 12", "kind": "section", "law_id": "TAX", "location_id": "12", "path": "ARTICLE 1 › SECTION 12", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/12.md", "title": "Internet; advertising, vendor status, nexus"} -->
+# Tax Law § 12 — Internet; advertising, vendor status, nexus
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+```text
+  § 12. Internet; advertising, vendor status, nexus. * (a) For purposes
+of subdivision (b) of this section, the term "person" shall mean a
+corporation, joint stock company or association, insurance corporation,
+or banking corporation, as such terms are defined in section one hundred
+eighty-three, one hundred eighty-four, or one hundred eighty-six, or in
+article nine-A, thirty-two or thirty-three of this chapter, imposing tax
+on such entities.
+  * NB Effective until January 1, 2015
+  * (a) For purposes of subdivision (b) of this section, the term
+"person" shall mean a corporation, joint stock company or association,
+insurance corporation, or banking corporation, as such terms are defined
+in section one hundred eighty-three, one hundred eighty-four, or one
+hundred eighty-six, or in article nine-A or thirty-three of this
+chapter, imposing tax on such entities.
+  * NB Effective January 1, 2015
+  * (b) No person shall be subject to the taxes imposed under section
+one hundred eighty-three, one hundred eighty-four or one hundred
+eighty-six, or article nine-A, thirty-two or thirty-three of this
+chapter, solely by reason of (1)  having its advertising stored on a
+server or other computer equipment located in this state (other than a
+server or other computer equipment owned or leased by such person), or
+(2) having its advertising disseminated or displayed on the Internet by
+an individual or entity subject to tax under section one hundred
+eighty-three, one hundred eighty-four or one hundred eighty-six, or
+article nine-A, twenty-two, thirty-two or thirty-three of this chapter.
+  * NB Effective until January 1, 2015
+  * (b) No person shall be subject to the taxes imposed under section
+one hundred eighty-three, one hundred eighty-four or one hundred
+eighty-six, or article nine-A or thirty-three of this chapter, solely by
+reason of (1) having its advertising stored on a server or other
+computer equipment located in this state (other than a server or other
+computer equipment owned or leased by such person), or (2) having its
+advertising disseminated or displayed on the Internet by an individual
+or entity subject to tax under section one hundred eighty-three, one
+hundred eighty-four or one hundred eighty-six, or article nine-A,
+twenty-two or thirty-three of this chapter.
+  * NB Effective January 1, 2015
+  * (c) A person, as such term is defined in subdivision (a) of section
+eleven hundred one of this chapter, shall not be deemed to be a vendor,
+for purposes of article twenty-eight of this chapter, solely by reason
+of (1)  having its advertising stored on a server or other computer
+equipment located in this state (other than a server or other computer
+equipment owned or leased by such person), or (2) having its advertising
+disseminated or displayed on the Internet by an individual or entity
+subject to tax under section one hundred eighty-three, one hundred
+eighty-four or one hundred eighty-six, or article nine-A, twenty-two,
+thirty-two or thirty-three of this chapter.
+  * NB Effective until January 1, 2015
+  * (c) A person, as such term is defined in subdivision (a) of section
+eleven hundred one of this chapter, shall not be deemed to be a vendor,
+for purposes of article twenty-eight of this chapter, solely by reason
+of (1) having its advertising stored on a server or other computer
+equipment located in this state (other than a server or other computer
+equipment owned or leased by such person), or (2) having its advertising
+disseminated or displayed on the Internet by an individual or entity
+subject to tax under section one hundred eighty-three, one hundred
+eighty-four or one hundred eighty-six, or article nine-A, twenty-two or
+thirty-three of this chapter.
+  * NB Effective January 1, 2015
+  (d)(i) Except as provided in clause (B) of subparagraph (ii) of
+paragraph eight of subdivision (b) of section eleven hundred one of this
+chapter, a person selling telecommunication services or an Internet
+access service shall not be deemed to be a vendor, for purposes of
+article twenty-eight or twenty-nine of this chapter, of tangible
+personal property or services sold by the purchaser of such
+telecommunication services or Internet access service solely because
+such purchaser uses such telecommunication services or Internet access
+service as a means to sell such tangible personal property or services.
+  (ii) For purposes of this subdivision, the term "person" shall refer
+to any person within the meaning prescribed in either paragraph (c) of
+subdivision one of section one hundred eighty-six-e of this chapter or
+subdivision (a) of section eleven hundred one of this chapter, the term
+"telecommunication services" shall have the meaning prescribed in
+paragraph (g) of subdivision one of section one hundred eighty-six-e of
+this chapter, and the term "Internet access service" shall have the
+meaning prescribed in subdivision (v) of section eleven hundred fifteen
+of this chapter.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 73-P", "kind": "section", "law_id": "TRA", "location_id": "73-P", "path": "ARTICLE 2-F › SECTION 73-P", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/73-P.md", "title": "Department report"} -->
+# Transportation Law § 73-P — Department report
+
+[Transportation Law](../README.md) › [Article 2-F — New York State Rural Public Transportation Coordination Assistance Program](README.md)
+
+```text
+  § 73-p. Department report. Commencing December thirty-first, nineteen
+hundred eighty-seven, the department, in cooperation with the state
+interagency coordinating committee on rural public transportation, shall
+prepare and submit to the governor and the legislature a report on or
+before the first day of January of each year, which shall include
+information relating to the operation of coordinated public
+transportation services in rural counties then being funded under this
+article and any recommendations for overall program improvement; stating
+the receipts and disbursements made during the preceding fiscal year and
+adequacy of programs financed by federal, state, local and private aid
+in rural counties of the state. The department shall analyze the
+programs financed in accordance with this article and recommend methods
+of avoiding duplication and increasing the efficacy of programs
+financed. The department shall receive comments from the officers and
+agents of affected state and local government units relative to the
+department's analysis.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 408", "kind": "section", "law_id": "CVP", "location_id": "408", "path": "ARTICLE 4 › SECTION 408", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/408.md", "title": "Disclosure"} -->
+# Civil Practice Law and Rules § 408 — Disclosure
+
+[Civil Practice Law and Rules](../README.md) › [Article 4 — Special Proceedings](README.md)
+
+```text
+  § 408. Disclosure. Leave of court shall be required for disclosure
+except for a notice under section 3123. A notice under section 3123 may
+be served at any time not later than three days before the petition is
+noticed to be heard and the statement denying or setting forth the
+reasons for failing to admit or deny shall be served not later than one
+day before the petition is noticed to be heard, unless the court orders
+otherwise on motion made without notice.  This section shall not be
+applicable to proceedings in a surrogate's court, nor to proceedings
+relating to express trusts pursuant to article 77, both of which shall
+be governed by article 31.
+```

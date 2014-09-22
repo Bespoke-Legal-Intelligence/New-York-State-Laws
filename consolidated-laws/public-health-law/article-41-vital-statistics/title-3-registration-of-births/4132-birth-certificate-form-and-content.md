@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4132", "kind": "section", "law_id": "PBH", "location_id": "4132", "path": "ARTICLE 41 › TITLE 3 › SECTION 4132", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4132.md", "title": "Birth certificate; form and content"} -->
+# Public Health Law § 4132 — Birth certificate; form and content
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
+
+```text
+  § 4132. Birth certificate; form and content. 1. The certificate of
+birth shall contain such information, including the social security
+numbers of the parents, and be in such form as the commissioner may
+prescribe.
+  2. The personal particulars called for shall be obtained from a
+competent person acquainted with the facts.
+  3. (a) The certificate shall be signed by the attending physician or
+nurse-midwife, with date of signature and his or her address.
+  (b) If there was no physician or nurse-midwife, in attendance, then
+the certificate of birth shall be signed by the father or mother of the
+child, householder, owner of the premises, director or other person in
+charge of the public or private institution where the birth occurred, or
+by any other competent person whose duty it is to notify the local
+registrar of such birth.
+  4. The registrar shall enter the exact date of filing of the
+certificate of birth in his office attested by his official signature
+and registered number of birth.
+```

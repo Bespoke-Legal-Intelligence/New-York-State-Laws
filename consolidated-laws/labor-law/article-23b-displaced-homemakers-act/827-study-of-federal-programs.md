@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 827", "kind": "section", "law_id": "LAB", "location_id": "827", "path": "ARTICLE 23-B › SECTION 827", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/827.md", "title": "Study of federal programs"} -->
+# Labor Law § 827 — Study of federal programs
+
+[Labor Law](../README.md) › [Article 23-B — Displaced Homemakers Act](README.md)
+
+```text
+  § 827. Study of federal programs. The commissioner shall:
+  1. In consultation with appropriate heads of agencies, prepare and
+furnish a study to determine the feasibility of and appropriate
+procedures for allowing displaced homemakers to participate in:
+  (a) programs established under the Comprehensive Employment and
+Training Act of 1973 (29 U.S.C. 801 et seq.);
+  (b) work incentive programs established under section 432 (b) (1) of
+the Social Security Act;
+  (c) related federal and state employment, education, and health
+assistance programs; and
+  (d) programs established or benefits provided under federal and state
+unemployment compensation laws by consideration of full-time homemakers
+as workers eligible for such benefits or programs.
+  2. Through coordination with the department of labor, conduct a study
+to determine the feasibility of and appropriate procedures for allowing
+displaced homemakers to participate in programs established or benefits
+provided under;
+  (a) the Federal-State Extended Unemployment Compensation Act of 1970
+(Public Law 91-373; 87 Stat. 708);
+  (b) title II of the Emergency Jobs and Unemployment Assistance Act of
+1974 (Public Law 93-567; 88 Stat. 1850);
+  (c) the Emergency Unemployment Compensation Act of 1974 (Public Law
+93-572; 88 Stat. 1869); and
+  (d) related federal and state unemployment, employment, health and
+education assistance programs.
+```

@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "County Law § 662", "kind": "section", "law_id": "CNT", "location_id": "662", "path": "ARTICLE 17 › SECTION 662", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/662.md", "title": "Appointment of private college campus security officers at independent non-profit colleges"} -->
+# County Law § 662 — Appointment of private college campus security officers at independent non-profit colleges
+
+[County Law](../README.md) › [Article 17 — Sheriff](README.md)
+
+```text
+  § 662. Appointment of private college campus security officers at
+independent non-profit colleges. 1. Notwithstanding any other provision
+of law to the contrary, the sheriff of any county, any part or all of
+which falls outside the limits of a city having a population of one
+million or more, may appoint as private college campus security officers
+security guards employed by an independent non-profit college upon the
+request of such independent non-profit college in accordance with the
+provisions of subdivision five of section sixty-four hundred fifty of
+the education law. The sheriff may appoint such campus security officers
+pursuant to this section only if more than fifty percent of the total
+acreage of real property owned by or under the control of such
+independent non-profit college is located within such sheriff's county
+of jurisdiction and outside the geographic boundaries of any city within
+such county and the county legislature or board of supervisors, pursuant
+to local law or resolution duly adopted, has authorized the sheriff to
+make such appointments. Any such security guards appointed as campus
+security officers shall be employees of the independent non-profit
+college requesting such appointment and shall not be officers, agents,
+servants or employees of the appointing sheriff or his county of
+jurisdiction nor be considered public officers, agents, servants or
+employees.  Such campus security officers shall have only those powers
+set forth in subdivision five of section sixty-four hundred fifty of the
+education law.
+  2. The sheriff may condition appointment as private college campus
+security officers upon compliance by such campus security officers with
+written procedures established by the sheriff in order to ensure a
+coordinated and cooperative law enforcement effort and the payment of an
+administrative fee not to exceed fifty dollars per year per campus
+security officer and may revoke such appointments at any time for
+material non-compliance with the requirements of such written procedures
+or subdivision five of section sixty-four hundred fifty of the education
+law or for any other reason that shall disqualify a security guard from
+being such a campus security officer pursuant to the provisions of such
+subdivision.
+```

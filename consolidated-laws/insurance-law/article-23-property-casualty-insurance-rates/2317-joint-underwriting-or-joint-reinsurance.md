@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 2317", "kind": "section", "law_id": "ISC", "location_id": "2317", "path": "ARTICLE 23 › SECTION 2317", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2317.md", "title": "Joint underwriting or joint reinsurance"} -->
+# Insurance Law § 2317 — Joint underwriting or joint reinsurance
+
+[Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
+
+```text
+  § 2317. Joint underwriting or joint reinsurance. (a) Every group,
+association or other organization of insurers which engages in joint
+underwriting or joint reinsurance shall be subject to regulation with
+respect thereto as herein provided, subject, however, with respect to
+joint underwriting, to all other applicable provisions of this article
+and, with respect to joint reinsurance, to subsection (e) of section two
+thousand three hundred twenty-one and section two thousand three hundred
+twenty-two of this article.
+  (b) If, after hearing, the superintendent finds that any activity or
+practice of any such group, association or other organization is unfair
+or unreasonable or otherwise inconsistent with the provisions of this
+article, he may issue a written order specifying in what respects such
+activity or practice is unfair or unreasonable or otherwise inconsistent
+with the provisions of this article, and requiring the discontinuance of
+such activity or practice.
+  (c) Every such group, association, or other organization of insurers
+shall be subject to examination by the superintendent as often as he may
+deem it expedient.
+```

@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 517", "kind": "section", "law_id": "PML", "location_id": "517", "path": "ARTICLE 5 › SECTION 517", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/517.md", "title": "Annual reports"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 517 — Annual reports
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 5 — Regional Off-track Betting Corporations](README.md)
+
+```text
+  § 517. Annual reports. In addition to the reports required by article
+five-a of this chapter, within one hundred twenty days after the end of
+the fiscal year of the corporation, the directors thereof shall submit
+to the participating counties, the state board, and the state
+comptroller a complete and detailed audited report setting forth:
+  1. Its operations and accomplishments during such fiscal year;
+  2. Its receipts and expenditures during such fiscal year in accordance
+with categories or classifications established by the corporation for
+its own operating and capital outlay purposes;
+  3. Its assets and liabilities at the end of such fiscal year including
+a schedule of its bonds, notes or other obligations and the status of
+reserves, depreciations, special, sinking or other funds;
+  4. Details of branch offices being planned or in the process of being
+constructed or otherwise established and branch offices that have been
+constructed or established;
+  5. Such other information relating to the operations of the
+corporation as shall be deemed pertinent by the directors, the
+participating counties, the state board, and the state comptroller.
+```

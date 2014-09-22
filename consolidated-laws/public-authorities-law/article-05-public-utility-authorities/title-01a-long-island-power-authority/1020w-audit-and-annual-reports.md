@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1020-W", "kind": "section", "law_id": "PBA", "location_id": "1020-W", "path": "ARTICLE 5 › TITLE 1-A › SECTION 1020-W", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1020-W.md", "title": "Audit and annual reports"} -->
+# Public Authorities Law § 1020-W — Audit and annual reports
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1-A — Long Island Power Authority](README.md)
+
+```text
+  * § 1020-w. Audit and annual reports. The accounts of the authority
+shall be subject to the supervision of the state comptroller and an
+annual audit shall be performed by an independent certified accountant
+selected by the authority, upon recommendation of its finance and audit
+committee. The authority shall submit annually to the governor, the
+state comptroller, the temporary president of the senate, the speaker of
+the assembly and the county executives and governing bodies of the
+counties of Suffolk and Nassau, a detailed report pursuant to the
+provisions of section two thousand eight hundred of this chapter, which
+report shall be verified by the chairman of the authority. The authority
+shall comply with the provisions of sections two thousand eight hundred
+one, two thousand eight hundred two and two thousand eight hundred three
+of this chapter.
+  * NB There are 2 § 1020-w's
+```

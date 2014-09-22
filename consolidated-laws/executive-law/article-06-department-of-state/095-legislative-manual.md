@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 95", "kind": "section", "law_id": "EXC", "location_id": "95", "path": "ARTICLE 6 › SECTION 95", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/95.md", "title": "Legislative manual"} -->
+# Executive Law § 95 — Legislative manual
+
+[Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+```text
+  § 95. Legislative manual. The secretary of state, at the expense of
+the state, may in each odd-numbered year prepare and publish the
+legislative manual. The manual shall contain the constitution of the
+United States and of the state of New York, diagrams of the senate and
+assembly chambers, and such other information of the nature heretofore
+published therein, as the secretary may consider useful, and shall be
+printed and bound in substantially the same style as heretofore. As soon
+as printed, the secretary shall deliver a copy of the manual to each
+member and officer of the legislature, and to each state officer
+entitled to the session laws.
+```

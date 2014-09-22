@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1144", "kind": "section", "law_id": "VAT", "location_id": "1144", "path": "TITLE 7 › ARTICLE 26 › SECTION 1144", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1144.md", "title": "Operation of vehicles on approach of authorized emergency vehicles"} -->
+# Vehicle and Traffic Law § 1144 — Operation of vehicles on approach of authorized emergency vehicles
+
+[Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 26 — Right of Way](README.md)
+
+```text
+  § 1144. Operation of vehicles on approach of authorized emergency
+vehicles.  (a) Upon the immediate approach of an authorized emergency
+vehicle equipped with at least one lighted lamp exhibiting red light
+visible under normal atmospheric conditions from a distance of five
+hundred feet to the front of such vehicle other than a police vehicle or
+bicycle when operated as an authorized emergency vehicle, and when
+audible signals are sounded from any said vehicle by siren, exhaust
+whistle, bell, air-horn or electronic equivalent; the driver of every
+other vehicle shall yield the right of way and shall immediately drive
+to a position parallel to, and as close as possible to the right-hand
+edge or curb of the roadway, or to either edge of a one-way roadway
+three or more lanes in width, clear of any intersection, and shall stop
+and remain in such position until the authorized emergency vehicle has
+passed, unless otherwise directed by a police officer.
+  (b) This section shall not operate to relieve the driver of an
+authorized emergency vehicle from the duty to drive with reasonable care
+for all persons using the highway.
+```

@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 183", "kind": "section", "law_id": "COM", "location_id": "183", "path": "ARTICLE 6 › SECTION 183", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/183.md", "title": "General powers and duties of the board"} -->
+# Economic Development Law § 183 — General powers and duties of the board
+
+[Economic Development Law](../README.md) › [Article 6 — New York State Economic Development Power Allocation Board](README.md)
+
+```text
+  § 183. General powers and duties of the board. In furtherance of the
+purposes set forth in this article, the board shall have the following
+powers:
+  (a) To adopt, within one hundred twenty days after appointment,
+eligibility criteria and rules and regulations relating to the
+activities of the board.
+  (b) To evaluate applications for allocations of economic development
+power and to make recommendations with respect to such proposed
+allocations.
+  (c) To evaluate economic development plans for the use of industrial
+incentive awards submitted by the power authority of the state of New
+York pursuant to this article.
+  (d) To provide advice and assistance when appropriate to applicants on
+state economic development programs and services in addition to the
+economic development power and industrial incentive awards specifically
+provided for in this section.
+  The department, the power authority of the state of New York, the
+urban development corporation, and all other state officers,
+departments, boards, divisions and commissions shall render such
+services to the board within their respective functions as may be
+requested by the board.
+  The board shall solicit applications for economic development power by
+public notice. Such notice shall be in the form of newspaper
+advertisements, press releases, and by such other means as the board
+finds appropriate.
+```

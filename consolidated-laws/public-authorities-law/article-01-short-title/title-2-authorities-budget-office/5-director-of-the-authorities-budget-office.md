@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 5", "kind": "section", "law_id": "PBA", "location_id": "5", "path": "ARTICLE 1 › TITLE 2 › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/5.md", "title": "Director of the authorities budget office"} -->
+# Public Authorities Law § 5 — Director of the authorities budget office
+
+[Public Authorities Law](../../README.md) › [Article 1 — Short Title](../README.md) › [Title 2 — Authorities Budget Office](README.md)
+
+```text
+  § 5. Director of the authorities budget office. The director of the
+authorities budget office shall be appointed by the governor, upon the
+advice and consent of the senate. The director shall hold office for a
+term of four years beginning on the date of confirmation. The salary of
+the director shall be established by the governor within the limit of
+funds available therefor; provided, however, such salary shall be no
+less than the salaries of certain state officers holding the positions
+indicated in paragraph (d) of subdivision one of section one hundred
+sixty-nine of the executive law. The director may be removed by the
+governor only after notice and opportunity to be heard, and only for:
+  1. permanent disability;
+  2. inefficiency;
+  3. neglect of duty;
+  4. malfeasance;
+  5. a felony or conduct involving moral turpitude; or
+  6. breach of fiduciary duty.
+```

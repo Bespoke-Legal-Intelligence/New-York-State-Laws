@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 89-P", "kind": "section", "law_id": "PBS", "location_id": "89-P", "path": "ARTICLE 4-B › SECTION 89-P", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/89-P.md", "title": "Powers of the department"} -->
+# Public Service Law § 89-P — Powers of the department
+
+[Public Service Law](../README.md) › [Article 4-B — Provisions Relating to Water](README.md)
+
+```text
+  § 89-p. Powers of the department. The department shall, with respect
+to out of state water-works corporations which are affiliated with
+in-state water-works corporations and which provide water to such
+in-state corporations for eventual retail to New York consumers, keep
+apprised of, attend and monitor, and, where possible, formally intervene
+in rate cases brought by such out of state corporations before the
+appropriate regulatory agency of such other state. The commission shall
+consider and utilize information secured therefrom in determining
+whether rate increases sought by such affiliated in-state corporations
+are in the public interest.
+```

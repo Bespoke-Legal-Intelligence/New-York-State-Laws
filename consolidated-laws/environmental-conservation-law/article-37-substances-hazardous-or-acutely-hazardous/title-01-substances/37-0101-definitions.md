@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 37-0101", "kind": "section", "law_id": "ENV", "location_id": "37-0101", "path": "ARTICLE 37 › TITLE 1 › SECTION 37-0101", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/37-0101.md", "title": "Definitions"} -->
+# Environmental Conservation Law § 37-0101 — Definitions
+
+[Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 1 — Substances Hazardous to the Environment](README.md)
+
+```text
+§ 37-0101. Definitions.
+  As used in this article, unless the context requires otherwise:
+  1. "Oral LD (rat) toxicity" means a calculated dose of a substance
+which is expected to cause the death of fifty percent of an experimental
+rat population when administered orally.
+  2. "Inhalation LC (rat) toxicity" means a calculated concentration of
+substance in air, exposure to which is expected to cause death of fifty
+percent of an experimental rat population when inhaled.
+  3. "Dermal LD (rabbit) toxicity" means a calculated dose of a
+substance which is expected to cause the death of fifty percent of an
+experimental rabbit population when applied to the skin.
+  4. "Brominated flame retardants" refers generally to any product
+containing a mixture of chemicals known as brominated diphenyl ether to
+prevent, reduce or retard the risk of fire in electronic devices,
+furniture, and textiles.
+  5. "Polybrominated diphenyl ether" (PBDE) is a mixture of brominated
+diphenyl ethers, usually marketed as pentabromodiphenyl ether or
+octabromodiphenyl ether, according to how many hydrogen atoms in the
+diphenyloxide structure are replaced with bromine atoms.
+  6. "Process", as used in section 37-0111 of this title, shall not
+include the processing of metallic recyclables containing
+pentabrominated diphenyl ether or octabrominated diphenyl ether that is
+conducted in compliance with all applicable federal, state, and local
+laws.
+```

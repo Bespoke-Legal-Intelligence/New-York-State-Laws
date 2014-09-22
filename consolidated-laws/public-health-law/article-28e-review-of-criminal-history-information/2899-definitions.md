@@ -1,0 +1,50 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2899", "kind": "section", "law_id": "PBH", "location_id": "2899", "path": "ARTICLE 28-E › SECTION 2899", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2899.md", "title": "Definitions"} -->
+# Public Health Law § 2899 — Definitions
+
+[Public Health Law](../README.md) › [Article 28-E — Review of Criminal History Information Concerning Prospective Employees of Nursing Homes and Home Care Services Agencies](README.md)
+
+```text
+  § 2899. Definitions. As used in this article, the following words and
+phrases shall have the following meanings:
+  1. "Criminal history information" shall mean a record of pending
+criminal charges, criminal convictions which have not been vacated or
+reversed, information from the federal bureau of investigation as a
+result of a national criminal history record check, and certificates
+filed pursuant to subdivision two of section seven hundred five of the
+correction law and which the division of criminal justice services is
+required to maintain pursuant to subdivision six of section eight
+hundred thirty-seven of the executive law.
+  2. "Determination" shall mean the decision made by the department
+after reviewing criminal history information to approve or disapprove a
+prospective employee's eligibility for employment by a provider. All
+such determinations shall be made in accordance with subdivision five of
+section eight hundred forty-five-b of the executive law.
+  3. "Employee" shall mean any person to be employed or used by a
+provider, including those persons employed by a temporary employment
+agency, to provide direct care or supervision to patients or residents.
+Persons licensed pursuant to title eight of the education law or article
+twenty-eight-D of this chapter are excluded from the meaning of employee
+under this article. Such term shall not include volunteers.
+  4. "Permanent record" shall mean a permanent, written record of a
+determination and the criminal history information maintained by the
+department.
+  5. "Prospective employee" shall mean any individual, not currently an
+employee, who files an application for employment as an employee with a
+provider and the provider has a reasonable expectation to hire such
+individual as an employee.
+  * 6. "Provider" shall mean any residential health care facility
+licensed under article twenty-eight of this chapter; or any certified
+home health agency, licensed home care services agency or long term home
+health care program certified under article thirty-six of this chapter.
+  * NB Effective until January 1, 2015
+  * 6. "Provider" shall mean any residential health care facility
+licensed under article twenty-eight of this chapter; or any certified
+home health agency, licensed home care services agency or long term home
+health care program certified under article thirty-six of this chapter;
+or any adult home, enriched housing program or residence for adults
+licensed under article seven of the social services law.
+  * NB Effective January 1, 2015
+  7. "Temporary employee" shall mean any employee who has been
+temporarily approved for employment pending a determination by the
+department.
+```

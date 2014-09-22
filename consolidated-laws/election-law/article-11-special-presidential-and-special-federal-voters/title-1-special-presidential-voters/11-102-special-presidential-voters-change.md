@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Election Law § 11-102", "kind": "section", "law_id": "ELN", "location_id": "11-102", "path": "ARTICLE 11 › TITLE 1 › SECTION 11-102", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/11-102.md", "title": "Special presidential voters; change of residence; special qualifications"} -->
+# Election Law § 11-102 — Special presidential voters; change of residence; special qualifications
+
+[Election Law](../../README.md) › [Article 11 — Special Presidential and Special Federal Voters and Special Ballots](../README.md) › [Title 1 — Special Presidential Voters](README.md)
+
+```text
+  § 11-102. Special presidential voters; change of residence; special
+qualifications.  Any person who shall change his residence from this
+state to another state or from one county or city of this state to
+another such county or city, after the thirtieth day next preceding any
+presidential election shall be entitled to vote for president and vice
+president of the United States in such election, provided, however, that
+such person may not vote for any candidate for any other office or any
+question to be voted for at such election, and provided further that
+  a. Such person was duly qualified and registered to vote in this state
+immediately prior to such change of residence;
+  b. Such person is neither qualified nor able to qualify to vote for
+such electors either in the state, or in the county or city of this
+state, or at the residence within the county or city of this state to
+which such person has removed; and
+  c. Such person has applied for a special ballot for president and vice
+president, as provided by this article.
+```

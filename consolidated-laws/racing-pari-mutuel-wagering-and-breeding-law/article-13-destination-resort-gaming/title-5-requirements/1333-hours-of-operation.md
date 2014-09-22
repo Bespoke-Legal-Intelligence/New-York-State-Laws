@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1333", "kind": "section", "law_id": "PML", "location_id": "1333", "path": "ARTICLE 13 › TITLE 5 › SECTION 1333", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1333.md", "title": "Hours of operation"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1333 — Hours of operation
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 5 — Requirements For Conduct and Operation of Gaming](README.md)
+
+```text
+  § 1333. Hours of operation. 1. Each gaming facility licensed pursuant
+to this article shall be permitted to operate twenty-four hours a day
+unless otherwise directed by the commission.
+  2. A gaming facility licensee shall file with the commission a
+schedule of hours prior to the issuance of an initial operation
+certificate. If the gaming facility licensee proposes any change in
+scheduled hours, such change may not be effected until such licensee
+files a notice of the new schedule of hours with the commission. Such
+filing must be made thirty days prior to the effective date of the
+proposed change in hours.
+  3. Nothing in this section shall be construed to limit a gaming
+facility licensee in opening its casino later than, or closing its
+casino earlier than, the times stated in its schedule of operating
+hours; provided, however, that any such alterations in its hours shall
+comply with the provisions of subdivision one of this section and with
+regulations of the commission pertaining to such alterations.
+```

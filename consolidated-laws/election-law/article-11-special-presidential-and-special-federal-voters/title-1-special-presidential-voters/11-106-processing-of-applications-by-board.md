@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Election Law § 11-106", "kind": "section", "law_id": "ELN", "location_id": "11-106", "path": "ARTICLE 11 › TITLE 1 › SECTION 11-106", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/11-106.md", "title": "Processing of applications by board of elections"} -->
+# Election Law § 11-106 — Processing of applications by board of elections
+
+[Election Law](../../README.md) › [Article 11 — Special Presidential and Special Federal Voters and Special Ballots](../README.md) › [Title 1 — Special Presidential Voters](README.md)
+
+```text
+  § 11-106. Processing of applications by board of elections. 1. The
+application forms shall be in a form prescribed by the state board of
+elections.
+  2. Upon receipt of the application, the board of elections shall
+determine upon such inquiry as it deems proper whether the applicant has
+answered all the questions contained in the application and whether the
+applicant is legally qualified to receive and vote a special
+presidential ballot, and, if it finds he is not so qualified, shall
+reject the application and shall notify the applicant of such rejection
+and give the reason or reasons therefor. All investigations by the board
+of elections shall be concluded and all determinations made not later
+than the sixth day before election.
+  3. If the board of elections shall determine that the applicant making
+the application provided for in this section is qualified to receive and
+vote a special presidential ballot, it shall, as soon as practicable
+after it shall have so determined, mail to him at the residence address
+shown in his application, or deliver to him, or to any person designated
+by him in writing for such purpose, at the office of the board, such a
+special presidential ballot and an envelope therefor.
+  4. The board of elections shall keep a register of the persons who
+have made and signed applications for special presidential ballots and
+of the applicants who have been determined to be qualified. The board
+shall keep open to public inspection such register of applicants with
+their names, addresses and application dates and shall give to the
+chairman of each political party in the county a complete list of
+applicants for special presidential ballots, containing their names and
+places of residence, including the election district and ward, if any,
+and, in the city of New York and the county of Nassau, the assembly
+district.
+  5. The board of elections shall file each original application filed
+with it and shall maintain an alphabetical index thereof for a period of
+three years after the election.
+```

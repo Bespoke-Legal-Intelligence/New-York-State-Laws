@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General City Model § 124", "kind": "section", "law_id": "GCM", "location_id": "124", "path": "MISC CUBIT › SECTION 124", "repealed": false, "repealed_date": null, "source": "nys-laws:GCM/124.md", "title": "Signing of returns and other documents"} -->
+# General City Model § 124 — Signing of returns and other documents
+
+[General City Model](../README.md) › [Misc CUBIT — City Unincorporated Business Income Tax](README.md)
+
+```text
+  § 124. Signing of returns and other documents. (a) General.--Any
+return, declaration, statement or other document required to be made
+pursuant to this title shall be signed in accordance with regulations or
+instructions prescribed by the director of finance. The fact that an
+individual's name is signed to a return, declaration, statement, or
+other document, shall be prima facie evidence for all purposes that the
+return, declaration, statement or other document was actually signed by
+him.
+  (b) Partnerships.--Any return, statement or other document required of
+a partnership shall be signed by one or more partners. The fact that a
+partner's name is signed to a return, statement, or other document,
+shall be prima facie evidence for all purposes that such partner is
+authorized to sign on behalf of the partnership.
+  (c) Certifications.--The making or filing of any return, declaration,
+statement or other document or copy thereof required to be made or filed
+pursuant to this title, including a copy of a federal return, shall
+constitute a certification by the person making or filing such return,
+declaration, statement or other document or copy thereof that the
+statements contained therein are true and that any copy filed is a true
+copy.
+```

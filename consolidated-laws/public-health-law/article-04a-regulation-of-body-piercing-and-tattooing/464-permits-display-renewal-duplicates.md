@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 464", "kind": "section", "law_id": "PBH", "location_id": "464", "path": "ARTICLE 4-A › SECTION 464", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/464.md", "title": "Permits; display; renewal; duplicates"} -->
+# Public Health Law § 464 — Permits; display; renewal; duplicates
+
+[Public Health Law](../README.md) › [Article 4-A — Regulation of Body Piercing and Tattooing](README.md)
+
+```text
+  § 464. Permits; display; renewal; duplicates. 1. All permits shall be
+for a period of two years.
+  2. No permit shall be assignable or transferable.
+  3. Each permit issued pursuant to this article shall be posted and
+kept posted in some conspicuous place in the body piercing studio or
+tattoo studio in which the permittee is engaged in the practice of body
+piercing or tattooing.
+  4. Any permit which has not been suspended or revoked, may, upon the
+payment of the renewal fee prescribed by the commissioner, be renewed
+for additional periods of two years from its expiration, upon the filing
+on any application for such renewal, on a form to be prescribed by the
+commissioner.
+  5. Any person, firm, corporation, partnership or other association
+failing to file application and fee for renewal of a permit within one
+year immediately following the expiration of his last permit shall pay
+an additional fee as prescribed by the commissioner.
+  6. A duplicate permit may be issued for one lost, destroyed or
+mutilated upon application therefor on a form prescribed by the
+commissioner and the payment of the fee prescribed therefor by the
+commissioner. Each such duplicate permit shall have the word "duplicate"
+stamped across the face thereof and shall bear the same number as the
+one it replaces.
+```

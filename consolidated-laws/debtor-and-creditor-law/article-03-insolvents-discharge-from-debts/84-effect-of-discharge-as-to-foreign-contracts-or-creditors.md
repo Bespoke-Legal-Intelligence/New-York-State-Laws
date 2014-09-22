@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 84", "kind": "section", "law_id": "DCD", "location_id": "84", "path": "ARTICLE 3 › SECTION 84", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/84.md", "title": "Effect of discharge as to foreign contracts or creditors"} -->
+# Debtor and Creditor Law § 84 — Effect of discharge as to foreign contracts or creditors
+
+[Debtor and Creditor Law](../README.md) › [Article 3 — Insolvent's Discharge From Debts](README.md)
+
+```text
+  § 84. Effect of discharge as to foreign contracts or creditors. In
+either of the following cases, such a discharge does not affect a debt
+or liability, founded upon a contract, unless it was owing, when the
+petition was presented, to a resident of the state; or the creditor has
+executed a consent to the discharge; or has appeared in the proceedings;
+or has received a dividend from the trustee:
+  1. Where the contract was made with a person, not a resident of the
+state.
+  2. Where it was made and to be performed without the state.
+  3. Where the creditor was not, at the time of the discharge, a
+resident of the state.
+```

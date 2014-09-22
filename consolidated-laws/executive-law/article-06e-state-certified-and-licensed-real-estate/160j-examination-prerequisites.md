@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 160-J", "kind": "section", "law_id": "EXC", "location_id": "160-J", "path": "ARTICLE 6-E › SECTION 160-J", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/160-J.md", "title": "Examination prerequisites"} -->
+# Executive Law § 160-J — Examination prerequisites
+
+[Executive Law](../README.md) › [Article 6-E — State Certified and Licensed Real Estate Appraisers](README.md)
+
+```text
+  § 160-j. Examination prerequisites. 1. Certified general
+classification.  As a prerequisite to taking the examination for
+certification as a state certified general real estate appraiser, an
+applicant shall present evidence satisfactory to the board that he or
+she has fulfilled the minimum education and experience requirements for
+such certification examination as established by the board, which shall
+not be less than the minimum criteria established by the Appraiser
+Qualification Board pursuant to Title XI of the Financial Institution
+Reform, Recovery and Enforcement Act of 1989.
+  2. Certified residential classification. As a prerequisite to taking
+the examination for certification as a state certified residential real
+estate appraiser, an applicant shall present evidence satisfactory to
+the board that he or she has fulfilled the minimum education and
+experience requirements for such certification examination as
+established by the board, which shall not be less than the minimum
+criteria established by the Appraiser Qualification Board pursuant to
+Title XI of the Financial Institution Reform, Recovery and Enforcement
+Act of 1989.
+  3. Licensed classification. As a prerequisite to taking the
+examination for licensing as a state licensed real estate appraiser, an
+applicant shall present evidence satisfactory to the board that he or
+she has fulfilled the minimum education and experience requirements for
+such certification examination as established by the board, which shall
+not be less than the minimum criteria established by the Appraiser
+Qualification Board pursuant to Title XI of the Financial Institution
+Reform, Recovery and Enforcement Act of 1989.
+```

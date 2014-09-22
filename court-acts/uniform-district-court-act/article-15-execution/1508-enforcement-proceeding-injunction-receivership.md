@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Uniform District Court Act § 1508", "kind": "section", "law_id": "UDC", "location_id": "1508", "path": "ARTICLE 15 › SECTION 1508", "repealed": false, "repealed_date": null, "source": "nys-laws:UDC/1508.md", "title": "Enforcement proceeding; injunction; receivership"} -->
+# Uniform District Court Act § 1508 — Enforcement proceeding; injunction; receivership
+
+[Uniform District Court Act](../README.md) › [Article 15 — Execution](README.md)
+
+```text
+§ 1508. Enforcement proceeding; injunction; receivership.
+  (a) An injunction or restraining order or notice may issue out of or
+by, and a receiver may be appointed by, the court if:
+  1. the court has been granted jurisdiction of an enforcement
+proceeding by CPLR § 5221; and
+  2. such remedy is utilized in furtherance of the enforcement of a
+money judgment.
+  (b) In any enforcement proceeding of which the court has jurisdiction,
+all processes, mandates, subpoenas, orders, notices and other papers
+therein may be served or executed by such means and at such place,
+regardless of county or state lines, as would be authorized in the
+supreme court in a like instance; and the powers of a receiver appointed
+in such proceeding, pursuant to subdivision (a), shall extend throughout
+the state.
+```

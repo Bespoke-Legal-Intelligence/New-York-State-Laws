@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 355", "kind": "section", "law_id": "PBH", "location_id": "355", "path": "ARTICLE 3 › TITLE 3 › SECTION 355", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/355.md", "title": "County or part-county health districts; dissolution"} -->
+# Public Health Law § 355 — County or part-county health districts; dissolution
+
+[Public Health Law](../../README.md) › [Article 3 — Local Health Organization](../README.md) › [Title 3 — County and Part-county Health Districts](README.md)
+
+```text
+  § 355. County or part-county health districts; dissolution. 1.  The
+board of supervisors of any county in which a county or part-county
+health district has been or may be established, with the consent of the
+supervisors representing that part of a county included in the district
+in respect to a part-county health district, may abolish such district
+at any time after three years shall have elapsed following its
+establishment, provided, however, that before such action may be taken
+an opportunity shall be given for a public hearing. Public notice shall
+be given and the commissioner shall be notified in writing, at least
+thirty days in advance, of the time and place of such hearing.
+  2. The action of the board of supervisors abolishing a health district
+pursuant to the provisions of this section shall become effective thirty
+days after the adoption of the resolution to abolish such health
+district, and at the end of such period the terms of office of the
+members of the board of health and of the county health commissioner
+shall terminate.
+```

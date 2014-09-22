@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 64", "kind": "section", "law_id": "HAY", "location_id": "64", "path": "ARTICLE 3 › SECTION 64", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/64.md", "title": "Maintenance by state of certain improved roads and highways"} -->
+# Highway Law § 64 — Maintenance by state of certain improved roads and highways
+
+[Highway Law](../README.md) › [Article 3 — State Highways](README.md)
+
+```text
+  § 64. Maintenance by state of certain improved roads and highways. The
+commissioner of transportation may inspect all roads and highways which
+have been constructed or improved under any general or special law by
+the county, town or village which are indicated for improvement in
+section three hundred and forty-one of this act, and if any such road is
+properly constructed he shall make an order directing that such highway
+be taken over by the state for maintenance as a state highway. Such
+order shall be served upon the chairman of the board of supervisors and
+a certified copy thereof filed in the office of the county clerk and
+also in the office of the state comptroller.
+```

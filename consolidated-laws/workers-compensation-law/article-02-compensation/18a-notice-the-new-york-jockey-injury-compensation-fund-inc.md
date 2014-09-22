@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 18-A", "kind": "section", "law_id": "WKC", "location_id": "18-A", "path": "ARTICLE 2 › SECTION 18-A", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/18-A.md", "title": "Notice: The New York Jockey Injury Compensation Fund, Inc"} -->
+# Workers' Compensation Law § 18-A — Notice: The New York Jockey Injury Compensation Fund, Inc
+
+[Workers' Compensation Law](../README.md) › [Article 2 — Compensation](README.md)
+
+```text
+  § 18-a. Notice: The New York Jockey Injury Compensation Fund, Inc.
+Wherever in this chapter it shall be required that notice be given to an
+employer, except for claims involving section fourteen-a of the workers'
+compensation law such notice requirement shall be deemed satisfied by
+giving notice to the New York Jockey Injury Compensation Fund, Inc., in
+connection with an injury to a jockey, apprentice jockey or exercise
+person licensed under article two or four of the racing, pari-mutuel
+wagering and breeding law who, pursuant to section two of this chapter,
+is an employee of all owners and trainers licensed or required to be
+licensed under article two or four of the racing, pari-mutuel wagering
+and breeding law and of the fund. In a claim involving section
+fourteen-a of the workers' compensation law such required notice shall
+be given to the employing owner and/or trainer of the fund.
+```

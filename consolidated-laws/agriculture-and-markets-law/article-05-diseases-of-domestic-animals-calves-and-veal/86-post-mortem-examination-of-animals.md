@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 86", "kind": "section", "law_id": "AGM", "location_id": "86", "path": "ARTICLE 5 › SECTION 86", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/86.md", "title": "Post-mortem examination of animals"} -->
+# Agriculture and Markets Law § 86 — Post-mortem examination of animals
+
+[Agriculture and Markets Law](../README.md) › [Article 5 — Diseases of Domestic Animals; Calves and Veal; Pure Bred Stock; Certificates of Registry](README.md)
+
+```text
+  § 86. Post-mortem examination of animals.  The carcass of every animal
+duly condemned and killed under the provisions of this article shall be
+examined by a veterinarian designated by the commissioner for the
+purpose of determining whether or not disease existed in such animal and
+the person making the examination shall file promptly with the
+commissioner a report of the examination, in a form prescribed by the
+commissioner; but such an examination, and the filing of such a report
+thereof, by an inspector of the United States government engaged in meat
+inspection service may be accepted by the commissioner in lieu of an
+examination and report by a designated veterinarian.
+```

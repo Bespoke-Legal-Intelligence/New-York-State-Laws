@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1508", "kind": "section", "law_id": "ISC", "location_id": "1508", "path": "ARTICLE 15 › SECTION 1508", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1508.md", "title": "Acceptance of reports filed with government agencies"} -->
+# Insurance Law § 1508 — Acceptance of reports filed with government agencies
+
+[Insurance Law](../README.md) › [Article 15 — Holding Companies](README.md)
+
+```text
+  § 1508. Acceptance of reports filed with government agencies. To the
+extent that any information or material is set forth in forms or other
+matter on file with any government agency or in a registration form
+filed with the superintendent by another person within the same holding
+company system, the controlled insurer may comply with the registration
+or reporting requirements of this article by referring in its
+registration form or report to such other filed matter and attaching a
+copy thereof certified by the insurer as a true and complete copy, to
+such registration form or report or, if such other filed matter is on
+file with the superintendent, incorporating such matter by reference.
+```

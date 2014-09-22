@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4176", "kind": "section", "law_id": "PBH", "location_id": "4176", "path": "ARTICLE 41 › TITLE 7 › SECTION 4176", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4176.md", "title": "Records; correction of defective registration"} -->
+# Public Health Law § 4176 — Records; correction of defective registration
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 7 — Vital Statistics Records](README.md)
+
+```text
+  § 4176. Records; correction of defective registration. 1. If defects
+be found in the registration under the supervision of a registrar of
+vital statistics, the commissioner shall notify such registrar that such
+defects must be corrected within ten days of the date of the notice.
+  2. If such defects are not so corrected the commissioner shall take
+control of such registration and of the records thereof, and enforce the
+rules and regulations in regard thereto and secure a complete
+registration in such district, and such control shall continue until the
+registrar of vital statistics shall satisfy the commissioner that he
+will make such record and registry complete as required by law and in
+the sanitary code.
+  3. The expenses incurred by the commissioner or his authorized
+representative while in control of such registration shall be a charge
+upon the city, town or village comprising the registration district.
+  4. No certificate of birth or death, after its acceptance for
+registration by the registrar, and no new certificate or other record
+made in pursuance of this article, shall be altered or changed in any
+respect except to correct errors made in completing the certificate by
+the person responsible for preparing the certificate or as otherwise
+provided in this article. The commissioner shall provide the application
+form for a correction of a record which must be properly dated, signed
+and witnessed, or subscribed and affirmed by the persons making them as
+true under the penalties of perjury, together with such supporting
+proofs as may be prescribed by the commissioner.
+```

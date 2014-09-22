@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 26", "kind": "section", "law_id": "TCP", "location_id": "26", "path": "ARTICLE 3 › SECTION 26", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/26.md", "title": "Extension of lines"} -->
+# Transportation Corporations Law § 26 — Extension of lines
+
+[Transportation Corporations Law](../README.md) › [Article 3 — Telegraph and Telephone Corporations](README.md)
+
+```text
+  § 26. Extension of lines. A telegraph corporation, a telephone
+corporation or a telegraph and telephone corporation heretofore or
+hereafter incorporated under or by any general or special law may
+construct, own, use and maintain any line of electric telegraph or
+telephone, whether or not the line and the territory in which it be
+located was described in its original certificate of incorporation, and
+whether wholly within or wholly or partly without the state, and may
+join with any other corporation in constructing, leasing, owning, using
+and maintaining such line, or hold or own any interest therein, or
+become lessees thereof, upon delivering to the department of state for
+filing a certificate of amendment. If the lines or territory are to be
+extended the certificate shall describe the territory in which the
+operations of the corporation are to be carried on.
+```

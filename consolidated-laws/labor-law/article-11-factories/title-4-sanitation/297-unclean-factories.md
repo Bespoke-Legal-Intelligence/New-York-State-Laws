@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 297", "kind": "section", "law_id": "LAB", "location_id": "297", "path": "ARTICLE 11 › TITLE 4 › SECTION 297", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/297.md", "title": "Unclean factories"} -->
+# Labor Law § 297 — Unclean factories
+
+[Labor Law](../../README.md) › [Article 11 — Factories](../README.md) › [Title 4 — Sanitation](README.md)
+
+```text
+  § 297. Unclean factories. 1. If the commissioner finds evidence of
+contagious disease in a factory, he shall affix to the articles therein
+exposed to contagion a label containing the word "unclean" and shall
+notify the local department or board of health, which after disinfecting
+the articles may remove such label.
+  2. If the commissioner finds that the factory or work room therein is
+unsanitary, the commissioner may, upon filing in his office a written
+order stating the reasons therefor, affix to any articles therein a
+label containing the word "unclean." Such label shall be removed only by
+an authorized representative of the commissioner and not until such
+articles are removed from the factory and cleaned, or until the factory
+or work room is made sanitary.
+```

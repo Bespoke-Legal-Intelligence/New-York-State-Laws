@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 20-B", "kind": "section", "law_id": "DOM", "location_id": "20-B", "path": "ARTICLE 3 › SECTION 20-B", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/20-B.md", "title": "Certification of marriage; state commissioner of health may furnish"} -->
+# Domestic Relations Law § 20-B — Certification of marriage; state commissioner of health may furnish
+
+[Domestic Relations Law](../README.md) › [Article 3 — Solemnization, Proof and Effect of Marriage](README.md)
+
+```text
+  § 20-b. Certification of marriage; state commissioner of health may
+furnish. 1. The state commissioner of health or person authorized by him
+shall, upon request, issue to any applicant a certification of any
+marriage registered under the provisions of this article, unless he is
+satisfied that the same does not appear to be necessary or required for
+judicial or other proper purposes. Any such certification of marriage
+made by such commissioner or person authorized to act for him shall be
+prima facie evidence in all courts and places of the facts therein
+stated.
+  2. Such certification shall contain a statement of the respective
+names, dates and places of birth and places of the then residence of
+each of the parties to such marriage and the date and place thereof.
+  3. Each applicant for a certification of marriage shall remit to the
+commissioner with such application a fee of thirty dollars in payment
+for the search of the files and records and the furnishing of such
+certification if a record thereof is found or for a certification that a
+search discloses no record of a marriage.
+  4. The federal agency in charge of vital statistics may obtain, at a
+fee acceptable to the commissioner, information from marriage records
+for use solely as statistical data.
+```

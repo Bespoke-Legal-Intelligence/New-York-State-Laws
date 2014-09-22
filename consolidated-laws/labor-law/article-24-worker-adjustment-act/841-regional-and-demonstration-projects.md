@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 841", "kind": "section", "law_id": "LAB", "location_id": "841", "path": "ARTICLE 24 › SECTION 841", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/841.md", "title": "Regional and demonstration projects"} -->
+# Labor Law § 841 — Regional and demonstration projects
+
+[Labor Law](../README.md) › [Article 24 — Worker Adjustment Act](README.md)
+
+```text
+  § 841.  Regional and demonstration projects. 1. Demonstration
+projects. (a) The state unit shall conduct statewide projects and
+demonstration programs to address the needs of distressed industries and
+to provide for projects that would lead to the development of innovative
+strategies to meet the needs of dislocated workers.
+  (b) Such projects shall emphasize retraining, and include counseling
+and assessment components.
+  (c) Funding for such projects shall be allocated through a contract
+process subject to the state plan and in coordination with the substate
+grantees affected.
+  (d) Funding for projects and programs shall be made available in
+annual rounds, by December thirty-first of each fiscal year beginning in
+nineteen hundred eighty-nine.  The department shall, by rule, establish
+a solicitation and award evaluation process for funds made available for
+this purpose. Such rules shall specify the criteria by which the
+department shall evaluate proposals and determine which shall receive
+funding. The evaluation process shall consider the ability of the
+provider to accomplish the proposal based on past performance,
+administrative capability and fiscal responsibility, the innovativeness
+of the proposal, the expected improvement in the delivery of services
+within the area served by the substate grantee, the extent to which
+elements of the proposal may be replicated in other service areas within
+the state, and such other factors as the commissioner shall, by rule,
+prescribe.
+  2. Regional projects.  The state unit shall provide extended
+retraining and basic readjustment services directly through the
+department, through awards to substate grantees or through awards by the
+department to service providers. Substate grantees shall have preference
+in receiving such grants. Such grants shall be made available from funds
+allocated to the state pursuant to paragraph (e) of subdivision four of
+section eight hundred forty-seven of this article and shall be subject
+to such requirements as are imposed by section eight hundred forty-seven
+of this article.
+```

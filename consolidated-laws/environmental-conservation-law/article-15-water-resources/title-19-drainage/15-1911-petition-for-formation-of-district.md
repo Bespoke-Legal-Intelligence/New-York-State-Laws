@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-1911", "kind": "section", "law_id": "ENV", "location_id": "15-1911", "path": "ARTICLE 15 › TITLE 19 › SECTION 15-1911", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-1911.md", "title": "Petition for formation of district"} -->
+# Environmental Conservation Law § 15-1911 — Petition for formation of district
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 19 — Drainage](README.md)
+
+```text
+§ 15-1911. Petition for formation of district.
+  1. Any three or more persons possessing swamp, bog, pond, meadow, or
+other low or wet lands or any lands in the vicinity thereof, or any
+public corporation in which such lands are located, or in the vicinity
+of such lands, may present to the department a verified petition praying
+for the formation of a drainage improvement district.
+  2. Such petition shall set forth:
+  a. The proposed name of such district, as the ..................
+Drainage Improvement District.
+  b. The facts showing that the swamp, bog, pond, meadow or other low or
+wet lands are a menance to the public health, safety or welfare and that
+it is necessary for the conservation of the public health, safety or
+welfare to drain or improve such lands by the construction of such
+drains, ditches, channels, dams, dikes or other works, through or upon
+such lands or through or upon the lands of others, so far as necessary
+for any or all of such purposes.
+  c. A general description of the lands to be included in the proposed
+district.
+  d. A general statement of the benefits which will inure from the
+formation of such district and the drainage of such lands.
+```

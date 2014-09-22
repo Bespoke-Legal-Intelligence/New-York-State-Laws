@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 290", "kind": "section", "law_id": "RCO", "location_id": "290", "path": "ARTICLE 15 › SECTION 290", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/290.md", "title": "Application of article"} -->
+# Religious Corporations Law § 290 — Application of article
+
+[Religious Corporations Law](../README.md) › [Article 15 — No title](README.md)
+
+```text
+  § 290. Application of article. 1. This article applies to all
+churches, congregations, societies, parishes, committees and other local
+organizations governed by jurisdictions, bishoprics, dioceses, missions
+of any Orthodox Patriarchate, Synod or national church of the Orthodox
+Greek Catholic (Eastern Orthodox) Church, recognized by the apostolic
+historic Orthodox Patriarchates of Constantinople, Antioch, Moscow and
+Serbia (Jugoslavia), respectively, through their four primary Orthodox
+Greek Catholic jurisdictions in America as specified in subdivisions
+three and four of section fifteen of this chapter; also to any churches,
+parishes, congregations, societies or committees of the Christian
+Orthodox Catholic Churches of the Eastern Confession which are included
+under article five-a of said chapter and in general to all churches,
+parishes, congregations, committees or religious organizations founded
+or established with the intent and for the purpose of adhering to and
+maintaining the apostolic and historic communion, doctrine, discipline,
+canon law, tradition, worship and unity of the Eastern Confession known
+as the Orthodox Greek Catholic (Eastern Orthodox) Church.
+  2. This article does not apply to the following churches, which are
+autogenic, to wit: American Catholic Church, Old Catholic Church,
+Western Orthodox Church, Orthodox Old Catholic Church, American Catholic
+Orthodox Church, Apostolic Episcopal Church, Holy Orthodox Church in
+America, American Patriarchal Orthodox Church, African Orthodox Church
+or any other organization, church, society or establishment by whatever
+name, title or description designated, whose names, titles or
+descriptions allude, relate or refer to the said Orthodox Greek Catholic
+(Eastern Orthodox) Church but which are not recognized or accepted by
+said apostolic and historic Orthodox Greek Catholic Patriarchates.
+```

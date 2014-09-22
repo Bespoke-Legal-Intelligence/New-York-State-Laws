@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Town Law § 86", "kind": "section", "law_id": "TWN", "location_id": "86", "path": "ARTICLE 6 › SECTION 86", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/86.md", "title": "Town elections in the county of Broome"} -->
+# Town Law § 86 — Town elections in the county of Broome
+
+[Town Law](../README.md) › [Article 6 — Town Elections](README.md)
+
+```text
+  § 86. Town elections in the county of Broome. Biennial town elections
+in the several towns of the county of Broome, for the election of town
+officers and for the consideration of such questions as may be proposed
+by the town board or the duly qualified electors, pursuant to the
+provisions of this chapter, shall be held on the Tuesday next succeeding
+the first Monday in November of every even-numbered year.  All other
+town elections in towns of such county are special elections.  All
+elective town officers of the several towns in the county in office at
+the time this section takes effect, shall continue in office for the
+terms for which elected and until their successors have been elected and
+have qualified. The town officers to be elected at any such election
+shall be those and only those elective town officers of a town of the
+second class, unless such town shall have determined to become a town of
+the first class, pursuant to the provisions of this chapter, and shall
+be elected for terms prescribed by this chapter.
+```

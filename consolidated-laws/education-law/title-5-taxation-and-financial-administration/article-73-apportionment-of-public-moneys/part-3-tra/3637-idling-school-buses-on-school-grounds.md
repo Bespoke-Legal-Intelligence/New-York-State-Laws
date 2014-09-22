@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3637", "kind": "section", "law_id": "EDN", "location_id": "3637", "path": "TITLE 5 › ARTICLE 73 › PART 3 › SECTION 3637", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3637.md", "title": "Idling school buses on school grounds"} -->
+# Education Law § 3637 — Idling school buses on school grounds
+
+[Education Law](../../../README.md) › [Title 5 — Taxation and Financial Administration](../../README.md) › [Article 73 — Apportionment of Public Moneys](../README.md) › [Part 3 — Transportation Services](README.md)
+
+```text
+  * § 3637. Idling school buses on school grounds. 1. On or before July
+first, two thousand eight, the commissioner shall promulgate regulations
+requiring school districts to minimize, to the extent practicable, the
+idling of the engine of any school bus, as defined in section one
+hundred forty-two of the vehicle and traffic law, and other vehicles
+owned or leased by the school district while such bus or vehicle is
+parked or standing on school grounds, or in front of any school. Such
+regulations shall apply to school districts identified by the
+commissioner, in consultation with the department of health, with a
+significant number of children with asthma and those other school
+districts deemed by the commissioner as appropriate.
+  2. Such regulations shall include, but not be limited to, a
+requirement that the engines of all school buses and vehicles owned or
+leased by the school district be turned off while waiting for passengers
+to load or off load on school grounds. When necessary for heating,
+mechanical or emergency circumstances, the regulations may allow idling
+to the extent necessary to achieve such purpose. Provided, however, that
+such regulations shall not conflict with applicable state regulations
+and local laws.
+  3. School districts shall be required to annually provide their school
+personnel with notice of the provisions of this section, and the
+regulations promulgated pursuant to this section by the commissioner.
+The commissioner shall provide such notice for school districts to
+disseminate.
+  * NB Repealed June 30, 2019
+```

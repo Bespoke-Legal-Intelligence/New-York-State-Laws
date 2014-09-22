@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 324", "kind": "section", "law_id": "GBS", "location_id": "324", "path": "ARTICLE 20-A › SECTION 324", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/324.md", "title": "Definitions"} -->
+# General Business Law § 324 — Definitions
+
+[General Business Law](../README.md) › [Article 20-A — Petroleum Well Casings and Pipes](README.md)
+
+```text
+  § 324. Definitions. The following terms, whenever used or referred to
+in this article, shall have the following meanings:
+  1. "Petroleum" shall mean oil or petroleum of any kind and in any form
+including, but not limited to, oil, petroleum, fuel oil, crude oil,
+petroleum mixed with one or more other substances, gasoline and
+kerosene.
+  2. "Petroleum well casings and pipes" shall mean those well casings
+and pipes which were at any time used to convey or transport therein
+petroleum.
+  3. "Consumer" shall mean a person who purchases well casings and pipes
+for personal, family or household purposes.
+```

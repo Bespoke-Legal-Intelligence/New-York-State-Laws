@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 225-A", "kind": "section", "law_id": "RCO", "location_id": "225-A", "path": "ARTICLE 11-A › SECTION 225-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/225-A.md", "title": "Organization of a free Methodist church"} -->
+# Religious Corporations Law § 225-A — Organization of a free Methodist church
+
+[Religious Corporations Law](../README.md) › [Article 11-A — Free Methodist Churches](README.md)
+
+```text
+  § 225-a. Organization of a free Methodist church. It shall be lawful
+for any number of persons, not less than six, with the consent of the
+district superintendent of the district in which the proposed church is
+to be located, to organize a free Methodist church and to procure its
+incorporation. Said church, when so organized, shall be subject in all
+matters of church government and ecclesiastical polity to the
+discipline, rules, usages and ministerial appointments of the Free
+Methodist Church of North America, as from time to time authorized and
+declared by the general conference of said church and the annual
+conference within the bounds of which such church may be situated.
+```

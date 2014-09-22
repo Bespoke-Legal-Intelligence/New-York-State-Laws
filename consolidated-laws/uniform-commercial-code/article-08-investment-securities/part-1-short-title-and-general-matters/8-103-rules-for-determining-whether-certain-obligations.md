@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 8-103", "kind": "section", "law_id": "UCC", "location_id": "8-103", "path": "ARTICLE 8 › PART 1 › SECTION 8-103", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/8-103.md", "title": "Rules for Determining Whether Certain Obligations and Interests are Securities or Financial Assets"} -->
+# Uniform Commercial Code § 8-103 — Rules for Determining Whether Certain Obligations and Interests are Securities or Financial Assets
+
+[Uniform Commercial Code](../../README.md) › [Article 8 — Investment Securities](../README.md) › [Part 1 — Short Title and General Matters](README.md)
+
+```text
+Section 8--103. Rules for Determining Whether Certain Obligations and
+                  Interests are Securities or Financial Assets.
+  (a) A share or similar equity interest issued by a corporation,
+business trust, joint stock company, or similar entity is a security.
+  (b) An "investment company security" is a security. "Investment
+company security" means a share or similar equity interest issued by an
+entity that is registered as an investment company under the federal
+investment company laws, an interest in a unit investment trust that is
+so registered, or a face-amount certificate issued by a face-amount
+certificate company that is so registered.  Investment company security
+does not include an insurance policy or endowment policy or annuity
+contract issued by an insurance company.
+  (c) An interest in a partnership or limited liability company is not a
+security unless it is dealt in or traded on securities exchanges or in
+securities markets, its terms expressly provide that it is a security
+governed by this Article, or it is an investment company security.
+However, an interest in a partnership or limited liability company is a
+financial asset if it is held in a securities account.
+  (d) A writing that is a security certificate is governed by this
+Article and not by Article 3, even though it also meets the requirements
+of that Article. However, a negotiable instrument governed by Article 3
+is a financial asset if it is held in a securities account.
+  (e) An option or similar obligation issued by a clearing corporation
+to its participants is not a security, but is a financial asset.
+  (f) A commodity contract, as defined in Section 9--102(a)(15), is not
+a security or a financial asset.
+```

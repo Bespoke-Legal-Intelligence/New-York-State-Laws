@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 152", "kind": "section", "law_id": "AGM", "location_id": "152", "path": "ARTICLE 12 › SECTION 152", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/152.md", "title": "Adulteration and sale of turpentine; notification of purchaser"} -->
+# Agriculture and Markets Law § 152 — Adulteration and sale of turpentine; notification of purchaser
+
+[Agriculture and Markets Law](../README.md) › [Article 12 — Adulteration and Sale of Turpentine and Linseed Oil](README.md)
+
+```text
+  § 152. Adulteration and sale of turpentine; notification of purchaser.
+No person shall manufacture, mix for sale, sell or offer for sale under
+the name of turpentine, spirits of turpentine, or wood turpentine or any
+compounding of the word turpentine, or under any name or device
+illustrating or suggesting turpentine or spirits of turpentine, any
+article which is not wholly distilled or derived from resin, crude
+turpentine gum, or scrapings from pine trees, and unmixed and
+unadulterated with oil, benzine or any other substance of any kind
+whatever, unless the package containing the same shall be stenciled or
+marked, with legible black letters in the English language not less than
+two inches high and one inch in width, "adulterated spirits of
+turpentine." Nor shall any person, firm or corporation sell or deliver
+such adulterated spirits of turpentine without informing the purchaser
+at the time of sale that the article is not pure spirits of turpentine,
+and the invoice shall accordingly read, "adulterated spirits of
+turpentine." Every container in which such mixed or adulterated spirits
+of turpentine is contained shall, in addition to the labeling before
+memtioned, be marked or stenciled in legible black letters in the
+English language, with the percentage of adulterant or adulterants which
+are contained in such mixture.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 139", "kind": "section", "law_id": "BNK", "location_id": "139", "path": "ARTICLE 3 › SECTION 139", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/139.md", "title": "Saving clause"} -->
+# Banking Law § 139 — Saving clause
+
+[Banking Law](../README.md) › [Article 3 — Banks and Trust Companies](README.md)
+
+```text
+  § 139. Saving clause. All banks which shall have been authorized by
+the superintendant to exercise fiduciary powers pursuant to this
+chapter, as from time to time in effect, shall be known as trust
+companies subject to the provisions of this article applicable to trust
+companies, but nothing contained in this chapter shall require any such
+bank to change its name to include the term "trust company". All trust
+companies organized under or subject to the provisions of this chapter,
+as from time to time in effect, shall be subject to all the provisions
+of this article applicable to trust companies. Notwithstanding any other
+provision or law, a corporation formed under this article to acquire the
+banking business previously done by a partnership doing business
+pursuant to this chapter may have as its corporate name the name under
+which such partnership did business, with the addition of a word or
+words, indicating that it is a corporation.
+```

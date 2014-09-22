@@ -1,0 +1,294 @@
+﻿<!-- nyslaw {"citation": "Social Services Law § 209", "kind": "section", "law_id": "SOS", "location_id": "209", "path": "ARTICLE 5 › TITLE 6 › SECTION 209", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/209.md", "title": "Eligibility"} -->
+# Social Services Law § 209 — Eligibility
+
+[Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 6 — Additional State Payments For Eligible Aged, Blind and Disabled Persons](README.md)
+
+```text
+  § 209. Eligibility. 1. (a) Notwithstanding any law to the contrary, no
+person shall be eligible for any payment pursuant to this title who is
+ineligible for supplemental security income for any reason other than
+having countable income exceeding the federal benefit rate for such
+program. An individual shall be eligible to receive additional state
+payments if he or she has applied for supplemental security income
+benefits, has received a determination with respect to such application
+and:
+  (i) is over sixty-five years of age, or is blind or disabled; and
+  (ii) does not have countable income in an amount equal to or greater
+than the standard of need established in subdivision two of this
+section; and
+  (iii) does not have countable resources in an amount equal to or
+greater than the amount of resources an individual or couple may have
+and remain eligible for supplemental security income benefits pursuant
+to federal law and regulations of the department; and
+  (iv) is a resident of the state and is either a citizen of the United
+States or is not an alien who is or would be ineligible for federal
+supplemental security income benefits solely by reason of alien status.
+  (b) A person who is properly receiving supplemental security income
+benefits shall be deemed to have met the eligibility criteria contained
+in subparagraphs (i), (ii) and (iii) of paragraph (a) of this
+subdivision.
+  (c) A person who, for the month of December, nineteen hundred
+seventy-three, properly received a grant of assistance under the state's
+program of old age assistance, assistance to the blind, aid to the
+disabled or the combined program of aid to aged, blind and disabled
+persons, shall be deemed to have met the eligibility criteria of this
+subdivision; provided, however, that a disabled person who did not also
+receive such a grant for any month prior to July, nineteen hundred
+seventy-three, shall not be deemed to have met such eligibility criteria
+under this paragraph. A person who is deemed eligible under this
+paragraph shall continue to be deemed to meet the eligibility criteria
+of this subdivision so long as he continues to be blind or disabled, as
+the case may be, pursuant to state standards in effect for October,
+nineteen hundred seventy-two, and so long as he continues to reside in
+the state.
+  (d) Any inconsistent provision of this title notwithstanding, an
+individual shall not be eligible for additional state payments with
+respect to any month, if throughout such month, (i) he is an inmate of a
+public institution, or (ii) he is an inmate in a medical facility which
+is receiving medical assistance payments for him at a level exceeding
+fifty per cent of the cost of his care, or (iii) he is an inmate in a
+medical facility which is not certified under the state's medical
+assistance program. Nor shall an individual be eligible for additional
+state payments for any month in which he is ineligible for supplemental
+security income benefits because of a failure to file for other
+non-public assistance benefits to which he might be entitled, or because
+of a refusal to participate in treatment for drug addiction or
+alcoholism or because he has remained outside the United States for all
+of such month, or because he has refused vocational rehabilitation.
+  2. The following amounts shall be the standard of monthly need for
+determining eligibility for and the amount of additional state payments,
+depending on the type of living arrangement and the geographic area in
+which the eligible individual or the eligible couple resides:
+  * (a) On and after January first, two thousand thirteen, for an
+eligible individual living alone, $797.00; and for an eligible couple
+living alone, $1170.00.
+  * NB Effective until December 31, 2014
+  * (a) On and after January first, two thousand fourteen, for an
+eligible individual living alone, $808.00; and for an eligible couple
+living alone, $1186.00.
+  * NB Effective December 31, 2014
+  * (b) On and after January first, two thousand thirteen, for an
+eligible individual living with others with or without in-kind income,
+$733.00; and for an eligible couple living with others with or without
+in-kind income, $1112.00.
+  * NB Effective until December 31, 2014
+  * (b) On and after January first, two thousand fourteen, for an
+eligible individual living with others with or without in-kind income,
+$744.00; and for an eligible couple living with others with or without
+in-kind income, $1128.00.
+  * NB Effective December 31, 2014
+  * (c) On and after January first, two thousand thirteen, (i) for an
+eligible individual receiving family care, $976.48 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving family care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland, two times the amount set forth in
+subparagraph (i) of this paragraph; or (iii) for an eligible individual
+receiving such care in any other county in the state, $938.48; and (iv)
+for an eligible couple receiving such care in any other county in the
+state, two times the amount set forth in subparagraph (iii) of this
+paragraph.
+  * NB Effective until December 31, 2014
+  * (c) On and after January first, two thousand fourteen, (i) for an
+eligible individual receiving family care, $987.48 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving family care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland, two times the amount set forth in
+subparagraph (i) of this paragraph; or (iii) for an eligible individual
+receiving such care in any other county in the state, $949.48; and (iv)
+for an eligible couple receiving such care in any other county in the
+state, two times the amount set forth in subparagraph (iii) of this
+paragraph.
+  * NB Effective December 31, 2014
+  * (d) On and after January first, two thousand thirteen, (i) for an
+eligible individual receiving residential care, $1145.00 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving residential care in the city of New York or the county of
+Nassau, Suffolk, Westchester or Rockland, two times the amount set forth
+in subparagraph (i) of this paragraph; or (iii) for an eligible
+individual receiving such care in any other county in the state,
+$1115.00; and (iv) for an eligible couple receiving such care in any
+other county in the state, two times the amount set forth in
+subparagraph (iii) of this paragraph.
+  * NB Effective until December 31, 2014
+  * (d) On and after January first, two thousand fourteen, (i) for an
+eligible individual receiving residential care, $1156.00 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving residential care in the city of New York or the county of
+Nassau, Suffolk, Westchester or Rockland, two times the amount set forth
+in subparagraph (i) of this paragraph; or (iii) for an eligible
+individual receiving such care in any other county in the state,
+$1126.00; and (iv) for an eligible couple receiving such care in any
+other county in the state, two times the amount set forth in
+subparagraph (iii) of this paragraph.
+  * NB Effective December 31, 2014
+  * (e) (i) On and after January first, two thousand thirteen, for an
+eligible individual receiving enhanced residential care, $1404.00; and
+(ii) for an eligible couple receiving enhanced residential care, two
+times the amount set forth in subparagraph (i) of this paragraph.
+  * NB Effective until December 31, 2014
+  * (e) (i) On and after January first, two thousand fourteen, for an
+eligible individual receiving enhanced residential care, $1415.00; and
+(ii) for an eligible couple receiving enhanced residential care, two
+times the amount set forth in subparagraph (i) of this paragraph.
+  * NB Effective December 31, 2014
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
+subdivision shall be increased to reflect any increases in federal
+supplemental security income benefits for individuals or couples which
+become effective on or after January first, two thousand fourteen but
+prior to June thirtieth, two thousand fourteen.
+  * NB Effective until December 31, 2014
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
+subdivision shall be increased to reflect any increases in federal
+supplemental security income benefits for individuals or couples which
+become effective on or after January first, two thousand fifteen but
+prior to June thirtieth, two thousand fifteen.
+  * NB Effective December 31, 2014
+  2-a. Notwithstanding any inconsistent provision of subparagraph (ii)
+of paragraph (d) of subdivision one of this section, an individual who
+is receiving or is eligible to receive federal supplemental security
+income payments and/or additional state payments and who is a resident
+of a residential health care facility as defined by section twenty-eight
+hundred one of the public health law, shall, in accordance with
+regulations of the department, be entitled to a state payment for
+personal needs in the amount of fifteen dollars a month, provided,
+however, that on or after January first, nineteen hundred eighty-eight
+the state payment for personal needs for such persons shall be in the
+amount of twenty-five dollars a month. Notwithstanding any inconsistent
+provision of subparagraph (ii) of paragraph (d) of subdivision one of
+this section, on or after January first, nineteen hundred eighty-eight,
+a resident of an intermediate care facility operated or issued an
+operating certificate by the office of mental retardation and
+developmental disabilities or a patient of a hospital operated by the
+office of mental health as defined in subdivision ten of section 1.03 of
+the mental hygiene law who is receiving or is eligible to receive
+supplemental security income payments and/or additional state payments
+shall receive a state payment for personal needs in the amount of five
+dollars a month. The department is authorized to promulgate necessary
+regulations to provide for the time and manner for payment of such
+personal allowance to such individuals.
+  3. As used in subdivision two of this section:
+  (a) "Living alone" shall mean living in a private household composed
+of one eligible individual or one eligible couple.
+  (b) "Living with others" shall mean living in a private household
+composed of an eligible individual or couple and at least one other
+person; or, with respect to any child who is not the head of a household
+and who is under the age of eighteen, or under the age of twenty-two if
+attending school, any living arrangement other than residential care in
+a facility operated or licensed by an office of the department of mental
+hygiene.
+  * (c) "Receiving family care" shall mean residing in a family type
+home for adults which is certified by the department and supervised by a
+social services district, in accordance with applicable provisions of
+law and regulations, or a family care home certified by the appropriate
+office of the department of mental hygiene, in accordance with
+applicable provisions of law and regulations or participating in a
+foster family care demonstration program pursuant to section three
+hundred sixty-four-h of this chapter.
+  * NB Effective until December 31, 2017
+  * (c) "Receiving family care" shall mean residing in a family type
+home for adults which is certified by the department and supervised by a
+social services district, in accordance with applicable provisions of
+law and regulations, or a family care home certified by the appropriate
+office of the department of mental hygiene, in accordance with
+applicable provisions of law and regulations.
+  * NB Effective December 31, 2017
+  (d) "Receiving residential care" shall mean residing in a residence
+for adults or a privately operated community residence, residential
+substance abuse treatment program or community residential facility for
+alcoholism, certified by the appropriate office of the department of
+mental hygiene; or a residential care center for adults certified by the
+office of mental health, in accordance with applicable law and
+regulations. For the purpose of this paragraph, a person receiving care
+in an intermediate care facility, certified by the department of health
+or by the appropriate office of the department of mental hygiene, or
+receiving respite services shall not be deemed to be receiving
+residential care.
+  (e) "Receiving enhanced residential care" shall mean residing in a
+privately operated school for the mentally retarded and developmentally
+disabled which is certified by the office of mental retardation and
+developmental disabilities of the department of mental hygiene, in
+accordance with applicable provisions of law and regulations or an adult
+home, or enriched housing program certified by the department of health
+in accordance with applicable law, rules and regulations to the extent
+permitted by federal law and regulations.
+  4. An eligible individual or an eligible couple shall be entitled to
+receive monthly an additional state payment in an amount equal to the
+difference between the monthly standard of need applicable to such
+individual or couple and the sum of such individual's or couple's
+supplemental security income benefit plus countable income.
+  5. If necessary in order to comply with or reflect changes in federal
+law, or to take full advantage of available federal funding for the
+purposes of this title, or to remain qualified for federal funding under
+any other program, the department may, by regulation, with the approval
+of the director of the budget, change the amounts specified as the
+standard of need in subdivision two of this section, or provide that any
+portion of the supplemental security income benefit be disregarded in
+determining the amount of the additional state payment. Any such change
+in the amounts of the standards of need or in the amounts to be so
+disregarded shall remain effective only until the first day of July of
+the year next succeeding the year in which such change is to take
+effect, unless such change is enacted into law prior to such date.
+  6. (a) As applicable federal law, rules and regulations so provide, a
+recipient of supplemental security income benefits or medical assistance
+in the state of New York or any other state may establish an irrevocable
+trust fund for the exclusive purpose of their or a family member's
+funeral and burial. Such trust fund and any accumulated interest not
+withdrawn by the recipient shall remain the responsibility of the
+funeral firm, funeral director, undertaker, cemetery or any other
+person, firm or corporation to whom such payment is made to administer
+for funeral and burial expenses of the recipient. Those persons who
+establish such a trust fund shall be given the opportunity to select the
+funeral firm, funeral director, undertaker, cemetery or any other
+person, firm or corporation to whom such payment is made of their choice
+to provide for their or a family member's burial arrangements and to
+change such selection at any time to any funeral firm, funeral director,
+undertaker, cemetery or any other person, firm or corporation to whom
+such payment is made, located either in the state of New York or any
+other state. Any such change of funeral firm, funeral director,
+undertaker, cemetery, or any other person, firm or corporation to whom
+such payment is made, must be carried out within ten business days
+following receipt of a request by the purchaser to the funeral firm,
+funeral director, undertaker, cemetery, or any other person, firm or
+corporation to whom such payment is made with which the current trust
+fund was established. Funds in such trust fund shall be placed in an
+interest bearing account pursuant to section four hundred fifty-three of
+the general business law. Accumulated interest from such account shall
+not be reported as "countable income" pursuant to section two hundred
+eight of this title.
+  (b) An applicant for or a recipient of medical assistance in the state
+of New York or any other state who enters into an agreement pursuant to
+section four hundred fifty-three of the general business law for their
+own benefit or for the benefit of a family member shall establish a
+single irrevocable trust fund for each such beneficiary pursuant to
+paragraph (a) of this subdivision.
+  (c) A funeral firm, funeral director, undertaker, cemetery, or any
+other person, firm or corporation which makes an agreement for and
+accepts payment for such an irrevocable trust fund, shall comply with
+the provisions of section four hundred fifty-three of the general
+business law, and shall include the following statement in any such
+agreement in conspicuous print of at least twelve point type:
+                               DISCLOSURE
+  NEW YORK LAW REQUIRES THIS AGREEMENT TO BE IRREVOCABLE FOR APPLICANTS
+FOR AND RECIPIENTS OF SUPPLEMENTAL SECURITY BENEFITS UNDER SECTION TWO
+HUNDRED NINE OF THE SOCIAL SERVICES LAW OR OF MEDICAL ASSISTANCE UNDER
+SECTION THREE HUNDRED SIXTY-SIX OF THE SOCIAL SERVICES LAW, AND FOR THE
+MONEYS PUT INTO A TRUST UNDER THIS AGREEMENT TO BE USED ONLY FOR FUNERAL
+AND BURIAL EXPENSES. WHETHER THIS AGREEMENT IS FOR YOUR FUNERAL AND
+BURIAL EXPENSES OR FOR THOSE OF A FAMILY MEMBER, IF ANY MONEY IS LEFT
+OVER AFTER YOUR FUNERAL AND BURIAL EXPENSES HAVE BEEN PAID, IT WILL GO
+TO THE COUNTY. YOU MAY CHANGE YOUR CHOICE OF FUNERAL HOME AT ANY TIME.
+IF THIS AGREEMENT IS FOR THE FUNERAL AND BURIAL EXPENSES OF A FAMILY
+MEMBER, AFTER YOUR DEATH SUCH FAMILY MEMBER MAY CHANGE THE CHOICE OF
+FUNERAL HOME AT ANY TIME.
+  (d) Any promotional literature prepared after January first, nineteen
+hundred ninety-seven by a funeral firm, funeral director, undertaker,
+cemetery, or any other person, firm or corporation for prearranged
+funeral and burial services must contain language disclosing the
+irrevocable nature of burial trusts established by or for an applicant
+or recipient of supplemental security income benefits or medical
+assistance.
+```

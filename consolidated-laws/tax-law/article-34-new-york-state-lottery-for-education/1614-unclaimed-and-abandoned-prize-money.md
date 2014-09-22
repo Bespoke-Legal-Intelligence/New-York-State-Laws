@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1614", "kind": "section", "law_id": "TAX", "location_id": "1614", "path": "ARTICLE 34 › SECTION 1614", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1614.md", "title": "Unclaimed and abandoned prize money"} -->
+# Tax Law § 1614 — Unclaimed and abandoned prize money
+
+[Tax Law](../README.md) › [Article 34 — New York State Lottery For Education](README.md)
+
+```text
+  § 1614. Unclaimed and abandoned prize money. a. No prize claim shall
+be valid if submitted to the division following the expiration of a
+one-year time period from the date of the drawing or from the close of
+the game in which a prize was won, and the person otherwise entitled to
+such prize shall forfeit any claim or entitlement to such prize moneys.
+Unclaimed prize money, plus interest earned thereon, shall be retained
+in the lottery prize account to be used for payment of special lotto or
+supplemental lotto prizes offered pursuant to the plan or plans
+specified in this article, or for promotional purposes to supplement
+other games on an occasional basis not to exceed sixteen weeks within
+any twelve month period pursuant to the plan or plans specified in this
+article.
+  In the event that the director proposes to change any plan for the use
+of unclaimed prize funds or in the event the director intends to use
+funds in a game other than the game from which such unclaimed prize
+funds were derived, the director of the budget, the chairperson of the
+senate finance committee, and the chairperson of the assembly ways and
+means committee shall be notified in writing separately detailing the
+proposed changes to any plan prior to the implementation of the changes.
+  b.  The division may determine that a prize has been abandoned
+whenever more than eighteen months have elapsed since a prize payment
+check was mailed to the last known address of the claimant and either
+such check has been returned undelivered by the United States postal
+service and the claimant cannot be located or such check has not been
+returned undelivered and has not been presented for payment. Any prize
+so determined to have been abandoned shall be paid to the state
+comptroller pursuant to section thirteen hundred fifteen of the
+abandoned property law.
+```

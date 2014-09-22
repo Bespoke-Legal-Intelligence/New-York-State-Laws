@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 160-Q", "kind": "section", "law_id": "EXC", "location_id": "160-Q", "path": "ARTICLE 6-E › SECTION 160-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/160-Q.md", "title": "Principal place of business"} -->
+# Executive Law § 160-Q — Principal place of business
+
+[Executive Law](../README.md) › [Article 6-E — State Certified and Licensed Real Estate Appraisers](README.md)
+
+```text
+  § 160-q. Principal place of business. 1. Each state certified or
+licensed real estate appraiser and each state licensed real estate
+appraiser assistant shall advise the department of the address of his or
+her principal place of business and all other addresses at which he or
+she is currently engaged in the business of preparing or assisting with
+the preparation of real property appraisal reports.
+  2. Change of name or address. Notice in writing in the manner and form
+prescribed by the department shall be given the department at its
+offices in Albany within ten days of a change of name or address of the
+state certified or licensed real estate appraisers or of the state
+licensed real estate appraiser assistants, except those made on a
+recertification or renewal application. The fee for filing each change
+of name or address notice shall be ten dollars.
+```

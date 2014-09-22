@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 502-A", "kind": "section", "law_id": "VAT", "location_id": "502-A", "path": "TITLE 5 › ARTICLE 19 › SECTION 502-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/502-A.md", "title": "Determination of weights applicable to license requirements"} -->
+# Vehicle and Traffic Law § 502-A — Determination of weights applicable to license requirements
+
+[Vehicle and Traffic Law](../../README.md) › [Title 5 — Drivers' Licenses](../README.md) › [Article 19 — Licensing of Drivers](README.md)
+
+```text
+  § 502-a. Determination of weights applicable to license requirements.
+The applicability of the requirements relative to licensing as defined
+in this article shall, except when a commercial driver's license is
+required solely because the vehicle is transporting hazardous materials
+or passengers, be based upon the vehicle manufacturer's GVWR, the
+registration weight of the vehicle or the actual weight of the vehicle
+and the load, whichever is greater, or with respect to passenger and
+limited use automobiles shall be based upon the registration weight of
+the automobile.
+```

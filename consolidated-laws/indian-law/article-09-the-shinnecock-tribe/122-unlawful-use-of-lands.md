@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 122", "kind": "section", "law_id": "IND", "location_id": "122", "path": "ARTICLE 9 › SECTION 122", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/122.md", "title": "Unlawful use of lands"} -->
+# Indian Law § 122 — Unlawful use of lands
+
+[Indian Law](../README.md) › [Article 9 — The Shinnecock Tribe](README.md)
+
+```text
+  § 122. Unlawful use of lands.  Any person, not of such tribe, who
+shall hire, use or occupy any lands of such tribe, which have been
+allotted by the trustees thereof, or any person who shall occupy or use
+any of such lands without the consent of a majority of such trustees,
+and of at least two of such justices, obtained and entered in the book
+of the town clerk kept for such purpose, shall be liable to a penalty of
+twenty-five dollars for every acre hired, used or occupied. Any person
+belonging to such tribe, who shall cut any wood or timber on such lands,
+without the order and consent of such trustees and justices entered in
+such book, shall be liable to a penalty of ten dollars for each offense.
+One-half of any such penalty shall be for the use of the overseers of
+the poor of the town of Southampton, and the other half shall go to any
+person who shall sue for the recovery thereof.
+```

@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-1973", "kind": "section", "law_id": "ENV", "location_id": "15-1973", "path": "ARTICLE 15 › TITLE 19 › SECTION 15-1973", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-1973.md", "title": "Drainage section association; definitions"} -->
+# Environmental Conservation Law § 15-1973 — Drainage section association; definitions
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 19 — Drainage](README.md)
+
+```text
+§ 15-1973. Drainage section association; definitions.
+  The following words and phrases, unless otherwise specified, are
+defined as follows:
+  1. A "drainage section" shall mean an area, of drainable acreage, as
+described in articles of association which have been filed and recorded
+as authorized by section 15-1975.
+  2. "Drainable acreage" shall mean that part of an owner's swamp, bog,
+pond, meadow or other low or wet agricultural lands, which will be
+drained by a drainage system as authorized by this title 19 to increase
+its productivity or otherwise render it more available for agricultural
+purposes, or in order to benefit the public health, safety and welfare.
+  3. "Aggregate drainable acreage" shall mean the total drainable
+acreage owned by all owners who execute articles of association
+authorized by this title 19.
+  4. "Owner" shall mean a person other than a municipal or public
+corporation, who or which is the owner in fee of drainable acreage and
+who or which executes the articles of association.
+```

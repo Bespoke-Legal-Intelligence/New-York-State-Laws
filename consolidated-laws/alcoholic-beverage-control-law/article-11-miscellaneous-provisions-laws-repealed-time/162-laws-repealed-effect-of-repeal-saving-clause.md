@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 162", "kind": "section", "law_id": "ABC", "location_id": "162", "path": "ARTICLE 11 › SECTION 162", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/162.md", "title": "Laws repealed; effect of repeal; saving clause"} -->
+# Alcoholic Beverage Control Law § 162 — Laws repealed; effect of repeal; saving clause
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 11 — Miscellaneous Provisions; Laws Repealed; Time of Taking Effect](README.md)
+
+```text
+  § 162. Laws repealed; effect of repeal; saving clause.  1. Chapter one
+hundred eighty of the laws of nineteen hundred thirty-three, entitled
+"An act relating to the manufacture, sale, control, distribution and
+regulation of certain alcoholic beverages, constituting chapter three-b
+of the consolidated laws," and all acts amendatory thereof or
+supplemental thereto are hereby repealed.
+  2. The repeal of the acts specified in subdivision one hereof shall
+not operate or be construed to shorten or terminate the term of any
+license heretofore issued thereunder or the rights of any person holding
+such a license; nor shall it be construed to abolish the state alcoholic
+beverage control board or the several county alcoholic beverage control
+boards or the New York city alcoholic beverage control board, as
+presently constituted, and which were heretofore established and are now
+operating pursuant to such acts nor to invalidate or affect any action
+heretofore taken by either of such boards or their officers or
+employees; nor to require the discharge or the re-appointment of any
+employees of either of such boards.
+  3. This chapter shall not affect any action or proceeding now pending
+in any court.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1174-E", "kind": "section", "law_id": "PBA", "location_id": "1174-E", "path": "ARTICLE 5 › TITLE 7-A › SECTION 1174-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1174-E.md", "title": "Responsibilities of the authority"} -->
+# Public Authorities Law § 1174-E — Responsibilities of the authority
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 7-A — Water Authority of Southeastern Nassau County](README.md)
+
+```text
+  § 1174-e. Responsibilities of the authority. The authority shall have
+the responsibility to: 1. investigate, analyse and evaluate various
+options for the distribution of water to the district, including, but
+not limited to, the following:
+  (a) The purchase, in the name of the authority, or in the name of any
+municipality or municipalities, of any water facility or distribution
+system or parts thereof involved in the supply of water to the district;
+  (b) The operation of any water facility or distribution system or
+parts thereof by any public water suppliers which operate in geographic
+areas adjacent to the district;
+  (c) The creation of additional water authorities to supply water to
+portions of the district as described in section eleven hundred
+seventy-four-c of this article; and
+  (d) The retention of the water supply system within the district which
+is in existence as of the effective date of this title.
+  2. Following any purchase pursuant to paragraph (a) of subdivision one
+of this section:
+  (a) Meter service to its customers; and
+  (b) Repair and maintain that portion of a water supply pipe extending
+from the water mains to the water meter. For purposes of this paragraph
+"water supply pipe" shall mean a pipe or line which connects the water
+mains directly to a customer's water meter.
+```

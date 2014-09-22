@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "New York City Civil Court Act § 1914", "kind": "section", "law_id": "CCA", "location_id": "1914", "path": "ARTICLE 19 › SECTION 1914", "repealed": false, "repealed_date": null, "source": "nys-laws:CCA/1914.md", "title": "Stenographer's fees"} -->
+# New York City Civil Court Act § 1914 — Stenographer's fees
+
+[New York City Civil Court Act](../README.md) › [Article 19 — Costs and Fees](README.md)
+
+```text
+  § 1914. Stenographer's fees. In all cases of appeal from an order or
+judgment, where a transcript of the stenographer's minutes or mechanical
+record of the testimony given on trial or hearing becomes a necessary
+part of the return on appeal, the stenographer's fees for making up such
+transcript shall be thirty cents for each folio and shall be paid in the
+first instance by the appellant and be taxable by him as a disbursement
+on the appeal; provided, however, that in any case in which an appeal
+has been taken by the city of New York or by any department, board or
+officer thereof, the stenographer, upon demand of the corporation
+counsel or the department, board or officer of the city shall, within
+ten days, make up the transcript as herein provided and furnish a copy
+of such transcript to the corporation counsel or the department, board
+or officer, the stenographer's fees in such case to be audited and paid
+by the comptroller of the city of New York out of the fund or
+appropriations applicable thereto.
+```

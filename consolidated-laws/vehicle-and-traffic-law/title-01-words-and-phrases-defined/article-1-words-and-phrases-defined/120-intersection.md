@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 120", "kind": "section", "law_id": "VAT", "location_id": "120", "path": "TITLE 1 › ARTICLE 1 › SECTION 120", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/120.md", "title": "Intersection"} -->
+# Vehicle and Traffic Law § 120 — Intersection
+
+[Vehicle and Traffic Law](../../README.md) › [Title 1 — Words and Phrases Defined](../README.md) › [Article 1 — Words and Phrases Defined](README.md)
+
+```text
+  § 120. Intersection. (a) The area embraced within the prolongation or
+connection of the lateral curb lines, or, if none, then the lateral
+boundary lines of the roadways of two highways which join one another
+at, or approximately at, right angles, or the area within which vehicles
+traveling upon different highways joining at any other angle may come in
+conflict.
+  (b) Where a highway includes two roadways thirty feet or more apart,
+then every crossing of each roadway of such divided highway by an
+intersecting highway shall be regarded as a separate intersection. In
+the event such intersecting highway also includes two roadways thirty
+feet or more apart, then every crossing of two roadways of such highways
+shall be regarded as a separate intersection.
+  (c) A circular intersection contains an island, generally circular in
+design, located in the center of the intersection where traffic passes
+to the right of the island.
+```

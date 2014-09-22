@@ -1,0 +1,750 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3306", "kind": "section", "law_id": "PBH", "location_id": "3306", "path": "ARTICLE 33 › TITLE 1 › SECTION 3306", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3306.md", "title": "Schedules of controlled substances"} -->
+# Public Health Law § 3306 — Schedules of controlled substances
+
+[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 3306. Schedules of controlled substances.  There are hereby
+established five schedules of controlled substances, to be known as
+schedules I, II, III, IV and V respectively. Such schedules shall
+consist of the following substances by whatever name or chemical
+designation known:
+  Schedule I. (a) Schedule I shall consist of the drugs and other
+substances, by whatever official name, common or usual name, chemical
+name, or brand name designated, listed in this section.
+  (b) Opiates. Unless specifically excepted or unless listed in another
+schedule, any of the following opiates, including their isomers, esters,
+ethers, salts, and salts of isomers, esters, and ethers, whenever the
+existence of such isomers, esters, ethers and salts is possible within
+the specific chemical designation (for purposes of 3-methylfentanyl
+only, the term isomer includes the optical and geometric isomers):
+  (1) Acetyl-alpha-methylfentanyl (N-{1-(-methyl-2-phenethyl)
+-4-piperidinyl} -N-phenylacetamide.
+  (2) Acetylmethadol.
+  (3) Allylprodine.
+  (4) Alphacetylmethadol (except levo- alphacetylmethadol also known as
+levo-alpha-acetylmethadol, levomethadylacetate or LAAM).
+  (5) Alphameprodine.
+  (6) Alphamethadol.
+  (7) Alpha-methylfentanyl (N-{1-(alpha-methyl-beta-phenyl)
+ethyl-4-piperidyl} propionanilide; 1-(1-methyl-2-phenylethyl)
+-4-(N-propanilido) piperidine).
+  (8) Alpha-methylthiofentanyl (N-{1-methyl-2)2-thienyl)
+ethyl-4-piperidinyl} -N-phenylpropanamide).
+  (9) Beta-hydroxyfentanyl
+(N-{1-2 (2-hydroxy-2-phenethyl)- 4-piperidinyl} -N-phenylpropanamide).
+  (10) Beta-hydroxy-3-methylfentanyl (other name: N-{1-
+(2-hydroxy-2-phenethyl) -3-methyl -4-piperidinyl} -N-phenylpropanamide.
+  (11) Benzethidine.
+  (12) Betacetylmethadol.
+  (13) Betameprodine.
+  (14) Betamethadol.
+  (15) Betaprodine.
+  (16) Clonitazene.
+  (17) Dextromoramide.
+  (18) Diampromide.
+  (19) Diethylthiambutene.
+  (20) Difenoxin.
+  (21) Dimenoxadol.
+  (22) Dimepheptanol.
+  (23) Dimethylthiambutene.
+  (24) Dioxaphetyl butyrate.
+  (25) Dipipanone.
+  (26) Ethylmethylthiambutene.
+  (27) Etonitazene.
+  (28) Etoxeridine.
+  (29) Furethidine.
+  (30) Hydroxypethidine.
+  (31) Ketobemidone.
+  (32) Levomoramide.
+  (33) Levophenacylmorphan.
+  (34) 3-Methylfentanyl (N-{3-methy1-1- (2- phenylethyl -4-piperidyl}
+-N-phenylpropanamide).
+  (35) 3-Methylthiofentanyl (N-{3-methyl-1- (2-thienyl)ethyl
+-4-piperidinyl} -N-phenylpropanamide).
+  (36) Morpheridine.
+  (37) MPPP (1-methyl -4-phenyl -4-propionoxypiperidine).
+  (38) Noracymethadol.
+  (39) Norlevorphanol.
+  (40) Normethadone.
+  (41) Norpipanone.
+  (42) Para-fluorofentanyl (N- (4-fluorophenyl) -N-{1- (2-phenethyl)
+-4-piperidinyl} -propanamide.
+  (43) PEPAP (1- (-2-phenethyl) -4-phenyl -4-acetoxypiperidine.
+  (44) Phenadoxone.
+  (45) Phenampromide.
+  (46) Phenomorphan.
+  (47) Phenoperidine.
+  (48) Piritramide.
+  (49) Proheptazine.
+  (50) Properidine.
+  (51) Propiram.
+  (52) Racemoramide.
+  (53) Thiofentanyl (N-phenyl-N-{1- (2-thienyl) ethyl -4- piperidinyl}
+-propanamide.
+  (54) Tilidine.
+  (55) Trimeperidine.
+  (c) Opium derivatives. Unless specifically excepted or unless listed
+in another schedule, any of the following opium derivatives, its salts,
+isomers, and salts of isomers whenever the existence of such salts,
+isomers, and salts of isomers is possible within the specific chemical
+designation:
+  (1) Acetorphine.
+  (2) Acetyldihydrocodeine.
+  (3) Benzylmorphine.
+  (4) Codeine methylbromide.
+  (5) Codeine-N-oxide.
+  (6) Cyprenorphine.
+  (7) Desomorphine.
+  (8) Dihydromorphine.
+  (9) Drotebanol.
+  (10) Etorphine (except hydrochloride salt).
+  (11) Heroin.
+  (12) Hydromorphinol.
+  (13) Methyldesorphine.
+  (14) Methyldihydromorphine.
+  (15) Morphine methylbromide.
+  (16) Morphine methylsulfonate.
+  (17) Morphine-N-oxide.
+  (18) Myrophine.
+  (19) Nicocodeine.
+  (20) Nicomorphine.
+  (21) Normorphine.
+  (22) Pholcodine.
+  (23) Thebacon.
+  (d) Hallucinogenic substances. Unless specifically excepted or unless
+listed in another schedule, any material, compound, mixture, or
+preparation, which contains any quantity of the following hallucinogenic
+substances, or which contains any of its salts, isomers, and salts of
+isomers whenever the existence of such salts, isomers, and salts of
+isomers is possible within the specific chemical designation (for
+purposes of this paragraph only, the term "isomer" includes the optical,
+position and geometric isomers):
+(EXPLANATION--Within the following chemical designations, character
+  symbol substitutions were made from the original text:  "@" = Greek
+  alpha, "&" = Greek beta, "'" = prime mark and "/\" = triangle.)
+  (1) 4-bromo-2, 5-dimethoxy-amphetamine Some trade or other names:
+4-bromo-2, 5-dimethoxy-@-methylphenethylamine; 4-bromo-2, 5-DMA.
+  (2) 2, 5-dimethoxyamphetamine Some trade or other names:
+2, 5-dimethoxy-@-methylphenethylamine; 2, 5-DMA.
+  (3) 4-methoxyamphetamine Some trade or other names:
+4-methoxy-@-methylphenethylamine; paramethoxyamphetamine, PMA.
+  (4) 5-methoxy-3, 4-methylenedioxy - amphetamine.
+  (5) 4-methyl-2, 5-dimethoxy-amphetamine Some trade and other names:
+4-methyl-2, 5-dimethoxy-@-methylphenethylamine; "DOM"; and "STP".
+  (6) 3, 4-methylenedioxy amphetamine.
+  (7) 3, 4, 5-trimethoxy amphetamine.
+  (8) Bufotenine Some trade and other names:  3-(&-dimethylaminoethyl)-5
+hydroxindole; 3-(2-dimethylaminoethyl)- 5-indolol;
+N, N-dimethylserotonin; -5-hydroxy-N, N-dimethyltryptamine; mappine.
+  (9) Diethyltryptamine Some trade and other names:
+N, N-diethyltryptamine; DET.
+  (10) Dimethyltryptamine Some trade or other names: DMT.
+  (11) Ibogane Some trade and other names: 7-ethyl-6, 6&, 7, 8, 9, 10,
+12, 13-octahydro-2-methoxy-6, 9-methano-5h-pyrido {1',2':1,2} azepino
+{5,4-b} indole: tabernanthe iboga.
+  (12) Lysergic acid diethylamide.
+  (13) Marihuana.
+  (14) Mescaline.
+  (15) Parahexyl. Some trade or other names: 3-Hexyl-1-hydroxy-
+7,8,9,10-tetra hydro-6,6,9-trimethyl-6H-dibenfo{b,d} pyran.
+  (16) Peyote. Meaning all parts of the plant presently classified
+botanically as Lophophora williamsii Lemaire, whether growing or not,
+the seeds thereof, any extract from any part of such plant, and every
+compound, manufacture, salts, derivative, mixture, or preparation of
+such plant, its seeds or extracts.
+  (17) N-ethyl-3-piperidyl benzilate.
+  (18) N-methyl-3-piperidyl benzilate.
+  (19) Psilocybin.
+  (20) Psilocyn.
+  (21) Tetrahydrocannabinols. Synthetic equivalents of the substances
+contained in the plant, or in the resinous extractives of cannabis, sp.
+and/or synthetic substances, derivatives, and their isomers with similar
+chemical structure and pharmacological activity such as the following:
+  /\1 cis or trans tetrahydrocannabinol, and their optical isomers
+  /\6 cis or trans tetrahydrocannabinol, and their optical isomers
+  /\3, 4 cis or trans tetrahydrocannabinol, and its optical isomers
+(since nomenclature of these substances is not internationally
+standardized, compounds of these structures, regardless of numerical
+designation of atomic positions covered).
+  (22) Ethylamine analog of phencyclidine. Some trade or other names:
+N-ethyl-1-phenylcyclohexylamine, (1-phenylcyclohexyl) ethylamine,
+N-(1-phenylcyclohexyl) ethylamine cyclohexamine, PCE.
+  (23) Pyrrolidine analog of phencyclidine. Some trade or other names
+1-(1-phenylcyclohexyl)-pyrrolidine; PCPy, PHP.
+  (24) Thiophene analog of phencyclidine. Some trade or other names:
+1-{1-(2-thienyl)-cyclohexyl}-piperidine, 2-thienylanalog of
+phencyclidine, TPCP, TCP.
+  (25) 3,4-methylenedioxymethamphetamine (MDMA).
+  (26) 3,4-methylendioxy-N-ethylamphetamine (also known as
+N-ethyl-alpha-methyl-3,4 (methylenedioxy) phenethylamine, N-ethyl MDA,
+MDE, MDEA.
+  (27) N-hydroxy-3,4-methylenedioxyamphetamine (also known as
+N-hydroxy-alpha-methyl-3,4 (methylenedioxy) phenethylamine, and
+N-hydroxy MDA.
+  (28) 1-{1- (2-thienyl) cyclohexyl} pyrrolidine. Some other names:
+TCPY.
+  (29) Alpha-ethyltryptamine. Some trade or other names:  etryptamine;
+Monase; Alpha-ethyl-1H-indole-3-ethanamine; 3- (2-aminobutyl) indole;
+Alpha-ET or AET.
+  (30) 2,5-dimethoxy-4-ethylamphetamine. Some trade or other names:
+DOET.
+  (31) 4-Bromo-2,5-dimethoxyphenethylamine. Some trade or other names:
+2-(4-bromo-2,5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB;
+2C-B, Nexus.
+  (32) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7), its
+optical isomers, salts and salts of isomers.
+  (e) Depressants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a depressant
+effect on the central nervous system, including its salts, isomers, and
+salts of isomers whenever the existence of such salts, isomers, and
+salts of isomers is possible within the specific chemical designation:
+  (1) Mecloqualone.
+  (2) Methaqualone.
+  (3) Phencyclidine.
+  (4) Gamma hydroxybutyric acid, and salt, hydroxybutyric compound,
+derivative or preparation of gamma hydroxybutyric acid, including any
+isomers, esters and ethers and salts of isomers, esters and ethers of
+gamma hydroxybutyric acid, except gamma-butyrolactone, whenever the
+existence of such isomers, esters and ethers and salts is possible
+within the specific chemical.
+  (5) Gamma-butyrolactone, including butyrolactone; butyrolactone gamma;
+4-butyrolactone; 2(3H)-furanone dihydro; dihydro-2(3H)-furanone;
+tetrahydro-2-furanone; 1,2-butanolide; 1,4-butanolide; 4-butanolide;
+gamma-hydroxybutyric acid lactone; 3-hydroxybutyric acid lactone and
+4-hydroxybutanoic acid lactone with Chemical Abstract Service number
+(96-48-0) when any such substance is intended for human consumption.
+  (6) 1,4 butanediol, including butanediol; butane-1,4-diol;
+1,4-butylene glyco; butylene glycol; 1,4-dihydroxybutane;
+1,4-tetramethylene glycol; tetramethylene glycol; tetramethylene
+1,4-diol with Chemical Abstract Service number (110-63-4) when any such
+substance is intended for human consumption.
+  (f) Stimulants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a stimulant
+effect on the central nervous system, including its salts, isomers, and
+salts of isomers:
+  (1) Fenethylline.
+  (2) N-ethylamphetamine.
+  (3) (+ -)cis-4-methylaminorex ((+ -)cis-4,5-dihydro-4-methyl -5-phenyl
+-2-oxazolamine).
+  (4) N,N-dimethylamphetamine (also known as N,N-alpha-
+trimethyl-benzeneethanamine; N,N-alpha- trimethylphenethylamine).
+  (5) Methcathinone (some other names: 2-(methylamino) - propiophenone;
+alpha-(methylamino) propiophenone; 2-(methylamino) -1-phenylpropan-
+1-one; alpha-N- methylaminopropiophenone; monomethylpropion; ephedrone,
+N-methylcathinone, methylcathinone; AL-464; AL-422; AL-463 and UR1432),
+its salts, optical isomers and salts of optical isomers.
+  (6) Aminorex. Some other names: aminoxaphen; 2-amino-5-phenyl
+-2-oxazoline; or 4,5-dihydro-5-phenyl-2-oxazolamine.
+  (7) Cathinone. Some trade or other names:
+2-amino-1-phenyl-1-propanone, alpha-aminopropiophenone,
+2-aminopropiophenone, and norephedrone.
+  (8) N-benzylpiperazine (some other names: BZP; 1-benzylpiperazine),
+its optical isomers, salts and salts of isomers.
+  (9) 4-methyl-N-methylcathinone or 4-Methylmethcathinone, also known as
+Mephedrone.
+  (10) 3,4-methylenedioxypyrovalerone or Methylenedioxypyrovalerone,
+also known as MDPV.
+  (11) 3,4-methylenedioxy-N-methylcathinone (some other names:
+methylone).
+  (12) 4-Methoxymethcathinone.
+  (13) 3-Fluoromethcathinone.
+  (14) 4-Fluoromethcathinone.
+  (15) Ethylpropion (Ethcathinone).
+  (16) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C-E).
+  (17) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine (2C-D).
+  (18) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine (2C-C).
+  (19) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (2C-I).
+  (20) 2-{4-(Ethylthio)-2,5-dimethoxyphenyl}ethanamine (2C-T-2).
+  (21) 2-{4-(Isopropylthio)-2,5-dimethoxyphenyl}ethanamine (2C-T-4).
+  (22) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H).
+  (23) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N).
+  (24) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P).
+  Schedule II. (a) Schedule II shall consist of the drugs and other
+substances, by whatever official name, common or usual name, chemical
+name, or brand name designated, listed in this section.
+  (b) Substances, vegetable origin or chemical synthesis. Unless
+specifically excepted or unless listed in another schedule, any of the
+following substances whether produced directly or indirectly by
+extraction from substances of vegetable origin, or independently by
+means of chemical synthesis, or by a combination of extraction and
+chemical synthesis:
+  (1) Opium and opiate, and any salt, compound, derivative, or
+preparation of opium or opiate, excluding apomorphine, dextrorphan,
+nalbuphine, nalmefene, naloxone, and naltrexone, and their respective
+salts, but including the following:
+  1. Raw opium.
+  2. Opium extracts.
+  3. Opium fluid.
+  4. Powdered opium.
+  5. Granulated opium.
+  6. Tincture of opium.
+  7. Codeine.
+  8. Ethylmorphine.
+  9. Etorphine hydrochloride.
+  10. Hydrocodone (also known as dihydrocodeinone).
+  11. Hydromorphone.
+  12. Metopon.
+  13. Morphine.
+  14. Oxycodone.
+  15. Oxymorphone.
+  16. Thebaine.
+  17. Dihydroetorphine.
+  18. Oripavine.
+  (2) Any salt, compound, derivative, or preparation thereof which is
+chemically equivalent or identical with any of the substances referred
+to in this section, except that these substances shall not include the
+isoquinoline alkaloids of opium.
+  (3) Opium poppy and poppy straw.
+  (4) Coca leaves and any salt, compound, derivative, or preparation of
+coca leaves, and any salt, compound, derivative, or preparation thereof
+which is chemically equivalent or identical with any of these substances
+including cocaine and ecgonine, their salts, isomers, and salts of
+isomers, except that the substances shall not include decocainized coca
+leaves or extraction of coca leaves, which extractions do not contain
+cocaine or ecgonine.
+  (5) Concentrate of poppy straw (the crude extract of poppy straw in
+either liquid, solid or powder form which contains the phenanthrene
+alkaloids of the opium poppy).
+  (b-1) Unless specifically excepted or unless listed in another
+schedule, any material, compound, mixture, or preparation containing any
+of the following, or their salts calculated as the free anhydrous base
+or alkaloid, in limited quantities as set forth below:
+  (1) Not more than three hundred milligrams of dihydrocodeinone
+(hydrocodone) per one hundred milliliters or not more than fifteen
+milligrams per dosage unit, with a fourfold or greater quantity of an
+isoquinoline alkaloid of opium.
+  (2) Not more than three hundred milligrams of dihydrocodeinone
+(hydrocodone) per one hundred milliliters or not more than fifteen
+milligrams per dosage unit, with one or more active nonnarcotic
+ingredients in recognized therapeutic amounts.
+  (c) Opiates. Unless specifically excepted or unless in another
+schedule any of the following opiates, including its isomers, esters,
+ethers, salts and salts of isomers, esters and ethers whenever the
+existence of such isomers, esters, ethers, and salts is possible within
+the specific chemical designation, dextrorphan and levopropoxyphene
+excepted:
+  (1) Alfentanil.
+  (2) Alphaprodine.
+  (3) Anileridine.
+  (4) Bezitramide.
+  (5) Bulk dextropropoxyphene (non-dosage forms).
+  (6) Carfentanil.
+  (7) Dihydrocodeine.
+  (8) Diphenoxylate.
+  (9) Fentanyl.
+  (10) Isomethadone.
+  (11) Levo-alphacetylmethadol (also known as levo-alpha-acetylmethadol,
+levomethadylacetate or LAAM).
+  (12) Levomethorphan.
+  (13) Levorphanol.
+  (14) Metazocine.
+  (15) Methadone.
+  (16) Methadone-intermediate, 4-cyano-2-dimethylamino-4, 4-diphenyl
+butane.
+  (17) Moramide-intermediate, 2-methyl-3-morpholino-1,
+1-diphenylpropane-carboxylic
+  (18) Pethidine (meperidine).
+  (19) Pethidine-intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine.
+  (20) Pethidine-intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate.
+  (21) Pethidine-intermediate-C, 1-methyl-4- phenylpiperidine-4-
+carboxylic acid.
+  (22) Phenazocine.
+  (23) Piminodine.
+  (24) Racemethorphan.
+  (25) Racemorphan.
+  (26) Sufentanil.
+  (27) Remifentanil.
+  (28) Tapentadol.
+  (d) Stimulants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a stimulant
+effect on the central nervous system, including its salts, isomers, and
+salts of isomers:
+  (1) Amphetamine.
+  (2) Methamphetamine.
+  (3) Phenmetrazine.
+  (4) Methylphenidate.
+  (5) Lisdexamfetamine.
+  (e) Depressants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a depressant
+effect on the central nervous system, including its salts, isomers, and
+salts of isomers whenever the existence of such salts, isomers, and
+salts of isomers is possible within the specific chemical designation:
+  (1) Amobarbital.
+  (2) Glutethimide.
+  (3) Pentobarbital.
+  (4) Secobarbital.
+  (f) Hallucinogenic substances.
+  Nabilone: Another name for nabilone: (+,-)-trans
+-3-(1,1-dimethylheptyl)-6, 6a, 7, 8, 10, 10a-hexahydro-1-hydroxy-6,
+6-dimethyl-9H-dibenzo{b,d}pyran-9-one.
+  (g) Immediate precursors. Unless specifically excepted or unless
+listed in another schedule, any material, compound, mixture or
+preparation which contains any quantity of the following substances:
+  (1) Immediate precursor to amphetamine and methamphetamine:
+  (i) Phenylacetone Some trade or other names: pheny1-2-propanone; P2P;
+benzyl methyl ketone; methyl benzyl ketone;
+  (2) Immediate precursors to phencyclidine (PCP):
+  (i) 1-phenylcyclohexylamine;
+  (ii) 1-piperidinocyclohexanecarbonitrile (PCC).
+  (3) Immediate precursor to fentanyl:
+  (i) 4-anilino-N-phenethyl-4-piperidine (ANPP).
+  (h) Anabolic steroids. Unless specifically excepted or unless listed
+in another schedule, "anabolic steroid" shall mean any drug or hormonal
+substance, chemically and pharmacologically related to testosterone
+(other than estrogens, progestins, corticosteroids and
+dehydroepiandrosterone) and includes:
+  (1) 3{beta}, 17-dihydroxy-5a-androstane.
+  (2) 3{alpha}, 17{beta}-dihydroxy-5a-androstane.
+  (3) 5{alpha}-androstan-3,17-dione.
+  (4) 1-androstenediol (3{beta},17{beta}-dihydroxy-5{alpha}-androst-1-
+ene).
+  (5) 1-androstenediol (3{alpha},17{beta}-dihydroxy-5{alpha}-androst-1-
+ene).
+  (6) 4-androstenediol (3{beta}, 17{beta}-dihydroxy-androst-4-ene).
+  (7) 5-androstenediol (3{beta}, 17{beta}-dihydroxy-androst-5-ene).
+  (8) 1-androstenedione ({5{alpha}}-androst-1-en-3,17-dione).
+  (9) 4-androstenedione (androst-4-en-3,17-dione).
+  (10) 5-androstenedione (androst-5-en-3,17-dione).
+  (11) Bolasterone (7{alpha},17{alpha}-dimethyl-17{beta}-hydroxyandrost-
+4-en-3-one).
+  (12) Boldenone (17{beta}-hydroxyandrost-1, 4,-diene-3-one).
+  (13) Boldione (androsta-1,4-diene-3,17-dione).
+  (14) Calusterone (7{beta}, 17{alpha}-dimethyl-17{beta}-hydroxyandrost-
+4-en-3-one).
+  (15) Clostebol (4-chloro-17{beta}-hydroxyandrost-4-en-3-one).
+  (16) Dehydrochloromethyltestosterone (4-chloro-17{beta}-hydroxy-17
+{alpha}-methyl-androst-1, 4-dien-3-one).
+  (17) {Delta} 1-dihydrotestosterone (a.k.a. '1-testosterone') (17
+{beta}-hydroxy-5{alpha}-androst-1-en-3-one).
+  (18) 4-dihydrotestosterone (17{beta}-hydroxy-androstan-3-one).
+  (19) Drostanolone (17{beta}-hydroxy-2{alpha}-methyl-5{alpha}
+-androstan-3-one).
+  (20) Ethylestrenol (17{alpha}-ethyl-17{beta}-hydroxyestr- 4-ene).
+  (21) Fluoxymesterone (9-fluoro-17{alpha}-methyl-11{beta}, 17 {beta}-
+dihydroxyandrost-4-en-3-one).
+  (22) Formebolone (2-formyl-17{alpha}-methyl-11{alpha},
+17{beta}-dihydroxyandrost-1, 4-dien-3-one).
+  (23) Furazabol (17{alpha}-methyl-17{beta}-hydroxyandrostano
+{2, 3-c}-furazan).
+  (24) 13{beta}-ethyl-17{beta}-hyroxygon-4-en-3-one.
+  (25) 4-hydroxytestosterone (4, 17{beta}-dihydroxy-androst-4-en-3-one).
+  (26) 4-hydroxy-19-nortestosterone
+(4,17{beta}-dihydroxy-estr-4-en-3-one).
+  (27) desoxymethyltestosterone
+(17{alpha}-methyl-5{alpha}-androst-2-en-17{beta}-ol) (a.k.a., madol).
+  (28) Mestanolone  (17{alpha}-methyl-17{beta}-hydroxy-
+5-androstan-3-one).
+  (29) Mesterolone (1{alpha} methyl-17{beta}-hydroxy-
+{5{alpha}}-androstan-3-one).
+  (30) Methandienone (17{alpha}-methyl-17{beta}-hydroxyandrost-1,
+4-dien-3-one).
+  (31) Methandriol (17{alpha}-methyl-3{beta},
+17{beta}-dihydroxyandrost-5-ene).
+  (32) Methenolone (1-methyl-17{beta}-hydroxy-5{alpha}-androst-
+1-en-3-one).
+  (33) 17{alpha}-methyl-3{beta},17{beta}-dihydroxy-5a-androstane.
+  (34) 17{alpha}-methyl-3{alpha}, 17{beta}-dihydroxy- 5a-androstane.
+  (35) 17{alpha}-methyl-3{beta}, 17{beta}-dihydroxyandrost-4-ene.
+  (36) 17{alpha}-methyl-4-hydroxynandrolone (17{alpha}-methyl-4-
+hydroxy-17{beta}-hydroxyestr-4-en-3-one).
+  (37) Methyldienolone (17{alpha}-methyl-17{beta}-hydroxyestra-
+4,9(10)-dien-3-one).
+  (38) Methyltrienolone (17{alpha}-methyl-17{beta}-hydroxyestra-4,
+9-11-trien-3-one).
+  (39) Methyltestosterone (17{alpha}-methyl-17{beta}-hydroxyandrost-
+4-en-3-one).
+  (40) Mibolerone (7{alpha},17{alpha}-dimethyl-17{beta}-hydroxyestr-
+4-en-3-one).
+  (41) 17{alpha}-methyl-{Delta} 1-dihydrotestosterone
+(17b{beta}-hydroxy-17{alpha}-methyl-5{alpha}-androst-1-en-3-one)
+(a.k.a. '17-{alpha}-methyl-1-testosterone').
+  (42) Nandrolone(17{beta}-hydroxyestr-4-en-3-one).
+  (43) 19-nor-4-androstenediol (3{beta},17{beta}-dihydroxyestr -4-ene).
+  (44) 19-nor-4-androstenediol (3{alpha},17{beta}-dihydroxyestr-4-ene).
+  (45) 19-nor-5-androstenediol (3{beta},17{beta}-dihydroxyestr -5-ene).
+  (46) 19-nor-5-androstenediol (3{alpha},17{beta}-dihydroxyestr-5-ene).
+  (47) 19-nor-4,9(10)-androstadienedione
+(estra-4,9(10)-diene-3,17-dione).
+  (48) 19-nor-4-androstenedione (estr-4-en-3,17-dione).
+  (49) 19-nor-5-androstenedione (estr-5-en-3,17-dione).
+  (50) Norbolethone (13{beta}, 17{alpha}-diethyl-17{beta}
+-hydroxygon-4-en-3-one).
+  (51) Norclostebol (4-chloro-17{beta}-hydroxyestr-4-en-3-one).
+  (52) Norethandrolone (17{alpha}-ethyl-17{beta}-hydroxyestr-
+4-en-3-one).
+  (53) Normethandrolone (17{alpha}-methyl-17{beta}
+-hydroxyestr-4-en-3-one).
+  (54) Oxandrolone (17{alpha}-methyl-17{beta}-hydroxy-2-oxa-
+{5{alpha}}-androstan-3-one).
+  (55) Oxymesterone (17{alpha}-methyl-4, 17{beta}-dihydroxy
+androst-4-en-3-one).
+  (56) Oxymetholone (17 {alpha}-methyl-2-hydroxymethylene-17
+{beta}-hydroxy-{5{alpha}}- androstan-3-one).
+  (57) Stanozolol (17{alpha}-methyl-17{beta}-hydroxy-{5{alpha}}-
+androst-2-eno{3, 2-c}-pyrazole).
+  (58) Stenbolone (17{beta}-hydroxy-2-methyl-{5{alpha}}-androst-
+1-en-3-one).
+  (59) Testolactone (13-hydroxy-3-oxo-13, 17-secoandrosta-1,
+4-dien-17-oic acid lactone).
+  (60) Testosterone (17{beta}-hydroxyandrost-4-en-3-one).
+  (61) Tetrahydrogestrinone (13{beta}, 17{alpha}-diethyl
+-17{beta}-hydroxygon-4, 9, 11-trien-3-one).
+  (62) Trenbolone (17{beta}-hydroxyestr-4, 9, 11-trien-3-one).
+  (63) Any salt, ester or ether of a drug or substance described or
+listed in this subdivision.
+  (i) Subdivision (h) of this section shall not include any substance
+containing anabolic steroids expressly intended for administration
+through implants to cattle or other nonhuman species and that are
+approved by the federal food and drug administration solely for such
+use.  Any individual who knowingly and willfully administers to himself
+or another person, prescribes, dispenses or distributes such substances
+for other than implantation to cattle or nonhuman species shall be
+subject to the same penalties as a practitioner who violates the
+provisions of this section or any other penalties prescribed by law.
+  Schedule III. (a) Schedule III shall consist of the drugs and other
+substances, by whatever official name, common or usual name, chemical
+name, or brand name designated, listed in this section.
+  (b) Stimulants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a stimulant
+effect on the central nervous system, including its salts, isomers
+(whether optical, position, or geometric), and salts of such isomers
+whenever the existence of such salts, isomers, and salts of isomers is
+possible within the specific chemical designation:
+  (1) Those compounds, mixtures, or preparations in dosage unit form
+containing any stimulant substances listed in schedule II which
+compounds, mixtures, or preparations were listed on August twenty-five,
+nineteen hundred seventy-one, as excepted compounds under title
+twenty-one, section 308.32 of the code of federal regulations and any
+other drug of the quantitive composition shown in that list for those
+drugs or which is the same except that it contains a lesser quantity of
+controlled substances.
+  (2) Benzphetamine.
+  (3) Chlorphentermine.
+  (4) Clortermine.
+  (6) Phendimetrazine.
+  (c) Depressants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a depressant
+effect on the central nervous system, including its salts, isomers, and
+salts of isomers:
+  (1) Any compound, mixture or preparation containing:
+  (i) Amobarbital;
+  (ii) Secobarbital;
+  (iii) Pentobarbital;
+or any salt thereof and one or more other active medicinal ingredients
+which are not listed in any schedule.
+  (2) Any suppository dosage form containing:
+  (i) Amobarbital;
+  (ii) Secobarbital;
+  (iii) Pentobarbital;
+or any salt of any of these drugs and approved by the federal food and
+drug administration for marketing only as a suppository.
+  (3) Any substance which contains any quantity of a derivative of
+barbituric acid or any salt thereof.
+  (4) Chlorhexadol.
+  (5) Lysergic acid.
+  (6) Lysergic acid amide.
+  (7) Methyprylon.
+  (8) Sulfondiethylmethane.
+  (9) Sulfonethylmethane.
+  (10) Sulfonmethane.
+  (11) Tiletamine and zolazepam or any salt thereof. Some trade or other
+names for a tiletamine-zolazepam combination product: Telazol.  Some
+trade or other names for tiletamine: 2-(ethylamino) -2-(2-thienyl)
+-cyclohexanone. Some trade or other names for zolazepam:
+4-(2-fluorophenyl) -6,8-dihydro -1, 3, 8i-trimethylpyrazolo-{3,4-e}
+{1,4} -diazepin-7(1H)-one, flupyrazapon.
+  (12) Gamma hydroxybutyric acid, and salt, hydroxybutyric compound,
+derivative or preparation of gamma hydroxybutyric acid, including any
+isomers, esters and ethers and salts of isomers, esters and ethers of
+gamma hydroxybutyric acid, contained in a drug product for which an
+application has been approved under section 505 of the federal food,
+drug and cosmetic act.
+  (13) Ketamine,  its  salts,  isomers  and salts  of  isomers  (some
+other  names  for  ketamine:  (±)-2-(2-chlorophenyl)-2-(methylamino)-
+cyclohexanone).
+  (14) Embutramide.
+  (d) Nalorphine.
+  (e) Narcotic drugs. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation
+containing any of the following narcotic drugs, or their salts
+calculated as the free anhydrous base or alkaloid, in limited quantities
+as set forth below:
+  (1) Not more than 1.8 grams of codeine per one hundred milliliters or
+not more than ninety milligrams per dosage unit, with an equal or
+greater quantity of an isoquinoline alkaloid of opium.
+  (2) Not more than 1.8 grams of codeine per one hundred milliliters or
+not more than ninety milligrams per dosage unit, with one or more
+active, nonnarcotic ingredients in recognized therapeutic amounts.
+  (3) Not more than 1.8 grams of dihydrocodeine per one hundred
+milliliters or not more than ninety milligrams per dosage unit, with one
+or more active nonnarcotic ingredients in recognized therapeutic
+amounts.
+  (4) Not more than three hundred milligrams of ethylmorphine per one
+hundred milliliters or not more than fifteen milligrams per dosage unit,
+with one or more active, nonnarcotic ingredients in recognized
+therapeutic amounts.
+  (5) Not more than five hundred milligrams of opium per one hundred
+milliliters or per one hundred grams or not more than twenty-five
+milligrams per dosage unit, with one or more active, nonnarcotic
+ingredients in recognized therapeutic amounts.
+  (6) Not more than fifty milligrams of morphine per one hundred
+milliliters or per one hundred grams, with one or more active,
+nonnarcotic ingredients in recognized therapeutic amounts.
+  (7) Buprenorphine in any quantities.
+  (f) Dronabinol (synthetic) in sesame oil and encapsulated in a soft
+gelatin capsule in a U.S. Food and Drug Administration approved product.
+  Some other names for dronabinol include: (6aR-trans)-6a, 7, 8,
+10a-tetrahydro-6, 6, 9-trimethyl-3-pentyl-6H-dibenzo{b,d} pyran-1-o1, or
+(-)-delta-9-(trans) - tetrahydrocannabinol.
+  (g) Chorionic gonadotropin. Unless specifically excepted or unless
+listed in another schedule any material, compound, mixture, or
+preparation which contains any amount of chorionic gonadotropin.
+  Schedule IV. (a) Schedule IV shall consist of the drugs and other
+substances, by whatever official name, common or usual name, chemical
+name, or brand name designated, listed in this section.
+  (b) Narcotic drugs. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation
+containing any of the following narcotic drugs, or their salts
+calculated as the free anhydrous base or alkaloid, in limited quantities
+as set forth below:
+  (1) Not more than one milligram of difenoxin and not less than
+twenty-five micrograms of atropine sulfate per dosage unit.
+  (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1, 2-diphenyl-3-
+methyl-2-propionoxybutane).
+  (c) Depressants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances, including its salts,
+isomers, and salts of isomers whenever the existence of such salts,
+isomers, and salts of isomers is possible within the specific chemical
+designation:
+  (1) Alprazolam.
+  (2) Barbital.
+  (3) Bromazepam.
+  (4) Camazepam.
+  (5) Chloral betaine.
+  (6) Chloral hydrate.
+  (7) Chlordiazepoxide.
+  (8) Clobazam.
+  (9) Clonazepam.
+  (10) Clorazepate.
+  (11) Clotiazepam.
+  (12) Cloxazolam.
+  (13) Delorazepam.
+  (14) Diazepam.
+  (15) Estazolam.
+  (16) Ethchlorvynol.
+  (17) Ethinamate.
+  (18) Ethyl Loflazepate.
+  (19) Fludiazepam.
+  (20) Flunitrazepam.
+  (21) Flurazepam.
+  (22) Halazepam.
+  (23) Haloxazolam.
+  (24) Ketazolam.
+  (25) Loprazolam.
+  (26) Lorazepam.
+  (27) Lormetazepam.
+  (28) Mebutamate.
+  (29) Medazepam.
+  (30) Meprobamate.
+  (31) Methohexital.
+  (32) Methylphenobarbital (mephobarbital).
+  (33) Nimetazepam.
+  (34) Nitrazepam.
+  (35) Nordiazepam.
+  (36) Oxazepam.
+  (37) Oxazolam.
+  (38) Paraldehyde.
+  (39) Petrichoral.
+  (40) Phenobarbital.
+  (41) Pinazepam.
+  (42) Prazepam.
+  (43) Temazepam.
+  (44) Tetrazepam.
+  (45) Triazolam.
+  (46) Midazolam.
+  (47) Quazepam.
+  (48) Zolpidem.
+  (49) Dichloralphenazone.
+  (50) Zaleplon.
+  (51) Zopiclone (eszopiclone).
+  (52) Fospropofol.
+  (53) Carisoprodol.
+  * (d) Fenfluramine. Any material, compound, mixture, or preparation
+which contains any quantity of the following substances, including its
+salts, isomers (whether optical, position, or geometric), and salts of
+such isomers, whenever the existence of such salts, isomers and salts of
+isomers is possible:
+  (1) Fenfluramine.
+  * NB Repealed upon the removal of fenfluramine and its salts and
+isomers from Schedule IV of the federal Controlled Substances Act
+  (e) Stimulants. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a stimulant
+effect on the central nervous system, including its salts, isomers, and
+salts of such isomers:
+  (1) Cathine ((+) - norpseudoephedrine).
+  (2) Diethylpropion.
+  (3) Fencamfamin.
+  (4) Fenproporex.
+  (5) Mazindol.
+  (6) Mefenorex.
+  (7) Pemoline (including organometallic complexes and chelates
+thereof).
+  (8) Phentermine.
+  (9) Pipradrol.
+  (10) SPA((-))-1-dimethylamino-1, 2-diphenylethane).
+  (11) Modafinil.
+  (12) Sibutramine.
+  (f) Other substances. Unless specifically excepted or unless listed in
+another schedule, any material, compound, mixture or preparation which
+contains any quantity of the following substances, including its salts:
+  (1) Pentazocine.
+  (2) Butorphanol (including its optical isomers).
+  (3) Tramadol in any quantities.
+  Schedule V. (a) Schedule V shall consist of the drugs and other
+substances, by whatever official name, common or usual name, chemical
+name, or brand name designated, listed in this section.
+  (b) Narcotic drugs containing nonnarcotic active medicinal
+ingredients.  Any compound, mixture, or preparation containing any of
+the following narcotic drugs, or their salts calculated as the free
+anhydrous base or alkaloid, in limited quantities as set forth below,
+which shall include one or more nonnarcotic active medicinal ingredients
+in sufficient proportion to confer upon the compound, mixture, or
+preparation valuable medicinal qualities other than those possessed by
+narcotic drugs alone:
+  (1) Not more than two hundred milligrams of codeine per one hundred
+milliliters or per one hundred grams.
+  (2) Not more than one hundred milligrams of dihydrocodeine per one
+hundred milliliters or per one hundred grams.
+  (3) Not more than one hundred milligrams of ethylmorphine per one
+hundred milliliters or per one hundred grams.
+  (4) Not more than 2.5 milligrams of diphenoxylate and not less than
+twenty-five micrograms of atropine sulfate per dosage unit.
+  (5) Not more than one hundred milligrams of opium per one hundred
+milliliters or per one hundred grams.
+  (6) Not more than 0.5 milligram of difenoxin and not less than
+twenty-five micrograms of atropine sulfate per dosage unit.
+  (c) Stimulants. Unless specifically exempted or excluded or unless
+listed in another schedule, any material, compound, mixture, or
+preparation which contains any quantity of the following substances
+having a stimulant effect on the central nervous system, including its
+salts, isomers and salts of isomers:
+  (1) Pyrovalerone.
+  (d) Depressants. Unless specifically exempted or excluded or unless
+listed in another schedule, any material, compound, mixture, or
+preparation which contains any quantity of the following substances
+having a depressant effect on the central nervous system, including its
+salts, isomers, and salts of isomers:
+  (1) Ezogabine {N-{2-amino-4-(4-fluorobenzylamino)-phenyl}-carbamic
+acid ethyl ester}.
+  (2) Lacosamide {(R)-2-acetoamido-N-benzyl-3-methoxy-propionamide}.
+  (3) Pregabalin {(S)-3-(aminomethyl)-5-methylhexanoic acid }.
+```

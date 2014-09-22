@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 66-J", "kind": "section", "law_id": "STF", "location_id": "66-J", "path": "ARTICLE 5-A › SECTION 66-J", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/66-J.md", "title": "Annual report"} -->
+# State Finance Law § 66-J — Annual report
+
+[State Finance Law](../README.md) › [Article 5-A — Certificates of Participation](README.md)
+
+```text
+  § 66-j. Annual report. On or before February fifteenth of each fiscal
+year, beginning with the nineteen hundred eighty-eight--eighty-nine
+fiscal year and ending with the nineteen hundred
+ninety-seven--ninety-eight fiscal year, and on or before February
+fifteenth and June fifteenth of each fiscal year, beginning with the
+nineteen hundred ninety-eight--ninety-nine fiscal year, the state
+comptroller shall submit an annual report to the director of the budget
+and the chairs of the senate finance committee and the assembly ways and
+means committee regarding the issuance of certificates of participation
+issued under this article. Such report shall include a summary statement
+of the aggregate amount of certificates of participation issued under
+this article. Such report shall also include, but not be limited to,
+specific detail pertaining to each issuance, including the state
+department, agency, or unit of the state university or city university
+of New York which entered into lease or installment purchases funded
+through the use of certificates of participation, including each
+issuance for the legislature or the judiciary, the amounts, purposes,
+and financing terms and payment schedule of each issuance, as well as
+any other matter which the comptroller deems advisable.
+```

@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 678", "kind": "section", "law_id": "TAX", "location_id": "678", "path": "ARTICLE 22 › PART 5 › SECTION 678", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/678.md", "title": "Liability of third parties paying or providing for wages"} -->
+# Tax Law § 678 — Liability of third parties paying or providing for wages
+
+[Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 5 — Withholding of Tax](README.md)
+
+```text
+  § 678. Liability of third parties paying or providing for wages.--(a)
+Direct payment by third party.--If a lender, surety or other person, who
+is not an employer with respect to an employee or group of employees,
+pays wages directly to such an employee or group of employees, employed
+by one or more employers, or to an agent on behalf of such employee or
+employees, such lender, surety or other person shall be liable for the
+amount of taxes (together with interest) required to be deducted and
+withheld from such wages by the employer.
+  (b) Funds supplied to employer by third parties.--If a lender, surety
+or other person supplies funds to or for the account of an employer for
+the specific purpose of paying wages of the employees of such employer,
+with actual notice or knowledge that such employer does not intend to or
+will not be able to make timely payment or deposit of the amounts of tax
+required by this article to be deducted and withheld by such employer
+from such wages, such lender, surety or other person shall be liable for
+the amount of the taxes (together with interest) which are not paid over
+to the tax commission by such employer with respect to such wages.
+However, the liability of such lender, surety or other person shall be
+limited to an amount equal to twenty-five percent of the amount so
+supplied to or for the account of such employer for such purpose.
+  (c) Effect of payment.--Any amounts paid to the tax commission
+pursuant to this section shall be credited against the liability of the
+employer.
+```

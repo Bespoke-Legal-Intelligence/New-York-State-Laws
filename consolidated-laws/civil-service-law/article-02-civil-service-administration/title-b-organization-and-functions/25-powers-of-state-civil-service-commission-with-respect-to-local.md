@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 25", "kind": "section", "law_id": "CVS", "location_id": "25", "path": "ARTICLE 2 › TITLE B › SECTION 25", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/25.md", "title": "Powers of state civil service commission with respect to local rules; appointments and eligible lists"} -->
+# Civil Service Law § 25 — Powers of state civil service commission with respect to local rules; appointments and eligible lists
+
+[Civil Service Law](../../README.md) › [Article 2 — Civil Service Administration](../README.md) › [Title B — Organization and Functions of Municipal Civil Service Commissions](README.md)
+
+```text
+  § 25. Powers of state civil service commission with respect to local
+rules; appointments and eligible lists. 1. The state civil service
+commission may, by unanimous vote of the three members
+  (a) amend or rescind any rule, regulation or jurisdictional
+classification prescribed by a municipal commission, but shall not
+exempt from competitive examination any office or position in any civil
+division without the consent of the municipal commission having
+jurisdiction;
+  (b) rescind any appointment in the classified service of a civil
+division;
+  (c) remove from any eligible list established by a municipal
+commission the name of any person thereon; and
+  (d) rescind any examination or eligible list or cancel an appointment
+already made from a list so rescinded.
+  2. The state civil service commission, however, shall not take such
+action upon any ground other than that the provisions of this chapter
+are not properly or sufficiently carried out, nor without specifying in
+writing the particulars in which such provisions are not carried out.
+Before any such action is taken, the state civil service commission
+shall state the reasons for such action in writing and file a certified
+copy thereof in the office of the municipal commission concerned, which
+shall be a public document therein, and shall give to such commission
+and the person aggrieved thereby a reasonable opportunity to present
+facts in opposition to such action.
+```

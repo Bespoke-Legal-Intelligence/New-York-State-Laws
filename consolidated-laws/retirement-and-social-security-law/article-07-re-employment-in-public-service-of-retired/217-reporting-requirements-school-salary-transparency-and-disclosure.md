@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 217", "kind": "section", "law_id": "RSS", "location_id": "217", "path": "ARTICLE 7 › SECTION 217", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/217.md", "title": "Reporting requirements; school salary transparency and disclosure"} -->
+# Retirement and Social Security Law § 217 — Reporting requirements; school salary transparency and disclosure
+
+[Retirement and Social Security Law](../README.md) › [Article 7 — Re-employment In Public Service of Retired Public Employees](README.md)
+
+```text
+  § 217. Reporting requirements; school salary transparency and
+disclosure. 1. A school district and a board of cooperative educational
+services shall report all money earned by a retired person in their
+employ that is in excess of the earnings limitation outlined in section
+two hundred twelve of this article to the retirement system administered
+by the state or any of its political subdivisions from whom such retired
+person is collecting their retirement allowance.
+  2. A school district or a board of cooperative educational services
+employing a retired person who is eligible to collect or is already
+collecting a retirement allowance from a retirement system administered
+by the state or any of its political subdivisions shall report on an
+annual basis to the retirement system paying such retirement allowance
+to such retired person and to the state comptroller. This report shall
+consist of the re-employed retiree's name, date of birth, place of
+employment, current position and all earnings.
+```

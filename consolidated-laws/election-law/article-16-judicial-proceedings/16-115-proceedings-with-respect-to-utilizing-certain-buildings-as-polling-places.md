@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Election Law § 16-115", "kind": "section", "law_id": "ELN", "location_id": "16-115", "path": "ARTICLE 16 › SECTION 16-115", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/16-115.md", "title": "Proceedings with respect to utilizing certain buildings as polling places"} -->
+# Election Law § 16-115 — Proceedings with respect to utilizing certain buildings as polling places
+
+[Election Law](../README.md) › [Article 16 — Judicial Proceedings](README.md)
+
+```text
+  § 16-115. Proceedings with respect to utilizing certain buildings as
+polling places.  The supreme court or a justice thereof, in a proceeding
+instituted by any board or body empowered to designate polling places,
+may compel by order, any person or entity which owns or operates a
+building or facility which is required by this chapter to be made
+available as a place of registration and voting to make such building or
+facility available for such purposes and in a proceeding instituted by
+any person or entity which owns or operates such a building or facility,
+may vacate a determination by such a board or body that such a building
+is suitable for registration and voting upon a finding that such
+building is not required to be made available as a place of registration
+and voting.
+```

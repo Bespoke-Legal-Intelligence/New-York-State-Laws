@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1007", "kind": "section", "law_id": "PVH", "location_id": "1007", "path": "ARTICLE 17 › SECTION 1007", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1007.md", "title": "Rules and regulations"} -->
+# Private Housing Finance Law § 1007 — Rules and regulations
+
+[Private Housing Finance Law](../README.md) › [Article 17 — Housing and Community Preservation In Rural Areas](README.md)
+
+```text
+  § 1007. Rules and regulations. The commissioner shall issue rules and
+regulations for the administration of this article. Such rules and
+regulations shall include provisions concerning requirements as to
+eligibility for contracting with the commissioner; the form of
+applications for contracts; supervision and evaluation of corporations
+which contract with the commissioner including standards and performance
+criteria for continued, increased or decreased funding to insure the
+corporations meet the objectives of this article and the objectives
+outlined in their housing preservation and community renewal plans;
+reporting, budgeting and record keeping requirements; provisions for
+renegotiation, modification, termination, extension and renewal of
+contracts, which provisions shall include the bases for funding
+increases from the preceding contract including, but not be limited to,
+performance which exceeds minimum performance criteria and provisions
+for probationary periods where appropriate; provisions for technical
+services and assistance to such corporations within the limits of
+available funding; protection of the interests of tenants in buildings
+owned or managed by such corporations; and may include any provisions,
+not inconsistent with the provisions of this article or other applicable
+law, which the commissioner deems necessary or appropriate to carry out
+the policy and purposes of this article. Such rules and regulations
+shall prohibit any corporation receiving funds under contracts entered
+into pursuant to this article (i) from engaging in any activities
+promoting any political candidate or party or (ii) from expending any
+such funds in activities the purpose of which is to influence
+legislation.
+```

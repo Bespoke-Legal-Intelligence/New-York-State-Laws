@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 392-B", "kind": "section", "law_id": "GBS", "location_id": "392-B", "path": "ARTICLE 26 › SECTION 392-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/392-B.md", "title": "False labels and misrepresentations"} -->
+# General Business Law § 392-B — False labels and misrepresentations
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+```text
+  § 392-b. False labels and misrepresentations. A person, who with
+intent to defraud:
+  1. Puts upon an article of merchandise, or upon a cask, bottle,
+stopper, vessel, case, cover, wrapper, package, band, ticket, label or
+other thing, containing or covering such an article, or with which such
+an article is intended to be sold, or is sold, any false description or
+other indication of or respecting the kind, number, quantity, weight or
+measure of such article, or any part thereof, or the place or country
+where it was manufactured or produced or the quality or grade of any
+such article, if the quality or grade thereof is required by law to be
+marked, branded or otherwise indicated on or with such article; or
+  2. Sells or offers for sale an article, which to his knowledge is
+falsely described or indicated upon any such package, or vessel
+containing the same, or label thereupon, in any of the particulars
+specified; or
+  3. Sells or exposes for sale any goods in bulk to which no name or
+trademark shall be attached, and orally or otherwise represents that
+such goods are the manufacture or production of some other than the
+actual manufacturer or producer, in a case where the punishment for such
+offense is not specially provided for otherwise by statute, is guilty of
+a misdemeanor.
+```

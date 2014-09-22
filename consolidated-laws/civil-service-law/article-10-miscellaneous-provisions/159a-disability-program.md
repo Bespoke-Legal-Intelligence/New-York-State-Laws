@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 159-A", "kind": "section", "law_id": "CVS", "location_id": "159-A", "path": "ARTICLE 10 › SECTION 159-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/159-A.md", "title": "Disability program"} -->
+# Civil Service Law § 159-A — Disability program
+
+[Civil Service Law](../README.md) › [Article 10 — Miscellaneous Provisions](README.md)
+
+```text
+  § 159-a. Disability program. Notwithstanding any other law, rule or
+regulation to the contrary, where an agreement between the state and an
+employee organization entered into pursuant to article fourteen of this
+chapter so provides on behalf of employees in positions serving in the
+collective negotiating unit created by chapter four hundred three of the
+laws of nineteen hundred eighty-three, the director of employee
+relations is authorized to establish and implement a disability program
+that will provide long term income protection for such employees and the
+president is empowered to establish regulations to effect such
+implementation. No regulation shall be adopted, repealed or amended, and
+no other action taken with respect to such employees or such
+implementation without the approval of the director of employee
+relations. Notwithstanding any other law, rule or regulation to the
+contrary, any employee who participates in or is covered by a disability
+program authorized by this section shall receive retirement service
+credit not to exceed six months during the period that he or she is
+receiving the short term disability benefit under such program on the
+same basis and at the same rate as such employee would receive such
+credit were he or she on sick leave at half pay for the period of time
+for which such employee would have been entitled to such sick leave at
+half pay had the sick leave policy supplemented by the short term
+disability program remained in effect.
+```

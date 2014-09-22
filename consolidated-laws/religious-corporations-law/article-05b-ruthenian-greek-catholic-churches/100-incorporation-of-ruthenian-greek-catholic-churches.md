@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 100", "kind": "section", "law_id": "RCO", "location_id": "100", "path": "ARTICLE 5-B › SECTION 100", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/100.md", "title": "Incorporation of Ruthenian Greek Catholic churches"} -->
+# Religious Corporations Law § 100 — Incorporation of Ruthenian Greek Catholic churches
+
+[Religious Corporations Law](../README.md) › [Article 5-B — Ruthenian Greek Catholic Churches](README.md)
+
+```text
+  § 100. Incorporation of Ruthenian Greek Catholic churches. An
+unincorporated Ruthenian Greek Catholic church of the Greek rite in this
+state may become incorporated as a church by executing, acknowledging
+and filing a certificate of incorporation, stating the corporate name by
+which said church shall be known, and the county, town, city or village
+where its principal place of worship is or is intended to be located.
+  A certificate of incorporation of an unincorporated Ruthenian Greek
+Catholic church shall be executed and acknowledged by the Ruthenian
+Catholic bishop, appointed by the pope of Rome to have supervision over
+Ruthenian Catholics of the Greek rite in the United States, or in case
+of a vacancy in the office of bishop by reason of death, resignation or
+otherwise, the Ruthenian administrator of the Ruthenian Catholic diocese
+duly appointed and recognized by the apostolic delegate in the United
+States, and the chancellor of the diocese in which its place of worship
+is, and by the pastor of the church and by two laymen, members of such
+church, who shall be elected by such officers or by a majority of such
+officers. On filing such certificate, said church shall be a corporation
+by the name stated in the certificate.
+```

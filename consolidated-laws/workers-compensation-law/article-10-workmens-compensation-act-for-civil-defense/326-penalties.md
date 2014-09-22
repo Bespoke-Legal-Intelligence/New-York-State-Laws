@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 326", "kind": "section", "law_id": "WKC", "location_id": "326", "path": "ARTICLE 10 › SECTION 326", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/326.md", "title": "Penalties"} -->
+# Workers' Compensation Law § 326 — Penalties
+
+[Workers' Compensation Law](../README.md) › [Article 10 — Workmen's Compensation Act For Civil Defense Volunteers](README.md)
+
+```text
+  § 326. Penalties. 1. If for the purpose of obtaining any benefit or
+payment under the provisions of this article or for the purpose of
+influencing any determination regarding any benefit payment, either for
+himself or another, any person shall wilfully make a false statement or
+representation or fail to disclose a material fact, he shall be guilty
+of a misdemeanor.
+  2. In addition to other penalties provided in this chapter, any person
+who for the purpose of obtaining any benefit or payment under this
+article, or for the purpose of influencing any determination regarding
+any benefit payment, knowingly makes a false statement with regard to a
+material fact, shall not be entitled to receive any benefits, cash or
+medical, for the disability claimed.
+```

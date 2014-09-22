@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 3-C", "kind": "section", "law_id": "PBO", "location_id": "3-C", "path": "ARTICLE 2 › SECTION 3-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/3-C.md", "title": "Restrictions upon nomination or election to compensated federal, state or local office"} -->
+# Public Officers Law § 3-C — Restrictions upon nomination or election to compensated federal, state or local office
+
+[Public Officers Law](../README.md) › [Article 2 — Appointment and Qualification of Public Officers](README.md)
+
+```text
+  § 3-c. Restrictions upon nomination or election to compensated
+federal, state or local office. 1. For purposes of this section,
+"candidate" has the meaning set forth in section 14-100 of the election
+law.
+  2. No commissioner, executive director or other head of any state
+agency, as that term is defined in paragraph (g) of subdivision one of
+section seventy-three of this chapter, shall seek nomination or election
+to any compensated federal, state or local public office, or shall
+become a candidate for such office, unless such individual first resigns
+from his or her public employment, or requests and is granted by their
+appointing authority a leave of absence without pay. Such resignation or
+leave must commence before such individual engages in any campaign
+activities, including but not limited to, announcing a candidacy,
+circulating petitions, soliciting contributions, distributing
+literature, or taking any other action to actively promote oneself as a
+candidate for elective office.
+```

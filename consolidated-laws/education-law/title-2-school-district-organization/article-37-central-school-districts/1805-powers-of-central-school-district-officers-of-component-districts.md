@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1805", "kind": "section", "law_id": "EDN", "location_id": "1805", "path": "TITLE 2 › ARTICLE 37 › SECTION 1805", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1805.md", "title": "Powers of central school district; officers of component districts; transition state aid"} -->
+# Education Law § 1805 — Powers of central school district; officers of component districts; transition state aid
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 37 — Central School Districts](README.md)
+
+```text
+  § 1805. Powers of central school district; officers of component
+districts; transition state aid.  All central school districts shall
+have the same powers and be subject to the same limitations that are now
+conferred or imposed by law upon union free school districts as provided
+by this chapter.  The district officers of the several existing
+districts shall remain in office until August first next following
+organization of such central school district for the purpose of
+conducting and maintaining school in the several districts, the carrying
+out of contracts in force at the time of the organization of such
+central school district, of paying all just debts and obligations of
+such existing districts due and payable on or prior to said August
+first, and of levying and collecting taxes raised or necessary to be
+raised for any of said purposes.  For the purposes of the apportionment
+and payment of public moneys, notwithstanding any other provisions of
+this article, any apportionments and payments made during the school
+year in which such central school district was organized shall be
+apportioned and credited to the existing districts.  Any apportionments
+made and paid during the school year next succeeding the date of the
+organization of such central school district shall be made and credited
+to the central school district but the amounts thereof shall be
+determined upon the basis of the continuance of the existing districts
+as separate districts during the entire school year in which such
+central school district was organized.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 277", "kind": "section", "law_id": "HAY", "location_id": "277", "path": "ARTICLE 10 › SECTION 277", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/277.md", "title": "Assessment of village property"} -->
+# Highway Law § 277 — Assessment of village property
+
+[Highway Law](../README.md) › [Article 10 — Finances](README.md)
+
+```text
+  § 277. Assessment of village property. In any town in which there may
+be an incorporated village, which forms a separate road district, and
+wherein the roads and streets are maintained at the expense of such
+village, all property within such village shall be exempt from the levy
+and collection of taxes levied in the town, as provided by section two
+hundred sixty-seven of this chapter, for the repair and improvement of
+highways, including sluices, culverts and bridges having a span of less
+than five feet. In addition a town board in such town may exempt all
+property within such village from the levy and collection of taxes
+levied in the town for such items provided for by subdivisions three and
+four of section one hundred forty-one of this chapter. The assessors of
+such town shall indicate in a separate column the value of the real
+property included in such incorporated village.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 121", "kind": "section", "law_id": "HAY", "location_id": "121", "path": "ARTICLE 6 › SECTION 121", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/121.md", "title": "Commissioners of appraisal to be appointed"} -->
+# Highway Law § 121 — Commissioners of appraisal to be appointed
+
+[Highway Law](../README.md) › [Article 6 — County Roads](README.md)
+
+```text
+  § 121. Commissioners of appraisal to be appointed. Upon such
+presentation, such court shall, after hearing any person owning or
+claiming an interest in the lands to be acquired who may appear, appoint
+three disinterested persons as commissioners of appraisal. And in case a
+commissioner of appraisal shall at any time decline to serve, or shall
+die, or for any cause become disqualified or disabled from serving as
+such, the said court, at a similar special term, may, upon similar
+notice, application and hearing, and upon such notice to the land owners
+as the court may prescribe, appoint another person similarly qualified,
+to fill the vacancy caused thereby.
+```

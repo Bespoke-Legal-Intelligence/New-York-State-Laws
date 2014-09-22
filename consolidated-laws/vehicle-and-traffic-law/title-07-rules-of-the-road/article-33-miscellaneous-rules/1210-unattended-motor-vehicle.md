@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1210", "kind": "section", "law_id": "VAT", "location_id": "1210", "path": "TITLE 7 › ARTICLE 33 › SECTION 1210", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1210.md", "title": "Unattended motor vehicle"} -->
+# Vehicle and Traffic Law § 1210 — Unattended motor vehicle
+
+[Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 33 — Miscellaneous Rules](README.md)
+
+```text
+  § 1210. Unattended motor vehicle. (a) No person driving or in charge
+of a motor vehicle shall permit it to stand unattended without first
+stopping the engine, locking the ignition, removing the key from the
+vehicle, and effectively setting the brake thereon and, when standing
+upon any grade, turning the front wheels to the curb or side of the
+highway, provided, however, the provision for removing the key from the
+vehicle shall not require the removal of keys hidden from sight about
+the vehicle for convenience or emergency.
+  (b) A driver may, for the purpose of getting away from the place of
+standing, move another vehicle which is so placed he cannot get his
+vehicle out; provided, however, that immediately thereafter he shall
+reset the brake and, if on a grade, turn the front wheels to the curb or
+side of the highway. This privilege is subject to the limitation set
+forth in subdivision (e) of section twelve hundred two.
+  (c) Towing agencies, which remove vehicles unlawfully parked on
+private property at request of the owner of the premises and without the
+written consent of the owner of the vehicle, shall immediately notify
+the local police station house having jurisdiction over the area where
+such vehicle was unlawfully parked, of the description of the car which
+was removed, and the time of removal.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 18", "kind": "section", "law_id": "NAV", "location_id": "18", "path": "ARTICLE 2 › SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/18.md", "title": "Special navigation inspectors"} -->
+# Navigation Law § 18 — Special navigation inspectors
+
+[Navigation Law](../README.md) › [Article 2 — Administration](README.md)
+
+```text
+  § 18. Special navigation inspectors. The commissioner may, if in his
+judgment conditions so require, appoint members of local boat clubs, or
+other persons found competent, to act as special navigation inspectors
+during regattas authorized by him. The power and authority in such
+special navigation inspectors shall be limited to the period during
+which the regatta is authorized and to the enforcement of the navigation
+law and special regulations. Upon the completion of the regatta, he
+shall file with the commissioner a report covering the conduct of the
+regatta and his activities. Such special navigation inspector shall
+receive no compensation from the state. Any expense in connection with
+his duties shall be borne by the person conducting the regatta.
+```

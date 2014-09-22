@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 329", "kind": "section", "law_id": "RCO", "location_id": "329", "path": "ARTICLE 17 › SECTION 329", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/329.md", "title": "Change of date of annual corporate meetings"} -->
+# Religious Corporations Law § 329 — Change of date of annual corporate meetings
+
+[Religious Corporations Law](../README.md) › [Article 17 — Methodist Churches](README.md)
+
+```text
+  § 329. Change of date of annual corporate meetings. An annual
+corporate meeting of an incorporated United Methodist church may change
+the date of its annual meeting thereafter. If such a date shall next
+thereafter occur less than six months after the annual meeting at which
+such change is made, the next annual meeting shall be held one year from
+such next recurring date. For the purpose of determining the terms of
+office of trustees, the time between the annual meeting at which such
+change is made and the next annual meeting thereafter shall be reckoned
+as one year.
+```

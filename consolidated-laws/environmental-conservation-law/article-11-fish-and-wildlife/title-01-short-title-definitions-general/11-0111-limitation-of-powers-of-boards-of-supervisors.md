@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-0111", "kind": "section", "law_id": "ENV", "location_id": "11-0111", "path": "ARTICLE 11 › TITLE 1 › SECTION 11-0111", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-0111.md", "title": "Limitation of powers of boards of supervisors and county legislative bodies"} -->
+# Environmental Conservation Law § 11-0111 — Limitation of powers of boards of supervisors and county legislative bodies
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 1 — Short Title; Definitions; General Provisions](README.md)
+
+```text
+§ 11-0111. Limitation of powers of boards of supervisors and county
+             legislative bodies.
+  Boards of supervisors of counties and county legislative bodies shall
+not, except as expressly provided in the Fish and Wildlife Law, exercise
+powers (other than powers to appropriate money), vested in them by any
+other law, to provide for the protection, preservation or propagation of
+fish, game, wildlife, or shellfish within the county, or to prescribe or
+enforce collection of penalties for the violation thereof.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Associations Law § 13", "kind": "section", "law_id": "GAS", "location_id": "13", "path": "ARTICLE 3 › SECTION 13", "repealed": false, "repealed_date": null, "source": "nys-laws:GAS/13.md", "title": "Action or proceeding against unincorporated association"} -->
+# General Associations Law § 13 — Action or proceeding against unincorporated association
+
+[General Associations Law](../README.md) › [Article 3 — Action or Proceeding By or Against Unincorporated Associations](README.md)
+
+```text
+  § 13.  Action or proceeding against unincorporated association.  An
+action or special proceeding may be maintained, against the president or
+treasurer of such an association, to recover any property, or upon any
+cause of action, for or upon which the plaintiff may maintain such an
+action or special proceeding, against all the associates, by reason of
+their interest or ownership, or claim of ownership therein, either
+jointly or in common, or their liability therefor, either jointly or
+severally.  Any partnership, or other company of persons, which has a
+president or treasurer, is deemed an association within the meaning of
+this section.
+  The service of summons, subpoena or other legal process of any court
+upon the president, vice president, treasurer, assistant treasurer,
+secretary, assistant secretary, or business agent, in his capacity as
+such, shall constitute service upon a labor organization.  Such service
+shall be made on such individuals in the manner provided by law for the
+service of a summons on a natural person.
+```

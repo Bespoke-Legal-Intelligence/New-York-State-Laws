@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1765", "kind": "section", "law_id": "RPA", "location_id": "1765", "path": "ARTICLE 17 › SECTION 1765", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1765.md", "title": "Distribution of proceeds to guardian of infant, committee of incompetent or conservator of conservatee"} -->
+# Real Property Actions and Proceedings Law § 1765 — Distribution of proceeds to guardian of infant, committee of incompetent or conservator of conservatee
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 17 — Special Proceeding For Disposition of Real Property of Infant, Incompetent or Conservatee](README.md)
+
+```text
+  § 1765. Distribution of proceeds to guardian of infant, committee of
+incompetent or conservator of conservatee. 1. Proceeds or income of
+proceeds invested as provided in subdivision 3 of section 1761 may be
+paid on order of court on such undertaking as it may require.
+  2. If the proceeds do not exceed one thousand dollars, the court may
+direct that the same be paid to the father or mother of the infant, or
+to some competent person with whom the infant resides, or who has some
+interest in his welfare, for the use and benefit of such infant.
+  3. In the case of an infant residing without the state, and having in
+the state or country where he resides a general guardian or person duly
+appointed under the laws of such state or country to the control, and
+entitled by the laws of such state or country to the custody, of the
+money of said infant, the court, upon satisfactory proof of such facts
+and of the sufficiency of the security given by such general guardian or
+person in such state or country, by the certificate of a judge of a
+court of record of such state or country, or otherwise, may direct that
+the portion of such infant arising upon a sale pursuant to this article
+shall be paid over to such general guardian or person.
+```

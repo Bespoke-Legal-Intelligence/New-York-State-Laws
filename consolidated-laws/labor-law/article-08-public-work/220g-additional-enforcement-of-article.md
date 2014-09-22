@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 220-G", "kind": "section", "law_id": "LAB", "location_id": "220-G", "path": "ARTICLE 8 › SECTION 220-G", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/220-G.md", "title": "Additional enforcement of article"} -->
+# Labor Law § 220-G — Additional enforcement of article
+
+[Labor Law](../README.md) › [Article 8 — Public Work](README.md)
+
+```text
+  § 220-g. Additional enforcement of article. For the purpose of
+enforcing this article, the affected employee may bring an action to
+recover from the bond which is required by section one hundred
+thirty-seven of the state finance law, of the contractor, the
+subcontractor or both, unpaid wages and supplements, including interest
+as provided for in subdivision eight of section two hundred twenty of
+this article, due to persons furnishing labor to either the contractor
+or subcontractor. Said action may be brought against the contractor, the
+subcontractor, or the issuer of such bond, without prior notice, within
+one year of the date of the last alleged underpayment, or within one
+year of the date of the filing of an order by the commissioner or other
+fiscal officer determining a wage or supplement underpayment. The
+employee may permit an employee organization or the commissioner or
+other fiscal officer to commence such action on his behalf.
+```

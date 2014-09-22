@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 583", "kind": "section", "law_id": "GMU", "location_id": "583", "path": "ARTICLE 15-B › TITLE 14 › SECTION 583", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/583.md", "title": "White Plains urban renewal agency"} -->
+# General Municipal Law § 583 — White Plains urban renewal agency
+
+[General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 14 — White Plains Urban Renewal Agency](README.md)
+
+```text
+  § 583. White Plains urban renewal agency. 1. A municipal urban renewal
+agency, to be known as the White Plains urban renewal agency, is hereby
+established for the accomplishment of any or all of the objects or
+purposes specified in articles fifteen and fifteen-A of this chapter and
+in accordance with article eighteen of the constitution of the state of
+New York. Such agency shall constitute a body corporate and politic, and
+shall consist of five members. The members of such agency shall be
+appointed by the mayor of such city who may appoint himself as one of
+such members. Such agency shall be perpetual in duration, except that in
+the event that the certificate to be executed and filed by such mayor
+pursuant to subdivision one of section five hundred fifty-three of this
+chapter is not filed and approved by the state commissioner of housing
+and community renewal prior to July first, nineteen hundred sixty-five,
+then the corporate existence of such agency shall thereupon terminate
+and such agency shall thereupon be deemed to be and shall be dissolved.
+  2. Such agency shall have the powers and duties now or hereafter
+conferred by article fifteen-A of this chapter upon municipal urban
+renewal agencies, and shall be organized in the manner prescribed by and
+shall be subject to the provisions of such article. Such agency, its
+members, officers and employees and its operations and activities,
+shall, in all respects, be governed by the provisions of articles
+fifteen and fifteen-A of this chapter.
+```

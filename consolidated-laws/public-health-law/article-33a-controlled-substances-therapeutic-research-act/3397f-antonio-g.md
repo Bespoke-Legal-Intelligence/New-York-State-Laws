@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3397-F", "kind": "section", "law_id": "PBH", "location_id": "3397-F", "path": "ARTICLE 33-A › SECTION 3397-F", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3397-F.md", "title": "Antonio G"} -->
+# Public Health Law § 3397-F — Antonio G
+
+[Public Health Law](../README.md) › [Article 33-A — Controlled Substances Therapeutic Research Act](README.md)
+
+```text
+  § 3397-f. Antonio G. Olivieri controlled substances therapeutic
+research program; distribution.  1. The commissioner shall obtain
+marijuana through whatever means he deems most appropriate, consistent
+with regulations promulgated by the national institute on drug abuse,
+the food and drug administration and the drug enforcement administration
+and pursuant to the provisions of this article.
+  2. If, within a reasonable time, the commissioner is unable to obtain
+controlled substances pursuant to subdivision one of this section, he
+shall conduct an inventory of available sources of such drugs, including
+but not limited to the New York state police bureau of criminal
+investigation and local law enforcement officials. Said inventory shall
+be for the purpose of determining the feasibility of obtaining
+controlled substances for use in the program. Upon conducting said
+inventory, the commissioner shall contract with the available source for
+the receipt of controlled substances.
+  3. The commissioner shall cause such marijuana to be transferred to a
+hospital for distribution to the certified patient pursuant to this
+article.
+```

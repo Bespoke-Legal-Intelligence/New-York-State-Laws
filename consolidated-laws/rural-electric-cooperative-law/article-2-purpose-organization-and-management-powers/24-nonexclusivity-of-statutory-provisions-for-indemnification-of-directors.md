@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Rural Electric Cooperative Law § 24", "kind": "section", "law_id": "REL", "location_id": "24", "path": "ARTICLE 2 › SECTION 24", "repealed": false, "repealed_date": null, "source": "nys-laws:REL/24.md", "title": "Nonexclusivity of statutory provisions for indemnification of directors and officers"} -->
+# Rural Electric Cooperative Law § 24 — Nonexclusivity of statutory provisions for indemnification of directors and officers
+
+[Rural Electric Cooperative Law](../README.md) › [Article 2 — Purpose; Organization and Management; Powers](README.md)
+
+```text
+  § 24. Nonexclusivity of statutory provisions for indemnification of
+directors and officers. The indemnification and advancement of expenses
+granted pursuant to, or provided by, this article shall not be deemed
+exclusive of any other rights to which a director or officer seeking
+indemnification or advancement of expenses may be entitled, whether
+contained in the certificate of incorporation or the by-laws or, when
+authorized by such certificate of incorporation or by-laws, (a) a
+resolution of members, (b) a resolution of directors, or (c) an
+agreement providing for such indemnification, provided that no
+indemnification may be made to or on behalf of any director or officer
+if a judgment or other final adjudication adverse to the director or
+officer establishes that his or her acts were committed in bad faith or
+were the result of active and deliberate dishonesty and were material to
+the cause of action so adjudicated, or that he or she personally gained
+in fact a financial profit or other advantage to which he or she was not
+legally entitled. Nothing contained in this article shall affect any
+rights to indemnification to which corporate personnel other than
+directors and officers may be entitled by contract or otherwise under
+law.
+```

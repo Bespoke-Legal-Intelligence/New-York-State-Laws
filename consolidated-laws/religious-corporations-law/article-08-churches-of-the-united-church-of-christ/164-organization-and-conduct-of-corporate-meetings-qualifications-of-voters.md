@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 164", "kind": "section", "law_id": "RCO", "location_id": "164", "path": "ARTICLE 8 › SECTION 164", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/164.md", "title": "Organization and conduct of corporate meetings; qualifications of voters"} -->
+# Religious Corporations Law § 164 — Organization and conduct of corporate meetings; qualifications of voters
+
+[Religious Corporations Law](../README.md) › [Article 8 — Churches of the United Church of Christ, Congregational Christian and Independent Churches](README.md)
+
+```text
+  § 164. Organization and conduct of corporate meetings; qualifications
+of voters.  At every corporate meeting of a church to which this article
+is applicable the following persons, and no others shall be qualified
+voters, to wit:  all persons who are then members in good and regular
+standing of such church by admission into full communion or membership
+therewith in accordance with the by-laws thereof, provided that if the
+by-laws so provide, persons who have statedly worshiped with such church
+and have regularly contributed to its financial support for not less
+than one year preceding such meeting shall also be qualified voters.
+  At such corporate meetings, the presence of at least six persons
+qualified to vote thereat shall be necessary to constitute a quorum; and
+all matters or questions shall be decided by a majority of the qualified
+voters voting thereon, except that by-laws can be adopted or amended
+only by a two-thirds vote. The clerk of the corporation shall call the
+meeting to order; and under his supervision the qualified voters then
+present shall choose a presiding officer and two inspectors of election
+to receive the ballots cast. The presiding officer and the inspectors of
+election shall declare the result of the ballots cast on any matter and
+shall be the judges of the qualifications of voters.  At each annual
+corporate meeting, successors to those trustees whose terms of office
+then expire shall be elected by ballot from the qualified voters, for a
+term of three years thereafter, and until their successors shall be
+elected. A clerk of the corporation shall be elected by ballot, who
+shall hold office until the closing of the next annual meeting, and
+until his successor shall be elected.
+```

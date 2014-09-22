@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 12", "kind": "section", "law_id": "DOM", "location_id": "12", "path": "ARTICLE 3 › SECTION 12", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/12.md", "title": "Marriage, how solemnized"} -->
+# Domestic Relations Law § 12 — Marriage, how solemnized
+
+[Domestic Relations Law](../README.md) › [Article 3 — Solemnization, Proof and Effect of Marriage](README.md)
+
+```text
+  § 12.  Marriage, how solemnized.  No particular form or ceremony is
+required when a marriage is solemnized as herein provided by a clergyman
+or magistrate, but the parties must solemnly declare in the presence of
+a clergyman or magistrate and the attending witness or witnesses that
+they take each other as husband and wife.  In every case, at least one
+witness beside the clergyman or magistrate must be present at the
+ceremony.
+  The preceding provisions of this chapter, so far as they relate to the
+manner of solemnizing marriages, shall not affect marriages among the
+people called friends or quakers; nor marriages among the people of any
+other denominations having as such any particular mode of solemnizing
+marriages; but such marriages must be solemnized in the manner
+heretofore used and practiced in their respective societies or
+denominations, and marriages so solemnized shall be as valid as if this
+article had not been enacted.
+```

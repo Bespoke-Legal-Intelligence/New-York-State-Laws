@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1509", "kind": "section", "law_id": "BSC", "location_id": "1509", "path": "ARTICLE 15 › SECTION 1509", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1509.md", "title": "Disqualification of shareholders, directors, officers and employees"} -->
+# Business Corporation Law § 1509 — Disqualification of shareholders, directors, officers and employees
+
+[Business Corporation Law](../README.md) › [Article 15 — Professional Service Corporations](README.md)
+
+```text
+§ 1509. Disqualification of shareholders, directors, officers and
+          employees.
+  If any shareholder, director, officer or employee of a professional
+service corporation, including a design professional service
+corporation, who has been rendering professional service to the public
+becomes legally disqualified to practice his profession within this
+state, he shall sever all employment with, and financial interests
+(other than interests as a creditor) in, such corporation forthwith or
+as otherwise provided in section 1510 of this article. All provisions of
+law regulating the rendering of professional services by a person
+elected or appointed to a public office shall be applicable to a
+shareholder, director, officer and employee of such corporation in the
+same manner and to the same extent as if fully set forth herein. Such
+legal disqualification to practice his profession within this state
+shall be deemed to constitute an irrevocable offer by the disqualified
+shareholder to sell his shares to the corporation, pursuant to the
+provisions of section 1510 of this article or of the certificate of
+incorporation, by-laws or agreement among the corporation and all
+shareholders, whichever is applicable. Compliance with the terms of such
+offer shall be specifically enforceable in the courts of this state. A
+professional service corporation's failure to enforce compliance with
+this provision shall constitute a ground for forfeiture of its
+certificate of incorporation and its dissolution.
+```

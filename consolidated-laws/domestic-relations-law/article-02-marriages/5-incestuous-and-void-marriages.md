@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 5", "kind": "section", "law_id": "DOM", "location_id": "5", "path": "ARTICLE 2 › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/5.md", "title": "Incestuous and void marriages"} -->
+# Domestic Relations Law § 5 — Incestuous and void marriages
+
+[Domestic Relations Law](../README.md) › [Article 2 — Marriages](README.md)
+
+```text
+  § 5. Incestuous and void marriages. A marriage is incestuous and void
+whether the relatives are legitimate or illegitimate between either:
+  1. An ancestor and a descendant;
+  2. A brother and sister of either the whole or the half blood;
+  3. An uncle and niece or an aunt and nephew.
+  If a marriage prohibited by the foregoing provisions of this section
+be solemnized it shall be void, and the parties thereto shall each be
+fined not less than fifty nor more than one hundred dollars and may, in
+the discretion of the court in addition to said fine, be imprisoned for
+a term not exceeding six months. Any person who shall knowingly and
+wilfully solemnize such marriage, or procure or aid in the solemnization
+of the same, shall be deemed guilty of a misdemeanor and shall be fined
+or imprisoned in like manner.
+```

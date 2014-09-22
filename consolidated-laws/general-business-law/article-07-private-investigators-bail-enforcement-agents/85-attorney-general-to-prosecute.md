@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 85", "kind": "section", "law_id": "GBS", "location_id": "85", "path": "ARTICLE 7 › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/85.md", "title": "Attorney-general to prosecute"} -->
+# General Business Law § 85 — Attorney-general to prosecute
+
+[General Business Law](../README.md) › [Article 7 — Private Investigators, Bail Enforcement Agents and Watch, Guard and Patrol Agencies](README.md)
+
+```text
+  § 85. Attorney-general to prosecute. Criminal action for violation of
+this article shall be prosecuted by the attorney-general, or his deputy,
+in the name of the people of the state, and in any such prosecution the
+attorney-general, or his deputy, shall exercise all the powers and
+perform all duties which the district attorney would otherwise be
+authorized to exercise or to perform therein. The attorney-general
+shall, upon a conviction for a violation of any provision of this
+article and within ten days thereafter, make and file with the
+department of state a detailed report showing the date of such
+conviction, the name of the person convicted and the nature of the
+charge.
+```

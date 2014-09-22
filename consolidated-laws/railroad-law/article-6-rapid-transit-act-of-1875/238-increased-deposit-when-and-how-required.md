@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 238", "kind": "section", "law_id": "RRD", "location_id": "238", "path": "ARTICLE 6 › SECTION 238", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/238.md", "title": "Increased deposit, when and how required"} -->
+# Railroad Law § 238 — Increased deposit, when and how required
+
+[Railroad Law](../README.md) › [Article 6 — Rapid Transit Act of 1875](README.md)
+
+```text
+  § 238. Increased deposit, when and how required. In case any of the
+securities deposited in lieu of money as provided in section two hundred
+and twenty-five, shall in the opinion of the county treasurer or trust
+company with whom they may be deposited, fall below their actual value
+at the time of deposit, the county treasurer or trust company shall call
+upon such railroad corporation to substitute therefor other securities
+equivalent at their par or market value to the amount in lieu of which
+the securities for which they are to be substituted were deposited, and
+in case such other securities shall not be furnished, the county
+treasurer or trust company shall call upon such corporation to furnish
+as a substitute, and it shall so furnish an amount of money equal to the
+amount in lieu of which the securities first above referred to were
+deposited.
+```

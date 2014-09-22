@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 1115", "kind": "section", "law_id": "NPC", "location_id": "1115", "path": "ARTICLE 11 › SECTION 1115", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/1115.md", "title": "Applicability of other provisions"} -->
+# Not-for-Profit Corporation Law § 1115 — Applicability of other provisions
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 11 — Judicial Dissolution](README.md)
+
+```text
+§ 1115. Applicability of other provisions.
+  (a) Subject to the provisions of this article, the provisions of
+sections 1006 (Corporate action and survival of remedies after
+dissolution), 1007 (Notice to creditors; filing or barring claims) and
+1008 (Jurisdiction of supreme court to supervise dissolution and
+liquidation) shall apply to a corporation dissolved under this article.
+  (b) Any orders provided for in section 1008, may be made at any stage
+of an action or special proceeding for dissolution of a corporation
+under this article, and if the corporation is dissolved under this
+article, the court may retain jurisdiction for the purpose of making
+such orders, after the dissolution, in such action or special
+proceeding. The court may also make such orders in separate special
+proceedings, as provided in section 1008.
+  (c) Notice to creditors and claimants, provided for in section 1007,
+may also be given, by order of the court, at any stage of an action or
+special proceeding for dissolution of a corporation under this article.
+```

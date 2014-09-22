@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Village Law § 7-716", "kind": "section", "law_id": "VIL", "location_id": "7-716", "path": "ARTICLE 7 › SECTION 7-716", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/7-716.md", "title": "Conflict with other laws"} -->
+# Village Law § 7-716 — Conflict with other laws
+
+[Village Law](../README.md) › [Article 7 — Building Zones](README.md)
+
+```text
+  § 7-716 Conflict with other laws. Wherever the regulations made under
+authority of this act require a greater width of size of yards or
+courts, or require a lower height of building or less number of stories,
+or require a greater percentage of lot to be left unoccupied, or impose
+other higher standards than are required in any other statute or local
+law or regulation, the provisions of the regulations made under
+authority of this act shall govern. Wherever the provisions of any other
+statute or local ordinance or regulation require a greater width or size
+of yards or courts, or require a lower height of building or a less
+number of stories, or require a greater percentage of lot to be left
+unoccupied, or impose other higher standards than are required by the
+regulations made under authority of this act, the provisions of such
+statute, or local ordinance or regulation shall govern.
+```

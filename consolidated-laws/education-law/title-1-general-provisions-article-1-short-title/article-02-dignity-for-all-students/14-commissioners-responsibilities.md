@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Education Law § 14", "kind": "section", "law_id": "EDN", "location_id": "14", "path": "TITLE 1 › ARTICLE 2 › SECTION 14", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/14.md", "title": "Commissioner's responsibilities"} -->
+# Education Law § 14 — Commissioner's responsibilities
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 2 — Dignity For All Students](README.md)
+
+```text
+  § 14. Commissioner's responsibilities. The commissioner shall:
+  1. Provide direction, which may include development of model policies
+and, to the extent possible, direct services, to school districts
+related to preventing harassment, bullying and discrimination and to
+fostering an environment in every school where all children can learn
+free of manifestations of bias;
+  2. Provide grants, from funds appropriated for such purpose, to local
+school districts to assist them in implementing the guidelines set forth
+in this section;
+  3. Promulgate regulations to assist school districts in implementing
+this article including, but not limited to, regulations to assist school
+districts in developing measured, balanced, and age-appropriate
+responses to violations of this policy, with remedies and procedures
+following a progressive model that make appropriate use of intervention,
+discipline and education and provide guidance related to the application
+of regulations; and
+  4. Provide guidance and educational materials to school districts
+related to best practices in addressing cyberbullying and helping
+families and communities work cooperatively with schools in addressing
+cyberbullying, whether on or off school property or at or away from a
+school function.
+  5. The commissioner shall prescribe regulations that school
+professionals applying on or after December thirty-first, two thousand
+thirteen for a certificate or license, including but not limited to a
+certificate or license valid for service as a classroom teacher, school
+counselor, school psychologist, school social worker, school
+administrator or supervisor or superintendent of schools shall, in
+addition to all other certification or licensing requirements, have
+completed training on the social patterns of harassment, bullying and
+discrimination, as defined in section eleven of this article, including
+but not limited to those acts based on a person's actual or perceived
+race, color, weight, national origin, ethnic group, religion, religious
+practice, disability, sexual orientation, gender or sex, the
+identification and mitigation of harassment, bullying and
+discrimination, and strategies for effectively addressing problems of
+exclusion, bias and aggression in educational settings.
+```

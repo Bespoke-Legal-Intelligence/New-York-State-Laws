@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 204", "kind": "section", "law_id": "HAY", "location_id": "204", "path": "ARTICLE 8 › SECTION 204", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/204.md", "title": "Actions to compel widening; how affected by petition"} -->
+# Highway Law § 204 — Actions to compel widening; how affected by petition
+
+[Highway Law](../README.md) › [Article 8 — Town Highways](README.md)
+
+```text
+  § 204. Actions to compel widening; how affected by petition. In case
+an action might lie in any court of this state against the town
+superintendent of any town or towns to compel such superintendent to
+widen a part of a highway, the width of which has become less than that
+required by statute, or in case an action has been brought against such
+superintendent to compel him to widen a part of a highway, the width of
+which has become less than that required by statute, the presentation of
+a verified petition to the county court as provided for in section one
+hundred and ninety-nine shall prevent the commencing of any such action
+as aforesaid and cause such an action already commenced, to cease, and
+shall be a bar to a recovery on the part of the plaintiff of a judgment
+against such superintendent in any such action instituted or prosecuted
+to judgment after the passage of this chapter.
+```

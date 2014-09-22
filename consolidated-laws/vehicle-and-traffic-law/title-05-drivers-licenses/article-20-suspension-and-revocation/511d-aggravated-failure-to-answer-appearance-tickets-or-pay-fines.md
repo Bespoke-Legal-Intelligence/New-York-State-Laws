@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 511-D", "kind": "section", "law_id": "VAT", "location_id": "511-D", "path": "TITLE 5 › ARTICLE 20 › SECTION 511-D", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/511-D.md", "title": "Aggravated failure to answer appearance tickets or pay fines imposed"} -->
+# Vehicle and Traffic Law § 511-D — Aggravated failure to answer appearance tickets or pay fines imposed
+
+[Vehicle and Traffic Law](../../README.md) › [Title 5 — Drivers' Licenses](../README.md) › [Article 20 — Suspension and Revocation](README.md)
+
+```text
+  § 511-d. Aggravated failure to answer appearance tickets or pay fines
+imposed.  1. A person is guilty of the offense of aggravated failure to
+answer appearance tickets or pay fines imposed when such person has in
+effect twenty or more suspensions, imposed on at least twenty separate
+dates, for failure to answer, appear or pay a fine pursuant to
+subdivision three of section two hundred twenty-six or subdivision
+four-a of section five hundred ten of this chapter.
+  2. A person may be prosecuted for a violation of this section in any
+court of competent jurisdiction in any county:  (a) in which more than
+ten tickets which resulted in suspension for failures to answer, appear
+or pay fines were issued, or (b) in which the twentieth or any
+subsequent ticket which resulted in a suspension for failure to answer,
+appear or pay a fine was issued. The provisions of this subdivision
+shall not apply to any suspension which has been terminated prior to the
+defendant's being charged with a violation of this section.
+  3. Aggravated failure to answer appearance tickets or pay fines
+imposed is a misdemeanor. When a person is convicted of this crime, the
+sentence of the court must be: (i) a fine of not less than five hundred
+dollars; or (ii) a term of imprisonment of not more than one hundred
+eighty days; or (iii) both such fine and imprisonment.
+```

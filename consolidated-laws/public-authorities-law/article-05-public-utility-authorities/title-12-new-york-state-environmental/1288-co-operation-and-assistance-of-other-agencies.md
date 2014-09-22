@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1288", "kind": "section", "law_id": "PBA", "location_id": "1288", "path": "ARTICLE 5 › TITLE 12 › SECTION 1288", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1288.md", "title": "Co-operation and assistance of other agencies"} -->
+# Public Authorities Law § 1288 — Co-operation and assistance of other agencies
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 12 — New York State Environmental Facilities Corporation](README.md)
+
+```text
+  § 1288. Co-operation and assistance of other agencies.  To avoid
+duplication of effort and in the interests of economy, the corporation
+may make use of existing studies, surveys, plans, data and other
+materials in the possession of any state agency or any municipality or
+political subdivision of the state. Each such agency, municipality and
+subdivision is hereby authorized to make the same available to the
+corporation and otherwise to assist it in the performance of its
+functions. The officers and personnel of such agencies, municipalities
+and subdivisions, and of any other government or agency whatever, may
+serve at the request of the corporation upon such advisory committees as
+the corporation shall determine to create and such officers and
+personnel may serve upon such committees without forfeiture of office or
+employment and with no loss or diminution in the compensation, status,
+rights and privileges which they otherwise enjoy.
+```

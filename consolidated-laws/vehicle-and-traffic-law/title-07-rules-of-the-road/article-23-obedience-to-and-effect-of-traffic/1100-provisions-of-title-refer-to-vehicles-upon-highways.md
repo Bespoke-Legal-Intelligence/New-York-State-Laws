@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1100", "kind": "section", "law_id": "VAT", "location_id": "1100", "path": "TITLE 7 › ARTICLE 23 › SECTION 1100", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1100.md", "title": "Provisions of title refer to vehicles upon highways; exceptions"} -->
+# Vehicle and Traffic Law § 1100 — Provisions of title refer to vehicles upon highways; exceptions
+
+[Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 23 — Obedience to and Effect of Traffic Laws](README.md)
+
+```text
+  § 1100. Provisions of title refer to vehicles upon highways;
+exceptions. (a) The provisions of this title apply upon public highways,
+private roads open to public motor vehicle traffic and any other parking
+lot, except where a different place is specifically referred to in a
+given section.
+  (b) The provisions of this title relating to obedience to stop signs,
+flashing signals, yield signs, traffic-control signals and other
+traffic-control devices, and to one-way, stopping, standing, parking and
+turning regulations shall apply to a parking lot only when the
+legislative body of any city, village or town has adopted a local law,
+ordinance, rule or regulation ordering such signs, signals, devices, or
+regulations.
+  (c) Notwithstanding the provisions of subdivision (b) of this section,
+the provisions of subparagraph e of paragraph two of subdivision (a) of
+section twelve hundred two and section twelve hundred three-c of this
+chapter shall also apply to any area which has been designated as a
+place for parking for handicapped persons pursuant to such section.
+  (d) The provisions of this title shall apply upon roadways, streets,
+and highways located within the boundaries of any federal military
+installations over which the federal government has proprietary
+jurisdiction if written request therefor is made by the commanding
+officer of such installation of the chief executive officer or officers
+of the political subdivision or subdivisions in which such installation
+is located and if the commanding officer of such installation shall post
+at the gates of such installation a notice informing all motorists
+entering such installation of such enforcement.
+```

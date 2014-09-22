@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Lien Law § 28", "kind": "section", "law_id": "LIE", "location_id": "28", "path": "ARTICLE 2 › SECTION 28", "repealed": false, "repealed_date": null, "source": "nys-laws:LIE/28.md", "title": "Lien of certain judgments postponed"} -->
+# Lien Law § 28 — Lien of certain judgments postponed
+
+[Lien Law](../README.md) › [Article 2 — Mechanics' Liens](README.md)
+
+```text
+  § 28. Lien of certain judgments postponed. Upon the filing of the
+written instrument or instruments of approval under section twenty-six
+of this article, the lien of all money judgments and attachments
+affecting such real property, or the moneys due under a contract, and
+all claims and liens acquired in any proceedings upon any money
+judgment, shall be subordinate in like manner and to like extent as
+provided in said section for the subordination of mechanics' liens, and
+any attachment issued or money judgment recovered upon a claim, which,
+in whole or in part, was not for materials furnished, labor performed or
+moneys advanced for the improvement of such real property or for the
+public improvement, shall be subordinate to all mechanics' liens thereon
+and shall also be subordinate to all judgments recovered upon and
+attachments issued upon claims for materials furnished, labor performed
+or moneys advanced for the improvement of such real property.
+```

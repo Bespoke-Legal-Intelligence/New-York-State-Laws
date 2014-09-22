@@ -1,0 +1,218 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 28", "kind": "section", "law_id": "TAX", "location_id": "28", "path": "ARTICLE 1 › SECTION 28", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/28.md", "title": "Empire state commercial production credit"} -->
+# Tax Law § 28 — Empire state commercial production credit
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+```text
+  * § 28. Empire state commercial production credit. (a) Allowance of
+credit.  (1) A taxpayer which is a qualified commercial production
+company, or which is a sole proprietor of a qualified commercial
+production company, and which is subject to tax under article nine-A or
+twenty-two of this chapter, shall be allowed a credit against such tax,
+pursuant to the provisions referenced in subdivision (c) of this
+section, to be computed as provided in this section. Provided, however,
+to be eligible for such credit, at least seventy-five percent of the
+production costs (excluding post production costs) paid or incurred
+directly and predominantly in the actual filming or recording of the
+qualified commercial must be costs incurred in New York state. The tax
+credit allowed pursuant to this section shall apply to taxable years
+beginning before January first, two thousand seventeen.
+  (2) The state has annually seven million dollars in total tax credits
+to disburse to all eligible commercial production companies. The seven
+million dollars in total tax credits shall be allocated according to
+subparagraphs (i), (ii) and (iii) of this paragraph:
+  (i) The state annually will disburse one million of the total seven
+million in tax credits to all eligible production companies and the
+amount of the credit shall be the product (or pro rata share of the
+product, in the case of a member of a partnership) of twenty percent of
+the qualified production costs paid or incurred in the production of a
+qualified commercial, provided that the qualified production costs paid
+or incurred are attributable to the use of tangible property or the
+performance of services within the state in the production of such
+qualified commercial. To be eligible for said credit the total qualified
+production costs of a qualified production company must be greater in
+the aggregate during the current calendar year than the average of the
+three previous years for which the credit was applied. Provided,
+however, that until a qualified production company has established a
+three year history, the credit will be based on either the previous year
+or the average of the two previous years, whichever period is longer for
+the qualified production company seeking the credit. If the qualified
+production company has never applied for the growth credit, the previous
+year's data will be used to create a benchmark. The tax credit shall be
+applied only to the amount of the total qualified production costs of
+the current calendar year that are greater than the total amount of
+production costs of the appropriate measurement period as described in
+this subparagraph. The tax credit must be distributed to eligible
+production companies on a pro rata basis, provided, however, that no
+such qualified production company shall receive more than three hundred
+thousand dollars annually for such credit. The credit shall be allowed
+for the taxable year in which the production of such qualified
+commercial is completed.
+  (ii) The state annually will disburse three million of the total seven
+million in tax credits to all eligible production companies who film or
+record qualified commercials within the metropolitan commuter
+transportation district as defined in section twelve hundred sixty-two
+of the public authorities law. The amount of the credit shall be the
+product (or pro rata share of the product, in the case of a member of a
+partnership) of five percent of the qualified production costs paid or
+incurred in the production of a qualified commercial, provided that the
+qualified production costs paid or incurred are attributable to the use
+of tangible property or the performance of services within the state in
+the production of such qualified commercial. To be eligible for said
+credit the total qualified production costs of a qualified production
+company must be greater than five hundred thousand dollars in the
+aggregate during the calendar year. Such credit will be applied to
+qualified production costs exceeding five hundred thousand dollars in a
+calendar year.
+  (iii) The state annually will disburse three million of the total
+seven million in tax credits to all eligible production companies who
+film or record a qualified commercial outside of the metropolitan
+commuter transportation district as defined in section twelve hundred
+sixty-two of the public authorities law; provided, however, that if,
+after July thirty-first the state reviews all applications from eligible
+production companies who film or record a qualified commercial outside
+of the metropolitan commuter district for a given year, tax credits
+remain unallocated under this subparagraph, those credits shall be
+allotted to the credits set forth in subparagraph (i) of this paragraph
+for use consistent with the purposes of such subparagraph. The amount of
+the credit shall be the product (or pro rata share of the product, in
+the case of a member of a partnership) of five percent of the qualified
+production costs paid or incurred in the production of a qualified
+commercial, provided that the qualified production costs paid or
+incurred are attributable to the use of tangible property or the
+performance of services within the state in the production of such
+qualified commercial. To be eligible for said credit the total qualified
+production costs of a qualified production company must be greater than
+one hundred thousand dollars in the aggregate during the calendar year.
+Such credit will be applied to qualified production costs exceeding one
+hundred thousand dollars in a calendar year.
+  ** (3) No qualified production costs used by a taxpayer either as the
+basis for the allowance of the credit provided for under this section or
+used in the calculation of the credit provided for under this section
+shall be used by such taxpayer to claim any other credit allowed
+pursuant to this chapter.
+  Notwithstanding any provisions of this section to the contrary, a
+corporation or partnership, which otherwise qualifies as a qualified
+commercial production company, and is similar in operation and in
+ownership to a business entity or entities taxable, or previously
+taxable, under section one hundred eighty-three, one hundred eighty-four
+or one hundred eighty-five of article nine; article nine-A, article
+thirty-two or thirty-three of this chapter or which would have been
+subject to tax under article twenty-three of this chapter (as such
+article was in effect on January first, nineteen hundred eighty) or the
+income or losses of which is or was includable under article twenty-two
+of this chapter shall not be deemed a new or separate business, and
+therefore shall not be eligible for empire state commercial production
+benefits, if it was not formed for a valid business purpose, as such
+term is defined in clause (D) of subparagraph one of paragraph (o) of
+subdivision nine of section two hundred eight of this chapter and was
+formed solely to gain empire state commercial production credit
+benefits.
+  ** NB Effective until January 1, 2015
+  ** (3) No qualified production costs used by a taxpayer either as the
+basis for the allowance of the credit provided for under this section or
+used in the calculation of the credit provided for under this section
+shall be used by such taxpayer to claim any other credit allowed
+pursuant to this chapter.
+  Notwithstanding any provisions of this section to the contrary, a
+corporation or partnership, which otherwise qualifies as a qualified
+commercial production company, and is similar in operation and in
+ownership to a business entity or entities taxable, or previously
+taxable, under section one hundred eighty-three, one hundred eighty-four
+or one hundred eighty-five of article nine; article nine-A or
+thirty-three of this chapter or which would have been subject to tax
+under article twenty-three of this chapter (as such article was in
+effect on January first, nineteen hundred eighty) or which would have
+been subject to tax under article thirty-two of this chapter (as such
+article was in effect on December thirty-first, two thousand fourteen)
+or the income or losses of which is or was includable under article
+twenty-two of this chapter shall not be deemed a new or separate
+business, and therefore shall not be eligible for empire state
+commercial production benefits, if it was not formed for a valid
+business purpose, as such term is defined in clause (D) of subparagraph
+one of paragraph (o) of subdivision nine of section two hundred eight of
+this chapter and was formed solely to gain empire state commercial
+production credit benefits.
+  ** NB Effective January 1, 2015 until January 1, 2018
+  ** (4) Notwithstanding any provisions of this section to the contrary,
+a corporation or partnership, which otherwise qualifies as a qualified
+commercial production company, and is similar in operation and in
+ownership to a business entity or entities taxable, or previously
+taxable, under section one hundred eighty-three or one hundred
+eighty-four or former section one hundred eighty-five of article nine;
+article nine-A or thirty-three of this chapter or which would have been
+subject to tax under article twenty-three of this chapter (as such
+article was in effect on January first, nineteen hundred eighty) or
+which would have been subject to tax under article thirty-two of this
+chapter (as such article was in effect on December thirty-first, two
+thousand fourteen) or the income or losses of which is or was includable
+under article twenty-two of this chapter shall not be deemed a new or
+separate business, and therefore shall not be eligible for empire state
+commercial production benefits, if it was not formed for a valid
+business purpose, as such term is defined in clause (D) of subparagraph
+one of paragraph (o) of subdivision nine of section two hundred eight of
+this chapter and was formed solely to gain empire state commercial
+production credit benefits.
+  ** NB Effective January 1, 2018
+  (b) Definitions. As used in this section, the following terms shall
+have the following meanings:
+  (1) "Qualified production costs" means production costs only to the
+extent such costs are attributable to the use of tangible property or
+the performance of services within the state directly and predominantly
+in the production (including pre-production and post-production) of a
+qualified commercial.
+  (2) "Production costs" means any costs for tangible property used and
+services performed directly and predominantly in the production
+(including pre-production and post-production) of a qualified
+commercial. "Production costs" shall not include (i) costs for a story,
+script or scenario to be used for a qualified commercial and (ii) wages
+or salaries or other compensation for writers, directors, including
+music directors, producers and performers (other than background actors
+with no scripted lines who are employed by a qualified company and
+musicians). "Production costs" generally include technical and crew
+production costs, such as expenditures for commercial production
+facilities and/or location costs, or any part thereof, film, audiotape,
+videotape or digital medium, props, makeup, wardrobe, commercial
+processing, camera, sound recording, scoring, set construction,
+lighting, shooting, editing and meals. For purposes of this section,
+"post production costs" include the production of original content for a
+qualified commercial employing techniques traditionally used in
+post-production for visual effects, graphic design, animation, and
+musical composition. However, where the commercial consists in its
+entirety of techniques such as visual effects, graphic design, or
+animation, such costs incurred in the production of the commercial, when
+occurring in New York, shall be deemed qualified production costs for
+the purposes of this section. Provided further, however, that "post
+production costs" shall not include the editing of previously produced
+content for a qualified commercial.
+  (3) "Qualified commercial" means an advertisement that is recorded on
+film, audiotape, videotape or digital medium in New York for
+multi-market distribution by way of radio, television networks, cable,
+satellite or motion picture theaters. "Qualified commercial" shall not
+include (i) news or current affairs program, interview or talk program,
+network promos, i.e., commercials promoting television series or movies,
+"how-to" (i.e., instructional) commercial or program, commercial or
+program consisting entirely of stock footage, trailers promoting
+theatrical films, sporting event or sporting program, game show, award
+ceremony, daytime drama (i.e., daytime "soap opera"), or "reality"
+program, or (ii) a production for which records are required under
+section 2257 of title 18, United States code, to be maintained with
+respect to any performer in such production (reporting of books,
+commercials, etc. with respect to sexually explicit conduct).
+  (4) "Qualified commercial production company" is a corporation,
+partnership, limited partnership, or other entity or individual which or
+who is principally engaged in the production of a qualified commercial
+and controls the production of the qualified commercial and is not the
+distributor or contracting entity for production of such commercial.
+  ** (c) Cross-references. For application of the credit provided for in
+this section, see the following provision of this chapter:
+  (1) article 9-A: section 210: subdivision 38.
+  (2) article 22: section 606: subsection (jj).
+  ** NB Effective until January 1, 2015
+  ** (c) Cross-references. For application of the credit provided for in
+this section, see the following provision of this chapter:
+  (1) article 9-A: section 210-B: subdivision 23.
+  (2) article 22: section 606: subsection (jj).
+  ** NB Effective January 1, 2015
+  * NB There are 2 § 28's
+```

@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Education Law § 8512", "kind": "section", "law_id": "EDN", "location_id": "8512", "path": "TITLE 8 › ARTICLE 164 › SECTION 8512", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/8512.md", "title": "Exempt persons"} -->
+# Education Law § 8512 — Exempt persons
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 164 — Respiratory Therapists and Respiratory Therapy Technicians](README.md)
+
+```text
+  § 8512. Exempt persons. This article shall not prohibit:
+  1. a respiratory therapy student or a respiratory therapy technician
+student from engaging in clinical assistance under the supervision of a
+licensed respiratory therapist or a licensed or otherwise legally
+authorized physician as an integral part of a program of study by
+students enrolled in an approved respiratory therapy technician program
+or in a clinical facility or health care agency affiliated with the
+program for respiratory therapy technicians; or
+  2. the performance of any of the tasks or responsibilities included in
+the definition of respiratory therapy technician by any other duly
+licensed, certified or registered health care provider, provided that
+such tasks or responsibilities are within the scope of his or her
+practice; or
+  3. unlicensed assistants from being employed in a hospital, as defined
+in article twenty-eight of the public health law, for purposes other
+than the practice of respiratory therapy technician; or
+  4. the practice of respiratory therapy by any legally qualified
+respiratory therapy practitioner of any other state or territory who is
+serving in the armed forces or the public health service of the United
+States or who is employed by the veterans administration, while engaged
+in the performance of his or her duties.
+```

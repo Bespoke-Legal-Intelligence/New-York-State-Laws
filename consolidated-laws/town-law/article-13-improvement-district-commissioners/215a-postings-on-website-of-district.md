@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Town Law § 215-A", "kind": "section", "law_id": "TWN", "location_id": "215-A", "path": "ARTICLE 13 › SECTION 215-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/215-A.md", "title": "Postings on website of district"} -->
+# Town Law § 215-A — Postings on website of district
+
+[Town Law](../README.md) › [Article 13 — Improvement District Commissioners](README.md)
+
+```text
+  § 215-a. Postings on website of district. In addition to any public
+notice or publication requirements of any other general, special or
+local law, all public notices of the district, including, but not
+limited to, notices of public meetings and hearings, whether pursuant to
+this chapter or any other general, special or local law, shall be posted
+in a timely manner on the websites of the district and the town in which
+the district is located, if such websites are maintained. Copies of any
+reports of examination of the district performed by the state
+comptroller and reports of any external audit of district operations or
+any management letter prepared in conjunction with such external audit
+report, annual financial reports made pursuant to section thirty of the
+general municipal law, when a separate report on district finances is
+prepared pursuant to such section, and any other annual reports on
+district finances shall be posted in a timely manner on the websites of
+the district and the town in which the district is located, if such
+websites are maintained.
+```

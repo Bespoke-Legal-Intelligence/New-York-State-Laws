@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 474", "kind": "section", "law_id": "FCT", "location_id": "474", "path": "ARTICLE 4 › PART 7 › SECTION 474", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/474.md", "title": "Default"} -->
+# Family Court Act § 474 — Default
+
+[Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 7 — Undertaking](README.md)
+
+```text
+  § 474. Default. A default in the terms of the order shall constitute a
+breach of the undertaking. When there has been a default the court shall
+cause an affidavit to be drawn, verified and filed by any person
+familiar with the facts. The surety shall thereupon be personally
+served, or served by registered mail at the address given in the
+undertaking or subsequent address furnished by said surety in writing,
+with notice of such default and shall be required to attend at the court
+on a day certain and show cause why judgment should not be entered on
+the undertaking and the amount thereof applied to the relief of the
+petitioner for the amount in default. If the surety appears and pays the
+amount in arrears the court may remit the forfeiture. Inability to serve
+the surety shall not be prejudicial to the renewal of proceedings
+against the respondent.
+```

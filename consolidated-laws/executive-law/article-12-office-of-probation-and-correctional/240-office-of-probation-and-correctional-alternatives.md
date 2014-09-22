@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 240", "kind": "section", "law_id": "EXC", "location_id": "240", "path": "ARTICLE 12 › SECTION 240", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/240.md", "title": "Office of probation and correctional alternatives"} -->
+# Executive Law § 240 — Office of probation and correctional alternatives
+
+[Executive Law](../README.md) › [Article 12 — Office of Probation and Correctional Alternatives](README.md)
+
+```text
+  § 240. Office of probation and correctional alternatives. 1. There
+shall be in the division of criminal justice services an office of
+probation and correctional alternatives, hereinafter referred to in this
+article as "the office". The head of the office shall be the director of
+probation and correctional alternatives, who shall be appointed by the
+commissioner, subject to the approval of the governor.
+  2. The director shall serve as special advisor to the governor
+regarding matters pertaining to probation and alternatives to
+incarceration. The director shall, in consultation with the
+commissioner, coordinate and make recommendations relating to the type
+and nature of alternative to incarceration programs needed to reduce
+incarceration where the purpose of such incarceration can be adequately
+served by alternative programs and shall work with local probation
+departments and the commissioner to enhance and develop probation
+services and alternative to incarceration programs throughout the state.
+  3. The commissioner, in consultation with the director, shall appoint
+staff and perform such other functions to ensure the efficient operation
+of the office within the amounts made available therefor by
+appropriation.
+  4. As used in this article, the term "director" shall mean the
+director of the office of probation and correctional alternatives,
+"office" shall mean the office of probation and correctional
+alternatives, "commissioner" shall mean the commissioner of the division
+of criminal justice services and "division" shall mean the division of
+criminal justice services.
+```

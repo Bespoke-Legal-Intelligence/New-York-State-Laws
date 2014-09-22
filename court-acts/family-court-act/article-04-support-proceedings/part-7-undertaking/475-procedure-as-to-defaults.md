@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 475", "kind": "section", "law_id": "FCT", "location_id": "475", "path": "ARTICLE 4 › PART 7 › SECTION 475", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/475.md", "title": "Procedure as to defaults"} -->
+# Family Court Act § 475 — Procedure as to defaults
+
+[Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 7 — Undertaking](README.md)
+
+```text
+  § 475. Procedure as to defaults. If the surety contests the default
+the court shall hear and determine the issue. In the event that the
+court finds that a default has been suffered, it shall make an order
+specifying the amount in default and forfeiting the undertaking or cash
+deposit to the extent of such default. A certified copy of such order
+shall be filed in the county clerk's office with a certified copy of the
+undertaking and thereupon the said clerk shall docket the same in the
+book kept by the clerk for the docketing of judgments, as if the same
+was a transcript of a judgment directed for the amount of such sum in
+default. The certified copy of the undertaking and of the order shall be
+the judgment record. Such judgment shall be a lien on all of the real
+estate and collectible out of the real and personal property of the
+surety. An execution may be issued to collect the amount thereof in the
+same manner as upon a judgment recovered in any court of record.
+```

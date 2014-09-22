@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 240", "kind": "section", "law_id": "HAY", "location_id": "240", "path": "ARTICLE 9 › SECTION 240", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/240.md", "title": "Refusal to repair"} -->
+# Highway Law § 240 — Refusal to repair
+
+[Highway Law](../README.md) › [Article 9 — Bridges](README.md)
+
+```text
+  § 240. Refusal to repair. If the town board of either of such towns,
+after notice in writing from the town board of any other of such towns,
+given by the town clerk thereof, shall not within twenty days give their
+consent in writing to build or repair any such bridge, and shall not
+within a reasonable time thereafter direct, by resolution, the same to
+be done, the town board giving such notice may direct the town
+superintendent to make or repair such bridge, and then maintain an
+action in the name of the town, against the town which neglects or
+refuses to join in such making or repairing, and in such action, the
+plaintiffs shall be entitled to recover so much from the defendant, as
+the town would be liable to contribute to the same, together with costs
+and interest.
+```

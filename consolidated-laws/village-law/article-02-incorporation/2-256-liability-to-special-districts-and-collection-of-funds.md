@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Village Law § 2-256", "kind": "section", "law_id": "VIL", "location_id": "2-256", "path": "ARTICLE 2 › SECTION 2-256", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/2-256.md", "title": "Liability to special districts and collection of funds"} -->
+# Village Law § 2-256 — Liability to special districts and collection of funds
+
+[Village Law](../README.md) › [Article 2 — Incorporation](README.md)
+
+```text
+  § 2-256 Liability to special districts and collection of funds.  If
+the territory so incorporated as a village includes within its
+boundaries part of a special district established by the town for a
+sewer, water, light, fire, park, health, police or any other special
+district for municipal purposes the territory so included within the
+boundaries of the village shall not be relieved from bearing its
+proportionate share of any liability or indebtedness incurred for such
+special district purposes while such territory was a part of such
+special district and until such liability is discharged, or such
+indebtedness paid the proportionate share to which such territory would
+be liable if it had not been included in the boundaries of the village
+shall be levied upon, assessed and collected from such territory by the
+proper officers of such village in the same manner as if such territory
+had not been included within the boundaries of the village. All moneys
+so collected shall be paid over from time to time by the village
+treasurer to the supervisor of the town to discharge such liability. The
+collector or receiver of taxes of a town and the treasurer of a county
+shall continue in the execution of his duties in respect to the property
+included in the boundaries of a village incorporated under the
+provisions of this article until he shall have collected the taxes
+authorized or assessed for the year of such incorporation or which have
+been extended on the town assessment roll and become a lien after such
+incorporation and pay to the treasurer of the village when collected the
+taxes extended on the assessment roll against property within the
+village for highway, health, water, light, fire, park, sewer, police or
+other special district purposes.
+```

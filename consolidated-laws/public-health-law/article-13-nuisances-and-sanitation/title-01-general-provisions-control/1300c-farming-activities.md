@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1300-C", "kind": "section", "law_id": "PBH", "location_id": "1300-C", "path": "ARTICLE 13 › TITLE 1 › SECTION 1300-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1300-C.md", "title": "Farming activities"} -->
+# Public Health Law § 1300-C — Farming activities
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 1 — General Provisions; Control and Abatement](README.md)
+
+```text
+  § 1300-c. Farming activities.  Notwithstanding any other provision of
+law, the agricultural activities conducted on a farm, as defined in
+section six hundred seventy-one of the labor law, shall not be
+considered a private nuisance, provided such agricultural activities
+were commenced prior to the surrounding activities, have not increased
+substantially in magnitude or intensity and have not been determined to
+be the cause of conditions dangerous to life or health as determined by
+the commissioner, the local health officer or local board of health
+pursuant to sections thirteen hundred, thirteen hundred-a, thirteen
+hundred three and thirteen hundred four of this chapter.
+```

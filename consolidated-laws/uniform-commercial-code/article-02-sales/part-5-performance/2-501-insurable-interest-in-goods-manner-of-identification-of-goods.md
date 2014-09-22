@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-501", "kind": "section", "law_id": "UCC", "location_id": "2-501", "path": "ARTICLE 2 › PART 5 › SECTION 2-501", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-501.md", "title": "Insurable Interest in Goods; Manner of Identification of Goods"} -->
+# Uniform Commercial Code § 2-501 — Insurable Interest in Goods; Manner of Identification of Goods
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 5 — Performance](README.md)
+
+```text
+Section 2--501. Insurable Interest in Goods; Manner of Identification of
+                  Goods.
+  (1) The buyer obtains a special property and an insurable interest in
+goods by identification of existing goods as goods to which the contract
+refers even though the goods so identified are non-conforming and he has
+an option to return or reject them. Such identification can be made at
+any time and in any manner explicitly agreed to by the parties. In the
+absence of explicit agreement identification occurs
+       (a) when the contract is made if it is for the sale of goods
+           already existing and identified;
+       (b) if the contract is for the sale of future goods other than
+           those described in paragraph (c), when goods are shipped,
+           marked or otherwise designated by the seller as goods to
+           which the contract refers;
+       (c) when the crops are planted or otherwise become growing crops
+           or the young are conceived if the contract is for the sale of
+           unborn young to be born within twelve months after
+           contracting or for the sale of crops to be harvested within
+           twelve months or the next normal harvest season after
+           contracting whichever is longer.
+  (2) The seller retains an insurable interest in goods so long as title
+to or any security interest in the goods remains in him and where the
+identification is by the seller alone he may until default or insolvency
+or notification to the buyer that the identification is final substitute
+other goods for those identified.
+  (3) Nothing in this section impairs any insurable interest recognized
+under any other statute or rule of law.
+```

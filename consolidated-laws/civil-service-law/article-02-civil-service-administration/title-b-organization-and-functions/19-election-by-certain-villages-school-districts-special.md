@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 19", "kind": "section", "law_id": "CVS", "location_id": "19", "path": "ARTICLE 2 › TITLE B › SECTION 19", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/19.md", "title": "Election by certain villages, school districts, special districts and public agencies located in two or more counties"} -->
+# Civil Service Law § 19 — Election by certain villages, school districts, special districts and public agencies located in two or more counties
+
+[Civil Service Law](../../README.md) › [Article 2 — Civil Service Administration](../README.md) › [Title B — Organization and Functions of Municipal Civil Service Commissions](README.md)
+
+```text
+  § 19. Election by certain villages, school districts, special
+districts and public agencies located in two or more counties. The
+administration of this chapter in a village, school district or special
+district incorporated or established on or after the effective date of
+this act and comprising territory in two or more counties, or in a
+public agency established on or after the effective date of this
+amendment and maintained jointly by two or more counties or two or more
+municipal corporations or other civil divisions, including school
+districts, situated in different counties, shall be under the
+jurisdiction of the civil service commission or personnel officer having
+jurisdiction over the classified service of one of such counties
+selected by action of the governing board or body of such village,
+school district or special district, or the appointing authority of such
+public agency.  In the event that such board or body of such a newly
+incorporated village or newly established school district or special
+district or the appointing authority of such newly established public
+agency fails to make such selection within ninety days after the
+effective date of such incorporation or establishment, such village,
+school district, special district or public agency shall be subject to
+the jurisdiction of the civil service commission or personnel officer
+having jurisdiction over the classified service of the county in which
+the greater or greatest territorial area of such village, school
+district, special district or public agency is located.
+```

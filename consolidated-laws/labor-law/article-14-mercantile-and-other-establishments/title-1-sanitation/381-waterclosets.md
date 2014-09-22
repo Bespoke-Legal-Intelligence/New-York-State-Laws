@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 381", "kind": "section", "law_id": "LAB", "location_id": "381", "path": "ARTICLE 14 › TITLE 1 › SECTION 381", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/381.md", "title": "Waterclosets"} -->
+# Labor Law § 381 — Waterclosets
+
+[Labor Law](../../README.md) › [Article 14 — Mercantile and Other Establishments](../README.md) › [Title 1 — Sanitation](README.md)
+
+```text
+  § 381. Waterclosets. 1. There shall be provided for every mercantile
+establishment, every restaurant, every telegraph or messenger company in
+a city and every station, terminal or car barn where women employees of
+a street, surface, electric, subway, or elevated railroad report for
+duty a sufficient number of suitable and convenient waterclosets. They
+shall be maintained inside the building where the employees work, except
+where, in the opinion of the commissioner, it is impracticable.
+  2. There shall be separate watercloset compartments or toilet rooms
+for females, constructed and maintained in accordance with the rules of
+the board.
+  3. The use of any form of trough watercloset, latrine or school sink
+within any mercantile establishment or restaurant is prohibited.
+  4. All waterclosets, urinals, watercloset compartments and toilet
+rooms and the plumbing in connection therewith shall be properly
+constructed, installed, ventilated, lighted, heated and maintained in
+accordance with the rules of the board.
+```

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 5", "kind": "section", "law_id": "CAL", "location_id": "5", "path": "ARTICLE 1-A › SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/5.md", "title": "Transfer of powers and duties relating to canals and canal lands to the New York state thruway authority"} -->
+# Canal Law § 5 — Transfer of powers and duties relating to canals and canal lands to the New York state thruway authority
+
+[Canal Law](../README.md) › [Article 1-A — Transfer to New York State Thruway Authority](README.md)
+
+```text
+  § 5. Transfer of powers and duties relating to canals and canal lands
+to the New York state thruway authority. The powers and duties of the
+commissioner of transportation relating to the New York state canal
+system as set forth in articles one through and including fourteen,
+except article seven, of this chapter, and except properties in use on
+the effective date of this article in support of highway maintenance,
+equipment management and traffic signal operations of the department of
+transportation, are hereby transferred to and merged with the authority,
+to be exercised by the authority on behalf of the people of the state of
+New York. In addition, the commissioner of transportation and the
+chairman of the authority may, in their discretion, enter into an
+agreement or agreements transferring the powers and duties of the
+commissioner of transportation relating to any or all of the bridges and
+highways as set forth in article seven of this chapter, to be exercised
+by the authority on behalf of the people of the state of New York, and
+shall enter into an agreement or agreements for the financing,
+construction, reconstruction or improvement of lift and movable bridges
+on the canal system. Such powers shall be in addition to other powers
+enumerated in title nine of article two of the public authorities law.
+All of the provisions of title nine of article two of such law which are
+not inconsistent with this chapter shall apply to the actions and duties
+of the authority pursuant to this chapter. The authority shall be deemed
+to be the state in exercising the powers and duties transferred pursuant
+to this section but for no other purposes.
+```

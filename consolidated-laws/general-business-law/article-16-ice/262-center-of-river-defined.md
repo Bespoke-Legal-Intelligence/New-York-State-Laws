@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 262", "kind": "section", "law_id": "GBS", "location_id": "262", "path": "ARTICLE 16 › SECTION 262", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/262.md", "title": "Center of river defined"} -->
+# General Business Law § 262 — Center of river defined
+
+[General Business Law](../README.md) › [Article 16 — Ice](README.md)
+
+```text
+  § 262. Center of river defined. The center of such river is hereby
+defined to be a line halfway between low-water mark on the east bank and
+low-water mark on the west bank of such river. Where an island
+intervenes, having an icehouse or icehouses thereon, the center of the
+river, for the purpose of this article, is hereby defined to be a line
+in each channel into which said river is thereby divided, halfway
+between low-water mark along the shore of such island bordering upon
+such channel and the banks of such river opposite such island. Where
+there are, or shall be, dykes erected along both banks of said river, or
+along either shore of such island and also along the bank of said river,
+opposite thereto, the center of said river is hereby defined to be a
+line halfway between said dykes. Where there is, or shall be erected, a
+dyke along one shore of such island, or along one bank of said river
+only, the center of said river is hereby defined to be a line halfway
+between said dyke and low-water mark along the opposite bank of said
+river, or along the opposite shore of such island, where an island
+intervenes.  Nothing in this article shall be construed to deprive the
+public from the right to travel or drive over such ice for any or all
+legitimate purposes whatever.
+```

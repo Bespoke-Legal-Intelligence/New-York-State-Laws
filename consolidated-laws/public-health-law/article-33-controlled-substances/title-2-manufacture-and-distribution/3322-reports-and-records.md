@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3322", "kind": "section", "law_id": "PBH", "location_id": "3322", "path": "ARTICLE 33 › TITLE 2 › SECTION 3322", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3322.md", "title": "Reports and records"} -->
+# Public Health Law § 3322 — Reports and records
+
+[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 2 — Manufacture and Distribution of Controlled Substances](README.md)
+
+```text
+  § 3322. Reports and records. 1. Persons licensed under this title or
+operating a registered outsourcing facility shall maintain records of
+all controlled substances manufactured, compounded, received, disposed
+of, delivered or distributed by them. The record shall show the date of
+receipt or delivery, the name and address, and registration number of
+the person from whom received or to whom delivered or distributed, the
+kind and quantity of substance received and delivered or distributed,
+the kind and quantity of substance produced or removed from the process
+of manufacture and the date thereof.
+  2. Any person licensed under this title or operating a registered
+outsourcing facility shall prepare and maintain a biennial report
+setting forth the current inventory of controlled substances, the
+quantities of controlled substances manufactured, compounded, delivered
+or distributed within the state during the period covered by the report
+and such other information as the commissioner shall by regulation
+prescribe. Maintaining for inspection a biennial inventory of controlled
+substances prepared and maintained in compliance with federal statutes
+and regulations shall be deemed in compliance with this section.
+  3. Any person licensed under this title or operating a registered
+outsourcing facility shall forthwith notify the department of any
+incident involving the theft, loss or possible diversion of controlled
+substances manufactured, compounded, delivered or distributed by the
+licensee or operator.
+  4. The records and reports required by this section shall be prepared,
+preserved, or filed in such manner and detail as the commissioner shall
+by regulation prescribe.
+```

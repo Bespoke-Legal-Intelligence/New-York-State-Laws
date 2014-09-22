@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-3103", "kind": "section", "law_id": "ENV", "location_id": "71-3103", "path": "ARTICLE 71 › TITLE 31 › SECTION 71-3103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-3103.md", "title": "Enforcement of article 35"} -->
+# Environmental Conservation Law § 71-3103 — Enforcement of article 35
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 31 — Enforcement of Article 35](README.md)
+
+```text
+§ 71-3103. Enforcement of article 35.
+  Any person who violates any of the provisions of, or who fails to
+perform any duties imposed by article 35 or any regulation promulgated
+by the commissioner thereunder, shall be liable to a civil penalty of
+not more than twenty-five hundred dollars for each such violation and an
+additional penalty of not more than five hundred dollars for each day
+during which such violation continues, and, in addition thereto, such
+person may be enjoined from continuing such violation. Penalties and
+injunctive relief provided herein shall be recoverable in an action
+brought by the Attorney General at the request and in the name of the
+commissioner.
+```

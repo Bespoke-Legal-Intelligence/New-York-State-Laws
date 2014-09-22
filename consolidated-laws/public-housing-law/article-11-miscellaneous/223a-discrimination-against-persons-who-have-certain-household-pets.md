@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 223-A", "kind": "section", "law_id": "PBG", "location_id": "223-A", "path": "ARTICLE 11 › SECTION 223-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/223-A.md", "title": "Discrimination against persons who have certain household pets"} -->
+# Public Housing Law § 223-A — Discrimination against persons who have certain household pets
+
+[Public Housing Law](../README.md) › [Article 11 — Miscellaneous](README.md)
+
+```text
+  § 223-a. Discrimination against persons who have certain household
+pets.  No person who has been adjudged to be legally blind or who is a
+severely physically handicapped person or who is a mute shall be denied
+occupancy in a dwelling in any project or be subjected to eviction from
+any such dwelling on the sole ground that such person owns a dog or cat
+which will or does reside with such person therein, provided, however,
+that if after occupancy a health hazard results on account of such dog
+or cat, the public health officer having jurisdiction may take such
+corrective measures as are appropriate.
+```

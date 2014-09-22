@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 168-M", "kind": "section", "law_id": "COR", "location_id": "168-M", "path": "ARTICLE 6-C › SECTION 168-M", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/168-M.md", "title": "Review"} -->
+# Correction Law § 168-M — Review
+
+[Correction Law](../README.md) › [Article 6-C — Sex Offender Registration Act](README.md)
+
+```text
+  § 168-m. Review. Notwithstanding any other provision of law to the
+contrary, any state or local correctional facility, hospital or
+institution, district attorney, law enforcement agency, probation
+department, state board of parole, court or child protective agency
+shall forward relevant information pertaining to a sex offender to be
+discharged, paroled, released to post-release supervision or released to
+the board for review no later than one hundred twenty days prior to the
+release or discharge and the board shall make recommendations as
+provided in subdivision six of section one hundred sixty-eight-l of this
+article within sixty days of receipt of the information. Information may
+include, but may not be limited to all or a portion of the arrest file,
+prosecutor's file, probation or parole file, child protective file,
+court file, commitment file, medical file and treatment file pertaining
+to such person. Such person shall be permitted to submit to the board
+any information relevant to the review. Upon application of the sex
+offender or the district attorney, the court shall seal any portion of
+the board's file pertaining to the sex offender that contains material
+that is confidential under any state or federal law; provided, however,
+that in any subsequent proceedings in which the sex offender who is the
+subject of the sealed record is a party and which requires the board to
+provide a recommendation to the court pursuant to this article, such
+sealed record shall be available to the sex offender, the district
+attorney, the court and the attorney general where the attorney general
+is a party, or represents a party, in the proceeding.
+```

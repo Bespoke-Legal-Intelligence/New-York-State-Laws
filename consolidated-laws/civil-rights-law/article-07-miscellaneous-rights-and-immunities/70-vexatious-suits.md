@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 70", "kind": "section", "law_id": "CVR", "location_id": "70", "path": "ARTICLE 7 › SECTION 70", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/70.md", "title": "Vexatious suits"} -->
+# Civil Rights Law § 70 — Vexatious suits
+
+[Civil Rights Law](../README.md) › [Article 7 — Miscellaneous Rights and Immunities](README.md)
+
+```text
+  § 70. Vexatious suits. If a person vexatiously or maliciously, in the
+name of another but without the latter's consent, or in the name of an
+unknown person, commences or continues, or causes to be commenced or
+continued, an action or special proceeding, in a court, of record or not
+of record, or a special proceeding before a judge or a justice of the
+peace; or takes, or causes to be taken, any proceeding, in the course of
+an action or special proceeding in such a court, or before such an
+officer, either before or after judgment or other final determination;
+an action to recover damages therefor may be maintained against him by
+the adverse party to the action or special proceeding; and a like action
+may be maintained by the person, if any, whose name was thus used. He is
+also guilty of a misdemeanor, punishable by imprisonment not exceeding
+six months.
+```

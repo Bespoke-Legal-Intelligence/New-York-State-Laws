@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 17-0509", "kind": "section", "law_id": "ENV", "location_id": "17-0509", "path": "ARTICLE 17 › TITLE 5 › SECTION 17-0509", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/17-0509.md", "title": "Minimum treatment required"} -->
+# Environmental Conservation Law § 17-0509 — Minimum treatment required
+
+[Environmental Conservation Law](../../README.md) › [Article 17 — Water Pollution Control](../README.md) › [Title 5 — Prohibitions](README.md)
+
+```text
+§ 17-0509. Minimum treatment required.
+  1. As used in this section, the term "effective secondary treatment"
+shall mean the removal of substantially all floating and settleable
+solids and the removal of at least eighty-five percent of suspended
+solids and at least eighty-five percent of five day biochemical oxygen
+demand, or such other standard as may be adopted pursuant to the Act.
+  2. The minimum degree of treatment required for the discharge of
+sanitary sewage into the surface waters of the state shall be effective
+secondary treatment, provided, however, that additional treatment may be
+required consistent with the standards established for specific waters
+by the department pursuant to section 17-0301 or with standards,
+criteria, limitations, rules or regulations promulgated or applied
+pursuant to title 8 hereof.
+```

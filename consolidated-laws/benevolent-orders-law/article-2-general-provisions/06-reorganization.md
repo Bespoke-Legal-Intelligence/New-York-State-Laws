@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Benevolent Orders Law § 6", "kind": "section", "law_id": "BVO", "location_id": "6", "path": "ARTICLE 2 › SECTION 6", "repealed": false, "repealed_date": null, "source": "nys-laws:BVO/6.md", "title": "Reorganization"} -->
+# Benevolent Orders Law § 6 — Reorganization
+
+[Benevolent Orders Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 6. Reorganization. Any such lodge, chapter, commandery, consistory,
+council, temple or post heretofore incorporated by the laws of this
+state, or thereby heretofore enabled to take and hold real or personal
+property, or both, may surrender its act of incorporation, charter or
+privilege so conferred upon it, and may become enabled to take and hold
+real or personal property, or both, under the provisions of this
+chapter, on making and filing a certificate in the manner specified in
+this chapter, and stating therein, in addition to what is required in
+such a certificate, the surrender of such act of incorporation, charter
+or privilege, specifying the same. The property theretofore held and
+possessed by it shall be fully vested in its trustees, who shall have
+all the rights, powers and privileges, and be subject to all the
+provisions of this chapter.
+```

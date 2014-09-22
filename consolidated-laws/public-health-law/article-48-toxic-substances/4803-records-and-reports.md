@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4803", "kind": "section", "law_id": "PBH", "location_id": "4803", "path": "ARTICLE 48 › SECTION 4803", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4803.md", "title": "Records and reports"} -->
+# Public Health Law § 4803 — Records and reports
+
+[Public Health Law](../README.md) › [Article 48 — Toxic Substances](README.md)
+
+```text
+  § 4803. Records and reports. 1. Upon request by the commissioner,
+employers shall provide to the commissioner copies of employee health
+and exposure records maintained and supplied to the federal government
+by employers as mandated under the following federal statutes and
+regulations except as access by third parties may be limited therein:
+  (a) Toxic Substances Control Act;
+  (b) Occupational Safety and Health Act;
+  (c) Environmental Pesticide Control Act; and
+  (d) Nuclear Regulatory Commission, 10CFR section 20.102-20.409.
+  2. Upon request by the commissioner employers shall provide the names
+and addresses of present and former employees whenever the commissioner
+determines that there is a health risk or disease relating to the
+exposure of employees to a toxic substance or toxic substances.
+  3. The commissioner shall not release any information with identifying
+names.  The commissioner may, however, publish analyses of such reports
+and information from time to time for scientific and public health
+purposes, in such a manner as to assure that the identities of the
+individuals concerned cannot be ascertained and that information
+protected by applicable trade secret law is not divulged.
+  4. The commissioner may require an employer to keep records of his
+employees' use of specific toxic substances when there is scientific
+evidence to question the efficacy of the current threshold limit values
+for those substances. Such records shall be held solely for the purpose
+of conducting epidemiologic research on occupational health.
+```

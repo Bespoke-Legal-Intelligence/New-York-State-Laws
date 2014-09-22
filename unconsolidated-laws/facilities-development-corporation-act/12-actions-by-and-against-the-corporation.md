@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Facilities Development Corporation Act § 12", "kind": "section", "law_id": "FDC", "location_id": "12", "path": "SECTION 12", "repealed": false, "repealed_date": null, "source": "nys-laws:FDC/12.md", "title": "Actions by and against the corporation"} -->
+# Facilities Development Corporation Act § 12 — Actions by and against the corporation
+
+[Facilities Development Corporation Act](README.md)
+
+```text
+  § 12. Actions by and against the corporation. 1. The state supreme
+court shall have exclusive jurisdiction of any action, suit or special
+proceeding brought by or against or involving the corporation. The venue
+of any action, suit or special proceeding brought against the
+corporation shall be laid in the county of Albany.
+  2. In every action against the corporation for damages, for injuries
+to real or personal property, or for the destruction thereof, or for
+personal injuries or death, the complaint shall contain an allegation
+that at least thirty days have elapsed since the demand, claim or claims
+upon which such action is founded were presented to a director or
+officer of the corporation and that the corporation has neglected or
+refused to make an adjustment or payment thereof for thirty days after
+such presentment.
+  3. Except in an action for wrongful death, an action against the
+corporation for damages for injuries to real or personal property, or
+for the destruction thereof, or for personal injuries, alleged to have
+been sustained, shall not be commenced more than one year and ninety
+days after the cause of action therefor shall have accrued, nor unless a
+notice of claim shall have been served on the corporation within the
+time limit established by and in compliance with all requirements of
+section fifty-e of the general municipal law. An action against the
+corporation for wrongful death shall be commenced in accordance with the
+notice of claim and time limitation provisions of title eleven of
+article nine of the public authorities law.
+  4. All of the provisions of sections seventeen and nineteen of the
+public officers law shall apply to the directors, officers and employees
+of the corporation.
+```

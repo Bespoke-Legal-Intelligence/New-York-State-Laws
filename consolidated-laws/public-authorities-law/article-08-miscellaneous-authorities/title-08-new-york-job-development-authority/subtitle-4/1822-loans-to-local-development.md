@@ -1,0 +1,56 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1822", "kind": "section", "law_id": "PBA", "location_id": "1822", "path": "ARTICLE 8 › TITLE 8 › SUBTITLE 4 › SECTION 1822", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1822.md", "title": "Loans to local development corporations"} -->
+# Public Authorities Law § 1822 — Loans to local development corporations
+
+[Public Authorities Law](../../../README.md) › [Article 8 — Miscellaneous Authorities](../../README.md) › [Title 8 — New York Job Development Authority](../README.md) › [Subtitle 4 — Financial Assistance Generally](README.md)
+
+```text
+  § 1822. Loans to local development corporations. a. No mortgage loan
+shall be made by the authority under the provisions of subtitle II with
+respect to a project unless: (1) the local development corporation has
+obtained firm commitments satisfactory to the authority from responsible
+financial sources, which may but need not include a federal agency or
+the project occupant, for the total project cost exclusive of any loan
+requested from the authority, (2) the local development corporation has
+obtained a firm commitment satisfactory to the authority from the
+project occupant or from a business enterprise described in section
+eighteen hundred twenty-seven to lease or use the project after
+construction, acquisition, rehabilitation or improvement is completed,
+(3) the authority approves the terms of such lease or use and is
+satisfied that the project occupant or a business enterprise described
+in section eighteen hundred twenty-seven may reasonably be expected to
+comply with the terms thereof, (4) the principal amount of such loan is
+forty percent or less of the project cost, except as set forth in
+paragraphs (a) and (b) of subdivision two of section eighteen hundred
+three and paragraph (a) of subdivision seven of section eighteen hundred
+twenty-three of this chapter, (5) such loan is secured by a mortgage on
+the project, and (6) such mortgage is not a junior encumbrance on the
+project by more than fifty percent of the project cost.
+  b. No loan shall be made by the authority under the provisions of
+subtitle III with respect to a project unless: (1) the local development
+corporation has obtained firm commitments satisfactory to the authority
+from responsible financial sources, which may but need not include a
+federal agency or the project occupant, for the total project cost
+exclusive of any loan requested from the authority, (2) the local
+development corporation has obtained a firm commitment satisfactory to
+the authority from the project occupant to lease or use the project
+after construction, acquisition, rehabilitation or improvement is
+completed, (3) the authority approves the terms of such lease or use and
+is satisfied that the project occupant may reasonably be expected to
+comply with the terms thereof, (4) the amount of such loan is ninety per
+cent or less of the project cost and the term of such loan is twenty
+years or less, (5) the authority finds that the facilities to be
+financed through the loan are intended to meet or exceed applicable
+state or federal requirements to abate, prevent or control a pollution,
+and the commissioner of environmental conservation approves the
+construction plans for any such facilities.
+  c. No loan shall be guaranteed by the authority with respect to a
+project unless: (1) the project occupant has obtained firm commitments
+satisfactory to the authority from banking organizations for the
+financing of the project cost exclusive of the amount to be provided by
+the project occupant, (2) the authority is satisfied that the project
+occupant may be reasonably expected to comply with the terms of any loan
+for which a guarantee is sought, (3) the amount of the guarantee is
+eighty percent or less of the project cost, (4) the loan is secured by a
+mortgage or security instrument which is not a junior encumbrance on the
+project.
+```

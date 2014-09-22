@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "County Law § 328-B", "kind": "section", "law_id": "CNT", "location_id": "328-B", "path": "ARTICLE 6-A › SECTION 328-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/328-B.md", "title": "Powers and duties of the chairperson"} -->
+# County Law § 328-B — Powers and duties of the chairperson
+
+[County Law](../README.md) › [Article 6-A — Local Enhanced Wireless 911 Program](README.md)
+
+```text
+  § 328-b. Powers and duties of the chairperson. 1. The chairperson of
+the board shall coordinate efforts among other executive agencies having
+an interest in the duties of the board, and shall consult with such
+agencies in carrying out the duties of the board.
+  2. The chairperson shall receive such assistance as required to carry
+out its duties from staff of the division of homeland security and
+emergency services designated for such purposes, as well as staff
+members recommended by other state agencies to the chairperson.
+  3. The board may request and receive from any department, division,
+board, bureau, commission, or other agency of the state or any political
+subdivision thereof such assistance, information, and data as will
+enable the board to properly carry out its functions, powers, and duties
+under this article.
+```

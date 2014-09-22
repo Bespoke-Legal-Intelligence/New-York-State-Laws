@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 74", "kind": "section", "law_id": "STF", "location_id": "74", "path": "ARTICLE 6 › SECTION 74", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/74.md", "title": "Transportation infrastructure renewal fund"} -->
+# State Finance Law § 74 — Transportation infrastructure renewal fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 74. Transportation infrastructure renewal fund. 1. There is hereby
+established in the joint custody of the state comptroller and the
+commissioner of taxation and finance a special fund, to be known as the
+"transportation infrastructure renewal fund".
+  2. The comptroller shall establish three separate and distinct
+accounts within the transportation infrastructure renewal fund: (a) the
+highway, parkway and bridge account; (b) the ports and waterways
+account; and (c) the transit, rail and aviation account.
+  3. All moneys received by the state from the sale of bonds or notes
+for the purposes enumerated in paragraph a of subdivision three of
+section one of a chapter of the laws of nineteen hundred eighty-three
+enacting and constituting the Rebuild New York Through Transportation
+Infrastructure Renewal Bond Act of 1983 shall be deposited by the
+comptroller in the highway, parkway and bridge account established by
+the comptroller pursuant to the provisions of subdivision two of this
+section.
+  4. All moneys received by the state from the sale of bonds or notes
+for the purposes enumerated in paragraph b of subdivision three of
+section one of a chapter of the laws of nineteen hundred eighty-three
+enacting and constituting the Rebuild New York Through Transportation
+Infrastructure Renewal Bond Act of 1983 shall be deposited by the
+comptroller in the ports and waterways account established by the
+comptroller pursuant to the provisions of subdivision two of this
+section.
+  5. All moneys received by the state from the sale of bonds or notes
+for the purposes enumerated in paragraph c of subdivision three of
+section one of a chapter of the laws of nineteen hundred eighty-three
+enacting and constituting the Rebuild New York Through Transportation
+Infrastructure Renewal Bond Act of 1983 shall be deposited by the
+comptroller in the transit, rail and aviation account established by the
+comptroller pursuant to the provisions of subdivision two of this
+section.
+  6. Moneys in any account of this fund, following appropriation by the
+legislature and allocation by the director of the budget, shall be
+available only for reimbursement of expenditures made from
+appropriations from the capital projects fund for the purposes of such
+fund, as set forth in the Rebuild New York Through Transportation
+Infrastructure Renewal Bond Act of 1983.
+```

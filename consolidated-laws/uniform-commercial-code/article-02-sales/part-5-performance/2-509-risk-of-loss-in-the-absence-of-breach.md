@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-509", "kind": "section", "law_id": "UCC", "location_id": "2-509", "path": "ARTICLE 2 › PART 5 › SECTION 2-509", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-509.md", "title": "Risk of Loss in the Absence of Breach"} -->
+# Uniform Commercial Code § 2-509 — Risk of Loss in the Absence of Breach
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 5 — Performance](README.md)
+
+```text
+Section 2--509. Risk of Loss in the Absence of Breach.
+  (1) Where the contract requires or authorizes the seller to ship the
+goods by carrier
+       (a) if it does not require him to deliver them at a particular
+           destination, the risk of loss passes to the buyer when the
+           goods are duly delivered to the carrier even though the
+           shipment is under reservation (Section 2--505); but
+       (b) if it does require him to deliver them at a particular
+           destination and the goods are there duly tendered while in
+           the possession of the carrier, the risk of loss passes to the
+           buyer when the goods are there duly so tendered as to enable
+           the buyer to take delivery.
+  (2) Where the goods are held by a bailee to be delivered without being
+moved, the risk of loss passes to the buyer
+       (a) on his receipt of a negotiable document of title covering the
+           goods; or
+       (b) on acknowledgment by the bailee of the buyer's right to
+           possession of the goods; or
+       (c) after his receipt of a non-negotiable document of title or
+           other written direction to deliver, as provided in subsection
+           (4) (b) of Section 2--503.
+  (3) In any case not within subsection (1) or (2), the risk of loss
+passes to the buyer on his receipt of the goods if the seller is a
+merchant; otherwise the risk passes to the buyer on tender of delivery.
+  (4) The provisions of this section are subject to contrary agreement
+of the parties and to the provisions of this Article on sale on approval
+(Section 2--327) and on effect of breach on risk of loss (Section
+2--510).
+```

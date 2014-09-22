@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 114", "kind": "section", "law_id": "STF", "location_id": "114", "path": "ARTICLE 7 › SECTION 114", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/114.md", "title": "Inspection of supplies"} -->
+# State Finance Law § 114 — Inspection of supplies
+
+[State Finance Law](../README.md) › [Article 7 — Accounts and Audits](README.md)
+
+```text
+  § 114. Inspection of supplies. The officer or employee designated by a
+state agency to perform the duty of inspecting supplies shall receive
+and examine all articles purchased or received for the operation and
+maintenance thereof, compare them with the bills for the same, ascertain
+whether they correspond in weight, quality or quantity, and inspect the
+supplies thus received.  Such officer or employee shall enter each bill
+of goods thus received in the appropriate books of the agency at the
+time of receipt thereof. He shall make a full memorandum in such books
+of any difference in weight, quality or quantity of any article received
+from the bill thereof. No goods or other articles of purchase or
+manufacture or farm or garden production shall be received unless so
+entered in such books with the proper bill, invoice or statement,
+according to the form of accounts and record prescribed by the
+comptroller. In accounts for repairs or new work, the name of each
+workman, the number of days employed and the rate and amount of wages
+paid to him shall be given.
+```

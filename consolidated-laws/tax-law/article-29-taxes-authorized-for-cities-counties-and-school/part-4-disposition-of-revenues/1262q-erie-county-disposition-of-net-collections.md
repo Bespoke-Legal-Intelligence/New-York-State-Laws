@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1262-Q", "kind": "section", "law_id": "TAX", "location_id": "1262-Q", "path": "ARTICLE 29 › PART 4 › SECTION 1262-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1262-Q.md", "title": "Erie county-disposition of net collections from the one percent and the three-quarters of one percent rates of sales and compensating use..."} -->
+# Tax Law § 1262-Q — Erie county-disposition of net collections from the one percent and the three-quarters of one percent rates of sales and compensating use...
+
+[Tax Law](../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../README.md) › [Part 4 — Disposition of Revenues](README.md)
+
+```text
+  § 1262-q. Erie county-disposition of net collections from the one
+percent and the three-quarters of one percent rates of sales and
+compensating use taxes in excess of three percent. Notwithstanding any
+provision of law to the contrary: (1) If the county of Erie imposes the
+additional one percent rate of sales and compensating use taxes
+authorized by item (i) of clause (4) of subparagraph (i) of the opening
+paragraph of section twelve hundred ten of this article during the
+period beginning January first, two thousand seven, or thereafter, the
+county shall allocate each calendar year the first twelve million five
+hundred thousand dollars of the net collections from such one percent
+rate to the cities of such county and the area in such county outside
+its cities to be applied or distributed in the same manner and
+proportion as the net collections for such cities and area are applied
+or distributed under the revenue distribution agreement entered into
+pursuant to the authority of subdivision (c) of section twelve hundred
+sixty-two of this part in effect on January first, two thousand six, and
+subject to all provisions of such agreement governing the net
+collections for such cities and area and shall retain the remainder of
+such net collections for any county purpose.
+  (2) Net collections from the additional three-quarters of one percent
+rate of sales and compensating use taxes which the county may impose
+during the period commencing December first, two thousand eleven, and
+ending November thirtieth, two thousand fifteen, pursuant to the
+authority of item (ii) of clause (4) of subparagraph (i) of the opening
+paragraph of section twelve hundred ten of this article shall be used by
+the county solely for county purposes and shall not be subject to any
+revenue distribution agreement the county entered into pursuant to the
+authority of subdivision (c) of section twelve hundred sixty-two of this
+part.
+```

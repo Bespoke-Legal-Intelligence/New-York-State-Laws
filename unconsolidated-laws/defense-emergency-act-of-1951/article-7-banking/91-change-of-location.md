@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Defense Emergency Act of 1951 § 91", "kind": "section", "law_id": "DEA", "location_id": "91", "path": "ARTICLE 7 › SECTION 91", "repealed": false, "repealed_date": null, "source": "nys-laws:DEA/91.md", "title": "Change of location"} -->
+# Defense Emergency Act of 1951 § 91 — Change of location
+
+[Defense Emergency Act of 1951](../README.md) › [Article 7 — Banking](README.md)
+
+```text
+  § 91. Change of location. Any institution, without complying with any
+provision of law requiring approval or application for approval of a
+change of location of its place or places of business, may from time to
+time change the location of any of its places of business with respect
+to which an acute emergency exists to another location within this state
+which shall be as near as practicable to the place at which such place
+of business was located at the commencement of the period of acute
+emergency, and may carry on its business at such new location during
+such period of acute emergency and thereafter for a reasonable time. Any
+institution changing the location of any place of business pursuant to
+the provisions of this paragraph shall notify the superintendent thereof
+in writing as soon as practicable before or after the date of such
+change, stating the address of the place of business whose location is
+being changed, the address of the location to which such place of
+business is being changed, and the dates when the institution is ceasing
+to do business at the former location and commencing to do business at
+the latter location.
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 69-M", "kind": "section", "law_id": "GBS", "location_id": "69-M", "path": "ARTICLE 6-D › SECTION 69-M", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/69-M.md", "title": "License required"} -->
+# General Business Law § 69-M — License required
+
+[General Business Law](../README.md) › [Article 6-D — Business of Installing Security or Fire Alarm Systems](README.md)
+
+```text
+  § 69-m. License required. 1. On and after October first, nineteen
+hundred ninety-two, no person shall engage in the business of
+installing, servicing or maintaining security or fire alarm systems or
+hold himself out as being able so to do unless he is licensed therefor
+pursuant to this article.  Nothing herein shall prohibit a person
+licensed in accordance with the provisions of this article from
+employing individuals to assist in the installation, servicing or
+maintaining of security or fire alarm systems, provided such licensee
+issues identification cards on a form prescribed by the secretary of
+state to each unlicensed individual.
+  2. Notwithstanding the provisions of subdivision one of this section,
+a license shall not be required of a person to engage in the business of
+installing, servicing or maintaining security or fire alarm systems if
+such an alarm system is to be installed in a motor vehicle, water vessel
+or aircraft or is a battery-operated smoke detection device.
+Furthermore, a property owner or proprietor who purchases or owns an
+alarm system to be installed by him or his employees onto his property
+or place of business shall not fall under the provisions of this
+article.
+```

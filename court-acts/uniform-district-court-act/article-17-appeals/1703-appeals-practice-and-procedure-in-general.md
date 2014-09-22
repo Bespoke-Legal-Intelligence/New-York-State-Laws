@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Uniform District Court Act § 1703", "kind": "section", "law_id": "UDC", "location_id": "1703", "path": "ARTICLE 17 › SECTION 1703", "repealed": false, "repealed_date": null, "source": "nys-laws:UDC/1703.md", "title": "Appeals; practice and procedure in general"} -->
+# Uniform District Court Act § 1703 — Appeals; practice and procedure in general
+
+[Uniform District Court Act](../README.md) › [Article 17 — Appeals](README.md)
+
+```text
+§ 1703. Appeals; practice and procedure in general.
+  (a) Practice and procedure on appeals shall be as provided in article
+55 of the CPLR except insofar as this act or the rules of this court
+consistent with this act otherwise provide.
+  (b) An appeal as of right from a judgment entered in a small claim or
+a commercial claim must be taken within thirty days of the following,
+whichever first occurs:
+  1. service by the court of a copy of the judgment appealed from upon
+the appellant.
+  2. service by a party of a copy of the judgment appealed from upon the
+appellant.
+  3. service by the appellant of a copy of the judgment appealed from
+upon a party.
+Where service as provided in paragraphs one through three of this
+subdivision is by mail, five days shall be added to the thirty day
+period prescribed in this section.
+```

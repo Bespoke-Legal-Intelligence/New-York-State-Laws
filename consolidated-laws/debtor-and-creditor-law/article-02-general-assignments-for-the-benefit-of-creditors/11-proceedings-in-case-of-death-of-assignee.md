@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 11", "kind": "section", "law_id": "DCD", "location_id": "11", "path": "ARTICLE 2 › SECTION 11", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/11.md", "title": "Proceedings in case of death of assignee"} -->
+# Debtor and Creditor Law § 11 — Proceedings in case of death of assignee
+
+[Debtor and Creditor Law](../README.md) › [Article 2 — General Assignments For the Benefit of Creditors](README.md)
+
+```text
+  § 11. Proceedings in case of death of assignee. In case an assignee
+shall die during the pendency of any proceeding under this article, or
+at any time subsequent to the filing of any bond required herein, his
+personal representative or successor in office, or both, may be brought
+in and substituted in such proceeding on such notice, of not less than
+eight days, as the judge may direct to be given; and any decree made
+thereafter shall bind the parties thus substituted as well as the
+property of such deceased assignee, provided, however, that if such
+assignee dies subsequent to the filing of his bond and before any
+proceedings may have been had thereunder, then the surety on such bond
+may apply to the judge for an accounting, who may, on such terms as to
+him seem just and proper, appoint another assignee and release such
+surety.
+```

@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 768", "kind": "section", "law_id": "GMU", "location_id": "768", "path": "ARTICLE 17-A › TITLE 2 › SECTION 768", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/768.md", "title": "Debts, liabilities and obligations"} -->
+# General Municipal Law § 768 — Debts, liabilities and obligations
+
+[General Municipal Law](../../README.md) › [Article 17-A — Consolidation and Dissolution of Local Government](../README.md) › [Title 2 — Consolidation of Local Government Entities](README.md)
+
+```text
+  § 768. Debts, liabilities and obligations. 1. All valid and lawful
+debts and liabilities existing against a consolidated local government
+entity, or which may thereafter arise or accrue against the consolidated
+local government entity, which but for consolidation would be valid and
+lawful debts or liabilities against one or more of the component local
+government entities, shall be deemed and taken to be like debts against
+or liabilities of the consolidated local government entity and shall
+accordingly be defrayed and answered to by it to the same extent, and no
+further than, the component local government entities would have been
+bound if no consolidation had taken place.
+  2. The rights of creditors and all liens upon the property of any of
+the component local government entities of a consolidation shall be
+preserved unimpaired. The respective component entities shall be deemed
+to continue in existence to preserve such rights and liens, and all
+debts, liabilities and duties of any of the component entities shall
+thenceforth attach to the consolidated local government entity and be
+enforced against it to the same extent as if such debts, liabilities and
+duties had been incurred or contracted by the consolidated local
+government entity.
+  3. All bonds, contracts and obligations of the component entities
+which exist as legal obligations shall be deemed like obligations of the
+consolidated local government entity, and all such obligations as are
+authorized or required to be issued or entered into shall be issued or
+entered into by and in the name of the consolidated local government
+entity.
+```

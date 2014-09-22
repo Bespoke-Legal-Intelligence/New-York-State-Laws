@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 275", "kind": "section", "law_id": "RCO", "location_id": "275", "path": "ARTICLE 14 › SECTION 275", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/275.md", "title": "Government"} -->
+# Religious Corporations Law § 275 — Government
+
+[Religious Corporations Law](../README.md) › [Article 14 — Churches of the Nazarene](README.md)
+
+```text
+  § 275. Government. The district superintendent of the district to
+which any incorporated church of the Nazarene belongs, and his successor
+in office, shall be by virtue of his office, a trustee of said church;
+and the laymen, members of such church who signed said certificate of
+incorporation shall together constitute the first board of trustees
+thereof. The term of office of the laymen trustees of the incorporated
+church of the Nazarene, shall be one year; the number of laymen trustees
+shall be three, six or nine. Whenever the office of any such laymen
+trustees shall become vacant by expiration of term of office or
+otherwise, his successor shall be elected by a majority vote of the duly
+qualified members of said church. No act or proceedings of the trustees
+of any incorporated church shall be valid, without the sanction of the
+district superintendent of the district to which such church belongs, or
+in case of his absence or inability to act, without the sanction of one
+of the general superintendents of the church of the Nazarene of the
+United States.
+```

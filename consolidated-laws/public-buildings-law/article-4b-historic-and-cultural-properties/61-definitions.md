@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Buildings Law § 61", "kind": "section", "law_id": "PBB", "location_id": "61", "path": "ARTICLE 4-B › SECTION 61", "repealed": false, "repealed_date": null, "source": "nys-laws:PBB/61.md", "title": "Definitions"} -->
+# Public Buildings Law § 61 — Definitions
+
+[Public Buildings Law](../README.md) › [Article 4-B — Historic and Cultural Properties](README.md)
+
+```text
+  § 61. Definitions.  When used in this article, unless a different
+meaning clearly appears from the context, the terms listed below shall
+have the following meanings:
+  1. "Commissioner" means the commissioner of general services.
+  2. "Historic and/or cultural place or property" means any building,
+structure, district, area or site including underground and underwater
+sites, that is of significance in the history, architecture, archeology
+or culture of the state, its communities, or the nation.
+  3. "National Register" means the national register of historic places
+authorized by the National Historic Preservation Act of 1966.
+  4. "Registered property" means any historic place or property within
+the boundaries of the state nominated by the commissioner of parks and
+recreation for listing on the national register of historic places
+and/or listed on the state register of historic places.
+  5.  "State agency" means any state department, officer, board,
+commission, agency, or a public authority or public benefit corporation
+at least one of whose members is appointed by the governor.
+  6.  "State register" means the state register of historic places
+established pursuant to section 14.07 of article fourteen of the parks
+and recreation law.
+```

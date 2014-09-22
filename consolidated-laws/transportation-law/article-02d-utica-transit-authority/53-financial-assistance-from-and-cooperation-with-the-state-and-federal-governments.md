@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 53", "kind": "section", "law_id": "TRA", "location_id": "53", "path": "ARTICLE 2-D › SECTION 53", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/53.md", "title": "Financial assistance from and cooperation with the state and federal governments"} -->
+# Transportation Law § 53 — Financial assistance from and cooperation with the state and federal governments
+
+[Transportation Law](../README.md) › [Article 2-D — Utica Transit Authority](README.md)
+
+```text
+  § 53. Financial assistance from and cooperation with the state and
+federal governments. The Utica transit authority is empowered to include
+in agreements with the state and/or federal governments provisions that
+such government or governments shall have the right to approve in
+advance of execution all contracts entered into by the authortiy and to
+supervise and approve the construction, maintenance and operation of any
+project to which such government or governments may render any
+assistance, and subject to the restrictions contained in this article,
+any other terms, covenants and provisions which the Utica transit
+authority may deem necessary or appropriate.
+```

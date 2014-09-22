@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Legislative Law § 7-B", "kind": "section", "law_id": "LEG", "location_id": "7-B", "path": "ARTICLE 2 › SECTION 7-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/7-B.md", "title": "Legislative emergency health station"} -->
+# Legislative Law § 7-B — Legislative emergency health station
+
+[Legislative Law](../README.md) › [Article 2 — Members, Officers and Employees of the Legislature](README.md)
+
+```text
+  § 7-b. Legislative emergency health station. 1. There shall be a
+legislative emergency health station, available for the use of members
+and employees of both houses of the legislature, and official reporters
+of the senate and assembly duly designated upon certificate of the
+legislative correspondent's association, to be located on the third
+floor of the state capitol, conveniently accessible to the legislature,
+and such emergency health station shall be open at all times while the
+legislature is in session. Such emergency health station shall be
+suitable and adequately equipped to administer first aid, within the
+amount of moneys available therefor by appropriation, subject to joint
+rules, if any, that may be adopted by the senate and assembly in
+relation thereto and maintained under the direction of a nurse
+registered under the laws of the state. The nurse provided for in this
+section shall be chosen by the temporary president of the senate and the
+speaker of the assembly and shall serve until his or her successor shall
+be chosen in like manner. The salary and compensation of such nurse
+shall be payable monthly from moneys appropriated for compensation of
+officers and employees of the senate and assembly.
+  2. The nurse and employees of the legislative emergency health station
+shall be considered to be employees of the legislature for all purposes.
+```

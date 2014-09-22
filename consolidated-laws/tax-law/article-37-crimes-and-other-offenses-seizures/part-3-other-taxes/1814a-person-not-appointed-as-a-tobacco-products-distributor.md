@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1814-A", "kind": "section", "law_id": "TAX", "location_id": "1814-A", "path": "ARTICLE 37 › PART 3 › SECTION 1814-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1814-A.md", "title": "Person not appointed as a tobacco products distributor"} -->
+# Tax Law § 1814-A — Person not appointed as a tobacco products distributor
+
+[Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 3 — Other Taxes](README.md)
+
+```text
+  § 1814-a. Person not appointed as a tobacco products distributor. (a)
+Any person who, while not appointed as a distributor of tobacco products
+pursuant to the provisions of article twenty of this chapter, imports or
+causes to be imported into the state more than fifty cigars or more than
+one pound of tobacco, for sale within the state, or produces,
+manufactures or compounds tobacco products within the state shall be
+guilty of a misdemeanor punishable by a fine of not more than five
+thousand dollars or by a term of imprisonment not to exceed thirty days.
+If, within any ninety day period, one thousand or more cigars or five
+hundred pounds or more of tobacco are imported or caused to be imported
+into the state for sale within the state or are produced, manufactured
+or compounded within the state by any person while not appointed as a
+distributor of tobacco products, such person shall be guilty of a
+misdemeanor. Provided further, that any person who has twice been
+convicted under this section shall be guilty of a class E felony for any
+subsequent violation of this section, regardless of the amount of
+tobacco products involved in such violation.
+  (b) For purposes of this section, the possession or transportation
+within this state by any person, other than a tobacco products
+distributor appointed by the commissioner of taxation and finance, at
+any one time of seven hundred fifty or more cigars or fifteen pounds or
+more of tobacco shall be presumptive evidence that such tobacco products
+are possessed or transported for the purpose of sale and are subject to
+the tax imposed by section four hundred seventy-one-b of this chapter.
+With respect to such possession or transportation, any provisions of
+article twenty of this chapter providing for a time period during which
+the tax imposed by such article may be paid shall not apply.
+```

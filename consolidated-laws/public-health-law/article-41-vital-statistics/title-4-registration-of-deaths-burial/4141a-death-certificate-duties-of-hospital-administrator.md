@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4141-A", "kind": "section", "law_id": "PBH", "location_id": "4141-A", "path": "ARTICLE 41 › TITLE 4 › SECTION 4141-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4141-A.md", "title": "Death certificate; duties of hospital administrator"} -->
+# Public Health Law § 4141-A — Death certificate; duties of hospital administrator
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 4 — Registration of Deaths: Burial Permits](README.md)
+
+```text
+  § 4141-a. Death certificate; duties of hospital administrator. When a
+death occurs in a hospital, except in those cases where certificates are
+issued by coroners or medical examiners, the person in charge of such
+hospital or his or her designated representative shall promptly present
+the certificate to the physician or nurse practitioner in attendance, or
+a physician or nurse practitioner acting in his or her behalf, who shall
+promptly certify to the facts of death, provide the medical information
+required by the certificate, sign the medical certificate of death, and
+thereupon return such certificate to such person, so that the
+seventy-two hour registration time limit prescribed in section four
+thousand one hundred forty of this title can be met; provided, however
+that commencing on or after the implementation date under section
+forty-one hundred forty-eight of this title, information and signatures
+required by this section shall be obtained and made in accordance with
+section forty-one hundred forty-eight of this title.
+```

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 233", "kind": "section", "law_id": "PML", "location_id": "233", "path": "ARTICLE 2 › SECTION 233", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/233.md", "title": "Bond required of corporation conducting pari-mutuel betting"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 233 — Bond required of corporation conducting pari-mutuel betting
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 233. Bond required of corporation conducting pari-mutuel betting. 1.
+Every corporation franchised or licensed by the state racing and
+wagering board to conduct pari-mutuel betting, annually and before the
+opening of any race meeting, shall execute and file with the state
+comptroller, a bond to the state in a penalty to be fixed by the
+commissioner of taxation and finance not exceeding five hundred thousand
+dollars, with sureties approved by the attorney general, that it will
+keep its books and records and make reports as required by this chapter,
+that it will pay to the state all taxes imposed by this chapter, that it
+will distribute to the patrons of pari-mutuel pools conducted by it all
+sums due upon presentation of winning tickets held by them, and that it
+will otherwise comply with all the provisions of this chapter in
+relation to the conduct of races and of pari-mutuel betting on its
+racetrack.
+  2. In addition hereto, every such corporation first licensed or
+franchised after January first, nineteen hundred eighty-six, annually
+and before the opening of any race meeting shall execute and file with
+the state comptroller, a bond to the state in a penalty to be fixed by
+the board not exceeding five hundred thousand dollars, with sureties
+approved by the attorney general, that it will make all purse payments
+advertised and offered as premiums, prizes or awards to owners of horses
+competing in races at such track within one week of such race, or, if
+such payment is ordered held by the board pending investigation by it of
+any race, into a trust account pending completion of such investigation.
+```

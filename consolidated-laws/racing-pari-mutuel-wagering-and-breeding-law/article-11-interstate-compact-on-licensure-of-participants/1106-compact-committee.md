@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 1106", "kind": "section", "law_id": "PML", "location_id": "1106", "path": "ARTICLE 11 › SECTION 1106", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/1106.md", "title": "Compact committee"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 1106 — Compact committee
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 11 — Interstate Compact On Licensure of Participants In Live Horse Racing With Pari-mutuel Wagering](README.md)
+
+```text
+  § 1106. Compact committee. a. There is hereby created an interstate
+governmental entity known as the compact committee, to be comprised of
+one official from the racing commission, or its equivalent, of each
+party state, who shall be selected, serve, and be removed in accordance
+with the laws of his or her party state. Each official shall have,
+pursuant to the laws of that party state, the assistance of that state's
+racing commission, or its equivalent, in considering issues related to
+licensing of participants in live racing and in acting as representative
+of that state in the compact committee. Where an official is unable to
+perform any duty in the compact committee, his or her alternate shall
+serve until the original can return to duty, as that party state's
+official in the compact committee. Such a designation shall be
+communicated by that party state's racing commission, or its equivalent,
+to the compact committee, as required by the applicable by-laws.
+  b. The chairman of the racing and wagering board shall designate the
+official, and his or her alternate, to represent New York state in the
+compact committee.
+```

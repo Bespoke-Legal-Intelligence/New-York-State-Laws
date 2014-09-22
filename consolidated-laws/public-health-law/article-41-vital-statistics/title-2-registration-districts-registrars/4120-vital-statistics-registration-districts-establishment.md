@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4120", "kind": "section", "law_id": "PBH", "location_id": "4120", "path": "ARTICLE 41 › TITLE 2 › SECTION 4120", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4120.md", "title": "Vital statistics; registration districts; establishment"} -->
+# Public Health Law § 4120 — Vital statistics; registration districts; establishment
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 2 — Registration Districts: Registrars, Physicians, Midwives and Funeral Directors](README.md)
+
+```text
+  § 4120. Vital statistics; registration districts; establishment.  1.
+Except as otherwise provided in this article, each city, incorporated
+village and town in the state shall constitute a separate primary
+registration district, except that the commissioner may designate any
+county, except those comprising the city of New York, as a primary
+registration district with the approval of the board of supervisors of
+such county.
+  2. To facilitate registration, the commissioner may:
+  (a) with the approval of the legislative body of the county in which
+each affected district is located, combine two or more primary
+registration districts into a single primary registration district; or,
+  (b) divide one primary registration district into two or more primary
+registration districts; or,
+  (c) establish any state hospital, charitable or penal institution as a
+primary registration district.
+  3. Whenever a county or part-county primary registration district has
+been established or two or more primary registration districts have been
+combined, the records of birth and death and all papers pertaining to
+such records in the possession of the original primary registration
+district or districts shall be transferred as directed by the
+commissioner.
+```

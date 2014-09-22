@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1002", "kind": "section", "law_id": "CVP", "location_id": "1002", "path": "ARTICLE 10 › SECTION 1002", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1002.md", "title": "Permissive joinder of parties"} -->
+# Civil Practice Law and Rules § 1002 — Permissive joinder of parties
+
+[Civil Practice Law and Rules](../README.md) › [Article 10 — Parties Generally](README.md)
+
+```text
+  § 1002. Permissive joinder of parties.  (a) Plaintiffs. Persons who
+assert any right to relief jointly, severally, or in the alternative
+arising out of the same transaction, occurrence, or series of
+transactions or occurrences, may join in one action as plaintiffs if any
+common question of law or fact would arise.
+  (b) Defendants. Persons against whom there is asserted any right to
+relief jointly, severally, or in the alternative, arising out of the
+same transaction, occurrence, or series of transactions or occurrences,
+may be joined in one action as defendants if any common question of law
+or fact would arise.
+  (c) Separate relief; separate trials. It shall not be necessary that
+each plaintiff be interested in obtaining, or each defendant be
+interested in defending against, all the relief demanded or as to every
+claim included in an action; but the court may make such orders as will
+prevent a party from being embarrassed, delayed, or put to expense by
+the inclusion of a party against whom he asserts no claim and, who
+asserts no claim against him, and may order separate trials or make
+other orders to prevent prejudice.
+```

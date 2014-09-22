@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-332", "kind": "section", "law_id": "UCC", "location_id": "9-332", "path": "ARTICLE 9 › PART 3 › SUBPART 3 › SECTION 9-332", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-332.md", "title": "Transfer of Money; Transfer of Funds from Deposit Account"} -->
+# Uniform Commercial Code § 9-332 — Transfer of Money; Transfer of Funds from Deposit Account
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 3 — Perfection and Priority](../README.md) › [Subpart 3 — Priority](README.md)
+
+```text
+Section 9--332. Transfer of Money; Transfer of Funds from Deposit
+                  Account.
+  (a) Transferee of money. A transferee of money takes the money free of
+a security interest unless the transferee acts in collusion with the
+debtor in violating the rights of the secured party.
+  (b) Transferee of funds from deposit account. A transferee of funds
+from a deposit account takes the funds free of a security interest in
+the deposit account unless the transferee acts in collusion with the
+debtor in violating the rights of the secured party.
+```

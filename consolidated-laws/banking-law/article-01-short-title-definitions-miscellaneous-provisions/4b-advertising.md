@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 4-B", "kind": "section", "law_id": "BNK", "location_id": "4-B", "path": "ARTICLE 1 › SECTION 4-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/4-B.md", "title": "Advertising"} -->
+# Banking Law § 4-B — Advertising
+
+[Banking Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous Provisions](README.md)
+
+```text
+  § 4-b. Advertising. Every such non-insured banking organization shall
+include in all its advertising within the state with reference to
+deposit accounts the statement substantially as follows: "DEPOSITS NOT
+INSURED". Where such advertising is printed the statement shall be of
+such size and print to be clearly legible, all letters in such statement
+being of the same size and character. No further reference shall be
+contained in the advertising of non-insured banking organizations with
+reference to the insurance of depositors which shall tend to be
+misleading in connection therewith. The non-English equivalent of the
+insurance statement may be used in any advertisement provided that the
+entire advertisement is in such language and that the translation has
+had the prior approval of the superintendent of financial services.
+```

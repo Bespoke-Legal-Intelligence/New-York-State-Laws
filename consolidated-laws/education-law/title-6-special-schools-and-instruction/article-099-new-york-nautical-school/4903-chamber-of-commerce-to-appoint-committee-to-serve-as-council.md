@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Education Law § 4903", "kind": "section", "law_id": "EDN", "location_id": "4903", "path": "TITLE 6 › ARTICLE 99 › SECTION 4903", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4903.md", "title": "Chamber of commerce to appoint committee to serve as council"} -->
+# Education Law § 4903 — Chamber of commerce to appoint committee to serve as council
+
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 99 — New York Nautical School](README.md)
+
+```text
+  § 4903. Chamber of commerce to appoint committee to serve as council.
+The chamber of commerce of New York is authorized to provide for and
+appoint a committee of its members to serve as a council of the nautical
+school, whose duty it shall be, as far as may be, to advise and
+cooperate with the board of education of the city of New York in the
+establishment and management of such school and from time to time to
+visit and examine the same, and to communicate in respect thereof with
+the board of education or such executive committee thereof, and to make
+reports to the chamber of commerce which may transmit to the
+commissioner of education such reports, or any thereof, or an abstract
+of the same, with such recommendations as may be deemed advisable.
+```

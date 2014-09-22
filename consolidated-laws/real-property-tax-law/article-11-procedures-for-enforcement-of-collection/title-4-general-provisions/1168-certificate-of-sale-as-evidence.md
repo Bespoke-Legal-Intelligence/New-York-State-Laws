@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1168", "kind": "section", "law_id": "RPT", "location_id": "1168", "path": "ARTICLE 11 › TITLE 4 › SECTION 1168", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1168.md", "title": "Certificate of sale as evidence"} -->
+# Real Property Tax Law § 1168 — Certificate of sale as evidence
+
+[Real Property Tax Law](../../README.md) › [Article 11 — Procedures For Enforcement of Collection of Delinquent Taxes](../README.md) › [Title 4 — General Provisions](README.md)
+
+```text
+  § 1168. Certificate of sale as evidence. 1. The certificate of sale or
+any other written instrument representing a tax lien shall be
+presumptive evidence in all courts in all proceedings by and against the
+purchaser and his or her representatives, heirs and assigns, of the
+truth of the statements therein, of the title of the purchaser to the
+property therein described, and of the regularity and validity of all
+proceedings had in reference to the taxes or other legal charges for the
+non-payment of which the tax lien was sold and the sale thereof.
+  2. After two years from the issuance of such certificate or other
+written instrument, no evidence shall be admissible in any court to
+rebut such presumption unless the holder thereof shall have procured
+such certificate of sale or such other written instrument by fraud or
+had previous knowledge that it was fraudulently made or procured.
+```

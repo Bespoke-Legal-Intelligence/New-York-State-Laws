@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 53-0305", "kind": "section", "law_id": "ENV", "location_id": "53-0305", "path": "ARTICLE 53 › TITLE 3 › SECTION 53-0305", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/53-0305.md", "title": "Designation of commissioner"} -->
+# Environmental Conservation Law § 53-0305 — Designation of commissioner
+
+[Environmental Conservation Law](../../README.md) › [Article 53 — Tree Conservation and Urban Forestry](../README.md) › [Title 3 — Urban Forestry Programs](README.md)
+
+```text
+§ 53-0305. Designation of commissioner.
+  For the purposes of this title, the commissioner is designated as the
+appropriate state official to coordinate federal funding of urban
+forestry and arboriculture programs and by regulation may provide for
+the submission and approval of urban forestry and arboriculture plans.
+The department will also provide technical assistance to urban areas for
+urban forestry and arboriculture, and encourage the participation of
+municipal foresters, private agencies, organizations, firms, and
+individuals to furnish urban forestry and arboricultural services in
+order to carry out the purposes of this title. The commissioner may take
+steps necessary to facilitate the cooperation of private agencies and
+organizations with municipalities for the purposes of this article,
+including long-term contracts with private parties for the use of vacant
+public lands in or around urban areas, subject to other requirements of
+state law and the jurisdiction of other public agencies with respect
+thereto, for purposes of urban forestry and arboriculture under this
+article, and to provide trees and shrubs for planting in accordance with
+an approved urban forestry or arboricultural plan. This program shall be
+administered in cooperation with the Cornell cooperative extension and
+the soil and water conservation districts to avoid duplication between
+these agencies and the department.
+```

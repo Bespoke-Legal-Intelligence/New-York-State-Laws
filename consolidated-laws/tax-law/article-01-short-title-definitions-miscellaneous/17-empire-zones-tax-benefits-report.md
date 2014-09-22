@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 17", "kind": "section", "law_id": "TAX", "location_id": "17", "path": "ARTICLE 1 › SECTION 17", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/17.md", "title": "Empire zones tax benefits report"} -->
+# Tax Law § 17 — Empire zones tax benefits report
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+```text
+  § 17. Empire zones tax benefits report.  (a) The department of
+taxation and finance must publish an empire zones tax benefits report
+annually by June thirtieth. The first report must be published by June
+thirtieth, two thousand eleven.
+  (b) * (1) The empire zones tax benefits report must contain the
+following information about the empire zone tax credits claimed under
+articles nine, nine-A, twenty-two, thirty-two and thirty-three of this
+chapter during the previous calendar year:
+  (A) the name of each taxpayer claiming a credit; and
+  (B) the amount of each credit earned by each taxpayer.
+  * NB Effective until January 1, 2015
+  * (1) The empire zones tax benefits report must contain the following
+information about the empire zone tax credits claimed under articles
+nine, nine-A, twenty-two and thirty-three of this chapter during the
+previous calendar year:
+  (A) the name of each taxpayer claiming a credit; and
+  (B) the amount of each credit earned by each taxpayer.
+  * NB Effective January 1, 2015
+  (2) If the taxpayer claims a empire zone tax credit because the
+taxpayer is a member of a limited liability company, a partner in a
+partnership or a shareholder in a subchapter S corporation, the name of
+each limited liability company, partnership or subchapter S corporation
+earning any of those credits and the amount of credit earned by each
+entity must be included in the report instead of information about the
+taxpayer claiming the credit.
+  (c) The empire zones tax benefits report must also contain the
+following information about the sales and use tax refunds and credits
+claimed under subdivision (d) of section eleven hundred nineteen of this
+chapter during the previous calendar year:
+  (A) the name of each taxpayer claiming a credit or refund; and
+  (B) the total amount of credits or refunds allowed to each taxpayer.
+  (d) The information included in the empire zones tax benefits report
+will be based on the information filed with the department during the
+previous calendar year, to the extent that it is practicable to use that
+information.
+```

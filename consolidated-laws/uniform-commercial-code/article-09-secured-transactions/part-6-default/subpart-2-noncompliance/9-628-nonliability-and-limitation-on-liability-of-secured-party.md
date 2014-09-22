@@ -1,0 +1,48 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-628", "kind": "section", "law_id": "UCC", "location_id": "9-628", "path": "ARTICLE 9 › PART 6 › SUBPART 2 › SECTION 9-628", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-628.md", "title": "Nonliability and Limitation on Liability of Secured Party; Liability of Secondary Obligor"} -->
+# Uniform Commercial Code § 9-628 — Nonliability and Limitation on Liability of Secured Party; Liability of Secondary Obligor
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 6 — Default](../README.md) › [Subpart 2 — Noncompliance With Article](README.md)
+
+```text
+Section 9--628. Nonliability and Limitation on Liability of Secured
+                  Party; Liability of Secondary Obligor.
+  (a) Limitation of liability of secured party for noncompliance with
+article. Unless a secured party knows that a person is a debtor or
+obligor, knows the identity of the person, and knows how to communicate
+with the person:
+       (1) the secured party is not liable to the person, or to a
+           secured party or lienholder that has filed a financing
+           statement against the person, for failure to comply with this
+           article; and
+       (2) the secured party's failure to comply with this article does
+           not affect the liability of the person for a deficiency.
+  (b) Limitation of liability based on status as secured party. A
+secured party is not liable because of its status as secured party:
+       (1) to a person that is a debtor or obligor, unless the secured
+           party knows:
+           (A) that the person is a debtor or obligor;
+           (B) the identity of the person; and
+           (C) how to communicate with the person; or
+       (2) to a secured party or lienholder that has filed a financing
+           statement against a person, unless the secured party knows:
+           (A) that the person is a debtor; and
+           (B) the identity of the person.
+  (c) Limitation of liability if reasonable belief that transaction not
+a consumer-goods transaction or consumer transaction. A secured party is
+not liable to any person, and a person's liability for a deficiency is
+not affected, because of any act or omission arising out of the secured
+party's reasonable belief that a transaction is not a consumer-goods
+transaction or a consumer transaction or that goods are not consumer
+goods, if the secured party's belief is based on its reasonable reliance
+on:
+       (1) a debtor's representation concerning the purpose for which
+           collateral was to be used, acquired, or held; or
+       (2) an obligor's representation concerning the purpose for which
+           a secured obligation was incurred.
+  (d) Limitation of liability for statutory damages. A secured party is
+not liable to any person under Section 9--625 (c) (2) for its failure to
+comply with Section 9--616.
+  (e) Limitation of multiple liability for statutory damages. A secured
+party is not liable under Section 9--625 (c) (2) more than once with
+respect to any one secured obligation.
+```

@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 3224", "kind": "section", "law_id": "ISC", "location_id": "3224", "path": "ARTICLE 32 › SECTION 3224", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/3224.md", "title": "Standard claim forms; accident and health insurance"} -->
+# Insurance Law § 3224 — Standard claim forms; accident and health insurance
+
+[Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
+
+```text
+  § 3224. Standard claim forms; accident and health insurance. (a) The
+superintendent shall establish standard claim forms for the services of
+hospitals, physicians and other health care providers to be used for all
+accident and health insurance claims. All insurers providing such
+insurance shall accept said standard claim forms when submitted by a
+hospital, physician or other health care provider covering services
+rendered to an individual covered by the policy or when submitted by an
+insured covering these same services. Corporations operating under
+article forty-three of this chapter shall be required to use standard
+claim forms as established by the superintendent pursuant to this
+section.
+  (b) The adoption of any uniform claim forms by the superintendent
+pursuant hereto shall not preclude an insurer from obtaining any
+necessary additional information regarding a claim from the claimant,
+provider of health care or treatment, or certifier of coverage.
+  (c) The superintendent is authorized and empowered to take such action
+as he deems appropriate for the proper implementation hereof and to
+provide by rule and regulation that any form which does not comply with
+the provisions of this section shall not be issued or reissued. The
+rules and regulations so adopted shall specify an effective date, which
+shall not be less than one hundred eighty days after the date of
+adoption or promulgation, after which no insurer may require any
+hospital, physician, other health care provider or insured to complete
+forms differing from those prescribed by the superintendent pursuant
+hereto, other than additional requests for information pursuant to
+subsection (b) hereof.
+```

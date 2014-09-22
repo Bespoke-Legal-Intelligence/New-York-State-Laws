@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Election Law § 3-104-A", "kind": "section", "law_id": "ELN", "location_id": "3-104-A", "path": "ARTICLE 3 › TITLE 1 › SECTION 3-104-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/3-104-A.md", "title": "Compliance unit; compliance procedures"} -->
+# Election Law § 3-104-A — Compliance unit; compliance procedures
+
+[Election Law](../../README.md) › [Article 3 — Election Officials](../README.md) › [Title 1 — Statewide Provisions](README.md)
+
+```text
+  § 3-104-a. Compliance unit; compliance procedures. 1. There shall be a
+compliance unit within the board of elections. The compliance unit shall
+examine campaign finance statements required to be filed pursuant to
+article fourteen of this chapter. If such statements are found to be
+deficient, the compliance unit shall notify the person required to file
+such statement of such deficiency. Such notice shall be in writing and
+mailed to the last known residence or business address of such person by
+certified mail, return receipt requested. If the person required to file
+such statement is a treasurer who has stated that the committee has been
+authorized by one or more candidates, a copy of such notice shall be
+sent to each candidate by first class mail.
+  2. Upon a failure to remedy the deficiencies identified by the
+compliance unit within thirty days of the receipt of such notice the
+chief enforcement counsel may proceed pursuant to subdivision five of
+section 3-104 of this title. If such notice is received within thirty
+days of an election, failure to remedy the deficiencies identified
+within seven days of the receipt of such notice the chief enforcement
+counsel may proceed pursuant to subdivision five of section 3-104 of
+this title.
+```

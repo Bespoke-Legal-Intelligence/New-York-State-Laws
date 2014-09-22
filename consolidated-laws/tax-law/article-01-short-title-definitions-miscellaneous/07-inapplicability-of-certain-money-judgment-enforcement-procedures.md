@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 7", "kind": "section", "law_id": "TAX", "location_id": "7", "path": "ARTICLE 1 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/7.md", "title": "Inapplicability of certain money judgment enforcement procedures"} -->
+# Tax Law § 7 — Inapplicability of certain money judgment enforcement procedures
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+```text
+  § 7. Inapplicability of certain money judgment enforcement
+procedures.--Notwithstanding any provision in article fifty-two of the
+civil practice law and rules or any other provision of law to the
+contrary, the procedures in such article for the enforcement of money
+judgments shall not apply to the tax commission, any officer or employee
+of the department of taxation and finance, or the comptroller or any
+officer or employee of the department of audit and control, as a
+garnishee, with respect to any amount of money to be refunded or
+credited to a taxpayer pursuant to any tax administered by the tax
+commission, which is imposed by this chapter or by a law enacted
+pursuant to the authority of this chapter or article two-E of the
+general city law.
+```

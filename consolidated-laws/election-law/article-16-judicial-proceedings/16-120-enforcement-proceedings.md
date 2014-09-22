@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Election Law § 16-120", "kind": "section", "law_id": "ELN", "location_id": "16-120", "path": "ARTICLE 16 › SECTION 16-120", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/16-120.md", "title": "Enforcement proceedings"} -->
+# Election Law § 16-120 — Enforcement proceedings
+
+[Election Law](../README.md) › [Article 16 — Judicial Proceedings](README.md)
+
+```text
+  § 16-120. Enforcement proceedings. 1. The supreme court or a justice
+thereof, in a proceeding instituted by the state board of elections, may
+impose a civil penalty, as provided for in subdivisions one and two of
+section 14-126 of this chapter.
+  2. Upon proof that a violation of article fourteen of this chapter, as
+provided in subdivision one of this section, has occurred, the court may
+impose a civil penalty, pursuant to subdivisions one and two of section
+14-126 of this chapter, after considering, among other factors, the
+severity of the violation or violations, whether the subject of the
+violation made a good faith effort to correct the violation and whether
+the subject of the violation has a history of similar violations. All
+such determinations shall be made on a fair and equitable basis without
+regard to the status of the candidate or political committee.
+```

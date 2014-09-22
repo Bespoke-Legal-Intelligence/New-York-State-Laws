@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Election Law § 2-106", "kind": "section", "law_id": "ELN", "location_id": "2-106", "path": "ARTICLE 2 › SECTION 2-106", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/2-106.md", "title": "State and county committees; election of members"} -->
+# Election Law § 2-106 — State and county committees; election of members
+
+[Election Law](../README.md) › [Article 2 — Party Organization](README.md)
+
+```text
+  § 2-106. State and county committees; election of members. 1.  Members
+of the state and county committees shall be elected at the primary
+election as herein provided.
+  2. Members of the state committee shall be elected biennially.
+  3. Members of county committees shall be elected biennially, except
+that to effect a transition from either odd to even or even to odd
+number year elections, a county committee may provide by an amendment to
+its rules filed with the board of elections at least four months before
+the date of the primary election at which the two year term of such
+committee is expiring, that the committee elected at such election shall
+be elected for a single, interim one-year term for members of such
+committee. No committee may effect such a change in the year of election
+more than once every ten years.
+  4. Members shall hold office until the next election at which members
+of the committee are elected.
+```

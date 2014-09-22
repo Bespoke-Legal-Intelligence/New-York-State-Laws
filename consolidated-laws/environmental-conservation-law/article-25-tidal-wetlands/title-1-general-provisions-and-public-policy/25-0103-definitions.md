@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 25-0103", "kind": "section", "law_id": "ENV", "location_id": "25-0103", "path": "ARTICLE 25 › TITLE 1 › SECTION 25-0103", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/25-0103.md", "title": "Definitions"} -->
+# Environmental Conservation Law § 25-0103 — Definitions
+
+[Environmental Conservation Law](../../README.md) › [Article 25 — Tidal Wetlands](../README.md) › [Title 1 — General Provisions and Public Policy](README.md)
+
+```text
+§ 25-0103. Definitions.
+  1. "Tidal wetlands" shall mean and include the following:
+  (a) those areas which border on or lie beneath tidal waters, such as,
+but not limited to, banks, bogs, salt marsh, swamps, meadows, flats or
+other low lands subject to tidal action, including those areas now or
+formerly connected to tidal waters;
+  (b) all banks, bogs, meadows, flats and tidal marsh subject to such
+tides, and upon which grow or may grow some or any of the following:
+salt hay (Spartina patens and Distichlis spicata), black grass (Juncus
+Gerardi), saltworts (Salicornia ssp.), sea lavender (Limonium
+carolinianum), tall cordgrass (Spartina pectinata and Spartina
+cynosuroides), hightide bush (Iva frutescens), cattails (Typha
+angustifolia and Typha latifolia), groundsel (Baccharis halmilifolia),
+marsh mallow (Hybiscus palustris) and the intertidal zone including low
+marsh cordgrass (Spartina alterniflora).
+  2. "Commissioner" shall mean the commissioner of environmental
+conservation.
+  3. "Pollution" shall mean the presence in the environment of
+conditions or contaminants in quantities or characteristics which are or
+may be injurious to human, plant, or marine life, wildlife, or other
+animal life, or to property, or which unreasonably interfere with the
+comfortable enjoyment of life and property throughout such tidal
+wetlands as may be affected thereby.
+  4. "Person" shall mean any individual, public or private corporation,
+political subdivision, government agency, department or bureau of the
+state, bi-state authority, municipality, industry, co-partnership,
+association, firm, trust, estate or any other legal entity whatsoever.
+  5. "Municipality" shall mean a village, town, city or county.
+```

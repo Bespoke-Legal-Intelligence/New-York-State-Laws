@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 85", "kind": "section", "law_id": "TCP", "location_id": "85", "path": "ARTICLE 7 › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/85.md", "title": "Construction across and along canals, rivers and creeks"} -->
+# Transportation Corporations Law § 85 — Construction across and along canals, rivers and creeks
+
+[Transportation Corporations Law](../README.md) › [Article 7 — Pipe Line Corporations](README.md)
+
+```text
+  § 85. Construction across and along canals, rivers and creeks.  No
+pipe line shall be constructed upon or across any of the canals of this
+state, except by the consent of and in the manner and upon the terms
+prescribed by the, commissioner of transportation, unless constructed
+upon a fixed bridge across such canal, and with the consent of the
+person for whose benefit such bridge is constructed and maintained, or
+upon such a bridge over the canal, at the crossing of a public highway
+or street, with the consent of the public officers having the
+supervision thereof, or of the municipal authorities of any village or
+city within whose limits such bridge may be, nor shall the pipes of any
+such corporation be laid through or along the banks of any of the canals
+of this state, nor through or under any of its rivers or creeks, unless
+such pipes shall be encased, so as to prevent leakage, in such manner as
+shall be approved by the commissioner of transportation.
+```

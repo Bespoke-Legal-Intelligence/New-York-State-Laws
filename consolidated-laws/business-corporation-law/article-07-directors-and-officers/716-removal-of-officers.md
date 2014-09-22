@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 716", "kind": "section", "law_id": "BSC", "location_id": "716", "path": "ARTICLE 7 › SECTION 716", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/716.md", "title": "Removal of officers"} -->
+# Business Corporation Law § 716 — Removal of officers
+
+[Business Corporation Law](../README.md) › [Article 7 — Directors and Officers](README.md)
+
+```text
+§ 716. Removal of officers.
+  (a) Any officer elected or appointed by the board may be removed by
+the board with or without cause. An officer elected by the shareholders
+may be removed, with or without cause, only by vote of the shareholders,
+but his authority to act as an officer may be suspended by the board for
+cause.
+  (b) The removal of an officer without cause shall be without prejudice
+to his contract rights, if any. The election or appointment of an
+officer shall not of itself create contract rights.
+  (c) An action to procure a judgment removing an officer for cause may
+be brought by the attorney-general or by ten percent of the votes of the
+outstanding shares, whether or not entitled to vote. The court may bar
+from re-election or reappointment any officer so removed for a period
+fixed by the court.
+```

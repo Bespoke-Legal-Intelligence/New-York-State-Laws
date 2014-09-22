@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 75-G", "kind": "section", "law_id": "DOM", "location_id": "75-G", "path": "ARTICLE 5-A › TITLE 1 › SECTION 75-G", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/75-G.md", "title": "Notice to persons outside state"} -->
+# Domestic Relations Law § 75-G — Notice to persons outside state
+
+[Domestic Relations Law](../../README.md) › [Article 5-A — Uniform Child Custody Jurisdiction and Enforcement Act](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 75-g. Notice to persons outside state.  1. Notice required for the
+exercise of jurisdiction when a person is outside this state shall be
+given in a manner prescribed by the law of this state for service of
+process, as provided in paragraph (a), (b) or (c) of this subdivision,
+or by the law of the state in which the service is made, as provided in
+paragraph (d) of this subdivision. Notice must be given in a manner
+reasonably calculated to give actual notice. If a person cannot be
+served with notice within the state, the court shall require that such
+person be served in a manner reasonably calculated to give actual
+notice, as follows:
+  (a) by personal delivery outside the state in the manner prescribed by
+section three hundred thirteen of the civil practice law and rules; or
+  (b) by any form of mail requesting a receipt; or
+  (c) in such manner as the court, upon motion, directs, including
+publication, if service is impracticable under paragraph (a) or (b) of
+this subdivision; or
+  (d) in such manner as prescribed by the law of the state in which
+service is made.
+  2. Proof of service outside the state shall be by affidavit of the
+individual who made the service, or in the manner prescribed by the
+order pursuant to which service is made. If service is made by mail,
+proof may be by a receipt signed by the addressee or other evidence of
+delivery to the addressee. Proof of service may also be in the manner
+prescribed by the law of the state in which the service is made.
+  3. Notice is not required for the exercise of jurisdiction with
+respect to a person who submits to the jurisdiction of the court.
+```

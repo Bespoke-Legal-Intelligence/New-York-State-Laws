@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 1510-A", "kind": "section", "law_id": "NPC", "location_id": "1510-A", "path": "ARTICLE 15 › SECTION 1510-A", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/1510-A.md", "title": "Repair or removal of monuments"} -->
+# Not-for-Profit Corporation Law § 1510-A — Repair or removal of monuments
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 15 — Public Cemetery Corporations](README.md)
+
+```text
+§ 1510-a. Repair or removal of monuments.
+  (a) Cemetery corporations may repair or remove any monuments or other
+markers not owned by the cemetery corporation that have fallen into
+disrepair or dilapidation so as to create a dangerous condition,
+provided that the cemetery corporation has given not less than sixty
+days notice by registered or certified mail to the last known owner at
+that person's last known address to repair or remove the monument or
+other marker and the said owner has failed to do so within the time
+provided in said notice.
+  (b) In the event that the last known owner cannot be found, the notice
+may be given by publishing the same once each week for three consecutive
+weeks in a newspaper published or circulated in the county in which the
+cemetery is located. Such notice shall be addressed to the last known
+owner and to all persons having or claiming any interest in or to the
+burial lot on which the monument or other marker is located. The notice
+shall date from the date of mailing such notice by registered or
+certified mail, or the date of the third publication in the newspaper.
+  (c) Any monument or other marker that is removed as provided for in
+this section shall be replaced with a flush bronze or granite marker
+suitably inscribed if replacement is appropriate for identification
+purposes.
+  (d) Nothing contained herein shall be construed as establishing any
+right of damages not otherwise provided by law, rule or contract in any
+person against the cemetery corporation for failure to repair or remedy
+any condition described or give notice thereof as provided for in this
+section.
+```

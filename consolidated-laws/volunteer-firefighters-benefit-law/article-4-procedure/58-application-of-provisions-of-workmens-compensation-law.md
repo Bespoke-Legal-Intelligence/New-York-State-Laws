@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Volunteer Firefighters' Benefit Law § 58", "kind": "section", "law_id": "VOL", "location_id": "58", "path": "ARTICLE 4 › SECTION 58", "repealed": false, "repealed_date": null, "source": "nys-laws:VOL/58.md", "title": "Application of provisions of workmen's compensation law"} -->
+# Volunteer Firefighters' Benefit Law § 58 — Application of provisions of workmen's compensation law
+
+[Volunteer Firefighters' Benefit Law](../README.md) › [Article 4 — Procedure](README.md)
+
+```text
+  § 58. Application of provisions of workmen's compensation law.  All
+the powers and duties conferred or imposed upon the chairman of the
+workmen's compensation board and the workmen's compensation board by the
+workmen's compensation law which are necessary for the administration of
+this chapter and not inconsistent with this chapter are, to that extent,
+made applicable to this chapter, even though such provisions of the
+workmen's compensation law are not expressly made applicable to this
+chapter by the provisions of this chapter or the workmen's compensation
+law.
+```

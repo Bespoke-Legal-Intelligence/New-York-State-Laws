@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 89-J", "kind": "section", "law_id": "COR", "location_id": "89-J", "path": "ARTICLE 4-B › SECTION 89-J", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/89-J.md", "title": "Title to facilities"} -->
+# Correction Law § 89-J — Title to facilities
+
+[Correction Law](../README.md) › [Article 4-B — Alternate Correctional Facilities For the City of New York](README.md)
+
+```text
+  § 89-j. Title to facilities. Upon payment by the city of New York of
+the costs of acquisition and construction, the state of New York shall
+transfer title in fee simple absolute to the city of New York without
+additional consideration. Notwithstanding the foregoing, as long as an
+operation agreement entered into pursuant to this article is in effect,
+the department shall have sole and exclusive authority to operate,
+manage and maintain such facility including but not limited to the
+authority to authorize or make without obtaining approval from the city
+of New York any capital repairs or improvements deemed necessary.
+```

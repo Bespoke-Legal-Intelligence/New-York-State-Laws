@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Education Law § 551", "kind": "section", "law_id": "EDN", "location_id": "551", "path": "TITLE 1 › ARTICLE 12 › SECTION 551", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/551.md", "title": "Apportionment"} -->
+# Education Law § 551 — Apportionment
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 12 — Health and Safety Grants For Nonpublic School Children](README.md)
+
+```text
+  § 551. Apportionment. 1. In order to meet proper health, welfare and
+safety standards in qualifying schools for the benefit of the pupils
+enrolled therein, there shall be apportioned health, welfare and safety
+grants by the commissioner to each qualifying school for the school
+years beginning on and after July first, nineteen hundred seventy-one,
+an amount equal to the product of thirty dollars multiplied by the
+average daily attendance of pupils receiving instruction in such school,
+to be applied for costs of maintenance and repair. Such apportionment
+shall be increased by ten dollars multiplied by the average daily
+attendance of pupils receiving instruction in a school building
+constructed prior to nineteen hundred forty-seven. In no event shall the
+per pupil annual allowance computed under this section exceed fifty per
+centum of the average per pupil cost of equivalent maintenance and
+repair in the public schools of the state on a state-wide basis, as
+determined by the commissioner, and in no event shall the apportionment
+to a qualifying school exceed the amount of expenditures for maintenance
+and repair of such school as reported pursuant to section five hundred
+fifty-two of this article.
+  2. The apportionment pursuant to this section shall be reduced by one
+one hundred eightieth for each day less than one hundred eighty days
+that such school was actually in total session in the base year, except
+that the commissioner may disregard such reduction up to five days if he
+finds that the school was not in session for one hundred eighty days
+because of extraordinary adverse weather conditions, impairment of
+heating facilities, insufficiency of water supply, shortage of fuel or
+the destruction of a school building, and if the commissioner further
+finds that such school cannot make up such days of instruction during
+the school year. No such reduction shall be made, however, for any day
+on which such school was in session for the purpose of administering the
+regents examinations or the regents scholarship examinations, or any
+day, not to exceed three days, when such school was not in session
+because of a conference of teachers called by the principal of the
+school.
+```

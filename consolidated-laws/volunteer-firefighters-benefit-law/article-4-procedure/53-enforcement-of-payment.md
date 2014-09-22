@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Volunteer Firefighters' Benefit Law § 53", "kind": "section", "law_id": "VOL", "location_id": "53", "path": "ARTICLE 4 › SECTION 53", "repealed": false, "repealed_date": null, "source": "nys-laws:VOL/53.md", "title": "Enforcement of payment"} -->
+# Volunteer Firefighters' Benefit Law § 53 — Enforcement of payment
+
+[Volunteer Firefighters' Benefit Law](../README.md) › [Article 4 — Procedure](README.md)
+
+```text
+  § 53. Enforcement of payment. 1. The provisions of section twenty-six
+of the workmen's compensation law, other than the portions relating to
+section fourteen-a, subdivision eight of section fifteen and section
+fifty of the workmen's compensation law, shall be applicable as fully as
+if set forth in this chapter.
+  2. The provisions of section fifty-four-b of the workmen's
+compensation law shall be applicable as fully as if set forth in this
+chapter.
+```

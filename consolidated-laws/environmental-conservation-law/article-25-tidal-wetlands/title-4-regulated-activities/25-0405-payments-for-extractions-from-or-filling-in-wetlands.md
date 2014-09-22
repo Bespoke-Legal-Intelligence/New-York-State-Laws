@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 25-0405", "kind": "section", "law_id": "ENV", "location_id": "25-0405", "path": "ARTICLE 25 › TITLE 4 › SECTION 25-0405", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/25-0405.md", "title": "Payments for extractions from or filling in wetlands"} -->
+# Environmental Conservation Law § 25-0405 — Payments for extractions from or filling in wetlands
+
+[Environmental Conservation Law](../../README.md) › [Article 25 — Tidal Wetlands](../README.md) › [Title 4 — Regulated Activities](README.md)
+
+```text
+§ 25-0405. Payments for extractions from or filling in wetlands.
+  1. Any applicant for a permit to dredge, excavate, or remove soil,
+mud, sand, shells, gravel or other aggregate from any publicly-owned
+tidal wetland shall be required to pay to the public owner thereof such
+amount, which shall not be nominal, as the office of general services or
+its local equivalent body shall determine to be the value of the
+aggregate extracted. Any person aggrieved by such determination may seek
+judicial review pursuant to article seventy-eight of the civil practice
+law and rules in the supreme court for the county in which the tidal
+wetland is located.
+  2. Any applicant for a permit to dump, fill, or deposit any soil,
+stones, sand, gravel, mud, rubbish, or fill of any kind onto or in any
+publicly-owned tidal wetlands shall be required to pay to the owner such
+amount, which shall not be nominal, as the office of general services or
+its local equivalent shall determine. Any person aggrieved by such
+determination may seek judicial review pursuant to article seventy-eight
+of the civil practice law and rules in the supreme court for the county
+in which the tidal wetland is located.
+  3. Monies paid to the state under this section shall be used by the
+commissioner for preservation of the tidal wetlands.
+```

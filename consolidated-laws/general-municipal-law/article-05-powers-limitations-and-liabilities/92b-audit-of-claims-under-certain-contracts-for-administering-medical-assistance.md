@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 92-B", "kind": "section", "law_id": "GMU", "location_id": "92-B", "path": "ARTICLE 5 › SECTION 92-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/92-B.md", "title": "Audit of claims under certain contracts for administering medical assistance"} -->
+# General Municipal Law § 92-B — Audit of claims under certain contracts for administering medical assistance
+
+[General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
+
+```text
+  § 92-b. Audit of claims under certain contracts for administering
+medical assistance. Notwithstanding the provisions of section three
+hundred sixty-nine of the county law or any other law, general, special
+or local, relating to the audit and payment of claims for the payment of
+money by a municipal corporation, a contract made pursuant to paragraph
+d of subdivision one of section three hundred sixty-five of the social
+services law, between a municipal corporation constituting a public
+welfare district and a non-profit membership corporation organized under
+article forty-three of the insurance law or with any insurance company
+authorized to do business in this state, for the administration of all
+or any part of the medical assistance required to be furnished pursuant
+to title eleven of article five of the social services law, may, in
+addition to its other provisions, authorize such membership corporation
+or insurance company to audit and make payment with respect to claims
+for such medical assistance.
+```

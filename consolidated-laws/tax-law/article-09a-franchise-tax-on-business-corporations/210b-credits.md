@@ -1,0 +1,2298 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 210-B", "kind": "section", "law_id": "TAX", "location_id": "210-B", "path": "ARTICLE 9-A › SECTION 210-B", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/210-B.md", "title": "Credits"} -->
+# Tax Law § 210-B — Credits
+
+[Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
+
+```text
+  * § 210-B. Credits. 1. Investment tax credit (ITC).  (a) A taxpayer
+shall be allowed a credit, to be computed as hereinafter provided,
+against the tax imposed by this article. The amount of the credit shall
+be the percent provided for hereinbelow of the investment credit base.
+The investment credit base is the cost or other basis for federal income
+tax purposes of tangible personal property and other tangible property,
+including buildings and structural components of buildings, described in
+paragraph (b) of this subdivision, less the amount of the nonqualified
+nonrecourse financing with respect to such property to the extent such
+financing would be excludible from the credit base pursuant to section
+46(c)(8) of the internal revenue code (treating such property as section
+thirty-eight property irrespective of whether or not it in fact
+constitutes section thirty-eight property). If, at the close of a
+taxable year following the taxable year in which such property was
+placed in service, there is a net decrease in the amount of nonqualified
+nonrecourse financing with respect to such property, such net decrease
+shall be treated as if it were the cost or other basis of property
+described in paragraph (b) of this subdivision acquired, constructed,
+reconstructed or erected during the year of the decrease in the amount
+of nonqualified nonrecourse financing. In the case of a combined report
+the term investment credit base shall mean the sum of the investment
+credit base of each corporation included on such report. The percentage
+to be used to compute the credit allowed pursuant to this subdivision
+shall be five percent with respect to the first three hundred fifty
+million dollars of the investment credit base, and four percent with
+respect to the investment credit base in excess of three hundred fifty
+million dollars, except that in the case of research and development
+property at the option of the taxpayer the applicable percentage shall
+be nine.
+  (b) (i) A credit shall be allowed under this subdivision with respect
+to tangible personal property and other tangible property, including
+buildings and structural components of buildings, which are: depreciable
+pursuant to section one hundred sixty-seven of the internal revenue
+code, have a useful life of four years or more, are acquired by purchase
+as defined in section one hundred seventy-nine (d) of the internal
+revenue code, have a situs in this state and are (A) principally used by
+the taxpayer in the production of goods by manufacturing, processing,
+assembling, refining, mining, extracting, farming, agriculture,
+horticulture, floriculture, viticulture or commercial fishing, (B)
+industrial waste treatment facilities or air pollution control
+facilities, used in the taxpayer's trade or business, (C) research and
+development property, or (D) principally used in the ordinary course of
+the taxpayer's trade or business as a broker or dealer in connection
+with the purchase or sale (which shall include but not be limited to the
+issuance, entering into, assumption, offset, assignment, termination, or
+transfer) of stocks, bonds or other securities as defined in section
+four hundred seventy-five (c)(2) of the Internal Revenue Code, or of
+commodities as defined in section four hundred seventy-five (e) of the
+Internal Revenue Code, (E) principally used in the ordinary course of
+the taxpayer's trade or business of providing investment advisory
+services for a regulated investment company as defined in section eight
+hundred fifty-one of the Internal Revenue Code, or lending, loan
+arrangement or loan origination services to customers in connection with
+the purchase or sale (which shall include but not be limited to the
+issuance, entering into, assumption, offset, assignment, termination, or
+transfer) of securities as defined in section four hundred seventy-five
+(c)(2) of the Internal Revenue Code, (F) originally used in the ordinary
+course of the taxpayer's business as an exchange registered as a
+national securities exchange within the meaning of sections 3(a)(1) and
+6(a) of the Securities Exchange Act of 1934 or a board of trade as
+defined in section 1410(a)(1) of the New York Not-for-Profit Corporation
+Law or as an entity that is wholly owned by one or more such national
+securities exchanges or boards of trade and that provides automation or
+technical services thereto, or (G) principally used as a qualified film
+production facility including qualified film production facilities
+having a situs in an empire zone designated as such pursuant to article
+eighteen-B of the general municipal law, where the taxpayer is providing
+three or more services to any qualified film production company using
+the facility, including such services as a studio lighting grid,
+lighting and grip equipment, multi-line phone service, broadband
+information technology access, industrial scale electrical capacity,
+food services, security services, and heating, ventilation and air
+conditioning. Provided, however, a taxpayer shall not be allowed the
+credit provided by clauses (D), (E) and (F) of this subparagraph unless
+(i) eighty percent or more of the employees performing the
+administrative and support functions resulting from or related to the
+qualifying uses of such equipment are located in this state or (ii) the
+average number of employees that perform the administrative and support
+functions resulting from or related to the qualifying uses of such
+equipment and are located in this state during the taxable year for
+which the credit is claimed is equal to or greater than ninety-five
+percent of the average number of employees that perform these functions
+and are located in this state during the thirty-six months immediately
+preceding the year for which the credit is claimed, or (iii) the number
+of employees located in this state during the taxable year for which the
+credit is claimed is equal to or greater than ninety percent of the
+number of employees located in this state on December thirty-first,
+nineteen hundred ninety-eight or, if the taxpayer was not a calendar
+year taxpayer in nineteen hundred ninety-eight, the last day of its
+first taxable year ending after December thirty-first, nineteen hundred
+ninety-eight. If the taxpayer becomes subject to tax in this state after
+the taxable year beginning in nineteen hundred ninety-eight, then the
+taxpayer is not required to satisfy the employment test provided in the
+preceding sentence of this subparagraph for its first taxable year. For
+purposes of clause (iii) of this subparagraph the employment test will
+be based on the number of employees located in this state on the last
+day of the first taxable year the taxpayer is subject to tax in this
+state.  If the uses of the property must be aggregated to determine
+whether the property is principally used in qualifying uses, then either
+each affiliate using the property must satisfy this employment test or
+this employment test must be satisfied through the aggregation of the
+employees of the taxpayer, its affiliated regulated broker, dealer, and
+registered investment adviser using the property.  For purposes of this
+subdivision, the term "goods" shall not include electricity.
+  (ii) For purposes of this paragraph, the following definitions shall
+apply--
+  (A) Manufacturing shall mean the process of working raw materials into
+wares suitable for use or which gives new shapes, new quality or new
+combinations to matter which already has gone through some artificial
+process by the use of machinery, tools, appliances and other similar
+equipment. Property used in the production of goods shall include
+machinery, equipment or other tangible property which is principally
+used in the repair and service of other machinery, equipment or other
+tangible property used principally in the production of goods and shall
+include all facilities used in the production operation, including
+storage of material to be used in production and of the products that
+are produced.
+  (B) Research and development property shall mean property which is
+used for purposes of research and development in the experimental or
+laboratory sense. Such purposes shall not be deemed to include the
+ordinary testing or inspection of materials or products for quality
+control, efficiency surveys, management studies, consumer surveys,
+advertising, promotions, or research in connection with literary,
+historical or similar projects.
+  (C) Industrial waste treatment facilities shall mean property
+constituting facilities for the treatment, neutralization or
+stabilization of industrial waste and other wastes (as the terms
+"industrial waste" and "other wastes" are defined in section 17-0105 of
+the environmental conservation law) from a point immediately preceding
+the point of such treatment, neutralization or stabilization to the
+point of disposal, including the necessary pumping and transmitting
+facilities, but excluding such facilities installed for the primary
+purpose of salvaging materials which are usable in the manufacturing
+process or are marketable.
+  (D) Air pollution control facilities shall mean property constituting
+facilities which remove, reduce, or render less noxious air contaminants
+emitted from an air contamination source (as the terms "air contaminant"
+and "air contamination source" are defined in section 19-0107 of the
+environmental conservation law) from a point immediately preceding the
+point of such removal, reduction or rendering to the point of discharge
+of air, meeting emission standards as established by the department of
+environmental conservation, but excluding such facilities installed for
+the primary purpose of salvaging materials which are usable in the
+manufacturing process or are marketable and excluding those facilities
+which rely for their efficacy on dilution, dispersion or assimilation of
+air contaminants in the ambient air after emission. Such term shall
+further include flue gas desulfurization equipment and attendant sludge
+disposal facilities, fluidized bed boilers, precombustion coal cleaning
+facilities or other facilities that conform with this subdivision and
+which comply with the provisions of the state acid deposition control
+act set forth in title nine of article nineteen of the environmental
+conservation law.
+  (E) The terms "qualified film production facility" and "qualified film
+production company" shall have the same meaning as in section
+twenty-four of this chapter.
+  (iii) However, such credit shall be allowed with respect to industrial
+waste treatment facilities and air pollution control facilities only on
+condition that such facilities have been certified by the state
+commissioner of environmental conservation or his designated
+representative, pursuant to subdivision one of section 17-0707 or
+subdivision one of section 19-0309 of the environmental conservation
+law, as complying with applicable provisions of the environmental
+conservation law, the public health law, the state sanitary code and
+codes, rules, regulations, permits or orders issued pursuant thereto.
+  (c) A taxpayer shall not be allowed a credit under this subdivision
+with respect to tangible personal property and other tangible property,
+including buildings and structural components of buildings, which it
+leases to any other person or corporation except where a taxpayer leases
+property to an affiliated regulated broker, dealer, registered
+investment adviser, national securities exchange or board of trade (or
+other entity described in clause (F) of subparagraph (i) of paragraph
+(b) of this subdivision) that uses such property in accordance with
+clause (D), (E) or (F) of subparagraph (i) of paragraph (b) of this
+subdivision.  For purposes of the preceding sentence, any contract or
+agreement to lease or rent or for a license to use such property shall
+be considered a lease. Provided, however, in determining whether a
+taxpayer shall be allowed a credit under this subdivision with respect
+to such property, any election made with respect to such property
+pursuant to the provisions of paragraph eight of subsection (f) of
+section one hundred sixty-eight of the internal revenue code, as such
+paragraph was in effect for agreements entered into prior to January
+first, nineteen hundred eighty-four, shall be disregarded. For purposes
+of this paragraph, the use of a qualified film production facility by a
+qualified film production company shall not be considered a lease of
+such facility to such company.
+  (d) Except as otherwise provided in this paragraph, the credit allowed
+under this subdivision for any taxable year shall not reduce the tax due
+for such year to less than the higher of the amounts prescribed in
+paragraphs (c) and (d) of subdivision one of this section. However, if
+the amount of credit allowable under this subdivision for any taxable
+year reduces the tax to such amount, any amount of credit allowed for a
+taxable year commencing prior to January first, nineteen hundred
+eighty-seven and not deductible in such taxable year may be carried over
+to the following year or years and may be deducted from the taxpayer's
+tax for such year or years but in no event shall such credit be carried
+over to taxable years commencing on or after January first, two thousand
+two, and any amount of credit allowed for a taxable year commencing on
+or after January first, nineteen hundred eighty-seven and not deductible
+in such year may be carried over to the fifteen taxable years next
+following such taxable year and may be deducted from the taxpayer's tax
+for such year or years. In lieu of such carryover, any such taxpayer
+which qualifies as a new business under paragraph (j) of this
+subdivision may elect to treat the amount of such carryover as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section ten hundred eighty-six of this chapter, provided,
+however, the provisions of subsection (c) of section ten hundred
+eighty-eight of this chapter notwithstanding, no interest shall be paid
+thereon.
+  (e) (1) With respect to property which is depreciable pursuant to
+section one hundred sixty-seven of the internal revenue code but is not
+subject to the provisions of section one hundred sixty-eight of such
+code and which is disposed of or ceases to be in qualified use prior to
+the end of the taxable year in which the credit is to be taken, the
+amount of the credit shall be that portion of the credit provided for in
+this subdivision which represents the ratio which the months of
+qualified use bear to the months of useful life. If property on which
+credit has been taken is disposed of or ceases to be in qualified use
+prior to the end of its useful life, the difference between the credit
+taken and the credit allowed for actual use must be added back in the
+year of disposition. Provided, however, if such property is disposed of
+or ceases to be in qualified use after it has been in qualified use for
+more than twelve consecutive years, it shall not be necessary to add
+back the credit as provided in this subparagraph. The amount of credit
+allowed for actual use shall be determined by multiplying the original
+credit by the ratio which the months of qualified use bear to the months
+of useful life. For purposes of this subparagraph, useful life of
+property shall be the same as the taxpayer uses for depreciation
+purposes when computing his federal income tax liability.
+  (2) Except with respect to that property to which subparagraph four of
+this paragraph applies, with respect to three-year property, as defined
+in subsection (e) of section one hundred sixty-eight of the internal
+revenue code, which is disposed of or ceases to be in qualified use
+prior to the end of the taxable year in which the credit is to be taken,
+the amount of the credit shall be that portion of the credit provided
+for in this subdivision which represents the ratio which the months of
+qualified use bear to thirty-six. If property on which credit has been
+taken is disposed of or ceases to be in qualified use prior to the end
+of thirty-six months, the difference between the credit taken and the
+credit allowed for actual use must be added back in the year of
+disposition. The amount of credit allowed for actual use shall be
+determined by multiplying the original credit by the ratio which the
+months of qualified use bear to thirty-six.
+  (3) Except with respect to that property to which subparagraph four of
+this paragraph applies, with respect to property subject to the
+provisions of section one hundred sixty-eight of the internal revenue
+code, other than three-year property as defined in subsection (e) of
+such section one hundred sixty-eight which is disposed of or ceases to
+be in qualified use prior to the end of the taxable year in which the
+credit is to be taken, the amount of the credit shall be that portion of
+the credit provided for in this subdivision which represents the ratio
+which the months of qualified use bear to sixty. If property on which
+credit has been taken is disposed of or ceases to be in qualified use
+prior to the end of sixty months, the difference between the credit
+taken and the credit allowed for actual use must be added back in the
+year of disposition. The amount of credit allowed for actual use shall
+be determined by multiplying the original credit by the ratio which the
+months of qualified use bear to sixty.
+  (4) With respect to any property to which section one hundred
+sixty-eight of the internal revenue code applies, which is a building or
+a structural component of a building and which is disposed of or ceases
+to be in qualified use prior to the end of the taxable year in which the
+credit is to be taken, the amount of the credit shall be that portion of
+the credit provided for in this subdivision which represents the ratio
+which the months of qualified use bear to the total number of months
+over which the taxpayer chooses to deduct the property under the
+internal revenue code. If property on which credit has been taken is
+disposed of or ceases to be in qualified use prior to the end of the
+period over which the taxpayer chooses to deduct the property under the
+internal revenue code, the difference between the credit taken and the
+credit allowed for actual use must be added back in the year of
+disposition. Provided, however, if such property is disposed of or
+ceases to be in qualified use after it has been in qualified use for
+more than twelve consecutive years, it shall not be necessary to add
+back the credit as provided in this subparagraph. The amount of credit
+allowed for actual use shall be determined by multiplying the original
+credit by the ratio which the months of qualified use bear to the total
+number of months over which the taxpayer chooses to deduct the property
+under the internal revenue code.
+  (5) For purposes of this paragraph, property (i) which is described in
+subparagraph two, three or four of this paragraph, and (ii) which is
+subject to subparagraph eleven of paragraph (a) of subdivision nine and
+subparagraph ten of paragraph (b) of subdivision nine of section two
+hundred eight of this chapter, shall be treated as property which is
+depreciable pursuant to section one hundred sixty-seven of the internal
+revenue code but is not subject to section one hundred sixty-eight of
+such code.
+  (6) For purposes of this paragraph, where a credit is allowed with
+respect to an air pollution control facility on the basis of a
+certificate of compliance issued pursuant to the environmental
+conservation law and the certificate is revoked pursuant to subdivision
+three of section 19-0309 of the environmental conservation law, such
+revocation shall constitute a disposal or cessation of qualified use,
+unless such facility is described in clause (A) or (C) of subparagraph
+(ii) of paragraph (b) of this subdivision. Also for purposes of this
+subparagraph, the use of an air pollution control facility or an
+industrial waste treatment facility for the primary purpose of salvaging
+materials which are usable in the manufacturing process or are
+marketable shall constitute a cessation of qualified use, unless such
+facility is described in clause (A) or (C) of subparagraph (ii) of
+paragraph (b) of this subdivision.
+  (7) For taxable years commencing on or after January first, nineteen
+hundred eighty-seven, the amount required to be added back pursuant to
+this paragraph shall be augmented by an amount equal to the product of
+such amount and the underpayment rate of interest (without regard to
+compounding), set by the commissioner of taxation and finance pursuant
+to subsection (e) of section one thousand ninety-six, in effect on the
+last day of the taxable year.
+  (8) If, as of the close of the taxable year, there is a net increase
+with respect to the taxpayer in the amount of nonqualified nonrecourse
+financing (within the meaning of section 46(c) (8) of the internal
+revenue code) with respect to any property with respect to which the
+credit under this subdivision was limited based on attributable
+nonqualified nonrecourse financing, then an amount equal to the decrease
+in such credit which would have resulted from reducing, by the amount of
+such net increase, the cost or other basis taken into account with
+respect to such property must be added back in such taxable year. The
+amount of nonqualified nonrecourse financing shall not be treated as
+increased by reason of a transfer of (or agreement to transfer) any
+evidence of an indebtedness if such transfer occurs (or such agreement
+is entered into) more than one year after the date such indebtedness was
+incurred.
+  (9) (A) Where property with respect to which credit has been allowed
+under this subdivision is disposed of by transfer to the taxpayer in a
+qualified transaction, and such disposition requires, pursuant to this
+paragraph (without regard to this subparagraph) that such credit be
+decreased (where the disposition occurs in the taxable year in which the
+property is placed in service by the transferor) or that a portion of
+such credit be added back by the transferor, then clause (B) or clause
+(C) of this subparagraph shall apply.
+  (B) If the taxpayer and the transferor jointly elect, at such time and
+in such manner as the commissioner may prescribe, the following shall
+apply:
+  (i) such portion shall not be required to be added back by the
+transferor,
+  (ii) the amount of unused credit shall not be deducted from tax
+otherwise due by the transferor on any return (including an amended
+return), and shall not be so deducted as part of any audit adjustment or
+any other determination, and
+  (iii) the amount of unused credit shall be treated as an amount of
+credit of the taxpayer under this subdivision carried forward by the
+taxpayer to its taxable year in which such transfer occurred, as if the
+credit allowed to the transferor with respect to such property had
+originally been allowed to the taxpayer both as to amount and first date
+of qualified use, and as if the period of qualified use by the
+transferor prior to the transfer had been a period of such use by the
+taxpayer. Any amount of credit treated as carried forward to the taxable
+year pursuant to this subparagraph shall be applied as provided in
+clause (H) of this subparagraph.
+  (C) If the taxpayer and the transferor do not make the election
+described in clause (B) of this subparagraph, then the amount of credit
+required pursuant to this paragraph to be added back by the transferor
+shall be treated as an amount of credit of the taxpayer under this
+subdivision to be carried forward by the taxpayer to its taxable year in
+which such transfer occurred, as if the credit allowed to the transferor
+with respect to such property had originally been allowed to the
+taxpayer both as to amount and first date of qualified use, and as if
+the period of qualified use by the transferor prior to the transfer had
+been a period of such use by the taxpayer. Any amount of credit treated
+as carried forward to the taxable year pursuant to this subparagraph
+shall be applied as provided in clause (H) of this subparagraph.
+  (D) The term "qualified transaction" shall mean a transaction which is
+a reorganization described in section 368(a)(1)(D) of the internal
+revenue code, wherein (i) substantially all of the assets of the
+transferor necessary to continue the operation of a division or
+divisions of the transferor are transferred to the taxpayer in a
+transaction to which section 351 of such code applies, and (ii) stock or
+securities of the taxpayer held by the transferor are distributed
+pursuant to section 355 of such code.
+  (E) The term "unused credit" shall mean the amount of credit shown as
+carried forward to the transaction year on the transferor's tax return
+for its taxable year immediately preceding the transaction year with
+respect to the property described in clause (A) of this subparagraph.
+  (F) The term "transaction year" means the taxable year in which the
+qualified transaction occurs.
+  (G) Notwithstanding any other provision of law to the contrary, in the
+case of allowance of credit pursuant to this subparagraph to a taxpayer
+the commissioner shall have the authority to reveal to the taxpayer any
+information, with respect to the credit of the transferor, which is the
+basis for the denial in whole or in part of the credit claimed by such
+taxpayer.
+  (H) Where a credit is allowed to a taxpayer pursuant to this
+subparagraph, the taxpayer may treat the amount of such credit as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section ten hundred eighty-six of this chapter, provided,
+however, the provisions of subsection (c) of section ten hundred
+eighty-eight of this chapter notwithstanding, no interest shall be paid
+thereon. Such credit shall be allowed against the tax imposed by this
+article with respect to the second succeeding taxable year next
+following the transaction year, provided that not more than one-fourth
+of the amount of such credit may be applied by the taxpayer, whether to
+reduce tax otherwise due or to be treated as an overpayment to be
+credited or refunded, with respect to such second succeeding taxable
+year and each of the next three taxable years following such second
+succeeding taxable year.
+  (f) For purposes of paragraph (d) of this subdivision, a new business
+shall include any corporation, except a corporation which:
+  (1) over fifty percent of the number of shares of stock entitling the
+holders thereof to vote for the election of directors or trustees is
+owned or controlled, either directly or indirectly, by a taxpayer
+subject to tax under this article; section one hundred eighty-three, one
+hundred eighty-four or one hundred eighty-five of article nine; or
+article thirty-three of this chapter; or
+  (2) is substantially similar in operation and in ownership to a
+business entity (or entities) taxable, or previously taxable, under this
+article; section one hundred eighty-three, one hundred eighty-four,
+former section one hundred eighty-five or former section one hundred
+eighty-six of article nine; article thirty-two of this chapter as such
+article was in effect on December thirty-first, two thousand fourteen;
+article thirty-three of this chapter; article twenty-three of this
+chapter or which would have been subject to tax under such article
+twenty-three (as such article was in effect on January first, nineteen
+hundred eighty) or the income (or losses) of which is (or was)
+includable under article twenty-two of this chapter whereby the intent
+and purpose of this paragraph and paragraph (d) of this subdivision with
+respect to refunding of credit to new business would be evaded; or
+  (3) has been subject to tax under this article or former article
+thirty-two of this chapter for more than five taxable years (excluding
+short taxable years).
+  2. Employment Incentive Credit (EIC). (a)(i) Application of credit.
+Where a taxpayer is allowed a credit under subdivision one of this
+section, other than at the optional rate applicable to research and
+development property, the taxpayer shall be allowed a credit for each of
+the two years next succeeding the taxable year for which the credit
+under such subdivision one is allowed with respect to such property,
+whether or not deductible in such taxable year or in subsequent taxable
+years pursuant to paragraph (d) of such subdivision one. Provided,
+however, that the credit allowable under this subdivision for any
+taxable year shall be allowed only if the average number of employees
+during such taxable year is at least one hundred one percent of the
+average number of employees during the employment base year. The
+employment base year shall be the taxable year immediately preceding the
+taxable year for which the credit under such subdivision one is allowed
+except that if the taxpayer was not subject to tax and did not have a
+taxable year immediately preceding the taxable year for which the credit
+under such subdivision one of this section is allowed, the employment
+base year shall be the taxable year in which the credit under such
+subdivision one is allowed.
+  (ii) Amount of credit. The amount of the credit allowed under this
+subdivision shall be as set forth in the following table:
+Average number of employees during the      Credit allowed under this
+taxable year expressed as a percentage      subdivision expressed as a
+of average employees in employment          percentage of the applicable
+base years                                  investment credit basis
+Less than 102%                              1.5%
+At least 102% and less than 103%            2%
+At least 103%                               2.5%
+  (b) Average number of employees. The average number of employees in a
+taxable year shall be computed by ascertaining the number of employees
+within the state, except general executive officers, employed by the
+taxpayer on the thirty-first day of March, the thirtieth day of June,
+the thirtieth day of September and the thirty-first day of December in
+the taxable year, by adding together the number of employees ascertained
+on each of such dates and dividing the sum so obtained by the number of
+such above mentioned dates occurring within the taxable year. However,
+with respect to the employment base year, there shall be excluded
+therefrom any employee with respect to whom a credit provided for under
+subdivision six of this section is claimed, for the taxable year, based
+on employment within a zone equivalent area designated as such pursuant
+to article eighteen-B of the general municipal law.
+  (c) Carryover. In no event shall the credit herein provided for be
+allowed in an amount which will reduce the tax payable to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. However, if the amount
+of credit allowable under this subdivision for any taxable year reduces
+the tax to such amount or if the taxpayer otherwise pays tax based on
+the fixed dollar minimum amount, any amount of credit not deductible in
+such taxable year may be carried over to the fifteen taxable years
+immediately following such taxable year and may be deducted from the
+taxpayer's tax for such year or years.
+  3. Empire zone investment tax credit (EZ-ITC). (a) A taxpayer shall be
+allowed a credit, to be computed as herein provided, against the tax
+imposed by this article if the taxpayer has been certified pursuant to
+article eighteen-B of the general municipal law. The amount of the
+credit shall be ten percent of the cost or other basis for federal
+income tax purposes of tangible personal property and other tangible
+property, including buildings and structural components of buildings,
+described in paragraph (b) of this subdivision, which is located within
+an empire zone designated as such pursuant to article eighteen-B of such
+law, but only if the acquisition, construction, reconstruction or
+erection of such property occurred or was commenced on or after the date
+of such designation and prior to the expiration thereof. Provided,
+however, that in the case of an acquisition, construction,
+reconstruction or erection which was commenced during such period and
+continued or completed subsequently, such credit shall be ten percent of
+the portion of the cost or other basis for federal income tax purposes
+attributable to such period, which portion shall be ascertained by
+multiplying such cost or basis by a fraction the numerator of which
+shall be the expenditures paid or incurred during such period for such
+purposes and the denominator of which shall be the total of all
+expenditures paid or incurred for such acquisition, construction,
+reconstruction or erection.
+  (b) Qualified property. A credit shall be allowed under this
+subdivision with respect to tangible personal property and other
+tangible property, including buildings and structural components of
+buildings, which
+  (i) are depreciable pursuant to section one hundred sixty-seven of the
+internal revenue code,
+  (ii) have a useful life of four years or more,
+  (iii) are acquired by purchase as defined in section one hundred
+seventy-nine (d) of the internal revenue code,
+  (iv) have a situs in an empire zone designated as such pursuant to
+article eighteen-B of the general municipal law, and
+  (v) are (A) principally used by the taxpayer in the production of
+goods by manufacturing, processing, assembling, refining, mining,
+extracting, farming, agriculture, horticulture, floriculture,
+viticulture or commercial fishing,
+  (B) industrial waste treatment facilities or air pollution control
+facilities used in the taxpayer's trade or business,
+  (C) research and development property,
+  (D) principally used in the ordinary course of the taxpayer's trade or
+business as a broker or dealer in connection with the purchase or sale
+(which shall include but not be limited to the issuance, entering into,
+assumption, offset, assignment, termination, or transfer) of stocks,
+bonds or other securities as defined in section four hundred
+seventy-five (c)(2) of the Internal Revenue Code, or of commodities as
+defined in section four hundred seventy-five (e) of the Internal Revenue
+Code,
+  (E) principally used in the ordinary course of the taxpayer's trade or
+business of providing investment advisory services for a regulated
+investment company as defined in section eight hundred fifty-one of the
+Internal Revenue Code, or lending, loan arrangement, or loan origination
+services to customers in connection with the purchase or sale (which
+shall include but not be limited to the issuance, entering into,
+assumption, offset, assignment, termination or transfer) of securities
+as defined in section four hundred seventy-five (c)(2) of the Internal
+Revenue Code,
+  (E-1) principally used in the ordinary course of the taxpayer's trade
+or business of providing investment advisory services or the service of
+managing investment portfolios to achieve specific investment objectives
+for accounts over one million dollars of accredited investors (as that
+term is defined in rule 501 of regulation D of the Securities Act of
+1933), if the taxpayer satisfies the following criteria:
+  (I) the taxpayer is a regulated broker or dealer or an affiliate of a
+regulated broker or dealer,
+  (II) the taxpayer is registered as an investment adviser under section
+two hundred three of the Investment Advisers Act of 1940, as amended,
+and
+  (III) at least one client of the taxpayer is a regulated investment
+company as defined in section eight hundred fifty-one of the internal
+revenue code that has assets of one hundred million dollars, or
+  (F) principally used in the ordinary course of the taxpayer's business
+as an exchange registered as a national securities exchange within the
+meaning of sections 3(a)(1) and 6(a) of the Securities Exchange Act of
+1934 or a board of trade as defined in subdivision one of paragraph (a)
+of section fourteen hundred ten of the not-for-profit corporation law or
+as an entity that is wholly owned by one or more such national
+securities exchanges or boards or trade and that provides automation or
+technical services thereto.
+  (vi) For purposes of clauses (D), (E), (E-1) and (F) of subparagraph
+(v) of this paragraph, property purchased by a taxpayer affiliated with
+a regulated broker, dealer, registered investment adviser, national
+securities exchange or board of trade is allowed a credit under this
+subdivision if the property is used by its affiliated regulated broker,
+dealer, registered investment adviser or national securities exchange or
+board of trade in accordance with this subdivision. For purposes of
+determining if the property is principally used in qualifying uses, the
+uses by the taxpayer described in clauses (D), (E) and (E-1) of
+subparagraph (v) of this paragraph may be aggregated. In addition, the
+uses by the taxpayer, its affiliated regulated broker, dealer and
+registered investment adviser under any of those clauses may be
+aggregated. Provided, however, a taxpayer shall not be allowed the
+credit provided by clauses (D), (E), (E-1) and (F) of subparagraph (v)
+of this paragraph unless
+  (I) eighty percent or more of the employees performing the
+administrative and support functions resulting from or related to the
+qualifying uses of such equipment are located in this state, or
+  (II) the average number of employees that perform the administrative
+and support functions resulting from or related to the qualifying uses
+of such equipment and are located in this state during the taxable year
+for which the credit is claimed is equal to or greater than ninety-five
+percent of the average number of employees that perform these functions
+and are located in this state during the thirty-six months immediately
+preceding the year for which the credit is claimed, or
+  (III) the number of employees located in this state during the taxable
+year for which the credit is claimed is equal to or greater than ninety
+percent of the number of employees located in this state on December
+thirty-first, nineteen hundred ninety-eight or, if the taxpayer was not
+a calendar year taxpayer in nineteen hundred ninety-eight, the last day
+of its first taxable year ending after December thirty-first, nineteen
+hundred ninety-eight. If the taxpayer becomes subject to tax in this
+state after the taxable year beginning in nineteen hundred ninety-eight,
+then the taxpayer is not required to satisfy the employment test
+provided in the preceding sentence of this subparagraph for its first
+taxable year.
+  (vii) For the purposes of clause (III) of subparagraph (vi) of this
+paragraph the employment test will be based on the number of employees
+located in this state on the last day of the first taxable year the
+taxpayer is subject to tax in this state. If the uses of the property
+must be aggregated to determine whether the property is principally used
+in qualifying uses, then either each affiliate using the property must
+satisfy this employment test or this employment test must be satisfied
+through the aggregation of the employees of the taxpayer, its affiliated
+regulated broker, dealer, and registered investment adviser using the
+property.
+  (viii) For the purpose of this subdivision, the term "goods" shall not
+include electricity.
+  (ix) For purposes of this subdivision, "manufacturing" shall mean the
+process of working raw materials into wares suitable for use or which
+gives new shapes, new quality or new combinations to matter which
+already has gone through some artificial process by the use of
+machinery, tools, appliances and other similar equipment. Property used
+in the production of goods shall include machinery, equipment or other
+tangible property which is principally used in the repair and service of
+other machinery, equipment or other tangible property used principally
+in the production of goods and shall include all facilities used in the
+production operation, including storage of material to be used in
+production and of the products that are produced. For purposes of this
+subdivision, the terms "research and development property", "industrial
+waste treatment facilities", and "air pollution control facilities"
+shall have the meanings ascribed thereto by clauses (B), (C) and (D),
+respectively, of subparagraph (iv) of paragraph (b) of subdivision one
+of this section, and the provisions of subparagraph (v) of such
+paragraph (b) shall apply.
+  (c) Nonqualified property. A taxpayer shall not be allowed a credit
+under this subdivision with respect to any tangible personal property
+and other tangible property, including buildings and structural
+components of buildings, which it leases to any other person or
+corporation except where a taxpayer leases property to an affiliated
+regulated broker, dealer, registered investment adviser, national
+securities exchange or board of trade or other entity described in
+clause (F) of subparagraph (v) of paragraph (b) of this subdivision that
+uses such property in accordance with clause (D), (E), (E-1) or (F) of
+subparagraph (v) of paragraph (b) of this subdivision. For purposes of
+the preceding sentence, any contract or agreement to lease or rent or
+for a license to use such property shall be considered a lease.
+Provided, however, in determining whether a taxpayer shall be allowed a
+credit under this subdivision with respect to such property, any
+election made with respect to such property pursuant to the provisions
+of paragraph eight of subsection (f) of section one hundred sixty-eight
+of the internal revenue code, as such paragraph was in effect for
+agreements entered into prior to January first, nineteen hundred
+eighty-four, shall be disregarded.
+  (d) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. Provided, however, that
+if the amount of credit allowed under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, any amount of credit not
+deductible in such taxable year may be carried over to the following
+year or years and may be deducted from the taxpayer's tax for such year
+or years. In lieu of such carryover, any such taxpayer which qualifies
+as a new business under paragraph (f) of subdivision one of this section
+may elect, on its report for its taxable year with respect to which such
+credit is allowed, to treat fifty percent of the amount of such
+carryover as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. In addition, any taxpayer which is approved as the owner
+of a qualified investment project or a significant capital investment
+project pursuant to subdivision (w) of section nine hundred fifty-nine
+of the general municipal law, on its report for its taxable year with
+respect to which such credit is allowed, in lieu of such carryover, may
+elect to treat fifty percent of the amount of such carryover which is
+attributable to the credit allowed under this subdivision for property
+which is part of such project as an overpayment of tax to be credited or
+refunded in accordance with the provisions of section one thousand
+eighty-six of this chapter. Provided, however, such owner shall be
+allowed such refund for a maximum of ten taxable years with respect to
+such qualified investment project and each significant capital
+investment project, starting with the first taxable year in which
+property comprising such project is placed in service. Provided,
+further, however, the provisions of subsection (c) of section one
+thousand eighty-eight of this chapter notwithstanding, no interest shall
+be paid thereon.
+  (d-1) Any carryover of a credit from prior taxable years will not be
+allowed if an empire zone retention certificate is not issued pursuant
+to subdivision (w) of section nine hundred fifty-nine of the general
+municipal law to the empire zone enterprise which is the basis of the
+credit.
+  (e) At the option of the taxpayer, the taxpayer may choose to claim
+the credit described in paragraph (a) of this subdivision for property
+which also qualifies for the credit provided under subdivision one of
+this section. A taxpayer shall not be allowed a credit under this
+subdivision with respect to any property described in paragraph (a) of
+this subdivision if a credit is taken pursuant to subdivision one of
+this section.
+  (f) Recapture. (i) With respect to property which is depreciable
+pursuant to section one hundred sixty-seven of the internal revenue code
+but is not subject to the provisions of section one hundred sixty-eight
+of such code and which is disposed of or ceases to be in qualified use
+prior to the end of the taxable year in which the credit is to be taken,
+the amount of the credit shall be that portion of the credit provided
+for in this subdivision which represents the ratio which the months of
+qualified use bear to the months of useful life. If property on which
+credit has been taken is disposed of or ceases to be in qualified use
+prior to the end of its useful life, the difference between the credit
+taken and the credit allowed for actual use must be added back in the
+year of disposition. Provided, however, if such property is disposed of
+or ceases to be in qualified use after it has been in qualified use for
+more than twelve consecutive years, it shall not be necessary to add
+back the credit as provided in this subparagraph. The amount of credit
+allowed for actual use shall be determined by multiplying the original
+credit by the ratio which the months of qualified use bear to the months
+of useful life. For purposes of this subparagraph, useful life of
+property shall be the same as the taxpayer uses for depreciation
+purposes when computing his federal income tax liability.
+  (ii) Except with respect to that property to which subparagraph (iv)
+of this paragraph applies, with respect to three-year property, as
+defined in subsection (e) of section one hundred sixty-eight of the
+internal revenue code, which is disposed of or ceases to be in qualified
+use prior to the end of the taxable year in which the credit is to be
+taken, the amount of the credit shall be that portion of the credit
+provided for in this subdivision which represents the ratio which the
+months of qualified use bear to thirty-six. If property on which credit
+has been taken is disposed of or ceases to be in qualified use prior to
+the end of thirty-six months, the difference between the credit taken
+and the credit allowed for actual use must be added back in the year of
+disposition. The amount of credit allowed for actual use shall be
+determined by multiplying the original credit by the ratio which the
+months of qualified use bear to thirty-six.
+  (iii) Except with respect to that property to which subparagraph (iv)
+of this paragraph applies, with respect to property subject to the
+provisions of section one hundred sixty-eight of the internal revenue
+code other than three-year property as defined in subsection (e) of such
+section one hundred sixty-eight which is disposed of or ceases to be in
+qualified use prior to the end of the taxable year in which the credit
+is to be taken, the amount of the credit shall be that portion of the
+credit provided for in this subdivision which represents the ratio which
+the months of qualified use bear to sixty. If property on which credit
+has been taken is disposed of or ceases to be in qualified use prior to
+the end of sixty months, the difference between the credit taken and the
+credit allowed for actual use must be added back in the year of
+disposition. The amount of credit allowed for actual use shall be
+determined by multiplying the original credit by the ratio which the
+months of qualified use bear to sixty.
+  (iv) With respect to any property to which section one hundred
+sixty-eight of the internal revenue code applies, which is a building or
+a structural component of a building and which is disposed of or ceases
+to be in qualified use prior to the end of the taxable year in which the
+credit is to be taken, the amount of the credit shall be that portion of
+the credit provided for in this subdivision which represents the ratio
+which the months of qualified use bear to the total number of months
+over which the taxpayer chooses to deduct the property under the
+internal revenue code. If property on which credit has been taken is
+disposed of or ceases to be in qualified use prior to the end of the
+period over which the taxpayer chooses to deduct the property under the
+internal revenue code, the difference between the credit taken and the
+credit allowed for actual use must be added back in the year of
+disposition. Provided, however, if such property is disposed of or
+ceases to be in qualified use after it has been in qualified use for
+more than twelve consecutive years, it shall not be necessary to add
+back the credit as provided in this subparagraph. The amount of credit
+allowed for actual use shall be determined by multiplying the original
+credit by the ratio which the months of qualified use bear to the total
+number of months over which the taxpayer chooses to deduct the property
+under the internal revenue code.
+  (v) For purposes of this paragraph, disposal or cessation of qualified
+use shall not be deemed to have occurred solely by reason of the
+termination or expiration of an empire zone's designation as such.
+  (vi)(A) For purposes of this paragraph, the decertification of a
+business enterprise with respect to an empire zone shall constitute a
+disposal or cessation of qualified use of the property on which the
+credit was taken which is located in the zone to which the
+decertification applies, on the effective date of such decertification.
+  (B) Where a business enterprise has been decertified based on a
+finding pursuant to clause one, two, or five of subdivision (a) of
+section nine hundred fifty-nine of the general municipal law, the amount
+required to be added back by reason of this paragraph shall be (I) the
+amount of credit, with respect to the property which is disposed of or
+ceases to be in qualified use, which was deducted from the taxpayer's
+tax otherwise due under this article for all prior taxable years,
+reduced (but not below zero) by (II) the credit allowed for actual use.
+For purposes of this subparagraph, the attribution to specific property
+of credit amounts deducted from tax shall be established in accordance
+with the date of placement in service of such property in the empire
+zone.
+  (C) In no event shall the amount of the credit allowed pursuant to
+this subdivision be rendered, solely by reason of clause (A) of this
+subparagraph, less than the amount of the credit to which the taxpayer
+would otherwise be entitled under subdivision one of this section.
+  (D) Notwithstanding any other provision of this subdivision, in the
+case of a business enterprise which has been decertified, any amount of
+credit allowed with respect to the property of such business enterprise
+located in the zone to which the decertification applies which is
+carried over pursuant to paragraph (d) of this subdivision shall not be
+carried over beyond the seventh taxable year next following the taxable
+year with respect to which the credit provided for in this subdivision
+was allowed.
+  (vii) For purposes of this paragraph, where a credit is allowed with
+respect to an air pollution control facility on the basis of a
+certificate of compliance issued pursuant to the environmental
+conservation law and the certificate is revoked pursuant to subdivision
+three of section 19-0309 of the environmental conservation law, such
+revocation shall constitute a disposal or cessation of qualified use,
+except with respect to property contained in or comprising such facility
+which is described in clause (A), (B), or (C) of subparagraph (v) of
+paragraph (b) of this subdivision other than as part of or comprising an
+air pollution control facility. Also for purposes of this paragraph, the
+use of an air pollution control facility or an industrial waste
+treatment facility for the primary purpose of salvaging materials which
+are usable in the manufacturing process or are marketable shall
+constitute a cessation of qualified use, except with respect to property
+contained in or comprising such facility which is described in clause
+(A) or (C) of subparagraph (v) of paragraph (b) of this subdivision.
+  (viii) Except as provided in this subparagraph, this paragraph shall
+not apply to a credit allowed by this subdivision to a taxpayer that is
+a partner in a partnership in the case of manufacturing property;
+provided, at the time such property was placed in service by such
+partnership in an empire zone the basis for federal income tax purposes
+for such property (or a project that includes such property) equaled or
+exceeded three hundred million dollars and such partner owned its
+partnership interest for at least three years from the date such
+property was placed in service. If such property ceases to be in
+qualified use after it is placed in service, this paragraph shall apply
+to such partner in the year such property ceases to be in qualifying
+use.
+  (ix) If a taxpayer, which is approved by the commissioner of economic
+development as the owner of a qualified investment project or a
+significant capital investment project pursuant to subdivision (w) of
+section nine hundred fifty-nine of the general municipal law, fails to
+(A) create at least the minimum number of jobs at such project as
+required by the provisions of subdivision (s) or (t) of section nine
+hundred fifty-seven and subdivision (w) of section nine hundred
+fifty-nine of the general municipal law or (B) place in service property
+comprising such qualified investment project or significant capital
+investment project with a basis for federal income tax purposes equaling
+or exceeding the applicable minimum required basis as provided in such
+subdivision (s) or (t), whichever is relevant, by the last day of the
+fifth taxable year following the taxable year in which a credit is first
+allowed under this subdivision for the property which comprises such
+qualified investment project or such significant capital investment
+project, the total amount of the credit allowed under this subdivision
+for all taxable years with respect to the property which comprises such
+project which has been refunded to such taxpayer shall be added back in
+such taxable year.
+  (g) Notwithstanding the expiration of the empire zones program under
+article eighteen-B of the general municipal law, a taxpayer that is
+certified as a qualified investment project pursuant to such article
+eight-B on the day immediately preceding the day the empire zones
+program expired shall continue to be deemed certified under such article
+eighteen-B for purposes of this subdivision for the remainder of the
+taxable year in which the expiration occurred and for the next
+succeeding nine taxable years. In addition, the areas designated as
+empire zones in which the taxpayer is certified as a qualified
+investment project on the day immediately preceding the day the empire
+zones program expired shall continue to be deemed empire zones for
+purposes of this subdivision for the remainder of the taxable year in
+which the expiration occurred and for the next succeeding nine taxable
+years.
+  (h) Notwithstanding the expiration of the empire zones program under
+article eighteen-B of the general municipal law and except as provided
+in paragraph (g) of this subdivision, a taxpayer that is certified as an
+empire zone business pursuant to such article eighteen-B on the day
+immediately preceding the day the empire zone program expired shall
+continue to be deemed certified under such article eighteen-B for
+purposes of this subdivision until April first, two thousand fourteen.
+In addition, the areas designated as empire zones in which the taxpayer
+is certified as an empire zone business on the day immediately preceding
+the day the empire zones program expired shall continue to be deemed
+empire zones for purposes of this subdivisions until April first, two
+thousand fourteen.
+  4. Empire zone employment incentive credit (EZ-EIC). (a) Application
+of credit. Where a taxpayer is allowed a credit under subdivision three
+of this section, the taxpayer shall be allowed a credit for each of the
+three years next succeeding the taxable year for which the credit under
+such subdivision three is allowed, with respect to such property,
+whether or not deductible in such taxable year or in subsequent taxable
+years pursuant to paragraph (d) of such subdivision three, of thirty
+percent of the credit allowable under such subdivision three; provided,
+however, that the credit allowable under this subdivision for any
+taxable year shall only be allowed if the average number of employees
+employed by the taxpayer in the empire zone, designated pursuant to
+article eighteen-B of the general municipal law, in which such property
+is located during such taxable year is at least one hundred one percent
+of the average number of employees employed by the taxpayer in such
+empire zone, during the taxable year immediately preceding the taxable
+year for which the credit under such subdivision three is allowed and
+provided, further, that if the taxpayer was not subject to tax and did
+not have a taxable year immediately preceding the taxable year for which
+the credit under subdivision three of this section is allowed, the
+credit allowable under this subdivision for any taxable year shall be
+allowed if the average number of employees employed in such empire zone
+in such taxable year is at least one hundred one percent of the average
+number of such employees during the taxable year in which the credit
+under such subdivision three is allowed.
+  (b) Average number of employees. The average number of employees
+employed in an empire zone in a taxable year shall be computed by
+ascertaining the number of such employees within such zone except
+general executive officers, employed by the taxpayer on the thirty-first
+day of March, the thirtieth day of June, the thirtieth day of September
+and the thirty-first day of December in the taxable year, by adding
+together the number of employees ascertained on each of such dates and
+dividing the sum so obtained by the number of such above-mentioned dates
+occurring within the taxable year.
+  (c) Carryover. In no event shall the credit herein provided for be
+allowed in an amount which will reduce the tax payable to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. Provided, however, that
+if the amount of credit allowable under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, any amount of credit not
+deductible in such taxable year may be carried over to the following
+year or years and may be deducted from the taxpayer's tax for such year
+or years. In lieu of such carryover, any such taxpayer, which is
+approved as the owner of a qualified investment project or a significant
+capital investment project pursuant to subdivision (v) of section nine
+hundred fifty-nine of the general municipal law, may elect, on its
+report for its taxable year with respect to which such credit is
+allowed, to treat fifty percent of the amount of such carryover as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter. Provided,
+however, in the case of such owner of a qualified investment project or
+a significant capital investment project, only fifty percent of the
+amount of such carryover which is attributable to the credit allowed
+under this subdivision with respect to property which is part of such
+project shall be allowed to be credited or refunded and such owner shall
+be allowed such credit or refund only for those taxable years in which
+such owner would be allowed a credit or refund of the empire zone
+investment tax credit pursuant to paragraph (d) of subdivision three of
+this section. Provided, further, however, the provisions of subsection
+(c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  (c-1) Any carryover of a credit from prior taxable years will not be
+allowed if an empire zone retention certificate is not issued pursuant
+to subdivision (w) of section nine hundred fifty-nine of the general
+municipal law to the empire zone enterprise which is the basis of the
+credit.
+  (d) Notwithstanding the expiration of the empire zones program under
+article eighteen-B of the general municipal law, a taxpayer that is
+certified as a qualified investment project pursuant to such article
+eighteen-B on the day immediately preceding the day the empire zones
+program expired shall continue to be deemed certified under such article
+eighteen-B for purposes of this subdivision for the remainder of the
+taxable year in which the expiration occurred and for the next
+succeeding nine taxable years. In addition, the areas designated as
+empire zones in which the taxpayer is certified as a qualified
+investment project on the day immediately preceding the day the empire
+zones program expired shall continue to be deemed empire zones for
+purposes of this subdivision for the remainder of the taxable year in
+which the expiration occurred and for the next succeeding nine taxable
+years.
+  (e) Notwithstanding the expiration of the empire zones program under
+article eighteen-B of the general municipal law and except as provided
+in paragraph (d) of this subdivision, a taxpayer that is certified as an
+empire zone business pursuant to such article eighteen-B on the day
+immediately preceding the day the empire zones program expired shall
+continue to be deemed in the empire zone in which the taxpayer was
+certified as an empire zone business on the day immediately preceding
+the day the empire zones program expired for each of the three years
+next succeeding the taxable year for which the credit under subdivision
+three of this section is allowed.
+  5. QEZE credit for real property taxes. (a) Allowance of credit. A
+taxpayer which is a qualified empire zone enterprise shall be allowed a
+credit for eligible real property taxes, to be computed as provided in
+section fifteen of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. However, if
+the amount of credit allowed under this subdivision for any taxable year
+reduces the tax to such amount or if the taxpayer otherwise pays tax
+based on the fixed dollar minimum amount, any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  6. QEZE tax reduction credit. (a) Allowance of credit. A taxpayer
+which is a qualified empire zone enterprise shall be allowed a QEZE tax
+reduction credit, to be computed as provided in section sixteen of this
+chapter, against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. Provided,
+however, this paragraph shall not apply to a taxpayer with a zone
+allocation factor of one hundred percent.
+  7. Qualified emerging technology company employment credit. (a)
+Application of credit. A taxpayer shall be allowed a credit, to be
+computed as hereinafter provided, against the tax imposed by this
+article, provided:
+  (i) the taxpayer is a qualified emerging technology company pursuant
+to the provisions of section thirty-one hundred two-e of the public
+authorities law; and
+  (ii) the average number of individuals employed full time by the
+taxpayer in New York state during the taxable year is at least one
+hundred one percent of the taxpayer's base year employment. For the
+purposes of this subdivision, "base year employment" means the average
+number of individuals employed full-time by the taxpayer in the state
+during the three taxable years immediately preceding the first taxable
+year in which the credit is claimed. Where the taxpayer provided
+full-time employment within the state during only a portion of such
+three-year period, then the first effective date for the company to take
+advantage of this credit shall be the next year following the first full
+taxable year that the company had full-time employment in New York
+state. For the purposes of this paragraph the term "three years" shall
+be deemed to refer instead to the prior year's full-time employment
+after the first year and the average of the first eight quarters of
+employment after the first two taxable years in New York state.
+  (b) Credit limitation. The credit shall be allowed only in the first
+taxable year in which the credit is claimed and in each of the next two
+taxable years, provided that the conditions of paragraph (a) of this
+subdivision are satisfied in each taxable year.
+  (c) Average number of individuals employed full-time. For the purposes
+of this subdivision, average number of individuals employed full-time
+shall be computed by adding the number of such individuals employed by
+the taxpayer at the end of each quarter during each taxable year or
+other applicable period and dividing the sum so obtained by the number
+of such quarters occurring within such taxable year or other applicable
+period; provided however, except that in computing base year employment,
+there shall be excluded therefrom any employee with respect to whom a
+credit provided for under subdivision six of this section is claimed for
+the taxable year.
+  (d) Amount of credit. The amount of the credit shall equal the product
+of one thousand dollars times the number of individuals employed
+full-time by the taxpayer in the taxable year that are in excess of one
+hundred percent of the taxpayer's base year employment.
+  (e) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. However, if the amount
+of credit allowed under this subdivision for any taxable year reduces
+the tax to such amount or if the taxpayer otherwise pays tax based on
+the fixed dollar minimum amount, any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  8. Qualified emerging technology company capital tax credit. (a)
+Amount of credit. A taxpayer shall be allowed a credit against the tax
+imposed by this article. The amount of the credit shall be equal to one
+of the following percentages, per each qualified investment in a
+qualified emerging technology company as defined in section thirty-one
+hundred two-e of the public authorities law, made during the taxable
+year, and certified by the commissioner, either:
+  (1) ten percent of qualified investments in qualified emerging
+technology companies, except for investments made by or on behalf of an
+owner of the business, including, but not limited to, a stockholder,
+partner or sole proprietor, or any related person, as defined in
+subparagraph (C) of paragraph three of subsection (b) of section four
+hundred sixty-five of the internal revenue code, and provided, however,
+that the taxpayer certifies to the commissioner that the qualified
+investment will not be sold, transferred, traded, or disposed of during
+the four years following the year in which the credit is first claimed;
+or
+  (2) twenty percent of qualified investments in qualified emerging
+technology companies, except for investments made by or on behalf of an
+owner of the business, including, but not limited to, a stockholder,
+partner or sole proprietor, or any related person, as defined in
+subparagraph (C) of paragraph three of subsection (b) of section four
+hundred sixty-five of the internal revenue code, and provided, however,
+that the taxpayer certifies to the commissioner that the qualified
+investment will not be sold, transferred, traded, or disposed of during
+the nine years following the year in which the credit is first claimed.
+  (b) Qualified investment. "Qualified investment" means the
+contribution of property to a corporation in exchange for original issue
+capital stock or other ownership interest, the contribution of property
+to a partnership in exchange for an interest in the partnership, and
+similar contributions in the case of a business entity not in corporate
+or partnership form in exchange for an ownership interest in such
+entity.  The total amount of credit allowable to a taxpayer under this
+provision for all years, taken in the aggregate, shall not exceed one
+hundred fifty thousand dollars in the case of investments made pursuant
+to subparagraph one of paragraph (a) of this subdivision and shall not
+exceed three hundred thousand dollars in the case of investments made
+pursuant to subparagraph two of paragraph (a) of this subdivision.
+  (c) Carryover. In no event shall the credit and carryover of such
+credit allowed under this subdivision for any taxable year, in the
+aggregate, reduce the tax due for such year to less than the fixed
+dollar minimum amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this chapter. However, if the amount of
+credit or carryovers of such credit, or both, allowed under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, or if any part of the credit or carryovers of such credit may
+not be deducted from the tax otherwise due by reason of the final
+sentence of this paragraph, any amount of credit or carryovers of such
+credit thus not deductible in such taxable year may be carried over to
+the following year or years and may be deducted from the tax for such
+year or years. In addition, the amount of such credit, and carryovers of
+such credit to the taxable year, deducted from the tax otherwise due may
+not, in the aggregate, exceed fifty percent of the tax imposed under
+section two hundred nine of this article computed without regard to any
+credit provided for by this section.
+  (d) Recapture. (1) Where a taxpayer sells, transfers or otherwise
+disposes of corporate stock, a partnership interest or other ownership
+interest arising from the making of a qualified investment which was the
+basis, in whole or in part, for the allowance of the credit provided for
+under subparagraph one of paragraph (a) of this subdivision, or where an
+investment which was the basis for such allowance is, in whole or in
+part, recovered by such taxpayer, and such disposition or recovery
+occurs during the taxable year or within forty-eight months from the
+close of the taxable year with respect to which such credit is allowed,
+the taxpayer shall add back, with respect to the taxable year in which
+the disposition or recovery described above occurred, the required
+portion of the credit originally allowed.
+  (2) Where a taxpayer sells, transfers or otherwise disposes of
+corporate stock, a partnership interest or other ownership interest
+arising from the making of a qualified investment which was the basis,
+in whole or in part, for the allowance of the credit provided for under
+subparagraph two of paragraph (a) of this subdivision, or where an
+investment which was the basis for such allowance is in any manner, in
+whole or in part, recovered by such taxpayer, and such disposition or
+recovery occurs during the taxable year or within one hundred eight
+months from the close of the taxable year with respect to which such
+credit is allowed, the taxpayer shall add back, with respect to the
+taxable year in which the disposition or recovery described in
+subparagraph one of this paragraph occurred the required portion of the
+credit originally allowed.
+  (3) The required portion of the credit originally allowed shall be the
+product of (A) the portion of such credit attributable to the property
+disposed of and (B) the applicable percentage.
+  (4) The applicable percentage shall be:
+  (A) for credits allowed pursuant to subparagraph one of paragraph (a)
+of this subdivision:
+  (i) one hundred percent, if the disposition or recovery occurs within
+the taxable year with respect to which the credit is allowed or within
+twelve months of the end of such taxable year,
+  (ii) seventy-five percent, if the disposition or recovery occurs more
+than twelve but not more than twenty-four months after the end of the
+taxable year with respect to which the credit is allowed,
+  (iii) fifty percent, if the disposition or recovery occurs more than
+twenty-four months but not more than thirty-six months after the end of
+the taxable year with respect to which the credit is allowed, or
+  (iv) twenty-five percent, if the disposition or recovery occurs more
+than thirty-six months but not more than forty-eight months after the
+end of the taxable year with respect to which the credit is allowed; or
+  (B) for credits allowed pursuant to subparagraph two of paragraph (a)
+of this subdivision:
+  (i) one hundred percent, if the disposition or recovery occurs within
+the taxable year with respect to which the credit is allowed or within
+twelve months of the end of such taxable year,
+  (ii) eighty percent, if the disposition or recovery occurs more than
+twelve but not more than forty-eight months after the end of the taxable
+year with respect to which the credit is allowed,
+  (iii) sixty percent, if the disposition or recovery occurs more than
+forty-eight months but not more than seventy-two months after the end of
+the taxable year with respect to which the credit is allowed,
+  (iv) forty percent, if the disposition or recovery occurs more than
+seventy-two months but not more than ninety-six months after the end of
+the taxable year with respect to which the credit is allowed, or
+  (v) twenty percent, if the disposition or recovery occurs more than
+ninety-six months but not more than one hundred eight months after the
+end of the taxable year with respect to which the credit is allowed.
+  9. Credit for the special additional mortgage recording tax. (a)
+Application of credit. A taxpayer shall be allowed a credit, to be
+credited against the tax imposed by this article, equal to the amount of
+the special additional mortgage recording tax paid by the taxpayer
+pursuant to the provisions of subdivision one-a of section two hundred
+fifty-three of this chapter or mortgages recorded. Provided, however, no
+credit shall be allowed with respect to a mortgage of real property
+principally improved or to be improved by one or more structures
+containing in the aggregate not more than six residential dwelling
+units, each dwelling unit having its own separate cooking facilities,
+where the real property is located in one or more of the counties
+comprising the metropolitan commuter transportation area. Provided
+further, however, no credit shall be allowed with respect to a mortgage
+of real property principally improved or to be improved by one or more
+structures containing in the aggregate not more than six residential
+dwelling units, each dwelling unit having its own separate cooking
+facilities, where the real property is located in the county of Erie.
+  (b) Carryover. In no event shall the credit herein provided for be
+allowed in an amount which will reduce the tax payable to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. If, however, the amount
+of credit allowable under this subdivision for any taxable year,
+including any credit carried over from a prior taxable year, reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in such
+taxable year may be carried over to the following year or years and may
+be deducted from the taxpayer's tax for such year or years.
+  10. Credit for servicing certain mortgages. (a) General. Every
+taxpayer meeting the requirements of the state of New York mortgage
+agency applicable to the servicing of mortgages acquired by such agency
+pursuant to the state of New York mortgage agency act, which shall have
+entered into a contract with the state of New York mortgage agency to
+service mortgages acquired by such agency pursuant to the state of New
+York mortgage agency act, shall have credited to it annually an amount
+equal to two and ninety-three one hundredths per centum of the total
+principal and interest collected by the taxpayer during its taxable year
+on each such mortgage secured by a lien on real estate improved by a
+one-family to four-family residential structure and an amount equal to
+the interest collected by the taxpayer during its taxable year on each
+such mortgage secured by a lien on real property improved by a structure
+occupied as the residence of five or more families living independently
+of each other, multiplied by a fraction the denominator of which shall
+be the interest rate payable on the mortgage (computed to five decimal
+places) and the numerator of which shall be .00125 in the case of such a
+mortgage acquired by such agency for less than one million dollars, and
+..00100 in the case of such a mortgage acquired by such agency for one
+million dollars or more. In no event shall the credit allowed under this
+subdivision reduce the tax to less than the fixed dollar minimum amount
+prescribed in paragraph (d) of subdivision one of section two hundred
+ten of this article. In computing such tax credit for the servicing of
+mortgages on one-family to four-family residential structures, the
+taxpayer shall not be entitled to credit for the collection of
+curtailment or payments in discharge of any such mortgage. For the
+purposes of this subdivision,
+  (b)(i) a "curtailment" shall mean amounts paid by mortgagors
+  (A) in excess of the monthly constant due during the month of
+collection and
+  (B) in reduction of the unpaid principal balance of the mortgage; in
+the absence of clear evidence to the contrary, amounts paid in excess of
+the monthly constant due during the month of collection shall be deemed
+to be in reduction of the unpaid principal balance of the mortgage; and
+  (ii) "monthly constant" shall mean the amount of principal and
+interest which is due and payable according to the mortgage documents on
+each periodic payment date.
+  11. Agricultural property tax credit. (a) General. In the case of a
+taxpayer which is an eligible farmer or an eligible farmer who has paid
+taxes pursuant to a land contract, there shall be allowed a credit for
+the allowable school district property taxes. The term "allowable school
+district property taxes" means the school district property taxes paid
+during the taxable year on qualified agricultural property, subject to
+the acreage limitation provided in paragraph (e) of this subdivision and
+the income limitation provided in paragraph (f) of this subdivision.
+  (b) Eligible farmer. For purposes of this subdivision, the term
+"eligible farmer" means a taxpayer whose federal gross income from
+farming for the taxable year is at least two-thirds of excess federal
+gross income. The term "eligible farmer" also includes a corporation
+other than the taxpayer of record for qualified agricultural land which
+has paid the school district property taxes on such land pursuant to a
+contract for the future purchase of such land; provided that such
+corporation has a federal gross income from farming for the taxable year
+which is at least two-thirds of excess federal gross income; and
+provided further that, in determining such income eligibility, a
+taxpayer may, for any taxable year, use the average of such federal
+gross income from farming for that taxable year and such income for the
+two consecutive taxable years immediately preceding such taxable year.
+Excess federal gross income means the amount of federal gross income
+from all sources for the taxable year in excess of thirty thousand
+dollars. For the purposes of this paragraph, payments from the state's
+farmland protection program, administered by the department of
+agriculture and markets, shall be included as federal gross income from
+farming for otherwise eligible farmers.
+  (c) School district property taxes. For purposes of this subdivision,
+the term "school district property taxes" means all property taxes,
+special ad valorem levies and special assessments, exclusive of
+penalties and interest, levied for school district purposes on the
+qualified agricultural property owned by the taxpayer.
+  (d) Qualified agricultural property. For purposes of this subdivision,
+the term "qualified agricultural property" means land located in this
+state which is used in agricultural production, and land improvements,
+structures and buildings (excluding buildings used for the taxpayer's
+residential purpose) located on such land which are used or occupied to
+carry out such production. Qualified agricultural property also includes
+land set aside or retired under a federal supply management or soil
+conservation program or land that at the time it becomes subject to a
+conservation easement met the requirements under this paragraph.
+  (e) Acreage limitation. (i) Eligible taxes. In the event that the
+qualified agricultural property owned by the taxpayer includes land in
+excess of the base acreage as provided in this paragraph, the amount of
+school district property taxes eligible for credit under this
+subdivision shall be that portion of the school district property taxes
+which bears the same ratio to the total school district property taxes
+paid during the taxable year, as the acreage allowable under this
+paragraph bears to the entire acreage of such land.
+  (ii) Allowable acreage. The allowable acreage is the sum of the base
+acreage set forth below and fifty percent of the incremental acreage.
+The incremental acreage is the excess of the entire acreage of qualified
+agricultural land owned by the taxpayer over the base acreage. Except as
+provided in subparagraph (iii) of this paragraph, the base acreage is
+three hundred fifty acres.
+The total base acreage may be increased by any acreage enrolled or
+participating during the taxable year in a federal environmental
+conservation acreage reserve program pursuant to title three of the
+federal agriculture improvement and reform act of nineteen hundred
+ninety-six.
+  (iii) Base acreage of related persons. Where the taxpayer and one or
+more related persons each own qualified agricultural property on the
+first day of March of any year, the base acreage under subparagraph (ii)
+of this paragraph shall be divided equally and allotted among the
+taxpayer and such related persons, and the taxpayer's base acreage for
+the taxable year which includes such March first shall be limited to its
+allotted share. Provided, however, if the taxpayer and all such related
+persons consent (at such time and in such manner as the commissioner may
+prescribe) to an unequal division, the taxpayer's base acreage for such
+taxable year shall be limited to its allotted share under such unequal
+division.
+  (iv) Related persons. (A) For purposes of subparagraph (iii) of this
+paragraph, the term "related person" means:
+  (I) a corporation subject to tax under this article, where the
+taxpayer and the corporation are members of the same controlled group,
+as defined in section 267(f) of the internal revenue code;
+  (II) an individual, partnership, estate or trust, where more than
+fifty percent in value of the outstanding stock of the taxpayer is
+owned, directly or indirectly, by or for such individual, partnership,
+estate or trust or by or for the grantor of such trust;
+  (III) a corporation subject to tax under this article, or a
+partnership, estate or trust, if the same person owns more than fifty
+percent in value of the outstanding stock of the taxpayer and more than
+fifty percent in value of  the outstanding stock of the corporation, or
+more than fifty percent of the capital or profits interest in the
+partnership, or more than fifty percent of the beneficial interest in
+the estate or trust;
+  (IV) a partnership, estate or trust of which the taxpayer owns,
+directly or indirectly, more than fifty percent of the capital, profits
+or beneficial interest.
+  (B) In determining whether a person is a related person within the
+meaning of this subparagraph:
+  (I) stock owned, directly or indirectly, by or for a corporation,
+partnership, estate or trust shall be considered as being owned
+proportionately by or for its shareholders, partners or beneficiaries;
+  (II) an individual shall be considered as owning the stock owned,
+directly or indirectly, by or for his spouse;
+  (III) stock constructively owned by a person by reason of the
+application of item (I) of this clause shall, for the purpose of
+applying item (I) or (II) of this clause, be treated as actually owned
+by such person.
+  (f) Income limitation. (i) In the event that the modified entire net
+income of the taxpayer exceeds two hundred thousand dollars, the
+allowable school district property taxes under paragraph (a) of this
+subdivision shall be the eligible taxes under subparagraph (i) of
+paragraph (e) of this subdivision reduced by the product of the amount
+of such eligible taxes and a percentage, such percentage to be
+determined by multiplying one hundred percent by a fraction, the
+numerator of which is the lesser of one hundred thousand dollars or the
+excess of the taxpayer's modified entire net income over two hundred
+thousand dollars and the denominator of which is one hundred thousand
+dollars. For purposes of the preceding sentence, the term "eligible
+taxes", where the acreage limitation of paragraph (e) of this
+subdivision does not apply, shall mean the total school district
+property taxes paid during the taxable year.
+  (ii) The term "modified entire net income" means the entire net income
+for the taxable year reduced by the amount of principal paid on farm
+indebtedness during the taxable year. The term "farm indebtedness" means
+debt incurred or refinanced which is secured by farm property, where the
+proceeds of the debt are disbursed for expenditures incurred in the
+business of farming.
+  (g) Carryover. In no event shall the credit provided herein be allowed
+in an amount which will reduce the tax payable to less than the fixed
+dollar minimum amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. If, however, the amount of
+credit allowable under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in such
+taxable year may be carried over to the following year or years and may
+be deducted from the taxpayer's tax for such year or years. Provided,
+however, in lieu of carrying over the unused portion of such credit, the
+taxpayer may elect to treat such unused portion as an overpayment of tax
+to be credited or refunded in accordance with the provisions of section
+one thousand eighty-six of this chapter except that no interest shall be
+paid on such overpayment.
+  (h) Nonqualified use. (i) No credit in conversion year. In the event
+that qualified agricultural property is converted by the taxpayer to
+nonqualified use, credit under this subdivision shall not be allowed
+with respect to such property for the taxable year of conversion (the
+conversion year).
+  (ii) Credit recapture. If the conversion by the taxpayer of qualified
+agricultural property to nonqualified use occurs during the period of
+the two taxable years following the taxable year for which the credit
+under this subdivision was first claimed with respect to such property,
+the credit allowed with respect to such property for the taxable years
+prior to the conversion year must be added back in the conversion year.
+Where the property converted includes land, and where the conversion is
+of only a portion of such land, the credit allowed with respect to the
+property converted shall be determined by multiplying the entire credit
+under this subdivision for the taxable years prior to the conversion
+year by a fraction, the numerator of which is the acreage converted and
+the denominator of which is the entire acreage of such land owned by the
+taxpayer immediately prior to the conversion.
+  (iii) Exception to recapture. Subparagraph (ii) of this paragraph
+shall not apply to the conversion of property where the conversion is by
+reason of involuntary conversion, within the meaning of section one
+thousand thirty-three of the internal revenue code.
+  (iv) Conversion to nonqualified use. For purposes of this paragraph, a
+sale or other disposition of qualified agricultural property alone shall
+not constitute a conversion to a nonqualified use.
+  (i) Special rules. For purposes of this subdivision, the term "federal
+gross income from farming" shall include gross income from the
+production of maple syrup, cider, Christmas trees derived from a managed
+Christmas tree operation whether dug for transplanting or cut from the
+stump, or from a commercial horse boarding operation as defined in
+subdivision thirteen of section three hundred one of the agriculture and
+markets law, or from the sale of wine from a licensed farm winery as
+provided for in article six of the alcoholic beverage control law, or
+from the sale of cider from a licensed farm cidery as provided for in
+section fifty-eight-c of the alcoholic beverage control law.
+  (j) Election to deem gross income of New York C corporation to
+shareholders. For purposes of this subdivision, federal gross income
+from farming shall be zero for any taxable year of a New York C
+corporation for which the election under paragraph nine of subsection
+(n) of section six hundred six of this chapter is in effect.
+  12. Credit for employment of persons with disabilities. (a) Allowance
+of credit. A taxpayer shall be allowed a credit, to be computed as
+hereinafter provided, against the tax imposed by this article, for
+employing within the state a qualified employee.
+  (b) Qualified employee. A qualified employee is an individual:
+  (1) who is certified by the education department, or in the case of an
+individual who is blind or visually handicapped, by the state agency
+responsible for provision of vocational rehabilitation services to the
+blind and visually handicapped: (i) as a person with a disability which
+constitutes or results in a substantial handicap to employment and (ii)
+as having completed or as receiving services under an individualized
+written rehabilitation plan approved by the education department or
+other state agency responsible for providing vocational rehabilitation
+services to such individual; and
+  (2) who has worked on a full-time basis for the employer who is
+claiming the credit for at least one hundred eighty days or four hundred
+hours.
+  (c) Amount of credit. Except as provided in paragraph (d) of this
+subdivision, the amount of credit shall be thirty-five percent of the
+first six thousand dollars in qualified first-year wages earned by each
+qualified employee. "Qualified first-year wages" means wages paid or
+incurred by the taxpayer during the taxable year to qualified employees
+which are attributable, with respect to any such employee, to services
+rendered during the one-year period beginning with the day the employee
+begins work for the taxpayer.
+  (d) Credit where federal work opportunity tax credit applies. With
+respect to any qualified employee whose qualified first-year wages under
+paragraph (c) of this subdivision also constitute qualified first-year
+wages for purposes of the work opportunity tax credit for vocational
+rehabilitation referrals under section fifty-one of the internal revenue
+code, the amount of credit under  this subdivision shall be thirty-five
+percent of the first six thousand dollars in qualified second-year wages
+earned by each such employee. "Qualified second-year wages" means wages
+paid or incurred by the taxpayer during the taxable year to qualified
+employees which are attributable, with respect to any such employee, to
+services rendered during the one-year period beginning one year after
+the employee begins work for the taxpayer.
+  (e) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+fixed dollar minimum amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this chapter. However, if the amount
+of credit allowable under this subdivision for any taxable year reduces
+the tax to such amount or if the taxpayer otherwise pays tax based on
+the fixed dollar minimum amount, any amount of credit not deductible in
+such taxable year may be carried over to the following year or years,
+and may be deducted from the taxpayer's tax for such year or years.
+  (f) Coordination with federal work opportunity tax credit. The
+provisions of section fifty-one and fifty-two of the internal revenue
+code, as such sections applied on October first, nineteen hundred
+ninety-six, that apply to the federal work opportunity tax credit for
+vocational rehabilitation referrals shall apply to the credit under this
+subdivision to the extent that such sections are consistent with the
+specific provisions of this subdivision, provided that in the event of a
+conflict the provisions of this subdivision shall control.
+  13. Credit for purchase of an automated external defibrillator. A
+taxpayer shall be allowed a credit, to be computed as hereinafter
+provided, against the tax imposed by this article, for the purchase,
+other than for resale, of an automated external defibrillator, as such
+term is defined in section three thousand-b of the public health law.
+The amount of credit shall be the cost to the taxpayer of automated
+external defibrillators purchased during the taxable year, such credit
+not to exceed five hundred dollars with respect to each unit purchased.
+The credit allowed under this subdivision for any taxable year shall not
+reduce the tax due for such year to less than the fixed dollar minimum
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this chapter.
+  14. Credit for purchase of long-term care insurance. (a) General. A
+taxpayer shall be allowed a credit against the tax imposed by this
+article equal to twenty percent of the premium paid during the taxable
+year for long-term care insurance. In order to qualify for such credit,
+the taxpayer's premium payment must be for the purchase of or for
+continuing coverage under a long-term care insurance policy that
+qualifies for such credit pursuant to section one thousand one hundred
+seventeen of the insurance law.
+  (b) Carryover. The credit allowed under this subdivision for any year
+shall not reduce the tax due for such year to less than the fixed dollar
+minimum amount prescribed in paragraph (d) of subdivision one of section
+two hundred ten of this article. If, however, the amount of credit
+allowable under this subdivision for any taxable year reduces the tax to
+such amount or if the taxpayer otherwise pays tax based on the fixed
+dollar minimum amount, any amount of credit not deductible in such
+taxable year may be carried over to the following year or years and may
+be deducted from the taxpayer's tax for such year or years.
+  15. Low-income housing credit. (a) Allowance of credit. A taxpayer
+shall be allowed a credit against the tax imposed by this article with
+respect to the ownership of eligible low-income buildings, computed as
+provided in section eighteen of this chapter.
+  (b) Application of credit. The credit and carryovers of such credit
+allowed under this subdivision for any taxable year shall not, in the
+aggregate, reduce the tax due for such year to less than the fixed
+dollar minimum amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit or carryovers of such credit, or both, allowed under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of credit or carryovers of such credit thus not
+deductible in such taxable year may be carried over to the following
+year or years and may be deducted from the tax for such year or years.
+  (c) Credit recapture. For provisions requiring recapture of credit,
+see subdivision (b) of section eighteen of this chapter.
+  16. Green building credit. (a) Allowance of credit. A taxpayer shall
+be allowed a credit, to be computed as provided in section nineteen of
+this chapter, against the tax imposed by this article.
+  (b) Carryovers. The credit and carryovers of such credit allowed under
+this subdivision for any taxable year shall not, in the aggregate,
+reduce the tax due for such year to less than the fixed dollar minimum
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this article. However, if the amount of credit or
+carryovers of such credit, or both, allowed under this subdivision for
+any taxable year reduces the tax to such amount or if the taxpayer
+otherwise pays tax based on the fixed dollar minimum amount, any amount
+of credit or carryovers of such credit thus not deductible in such
+taxable year may be carried over to the following year or years and may
+be deducted from the tax for such year or years.
+  17. Brownfield redevelopment tax credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section twenty-one of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. However, if
+the amount of credits allowed under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, any amount of credit thus
+not deductible in such taxable year shall be treated as an overpayment
+of tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  18. Remediated brownfield credit for real property taxes for qualified
+sites. (a) Allowance of credit. A taxpayer which is a developer of a
+qualified site shall be allowed a credit for eligible real property
+taxes, to be computed as provided in subdivision (b) of section
+twenty-two of this chapter, against the tax imposed by this article. For
+purposes of this subdivision, the terms "qualified site" and "developer"
+shall have the same meaning as set forth in paragraphs two and three,
+respectively, of subdivision (a) of section twenty-two of this chapter.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. However, if
+the amount of credit allowed under this subdivision for any taxable year
+reduces the tax to such amount or if the taxpayer otherwise pays tax
+based on the fixed dollar minimum amount, any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  19. Environmental remediation insurance credit. (a) Allowance of
+credit.  A taxpayer shall be allowed a credit, to be computed as
+provided in section twenty-three of this chapter, against the tax
+imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. However, if
+the amount of credits allowed under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, any amount of credit thus
+not deductible in such taxable year shall be treated as an overpayment
+of tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  20. Empire state film production credit. (a) Allowance of credit. A
+taxpayer who is eligible pursuant to section twenty-four of this chapter
+shall be allowed a credit to be computed as provided in such section
+twenty-four against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. Provided,
+however, that if the amount of the credit allowable under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  21. Security training tax credit. (a) Allowance of credit. A taxpayer
+shall be allowed a credit, to be computed as provided in section
+twenty-six of this chapter, against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this chapter. However, if
+the amount of credits allowed under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, any amount of credit thus
+not deductible in such taxable year shall be treated as an overpayment
+of tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  22. Conservation easement tax credit. (a) Credit allowed. In the case
+of a taxpayer who owns land that is subject to a conservation easement
+held by a public or private conservation agency, there shall be allowed
+a credit for twenty-five percent of the allowable school district,
+county and town real property taxes on such land. In no such case shall
+the credit allowed under this subdivision in combination with any other
+credit for such school district, county and town real property taxes
+under this section exceed such taxes.
+  (b) Conservation easement. For purposes of this subdivision, the term
+"conservation easement" means a perpetual and permanent conservation
+easement as defined in article forty-nine of the environmental
+conservation law that serves to protect open space, scenic, natural
+resources, biodiversity, agricultural, watershed and/or historic
+preservation resources. Any conservation easement for which a tax credit
+is claimed under this subdivision shall be filed with the department of
+environmental conservation, as provided for in article forty-nine of the
+environmental conservation law and such conservation easement shall
+comply with the provisions of title three of such article, and the
+provisions of subdivision (h) of section 170 of the internal revenue
+code. Dedications of land for open space through the execution of
+conservation easements for the purpose of fulfilling density
+requirements to obtain subdivision or building permits shall not be
+considered a conservation easement under this subdivision.
+  (c) Land. For purposes of this subdivision, the term "land" means a
+fee simple title to real property located in this state, with or without
+improvements thereon; rights of way; water and riparian rights;
+easements; privileges and all other rights or interests of any land or
+description in, relating to or connected with real property, excluding
+buildings, structures, or improvements.
+  (d) Public or private conservation agency. For purposes of this
+subdivision, the term "public or private conservation agency" means any
+state, local, or federal governmental body; or any private
+not-for-profit charitable corporation or trust which is authorized to do
+business in the state of New York, is organized and operated to protect
+land for natural resources, conservation or historic preservation
+purposes, is exempt from federal income taxation under section 501(c)(3)
+of the internal revenue code, and has the power to acquire, hold and
+maintain land and/or interests in land for such purposes.
+  (e) Credit limitation. The amount of the credit that may be claimed by
+a taxpayer pursuant to this subsection shall not exceed five thousand
+dollars in any given year.
+  (f) Application of the credit. The credit allowed under this
+subdivision for any taxable year shall not reduce the tax due for such
+year to less than the fixed dollar minimum amount prescribed in
+paragraph (d) of subdivision one of section two hundred ten of this
+article. However, if the amount of the credit allowed under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of the credit thus not deductible in such taxable
+year shall be treated as an overpayment of tax to be credited or
+refunded in accordance with the provisions of subsection (c) of section
+one thousand eighty-eight of this chapter, except that, no interest
+shall be paid thereon.
+  23. Empire state commercial production credit. (a) Allowance of
+credit.  A taxpayer that is eligible pursuant to provisions of section
+twenty-eight of this chapter shall be allowed a credit to be computed as
+provided in such section against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. Provided,
+however, that if the amount of the credit allowable under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, fifty percent of the excess shall be treated as an overpayment
+of tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon. The
+balance of such credit not credited or refunded in such taxable year may
+be carried over to the immediately succeeding taxable year and may be
+deducted from the taxpayer's tax for such year. The excess, if any, of
+the amount of credit over the tax for such succeeding year shall be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, however, the provisions of subsection (c) of
+section one thousand eighty-eight of this chapter notwithstanding, no
+interest shall be paid thereon.
+  (c) Expiration of credit. The credit allowed under this subdivision
+shall not be applicable to taxable years beginning on or after December
+thirty-first, two thousand seventeen.
+  24. Biofuel production credit. (a) General. A taxpayer shall be
+allowed a credit, to be computed as provided in section twenty-eight of
+this chapter added as part X of chapter sixty-two of the laws of two
+thousand six, against the tax imposed by this article. The credit
+allowed under this subdivision for any taxable year shall not reduce the
+tax due for such year to less than the fixed dollar minimum amount
+prescribed in paragraph (d) of subdivision one of section two hundred
+ten of this article.  However, if the amount of credit allowed under
+this subdivision for any taxable year reduces the tax to such amount or
+if the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of credit thus not deductible in such taxable year
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, however, the provisions of subsection (c) of
+section one thousand eighty-eight of this chapter notwithstanding, no
+interest shall be paid thereon. The tax credit allowed pursuant to this
+section shall apply to taxable years beginning before January first, two
+thousand twenty.
+  25. Clean heating fuel credit. (a) General. A taxpayer shall be
+allowed a credit against the tax imposed by this article. Such credit,
+to be computed as hereinafter provided, shall be allowed for bioheat,
+used for space heating or hot water production for residential purposes
+within this state purchased before January first, two thousand
+seventeen. Such credit shall be $0.01 per percent of biodiesel per
+gallon of bioheat, not to exceed twenty cents per gallon, purchased by
+such taxpayer.
+  (b) Definitions. For purposes of this subdivision, the following
+definitions shall apply:
+  (i) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
+esters of long chain fatty acids derived from vegetable oils or animal
+fats, designated B100, which meets the specifications of American
+Society of Testing and Materials designation D 6751.
+  (ii) "Bioheat" shall mean a fuel comprised of biodiesel blended with
+conventional home heating oil, which meets the specifications of the
+American Society of Testing and Materials designation D 396 or D 975.
+  (c) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. However, if
+the amount of credit allowed under this subdivision for any taxable year
+reduces the tax to such amount or if the taxpayer otherwise pays tax
+based on the fixed dollar minimum amount, any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  26. Credit for rehabilitation of historic properties. (a) Application
+of credit. (i) For taxable years beginning on or after January first,
+two thousand ten, and before January first, two thousand twenty, a
+taxpayer shall be allowed a credit as hereinafter provided, against the
+tax imposed by this article, in an amount equal to one hundred percent
+of the amount of credit allowed the taxpayer for the same taxable year
+with respect to a certified historic structure under subsection (c)(2)
+of section 47 of the internal revenue code with respect to a certified
+historic structure located within the state. Provided, however, the
+credit shall not exceed five million dollars.
+  (ii) For taxable years beginning on or after January first, two
+thousand twenty, a taxpayer shall be allowed a credit as hereinafter
+provided, against the tax imposed by this article, in an amount equal to
+thirty percent of the amount of credit allowed the taxpayer for the same
+taxable year with respect to a certified historic structure under
+subsection (c)(3) of section 47 of the internal revenue code with
+respect to a certified historic structure located within the state.
+Provided, however, the credit shall not exceed one hundred thousand
+dollars.
+  (B) If the taxpayer is a partner in a partnership or a shareholder in
+a New York S corporation, then the credit caps imposed in subparagraph
+(A) of this paragraph shall be applied at the entity level, so that the
+aggregate credit allowed to all the partners or shareholders of each
+such entity in the taxable year does not exceed the credit cap that is
+applicable in that taxable year.
+  (b) Tax credits allowed pursuant to this subdivision shall be allowed
+in the taxable year that the qualified rehabilitation is placed in
+service under section 167 of the federal internal revenue code.
+  (c) If the credit allowed the taxpayer pursuant to section 47 of the
+internal revenue code with respect to a qualified rehabilitation is
+recaptured pursuant to subsection (a) of section 50 of the internal
+revenue code, a portion of the credit allowed under this subsection must
+be added back in the same taxable year and in the same proportion as the
+federal credit.
+  (d) The credit allowed under this subdivision for any taxable year
+shall not reduce the tax due for such year to less than the amount
+prescribed in paragraph (d) of subdivision one of section two hundred
+ten of this article. However, if the amount of the credit allowed under
+this subdivision for any taxable year reduces the tax to such amount or
+if the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of credit thus not deductible in such taxable year
+shall be treated as an overpayment of tax to be recredited or refunded
+in accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, however, the provisions of subsection (c) of
+section one thousand eighty-eight of this chapter notwithstanding, no
+interest shall be paid thereon.
+  (e) To be eligible for the credit allowable under this subdivision,
+the rehabilitation project shall be in whole or in part located within a
+census tract which is identified as being at or below one hundred
+percent of the state median family income as calculated as of January
+first of each year using the most recent five year estimate from the
+American community survey published by the United States Census bureau.
+  27. Credits of New York S corporations. (a) General. Notwithstanding
+the provisions of this section, no carryover of credit allowable in a
+New York C year shall be deducted from the tax otherwise due under this
+article in a New York S year, and no credit allowable in a New York S
+year, or carryover of such credit, shall be deducted from the tax
+imposed by this article.  However, a New York S year shall be treated as
+a taxable year for purposes of determining the number of taxable years
+to which a credit may be carried over under this section.
+Notwithstanding the first sentence of this subdivision, however, the
+credit for the special additional mortgage recording tax shall be
+allowed as provided in subdivision fifteen of this section, and the
+carryover of any such credit shall be determined without regard to
+whether the credit is carried from a New York C year to a New York S
+year or vice-versa.
+  29. Hire a vet credit. (a) Allowance of credit. For taxable years
+beginning on or after January first, two thousand fifteen and before
+January first, two thousand seventeen, a taxpayer shall be allowed a
+credit, to be computed as provided in this subdivision, against the tax
+imposed by this article, for hiring and employing, for not less than one
+year and for not less than thirty-five hours each week, a qualified
+veteran within the state. The taxpayer may claim the credit in the year
+in which the qualified veteran completes one year of employment by the
+taxpayer. If the taxpayer claims the credit allowed under this
+subdivision, the taxpayer may not use the hiring of a qualified veteran
+that is the basis for this credit in the basis of any other credit
+allowed under this article.
+  (b) Qualified veteran. A qualified veteran is an individual:
+  (1) who served on active duty in the United States army, navy, air
+force, marine corps, coast guard or the reserves thereof, or who served
+in active military service of the United States as a member of the army
+national guard, air national guard, New York guard or New York naval
+militia; who was released from active duty by general or honorable
+discharge after September eleventh, two thousand one;
+  (2) who commences employment by the qualified taxpayer on or after
+January first, two thousand fourteen, and before January first, two
+thousand sixteen; and
+  (3) who certifies by signed affidavit, under penalty of perjury, that
+he or she has not been employed for thirty-five or more hours during any
+week in the one hundred eighty day period immediately prior to his or
+her employment by the taxpayer.
+  (c) Employer prohibition. An employer shall not discharge an employee
+and hire a qualifying veteran solely for the purpose of qualifying for
+this credit.
+  (d) Amount of credit. The amount of the credit shall be ten percent of
+the total amount of wages paid to the qualified veteran during the
+veteran's first full year of employment. Provided, however, that, if the
+qualified veteran is a disabled veteran, as defined in paragraph (b) of
+subdivision one of section eighty-five of the civil service law, the
+amount of the credit shall be fifteen percent of the total amount of
+wages paid to the qualified veteran during the veteran's first full year
+of employment. The credit allowed pursuant to this subdivision shall not
+exceed in any taxable year, five thousand dollars for any qualified
+veteran and fifteen thousand dollars for any qualified veteran who is a
+disabled veteran.
+  (e) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this article. However, if the amount of credit allowable
+under this subdivision for any taxable year reduces the tax to such
+amount or if the taxpayer otherwise pays tax based on the fixed dollar
+minimum amount, any amount of credit not deductible in such taxable year
+may be carried over to the following three years and may be deducted
+from the taxpayer's tax for such year or years.
+  30. Alternative fuels and electric vehicle recharging property credit.
+(a) General. A taxpayer shall be allowed a credit, to be computed as
+hereinafter provided, against the tax imposed by this article for
+alternative fuel vehicle refueling and electric vehicle recharging
+property placed in service during the taxable year.
+  (b) Alternative fuel vehicle refueling property and electric vehicle
+recharging property. The credit under this subdivision for alternative
+fuel vehicle refueling property and electric vehicle recharging property
+shall equal for each installation of property the lesser of five
+thousand dollars or fifty percent of the cost of any such property:
+  (i) which is located in this state;
+  (ii) which constitutes alternative fuel vehicle refueling property or
+electric vehicle recharging property; and
+  (iii) for which none of the cost has been paid for from the proceeds
+of grants, including grants from the New York state energy research and
+development authority or the New York power authority.
+  (c) Definitions. (i) The term "alternative fuel vehicle refueling
+property" means all of the equipment needed to dispense any fuel at
+least eighty-five percent of the volume of which consists of one or more
+of the following: natural gas, liquified natural gas, liquified
+petroleum, or hydrogen.
+  (ii) The term "electric vehicle recharging property" means all of the
+equipment needed to convey electric power from the electric grid or
+another power source to an onboard vehicle energy storage system.
+  (d) Carryovers. In no event shall the credit under this subdivision be
+allowed in an amount which will reduce the tax payable to less than the
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this article. Provided, however, that if the amount of
+credit allowable under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in such
+taxable year may be carried over to the following year or years and may
+be deducted from the taxpayer's tax for such year or years.
+  (e) Credit recapture. If, at any time before the end of its recovery
+period, alternative fuel vehicle refueling or electric vehicle
+recharging property ceases to be qualified, a recapture amount must be
+added back in the year in which such cessation occurs.
+  (i) Alternative fuel vehicle refueling property or electric vehicle
+recharging property ceases to be qualified if:
+  (I) the property no longer qualifies as alternative fuel vehicle
+refueling property or electric vehicle recharging property; or
+  (II) fifty percent or more of the use of the property in a taxable
+year is other than in a trade or business in this state; or
+  (III) the taxpayer receiving the credit under this subdivision sells
+or disposes of the property and knows or has reason to know that the
+property will be used in a manner described in clauses (I) and (II) of
+this subparagraph.
+  (ii) Recapture amount. The recapture amount is equal to the credit
+allowable under this subdivision multiplied by a fraction, the numerator
+of which is the total recovery period for the property minus the number
+of recovery years prior to, but not including, the recapture year, and
+the denominator of which is the total recovery period.
+  (f) Termination. The credit allowed by paragraph (b) of this
+subdivision shall not apply in taxable years beginning after December
+thirty-first, two thousand seventeen.
+  31. Excelsior jobs program credit. (a) Allowance of credit. A taxpayer
+will be allowed a credit, to be computed as provided in section
+thirty-one of this chapter, against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  32. Empire state film post production credit. (a) Allowance of credit.
+A taxpayer who is eligible pursuant to section thirty-one of this
+chapter shall be allowed a credit to be computed as provided in such
+section thirty-one against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. Provided, however, that if the
+amount of the credit allowable under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, fifty percent of the
+excess shall be treated as an overpayment of tax to be credited or
+refunded in accordance with the provisions of section one thousand
+eighty-six of this chapter. Provided, however, the provisions of
+subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon. The balance of such
+credit not credited or refunded in such taxable year may be a carryover
+to the immediately succeeding taxable year and may be deducted from the
+taxpayer's tax for such year. The excess, if any, of the amount of the
+credit over the tax for such succeeding year shall be treated as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter. Provided,
+however, the provisions of subsection (c) of section one thousand
+eighty-eight of this chapter notwithstanding, no interest shall be paid
+thereon.
+  33. Temporary deferral nonrefundable payout credit. (a) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in subdivision one of section thirty-four of this chapter, against the
+tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for that year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year may be carried over to the following year or years and
+may be deducted from the taxpayer's tax for such year or years.
+  34. Temporary deferral refundable payout credit. (a) Allowance of
+credit. A taxpayer shall be allowed a credit, to be computed as provided
+in subdivision two of section thirty-four of this chapter, against the
+tax imposed by this article.
+  (b) Application of credit. In no event shall the credit under this
+subdivision be allowed in an amount which will reduce the tax to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. If, however, the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in such
+taxable year shall be treated as an overpayment of tax to be refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter, provided however, that no interest shall be paid thereon.
+  35. Economic transformation and facility redevelopment program tax
+credit. (a) Allowance of credit. A taxpayer shall be allowed a credit,
+to be computed as provided in section thirty-five of this chapter,
+against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  36. New York youth works tax credit. (a) A taxpayer that has been
+certified by the commissioner of labor as a qualified employer pursuant
+to section twenty-five-a of the labor law shall be allowed a credit
+against the tax imposed by this article equal to (i) five hundred
+dollars per month for up to six months for each qualified employee the
+employer employs in a full-time job or two hundred fifty dollars per
+month for up to six months for each qualified employee the employer
+employs in a part-time job of at least twenty hours per week or ten
+hours per week when the qualified employee is enrolled in high school
+full-time, (ii) one thousand dollars for each qualified employee who is
+employed for at least an additional six months by the qualified employer
+in a full-time job or five hundred dollars for each qualified employee
+who is employed for at least an additional six months by the qualified
+employer in a part-time job of at least twenty hours per week or ten
+hours per week when the qualified employee is enrolled in high school
+full-time, and (iii) an additional one thousand dollars for each
+qualified employee who is employed for at least an additional year after
+the first year of the employee's employment by the qualified employer in
+a full-time job or five hundred dollars for each qualified employee who
+is employed for at least an additional year after the first year of the
+employee's employment by the qualified employer in a part-time job of at
+least twenty hours per week or ten hours per week when the qualified
+employee is enrolled in high school full-time. For purposes of this
+subdivision, the term "qualified employee" shall have the same meaning
+as set forth in subdivision (b) of section twenty-five-a of the labor
+law. The portion of the credit described in subparagraph (i) of this
+paragraph shall be allowed for the taxable year in which the wages are
+paid to the qualified employee, and the portion of the credit described
+in subparagraph (ii) of this paragraph shall be allowed in the taxable
+year in which the additional six month period ends.
+  (b) The credit allowed under this subdivision for any taxable year may
+not reduce the tax due for that year to less than the amount prescribed
+in paragraph (d) of subdivision one of section two hundred ten of this
+article. However, if the amount of the credit allowed under this
+subdivision for any taxable year reduces the tax to that amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of credit not deductible in that taxable year will be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, however, no interest will be paid thereon.
+  (c) The taxpayer may be required to attach to its tax return its
+certificate of eligibility issued by the commissioner of labor pursuant
+to section twenty-five-a of the labor law. In no event shall the
+taxpayer be allowed a credit greater than the amount of the credit
+listed on the certificate of eligibility. Notwithstanding any provision
+of this chapter to the contrary, the commissioner and the commissioner's
+designees may release the names and addresses of any taxpayer claiming
+this credit and the amount of the credit earned by the taxpayer.
+Provided, however, if a taxpayer claims this credit because it is a
+member of a limited liability company or a partner in a partnership,
+only the amount of credit earned by the entity and not the amount of
+credit claimed by the taxpayer may be released.
+  37. Empire state jobs retention program credit. (a) Allowance of
+credit.  A taxpayer will be allowed a credit, to be computed as provided
+in section thirty-six of this chapter, against the taxes imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year will not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  38. Credit for companies who provide transportation to individuals
+with disabilities. (a) Allowance and amount of credit. A taxpayer, who
+provides a taxicab service as defined in section one hundred
+forty-eight-a of the vehicle and traffic law, or a livery service as
+defined in section one hundred twenty-one-e of the vehicle and traffic
+law, shall be allowed a credit, to be computed as provided in this
+subdivision, against the tax imposed by this article. The amount of the
+credit shall be equal to the incremental cost associated with upgrading
+a vehicle so that it is accessible by individuals with disabilities as
+defined in paragraph (b) of this subdivision. Provided, however, that
+such credit shall not exceed ten thousand dollars per vehicle. For
+purposes of this subdivision, purchases of new vehicles that are
+initially manufactured to be accessible for individuals with
+disabilities and for which there is no comparable make and model that
+does not include the equipment necessary to provide accessibility to
+individuals with disabilities, the credit shall be ten thousand dollars
+per vehicle.
+  (b) Definition. The term "accessible by individuals with disabilities"
+shall, for the purposes of this subdivision, refer to a vehicle that
+complies with federal regulations promulgated pursuant to the Americans
+with Disabilities Act applicable to vans under twenty-two feet in
+length, by the federal Department of Transportation, in Code of Federal
+Regulations, title 49, parts 37 and 38, and by the federal Architecture
+and Transportation Barriers Compliance Board, in Code of Federal
+Regulations, title 36, section 1192.23, and the Federal Motor Vehicle
+Safety Standards, Code of Federal Regulations, title 49, part 57.
+  (c) Application of credit. In no event shall the credit allowed under
+this subdivision for any taxable year reduce the tax due for such year
+to less than the amount prescribed in paragraph (d) of subdivision one
+of section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be carried over to the following year or years,
+and may be deducted from the taxpayer's tax for such year or years.
+  39. Beer production credit. A taxpayer shall be allowed a credit, to
+be computed as provided in section thirty-seven of this chapter, against
+the tax imposed by this article. In no event shall the credit allowed
+under this subdivision for any taxable year reduce the tax due for such
+year to less than the amount prescribed in paragraph (d) of subdivision
+one of section two hundred ten of this article. However, if the amount
+of credit allowed under this subdivision for any taxable year reduces
+the tax to such amount or if the taxpayer otherwise pays tax based on
+the fixed dollar minimum amount, any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  40. Minimum wage reimbursement credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section thirty-eight of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  41. The tax-free NY area tax elimination credit. A taxpayer shall be
+allowed a credit to be computed as provided in section forty of this
+chapter, against the tax imposed by this article. Unless the taxpayer
+has a tax-free NY area allocation factor of one hundred percent, the
+credit allowed under this subdivision for any taxable year shall not
+reduce the tax due for such year to less than the amount prescribed in
+paragraph (d) of subdivision one of section two hundred ten of this
+article. However, any amount of credit not deductible in such taxable
+year shall be treated as an overpayment of tax to be credited or
+refunded in accordance with the provisions of section one thousand
+eighty-six of this chapter. Provided, however, the provisions of
+subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  42. Alternative base credit. (a) If the tax imposed on a taxpayer by
+subdivision one of section two hundred nine of this article is the
+amount prescribed in paragraph (b) of subdivision one of section two
+hundred ten of this article, the taxpayer shall be allowed a credit
+against the tax imposed under this article equal to the amount of tax
+paid to another state computed on a tax base identical to the tax base
+prescribed in such paragraph (b). If the tax imposed on a taxpayer by
+subdivision one of section two hundred nine of this article is the
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this article, the taxpayer shall be allowed a credit
+against the tax imposed under this article equal to the amount of tax
+paid to another state computed on a tax base identical to the tax base
+prescribed in such paragraph (d).
+  (b) In no event shall the credit allowed under this subdivision for
+any taxable year reduce the tax due for such year to less than the
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this article. However, if the amount of credit allowed
+under this subdivision for any taxable year reduces the tax to such
+amount or if the taxpayer otherwise pays tax based on the fixed dollar
+minimum amount, any amount of credit thus not deductible in such taxable
+year shall be carried over to the following year or years, and may be
+deducted from the taxpayer's tax for such year or years.
+  43. Real property tax credit for manufacturers. (a) A qualified New
+York manufacturer, as defined in subparagraph (vi) of paragraph (a) of
+subdivision one of section two hundred ten of this article, will be
+allowed a credit equal to twenty percent of the real property tax it
+paid during the taxable year for real property owned by such
+manufacturer in New York which was principally used during the taxable
+year for manufacturing to the extent not deducted in determining  entire
+net income. This credit will not be allowed if the real property taxes
+that are the basis for this credit are included in the calculation of
+another credit claimed by the taxpayer.
+  (b) (1) For purposes of this subdivision, the term real property tax
+means a charge imposed upon real property by or on behalf of a county,
+city, town, village or school district for municipal or school district
+purposes, provided that the charge is levied for the general public
+welfare by the proper taxing authorities at a like rate against all
+property over which such authorities have jurisdiction, and provided
+that where taxes are levied pursuant to article eighteen or nineteen of
+the real property tax law, the property must have been taxed at the rate
+determined for the class in which it is contained, as provided by such
+article eighteen or nineteen, whichever is applicable. The term real
+property tax does not include a charge for local benefits, including any
+portion of that charge that is properly allocated to the costs
+attributable to maintenance or interest, when (i) the property subject
+to the charge is limited to the property that benefits from the charge,
+or (ii) the amount of the charge is determined by the benefit to the
+property assessed, or (iii) the improvement for which the charge is
+assessed tends to increase the property value.
+  (2) In addition, the term real property tax includes taxes paid by the
+taxpayer upon real property principally used during the taxable year by
+the taxpayer in manufacturing where the taxpayer leases such real
+property from an unrelated third party if the following conditions are
+satisfied: (i) the tax must be paid by the taxpayer as lessee pursuant
+to explicit requirements in a written lease, and (ii) the taxpayer as
+lessee has paid such taxes directly to the taxing authority and has
+received a written receipt for payment of taxes from the taxing
+authority. In the case of a combined group that constitutes a qualified
+New York manufacturer, the conditions in the preceding sentence are
+satisfied if one corporation in the combined group is the lessee and
+another corporation in the combined group makes the payments to the
+taxing authority.
+  (3) The term real property tax does not include a payment made by the
+taxpayer in connection with an agreement for the payment in lieu of
+taxes on real property, whether such property is owned or leased by the
+taxpayer.
+  (4) The real property taxes must be paid by the taxpayer in the year
+such taxes become a lien on the real property.
+  (c) Credit recapture. Where a qualified New York manufacturer's real
+property taxes which were the basis for the allowance of the credit
+provided for under this subdivision are subsequently reduced as a result
+of a final order in any proceeding under article seven of the real
+property tax law or other provision of law, the taxpayer shall add back,
+in the taxable year in which such final order is issued, the excess of
+(1) the amount of credit originally allowed for a taxable year over (2)
+the amount of credit determined based upon the reduced real property
+taxes. If such final order reduces real property taxes for more than one
+year, the taxpayer must determine how much of such reduction is
+attributable to each year covered by such final order and calculate the
+amount of credit which is required by this subdivision to be recaptured
+for each year based on such reduction.
+  (d) The credit allowed under this subdivision for any taxable year
+shall not reduce the tax due for such year to less than twenty-five
+dollars.
+  44. The tax-free NY area excise tax on telecommunication services
+credit. A taxpayer that is a business or owner of a business that is
+located in a tax-free NY area approved pursuant to article twenty-one of
+the economic development law shall be allowed a credit equal to the
+excise tax on telecommunication services imposed by section one hundred
+eighty-six-e of this chapter and passed through to such business during
+the taxable year to the extent not otherwise deducted in computing
+entire net income under this article. However, any amount of credit not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. This credit may be
+claimed only where any tax imposed by such section one hundred
+eighty-six-e has been separately stated on a bill from the provider of
+telecommunication services and paid by such business with respect to
+such services rendered within a tax-free NY area during the taxable
+year. Unless the taxpayer has a tax-free NY area allocation factor of
+one hundred percent, the credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+amount prescribed in paragraph (d) of subdivision one of section two
+hundred ten of this chapter. Provided, however, the provisions of
+subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  45. Order of credits. (a) Credits allowable under this article which
+cannot be carried over and which are not refundable shall be deducted
+first. The credit allowable under subdivision six of this section shall
+be deducted immediately after the deduction of all credits allowable
+under this article which cannot be carried over and which are not
+refundable, whether or not a portion of such credit is refundable.
+Credits allowable under this article which can be carried over, and
+carryovers of such credits, shall be deducted next after the deduction
+of the credit allowable under subdivision six of this section, and among
+such credits, those whose carryover is of limited duration shall be
+deducted before those whose carryover is of unlimited duration. Credits
+allowable under this article which are refundable (other than the credit
+allowable under subdivision six of this section) shall be deducted last.
+  46. Notwithstanding the repeal of the credit provisions contained in
+section two hundred ten of this article or in article thirty-two of this
+chapter and the enactment of this section by a chapter of the laws of
+two thousand fourteen:
+  (a) A taxpayer shall be allowed to utilize any carryforward amounts of
+credits to which the taxpayer was entitled as of the close of the
+taxable year beginning on or after January first, two thousand fourteen
+and before January first, two thousand fifteen, other than the
+carryforward amount of the minimum tax credit provided under subdivision
+thirteen of section two hundred ten, as that subdivision was in effect
+on December thirty-first, two thousand fourteen.
+  (b) A taxpayer shall be required in a taxable year beginning on or
+after January first, two thousand fifteen, to recapture all or a portion
+of a credit allowed under a credit provision in section two hundred ten
+or article thirty-two of this chapter for a taxable year beginning prior
+to January first, two thousand fifteen if recapture would have been
+required under such credit provision.
+  ** 47. Musical and theatrical production credit. (a) Allowance of
+credit. A taxpayer who is eligible pursuant to section twenty-four-a of
+this chapter shall be allowed a credit to be computed as provided in
+such section against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of this
+section. Provided, however, that if the amount of the credit allowable
+under this subdivision for any taxable year reduces the tax to such
+amount, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, further, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  ** NB Repealed March 31, 2018
+  ** 48. Workers with disabilities tax credit. (a) A qualified employer,
+as defined in paragraph one of subdivision (b) of section twenty-five-b
+of the labor law, shall be entitled to a credit against the tax imposed
+by this article. The amount of the credit shall be: fifteen percent of
+the qualified wages paid after January first, two thousand fifteen to a
+qualified full-time employee who is employed for not less than six
+months and who works at least thirty hours per week; and shall be ten
+percent of the qualified wages paid after January first, two thousand
+fifteen to a qualified part-time employee who is employed for not less
+than six months and works at least eight hours per week. The credit
+allowed pursuant to this subdivision shall not exceed, during any
+taxable year, five thousand dollars for any qualified full time employee
+and two thousand five hundred dollars for any qualified part time
+employee. "Qualified wages" means wages paid or incurred by the
+qualified employer during the taxable year to a qualified employee which
+are attributable, with respect to such employee, to services rendered by
+the qualified employee.
+  (b) Carryover. The credit allowed under this subdivision for any
+taxable year shall not reduce the tax due for such year to less than the
+amount prescribed in paragraph (d) of subdivision one of this section.
+However, if the amount of credit allowable under this subdivision for
+any taxable year reduces the tax to such amount, any amount of credit
+not deductible in such taxable year may be carried over to the following
+three years, and may be deducted from the qualified employer's tax for
+such years.
+  (c) The taxpayer shall attach to its tax return its final certificate
+of eligibility issued by the commissioner of labor pursuant to section
+twenty-five-b of the labor law for each taxable year that the credit is
+claimed. In no event shall the taxpayer be allowed a credit greater than
+the amount of the credit listed on the final certificate of eligibility.
+Notwithstanding any provision of this chapter to the contrary, the
+commissioner and the commissioner's designees may release the names and
+addresses of any taxpayer claiming this credit and the amount of the
+credit earned by the taxpayer.
+  (d) A qualified employer may not claim the workers with disabilities
+tax credit if it claims any of the other credits for employment of
+persons with disabilities under either subsection (o) of section six
+hundred six, subdivision twelve of this section, or subdivision (j) of
+section fifteen hundred eleven of this chapter.
+  ** NB Repealed January 1, 2020
+  * NB Effective January 1, 2015
+```

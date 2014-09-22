@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 242", "kind": "section", "law_id": "GBS", "location_id": "242", "path": "ARTICLE 14 › SECTION 242", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/242.md", "title": "Possession and exhibition of license certificate"} -->
+# General Business Law § 242 — Possession and exhibition of license certificate
+
+[General Business Law](../README.md) › [Article 14 — Aircraft](README.md)
+
+```text
+  § 242. Possession and exhibition of license certificate. The
+certificate of the license required by the preceding section shall be
+kept in the personal possession of the licensee when he is operating
+aircraft within this state and must be presented for inspection upon the
+demand of any passenger, any peace officer of this state, acting
+pursuant to his special duties, police officer of this state, or any
+official, manager or person in charge of any airport or landing field in
+this state upon which he shall land.
+```

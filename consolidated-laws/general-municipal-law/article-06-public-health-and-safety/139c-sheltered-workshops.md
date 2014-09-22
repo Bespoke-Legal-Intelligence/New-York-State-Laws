@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 139-C", "kind": "section", "law_id": "GMU", "location_id": "139-C", "path": "ARTICLE 6 › SECTION 139-C", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/139-C.md", "title": "Sheltered workshops"} -->
+# General Municipal Law § 139-C — Sheltered workshops
+
+[General Municipal Law](../README.md) › [Article 6 — Public Health and Safety](README.md)
+
+```text
+  § 139-c. Sheltered workshops. Any municipal corporation may equip and
+maintain sheltered workshops established by any non-profit organization
+chartered by the board of regents and approved by the state education
+department for the purpose of providing suitable training and retraining
+for work for persons who, because of age, chronic physical illness or
+impairments, cannot find training, retraining or remunerative work
+elsewhere. The state education department shall make such rules and
+regulations for the operation and use of such sheltered workshops as may
+be necessary to carry out the purposes of this act, except that such
+rules and regulations shall not contravene rules and regulations to be
+made by the department of labor with regard to wages, hours of work,
+conditions of work and other matters now under the jurisdiction of such
+department.
+```

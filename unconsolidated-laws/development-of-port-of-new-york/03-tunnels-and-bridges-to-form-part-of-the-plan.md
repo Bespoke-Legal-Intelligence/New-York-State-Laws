@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Development of Port of New York § 3", "kind": "section", "law_id": "DPN", "location_id": "3", "path": "SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:DPN/3.md", "title": "Tunnels and bridges to form part of the plan"} -->
+# Development of Port of New York § 3 — Tunnels and bridges to form part of the plan
+
+[Development of Port of New York](README.md)
+
+```text
+  § 3. Tunnels and bridges to form part of the plan. (a) A tunnel or
+tunnels connecting the New Jersey shore and the Brooklyn shore of New
+York to provide through line connection between the transcontinental
+railroads now having their terminals in New Jersey with the Long Island
+railroad and the New York connecting railroad on Long Island and with
+the New York Central and Hudson River railroad and the New York, New
+Haven and Hartford railroad in the Bronx, and to provide continuous
+transportation of freight between the Queens, Brooklyn and Bronx
+sections of the port to and from all parts of the westerly section of
+the port, for all of the transcontinental railroads.
+  (b) A bridge and/or tunnel across or under the Arthur kill, and/or the
+existing bridge enlarged, to provide direct freight carriage between New
+Jersey and Staten Island.
+  (c) The location of all such tunnels or bridges to be at the shortest,
+most accessible and most economical points practicable, taking account
+of existing facilities now located within the port district and
+providing for and taking account of all reasonably foreseeable future
+growth in all parts of the district.
+```

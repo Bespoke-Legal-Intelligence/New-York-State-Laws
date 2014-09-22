@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Suffolk County Tax Act § 30", "kind": "section", "law_id": "SCT", "location_id": "30", "path": "ARTICLE 1 › SECTION 30", "repealed": false, "repealed_date": null, "source": "nys-laws:SCT/30.md", "title": "Readjustment and compromise by board of supervisors"} -->
+# Suffolk County Tax Act § 30 — Readjustment and compromise by board of supervisors
+
+[Suffolk County Tax Act](../README.md) › [Article 1 — Assessments; Collection of Tax By Collectors](README.md)
+
+```text
+  § 30. Readjustment and compromise by board of supervisors. The board
+of supervisors may in its discretion, upon application to it duly made
+and upon certificate of the assessor or assessors as hereinafter
+provided, compromise and authorize the receiver of taxes or county
+treasurer to accept in payment a lesser sum than the face amount
+including any penalty of any tax or assessment which is unpaid, when it
+shall be made to appear by such certificate of the assessor or assessors
+of the town or of the tax district in which the property is situated
+that such tax or assessment by reason of over valuation, double
+assessment, erroneous area or other error, which has not been otherwise
+corrected without fault of the person or corporation assessed, is
+erroneously or illegally assessed or levied or is in fact unjust or
+inequitable.
+  The board may fix a time within which the adjusted tax or assessment
+shall be paid without penalty. Any deficiency resulting from adjustment
+or compromise of any tax or assessment shall be charged back to the town
+wherein the error arose and be adjusted and apportioned in the same or
+next ensuing tax levy as shall be just according to the extent which
+such town or portion thereof benefited thereby in the same manner as
+provided by the tax law in the case of refund of a tax erroneously or
+illegally assessed or levied.
+```

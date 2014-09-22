@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 180", "kind": "section", "law_id": "RSS", "location_id": "180", "path": "ARTICLE 5 › SECTION 180", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/180.md", "title": "Construction"} -->
+# Retirement and Social Security Law § 180 — Construction
+
+[Retirement and Social Security Law](../README.md) › [Article 5 — Construction, Laws Repealed, Effective Date](README.md)
+
+```text
+  § 180. Construction.  a. An act of the legislature of the year
+nineteen hundred fifty-five or nineteen hundred fifty-six which, in
+form, amends or repeals or purports to amend or repeal any provision or
+provisions of the supplemental pension act or of article four, five or
+six of the civil service law, as in force immediately prior to July
+first, nineteen hundred fifty-six, shall be deemed and construed as an
+amendment or repeal, as the case may be, of the corresponding provision
+or provisions of such act or law, as contained in this act.
+  b. An act of the legislature of the year nineteen hundred fifty-five
+or nineteen hundred fifty-six which adds, or purports to add a new
+section, subdivision or other provision of law to the supplemental
+pension act or article four, five or six of the civil service law, as in
+force immediately prior to July first, nineteen hundred fifty-six, shall
+be deemed and construed as having been added to this act and shall be
+given full effect according to its context as if the same had been added
+expressly and in terms to this act and shall be deemed and construed to
+have been inserted in this act in the appropriate position in regard to
+and as modifying the effect of the corresponding provision or provisions
+of this act.
+```

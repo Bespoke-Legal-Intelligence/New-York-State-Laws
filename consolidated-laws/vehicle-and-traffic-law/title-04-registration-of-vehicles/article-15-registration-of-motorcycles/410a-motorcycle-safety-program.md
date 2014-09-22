@@ -1,0 +1,52 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 410-A", "kind": "section", "law_id": "VAT", "location_id": "410-A", "path": "TITLE 4 › ARTICLE 15 › SECTION 410-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/410-A.md", "title": "Motorcycle safety program"} -->
+# Vehicle and Traffic Law § 410-A — Motorcycle safety program
+
+[Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 15 — Registration of Motorcycles](README.md)
+
+```text
+  § 410-a. Motorcycle safety program. 1. The commissioner shall
+establish and administer a motorcycle safety program which shall consist
+of approved motorcycle rider training courses, motorcycle course
+instructor training, program promotion, and public awareness. Approved
+rider training courses shall meet nationally recognized standards for
+motorcycle rider training courses, or standards for motorcycle rider
+safety programs which are approved by the department and are comparable
+to the standards of the motorcycle safety foundation's motorcycle rider
+safety program. Approved courses shall include at least eight hours of
+instruction in the actual operation of a motorcycle. Monies from the
+motorcycle safety fund established pursuant to section ninety-two-g of
+the state finance law shall be used for the establishment and
+implementation of this program.
+  2. The commissioner shall issue a request for proposals for the
+coordination of a motorcycle safety program which shall set requirements
+for the preparation of bids. The commissioner shall enter into a
+contract, for a period of five years, with a motorcycle rider training
+coordinating organization selected pursuant to such process. The
+contract shall be awarded following the consideration of factors which
+shall include, but not be limited to, the most favorable financial
+advantage for the state, the greatest utility to the motorcyclist, the
+comprehensiveness and effectiveness of such organization and its
+compatibility with the existing rider education programs. The motorcycle
+rider training coordination organization shall be subject to periodic
+reporting requirements established by the department outlining the
+administration and effectiveness of its program and an itemization of
+all motorcycle safety fund allocations. Such motorcycle rider training
+coordinating organization shall have at least three years experience in
+the administration of a statewide motorcycle rider education program,
+and have as its administrator an individual who has no financial or
+proprietary interest in a motorcycle training school or facility.
+  3. The motorcycle rider training coordinating organization shall
+submit to the commissioner for approval requests for advances pursuant
+to a contract and reimbursements from the motorcycle safety fund for
+equipment, operating and administrative costs and other expenses
+necessary to carry out the provisions of this section. The commissioner
+shall approve all such requests for expenditures that are in accordance
+with the provisions of this section.
+  4. The commissioner shall annually file a report on expenditures from
+the motorcycle safety fund, established pursuant to section ninety-two-g
+of the state finance law, with the legislature. Such report shall
+include the name of the funded motorcycle rider training coordinating
+organization and the amount of funds distributed to it and shall provide
+an evaluation of the overall effectiveness of the funded programs and
+any recommendations for programmatic changes.
+```

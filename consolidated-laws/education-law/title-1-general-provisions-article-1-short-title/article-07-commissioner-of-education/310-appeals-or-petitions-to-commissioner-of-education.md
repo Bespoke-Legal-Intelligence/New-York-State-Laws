@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Education Law § 310", "kind": "section", "law_id": "EDN", "location_id": "310", "path": "TITLE 1 › ARTICLE 7 › SECTION 310", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/310.md", "title": "Appeals or petitions to commissioner of education and other proceedings"} -->
+# Education Law § 310 — Appeals or petitions to commissioner of education and other proceedings
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 7 — Commissioner of Education](README.md)
+
+```text
+  § 310. Appeals or petitions to commissioner of education and other
+proceedings.  Any party conceiving himself aggrieved may appeal by
+petition to the commissioner of education who is hereby authorized and
+required to examine and decide the same; and the commissioner of
+education may also institute such proceedings as are authorized under
+this article. The petition may be made in consequence of any action:
+  1. By any school district meeting.
+  2. By any district superintendent and other officers, in forming or
+altering, or refusing to form or alter, any school district, or in
+refusing to apportion any school moneys to any such district or part of
+a district.
+  3. By a county treasurer or other distributing agent in refusing to
+pay any such moneys to any such district.
+  4. By the trustees of any district in paying or refusing to pay any
+teacher, or in refusing to admit any scholar gratuitously into any
+school or on any other matter upon which they may or do officially act.
+  5. By any trustees of any school library concerning such library, or
+the books therein, or the use of such books.
+  6. By any district meeting in relation to the library or any other
+matter pertaining to the affairs of the district.
+  6-a. By a principal, teacher, owner or other person in charge of any
+school in denying a child admission to, or continued attendance at, such
+school for lack of proof of required immunizations in accordance with
+section twenty-one hundred sixty-four of the public health law.
+  7. By any other official act or decision of any officer, school
+authorities, or meetings concerning any other matter under this chapter,
+or any other act pertaining to common schools.
+```

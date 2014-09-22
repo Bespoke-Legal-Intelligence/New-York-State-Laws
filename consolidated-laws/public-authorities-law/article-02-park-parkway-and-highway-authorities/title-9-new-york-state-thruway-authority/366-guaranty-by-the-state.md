@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 366", "kind": "section", "law_id": "PBA", "location_id": "366", "path": "ARTICLE 2 › TITLE 9 › SECTION 366", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/366.md", "title": "Guaranty by the state"} -->
+# Public Authorities Law § 366 — Guaranty by the state
+
+[Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
+
+```text
+  § 366. Guaranty by the state. 1. To the extent authorized by the
+constitution at the time of the issuance of notes or bonds, the punctual
+payment of the notes and bonds shall be, and the same hereby is, fully
+and unconditionally guaranteed by the state, both as to principal and
+interest, according to their terms; and such guaranty shall be expressed
+upon the face thereof by the signature or facsimile signature of the
+comptroller or a deputy comptroller. In the event that the authority
+shall fail to pay when due, the principal of, or interest on, the notes
+or bonds, the comptroller shall pay the holder thereof, and thereupon
+the state shall be subrogated to the rights of the noteholders or
+bondholders so paid.
+  2. The authority shall have power to issue notes and bonds without the
+guaranty of the state and may issue such notes or bonds before and after
+the issuance of notes or bonds so guaranteed.
+  3. When guaranteed notes or guaranteed bonds are outstanding, notes or
+bonds secured by a pledge of receipts or revenues having priority over
+such outstanding guaranteed notes or guaranteed bonds shall not be
+issued, except with the consent of the comptroller, and unless the
+authority shall by resolution first find and determine that,
+notwithstanding such pledge, the authority will have adequate means to
+meet its obligations to the holders of such outstanding guaranteed notes
+or bonds.
+  4. When notes or bonds are outstanding secured by a pledge of receipts
+or revenues, guaranteed notes or bonds either unsecured, or secured by a
+pledge of receipts or revenues subordinate to the pledge securing such
+outstanding notes or bonds, shall not be issued unless the authority
+shall first find and determine by resolution that notwithstanding the
+pledge securing such outstanding notes or bonds, the authority will have
+adequate means to meet its obligations on the guaranteed notes or bonds
+about to be issued.
+```

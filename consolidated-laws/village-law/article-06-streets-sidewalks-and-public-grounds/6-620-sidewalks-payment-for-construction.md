@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Village Law § 6-620", "kind": "section", "law_id": "VIL", "location_id": "6-620", "path": "ARTICLE 6 › SECTION 6-620", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/6-620.md", "title": "Sidewalks, payment for construction"} -->
+# Village Law § 6-620 — Sidewalks, payment for construction
+
+[Village Law](../README.md) › [Article 6 — Streets, Sidewalks and Public Grounds](README.md)
+
+```text
+  § 6-620 Sidewalks, payment for construction. Whenever the owner or
+occupant of lands adjoining a street constructs along such street a
+sidewalk of stone, cement, brick or other similar materials to be
+approved by the board of trustees, and the board consents to bear a
+portion of the expense of construction thereof, the board of trustees
+may pay to such owner or occupant a sum to be fixed by the board of
+trustees not exceeding one-half of the actual and necessary expense of
+constructing such sidewalk. Before the board of trustees shall so
+consent to bear a portion of the expense of construction of any such
+sidewalk, it shall fix the proportionate amount that shall be paid by
+the village for all walks of the same kind which may thereafter, with
+such consent, be constructed therein; and such proportionate amount may
+be changed from time to time thereafter by the board of trustees, but at
+no time within one year from the date of the last fixing or changing
+thereof.
+```

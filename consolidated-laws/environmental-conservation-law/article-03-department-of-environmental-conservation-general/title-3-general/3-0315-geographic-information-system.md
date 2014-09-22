@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 3-0315", "kind": "section", "law_id": "ENV", "location_id": "3-0315", "path": "ARTICLE 3 › TITLE 3 › SECTION 3-0315", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/3-0315.md", "title": "Geographic information system"} -->
+# Environmental Conservation Law § 3-0315 — Geographic information system
+
+[Environmental Conservation Law](../../README.md) › [Article 3 — Department of Environmental Conservation; General Functions, Powers, Duties and Jurisdiction](../README.md) › [Title 3 — General Functions, Powers, Duties and Jurisdiction](README.md)
+
+```text
+§ 3-0315. Geographic information system.
+  1. The department shall create or modify an existing geographic
+information system, and maintain such system for purposes including, but
+not limited to, incorporating information from remedial programs under
+its jurisdiction, and shall also incorporate information from the source
+water assessment program collected by the department of health, data
+from annual water supply statements prepared pursuant to section eleven
+hundred fifty-one of the public health law, information from the
+database pursuant to title fourteen of article twenty-seven of this
+chapter, and any other existing data regarding soil and groundwater
+contamination currently gathered by the department, as well as data on
+contamination that is readily available from the United States
+geological survey and other sources determined appropriate by the
+department.
+  2. The department shall make reasonable efforts to include additional
+data, including data from well logs currently required to be filed with
+the department pursuant to section 15-1525 of this chapter.
+  3. Parties required to submit data pursuant to any reporting
+requirements set forth in this section shall, upon request of the
+department, submit such data in an electronic format acceptable to the
+department.
+```

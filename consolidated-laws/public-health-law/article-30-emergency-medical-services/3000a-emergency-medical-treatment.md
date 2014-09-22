@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3000-A", "kind": "section", "law_id": "PBH", "location_id": "3000-A", "path": "ARTICLE 30 › SECTION 3000-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3000-A.md", "title": "Emergency medical treatment"} -->
+# Public Health Law § 3000-A — Emergency medical treatment
+
+[Public Health Law](../README.md) › [Article 30 — Emergency Medical Services](README.md)
+
+```text
+  § 3000-a. Emergency medical treatment. 1. Except as provided in
+subdivision six of section six thousand six hundred eleven, subdivision
+two of section six thousand five hundred twenty-seven, subdivision one
+of section six thousand nine hundred nine and sections six thousand five
+hundred forty-seven and six thousand seven hundred thirty-seven of the
+education law, any person who voluntarily and without expectation of
+monetary compensation renders first aid or emergency treatment at the
+scene of an accident or other emergency outside a hospital, doctor's
+office or any other place having proper and necessary medical equipment,
+to a person who is unconscious, ill, or injured, shall not be liable for
+damages for injuries alleged to have been sustained by such person or
+for damages for the death of such person alleged to have occurred by
+reason of an act or omission in the rendering of such emergency
+treatment unless it is established that such injuries were or such death
+was caused by gross negligence on the part of such person. Nothing in
+this section shall be deemed or construed to relieve a licensed
+physician, dentist, nurse, physical therapist or registered physician's
+assistant from liability for damages for injuries or death caused by an
+act or omission on the part of such person while rendering professional
+services in the normal and ordinary course of his or her practice.
+  2. (i) Any person who, or entity, partnership, corporation, firm or
+society that, purchases, operates, facilitates implementation or makes
+available resuscitation equipment that facilitates first aid, an
+automated external defibrillator or an epinephrine auto-injector device
+as required by or pursuant to law or local law, or (ii) an emergency
+health care provider under a collaborative agreement pursuant to section
+three thousand-b of this article with respect to an automated external
+defibrillator, or (iii) the emergency health care provider with a
+collaborative agreement under section three thousand-c of this article
+with respect to use of an epinephrine auto-injector device, shall not be
+liable for damages arising either from the use of that equipment by a
+person who voluntarily and without expectation of monetary compensation
+renders first aid or emergency treatment at the scene of an accident or
+medical emergency, or from the use of defectively manufactured
+equipment; provided that this subdivision shall not limit the person's
+or entity's, partnership's, corporation's, firm's, society's or the
+emergency health care provider's liability for his, her or its own
+negligence, gross negligence or intentional misconduct.
+```

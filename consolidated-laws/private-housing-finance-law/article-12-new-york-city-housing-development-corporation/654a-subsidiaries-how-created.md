@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 654-A", "kind": "section", "law_id": "PVH", "location_id": "654-A", "path": "ARTICLE 12 › SECTION 654-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/654-A.md", "title": "Subsidiaries; how created"} -->
+# Private Housing Finance Law § 654-A — Subsidiaries; how created
+
+[Private Housing Finance Law](../README.md) › [Article 12 — New York City Housing Development Corporation](README.md)
+
+```text
+  § 654-a. Subsidiaries; how created. 1. The corporation by resolution
+may direct any of its members, officers or employees to organize a
+subsidiary corporation whenever, in the sole discretion of the
+corporation, it has become necessary to acquire a project in the case of
+sale under foreclosure or in lieu of foreclosure and it is beneficial to
+effectuate the purpose of this chapter for the subsidiary to hold title
+to the project.
+  2. Each such subsidiary corporation shall be wholly owned by the
+corporation and shall be organized pursuant to the business corporation
+law, the not-for-profit corporation law or article two or article eleven
+of this chapter.
+  3. The corporation may transfer to any subsidiary corporation any
+money, real or personal or mixed property or may convey to it any
+project in order to carry out the purposes of this article. Each such
+subsidiary corporation shall have all the privileges, immunities, tax
+exemptions and other exemptions of the corporation to the extent the
+same are not inconsistent with the statute or statutes pursuant to which
+such subsidiary was incorporated. Except as may be inconsistent with the
+provisions of this article, such subsidiary, if organized pursuant to
+article two or article eleven of this chapter, shall have all the rights
+and powers granted to housing companies by this chapter and by any other
+statute pursuant to which such subsidiary corporation was organized.
+  4. No member or officer of the corporation shall receive any
+additional compensation, either direct or indirect, other than
+reimbursement for actual and necessary expenses incurred in the
+performance of such person's duties, by reason of such person's serving
+as a member, director, trustee or officer of any subsidiary corporation.
+```

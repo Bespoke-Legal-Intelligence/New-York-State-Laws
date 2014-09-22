@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 187-D", "kind": "section", "law_id": "TAX", "location_id": "187-D", "path": "ARTICLE 9 › SECTION 187-D", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-D.md", "title": "Green building credit"} -->
+# Tax Law § 187-D — Green building credit
+
+[Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+```text
+  *§ 187-d. Green building credit. 1. Allowance of credit. A taxpayer
+shall be allowed a credit, to be computed as provided in section
+nineteen of this chapter, against the taxes imposed by sections one
+hundred eighty-three, one hundred eighty-four, one hundred eighty-five
+and one hundred eighty-six of this article. Provided, however, that the
+amount of such credit allowable against the tax imposed by section one
+hundred eighty-four of this article shall be the excess of the amount of
+such credit over the amount of any credit allowed by this section
+against the tax imposed by section one hundred eighty-three of this
+article.
+  2. Carryovers. In no event shall the credit under this section be
+allowed in an amount which will reduce the tax payable to less than the
+applicable minimum tax fixed by section one hundred eighty-three, one
+hundred eighty-five or one hundred eighty-six of this article. If,
+however, the amount of credit allowable under this section for any
+taxable year reduces the tax to such amount, any amount of credit not
+deductible in such taxable year may be carried over to the following
+year or years and may be deducted from the taxpayer's tax for such year
+or years.
+  * NB Effective until January 1, 2018
+  * § 187-d. Green building credit. 1. Allowance of credit. A taxpayer
+shall be allowed a credit, to be computed as provided in section
+nineteen of this chapter, against the taxes imposed by sections one
+hundred eighty-three, one hundred eighty-four and former section one
+hundred eighty-six of this article. Provided, however, that the amount
+of such credit allowable against the tax imposed by section one hundred
+eighty-four of this article shall be the excess of the amount of such
+credit over the amount of any credit allowed by this section against the
+tax imposed by section one hundred eighty-three of this article.
+  2. Carryovers. In no event shall the credit under this section be
+allowed in an amount which will reduce the tax payable to less than the
+applicable minimum tax fixed by section one hundred eighty-three or
+former section one hundred eighty-six of this article. If, however, the
+amount of credit allowable under this section for any taxable year
+reduces the tax to such amount, any amount of credit not deductible in
+such taxable year may be carried over to the following year or years and
+may be deducted from the taxpayer's tax for such year or years.
+  * NB Effective January 1, 2018
+```

@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 311-A", "kind": "section", "law_id": "EXC", "location_id": "311-A", "path": "ARTICLE 15-A › SECTION 311-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/311-A.md", "title": "Minority and women-owned business enterprise statewide advocate"} -->
+# Executive Law § 311-A — Minority and women-owned business enterprise statewide advocate
+
+[Executive Law](../README.md) › [Article 15-A — Participation By Minority Group Members and Women With Respect to State Contracts](README.md)
+
+```text
+  * § 311-a. Minority and women-owned business enterprise statewide
+advocate. 1. There is hereby established within the department of
+economic development an office of the minority and women-owned business
+enterprise statewide advocate. The statewide advocate shall be appointed
+by the commissioner with the advice of the small business advisory board
+as established in section one hundred thirty-three of the economic
+development law and shall serve in the unclassified service of the
+director. The statewide advocate shall be located in the Albany empire
+state development office.
+  2. The advocate shall act as a liaison for minority and women-owned
+business enterprises (MWBEs) to assist them in obtaining technical,
+managerial, financial and other business assistance for certified
+businesses and applicants. The advocate shall investigate complaints
+brought by or on behalf of MWBEs concerning certification delays and
+instances of violations of law by state agencies. The statewide advocate
+shall assist certified businesses and applicants in the certification
+process. Other functions of the statewide advocate shall be directed by
+the commissioner. The advocate may request and the director may appoint
+staff and employees of the division of minority and women business
+development to support the administration of the office of the statewide
+advocate.
+  3. The statewide advocate shall establish a toll-free number at the
+department of economic development to be used to answer questions
+concerning the MWBE certification process.
+  4. The statewide advocate shall report to the director and
+commissioner by November fifteenth on an annual basis on all activities
+related to fulfilling the obligations of the office of the statewide
+advocate. The commissioner shall include the unedited text of the
+statewide advocate's report within the reports submitted by the
+department of economic development to the governor and the legislature.
+  * NB Expires December 31, 2016
+```

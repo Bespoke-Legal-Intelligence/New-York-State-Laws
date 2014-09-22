@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1601", "kind": "section", "law_id": "GOB", "location_id": "5-1601", "path": "ARTICLE 5 › TITLE 16 › SECTION 5-1601", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1601.md", "title": "Definitions"} -->
+# General Obligations Law § 5-1601 — Definitions
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 16 — Continuity of Contract](README.md)
+
+```text
+  § 5-1601. Definitions. As used in this title the following terms shall
+have the following meanings:
+  1. "Euro" shall mean the currency of participating member states of
+the European Union that adopt a single currency in accordance with the
+treaty on European Union signed February seventh, nineteen hundred
+ninety-two.
+  2. "Introduction of the euro" shall mean and include the
+implementation from time to time of economic and monetary union in
+member states of the European Union in accordance with the treaty on
+European Union signed February seventh, nineteen hundred ninety-two.
+  3. "ECU" or "European Currency Unit" shall mean the currency basket
+that is from time to time used as the unit of account of the European
+Community as defined in European Council Regulation No.  3320/94. When
+the euro first becomes the monetary unit of participating member states
+of the European Union, references to the ECU in a contract, security or
+instrument that also refers to such definition of the ECU shall be
+replaced by references to the euro at a rate of one euro to one ECU.
+References to the ECU in a contract, security or instrument without such
+a definition of the ECU shall be presumed, unless either demonstrated or
+proven to the contrary by the intention of the parties, to be references
+to the currency basket that is from time to time used as the unit of
+account of the European Community.
+```

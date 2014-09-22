@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Buildings Law § 82", "kind": "section", "law_id": "PBB", "location_id": "82", "path": "ARTICLE 4-C › SECTION 82", "repealed": false, "repealed_date": null, "source": "nys-laws:PBB/82.md", "title": "Applicability"} -->
+# Public Buildings Law § 82 — Applicability
+
+[Public Buildings Law](../README.md) › [Article 4-C — State Green Building Construction Act](README.md)
+
+```text
+  § 82. Applicability. This article shall apply to the construction of
+new buildings and the substantial renovation of existing buildings,
+except that this article shall not apply in the following circumstances:
+1. an existing building that has a historic status pursuant to federal,
+state or local law and compliance with construction requirements and
+procedures established pursuant to this article would alter the historic
+character of such building;
+  2. in the case of a substantial renovation, compliance with
+construction requirements and procedures established pursuant to this
+article would not be cost effective over the useful life of such
+renovation as determined pursuant to regulations promulgated pursuant to
+this article;
+  3. compliance with this article or with construction requirements and
+procedures established pursuant to this article would be inconsistent
+with or violate federal or state law;
+  4. such other circumstances as the office may reasonably determine
+pursuant to regulations to not be appropriate for the application of the
+construction requirements and procedures adopted pursuant to this
+article; or
+  5. the design or planning process for such new construction or
+substantial renovation has substantially commenced, as defined by the
+office in regulations, as of the effective date of the regulations
+promulgated by the office pursuant to this article; provided however,
+that whenever subdivision one, two, three or four applies, the
+construction requirements and procedures shall be integrated into the
+design and construction of the project to the maximum extent
+practicable.
+```

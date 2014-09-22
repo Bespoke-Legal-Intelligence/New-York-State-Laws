@@ -1,0 +1,689 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4403-F", "kind": "section", "law_id": "PBH", "location_id": "4403-F", "path": "ARTICLE 44 › SECTION 4403-F", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4403-F.md", "title": "Managed long term care plans"} -->
+# Public Health Law § 4403-F — Managed long term care plans
+
+[Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
+
+```text
+  * § 4403-f. Managed long term care plans. 1. Definitions. As used in
+this section:
+  (a) "Managed long term care plan" means an entity that has received a
+certificate of authority pursuant to this section to provide, or arrange
+for, health and long term care services, on a capitated basis in
+accordance with this section, for a population, age eighteen and over,
+which the plan is authorized to enroll.
+  (b) "Eligible applicant" means an entity controlled or wholly owned by
+one or more of the following: a hospital as defined in subdivision one
+of section twenty-eight hundred one of this chapter; a home care agency
+licensed or certified pursuant to article thirty-six of this chapter; an
+entity that has received a certificate of authority pursuant to sections
+forty-four hundred three, forty-four hundred three-a or forty-four
+hundred eight-a of this article (as added by chapter six hundred
+thirty-nine of the laws of nineteen hundred ninety-six), or a health
+maintenance organization authorized under article forty-three of the
+insurance law; or a not-for-profit organization which has a history of
+providing or coordinating health care services and long term care
+services to the elderly and disabled.
+  (c) "Operating demonstration" means the following entities: the
+chronic care management demonstration programs authorized by chapter
+five hundred thirty of the laws of nineteen hundred eighty-eight,
+chapter five hundred ninety-seven of the laws of nineteen hundred
+ninety-four and chapter eighty-one of the laws of nineteen hundred
+ninety-five as amended.
+  (d) "Health and long term care services" means services including, but
+not limited to home and community-based and institution-based long term
+care and ancillary services (that shall include medical supplies and
+nutritional supplements) that are necessary to meet the needs of persons
+whom the plan is authorized to enroll. The managed long term care plan
+may also cover primary care and acute care if so authorized.
+  2. Certificate of authority; form. An eligible applicant shall submit
+an application for a certificate of authority to operate a managed long
+term care plan upon forms prescribed by the commissioner. Such eligible
+applicant shall submit information and documentation to the commissioner
+which shall include, but not be limited to:
+  (a) a description of the service area proposed to be served by the
+plan with projections of enrollment that will result in a fiscally sound
+plan;
+  (b) a description of the proposed target population and the marketing
+plan;
+  (c) adequate documentation of the appropriate licenses, certifications
+or approvals to provide care as planned, including contracts with such
+providers as may be necessary to provide the full complement of services
+required to be provided under this section.
+  3. Certificate of authority; approval. The commissioner shall not
+approve an application for a certificate of authority unless the
+applicant demonstrates to the commissioner's satisfaction:
+  (a) that it will have in place acceptable quality-assurance
+mechanisms, grievance procedures, mechanisms to protect the rights of
+enrollees and case management services to ensure continuity, quality,
+appropriateness and coordination of care;
+  (b) that it will include an enrollment process which shall ensure that
+enrollment in the plan is informed. The application shall describe the
+disenrollment process, which shall provide that an otherwise eligible
+enrollee shall not be involuntarily disenrolled on the basis of health
+status;
+  (c) satisfactory evidence of the character and competence of the
+proposed operators and reasonable assurance that the applicant will
+provide high quality services to an enrolled population;
+  (d) sufficient management systems capacity to meet the requirements of
+this section and the ability to efficiently process payment for covered
+services;
+  (e) readiness and capability to maximize reimbursement of and
+coordinate services reimbursed pursuant to title XVIII of the federal
+social security act and all other applicable benefits, with such benefit
+coordination including, but not limited to, measures to support sound
+clinical decisions, reduce administrative complexity, coordinate access
+to services, maximize benefits available pursuant to such title and
+ensure that necessary care is provided;
+  (f) readiness and capability to arrange and manage covered services
+and coordinate non-covered services which could include primary,
+specialty, and acute care services reimbursed pursuant to title XIX of
+the federal social security act;
+  (g) willingness and capability of taking, or cooperating in, all steps
+necessary to secure and integrate any potential sources of funding for
+services provided by the managed long term care plan, including, but not
+limited to, funding available under titles XVI, XVIII, XIX and XX of the
+federal social security act, the federal older Americans act of nineteen
+hundred sixty-five, as amended, or any successor provisions subject to
+approval of the director of the state office for aging, and through
+financing options such as those authorized pursuant to section three
+hundred sixty-seven-f of the social services law;
+  (h) that the contractual arrangements for providers of health and long
+term care services in the benefit package are sufficient to ensure the
+availability and accessibility of such services to the proposed enrolled
+population consistent with guidelines established by the commissioner;
+with respect to individuals in receipt of such services prior to
+enrollment, such guidelines shall require the managed long term care
+plan to contract with agencies currently providing such services, in
+order to promote continuity of care. In addition, such guidelines shall
+require managed long term care plans to offer and cover consumer
+directed personal assistance services for eligible individuals who elect
+such services pursuant to section three hundred sixty-five-f of the
+social services law; and
+  (i) that the applicant is financially responsible and may be expected
+to meet its obligations to its enrolled members.
+  4. Solvency. (a) The commissioner shall be responsible for evaluating,
+approving and regulating all matters relating to fiscal solvency,
+including reserves, surplus and provider contracts. The commissioner may
+promulgate regulations to implement this section. The commissioner, in
+the administration of this subdivision:
+  (i) shall be guided by the standards which govern the fiscal solvency
+of a health maintenance organization, provided, however, that the
+commissioner shall recognize the specific delivery components,
+operational capacity and financial capability of the eligible applicant
+for a certificate of authority;
+  (ii) shall not apply financial solvency standards that exceed those
+required for a health maintenance organization; and
+  (iii) shall establish reasonable capitalization and contingent reserve
+requirements.
+  (b) Standards established pursuant to this subdivision shall be
+adequate to protect the interests of enrollees in managed long term care
+plans.  The commissioner shall be satisfied that the eligible applicant
+is financially sound, and has made adequate provisions to pay for
+services.
+  4-a. Role of the superintendent of financial services. (a) The
+superintendent of financial services shall determine and approve
+premiums in accordance with the insurance law whenever any population of
+enrollees not eligible under title XIX of the federal social security
+act is to be covered. The determination and approval of the
+superintendent of financial services shall relate to premiums charged to
+such enrollees not eligible under title XIX of the federal social
+security act.
+  (b) The superintendent of financial services shall evaluate and
+approve any enrollee contracts whenever such enrollee contracts are to
+cover any population of enrollees not eligible under title XIX of the
+federal social security act.
+  5. Applicability of other laws. A managed long term care plan shall be
+subject to the provisions of the insurance law and regulations
+applicable to health maintenance organizations, this article and
+regulations promulgated pursuant thereto. To the extent that the
+provisions of this section are inconsistent with the provisions of this
+chapter or the provisions of the insurance law, the provisions of this
+section shall prevail.
+  6. Approval authority. (a) An applicant shall be issued a certificate
+of authority as a managed long term care plan upon a determination by
+the commissioner that the applicant complies with the operating
+requirements for a managed long term care plan under this section. The
+commissioner shall issue no more than seventy-five certificates of
+authority to managed long term care plans pursuant to this section.
+  (b) An operating demonstration shall be issued a certificate of
+authority as a managed long term care plan upon a determination by the
+commissioner that such demonstration complies with the operating
+requirements for a managed long term care plan under this section.
+Nothing in this section shall be construed to affect the continued legal
+authority of an operating demonstration to operate its previously
+approved program.
+  (c) For the period beginning April first, two thousand twelve and
+ending March thirty-first, two thousand fifteen, the majority leader of
+the senate and the speaker of the assembly may each recommend to the
+commissioner, in writing, up to four eligible applicants to convert to
+be approved managed long term care plans. An applicant shall only be
+approved and issued a certificate of authority if the commissioner
+determines that the applicant meets the requirements of subdivision
+three of this section. The majority leader of the senate or the speaker
+of the assembly may assign their authority to recommend one or more
+applicants under this section to the commissioner.
+  7. Program oversight and administration. (a)(i) The commissioner shall
+promulgate regulations to implement this section and to ensure the
+quality, appropriateness and cost-effectiveness of the services provided
+by managed long term care plans. The commissioner may waive rules and
+regulations of the department, including but not limited to, those
+pertaining to duplicative requirements concerning record keeping, boards
+of directors, staffing and reporting, when such waiver will promote the
+efficient delivery of appropriate, quality, cost-effective services and
+when the health, safety and general welfare of enrollees will not be
+impaired as a result of such waiver. In order to achieve managed long
+term care plan system efficiencies and coordination and to promote the
+objectives of high quality, integrated and cost effective care, the
+commissioner may establish a single coordinated surveillance process,
+allow for a comprehensive quality improvement and review process to meet
+component quality requirements, and require a uniform cost report. The
+commissioner shall require managed long term care plans to utilize
+quality improvement measures, based on health outcomes data, for
+internal quality assessment processes and may utilize such measures as
+part of the single coordinated surveillance process.
+  (ii) Notwithstanding any inconsistent provision of the social services
+law to the contrary, the commissioner shall, pursuant to regulation,
+determine whether and the extent to which the applicable provisions of
+the social services law or regulations relating to approvals and
+authorizations of, and utilization limitations on, health and long term
+care services reimbursed pursuant to title XIX of the federal social
+security act, including, but not limited to, fiscal assessment
+requirements, are inconsistent with the flexibility necessary for the
+efficient administration of managed long term care plans and such
+regulations shall provide that such provisions shall not be applicable
+to enrollees or managed long term care plans, provided that such
+determinations are consistent with applicable federal law and
+regulation, and subject to the provisions of subdivision eight of
+section three hundred sixty-five-a of the social services law.
+  * (b) (i) The commissioner shall, to the extent necessary, submit the
+appropriate waivers, including, but not limited to, those authorized
+pursuant to sections eleven hundred fifteen and nineteen hundred fifteen
+of the federal social security act, or successor provisions, and any
+other waivers necessary to achieve the purposes of high quality,
+integrated, and cost effective care and integrated financial eligibility
+policies under the medical assistance program or pursuant to title XVIII
+of the federal social security act. In addition, the commissioner is
+authorized to submit the appropriate waivers, including but not limited
+to those authorized pursuant to sections eleven hundred fifteen and
+nineteen hundred fifteen of the federal social security act or successor
+provisions, and any other waivers necessary to require on or after April
+first, two thousand twelve, medical assistance recipients who are
+twenty-one years of age or older and who require community-based long
+term care services, as specified by the commissioner, for more than one
+hundred and twenty days, to receive such services through an available
+plan certified pursuant to this section or other program model that
+meets guidelines specified by the commissioner that support coordination
+and integration of services. Such guidelines shall address the
+requirements of paragraphs (a), (b), (c), (d), (e), (f), (g), (h), and
+(i) of subdivision three of this section as well as payment methods that
+ensure provider accountability for cost effective quality outcomes. Such
+other program models may include long term home health care programs
+that comply with such guidelines. Copies of such original waiver
+applications and amendments thereto shall be provided to the chairs of
+the senate finance committee, the assembly ways and means committee and
+the senate and assembly health committees simultaneously with their
+submission to the federal government.
+  (ii) The commissioner, shall seek input from representatives of home
+and community-based long term care services providers, recipients, and
+the Medicaid managed care advisory review panel, among others, to
+further evaluate and promote the transition of persons in receipt of
+home and community-based long term care services into managed long term
+care plans and other care coordination models and to develop guidelines
+for such care coordination models. The guidelines shall be finalized and
+posted on the department's website no later than November fifteen, two
+thousand eleven.
+  (v) The following medical assistance recipients shall not be eligible
+to participate in a managed long term care program or other care
+coordination model established pursuant to this paragraph until program
+features and reimbursement rates are approved by the commissioner and,
+as applicable, the commissioner of developmental disabilities:
+  (1) a person enrolled in a managed care plan pursuant to section three
+hundred sixty-four-j of the social services law;
+  (2) a participant in the traumatic brain injury waiver program;
+  (3) a participant in the nursing home transition and diversion waiver
+program;
+  (4) a person enrolled in the assisted living program;
+  (5) a person enrolled in home and community based waiver programs
+administered by the office for people with developmental disabilities;
+  (6) a person who is expected to be eligible for medical assistance for
+less than six months, for a reason other than that the person is
+eligible for medical assistance only through the application of excess
+income toward the cost of medical care and services;
+  (7) a person who is eligible for medical assistance benefits only with
+respect to tuberculosis-related services;
+  (8) a person receiving hospice services at time of enrollment;
+provided, however, that this clause shall not be construed to require an
+individual enrolled in a managed long term care plan or another care
+coordination model, who subsequently elects hospice, to disenroll from
+such program;
+  (9) a person who has primary medical or health care coverage available
+from or under a third-party payor which may be maintained by payment, or
+part payment, of the premium or cost sharing amounts, when payment of
+such premium or cost sharing amounts would be cost-effective, as
+determined by the social services district;
+  (10) a person receiving family planning services pursuant to
+subparagraph six of paragraph (b) of subdivision one of section three
+hundred sixty-six of the social services law;
+  (11) a person who is eligible for medical assistance pursuant to
+paragraph (b) of subdivision four of section three hundred sixty-six of
+the social services law; and
+  (12) Native Americans.
+  (vi) persons required to enroll in the managed long term care program
+or other care coordination model established pursuant to this paragraph
+shall have no less than thirty days to select a managed long term care
+provider, and shall be provided with information to make an informed
+choice. Where a participant has not selected such a provider, the
+commissioner shall assign such participant to a managed long term care
+provider, taking into account quality, capacity and geographic
+accessibility.
+  (vii) Managed long term care provided and plans certified or other
+care coordination model established pursuant to this paragraph shall
+comply with the provisions of paragraphs (d), (i), (t), and (u) and
+subparagraph (iii) of paragraph (a) and subparagraph (iv) of paragraph
+(e) of subdivision four of section three hundred sixty-four-j of the
+social services law.
+  (viii) (1) The commissioner shall report biannually on the
+implementation of this subdivision. The reports shall include, but not
+be limited to:
+  (A) satisfaction of enrollees with care coordination/case management;
+timeliness of care;
+  (B) service utilization data including changes in the level, hours,
+frequency, and types of services and providers;
+  (C) enrollment data, including auto-assignment rates by plan;
+  (D) quality data; and
+  (E) continuity of care for participants as they move to managed long
+term care, with respect to community based and nursing home populations,
+including pediatric nursing home populations, and medically fragile
+children being served by home care agencies affiliated with pediatric
+nursing homes and diagnostic and treatment centers primarily serving
+medically fragile children.
+  (2) The commissioner shall publish the report on the department's
+website and provide notice to the temporary president of the senate, the
+speaker of the assembly, the chair of the senate standing committee on
+health, the chair of the assembly health committee and the Medicaid
+Managed Care Advisory Review Panel upon availability of the report. The
+initial report shall be provided by September first, two thousand
+twelve. The reports shall be made available by each February first, and
+September first thereafter. Such reports shall be formatted to allow
+comparisons between plans.
+  * NB Effective until April 1, 2015
+  * (b) The commissioner shall, to the extent necessary, submit the
+appropriate waivers, including, but not limited to, those authorized
+pursuant to sections eleven hundred fifteen and nineteen hundred fifteen
+of the federal social security act, or successor provisions, and any
+other waivers necessary to achieve the purposes of high quality,
+integrated, and cost effective care and integrated financial eligibility
+policies under the medical assistance program or pursuant to title XVIII
+of the federal social security act. Copies of such original waiver
+applications shall be provided to the chairman of the senate finance
+committee and the chairman of the assembly ways and means committee
+simultaneously with their submission to the federal government.
+  * NB Effective April 1, 2015
+  (c)(i) A managed long term care plan shall not use deceptive or
+coercive marketing methods to encourage participants to enroll. A
+managed long term care plan shall not distribute marketing materials to
+potential enrollees before such materials have been approved by the
+commissioner.
+  (ii) The commissioner shall ensure, through periodic reviews of
+managed long term care plans, that enrollment was an informed choice;
+such plan has only enrolled persons whom it is authorized to enroll, and
+plan services are promptly available to enrollees when appropriate. Such
+periodic reviews shall be made according to standards as determined by
+the commissioner in regulations.
+  (d) Notwithstanding any provision of law, rule or regulation to the
+contrary, the commissioner may issue a request for proposals to carry
+out reviews of enrollment and assessment activities in managed long term
+care plans and operating demonstrations with respect to enrollees
+eligible to receive services under title XIX of the federal social
+security act to determine if enrollment meets the requirements of
+subparagraph (ii) of paragraph (c) of this subdivision; and that
+assessments of such enrollees' health, functional and other status, for
+the purpose of adjusting premiums, were accurate.
+  (e) The commissioner may, in his or her discretion for the purpose of
+protection of enrollees, impose measures including, but not limited to,
+bans on further enrollments and requirements for use of enrollment
+brokers until any identified problems are resolved to the satisfaction
+of the commissioner.
+  (f) Continuation of a certificate of authority issued under this
+section shall be contingent upon satisfactory performance by the managed
+long term care plan in the delivery, continuity, accessibility, cost
+effectiveness and quality of the services to enrolled members;
+compliance with applicable provisions of this section and rules and
+regulations promulgated thereunder; the continuing fiscal solvency of
+the organization; and, federal financial participation in payments on
+behalf of enrollees who are eligible to receive services under title XIX
+of the federal social security act.
+  (g) * (i) Managed long term care plans and demonstrations may enroll
+eligible persons in the plan or demonstration upon the completion of a
+comprehensive assessment that shall include, but not be limited to, an
+evaluation of the medical, social and environmental needs of each
+prospective enrollee in such program. This assessment shall also serve
+as the basis for the development and provision of an appropriate plan of
+care for the enrollee. Upon approval of federal waivers pursuant to
+paragraph (b) of this subdivision which require medical assistance
+recipients who require community-based long term care services to enroll
+in a plan, and upon approval of the commissioner, a plan may enroll an
+applicant who is currently receiving home and community-based services
+and complete the comprehensive assessment within thirty days of
+enrollment provided that the plan continues to cover transitional care
+until such time as the assessment is completed.
+  * NB Effective until April 1, 2015
+  * (i) Managed long term care plans and demonstrations may enroll
+eligible persons in the plan or demonstration upon the completion of a
+comprehensive assessment that shall include, but not be limited to, an
+evaluation of the medical, social and environmental needs of each
+prospective enrollee in such program. This assessment shall also serve
+as the basis for the development and provision of an appropriate plan of
+care for the prospective enrollee.
+  * NB Effective April 1, 2015
+  (ii) The assessment shall be completed by a representative of the
+managed long term care plan or demonstration, in consultation with the
+prospective enrollee's health care practitioner as necessary. The
+commissioner shall prescribe the forms on which the assessment shall be
+made.
+  (iii) The enrollment application shall be submitted by the managed
+long term care plan or demonstration to the entity designated by the
+department prior to the commencement of services under the managed long
+term care plan or demonstration. Enrollments conducted by a plan or
+demonstration shall be subject to review and audit by the department or
+a contractor selected pursuant to paragraph (d) of this subdivision.
+  (iv) Continued enrollment in a managed long term care plan or
+demonstration paid for by government funds shall be based upon a
+comprehensive assessment of the medical, social and environmental needs
+of the recipient of the services. Such assessment shall be performed at
+least every six months by the managed long term care plan serving the
+enrollee. The commissioner shall prescribe the forms on which the
+assessment will be made.
+  (h) * The commissioner and, in the case of a plan arranging for or
+providing services operated, certified, funded, authorized or approved
+by the office for people with developmental disabilities, the
+commissioner of the office for people with developmental disabilities,
+shall, upon request by a managed long term care plan or operating
+demonstration, and consistent with federal regulations promulgated
+pursuant to the Health Insurance Portability and Accountability Act,
+share with such plan or demonstration the following data if it is
+available:
+  * NB Effective until September 30, 2019
+  * The commissioner shall, upon request by a managed long term care
+plan or operating demonstration, and consistent with federal regulations
+promulgated pursuant to the Health Insurance Portability and
+Accountability Act, share with such plan or demonstration the following
+data if it is available:
+  * NB Effective September 30, 2019
+  (i) information concerning utilization of services and providers by
+each of its enrollees prior to and during enrollment, including but not
+limited to utilization of emergency department services, prescription
+drugs, and hospital and nursing facility admissions.
+  (ii) aggregate data concerning utilization and costs for enrollees and
+for comparable cohorts served through the Medicaid fee-for-service
+program.
+  8. Payment rates for managed long term care plan enrollees eligible
+for medical assistance. The commissioner shall establish payment rates
+for services provided to enrollees eligible under title XIX of the
+federal social security act. Such payment rates shall be subject to
+approval by the director of the division of the budget and shall reflect
+savings to both state and local governments when compared to costs which
+would be incurred by such program if enrollees were to receive
+comparable health and long term care services on a fee-for-service basis
+in the geographic region in which such services are proposed to be
+provided. Payment rates shall be risk-adjusted to take into account the
+characteristics of enrollees, or proposed enrollees, including, but not
+limited to:  frailty, disability level, health and functional status,
+age, gender, the nature of services provided to such enrollees, and
+other factors as determined by the commissioner. The risk adjusted
+premiums may also be combined with disincentives or requirements
+designed to mitigate any incentives to obtain higher payment categories.
+  9. Reports. The department shall provide an interim report to the
+governor, temporary president of the senate and the speaker of the
+assembly on or before April first, two thousand three and a final report
+on or before April first, two thousand six on the results of the managed
+long term care plans under this section. Such results shall be based on
+data provided by the managed long term care plans and shall include but
+not be limited to the quality, accessibility and appropriateness of
+services; consumer satisfaction; the mean and distribution of impairment
+measures of the enrollees by payor for each plan; the current method of
+calculating premiums and the cost of comparable health and long term
+care services provided on a fee-for-service basis for enrollees eligible
+for services under title XIX of the federal social security act; and the
+results of periodic reviews of enrollment levels and practices. Such
+reports shall provide data on the demographic and clinical
+characteristics of enrollees, voluntary and involuntary disenrollments
+from plans, and utilization of services and shall examine the
+feasibility of increasing the number of plans that may be approved. Data
+collected pursuant to this section shall be available to the public in
+an aggregated format to protect individual confidentiality, however
+under no circumstance will data be released on items with cells with
+smaller than statistically acceptable standards.
+  10. Notwithstanding any inconsistent provision to the contrary, the
+enrollment and disenrollment process and services provided or arranged
+by all operating demonstrations or any program that receives designation
+as a Program of All-Inclusive Care for the Elderly (PACE) as authorized
+by federal public law 105-33, subtitle I of title IV of the Balanced
+Budget Act of 1997, must meet all applicable federal requirements.
+Services may include, but need not be limited to, housing, inpatient and
+outpatient hospital services, nursing home care, home health care, adult
+day care, assisted living services provided in accordance with article
+forty-six-B of this chapter, adult care facility services, enriched
+housing program services, hospice care, respite care, personal care,
+homemaker services, diagnostic laboratory services, therapeutic and
+diagnostic radiologic services, emergency services, emergency alarm
+systems, home delivered meals, physical adaptations to the client's
+home, physician care (including consultant and referral services),
+ancillary services, case management services, transportation, and
+related medical services.
+  11. The department shall develop transition and continuity of care
+policies for participants in home and community based long term care,
+including the long term home health care program, as they move to
+managed long term care plans addressing:
+  (a) a timetable and plan for implementation and transition by
+participants, plans and providers;
+  (b) informative disclosure of participants' options as to impending
+actions affecting or relating to the home care services they receive;
+  (c) reasonable opportunity for plans' and providers' good faith
+pursuit of contracts, program changes or state approvals relevant to
+plan implementation;
+  (d) notice that a participant with a previously established plan of
+care provided by a certified home health agency or long term home health
+care program, or provided pursuant to the personal care or consumer
+directed personal assistance service programs, may elect to have such
+care plan continued subject to the participant's next comprehensive
+assessment; and
+  (e) delineation of responsibilities for service delivery and care
+coordination, so as to avoid conflict, duplication and unnecessary
+disruption of direct care staffing for the patient, and maintain
+compliance with state and federal statute and regulation, including the
+provisions of this section, article thirty-six of this chapter and
+section three hundred sixty-five-f of the social services law.
+  In addition, the department shall provide technical assistance to long
+term home health care providers with contracting options under this
+section. The department shall work with affected stakeholders in the
+development of these policies.
+  11-a. In transitioning individuals to managed long term care, the
+department shall provide oversight of long term managed care by
+ensuring:
+  (a) participants are appropriately notified of the upcoming changes to
+their health care, and their rights and options;
+  (b) access to appropriate enrollment assistance, consumer assistance
+and complaint mechanisms;
+  (c) access to quality care by requiring network transparency and
+choice of long term care plans, allowing patients to choose the plan
+that best fits their needs;
+  (d) transparency and accountability from providers, which shall
+include a mechanism by which staff, participants and family members can
+confidentially report concerns relating to quality to the plan and the
+state;
+  (e) plans and providers are assessed periodically and data is
+published regarding enrollment in integrated care designs, network
+adequacy, new service designs, outcome measures, including the extent to
+which care plans are continued or altered based upon new comprehensive
+assessments, and the types and amounts of services health plans have
+authorized;
+  (f) mechanisms are in place to state oversight of enrollment and
+services to prevent waste and abuse in the managed long term care
+system; and
+  (g) incentives are provided for a variety of indicators, including but
+not limited to, smooth patient transitions, appropriate enrollment,
+quality care, high staff retention and positive health care outcomes
+achieved at a low cost.
+  ** 12. The commissioner may make any necessary amendments to a
+contract pursuant to this section with a managed long term care plan, as
+defined in paragraph (a) of subdivision one of this section, to allow
+such managed long term care plan to participate as a qualified health
+plan in a state health benefit exchange established pursuant to the
+federal Patient Protection and Affordable Care Act (P.L. 111-148), as
+amended by the federal Health Care and Education Reconciliation Act of
+2010 (P.L.  111-152).
+  ** NB There are 2 sb 12's
+  ** 12. Notwithstanding any provision to the contrary, a managed long
+term care plan may expand the services it provides or arranges for to
+include services operated, certified, funded, authorized or approved by
+the office for people with developmental disabilities for a population
+of persons with developmental disabilities, as such term is defined in
+the mental hygiene law, including habiltiation services as defined in
+paragraph (c) of subdivision one of section forty-four hundred three-g
+of this article, subject to the following:
+  (a) Such plan must have the ability to provide or coordinate services
+for persons with developmental disabilities as demonstrated by criteria
+to be determined by the commissioner and the commissioner of the office
+for people with developmental disabilities. Such criteria shall include,
+but not be limited to, adequate experience providing or coordinating
+services for persons with developmental disabilities;
+  (a-1) If the commissioner and the commissioner of the office for
+people with developmental disabilities determine that such plan lacks
+the experience required in paragraph (a) of this subdivision, the plan
+shall have an affiliation arrangement with an entity or entities with
+experience serving persons with developmental disabilities such that the
+affiliated entity will coordinate and plan services operated, certified,
+funded, authorized or approved by the office for people with
+developmental disabilities or will oversee and approve such coordination
+and planning;
+  (a-2) Each enrollee shall receive services designed to achieve
+person-centered outcomes, to enable that person to live in the most
+integrated setting appropriate to that person's needs, and to enable
+that person to interact with nondisabled persons to the fullest extent
+possible in social, workplace and other community settings, provided
+that all such services are consistent with such person's wishes to the
+extent that such wishes are known. With respect to an individual
+receiving non-residential services operated, certified, funded,
+authorized or approved by the office for people with developmental
+disabilities prior to enrollment in the plan, such guidelines shall
+require the plan to contract with the current provider of such
+non-residential services at the rates established by the office for
+ninety days in order to ensure continuity of care. With respect to an
+individual living in a residential facility operated or certified by the
+office for people with developmental disabilities prior to enrollment in
+the plan, the plan shall contract with the provider of residential
+services for that residence at the rates established by the office for
+people with developmental disabilities for so long as such individual
+lives in that residence pursuant to an approved plan of care;
+  (b) The provision by such plan of services operated, certified,
+funded, authorized or approved by the office for people with
+developmental disabilities shall be subject the joint oversight and
+review of both the department and the office for people with
+developmental disabilities.  The department and such office shall
+require such organization to provide comprehensive care planning, assess
+quality, meet quality assurance requirements and ensure the enrollee is
+involved in care planning;
+  (c) Such plan shall not provide or arrange for services operated,
+certified, funded, authorized or approved by the office for people with
+developmental disabilities until the commissioner and the commissioner
+of the office for people with developmental disabilities approve program
+features and rates that include such services, and determine that such
+organization meets the requirements of this subdivision and any other
+requirements set forth by the commissioner of the office for people with
+developmental disabilities;
+  (d) An otherwise eligible enrollee receiving services through the plan
+that are operated, certified, funded, authorized or approved by the
+office for people with developmental disabilities shall not be
+involuntarily disenrolled from such plan without the prior approval of
+the commissioner of the office for people with developmental
+disabilities. Notice shall be provided to the enrollee and the enrollee
+may request a fair hearing regarding such disenrollment;
+  (e) The office for people with developmental disabilities shall
+determine the eligibility of individuals receiving services operated,
+certified, funded, authorized or approved by such office to enroll in
+such plan and shall enroll individuals it determines eligible in a plan
+chosen by such individual, guardian or other legal representative;
+  (f) The office for people with developmental disabilities, or its
+designee, shall complete a comprehensive assessment for enrollees who
+receive services operated, certified, funded, authorized or approved by
+such office. This assessment shall include, but not be limited to, an
+evaluation of the medical, social, habilitative and environmental needs
+of each prospective enrollee as such needs relate to each individual's
+health, safety, living environment and wishes, to the extent that such
+wishes are known. This assessment shall also serve as the basis for the
+development and provision of an appropriate plan of care for the
+enrollee. Such plan of care shall be focused on the achievement of
+person-centered outcomes and shall be consistent with and help inform
+any other person-centered plan required for the enrollee by the
+commissioner of the office for people with developmental disabilities.
+The initial assessment shall be completed by such office or a designee
+other than the plan and shall be completed in consultation with the
+prospective enrollee's health care practitioner as necessary.
+Reassessments shall be completed by such office or its designee, which
+may be the managed long term care plan in which the person is enrolled
+or proposes to enroll. The commissioner of the office for people with
+developmental disabilities shall prescribe the forms on which the
+assessment shall be made.
+  (f-1) The plan shall provide the department and the office for people
+with developmental disabilities with a description of the proposed
+marketing plan and how marketing materials will be presented to persons
+with developmental disabilities or their authorized decision makers for
+the purposes of enabling them to make an informed choice.
+  (g) Plans providing services operated, certified, funded, authorized
+or approved by the office for people with developmental disabilities
+shall be subject to all requirements applicable to DISCOs operating
+under section forty-four hundred three-g of this article with respect to
+quality assurance, grievances and appeals, informed choice,
+participation in development of plans of care and requirements with
+respect to marketing, to the extent that such requirements are not
+inconsistent with this section.
+  (h) No person with a developmental disability shall be required to
+enroll in a managed long term care plan as a condition of receiving
+medical assistance and services operated, certified, funded, authorized
+or approved by the office for people with developmental disabilities
+until program features and reimbursement rates are approved by the
+commissioner and the commissioner of the office for people with
+developmental disabilities and until such commissioners determine that
+there are a sufficient number of plans authorized to coordinate care for
+persons with developmental disabilities pursuant to this article
+operating in the person's county of residence to meet the needs of
+persons with developmental disabilities, and that such plans meet the
+standards of this section.
+  ** NB Repealed September 30, 2019
+  ** NB There are 2 sb 12's
+  ** 13. Notwithstanding any inconsistent provision to the contrary, the
+commissioner may issue a certificate of authority to no more than three
+eligible applicants who are eligible for Medicare and medical assistance
+to operate managed long term care plans that are authorized to
+exclusively enroll persons with developmental disabilities, as such term
+is defined in section 1.03 of the mental hygiene law. The commissioner
+may only issue certificates of authority pursuant to this subdivision
+if, and to the extent that, the department has received federal approval
+to operate a fully integrated duals advantage program for the
+integration of services for persons enrolled in Medicare and medical
+assistance. The commissioner may waive any of the department's
+regulations as the commissioner, in consultation with the commissioner
+of the office for people with developmental disabilities, deems
+necessary to allow such managed long term care plans to provide or
+arrange for services for persons with developmental disabilities that
+are adequate and appropriate to meet the needs of such individuals and
+that will ensure their health and safety.
+  ** NB Repealed September 30, 2019
+  ** 14. The provisions of subdivisions twelve and thirteen of this
+section shall only be effective if, for so long as, and to the extent
+that federal financial participation is available for the costs of
+services provided thereunder to recipients of medical assistance
+pursuant to title eleven of article five of the social services law. The
+commissioner shall make any necessary amendments to the state plan for
+medical assistance submitted pursuant to section three hundred
+sixty-three-a of the social services law, and/or submit one or more
+applications for waivers of the federal social security act, as may be
+necessary to ensure such federal financial participation. To the extent
+that the provisions of subdivision twelve and thirteen of this section
+are inconsistent with other provisions of this article or with the
+provisions of section three hundred sixty-four-j of the social services
+law, the provisions of this subdivision shall prevail.
+  ** NB Repealed September 30, 2019
+  * NB Repealed December 31, 2015
+```

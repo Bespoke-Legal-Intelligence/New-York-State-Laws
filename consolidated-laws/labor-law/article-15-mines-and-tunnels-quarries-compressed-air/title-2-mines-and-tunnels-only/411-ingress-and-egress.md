@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 411", "kind": "section", "law_id": "LAB", "location_id": "411", "path": "ARTICLE 15 › TITLE 2 › SECTION 411", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/411.md", "title": "Ingress and egress"} -->
+# Labor Law § 411 — Ingress and egress
+
+[Labor Law](../../README.md) › [Article 15 — Mines and Tunnels; Quarries; Compressed Air](../README.md) › [Title 2 — Mines and Tunnels Only](README.md)
+
+```text
+  § 411. Ingress and egress. The commissioner shall require that a mine
+operating through either a vertical or inclined shaft, or a horizontal
+tunnel, shall have not less than two adequate and accessible outlets, at
+least one hundred and fifty feet apart, as a condition precedent to
+employment of any person in the mine. The subterranean workings shall
+connect such outlets with each other. They shall at all times provide
+safe and separate passage between the subterranean workings and the
+surface.
+```

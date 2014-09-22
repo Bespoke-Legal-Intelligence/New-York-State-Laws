@@ -1,0 +1,58 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1801", "kind": "section", "law_id": "EDN", "location_id": "1801", "path": "TITLE 2 › ARTICLE 37 › SECTION 1801", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1801.md", "title": "Formation and changes of central school districts"} -->
+# Education Law § 1801 — Formation and changes of central school districts
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 37 — Central School Districts](README.md)
+
+```text
+  § 1801.  Formation and changes of central school districts.  1. The
+commissioner of education is hereby authorized and empowered to lay out
+central school districts for the establishment of central schools to
+give instruction in elementary or elementary and high school subjects
+and to fix, determine and define the boundaries of said districts as
+hereinafter provided.
+  2. The commissioner is authorized and empowered to make and enter in
+his office orders laying out territory in new central school districts
+or annexing to existing central school districts territory not contained
+within a city school district in a city having a population of more than
+ten thousand inhabitants, and not contained within a city school
+district having a full valuation of taxable real estate per public
+school pupil residing in the district of more than fifteen thousand
+dollars; provided, however, that no territory contained within a city
+school district in a city having a population of ten thousand
+inhabitants or less may be included in new central school districts or
+annexed to existing central school districts after July first, nineteen
+hundred fifty-five. The commissioner of education is authorized and
+empowered to make and enter in his office orders dissolving and annexing
+a central school district or districts to another central school
+district, pursuant to the provisions of subdivision two of section
+eighteen hundred two of this chapter.  The commissioner in laying out
+such central school districts and in fixing and defining the boundaries
+thereof shall include only territory of suitable size conveniently
+located for the attendance of pupils and having a sufficient number of
+pupils for the establishment of a central school. The commissioner shall
+designate all central school districts by such simplified name as he
+shall deem proper.
+  3. Within ten days after the making and entry of the order pursuant to
+this section, the commissioner shall transmit a certified copy thereof
+to the clerk, or in the event there is no clerk, to the trustee or
+trustees of each school district the territory of which is affected by
+said order. The clerk, the trustee or trustees, as the case may be,
+shall, within five days after receipt of such order, post a copy thereof
+in five conspicuous places in such district.
+  4. No central school district laid out by order of the commissioner
+shall operate as a central school district, nor be entitled to receive
+the benefits of a central school district until it has been organized by
+the qualified voters of the district in accordance with the provisions
+of this article, provided, however, a central school district which was
+organized prior to April seventh, nineteen hundred forty-four, or
+pursuant to the provisions of this section and to which territory may be
+annexed shall not be required to again organize.
+  5. The commissioner of education is hereby authorized and empowered to
+make and enter in his office an order annexing the territory of common
+school district number three of the town of Wilmington, Essex county to
+central school district number two of the town of North Elba, Essex
+county, together with such territory of common school district number
+one of the town of Wilmington, Essex county as will provide contiguity
+between the aforementioned Wilmington common school district number
+three and North Elba central school district number two.
+```

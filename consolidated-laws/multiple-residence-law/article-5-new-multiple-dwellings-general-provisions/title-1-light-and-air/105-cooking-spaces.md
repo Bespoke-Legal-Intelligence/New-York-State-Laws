@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Multiple Residence Law § 105", "kind": "section", "law_id": "MRE", "location_id": "105", "path": "ARTICLE 5 › TITLE 1 › SECTION 105", "repealed": false, "repealed_date": null, "source": "nys-laws:MRE/105.md", "title": "Cooking spaces"} -->
+# Multiple Residence Law § 105 — Cooking spaces
+
+[Multiple Residence Law](../../README.md) › [Article 5 — New Multiple Dwellings--general Provisions](../README.md) › [Title 1 — Light and Air](README.md)
+
+```text
+  § 105. Cooking spaces.  1. Every space which is intended, arranged or
+designed for cooking or warming of food shall be either a kitchen or
+kitchenette.
+  2. A kitchen or kitchenette shall be unlawful unless it is
+constructed, arranged and maintained in compliance with the following
+applicable provisions:
+  a. The ceiling and walls, exclusive of doors, of all kitchenettes
+shall be fire-retarded or in lieu thereof such space shall be equipped
+with one or more sprinkler heads to fuse at a temperature not higher
+than two hundred twelve degrees Fahrenheit. Such heads shall be
+connected to the water supply through a pipe of adequate size.
+  b. In every kitchen and kitchenette, all combustible material
+immediately underneath or within one foot of any apparatus used for
+cooking or warming of food shall be fire-retarded or covered with
+fire-resistive material.
+  c. Every kitchenette shall be provided with a window opening upon a
+street or upon a yard, court or shaft. Such window shall be at least one
+foot wide, have a total area of at least three square feet and be at
+least ten per centum of the superficial floor area of such kitchenette.
+In lieu of such window, in such kitchenette it shall be lawful to
+install a system of mechanical or gravity ventilation to provide at
+least six changes per hour of the air volume of such kitchenette.
+  d. Every kitchenette may be equipped with a door or doors, provided
+the lower portion of each such door has a metal grille containing at
+least forty-eight square inches of clear openings or, in lieu of such a
+grille, there are two clear open spaces, each of at least twenty-four
+square inches, one between the floor and each such door, and the other
+between the top of each such door and the head jamb.
+```

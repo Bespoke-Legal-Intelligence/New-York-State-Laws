@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1167", "kind": "section", "law_id": "PBH", "location_id": "1167", "path": "ARTICLE 11 › TITLE 4 › SECTION 1167", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1167.md", "title": "Financial assistance; recipients"} -->
+# Public Health Law § 1167 — Financial assistance; recipients
+
+[Public Health Law](../../README.md) › [Article 11 — Public Water Supplies; Sewerage and Sewage Control](../README.md) › [Title 4 — Drinking Water Revolving Fund](README.md)
+
+```text
+  § 1167.  Financial assistance; recipients.  The corporation may
+provide financial assistance to recipients pursuant to paragraph (a) of
+subdivision four of section twelve hundred eighty-five-m of the public
+authorities law from any available moneys in the fund other than the
+proceeds of the corporation's bonds or notes or moneys needed to comply
+with subdivision five of section twelve hundred eighty-five-m of the
+public authorities law if and to the extent the corporation determines
+that it is unable to, or that it is impractical or inadvisable to,
+finance all or a portion of the costs of an eligible project from the
+proceeds of bonds or notes that are special obligations of the
+corporation.
+  The interest rate charged on any loan made by the corporation pursuant
+to this section shall be such interest rate as determined by the
+corporation (including a zero percent rate of interest), but shall in
+any event be no more than two-thirds of the market rate of interest
+otherwise applicable thereto.
+```

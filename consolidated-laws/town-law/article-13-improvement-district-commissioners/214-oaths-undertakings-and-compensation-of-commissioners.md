@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Town Law § 214", "kind": "section", "law_id": "TWN", "location_id": "214", "path": "ARTICLE 13 › SECTION 214", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/214.md", "title": "Oaths, undertakings and compensation of commissioners"} -->
+# Town Law § 214 — Oaths, undertakings and compensation of commissioners
+
+[Town Law](../README.md) › [Article 13 — Improvement District Commissioners](README.md)
+
+```text
+  § 214. Oaths, undertakings and compensation of commissioners. Each
+commissioner, before entering upon the duties of his office, shall take
+the constitutional oath of office and execute to the town and file with
+the town clerk an official undertaking in such sum and with such
+sureties as the town board may direct. The town board at any time may
+require any such commissioners to file a new official undertaking for
+such sum and with such sureties as the board shall approve. Such
+commissioners may be paid such an amount as the town board may
+designate, but not to exceed the sum of one hundred dollars per day each
+for each day actually and necessarily spent in the service of the
+district. Such compensation shall be deemed an expense of maintaining
+the district.
+```

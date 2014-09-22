@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 2", "kind": "section", "law_id": "COM", "location_id": "2", "path": "ARTICLE 1 › SECTION 2", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/2.md", "title": "Definitions"} -->
+# Economic Development Law § 2 — Definitions
+
+[Economic Development Law](../README.md) › [Article 1 — Short Title; Definitions](README.md)
+
+```text
+  § 2. Definitions. Whenever used in this chapter:
+  1. "Department" shall mean the state department of economic
+development.
+  2. "Commissioner" shall mean the commissioner of economic development.
+  3. The term "atomic energy" means all forms of energy released in the
+course of nuclear fission or nuclear fusion or other nuclear
+transformation.
+  4. The term "science oriented industry and applied research" means
+industrial or commercial activities and applied research in the fields
+of atomic energy, space development, marine sciences, ocean engineering
+and other science oriented or advanced technology industry.
+  5. "Telecommuting" shall mean the conservation of energy through the
+reduction of travel by employees of the department to and from their
+designated workplace through the use of telecommunication and computer
+technology in tasks including, but not limited to, information transfer
+and processing.
+```

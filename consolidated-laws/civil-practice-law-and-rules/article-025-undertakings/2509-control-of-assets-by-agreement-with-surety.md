@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 2509", "kind": "section", "law_id": "CVP", "location_id": "2509", "path": "ARTICLE 25 › SECTION 2509", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/2509.md", "title": "Control of assets by agreement with surety"} -->
+# Civil Practice Law and Rules § 2509 — Control of assets by agreement with surety
+
+[Civil Practice Law and Rules](../README.md) › [Article 25 — Undertakings](README.md)
+
+```text
+  § 2509. Control of assets by agreement with surety. Any person of whom
+an undertaking is required may agree with his surety for the deposit of
+any assets for which his surety may be held responsible with a bank, or
+safe deposit or trust company, authorized to do business in the state,
+if such deposit is otherwise proper and in such manner as to prevent
+withdrawal without the written consent of the surety or an order of
+court, made on notice to the surety. The agreement shall not affect the
+liability of the principal or surety as established by the terms of the
+undertaking.
+```

@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 344", "kind": "section", "law_id": "VAT", "location_id": "344", "path": "TITLE 3 › ARTICLE 7 › SECTION 344", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/344.md", "title": "Certificate furnished by non-resident"} -->
+# Vehicle and Traffic Law § 344 — Certificate furnished by non-resident
+
+[Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 7 — Motor Vehicle Safety Responsibility Act](README.md)
+
+```text
+  § 344. Certificate furnished by non-resident. (a) The non-resident
+owner of a foreign vehicle may give proof of financial responsibility by
+filing with the commissioner a written certificate or certificates of an
+insurance carrier authorized to transact business in the state, District
+of Columbia, or territory or lands in continental United States under
+the exclusive jurisdiction of the United States, or a province of Canada
+in which the motor vehicle or motor vehicles described in such
+certificate is registered, or if such non-resident does not own a motor
+vehicle, then in the state, District of Columbia, or territory or lands
+in continental United States under the exclusive jurisdiction of the
+United States, or province of Canada in which the insured resides and
+otherwise conforming to the provisions of this article, and the
+commissioner shall accept the same upon condition that said insurance
+carrier complies with the following provisions of this section.
+  (1) Said insurance carrier shall execute a power of attorney
+authorizing the commissioner to accept service on its behalf of notice
+or process in any action arising out of a motor vehicle accident in this
+state.
+  (2) Said insurance carrier shall duly adopt a resolution which shall
+be binding upon it, declaring that its policies shall be deemed to be
+varied to comply with the law of this state relating to the terms of
+motor vehicle liability policies issued herein.
+  (3) Said insurance carrier shall also agree to accept as final and
+binding any judgment of any court of competent jurisdiction in this
+state duly rendered in any action arising out of a motor vehicle
+accident.
+  (4) Said insurance carrier shall also agree to pay any assessment for
+expenses of administration of this article levied against it as provided
+in section three hundred sixty-three of this chapter.
+  (b) If any foreign insurance carrier which has qualified to furnish
+proof of financial responsibility as hereinbefore required defaults in
+any said undertakings or agreements, the commissioner shall not
+thereafter accept any certificate of said carrier, whether theretofore
+filed or thereafter tendered as proof of financial responsibility so
+long as such default continues.
+```

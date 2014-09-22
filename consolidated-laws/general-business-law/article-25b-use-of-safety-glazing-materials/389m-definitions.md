@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 389-M", "kind": "section", "law_id": "GBS", "location_id": "389-M", "path": "ARTICLE 25-B › SECTION 389-M", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/389-M.md", "title": "Definitions"} -->
+# General Business Law § 389-M — Definitions
+
+[General Business Law](../README.md) › [Article 25-B — Use of Safety Glazing Materials](README.md)
+
+```text
+  § 389-m. Definitions. As used in this article, the following words and
+phrases shall have the following meanings:
+  (1) "Safety glazing material". Any glazing material, such as tempered
+glass, laminated glass, wire glass or rigid plastic, which meets the
+test requirements of the American National Standards Institute Standard
+(ANSI Z-97.1-1972), and which are so constructed, treated or combined
+with other materials as to minimize the likelihood of cutting and
+piercing injuries resulting from human contact with the glazing
+material.
+  (2) "Hazardous locations". Those structural elements, glazed or to be
+glazed, in industrial, commercial and public buildings known as framed
+or unframed glass entrance doors; and those structural elements, glazed
+or to be glazed in residential buildings and other structures used as
+dwellings, industrial buildings, commercial buildings and public
+buildings, known as sliding glass doors, storm doors except operating
+vents only on jalousie type doors, shower doors, bathtub enclosures and
+those fixed glazed panels immediately adjacent to entrance and exit
+doors which may be mistaken for doors; whether or not the glazing in
+such doors, panels and enclosures is transparent.
+  (3) "Fixed glazed panels immediately adjacent to entrance and exit
+doors". Means the first fixed glazed panel on either or both sides of
+the doors, forty-eight inches or less in width, within six feet
+horizontally of the nearest vertical edge of the door.
+```

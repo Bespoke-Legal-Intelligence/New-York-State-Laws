@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 593", "kind": "section", "law_id": "GMU", "location_id": "593", "path": "ARTICLE 15-B › TITLE 24 › SECTION 593", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/593.md", "title": "Niagara Falls urban renewal agency"} -->
+# General Municipal Law § 593 — Niagara Falls urban renewal agency
+
+[General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 24 — Niagara Falls Urban Renewal Agency](README.md)
+
+```text
+  § 593. Niagara Falls urban renewal agency. A municipal urban renewal
+agency, to be known as the Niagara Falls urban renewal agency, is hereby
+established for the accomplishment of any or all of the purposes
+specified in articles fifteen and fifteen-A of this chapter and in
+accordance with article eighteen of the constitution of the state of New
+York.  It shall constitute a body corporate and politic, shall be
+perpetual in duration, and shall consist of the mayor and all of the
+councilmen of the city of Niagara Falls, together with four members to
+be appointed by the mayor with the concurring approval of the city
+council. It shall have the powers and duties now or hereafter conferred
+by article fifteen-A of this chapter upon municipal renewal agencies. It
+shall be organized in the manner prescribed by and be subject to the
+provisions of article fifteen-A of this chapter and the agency, its
+members, officers and employees and of its operations and activities
+shall in all respects be governed by the provisions of such article.
+```

@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 36-B", "kind": "section", "law_id": "BNK", "location_id": "36-B", "path": "ARTICLE 2 › SECTION 36-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/36-B.md", "title": "Preservation of books and records"} -->
+# Banking Law § 36-B — Preservation of books and records
+
+[Banking Law](../README.md) › [Article 2 — Department of Financial Services; Superintendent of Financial Services; Supervisory and Regulatory Powers](README.md)
+
+```text
+  * § 36-b. Preservation of books and records. When any provision of
+this chapter or any rule or regulation adopted pursuant thereto requires
+that books and records be preserved, such requirement may be satisfied
+by maintenance of original papers or other records, photographic
+reproductions, or records stored in electronic storage media. As used in
+this chapter, "electronic storage media" means any digital storage
+medium or system that meets the following conditions:
+  1. It must preserve the records exclusively in non-rewritable,
+non-erasable format;
+  2. It must verify automatically the quality and accuracy of the
+storage media recording process;
+  3. It must have the capacity to readily download indexes, metadata and
+records preserved on the electronic storage media to any medium
+acceptable to the superintendent; and
+  4. It must be immediately readable on equipment at all times available
+to the superintendent for examination of such records.
+  * NB Effective December 3, 2014
+```

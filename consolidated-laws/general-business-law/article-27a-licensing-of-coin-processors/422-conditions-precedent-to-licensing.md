@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 422", "kind": "section", "law_id": "GBS", "location_id": "422", "path": "ARTICLE 27-A › SECTION 422", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/422.md", "title": "Conditions precedent to licensing"} -->
+# General Business Law § 422 — Conditions precedent to licensing
+
+[General Business Law](../README.md) › [Article 27-A — Licensing of Coin Processors](README.md)
+
+```text
+  § 422. Conditions precedent to licensing. Upon filing of an
+application for a license, if the secretary shall be satisfied of the
+good character, competency and integrity of the applicant, and of the
+principals and officers thereof are such as to comply with the
+provisions of this article, he or she shall thereupon issue a license in
+duplicate to operate as a coin processor in accordance with the
+provisions of this article. The secretary shall transmit one copy of
+such license to the licensee and file another in the office of the
+department. Such license shall remain in full force and effect for a
+period of two years unless it is surrendered by the licensee or revoked
+or suspended as hereinafter provided; if the secretary shall not so
+find, the secretary shall not issue such license and the secretary shall
+notify the applicant of the denial in writing. The secretary shall
+approve or deny every application for license hereunder within ninety
+days from the filing thereof.
+```

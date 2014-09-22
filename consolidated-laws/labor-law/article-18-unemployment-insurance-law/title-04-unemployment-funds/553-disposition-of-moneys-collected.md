@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 553", "kind": "section", "law_id": "LAB", "location_id": "553", "path": "ARTICLE 18 › TITLE 4 › SECTION 553", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/553.md", "title": "Disposition of moneys collected"} -->
+# Labor Law § 553 — Disposition of moneys collected
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 4 — Unemployment Funds](README.md)
+
+```text
+  § 553. Disposition of moneys collected. 1. Depository. All moneys
+collected as contributions, interest and penalties under this article
+shall be deposited in a bank, trust company or industrial bank
+designated by the state comptroller. All moneys so deposited shall be
+credited immediately to the account of the unemployment insurance fund,
+except as provided in subdivision two of this section.
+  2. Interest and penalties. The commissioner shall certify periodically
+to the depository the amount of interest and penalties which were
+imposed and collected under title six of this article and the
+department's share of the penalties imposed and collected pursuant to
+paragraph one of subsection (v) of section six hundred eighty-five of
+the tax law and deposited pursuant to subdivision one of this section. A
+sum equal to the total amount of interest and penalties certified by the
+commissioner, less the penalties collected pursuant to paragraph (b) of
+subdivision two of section five hundred eighty-one of this article and
+the department's share of the penalties collected pursuant to paragraph
+one of subsection (v) of section six hundred eighty-five of the tax law
+shall thereupon be credited to the special fund established pursuant to
+section five hundred fifty-two of this article. The penalties collected
+pursuant to paragraph (b) of subdivision two of section five hundred
+eighty-one of this article and the department's share of the penalties
+collected pursuant to paragraph one of subsection (v) of section six
+hundred eighty-five of the tax law shall thereupon be credited to the
+unemployment insurance control fund established pursuant to section five
+hundred fifty-two-b of this article.
+```

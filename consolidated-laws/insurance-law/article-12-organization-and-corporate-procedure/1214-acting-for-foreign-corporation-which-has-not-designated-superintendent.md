@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1214", "kind": "section", "law_id": "ISC", "location_id": "1214", "path": "ARTICLE 12 › SECTION 1214", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1214.md", "title": "Acting for foreign corporation which has not designated superintendent as attorney"} -->
+# Insurance Law § 1214 — Acting for foreign corporation which has not designated superintendent as attorney
+
+[Insurance Law](../README.md) › [Article 12 — Organization and Corporate Procedure](README.md)
+
+```text
+  § 1214. Acting for foreign corporation which has not designated
+superintendent as attorney. No person acting for himself or for others
+shall solicit or procure, or aid in soliciting or procuring, policies or
+certificates of insurance from, or adjust losses or in any manner aid
+the transaction of any business for, any foreign insurance corporation
+which has not executed and filed in the superintendent's office a
+written appointment of the superintendent as its true and lawful
+attorney in and for this state, upon whom all lawful processes in any
+proceeding against it may be served.
+```

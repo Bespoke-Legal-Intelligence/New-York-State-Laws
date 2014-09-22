@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3454", "kind": "section", "law_id": "PBH", "location_id": "3454", "path": "ARTICLE 34 › TITLE 4 › SECTION 3454", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3454.md", "title": "Restoration of licenses after conviction of a felony"} -->
+# Public Health Law § 3454 — Restoration of licenses after conviction of a felony
+
+[Public Health Law](../../README.md) › [Article 34 — Funeral Directing](../README.md) › [Title 4 — Enforcement and Discipline; Violations and Penalties](README.md)
+
+```text
+  § 3454. Restoration of licenses after conviction of a felony. If a
+person convicted of a felony or crime deemed to be a felony is
+subsequently pardoned by the governor of the state where such conviction
+was had or by the president of the United States, or shall receive a
+certificate of relief from disabilities or a certificate of good conduct
+pursuant to article twenty-three of the correction law to remove the
+disability under this section because of such conviction, the
+commissioner may, in his discretion, on application of such person, and
+on the submission to him of satisfactory evidence, restore to such
+person the right to practice in this state.
+```

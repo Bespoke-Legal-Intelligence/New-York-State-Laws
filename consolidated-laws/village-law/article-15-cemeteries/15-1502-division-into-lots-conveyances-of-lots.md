@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Village Law § 15-1502", "kind": "section", "law_id": "VIL", "location_id": "15-1502", "path": "ARTICLE 15 › SECTION 15-1502", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/15-1502.md", "title": "Division into lots; conveyances of lots"} -->
+# Village Law § 15-1502 — Division into lots; conveyances of lots
+
+[Village Law](../README.md) › [Article 15 — Cemeteries](README.md)
+
+```text
+  § 15-1502 Division into lots; conveyances of lots. The board of
+cemetery commissioners shall have the supervision and control of all
+village cemeteries. It shall cause the same to be divided into lots, and
+provide for the conveyance thereof to individuals for the sole purpose
+of interments, and upon the payment of the purchase-price of any lot,
+shall, in the name of the village, execute, acknowledge and deliver a
+conveyance to the purchaser thereof. The clerk of the village shall keep
+a record of the sale of each lot, its number, the date of sale and the
+name of the purchaser; and shall record each conveyance thereof. No
+sale, transfer or assignment of such lot or any interest therein
+subsequent to the sale by the village shall be valid, unless by an
+instrument in writing signed and duly acknowledged and recorded in the
+office of the village clerk. The clerk shall be entitled to the same
+fees as the county clerk for the recording of each conveyance.
+```

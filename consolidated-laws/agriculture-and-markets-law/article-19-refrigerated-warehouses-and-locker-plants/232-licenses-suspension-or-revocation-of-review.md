@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 232", "kind": "section", "law_id": "AGM", "location_id": "232", "path": "ARTICLE 19 › SECTION 232", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/232.md", "title": "Licenses, suspension or revocation of; review"} -->
+# Agriculture and Markets Law § 232 — Licenses, suspension or revocation of; review
+
+[Agriculture and Markets Law](../README.md) › [Article 19 — Refrigerated Warehouses and Locker Plants](README.md)
+
+```text
+  § 232. Licenses, suspension or revocation of; review. The commissioner
+may suspend a license if any warehouse or locker plant covered by the
+license shall be found to be conducted in an insanitary manner, such
+suspension to continue until the unsatisfactory conditions of sanitation
+are corrected. The commissioner may, after opportunity be given to the
+licensee to be heard, revoke a license (a) if it appears that any
+statement upon which the license was issued is false or misleading, (b)
+if the licensee violates any of the provisions of this chapter, or (c)
+if the financial condition of the licensee changes so as to imperil the
+interests of those who store food in the warehouse or locker plant of
+the licensee, or of those who extend credit upon the security of goods
+so stored.
+  The action of the commissioner in refusing to grant a license, or in
+revoking or suspending a license, shall be subject to review by a
+proceeding under article seventy-eight of the civil practice law and
+rules, but the decision of the commissioner shall be final unless within
+thirty days from the date of the order embodying such action such
+proceeding to review has been instituted.
+```

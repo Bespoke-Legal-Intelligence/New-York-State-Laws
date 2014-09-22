@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 522", "kind": "section", "law_id": "GMU", "location_id": "522", "path": "ARTICLE 15 › SECTION 522", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/522.md", "title": "Pending actions or proceedings"} -->
+# General Municipal Law § 522 — Pending actions or proceedings
+
+[General Municipal Law](../README.md) › [Article 15 — Urban Renewal](README.md)
+
+```text
+  § 522. Pending actions or proceedings. This act or anything contained
+therein shall not affect or abate any acts, actions, proceedings, civil
+or criminal, pending at the time this act shall take effect brought by,
+for or against, the state, the division of housing or any municipality
+or in pursuance of the provisions of the laws repealed by this act, but
+all such acts, actions or proceedings may be continued, prosecuted,
+conducted and completed as if such laws were not repealed but continued
+to be fully effective.
+```

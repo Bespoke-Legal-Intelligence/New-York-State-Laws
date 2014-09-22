@@ -1,0 +1,48 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 916", "kind": "section", "law_id": "LAB", "location_id": "916", "path": "ARTICLE 31 › SECTION 916", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/916.md", "title": "Definitions"} -->
+# Labor Law § 916 — Definitions
+
+[Labor Law](../README.md) › [Article 31 — New York Professional Employer Act](README.md)
+
+```text
+  § 916. Definitions. As used in this article:
+  1. "Client" means a person who enters into a professional employer
+agreement with a professional employer organization.
+  2. "Person" means an individual, an association, a company, a firm, a
+partnership, a corporation, or any other form of legally recognized
+entity.
+  3. "Professional employer agreement" means a written contract whereby:
+  (a) A professional employer organization expressly agrees to co-employ
+all or a majority of the employees providing services for the client;
+  (b) The contract is intended to be on-going rather than temporary in
+nature;
+  (c) Employer responsibilities for worksite employees, including those
+of hiring, firing and disciplining, are expressly allocated by and
+between the professional employer organization and the client in the
+agreement; and
+  (d) The professional employer organization expressly assumes the
+rights and responsibilities as required in section nine hundred
+twenty-two of this article.
+  4. "Professional employer organization" means any person whose
+business is entering into professional employer agreements with clients.
+In determining whether the professional employer organization employs
+all or a majority of the employees of a client, any person employed
+pursuant to the terms of the professional employer agreement after the
+initial placement of client employees on the payroll of the professional
+employer organization shall be included. Temporary help firms and
+employment agencies, as defined in article eleven of the general
+business law, shall not be deemed to be professional employer
+organizations for purposes of this article.
+  5. "Temporary help firm" means a business which recruits and hires its
+own employees, and assigns those employees to perform work at or
+services for other organizations, to support or supplement the other
+organization's workforce, or to provide assistance in special work
+situations such as, but not limited to, employee absences, skill
+shortages, seasonal workloads, or to perform special assignments or
+projects. A temporary help firm shall not be deemed to be a professional
+employer organization for the purposes of this article.
+  6. "Worksite employee" means a person having an employment
+relationship with both the professional employer organization and the
+client. Such term may also include the client's officers, directors,
+shareholders or partners to the extent such persons act as operational
+managers or perform services for the client.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 218", "kind": "section", "law_id": "VAT", "location_id": "218", "path": "TITLE 2 › ARTICLE 2 › SECTION 218", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/218.md", "title": "Special classification of vehicles"} -->
+# Vehicle and Traffic Law § 218 — Special classification of vehicles
+
+[Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2 — Department of Motor Vehicles; Commissioner](README.md)
+
+```text
+  § 218. Special classification of vehicles. Notwithstanding any other
+provision of this chapter, any vehicle or class of vehicles may, by
+regulation of the commissioner, be added to or exempted from any of the
+definitions or classifications contained in this chapter, where such
+addition or exemption is deemed, in his discretion, either necessary,
+desirable or equitable because of the particular characteristics of such
+vehicle or class of vehicles; provided, however, that no vehicle which
+is exempted from registration by any provision of this chapter may be
+reclassified pursuant to this section to require registration, and no
+vehicle which is specifically enumerated in schedule F of subdivision
+seven of section four hundred one of this chapter may be reclassified
+pursuant to this section to require registration at an increased fee.
+```

@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 203", "kind": "section", "law_id": "JUD", "location_id": "203", "path": "ARTICLE 7 › SECTION 203", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/203.md", "title": "Appointment of court attendant by special county judge of Erie county"} -->
+# Judiciary Law § 203 — Appointment of court attendant by special county judge of Erie county
+
+[Judiciary Law](../README.md) › [Article 7 — County Court](README.md)
+
+```text
+  § 203. Appointment of court attendant by special county judge of Erie
+county.  The special county judge of the county of Erie may appoint and
+at pleasure remove one court officer to attend his court in said county
+and to perform such duties in respect thereto as the said special county
+judge may prescribe. Said court officer shall possess all the power of
+an officer designated by the sheriff to attend upon a court and shall
+receive such salary as shall be fixed from time to time by the board of
+supervisors of Erie county.
+```

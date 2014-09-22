@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 18", "kind": "section", "law_id": "RRD", "location_id": "18", "path": "ARTICLE 2 › SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/18.md", "title": "Railroads through public lands"} -->
+# Railroad Law § 18 — Railroads through public lands
+
+[Railroad Law](../README.md) › [Article 2 — Organization, General Powers and Location](README.md)
+
+```text
+  § 18. Railroads through public lands. The commissioner of general
+services may grant to any domestic or foreign railroad corporation land
+belonging to the people of the state, except the reservation at Niagara
+and the Concourse lands on Coney Island, which may be required for the
+purposes of its road on such terms as may be agreed upon by them; or a
+domestic railroad corporation may acquire title thereto by condemnation;
+and the county or town officers having charge of any land belonging to
+any county or town, required for a domestic railroad corporation for the
+purposes of its road, may grant such land to the corporation for such
+compensation as may be agreed upon. In case the land or any right,
+interest or easement therein, required by a domestic or foreign railroad
+corporation is used for prison purposes the commissioner of general
+services may grant such land, or any right, interest or easement
+therein, provided the plans of such railroad corporation for the use of
+such prison lands, or such right, interest or easement therein, have the
+approval of the commissioner of corrections and community supervision.
+```

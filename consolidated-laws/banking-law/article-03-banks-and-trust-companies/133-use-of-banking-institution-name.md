@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 133", "kind": "section", "law_id": "BNK", "location_id": "133", "path": "ARTICLE 3 › SECTION 133", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/133.md", "title": "Use of banking institution name"} -->
+# Banking Law § 133 — Use of banking institution name
+
+[Banking Law](../README.md) › [Article 3 — Banks and Trust Companies](README.md)
+
+```text
+  § 133. Use of banking institution name. 1. No person shall use the
+name of a banking institution when advertising, marketing or soliciting
+business which is likely to induce, directly or indirectly, the purchase
+of goods or services, if the reference to such institution is:
+  (a) without the consent of the banking institution; and
+  (b) which would cause a reasonable person to conclude that the
+advertising or marketing material or solicitation either originated
+from, or is endorsed by or is any other way the responsibility of a
+banking institution.
+  2. Nothing in this section shall prohibit the use of or reference to
+the name of a banking institution in advertising or marketing materials
+or solicitations, if the use or reference to such institution does not
+deceive or confuse a reasonable person regarding whether the advertising
+or marketing material or solicitation (a) originated from, (b) is
+endorsed by or (c) is in any other way the responsibility of a banking
+institution.
+  3. The department is authorized to enforce the provisions of this
+section.
+  4. For purposes of this section, "banking institution" shall mean any
+state or federally chartered bank, trust company, savings bank, savings
+and loan association or credit union which has an office or branch in
+this state, or a private banker, safe deposit company or investment
+company.
+```

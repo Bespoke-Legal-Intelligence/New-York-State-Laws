@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4913", "kind": "section", "law_id": "ISC", "location_id": "4913", "path": "ARTICLE 49 › TITLE 2 › SECTION 4913", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4913.md", "title": "Conflict of interest"} -->
+# Insurance Law § 4913 — Conflict of interest
+
+[Insurance Law](../../README.md) › [Article 49 — Utilization Review and External Appeal](../README.md) › [Title 2 — Right to External Appeal](README.md)
+
+```text
+  § 4913. Conflict of interest. (a) No external appeal agent or officer,
+director, or management employee thereof; or clinical peer reviewer
+employed or engaged thereby to conduct any external appeal pursuant to
+this title, shall have any material professional affiliation, material
+familial affiliation, material financial affiliation, or other
+affiliation prescribed pursuant to regulation, with any of the
+following:
+  (1) the health care plan;
+  (2) any officer, director, or management employee of the health care
+plan;
+  (3) any health care provider, physician's medical group, independent
+practice association, or provider of pharmaceutical products or services
+or durable medical equipment, proposing to provide or supply the health
+service;
+  (4) the facility at which the health service would be provided;
+  (5) the developer or manufacturer of the principal health service
+which is the subject of the appeal; or
+  (6) the insured whose health care service is the subject of the
+appeal, or the insured's designee.
+  (b) Notwithstanding subsection (a) of this section, the superintendent
+shall promulgate regulations to minimize any conflict of interest where
+such conflict may be unavoidable.
+```

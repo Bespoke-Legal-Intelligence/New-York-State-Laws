@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2550", "kind": "section", "law_id": "PBA", "location_id": "2550", "path": "ARTICLE 8 › TITLE 26 › SECTION 2550", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2550.md", "title": "Termination of authority and existence"} -->
+# Public Authorities Law § 2550 — Termination of authority and existence
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 26 — New York City Stabilization Reserve Corporation](README.md)
+
+```text
+  § 2550. Termination of authority and existence. At such time as notes
+and bonds of the corporation or notes and bonds of the municipal
+assistance corporation for the city of New York, or any combination
+thereof, are outstanding in the aggregate principal amount equal to five
+hundred twenty million dollars, the purposes for which the corporation
+was created shall have been satisfied and the corporation shall not be
+authorized to issue any notes or bonds that would cause such aggregate
+amount to be exceeded. If the corporation has no notes or bonds
+outstanding at such time as its authorization to issue notes or bonds
+terminates, the existence of the corporation shall terminate.
+```

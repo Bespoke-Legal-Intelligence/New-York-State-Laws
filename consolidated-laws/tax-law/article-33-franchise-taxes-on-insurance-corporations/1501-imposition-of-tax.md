@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1501", "kind": "section", "law_id": "TAX", "location_id": "1501", "path": "ARTICLE 33 › SECTION 1501", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1501.md", "title": "Imposition of tax"} -->
+# Tax Law § 1501 — Imposition of tax
+
+[Tax Law](../README.md) › [Article 33 — Franchise Taxes On Insurance Corporations](README.md)
+
+```text
+  § 1501. Imposition of tax. (a) Every domestic insurance corporation
+and every foreign or alien insurance corporation, for the privilege of
+exercising its corporate franchise, or of doing business, or of
+employing capital, or of owning or leasing property in this state in a
+corporate or organized capacity, or of maintaining an office in this
+state, for all or any part of its taxable year, except corporations
+specified in subdivision (a) of section fifteen hundred twelve, shall
+annually pay a franchise tax which shall be computed as provided in
+section fifteen hundred two.
+  (b) Every life insurance corporation which shall obtain a certificate
+of authority to transact business in this state or a renewal of such
+certificate from the superintendent of financial services shall, upon
+the expiration of such certificate for any cause or upon its ceasing to
+transact new business in this state, continue to pay a tax upon its
+business remaining in force in this state as provided in section fifteen
+hundred two.
+```

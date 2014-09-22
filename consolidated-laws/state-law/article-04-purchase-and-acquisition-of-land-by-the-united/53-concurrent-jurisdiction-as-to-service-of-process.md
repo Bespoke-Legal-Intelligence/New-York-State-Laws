@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "State Law § 53", "kind": "section", "law_id": "STL", "location_id": "53", "path": "ARTICLE 4 › SECTION 53", "repealed": false, "repealed_date": null, "source": "nys-laws:STL/53.md", "title": "Concurrent jurisdiction as to service of process"} -->
+# State Law § 53 — Concurrent jurisdiction as to service of process
+
+[State Law](../README.md) › [Article 4 — Purchase and Acquisition of Land By the United States](README.md)
+
+```text
+  § 53. Concurrent jurisdiction as to service of process. The said
+jurisdiction so ceded shall be upon the express condition that the state
+of New York shall retain a concurrent jurisdiction with the United
+States on and over the property and premises so conveyed, so far as that
+all civil and criminal process, which may issue under the laws or
+authority of the state of New York, may be executed thereon in the same
+way and manner as if such jurisdiction had not been ceded, except so far
+as such process may affect the real or personal property of the United
+States.
+```

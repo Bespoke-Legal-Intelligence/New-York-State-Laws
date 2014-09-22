@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 379-B", "kind": "section", "law_id": "BNK", "location_id": "379-B", "path": "ARTICLE 10 › SECTION 379-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/379-B.md", "title": "Service corporation owned by associations; authorized activities of such corporation; investment therein"} -->
+# Banking Law § 379-B — Service corporation owned by associations; authorized activities of such corporation; investment therein
+
+[Banking Law](../README.md) › [Article 10 — Savings and Loan Associations](README.md)
+
+```text
+  § 379-b. Service corporation owned by associations; authorized
+activities of such corporation; investment therein. 1. A savings and
+loan association may invest in the stock, capital notes and debentures
+of a service corporation organized under the laws of this state for the
+sole activities set forth in subdivision two of this section, to the
+extent and upon such conditions as are or have been authorized by the
+superintendent of financial services, provided that all of the stock of
+such service corporation is, or is to be, owned by one or more savings
+and loan associations; and provided further, that no savings and loan
+association may make any investment under this section if its aggregate
+outstanding investment thereby, determined as prescribed by the
+superintendent of financial services, would thereupon exceed three per
+centum of its assets.
+  2. The activities of such service corporation, performed directly or
+through one or more wholly owned subsidiaries, shall consist of
+rendering such services to savings and loan associations and making such
+investments for itself and for savings and loan associations as are
+authorized services and investments for such associations under the
+provisions of this chapter as well as such activities as may be
+prescribed by general regulation of the superintendent of financial
+services.
+```

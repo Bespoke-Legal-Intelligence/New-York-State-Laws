@@ -1,0 +1,49 @@
+﻿<!-- nyslaw {"citation": "Education Law § 8605", "kind": "section", "law_id": "EDN", "location_id": "8605", "path": "TITLE 8 › ARTICLE 165 › SECTION 8605", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/8605.md", "title": "Requirements for a license as a clinical laboratory technologist or cytotechnologist"} -->
+# Education Law § 8605 — Requirements for a license as a clinical laboratory technologist or cytotechnologist
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 165 — Clinical Laboratory Technology Practice Act](README.md)
+
+```text
+  § 8605. Requirements for a license as a clinical laboratory
+technologist or cytotechnologist. To qualify for a license as a clinical
+laboratory technology practitioner under one of the titles defined in
+subdivision two of section eighty-six hundred one of this article, an
+applicant shall fulfill the particular requirements of a subdivision of
+this section applicable to the license and title sought by the
+applicant:
+  1. Licensure as a clinical laboratory technologist.
+  (a) Application: file an application with the department;
+  (b) Education: have received an education, including a bachelor's
+degree in clinical laboratory technology from a program registered by
+the department or determined by the department to be the substantial
+equivalent, or have received a bachelor's degree that includes a minimum
+number of credit hours in the sciences and received appropriate clinical
+education in an accredited clinical laboratory technology program or a
+program to be determined by the department to be the substantial
+equivalent;
+  (c) Examination: pass an examination satisfactory to the board and in
+accordance with the commissioner's regulations;
+  (d) Age: be at least eighteen years of age;
+  (e) Character: be of good moral character as determined by the
+department; and
+  (f) Fees: pay a fee of one hundred seventy-five dollars for an initial
+license and a fee of one hundred seventy dollars for each triennial
+registration period.
+  2. Licensure as a cytotechnologist.
+  (a) Application: file an application with the department;
+  (b) Education: have received an education, including a bachelor's
+degree in cytotechnology from a program registered by the department or
+determined by the department to be the substantial equivalent, or have
+received a bachelor's degree that includes a minimum number of credit
+hours in the sciences and received appropriate clinical education in an
+accredited cytotechnology program or a program determined by the
+department to be the substantial equivalent;
+  (c) Examination: pass an examination acceptable to the board and in
+accordance with the commissioner's regulations;
+  (d) Age: be at least eighteen years of age;
+  (e) Character: be of good moral character as determined by the
+department; and
+  (f) Fees: pay a fee of one hundred seventy-five dollars for an initial
+license and a fee of one hundred seventy dollars for each triennial
+registration period.
+```

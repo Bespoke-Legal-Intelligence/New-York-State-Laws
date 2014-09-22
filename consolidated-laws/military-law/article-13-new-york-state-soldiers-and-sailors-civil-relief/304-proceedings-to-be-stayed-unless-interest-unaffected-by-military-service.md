@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Military Law § 304", "kind": "section", "law_id": "MIL", "location_id": "304", "path": "ARTICLE 13 › SECTION 304", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/304.md", "title": "Proceedings to be stayed unless interest unaffected by military service"} -->
+# Military Law § 304 — Proceedings to be stayed unless interest unaffected by military service
+
+[Military Law](../README.md) › [Article 13 — New York State Soldiers' and Sailors' Civil Relief Act](README.md)
+
+```text
+  § 304. Proceedings to be stayed unless interest unaffected by military
+service.  At any stage thereof, any action or proceeding in any court or
+in any adjudicatory or licensing proceeding before any state agency,
+including any public benefit corporation or public authority, or any
+political subdivision of the state, in which a person in military
+service is involved as a party, during the period of such service or
+within sixty days thereafter may, in the discretion of the court or
+adjudicatory or licensing agency before which it is pending, on its own
+motion, and shall, on application to it by such person or some person on
+his behalf, be stayed as provided in this act, unless, in the opinion of
+the court or adjudicatory or licensing agency, the ability of plaintiff
+to prosecute the action, or the defendant to conduct his defense, or in
+any adjudicatory or licensing proceeding the ability of the party to
+represent his interest, is not materially affected by reason of his
+military service.
+```

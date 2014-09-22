@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 4-401", "kind": "section", "law_id": "UCC", "location_id": "4-401", "path": "ARTICLE 4 › PART 4 › SECTION 4-401", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/4-401.md", "title": "When Bank May Charge Customer's Account"} -->
+# Uniform Commercial Code § 4-401 — When Bank May Charge Customer's Account
+
+[Uniform Commercial Code](../../README.md) › [Article 4 — Bank Deposits and Collections](../README.md) › [Part 4 — Relationship Between Payor Bank and Its Customer](README.md)
+
+```text
+Section 4--401. When Bank May Charge Customer's Account.
+  (1) As against its customer, a bank may charge against his account any
+item which is otherwise properly payable from that account even though
+the charge creates an overdraft.
+  (2) A bank which in good faith makes payment to a holder may charge
+the indicated account of its customer according to
+       (a) the original tenor of his altered item; or
+       (b) the tenor of his completed item, even though the bank knows
+           the item has been completed unless the bank has notice that
+           the completion was improper.
+```

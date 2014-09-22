@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 5-A", "kind": "section", "law_id": "RCO", "location_id": "5-A", "path": "ARTICLE 2 › SECTION 5-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/5-A.md", "title": "Investment of funds"} -->
+# Religious Corporations Law § 5-A — Investment of funds
+
+[Religious Corporations Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 5-a. Investment of funds. Subject to the discipline, rules and
+usages of the corporation and of the ecclesiastical governing body, if
+any, to which the corporation is subject and subject to the limitations
+and conditions contained in any gift, devise or bequest, and subject to
+any applicable provisions of law with respect to the investment of funds
+for the perpetual care and maintenance of cemetery lots, the trustees of
+every religious corporation, created by or under a general or special
+law, may invest the funds of such corporation in such securities,
+investments or other property, real or personal, located within or
+without the state of New York, as to them shall seem advisable without
+being restricted to those classes of securities which are lawful for the
+investment of trust funds under the laws of this state. The trustees of
+an incorporated Roman Catholic church, or of a Ruthenian Greek Catholic
+church, shall not invest its funds as in this sub-division provided
+without the consent of the archbishop or bishop of the diocese to which
+such church belongs or in case of their absence or inability to act,
+without the consent of the vicar general or administrator of such
+diocese.
+```

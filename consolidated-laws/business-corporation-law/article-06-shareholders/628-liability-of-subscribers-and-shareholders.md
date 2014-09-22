@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 628", "kind": "section", "law_id": "BSC", "location_id": "628", "path": "ARTICLE 6 › SECTION 628", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/628.md", "title": "Liability of subscribers and shareholders"} -->
+# Business Corporation Law § 628 — Liability of subscribers and shareholders
+
+[Business Corporation Law](../README.md) › [Article 6 — Shareholders](README.md)
+
+```text
+§ 628. Liability of subscribers and shareholders.
+  (a) A holder of or subscriber for shares of a corporation shall be
+under no obligation to the corporation for payment for such shares other
+than the obligation to pay the unpaid portion of his subscription which
+in no event shall be less than the amount of the consideration for which
+such shares could be issued lawfully.
+  (b) Any person becoming an assignee or transferee of shares or of a
+subscription for shares in good faith and without knowledge or notice
+that the full consideration therefor has not been paid shall not be
+personally liable for any unpaid portion of such consideration, but the
+transferor shall remain liable therefor.
+  (c) No person holding shares in any corporation as collateral security
+shall be personally liable as a shareholder but the person pledging such
+shares shall be considered the holder thereof and shall be so liable.
+No executor, administrator, guardian, trustee or other fiduciary shall
+be personally liable as a shareholder, but the estate and funds in the
+hands of such executor, administrator, guardian, trustee or other
+fiduciary shall be liable.
+```

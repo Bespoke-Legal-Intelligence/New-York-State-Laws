@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 103", "kind": "section", "law_id": "GBS", "location_id": "103", "path": "ARTICLE 9 › SECTION 103", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/103.md", "title": "Inducing common carrier to issue bill of lading when goods have not been received"} -->
+# General Business Law § 103 — Inducing common carrier to issue bill of lading when goods have not been received
+
+[General Business Law](../README.md) › [Article 9 — Bills of Lading, Warehouse Receipts, Other Receipts and Vouchers](README.md)
+
+```text
+  § 103. Inducing common carrier to issue bill of lading when goods have
+not been received.  Any person who with intent to defraud secures the
+issue by a common carrier of a bill of lading knowing that at the time
+of such issue, any or all of the goods described in such bill of lading
+as received for transportation have not been received by such common
+carrier, or an agent of such common carrier or a connecting common
+carrier, or are not under the common carrier's control, by inducing an
+officer, agent or servant of such common carrier falsely to believe that
+such goods have been received by such common carrier, or are under its
+control, shall be guilty of a misdemeanor.
+```

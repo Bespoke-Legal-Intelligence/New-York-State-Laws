@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Rapid Transit Law § 67", "kind": "section", "law_id": "RAT", "location_id": "67", "path": "ARTICLE 6 › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:RAT/67.md", "title": "Payment of awards and expenses"} -->
+# Rapid Transit Law § 67 — Payment of awards and expenses
+
+[Rapid Transit Law](../README.md) › [Article 6 — Acquisition of Property By the City](README.md)
+
+```text
+  § 67. Payment of awards and expenses.  Within four calendar months
+after the date of the filing of the final decree of the court, the city
+shall pay to the parties entitled thereto the respective sums of money
+determined in their favor as set forth in the final decree, with legal
+interest thereon from the date of the entry of the order granting the
+application to condemn.  In case of neglect or default in the payment
+thereof within the time aforesaid, the respective persons in whose favor
+the same shall be so determined, after application to the comptroller
+for payment thereof, may sue for and recover the same, with lawful
+interest as aforesaid and costs of suit. No fees or expenses incurred by
+the city or the corporation counsel in connection with any proceeding
+instituted under this chapter shall be paid until they shall have been
+taxed by the court upon five days' notice to the corporation counsel and
+upon proof of the nature and extent of the services rendered and
+disbursements charged. No unnecessary costs or charges shall be allowed.
+All costs, fees, expenses or disbursements to be taxed shall be stated
+in detail in the bill of costs and shall be accompanied by such proof of
+the reasonableness and necessity thereof as is required by law and the
+practice of the court upon taxation of costs and disbursements in other
+special proceedings or actions.
+```

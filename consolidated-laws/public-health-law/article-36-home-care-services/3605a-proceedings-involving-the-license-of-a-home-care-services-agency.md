@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3605-A", "kind": "section", "law_id": "PBH", "location_id": "3605-A", "path": "ARTICLE 36 › SECTION 3605-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3605-A.md", "title": "Proceedings involving the license of a home care services agency"} -->
+# Public Health Law § 3605-A — Proceedings involving the license of a home care services agency
+
+[Public Health Law](../README.md) › [Article 36 — Home Care Services](README.md)
+
+```text
+  § 3605-a. Proceedings involving the license of a home care services
+agency. 1. A license of a home care services agency may be revoked,
+suspended, limited or annulled by the commissioner on proof that it has
+failed to comply with the provisions of this article or rules and
+regulations promulgated thereunder.
+  2. No such license shall be revoked, suspended, limited, annulled or
+denied without a hearing. However, a license may be temporarily
+suspended or limited without a hearing for a period not in excess of
+thirty days upon written notice to the agency following a finding by the
+department that the public health or safety is in imminent danger.
+  3. The commissioner shall fix a time and place for the hearing. A copy
+of the charges, together with the notice of the time and place of the
+hearing, shall be served in person or mailed by registered or certified
+mail to the agency at least twenty-one days before the date fixed for
+the hearing. The agency shall file with the department not less than
+eight days prior to the hearing, a written answer to the charges.
+  4. All orders or determinations hereunder shall be subject to review
+as provided in article seventy-eight of the civil practice law and
+rules. Application for such review must be made within sixty days after
+service in person or by registered or certified mail of a copy of the
+order or determination upon the applicant or agency.
+```

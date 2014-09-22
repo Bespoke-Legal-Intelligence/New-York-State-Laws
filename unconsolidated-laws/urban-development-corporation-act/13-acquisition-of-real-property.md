@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 13", "kind": "section", "law_id": "UDA", "location_id": "13", "path": "SECTION 13", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/13.md", "title": "Acquisition of real property"} -->
+# Urban Development Corporation Act § 13 — Acquisition of real property
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 13. Acquisition of real property. The corporation, upon making a
+finding that it is necessary or convenient to acquire any real property
+for its immediate or future use, may acquire such property in any lawful
+manner, pursuant to the provisions of the eminent domain procedure law,
+notwithstanding that such property may already be devoted to a public
+use, nor shall such property thereafter be taken for any other public
+use without the consent of the corporation.
+  Prior to the commencement of condemnation proceedings, the corporation
+shall cause a survey and map to be made of the property to be condemned
+and file the same in its office. There shall be annexed thereto a
+certificate, executed by such officer or employee as the corporation may
+designate, stating that the property described in such survey and map is
+necessary for corporate purposes.
+```

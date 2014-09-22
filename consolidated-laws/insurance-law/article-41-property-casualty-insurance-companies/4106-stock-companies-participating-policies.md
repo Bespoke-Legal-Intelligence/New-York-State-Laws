@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4106", "kind": "section", "law_id": "ISC", "location_id": "4106", "path": "ARTICLE 41 › SECTION 4106", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4106.md", "title": "Stock companies; participating policies"} -->
+# Insurance Law § 4106 — Stock companies; participating policies
+
+[Insurance Law](../README.md) › [Article 41 — Property/casualty Insurance Companies](README.md)
+
+```text
+  § 4106. Stock companies; participating policies. A stock
+property/casualty insurance company authorized to do business in this
+state may include in its charter a provision authorizing the board of
+directors to permit its policyholders from time to time to participate
+in the profits of its operations through the payment of dividends to
+policyholders.  For the purpose of carrying into effect this provision,
+the board of directors may from time to time make reasonable
+classifications of policies.  Every such classification of risks shall
+be filed with the superintendent and shall not be effective as to
+policies issued or delivered in this state unless approved by the
+superintendent as fair and equitable and not unfairly discriminatory.
+Any classification approved by the superintendent shall remain in effect
+in this state until disapproved by him or until withdrawn or modified
+with his approval by the company filing the same. No dividends to
+policyholders shall be declared or paid by any such company except out
+of its earned surplus as defined in subsection (a) of section four
+thousand one hundred five of this article.
+```

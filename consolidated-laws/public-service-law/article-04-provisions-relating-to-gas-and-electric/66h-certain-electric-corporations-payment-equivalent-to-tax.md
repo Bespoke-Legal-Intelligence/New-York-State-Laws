@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 66-H", "kind": "section", "law_id": "PBS", "location_id": "66-H", "path": "ARTICLE 4 › SECTION 66-H", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/66-H.md", "title": "Certain electric corporations; payment equivalent to tax"} -->
+# Public Service Law § 66-H — Certain electric corporations; payment equivalent to tax
+
+[Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
+
+```text
+  § 66-h. Certain electric corporations; payment equivalent to tax. The
+commission shall require each electric corporation that purchases
+electricity from an energy business as defined in subdivision (c) of
+section three hundred one-i of the tax law (1) that is a co-generation
+facility, as such term is defined in subdivision two-a of section two of
+this chapter, or (2) that is a qualifying facility, as such term is
+defined by section two hundred one of the Public Utility Regulatory
+Policies Act of 1978 (Public Law 95-617) that is a co-generation
+facility, or (3) that has executed or will execute a contract for the
+sale of electricity through negotiation with an electric corporation or
+an auction conducted by an electric corporation pursuant to a
+competitive bidding plan approved by the commission, to pay, in addition
+to payments made for such purchased electricity under a contract with
+such electric corporation, (i) an amount equal to the tax imposed under
+article thirteen-A of the tax law with respect to each Mcf of natural
+gas used to generate such electricity and (ii) with respect to contracts
+for the sale of electricity and/or steam executed prior to January
+first, two thousand, any sales and compensating use taxes imposed on
+natural gas used in the production of electricity and/or steam by or
+pursuant to the authority of section eleven hundred seven or subdivision
+(a) of section twelve hundred ten of the tax law, unless such sales and
+compensating use taxes imposed are otherwise accounted for in the
+payments the electric corporation makes under that contract; provided,
+however, that any such amount paid by such electric corporation shall be
+recovered through a fuel adjustment mechanism authorized by the
+commission; provided, further, that such amount shall not be recovered
+from charges for residential use provided by such electric corporation.
+```

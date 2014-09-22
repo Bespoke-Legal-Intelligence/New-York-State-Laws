@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 694", "kind": "section", "law_id": "LAB", "location_id": "694", "path": "ARTICLE 19-B › SECTION 694", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/694.md", "title": "Violations"} -->
+# Labor Law § 694 — Violations
+
+[Labor Law](../README.md) › [Article 19-B — Domestic Workers and Household Employees](README.md)
+
+```text
+  § 694. Violations. Any person who violates, and the officers of a
+corporation and stockholders holding ten percent or more of the stock of
+a corporation which is not publicly traded who knowingly permit the
+corporation to violate, subdivisions one and two of sections six hundred
+ninety-one and six hundred ninety-two of this article shall be guilty of
+a misdemeanor and upon conviction shall be subject to a fine not to
+exceed one thousand dollars, or imprisonment for not more than one year,
+or both, by any court of competent jurisdiction. Criminal proceedings
+based upon violation of such sections may be instituted by the
+commissioner and/or any persons aggrieved by such violations.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1110", "kind": "section", "law_id": "PBA", "location_id": "1110", "path": "ARTICLE 5 › TITLE 5 › SECTION 1110", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1110.md", "title": "Audit of authority; annual report"} -->
+# Public Authorities Law § 1110 — Audit of authority; annual report
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 5 — Monroe County Water Authority](README.md)
+
+```text
+  § 1110. Audit of authority; annual report. In conformity with the
+provisions of section five of article ten of the constitution, the
+accounts of the authority shall be subject to the supervision of the
+state comptroller and such state comptroller and his legally authorized
+representatives are hereby authorized and empowered from time to time to
+examine the accounts and the books of the authority, including its
+receipts, disbursements, contracts, leases, sinking funds, investments
+and any other matters relating to its financial standing. The authority
+shall annually submit to the governor and to the legislature a detailed
+report pursuant to the provisions of section twenty-eight hundred of
+this chapter.
+```

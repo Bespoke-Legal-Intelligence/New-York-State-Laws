@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Facilities Development Corporation Act § 4", "kind": "section", "law_id": "FDC", "location_id": "4", "path": "SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:FDC/4.md", "title": "Facilities Development corporation"} -->
+# Facilities Development Corporation Act § 4 — Facilities Development corporation
+
+[Facilities Development Corporation Act](README.md)
+
+```text
+  § 4. Facilities Development corporation. There is hereby created the
+facilities development corporation. The corporation shall be a corporate
+governmental agency constituting a public benefit corporation. From and
+after the effective date of the health care financing consolidation act,
+as provided in subdivision 1 of section 1699-f of the public authorities
+law, the corporation shall continue its corporate existence in and
+through the dormitory authority, and the dormitory authority shall
+succeed to all of the powers, duties and functions of the corporation.
+```

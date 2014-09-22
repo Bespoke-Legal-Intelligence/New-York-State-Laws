@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 119-P", "kind": "section", "law_id": "GMU", "location_id": "119-P", "path": "ARTICLE 5-H › SECTION 119-P", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/119-P.md", "title": "Projects relating to the use of atmospheric water resources"} -->
+# General Municipal Law § 119-P — Projects relating to the use of atmospheric water resources
+
+[General Municipal Law](../README.md) › [Article 5-H — Projects Relating to the Use of Atmospheric Water Resources](README.md)
+
+```text
+  § 119-p. Projects relating to the use of atmospheric water resources.
+Every municipal corporation is, and any two or more municipal
+corporations are, hereby authorized and empowered to conduct or engage
+in projects, experiments and other activities designed to develop the
+use of atmospheric water resources, and to make scientific evaluations
+of such projects, experiments and other activities, or to contract
+therefor, and to appropriate and expend moneys therefor. In the case of
+a joint project by two or more municipal corporations, the share of the
+cost of such project or activity to be borne by each such municipal
+corporation shall be fixed by contract. The expenditure of moneys for
+such purpose by a municipal corporation shall be deemed a lawful
+municipal purpose and the moneys appropriated therefor shall be raised
+by tax upon the taxable real property within the municipal corporation
+in the same manner as moneys for other lawful municipal purposes. Each
+municipal corporation is hereby authorized to accept and disburse grants
+of public or private money or other aid paid or made available by the
+state or federal government for any such purpose.
+```

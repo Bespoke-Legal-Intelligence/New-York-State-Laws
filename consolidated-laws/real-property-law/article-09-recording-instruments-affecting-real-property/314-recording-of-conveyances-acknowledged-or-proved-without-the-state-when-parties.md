@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 314", "kind": "section", "law_id": "RPP", "location_id": "314", "path": "ARTICLE 9 › SECTION 314", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/314.md", "title": "Recording of conveyances acknowledged or proved without the state, when parties and certifying officer are dead"} -->
+# Real Property Law § 314 — Recording of conveyances acknowledged or proved without the state, when parties and certifying officer are dead
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 314. Recording of conveyances acknowledged or proved without the
+state, when parties and certifying officer are dead. When the execution
+of a conveyance of real property within this state is acknowledged or
+proved according to the laws of any other state of the United States,
+and a certificate of the acknowledgment or proof signed by the officer
+taking it is annexed to or indorsed upon the instrument, if such officer
+and the grantor or mortgagor be dead and the death of all of them be
+proved by affidavit, sworn to in such state before an officer authorized
+by its laws to administer an oath therein, the conveyance, with the
+affidavit or affidavits annexed thereto, on being authenticated as
+required by this section, may be read in evidence and recorded in the
+same manner, and with like effect, as if the conveyance was acknowledged
+or proved and certified as required by the laws of this state. To
+entitle such conveyance and affidavits to be read in evidence, or
+recorded, a certificate of the clerk, recorder, register or prothonotary
+of the county in which the deceased officer resided, authenticating his
+signature, and also certifying that the conveyance is acknowledged or
+proved in all respects, as required by the laws of such state, must be
+annexed to the original certificate; and a like certificate of such
+clerk, recorder, register or prothonotary, authenticating the signature
+of the officer, before whom the affidavits proving the deaths were
+taken, must be annexed to such affidavits. The affidavits on being
+recorded, are presumptive evidence of the matters of fact, required to
+be stated therein.
+```

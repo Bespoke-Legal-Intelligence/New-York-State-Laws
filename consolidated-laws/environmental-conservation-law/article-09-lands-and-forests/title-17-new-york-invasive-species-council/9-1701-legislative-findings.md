@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 9-1701", "kind": "section", "law_id": "ENV", "location_id": "9-1701", "path": "ARTICLE 9 › TITLE 17 › SECTION 9-1701", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/9-1701.md", "title": "Legislative findings"} -->
+# Environmental Conservation Law § 9-1701 — Legislative findings
+
+[Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 17 — New York Invasive Species Council](README.md)
+
+```text
+§ 9-1701. Legislative findings.
+  The legislature finds that invasive plant and animal species pose an
+unacceptable risk to New York state's environment and economy and that
+this risk is increasing through time as more invasive species become
+established within the state. The legislature additionally finds that
+invasive species are having a detrimental effect upon the state's fresh
+and tidal wetlands, water bodies and waterways, forests, agricultural
+lands, meadows and grasslands, and other natural communities and systems
+by out-competing native species, diminishing biological diversity,
+altering community structure and, in some cases, changing ecosystem
+processes. Moreover, the legislature recognizes that the ecological
+integrity of an increasing number of publicly and privately-owned parks
+and preserves is being adversely affected by invasive plants and
+animals, challenging the ability of land management agencies to
+effectively manage these sites. The legislature further recognizes that
+nearly half (forty-six percent; fifty-seven percent of the plants,
+thirty-nine percent of the animals) of the species on the federal list
+of endangered species are declining, at least in part, due to invasive
+species. The legislature additionally finds that invasive species have
+an adverse impact on the New York state economy. Particularly affected
+by these species are the water supply, agricultural, and recreational
+sectors of the state economy. The economic impact to the national
+economy has been estimated to be as high as one hundred thirty-seven
+billion dollars annually.
+```

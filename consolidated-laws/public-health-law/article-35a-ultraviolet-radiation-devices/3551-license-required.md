@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3551", "kind": "section", "law_id": "PBH", "location_id": "3551", "path": "ARTICLE 35-A › SECTION 3551", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3551.md", "title": "License required"} -->
+# Public Health Law § 3551 — License required
+
+[Public Health Law](../README.md) › [Article 35-A — Ultraviolet Radiation Devices](README.md)
+
+```text
+  § 3551. License required. 1. On and after the effective date of this
+article, no person shall operate a tanning facility unless such facility
+is licensed as provided in this article.
+  2. The department shall license each applicant who submits an
+application on a form prescribed by the commissioner and meets the
+requirements of this article and any rules or regulations promulgated
+pursuant to this article, upon payment of a registration fee of thirty
+dollars.
+  3. The commissioner shall promulgate such rules and regulations as are
+necessary to effectuate the provisions of this article, including, but
+not limited to, establishing staggered biennial registration periods and
+the beginning dates thereof; assigning licensees to specific biennial
+registration periods through appropriate classification or grouping;
+setting deadline dates for making application for registration;
+prescribing the form and content of the license; and establishing other
+reasonable requirements, including appropriate proration of registration
+fees in connection with the initiation of a staggered biennial
+registration system.
+  4. No license issued hereunder shall be effective for more than two
+years from the date of issuance.
+```

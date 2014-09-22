@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 175", "kind": "section", "law_id": "TRA", "location_id": "175", "path": "ARTICLE 8 › SECTION 175", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/175.md", "title": "Issuance of permanent permit"} -->
+# Transportation Law § 175 — Issuance of permanent permit
+
+[Transportation Law](../README.md) › [Article 8 — Carriers of Property By Motor Vehicle](README.md)
+
+```text
+  § 175. Issuance of permanent permit. 1. A permanent permit to operate
+as a contract carrier of property may be issued by the commissioner to
+an applicant with or without hearing, but upon notice to all interested
+parties authorizing such applicant to provide transportation as a
+contract carrier of property. Applications for a permanent permit shall
+be accompanied by a filing fee as prescribed in section one hundred
+forty-four of this chapter. The application for a permanent permit shall
+be granted if the commissioner finds that:
+  (a) the applicant is fit, willing and able to provide the
+transportation to be authorized and to comply with this chapter and the
+regulations of the commissioner; and
+  (b) the proposed service to the extent authorized will be consistent
+with the public interest and the policy declared in section one hundred
+thirty-seven of this chapter.
+  2. No permit issued under this article shall confer any proprietary or
+property rights in the use of the highways.
+```

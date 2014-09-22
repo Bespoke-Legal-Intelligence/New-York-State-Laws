@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-327", "kind": "section", "law_id": "UCC", "location_id": "2-327", "path": "ARTICLE 2 › PART 3 › SECTION 2-327", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-327.md", "title": "Special Incidents of Sale on Approval and Sale or Return"} -->
+# Uniform Commercial Code § 2-327 — Special Incidents of Sale on Approval and Sale or Return
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 3 — General Obligation and Construction of Contract](README.md)
+
+```text
+Section 2--327. Special Incidents of Sale on Approval and Sale or
+                  Return.
+  (1) Under a sale on approval unless otherwise agreed
+       (a) although the goods are identified to the contract the risk of
+           loss and the title do not pass to the buyer until acceptance;
+           and
+       (b) use of the goods consistent with the purpose of trial is not
+           acceptance but failure seasonably to notify the seller of
+           election to return the goods is acceptance, and if the goods
+           conform to the contract acceptance of any part is acceptance
+           of the whole; and
+       (c) after due notification of election to return, the return is
+           at the seller's risk and expense but a merchant buyer must
+           follow any reasonable instructions.
+  (2) Under a sale or return unless otherwise agreed
+       (a) the option to return extends to the whole or any commercial
+           unit of the goods while in substantially their original
+           condition, but must be exercised seasonably; and
+       (b) the return is at the buyer's risk and expense.
+```

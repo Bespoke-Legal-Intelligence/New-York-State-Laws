@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Education Law § 4802", "kind": "section", "law_id": "EDN", "location_id": "4802", "path": "TITLE 6 › ARTICLE 97 › SECTION 4802", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/4802.md", "title": "Acquisition of lands and erection of buildings"} -->
+# Education Law § 4802 — Acquisition of lands and erection of buildings
+
+[Education Law](../../README.md) › [Title 6 — Special Schools and Instruction](../README.md) › [Article 97 — Home Schools In Certain Cities](README.md)
+
+```text
+  § 4802. Acquisition of lands and erection of buildings.  Upon the
+adoption of the resolution as provided in section forty-eight hundred
+one, the city, through its properly constituted officers having power
+and jurisdiction therein, shall lease or purchase land in a convenient,
+accessible place in the county in which such city is located and not
+less than six miles from the center of the city to be used for the
+purpose of such school.  Such land may be acquired by gift, purchase or
+condemnation.  The land when so acquired shall be held in the name of
+the city for the benefit of such school.  Upon acquisition of such land
+the city shall erect the necessary buildings and suitably equip them for
+use.  Such city may also provide for the improvement of existing
+buildings and make such repairs and alterations upon the buildings upon
+the land used for the purposes of the school as may be necessary for the
+maintenance and operation thereof.
+```

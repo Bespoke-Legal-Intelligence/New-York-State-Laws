@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 155-A", "kind": "section", "law_id": "EXC", "location_id": "155-A", "path": "ARTICLE 6-C › SECTION 155-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/155-A.md", "title": "Definitions"} -->
+# Executive Law § 155-A — Definitions
+
+[Executive Law](../README.md) › [Article 6-C — Office of Fire Prevention and Control](README.md)
+
+```text
+  § 155-a. Definitions. When used in this article:
+  1. "Districts" shall mean fire districts created pursuant to article
+eleven of the town law.
+  2. "Fire companies" shall mean fire companies governed by the
+not-for-profit corporation law.
+  3. "Municipal corporations" shall mean a county, city, town and
+village.
+  4. "Municipalities" shall mean municipal corporations.
+  5. "Sprinkler system" shall mean a system of piping and appurtenances
+designed and installed in accordance with generally accepted standards
+so that heat from a fire will automatically cause water to be discharged
+over the fire area to extinguish it or prevent its further spread.
+```

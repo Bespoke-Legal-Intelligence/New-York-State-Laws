@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 36", "kind": "section", "law_id": "PVH", "location_id": "36", "path": "ARTICLE 2 › SECTION 36", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/36.md", "title": "Sale of project prior to termination of tax exemption"} -->
+# Private Housing Finance Law § 36 — Sale of project prior to termination of tax exemption
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 36. Sale of project prior to termination of tax exemption. 1.
+Except as otherwise provided in this article and prior to the expiration
+of thirty-five years from the date of occupancy, a project, other than a
+project aided by a loan made after May first, nineteen hundred
+fifty-nine, shall not be sold except to a company organized pursuant to
+the provisions of this article; prior to the expiration of twenty years
+from the date of occupancy, a project aided by a loan made after May
+first, nineteen hundred fifty-nine, shall not be sold except to a
+company organized pursuant to the provisions of this article.  Such
+successor company shall acquire such project subject to all the
+provisions of the loan and mortgage contract and the provisions of this
+article, and shall be entitled to all the benefits provided in such
+contract or granted under this article, and a company so conveying all
+its projects may be dissolved with the consent of the commissioner or
+the supervising agency, as the case may be.
+  2. In the event of any sale described in this section, the
+stockholders of the dissolving company shall in no event receive more
+than the par value of their stock with accrued and unpaid dividends upon
+such stock.
+```

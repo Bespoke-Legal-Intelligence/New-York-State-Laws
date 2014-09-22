@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "State Law § 59-A", "kind": "section", "law_id": "STL", "location_id": "59-A", "path": "ARTICLE 4-A › SECTION 59-A", "repealed": false, "repealed_date": null, "source": "nys-laws:STL/59-A.md", "title": "Notice to owners"} -->
+# State Law § 59-A — Notice to owners
+
+[State Law](../README.md) › [Article 4-A — Acquisition of Land For Public Defense](README.md)
+
+```text
+  § 59-a. Notice to owners. The adjutant general shall, upon the filing
+of the certified copy of such survey, map and certificates in the office
+of such county clerk, serve upon the owners of the lands, and the
+structures and waters thereon, included in such survey, and upon all
+persons, corporations or municipalities having any estate or interest
+therein, a notice of the filing of such survey, map and certificates as
+above provided, which notice shall specifically describe that portion of
+the property belonging to the owner which has been so appropriated for
+the purposes hereinbefore prescribed. If the adjutant general is not
+able to serve such notice upon the owner of such property or the person
+or corporation having an estate or interest therein, after making
+reasonable effort to do so, or if he is unable to ascertain the persons,
+corporations or municipalities owning such lands and the structures and
+waters thereon, or is unable to discover the character of the estate or
+interest in and to such lands, of any person, corporation or
+municipality, he shall cause such notice to be published at least once
+in a newspaper published in the county where such land or any portion
+thereof is situated, and in such other newspapers as he may deem
+advisable.
+```

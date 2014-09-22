@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4172", "kind": "section", "law_id": "PBH", "location_id": "4172", "path": "ARTICLE 41 › TITLE 7 › SECTION 4172", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4172.md", "title": "Records; registrar to transmit through health officers"} -->
+# Public Health Law § 4172 — Records; registrar to transmit through health officers
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 7 — Vital Statistics Records](README.md)
+
+```text
+  § 4172. Records; registrar to transmit through health officers. 1.
+When the commissioner shall have so ordered, each registrar shall
+transmit, at such times as the commissioner shall direct, to designated
+local health units or officials copies of original birth and death
+certificates which have been registered in such primary registration
+district, and the statistical abstract of fetal death.
+  2. Each designated local health unit or official receiving copies of
+original certificates shall retain such copies thereof pursuant to
+subdivision one of this section as confidential records subject to such
+further regulation to assure such confidentiality as may be prescribed
+by the commissioner.
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 2104", "kind": "section", "law_id": "VAT", "location_id": "2104", "path": "TITLE 10 › ARTICLE 46 › SECTION 2104", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/2104.md", "title": "Certificate of title required"} -->
+# Vehicle and Traffic Law § 2104 — Certificate of title required
+
+[Vehicle and Traffic Law](../../README.md) › [Title 10 — Uniform Vehicle Certificate of Title Act](../README.md) › [Article 46 — Uniform Vehicle Certificate of Title Act](README.md)
+
+```text
+  § 2104. Certificate of title required.  (a) Every owner of a vehicle
+which is in this state and is not excluded from provisions of this title
+by section two thousand one hundred two of this article, and for which
+no certificate of title has been issued by the commissioner shall make
+application to the commissioner for a certificate of title of the
+vehicle within thirty days after transfer to him of the vehicle;
+provided, however, that a person may, but need not, make application to
+the commissioner for a certificate of title for a fire truck designed,
+used and maintained for fire service purposes and the transportation of
+property in connection therewith owned and identified as being owned by
+the state, a public authority, a county, town, city, village or fire
+district, or a fire corporation subject to the provisions of paragraph
+(e) of section fourteen hundred two of the not-for-profit corporation
+law, or a fire company as defined in section one hundred of the general
+municipal law.
+  (b) The commissioner shall not register or renew the registration of a
+vehicle unless a certificate of title has been issued by the
+commissioner to the owner or an application therefor has been made by
+the owner and delivered to the commissioner.
+```

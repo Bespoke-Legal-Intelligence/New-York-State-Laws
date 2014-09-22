@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 436", "kind": "section", "law_id": "PML", "location_id": "436", "path": "ARTICLE 4 › SECTION 436", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/436.md", "title": "Actions against fund"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 436 — Actions against fund
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 4 — Quarter Horse Racing and Breeding](README.md)
+
+```text
+  § 436. Actions against fund. Except in an action for wrongful death,
+no action against the fund founded upon tort shall be commenced (a)
+prior to the expiration of thirty days from the date on which the notice
+of claim upon which the action is founded, served pursuant to section
+fifty-e of the general municipal law, was presented to a member of the
+board of directors of the fund or other officer thereof designated for
+such purpose nor (b) more than one year and ninety days after the cause
+of action therefor shall have accrued. An action against the fund for
+wrongful death shall be commenced in accordance with the notice of claim
+and time limitation provisions of title eleven of article nine of the
+public authorities law.
+```

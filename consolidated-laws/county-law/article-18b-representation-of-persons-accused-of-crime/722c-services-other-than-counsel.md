@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "County Law § 722-C", "kind": "section", "law_id": "CNT", "location_id": "722-C", "path": "ARTICLE 18-B › SECTION 722-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/722-C.md", "title": "Services other than counsel"} -->
+# County Law § 722-C — Services other than counsel
+
+[County Law](../README.md) › [Article 18-B — Representation of Persons Accused of Crime or Parties Before the Family Court or Surrogate's Court](README.md)
+
+```text
+  § 722-c. Services other than counsel. Upon a finding in an ex parte
+proceeding that investigative, expert or other services are necessary
+and that the defendant or other person described in section two hundred
+forty-nine or section two hundred sixty-two of the family court act,
+article six-C of the correction law or section four hundred seven of the
+surrogate's court procedure act, is financially unable to obtain them,
+the court shall authorize counsel, whether or not assigned in accordance
+with a plan, to obtain the services on behalf of the defendant or such
+other person. The court upon a finding that timely procurement of
+necessary services could not await prior authorization may authorize the
+services nunc pro tunc. The court shall determine reasonable
+compensation for the services and direct payment to the person who
+rendered them or to the person entitled to reimbursement. Only in
+extraordinary circumstances may the court provide for compensation in
+excess of one thousand dollars per investigative, expert or other
+service provider.
+  Each claim for compensation shall be supported by a sworn statement
+specifying the time expended, services rendered, expenses incurred and
+reimbursement or compensation applied for or received in the same case
+from any other source.
+```

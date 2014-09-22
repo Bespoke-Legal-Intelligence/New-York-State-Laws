@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 114", "kind": "section", "law_id": "CAL", "location_id": "114", "path": "ARTICLE 11 › SECTION 114", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/114.md", "title": "Functions, powers or duties imposed upon officers or employees by statutory name"} -->
+# Canal Law § 114 — Functions, powers or duties imposed upon officers or employees by statutory name
+
+[Canal Law](../README.md) › [Article 11 — Canal Employees](README.md)
+
+```text
+  § 114. Functions, powers or duties imposed upon officers or employees
+by statutory name. Whenever a function, power or duty is imposed upon
+the corporation, and an officer or employee, or a group or class thereof
+is designated in this chapter by a statutory or specific title or name
+to exercise such function or power or perform such duty, the exercise or
+performance thereof shall be deemed to be imposed upon the officer or
+employee in such corporation who shall be assigned thereto by such
+corporation, with the same force and effect, and such corporation may
+make such assignment as though no statutory or specific title or name
+had been used in this chapter to designate the particular officer or
+employee or group or class thereof charged with the exercise of such
+function or power, or the performance of such duty.
+```

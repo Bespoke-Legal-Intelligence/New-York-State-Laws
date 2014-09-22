@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 250", "kind": "section", "law_id": "DOM", "location_id": "250", "path": "ARTICLE 13 › SECTION 250", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/250.md", "title": "Agreements relating to marriage; statute of limitations"} -->
+# Domestic Relations Law § 250 — Agreements relating to marriage; statute of limitations
+
+[Domestic Relations Law](../README.md) › [Article 13 — Provisions Applicable to More Than One Type of Matrimonial Action](README.md)
+
+```text
+  § 250. Agreements relating to marriage; statute of limitations. 1. The
+statute of limitations for commencing an action or proceeding or for
+claiming a defense that arises from an agreement made pursuant to
+subdivision three of part B of section two hundred thirty-six of this
+article entered into (a) prior to a marriage or (b) during the marriage,
+but prior to the service of process in a matrimonial action or
+proceeding, shall be three years.
+  2. The statute of limitations shall be tolled until (a) process has
+been served in such matrimonial action or proceeding, or (b) the death
+of one of the parties.
+  3. The provisions of this section shall not apply to a separation
+agreement or an agreement made during the pendency of a matrimonial
+action or in settlement thereof.
+```

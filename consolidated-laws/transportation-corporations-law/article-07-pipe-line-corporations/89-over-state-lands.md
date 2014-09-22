@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 89", "kind": "section", "law_id": "TCP", "location_id": "89", "path": "ARTICLE 7 › SECTION 89", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/89.md", "title": "Over state lands"} -->
+# Transportation Corporations Law § 89 — Over state lands
+
+[Transportation Corporations Law](../README.md) › [Article 7 — Pipe Line Corporations](README.md)
+
+```text
+  § 89. Over state lands. The commissioner of general services shall
+have power to grant to any pipe line corporation any lands belonging to
+the people of this state which may be required for the purposes of its
+incorporation on such terms as may be agreed, or such corporation may
+acquire title thereto by condemnation, except that no pipe line
+corporation may condemn any canal lands abandoned pursuant to the
+provisions of article four of the public lands law, constituting chapter
+fifty of the laws of nineteen hundred nine, as amended, until after they
+have been sold and conveyed in the manner provided by the public lands
+law. If any lands owned by any county, city or town be required by such
+corporation for such purposes, the county, city or town officers having
+charge of such lands may grant them to the corporation upon terms and
+compensation agreed upon.
+```

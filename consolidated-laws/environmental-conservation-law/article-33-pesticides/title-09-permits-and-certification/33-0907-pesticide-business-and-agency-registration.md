@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 33-0907", "kind": "section", "law_id": "ENV", "location_id": "33-0907", "path": "ARTICLE 33 › TITLE 9 › SECTION 33-0907", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/33-0907.md", "title": "Pesticide business and agency registration"} -->
+# Environmental Conservation Law § 33-0907 — Pesticide business and agency registration
+
+[Environmental Conservation Law](../../README.md) › [Article 33 — Pesticides](../README.md) › [Title 9 — Permits and Certification](README.md)
+
+```text
+§ 33-0907. Pesticide business and agency registration.
+  1. Any pesticide business or agency as defined in this article shall
+register with the commissioner.
+  2. Applications for pesticide business or agency registration shall be
+made to the commissioner. The application shall be on a form prescribed
+by the commissioner and shall provide such information as the
+commissioner shall require.
+  3. An applicant for pesticide business or agency registration shall
+satisfy standards, as determined by the commissioner to be appropriate,
+with respect to knowledge and experience concerning the proper use and
+application of pesticides and pesticide equipment.
+  4. Business or agency registration shall be valid for three years.
+```

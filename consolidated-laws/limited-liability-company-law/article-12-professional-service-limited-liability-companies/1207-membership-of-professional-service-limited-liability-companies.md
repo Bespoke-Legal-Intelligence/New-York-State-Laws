@@ -1,0 +1,96 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 1207", "kind": "section", "law_id": "LLC", "location_id": "1207", "path": "ARTICLE 12 › SECTION 1207", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/1207.md", "title": "Membership of professional service limited liability companies"} -->
+# Limited Liability Company Law § 1207 — Membership of professional service limited liability companies
+
+[Limited Liability Company Law](../README.md) › [Article 12 — Professional Service Limited Liability Companies](README.md)
+
+```text
+  § 1207. Membership of professional service limited liability
+companies.  (a) A member of a professional service limited liability
+company shall be only:
+  (1) A professional, other than a foreign professional service
+corporation, foreign professional service limited liability company or
+foreign limited liability partnership, authorized by law to practice in
+this state a profession that such limited liability company is
+authorized to practice and who is or has been engaged in the practice of
+such profession in such limited liability company or a predecessor
+entity, or who will engage in the practice of such profession in such
+limited liability company within thirty days of the date such
+professional becomes a member;
+  (2) A professional, other than a foreign professional service
+corporation, foreign professional service limited liability company or
+foreign limited liability partnership, authorized by law to practice in
+any foreign jurisdiction a profession that such limited liability
+company is authorized to practice and who is or has been engaged in the
+practice of such profession in such limited liability company or a
+predecessor entity, or who will engage in the practice of such
+profession in such limited liability company within thirty days of the
+date such professional becomes a member; or
+  (3) A foreign professional service corporation, foreign professional
+service limited liability company or foreign limited liability
+partnership authorized by law to practice in this state or in any
+foreign jurisdiction a profession that such limited liability company is
+authorized to practice and who is or has been engaged in the practice of
+such profession in such limited liability company or a predecessor
+entity, or who will engage in the practice of such profession in such
+limited liability company within thirty days of the date such
+professional becomes a member.
+  (b) With respect to a professional service limited liability company
+formed to provide medical services as such services are defined in
+article 131 of the education law, each member of such limited liability
+company must be licensed pursuant to article 131 of the education law to
+practice medicine in this state. With respect to a professional service
+limited liability company formed to provide dental services as such
+services are defined in article 133 of the education law, each member of
+such limited liability company must be licensed pursuant to article 133
+of the education law to practice dentistry in this state. With respect
+to a professional service limited liability company formed to provide
+veterinary services as such services are defined in article 135 of the
+education law, each member of such limited liability company must be
+licensed pursuant to article 135 of the education law to practice
+veterinary medicine in this state. With respect to a professional
+service limited liability company formed to provide professional
+engineering, land surveying, architectural and/or landscape
+architectural services as such services are defined in article 145,
+article 147 and article 148 of the education law, each member of such
+limited liability company must be licensed pursuant to article 145,
+article 147 and/or article 148 of the education law to practice one or
+more of such professions in this state. With respect to a professional
+service limited liability company formed to provide licensed clinical
+social work services as such services are defined in article 154 of the
+education law, each member of such limited liability company shall be
+licensed pursuant to article 154 of the education law to practice
+licensed clinical social work in this state. With respect to a
+professional service limited liability company formed to provide
+creative arts therapy services as such services are defined in article
+163 of the education law, each member of such limited liability company
+must be licensed pursuant to article 163 of the education law to
+practice creative arts therapy in this state. With respect to a
+professional service limited liability company formed to provide
+marriage and family therapy services as such services are defined in
+article 163 of the education law, each member of such limited liability
+company must be licensed pursuant to article 163 of the education law to
+practice marriage and family therapy in this state. With respect to a
+professional service limited liability company formed to provide mental
+health counseling services as such services are defined in article 163
+of the education law, each member of such limited liability company must
+be licensed pursuant to article 163 of the education law to practice
+mental health counseling in this state. With respect to a professional
+service limited liability company formed to provide psychoanalysis
+services as such services are defined in article 163 of the education
+law, each member of such limited liability company must be licensed
+pursuant to article 163 of the education law to practice psychoanalysis
+in this state. With respect to a professional service limited liability
+company formed to provide applied behavior analysis services as such
+services are defined in article 167 of the education law, each member of
+such limited liability company must be licensed or certified pursuant to
+article 167 of the education law to practice applied behavior analysis
+in this state.
+  (c) No member of a professional service limited liability company
+shall enter into a voting trust agreement, proxy or any other type of
+agreement vesting in another person, other than another member of such
+limited liability company or professional who would be eligible to
+become a member of such limited liability company, the authority to
+exercise voting power of any or all of the membership interests of such
+limited liability company. All membership interests or proxies granted
+or agreements made in violation of this section shall be void.
+```

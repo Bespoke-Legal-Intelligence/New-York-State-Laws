@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 638", "kind": "section", "law_id": "BNK", "location_id": "638", "path": "ARTICLE 13-A › SECTION 638", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/638.md", "title": "Manner and time within which taking possession may be tested"} -->
+# Banking Law § 638 — Manner and time within which taking possession may be tested
+
+[Banking Law](../README.md) › [Article 13-A — Licensees: Superintendent's Taking Possession: Conservation: Liquidation](README.md)
+
+```text
+  § 638. Manner and time within which taking possession may be tested.
+At any time within ten days after the superintendent has taken
+possession of the business and property of any licensee, such licensee
+may apply to the supreme court in the judicial district in which its
+principal office is located, for an order requiring the superintendent
+to show cause why he should not be enjoined from continuing such
+possession. The court may, upon good cause shown, direct the
+superintendent to refrain from further proceedings and to surrender such
+possession.
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 81", "kind": "section", "law_id": "TRA", "location_id": "81", "path": "ARTICLE 3 › SECTION 81", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/81.md", "title": "Counsel to the commissioner; duties"} -->
+# Transportation Law § 81 — Counsel to the commissioner; duties
+
+[Transportation Law](../README.md) › [Article 3 — Jurisdiction of Commissioner; Proceedings Before Commissioner; Recovery of Penalties; Court Preferences; Fees](README.md)
+
+```text
+  § 81. Counsel to the commissioner; duties. The commissioner shall
+appoint an attorney to represent and appear for the people of the state
+and the commissioner in all actions and proceedings involving any
+question under this chapter, or within the jurisdiction of the
+commissioner under the railroad law, or under or in reference to any act
+or order of the commissioner, in relation to functions and powers
+possessed by and all obligations and duties transferred to the
+commissioner from the public service commission and the department of
+public service by the provisions of this chapter and, if directed to do
+so by the commissioner, to intervene, if possible, in any action or
+proceeding in which any such question is involved. The attorney
+appointed by the commissioner shall have the duty of commencing and
+prosecuting all actions and proceedings directed or authorized by the
+commissioner, and to expedite in every way possible final determination
+of all such actions and proceedings.
+```

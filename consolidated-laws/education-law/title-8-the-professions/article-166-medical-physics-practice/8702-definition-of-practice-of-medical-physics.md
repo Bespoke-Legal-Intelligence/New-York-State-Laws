@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Education Law § 8702", "kind": "section", "law_id": "EDN", "location_id": "8702", "path": "TITLE 8 › ARTICLE 166 › SECTION 8702", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/8702.md", "title": "Definition of \"practice of medical physics\""} -->
+# Education Law § 8702 — Definition of "practice of medical physics"
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 166 — Medical Physics Practice](README.md)
+
+```text
+  § 8702. Definition of "practice of medical physics". 1. The "practice
+of the profession of medical physics" shall mean the use and application
+of accepted principles and protocols of physics in a clinical setting to
+assure the correct quality, quantity and placement of radiation during
+the performance of a radiological procedure, so as to protect the
+patient and other persons from harmful, excessive or misapplied
+radiation. Such practice shall include, but not necessarily be limited
+to: radiation beam calibration and characterization; oversight and
+responsibility for patient radiation dose measurement, calculation and
+reporting; oversight and responsibility for quality control; instrument
+specification; optimization of image quality; acceptance testing;
+shielding design; protection analysis on radiation emitting equipment
+and radio-pharmaceuticals; and consultation with a physician to assure
+accurate radiation dosage and application to a specific patient.
+  2. A license to practice medical physics shall be issued with special
+competency in one or more specialty areas in which the licensee has
+satisfied the requirements of section eighty-seven hundred five of this
+article.
+  3. The practice in any specialty by a person whose license is not
+issued with special competency for such specialty shall be deemed the
+unauthorized practice of the profession of medical physics.
+  4. Only a person licensed under this article shall practice the
+profession of medical physics.
+```

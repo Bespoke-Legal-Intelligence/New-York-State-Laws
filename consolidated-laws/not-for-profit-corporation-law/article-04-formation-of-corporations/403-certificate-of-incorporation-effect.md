@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 403", "kind": "section", "law_id": "NPC", "location_id": "403", "path": "ARTICLE 4 › SECTION 403", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/403.md", "title": "Certificate of incorporation; effect"} -->
+# Not-for-Profit Corporation Law § 403 — Certificate of incorporation; effect
+
+[Not-for-Profit Corporation Law](../README.md) › [Article 4 — Formation of Corporations](README.md)
+
+```text
+§ 403. Certificate of incorporation; effect.
+  Upon the filing of the certificate of incorporation by the department
+of state, the corporate existence shall begin, and such certificate
+shall be conclusive evidence that all conditions precedent have been
+fulfilled and that the corporation has been formed under this chapter,
+except in an action or special proceeding brought by the
+attorney-general.  Where the certificate is for the incorporation of an
+unincorporated association or group, the members of such association or
+group shall be members of the corporation so created, and all property
+owned by or held for it shall belong to and vest in the corporation,
+subject to all existing incumbrances and claims as if incorporation had
+not taken place. Where the certificate is for the reincorporation of a
+corporation created by special law for purposes for which a corporation
+may be formed under this chapter, such reincorporation shall not effect
+a dissolution of the corporation but shall be a continuation of its
+corporate existence, without affecting its then existing property rights
+or liabilities, or the liabilities of its members or officers as such,
+but thereafter it shall have only such rights, powers and privileges,
+and be subject to such other duties and liabilities as a corporation
+formed for the same purposes under this chapter.
+```

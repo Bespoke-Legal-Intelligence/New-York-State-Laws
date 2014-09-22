@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2113", "kind": "section", "law_id": "SCP", "location_id": "2113", "path": "ARTICLE 21 › SECTION 2113", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2113.md", "title": "Proof or probate of heirship 1"} -->
+# Surrogate's Court Procedure Act § 2113 — Proof or probate of heirship 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 21 — Miscellaneous Proceedings](README.md)
+
+```text
+§ 2113. Proof or probate of heirship
+  1.  Where a person seized in fee of real property within the state
+dies intestate or without devising his real property, his distributees
+or any of them or any person deriving title from or through such
+distributees or any of them may present either to the court which has
+jurisdiction of the estate or to the court of a county where the real
+property or any part thereof is situated, a petition describing the
+property and showing the interest or share of the petitioner and of each
+distributee of the decedent in the property and praying for a decree
+establishing the right of inheritance thereto and that all the
+distributees of the decedent be required to show cause why the prayer of
+the petition should not be granted.  Process must issue accordingly.
+  2.  Upon the return of process the court must hear the allegations and
+proofs of the parties and determine the issues raised.  The petitioner
+must establish
+  (a)  The fact of the decedent's death.
+  (b)  His domicile at the time thereof.
+  (c)  His intestacy, either generally or as to the real property.
+  (d)  His distributees entitled to inherit the property.
+  (e)  The name, age, domicile and relationship to the decedent, of
+each, and
+  (f)  The interest or share of each in the property.
+  3.  The decree determining the issues shall be recorded by the
+petitioner in the office of the county clerk or the register, as the
+case may be, of each county in which the real property is situate, as
+prescribed by law for recording a deed.
+```

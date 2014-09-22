@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 25", "kind": "section", "law_id": "PBO", "location_id": "25", "path": "ARTICLE 2-A › SECTION 25", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/25.md", "title": "Indorsement upon execution"} -->
+# Public Officers Law § 25 — Indorsement upon execution
+
+[Public Officers Law](../README.md) › [Article 2-A — Actions On Official Bonds or Undertakings](README.md)
+
+```text
+  § 25. Indorsement upon execution.  Where an execution is issued upon a
+judgment, recovered against the public officer and any of his sureties,
+in an action, brought pursuant to this article, the plaintiff's attorney
+must indorse thereon a direction to collect the same, in the first place
+out of the property of the public officer, and, if sufficient property
+cannot be found, then to collect the deficiency out of the property of
+the surety or sureties.
+```

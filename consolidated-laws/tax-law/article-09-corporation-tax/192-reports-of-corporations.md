@@ -1,0 +1,97 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 192", "kind": "section", "law_id": "TAX", "location_id": "192", "path": "ARTICLE 9 › SECTION 192", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/192.md", "title": "Reports of corporations"} -->
+# Tax Law § 192 — Reports of corporations
+
+[Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+```text
+  § 192. Reports of corporations. Corporations liable to pay a tax under
+this article shall report as follows:
+  * 1. Corporations paying franchise tax. Every corporation, association
+or joint-stock company liable to pay a tax under section one hundred
+eighty-three or one hundred eighty-five of this chapter shall, on or
+before March fifteenth in each year, make a written report to the tax
+commission of its condition at the close of its business on the
+preceding December thirty-first, stating the amount of its authorized
+capital stock, the amount of stock paid in, the date and rate per centum
+of each dividend paid by it during the year ending with such day, the
+entire amount of the capital of such corporation, and the capital
+employed by it in this state during such year.
+  * NB Effective until January 1, 2018
+  * 1. Corporations paying franchise tax. Every corporation, association
+or joint-stock company liable to pay a tax under section one hundred
+eighty-three of this chapter shall, on or before March fifteenth in each
+year, make a written report to the tax commission of its condition at
+the close of its business on the preceding December thirty-first,
+stating the amount of its authorized capital stock, the amount of stock
+paid in, the date and rate per centum of each dividend paid by it during
+the year ending with such day, the entire amount of the capital of such
+corporation, and the capital employed by it in this state during such
+year.
+  * NB Effective January 1, 2018
+  2. Transportation and transmission corporations. Every transportation
+or transmission corporation, joint-stock company or association liable
+to pay an additional franchise tax under section one hundred eighty-four
+of this chapter, shall also, on or before March fifteenth of each year,
+make a written report to the tax commission of the amount of its gross
+earnings subject to the tax imposed by said section for the year ended
+on the preceding December thirty-first, except that the year ended on
+December thirty-first, nineteen hundred seventy-six shall be deemed, for
+the purposes of this subdivision, to have commenced on July first,
+nineteen hundred seventy-six. Any such corporation, joint-stock company
+or association which ceases to be subject to the tax imposed by section
+one hundred eighty-four of this chapter by reason of a liquidation,
+dissolution, merger or consolidation with any other corporation, or any
+other cause, shall, on the date of such cessation or at such other time
+as the tax commission may require, make a written report to the tax
+commission of the amount of its gross earnings subject to the tax
+imposed by section one hundred eighty-four of this chapter for any
+period for which no report was theretofore filed. Any corporation,
+joint-stock company or association subject to a tax upon dividends under
+said section one hundred eighty-four of this chapter shall also include
+in its report under this subdivision required to be filed a statement of
+the authorized capital of the company, the amount of capital stock
+issued, and the amount of dividends of every nature paid during the year
+ended on the preceding December thirty-first. As to tax payers subject
+to such tax upon dividends under said section one hundred eighty-four of
+this chapter, the year ended on December thirty-first, nineteen hundred
+seventy-six shall be deemed, for the purposes of this subdivision, to
+have commenced on July first, nineteen hundred seventy-six.
+  4. Insurance corporations. (a) Except as hereinafter provided in
+paragraph (b), every insurance corporation liable to pay a tax under
+section one hundred eighty-seven of this chapter shall, on or before
+March first, June first, September first and December first in each
+year, make a written report to the tax commission and to the
+superintendent of financial services covering the quarter year ending on
+the last day of the third month preceding that in which the report is
+required to be filed, in such form and containing such information as
+the tax commission may deem necessary for the determination of the tax
+due for each such quarter year. There shall also be filed with the tax
+commission and with the superintendent of financial services, on or
+before March fifteenth of each year, a statement which will reconcile
+the net taxable premiums shown in the quarterly reports, made pursuant
+to this section, for the preceding calendar year, with the total gross
+and net premiums shown in the annual statement of the insurance
+corporation filed with said superintendent of financial services for
+such year pursuant to section three hundred seven of the insurance law.
+  (b) Every insurance corporation liable to pay a tax under subdivisions
+six and eight of section one hundred eighty-seven of this chapter shall,
+on or before the fifteenth day of March, make and file a written report
+with the tax commission and with the superintendent of financial
+services, covering the preceding calendar year, in such form and
+containing such information as the tax commission may deem necessary for
+the determination of the tax imposed by said subdivisions, and such
+calendar year shall be deemed the taxable year within the meaning of
+this section and of said subdivisions, provided, however that insurance
+corporations liable to pay tax under subdivision eight of section one
+hundred eighty-seven shall be required to make the reports required
+herein only on the fifteenth day of March in the years nineteen hundred
+sixty-five through and including nineteen hundred seventy-six.
+  * 5. Foreign corporations subject to license fee. Every foreign
+corporation subject to the license fee imposed by section one hundred
+eighty-one of this chapter shall include in the reports filed by it,
+pursuant to the provisions of articles nine or nine-a of this chapter,
+such information, in such form as the tax commission may prescribe, as
+may be necessary to enable the tax commission to determine the amount of
+its license fee, pursuant to the aforesaid section.
+  * NB Repealed January 1, 2015
+```

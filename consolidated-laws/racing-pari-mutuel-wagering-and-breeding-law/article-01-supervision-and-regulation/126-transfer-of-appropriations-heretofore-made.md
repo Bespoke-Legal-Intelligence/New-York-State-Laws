@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 126", "kind": "section", "law_id": "PML", "location_id": "126", "path": "ARTICLE 1 › SECTION 126", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/126.md", "title": "Transfer of appropriations heretofore made"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 126 — Transfer of appropriations heretofore made
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 1 — Supervision and Regulation](README.md)
+
+```text
+  § 126. Transfer of appropriations heretofore made. Subject to the
+approval of the director of the budget, any and all appropriations and
+reappropriations heretofore made to the former division of the lottery
+and former racing and wagering board for the functions and purposes
+transferred by this article to the commission to the extent of remaining
+unexpended or unencumbered balances thereof, whether allocated or
+unallocated and whether obligated or unobligated, are hereby transferred
+to and made available for use and expenditure by the commission for the
+same purposes for which originally appropriated or reappropriated and
+shall be payable on vouchers certified or approved by the chair of the
+commission or his or her designee on audit and warrant of the
+comptroller. Payments for liabilities for expenses of personal services,
+maintenance and operation heretofore incurred by and for liabilities
+incurred and to be incurred in completing the affairs of the former
+division of the lottery and former racing and wagering board with
+respect to the powers, duties and functions transferred herein, shall
+also be made on vouchers or certificates approved by the chair of the
+commission or his or her designee on audit and warrant of the
+comptroller.
+```

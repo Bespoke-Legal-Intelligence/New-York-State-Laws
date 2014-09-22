@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 168", "kind": "section", "law_id": "AGM", "location_id": "168", "path": "ARTICLE 14 › SECTION 168", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/168.md", "title": "Sale of fruit-bearing trees and grapevines; labels; damages"} -->
+# Agriculture and Markets Law § 168 — Sale of fruit-bearing trees and grapevines; labels; damages
+
+[Agriculture and Markets Law](../README.md) › [Article 14 — Prevention and Control of Disease In Trees and Plants; Insect Pests; Sale of Fruit-bearing Trees](README.md)
+
+```text
+  § 168. Sale of fruit-bearing trees and grapevines; labels; damages.
+The vendor shall attach to every bundle of fruit-bearing trees and
+grapevines sold or shipped within this state a tag or label specifying
+the name of the variety of trees or vines contained therein. If the
+bundle shall contain trees or vines of different varieties, such label
+or tag shall be attached to each tree or vine or group thereof of the
+same variety. The purchaser of any fruit-bearing tree or grapevine not
+true to name as specified on such tag or label, shall have a remedy at
+law in a civil action to recover the damages sustained.  Such action may
+be brought at any time prior to the third bearing year.
+```

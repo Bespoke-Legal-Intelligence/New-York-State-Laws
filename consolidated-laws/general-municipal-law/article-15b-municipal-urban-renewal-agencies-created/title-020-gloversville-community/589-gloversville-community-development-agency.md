@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 589", "kind": "section", "law_id": "GMU", "location_id": "589", "path": "ARTICLE 15-B › TITLE 20 › SECTION 589", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/589.md", "title": "Gloversville community development agency"} -->
+# General Municipal Law § 589 — Gloversville community development agency
+
+[General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 20 — Gloversville Community Development Agency](README.md)
+
+```text
+  § 589. Gloversville community development agency. A municipal
+community development agency, to be known as the Gloversville community
+development agency, is hereby established for the accomplishment of any
+or all of the purposes specified in articles fifteen and fifteen-A of
+this chapter and in accordance with article eighteen of the constitution
+of the state of New York.  It shall constitute a body corporate and
+politic, be perpetual in duration and consist of five members to be
+appointed by the mayor subject to the approval of the common council,
+one of which members may be the mayor of the city of Gloversville and
+one of which members may be a member of the common council of the city
+of Gloversville. It shall have the powers and duties now or hereafter
+conferred by article fifteen-A of this chapter upon municipal urban
+renewal agencies. It shall be organized in the manner prescribed by and
+be subject to the provisions of article fifteen-A of this chapter and
+the agency, its members, officers and employees and its operations and
+activities shall in all respects be governed by the provisions of such
+article.
+```

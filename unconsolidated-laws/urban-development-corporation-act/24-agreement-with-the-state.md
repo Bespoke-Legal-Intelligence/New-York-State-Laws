@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Urban Development Corporation Act § 24", "kind": "section", "law_id": "UDA", "location_id": "24", "path": "SECTION 24", "repealed": false, "repealed_date": null, "source": "nys-laws:UDA/24.md", "title": "Agreement with the state"} -->
+# Urban Development Corporation Act § 24 — Agreement with the state
+
+[Urban Development Corporation Act](README.md)
+
+```text
+  § 24. Agreement with the state. The state does hereby pledge to and
+agree with the holders of any bonds or notes issued under this act, that
+the state will not limit or alter the rights hereby vested in the
+corporation to fulfill the terms of any agreements made with the holders
+thereof, or in any way impair the rights and remedies of such holders
+until such bonds or notes, together with the interest thereon, with
+interest on any unpaid installments of interest, and all costs and
+expenses in connection with any action or proceeding by or on behalf of
+such holders, are fully met and discharged. The corporation is
+authorized to include this pledge and agreement of the state in any
+agreement with the holders of such bonds or notes.
+```

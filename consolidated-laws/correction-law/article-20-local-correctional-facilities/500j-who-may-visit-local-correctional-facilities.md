@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 500-J", "kind": "section", "law_id": "COR", "location_id": "500-J", "path": "ARTICLE 20 › SECTION 500-J", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/500-J.md", "title": "Who may visit local correctional facilities"} -->
+# Correction Law § 500-J — Who may visit local correctional facilities
+
+[Correction Law](../README.md) › [Article 20 — Local Correctional Facilities](README.md)
+
+```text
+  § 500-j. Who may visit local correctional facilities. The following
+persons may visit at pleasure all local correctional facilities: The
+governor and lieutenant-governor, secretary of state, comptroller and
+attorney-general, members of the legislature, judges of the court of
+appeals, justices of the supreme court and county judges, district
+attorneys and every clergyman or minister, as such terms are defined in
+section two of the religious corporations law, having charge of a
+congregation in the county in which such facility is located. No other
+person not otherwise authorized by law shall be permitted to enter the
+rooms of a local correctional facility in which convicts are confined,
+unless under such regulations as the sheriff of the county, or in
+counties within the city of New York, the commissioner of correction of
+such city, or in the county of Westchester, the commissioner of
+correction of such county shall prescribe.
+```

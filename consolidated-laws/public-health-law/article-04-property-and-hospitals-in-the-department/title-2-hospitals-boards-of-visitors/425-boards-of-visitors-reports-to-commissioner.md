@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 425", "kind": "section", "law_id": "PBH", "location_id": "425", "path": "ARTICLE 4 › TITLE 2 › SECTION 425", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/425.md", "title": "Boards of visitors; reports to commissioner and governor"} -->
+# Public Health Law § 425 — Boards of visitors; reports to commissioner and governor
+
+[Public Health Law](../../README.md) › [Article 4 — Property and Hospitals In the Department of Health](../README.md) › [Title 2 — Hospitals: Boards of Visitors](README.md)
+
+```text
+  § 425. Boards of visitors; reports to commissioner and governor.  1.
+The board of visitors of each hospital in the department shall make a
+written report to the commissioner and to the governor within ten days
+after each inspection, such report to be signed by each member making
+the inspection. Such report shall state in detail the condition of the
+hospital and of its patients, and such other matters pertaining to the
+management and affairs thereof as in the opinion of the board of
+visitors should be brought to the attention of the commissioner or the
+governor, and may contain recommendations as to needed improvement in
+the hospital or in its management.
+  2. Each board of visitors shall make to the commissioner in January of
+each year a detailed report of the results of its visits and
+inspections, with suitable suggestions and such other matters as may be
+required of it by the commissioner for the year ending on the
+thirty-first day of December preceding the day of such report. Such
+report shall be prepared by a committee of the board of visitors,
+subject to the approval of the board.
+```

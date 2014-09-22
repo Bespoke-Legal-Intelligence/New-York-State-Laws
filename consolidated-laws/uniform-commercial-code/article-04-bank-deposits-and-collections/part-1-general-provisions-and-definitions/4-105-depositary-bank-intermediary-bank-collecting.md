@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 4-105", "kind": "section", "law_id": "UCC", "location_id": "4-105", "path": "ARTICLE 4 › PART 1 › SECTION 4-105", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/4-105.md", "title": "\"Depositary Bank\"; \"Intermediary Bank\"; \"Collecting Bank\"; \"Payor Bank\"; \"Presenting Bank\"; \"Remitting Bank\""} -->
+# Uniform Commercial Code § 4-105 — "Depositary Bank"; "Intermediary Bank"; "Collecting Bank"; "Payor Bank"; "Presenting Bank"; "Remitting Bank"
+
+[Uniform Commercial Code](../../README.md) › [Article 4 — Bank Deposits and Collections](../README.md) › [Part 1 — General Provisions and Definitions](README.md)
+
+```text
+Section 4--105. "Depositary Bank"; "Intermediary Bank"; "Collecting
+                  Bank"; "Payor Bank"; "Presenting Bank"; "Remitting
+                  Bank".
+  In this Article unless the context otherwise requires:
+  (a) "Depositary bank" means the first bank to which an item is
+transferred for collection even though it is also the payor bank;
+  (b) "Payor bank" means a bank by which an item is payable as drawn or
+accepted;
+  (c) "Intermediary bank" means any bank to which an item is transferred
+in course of collection except the depositary or payor bank;
+  (d) "Collecting bank" means any bank handling the item for collection
+except the payor bank;
+  (e) "Presenting bank" means any bank presenting an item except a payor
+bank;
+  (f) "Remitting bank" means any payor or intermediary bank remitting
+for an item.
+```

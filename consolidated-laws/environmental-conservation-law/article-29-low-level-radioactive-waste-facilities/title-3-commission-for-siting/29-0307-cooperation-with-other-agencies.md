@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 29-0307", "kind": "section", "law_id": "ENV", "location_id": "29-0307", "path": "ARTICLE 29 › TITLE 3 › SECTION 29-0307", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/29-0307.md", "title": "Cooperation with other agencies"} -->
+# Environmental Conservation Law § 29-0307 — Cooperation with other agencies
+
+[Environmental Conservation Law](../../README.md) › [Article 29 — Low-level Radioactive Waste Facilities](../README.md) › [Title 3 — Commission For Siting Low-level Radioactive Waste Disposal Facilities](README.md)
+
+```text
+* § 29-0307. Cooperation with other agencies.
+  1. All agencies and authorities of the state, municipalities, and
+political subdivisions of the state are hereby directed to cooperate
+with the commission in order to facilitate and expedite the
+responsibilities and duties of the commission. To the extent practicable
+and not otherwise inconsistent with law and upon the request of the
+commission, any agency or authority of the state shall provide copies of
+existing studies, surveys, plans, data, and other materials in its
+possession to the commission.
+  2. The commission shall assure that the advisory committee appointed
+pursuant to section 29-0501 of this article has a timely opportunity to
+provide information and recommendations to the commission on all aspects
+of its activities pursuant to section 29-0303 of this title.
+  3. In consultation and cooperation with the advisory committee
+established pursuant to section 29-0501 of this article, the commission
+shall keep the public informed of its activities in developing the draft
+environmental impact statement required by section 29-0303 of this title
+and encourage the public to participate by providing views, comments,
+information, and analysis concerning siting and disposal method
+selection for permanent disposal facilities.
+  4. The department of audit and control and the department of law are
+hereby directed to expedite the processing of all contracts associated
+with carrying out the provisions of this section.
+  * NB Commission existence pursuant to § 29-0309
+```

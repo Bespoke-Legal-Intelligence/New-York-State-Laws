@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 541", "kind": "section", "law_id": "RPA", "location_id": "541", "path": "ARTICLE 5 › SECTION 541", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/541.md", "title": "Adverse possession, how affected by relation of tenants in common"} -->
+# Real Property Actions and Proceedings Law § 541 — Adverse possession, how affected by relation of tenants in common
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 5 — Adverse Possession](README.md)
+
+```text
+  § 541. Adverse possession, how affected by relation of tenants in
+common. Where the relation of tenants in common has existed, the
+occupancy of one tenant, personally or by his servant or by his tenant,
+is deemed to have been the possession of the other, notwithstanding that
+the tenant so occupying the premises has acquired another title or has
+claimed to hold adversely to the other. But this presumption shall cease
+after the expiration of ten years of continuous exclusive occupancy by
+such tenant, personally or by his servant or by his tenant, or
+immediately upon an ouster by one tenant of the other and such occupying
+tenant may then commence to hold adversely to his cotenant.
+```

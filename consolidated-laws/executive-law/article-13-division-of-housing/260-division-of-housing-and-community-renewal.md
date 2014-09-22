@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 260", "kind": "section", "law_id": "EXC", "location_id": "260", "path": "ARTICLE 13 › SECTION 260", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/260.md", "title": "Division of housing and community renewal"} -->
+# Executive Law § 260 — Division of housing and community renewal
+
+[Executive Law](../README.md) › [Article 13 — Division of Housing](README.md)
+
+```text
+  § 260. Division of housing and community renewal. The commissioner of
+housing and community renewal appointed pursuant to the provisions of
+the public housing law, shall be the head of the division of housing and
+community renewal and shall have and exercise all the functions, powers
+and duties vested in him by that or any other law. The commissioner of
+housing and community renewal shall receive a salary to be fixed by the
+governor within the amount appropriated therefor.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 193", "kind": "section", "law_id": "JUD", "location_id": "193", "path": "ARTICLE 7 › SECTION 193", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/193.md", "title": "Incapacity, disqualification or absence of the county judges of Suffolk, Dutchess, Ulster and Schenectady counties"} -->
+# Judiciary Law § 193 — Incapacity, disqualification or absence of the county judges of Suffolk, Dutchess, Ulster and Schenectady counties
+
+[Judiciary Law](../README.md) › [Article 7 — County Court](README.md)
+
+```text
+  § 193. Incapacity, disqualification or absence of the county judges of
+Suffolk, Dutchess, Ulster and Schenectady counties.  If the county judge
+of Suffolk county, Dutchess county, Ulster county or Schenectady county
+is for any reason incapacitated, disqualified, or incapable to act in an
+action or special proceeding or other matter pending or about to be
+instituted in the county court of his county, or before him, or if he is
+for any reason absent from his county, then the action or special
+proceeding or other matter may be continued or instituted before either
+a justice of the supreme court within the same judicial district as the
+county judge or the surrogate of the county, who shall possess the same
+power and authority in the action or special proceeding or other matter
+which the county judge possesses in a like action or proceeding or
+matter brought in the county court.
+```

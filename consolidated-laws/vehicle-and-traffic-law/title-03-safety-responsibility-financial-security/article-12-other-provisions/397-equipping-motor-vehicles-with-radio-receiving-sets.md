@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 397", "kind": "section", "law_id": "VAT", "location_id": "397", "path": "TITLE 3 › ARTICLE 12 › SECTION 397", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/397.md", "title": "Equipping motor vehicles with radio receiving sets capable of receiving signals on the frequencies allocated for police use"} -->
+# Vehicle and Traffic Law § 397 — Equipping motor vehicles with radio receiving sets capable of receiving signals on the frequencies allocated for police use
+
+[Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 12 — Other Provisions](README.md)
+
+```text
+  § 397. Equipping motor vehicles with radio receiving sets capable of
+receiving signals on the frequencies allocated for police use.  A
+person, not a police officer or peace officer, acting pursuant to his
+special duties, who equips a motor vehicle with a radio receiving set
+capable of receiving signals on the frequencies allocated for police use
+or knowingly uses a motor vehicle so equipped or who in any way
+knowingly interferes with the transmission of radio messages by the
+police without having first secured a permit so to do from the person
+authorized to issue such a permit by the local governing body or board
+of the city, town or village in which such person resides, or where such
+person resides outside of a city or village in a county having a county
+police department by the board of supervisors of such county, is guilty
+of a misdemeanor, punishable by a fine not exceeding one thousand
+dollars, or imprisonment not exceeding six months, or both. Nothing in
+this section contained shall be construed to apply to any person who
+holds a valid amateur radio operator's license issued by the federal
+communications commission and who operates a duly licensed portable
+mobile transmitter and in connection therewith a receiver or receiving
+set on frequencies exclusively allocated by the federal communications
+commission to duly licensed radio amateurs.
+```

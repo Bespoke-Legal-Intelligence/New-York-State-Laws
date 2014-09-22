@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 33-0711", "kind": "section", "law_id": "ENV", "location_id": "33-0711", "path": "ARTICLE 33 › TITLE 7 › SECTION 33-0711", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/33-0711.md", "title": "Procedure when registration is denied"} -->
+# Environmental Conservation Law § 33-0711 — Procedure when registration is denied
+
+[Environmental Conservation Law](../../README.md) › [Article 33 — Pesticides](../README.md) › [Title 7 — Registration of Pesticides](README.md)
+
+```text
+§ 33-0711. Procedure when registration is denied.
+  If the commissioner shall decide that the pesticide does not warrant
+the proposed claims for it or if the pesticide and its labeling and
+other material required to be submitted do not comply with the
+provisions of this article, he shall notify the applicant for
+registration of the manner in which the pesticide, labeling, or other
+material required to be submitted fail to comply with this article so as
+to afford the registrant an opportunity to make the necessary
+corrections. If, upon receipt of such notice, the applicant for
+registration does not make the corrections, the commissioner shall
+refuse to register the article, and shall notify the applicant of his
+action and the reasons for his refusal. Whenever an application for
+registration is refused, the applicant, within thirty days after service
+of notice of such refusal, may file a petition requesting that the
+matter be referred to an advisory committee or file objections and
+request a public hearing in accordance with section 33-0717.
+```

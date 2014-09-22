@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 125", "kind": "section", "law_id": "WKC", "location_id": "125", "path": "ARTICLE 7 › SECTION 125", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/125.md", "title": "Job discrimination prohibited based on prior receipt of benefits"} -->
+# Workers' Compensation Law § 125 — Job discrimination prohibited based on prior receipt of benefits
+
+[Workers' Compensation Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+```text
+  § 125. Job discrimination prohibited based on prior receipt of
+benefits.  1. It shall be unlawful for any employer to inquire into, or
+to consider for the purpose of assessing fitness or capability for
+employment, whether a job applicant has filed for or received benefits
+under this chapter, or to discriminate against a job applicant with
+regard to employment on the basis of that claimant having filed for or
+received benefits under this chapter, or because the claimant is an
+injured veteran. An individual aggrieved under this subdivision may
+initiate proceedings in a court of competent jurisdiction seeking
+damages, including reasonable attorney fees, for violation of this
+subdivision.
+  2. An employer who violates the provisions of subdivision one of this
+section shall be guilty of a misdemeanor, and upon conviction shall be
+punished, except as in this chapter or in the penal law otherwise
+provided, by a fine of not more than one thousand dollars, and subject
+to the debarment provisions of section one hundred forty-one-b of this
+chapter.
+```

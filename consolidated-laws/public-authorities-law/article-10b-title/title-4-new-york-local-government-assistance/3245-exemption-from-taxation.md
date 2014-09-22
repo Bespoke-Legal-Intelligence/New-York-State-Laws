@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3245", "kind": "section", "law_id": "PBA", "location_id": "3245", "path": "ARTICLE 10-B › TITLE 4 › SECTION 3245", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3245.md", "title": "Exemption from taxation"} -->
+# Public Authorities Law § 3245 — Exemption from taxation
+
+[Public Authorities Law](../../README.md) › [Article 10-B — Title](../README.md) › [Title 4 — New York Local Government Assistance Corporation](README.md)
+
+```text
+  § 3245. Exemption from taxation. 1. It is hereby determined that the
+creation of the corporation and the carrying out of its corporate
+purpose is in all respects a public and governmental purpose for the
+benefit of the people of the state and for the improvement of their
+health, safety, welfare, comfort and security, and that said purposes
+are public purposes and that the corporation will be performing an
+essential governmental function in the exercise of the powers conferred
+upon it by this title.
+  2. The property of the corporation and its income and operations shall
+be exempt from taxation.
+  3. The bonds and notes of the corporation issued pursuant to this
+title and the income therefrom and all its fees, charges, gifts, grants,
+revenues, receipts, and other monies received or to be received, pledged
+to pay or secure the payment of such bonds or notes shall at all times
+be free from taxation, except for estate and gift taxes on transfers.
+  4. In the case of any bonds or notes of the corporation, interest on
+which is intended to be exempt from federal income tax, the corporation
+shall prescribe restrictions on the use of the proceeds thereof and
+related matters as are necessary to assure such exemption, and the
+recipients of such proceeds shall be bound thereby to the extent such
+restrictions shall be made applicable to them.
+```

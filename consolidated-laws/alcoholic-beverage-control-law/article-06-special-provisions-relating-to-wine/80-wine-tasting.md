@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 80", "kind": "section", "law_id": "ABC", "location_id": "80", "path": "ARTICLE 6 › SECTION 80", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/80.md", "title": "Wine tasting"} -->
+# Alcoholic Beverage Control Law § 80 — Wine tasting
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 6 — Special Provisions Relating to Wine](README.md)
+
+```text
+  § 80. Wine tasting. 1. Except as otherwise provided for in this
+chapter, any person licensed to sell wine pursuant to this article, or
+section sixty-three or section seventy-nine of this chapter, shall be
+permitted to conduct wine tastings only upon the licensed premises. Wine
+tastings which are conducted under the auspices of an official agent of
+a farm winery, winery, wholesaler, or importer and where such agent is
+physically present at all times during the conduct of the tasting, then,
+in that event, any liability stemming from a right of action resulting
+from a wine tasting as authorized herein, and in accordance with the
+provisions of sections 11-100 and 11-101 of the general obligations law,
+shall accrue to the farm winery, winery, wholesaler, or importer.
+  2. In addition to such other wine tastings permitted under this
+chapter, licensed farm wineries, wineries, and wine wholesalers may
+apply for a permit, pursuant to paragraph k of subdivision one of
+section ninety-nine-b of this chapter, to conduct wine tastings. Such
+permits shall be valid throughout the state and may be issued on an
+annual basis or for individual events. Each such permit and the exercise
+of the privilege granted thereby shall be subject to such rules of the
+liquor authority as it deems necessary.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 455", "kind": "section", "law_id": "LAB", "location_id": "455", "path": "ARTICLE 16 › SECTION 455", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/455.md", "title": "Magazine precautions"} -->
+# Labor Law § 455 — Magazine precautions
+
+[Labor Law](../README.md) › [Article 16 — Explosives](README.md)
+
+```text
+  § 455. Magazine precautions. 1. No individual shall unlock, open the
+doors of, or access the contents of, explosive magazines, except for the
+lawful storage or removal of explosives and in accordance with
+regulations of the commissioner. No employer shall allow any individual
+access to the explosive magazines or explosives of the employer unless a
+license has been issued to the individual by the commissioner as
+provided in this article, or the individual is under the direct
+supervision of the license holder.
+  No person shall have matches or fire of any kind in any magazine. No
+person shall store or keep blasting caps, detonating or fulminating
+caps, or detonators in a magazine in which any other type of explosive
+is stored or kept. No person shall open any package of explosives within
+fifty feet of any magazine, nor shall any explosives be kept in a
+magazine except in the original containers, or as otherwise provided by
+regulations promulgated under this article. No person shall discharge
+firearms within five hundred feet of a magazine or explosives factory,
+or at or against any such building or magazine. Any theft or loss of
+explosives from a storage magazine or otherwise, shall immediately be
+reported to the commissioner and the state or local police or county
+sheriff.
+```

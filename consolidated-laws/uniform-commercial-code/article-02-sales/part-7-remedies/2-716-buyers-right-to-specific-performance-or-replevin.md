@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-716", "kind": "section", "law_id": "UCC", "location_id": "2-716", "path": "ARTICLE 2 › PART 7 › SECTION 2-716", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-716.md", "title": "Buyer's Right to Specific Performance or Replevin"} -->
+# Uniform Commercial Code § 2-716 — Buyer's Right to Specific Performance or Replevin
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 7 — Remedies](README.md)
+
+```text
+Section 2--716. Buyer's Right to Specific Performance or Replevin.
+  (1) Specific performance may be decreed where the goods are unique or
+in other proper circumstances.
+  (2) The decree for specific performance may include such terms and
+conditions as to payment of the price, damages, or other relief as the
+court may deem just.
+  (3) The buyer has a right of replevin for goods identified to the
+contract if after reasonable effort he is unable to effect cover for
+such goods or the circumstances reasonably indicate that such effort
+will be unavailing or if the goods have been shipped under reservation
+and satisfaction of the security interest in them has been made or
+tendered. In the case of goods bought for personal, family or household
+purposes, the buyer's right of replevin vests upon acquisition of a
+special property, even if the seller had not then repudiated or failed
+to deliver.
+```

@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Education Law § 912-A", "kind": "section", "law_id": "EDN", "location_id": "912-A", "path": "TITLE 1 › ARTICLE 19 › SECTION 912-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/912-A.md", "title": "Urine analysis; drug detection"} -->
+# Education Law § 912-A — Urine analysis; drug detection
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
+
+```text
+  § 912-a. Urine analysis; drug detection. 1. The school authorities of
+each school district within the state may cause all children attending
+grades seven through twelve, inclusive, in the public and private
+schools located within such districts, to be separately and carefully
+examined in order to ascertain whether any such children are making use
+of dangerous drugs.
+  2. Such examination may be made only upon the written request or
+consent of a parent of, or person in parental relation to, a child. Such
+examination shall be conducted without notice to the child and shall
+include the supervised taking of a urine sample which shall be analyzed
+for such drugs and in accordance with such standards as shall be
+acceptable to the New York state office of alcoholism and substance
+abuse services, or its successor agency. The results of such examination
+shall be promptly forwarded to the school authorities. If it should be
+ascertained, upon such test or examination, that any child is making use
+of dangerous drugs, the school authorities shall report same to the
+social services department for the social services district wherein such
+school is located and to the parent of, or person in parental relation
+to, such child together with a statement to such parent or person in
+parental relation as to available programs and facilities to combat such
+dangerous drug usage. The local social services department shall be
+empowered, in an appropriate case, to take such action and offer such
+protective social services as are prescribed by title six of article six
+of the social services law.
+  3. Except as required in this section, information resulting from an
+examination conducted pursuant to this section shall be kept
+confidential and shall not be used for law enforcement purposes but may
+be utilized only for statistical, epidemiological or research purposes.
+  4. Any record or information compiled from such examination which
+identifies an individual student as a user of dangerous drugs shall be
+maintained separate and apart from such student's other educational
+records and in appropriate confidence and shall be destroyed upon such
+student's graduation or final severance from the secondary educational
+school system in this state.
+  Notwithstanding any provision of this section to the contrary, no such
+examination shall be required where a student objects thereto on the
+grounds that such examinations conflict with their genuine and sincere
+religious beliefs.
+```

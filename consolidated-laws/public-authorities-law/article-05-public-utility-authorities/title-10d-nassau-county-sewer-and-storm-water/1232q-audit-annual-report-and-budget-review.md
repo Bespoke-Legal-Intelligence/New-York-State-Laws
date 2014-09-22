@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1232-Q", "kind": "section", "law_id": "PBA", "location_id": "1232-Q", "path": "ARTICLE 5 › TITLE 10-D › SECTION 1232-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1232-Q.md", "title": "Audit, annual report and budget review"} -->
+# Public Authorities Law § 1232-Q — Audit, annual report and budget review
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 10-D — Nassau County Sewer and Storm Water Finance Authority](README.md)
+
+```text
+  § 1232-q. Audit, annual report and budget review. 1. In conformity
+with the provisions of section five of article ten of the state
+constitution, the accounts of the authority shall be subject to the
+supervision of the comptroller and an annual audit shall be performed by
+an independent certified public accountant. The authority shall annually
+submit to the governor, comptroller, chairperson of the senate finance
+committee and chairperson of the assembly ways and means committee a
+detailed report pursuant to the provisions of section twenty-eight
+hundred of this chapter, and a copy of such report shall be filed with
+the county executive, the clerk of the county legislature, the county
+treasurer and each member of the county legislature.
+  2. The authority shall be subject to the oversight of the county
+office of legislative budget review.
+```

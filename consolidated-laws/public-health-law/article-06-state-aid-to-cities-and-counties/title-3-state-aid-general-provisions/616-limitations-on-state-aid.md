@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 616", "kind": "section", "law_id": "PBH", "location_id": "616", "path": "ARTICLE 6 › TITLE 3 › SECTION 616", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/616.md", "title": "Limitations on state aid"} -->
+# Public Health Law § 616 — Limitations on state aid
+
+[Public Health Law](../../README.md) › [Article 6 — State Aid to Cities and Counties](../README.md) › [Title 3 — State Aid; General Provisions](README.md)
+
+```text
+  § 616. Limitations on state aid. 1. The total amount of state aid
+provided pursuant to this article shall be limited to the amount of the
+annual appropriation made by the legislature. In no event, however,
+shall such state aid be less than an amount to provide the full base
+grant and, as otherwise provided by paragraph (a) of subdivision two of
+section six hundred five of this article, at least thirty-six per centum
+of the difference between the amount of moneys expended by the
+municipality for eligible public health services pursuant to an approved
+application for state aid during the fiscal year and the base grant
+provided pursuant to subdivision one of section six hundred five of this
+article.
+  2. No payments shall be made from moneys appropriated for the purpose
+of this article to a municipality for contributions by the municipality
+for indirect costs and fringe benefits, including but not limited to,
+employee retirement funds, health insurance and federal old age and
+survivors insurance.
+```

@@ -1,0 +1,71 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7210", "kind": "section", "law_id": "EDN", "location_id": "7210", "path": "TITLE 8 › ARTICLE 145 › SECTION 7210", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7210.md", "title": "Certificates of authorization"} -->
+# Education Law § 7210 — Certificates of authorization
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+
+```text
+  § 7210. Certificates of authorization.  1. Domestic or foreign
+professional service corporations, design professional service
+corporations, professional service limited liability companies, foreign
+professional service limited liability companies, registered limited
+liability partnerships, New York registered foreign limited liability
+partnerships, partnerships and joint enterprises specified in
+subdivision four of section seventy-two hundred nine of this article,
+provided each of the foregoing entities is authorized to provide
+professional engineering or land surveying services and general business
+corporations authorized to provide professional engineering or land
+surveying services pursuant to subdivision six of section seventy-two
+hundred nine of this article may offer to provide or provide
+professional engineering or land surveying services only after obtaining
+a certificate of authorization from the department. Except as otherwise
+authorized by statute, rule or regulation, other business entities are
+not authorized to offer or provide professional engineering or land
+surveying services and may not obtain certificates of authorization
+provided that nothing contained herein shall prohibit an individual who
+is licensed to practice professional engineering or land surveying under
+this article from obtaining a certificate of authorization upon
+application and payment of the appropriate fees provided for under this
+section.
+  2. Upon application a certificate of authorization shall be issued by
+the department to all individuals, corporations, limited liability
+companies, limited liability partnerships, partnerships and joint
+enterprises specified in subdivision one of this section and which are
+authorized to provide professional engineering or land surveying
+services and pay the appropriate fee.
+  3. A "certificate of authorization" shall authorize such individual,
+corporation, limited liability company, limited liability partnership,
+partnership or joint enterprise to provide professional engineering or
+land surveying services for three years from the date of issuance
+subject to, as otherwise prescribed by law, the supervision of the
+regents of the university of the state of New York including the power
+to discipline and impose penalties in the same manner and to the same
+extent as is provided with respect to individuals and their licenses and
+registration pursuant to this title.
+  4. An application, triennial renewal, delinquent or replacement
+certificate fee must accompany the "certificate of authorization"
+request in the amount shown below. A business entity that fails to renew
+its certificate of authorization before the expiration date shall be
+required to pay the additional delinquent fee for late filing of ten
+dollars for each full month it has practiced after the expiration of its
+certificate of authorization.
+  Application fee and first triennial certificate of authorization  -
+  $125.00;
+  Triennial renewal fee - $75.00;
+  Delinquent fee - $10.00 per month of practice without a certificate of
+  authorization;
+  Replacement certificate fee - $10.00.
+  All checks shall be made payable to the state department of education,
+state of New York and submitted to the department. If a business
+enterprise is not eligible to receive a "certificate of authorization",
+the fee will be retained to cover the costs of processing. Triennial
+renewal fees for all "certificates of authorization" are due and payable
+on or before the filing date of each triennial registration period.
+  5. The department shall compile a registry of the holders of all
+certificates of authorization. Such registry shall include the name and
+address of all registrants, state whether a certificate of authorization
+has been issued, denied, suspended, or revoked, and disclose whether the
+certificate is current or expired. Access to the registry shall be made
+available electronically without cost. A record search of the registry
+may be obtained in person or by mail provided that a fee of ten dollars
+shall be paid for each putative registrant.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1351", "kind": "section", "law_id": "PBH", "location_id": "1351", "path": "ARTICLE 13 › TITLE 8 › SECTION 1351", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1351.md", "title": "Food places; duty to permit inspections"} -->
+# Public Health Law § 1351 — Food places; duty to permit inspections
+
+[Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 8 — Food Handling](README.md)
+
+```text
+  § 1351. Food places; duty to permit inspections. Every owner,
+operator, lessor, lessee or person in charge of any hotel, restaurant,
+dining room, dining car, drug store, soda fountain, steamboat or other
+place engaged in the preparation, sale or service of food for and to the
+general public, and every officer or other person in charge of any
+public, penal or charitable institution in this state, shall permit the
+commissioner or his duly authorized agents or employees to have access
+to all parts of any and all of such places herein mentioned wherein food
+is stored, prepared or served for the purpose of ascertaining whether
+the provisions of sections thirteen hundred fifty to thirteen hundred
+fifty-two, inclusive, of this chapter, and the provisions of the
+sanitary code and provisions of local ordinances or regulations are
+being observed.
+```

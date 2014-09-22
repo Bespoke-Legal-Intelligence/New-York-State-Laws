@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 339-J", "kind": "section", "law_id": "RPP", "location_id": "339-J", "path": "ARTICLE 9-B › SECTION 339-J", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/339-J.md", "title": "Compliance with by-laws and rules and regulations"} -->
+# Real Property Law § 339-J — Compliance with by-laws and rules and regulations
+
+[Real Property Law](../README.md) › [Article 9-B — Condominium Act](README.md)
+
+```text
+  § 339-j. Compliance with by-laws and rules and regulations. Each unit
+owner shall comply strictly with the by-laws and with rules,
+regulations, resolutions and decisions adopted pursuant thereto.
+Failure to comply with any of the same shall be ground for an action to
+recover sums due, for damages or injunctive relief or both maintainable
+by the board of managers on behalf of the unit owners or, in a proper
+case, by an aggrieved unit owner. In any case of flagrant or repeated
+violation by a unit owner, he may be required by the board of managers
+to give sufficient surety or sureties for his future compliance with the
+by-laws, rules, regulations, resolutions and decisions.  Notwithstanding
+the foregoing provisions of this section, no action or proceeding for
+any relief may be maintained due to the display of a flag of the United
+States measuring not more than four feet by six feet.
+```

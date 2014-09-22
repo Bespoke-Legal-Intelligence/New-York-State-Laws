@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Senate Rules § JR1S4", "kind": "section", "law_id": "CMS", "location_id": "JR1S4", "path": "JOINT_RULE 1 › SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:CMS/JR1S4.md", "title": "Exceptions"} -->
+# Senate Rules § JR1S4 — Exceptions
+
+[Senate Rules](../README.md) › [Joint Rule 1 — No title](README.md)
+
+```text
+§ 4. Exceptions. A fiscal impact note shall  not  be  required  for  a
+bill:
+  A. subject to the provisions of section 50 of the Legislative Law;
+  B. requested by a county, city, town or village in accordance with the
+provisions of paragraph two of subdivision (b) of section two of Article
+IX of the Constitution;
+  C. which provides discretionary authority to a political subdivision;
+  D. submitted pursuant to section 24 of the State Finance Law;
+  E.  reported to the floor of the House by the Rules Committee, if such
+committee, in its discretion, determines that  such  action  is  in  the
+public interest;
+  F. which has been amended on the floor of either house, where a fiscal
+impact  note would otherwise have been required for such amended bill by
+this Joint Rule and section 51 of the Legislative Law, if the  Temporary
+President of the Senate or the Speaker of the Assembly, respectively, in
+such officer's discretion, determines that the amended bill may be acted
+on in such officer's house without such note; or
+  G.  which  inadvertently  passes the Legislature where a fiscal impact
+note would otherwise have been required by this Joint Rule  and  section
+51 of the Legislative Law.
+```

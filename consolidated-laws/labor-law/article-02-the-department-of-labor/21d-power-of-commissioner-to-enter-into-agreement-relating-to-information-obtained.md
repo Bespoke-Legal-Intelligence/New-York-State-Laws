@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 21-D", "kind": "section", "law_id": "LAB", "location_id": "21-D", "path": "ARTICLE 2 › SECTION 21-D", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/21-D.md", "title": "Power of commissioner to enter into agreement relating to information obtained by the state directory of new hires"} -->
+# Labor Law § 21-D — Power of commissioner to enter into agreement relating to information obtained by the state directory of new hires
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 21-d.  Power of commissioner to enter into agreement relating to
+information obtained by the state directory of new hires.  The
+department, through the commissioner, shall enter into the agreement
+provided for in section one hundred seventy-one-h of the tax law, and
+shall take such other actions as may be necessary to carry out the
+agreement provided for in such section for matching beneficiary records
+of workers' compensation and state employment security programs with
+information provided by employers to the state directory of new hires
+for the purposes of verifying eligibility for such benefits and for
+administering workers' compensation and state employment security
+programs.
+```

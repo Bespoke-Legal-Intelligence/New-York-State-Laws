@@ -1,0 +1,82 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 474", "kind": "section", "law_id": "TAX", "location_id": "474", "path": "ARTICLE 20 › SECTION 474", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/474.md", "title": "Records to be kept; examination"} -->
+# Tax Law § 474 — Records to be kept; examination
+
+[Tax Law](../README.md) › [Article 20 — Tax On Cigarettes and Tobacco Products](README.md)
+
+```text
+  § 474. Records to be kept; examination. 1. Every person who shall
+possess or transport any unstamped cigarettes upon the public highways,
+roads or streets of the state, shall be required to have in his actual
+possession invoices or delivery tickets for such cigarettes. Such
+invoices or delivery tickets shall show the name and address of the
+consignor or seller, the name and address of the consignee or purchaser,
+the quantity and brands of the cigarettes transported, and the name and
+address of the person who has or shall assume the payment of the tax.
+The absence of such invoices or delivery tickets shall be prima facie
+evidence that such person is a dealer in cigarettes in this state and
+subject to the provisions of this article.
+  2. Every person who shall possess or transport more than two hundred
+fifty cigars, or more than five pounds of tobacco other than
+roll-your-own tobacco, or more than thirty-six ounces of roll-your-own
+tobacco upon the public highways, roads or streets of the state, shall
+be required to have in his actual possession invoices or delivery
+tickets for such tobacco products. Such invoices or delivery tickets
+shall show the name and address of the consignor or seller, the name and
+address of the consignee or purchaser, the quantity and brands of the
+tobacco products transported, and the name and address of the person who
+has or shall assume the payment of the tax and the wholesale price or
+the tax paid or payable. The absence of such invoices or delivery
+tickets shall be prima facie evidence that such person is a dealer in
+tobacco products in this state and subject to the requirements of this
+article.
+  3. Every dealer or distributor or employee thereof, or other person
+acting on behalf of a dealer or distributor, who shall possess or
+transport more than fifty cigars or more than one pound of tobacco upon
+the public highways, roads or streets of the state, shall be required to
+have in his actual possession invoices or delivery tickets for such
+tobacco products. Such invoices or delivery tickets shall show the name
+and address of the consignor or seller, the name and address of the
+consignee or purchaser, the quantity and brands of the tobacco products
+transported, and the name and address of the person who has or shall
+assume the payment of the tax and the wholesale price or the tax paid or
+payable. The absence of such invoices or delivery tickets shall be prima
+facie evidence that the tax imposed by this article on tobacco products
+has not been paid and is due and owing.
+  4. At the time of delivering cigarettes to any person each agent or
+wholesale dealer, and at the time of delivering tobacco products to any
+person each distributor or wholesale dealer of tobacco products, shall
+make a true duplicate invoice showing the date of delivery, the number
+of packages and number of cigarettes contained therein, in each shipment
+of cigarettes delivered, and the items and quantity and wholesale price
+of each item in each shipment of tobacco products delivered, and the
+name of the purchaser to whom delivery is made, and shall retain the
+same for a period of three years subject to the use and inspection of
+the commissioner of taxation and finance. Each dealer shall procure and
+retain invoices showing the number of packages and number of cigarettes
+contained therein, in each shipment of cigarettes received by him, and
+the items and quantity and wholesale price of each item in each shipment
+of tobacco products received by him, the date thereof, and the name of
+the shipper, and shall retain the same for a period of three years
+subject to the use and inspection of the commissioner of taxation and
+finance. The commissioner of taxation and finance by regulation may
+provide that whenever cigarettes or tobacco products are shipped into
+the state, the railroad company, express company, trucking company or
+other public carrier transporting any shipment thereof shall file with
+the commissioner of taxation and finance a copy of the freight bill
+within ten days after the delivery in the state of each shipment. All
+dealers shall maintain and keep for a period of three years such other
+records of cigarettes or tobacco products received, sold or delivered
+within the state as may be required by the commissioner of taxation and
+finance. The commissioner of taxation and finance is hereby authorized
+to examine the books, papers, invoices and other records of any person
+in possession, control or occupancy of any premises where cigarettes or
+tobacco products are placed, stored, sold or offered for sale, and the
+equipment of any such person pertaining to the stamping of cigarettes or
+the sale and delivery of cigarettes or tobacco products taxable under
+this article, as well as the stock of cigarettes or tobacco products in
+any such premises or vehicle. To verify the accuracy of the tax imposed
+and assessed by this article, each such person is hereby directed and
+required to give to the commissioner of taxation and finance or his duly
+authorized representatives, the means, facilities and opportunity for
+such examinations as are herein provided for and required.
+```

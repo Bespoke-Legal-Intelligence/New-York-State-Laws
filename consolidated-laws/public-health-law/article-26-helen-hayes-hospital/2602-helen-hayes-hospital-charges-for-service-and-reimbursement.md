@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2602", "kind": "section", "law_id": "PBH", "location_id": "2602", "path": "ARTICLE 26 › SECTION 2602", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2602.md", "title": "Helen Hayes Hospital; charges for service and reimbursement"} -->
+# Public Health Law § 2602 — Helen Hayes Hospital; charges for service and reimbursement
+
+[Public Health Law](../README.md) › [Article 26 — Helen Hayes Hospital](README.md)
+
+```text
+  § 2602. Helen Hayes Hospital; charges for service and reimbursement.
+1. The commissioner shall establish the rates to be paid for the
+maintenance, care and treatment of all patients admitted to the Helen
+Hayes Hospital.
+  2. The commissioner shall require that the director of the hospital
+shall render bills at suitable intervals and a final bill as soon as
+practicable on discharge of a patient, to the person or agency in each
+instance who guarantees payment or, if payment is to be made from public
+funds, to the proper fiscal officer of the agency or county or
+municipality indicated.
+  3. The commissioner may in his discretion, in proper cases, where
+substantial justice will best be served thereby, waive such bills or
+compromise any portion of such bills for the maintenance, care and
+treatment received or furnished to patients in the hospital. Such waiver
+or compromise shall be made only upon prior approval of the comptroller
+and the attorney general when they deem it to be for the best interest
+of the state.
+```

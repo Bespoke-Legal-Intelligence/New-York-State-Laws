@@ -1,0 +1,66 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2995", "kind": "section", "law_id": "PBH", "location_id": "2995", "path": "ARTICLE 29-D › TITLE 1 › SECTION 2995", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2995.md", "title": "Structure and definitions"} -->
+# Public Health Law § 2995 — Structure and definitions
+
+[Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 1 — Health Information](README.md)
+
+```text
+  § 2995. Structure and definitions. 1. Structure. * (a) The department
+shall undertake an initiative for the purposes of increasing the
+information available to patients about health care providers and health
+care plans, and improving the quality of health care in this state, by
+creating a statewide health information system, collecting health
+information for dissemination by means of such system, and studying
+additional uses of such information. Such moneys as may be necessary to
+effect the purpose of this section may be appropriated to the department
+for its expenses.
+  * NB Effective until March 31, 2015
+  * (a) The department shall undertake an initiative for the purposes of
+increasing the information available to patients about health care
+providers and health care plans, and improving the quality of health
+care in this state, by creating a statewide health information system,
+collecting health information for dissemination by means of such system,
+and studying additional uses of such information. Such moneys as may be
+necessary to effect the purpose of this section may be appropriated to
+the department for its expenses, but in no event shall funds be diverted
+from existing uses of the office of professional medical conduct in
+order to fulfill the purposes of this section.
+  * NB Effective March 31, 2015
+  (b) The department shall promulgate rules for the purpose of
+implementing the provisions of this title.
+  2. Definitions. For the purposes of this title:
+  (a) "Health care plan" shall mean a health maintenance organization,
+as defined by subdivision one of section forty-four hundred one of this
+chapter, a health service corporation licensed pursuant to article
+forty-three of the insurance law, a prepaid health services plan
+licensed pursuant to section forty-four hundred three-a of this chapter,
+or an integrated delivery system licensed pursuant to section forty-four
+hundred eight-a of this chapter.
+  (b) "Health information" shall mean physician data, hospital data, and
+health care plan data, to the extent such data is disclosable pursuant
+to any provision of law. Such term shall not include individual patient
+data, except to the extent such data is disclosable pursuant to any
+other provision of law.
+  (c) "Individual patient data" shall mean any information concerning an
+individual patient, whether held orally or recorded in any form or
+medium, including, but not limited to, information derived from a
+biological sample from the patient, the sample itself or genetic
+information that:
+  (i) relates to the physical or mental health of the patient, the
+provision of health care to the patient, or the payment for the
+provision of health care to the patient; and
+  (ii) (A) identifies the individual patient;
+  (B) could forseeably be used or manipulated to identify the individual
+patient; or
+  (C) could forseeably be linked or matched to any other information
+described in clause (A) or (B) of this subparagraph.
+  (d) "Statewide health information system" shall mean a collection of
+health information to be publicly available on an ongoing basis for the
+purpose of making statewide comparisons.
+  (e) "Preferred provider organization data" shall mean data collected
+from an insurance company subject to article thirty-two of the insurance
+law, a corporation subject to article forty-three of the insurance law,
+or a municipal cooperative health benefit plan certified pursuant to
+article forty-seven of the insurance law, with respect to preferred
+provider organization (PPO) products, as defined by the commissioner in
+consultation with the superintendent, offered by such entities.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 861-B", "kind": "section", "law_id": "LAB", "location_id": "861-B", "path": "ARTICLE 25-B › SECTION 861-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/861-B.md", "title": "Definitions"} -->
+# Labor Law § 861-B — Definitions
+
+[Labor Law](../README.md) › [Article 25-B — The New York State Construction Industry Fair Play Act](README.md)
+
+```text
+  § 861-b. Definitions. As used in this article:
+  1. "Construction" means constructing, reconstructing, altering,
+maintaining, moving, rehabilitating, repairing, renovating or demolition
+of any building, structure, or improvement, or relating to the
+excavation of or other development or improvement to land.
+  2. "Contractor" means any sole proprietor, partnership, firm,
+corporation, limited liability company, association or other legal
+entity permitted by law to do business within the state who engages in
+construction as defined in this article.
+  3. "Contractor" includes a general contractor and a subcontractor.
+  4. "Department" means the department of labor.
+  5. "Commissioner" means the commissioner of labor.
+  6. "Employer" means any contractor that employs individuals deemed
+employees under this article.
+```

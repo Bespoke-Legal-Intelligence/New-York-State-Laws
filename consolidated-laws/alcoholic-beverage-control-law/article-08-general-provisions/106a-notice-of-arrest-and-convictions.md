@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 106-A", "kind": "section", "law_id": "ABC", "location_id": "106-A", "path": "ARTICLE 8 › SECTION 106-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/106-A.md", "title": "Notice of arrest and convictions"} -->
+# Alcoholic Beverage Control Law § 106-A — Notice of arrest and convictions
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 8 — General Provisions](README.md)
+
+```text
+  § 106-a. Notice of arrest and convictions. 1. When an arrest for
+gambling activity, illicit drug activity, prostitution activity, or for
+a breach of the peace or for a crime of a violent nature, or for a crime
+of weapons possession occurs or where the activity or crime has taken
+place in a licensed premises, the arresting agency shall notify in
+writing, the authority and the district attorney of the county in which
+the licensed premises are located within two weeks of the arrest and set
+forth therein the name of the arrestee, the date of the arrest, the time
+of the arrest, the exact place of the arrest, the name of the licensee,
+the name and address of the licensed premises, the offense or offenses
+allegedly committed by the arrestee, the factual circumstances of the
+arrest, the name or names of the arresting officer, and such other
+information as may reasonably be required by the authority.
+  2. Such district attorney shall maintain a written record of all
+notices forwarded as required by subdivision one of this section and
+where the arrestee named in said notice is convicted of either the
+offense charged or a lesser included offense as defined by the penal
+law, the district attorney shall so notify the authority in writing. In
+addition, where a person is convicted of a violation of paragraph (b) of
+subdivision one of section sixty-five-b of this chapter or of a
+violation of subdivision one of section sixty-five of this chapter, the
+district attorney shall promptly notify the authority of such conviction
+in writing and shall include in such notification the information
+required to be provided pursuant to subdivision one of this section.
+```

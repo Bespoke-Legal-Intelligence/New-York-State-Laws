@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 71-D", "kind": "section", "law_id": "NAV", "location_id": "71-D", "path": "ARTICLE 4 › PART 3 › SECTION 71-D", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/71-D.md", "title": "Liveries; safety regulations; penalty"} -->
+# Navigation Law § 71-D — Liveries; safety regulations; penalty
+
+[Navigation Law](../../README.md) › [Article 4 — Vessels](../README.md) › [Part 3 — Pleasure Vessels](README.md)
+
+```text
+  § 71-d. Liveries; safety regulations; penalty. 1. No livery operator
+shall knowingly lease, hire or rent a vessel to any person:
+  (a) When the number of persons using the vessel shall exceed the
+number deemed to constitute a maximum safety load for said vessel,
+according to its capacity plate or industry-accepted standards.
+  (b) When the manufacturer's rated horsepower of the motor exceeds the
+capacity of the vessel, making the vessel unsafe to operate.
+  (c) When the vessel does not contain the equipment required by its
+respective class, as provided by section forty.
+  1-a. Notwithstanding subdivision one of section forty-nine of this
+article, a livery may lease, hire or rent a mechanically propelled
+vessel, except a personal water craft or specialty prop craft, to a
+person who is not the holder of a boating safety certificate if:
+  (a) the person is eighteen years or older;
+  (b) the operator of such livery or his or her designated agent, is the
+holder of a boating safety certificate, and prior to permitting the use
+by such person of the vessel explains and demonstrates to such person by
+video or actual in water demonstration the operation of such vessel, and
+the use and location of such vessel's safety equipment;
+  (c) such person, after receiving the explanation and demonstration
+required pursuant to paragraph (b) of this subdivision, demonstrates to
+the livery operator or the livery operator's designated agent the
+ability to operate such vessel and use the applicable safety equipment;
+  (d) such person presents genuine proof of identification and age to
+the livery operator;
+  (e) the livery operator or the livery operator's designated agent, at
+the time of the leasing, hiring, or renting, records the name, address,
+and age of the operator of the leased, hired or rented vessel. Such
+records shall be maintained for a period of not less than one year; and
+  (f) the vessel is not leased, hired or rented to the same person for a
+period exceeding sixty days.
+  2. Any person convicted of violating this section shall be guilty of a
+violation punishable by a fine of not less than twenty-five nor more
+than one hundred dollars.
+```

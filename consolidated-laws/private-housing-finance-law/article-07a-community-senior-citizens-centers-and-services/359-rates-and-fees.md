@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 359", "kind": "section", "law_id": "PVH", "location_id": "359", "path": "ARTICLE 7-A › SECTION 359", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/359.md", "title": "Rates and fees"} -->
+# Private Housing Finance Law § 359 — Rates and fees
+
+[Private Housing Finance Law](../README.md) › [Article 7-A — Community Senior Citizens Centers and Services Companies](README.md)
+
+```text
+  § 359. Rates and fees. A company shall, with the approval of the
+commissioner, fix maximum rates and fees to be charged persons served by
+each project for the facilities and services provided by the company to
+such persons, the average of such rates and fees for any one project not
+to exceed the maximum average rates and fees determined by the
+commissioner before any commitments are made by the company for the
+construction, acquisition, reconstruction, rehabilitation or improvement
+of the project. The commissioner upon his own motion, or upon
+application by the company or lienholder may vary the amount of such
+rates and fees from time to time so as to secure together with all other
+income of the company, sufficient income to meet, within reasonable
+limits, all necessary payments by the said company of all expenses,
+including fixed charges, sinking funds and reserves.
+```

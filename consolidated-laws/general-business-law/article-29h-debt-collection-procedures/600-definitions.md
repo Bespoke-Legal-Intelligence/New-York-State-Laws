@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 600", "kind": "section", "law_id": "GBS", "location_id": "600", "path": "ARTICLE 29-H › SECTION 600", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/600.md", "title": "Definitions"} -->
+# General Business Law § 600 — Definitions
+
+[General Business Law](../README.md) › [Article 29-H — Debt Collection Procedures](README.md)
+
+```text
+  § 600. Definitions. As used in this article, unless the context or
+subject matter otherwise requires: 1. "Consumer claim" means any
+obligation of a natural person for the payment of money or its
+equivalent which is or is alleged to be in default and which arises out
+of a transaction wherein credit has been offered or extended to a
+natural person, and the money, property or service which was the subject
+of the transaction was primarily for personal, family or household
+purposes. The term includes an obligation of a natural person who is a
+co-maker, endorser, guarantor or surety as well as the natural person to
+whom such credit was originally extended.
+  2. "Debtor" means any natural person who owes or who is asserted to
+owe a consumer claim.
+  3. "Principal creditor" means any person, firm, corporation or
+organization to whom a consumer claim is owed, due or asserted to be due
+or owed, or any assignee for value of said person, firm, corporation or
+organization.
+```

@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 43", "kind": "section", "law_id": "LAB", "location_id": "43", "path": "ARTICLE 2 › SECTION 43", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/43.md", "title": "Transfer of funds to the unemployment insurance occupational training fund"} -->
+# Labor Law § 43 — Transfer of funds to the unemployment insurance occupational training fund
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 43.  Transfer of funds to the unemployment insurance occupational
+training fund.  Notwithstanding any other law, rule or regulation to the
+contrary, subject to approval by the director of the budget, the state
+comptroller is hereby authorized and directed to transfer funds from
+other state operations and aid to localities appropriations to the
+unemployment insurance occupational training fund in the department to
+meet requirements for payment of the state share of individual and
+family grants awarded pursuant to the federal disaster relief act of
+1974, public law 93-288.
+```

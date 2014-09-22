@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 140", "kind": "section", "law_id": "COM", "location_id": "140", "path": "ARTICLE 4-C › SECTION 140", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/140.md", "title": "Legislative findings and declaration"} -->
+# Economic Development Law § 140 — Legislative findings and declaration
+
+[Economic Development Law](../README.md) › [Article 4-C — Procurement Opportunities Newsletter](README.md)
+
+```text
+  § 140. Legislative findings and declaration. The legislature hereby
+finds and declares that it is the policy of the state to conserve and
+protect state revenues through the efficient and prudent use of state
+funds in state procurement contracts. It further finds that the
+operation of an efficient procurement information system is an effective
+tool in the economic development of the state. To promote this policy,
+it is in the best interest of the state to create a central information
+source that will alert businesses to new opportunities to participate in
+state procurement activities. To accomplish these public purposes,
+public notice of state procurement contracts shall be given by regular
+publication of a compilation of the state's needs for goods and
+services.
+```

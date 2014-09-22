@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 74", "kind": "section", "law_id": "COR", "location_id": "74", "path": "ARTICLE 4 › SECTION 74", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/74.md", "title": "Discharge on holidays, Saturdays and Sundays"} -->
+# Correction Law § 74 — Discharge on holidays, Saturdays and Sundays
+
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+
+```text
+  § 74. Discharge on holidays, Saturdays and Sundays.  Where the date of
+release on parole or conditional release, or where the date of discharge
+from the care or custody of the department, falls on Saturday or Sunday,
+it shall be deemed to fall on the preceding Friday. Where the date of
+such release or discharge falls on a legal holiday it shall be deemed to
+fall on the preceding day, except that when such legal holiday falls on
+a Monday the date of release shall be deemed to fall on the preceding
+Friday.
+```

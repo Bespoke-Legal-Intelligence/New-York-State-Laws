@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1601", "kind": "section", "law_id": "SCP", "location_id": "1601", "path": "ARTICLE 16 › SECTION 1601", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1601.md", "title": "Legislative declaration of purpose It is the intent and purpose of this article that ancillary administration shall be granted in this st..."} -->
+# Surrogate's Court Procedure Act § 1601 — Legislative declaration of purpose It is the intent and purpose of this article that ancillary administration shall be granted in this st...
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 16 — Foreign Estates](README.md)
+
+```text
+§ 1601. Legislative declaration of purpose
+  It is the intent and purpose of this article that ancillary
+administration shall be granted in this state only when there is an
+actual administration in the domiciliary jurisdiction.  If the law of
+such jurisdiction does not provide for the appointment of a fiduciary
+but vests the property of a decedent in a person or persons subject to
+the obligation to pay the decedent's debts and expenses and the legacies
+bequeathed in his will or the distributive shares provided by law, such
+a person shall be recognized as the person acting therein to administer
+the decedent's estate in accordance with the law thereof, but only if
+such person has complied with all the requirements of such jurisdiction
+to entitle him to receive the property of the decedent and is acting or
+will act there to administer the estate.
+```

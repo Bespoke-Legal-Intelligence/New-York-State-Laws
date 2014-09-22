@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 104", "kind": "section", "law_id": "STF", "location_id": "104", "path": "ARTICLE 7 › SECTION 104", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/104.md", "title": "Examination and inventory of state securities"} -->
+# State Finance Law § 104 — Examination and inventory of state securities
+
+[State Finance Law](../README.md) › [Article 7 — Accounts and Audits](README.md)
+
+```text
+  § 104. Examination and inventory of state securities. The comptroller,
+from time to time, shall examine the securities on which money may be
+due to the state, and make inquiries relating to the sufficiency of the
+security for the payment of such money. He shall require the immediate
+payment of all interest due, and the payment of such part of the
+principal as he deems necessary for the security and interest of the
+state. The commissioner of taxation and finance and the comptroller,
+jointly, at the close of each fiscal year shall make an inventory of all
+securities belonging to the state in duplicate and file it with the
+department of taxation and finance and the department of audit and
+control.
+```

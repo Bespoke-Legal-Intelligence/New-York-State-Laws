@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 31-F*2", "kind": "section", "law_id": "RSS", "location_id": "31-F*2", "path": "ARTICLE 2 › TITLE 4 › SECTION 31-F*2", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/31-F_2.md", "title": "Participation by the Northern Westchester joint water works"} -->
+# Retirement and Social Security Law § 31-F*2 — Participation by the Northern Westchester joint water works
+
+[Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 4 — Participation In System By Political Subdivisions and Other Organizations](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 31-f. Participation by the Northern Westchester joint water works.
+a. The Northern Westchester joint water works may, by resolution adopted
+by its board of trustees and approved by the comptroller, elect to
+participate in the retirement system. Acceptance of its employees for
+membership in the retirement system shall be optional with the
+comptroller, who shall determine the amounts of contribution payable by
+such system and its employees, shall resolve questions of credit for
+prior service, and shall in all other respects assure that such
+employees share the same rights, obligations and benefits as other
+members of the retirement system.
+  b. The officers and employees of such water works shall be credited
+with such periods of prior service as shall be certified by such water
+works for service rendered to it, or the state, or in any other capacity
+approved by such water works and the comptroller. Service for such water
+works after the date on which it commences to participate in the
+retirement system shall be considered as member service. An officer or
+employee of such water works who, as of the date he or she is so
+approved for membership in the retirement system, is already a member
+thereof, shall not have his or her total credit reduced by such
+approval. Any reserve held on account of any such officer or employee in
+the pension accumulation fund shall be used as an offset against the
+deficiency contribution payable thereafter by such water works on
+account of such officer or employee for any prior service credit and any
+such previous credit.
+  * NB There are 2 § 31-f's
+```

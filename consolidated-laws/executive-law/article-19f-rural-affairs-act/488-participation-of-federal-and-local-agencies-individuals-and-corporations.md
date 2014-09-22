@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 488", "kind": "section", "law_id": "EXC", "location_id": "488", "path": "ARTICLE 19-F › SECTION 488", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/488.md", "title": "Participation of federal and local agencies, individuals and corporations"} -->
+# Executive Law § 488 — Participation of federal and local agencies, individuals and corporations
+
+[Executive Law](../README.md) › [Article 19-F — Rural Affairs Act](README.md)
+
+```text
+  § 488. Participation of federal and local agencies, individuals and
+corporations. 1. Federal and local agencies, individuals and
+corporations involved in the administration of a program grant or
+technical assistance effort for rural development and revitalization,
+shall be encouraged to participate in the assistance services of the
+office and to make information available to applicants through the
+office with respect to any related program, undertaking, project, or
+activity which is referred to the office under the provisions of this
+article.
+  2. The director shall consult with and seek assistance from officials
+of federal and local agencies or corporations with respect to
+coordinating assistance programs for rural areas and shall recommend to
+the governor and the legislature any policies or programs which would
+facilitate such coordination.
+```

@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 221-F", "kind": "section", "law_id": "BNK", "location_id": "221-F", "path": "ARTICLE 5-B › SECTION 221-F", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/221-F.md", "title": "Grounds for suspension or revocation of license; procedure"} -->
+# Banking Law § 221-F — Grounds for suspension or revocation of license; procedure
+
+[Banking Law](../README.md) › [Article 5-B — License For a Foreign Banking Corporation to Maintain a Representative](README.md)
+
+```text
+  § 221-f. Grounds for suspension or revocation of license; procedure.
+1.  The superintendent may revoke any license issued hereunder if it
+shall be found that:
+  (a) The licensee or its representative has violated any provision of
+this article, or of any rule or regulation made by the superintendent
+under and within the authority of this article or of any other law, rule
+or regulation of this state.
+  (b) Any fact or condition exists which, if it had existed at the time
+of the original application for such license, would have warranted the
+superintendent in refusing originally to issue such license.
+  2. The superintendent may, on good cause shown, suspend any license
+for a period not exceeding thirty days, pending investigation.
+  3. Except as provided in subdivision two of this section, no license
+shall be revoked or suspended except after notice and a hearing thereon.
+  4. Any licensee may surrender any license by delivering to the
+superintendent written notice that it thereby surrenders such license,
+but such surrender shall not affect such licensee's civil or criminal
+liability for acts committed prior to such surrender.
+  5. Every license issued hereunder shall remain in force and effect
+until the same shall have been surrendered, revoked or suspended in
+accordance with the provisions of this article, but the superintendent
+shall have authority to reinstate a suspended license or to issue a new
+license to a licensee whose license shall have been revoked if no fact
+or condition then exists which would have warranted the superintendent
+in refusing originally to issue such license under this article.
+  6. Whenever the superintendent shall revoke or suspend a license
+issued pursuant to this article, a written order shall be immediately
+executed in duplicate to that effect. The superintendent shall file one
+copy of such order in the office of the department of financial services
+and shall forthwith serve the other copy upon the licensee. Any such
+order may be reviewed in the manner provided by article seventy-eight of
+the civil practice law and rules. Such application for review as
+authorized by this section must be made within thirty days from the date
+of such order of suspension or revocation.
+```

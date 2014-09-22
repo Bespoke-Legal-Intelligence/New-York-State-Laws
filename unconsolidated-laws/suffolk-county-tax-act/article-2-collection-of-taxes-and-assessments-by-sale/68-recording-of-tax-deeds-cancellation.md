@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Suffolk County Tax Act § 68", "kind": "section", "law_id": "SCT", "location_id": "68", "path": "ARTICLE 2 › SECTION 68", "repealed": false, "repealed_date": null, "source": "nys-laws:SCT/68.md", "title": "Recording of tax deeds; cancellation"} -->
+# Suffolk County Tax Act § 68 — Recording of tax deeds; cancellation
+
+[Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
+
+```text
+§ 68. Recording of tax deeds; cancellation. All tax deeds executed as
+herein provided may be recorded as other conveyances of land under the
+laws of this state. Such deeds, and also deeds issued on any prior tax
+sales, if not recorded in the office of the county clerk, may be
+returned to the county treasurer and cancelled for sufficient cause at
+any time. Such cancellation shall terminate all rights of the purchaser
+thereunder. The owner of any certificate of sale issued or any tax sale
+shall not be required to apply for conveyance of the land described
+therein within four years after the expiration of one year from the last
+day of sale, as required by the tax law, but may apply for and obtain
+such conveyance at any time prior to bringing action for foreclosure.
+If the owner of any certificate (except the county, and the purchaser at
+the tax sale who is the owner with a duly recorded title of the land
+sold) does not apply for a conveyance within the period of eight years
+from date of sale so allowed for bringing such action, the certificate
+shall become void, and no claim can be maintained under the purchase.
+```

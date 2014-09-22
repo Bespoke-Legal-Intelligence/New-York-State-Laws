@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 512", "kind": "section", "law_id": "GBS", "location_id": "512", "path": "ARTICLE 29-A › SECTION 512", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/512.md", "title": "Limitation of liability for unauthorized use of a credit card or a debit card"} -->
+# General Business Law § 512 — Limitation of liability for unauthorized use of a credit card or a debit card
+
+[General Business Law](../README.md) › [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](README.md)
+
+```text
+  § 512. Limitation of liability for unauthorized use of a credit card
+or a debit card. A provision which imposes liability upon a holder for a
+cash advance or loan or for the purchase or lease of property or
+services obtained by the unauthorized use of a credit card or a debit
+card shall not be enforceable to the extent that it imposes a greater
+liability upon the holder than is imposed upon the holder of a credit
+card under the provisions of the act of congress entitled "Truth in
+Lending Act" and the regulations thereunder, as such act and regulations
+may from time to time be amended.
+```

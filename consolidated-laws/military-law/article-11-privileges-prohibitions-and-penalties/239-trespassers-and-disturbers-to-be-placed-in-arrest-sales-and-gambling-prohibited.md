@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Military Law § 239", "kind": "section", "law_id": "MIL", "location_id": "239", "path": "ARTICLE 11 › SECTION 239", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/239.md", "title": "Trespassers and disturbers to be placed in arrest; sales and gambling prohibited"} -->
+# Military Law § 239 — Trespassers and disturbers to be placed in arrest; sales and gambling prohibited
+
+[Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
+
+```text
+  § 239. Trespassers and disturbers to be placed in arrest; sales and
+gambling prohibited.  1. Any person who shall trespass upon any armory,
+arsenal, camp, range, base or other facility of the organized militia or
+other place where any unit of the organized militia is performing
+military duty, or who shall in any way or manner interrupt or molest the
+discharge of his military duties by any member of the organized militia
+or of the armed forces of the United States or who shall trespass or
+prevent the passage of troops of the organized militia or of the armed
+forces of the United States in the performance of their military duties
+may be placed in arrest by the commanding officer of the unit performing
+such military duty at the place where the offense is committed and may
+be held in arrest during the continuance of the performance of such
+military duty.
+  2. The commanding officer of any unit of the organized militia
+performing military duty in or at any armory, arsenal, camp, range, base
+or other facility of the organized militia or other place where such
+unit is performing military duty may prohibit persons who hawk, peddle,
+vend or sell goods, wares, merchandise, food products or beverages upon
+the streets and highways from conducting sales or auctions, and may
+prohibit all gambling within the limits of such armory, arsenal, camp,
+range, base or other facility of the organized militia or other place
+where such unit is performing military duty or within such limits not
+exceeding one mile therefrom as he may prescribe. Such commanding
+officer may in his discretion abate as common nuisances all such sales,
+auctions and gambling.
+  3. Any person who trespasses upon any missile site under the control
+or jurisdiction of the New York army national guard, or who, in any way
+interrupts or molests the performance of duty by any person assigned to
+such site, may be apprehended and detained in custody at the site, by
+any member of the New York army national guard or any person performing
+duty at such site. Any person so apprehended and detained shall be
+delivered, without delay, to a police officer, as defined in subdivision
+thirty-four of section 1.20 of the criminal procedure law.
+```

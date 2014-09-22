@@ -1,0 +1,10 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1020", "kind": "section", "law_id": "PBA", "location_id": "1020", "path": "ARTICLE 5 › TITLE 1-A › SECTION 1020", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1020.md", "title": "Short title"} -->
+# Public Authorities Law § 1020 — Short title
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1-A — Long Island Power Authority](README.md)
+
+```text
+  * § 1020. Short title. This title shall be known and may be cited as
+the "Long Island power authority act".
+  * NB There are 2 § 1020's
+```

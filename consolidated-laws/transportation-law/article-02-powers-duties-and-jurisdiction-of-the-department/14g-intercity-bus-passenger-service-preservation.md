@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 14-G", "kind": "section", "law_id": "TRA", "location_id": "14-G", "path": "ARTICLE 2 › SECTION 14-G", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/14-G.md", "title": "Intercity bus passenger service preservation"} -->
+# Transportation Law § 14-G — Intercity bus passenger service preservation
+
+[Transportation Law](../README.md) › [Article 2 — Powers, Duties and Jurisdiction of the Department of Transportation](README.md)
+
+```text
+  § 14-g. Intercity bus passenger service preservation. 1. Authorization
+is hereby given to the commissioner of transportation to contract with
+any person, firm, corporation or agency, including, but not limited to,
+any intercity bus company, state agency, the federal government, any
+other state or agency or instrumentality thereof, any public authority
+of this state or any other state, or any political subdivision or
+municipality of the state, for the purpose of providing, maintaining and
+improving intercity bus passenger service within New York state.
+  2. The commissioner may, subject to the concurrence of the director of
+the budget:
+  a. Enter into joint service agreements on behalf of the state with any
+intercity bus company, the federal government, any other state or agency
+or instrumentality thereof, any public authority of this state or any
+other state, or any political subdivision or municipality of the state,
+relating to property, buildings, structures, facilities, equipment,
+services, rates, fares, allowances or charges, or rules or regulations
+pertaining thereto, for or in connection with the provision of intercity
+bus passenger services, or such local or commuter services as are
+provided by an intercity bus company.
+  b. Utilize federal moneys available or which may become available to
+the state for the purpose of effectuating the provisions of this
+section, and enter into any necessary agreements required to meet
+federal regulations, criteria and standards in connection therein.
+  c. Do all things necessary, convenient or desirable to carry out the
+purposes of this section.
+  3. For the purposes of this section, the term "intercity bus passenger
+service" shall mean transportation provided to the public on a regular
+and continuing basis by a person, firm, or corporation authorized to
+transport passengers in interstate commerce by the United States
+department of transportation or in intrastate commerce by the state
+department of transportation that is primarily intended to satisfy
+longer distance travel demand between cities, and villages and
+unincorporated urban places that have a population of two thousand five
+hundred or more. Such term does not include services that are primarily
+local or commuter oriented in nature.
+```

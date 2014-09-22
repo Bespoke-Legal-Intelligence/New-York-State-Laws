@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 964", "kind": "section", "law_id": "RPA", "location_id": "964", "path": "ARTICLE 9 › SECTION 964", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/964.md", "title": "Payment of proceeds into court in cases involving decedent's property"} -->
+# Real Property Actions and Proceedings Law § 964 — Payment of proceeds into court in cases involving decedent's property
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 9 — Action For Partition](README.md)
+
+```text
+  § 964. Payment of proceeds into court in cases involving decedent's
+property.  Where the property has been sold free from the lien of debts,
+a final judgment, entered before eighteen months have elapsed from the
+granting of letters of administration or letters testamentary upon the
+estate of a decedent from whom the plaintiff derived his title, shall
+direct that the proceeds of the sale remaining after the payment of the
+costs, referee's fees, expenses of sale, and liens established before
+the death of the decedent, including any sum allowed to a widow in
+satisfaction of her right of dower, therein directed to be paid, be paid
+forthwith into court by the referee making such sale.
+  A final judgment in such case, entered before eighteen months have
+elapsed from the granting of letters of administration or letters
+testamentary upon the estate of a deceased person, who, if living,
+should be a party to the action, shall direct that the share of the
+proceeds of such sale, which would have been his, if living, be paid
+into court by such referee.
+```

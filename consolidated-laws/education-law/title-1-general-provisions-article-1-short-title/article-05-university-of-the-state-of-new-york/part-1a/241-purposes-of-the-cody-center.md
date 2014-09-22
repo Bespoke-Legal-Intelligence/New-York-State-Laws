@@ -1,0 +1,57 @@
+﻿<!-- nyslaw {"citation": "Education Law § 241", "kind": "section", "law_id": "EDN", "location_id": "241", "path": "TITLE 1 › ARTICLE 5 › PART 1-A › SECTION 241", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/241.md", "title": "Purposes of the Cody center"} -->
+# Education Law § 241 — Purposes of the Cody center
+
+[Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1-A — Cody Center For Autism and Developmental Disabilities](README.md)
+
+```text
+  § 241. Purposes of the Cody center. The purposes of the Cody center
+shall be to:
+  1. Advance the standards of care for individuals with autism spectrum
+disorders and other developmental disabilities.
+  2. Provide an educational setting for professionals working with
+families of individuals with developmental disabilities.
+  3. Contribute significant research outcomes to the body of science
+surrounding cause, identification, and treatment of developmental
+disabilities.
+  4. Practice a multidisciplinary approach when serving people with
+developmental disabilities.
+  5. Support and advance developed programs that form the core of
+community services and education including the social skills program,
+the resource center, the school consultation program, undergraduate and
+graduate courses, the parent education program and case management.
+  (a) The social skills program at the Cody center:
+  (i) Curriculum is primarily geared toward children and adolescents
+with pervasive developmental disorders.
+  (ii) The program uses a positive teaching approach, in a group format,
+to promote the development of pro-social behaviors.
+  (iii) Clinical psychologists and behavior specialists facilitate
+groups.
+  (b) Resource center services: The Cody center occupies a facility in
+Port Jefferson Station designed to provide evaluation and continuing
+treatment by a multidisciplinary staff including psychiatry, psychology,
+neurology, genetics, social work and other specialties. The Cody center
+provides the following services:
+  (i) Community outreach.
+  (ii) Individualized information/support sessions with family members
+of newly diagnosed children.
+  (iii) Medicaid service coordination.
+  (iv) Non-medicaid service coordination.
+  (v) Sponsorship of parent and professional training seminars.
+  (c) School consultation services: Children with autism spectrum
+disorders face a number of challenges in mainstream educational systems.
+Often, school district personnel do not have the special training
+required to make inclusion a rewarding and successful experience. The
+school consultation program aims to support teachers and other school
+personnel in their efforts to educate and work effectively with children
+with autism spectrum disorders. The program provides:
+  (i) Proactive and ongoing technical assistance to school districts and
+private educational facilities throughout Long Island.
+  (ii) Consultation services by Cody center autism specialists with
+extensive experience and training in addressing the learning and
+behavioral needs of children with autism spectrum disorders.
+  (d) Services include:
+  (i) Program planning and staff development.
+  (ii) Parent training.
+  (iii) Technical assistance to classroom teams to address the needs of
+a particular child or children.
+```

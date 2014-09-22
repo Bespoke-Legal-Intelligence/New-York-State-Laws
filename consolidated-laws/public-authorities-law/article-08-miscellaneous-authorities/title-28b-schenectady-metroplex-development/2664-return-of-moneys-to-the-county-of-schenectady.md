@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2664", "kind": "section", "law_id": "PBA", "location_id": "2664", "path": "ARTICLE 8 › TITLE 28-B › SECTION 2664", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2664.md", "title": "Return of moneys to the county of Schenectady"} -->
+# Public Authorities Law § 2664 — Return of moneys to the county of Schenectady
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 28-B — Schenectady Metroplex Development Authority](README.md)
+
+```text
+  § 2664. Return of moneys to the county of Schenectady.  1. In the
+event that the revenues of the authority exceed its current liabilities
+by more than fifty percent at the end of its first fiscal year, or by
+more than ten percent at the end of its fiscal year of each fiscal year
+after its first fiscal year, after a lawful deposit in its reserve fund
+of not less than five percent of its revenues, and after a lawful
+deposit into its construction and development account in the amount
+necessary to provide payment for the anticipated projects of the next
+fiscal year, then the authority shall return to the county of
+Schenectady seventy-five percent of such surplus amount.
+  2. In the event that the revenues of the authority do not exceed its
+current liabilities by more than fifty percent at the end of its first
+fiscal year, or by more than ten percent at the end of its fiscal year
+of each fiscal year after its first fiscal year, after a lawful deposit
+in its reserve fund of not less than five percent of its revenues and
+after a lawful deposit into its construction and development account in
+the amount necessary to provide payment for the anticipated projects of
+the next fiscal year, or that sufficient funds are not available for the
+authority to make a lawful deposit in its reserve fund of not less than
+five percent of its revenues, and a lawful deposit into its construction
+and development account, then the authority shall not be required to
+return any funds to the county of Schenectady for that fiscal year.
+  3. The authority shall not return any funds to the county of
+Schenectady that have been received by the authority from sources other
+than the dedicated one-half of one percent of the sales tax.
+```

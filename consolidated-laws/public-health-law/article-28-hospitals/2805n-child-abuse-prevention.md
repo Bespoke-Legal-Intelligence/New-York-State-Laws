@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2805-N", "kind": "section", "law_id": "PBH", "location_id": "2805-N", "path": "ARTICLE 28 › SECTION 2805-N", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2805-N.md", "title": "Child abuse prevention"} -->
+# Public Health Law § 2805-N — Child abuse prevention
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  § 2805-n. Child abuse prevention.  All hospitals shall: (i) develop,
+maintain and disseminate written policies and procedures pursuant to
+title six of article six of the social services law and applicable
+provisions of article ten of the family court act, regarding the
+mandatory reporting of child abuse or neglect, reporting procedures and
+obligations of persons required to report, provisions for taking a child
+into protective custody, mandatory reporting of deaths, immunity from
+liability, penalties for failure to report and obligations for the
+provision of services and procedures necessary to safeguard the life or
+health of the child; and (ii) establish, and implement on an ongoing
+basis, a training program for all current and new employees regarding
+the policies and procedures established pursuant to this section.
+```

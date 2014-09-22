@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "City of Troy Issuance of Serial Bonds § 5", "kind": "section", "law_id": "TRY", "location_id": "5", "path": "SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:TRY/5.md", "title": "Except as hereinafter provided, all proceedings in connection with the authorization and issuance of such bonds and/or bond anticipation ..."} -->
+# City of Troy Issuance of Serial Bonds § 5 — Except as hereinafter provided, all proceedings in connection with the authorization and issuance of such bonds and/or bond anticipation ...
+
+[City of Troy Issuance of Serial Bonds](README.md)
+
+```text
+  § 5. Except as hereinafter provided, all proceedings in connection
+with the authorization and issuance of such bonds and/or bond
+anticipation notes authorized to be issued pursuant to this act shall be
+had and taken in accordance with the provisions of the local finance
+law, except that any resolution or resolutions authorizing the issuance
+of such serial bonds shall not be subject to either a permissive or
+mandatory referendum and the provisions of section 107.00 of the local
+finance law shall not apply to the issuance of such bonds or bond
+anticipation notes.
+```

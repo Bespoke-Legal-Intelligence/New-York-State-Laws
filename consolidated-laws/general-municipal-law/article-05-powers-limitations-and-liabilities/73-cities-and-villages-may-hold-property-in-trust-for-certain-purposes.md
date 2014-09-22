@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 73", "kind": "section", "law_id": "GMU", "location_id": "73", "path": "ARTICLE 5 › SECTION 73", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/73.md", "title": "Cities and villages may hold property in trust for certain purposes"} -->
+# General Municipal Law § 73 — Cities and villages may hold property in trust for certain purposes
+
+[General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
+
+```text
+  § 73. Cities and villages may hold property in trust for certain
+purposes. Real and personal estate may be granted and conveyed to the
+corporation of any city or village of this state, to be held in trust
+for any purpose of education, or the diffusion of knowledge, or for the
+relief of distress; or for parks, gardens, or other ornamental grounds,
+or grounds for the purposes of military parades and exercise, or health
+and recreation, within or near such incorporated city or village, upon
+such conditions as may be prescribed by the grantor or donor, and agreed
+to by such corporation; and all real estate so granted or conveyed to
+such corporation, may be held by the same, subject to such conditions as
+may be prescribed and agreed to as aforesaid.
+```

@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2985", "kind": "section", "law_id": "PBH", "location_id": "2985", "path": "ARTICLE 29-C › SECTION 2985", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2985.md", "title": "Revocation"} -->
+# Public Health Law § 2985 — Revocation
+
+[Public Health Law](../README.md) › [Article 29-C — Health Care Agents and Proxies](README.md)
+
+```text
+  § 2985. Revocation. 1. Means of revoking proxy. (a) A competent adult
+may revoke a health care proxy by notifying the agent or a health care
+provider orally or in writing or by any other act evidencing a specific
+intent to revoke the proxy.
+  (b) For the purposes of this section, every adult shall be presumed
+competent unless determined otherwise pursuant to court order.
+  (c) A health care proxy shall also be revoked upon execution by the
+principal of a subsequent health care proxy.
+  (d) The creation by the principal of written wishes or instructions
+about health care, or limitations upon the agent's authority, shall not
+revoke a health care proxy unless such wishes, instructions or
+limitations expressly provide otherwise. Such wishes, instructions or
+limitations shall constitute evidence of the principal's wishes for
+purposes of subdivision two of section two thousand nine hundred
+eighty-two of this article.
+  (e) The appointment of the principal's spouse as health care agent
+shall be revoked upon the divorce or legal separation of the principal
+and spouse, unless the principal specifies otherwise.
+  2. Duty to record revocation.  (a) A physician who is informed of or
+provided with a revocation of a health care proxy shall immediately (i)
+record the revocation in the principal's medical record and (ii) notify
+the agent and the medical staff responsible for the principal's care of
+the revocation.
+  (b) Any member of the staff of a health care provider informed of or
+provided with a revocation of a health care proxy pursuant to this
+section shall immediately notify a physician of such revocation.
+```

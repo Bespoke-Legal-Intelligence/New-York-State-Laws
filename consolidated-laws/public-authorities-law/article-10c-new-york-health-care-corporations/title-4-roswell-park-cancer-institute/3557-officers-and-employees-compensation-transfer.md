@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3557", "kind": "section", "law_id": "PBA", "location_id": "3557", "path": "ARTICLE 10-C › TITLE 4 › SECTION 3557", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3557.md", "title": "Officers and employees; compensation; transfer"} -->
+# Public Authorities Law § 3557 — Officers and employees; compensation; transfer
+
+[Public Authorities Law](../../README.md) › [Article 10-C — New York Health Care Corporations](../README.md) › [Title 4 — Roswell Park Cancer Institute Corporation Act](README.md)
+
+```text
+  § 3557. Officers and employees; compensation; transfer.  1. On the
+effective date of the transfer of the operations of the Roswell Park
+Cancer Institute to the corporation pursuant to an agreement between the
+state and the corporation as authorized in this title, officers and
+employees of the state employed in Roswell Park Cancer Institute shall
+become officers and employees of the corporation; such persons
+transferred shall be deemed public officers or public employees as the
+case may be, in the civil service.
+  2.  The civil service rights of such persons continuing in service of
+the corporation at the time of such transfer and for persons entering
+the service of Roswell Park Cancer Institute corporation following the
+date of transfer shall be governed by the civil service law and
+associated regulations except as otherwise provided pursuant to this
+title.
+  3. The salary or compensation of any such officer or employee, after
+such transfer, shall be paid by the corporation.
+  4. The corporation shall, upon transfer, acknowledge and give credit
+for all leave balances held by such officers and employees of the state
+who become officers or employees of the corporation on the date of
+transfer.
+  5. Notwithstanding any inconsistent provision of law for purposes of
+eligibility for promotional examinations offered for state employees
+generally, an employee of the corporation shall be entitled to all the
+rights thereto as if such employee was a state employee subject to the
+pertinent provisions of the civil service law.
+```

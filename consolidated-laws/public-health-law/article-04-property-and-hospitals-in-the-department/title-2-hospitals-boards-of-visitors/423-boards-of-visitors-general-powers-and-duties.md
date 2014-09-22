@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 423", "kind": "section", "law_id": "PBH", "location_id": "423", "path": "ARTICLE 4 › TITLE 2 › SECTION 423", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/423.md", "title": "Boards of visitors; general powers and duties"} -->
+# Public Health Law § 423 — Boards of visitors; general powers and duties
+
+[Public Health Law](../../README.md) › [Article 4 — Property and Hospitals In the Department of Health](../README.md) › [Title 2 — Hospitals: Boards of Visitors](README.md)
+
+```text
+  § 423. Boards of visitors; general powers and duties.  1. The board of
+visitors of each hospital in the department shall have the powers and
+duties expressly conferred or imposed on it by this chapter and such
+other powers and duties, not inconsistent with law as may be prescribed
+by rules of the commissioner.
+  2. Each board of visitors shall:
+  (a) subject to such rules and the statutory powers of the
+commissioner, take care of the general interest of the institution and
+see that its objective is carried into effect;
+  (b) maintain an effective inspection of the institution, for which
+purpose the board, or a majority of its members, shall visit and inspect
+the institution at least once every three months;
+  (c) keep in a book provided for that purpose, a fair and full record
+of its activities, which shall be open at all times to the inspection
+and examination of the governor or of any person appointed by the
+governor or by either house of the legislature, or to the commissioner
+or his authorized representatives;
+  (d) enter in a book, kept at the institution for that purpose, the
+date of each visit of each visitor;
+  (e) investigate, hear and ascertain the truth of all charges made
+against the director or other officer or employee of the institution,
+issue subpoenas, take and hear testimony in respect to such charges and
+make its recommendations thereon to the authority having the power to
+discharge or remove. A witness attending before such board shall be
+entitled to the same fees as a witness attending before a court of
+record or a judge thereof, which shall be paid as other institutional
+charges.
+```

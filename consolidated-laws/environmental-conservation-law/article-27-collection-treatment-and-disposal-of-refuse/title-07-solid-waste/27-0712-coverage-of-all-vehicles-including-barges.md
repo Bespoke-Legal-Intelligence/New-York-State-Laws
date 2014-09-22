@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-0712", "kind": "section", "law_id": "ENV", "location_id": "27-0712", "path": "ARTICLE 27 › TITLE 7 › SECTION 27-0712", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-0712.md", "title": "Coverage of all vehicles, including barges transporting solid waste"} -->
+# Environmental Conservation Law § 27-0712 — Coverage of all vehicles, including barges transporting solid waste
+
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 7 — Solid Waste Management and Resource Recovery Facilities](README.md)
+
+```text
+§ 27-0712. Coverage of all vehicles, including barges transporting solid
+             waste.
+  1. Legislative findings and intent. It is the purpose of this section
+to assure that solid waste management is conducted in a safe, sanitary,
+efficient and environmentally sound manner throughout the state. The
+legislature finds and declares that current law and regulations have not
+always achieved this purpose. A large percentage of solid waste is
+transferred and transported over water as well as by container truck.
+Some type of cover is necessary to protect against the spillage of waste
+and emission of odors during its transfer and transportation. The
+legislature further finds and declares that legislation is necessary to
+remedy this situation by requiring the responsible parties to cover such
+vehicles with devices which will accomplish the intent of this section.
+  2. A municipality or any individual, firm or corporation acting on its
+behalf or any other individual, firm or corporation shall not cause or
+permit any solid waste to be transported on any vehicle, barge, ship, or
+scow unless the solid waste on the vehicle, barge, ship, or scow is
+covered.
+  3. The department shall monitor and inspect such vehicles, barges,
+ships and scows transporting solid waste on a regular basis to insure
+that they are covered and in compliance with the provisions of this
+section.
+```

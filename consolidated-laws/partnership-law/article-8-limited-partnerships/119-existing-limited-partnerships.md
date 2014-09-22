@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 119", "kind": "section", "law_id": "PTR", "location_id": "119", "path": "ARTICLE 8 › SECTION 119", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/119.md", "title": "Existing limited partnerships"} -->
+# Partnership Law § 119 — Existing limited partnerships
+
+[Partnership Law](../README.md) › [Article 8 — Limited Partnerships](README.md)
+
+```text
+  § 119. Existing limited partnerships.  (1) A limited partnership
+formed under any statute of this state prior to the adoption of this
+article may become a limited partnership under this article by complying
+with the provisions of section ninety-one, provided the certificate sets
+forth
+  (a) The amount of the original contribution of each limited partner,
+and the time when the contribution was made, and
+  (b) That the property of the partnership exceeds the amount sufficient
+to discharge its liabilities to persons not claiming as general or
+limited partners by an amount greater than the sum of the contributions
+of its limited partners.
+  (2) The provisions of this article, or the repeal of article eight of
+this chapter, shall not affect or impair any act done or right accrued,
+acquired or established by a limited partnership formed under any
+statute of this state prior to its adoption, until or unless it becomes
+a limited partnership in accordance with the provisions of this article,
+and the same may be conducted in the same manner and to the same extent
+as if this article had not been passed.
+```

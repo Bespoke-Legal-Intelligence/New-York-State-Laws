@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "County Law § 259", "kind": "section", "law_id": "CNT", "location_id": "259", "path": "ARTICLE 5-A › SECTION 259", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/259.md", "title": "Recording and filing of determination"} -->
+# County Law § 259 — Recording and filing of determination
+
+[County Law](../README.md) › [Article 5-A — County Water, Sewer, Drainage and Refuse Districts](README.md)
+
+```text
+  § 259. Recording and filing of determination. The clerk of the board
+of supervisors shall within ten days cause a certified copy of the order
+of the board of supervisors establishing or extending the district,
+consolidating two or more districts, or authorizing the increase and
+improvement of facilities previously authorized for an existing district
+to be recorded in the office of the clerk of the county and when so
+recorded such order shall be presumptive evidence of the regularity of
+the proceedings for the establishment of the district or for the
+authorization of the increase and improvement of facilities previously
+authorized for an existing district and of all other action taken by the
+board of supervisors in relation thereto. A certified copy of such order
+shall also be filed in the office of the state department of audit and
+control at Albany, New York.
+```

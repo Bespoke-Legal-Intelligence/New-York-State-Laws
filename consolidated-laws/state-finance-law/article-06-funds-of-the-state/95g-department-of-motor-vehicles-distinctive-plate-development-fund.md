@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 95-G", "kind": "section", "law_id": "STF", "location_id": "95-G", "path": "ARTICLE 6 › SECTION 95-G", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/95-G.md", "title": "Department of motor vehicles distinctive plate development fund"} -->
+# State Finance Law § 95-G — Department of motor vehicles distinctive plate development fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 95-g. Department of motor vehicles distinctive plate development
+fund.  1. There is hereby established in the joint custody of the
+commissioner of taxation and finance and the comptroller, a special fund
+to be known as the "department of motor vehicles distinctive plate
+development fund".
+  2. Such fund shall consist of all revenues received pursuant to the
+provisions of section four hundred four-oo of the vehicle and traffic
+law and all moneys appropriated, credited or transferred thereto from
+any other fund or source pursuant to law. Nothing contained in this
+section shall prevent the state from receiving grants, gifts or bequests
+for the purposes of the fund as defined in this section and depositing
+them into the fund according to law.
+  3. Moneys of the fund shall be expended only for the design,
+production, advertising and distribution of distinctive license plates
+established pursuant to article fourteen of the vehicle and traffic law
+on or after the effective date of this section, provided, however, that
+such moneys shall first be expended for the costs of designing and
+producing such distinctive plates. Any revenue derived from the issuance
+of any specific distinctive plate in excess of the amount necessary for
+its design and production shall next be expended for the design and
+production of all other distinctive plates the service charges of which
+are deposited pursuant to section four hundred four-oo of the vehicle
+and traffic law.
+  4. Moneys shall be payable from the fund on the audit and warrant of
+the comptroller on vouchers approved by the commissioner of motor
+vehicles.
+  5. To the extent practicable, the commissioner of motor vehicles shall
+ensure that all monies received during a fiscal year are expended prior
+to the end of that fiscal year.
+```

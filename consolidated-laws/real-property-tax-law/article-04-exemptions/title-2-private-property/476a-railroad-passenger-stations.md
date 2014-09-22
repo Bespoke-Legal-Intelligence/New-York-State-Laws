@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 476-A", "kind": "section", "law_id": "RPT", "location_id": "476-A", "path": "ARTICLE 4 › TITLE 2 › SECTION 476-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/476-A.md", "title": "Railroad passenger stations"} -->
+# Real Property Tax Law § 476-A — Railroad passenger stations
+
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
+
+```text
+  § 476-a. Railroad passenger stations. Each railroad passenger station
+in a city having a population of more than one million, including the
+railroad passenger terminal facilities used in connection with such
+passenger station, and the railroad roadway approaches to such station
+(including land, tracks, signals, bridges, tunnels and other roadway
+structures and facilities) situated within five miles of the mid-point
+of such passenger station as located on March first, nineteen hundred
+sixty-five, at which not less than seventy-five percent of the passenger
+trains using such station utilized by the railroad or railroads using
+such station originate and terminate at such station, shall be exempt
+from taxation, provided that no portion of such station, terminal
+facilities, or approaches is regularly used in freight service. The
+exemptions provided by the preceding sentence shall not apply to any
+railroad for which the commissioner has, pursuant to the provisions of
+section four hundred eighty-nine-i of this chapter, determined an
+earnings ratio in excess of two and one-half percent.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 554", "kind": "section", "law_id": "PVH", "location_id": "554", "path": "ARTICLE 10 › SECTION 554", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/554.md", "title": "Provisions of lease"} -->
+# Private Housing Finance Law § 554 — Provisions of lease
+
+[Private Housing Finance Law](../README.md) › [Article 10 — Sale or Lease of Projects](README.md)
+
+```text
+  § 554. Provisions of lease.  1. Every lease of a project or a part
+thereof to a housing company:
+  (a) shall provide that all improvements shall be the property of the
+lessor;
+  (b) may require that provision be made for the retirement and
+surrender of all outstanding shares and debentures upon the termination
+of the lease;
+  (c) may reserve such easements or other rights in connection with the
+property as may be deemed necessary or desirable for the future planning
+and development of the municipality and the extension of public
+facilities therein;
+  (d) shall contain a provision authorizing the lessor to designate a
+director of the housing company; and
+  (e) may contain such other provisions as are not inconsistent with the
+provisions of this chapter.
+  2. Such lease shall not impose upon the lessor any liability or
+obligations in connection with or arising out of the financing,
+construction, reconstruction, alteration, management or operation of a
+project, but such lease shall contain such provisions as may be
+necessary to protect the interests of the authority or municipality.
+```

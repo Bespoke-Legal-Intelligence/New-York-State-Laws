@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 272", "kind": "section", "law_id": "HAY", "location_id": "272", "path": "ARTICLE 10 › SECTION 272", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/272.md", "title": "Submission of propositions at town meetings"} -->
+# Highway Law § 272 — Submission of propositions at town meetings
+
+[Highway Law](../README.md) › [Article 10 — Finances](README.md)
+
+```text
+  § 272. Submission of propositions at town meetings. A proposition to
+authorize the levy and collection of an amount greater than that
+specified in the preceding section for any of the purposes therein
+mentioned may be submitted upon the written application of twenty-five
+taxpayers upon the last town assessment-roll or by a majority of the
+members of the town board, at a biennial town meeting or a special town
+meeting duly called as provided by law. The provisions of the town law
+relating to the submission of town propositions at a biennial or special
+town meeting shall apply to the submission of such propositions. If such
+proposition be adopted the town board shall include in the estimates
+contained in the next statement submitted by it to the board of
+supervisors, as provided in section two hundred and sixty-seven, the
+amounts authorized to be raised by such proposition for the purposes
+therein stated, and thereupon such amounts shall be levied and
+collected, and paid to the supervisor, to be expended by him as directed
+by such proposition.
+```

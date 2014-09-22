@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Town Law § 83", "kind": "section", "law_id": "TWN", "location_id": "83", "path": "ARTICLE 6 › SECTION 83", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/83.md", "title": "Conduct of town elections"} -->
+# Town Law § 83 — Conduct of town elections
+
+[Town Law](../README.md) › [Article 6 — Town Elections](README.md)
+
+```text
+  § 83. Conduct of town elections. The town board shall select from the
+list of election inspectors and ballot clerks previously designated for
+general election purposes, pursuant to the election law, persons to act
+as election inspectors and ballot clerks for each voting place at which
+a special town election shall be held. Election inspectors and ballot
+clerks for biennial town elections shall be those appointed as provided
+by the election law, and both special town elections and biennial
+elections shall be conducted, the votes canvassed, and the results
+certified and returned so far as practicable in the manner prescribed by
+such law. Upon the closing of the polls at any election at which a
+proposition or propositions shall be voted upon, the election inspectors
+shall proceed to canvass the votes thereat and shall complete such
+canvass without adjournment. As soon as possible after completion the
+inspectors shall file with the town clerk a certificate setting forth
+the holding of the election, the total number of votes cast upon each
+proposition, and the number of votes cast for and against each
+proposition, together with the name and address of every person voting
+at such election upon such proposition or propositions.
+```

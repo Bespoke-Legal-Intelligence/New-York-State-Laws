@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "General Construction Law § 25-A", "kind": "section", "law_id": "GCN", "location_id": "25-A", "path": "ARTICLE 2 › SECTION 25-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GCN/25-A.md", "title": "Public holiday, Saturday or Sunday in statutes; extension of time where performance of act is due on Saturday, Sunday or public holiday"} -->
+# General Construction Law § 25-A — Public holiday, Saturday or Sunday in statutes; extension of time where performance of act is due on Saturday, Sunday or public holiday
+
+[General Construction Law](../README.md) › [Article 2 — Meaning of Terms](README.md)
+
+```text
+  § 25-a. Public holiday, Saturday or Sunday in statutes; extension of
+time where performance of act is due on Saturday, Sunday or public
+holiday. 1. When any period of time, computed from a certain day, within
+which or after which or before which an act is authorized or required to
+be done, ends on a Saturday, Sunday or a public holiday, such act may be
+done on the next succeeding business day and if the period ends at a
+specified hour, such act may be done at or before the same hour of such
+next succeeding business day, except that where a period of time
+specified by contract ends on a Saturday, Sunday or a public holiday,
+the extension of such period is governed by section twenty-five of this
+chapter.
+  2. Where time is extended by virtue of the provisions of this section,
+such extended time shall not be included in the computation of interest,
+except that when the period is specified as a number of months, such
+extended time shall be included in the computation of interest.
+```

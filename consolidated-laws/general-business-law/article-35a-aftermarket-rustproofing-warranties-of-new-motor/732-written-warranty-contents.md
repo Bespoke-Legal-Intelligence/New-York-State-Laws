@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 732", "kind": "section", "law_id": "GBS", "location_id": "732", "path": "ARTICLE 35-A › SECTION 732", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/732.md", "title": "Written warranty; contents"} -->
+# General Business Law § 732 — Written warranty; contents
+
+[General Business Law](../README.md) › [Article 35-A — Aftermarket Rustproofing Warranties of New Motor Vehicles](README.md)
+
+```text
+  § 732. Written warranty; contents. The aftermarket rustproofing
+warranty required by this article must contain the following terms:
+  1. Defects. The body sheet metal, structural members and frame of the
+motor vehicle are warranted not to rust through from the inside out
+during the warranty period specified.
+  2. Corrective action.
+  (a) The warrantor will, as a minimum remedy, make repairs or indemnify
+the buyer for the actual cost of repairing any rust damage covered by
+the warranty.
+  (b) The warrantor will honor all valid claims under the warranty
+regardless of their number.
+  (c) Nothing contained in this section shall be deemed to preclude a
+warrantor from entering into a contract requiring a financially solvent
+applicator to be initially responsible for the cost of any corrective
+action as a result of the negligence of the applicator of the
+aftermarket rustproofing.
+  3. Length of warranty. This warranty shall be valid for a period of
+not less than five years from the date of the application of the
+aftermarket rustproofing, provided, however, that this section shall not
+be construed as to extend this warranty to a person who is a subsequent
+transferee of the buyer.
+```

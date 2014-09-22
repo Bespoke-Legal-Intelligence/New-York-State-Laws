@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 279", "kind": "section", "law_id": "DCD", "location_id": "279", "path": "ARTICLE 10 › SECTION 279", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/279.md", "title": "Rights of creditors whose claims have not matured"} -->
+# Debtor and Creditor Law § 279 — Rights of creditors whose claims have not matured
+
+[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+
+```text
+  § 279. Rights of creditors whose claims have not matured. Where a
+conveyance made or obligation incurred is fraudulent as to a creditor
+whose claim has not matured he may proceed in a court of competent
+jurisdiction against any person against whom he could have proceeded had
+his claim matured, and the court may,
+  a. Restrain the defendant from disposing of his property.
+  b. Appoint a receiver to take charge of the property,
+  c. Set aside the conveyance or annul the obligation, or
+  d. Make any order which the circumstances of the case may require.
+```

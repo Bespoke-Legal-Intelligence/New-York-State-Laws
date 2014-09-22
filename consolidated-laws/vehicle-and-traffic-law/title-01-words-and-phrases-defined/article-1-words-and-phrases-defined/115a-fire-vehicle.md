@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 115-A", "kind": "section", "law_id": "VAT", "location_id": "115-A", "path": "TITLE 1 › ARTICLE 1 › SECTION 115-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/115-A.md", "title": "Fire vehicle"} -->
+# Vehicle and Traffic Law § 115-A — Fire vehicle
+
+[Vehicle and Traffic Law](../../README.md) › [Title 1 — Words and Phrases Defined](../README.md) › [Article 1 — Words and Phrases Defined](README.md)
+
+```text
+  § 115-a. Fire vehicle. Every vehicle operated for fire service
+purposes owned and identified as being owned by the state, a public
+authority, a county, town, city, village or fire district, or a fire
+corporation subject to the provisions of subdivision (e) of section
+fourteen hundred two of the not-for-profit corporation law or a fire
+company as defined in section one hundred of the general municipal law.
+Any of the following vehicles shall be fire vehicles only for the
+purpose of section one hundred one of this chapter: 1. a vehicle
+operated by officials of the office of fire prevention and control,
+  2. a vehicle ordinarily operated by a chief or assistant chief of a
+fire department, or a county or deputy county fire coordinator, or
+county or assistant county fire marshall, or town or assistant town fire
+coordinator, or such vehicle when operated in an official capacity by or
+under the direction of such person, and
+  3. a vehicle specially designed and equipped for firefighting purposes
+which is regularly used for firefighting purposes by a firefighting unit
+on property used for industrial, institutional or commercial purposes
+and which vehicle is owned by the owner or lessee of such property.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 73", "kind": "section", "law_id": "RRD", "location_id": "73", "path": "ARTICLE 3 › SECTION 73", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/73.md", "title": "Inspectors of locomotives"} -->
+# Railroad Law § 73 — Inspectors of locomotives
+
+[Railroad Law](../README.md) › [Article 3 — Construction, Operation and Management](README.md)
+
+```text
+  § 73. Inspectors of locomotives. Inspectors shall be appointed by the
+commissioner of transportation, who shall be familiar with the
+construction and operation of steam locomotives and their appurtenances,
+whose salaries shall be fixed by the commissioner of transportation.
+They shall, under the direction of the commissioner of transportation,
+inspect locomotives used by corporations operating steam railroads
+within the state, or locomotives owned or operated by corporations,
+partnerships or persons on or over any track adjacent to or parallel
+with any track of any railroad corporation within the state, and may
+cause the same to be tested by hydrostatic tests and shall perform such
+other duties in connection with the inspection and test of locomotives
+as the commissioner of transportation shall direct. But this section
+shall not relieve any corporation, partnership or person from the duties
+imposed by the preceding section.
+```

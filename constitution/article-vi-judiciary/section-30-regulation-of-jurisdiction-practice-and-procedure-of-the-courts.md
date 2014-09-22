@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Vi, § 30", "kind": "section", "law_id": "CNS", "location_id": "A6S30", "path": "ARTICLE VI › SECTION 30", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A6S30.md", "title": "  Regulation of jurisdiction, practice and procedure of the              courts"} -->
+# New York State Constitution, Article Vi, § 30 —   Regulation of jurisdiction, practice and procedure of the              courts
+
+[New York State Constitution](../README.md) › [Article VI — Judiciary](README.md)
+
+```text
+  § 30. The legislature shall have the same power to alter and regulate
+the jurisdiction and proceedings in law and in equity that it has
+heretofore exercised. The legislature may, on such terms as it shall
+provide and subject to subsequent modification, delegate, in whole or in
+part, to a court, including the appellate division of the supreme court,
+or to the chief administrator of the courts, any power possessed by the
+legislature to regulate practice and procedure in the courts. The chief
+administrator of the courts shall exercise any such power delegated to
+him or her with the advice and consent of the administrative board of
+the courts. Nothing herein contained shall prevent the adoption of
+regulations by individual courts consistent with the general practice
+and procedure as provided by statute or general rules.
+```

@@ -1,0 +1,56 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1409", "kind": "section", "law_id": "TAX", "location_id": "1409", "path": "ARTICLE 31 › SECTION 1409", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1409.md", "title": "Returns"} -->
+# Tax Law § 1409 — Returns
+
+[Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
+
+```text
+  § 1409. Returns. (a) A joint return shall be filed by both the grantor
+and the grantee for each conveyance whether or not a tax is due thereon
+other than a conveyance of an easement or license to a public utility as
+defined in subdivision two of section one hundred eighty-six-a of this
+chapter or to a public utility which is a provider of telecommunication
+services as defined in subdivision one of section one hundred
+eighty-six-e of this chapter, where the consideration is two dollars or
+less and is clearly stated as actual consideration in the instrument of
+conveyance. The return shall be filed with the recording officer before
+the instrument effecting the conveyance may be recorded. However, if the
+tax is paid to the commissioner pursuant to section fourteen hundred ten
+of this article, the return shall be filed with such commissioner at the
+time the tax is paid. In that instance, a receipt evidencing the filing
+of the return and the payment of tax shall be filed with the recording
+officer before the instrument effecting the conveyance may be recorded.
+The recording officer shall handle such receipt in the same manner as a
+return filed with the recording officer.
+  (b) The return shall be signed by both the grantor and the grantee.
+Where a conveyance has more than one grantor or more than one grantee,
+the return shall be signed by all of such grantors and grantees. Where
+any or all of the grantors or any or all of the grantees have failed to
+sign a return, it shall be accepted as a return if signed by any one of
+the grantors or by any one of the grantees.  Provided, however, those
+not signing the return shall not be relieved of any liability for the
+tax imposed by this article and the period of limitations for assessment
+of tax or of additional tax shall not apply to any such party.
+  (c) Returns shall be preserved for three years and thereafter until
+the commissioner of taxation and finance permits them to be destroyed.
+  (d) The commissioner shall prescribe the form of the return, the
+information which it shall contain and the documentation that shall
+accompany the return.  The commissioner shall prescribe that, for
+recorded conveyances, such return shall be included on the form required
+to be filed with a conveyance of real property by section two hundred
+fifty-three-b of this chapter and the regulations promulgated
+thereunder, except that such commissioner may prescribe a supplemental
+form for purposes of the tax imposed by this article when the conveyance
+is pursuant to or in lieu of foreclosure or the conveyance consists in
+part of a mere change of identity or form of ownership or organization
+or the conveyance is one for which a credit for tax previously paid will
+be claimed.  In addition, the commissioner, in the commissioner's
+discretion, may enter into an agreement with the chief fiscal officer of
+the cities of New York, Yonkers or Mount Vernon to provide that a single
+return may be filed with a recording officer for purposes of the tax
+imposed under this article and the tax imposed by such city.
+  (e) Certifications. The making or filing of any return or other
+document or copy thereof, required to be made or filed pursuant to this
+article, shall constitute a certification by the person making or filing
+such return or other document or copy thereof that the statements
+contained therein are true and that any copy filed is a true copy.
+```

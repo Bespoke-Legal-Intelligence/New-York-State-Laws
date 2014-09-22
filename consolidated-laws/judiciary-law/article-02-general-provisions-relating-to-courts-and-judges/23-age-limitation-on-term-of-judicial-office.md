@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 23", "kind": "section", "law_id": "JUD", "location_id": "23", "path": "ARTICLE 2 › SECTION 23", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/23.md", "title": "Age limitation on term of judicial office"} -->
+# Judiciary Law § 23 — Age limitation on term of judicial office
+
+[Judiciary Law](../README.md) › [Article 2 — General Provisions Relating to Courts and Judges](README.md)
+
+```text
+  § 23. Age limitation on term of judicial office. No person shall hold
+the office of judge, justice or surrogate of any court, whether of
+record or not of record, except a justice of the peace of a town or
+police justice of a village, longer than until and including the last
+day of December next after he shall be seventy years of age, except that
+a judge or justice in office or elected or appointed to office at the
+effective date of this section, as to whom no provision limiting his
+right to hold office to the close of the year following his attaining
+the age of seventy years was applicable prior to the effective date of
+this section, may continue in office during the term for which he was
+elected or appointed.
+```

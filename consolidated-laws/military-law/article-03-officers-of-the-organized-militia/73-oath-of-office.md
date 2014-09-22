@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Military Law § 73", "kind": "section", "law_id": "MIL", "location_id": "73", "path": "ARTICLE 3 › SECTION 73", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/73.md", "title": "Oath of office"} -->
+# Military Law § 73 — Oath of office
+
+[Military Law](../README.md) › [Article 3 — Officers of the Organized Militia](README.md)
+
+```text
+  § 73. Oath of office.  Every commissioned officer shall take and
+subscribe the oath of office prescribed for officers of the organized
+militia by the applicable laws of the United States and regulations
+issued pursuant to this chapter. Such oath shall be taken and subscribed
+before a commissioned or warrant officer of the organized militia or of
+any branch of the armed forces of the United States, or before a notary
+public or other officer authorized by the laws of this state to take and
+certify the acknowledgment and proof of conveyances of real property to
+entitle them to be recorded.
+```

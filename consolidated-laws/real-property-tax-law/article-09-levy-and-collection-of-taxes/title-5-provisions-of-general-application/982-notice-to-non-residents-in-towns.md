@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 982", "kind": "section", "law_id": "RPT", "location_id": "982", "path": "ARTICLE 9 › TITLE 5 › SECTION 982", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/982.md", "title": "Notice to non-residents in towns"} -->
+# Real Property Tax Law § 982 — Notice to non-residents in towns
+
+[Real Property Tax Law](../../README.md) › [Article 9 — Levy and Collection of Taxes](../README.md) › [Title 5 — Provisions of General Application; Miscellaneous](README.md)
+
+```text
+  § 982. Notice to non-residents in towns.  1. Any person or
+corporation, who or which owns or has an interest in real property
+liable to taxation in a town and is a non-resident thereof, may file
+with the town clerk thereof a notice stating (a) his name, residence and
+post-office address, or in case of a corporation, its principal office,
+(b) a description of the property sufficient to identify the same and
+(c) if situated in a village or school district, the name of each
+village and number and designation of each school district, and
+requesting that statements of all town, village and school taxes be
+delivered to him by registered mail. Such notice shall be valid and
+continue in effect until cancelled by such person or corporation.
+  2. The town clerk shall, within five days after the delivery of the
+warrants for the collection of taxes in the town, village and school
+district, respectively, in which such real property is situated, furnish
+the collecting officer thereof with a transcript of all notices so
+filed. Each such collecting officer shall, within five days after the
+receipt of such transcript, send by registered mail to each person or
+corporation filing such notice, at the post-office address stated
+therein, a statement of the amount of taxes due and the times and places
+at which the same may be paid.
+  3. If the statement is not furnished as herein provided, no fee,
+penalty or interest shall be charged for the collection of any taxes
+with respect to which the statement was not sent, provided the tax is
+paid before the collecting officer makes his return of unpaid taxes.
+  4. The town clerk shall be entitled to receive a fee of one dollar
+from each person or corporation filing a notice pursuant to this
+section, which shall be payment in full for all services rendered
+hereunder.  The expenses for postage, printing and stationery required
+in sending such statements by town, village or school district
+collecting officers shall be a charge on the town, village or school
+district as the case may be, except that the expense of registering the
+statements shall be added to the taxes due.
+```

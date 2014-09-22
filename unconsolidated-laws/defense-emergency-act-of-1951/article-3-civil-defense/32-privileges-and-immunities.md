@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Defense Emergency Act of 1951 § 32", "kind": "section", "law_id": "DEA", "location_id": "32", "path": "ARTICLE 3 › SECTION 32", "repealed": false, "repealed_date": null, "source": "nys-laws:DEA/32.md", "title": "Privileges and immunities"} -->
+# Defense Emergency Act of 1951 § 32 — Privileges and immunities
+
+[Defense Emergency Act of 1951](../README.md) › [Article 3 — Civil Defense](README.md)
+
+```text
+  § 32. Privileges and immunities. Notwithstanding any inconsistent
+provision of law, members of civil defense forces in the state and
+members of the civil defense forces of other states or of the federal
+government or of the dominion of Canada or of a province or subdivision
+thereof performing civil defense services at any place in this state
+pursuant to any law, any rule, regulation or order duly promulgated or
+issued pursuant to this act, any federal law, or any agreement, compact,
+or arrangement for mutual aid and assistance, to which the state or a
+political subdivision thereof is a party, shall possess the same powers,
+duties, immunities and privileges they would ordinarily possess if
+performing their duties in the jurisdiction in which normally employed
+or rendering services.
+```

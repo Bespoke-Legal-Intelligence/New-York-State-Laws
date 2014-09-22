@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Military Law § 250", "kind": "section", "law_id": "MIL", "location_id": "250", "path": "ARTICLE 11 › SECTION 250", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/250.md", "title": "Recording certificates of honorable discharge"} -->
+# Military Law § 250 — Recording certificates of honorable discharge
+
+[Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
+
+```text
+  § 250. Recording certificates of honorable discharge. Any certificate
+issued after April sixth, nineteen hundred seventeen, of the honorable
+separation from or service in the armed forces of the United States of
+any veteran, may be recorded in any one county, in the office of the
+county clerk, and when so recorded shall constitute notice to all public
+officials of the facts set forth therein. It shall be the duty of the
+county clerk to record the certificate upon presentation thereof without
+the payment of any fee. For any purpose for which the original
+certificate may be required in the state of New York, a certified copy
+of the record shall be deemed sufficient and shall be accepted in lieu
+thereof. Notwithstanding any inconsistent provisions of law, it shall be
+the duty of the county clerk of each county, to furnish without charge
+to any veteran, or parent, spouse, dependent or child of the veteran, a
+certified copy of the certificate of the veteran so recorded in the
+office of the county clerk. No filed certificate or any information
+contained therein, shall be disclosed to any person except the veteran
+or parent, spouse, dependent or child of the veteran, representative of
+the estate of the deceased veteran or a public official, acting within
+the scope of his or her employment, unless such disclosure is authorized
+in writing by the veteran. The provisions of this section also apply to
+the counties within the city of New York.
+```

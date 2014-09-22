@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 897", "kind": "section", "law_id": "GBS", "location_id": "897", "path": "ARTICLE 39-DD › SECTION 897", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/897.md", "title": "Sale of a firearm, rifle or shotgun at a gun show"} -->
+# General Business Law § 897 — Sale of a firearm, rifle or shotgun at a gun show
+
+[General Business Law](../README.md) › [Article 39-DD — Sale of Firearms, Rifles or Shotguns At Gun Shows](README.md)
+
+```text
+  § 897. Sale of a firearm, rifle or shotgun at a gun show. 1. A
+national instant criminal background check shall be conducted and no
+person shall sell or transfer a firearm, rifle or shotgun at a gun show,
+except in accordance with the provisions of 18 U.S.C. 922(t).
+  2. No person shall offer or agree to sell or transfer a firearm, rifle
+or shotgun to another person at a gun show and transfer or deliver such
+firearm, rifle or shotgun to such person or person acting on his or her
+behalf thereafter at a location other than the gun show for the purpose
+of evading or avoiding compliance with 18 U.S.C. 922(t).
+  3. Any person who knowingly violates any of the provisions of this
+section shall be guilty of a class A misdemeanor punishable as provided
+for in the penal law.
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 291", "kind": "section", "law_id": "EXC", "location_id": "291", "path": "ARTICLE 15 › SECTION 291", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/291.md", "title": "Equality of opportunity a civil right"} -->
+# Executive Law § 291 — Equality of opportunity a civil right
+
+[Executive Law](../README.md) › [Article 15 — Human Rights Law](README.md)
+
+```text
+  § 291. Equality of opportunity a civil right.
+  1. The opportunity to obtain employment without discrimination because
+of age, race, creed, color, national origin, sexual orientation,
+military status, sex, marital status, or disability, is hereby
+recognized as and declared to be a civil right.
+  2. The opportunity to obtain education, the use of places of public
+accommodation and the ownership, use and occupancy of housing
+accommodations and commercial space without discrimination because of
+age, race, creed, color, national origin, sexual orientation, military
+status, sex, marital status, or disability, as specified in section two
+hundred ninety-six of this article, is hereby recognized as and declared
+to be a civil right.
+  3. The opportunity to obtain medical treatment of an infant
+prematurely born alive in the course of an abortion shall be the same as
+the rights of an infant born spontaneously.
+```

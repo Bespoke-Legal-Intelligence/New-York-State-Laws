@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 223", "kind": "section", "law_id": "WKC", "location_id": "223", "path": "ARTICLE 9 › SECTION 223", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/223.md", "title": "Modification of board decisions or orders"} -->
+# Workers' Compensation Law § 223 — Modification of board decisions or orders
+
+[Workers' Compensation Law](../README.md) › [Article 9 — Disability Benefits](README.md)
+
+```text
+  § 223. Modification of board decisions or orders. Upon its own motion
+or upon the application of any party in interest, the board may at any
+time review any decision or order and, on such review, may make a
+decision ending, diminishing or increasing the benefits previously
+ordered, and shall state the reason therefor.  Upon the filing of such
+decision, the chairman shall send to each of the parties a copy thereof.
+No such review shall affect any previous decision as regards any moneys
+already paid, except that a decision increasing the benefit rate may be
+made effective from date of commencement of disability, and except that,
+if any part of the benefits due is unpaid, a decision decreasing the
+benefit rate may be made effective from the commencement of disability,
+and any payments made prior thereto in excess of such decreased rate
+shall be deducted from future benefits in such manner and by such method
+as may be determined by the board.
+```

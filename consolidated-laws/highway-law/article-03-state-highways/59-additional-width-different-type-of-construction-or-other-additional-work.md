@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 59", "kind": "section", "law_id": "HAY", "location_id": "59", "path": "ARTICLE 3 › SECTION 59", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/59.md", "title": "Additional width, different type of construction or other additional work under repair or reconstruction contracts"} -->
+# Highway Law § 59 — Additional width, different type of construction or other additional work under repair or reconstruction contracts
+
+[Highway Law](../README.md) › [Article 3 — State Highways](README.md)
+
+```text
+  § 59. Additional width, different type of construction or other
+additional work under repair or reconstruction contracts. Whenever in
+the maintenance, repair or reconstruction of state highways the
+commissioner of transportation shall have determined upon the necessity
+of resurfacing or reconstructing such highway, the county, town or
+village wherein the highway is located may petition the commissioner of
+transportation to provide an additional width, a different type of
+pavement, or both, or any additional work or any or all of same, in the
+plans providing for such resurfacing or reconstruction.
+  The additional expense of such widening, different type of
+construction or additional work shall be borne wholly by such county,
+town or village and the provisions of sections forty-six, forty-eight
+and forty-nine shall apply to such additional width, different type of
+construction or any additional work under such repair or reconstruction
+contract in the same manner as under a construction contract as provided
+in those sections.
+```

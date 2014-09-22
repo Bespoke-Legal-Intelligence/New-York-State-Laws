@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1581", "kind": "section", "law_id": "RPT", "location_id": "1581", "path": "ARTICLE 15-C › SECTION 1581", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1581.md", "title": "Definitions"} -->
+# Real Property Tax Law § 1581 — Definitions
+
+[Real Property Tax Law](../README.md) › [Article 15-C — Systems of Real Property Tax Administration Utilizing Electronic Data Processing](README.md)
+
+```text
+  § 1581. Definitions. For purposes of this article:
+  1. "Data file" means the compilation of assessment information used in
+the preparation of assessment rolls, tax rolls, tax bills or any
+combination thereof, in a system of real property tax administration
+which employs electronic data processing equipment.
+  2. "Electronic data processing" means the use of the computer for
+operations which include the storing, retrieving, sorting, merging,
+calculating and reporting of data.
+  3. "Machine readable" means information in a form legible through the
+use of mechanical devices.
+  4. "Posted tax roll" means a tax roll including the date of payment of
+a tax, any receipt number and related information.
+```

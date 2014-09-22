@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Private Activity Bond § 7", "kind": "section", "law_id": "PAB", "location_id": "7", "path": "TITLE 1 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:PAB/7.md", "title": "Overlapping jurisdictions"} -->
+# Private Activity Bond § 7 — Overlapping jurisdictions
+
+[Private Activity Bond](../README.md) › [Title 1 — Private Activity Bond Allocation Act of 1990](README.md)
+
+```text
+  * § 7. Overlapping jurisdictions. In a geographic area represented by
+a county local agency and one or more sub-county local agencies, the
+allocation granted by section three of this act with respect to such
+area of overlapping jurisdiction shall be apportioned one-half to the
+county local agency and one-half to the sub-county local agency or
+agencies. Where there is a local agency for the benefit of a village
+within the geographic area of a town for the benefit of which there is a
+local agency, the allocation of the village local agency shall be based
+on the population of the geographic area of the village, and the
+allocation of the town local agency shall be based upon the population
+of the geographic area of the town outside of the village.
+Notwithstanding the foregoing, a local agency may surrender all or part
+of its allocation for such calendar year to another local agency with an
+overlapping jurisdiction. Such surrender shall be made at such time and
+in such manner as the commissioner shall prescribe.
+* NB Repealed January 1, 1991
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 282", "kind": "section", "law_id": "JUD", "location_id": "282", "path": "ARTICLE 8 › SECTION 282", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/282.md", "title": "Business hours in offices of clerks of courts of record in New York city"} -->
+# Judiciary Law § 282 — Business hours in offices of clerks of courts of record in New York city
+
+[Judiciary Law](../README.md) › [Article 8 — Clerks](README.md)
+
+```text
+  § 282. Business hours in offices of clerks of courts of record in New
+York city.  1. The offices of clerks of courts of record in the counties
+of New York, Kings, Queens, Richmond and Bronx shall remain open for the
+transaction of business from nine o'clock in the forenoon to four
+o'clock in the afternoon everyday except Saturdays, Sundays and holidays
+and except in the months of July and August when said offices shall
+remain open for the transaction of business from nine o'clock in the
+forenoon to two o'clock in the afternoon except Saturdays, Sundays and
+holidays.
+  2. Whenever the last day on which any paper shall be filed or act done
+or performed in any such office expires on Saturday, Sunday, public
+holiday or a day when such office is closed for the transaction of
+business, the time therefor is hereby extended to and including the next
+business day such office is open for the transaction of business.
+```

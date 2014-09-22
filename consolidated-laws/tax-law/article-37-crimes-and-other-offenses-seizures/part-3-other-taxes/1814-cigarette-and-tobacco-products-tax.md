@@ -1,0 +1,142 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1814", "kind": "section", "law_id": "TAX", "location_id": "1814", "path": "ARTICLE 37 › PART 3 › SECTION 1814", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1814.md", "title": "Cigarette and tobacco products tax"} -->
+# Tax Law § 1814 — Cigarette and tobacco products tax
+
+[Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 3 — Other Taxes](README.md)
+
+```text
+  § 1814. Cigarette and tobacco products tax.--(a) Any person who
+willfully attempts in any manner to evade or defeat the taxes imposed by
+article twenty of this chapter or payment thereof on (i) ten thousand
+cigarettes or more (ii) twenty-two thousand cigars or more, or (iii)
+four hundred forty pounds of tobacco or more or has previously been
+convicted two or more times of a violation of paragraph one of this
+subdivision shall be guilty of a class E felony.
+  (b) Any person, other than an agent licensed by the commissioner, who
+possesses or transports for the purpose of sale any unstamped or
+unlawfully stamped packages of cigarettes subject to tax imposed by
+section four hundred seventy-one of this chapter, or who sells or offers
+for sale unstamped or unlawfully stamped packages of cigarettes in
+violation of the provisions of article twenty of this chapter shall be
+guilty of a misdemeanor. Any person who violates the provisions of this
+subdivision after having previously been convicted of a violation of
+this subdivision within the preceding five years shall be guilty of a
+class E felony.
+  (c) (1) Any person, other than an agent licensed by the commissioner,
+who willfully possesses or transports for the purpose of sale ten
+thousand or more cigarettes subject to the tax imposed by section four
+hundred seventy-one of this chapter in any unstamped or unlawfully
+stamped packages or who willfully sells or offers for sale ten thousand
+or more cigarettes in any unstamped or unlawfully stamped packages in
+violation of article twenty of this chapter shall be guilty of a class E
+felony.
+  (2) Any person, other than an agent licensed by the commissioner, who
+willfully possesses or transports for the purpose of sale thirty
+thousand or more cigarettes subject to the tax imposed by section four
+hundred seventy-one of this chapter in any unstamped or unlawfully
+stamped packages or who willfully sells or offers for sale thirty
+thousand or more cigarettes in any unstamped or unlawfully stamped
+packages in violation of article twenty of this chapter shall be guilty
+of a class D felony.
+  (d) For the purposes of this section, the possession or transportation
+within this state by any person, other than an agent, at any one time of
+five thousand or more cigarettes in unstamped or unlawfully stamped
+packages shall be presumptive evidence that such cigarettes are
+possessed or transported for the purpose of sale and are subject to the
+tax imposed by section four hundred seventy-one of this chapter. With
+respect to such possession or transportation any provisions of article
+twenty of this chapter providing for a time period during which a use
+tax imposed by such article may be paid on unstamped cigarettes or
+unlawfully or improperly stamped cigarettes or during which such
+cigarettes may be returned to an agent shall not apply. The possession
+within this state of more than four hundred cigarettes in unstamped or
+unlawfully stamped packages by any person other than an agent at any one
+time shall be presumptive evidence that such cigarettes are subject to
+tax as provided by article twenty of this chapter.
+  (e) Nothing in this section shall apply to common or contract carriers
+or warehousemen while engaged in lawfully transporting or storing
+unstamped packages of cigarettes as merchandise, or lawfully
+transporting or storing tobacco products, nor to any employee of such
+carrier or warehouseman acting within the scope of his employment, nor
+to public officers or employees in the performance of their official
+duties requiring possession or control of unstamped or unlawfully
+stamped packages of cigarettes or possession or control of tobacco
+products, nor to temporary incidental possession by employees or agents
+of persons lawfully entitled to possession, nor to persons whose
+possession is for the purpose of aiding police officers in performing
+their duties.
+  (f) Any willful act or omission, other than those described in section
+eighteen hundred one of this article or subdivision (a), (b), (c), (d),
+(e), (g), (h) or (i) of this section, by any person which constitutes a
+violation of any provision of article twenty of this chapter shall
+constitute a misdemeanor.
+  (g) Any person who falsely or fraudulently makes, alters or
+counterfeits any stamp prescribed by the tax commission under the
+provisions of article twenty of this chapter, or causes or procures to
+be falsely or fraudulently made, altered or counterfeited any such
+stamp, or knowingly and willfully utters, purchases, passes or tenders
+as true any such false, altered or counterfeited stamp, or knowingly and
+willfully possesses any cigarettes in packages bearing any such false,
+altered or counterfeited stamp, and any person who knowingly and
+willfully makes, causes to be made, purchases or receives any device for
+forging or counterfeiting any stamp, prescribed by the tax commission
+under the provisions of article twenty of this chapter, or who knowingly
+and willfully possesses any such device, shall be guilty of a class E
+felony. For the purposes of this subdivision, the words "stamp
+prescribed by the tax commission" shall include a stamp, impression or
+imprint made by a metering machine, the design of which has been
+approved by such commission.
+  (h) (1) Any dealer, other than a distributor appointed by the
+commissioner of taxation and finance under article twenty of this
+chapter, who shall knowingly transport or have in his custody,
+possession or under his control more than ten pounds of tobacco or more
+than five hundred cigars upon which the taxes imposed by article twenty
+of this chapter have not been assumed or paid by a distributor appointed
+by the commissioner of taxation and finance under article twenty of this
+chapter, or other person treated as a distributor pursuant to section
+four hundred seventy-one-d of this chapter, shall be guilty of a
+misdemeanor punishable by a fine of not more than five thousand dollars
+or by a term of imprisonment not to exceed thirty days.
+  (2) Any person, other than a dealer or a distributor appointed by the
+commissioner under article twenty of this chapter, who shall knowingly
+transport or have in his custody, possession or under his control more
+than fifteen pounds of tobacco or more than seven hundred fifty cigars
+upon which the taxes imposed by article twenty of this chapter have not
+been assumed or paid by a distributor appointed by the commissioner
+under article twenty of this chapter, or other person treated as a
+distributor pursuant to section four hundred seventy-one-d of this
+chapter shall be guilty of a misdemeanor punishable by a fine of not
+more than five thousand dollars or by a term of imprisonment not to
+exceed thirty days.
+  (3) Any person, other than a distributor appointed by the commissioner
+under article twenty of this chapter, who shall knowingly transport or
+have in his custody, possession or under his control twenty-five hundred
+or more cigars or fifty or more pounds of tobacco upon which the taxes
+imposed by article twenty of this chapter have not been assumed or paid
+by a distributor appointed by the commissioner under article twenty of
+this chapter, or other person treated as a distributor pursuant to
+section four hundred seventy-one-d of this chapter shall be guilty of a
+misdemeanor. Provided further, that any person who has twice been
+convicted under this subdivision shall be guilty of a class E felony for
+any subsequent violation of this section, regardless of the amount of
+tobacco products involved in such violation.
+  (4) For purposes of this subdivision, such person shall knowingly
+transport or have in his custody, possession or under his control
+tobacco or cigars on which such taxes have not been assumed or paid by a
+distributor appointed by the commissioner where such person has
+knowledge of the requirement of the tax on tobacco products and, where
+to his knowledge, such taxes have not been assumed or paid on such
+tobacco products by a distributor appointed by the commissioner of
+taxation and finance.
+  (i) Any person who falsely or fraudulently makes, alters or
+counterfeits a registration certificate or sticker required under the
+provisions of section four hundred eighty-a of this chapter, or causes
+or procures to be falsely or fraudulently made, altered or counterfeited
+any such registration certificate or sticker, or knowingly and willfully
+utters, purchases, passes or tenders as true any such false, altered or
+counterfeited registration certificate or sticker, and any person who
+knowingly and willfully makes, causes to be made, purchases or receives
+any device for forging or counterfeiting any registration certificate or
+sticker required under the provisions of such section, or who knowingly
+and willfully possesses any such device, shall be guilty of a class B
+misdemeanor.
+```

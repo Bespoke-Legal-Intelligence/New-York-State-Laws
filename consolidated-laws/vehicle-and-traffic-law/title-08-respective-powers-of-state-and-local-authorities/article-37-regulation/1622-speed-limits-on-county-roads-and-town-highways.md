@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1622", "kind": "section", "law_id": "VAT", "location_id": "1622", "path": "TITLE 8 › ARTICLE 37 › SECTION 1622", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1622.md", "title": "Speed limits on county roads and town highways"} -->
+# Vehicle and Traffic Law § 1622 — Speed limits on county roads and town highways
+
+[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 37 — Regulation of Traffic By Department of Transportation and Other State Authorities](README.md)
+
+```text
+  § 1622. Speed limits on county roads and town highways. The department
+of transportation upon the request of the county superintendent of
+highways of a county and the town board of the town or towns affected
+with respect to county roads and town highways in such town or towns
+outside of cities or villages, may by order, rule or regulation:
+  1. Establish maximum speed limits at which vehicles may proceed on or
+along such highways higher or lower than the fifty-five miles per hour
+statutory maximum speed limit. No such limit shall be established at
+less than twenty-five miles per hour, except that school speed limits
+may be established at not less than fifteen miles per hour, for a
+distance not to exceed one thousand three hundred twenty feet, on a
+highway passing a school building, entrance or exit of a school abutting
+on the highway.
+  2. Establish maximum speed limits at which vehicles may proceed on or
+along all such highways lying within an area or areas as designated by a
+description of the boundaries of such area or areas submitted by the
+county superintendent of highways of a county and the town board of the
+town or towns affected lower than fifty-five miles per hour statutory
+maximum speed limit. No such limit shall be established at less than
+thirty miles per hour.
+```

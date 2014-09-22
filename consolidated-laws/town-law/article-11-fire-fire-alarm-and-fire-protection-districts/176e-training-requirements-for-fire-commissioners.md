@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Town Law § 176-E", "kind": "section", "law_id": "TWN", "location_id": "176-E", "path": "ARTICLE 11 › SECTION 176-E", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/176-E.md", "title": "Training requirements for fire commissioners"} -->
+# Town Law § 176-E — Training requirements for fire commissioners
+
+[Town Law](../README.md) › [Article 11 — Fire, Fire Alarm and Fire Protection Districts](README.md)
+
+```text
+  § 176-e. Training requirements for fire commissioners. Each fire
+commissioner shall attend and successfully complete a
+commissioner-specific state-approved training course within two hundred
+seventy days of the taking of such office. The course will contain
+training related to legal, fiduciary, financial, procurement, and
+ethical responsibilities and such other disciplines as may be prescribed
+by the state comptroller. Such course shall be prescribed and certified
+in rules promulgated by the state comptroller. The manner, frequency,
+and duration of such course shall be established by such rules. Course
+materials should be made available upon request. When approved by the
+board of fire commissioners in advance of a commissioner attending such
+training course, the actual and necessary expenses incurred by a
+commissioner in successfully completing the training required by this
+section shall be a charge against the fire district.
+```

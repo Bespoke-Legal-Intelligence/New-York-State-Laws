@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General City Law § 132", "kind": "section", "law_id": "GCT", "location_id": "132", "path": "ARTICLE 9 › SECTION 132", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/132.md", "title": "Contract to provide for reduction of price"} -->
+# General City Law § 132 — Contract to provide for reduction of price
+
+[General City Law](../README.md) › [Article 9 — Contracts For Supply of Gas](README.md)
+
+```text
+  § 132. Contract to provide for reduction of price. Every such contract
+shall also provide and require that during the term therein specified
+the corporation party thereto may and shall supply gas to the
+inhabitants of such city at prices lower than those now or then charged
+therein by such corporation party thereto and progressively lower for
+each year of such term; any company or corporation bidding for such
+contract shall specify such several prices and reductions of price for
+the several classes and terms of gas supply, and the same shall be
+considered in the award of any such contract to the bidders or bidder
+therefor, and the corporation receiving any such contract shall be
+entitled to charge and collect the prices therein specified during the
+continuance thereof. Nothing in this article contained is intended or
+shall be construed to affect or impair any existing right or contract
+except with the consent of the parties to any such contract.
+```

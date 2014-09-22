@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 98-C", "kind": "section", "law_id": "STF", "location_id": "98-C", "path": "ARTICLE 6 › SECTION 98-C", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/98-C.md", "title": "Legal services assistance fund"} -->
+# State Finance Law § 98-C — Legal services assistance fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 98-c. Legal services assistance fund. 1. There is hereby established
+in the joint custody of the state comptroller and the commissioner of
+the department of taxation and finance a fund to be known as the legal
+services assistance fund.
+  2. Such fund shall consist of all moneys appropriated for the purpose
+of such fund, all other moneys required to be paid into or credited to
+such fund, and all moneys received by such fund or donated to it.
+  3. Moneys of the legal services assistance fund shall be solely
+available, following appropriation by the legislature and in accordance
+with law to assist in the provision of and the reimbursement of expenses
+incurred by local government agencies and not for profit providers or
+their employees relating to providing criminal or civil legal services.
+```

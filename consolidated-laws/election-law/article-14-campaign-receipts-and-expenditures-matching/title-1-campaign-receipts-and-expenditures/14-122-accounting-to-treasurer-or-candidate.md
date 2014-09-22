@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Election Law § 14-122", "kind": "section", "law_id": "ELN", "location_id": "14-122", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-122", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-122.md", "title": "Accounting to treasurer or candidate; vouchers"} -->
+# Election Law § 14-122 — Accounting to treasurer or candidate; vouchers
+
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures; Matching Financing](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+
+```text
+  § 14-122. Accounting to treasurer or candidate; vouchers. 1.  Whoever,
+acting as an officer, member or agent of a political committee, or as an
+agent of a candidate for election to public office, or for nomination
+for public office at a primary election or convention, or for election
+to party position at a primary election, receives any receipt,
+contribution or transfer, or makes any expenditure or incurs any
+liability, shall, within three days after demand and in any event within
+fourteen days after any such receipt, transfer, contribution,
+expenditure, or liability, give to the treasurer of such committee, or
+to such candidate if an agent authorized by him a detailed account of
+the same, with all vouchers required by this article, which shall be a
+part of the accounts and files of such treasurer or such candidate.
+  2. Every payment required to be accounted for, unless the total
+expense payable to any one person be not in excess of ten dollars; shall
+be vouched for by a receipted bill stating the particulars of expense.
+```

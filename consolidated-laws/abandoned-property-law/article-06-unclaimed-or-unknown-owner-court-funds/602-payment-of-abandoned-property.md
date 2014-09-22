@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 602", "kind": "section", "law_id": "ABP", "location_id": "602", "path": "ARTICLE 6 › SECTION 602", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/602.md", "title": "Payment of abandoned property"} -->
+# Abandoned Property Law § 602 — Payment of abandoned property
+
+[Abandoned Property Law](../README.md) › [Article 6 — Unclaimed or Unknown Owner Court Funds](README.md)
+
+```text
+  § 602. Payment of abandoned property. 1. In such succeeding month of
+April, and on or before the tenth day thereof, every county treasurer
+and the commissioner of finance of the city of New York shall pay or
+deliver to the state comptroller all abandoned property specified in
+paragraph (a) of subdivision one of section six hundred, which was so
+abandoned as of the first day of January next preceding.
+  2. Within thirty days after a decree as provided by section two
+thousand two hundred twenty-two of the surrogate's court procedure act,
+the executor, administrator, guardian or testamentary trustee shall pay
+or deliver to the state comptroller all abandoned property specified in
+paragraph (b) of subdivision one of section six hundred.
+  3. In such succeeding month of April, and on or before the tenth day
+thereof, every county treasurer and the commissioner of finance of the
+city of New York shall in each year pay to the state comptroller all
+abandoned property specified in paragraph (c) of section six hundred,
+which was so abandoned as of the first day of January next preceding.
+  4. A payment or delivery of abandoned property required to be made
+pursuant to subdivision one or subdivision three of this section may be
+made without an order.
+```

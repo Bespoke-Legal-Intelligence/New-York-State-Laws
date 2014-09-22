@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 273", "kind": "section", "law_id": "EXC", "location_id": "273", "path": "ARTICLE 14 › SECTION 273", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/273.md", "title": "Vacancies; quorum"} -->
+# Executive Law § 273 — Vacancies; quorum
+
+[Executive Law](../README.md) › [Article 14 — Division of Alcoholic Beverage Control](README.md)
+
+```text
+  § 273. Vacancies; quorum. In the event of a vacancy caused by death,
+resignation, removal or disability of any member, the vacancy shall be
+filled by the governor by and with the advice and consent of the senate
+for the unexpired term. A majority of the members of the authority shall
+constitute a quorum for the purpose of conducting the business thereof
+and a majority vote of all the members in office shall be necessary for
+action.
+```

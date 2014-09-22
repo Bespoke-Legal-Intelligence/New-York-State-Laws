@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 19-0505", "kind": "section", "law_id": "ENV", "location_id": "19-0505", "path": "ARTICLE 19 › TITLE 5 › SECTION 19-0505", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/19-0505.md", "title": "Notice of violation and public hearing"} -->
+# Environmental Conservation Law § 19-0505 — Notice of violation and public hearing
+
+[Environmental Conservation Law](../../README.md) › [Article 19 — Air Pollution Control](../README.md) › [Title 5 — Procedure](README.md)
+
+```text
+§ 19-0505. Notice of violation and public hearing.
+  Whenever it shall appear to the commissioner that there has been a
+violation of any code, rule or regulation of the department promulgated
+pursuant to this article, the commissioner shall cause to have issued
+and served upon the alleged violator a written notice, which shall
+specify the provision of the code, rule or regulation of which such
+person is said to be in violation, a statement of the manner in, and of
+the extent to which, such person is said to violate it, and the order
+which the commissioner proposes to issue, and shall require such person
+to answer the charges of such complaint at a public hearing before the
+commissioner at a time not less than fifteen days after the date of
+notice. The commissioner may modify the proposed order following the
+hearing or upon the consent of the alleged violator. The alleged
+violator may, at any time, waive such right to a public hearing.
+```

@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Education Law § 2030", "kind": "section", "law_id": "EDN", "location_id": "2030", "path": "TITLE 2 › ARTICLE 41 › PART 1 › SECTION 2030", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/2030.md", "title": "Ballot box; voting booth"} -->
+# Education Law § 2030 — Ballot box; voting booth
+
+[Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
+
+```text
+  § 2030. Ballot box; voting booth.  1. The trustee, board of trustees,
+or board of education, shall, at the expense of the district, provide a
+suitable box, or boxes, in which the ballots, folded so as to conceal
+the marking thereon, shall be deposited as they are received.
+  2. In all union free school districts the board of education, shall,
+at the expense of the district, provide a voting booth, or booths, and
+voters shall be required to enter such booth, or booths, for the purpose
+of marking their ballots.
+```

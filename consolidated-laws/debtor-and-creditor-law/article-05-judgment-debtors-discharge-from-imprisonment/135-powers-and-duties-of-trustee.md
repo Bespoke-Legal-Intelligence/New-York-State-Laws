@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 135", "kind": "section", "law_id": "DCD", "location_id": "135", "path": "ARTICLE 5 › SECTION 135", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/135.md", "title": "Powers and duties of trustee"} -->
+# Debtor and Creditor Law § 135 — Powers and duties of trustee
+
+[Debtor and Creditor Law](../README.md) › [Article 5 — Judgment Debtor's Discharge From Imprisonment](README.md)
+
+```text
+  § 135. Powers and duties of trustee. The trustee must collect the
+demands, and sell the other property assigned to him. He must apply the
+proceeds thereof, after deducting his commissions and expenses allowed
+by law, as follows:
+  1. To the payment of the jail fees, upon the imprisonment and
+discharge of the petitioner.
+  2. If any surplus remains, to the payment of the creditors, by virtue
+of whose executions the petitioner was imprisoned, when he presented his
+petition; or, if there is not enough to pay them in full, to the
+payment, to each, of a proportionate part of the sum due upon his
+execution.
+  3. If any surplus remains, he must pay it over to the petitioner, or
+his executor or administrator.
+  Personal service upon a creditor, or his attorney, of written notice
+of the time and place of making a distribution, as prescribed in
+subdivision second of this section, has the same effect as publishing a
+notice thereof, in a case prescribed by law.
+```

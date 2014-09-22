@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 118", "kind": "section", "law_id": "PVH", "location_id": "118", "path": "ARTICLE 5 › SECTION 118", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/118.md", "title": "Fees"} -->
+# Private Housing Finance Law § 118 — Fees
+
+[Private Housing Finance Law](../README.md) › [Article 5 — Redevelopment Companies](README.md)
+
+```text
+  § 118. Fees. The supervising agency, the local legislative body and
+the planning commission, if any, may each adopt a reasonable schedule of
+fees to be paid by redevelopment companies upon the filing with said
+supervising agency, local legislative body or planning commission of a
+plan, plans for a project or projects, amendments thereto and other
+instruments in connection therewith and redevelopment companies shall
+pay reasonable fees to the said supervising agency as said agency shall
+prescribe for processing a redevelopment plan and for the supervision of
+construction and for the audit, regulation and general supervision of
+the management of the company, which fees shall be set aside in a
+separate account and shall be used to pay for the expenses of
+administering and carrying out the provisions of the redevelopment
+companies law.
+```

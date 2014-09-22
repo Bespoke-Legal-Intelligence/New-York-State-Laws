@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 71-1107", "kind": "section", "law_id": "ENV", "location_id": "71-1107", "path": "ARTICLE 71 › TITLE 11 › SECTION 71-1107", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/71-1107.md", "title": "Punishment for violations of title 5 of article 15"} -->
+# Environmental Conservation Law § 71-1107 — Punishment for violations of title 5 of article 15
+
+[Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 11 — Enforcement of Article 15](README.md)
+
+```text
+§ 71-1107. Punishment for violations of title 5 of article 15.
+  1. A violation of section 15-0501, 15-0503 or 15-0505, shall
+constitute a misdemeanor, punishable by a fine of not to exceed ten
+thousand dollars, or by imprisonment not to exceed one year or by both
+such fine and imprisonment and, in addition thereto, by a civil penalty
+of not more than five thousand dollars.
+  2. A subcontractor, employee or agent of such person or public
+corporation, or of a state department who knowingly and intentionally
+acts, or a prime contractor of such person, public corporation or state
+department who acts with or without an intention to violate the
+provisions of title 5 of article 15, in disregard of specifications
+provided in a construction contract protecting against stream damage,
+shall be guilty of a violation punishable by a fine of not less than
+twenty-five dollars, nor more than two hundred fifty dollars, or by
+imprisonment for not more than fifteen days, or by both such fine and
+imprisonment, and, in addition, thereto, by a civil penalty of not more
+than five thousand dollars.
+```

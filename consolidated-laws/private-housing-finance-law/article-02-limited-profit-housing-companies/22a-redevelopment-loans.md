@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 22-A", "kind": "section", "law_id": "PVH", "location_id": "22-A", "path": "ARTICLE 2 › SECTION 22-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/22-A.md", "title": "Redevelopment loans"} -->
+# Private Housing Finance Law § 22-A — Redevelopment loans
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 22-a. Redevelopment loans. Notwithstanding any provision of this
+article to the contrary, where a state-aided project undergoes a
+comprehensive redevelopment plan, the commissioner may approve a loan
+and encumbrance of such project in an amount in excess of actual project
+cost within the meaning of section twenty-one of this article, provided
+that such amount represents cost of capital improvements, redevelopment
+or acquisition by a new owner, any consequent rent increase is not
+unduly burdensome to the tenants, and the company enters into an
+agreement to remain subject to the provisions of this article for a
+period of no less than an additional fifteen years from issuance of the
+loan and encumbrance.
+```

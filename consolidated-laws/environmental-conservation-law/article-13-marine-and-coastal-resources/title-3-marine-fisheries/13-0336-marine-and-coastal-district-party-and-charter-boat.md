@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 13-0336", "kind": "section", "law_id": "ENV", "location_id": "13-0336", "path": "ARTICLE 13 › TITLE 3 › SECTION 13-0336", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/13-0336.md", "title": "Marine and coastal district party and charter boat license"} -->
+# Environmental Conservation Law § 13-0336 — Marine and coastal district party and charter boat license
+
+[Environmental Conservation Law](../../README.md) › [Article 13 — Marine and Coastal Resources](../README.md) › [Title 3 — Marine Fisheries](README.md)
+
+```text
+§ 13-0336. Marine and coastal district party and charter boat license.
+  1. No owner or operator of a party boat or charter boat shall carry
+recreational fishing passengers in the marine and coastal district or
+land fish taken outside the territorial waters of the state without
+holding a party or charter boat license issued by the department for an
+annual fee of two hundred fifty dollars and a recreational marine
+fishing registration issued by the department. Such license and
+registration shall be issued only to persons domiciled in the state or
+in a state which affords reciprocal fishing privileges to persons
+domiciled in New York. Such license and registration shall be available
+on the vessel at all times. For purposes of this subdivision, party
+boats and charter boats are vessels used to carry passengers for hire
+wherein a fee is charged, either directly or indirectly, for the purpose
+of taking or attempting to take marine fish for recreational purposes.
+  2. Party and charter boat licenses shall expire on December
+thirty-first of each year.
+```

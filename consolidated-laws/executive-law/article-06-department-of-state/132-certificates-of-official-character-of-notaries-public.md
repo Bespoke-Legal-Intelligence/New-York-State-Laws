@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 132", "kind": "section", "law_id": "EXC", "location_id": "132", "path": "ARTICLE 6 › SECTION 132", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/132.md", "title": "Certificates of official character of notaries public"} -->
+# Executive Law § 132 — Certificates of official character of notaries public
+
+[Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+```text
+  § 132. Certificates of official character of notaries public. The
+secretary of state or the county clerk of the county in which the
+commission of a notary public is filed may certify to the official
+character of such notary public and any notary public may file his
+autograph signature and a certificate of official character in the
+office of any county clerk of any county in the state and in any
+register's office in any county having a register and thereafter such
+county clerk may certify as to the official character of such notary
+public. The secretary of state shall collect for each certificate of
+official character issued by him the sum of one dollar. The county clerk
+and register of any county with whom a certificate of official character
+has been filed shall collect for filing the same the sum of one dollar.
+For each certificate of official character issued, with seal attached,
+by any county clerk, the sum of one dollar shall be collected by him.
+```

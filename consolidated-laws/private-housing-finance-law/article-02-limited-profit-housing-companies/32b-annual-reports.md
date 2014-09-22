@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 32-B", "kind": "section", "law_id": "PVH", "location_id": "32-B", "path": "ARTICLE 2 › SECTION 32-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/32-B.md", "title": "Annual reports"} -->
+# Private Housing Finance Law § 32-B — Annual reports
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 32-b. Annual reports. The commissioner shall, on or before the first
+day of July in each year, submit a report to the legislature on the
+implementation of article two of this chapter by the commissioner and
+the supervising agency and the policy included therein. Such report
+shall include and not be limited to rent and carrying charge levels,
+changes therein, operation of the state capital grant program and
+federal subsidy programs, tax abatement levels, total capital outlay,
+amortization, mortgage interest rates, income levels served by the
+housing, surcharge billings and collections and use of surcharge
+revenues, and vacancy rates. For the purpose of preparing such report,
+the commissioner may request, and shall receive, from any municipality
+or supervising agency such data as he deems necessary or desirable and
+such municipality or supervising agency shall furnish the requested data
+within sixty days of such request.
+```

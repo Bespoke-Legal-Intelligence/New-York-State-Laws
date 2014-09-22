@@ -1,0 +1,68 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A9-A", "path": "ARTICLE 9-A", "source": "nys-laws:TAX/A9-A.md", "title": "Franchise Tax On Business Corporations"} -->
+# Article 9-A — Franchise Tax On Business Corporations
+
+[Tax Law](../README.md)
+
+## Contents
+
+- [§ 208 Definitions](208-definitions.md)
+- [§ 209 Imposition of tax; exemptions](209-imposition-of-tax-exemptions.md)
+- [§ 209-A Tax surcharge](209a-tax-surcharge.md)
+- [§ 209-B Temporary metropolitan transportation business tax surcharge](209b-temporary-metropolitan-transportation-business-tax-surcharge.md)
+- [§ 209-C Gift for fish and wildlife management](209c-gift-for-fish-and-wildlife-management.md)
+- [§ 209-D Gift for breast cancer research and education](209d-gift-for-breast-cancer-research-and-education.md)
+- [§ 209-E Gift for prostate and testicular cancer research and education](209e-gift-for-prostate-and-testicular-cancer-research-and-education.md)
+- [§ 209-F Gift for the World Trade Center memorial foundation](209f-gift-for-the-world-trade-center-memorial-foundation.md)
+- [§ 209-G Gift for volunteer firefighter and volunteer emergency services workers recruitment and retention](209g-gift-for-volunteer-firefighter-and-volunteer-emergency-services-workers.md)
+- [§ 209-H Gift for honor and remembrance of veterans](209h-gift-for-honor-and-remembrance-of-veterans.md)
+- [§ 210 Computation of tax](210-computation-of-tax.md)
+- [§ 210-A Apportionment](210a-apportionment.md)
+- [§ 210-B Credits](210b-credits.md)
+- [§ 210-C Combined reports](210c-combined-reports.md)
+- [§ 211 Reports](211-reports.md)
+- [§ 213 Payment and lien of tax](213-payment-and-lien-of-tax.md)
+- [§ 213-A Declaration of estimated tax](213a-declaration-of-estimated-tax.md)
+- [§ 213-B Payments on account of estimated tax](213b-payments-on-account-of-estimated-tax.md)
+- [§ 216 Collection of taxes](216-collection-of-taxes.md)
+- [§ 217 Penalties](217-penalties.md)
+- [§ 218 Deposit and disposition of revenue](218-deposit-and-disposition-of-revenue.md)
+- [§ 219 Limitation of time](219-limitation-of-time.md)
+- [§ 219-A Practice and procedure for taxable years ending on or after December thirty-first, nineteen hundred sixty-four](219a-practice-and-procedure-for-taxable-years-ending-on-or-after-december-thirty.md)
+
+<details>
+<summary>Official heading of Article 9-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                               ARTICLE 9-A
+                 FRANCHISE TAX ON BUSINESS CORPORATIONS
+Section 208.   Definitions.
+        209.   Imposition of tax; exemptions.
+        209-A. Tax surcharge.
+        209-B. Temporary metropolitan transportation business tax
+                 surcharge.
+        209-C. Gift for fish and wildlife management.
+        209-D. Gift for breast cancer research and education.
+        209-E. Gift for prostate and testicular cancer research and
+                 education.
+        209-F. Gift for the World Trade Center memorial foundation.
+        209-G. Gift for volunteer firefighter and volunteer emergency
+                 services workers recruitment and retention.
+        209-H. Gift for honor and remembrance of veterans.
+        210.   Computation of tax.
+        210-A. Apportionment.
+        210-B. Credits.
+        210-C. Combined reports.
+        211.   Reports.
+        213.   Payment and lien of tax.
+        213-a. Declaration of estimated tax.
+        213-b. Payments on account of estimated tax.
+        216.   Collection of taxes.
+        217.   Penalties.
+        218.   Deposit and disposition of revenue.
+        219.   Limitation of time.
+        219-a. Practice and procedure for taxable years ending on or
+                 after December thirty-first, nineteen hundred
+                 sixty-four.
+```
+
+</details>

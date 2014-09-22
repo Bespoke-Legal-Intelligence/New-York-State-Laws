@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 884", "kind": "section", "law_id": "LAB", "location_id": "884", "path": "ARTICLE 29 › SECTION 884", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/884.md", "title": "Legislative findings and intent"} -->
+# Labor Law § 884 — Legislative findings and intent
+
+[Labor Law](../README.md) › [Article 29 — Training and Education Program On Occupational Safety and Health](README.md)
+
+```text
+  § 884. Legislative findings and intent. The workers of New York state,
+both public and private, pursuant to state and federal laws, have the
+right to a safe and healthy workplace, including, pursuant to the
+provisions of article twenty-eight of this chapter, the right to
+training and education about the toxic substances in their workplace.
+  It is the public policy of this state to promote safe and healthy
+conditions in the workplace. Further, it is the public policy of this
+state to encourage voluntary compliance with safety and health
+regulations and the prevention of illness and injury through training
+and education programs.
+  Therefore, it is the intent of this legislature to achieve the full
+benefits of such preventive measures by creating a training and
+educational program on occupational safety and health, which will
+operate through a program of grants to employers (public or private),
+labor organizations or their federations, trade associations, nonprofit
+organizations and educational institutions, for conducting training,
+education, and other proven preventive programs. Furthermore, it is the
+legislature's intention to foster voluntary preventive activities on the
+part of employers and employees by the utilization of the training and
+education program on occupational safety and health.
+```

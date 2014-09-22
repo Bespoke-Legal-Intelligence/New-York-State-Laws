@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 112", "kind": "section", "law_id": "IND", "location_id": "112", "path": "ARTICLE 8 › SECTION 112", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/112.md", "title": "Canvass of votes"} -->
+# Indian Law § 112 — Canvass of votes
+
+[Indian Law](../README.md) › [Article 8 — The Saint Regis Tribe](README.md)
+
+```text
+  § 112. Canvass of votes.  Upon the closing of the polls at such
+election, such county attorney or sheriff and such council members not
+then candidates for election shall count the votes cast thereat and
+publicly declare the result of such election, specifying the number of
+votes cast for each person at such election, and the names of the
+persons elected.  The clerk shall enter on the tribal book the names of
+each person voted for at such election, the number of votes cast for
+each such person, the names of the persons elected to office and the
+terms for which they are to serve.
+```

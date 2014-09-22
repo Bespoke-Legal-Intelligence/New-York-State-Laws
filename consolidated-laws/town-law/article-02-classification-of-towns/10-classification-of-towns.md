@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Town Law § 10", "kind": "section", "law_id": "TWN", "location_id": "10", "path": "ARTICLE 2 › SECTION 10", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/10.md", "title": "Classification of towns"} -->
+# Town Law § 10 — Classification of towns
+
+[Town Law](../README.md) › [Article 2 — Classification of Towns](README.md)
+
+```text
+  § 10. Classification of towns. Towns are divided into classes
+according to population, as shown by the latest federal or state census
+or enumeration, as follows:
+  First class. Towns containing a population of ten thousand or more,
+excepting towns in Broome and Suffolk counties, and excepting also the
+town of Potsdam in St. Lawrence county and the town of Ulster in Ulster
+county, and such other towns as may determine to become towns of the
+first class pursuant to the provisions of this article. Every town in
+the county of Westchester shall be a town of the first class.
+  Second class. Towns containing a population of less than ten thousand,
+excepting towns in Westchester county and such towns as shall have
+determined to become towns of the first class pursuant to the provisions
+of this article. Every town in the counties of Suffolk and Broome and
+the town of Potsdam in the county of St. Lawrence and the town of Ulster
+in Ulster county shall be a town of the second class.
+```

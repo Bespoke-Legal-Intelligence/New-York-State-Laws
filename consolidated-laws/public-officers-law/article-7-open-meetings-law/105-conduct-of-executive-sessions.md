@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Public Officers Law § 105", "kind": "section", "law_id": "PBO", "location_id": "105", "path": "ARTICLE 7 › SECTION 105", "repealed": false, "repealed_date": null, "source": "nys-laws:PBO/105.md", "title": "Conduct of executive sessions"} -->
+# Public Officers Law § 105 — Conduct of executive sessions
+
+[Public Officers Law](../README.md) › [Article 7 — Open Meetings Law](README.md)
+
+```text
+  § 105. Conduct of executive sessions. 1. Upon a majority vote of its
+total membership, taken in an open meeting pursuant to a motion
+identifying the general area or areas of the subject or subjects to be
+considered, a public body may conduct an executive session for the below
+enumerated purposes only, provided, however, that no action by formal
+vote shall be taken to appropriate public moneys:
+  a. matters which will imperil the public safety if disclosed;
+  b. any matter which may disclose the identity of a law enforcement
+agent or informer;
+  c. information relating to current or future investigation or
+prosecution of a criminal offense which would imperil effective law
+enforcement if disclosed;
+  d. discussions regarding proposed, pending or current litigation;
+  e. collective negotiations pursuant to article fourteen of the civil
+service law;
+  f. the medical, financial, credit or employment history of a
+particular person or corporation, or matters leading to the appointment,
+employment, promotion, demotion, discipline, suspension, dismissal or
+removal of a particular person or corporation;
+  g. the preparation, grading or administration of examinations; and
+  h. the proposed acquisition, sale or lease of real property or the
+proposed acquisition of securities, or sale or exchange of securities
+held by such public body, but only when publicity would substantially
+affect the value thereof.
+  2. Attendance at an executive session shall be permitted to any member
+of the public body and any other persons authorized by the public body.
+```

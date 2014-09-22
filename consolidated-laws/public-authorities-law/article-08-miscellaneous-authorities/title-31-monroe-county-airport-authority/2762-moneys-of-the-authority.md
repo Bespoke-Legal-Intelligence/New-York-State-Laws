@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2762", "kind": "section", "law_id": "PBA", "location_id": "2762", "path": "ARTICLE 8 › TITLE 31 › SECTION 2762", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2762.md", "title": "Moneys of the authority"} -->
+# Public Authorities Law § 2762 — Moneys of the authority
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 31 — Monroe County Airport Authority](README.md)
+
+```text
+  § 2762. Moneys of the authority. All moneys of the authority from
+whatever source derived shall be paid to the treasurer of the authority
+and shall be deposited forthwith in a bank or banks designated by the
+authority. The moneys in such accounts shall be paid out on check of the
+treasurer upon requisition by such person or persons as the authority
+may authorize to make such requisitions. All deposits of such moneys
+shall be secured by obligations of the United States or of the state or
+of any municipality of a market value equal at all times to the amount
+on deposit and all banks and trust companies are authorized to give such
+security for such deposits. To the extent practicable, consistent with
+the cash requirements of the authority, all such moneys shall be
+deposited in interest bearing accounts. The authority shall have power,
+notwithstanding the provisions of this section, to contract with the
+holders of any bonds as to the custody, collection, security, investment
+and payment of any moneys of the authority or any moneys held in trust
+or otherwise for the payment of bonds or in any way to secure bonds, and
+carry out any such contract notwithstanding that such contract may be
+inconsistent with the provisions of this section.  Moneys held in trust
+or otherwise for the payment of bonds or in any way to secure bonds and
+deposits of such moneys may be secured in the same manner as moneys of
+the authority and all banks and trust companies are authorized to give
+such security for such deposits. Any moneys of the authority not
+required for immediate use or disbursement may, at the discretion of the
+authority, be invested in those obligations specified pursuant to the
+provisions of section ninety-eight-a of the state finance law. Subject
+to the provisions of any contract with bondholders and with the approval
+of the comptroller, the authority shall prescribe a system of accounts.
+```

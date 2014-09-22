@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6901", "kind": "section", "law_id": "EDN", "location_id": "6901", "path": "TITLE 8 › ARTICLE 139 › SECTION 6901", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6901.md", "title": "Definitions"} -->
+# Education Law § 6901 — Definitions
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 139 — Nursing](README.md)
+
+```text
+  § 6901. Definitions.  As used in section sixty-nine hundred two:
+  1. "Diagnosing" in the context of nursing practice means that
+identification of and discrimination between physical and psychosocial
+signs and symptoms essential to effective execution and management of
+the nursing regimen.  Such diagnostic privilege is distinct from a
+medical diagnosis.
+  2. "Treating" means selection and performance of those therapeutic
+measures essential to the effective execution and management of the
+nursing regimen, and execution of any prescribed medical regimen.
+  3. "Human Responses" means those signs, symptoms and processes which
+denote the individual's interaction with an actual or potential health
+problem.
+```

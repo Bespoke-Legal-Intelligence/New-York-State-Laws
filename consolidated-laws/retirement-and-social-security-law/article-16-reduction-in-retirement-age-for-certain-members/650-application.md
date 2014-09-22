@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 650", "kind": "section", "law_id": "RSS", "location_id": "650", "path": "ARTICLE 16 › SECTION 650", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/650.md", "title": "Application"} -->
+# Retirement and Social Security Law § 650 — Application
+
+[Retirement and Social Security Law](../README.md) › [Article 16 — Reduction In Retirement Age For Certain Members](README.md)
+
+```text
+  § 650. Application. This article shall apply to a member of the New
+York city employees' retirement system (i) who holds the position of
+bridge and tunnel officer, sergeant or lieutenant with the Triborough
+bridge and tunnel authority, and has received or receives an appointment
+to at least one such position from a competitive civil service list; or
+(ii) who holds the position of assistant bridge and tunnel maintainer,
+bridge and tunnel maintainer, senior bridge and tunnel maintainer or
+laborer with the Triborough bridge and tunnel authority, provided,
+however, that this article shall not apply to a New York city revised
+plan member (as defined in subdivision m of section six hundred one of
+this chapter).
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 15-B", "kind": "section", "law_id": "COR", "location_id": "15-B", "path": "ARTICLE 2 › SECTION 15-B", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/15-B.md", "title": "Education"} -->
+# Correction Law § 15-B — Education
+
+[Correction Law](../README.md) › [Article 2 — Department of Corrections and Community Supervision](README.md)
+
+```text
+  § 15-b. Education. The present director of vocational education shall
+be the director of education with the powers and duties of the director
+of education and hereafter shall be appointed by the commissioner. The
+director of education, at any time appointed, shall be a person whose
+education, training and experience shall cover fields of penology and of
+professional education. The educational qualifications shall include the
+satisfactory completion of three years of graduate work in education,
+penology, and allied fields. The head of the division of education shall
+have the direct supervision of all educational work in the department of
+corrections and community supervision and shall have full authority to
+visit and inspect all institutions of the department to observe, study,
+organize, and develop the educational activities of such institutions in
+harmony with the general educational program of the department. He or
+she shall be responsible to the commissioner and deputy commissioner
+designated by the commissioner.
+```

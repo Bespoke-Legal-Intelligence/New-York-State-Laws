@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1123", "kind": "section", "law_id": "TAX", "location_id": "1123", "path": "ARTICLE 28 › PART 3 › SECTION 1123", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1123.md", "title": "Exemption from tax on the charge of a roof garden, cabaret or other similar place"} -->
+# Tax Law § 1123 — Exemption from tax on the charge of a roof garden, cabaret or other similar place
+
+[Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 3 — Exemptions](README.md)
+
+```text
+  § 1123. Exemption from tax on the charge of a roof garden, cabaret or
+other similar place. The portion of the amount paid as the charge of a
+roof garden, cabaret or other similar place in the state for admission
+to attend a dramatic or musical arts performance at the place shall be
+exempt from the tax imposed by paragraph three of subdivision (f) of
+section eleven hundred five of this article but only if:
+  (a) the recipient states the charge for such admission separately from
+all other portions of such amount;
+  (b) either (i) the separately stated charges for food, drink, service
+and merchandise are not less on a day when such place offers such a
+performance as on a day when such place does not offer such performance
+or (ii) if such place is open for business only when it offers such a
+performance, it separately states its charges for food, drink, service
+and merchandise and such separately stated charges are comparable to
+charges for comparable food, drink, service and merchandise at other
+such places and restaurants and taverns in the United States census
+bureau metropolitan statistical area in which such place is located or
+in an immediately adjacent metropolitan statistical area or in a
+comparable area if such place is not located in a metropolitan
+statistical area; and
+  (c) such place retains and makes available to the commissioner menus
+and any other statements of its charges, showing all of its charges for
+food, drink, service, merchandise and admission, as part of the records
+required to be kept under section eleven hundred thirty-five of this
+article.
+```

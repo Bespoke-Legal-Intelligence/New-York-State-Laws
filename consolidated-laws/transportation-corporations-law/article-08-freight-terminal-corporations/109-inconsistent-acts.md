@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Transportation Corporations Law § 109", "kind": "section", "law_id": "TCP", "location_id": "109", "path": "ARTICLE 8 › SECTION 109", "repealed": false, "repealed_date": null, "source": "nys-laws:TCP/109.md", "title": "Inconsistent acts"} -->
+# Transportation Corporations Law § 109 — Inconsistent acts
+
+[Transportation Corporations Law](../README.md) › [Article 8 — Freight Terminal Corporations](README.md)
+
+```text
+  § 109. Inconsistent acts. The provisions of any act and parts of acts,
+including the charter of Greater New York and the charter of any other
+city of the state, which are inconsistent with this article, and insofar
+only as they are inconsistent with this article, shall have no
+application to the rights, powers and obligations conferred or created
+by and under authority of this article or to any proceedings thereunder.
+  Nothing in this article shall be construed to prevent the organization
+of a corporation under the provisions of article four of the business
+corporation law for the purpose of owning, controlling or operating
+warehouses, docks, wharves or water craft, but no corporation formed for
+any such purpose under the provisions of the business corporation law
+shall have the right or power to acquire real property by condemnation.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 25", "kind": "section", "law_id": "RCO", "location_id": "25", "path": "ARTICLE 2 › SECTION 25", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/25.md", "title": "Pastoral relation"} -->
+# Religious Corporations Law § 25 — Pastoral relation
+
+[Religious Corporations Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 25. Pastoral relation. No provision of this chapter authorizes the
+calling, settlement, dismissal or removal of a minister, or the fixing
+or changing of his salary, and a meeting of a church corporation for any
+such purpose shall be called, held, moderated, conducted, governed and
+notice of such meeting given and person to preside thereat ascertained
+and the qualification of voters thereat determined, not as required by
+any provision of this chapter but only according to the aforesaid laws
+and regulations, practice, discipline, rules and usages of the religious
+denomination or ecclesiastical governing body, if any, with which the
+church corporation is connected.
+```

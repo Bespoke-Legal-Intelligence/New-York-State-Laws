@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 44-0101", "kind": "section", "law_id": "ENV", "location_id": "44-0101", "path": "ARTICLE 44 › SECTION 44-0101", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/44-0101.md", "title": "Legislative intent"} -->
+# Environmental Conservation Law § 44-0101 — Legislative intent
+
+[Environmental Conservation Law](../README.md) › [Article 44 — Hudson River Valley Greenway](README.md)
+
+```text
+§ 44-0101. Legislative intent.
+  The Hudson river valley region possesses unique scenic beauty, natural
+and cultural resources of state and national significance. Efforts
+including the creation of a state management program for the Hudson
+estuarine district and fishery, establishment of the heritage task force
+for the Hudson river valley, establishment of five state designated
+urban cultural parks in the valley and the preparation of numerous local
+government waterfront revitalization programs in the valley have been
+undertaken in recent years to protect and enhance the special places of
+scenic, cultural and ecological importance. It is the intention of the
+legislature that these efforts be continued and strengthened under the
+cooperative program of the Hudson river valley greenway in order to
+continue and advance the state's commitment to the preservation,
+enhancement and development of the world-renowned scenic, natural,
+historic, cultural and recreational resources of the Hudson river valley
+while continuing to emphasize economic development activities and
+remaining consistent with the tradition of municipal home rule.
+```

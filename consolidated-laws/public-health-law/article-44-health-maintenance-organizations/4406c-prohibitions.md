@@ -1,0 +1,151 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4406-C", "kind": "section", "law_id": "PBH", "location_id": "4406-C", "path": "ARTICLE 44 › SECTION 4406-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4406-C.md", "title": "Prohibitions"} -->
+# Public Health Law § 4406-C — Prohibitions
+
+[Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
+
+```text
+  § 4406-c. Prohibitions. 1. For purposes of this section, "health care
+plan" shall mean a health maintenance organization licensed pursuant to
+article forty-three of the insurance law or certified pursuant to this
+article or an independent practice association certified or recognized
+pursuant to this article or a medical group.
+  2. No health care plan shall by contract or written policy or written
+procedure prohibit or restrict any health care provider from disclosing
+to any subscriber, enrollee, patient, designated representative or,
+where appropriate, prospective enrollee, (hereinafter collectively
+referred to as enrollee) any information that such provider deems
+appropriate regarding:
+  (a) a condition or a course of treatment with an enrollee including
+the availability of other therapies, consultations, or tests; or
+  (b) the provisions, terms, or requirements of the health care plan's
+products as they relate to the enrollee, where applicable.
+  3. No health care plan shall by contract, written policy or written
+procedure prohibit or restrict any health care provider from filing a
+complaint, making a report or commenting to an appropriate governmental
+body regarding the policies or practices of such health care plan which
+the provider believes may negatively impact upon the quality of, or
+access to, patient care.
+  4. No health care plan shall by contract, written policy or written
+procedure prohibit or restrict any health care provider from advocating
+to the health care plan on behalf of the enrollee for approval or
+coverage of a particular course of treatment or for the provision of
+health care services.
+  5. No contract or agreement between a health care plan and a health
+care provider shall contain any clause purporting to transfer to the
+health care provider, other than a medical group, by indemnification or
+otherwise any liability relating to activities, actions or omissions of
+the health care plan as opposed to those of the health care provider.
+  5-a. Contracts entered into between a plan and a health care provider
+shall include terms which prescribe:
+  (a) the method by which payments to a provider, including any
+prospective or retrospective adjustments thereto, shall be calculated;
+  (b) the time periods within which such calculations will be completed,
+the dates upon which any such payments and adjustments shall be
+determined to be due, and the dates upon which any such payments and
+adjustments will be made;
+  (c) a description of the records or information relied upon to
+calculate any such payments and adjustments, and a description of how
+the provider can access a summary of such calculations and adjustments;
+  (d) the process to be employed to resolved disputed incorrect or
+incomplete records or information and to adjust any such payments and
+adjustments which have been calculated by relying on any such incorrect
+or incomplete records or information and to adjust any such payments and
+adjustments which have been calculated by relying on any such incorrect
+or incomplete records or information so disputed; provided, however,
+that nothing herein shall be deemed to authorize or require the
+disclosure of personally identifiable patient information or information
+related to other individual health care providers or the plan's
+proprietary data collection systems, software or quality assurance or
+utilization review methodologies; and
+  (e) the right of either party to the contract to seek resolution of a
+dispute arising pursuant to the payment terms of such contract through a
+proceeding under article seventy-five of the civil practice law and
+rules.
+  5-b. No contract entered into with health care providers shall be
+enforceable if it includes terms which transfer financial risk to
+providers, in a manner inconsistent with the provisions of paragraph (c)
+of subdivision one of section forty-four hundred three of this article,
+or penalize providers for unfavorable case mix so as to jeopardize the
+quality of or enrollees' appropriate access to medically necessary
+services; provided, however, that payment at less than prevailing fee
+for service rates or capitation shall not be deemed or presumed prima
+facie to jeopardize quality or access.
+  5-c. (a) No health care plan shall implement an adverse reimbursement
+change to a contract with a health care professional that is otherwise
+permitted by the contract, unless, prior to the effective date of the
+change, the health care plan gives the health care professional with
+whom the health care plan has directly contracted and who is impacted by
+the adverse reimbursement change, at least ninety days written notice of
+the change. If the contracting health care professional objects to the
+change that is the subject of the notice by the health care plan, the
+health care professional may, within thirty days of the date of the
+notice, give written notice to the health care plan to terminate his or
+her contract with the health care plan effective upon the implementation
+date of the adverse reimbursement change. For the purposes of this
+subdivision, the term "adverse reimbursement change" shall mean a
+proposed change that could reasonably be expected to have a material
+adverse impact on the aggregate level of payment to a health care
+professional, and the term "health care professional" shall mean a
+health care professional licensed, registered or certified pursuant to
+title eight of the education law. The notice provisions required by this
+subdivision shall not apply where: (i) such change is otherwise required
+by law, regulation or applicable regulatory authority, or is required as
+a result of changes in fee schedules, reimbursement methodology or
+payment policies established by a government agency or by the American
+Medical Association's current procedural terminology (CPT) codes,
+reporting guidelines and conventions; or (ii) such change is expressly
+provided for under the terms of the contract by the inclusion of or
+reference to a specific fee or fee schedule, reimbursement methodology
+or payment policy indexing mechanism.
+  (b) Nothing in this subdivision shall create a private right of action
+on behalf of a health care professional against a health care plan for
+violations of this subdivision.
+  * 5-d. If a contract between a plan and a hospital is not renewed or
+is terminated by either party, the parties shall continue to abide by
+the terms of such contract, including reimbursement terms, for a period
+of two months from the effective date of termination or, in the case of
+a non-renewal, from the end of the contract period. Notice shall be
+provided to all enrollees potentially affected by such termination or
+non-renewal within fifteen days after commencement of the two-month
+period. The commissioner shall have the authority to waive the two-month
+period upon the request of either party to a contract that is being
+terminated for cause. This subdivision shall not apply where both
+parties mutually agree in writing to the termination or non-renewal and
+the plan provides notice to the enrollee at least thirty days in advance
+of the date of contract termination.
+  * NB Repealed June 30, 2015
+  6. No health care plan which provides coverage for prescription drugs
+shall require, or enter into a contract which permits, a copayment which
+exceeds the usual and customary cost of such prescribed drug.
+  * 7. No health maintenance organization which provides coverage for
+prescription drugs and for which cost-sharing, deductibles or
+co-insurance obligations are determined by category of prescription
+drugs shall impose cost-sharing, deductibles or co-insurance obligations
+for any prescription drug that exceeds the dollar amount of
+cost-sharing, deductibles or co-insurance obligations for non-preferred
+brand drugs or its equivalent (or brand drugs if there is no
+non-preferred brand drug category).
+  * NB There are 2 sub 7's
+  * 7. Any contract provision, written policy or written procedure in
+violation of this section shall be deemed to be void and unenforceable.
+  * NB There are 2 sub 7's
+  8. (a) A health care plan shall not deny payment to a general hospital
+certified pursuant to article twenty-eight of this chapter for a claim
+for medically necessary inpatient services resulting from an emergency
+admission provided by a general hospital solely on the basis that the
+general hospital did not timely notify such health care plan that the
+services had been provided.
+  (b) Nothing in this subdivision shall preclude a general hospital and
+a health care plan from agreeing to requirements for timely notification
+that medically necessary inpatient services resulting from an emergency
+admission have been provided and to reductions in payment for failure to
+timely notify; provided, however that: (i) any requirement for timely
+notification must provide for a reasonable extension of timeframes for
+notification for emergency services provided on weekends or federal
+holidays, (ii) any agreed to reduction in payment for failure to timely
+notify shall not exceed the lesser of two thousand dollars or twelve
+percent of the payment amount otherwise due for the service provided,
+and (iii) any agreed to reduction in payment shall not be imposed if the
+patient's coverage could not be determined by the hospital after
+reasonable efforts at the time the inpatient services were provided.
+```

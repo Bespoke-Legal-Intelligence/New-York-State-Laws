@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1074", "kind": "section", "law_id": "RPA", "location_id": "1074", "path": "ARTICLE 10 › SECTION 1074", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1074.md", "title": "Direction that a part be laid off"} -->
+# Real Property Actions and Proceedings Law § 1074 — Direction that a part be laid off
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 10 — Action For Dower](README.md)
+
+```text
+  § 1074. Direction that a part be laid off. In a case specified in
+section 1071, where the property, or a part thereof, consists of one or
+more vacant or unimproved lots, the plaintiff's consent may contain a
+stipulation to take a distinct parcel, out of those lots, in lieu of a
+gross sum. In that case, the interlocutory judgment, instead of
+directing a sale, may direct if it appears to be just so to do, that
+commissioners be appointed to admeasure and lay off to the plaintiff a
+distinct parcel, out of the vacant or unimproved lots; and, if there is
+any other property, that it be sold, and a gross sum be paid to her out
+of the proceeds thereof, as prescribed in sections 1075, 1076, 1077 and
+1078. The plaintiff's title to each distinct parcel, admeasured and laid
+off to her, as prescribed in this section, is that of an estate of
+inheritance in fee simple. In admeasuring and laying off the same, the
+commissioners must consider quantity and quality relatively, according
+to the value of the plaintiff's right of dower in the vacant or
+unimproved lots, out of which the admeasurement is to be made; which
+must be ascertained, in proportion to the value of those lots, as
+prescribed in sections 1075, 1076, 1077 and 1078, for fixing a gross sum
+to be paid to her out of the proceeds of a sale.
+```

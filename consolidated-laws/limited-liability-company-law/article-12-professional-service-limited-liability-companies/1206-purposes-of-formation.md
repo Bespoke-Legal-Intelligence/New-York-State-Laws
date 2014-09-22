@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 1206", "kind": "section", "law_id": "LLC", "location_id": "1206", "path": "ARTICLE 12 › SECTION 1206", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/1206.md", "title": "Purposes of formation"} -->
+# Limited Liability Company Law § 1206 — Purposes of formation
+
+[Limited Liability Company Law](../README.md) › [Article 12 — Professional Service Limited Liability Companies](README.md)
+
+```text
+  § 1206. Purposes of formation. No professional service limited
+liability company shall engage in any profession or professions other
+than those set forth in its articles of organization. A professional
+service limited liability company may only engage in a profession or
+professions as to which one or more of its members is authorized by law
+to render professional services in this state. In addition to engaging
+in such profession or professions, a professional service limited
+liability company may carry on, or conduct or transact any other
+business or other activities as to which a limited liability company may
+be formed under section two hundred one of this chapter. Notwithstanding
+any other provision of this section, and subject to the next succeeding
+sentence of this section, a professional service limited liability
+company (i) authorized to practice law may only engage in another
+profession or other business or activities or (ii) which is engaged in a
+profession or other business or activities other than law may only
+engage in the practice of law, to the extent not prohibited by any other
+law of this state or any rule adopted by the appropriate appellate
+division of the supreme court or the court of appeals. Any professional
+service limited liability company may invest its funds in real estate,
+mortgages, stocks, bonds or any other type of investments.
+```

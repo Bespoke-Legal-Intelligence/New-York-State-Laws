@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-220", "kind": "section", "law_id": "UCC", "location_id": "2-A-220", "path": "ARTICLE 2-A › PART 2 › SECTION 2-A-220", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-220.md", "title": "Effect of Default on Risk of Loss"} -->
+# Uniform Commercial Code § 2-A-220 — Effect of Default on Risk of Loss
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 2 — Formation and Construction of Lease Contract](README.md)
+
+```text
+Section 2-A-220. Effect of Default on Risk of Loss.
+  (1) Where risk of loss is to pass to the lessee and the time of
+passage is not stated:
+       (a) if a tender or delivery of goods so fails to conform to the
+           lease contract as to give a right of rejection, the risk of
+           their loss remains with the lessor, or, in the case of a
+           finance lease, the supplier, until cure or acceptance.
+       (b) if the lessee rightfully revokes acceptance, he or she, to
+           the extent of any deficiency in his or her effective
+           insurance coverage, may treat the risk of loss as having
+           remained with the lessor from the beginning.
+  (2) Whether or not risk of loss is to pass to the lessee, if the
+lessee as to conforming goods already identified to a lease contract
+repudiates or is otherwise in default under the lease contract, the
+lessor, or, in the case of a finance lease, the supplier, to the extent
+of any deficiency in his or her effective insurance coverage may treat
+the risk of loss as resting on the lessee for a commercially reasonable
+time.
+```

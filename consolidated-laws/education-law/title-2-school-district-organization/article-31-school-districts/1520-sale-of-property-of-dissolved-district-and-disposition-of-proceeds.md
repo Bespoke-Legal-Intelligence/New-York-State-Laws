@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1520", "kind": "section", "law_id": "EDN", "location_id": "1520", "path": "TITLE 2 › ARTICLE 31 › SECTION 1520", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1520.md", "title": "Sale of property of dissolved district and disposition of proceeds"} -->
+# Education Law § 1520 — Sale of property of dissolved district and disposition of proceeds
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 31 — School Districts](README.md)
+
+```text
+  § 1520. Sale of property of dissolved district and disposition of
+proceeds.  1. When a district is divided into portions, which are
+annexed to other districts, its property shall be sold by the supervisor
+of the town or towns, within which its schoolhouse is situated, at
+public auction after at least five days' notice.
+  2. Such notice shall be given by posting the same in three or more
+public places of the town or towns in which the schoolhouse is situated
+and in one conspicuous place in the district so dissolved.
+  3. The supervisor, after deducting the expenses of the sale, shall
+apply its proceeds to the payment of the debts of the district, and
+apportion the residue, if any, among the owners or possessors of taxable
+property in the district, in the ratio of their several assessments on
+the last corrected assessment-roll of the towns, and pay it over
+accordingly.
+```

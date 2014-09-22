@@ -1,0 +1,47 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 159-C", "kind": "section", "law_id": "CVS", "location_id": "159-C", "path": "ARTICLE 10 › SECTION 159-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/159-C.md", "title": "Excused leave to undertake a screening for prostate cancer"} -->
+# Civil Service Law § 159-C — Excused leave to undertake a screening for prostate cancer
+
+[Civil Service Law](../README.md) › [Article 10 — Miscellaneous Provisions](README.md)
+
+```text
+  § 159-c. Excused leave to undertake a screening for prostate cancer.
+1.  Every public officer, employee of this state, employee of any
+county, employee of any community college, employee of any public
+authority, employee of any public benefit corporation, employee of any
+board of cooperative educational services (BOCES), employee of any
+vocational education and extension board, or a school district
+enumerated in section one of chapter five hundred sixty-six of the laws
+of nineteen hundred sixty-seven, employee of any municipality, employee
+of any school district or any employee of a participating employer in
+the New York state and local employees' retirement system or any
+employee of a participating employer in the New York state teachers'
+retirement system shall be entitled to absent himself and shall be
+deemed to have a paid leave of absence from his duties or service as
+such public officer, employee of this state, employee of any county,
+employee of any community college, employee of any public authority,
+employee of any public benefit corporation, employee of any board of
+cooperative educational services (BOCES), employee of any vocational
+education and extension board, or a school district enumerated in
+section one of chapter five hundred sixty-six of the laws of nineteen
+hundred sixty-seven, employee of any municipality, employee of any
+school district, or any employee of a participating employer in the New
+York state and local employees' retirement system or any employee of a
+participating employer in the New York state teachers' retirement system
+for a sufficient period of time, not to exceed four hours on an annual
+basis, to undertake a screening for prostate cancer.
+  2. The entire period of the leave of absence granted pursuant to this
+section shall be excused leave and shall not be charged against any
+other leave such public officer, employee of this state, employee of any
+county, employee of any community college, employee of any public
+authority, employee of any public benefit corporation, employee of any
+board of cooperative educational services (BOCES), employee of any
+vocational education and extension board, or a school district
+enumerated in section one of chapter five hundred sixty-six of the laws
+of nineteen hundred sixty-seven, employee of any municipality, employee
+of any school district or any employee of a participating employer in
+the New York state and local employees' retirement system or any
+employee of a participating employer in the New York state teachers'
+retirement system is otherwise entitled to.
+  3. The provisions of this section shall not apply to any employee of a
+city having a population of one million or more.
+```

@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 44", "kind": "section", "law_id": "SCC", "location_id": "44", "path": "ARTICLE 4 › SECTION 44", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/44.md", "title": "Penalties"} -->
+# Second Class Cities Law § 44 — Penalties
+
+[Second Class Cities Law](../README.md) › [Article 4 — Common Council](README.md)
+
+```text
+  § 44. Penalties. Any member of the common council who shall knowingly
+or unlawfully disregard any provision of law applicable to the members
+thereof, or who shall vote for any ordinance or measure in violation of
+the law, or any appropriation unauthorized by law or in excess of the
+amount authorized by law, or for any illegal or injurious disposition of
+corporate property rights or privileges, shall be guilty of a
+misdemeanor and liable to the punishment and penalty prescribed
+therefor, and every member voting in favor thereof shall be individually
+liable to refund the amount to the city at the suit of any taxpayer.
+```

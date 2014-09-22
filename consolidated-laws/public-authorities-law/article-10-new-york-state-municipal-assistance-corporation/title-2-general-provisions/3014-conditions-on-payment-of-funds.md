@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3014", "kind": "section", "law_id": "PBA", "location_id": "3014", "path": "ARTICLE 10 › TITLE 2 › SECTION 3014", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3014.md", "title": "Conditions on payment of funds to or purchase of obligations of municipality"} -->
+# Public Authorities Law § 3014 — Conditions on payment of funds to or purchase of obligations of municipality
+
+[Public Authorities Law](../../README.md) › [Article 10 — New York State Municipal Assistance Corporation Act](../README.md) › [Title 2 — General Provisions Relating to Municipal Assistance Corporations](README.md)
+
+```text
+  § 3014. Conditions on payment of funds to or purchase of obligations
+of municipality. 1. A corporation shall require, in connection with any
+payment of funds to, or purchase or exchange of the obligations of, the
+municipality being assisted, or the extension of other benefits thereto,
+that such municipality agree to observe such conditions with respect to
+expenditure control, record keeping, accounting, budgeting, financial
+management and other practices of such municipality as may be set forth
+in or permitted under the special law creating such corporation. Such
+agreement may provide such remedies for failure to observe such
+conditions as shall be necessary or desirable to accomplish the purposes
+of this article and such special law and are authorized or permitted
+thereunder.
+  2. Notwithstanding the provisions of any other law, general, special
+or local, inconsistent with the provisions hereof, any municipality may
+sell notes and bonds authorized to be issued pursuant to the local
+finance law by private sale to the corporation or to receive moneys from
+the corporation as herein provided and such municipality is hereby
+authorized to agree to and undertake any agreements made pursuant to the
+terms hereof.
+```

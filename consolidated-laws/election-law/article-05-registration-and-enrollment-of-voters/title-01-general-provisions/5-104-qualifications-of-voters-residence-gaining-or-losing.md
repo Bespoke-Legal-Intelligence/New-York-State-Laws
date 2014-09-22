@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Election Law § 5-104", "kind": "section", "law_id": "ELN", "location_id": "5-104", "path": "ARTICLE 5 › TITLE 1 › SECTION 5-104", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/5-104.md", "title": "Qualifications of voters; residence, gaining or losing"} -->
+# Election Law § 5-104 — Qualifications of voters; residence, gaining or losing
+
+[Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 5-104. Qualifications of voters; residence, gaining or losing.  1.
+For the purpose of registering and voting no person shall be deemed to
+have gained or lost a residence by reason of his presence or absence
+while employed in the service of the United States, nor while engaged in
+the navigation of the waters of this state, or of the United States, or
+of the high seas; nor while a student of any institution of learning;
+nor while kept at any welfare institution, asylum or other institution
+wholly or partly supported at public expense or by charity; nor while
+confined in any public prison.
+  2. In determining a voter's qualification to register and vote, the
+board to which such application is made shall consider, in addition to
+the applicant's expressed intent, his conduct and all attendant
+surrounding circumstances relating thereto. The board taking such
+registration may consider the applicant's financial independence,
+business pursuits, employment, income sources, residence for income tax
+purposes, age, marital status, residence of parents, spouse and
+children, if any, leaseholds, sites of personal and real property owned
+by the applicant, motor vehicle and other personal property
+registration, and other such factors that it may reasonably deem
+necessary to determine the qualification of an applicant to vote in an
+election district within its jurisdiction. The decision of a board to
+which such application is made shall be presumptive evidence of a
+person's residence for voting purposes.
+```

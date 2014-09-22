@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Eminent Domain Procedure Law § 101", "kind": "section", "law_id": "EDP", "location_id": "101", "path": "ARTICLE 1 › SECTION 101", "repealed": false, "repealed_date": null, "source": "nys-laws:EDP/101.md", "title": "Purpose"} -->
+# Eminent Domain Procedure Law § 101 — Purpose
+
+[Eminent Domain Procedure Law](../README.md) › [Article 1 — Purpose; Short Title; Definitions; Applicability](README.md)
+
+```text
+  § 101. Purpose. It is the purpose of this law to provide the exclusive
+procedure by which property shall be acquired by exercise of the power
+of eminent domain in New York state; to assure that just compensation
+shall be paid to those persons whose property rights are acquired by the
+exercise of the power of eminent domain; to establish opportunity for
+public participation in the planning of public projects necessitating
+the exercise of eminent domain; to give due regard to the need to
+acquire property for public use as well as the legitimate interests of
+private property owners, local communities and the quality of the
+environment, and to that end to promote and facilitate recognition and
+careful consideration of those interests; to encourage settlement of
+claims for just compensation and expedite payments to property owners;
+to establish rules to reduce litigation, and to ensure equal treatment
+to all property owners.
+```

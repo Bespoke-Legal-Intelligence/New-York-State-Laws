@@ -1,0 +1,329 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1310", "kind": "section", "law_id": "TAX", "location_id": "1310", "path": "ARTICLE 30 › SECTION 1310", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1310.md", "title": "Credits against tax"} -->
+# Tax Law § 1310 — Credits against tax
+
+[Tax Law](../README.md) › [Article 30 — City Personal Income Tax](README.md)
+
+```text
+  § 1310. Credits against tax. (a) Credit to trust beneficiary receiving
+accumulation distribution. A beneficiary of a trust who is subject to a
+city personal income tax imposed pursuant to the authority of this
+article and whose New York adjusted gross income under article
+twenty-two of this chapter includes all or part of an accumulation
+distribution by such trust, as defined in section six hundred sixty-five
+of the internal revenue code, shall be allowed a credit against the tax
+otherwise due under such city personal income tax for all or a
+proportionate part of any tax paid by the trust under such tax or under
+any prior local law of the city for any preceding taxable year which
+would not have been payable if the trust had in fact made distributions
+to its beneficiaries at the times and in the amounts specified in
+section six hundred sixty-six of the internal revenue code. The credit
+under this subsection shall not reduce the tax otherwise due from the
+beneficiary under such city personal income tax to an amount less than
+would have been due if the accumulation distribution or his part thereof
+were excluded from his New York adjusted gross income as defined in
+section six hundred twelve of this chapter.
+  (b) Credit for tax withheld. Wages upon which tax is required to be
+withheld shall be taxable under a city personal income tax as if no
+withholding were required, but any amount of tax actually deducted and
+withheld under such tax in any calendar year shall be deemed to have
+been paid to the state tax commission on behalf of the person from whom
+withheld, and such person shall be credited with having paid that amount
+of tax for the taxable year beginning in such calendar year. For a
+taxable year of less than twelve months, the credit shall be made under
+regulations of the state tax commission.
+  (c) Credit relating to net capital gain. For taxable years beginning
+in nineteen hundred eighty-seven, a credit against the city personal
+income tax determined in accordance with section thirteen hundred four
+shall be allowed. The amount of the credit shall be one-half of one
+percent of net capital gain includible in city adjusted gross income for
+the taxable year. The credit allowed by this section shall not exceed
+the tax determined in accordance with section thirteen hundred four,
+reduced by the credits permitted under subsections (a) and (d) of this
+section.
+  (d) Household credit. (1) For taxable years beginning after nineteen
+hundred eighty-six, a credit against the city personal income tax
+determined in accordance with section thirteen hundred four shall be
+allowed. The credit, computed as described in paragraph two of this
+subsection, shall not exceed the tax determined in accordance with
+section thirteen hundred four reduced by the credit permitted under
+subsection (a) of this section.
+  (2) (A) For any individual who is not married nor the head of a
+household nor a surviving spouse, the amount of the credit shall be
+determined in accordance with the following table:
+If household gross                 The credit shall be:
+   income is:
+                            For taxable years       For taxable years
+                           beginning after 1986      beginning after
+                             and before 1996              1995
+Not over $7,500                   $15                      $15
+Over $7,500 but not
+ over $10,000                     $10                      $15
+Over $10,000 but not
+ over $12,500                     $ 0                      $10
+  (B) For any husband and wife, head of household or surviving spouse,
+the amount of the credit shall be determined by multiplying the number
+of exemptions for which the taxpayer (or in the case of a husband and
+wife, taxpayers) is entitled to a deduction for the taxable year for
+federal income tax purposes under subsections (b) and (c) of section one
+hundred fifty-one of the internal revenue code by the credit factor for
+the taxable year as specified in the following table:
+If household gross                 The credit factor is:
+   income is:
+                        For taxable years beginning in   For taxable years
+                        1987   1988  1989 through 1995    beginning after
+                                                              1995
+Not over $12,500         $30    $50         $50                $30
+Over $12,500 but not
+  over $15,000           $20    $40         $50                $30
+Over $15,000 but not
+  over $17,500           $10    $20         $25                $25
+Over $17,500 but not
+  over $20,000           $ 0    $15         $15                $15
+Over $20,000 but not
+  over $22,500           $ 0    $ 0         $ 0                $10
+  (3) For purposes of this subsection:
+  (A) "Household gross income" shall mean the aggregate federal adjusted
+gross income of a household, as the term household is defined in
+subparagraph (B) of this paragraph, for the taxable year.
+  (B) "Household" means a husband and wife, a head of household, a
+surviving spouse, or an individual who is not married nor the head of a
+household nor a surviving spouse nor a taxpayer with respect to whom a
+deduction under subsection (c) of section one hundred fifty-one of the
+internal revenue code is allowable to another taxpayer for the taxable
+year.
+  (C) "Household gross income of a husband and wife" shall be the
+aggregate of their federal adjusted gross incomes for the taxable year
+irrespective of whether joint or separate city income tax returns are
+filed. Provided, however, that a husband or wife who is required to file
+a separate city income tax return shall be permitted one-half the credit
+otherwise allowed his or her household, except as limited by paragraph
+one of this subsection.
+  (D) "Household gross income" shall be computed in all cases as if each
+member of the household were a resident for the entire taxable year.
+  (E) If a taxpayer changes his status during his taxable year from
+resident to nonresident, or from nonresident to resident, the household
+credit shall be prorated according to the number of months in the period
+of residence. In the case of a husband and wife, if either or both
+changes his or her status from resident to nonresident or from
+nonresident to resident and separate returns are filed, the credit
+computed for the entire year shall be divided first as provided in
+subparagraph (C) of this paragraph and then prorated according to the
+number of months in the period of residence.
+  * (e) State school tax reduction credit. (1) For taxable years
+beginning after nineteen hundred ninety-seven, a state school tax
+reduction credit shall be allowed as provided in the following tables.
+The credit shall be allowed against the taxes authorized by this article
+reduced by the credits permitted by this article. If the credit exceeds
+the tax as so reduced, the taxpayer may receive, and the comptroller,
+subject to a certificate of the commissioner, shall pay as an
+overpayment, without interest, the amount of such excess. For purposes
+of this subsection, no credit shall be granted to an individual with
+respect to whom a deduction under subsection (c) of section one hundred
+fifty-one of the internal revenue code is allowable to another taxpayer
+for the taxable year.
+  (2) The amount of the credit under this paragraph shall be determined
+based upon the taxpayer's income as defined in subparagraph (ii) of
+paragraph (b) of subdivision four of section four hundred twenty-five of
+the real property tax law. For the purposes of this paragraph, any
+taxpayer under subparagraphs (A) and (B) of this paragraph with income
+of more than two hundred fifty thousand dollars shall not receive a
+credit.
+  Beginning in the two thousand ten tax year and each tax year
+thereafter, the "more than two hundred fifty thousand dollar" income
+limitation shall be adjusted by applying the inflation factor set forth
+herein, and rounding each result to the nearest multiple of one hundred
+dollars. The department shall establish the income limitation to be
+associated with each subsequent tax year by applying the inflation
+factor set forth herein to the figures that define the income limitation
+that were applicable to the preceding tax year, as determined pursuant
+to this subdivision, and rounding each result to the nearest multiple of
+one hundred dollars. Such determination shall be made no later than
+March first, two thousand ten and each year thereafter.
+  For purposes of this paragraph, the "inflation factor" shall be
+determined in accordance with the provisions set forth in subdivision
+fifteen of section one hundred seventy-eight of this chapter.
+  (A) Married individuals filing joint returns and surviving spouses. In
+the case of a husband and wife who make a single return jointly and of a
+surviving spouse:
+     For taxable years beginning:       The credit shall be:
+               in 2001-2005                    $125
+               in 2006                         $230
+               in 2007-2008                    $290
+               in 2009 and after               $125
+  (B) All others. In the case of an unmarried individual, a head of a
+household or a married individual filing a separate return:
+     For taxable years beginning:       The credit shall be:
+               in 2001-2005                    $62.50
+               in 2006                         $115
+               in 2007-2008                    $145
+               in 2009 and after               $62.50
+  (4) Husband and wife who make a joint return. If a husband and wife
+make a single return jointly, the credit under this subsection shall be
+determined under paragraph two of this subsection, if either of them has
+attained the age of sixty-five on or before the close of the taxable
+year.
+  (5) Part-year residents. If a taxpayer changes status during the
+taxable year from resident to nonresident, or from nonresident to
+resident, the state school tax reduction credit shall be prorated
+according to the number of months in the period of residence.
+  * NB There are 2 sub§ (e)'s
+  * (e) Credit for city of New York unincorporated business tax paid.
+  (1) Notwithstanding any other provision of law to the contrary, any
+city imposing a tax under this article is hereby authorized and
+empowered to adopt and amend local laws for any taxable year beginning
+after nineteen hundred ninety-seven, as specified in such local laws,
+providing for a credit as provided in paragraph two of this subsection
+against the taxes imposed pursuant to the authority granted by section
+thirteen hundred one of this article on the city taxable income
+determined pursuant to sections thirteen hundred four, thirteen hundred
+four-A and thirteen hundred four-B of this article and on the ordinary
+income portion of a lump sum distribution determined pursuant to section
+thirteen hundred one-B of this article, to any city resident individual,
+estate or trust whose city adjusted gross income includes income, gain,
+loss or deductions from one or more unincorporated businesses conducted
+by such city resident individual, estate or trust on which a tax is
+imposed by chapter five of title eleven of the administrative code of
+the city of New York, or a distributive share of income, gain, loss and
+deductions of, or guaranteed payments from, one or more partnerships on
+which a tax is imposed by such chapter. Any such local laws may contain
+provisions to ensure that such credit shall not reduce the tax paid by a
+city resident below that which would be paid by such city resident if
+such city resident were a city nonresident.
+  (2) (A) Subject to the limitation set forth in subparagraph (B) of
+this paragraph, the credit allowed to a taxpayer for a taxable year
+shall be equal to all or a portion of the amount determined in paragraph
+three of this subsection, provided, however, such portion shall not be
+less than:
+  (i) If the city taxable income is forty-two thousand dollars or less,
+sixty-five percent of the amount determined in paragraph three of this
+subsection.
+  (ii) If the city taxable income is greater than forty-two thousand
+dollars but not greater than one hundred forty-two thousand dollars, a
+percentage of the amount determined in paragraph three of this
+subsection to be determined by subtracting from sixty-five percent, one
+tenth of a percentage point (.001) for every increment of two hundred
+dollars, or fractional part thereof, of city taxable income in excess of
+forty-two thousand dollars.
+  (iii) If the city taxable income is greater than one hundred forty-two
+thousand dollars, fifteen percent of the amount determined in paragraph
+three of this subsection.
+  (B) Notwithstanding anything to the contrary in subparagraph (A) of
+this paragraph, the credit allowed to a taxpayer for a taxable year
+under this subsection shall not exceed the sum of the taxes that would
+otherwise be imposed on such taxpayer for such taxable year pursuant to
+the authority granted by section thirteen hundred one of this article on
+the city taxable income determined pursuant to sections thirteen hundred
+four, thirteen hundred four-A and thirteen hundred four-B of this
+article and on the ordinary income portion of a lump sum distribution
+determined pursuant to section thirteen hundred one-B of this article,
+reduced by the credits allowed to such taxpayer pursuant to subsections
+(a), (c) and (d) of this section.
+  (3) Subject to the provisions of subparagraph (C) of this paragraph,
+the amount determined in this paragraph is the sum of:
+  (A) for each unincorporated business conducted by the taxpayer, the
+tax imposed by chapter five of title eleven of the administrative code
+of the city of New York on such unincorporated business for its taxable
+year ending with the taxable year of the taxpayer and paid by the
+unincorporated business; and
+  (B) for each unincorporated business in which the taxpayer is a
+partner, the product of:
+  (i) the sum of (I) the tax imposed by chapter five of title eleven of
+the administrative code of the city of New York on such unincorporated
+business for its taxable year ending within or with the taxable year of
+the partner and paid by the unincorporated business and (II) the amount
+of any credit or credits taken by the unincorporated business under
+subdivision (j) of section 11-503 of the administrative code of the city
+of New York for its taxable year ending within or with the taxable year
+of the partner; and
+  (ii) a fraction, the numerator of which is the net total of the
+partner's distributive share of income, gain, loss and deductions of,
+and guaranteed payments from, the unincorporated business for such
+taxable year, and the denominator of which is the sum, for such taxable
+year, of the net total distributive shares of income, gain, loss and
+deductions of, and guaranteed payments to, all partners in the
+unincorporated business for whom or which such net total (as separately
+determined for each partner) is greater than zero.
+  (C) For a taxpayer that changes its status from a city resident to a
+city nonresident or from a city nonresident to a city resident during
+the taxable year:
+  (i) the amount determined in subparagraph (A) of this paragraph shall
+be, with respect to each unincorporated business conducted by the
+taxpayer, the tax imposed by chapter five of title eleven of the
+administrative code of the city of New York on such unincorporated
+business for its taxable year ending with the taxable year of the
+taxpayer and paid by the unincorporated business, multiplied by a
+fraction, the numerator of which is that portion of the income, gain,
+loss and deductions of the unincorporated business included in the
+taxpayer's city adjusted gross income for the portion of the taxable
+year during which the taxpayer was a city resident, and the denominator
+of which is the total, for such taxable year, of the income, gain, loss
+and deductions of the unincorporated business, and
+  (ii) the amount determined in clause (ii) of subparagraph (B) of this
+paragraph shall be a fraction, the numerator of which is that portion of
+the taxpayer's net total distributive share of income, gain, loss and
+deductions of, and that portion of guaranteed payments from, the
+unincorporated business included in the taxpayer's city adjusted gross
+income for the portion of the taxable year during which the taxpayer was
+a city resident, and the denominator of which is the sum, for such
+taxable year, of the net total distributive shares of income, gain, loss
+and deductions of, and guaranteed payments to, all partners in the
+unincorporated business, for whom or which such net total (as separately
+determined for each partner) is greater than zero.
+  (4) No local law enacted pursuant to the authority of this subsection
+shall be effective unless a certified copy of such local law is mailed
+by registered mail to the state department of taxation and finance at
+its office in Albany at least fifteen days prior to the date it is to
+become effective. However, the state department of taxation and finance
+may waive and reduce such fifteen-day minimum notice requirement to a
+mailing of such certified copy by registered mail within such period if
+it deems such action to be consistent with its duties under this
+article.
+  * NB There are 2 sub§ (e)'s
+  (f) Earned income tax credit. (1) Notwithstanding any other provision
+of law to the contrary, any city having a population of one million or
+more, acting through its local legislative body, is hereby authorized
+and empowered to adopt and amend local laws granting in any such city,
+for taxable years beginning after two thousand three, a credit against
+the city personal income tax equal to five percent of the earned income
+credit allowed under section thirty-two of the internal revenue code for
+the same taxable year.
+  (2) In the case of a resident taxpayer, the credit provided by local
+law adopted pursuant to this subsection shall be allowed against the
+taxes authorized by this article for the taxable year reduced by the
+credits permitted by this article. If the credit exceeds the tax as so
+reduced, the taxpayer may receive, and the comptroller, subject to a
+certificate of the commissioner, shall pay as an overpayment, without
+interest, the amount of such excess.
+  (3) If a taxpayer changes his or her status during the taxable year
+from city resident to city nonresident, or from city nonresident to city
+resident, the credit determined under this subsection shall be limited
+to the amount determined by multiplying the amount of such credit by a
+fraction, the numerator of which is such taxpayer's city adjusted gross
+income, as defined in chapter seventeen of title eleven of the
+administrative code of the city of New York, for the period of
+residence, and the denominator of which is such taxpayer's city adjusted
+gross income determined as if he or she were a city resident for the
+entire taxable year. City adjusted gross income shall be adjusted as
+provided in section 11-1754 of the administrative code of the city of
+New York. The credit as so limited shall be applied as provided in
+paragraph two of this subsection.
+  (4) Subject to the provisions of paragraph three of this subsection,
+in the case of a husband and wife who file a joint return, but who are
+required to determine their city personal income taxes separately, the
+credit authorized pursuant to this subsection may be applied against the
+tax of either or divided between them as they may elect. In the case of
+a husband and wife who are not required to file a federal return, the
+credit under this subsection shall be allowed only if such taxpayers
+file a joint city personal income tax return.
+  (5) A local law enacted pursuant to this subsection shall be
+applicable with respect to any taxable year only if it has been enacted
+on or before the date that is forty-five days after the effective date
+of this subsection and for taxable years subsequent to taxable year two
+thousand four, on or before July thirty-first of such taxable year. A
+certified copy of such local law shall be mailed by registered mail to
+the state department of taxation and finance at its office in Albany
+within fifteen days of its enactment. However, the state department of
+taxation and finance may allow additional time for such certified copy
+to be mailed if it deems such action to be consistent with its duties
+under this article.
+```

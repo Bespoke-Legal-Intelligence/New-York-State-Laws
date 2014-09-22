@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 6314", "kind": "section", "law_id": "CVP", "location_id": "6314", "path": "ARTICLE 63 › SECTION 6314", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/6314.md", "title": "Vacating or modifying preliminary injunction or temporary restraining order"} -->
+# Civil Practice Law and Rules § 6314 — Vacating or modifying preliminary injunction or temporary restraining order
+
+[Civil Practice Law and Rules](../README.md) › [Article 63 — Injunction](README.md)
+
+```text
+  § 6314. Vacating or modifying preliminary injunction or temporary
+restraining order.  A defendant enjoined by a preliminary injunction may
+move at any time, on notice to the plaintiff, to vacate or modify it. On
+motion, without notice, made by a defendant enjoined by a temporary
+restraining order, the judge who granted it, or in his absence or
+disability, another judge, may vacate or modify the order. An order
+granted without notice and vacating or modifying a temporary restraining
+order shall be effective when, together with the papers upon which it is
+based, it is filed with the clerk and served upon the plaintiff. As a
+condition to granting an order vacating or modifying a preliminary
+injunction or a temporary restraining order, a court may require the
+defendant, except where the defendant is a public body or officer, to
+give an undertaking, in an amount to be fixed by the court, that the
+defendant shall pay to the plaintiff any loss sustained by reason of the
+vacating or modifying order.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Highway Law § 173", "kind": "section", "law_id": "HAY", "location_id": "173", "path": "ARTICLE 8 › SECTION 173", "repealed": false, "repealed_date": null, "source": "nys-laws:HAY/173.md", "title": "Petition for acquisition"} -->
+# Highway Law § 173 — Petition for acquisition
+
+[Highway Law](../README.md) › [Article 8 — Town Highways](README.md)
+
+```text
+  § 173. Petition for acquisition. Whenever the town superintendent of
+highways of any township shall determine that public necessity requires
+the laying out of a new or additional highway, and the land therefor
+cannot be obtained by the dedication of the owners thereof, or if a
+highway proposed to be constructed or improved shall deviate from the
+line of the highway already existing and the town board be unable to
+acquire land by purchase for such requisite right of way as provided by
+section one hundred and seventy-one of this chapter, he may apply to the
+town board of his town for permission to institute a proceeding to
+acquire so much land as may be necessary to lay out such new or
+additional highway, and when such consent shall have been given by the
+town board of such town, the said town superintendent of highways may
+make application pursuant to the eminent domain procedure law to supreme
+court in the judicial district in which such proposed highway is
+situated, to obtain an order for permission to file an acquisition map
+of the property to be acquired.
+```

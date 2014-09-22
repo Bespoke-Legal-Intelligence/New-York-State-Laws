@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 392-I", "kind": "section", "law_id": "GBS", "location_id": "392-I", "path": "ARTICLE 26 › SECTION 392-I", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/392-I.md", "title": "Prices reduced to reflect change in sales tax computation"} -->
+# General Business Law § 392-I — Prices reduced to reflect change in sales tax computation
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+```text
+  § 392-i. Prices reduced to reflect change in sales tax computation.
+Every person engaged in the retail sale of motor fuel and/or diesel
+motor fuel or a distributor of such fuels, as defined in article
+twelve-A of the tax law, shall reduce the price such person charges for
+motor fuel and/or diesel motor fuel in an amount equal to any reduction
+in taxes prepaid by the distributor or paid by retail customers
+resulting from computing sales and compensating use taxes at a cents per
+gallon rate pursuant to the provisions of paragraph two of subdivision
+(e) and subdivision (m) of section eleven hundred eleven of the tax law.
+```

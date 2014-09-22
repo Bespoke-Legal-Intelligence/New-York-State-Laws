@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 3-107", "kind": "section", "law_id": "UCC", "location_id": "3-107", "path": "ARTICLE 3 › PART 1 › SECTION 3-107", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/3-107.md", "title": "Money"} -->
+# Uniform Commercial Code § 3-107 — Money
+
+[Uniform Commercial Code](../../README.md) › [Article 3 — Commercial Paper](../README.md) › [Part 1 — Short Title, Form and Interpretation](README.md)
+
+```text
+Section 3--107. Money.
+  (1) An instrument is payable in money if the medium of exchange in
+which it is payable is money at the time the instrument is made. An
+instrument payable in "currency" or "current funds" is payable in money.
+  (2) A promise or order to pay a sum stated in a foreign currency is
+for a sum certain in money and may be satisfied by payment of that
+number of dollars which the stated foreign currency will purchase at the
+buying sight rate for that currency on the day on which the instrument
+is payable, or, if payable on demand, on the day of demand.
+```

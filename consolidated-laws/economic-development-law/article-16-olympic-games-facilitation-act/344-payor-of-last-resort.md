@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 344", "kind": "section", "law_id": "COM", "location_id": "344", "path": "ARTICLE 16 › SECTION 344", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/344.md", "title": "Payor of last resort"} -->
+# Economic Development Law § 344 — Payor of last resort
+
+[Economic Development Law](../README.md) › [Article 16 — Olympic Games Facilitation Act](README.md)
+
+```text
+  § 344. Payor of last resort. The state and endorsing municipality
+shall be payors of last resort with regard to any net financial deficit
+as defined in this act. The security provided pursuant to this act may
+not be accessed to cover any net financial deficit indemnified by the
+state and endorsing municipality under the games support contract until:
+  (a) The security provided by the local organizing committee pursuant
+to this act is fully expended and exhausted;
+  (b) Any security provided by any other person or entity is fully
+expended and exhausted;
+  (c) The limits of available insurance policies covering the net
+financial deficit or any expense or liability used in determining the
+net financial deficit, have been fully expended and exhausted; and
+  (d) Payment has been sought by the local organizing committee from all
+third parties owing monies or otherwise liable to the local organizing
+committee.
+```

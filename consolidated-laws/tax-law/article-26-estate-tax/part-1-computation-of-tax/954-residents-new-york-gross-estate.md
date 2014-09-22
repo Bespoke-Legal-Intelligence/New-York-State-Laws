@@ -1,0 +1,90 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 954", "kind": "section", "law_id": "TAX", "location_id": "954", "path": "ARTICLE 26 › PART 1 › SECTION 954", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/954.md", "title": "Resident's New York gross estate"} -->
+# Tax Law § 954 — Resident's New York gross estate
+
+[Tax Law](../../README.md) › [Article 26 — Estate Tax](../README.md) › [Part 1 — Computation of Tax](README.md)
+
+```text
+  § 954. Resident's New York gross estate. (a) General.-- The New York
+gross estate of a deceased resident means his or her federal gross
+estate as defined in the internal revenue code (whether or not a federal
+estate tax return is required to be filed) modified as follows:
+  (1) Reduced by the value of real or tangible personal property having
+an actual situs outside New York state.
+  (2) Increased by the amount determined under section nine hundred
+fifty-seven of this part (relating to limited powers of appointment
+created prior to September first, nineteen hundred thirty).
+  (3) Increased by the amount of any taxable gift under section 2503 of
+the internal revenue code not otherwise included in the decedent's
+federal gross estate, made during the three year period ending on the
+decedent's date of death, but not including any gift made: (1) when the
+decedent was not a resident of New York state; (2) before April first,
+two thousand fourteen; or (3) on or after January first, two thousand
+nineteen.
+  (b) Valuation. -- (1) The New York gross estate shall be valued as of
+the time of the decedent's death, except that if a federal estate tax
+return is filed and the alternate valuation under section 2032 of the
+internal revenue code is elected for federal estate tax purposes, the
+New York gross estate shall be valued as of the applicable federal
+valuation date or dates. Any real property qualified under section two
+thousand thirty-two-A of the internal revenue code shall have the same
+value for purposes of the New York gross estate as it has for federal
+estate tax purposes.
+  (2) If such alternate valuation could have been elected pursuant to
+paragraph one of this subsection, but for the absence of an estate
+sufficient to require the filing of a federal return, the New York gross
+estate may, upon the election of the executor, be valued as of the
+federal valuation date or dates which would have applied if a federal
+return had been filed. However, no election may be made under this
+paragraph unless such election will decrease the value of the New York
+gross estate and the amount of tax imposed by this article (reduced by
+credits allowable against such tax). Any election made under this
+paragraph shall be irrevocable. The election allowed by this paragraph
+shall be made no later than the date prescribed for the filing of the
+return under this article (including extensions) or any time thereafter
+as the commissioner may prescribe.
+  (c) Cross references.-- (1) For provisions of the internal revenue
+code defining the federal gross estate, see:
+  Sec. 2031. Definition of gross estate.
+  Sec. 2032. Alternate valuation.
+  Sec. 2032A. Valuation of certain farm, etc., real property.
+  Sec. 2033. Property in which the decedent had an interest.
+  Sec. 2034. Dower or curtesy interest.
+  Sec. 2035. Adjustments for gifts made within three years of decedent's
+death.
+  Sec. 2036. Transfers with retained life estate.
+  Sec. 2037. Transfers taking effect at death.
+  Sec. 2038. Revocable transfers.
+  Sec. 2039. Annuities.
+  Sec. 2040. Joint interests.
+  Sec. 2041. Powers of appointment.
+  Sec. 2042. Proceeds of life insurance.
+  Sec. 2043. Transfers for insufficient consideration.
+  Sec. 2044. Certain property for which marital deduction was previously
+allowed.
+  Sec. 2045. Prior interests.
+  Sec. 2046. Disclaimers.
+  (2) For provisions of the internal revenue code which, except to the
+extent they are inconsistent with the provisions of this article, are
+pertinent to the computation of taxable gifts and the tax under this
+article, see:
+  Sec. 2503. Taxable gifts.
+  Sec. 2511. Transfers in general.
+  Sec. 2512. Valuation of gifts.
+  Sec. 2513. Gift by husband or wife to third party.
+  Sec. 2514. Powers of appointment.
+  Sec. 2516. Certain property settlements.
+  Sec. 2518. Disclaimers.
+  Sec. 2519. Dispositions of certain life estates.
+  Sec. 2522. Charitable and similar gifts.
+  Sec. 2523. Gift to spouse.
+  Sec. 2524. Extent of deductions.
+  Sec. 2701. Special valuation rules in case of transfers of certain
+interests in corporations or partnerships.
+  Sec. 2702. Special valuation rules in case of transfers of interests
+in trusts.
+  Sec. 2703. Certain rights and restrictions disregarded.
+  Sec. 2704. Treatment of certain lapsing rights and restrictions.
+  Sec. 7872. Treatment of loans with below-market interest rates.
+  (3) For effect of federal estate tax determinations, see section nine
+hundred sixty-one of this article.
+```

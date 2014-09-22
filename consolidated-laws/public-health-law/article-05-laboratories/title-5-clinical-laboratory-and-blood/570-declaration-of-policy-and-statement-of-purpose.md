@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 570", "kind": "section", "law_id": "PBH", "location_id": "570", "path": "ARTICLE 5 › TITLE 5 › SECTION 570", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/570.md", "title": "Declaration of policy and statement of purpose"} -->
+# Public Health Law § 570 — Declaration of policy and statement of purpose
+
+[Public Health Law](../../README.md) › [Article 5 — Laboratories](../README.md) › [Title 5 — Clinical Laboratory and Blood Banking Services](README.md)
+
+```text
+  § 570. Declaration of policy and statement of purpose. The proper
+performance of clinical laboratory and blood banking services is a
+matter of vital concern, affecting the public health, safety and
+welfare. Clinical laboratories and blood banks provide essential public
+health services in aiding the health care provider by furnishing
+information invaluable to the diagnosis and treatment of disease. The
+improper performance of a laboratory procedure may induce an erroneous
+diagnosis or contribute to the selection of an inappropriate method of
+treatment, resulting in prolonged or unnecessary hospitalization, injury
+or even death. The protection of the people of this state requires
+affirmative action to insure that the performance of clinical laboratory
+and blood banking services meet high standards of public health care.
+  It is the purpose of this title to promote the public health, safety
+and welfare by requiring the licensure of clinical laboratories and
+blood banks, by establishing minimum qualifications for directors, and
+by requiring that the performance of all procedures employed by clinical
+laboratories and blood banks meet minimum standards accepted and
+approved by the department.
+```

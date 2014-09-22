@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2781-A", "kind": "section", "law_id": "PBH", "location_id": "2781-A", "path": "ARTICLE 27-F › SECTION 2781-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2781-A.md", "title": "Required offering of HIV related testing"} -->
+# Public Health Law § 2781-A — Required offering of HIV related testing
+
+[Public Health Law](../README.md) › [Article 27-F — Hiv and Aids Related Information](README.md)
+
+```text
+  § 2781-a. Required offering of HIV related testing. 1. Every
+individual between the ages of thirteen and sixty-four years (or younger
+or older if there is evidence or indication of risk activity) who
+receives health services as an inpatient or in the emergency department
+of a general hospital defined in subdivision ten of section twenty-eight
+hundred one of this chapter or who receives primary care services in an
+outpatient department of such hospital or in a diagnostic and treatment
+center licensed under article twenty-eight of this chapter or from a
+physician, physician assistant, nurse practitioner, or midwife providing
+primary care shall be offered an HIV related test unless the health care
+practitioner providing such services reasonably believes that (a) the
+individual is being treated for a life threatening emergency; or (b) the
+individual has previously been offered or has been the subject of an HIV
+related test (except that a test shall be offered if otherwise
+indicated); or (c) the individual lacks capacity to consent to an HIV
+related test.
+  2. As used in this section, "primary care" means the medical fields of
+family medicine, general pediatrics, primary care, internal medicine,
+primary care obstetrics, or primary care gynecology, without regard to
+board certification.
+  3. The offering of HIV related testing under this section shall be
+culturally and linguistically appropriate in accordance with rules and
+regulations promulgated by the commissioner.
+  4. This section shall not affect the scope of practice of any health
+care practitioner or diminish any authority or legal or professional
+obligation of any health care practitioner to offer an HIV related test
+or to provide services or care for the subject of an HIV related test.
+```

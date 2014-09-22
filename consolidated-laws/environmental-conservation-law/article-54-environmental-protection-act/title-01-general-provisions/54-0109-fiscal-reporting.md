@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 54-0109", "kind": "section", "law_id": "ENV", "location_id": "54-0109", "path": "ARTICLE 54 › TITLE 1 › SECTION 54-0109", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/54-0109.md", "title": "Fiscal reporting"} -->
+# Environmental Conservation Law § 54-0109 — Fiscal reporting
+
+[Environmental Conservation Law](../../README.md) › [Article 54 — Environmental Protection Act](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+§ 54-0109. Fiscal reporting.
+  No later than fifteen days after the end of each fiscal year quarter,
+the department shall report to the director of the budget, the
+chairperson of the senate finance committee, the chairperson of the
+assembly ways and means committee and the public on the status of each
+project receiving state assistance payments pursuant to this article.
+Each state agency, department, public authority or public benefit
+corporation administering any project or program pursuant to this
+article shall assist the department in the preparation of the report and
+shall provide information as required by the department. Such report
+shall include as applicable for each category, subcategory and project:
+  1. total appropriations;
+  2. total project costs;
+  3. total commitments;
+  4. total outstanding encumbrances;
+  5. total year to date disbursements;
+  6. total life to date disbursements; and
+  7. total remaining uncommitted balance.
+```

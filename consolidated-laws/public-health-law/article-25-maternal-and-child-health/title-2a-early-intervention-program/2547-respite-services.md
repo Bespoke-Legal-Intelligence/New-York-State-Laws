@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2547", "kind": "section", "law_id": "PBH", "location_id": "2547", "path": "ARTICLE 25 › TITLE 2-A › SECTION 2547", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2547.md", "title": "Respite services"} -->
+# Public Health Law § 2547 — Respite services
+
+[Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 2-A — Early Intervention Program For Infants and Toddlers With Disabilities and Their Families](README.md)
+
+```text
+  § 2547. Respite services. 1. Subject to the availability of federal
+funds, the commissioner shall allocate a portion of such funds for
+respite services for families of eligible children. The commissioner
+shall establish criteria for selecting families for such services, which
+may include the severity of the child's disability, the availability of
+respite services to the family through other programs, and the
+availability of informal supports to the family.
+  2. In addition to respite services provided pursuant to subdivision
+one of this section and subject to the amounts appropriated therefor,
+the state shall reimburse the municipality in accordance with the
+percentage of state aid reimbursement for approved costs as set forth in
+subdivision two of section twenty-five hundred fifty-seven of this
+title, for the costs of respite services provided to eligible children
+and their families with the approval of the early intervention official.
+  3. The commissioner shall contact the appropriate federal governmental
+agencies and personnel to facilitate the availability of federal funds
+for respite services.
+```

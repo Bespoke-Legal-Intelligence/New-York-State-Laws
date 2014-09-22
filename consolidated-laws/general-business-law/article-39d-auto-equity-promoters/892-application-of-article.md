@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 892", "kind": "section", "law_id": "GBS", "location_id": "892", "path": "ARTICLE 39-D › SECTION 892", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/892.md", "title": "Application of article"} -->
+# General Business Law § 892 — Application of article
+
+[General Business Law](../README.md) › [Article 39-D — Auto Equity Promoters](README.md)
+
+```text
+  § 892. Application of article. 1. The actual or purported transfer or
+assignment of any right or interest in a motor vehicle or under a lease
+contract, retail installment contract, or security agreement, by an
+individual who is a party to the original lease contract, retail
+installment contract, or security contract is not an act of auto equity
+promotion under this article.
+  2. This article shall not affect the enforceability of any provision
+of any lease contract, retail installment contract, or security
+agreement, by any party thereto.
+```

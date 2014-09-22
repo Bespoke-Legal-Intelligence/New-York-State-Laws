@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 674-A", "kind": "section", "law_id": "BNK", "location_id": "674-A", "path": "ARTICLE 13-D › SECTION 674-A", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/674-A.md", "title": "Unlawful undertakings"} -->
+# Banking Law § 674-A — Unlawful undertakings
+
+[Banking Law](../README.md) › [Article 13-D — Misconduct Relating to Banking Organizations](README.md)
+
+```text
+  § 674-a. Unlawful undertakings. 1. Every undertaking, whether written
+or oral, express or implied, constituting or contained in a contract
+heretofore or hereafter entered into, directly or indirectly, between a
+banking organization, bank holding company, national banking
+association, federal savings and loan association or foreign banking
+corporation and the owner of an interest in real property located in the
+state, which bars such owner from leasing, selling or otherwise
+disposing of any interest in real property to any other banking
+organization, bank holding company, national banking association,
+federal savings and loan association or foreign banking corporation
+shall be null and void.
+  2. Any banking organization, bank holding company, national banking
+association, federal savings and loan association, foreign banking
+corporation or any other entity or person injured in his business or
+property by reason of an undertaking which violates subdivision one
+hereof may sue on account thereof and be entitled to recover three times
+the amount of the damages sustained, and the cost of suit, including
+reasonable attorneys' fees.
+  3. If any provision of this section, or the application of such
+provision to any individual, company or circumstance, shall be held
+invalid, the remainder of this section, and the application of such
+section to individuals, companies or circumstances other than those to
+which it is held invalid, shall not be affected thereby.
+```

@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 76", "kind": "section", "law_id": "CVR", "location_id": "76", "path": "ARTICLE 7 › SECTION 76", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/76.md", "title": "Action for libel: evidence, separate verdicts"} -->
+# Civil Rights Law § 76 — Action for libel: evidence, separate verdicts
+
+[Civil Rights Law](../README.md) › [Article 7 — Miscellaneous Rights and Immunities](README.md)
+
+```text
+  § 76. Action for libel: evidence, separate verdicts. At the trial of
+any civil action for libel, the defendant may prove, for consideration
+by the jury in fixing the amount of the verdict, that the plaintiff has
+already recovered damages, or has received, or agreed to receive,
+compensation in respect of a libel or libels of a similar purport or
+effect as the libel for which such action has been brought.  In
+consolidated actions based on libels of similar purport or effect the
+jury shall assess the whole amount of the plaintiff's damages in one
+sum, but a separate verdict shall be taken for or against each defendant
+and the jury shall apportion the amount of damages among the defendants
+against whom it found a verdict.
+```

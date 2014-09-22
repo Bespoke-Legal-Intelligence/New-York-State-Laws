@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 339-T", "kind": "section", "law_id": "RPP", "location_id": "339-T", "path": "ARTICLE 9-B › SECTION 339-T", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/339-T.md", "title": "Withdrawal from provisions of this article"} -->
+# Real Property Law § 339-T — Withdrawal from provisions of this article
+
+[Real Property Law](../README.md) › [Article 9-B — Condominium Act](README.md)
+
+```text
+  § 339-t. Withdrawal from provisions of this article. If withdrawal of
+the property from this article is authorized by at least eighty per cent
+in number and in common interest of the units, or by at least such
+larger percentage either in number or in common interest, or in both
+number and common interest, as may be specified in the by-laws, then the
+property shall be subject to an action for partition by any unit owner
+or lienor as if owned in common, in which event the net proceeds of sale
+shall be divided among all the unit owners in proportion to their
+respective common interests, provided, however, that no payment shall be
+made to a unit owner until there has first been paid off out of his
+share of such net proceeds all liens on his unit.  Such withdrawal of
+the property from this article shall not bar its subsequent submission
+to the provisions of this article in accordance with the terms of this
+article.
+```

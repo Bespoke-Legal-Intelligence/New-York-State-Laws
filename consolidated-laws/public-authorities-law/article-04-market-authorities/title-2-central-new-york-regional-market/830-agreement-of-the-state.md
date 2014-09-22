@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 830", "kind": "section", "law_id": "PBA", "location_id": "830", "path": "ARTICLE 4 › TITLE 2 › SECTION 830", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/830.md", "title": "Agreement of the state"} -->
+# Public Authorities Law § 830 — Agreement of the state
+
+[Public Authorities Law](../../README.md) › [Article 4 — Market Authorities](../README.md) › [Title 2 — Central New York Regional Market Authority](README.md)
+
+```text
+  § 830. Agreement of the state. The state of New York does pledge and
+agree with the holders of any bonds that are issued under this title
+that the state will not authorize the construction of any market
+facilities which will be competitive with any market facilities owned or
+operated by the authority or within a reasonable sphere of operation and
+extension of market facilities by the authority, nor will it limit or
+alter the rights hereby vested in the authority to establish and collect
+such rentals and license fees as may be necessary or convenient to
+produce sufficient revenues to meet the expense of maintenance and
+operation of the market facilities and to fulfill the terms of any
+agreements made with the holders of the bonds, or in any way impair the
+rights and remedies of bond holders, until the bonds, together with
+interest thereon, with interest on any unpaid instalments of interest,
+and all costs and expenses in connection with any actions or proceedings
+by or on behalf of the bond holders, are fully met and discharged.
+```

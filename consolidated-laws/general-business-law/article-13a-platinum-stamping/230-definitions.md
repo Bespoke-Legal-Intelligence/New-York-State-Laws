@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 230", "kind": "section", "law_id": "GBS", "location_id": "230", "path": "ARTICLE 13-A › SECTION 230", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/230.md", "title": "Definitions"} -->
+# General Business Law § 230 — Definitions
+
+[General Business Law](../README.md) › [Article 13-A — Platinum Stamping](README.md)
+
+```text
+  § 230. Definitions.  In this article unless the context otherwise
+requires: "Article" means any article of merchandise and includes any
+portion of such article, whether a distinct part thereof, or not
+(including every part thereof whether or not separable and also
+including material for manufacture).
+  Platinum, iridium, palladium, ruthenium, rhodium and/or osmium,
+include any alloy or alloys of any one or more of said metals.
+  "Mark" means any mark, sign, device, imprint, stamp, brand applied to
+any article, or to any tag, card, paper, label, box, carton, container,
+holder, package cover or wrapping attached to, used in conjunction with
+or enclosing such article or any bill, bill of sale, invoice, statement,
+letter, circular, advertisement, notice, memorandum, or other writing or
+printing.
+  "Apply" and "applied" include any method or means of application or
+attachment to, or of use on, or in connection with, or in relation to,
+an article, whether such application, attachment or use is to, on, by,
+in or with
+  1. The article itself, or
+  2. Anything attached to the article, or
+  3. Anything to which the article is attached, or
+  4. Anything in or on which the article is, or
+  5. Anything so used or placed as to lead to a reasonable belief that
+the mark on that thing is meant to be taken as a mark on the article
+itself.
+  "Quality mark" is any mark as herein defined indicating, describing,
+identifying or referring to or appearing or seeming or purporting to
+indicate, describe, identify or refer to the partial or total presence
+or existence of or the quality of or the percentage of or the purity of
+or the number of parts of platinum, iridium, palladium, ruthenium,
+rhodium and/or osmium in any article.
+```

@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7602", "kind": "section", "law_id": "EDN", "location_id": "7602", "path": "TITLE 8 › ARTICLE 153 › SECTION 7602", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7602.md", "title": "State board for psychology"} -->
+# Education Law § 7602 — State board for psychology
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 153 — Psychology](README.md)
+
+```text
+  § 7602. State board for psychology.  A state board for psychology
+shall be appointed by the board of regents on recommendation of the
+commissioner for the purpose of assisting the board of regents and the
+department on matters of professional licensing and professional conduct
+in accordance with section sixty-five hundred eight of this title.  The
+board shall be composed of not less than eleven psychologists licensed
+in this state.  An executive secretary to the board shall be appointed
+by the board of regents upon the recommendation of the commissioner and
+shall be a psychologist, licensed in this state.
+```

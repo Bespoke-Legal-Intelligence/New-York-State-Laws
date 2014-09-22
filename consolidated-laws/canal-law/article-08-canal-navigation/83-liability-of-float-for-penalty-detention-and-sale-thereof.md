@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Canal Law § 83", "kind": "section", "law_id": "CAL", "location_id": "83", "path": "ARTICLE 8 › SECTION 83", "repealed": false, "repealed_date": null, "source": "nys-laws:CAL/83.md", "title": "Liability of float for penalty, detention and sale thereof"} -->
+# Canal Law § 83 — Liability of float for penalty, detention and sale thereof
+
+[Canal Law](../README.md) › [Article 8 — Canal Navigation](README.md)
+
+```text
+  § 83. Liability of float for penalty, detention and sale thereof.
+Every penalty and forfeiture prescribed by this chapter against the
+owner, master or other person having charge of any float, when incurred,
+shall be chargeable on such float, and an action for the recovery
+thereof may be brought against any person in the possession or having
+charge thereof at the time when it is commenced; and any court or
+judicial officer issuing the process for the commencement of such an
+action, may, by a clause to be inserted therein, direct the officer
+executing the same, to detain such float or its appurtenances until
+action is determined or until adequate security is given for the payment
+of any judgment recoverable. If such security be given, or the defendant
+in the action prevail, such court or officer shall order the boat or
+other float and property detained to be released. If no such security be
+given and a judgment be recovered for such penalty or forfeiture, and
+not immediately paid, an execution shall be issued under which the
+property so detained may be sold in like manner as if the judgment had
+been obtained against the owner thereof.
+```

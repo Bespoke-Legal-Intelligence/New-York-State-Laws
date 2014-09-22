@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 105", "kind": "section", "law_id": "BSC", "location_id": "105", "path": "ARTICLE 1 › SECTION 105", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/105.md", "title": "Certificates; corrections"} -->
+# Business Corporation Law § 105 — Certificates; corrections
+
+[Business Corporation Law](../README.md) › [Article 1 — Short Title; Definitions; Applications; Certificates, Miscellaneous](README.md)
+
+```text
+§ 105. Certificates; corrections.
+  Any certificate or other instrument relating to a domestic or foreign
+corporation filed by the department of state under this chapter may be
+corrected with respect to any informality or error apparent on the face,
+incorrect statement or defect in the execution thereof including the
+deletion of any matter not permitted to be stated therein. A
+certificate, entitled "Certificate of correction of............ (correct
+title of certificate and name of corporation)" shall be signed and
+delivered to the department of state. It shall set forth the name of the
+corporation, the date the certificate to be corrected was filed by the
+department of state, a statement as to the nature of the informality,
+error, incorrect statement or defect, the provision in the certificate
+as corrected or eliminated and if the execution was defective, the
+proper execution. The filing of the certificate by the department of
+state shall not alter the effective time of the instrument being
+corrected, which shall remain as its original effective time, and shall
+not affect any right or liability accrued or incurred before such
+filing. A corporate name may not be changed or corrected under this
+section. The provisions of this section shall apply to all instruments
+and certificates heretofore and hereafter filed with the department of
+state.
+```

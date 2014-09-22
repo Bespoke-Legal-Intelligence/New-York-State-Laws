@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 202-G", "kind": "section", "law_id": "BNK", "location_id": "202-G", "path": "ARTICLE 5 › SECTION 202-G", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/202-G.md", "title": "Succession to agency by branch and to branch by agency"} -->
+# Banking Law § 202-G — Succession to agency by branch and to branch by agency
+
+[Banking Law](../README.md) › [Article 5 — Foreign Banking Corporations and National Banks](README.md)
+
+```text
+  § 202-g. Succession to agency by branch and to branch by agency.
+Notwithstanding any other provision of this chapter, the superintendent
+may, subject to such regulations as he may adopt, authorize the
+conversion of a foreign banking corporation agency to a branch or the
+conversion of a foreign banking corporation branch to an agency.
+  When a foreign banking corporation shall be licensed to conduct in
+this state a branch in lieu of an agency theretofore conducted by it or
+to conduct an agency in this state in lieu of a branch theretofore
+conducted by it, the preceding form of organization shall, with the
+approval of the superintendent, be converted into the succeeding form of
+organization of such foreign banking corporation and all of the
+liabilities of such foreign banking corporation previously payable at
+the office where such preceding form of organization shall have been
+conducted shall thereafter be payable at the office of the successor
+form of organization.
+  In the event that the successor form of organization shall succeed to
+assets in which it would not have had legal power to invest in its
+successor form, or, in the event the successor form of organization
+shall succeed to liabilities which the successor form of organization
+would not have had power to incur, it shall liquidate such assets or
+liabilities within the next succeeding twelve calendar months unless the
+superintendent shall, in his discretion, extend such period of time in
+the interest of the orderly conduct of such branch or agency.
+```

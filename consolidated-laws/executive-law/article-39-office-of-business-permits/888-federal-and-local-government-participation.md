@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 888", "kind": "section", "law_id": "EXC", "location_id": "888", "path": "ARTICLE 39 › SECTION 888", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/888.md", "title": "Federal and local government participation"} -->
+# Executive Law § 888 — Federal and local government participation
+
+[Executive Law](../README.md) › [Article 39 — Office of Business Permits](README.md)
+
+```text
+  * § 888. Federal and local government participation. 1. Federal and
+local government permit agencies shall be encouraged to participate in
+the business permit information, coordination, and assistance services
+of the office and to make information available to applicants through
+the office with respect to any business undertaking, project, or
+activity which is referred to the office under the provisions of this
+article.
+  2. The office shall, so far as is practicable, advise applicants of
+federal and local agency permit requirements and shall maintain an
+information file on permits for which the state has delegated issuance
+authority to local government agencies.
+  3. The director shall consult with local government officials with
+respect to cooperation in coordinating state and local permit
+application and review procedures and shall recommend to the governor
+and the legislature any actions which would facilitate such
+coordination.
+  * NB Authority of office terminated per § 893 December 31, 1995
+```

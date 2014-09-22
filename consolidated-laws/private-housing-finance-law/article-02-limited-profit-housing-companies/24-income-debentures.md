@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 24", "kind": "section", "law_id": "PVH", "location_id": "24", "path": "ARTICLE 2 › SECTION 24", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/24.md", "title": "Income debentures"} -->
+# Private Housing Finance Law § 24 — Income debentures
+
+[Private Housing Finance Law](../README.md) › [Article 2 — Limited-profit Housing Companies](README.md)
+
+```text
+  § 24. Income debentures. 1. With the approval of the supervising
+agency or of the commissioner, as the case may be, the certificate of
+incorporation, or an amended certificate may authorize the issuance of
+income debentures bearing no greater interest than six per centum per
+annum except as otherwise provided in this article. After the
+incorporation of a company, the directors thereof may, with the consent
+of two-thirds of the holders of the preferred stock issued and
+outstanding offer to the stockholders of the company, the privilege of
+exchanging their stock in such quantities and at such times as may be
+approved by the supervising agency or the commissioner, as the case may
+be, for such income debentures. In no event, shall the amount of stock
+of the company be less than a per centum of the total of stock and
+income debentures, to be fixed by the supervising agency or by the
+commissioner, as the case may be.
+  2. Such income debentures and any instrument under which they are
+issued may contain such other provisions, including provision for
+amortization by serial maturities, through the operation of a sinking
+fund or otherwise, as may be approved by the supervising agency or by
+the commissioner, as the case may be.
+```

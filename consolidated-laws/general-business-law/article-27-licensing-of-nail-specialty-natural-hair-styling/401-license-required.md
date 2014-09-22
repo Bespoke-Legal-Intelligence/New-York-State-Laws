@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 401", "kind": "section", "law_id": "GBS", "location_id": "401", "path": "ARTICLE 27 › SECTION 401", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/401.md", "title": "License required"} -->
+# General Business Law § 401 — License required
+
+[General Business Law](../README.md) › [Article 27 — Licensing of Nail Specialty, Natural Hair Styling, Esthetics and Cosmetology](README.md)
+
+```text
+  § 401. License required.  1. No person shall engage in the practice of
+nail specialty, waxing, natural hair styling, esthetics or cosmetology,
+as defined in section four hundred of this article, without having
+received a license to engage in such practice in the manner prescribed
+in this article.
+  2. No person shall own, control or operate, whether as a sole
+proprietor, partner, shareholder, officer, independent contractor or
+other person, an appearance enhancement business without having received
+a license for such business in the manner provided in this article.
+  3. A person licensed by any other state or country to practice nail
+specialty, waxing, natural hair styling, esthetics or cosmetology shall
+be allowed to practice in New York state for three months or less within
+any calendar year for the purpose of giving to, or receiving from,
+persons who are licensed under this article training in current styles,
+techniques or materials, provided however, that no such unlicensed
+person may provide services to the public for any fee, or other
+compensation, whether direct or indirect.
+```

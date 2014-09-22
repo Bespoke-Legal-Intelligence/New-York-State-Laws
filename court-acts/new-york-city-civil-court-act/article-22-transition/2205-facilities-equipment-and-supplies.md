@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "New York City Civil Court Act § 2205", "kind": "section", "law_id": "CCA", "location_id": "2205", "path": "ARTICLE 22 › SECTION 2205", "repealed": false, "repealed_date": null, "source": "nys-laws:CCA/2205.md", "title": "Facilities, equipment and supplies"} -->
+# New York City Civil Court Act § 2205 — Facilities, equipment and supplies
+
+[New York City Civil Court Act](../README.md) › [Article 22 — Transition](README.md)
+
+```text
+  § 2205. Facilities, equipment and supplies. All buildings, courtrooms,
+offices, furniture, equipment, supplies, seals, records, papers and
+documents, and all other facilities and possessions of the city court of
+the city of New York and the municipal court of the city of New York, or
+in the custody of or allotted to said courts, on the effective date of
+this act shall be vested in this court.  This court shall continue to
+occupy and use the buildings, courtrooms and other facilities so
+transferred until such time as other proper and adequate facilities are
+provided, and the use to be made of such transferred facilities, and of
+any other facilities, shall be determined by the appellate division.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1120-U", "kind": "section", "law_id": "PBA", "location_id": "1120-U", "path": "ARTICLE 5 › TITLE 6-B › SECTION 1120-U", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1120-U.md", "title": "Town may levy tax within district"} -->
+# Public Authorities Law § 1120-U — Town may levy tax within district
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 6-B — Clifton Park Water Authority](README.md)
+
+```text
+  § 1120-u. Town may levy tax within district. Should it appear to the
+town board at any time that the revenue of the authority is or will be
+insufficient to provide for the payment of any bonds issued under this
+title and to reimburse the town for any moneys that it may have advanced
+to the authority, the town board shall determine the amount of money
+necessary to be raised for such purpose, and shall levy a tax on the
+territory of the district located within the town and upon the several
+parcels of real estate in the district located within the town in an
+amount sufficient to produce the amount necessary to be raised as
+aforesaid; provided that such tax shall not be levied to pay any bonds
+of the authority unless the authority with the consent of the town board
+has pledged such tax prior to the issuance of such bonds. Such tax shall
+be levied and apportioned upon such territory located within the town
+and collected from the several parcels of real estate in the district
+located within the town in like manner as other town taxes. It is hereby
+determined that the liability imposed upon the territory included in the
+district located within the town is based upon the special benefit to
+such territory accruing under this title and that the tax to be levied
+because of such liability and in proportion to the taxable value of real
+estate in such territory will be in proportion to such benefits.
+```

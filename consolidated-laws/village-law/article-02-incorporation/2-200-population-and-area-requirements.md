@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Village Law § 2-200", "kind": "section", "law_id": "VIL", "location_id": "2-200", "path": "ARTICLE 2 › SECTION 2-200", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/2-200.md", "title": "Population and area requirements"} -->
+# Village Law § 2-200 — Population and area requirements
+
+[Village Law](../README.md) › [Article 2 — Incorporation](README.md)
+
+```text
+  § 2-200 Population and area requirements. 1. A territory containing a
+population of at least five hundred persons who are regular inhabitants
+thereof, as hereinafter defined, may be incorporated as a village under
+this chapter provided such territory does not include a part of a city
+or village and further provided the limits of such territory:
+  a. do not contain more than five square miles; or
+  b. are coterminous with the entire boundaries of a school, fire, fire
+protection, fire alarm, town special or town improvement district; or
+  c. are coterminous with parts of the boundaries of more than one
+school, fire, fire protection, fire alarm, town special or town
+improvement district, all of which are wholly contained within such
+limits and within one town; or
+  d. are coterminous with the entire boundaries of a town.
+  2. The words "regular inhabitants" as used herein and for the purpose
+of this article shall include all persons residing in the territory
+proposed to be incorporated except such persons who themselves, or who
+are persons under the age of eighteen years residing with persons who,
+maintain a residence outside such territory which is used as their
+address for purposes of voting.
+```

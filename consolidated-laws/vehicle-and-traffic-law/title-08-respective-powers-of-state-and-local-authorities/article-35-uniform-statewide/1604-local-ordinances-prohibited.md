@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1604", "kind": "section", "law_id": "VAT", "location_id": "1604", "path": "TITLE 8 › ARTICLE 35 › SECTION 1604", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1604.md", "title": "Local ordinances prohibited"} -->
+# Vehicle and Traffic Law § 1604 — Local ordinances prohibited
+
+[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 35 — Uniform Statewide Application](README.md)
+
+```text
+  § 1604. Local ordinances prohibited. Except as otherwise provided in
+this chapter, local authorities shall have no power to pass, enforce or
+maintain any ordinance, rule or regulation requiring from any owner of a
+motor vehicle or motorcycle, or from any operator or chauffeur to whom
+this chapter is applicable, any tax, fee, license or permit for the use
+of the public highways, or excluding any such owner, operator or
+chauffeur from the free use of such public highways, excepting such
+driveway, speedway or road as has been or may be expressly set apart by
+law for the exclusive use of horses and light carriages, or in any other
+way restricting motor vehicles or motorcycles or their speed upon or use
+of the public highways; or setting aside for any given time a specified
+public highway or any part thereof constructed in whole or in part at
+the expense of the state for exhibitions, shows, exercises,
+entertainments or meetings; and no ordinance, rule or regulation
+contrary to or in any wise inconsistent with the provisions of this
+chapter, now in force or hereafter enacted shall have any effect.
+  Provided, however, that the power given to local authorities to
+license and regulate vehicles offered to the public for hire, and
+processions, assemblages or parades in the streets or public places, and
+all ordinances, rules and regulations which may have been or which may
+be enacted in pursuance of such powers shall remain in full force and
+effect.
+```

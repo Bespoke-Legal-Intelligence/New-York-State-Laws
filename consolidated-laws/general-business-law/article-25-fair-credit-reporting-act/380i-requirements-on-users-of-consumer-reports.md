@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 380-I", "kind": "section", "law_id": "GBS", "location_id": "380-I", "path": "ARTICLE 25 › SECTION 380-I", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/380-I.md", "title": "Requirements on users of consumer reports"} -->
+# General Business Law § 380-I — Requirements on users of consumer reports
+
+[General Business Law](../README.md) › [Article 25 — Fair Credit Reporting Act](README.md)
+
+```text
+  § 380-i. Requirements on users of consumer reports. (a) Whenever
+credit or insurance for personal, family or household purposes is
+denied, or whenever a residential rental or lease is denied, or the
+charge for such credit or insurance, or rental or lease is increased,
+either wholly or partly because of information contained in a consumer
+report, the user of the report shall:
+  (1) advise the consumer against whom such adverse action has been
+taken of such action,
+  (2) supply the name and address of the consumer reporting agency
+making the report, and
+  (3) inform the consumer of his right to inspect and receive a copy of
+such report by contacting the consumer reporting agency.
+  (b) In addition to the requirements of subdivision (a) of this
+section, the user of any such report for purpose of evaluating an
+application for credit shall furnish to the consumer the reasons for any
+adverse action in relation to such application in conformance with the
+requirements of the federal equal credit opportunity act (P.L. 93-435,
+15 USC 1691 et seq) as that statute may from time to time be amended.
+  (c) Every user of a consumer report or an investigative consumer
+report shall be prohibited from disseminating any such report to any
+other person unless such other person has a legitimate business need for
+the information in connection with a business transaction involving the
+consumer.
+```

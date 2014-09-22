@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 552", "kind": "section", "law_id": "GMU", "location_id": "552", "path": "ARTICLE 15-A › SECTION 552", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/552.md", "title": "Definitions"} -->
+# General Municipal Law § 552 — Definitions
+
+[General Municipal Law](../README.md) › [Article 15-A — Municipal Urban Renewal Agencies, Organization and Powers](README.md)
+
+```text
+  § 552. Definitions. As used or referred to in this article unless a
+different meaning clearly appears from the context:
+  1. "Agency" shall mean an urban renewal agency created pursuant to
+this article.
+  2. "Bonds" shall mean any bonds, notes, interim certificates,
+debentures, or other obligations issued by an agency pursuant to this
+article.
+  3. "Governing body", "Municipality", "Urban renewal", "Substandard or
+insanitary area", "Comprehensive community plan", "Urban renewal plan",
+"Commission", "Urban renewal area", "State capital grant" and
+"Commissioner" shall mean governing body, municipality, urban renewal,
+substandard or insanitary area, comprehensive community plan, urban
+renewal plan, commission, urban renewal area, state capital grant and
+commissioner, respectively, as defined in article fifteen of this
+chapter.
+  4. The term "mayor" shall mean the chief executive officer of a
+municipality.
+```

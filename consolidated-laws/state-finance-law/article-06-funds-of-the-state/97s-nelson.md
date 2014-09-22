@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-S", "kind": "section", "law_id": "STF", "location_id": "97-S", "path": "ARTICLE 6 › SECTION 97-S", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-S.md", "title": "Nelson A"} -->
+# State Finance Law § 97-S — Nelson A
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 97-s. Nelson A. Rockefeller Empire State Plaza performing arts
+center corporation fund. 1. There is hereby established in the custody
+of the commissioner of taxation and finance a special account to be
+known as the "performing arts center corporation fund".
+  2. All moneys of the corporation received in accordance with
+subdivision four of this section shall be deposited to the credit of
+such fund, provided that such deposit is consistent with any contract
+awarded pursuant to chapter six hundred eighty-eight of the laws of
+nineteen hundred seventy-nine as amended by a chapter of the laws of
+nineteen hundred ninety-two. Said moneys shall be kept separate and
+shall not be commingled with any other moneys in the custody of the
+commissioner of taxation and finance.
+  3. The moneys in said account shall be retained by it and deposited in
+a general account and such other accounts as the corporation may deem
+necessary for the transaction of its business and shall be paid out on
+checks signed by the chairperson of the corporation or by such other
+member or officer as the corporation may authorize.
+  4. Notwithstanding any other provision of law, revenues received from
+rentals of the performing arts center and related facilities and revenue
+from any other fees and charges and any other funds so designated shall
+be deposited into this fund.
+```

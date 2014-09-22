@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Military Law § 313", "kind": "section", "law_id": "MIL", "location_id": "313", "path": "ARTICLE 13 › SECTION 313", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/313.md", "title": "Settlement of cases involving stayed proceeding in foreclosure or repossession of personal property"} -->
+# Military Law § 313 — Settlement of cases involving stayed proceeding in foreclosure or repossession of personal property
+
+[Military Law](../README.md) › [Article 13 — New York State Soldiers' and Sailors' Civil Relief Act](README.md)
+
+```text
+  § 313. Settlement of cases involving stayed proceeding in foreclosure
+or repossession of personal property.  Where a proceeding to foreclose a
+mortgage upon or to resume possession of personal property, or to
+rescind or terminate a contract for the purchase thereof, has been
+stayed as provided in this act, the court may, unless in its opinion an
+undue hardship would result to the dependents of the person in military
+service, appoint three disinterested parties to appraise the property
+and, based upon the report of the appraisers, order such sum, if any, as
+may be just, paid to the person in military service or his dependent, as
+the case may be, as a condition of foreclosing the mortgage, resuming
+possession of the property, or rescinding or terminating the contract.
+```

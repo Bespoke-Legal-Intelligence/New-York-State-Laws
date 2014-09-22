@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 899-I", "kind": "section", "law_id": "GBS", "location_id": "899-I", "path": "ARTICLE 39-E › SECTION 899-I", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-I.md", "title": "Notice to educational institution"} -->
+# General Business Law § 899-I — Notice to educational institution
+
+[General Business Law](../README.md) › [Article 39-E — Uniform Athlete Agents Act](README.md)
+
+```text
+  § 899-i. Notice to educational institution. 1. Within seventy-two
+hours after entering into an agency contract or before the next
+scheduled athletic event in which the student-athlete may participate,
+whichever occurs first, the athlete agent shall give notice in a record
+of the existence of the contract to the athletic director of the
+educational institution at which the student-athlete is enrolled or the
+athlete agent has reasonable grounds to believe the student-athlete
+intends to enroll.
+  2. Within seventy-two hours after entering into an agency contract or
+before the next athletic event in which the student-athlete may
+participate, whichever occurs first, the student-athlete shall inform
+the athletic director of the educational institution at which the
+student-athlete is enrolled that he or she has entered into an agency
+contract.
+```

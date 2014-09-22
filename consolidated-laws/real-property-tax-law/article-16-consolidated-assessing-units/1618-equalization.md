@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1618", "kind": "section", "law_id": "RPT", "location_id": "1618", "path": "ARTICLE 16 › SECTION 1618", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1618.md", "title": "Equalization"} -->
+# Real Property Tax Law § 1618 — Equalization
+
+[Real Property Tax Law](../README.md) › [Article 16 — Consolidated Assessing Units](README.md)
+
+```text
+  § 1618. Equalization. 1. The commissioner shall establish equalization
+rates for a consolidated assessing unit in the manner provided by
+article twelve of this chapter, except as otherwise provided by this
+section.
+  2. Once the first final assessment roll of a consolidated assessing
+unit has been completed and filed, each market value survey commenced
+thereafter shall be conducted with respect to the consolidated assessing
+unit as a whole, rather than with respect to the constituent
+municipalities.
+  3. Beginning with the first equalization rate which is based upon a
+market value survey of a consolidated assessing unit as a whole, the
+commissioner shall establish equalization rates for the consolidated
+assessing unit as a whole, and shall not establish such rates for the
+constituent municipalities.
+  4. For purposes of the review and establishment of an equalization
+rate for a consolidated assessing unit, the consolidated assessing unit
+shall have the rights that would otherwise be applicable to a city or
+town, including:
+  (a) The notice of completion of the tentative equalization rate for
+the consolidated assessing unit shall be directed to the consolidated
+assessing unit.
+  (b) The consolidated assessing unit shall be entitled to file a
+complaint with respect to such rate.
+  (c) The certificate of final equalization rate for a consolidated
+assessing unit shall be filed with the consolidated assessing unit.
+  5. When the commissioner has established a final equalization rate for
+a consolidated assessing unit as a whole, school district and county
+taxes within the consolidated assessing unit shall be apportioned
+without the use of equalization rates, notwithstanding the provisions of
+articles eight and thirteen of this chapter.
+```

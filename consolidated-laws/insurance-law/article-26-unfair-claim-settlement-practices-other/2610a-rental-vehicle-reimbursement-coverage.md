@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 2610-A", "kind": "section", "law_id": "ISC", "location_id": "2610-A", "path": "ARTICLE 26 › SECTION 2610-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2610-A.md", "title": "Rental vehicle reimbursement coverage"} -->
+# Insurance Law § 2610-A — Rental vehicle reimbursement coverage
+
+[Insurance Law](../README.md) › [Article 26 — Unfair Claim Settlement Practices; Other Misconduct; Discrimination](README.md)
+
+```text
+  § 2610-a. Rental vehicle reimbursement coverage. (a) For the purposes
+of this section, "rental vehicle reimbursement coverage" shall mean
+coverage for the cost of renting a vehicle used as substitute
+transportation if the insured vehicle is damaged and is temporarily out
+of use due to a covered loss, until such vehicle is repaired or is
+declared a total loss.
+  (b) Whenever a motor vehicle collision or comprehensive loss shall
+have been suffered by an insured, no insurer providing rental vehicle
+reimbursement coverage shall require that the insured utilize a
+particular rental vehicle company, rental vehicle company location or a
+particular concern.
+  (c) In processing any such claim, the insurer shall disclose to the
+insured that the insured has the right, as granted by this section, to
+utilize any rental vehicle company, rental vehicle company location or a
+particular concern.
+  (d) An insurer writing automobile insurance which includes rental
+vehicle reimbursement coverage shall inform the consumer of his or her
+right, as granted by this section, to choose a rental vehicle company to
+utilize in the event that he or she utilizes such coverage. The insurer
+shall provide the disclosure required under this section to any insured
+on new and renewal policies. Such disclosure shall be provided in a
+separate written document, which need not be provided in a separate
+mailing as another document as long as it is provided on a separate
+piece of paper, except that for new business it may be provided either
+in writing or in the same medium as the application for insurance.
+```

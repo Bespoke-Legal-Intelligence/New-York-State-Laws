@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 469", "kind": "section", "law_id": "JUD", "location_id": "469", "path": "ARTICLE 15 › SECTION 469", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/469.md", "title": "Continuance where attorney is member of legislature"} -->
+# Judiciary Law § 469 — Continuance where attorney is member of legislature
+
+[Judiciary Law](../README.md) › [Article 15 — Attorneys and Counsellors](README.md)
+
+```text
+  § 469. Continuance where attorney is member of legislature.  When a
+party to a civil action or proceeding shows by his or his attorney's
+affidavit that his attorney is a member of the legislature of the state
+of New York, that the legislature is in regular or special session or
+that not more than ten days have elapsed since the adjournment sine die
+of such session, that such attorney is the only one employed by the
+party who is prepared to try the cause, and that due to the performance
+of his legislative duties he is then unable to try the cause, the court
+shall grant a stay of the trial without prejudice to its place on the
+calendar, provided that no such stay shall extend to more than ten days
+after the adjournment sine die of the session of the legislature.
+```

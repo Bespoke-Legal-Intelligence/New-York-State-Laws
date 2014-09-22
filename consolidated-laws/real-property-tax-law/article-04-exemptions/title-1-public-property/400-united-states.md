@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 400", "kind": "section", "law_id": "RPT", "location_id": "400", "path": "ARTICLE 4 › TITLE 1 › SECTION 400", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/400.md", "title": "United States"} -->
+# Real Property Tax Law § 400 — United States
+
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 1 — Public Property](README.md)
+
+```text
+  § 400.  United States.  1.  Real property owned by the United States
+shall be exempt from taxation, except as otherwise provided by the laws
+of the United States.
+  2.  Real property occupied exclusively or in part by the United States
+pursuant to the provisions of the public buildings purchase contract act
+of nineteen hundred fifty-four (Public Law 519, 83rd Congress) shall be
+exempt from taxation and exempt from special ad valorem levies and
+special assessments to the extent provided in section four hundred
+ninety of this chapter, during the period that the United States is
+required to make reimbursement for taxes payable on such property,
+provided that the United States enters into an agreement or agreements
+with the municipal corporation or corporations in which such properties
+are located, whereby it will undertake to pay a fair and reasonable sum
+annually on such property as taxes.  Where a part of the property is so
+occupied by the United States, such part only shall be exempt and the
+remainder thereof shall be subject to taxation, special ad valorem
+levies and special assessments.  The sums received by any municipal
+corporation pursuant to this subdivision shall be devoted to purposes to
+which taxes may be applied.
+```

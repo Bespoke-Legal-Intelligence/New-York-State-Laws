@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 460", "kind": "section", "law_id": "PBH", "location_id": "460", "path": "ARTICLE 4-A › SECTION 460", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/460.md", "title": "Definitions"} -->
+# Public Health Law § 460 — Definitions
+
+[Public Health Law](../README.md) › [Article 4-A — Regulation of Body Piercing and Tattooing](README.md)
+
+```text
+  § 460. Definitions. As used in this article, unless the context
+requires otherwise:
+  1. "Commissioner" shall mean the commissioner of health.
+  2. "Body piercing" shall mean the piercing of any part of the body,
+except the ear. Such term shall not include tongue-splitting, as defined
+in section four hundred seventy of this chapter.
+  3. "Tattoo" shall mean a mark on the body of a person made with
+indelible ink or pigments injected beneath the outer layer of the skin.
+  4. "Body piercing specialist" shall mean any person who performs body
+piercing on the body of any other person.
+  5. "Tattooist" shall mean any person who applies a tattoo to the body
+of any other person.
+  6. "Body piercing studio" shall mean any premises in which the body
+piercing specialist conducts such practice.
+  7. "Tattoo studio" shall mean any premises in which the tattooist
+conducts such practice.
+  8. "Officer" shall mean the public official with primary
+responsibility for the enforcement of the state sanitary code within a
+county, or within a city with a population of one million or more
+persons. For purposes of this title an officer shall have the powers of
+a presiding officer under the state administrative procedure act within
+a county and shall have the powers of a presiding officer under the city
+administrative procedures act within a city with a population of one
+million or more persons.
+  9. "Department" shall mean the department of health.
+```

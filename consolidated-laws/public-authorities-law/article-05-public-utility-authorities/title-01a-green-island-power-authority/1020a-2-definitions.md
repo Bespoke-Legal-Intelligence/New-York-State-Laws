@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1020-A*2", "kind": "section", "law_id": "PBA", "location_id": "1020-A*2", "path": "ARTICLE 5 › TITLE 1-A* › SECTION 1020-A*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1020-A_2.md", "title": "Definitions"} -->
+# Public Authorities Law § 1020-A*2 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1-A* — Green Island Power Authority](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1020-a. Definitions. As used or referred to in this title, unless
+a different meaning clearly appears from the context:
+  1. The term "authority" shall mean the corporation created by section
+one thousand twenty-c of this title.
+  2. The term "bonds" shall mean bonds, notes or other evidences of
+indebtedness issued by the authority pursuant to this title.
+  3. The term "comptroller" shall mean the comptroller of the state.
+  4. The term "civil service commission" shall mean the civil service
+commission of the county of Albany.
+  5. The term "district" shall mean the Green Island power district
+created by section one thousand twenty-b of this title.
+  6. The term "board of trustees" shall mean the board of trustees of
+the village of Green Island.
+  7. The term "mayor" shall mean the mayor of the village of Green
+Island.
+  8. The term "properties" shall mean the power distribution system or
+systems of the authority, whether situated within or without the
+territorial limits of the district, including the plants, works,
+structures, poles, lines, conduits, mains, systems, instrumentalities or
+part thereof and appurtenances thereto, lands, easements, rights in land
+and water rights, rights-of-way, contract rights, franchises,
+transmission facilities and distribution facilities, or any other
+property incidental to and included in such system or part thereof, and
+any improvements, extensions or betterments.
+  9. The term "municipalities" shall mean any county, city, town,
+village, school district, and any other political subdivision of the
+state.
+  10. The term "revenues" shall mean all rates, rents, fees, charges,
+payments and other income and receipts derived from the operation of the
+properties of the authority including, but not limited to, investment
+proceeds and proceeds of insurance, condemnation, and sales or other
+disposition of assets, together with all federal, state or municipal
+aid.
+  11. The term "state" shall mean the state of New York.
+  12. The term "village" shall mean the village of Green Island.
+  * NB There are 2 § 1020-a's
+```

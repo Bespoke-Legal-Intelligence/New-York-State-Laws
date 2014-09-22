@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 3", "kind": "section", "law_id": "PBS", "location_id": "3", "path": "ARTICLE 1 › SECTION 3", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/3.md", "title": "Department of public service"} -->
+# Public Service Law § 3 — Department of public service
+
+[Public Service Law](../README.md) › [Article 1 — The Department of Public Service](README.md)
+
+```text
+  § 3. Department of public service. There shall be in the state
+government a department of public service. The chairman of the public
+service commission shall be the chief executive officer of the
+department. He or she shall appoint and shall have the power to remove,
+subject to the provisions of the civil service law, all officers,
+clerks, inspectors, experts and employees of the department, and to
+approve all contracts for special service. The chairman shall designate
+one of the commissioners in the department or an officer of the
+department to act as deputy chairman during the absence or disability of
+the chairman and during such times such deputy chairman shall possess
+all the powers of the chairman as chief executive officer of the
+department.
+```

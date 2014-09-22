@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 306", "kind": "section", "law_id": "BSC", "location_id": "306", "path": "ARTICLE 3 › SECTION 306", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/306.md", "title": "Service of process"} -->
+# Business Corporation Law § 306 — Service of process
+
+[Business Corporation Law](../README.md) › [Article 3 — Corporate Name and Service of Process](README.md)
+
+```text
+§ 306. Service of process.
+  (a) Service of process on a registered agent may be made in the manner
+provided by law for the service of a summons, as if the registered agent
+was a defendant.
+  (b) (1) Service of process on the secretary of state as agent of a
+domestic or authorized foreign corporation shall be made by personally
+delivering to and leaving with the secretary of state or a deputy, or
+with any person authorized by the secretary of state to receive such
+service, at the office of the department of state in the city of Albany,
+duplicate copies of such process together with the statutory fee, which
+fee shall be a taxable disbursement. Service of process on such
+corporation shall be complete when the secretary of state is so served.
+The secretary of state shall promptly send one of such copies by
+certified mail, return receipt requested, to such corporation, at the
+post office address, on file in the department of state, specified for
+the purpose. If a domestic or authorized foreign corporation has no such
+address on file in the department of state, the secretary of state shall
+so mail such copy, in the case of a domestic corporation, in care of any
+director named in its certificate of incorporation at the director's
+address stated therein or, in the case of an authorized foreign
+corporation, to such corporation at the address of its office within
+this state on file in the department.
+  (2) An additional service of the summons may be made pursuant to
+paragraph four of subdivision (f) of section thirty-two hundred fifteen
+of the civil practice law and rules.
+  (c) If an action or special proceeding is instituted in a court of
+limited jurisdiction, service of process may be made in the manner
+provided in this section if the office of the domestic or foreign
+corporation is within the territorial jurisdiction of the court.
+  (d) Nothing in this section shall affect the right to serve process in
+any other manner permitted by law.
+```

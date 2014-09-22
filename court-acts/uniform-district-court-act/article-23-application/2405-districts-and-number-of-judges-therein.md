@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Uniform District Court Act § 2405", "kind": "section", "law_id": "UDC", "location_id": "2405", "path": "ARTICLE 23 › SECTION 2405", "repealed": false, "repealed_date": null, "source": "nys-laws:UDC/2405.md", "title": "Districts and number of judges therein"} -->
+# Uniform District Court Act § 2405 — Districts and number of judges therein
+
+[Uniform District Court Act](../README.md) › [Article 23 — Application](README.md)
+
+```text
+  § 2405. Districts and number of judges therein. The county shall be
+divided into judicial districts as follows: The county as a whole shall
+constitute the first judicial district in which one district court judge
+shall be elected. The town of Hempstead shall be the second judicial
+district, the town of North Hempstead the third judicial district and
+the town of Oyster Bay the fourth judicial district.  There shall be
+fourteen district court judges elected in the second district, five in
+the third district and six in the fourth district. For the purpose of
+electing such judges and for the purpose of determining the boundaries
+of such districts, any city heretofore or hereafter created from the
+territory of any town shall be considered to be part of that town.
+  The compensation of the judges of the district court authorized on the
+effective date of this act shall be the same as the existing judges of
+the district court.
+```

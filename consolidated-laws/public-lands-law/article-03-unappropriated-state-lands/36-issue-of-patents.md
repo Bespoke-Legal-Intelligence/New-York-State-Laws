@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Public Lands Law § 36", "kind": "section", "law_id": "PBL", "location_id": "36", "path": "ARTICLE 3 › SECTION 36", "repealed": false, "repealed_date": null, "source": "nys-laws:PBL/36.md", "title": "Issue of patents"} -->
+# Public Lands Law § 36 — Issue of patents
+
+[Public Lands Law](../README.md) › [Article 3 — Unappropriated State Lands](README.md)
+
+```text
+  § 36. Issue of patents.  On the production to the commissioner of
+general services by the purchaser, his representative or assignee of any
+certificate heretofore issued by the state engineer and a receipt
+showing payment to the state of the whole of the purchase-money, the
+purchaser's bond on such sale shall be cancelled by the state department
+having custody of such bond and such commissioner shall deliver letters
+patent for the lands sold to the person entitled thereto.  If such
+certificate be lost or wrongfully withheld by any person from the owner
+thereof, such commissioner may receive evidence of such loss or wrongful
+detention, and issue a patent to the person who, on satisfactory proof,
+appears to him to be entitled thereto.
+```

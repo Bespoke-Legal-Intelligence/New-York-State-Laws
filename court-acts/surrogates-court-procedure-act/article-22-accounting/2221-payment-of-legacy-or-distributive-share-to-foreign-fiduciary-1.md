@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2221", "kind": "section", "law_id": "SCP", "location_id": "2221", "path": "ARTICLE 22 › SECTION 2221", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2221.md", "title": "Payment of legacy or distributive share to foreign fiduciary 1"} -->
+# Surrogate's Court Procedure Act § 2221 — Payment of legacy or distributive share to foreign fiduciary 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 22 — Accounting](README.md)
+
+```text
+§ 2221. Payment of legacy or distributive share to foreign fiduciary
+  1.  Where a beneficiary of an estate is entitled to money or property
+within the jurisdiction of the court and such beneficiary is a
+non-domiciliary infant, incompetent, conservatee  or decedent, payment
+or delivery thereof may be directed by the court to the fiduciary,
+committee or conservator, by whatever title such foreign fiduciary may
+be designated, of the property or estate of the non-domiciliary infant,
+incompetent, conservatee or decedent, upon proof satisfactory to the
+court that the foreign fiduciary is entitled to receive such money or
+property in accordance with the terms and conditions of EPTL 13-3.4 and
+that the fiduciary, committee or conservator has filed at the domicile
+security sufficient to cover such payment or delivery or that no
+security is required at the domicile of the beneficiary.  In the case of
+a deceased beneficiary there shall be submitted proof that he has no
+known creditors within this state.
+  2.  The court may direct such payment or delivery in a decree
+judicially settling the account of a fiduciary or in an order entered
+upon the application of the fiduciary holding such money or property for
+distribution or of the foreign fiduciary, committee or conservator.
+```

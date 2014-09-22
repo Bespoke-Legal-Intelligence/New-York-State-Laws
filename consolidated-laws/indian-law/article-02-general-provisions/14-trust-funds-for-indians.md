@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 14", "kind": "section", "law_id": "IND", "location_id": "14", "path": "ARTICLE 2 › SECTION 14", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/14.md", "title": "Trust funds for Indians"} -->
+# Indian Law § 14 — Trust funds for Indians
+
+[Indian Law](../README.md) › [Article 2 — General Provisions](README.md)
+
+```text
+  § 14. Trust funds for Indians.  The departments of education and
+charities, respectively, for the purposes hereinafter specified, shall
+receive from any nation, tribe or band of Indians residing in the state,
+any sums of money which such Indians may wish to put in trust with the
+state of New York, upon condition that the interest or income thereof
+shall be paid over and applied, under the direction and in the
+discretion of the department of education, for the promotion of
+education among the Indians, and under the direction and in the
+discretion of the department of charities, for the encouragement of
+religion among the Indians, or for any other purpose of public interest,
+use and benefit, which is a proper subject of taxation. Such money shall
+be in the custody and under the immediate charge of the head of the
+division of finance in the department of taxation and finance and, under
+the direction of the department by which it was received as provided in
+this section, invested by the comptroller in safe securities or in bonds
+of the state bearing interest at the rate of five per centum, to be
+created and issued therefor, and called "The Indian loans."
+```

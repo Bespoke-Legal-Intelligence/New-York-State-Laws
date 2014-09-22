@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Volunteer Firefighters' Benefit Law § 50", "kind": "section", "law_id": "VOL", "location_id": "50", "path": "ARTICLE 4 › SECTION 50", "repealed": false, "repealed_date": null, "source": "nys-laws:VOL/50.md", "title": "Payments pending controversies"} -->
+# Volunteer Firefighters' Benefit Law § 50 — Payments pending controversies
+
+[Volunteer Firefighters' Benefit Law](../README.md) › [Article 4 — Procedure](README.md)
+
+```text
+  § 50. Payments pending controversies. In order that the benefits to be
+paid and provided under this chapter shall be paid promptly where such
+benefits are conceded to be due to any person because of the death of or
+injuries to a volunteer fireman, but controversy exists as to which
+political subdivision is liable for the payment thereof, the municipal
+corporations and fire districts involved in such controversy and their
+insurance carriers, if any, may agree that any one or more of such
+municipal corpoations or fire districts or its insurance carrier shall
+pay or provide the benefits to, or in relation to, the person conceded
+to be entitled to such benefits without waiting for a final
+determination of the controversy, and may carry out the provisions of
+such an agreement. Notwithstanding any such payment, any party to the
+agreement may seek a final determination of the controversy in the same
+manner as if such benefits had not been paid or provided and any such
+payment or provision of benefits shall not prejudice any rights of the
+political subdivision or its insurance carrier paying or providing the
+same, nor be taken as an admission against interest.  After a final
+determination the parties to the agreement shall make any necessary and
+proper reimbursement to conform to the determination.
+```

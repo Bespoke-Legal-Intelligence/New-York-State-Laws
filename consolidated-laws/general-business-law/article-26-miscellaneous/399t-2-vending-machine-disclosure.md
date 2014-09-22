@@ -1,0 +1,48 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 399-T*2", "kind": "section", "law_id": "GBS", "location_id": "399-T*2", "path": "ARTICLE 26 › SECTION 399-T*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-T_2.md", "title": "Vending machine disclosure"} -->
+# General Business Law § 399-T*2 — Vending machine disclosure
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 399-t. Vending machine disclosure. 1. Definitions. For purposes of
+this article, "vending machine" shall mean and include a coin operated
+machine used to sell merchandise and/or services but shall not include a
+coin operated telephone.
+  2. Notice requirements relating to vending machines. Every vending
+machine available for use by the public in this state shall have a
+notice prominently affixed thereto which indicates the name, address,
+and telephone number of the owner and/or operator of such machine or the
+name, address and telephone number of an individual designated by such
+owner/operator to maintain said machine. Said notice provisions of this
+section shall not apply in instances where a vending machine is attended
+by a person capable of administering a refund.
+  3. Any individual, firm, partnership, corporation, association,
+company or organization which owns or leases such vending machine and
+knowingly fails to comply with the requirements of this section shall be
+assessed a civil penalty not to exceed fifty dollars for the first
+violation, one hundred dollars for a second violation and two hundred
+fifty dollars for any subsequent violation provided, however, that
+multiple violations of subdivision two of this section which
+concurrently occur within the same public area designated for the
+operation of vending machines shall, for purposes of assessing a penalty
+under this subdivision, constitute a single violation against such
+individual, firm, partnership, corporation, association, company, or
+organization which owns and/or leases such machines. Each day such
+offense shall continue shall constitute a separate additional violation.
+It shall be a defense to the imposition of any such civil penalty if the
+owner or operator posted a notice as required by this section and such
+notice was removed or defaced by vandals, provided the owner or operator
+subsequently complies with the requirements of this section.
+  4. This section shall not annul, alter, affect or exempt any person,
+firm, partnership, corporation, association, company or organization
+subject to the provisions of this section from complying with the laws,
+ordinances, rules or regulations of any locality, relating to the
+posting of vending machine notices, except to the extent that these
+laws, ordinances, rules or regulations are inconsistent with any
+provision of this section, but no such local law, ordinance, rule or
+regulation shall be considered inconsistent, if it affords greater
+protection to the consumer.
+  * NB There are 2 § 399-t's
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4136", "kind": "section", "law_id": "PBH", "location_id": "4136", "path": "ARTICLE 41 › TITLE 3 › SECTION 4136", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4136.md", "title": "Birth certificate; statement as to blood test"} -->
+# Public Health Law § 4136 — Birth certificate; statement as to blood test
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
+
+```text
+  § 4136. Birth certificate; statement as to blood test. 1. In reporting
+every birth and fetal death, physicians and others permitted to attend
+pregnancy cases and required to report births and fetal deaths shall
+state on the birth certificate or fetal death certificate, as the case
+may be, whether a blood test for syphilis has been made during such
+pregnancy upon a specimen of blood taken from the woman who bore the
+child for which a birth or fetal death certificate is filed.
+  2. In addition to the information provided to be contained in each
+certificate of birth by this article every certificate of birth shall
+state whether such test was made during pregnancy or at delivery, and in
+the case where no blood test has been made such fact shall be reported
+together with the reason why such test has not been taken in compliance
+with the provisions of section two thousand three hundred eight of this
+chapter.
+  3. If such test has been made during pregnancy, those required to
+report births and fetal deaths shall state the date on which the test
+was made.
+  4. In no event shall the birth certificate state the result of the
+blood test.
+```

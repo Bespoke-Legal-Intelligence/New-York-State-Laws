@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Education Law § 608", "kind": "section", "law_id": "EDN", "location_id": "608", "path": "TITLE 1 › ARTICLE 13 › SECTION 608", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/608.md", "title": "World trade center memorial scholarships"} -->
+# Education Law § 608 — World trade center memorial scholarships
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 13 — Higher Education Student Financial Aid Programs](README.md)
+
+```text
+  § 608. World trade center memorial scholarships. 1. Notwithstanding
+subdivisions three and five of section six hundred sixty-one of this
+title, children, spouses and financial dependents of innocent victims
+who have died or have been severely and permanently disabled, or those
+innocent victims who have become severely and permanently disabled as a
+direct result of an injury sustained in the impact area of the September
+eleventh, two thousand one attack on the United States of America, shall
+be eligible to receive a scholarship in an annual amount determined
+pursuant to subdivision two of section six hundred sixty-eight-d of this
+title. The attack on the United States of America shall consist of the
+attack on the world trade center, the attack on the Pentagon and the
+hijackings and crashes of United Airlines flights 93 and 175 and
+American Airlines flights 11 and 77.
+  2. Awards under this section shall be payable for each of not more
+than four academic years of undergraduate study or five academic years
+if a program normally requires five years, as defined by the
+commissioner pursuant to this article.
+```

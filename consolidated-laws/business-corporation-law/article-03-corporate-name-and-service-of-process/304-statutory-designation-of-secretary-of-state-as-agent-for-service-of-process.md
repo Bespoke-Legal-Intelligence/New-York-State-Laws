@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 304", "kind": "section", "law_id": "BSC", "location_id": "304", "path": "ARTICLE 3 › SECTION 304", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/304.md", "title": "Statutory designation of secretary of state as agent for service of process"} -->
+# Business Corporation Law § 304 — Statutory designation of secretary of state as agent for service of process
+
+[Business Corporation Law](../README.md) › [Article 3 — Corporate Name and Service of Process](README.md)
+
+```text
+  § 304. Statutory designation of secretary of state as agent for
+service of process.
+  (a) The secretary of state shall be the agent of every domestic
+corporation and every authorized foreign corporation upon whom process
+against the corporation may be served.
+  (b) No domestic or foreign corporation may be formed or authorized to
+do business in this state under this chapter unless in its certificate
+of incorporation or application for authority it designates the
+secretary of state as such agent.
+  (c) Any designation by a domestic or a foreign corporation of the
+secretary of state as such agent, which designation is in effect on the
+effective date of this chapter, shall continue. Every domestic or
+foreign corporation, existing or authorized on the effective date of
+this chapter, which has not designated the secretary of state as such
+agent, shall be deemed to have done so. Any designation prior to the
+effective date of this chapter by a foreign corporation of an agent
+other than the secretary of state shall terminate on the effective date
+of this chapter.
+  (d) Any designated post-office address to which the secretary of state
+shall mail a copy of process served upon him as agent of a domestic
+corporation or a foreign corporation, shall continue until the filing of
+a certificate under this chapter directing the mailing to a different
+post-office address.
+```

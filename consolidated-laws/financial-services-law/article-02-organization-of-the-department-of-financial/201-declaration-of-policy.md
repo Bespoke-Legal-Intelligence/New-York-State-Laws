@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Financial Services Law § 201", "kind": "section", "law_id": "FIS", "location_id": "201", "path": "ARTICLE 2 › SECTION 201", "repealed": false, "repealed_date": null, "source": "nys-laws:FIS/201.md", "title": "Declaration of policy"} -->
+# Financial Services Law § 201 — Declaration of policy
+
+[Financial Services Law](../README.md) › [Article 2 — Organization of the Department of Financial Services](README.md)
+
+```text
+  § 201. Declaration of policy. (a) It is the intent of the legislature
+that the superintendent shall supervise the business of, and the persons
+providing, financial products and services, including any persons
+subject to the provisions of the insurance law and the banking law.
+  (b) The superintendent shall take such actions as the superintendent
+believes necessary to:
+  (1) foster the growth of the financial industry in New York and spur
+state economic development through judicious regulation and vigilant
+supervision;
+  (2) ensure the continued solvency, safety, soundness and prudent
+conduct of the providers of financial products and services;
+  (3) ensure fair, timely and equitable fulfillment of the financial
+obligations of such providers;
+  (4) protect users of financial products and services from financially
+impaired or insolvent providers of such services;
+  (5) encourage high standards of honesty, transparency, fair business
+practices and public responsibility;
+  (6) eliminate financial fraud, other criminal abuse and unethical
+conduct in the industry; and
+  (7) educate and protect users of financial products and services and
+ensure that users are provided with timely and understandable
+information to make responsible decisions about financial products and
+services.
+```

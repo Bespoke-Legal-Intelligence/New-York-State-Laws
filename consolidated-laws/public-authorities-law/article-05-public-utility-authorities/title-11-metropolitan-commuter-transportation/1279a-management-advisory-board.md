@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1279-A", "kind": "section", "law_id": "PBA", "location_id": "1279-A", "path": "ARTICLE 5 › TITLE 11 › SECTION 1279-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1279-A.md", "title": "Management advisory board"} -->
+# Public Authorities Law § 1279-A — Management advisory board
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11 — Metropolitan Commuter Transportation Authority](README.md)
+
+```text
+  § 1279-a. Management advisory board. 1. There is hereby created in the
+office of the metropolitan transportation authority inspector general a
+management advisory board, consisting of thirteen members appointed by
+the governor, of whom two shall be appointed upon nomination by the
+temporary president of the senate, two upon nomination by the speaker of
+the assembly, one upon nomination by the minority leader of the senate
+and one upon nomination by the minority leader of the assembly. All
+members shall serve for a term of three years, except that, of the two
+members first appointed upon nomination by the temporary president of
+the senate, one shall serve for a term of two years and one shall serve
+for a term of one year; of the two members first appointed upon
+nomination by the speaker of the assembly, one shall serve for a term of
+two years and one shall serve for a term of one year; and, of two of the
+members first appointed by the governor without nomination by any other
+person, two shall each serve for a term of two years and two shall each
+serve for a term of one year. One of the members appointed to the
+management advisory board directly by the governor shall be designated
+by the governor to serve as its chairman.
+  2. All members of the management advisory board shall be residents of
+the metropolitan transportation district, and shall be persons with
+substantial experience in the management of private enterprise, in the
+delivery of public services, or in labor or labor-management relations.
+  3. The management advisory board shall assist the metropolitan
+transportation authority inspector general in identifying ways to
+improve services, reduce costs and increase the efficiency of the
+authority and its subsidiaries, the Triborough bridge and tunnel
+authority or the New York city transit authority and its subsidiary.
+  4. No later than April first, nineteen hundred eighty-four, and
+annually thereafter, the management advisory board shall submit to the
+governor and the legislature a report on its activities during the
+previous year.
+  5. The office of the metropolitan transportation authority inspector
+general shall provide the management advisory board with such staff
+support as may be required for the performance of its duties.
+  6. Members of the management advisory board shall serve without
+compensation, but shall be reimbursed for expenses reasonably incurred
+in the performance of their duties.
+```

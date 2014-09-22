@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 265", "kind": "section", "law_id": "GBS", "location_id": "265", "path": "ARTICLE 16 › SECTION 265", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/265.md", "title": "Ice cutting and ice bridges"} -->
+# General Business Law § 265 — Ice cutting and ice bridges
+
+[General Business Law](../README.md) › [Article 16 — Ice](README.md)
+
+```text
+  § 265. Ice cutting and ice bridges. A person or corporation cutting
+ice in or upon any waters within the boundaries of this state for the
+purpose of removing the ice for sale or use, must surround the cuttings
+and openings made with fences or guards of boards or other material
+sufficient to form an obstruction to the free passage of persons through
+such fences or guards into the place where such ice is being cut. Such
+fences or guards must be erected at or before the time of commencing the
+cuttings or openings, and must be maintained until ice has again formed
+therein to the thickness of at least three inches, or until the ice
+about such openings has melted or broken up. Whoever omits to comply
+with this section is guilty of a misdemeanor.
+```

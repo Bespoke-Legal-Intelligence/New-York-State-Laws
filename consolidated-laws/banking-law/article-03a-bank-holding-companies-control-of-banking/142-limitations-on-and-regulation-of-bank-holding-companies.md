@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 142", "kind": "section", "law_id": "BNK", "location_id": "142", "path": "ARTICLE 3-A › SECTION 142", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/142.md", "title": "Limitations on, and regulation of, bank holding companies"} -->
+# Banking Law § 142 — Limitations on, and regulation of, bank holding companies
+
+[Banking Law](../README.md) › [Article 3-A — Bank Holding Companies; Control of Banking Institutions](README.md)
+
+```text
+  § 142. Limitations on, and regulation of, bank holding companies. 1.
+It shall be unlawful for any person knowingly to borrow, directly or
+indirectly, any money or property for the purpose of enabling such
+person to pay for or to hold shares of stock of a bank holding company
+from any subsidiary of such bank holding company, unless such borrowing
+is made upon security having an ascertained market value of at least
+fifteen per centum more than the amount thereof. Any person knowingly
+violating the provisions of this subdivision shall, for each offense,
+forfeit to the people of the state twice the amount of such borrowing.
+  2. Except in conformity with such rules and regulations as may be
+promulgated by the superintendent, it shall be unlawful for any
+executive officer or director of a bank holding company to borrow any
+sum of money from any subsidiary of such bank holding company. Every
+executive officer or director of such bank holding company violating the
+provisions of this subdivision shall, for each offense, forfeit to the
+people of the state twice the amount of such borrowing or borrowings.
+```

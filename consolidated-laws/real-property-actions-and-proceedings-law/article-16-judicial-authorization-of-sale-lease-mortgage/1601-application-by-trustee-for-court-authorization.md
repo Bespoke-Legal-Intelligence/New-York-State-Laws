@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1601", "kind": "section", "law_id": "RPA", "location_id": "1601", "path": "ARTICLE 16 › SECTION 1601", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1601.md", "title": "Application by trustee for court authorization to mortgage, to lease, to sell, to acquire or to exchange real property or for confirmatio..."} -->
+# Real Property Actions and Proceedings Law § 1601 — Application by trustee for court authorization to mortgage, to lease, to sell, to acquire or to exchange real property or for confirmatio...
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 16 — Judicial Authorization of Sale, Lease, Mortgage, Acquisition, Exchange or Voluntary Partition](README.md)
+
+```text
+  § 1601. Application by trustee for court authorization to mortgage, to
+lease, to sell, to acquire or to exchange real property or for
+confirmation of a lease of real property. 1. When the assets of a trust
+include an interest in real property, the trustee may apply to the court
+designated in section 1603, and in the case of a testamentary trust, to
+the court having jurisdiction thereof, for an order authorizing such
+trustee to mortgage, to lease or to sell such real property or a part
+thereof; or to acquire land adjacent to such real property or to
+exchange a portion of such real property for lands adjacent to such real
+property when either such acquisition or exchange would tend to improve
+the boundary lines of such real property; or to confirm a lease for a
+term longer than ten years made by a trustee of such real property
+without obtaining prior authorization by a court.
+  2. An application for an order authorizing a trustee to acquire land
+adjacent to real property in which the trustee has an interest, or as to
+which he has a power of sale, may also be made when such real property
+and the adjacent land to be acquired have the same building or
+physically connected buildings thereon.
+```

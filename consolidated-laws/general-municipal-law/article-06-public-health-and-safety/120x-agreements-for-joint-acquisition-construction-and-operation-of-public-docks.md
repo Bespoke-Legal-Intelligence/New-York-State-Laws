@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 120-X", "kind": "section", "law_id": "GMU", "location_id": "120-X", "path": "ARTICLE 6 › SECTION 120-X", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/120-X.md", "title": "Agreements for joint acquisition, construction and operation of public docks"} -->
+# General Municipal Law § 120-X — Agreements for joint acquisition, construction and operation of public docks
+
+[General Municipal Law](../README.md) › [Article 6 — Public Health and Safety](README.md)
+
+```text
+  § 120-x. Agreements for joint acquisition, construction and operation
+of public docks. A town and one or more villages situated wholly or
+partly within such town are hereby empowered to enter into an agreement
+for the joint acquisition, construction and operation of a public dock.
+Such agreement shall provide for the method of acquisition or
+construction of the public dock; the management and operation thereof;
+the method of fixing the proportionate share of each participating
+municipality and of making contributions; the method of making annual
+adjustments of the proportionate shares of the annual cost and expense;
+the adoption of rules and regulations in relation to the operation of
+the dock and the conditions of use; the adjudication of disputes; and
+other matters necessary to effectuate such an arrangement.  The share of
+the capital cost apportioned to the town and the village or villages
+respectively may be financed by each such municipality respectively in
+the manner provided in the local finance law. The share of the cost of
+operation and maintenance to be paid by the town and debt service on
+obligations issued to finance the town's share of capital cost shall be
+included in the annual budget of the town and shall be levied against
+the taxable real property in the town situated outside of such
+participating village or villages. The share of the cost of operation
+and maintenance to be paid by a village and debt service on obligation
+issued to finance a village's share of capital cost shall be included in
+the annual budget of such village and shall be levied against the
+taxable real property in the village. Nothing herein contained shall be
+construed to restrict or prohibit the exercise by the town of any
+existing power or authority to provide dock facilities in any village
+situated within such town.
+```

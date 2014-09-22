@@ -1,0 +1,95 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "GCT", "location_id": "25-AP1-6", "path": "ARTICLE 2-D › PART 1-6", "source": "nys-laws:GCT/25-AP1-6.md", "title": "City Personal Income Tax On Residents"} -->
+# Part 1-6 — City Personal Income Tax On Residents
+
+[General City Law](../../README.md) › [Article 2-D — City Personal Income Tax On Residents](../README.md)
+
+## Contents
+
+- [Part 1 — General](part-1-gene/)
+- [Part 2 — Residents](part-2-resi/)
+- [Part 3 — Returns, Declarations and Payment of Tax](part-3-retu/)
+- [Part 4 — Withholding of Tax](part-4-with/)
+- [Part 5 — Procedure and Administration](part-5-proc/)
+- [Part 6 — Miscellaneous](part-6-misc/)
+
+<details>
+<summary>Official heading of Part 1-6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                  CITY PERSONAL INCOME TAX ON RESIDENTS
+                                 PART I
+                                 GENERAL
+Section   1.   Meaning of terms.
+          2.   Persons subject to tax.
+          3.   Rate of tax.
+          3-A. Rate of tax.
+          4.   Taxable years to which tax applies; tax for taxable years
+                 beginning prior to and ending after July first,
+                 nineteen hundred sixty-six.
+          5.   Accounting periods and methods.
+          6.   Resident and nonresident defined.
+                                 PART II
+                                RESIDENTS
+Section  11. City taxable income of a resident individual.
+         12. City adjusted gross income of a resident individual.
+         13. City deduction of a resident individual.
+         14. City standard deduction of a resident individual.
+         15. City itemized deduction of a resident individual.
+         16. City personal exemptions of a resident individual.
+         17. Resident partners.
+         18. City taxable income of a resident estate or trust.
+         19. Share of a resident estate, trust or beneficiary in city
+               fiduciary adjustment.
+         20. Credit to trust beneficiary receiving accumulation
+               distribution.
+                                PART III
+                RETURNS, DECLARATIONS AND PAYMENT OF TAX
+Section  31. Returns and liabilities.
+         32. Time and place for filing returns and paying tax.
+         33. Signing of returns and other documents.
+         34. Change of residence status during the year.
+         35. Declarations of estimated tax.
+         36. Payments of estimated tax.
+         37. Extensions of time.
+         38. Requirements concerning returns, notices, records and
+               statements.
+         39. Report of change in federal taxable income.
+         40. Change of election.
+         41. Declaration of estimated tax for taxable years beginning
+               prior to the date this local law becomes effective.
+                                 PART IV
+                           WITHHOLDING OF TAX
+Section  51. Requirement of withholding tax from wages.
+         52. Information statement for employee.
+         53. Credit for tax withheld.
+         54. Employer's return and payment of withheld taxes.
+         55. Employer's liability for withheld taxes.
+         56. Employer's failure to withhold.
+                                 PART V
+                      PROCEDURE AND ADMINISTRATION
+Section  61. Notice of deficiency.
+         62. Assessment.
+         63. Limitations on assessment.
+         64. Interest on underpayment.
+         65. Additions to tax and civil penalties.
+         66. Overpayment.
+         67. Limitations on credit or refund.
+         68. Interest on overpayment.
+         69. Petition to administrator.
+         70. Review of administrator's decision.
+         71. Mailing rules; holidays.
+         72. Collection, levy and liens.
+         73. Transferees.
+         74. Jeopardy assessment.
+         75. Criminal penalties.
+         76. Armed forces relief provisions.
+         77. General powers of administrator.
+         78. Secrecy requirement and penalties for violation.
+                                 PART VI
+                              MISCELLANEOUS
+Section  90. Deposit and disposition of revenues by administrator.
+         91. Effect of invalidity in part; inconsistencies with other
+               laws.
+```
+
+</details>

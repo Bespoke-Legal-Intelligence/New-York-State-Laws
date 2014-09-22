@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 498", "kind": "section", "law_id": "BNK", "location_id": "498", "path": "ARTICLE 11-B › SECTION 498", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/498.md", "title": "Complaints"} -->
+# Banking Law § 498 — Complaints
+
+[Banking Law](../README.md) › [Article 11-B — Sales Finance Companies](README.md)
+
+```text
+  § 498. Complaints. 1. Any buyer having reason to believe that this
+article, or any other law regulating retail instalment sales, contracts,
+obligations or credit agreements, has been violated by any person may
+file with the superintendent a written complaint setting forth the
+details of such alleged violation. Upon receipt of such complaint, the
+superintendent, or any person duly designated by him, may inspect the
+pertinent books, records, letters and contracts of any licensee, and of
+any retail seller or other person involved, relating to such specific
+written complaint.
+  2. The superintendent or any person duly designated by him, shall have
+the power to hold hearings upon such complaints and to determine the
+time and place in this state, reasonably convenient to the parties
+involved, where they shall be held.
+  3. The superintendent shall make findings on any complaint on which a
+hearing has been held. The investigation, notice and hearing shall be in
+accordance with the provisions of this article and one copy of the
+findings shall be given to each such person involved in the complaint.
+  4. No licensee or other person shall be subject to examination or
+investigation by the superintendent except as provided in this article.
+The superintendent shall have only such powers as are expressly
+delegated to him by this article.
+```

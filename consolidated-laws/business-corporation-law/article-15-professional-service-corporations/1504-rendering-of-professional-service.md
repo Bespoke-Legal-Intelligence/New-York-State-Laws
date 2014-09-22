@@ -1,0 +1,44 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 1504", "kind": "section", "law_id": "BSC", "location_id": "1504", "path": "ARTICLE 15 › SECTION 1504", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/1504.md", "title": "Rendering of professional service"} -->
+# Business Corporation Law § 1504 — Rendering of professional service
+
+[Business Corporation Law](../README.md) › [Article 15 — Professional Service Corporations](README.md)
+
+```text
+§ 1504. Rendering of professional service.
+  (a) No professional service corporation, including a design
+professional service corporation, may render professional services
+except through individuals authorized by law to render such professional
+services as individuals.
+  (b) Each final plan and report made or issued by a corporation
+practicing one or more of the professions of professional engineering,
+architecture, landscape architecture or land surveying shall bear the
+name and seal of one or more professional engineers, architects,
+landscape architects, or land surveyors, respectively, who are in
+responsible charge of such plan or report.
+  (c) Each report, diagnosis, prognosis, and prescription made or issued
+by a corporation practicing medicine, dentistry, podiatry, optometry,
+ophthalmic dispensing, veterinary medicine, pharmacy, nursing,
+physiotherapy or chiropractic shall bear the signature of one or more
+physicians, dentists, podiatrists, optometrists, ophthalmic dispensers,
+veterinarians, pharmacists, nurses, physiotherapists, or chiropractors,
+respectively, who are in responsible charge of such report, diagnosis,
+prognosis, or prescription.
+  (d) Each record, transcript, report and hearing report prepared by a
+corporation practicing certified shorthand reporting shall bear the
+signature of one or more certified shorthand reporters who are in
+responsible charge of such record, transcript, report, or hearing
+report.
+  (e) Each corporation practicing public accounting or certified public
+accounting shall maintain records indicating the identity of each public
+accountant or certified public accountant, respectively, who was
+responsible for each report or statement which is issued prepared or
+examined by such corporation.
+  (f) Each opinion prepared by a corporation practicing law shall bear
+the signature of one or more attorneys and counsellors-at-law who are in
+responsible charge of such opinion.
+  (g) In addition to the requirements in subdivisions (b) through (f),
+inclusive, each document prepared by a corporation which under the
+rules, regulations, laws or customs of the applicable profession is
+required to bear the signature of an individual in responsible charge of
+such document, shall be signed by one or more such individuals.
+```

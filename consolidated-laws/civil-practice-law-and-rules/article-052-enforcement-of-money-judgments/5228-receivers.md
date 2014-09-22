@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5228", "kind": "section", "law_id": "CVP", "location_id": "5228", "path": "ARTICLE 52 › SECTION 5228", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5228.md", "title": "Receivers"} -->
+# Civil Practice Law and Rules § 5228 — Receivers
+
+[Civil Practice Law and Rules](../README.md) › [Article 52 — Enforcement of Money Judgments](README.md)
+
+```text
+  § 5228. Receivers. (a) Appointment of receiver. Upon motion of a
+judgment creditor, upon such notice as the court may require, the court
+may appoint a receiver who may be authorized to administer, collect,
+improve, lease, repair or sell any real or personal property in which
+the judgment debtor has an interest or to do any other acts designed to
+satisfy the judgment. As far as practicable, the court shall require
+that notice be given to the judgment debtor and to any other judgment
+creditors of the judgment debtor. The order of appointment shall specify
+the property to be received, the duties of the receiver and the manner
+in which they are to be performed. A receiver shall have no power to
+employ counsel unless expressly so authorized by order of the court.  A
+receiver shall be entitled to necessary expenses and to such
+commissions, not exceeding five percent of the sums received and
+disbursed by him, as the court which appointed him allows, but if a
+judgment creditor is appointed receiver, he shall not be entitled to
+compensation. If a receiver has been appointed, a court making an order
+directing payment, or delivery, of property shall direct that payment,
+or delivery, be made to the receiver rather than to a sheriff. Sections
+6402, 6403, 6404 and 6405 are applicable to receivers appointed under
+this subdivision.
+  (b) Extension of receivership. Where a receiver has been appointed,
+the court, upon motion of a judgment creditor, upon such notice as it
+may require, shall extend the receivership to his judgment.
+```

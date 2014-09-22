@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 296", "kind": "section", "law_id": "LAB", "location_id": "296", "path": "ARTICLE 11 › TITLE 4 › SECTION 296", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/296.md", "title": "Laundries"} -->
+# Labor Law § 296 — Laundries
+
+[Labor Law](../../README.md) › [Article 11 — Factories](../README.md) › [Title 4 — Sanitation](README.md)
+
+```text
+  § 296. Laundries. A shop, room or building where one or more persons
+are employed in doing public laundry work by way of trade or for
+purposes of gain is a factory within the meaning of this chapter and
+subject to the provisions relating to factories. No such public laundry
+work shall be done in a room used for sleeping or living purposes. All
+such laundries shall be kept in a clean condition and free from vermin
+and from all impurities of an infectious or contagious nature.  This
+section shall not apply to a female doing custom laundry work at her
+home for regular family trade.
+```

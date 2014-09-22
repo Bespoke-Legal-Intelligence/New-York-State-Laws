@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 333", "kind": "section", "law_id": "PML", "location_id": "333", "path": "ARTICLE 3 › SECTION 333", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/333.md", "title": "New York state exposition harness racing"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 333 — New York state exposition harness racing
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 3 — Harness Racing and Breeding](README.md)
+
+```text
+  § 333. New York state exposition harness racing. The fund is
+authorized and empowered to disburse annually as purses, prizes or
+premiums the moneys contained in the account designated in paragraph d
+of subdivision one of section three hundred thirty-two of this article,
+to owners of the winners, second, third, fourth and fifth place horses
+of all harness horse stake and overnight races conducted at the New York
+state exposition, or at any licensed pari-mutuel track in New York
+state, with a preference given to any available licensed pari-mutuel
+track that is five-eighths of a mile long or larger, for New York-bred
+colts, fillies and horses, as such New York-bred colts, fillies and
+horses comply with conditions for stake and overnight events set forth
+in section three hundred thirty-four of this article.
+```

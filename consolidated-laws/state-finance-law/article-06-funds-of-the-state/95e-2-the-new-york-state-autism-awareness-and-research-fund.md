@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 95-E*2", "kind": "section", "law_id": "STF", "location_id": "95-E*2", "path": "ARTICLE 6 › SECTION 95-E*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/95-E_2.md", "title": "The New York state autism awareness and research fund"} -->
+# State Finance Law § 95-E*2 — The New York state autism awareness and research fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 95-e. The New York state autism awareness and research fund. 1.
+There is hereby established in the joint custody of the commissioner of
+taxation and finance and the comptroller, a special fund to be known as
+the New York state autism awareness and research fund.
+  2. Such fund shall consist of all revenues received pursuant to the
+provisions of section four hundred four-v of the vehicle and traffic
+law, and all other moneys appropriated, credited, or transferred thereto
+from any other fund or source pursuant to law. Nothing contained in this
+section shall prevent the state from receiving grants, gifts or bequests
+for the purposes of the fund as defined in this section and depositing
+them into the fund according to law.
+  3. (a) Monies of the fund shall be expended only for autism awareness
+projects or autism research projects approved by the department of
+health in New York state provided, however, that no more than ten
+percent of monies from such fund shall be expended on the aggregate
+number of autism research projects approved in a fiscal year.
+  (b) As used in this section, the term "autism research project" means
+scientific research approved by the department of health into the causes
+and/or treatment of autism, and the term "autism awareness project"
+means a project approved by the department of health aimed toward
+educating the general public about the causes, symptoms, and treatments
+of autism.
+  4. Monies shall be payable from the fund on the audit and warrant of
+the comptroller on vouchers approved and certified by the commissioner
+of health.
+  5. To the extent practicable, the commissioner of health shall ensure
+that all monies received during a fiscal year are expended prior to the
+end of that fiscal year.
+  * NB There are 2 § 95-e's
+```

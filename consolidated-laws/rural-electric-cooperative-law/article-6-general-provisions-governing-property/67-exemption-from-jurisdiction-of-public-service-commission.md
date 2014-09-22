@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Rural Electric Cooperative Law § 67", "kind": "section", "law_id": "REL", "location_id": "67", "path": "ARTICLE 6 › SECTION 67", "repealed": false, "repealed_date": null, "source": "nys-laws:REL/67.md", "title": "Exemption from jurisdiction of public service commission and from the provisions of the public service law"} -->
+# Rural Electric Cooperative Law § 67 — Exemption from jurisdiction of public service commission and from the provisions of the public service law
+
+[Rural Electric Cooperative Law](../README.md) › [Article 6 — General Provisions Governing Property and Affairs](README.md)
+
+```text
+  § 67. Exemption from jurisdiction of public service commission and
+from the provisions of the public service law. Cooperatives and foreign
+corporations doing business in this state pursuant to this chapter shall
+be exempt in all respects from the jurisdiction and control of the
+public service commission of this state and shall not be subject to the
+provisions of the public service law. Each cooperative, however, shall
+file with the public service commission an annual report verified by the
+oath of the president, vice-president, treasurer, secretary, general
+manager, or receiver, if any. The report shall show in detail
+  (a) The number of its members;
+  (b) The amount of its bonded indebtedness and other outstanding
+indebtedness;
+  (c) Its receipts and expenditures during the preceding year;
+  (d) The amount paid in reduction of its indebtedness and as interest
+upon its indebtedness;
+  (e) The names of its officers and the aggregate amount paid as
+salaries to them and the amount paid as wages to its employees;
+  (f) The location of its plant or plants and system, with a full
+description of its property and franchises.
+```

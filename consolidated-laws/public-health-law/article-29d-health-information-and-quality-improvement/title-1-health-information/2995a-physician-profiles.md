@@ -1,0 +1,233 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2995-A", "kind": "section", "law_id": "PBH", "location_id": "2995-A", "path": "ARTICLE 29-D › TITLE 1 › SECTION 2995-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2995-A.md", "title": "Physician profiles"} -->
+# Public Health Law § 2995-A — Physician profiles
+
+[Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 1 — Health Information](README.md)
+
+```text
+  § 2995-a. Physician profiles. 1. The department shall collect the
+following information and create individual profiles on licensees
+subject to the authority of the office of professional medical conduct,
+in a format that shall be available for dissemination to the public:
+  (a) a statement of any criminal convictions (as defined by section
+1.20 of the criminal procedure law) within the most recent ten years,
+under the laws of New York state or any other jurisdiction, for offenses
+specified by regulations of the department;
+  (b) a statement of any action (other than an action that remains
+confidential) taken against the licensee pursuant to section two hundred
+thirty of this chapter or any similar action taken by any other state or
+licensing entity, within the most recent ten years;
+  (c) a statement of any current limitation of the licensee to a
+specified area, type, scope or condition of practice;
+  (d) a statement of any loss or involuntary restriction of hospital
+privileges or a failure to renew professional privileges at hospitals
+within the last ten years, for reasons related to the quality of patient
+care delivered or to be delivered by the physician where procedural due
+process has been afforded, exhausted, or waived, or the resignation from
+or removal of medical staff membership or restriction of privileges at a
+hospital taken in lieu of a pending disciplinary case related to the
+quality of patient care delivered or to be delivered by the physician
+(notwithstanding paragraph (a) of subdivision three of section
+twenty-eight hundred three-e of this chapter, as added by chapter eight
+hundred sixty-six of the laws of nineteen hundred eighty);
+  (e) (i) a statement indicating the number of medical malpractice court
+judgments and arbitration awards within the most recent ten years in
+which a payment is awarded to a complaining party (notwithstanding
+subsection (f) of section three hundred fifteen of the insurance law);
+and
+  (ii) a statement indicating all malpractice settlements within the
+most recent ten years in which payment is awarded to a complaining party
+(notwithstanding subsection (f) of section three hundred fifteen of the
+insurance law),
+  (A) if the total number of settlements exceeds two; or
+  (B) if the commissioner determines any such settlement could be
+relevant to patient decisionmaking concerning health care quality. The
+statement shall include the following: "Settlement payments will appear
+in this profile only if the total number of settlements made within the
+past ten years exceeds two, or if the commissioner of health determines
+a settlement to be relevant to patient decisionmaking. Settlement of a
+claim may occur for a variety of reasons, which do not necessarily
+reflect negatively on the professional competence or conduct of the
+physician. A payment in settlement of a medical malpractice action or
+claim does not necessarily mean that a medical malpractice has
+occurred." The commissioner may supplement such statement as may be
+appropriate.
+  (iii) judgments, awards and settlements shall be reported in graduated
+categories indicating the level of significance, date and place of the
+judgment, award or settlement. Information concerning medical
+malpractice judgments, awards and settlements shall be put in context by
+comparing an individual licensee's medical malpractice settlements to
+the experience of other physicians in New York state within the same
+board specialty. Pending malpractice claims shall not be disclosed to
+the public under this section. Nothing herein shall be construed to
+prevent the board from investigating or disciplining a licensee on the
+basis of medical malpractice claims that are pending;
+  (f) name of medical schools attended and date of graduations;
+  (g) graduate medical education;
+  (h) current speciality board certification and date of certification;
+  (i) dates admitted to practice in New York state;
+  (j) names of hospitals where the licensee has practice privileges;
+  (k) appointments to medical school faculties and indication as to
+whether a licensee has had a responsibility for graduate medical
+education within the most recent ten years;
+  (l) information regarding publications in peer reviewed medical
+literature within the most recent ten years;
+  (m) information regarding professional or community service activities
+or awards;
+  (n) (i) the location of the licensee's primary practice setting
+identified as such; and
+  (ii) the names of any licensed physicians with whom the licensee
+shares a group practice, as defined in subdivision five of section two
+hundred thirty-eight of this chapter;
+  (o) the identification of any translating services that may be
+available at the licensee's primary practice location;
+  (p) whether the licensee participates in the medicaid or medicare
+program or any other state or federally financed health insurance
+program; and
+  (q) health care plans with which the licensee has contracts,
+employment, or other affiliation.
+  1-a. Each physician licensed and registered to practice in this state
+shall within one hundred twenty days of the effective date of this
+subdivision and upon entering or updating his or her profile
+information:
+  (a) register and maintain an account with the department's health
+provider network and any successor electronic system established to
+facilitate communications between the department and licensed health
+care providers; or
+  (b) provide an e-mail address to the department which shall be used by
+the department to communicate with the physician. Licensees shall
+provide notice to the department of changed e-mail addresses within
+thirty days of the change. Licensee e-mail addresses shall be
+confidential and shall not be published as part of the licensee's
+profile. The e-mail addresses may be used for department purposes only.
+  2. Nothing in this section shall limit the department's authority to
+collect, require reporting of, publish or otherwise disseminate
+information about licensees.
+  3. Each physician who is self-insured for professional medical
+malpractice shall periodically report to the department on forms and in
+the time and manner required by the commissioner the information
+specified in paragraph (f) of subdivision one of this section, except
+that the physician shall report the dollar amount (to the extent of the
+physician's information and belief) for each judgment, award and
+settlement and not a level of significance or context.
+  4. Each physician shall periodically report to the department on forms
+and in the time and manner required by the commissioner any other
+information as is required by the department for the development of
+profiles under this section which is not otherwise reasonably
+obtainable. In addition to such periodic reports and providing the same
+information, each physician shall update his or her profile information
+within the six months prior to the expiration date of such physician's
+registration period, as a condition of registration renewal under
+article one hundred thirty-one of the education law.
+  5. The department shall provide each licensee with a copy of his or
+her profile prior to dissemination to the public. In the manner and time
+required by the commissioner, a licensee shall be provided the
+opportunity to correct factual inaccuracies that appear in the profile.
+The physician shall be permitted to file a concise statement concerning
+information contained in the profile, which shall be disseminated
+therewith.
+  6. A physician may elect to have his or her profile omit certain
+information provided pursuant to paragraphs (l), (m), (n) and (q) of
+subdivision one of this section. In collecting information for such
+profiles and disseminating the same, the department shall inform
+physicians that they may choose not to provide such information required
+pursuant to paragraphs (l), (m), (n) and (q) of subdivision one of this
+section.
+  7. A physician who knowingly provides materially inaccurate
+information under this section shall be guilty of professional
+misconduct pursuant to section sixty-five hundred thirty of the
+education law.
+  8. The department shall establish a toll-free telephone number through
+which it shall answer inquiries about and accept orders for hard copy
+physician profiles established pursuant to this section and accept
+consumer complaints about suspected professional misconduct. The
+department may charge a nominal fee for producing and mailing a hard
+copy physician profile.
+  9. The department shall, in addition to hard copy physician profiles,
+provide for electronic access to and copying of physician profiles
+developed pursuant to this section through the system commonly known as
+the Internet.
+  10. The commissioner shall require that:
+  (a) Practitioner organizations that are representative of the target
+group for profiling, and health care consumer organizations, be provided
+the opportunity to review and comment on the profiling methodology,
+including collection methods, analysis, formatting, and methods and
+means for release and dissemination.
+  (b) Comparisons of practitioner profiles shall be organized according
+to practitioner areas of practice.
+  11. The commissioner shall evaluate the utility and practicability of
+including in the profile a comparison of malpractice data by geographic
+area. However, the implementation of the profile shall not be delayed
+pending such evaluation.
+  12. The commissioner shall develop and distribute a notice suitable
+for posting that informs consumers of the availability of physician
+profiles and the telephone numbers and Internet addresses for accessing
+them.
+  13. Further study of physician profiles. After the initial
+dissemination of the data identified in subdivision one of this section,
+the department shall conduct a further study of physician profiles as
+follows:
+  (a) Data sources. The department shall identify the types of physician
+data to which the public has access, including all information available
+from federal, state or local agencies which is useful for making
+determinations concerning health care quality determinations. The
+department shall study all physician data reporting requirements and
+develop recommendations to consolidate data collection and eliminate
+duplicate and unnecessary reporting requirements, or to supplement
+existing reporting requirements in order to satisfy the requirements of
+this section.
+  (b) Supplemental information adjustment and security safeguards. The
+department shall develop a methodology for application to collected
+physician data that accounts for factors such as frequency, severity and
+geographic area which shall be used to provide context to reported data.
+Any such methodology shall not diminish the information reported
+pursuant to subdivision one of this section. In developing such
+methodology, the department may consult with physicians, including
+representatives of appropriate specialty societies. The department may
+also consult with organizations representing consumers, other health
+care providers, and health care plans. Any such methodology shall
+include adequate and appropriate safeguards to ensure the security,
+accuracy and integrity of health information created, received,
+maintained, used or transmitted in connection with the statewide health
+information system. Such safeguards shall be sufficient to meet any
+minimum standards set by state and federal laws and regulations.
+  (c) Public review. The department shall provide organizations which
+are representative of consumers, physicians, including representatives
+of appropriate specialty societies, other health care providers and
+health care plans the opportunity to review and comment on its
+determinations and recommendations. The department shall consider such
+comments, and may amend its determinations and recommendations to
+reflect them.
+  (d) Report. The department shall provide a report of its
+determinations and recommendations to the governor and legislature, and
+make such report publicly available, within six months of the effective
+date of this section.
+  (e) Application. The department shall thereafter apply such
+methodology to the data to be disseminated in physician profiles.
+  14. The physician data so disseminated shall be updated at regular
+intervals to be determined by the department.
+  15. (a) All physician data disseminated shall include the following
+statements: "THE DATA COLLECTED BY THE DEPARTMENT IS ACCURATE TO THE
+BEST OF THE KNOWLEDGE OF THE DEPARTMENT, BASED ON THE INFORMATION
+SUPPLIED BY THE PHYSICIAN WHO IS THE SUBJECT OF THE DATA. WHILE THE
+DEPARTMENT UTILIZES A VARIETY OF SOURCES OF INFORMATION IN CHECKING THE
+ACCURACY OF THE DATA REPORTED, WE CANNOT BE SURE THAT ALL OF THE
+INFORMATION ON THIS WEBSITE IS RIGHT, COMPLETE, OR UP-TO-DATE, AND
+CANNOT BE RESPONSIBLE FOR ANY INFORMATION THAT IS WRONG OR HAS BEEN LEFT
+OUT. CONSUMERS ARE ENCOURAGED TO CONSULT OTHER SOURCES TO VERIFY OR
+OBTAIN ADDITIONAL INFORMATION ABOUT A PHYSICIAN. PENDING LEGAL ACTIONS
+DO NOT IN ANY WAY INDICATE PARTIES' GUILT, LIABILITY OR CULPABILITY.
+CASES MAY BE DISMISSED, WITHDRAWN, OR SETTLED WITHOUT PAYMENTS TO
+PLAINTIFFS. ANY DISPOSITION TO A CASE MAY BE SUBJECT TO APPEAL." The
+commissioner shall ensure that the full text of the statements appear on
+each web page of the physician profile in a manner that does not require
+the user of the site to click on a separate link in order to view the
+statements.
+  (b) The department shall provide on the physician profiles an active
+link to the website maintained by the unified court system containing
+information on active and disposed cases in the local and state courts
+in the state.
+  16. If, after initial dissemination of the physician data required by
+this section, the department determines that any such data is not useful
+for making quality determinations, the department shall recommend to the
+legislature the necessary statutory changes.
+```

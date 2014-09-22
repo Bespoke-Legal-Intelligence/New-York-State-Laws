@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-304", "kind": "section", "law_id": "UCC", "location_id": "2-304", "path": "ARTICLE 2 › PART 3 › SECTION 2-304", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-304.md", "title": "Price Payable in Money, Goods, Realty, or Otherwise"} -->
+# Uniform Commercial Code § 2-304 — Price Payable in Money, Goods, Realty, or Otherwise
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 3 — General Obligation and Construction of Contract](README.md)
+
+```text
+Section 2--304. Price Payable in Money, Goods, Realty, or Otherwise.
+  (1) The price can be made payable in money or otherwise. If it is
+payable in whole or in part in goods each party is a seller of the goods
+which he is to transfer.
+  (2) Even though all or part of the price is payable in an interest in
+realty the transfer of the goods and the seller's obligations with
+reference to them are subject to this Article, but not the transfer of
+the interest in realty or the transferor's obligations in connection
+therewith.
+```

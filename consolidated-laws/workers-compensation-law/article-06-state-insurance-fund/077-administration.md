@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 77", "kind": "section", "law_id": "WKC", "location_id": "77", "path": "ARTICLE 6 › SECTION 77", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/77.md", "title": "Administration"} -->
+# Workers' Compensation Law § 77 — Administration
+
+[Workers' Compensation Law](../README.md) › [Article 6 — State Insurance Fund](README.md)
+
+```text
+  § 77. Administration. The state insurance fund shall be administered
+by the commissioners of the state insurance fund, of whom there shall be
+ten. The commissioner of labor shall, in addition, be a commissioner of
+such fund by virtue of his or her office. The commissioners shall elect
+annually from the appointive members a chair and a vice-chair who shall
+act as chair in the absence of the chair. The commissioner of labor may
+designate a deputy commissioner to act in his or her place and stead as
+a commissioner of such fund. The commissioners shall be appointed by the
+governor, by and with the advice and consent of the senate. One
+commissioner shall be appointed by the governor upon recommendation by
+the New York State American Federation of Labor-Congress of Industrial
+Organizations, and one commissioner shall be appointed by the governor
+upon recommendation of the Business Council of the State of New York.
+They shall be policyholders insured in the state insurance fund. The
+commissioners shall be appointed for terms of three years each. They
+shall serve until their successors are appointed and have qualified.
+Vacancies shall be filled for the unexpired terms. Each commissioner
+shall before entering upon his or her duties, take and subscribe the
+constitutional oath of office which shall be filed in the office of the
+secretary of state.
+```

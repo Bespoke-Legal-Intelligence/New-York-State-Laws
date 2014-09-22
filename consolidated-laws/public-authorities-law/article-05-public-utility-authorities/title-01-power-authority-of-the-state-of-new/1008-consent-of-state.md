@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1008", "kind": "section", "law_id": "PBA", "location_id": "1008", "path": "ARTICLE 5 › TITLE 1 › SECTION 1008", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1008.md", "title": "Consent of state"} -->
+# Public Authorities Law § 1008 — Consent of state
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1 — Power Authority of the State of New York](README.md)
+
+```text
+  § 1008. Consent of state. The state of New York hereby consents to the
+occupation and use by the authority of any and all property of the state
+of whatever kind or character on the Niagara river or within the
+international rapids section of the Saint Lawrence river, and hereby
+vests the authority with and delegates to it the right to exercise any
+and every right and power of the state in connection therewith, whether
+proprietary or sovereign in character, which the state itself might
+exercise, provided that such consent and delegation of power shall not
+permit the impairment or limit or prevent the future improvement of the
+navigability of the Niagara river or the international rapids section of
+the Saint Lawrence river, consistent with the maintenance of such
+projects, but on the contrary the projects shall be such as will improve
+and benefit commerce and navigation therein and provided further that
+the authority shall have no power to limit, waive or surrender any right
+or interest of the state of New York in such rivers or the use thereof.
+```

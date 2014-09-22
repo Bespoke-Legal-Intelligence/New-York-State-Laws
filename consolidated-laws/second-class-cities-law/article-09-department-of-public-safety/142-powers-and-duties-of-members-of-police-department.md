@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 142", "kind": "section", "law_id": "SCC", "location_id": "142", "path": "ARTICLE 9 › SECTION 142", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/142.md", "title": "Powers and duties of members of police department"} -->
+# Second Class Cities Law § 142 — Powers and duties of members of police department
+
+[Second Class Cities Law](../README.md) › [Article 9 — Department of Public Safety](README.md)
+
+```text
+  § 142. Powers and duties of members of police department. The members
+of the police department, other than surgeons, in criminal matters have
+all the powers of police officers under the general laws of the state,
+and they shall also have the power and it shall be their duty to arrest
+any person found by them violating any of the penal ordinances of the
+city or laws of the state, and to take such person before the proper
+city magistrate. Such person shall be dealt with in the same manner as
+if he had been arrested upon a warrant theretofore duly issued by such
+magistrate. They shall report violations of law and ordinances coming to
+their knowledge in any way under regulations to be prescribed by the
+commissioner of public safety. They shall also have, in every other part
+of the state, in criminal matters all the powers of constables and any
+warrant for search or arrest issued by any magistrate of the state may
+be executed by them in any part of the state according to the tenor
+thereof without indorsement. They shall possess such other powers and
+perform such other duties as may be provided by law or ordinance of the
+common council.
+```

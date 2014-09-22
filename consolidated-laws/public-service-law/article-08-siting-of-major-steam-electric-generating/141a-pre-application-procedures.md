@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 141-A", "kind": "section", "law_id": "PBS", "location_id": "141-A", "path": "ARTICLE 8 › SECTION 141-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/141-A.md", "title": "Pre-application procedures"} -->
+# Public Service Law § 141-A — Pre-application procedures
+
+[Public Service Law](../README.md) › [Article 8 — Siting of Major Steam Electric Generating Facilities](README.md)
+
+```text
+  * § 141-a. Pre-application procedures. 1. Any person proposing to
+submit an application for a major steam electric generating facility may
+consult with, and seek agreement with, the staff of the department and
+the department of environmental conservation as to any study or program
+of studies made or to be made to support such application. If the staff
+of the department, the department of environmental conservation and the
+person proposing to file an application can agree as to the studies or
+program of studies to be conducted, they shall enter into a stipulation
+setting forth the agreement. Nothing herein, however, shall bar any
+party to a hearing on an application, other than any party to a
+pre-application agreement, from timely raising objections at the hearing
+to the methodology and scope of any stipulated studies or program of
+studies in any such agreement.
+  2. In order to attempt to resolve any questions that may arise as a
+result of consultation pursuant to subdivision one of this section, the
+board shall designate a hearing examiner who shall mediate any issue
+relating to the methodology and scope of any studies or programs of
+study to which the staff of the department, the department of
+environmental conservation and the person seeking to file an application
+cannot agree. If the parties can agree, they shall enter into a
+stipulation setting forth the agreement. Nothing herein, however, shall
+bar any party to a hearing on an application other than any party to
+such a stipulation from timely raising objections at the hearing to the
+methodology and scope of any stipulated studies or program of studies in
+any such agreement.
+  * NB Expired January 1, 1989
+  * NB Operative with regard to applications filed on or before December
+         31, 1988
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Election Law § 8-412", "kind": "section", "law_id": "ELN", "location_id": "8-412", "path": "ARTICLE 8 › TITLE 4 › SECTION 8-412", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/8-412.md", "title": "Absentee ballots; deadline for receipt, and delivery to polling place"} -->
+# Election Law § 8-412 — Absentee ballots; deadline for receipt, and delivery to polling place
+
+[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 4 — Absentee Voting](README.md)
+
+```text
+  § 8-412. Absentee ballots; deadline for receipt, and delivery to
+polling place. 1. The board of elections shall cause all absentee
+ballots received by it before the close of the polls on election day and
+all ballots contained in envelopes showing a cancellation mark of the
+United States postal service or a foreign country's postal service, or
+showing a dated endorsement of receipt by another agency of the United
+States government, with a date which is ascertained to be not later than
+the day before election and received by such board of elections not
+later than seven days following the day of election to be cast and
+counted except that the absentee ballot of a voter who requested such
+ballot by letter, rather than application, shall not be counted unless a
+valid application form, signed by such voter, is received by the board
+of elections with such ballot.
+  2. Absentee ballots received by the board of elections shall be
+retained at the board of elections and cast and canvassed pursuant to
+the provisions of section 9-209 of this chapter.
+```

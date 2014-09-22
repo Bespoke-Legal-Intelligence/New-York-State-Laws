@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 47", "kind": "section", "law_id": "COR", "location_id": "47", "path": "ARTICLE 3 › SECTION 47", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/47.md", "title": "Functions, powers and duties of the board"} -->
+# Correction Law § 47 — Functions, powers and duties of the board
+
+[Correction Law](../README.md) › [Article 3 — State Commission of Correction](README.md)
+
+```text
+  § 47. Functions, powers and duties of the board. 1. The board shall
+have the following functions, powers and duties:
+  (a) Investigate and review the cause and circumstances surrounding the
+death of any inmate of a correctional facility.
+  (b) Visit and inspect any correctional facility wherein an inmate has
+died.
+  (c) Cause the body of the deceased to undergo such examinations,
+including an autopsy, as in the opinion of the board, are necessary to
+determine the cause of death, irrespective of whether any such
+examination or autopsy shall have previously been performed.
+  (d) Upon review of the cause of death and circumstances surrounding
+the death of any inmate, the board shall submit its report thereon to
+the commission and, where appropriate, make recommendations to prevent
+the recurrence of such deaths to the commission and the administrator of
+the appropriate correctional facility.
+  (e) Investigate and report to the commission on the condition of
+systems for the delivery of medical care to inmates of correctional
+facilities and where appropriate recommend such changes as it shall deem
+necessary and proper to improve the quality and availability of such
+medical care.
+  2. Every administrator of a correctional facility shall immediately
+report to the board the death of an inmate of any such facility in such
+manner and form as the board shall prescribe, together with an autopsy
+report.
+```

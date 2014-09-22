@@ -1,0 +1,61 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 28*2", "kind": "section", "law_id": "TAX", "location_id": "28*2", "path": "ARTICLE 1 › SECTION 28*2", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/28_2.md", "title": "Biofuel production credit"} -->
+# Tax Law § 28*2 — Biofuel production credit
+
+[Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  § 28. Biofuel production credit. (a) General. A taxpayer subject to
+tax under article nine, nine-A or twenty-two of this chapter shall be
+allowed a credit against such tax pursuant to the provisions referenced
+in subdivision (d) of this section. The credit (or pro rata share of
+earned credit in the case of a partnership) for each gallon of biofuel
+produced at a biofuel plant on or after January first, two thousand six
+shall equal fifteen cents per gallon after the production of the first
+forty thousand gallons per year presented to market. The credit under
+this section shall be capped at two and one-half million dollars per
+taxpayer per taxable year for up to no more than four consecutive
+taxable years per biofuel plant. If the taxpayer is a partner in a
+partnership or shareholder of a New York S corporation, then the cap
+imposed by the preceding sentence shall be applied at the entity level,
+so that the aggregate credit allowed to all the partners or shareholders
+of each such entity in the taxable year does not exceed two and one-half
+million dollars. The tax credit allowed pursuant to this section shall
+apply to taxable years beginning before January first, two thousand
+twenty.
+  (b) Definitions. For the purpose of this section, the following terms
+shall have the following meanings:
+  (1) "Biofuel" means a fuel which includes biodiesel and ethanol. The
+term "biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
+esters of long chain fatty acids derived from vegetable oils or animal
+fats, designated B100, which meets the specifications of American
+Society of Testing and Materials designation D 6751-02. The term
+"ethanol" shall mean ethyl alcohol manufactured in the United States and
+its territories and sold (i) for fuel use and which has been rendered
+unfit for beverage use in a manner and which is produced at a facility
+approved by the federal bureau of alcohol, tobacco and firearms for the
+production of ethanol for fuel, or (ii) as denatured ethanol used by
+blenders and refiners which has been rendered unfit for beverage use.
+The term "biofuel" may also include any other standard approved by the
+New York state energy and research development authority.
+  (2) "Biofuel plant" means a commercial facility located in New York
+state at which one or more biofuels are produced.
+  (c) Reporting requirements. A taxpayer wishing to claim a credit under
+this section shall annually certify to the commissioner (i) that biofuel
+produced at the eligible biofuel plant meets all existing standards for
+biofuel and (ii) the amount of biofuel produced at the eligible biofuel
+plant during a taxable year.
+  * (d) Cross-references. For application of the credit provided for in
+this section, see the following provisions of this chapter:
+  (1) Article 9: Section 187-c.
+  (2) Article 9-A: Section 210, subdivision 38.
+  (3) Article 22: Section 606, subsections (i) and (jj).
+  * NB Effective until January 1, 2015
+  * (d) Cross-references. For application of the credit provided for in
+this section, see the following provisions of this chapter:
+  (1) Article 9: Section 187-c.
+  (2) Article 9-A: Section 210-B, subdivision 24.
+  (3) Article 22: Section 606, subsections (i) and (jj).
+  * NB Effective January 1, 2015
+```

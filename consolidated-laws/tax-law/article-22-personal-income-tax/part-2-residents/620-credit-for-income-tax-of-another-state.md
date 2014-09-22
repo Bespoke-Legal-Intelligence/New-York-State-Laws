@@ -1,0 +1,50 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 620", "kind": "section", "law_id": "TAX", "location_id": "620", "path": "ARTICLE 22 › PART 2 › SECTION 620", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/620.md", "title": "Credit for income tax of another state"} -->
+# Tax Law § 620 — Credit for income tax of another state
+
+[Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
+
+```text
+  § 620. Credit for income tax of another state. (a) General. A resident
+shall be allowed a credit against the tax otherwise due under this
+article for any income tax imposed for the taxable year by another state
+of the United States, a political subdivision of such state, the
+District of Columbia or a province of Canada, upon income both derived
+therefrom and subject to tax under this article. The term "income tax
+imposed" in the previous sentence shall not include the portion of such
+tax (determined in the manner provided for in section six hundred
+twenty-A) which is imposed upon the ordinary income portion (or part
+thereof) of a lump sum distribution which is subject to the separate tax
+imposed by section six hundred one-C.
+  (b) Limitations.
+  (1) The credit under this section shall not exceed the percentage of
+the tax otherwise due under this article determined by dividing the
+portion of the taxpayer's New York income subject to taxation by such
+other jurisdiction by the total amount of the taxpayer's New York
+income.
+  (2) The credit under this section shall not reduce the tax otherwise
+due under this article to an amount less than would have been due if the
+income subject to taxation by such other jurisdiction were excluded from
+the taxpayer's New York income.
+  (3) In the case of a taxpayer who elects to claim the foreign tax
+credit for federal income tax purposes, the credit under this section
+for income tax imposed by a province of Canada shall be allowed for that
+portion of the provincial tax not claimed for federal purposes for the
+taxable year or a preceding taxable year, provided however, to the
+extent the provincial tax is claimed for federal purposes for a
+succeeding taxable year, the credit under this section must be added
+back in such succeeding taxable year. The provincial tax shall be deemed
+to be claimed last for federal income tax purposes and for purposes of
+this subsection.
+  (c) Definition. For purposes of this section New York income means:
+  (1) the New York adjusted gross income of an individual, or
+  (2) the amount of the income of an estate or trust, determined as if
+the estate or trust were an individual computing his New York adjusted
+gross income under section six hundred twelve.
+  (d) S corporation shareholders. In the case of a shareholder of an S
+corporation, the term "income tax" in subsection (a) of this section
+shall not include any such tax imposed upon or payable by the
+corporation, but shall include any such tax with respect to the income
+of the corporation imposed upon or payable by the shareholder, without
+regard to whether an election independent of the federal S election was
+required to effect such imposition upon the shareholder.
+```

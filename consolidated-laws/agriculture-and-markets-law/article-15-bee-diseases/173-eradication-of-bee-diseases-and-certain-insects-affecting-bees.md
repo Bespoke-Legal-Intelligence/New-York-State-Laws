@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 173", "kind": "section", "law_id": "AGM", "location_id": "173", "path": "ARTICLE 15 › SECTION 173", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/173.md", "title": "Eradication of bee diseases and certain insects affecting bees"} -->
+# Agriculture and Markets Law § 173 — Eradication of bee diseases and certain insects affecting bees
+
+[Agriculture and Markets Law](../README.md) › [Article 15 — Bee Diseases](README.md)
+
+```text
+  § 173. Eradication of bee diseases and certain insects affecting bees.
+The commissioner may cause inspections to be made of apiaries in the
+state for the discovery of infectious, contagious or communicable
+diseases and for the discovery of insects and parasitic organisms
+adversely affecting bees, and for the discovery of species or subspecies
+of bees which have been determined by him to cause injury, directly or
+indirectly, to this state's useful bee population, crops, or other
+plants. He may also cause investigations to be made as to the best
+method for the eradication of diseases of bees, insects or parasitic
+organisms adversely affecting bees, or for the eradication of species or
+subspecies of bees which have been determined by him to cause injury,
+directly or indirectly, to this state's useful bee population, crops, or
+other plants and he may plan and execute appropriate methods for such
+eradication.
+  The commissioner shall have access to all apiaries, structures,
+appliances or premises where bees or honey or comb used in apiaries may
+be. He may open any hive, colony, package or receptacle of any kind
+containing or which he has reason to believe contains any bees, comb,
+bee products, used beekeeping appliances, or anything else which is
+capable of transmitting contagious or infectious diseases of bees or
+which is capable of harboring insects or parasitic organisms adversely
+affecting bees, or species or subspecies of bees which have been
+determined by him to cause injury, directly or indirectly, to this
+state's useful bee population, crops, or other plants.
+```

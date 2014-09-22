@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 351-B", "kind": "section", "law_id": "GBS", "location_id": "351-B", "path": "ARTICLE 23 › SECTION 351-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/351-B.md", "title": "Written statement to be furnished; presumption"} -->
+# General Business Law § 351-B — Written statement to be furnished; presumption
+
+[General Business Law](../README.md) › [Article 23 — Bucket Shops](README.md)
+
+```text
+  § 351-b. Written statement to be furnished; presumption. Every person,
+firm, association, copartnership or corporation shall furnish upon
+written demand to any customer, or principal for whom such person has
+executed an order for the actual purchase or sale of any such securities
+or commodities, either for immediate or future delivery, a written
+statement containing the names of the persons from whom such property
+was bought, or to whom it has been sold, as the case may be, the time
+when, place where, the amount of and the price at which the same was
+either bought or sold; and if such person, firm, association,
+copartnership or corporation shall refuse or neglect to furnish such
+statement within forty-eight hours after such demand, such refusal shall
+be prima facie evidence that such purchase or sale was made in violation
+of this article.
+```

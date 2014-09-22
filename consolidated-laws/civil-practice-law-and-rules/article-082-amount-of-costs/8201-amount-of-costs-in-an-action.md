@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 8201", "kind": "section", "law_id": "CVP", "location_id": "8201", "path": "ARTICLE 82 › SECTION 8201", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/8201.md", "title": "Amount of costs in an action"} -->
+# Civil Practice Law and Rules § 8201 — Amount of costs in an action
+
+[Civil Practice Law and Rules](../README.md) › [Article 82 — Amount of Costs](README.md)
+
+```text
+  § 8201. Amount of costs in an action. Costs awarded in an action shall
+be in the amount of:
+  1. two hundred dollars for all proceedings before a note of issue is
+filed; plus
+  2. two hundred dollars for all proceedings after a note of issue is
+filed and before trial; plus
+  3. three hundred dollars for each trial, inquest or assessment of
+damages.
+```

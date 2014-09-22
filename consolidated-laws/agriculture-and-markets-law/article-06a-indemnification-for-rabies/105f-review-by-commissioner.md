@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 105-F", "kind": "section", "law_id": "AGM", "location_id": "105-F", "path": "ARTICLE 6-A › SECTION 105-F", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/105-F.md", "title": "Review by commissioner"} -->
+# Agriculture and Markets Law § 105-F — Review by commissioner
+
+[Agriculture and Markets Law](../README.md) › [Article 6-A — Indemnification For Rabies](README.md)
+
+```text
+  § 105-f. Review by commissioner.  If the claimant desires to appeal
+the county treasurer's disapproval of his claim or if he is dissatisfied
+with the amount of the damage as set forth in the assessor's report, he
+may, within ten days after the receipt of the report, present to the
+commissioner a request for a review. The county treasurer may, within
+ten days after receiving the report of the assessor, if dissatisfied
+with the damages stated in the report, present to the commissioner a
+request for a review. Upon receipt of such request, from either the
+claimant or the county treasurer, the commissioner shall cause an
+investigation to be made of the facts surrounding the death of the
+animal or animals described therein and the amount of damage incurred
+thereby for which indemnification should be made in accordance with the
+intent of this article. The claimant shall permit the commissioner or
+his duly authorized representative to enter the premises where the
+animal or animals for which indemnification is claimed were kept,
+harbored or pastured, and shall furnish to the commissioner or his duly
+authorized representative whatever information and proof may be
+available to the claimant and deemed necessary by the commissioner or
+his representative to complete the investigation. After the completion
+of such investigation the commissioner shall make his decision in
+writing as set forth in the preceding section.
+```

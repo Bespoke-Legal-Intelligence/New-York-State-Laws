@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 53-D", "kind": "section", "law_id": "STF", "location_id": "53-D", "path": "ARTICLE 4 › SECTION 53-D", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/53-D.md", "title": "Estimates of fiscal impact"} -->
+# State Finance Law § 53-D — Estimates of fiscal impact
+
+[State Finance Law](../README.md) › [Article 4 — Appropriations](README.md)
+
+```text
+  § 53-d. Estimates of fiscal impact. If an appropriation bill passed by
+the legislature contains items that the legislature has added in accord
+with section four of article seven of the constitution, then such bill
+must be accompanied by an estimate of the fiscal impact of such
+legislation on the budget submitted by the governor pursuant to section
+two of article seven of the constitution which shall include, if
+appropriate, an estimate of moneys and revenues, either in law or in
+legislation passed by both houses with the budget, sufficient to meet
+such additions. Such bill shall also include such other recommendations
+and information as the legislature may deem proper and such additional
+information as may be required by law. None of the restrictions of this
+section, however, shall apply to appropriations for the legislature or
+judiciary.
+```

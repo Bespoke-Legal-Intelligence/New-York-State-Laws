@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 218-A", "kind": "section", "law_id": "LAB", "location_id": "218-A", "path": "ARTICLE 7 › SECTION 218-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/218-A.md", "title": "Sun safety education for state employees"} -->
+# Labor Law § 218-A — Sun safety education for state employees
+
+[Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
+
+```text
+  § 218-a. Sun safety education for state employees. 1. Any state
+employee who spends more than a total of five hours per week outdoors
+shall be provided information about (a) the potential dangers of
+diseases caused by over-exposure of the sun, such as skin cancer, (b)
+the existence of available protections and their proper uses, and (c)
+any other information necessary to afford an employee his or her best
+opportunity to protect themselves from the sun.
+  2. An employer of any employee subject to subdivision one of this
+section shall ensure that any necessary information is given to each
+employee for his or her use during their employment, at no cost to the
+employee.
+  3. The commissioner, in consultation with the commissioner of
+education, shall determine the form and content of the information
+supplied to the state employees who are subject to the provisions of
+this section.
+```

@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Assembly Rules § R1S7", "kind": "section", "law_id": "CMA", "location_id": "R1S7", "path": "RULE 1 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:CMA/R1S7.md", "title": "Non-fraternization policy"} -->
+# Assembly Rules § R1S7 — Non-fraternization policy
+
+[Assembly Rules](../README.md) › [Rule 1 — Speaker](README.md)
+
+```text
+§ 7. Non-fraternization policy. The Speaker shall promulgate a  policy
+prohibiting  fraternization  with  student  interns,  which  shall  at a
+minimum, be applicable to members of the Assembly  and  Assembly  staff,
+define  the  conduct  which is prohibited, and establish a procedure for
+investigation of alleged violations of  the  policy.  Nothing  contained
+herein  shall  be deemed to require promulgation of a non-fraternization
+policy which is already in effect and which  meets  the  requirement  of
+this rule. Copies of the non-fraternization policy promulgated hereunder
+shall  be  distributed to all members of the Assembly and Assembly staff
+and shall be available to the public.
+```

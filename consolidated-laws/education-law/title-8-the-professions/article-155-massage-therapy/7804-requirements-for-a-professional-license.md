@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7804", "kind": "section", "law_id": "EDN", "location_id": "7804", "path": "TITLE 8 › ARTICLE 155 › SECTION 7804", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7804.md", "title": "Requirements for a professional license"} -->
+# Education Law § 7804 — Requirements for a professional license
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 155 — Massage Therapy](README.md)
+
+```text
+  § 7804. Requirements for a professional license. To qualify for a
+license as a massage therapist, masseur or masseuse, an applicant shall
+fulfill the following requirements:
+  (1) Application: file an application with the department;
+  (2) Education: have received an education, including high school
+graduation and graduation from a school or institute of massage therapy
+with a program registered by the department, or its substantial
+equivalent in both subject matter and extent of training, provided that
+the program in such school or institute shall consist of classroom
+instruction of a total of not less than five hundred hours in subjects
+satisfactory to the department;
+  (3) Examination: pass an examination satisfactory to the board and in
+accordance with the commissioner's regulations;
+  (4) Age: be at least eighteen years of age;
+  (5) Citizenship or immigration status: be a United States citizen or
+an alien lawfully admitted for permanent residence in the United States;
+  (6) Character: be of good moral character as determined by the
+department; and
+  (7) Fees: pay a fee of one hundred fifteen dollars to the department
+for admission to a department conducted examination and for an initial
+license, a fee of forty-five dollars for each reexamination, a fee of
+fifty dollars for an initial license for persons not requiring admission
+to a department conducted examination, and a fee of fifty dollars for
+each triennial registration period.
+```

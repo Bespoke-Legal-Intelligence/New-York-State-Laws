@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Uniform City Court Act § 1910", "kind": "section", "law_id": "UCT", "location_id": "1910", "path": "ARTICLE 19 › SECTION 1910", "repealed": false, "repealed_date": null, "source": "nys-laws:UCT/1910.md", "title": "Costs upon appeal"} -->
+# Uniform City Court Act § 1910 — Costs upon appeal
+
+[Uniform City Court Act](../README.md) › [Article 19 — Costs and Fees](README.md)
+
+```text
+§ 1910. Costs upon appeal.
+  (a) Costs upon an appeal may be awarded by the appellate court in its
+discretion, and if awarded shall be as follows:
+  1. To the appellant upon reversal, not more than thirty dollars.
+  2. To the respondent upon affirmance, not more than twenty-five
+dollars.
+  3. To either party upon modification, not more than twenty-five
+dollars.
+  (b) Costs upon appeal from the judgment or order of the appellate
+court shall be as provided in the CPLR.
+```

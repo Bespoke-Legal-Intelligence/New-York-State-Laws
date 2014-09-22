@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Village Law § 4-406", "kind": "section", "law_id": "VIL", "location_id": "4-406", "path": "ARTICLE 4 › SECTION 4-406", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/4-406.md", "title": "Permits; franchises; filing; duty of clerk"} -->
+# Village Law § 4-406 — Permits; franchises; filing; duty of clerk
+
+[Village Law](../README.md) › [Article 4 — Powers, Duties and Compensation of Officers](README.md)
+
+```text
+  § 4-406 Permits; franchises; filing; duty of clerk.  Duplicate
+originals of every resolution, certificate or other instrument whereby a
+village, or any board or officer thereof, grants a franchise, including
+a privilege or consent of any kind, to a public service corporation
+shall be executed and deposited with the village clerk; and such
+franchise shall not be operative for any purposes until so executed and
+deposited.  The village clerk, upon receiving the same, shall file one
+such duplicate in his office with the records and papers of the village
+and shall immediately cause the other to be filed in the office of the
+clerk of the county in which the village is situated.
+```

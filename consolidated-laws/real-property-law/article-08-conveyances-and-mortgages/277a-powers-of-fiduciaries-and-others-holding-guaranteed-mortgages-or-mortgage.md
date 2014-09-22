@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 277-A", "kind": "section", "law_id": "RPP", "location_id": "277-A", "path": "ARTICLE 8 › SECTION 277-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/277-A.md", "title": "Powers of fiduciaries and others holding guaranteed mortgages or mortgage investments"} -->
+# Real Property Law § 277-A — Powers of fiduciaries and others holding guaranteed mortgages or mortgage investments
+
+[Real Property Law](../README.md) › [Article 8 — Conveyances and Mortgages](README.md)
+
+```text
+  § 277-a. Powers of fiduciaries and others holding guaranteed mortgages
+or mortgage investments. Trustees, executors, administrators, guardians,
+committees for incompetents, conservators of conservatees and all other
+persons acting in any fiduciary capacity, including all officials of the
+state or any political subdivision thereof, and corporations organized
+under, or subject to the provisions of the banking law or the insurance
+law, who hold any mortgage investment or any wholly owned mortgage
+guaranteed by a guaranty corporation, or who hold any claim against a
+guaranty corporation, may assent to a plan of reorganization or
+readjustment of the guaranty corporation or of the business thereof, or
+to any proposal, however designated, to buy any assets of such guaranty
+corporation, which has been or shall be approved by the supreme court;
+and in connection therewith may assign such claims, execute such
+instruments and do such acts as may be required by such plan or
+proposal, or as may be necessary or desirable for the consummation
+thereof; and may accept in exchange for such claims, and hold same as
+legal investments, any stock, securities or obligations, secured or
+unsecured, issued pursuant to such plan or proposal; and may join in any
+voting trust agreement provided for by such plan or proposal. The terms
+"mortgage investment" and "guaranty corporation" as used herein shall be
+construed as said terms are defined by section two of chapter seven
+hundred forty-five of the laws of nineteen hundred thirty-three, as
+amended, and by section three of chapter nineteen of the laws of
+nineteen hundred thirty-five, as amended.
+```

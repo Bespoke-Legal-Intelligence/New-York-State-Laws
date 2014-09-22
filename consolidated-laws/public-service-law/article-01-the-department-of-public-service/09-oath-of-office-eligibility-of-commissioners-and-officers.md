@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 9", "kind": "section", "law_id": "PBS", "location_id": "9", "path": "ARTICLE 1 › SECTION 9", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/9.md", "title": "Oath of office; eligibility of commissioners and officers"} -->
+# Public Service Law § 9 — Oath of office; eligibility of commissioners and officers
+
+[Public Service Law](../README.md) › [Article 1 — The Department of Public Service](README.md)
+
+```text
+  § 9. Oath of office; eligibility of commissioners and officers.  Each
+commissioner and each person appointed to office by the chairman shall,
+before entering upon the duties of his office, take and subscribe the
+constitutional oath of office. The oaths of office other than those of a
+commissioner shall be filed in the office of the commission. No person
+shall be eligible for appointment or shall hold the office of
+commissioner or be appointed to, or hold, any office or position under
+the commission, who holds any official relation to any person or
+corporation subject to the supervision of the commission, or who owns
+stocks or bonds of any such corporation.
+```

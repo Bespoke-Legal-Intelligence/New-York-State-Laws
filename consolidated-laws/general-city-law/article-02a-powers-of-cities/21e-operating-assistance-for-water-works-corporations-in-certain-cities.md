@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "General City Law § 21-E", "kind": "section", "law_id": "GCT", "location_id": "21-E", "path": "ARTICLE 2-A › SECTION 21-E", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/21-E.md", "title": "Operating assistance for water-works corporations in certain cities"} -->
+# General City Law § 21-E — Operating assistance for water-works corporations in certain cities
+
+[General City Law](../README.md) › [Article 2-A — Powers of Cities](README.md)
+
+```text
+  § 21-e. Operating assistance for water-works corporations in certain
+cities. Each city having a population of more than one million may
+provide operating assistance to a water-works corporation subject to the
+provisions of the public service law which provides water service in
+such city for the purpose of reducing or eliminating disparity between
+rates charged for such service by the municipal water supply system of
+such city and rates charged by such water-works corporation, and in
+furtherance of such purpose the chief executive officer of such city may
+enter into an agreement with such water-works corporation and expend
+such sums as may be appropriated therefor so as to effect a reduction of
+rates of such water-works corporation.
+```

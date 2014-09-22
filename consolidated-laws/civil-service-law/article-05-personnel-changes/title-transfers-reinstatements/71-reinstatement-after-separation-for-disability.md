@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 71", "kind": "section", "law_id": "CVS", "location_id": "71", "path": "ARTICLE 5 › TITLE A › SECTION 71", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/71.md", "title": "Reinstatement after separation for disability"} -->
+# Civil Service Law § 71 — Reinstatement after separation for disability
+
+[Civil Service Law](../../README.md) › [Article 5 — Personnel Changes](../README.md) › [Title A — Transfers: Reinstatements](README.md)
+
+```text
+  § 71. Reinstatement after separation for disability. Where an employee
+has been separated from the service by reason of a disability resulting
+from occupational injury or disease as defined in the workmen's
+compensation law, he or she shall be entitled to a leave of absence for
+at least one year, unless his or her disability is of such a nature as
+to permanently incapacitate him or her for the performance of the duties
+of his or her position. Notwithstanding the foregoing, where an employee
+has been separated from the service by reason of a disability resulting
+from an assault sustained in the course of his or her employment, he or
+she shall be entitled to a leave of absence for at least two years,
+unless his or her disability is of such a nature as to permanently
+incapacitate him or her for the performance of the duties of his or her
+position. Such employee may, within one year after the termination of
+such disability, make application to the civil service department or
+municipal commission having jurisdiction over the position last held by
+such employee for a medical examination to be conducted by a medical
+officer selected for that purpose by such department or commission. If,
+upon such medical examination, such medical officer shall certify that
+such person is physically and mentally fit to perform the duties of his
+or her former position, he or she shall be reinstated to his or her
+former position, if vacant, or to a vacancy in a similar position or a
+position in a lower grade in the same occupational field, or to a vacant
+position for which he or she was eligible for transfer. If no
+appropriate vacancy shall exist to which reinstatement may be made, or
+if the work load does not warrant the filling of such vacancy, the name
+of such person shall be placed upon a preferred list for his or her
+former position, and he or she shall be eligible for reinstatement from
+such preferred list for a period of four years. In the event that such
+person is reinstated to a position in a grade lower than that of his or
+her former position, his or her name shall be placed on the preferred
+eligible list for his or her former position or any similar position.
+This section shall not be deemed to modify or supersede any other
+provisions of law applicable to the re-employment of persons retired
+from the public service on account of disability.
+```

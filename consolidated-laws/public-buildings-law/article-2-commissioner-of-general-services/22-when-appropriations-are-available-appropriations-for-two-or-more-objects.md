@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Buildings Law § 22", "kind": "section", "law_id": "PBB", "location_id": "22", "path": "ARTICLE 2 › SECTION 22", "repealed": false, "repealed_date": null, "source": "nys-laws:PBB/22.md", "title": "When appropriations are available; appropriations for two or more objects"} -->
+# Public Buildings Law § 22 — When appropriations are available; appropriations for two or more objects
+
+[Public Buildings Law](../README.md) › [Article 2 — Commissioner of General Services](README.md)
+
+```text
+  § 22.  When appropriations are available; appropriations for two or
+more objects.  No item of an appropriation made for the performance of
+such work shall be available, except for advertising or expenses
+incurred in the preparation of plans and specifications, engineering
+work or superintendence, unless one or more contracts or special orders
+shall first have been made for the completion of such work within the
+appropriation therefor.  If an appropriation be made for the
+construction, reconstruction, alteration, repair or improvement of any
+state buildings in an appropriation act specifying two or more objects
+for which the appropriation is made and any one of such objects shall
+have been accomplished for a sum less than the amount specified in the
+act, the unexpended balance shall be applicable to any other work
+specified in the act.
+```

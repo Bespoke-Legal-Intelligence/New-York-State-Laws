@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 422", "kind": "section", "law_id": "RPP", "location_id": "422", "path": "ARTICLE 12 › SECTION 422", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/422.md", "title": "Reference of doubtful matters to the court"} -->
+# Real Property Law § 422 — Reference of doubtful matters to the court
+
+[Real Property Law](../README.md) › [Article 12 — Registering Title to Real Property](README.md)
+
+```text
+  § 422. Reference of doubtful matters to the court. When the registrar
+is in doubt, and the parties in interest fail to agree as to the proper
+memorial to be made in the title book of any deed, mortgage or other
+voluntary instrument presented for registration, the questions shall be
+referred to the court for decision, either on the certificate of the
+registrar stating the question, or upon the suggestion in writing of any
+party or parties in interest; and the court, after due notice to all
+parties in interest, and a hearing, if necessary or proper, shall enter
+an order prescribing the form of the memorial to be made by the
+registrar, who shall make the memorial accordingly. In any judicial
+proceeding affecting property, the title to which is then a registered
+title, the court upon the application in writing of any party or parties
+in interest after due notice to all other parties in interest and a
+hearing, if necessary or proper, shall enter an order prescribing the
+form of any memorial that should be made by the registrar in the title
+book because or as the result of such proceeding; and the registrar,
+upon the production of a certified copy of such order, shall make the
+proper memorial in accordance with such order.  After making such
+memorial in the title book the registrar shall also make all other
+memorials on existing certificates or make and deliver any new
+certificates according to the circumstances and in the manner required
+herein.
+```

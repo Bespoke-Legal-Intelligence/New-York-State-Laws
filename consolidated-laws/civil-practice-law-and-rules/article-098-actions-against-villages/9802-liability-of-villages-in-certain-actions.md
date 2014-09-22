@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 9802", "kind": "section", "law_id": "CVP", "location_id": "9802", "path": "ARTICLE 98 › SECTION 9802", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/9802.md", "title": "Liability of villages in certain actions"} -->
+# Civil Practice Law and Rules § 9802 — Liability of villages in certain actions
+
+[Civil Practice Law and Rules](../README.md) › [Article 98 — Actions Against Villages](README.md)
+
+```text
+  § 9802. Liability of villages in certain actions. Except as provided
+otherwise in this chapter no action shall be maintained against the
+village upon or arising out of a contract of the village unless the same
+shall be commenced within eighteen months after the cause of action
+therefor shall have accrued, nor unless a written verified claim shall
+have been filed with the village clerk within one year after the cause
+of action shall have accrued, and no other action shall be maintained
+against the village unless the same shall be commenced within one year
+after the cause of action therefor shall have accrued, nor unless a
+notice of claim shall have been made and served in compliance with
+section fifty-e of the general municipal law. The omission to present a
+claim or to commence an action thereon within the respective periods of
+time above stated applicable to such claim, shall be a bar to any claim
+or action therefor against said village; but no action shall be brought
+upon any such claim until forty days have elapsed after the filing of
+the claim in the office of the village clerk.
+```

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Town Law § 263", "kind": "section", "law_id": "TWN", "location_id": "263", "path": "ARTICLE 16 › SECTION 263", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/263.md", "title": "Purposes in view"} -->
+# Town Law § 263 — Purposes in view
+
+[Town Law](../README.md) › [Article 16 — Zoning and Planning](README.md)
+
+```text
+  § 263. Purposes in view. Such regulations shall be made in accordance
+with a comprehensive plan and designed to lessen congestion in the
+streets; to secure safety from fire, flood, panic and other dangers; to
+promote health and general welfare; to provide adequate light and air;
+to prevent the overcrowding of land; to avoid undue concentration of
+population; to make provision for, so far as conditions may permit, the
+accommodation of solar energy systems and equipment and access to
+sunlight necessary therefor; to facilitate the practice of forestry; to
+facilitate the adequate provision of transportation, water, sewerage,
+schools, parks and other public requirements. Such regulations shall be
+made with reasonable consideration, among other things, as to the
+character of the district and its peculiar suitability for particular
+uses, and with a view to conserving the value of buildings and
+encouraging the most appropriate use of land throughout such
+municipality.
+```

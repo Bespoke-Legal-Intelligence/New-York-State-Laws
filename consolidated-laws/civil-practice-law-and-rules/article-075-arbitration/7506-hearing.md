@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 7506", "kind": "section", "law_id": "CVP", "location_id": "7506", "path": "ARTICLE 75 › SECTION 7506", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/7506.md", "title": "Hearing"} -->
+# Civil Practice Law and Rules § 7506 — Hearing
+
+[Civil Practice Law and Rules](../README.md) › [Article 75 — Arbitration](README.md)
+
+```text
+  § 7506. Hearing. (a) Oath of arbitrator. Before hearing any testimony,
+an arbitrator shall be sworn to hear and decide the controversy
+faithfully and fairly by an officer authorized to administer an oath.
+  (b) Time and place. The arbitrator shall appoint a time and place for
+the hearing and notify the parties in writing personally or by
+registered or certified mail not less than eight days before the
+hearing. The arbitrator may adjourn or postpone the hearing. The court,
+upon application of any party, may direct the arbitrator to proceed
+promptly with the hearing and determination of the controversy.
+  (c) Evidence. The parties are entitled to be heard, to present
+evidence and to cross-examine witnesses. Notwithstanding the failure of
+a party duly notified to appear, the arbitrator may hear and determine
+the controversy upon the evidence produced.
+  (d) Representation by attorney. A party has the right to be
+represented by an attorney and may claim such right at any time as to
+any part of the arbitration or hearings which have not taken place. This
+right may not be waived. If a party is represented by an attorney,
+papers to be served on the party shall be served upon his attorney.
+  (e) Determination by majority. The hearing shall be conducted by all
+the arbitrators, but a majority may determine any question and render an
+award.
+  (f) Waiver. Except as provided in subdivision (d), a requirement of
+this section may be waived by written consent of the parties and it is
+waived if the parties continue with the arbitration without objection.
+```

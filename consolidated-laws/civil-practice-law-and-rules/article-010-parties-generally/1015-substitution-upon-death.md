@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1015", "kind": "section", "law_id": "CVP", "location_id": "1015", "path": "ARTICLE 10 › SECTION 1015", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1015.md", "title": "Substitution upon death"} -->
+# Civil Practice Law and Rules § 1015 — Substitution upon death
+
+[Civil Practice Law and Rules](../README.md) › [Article 10 — Parties Generally](README.md)
+
+```text
+  § 1015. Substitution upon death. (a) Generally. If a party dies and
+the claim for or against him is not thereby extinguished the court shall
+order substitution of the proper parties.
+  (b) Devolution of rights or liabilities on other parties. Upon the
+death of one or more of the plaintiffs or defendants in an action in
+which the right sought to be enforced survives only to the surviving
+plaintiffs or against the surviving defendants, the action does not
+abate. The death shall be noted on the record and the action shall
+proceed.
+```

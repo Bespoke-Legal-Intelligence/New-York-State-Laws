@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "State Administrative Procedure Act § 303", "kind": "section", "law_id": "SAP", "location_id": "303", "path": "ARTICLE 3 › SECTION 303", "repealed": false, "repealed_date": null, "source": "nys-laws:SAP/303.md", "title": "Presiding officers"} -->
+# State Administrative Procedure Act § 303 — Presiding officers
+
+[State Administrative Procedure Act](../README.md) › [Article 3 — Adjudicatory Proceedings](README.md)
+
+```text
+  § 303. Presiding officers. Except as otherwise provided by statute,
+the agency, one or more members of the agency, or one or more hearing
+officers designated and empowered by the agency to conduct hearings
+shall be presiding officers.  Hearings shall be conducted in an
+impartial manner. Upon the filing in good faith by a party of a timely
+and sufficient affidavit of personal bias or disqualification of a
+presiding officer, the agency shall determine the matter as part of the
+record in the case, and its determination shall be a matter subject to
+judicial review at the conclusion of the adjudicatory proceeding.
+Whenever a presiding officer is disqualified or it becomes impractical
+for him to continue the hearing, another presiding officer may be
+assigned to continue with the case unless it is shown that substantial
+prejudice to the party will result therefrom.
+```

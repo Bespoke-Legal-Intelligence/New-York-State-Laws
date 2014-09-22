@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 2114", "kind": "section", "law_id": "SCP", "location_id": "2114", "path": "ARTICLE 21 › SECTION 2114", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/2114.md", "title": "Review of compensation of corporate trustee 1"} -->
+# Surrogate's Court Procedure Act § 2114 — Review of compensation of corporate trustee 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 21 — Miscellaneous Proceedings](README.md)
+
+```text
+§ 2114. Review of compensation of corporate trustee
+  1. At any time during the administration of a testamentary or lifetime
+trust and irrespective of the pendency of a particular proceeding, the
+court may review the reasonableness of the compensation determined by
+the corporate trustee for the trustee's own services. Any corporate
+trustee who has received excessive compensation from a trust may be
+ordered to make appropriate refunds.
+  2. A proceeding may be instituted by petition of a corporate trustee
+of the trust or any person interested in the trust. No accounting shall
+be required in such proceeding.
+  3. No trustee shall be liable or accountable for any commissions paid
+to another trustee hereunder which a court orders to be refunded to the
+trust or any person interested in the trust.
+```

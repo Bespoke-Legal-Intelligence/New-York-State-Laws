@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 7", "kind": "section", "law_id": "DOM", "location_id": "7", "path": "ARTICLE 2 › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/7.md", "title": "Voidable marriages"} -->
+# Domestic Relations Law § 7 — Voidable marriages
+
+[Domestic Relations Law](../README.md) › [Article 2 — Marriages](README.md)
+
+```text
+  § 7. Voidable marriages. A marriage is void from the time its nullity
+is declared by a court of competent jurisdiction if either party
+thereto:
+  1. Is under the age of legal consent, which is eighteen years,
+provided that such nonage shall not of itself constitute an absolute
+right to the annulment of such marriage, but such annulment shall be in
+the discretion of the court which shall take into consideration all the
+facts and circumstances surrounding such marriage;
+  2. Is incapable of consenting to a marriage for want of understanding;
+  3. Is incapable of entering into the married state from physical
+cause;
+  4. Consent to such marriage by reason of force, duress or fraud;
+  5. Has been incurably mentally ill for a period of five years or more.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Election Law § 16-116", "kind": "section", "law_id": "ELN", "location_id": "16-116", "path": "ARTICLE 16 › SECTION 16-116", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/16-116.md", "title": "Proceedings; provisions in relation thereto"} -->
+# Election Law § 16-116 — Proceedings; provisions in relation thereto
+
+[Election Law](../README.md) › [Article 16 — Judicial Proceedings](README.md)
+
+```text
+  § 16-116. Proceedings; provisions in relation thereto. A special
+proceeding under the foregoing provisions of this article shall be heard
+upon a verified petition and such oral or written proof as may be
+offered, and upon such notice to such officers, persons or committees as
+the court or justice shall direct, and shall be summarily determined.
+The proceeding shall have preference over all other causes in all
+courts. The petition in any such proceeding instituted by the state or
+other board of elections shall be verified by the persons specified in
+accordance with rules promulgated by the state board of elections.  In
+the city of New York, a proceeding relating to a run-off primary brought
+pursuant to this article shall have first preference over all other
+proceedings.
+```

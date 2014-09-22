@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 201", "kind": "section", "law_id": "SCP", "location_id": "201", "path": "ARTICLE 2 › SECTION 201", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/201.md", "title": "General jurisdiction of the surrogate's court 1"} -->
+# Surrogate's Court Procedure Act § 201 — General jurisdiction of the surrogate's court 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 2 — Jurisdiction and Powers](README.md)
+
+```text
+§ 201. General jurisdiction of the surrogate's court
+  1.  The court has, is granted and shall continue to be vested with all
+the jurisdiction conferred upon it by the Constitution of the State of
+New York, and all other authority and jurisdiction now or hereafter
+conferred upon the court by any general or special statute or provision
+of law, including this act.
+  2.  This and any grant of jurisdiction to the court shall be deemed an
+affirmative exercise of the legislative power under § 12 (e) of article
+VI of the Constitution and shall in all instances be deemed to include
+and confer upon the court full equity jurisdiction as to any action,
+proceeding or other matter over which jurisdiction is or may be
+conferred.
+  3.  The court shall continue to exercise full and complete general
+jurisdiction in law and in equity to administer justice in all matters
+relating to estates and the affairs of decedents, and upon the return of
+any process to try and determine all questions, legal or equitable,
+arising between any or all of the parties to any action or proceeding,
+or between any party and any other person having any claim or interest
+therein, over whom jurisdiction has been obtained as to any and all
+matters necessary to be determined in order to make a full, equitable
+and complete disposition of the matter by such order or decree as
+justice requires.
+```

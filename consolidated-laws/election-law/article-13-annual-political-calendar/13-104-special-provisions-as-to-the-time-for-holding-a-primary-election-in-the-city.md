@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Election Law § 13-104", "kind": "section", "law_id": "ELN", "location_id": "13-104", "path": "ARTICLE 13 › SECTION 13-104", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/13-104.md", "title": "Special provisions as to the time for holding a primary election in the city of New York in the year nineteen hundred eighty-one"} -->
+# Election Law § 13-104 — Special provisions as to the time for holding a primary election in the city of New York in the year nineteen hundred eighty-one
+
+[Election Law](../README.md) › [Article 13 — Annual Political Calendar](README.md)
+
+```text
+  * § 13-104. Special provisions as to the time for holding a primary
+election in the city of New York in the year nineteen hundred
+eighty-one. Notwithstanding any inconsistent provision of this chapter,
+the times fixed for the annual primary election for the city of New York
+for all judges of the civil court elected from municipal court districts
+and for delegates and alternate delegates to judicial district
+conventions and certain proceedings relating thereto shall be as
+follows:
+  1. The first day for signing designating petitions for primary
+elections shall be the sixteenth day of June.
+  2. The first day to sign petitions for opportunity to ballot in
+primary elections without naming a candidate shall be the seventh day of
+July.
+  3. The primary election shall be held on the twenty-second day of
+September.
+  4. A judicial district convention for nominating candidates for public
+office shall be held not earlier than the twenty-second day of September
+nor later than the sixth day of October.
+  5. A certificate of party nomination made at a judicial district
+convention for an office to be filled at the general election shall be
+filed not later than the seventh day of October.
+  6. A certificate of acceptance or declination, whenever required, of a
+party nomination made at a judicial district convention, for an office
+to be filled at the general election shall be filed not later than the
+ninth day of October.
+  7. A certificate to fill a vacancy caused by declination of a party
+nomination made at judicial district convention for an office to be
+filled at the general election shall be filed not later than the
+thirteenth day of October.
+  * NB Expired December 31, 1981
+```

@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 523-C", "kind": "section", "law_id": "EXC", "location_id": "523-C", "path": "ARTICLE 19-G › TITLE 3 › SUBTITLE B › SECTION 523-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/523-C.md", "title": "Duties of the office of the ombudsman"} -->
+# Executive Law § 523-C — Duties of the office of the ombudsman
+
+[Executive Law](../../../README.md) › [Article 19-G — Office of Children and Family Services](../../README.md) › [Title 3 — Programs and Services For Youth](../README.md) › [Subtitle B — Office of the Ombudsman](README.md)
+
+```text
+  § 523-c. Duties of the office of the ombudsman. The office of the
+ombudsman shall:
+  1. visit facilities and programs in accordance with priorities
+established by the director, hear grievances and complaints, investigate
+alleged violations of the legal rights of youth residing in facilities
+operated by the office, and monitor and participate in grievance
+procedures concerning residents in secure facilities, pursuant to
+section five hundred four-a of this article;
+  2. monitor the implementation of the policies and regulations of the
+office and of the rules and regulations of other state agencies, as such
+may be applicable to the legal rights of youth residing in facilities
+operated by the office, and monitor the implementation of statutes,
+court orders, court decisions and court stipulations which affect youth
+residing in facilities operated by the office;
+  3. advise and assist youth residing in facilities operated by the
+office to obtain legal counsel;
+  4. recommend policies, regulations, and legislation designed to
+protect youth residing in facilities operated by the office;
+  5. serve as a resource to youth residing in facilities operated by the
+office by informing them of pertinent laws, regulations and policies,
+and their rights thereunder;
+  6. present significant complaints and concerns of youth residing in
+facilities operated by the office to the commissioner, appropriate
+office staff, and the independent review board; and
+  7. periodically review procedures established by the office to carry
+out the provisions of this article, with a view toward the rights,
+safety and development of youth residing in facilities operated by the
+office.
+```

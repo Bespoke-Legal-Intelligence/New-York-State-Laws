@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 251", "kind": "section", "law_id": "PVH", "location_id": "251", "path": "ARTICLE 6-A › SECTION 251", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/251.md", "title": "Policy and purposes of article"} -->
+# Private Housing Finance Law § 251 — Policy and purposes of article
+
+[Private Housing Finance Law](../README.md) › [Article 6-A — Community Development Corporations](README.md)
+
+```text
+  § 251. Policy and purposes of article. It is the policy of the state
+to promote the reconstruction and redevelopment of municipal urban
+renewal areas in a manner that will serve the civic, cultural and
+recreational needs of the community as a whole.  There is need for local
+non-profit corporations to construct, with mortgage loan participation
+by the New York state housing finance agency and in furtherance of an
+urban renewal plan, civic, cultural and recreational structures and
+facilities and other capital development projects invested with a public
+interest, for the accomplishment of the purposes of article eighteen of
+the constitution and articles fifteen and fifteen-A of the general
+municipal law.
+```

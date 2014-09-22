@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 33", "kind": "section", "law_id": "LAB", "location_id": "33", "path": "ARTICLE 2 › SECTION 33", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/33.md", "title": "Service of notice"} -->
+# Labor Law § 33 — Service of notice
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 33. Service of notice. Whenever the commissioner or board or any
+person affected by the provisions of this chapter is required to give
+notice in writing to any person, such notice may be given by mailing it
+in a letter addressed to such person at his last known place of business
+or by delivering it to him personally. Notice to a partnership may be
+given to any of the partners and notice to a corporation may be given to
+any officer or agent thereof upon whom a summons may be served as
+provided by the civil practice law and rules. Whenever an order or
+demand of the department is required to be served it shall be served in
+the manner hereinbefore provided for the service of a notice or by
+delivering it to any person of suitable age and discretion in charge of
+the premises affected by such order, or if no person is found in charge
+by affixing a copy thereof conspicuously upon the premises.
+```

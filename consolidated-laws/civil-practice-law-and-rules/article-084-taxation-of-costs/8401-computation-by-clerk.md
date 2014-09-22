@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 8401", "kind": "section", "law_id": "CVP", "location_id": "8401", "path": "ARTICLE 84 › SECTION 8401", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/8401.md", "title": "Computation by clerk"} -->
+# Civil Practice Law and Rules § 8401 — Computation by clerk
+
+[Civil Practice Law and Rules](../README.md) › [Article 84 — Taxation of Costs](README.md)
+
+```text
+  § 8401. Computation by clerk. Costs, disbursements and additional
+allowances shall be taxed by the clerk upon the application of the party
+entitled thereto. A valuation of property necessary for fixing an
+additional allowance shall be ascertained by the court, unless it has
+been fixed by the decision of the court, verdict of the jury, or report
+of the referee or commissioners, upon which the judgment is entered. The
+clerk, whether or not objection is made, shall examine the bills
+presented to him for taxation; shall satisfy himself that all the items
+allowed by him are correct and allowable; and shall strike out all items
+of disbursements, other than the prospective charges expressly allowed
+by law, not supported by affidavit showing that they have been
+necessarily incurred and are reasonable in amount. The clerk shall
+insert in the judgment the total of the amount taxed as costs,
+disbursements and additional allowances.
+```

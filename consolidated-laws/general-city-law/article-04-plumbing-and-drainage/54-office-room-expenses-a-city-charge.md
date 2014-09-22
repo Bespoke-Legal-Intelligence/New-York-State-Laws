@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "General City Law § 54", "kind": "section", "law_id": "GCT", "location_id": "54", "path": "ARTICLE 4 › SECTION 54", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/54.md", "title": "Office room; expenses a city charge"} -->
+# General City Law § 54 — Office room; expenses a city charge
+
+[General City Law](../README.md) › [Article 4 — Plumbing and Drainage](README.md)
+
+```text
+  § 54. Office room; expenses a city charge. Each of such examining
+boards of plumbers shall have power to procure suitable quarters for the
+transaction of business, to provide the necessary books and stationery
+and to employ a clerk to keep such books and record the transactions of
+such board. The board of estimate and apportionment or the common
+council of a city as the case may be shall annually insert in their tax
+levy a sufficient sum to meet all the expenditures incurred under the
+provisions of this article.  The expenses incurred by the several
+examining boards of plumbers in the execution and performance of the
+duties imposed by this article shall be a charge on the respective
+cities and shall be audited, levied, collected and paid in the same
+manner as other city charges are audited, levied, collected and paid.
+```

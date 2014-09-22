@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3362", "kind": "section", "law_id": "PBH", "location_id": "3362", "path": "ARTICLE 33 › TITLE 5-A › SECTION 3362", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3362.md", "title": "Lawful medical use"} -->
+# Public Health Law § 3362 — Lawful medical use
+
+[Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 5-A — Medical Use of Marihuana](README.md)
+
+```text
+  * § 3362. Lawful medical use. 1. The possession, acquisition, use,
+delivery, transfer, transportation, or administration of medical
+marihuana by a certified patient or designated caregiver possessing a
+valid registry identification card, for certified medical use, shall be
+lawful under this title; provided that:
+  (a) the marihuana that may be possessed by a certified patient shall
+not exceed a thirty day supply of the dosage as determined by the
+practitioner, consistent with any guidance and regulations issued by the
+commissioner, provided that during the last seven days of any thirty day
+period, the certified patient may also possess up to such amount for the
+next thirty day period;
+  (b) the marihuana that may be possessed by designated caregivers does
+not exceed the quantities referred to in paragraph (a) of this
+subdivision for each certified patient for whom the caregiver possesses
+a valid registry identification card, up to five certified patients;
+  (c) the form or forms of medical marihuana that may be possessed by
+the certified patient or designated caregiver pursuant to a
+certification shall be in compliance with any recommendation or
+limitation by the practitioner as to the form or forms of medical
+marihuana or dosage for the certified patient in the certification; and
+  (d) the medical marihuana shall be kept in the original package in
+which it was dispensed under subdivision twelve of section thirty-three
+hundred sixty-four of this title, except for the portion removed for
+immediate consumption for certified medical use by the certified
+patient.
+  2. Notwithstanding subdivision one of this section:
+  (a) possession of medical marihuana shall not be lawful under this
+title if it is smoked, consumed, vaporized, or grown in a public place,
+regardless of the form of medical marihuana stated in the patient's
+certification.
+  (b) a person possessing medical marihuana under this title shall
+possess his or her registry identification card at all times when in
+immediate possession of medical marihuana.
+  * NB Repealed July 5, 2021
+```

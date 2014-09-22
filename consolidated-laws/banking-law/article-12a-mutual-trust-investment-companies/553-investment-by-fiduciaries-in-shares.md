@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 553", "kind": "section", "law_id": "BNK", "location_id": "553", "path": "ARTICLE 12-A › SECTION 553", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/553.md", "title": "Investment by fiduciaries in shares"} -->
+# Banking Law § 553 — Investment by fiduciaries in shares
+
+[Banking Law](../README.md) › [Article 12-A — Mutual Trust Investment Companies](README.md)
+
+```text
+  § 553. Investment by fiduciaries in shares. Unless the instrument or
+the order, decree or judgment under which moneys are held in a fiduciary
+capacity prohibits such investment, an eligible fiduciary or fiduciaries
+may invest and reinvest moneys so held in shares of stock of one or more
+mutual trust investment companies as it may determine.
+  The net aggregate amount of moneys of any estate, trust or fund
+invested in shares of a mutual trust investment company shall not at any
+time exceed the maximum amount permitted by such rules and regulations
+as may be promulgated by the superintendent of financial services.
+  "An eligible fiduciary or fiduciaries" shall be deemed to mean a trust
+company or a national banking association having its principal office
+within the state of New York and acting either as sole fiduciary or with
+one or more co-fiduciaries.
+```

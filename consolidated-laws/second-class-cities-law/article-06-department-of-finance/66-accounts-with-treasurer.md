@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 66", "kind": "section", "law_id": "SCC", "location_id": "66", "path": "ARTICLE 6 › SECTION 66", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/66.md", "title": "Accounts with treasurer"} -->
+# Second Class Cities Law § 66 — Accounts with treasurer
+
+[Second Class Cities Law](../README.md) › [Article 6 — Department of Finance](README.md)
+
+```text
+  § 66. Accounts with treasurer. The comptroller shall keep an account
+between the city and the treasurer, and of all moneys received and
+disbursed by the treasurer, and for that purpose he shall procure daily
+statements from the treasurer as to the moneys received and disbursed by
+him, and shall also procure from the depositaries in which the city
+funds are deposited by the treasurer, monthly statements of the moneys
+which have been received and paid out on account of the city. He shall
+examine the treasurer's books, accounts and bank books, and ascertain as
+to their correctness, and shall render quarterly a detailed report to
+the mayor and common council of the funds and financial condition of the
+city.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1012", "kind": "section", "law_id": "RPA", "location_id": "1012", "path": "ARTICLE 10 › SECTION 1012", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1012.md", "title": "Who may be joined as defendants"} -->
+# Real Property Actions and Proceedings Law § 1012 — Who may be joined as defendants
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 10 — Action For Dower](README.md)
+
+```text
+  § 1012. Who may be joined as defendants. 1. In either of the cases
+specified in section 1011, any other person claiming title to, or the
+right to the possession of, the real property in which dower is claimed
+may be joined as defendant in the action.
+  2. The people of the state of New York may be made a party defendant
+in an action for dower where the people of the state of New York have an
+interest in or a lien upon the lands affected thereby, in the same
+manner as a private person. In such a case the summons must be served
+upon the attorney-general, who must appear in behalf of the people.  But
+where the people of the state of New York are made a party defendant, as
+herein provided, the complaint shall set forth, in addition to the other
+matters required, detailed facts showing the particular nature of the
+interest in or the lien on the said real property of the people of the
+state of New York and the reason for making the people a party
+defendant.  Upon failure to state such facts the complaint shall be
+dismissed as to the people of the state of New York.
+```

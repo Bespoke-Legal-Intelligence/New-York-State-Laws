@@ -1,0 +1,82 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A29P1SPA", "path": "ARTICLE 29 › PART 1 › SUBPART A", "source": "nys-laws:TAX/A29P1SPA.md", "title": "Taxes Administered By Cities, Counties and School Districts"} -->
+# Subpart A — Taxes Administered By Cities, Counties and School Districts
+
+[Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+## Contents
+
+- [§ 1201 Taxes administered by cities of one million or more](1201-taxes-administered-by-cities-of-one.md)
+- [§ 1201-A Credits against taxes administered by cities of one million or more](1201a-credits-against-taxes-administered.md)
+- [§ 1201-B Additional credits against taxes administered by cities of one million or more](1201b-additional-credits-against-taxes.md)
+- [§ 1201-C Credits against taxes administered by cities of one million or more](1201c-credits-against-taxes-administered.md)
+- [§ 1201-D Dedication of taxes authorized for cities and counties](1201d-dedication-of-taxes-authorized.md)
+- [§ 1201-E Credit](1201e-credit.md)
+- [§ 1202 Taxes administered by counties not wholly within a city](1202-taxes-administered-by-counties-not.md)
+- [§ 1202-A Hotel or motel taxes in Onondaga county](1202a-hotel-or-motel-taxes-in-onondaga-county.md)
+- [§ 1202-B Hotel or motel taxes in Broome county](1202b-hotel-or-motel-taxes-in-broome-county.md)
+- [§ 1202-C Hotel or motel taxes in Jefferson county](1202c-hotel-or-motel-taxes-in-jefferson.md)
+- [§ 1202-D Hotel or motel taxes in Oneida county](1202d-hotel-or-motel-taxes-in-oneida-county.md)
+- [§ 1202-E Hotel or motel taxes in Schenectady county](1202e-hotel-or-motel-taxes-in-schenectady.md)
+- [§ 1202-F Hotel or motel taxes in Tompkins county](1202f-hotel-or-motel-taxes-in-tompkins-county.md)
+- [§ 1202-G Hotel or motel taxes in Cortland county](1202g-hotel-or-motel-taxes-in-cortland-county.md)
+- [§ 1202-G\*2 Tourist home, inn, hotel or motel taxes in Saratoga county and the city of Saratoga Springs](1202g-2-tourist-home-inn-hotel-or-motel-taxes.md)
+- [§ 1202-G\*3 Hotel or motel taxes in Steuben county](1202g-3-hotel-or-motel-taxes-in-steuben.md)
+- [§ 1202-G\*4 Hotel or motel taxes in the county of Westchester](1202g-4-hotel-or-motel-taxes-in-the-county.md)
+- [§ 1202-H Hotel or motel taxes in Chemung county](1202h-hotel-or-motel-taxes-in-chemung-county.md)
+- [§ 1202-H\*2 Hotel or motel taxes in the county of Oswego](1202h-2-hotel-or-motel-taxes-in-the-county.md)
+- [§ 1202-I Hotel or motel taxes in Schuyler county](1202i-hotel-or-motel-taxes-in-schuyler-county.md)
+- [§ 1202-J Hotel or motel taxes in Otsego county](1202j-hotel-or-motel-taxes-in-otsego-county.md)
+- [§ 1202-J\*2 Hotel and motel taxes in Sullivan county](1202j-2-hotel-and-motel-taxes-in-sullivan.md)
+- [§ 1202-J\*3 Hotel or motel taxes in Chautauqua county](1202j-3-hotel-or-motel-taxes-in-chautauqua.md)
+- [§ 1202-K Hotel or motel taxes in Montgomery county](1202k-hotel-or-motel-taxes-in-montgomery.md)
+- [§ 1202-K\*2 Hotel or motel taxes in the county of Rockland](1202k-2-hotel-or-motel-taxes-in-the-county.md)
+- [§ 1202-L Hotel and motel taxes in Ulster county](1202l-hotel-and-motel-taxes-in-ulster-county.md)
+- [§ 1202-L\*2 Hotel or motel taxes in the city of Canandaigua](1202l-2-hotel-or-motel-taxes-in-the-city.md)
+- [§ 1202-L\*3 Hotel or motel taxes in the county of St](1202l-3-hotel-or-motel-taxes-in-the-county.md)
+- [§ 1202-L\*4 Hotel or motel taxes in Niagara Falls](1202l-4-hotel-or-motel-taxes-in-niagara-falls.md)
+- [§ 1202-M Hotel or motel taxes in Livingston county](1202m-hotel-or-motel-taxes-in-livingston.md)
+- [§ 1202-N Hotel or motel taxes in Rensselaer county](1202n-hotel-or-motel-taxes-in-rensselaer.md)
+- [§ 1202-O Hotel and motel taxes in Suffolk county](1202o-hotel-and-motel-taxes-in-suffolk-county.md)
+- [§ 1202-O\*2 Hotel or motel taxes in the city of Lockport, Niagara county](1202o-2-hotel-or-motel-taxes-in-the-city.md)
+- [§ 1202-O\*3 Hotel or motel taxes in Seneca county](1202o-3-hotel-or-motel-taxes-in-seneca-county.md)
+- [§ 1202-P Hotel or motel taxes in Madison county](1202p-hotel-or-motel-taxes-in-madison-county.md)
+- [§ 1202-Q Hotel and motel taxes in Nassau county](1202q-hotel-and-motel-taxes-in-nassau-county.md)
+- [§ 1202-Q\*2 Hotel or motel taxes in Cayuga county](1202q-2-hotel-or-motel-taxes-in-cayuga-county.md)
+- [§ 1202-R Hotel or motel taxes in Genesee county](1202r-hotel-or-motel-taxes-in-genesee-county.md)
+- [§ 1202-S Hotel or motel taxes in Essex county](1202s-hotel-or-motel-taxes-in-essex-county.md)
+- [§ 1202-T Hotel or motel taxes in Niagara county](1202t-hotel-or-motel-taxes-in-niagara-county.md)
+- [§ 1202-T\*2 Hotel or motel taxes in Ontario county](1202t-2-hotel-or-motel-taxes-in-ontario.md)
+- [§ 1202-U Hotel or motel taxes in Allegany county](1202u-hotel-or-motel-taxes-in-allegany-county.md)
+- [§ 1202-U\*2 Hotel and motel tax in Warren county](1202u-2-hotel-and-motel-tax-in-warren-county.md)
+- [§ 1202-U\*3 Hotel or motel taxes in Orleans county](1202u-3-hotel-or-motel-taxes-in-orleans.md)
+- [§ 1202-U\*4 Hotel and motel taxes in Cattaraugus county](1202u-4-hotel-and-motel-taxes-in-cattaraugus.md)
+- [§ 1202-V Hotel or motel taxes in Lewis county](1202v-hotel-or-motel-taxes-in-lewis-county.md)
+- [§ 1202-W Hotel or motel taxes in Wyoming county](1202w-hotel-or-motel-taxes-in-wyoming-county.md)
+- [§ 1202-Y Hotel or motel taxes in the city of Geneva](1202y-hotel-or-motel-taxes-in-the-city.md)
+- [§ 1202-Y\*2 Hotel or motel taxes in Yates county](1202y-2-hotel-or-motel-taxes-in-yates-county.md)
+- [§ 1202-Z Hotel or motel taxes in Clinton county](1202z-hotel-or-motel-taxes-in-clinton-county.md)
+- [§ 1202-AA Occupancy tax in the city of New Rochelle](1202aa-occupancy-tax-in-the-city-of-new.md)
+- [§ 1202-AA\*2 Occupancy tax in the city of Rye](1202aa-2-occupancy-tax-in-the-city-of-rye.md)
+- [§ 1202-AA\*3 Occupancy tax in the city of White Plains](1202aa-3-occupancy-tax-in-the-city-of-white.md)
+- [§ 1202-AA\*4 Hotel or motel taxes in Schoharie county](1202aa-4-hotel-or-motel-taxes-in-schoharie.md)
+- [§ 1202-AA\*5 Hotel and motel tax in Washington county](1202aa-5-hotel-and-motel-tax-in-washington.md)
+- [§ 1202-AA\*6 Hotel or motel taxes in Orange county](1202aa-6-hotel-or-motel-taxes-in-orange.md)
+- [§ 1202-AA\*7 Hotel or motel taxes in the city of Peekskill](1202aa-7-hotel-or-motel-taxes-in-the-city.md)
+- [§ 1202-AA\*8 Hotel or motel taxes in Tioga county](1202aa-8-hotel-or-motel-taxes-in-tioga-county.md)
+- [§ 1202-BB Occupancy tax in the Village of Rye Brook](1202bb-occupancy-tax-in-the-village-of-rye.md)
+- [§ 1203 Taxes administered by cities under one million](1203-taxes-administered-by-cities-under-one.md)
+- [§ 1204 Taxes administered by cities with populations of less than one hundred twenty-five thousand on request of school districts](1204-taxes-administered-by-cities.md)
+- [§ 1205 Imposition of taxes on deeds in the city of Mount Vernon](1205-imposition-of-taxes-on-deeds-in-the-city.md)
+- [§ 1206 Imposition of taxes on deeds in the city of Peekskill](1206-imposition-of-taxes-on-deeds-in-the-city.md)
+
+<details>
+<summary>Official heading of Subpart A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+            SUBPART A--TAXES ADMINISTERED BY CITIES, COUNTIES
+                          AND SCHOOL DISTRICTS
+```
+
+</details>

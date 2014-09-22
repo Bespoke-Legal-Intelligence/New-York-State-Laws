@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 9-508", "kind": "section", "law_id": "UCC", "location_id": "9-508", "path": "ARTICLE 9 › PART 5 › SUBPART 1 › SECTION 9-508", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/9-508.md", "title": "Effectiveness of Financing Statement If New Debtor Becomes Bound by Security Agreement"} -->
+# Uniform Commercial Code § 9-508 — Effectiveness of Financing Statement If New Debtor Becomes Bound by Security Agreement
+
+[Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 5 — Filing](../README.md) › [Subpart 1 — Filing Office; Contents and Effectiveness of Financing Statement](README.md)
+
+```text
+Section 9--508. Effectiveness of Financing Statement If New Debtor
+                  Becomes Bound by Security Agreement.
+  (a) Financing statement naming original debtor. Except as otherwise
+provided in this section, a filed financing statement naming an original
+debtor is effective to perfect a security interest in collateral in
+which a new debtor has or acquires rights to the extent that the
+financing statement would have been effective had the original debtor
+acquired rights in the collateral.
+  (b) Financing statement becoming seriously misleading. If the
+difference between the name of the original debtor and that of the new
+debtor causes a filed financing statement that is effective under
+subsection (a) to be seriously misleading under Section 9--506:
+       (1) the financing statement is effective to perfect a security
+           interest in collateral acquired by the new debtor before, and
+           within four months after, the new debtor becomes bound under
+           Section 9--203(d); and
+       (2) the financing statement is not effective to perfect a
+           security interest in collateral acquired by the new debtor
+           more than four months after the new debtor becomes bound
+           under Section 9--203(d) unless an initial financing statement
+           providing the name of the new debtor is filed before the
+           expiration of that time.
+  (c) When section not applicable. This section does not apply to
+collateral as to which a filed financing statement remains effective
+against the new debtor under Section 9--507(a).
+```

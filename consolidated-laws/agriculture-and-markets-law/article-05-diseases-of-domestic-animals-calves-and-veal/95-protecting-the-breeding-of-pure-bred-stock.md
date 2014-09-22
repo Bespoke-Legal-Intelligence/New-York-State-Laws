@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 95", "kind": "section", "law_id": "AGM", "location_id": "95", "path": "ARTICLE 5 › SECTION 95", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/95.md", "title": "Protecting the breeding of pure bred stock"} -->
+# Agriculture and Markets Law § 95 — Protecting the breeding of pure bred stock
+
+[Agriculture and Markets Law](../README.md) › [Article 5 — Diseases of Domestic Animals; Calves and Veal; Pure Bred Stock; Certificates of Registry](README.md)
+
+```text
+  § 95. Protecting the breeding of pure bred stock.  It shall be
+unlawful for any person or persons owning or in the possession of any
+bull of the age of more than six months, any stallion of the age of more
+than eighteen months, or buck or boar over five months of age, to suffer
+or permit such animal or animals to go, or range, or run at large on any
+lands or premises without the consent of the person entitled to the
+possession of such land or premises.
+  No right of action shall accrue under this section to any person who,
+being liable to contribute to the erection or repair of a division fence
+as required by the town law, shall neglect or refuse to make and
+maintain his proportion of such fence, or shall permit the same to be
+out of repair, for damages done by any animal described in this section
+coming, by reason of such defective fence, from adjoining lands where
+such animal was lawfully kept.
+```

@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Multiple Residence Law § 57", "kind": "section", "law_id": "MRE", "location_id": "57", "path": "ARTICLE 4 › TITLE 1 › SECTION 57", "repealed": false, "repealed_date": null, "source": "nys-laws:MRE/57.md", "title": "Vertical and horizontal openings"} -->
+# Multiple Residence Law § 57 — Vertical and horizontal openings
+
+[Multiple Residence Law](../../README.md) › [Article 4 — Hotels and Similar Dwellings](../README.md) › [Title 1 — Fire Protection](README.md)
+
+```text
+  § 57. Vertical and horizontal openings. In order to prevent the
+vertical and horizontal spread of fire, smoke and gases, it shall, in
+addition to other applicable provisions of this article, be necessary to
+comply with the requirements of this section.
+  1. All doors opening from shafts, stair halls or stairs and the door
+assemblies shall be fire-retarded with the doors self-closing and
+without transoms or any other opening. Except in the case of elevator
+shafts, such shafts, stair halls or stairs may be protected by an
+automatic sprinkler system in lieu of fire retarding.
+  2. All other doors opening upon entrance halls or other public halls
+or corridors in every part of the dwelling shall be self-closing, except
+where such dwelling is equipped throughout with an approved type
+automatic sprinkler or fire-detecting system. It shall be unlawful to
+attach to or maintain on or about any door required to be self-closing
+any device which prevents the self-closing of such door.
+  3. Every existing interior glazed sash, window or opening, other than
+a door, or a fireproof sash, window or opening glazed with wire glass,
+in any partition forming required enclosures around stairs or shafts
+shall be removed and the openings closed up and fire-retarded.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Suffolk County Tax Act § 63", "kind": "section", "law_id": "SCT", "location_id": "63", "path": "ARTICLE 2 › SECTION 63", "repealed": false, "repealed_date": null, "source": "nys-laws:SCT/63.md", "title": "Presumption of validity of tax"} -->
+# Suffolk County Tax Act § 63 — Presumption of validity of tax
+
+[Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
+
+```text
+§ 63. Presumption of validity of tax. It shall be presumed that every
+tax levied and assessment made is valid and regular, and that all the
+steps and proceedings required by law were taken and had, until the
+contrary shall be made to appear. Any action or proceedings commenced by
+any person or persons to test the validity or regularity of any tax
+levied or assessment made shall be commenced within two years from the
+date of the receipt of the tax warrant by the town receiver of taxes.
+The invalidity or irregularity of any tax or assessment shall not be
+available as a defense to any action or proceeding commenced after the
+expiration of two years from the delivery of such warrant as aforesaid,
+or for the enforcement of any right or title, by virtue of any sale
+thereunder, unless an action or proceeding to test the validity or
+regularity of such tax or assessment shall have been commenced within
+the time hereinbefore limited for commencing the same, and shall be
+still pending, or such tax or assessment shall have been adjudged to be
+irregular and invalid.
+```

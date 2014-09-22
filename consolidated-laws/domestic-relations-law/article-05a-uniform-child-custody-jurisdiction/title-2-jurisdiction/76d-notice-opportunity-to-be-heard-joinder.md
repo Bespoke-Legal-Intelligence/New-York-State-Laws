@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 76-D", "kind": "section", "law_id": "DOM", "location_id": "76-D", "path": "ARTICLE 5-A › TITLE 2 › SECTION 76-D", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/76-D.md", "title": "Notice; opportunity to be heard; joinder"} -->
+# Domestic Relations Law § 76-D — Notice; opportunity to be heard; joinder
+
+[Domestic Relations Law](../../README.md) › [Article 5-A — Uniform Child Custody Jurisdiction and Enforcement Act](../README.md) › [Title 2 — Jurisdiction](README.md)
+
+```text
+  § 76-d. Notice; opportunity to be heard; joinder. 1. Before a child
+custody determination is made under this article, notice and an
+opportunity to be heard in accordance with the standards of section
+seventy-five-g of this article must be given to all persons entitled to
+notice under the law of this state as in child custody proceedings
+between residents of this state, any parent whose parental rights have
+not been previously terminated, and any person having physical custody
+of the child.
+  2. This article does not govern the enforceability of a child custody
+determination made without notice or an opportunity to be heard.
+  3. The obligation to join a party and the right to intervene as a
+party in a child custody proceeding under this article are governed by
+the laws of this state as in child custody proceedings between residents
+of this state.
+```

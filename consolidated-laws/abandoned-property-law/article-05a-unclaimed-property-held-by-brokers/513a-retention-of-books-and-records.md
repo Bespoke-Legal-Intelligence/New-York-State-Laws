@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 513-A", "kind": "section", "law_id": "ABP", "location_id": "513-A", "path": "ARTICLE 5-A › SECTION 513-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/513-A.md", "title": "Retention of books and records"} -->
+# Abandoned Property Law § 513-A — Retention of books and records
+
+[Abandoned Property Law](../README.md) › [Article 5-A — Unclaimed Property Held By Brokers](README.md)
+
+```text
+  § 513-a. Retention of books and records.  1. Every broker or dealer
+shall retain the books and records set forth in subdivision two of this
+section relating to the years nineteen hundred sixty-seven, nineteen
+hundred sixty-eight, nineteen hundred sixty-nine and nineteen hundred
+seventy for a period of ten years following the end of the year in which
+created; shall retain all such books and records relating to the year
+nineteen hundred seventy-one for a period of nine years following the
+close of nineteen hundred seventy-one; and shall retain all such books
+and records relating to any subsequent calendar year for a period of ten
+years following the end of the year in which created. The books and
+records so retained shall be made available to the state comptroller
+upon his request in the performance of his duties under this chapter.
+  2. The following books and records shall be those referred to in
+subdivision one of this section: general ledgers, customers ledgers;
+daily and weekly stock position records; dividend sheets; cash blotters;
+purchase and sales blotters; daily journals; bank reconciliations;
+cancelled checks; claim letters; independent auditor's reports; trial
+balances; private ledgers; financial statements and supporting data;
+chart of accounts; and copies of abandoned property reports.
+```

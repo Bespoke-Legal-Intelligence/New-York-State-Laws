@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1320", "kind": "section", "law_id": "ISC", "location_id": "1320", "path": "ARTICLE 13 › SECTION 1320", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1320.md", "title": "Deposits by alien insurers; statutory deposits"} -->
+# Insurance Law § 1320 — Deposits by alien insurers; statutory deposits
+
+[Insurance Law](../README.md) › [Article 13 — Assets and Deposits](README.md)
+
+```text
+  § 1320. Deposits by alien insurers; statutory deposits. (a) No alien
+insurer authorized to do an insurance business in this state shall do
+such business unless it shall have securities deposited (for the benefit
+of all its policyholders, or all its policyholders and creditors, in the
+United States) with the superintendent or with proper state officers of
+other states, or held as trusteed assets, in an amount at least equal to
+one hundred fifty per centum of the capital required to be maintained by
+a domestic stock insurer licensed to do the same kinds of insurance. In
+any event the deposit with the superintendent shall at least equal:
+  (1) if such insurer is licensed in this state to do only one kind of
+insurance, five hundred thousand dollars;
+  (2) if such insurer is licensed in this state to do two or more kinds
+of insurance, an amount equal to the lesser of the capital required to
+be maintained by a domestic stock insurer licensed to do the same kinds
+of insurance, or one million dollars.
+  (b) Notwithstanding the foregoing, any alien insurer initially
+licensed to do an insurance business in this state prior to July first,
+nineteen hundred eighty-two shall have securities deposited or held as
+trusteed assets, as provided in subsection (a) hereof in an amount at
+least equal to fifty percent of the deposit requirements applicable to
+an alien insurer initially authorized to do an insurance business in
+this state on or after July first, nineteen hundred eighty-two.
+  (c) Any licensed alien insurer may make additional deposits with the
+superintendent in order to comply with this section or section one
+thousand three hundred twelve of this article.
+  (d) In any financial statement of a United States branch of any such
+alien insurer the item corresponding to capital stock of a domestic
+stock corporation shall be termed its "statutory deposit" and shall be
+in an amount equal to the deposit required to comply with the provisions
+of subsection (a) or (b) hereof.
+```

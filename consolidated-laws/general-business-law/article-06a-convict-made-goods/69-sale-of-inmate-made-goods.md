@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 69", "kind": "section", "law_id": "GBS", "location_id": "69", "path": "ARTICLE 6-A › SECTION 69", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/69.md", "title": "Sale of inmate made goods"} -->
+# General Business Law § 69 — Sale of inmate made goods
+
+[General Business Law](../README.md) › [Article 6-A — Convict Made Goods](README.md)
+
+```text
+  § 69. Sale of inmate made goods. No goods, wares, or merchandise,
+manufactured, produced or mined wholly or in part by inmates, except
+inmates or persons on parole, probation, or release, shall be sold in
+this state to any person, firm, association or corporation except that
+nothing in this section shall be construed to forbid the sale of such
+goods produced in the correctional facilities of this state to the
+state, the government of the United States or to any state of the United
+States, or any political subdivision thereof, or for any public
+institution owned or managed and controlled by the state, or any
+political subdivision thereof, as provided in section one hundred
+eighty-four of the correction law, or any public corporation or
+eleemosynary association or corporation funded in whole or in part by
+any federal, state or local funds, or to forbid the sale, subject to the
+rules and regulations of the head of the department or other like
+governmental authority having jurisdiction, of any product resulting
+from occupational therapy within any penal or correctional institution,
+as provided in section one hundred ninety-seven of the correction law.
+  Nothing in this section shall be construed to forbid the sale of parts
+and components produced by inmate labor in correctional industry
+programs of the government of the United States or any state of the
+United States, or any political subdivision thereof, to the department
+of corrections and community supervision's division of correctional
+industries for use in its manufacturing operations.
+  A violation of the provisions of this section shall constitute a
+misdemeanor.
+```

@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 620", "kind": "section", "law_id": "PML", "location_id": "620", "path": "ARTICLE 6 › SECTION 620", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/620.md", "title": "Bonds and notes as legal investments"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 620 — Bonds and notes as legal investments
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 6 — New York City Off-track Betting Corporation](README.md)
+
+```text
+  § 620. Bonds and notes as legal investments. The bonds and notes of
+the corporation are hereby made securities in which all public officers
+and bodies of this state and all municipalities and municipal
+subdivisions, all insurance companies and associations, and other
+persons carrying on an insurance business, all banks, bankers, trust
+companies, savings banks and savings associations, including savings and
+loan associations, building and loan associations, investment companies
+and other persons carrying on a banking business, all administrators,
+guardians, executors, trustees and other fiduciaries, and all other
+persons whatsoever who are now or may hereafter be authorized to invest
+in bonds or in other obligations of the state, may properly and legally
+invest funds, including capital, in their control or belonging to them.
+```

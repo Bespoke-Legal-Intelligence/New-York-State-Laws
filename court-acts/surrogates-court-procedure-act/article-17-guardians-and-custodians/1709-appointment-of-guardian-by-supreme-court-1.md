@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1709", "kind": "section", "law_id": "SCP", "location_id": "1709", "path": "ARTICLE 17 › SECTION 1709", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1709.md", "title": "Appointment of guardian by supreme court 1"} -->
+# Surrogate's Court Procedure Act § 1709 — Appointment of guardian by supreme court 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 17 — Guardians and Custodians](README.md)
+
+```text
+§ 1709. Appointment of guardian by supreme court
+  1. Where the supreme court appoints a guardian of an infant's person
+or property, or both, a certified copy of the order or decree appointing
+the guardian and of the bond given by the guardian shall be filed in the
+surrogate's court of the county in which the infant is domiciled, or if
+the infant be a non-domiciliary of the state, in the county in which the
+infant has property and a minute thereof made and indexed in the book
+kept by the court in which orders or decrees appointing guardians are
+entered.
+  2. Letters shall thereupon issue to the guardian from such court upon
+qualifying as provided in section 708.
+  3. A guardian so appointed shall be subject to all the duties and
+liabilities of a guardian specified in this article.
+```

@@ -1,0 +1,50 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 960", "kind": "section", "law_id": "TAX", "location_id": "960", "path": "ARTICLE 26 › PART 1 › SECTION 960", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/960.md", "title": "Nonresident's estate tax"} -->
+# Tax Law § 960 — Nonresident's estate tax
+
+[Tax Law](../../README.md) › [Article 26 — Estate Tax](../README.md) › [Part 1 — Computation of Tax](README.md)
+
+```text
+  § 960. Nonresident's estate tax. (a) General.--A tax is hereby imposed
+on the transfer, from any deceased individual who at his death was not a
+resident of New York state, of real and tangible personal property
+having an actual situs in New York state and either (i) includible in
+his federal gross estate or (ii) which would be includible in his New
+York gross estate pursuant to section nine hundred fifty-seven (relating
+to certain limited powers of appointment) if he were a resident of New
+York state.
+  (b) Computation of tax.--The tax imposed under subsection (a) shall be
+the same as the tax that would be due, if the decedent had died a
+resident, under subsection (a) of section nine hundred fifty-two, except
+that for purposes of computing the tax under subsection (b) of section
+nine hundred fifty-two, "New York taxable estate" shall not include the
+value of any intangible personal property otherwise includible in the
+deceased individual's New York gross estate, and shall not include the
+amount of any gift unless such gift consists of real or tangible
+personal property having an actual situs in New York state or intangible
+personal property employed in a business, trade or profession carried on
+in this state.
+  (c) Cross references.--(1) For valuation of property includible in the
+New York gross estate if the decedent had been a resident, see section
+nine hundred fifty-four.
+  (2) For provisions of the internal revenue code applicable to the
+federal gross estate of a decedent who was neither a resident nor a
+citizen of the United States, see:
+  Sec. 2103. Definition of gross estate.
+  Sec. 2104. Property within the United States.
+  Sec. 2105. Property without the United States.
+  (d) Works of art on loan for exhibition. Notwithstanding the
+foregoing, the tax imposed under subsection (a) of this section on the
+transfer, from any deceased individual who at his or her death was not a
+resident of the state of New York, of works of art having an actual
+situs in the state of New York and either (i) includible in his or her
+federal gross estate or (ii) which would be includible in his or her New
+York gross estate pursuant to section nine hundred fifty-seven (relating
+to certain limited powers of appointment) if he or she were a resident
+of the state of New York, shall not be subject to the tax imposed by
+this section if such works of art are loaned to a public gallery located
+within the state of New York solely for exhibition purposes but only if
+no part of the net earnings of such public gallery or museum inure to
+the benefit of any private stockholder or individual, and, at the time
+of the death of such individual such works of art are on exhibition or
+en route to or from exhibition in such a public gallery or museum.
+```

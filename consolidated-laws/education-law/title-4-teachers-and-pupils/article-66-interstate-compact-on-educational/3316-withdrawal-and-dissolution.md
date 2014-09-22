@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3316", "kind": "section", "law_id": "EDN", "location_id": "3316", "path": "TITLE 4 › ARTICLE 66 › SECTION 3316", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3316.md", "title": "Withdrawal and dissolution"} -->
+# Education Law § 3316 — Withdrawal and dissolution
+
+[Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 66 — Interstate Compact On Educational Opportunity For Military Children](README.md)
+
+```text
+  § 3316. Withdrawal and dissolution. 1. Once effective, the compact
+shall continue in force and remain binding upon each and every member
+state; provided that a member state may withdraw from the compact by
+specifically repealing the statute, which enacted the compact into law.
+  2. Withdrawal from this compact shall be by the enactment of a statute
+repealing the same, but shall not take effect until written notice of
+the withdrawal has been given by the withdrawing state to the governor
+of each other member jurisdiction.
+  3. The withdrawing state shall immediately notify the chairperson of
+the interstate commission in writing upon the introduction of
+legislation repealing this compact in the withdrawing state. The
+interstate commission shall notify the other member states of the
+withdrawing state's intent to withdraw within sixty days of its receipt
+thereof.
+  4. The withdrawing state is responsible for all assessments,
+obligations and liabilities incurred through the effective date of
+withdrawal, including obligations, the performance of which extend
+beyond the effective date of withdrawal.
+  5. Reinstatement following withdrawal of a member state shall occur
+upon the withdrawing state reenacting the compact or upon such later
+date as determined by the interstate commission.
+```

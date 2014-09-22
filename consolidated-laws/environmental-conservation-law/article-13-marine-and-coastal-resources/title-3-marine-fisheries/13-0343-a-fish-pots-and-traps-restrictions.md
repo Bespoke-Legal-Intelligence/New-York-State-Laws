@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 13-0343-A", "kind": "section", "law_id": "ENV", "location_id": "13-0343-A", "path": "ARTICLE 13 › TITLE 3 › SECTION 13-0343-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/13-0343-A.md", "title": "Fish pots and traps; restrictions"} -->
+# Environmental Conservation Law § 13-0343-A — Fish pots and traps; restrictions
+
+[Environmental Conservation Law](../../README.md) › [Article 13 — Marine and Coastal Resources](../README.md) › [Title 3 — Marine Fisheries](README.md)
+
+```text
+§ 13-0343-a. Fish pots and traps; restrictions.
+  1. No person shall utilize commercial fishing gear commonly known as
+"fish pots" or "fish traps" within five hundred feet of any artificial
+reef. The department may publish a list of artificial reef sites and
+locations where the placing of pots or traps is prohibited.
+  2. The department may regulate the use and design of "fish pots" and
+"fish traps", including, but not limited to, the following matters:
+design, including, but not limited to, identification and marking;
+configuration and material composition; requirements for escape panels
+and/or vents; restrictions on the total number of traps or pots that may
+be fished individually or collectively; and in addition to the
+restrictions contained in subdivision one of this section, those areas
+where such pots or traps may not be used.
+  3. The department may require those who hold licenses pursuant to
+section 13-0335 of this title to first obtain a permit from the
+department to set, operate, maintain or use "fish pots" or "fish traps".
+The department may restrict the number of permits issued pursuant to
+this section.
+  4. This section shall not apply to any "fish pot" or "fish trap"
+exempted under section 13-0335 of this title. Any rule or regulation
+proposed or adopted pursuant to this section shall be consistent with
+the provisions of section 13-0105 of this article. The commissioner is
+authorized to promulgate such rules or regulations as he deems necessary
+to implement this section.
+  5. No person shall return a fish pot or trap which contains fish to
+the water.
+```

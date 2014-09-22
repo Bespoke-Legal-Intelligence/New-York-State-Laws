@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 43-0101", "kind": "section", "law_id": "ENV", "location_id": "43-0101", "path": "ARTICLE 43 › SECTION 43-0101", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/43-0101.md", "title": "Legislative intent"} -->
+# Environmental Conservation Law § 43-0101 — Legislative intent
+
+[Environmental Conservation Law](../README.md) › [Article 43 — Lake George Park Commission](README.md)
+
+```text
+§ 43-0101. Legislative intent.
+  The preservation and enhancement of natural beauty in the state, the
+preservation and conservation of pure water supplies and other natural
+resources, the preservation and development of natural resources and
+recreational facilities for the benefit of the public, the promotion of
+the study of history, natural science, and lore, the conservation and
+protection of state lands in the forest preserve and areas adjacent
+thereto, and the promotion and preservation of the health and welfare of
+the public residing, sojourning, or visiting therein being the concern
+of the state, the legislature hereby declares it to be in the public
+interest to preserve, protect, conserve and enhance the unique natural
+scenic beauty and to promote the study of the history, natural science,
+and lore of Lake George and the area near or adjacent thereto and to
+provide means whereby owners of real property near or adjacent to the
+lake, other interested individuals, corporations, associations,
+organizations, and municipalities bordering on the lake may preserve,
+protect and enhance the natural scenic beauty of the lake and its
+surrounding countryside and regulate the use of the lake and the area
+near or adjacent thereto for appropriate residential, conservation,
+health, recreational, and educational purposes.
+```

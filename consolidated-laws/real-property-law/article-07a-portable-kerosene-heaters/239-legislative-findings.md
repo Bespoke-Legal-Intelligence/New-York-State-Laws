@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 239", "kind": "section", "law_id": "RPP", "location_id": "239", "path": "ARTICLE 7A › SECTION 239", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/239.md", "title": "Legislative findings"} -->
+# Real Property Law § 239 — Legislative findings
+
+[Real Property Law](../README.md) › [Article 7A — Portable Kerosene Heaters](README.md)
+
+```text
+  § 239. Legislative findings. The legislature recognizes that the
+ever-increasing cost of home heating has resulted in widespread consumer
+interest in the use of portable kerosene heaters. Because there is a
+wide variety of kerosene heaters, including different designs and
+intended purposes, the public interest requires that those heaters which
+are used in residential structures meet certain safety standards
+designed to insure that they are reasonably safe for that purpose.
+Accordingly, it is the intent of this article to protect the public by
+establishing standards which will permit the use of reasonably safe
+heaters in residential structures.
+```

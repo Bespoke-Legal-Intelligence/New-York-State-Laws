@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2930", "kind": "section", "law_id": "PBA", "location_id": "2930", "path": "ARTICLE 9 › TITLE 8 › SECTION 2930", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2930.md", "title": "Definitions"} -->
+# Public Authorities Law § 2930 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 9 — General Provisions](../README.md) › [Title 8 — Internal Control Responsibilities of Public Authorities](README.md)
+
+```text
+  § 2930. Definitions. For the purposes of this title, the following
+terms shall have the following meanings:
+  1. "Internal control". A process that integrates the activities,
+plans, attitudes, policies, systems, resources and efforts of the people
+of an organization working together, and that is designed to provide
+reasonable assurance that the organization will achieve its objectives
+and mission. The objectives of an internal control system include, but
+are not limited to: the safeguarding of assets; checking the accuracy
+and reliability of accounting data and financial reporting; promoting
+the effectiveness and efficiency of operations; ensuring compliance with
+applicable laws and regulations; and encouraging adherence to prescribed
+managerial policies. Internal control review processes are used
+periodically to evaluate the ongoing internal control system and to
+assess and monitor the implementation of necessary corrective actions.
+  2. "Internal audit". An appraisal activity established by the
+management of an organization for the review of operations as a means of
+assuring conformity with management policies and the effectiveness of
+internal control, and conducted in conformance with generally accepted
+standards for internal auditing.
+  3. "Covered authority". Any public authority or public benefit
+corporation, other than a bi-state authority or public benefit
+corporation, a majority of whose members are appointed by the governor
+or serve as members by virtue of holding state offices to which they
+were appointed by the governor, or any combination thereof.
+```

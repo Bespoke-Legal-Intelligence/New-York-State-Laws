@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "County Law § 299-U", "kind": "section", "law_id": "CNT", "location_id": "299-U", "path": "ARTICLE 5-D › SECTION 299-U", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/299-U.md", "title": "Joint construction and operation of projects"} -->
+# County Law § 299-U — Joint construction and operation of projects
+
+[County Law](../README.md) › [Article 5-D — County Small Watershed Protection Districts](README.md)
+
+```text
+  § 299-u. Joint construction and operation of projects. Where two or
+more adjoining counties have established agencies and have created
+watershed districts for the purposes of this act in the watershed common
+to the counties, the agencies and the administrative heads or bodies,
+subject to the approval of their respective boards of supervisors, may
+enter into agreements for the planning, installation, construction,
+operation, maintenance, assessments of costs and repair of a joint small
+watershed project. Any agency or agencies within this state, established
+by a county or counties for the purposes of this act with respect to
+small watersheds, may, subject to the approval of the board or boards of
+supervisors of the county or counties, enter into agreements respecting
+joint projects with one or more "local organizations" in other states as
+defined in section ten hundred two of title sixteen of the United States
+code. The provisions of all sections of this article concerning the
+planning, installation, construction, operation, maintenance,
+assessments of costs and repair of, and the approvals required for a
+project within a single county of this state, shall apply with equal and
+full force and effect to a joint project, but nothing herein shall be
+deemed to prevent or restrict the additional applicability thereto of
+any requirements of another state in any matter relating to its interest
+or the interests of its subdivisions therein.
+```

@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-2723", "kind": "section", "law_id": "ENV", "location_id": "15-2723", "path": "ARTICLE 15 › TITLE 27 › SECTION 15-2723", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-2723.md", "title": "Penalties and enforcement"} -->
+# Environmental Conservation Law § 15-2723 — Penalties and enforcement
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 27 — Wild, Scenic and Recreational Rivers System](README.md)
+
+```text
+§ 15-2723. Penalties and enforcement.
+  Any person who violates any provision of this title or any regulation
+or order issued pursuant to this act by the commissioner or the agency
+may be compelled to comply with or obey the same by injunction, mandamus
+or other appropriate remedy. In addition, any such person shall pay a
+civil penalty of not less than one hundred dollars or more than one
+thousand dollars for each day of such violation. The commissioner or the
+agency as the case may be, is authorized to commence a civil action to
+recover such civil penalties or other appropriate relief.
+```

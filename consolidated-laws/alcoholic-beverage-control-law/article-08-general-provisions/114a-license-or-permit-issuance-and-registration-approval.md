@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 114-A", "kind": "section", "law_id": "ABC", "location_id": "114-A", "path": "ARTICLE 8 › SECTION 114-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/114-A.md", "title": "License or permit issuance and registration approval"} -->
+# Alcoholic Beverage Control Law § 114-A — License or permit issuance and registration approval
+
+[Alcoholic Beverage Control Law](../README.md) › [Article 8 — General Provisions](README.md)
+
+```text
+  § 114-a. License or permit issuance and registration approval.  No
+license or permit shall be issued and no registration approved pursuant
+to this chapter until such time as any check or draft submitted for
+payment of the required fee has been honored by the payor financial
+institution, provided, however, that this provision shall not apply in
+the case of a certified check, bank officers' check or money order.
+```

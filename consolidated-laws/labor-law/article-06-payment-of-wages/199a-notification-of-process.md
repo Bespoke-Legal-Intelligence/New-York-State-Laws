@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 199-A", "kind": "section", "law_id": "LAB", "location_id": "199-A", "path": "ARTICLE 6 › SECTION 199-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/199-A.md", "title": "Notification of process"} -->
+# Labor Law § 199-A — Notification of process
+
+[Labor Law](../README.md) › [Article 6 — Payment of Wages](README.md)
+
+```text
+  § 199-a. Notification of process. 1. Each employee who files a
+complaint regarding a violation of a provision of this article (payment
+of wages), article nineteen (minimum wage act), or article nineteen-A
+(minimum wage standards and protective labor practices for farm
+workers), section one hundred sixty-one, section one hundred sixty-two,
+section two hundred twelve-a, section two hundred twelve-b, or section
+two hundred fifteen of this chapter, or a rule or regulation promulgated
+thereunder, shall be provided with a written description of the
+anticipated processing of the complaint, including investigation, case
+conference, potential civil and criminal penalties, and collection
+procedures.
+  2. Each employee and his or her authorized representative shall be
+notified in writing of any case conference before it is held and given
+the opportunity to attend.
+  3. Each employee and his or her authorized representative shall be
+notified in writing of any award and collection of back wages and civil
+penalties, and of any intent to seek criminal penalties. In the event
+that criminal penalties are sought the employee and his or her
+authorized representative shall be notified of the outcome of
+prosecution.
+```

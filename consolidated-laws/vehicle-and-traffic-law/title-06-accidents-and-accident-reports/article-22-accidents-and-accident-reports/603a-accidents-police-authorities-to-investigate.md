@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 603-A", "kind": "section", "law_id": "VAT", "location_id": "603-A", "path": "TITLE 6 › ARTICLE 22 › SECTION 603-A", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/603-A.md", "title": "Accidents; police authorities to investigate"} -->
+# Vehicle and Traffic Law § 603-A — Accidents; police authorities to investigate
+
+[Vehicle and Traffic Law](../../README.md) › [Title 6 — Accidents and Accident Reports](../README.md) › [Article 22 — Accidents and Accident Reports](README.md)
+
+```text
+  § 603-a. Accidents; police authorities to investigate. 1. In addition
+to the requirements of section six hundred three of this article,
+whenever a motor vehicle accident results in serious physical injury or
+death to a person, and such accident either is discovered by a police
+officer, or reported to a police officer within five days after such
+accident occurred, the police shall conduct an investigation of such
+accident. Such investigation shall be conducted for the purposes of
+making a determination of the following: the facts and circumstances of
+the accident; the type or types of vehicles involved, including
+passenger motor vehicles, commercial motor vehicles, motorcycles,
+limited use motorcycles, off-highway motorcycles, and/or bicycles;
+whether pedestrians were involved; the contributing factor or factors;
+whether it can be determined if a violation or violations of this
+chapter occurred, and if so, the specific provisions of this chapter
+which were violated and by whom; and, the cause of such accident, where
+such cause can be determined. The police shall forward a copy of the
+investigation report to the commissioner within five business days of
+the completion of such report.
+  2. For purposes of this section, the following terms shall have the
+following meanings:
+  (a) "commercial motor vehicle" shall have the same meaning as such
+term is defined in either subdivision four of section five hundred one-a
+or subdivision one of section five hundred nine-p of this chapter; and
+  (b) "serious physical injury" shall have the same meaning as such term
+is defined in section 10.00 of the penal law.
+```

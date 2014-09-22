@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Military Law § 311-A", "kind": "section", "law_id": "MIL", "location_id": "311-A", "path": "ARTICLE 13 › SECTION 311-A", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/311-A.md", "title": "Termination of motor vehicle lease contracts"} -->
+# Military Law § 311-A — Termination of motor vehicle lease contracts
+
+[Military Law](../README.md) › [Article 13 — New York State Soldiers' and Sailors' Civil Relief Act](README.md)
+
+```text
+  § 311-a. Termination of motor vehicle lease contracts. 1. The
+provisions of this section shall apply to every lease of a motor vehicle
+for personal, professional, business, agricultural or similar purposes
+in any case in which (a) such lease was executed by or on behalf of a
+person who, after the execution of such lease, entered active military
+service, and (b) the motor vehicle so leased has been used for such
+purposes, or for a combination of such purposes by such person or his or
+her legal dependents.
+  The provision of this section shall also apply to any lease covering a
+motor vehicle used for personal purposes where such lease was executed
+by or on the behalf of a person, who, after the execution of such lease,
+entered active military service where such lease was also executed by or
+on the behalf of the spouse of such a person.
+  2. All leases described in subdivision one of this section may be
+terminated by notice in writing delivered to the lessor or to the
+lessor's agent by a lessee at any time following the date of the
+beginning of such active military service. Delivery of such notice shall
+be accomplished by certified mail duly addressed to the lessor or to the
+lessor's agent. Termination of any such lease providing for monthly
+lease payments shall not be effective until: (a) thirty days after the
+first date on which the next lease payment is due and payable subsequent
+to the date when such notice is delivered; or (b) the motor vehicle
+subject to the lease is returned to the custody or the control of the
+lessor, whichever is later. In the case of all motor vehicle leases, any
+unpaid lease payments for a period preceding termination shall be
+proratably computed and any lease payments made in advance for a period
+succeeding termination shall be refunded by the lessor. Upon application
+by the lessor to a court of competent jurisdiction prior to the
+termination period provided for in the notice, any relief granted in
+this subdivision shall be subject to such modifications or restrictions
+as in the opinion of such court may be appropriate in the interest of
+justice.
+```

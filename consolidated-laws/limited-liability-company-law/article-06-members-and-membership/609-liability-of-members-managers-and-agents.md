@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 609", "kind": "section", "law_id": "LLC", "location_id": "609", "path": "ARTICLE 6 › SECTION 609", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/609.md", "title": "Liability of members, managers and agents"} -->
+# Limited Liability Company Law § 609 — Liability of members, managers and agents
+
+[Limited Liability Company Law](../README.md) › [Article 6 — Members and Membership](README.md)
+
+```text
+  § 609. Liability of members, managers and agents. (a) Neither a member
+of a limited liability company, a manager of a limited liability company
+managed by a manager or managers nor an agent of a limited liability
+company (including a person having more than one such capacity) is
+liable for any debts, obligations or liabilities of the limited
+liability company or each other, whether arising in tort, contract or
+otherwise, solely by reason of being such member, manager or agent or
+acting (or omitting to act) in such capacities or participating (as an
+employee, consultant, contractor or otherwise) in the conduct of the
+business of the limited liability company.
+  (b) Notwithstanding the provisions of subdivision (a) of this section,
+all or specified members of a limited liability company may be liable in
+their capacity as members for all or specified debts, obligations or
+liabilities of a limited liability company if (l) a statement to such
+effect is specifically contained in the articles of organization of the
+limited liability company and (2) any such member so liable shall have
+(i) specifically consented in writing (A) to the adoption of such
+provisions or (B) to be bound by such provision or (ii) specifically
+voted for the adoption of such provision. The absence of either such
+statement in the articles of organization or such consent or vote of any
+such member shall in no way affect or impair the ability of a member to
+act as a guarantor or a surety for, provide collateral for or otherwise
+be liable for, the debts, obligations or liabilities of a limited
+liability company as authorized pursuant to section six hundred eleven
+of this article.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 434", "kind": "section", "law_id": "TRA", "location_id": "434", "path": "ARTICLE 18 › SECTION 434", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/434.md", "title": "Reports"} -->
+# Transportation Law § 434 — Reports
+
+[Transportation Law](../README.md) › [Article 18 — Service Enhancement Program](README.md)
+
+```text
+  § 434. Reports. Railroads are to file one copy of their current plan
+annually with the department not later than a date determined according
+to the commissioner of taxation and finance schedule for producing
+railroad ceiling values. The department shall review and comment on
+these plans and shall report annually on the service enhancement program
+on a date determined by it according to the commissioner of taxation and
+finance schedule for producing railroad ceiling values. The report shall
+be sent to the governor, the state and local railroad taxation and
+service advisory council, the majority and minority leaders of the
+senate and the speaker and minority leader of the assembly. It shall
+include the department's views on the consistency of the railroad plans
+with the objectives of the program as specified in section four hundred
+thirty-one of this article and with the content of the plans as
+specified in section four hundred thirty-three of this article.
+```

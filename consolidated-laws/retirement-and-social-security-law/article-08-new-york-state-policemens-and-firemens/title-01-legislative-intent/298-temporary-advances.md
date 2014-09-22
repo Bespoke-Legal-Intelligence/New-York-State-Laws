@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 298", "kind": "section", "law_id": "RSS", "location_id": "298", "path": "ARTICLE 8 › TITLE 1 › SECTION 298", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/298.md", "title": "Temporary advances"} -->
+# Retirement and Social Security Law § 298 — Temporary advances
+
+[Retirement and Social Security Law](../../README.md) › [Article 8 — New York State Policemen's and Firemen's Retirement System Short Title](../README.md) › [Title 1 — Legislative Intent; Transitory Provisions](README.md)
+
+```text
+  § 298. Temporary advances.  At any time after this article shall
+become law and prior to the date upon which assets and other funds are
+transferred from the employees' retirement system to the retirement
+system established by this article, the comptroller is empowered, upon
+his warrant, to direct the head of the division of the treasury, to
+transfer from funds kept on deposit to the credit of the New York state
+employees' retirement system an amount, not exceeding five million
+dollars, to the credit of the retirement system established by this
+article. Such monies shall be deposited as provided in subdivision e of
+section three hundred thirteen of this article, and shall be used for
+the purpose of meeting disbursements for pensions, annuities and other
+payments ordered by the comptroller, and for expenses of maintenance and
+operation, including personal service. The amount so advanced shall be
+deducted from the total amount to be transferred by the employees'
+retirement system to the retirement system established by this article,
+upon the final settlement of all accounts by such system as provided in
+this article.
+```

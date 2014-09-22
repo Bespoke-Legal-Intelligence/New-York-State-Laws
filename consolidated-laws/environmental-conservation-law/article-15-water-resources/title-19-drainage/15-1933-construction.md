@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-1933", "kind": "section", "law_id": "ENV", "location_id": "15-1933", "path": "ARTICLE 15 › TITLE 19 › SECTION 15-1933", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-1933.md", "title": "Construction"} -->
+# Environmental Conservation Law § 15-1933 — Construction
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 19 — Drainage](README.md)
+
+```text
+§ 15-1933. Construction.
+  1. In general all construction work shall be done by contract, but in
+the event that the estimated cost of such work or of a specified portion
+thereof shall not exceed the sum of twenty-five thousand dollars, the
+department may, on the recommendation of the Commissioner of
+Transportation, authorize the Commissioner of Transportation to do such
+work or part of such work by days' work under his direction.
+  2. All costs of supervision and inspection of construction work, costs
+of making surveys, plans and estimates in connection therewith and the
+costs of taking title to property and any other costs which may be
+incurred in connection with or incidental to such work shall be
+considered a part of the cost of such improvement.
+```

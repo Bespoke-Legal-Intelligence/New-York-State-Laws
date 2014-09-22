@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 221-H", "kind": "section", "law_id": "BNK", "location_id": "221-H", "path": "ARTICLE 5-B › SECTION 221-H", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/221-H.md", "title": "Licensee's books and records; reports"} -->
+# Banking Law § 221-H — Licensee's books and records; reports
+
+[Banking Law](../README.md) › [Article 5-B — License For a Foreign Banking Corporation to Maintain a Representative](README.md)
+
+```text
+  § 221-h. Licensee's books and records; reports. A foreign banking
+corporation licensed pursuant to this article shall keep or cause each
+of its representatives to keep and use such books, accounts and records
+as will enable the superintendent to determine whether the
+representative is complying with the provisions of this article and with
+the rules and regulations lawfully made by the superintendent. Such
+books, accounts and records shall be preserved for at least three years;
+provided however, that preservation by photographic reproduction thereof
+or records in photographic form shall constitute compliance with the
+requirements of this section.
+  The superintendent may require such regular or special reports as may
+be deemed necessary to the proper supervision of licensees under this
+article. Such additional reports shall be in the form prescribed by the
+superintendent and shall be subscribed and affirmed as true under the
+penalties of perjury.
+```

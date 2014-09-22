@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 119", "kind": "section", "law_id": "WKC", "location_id": "119", "path": "ARTICLE 7 › SECTION 119", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/119.md", "title": "Subpoenas"} -->
+# Workers' Compensation Law § 119 — Subpoenas
+
+[Workers' Compensation Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+```text
+  § 119. Subpoenas. A subpoena or a subpoena duces tecum may be signed
+and issued by the chairman, a member of the board, referee or such other
+officer as may be designated by the chairman. A subpoena or a subpoena
+duces tecum may also be signed and issued by any attorney and
+counsellor-at-law appearing before the board on behalf of a claimant or
+other party. A subpoena issued under this section shall be regulated by
+civil practice law and rules.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 14", "kind": "section", "law_id": "SCC", "location_id": "14", "path": "ARTICLE 3 › SECTION 14", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/14.md", "title": "Elections"} -->
+# Second Class Cities Law § 14 — Elections
+
+[Second Class Cities Law](../README.md) › [Article 3 — Officers](README.md)
+
+```text
+  § 14. Elections. All elections of city officers, including supervisors
+and judicial officers of a city court or inferior local court, shall be
+held on the Tuesday succeeding the first Monday in November, and, except
+to fill vacancies, in an odd-numbered year. All such elections shall be
+held at the same time and places as the general election held in such
+year, and shall be conducted in all respects in the same manner as
+general elections in cities are required to be conducted, and all the
+provisions of law relative to such elections shall be applicable to the
+election for officers of the city. In case of the failure to elect an
+elective city officer, except as otherwise provided herein, the office
+shall be deemed to be vacant for the purpose of choosing a successor and
+the vacancy shall be filled in the manner provided herein for the
+filling of a vacancy in such office happening otherwise than by
+expiration of term.
+```

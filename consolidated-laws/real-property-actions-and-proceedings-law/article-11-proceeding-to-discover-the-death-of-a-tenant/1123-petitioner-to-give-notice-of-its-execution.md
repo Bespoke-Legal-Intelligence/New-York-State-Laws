@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1123", "kind": "section", "law_id": "RPA", "location_id": "1123", "path": "ARTICLE 11 › SECTION 1123", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1123.md", "title": "Petitioner to give notice of its execution"} -->
+# Real Property Actions and Proceedings Law § 1123 — Petitioner to give notice of its execution
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 11 — Proceeding to Discover the Death of a Tenant For Life](README.md)
+
+```text
+  § 1123. Petitioner to give notice of its execution. The petitioner
+must give to the adverse party, or his attorney, written notice of the
+time when, and the place where, the commissioner or commissioners will
+attend, for the purpose of executing the commission, as follows:
+  a. If the place, where the commission is to be executed, is within the
+United States, or the dominion of Canada, he must give at least two
+months' notice;
+  b. If it is within any of the West India islande, he must give at
+least three months' notice;
+  c. In every other case, he must give at least four months' notice.
+  Notice may be given, as required by this section, by serving it as
+prescribed by law for the service of a paper upon an attorney in a civil
+action in the supreme court.
+```

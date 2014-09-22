@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1942", "kind": "section", "law_id": "RPA", "location_id": "1942", "path": "ARTICLE 19 › SECTION 1942", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1942.md", "title": "Petition in special proceeding to quiet title"} -->
+# Real Property Actions and Proceedings Law § 1942 — Petition in special proceeding to quiet title
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 19 — Discharge or Extinguishment of Encumbrances, Claims and Interests](README.md)
+
+```text
+  § 1942. Petition in special proceeding to quiet title. 1. A person or
+persons, desiring to institute a proceeding under section nineteen
+hundred forty-one, must present a petition to the supreme court at a
+special term to be held in the judicial district in which the real
+property is situated, setting forth the facts proving to the
+satisfaction of the court, that the case is one of those specified in
+that section, and must describe the property with common certainty, and
+state what, if any, liens or incumbrances exist thereon, and the names
+of the persons, if any, besides the petitioners, who have been in the
+actual possession of the property during the past ten years claiming
+title as owners thereof in fee, and how such title was derived, and
+shall also annex to said petition a duly certified copy of the sheriff's
+or referee's deed recorded ten years since under which petitioners claim
+title.
+  2. In case the property described in said sheriff's or referee's deed
+shall have been subdivided, the owner or owners of the several parcels
+thereof may unite in the same petition and proceeding.
+```

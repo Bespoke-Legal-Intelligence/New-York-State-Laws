@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 175", "kind": "section", "law_id": "GBS", "location_id": "175", "path": "ARTICLE 11 › SECTION 175", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/175.md", "title": "Form and contents of license"} -->
+# General Business Law § 175 — Form and contents of license
+
+[General Business Law](../README.md) › [Article 11 — Employment Agencies](README.md)
+
+```text
+  § 175. Form and contents of license. 1. Every license shall contain
+the name of the person licensed, a designation of the city, town or
+village, street and number of the place in which the person licensed is
+authorized to carry on the said employment agency, and the number and
+date of such license. If the licensee is a corporation, the license
+shall be issued in the name of the corporation and the names of the
+president and treasurer individually and as officers.  All other
+officers of the corporation and all stockholders of a corporation whose
+stock is not publicly traded holding ten percent or more of the stock of
+such corporation shall be deemed licensees.
+  2. It shall be the duty of the licensee to notify promptly the
+commissioner of any changes of the persons licensed or deemed to be
+licensees, and of any material change in the ownership or operation of
+the agency.
+```

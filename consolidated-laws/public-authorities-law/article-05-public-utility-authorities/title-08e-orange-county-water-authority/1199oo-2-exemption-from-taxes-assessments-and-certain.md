@@ -1,0 +1,47 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1199-OO*2", "kind": "section", "law_id": "PBA", "location_id": "1199-OO*2", "path": "ARTICLE 5 › TITLE 8-E* › SECTION 1199-OO*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1199-OO_2.md", "title": "Exemption from taxes, assessments and certain fees; payments in lieu of taxes"} -->
+# Public Authorities Law § 1199-OO*2 — Exemption from taxes, assessments and certain fees; payments in lieu of taxes
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 8-E* — Orange County Water Authority](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1199-oo. Exemption from taxes, assessments and certain fees;
+payments in lieu of taxes. 1. It is hereby determined that the creation
+of the authority and the carrying out of its corporate purposes is in
+all respects for the benefit of the people of the state and is a public
+purpose, and the authority shall be regarded as performing a
+governmental function in the exercise of the powers conferred upon it by
+this title and shall not be required to pay any taxes, special ad
+valorem levies or special assessments upon any real property owned by it
+or any filing, recording or transfer fees or taxes in relation to
+instruments filed, recorded or transferred by it or on its behalf;
+provided, however, that any real property owned or acquired by the
+authority outside of the district shall be exempt from real property
+taxes, ad valorem levies or special assessments only pursuant to and to
+the extent provided by an agreement with the governing body of the
+municipality in which such real property is located.
+  2. An authority may pay, or may enter into agreements with any
+municipality to pay, a sum or sums, annually or otherwise or to provide
+other considerations to such municipality with respect to real property
+owned by the authority located within such municipality and constituting
+a part of a water or sewerage system.
+  3. Any bonds issued pursuant to this title together with the income
+therefrom shall be exempt from taxation except for transfer and estate
+taxes. The revenues, moneys and all other property and activities of the
+authority shall be exempt from all taxes and governmental fees or
+charges, whether imposed by the state or any municipality, including
+without limitation real estate taxes, franchise taxes, sales taxes or
+other excise taxes. Notwithstanding the foregoing provision of this
+subdivision, any real property owned or acquired by the authority
+outside the district shall be subject to subdivision one of this
+section. The state hereby covenants with the purchasers and with all
+subsequent holders and transferees of bonds issued by the authority
+pursuant to this title, in consideration of the acceptance of and
+payment for the bonds, that the bonds of the authority issued pursuant
+to this title and the income therefrom shall be exempt from such
+taxation as aforestated herein, and that all revenues, moneys, and other
+property pledged to secure the payment of such bonds shall at all times
+be free from such taxes as aforestated herein.
+  * NB There are 2 § 1199-oo's
+```

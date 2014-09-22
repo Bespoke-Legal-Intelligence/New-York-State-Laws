@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Limited Liability Company Law § 301", "kind": "section", "law_id": "LLC", "location_id": "301", "path": "ARTICLE 3 › SECTION 301", "repealed": false, "repealed_date": null, "source": "nys-laws:LLC/301.md", "title": "Statutory designation of secretary of state as agent for service of process"} -->
+# Limited Liability Company Law § 301 — Statutory designation of secretary of state as agent for service of process
+
+[Limited Liability Company Law](../README.md) › [Article 3 — Service of Process](README.md)
+
+```text
+  § 301. Statutory designation of secretary of state as agent for
+service of process. (a) The secretary of state shall be the agent of
+every domestic limited liability company that has filed with the
+department of state articles of organization making such designation and
+every foreign limited liability company upon which process may be served
+pursuant to this chapter.
+  (b) No domestic or foreign limited liability company may be formed or
+authorized to do business in this state under this chapter unless its
+articles of organization or application for authority designates the
+secretary of state as such agent.
+  (c) Any designated post office address to which the secretary of state
+shall mail a copy of process served upon him or her as agent of a
+domestic limited liability company or a foreign limited liability
+company shall continue until the filing of a certificate under this
+chapter directing the mailing to a different post office address.
+  (e) Every limited liability company to which this chapter applies,
+shall biennially in the calendar month during which its articles of
+organization or application for authority were filed, or effective date
+thereof if stated, file on forms prescribed by the secretary of state, a
+statement setting forth the post office address within or without this
+state to which the secretary of state shall mail a copy of any process
+accepted against it served upon him or her. Such address shall supersede
+any previous address on file with the department of state for this
+purpose.
+```

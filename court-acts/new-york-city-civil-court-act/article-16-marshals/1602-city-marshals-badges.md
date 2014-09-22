@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "New York City Civil Court Act § 1602", "kind": "section", "law_id": "CCA", "location_id": "1602", "path": "ARTICLE 16 › SECTION 1602", "repealed": false, "repealed_date": null, "source": "nys-laws:CCA/1602.md", "title": "City marshals; badges"} -->
+# New York City Civil Court Act § 1602 — City marshals; badges
+
+[New York City Civil Court Act](../README.md) › [Article 16 — Marshals](README.md)
+
+```text
+  § 1602. City marshals; badges. The mayor is hereby authorized to
+prescribe the style, form and size of a badge to be known and designated
+as the official badge of the city marshals, a description of which he
+shall file in the office of the city clerk. Each city marshal shall
+provide himself at his own expense, with one such badge, and shall wear
+the same at all times while engaged in the discharge of his official
+duties. Every city marshal shall display his badge upon demand. Every
+city marshal shall forthwith surrender his official badge to the city
+clerk upon the expiration of his term or upon the vacation of his office
+for any reason and the city clerk is hereby authorized to refund the sum
+originally charged therefor.  Any person violating the provisions of
+this section shall be punished by imprisonment for a term not exceeding
+thirty days or a fine not exceeding two hundred dollars for each
+offense.
+```

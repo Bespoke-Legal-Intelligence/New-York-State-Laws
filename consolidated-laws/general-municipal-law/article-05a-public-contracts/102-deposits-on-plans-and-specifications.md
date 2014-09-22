@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 102", "kind": "section", "law_id": "GMU", "location_id": "102", "path": "ARTICLE 5-A › SECTION 102", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/102.md", "title": "Deposits on plans and specifications"} -->
+# General Municipal Law § 102 — Deposits on plans and specifications
+
+[General Municipal Law](../README.md) › [Article 5-A — Public Contracts](README.md)
+
+```text
+  § 102. Deposits on plans and specifications. 1. Notwithstanding any
+inconsistent provision of any general, special or local law, the
+officer, board or agency of any political subdivision or of any district
+therein, charged with the duty of preparing plans and specifications for
+and awarding or entering into contracts for the performance of public
+work, may require, as a deposit to guarantee the safe return of such
+plans and specifications, the payment of a fixed sum of money, not
+exceeding one hundred dollars for each copy thereof, by persons or
+corporations desiring a copy thereof. Any person or corporation desiring
+a copy of such plans and specifications and making the payment required
+by this section shall be furnished with one copy of the plans and
+specifications.
+  2. If a proposal is duly submitted by any person or corporation making
+the deposit required by subdivision one and such proposal is accompanied
+by a certified check or other security in accordance with the
+requirements contained in the plans and specifications or in the public
+advertisement for bids, and if the copy of the plans and specifications
+used by such person or corporation, other than the successful bidder, is
+returned in good condition within thirty days following the award of the
+contract covered by such plans and specifications or the rejection of
+the bid of such person or corporation, the full amount of such deposit
+for one copy of the plans and specifications shall be returned to such
+person or corporation, including the successful bidder. Partial
+reimbursement, in an amount equal to the full amount of such deposit for
+one set of plans and specifications per unsuccessful bidder or
+non-bidder less the actual cost of reproduction of the plans and
+specifications as determined by the officer, board or agency of any
+political subdivision or of any district therein, charged with the duty
+of preparing the plans and specifications, shall be made for the return
+of all other copies of the plans and specifications in good condition
+within thirty days following the award of the contract or the rejection
+of the bids covered by such plans and specifications.
+```

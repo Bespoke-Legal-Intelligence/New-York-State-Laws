@@ -1,0 +1,11 @@
+﻿<!-- nyslaw {"citation": "Uniform City Court Act § 901", "kind": "section", "law_id": "UCT", "location_id": "901", "path": "ARTICLE 9 › SECTION 901", "repealed": false, "repealed_date": null, "source": "nys-laws:UCT/901.md", "title": "Pleadings; in general"} -->
+# Uniform City Court Act § 901 — Pleadings; in general
+
+[Uniform City Court Act](../README.md) › [Article 9 — Pleadings](README.md)
+
+```text
+§ 901. Pleadings; in general.
+  Pleadings between plaintiff and defendant shall consist of complaint
+and answer and, when ordered, a reply. Such order may be made by motion
+on notice or by the court of its own motion.
+```

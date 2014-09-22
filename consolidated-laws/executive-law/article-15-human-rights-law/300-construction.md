@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 300", "kind": "section", "law_id": "EXC", "location_id": "300", "path": "ARTICLE 15 › SECTION 300", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/300.md", "title": "Construction"} -->
+# Executive Law § 300 — Construction
+
+[Executive Law](../README.md) › [Article 15 — Human Rights Law](README.md)
+
+```text
+  § 300. Construction. The provisions of this article shall be construed
+liberally for the accomplishment of the purposes thereof. Nothing
+contained in this article shall be deemed to repeal any of the
+provisions of the civil rights law or any other law of this state
+relating to discrimination because of race, creed, color or national
+origin; but, as to acts declared unlawful by section two hundred
+ninety-six of this article, the procedure herein provided shall, while
+pending, be exclusive; and the final determination therein shall exclude
+any other action, civil or criminal, based on the same grievance of the
+individual concerned. If such individual institutes any action based on
+such grievance without resorting to the procedure provided in this
+article, he or she may not subsequently resort to the procedure herein.
+```

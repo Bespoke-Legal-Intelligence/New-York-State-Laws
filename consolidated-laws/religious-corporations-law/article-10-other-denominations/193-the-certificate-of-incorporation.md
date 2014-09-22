@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Religious Corporations Law § 193", "kind": "section", "law_id": "RCO", "location_id": "193", "path": "ARTICLE 10 › SECTION 193", "repealed": false, "repealed_date": null, "source": "nys-laws:RCO/193.md", "title": "The certificate of incorporation"} -->
+# Religious Corporations Law § 193 — The certificate of incorporation
+
+[Religious Corporations Law](../README.md) › [Article 10 — Other Denominations](README.md)
+
+```text
+  § 193. The certificate of incorporation.  The presiding officer of
+such meeting and at least two other persons present and voting thereat,
+shall execute and acknowledge a certificate of incorporation, setting
+forth the matters so determined at such meeting, the trustees elected
+thereat and the terms of office for which they were respectively elected
+and the county, town, city or village in which its principal place of
+worship is or is intended to be located.  On filing such certificate the
+members of such church and the persons qualified to vote at such meeting
+and who shall thereafter, from time to time, be qualified voters, at the
+corporate meetings thereof, shall be a corporation by the name stated in
+such certificate, and the persons therein stated to be elected trustees
+of such church shall be the trustees thereof, for the terms for which
+they were respectively so elected.
+```

@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 83", "kind": "section", "law_id": "WKC", "location_id": "83", "path": "ARTICLE 6 › SECTION 83", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/83.md", "title": "Rules"} -->
+# Workers' Compensation Law § 83 — Rules
+
+[Workers' Compensation Law](../README.md) › [Article 6 — State Insurance Fund](README.md)
+
+```text
+  § 83. Rules. The commissioner shall adopt rules for the conduct of the
+business of the state fund, and may from time to time alter, amend or
+repeal any rule therefore adopted. At least six affirmative votes shall
+be required for the adoption of any rule, or the amendment or repeal of
+any rule. No rule, and no resolution proposing to alter, amend or repeal
+any rule, shall be effective unless approved by the commissioner of
+labor. If the commissioner of labor fails to act upon any such rule or
+resolution within thirty days after it is communicated to him or her,
+such rule or resolution shall be deemed to have been approved.
+  The rules of the commissioners shall provide for the conduct of the
+business of the state insurance fund, including the issuance of policies
+and their terms and conditions, the fixing of premium rates, the keeping
+of records, auditing of payrolls, and the billing and collection of
+premiums therefor, the inspection of risks and the setting of the
+standards of safety, the adjustment and payment of claims and awards,
+and the investigation of all matters relating thereto, the medical
+examination of persons claiming compensation and the furnishing and
+supervision of medical and surgical treatment to persons injured as set
+forth in this chapter, the conduct of the legal business of the fund and
+the enforcement of the subrogated rights of the fund against third
+parties, the investment of the surplus and reserves of the fund, and the
+collection and analysis of statistics of payrolls, premiums, losses and
+expenses and the actuarial consideration thereof.
+```

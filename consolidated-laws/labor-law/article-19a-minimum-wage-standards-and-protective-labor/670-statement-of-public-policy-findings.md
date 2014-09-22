@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 670", "kind": "section", "law_id": "LAB", "location_id": "670", "path": "ARTICLE 19-A › SECTION 670", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/670.md", "title": "Statement of public policy; findings"} -->
+# Labor Law § 670 — Statement of public policy; findings
+
+[Labor Law](../README.md) › [Article 19-A — Minimum Wage Standards and Protective Labor Practices For Farm Workers](README.md)
+
+```text
+  § 670. Statement of public policy; findings.  The legislature of the
+state of New York declares that it is the public policy of the state and
+the purpose of this act that minimum wage standards shall apply to farm
+workers, so as to eliminate as rapidly as practicable the employment of
+farm workers at wages insufficient to provide adequate maintenance and
+protection of health, without substantially curtailing opportunities for
+employment or earning power.
+  The legislature hereby finds that the establishment of minimum wage
+standards for farm laborers involves distinct and unusual problems; that
+the agricultural labor force is made up of regular all-year workers as
+well as short-term seasonal workers; that although some workers are paid
+on an hourly basis, many are paid on a piecework, weekly, monthly, or
+other basis; and that the agricultural industry is particularly affected
+by weather and market conditions and by perishability of products.
+Accordingly, the legislature further declares that it is the purpose of
+this act to provide a flexible approach with full consideration of the
+unusual problems involved.
+```

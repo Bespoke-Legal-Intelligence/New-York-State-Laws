@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 607", "kind": "section", "law_id": "PBH", "location_id": "607", "path": "ARTICLE 6 › TITLE 1 › SECTION 607", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/607.md", "title": "Supplemental health services grants"} -->
+# Public Health Law § 607 — Supplemental health services grants
+
+[Public Health Law](../../README.md) › [Article 6 — State Aid to Cities and Counties](../README.md) › [Title 1 — State Aid For Basic Services](README.md)
+
+```text
+  § 607. Supplemental health services grants. 1. There shall be
+established within the special revenue fund-other a local public health
+services program account. All revenues derived from fees collected by
+the department pursuant to subdivision two of section six hundred six of
+this article and all fines levied and collected by the department from
+enforcement actions pursuant to the services provided under titles one
+and two of this article, and monies received or recovered as a result of
+any audit exception assessed against the state aid reimbursement to a
+municipality under this article, shall be deposited in the local public
+health services program account.
+  2. Notwithstanding the limitations of available state aid defined in
+section six hundred sixteen of this article, monies available for
+supplemental health services grants in the local health services program
+account shall be used by the commissioner for the purpose of providing
+supplemental health services grants to municipalities for the
+enhancement of public health services, as an incentive for a
+municipality not organized as a county health district or a part-county
+health district to become organized or in recognition of municipalities
+which have consistently maximized revenue collections. Criteria for
+eligibility for grants under this section shall be established by the
+commissioner. Monies received from such supplemental grants shall be
+used to enhance or expand public health services and may not supplant
+the amount that otherwise would be provided by the municipality or
+appropriated to the department.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 3-103", "kind": "section", "law_id": "GOB", "location_id": "3-103", "path": "ARTICLE 3 › TITLE 1 › SECTION 3-103", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/3-103.md", "title": "Contracts pursuant to the \"Servicemen's Readjustment Act of 1944\" as amended; when they may not be disaffirmed"} -->
+# General Obligations Law § 3-103 — Contracts pursuant to the "Servicemen's Readjustment Act of 1944" as amended; when they may not be disaffirmed
+
+[General Obligations Law](../../README.md) › [Article 3 — Capacity; Effect of Status or of Certain Relationships or Occupations Upon the Creation, Definition or Enforcement of Obligations](../README.md) › [Title 1 — Infancy](README.md)
+
+```text
+  § 3-103. Contracts pursuant to the "Servicemen's Readjustment Act of
+1944" as amended; when they may not be disaffirmed.  1. A veteran,
+eligible for the benefits provided for in Section 1801 and following of
+Title 38 of the United States Code, and the spouse of such veteran,
+regardless of the minority of either or both and without limitation of
+the powers of any such person who is of full age, shall each have power
+(a) to enter into and contract for a loan or loans to such veteran
+pursuant to such title; (b) to receive, hold and dispose of real or
+personal property, make and execute contracts, notes, deeds, mortgages,
+agreements and other instruments, and take any other action, to the
+extent necessary or appropriate to effect any such loan, provide
+security therefor, carry out or modify the terms thereof, and effect any
+compromise or settlement of any such loan or of any claim with respect
+thereto; and (c) to dispose of real or personal property so acquired and
+make and execute contracts, deeds, agreements and other instruments
+necessary or appropriate for such purpose.
+  2. Notwithstanding any contrary provision or rule of law, no such
+veteran or spouse shall have the power to disaffirm, because of
+minority, any act or transaction which he or she is hereinabove
+empowered to perform or engage in, nor shall any defense based upon
+minority be interposed in any action or proceeding arising out of any
+such act or transaction.
+```

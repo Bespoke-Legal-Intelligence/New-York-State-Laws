@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 2230", "kind": "section", "law_id": "VAT", "location_id": "2230", "path": "TITLE 11 › ARTICLE 47 › SECTION 2230", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/2230.md", "title": "Suspension and revocation of registrations; offenses; penalties"} -->
+# Vehicle and Traffic Law § 2230 — Suspension and revocation of registrations; offenses; penalties
+
+[Vehicle and Traffic Law](../../README.md) › [Title 11 — Registration of Snowmobiles, Motorboats and Limited Use Vehicles](../README.md) › [Article 47 — Registration of Snowmobiles](README.md)
+
+```text
+  § 2230. Suspension and revocation of registrations; offenses;
+penalties.  1. The commissioner may suspend or revoke a registration
+issued pursuant to the provisions of this article, upon satisfactory
+proof of a violation of any provision of this article, or of the parks,
+recreation and historic preservation law at the request of the
+commissioner of parks, recreation and historic preservation, or of any
+rule, regulation, order, local law or ordinance adopted or promulgated
+pursuant thereto.  Such suspension or revocation shall be issued only
+after a hearing unless such a hearing is waived by the registrant. Upon
+said suspension or revocation, all rights and privileges accruing to
+such registrant shall terminate.
+  2. Any person who violates any provision of this article or regulation
+adopted pursuant thereto shall be guilty of a violation punishable by a
+fine of two hundred dollars, and one-half of such fine shall be
+deposited in the snowmobile trail development and maintenance fund as
+set forth in section 21.07 of the parks, recreation and historic
+preservation law.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 24-0507", "kind": "section", "law_id": "ENV", "location_id": "24-0507", "path": "ARTICLE 24 › TITLE 5 › SECTION 24-0507", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/24-0507.md", "title": "Reservation of local jurisdiction"} -->
+# Environmental Conservation Law § 24-0507 — Reservation of local jurisdiction
+
+[Environmental Conservation Law](../../README.md) › [Article 24 — Freshwater Wetlands](../README.md) › [Title 5 — Local Implementation](README.md)
+
+```text
+§ 24-0507. Reservation of local jurisdiction.
+  Except as provided in this article, jurisdiction over all areas which
+would qualify as freshwater wetlands except that they are not designated
+as such on the freshwater wetlands map pursuant to section 24-0301 of
+this article because they are less than twelve and four-tenths acres in
+size and are not of unusual local importance is reserved to the city,
+town or village in which they are wholly or partially located, and the
+implementation of this article with respect thereto is the
+responsibility of said city, town or village, in accordance with section
+24-0501 and title twenty-three of article seventy-one of this chapter,
+except that a city, town or village in the exercise of its powers under
+this section, shall not be subject to the provisions of subdivision four
+of section 24-0501, subdivisions two and three of section 24-0503, or
+section 24-0505 of this article.
+```

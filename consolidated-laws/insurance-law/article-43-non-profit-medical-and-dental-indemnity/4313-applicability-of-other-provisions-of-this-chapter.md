@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4313", "kind": "section", "law_id": "ISC", "location_id": "4313", "path": "ARTICLE 43 › SECTION 4313", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4313.md", "title": "Applicability of other provisions of this chapter"} -->
+# Insurance Law § 4313 — Applicability of other provisions of this chapter
+
+[Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
+
+```text
+  § 4313. Applicability of other provisions of this chapter. (a) Except
+as otherwise provided and except as the context otherwise requires,
+every medical expense indemnity corporation, dental expense indemnity
+corporation, health service corporation, and hospital service
+corporation shall be subject to all requirements of this chapter made
+applicable to insurance companies generally, and to the rules and
+regulations of the superintendent except in so far as said laws, rules
+and regulations may be inconsistent with other provisions of this
+article.
+  (b) Every such corporation shall be subject to liquidation,
+dissolution or rehabilitation pursuant to the provisions of article
+seventy-four of this chapter, and such proceedings shall be under the
+supervision of the superintendent, who shall have such of the powers
+granted to him pursuant to the provisions of such article as are
+applicable to domestic insurance companies.
+```

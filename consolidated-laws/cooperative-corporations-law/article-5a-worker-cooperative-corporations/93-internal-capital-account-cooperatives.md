@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Cooperative Corporations Law § 93", "kind": "section", "law_id": "CCO", "location_id": "93", "path": "ARTICLE 5-A › SECTION 93", "repealed": false, "repealed_date": null, "source": "nys-laws:CCO/93.md", "title": "Internal capital account cooperatives"} -->
+# Cooperative Corporations Law § 93 — Internal capital account cooperatives
+
+[Cooperative Corporations Law](../README.md) › [Article 5-A — Worker Cooperative Corporations](README.md)
+
+```text
+  § 93. Internal capital account cooperatives. 1. A worker cooperative
+may provide in its by-laws that it shall operate as an internal capital
+account cooperative. An internal account cooperative is a worker
+cooperative whose entire net book value is reflected in internal capital
+accounts, one for each member, and a collective reserve account, and in
+which no persons other than members own capital stock.  In an internal
+capital account cooperative, each member shall have one and only one
+vote in any matter requiring voting by stockholders.
+  2. An internal capital account cooperative shall credit the paid-in
+membership fee and additional paid-in capital of a member to the
+member's internal capital account, and shall also record the
+apportionment of net retained proceeds or net losses to the members in
+accordance with patronage by appropriately crediting or debiting the
+internal capital accounts of members. The collective reserve account in
+an internal capital account cooperative shall reflect any paid-in
+capital, net losses and net retained proceeds not allocated to
+individual members.
+  3. In an internal capital account cooperative, the balances in all the
+individual internal capital accounts and collective reserve account, if
+any, shall be adjusted at the end of each accounting period so that the
+sum of the balances is equal to the net book value of the worker
+cooperative.
+  4. Section six hundred twenty-three of the business corporation law
+shall not apply to an internal capital account cooperative.
+```

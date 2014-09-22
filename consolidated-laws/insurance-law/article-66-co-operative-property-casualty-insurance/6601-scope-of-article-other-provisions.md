@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 6601", "kind": "section", "law_id": "ISC", "location_id": "6601", "path": "ARTICLE 66 › SECTION 6601", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/6601.md", "title": "Scope of article; other provisions"} -->
+# Insurance Law § 6601 — Scope of article; other provisions
+
+[Insurance Law](../README.md) › [Article 66 — Co-operative Property/casualty Insurance Companies](README.md)
+
+```text
+  § 6601. Scope of article; other provisions. (a) All insurers formed
+pursuant to chapter seven hundred thirty-nine of the laws of eighteen
+hundred fifty-seven, chapter five hundred seventy-three of the laws of
+eighteen hundred eighty-six, or the laws of which the last mentioned
+chapter was a consolidation, article nine of chapter six hundred ninety
+of the laws of eighteen hundred ninety-two, and chapter three hundred
+twenty-eight of the laws of nineteen hundred ten, the same constituting
+article nine of former chapter twenty-eight of the consolidated laws as
+in effect immediately before January first, nineteen hundred forty and
+article XI-B of the former insurance law as in effect immediately before
+the effective date of this chapter, are hereby continued in existence
+and, together with all insurers organized or licensed under this
+article, are made subject to the provisions of this article and not to
+any other provisions of this chapter except as provided in subsection
+(b) hereof.
+  (b) Except as otherwise specifically provided in this article, the
+provisions of this chapter insofar as they are applicable to domestic
+mutual property/casualty insurance companies, shall, unless the context
+otherwise requires, apply to co-operative property/casualty insurance
+companies.
+```

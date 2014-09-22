@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 654", "kind": "section", "law_id": "GMU", "location_id": "654", "path": "ARTICLE 15-B › TITLE 86 › SECTION 654", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/654.md", "title": "Huntington community development agency"} -->
+# General Municipal Law § 654 — Huntington community development agency
+
+[General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 86 — Huntington Community Development Agency](README.md)
+
+```text
+  * § 654. Huntington community development agency. A community
+development agency, to be known as the Huntington community development
+agency, is hereby established for the accomplishment of any or all of
+the purposes specified in articles fifteen and fifteen-A of this chapter
+and in accordance with article eighteen of the constitution of the state
+of New York. It shall constitute a body corporate and politic, be
+perpetual in duration and consist of five members, including the
+supervisor, who shall be its chairman, and the four town councilmen, or
+their respective successors in office. It shall have the powers and
+duties now or hereafter conferred by article fifteen-A of this chapter
+upon municipal renewal agencies. It shall be organized in the manner
+prescribed by and be subject to the provisions of article fifteen-A of
+this chapter and the agency, its members, officers and employees and its
+operations and activities shall in all respects be governed by the
+provisions of such article.
+  * NB There are 2 § 654's
+```

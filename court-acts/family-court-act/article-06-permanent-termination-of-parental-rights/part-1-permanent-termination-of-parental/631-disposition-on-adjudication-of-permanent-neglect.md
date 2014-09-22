@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 631", "kind": "section", "law_id": "FCT", "location_id": "631", "path": "ARTICLE 6 › PART 1 › SECTION 631", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/631.md", "title": "Disposition on adjudication of permanent neglect"} -->
+# Family Court Act § 631 — Disposition on adjudication of permanent neglect
+
+[Family Court Act](../../README.md) › [Article 6 — Permanent Termination of Parental Rights, Adoption, Guardianship and Custody](../README.md) › [Part 1 — Permanent Termination of Parental Custody By Reason of Permanent Neglect](README.md)
+
+```text
+  § 631. Disposition on adjudication of permanent neglect. At the
+conclusion of a dispositional hearing on a petition for the commitment
+of the guardianship and custody of a child, the court shall enter an
+order of disposition:
+  (a) dismissing the petition in accord with section six hundred
+thirty-two; or
+  (b) suspending judgment in accord with section six hundred
+thirty-three; or
+  (c) committing the guardianship and custody of the child in accord
+with section six hundred thirty-four; provided, however, that an order
+of disposition committing the guardianship and custody of the child may
+not be entered after the child's eighteenth birthday, unless the child
+consents.
+  An order of disposition shall be made, pursuant to this section,
+solely on the basis of the best interests of the child, and there shall
+be no presumption that such interests will be promoted by any particular
+disposition.
+```

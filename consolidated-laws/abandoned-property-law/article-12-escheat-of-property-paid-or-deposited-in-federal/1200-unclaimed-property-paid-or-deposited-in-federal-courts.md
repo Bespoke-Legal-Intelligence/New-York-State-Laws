@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Abandoned Property Law § 1200", "kind": "section", "law_id": "ABP", "location_id": "1200", "path": "ARTICLE 12 › SECTION 1200", "repealed": false, "repealed_date": null, "source": "nys-laws:ABP/1200.md", "title": "Unclaimed property paid or deposited in federal courts"} -->
+# Abandoned Property Law § 1200 — Unclaimed property paid or deposited in federal courts
+
+[Abandoned Property Law](../README.md) › [Article 12 — Escheat of Property Paid or Deposited In Federal Courts](README.md)
+
+```text
+  § 1200. Unclaimed property paid or deposited in federal courts.  All
+money or other property which shall have been, or shall hereafter be,
+paid into or deposited in the custody of, or be under the control of,
+any court of the United States in and for any district within the state,
+or shall have been or hereafter shall be in the custody of any
+depository, registry, clerk, or other officer of such court, and the
+rightful owner or owners thereof either (a) shall have been or shall be
+unknown for a period of ten consecutive years; or (b) shall have died or
+shall die without having disposed thereof, and without having left or
+without leaving a will disposing thereof, and without having left or
+without leaving heirs, next-of-kin, or distributees; or (c) shall have
+abandoned or shall abandon such funds or property, are declared to have
+escheated or to escheat, together with all interest accrued thereon, to
+and to have become or to become the property of the state.
+```

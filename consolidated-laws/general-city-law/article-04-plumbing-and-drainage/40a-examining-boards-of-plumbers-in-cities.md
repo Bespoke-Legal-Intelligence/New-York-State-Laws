@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General City Law § 40-A", "kind": "section", "law_id": "GCT", "location_id": "40-A", "path": "ARTICLE 4 › SECTION 40-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GCT/40-A.md", "title": "Examining boards of plumbers in cities"} -->
+# General City Law § 40-A — Examining boards of plumbers in cities
+
+[General City Law](../README.md) › [Article 4 — Plumbing and Drainage](README.md)
+
+```text
+  § 40-a. Examining boards of plumbers in cities. The existing boards
+for the examination of plumbers in cities of this state are continued
+and each shall be known as the examining board of plumbers. Such board
+in each city shall continue to consist of five persons to be appointed
+by the mayor, of whom two shall be employing or master plumbers of not
+less than ten years' experience in the business of plumbing, and one
+shall be a journeyman plumber of like experience, and the other members
+of such board shall be the chief inspector of plumbing and drainage of
+such city, or officer performing the duties of such inspector, and the
+chief engineer having charge of sewers in such city, but in the event of
+there being no such officers in such city, then any two other officers
+having charge or supervision of the plumbing, drainage or sewerage, whom
+the mayor shall designate or appoint, or two members of the board of
+health of such city having like duties or acting in like capacities.
+```

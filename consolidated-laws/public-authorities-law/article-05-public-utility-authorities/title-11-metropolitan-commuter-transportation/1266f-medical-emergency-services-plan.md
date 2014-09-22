@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1266-F", "kind": "section", "law_id": "PBA", "location_id": "1266-F", "path": "ARTICLE 5 › TITLE 11 › SECTION 1266-F", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1266-F.md", "title": "Medical emergency services plan; implementation on Metro-North Commuter Railroad Company"} -->
+# Public Authorities Law § 1266-F — Medical emergency services plan; implementation on Metro-North Commuter Railroad Company
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11 — Metropolitan Commuter Transportation Authority](README.md)
+
+```text
+  § 1266-f. Medical emergency services plan; implementation on
+Metro-North Commuter Railroad Company. 1. The authority is hereby
+authorized and directed to implement a medical emergency services
+program not later than April first, nineteen hundred eighty-six, for the
+benefit of persons utilizing transportation and other related services
+of the Metro-North Commuter Railroad Company. Such program shall include
+but not be limited to provision for the following: The training of
+conductors, trainmen and other designated employees in first aid,
+emergency techniques and procedures, handling and positioning of
+stricken commuters, and knowledge of procedures and equipment used for
+respiratory and cardiac emergencies.
+  2. Notwithstanding any inconsistent provision of any general, special
+or local law, a designated employee employed upon facilities of the
+Metro-North Commuter Railroad Company who has successfully completed a
+course in first aid, including instruction and training in
+cardiopulmonary resuscitation and who voluntarily and without
+expectation of monetary compensation renders first aid, emergency
+treatment or cardiopulmonary resuscitation at the scene of an accident
+or other emergency, in the course of his duties as an employee of the
+Metro-North Commuter Railroad Company to a person who is unconscious,
+ill or injured, shall not be liable for damages and injuries alleged to
+have been sustained by such person or for damages for death of such
+person alleged to have occurred by reason of an act or omission in the
+rendering of such first aid, emergency treatment or cardiopulmonary
+resuscitation unless it is established that such injuries were or such
+death was caused by gross negligence on the part of such designated
+employee.
+```

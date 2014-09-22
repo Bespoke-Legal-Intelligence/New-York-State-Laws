@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6211", "kind": "section", "law_id": "EDN", "location_id": "6211", "path": "TITLE 7 › ARTICLE 125 › SECTION 6211", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6211.md", "title": "College presidents emeriti; appointments, duties, qualifications, salary"} -->
+# Education Law § 6211 — College presidents emeriti; appointments, duties, qualifications, salary
+
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+
+```text
+  § 6211. College presidents emeriti; appointments, duties,
+qualifications, salary.  The board of trustees shall be authorized to
+appoint, notwithstanding the provisions of any local law or charter to
+the contrary, as president emeritus any retired president of an existing
+college unit or a college unit hereafter to be created other than
+teachers' training schools, whose duty it shall be to consult and advise
+with educational officers as and when requested by the president, or
+head of such college unit.  No person shall be eligible for such
+appointment unless he shall have been duly retired from such college
+unit.  He shall receive for the duration of his life such annual salary
+as the board of trustees or like financial authority, shall determine.
+The salary is to be in lieu of the annual pension to which such retired
+president would be entitled during his lifetime but is not to be
+construed as depriving him at the time of his retirement of the right to
+choose an option or as depriving his estate or beneficiary of any death
+benefit accruing to such estate or beneficiary under the law.
+```

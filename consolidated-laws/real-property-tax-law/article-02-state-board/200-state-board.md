@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 200", "kind": "section", "law_id": "RPT", "location_id": "200", "path": "ARTICLE 2 › SECTION 200", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/200.md", "title": "State board"} -->
+# Real Property Tax Law § 200 — State board
+
+[Real Property Tax Law](../README.md) › [Article 2 — State Board](README.md)
+
+```text
+  § 200. State board. There is hereby created in the department of
+taxation and finance a separate and independent state board of real
+property tax services, to consist of five members to be appointed by the
+governor, by and with the advice and consent of the senate. Of those
+five members appointed by the governor, one such person shall be an
+individual actively engaged in the commercial production for sale of
+agricultural crops, livestock and livestock products of an average gross
+sales value of ten thousand dollars or more. Said individual shall be
+appointed in the first instance to a term of eight years upon expiration
+of an existing term. Said initial term shall commence on the first day
+of January next succeeding the year in which the existing term shall
+expire. The governor shall designate one of the members as the chairman
+of the board, who shall serve as chairman at the pleasure of the
+governor. The members of the board shall be appointed for terms of eight
+years, commencing on the first day of January next following the year in
+which the term of his predecessor expired, except that the terms of the
+members first appointed shall expire as follows: one on December
+thirty-first, nineteen hundred sixty-one, one on December thirty-first,
+nineteen hundred sixty-three, one on December thirty-first, nineteen
+hundred sixty-five, one on December thirty-first, nineteen hundred
+sixty-seven, and one on December thirty-first, nineteen hundred
+eighty-two. Vacancies occurring otherwise than by expiration of term
+shall be filled for the unexpired term. All members shall receive
+necessary expenses incurred in the performance of their duties.
+```

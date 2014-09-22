@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 6203", "kind": "section", "law_id": "ISC", "location_id": "6203", "path": "ARTICLE 62 › SECTION 6203", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/6203.md", "title": "Miscellaneous"} -->
+# Insurance Law § 6203 — Miscellaneous
+
+[Insurance Law](../README.md) › [Article 62 — New York Insurance Exchange](README.md)
+
+```text
+  § 6203. Miscellaneous. (a) The New York insurance exchange shall not
+be subject to any state or local taxes or fees measured by income,
+premiums or gross receipts, except that for purposes of taxation under
+section one thousand five hundred ten of the tax law, direct premiums
+written, procured or received by a member or members through the
+exchange on risks located in this state shall be deemed written,
+procured or received by the exchange and the premium tax due on said
+premium shall be reported and paid by the exchange.
+  (b) The exchange shall reimburse the superintendent for any expenses
+incurred by him relating to the regulation of the exchange and its
+members.
+  (c) This chapter and regulations thereunder shall apply to the
+exchange, its members, and the insurance or reinsurance written through
+the exchange, except as may be exempted by the superintendent pursuant
+to regulation; provided that no such exemption shall be unfairly
+discriminatory or detrimental to the solvency of licensed insurers.
+  (d) The superintendent may establish limitations on investments in
+members of the exchange. The investment in any member by brokers, agents
+and intermediaries transacting business on the exchange, and the
+investment in any such broker, agent or intermediary by any member,
+directly or indirectly, all as defined by regulation, shall in each case
+be limited in the aggregate to less than twenty percent (or such lesser
+amount as determined by the superintendent) of the total investment in
+such member, broker, agent or intermediary.
+  (e) For purposes of paragraph nine of subsection (a) of section one
+thousand three hundred one of this chapter, reinsurance written by
+members of the exchange shall be deemed to have been written by an
+insurer authorized to transact insurance in this state.
+  (f) The performance of the contractual obligations of the exchange or
+its members entered into pursuant to section six thousand two hundred
+one of this article shall not be covered by any of the New York state
+security or guaranty funds.
+```

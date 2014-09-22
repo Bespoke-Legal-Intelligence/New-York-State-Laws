@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Personal Property Law § 411", "kind": "section", "law_id": "PEP", "location_id": "411", "path": "ARTICLE 10 › SECTION 411", "repealed": false, "repealed_date": null, "source": "nys-laws:PEP/411.md", "title": "Terms of purchase by financing agency"} -->
+# Personal Property Law § 411 — Terms of purchase by financing agency
+
+[Personal Property Law](../README.md) › [Article 10 — Retail Instalment Sales Act](README.md)
+
+```text
+  § 411. Terms of purchase by financing agency. Notwithstanding any
+contrary provision of the personal property law, lien law, banking law
+or other law:
+  1. A financing agency may purchase a retail instalment contract,
+obligation or credit agreement, or indebtedness of a buyer to be paid
+under a credit agreement, from a seller on such terms and conditions and
+for such price as may be mutually agreed upon; and
+  2. No filing of the assignment, no filing of any financing statement,
+no notice to the buyer of the assignment, and no requirement that the
+seller be deprived of dominion over payments upon the contract,
+obligation or credit agreement or over the goods if repossessed by or
+returned to the seller, shall be necessary to the validity of a written
+assignment of a contract, obligation or credit agreement, or
+indebtedness to be paid under a credit agreement, as against creditors,
+subsequent purchasers, pledgees, mortgagees or encumbrancers of the
+seller.
+```

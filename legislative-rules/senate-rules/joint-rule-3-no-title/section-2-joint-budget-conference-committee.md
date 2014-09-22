@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Senate Rules § JR3S2", "kind": "section", "law_id": "CMS", "location_id": "JR3S2", "path": "JOINT_RULE 3 › SECTION 2", "repealed": false, "repealed_date": null, "source": "nys-laws:CMS/JR3S2.md", "title": "Joint Budget Conference Committee"} -->
+# Senate Rules § JR3S2 — Joint Budget Conference Committee
+
+[Senate Rules](../README.md) › [Joint Rule 3 — No title](README.md)
+
+```text
+§ 2. Joint Budget Conference Committee.  In  accordance  with  section
+54-a  of  the  Legislative Law, within ten days of the submission of the
+budget by the Governor pursuant to article VII of the Constitution,  the
+Temporary  President of the Senate and the Speaker of the Assembly shall
+jointly establish a Joint Budget Conference Committee and, as they  deem
+necessary,  any number of subcommittees subordinate to such Joint Budget
+Conference Committee, to consider and reconcile such budget  resolutions
+or  bills  passed  by,  or as may be passed by, the Senate and Assembly.
+Such  Joint  Budget  Conference  Committee  shall  be  constituted   and
+conducted  as  prescribed  in  Joint  Rule II and shall file its written
+report in accord with the schedule established pursuant to section 1  of
+this rule.
+```

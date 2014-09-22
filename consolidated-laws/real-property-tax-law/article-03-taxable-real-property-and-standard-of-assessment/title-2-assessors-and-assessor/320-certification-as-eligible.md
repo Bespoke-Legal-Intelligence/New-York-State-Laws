@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 320", "kind": "section", "law_id": "RPT", "location_id": "320", "path": "ARTICLE 3 › TITLE 2 › SECTION 320", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/320.md", "title": "Certification as eligible for the position of assessor"} -->
+# Real Property Tax Law § 320 — Certification as eligible for the position of assessor
+
+[Real Property Tax Law](../../README.md) › [Article 3 — Taxable Real Property and Standard of Assessment](../README.md) › [Title 2 — Assessors and Assessor Training](README.md)
+
+```text
+  § 320. Certification as eligible for the position of assessor. 1. Any
+person who is not an assessor may be certified as eligible for the
+position of assessor where such person:
+  (a) meets the minimum qualification standards prescribed by the
+commissioner for such purpose and successfully completes the basic
+course of training and passes an examination demonstrating successful
+completion of such course prescribed by the commissioner;
+  (b) meets the minimum qualification standards established by the
+commissioner for appointed assessors and passes an examination conducted
+by the commissioner for this purpose; or
+  (c) possesses a professional designation as described in paragraph (b)
+of subdivision three of section three hundred eighteen of this title and
+the commissioner, in its discretion, waives any of the courses of
+training or examination.
+  2. Such certification shall specify that such person is eligible for
+the position of assessor in accordance with the classification of
+assessing units established by the commissioner pursuant to subdivision
+one of section three hundred eighteen of this title. Certification as
+eligible for the position of assessor shall be for a period of three
+years and may be renewed after the expiration of this period with or
+without examination in accordance with regulations established by the
+commissioner. Upon request by an assessing unit, the commissioner shall
+provide a list of candidates certified as eligible for the position of
+assessor pursuant to this section.
+```

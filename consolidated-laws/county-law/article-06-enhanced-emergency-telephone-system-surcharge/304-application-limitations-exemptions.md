@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "County Law § 304", "kind": "section", "law_id": "CNT", "location_id": "304", "path": "ARTICLE 6 › SECTION 304", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/304.md", "title": "Application; limitations; exemptions"} -->
+# County Law § 304 — Application; limitations; exemptions
+
+[County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+```text
+  § 304. Application; limitations; exemptions. 1. The surcharge
+established pursuant to the provisions of this article shall be imposed
+on a per access line basis on all current bills rendered for local
+exchange access service within the 911 service area.
+  2. Any such surcharge shall have uniform application and shall be
+imposed throughout the entire municipality to the greatest extent
+possible in conformance with the availability of such E911 system within
+the municipality.
+  3. No such surcharge shall be imposed upon more than seventy-five
+exchange access lines per customer per location.
+  4. Lifeline customers, a public safety agency and any municipality
+which has enacted a local law pursuant to the provisions of this article
+shall be exempt from any surcharge imposed under this article.
+```

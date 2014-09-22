@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 925-K", "kind": "section", "law_id": "GMU", "location_id": "925-K", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-K", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/925-K.md", "title": "City of Mechanicville and town of Stillwater industrial development agency"} -->
+# General Municipal Law § 925-K — City of Mechanicville and town of Stillwater industrial development agency
+
+[General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+```text
+  § 925-k. City of Mechanicville and town of Stillwater industrial
+development agency. For the benefit of the city of Mechanicville and the
+town of Stillwater, and the inhabitants thereof, an industrial
+development agency to be known as the CITY OF MECHANICVILLE AND TOWN OF
+STILLWATER INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
+accomplishment of any or all purposes specified in title one of article
+eighteen-A of this chapter. It shall constitute a body corporate and
+politic, and be perpetual in duration.  It shall have the powers and
+duties now conferred by title one of article eighteen-A of this chapter
+upon industrial development agencies provided, that the exercise of the
+powers of such agency with respect to the acquisition of real property
+whether by purchase, condemnation or otherwise shall be limited to the
+corporate limits of the city of Mechanicville and the town of Stillwater
+and, shall be subject to local zoning and planning regulations and shall
+take into consideration the regional and local comprehensive land use
+plans. It shall be organized in a manner prescribed by and be subject to
+the provisions of title one of article eighteen-A of this chapter.
+  Its members shall be appointed by the governing bodies of the city of
+Mechanicville and the town of Stillwater respectively, each of which
+shall appoint four members constituting a total membership of eight. The
+agency, its members, officers and employees and its operations shall in
+all respects be governed by the provisions of title one of article
+eighteen-A of this chapter.
+```

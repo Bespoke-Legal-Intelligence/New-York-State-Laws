@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 54", "kind": "section", "law_id": "EXC", "location_id": "54", "path": "ARTICLE 4-A › SECTION 54", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/54.md", "title": "Powers"} -->
+# Executive Law § 54 — Powers
+
+[Executive Law](../README.md) › [Article 4-A — Office of the State Inspector General](README.md)
+
+```text
+  § 54. Powers. The state inspector general shall have the power to:
+  1. subpoena and enforce the attendance of witnesses;
+  2. administer oaths or affirmations and examine witnesses under oath;
+  3. require the production of any books and papers deemed relevant or
+material to any investigation, examination or review;
+  4. notwithstanding any law to the contrary, examine and copy or remove
+documents or records of any kind prepared, maintained or held by any
+covered agency;
+  5. require any officer or employee in a covered agency to answer
+questions concerning any matter related to the performance of his or her
+official duties. No statement or other evidence derived therefrom may be
+used against such officer or employee in any subsequent criminal
+prosecution other than for perjury or contempt arising from such
+testimony. The refusal of any officer or employee to answer questions
+shall be cause for removal from office or employment or other
+appropriate penalty;
+  6. monitor the implementation by covered agencies of any
+recommendations made by state inspector general;
+  7. perform any other functions that are necessary or appropriate to
+fulfill the duties and responsibilities of office.
+```

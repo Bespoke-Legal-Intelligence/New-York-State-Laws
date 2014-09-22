@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 512", "kind": "section", "law_id": "LAB", "location_id": "512", "path": "ARTICLE 18 › TITLE 2 › SECTION 512", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/512.md", "title": "Employer"} -->
+# Labor Law § 512 — Employer
+
+[Labor Law](../../README.md) › [Article 18 — Unemployment Insurance Law](../README.md) › [Title 2 — Definitions](README.md)
+
+```text
+  § 512. Employer.  1. "Employer" includes the state of New York and
+other governmental entities and any Indian tribe as defined in section
+five hundred sixty-six of this article and any person, partnership,
+firm, association, public or private, domestic or foreign corporation,
+the legal representatives of a deceased person, or the receiver,
+trustee, or successor of a person, partnership, firm, association,
+public or private, domestic or foreign corporation.
+  2. For purposes of this article, the term "employer" includes the
+non-profit organization or governmental entity designated as liable for
+contributions under this article for all services performed by
+individuals who are enrolled participants in a summer youth employment
+program conducted and funded pursuant to title II, part B of the Federal
+Job Training Partnership Act. The designation shall be made in writing
+by the administrative entity for the service delivery area established
+pursuant to said federal act in which the summer youth employment
+program is operated, and shall become effective upon filing with the
+commissioner.
+  3. For the purpose of complying with the requirements of the federal
+personal responsibility and work opportunity reconciliation act, public
+law 104-193, the term "labor organizations" shall have the meaning given
+such term in section two (5) of the national labor relations act, and
+includes any entity (also known as a "hiring hall") which is used by the
+organization and any employer to carry out requirements of an agreement
+between the organization and the employer described in section eight
+(f)(3) of such act.  Such "labor organizations" shall be considered
+employers for the purpose of submitting information to the "statewide
+wage reporting system" as provided in section one hundred seventy-one-a
+of the tax law.
+```

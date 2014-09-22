@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5238", "kind": "section", "law_id": "CVP", "location_id": "5238", "path": "ARTICLE 52 › SECTION 5238", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5238.md", "title": "Directions to the sheriff"} -->
+# Civil Practice Law and Rules § 5238 — Directions to the sheriff
+
+[Civil Practice Law and Rules](../README.md) › [Article 52 — Enforcement of Money Judgments](README.md)
+
+```text
+  § 5238. Directions to the sheriff.  Upon motion of any party, on
+notice to the sheriff and all other parties, the court may direct the
+sheriff to dispose of, account for, assign, return or release all or any
+part of any property or debt, or the proceeds thereof, or to file
+additional returns, subject to the payment of the sheriff's fees and
+expenses. As far as practicable, the court shall direct that notice of
+the motion be given to any other judgment creditors, at the addresses
+shown on the judgment docket and to any persons who have secured orders
+of attachment affecting any property or debt, or the proceeds thereof,
+sought to be returned or released.
+```

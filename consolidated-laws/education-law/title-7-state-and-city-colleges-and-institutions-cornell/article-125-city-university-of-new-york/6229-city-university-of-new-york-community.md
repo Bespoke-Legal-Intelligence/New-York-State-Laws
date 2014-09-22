@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6229", "kind": "section", "law_id": "EDN", "location_id": "6229", "path": "TITLE 7 › ARTICLE 125 › SECTION 6229", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6229.md", "title": "City university of New York community college budget process"} -->
+# Education Law § 6229 — City university of New York community college budget process
+
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 125 — City University of New York](README.md)
+
+```text
+  § 6229. City university of New York community college budget process.
+1. For the purposes of this section and section sixty-two hundred
+twenty-one of this article, the term "approved programs and services"
+shall mean and include all programs and services provided by the
+community colleges, except for campus schools or other elementary or
+secondary schools which receive state aid under other provisions of law,
+provided that all such programs have been approved as a part of the
+master plan of the city university and as a part of the regents plan for
+higher education or general revision thereof pursuant to section two
+hundred thirty-seven of this chapter.
+  2. For each city fiscal year, the chancellor of the city university
+shall prepare a proposed operating and capital budget for all approved
+programs and services. The form and content of such proposed operating
+and capital budget shall be the same as that approved by the state
+director of the budget for the community colleges of the state
+university of New York. The proposed operating budget shall be submitted
+in accordance with subdivision one-b of section sixty-three hundred four
+of this chapter and shall also set forth the separate operating budgets
+of each community college.
+  3. Such proposed operating and capital budget, after approval by the
+board of trustees, shall be submitted to the mayor of the city of New
+York for his review and approval. Not later than October first of the
+calendar year preceding the city fiscal year, the mayor shall submit to
+the state budget director, in the form and content required by
+subdivision two hereof, the amount of expenditures that he will
+recommend in his executive budget for the following fiscal year for such
+approved programs and services.
+```

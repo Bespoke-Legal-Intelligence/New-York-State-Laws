@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 181-A", "kind": "section", "law_id": "COM", "location_id": "181-A", "path": "ARTICLE 5-D › SECTION 181-A", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/181-A.md", "title": "Assistance of other state agencies"} -->
+# Economic Development Law § 181-A — Assistance of other state agencies
+
+[Economic Development Law](../README.md) › [Article 5-D — Agriculture Economic Development Program](README.md)
+
+```text
+  § 181-a. Assistance of other state agencies. To effectuate the
+purposes of this article, the commissioner may request and shall be
+entitled to receive from any state agency, and the same are authorized
+to provide such assistance, service, facilities and data as will enable
+the program to carry out the functions, powers and duties provided by
+this article and such temporary or permanently assigned personnel as the
+director of the budget may approve.
+```

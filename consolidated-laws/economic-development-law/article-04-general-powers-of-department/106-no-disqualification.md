@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 106", "kind": "section", "law_id": "COM", "location_id": "106", "path": "ARTICLE 4 › SECTION 106", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/106.md", "title": "No disqualification"} -->
+# Economic Development Law § 106 — No disqualification
+
+[Economic Development Law](../README.md) › [Article 4 — General Powers of Department](README.md)
+
+```text
+  § 106. No disqualification. No member of the council, no deputy of
+such member, and no member of any advisory committee serving without
+compensation other than reimbursement of expenses incurred, shall be
+disqualified from holding any other public office or employment, nor
+shall he forfeit any such office or employment by reason of his
+appointment hereunder, notwithstanding the provisions of any general,
+special or local law, ordinance or city charter.
+```

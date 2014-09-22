@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1020-M", "kind": "section", "law_id": "PBA", "location_id": "1020-M", "path": "ARTICLE 5 › TITLE 1-A › SECTION 1020-M", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1020-M.md", "title": "Legal investments"} -->
+# Public Authorities Law § 1020-M — Legal investments
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1-A — Long Island Power Authority](README.md)
+
+```text
+  * § 1020-m. Legal investments. Any bonds or notes issued by the
+authority are hereby made securities in which all public officers and
+bodies of this state and all municipalities, all insurance companies and
+associations and other persons carrying on an insurance business, all
+banks, bankers, trust companies, savings banks and savings associations,
+including savings and loan associations, building and loan associations,
+investment companies and other persons carrying on a banking business,
+all trusts, estates and guardianships and all other persons whatsoever,
+who are now or may hereafter be authorized to invest in bonds or other
+obligations of the state, may properly and legally invest funds,
+including capital in their control or belonging to them. The bonds and
+notes are also hereby made securities which may be deposited with and
+shall be received by all public officers and bodies of the state and all
+municipalities for any purpose for which the deposit of bonds or other
+obligations of the state is now or may hereafter be authorized.
+  * NB There are 2 § 1020-m's
+```

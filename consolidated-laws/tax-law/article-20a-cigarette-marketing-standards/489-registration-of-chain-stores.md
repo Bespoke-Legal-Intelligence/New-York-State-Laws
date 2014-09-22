@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 489", "kind": "section", "law_id": "TAX", "location_id": "489", "path": "ARTICLE 20-A › SECTION 489", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/489.md", "title": "Registration of chain stores"} -->
+# Tax Law § 489 — Registration of chain stores
+
+[Tax Law](../README.md) › [Article 20-A — Cigarette Marketing Standards](README.md)
+
+```text
+  § 489. Registration of chain stores. Every chain store, including
+vending machine operators, cooperative members, franchisees and large
+volume outlet operators, must register with the commissioner of taxation
+and finance. The fee for such registration shall be three hundred
+dollars, unless such fee has been paid during the preceding twelve
+months, in which case, the fee for such registration shall be two
+hundred dollars. The fee for registration of a chain store which is a
+vending machine operator which sells cigarettes at not less than fifteen
+separate outlets shall be two hundred fifty dollars, regardless of the
+number of vending machines owned or operated, or the number of separate
+outlets maintained, unless such fee has been paid during the preceding
+twelve months, in which case, the fee for such registration shall be two
+hundred dollars. The commissioner may require all chain stores to file a
+new registration statement not more often than once every three years.
+Registration statements shall contain such information as the
+commissioner may require by regulation or instruction.  The provisions
+of section four hundred eighty of this chapter relating to licensing of
+wholesale dealers shall be applicable to the registration of chain
+stores, to the extent that such provisions can be made applicable to
+such registrations, as if such provisions expressly referred to
+registration of chain stores.
+```

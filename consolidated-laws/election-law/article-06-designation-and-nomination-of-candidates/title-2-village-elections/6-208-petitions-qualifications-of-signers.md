@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Election Law § 6-208", "kind": "section", "law_id": "ELN", "location_id": "6-208", "path": "ARTICLE 6 › TITLE 2 › SECTION 6-208", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/6-208.md", "title": "Petitions, qualifications of signers"} -->
+# Election Law § 6-208 — Petitions, qualifications of signers
+
+[Election Law](../../README.md) › [Article 6 — Designation and Nomination of Candidates](../README.md) › [Title 2 — Village Elections](README.md)
+
+```text
+  § 6-208. Petitions, qualifications of signers. Any village resident
+who is a registered voter of the village and, in the case of a
+designating petition, an enrolled member of the party filing the
+petition may sign an independent nominating petition or a designating
+petition providing that: (a) such signature was made not more than six
+weeks prior to the last day to file such petition; (b) he has not signed
+more than one petition designating or nominating a candidate for mayor
+or village justice. If he has signed more than one such petition, only
+the earliest signature for each such office shall be valid; (c) he has
+not signed more than one petition designating or nominating a candidate
+for each vacancy which exists for the office of village trustee or
+village justice if the village has provided for two such justices. If he
+has signed more than one such petition for each such vacancy, only the
+earlier signatures shall be valid; or (d) he does not vote at a primary
+election or party caucus where a candidate was nominated for the same
+office for each such vacancy.
+```

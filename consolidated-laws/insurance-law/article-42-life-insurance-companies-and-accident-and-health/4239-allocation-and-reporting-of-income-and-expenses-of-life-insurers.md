@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4239", "kind": "section", "law_id": "ISC", "location_id": "4239", "path": "ARTICLE 42 › SECTION 4239", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4239.md", "title": "Allocation and reporting of income and expenses of life insurers"} -->
+# Insurance Law § 4239 — Allocation and reporting of income and expenses of life insurers
+
+[Insurance Law](../README.md) › [Article 42 — Life Insurance Companies and Accident and Health Insurance Companies and Legal Services Insurance Companies](README.md)
+
+```text
+  § 4239. Allocation and reporting of income and expenses of life
+insurers. (a) In order to enable the superintendent to determine
+compliance with this chapter, he may issue reasonable regulations
+prescribing standards for the equitable allocation of income and
+expenses as among lines of business and as between investment expenses
+and insurance expenses. No such regulation or amendment thereto shall be
+promulgated except upon notice to all insurers affected thereby, and
+after hearing. Such regulation or amendment shall not preclude the use
+of other reasonable and equitable standards previously approved by the
+superintendent. He may also promulgate regulations defining the items of
+income and expenses to be reported in each line of the annual statement.
+Any regulation or amendment thereto shall be promulgated at least six
+months before the beginning of the calendar year in which the same shall
+take effect.
+  (b) The restrictions in subsection (a) hereof as to notice, hearing,
+and effective period shall not apply to such regulations or amendments
+as may be approved by the superintendent for calendar years as to which
+similar regulations or amendments have been adopted by the National
+Association of Insurance Commissioners.
+  (c) If the superintendent finds, after notice and hearing, that any
+such insurer has failed to comply with the requirements of this section,
+he may order such insurer to change its methods of reporting or to
+modify its basis of allocation so as to produce reasonable and equitable
+results.
+```

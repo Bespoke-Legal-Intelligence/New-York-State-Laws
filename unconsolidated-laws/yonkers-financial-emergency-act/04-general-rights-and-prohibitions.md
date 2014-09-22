@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Yonkers Financial Emergency Act § 4", "kind": "section", "law_id": "YFA", "location_id": "4", "path": "SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:YFA/4.md", "title": "General rights and prohibitions"} -->
+# Yonkers Financial Emergency Act § 4 — General rights and prohibitions
+
+[Yonkers Financial Emergency Act](README.md)
+
+```text
+  § 4. General rights and prohibitions. 1. Neither the city nor any
+covered organization shall borrow or expend any moneys, or in any way,
+directly or indirectly, expressly or implicitly engage its credit during
+the emergency period except in compliance with the provisions of this
+act and the special fiscal act.
+  2. Nothing contained in this act shall limit the right of the city or
+any covered organization to comply with the provisions of any existing
+contract with or for the benefit of the holders of any bonds or notes of
+the city or such covered organization or with the provisions of the
+special fiscal act.
+  3. Nothing contained in this act shall be construed to impair the
+right of employees to organize or to bargain collectively.
+```

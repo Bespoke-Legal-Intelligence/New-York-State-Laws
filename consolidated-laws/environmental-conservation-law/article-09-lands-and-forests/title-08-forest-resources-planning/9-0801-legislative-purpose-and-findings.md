@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 9-0801", "kind": "section", "law_id": "ENV", "location_id": "9-0801", "path": "ARTICLE 9 › TITLE 8 › SECTION 9-0801", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/9-0801.md", "title": "Legislative purpose and findings"} -->
+# Environmental Conservation Law § 9-0801 — Legislative purpose and findings
+
+[Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 8 — Forest Resources Planning](README.md)
+
+```text
+§ 9-0801. Legislative purpose and findings.
+  It is the purpose of this act to provide for the development and
+maintenance of a forest resources planning program, consistent with
+article fourteen of the state constitution, in furtherance of the policy
+of the state of New York to conserve, improve and protect its natural
+resources and environment. The legislature recognizes that the needs and
+opportunities which affect the use, management and protection of the
+forest resources of the state are interrelated and require a
+comprehensive approach to issue resolution and policy development. To
+best serve the public interest, forest resources programs and efforts
+should be based upon periodic assessments and analyses of present and
+anticipated use, demand for, and supply of renewable forest resources
+from the public and private forest lands of the state. The department
+shall consult and cooperate with the Adirondack park agency in the
+preparation of those parts of the assessment and plan with respect to
+the forest resources of the Adirondack park. The legislature hereby
+designates the department of environmental conservation as the official
+state agency with the responsibility to plan for present and future
+demands on the state's forest resources and declares that the department
+shall conduct a program of long range comprehensive forest resource
+planning which planning program shall include the periodic preparation
+of a forest resources assessment and the periodic development of a
+forest resources plan.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "State Administrative Procedure Act § 104", "kind": "section", "law_id": "SAP", "location_id": "104", "path": "ARTICLE 1 › SECTION 104", "repealed": false, "repealed_date": null, "source": "nys-laws:SAP/104.md", "title": "Access to studies and data"} -->
+# State Administrative Procedure Act § 104 — Access to studies and data
+
+[State Administrative Procedure Act](../README.md) › [Article 1 — General Provisions](README.md)
+
+```text
+  § 104. Access to studies and data.  1. An agency, upon request, shall,
+within thirty days, make available for inspection and copying any
+scientific or statistical study, report or analysis, including any such
+study, report or analysis prepared by a person or entity pursuant to a
+contract with the agency or funded in whole or in part through a grant
+from the agency that is used as the basis of a proposed rule and any
+supporting data; provided, however, that the agency shall provide for
+inspection only of any such study, report or analysis due to copyright
+restrictions.
+  2. An agency that contracts with a person or entity for the
+performance of a study or awards a grant for such purpose shall require
+as a condition or term of such contract or grant that the person or
+entity shall provide to the agency the study, any data supporting the
+study, and identity of the principal person or persons who performed
+such study for disclosure in accordance with the provisions of this
+section and of article six of the public officers law.
+```

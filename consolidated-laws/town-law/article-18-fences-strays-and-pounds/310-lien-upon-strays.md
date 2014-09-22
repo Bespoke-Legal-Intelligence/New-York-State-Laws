@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Town Law § 310", "kind": "section", "law_id": "TWN", "location_id": "310", "path": "ARTICLE 18 › SECTION 310", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/310.md", "title": "Lien upon strays"} -->
+# Town Law § 310 — Lien upon strays
+
+[Town Law](../README.md) › [Article 18 — Fences, Strays and Pounds](README.md)
+
+```text
+  § 310. Lien upon strays. Whenever any person shall have any strayed
+horses, cattle, sheep, swine or other beast upon his inclosed land, or
+shall find any such beast on land owned or occupied by him doing damage,
+and such beast shall not have come upon such lands from adjoining lands,
+where they are lawfully kept, by reason of his refusal or neglect to
+make or maintain a division fence required of him by law, such person
+may have a lien with priority over all other liens upon such beasts, for
+so long as such person shall retain possession of such beasts, for the
+damage sustained by reason of their so coming upon his lands and doing
+damage, for his reasonable charges for keeping them, and all fees and
+costs made thereon, and he may keep such beast until such damages,
+charges, fees and costs are paid, or such lien is foreclosed, upon
+complying with the provisions of this article relating thereto.
+```

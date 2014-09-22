@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 523-L", "kind": "section", "law_id": "EXC", "location_id": "523-L", "path": "ARTICLE 19-G › TITLE 3 › SUBTITLE B › SECTION 523-L", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/523-L.md", "title": "Independent review board"} -->
+# Executive Law § 523-L — Independent review board
+
+[Executive Law](../../../README.md) › [Article 19-G — Office of Children and Family Services](../../README.md) › [Title 3 — Programs and Services For Youth](../README.md) › [Subtitle B — Office of the Ombudsman](README.md)
+
+```text
+  § 523-l. Independent review board. The independent review board shall
+consist of fifteen members who are not employed by the office and who
+are knowledgeable in the areas of juvenile justice and youth rights. The
+members of such board shall be appointed by the commissioner. Each board
+member shall be appointed for a term of three years, which term may be
+renewed once. At least one member shall be a former resident or parent
+of a resident; at least one member shall be a psychologist or other
+clinician; at least one member shall be an individual knowledgeable of
+juvenile legal rights matters; at least one member shall be a judge of
+the family court; and at least one member shall be knowledgeable of the
+criminal justice system. Members shall be reimbursed for travel expenses
+incurred in the conduct of their duties. The board shall review the
+office of the ombudsman reports and meet at least bimonthly with the
+ombudsmen, the director, the commissioner and other appropriate
+personnel to discuss the reports. The board is an advisory body and has
+no administrative duties. It shall advise the commissioner on matters
+pertaining to the office of the ombudsman and on matters related to
+complaint and grievance resolution. The board shall have the authority
+to:
+  1. request the office of the ombudsman and/or the commissioner to
+conduct investigations;
+  2. make inquiries at the request of the director or the commissioner,
+or, on its own motion, into matters affecting the legal rights of youth
+residing in facilities operated by the office;
+  3. convene meetings and communicate freely with the ombudsmen and the
+office of the ombudsman;
+  4. evaluate the effectiveness of the office of the ombudsman and make
+necessary inquiries to that end; and
+  5. visit office facilities and grounds and inspect records of the
+office pertaining to such facilities. Laws and regulations governing the
+confidentiality of records must be adhered to, and the general counsel
+for the office should be notified concerning the records to be
+inspected. During any such visit to facilities or inspection of records,
+the board members may speak with youth and facility staff.
+```

@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Boxing, Sparring and Wrestling § 33", "kind": "section", "law_id": "BSW", "location_id": "33", "path": "SECTION 33", "repealed": false, "repealed_date": null, "source": "nys-laws:BSW/33.md", "title": "Misdemeanor"} -->
+# Boxing, Sparring and Wrestling § 33 — Misdemeanor
+
+[Boxing, Sparring and Wrestling](README.md)
+
+```text
+  § 33. Misdemeanor. Any person or corporation who directly or
+indirectly conducts, holds or gives boxing or sparring matches or
+exhibitions or participates either directly or indirectly in any boxing
+or sparring match or exhibition as a referee, judge, match-maker,
+timekeeper, corporation treasurer, box office employee, professional
+boxer, manager, trainer, second or announcer without first having
+procured an appropriate license as prescribed in this act shall be
+guilty of a misdemeanor. Any person, partnership or corporation who
+promotes a professional wrestling match or exhibition in the state
+without first having procured an appropriate license in accordance with
+section 28-b of this chapter, shall be guilty of a misdemeanor.
+  Nothing herein contained shall be deemed to apply to amateur
+exhibitions.
+```

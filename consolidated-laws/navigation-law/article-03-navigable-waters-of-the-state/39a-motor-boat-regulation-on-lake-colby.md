@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 39-A", "kind": "section", "law_id": "NAV", "location_id": "39-A", "path": "ARTICLE 3 › SECTION 39-A", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/39-A.md", "title": "Motor boat regulation on Lake Colby"} -->
+# Navigation Law § 39-A — Motor boat regulation on Lake Colby
+
+[Navigation Law](../README.md) › [Article 3 — Navigable Waters of the State](README.md)
+
+```text
+  § 39-a. Motor boat regulation on Lake Colby. 1. The term "motor boat"
+shall mean and include a mechanically propelled vessel having a source
+of power in excess of ten horsepower other than propulsion by wind
+propelled sail or human propelled oar or paddle. Such term shall also
+include a vessel temporarily or permanently equipped with a detachable
+motor, commonly known as an "outboard" motor boat.
+  2. No motor boat shall be operated on Lake Colby, in the town of
+Harrietstown, county of Franklin.
+  3. The provisions of this section shall not apply to emergency and
+rescue vessels and vessels operated for the official functions of a
+federal, state or local governmental agency.
+  4. A person violating any provision of subdivision two of this section
+shall be guilty of a violation punishable by a fine of not more than
+fifty dollars, or imprisonment for not more than ten days, or by both
+such fine and imprisonment.
+```

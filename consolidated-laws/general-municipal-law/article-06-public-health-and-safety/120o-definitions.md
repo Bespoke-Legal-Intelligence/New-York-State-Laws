@@ -1,0 +1,13 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 120-O", "kind": "section", "law_id": "GMU", "location_id": "120-O", "path": "ARTICLE 6 › SECTION 120-O", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/120-O.md", "title": "Definitions"} -->
+# General Municipal Law § 120-O — Definitions
+
+[General Municipal Law](../README.md) › [Article 6 — Public Health and Safety](README.md)
+
+```text
+  § 120-o. Definitions. The words "joint meeting" as used in this act
+shall be construed to mean the meeting or assembly of the members of the
+governing bodies or boards of the several municipalities having
+authority to make and enter into a contract for the construction jointly
+of public improvements, pursuant to and by virtue of the provisions of
+this act.
+```

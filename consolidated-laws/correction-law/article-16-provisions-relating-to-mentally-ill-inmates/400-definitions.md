@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 400", "kind": "section", "law_id": "COR", "location_id": "400", "path": "ARTICLE 16 › SECTION 400", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/400.md", "title": "Definitions"} -->
+# Correction Law § 400 — Definitions
+
+[Correction Law](../README.md) › [Article 16 — Provisions Relating to Mentally Ill Inmates](README.md)
+
+```text
+  § 400. Definitions. As used in this article the following terms:
+  (1) "Examining physician" means a physician licensed to practice
+medicine in the state of New York, but who is not on the staff of the
+facility where the inmate is confined.
+  (2) "Hospital" means a hospital in the department of mental hygiene
+which is designated as such by the commissioner of mental hygiene for
+the care and treatment of mentally ill inmates.
+  (3) "In immediate need of care and treatment" means that the inmate is
+apparently mentally ill and is not able to be properly cared for at the
+place where he is confined and is in need of immediate care and
+treatment in a hospital.
+  (4) "In need of care and treatment" means that a person has a mental
+illness for which in-patient care and treatment in a hospital is
+necessary.
+  (5) "Inmate" means a person committed to the custody of the department
+of corrections and community supervision, or a person convicted of a
+crime and committed to the custody of the sheriff, the county jail, or a
+local department of correction.
+  (6) "Mental illness" means an affliction with a mental disease or
+mental condition which is manifested by a disorder or disturbance in
+behavior, feeling, thinking, or judgment to such an extent that the
+person afflicted requires care and treatment.
+  (7) "Superintendent" means a superintendent of a state correctional
+facility or the person in charge of a local correctional facility by
+whatever title he may be known.
+```

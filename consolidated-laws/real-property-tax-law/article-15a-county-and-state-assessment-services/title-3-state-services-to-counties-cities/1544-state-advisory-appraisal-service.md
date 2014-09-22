@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1544", "kind": "section", "law_id": "RPT", "location_id": "1544", "path": "ARTICLE 15-A › TITLE 3 › SECTION 1544", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1544.md", "title": "State advisory appraisal service"} -->
+# Real Property Tax Law § 1544 — State advisory appraisal service
+
+[Real Property Tax Law](../../README.md) › [Article 15-A — County and State Assessment Services](../README.md) › [Title 3 — State Services to Counties, Cities, Towns and Villages](README.md)
+
+```text
+  § 1544. State advisory appraisal service. 1. The commissioner shall
+provide upon written request of the chief executive officer or assessor
+of a village, city, town or county which conducts a revaluation or
+update program as defined in section one hundred two of this chapter
+advisory appraisals of (1) highly complex properties, being properties
+where the appraisals require either the professional use of highly
+specialized engineering skills or the development of earnings or
+economic analyses of a high degree of complexity and (2) taxable public
+utility property located in such village, city, town or county.
+  2. The commissioner may require from any person, association,
+partnership or corporation operating a public utility in the state which
+is subject to the jurisdiction of the state department of public service
+or a regulatory agency of the United States government reports in such
+form and containing such information and data as the commissioner may
+prescribe for the purpose of making such appraisals as may be necessary
+pursuant to this article and article twelve of this chapter. If a
+person, association, partnership or corporation fails to furnish a
+report required by the commissioner to be furnished pursuant to this
+subdivision, the commissioner may commence a special proceeding in the
+supreme court to compel such person, association, partnership or
+corporation to furnish such report.
+  3. The commissioner may request a director of real property tax
+services in a county to provide such preliminary data and information
+with respect to parcels eligible for advisory appraisals pursuant to
+this section as the commissioner may prescribe for the purpose of
+preparing the appraisals required by this section.
+  4. Advisory appraisals furnished pursuant to this section shall be
+considered by the assessor in making assessments but shall not be
+binding upon him.
+```

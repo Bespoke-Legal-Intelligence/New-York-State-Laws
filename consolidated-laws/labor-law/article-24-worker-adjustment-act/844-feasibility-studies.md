@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 844", "kind": "section", "law_id": "LAB", "location_id": "844", "path": "ARTICLE 24 › SECTION 844", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/844.md", "title": "Feasibility studies"} -->
+# Labor Law § 844 — Feasibility studies
+
+[Labor Law](../README.md) › [Article 24 — Worker Adjustment Act](README.md)
+
+```text
+  § 844. Feasibility studies. The department of economic development
+shall conduct preliminary assessments of the advisability of conducting
+a comprehensive study exploring the feasibility of having a company or
+group, including the workers, purchase the plant and continue it in
+operation. Provided further, that rules and regulations established by
+the commissioner of economic development pursuant to section one hundred
+ninety-three of article seven of the omnibus economic development act of
+nineteen hundred eighty-seven regarding the selection and retention of
+experts to be used in undertaking assessments and the exemption of
+disclosure requirements shall apply to assessments conducted under this
+section.
+```

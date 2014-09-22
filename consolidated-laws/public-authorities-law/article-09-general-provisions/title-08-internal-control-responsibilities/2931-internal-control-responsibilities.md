@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 2931", "kind": "section", "law_id": "PBA", "location_id": "2931", "path": "ARTICLE 9 › TITLE 8 › SECTION 2931", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/2931.md", "title": "Internal control responsibilities"} -->
+# Public Authorities Law § 2931 — Internal control responsibilities
+
+[Public Authorities Law](../../README.md) › [Article 9 — General Provisions](../README.md) › [Title 8 — Internal Control Responsibilities of Public Authorities](README.md)
+
+```text
+  § 2931. Internal control responsibilities. The governing board of each
+covered authority shall: 1. establish and maintain for the authority
+guidelines for a system of internal control that are in accordance with
+this article and internal control standards;
+  2. establish and maintain for the authority a system of internal
+control and a program of internal control review. The program of
+internal review shall be designed to identify internal control
+weaknesses, identify actions that are needed to correct these
+weaknesses, monitor the implementation of necessary corrective actions
+and periodically assess the adequacy of the authority's ongoing internal
+controls;
+  3. make available to each member, officer and employee a clear and
+concise statement of the generally applicable managerial policies and
+standards with which he or she is expected to comply. Such statement
+shall emphasize the importance of effective internal control to the
+authority and the responsibility of each member, officer and employee
+for effective internal control;
+  4. designate an internal control officer, who shall report to the head
+of the authority, to implement and review the internal control
+responsibilities established pursuant to this section; and
+  5. implement education and training efforts to ensure that members,
+officers and employees have achieved adequate awareness and
+understanding of internal control standards and, as appropriate,
+evaluation techniques.
+```

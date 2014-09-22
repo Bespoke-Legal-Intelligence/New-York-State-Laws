@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Lands Law § 50", "kind": "section", "law_id": "PBL", "location_id": "50", "path": "ARTICLE 4 › SECTION 50", "repealed": false, "repealed_date": null, "source": "nys-laws:PBL/50.md", "title": "Sale of abandoned canal lands"} -->
+# Public Lands Law § 50 — Sale of abandoned canal lands
+
+[Public Lands Law](../README.md) › [Article 4 — Abandoned Canal Lands and Structures](README.md)
+
+```text
+  § 50. Sale of abandoned canal lands.  The commissioner of general
+services may sell and convey at public or private sale the right, title
+and interest of the state in and to any real property, acquired for
+canal purposes, which the commissioner of transportation may determine
+to have been abandoned for such purposes, or as to which a determination
+of abandonment shall have been heretofore made pursuant to law.  The
+commissioner of general services may sell and convey such abandoned
+lands in the same manner and with the same discretion as he may sell and
+convey unappropriated state land pursuant to article three of this
+chapter. The commissioner may sell such abandoned canal lands for not
+less than the appraised value thereof to occupants of such abandoned
+canal lands or owners of adjacent land who have used or improved such
+abandoned canal lands either under a permit issued pursuant to section
+one hundred of the canal law or in good faith without knowledge that
+such canal lands were owned by the state; provided that such appraised
+value shall be exclusive of the value of improvements made on the
+property by the purchaser.
+```

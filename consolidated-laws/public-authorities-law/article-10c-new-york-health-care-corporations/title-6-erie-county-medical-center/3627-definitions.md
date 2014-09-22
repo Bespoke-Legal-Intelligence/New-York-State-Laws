@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3627", "kind": "section", "law_id": "PBA", "location_id": "3627", "path": "ARTICLE 10-C › TITLE 6 › SECTION 3627", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3627.md", "title": "Definitions"} -->
+# Public Authorities Law § 3627 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 10-C — New York Health Care Corporations](../README.md) › [Title 6 — Erie County Medical Center Corporation](README.md)
+
+```text
+  § 3627. Definitions. As used or referred to in this title, unless a
+different meaning clearly appears from the context:
+  1. "Board" means the board of directors of the corporation established
+by section thirty-six hundred twenty-eight of this title.
+  2. "Bonds" means the bonds, notes, or other evidences of indebtedness
+issued by the corporation pursuant to this title, and the provisions of
+this title relating to bonds and bondholders shall apply with equal
+force and effect to notes and noteholders, respectively, unless the
+context otherwise clearly requires.
+  3. "Corporation" means the public benefit corporation created by
+section thirty-six hundred twenty-eight of this title, known as the Erie
+County Medical Center Corporation.
+  4. "County" means the county of Erie.
+  5. "Health facility" means a building, structure, or unit, or any
+improvement to real property, including all necessary and usual
+attendant and related equipment, facilities, or fixtures, or any part or
+parts thereof, or any combination or combinations thereof, including,
+but not limited to, a general hospital, psychiatric hospital, ambulatory
+clinic or center, chronic disease hospital, nursing home, extended-care
+facility, dispensary, or laboratory, or any other related facility, or
+any combination of the foregoing, constructed, acquired, or otherwise
+provided by or for the use of the corporation or the county in providing
+medical research and health and medical services to the public.
+  6. "Director" means a voting director appointed to the corporation
+pursuant to section thirty-six hundred twenty-eight of this title.
+  7. "Network" shall mean the Erie County Medical Center healthcare
+network.
+```

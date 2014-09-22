@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Real Property Law § 297-B", "kind": "section", "law_id": "RPP", "location_id": "297-B", "path": "ARTICLE 9 › SECTION 297-B", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/297-B.md", "title": "Recording of certified copies of judgments affecting real property"} -->
+# Real Property Law § 297-B — Recording of certified copies of judgments affecting real property
+
+[Real Property Law](../README.md) › [Article 9 — Recording Instruments Affecting Real Property](README.md)
+
+```text
+  § 297-b. Recording of certified copies of judgments affecting real
+property.  When a judgment, final order or decree is rendered by a New
+York state court of record or a United States district court affecting
+the title to or possession, use or enjoyment of real property, a copy of
+such judgment, order or decree, duly certified by the clerk of the court
+wherein said judgment was rendered, may be recorded in the office of the
+recording officer of the county in which such property is situated, in
+the same manner as a conveyance duly acknowledged or proved and
+certified so as to entitle it to be recorded, and such recording officer
+shall upon request and on tender of the lawful fees therefor, record the
+same in his said office.
+  For purposes of recording and indexing such judgment, order or decree,
+the prevailing party or parties named therein shall be deemed grantees
+and all other persons named therein shall be deemed grantors.
+```

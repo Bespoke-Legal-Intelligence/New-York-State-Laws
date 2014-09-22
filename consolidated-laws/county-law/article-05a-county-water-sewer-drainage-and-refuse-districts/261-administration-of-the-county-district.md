@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "County Law § 261", "kind": "section", "law_id": "CNT", "location_id": "261", "path": "ARTICLE 5-A › SECTION 261", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/261.md", "title": "Administration of the county district"} -->
+# County Law § 261 — Administration of the county district
+
+[County Law](../README.md) › [Article 5-A — County Water, Sewer, Drainage and Refuse Districts](README.md)
+
+```text
+  § 261. Administration of the county district. When a county district
+shall have been established, the board of supervisors shall appoint,
+designate or establish an officer, board or body as the administrative
+head or body of the district. All matters relating to the membership of
+such administrative head or body, including but not limited to, numbers,
+method of selection, tenure, qualifications and compensation, shall be
+determined by the board of supervisors. A member of the board of
+supervisors or any other county officer or official may be appointed as
+administrative head or as a member of the administrative body provided
+that he shall receive no additional salary or compensation for such
+services. The administrative head or body of one or more county
+districts shall be considered to be the administrative head or body of
+an administrative unit of county government. The title of such
+administrative head or body, if such functions are not conferred on an
+existing officer or body, and the name of such administrative unit, if
+the county district is made a separate administrative unit of county
+government, shall be prescribed by the board of supervisors, and such
+officer or body shall have all the powers generally conferred on heads
+of administrative units by this chapter, not inconsistent with the
+provisions of this article, and shall be subject to all of the duties
+imposed upon such heads by this chapter, not inconsistent with the
+provisions of this article.
+```

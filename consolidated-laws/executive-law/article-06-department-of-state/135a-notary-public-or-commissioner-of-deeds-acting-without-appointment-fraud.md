@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 135-A", "kind": "section", "law_id": "EXC", "location_id": "135-A", "path": "ARTICLE 6 › SECTION 135-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/135-A.md", "title": "Notary public or commissioner of deeds; acting without appointment; fraud in office"} -->
+# Executive Law § 135-A — Notary public or commissioner of deeds; acting without appointment; fraud in office
+
+[Executive Law](../README.md) › [Article 6 — Department of State](README.md)
+
+```text
+  § 135-a. Notary public or commissioner of deeds; acting without
+appointment; fraud in office. 1. Any person who holds himself out to the
+public as being entitled to act as a notary public or commissioner of
+deeds, or who assumes, uses or advertises the title of notary public or
+commissioner of deeds, or equivalent terms in any language, in such a
+manner as to convey the impression that he is a notary public or
+commissioner of deeds without having first been appointed as notary
+public or commissioner of deeds, or
+  2. A notary public or commissioner of deeds, who in the exercise of
+the powers, or in the performance of the duties of such office shall
+practice any fraud or deceit, the punishment for which is not otherwise
+provided for by this act, shall be guilty of a misdemeanor.
+```

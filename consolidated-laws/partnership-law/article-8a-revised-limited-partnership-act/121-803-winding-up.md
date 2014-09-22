@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Partnership Law § 121-803", "kind": "section", "law_id": "PTR", "location_id": "121-803", "path": "ARTICLE 8-A › SECTION 121-803", "repealed": false, "repealed_date": null, "source": "nys-laws:PTR/121-803.md", "title": "Winding up"} -->
+# Partnership Law § 121-803 — Winding up
+
+[Partnership Law](../README.md) › [Article 8-A — Revised Limited Partnership Act](README.md)
+
+```text
+  § 121-803. Winding up. (a) In the event of a dissolution of a limited
+partnership, except for a dissolution pursuant to section 121-802 of
+this article, unless otherwise provided in the partnership agreement,
+the general partners who have not wrongfully dissolved a limited
+partnership or, if none, the limited partners, may wind up the limited
+partnership's affairs; upon cause shown, the supreme court in the
+judicial district in which the office of the limited partnership is
+located may wind up the limited partnership's affairs upon application
+of any partner, his legal representative, or assignee, and in connection
+therewith may appoint a receiver or liquidating trustee.
+  (b) Upon dissolution of a limited partnership, the persons winding up
+the limited partnership's affairs may, in the name of, and for and on
+behalf of, the limited partnership prosecute and defend suits, whether
+civil, criminal or administrative, settle and close the limited
+partnership's business, dispose of and convey the limited partnership's
+property, discharge the limited partnership's liabilities, and
+distribute to the partners any remaining assets of the limited
+partnership, all without affecting the liability of limited partners
+including limited partners participating in the winding up of the
+limited partnership's affairs.
+```

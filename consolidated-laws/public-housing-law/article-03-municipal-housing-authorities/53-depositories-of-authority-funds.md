@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Public Housing Law § 53", "kind": "section", "law_id": "PBG", "location_id": "53", "path": "ARTICLE 3 › SECTION 53", "repealed": false, "repealed_date": null, "source": "nys-laws:PBG/53.md", "title": "Depositories of authority funds"} -->
+# Public Housing Law § 53 — Depositories of authority funds
+
+[Public Housing Law](../README.md) › [Article 3 — Municipal Housing Authorities](README.md)
+
+```text
+  § 53. Depositories of authority funds.  In order to protect funds
+deposited by an authority all banks, bankers, trust companies or other
+persons carrying on a banking business, organized under the laws of the
+state, are authorized to give to the authority an undertaking with such
+sureties as shall be approved by the authority, faithfully to keep and
+pay over upon the order of the authority any such deposits and agreed
+interest thereon, or in lieu of said sureties, to deposit as collateral
+such securities and in such amounts as may be agreed upon with the
+authority pursuant to a collateral deposit agreement in form and terms
+satisfactory to the authority.  The collateral to be deposited shall
+consist of securities in which savings banks may legally invest funds
+within their control.
+```

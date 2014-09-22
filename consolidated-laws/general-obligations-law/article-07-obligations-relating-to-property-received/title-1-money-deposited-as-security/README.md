@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"kind": "container", "law_id": "GOB", "location_id": "A7T1", "path": "ARTICLE 7 › TITLE 1", "source": "nys-laws:GOB/A7T1.md", "title": "Money Deposited As Security to Be Held In Trust In Certain Cases"} -->
+# Title 1 — Money Deposited As Security to Be Held In Trust In Certain Cases
+
+[General Obligations Law](../../README.md) › [Article 7 — Obligations Relating to Property Received As Security](../README.md)
+
+## Contents
+
+- [§ 7-101 Money deposited or advanced for use or rental of personal property; waiver void](7-101-money-deposited-or-advanced-for-use.md)
+- [§ 7-103 Money deposited or advanced for use or rental of real property; waiver void; administration expenses](7-103-money-deposited-or-advanced-for-use.md)
+- [§ 7-105 Landlord failing to turn over deposits made by tenants or licensees and to notify tenants or licensees thereof in certain cases](7-105-landlord-failing-to-turn-over-deposits.md)
+- [§ 7-106 Money deposited or advanced for certain installations; waiver void](7-106-money-deposited-or-advanced-for-certain.md)
+- [§ 7-107 Liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units](7-107-liability-of-a-grantee-or-assignee.md)
+- [§ 7-108 Liability of a grantee or assignee for deposits made by tenants upon conveyance of non-rent stabilized dwelling units](7-108-liability-of-a-grantee-or-assignee.md)
+- [§ 7-109 Commencement of a proceeding or action by the attorney general to compel compliance](7-109-commencement-of-a-proceeding-or-action.md)
+
+<details>
+<summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+
+```text
+                                 TITLE 1
+    MONEY DEPOSITED AS SECURITY TO BE HELD IN TRUST IN CERTAIN CASES
+Section 7-101. Money deposited or advanced for use or rental of personal
+                 property; waiver void.
+        7-103. Money  deposited  or  advanced  for use or rental of real
+                 property; waiver void; administration expenses.
+        7-105. Landlord failing to turn over deposits made by tenants or
+                 licensees and to notify tenants or licensees thereof in
+                 certain cases.
+        7-106. Money deposited or advanced  for  certain  installations;
+                 waiver void.
+        7-107. Liability  of  a grantee or assignee for deposits made by
+                 tenants upon conveyance  of  rent  stabilized  dwelling
+                 units.
+        7-108. Liability  of  a grantee or assignee for deposits made by
+                 tenants upon conveyance of non-rent stabilized dwelling
+                 units.
+        7-109. Commencement of a proceeding or action  by  the  attorney
+                 general to compel compliance.
+```
+
+</details>

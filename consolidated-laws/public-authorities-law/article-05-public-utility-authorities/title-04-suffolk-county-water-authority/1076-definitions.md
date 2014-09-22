@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1076", "kind": "section", "law_id": "PBA", "location_id": "1076", "path": "ARTICLE 5 › TITLE 4 › SECTION 1076", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1076.md", "title": "Definitions"} -->
+# Public Authorities Law § 1076 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 4 — Suffolk County Water Authority](README.md)
+
+```text
+  § 1076. Definitions. As used or referred to in this title, unless a
+different meaning clearly appears from the context,
+  1. The term "authority" shall mean the corporation heretofore created
+pursuant to the provisions of chapter eight hundred forty-seven of the
+laws of nineteen hundred thirty-four and thereafter continued pursuant
+to the provisions of article seven of the county law, and whose
+existence is continued by section one thousand seventy-seven of this
+title;
+  2. The term "municipality" shall mean any county, city, town, village,
+town water district, fire district, fire protection district, fire alarm
+district, school district, and any other political subdivision of the
+state;
+  3. The term "bonds" shall mean the bonds issued by the authority,
+pursuant to this title.
+  4. The designation board of supervisors shall mean the legislative
+body of the county of Suffolk.
+```

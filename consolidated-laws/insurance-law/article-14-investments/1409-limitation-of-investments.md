@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 1409", "kind": "section", "law_id": "ISC", "location_id": "1409", "path": "ARTICLE 14 › SECTION 1409", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1409.md", "title": "Limitation of investments"} -->
+# Insurance Law § 1409 — Limitation of investments
+
+[Insurance Law](../README.md) › [Article 14 — Investments](README.md)
+
+```text
+  § 1409. Limitation of investments. (a) Except as more specifically
+provided in this chapter, no domestic insurer shall have more than ten
+percent of its admitted assets as shown by its last statement on file
+with the superintendent invested in, or loaned upon, the securities
+(including for this purpose certificates of deposit, partnership
+interests and other equity interests) of any one institution.
+  (b) The restriction of subsection (a) hereof shall not apply to the
+classes of governmental obligations (including obligations secured by
+mortgages upon real property guaranteed or insured under the National
+Housing Act, 12 U.S.C. §§ 1701-1750) eligible for minimum capital or
+surplus to policyholder investments pursuant to the provisions of
+section one thousand four hundred two of this article nor to investments
+in shares of other insurance companies pursuant to the provisions of
+section one thousand four hundred eight of this article.
+  (c) The limitations of investments set forth in this section shall not
+apply to mortgage-related securities or securities issued or guaranteed
+by the Federal Home Loan Mortgage Corporation or the Federal National
+Mortgage Association; provided, however, that for an insurer maintaining
+an aggregate investment in excess of seventy percent of its admitted
+assets as shown by its last statement on file with the superintendent in
+such securities, the balance of such investments greater than seventy
+percent thereon shall be limited by and apportioned according to a ratio
+of one to two respectively, between investment in such securities and
+investment in government obligations, as that term is defined in
+paragraph one of subsection (a) of section fourteen hundred four of this
+chapter.
+  (d) The superintendent shall not promulgate any rules or regulations
+to limit or otherwise alter the provisions of paragraph two of
+subsection (a) of section fourteen hundred one of this article or
+subsection (c) of this section. The superintendent shall not promulgate
+any rules or regulations that limit the authority of any insurer to
+invest in mortgage related securities.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 6002", "kind": "section", "law_id": "BNK", "location_id": "6002", "path": "ARTICLE 15 › TITLE 6 › SECTION 6002", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/6002.md", "title": "Meetings of stockholders"} -->
+# Banking Law § 6002 — Meetings of stockholders
+
+[Banking Law](../../README.md) › [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](../README.md) › [Title 6 — Stockholders](README.md)
+
+```text
+  § 6002. Meetings of stockholders. 1. Meetings of stockholders may be
+held at such place, within or without this state, as may be fixed by or
+under the by-laws, or if not so fixed, at the office of the corporation
+in this state except that the annual meetings of stockholders of banks
+and trust companies, stock-form savings banks, and stock-form savings
+and loan associations shall be held in the city or village in which the
+office of the bank or trust company, stock-form savings bank, or
+stock-form savings and loan association is located.
+  2. A meeting of stockholders shall be held annually for the election
+of directors and the transaction of other business within the first four
+months of each institution's fiscal year in the case of banks, trust
+companies, stock-form savings banks, stock-form savings and loan
+associations, and safe deposit companies and on a date fixed by or under
+the by-laws in the case of investment companies. A failure to hold the
+annual meeting on the date so fixed or to elect a sufficient number of
+directors to conduct the business of the corporation shall not work a
+forfeiture or give cause for dissolution of the corporation.
+  3. Special meetings of the stockholders may be called by the board and
+by such person or persons as may be so authorized by the organization
+certificate or the by-laws.
+```

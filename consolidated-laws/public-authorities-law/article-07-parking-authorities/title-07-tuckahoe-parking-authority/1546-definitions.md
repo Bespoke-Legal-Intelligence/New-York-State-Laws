@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1546", "kind": "section", "law_id": "PBA", "location_id": "1546", "path": "ARTICLE 7 › TITLE 7 › SECTION 1546", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1546.md", "title": "Definitions"} -->
+# Public Authorities Law § 1546 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 7 — Tuckahoe Parking Authority](README.md)
+
+```text
+  * § 1546. Definitions. As used or referred to in this title, unless a
+different meaning clearly appears from the context:
+  1. The term "authority" shall mean the corporation created by section
+fifteen hundred forty-seven of this title;
+  2. The term "village" shall mean the village of Tuckahoe;
+  3. The term "bonds" shall mean the bonds authorized in this title;
+  4. The term "board" shall mean the members of the authority;
+  5. The term "real property" shall mean lands, structures, franchises,
+and interest in lands, and any and all things usually included within
+the said term, and includes not only fees simple absolute but also any
+and all lesser interests, such as easements, rights of way, uses,
+leases, licenses, and all other incorporeal hereditaments and every
+estate, interest or right, legal or equitable, including terms of years,
+and liens thereon by way of judgments, mortgages or otherwise, and also
+claims for damage to real estate, in the area of the village;
+  6. The term "project" shall mean any area or place operated or to be
+operated by the authority for the parking or storing of motor and other
+vehicles and shall, without limiting the foregoing, include all real and
+personal property, driveways, roads, approaches, structures, terminals
+of all kinds, garages, meters, mechanical equipment, and all
+appurtenances and facilities either on, above or under the ground which
+are used or usable in connection with such parking or storing of such
+vehicles in the area of the village;
+  7. The term "projects" shall mean more than one project.
+  * NB Dissolved December 1977
+```

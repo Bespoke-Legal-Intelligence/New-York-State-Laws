@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 154", "kind": "section", "law_id": "STF", "location_id": "154", "path": "ARTICLE 10 › SECTION 154", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/154.md", "title": "Separate accounts for lands purchased or mortgaged"} -->
+# State Finance Law § 154 — Separate accounts for lands purchased or mortgaged
+
+[State Finance Law](../README.md) › [Article 10 — Mortgages](README.md)
+
+```text
+  § 154. Separate accounts for lands purchased or mortgaged. The
+comptroller on application to him for that purpose, shall open an
+account in his office against any person, for a part or subdivision of a
+lot of land purchased from or mortgaged to the state, for the
+proportionate part of the moneys on any such part or subdivision, and
+thereafter give credit on the several parts or subdivisions, as the
+persons making payments may require. He may credit any prior payment to
+a part or subdivision, if such payment appears by satisfactory proof to
+have been originally intended to be paid on such part or subdivision or
+by or for the use of the person claiming the credit, whether so
+expressed in the receipts or not. No part of any such payments shall be
+applied to the reduction of the principal unpaid on any such part or
+subdivision, unless the payments exceed the interest, calculated on the
+principal due on such part, or subdivision, to the day when such part or
+subdivision is to be paid off, or a new account opened therefor. If
+separate receipts be given by the treasurer, for any payments which are
+claimed to be credited to the account of any such part or subdivision,
+the receipts shall be delivered to the comptroller and filed in his
+office. Separate accounts shall not be opened under this section unless
+a map and survey of the whole lot is filed with the comptroller, showing
+particularly the part or subdivision for which such account is to be
+opened, and satisfactory proof furnished the comptroller that the
+residue of the lot is sufficient security for the sum remaining unpaid
+thereon.
+```

@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Education Law § 807-C", "kind": "section", "law_id": "EDN", "location_id": "807-C", "path": "TITLE 1 › ARTICLE 17 › SECTION 807-C", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/807-C.md", "title": "Transmission of fire alarm to fire department"} -->
+# Education Law § 807-C — Transmission of fire alarm to fire department
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 17 — Instruction In Certain Subjects](README.md)
+
+```text
+  § 807-c. Transmission of fire alarm to fire department.  1. The school
+authorities designated in subdivision nine of section eight hundred
+seven-a of this chapter in charge of the operation of any public school
+or of any private school designated in subdivision ten of such section,
+located in an area within which a fire department or fire company is
+responsible for fire protection and within which there is no
+electrically or electronically operated fire alarm reporting system
+provided for public use may cause the internal fire alarm, fire
+detection, or fire extinguishing system of each building in which is
+contained classroom, dormitory, laboratory, physical education, dining
+or recreational facilities for student use to be interconnected with the
+fire alarm reporting location or system which is provided for such fire
+department or fire company to receive alarms from the public so that
+upon activation of such internal fire alarm, fire detection, or fire
+extinguishing system a signal will be automatically transmitted to such
+fire alarm reporting location or system.
+  2. School authorities and the governing body having jurisdiction of
+any fire department or fire company are hereby authorized, by agreement
+between them, to apportion the costs of installing and maintaining any
+such interconnection, and such costs are hereby deemed appropriate
+expenditures from the funds of such school authorities and governing
+bodies.
+```

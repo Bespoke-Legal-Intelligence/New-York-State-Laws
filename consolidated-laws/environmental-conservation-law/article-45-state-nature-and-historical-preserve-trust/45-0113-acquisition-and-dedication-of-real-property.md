@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 45-0113", "kind": "section", "law_id": "ENV", "location_id": "45-0113", "path": "ARTICLE 45 › SECTION 45-0113", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/45-0113.md", "title": "Acquisition and dedication of real property"} -->
+# Environmental Conservation Law § 45-0113 — Acquisition and dedication of real property
+
+[Environmental Conservation Law](../README.md) › [Article 45 — State Nature and Historical Preserve Trust](README.md)
+
+```text
+§ 45-0113. Acquisition and dedication of real property.
+  1. For the purposes of this article, the department may, when
+authorized by an act of the legislature, and when funds are available
+therefor, acquire in the name of the people of the state of New York fee
+title or any lesser interest in real property by any method of
+acquisition, including, but not limited to, appropriation, condemnation,
+purchase, conditional or unconditional gift, bequest or devise, in
+accordance with any powers of the department to acquire real property.
+  2. Only real property owned by the state or real property acquired
+under this article or sections 51-0705, 52-0701 or 52-0901, or articles
+fifty-four and fifty-six of this chapter, or real property dedicated to
+the Albany Pine Bush preserve pursuant to article forty-six of this
+chapter may be dedicated for the purposes of this article. Such
+dedication may be effected only by law.
+```

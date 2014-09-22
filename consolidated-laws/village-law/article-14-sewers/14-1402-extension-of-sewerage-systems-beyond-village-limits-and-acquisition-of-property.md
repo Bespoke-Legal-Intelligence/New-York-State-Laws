@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Village Law § 14-1402", "kind": "section", "law_id": "VIL", "location_id": "14-1402", "path": "ARTICLE 14 › SECTION 14-1402", "repealed": false, "repealed_date": null, "source": "nys-laws:VIL/14-1402.md", "title": "Extension of sewerage systems beyond village limits and acquisition of property therefor"} -->
+# Village Law § 14-1402 — Extension of sewerage systems beyond village limits and acquisition of property therefor
+
+[Village Law](../README.md) › [Article 14 — Sewers](README.md)
+
+```text
+  § 14-1402 Extension of sewerage systems beyond village limits and
+acquisition of property therefor. The board of sewer commissioners of a
+village may construct or extend the sewerage system without the village
+limits and may construct a sewage disposal plant without such village
+and acquire land for such purposes. If such commissioners are unable to
+agree with the property owners for the purchase of real property
+necessary for the construction or extension of the sewerage system, they
+may acquire the same by condemnation proceedings, whether it be
+necessary to acquire the fee or an easement for a right of way therein,
+and whether the property and easements necessary to be so acquired are
+within or without the village limits. But no such sewerage system or
+sewage disposal plant shall be constructed or extended by a village
+without its limits into another town, village or a city without the
+consent of the board of trustees, town board, common council or other
+similar legislative body of such town, village or city.
+```

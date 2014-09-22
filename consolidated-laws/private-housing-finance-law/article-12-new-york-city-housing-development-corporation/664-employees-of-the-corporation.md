@@ -1,0 +1,54 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 664", "kind": "section", "law_id": "PVH", "location_id": "664", "path": "ARTICLE 12 › SECTION 664", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/664.md", "title": "Employees of the corporation"} -->
+# Private Housing Finance Law § 664 — Employees of the corporation
+
+[Private Housing Finance Law](../README.md) › [Article 12 — New York City Housing Development Corporation](README.md)
+
+```text
+  § 664. Employees of the corporation. 1. Notwithstanding any
+inconsistent provisions of this act, the appointment and promotion of
+all employees of and for the corporation shall be made in accordance
+with the provisions of the civil service law and the rules of the city
+civil service commission and the compensation for such employees shall
+be fixed by the corporation.
+  2. The city and the corporation shall have the power to provide for
+the transfer to the corporation of agents, employees and facilities of
+the city to enable the corporation to fulfill its corporate purposes.
+Employees of the city to be transferred to the corporation pursuant to
+this article shall be eligible for such use in offices and positions of
+the corporation without further examination, and all such employees who
+have been appointed to positions in city service in accordance with the
+provisions of the civil service law under the rules of the city civil
+service commission shall have the same status with respect thereto in
+the service of the corporation as they had in city service.  Employees
+who are members or beneficiaries of any existing pension or retirement
+system shall continue to have such rights, privileges, obligations or
+status with respect to such system or systems as are prescribed by law
+on the date this article takes effect, and all such employees who have
+been appointed to positions in city service in accordance with the
+provisions of the civil service law under the rules of the city civil
+service commission shall have the same status with respect thereto in
+the service of the corporation as they had in city service.
+  3. The predecessor corporation, as defined in subdivision one of
+section six hundred fifty-four-d of this article and the corporation
+shall have the power to provide for the transfer to the corporation of
+agents, employees and facilities of the predecessor corporation to
+enable the corporation to assist the subsidiary corporation in
+fulfilling its corporate purposes. Employees of the predecessor
+corporation to be transferred to the corporation pursuant to this
+article shall be eligible for such use in offices and positions of the
+corporation without further examination, and all such employees who have
+been appointed to positions in predecessor corporation service in
+accordance with the provisions of the civil service law under the rules
+of the city civil service commission shall have the same status with
+respect thereto in the service of the corporation as they had in
+predecessor corporation service. Employees who are members or
+beneficiaries of any existing pension or retirement system shall
+continue to have such rights, privileges, obligations or status with
+respect to such system or systems as are prescribed by law on the date
+this subdivision takes effect, and all such employees who have been
+appointed to positions in predecessor corporation service in accordance
+with the provisions of the civil service law under the rules of the city
+civil service commission shall have the same status with respect thereto
+in the service of the corporation as they had in predecessor corporation
+service.
+```

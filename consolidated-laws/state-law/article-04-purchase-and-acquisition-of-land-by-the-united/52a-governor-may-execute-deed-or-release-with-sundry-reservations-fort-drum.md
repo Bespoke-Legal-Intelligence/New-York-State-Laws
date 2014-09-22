@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "State Law § 52-A", "kind": "section", "law_id": "STL", "location_id": "52-A", "path": "ARTICLE 4 › SECTION 52-A", "repealed": false, "repealed_date": null, "source": "nys-laws:STL/52-A.md", "title": "Governor may execute deed or release with sundry reservations; Fort Drum"} -->
+# State Law § 52-A — Governor may execute deed or release with sundry reservations; Fort Drum
+
+[State Law](../README.md) › [Article 4 — Purchase and Acquisition of Land By the United States](README.md)
+
+```text
+  § 52-a. 1. Governor may execute deed or release with sundry
+reservations; Fort Drum. The governor is hereby authorized to cede to
+the United States full concurrent jurisdiction over the tracts of land
+comprising the Fort Drum military installation and any other lands that
+may be acquired by the United States for military purposes at or near
+Fort Drum upon conditions that the jurisdiction so ceded should not
+prevent the execution on such tracts of any process, civil or criminal,
+issued under the authority of this state, nor prevent from operating
+within the bounds of such tracts any of the laws or regulations of the
+state, not incompatible with the free use and enjoyment of the premises
+by the United States or the purposes for which such cession is made, nor
+prevent from operating within the same tracts or parcels of land the
+laws or ordinances of the counties of Jefferson, Lewis and St. Lawrence,
+or the towns thereof, not incompatible with the free use and enjoyment
+of the premises by the United States or the purposes for which such
+cession is made; and that the United States shall retain such
+jurisdiction so long only as such tracts or parcels of land shall be
+used for military purposes.
+  2. Sections fifty-two, fifty-three, fifty-five and fifty-six of this
+article shall not apply to the provisions of section fifty-two-a of this
+article.
+```

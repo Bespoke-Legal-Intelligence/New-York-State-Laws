@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Surrogate's Court Procedure Act § 1007", "kind": "section", "law_id": "SCP", "location_id": "1007", "path": "ARTICLE 10 › SECTION 1007", "repealed": false, "repealed_date": null, "source": "nys-laws:SCP/1007.md", "title": "Administration de bonis non 1"} -->
+# Surrogate's Court Procedure Act § 1007 — Administration de bonis non 1
+
+[Surrogate's Court Procedure Act](../README.md) › [Article 10 — Intestate Administration](README.md)
+
+```text
+§ 1007. Administration de bonis non
+  1.  When the office of administrator becomes vacant for any reason the
+court may grant letters of administration de bonis non to one or more
+eligible persons and the proceedings to procure such letters shall be
+the same as upon an application for original letters of administration.
+  2.  Where the estate has been partially administered by the former
+fiduciary the court may fix the penalty of the bond in a sum not less
+than the value of the assets of the estate remaining unadministered.
+  3.  The court may refuse to issue letters of administration de bonis
+non where distribution of the estate is possible pursuant to the
+provisions of 2207.
+```

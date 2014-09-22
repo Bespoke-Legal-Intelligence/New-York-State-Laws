@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Transportation Law § 68", "kind": "section", "law_id": "TRA", "location_id": "68", "path": "ARTICLE 2-D › SECTION 68", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/68.md", "title": "Disposal of records"} -->
+# Transportation Law § 68 — Disposal of records
+
+[Transportation Law](../README.md) › [Article 2-D — Utica Transit Authority](README.md)
+
+```text
+  § 68. Disposal of records. 1. Notwithstanding the provisions of any
+general, special or local law, the Utica transit authority or officer or
+employee thereof is hereby empowered to destroy, sell or otherwise
+dispose of any book, paper, map photograph, microphotograph or other
+record regardless of its physical form or characteristic, which has been
+made, acquired, or received or is now in its custody and which the Utica
+transit authority determines no longer has sufficient administrative,
+legal, fiscal, research or historical value to warrant its continued
+retention and preservation, provided the Utica transit authority
+authorizes such destruction, sale or other disposition.
+  2. The provisions of this section shall not apply to the following
+records of the Utica transit authority unless copies for retention are
+reproduced as provided in section sixty-nine of this article:
+  (a) The official copy of the minutes of the Utica transit authority
+including appendices and attachments thereto.
+  (b) The official copy of any annual report of the Utica transit
+authority to the commissioner.
+  (c) Records which have not been retained for such period of time as
+may be required:
+  (1) by the federal government or any of its agencies;
+  (2) by rules and regulations of the state comptroller;
+  (3) by rules and regulations of the commissioner.
+```

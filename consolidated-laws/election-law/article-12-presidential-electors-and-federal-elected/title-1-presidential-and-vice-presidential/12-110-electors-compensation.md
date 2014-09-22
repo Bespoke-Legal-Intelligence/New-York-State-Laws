@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Election Law § 12-110", "kind": "section", "law_id": "ELN", "location_id": "12-110", "path": "ARTICLE 12 › TITLE 1 › SECTION 12-110", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/12-110.md", "title": "Electors; compensation"} -->
+# Election Law § 12-110 — Electors; compensation
+
+[Election Law](../../README.md) › [Article 12 — Presidential Electors and Federal Elected Officers](../README.md) › [Title 1 — Presidential and Vice Presidential Electors](README.md)
+
+```text
+  § 12-110. Electors; compensation. Every elector of the state who shall
+attend at any meeting of the electoral college and give his vote at the
+time and place appointed by law, shall be entitled to receive for his
+attendance at such election, the sum of fifteen dollars per day,
+together with thirteen cents per mile each way from his place of
+residence by the most usual traveled route, to the place of meeting of
+such electors, to be audited by the comptroller upon the certificate of
+the secretary of state.
+```

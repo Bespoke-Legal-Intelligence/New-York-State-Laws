@@ -1,0 +1,180 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 615", "kind": "section", "law_id": "TAX", "location_id": "615", "path": "ARTICLE 22 › PART 2 › SECTION 615", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/615.md", "title": "New York itemized deduction of a resident individual"} -->
+# Tax Law § 615 — New York itemized deduction of a resident individual
+
+[Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
+
+```text
+  § 615. New York itemized deduction of a resident individual.  (a)
+General. If federal taxable income of a resident individual is
+determined by itemizing deductions from his federal adjusted gross
+income, he may elect to deduct his New York itemized deduction in lieu
+of his New York standard deduction. The New York itemized deduction of a
+resident individual means the total amount of his deductions from
+federal adjusted gross income, other than federal deductions for
+personal exemptions, as provided in the laws of the United States for
+the taxable year, with the modifications specified in this section,
+except as provided for under subsections (f) and (g) of this section.
+  (b) Husband and wife.
+  (1) A husband and wife, both of whom are required to file returns
+under this article, shall be allowed New York itemized deductions only
+if both elect to take New York itemized deductions.
+  (2) The total of the New York itemized deductions of a husband and
+wife whose federal taxable income is determined on a joint return, but
+whose New York taxable incomes are required to be determined separately,
+shall be divided between them as if their federal taxable incomes had
+been determined separately.
+  (c) Modifications reducing federal itemized deductions. The total
+amount of deductions from federal adjusted gross income shall be reduced
+by the amount of such federal deductions for:
+  (1) state and local general sales taxes as defined in subsection (b)
+of section one hundred sixty-four of the internal revenue code, to the
+extent included in federal itemized deductions or income taxes imposed
+by this state or any other taxing jurisdiction, except city earnings
+taxes on nonresidents that are imposed upon and paid by taxpayers for
+taxable years beginning after December thirty-first, nineteen hundred
+seventy and before January first, two thousand, pursuant to the
+authority of former section twenty-five-m of the general city law, to
+the extent that the amount of such tax exceeds the tax computed as if
+the rates were one-fourth of one percent of wages subject to tax and
+three-eighths of one percent of net earnings from self-employment
+subject to tax;
+  (2) interest on indebtedness incurred or continued to purchase or
+carry obligations or securities the interest on which is exempt from tax
+under this article; and
+  (3) ordinary and necessary expenses paid or incurred during the
+taxable year for (i) the production or collection of income which is
+exempt from tax under this article, or (ii) the management, conservation
+or maintenance of property held for the production of such income, and
+the amortizable bond premium for the taxable year on any bond the
+interest on which is exempt from tax under this article, to the extent
+that such expenses and premiums are deductible in determining federal
+taxable income.
+  (4) premiums paid for long-term care insurance to the extent that such
+premiums are deductible in determining federal taxable income.
+  * (5) real property taxes imposed by this state or any other taxing
+jurisdiction on renters pursuant to section nine hundred twenty-six-a of
+the real property tax law.
+  * NB (Effective pending ruling by Commissioner of Internal Revenue)
+  (6) in the case of a shareholder of an S corporation
+  (A) where the election provided for in subsection (a) of section six
+hundred sixty has not been made, S corporation items of deduction
+included in federal itemized deductions, and
+  (B) in the case of a New York S termination year, the portion of such
+items assigned to the period beginning on the day the election ceases to
+be effective, as determined under subsection (s) of section six hundred
+twelve.
+  (8) The amount of any federal deduction for taxes imposed under
+article twenty-three of this chapter.
+  (d) Modifications increasing federal itemized deductions. The total
+amount of deductions from federal adjusted gross income shall be
+increased by:
+  (1) an amount, not exceeding one hundred and fifty dollars in the
+aggregate, for net premiums paid or incurred by a taxpayer during the
+taxable year with respect to any life insurance or endowment policy upon
+his life; provided, however, for taxable years beginning on or after
+January first, nineteen hundred seventy-one, such amount shall not
+exceed one hundred dollars in the aggregate; and for taxable years
+beginning on or after January first, nineteen hundred seventy-two, such
+amount shall not exceed fifty dollars in the aggregate; and for taxable
+years beginning on or after January first, nineteen hundred
+seventy-three, no such increase in the amount of deductions from federal
+adjusted gross income shall be allowed;
+  (2) interest on indebtedness incurred or continued to purchase or
+carry obligations or securities the interest on which is subject to tax
+under this article but exempt from federal income tax, to the extent
+that such interest on indebtedness is not deductible for federal income
+tax purposes and is not subtracted from federal adjusted gross income
+pursuant to paragraph (9) of subsection (c) of section six hundred
+twelve; and
+  (3) ordinary and necessary expenses paid or incurred during the
+taxable year for (i) the production or collection of income which is
+subject to tax under this article but exempt from federal income tax, or
+(ii) the management, conservation or maintenance of property held for
+the production of such income, and the amortizable bond premium for the
+taxable year on any bond the interest on which is subject to tax under
+this article but exempt from federal income tax, to the extent that such
+expenses and premiums are not deductible in determining federal adjusted
+gross income and are not subtracted from federal adjusted gross income
+pursuant to paragraph (10) of subsection (c) of section six hundred
+twelve.
+  (4) allowable college tuition expenses, as defined in paragraph two of
+subsection (t) of section six hundred six of this article, multiplied by
+the applicable percentage. Such applicable percentage shall be
+twenty-five percent for taxable years beginning in two thousand one,
+fifty percent for taxable years beginning in two thousand two,
+seventy-five percent for taxable years beginning in two thousand three
+and one hundred percent for taxable years beginning after two thousand
+three. Provided, however, no deduction shall be allowed under this
+paragraph to a taxpayer who claims the credit provided under subsection
+(t) of section six hundred six of this article.
+  (e) Modifications of partners and shareholders of S corporations. (1)
+Partners and shareholders of S corporations which are not New York C
+corporations. The amounts of modifications under subsection (c) or under
+paragraph (2) or (3) of subsection (d) required to be made by a partner
+or by a shareholder of an S corporation (other than an S corporation
+which is a New York C corporation), with respect to items of deduction
+of a partnership or S corporation shall be determined under section six
+hundred seventeen.
+  (2) Shareholders of S corporations which are New York C corporations.
+In the case of a shareholder of an S corporation which is a New York C
+corporation, the modifications under this section which relate to the
+corporation's items of deduction shall not apply, except for the
+modification provided under paragraph six of subsection (c).
+  (3) New York S termination year. In the case of a New York S
+termination year, the amounts of the modifications required under this
+section which relate to the S corporation's items of deduction shall be
+adjusted in the same manner that the S corporation's items are adjusted
+under subsection (s) of section six hundred twelve.
+  (f) Except as provided under subsection (g) of this section, the New
+York itemized deduction otherwise allowable under this section shall be
+reduced by the sum of the amounts determined under paragraphs one and
+two of this subsection.
+  (1) An amount equal to the New York itemized deduction otherwise
+allowable under subsection (a) of this section, multiplied by a
+percentage, such percentage to be determined by multiplying, for taxable
+years beginning in nineteen hundred eighty-eight, ten percent, and for
+taxable years beginning after nineteen hundred eighty-eight, twenty-five
+percent, by a fraction,
+  (A) in the case of an unmarried individual or married individual
+filing a separate return, the numerator of which is the lesser of fifty
+thousand dollars or the excess of such individual's New York adjusted
+gross income over one hundred thousand dollars and the denominator of
+which is fifty thousand dollars;
+  (B) in the case of a married individual filing a joint return or a
+surviving spouse, the numerator of which is the lesser of fifty thousand
+dollars or the excess of such individual's New York adjusted gross
+income over two hundred thousand dollars and the denominator of which is
+fifty thousand dollars;
+  (C) in the case of a head of household, the numerator of which is the
+lesser of fifty thousand dollars or the excess of such individual's New
+York adjusted gross income over one hundred fifty thousand dollars and
+the denominator of which is fifty thousand dollars.
+  (2) An amount equal to the New York itemized deduction of an
+individual otherwise allowable under subsection (a) of this section,
+multiplied by a percentage, such percentage to be determined by
+multiplying, for taxable years beginning in nineteen hundred
+eighty-eight, ten percent, and for taxable years beginning after
+nineteen hundred eighty-eight, twenty-five percent, by a fraction, the
+numerator of which is the lesser of fifty thousand dollars or the excess
+of such individual's New York adjusted gross income over four hundred
+seventy-five thousand dollars and the denominator of which is fifty
+thousand dollars.
+  (g)(1) With respect to an individual whose New York adjusted gross
+income is over one million dollars and no more than ten million dollars,
+the New York itemized deduction shall be an amount equal to fifty
+percent of any charitable contribution deduction allowed under section
+one hundred seventy of the internal revenue code for taxable years
+beginning after two thousand nine and before two thousand sixteen. With
+respect to an individual whose New York adjusted gross income is over
+one million dollars, the New York itemized deduction shall be an amount
+equal to fifty percent of any charitable contribution deduction allowed
+under section one hundred seventy of the internal revenue code for
+taxable years beginning in two thousand nine or after two thousand
+fifteen.
+  (2) With respect to an individual whose New York adjusted gross income
+is over ten million dollars, the New York itemized deduction shall be an
+amount equal to twenty-five percent of any charitable contribution
+deduction allowed under section one hundred seventy of the internal
+revenue code for taxable years beginning after two thousand nine and
+ending before two thousand sixteen.
+```

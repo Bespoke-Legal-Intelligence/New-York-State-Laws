@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 813", "kind": "section", "law_id": "JUD", "location_id": "813", "path": "ARTICLE 21 › SECTION 813", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/813.md", "title": "Court law libraries"} -->
+# Judiciary Law § 813 — Court law libraries
+
+[Judiciary Law](../README.md) › [Article 21 — Court Libraries](README.md)
+
+```text
+  § 813. Court law libraries. Each county of the state shall have a
+court law library which shall be governed as provided by section eight
+hundred fourteen of this article. Such libraries shall be open to the
+public, however, the chief administrator of the courts may issue
+guidelines for the use and operation of such libraries. All supreme
+court and county court libraries established as of the effective date of
+this section are continued as court law libraries, including the
+following as they have been named:
+  JOSEPH F. BARNARD MEMORIAL LIBRARY AT POUGHKEEPSIE;
+  DAVID L. FOLLETT MEMORIAL LIBRARY AT NORWICH;
+  HAMILTON ODELL LIBRARY AT MONTICELLO;
+  EMORY A. CHASE MEMORIAL LIBRARY AT CATSKILL;
+  FRANCIS BERGAN LAW LIBRARY AT ALBANY;
+  LOUIS H. FOLMER LAW LIBRARY AT CORTLAND;
+  JOSEPH F. EGAN MEMORIAL SUPREME COURT LAW LIBRARY AT SCHENECTADY;
+  ERNEST N. WARREN LAW LIBRARY AT ITHACA;
+  F. WALTER BLISS SUPREME COURT LIBRARY AT SCHOHARIE;
+  JOSEPH P. MOLINARI SUPREME COURT LIBRARY AT COOPERSTOWN;
+  COURT OF APPEALS LIBRARY AT SYRACUSE;
+  CHARLES B. SWARTWOOD LAW LIBRARY AT ELMIRA and
+  F. WARREN TRAVERS SUPREME COURT LIBRARY AT TROY.
+```

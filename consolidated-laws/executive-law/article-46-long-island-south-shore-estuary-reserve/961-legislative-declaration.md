@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 961", "kind": "section", "law_id": "EXC", "location_id": "961", "path": "ARTICLE 46 › SECTION 961", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/961.md", "title": "Legislative declaration"} -->
+# Executive Law § 961 — Legislative declaration
+
+[Executive Law](../README.md) › [Article 46 — Long Island South Shore Estuary Reserve](README.md)
+
+```text
+  § 961. Legislative declaration. The legislature hereby declares it to
+be in the public interest to protect and manage the South Shore Estuary
+System as a single integrated estuary. It is further in the public
+interest to establish a council made up of representatives of state and
+local governments and private citizens to create a South Shore Estuary
+Reserve, prepare a comprehensive management plan and make
+recommendations to preserve, protect and enhance the natural,
+recreational, economic and educational resources of the reserve, which
+the state and local governments may incorporate into policy, laws or
+regulations.
+```

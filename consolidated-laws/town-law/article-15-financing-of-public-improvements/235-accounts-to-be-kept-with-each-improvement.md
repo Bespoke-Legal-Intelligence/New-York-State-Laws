@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "Town Law § 235", "kind": "section", "law_id": "TWN", "location_id": "235", "path": "ARTICLE 15 › SECTION 235", "repealed": false, "repealed_date": null, "source": "nys-laws:TWN/235.md", "title": "Accounts to be kept with each improvement"} -->
+# Town Law § 235 — Accounts to be kept with each improvement
+
+[Town Law](../README.md) › [Article 15 — Financing of Public Improvements](README.md)
+
+```text
+  § 235. Accounts to be kept with each improvement. The supervisor shall
+keep accounts in the name of each improvement in such form as has been
+or may be formulated and prescribed by the state department of audit and
+control. He shall carefully preserve all coupons, certificates, bonds
+and notes which he shall pay, and present the same, with a transcript of
+the account, to the town board from time to time, as it may require, and
+at least once in each year shall make and file a complete statement and
+shall account with such board on account of every improvement.
+```

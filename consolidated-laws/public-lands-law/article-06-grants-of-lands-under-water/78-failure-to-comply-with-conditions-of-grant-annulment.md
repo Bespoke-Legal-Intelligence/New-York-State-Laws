@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Public Lands Law § 78", "kind": "section", "law_id": "PBL", "location_id": "78", "path": "ARTICLE 6 › SECTION 78", "repealed": false, "repealed_date": null, "source": "nys-laws:PBL/78.md", "title": "Failure to comply with conditions of grant; annulment"} -->
+# Public Lands Law § 78 — Failure to comply with conditions of grant; annulment
+
+[Public Lands Law](../README.md) › [Article 6 — Grants of Lands Under Water](README.md)
+
+```text
+  § 78. Failure to comply with conditions of grant; annulment.  On or
+before the tenth day of January in each year the commissioner of general
+services shall examine the records of all grants of land under water for
+which patents shall have been issued containing conditions to be
+complied with within fixed period of time after the issue of such
+patents and make a list of all such grants containing such conditions of
+which the periods for performance have expired. It shall thereupon be
+the duty of the commissioner of general services to cause an
+investigation to be made without delay for the purpose of ascertaining
+whether or not compliance with the conditions contained in such grants
+shall have been had, and he shall report thereon to the
+attorney-general. It shall be the duty of the attorney-general to begin
+actions against all such patentees or their successors in interest or
+assigns for the annulment of all patents the conditions of which shall
+be found not to have been complied with within the period fixed in such
+grants for compliance.
+```

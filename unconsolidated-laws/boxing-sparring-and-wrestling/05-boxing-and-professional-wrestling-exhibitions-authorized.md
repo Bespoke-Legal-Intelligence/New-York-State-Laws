@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Boxing, Sparring and Wrestling § 5", "kind": "section", "law_id": "BSW", "location_id": "5", "path": "SECTION 5", "repealed": false, "repealed_date": null, "source": "nys-laws:BSW/5.md", "title": "Boxing and professional wrestling exhibitions authorized"} -->
+# Boxing, Sparring and Wrestling § 5 — Boxing and professional wrestling exhibitions authorized
+
+[Boxing, Sparring and Wrestling](README.md)
+
+```text
+  § 5. Boxing and professional wrestling exhibitions authorized. No
+boxing, sparring or professional wrestling matches or exhibitions shall
+be conducted, held or given within the state except in accordance with
+the provisions of this act. The commission shall direct a deputy to be
+present at each place where boxing or sparring matches or exhibitions
+are to be held pursuant to the provisions of this act. Such deputy shall
+ascertain the exact conditions surrounding such match or exhibition and
+make a written report of the same in the manner and form prescribed by
+the commission. Such boxing or sparring matches or exhibitions may be
+held in any building for which the commission in its discretion may
+issue a license. Where such match or exhibition is authorized to be held
+in a state or city owned armory, the provision of the military law in
+respect thereto must be complied with, but no such match or exhibition
+shall be held in a building wholly used for religious services.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 404", "kind": "section", "law_id": "CVP", "location_id": "404", "path": "ARTICLE 4 › SECTION 404", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/404.md", "title": "Objections in point of law"} -->
+# Civil Practice Law and Rules § 404 — Objections in point of law
+
+[Civil Practice Law and Rules](../README.md) › [Article 4 — Special Proceedings](README.md)
+
+```text
+  § 404. Objections in point of law. (a) By respondent. The respondent
+may raise an objection in point of law by setting it forth in his answer
+or by a motion to dismiss the petition, made upon notice within the time
+allowed for answer. If the motion is denied, the court may permit the
+respondent to answer, upon such terms as may be just; and unless the
+order specifies otherwise, such answer shall be served and filed within
+five days after service of the order with notice of entry; and the
+petitioner may re-notice the matter for hearing upon two days' notice,
+or the respondent may re-notice the matter for hearing upon service of
+the answer upon seven days' notice.
+  (b) By petitioner. The petitioner may raise an objection in point of
+law to new matter contained in the answer by setting it forth in his
+reply or by moving to strike such matter on the day the petition is
+noticed or re-noticed to be heard.
+```

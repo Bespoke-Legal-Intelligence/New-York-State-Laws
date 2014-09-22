@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 324", "kind": "section", "law_id": "AGM", "location_id": "324", "path": "ARTICLE 25-AAA › SECTION 324", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/324.md", "title": "County agricultural and farmland protection plans"} -->
+# Agriculture and Markets Law § 324 — County agricultural and farmland protection plans
+
+[Agriculture and Markets Law](../README.md) › [Article 25-AAA — Agricultural and Farmland Protection Programs](README.md)
+
+```text
+  § 324. County agricultural and farmland protection plans.  1. County
+agricultural and farmland protection boards may develop plans, in
+cooperation with the local soil and water conservation district and soil
+conservation service, which shall include, but not be limited to:
+  (a) the location of any land or areas proposed to be protected;
+  (b) an analysis of the following factors concerning any areas and
+lands proposed to be protected:
+  (i) value to the agricultural economy of the county;
+  (ii) open space value;
+  (iii) consequences of possible conversion; and
+  (iv) level of conversion pressure on the lands or areas proposed to be
+protected; and
+  (c) a description of the activities, programs and strategies intended
+to be used by the county to promote continued agricultural use.
+  2. The county agricultural and farmland protection board shall conduct
+at least one public hearing for public input regarding such agricultural
+and farmland protection plan, and shall thereafter submit such plan to
+the county legislative body for its approval.
+  3. The county agricultural protection plan must be submitted by the
+county to the commissioner for approval.
+```

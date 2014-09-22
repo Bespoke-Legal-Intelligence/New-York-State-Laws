@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1439-I*3", "kind": "section", "law_id": "TAX", "location_id": "1439-I*3", "path": "ARTICLE 31-A-2*3 › SECTION 1439-I*3", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1439-I_3.md", "title": "Liability of recording officer"} -->
+# Tax Law § 1439-I*3 — Liability of recording officer
+
+[Tax Law](../README.md) › [Article 31-A-2*3 — Tax On Real Estate Transfers In the Town of Fishkill](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1439-i. Liability of recording officer. A recording officer shall
+not be liable for any inaccuracy in the amount of tax imposed pursuant
+to this article that he or she shall collect so long as he or she shall
+compute and collect such tax on the amount of consideration or the value
+of the interest conveyed as such amounts are provided to him or her by
+the person paying the tax.
+  * NB Repealed December 31, 2027
+  * NB There are 3 § 1439-i's
+```

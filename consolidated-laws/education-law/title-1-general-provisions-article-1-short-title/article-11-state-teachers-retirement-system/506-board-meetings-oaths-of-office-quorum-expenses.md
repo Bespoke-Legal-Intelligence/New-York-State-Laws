@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Education Law § 506", "kind": "section", "law_id": "EDN", "location_id": "506", "path": "TITLE 1 › ARTICLE 11 › SECTION 506", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/506.md", "title": "Board meetings; oaths of office; quorum; expenses"} -->
+# Education Law § 506 — Board meetings; oaths of office; quorum; expenses
+
+[Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 11 — State Teachers' Retirement System For Public School Teachers](README.md)
+
+```text
+  § 506. Board meetings; oaths of office; quorum; expenses. 1. The
+retirement board shall meet annually at Albany on a business day in the
+month of January to be fixed by the board and shall have stated meetings
+at the same place at least once in each three months as determined by
+the regulations of the board.
+  2. Each member of the retirement board shall, within ten days after
+his appointment or election, take the constitutional oath of office and
+cause the same to be filed in the office of the department of state.
+  3. A majority of the members of the retirement board shall constitute
+a quorum for the transaction of any business.
+  4. The members of the retirement board shall serve without
+compensation, but they shall be reimbursed from the expense fund for all
+actual necessary expenses and for any loss of salary or wages they may
+suffer through serving on the retirement board.
+  5. Notwithstanding any other provision of law, the affirmative vote of
+a majority of the board and the concurrence of one member of the board
+elected from among the active members of the retirement system shall be
+required to adopt, amend or repeal any rule or regulation relating to
+member benefits.
+  6. Notwithstanding any other provision of law to the contrary, a
+member of the retirement board who is elected from among the members of
+the retirement system shall, upon his request, be granted a leave of
+absence without pay by his employer for the period of time he serves as
+a member of the retirement board. During the period of said leave of
+absence, such member of the retirement board shall receive full credit
+in the retirement system for the period of such leave of absence. The
+provisions of this subdivision shall not be construed as prohibiting an
+employer at its discretion from granting a leave of absence with pay.
+The retirement board is authorized to adopt such rules and regulations
+as it finds necessary in administering the provisions of this
+subdivision.
+```

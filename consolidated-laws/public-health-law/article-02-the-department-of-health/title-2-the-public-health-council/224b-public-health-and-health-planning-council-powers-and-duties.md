@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 224-B", "kind": "section", "law_id": "PBH", "location_id": "224-B", "path": "ARTICLE 2 › TITLE 2 › SECTION 224-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/224-B.md", "title": "Public health and health planning council; powers and duties; health care facilities, home care agencies and hospices"} -->
+# Public Health Law § 224-B — Public health and health planning council; powers and duties; health care facilities, home care agencies and hospices
+
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 2 — The Public Health Council](README.md)
+
+```text
+  § 224-b. Public health and health planning council; powers and duties;
+health care facilities, home care agencies and hospices. The public
+health and health planning council shall have such powers and duties as
+are set forth in this chapter, including the consideration of
+applications for the establishment and construction of health care
+facilities, home care agencies and hospices licensed under articles
+twenty-eight, thirty-six or forty of this chapter. In carrying out its
+powers and duties, the council shall take into account the impact of its
+actions and recommendations on the quality, accessibility, efficiency
+and cost-effectiveness of health care throughout the state. The council
+shall undertake a comprehensive review of regulations and council
+procedures governing the establishment and construction of such health
+care facilities, home care agencies and hospices and shall submit to the
+commissioner any recommendations for the revisions of such regulations.
+Such review shall be conducted every five years, and the first set of
+recommendations shall be submitted to the commissioner on or before
+December first, two thousand sixteen.
+```

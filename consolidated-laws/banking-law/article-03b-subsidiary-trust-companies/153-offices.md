@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 153", "kind": "section", "law_id": "BNK", "location_id": "153", "path": "ARTICLE 3-B › SECTION 153", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/153.md", "title": "Offices"} -->
+# Banking Law § 153 — Offices
+
+[Banking Law](../README.md) › [Article 3-B — Subsidiary Trust Companies](README.md)
+
+```text
+  § 153. Offices. Notwithstanding the provisions of sections twenty-nine
+and one hundred five of this chapter, (a) a subsidiary trust company may
+open and occupy a trust office, including its principal office, at any
+one or more locations in the state of New York at which the owning bank
+holding company, any affiliated bank, or any affiliated trust company
+has a banking office, and (b) an affiliated trust company may open and
+occupy a trust office at the location in the state at which such
+subsidiary trust company has its principal office. A subsidiary trust
+company or an affiliated trust company, as the case may be, which
+proposes to open and occupy a trust office pursuant to this section
+shall make written application to the superintendent for leave to do so
+in the manner provided in section twenty-nine of this chapter with
+respect to branch offices and shall pay the investigation fee specified
+therein.
+```

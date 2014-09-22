@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 625", "kind": "section", "law_id": "FCT", "location_id": "625", "path": "ARTICLE 6 › PART 1 › SECTION 625", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/625.md", "title": "Sequence of hearings"} -->
+# Family Court Act § 625 — Sequence of hearings
+
+[Family Court Act](../../README.md) › [Article 6 — Permanent Termination of Parental Rights, Adoption, Guardianship and Custody](../README.md) › [Part 1 — Permanent Termination of Parental Custody By Reason of Permanent Neglect](README.md)
+
+```text
+  § 625. Sequence of hearings. (a) Upon completion of the fact-finding
+hearing, the dispositional hearing may commence immediately after the
+required findings are made; provided, however, that if all parties
+consent the court may, upon motion of any party or upon its own motion,
+dispense with the dispositional hearing and make an order of disposition
+on the basis of competent evidence admitted at the fact-finding hearing.
+Where the disposition ordered is the commitment of guardianship and
+custody in accordance with section six hundred thirty-four of this part,
+an initial freed child permanency hearing and all subsequent permanency
+hearings shall be held in accordance with article ten-A of this act.
+  (b) Reports prepared by the probation service or a duly authorized
+agency for use by the court prior to the making of an order of
+disposition shall be deemed confidential information furnished to the
+court which the court in a proper case may, in its discretion, withhold
+from or disclose in whole or in part to the child's attorney, counsel,
+party in interest, or other appropriate person. Such reports may not be
+furnished to the court prior to the completion of a fact-finding
+hearing, but may be used in a dispositional hearing or in the making of
+an order of disposition without a dispositional hearing pursuant to
+subdivision (a) of this section.
+```

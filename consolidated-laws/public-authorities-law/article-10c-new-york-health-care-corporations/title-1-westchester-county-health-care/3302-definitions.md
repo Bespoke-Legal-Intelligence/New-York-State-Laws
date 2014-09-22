@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3302", "kind": "section", "law_id": "PBA", "location_id": "3302", "path": "ARTICLE 10-C › TITLE 1 › SECTION 3302", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3302.md", "title": "Definitions"} -->
+# Public Authorities Law § 3302 — Definitions
+
+[Public Authorities Law](../../README.md) › [Article 10-C — New York Health Care Corporations](../README.md) › [Title 1 — Westchester County Health Care Corporation](README.md)
+
+```text
+  § 3302. Definitions. As used or referred to in this title, unless a
+different meaning clearly appears from the context:
+  1. "Board" shall mean the board of directors of the corporation as
+established by section thirty-three hundred three of this title.
+  2. "Bonds" shall mean the bonds, notes or other evidences of
+indebtedness issued by the corporation pursuant to this title and the
+provisions of this title relating to bonds and bondholders shall apply
+with equal force and effect to notes and noteholders, respectively,
+unless the context otherwise clearly requires.
+  3. "Corporation" shall mean the public benefit corporation created by
+section thirty-three hundred three of this title, known as the
+Westchester county health care corporation.
+  4. "County" shall mean the county of Westchester.
+  5. "Department" shall mean the department of hospitals of the county.
+  6. "Health facility" shall mean a building, structure or unit or any
+improvement to real property, including all necessary and usual
+attendant and related equipment, facilities or fixtures, or any part or
+parts thereof, or any combination or combinations thereof, including,
+but not limited to, a general hospital, psychiatric hospital, ambulatory
+clinic or center, chronic disease hospital, nursing home, extended-care
+facility, dispensary or laboratory or any other related facility, or any
+combination of the foregoing, constructed, acquired or otherwise
+provided by or for the use of the corporation or the county in providing
+health and medical services to the public.
+  7. "Director" shall mean a voting director appointed to the
+corporation pursuant to section thirty-three hundred three of this
+title.
+```

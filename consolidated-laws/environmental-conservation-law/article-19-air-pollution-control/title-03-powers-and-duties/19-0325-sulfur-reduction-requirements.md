@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 19-0325", "kind": "section", "law_id": "ENV", "location_id": "19-0325", "path": "ARTICLE 19 › TITLE 3 › SECTION 19-0325", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/19-0325.md", "title": "Sulfur reduction requirements"} -->
+# Environmental Conservation Law § 19-0325 — Sulfur reduction requirements
+
+[Environmental Conservation Law](../../README.md) › [Article 19 — Air Pollution Control](../README.md) › [Title 3 — Powers and Duties](README.md)
+
+```text
+§ 19-0325. Sulfur reduction requirements.
+  (1) On or after July first, two thousand twelve, all number two
+heating oil sold for use in residential, commercial, or industrial
+heating within the state shall not have a sulfur content greater than
+fifteen parts per million.
+  (2) The governor may, by issuing an executive order, temporarily
+suspend the applicability of this section at any time based on the
+governor's determination, after consulting with the New York energy
+research and development authority, that meeting the requirement of
+subdivision one of this section is not feasible due to lack of adequate
+supply of the required fuel.
+```

@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 7021", "kind": "section", "law_id": "BNK", "location_id": "7021", "path": "ARTICLE 15 › TITLE 7 › SECTION 7021", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/7021.md", "title": "Indemnification of directors and officers by a court"} -->
+# Banking Law § 7021 — Indemnification of directors and officers by a court
+
+[Banking Law](../../README.md) › [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](../README.md) › [Title 7 — Directors and Officers](README.md)
+
+```text
+  § 7021. Indemnification of directors and officers by a court. 1.
+Notwithstanding the failure of a corporation to provide indemnification,
+and despite any contrary resolution of the board of directors or of the
+stockholders in the specific case under section seven thousand twenty,
+indemnification shall be awarded by a court to the extent authorized
+under section seven thousand nineteen and subdivision one of section
+seven thousand twenty.  Application therefor may be made, in every case,
+either:
+  (a) In the civil action or proceeding in which the expenses were
+incurred or other amounts were paid, or
+  (b) To the supreme court in a separate proceeding, in which case the
+application shall set forth the disposition of any previous application
+made to any court for the same or similar relief and also reasonable
+cause for the failure to make application for such relief in the action
+or proceeding in which the expenses were incurred or other amounts were
+paid.
+  2. The application shall be made in such manner and form as may be
+required by the applicable rules of court or, in the absence thereof, by
+direction of a court to which it is made. Such application shall be upon
+notice to the corporation. The court may also direct that notice be
+given at the expense of the corporation to the stockholders and such
+other persons as it may designate in such manner as it may require.
+  3. Where indemnification is sought by judicial action, the court may
+allow a person such reasonable expenses, including attorneys' fees,
+during the pendency of the litigation as are necessary in connection
+with his defense therein, if the court shall find that the defendant has
+by his pleadings or during the course of the litigation raised genuine
+issues of fact or law.
+```

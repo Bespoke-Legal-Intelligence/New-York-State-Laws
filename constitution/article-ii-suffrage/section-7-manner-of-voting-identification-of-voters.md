@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "New York State Constitution, Article Ii, § 7", "kind": "section", "law_id": "CNS", "location_id": "A2S7", "path": "ARTICLE II › SECTION 7", "repealed": false, "repealed_date": null, "source": "nys-laws:CNS/A2S7.md", "title": "Manner of voting; identification of voters"} -->
+# New York State Constitution, Article Ii, § 7 — Manner of voting; identification of voters
+
+[New York State Constitution](../README.md) › [Article II — Suffrage](README.md)
+
+```text
+  § 7. All elections by the citizens, except for such town officers as
+may by law be directed to be otherwise chosen, shall be by ballot, or by
+such other method as may be prescribed by law, provided that secrecy in
+voting be preserved. The legislature shall provide for identification of
+voters through their signatures in all cases where personal registration
+is required and shall also provide for the signatures, at the time of
+voting, of all persons voting in person by ballot or voting machine,
+whether or not they have registered in person, save only in cases of
+illiteracy or physical disability.
+```

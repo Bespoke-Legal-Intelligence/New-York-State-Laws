@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 235", "kind": "section", "law_id": "PML", "location_id": "235", "path": "ARTICLE 2 › SECTION 235", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/235.md", "title": "Rules for the conduct of pari-mutuel betting"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 235 — Rules for the conduct of pari-mutuel betting
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
+
+```text
+  § 235. Rules for the conduct of pari-mutuel betting. 1. The state
+racing and wagering board shall make rules regulating the conduct of
+pari-mutuel betting, as authorized pursuant to this chapter.
+  2. The rules shall provide that all winning pari-mutuel tickets must
+be presented for payment before April first of the year following the
+year of their purchase and failure to present any such ticket within the
+prescribed period of time shall constitute a waiver of the right to
+participate in the award or dividend.
+  3. The department of taxation and finance is hereby charged with the
+financial administration of pari-mutuel betting as herein described and
+as supplemented by the rules and regulations of the state racing and
+wagering board. The department of taxation and finance shall have
+authority to prescribe the forms and the system of accounting to be
+employed and through its representatives shall at all times have access
+to the issuing or vending machines, the adding machines and all other
+pari-mutuel betting equipment.
+```

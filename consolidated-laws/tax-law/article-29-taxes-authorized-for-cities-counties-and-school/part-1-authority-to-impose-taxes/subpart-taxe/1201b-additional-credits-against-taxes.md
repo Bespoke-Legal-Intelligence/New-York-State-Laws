@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1201-B", "kind": "section", "law_id": "TAX", "location_id": "1201-B", "path": "ARTICLE 29 › PART 1 › SUBPART A › SECTION 1201-B", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1201-B.md", "title": "Additional credits against taxes administered by cities of one million or more"} -->
+# Tax Law § 1201-B — Additional credits against taxes administered by cities of one million or more
+
+[Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
+
+```text
+  § 1201-b. Additional credits against taxes administered by cities of
+one million or more. Any person, corporation or other entity required or
+permitted to grant rebates or discounts on bills for electricity, gas or
+steam in accordance with a local law adopted pursuant to article two-G
+of the general city law shall be entitled to a refundable credit for
+such rebates and discounts made, to the extent such credit is
+specifically authorized by such article of the general city law, against
+the amount of tax of be paid pursuant to any gross receipts tax imposed
+by a local law adopted pursuant to subdivision (a) of section twelve
+hundred one of this chapter. Notwithstanding any other provision of law
+to the contrary, no taxpayer taking a credit as authorized herein shall
+incur any increased liability for any taxes imposed pursuant to the
+authorization contained in chapter seven hundred seventy-two of the laws
+of nineteen hundred sixty-six, as amended, by reason of such credit.
+```

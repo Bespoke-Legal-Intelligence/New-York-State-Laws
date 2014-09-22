@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 93", "kind": "section", "law_id": "SCC", "location_id": "93", "path": "ARTICLE 7 › SECTION 93", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/93.md", "title": "Performance of public work to be certified"} -->
+# Second Class Cities Law § 93 — Performance of public work to be certified
+
+[Second Class Cities Law](../README.md) › [Article 7 — Department of Public Works](README.md)
+
+```text
+  § 93. Performance of public work to be certified. All public work
+performed pursuant to contract under the supervision or control of the
+commissioner shall, before it is accepted, be certified to by him to the
+effect that such work has been performed in a good and substantial
+manner with the materials required, of the quality and in the manner
+directed by the terms of the contract under which the same was done.
+Within ten days after the completion of any such work the commissioner
+shall file a certificate of such completion with the comptroller and
+with the city clerk, to be reported by him to the common council. Such
+certificate shall state in substance that said work has been duly
+examined by the commissioner and that the same has been fully performed
+and completed in accordance with the terms of the contract therefor.
+```

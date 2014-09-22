@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-505", "kind": "section", "law_id": "UCC", "location_id": "2-A-505", "path": "ARTICLE 2-A › PART 5 › SECTION 2-A-505", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-505.md", "title": "Cancellation and Termination and Effect of Cancellation, Termination, Rescission, or Fraud on Rights and Remedies"} -->
+# Uniform Commercial Code § 2-A-505 — Cancellation and Termination and Effect of Cancellation, Termination, Rescission, or Fraud on Rights and Remedies
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 5 — Default a In General B Default By Lessor C Default By Lessee](README.md)
+
+```text
+Section 2-A-505. Cancellation and Termination and Effect of
+                   Cancellation, Termination, Rescission, or Fraud on
+                   Rights and Remedies.
+  (1) On cancellation of the lease contract, all obligations that are
+still executory on both sides are discharged, but any right based on
+prior default or performance survives, and the cancelling party also
+retains any remedy for default of the whole lease contract or any
+unperformed balance.
+  (2) On termination of the lease contract, all obligations that are
+still executory on both sides are discharged but any right based on
+prior default or performance survives.
+  (3) Unless the contrary intention clearly appears, expressions of
+"cancellation," "rescission," or the like of the lease contract may not
+be construed as a renunciation or discharge of any claim in damages for
+an antecedent default.
+  (4) Rights and remedies for material misrepresentation or fraud
+include all rights and remedies available under this Article for
+default.
+  (5) Neither rescission nor a claim for rescission of the lease
+contract nor rejection or return of the goods may bar or be deemed
+inconsistent with a claim for damages or other right or remedy.
+```

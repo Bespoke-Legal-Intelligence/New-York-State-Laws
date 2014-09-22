@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 606-A", "kind": "section", "law_id": "RSS", "location_id": "606-A", "path": "ARTICLE 15 › SECTION 606-A", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/606-A.md", "title": "Death benefit for vested members who die prior to retirement"} -->
+# Retirement and Social Security Law § 606-A — Death benefit for vested members who die prior to retirement
+
+[Retirement and Social Security Law](../README.md) › [Article 15 — Coordinated Retirement Plan](README.md)
+
+```text
+  § 606-a. Death benefit for vested members who die prior to retirement.
+a. A death benefit plus the reserve-for-increased-take-home-pay, if any,
+shall be payable upon the death of a member of a retirement system who:
+  1. Died before the effective date of retirement while a member of such
+retirement system;
+  2. Had a least ten years of credited service at the time of death; and
+  3. Died at a time and in a manner which did not result in the
+eligibility of the member's estate or any beneficiary to receive any
+death benefits from such retirement system on account of such death.
+  b. Benefits provided under this section shall be payable to the
+member's estate or the beneficiary or beneficiaries nominated by the
+member on a designation of beneficiary form filed with the
+administrative head of such retirement system.
+  c. The amount of the benefit payable pursuant to this section shall be
+equal to one-half of the amount of the ordinary death benefit which
+would have been payable had the member's death occurred on the last day
+of service upon which membership was based.
+```

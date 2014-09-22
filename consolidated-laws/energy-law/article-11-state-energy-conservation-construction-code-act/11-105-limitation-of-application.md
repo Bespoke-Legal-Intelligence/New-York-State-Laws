@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Energy Law § 11-105", "kind": "section", "law_id": "ENG", "location_id": "11-105", "path": "ARTICLE 11 › SECTION 11-105", "repealed": false, "repealed_date": null, "source": "nys-laws:ENG/11-105.md", "title": "Limitation of application"} -->
+# Energy Law § 11-105 — Limitation of application
+
+[Energy Law](../README.md) › [Article 11 — State Energy Conservation Construction Code Act](README.md)
+
+```text
+  § 11-105. Limitation of application. Notwithstanding the provisions of
+subdivision one of section 11-103 of this article, the state fire
+prevention and building code council, by regulation, may limit the
+application of any portion of the code so as to include or exclude
+classes or types of buildings, according to the use thereof or the cost
+effectiveness of the code with respect to any such class or type of
+building, or according to any other distinction as may make
+differentiation or separate classification or regulation necessary,
+proper or desirable, provided however, that such limitation: (1) is
+consistent with the purposes of this article and the criteria set forth
+in section 11-104 of this article, (2) does not render the code
+inconsistent with the energy savings requirements of subdivision two of
+section 11-103 of this article, and (3) whether considered individually
+or collectively with other limitations, will not prevent the attainment
+of the compliance goals set forth in section 410(2)(c) of the American
+Recovery and Reinvestment Act of 2009.
+```

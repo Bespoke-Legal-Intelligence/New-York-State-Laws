@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 561-A", "kind": "section", "law_id": "GMU", "location_id": "561-A", "path": "ARTICLE 15-A › SECTION 561-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/561-A.md", "title": "Accounts, reports and audits"} -->
+# General Municipal Law § 561-A — Accounts, reports and audits
+
+[General Municipal Law](../README.md) › [Article 15-A — Municipal Urban Renewal Agencies, Organization and Powers](README.md)
+
+```text
+  § 561-a. Accounts, reports and audits.  1. The accounting records of
+an agency shall be maintained in accordance with a system prescribed by
+the state comptroller.
+  2. Within sixty days after the close of the fiscal year, an agency
+shall submit an annual report of its financial condition to the
+commissioner and to the state comptroller. The report shall be in such
+form as the comptroller shall require. The commissioner or the
+comptroller may require additional information from the agency or any
+officer thereof at any time.
+  3. The state comptroller, or his legally authorized representative, is
+hereby authorized and empowered from time to time to examine the books
+and accounts of an agency including its receipts, disbursements,
+contracts, reserve funds, sinking funds, investments and any other
+matters relating to its finances or financial standing. Such an
+examination shall be conducted by the comptroller at least once in every
+five years; the comptroller is authorized, however, to accept from an
+agency, in lieu of such an examination, an external examination of its
+books and accounts made at the request of the agency.
+```

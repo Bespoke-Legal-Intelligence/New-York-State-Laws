@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1106-J", "kind": "section", "law_id": "PVH", "location_id": "1106-J", "path": "ARTICLE 18-A › SECTION 1106-J", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1106-J.md", "title": "Liability on obligations"} -->
+# Private Housing Finance Law § 1106-J — Liability on obligations
+
+[Private Housing Finance Law](../README.md) › [Article 18-A — Low Income Turnkey/enhanced Housing Trust Fund Program](README.md)
+
+```text
+  § 1106-j. Liability on obligations. 1. Except for obligations which
+the corporation assumes by contract for the construction, rehabilitation
+and development period of any project, neither the corporation, the New
+York state housing finance agency nor the state shall have any
+responsibility or liability as to construction, rehabilation, operation,
+maintenance, repair or use of projects unless otherwise specifically
+provided by law.
+  2. Any contract entered into pursuant to this section between the
+corporation and an eligible applicant, or eligible owner of a project
+shall cite and set forth subdivision one of this section.
+```

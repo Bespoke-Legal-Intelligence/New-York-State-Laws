@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-1507", "kind": "section", "law_id": "GOB", "location_id": "5-1507", "path": "ARTICLE 5 › TITLE 15 › SECTION 5-1507", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-1507.md", "title": "Signature of agent"} -->
+# General Obligations Law § 5-1507 — Signature of agent
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15 — Statutory Short Form and Other Powers of Attorney For Financial and Estate Planning](README.md)
+
+```text
+  § 5-1507. Signature of agent. 1. (a) In any transaction where the
+agent is acting pursuant to a power of attorney and where the
+hand-written signature of the agent or principal is required, the agent
+shall disclose the principal and agent relationship by:
+  (1) signing "(name of agent) as agent for (name of principal)"; or
+  (2) signing "(name of principal) by (name of agent), as agent"; or
+  (3) any similar written disclosure of the principal and agent
+relationship.
+  (b) A third party shall incur no liability for accepting a signature
+that does not meet the requirements of this subdivision.
+  2. When the agent engages in a transaction on behalf of the principal,
+the agent is attesting that:
+  (a) the agent has actual authority to engage in the transaction;
+  (b) the agent does not have, at the time of the transaction, actual
+notice of the termination or revocation of the power of attorney, or
+notice of any facts indicating that the power of attorney has been
+terminated or revoked;
+  (c) if the power of attorney is one which terminates upon the
+principal's incapacity, the agent does not have, at the time of the
+transaction actual notice of the principal's incapacity, or notice of
+any facts indicating the principal's incapacity.
+  (d) the agent does not have, at the time of the transaction, actual
+notice that the power of attorney has been modified in any way that
+would affect the ability of the agent to engage in the transaction, or
+notice of any facts indicating that the power of attorney has been so
+modified.
+  3. The attestation of the agent pursuant to subdivision two of this
+section is not effective as to any third party who had actual notice
+that the power of attorney had terminated or been revoked prior to the
+transaction.
+```

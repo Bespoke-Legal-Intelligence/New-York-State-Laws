@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 859-B", "kind": "section", "law_id": "GMU", "location_id": "859-B", "path": "ARTICLE 18-A › TITLE 1 › SECTION 859-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/859-B.md", "title": "Special procedure for the provision of financial assistance to continuing care retirement communities"} -->
+# General Municipal Law § 859-B — Special procedure for the provision of financial assistance to continuing care retirement communities
+
+[General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 1 — Agencies, Organization and Powers](README.md)
+
+```text
+  § 859-b. Special procedure for the provision of financial assistance
+to continuing care retirement communities. 1. Any applicant for
+financing of a continuing care retirement community shall present a
+completed application for a certificate of authority and documentation
+establishing the continuing care retirement community council's approval
+of that application, pursuant to article forty-six of the public health
+law.
+  2. If requested by the agency, the applicant shall present an analysis
+dealing with any of the issues identified in paragraph (a) of
+subdivision four of section eight hundred seventy-four of this article.
+  3. Applicants shall present the financial feasibility study, including
+a financial forecast and market study, and the analysis of economic
+costs and benefits required by article forty-six of the public health
+law.
+  4. Any information presented by the applicant pursuant to subdivisions
+one, two and three of this section shall be made available at the time
+required for published notice of the public hearing required by section
+eight hundred fifty-nine-a of this article. The agency shall make such
+information available during regular office hours in at least two
+locations, at least one of which shall be in the city, town or village
+within which the proposed project is located. Such notice shall include
+a statement indicating the location and times of availability of the
+information required by this section.
+  5. The industrial development agency may require the applicant to
+provide any additional information which it requires in order to meet
+the purposes of this article.
+```

@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 955", "kind": "section", "law_id": "TAX", "location_id": "955", "path": "ARTICLE 26 › PART 1 › SECTION 955", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/955.md", "title": "Resident's New York taxable estate"} -->
+# Tax Law § 955 — Resident's New York taxable estate
+
+[Tax Law](../../README.md) › [Article 26 — Estate Tax](../README.md) › [Part 1 — Computation of Tax](README.md)
+
+```text
+  § 955. Resident's New York taxable estate. (a) General.--The taxable
+estate of a New York resident shall be his or her New York gross estate,
+minus the deductions allowable for determining his or her federal
+taxable estate under the internal revenue code (whether or not a federal
+estate tax return is required to be filed), except to the extent that
+such deductions relate to real or tangible personal property sitused
+outside New York state.
+  (b) Waiver of deductions.-- If the right to any deduction otherwise
+allowable is waived for federal estate tax purposes, it shall be
+considered waived for New York estate tax purposes.
+  (c) Qualified terminable interest property election.-- Except as
+otherwise provided in this subsection, the election referred to in
+paragraph (7) of subsection (b) of section 2056 of the internal revenue
+code shall not be allowed under this article unless such election was
+made with respect to the federal estate tax return required to be filed
+under the provisions of the internal revenue code. If such election was
+made for the purposes of the federal estate tax, then such election must
+also be made by the executor on the return of the tax imposed by this
+article. Where no federal estate tax return is required to be filed, the
+executor may make the election referred to in such paragraph (7) with
+respect to the tax imposed by this article on the return of the tax
+imposed by this article. Any election made under this subsection shall
+be irrevocable.
+  (d) Cross references.-- For provisions of the internal revenue code
+specifying the deductions allowable for federal estate tax purposes,
+see:
+  Sec.2032(b). Alternate valuation--special rule for deductions.
+  Sec.2046. Disclaimers.
+  Sec.2053. Expenses, indebtedness, and taxes.
+  Sec.2054. Losses.
+  Sec.2055. Transfers for public, charitable, and religious uses.
+  Sec.2056. Bequests, etc., to surviving spouse.
+```

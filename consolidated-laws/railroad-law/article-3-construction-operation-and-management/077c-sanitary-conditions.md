@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Railroad Law § 77-C", "kind": "section", "law_id": "RRD", "location_id": "77-C", "path": "ARTICLE 3 › SECTION 77-C", "repealed": false, "repealed_date": null, "source": "nys-laws:RRD/77-C.md", "title": "Sanitary conditions"} -->
+# Railroad Law § 77-C — Sanitary conditions
+
+[Railroad Law](../README.md) › [Article 3 — Construction, Operation and Management](README.md)
+
+```text
+  § 77-c. Sanitary conditions. 1. It shall be the duty of every railroad
+corporation which operates a railroad within the state and whose annual
+revenue derived exclusively from freight operations is ten million
+dollars or more after applying the railroad revenue deflator formula set
+forth in title 49 CFR, part 1201, subpart A, section 1-1, to: (a)
+provide each locomotive used on such railroad for transportation or
+occupancy by railroad crew with potable drinking water; (b) maintain the
+toilet facilities provided on locomotives, so equipped, or cabooses, in
+those instances in which cabooses are used, in a working and sanitary
+condition; and (c) ensure that such toilet facility provides privacy to
+the person using such facility.
+  2. For purposes of this section, the phrase "sanitary conditions"
+shall mean a condition of good order and cleanliness.
+  3. The commissioner of transportation shall enforce the provisions of
+this section and may issue such order or orders as may be necessary to
+ensure compliance with such provisions.
+  4. Notice of violation of the provisions of this section shall be made
+in verified written complaint by a recognized railroad labor
+representative to the railroad superintendent of the division involved,
+and a copy filed with the department of transportation. Upon receipt of
+the complaint, the superintendent of the division shall advise the
+complainant and the department of transportation within five days as to
+the specific remedies taken or intended to be taken to resolve the
+complaint. If the superintendent disputes the allegations contained in
+the complaint, he, within five days of receipt, shall so notify the
+complainant and the department of transportation. The department of
+transportation shall be allowed a period of fifteen days to determine
+the validity of the complaint.
+  5. If the department finds that the complaint is meritorious, the
+department shall issue an appropriate order to the railroad specifying
+the conditions to be rectified and the time period in which such action
+shall be taken. If the railroad does not comply with the department's
+order, the commissioner of transportation shall be empowered to fine the
+railroad the sum of one hundred dollars for each day the violation
+exists.
+```

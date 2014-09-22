@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 160-X", "kind": "section", "law_id": "EXC", "location_id": "160-X", "path": "ARTICLE 6-E › SECTION 160-X", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/160-X.md", "title": "Classification of services"} -->
+# Executive Law § 160-X — Classification of services
+
+[Executive Law](../README.md) › [Article 6-E — State Certified and Licensed Real Estate Appraisers](README.md)
+
+```text
+  § 160-x. Classification of services. 1. A client or employer may
+retain or employ a state certified or licensed real estate appraiser to
+act as a disinterested third party in rendering an unbiased estimate of
+value or analysis. A client or employer may also retain or employ a
+state certified or licensed real estate appraiser to provide specialized
+services to facilitate the client's or employer's objectives. In either
+case, the appraisal and the appraisal report must comply with the
+provisions of this article.
+  2. For the purposes of this article, the term "appraisal assignment"
+means an engagement for which an appraiser is employed or retained to
+act, or would be perceived by third parties or the public as acting, as
+a disinterested third party in rendering an unbiased analysis, opinion
+or conclusion relating to the nature, quality, value or utility of
+specified interests in, or aspects of, identified real estate.
+  3. For the purposes of this article, the term "specialized services"
+means those appraisal services which do not fall within the definition
+of appraisal assignment. The term "specialized services" may include
+valuation work and analysis work. Regardless of the intention of the
+client or employer, if the state certified or licensed real estate
+appraiser would be perceived by third parties or the public as acting as
+a disinterested third party in rendering an unbiased analysis, opinion
+or conclusion, the work is classified as an appraisal assignment and not
+"specialized services".
+```

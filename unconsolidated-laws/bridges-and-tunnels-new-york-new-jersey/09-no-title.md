@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Bridges and Tunnels New York/New Jersey § 9", "kind": "section", "law_id": "BAT", "location_id": "9", "path": "SECTION 9", "repealed": false, "repealed_date": null, "source": "nys-laws:BAT/9.md", "title": "No title"} -->
+# Bridges and Tunnels New York/New Jersey § 9 — No title
+
+[Bridges and Tunnels New York/New Jersey](README.md)
+
+```text
+  § 9. Upon the making of the foregoing payments by the port authority
+to the two said states, the provisions of the compact of December
+thirty, nineteen hundred nineteen, between the said two states, relating
+to the construction and operation of the said Holland tunnel, as
+amended, so far as inconsistent herewith or with the rules, practice and
+procedure or general authority of the port authority, shall be and shall
+be deemed to be abrogated; and chapter four hundred and twenty-one of
+the laws of New York of nineteen hundred thirty, and chapter two hundred
+and forty-seven of the laws of New Jersey of nineteen hundred thirty,
+making the port authority the agent of the two states in connection with
+the operation of the said Holland tunnel shall cease to be effective.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 1253", "kind": "section", "law_id": "RPT", "location_id": "1253", "path": "ARTICLE 12-A › SECTION 1253", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/1253.md", "title": "Hearing and determination"} -->
+# Real Property Tax Law § 1253 — Hearing and determination
+
+[Real Property Tax Law](../README.md) › [Article 12-A — Special State Equalization Ratios For Computing Constitutional Tax and Debt Limitations For Cities of One Hundred Twenty-five Thousand or More](README.md)
+
+```text
+  § 1253. Hearing and determination. Not later than twenty days prior to
+the ensuing fiscal year of each city with a population of one hundred
+twenty-five thousand or more inhabitants, the commissioner shall provide
+written notice of the determination of tentative ratios pursuant to this
+article to the chief executive officer thereof. The notice shall set
+forth such ratios, identifying the assessment rolls for which the ratios
+were determined and specifying the time and place where the commissioner
+or a duly authorized representative thereof will meet to hear complaints
+presented by a city concerning such ratios. Such notice must be served
+at least five days before the date specified for the hearing. After
+hearing any such complaints, the commissioner shall establish final
+ratios for such rolls in accordance with the provisions of this article.
+A city is hereby authorized and empowered to waive the hearing with
+respect to such ratios.
+```

@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Legislative Law § 24", "kind": "section", "law_id": "LEG", "location_id": "24", "path": "ARTICLE 2 › SECTION 24", "repealed": false, "repealed_date": null, "source": "nys-laws:LEG/24.md", "title": "Legislative bill drafting commission"} -->
+# Legislative Law § 24 — Legislative bill drafting commission
+
+[Legislative Law](../README.md) › [Article 2 — Members, Officers and Employees of the Legislature](README.md)
+
+```text
+  § 24. Legislative bill drafting commission. A legislative bill
+drafting commission is hereby created to consist of two commissioners,
+one of whom shall be the commissioner for administration and the other
+of whom shall be the commissioner for operations. Each such commissioner
+shall be appointed jointly by the temporary president of the senate and
+the speaker of the assembly. Such appointments shall be evidenced by the
+joint certificate of the appointing officers filed in the office of the
+secretary of state.  Each such commissioner shall hold office until his
+successor is appointed in the same manner as hereinabove provided. The
+commissioners shall receive such compensation as may be provided within
+the amount of the appropriation made by law for the maintenance and
+operation of the commission. The commissioners and employees of the
+commission shall be considered as employees of the legislature for all
+purposes.
+```

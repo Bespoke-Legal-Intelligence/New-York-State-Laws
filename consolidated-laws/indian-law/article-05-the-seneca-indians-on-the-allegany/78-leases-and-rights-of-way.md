@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Indian Law § 78", "kind": "section", "law_id": "IND", "location_id": "78", "path": "ARTICLE 5 › SECTION 78", "repealed": false, "repealed_date": null, "source": "nys-laws:IND/78.md", "title": "Leases and rights of way"} -->
+# Indian Law § 78 — Leases and rights of way
+
+[Indian Law](../README.md) › [Article 5 — The Seneca Indians On the Allegany and Cattaraugus Reservations](README.md)
+
+```text
+  § 78. Leases and rights of way.  1. The Seneca nation of Indians,
+acting by and through the Seneca council, is authorized to lease, or
+grant rights of way over, tribal lands, including the tribal interest in
+lands possessed by individual Indians, within the Allegany, Cattaraugus
+and Oil Springs reservations for any purpose for such term and on such
+conditions as the Seneca council may determine.
+  2. Individual members of the Seneca nation of Indians are authorized
+to join in any such leases or rights of way executed or granted by the
+Seneca council with respect to whatever interest they may possess in the
+lands involved.
+```

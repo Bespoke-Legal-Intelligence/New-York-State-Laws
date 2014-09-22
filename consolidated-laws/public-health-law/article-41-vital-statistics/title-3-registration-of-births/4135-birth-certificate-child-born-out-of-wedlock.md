@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4135", "kind": "section", "law_id": "PBH", "location_id": "4135", "path": "ARTICLE 41 › TITLE 3 › SECTION 4135", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4135.md", "title": "Birth certificate; child born out of wedlock"} -->
+# Public Health Law § 4135 — Birth certificate; child born out of wedlock
+
+[Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
+
+```text
+  § 4135. Birth certificate; child born out of wedlock. 1. (a) There
+shall be no specific statement on the birth certificate as to whether
+the child is born in wedlock or out of wedlock or as to the marital name
+or status of the mother.
+  (b) The phrase "child born out of wedlock" when used in this article,
+refers to a child whose father is not its mother's husband.
+  2. The name of the putative father of a child born out of wedlock
+shall not be entered on the certificate of birth prior to filing without
+(i) an acknowledgment of paternity pursuant to section one hundred
+eleven-k of the social services law or section four thousand one hundred
+thirty-five-b of this article executed by both the mother and putative
+father, and filed with the record of birth; or (ii) notification having
+been received by, or proper proof having been filed with, the record of
+birth by the clerk of a court of competent jurisdiction or the parents,
+or their attorneys of a judgment, order or decree relating to parentage.
+  3. Orders relating to parentage shall be held confidential by the
+commissioner and shall not be released or otherwise divulged except by
+order of a court of competent jurisdiction.
+```

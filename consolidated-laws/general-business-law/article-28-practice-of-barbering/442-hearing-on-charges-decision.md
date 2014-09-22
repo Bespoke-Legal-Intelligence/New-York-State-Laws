@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 442", "kind": "section", "law_id": "GBS", "location_id": "442", "path": "ARTICLE 28 › SECTION 442", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/442.md", "title": "Hearing on charges; decision"} -->
+# General Business Law § 442 — Hearing on charges; decision
+
+[General Business Law](../README.md) › [Article 28 — Practice of Barbering](README.md)
+
+```text
+  § 442. Hearing on charges; decision. No license or certificate shall
+be suspended or revoked or any fine or reprimand imposed upon the holder
+thereof until after a hearing had before an officer or employee of the
+department designated for such purpose by the secretary of state, upon
+notice to the licensee of at least ten days. The notice shall be served
+either personally or by certified mail and shall state the date and
+place of hearing and set forth the ground or grounds constituting the
+charges against the licensee. The licensee or registrant shall be heard
+in his defense either in person or by counsel and may produce witnesses
+and testify in his behalf. A stenographic record of the hearing shall be
+taken and preserved. The hearing may be adjourned from time to time. The
+person conducting the hearing shall make a written report of his
+findings and a recommendation to the secretary of state for decision.
+The secretary of state shall review such findings and the recommendation
+and, after due deliberation, shall issue an order accepting, modifying
+or rejecting such recommendation and dismissing the charges, suspending
+or revoking the license or certificate or in lieu thereof imposing a
+fine or reprimand upon the licensee. For the purpose of this article,
+the secretary of state or any officer or employee of the department
+designated by him, may administer oaths, take testimony, subpoena
+witnesses and compel the production of books, papers, records and
+documents deemed pertinent to the subject of investigation.
+```

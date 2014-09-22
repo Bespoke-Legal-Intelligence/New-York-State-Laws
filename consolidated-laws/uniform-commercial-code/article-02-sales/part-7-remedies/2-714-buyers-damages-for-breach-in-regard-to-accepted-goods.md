@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-714", "kind": "section", "law_id": "UCC", "location_id": "2-714", "path": "ARTICLE 2 › PART 7 › SECTION 2-714", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-714.md", "title": "Buyer's Damages for Breach in Regard to Accepted Goods"} -->
+# Uniform Commercial Code § 2-714 — Buyer's Damages for Breach in Regard to Accepted Goods
+
+[Uniform Commercial Code](../../README.md) › [Article 2 — Sales](../README.md) › [Part 7 — Remedies](README.md)
+
+```text
+Section 2--714. Buyer's Damages for Breach in Regard to Accepted Goods.
+  (1) Where the buyer has accepted goods and given notification
+(subsection (3) of Section 2--607) he may recover as damages for any
+non-conformity of tender the loss resulting in the ordinary course of
+events from the seller's breach as determined in any manner which is
+reasonable.
+  (2) The measure of damages for breach of warranty is the difference at
+the time and place of acceptance between the value of the goods accepted
+and the value they would have had if they had been as warranted, unless
+special circumstances show proximate damages of a different amount.
+  (3) In a proper case any incidental and consequential damages under
+the next section may also be recovered.
+```

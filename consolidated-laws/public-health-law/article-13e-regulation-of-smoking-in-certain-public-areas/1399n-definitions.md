@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1399-N", "kind": "section", "law_id": "PBH", "location_id": "1399-N", "path": "ARTICLE 13-E › SECTION 1399-N", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-N.md", "title": "Definitions"} -->
+# Public Health Law § 1399-N — Definitions
+
+[Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking In Certain Public Areas](README.md)
+
+```text
+  § 1399-n. Definitions. For purposes of this article:
+  1. "Bar" means any area, including outdoor seating areas, devoted to
+the sale and service of alcoholic beverages for on-premises consumption
+and where the service of food is only incidental to the consumption of
+such beverages.
+  2. "Employer" means any person, partnership, association, limited
+liability company, corporation or nonprofit entity which employs one or
+more persons, including the legislative, executive and judicial branches
+of state government and any political subdivision of the state.
+  3. "Food service establishment" means any area, including outdoor
+seating areas, or portion thereof in which the business is the sale of
+food for on-premises consumption.
+  4. "Membership association" means a not-for-profit entity which has
+been created or organized for a charitable, philanthropic, educational,
+political, social or other similar purpose.
+  5. "Place of employment" means any indoor area or portion thereof
+under the control of an employer in which employees of the employer
+perform services, and shall include, but not be limited to, offices,
+school grounds, retail stores, banquet facilities, theaters, food
+stores, banks, financial institutions, factories, warehouses, employee
+cafeterias, lounges, auditoriums, gymnasiums, restrooms, elevators,
+hallways, museums, libraries, bowling establishments, employee medical
+facilities, rooms or areas containing photocopying equipment or other
+office equipment used in common, and company vehicles.
+  6. "School grounds" means any building, structure, and surrounding
+outdoor grounds contained within a public or private pre-school, nursery
+school, elementary or secondary school's legally defined property
+boundaries as registered in a county clerk's office, and any vehicles
+used to transport children or school personnel.
+  7. "Retail tobacco business" means a sole proprietorship, limited
+liability company, corporation, partnership or other enterprise in which
+the primary activity is the retail sale of tobacco products and
+accessories, and in which the sale of other products is merely
+incidental.
+  8. "Smoking" means the burning of a lighted cigar, cigarette, pipe or
+any other matter or substance which contains tobacco.
+```

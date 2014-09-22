@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 29-D", "kind": "section", "law_id": "EXC", "location_id": "29-D", "path": "ARTICLE 2-B › SECTION 29-D", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/29-D.md", "title": "Reports"} -->
+# Executive Law § 29-D — Reports
+
+[Executive Law](../README.md) › [Article 2-B — State and Local Natural and Man-made Disaster Preparedness](README.md)
+
+```text
+  § 29-d. Reports. In order to assess the present preparedness in the
+state for any radiological accident and to determine the need for, and
+appropriateness of, any additional specific steps by state government,
+the commission shall report to the governor and the legislature by
+January first, nineteen hundred eighty-two, its findings,
+recommendations and proposed legislation where appropriate concerning:
+  1. The need for and appropriateness of additional specific state
+activities or programs beyond those required by the accepted
+radiological emergency preparedness plans or provided for under existing
+law, including but not limited to:
+  (a) radiological monitoring equipment;
+  (b) warning systems and equipment;
+  (c) medical technologies and equipment;
+  (d) plume transport and dose assessment models; and
+  (e) nuclear fuel cycle and materials licensees other than electric
+generating facilities.
+  2. Any such recommendations shall be developed in consultation with
+all concerned public and private parties and shall:
+  (a) take into account proven safety effectiveness;
+  (b) outline any proposed costs and the means for meeting such costs;
+  (c) consider related activities of the United States nuclear
+regulatory commission or others; and
+  (d) when appropriate, discuss alternatives and various implementation
+stages.
+```

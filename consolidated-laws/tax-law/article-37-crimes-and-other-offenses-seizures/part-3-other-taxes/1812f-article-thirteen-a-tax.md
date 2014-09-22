@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1812-F", "kind": "section", "law_id": "TAX", "location_id": "1812-F", "path": "ARTICLE 37 › PART 3 › SECTION 1812-F", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1812-F.md", "title": "Article thirteen-A tax"} -->
+# Tax Law § 1812-F — Article thirteen-A tax
+
+[Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 3 — Other Taxes](README.md)
+
+```text
+  § 1812-f. Article thirteen-A tax. (a) Any person who willfully accepts
+an exempt transaction certificate (or similar document which has been
+prescribed by the commissioner of taxation and finance) or
+interdistributor sale certificate with respect to claiming exemption
+from the taxes imposed with respect to diesel motor fuel or residual
+petroleum product by article thirteen-A of this chapter which he does
+not believe to be true and correct as to any material matter shall be
+guilty of a misdemeanor.
+  (b) Any willful act or omission, other than those described in section
+eighteen hundred one of this article or subdivision (a) or (c) of this
+section, by any person which constitutes a violation of any provision of
+article thirteen-A of this chapter shall constitute a misdemeanor.
+  (c) Any person who willfully makes a movement tracking document
+required pursuant to subdivision (b) of section three hundred fifteen of
+this chapter, which he does not believe to be true and correct as to
+every material matter or who willfully produces any such document for
+inspection as required under subdivision (b) of section three hundred
+fifteen of this chapter which he knows to be fraudulent or to be false
+as to any material matter shall be guilty of a misdemeanor; provided,
+however, that if the tax liability under article thirteen-A of this
+chapter with respect to the product being transported, is equal to or
+greater than one thousand dollars, such person shall be guilty of a
+class E felony.
+```

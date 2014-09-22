@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 466", "kind": "section", "law_id": "FCT", "location_id": "466", "path": "ARTICLE 4 › PART 6 › SECTION 466", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/466.md", "title": "Effect of granting of support in action for divorce, separation or annulment"} -->
+# Family Court Act § 466 — Effect of granting of support in action for divorce, separation or annulment
+
+[Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 6 — Effect of Action For Separation, Divorce or Annulment](README.md)
+
+```text
+  § 466. Effect of granting of support in action for divorce, separation
+or annulment. (a) The supreme court may provide in an order or decree
+granting temporary or permanent support or maintenance in an action for
+divorce, separation or annulment that only the family court may
+entertain an application to enforce or, upon a showing to the family
+court that there has been a subsequent change of circumstance and that
+modification is required, to modify such order or decree. If the supreme
+court so provides, the family court shall entertain such an application
+and any disposition by the family court of the application is an order
+of the family court appealable only under article eleven of this act.
+  (b) The supreme court may provide in an order or decree granting
+alimony, maintenance or support in an action for divorce, separation or
+annulment that the order or decree may be enforced or modified only in
+the supreme court. If the supreme court so provides, the family court
+may not entertain an application to enforce or modify an order or decree
+of the supreme court involving the parties to the action.
+  (c) If the supreme court enters an order or decree granting alimony,
+maintenance or support in an action for divorce, separation or annulment
+and if the supreme court does not exercise the authority given under
+subdivision (a) or (b) of this section; or if a court of competent
+jurisdiction not of the state of New York shall enter an order or decree
+granting alimony, maintenance or support in any such action, the family
+court may
+  (i) entertain an application to enforce the order or decree granting
+alimony or maintenance, or
+  (ii) entertain an application to modify the order or decree granting
+alimony or maintenance on the ground that there has been a subsequent
+change of circumstances and that modification is required.
+```

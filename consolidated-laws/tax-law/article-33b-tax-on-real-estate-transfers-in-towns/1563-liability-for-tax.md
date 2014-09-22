@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1563", "kind": "section", "law_id": "TAX", "location_id": "1563", "path": "ARTICLE 33-B › SECTION 1563", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1563.md", "title": "Liability for tax"} -->
+# Tax Law § 1563 — Liability for tax
+
+[Tax Law](../README.md) › [Article 33-B — Tax On Real Estate Transfers In Towns](README.md)
+
+```text
+  § 1563. Liability for tax. 1. The real estate transfer tax shall be
+paid by the buyer.
+  2. For the purpose of the proper administration of this article and to
+prevent evasion of the tax hereby imposed, it shall be presumed that all
+conveyances are taxable. Where the consideration includes property other
+than money, it shall be presumed that the consideration is the fair
+market value of the real property or interest therein. These
+presumptions shall prevail until the contrary is proven, and the burden
+of proving the contrary shall be on the person liable for payment of the
+tax.
+```

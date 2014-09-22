@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 2-A-401", "kind": "section", "law_id": "UCC", "location_id": "2-A-401", "path": "ARTICLE 2-A › PART 4 › SECTION 2-A-401", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/2-A-401.md", "title": "Insecurity: Adequate Assurance of Performance"} -->
+# Uniform Commercial Code § 2-A-401 — Insecurity: Adequate Assurance of Performance
+
+[Uniform Commercial Code](../../README.md) › [Article 2-A — Leases](../README.md) › [Part 4 — Performance of Lease Contract: Repudiated, Substituted and Excused](README.md)
+
+```text
+Section 2-A-401. Insecurity: Adequate Assurance of Performance.
+  (1) A lease contract imposes an obligation on each party that the
+other's expectation of receiving due performance will not be impaired.
+  (2) If reasonable grounds for insecurity arise with respect to the
+performance of either party, the insecure party may demand in writing
+adequate assurance of due performance. Until the insecure party receives
+that assurance, if commercially reasonable the insecure party may
+suspend any performance for which he or she has not already received the
+agreed return.
+  (3) A repudiation of the lease contract occurs if assurance of due
+performance adequate under the circumstances of the particular case is
+not provided to the insecure party within a reasonable time, not to
+exceed thirty days after receipt of a demand by the other party.
+  (4) Between merchants, the reasonableness of grounds for insecurity
+and the adequacy of any assurance offered must be determined according
+to commercial standards.
+  (5) Acceptance of any nonconforming delivery or payment does not
+prejudice the aggrieved party's right to demand adequate assurance of
+future performance.
+```

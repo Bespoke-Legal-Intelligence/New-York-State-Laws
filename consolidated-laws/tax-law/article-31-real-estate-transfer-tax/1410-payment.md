@@ -1,0 +1,41 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1410", "kind": "section", "law_id": "TAX", "location_id": "1410", "path": "ARTICLE 31 › SECTION 1410", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1410.md", "title": "Payment"} -->
+# Tax Law § 1410 — Payment
+
+[Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
+
+```text
+  §  1410.  Payment.  (a) The tax imposed hereunder shall be paid to the
+commissioner, or to any agent of the commissioner appointed pursuant  to
+section  fourteen  hundred  seven  of  this  article,  no later than the
+fifteenth day  after  the  delivery  of  the  instrument  effecting  the
+conveyance  by the grantor to the grantee. For purposes of this article,
+the date of the instrument effecting the conveyance shall be presumed to
+be the date of delivery of such instrument. A notation shall be made (or
+stamps affixed) on the instrument effecting the conveyance  as  evidence
+of payment. The commissioner may provide for other methods of evidencing
+payment.    Except  as  hereafter  provided, all moneys received as such
+payments by the recording officer  or  any  agent  of  the  commissioner
+during each month, excluding the fees retained by such recording officer
+or  agent  pursuant to subdivision (c) of section fourteen hundred seven
+of this chapter, shall be remitted to the commissioner on the tenth  day
+of  the succeeding month or on such other day as is set by regulation by
+the commissioner.   Provided, however, if the  total  of  such  payments
+required to be remitted to the commissioner by such recording officer or
+agent  during  the  prior calendar year exceeded one million two hundred
+thousand dollars, all moneys received as such payments by such recording
+officer or  agent  of  the  commissioner  from  the  first  through  and
+including  the  fifteenth day of a month, excluding the fees retained by
+such recording officer or agent pursuant to subdivision (c)  of  section
+fourteen  hundred  seven  of  this  chapter,  shall  be  remitted to the
+commissioner on the twenty-fifth day of the same month such  moneys  are
+received by such recording officer or agent. All moneys received as such
+payments  by  such recording officer or agent from the sixteenth through
+and including the last day of the month, excluding the fees retained  by
+such  recording  officer or agent pursuant to subdivision (c) of section
+fourteen hundred seven  of  this  chapter,  shall  be  remitted  to  the
+commissioner on the tenth day of the succeeding month.
+  (b)  A  recording  officer  shall not record an instrument effecting a
+conveyance unless the return required by section fourteen  hundred  nine
+of  this article has been filed and the real estate transfer tax due, if
+any, shall have been paid as provided in this section.
+```

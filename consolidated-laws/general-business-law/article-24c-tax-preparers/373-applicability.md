@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 373", "kind": "section", "law_id": "GBS", "location_id": "373", "path": "ARTICLE 24-C › SECTION 373", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/373.md", "title": "Applicability"} -->
+# General Business Law § 373 — Applicability
+
+[General Business Law](../README.md) › [Article 24-C — Tax Preparers](README.md)
+
+```text
+  § 373. Applicability. (a) The provisions of this article shall not
+apply to tax preparers operating within any city having a population of
+one million or more.
+  (b) Except as provided in subdivision (c) of this section, this
+article shall supersede and preempt all rules, regulations, codes,
+statutes or ordinances of all cities, counties, municipalities, and
+local agencies regarding disclosures required to be made by tax
+preparers.
+  (c) The provisions of this section shall not be construed to limit in
+any way the authority of a city with a population of one million or more
+to enact, implement and continue to enforce local laws and regulations
+governing tax preparers that were in effect prior to the effective date
+of this article, or to enact, implement and enforce any amendments
+thereto after the effective date of this article.
+```

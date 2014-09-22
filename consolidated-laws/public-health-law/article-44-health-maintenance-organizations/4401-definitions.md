@@ -1,0 +1,61 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 4401", "kind": "section", "law_id": "PBH", "location_id": "4401", "path": "ARTICLE 44 › SECTION 4401", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4401.md", "title": "Definitions"} -->
+# Public Health Law § 4401 — Definitions
+
+[Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
+
+```text
+  § 4401. Definitions. For the purpose of this article: 1. "Health
+maintenance organization" or "organization" means any person, natural or
+corporate, or any groups of such persons who enter into an arrangement,
+agreement or plan or any combination of arrangements or plans which
+propose to provide or offer, or which do provide or offer, a
+comprehensive health services plan.
+  2. "Comprehensive health services plan" or "plan" means a plan through
+which each member of an enrolled population is entitled to receive
+comprehensive health services in consideration for a basic advance or
+periodic charge. A plan may include the provision of health care
+services which are covered by the organization at the election of
+enrollees by health care providers not participating in the plan
+pursuant to a contract, employment or other association to the extent
+authorized in section forty-four hundred six of this article; provided,
+however, that in no event shall an enrollee elect to have a
+non-participating provider serve as the enrollee's primary care
+practitioner responsible for supervising and coordinating the care of
+the enrollee.
+  3. "Comprehensive health services" means all those health services
+which an enrolled population might require in order to be maintained in
+good health, and shall include, but shall not be limited to, physician
+services (including consultant and referral services), in-patient and
+out-patient hospital services, diagnostic laboratory and therapeutic and
+diagnostic radiologic services, and emergency and preventive health
+services. Such term may be further defined by agreement with enrolled
+populations providing additional benefits necessary, desirable or
+appropriate to meet their health care needs.
+  4. "Enrolled population" means a group of persons, defined as to
+probable age, sex and family composition, which receives comprehensive
+health services from a health maintenance organization in consideration
+for a basic advance or periodic charge.
+  5. "Superintendent" means the superintendent of financial services of
+the state of New York.
+  * 6. "Comprehensive HIV special needs plan" means a health maintenance
+organization certified pursuant to section forty-four hundred three-c of
+this article which, in addition to providing or arranging for the
+provision of comprehensive health services on a capitated basis,
+including those for which medical assistance payment is authorized
+pursuant to section three hundred sixty-five-a of the social services
+law, also provides or arranges for the provision of HIV care to HIV
+positive persons eligible to receive benefits under title XIX of the
+federal social security act or other public programs.
+  * NB Repealed March 31, 2016
+  * 7. "HIV Center of excellence" is defined as a health care facility
+certified to operate under article twenty-eight of this chapter that
+offers specialized treatment expertise in HIV care services as defined
+by the commissioner.
+  * NB Repealed March 31, 2016
+  8. "Special needs managed care plan" shall mean a combination of
+persons natural or corporate, or any groups of such persons, or a county
+or counties, who enter into an arrangement, agreement or plan, or
+combination of arrangements, agreements or plans, to provide health and
+behavioral health services to enrollees with significant behavioral
+health needs.
+```

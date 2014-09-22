@@ -1,0 +1,37 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 399-Y*2", "kind": "section", "law_id": "GBS", "location_id": "399-Y*2", "path": "ARTICLE 26 › SECTION 399-Y*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/399-Y_2.md", "title": "Automated teller machine fee disclosure"} -->
+# General Business Law § 399-Y*2 — Automated teller machine fee disclosure
+
+[General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 399-y. Automated teller machine fee disclosure. 1. For the
+purposes of this section, "automated teller machine operator" shall mean
+any person who: (a) operates an automated teller machine at which
+consumers may make financial transactions, including but not limited to
+deposits, withdrawals, balance inquiries, and loan payments; and (b) is
+not the financial institution which holds the account accessed by the
+consumer to make the financial transaction.
+  2. No automated teller machine operator shall impose a fee on a
+consumer using such machine, unless such operator: (a) provides notice
+as required by subdivision three of this section; and (b) the consumer
+elects to continue to effect a financial transaction after receiving
+such notice.
+  3. The automated teller machine operator shall provide notice on the
+screen of the automated teller machine or on a paper issued from such
+machine after the financial transaction is initiated, but before the
+consumer is irrevocably committed to completing the transaction. Such
+notice shall clearly state: (i) that a fee is imposed for the use of
+such machine; (ii) the amount of such fee; and (iii) that the consumer
+may cancel such transaction without being assessed a fee.
+  4. (a) Any automated teller machine operator who fails to comply with
+the requirements of this section shall be assessed a civil penalty not
+to exceed two hundred fifty dollars per transaction.
+  (b) If the notice required pursuant to subdivision three of this
+section has been provided by an automated teller machine operator and
+such notice is subsequently removed, damaged, or altered by any person
+other than such operator, the operator shall have no liability for a
+failure to comply with subdivision three of this section.
+  * NB There are 2 § 399-y's
+```

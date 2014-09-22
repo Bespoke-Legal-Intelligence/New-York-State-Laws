@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Municipal Home Rule Law § 33-A", "kind": "section", "law_id": "MHR", "location_id": "33-A", "path": "ARTICLE 4 › PART 1 › SECTION 33-A", "repealed": false, "repealed_date": null, "source": "nys-laws:MHR/33-A.md", "title": "Transfer of functions or duties of local governments and districts"} -->
+# Municipal Home Rule Law § 33-A — Transfer of functions or duties of local governments and districts
+
+[Municipal Home Rule Law](../../README.md) › [Article 4 — Powers of Counties and Cities to Adopt Charters](../README.md) › [Part 1 — The County Charter Law](README.md)
+
+```text
+  § 33-a. Transfer of functions or duties of local governments and
+districts. 1. Subject to restrictions in the constitution, in this
+article or in any other applicable law, the board of supervisors of any
+county may, by local law, transfer functions or duties of the county or
+of the cities, towns, villages, districts or other units of government
+wholly contained in such county to each other, or for the abolition of
+one or more units of government, including but not limited to offices,
+departments or agencies thereof, when the level and quality of ongoing
+services of all their functions or duties are transferred.
+  2. Any such local law, or an amendment or repeal of one or more
+provisions thereof which would have the effect of transferring or
+abolishing a function or duty of the county or of the cities, towns,
+villages, districts or other units of government wholly contained in the
+county, shall not become operative unless and until it is approved at a
+general election or at a special election, held in the county by
+receiving a majority of the total votes cast thereon: (a) in the area of
+the county outside of cities and (b) in the area of cities of the
+county, if any, considered as one unit, and if it provides for the
+transfer of any function or duty to or from any village or for the
+abolition of any office, department, agency or unit of government of a
+village wholly contained in the county, it shall not take effect unless
+it shall also receive a majority of all the votes cast thereon in all
+the villages so affected considered as one unit. Such a local law,
+amendment or repeal thereof, shall provide for its submission to the
+electors of the county at the next general election or at a special
+election, occurring not less than sixty days after the adoption thereof
+by the board of supervisors.
+```

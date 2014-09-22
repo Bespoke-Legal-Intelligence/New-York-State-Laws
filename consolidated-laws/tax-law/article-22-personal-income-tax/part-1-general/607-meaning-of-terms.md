@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 607", "kind": "section", "law_id": "TAX", "location_id": "607", "path": "ARTICLE 22 › PART 1 › SECTION 607", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/607.md", "title": "Meaning of terms"} -->
+# Tax Law § 607 — Meaning of terms
+
+[Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 1 — General](README.md)
+
+```text
+  § 607. Meaning of terms. (a) General. Any term used in this article
+shall have the same meaning as when used in a comparable context in the
+laws of the United States relating to federal income taxes, unless a
+different meaning is clearly required but such meaning shall be subject
+to the exceptions or modifications prescribed in this article or by
+statute. Any reference in this article to the laws of the United States
+shall mean the provisions of the internal revenue code of nineteen
+hundred eighty-six (unless a reference to the internal revenue code of
+nineteen hundred fifty-four is clearly intended), and amendments
+thereto, and other provisions of the laws of the United States relating
+to federal income taxes, as the same may be or become effective at any
+time or from time to time for the taxable year.
+  (b) Marital or other status. An individual's marital or other status
+under section six hundred one, subsection (b) of section six hundred six
+and section six hundred fourteen shall be the same as his marital or
+other status for purposes of establishing the applicable federal income
+tax rates.
+```

@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 509-P", "kind": "section", "law_id": "VAT", "location_id": "509-P", "path": "TITLE 5 › ARTICLE 19-B › SECTION 509-P", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/509-P.md", "title": "Definitions"} -->
+# Vehicle and Traffic Law § 509-P — Definitions
+
+[Vehicle and Traffic Law](../../README.md) › [Title 5 — Drivers' Licenses](../README.md) › [Article 19-B — Special Requirements For Commercial Motor Carriers](README.md)
+
+```text
+  § 509-p. Definitions. As used in this article, the term:
+  1. "Commercial motor vehicle" shall mean a motor vehicle or
+combination of vehicles having a gross combination weight rating of more
+than ten thousand pounds used in commerce to transport property and it
+shall include a tow truck with a gross vehicle weight rating of at least
+eighty-six hundred pounds.
+  2. "Gross vehicle weight rating" or "GVWR" shall mean the weight of a
+vehicle consisting of the unladen weight and the maximum carrying
+capacity recommended by the manufacturer of such vehicle. The GVWR of a
+combination of vehicles commonly referred to as the gross combination
+weight rating or GCWR is the GVWR of the power unit plus the GVWR of
+each vehicle in the combination.
+  3. "Commercial driver" shall mean every person who is self-employed or
+employed by a commercial motor carrier and who drives a commercial motor
+vehicle for hire or profit.
+  4. "Commercial motor carrier" shall mean any person, corporation, or
+entity, who directs one or more commercial motor vehicles and who
+operates a commercial motor vehicle wholly within or partly within and
+partly without this state in connection with the operation or
+administration of any business.
+```

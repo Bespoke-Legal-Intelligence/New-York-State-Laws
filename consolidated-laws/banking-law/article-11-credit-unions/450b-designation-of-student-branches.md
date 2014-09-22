@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 450-B", "kind": "section", "law_id": "BNK", "location_id": "450-B", "path": "ARTICLE 11 › SECTION 450-B", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/450-B.md", "title": "Designation of student branches"} -->
+# Banking Law § 450-B — Designation of student branches
+
+[Banking Law](../README.md) › [Article 11 — Credit Unions](README.md)
+
+```text
+  § 450-b. Designation of student branches. 1. As used in this section
+the following terms shall have the following meanings:
+  (a) "school" shall mean any public or private elementary or secondary
+school;
+  (b) "student" shall mean a child enrolled in a school;
+  (c) "student branch" shall mean the designation provided to the credit
+union pertaining to the in-school services and financial education
+offered to students. A student branch shall not be deemed to be a
+station and shall not be subject to any of the provisions of this
+article applicable to stations; provided, however, that a credit union
+shall provide written notice to the superintendent of the establishment
+of any such student branch.
+  2. A credit union organized under this article may upon agreement with
+a school's governing body open and maintain a student branch.
+  3. Notwithstanding any other provision of this article any student
+enrolled in the school maintaining a student branch who is not otherwise
+qualified for membership in the credit union is hereby qualified for a
+student membership. Said student membership shall expire thirty days
+after the student's graduation from secondary school, transfer to
+another school or termination of enrollment. The student branch shall be
+for the express use of the students and may not be used by faculty,
+staff or lineal ancestors or descendants of students. Neither faculty,
+staff nor lineal ancestors or descendants of student members are
+eligible for membership in the credit union unless otherwise qualified
+under this article.
+  4. The superintendent may promulgate regulations appropriate to the
+formation and operation of student branches.
+```

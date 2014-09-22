@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Education Law § 3217", "kind": "section", "law_id": "EDN", "location_id": "3217", "path": "TITLE 4 › ARTICLE 65 › PART 1 › SECTION 3217", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/3217.md", "title": "Procedure for issuance of employment certificates"} -->
+# Education Law § 3217 — Procedure for issuance of employment certificates
+
+[Education Law](../../../README.md) › [Title 4 — Teachers and Pupils](../../README.md) › [Article 65 — Compulsory Education and School Census](../README.md) › [Part 1 — Compulsory Education](README.md)
+
+```text
+  § 3217. Procedure for issuance of employment certificates.  1.  An
+application for an employment certificate shall be made by a minor on a
+form prescribed by the commissioner of education.
+  2. Before issuing an employment certificate the issuing official shall
+require the minor to submit the following:
+  a. Evidence of age;
+  b. Written consent of the parent or guardian;
+  c. A certificate of physical fitness; and
+  d. If the application is for a full-time employment certificate, a
+schooling record.
+  In addition, in a city or school district which, pursuant to section
+thirty-two hundred five, subdivision three, of this article, requires
+minors from sixteen to seventeen years of age who are not employed to
+attend school, the certificating official shall require a minor applying
+for a full-time employment certificate to submit the following:
+  a. A pledge of employment; and
+  b. A schooling record.
+```

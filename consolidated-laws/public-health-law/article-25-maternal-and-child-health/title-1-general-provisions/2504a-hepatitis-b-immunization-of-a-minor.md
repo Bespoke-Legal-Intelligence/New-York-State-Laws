@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2504-A", "kind": "section", "law_id": "PBH", "location_id": "2504-A", "path": "ARTICLE 25 › TITLE 1 › SECTION 2504-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2504-A.md", "title": "Hepatitis B immunization of a minor"} -->
+# Public Health Law § 2504-A — Hepatitis B immunization of a minor
+
+[Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 2504-a. Hepatitis B immunization of a minor. 1. A health care
+practitioner may administer immunization against hepatitis B to a person
+under the age of eighteen years without the consent or knowledge of the
+parents or guardian of said person, if said person has capacity to
+consent and consents to the immunization, and said person is housed in a
+state or local correctional facility.
+  2. For the purposes of this section:
+  (a) the term "health care practitioner" shall mean a person licensed,
+certified or otherwise authorized to practice under title eight of the
+education law, acting within his or her lawful scope of practice; and
+  (b) the term "capacity to consent" shall mean an individual's ability,
+determined without regard to the individual's age, to understand and
+appreciate the nature and consequences of the proposed immunization, and
+to make an informed decision concerning the immunization.
+```

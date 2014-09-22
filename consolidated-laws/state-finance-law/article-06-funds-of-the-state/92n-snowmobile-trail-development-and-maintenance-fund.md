@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "State Finance Law § 92-N", "kind": "section", "law_id": "STF", "location_id": "92-N", "path": "ARTICLE 6 › SECTION 92-N", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/92-N.md", "title": "Snowmobile trail development and maintenance fund"} -->
+# State Finance Law § 92-N — Snowmobile trail development and maintenance fund
+
+[State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+```text
+  § 92-n. Snowmobile trail development and maintenance fund. 1. There is
+hereby established in the joint custody of the commissioner of parks,
+recreation and historic preservation and the state comptroller a special
+fund to be known as the "snowmobile trail development and maintenance
+fund". The moneys in such fund shall be available for payment of any and
+all costs and expenditures incurred in performing any of the work
+required in developing and maintaining a system of snowmobile trails
+pursuant to section 27.17 of the parks, recreation and historic
+preservation law, including costs and expenses incidental and
+appurtenant thereto.
+  2. Moneys in the snowmobile trail development and maintenance fund
+shall be kept separately from and shall not be commingled with any other
+moneys in the joint or sole custody of the state comptroller or the
+commissioner of parks, recreation and historic preservation.
+  3. The snowmobile trail development and maintenance fund shall consist
+of the revenues required to be deposited therein pursuant to the
+provisions of section 21.07 of the parks, recreation and historic
+preservation law and section two thousand two hundred thirty-one of the
+vehicle and traffic law, and all other moneys credited or transferred
+thereto from any other fund or source pursuant to law.
+  4. The moneys in such fund shall be appropriated by the legislature
+and paid out pursuant to section 27.17 of the parks, recreation and
+historic preservation law.
+```

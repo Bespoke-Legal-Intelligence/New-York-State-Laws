@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 605", "kind": "section", "law_id": "PML", "location_id": "605", "path": "ARTICLE 6 › SECTION 605", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/605.md", "title": "Policing of off-track betting"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 605 — Policing of off-track betting
+
+[Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 6 — New York City Off-track Betting Corporation](README.md)
+
+```text
+  § 605. Policing of off-track betting. 1. The corporation shall, at its
+own expense, provide such policing as may be necessary to preserve order
+in branch offices and other facilities and premises of the corporation
+and enforce the provisions of this article and the rules and regulations
+promulgated pursuant thereto.
+  2. Such policing shall be provided through employees of the
+corporation designated as: (i) special patrolmen by the police
+commissioner of the city and serving pursuant to the provisions of
+section 14-106 of the administrative code, or (ii) special policemen
+designated in a manner consistent with section five hundred four of this
+chapter. When so designated, such special patrolmen or special policemen
+shall, in the branch offices and the other facilities and premises of
+the corporation, and in the areas within five hundred feet therefrom:
+  a. Be empowered to perform all functions and to enforce all laws,
+rules and regulations mentioned in subdivision one of this section and
+  b. Possess all of the powers and discharge all of the duties of
+regular members of the police force of the city.
+```

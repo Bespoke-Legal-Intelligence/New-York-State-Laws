@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 63", "kind": "section", "law_id": "SCC", "location_id": "63", "path": "ARTICLE 6 › SECTION 63", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/63.md", "title": "Duties of comptroller"} -->
+# Second Class Cities Law § 63 — Duties of comptroller
+
+[Second Class Cities Law](../README.md) › [Article 6 — Department of Finance](README.md)
+
+```text
+  § 63. Duties of comptroller.  The comptroller shall superintend the
+fiscal affairs of the city and manage the same pursuant to law and
+ordinance of the common council.  He shall keep a separate account with
+every department and with each improvement for which funds are
+appropriated or raised by tax or assessment. No warrant shall be drawn
+by him for the payment of any claim against or obligation of the city
+unless it state particularly against which of such funds it is drawn. No
+fund shall be overdrawn nor shall any warrant be drawn against one fund
+to pay a claim chargeable to another. The comptroller shall perform such
+other and further duties, as may from time to time be prescribed by law,
+or by ordinance of the common council, not inconsistent with the
+provisions of this chapter or the other laws of the state.
+```

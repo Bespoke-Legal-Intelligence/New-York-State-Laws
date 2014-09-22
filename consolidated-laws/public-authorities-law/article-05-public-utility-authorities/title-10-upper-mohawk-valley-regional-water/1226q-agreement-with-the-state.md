@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1226-Q", "kind": "section", "law_id": "PBA", "location_id": "1226-Q", "path": "ARTICLE 5 › TITLE 10 › SECTION 1226-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1226-Q.md", "title": "Agreement with the state"} -->
+# Public Authorities Law § 1226-Q — Agreement with the state
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 10 — Upper Mohawk Valley Regional Water Finance Authority](README.md)
+
+```text
+  § 1226-q. Agreement with the state. The state does hereby pledge to
+and agree with the holders of any bonds issued by the authority pursuant
+to this title and with those persons or public corporations who may
+enter into contracts with the authority pursuant to the provisions of
+this title that the state will not alter, limit or impair the rights
+hereby vested in the authority to purchase, construct, own and operate,
+maintain, repair, improve, reconstruct, renovate, rehabilitate, enlarge,
+increase and extend, or dispose of any project, or any part or parts
+thereof for which bonds of the authority shall have been issued, to
+establish and collect rates, rents, fees and other charges referred to
+in this title, to fulfill the terms of any contracts or agreements made
+with or for the benefit of the holders of bonds or with any person or
+public corporation with reference to such project or part thereof, or in
+any way to impair the rights and remedies of the holders of bonds, until
+the bonds, together with interest thereon, including interest on any
+unpaid installments of interest, and all costs and expenses in
+connection with any action or proceeding by or on behalf of the holders
+of bonds, are fully met and discharged and such contracts are fully
+performed on the part of the authority. The authority is authorized to
+include this pledge and agreement of the state in any agreement with the
+holders of bonds.
+```

@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Medical Care Facilities Finance Agency § 18", "kind": "section", "law_id": "MCF", "location_id": "18", "path": "SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:MCF/18.md", "title": "Annual report"} -->
+# Medical Care Facilities Finance Agency § 18 — Annual report
+
+[Medical Care Facilities Finance Agency](README.md)
+
+```text
+  § 18. Annual report. The agency shall submit to the governor, the
+chairman of the senate finance committee, the chairman of the assembly
+ways and means committee, the comptroller and the director of the budget
+within one hundred eighty days after the end of its fiscal year, a
+complete and detailed report setting forth: (1) its operations and
+accomplishments; (2) its receipts and expenditures during such fiscal
+year in accordance with the categories or classifications established by
+the agency for its operating and capital outlay purposes, including a
+listing of all private consultants engaged by the agency on a contract
+basis and a statement of the total amount paid to each such private
+consultant; (3) its assets and liabilities at the end of its fiscal
+year, including a schedule of its mortgage loans and commitments and the
+status of reserve, special or other funds; and (4) a schedule of its
+bonds and notes outstanding at the end of its fiscal year, together with
+a statement of the amounts redeemed and incurred during such fiscal
+year.
+```

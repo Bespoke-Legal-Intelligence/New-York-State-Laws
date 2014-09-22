@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 238", "kind": "section", "law_id": "GMU", "location_id": "238", "path": "ARTICLE 12-A › SECTION 238", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/238.md", "title": "Private streets"} -->
+# General Municipal Law § 238 — Private streets
+
+[General Municipal Law](../README.md) › [Article 12-A — City and Village Planning Commissions](README.md)
+
+```text
+  § 238. Private streets. The body creating such planning commission may
+at any time, by ordinance or resolution provide that no plan, plot or
+description, showing the layout of any highway or street upon private
+property, or of building lots in connection with or in relation to such
+highway or street shall, within the limits of any municipality having a
+planning commission, as aforesaid, be received for record in the office
+of the clerk of the county where such real property is situated, until a
+copy of said plan, plot or description has been filed with said
+commission and it has certified, with relation thereto, its approval
+thereof. Such certificate shall be recorded as a part of the record of
+said original instrument containing said plan, plot, or description. No
+such street or highway which has not received the approval of the
+planning commission shall be accepted by said city or village until the
+matter has been referred to such commission under the provision of
+section two hundred and thirty-six of this article. But if any such
+street is plotted or laid out in accordance with the map of said
+municipality, adopted according to law, then it shall not be necessary
+to file such copy, or obtain or record such certificate.
+```

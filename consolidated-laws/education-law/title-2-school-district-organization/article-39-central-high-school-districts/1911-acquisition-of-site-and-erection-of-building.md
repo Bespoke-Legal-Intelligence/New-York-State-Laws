@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Education Law § 1911", "kind": "section", "law_id": "EDN", "location_id": "1911", "path": "TITLE 2 › ARTICLE 39 › SECTION 1911", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/1911.md", "title": "Acquisition of site and erection of building"} -->
+# Education Law § 1911 — Acquisition of site and erection of building
+
+[Education Law](../../README.md) › [Title 2 — School District Organization](../README.md) › [Article 39 — Central High School Districts](README.md)
+
+```text
+  § 1911. Acquisition of site and erection of building.  1. The board of
+education of a central high school district shall, when the site of the
+said high school building shall have been designated as provided herein,
+submit to the qualified electors of such district a proposition
+authorizing the levy and collection of a tax, in one sum or by
+installments, sufficient in amount for the purchase or acquisition of
+such site.
+  2. The said board of education shall also submit to the qualified
+electors of the said central high school district a proposition
+authorizing the levy and collection of a tax, in one sum or in
+installments, for the erection on such site of a new building suitable
+for high school purposes and for the construction of such improvements
+or structures on such site as may be required for the establishment and
+maintenance of a high school in such district.
+  3. Such propositions shall be voted upon by the qualified electors of
+the district at a meeting called by the board of education of such
+central high school district, and for the purpose of voting upon such
+propositions the said district shall be deemed to be a school district
+and the provisions of this chapter relative to district meetings and the
+adoption of propositions authorizing the levy of school taxes shall
+apply to meetings held in such central high school district for the
+purposes herein specified.
+```

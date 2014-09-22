@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Second Class Cities Law § 242", "kind": "section", "law_id": "SCC", "location_id": "242", "path": "ARTICLE 16 › SECTION 242", "repealed": false, "repealed_date": null, "source": "nys-laws:SCC/242.md", "title": "Inhabitants not incompetent; place of trial of actions and proceedings"} -->
+# Second Class Cities Law § 242 — Inhabitants not incompetent; place of trial of actions and proceedings
+
+[Second Class Cities Law](../README.md) › [Article 16 — Miscellaneous Provisions](README.md)
+
+```text
+  § 242. Inhabitants not incompetent; place of trial of actions and
+proceedings.  Upon the trial of any issue or the prosecution of any
+proceeding, or upon the taking or making of any inquisition, appraisal
+or award, or upon the judicial investigation of any facts whatever, to
+which issue, proceedings, inquest, investigation or award the city is a
+party, or in which the city may, in any way, be interested, no person
+shall be deemed incompetent as a judge, referee, commissioner, witness
+or juror by reason of his being an inhabitant, freeholder or taxpayer of
+the city. The place of trial of all actions and proceedings against the
+city, or any of its officers, boards or departments shall be the county
+in which the city is situated.
+```

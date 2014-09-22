@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1712", "kind": "section", "law_id": "RPA", "location_id": "1712", "path": "ARTICLE 17 › SECTION 1712", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1712.md", "title": "By whom maintainable"} -->
+# Real Property Actions and Proceedings Law § 1712 — By whom maintainable
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 17 — Special Proceeding For Disposition of Real Property of Infant, Incompetent or Conservatee](README.md)
+
+```text
+  § 1712. By whom maintainable. The special proceeding may be maintained
+by the general or testamentary guardian of the property of the infant,
+by the committee of the property of the incompetent person or the
+conservator of the property of the conservatee, or by any relative or
+other person in behalf of the infant, incompetent person, or conservatee
+or by an infant of the age of fourteen years or over in his own behalf.
+  The special proceeding may be maintained, in a case specified in
+subdivisions 3 and 4 of section 1711, by a person entitled to the
+conveyance; and, also, in a case specified in subdivision 4 of that
+section, by the executor or administrator of the person who made the
+contract, or of a person who died seized or possessed of the real
+property or interest in real property, or by an heir or devisee of
+either of those persons, to whom the real property or interest in real
+property has descended or was devised. Where the proceeding is in behalf
+of an infant of the age of fourteen years or over the infant shall join
+therein.
+```

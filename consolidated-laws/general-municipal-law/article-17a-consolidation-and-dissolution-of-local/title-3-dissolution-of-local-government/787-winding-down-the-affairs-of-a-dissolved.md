@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 787", "kind": "section", "law_id": "GMU", "location_id": "787", "path": "ARTICLE 17-A › TITLE 3 › SECTION 787", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/787.md", "title": "Winding down the affairs of a dissolved local government entity"} -->
+# General Municipal Law § 787 — Winding down the affairs of a dissolved local government entity
+
+[General Municipal Law](../../README.md) › [Article 17-A — Consolidation and Dissolution of Local Government](../README.md) › [Title 3 — Dissolution of Local Government Entities](README.md)
+
+```text
+  § 787. Winding down the affairs of a dissolved local government
+entity. 1. Upon the successful completion of dissolution proceedings
+pursuant to this title, the governing body of the dissolving local
+government entity shall wind down the affairs thereof, dispose of its
+property as provided by law, make provisions for the payment of all
+indebtedness thereof and for the performance of its contracts and
+obligations, and, if applicable and appropriate under law, levy taxes
+and assessments as necessary to accomplish the dissolution.
+  2. In furtherance of its duty to wind down the affairs of the local
+government entity, the governing body shall cause notice to be given, in
+the same manner as notice for a proposed dissolution plan pursuant to
+section seven hundred seventy-five of this title, requiring all claims
+against the dissolving local government entity, excluding any of its
+outstanding securities, to be filed within a time fixed in the notice,
+but not less than three months or more than six months, and all claims
+not so filed shall be forever barred. At the expiration of such time the
+governing body shall adjudicate claims so filed, and any resident of the
+entity at the time of the effective date of the dissolution may appear
+and defend against any claim so filed, or the governing body may in its
+discretion appoint some person for that purpose.
+```

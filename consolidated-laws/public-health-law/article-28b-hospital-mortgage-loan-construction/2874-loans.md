@@ -1,0 +1,45 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2874", "kind": "section", "law_id": "PBH", "location_id": "2874", "path": "ARTICLE 28-B › SECTION 2874", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2874.md", "title": "Loans"} -->
+# Public Health Law § 2874 — Loans
+
+[Public Health Law](../README.md) › [Article 28-B — Hospital Mortgage Loan Construction](README.md)
+
+```text
+  § 2874. Loans. 1. Any eligible borrower may, subject to the approval
+of the commissioner, borrow funds from the agency and the repayment
+thereof may be secured by bond or note and mortgage or other agreement
+which shall contain such terms and conditions as may be deemed necessary
+or desirable by the agency or required by any agreement between the
+agency and the holders of its notes and bonds, including the right to
+assignment of rates and charges and entry into possession in case of
+default, but the operation of such project, in the event of such entry,
+shall be subject to regulations promulgated by the commissioner.
+  2. The agency may make contracts to make loans to an eligible borrower
+in an amount not to exceed the total project cost. Any such loan which
+constitutes a mortgage loan as defined in the New York state medical
+care facilities finance agency act shall be secured by a first mortgage
+lien upon all the real property and improvements of which the project
+consists and upon all personal property attached to or used in
+connection with the operation of the project. In the case of a mortgage
+loan in an amount greater than ninety per centum of the total project
+cost, the commissioner may, in his discretion, require satisfactory
+independent guarantees that the loan will be repaid according to the
+terms of the bond or note and mortgage of the eligible borrower. Any
+mortgage loan may be further secured by such a lien upon other real
+property owned by the eligible borrower. Notwithstanding the foregoing
+provisions of this subdivision or any other provision of this article to
+the contrary, any personal property may be excluded from the lien of the
+mortgage securing such a mortgage loan, provided (a) the commissioner
+finds that such property is not essential for the rendition of required
+hospital services as such term is defined in article twenty-eight of
+this chapter, and (b) the agency consents to such exclusion.
+  3. In connection with assistance grants which are made by the state,
+federal government or a municipality to reimburse the eligible borrower
+for project costs which have been paid for by such eligible borrower
+from the proceeds of a loan or such other funds which are legally made
+available to the eligible borrower, the eligible borrower shall hold and
+apply such assistance grants in accordance with the requirements of the
+commissioner and the agency.
+  4. Any inconsistent provision of law to the contrary notwithstanding,
+mortgages of an eligible borrower shall be exempt from the mortgage
+recording taxes imposed by article eleven of the tax law.
+```

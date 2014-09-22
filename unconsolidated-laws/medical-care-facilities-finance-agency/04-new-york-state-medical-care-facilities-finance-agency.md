@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Medical Care Facilities Finance Agency § 4", "kind": "section", "law_id": "MCF", "location_id": "4", "path": "SECTION 4", "repealed": false, "repealed_date": null, "source": "nys-laws:MCF/4.md", "title": "New York state medical care facilities finance agency"} -->
+# Medical Care Facilities Finance Agency § 4 — New York state medical care facilities finance agency
+
+[Medical Care Facilities Finance Agency](README.md)
+
+```text
+  § 4. New York state medical care facilities finance agency. There is
+hereby created the New York state medical care facilities finance
+agency. The agency shall be a corporate governmental agency constituting
+a public benefit corporation. From and after the effective date of the
+health care financing consolidation act, as provided in subdivision 1 of
+section 1699-f of the public authorities law, the agency shall continue
+its corporate existence in and through the dormitory authority, and the
+dormitory authority shall succeed to the powers, duties and functions of
+the agency.
+```

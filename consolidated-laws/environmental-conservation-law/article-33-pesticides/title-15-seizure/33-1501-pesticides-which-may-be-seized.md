@@ -1,0 +1,42 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 33-1501", "kind": "section", "law_id": "ENV", "location_id": "33-1501", "path": "ARTICLE 33 › TITLE 15 › SECTION 33-1501", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/33-1501.md", "title": "Pesticides which may be seized"} -->
+# Environmental Conservation Law § 33-1501 — Pesticides which may be seized
+
+[Environmental Conservation Law](../../README.md) › [Article 33 — Pesticides](../README.md) › [Title 15 — Seizure](README.md)
+
+```text
+§ 33-1501. Pesticides which may be seized.
+  1. Any pesticide that is distributed, sold, offered for sale or used
+within this state or delivered for transportation or transported in
+intrastate commerce or between points within this state through any
+point outside this state may be seized for confiscation or be made the
+subject of a stop-use order:
+  a. If it is adulterated or misbranded, or if it has not been
+registered as required under this article;
+  b. If it fails to bear on its label the information required by this
+article;
+  c. If it is a white powder pesticide and is not colored as required
+under this article;
+  d. If a permit required by this article has not been issued in respect
+to such pesticide; or
+  e. If there is probable cause to believe a pesticide is being used in
+violation of any provision of this article, title three of article
+fifteen of this chapter or rules or regulations promulgated pursuant to
+any such provision.
+  2. Whenever the commissioner or his duly authorized representative
+shall find distributed, sold, exposed or offered for sale within this
+state any pesticide which is adulterated or misbranded as defined in
+this article, or which fails to bear on its label the information
+required by this article, or which is not colored or registered as
+required under this article, or for which a permit has not been issued
+for its sale, offer for sale, purchase, possession or use as required by
+this article, he may seize or destroy such pesticide.
+  3. Whenever the commissioner finds, or has probable cause to believe,
+that a pesticide is being used in violation of any provision of this
+article, title three of article fifteen of this chapter, or rules and
+regulations promulgated pursuant thereto, the commissioner may issue a
+stop-use order requiring the user of the pesticide immediately to cease
+using such pesticide and immediately to remove such pesticide to the
+specified location. Within thirty days of the issuance of a stop-use
+order, the commissioner shall either rescind the stop-use order or
+commence a proceeding to seize and destroy such pesticides.
+```

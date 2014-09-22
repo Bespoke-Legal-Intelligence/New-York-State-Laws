@@ -1,0 +1,69 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1407", "kind": "section", "law_id": "TAX", "location_id": "1407", "path": "ARTICLE 31 › SECTION 1407", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1407.md", "title": "Designation of agents"} -->
+# Tax Law § 1407 — Designation of agents
+
+[Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
+
+```text
+  § 1407. Designation of agents. (a) The commissioner of taxation and
+finance is authorized to designate such banks, trust companies, savings
+banks, New York state branches of a foreign bank, industrial banks,
+savings and loan associations, national banking associations, federal
+savings and loan associations, title insurance corporations and
+recording officers as he shall deem necessary to act as his agent for
+purposes of collecting the tax imposed by this article. The commissioner
+of taxation and finance shall provide for the manner in which any such
+person may be designated as his agent subject to such terms and
+conditions as he shall prescribe. The real estate transfer tax shall be
+paid to such agents as provided in section fourteen hundred ten of this
+article. At the time such a person shall be designated as an agent of
+the commissioner of taxation and finance, the commissioner of taxation
+and finance shall prescribe whether such agent shall collect the real
+estate transfer tax through the sale of documentary stamps, through the
+use of a metering machine, by any other method which the commissioner of
+taxation and finance, by regulation, may provide, or by one or more of
+such methods.
+  (b) Every person designated to act as an agent pursuant to subdivision
+(a) of this section shall remit to the commissioner of taxation and
+finance any funds collected by such agent and any returns filed with
+such agent under this article, less any fee allowed under subdivision
+(c) of this section, at such times as the commissioner of taxation and
+finance shall prescribe and shall follow such procedures and keep such
+records as the commissioner of taxation and finance may prescribe. Each
+county (other than the counties comprising New York city) and New York
+city shall pay all expenses occasioned by the duties of their respective
+recording officers to collect the tax imposed by this article, including
+any expense for extra clerks.
+  (c) Every recording officer designated to act as such agent shall
+retain, from the real estate transfer tax which he collects, the sum of
+one dollar for each of the first five thousand conveyances accepted for
+recording and for which he has issued a documentary stamp or metering
+machine stamp or upon which instrument effecting the conveyance he has
+noted payment of the tax or that no tax is due, pursuant to any other
+method for payment of the tax provided for in the regulations of the
+commissioner of taxation and finance, during each annual period
+commencing on the first day of August and ending on the next succeeding
+thirty-first day of July and seventy-five cents for each conveyance in
+excess of five thousand accepted for recording and for which he has
+issued such a stamp or upon which instrument effecting the conveyance he
+has noted payment of the tax or that no tax is due, pursuant to such
+other method, during such annual period. Such fee shall be payable even
+though the stamp issued or such notation shows that no tax is due. Such
+a fee paid to the register of the city of New York shall belong to the
+city of New York and such a fee paid to a recording officer of a county
+outside such city shall belong to such officer's county. With respect to
+any other agents designated to act pursuant to subdivision (a) of this
+section, the commissioner of taxation and finance shall have the power
+to provide, at his discretion, for payment of a fee to such agent, in
+such manner and amount and subject to such limitations as he may
+determine, but any such fee for any annual period shall not be greater
+than the sum of one dollar for each of the first five thousand
+conveyances for which such agent has issued a documentary stamp or
+metering machine stamp or upon which instrument effecting the conveyance
+he has noted payment of the tax or that no tax is due, pursuant to any
+other method for payment of the tax provided for in the regulations of
+the commissioner of taxation and finance, during such annual period and
+seventy-five cents for each conveyance in excess of five thousand for
+which such agent has issued such a stamp or upon which instrument
+effecting the conveyance such agent has noted payment of the tax or that
+no tax is due, pursuant to such other method, during such annual period.
+```

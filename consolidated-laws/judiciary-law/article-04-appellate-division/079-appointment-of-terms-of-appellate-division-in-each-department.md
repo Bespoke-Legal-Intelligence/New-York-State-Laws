@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 79", "kind": "section", "law_id": "JUD", "location_id": "79", "path": "ARTICLE 4 › SECTION 79", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/79.md", "title": "Appointment of terms of appellate division in each department"} -->
+# Judiciary Law § 79 — Appointment of terms of appellate division in each department
+
+[Judiciary Law](../README.md) › [Article 4 — Appellate Division](README.md)
+
+```text
+  § 79. Appointment of terms of appellate division in each department.
+The terms of the appellate divisions of the supreme court are to be
+appointed by the appellate division in each department, and are to be
+held at such times and places and shall continue as long as the
+appellate division deems proper.
+  An appointment of a term or terms of an appellate division must be
+made and filed in the office of court administration at least thirty
+days before the commencement of such term or terms. The governor may,
+when in his opinion the public interest so requires, appoint one or more
+extraordinary terms of the appellate division of the supreme court in
+any department. He must designate the time and place of holding the same
+and he must give notice of the appointment in such manner as, in his
+judgment, the public interest requires.
+```

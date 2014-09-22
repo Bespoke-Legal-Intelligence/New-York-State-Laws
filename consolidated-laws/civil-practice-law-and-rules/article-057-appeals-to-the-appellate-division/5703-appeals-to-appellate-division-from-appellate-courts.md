@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 5703", "kind": "section", "law_id": "CVP", "location_id": "5703", "path": "ARTICLE 57 › SECTION 5703", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/5703.md", "title": "Appeals to appellate division from appellate courts"} -->
+# Civil Practice Law and Rules § 5703 — Appeals to appellate division from appellate courts
+
+[Civil Practice Law and Rules](../README.md) › [Article 57 — Appeals to the Appellate Division](README.md)
+
+```text
+  § 5703. Appeals to appellate division from appellate courts.  (a) From
+appellate terms. An appeal may be taken to the appellate division, from
+an order of the appellate term which determines an appeal from a
+judgment or order of a lower court, by permission of the appellate term
+or, in case of refusal, of the appellate division. When permission to
+appeal is sought from an order granting or affirming the granting of a
+new trial or hearing, the appellant shall stipulate that, upon
+affirmance, judgment absolute may be entered against him.
+  (b) From other appellate courts. An appeal may be taken to the
+appellate division as of right from an order of a county court or a
+special term of the supreme court which determines an appeal from a
+judgment of a lower court.
+```

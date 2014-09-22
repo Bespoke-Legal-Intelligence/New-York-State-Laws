@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Real Property Actions and Proceedings Law § 1362", "kind": "section", "law_id": "RPA", "location_id": "1362", "path": "ARTICLE 13 › SECTION 1362", "repealed": false, "repealed_date": null, "source": "nys-laws:RPA/1362.md", "title": "Payment of surplus out of court"} -->
+# Real Property Actions and Proceedings Law § 1362 — Payment of surplus out of court
+
+[Real Property Actions and Proceedings Law](../README.md) › [Article 13 — Action to Foreclose a Mortgage](README.md)
+
+```text
+  § 1362. Payment of surplus out of court. 1. Upon confirmation of the
+report of sale, or upon such proceedings as are provided in section
+1361, the court shall order the payment of the surplus proceeds of sale
+out of court to such persons as are entitled thereto.
+  2. If the property sold has included a right to dower, whether
+inchoate or consummate, a tendency by curtesy, or any other estate for
+life or years, the owner of such particular estate in the real property
+sold is entitled to receive from the surplus, in satisfaction of his
+estate or interest, either a sum in gross or the earnings of a sum
+invested for his benefit. The determination as to whether a sum in gross
+or the earnings of a sum invested shall be awarded to the owner of such
+particular estate shall be governed by the provisions of section 968
+with respect to the proceeds of a sale in partition.
+  3. If real property or an interest in real property which is liable to
+be disposed of as prescribed in article thirteen of the surrogate's
+court act, be sold to satisfy a mortgage or other lien thereon, which
+mortgage or lien accrued during the decedent's lifetime, the surplus
+money shall be paid in to the surrogate's court having jurisdiction to
+issue letters testamentary or of administration upon the estate of the
+decedent, in the following cases: (a) If eighteen months have not
+elapsed since the date when letters testamentary or of administration
+were first issued.  (b) If a proceeding for a judicial settlement of the
+accounts of such executor or administrator has been commenced within
+eighteen months from the date of the issue of such letters and is still
+pending. (c) If no such letters have been issued and two years have not
+elapsed since the death of the decedent.
+```

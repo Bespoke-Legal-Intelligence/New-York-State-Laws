@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 452", "kind": "section", "law_id": "PBH", "location_id": "452", "path": "ARTICLE 4 › TITLE 4 › SECTION 452", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/452.md", "title": "Directors of hospitals; general powers and duties"} -->
+# Public Health Law § 452 — Directors of hospitals; general powers and duties
+
+[Public Health Law](../../README.md) › [Article 4 — Property and Hospitals In the Department of Health](../README.md) › [Title 4 — Hospitals: Officers and Employees](README.md)
+
+```text
+  § 452. Directors of hospitals; general powers and duties. 1. The
+director of each hospital in the department shall be the executive
+officer of the hospital and shall:
+  (a) be in immediate charge of the activities and management of the
+hospital, subject to the supervision and control of the commissioner;
+  (b) except as otherwise provided with respect to the treasurer, and
+subject to the approval of the commissioner, appoint and remove all
+members of the staff and all other employees of the hospital;
+  (c) annually, in the month of January, report to the commissioner of
+the activities of the hospital for the calendar year ending with the
+preceding thirty-first day of December;
+  (d) submit at each meeting of the board of visitors, a report showing
+changes in population, health of patients, officers and employees;
+accidents, suicides, unusual sickness, communicable diseases; important
+occurrences relating to the welfare of the patients and to the
+management and discipline of the employees, and such other matters as
+the board of visitors may specify; and,
+  (e) perform such other duties as the commissioner may require.
+  2. Nothing in this chapter shall prevent the adoption, by any director
+of a hospital in the department, of rules pertaining to duties of
+officers and employees of the hospital under his charge or for internal
+government, discipline and management of the hospital, consistent with
+the provisions of the civil service law, the rules promulgated pursuant
+thereto and the rules of the commissioner, but any rule of the director
+shall be subject to revocation or suspenison by the commissioner.
+```

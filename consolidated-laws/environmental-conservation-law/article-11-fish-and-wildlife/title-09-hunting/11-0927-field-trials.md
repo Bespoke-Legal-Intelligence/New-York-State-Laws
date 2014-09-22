@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-0927", "kind": "section", "law_id": "ENV", "location_id": "11-0927", "path": "ARTICLE 11 › TITLE 9 › SECTION 11-0927", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-0927.md", "title": "Field trials"} -->
+# Environmental Conservation Law § 11-0927 — Field trials
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 9 — Hunting](README.md)
+
+```text
+§ 11-0927. Field trials.
+  1. No person shall hold a field trial except as provided in this
+section or take part in a field trial not conducted in accordance with
+the provisions of this section.
+  2. a. A field trial may be held on liberated game, liberated
+artificially propagated game, led or confined game legally possessed, or
+on wild game on a licensed dog training area at any time without
+license, provided such game is not taken by shooting or otherwise
+killed; and, on areas other than a licensed dog training area, such
+field trials may be held on wild game from August 16 to April 15 without
+license, or at such other times when licensed by the department from
+April 16 to August 15.
+  b. A permit from the department is required for liberation of any
+wildlife.
+  3. Wild game shall not be taken by shooting or otherwise killed in the
+course of a field trial. Other game on which a field trial may be held
+as provided in this section may be taken by shooting in the course of a
+field trial, except a field trial held on a licensed dog training area,
+provided a license for such shooting has been procured from the
+department. Game so taken shall be immediately identified on forms
+provided by the department until the game is finally prepared for
+consumption.
+  4. Game so identified may be possessed, transported, bought and sold
+at any time, without limitation by section 11-0917 of this article.
+```

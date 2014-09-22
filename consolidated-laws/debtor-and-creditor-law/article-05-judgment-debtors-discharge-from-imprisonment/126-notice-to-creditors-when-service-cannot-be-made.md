@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 126", "kind": "section", "law_id": "DCD", "location_id": "126", "path": "ARTICLE 5 › SECTION 126", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/126.md", "title": "Notice to creditors; when service cannot be made"} -->
+# Debtor and Creditor Law § 126 — Notice to creditors; when service cannot be made
+
+[Debtor and Creditor Law](../README.md) › [Article 5 — Judgment Debtor's Discharge From Imprisonment](README.md)
+
+```text
+  § 126. Notice to creditors; when service cannot be made. The papers,
+specified in the last section, may be served, either upon the creditor
+or his representative, or upon the attorney whose name is subscribed to
+the execution; and, in either case, in the manner prescribed in the
+civil practice law and rules for the service of a paper upon an
+attorney, in an action in the supreme court. Where it is made to appear
+by affidavit, to the satisfaction of the court, that service cannot,
+with due diligence, be so made within the state, upon either, the court
+may make an order, prescribing the mode of service, or directing the
+publication of a notice in lieu of service, in such manner and for such
+a length of time, as it thinks proper; and thereupon, it may direct an
+adjournment of the hearing to such a time as it thinks proper.
+```

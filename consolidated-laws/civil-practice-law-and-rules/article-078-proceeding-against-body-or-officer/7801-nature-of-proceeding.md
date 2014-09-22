@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 7801", "kind": "section", "law_id": "CVP", "location_id": "7801", "path": "ARTICLE 78 › SECTION 7801", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/7801.md", "title": "Nature of proceeding"} -->
+# Civil Practice Law and Rules § 7801 — Nature of proceeding
+
+[Civil Practice Law and Rules](../README.md) › [Article 78 — Proceeding Against Body or Officer](README.md)
+
+```text
+  § 7801. Nature of proceeding. Relief previously obtained by writs of
+certiorari to review, mandamus or prohibition shall be obtained in a
+proceeding under this article. Wherever in any statute reference is made
+to a writ or order of certiorari, mandamus or prohibition, such
+reference shall, so far as applicable, be deemed to refer to the
+proceeding authorized by this article. Except where otherwise provided
+by law, a proceeding under this article shall not be used to challenge a
+determination:
+  1. which is not final or can be adequately reviewed by appeal to a
+court or to some other body or officer or where the body or officer
+making the determination is expressly authorized by statute to rehear
+the matter upon the petitioner's application unless the determination to
+be reviewed was made upon a rehearing, or a rehearing has been denied,
+or the time within which the petitioner can procure a rehearing has
+elapsed; or
+  2. which was made in a civil action or criminal matter unless it is an
+order summarily punishing a contempt committed in the presence of the
+court.
+```

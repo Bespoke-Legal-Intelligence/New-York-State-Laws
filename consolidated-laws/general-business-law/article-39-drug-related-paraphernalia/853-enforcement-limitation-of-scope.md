@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 853", "kind": "section", "law_id": "GBS", "location_id": "853", "path": "ARTICLE 39 › SECTION 853", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/853.md", "title": "Enforcement; limitation of scope"} -->
+# General Business Law § 853 — Enforcement; limitation of scope
+
+[General Business Law](../README.md) › [Article 39 — Drug-related Paraphernalia](README.md)
+
+```text
+  § 853. Enforcement; limitation of scope. 1. The attorney general or
+any state or local health officer, town, village or city attorney, or
+the chief executive officer of a municipality may institute an action in
+a court of competent jurisdiction to enjoin any activity prohibited
+pursuant to section eight hundred fifty-one of this chapter. If such
+court finds that any person, firm or corporation has sold or offered for
+sale any drug-related paraphernalia, it shall assess civil penalties
+against such person, firm or corporation in an amount not less than one
+thousand dollars nor more than ten thousand dollars for each such
+violation.
+  2. This article shall not apply to any sale, furnishing or possession
+which is lawful under section 3381 of the public health law.
+  * 3. This article shall not apply to any sale, furnishing or
+possession which is for a lawful purpose under title five-A of article
+thirty-three of the public health law.
+  * NB Repealed July 5, 2021
+```

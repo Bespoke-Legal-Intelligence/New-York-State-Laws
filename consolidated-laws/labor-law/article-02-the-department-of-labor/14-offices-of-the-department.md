@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 14", "kind": "section", "law_id": "LAB", "location_id": "14", "path": "ARTICLE 2 › SECTION 14", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/14.md", "title": "Offices of the department"} -->
+# Labor Law § 14 — Offices of the department
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 14. Offices of the department. The principal office of the
+department shall be in the city of Albany in rooms designated by the
+commissioner of general services as provided by law. There shall be a
+branch office in the city of New York and other branch offices may be
+established and maintained by the department in such places as the
+industrial commissioner may determine and for which appropriations are
+made by the legislature. The industrial commissioner may, with the
+commissioner of commerce and the commissioner of transportation, develop
+and institute a procedure for the uniform collection of employment and
+economic data within the state for use in connection with the scheduling
+of public works projects.
+```

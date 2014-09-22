@@ -1,0 +1,289 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 480-A", "kind": "section", "law_id": "TAX", "location_id": "480-A", "path": "ARTICLE 20 › SECTION 480-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/480-A.md", "title": "Retail dealer and vending machine registration"} -->
+# Tax Law § 480-A — Retail dealer and vending machine registration
+
+[Tax Law](../README.md) › [Article 20 — Tax On Cigarettes and Tobacco Products](README.md)
+
+```text
+  § 480-a. Retail dealer and vending machine registration. 1. (a) On and
+after January first, nineteen hundred ninety-one, every retail dealer
+shall publicly display a certificate of registration from the department
+in each place of business in this state through which it sells
+cigarettes or tobacco products at retail. A retail dealer who has no
+regular place of business shall publicly display such certificate on
+each of its carts, stands, trucks or other merchandising devices through
+which it sells cigarettes or tobacco products in this state.
+  (b) Every person who owns or, if the owner is not the operator, then
+any person who operates one or more vending machines through which
+cigarettes or tobacco products are sold in this state, regardless of
+whether located on the premises of the vending machine owner or, if the
+owner is not the operator, then the premises of the operator or the
+premises of any other person, must register each such vending machine
+with the department. On and after January first, nineteen hundred
+ninety-one, a vending machine registration certificate, in such form as
+may be prescribed by the commissioner of taxation and finance, shall be
+affixed to each vending machine through which cigarettes or tobacco
+products are sold in this state.
+  (c) Registrations of retail dealers and vending machines shall be
+valid for a calendar year period upon payment of the fee prescribed in
+subdivision two of this section and must be renewed each year upon
+payment of such fee. A registration shall not be assignable or
+transferable. In the case of retail dealers a registration certificate
+shall be surrendered to the department immediately upon the retail
+dealer's ceasing to do business as specified in the registration
+certificate, or in the event that such business never commenced.
+  (d) (i) The commissioner shall not register retail dealers or such
+registration may be cancelled or suspended by the commissioner upon
+notification that the applicant or retail dealer has been convicted in a
+criminal proceeding of a violation of subdivision five of section 260.20
+of the penal law or as directed by an enforcement officer pursuant to
+article thirteen-F of the public health law. The clerk of the court
+shall promptly report all criminal convictions under subdivision five of
+section 260.20 of the penal law to the commissioner, together with a
+direction to the commissioner to cancel such registration or to suspend
+it for a specified period of time. Anything to the contrary in any law
+notwithstanding, retail dealers shall have no right to a hearing under
+this chapter and shall have no right to commence a court action or
+proceeding or to any other legal recourse against the commissioner with
+respect to any action taken by the commissioner under this paragraph,
+provided nothing herein shall be construed to deny retail dealers a
+hearing under article thirteen-F of the public health law or to prohibit
+retail dealers from commencing a court action or proceeding against an
+enforcement officer as defined in section thirteen hundred
+ninety-nine-aa of the public health law.
+  (ii) Anything to the contrary in any law notwithstanding, the
+commissioner shall provide upon request to an enforcement officer as
+defined in section thirteen hundred ninety-nine-aa of the public health
+law such registration information as is relevant and necessary for the
+implementation of article thirteen-F of the public health law.
+  (e) The commissioner may refuse to register as a retail dealer or may
+revoke the registration of a retail dealer where the applicant's or
+retail dealer's place of business is at the same premises as that of a
+retail dealer whose retail dealer registration has been revoked and
+where such revocation is still in effect, unless the applicant or retail
+dealer provides the commissioner with adequate documentation
+demonstrating that such applicant or retail dealer acquired the premises
+or business through an arm's length transaction as defined in this
+paragraph and that the sale or lease was not conducted, in whole or in
+part, for the purpose of permitting the original registrant to avoid the
+effect of the previous revocation for the same premises. For purposes of
+this paragraph, "arm's length transaction" means a sale of a fee or all
+undivided interests in real property, or lease of any part thereof, or a
+sale of a business, in good faith and for valuable consideration, that
+reflects the fair market value of such real property or lease, or
+business, in the open market, between two informed and willing parties,
+where neither is under any compulsion to participate in the transaction,
+unaffected by any unusual conditions indicating a reasonable possibility
+that the sale or lease was made for the purpose of permitting the
+original registrant to avoid the effect of the previous revocation for
+the same premises. The following sales or leases shall be presumed not
+to be arm's length transactions unless adequate documentation is
+provided demonstrating that the sale or lease was not conducted, in
+whole or in part, for the purpose of permitting the original registrant
+to avoid the effect of the previous revocation for the same premises:
+  (i) a sale between relatives; or
+  (ii) a sale between related companies or partners in a business; or
+  (iii) a sale or lease affected by other facts or circumstances that
+would indicate that the sale or lease is entered into for the primary
+purpose of permitting the original registrant to avoid the effect of the
+previous revocation for the same premises.
+  2. (a) (i) Every retail dealer and every person owning or, if the
+owner is not the operator, then any person operating one or more vending
+machines through which cigarettes or tobacco products are sold in this
+state, who is required under section eleven hundred thirty-six of this
+chapter to file a return for the quarterly period ending on the last day
+of August, nineteen hundred ninety or for the quarterly period ending on
+the last day of August in any year thereafter, must file an application
+for registration under this section with that quarterly return, in such
+form as shall be prescribed by the commissioner.
+  (ii) Each retail dealer must pay an application fee with the quarterly
+return of three hundred dollars for each retail place of business in
+this state through which it sells cigarettes or tobacco products.
+  (iii) Every person who owns or, if the owner is not the operator, then
+any person who operates one or more vending machines through which
+cigarettes or tobacco products are sold in this state, regardless of
+whether located on the premises of the vending machine owner or, if the
+owner is not the operator, then the premises of the operator or the
+premises of any other person, must pay an application fee with the
+quarterly return of one hundred dollars for each vending machine. The
+department will issue a registration certificate, as prescribed by the
+commissioner, after receipt of a registration application and the
+appropriate registration fee, prior to the next succeeding January
+first.
+  (b) Every retail dealer and every person who owns or, if the owner is
+not the operator, then any person who operates one or more vending
+machines through which cigarettes or tobacco products are sold in this
+state who commences business after the last day of August, nineteen
+hundred ninety, or who commences selling cigarettes or tobacco products
+at retail through a new or different place of business in this state
+after such date, or who commences selling cigarettes or tobacco products
+through new or different vending machines after such date, must file
+with the commissioner an application for registration, in a form
+prescribed by him or her, at least thirty days prior to commencing
+business or commencing sales. Each application must be accompanied by an
+application fee of three hundred dollars for each retail place of
+business and one hundred dollars for each vending machine to be
+registered. The department, within ten days after receipt of an
+application for registration under this paragraph and payment of the
+proper fee for application for registration, will issue a registration
+certificate, as prescribed by the commissioner, for each retail place of
+business or cigarette or tobacco products vending machine registered.
+  (c) In addition to the powers granted to the commissioner of taxation
+and finance in this chapter, the commissioner is hereby authorized to
+make provisions for the joint administration, in whole or in part, of
+the state and local taxes imposed by article twenty-eight and authorized
+to be imposed by article twenty-nine of this chapter and the
+registrations and fees for application for registration required by this
+section, including the joint reporting, assessment, collection and
+determination of such taxes and the registration and fees provided for
+in this section, and for that purpose, to prescribe that any of the
+commissioner's functions under such articles or this section, and any
+returns, forms, statements, documents or information to be submitted to
+the commissioner under such articles or this section, any books and
+records to be kept for purposes of the taxes imposed or authorized to be
+imposed by such articles or for purposes of this section, any schedules
+of amounts to be collected under such articles or this section, any
+registration required under such articles or this section, and the
+payment of taxes under such articles, or of fees under this section
+shall be on a joint basis.
+  (d) Except as otherwise provided in this section, all the provisions
+of article twenty-eight of this chapter relating to the personal
+liability for the tax, administration, collection and determination of
+tax, and deposit and disposition of revenue, including section eleven
+hundred thirty-eight of this chapter relating to determination of tax
+and section eleven hundred forty-five of this chapter (but only
+paragraphs one and two of subdivision (a) of such section) relating to
+penalties and interest for failure to file a return or pay tax within
+the time required, shall apply to the applications for registration and
+the fees for filing such applications required by this section and the
+penalty imposed pursuant to subdivision three of this section, as if
+such applications were returns required under section eleven hundred
+thirty-six of this chapter and such filing fees, penalties and interest
+were taxes required to be paid pursuant to such article twenty-eight, in
+the same manner and with the same force and effect as if the language of
+such provisions of such article twenty-eight had been incorporated in
+full into this article, except to the extent that any such provision is
+either inconsistent with a provision of this section or is not relevant
+thereto and with such other modifications as may be necessary to adapt
+the language of such provisions to the provisions of this section.
+Section eleven hundred thirty-four of such article twenty-eight shall
+not apply to this section. Provided, however, that the commissioner of
+taxation and finance shall refund or credit an application fee paid with
+respect to the registration of a vending machine or a retail place of
+business in this state through which cigarettes or tobacco products were
+to be sold if, prior to the beginning of the calendar year with respect
+to which such registration relates, the certificate of registration
+described in paragraph (a) of this subdivision is returned to the
+department of taxation and finance, or if such certificate has been
+destroyed, the retail dealer or vending machine operator satisfactorily
+accounts to the commissioner for the missing certificate, but such
+vending machine or retail place of business may not be used to sell
+cigarettes or tobacco products in this state during such calendar year,
+unless it is re-registered. The provisions of section eleven hundred
+thirty-nine of this chapter shall apply to the refund or credit
+authorized by the preceding sentence and for such purposes, such refund
+or credit shall be deemed a refund of tax paid in error provided,
+however, no interest shall be allowed or paid on any such refund.
+  3. In addition to any other penalty imposed by this chapter: (a) Any
+retail dealer who violates the provisions of this section, after due
+notice and an opportunity for a hearing, for a first violation is liable
+for a civil fine not less than five thousand dollars but not to exceed
+twenty-five thousand dollars and for a second or subsequent violation
+within three years following a prior finding of violation is liable for
+a civil fine not less than ten thousand dollars but not to exceed
+thirty-five thousand dollars; or
+  (b) Any person who owns or, if the owner is not the operator, then any
+person who operates one or more vending machines through which
+cigarettes or tobacco products are sold in this state and who violates
+the provisions of this section, after due notice and an opportunity for
+a hearing, for a first violation is liable for a civil fine not less
+than seven hundred fifty dollars but not to exceed two thousand dollars
+and for a second or subsequent violation within three years following a
+prior finding of violation be liable for a civil fine not less than two
+thousand dollars but not to exceed six thousand dollars.
+  4. (a) If a retail dealer possesses or sells unstamped or unlawfully
+stamped packages of cigarettes, or if a retail dealer is also licensed
+as an agent pursuant to section four hundred seventy-two and it
+possesses unlawfully stamped packages of cigarettes or sells unstamped
+or unlawfully stamped packages of cigarettes at retail, (i) its
+registration shall be suspended for a period of not more than six
+months, or (ii) for a second such possession or sale within a period of
+five years, its registration shall be suspended for a period of up to
+thirty-six months, or (iii) for a third such possession or sale within a
+period of five years, its registration may be revoked for a period of up
+to five years. A retail dealer registration shall be suspended or
+revoked pursuant to this subdivision immediately upon such dealer's
+receipt of written notice of suspension or revocation from the
+commissioner. If a retail dealer sells cigarettes through more than one
+place of business in this state, the retail dealer registration shall
+not be suspended or revoked pursuant to this subdivision, but the
+certificate of registration issued to the place of business, cart,
+stand, truck or other merchandising device where unstamped or unlawfully
+stamped cigarettes were found shall be suspended or cancelled for
+possession or sale of unstamped or unlawfully stamped packages of
+cigarettes, as if such certificate of registration were a retail dealer
+registration. A suspension or cancellation of a certificate of
+registration shall be treated as if it were a suspension or revocation
+of a registration. If unstamped or unlawfully stamped cigarettes are
+found in a retail dealer's warehouse, the suspension or revocation of
+the retail dealer's registration pursuant to this subdivision shall be
+applicable to each retail place of business in this state through which
+such retail dealer sells cigarettes.
+  (b) A retail dealer who is notified of a suspension or revocation of
+its registration pursuant to this subdivision shall have the right to
+have the suspension or revocation reviewed by the commissioner or his
+designee by contacting the department at a telephone number or an
+address to be disclosed in the notice of suspension or revocation within
+ten days of such dealer's receipt of such notification. The retail
+dealer may present written evidence or argument in support of its
+defense to the suspension or revocation, or may appear at a scheduled
+conference with the commissioner or his designee to present oral
+arguments and written and oral evidence in support of such defense. The
+commissioner or his designee is authorized to delay the effective date
+of the suspension or revocation to enable the retail dealer to present
+further evidence or arguments in connection with the suspension or
+revocation. The commissioner or his designee shall cancel the suspension
+or revocation of registration if the commissioner or his designee is not
+satisfied by a preponderance of the evidence that the retail dealer
+possessed or sold unstamped or unlawfully stamped packages of
+cigarettes.
+  (c) An order of suspension or revocation of a retail dealer
+registration shall not be reviewable by the division of tax appeals, but
+may be reviewed pursuant to article seventy-eight of the civil practice
+law and rules by a proceeding commenced in the supreme court within four
+months of the suspension or revocation of registration petitioning that
+the order of suspension or revocation be enjoined or set aside. Such
+proceeding shall be instituted in the county where the commissioner has
+his principal office. Upon the filing of such petition the court shall
+have jurisdiction to set aside such order of suspension or revocation,
+in whole or in part, or to dismiss the petition. The jurisdiction of the
+supreme court shall be exclusive and its order dismissing the petition
+or enjoining or setting aside such order, in whole or in part, shall be
+final, subject to review by the appellate division of the supreme court
+and the court of appeals in the same manner and form and with the same
+effect as provided by law for appeals from a judgment in a special
+proceeding. All such proceedings shall be heard and determined by the
+court and by any appellate court as expeditiously as possible and with
+lawful precedence over other civil matters. All such proceedings for
+review shall be heard on the petition, transcript and other papers, and
+on appeal shall be heard on the record, without requirement of printing.
+  (d) After review of the suspension or revocation of registration by
+the commissioner or his designee is complete, or the time within which a
+retail dealer may request such review has expired without such a request
+having been made, notice of the suspension or revocation of a retail
+dealer registration pursuant to this subdivision shall be given by the
+commissioner to the head of the division of the lottery for the purpose
+of enforcement of section sixteen hundred seven of this chapter and such
+division may suspend or revoke any license issued with respect to a
+lottery agent's specific location pursuant to article thirty-four of
+this chapter if such lottery agent is a retail dealer of cigarettes
+whose registration for such location is suspended or revoked pursuant to
+this section. In addition, notice of such suspension or revocation shall
+also be given to the division of alcoholic beverage control and such
+suspension or revocation shall constitute cause, for purposes of section
+one hundred eighteen of the alcoholic beverage control law, for
+revocation, cancellation or suspension of any license or permit issued
+pursuant to such law.
+  5. Except for subdivision (i) of section eighteen hundred fourteen of
+this chapter, the criminal penalties set forth in article thirty-seven
+of this chapter shall not apply to a violation of this section.
+```

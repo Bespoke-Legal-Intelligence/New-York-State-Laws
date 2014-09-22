@@ -1,0 +1,17 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 899-K", "kind": "section", "law_id": "GBS", "location_id": "899-K", "path": "ARTICLE 39-E › SECTION 899-K", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-K.md", "title": "Required records"} -->
+# General Business Law § 899-K — Required records
+
+[General Business Law](../README.md) › [Article 39-E — Uniform Athlete Agents Act](README.md)
+
+```text
+  § 899-k. Required records. 1. An athlete agent shall retain the
+following records for a period of five years:
+  (a) the name and address of each individual represented by the athlete
+agent;
+  (b) any agency contract entered into by the athlete agent; and
+  (c) any direct costs incurred by the athlete agent in the recruitment
+or solicitation of a student-athlete to enter into an agency contract.
+  2. The records required to be retained pursuant to subdivision one of
+this section shall be open to inspection by the secretary of state
+during normal business hours.
+```

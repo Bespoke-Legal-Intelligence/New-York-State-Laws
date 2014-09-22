@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 753-D", "kind": "section", "law_id": "GBS", "location_id": "753-D", "path": "ARTICLE 35-D › SECTION 753-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/753-D.md", "title": "Construction with other laws"} -->
+# General Business Law § 753-D — Construction with other laws
+
+[General Business Law](../README.md) › [Article 35-D — Sale of Dogs and Cats](README.md)
+
+```text
+  § 753-d. Construction with other laws. Nothing in this article shall
+be construed to (a) limit or restrict agents or officers of societies
+for the prevention of cruelty to animals or the police from enforcing
+articles twenty-six and twenty-six-A of the agriculture and markets law
+or any other law relating to the humane treatment of, or cruelty to,
+animals, (b) limit or restrict any municipality from enacting or
+enforcing any authorized local law, rule, regulation or ordinance of
+general application to businesses governing public health, safety or the
+rights of consumers, or (c) limit or restrict any municipality from
+enacting or enforcing a local law, rule, regulation or ordinance
+governing pet dealers, as such term is defined in this article,
+including a law, rule, regulation or ordinance governing the health or
+safety of animals acquired or maintained by pet dealers, the source of
+animals sold or offered for sale by pet dealers, and the spay or neuter
+of such animals; provided, however, that any such local law, rule,
+regulation or ordinance shall be no less stringent than the applicable
+provisions of this article and may not result in essentially banning all
+sales of dogs or cats raised and maintained in a healthy and safe
+manner. Where any penalty may be authorized for the violation of such a
+local law, rule, regulation or ordinance, the authorized penalty in such
+local law, rule, regulation or ordinance may not exceed a civil penalty
+of up to five hundred dollars. Where a municipality adopts such a local
+law, rule, regulation or ordinance that is more stringent than the
+applicable provisions of this article, such municipality shall have sole
+responsibility for enforcement of such law, rule, regulation or
+ordinance that is more stringent than the applicable provisions of this
+article.
+```
