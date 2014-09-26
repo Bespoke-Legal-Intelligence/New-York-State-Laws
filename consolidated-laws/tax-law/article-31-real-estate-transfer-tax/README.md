@@ -29,6 +29,7 @@
 - [§ 1419 Notices](1419-notices.md)
 - [§ 1420 Limitations of time](1420-limitations-of-time.md)
 - [§ 1421 Deposit and dispositions of revenues](1421-deposit-and-dispositions-of-revenues.md)
+- [§ 1422 Foreclosure proceedings](1422-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -61,6 +62,7 @@ Section 1400.   Short title.
         1419.   Notices.
         1420.   Limitations of time.
         1421.   Deposit and disposition of revenues.
+        1422.   Foreclosure proceedings.
 ```
 
 </details>

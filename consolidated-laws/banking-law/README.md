@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | BNK |
 | Type | Consolidated law, chapter 2 |
-| Sections | 834 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 835 |
+| Last changed | 26 Sep 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Banking |
 
@@ -30,6 +30,10 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 ```
 
 [Full chapter text (74 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Sep 2014](../../changes/2014/2014-09-26.md): 4 amended, 1 added
 
 ## Contents
 

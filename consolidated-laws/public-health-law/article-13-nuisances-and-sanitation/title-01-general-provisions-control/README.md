@@ -19,6 +19,7 @@
 - [§ 1308 Powers and duties of local boards of health](1308-powers-and-duties-of-local-boards-of-health.md)
 - [§ 1309 City of New York; exceptions](1309-city-of-new-york-exceptions.md)
 - [§ 1310 Removal of canine wastes in cities with a population of four hundred thousand or more persons and in the cities of Yonkers and Albany](1310-removal-of-canine-wastes-in-cities-with-a-population-of-four.md)
+- [§ 1311 Hand washing facilities at certain public establishments featuring animals](1311-hand-washing-facilities-at-certain-public-establishments.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -46,6 +47,8 @@ Section 1300.   Nuisances; general powers of commissioner.
         1310.   Removal of canine wastes in cities with a population of
                   four hundred thousand or more persons and in the
                   cities of Yonkers and Albany.
+        1311.   Hand washing facilities at certain public establishments
+                  featuring animals.
 ```
 
 </details>

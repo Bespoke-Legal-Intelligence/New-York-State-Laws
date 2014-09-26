@@ -21,6 +21,7 @@
 - [§ 381 Administration and enforcement of the New York state uniform fire prevention and building code and the New York state energy conservation...](381-administration-and-enforcement-of-the-new-york-state-uniform-fire-prevention.md)
 - [§ 382 Remedies](382-remedies.md)
 - [§ 382-A Buildings with truss type construction; notice requirements and enforcement](382a-buildings-with-truss-type-construction-notice-requirements-and-enforcement.md)
+- [§ 382-B Residential buildings with truss type, pre-engineered wood or timber construction; notice requirements](382b-residential-buildings-with-truss-type-pre-engineered-wood-or-timber-construction.md)
 - [§ 383 Construction with other laws; severability](383-construction-with-other-laws-severability.md)
 
 <details>
@@ -50,6 +51,8 @@ Section 370.   Short title.
         382.   Remedies.
         382-a. Buildings with truss type construction; notice
                  requirements and enforcement.
+        382-b. Residential buildings with truss type, pre-engineered
+                 wood or timber construction; notice requirements.
         383.   Construction with other laws; severability.
 ```
 

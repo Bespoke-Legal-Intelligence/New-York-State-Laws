@@ -6,57 +6,81 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 22 Sep 2014.*
+*Current through the publication of 26 Sep 2014.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
 publication date. A section's History view (or `git log --follow -- <file>`) is its amendment history.
 [How this repository is arranged and built, and how to report an error](#about-this-repository).
 
+## Recently changed
+
+- [26 Sep 2014](changes/2014/2014-09-26.md): Abandoned Property Law; Agriculture and Markets Law; Banking Law; Civil Practice Law and Rules; Criminal Procedure Law; Economic Development Law; Education Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Navigation Law; Not-for-Profit Corporation Law; Public Health Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Town Law
+
+## Most changed in the past 12 months
+
+| Law | Sections changed |
+|---|---:|
+| [Tax Law](consolidated-laws/tax-law/README.md) | 16 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 14 |
+| [Education Law](consolidated-laws/education-law/README.md) | 7 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 5 |
+| [Banking Law](consolidated-laws/banking-law/README.md) | 5 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 4 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 3 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 3 |
+| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | 3 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 2 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 2 |
+| [Town Law](consolidated-laws/town-law/README.md) | 1 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 1 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 1 |
+| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | 1 |
+
 ## Consolidated Laws
 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
-| [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | no change since 22 Sep 2014 (start of history) |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 653 | no change since 22 Sep 2014 (start of history) |
+| [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 26 Sep 2014 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 653 | 26 Sep 2014 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 164 | no change since 22 Sep 2014 (start of history) |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 250 | no change since 22 Sep 2014 (start of history) |
-| [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 834 | no change since 22 Sep 2014 (start of history) |
+| [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 835 | 26 Sep 2014 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | no change since 22 Sep 2014 (start of history) |
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 248 | no change since 22 Sep 2014 (start of history) |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 83 | no change since 22 Sep 2014 (start of history) |
-| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 776 | no change since 22 Sep 2014 (start of history) |
+| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 776 | 26 Sep 2014 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 107 | no change since 22 Sep 2014 (start of history) |
 | [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 169 | no change since 22 Sep 2014 (start of history) |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 319 | no change since 22 Sep 2014 (start of history) |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 443 | no change since 22 Sep 2014 (start of history) |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 560 | no change since 22 Sep 2014 (start of history) |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 560 | 26 Sep 2014 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | no change since 22 Sep 2014 (start of history) |
-| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 163 | no change since 22 Sep 2014 (start of history) |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,820 | no change since 22 Sep 2014 (start of history) |
+| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 163 | 26 Sep 2014 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,820 | 26 Sep 2014 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | no change since 22 Sep 2014 (start of history) |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 405 | no change since 22 Sep 2014 (start of history) |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,682 | no change since 22 Sep 2014 (start of history) |
-| [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 343 | no change since 22 Sep 2014 (start of history) |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 853 | no change since 22 Sep 2014 (start of history) |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,683 | 26 Sep 2014 |
+| [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 343 | 26 Sep 2014 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 854 | 26 Sep 2014 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 40 | no change since 22 Sep 2014 (start of history) |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | no change since 22 Sep 2014 (start of history) |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,167 | no change since 22 Sep 2014 (start of history) |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,168 | 26 Sep 2014 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | no change since 22 Sep 2014 (start of history) |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,107 | no change since 22 Sep 2014 (start of history) |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,107 | 26 Sep 2014 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 199 | no change since 22 Sep 2014 (start of history) |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 537 | no change since 22 Sep 2014 (start of history) |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | no change since 22 Sep 2014 (start of history) |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,003 | no change since 22 Sep 2014 (start of history) |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,003 | 26 Sep 2014 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 522 | no change since 22 Sep 2014 (start of history) |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 656 | no change since 22 Sep 2014 (start of history) |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 657 | 26 Sep 2014 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | no change since 22 Sep 2014 (start of history) |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | no change since 22 Sep 2014 (start of history) |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 117 | no change since 22 Sep 2014 (start of history) |
@@ -67,9 +91,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 104 | no change since 22 Sep 2014 (start of history) |
 | [Municipal Home Rule Law](consolidated-laws/municipal-home-rule-law/README.md) | MHR | 34 | no change since 22 Sep 2014 (start of history) |
 | [Municipal Housing Authorities Law](consolidated-laws/municipal-housing-authorities-law/README.md) | MHA | 19 | no change since 22 Sep 2014 (start of history) |
-| [Navigation Law](consolidated-laws/navigation-law/README.md) | NAV | 215 | no change since 22 Sep 2014 (start of history) |
+| [Navigation Law](consolidated-laws/navigation-law/README.md) | NAV | 216 | 26 Sep 2014 |
 | [New York State Printing and Public Documents Law](consolidated-laws/new-york-state-printing-and-public-documents-law/README.md) | PPD | 16 | no change since 22 Sep 2014 (start of history) |
-| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | no change since 22 Sep 2014 (start of history) |
+| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 26 Sep 2014 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 185 | no change since 22 Sep 2014 (start of history) |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | no change since 22 Sep 2014 (start of history) |
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | no change since 22 Sep 2014 (start of history) |
@@ -77,7 +101,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | no change since 22 Sep 2014 (start of history) |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,133 | no change since 22 Sep 2014 (start of history) |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 47 | no change since 22 Sep 2014 (start of history) |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,596 | no change since 22 Sep 2014 (start of history) |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,597 | 26 Sep 2014 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | no change since 22 Sep 2014 (start of history) |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | no change since 22 Sep 2014 (start of history) |
@@ -87,20 +111,20 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 320 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 409 | no change since 22 Sep 2014 (start of history) |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 743 | no change since 22 Sep 2014 (start of history) |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 744 | 26 Sep 2014 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 305 | no change since 22 Sep 2014 (start of history) |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 537 | no change since 22 Sep 2014 (start of history) |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | no change since 22 Sep 2014 (start of history) |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | no change since 22 Sep 2014 (start of history) |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | 26 Sep 2014 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 17 | no change since 22 Sep 2014 (start of history) |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | no change since 22 Sep 2014 (start of history) |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 495 | no change since 22 Sep 2014 (start of history) |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 495 | 26 Sep 2014 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 94 | no change since 22 Sep 2014 (start of history) |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,133 | no change since 22 Sep 2014 (start of history) |
-| [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | no change since 22 Sep 2014 (start of history) |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,147 | 26 Sep 2014 |
+| [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 26 Sep 2014 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | no change since 22 Sep 2014 (start of history) |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 621 | no change since 22 Sep 2014 (start of history) |

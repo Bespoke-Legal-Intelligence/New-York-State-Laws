@@ -19,38 +19,42 @@ that all persons, whether mandated by the law or not, may use to make
 telephone calls alleging child abuse or maltreatment and that all
 persons so authorized by this title may use for determining the
 existence of prior reports in order to evaluate the condition or
-circumstances of a child. In addition to the single statewide telephone
+circumstances of a child.  In addition to the single statewide telephone
 number, there shall be a special unlisted express telephone number and a
 telephone facsimile number for use only by persons mandated by law to
 make telephone calls, or to transmit telephone facsimile information on
-a form provided by the commissioner, alleging child abuse or
-maltreatment, and for use by all persons so authorized by this title for
-determining the existence of prior reports in order to evaluate the
-condition or circumstances of a child. When any allegations contained in
-such telephone calls could reasonably constitute a report of child abuse
-or maltreatment, such allegations shall be immediately transmitted
-orally or electronically by the office of children and family services
-to the appropriate local child protective service for investigation. The
-inability of the person calling the register to identify the alleged
-perpetrator shall, in no circumstance, constitute the sole cause for the
-register to reject such allegation or fail to transmit such allegation
-for investigation. If the records indicate a previous report concerning
-a subject of the report, the child alleged to be abused or maltreated, a
-sibling, other children in the household, other persons named in the
-report or other pertinent information, the appropriate local child
-protective service shall be immediately notified of the fact, except as
-provided in subdivision eleven of this section. If the report involves
-either (i) an allegation of an abused child described in paragraph (i),
-(ii) or (iii) of subdivision (e) of section one thousand twelve of the
-family court act or sexual abuse of a child or the death of a child or
-(ii) suspected maltreatment which alleges any physical harm when the
-report is made by a person required to report pursuant to section four
-hundred thirteen of this title within six months of any other two
-reports that were indicated, or may still be pending, involving the same
-child, sibling, or other children in the household or the subject of the
-report, the office of children and family services shall identify the
-report as such and note any prior reports when transmitting the report
-to the local child protective services for investigation.
+a form provided by the commissioner of children and family services,
+alleging child abuse or maltreatment, and for use by all persons so
+authorized by this title for determining the existence of prior reports
+in order to evaluate the condition or circumstances of a child. When any
+allegations contained in such telephone calls could reasonably
+constitute a report of child abuse or maltreatment, such allegations and
+any previous reports to the central registry involving the subject of
+such report or children named in such report, including any previous
+report containing allegations of child abuse and maltreatment alleged to
+have occurred in other counties and districts in New York state shall be
+immediately transmitted orally or electronically by the office of
+children and family services to the appropriate local child protective
+service for investigation. The inability of the person calling the
+register to identify the alleged perpetrator shall, in no circumstance,
+constitute the sole cause for the register to reject such allegation or
+fail to transmit such allegation for investigation. If the records
+indicate a previous report concerning a subject of the report, the child
+alleged to be abused or maltreated, a sibling, other children in the
+household, other persons named in the report or other pertinent
+information, the appropriate local child protective service shall be
+immediately notified of the fact. If the report involves either (i) an
+allegation of an abused child described in paragraph (i), (ii) or (iii)
+of subdivision (e) of section one thousand twelve of the family court
+act or sexual abuse of a child or the death of a child or (ii) suspected
+maltreatment which alleges any physical harm when the report is made by
+a person required to report pursuant to section four hundred thirteen of
+this title within six months of any other two reports that were
+indicated, or may still be pending, involving the same child, sibling,
+or other children in the household or the subject of the report, the
+office of children and family services shall identify the report as such
+and note any prior reports when transmitting the report to the local
+child protective services for investigation.
   (b) Any telephone call made by a person required to report cases of
 suspected child abuse or maltreatment pursuant to section four hundred
 thirteen of this chapter containing allegations, which if true would

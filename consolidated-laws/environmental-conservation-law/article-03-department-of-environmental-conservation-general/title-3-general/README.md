@@ -20,6 +20,7 @@
 - [§ 3-0313 Adopt-a-beach stewardship program](3-0313-adopt-a-beach-stewardship-program.md)
 - [§ 3-0315 Geographic information system](3-0315-geographic-information-system.md)
 - [§ 3-0317 Cancer incidence and environmental facility maps project](3-0317-cancer-incidence-and-environmental-facility.md)
+- [§ 3-0319 Sea level rise projections](3-0319-sea-level-rise-projections.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -46,6 +47,7 @@ Section 3-0301.   General functions, powers and duties of the department
         3-0315.   Geographic information system.
         3-0317.   Cancer incidence and environmental facility maps
                     project.
+        3-0319.   Sea level rise projections.
 ```
 
 </details>

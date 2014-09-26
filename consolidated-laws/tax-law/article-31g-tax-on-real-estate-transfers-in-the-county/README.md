@@ -20,6 +20,7 @@
 - [§ 1449-MMMMM Apportionment](1449mmmmm-apportionment.md)
 - [§ 1449-NNNNN Miscellaneous](1449nnnnn-miscellaneous.md)
 - [§ 1449-OOOOO Returns to be secret](1449ooooo-returns-to-be-secret.md)
+- [§ 1449-PPPPP Foreclosure proceedings](1449ppppp-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-G, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,6 +44,7 @@ Section 1449-aaaaa. Definitions.
         1449-mmmmm. Apportionment.
         1449-nnnnn. Miscellaneous.
         1449-ooooo. Returns to be secret.
+        1449-ppppp. Foreclosure proceedings.
 ```
 
 </details>

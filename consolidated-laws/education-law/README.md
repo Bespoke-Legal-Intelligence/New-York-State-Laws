@@ -8,7 +8,7 @@
 | Senate code | EDN |
 | Type | Consolidated law, chapter 16 |
 | Sections | 1,820 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Sep 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Education |
 
@@ -30,6 +30,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (231 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Sep 2014](../../changes/2014/2014-09-26.md): 7 amended
 
 ## Contents
 

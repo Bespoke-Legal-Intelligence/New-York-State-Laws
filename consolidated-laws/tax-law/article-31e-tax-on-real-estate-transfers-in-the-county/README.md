@@ -20,12 +20,13 @@
 - [§ 1449-MMM Apportionment](1449mmm-apportionment.md)
 - [§ 1449-NNN Miscellaneous](1449nnn-miscellaneous.md)
 - [§ 1449-OOO Returns to be secret](1449ooo-returns-to-be-secret.md)
+- [§ 1449-PPP Foreclosure proceedings](1449ppp-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-E, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 31-E
+                              ARTICLE 31-E
                       TAX ON REAL ESTATE TRANSFERS
                          IN THE COUNTY OF NASSAU
 Section 1449-aaa. Definitions.
@@ -43,6 +44,7 @@ Section 1449-aaa. Definitions.
         1449-mmm. Apportionment.
         1449-nnn. Miscellaneous.
         1449-ooo. Returns to be secret.
+        1449-ppp. Foreclosure proceedings.
 ```
 
 </details>

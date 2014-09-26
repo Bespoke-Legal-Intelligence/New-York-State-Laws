@@ -20,6 +20,7 @@
 - [§ 1438-M Apportionment](1438m-apportionment.md)
 - [§ 1438-N Miscellaneous](1438n-miscellaneous.md)
 - [§ 1438-O Returns to be secret](1438o-returns-to-be-secret.md)
+- [§ 1438-P Foreclosure proceedings](1438p-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-A-1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,7 @@ Section 1438-a. Definitions.
         1438-m. Apportionment.
         1438-n. Miscellaneous.
         1438-o. Returns to be secret.
+        1438-p. Foreclosure proceedings.
         * NB Repealed December 31, 2026
 ```
 

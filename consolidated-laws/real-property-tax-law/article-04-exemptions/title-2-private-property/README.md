@@ -27,6 +27,7 @@
 - [§ 421-K Exemption of certain multiple dwellings](421k-exemption-of-certain-multiple-dwellings.md)
 - [§ 421-L Exemption of capital improvements to residential buildings in certain towns](421l-exemption-of-capital-improvements-to-residential-buildings-in-certain-towns.md)
 - [§ 421-M Exemption of certain new or substantially rehabilitated multiple dwellings from local taxation](421m-exemption-of-certain-new-or-substantially-rehabilitated-multiple-dwellings.md)
+- [§ 421-N Exemption of capital improvements to multiple dwelling buildings within certain cities](421n-exemption-of-capital-improvements-to-multiple-dwelling-buildings-within-certain.md)
 - [§ 422 Not-for-profit housing companies](422-not-for-profit-housing-companies.md)
 - [§ 423 Phase out of exemption for redevelopment company projects upon the cessation of the tax exemption granted pursuant to contract](423-phase-out-of-exemption-for-redevelopment-company-projects-upon-the-cessation.md)
 - [§ 424 Institute of arts and sciences](424-institute-of-arts-and-sciences.md)
@@ -200,6 +201,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    buildings in certain towns.
         421-m.   Exemption of certain new or substantially rehabilitated
                    multiple dwellings from local taxation.
+        421-n.   Exemption of capital improvements to multiple dwelling
+                   buildings within certain cities.
         422.     Not-for-profit housing companies.
         423.     Phase out of exemption for redevelopment company
                    projects upon the cessation of the tax exemption

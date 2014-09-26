@@ -20,6 +20,7 @@
 - [§ 1449-R Apportionment](1449r-apportionment.md)
 - [§ 1449-S Miscellaneous](1449s-miscellaneous.md)
 - [§ 1449-T Returns to be secret](1449t-returns-to-be-secret.md)
+- [§ 1449-U Foreclosure proceedings](1449u-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,6 +44,7 @@ Section 1449-f. Definitions.
         1449-r. Apportionment.
         1449-s. Miscellaneous.
         1449-t. Returns to be secret.
+        1449-u. Foreclosure proceedings.
 ```
 
 </details>

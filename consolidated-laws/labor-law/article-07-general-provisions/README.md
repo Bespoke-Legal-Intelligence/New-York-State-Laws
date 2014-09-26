@@ -26,6 +26,7 @@
 - [§ 202-I Leave of absence for military spouses](202i-leave-of-absence-for-military-spouses.md)
 - [§ 202-J Leave of absence for blood donation granted to employees](202j-leave-of-absence-for-blood-donation-granted-to-employees.md)
 - [§ 202-K Protection of persons employed in the broadcast industry](202k-protection-of-persons-employed-in-the-broadcast-industry.md)
+- [§ 202-L Leave of absence for volunteer emergency responders](202l-leave-of-absence-for-volunteer-emergency-responders.md)
 - [§ 203 Washrooms, washing facilities and waterclosets for elevator employees](203-washrooms-washing-facilities-and-waterclosets-for-elevator-employees.md)
 - [§ 203-A Seats in certain passenger elevators or relief for the operator](203a-seats-in-certain-passenger-elevators-or-relief-for-the-operator.md)
 - [§ 203-B Seats for female employees](203b-seats-for-female-employees.md)
@@ -107,6 +108,7 @@ Section 200.   General duty to protect health and safety of employees;
         202-i. Leave of absence for military spouses.
         202-j. Leave of absence for blood donation granted to employees.
         202-k. Protection of persons employed in the broadcast industry.
+        202-l. Leave of absence for volunteer emergency responders.
         203.   Washrooms, washing facilities and waterclosets for
                  elevator employees.
         203-a. Seats in certain passenger elevators or relief for the

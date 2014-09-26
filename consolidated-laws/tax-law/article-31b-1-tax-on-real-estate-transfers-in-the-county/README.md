@@ -20,6 +20,7 @@
 - [§ 1448-S Apportionment](1448s-apportionment.md)
 - [§ 1448-T Miscellaneous](1448t-miscellaneous.md)
 - [§ 1448-U Returns to be secret](1448u-returns-to-be-secret.md)
+- [§ 1448-V Foreclosure proceedings](1448v-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-B-1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,7 @@ Section 1448-g. Definitions.
         1448-s. Apportionment.
         1448-t. Miscellaneous.
         1448-u. Returns to be secret.
+        1448-v. Foreclosure proceedings.
 ```
 
 </details>

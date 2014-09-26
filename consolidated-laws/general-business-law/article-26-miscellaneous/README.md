@@ -131,6 +131,7 @@
 - [§ 399-E\*2 Actions](399e-2-actions.md)
 - [§ 399-EE Zone pricing of gasoline prohibited](399ee-zone-pricing-of-gasoline-prohibited.md)
 - [§ 399-F Laundromat refund procedures](399f-laundromat-refund-procedures.md)
+- [§ 399-FF Petting zoos](399ff-petting-zoos.md)
 - [§ 399-G Labeling of solder](399g-labeling-of-solder.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
@@ -337,6 +338,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         399-e*2.   Actions.
         399-ee.    Zone pricing of gasoline prohibited.
         399-f.     Laundromat refund procedures.
+        399-ff.    Petting zoos.
         399-g.     Labeling of solder.
         399-h.     Disposal of records containing personal identifying
                      information.

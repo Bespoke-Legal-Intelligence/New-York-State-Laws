@@ -86,13 +86,19 @@ exemption of seventy-five thousand dollars shall be allowed on the
 consideration of the conveyance of unimproved real property.
   4. Primary residential property purchased by one or more persons, each
 of whom is a first-time homebuyer shall be exempt from the payment of
-the real estate transfer tax, in the towns of Southampton, East Hampton
-and Shelter Island, provided that:
-  (a) the primary residential property is within one hundred twenty
-percent of the purchase price limits defined by the state of New York
-mortgage agency low interest rate mortgage program in the non-target one
-family categories for Suffolk county in effect on contract date for the
-sale of such property; and
+the real estate transfer tax, in the towns of Southampton, East Hampton,
+Shelter Island and Southold, provided that:
+  (a)(1) in the towns of Southampton, East Hampton and Shelter Island,
+the primary residential property is within one hundred twenty percent of
+the purchase price limits defined by the state of New York mortgage
+agency low interest rate mortgage program in the non-target one family
+categories for Suffolk county in effect on the contract date for the
+sale of such property;
+  (2) in the town of Southold, the primary residential property is
+within sixty percent of the purchase price limits defined by the state
+of New York mortgage agency low interest rate mortgage program in the
+non-target one family categories for Suffolk county in effect on the
+contract date for the sale of such property; and
   (b) the buyer's household income does not exceed the income limits
 defined by the state of New York mortgage agency low interest rate
 mortgage program in the non-target, one and two person household

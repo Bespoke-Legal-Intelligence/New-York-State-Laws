@@ -25,6 +25,7 @@
 - [§ 35-A Floating objects other than aids to navigation](35a-floating-objects-other-than-aids-to-navigation.md)
 - [§ 35-B Markers for skin or scuba divers](35b-markers-for-skin-or-scuba-divers.md)
 - [§ 35-C Real time and wind water level telemetry system](35c-real-time-and-wind-water-level-telemetry-system.md)
+- [§ 35-D Aquatic invasive species signs at public boat launches](35d-aquatic-invasive-species-signs-at-public-boat-launches.md)
 - [§ 36 Removal of unauthorized floating object](36-removal-of-unauthorized-floating-object.md)
 - [§ 37 Public use of privately owned navigable waters](37-public-use-of-privately-owned-navigable-waters.md)
 - [§ 38 Lake George water levels](38-lake-george-water-levels.md)
@@ -65,6 +66,7 @@ Section 30.    Navigation, jurisdiction over.
         35-a.  Floating objects other than aids to navigation.
         35-b.  Markers for skin or scuba divers.
         35-c.  Real time and wind water level telemetry system.
+        35-d.  Aquatic invasive species signs at public boat launches.
         36.    Removal of unauthorized floating object.
         37.    Public use of privately owned navigable waters.
         38.    Lake George water levels.

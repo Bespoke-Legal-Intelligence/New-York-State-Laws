@@ -59,6 +59,12 @@ providing information on the subject.
   * (j) Maternal depression, including information about education,
 screening, referral services, and possible options for treatment.
   * NB Effective January 31, 2015
+  * NB There are 2 par (j)'s
+  * (j) The eating disorders awareness and prevention program shall be
+designed to promote the awareness of eating disorders and available
+services, as well as to prevent and reduce the incidence and prevalence
+of eating disorders, especially among children and adolescents.
+  * NB There are 2 par (j)'s
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

@@ -20,6 +20,7 @@
 - [§ 1434 Apportionment](1434-apportionment.md)
 - [§ 1435 Miscellaneous](1435-miscellaneous.md)
 - [§ 1436 Returns to be secret](1436-returns-to-be-secret.md)
+- [§ 1437 Foreclosure proceedings](1437-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,6 +44,7 @@ Section 1424.   Definitions.
         1434.   Apportionment.
         1435.   Miscellaneous.
         1436.   Returns to be secret.
+        1437.   Foreclosure proceedings.
 ```
 
 </details>

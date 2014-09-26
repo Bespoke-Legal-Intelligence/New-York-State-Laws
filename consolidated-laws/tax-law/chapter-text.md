@@ -57,33 +57,33 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-41).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).
-       31.       Real estate transfer tax (§§ 1400-1421).
+       31.       Real estate transfer tax (§§ 1400-1422).
        31-A.     Tax on real property transfers for transportation
-                   assistance (§§ 1424-1436).
+                   assistance (§§ 1424-1437).
        31-A-1.   Tax on real estate transfers in the town of Red Hook
-                   (§§ 1438-a--1438-o).
+                   (§§ 1438-a--1438-p).
        31-A-2.   Tax on real estate transfers in the county of Columbia
-                   (§§ 1439-a--1439-o).
+                   (§§ 1439-a--1439-p).
        31-A-2*2. Tax on real estate transfers in the town of Chatham
-                   (§§ 1439-a*2--1439-o*2).
+                   (§§ 1439-a*2--1439-p*2).
        31-A-2*3. Tax on real estate transfers in the town of Fishkill
-                   (§§ 1439-a*3--1439-o*3).
+                   (§§ 1439-a*3--1439-p*3).
        31-A-3.   Tax on real estate transfers in the town of Northeast
-                   (§§ 1439-aa--1439-oo).
+                   (§§ 1439-aa--1439-pp).
        31-B.     Tax on real estate transfers in the town of Brookhaven
                    (§§ 1440--1448-f).
        31-B-1.   Tax on real estate transfers in the county of Essex
-                   (§§ 1448-g--1448-u).
+                   (§§ 1448-g--1448-v).
        31-C.     Tax on real estate transfers in the county of Broome
-                   (§§ 1449-f--1449-t).
+                   (§§ 1449-f--1449-u).
        31-D.     Tax on real estate transfers in towns in the Peconic
-                   Bay Region (§§ 1449-aa--1449-oo).
+                   Bay Region (§§ 1449-aa--1449-pp).
        31-E.     Tax on real estate transfers in the county of Nassau
-                   (§§ 1449-aaa--1449-ooo)
+                   (§§ 1449-aaa--1449-ppp)
        31-F.     Tax on real estate transfers in the town of Warwick
-                   (§§ 1449-aaaa--1449-oooo).
+                   (§§ 1449-aaaa--1449-pppp).
        31-G.     Tax on real estate transfers in the county of Tompkins
-                   (§§ 1449-aaaaa--1449-ooooo).
+                   (§§ 1449-aaaaa--1449-ppppp).
        32.       Franchise tax on banking corporations (§§ 1450-1468).
        33.       Franchise taxes on insurance corporations
                    (§§ 1500-1520).

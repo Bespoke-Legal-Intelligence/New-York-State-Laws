@@ -8,7 +8,7 @@
 | Senate code | SOS |
 | Type | Consolidated law, chapter 55 |
 | Sections | 686 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Sep 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Social Services |
 
@@ -30,6 +30,10 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 ```
 
 [Full chapter text (123 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
 
 ## Contents
 

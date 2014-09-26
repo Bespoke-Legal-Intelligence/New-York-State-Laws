@@ -13,6 +13,7 @@
 - [§ 1445 Credit](1445-credit.md)
 - [§ 1446 Cooperative housing corporation transfers](1446-cooperative-housing-corporation-transfers.md)
 - [§ 1447 Designation of agents](1447-designation-of-agents.md)
+- [§ 1447-A Foreclosure proceedings](1447a-foreclosure-proceedings.md)
 - [§ 1448 Liability of recording officer](1448-liability-of-recording-officer.md)
 - [§ 1448-A Refunds](1448a-refunds.md)
 - [§ 1448-B Deposit and disposition of revenue](1448b-deposit-and-disposition-of-revenue.md)
@@ -35,6 +36,7 @@ Section 1440.   Definitions.
         1445.   Credit.
         1446.   Cooperative housing corporation transfers.
         1447.   Designation of agents.
+        1447-a. Foreclosure proceedings.
         1448.   Liability of recording officer.
         1448-a. Refunds.
         1448-b. Deposit and disposition of revenue.

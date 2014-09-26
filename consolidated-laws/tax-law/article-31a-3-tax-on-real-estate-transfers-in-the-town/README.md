@@ -20,6 +20,7 @@
 - [§ 1439-MM Apportionment](1439mm-apportionment.md)
 - [§ 1439-NN Miscellaneous](1439nn-miscellaneous.md)
 - [§ 1439-OO Returns to be secret](1439oo-returns-to-be-secret.md)
+- [§ 1439-PP Foreclosure proceedings](1439pp-foreclosure-proceedings.md)
 
 <details>
 <summary>Official heading of Article 31-A-3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,7 @@ Section 1439-aa. Definitions.
         1439-mm. Apportionment.
         1439-nn. Miscellaneous.
         1439-oo. Returns to be secret.
+        1439-pp. Foreclosure proceedings.
   * NB Repealed December 31, 2028
 ```
 
