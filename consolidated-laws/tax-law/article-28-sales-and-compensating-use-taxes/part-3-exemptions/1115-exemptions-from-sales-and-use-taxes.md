@@ -343,7 +343,7 @@ document for a purchaser.
 department of environmental conservation, pursuant to regulations
 promulgated by such department, for use in an enhanced emissions
 inspection and maintenance program as required by the federal clean air
-act of 1990, as amended in nineteen hundred ninety (42 U.S.C. 7401 et
+act of 1990, as amended in nineteen hundred ninety(42 U.S.C. 7401 et
 seq.) and the New York state clean air compliance act enacted by chapter
 608 of the laws of 1993, where such equipment is purchased and used by
 an official inspection station licensed by the commissioner of motor

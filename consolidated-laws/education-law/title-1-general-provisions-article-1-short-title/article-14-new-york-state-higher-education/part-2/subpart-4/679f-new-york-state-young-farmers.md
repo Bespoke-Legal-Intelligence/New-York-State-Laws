@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 4 — Other Awards](README.md)
 
 ```text
-  * § 679-f. New York state young farmers loan forgiveness incentive
+  § 679-f. New York state young farmers loan forgiveness incentive
 program. 1. Purpose. The president shall grant student loan forgiveness
 awards for the purpose of alleviating the burden of student loan debt
 for young farmers. Such awards shall be made on a competitive basis, in
@@ -39,5 +39,4 @@ chosen pursuant to rules and regulations promulgated by the corporation.
 Provided, however, that each applicant chosen shall receive an award of
 up to ten thousand dollars in each year such applicant is accepted into
 the program.
-  * NB Effective September 27, 2014
 ```

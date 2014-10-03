@@ -42,7 +42,7 @@ evidence, documentary or otherwise, as may be required to be furnished
 under subdivision (a) of this section; provided that such affidavit,
 statement or additional evidence is not known by the vendor, prior to
 making physical delivery of the motor vehicle or vessel, to be false.
-  (c) For purposes of this section, the term :
+  (c) For purposes of this section, the term:
   (1) "Motor vehicle" shall include a motor vehicle as defined in
 section one hundred twenty-five of the vehicle and traffic law and a
 trailer as defined in section one hundred fifty-six of the vehicle and

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 139 — Nursing](README.md)
 
 ```text
-  * § 6911. Certification as a clinical nurse specialist (CNS). 1. For
+  § 6911. Certification as a clinical nurse specialist (CNS). 1. For
 issuance of a certificate to practice as a clinical nurse specialist
 under section six thousand nine hundred two of this article, the
 applicant shall fulfill the following requirements:
@@ -27,5 +27,4 @@ section shall be coterminous with the clinical nurse specialist's
 registration as a professional nurse.
   2. Only a person certified under this section shall use the title
 "clinical nurse specialist" or the designation "CNS".
-  * NB Effective September 27, 2014
 ```

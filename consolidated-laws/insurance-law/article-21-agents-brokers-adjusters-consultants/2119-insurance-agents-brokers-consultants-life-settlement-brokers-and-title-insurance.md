@@ -1,16 +1,12 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 2119", "kind": "section", "law_id": "ISC", "location_id": "2119", "path": "ARTICLE 21 › SECTION 2119", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2119.md", "title": "Insurance agents, brokers, consultants, and life settlement brokers; written contract for compensation; excess charges prohibited"} -->
-# Insurance Law § 2119 — Insurance agents, brokers, consultants, and life settlement brokers; written contract for compensation; excess charges prohibited
+﻿<!-- nyslaw {"citation": "Insurance Law § 2119", "kind": "section", "law_id": "ISC", "location_id": "2119", "path": "ARTICLE 21 › SECTION 2119", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2119.md", "title": "Insurance agents, brokers, consultants, life settlement brokers, and title insurance agents; written contract for compensation; excess ch..."} -->
+# Insurance Law § 2119 — Insurance agents, brokers, consultants, life settlement brokers, and title insurance agents; written contract for compensation; excess ch...
 
 [Insurance Law](../README.md) › [Article 21 — Agents, Brokers, Adjusters, Consultants and Intermediaries](README.md)
 
 ```text
-  § 2119. * Insurance agents, brokers, consultants, and life settlement
-brokers; written contract for compensation; excess charges prohibited.
-  * NB Effective until September 27, 2014
-  * Insurance agents, brokers, consultants, life settlement brokers, and
-title insurance agents; written contract for compensation; excess
-charges prohibited.
-  * NB Effective September 27, 2014
+  § 2119. Insurance agents, brokers, consultants, life settlement
+brokers, and title insurance agents; written contract for compensation;
+excess charges prohibited.
   (a) (1) No person licensed as an insurance agent, broker or consultant
 may receive any fee, commission or thing of value for examining,
 appraising, reviewing or evaluating any insurance policy, bond, annuity
@@ -90,10 +86,10 @@ other person with respect to any life settlement contract if the life
 settlement broker has already received or will receive compensation,
 direct or indirect from, or on behalf of, the owner with respect to that
 life settlement contract.
-  * (f) No title insurance agent may receive any compensation or fee,
+  (f) No title insurance agent may receive any compensation or fee,
 direct or indirect, for or on account of services performed in
 connection with the issuance of a title insurance policy, unless such
-compensation is: (1) for ancillary services not encompassed in the rate
+compensation is:  (1) for ancillary services not encompassed in the rate
 of premium approved by the superintendent; and (2) based upon a written
 memorandum signed by the party to be charged, and specifying or clearly
 defining the amount or extent of such compensation to be charged for
@@ -104,5 +100,4 @@ services have been fully performed. For purposes of this subsection,
 legal services performed by a New York state licensed attorney who is
 also engaged as a title insurance agent shall not be considered
 ancillary services.
-  * NB Effective September 27, 2014
 ```

@@ -405,29 +405,15 @@ to the two thousand eight and two thousand nine calendar years the
 aggregate amount of such trend factor adjustments shall be subject to
 the provisions of section two of part D of chapter fifty-eight of the
 laws of two thousand nine, as amended.
-  * (d) The commissioner shall promulgate regulations, and may
-promulgate emergency regulations, to implement the provisions of this
-subdivision.  Such regulations shall be developed in consultation with
-the nursing home industry and advocates for residential health care
-facility residents and, further, the commissioner shall provide
-notification concerning such regulations to the chairs of the senate and
-assembly health committees, the chair of the senate finance committee
-and the chair of the assembly ways and means committee. Such regulations
-shall include provisions for rate adjustments or payment enhancements to
-facilitate a minimum four-year transition of facilities to the
-rate-setting methodology established by this subdivision and may also
-include, but not be limited to, provisions for facilitating quality
-improvements in residential health care facilities.
-  * NB Effective until October 1, 2014
-  * (d) The commissioner shall promulgate regulations, and may
-promulgate emergency regulations, to implement the provisions of this
-subdivision.  Such regulations shall be developed in consultation with
-the nursing home industry and advocates for residential health care
-facility residents and, further, the commissioner shall provide
-notification concerning such regulations to the chairs of the senate and
-assembly health committees, the chair of the senate finance committee
-and the chair of the assembly ways and means committee. Such regulations
-shall include provisions for rate adjustments or payment enhancements to
+  (d) The commissioner shall promulgate regulations, and may promulgate
+emergency regulations, to implement the provisions of this subdivision.
+Such regulations shall be developed in consultation with the nursing
+home industry and advocates for residential health care facility
+residents and, further, the commissioner shall provide notification
+concerning such regulations to the chairs of the senate and assembly
+health committees, the chair of the senate finance committee and the
+chair of the assembly ways and means committee. Such regulations shall
+include provisions for rate adjustments or payment enhancements to
 facilitate a minimum four-year transition of facilities to the
 rate-setting methodology established by this subdivision and may also
 include, but not be limited to, provisions for facilitating quality
@@ -444,7 +430,6 @@ case of employee misconduct, the facility would have otherwise received
 a quality pool payment. Regulations pertaining to the facilitation of
 quality improvement may be made effective for periods on and after
 January first, two thousand thirteen.
-  * NB Effective October 1, 2014
   (e) With the exception of those enrollees covered under a payment rate
 methodology agreement negotiated with a residential health care
 facility, payments for inpatient residential health care facility
