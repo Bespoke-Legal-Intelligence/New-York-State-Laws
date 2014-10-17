@@ -23,7 +23,7 @@
 - [§ 837-J Parking violations enforcement and disposition program](837j-parking-violations-enforcement-and-disposition-program.md)
 - [§ 837-K Safe house for children](837k-safe-house-for-children.md)
 - [§ 837-L Capital prosecution extraordinary assistance program](837l-capital-prosecution-extraordinary-assistance-program.md)
-- [§ 837-M Reporting duties of law enforcement departments with respect to missing children](837m-reporting-duties-of-law-enforcement-departments-with-respect-to-missing-children.md)
+- [§ 837-M Reporting duties of law enforcement departments with respect to missing children and vulnerable adults](837m-reporting-duties-of-law-enforcement-departments-with-respect-to-missing-children.md)
 - [§ 837-M\*2 Criminal history records search for certain employment, appointments, licenses or permits in the city of New York](837m-2-criminal-history-records-search-for-certain-employment-appointments-licenses.md)
 - [§ 837-N Criminal history information of caregivers; requirements](837n-criminal-history-information-of-caregivers-requirements.md)
 - [§ 837-O Search for arson conviction records of volunteer firefighter applicants](837o-search-for-arson-conviction-records-of-volunteer-firefighter-applicants.md)

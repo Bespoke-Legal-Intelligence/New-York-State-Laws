@@ -19,7 +19,7 @@
 - [§ 170.60 Requirement of plea to information, simplified information or prosecutor's information](170.60-requirement-of-plea-to-information.md)
 - [§ 170.65 Replacement of misdemeanor complaint by information and waiver thereof](170.65-replacement-of-misdemeanor-complaint.md)
 - [§ 170.70 Release of defendant upon failure to replace misdemeanor complaint by information](170.70-release-of-defendant-upon-failure.md)
-- [§ 170.80 Proceedings regarding certain prostitution charges; certain teenagers](170.80-proceedings-regarding-certain.md)
+- [§ 170.80 Proceedings regarding certain prostitution charges; certain persons aged sixteen or seventeen](170.80-proceedings-regarding-certain.md)
 
 <details>
 <summary>Official heading of Article 170, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -62,7 +62,7 @@ Section 170.10 Arraignment upon information, simplified traffic
         170.70 Release of defendant upon failure to replace misdemeanor
                  complaint by information.
         170.80 Proceedings regarding certain prostitution charges;
-                 certain teenagers.
+                 certain persons aged sixteen or seventeen.
 ```
 
 </details>

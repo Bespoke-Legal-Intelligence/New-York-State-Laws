@@ -29,6 +29,7 @@
 - [§ 87 State reptile](87-state-reptile.md)
 - [§ 87\*2 State bush](87-2-state-bush.md)
 - [§ 88 State slogan](88-state-slogan.md)
+- [§ 89 State snack](89-state-snack.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +59,7 @@ Section 70.   Description of the arms of the state and the state flag.
         87.   State reptile.
         87*2. State bush.
         88.   State slogan.
+        89.   State snack.
 ```
 
 </details>
