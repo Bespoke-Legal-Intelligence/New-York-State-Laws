@@ -4,7 +4,8 @@
 [General Municipal Law](../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](README.md)
 
 ```text
-                                TITLE 119
+                               * TITLE 119
                            VILLAGE OF WESTBURY
                       COMMUNITY DEVELOPMENT AGENCY
+  * NB Repealed December 19, 2014
 ```

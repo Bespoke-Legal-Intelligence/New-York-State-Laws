@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 102 — Village of Albion Urban Renewal Agency](README.md)
 
 ```text
-  § 670. Village of Albion urban renewal agency. An urban renewal
+  * § 670. Village of Albion urban renewal agency. An urban renewal
 agency, to be known as the village of Albion urban renewal agency, is
 hereby established for the accomplishment of any or all of the purposes
 specified in articles fifteen and fifteen-A of this chapter and in
@@ -19,4 +19,5 @@ prescribed by and be subject to the provisions of article fifteen-A of
 this chapter and the agency, its members, officers and employees and its
 operations and activities shall in all respects be governed by the
 provisions of such article.
+  * NB Repealed December 19, 2014
 ```

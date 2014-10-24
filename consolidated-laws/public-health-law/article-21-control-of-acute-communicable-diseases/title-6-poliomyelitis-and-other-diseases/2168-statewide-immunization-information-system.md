@@ -42,15 +42,18 @@ party payer as defined in paragraph (f) of this subdivision, local
 health districts as defined by paragraph (c) of subdivision one of
 section two of this chapter, local social services districts and the
 office of children and family services with regard to children in their
-legal custody, and WIC programs as defined in paragraph (g) of this
-subdivision. An authorized user may be located outside New York state.
-An entity other than a local health district shall be an authorized user
-only with respect to a person seeking or receiving a health care service
-from the health care provider, a person enrolled or seeking to be
-enrolled in the school, a person insured by the third party payer, a
-person in the custody of the local social services district or the
-office of children and family services, or a person seeking or receiving
-services through WIC programs, as the case may be.
+legal custody, WIC programs as defined in paragraph (g) of this
+subdivision, registered professional nurses, and pharmacists authorized
+to administer immunizations pursuant to subdivision two of section
+sixty-eight hundred one of the education law. An authorized user may be
+located outside New York state. An entity other than a local health
+district shall be an authorized user only with respect to a person
+seeking or receiving a health care service from the health care
+provider, a person enrolled or seeking to be enrolled in the school, a
+person insured by the third party payer, a person in the custody of the
+local social services district or the office of children and family
+services, or a person seeking or receiving services through WIC
+programs, as the case may be.
   (b) The term "statewide immunization information system" or "system"
 shall mean a statewide-computerized database maintained by the
 department capable of collecting, storing, and disclosing the electronic
@@ -111,21 +114,38 @@ analysis. Health care providers administering immunizations to persons
 less than nineteen years of age in the city of New York shall report, in
 a format prescribed by the city of New York commissioner of health and
 mental hygiene, all such immunizations to the citywide immunization
-registry.  The commissioner, and for the city of New York the
-commissioner of health and mental hygiene, shall have the discretion to
-accept for inclusion in the system information regarding immunizations
-administered to individuals nineteen years of age or older with the
-consent of the vaccinee. Health care providers who conduct a blood lead
-analysis on a person under eighteen years of age and who report the
-results of such analysis to the city of New York commissioner of health
-and mental hygiene pursuant to New York city reporting requirements
-shall be exempt from this requirement for reporting blood lead analysis
-results to the state commissioner of health; provided, however, blood
-lead analysis data collected from physician office laboratories by the
-commissioner of health and mental hygiene of the city of New York
-pursuant to the health code of the city of New York shall be provided to
-the department in a format prescribed by the commissioner.
-  (b) The statewide immunization information system shall provide a
+registry.  Health care providers who conduct a blood lead analysis on a
+person under eighteen years of age and who report the results of such
+analysis to the city of New York commissioner of health and mental
+hygiene pursuant to New York city reporting requirements shall be exempt
+from this requirement for reporting blood lead analysis results to the
+state commissioner of health; provided, however, blood lead analysis
+data collected from physician office laboratories by the commissioner of
+health and mental hygiene of the city of New York pursuant to the health
+code of the city of New York shall be provided to the department in a
+format prescribed by the commissioner.
+  (b) (i) Any health care provider who administers any vaccine to a
+person nineteen years of age or older, may report, with the consent of
+the vaccinee, all such immunizations to the department in a format
+prescribed by the commissioner within fourteen days of administration of
+such immunizations. Health care providers administering immunizations to
+persons nineteen years of age or older in the city of New York may
+report, with the consent of the vaccinee, in a format prescribed by the
+city of New York commissioner of health and mental hygiene, all such
+immunizations to the citywide immunization registry.
+  (ii) A registered professional nurse, or a pharmacist who administers
+a vaccine pursuant to subdivision two of section sixty-eight hundred one
+of the education law, to a person nineteen years of age or older, shall
+report, with the consent of the vaccinee, all such immunizations to the
+department in a format prescribed by the commissioner within fourteen
+days of administration of such immunizations. Registered professional
+nurses or pharmacists administering immunizations pursuant to
+subdivision two of section sixty-eight hundred one of the education law,
+to persons nineteen years of age or older in the city of New York shall
+report, with the consent of the vaccinee, in a format prescribed by the
+city of New York commissioner of health and mental hygiene, all such
+immunizations to the citywide immunization registry.
+  (c) The statewide immunization information system shall provide a
 method for health care providers to determine when the registrant is due
 or late for a recommended immunization and shall serve as a means for
 authorized users to receive prompt and accurate information, as reported
@@ -235,20 +255,22 @@ health departments shall have access to the immunization information
 system and the blood lead information in such system for purposes of
 outreach, quality improvement and accountability, epidemiological
 studies and disease control within their county; and
-  (c) health care providers and their designees shall have access to the
-statewide immunization information system and the blood lead information
-in such system only for purposes of submission of information about
-vaccinations received by a specific registrant, determination of the
-immunization status of a specific registrant, determination of the blood
-lead testing status of a specific registrant, submission of the results
-from a blood lead analysis of a sample obtained from a specific
-registrant in accordance with paragraph (h) of subdivision two of this
-section, review of practice coverage, generation of reminder notices,
-quality improvement and accountability and printing a copy of the
-immunization or lead testing record for the registrant's medical record,
-for the registrant's parent or guardian, or other person in parental or
-custodial relation to a child, or for a registrant upon reaching
-eighteen years of age.
+  (c) health care providers and their designees, registered professional
+nurses, and pharmacists authorized to administer immunizations pursuant
+to subdivision two of section sixty-eight hundred one of the education
+law shall have access to the statewide immunization information system
+and the blood lead information in such system only for purposes of
+submission of information about vaccinations received by a specific
+registrant, determination of the immunization status of a specific
+registrant, determination of the blood lead testing status of a specific
+registrant, submission of the results from a blood lead analysis of a
+sample obtained from a specific registrant in accordance with paragraph
+(h) of subdivision two of this section, review of practice coverage,
+generation of reminder notices, quality improvement and accountability
+and printing a copy of the immunization or lead testing record for the
+registrant's medical record, for the registrant's parent or guardian, or
+other person in parental or custodial relation to a child, or for a
+registrant upon reaching eighteen years of age.
   (d) The following authorized users shall have access to the statewide
 immunization information system and the blood lead information in such
 system and the citywide immunization registry for the purposes stated in

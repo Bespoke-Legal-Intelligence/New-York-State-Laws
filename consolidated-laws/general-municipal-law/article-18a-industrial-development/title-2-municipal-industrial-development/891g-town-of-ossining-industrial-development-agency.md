@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 891-g. Town of Ossining industrial development agency. For the
+  * § 891-g. Town of Ossining industrial development agency. For the
 benefit of the Town of Ossining, Westchester County, and the inhabitants
 thereof, an industrial development agency, to be known as the TOWN OF
 OSSINING INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -24,4 +24,5 @@ appointed by the governing body of the town of Ossining. The agency, its
 members, officers and employees and its operations and activities shall
 in all respects be governed by the provisions of title one of article
 eighteen-A of this chapter.
+  * NB Repealed December 19, 2014
 ```

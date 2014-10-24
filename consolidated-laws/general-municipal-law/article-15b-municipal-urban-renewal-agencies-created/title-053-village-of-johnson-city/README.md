@@ -11,10 +11,11 @@
 <summary>Official heading of Title 53, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 53
+                               * TITLE 53
                   VILLAGE OF JOHNSON CITY URBAN RENEWAL
                                  AGENCY
 Section 622. Village of Johnson City urban renewal agency.
+  * NB Repealed December 19, 2014
 ```
 
 </details>

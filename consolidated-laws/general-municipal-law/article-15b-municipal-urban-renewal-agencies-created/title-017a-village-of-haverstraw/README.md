@@ -11,9 +11,10 @@
 <summary>Official heading of Title 17-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               TITLE 17-A
+                              * TITLE 17-A
                VILLAGE OF HAVERSTRAW URBAN RENEWAL AGENCY
 Section 586-a. Village of Haverstraw urban renewal agency.
+  * NB Repealed December 19, 2014
 ```
 
 </details>

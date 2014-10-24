@@ -144,6 +144,7 @@
 - [§ 485-N Residential-commercial exemption program](485n-residential-commercial-exemption-program.md)
 - [§ 485-O New residential property exemption; certain cities](485o-new-residential-property-exemption-certain-cities.md)
 - [§ 485-P Economic transformation area exemption](485p-economic-transformation-area-exemption.md)
+- [§ 485-Q Residential investment exemption; certain cities](485q-residential-investment-exemption-certain-cities.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain solar or wind energy systems or farm waste energy systems](487-exemption-from-taxation-for-certain-solar-or-wind-energy-systems-or-farm-waste.md)
@@ -391,6 +392,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         485-o.   New residential property exemption; certain cities.
         485-n.   Residential-commercial exemption program.
         485-p.   Economic transformation area exemption.
+        485-q.   Residential investment exemption; certain cities.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance

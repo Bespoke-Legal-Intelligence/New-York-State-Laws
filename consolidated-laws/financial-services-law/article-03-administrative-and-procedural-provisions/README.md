@@ -15,6 +15,7 @@
 - [§ 308 Judicial review of orders, regulations and decisions of superintendent](308-judicial-review-of-orders-regulations-and-decisions-of-superintendent.md)
 - [§ 309 Injunction to restrain violation of this chapter](309-injunction-to-restrain-violation-of-this-chapter.md)
 - [§ 310 Certificates as evidence; affirmation of documents and testimony](310-certificates-as-evidence-affirmation-of-documents-and-testimony.md)
+- [§ 311 Financial literacy education](311-financial-literacy-education.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -37,6 +38,7 @@ Section 301.   Powers of the superintendent.
         309.   Injunction to restrain violation of this chapter.
         310.   Certificates as evidence; affirmation of documents and
                  testimony.
+        311.   Financial literacy education.
 ```
 
 </details>

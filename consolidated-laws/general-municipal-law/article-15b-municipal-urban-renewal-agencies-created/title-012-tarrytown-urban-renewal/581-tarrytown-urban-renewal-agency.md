@@ -17,4 +17,5 @@ provisions of article fifteen-A of this chapter and the agency, its
 members, officers and employees and its operations and activities shall
 in all respects be governed by the provisions of such article.
   * NB There are 2 § 581's
+  * NB Repealed December 19, 2014
 ```

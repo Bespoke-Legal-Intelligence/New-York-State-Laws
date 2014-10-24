@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 103 — City of Canandaigua Urban Renewal Agency](README.md)
 
 ```text
-  § 671. City of Canandaigua urban renewal agency. A municipal urban
+  * § 671. City of Canandaigua urban renewal agency. A municipal urban
 renewal agency, to be known as the city of Canandaigua urban renewal
 agency, is hereby established for the accomplishment of any or all of
 the purposes specified in articles fifteen and fifteen-A of this chapter
@@ -20,4 +20,5 @@ be subject to the provisions of article fifteen-A of this chapter and
 the agency, its members, officers, and employees and its operations and
 activities shall in all respects be governed by the provisions of such
 article.
+  * NB Repealed December 19, 2014
 ```

@@ -218,18 +218,13 @@ such patient's right to request a discharge review in accordance with
 this section. The patient or the appointed personal representative of
 the patient shall have the opportunity to sign this form and receive a
 copy of the signed form.
-  * 9. The council shall adopt rules and regulations, subject to the
+  9. Upon discharge of a blind or visually impaired patient, a hospital
+shall offer to provide the patient's discharge plan in a large print
+version or, at the patient's or patient's representative's request, as
+an audio recording, to be made available to such patient or such
+patient's representative on compact disc or other medium as the hospital
+may offer, or as an electronically transmitted digital file, in addition
+to a written copy of the discharge plan.
+  10. The council shall adopt rules and regulations, subject to the
 approval of the commissioner, necessary to implement this section.
-  * NB Effective until October 20, 2014
-  * 9. Upon discharge of a blind or visually impaired patient, a
-hospital shall offer to provide the patient's discharge plan in a large
-print version or, at the patient's or patient's representative's
-request, as an audio recording, to be made available to such patient or
-such patient's representative on compact disc or other medium as the
-hospital may offer, or as an electronically transmitted digital file, in
-addition to a written copy of the discharge plan.
-  * NB Effective October 20, 2014
-  * 10. The council shall adopt rules and regulations, subject to the
-approval of the commissioner, necessary to implement this section.
-  * NB Effective October 20, 2014
 ```

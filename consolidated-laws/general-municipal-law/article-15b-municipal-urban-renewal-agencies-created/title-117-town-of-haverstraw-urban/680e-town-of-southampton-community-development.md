@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 117 — Town of Haverstraw Urban Renewal Agency](README.md)
 
 ```text
-  § 680-e. Town of Southampton community development agency. For the
+  * § 680-e. Town of Southampton community development agency. For the
 benefit of the town of Southampton and the inhabitants thereof, a
 community development agency, to be known as the TOWN OF SOUTHAMPTON
 COMMUNITY DEVELOPMENT AGENCY, is hereby established for the
@@ -26,4 +26,5 @@ councilmen or councilwomen of the town of Southampton. The agency, its
 members, officers and employees and its operations and activities shall
 in all respects be governed by the provisions of articles fifteen and
 fifteen-A of this chapter.
+  * NB Repealed December 19, 2014
 ```

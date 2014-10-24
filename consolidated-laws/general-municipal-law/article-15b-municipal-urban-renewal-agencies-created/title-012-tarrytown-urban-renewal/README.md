@@ -15,6 +15,7 @@
                      TARRYTOWN URBAN RENEWAL AGENCY
 Section 581. Tarrytown urban renewal agency.
   * NB There are 2 Title 12's
+  * NB Repealed December 19, 2014
 ```
 
 </details>

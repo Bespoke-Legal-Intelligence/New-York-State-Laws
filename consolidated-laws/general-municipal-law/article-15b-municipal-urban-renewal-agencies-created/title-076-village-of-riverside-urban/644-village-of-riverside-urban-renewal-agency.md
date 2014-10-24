@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 76 — Village of Riverside Urban Renewal Agency](README.md)
 
 ```text
-  § 644. Village of Riverside urban renewal agency. An urban renewal
+  * § 644. Village of Riverside urban renewal agency. An urban renewal
 agency, to be known as the village of Riverside urban renewal agency, is
 hereby established for the accomplishment of any or all of the purposes
 specified in articles fifteen and fifteen-A of this chapter and in
@@ -16,4 +16,5 @@ shall be organized in the manner prescribed by and be subject to the
 provisions of article fifteen-A of this chapter and the agency, its
 members, officers and employees and its operations and activities shall
 in all respects be governed by the provisions of such article.
+  * NB Repealed December 19, 2014
 ```

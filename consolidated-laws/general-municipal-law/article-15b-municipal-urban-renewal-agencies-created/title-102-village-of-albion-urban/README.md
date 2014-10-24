@@ -11,9 +11,10 @@
 <summary>Official heading of Title 102, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 102
+                               * TITLE 102
                  VILLAGE OF ALBION URBAN RENEWAL AGENCY
 Section 670. Village of Albion urban renewal agency.
+  * NB Repealed December 19, 2014
 ```
 
 </details>

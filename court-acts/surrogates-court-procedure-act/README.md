@@ -8,7 +8,7 @@
 | Senate code | SCP |
 | Type | Court act |
 | Sections | 385 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 24 Oct 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Surrogate's Court Procedure |
 
@@ -26,6 +26,10 @@ Passed by a majority vote, three-fifths being present
 ```
 
 [Full chapter text (77 lines)](chapter-text.md)
+
+## Recent changes
+
+- [24 Oct 2014](../../changes/2014/2014-10-24.md): 1 amended
 
 ## Contents
 
