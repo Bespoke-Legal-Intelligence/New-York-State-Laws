@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 24 Oct 2014.*
+*Current through the publication of 31 Oct 2014.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [31 Oct 2014](changes/2014/2014-10-31.md): Education Law; Public Health Law
 - [24 Oct 2014](changes/2014/2014-10-24.md): Alcoholic Beverage Control Law; Domestic Relations Law; Education Law; Estates, Powers and Trusts Law; Financial Services Law; General Business Law; General Municipal Law; Insurance Law; Local Finance Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Law; Real Property Tax Law; Surrogate's Court Procedure Act; Urban Development Corporation Act
 - [17 Oct 2014](changes/2014/2014-10-17.md): Criminal Procedure Law; Executive Law; Penal Law; State Law; Tax Law
 - [3 Oct 2014](changes/2014/2014-10-03.md): Civil Practice Law and Rules; Education Law; Environmental Conservation Law; Insurance Law; Labor Law; Public Health Law; Tax Law
@@ -27,9 +28,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 37 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 27 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 19 |
+| [Education Law](consolidated-laws/education-law/README.md) | 19 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 17 |
-| [Education Law](consolidated-laws/education-law/README.md) | 12 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 8 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 9 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 6 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 6 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 6 |
@@ -63,7 +64,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 24 Oct 2014 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 163 | 26 Sep 2014 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,820 | 24 Oct 2014 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,826 | 31 Oct 2014 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | no change since 22 Sep 2014 (start of history) |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 405 | no change since 22 Sep 2014 (start of history) |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -104,7 +105,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | no change since 22 Sep 2014 (start of history) |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,133 | 24 Oct 2014 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 47 | no change since 22 Sep 2014 (start of history) |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,597 | 24 Oct 2014 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,597 | 31 Oct 2014 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | no change since 22 Sep 2014 (start of history) |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 24 Oct 2014 |

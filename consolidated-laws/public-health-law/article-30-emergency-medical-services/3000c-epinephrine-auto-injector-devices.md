@@ -6,19 +6,38 @@
 ```text
   § 3000-c. Epinephrine auto-injector devices. 1. Definitions. As used
 in this section:
-  (a) "Eligible person, firm, organization, or other entity" means, (i)
-an ambulance service or advanced life support first response service; a
-certified first responder, emergency medical technician, or advanced
-emergency medical technician, who is employed by or an enrolled member
-of any such service; (ii) a children's overnight camp as defined in
-subdivision one of section thirteen hundred ninety-two of this chapter,
-a summer day camp as defined in subdivision two of section thirteen
-hundred ninety-two of this chapter, a traveling summer day camp as
-defined in subdivision three of section thirteen hundred ninety-two of
-this chapter or a person employed by such a camp; or (iii) any other
+  * (a) "Eligible person, firm, organization, or other entity" means,
+(i) an ambulance service or advanced life support first response
+service; a certified first responder, emergency medical technician, or
+advanced emergency medical technician, who is employed by or an enrolled
+member of any such service; (ii) a children's overnight camp as defined
+in subdivision one of section thirteen hundred ninety-two of this
+chapter, a summer day camp as defined in subdivision two of section
+thirteen hundred ninety-two of this chapter, a traveling summer day camp
+as defined in subdivision three of section thirteen hundred ninety-two
+of this chapter or a person employed by such a camp; or (iii) any other
 person, firm, organization or entity designated pursuant to regulations
 of the commissioner in consultation with other appropriate agencies; and
 all subject to regulations of the commissioner.
+  * NB Effective until February 27, 2015
+  * (a) "Eligible person, firm, organization, or other entity" means,
+(i) an ambulance service or advanced life support first response
+service; a certified first responder, emergency medical technician, or
+advanced emergency medical technician, who is employed by or an enrolled
+member of any such service; (ii) a children's overnight camp as defined
+in subdivision one of section thirteen hundred ninety-two of this
+chapter, a summer day camp as defined in subdivision two of section
+thirteen hundred ninety-two of this chapter, a traveling summer day camp
+as defined in subdivision three of section thirteen hundred ninety-two
+of this chapter or a person employed by such a camp; or (iii) school
+districts, boards of cooperative educational services, county vocational
+education and extension boards, charter schools, and non-public
+elementary and secondary schools in this state or any person employed by
+any such entity; or (iv) any other person, firm, organization or entity
+designated pursuant to regulations of the commissioner in consultation
+with other appropriate agencies; and all subject to regulations of the
+commissioner.
+  * NB Effective February 27, 2015
   (b) "Emergency health care provider" means (i) a physician with
 knowledge and experience in the delivery of emergency care; or (ii) a
 hospital licensed under article twenty-eight of this chapter that
