@@ -4,9 +4,9 @@
 [Urban Development Corporation Act](README.md)
 
 ```text
-  * § 16-w. Beginning farmers NY fund. 1. The beginning farmers NY fund
-is hereby created. The purpose of the beginning farmers NY fund is to
-make grants to eligible applicants, to support beginning farmers and
+  § 16-w. Beginning farmers NY fund. 1. The beginning farmers NY fund is
+hereby created. The purpose of the beginning farmers NY fund is to make
+grants to eligible applicants, to support beginning farmers and
 encourage them to consider farming as a career, resulting in the growth
 of agribusiness within the state and the concomitant tax revenues for
 the state.
@@ -46,5 +46,4 @@ disbursement terms, and to provide for the repayment of funds received
 by the beneficiary if the beneficiary leaves New York state or otherwise
 ceases farming activity within a period of time to be established by the
 corporation.
-  * NB Effective September 27, 2014
 ```

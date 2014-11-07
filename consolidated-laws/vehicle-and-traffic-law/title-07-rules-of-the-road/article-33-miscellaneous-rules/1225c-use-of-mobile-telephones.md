@@ -93,18 +93,7 @@ their official duties: a police officer or peace officer; a member of a
 fire department, district or company; or the operator of an authorized
 emergency vehicle as defined in section one hundred one of this chapter,
 or (c) the use of a hands-free mobile telephone.
-  * 4. A violation of subdivision two of this section shall be a traffic
-infraction and shall be punishable by a fine of not less than fifty
-dollars nor more than one hundred fifty dollars upon conviction of a
-first violation; upon conviction of a second violation, both of which
-were committed within a period of eighteen months, such violation shall
-be punished by a fine of not less than fifty dollars nor more than two
-hundred dollars; upon conviction of a third or subsequent violation, all
-of which were committed within a period of eighteen months, such
-violation shall be punished by a fine of not less than fifty dollars nor
-more than four hundred dollars.
-  * NB Effective until November 1, 2014
-  * 4. A violation of subdivision two of this section shall be a traffic
+  4. A violation of subdivision two of this section shall be a traffic
 infraction and shall be punishable by a fine of not less than fifty
 dollars nor more than two hundred dollars upon conviction of a first
 violation; upon conviction of a second violation, both of which were
@@ -114,5 +103,4 @@ hundred fifty dollars; upon conviction of a third or subsequent
 violation, all of which were committed within a period of eighteen
 months, such violation shall be punished by a fine of not less than
 fifty dollars nor more than four hundred fifty dollars.
-  * NB Effective November 1, 2014
 ```
