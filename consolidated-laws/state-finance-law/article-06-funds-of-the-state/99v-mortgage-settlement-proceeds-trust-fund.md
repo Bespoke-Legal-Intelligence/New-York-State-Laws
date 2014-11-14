@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  § 99-v. Mortgage settlement proceeds trust fund. 1. There is hereby
+  * § 99-v. Mortgage settlement proceeds trust fund. 1. There is hereby
 established in the joint custody of the state comptroller and the
 commissioner of taxation and finance a trust and agency fund known as
 the "mortgage settlement proceeds trust fund".
@@ -59,4 +59,5 @@ any other purpose consistent with the terms of the Settlement Agreement
 dated November 19, 2013 between J.P. Morgan Securities LLC (f/k/a "Bear,
 Stearns & Co. Inc.") JPMorgan Chase Bank, N.A., EMC Mortgage LLC (f/k/a
 "EMC Mortgage Corporation") and the People of the State of New York.
+  * NB There are 2 § 99-v's
 ```

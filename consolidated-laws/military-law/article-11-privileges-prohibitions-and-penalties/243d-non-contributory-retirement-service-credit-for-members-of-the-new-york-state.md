@@ -1,15 +1,16 @@
-﻿<!-- nyslaw {"citation": "Military Law § 243-D", "kind": "section", "law_id": "MIL", "location_id": "243-D", "path": "ARTICLE 11 › SECTION 243-D", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/243-D.md", "title": "Non-contributory retirement service credit for members of the New York state and local retirement systems or the New York state teachers'..."} -->
-# Military Law § 243-D — Non-contributory retirement service credit for members of the New York state and local retirement systems or the New York state teachers'...
+﻿<!-- nyslaw {"citation": "Military Law § 243-D", "kind": "section", "law_id": "MIL", "location_id": "243-D", "path": "ARTICLE 11 › SECTION 243-D", "repealed": false, "repealed_date": null, "source": "nys-laws:MIL/243-D.md", "title": "Non-contributory retirement service credit for members of the New York state and local retirement systems, the New York city retirement s..."} -->
+# Military Law § 243-D — Non-contributory retirement service credit for members of the New York state and local retirement systems, the New York city retirement s...
 
 [Military Law](../README.md) › [Article 11 — Privileges, Prohibitions and Penalties](README.md)
 
 ```text
   § 243-d. Non-contributory retirement service credit for members of the
-New York state and local retirement systems or the New York state
-teachers' retirement system called to active military duty on or after
-September eleventh, two thousand one. Notwithstanding any other
-provision of law, any member of the New York state and local employees'
-retirement system, the New York state and local police and fire
+New York state and local retirement systems, the New York city
+retirement systems or the New York state teachers' retirement system
+called to active military duty on or after September eleventh, two
+thousand one. Notwithstanding any other provision of law, any member of
+the New York state and local employees' retirement system, the New York
+city retirement systems, the New York state and local police and fire
 retirement system, or the New York state teachers' retirement system who
 is called to active military duty on or after September eleventh, two
 thousand one and prior to January first, two thousand six, who is not

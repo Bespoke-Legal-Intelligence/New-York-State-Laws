@@ -25,7 +25,7 @@
 - [§ 243-B Civil service examinations by military personnel](243b-civil-service-examinations-by-military-personnel.md)
 - [§ 243-B\*2 Payment of certain pension contributions by the city of New York](243b-2-payment-of-certain-pension-contributions-by-the-city-of-new-york.md)
 - [§ 243-C Application period for civil service examinations for military personnel](243c-application-period-for-civil-service-examinations-for-military-personnel.md)
-- [§ 243-D Non-contributory retirement service credit for members of the New York state and local retirement systems or the New York state teachers'...](243d-non-contributory-retirement-service-credit-for-members-of-the-new-york-state.md)
+- [§ 243-D Non-contributory retirement service credit for members of the New York state and local retirement systems, the New York city retirement s...](243d-non-contributory-retirement-service-credit-for-members-of-the-new-york-state.md)
 - [§ 244 Members of pension system absent on military duty](244-members-of-pension-system-absent-on-military-duty.md)
 - [§ 244-A Credit to members of public retirement systems for military service performed during war](244a-credit-to-members-of-public-retirement-systems-for-military-service-performed.md)
 - [§ 245 Retirement allowances of certain war veterans](245-retirement-allowances-of-certain-war-veterans.md)
@@ -84,10 +84,11 @@ Section 235.     Relief from civil or criminal liability; exemption from
         243-c.   Application period for civil service examinations for
                    military personnel.
         243-d.   Non-contributory retirement service credit for members
-                   of the New York state and local retirement systems or
-                   the New York state teachers' retirement system called
-                   to active military duty on or after September
-                   eleventh, two thousand one.
+                   of the New York state and local retirement systems,
+                   the New York city retirement systems or the New York
+                   state teachers' retirement system called to active
+                   military duty on or after September eleventh, two
+                   thousand one.
         244.     Members of pension system absent on military duty.
         244-a.   Credit to members of public retirement systems for
                    military service performed during war.

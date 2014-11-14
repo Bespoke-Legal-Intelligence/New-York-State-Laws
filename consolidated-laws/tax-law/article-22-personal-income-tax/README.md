@@ -51,6 +51,8 @@ Section 611.   New York taxable income of a resident individual.
         626.   The United States Olympic Committee/Lake Placid Olympic
                  Training Center Fund.
         627.   Gift for breast cancer research and education.
+        627-a. Gift for honor and remembrance of veterans.
+        627-b. Gift for assisting homeless veterans.
         628.   Gift for missing and exploited children clearinghouse
                  fund.
         629.   Gift for Alzheimer's disease support services.

@@ -218,6 +218,7 @@
 - [§ 99-U New York state gaming commission account](99u-new-york-state-gaming-commission-account.md)
 - [§ 99-U\*2 New York state teen health education fund](99u-2-new-york-state-teen-health-education-fund.md)
 - [§ 99-V Mortgage settlement proceeds trust fund](99v-mortgage-settlement-proceeds-trust-fund.md)
+- [§ 99-V\*2 Homeless veterans assistance fund](99v-2-homeless-veterans-assistance-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -484,6 +485,7 @@ Section 70.        Classification of funds.
         99-u.      New York state gaming commission account.
         99-u*2.    New York state teen health education fund.
         99-v.      Mortgage settlement proceeds trust fund.
+        99-v*2.    Homeless veterans assistance fund.
 ```
 
 </details>
