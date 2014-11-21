@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 14 Nov 2014.*
+*Current through the publication of 21 Nov 2014.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [21 Nov 2014](changes/2014/2014-11-21.md): Not-for-Profit Corporation Law
 - [14 Nov 2014](changes/2014/2014-11-14.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Military Law; Real Property Tax Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 - [7 Nov 2014](changes/2014/2014-11-07.md): Penal Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [31 Oct 2014](changes/2014/2014-10-31.md): Education Law; Public Health Law
@@ -40,8 +41,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 7 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 6 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | 5 |
+| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | 4 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 4 |
-| [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | 4 |
 
 ## Consolidated Laws
 
@@ -99,7 +100,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Municipal Housing Authorities Law](consolidated-laws/municipal-housing-authorities-law/README.md) | MHA | 19 | no change since 22 Sep 2014 (start of history) |
 | [Navigation Law](consolidated-laws/navigation-law/README.md) | NAV | 216 | 26 Sep 2014 |
 | [New York State Printing and Public Documents Law](consolidated-laws/new-york-state-printing-and-public-documents-law/README.md) | PPD | 16 | no change since 22 Sep 2014 (start of history) |
-| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 26 Sep 2014 |
+| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 21 Nov 2014 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 185 | no change since 22 Sep 2014 (start of history) |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | no change since 22 Sep 2014 (start of history) |
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 7 Nov 2014 |
