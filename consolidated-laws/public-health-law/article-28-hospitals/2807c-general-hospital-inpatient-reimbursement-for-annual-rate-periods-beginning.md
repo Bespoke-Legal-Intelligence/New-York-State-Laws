@@ -6107,6 +6107,17 @@ subdivision two of section twenty-eight hundred seven-j of this article
 for such period and allocated in accordance with subdivision nine of
 section twenty-eight hundred seven-j of this article.
   * NB Expires December 31, 2017
+  * 19-b. Funds accumulated in the statewide pool created by the
+assessment authorized in accordance with subdivision eighteen of this
+section for a period during the period January first, nineteen hundred
+ninety-seven through December thirty-first, nineteen hundred
+ninety-nine, including income from invested funds, shall be transferred
+by the commissioner and consolidated with funds accumulated from the
+allowance pursuant to subdivision two of section twenty-eight hundred
+seven-j of this article for such period and allocated in accordance with
+subdivision nine of section twenty-eight hundred seven-j of this
+article.
+  * NB Effective and expires December 31, 2017
   20. Payments to pools. (a) Payments by or on behalf of general
 hospitals to bad debt and charity care regional pools of funds due based
 on the allowance included in rates and charges in accordance with

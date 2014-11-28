@@ -12,6 +12,7 @@
 - [§ 504 Laboratories; scientific tests on living animals; rules; approval](504-laboratories-scientific-tests-on-living-animals-rules-approval.md)
 - [§ 505 Animal irritancy tests prohibited](505-animal-irritancy-tests-prohibited.md)
 - [§ 505-A Purchase of certain animals for scientific tests](505a-purchase-of-certain-animals-for-scientific-tests.md)
+- [§ 506 Unlawful interference with research laboratory operations](506-unlawful-interference-with-research-laboratory-operations.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,6 +32,8 @@ Section 500.   Wadsworth center for laboratories and research;
                  approval.
         505.   Animal irritancy tests prohibited.
         505-a. Purchase of certain animals for scientific tests.
+        506.   Unlawful interference with research laboratory
+                 operations.
 ```
 
 </details>

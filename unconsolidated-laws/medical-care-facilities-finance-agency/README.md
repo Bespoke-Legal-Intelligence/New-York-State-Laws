@@ -8,8 +8,8 @@
 | Senate code | MCF |
 | Type | Unconsolidated law |
 | Session law | L. 1973, ch. 392 |
-| Sections | 30 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 31 |
+| Last changed | 28 Nov 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Medical Care Facilities Finance Agency 392/73 |
 
@@ -30,7 +30,11 @@ Section 1.    Short title.
         5.    Powers of the agency.
 ```
 
-[Full chapter text (38 lines)](chapter-text.md)
+[Full chapter text (40 lines)](chapter-text.md)
+
+## Recent changes
+
+- [28 Nov 2014](../../changes/2014/2014-11-28.md): 3 amended, 1 added
 
 ## Contents
 
@@ -47,6 +51,7 @@ Section 1.    Short title.
 - [§ 6 Bonds and notes of the agency](06-bonds-and-notes-of-the-agency.md)
 - [§ 7 Hospital and nursing home projects reserve funds and appropriations](07-hospital-and-nursing-home-projects-reserve-funds-and-appropriations.md)
 - [§ 7-A Secured hospital projects reserve funds and appropriations](07a-secured-hospital-projects-reserve-funds-and-appropriations.md)
+- [§ 7-C Secured hospital projects reserve funds and appropriations](07c-secured-hospital-projects-reserve-funds-and-appropriations.md)
 - [§ 8 Health facilities reserve funds and appropriations](08-health-facilities-reserve-funds-and-appropriations.md)
 - [§ 9 Special provisions relating to the municipal health facilities improvement program](09-special-provisions-relating-to-the-municipal-health-facilities-improvement.md)
 - [§ 9-A Special provisions relating to mental health services facilities improvement bonds and notes](09a-special-provisions-relating-to-mental-health-services-facilities-improvement.md)

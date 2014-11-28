@@ -27,6 +27,7 @@
 - [§ 380-S Theft of identity](380s-theft-of-identity.md)
 - [§ 380-T Security freeze](380t-security-freeze.md)
 - [§ 380-U Severability](380u-severability.md)
+- [§ 380-V Severability](380v-severability.md)
 
 <details>
 <summary>Official heading of Article 25, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,7 +59,8 @@ Section 380.    Short title.
         380-r.  Disclosures to governmental agencies.
         380-s.  Theft of identity.
         380-t.  Security freeze.
-        380-u.  Severability.
+        380-u.  Security record freeze for protected minors.
+        380-v.  Severability.
 ```
 
 </details>

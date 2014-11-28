@@ -15,6 +15,7 @@
 - [§ 350 False advertising unlawful](350-false-advertising-unlawful.md)
 - [§ 350-A False advertising](350a-false-advertising.md)
 - [§ 350-B Disclosures required in advertisements using the title "doctor"](350b-disclosures-required-in-advertisements-using-the-title-doctor.md)
+- [§ 350-B-1 Disclosures required in advertisements using a senior specific designation](350b-1-disclosures-required-in-advertisements-using-a-senior-specific-designation.md)
 - [§ 350-C Notice of proposed action](350c-notice-of-proposed-action.md)
 - [§ 350-D Civil penalty](350d-civil-penalty.md)
 - [§ 350-E Construction](350e-construction.md)
@@ -40,6 +41,8 @@ Section 349.     Deceptive acts and practices unlawful.
         350-a.   False advertising.
         350-b.   Disclosures required in advertisements using the title
                    "doctor".
+        350-b-1. Disclosures required in advertisements using a senior
+                   specific designation.
         350-c.   Notice of proposed action.
         350-d.   Civil penalty.
         350-e.   Construction.

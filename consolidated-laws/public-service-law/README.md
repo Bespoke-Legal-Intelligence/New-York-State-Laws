@@ -8,7 +8,7 @@
 | Senate code | PBS |
 | Type | Consolidated law, chapter 48 |
 | Sections | 250 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 28 Nov 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Service |
 
@@ -30,6 +30,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (38 lines)](chapter-text.md)
+
+## Recent changes
+
+- [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended
 
 ## Contents
 

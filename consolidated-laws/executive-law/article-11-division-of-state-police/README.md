@@ -38,6 +38,7 @@
 - [§ 227-A Death benefits](227a-death-benefits.md)
 - [§ 229 Retirement for cause](229-retirement-for-cause.md)
 - [§ 230 Gun trafficking interdiction program](230-gun-trafficking-interdiction-program.md)
+- [§ 231 Uniform identification cards for retired police officers](231-uniform-identification-cards-for-retired-police-officers.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -85,6 +86,7 @@ Section 210.   Division of state police.
         227-a. Death benefits.
         229.   Retirement for cause.
         230.   Gun trafficking interdiction program.
+        231.   Uniform identification cards for retired police officers.
 ```
 
 </details>

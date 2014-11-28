@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
 
 ```text
-  * § 101. Accessibility, rules and regulations. 1. The secretary of
+  § 101. Accessibility, rules and regulations. 1. The secretary of
 state, in consultation with any other state agency he or she deems
 necessary, shall promulgate any rules and regulations necessary to
 remove the word "handicapped" from any signs or other means of
@@ -19,5 +19,4 @@ no secondary meaning, and provide for equivalent facilitation and
 accessibility as the current universal symbol of access. The provisions
 of this subdivision shall only apply to any new signs being installed or
 replaced on and after the effective date of this section.
-  * NB Effective November 22, 2014
 ```

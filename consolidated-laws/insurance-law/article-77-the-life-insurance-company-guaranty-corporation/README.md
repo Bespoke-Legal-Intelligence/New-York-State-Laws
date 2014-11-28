@@ -23,6 +23,7 @@
 - [§ 7716 Immunity and indemnification](7716-immunity-and-indemnification.md)
 - [§ 7717 Stay of proceedings; reopening default judgments](7717-stay-of-proceedings-reopening-default-judgments.md)
 - [§ 7718 Prohibited advertisement of the corporation in sale of insurance](7718-prohibited-advertisement-of-the-corporation-in-sale-of-insurance.md)
+- [§ 7719 Resolution facility](7719-resolution-facility.md)
 
 <details>
 <summary>Official heading of Article 77, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -48,8 +49,9 @@ Section 7701. Short title.
         7715. Tax exemptions.
         7716. Immunity and indemnification.
         7717. Stay of proceedings; reopening default judgments.
-        7718. Prohibited  advertisement  of  the  corporation in sale of
+        7718. Prohibited advertisement of the corporation in sale of
                 insurance.
+        7719. Resolution facility.
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | UCT |
 | Type | Court act |
-| Sections | 134 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 135 |
+| Last changed | 28 Nov 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform City Court Act |
 
@@ -28,6 +28,10 @@ hundred sixty-one
 ```
 
 [Full chapter text (33 lines)](chapter-text.md)
+
+## Recent changes
+
+- [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended, 1 added
 
 ## Contents
 

@@ -9,11 +9,15 @@
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 359 |
 | Sections | 25 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 28 Nov 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Facilities Development Corporation Act 359/68 |
 
 **Short title (from the law itself):** Chapter 359 of the laws of 1968 § 1. Short title. This act shall be known and may be cited and referred to as the "facilities development corporation act."
+
+## Recent changes
+
+- [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended
 
 ## Contents
 

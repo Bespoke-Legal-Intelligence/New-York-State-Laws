@@ -27,7 +27,16 @@ established pursuant to paragraph (c) of subdivision nine of section
 twenty-eight hundred seven-a of this chapter, or any successor pool or
 pools established to serve a substantially similar purpose to such
 pools.
-  * NB Expired March 1, 1998
+  * NB Expires December 31, 2015
+  * 3-b. "Eligible secured hospital borrower". A not-for-profit hospital
+corporation organized under the laws of this state, which has financed
+or refinanced a project or projects pursuant to section seven-a of
+section one of chapter three hundred ninety-two of the laws of nineteen
+hundred seventy-three, and for which special hospital project bonds, as
+defined in paragraph (d) of subdivision three of section three of
+section one of chapter three hundred ninety-two of the laws of nineteen
+hundred seventy-three, remain outstanding.
+  * NB Repealed December 31, 2015
   4. "Project". "Hospital project". A specific work or improvement,
 including lands, buildings, improvements, fixtures and articles of
 personal property, acquired, constructed, rehabilitated, owned and

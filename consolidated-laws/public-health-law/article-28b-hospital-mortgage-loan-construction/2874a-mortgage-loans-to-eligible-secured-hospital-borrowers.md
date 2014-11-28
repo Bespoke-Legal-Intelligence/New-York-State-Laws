@@ -29,5 +29,5 @@ reimbursement to eligible secured hospital borrowers for capital related
 expenses including but not limited to depreciation, rentals and interest
 on capital debt and may advance the payment of depreciation to such
 borrowers as needed.
-  * NB Expired March 1, 1998
+  * NB Expires December 31, 2015
 ```

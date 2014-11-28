@@ -44,6 +44,7 @@
 - [§ 392-G Sale of ultraviolet radiation devices](392g-sale-of-ultraviolet-radiation-devices.md)
 - [§ 392-H Trash receptacles; dumpsters](392h-trash-receptacles-dumpsters.md)
 - [§ 392-I Prices reduced to reflect change in sales tax computation](392i-prices-reduced-to-reflect-change-in-sales-tax-computation.md)
+- [§ 392-J Sales of sparkling devices](392j-sales-of-sparkling-devices.md)
 - [§ 393 Lime; standard barrels](393-lime-standard-barrels.md)
 - [§ 393-A Non fire rated wood paneling](393a-non-fire-rated-wood-paneling.md)
 - [§ 393-B Written solicitation](393b-written-solicitation.md)
@@ -135,6 +136,7 @@
 - [§ 399-G Labeling of solder](399g-labeling-of-solder.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
+- [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
 - [§ 399-M Disclosures in advertisement and sale of unassembled goods](399m-disclosures-in-advertisement-and-sale-of-unassembled-goods.md)
 - [§ 399-N Approval of electrical devices](399n-approval-of-electrical-devices.md)
 - [§ 399-O Selling prices and container deposits](399o-selling-prices-and-container-deposits.md)
@@ -218,6 +220,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         392-h.     Trash receptacles; dumpsters.
         392-i.     Prices reduced to reflect change in sales tax
                      computation.
+        392-j.      Sales of sparkling devices.
         393.       Lime; standard barrels.
         393-a.     Non fire rated wood paneling.
         393-b.     Written solicitation.
@@ -344,6 +347,7 @@ Section 390.       Substitution of spurious oils for internal combustion
                      information.
         399-i.     Prohibit the sale of unsafe cribs and restrict use of
                      such cribs in certain settings.
+        399-j.     Safety standards; moveable soccer goals.
         399-m.     Disclosures in advertisement and sale of unassembled
                      goods.
         399-n.     Approval of electrical devices.

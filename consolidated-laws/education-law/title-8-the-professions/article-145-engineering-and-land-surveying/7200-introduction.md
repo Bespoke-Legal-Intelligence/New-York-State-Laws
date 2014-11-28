@@ -4,8 +4,14 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
 
 ```text
-  § 7200. Introduction.  This article applies to the professions of
-engineering and land surveying.  The general provisions for all
+  * § 7200. Introduction. This article applies to the professions of
+engineering and land surveying. The general provisions for all
 professions contained in article one hundred thirty of this title apply
 to this article.
+  * NB Effective until November 21, 2016
+  * § 7200. Introduction. This article applies to the professions of
+engineering, land surveying and geology. The general provisions for all
+professions contained in article one hundred thirty of this title apply
+to this article.
+  * NB Effective November 21, 2016
 ```

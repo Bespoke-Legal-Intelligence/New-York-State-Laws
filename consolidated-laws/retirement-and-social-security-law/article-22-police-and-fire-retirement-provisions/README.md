@@ -7,6 +7,7 @@
 
 - [§ 1200 Definitions](1200-definitions.md)
 - [§ 1201 Applicability](1201-applicability.md)
+- [§ 1201-A Retirement plan](1201a-retirement-plan.md)
 - [§ 1202 Vesting](1202-vesting.md)
 - [§ 1203 Overtime](1203-overtime.md)
 - [§ 1204 Member contributions](1204-member-contributions.md)
@@ -25,6 +26,7 @@
                   POLICE AND FIRE RETIREMENT PROVISIONS
 Section 1200.   Definitions.
         1201.   Applicability.
+        1201-a. Retirement plan.
         1202.   Vesting.
         1203.   Overtime.
         1204.   Member contributions.

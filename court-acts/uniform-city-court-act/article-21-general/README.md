@@ -9,6 +9,7 @@
 - [§ 2102 Civil practice; general provisions; CPLR applicable](2102-civil-practice-general-provisions-cplr-applicable.md)
 - [§ 2103 Rules of court](2103-rules-of-court.md)
 - [§ 2104 Organization of city courts](2104-organization-of-city-courts.md)
+- [§ 2105 Holding of court](2105-holding-of-court.md)
 
 <details>
 <summary>Official heading of Article 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,6 +21,7 @@ Section 2101. Definitions; construction of act.
         2102. Civil practice; general provisions; CPLR applicable.
         2103. Rules of court.
         2104. Organization of city courts.
+        2105. Holding of court.
 ```
 
 </details>

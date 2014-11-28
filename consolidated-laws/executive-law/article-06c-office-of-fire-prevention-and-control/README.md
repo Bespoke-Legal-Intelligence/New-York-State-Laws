@@ -15,6 +15,7 @@
 - [§ 156-E College fire safety](156e-college-fire-safety.md)
 - [§ 156-F Evacuation drills](156f-evacuation-drills.md)
 - [§ 156-G Establishment of teams for urban search and rescue, specialty rescue and incident support](156g-establishment-of-teams-for-urban-search-and-rescue-specialty-rescue-and-incident.md)
+- [§ 156-H Registration and fees for manufacturers, distributors, wholesalers, and retailers of sparkling devices](156h-registration-and-fees-for-manufacturers-distributors-wholesalers-and-retailers.md)
 - [§ 157 Granting authority](157-granting-authority.md)
 - [§ 158 Firefighting training](158-firefighting-training.md)
 - [§ 159 Advisory council for fire prevention and control](159-advisory-council-for-fire-prevention-and-control.md)
@@ -40,6 +41,8 @@ Section 155.     Office of fire prevention and control; creation; state
         156-f.   Evacuation drills.
         156-g.   Establishment of teams for urban search and rescue,
                    specialty rescue and incident support.
+        156-h.   Registration and fees for manufacturers, distributors,
+                   wholesalers, and retailers of sparkling devices.
         157.     Granting authority.
         158.     Firefighting training.
         159.     Advisory council for fire prevention and control.

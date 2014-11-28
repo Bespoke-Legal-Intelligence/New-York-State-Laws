@@ -8,7 +8,7 @@
 | Senate code | BSC |
 | Type | Consolidated law, chapter 4 |
 | Sections | 248 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 28 Nov 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Business Corporation |
 
@@ -28,6 +28,10 @@ Article   1.   Short title; definitions; application; certificates,
 ```
 
 [Full chapter text (28 lines)](chapter-text.md)
+
+## Recent changes
+
+- [28 Nov 2014](../../changes/2014/2014-11-28.md): 6 amended
 
 ## Contents
 

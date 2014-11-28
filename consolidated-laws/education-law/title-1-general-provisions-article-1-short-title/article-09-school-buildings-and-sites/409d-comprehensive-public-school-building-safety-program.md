@@ -4,17 +4,16 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 9 — School Buildings and Sites](README.md)
 
 ```text
-  § 409-d. Comprehensive public school building safety program. 1.
+  § 409-d. Comprehensive public school building safety program. * 1.
 Program establishment. The commissioner is authorized and directed to
 establish, develop and monitor a comprehensive public school building
 safety program which shall include a uniform inspection, safety rating
-and monitoring system. Such program shall require the annual inspection
-of all public school buildings throughout New York state; establish a
-safety rating system for such school buildings to assess the need for
-maintenance, repairs, rehabilitation, reconstruction, construction and
-other improvements related to the structural integrity and overall
-safety of public school buildings including but not limited to building
-systems related to electrical, plumbing, heating, ventilation, and air
+and monitoring system. Such program shall establish a safety rating
+system for such school buildings to assess the need for maintenance,
+repairs, rehabilitation, reconstruction, construction and other
+improvements related to the structural integrity and overall safety of
+public school buildings including but not limited to building systems
+related to electrical, plumbing, heating, ventilation, and air
 conditioning, sanitation and health, fire and accident protection; and
 require that such ratings be used for the purpose of developing a
 buildings condition survey as required pursuant to subdivision four of
@@ -22,7 +21,26 @@ section thirty-six hundred forty-one of this chapter and a five year
 facilities plan as required pursuant to clause (i) of subparagraph two
 of paragraph b of subdivision six of section thirty-six hundred two of
 this chapter.
-  2. Commissioner's authorization. In implementing  the program, the
+  * NB Effective until June 30, 2019
+  * 1. Program establishment. The commissioner is authorized and
+directed to establish, develop and monitor a comprehensive public school
+building safety program which shall include a uniform inspection, safety
+rating and monitoring system. Such program shall require the annual
+inspection of all public school buildings throughout New York state;
+establish a safety rating system for such school buildings to assess the
+need for maintenance, repairs, rehabilitation, reconstruction,
+construction and other improvements related to the structural integrity
+and overall safety of public school buildings including but not limited
+to building systems related to electrical, plumbing, heating,
+ventilation, and air conditioning, sanitation and health, fire and
+accident protection; and require that such ratings be used for the
+purpose of developing a buildings condition survey as required pursuant
+to subdivision four of section thirty-six hundred forty-one of this
+chapter and a five year facilities plan as required pursuant to clause
+(i) of subparagraph two of paragraph b of subdivision six of section
+thirty-six hundred two of this chapter.
+  * NB Effective June 30, 2019
+  2. Commissioner's authorization. In implementing the program, the
 commissioner is authorized to:
   (a) require the inspection of every public school building and
 prescribe qualifications of persons who may perform or supervise such
@@ -42,7 +60,7 @@ facilities plan;
 section four hundred nine-e of this article for districts whose school
 building safety inspection procedures in existence on the effective date
 of this section are in substantial compliance with such requirements.
-  3. Notification.  Notwithstanding any other provision of law to the
+  3. Notification. Notwithstanding any other provision of law to the
 contrary, the commissioner shall be authorized to notify in writing any
 school district or board of cooperative educational services the
 existence of a hazardous condition found in any school building within
