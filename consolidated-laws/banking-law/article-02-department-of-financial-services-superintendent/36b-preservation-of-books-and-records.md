@@ -4,10 +4,10 @@
 [Banking Law](../README.md) › [Article 2 — Department of Financial Services; Superintendent of Financial Services; Supervisory and Regulatory Powers](README.md)
 
 ```text
-  * § 36-b. Preservation of books and records. When any provision of
-this chapter or any rule or regulation adopted pursuant thereto requires
-that books and records be preserved, such requirement may be satisfied
-by maintenance of original papers or other records, photographic
+  § 36-b. Preservation of books and records. When any provision of this
+chapter or any rule or regulation adopted pursuant thereto requires that
+books and records be preserved, such requirement may be satisfied by
+maintenance of original papers or other records, photographic
 reproductions, or records stored in electronic storage media. As used in
 this chapter, "electronic storage media" means any digital storage
 medium or system that meets the following conditions:
@@ -20,5 +20,4 @@ records preserved on the electronic storage media to any medium
 acceptable to the superintendent; and
   4. It must be immediately readable on equipment at all times available
 to the superintendent for examination of such records.
-  * NB Effective December 3, 2014
 ```

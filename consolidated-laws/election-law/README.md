@@ -8,7 +8,7 @@
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
 | Sections | 405 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 5 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -28,6 +28,10 @@ of section forty-two of the public officers law and amending such law in
 ```
 
 [Full chapter text (630 lines)](chapter-text.md)
+
+## Recent changes
+
+- [5 Dec 2014](../../changes/2014/2014-12-05.md): 1 amended
 
 ## Contents
 

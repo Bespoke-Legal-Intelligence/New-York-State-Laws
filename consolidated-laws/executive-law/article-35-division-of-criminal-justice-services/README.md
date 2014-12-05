@@ -26,7 +26,7 @@
 - [§ 837-M Reporting duties of law enforcement departments with respect to missing children and vulnerable adults](837m-reporting-duties-of-law-enforcement-departments-with-respect-to-missing-children.md)
 - [§ 837-M\*2 Criminal history records search for certain employment, appointments, licenses or permits in the city of New York](837m-2-criminal-history-records-search-for-certain-employment-appointments-licenses.md)
 - [§ 837-N Criminal history information of caregivers; requirements](837n-criminal-history-information-of-caregivers-requirements.md)
-- [§ 837-O Search for arson conviction records of volunteer firefighter applicants](837o-search-for-arson-conviction-records-of-volunteer-firefighter-applicants.md)
+- [§ 837-O Search for arson and sex offense conviction records of volunteer firefighter applicants](837o-search-for-arson-and-sex-offense-conviction-records-of-volunteer-firefighter.md)
 - [§ 837-P Criminal history records search for certain licenses and registrations in the county of Westchester](837p-criminal-history-records-search-for-certain-licenses-and-registrations.md)
 - [§ 837-Q Payments to Westchester county for policing special parkways](837q-payments-to-westchester-county-for-policing-special-parkways.md)
 - [§ 837-R Office of sex offender management](837r-office-of-sex-offender-management.md)
