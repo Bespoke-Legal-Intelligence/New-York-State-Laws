@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 16 — Computer Technology](README.md)
 
 ```text
-  * § 755. Loan of smart schools classroom technology. 1. In the several
+  § 755. Loan of smart schools classroom technology. 1. In the several
 cities and school districts of the state, school authorities, as defined
 in subdivision twelve of section two of this chapter, shall have the
 power and duty, to the extent provided in this section, to loan, upon
@@ -58,6 +58,4 @@ thirty days after such child is enrolled in such non-public school. In
 no event, however, shall a request made later than the times otherwise
 provided pursuant to this subdivision be denied where a reasonable
 explanation is given for the delay in making the request.
-  * NB Effective upon approval by a majority of all votes cast for and
-against it at the election to be held in November of 2014
 ```

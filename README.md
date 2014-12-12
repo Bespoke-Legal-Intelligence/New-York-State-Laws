@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 5 Dec 2014.*
+*Current through the publication of 12 Dec 2014.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [12 Dec 2014](changes/2014/2014-12-12.md): Education Law; State Finance Law; Town Law
 - [5 Dec 2014](changes/2014/2014-12-05.md): Banking Law; Business Corporation Law; Election Law; Executive Law; General Business Law; Real Property Law
 - [28 Nov 2014](changes/2014/2014-11-28.md): Abandoned Property Law; Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Business Corporation Law; Correction Law; Criminal Procedure Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Facilities Development Corporation Act; General Business Law; General Municipal Law; Indian Law; Insurance Law; Limited Liability Company Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Partnership Law; Penal Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Law; Uniform City Court Act; Vehicle and Traffic Law
 - [21 Nov 2014](changes/2014/2014-11-21.md): Not-for-Profit Corporation Law
@@ -22,15 +23,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [7 Nov 2014](changes/2014/2014-11-07.md): Penal Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [31 Oct 2014](changes/2014/2014-10-31.md): Education Law; Public Health Law
 - [24 Oct 2014](changes/2014/2014-10-24.md): Alcoholic Beverage Control Law; Domestic Relations Law; Education Law; Estates, Powers and Trusts Law; Financial Services Law; General Business Law; General Municipal Law; Insurance Law; Local Finance Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Law; Real Property Tax Law; Surrogate's Court Procedure Act; Urban Development Corporation Act
-- [17 Oct 2014](changes/2014/2014-10-17.md): Criminal Procedure Law; Executive Law; Penal Law; State Law; Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 39 |
+| [Education Law](consolidated-laws/education-law/README.md) | 35 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 33 |
-| [Education Law](consolidated-laws/education-law/README.md) | 33 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 28 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 19 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 14 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 28 Nov 2014 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 163 | 26 Sep 2014 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 28 Nov 2014 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 12 Dec 2014 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | no change since 22 Sep 2014 (start of history) |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 405 | 5 Dec 2014 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -126,12 +126,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | 28 Nov 2014 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 17 | no change since 22 Sep 2014 (start of history) |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | no change since 22 Sep 2014 (start of history) |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 496 | 14 Nov 2014 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 496 | 12 Dec 2014 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 28 Nov 2014 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,148 | 14 Nov 2014 |
-| [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 26 Sep 2014 |
+| [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 12 Dec 2014 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | no change since 22 Sep 2014 (start of history) |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 621 | no change since 22 Sep 2014 (start of history) |
