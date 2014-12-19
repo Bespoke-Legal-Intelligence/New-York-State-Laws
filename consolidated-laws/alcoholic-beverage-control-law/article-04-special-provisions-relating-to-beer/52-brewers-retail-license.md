@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 52", "kind": "section", "law_id": "ABC", "location_id": "52", "path": "ARTICLE 4 › SECTION 52", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/52.md", "title": "Brewer's retail license"} -->
+﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 52", "kind": "section", "law_id": "ABC", "location_id": "52", "path": "ARTICLE 4 › SECTION 52", "repealed": true, "repealed_date": "2014-12-19", "source": "nys-laws:ABC/52.md", "title": "Brewer's retail license"} -->
 # Alcoholic Beverage Control Law § 52 — Brewer's retail license
 
 [Alcoholic Beverage Control Law](../README.md) › [Article 4 — Special Provisions Relating to Beer](README.md)
+
+**Repealed** (19 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 52. Brewer's retail license. 1. The liquor authority may in its

@@ -8,7 +8,7 @@
 - [§ 50 Kinds of licenses](50-kinds-of-licenses.md)
 - [§ 51 Brewer's license](51-brewers-license.md)
 - [§ 51-A Farm brewery license](51a-farm-brewery-license.md)
-- [§ 52 Brewer's retail license](52-brewers-retail-license.md)
+- [§ 52 Brewer's retail license](52-brewers-retail-license.md) *(repealed)*
 - [§ 53 Wholesaler's license](53-wholesalers-license.md)
 - [§ 53-A Vendor's license](53a-vendors-license.md)
 - [§ 54 License to sell beer at retail for consumption off the premises](54-license-to-sell-beer-at-retail-for-consumption-off-the-premises.md)
@@ -31,7 +31,6 @@
 Section 50.   Kinds of licenses.
         51.   Brewer's license.
         51-a. Farm brewery license.
-        52.   Brewer's retail license.
         53.   Wholesaler's license.
         53-a. Vendor's license.
         54.   License to sell beer at retail for consumption off the

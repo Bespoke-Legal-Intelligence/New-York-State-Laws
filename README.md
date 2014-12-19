@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 12 Dec 2014.*
+*Current through the publication of 19 Dec 2014.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [19 Dec 2014](changes/2014/2014-12-19.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Education Law; Labor Law; New York State Constitution; Public Health Law
 - [12 Dec 2014](changes/2014/2014-12-12.md): Education Law; State Finance Law; Town Law
 - [5 Dec 2014](changes/2014/2014-12-05.md): Banking Law; Business Corporation Law; Election Law; Executive Law; General Business Law; Real Property Law
 - [28 Nov 2014](changes/2014/2014-11-28.md): Abandoned Property Law; Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Business Corporation Law; Correction Law; Criminal Procedure Law; Domestic Relations Law; Education Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Facilities Development Corporation Act; General Business Law; General Municipal Law; Indian Law; Insurance Law; Limited Liability Company Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Partnership Law; Penal Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Law; Uniform City Court Act; Vehicle and Traffic Law
@@ -22,21 +23,20 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [14 Nov 2014](changes/2014/2014-11-14.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Military Law; Real Property Tax Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 - [7 Nov 2014](changes/2014/2014-11-07.md): Penal Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [31 Oct 2014](changes/2014/2014-10-31.md): Education Law; Public Health Law
-- [24 Oct 2014](changes/2014/2014-10-24.md): Alcoholic Beverage Control Law; Domestic Relations Law; Education Law; Estates, Powers and Trusts Law; Financial Services Law; General Business Law; General Municipal Law; Insurance Law; Local Finance Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Law; Real Property Tax Law; Surrogate's Court Procedure Act; Urban Development Corporation Act
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 39 |
-| [Education Law](consolidated-laws/education-law/README.md) | 35 |
+| [Education Law](consolidated-laws/education-law/README.md) | 37 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 33 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 28 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 22 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 19 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 14 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 15 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 13 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 13 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 13 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 12 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 11 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 10 |
@@ -49,8 +49,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Nov 2014 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 653 | 28 Nov 2014 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 165 | 28 Nov 2014 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 654 | 19 Dec 2014 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 165 | 19 Dec 2014 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 250 | no change since 22 Sep 2014 (start of history) |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 835 | 5 Dec 2014 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 28 Nov 2014 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 163 | 26 Sep 2014 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 12 Dec 2014 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 19 Dec 2014 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | no change since 22 Sep 2014 (start of history) |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 405 | 5 Dec 2014 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 28 Nov 2014 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,005 | 28 Nov 2014 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 522 | no change since 22 Sep 2014 (start of history) |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 657 | 3 Oct 2014 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 657 | 19 Dec 2014 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | no change since 22 Sep 2014 (start of history) |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | no change since 22 Sep 2014 (start of history) |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 117 | 28 Nov 2014 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | no change since 22 Sep 2014 (start of history) |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,133 | 28 Nov 2014 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 47 | no change since 22 Sep 2014 (start of history) |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,599 | 28 Nov 2014 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,599 | 19 Dec 2014 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | no change since 22 Sep 2014 (start of history) |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 24 Oct 2014 |
@@ -202,7 +202,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
-| [New York State Constitution](constitution/README.md) | CNS | 198 | no change since 22 Sep 2014 (start of history) |
+| [New York State Constitution](constitution/README.md) | CNS | 198 | 19 Dec 2014 |
 
 ## About this repository
 

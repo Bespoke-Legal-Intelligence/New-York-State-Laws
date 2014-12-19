@@ -4,11 +4,11 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 8 — Food Handling](README.md)
 
 ```text
-  * § 1352-d. Public food service establishment inspection results. 1.
-(a) The department shall make available and prominently post on its
-website all public food service establishment inspection results for the
-most recent three years for which data is available, which shall include
-the determination concerning any alleged violation of this title.
+  § 1352-d. Public food service establishment inspection results. 1. (a)
+The department shall make available and prominently post on its website
+all public food service establishment inspection results for the most
+recent three years for which data is available, which shall include the
+determination concerning any alleged violation of this title.
   (b) As used in this section, "its website" means a website or a
 portion of a website maintained by an entity of state government on
 which the department regularly posts departmental information.
@@ -17,5 +17,4 @@ maintains a website, it shall post a link to the department's website
 where the food service establishment inspection results are available.
   2. A city with a population over one million shall be exempted from
 the provisions of this section.
-  * NB Effective December 18, 2014
 ```

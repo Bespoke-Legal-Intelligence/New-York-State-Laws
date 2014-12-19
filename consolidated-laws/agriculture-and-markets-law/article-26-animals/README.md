@@ -13,6 +13,7 @@
 - [§ 353-C Electrocution of fur-bearing animals prohibited](353c-electrocution-of-fur-bearing-animals-prohibited.md)
 - [§ 353-D Confinement of companion animals in vehicles: extreme temperatures](353d-confinement-of-companion-animals-in-vehicles-extreme-temperatures.md)
 - [§ 353-E Companion animal grooming facilities; prohibited practices](353e-companion-animal-grooming-facilities-prohibited-practices.md)
+- [§ 353-F Companion animal piercing and tattooing prohibited](353f-companion-animal-piercing-and-tattooing-prohibited.md)
 - [§ 354 Sale of baby chicks and baby rabbits](354-sale-of-baby-chicks-and-baby-rabbits.md)
 - [§ 355 Abandonment of animals](355-abandonment-of-animals.md)
 - [§ 356 Failure to provide proper food and drink to impounded animal](356-failure-to-provide-proper-food-and-drink-to-impounded-animal.md)
@@ -61,6 +62,7 @@ Section 350.   Definitions.
                  temperatures.
         353-e. Companion animal grooming facilities; prohibited
                  practices.
+        353-f. Companion animal piercing and tattooing prohibited.
         354.   Sale of baby chicks and baby rabbits.
         355.   Abandonment of animals.
         356.   Failure to provide proper food and drink to impounded

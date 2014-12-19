@@ -8,7 +8,7 @@
 | Senate code | CNS |
 | Type | Constitution |
 | Sections | 198 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 19 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Constitution |
 
@@ -26,6 +26,10 @@
 ```
 
 [Full chapter text (377 lines)](chapter-text.md)
+
+## Recent changes
+
+- [19 Dec 2014](../changes/2014/2014-12-19.md): 1 amended
 
 ## Contents
 
