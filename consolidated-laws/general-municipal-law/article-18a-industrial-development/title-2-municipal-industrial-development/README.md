@@ -19,8 +19,8 @@
 - [§ 891 Town of Wallkill industrial development agency](891-town-of-wallkill-industrial-development-agency.md)
 - [§ 891-A Erie county industrial development agency](891a-erie-county-industrial-development-agency.md)
 - [§ 891-E Town of Shawangunk, Ulster county industrial development agency](891e-town-of-shawangunk-ulster-county-industrial-development.md)
-- [§ 891-F Village of Ossining industrial development agency](891f-village-of-ossining-industrial-development-agency.md)
-- [§ 891-G Town of Ossining industrial development agency](891g-town-of-ossining-industrial-development-agency.md)
+- [§ 891-F Village of Ossining industrial development agency](891f-village-of-ossining-industrial-development-agency.md) *(repealed)*
+- [§ 891-G Town of Ossining industrial development agency](891g-town-of-ossining-industrial-development-agency.md) *(repealed)*
 - [§ 892 Town of Brookhaven industrial development agency](892-town-of-brookhaven-industrial-development-agency.md)
 - [§ 892\*2 Cayuga county industrial development agency](892-2-cayuga-county-industrial-development-agency.md)
 - [§ 892-A Schuyler county industrial development agency](892a-schuyler-county-industrial-development-agency.md)
@@ -41,7 +41,7 @@
 - [§ 895-D Montgomery county industrial development agency](895d-montgomery-county-industrial-development-agency.md)
 - [§ 895-E Genesee county industrial development agency](895e-genesee-county-industrial-development-agency.md)
 - [§ 895-F County of Clinton industrial development agency](895f-county-of-clinton-industrial-development-agency.md)
-- [§ 895-G Town of Willsboro industrial development agency](895g-town-of-willsboro-industrial-development-agency.md)
+- [§ 895-G Town of Willsboro industrial development agency](895g-town-of-willsboro-industrial-development-agency.md) *(repealed)*
 - [§ 895-H County of Chautauqua industrial development agency](895h-county-of-chautauqua-industrial-development-agency.md)
 - [§ 895-I Steuben county industrial development agency](895i-steuben-county-industrial-development-agency.md)
 - [§ 895-J Greene county industrial development agency](895j-greene-county-industrial-development-agency.md)
@@ -54,9 +54,9 @@
 - [§ 898 Herkimer county industrial development agency](898-herkimer-county-industrial-development-agency.md)
 - [§ 898-A Town of Lancaster industrial development agency](898a-town-of-lancaster-industrial-development-agency.md)
 - [§ 898-B Town of Islip industrial development agency](898b-town-of-islip-industrial-development-agency.md)
-- [§ 898-D The town of Amenia industrial development agency](898d-the-town-of-amenia-industrial-development-agency.md)
-- [§ 899 Jamestown industrial development agency](899-jamestown-industrial-development-agency.md)
-- [§ 899-B Town of Rotterdam industrial development agency](899b-town-of-rotterdam-industrial-development-agency.md)
+- [§ 898-D The town of Amenia industrial development agency](898d-the-town-of-amenia-industrial-development-agency.md) *(repealed)*
+- [§ 899 Jamestown industrial development agency](899-jamestown-industrial-development-agency.md) *(repealed)*
+- [§ 899-B Town of Rotterdam industrial development agency](899b-town-of-rotterdam-industrial-development-agency.md) *(repealed)*
 - [§ 900-A Village of Port Chester industrial development agency](900a-village-of-port-chester-industrial-development-agency.md)
 - [§ 901 Oneida county industrial development agency](901-oneida-county-industrial-development-agency.md)
 - [§ 901-A Town of Clarence, Erie county, industrial development agency](901a-town-of-clarence-erie-county-industrial-development.md)
@@ -71,7 +71,7 @@
 - [§ 903-C City of Rensselaer industrial development agency](903c-city-of-rensselaer-industrial-development-agency.md)
 - [§ 903-D Rensselaer county industrial development agency](903d-rensselaer-county-industrial-development-agency.md)
 - [§ 903-E City of Schenectady industrial development agency](903e-city-of-schenectady-industrial-development-agency.md)
-- [§ 904 Town of Hamptonburgh industrial development agency](904-town-of-hamptonburgh-industrial-development-agency.md)
+- [§ 904 Town of Hamptonburgh industrial development agency](904-town-of-hamptonburgh-industrial-development-agency.md) *(repealed)*
 - [§ 904-A Town of Warwick industrial development agency](904a-town-of-warwick-industrial-development-agency.md)
 - [§ 905 Town of Hempstead industrial development agency](905-town-of-hempstead-industrial-development-agency.md)
 - [§ 905-A Schoharie county industrial development agency](905a-schoharie-county-industrial-development-agency.md)
@@ -83,18 +83,18 @@
 - [§ 909 County of Franklin industrial development agency](909-county-of-franklin-industrial-development-agency.md)
 - [§ 909-A Town of Guilderland industrial development agency](909a-town-of-guilderland-industrial-development-agency.md)
 - [§ 909-B Town of Bethlehem industrial development agency](909b-town-of-bethlehem-industrial-development-agency.md)
-- [§ 910 Town of Barton industrial development agency](910-town-of-barton-industrial-development-agency.md)
+- [§ 910 Town of Barton industrial development agency](910-town-of-barton-industrial-development-agency.md) *(repealed)*
 - [§ 910-A County of Otsego industrial development agency](910a-county-of-otsego-industrial-development-agency.md)
 - [§ 910-B Village of Fairport industrial development agency](910b-village-of-fairport-industrial-development-agency.md)
 - [§ 910-C Village of Coxsackie industrial development agency](910c-village-of-coxsackie-industrial-development-agency.md)
 - [§ 910-D Village of Depew industrial development agency](910d-village-of-depew-industrial-development-agency.md)
-- [§ 911 Town of Dunkirk industrial development agency](911-town-of-dunkirk-industrial-development-agency.md)
+- [§ 911 Town of Dunkirk industrial development agency](911-town-of-dunkirk-industrial-development-agency.md) *(repealed)*
 - [§ 911\*2 Town of New Windsor industrial development agency](911-2-town-of-new-windsor-industrial-development-agency.md)
 - [§ 911-A Suffolk county industrial development agency](911a-suffolk-county-industrial-development-agency.md)
 - [§ 911-B County of Oswego industrial development agency](911b-county-of-oswego-industrial-development-agency.md)
 - [§ 911-C Town of Montgomery industrial development agency](911c-town-of-montgomery-industrial-development-agency.md)
 - [§ 911-D Town of Colonie industrial development agency](911d-town-of-colonie-industrial-development-agency.md)
-- [§ 911-E Town of West Turin industrial development agency](911e-town-of-west-turin-industrial-development-agency.md)
+- [§ 911-E Town of West Turin industrial development agency](911e-town-of-west-turin-industrial-development-agency.md) *(repealed)*
 - [§ 912 Tioga county industrial development agency](912-tioga-county-industrial-development-agency.md)
 - [§ 912\*2 Orange county industrial development agency](912-2-orange-county-industrial-development-agency.md)
 - [§ 912-A County of Putnam industrial development agency](912a-county-of-putnam-industrial-development-agency.md)
@@ -113,22 +113,22 @@
 - [§ 919-A City of Peekskill industrial development agency](919a-city-of-peekskill-industrial-development-agency.md)
 - [§ 920 City of Hornell industrial development agency](920-city-of-hornell-industrial-development-agency.md)
 - [§ 921 Village of Liberty industrial development agency](921-village-of-liberty-industrial-development-agency.md)
-- [§ 922 Counties of Fulton and Montgomery industrial development agency](922-counties-of-fulton-and-montgomery-industrial-development.md)
-- [§ 922\*2 Nassau county industrial development agency](922-2-nassau-county-industrial-development-agency.md)
+- [§ 922 Nassau county industrial development agency](922-nassau-county-industrial-development-agency.md)
+- [§ 922\*2 Nassau county industrial development agency](922-2-nassau-county-industrial-development-agency.md) *(repealed)*
 - [§ 922-A Village of Hastings-on-Hudson industrial development agency](922a-village-of-hastings-on-hudson-industrial-development.md)
-- [§ 922-D Big Flats industrial development agency](922d-big-flats-industrial-development-agency.md)
-- [§ 922-E Village of Wayland industrial development agency](922e-village-of-wayland-industrial-development-agency.md)
+- [§ 922-D Big Flats industrial development agency](922d-big-flats-industrial-development-agency.md) *(repealed)*
+- [§ 922-E Village of Wayland industrial development agency](922e-village-of-wayland-industrial-development-agency.md) *(repealed)*
 - [§ 923 Ulster county industrial development agency](923-ulster-county-industrial-development-agency.md)
 - [§ 923-A County of Westchester industrial development agency](923a-county-of-westchester-industrial-development-agency.md)
 - [§ 923-B City of Glens Falls industrial development agency](923b-city-of-glens-falls-industrial-development-agency.md)
-- [§ 923-C Village of Spring Valley industrial development agency](923c-village-of-spring-valley-industrial-development-agency.md)
-- [§ 923-D Patterson industrial development agency](923d-patterson-industrial-development-agency.md)
-- [§ 923-F Village of New Square industrial development agency](923f-village-of-new-square-industrial-development-agency.md)
+- [§ 923-C Village of Spring Valley industrial development agency](923c-village-of-spring-valley-industrial-development-agency.md) *(repealed)*
+- [§ 923-D Patterson industrial development agency](923d-patterson-industrial-development-agency.md) *(repealed)*
+- [§ 923-F Village of New Square industrial development agency](923f-village-of-new-square-industrial-development-agency.md) *(repealed)*
 - [§ 924 Southeast industrial development agency](924-southeast-industrial-development-agency.md)
-- [§ 924-A Town of North Hempstead industrial development agency](924a-town-of-north-hempstead-industrial-development-agency.md)
+- [§ 924-A Town of North Hempstead industrial development agency](924a-town-of-north-hempstead-industrial-development-agency.md) *(repealed)*
 - [§ 925 Dutchess county industrial development agency](925-dutchess-county-industrial-development-agency.md)
-- [§ 925-A Village of Walden industrial development agency](925a-village-of-walden-industrial-development-agency.md)
-- [§ 925-G Village of Sidney industrial development agency](925g-village-of-sidney-industrial-development-agency.md)
+- [§ 925-A Village of Walden industrial development agency](925a-village-of-walden-industrial-development-agency.md) *(repealed)*
+- [§ 925-G Village of Sidney industrial development agency](925g-village-of-sidney-industrial-development-agency.md) *(repealed)*
 - [§ 925-H Schenectady county industrial development agency](925h-schenectady-county-industrial-development-agency.md)
 - [§ 925-K City of Mechanicville and town of Stillwater industrial development agency](925k-city-of-mechanicville-and-town-of-stillwater-industrial.md)
 - [§ 925-L County of Rockland industrial development agency](925l-county-of-rockland-industrial-development-agency.md)
@@ -136,23 +136,23 @@
 - [§ 925-P Town of Riverhead industrial development agency](925p-town-of-riverhead-industrial-development-agency.md)
 - [§ 925-P\*2 Town of Clifton Park industrial development agency](925p-2-town-of-clifton-park-industrial-development-agency.md)
 - [§ 925-R Town of Hamptonburgh industrial development agency](925r-town-of-hamptonburgh-industrial-development-agency.md)
-- [§ 925-S Town of Yorktown industrial development agency](925s-town-of-yorktown-industrial-development-agency.md)
+- [§ 925-S Town of Yorktown industrial development agency](925s-town-of-yorktown-industrial-development-agency.md) *(repealed)*
 - [§ 925-T Town of Concord industrial development agency](925t-town-of-concord-industrial-development-agency.md)
 - [§ 925-V Town of Hamburg industrial development agency](925v-town-of-hamburg-industrial-development-agency.md)
-- [§ 925-Y Town of Harrietstown industrial development agency](925y-town-of-harrietstown-industrial-development-agency.md)
+- [§ 925-Y Town of Harrietstown industrial development agency](925y-town-of-harrietstown-industrial-development-agency.md) *(repealed)*
 - [§ 925-Z Town of Waterford industrial development agency](925z-town-of-waterford-industrial-development-agency.md)
 - [§ 926 City of Syracuse industrial development agency](926-city-of-syracuse-industrial-development-agency.md)
-- [§ 926-A Town of Norwich industrial development agency](926a-town-of-norwich-industrial-development-agency.md)
-- [§ 926-C Town of Wilmington industrial development agency](926c-town-of-wilmington-industrial-development-agency.md)
+- [§ 926-A Town of Norwich industrial development agency](926a-town-of-norwich-industrial-development-agency.md) *(repealed)*
+- [§ 926-C Town of Wilmington industrial development agency](926c-town-of-wilmington-industrial-development-agency.md) *(repealed)*
 - [§ 926-D City of Middletown industrial development agency](926d-city-of-middletown-industrial-development-agency.md)
-- [§ 926-G Town of Pamelia industrial development agency](926g-town-of-pamelia-industrial-development-agency.md)
+- [§ 926-G Town of Pamelia industrial development agency](926g-town-of-pamelia-industrial-development-agency.md) *(repealed)*
 - [§ 926-I Village of Groton industrial development agency](926i-village-of-groton-industrial-development-agency.md)
-- [§ 926-L Town of Black Brook industrial development agency](926l-town-of-black-brook-industrial-development-agency.md)
-- [§ 926-M Town of Jay industrial development agency](926m-town-of-jay-industrial-development-agency.md)
+- [§ 926-L Town of Black Brook industrial development agency](926l-town-of-black-brook-industrial-development-agency.md) *(repealed)*
+- [§ 926-M Town of Jay industrial development agency](926m-town-of-jay-industrial-development-agency.md) *(repealed)*
 - [§ 926-O Town of Niagara industrial development agency](926o-town-of-niagara-industrial-development-agency.md)
 - [§ 926-R Hamilton county industrial development agency](926r-hamilton-county-industrial-development-agency.md)
-- [§ 927 Town of Philipstown industrial development agency](927-town-of-philipstown-industrial-development-agency.md)
-- [§ 927\*2 Town of Mount Pleasant industrial development agency](927-2-town-of-mount-pleasant-industrial-development-agency.md)
+- [§ 927 Town of Mount Pleasant industrial development agency](927-town-of-mount-pleasant-industrial-development-agency.md)
+- [§ 927\*2 Town of Mount Pleasant industrial development agency](927-2-town-of-mount-pleasant-industrial-development-agency.md) *(repealed)*
 - [§ 927-A Town of North Greenbush industrial development agency](927a-town-of-north-greenbush-industrial-development-agency.md)
 - [§ 927-A\*2 City of Geneva industrial development agency](927a-2-city-of-geneva-industrial-development-agency.md)
 - [§ 927-B Village of Seneca Falls industrial development agency](927b-village-of-seneca-falls-industrial-development-agency.md)

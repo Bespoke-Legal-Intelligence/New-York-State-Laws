@@ -23,6 +23,7 @@
 - [§ 1266-G Excess loss fund](1266g-excess-loss-fund.md)
 - [§ 1266-H Authority police force](1266h-authority-police-force.md)
 - [§ 1266-I The permanent citizens advisory committee](1266i-the-permanent-citizens-advisory-committee.md)
+- [§ 1266-J Metropolitan transportation authority pledge to customers](1266j-metropolitan-transportation-authority-pledge.md)
 - [§ 1267 Acquisition and disposition of real property](1267-acquisition-and-disposition-of-real-property.md)
 - [§ 1267-A Acquisition and disposition of real property by department of transportation](1267a-acquisition-and-disposition-of-real-property.md)
 - [§ 1267-B Transit facilities for transit construction fund](1267b-transit-facilities-for-transit-construction.md)
@@ -91,6 +92,8 @@ Section 1260.   Short title.
         1266-g. Excess loss fund.
         1266-h. Authority police force.
         1266-i. The permanent citizens advisory committee.
+        1266-j. Metropolitan transportation authority pledge to
+                  customers.
         1267.   Acquisition and disposition of real property.
         1267-a. Acquisition and disposition of real property by
                   department of transportation.

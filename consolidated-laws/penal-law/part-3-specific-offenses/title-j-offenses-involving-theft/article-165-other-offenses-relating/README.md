@@ -32,7 +32,7 @@
 - [§ 165.71 Trademark counterfeiting in the third degree](165.71-trademark-counterfeiting-in-the-third-degree.md)
 - [§ 165.72 Trademark counterfeiting in the second degree](165.72-trademark-counterfeiting-in-the-second-degree.md)
 - [§ 165.73 Trademark counterfeiting in the first degree](165.73-trademark-counterfeiting-in-the-first-degree.md)
-- [§ 165.74 Seizure and destruction of goods bearing counterfeit trademarks](165.74-seizure-and-destruction-of-goods-bearing.md)
+- [§ 165.74 Seizure and distribution or destruction of goods bearing counterfeit trademarks](165.74-seizure-and-distribution-or-destruction.md)
 
 <details>
 <summary>Official heading of Article 165, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

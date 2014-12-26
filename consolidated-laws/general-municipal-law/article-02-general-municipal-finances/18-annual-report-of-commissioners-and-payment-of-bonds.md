@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 18", "kind": "section", "law_id": "GMU", "location_id": "18", "path": "ARTICLE 2 › SECTION 18", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/18.md", "title": "Annual report of commissioners and payment of bonds"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 18", "kind": "section", "law_id": "GMU", "location_id": "18", "path": "ARTICLE 2 › SECTION 18", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/18.md", "title": "Annual report of commissioners and payment of bonds"} -->
 # General Municipal Law § 18 — Annual report of commissioners and payment of bonds
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 18. Annual report of commissioners and payment of bonds. The

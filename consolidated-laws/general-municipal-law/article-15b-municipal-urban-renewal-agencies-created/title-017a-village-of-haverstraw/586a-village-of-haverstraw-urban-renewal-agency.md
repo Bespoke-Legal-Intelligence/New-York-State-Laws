@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 586-A", "kind": "section", "law_id": "GMU", "location_id": "586-A", "path": "ARTICLE 15-B › TITLE 17-A › SECTION 586-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/586-A.md", "title": "Village of Haverstraw urban renewal agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 586-A", "kind": "section", "law_id": "GMU", "location_id": "586-A", "path": "ARTICLE 15-B › TITLE 17-A › SECTION 586-A", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/586-A.md", "title": "Village of Haverstraw urban renewal agency"} -->
 # General Municipal Law § 586-A — Village of Haverstraw urban renewal agency
 
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 17-A — Village of Haverstraw Urban Renewal Agency](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 586-a. Village of Haverstraw urban renewal agency. An urban

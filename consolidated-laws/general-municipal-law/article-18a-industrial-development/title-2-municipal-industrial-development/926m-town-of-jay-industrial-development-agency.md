@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 926-M", "kind": "section", "law_id": "GMU", "location_id": "926-M", "path": "ARTICLE 18-A › TITLE 2 › SECTION 926-M", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/926-M.md", "title": "Town of Jay industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 926-M", "kind": "section", "law_id": "GMU", "location_id": "926-M", "path": "ARTICLE 18-A › TITLE 2 › SECTION 926-M", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/926-M.md", "title": "Town of Jay industrial development agency"} -->
 # General Municipal Law § 926-M — Town of Jay industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 926-m. Town of Jay industrial development agency. For the benefit

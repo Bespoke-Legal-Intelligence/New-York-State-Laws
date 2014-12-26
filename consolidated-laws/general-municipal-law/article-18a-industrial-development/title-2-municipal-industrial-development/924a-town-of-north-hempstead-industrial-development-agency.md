@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 924-A", "kind": "section", "law_id": "GMU", "location_id": "924-A", "path": "ARTICLE 18-A › TITLE 2 › SECTION 924-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/924-A.md", "title": "Town of North Hempstead industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 924-A", "kind": "section", "law_id": "GMU", "location_id": "924-A", "path": "ARTICLE 18-A › TITLE 2 › SECTION 924-A", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/924-A.md", "title": "Town of North Hempstead industrial development agency"} -->
 # General Municipal Law § 924-A — Town of North Hempstead industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 924-a. Town of North Hempstead industrial development agency. 1.

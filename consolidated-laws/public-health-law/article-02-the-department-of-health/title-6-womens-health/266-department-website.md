@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6 — Women's Health](README.md)
 
 ```text
-  § 266. Department website. 1. The department shall establish and
+  * § 266. Department website. 1. The department shall establish and
 maintain an internet website for the purpose of advancing women's health
 initiatives. The website shall provide information for the purposes of
 educating the public and raising awareness of women's health issues,
@@ -56,4 +56,5 @@ increased risk; and
   (v) Well-woman visits to obtain recommended preventive services.
   2. The department shall also consider making use of social media
 networks for the purposes of advancing such initiatives.
+  * NB There are 2 § 266's
 ```

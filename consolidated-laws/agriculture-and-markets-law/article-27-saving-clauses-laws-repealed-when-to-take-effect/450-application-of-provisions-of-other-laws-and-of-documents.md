@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  § 450. Application of provisions of other laws and of documents.
+  * § 450. Application of provisions of other laws and of documents.
 Wherever the terms department of agriculture, department of farms and
 markets, department of foods and markets, department of weights and
 measures, department of health, commissioner of agriculture,
@@ -20,4 +20,5 @@ agriculture is made a member by virtue of his office of the board of
 managers or trustees or other governing body of a state institution, the
 term commissioner of agriculture shall be deemed to mean the
 commissioner of agriculture and markets.
+  * NB Effective until June 15, 2015
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 923-F", "kind": "section", "law_id": "GMU", "location_id": "923-F", "path": "ARTICLE 18-A › TITLE 2 › SECTION 923-F", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/923-F.md", "title": "Village of New Square industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 923-F", "kind": "section", "law_id": "GMU", "location_id": "923-F", "path": "ARTICLE 18-A › TITLE 2 › SECTION 923-F", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/923-F.md", "title": "Village of New Square industrial development agency"} -->
 # General Municipal Law § 923-F — Village of New Square industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 923-f. Village of New Square industrial development agency. For

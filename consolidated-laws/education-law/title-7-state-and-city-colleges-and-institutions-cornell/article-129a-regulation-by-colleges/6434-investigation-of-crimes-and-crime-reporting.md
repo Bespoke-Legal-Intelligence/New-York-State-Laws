@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Education Law § 6434", "kind": "section", "law_id": "EDN", "location_id": "6434", "path": "TITLE 7 › ARTICLE 129-A › SECTION 6434", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/6434.md", "title": "Investigation of crimes and crime reporting"} -->
+# Education Law § 6434 — Investigation of crimes and crime reporting
+
+[Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](README.md)
+
+```text
+  § 6434. Investigation of crimes and crime reporting. 1. Each college
+shall adopt and implement a plan providing for the investigation of any
+violent felony offense occurring at or on the grounds of each such
+institution, and providing for the investigation of a report of any
+missing student. Such plans shall provide for the coordination of the
+investigation of such crimes and reports with local law enforcement
+agencies. Such plans shall include, but not be limited to, written
+agreements with appropriate local law enforcement agencies providing for
+the prompt investigation of such crimes and reports and a requirement
+that the institution shall notify the appropriate law enforcement agency
+as soon as practicable but in no case more than twenty-four hours after
+a report of a violent felony or that a student who resides in housing
+owned or operated by such institution is missing; provided that such
+reporting requirement shall take into consideration applicable federal
+law, including, but not limited to, the federal Campus Sexual Assault
+Victims' Bill of Rights under Title 20 U.S. Code Section 1092(f) which
+gives the victim of a sexual offense the right on whether or not to
+report such offense to local law enforcement agencies.
+  2. As used in this section, the following terms shall have the
+following meanings:
+  a. "Local law enforcement agencies" means any agency or agencies
+employing peace officers or police officers for the enforcement of the
+laws of the state, and which has or have jurisdiction under provisions
+of the criminal procedure law over offenses occurring at or on the
+grounds of any institution subject to the provisions of this section.
+  b. "Missing student" means any student of an institution subject to
+the provisions of this section, who resides in a facility owned or
+operated by such institution and who is reported to such institution as
+missing from his or her residence.
+  c. "Violent felony offense" means a violent felony offense as defined
+in subdivision one of section 70.02 of the penal law.
+```

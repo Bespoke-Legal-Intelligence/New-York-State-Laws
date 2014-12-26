@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBB |
 | Type | Consolidated law, chapter 44 |
-| Sections | 47 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 48 |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Buildings |
 
@@ -30,6 +30,10 @@ Article 1.   Short title (§ 1)
 ```
 
 [Full chapter text (11 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 added
 
 ## Contents
 

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 911", "kind": "section", "law_id": "GMU", "location_id": "911", "path": "ARTICLE 18-A › TITLE 2 › SECTION 911", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/911.md", "title": "Town of Dunkirk industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 911", "kind": "section", "law_id": "GMU", "location_id": "911", "path": "ARTICLE 18-A › TITLE 2 › SECTION 911", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/911.md", "title": "Town of Dunkirk industrial development agency"} -->
 # General Municipal Law § 911 — Town of Dunkirk industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 911. Town of Dunkirk industrial development agency. For the benefit

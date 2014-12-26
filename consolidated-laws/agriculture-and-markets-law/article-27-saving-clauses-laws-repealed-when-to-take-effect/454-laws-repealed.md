@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  § 454. Laws repealed.  Chapter nine of the laws of nineteen hundred
+  * § 454. Laws repealed. Chapter nine of the laws of nineteen hundred
 and nine, entitled "An act in relation to agriculture, constituting
 chapter one of the consolidated laws, "; chapter eight hundred and two
 of the laws of nineteen hundred and seventeen, entitled "An act in
@@ -21,4 +21,5 @@ forty-nine of the laws of nineteen hundred and nine, entitled "An act in
 relation to the public health, constituting chapter forty-five of the
 consolidated laws, "; and all acts and parts of acts amendatory thereof
 or supplemental thereto, are hereby repealed.
+  * NB Effective until June 15, 2015
 ```

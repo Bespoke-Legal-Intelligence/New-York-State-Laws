@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 891-F", "kind": "section", "law_id": "GMU", "location_id": "891-F", "path": "ARTICLE 18-A › TITLE 2 › SECTION 891-F", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/891-F.md", "title": "Village of Ossining industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 891-F", "kind": "section", "law_id": "GMU", "location_id": "891-F", "path": "ARTICLE 18-A › TITLE 2 › SECTION 891-F", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/891-F.md", "title": "Village of Ossining industrial development agency"} -->
 # General Municipal Law § 891-F — Village of Ossining industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 891-f. Village of Ossining industrial development agency. For the

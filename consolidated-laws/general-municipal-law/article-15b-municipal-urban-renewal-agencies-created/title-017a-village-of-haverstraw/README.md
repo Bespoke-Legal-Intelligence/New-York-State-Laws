@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 586-A Village of Haverstraw urban renewal agency](586a-village-of-haverstraw-urban-renewal-agency.md)
+- [§ 586-A Village of Haverstraw urban renewal agency](586a-village-of-haverstraw-urban-renewal-agency.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 17-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 910", "kind": "section", "law_id": "GMU", "location_id": "910", "path": "ARTICLE 18-A › TITLE 2 › SECTION 910", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/910.md", "title": "Town of Barton industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 910", "kind": "section", "law_id": "GMU", "location_id": "910", "path": "ARTICLE 18-A › TITLE 2 › SECTION 910", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/910.md", "title": "Town of Barton industrial development agency"} -->
 # General Municipal Law § 910 — Town of Barton industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 910. Town of Barton industrial development agency. For the benefit

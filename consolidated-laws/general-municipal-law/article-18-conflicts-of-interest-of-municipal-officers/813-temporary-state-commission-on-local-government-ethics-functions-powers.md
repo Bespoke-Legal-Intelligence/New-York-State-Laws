@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 813", "kind": "section", "law_id": "GMU", "location_id": "813", "path": "ARTICLE 18 › SECTION 813", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/813.md", "title": "Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ..."} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 813", "kind": "section", "law_id": "GMU", "location_id": "813", "path": "ARTICLE 18 › SECTION 813", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/813.md", "title": "Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ..."} -->
 # General Municipal Law § 813 — Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ...
 
 [General Municipal Law](../README.md) › [Article 18 — Conflicts of Interest of Municipal Officers and Employees](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 813. Temporary state commission on local government ethics;

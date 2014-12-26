@@ -4,7 +4,7 @@
 [Lost and Strayed Animals](README.md)
 
 ```text
-  § 8-c. Notwithstanding the provisions of section eight of this act,
+  * § 8-c. Notwithstanding the provisions of section eight of this act,
 the power to issue licenses and renewals and to collect fees therefor,
 to maintain a shelter or other facility for lost, strayed and homeless
 animals in each borough and otherwise to carry out the provisions of
@@ -34,4 +34,5 @@ agency designated in accordance with this section; or
   (3) no less than eighteen months after notice by such city to such
 society of the city's intention to assume such powers or such later date
 as may be specified in such notice.
+  * NB Repealed February 15, 2015
 ```

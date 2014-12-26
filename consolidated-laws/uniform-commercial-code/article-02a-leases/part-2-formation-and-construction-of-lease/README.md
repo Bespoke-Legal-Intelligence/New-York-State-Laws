@@ -11,7 +11,6 @@
 - [§ 2-A-204 Formation in General](2a-204-formation-in-general.md)
 - [§ 2-A-205 Firm Offers](2a-205-firm-offers.md)
 - [§ 2-A-206 Offer and Acceptance in Formation of Lease Contract](2a-206-offer-and-acceptance-in-formation-of-lease-contract.md)
-- [§ 2-A-207 Course of Performance or Practical Construction](2a-207-course-of-performance-or-practical-construction.md)
 - [§ 2-A-208 Modification, Rescission and Waiver](2a-208-modification-rescission-and-waiver.md)
 - [§ 2-A-209 Lessee Under Finance Lease as Beneficiary of Supply Contract](2a-209-lessee-under-finance-lease-as-beneficiary-of-supply-contract.md)
 - [§ 2-A-210 Express Warranties](2a-210-express-warranties.md)

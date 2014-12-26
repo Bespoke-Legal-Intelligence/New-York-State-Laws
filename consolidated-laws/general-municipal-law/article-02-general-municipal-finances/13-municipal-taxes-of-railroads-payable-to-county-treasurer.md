@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 13", "kind": "section", "law_id": "GMU", "location_id": "13", "path": "ARTICLE 2 › SECTION 13", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/13.md", "title": "Municipal taxes of railroads payable to county treasurer"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 13", "kind": "section", "law_id": "GMU", "location_id": "13", "path": "ARTICLE 2 › SECTION 13", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/13.md", "title": "Municipal taxes of railroads payable to county treasurer"} -->
 # General Municipal Law § 13 — Municipal taxes of railroads payable to county treasurer
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 13. Municipal taxes of railroads payable to county treasurer.  If a

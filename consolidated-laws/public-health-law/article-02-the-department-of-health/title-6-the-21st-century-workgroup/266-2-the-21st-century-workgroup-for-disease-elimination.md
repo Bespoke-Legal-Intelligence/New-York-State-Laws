@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 266*2", "kind": "section", "law_id": "PBH", "location_id": "266*2", "path": "ARTICLE 2 › TITLE 6* › SECTION 266*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/266_2.md", "title": "The 21st century workgroup for disease elimination and reduction"} -->
+# Public Health Law § 266*2 — The 21st century workgroup for disease elimination and reduction
+
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 6* — The 21st Century Workgroup For Disease Elimination and Reduction](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 266. The 21st century workgroup for disease elimination and
+reduction. The 21st century workgroup for disease elimination and
+reduction is hereby created within the department. The workgroup shall:
+  1. Be comprised of experts within the department's bureau of
+immunization, experts on the immunization advisory council and other
+experts the commissioner deems appropriate, charged with the mission of
+reviewing existing vaccines, the status of international research and
+development for vaccines likely to be candidates for the pharmaceutical
+marketplace, and to review the status of health threats which could be
+addressed by the development of vaccines;
+  2. Study the severity, frequency of occurrence, likelihood of
+recurrence, existing animal vaccines and potential human vaccines for
+tuberculosis, eastern equine encephalitis virus, Lyme disease, human
+immunodeficiency virus, and any other disease or virus the commissioner
+deems appropriate;
+  3. Consult with national vaccine and immunization policy making
+organizations, including but not limited to, the advisory committee on
+immunization practices under the centers for disease control and
+prevention, the national institute of health and the national institute
+of allergy and infectious diseases;
+  4. Apply for grants, accept gifts from private and public sources for
+purposes set forth herein; and
+  5. Report annually to the commissioner, the temporary president of the
+senate, the speaker of the assembly, the chair of the senate standing
+committee on health, and the chair of the assembly health committee.
+  * NB There are 2 § 266's
+```

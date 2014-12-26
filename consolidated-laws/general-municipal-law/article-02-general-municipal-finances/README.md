@@ -38,13 +38,13 @@
 - [§ 10 Deposits of public money; security](10-deposits-of-public-money-security.md)
 - [§ 11 Temporary investments](11-temporary-investments.md)
 - [§ 12 Deposits of public authorities, public benefit corporations and other corporations](12-deposits-of-public-authorities-public-benefit-corporations-and-other.md)
-- [§ 13 Municipal taxes of railroads payable to county treasurer](13-municipal-taxes-of-railroads-payable-to-county-treasurer.md)
-- [§ 14 Appointment of railroad commissioners](14-appointment-of-railroad-commissioners.md)
-- [§ 15 Oath and undertaking of commissioners](15-oath-and-undertaking-of-commissioners.md)
-- [§ 16 Abolition of office of railroad commissioners](16-abolition-of-office-of-railroad-commissioners.md)
-- [§ 17 Exchange or sale of railroad stock and bonds](17-exchange-or-sale-of-railroad-stock-and-bonds.md)
-- [§ 18 Annual report of commissioners and payment of bonds](18-annual-report-of-commissioners-and-payment-of-bonds.md)
-- [§ 19 Accounts and loans by commissioners](19-accounts-and-loans-by-commissioners.md)
+- [§ 13 Municipal taxes of railroads payable to county treasurer](13-municipal-taxes-of-railroads-payable-to-county-treasurer.md) *(repealed)*
+- [§ 14 Appointment of railroad commissioners](14-appointment-of-railroad-commissioners.md) *(repealed)*
+- [§ 15 Oath and undertaking of commissioners](15-oath-and-undertaking-of-commissioners.md) *(repealed)*
+- [§ 16 Abolition of office of railroad commissioners](16-abolition-of-office-of-railroad-commissioners.md) *(repealed)*
+- [§ 17 Exchange or sale of railroad stock and bonds](17-exchange-or-sale-of-railroad-stock-and-bonds.md) *(repealed)*
+- [§ 18 Annual report of commissioners and payment of bonds](18-annual-report-of-commissioners-and-payment-of-bonds.md) *(repealed)*
+- [§ 19 Accounts and loans by commissioners](19-accounts-and-loans-by-commissioners.md) *(repealed)*
 - [§ 20 Special population census: population data](20-special-population-census-population-data.md)
 - [§ 21 Cancellation of unpaid checks or drafts](21-cancellation-of-unpaid-checks-or-drafts.md)
 - [§ 22 Claims against fire insurance proceeds; procedure](22-claims-against-fire-insurance-proceeds-procedure.md)
@@ -106,13 +106,6 @@ Section 3.   Compensation for property of a municipal corporation,
         11.  Temporary investments.
         12.  Deposits of public authorities, public benefit corporations
                and other corporations.
-        13.  Municipal taxes of railroads payable to county treasurer.
-        14.  Appointment of railroad commissioners.
-        15.  Oath and undertaking of commissioners.
-        16.  Abolition of office of railroad commissioners.
-        17.  Exchange or sale of railroad stock and bonds.
-        18.  Annual report of commissioners and payment of bonds.
-        19.  Accounts and loans by commissioners.
         20.  Special population census: population data.
         21.  Cancellation of unpaid checks or drafts.
         22.  Claims against fire insurance proceeds; procedure.

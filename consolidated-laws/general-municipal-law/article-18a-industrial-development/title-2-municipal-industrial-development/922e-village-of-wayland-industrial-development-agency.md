@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 922-E", "kind": "section", "law_id": "GMU", "location_id": "922-E", "path": "ARTICLE 18-A › TITLE 2 › SECTION 922-E", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/922-E.md", "title": "Village of Wayland industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 922-E", "kind": "section", "law_id": "GMU", "location_id": "922-E", "path": "ARTICLE 18-A › TITLE 2 › SECTION 922-E", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/922-E.md", "title": "Village of Wayland industrial development agency"} -->
 # General Municipal Law § 922-E — Village of Wayland industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 922-e. Village of Wayland industrial development agency. For the

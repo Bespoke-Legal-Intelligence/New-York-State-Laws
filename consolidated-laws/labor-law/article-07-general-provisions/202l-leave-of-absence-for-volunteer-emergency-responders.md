@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 202-l. Leave of absence for volunteer emergency responders. 1.
+  § 202-l. Leave of absence for volunteer emergency responders. 1.
 During the time that an emergency exists following a declaration of such
 emergency pursuant to section twenty-four or twenty-eight of the
 executive law, an employee may request and shall be granted a leave of
@@ -45,5 +45,4 @@ Nothing set forth in this section shall be construed as superseding,
 limiting, or otherwise affecting the provisions of section eighty-two-a
 of the civil service law, providing for authorized absences for public
 officers and employees of the state.
-  * NB Effective December 22, 2014
 ```

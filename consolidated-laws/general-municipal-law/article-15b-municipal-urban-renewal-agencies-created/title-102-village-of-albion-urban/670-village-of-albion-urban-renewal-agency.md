@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 670", "kind": "section", "law_id": "GMU", "location_id": "670", "path": "ARTICLE 15-B › TITLE 102 › SECTION 670", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/670.md", "title": "Village of Albion urban renewal agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 670", "kind": "section", "law_id": "GMU", "location_id": "670", "path": "ARTICLE 15-B › TITLE 102 › SECTION 670", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/670.md", "title": "Village of Albion urban renewal agency"} -->
 # General Municipal Law § 670 — Village of Albion urban renewal agency
 
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 102 — Village of Albion Urban Renewal Agency](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 670. Village of Albion urban renewal agency. An urban renewal

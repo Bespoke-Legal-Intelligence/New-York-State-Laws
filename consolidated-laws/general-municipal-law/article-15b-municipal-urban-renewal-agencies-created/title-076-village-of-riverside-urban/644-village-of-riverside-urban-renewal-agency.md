@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 644", "kind": "section", "law_id": "GMU", "location_id": "644", "path": "ARTICLE 15-B › TITLE 76 › SECTION 644", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/644.md", "title": "Village of Riverside urban renewal agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 644", "kind": "section", "law_id": "GMU", "location_id": "644", "path": "ARTICLE 15-B › TITLE 76 › SECTION 644", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/644.md", "title": "Village of Riverside urban renewal agency"} -->
 # General Municipal Law § 644 — Village of Riverside urban renewal agency
 
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 76 — Village of Riverside Urban Renewal Agency](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 644. Village of Riverside urban renewal agency. An urban renewal

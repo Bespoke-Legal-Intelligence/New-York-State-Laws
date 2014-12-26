@@ -3,6 +3,8 @@
 
 [Mental Hygiene Law](../../README.md) › [Title C — Developmental Disabilities Act](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 13.01 Declaration of policy](13.01-declaration-of-policy.md)
@@ -33,6 +35,7 @@
 - [§ 13.39 Registration and notification of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations](13.39-registration-and-notification-of-boards.md)
 - [§ 13.40 People first waiver program](13.40-people-first-waiver-program.md)
 - [§ 13.41 Integrated employment plan](13.41-integrated-employment-plan.md)
+- [§ 13.41\*2 Retaliatory personnel actions](13.41-2-retaliatory-personnel-actions.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -82,6 +85,7 @@ Section 13.01   Declaration of policy.
                   facilities or corporations.
         13.40   People first waiver program.
         13.41   Integrated employment plan.
+        13.41*2 Retaliatory personnel actions.
 ```
 
 </details>

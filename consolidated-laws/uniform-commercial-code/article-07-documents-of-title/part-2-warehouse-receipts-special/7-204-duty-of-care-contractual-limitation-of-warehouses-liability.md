@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 7-204", "kind": "section", "law_id": "UCC", "location_id": "7-204", "path": "ARTICLE 7 › PART 2 › SECTION 7-204", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/7-204.md", "title": "Duty of Care; Contractual Limitation of Warehouse's Liability"} -->
+# Uniform Commercial Code § 7-204 — Duty of Care; Contractual Limitation of Warehouse's Liability
+
+[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 2 — Warehouse Receipts: Special Provisions](README.md)
+
+```text
+Section 7--204. Duty of Care; Contractual Limitation of Warehouse's
+                  Liability.
+  (a) A warehouse is liable for damages for loss of or injury to the
+goods caused by its failure to exercise care with regard to the goods
+that a reasonably careful person would exercise under similar
+circumstances.  Unless otherwise agreed, the warehouse is not liable for
+damages that could not have been avoided by the exercise of that care.
+  (b) Damages may be limited by a term in the warehouse receipt or
+storage agreement limiting the amount of liability in case of loss or
+damage beyond which the warehouse is not liable. Such a limitation is
+not effective with respect to the warehouse's liability for conversion
+to its own use. On request of the bailor in a record at the time of
+signing the storage agreement or within a reasonable time after receipt
+of the warehouse receipt, the warehouse's liability may be increased on
+part or all of the goods covered by the storage agreement or the
+warehouse receipt. In this event, increased rates may be charged based
+on an increased valuation of the goods.
+  (c) Reasonable provisions as to the time and manner of presenting
+claims and commencing actions based on the bailment may be included in
+the warehouse receipt or storage agreement.
+```

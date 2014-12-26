@@ -9,7 +9,7 @@
 
 - [§ 680-D Town of Haverstraw urban renewal agency](680d-town-of-haverstraw-urban-renewal-agency.md)
 - [§ 680-D\*2 Village of Victor urban renewal agency](680d-2-village-of-victor-urban-renewal-agency.md)
-- [§ 680-E Town of Southampton community development agency](680e-town-of-southampton-community-development.md)
+- [§ 680-E Town of Southampton community development agency](680e-town-of-southampton-community-development.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 117, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

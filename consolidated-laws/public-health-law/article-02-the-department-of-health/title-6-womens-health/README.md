@@ -11,9 +11,10 @@
 <summary>Official heading of Title 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE VI
+                               * TITLE VI
                              WOMEN'S HEALTH
 Section 266. Department website.
+  * NB There are 2 A2T6's
 ```
 
 </details>

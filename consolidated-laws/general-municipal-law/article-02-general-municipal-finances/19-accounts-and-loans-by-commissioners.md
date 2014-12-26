@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 19", "kind": "section", "law_id": "GMU", "location_id": "19", "path": "ARTICLE 2 › SECTION 19", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/19.md", "title": "Accounts and loans by commissioners"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 19", "kind": "section", "law_id": "GMU", "location_id": "19", "path": "ARTICLE 2 › SECTION 19", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/19.md", "title": "Accounts and loans by commissioners"} -->
 # General Municipal Law § 19 — Accounts and loans by commissioners
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 19. Accounts and loans by commissioners. Such railroad commissioners

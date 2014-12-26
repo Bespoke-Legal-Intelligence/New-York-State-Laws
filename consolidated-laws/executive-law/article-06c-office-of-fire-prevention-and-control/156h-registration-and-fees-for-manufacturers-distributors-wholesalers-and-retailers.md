@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6-C — Office of Fire Prevention and Control](README.md)
 
 ```text
-  * § 156-h. Registration and fees for manufacturers, distributors,
+  § 156-h. Registration and fees for manufacturers, distributors,
 wholesalers, and retailers of sparkling devices. 1. Definitions. As used
 in this section, the term:
   (a) "Distributor" means any person or entity engaged in the business
@@ -71,5 +71,4 @@ sparkling device produced in, imported to, exported from, or sold in
 this state.
   6. Rules. The state fire administrator shall promulgate rules
 prescribing registration forms required by this section.
-  * NB Effective December 21, 2014
 ```

@@ -29,6 +29,7 @@
 - [§ 7.39 Registration and notification of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations](7.39-registration-and-notification-of-boards-of-directors-or-trustees.md)
 - [§ 7.41 Geriatric service demonstration program](7.41-geriatric-service-demonstration-program.md)
 - [§ 7.43 The children's plan](7.43-the-childrens-plan.md)
+- [§ 7.45 Retaliatory personnel actions](7.45-retaliatory-personnel-actions.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -70,6 +71,7 @@ Section 7.01    Declaration of policy.
                   facilities or corporations.
         7.41    Geriatric service demonstration program.
         7.43    The children's plan.
+        7.45    Retaliatory personnel actions.
 ```
 
 </details>

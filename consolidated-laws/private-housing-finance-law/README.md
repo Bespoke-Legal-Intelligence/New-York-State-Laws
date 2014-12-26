@@ -8,7 +8,7 @@
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
 | Sections | 424 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (61 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 amended
 
 ## Contents
 

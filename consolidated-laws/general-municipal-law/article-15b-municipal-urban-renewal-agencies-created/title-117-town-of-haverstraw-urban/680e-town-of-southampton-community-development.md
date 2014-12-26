@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 680-E", "kind": "section", "law_id": "GMU", "location_id": "680-E", "path": "ARTICLE 15-B › TITLE 117 › SECTION 680-E", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/680-E.md", "title": "Town of Southampton community development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 680-E", "kind": "section", "law_id": "GMU", "location_id": "680-E", "path": "ARTICLE 15-B › TITLE 117 › SECTION 680-E", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/680-E.md", "title": "Town of Southampton community development agency"} -->
 # General Municipal Law § 680-E — Town of Southampton community development agency
 
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md) › [Title 117 — Town of Haverstraw Urban Renewal Agency](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 680-e. Town of Southampton community development agency. For the

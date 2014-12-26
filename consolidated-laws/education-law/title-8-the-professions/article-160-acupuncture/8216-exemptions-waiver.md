@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 160 — Acupuncture](README.md)
 
 ```text
-  § 8216. Exemptions; waiver.  (1) A person who is validly registered as
+  § 8216. Exemptions; waiver. (1) A person who is validly registered as
 a "specialist's assistant-acupuncture" in accordance with section
 sixty-five hundred forty-one of this chapter and the commissioner's
 regulations shall not be subject to the provisions of this article;
@@ -71,4 +71,13 @@ a formal course of study in a registered program and any person
 appointed to the faculty of such program may practice acupuncture
 without a license, provided that such practice is limited to such
 research, study and training.
+  (8) Any person who is licensed to practice acupuncture in another
+state or country may practice acupuncture in this state without a
+license solely for the purpose of conducting clinical training, practice
+demonstrations or clinical research that is within the practice of
+acupuncture in connection with a program of basic clinical education,
+graduate education, or post-graduate education in an approved school of
+acupuncture or in its affiliated clinical facility or health care
+agency, or before a group of licensed acupuncturists who are members of
+a professional society.
 ```

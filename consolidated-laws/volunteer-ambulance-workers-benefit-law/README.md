@@ -8,7 +8,7 @@
 | Senate code | VAW |
 | Type | Consolidated law, chapter 64-B |
 | Sections | 55 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Volunteer Ambulance Workers' Benefit |
 
@@ -28,6 +28,10 @@ Article   I. SHORT TITLE; PURPOSE; DEFINITIONS ...................  1-3
 ```
 
 [Chapter text page](chapter-text.md)
+
+## Recent changes
+
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 amended
 
 ## Contents
 

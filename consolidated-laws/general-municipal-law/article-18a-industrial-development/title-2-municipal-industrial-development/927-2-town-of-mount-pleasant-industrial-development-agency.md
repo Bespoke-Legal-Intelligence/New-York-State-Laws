@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 927*2", "kind": "section", "law_id": "GMU", "location_id": "927*2", "path": "ARTICLE 18-A › TITLE 2 › SECTION 927*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/927_2.md", "title": "Town of Mount Pleasant industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 927*2", "kind": "section", "law_id": "GMU", "location_id": "927*2", "path": "ARTICLE 18-A › TITLE 2 › SECTION 927*2", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/927_2.md", "title": "Town of Mount Pleasant industrial development agency"} -->
 # General Municipal Law § 927*2 — Town of Mount Pleasant industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

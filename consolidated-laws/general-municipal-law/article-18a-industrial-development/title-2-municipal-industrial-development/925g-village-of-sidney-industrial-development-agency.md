@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 925-G", "kind": "section", "law_id": "GMU", "location_id": "925-G", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-G", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/925-G.md", "title": "Village of Sidney industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 925-G", "kind": "section", "law_id": "GMU", "location_id": "925-G", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-G", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/925-G.md", "title": "Village of Sidney industrial development agency"} -->
 # General Municipal Law § 925-G — Village of Sidney industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 925-g. Village of Sidney industrial development agency. For the

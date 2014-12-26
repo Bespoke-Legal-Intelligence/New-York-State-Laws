@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 14", "kind": "section", "law_id": "GMU", "location_id": "14", "path": "ARTICLE 2 › SECTION 14", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/14.md", "title": "Appointment of railroad commissioners"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 14", "kind": "section", "law_id": "GMU", "location_id": "14", "path": "ARTICLE 2 › SECTION 14", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/14.md", "title": "Appointment of railroad commissioners"} -->
 # General Municipal Law § 14 — Appointment of railroad commissioners
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 14. Appointment of railroad commissioners. The county judge of any

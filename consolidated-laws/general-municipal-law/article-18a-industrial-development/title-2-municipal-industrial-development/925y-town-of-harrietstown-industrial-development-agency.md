@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 925-Y", "kind": "section", "law_id": "GMU", "location_id": "925-Y", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-Y", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/925-Y.md", "title": "Town of Harrietstown industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 925-Y", "kind": "section", "law_id": "GMU", "location_id": "925-Y", "path": "ARTICLE 18-A › TITLE 2 › SECTION 925-Y", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/925-Y.md", "title": "Town of Harrietstown industrial development agency"} -->
 # General Municipal Law § 925-Y — Town of Harrietstown industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 925-y. Town of Harrietstown industrial development agency. For the

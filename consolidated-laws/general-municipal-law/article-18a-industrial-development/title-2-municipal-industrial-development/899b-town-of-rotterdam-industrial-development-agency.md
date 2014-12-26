@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 899-B", "kind": "section", "law_id": "GMU", "location_id": "899-B", "path": "ARTICLE 18-A › TITLE 2 › SECTION 899-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/899-B.md", "title": "Town of Rotterdam industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 899-B", "kind": "section", "law_id": "GMU", "location_id": "899-B", "path": "ARTICLE 18-A › TITLE 2 › SECTION 899-B", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/899-B.md", "title": "Town of Rotterdam industrial development agency"} -->
 # General Municipal Law § 899-B — Town of Rotterdam industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 899-b. Town of Rotterdam industrial development agency. For the

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 895-G", "kind": "section", "law_id": "GMU", "location_id": "895-G", "path": "ARTICLE 18-A › TITLE 2 › SECTION 895-G", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/895-G.md", "title": "Town of Willsboro industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 895-G", "kind": "section", "law_id": "GMU", "location_id": "895-G", "path": "ARTICLE 18-A › TITLE 2 › SECTION 895-G", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/895-G.md", "title": "Town of Willsboro industrial development agency"} -->
 # General Municipal Law § 895-G — Town of Willsboro industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 895-g. Town of Willsboro industrial development agency. For the

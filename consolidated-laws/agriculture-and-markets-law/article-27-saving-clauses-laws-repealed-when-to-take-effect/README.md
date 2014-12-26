@@ -16,7 +16,7 @@
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 27
+                              * ARTICLE 27
            Saving Clauses; Laws Repealed; When to Take Effect.
 Section 450. Application of provisions of other laws and of documents.
         451. Existing rules and regulations continued.
@@ -24,6 +24,7 @@ Section 450. Application of provisions of other laws and of documents.
         453. Existing rights preserved.
         454. Laws repealed.
         455. When to take effect.
+  * NB Effective until June 15, 2015
 ```
 
 </details>

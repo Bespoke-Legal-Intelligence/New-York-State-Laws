@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 654 |
-| Last changed | 19 Dec 2014 |
+| Sections | 664 |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (100 lines)](chapter-text.md)
+[Full chapter text (101 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 11 amended, 10 added
 - [19 Dec 2014](../../changes/2014/2014-12-19.md): 1 added
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 2 amended
 - [26 Sep 2014](../../changes/2014/2014-09-26.md): 2 amended
@@ -100,3 +101,5 @@ Assembly, do enact as follows:
 - [Article 26-B — Animal Response Teams](article-26b-animal-response-teams/)
 - [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](article-27-saving-clauses-laws-repealed-when-to-take-effect/)
 - [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](article-28-special-powers-and-duties-of-the-department/)
+- [Article 29 — Growth of Industrial Hemp](article-29-growth-of-industrial-hemp/)
+- [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](article-30-saving-clauses-laws-repealed-when-to-take-effect/)

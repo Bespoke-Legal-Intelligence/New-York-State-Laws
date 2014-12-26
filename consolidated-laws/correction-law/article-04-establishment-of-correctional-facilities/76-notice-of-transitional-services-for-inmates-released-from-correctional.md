@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Correction Law § 76", "kind": "section", "law_id": "COR", "location_id": "76", "path": "ARTICLE 4 › SECTION 76", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/76.md", "title": "Notice of transitional services for inmates released from correctional facilities"} -->
+# Correction Law § 76 — Notice of transitional services for inmates released from correctional facilities
+
+[Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+
+```text
+  * § 76. Notice of transitional services for inmates released from
+correctional facilities. 1. Prior to the release of an inmate from a
+correctional facility, the department shall provide such inmate with
+information on transitional services available in the county or city
+where such inmate is scheduled to be released. Such information shall
+include referrals to programs designed to promote the successful and
+productive reentry and reintegration of an inmate into society including
+medical and mental health services, HIV/AIDS services, educational,
+vocational and employment services, alcohol or substance abuse treatment
+and housing services. The department shall maintain a current list of
+transitional services which shall be updated no less than annually in
+order to effectuate the purposes of this section.
+  2. The commissioner shall consult with, and be entitled to receive the
+assistance of, the commissioners of education, labor, health, mental
+health and the office of temporary and disability assistance in the
+implementation of this section.
+  * NB Effective April 16, 2015
+```

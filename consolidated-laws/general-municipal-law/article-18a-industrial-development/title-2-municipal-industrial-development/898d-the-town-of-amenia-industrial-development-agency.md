@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 898-D", "kind": "section", "law_id": "GMU", "location_id": "898-D", "path": "ARTICLE 18-A › TITLE 2 › SECTION 898-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/898-D.md", "title": "The town of Amenia industrial development agency"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 898-D", "kind": "section", "law_id": "GMU", "location_id": "898-D", "path": "ARTICLE 18-A › TITLE 2 › SECTION 898-D", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/898-D.md", "title": "The town of Amenia industrial development agency"} -->
 # General Municipal Law § 898-D — The town of Amenia industrial development agency
 
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 898-d. The town of Amenia industrial development agency. For the

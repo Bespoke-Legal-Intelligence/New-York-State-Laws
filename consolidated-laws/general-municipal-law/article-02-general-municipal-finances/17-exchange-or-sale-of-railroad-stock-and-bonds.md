@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 17", "kind": "section", "law_id": "GMU", "location_id": "17", "path": "ARTICLE 2 › SECTION 17", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/17.md", "title": "Exchange or sale of railroad stock and bonds"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 17", "kind": "section", "law_id": "GMU", "location_id": "17", "path": "ARTICLE 2 › SECTION 17", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/17.md", "title": "Exchange or sale of railroad stock and bonds"} -->
 # General Municipal Law § 17 — Exchange or sale of railroad stock and bonds
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 17. Exchange or sale of railroad stock and bonds. The railroad

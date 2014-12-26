@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1894, ch. 115 |
 | Sections | 20 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Lost and Strayed Animals 115/1894 |
 
@@ -22,6 +22,10 @@
 ```
 
 [Chapter text page](chapter-text.md)
+
+## Recent changes
+
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 12 amended
 
 ## Contents
 

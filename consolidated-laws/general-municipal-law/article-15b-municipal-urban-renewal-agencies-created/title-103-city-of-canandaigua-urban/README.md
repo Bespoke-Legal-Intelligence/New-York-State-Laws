@@ -3,9 +3,11 @@
 
 [General Municipal Law](../../README.md) › [Article 15-B — Municipal Urban Renewal Agencies, Created](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 671 City of Canandaigua urban renewal agency](671-city-of-canandaigua-urban-renewal-agency.md)
+- [§ 671 City of Canandaigua urban renewal agency](671-city-of-canandaigua-urban-renewal-agency.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 103, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

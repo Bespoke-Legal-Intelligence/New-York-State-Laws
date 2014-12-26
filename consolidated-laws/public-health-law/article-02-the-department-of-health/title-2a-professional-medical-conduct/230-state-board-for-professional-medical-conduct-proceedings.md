@@ -137,6 +137,22 @@ the law of the state of New York, any other state, or the United States
 has been committed by the licensee, the board for professional medical
 conduct or office of professional medical conduct shall notify the
 appropriate law enforcement official or authority.
+  9-b. Neither the board for professional medical conduct nor the office
+of professional medical conduct shall identify, charge, or cause a
+report made to the director of such office to be investigated based
+solely upon the recommendation or provision of a treatment modality by a
+licensee that is not universally accepted by the medical profession,
+including but not limited to, varying modalities used in the treatment
+of Lyme disease and other tick-borne diseases. As used in this
+subdivision the term "licensee" shall mean a physician, physician's
+assistant, and specialist's assistant. When a licensee, acting in
+accordance with paragraph e of subdivision four of section sixty-five
+hundred twenty-seven of the education law, recommends or provides a
+treatment modality that effectively treats human disease, pain, injury,
+deformity or physical condition, the recommendation or provision of that
+modality shall not, by itself, constitute professional misconduct. This
+prohibition shall not exonerate such licensee from otherwise applicable
+professional requirements.
   10. Professional misconduct proceedings shall consist of:
   * (a) Investigation.  (i) The board for professional medical conduct,
 by the director of the office of professional medical conduct, may

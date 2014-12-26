@@ -21,7 +21,7 @@
 - [§ 810 Additional definitions](810-additional-definitions.md)
 - [§ 811 Promulgation of form of annual statement of financial disclosure; authority of governing body with respect to persons subject thereto](811-promulgation-of-form-of-annual-statement-of-financial-disclosure-authority.md)
 - [§ 812 Financial disclosure for local elected officials and certain officers and employees of counties, cities, towns and villages](812-financial-disclosure-for-local-elected-officials-and-certain-officers.md)
-- [§ 813 Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ...](813-temporary-state-commission-on-local-government-ethics-functions-powers.md)
+- [§ 813 Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ...](813-temporary-state-commission-on-local-government-ethics-functions-powers.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -30,30 +30,26 @@
                                ARTICLE 18
              CONFLICTS OF INTEREST OF MUNICIPAL OFFICERS AND
                                 EMPLOYEES
-Section  800.    Definitions.
-         801.    Conflicts of interest prohibited.
-         802.    Exceptions.
-         803.    Disclosure of interest.
-         804.    Contracts void.
-         804-a.  Certain interests prohibited.
-         805.    Violations.
-         805-a.  Certain action prohibited.
-         805-b.  Solemnization of marriages.
-         806.    Code of ethics.
-         807.    Posting of statute.
-         808.    Boards of ethics.
-         809.    Disclosure in certain applications.
-         810.    Additional definitions.
-         811.    Promulgation  of  form of annual statement of financial
-                   disclosure; authority of governing body with  respect
-                   to persons subject thereto.
-         812.    Financial  disclosure  for  local elected officials and
-                   certain officers and employees of  counties,  cities,
-                   towns and villages.
-         813.    Temporary  state commission on local government ethics;
-                   functions, powers and  duties;  review  of  financial
-                   disclosure     statements;     advisory     opinions;
-                   investigation and enforcement.
+Section 800.   Definitions.
+        801.   Conflicts of interest prohibited.
+        802.   Exceptions.
+        803.   Disclosure of interest.
+        804.   Contracts void.
+        804-a. Certain interests prohibited.
+        805.   Violations.
+        805-a. Certain action prohibited.
+        805-b. Solemnization of marriages.
+        806.   Code of ethics.
+        807.   Posting of statute.
+        808.   Boards of ethics.
+        809.   Disclosure in certain applications.
+        810.   Additional definitions.
+        811.   Promulgation of form of annual statement of financial
+                 disclosure; authority of governing body with respect to
+                 persons subject thereto.
+        812.   Financial disclosure for local elected officials and
+                 certain officers and employees of counties, cities,
+                 towns and villages.
 ```
 
 </details>

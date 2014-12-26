@@ -13,7 +13,7 @@
 - [§ 9-313 When Possession by or Delivery to Secured Party Perfects Security Interest Without Filing](9-313-when-possession-by-or-delivery-to-secured.md)
 - [§ 9-314 Perfection by Control](9-314-perfection-by-control.md)
 - [§ 9-315 Secured Party's Rights on Disposition of Collateral and in Proceeds](9-315-secured-partys-rights-on-disposition.md)
-- [§ 9-316 Continued Perfection of Security Interest Following Change in Governing Law](9-316-continued-perfection-of-security-interest.md)
+- [§ 9-316 Effect of Change in Governing Law](9-316-effect-of-change-in-governing-law.md)
 
 <details>
 <summary>Official heading of Subpart 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1973, ch. 392 |
 | Sections | 31 |
-| Last changed | 28 Nov 2014 |
+| Last changed | 26 Dec 2014 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Medical Care Facilities Finance Agency 392/73 |
 
@@ -34,6 +34,7 @@ Section 1.    Short title.
 
 ## Recent changes
 
+- [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 amended
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 3 amended, 1 added
 
 ## Contents

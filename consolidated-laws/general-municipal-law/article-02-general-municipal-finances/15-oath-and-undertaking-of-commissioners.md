@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 15", "kind": "section", "law_id": "GMU", "location_id": "15", "path": "ARTICLE 2 › SECTION 15", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/15.md", "title": "Oath and undertaking of commissioners"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 15", "kind": "section", "law_id": "GMU", "location_id": "15", "path": "ARTICLE 2 › SECTION 15", "repealed": true, "repealed_date": "2014-12-26", "source": "nys-laws:GMU/15.md", "title": "Oath and undertaking of commissioners"} -->
 # General Municipal Law § 15 — Oath and undertaking of commissioners
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (26 Dec 2014). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 15. Oath and undertaking of commissioners. Before entering upon
