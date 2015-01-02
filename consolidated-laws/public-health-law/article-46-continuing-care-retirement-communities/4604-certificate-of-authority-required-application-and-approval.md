@@ -29,12 +29,13 @@ characteristics of the population to be served;
   c. an initial disclosure statement as provided pursuant to section
 forty-six hundred six of this title;
   d. a copy of the proposed forms of contracts to be entered into with
-residents of the community;
+residents of the community or continuing care at home contract holders;
   e. complete details of any agreements with a licensed insurer,
 including copies of proposed contracts, requiring the insurer to assume,
 wholly or in part, the cost of medical or health related services to be
-provided to a resident pursuant to a continuing care retirement
-contract;
+provided to a resident or continuing care at home contract holders
+pursuant to a continuing care retirement community or continuing care at
+home contract;
   f. a copy of each of the basic organizational documents and agreements
 of the applicant of all participating entities;
   g. a copy of the bylaws, rules and regulations and internal governing
@@ -82,10 +83,9 @@ business activity or health care as a result of an action brought by a
 public agency or department, including, without limitation, actions
 affecting a license to operate a hospital as defined by section
 twenty-eight hundred one of this chapter, or a facility required to be
-licensed or certified by the department of social services. The
-statement shall set forth the court or agency, date of conviction or
-judgment, the penalty imposed or damages assessed, or the date, nature
-and issuer of the order;
+licensed or certified by the department. The statement shall set forth
+the court or agency, date of conviction or judgment, the penalty imposed
+or damages assessed, or the date, nature and issuer of the order;
   k. information which describes the populations to be served; and
   l. any other information as may be required by regulations adopted
 pursuant to this article.
@@ -151,14 +151,14 @@ provided further that the superintendent is notified of any such
 increase or decrease prior to its taking effect.
   (iv) An individual resident's monthly care fee shall not be modified
 because of the increased need for services of that resident;
-  b. the commissioner of social services as to those aspects of the
-application relating to adult care facility beds, if any;
-  c. the public health council under section twenty-eight hundred one-a
-of this chapter as to the establishment of a skilled nursing facility by
-the applicant and as to such other facilities and services as may
-require the public health council's approval of the application;
-provided, however, that the recommendations of the state hospital review
-and planning council and the health systems agency having geographical
+  b. the commissioner as to those aspects of the application relating to
+adult care facility beds, if any;
+  c. the public health and health planning council under section
+twenty-eight hundred one-a of this chapter as to the establishment of a
+skilled nursing facility by the applicant and as to such other
+facilities and services as may require the public health and health
+planning council's approval of the application; provided, however, that
+the recommendations of the health systems agency having geographical
 jurisdiction of the area where the continuing care retirement community
 is located shall not be required with respect to the establishment of an
 on-site or affiliated residential health care facility to serve
@@ -166,9 +166,9 @@ residents as part of the continuing care retirement community, for up to
 the total number of residential health care facility beds provided for
 in subdivision five of this section in communities statewide;
   d. the commissioner under section twenty-eight hundred two of this
-chapter; provided, however, that, the recommendations of the state
-hospital review and planning council and the health systems agency
-having geographical jurisdiction of the area where the continuing care
+chapter; provided, however, that, the recommendations of the public
+health and health planning council and the health systems agency having
+geographical jurisdiction of the area where the continuing care
 retirement community is located shall not be required with respect to
 the construction of an on-site or affiliated residential health care
 facility to serve residents as part of the continuing care retirement

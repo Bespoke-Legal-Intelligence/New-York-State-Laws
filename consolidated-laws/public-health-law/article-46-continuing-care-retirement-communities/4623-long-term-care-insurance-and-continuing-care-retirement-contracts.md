@@ -1,11 +1,11 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4623", "kind": "section", "law_id": "PBH", "location_id": "4623", "path": "ARTICLE 46 › SECTION 4623", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4623.md", "title": "Long term care insurance for continuing care retirement contracts"} -->
-# Public Health Law § 4623 — Long term care insurance for continuing care retirement contracts
+﻿<!-- nyslaw {"citation": "Public Health Law § 4623", "kind": "section", "law_id": "PBH", "location_id": "4623", "path": "ARTICLE 46 › SECTION 4623", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4623.md", "title": "Long term care insurance and continuing care retirement contracts"} -->
+# Public Health Law § 4623 — Long term care insurance and continuing care retirement contracts
 
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  § 4623. Long term care insurance for continuing care retirement
-contracts.  1. The council may approve an application for a certificate
+  § 4623. Long term care insurance and continuing care retirement
+contracts. 1. The council may approve an application for a certificate
 of authority and the commissioner may issue a certificate of authority
 for the establishment and operation of a continuing care retirement
 community under an arrangement which otherwise complies with the

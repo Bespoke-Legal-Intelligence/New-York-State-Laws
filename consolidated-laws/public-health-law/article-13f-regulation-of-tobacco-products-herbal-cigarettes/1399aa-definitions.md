@@ -48,8 +48,7 @@ tobacco.
   12. "Shisha" means any product made primarily of tobacco or other
 leaf, or any combination thereof, smoked or intended to be smoked in a
 hookah or water pipe.
-  13. "Electronic cigarette" or "e-cigarette" means a battery-operated
-device that contains cartridges filled with a combination of nicotine,
-flavor and chemicals that are turned into vapor which is inhaled by the
-user.
+  13. "Electronic cigarette" or "e-cigarette" means an electronic device
+that delivers vapor which is inhaled by an individual user, and shall
+include any refill, cartridge and any other component of such a device.
 ```

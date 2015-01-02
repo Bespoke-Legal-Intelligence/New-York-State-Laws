@@ -5,7 +5,7 @@
 
 ```text
   § 4604-a. Council approval required for industrial development agency
-financing in connection with continuing care retirement communities.  1.
+financing in connection with continuing care retirement communities. 1.
 No person seeking financing in connection with a continuing care
 retirement community through an industrial development agency shall
 undertake such financing without the prior approval of the council. Upon
@@ -64,11 +64,12 @@ tax law.
 remedies of bondholders as may be required by or consistent with the
 provisions of this article and any regulations in existence at the time
 of the issuance promulgated thereunder.
-  g. Unless all residents have life care contracts, the operator has
-adequately made the assurances required by subdivision two of section
-forty-six hundred twenty-four of this article and has agreed to fund the
-liability in the event that resident assets are insufficient to pay for
-nursing facility services for a one year period.
+  g. Unless all residents or continuing care at home contract holders
+have life care contracts, the operator has adequately made the
+assurances required by subdivision two of section forty-six hundred
+twenty-four of this article and has agreed to fund the liability in the
+event that such resident's or contract holder's assets are insufficient
+to pay for nursing facility services for a one year period.
   3. In addition, an operator which is subject to the provisions of this
 section shall:
   a. provide the council or its designee with notice of any monetary

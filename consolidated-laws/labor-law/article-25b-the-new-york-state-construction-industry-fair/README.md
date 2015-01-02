@@ -12,12 +12,13 @@
 - [§ 861-D Notice to persons receiving remuneration from contractors and subcontractors](861d-notice-to-persons-receiving-remuneration-from-contractors-and-subcontractors.md)
 - [§ 861-E Violations and penalties](861e-violations-and-penalties.md)
 - [§ 861-F Retaliation](861f-retaliation.md)
+- [§ 861-G Contractor accountability](861g-contractor-accountability.md)
 
 <details>
 <summary>Official heading of Article 25-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 25-B
+                              ARTICLE 25-B
          THE NEW YORK STATE CONSTRUCTION INDUSTRY FAIR PLAY ACT
 Section 861.   Short title.
         861-a. Legislative findings and intent.
@@ -27,6 +28,7 @@ Section 861.   Short title.
                          and subcontractors.
         861-e. Violations and penalties.
         861-f. Retaliation.
+        861-g. Contractor accountability.
 ```
 
 </details>

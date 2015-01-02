@@ -32,10 +32,10 @@ such examination;
   j. The superintendent of financial services has made a determination
 that the operator is insolvent within the meaning of section one
 thousand three hundred nine of the insurance law; or
-  k. The commissioner or the commissioner of social services has found
-violations of applicable statutes, rules or regulations which threaten
-to affect directly the health, safety, or welfare of a resident of a
-continuing care retirement community.
+  k. The commissioner has found violations of applicable statutes, rules
+or regulations which threaten to affect directly the health, safety, or
+welfare of a resident of a continuing care retirement community or a
+contract holder of a continuing care at home contract.
   2. No certificate of authority shall be revoked, suspended, limited or
 annulled without a hearing, except that a certificate of authority may
 be temporarily suspended or limited prior to a hearing for a period not

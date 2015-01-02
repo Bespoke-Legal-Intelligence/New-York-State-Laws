@@ -5,15 +5,15 @@
 
 ```text
   § 4603-a. Residential health care demonstration facilities. 1. The
-commissioner, upon approval of the life care community council and the
-public health council shall issue a certificate of incorporation of up
-to three residential health care demonstration facilities.
-Notwithstanding any provision of article twenty-eight of this chapter or
-any other provisions of law to the contrary, the public health council
-may approve without regard to the requirement of public need as set
-forth in subdivision three of section twenty-eight hundred one-a of this
-chapter, a certificate of incorporation or application for establishment
-of such facilities.
+commissioner, upon approval of the continuing care retirement community
+council and the public health council shall issue a certificate of
+incorporation of up to three residential health care demonstration
+facilities. Notwithstanding any provision of article twenty-eight of
+this chapter or any other provisions of law to the contrary, the public
+health council may approve without regard to the requirement of public
+need as set forth in subdivision three of section twenty-eight hundred
+one-a of this chapter, a certificate of incorporation or application for
+establishment of such facilities.
   2. Not more than one hundred eighty residential health care
 demonstration facility beds shall be authorized and established in this
 state pursuant to this article.

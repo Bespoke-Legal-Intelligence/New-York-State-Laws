@@ -25,8 +25,8 @@ services as members of the council, except that each of them may be
 allowed the necessary and actual expenses which he shall incur in the
 performance of his duties under this article.
   2. The council shall meet as often as may be deemed necessary to
-fulfill its responsibilities, but in no event less than four times per
-year. The council shall have the following powers and duties:
+fulfill its responsibilities. The council shall have the following
+powers and duties:
   a. to approve or reject applications to obtain a certificate of
 authority for the establishment and operation of a continuing care
 retirement community. In reviewing applications, the council shall

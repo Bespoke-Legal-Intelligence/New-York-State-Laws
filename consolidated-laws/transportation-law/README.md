@@ -8,7 +8,7 @@
 | Senate code | TRA |
 | Type | Consolidated law, chapter 61-A |
 | Sections | 323 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 2 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Transportation |
 
@@ -30,6 +30,10 @@ Article 1.   Short title; definitions (§§ 1-2).
 ```
 
 [Full chapter text (55 lines)](chapter-text.md)
+
+## Recent changes
+
+- [2 Jan 2015](../../changes/2015/2015-01-02.md): 1 amended
 
 ## Contents
 

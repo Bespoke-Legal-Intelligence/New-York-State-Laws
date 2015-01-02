@@ -15,7 +15,7 @@
 - [§ 4605 Certificate of authority; authority of operator](4605-certificate-of-authority-authority-of-operator.md)
 - [§ 4606 Initial disclosure statement](4606-initial-disclosure-statement.md)
 - [§ 4607 Annual statement](4607-annual-statement.md)
-- [§ 4608 Continuing care retirement contract](4608-continuing-care-retirement-contract.md)
+- [§ 4608 Continuing care retirement community contract](4608-continuing-care-retirement-community-contract.md)
 - [§ 4609 Withdrawal, death or dismissal of person; refund](4609-withdrawal-death-or-dismissal-of-person-refund.md)
 - [§ 4610 Entrance fee escrow account](4610-entrance-fee-escrow-account.md)
 - [§ 4611 Reserves and supporting assets](4611-reserves-and-supporting-assets.md)
@@ -30,7 +30,7 @@
 - [§ 4620 Separability](4620-separability.md)
 - [§ 4621 Priority reservation agreements; prior to obtaining a certificate of authority](4621-priority-reservation-agreements-prior-to-obtaining-a-certificate-of-authority.md)
 - [§ 4622 Priority reservation agreements; after obtaining a certificate of authority](4622-priority-reservation-agreements-after-obtaining-a-certificate-of-authority.md)
-- [§ 4623 Long term care insurance for continuing care retirement contracts](4623-long-term-care-insurance-for-continuing-care-retirement-contracts.md)
+- [§ 4623 Long term care insurance and continuing care retirement contracts](4623-long-term-care-insurance-and-continuing-care-retirement-contracts.md)
 - [§ 4624 Continuing care retirement communities making assurances regarding long term care](4624-continuing-care-retirement-communities-making-assurances-regarding-long-term.md)
 
 <details>
@@ -53,7 +53,7 @@ Section 4600.   Legislative findings and purpose.
         4605.   Certificate of authority; authority of operator.
         4606.   Initial disclosure statement.
         4607.   Annual statement.
-        4608.   Continuing care retirement contract.
+        4608.   Continuing care retirement community contract.
         4609.   Withdrawal, death or dismissal of person; refund.
         4610.   Entrance fee escrow account.
         4611.   Reserves and supporting assets.
@@ -71,7 +71,7 @@ Section 4600.   Legislative findings and purpose.
                   certificate of authority.
         4622.   Priority reservation agreements; after obtaining a
                   certificate of authority.
-        4623.   Long term care insurance for continuing care retirement
+        4623.   Long term care insurance and continuing care retirement
                   communities.
         4624.   Continuing care retirement communities making assurances
                   regarding long term care.

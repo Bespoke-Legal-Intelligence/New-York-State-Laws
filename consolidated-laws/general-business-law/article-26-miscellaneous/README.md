@@ -134,6 +134,7 @@
 - [§ 399-F Laundromat refund procedures](399f-laundromat-refund-procedures.md)
 - [§ 399-FF Petting zoos](399ff-petting-zoos.md)
 - [§ 399-G Labeling of solder](399g-labeling-of-solder.md)
+- [§ 399-GG Packaging of electronic liquid](399gg-packaging-of-electronic-liquid.md)
 - [§ 399-H Disposal of records containing personal identifying information](399h-disposal-of-records-containing-personal-identifying-information.md)
 - [§ 399-I Prohibit the sale of unsafe cribs and restrict use of such cribs in certain settings](399i-prohibit-the-sale-of-unsafe-cribs-and-restrict-use-of-such-cribs-in-certain.md)
 - [§ 399-J Safety standards; moveable soccer goals](399j-safety-standards-moveable-soccer-goals.md)
@@ -343,6 +344,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         399-f.     Laundromat refund procedures.
         399-ff.    Petting zoos.
         399-g.     Labeling of solder.
+        399-gg.    Packaging of electronic liquid.
         399-h.     Disposal of records containing personal identifying
                      information.
         399-i.     Prohibit the sale of unsafe cribs and restrict use of

@@ -10,7 +10,7 @@
 - [§ 222 Application of other laws](222-application-of-other-laws.md)
 - [§ 223 Prohibition against discrimination](223-prohibition-against-discrimination.md)
 - [§ 223-A Discrimination against persons who have certain household pets](223a-discrimination-against-persons-who-have-certain-household-pets.md)
-- [§ 223-B Discrimination against hearing impaired persons who have hearing dogs](223b-discrimination-against-hearing-impaired-persons-who-have-hearing-dogs.md)
+- [§ 223-B Discrimination against a person with a hearing impairment who has a hearing dog](223b-discrimination-against-a-person-with-a-hearing-impairment-who-has-a-hearing-dog.md)
 - [§ 224 Pending actions or proceedings](224-pending-actions-or-proceedings.md)
 - [§ 225 Saving clause](225-saving-clause.md)
 - [§ 226 Transfer of records](226-transfer-of-records.md)
@@ -29,8 +29,8 @@ Section 220.   Construction.
         223.   Prohibition against discrimination.
         223-a. Discrimination against persons who have certain household
                  pets.
-        223-b. Discrimination against hearing impaired persons who have
-                 hearing dogs.
+        223-b. Discrimination against a person with a hearing impairment
+                 who has a hearing dog.
         224.   Pending actions or proceedings.
         225.   Saving clause.
         226.   Transfer of records.

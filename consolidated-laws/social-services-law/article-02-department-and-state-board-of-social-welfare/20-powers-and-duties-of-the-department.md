@@ -122,8 +122,10 @@ the circumstances of the child's death, (iv) whether the child or the
 child's family had received assistance, care or services from the social
 services district prior to such child's death, (v) any action or further
 investigation undertaken by the department or by the local social
-services district since the death of the child, and (vi) as appropriate,
-recommendations for local or state administrative or policy changes.
+services district since the death of the child, (vi) as appropriate,
+recommendations for local or state administrative or policy changes, and
+(vii) written comments as may be provided by any local social services
+district referenced in such report.
   Such report shall contain no information that would identify the name
 of the deceased child, his or her siblings, the parent or other person
 legally responsible for the child or any other members of the child's
@@ -141,20 +143,24 @@ disclosure to the public of the substance or content of any
 psychological, psychiatric, therapeutic, clinical or medical reports,
 evaluations or like materials or information pertaining to such child or
 the child's family.
-  (c) No later than six months from the date of the death of such child,
-the department shall forward its report to the social services district,
-chief county executive officer, chairperson of the local legislative
-body of the county where the child's death occurred and the social
-services district which had care and custody or custody and guardianship
-of the child, if different. The department shall notify the temporary
-president of the senate and the speaker of the assembly as to the
-issuance of such reports and, in addition to the requirements of section
-seventeen of this chapter, shall submit an annual cumulative report to
-the governor and the legislature incorporating the data in the above
-reports and including appropriate findings and recommendations. Such
-reports concerning the death of a child and such cumulative reports
-shall immediately thereafter be made available to the public after such
-forwarding or submittal.
+  (c) Thirty days prior to the release of the report the department
+shall forward the proposed report to each local social services district
+referenced in the report. Within twenty days thereafter each local
+social services district may provide written comments which the
+department shall include within the report. No later than six months
+from the date of the death of such child, the department shall forward
+its report to the social services district, chief county executive
+officer, chairperson of the local legislative body of the county where
+the child's death occurred and the social services district which had
+care and custody or custody and guardianship of the child, if different.
+The department shall notify the temporary president of the senate and
+the speaker of the assembly as to the issuance of such reports and, in
+addition to the requirements of section seventeen of this chapter, shall
+submit an annual cumulative report to the governor and the legislature
+incorporating the data in the above reports and including appropriate
+findings and recommendations. Such reports concerning the death of a
+child and such cumulative reports shall immediately thereafter be made
+available to the public after such forwarding or submittal.
   (d) To enable the office of children and family services or a local or
 regional fatality review team to prepare such report, the office of
 children and family services or a local or regional fatality review team

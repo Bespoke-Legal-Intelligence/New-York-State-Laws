@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  § 4612. Residents' organizations. 1. Residents living in a community
+  § 4612. Residents' organizations. 1. Residents in a community
 authorized by this article shall have the right of self-organization,
 the right to be represented by one or more individuals of their own
 choosing, and the right to engage in concerted activities for the

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 163 |
-| Last changed | 26 Sep 2014 |
+| Sections | 166 |
+| Last changed | 2 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (42 lines)](chapter-text.md)
+[Full chapter text (43 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 added
 - [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
 
 ## Contents
@@ -54,6 +55,7 @@ Assembly, do enact as follows:
 - [Article 6 — New York State Economic Development Power Allocation Board](article-06-new-york-state-economic-development-power/)
 - [Article 6-A — Western New York Power Proceeds Allocation Act](article-06a-western-new-york-power-proceeds-allocation-act/)
 - [Article 7 — Industrial Effectiveness Program](article-07-industrial-effectiveness-program/)
+- [Article 7-A — Northern New York Power Proceeds Allocation Act](article-07a-northern-new-york-power-proceeds-allocation-act/)
 - [Article 8 — Economic Development Skills Training Program](article-08-economic-development-skills-training-program/)
 - [Article 9 — Entrepreneurial Assistance](article-09-entrepreneurial-assistance/)
 - [Article 9-A — Come Home to New York Program](article-09a-come-home-to-new-york-program/)

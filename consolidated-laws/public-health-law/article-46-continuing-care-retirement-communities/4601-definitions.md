@@ -11,22 +11,23 @@ commissioner, for an operator to operate a continuing care retirement
 community and to enter into continuing care retirement contracts
 pertaining to such community.
   2. "Commissioner" shall mean the commissioner of health.
-  2-a. "Continuing care retirement contract" shall mean a single
-contract to provide a person the services provided by a continuing care
-retirement community.
+  2-a. "Continuing care retirement community contract" shall mean a
+single contract to provide a person the services provided by a
+continuing care retirement community.
   2-b. "Continuing care retirement community" or "community" shall mean
 a facility or facilities established to provide a comprehensive,
 cohesive living arrangement for the elderly, oriented to the enhancement
 of the quality of life and which, pursuant to the terms of the
-continuing care contract, at a minimum:
-  a. provides independent living units, and provides a meal plan. The
-independent living unit can be made available either through a
-non-equity arrangement or through an equity arrangement including, but
-not limited to a cooperative or condominium. For purposes of this
-article, the purchase price of an independent living unit in an equity
-arrangement, regardless of the form of the purchase agreement, shall not
-be considered an entry fee for purposes of calculating reserve
-liabilities, but shall be considered an entry fee for escrow purposes;
+continuing care retirement community contract, at a minimum:
+  a. provides, or supports through continuing care at home, independent
+living units, and meal plan options. The independent living unit can be
+made available either through a non-equity arrangement or through an
+equity arrangement including, but not limited to a cooperative or
+condominium. For purposes of this article, the purchase price of an
+independent living unit in an equity arrangement, regardless of the form
+of the purchase agreement, shall not be considered an entry fee for
+purposes of calculating reserve liabilities, but shall be considered an
+entry fee for escrow purposes;
   b. provides a range of health care and social services, subject to
 such terms as may be included within the contract, which shall include
 adult care facility services of an on-site or affiliated adult care
@@ -47,8 +48,9 @@ security act; and
 fee-for-service continuing care contracts must offer, along with such
 fee-for-service continuing care contracts, life care and/or continuing
 care contracts as defined in subdivision eight-a of this section.
-  3. "Contracts" or "agreements" shall mean continuing care retirement
-contracts as defined in this article.
+  3. "Contracts" or "agreements" shall mean continuing care at home or
+continuing care retirement community contracts as defined in this
+article.
   4. "Control", "controlling", "controlled by", and "under common
 control with" shall mean the possession, directly, or indirectly, of the
 power to direct or cause the direction of the management and policies of
@@ -71,22 +73,43 @@ purpose of ensuring services pursuant to such a contract.
 provide a resident with the services of a continuing care retirement
 community, pursuant to a contract, whether such place is constructed,
 owned, leased, rented, or otherwise contracted for by the operator.
+  7-a. "Continuing care at home corporation" shall mean a not-for-profit
+corporation affiliated with a continuing care retirement community
+campus provider through which contract holders pay an entrance fee and a
+monthly fee, both of which would correspond to the level of service
+chosen by the contract holder.
+  7-b. "Continuing care at home contract" shall mean a single contract
+to provide a person with long term care services and supports based upon
+an individual's needs and coordinated by a case manager, which shall
+include services provided to the individual in his or her residence and
+services of the affiliated community's nursing facility and adult care
+facility, or affiliated facilities.
+  7-c. a. "Continuing care at home" corporations providing services in a
+nursing home as defined in section twenty-eight hundred one of this
+chapter must be licensed under article twenty-eight and shall be subject
+to the provisions and standards of such article.
+  b. "Continuing care at home" corporations providing home care services
+as defined in section thirty-six hundred two of this chapter must be
+licensed under article thirty-six and shall be subject to the provisions
+and standards of such article.
   8. "Life care contract" shall mean a single continuing care retirement
+community contract or a continuing care at home contract to provide a
+person, for the duration of such person's life, the services provided by
+the continuing care retirement community or the continuing care at home
+corporation, which services shall include unlimited services of the
+affiliated community's nursing facility or affiliated nursing home. Such
+term also shall mean a single continuing care retirement community
 contract to provide a person, for the duration of such person's life,
-the services provided by the continuing care retirement community, which
-services shall include unlimited services of an on-site or affiliated
-nursing facility. Such term also shall mean a single continuing care
-retirement contract to provide a person, for the duration of such
-person's life, the services provided by the continuing care retirement
-community under an arrangement in which the costs of the residents'
-unlimited nursing home or home health care services are paid for in
-whole or in part by a long term care insurance policy approved by the
-superintendent in accordance with applicable regulations or by long term
-care insurance or medical assistance payments in accordance with the
-partnership for long term care program pursuant to the provisions of
-section three hundred sixty-seven-f of the social services law, section
-three thousand two hundred twenty-nine of the insurance law and section
-four thousand six hundred twenty-three of this chapter.
+the services provided by the continuing care retirement community under
+an arrangement in which the costs of the residents' unlimited nursing
+home or home care services are paid for in whole or in part by a long
+term care insurance policy approved by the superintendent in accordance
+with applicable regulations or by long term care insurance or medical
+assistance payments in accordance with the partnership for long term
+care program pursuant to the provisions of section three hundred
+sixty-seven-f of the social services law, section three thousand two
+hundred twenty-nine of the insurance law and section four thousand six
+hundred twenty-three of this chapter.
   8-a. "Fee-for-service continuing care contract" shall mean a single
 continuing care retirement contract that provides long-term and other
 services on a per diem, fee-for-service or monthly rate.
@@ -94,11 +117,8 @@ services on a per diem, fee-for-service or monthly rate.
 care contract".
   10. "Living unit" shall mean an apartment, room, cottage, or other
 area within a community set aside for the exclusive use of one or more
-residents.
-  10-a. "Meal plan" shall mean an arrangement whereby the person
-entering into the continuing care retirement contract is provided with
-no fewer than five meals per month. Additional meals shall be available
-on a fee-for-service basis.
+residents, or in the case of a continuing care at home contract, the
+contract holder's private residence.
   11. "Monthly care fee" shall mean the monthly cost to a resident for
 prepayment of any services, including rent, rendered pursuant to a
 contract, exclusive of entrance fees or other prepayments, and any other

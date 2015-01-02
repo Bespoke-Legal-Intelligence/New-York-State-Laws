@@ -116,13 +116,14 @@ approved by the health maintenance organization in order to receive
 their Medicare benefit for nursing facility services under the health
 maintenance organization subscriber contract.
   13. The initial disclosure statement and marketing materials of a
-continuing care retirement community must clearly include a description
-of the services offered as part of its contract, including, but not
-limited to, any limitations on nursing facility services. The initial
-disclosure statement and marketing materials of a continuing care
-retirement community which offers various types of contracts, which may
-include life care contracts, must clearly differentiate among the
-various types of contracts which it may offer.
+continuing care retirement community and continuing care at home
+corporation must clearly include a description of the services offered
+as part of its contract, including, but not limited to, any limitations
+on nursing facility services. The initial disclosure statement and
+marketing materials of a continuing care retirement community or
+continuing care at home corporation which offers various types of
+contracts, which may include life care contracts, must clearly
+differentiate among the various types of contracts which it may offer.
   14. In accordance with regulations promulgated by the council, the
 operator shall prepare a standard information sheet for each approved
 continuing care retirement community, which must be approved by the
@@ -139,10 +140,11 @@ contact person employed by the operator;
 facility units and nursing home beds and whether such beds are on-site
 or off-site;
   d. the types of contracts available;
-  e. a listing of all fees, charges, and refund options and the services
+  e. the types of meal plans available;
+  f. a listing of all fees, charges, and refund options and the services
 covered by such fees and charges;
-  f. any insurance coverage required of residents; and
-  g. any other information which the continuing care retirement
+  g. any insurance coverage required of residents; and
+  h. any other information which the continuing care retirement
 community council determines will assist a consumer in comparing the
 benefits and costs of different continuing care retirement communities.
   15. Any other information as may be required by regulations

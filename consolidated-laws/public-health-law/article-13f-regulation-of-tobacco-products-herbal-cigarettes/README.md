@@ -9,7 +9,7 @@
 
 - [§ 1399-AA Definitions](1399aa-definitions.md)
 - [§ 1399-BB Distribution of tobacco products or herbal cigarettes without charge](1399bb-distribution-of-tobacco-products-or-herbal-cigarettes-without-charge.md)
-- [§ 1399-CC Sale of tobacco products, herbal cigarettes, shisha, rolling papers or smoking paraphernalia to minors prohibited](1399cc-sale-of-tobacco-products-herbal-cigarettes-shisha-rolling-papers.md)
+- [§ 1399-CC Sale of tobacco products, herbal cigarettes, liquid nicotine, shisha, rolling papers or smoking paraphernalia to minors prohibited](1399cc-sale-of-tobacco-products-herbal-cigarettes-liquid-nicotine-shisha.md)
 - [§ 1399-DD Sale of tobacco products, herbal cigarettes or electronic cigarettes in vending machines](1399dd-sale-of-tobacco-products-herbal-cigarettes-or-electronic-cigarettes.md)
 - [§ 1399-EE Hearings; penalties](1399ee-hearings-penalties.md)
 - [§ 1399-FF Enforcement](1399ff-enforcement.md)
@@ -32,9 +32,9 @@
 Section 1399-aa.   Definitions.
         1399-bb.   Distribution of tobacco products or herbal cigarettes
                      without charge.
-        1399-cc.   Sale of tobacco products, herbal cigarettes, shisha,
-                     rolling papers or smoking paraphernalia to minors
-                     prohibited.
+        1399-cc.   Sale of tobacco products, herbal cigarettes, liquid
+                     nicotine, shisha, rolling papers or smoking
+                     paraphernalia to minors prohibited.
         1399-dd.   Sale of tobacco products, herbal cigarettes or
                      electronic cigarettes in vending machines.
         1399-ee.   Hearings; penalties.
