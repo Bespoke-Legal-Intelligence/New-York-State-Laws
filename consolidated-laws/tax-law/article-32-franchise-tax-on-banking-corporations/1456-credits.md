@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1456", "kind": "section", "law_id": "TAX", "location_id": "1456", "path": "ARTICLE 32 › SECTION 1456", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1456.md", "title": "Credits"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1456", "kind": "section", "law_id": "TAX", "location_id": "1456", "path": "ARTICLE 32 › SECTION 1456", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1456.md", "title": "Credits"} -->
 # Tax Law § 1456 — Credits
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1456. Credits. (a) Credit for servicing certain mortgages. Every

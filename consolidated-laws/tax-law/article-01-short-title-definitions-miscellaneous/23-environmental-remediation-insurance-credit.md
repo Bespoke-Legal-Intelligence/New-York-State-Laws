@@ -4,29 +4,17 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 23. Environmental remediation insurance credit. * (a) Allowance of
+  § 23. Environmental remediation insurance credit.  (a) Allowance of
 credit. General. A taxpayer subject to tax under article nine, nine-A,
-twenty-two, thirty-two or thirty-three of this chapter shall be allowed
-a credit against such tax, pursuant to the provisions referenced in
-subdivision (e) of this section. The amount of such credit shall be
-equal to the lesser of thirty thousand dollars or fifty percent of the
-premiums paid on or after the date of the brownfield site cleanup
-agreement executed by the taxpayer and the department of environmental
-conservation pursuant to section 27-1409 of the environmental
-conservation law by the taxpayer for environmental remediation insurance
-issued with respect to a qualified site.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. General. A taxpayer subject to tax under
-article nine, nine-A, twenty-two or thirty-three of this chapter shall
-be allowed a credit against such tax, pursuant to the provisions
-referenced in subdivision (e) of this section. The amount of such credit
-shall be equal to the lesser of thirty thousand dollars or fifty percent
-of the premiums paid on or after the date of the brownfield site cleanup
-agreement executed by the taxpayer and the department of environmental
-conservation pursuant to section 27-1409 of the environmental
-conservation law by the taxpayer for environmental remediation insurance
-issued with respect to a qualified site.
-  * NB Effective January 1, 2015
+twenty-two or thirty-three of this chapter shall be allowed a credit
+against such tax, pursuant to the provisions referenced in subdivision
+(e) of this section. The amount of such credit shall be equal to the
+lesser of thirty thousand dollars or fifty percent of the premiums paid
+on or after the date of the brownfield site cleanup agreement executed
+by the taxpayer and the department of environmental conservation
+pursuant to section 27-1409 of the environmental conservation law by the
+taxpayer for environmental remediation insurance issued with respect to
+a qualified site.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) Qualified site. A "qualified site" is a site with respect to which
@@ -51,19 +39,10 @@ pursuant to section 27-1419 of the environmental conservation law, the
 amount of credit allowed by this section shall be added back in the
 taxable year in which such determination is final and no longer subject
 to judicial review.
-  * (e) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article 9: Section 187-i
-  (2) Article 9-A: Section 210, subdivision 35
-  (3) Article 22: Section 606, subsections (i) and (ff)
-  (4) Article 32: Section 1456, subsection (s)
-  (5) Article 33: Section 1511, subdivision (w).
-  * NB Effective until January 1, 2015
-  * (e) Cross-references. For application of the credit provided for in
+  (e) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article 9: Section 187-i
   (2) Article 9-A: Section 210-B, subdivision 19
   (3) Article 22: Section 606, subsections (i) and (ff)
   (4) Article 33: Section 1511, subdivision (w).
-  * NB Effective January 1, 2015
 ```

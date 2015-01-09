@@ -4,19 +4,11 @@
 [Tax Law](../README.md) › [Article 27 — Corporate Tax Procedure and Administration](README.md)
 
 ```text
-  § 1080. Application of article.--- * (a) General.--- The provisions of
+  § 1080. Application of article.--- (a) General.--- The provisions of
 this article shall apply to the administration of and the procedures
-with respect to the taxes imposed by articles nine (except section one
-hundred eighty), nine-a, nine-b and nine-c of this chapter for taxable
-years or periods ending on or after December thirty-first, nineteen
-hundred sixty-four.
-  * NB Effective until January 1, 2015
-  * (a) General.--- The provisions of this article shall apply to the
-administration of and the procedures with respect to the taxes imposed
-by articles nine, and nine-a of this chapter for taxable years or
-periods ending on or after December thirty-first, nineteen hundred
-sixty-four.
-  * NB Effective January 1, 2015
+with respect to the taxes imposed by articles nine, and nine-a of this
+chapter for taxable years or periods ending on or after December
+thirty-first, nineteen hundred sixty-four.
   (b) Definitions.--- As used in this article, where not otherwise
 specifically defined and unless a different meaning is clearly
 required---

@@ -4,21 +4,13 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 15. QEZE credit for real property taxes. * (a) Allowance of credit.
-A taxpayer which is a qualified empire zone enterprise (QEZE), or which
-is a sole proprietor of a QEZE or a member of a partnership which is a
-QEZE, and which is subject to tax under article nine-A, twenty-two,
-thirty-two or thirty-three of this chapter, shall be allowed a credit
-against such tax, pursuant to the provisions referenced in subdivision
-(h) of this section, for eligible real property taxes.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. A taxpayer which is a qualified empire zone
-enterprise (QEZE), or which is a sole proprietor of a QEZE or a member
-of a partnership which is a QEZE, and which is subject to tax under
-article nine-A, twenty-two or thirty-three of this chapter, shall be
-allowed a credit against such tax, pursuant to the provisions referenced
-in subdivision (h) of this section, for eligible real property taxes.
-  * NB Effective January 1, 2015
+  § 15. QEZE credit for real property taxes.  (a) Allowance of credit. A
+taxpayer which is a qualified empire zone enterprise (QEZE), or which is
+a sole proprietor of a QEZE or a member of a partnership which is a
+QEZE, and which is subject to tax under article nine-A, twenty-two or
+thirty-three of this chapter, shall be allowed a credit against such
+tax, pursuant to the provisions referenced in subdivision (h) of this
+section, for eligible real property taxes.
   (b) Amount of credit. (1) In the case of a business enterprise which
 is first certified under article eighteen-B of the general municipal law
 before April first, two thousand five, the amount of the credit shall be
@@ -267,24 +259,13 @@ taxpayer must determine how much of such reduction is attributable to
 each year covered by such final order and calculate the amount of credit
 which is required by this subdivision to be recaptured for each year
 based on such reduction.
-  * (h) Definitions and cross-references. For definitions of terms used
-in this section see section fourteen of this article. For application of
+  (h) Definitions and cross-references. For definitions of terms used in
+this section see section fourteen of this article. For application of
 the credit provided for in this section, see the following provisions of
 this chapter:
-  (1) Article 9: Section 187-j.
-  (2) Article 9-A: Section 210: subdivision 27.
-  (3) Article 22: Section 606: subsections (i) and (bb).
-  (4) Article 32: Section 1456: subsection (o).
-  (5) Article 33: Section 1511: subdivision (r).
-  * NB Effective until January 1, 2015
-  * (h) Definitions and cross-references. For definitions of terms used
-in this section see section fourteen of this article. For application of
-the credit provided for in this section, see the following provisions of
-this chapter:
-  ** (1) Article 9: Section 187-j.
-  ** NB Repealed January 1, 2018
+  * (1) Article 9: Section 187-j.
+  * NB Repealed January 1, 2018
   (2) Article 9-A: Section 210-B: subdivision 5.
   (3) Article 22: Section 606: subsections (i) and (bb).
   (4) Article 33: Section 1511: subdivision (r).
-  * NB Effective January 1, 2015
 ```

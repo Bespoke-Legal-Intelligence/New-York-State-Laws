@@ -49,7 +49,7 @@ the basis for the allowance of the credit provided for under this
 section or used in the calculation of the credit provided for under this
 section shall be used by such taxpayer to claim any other credit allowed
 pursuant to this chapter.
-  * (5) If the amount of the credit is at least one million dollars but
+  (5) If the amount of the credit is at least one million dollars but
 less than five million dollars, the credit shall be claimed over a two
 year period beginning in the first taxable year in which the credit may
 be claimed and in the next succeeding taxable year, with one-half of the
@@ -59,69 +59,24 @@ over a three year period beginning in the first taxable year in which
 the credit may be claimed and in the next two succeeding taxable years,
 with one-third of the amount of the credit allowed being claimed in each
 year.
-  * NB There are 2 par (5)'s
-  * (5) For the period two thousand fifteen through two thousand
-nineteen, in addition to the amount of credit established in paragraph
-two of subdivision (a) of this section, a taxpayer shall be allowed a
-credit equal to the product (or pro rata share of the product, in the
-case of a member of a partnership) of ten percent and the amount of
-wages or salaries paid to individuals directly employed (excluding those
-employed as writers, directors, music directors, producers and
-performers, including background actors with no scripted lines) for
-services performed by those individuals in one of the counties specified
-in this paragraph in connection with the post production work on a
-qualified film with a minimum budget of five hundred thousand dollars at
-a qualified post production facility in one of the counties listed in
-this paragraph. For purposes of this additional credit, the services
-must be performed in one or more of the following counties: Allegany,
+  (6) For the period two thousand fifteen through two thousand nineteen,
+in addition to the amount of credit established in paragraph two of
+subdivision (a) of this section, a taxpayer shall be allowed a credit
+equal to the product (or pro rata share of the product, in the case of a
+member of a partnership) of ten percent and the amount of wages or
+salaries paid to individuals directly employed (excluding those employed
+as writers, directors, music directors, producers and performers,
+including background actors with no scripted lines) for services
+performed by those individuals in one of the counties specified in this
+paragraph in connection with the post production work on a qualified
+film with a minimum budget of five hundred thousand dollars at a
+qualified post production facility in one of the counties listed in this
+paragraph. For purposes of this additional credit, the services must be
+performed in one or more of the following counties: Albany, Allegany,
 Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango, Clinton,
 Cortland, Delaware, Erie, Essex, Franklin, Fulton, Genesee, Hamilton,
 Herkimer, Jefferson, Lewis, Livingston, Madison, Monroe, Montgomery,
-Niagara, Oneida, Onondaga, Ontario, Orleans, Oswego, Otsego, Schoharie,
-Schuyler, Seneca, St. Lawrence, Steuben, Tioga, Tompkins, Wayne,
-Wyoming, or Yates. The aggregate amount of tax credits allowed pursuant
-to the authority of this paragraph shall be five million dollars each
-year during the period two thousand fifteen through two thousand
-nineteen of the annual allocation made available to the empire state
-film post production credit pursuant to paragraph four of subdivision
-(e) of section twenty-four of this article. Such aggregate amount of
-credits shall be allocated by the governor's office for motion picture
-and television development among taxpayers in order of priority based
-upon the date of filing an application for allocation of post production
-credit with such office. If the total amount of allocated credits
-applied for under this paragraph in any year exceeds the aggregate
-amount of tax credits allowed for such year under this paragraph, such
-excess shall be treated as having been applied for on the first day of
-the next year. If the total amount of allocated tax credits applied for
-under this paragraph at the conclusion of any year is less than five
-million dollars, the remainder shall be treated as part of the annual
-allocation for two thousand seventeen made available to the empire state
-film post production credit pursuant to paragraph four of subdivision
-(e) of section twenty four of this article. However, in no event may the
-total of the credits allocated under this paragraph and the credits
-allocated under paragraph five of subdivision (a) of section twenty-four
-of this article exceed five million dollars in any year during the
-period two thousand fifteen through two thousand nineteen.
-  * NB There are 2 par (5)'s
-  * NB Effective until January 1, 2015
-  * (6) For the period two thousand fifteen through two thousand
-nineteen, in addition to the amount of credit established in paragraph
-two of subdivision (a) of this section, a taxpayer shall be allowed a
-credit equal to the product (or pro rata share of the product, in the
-case of a member of a partnership) of ten percent and the amount of
-wages or salaries paid to individuals directly employed (excluding those
-employed as writers, directors, music directors, producers and
-performers, including background actors with no scripted lines) for
-services performed by those individuals in one of the counties specified
-in this paragraph in connection with the post production work on a
-qualified film with a minimum budget of five hundred thousand dollars at
-a qualified post production facility in one of the counties listed in
-this paragraph. For purposes of this additional credit, the services
-must be performed in one or more of the following counties: Albany,
-Allegany, Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango,
-Clinton, Cortland, Delaware, Erie, Essex, Franklin, Fulton, Genesee,
-Hamilton, Herkimer, Jefferson, Lewis, Livingston, Madison, Monroe,
-Montgomery, Niagara, Oneida, Onondaga, Ontario, Orleans, Oswego, Otsego,
+Niagara, Oneida, Onondaga, Ontario, Orleans, Oswego, Otsego,
 Schenectady, Schoharie, Schuyler, Seneca, St. Lawrence, Steuben, Tioga,
 Tompkins, Wayne, Wyoming, or Yates. The aggregate amount of tax credits
 allowed pursuant to the authority of this paragraph shall be five
@@ -147,7 +102,6 @@ and the credits allocated under paragraph five of subdivision (a) of
 section twenty-four of this article exceed five million dollars in any
 year during the period two thousand fifteen through two thousand
 nineteen.
-  * NB Effective January 1, 2015
   (b) Definitions. As used in this section the following terms shall
 have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall
@@ -170,15 +124,9 @@ exceed the amounts allowed pursuant to paragraph four of subdivision (e)
 of section twenty-four of this article and shall be allocated in the
 same manner as provided for in paragraph one of subdivision (e) of
 section twenty-four of this article.
-  ** (d) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) article 9-A: section 210: subdivision 41.
-  (2) article 22: section 606: subsection (qq).
-  ** NB Effective until January 1, 2015
-  ** (d) Cross-references. For application of the credit provided for in
+  (d) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) article 9-A: section 210-B: subdivision 32.
   (2) article 22: section 606: subsection (qq).
-  ** NB Effective January 1, 2015
   * NB There are 2 § 31's
 ```

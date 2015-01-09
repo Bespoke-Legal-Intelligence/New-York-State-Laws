@@ -6,17 +6,7 @@
 ```text
   § 171-1. Certain overpayments credited against outstanding tax debt
 owed to the city of New York. (1) For the purposes of this section:
-  * (a) "taxpayer" shall mean a corporation, association, company,
-partnership, estate, trust, liquidator, fiduciary or other entity or
-individual who or which is liable for any tax or other imposition
-imposed by or pursuant to article nine, nine-A, twenty-two, thirty,
-thirty-A, thirty-B, thirty-two, or thirty-three of this chapter, which
-tax or other imposition is administered by the commissioner of taxation
-and finance, or who or which is under a duty to perform an act under or
-pursuant to such tax or imposition, excluding a state agency, a
-municipal corporation or a district corporation;
-  * NB Effective until January 1, 2015
-  * (a) "taxpayer" shall mean a corporation, association, company,
+  (a) "taxpayer" shall mean a corporation, association, company,
 partnership, estate, trust, liquidator, fiduciary or other entity or
 individual who or which is liable for any tax or other imposition
 imposed by or pursuant to article nine, nine-A, twenty-two, thirty,
@@ -25,20 +15,11 @@ imposition is administered by the commissioner of taxation and finance,
 or who or which is under a duty to perform an act under or pursuant to
 such tax or imposition, excluding a state agency, a municipal
 corporation or a district corporation;
-  * NB Effective January 1, 2015
-  * (b) "overpayment" shall mean an overpayment which has been requested
-or determined to be refunded, a refund or a reimbursement, of a tax or
-other imposition imposed by or pursuant to article nine, nine-A,
-twenty-two, thirty, thirty-A, thirty-B, thirty-two, or thirty-three of
-this chapter, which is administered by the commissioner of taxation and
-finance; and
-  * NB Effective until January 1, 2015
-  * (b) "overpayment" shall mean an overpayment which has been requested
+  (b) "overpayment" shall mean an overpayment which has been requested
 or determined to be refunded, a refund or a reimbursement, of a tax or
 other imposition imposed by or pursuant to article nine, nine-A,
 twenty-two, thirty, thirty-A, thirty-B or thirty-three of this chapter,
 which is administered by the commissioner of taxation and finance; and
-  * NB Effective January 1, 2015
   (c) "city of New York tax warrant judgment debt," shall mean tax debt
 owed to the city of New York that is the subject of a tax warrant issued
 by the city of New York department of finance and docketed pursuant to

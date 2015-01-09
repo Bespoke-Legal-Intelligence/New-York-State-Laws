@@ -23,24 +23,14 @@ from state income taxes;
 any other taxing jurisdiction, to the extent deductible in determining
 federal adjusted gross income and not credited against federal income
 tax.
-  * (B) Shareholders of S corporations. In the case of a shareholder of
-an S corporation, with respect to taxes imposed upon or payable by the
-corporation, the term "income taxes" in subparagraph (A) of this
-paragraph shall also include the taxes imposed under articles nine-A and
-thirty-two of this chapter, regardless of the measure of such tax, but
-shall not otherwise include taxes imposed by this or any other state of
-the United States, or any political subdivision of this or any other
-state, or the District of Columbia.
-  * NB Effective until January 1, 2015
-  * (B) Shareholders of S corporations. In the case of a shareholder of
-an S corporation, with respect to taxes imposed upon or payable by the
+  (B) Shareholders of S corporations. In the case of a shareholder of an
+S corporation, with respect to taxes imposed upon or payable by the
 corporation, the term "income taxes" in subparagraph (A) of this
 paragraph shall also include the taxes imposed under article nine-A of
 this chapter, regardless of the measure of such tax, but shall not
 otherwise include taxes imposed by this or any other state of the United
 States, or any political subdivision of this or any other state, or the
 District of Columbia.
-  * NB Effective January 1, 2015
   (4) Interest on indebtedness incurred or continued to purchase or
 carry obligations or securities the interest on which is exempt from tax
 under this article, to the extent deductible in determining federal
@@ -135,24 +125,13 @@ distribution treated in the manner described in paragraph two of
 subsection (b) of section thirteen hundred sixty-eight of the internal
 revenue code for federal income tax purposes shall be treated as
 ordinary income for purposes of this article.
-  * (21) In relation to the disposition of stock or indebtedness of a
-corporation which elected under subchapter s of chapter one of the
-internal revenue code for any taxable year of such corporation
-beginning, in the case of a corporation taxable under article nine-A of
-this chapter, after December thirty-first, nineteen hundred eighty, and
-in the case of a corporation taxable under article thirty-two of this
-chapter, after December thirty-first, nineteen hundred ninety-six, the
-amount required to be added to federal adjusted gross income pursuant to
-subsection (n) of this section.
-  * NB Effective until January 1, 2015
-  * (21) In relation to the disposition of stock or indebtedness of a
+  (21) In relation to the disposition of stock or indebtedness of a
 corporation which elected under subchapter s of chapter one of the
 internal revenue code for any taxable year of such corporation
 beginning, in the case of a corporation taxable under article nine-A of
 this chapter, after December thirty-first, nineteen hundred eighty, the
 amount required to be added to federal adjusted gross income pursuant to
 subsection (n) of this section.
-  * NB Effective January 1, 2015
   (22) The amounts required to be added to federal adjusted gross income
 pursuant to subsection (q) of this section.
   (23) For taxable years beginning after December thirty-first, nineteen
@@ -505,24 +484,13 @@ thousand two, the amount deductible pursuant to subsection (k) of this
 section.
   (20) The amounts which may be subtracted from federal adjusted gross
 income pursuant to subsection (o) of this section.
-  * (21) In relation to the disposition of stock or indebtedness of a
-corporation which elected under subchapter s of chapter one of the
-internal revenue code for any taxable year of such corporation
-beginning, in the case of a corporation taxable under article nine-A of
-this chapter, after December thirty-first, nineteen hundred eighty, and
-in the case of a corporation taxable under article thirty-two of this
-chapter, after December thirty-first, nineteen hundred ninety-six, the
-amounts required to be subtracted from federal adjusted gross income
-pursuant to subsection (n) of this section.
-  * NB Effective until January 1, 2015
-  * (21) In relation to the disposition of stock or indebtedness of a
+  (21) In relation to the disposition of stock or indebtedness of a
 corporation which elected under subchapter s of chapter one of the
 internal revenue code for any taxable year of such corporation
 beginning, in the case of a corporation taxable under article nine-A of
 this chapter, after December thirty-first, nineteen hundred eighty, the
 amounts required to be subtracted from federal adjusted gross income
 pursuant to subsection (n) of this section.
-  * NB Effective January 1, 2015
   (22) In the case of a shareholder of an S corporation (A) where the
 election provided for in subsection (a) of section six hundred sixty has
 not been made with respect to such corporation, any item of income of

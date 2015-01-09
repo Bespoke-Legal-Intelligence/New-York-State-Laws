@@ -1,0 +1,30 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1600-M*2", "kind": "section", "law_id": "PBA", "location_id": "1600-M*2", "path": "ARTICLE 7 › TITLE 18* › SECTION 1600-M*2", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:PBA/1600-M_2.md", "title": "Bonds and notes legal investments for public officers and fiduciaries"} -->
+# Public Authorities Law § 1600-M*2 — Bonds and notes legal investments for public officers and fiduciaries
+
+[Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md) › [Title 18* — Tarrytown Parking Authority](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 1600-m. Bonds and notes legal investments for public officers and
+fiduciaries. The bonds and notes are hereby made securities in which all
+public officers, and bodies of the state and all municipalities and
+municipal subdivisions, all insurance companies and associations and
+other persons carrying on an insurance business, all banks, bankers,
+trust companies, savings banks and savings associations, including
+savings and loan associations, building and loan associations,
+investment companies and other persons carrying on a banking business,
+all administrators, guardians, executors, trustees and other fiduciaries
+and all other persons whatsoever who are now or may hereafter be
+authorized to invest in bonds or other obligations of the state, may
+properly and legally invest funds including capital in their control or
+belonging to them. The bonds and notes are also hereby made securities
+which may be deposited with and shall be received by all public officers
+and bodies of this state and all municipalities and municipal
+subdivisions for any purpose for which the deposit of bonds or other
+obligations of this state is now or may hereafter be authorized.
+  * NB Ceased to exist December 31, 1999
+  * NB There are 2 § 1600-m's
+```

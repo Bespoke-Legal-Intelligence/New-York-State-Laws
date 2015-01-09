@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 209-A", "kind": "section", "law_id": "TAX", "location_id": "209-A", "path": "ARTICLE 9-A › SECTION 209-A", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/209-A.md", "title": "Tax surcharge"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 209-A", "kind": "section", "law_id": "TAX", "location_id": "209-A", "path": "ARTICLE 9-A › SECTION 209-A", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/209-A.md", "title": "Tax surcharge"} -->
 # Tax Law § 209-A — Tax surcharge
 
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 209-A. Tax surcharge. 1. In addition to the tax imposed under

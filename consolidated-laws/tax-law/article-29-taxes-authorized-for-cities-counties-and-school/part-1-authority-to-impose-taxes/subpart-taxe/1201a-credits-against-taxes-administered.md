@@ -17,27 +17,8 @@ chapter. The amounts of such rebates and discounts shall not be treated
 as affecting or reducing the gross receipts otherwise subject to tax
 under such gross receipts tax or reducing the amount of tax imposed by
 or pursuant to any authorization contained in this chapter.
-  * (b) Empire state film production credit. Any city in this state
-having a population of one million or more, acting through its local
-legislative body, is hereby authorized to adopt and amend local laws to
-allow a credit against the general corporation tax and the
-unincorporated business tax imposed pursuant to the authority of chapter
-seven hundred seventy-two of the laws of nineteen hundred sixty-six
-which shall be substantially identical to the credit allowed under
-section twenty-four of this chapter, except that (A) the percentage of
-qualified production costs used to calculate such credit shall be five
-percent, (B) whenever such section twenty-four references the state,
-such words shall be read as referencing the city, (C) such credit shall
-be allowed only to a taxpayer which is a qualified film production
-company, and (D) the effective date of such credit shall be July first,
-two thousand six. Such credit shall be applied in a manner consistent
-with the credit allowed under subdivision thirty-six of section two
-hundred ten of this chapter except as may be necessary to take into
-account differences between the general corporation tax and the
-unincorporated business tax.
-  * NB Effective until January 1, 2015
-  * (b) Empire state film production credit. Any city in this state
-having a population of one million or more, acting through its local
+  (b) Empire state film production credit. Any city in this state having
+a population of one million or more, acting through its local
 legislative body, is hereby authorized to adopt and amend local laws to
 allow a credit against the general corporation tax and the
 unincorporated business tax imposed pursuant to the authority of chapter
@@ -54,30 +35,10 @@ with the credit allowed under subdivision twenty of section two hundred
 ten-B of this chapter except as may be necessary to take into account
 differences between the general corporation tax and the unincorporated
 business tax.
-  * NB Effective January 1, 2015
-  * (c) Empire state commercial production credit. Any city in this
-state having a population of one million or more, acting through its
-local legislative body, is hereby authorized to adopt and amend local
-laws to allow a credit against the general corporation tax and the
-unincorporated business tax imposed pursuant to the authority of chapter
-seven hundred seventy-two of the laws of nineteen hundred sixty-six
-which shall be substantially identical to the credit allowed under the
-provisions of section twenty-eight of this chapter, except that (A) the
-percentage of qualified production costs used to calculate such credit
-shall be five percent, (B) whenever such section twenty-eight references
-the state, such words shall be read as referencing the city, (C) such
-credit shall be allowed only to a taxpayer that is a qualified
-commercial production company, and (D) the effective date of such credit
-shall be as provided in local laws. Such credit shall be applied in a
-manner consistent with the credit allowed under subdivision thirty-eight
-of section two hundred ten of this chapter except as may be necessary to
-take into account differences between the general corporation tax and
-unincorporated business tax.
-  * NB Effective until January 1, 2015
-  * (c) Empire state commercial production credit. Any city in this
-state having a population of one million or more, acting through its
-local legislative body, is hereby authorized to adopt and amend local
-laws to allow a credit against the general corporation tax and the
+  (c) Empire state commercial production credit. Any city in this state
+having a population of one million or more, acting through its local
+legislative body, is hereby authorized to adopt and amend local laws to
+allow a credit against the general corporation tax and the
 unincorporated business tax imposed pursuant to the authority of chapter
 seven hundred seventy-two of the laws of nineteen hundred sixty-six
 which shall be substantially identical to the credit allowed under the
@@ -92,7 +53,6 @@ manner consistent with the credit allowed under subdivision twenty-three
 of section two hundred ten-B of this chapter except as may be necessary
 to take into account differences between the general corporation tax and
 unincorporated business tax.
-  * NB Effective January 1, 2015
   (d) Biotechnology credit. 1. Any city in this state having a
 population of one million or more, acting through its local legislative
 body, is hereby authorized to adopt and amend local laws to allow a

@@ -4,28 +4,16 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 26. Security training tax credit. * (a) Allowance of credit. A
-taxpayer, which is subject to tax under article nine, nine-A,
-twenty-two, thirty-two or thirty-three of this chapter and which is a
-qualified building owner, shall be allowed a credit against such tax.
-The amount of the credit allowed under this section shall equal the sum
-of the number of qualified security officers providing protection to a
-building or buildings owned by the taxpayer multiplied by three thousand
-dollars. Provided, however, that in the case of a worker not so employed
-for a full year, such amount shall be prorated to reflect the length of
-such employment under regulations of the commissioner.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. A taxpayer, which is subject to tax under
-article nine, nine-A, twenty-two or thirty-three of this chapter and
-which is a qualified building owner, shall be allowed a credit against
-such tax. The amount of the credit allowed under this section shall
-equal the sum of the number of qualified security officers providing
-protection to a building or buildings owned by the taxpayer multiplied
-by three thousand dollars. Provided, however, that in the case of a
-worker not so employed for a full year, such amount shall be prorated to
-reflect the length of such employment under regulations of the
-commissioner.
-  * NB Effective January 1, 2015
+  § 26. Security training tax credit.  (a) Allowance of credit. A
+taxpayer, which is subject to tax under article nine, nine-A, twenty-two
+or thirty-three of this chapter and which is a qualified building owner,
+shall be allowed a credit against such tax. The amount of the credit
+allowed under this section shall equal the sum of the number of
+qualified security officers providing protection to a building or
+buildings owned by the taxpayer multiplied by three thousand dollars.
+Provided, however, that in the case of a worker not so employed for a
+full year, such amount shall be prorated to reflect the length of such
+employment under regulations of the commissioner.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified building owner" means a building owner whose building
@@ -70,19 +58,10 @@ training to all employees for whom they will claim the credit.
   (e) The director of the office of homeland security in consultation
 with the commissioner of taxation and finance, shall promulgate rules
 and regulations necessary to implement this program.
-  * (f) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) article 9: section 187-n.
-  (2) article 9-A: section 210: subdivision 37.
-  (3) article 22: section 606: subsection (ii).
-  (4) article 32: section 1456: subsection (t).
-  (5) article 33: section 1511: subdivision (x).
-  * NB Effective until January 1, 2015
-  * (f) Cross-references. For application of the credit provided for in
+  (f) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) article 9: section 187-n.
   (2) article 9-A: section 210-B: subdivision 21.
   (3) article 22: section 606: subsection (ii).
   (4) article 33: section 1511: subdivision (x).
-  * NB Effective January 1, 2015
 ```

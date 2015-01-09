@@ -134,6 +134,5 @@ contracted with to perform surgical technology tasks at the healthcare
 facility, verify the dates of employment or contract of such person.
   10. The commissioner shall promulgate regulations as he or she may
 deem appropriate to effectuate the purposes of this section.
-  * NB Effective January 1, 2015
   * NB There are 2 § 2824's
 ```

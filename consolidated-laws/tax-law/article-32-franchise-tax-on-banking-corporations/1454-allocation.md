@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1454", "kind": "section", "law_id": "TAX", "location_id": "1454", "path": "ARTICLE 32 › SECTION 1454", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1454.md", "title": "Allocation"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1454", "kind": "section", "law_id": "TAX", "location_id": "1454", "path": "ARTICLE 32 › SECTION 1454", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1454.md", "title": "Allocation"} -->
 # Tax Law § 1454 — Allocation
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1454. Allocation. (a) In general. If a taxpayer's entire net

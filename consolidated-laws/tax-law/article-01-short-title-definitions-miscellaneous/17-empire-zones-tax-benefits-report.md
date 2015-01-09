@@ -8,20 +8,12 @@
 taxation and finance must publish an empire zones tax benefits report
 annually by June thirtieth. The first report must be published by June
 thirtieth, two thousand eleven.
-  (b) * (1) The empire zones tax benefits report must contain the
+  (b) (1) The empire zones tax benefits report must contain the
 following information about the empire zone tax credits claimed under
-articles nine, nine-A, twenty-two, thirty-two and thirty-three of this
-chapter during the previous calendar year:
+articles nine, nine-A, twenty-two and thirty-three of this chapter
+during the previous calendar year:
   (A) the name of each taxpayer claiming a credit; and
   (B) the amount of each credit earned by each taxpayer.
-  * NB Effective until January 1, 2015
-  * (1) The empire zones tax benefits report must contain the following
-information about the empire zone tax credits claimed under articles
-nine, nine-A, twenty-two and thirty-three of this chapter during the
-previous calendar year:
-  (A) the name of each taxpayer claiming a credit; and
-  (B) the amount of each credit earned by each taxpayer.
-  * NB Effective January 1, 2015
   (2) If the taxpayer claims a empire zone tax credit because the
 taxpayer is a member of a limited liability company, a partner in a
 partnership or a shareholder in a subchapter S corporation, the name of

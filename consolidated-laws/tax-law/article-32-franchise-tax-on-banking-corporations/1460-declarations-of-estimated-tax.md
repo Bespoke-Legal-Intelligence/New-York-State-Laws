@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1460", "kind": "section", "law_id": "TAX", "location_id": "1460", "path": "ARTICLE 32 › SECTION 1460", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1460.md", "title": "Declarations of estimated tax"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1460", "kind": "section", "law_id": "TAX", "location_id": "1460", "path": "ARTICLE 32 › SECTION 1460", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1460.md", "title": "Declarations of estimated tax"} -->
 # Tax Law § 1460 — Declarations of estimated tax
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1460. Declarations of estimated tax. (a) Requirements of

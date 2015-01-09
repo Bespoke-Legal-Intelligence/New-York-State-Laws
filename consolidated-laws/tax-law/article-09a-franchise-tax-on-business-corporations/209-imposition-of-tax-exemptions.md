@@ -4,37 +4,21 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 209. Imposition of tax; exemptions. * 1. For the privilege of
+  § 209. Imposition of tax; exemptions.  1. (a) For the privilege of
 exercising its corporate franchise, or of doing business, or of
 employing capital, or of owning or leasing property in this state in a
 corporate or organized capacity, or of maintaining an office in this
-state, for all or any part of each of its fiscal or calendar years,
-every domestic or foreign corporation, except corporations specified in
-subdivision four of this section, shall annually pay a franchise tax,
-upon the basis of its entire net income base, or upon such other basis
-as may be applicable as hereinafter provided, for such fiscal or
-calendar year or part thereof, on a report which shall be filed, except
-as hereinafter provided, on or before the fifteenth day of March next
-succeeding the close of each such year, or, in the case of a corporation
-which reports on the basis of a fiscal year, within two and one-half
-months after the close of such fiscal year, and shall be paid as
-hereinafter provided.
-  * NB Effective until January 1, 2015
-  * 1. (a) For the privilege of exercising its corporate franchise, or
-of doing business, or of employing capital, or of owning or leasing
-property in this state in a corporate or organized capacity, or of
-maintaining an office in this state, or of deriving receipts from
-activity in this state, for all or any part of each of its fiscal or
-calendar years, every domestic or foreign corporation, except
-corporations specified in subdivision four of this section, shall
-annually pay a franchise tax, upon the basis of its business income
-base, or upon such other basis as may be applicable as hereinafter
-provided, for such fiscal or calendar year or part thereof, on a report
-which shall be filed, except as hereinafter provided, on or before the
-fifteenth day of March next succeeding the close of each such year, or,
-in the case of a corporation which reports on the basis of a fiscal
-year, within two and one-half months after the close of such fiscal
-year, and shall be paid as hereinafter provided.
+state, or of deriving receipts from activity in this state, for all or
+any part of each of its fiscal or calendar years, every domestic or
+foreign corporation, except corporations specified in subdivision four
+of this section, shall annually pay a franchise tax, upon the basis of
+its business income base, or upon such other basis as may be applicable
+as hereinafter provided, for such fiscal or calendar year or part
+thereof, on a report which shall be filed, except as hereinafter
+provided, on or before the fifteenth day of March next succeeding the
+close of each such year, or, in the case of a corporation which reports
+on the basis of a fiscal year, within two and one-half months after the
+close of such fiscal year, and shall be paid as hereinafter provided.
   (b) A corporation is deriving receipts from activity in this state if
 it has receipts within this state of one million dollars or more in the
 taxable year. For purposes of this section, the term "receipts" means
@@ -93,42 +77,7 @@ leasing property in this state, maintaining an office in the state, or
 deriving receipts from activity in this state, any corporation that is a
 partner in such partnership shall be subject to tax under this article
 as described in the regulations of the commissioner.
-  * NB Effective January 1, 2015
-  * 2. A foreign corporation shall not be deemed to be doing business,
-employing capital, owning or leasing property, or maintaining an office
-in this state, for the purposes of this article, by reason of (a) the
-maintenance of cash balances with banks or trust companies in this
-state, or (b) the ownership of shares of stock or securities kept in
-this state, if kept in a safe deposit box, safe, vault or other
-receptacle rented for the purpose, or if pledged as collateral security,
-or if deposited with one or more banks or trust companies, or brokers
-who are members of a recognized security exchange, in safekeeping or
-custody accounts, or (c) the taking of any action by any such bank or
-trust company or broker, which is incidental to the rendering of
-safekeeping or custodian service to such corporation, or (d) the
-maintenance of an office in this state by one or more officers or
-directors of the corporation who are not employees of the corporation if
-the corporation otherwise is not doing business in this state, and does
-not employ capital or own or lease property in this state, or (e) the
-keeping of books or records of a corporation in this state if such books
-or records are not kept by employees of such corporation and such
-corporation does not otherwise do business, employ capital, own or lease
-property or maintain an office in this state, or (f) the use of
-fulfillment services of a person other than an affiliated person and the
-ownership of property stored on the premises of such person in
-conjunction with such services, or (g) any combination of the foregoing
-activities. For purposes of this subdivision, persons are affiliated
-persons with respect to each other where one of such persons has an
-ownership interest of more than five percent, whether direct or
-indirect, in the other, or where an ownership interest of more than five
-percent, whether direct or indirect, is held in each of such persons by
-another person or by a group of other persons which are affiliated
-persons with respect to each other. The term "person" in the preceding
-sentence and in paragraph (f) of this subdivision shall have the meaning
-ascribed thereto by subdivision (a) of section eleven hundred one of
-this chapter.
-  * NB Effective until January 1, 2015
-  * 2. A foreign corporation shall not be deemed to be doing business,
+  2. A foreign corporation shall not be deemed to be doing business,
 employing capital, owning or leasing property, or maintaining an office
 in this state, or deriving receipts from activity in this state, for the
 purposes of this article, by reason of (a) the maintenance of cash
@@ -149,23 +98,7 @@ corporation in this state if such books or records are not kept by
 employees of such corporation and such corporation does not otherwise do
 business, employ capital, own or lease property or maintain an office in
 this state, or (f) any combination of the foregoing activities.
-  * NB Effective January 1, 2015
-  * 2-a. An alien corporation shall not be deemed to be doing business,
-employing capital, owning or leasing property, or maintaining an office
-in this state, for the purposes of this article, if its activities in
-this state are limited solely to (a) investing or trading in stocks and
-securities for its own account within the meaning of clause (ii) of
-subparagraph (A) of paragraph (2) of subsection (b) of section eight
-hundred sixty-four of the internal revenue code or (b) investing or
-trading in commodities for its own account within the meaning of clause
-(ii) of subparagraph (B) of paragraph (2) of subsection (b) of section
-eight hundred sixty-four of the internal revenue code or (c) any
-combination of activities described in paragraphs (a) and (b) of this
-subdivision. For purposes of this subdivision, an alien corporation is a
-corporation organized under the laws of a country, or any political
-subdivision thereof, other than the United States.
-  * NB Effective until January 1, 2015
-  * 2-a. An alien corporation shall not be deemed to be doing business,
+  2-a. An alien corporation shall not be deemed to be doing business,
 employing capital, owning or leasing property, or maintaining an office
 in this state, for the purposes of this article, if its activities in
 this state are limited solely to (a) investing or trading in stocks and
@@ -187,7 +120,6 @@ a corporation organized under the laws of a country, or any political
 subdivision thereof, other than the United States, or organized under
 the laws of a possession, territory or commonwealth of the United
 States.
-  * NB Effective January 1, 2015
   3. Any receiver, referee, trustee, assignee or other fiduciary, or any
 officer or agent appointed by any court, who conducts the business of
 any corporation, shall be subject to the tax imposed by this article in
@@ -195,22 +127,6 @@ the same manner and to the same extent as if the business were conducted
 by the agents or officers of such corporation. A dissolved corporation
 which continues to conduct business shall also be subject to the tax
 imposed by this article.
-  * 4. Corporations liable to tax under sections one hundred
-eighty-three to one hundred eighty-five, inclusive, corporations taxable
-under articles thirty-two and thirty-three of this chapter, any trust
-company organized under a law of this state all of the stock of which is
-owned by not less than twenty savings banks organized under a law of
-this state, bank holding companies filing a combined return in
-accordance with subdivision (f) of section fourteen hundred sixty-two of
-this chapter, a captive REIT or a captive RIC filing a combined return
-under either subdivision (f) of section fourteen hundred sixty-two or
-subdivision (f) of section fifteen hundred fifteen of this chapter, and
-housing companies organized and operating pursuant to the provisions of
-article two or article five of the private housing finance law and
-housing development fund companies organized pursuant to the provisions
-of article eleven of the private housing finance law shall not be
-subject to tax under this article.
-  * NB Effective until January 1, 2015
   * 4. Corporations liable to tax under sections one hundred
 eighty-three to one hundred eighty-five, inclusive, corporations taxable
 under article thirty-three of this chapter, any trust company organized
@@ -223,7 +139,7 @@ article five of the private housing finance law and housing development
 fund companies organized pursuant to the provisions of article eleven of
 the private housing finance law shall not be subject to tax under this
 article.
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * 4. Corporations liable to tax under sections one hundred
 eighty-three to one hundred eighty-four-a, inclusive, corporations
 taxable under article thirty-three of this chapter, any trust company
@@ -237,30 +153,7 @@ housing development fund companies organized pursuant to the provisions
 of article eleven of the private housing finance law shall not be
 subject to tax under this article.
   * NB Effective January 1, 2018
-  * 5. For any taxable year of a real estate investment trust as defined
-in section eight hundred fifty-six of the internal revenue code in which
-such trust is subject to federal income taxation under section eight
-hundred fifty-seven of such code, such trust shall be subject to a tax
-computed under either paragraph (a), (c) or (d) of subdivision one of
-section two hundred ten of this chapter, whichever is greatest, and
-shall not be subject to any tax under article thirty-two or article
-thirty-three of this chapter except for a captive REIT required to file
-a combined return under subdivision (f) of section fourteen hundred
-sixty-two or subdivision (f) of section fifteen hundred fifteen of this
-chapter. In the case of such a real estate investment trust, including a
-captive REIT as defined in section two of this chapter, the term "entire
-net income" means "real estate investment trust taxable income" as
-defined in paragraph two of subdivision (b) of section eight hundred
-fifty-seven (as modified by section eight hundred fifty-eight) of the
-internal revenue code plus the amount taxable under paragraph three of
-subdivision (b) of section eight hundred fifty-seven of such code,
-subject to the modification required by subdivision nine of section two
-hundred eight of this article (other than the modification required by
-subparagraph two of paragraph (a) thereof) including the modifications
-required by paragraphs (d) and (e) of subdivision three of section two
-hundred ten of this article.
-  * NB Effective until January 1, 2015
-  * 5. For any taxable year of a real estate investment trust as defined
+  5. For any taxable year of a real estate investment trust as defined
 in section eight hundred fifty-six of the internal revenue code in which
 such trust is subject to federal income taxation under section eight
 hundred fifty-seven of such code, such trust shall be subject to a tax
@@ -277,48 +170,15 @@ section eight hundred fifty-eight) of the internal revenue code plus the
 amount taxable under paragraph three of subdivision (b) of section eight
 hundred fifty-seven of such code, subject to the modifications required
 by subdivision nine of section two hundred eight of this article.
-  * NB Effective January 1, 2015
-  * 6. For any taxable year of a DISC, not exempt from tax under
-paragraph (i) of subdivision nine of section two hundred eight of this
-article, the taxes imposed by subdivision one of this section shall be
-computed only under either paragraph (b) or (d) of subdivision one of
-section two hundred ten of this chapter, whichever is greater, and
-paragraph (e) of such subdivision.
-  * NB Effective until January 1, 2015
-  * 6. For any taxable year of a DISC, not exempt from tax under
-paragraph (i) of subdivision nine of section two hundred eight of this
-article, the taxes imposed by subdivision one of this section shall be
-computed only under either paragraph (b) or (d) of subdivision one of
-section two hundred ten of this chapter, whichever is greater.
-  * NB Effective January 1, 2015
-  * 7. For any taxable year, beginning on or after January first,
-nineteen hundred eighty of a regulated investment company, as defined in
-section eight hundred fifty-one of the internal revenue code, in which
-such company is subject to federal income taxation under section eight
-hundred fifty-two of such code, such company shall be subject to a tax
-computed under either paragraph (a), (c) or (d) of subdivision one of
-section two hundred ten of this chapter, whichever is greatest, and
-shall not be subject to any tax under article thirty-two or article
-thirty-three of this chapter except for a captive RIC required to file a
-combined return under subdivision (f) of section fourteen hundred
-sixty-two or subdivision (f) of section fifteen hundred fifteen of this
-chapter. In the case of such a regulated investment company, including a
-captive RIC as defined in section two of this chapter, the term "entire
-net income" means "investment company taxable income" as defined in
-paragraph two of subdivision (b) of section eight hundred fifty-two, as
-modified by section eight hundred fifty-five, of the internal revenue
-code plus the amount taxable under paragraph three of subdivision (b) of
-section eight hundred fifty-two of such code subject to the modification
-required by subdivision nine of section two hundred eight of this
-chapter, other than the modification required by subparagraph two of
-paragraph (a) and by paragraph (f) thereof, including the modification
-required by paragraphs (d) and (e) of subdivision three of section two
-hundred ten of this chapter.
-  * NB Effective until January 1, 2015
-  * 7. For any taxable year, beginning on or after January first,
-nineteen hundred eighty of a regulated investment company, as defined in
-section eight hundred fifty-one of the internal revenue code, in which
-such company is subject to federal income taxation under section eight
+  6. For any taxable year of a DISC, not exempt from tax under paragraph
+(i) of subdivision nine of section two hundred eight of this article,
+the taxes imposed by subdivision one of this section shall be computed
+only under either paragraph (b) or (d) of subdivision one of section two
+hundred ten of this chapter, whichever is greater.
+  7. For any taxable year, beginning on or after January first, nineteen
+hundred eighty of a regulated investment company, as defined in section
+eight hundred fifty-one of the internal revenue code, in which such
+company is subject to federal income taxation under section eight
 hundred fifty-two of such code, such company shall be subject to a tax
 computed under either paragraph (a) or (d) of subdivision one of section
 two hundred ten of this chapter, whichever is greater, and shall not be
@@ -333,18 +193,7 @@ section eight hundred fifty-five, of the internal revenue code plus the
 amount taxable under paragraph three of subdivision (b) of section eight
 hundred fifty-two of such code subject to the modifications required by
 subdivision nine of section two hundred eight of this chapter.
-  * NB Effective January 1, 2015
-  * 8. For any taxable year beginning on or after January first, two
-thousand six, a corporation that is no longer doing business, employing
-capital, or owning or leasing property in this state in a corporate or
-organized capacity that has filed a final tax return with the department
-for the last tax year it was doing business and has no outstanding tax
-liability for such final tax return or any tax return for prior tax
-years shall be exempt from all taxes imposed by paragraph (d) of
-subdivision one of section two hundred ten of this article for tax years
-following the last year such corporation was doing business.
-  * NB Effective until January 1, 2015
-  * 8. For any taxable year beginning on or after January first, two
+  8. For any taxable year beginning on or after January first, two
 thousand six, a corporation that is no longer doing business, employing
 capital, or owning or leasing property, or deriving receipts from
 activity in this state in a corporate or organized capacity that has
@@ -354,7 +203,6 @@ tax return or any tax return for prior tax years shall be exempt from
 all taxes imposed by paragraph (d) of subdivision one of section two
 hundred ten of this article for tax years following the last year such
 corporation was doing business.
-  * NB Effective January 1, 2015
   9. For any taxable year beginning on or after January first, nineteen
 hundred eighty-seven, an organization described in paragraph two or
 twenty-five of subdivision (c) of section five hundred one of the

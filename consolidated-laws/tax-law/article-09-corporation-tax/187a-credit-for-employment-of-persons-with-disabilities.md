@@ -4,20 +4,8 @@
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
 
 ```text
-  § 187-a. Credit for employment of persons with disabilities.  * 1.
+  § 187-a. Credit for employment of persons with disabilities.  1.
 Allowance of credit. A taxpayer shall be allowed a credit, to be
-computed as hereinafter provided, against the taxes imposed by this
-article, other than the taxes imposed by sections one hundred eighty,
-one hundred eighty-one, one hundred eighty-six-a, one hundred
-eighty-six-e and one hundred eighty-nine of this article, for employing
-within the state a qualified employee. Provided, however, the amount of
-credit allowed by this section against the tax imposed by section one
-hundred eighty-four of this article shall be the excess of the credit
-computed under this section over the amount of credit allowed by this
-section against the tax imposed by section one hundred eighty-three of
-this article.
-  * NB Effective until January 1, 2015
-  * 1. Allowance of credit. A taxpayer shall be allowed a credit, to be
 computed as hereinafter provided, against the taxes imposed by this
 article, other than the taxes imposed by sections one hundred
 eighty-six-a, one hundred eighty-six-e and one hundred eighty-nine of
@@ -27,7 +15,6 @@ the tax imposed by section one hundred eighty-four of this article shall
 be the excess of the credit computed under this section over the amount
 of credit allowed by this section against the tax imposed by section one
 hundred eighty-three of this article.
-  * NB Effective January 1, 2015
   2. Qualified employee. A qualified employee is an individual:
   (a) who is certified by the education department, or in the case of an
 individual who is blind or visually handicapped, by the state agency

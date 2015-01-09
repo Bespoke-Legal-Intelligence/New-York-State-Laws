@@ -4,33 +4,18 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 18. Low-income housing credit. * (a) Allowance of credit. A taxpayer
-subject to tax under article nine-A, twenty-two, thirty-two or
-thirty-three of this chapter shall be allowed a credit against such tax,
-pursuant to the provisions referenced in subdivision (d) of this
-section, with respect to the ownership of eligible low-income buildings
-for which an eligibility statement has been issued by the commissioner
-of housing and community renewal. The amount of the credit shall be the
-credit amount for each such building allocated by such commissioner as
-provided in article two-A of the public housing law. The credit amount
-shall be allowed for each of the ten taxable years in the credit period,
-and any reduction in first-year credit as provided in subdivision two of
-section twenty-two of such law shall be allowed in the eleventh taxable
-year.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. A taxpayer subject to tax under article
-nine-A, twenty-two or thirty-three of this chapter shall be allowed a
-credit against such tax, pursuant to the provisions referenced in
-subdivision (d) of this section, with respect to the ownership of
-eligible low-income buildings for which an eligibility statement has
-been issued by the commissioner of housing and community renewal. The
-amount of the credit shall be the credit amount for each such building
-allocated by such commissioner as provided in article two-A of the
-public housing law. The credit amount shall be allowed for each of the
-ten taxable years in the credit period, and any reduction in first-year
-credit as provided in subdivision two of section twenty-two of such law
-shall be allowed in the eleventh taxable year.
-  * NB Effective January 1, 2015
+  § 18. Low-income housing credit.  (a) Allowance of credit. A taxpayer
+subject to tax under article nine-A, twenty-two or thirty-three of this
+chapter shall be allowed a credit against such tax, pursuant to the
+provisions referenced in subdivision (d) of this section, with respect
+to the ownership of eligible low-income buildings for which an
+eligibility statement has been issued by the commissioner of housing and
+community renewal. The amount of the credit shall be the credit amount
+for each such building allocated by such commissioner as provided in
+article two-A of the public housing law. The credit amount shall be
+allowed for each of the ten taxable years in the credit period, and any
+reduction in first-year credit as provided in subdivision two of section
+twenty-two of such law shall be allowed in the eleventh taxable year.
   (b) Credit recapture. (1) General. If,
   (A) as of the close of any taxable year in the compliance period, the
 amount of the qualified basis of any building with respect to the
@@ -109,17 +94,9 @@ rule of law which would otherwise prevent such assessment.
 of this section shall be construed in conjunction with the provisions of
 article two-A of the public housing law. For definitions relating to the
 low-income housing credit, see section twenty-one of such law.
-  * (d) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article 9-A: Section 210: subdivision 30,
-  (2) Article 22: Section 606: subsections (i) and (x),
-  (3) Article 32: Section 1456: subsection (l),
-  (4) Article 33: Section 1511: subdivision (n).
-  * NB Effective until January 1, 2015
-  * (d) Cross-references. For application of the credit provided for in
+  (d) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article 9-A: Section 210-B: subdivision 15,
   (2) Article 22: Section 606: subsections (i) and (x),
   (3) Article 33: Section 1511: subdivision (n).
-  * NB Effective January 1, 2015
 ```

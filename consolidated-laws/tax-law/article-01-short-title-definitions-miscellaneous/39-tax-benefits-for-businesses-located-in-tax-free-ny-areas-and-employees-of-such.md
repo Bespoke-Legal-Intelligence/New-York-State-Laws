@@ -23,12 +23,6 @@ section four hundred thirty-three of the economic development law.
   (b) Tax-free NY area elimination credit. Such business or the owner of
 such business shall be eligible for the tax-free NY area tax elimination
 credit described in section forty of this article.
-  * (c) Organization tax and license and maintenance fees. Such
-business, if located exclusively in a tax-free NY area, shall be exempt
-from the organization tax imposed under section one hundred eighty of
-this chapter or the license and maintenance fees imposed under section
-one hundred eighty-one of this chapter, whichever is applicable.
-  * NB Repealed January 1, 2015
   (c-1) Excise tax on telecommunication services. Such business or owner
 of a business shall be eligible for a credit of the excise tax on
 telecommunication services imposed by section one hundred eighty-six-e
@@ -124,14 +118,7 @@ a sole proprietorship, partnership or New York S corporation.
   (k) Cross-references. For application of the tax benefits provided for
 in this section, see the following provisions of this chapter:
   (1) Section 40.
-  * (2) Article 9: section 180, subdivision 3.
-  * NB Repealed January 1, 2015
-  * (3) Article 9: section 181, subdivision 3.
-  * NB Repealed January 1, 2015
-  * (4) Article 9-A: section 210, subdivision 47 and subdivision 49.
-  * NB Effective until January 1, 2015
-  * (4) Article 9-A: section 210-B, subdivision 41 and subdivision 44.
-  * NB Effective January 1, 2015
+  (4) Article 9-A: section 210-B, subdivision 41 and subdivision 44.
   (5) Article 22: section 606, subsection (i), paragraph (1),
 subparagraph (B), clause (xxxvi).
   (6) Article 22: section 606, subsection (ww) and subsection (yy).

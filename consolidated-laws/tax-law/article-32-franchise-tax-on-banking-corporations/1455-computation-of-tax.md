@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1455", "kind": "section", "law_id": "TAX", "location_id": "1455", "path": "ARTICLE 32 › SECTION 1455", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1455.md", "title": "Computation of tax"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1455", "kind": "section", "law_id": "TAX", "location_id": "1455", "path": "ARTICLE 32 › SECTION 1455", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1455.md", "title": "Computation of tax"} -->
 # Tax Law § 1455 — Computation of tax
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1455. Computation of tax. The tax imposed by section fourteen

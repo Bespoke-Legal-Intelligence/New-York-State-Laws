@@ -98,6 +98,5 @@ title eight of the education law may perform tasks or functions limited
 to the scope of practice of a healthcare professional under such title.
   9. The commissioner shall promulgate regulations as he or she may deem
 appropriate to effectuate the purposes of this section.
-  * NB Effective January 1, 2015
   * NB There are 2 § 2824's
 ```

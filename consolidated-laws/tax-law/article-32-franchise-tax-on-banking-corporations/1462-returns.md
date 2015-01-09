@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1462", "kind": "section", "law_id": "TAX", "location_id": "1462", "path": "ARTICLE 32 › SECTION 1462", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1462.md", "title": "Returns"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1462", "kind": "section", "law_id": "TAX", "location_id": "1462", "path": "ARTICLE 32 › SECTION 1462", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1462.md", "title": "Returns"} -->
 # Tax Law § 1462 — Returns
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1462. Returns. (a) Every taxpayer, as well as every other banking

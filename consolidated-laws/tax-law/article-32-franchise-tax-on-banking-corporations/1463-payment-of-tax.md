@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1463", "kind": "section", "law_id": "TAX", "location_id": "1463", "path": "ARTICLE 32 › SECTION 1463", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1463.md", "title": "Payment of tax"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1463", "kind": "section", "law_id": "TAX", "location_id": "1463", "path": "ARTICLE 32 › SECTION 1463", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1463.md", "title": "Payment of tax"} -->
 # Tax Law § 1463 — Payment of tax
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1463. Payment of tax. (a) To the extent the tax imposed by section

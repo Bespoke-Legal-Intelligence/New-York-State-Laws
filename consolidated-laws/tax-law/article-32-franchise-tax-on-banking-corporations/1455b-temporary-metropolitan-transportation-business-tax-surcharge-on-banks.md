@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1455-B", "kind": "section", "law_id": "TAX", "location_id": "1455-B", "path": "ARTICLE 32 › SECTION 1455-B", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1455-B.md", "title": "Temporary metropolitan transportation business tax surcharge on banks"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1455-B", "kind": "section", "law_id": "TAX", "location_id": "1455-B", "path": "ARTICLE 32 › SECTION 1455-B", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1455-B.md", "title": "Temporary metropolitan transportation business tax surcharge on banks"} -->
 # Tax Law § 1455-B — Temporary metropolitan transportation business tax surcharge on banks
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1455-B. Temporary metropolitan transportation business tax

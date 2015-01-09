@@ -21,8 +21,8 @@
 - [Title 14\*\*\* — City of Schenectady Parking Authority](title-14-city-of-schenectady-parking/)
 - [Title 16 — Village of Mount Kisco Parking Authority](title-16-village-of-mount-kisco-parking/)
 - [Title 16\* — Jamestown Parking Authority](title-16-jamestown-parking-authority/)
-- [Title 18 — Village of Suffern Parking Authority](title-18-village-of-suffern-parking-authority/)
-- [Title 18\* — Tarrytown Parking Authority](title-18-tarrytown-parking-authority/)
+- [Title 18 — Tarrytown Parking Authority](title-18-tarrytown-parking-authority/)
+- [Title 18\* — Tarrytown Parking Authority](title-18-tarrytown-parking-authority-2/) *(repealed)*
 - [Title 21 — Middletown Parking Authority](title-21-middletown-parking-authority/)
 - [Title 22 — Village of Nyack Parking Authority](title-22-village-of-nyack-parking-authority/)
 
@@ -47,7 +47,6 @@ Title 2.   White Plains Parking Authority (Secs. 1425-1443).
 16.        Village    of    Mount   Kisco   Parking   Authority   (Secs.
         1599-aaa--1599-ttt).
 16.        Jamestown Parking Authority (Secs. 1599-aaa--1599-ttt).
-18.        Village of Suffern Parking Authority (Secs. 1600--1600-s).
 18.        Tarrytown Parking Authority (Secs. 1600-a--1600-t).
 20.        Village   of   Port   Chester   Parking   Authority    (Secs.
         1620-a--1620-t).

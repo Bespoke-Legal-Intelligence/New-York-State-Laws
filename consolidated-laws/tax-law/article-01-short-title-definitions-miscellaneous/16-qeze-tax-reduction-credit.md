@@ -4,22 +4,13 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 16. QEZE tax reduction credit. * (a) Allowance of credit. A taxpayer
+  § 16. QEZE tax reduction credit.  (a) Allowance of credit. A taxpayer
 which is a qualified empire zone enterprise (QEZE), or which is a sole
 proprietor of a QEZE or a member of a partnership which is a QEZE, and
-which is subject to tax under article nine-A, twenty-two, thirty-two or
-thirty-three of this chapter, shall be allowed a credit against such
-tax, pursuant to the provisions referenced in subdivision (g) of this
-section, to be computed as hereinafter provided.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. A taxpayer which is a qualified empire zone
-enterprise (QEZE), or which is a sole proprietor of a QEZE or a member
-of a partnership which is a QEZE, and which is subject to tax under
-article nine-A, twenty-two or thirty-three of this chapter, shall be
-allowed a credit against such tax, pursuant to the provisions referenced
-in subdivision (g) of this section, to be computed as hereinafter
-provided.
-  * NB Effective January 1, 2015
+which is subject to tax under article nine-A, twenty-two or thirty-three
+of this chapter, shall be allowed a credit against such tax, pursuant to
+the provisions referenced in subdivision (g) of this section, to be
+computed as hereinafter provided.
   (b) Amount of credit. The amount of the credit shall be the product of
 (i) the benefit period factor, (ii) the employment increase factor,
 (iii) the zone allocation factor and (iv) the tax factor.
@@ -57,32 +48,16 @@ result by the number of percentages.
 subdivision to property, wages, salaries and other personal service
 compensation shall be deemed to be references to such items connected
 with the conduct of a business.
-  (f) Tax factor. * (1) General. The tax factor shall be, in the case of
-article nine-A of this chapter, the larger of the amounts of tax
-determined for the taxable year under paragraphs (a) and (c) of
-subdivision one of section two hundred ten of such article. The tax
-factor shall be, in the case of article twenty-two of this chapter, the
-tax determined for the taxable year under subsections (a) through (d) of
-section six hundred one of such article. The tax factor shall be, in the
-case of article thirty-two of this chapter, the larger of the amounts of
-tax determined for the taxable year under subsection (a) and paragraph
-two of subsection (b) of section fourteen hundred fifty-five of such
-article. The tax factor shall be, in the case of article thirty-three of
-this chapter, the larger of the amounts of tax determined for the
-taxable year under paragraphs one and three of subdivision (a) of
-section fifteen hundred two of such article.
-  * NB Effective until January 1, 2015
-  * (1) General. The tax factor shall be, in the case of article nine-A
-of this chapter, the amount of tax determined for the taxable year under
-paragraph (a) of subdivision one of section two hundred ten of such
-article. The tax factor shall be, in the case of article twenty-two of
-this chapter, the tax determined for the taxable year under subsections
-(a) through (d) of section six hundred one of such article. The tax
-factor shall be, in the case of article thirty-three of this chapter,
-the larger of the amounts of tax determined for the taxable year under
-paragraphs one and three of subdivision (a) of section fifteen hundred
-two of such article.
-  * NB Effective January 1, 2015
+  (f) Tax factor.  (1) General. The tax factor shall be, in the case of
+article nine-A of this chapter, the amount of tax determined for the
+taxable year under paragraph (a) of subdivision one of section two
+hundred ten of such article. The tax factor shall be, in the case of
+article twenty-two of this chapter, the tax determined for the taxable
+year under subsections (a) through (d) of section six hundred one of
+such article. The tax factor shall be, in the case of article
+thirty-three of this chapter, the larger of the amounts of tax
+determined for the taxable year under paragraphs one and three of
+subdivision (a) of section fifteen hundred two of such article.
   (2) Sole proprietors, partners and S corporation shareholders. (A)
 Where the taxpayer is a sole proprietor of a qualified empire zone
 enterprise, the taxpayer's tax factor shall be that portion of the
@@ -107,21 +82,7 @@ commissioner may prescribe as providing an apportionment which
 reasonably reflects the portion of the partner's tax attributable to the
 income of the partnership. In no event may the ratio so determined
 exceed 1.0.
-  * (ii) For purposes of article nine-A, thirty-two or thirty-three of
-this chapter, the term "partner's income from the partnership" means
-partnership items of income, gain, loss and deduction, and New York
-modifications thereto, entering into entire net income, minimum taxable
-income, alternative entire net income or entire net income plus
-compensation and the term "partner's entire income" means entire net
-income, minimum taxable income, alternative entire net income or entire
-net income plus compensation, allocated within the state. For purposes
-of article twenty-two of this chapter, the term "partner's income from
-the partnership" means partnership items of income, gain, loss and
-deduction, and New York modifications thereto, entering into New York
-adjusted gross income, and the term "partner's entire income" means New
-York adjusted gross income.
-  * NB Effective until January 1, 2015
-  * (ii) For purposes of article nine-A of this chapter, the term
+  (ii) For purposes of article nine-A of this chapter, the term
 "partner's income from the partnership" means partnership items of
 income, gain, loss and deduction, and New York modifications thereto,
 entering into business income and the term "partner's entire income"
@@ -137,7 +98,6 @@ partnership" means partnership items of income, gain, loss and
 deduction, and New York modifications thereto, entering into New York
 adjusted gross income, and the term "partner's entire income" means New
 York adjusted gross income.
-  * NB Effective January 1, 2015
   (C) Where the taxpayer is a shareholder of a New York S corporation
 which is a qualified empire zone enterprise, the shareholder's tax
 factor shall be that portion of the amount determined in paragraph one
@@ -150,9 +110,9 @@ other methods as the commissioner may prescribe as providing an
 apportionment which reasonably reflects the portion of the shareholder's
 tax attributable to the income of the qualified empire zone enterprise.
 In no event may the ratio so determined exceed 1.0.
-  (3) Combined returns or reports. * (A) Where the taxpayer is a
+  (3) Combined returns or reports.  (A) Where the taxpayer is a
 qualified empire zone enterprise and is required or permitted to make a
-return or report on a combined basis under article nine-A, thirty-two or
+return or report on a combined basis under article nine-A or article
 thirty-three of this chapter, the taxpayer's tax factor shall be the
 amount determined in paragraph one of this subdivision which is
 attributable to the income of the qualified empire zone enterprise. Such
@@ -163,20 +123,6 @@ commissioner may prescribe as providing an apportionment which
 reasonably reflects the portion of the combined group's tax attributable
 to the income of the qualified empire zone enterprise. In no event may
 the ratio so determined exceed 1.0.
-  * NB Effective until January 1, 2015
-  * (A) Where the taxpayer is a qualified empire zone enterprise and is
-required or permitted to make a return or report on a combined basis
-under article nine-A or article thirty-three of this chapter, the
-taxpayer's tax factor shall be the amount determined in paragraph one of
-this subdivision which is attributable to the income of the qualified
-empire zone enterprise. Such attribution shall be made in accordance
-with the ratio of the qualified empire zone enterprise's income
-allocated within the state to the combined group's income, or in
-accordance with such other methods as the commissioner may prescribe as
-providing an apportionment which reasonably reflects the portion of the
-combined group's tax attributable to the income of the qualified empire
-zone enterprise. In no event may the ratio so determined exceed 1.0.
-  * NB Effective January 1, 2015
   (B) The term "income of the qualified empire zone enterprise" means
 entire net income, minimum taxable income, alternative entire net income
 or entire net income plus compensation calculated as if the taxpayer was
@@ -187,21 +133,11 @@ report, allocated within the state.
   (4) If the amount determined in paragraph one of this subdivision is
 less than zero, a taxpayer shall not be allowed a credit under this
 section.
-  * (g) Definitions and cross-references. For definitions of terms used
-in this section see sections fourteen and fifteen of this article. For
-application of the credit provided for in this section, see the
-following provisions of this chapter:
-  (1) Article 9-A: Section 210: subdivision 28.
-  (2) Article 22: Section 606: subsections (i) and (cc).
-  (3) Article 32: Section 1456: subsection (p).
-  (4) Article 33: Section 1511: subdivision (s).
-  * NB Effective until January 1, 2015
-  * (g) Definitions and cross-references. For definitions of terms used
-in this section see sections fourteen and fifteen of this article. For
+  (g) Definitions and cross-references. For definitions of terms used in
+this section see sections fourteen and fifteen of this article. For
 application of the credit provided for in this section, see the
 following provisions of this chapter:
   (1) Article 9-A: Section 210-B: subdivision 6.
   (2) Article 22: Section 606: subsections (i) and (cc).
   (3) Article 33: Section 1511: subdivision (s).
-  * NB Effective January 1, 2015
 ```

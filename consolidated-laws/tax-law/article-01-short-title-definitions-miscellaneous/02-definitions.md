@@ -79,36 +79,7 @@ not a RIC. Any voting stock in a RIC that is held in a segregated asset
 account of a life insurance corporation (as described in section 817 of
 the internal revenue code) shall not be taken into account for purposes
 of determining whether a RIC is a captive RIC.
-  * 11. The term "overcapitalized captive insurance company" means an
-entity that is treated as an association taxable as a corporation under
-the internal revenue code (a) more than fifty percent of the voting
-stock of which is owned or controlled, directly or indirectly, by a
-single entity that is treated as an association taxable as a corporation
-under the internal revenue code and not exempt from federal income tax;
-(b) that is licensed as a captive insurance company under the laws of
-this state or another jurisdiction; (c) whose business includes
-providing, directly and indirectly, insurance or reinsurance covering
-the risks of its parent and/or members of its affiliated group; and (d)
-fifty percent or less of whose gross receipts for the taxable year
-consist of premiums.  For purposes of this subdivision, "affiliated
-group" has the same meaning as that term is given in section 1504 of the
-internal revenue code, except that the term "common parent corporation"
-in that section is deemed to mean any person, as defined in section 7701
-of the internal revenue code; references to "at least eighty percent" in
-section 1504 of the internal revenue code are to be read as "fifty
-percent or more;" section 1504 of the internal revenue code is to be
-read without regard to the exclusions provided for in subsection (b) of
-that section; "premiums" has the same meaning as that term is given in
-paragraph one of subdivision (c) of section fifteen hundred ten of this
-chapter, except that it includes consideration for annuity contracts and
-excludes any part of the consideration for insurance, reinsurance or
-annuity contracts that do not provide bona fide insurance, reinsurance
-or annuity benefits; and "gross receipts" includes the amounts included
-in gross receipts for purposes of section 501(c) (15) of the internal
-revenue code, except that those amounts also include all premiums as
-defined in this subdivision.
-  * NB Effective until January 1, 2015
-  * 11. The term " combinable captive insurance company" means an entity
+  11. The term " combinable captive insurance company" means an entity
 that is treated as an association taxable as a corporation under the
 internal revenue code (a) more than fifty percent of the voting stock of
 which is owned or controlled, directly or indirectly, by a single entity
@@ -137,5 +108,4 @@ or annuity benefits; and "gross receipts" includes the amounts included
 in gross receipts for purposes of section 501(c) (15) of the internal
 revenue code, except that those amounts also include all premiums as
 defined in this subdivision.
-  * NB Effective January 1, 2015
 ```

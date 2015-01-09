@@ -88,17 +88,7 @@ trust were a non-resident trust.
   (ii) For purposes of item (II) of clause (i) of this subparagraph,
 intangible property shall be located in this state if one or more of the
 trustees are domiciled in the state of New York.
-  * (iii) Provided further, that for the purposes of item (I) of clause
-(i) of this subparagraph, a trustee which is a banking corporation as
-defined in subsection (a) of section fourteen hundred fifty-two of this
-chapter and which is domiciled outside the state of New York at the time
-it becomes a trustee of the trust shall be deemed to continue to be a
-trustee domiciled outside the state of New York notwithstanding that it
-thereafter otherwise becomes a trustee domiciled in the state of New
-York by virtue of being acquired by, or becoming an office or branch of,
-a corporate trustee domiciled within the state of New York.
-  * NB Effective until January 1, 2015
-  * (iii) Provided further, that for the purposes of item (I) of clause
+  (iii) Provided further, that for the purposes of item (I) of clause
 (i) of this subparagraph, a trustee which is a banking corporation as
 defined in subsection (a) of section fourteen hundred fifty-two of this
 chapter, as such section was in effect on December thirty-first, two
@@ -109,7 +99,6 @@ notwithstanding that it thereafter otherwise becomes a trustee domiciled
 in the state of New York by virtue of being acquired by, or becoming an
 office or branch of, a corporate trustee domiciled within the state of
 New York.
-  * NB Effective January 1, 2015
   For the purposes of the foregoing, a trust or portion of a trust is
 revocable if it is subject to a power, exercisable immediately or at any
 future time, to revest title in the person whose property constitutes

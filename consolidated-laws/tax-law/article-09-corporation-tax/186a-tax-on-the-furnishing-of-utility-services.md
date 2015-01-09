@@ -357,28 +357,6 @@ provided. If such an arrangement be made, all the provisions of the
 local law of said city imposing the local tax shall apply with respect
 to the tax imposed by this section in the same manner as if the local
 tax rate had included the tax imposed by this section.
-  * 8. Notwithstanding any other provision of this chapter or any other
-law to the contrary, any utility (a) which is subject to tax hereunder,
-and (b) which is subject to the supervision of the department of public
-service, shall provide, in addition to any other discount, a reduction
-of three percent in the rate charged for gas, electricity, steam or
-water sold, or gas, electric, steam or water service rendered, prior to
-nineteen hundred ninety-four, for ultimate consumption or use within an
-area designated as an empire zone pursuant to article eighteen-B of the
-general municipal law by a business, whether incorporated or
-unincorporated, other than a retail enterprise as defined in paragraph
-(k) of subdivision twelve of section two hundred ten of this chapter but
-without regard to subparagraph (iii) thereof, which has been certified
-pursuant to article eighteen-B of the general municipal law, and which
-has claimed a credit under subdivision nineteen of section two hundred
-ten, subsection (k) of section six hundred six, subsection (e) of
-section fourteen hundred fifty-six or subdivision (g) of section fifteen
-hundred eleven of this chapter during the previous fifteen months, as
-evidenced by a certificate issued by the commissioner to such business.
-Ninety-six and one-half percent of the aggregate of such reductions
-during the year may be applied as a credit against the tax imposed
-pursuant to this section with respect to such year.
-  * NB Repealed January 1, 2015
   9. Notwithstanding any other provision contained in this chapter or
 any other law, any surcharge collected or any administrative fee
 retained by any telephone corporation acting as collection agent for a

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 180", "kind": "section", "law_id": "TAX", "location_id": "180", "path": "ARTICLE 9 › SECTION 180", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/180.md", "title": "Organization tax; taxes on changes of capital"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 180", "kind": "section", "law_id": "TAX", "location_id": "180", "path": "ARTICLE 9 › SECTION 180", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/180.md", "title": "Organization tax; taxes on changes of capital"} -->
 # Tax Law § 180 — Organization tax; taxes on changes of capital
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 180. Organization tax; taxes on changes of capital. 1. (a)

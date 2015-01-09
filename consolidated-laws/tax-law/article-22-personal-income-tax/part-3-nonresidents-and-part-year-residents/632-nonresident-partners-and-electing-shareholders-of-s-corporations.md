@@ -13,58 +13,22 @@ of items of partnership income, gain, loss and deduction entering into
 his federal adjusted gross income, as such portion shall be determined
 under regulations of the tax commission consistent with the applicable
 rules of section six hundred thirty-one.
-  * (2) In determining New York source income of a nonresident
-shareholder of an S corporation where the election provided for in
-subsection (a) of section six hundred sixty of this article is in
-effect, there shall be included only the portion derived from or
-connected with New York sources of such shareholder's pro rata share of
-items of S corporation income, loss and deduction entering into his
-federal adjusted gross income, increased by reductions for taxes
-described in paragraphs two and three of subsection (f) of section
-thirteen hundred sixty-six of the internal revenue code, as such portion
-shall be determined under regulations of the commissioner consistent
-with the applicable methods and rules for allocation under article
-nine-A or thirty-two of this chapter, regardless of whether or not such
-item or reduction is included in entire net income under article nine-A
-or thirty-two for the tax year. If a nonresident is a shareholder in an
-S corporation where the election provided for in subsection (a) of
-section six hundred sixty of this article is in effect, and the S
-corporation has distributed an installment obligation under section
-453(h)(1)(A) of the Internal Revenue Code, then any gain recognized on
-the receipt of payments from the installment obligation for federal
-income tax purposes will be treated as New York source income allocated
-in a manner consistent with the applicable methods and rules for
-allocation under article nine-A or thirty-two of this chapter in the
-year that the assets were sold. In addition, if the shareholders of the
-S corporation have made an election under section 338(h)(10) of the
-Internal Revenue Code, then any gain recognized on the deemed asset sale
-for federal income tax purposes will be treated as New York source
-income allocated in a manner consistent with the applicable methods and
-rules for allocation under article nine-A or thirty-two of this chapter
-in the year that the shareholder made the section 338(h)(10) election.
-For purposes of a section 338(h)(10) election, when a nonresident
-shareholder exchanges his or her S corporation stock as part of the
-deemed liquidation, any gain or loss recognized shall be treated as the
-disposition of an intangible asset and will not increase or offset any
-gain recognized on the deemed assets sale as a result of the section
-338(h)(10) election.
-  * NB Effective until January 1, 2015
-  * (2) In determining New York source income of a nonresident
-shareholder of an S corporation where the election provided for in
-subsection (a) of section six hundred sixty of this article is in
-effect, there shall be included only the portion derived from or
-connected with New York sources of such shareholder's pro rata share of
-items of S corporation income, loss and deduction entering into his
-federal adjusted gross income, increased by reductions for taxes
-described in paragraphs two and three of subsection (f) of section
-thirteen hundred sixty-six of the internal revenue code, as such portion
-shall be determined under regulations of the commissioner consistent
-with the applicable methods and rules for allocation under article
-nine-A of this chapter, regardless of whether or not such item or
-reduction is included in entire net income under article nine-A for the
-tax year. If a nonresident is a shareholder in an S corporation where
-the election provided for in subsection (a) of section six hundred sixty
-of this article is in effect, and the S corporation has distributed an
+  (2) In determining New York source income of a nonresident shareholder
+of an S corporation where the election provided for in subsection (a) of
+section six hundred sixty of this article is in effect, there shall be
+included only the portion derived from or connected with New York
+sources of such shareholder's pro rata share of items of S corporation
+income, loss and deduction entering into his federal adjusted gross
+income, increased by reductions for taxes described in paragraphs two
+and three of subsection (f) of section thirteen hundred sixty-six of the
+internal revenue code, as such portion shall be determined under
+regulations of the commissioner consistent with the applicable methods
+and rules for allocation under article nine-A of this chapter,
+regardless of whether or not such item or reduction is included in
+entire net income under article nine-A for the tax year. If a
+nonresident is a shareholder in an S corporation where the election
+provided for in subsection (a) of section six hundred sixty of this
+article is in effect, and the S corporation has distributed an
 installment obligation under section 453(h)(1)(A) of the Internal
 Revenue Code, then any gain recognized on the receipt of payments from
 the installment obligation for federal income tax purposes will be
@@ -83,7 +47,6 @@ deemed liquidation, any gain or loss recognized shall be treated as the
 disposition of an intangible asset and will not increase or offset any
 gain recognized on the deemed assets sale as a result of the section
 338(h)(10) election.
-  * NB Effective January 1, 2015
   (b) Special rules as to New York sources. In determining the sources
 of a nonresident partner's income, no effect shall be given to a
 provision in the partnership agreement which--

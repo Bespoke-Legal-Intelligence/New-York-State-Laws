@@ -119,42 +119,13 @@ manner as taxes, and for those purposes any reference in this article to
 tax imposed by this article shall be deemed also to refer to this filing
 fee.
   (4) Estimated tax of nonresident partners, members and shareholders.
-* (A) General. Every entity which is a partnership, other than a
-publicly traded partnership as defined in section 7704 of the federal
-Internal Revenue Code, subchapter K limited liability company or an S
-corporation for which the election provided for in subsection (a) of
-section six hundred sixty of this article is in effect, which has
-partners, members or shareholders who are nonresident individuals, as
-defined under subsection (b) of section six hundred five of this
-article, or C corporations, and which has any income derived from New
-York sources, determined in accordance with the applicable rules of
-section six hundred thirty-one of this article as in the case of a
-nonresident individual, shall pay estimated tax on such income on behalf
-of such partners, members or shareholders in the manner and at the times
-prescribed by subsection (c) of section six hundred eighty-five of this
-article. For purposes of this paragraph, the term "estimated tax" shall
-mean a partner's, member's or shareholder's distributive share or pro
-rata share of the entity income derived from New York sources,
-multiplied by the highest rate of tax prescribed by section six hundred
-one of this article for the taxable year of any partner, member or
-shareholder who is an individual taxpayer, or paragraph (a) of
-subdivision one of section two hundred ten of this chapter for the
-taxable year of any partner, member or shareholder which is a C
-corporation, whether or not such C corporation is subject to tax under
-article nine, nine-A, thirty-two, or thirty-three of this chapter, and
-reduced by the distributive share or pro rata share of any credits
-determined under section one hundred eighty-seven, one hundred
-eighty-seven-a, six hundred six, fourteen hundred fifty-six or fifteen
-hundred eleven of this chapter, whichever is applicable, derived from
-the entity.
-  * NB Effective until January 1, 2015
-  * (A) General. Every entity which is a partnership, other than a
-publicly traded partnership as defined in section 7704 of the federal
-Internal Revenue Code, subchapter K limited liability company or an S
-corporation for which the election provided for in subsection (a) of
-section six hundred sixty of this part is in effect, which has partners,
-members or shareholders who are nonresident individuals, as defined
-under subsection (b) of section six hundred five of this article, or C
+(A) General. Every entity which is a partnership, other than a publicly
+traded partnership as defined in section 7704 of the federal Internal
+Revenue Code, subchapter K limited liability company or an S corporation
+for which the election provided for in subsection (a) of section six
+hundred sixty of this part is in effect, which has partners, members or
+shareholders who are nonresident individuals, as defined under
+subsection (b) of section six hundred five of this article, or C
 corporations, and which has any income derived from New York sources,
 determined in accordance with the applicable rules of section six
 hundred thirty-one of this article as in the case of a nonresident
@@ -175,7 +146,6 @@ distributive share or pro rata share of any credits determined under
 section one hundred eighty-seven, one hundred eighty-seven-a, six
 hundred six or fifteen hundred eleven of this chapter, whichever is
 applicable, derived from the entity.
-  * NB Effective January 1, 2015
   (B) Treatment of payment. Any payment by the entity under this
 paragraph with respect to a partner, member or shareholder who is an
 individual shall be deemed to be a payment of estimated tax by the

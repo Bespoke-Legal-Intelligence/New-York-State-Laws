@@ -10,25 +10,6 @@ general municipal law and meets the employment test shall be a
 "qualified empire zone enterprise":
   * (1) except as provided in paragraphs one-a and one-b of this
 subdivision, for purposes of section one hundred eighty-seven-j and
-articles nine-A, twenty-two, thirty-two and thirty-three of this
-chapter, for each of the taxable years within the "business tax benefit
-period," which period shall consist of (A) in the case of a business
-enterprise with a test date occurring on or before December
-thirty-first, two thousand one, the first fifteen taxable years
-beginning on or after January first, two thousand one, (B) in the case
-of a business enterprise with a test date occurring on or after January
-first, two thousand two, but prior to April first, two thousand five,
-the fifteen taxable years next following the business enterprise's test
-year, and (C) in the case of a business enterprise which is first
-certified under article eighteen-B of the general municipal law on or
-after April first, two thousand five, the ten taxable years starting
-with the taxable year in which the business enterprise's first date of
-certification under article eighteen-B of the general municipal law
-occurs, but only with respect to each of such business tax benefit
-period years for which the employment test is met,
-  * NB Effective until January 1, 2015
-  * (1) except as provided in paragraphs one-a and one-b of this
-subdivision, for purposes of section one hundred eighty-seven-j and
 articles nine-A, twenty-two and thirty-three of this chapter, for each
 of the taxable years within the "business tax benefit period," which
 period shall consist of (A) in the case of a business enterprise with a
@@ -45,7 +26,7 @@ business enterprise's first date of certification under article
 eighteen-B of the general municipal law occurs, but only with respect to
 each of such business tax benefit period years for which the employment
 test is met,
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (1) except as provided in paragraphs one-a and one-b of this
 subdivision, for purposes of articles nine-A, twenty-two and
 thirty-three of this chapter, for each of the taxable years within the
@@ -229,18 +210,6 @@ the general municipal law.
   * (f) Taxable year. The term "taxable year" means the taxable year of
 the business enterprise under section one hundred eighty-three, one
 hundred eighty-four, one hundred eighty-five or former section one
-hundred eighty-six of article nine, or under article nine-A, twenty-two,
-thirty-two or thirty-three of this chapter. If a business enterprise
-does not have a taxable year because it is exempt from taxation or
-otherwise not required to file a return under any of such sections of
-article nine or under article nine-A, twenty-two, thirty-two or
-thirty-three, then the term "taxable year" means (i) the business
-enterprise's federal taxable year, or, (ii) if the enterprise does not
-have a federal taxable year, the calendar year.
-  * NB Effective until January 1, 2015
-  * (f) Taxable year. The term "taxable year" means the taxable year of
-the business enterprise under section one hundred eighty-three, one
-hundred eighty-four, one hundred eighty-five or former section one
 hundred eighty-six of article nine, or under article nine-A, twenty-two
 or thirty-three of this chapter. If a business enterprise does not have
 a taxable year because it is exempt from taxation or otherwise not
@@ -249,7 +218,7 @@ under article nine-A, twenty-two or thirty-three, then the term "taxable
 year" means (i) the business enterprise's federal taxable year, or, (ii)
 if the enterprise does not have a federal taxable year, the calendar
 year.
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (f) Taxable year. The term "taxable year" means the taxable year of
 the business enterprise under section one hundred eighty-three or one
 hundred eighty-four or former section one hundred eighty-six of article
@@ -351,17 +320,11 @@ enterprise of the requirements in paragraph one of this subdivision.
   (i) Cessation of status. A business enterprise shall cease to be a
 qualified empire zone enterprise:
   * (1) for purposes of section one hundred eighty-seven-j of article
-nine, and articles nine-A, twenty-two, thirty-two and thirty-three of
-this chapter, on the first day of the taxable year during which
-revocation of its certification under article eighteen-B of the general
-municipal law occurs, and
-  * NB Effective until January 1, 2015
-  * (1) for purposes of section one hundred eighty-seven-j of article
 nine, and articles nine-A, twenty-two and thirty-three of this chapter,
 on the first day of the taxable year during which revocation of its
 certification under article eighteen-B of the general municipal law
 occurs, and
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (1) for purposes of articles nine-A, twenty-two and thirty-three of
 this chapter, on the first day of the taxable year during which
 revocation of its certification under article eighteen-B of the general
@@ -369,87 +332,6 @@ municipal law occurs, and
   * NB Effective January 1, 2018
   (2) for purposes of articles twenty-eight and twenty-nine of this
 chapter, on the day such revocation occurs.
-  * (j) New business. (1) A new business shall include any corporation,
-except a corporation which is substantially similar in operation and in
-ownership to a business entity (or entities) taxable, or previously
-taxable, under section one hundred eighty-three, one hundred
-eighty-four, one hundred eighty-five or one hundred eighty-six of
-article nine; article nine-A, article thirty-two or thirty-three of this
-chapter; article twenty-three of this chapter or which would have been
-subject to tax under such article twenty-three (as such article was in
-effect on January first, nineteen hundred eighty) or the income (or
-losses) of which is (or was) includable under article twenty-two of this
-chapter.
-  (2) For purposes of article twenty-two of this chapter, an individual
-who is either a sole proprietor or a member of a partnership shall
-qualify as an owner of a new business unless the business of which the
-individual is an owner is substantially similar in operation and in
-ownership to a business entity taxable, or previously taxable, under
-section one hundred eighty-three, one hundred eighty-four, one hundred
-eighty-five or one hundred eighty-six of article nine; article nine-A,
-thirty-two or thirty-three of this chapter; article twenty-three of this
-chapter or which would have been subject to tax under such article
-twenty-three (as such article was in effect on January first, nineteen
-hundred eighty) or the income (or losses) of which is (or was)
-includable under article twenty-two.
-  (3) For purposes of article twenty-two of this chapter, a shareholder
-of a New York S corporation shall be treated as the owner of a new
-business with respect to such share if the corporation qualifies as a
-new business pursuant to paragraph one of this subdivision.
-  (4) (A)(i) Notwithstanding paragraphs one and two of this subdivision,
-a new business shall include any corporation which is identical in
-operation and ownership to a business entity (or entities) taxable under
-section one hundred eighty-three, one hundred eighty-four or one hundred
-eighty-five of article nine; article nine-A, article thirty-two or
-thirty-three of this chapter or the income (or losses) of which is
-includable under article twenty-two of this chapter, provided such
-corporation and such business entity or entities are operating in
-different counties in the state.
-  (ii) Notwithstanding paragraphs one and two of this subdivision, an
-individual who is either a sole proprietor or a member of a partnership
-shall qualify as an owner of a new business if the business of which the
-individual is an owner is identical in operation and in ownership to a
-business entity (or entities) taxable under section one hundred
-eighty-three, one hundred eighty-four or one hundred eighty-five of
-article nine; article nine-A, article thirty-two or thirty-three of this
-chapter or the income (or losses) of which is includable under article
-twenty-two of this chapter, provided such business and such business
-entity or entities are operating in different counties in the state.
-  (iii) Any corporation qualifying as a new business or any individual
-qualifying as an owner of a new business as a result of the provisions
-of this subparagraph shall have the same business tax benefit period and
-sales and use tax benefit period as the business entity to which it is
-identical in operation and in ownership.
-  (B) Notwithstanding any provisions of this subdivision to the contrary
-and notwithstanding subdivision c of section eighteen of part CC of
-chapter eighty-five of the laws of two thousand two, a corporation or
-partnership, which was first certified under article eighteen-B of the
-general municipal law before August first, two thousand two, has a base
-period of zero years or zero employment for its base period, and is
-similar in operation and in ownership to a business entity or entities
-taxable, or previously taxable, under sections specified in paragraph
-one or two of this subdivision or which would have been subject to tax
-under article twenty-three of this chapter (as such article was in
-effect on January first, nineteen hundred eighty) or the income or
-losses of which is or was includable under article twenty-two of this
-chapter shall not be deemed a new business if it was not formed for a
-valid business purpose, as such term is defined in clause (D) of
-subparagraph one of paragraph (o) of subdivision nine of section two
-hundred eight of this chapter and was formed solely to gain empire zone
-benefits.
-  (5) Notwithstanding any other provision of this section, a business
-enterprise which is approved by the commissioner of economic development
-as the owner of a qualified investment project or a significant capital
-investment project pursuant to subdivision (w) of section nine hundred
-fifty-nine of the general municipal law, has a base period of zero years
-and places in service property (or a project that includes such
-property) which comprises such qualified investment project or such
-significant capital investment project,, shall be deemed to be a new
-business under this section. Provided, however, to be deemed a new
-business under this paragraph, such business enterprise shall have
-received certification under article eighteen-B of the general business
-law by December thirty-first, two thousand seven.
-  * NB Effective until January 1, 2015
   * (j) New business. (1) A new business shall include any corporation,
 except a corporation which is substantially similar in operation and in
 ownership to a business entity (or entities) taxable, or previously
@@ -536,7 +418,7 @@ business under this section. Provided, however, to be deemed a new
 business under this paragraph, such business enterprise shall have
 received certification under article eighteen-B of the general business
 law by December thirty-first, two thousand seven.
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (j) New business. (1) A new business shall include any corporation,
 except a corporation which is substantially similar in operation and in
 ownership to a business entity (or entities) taxable, or previously
@@ -635,30 +517,6 @@ was certified pursuant to article eighteen-B of the general municipal
 law on the day immediately preceding the day on which such designation
 expired shall be deemed to continue to be certified under such article
 eighteen-B for purposes of this section, and sections fifteen, sixteen,
-section one hundred eighty-seven-j, subdivisions twenty-seven and
-twenty-eight of section two hundred ten, subsections (bb) and (cc) of
-section six hundred six, subdivision (z) of section eleven hundred
-fifteen, subsections (o) and (p) of section fourteen hundred fifty-six,
-and subdivisions (r) and (s) of section fifteen hundred eleven of this
-chapter. In addition, if the designation of an area as an empire zone is
-no longer in effect because section nine hundred sixty-nine of the
-general municipal law was not amended to extend the effective date of
-such designation so that the designations of all empire zones pursuant
-to article eighteen-B of the general municipal law have expired, all
-references to empire zones in the provisions of this chapter listed in
-the previous sentence shall be read as meaning areas designated as
-empire zones on the day immediately preceding the day on which such
-designation expired.
-  * NB Effective until January 1, 2015
-  * (k) If the designation of an area as an empire zone is no longer in
-effect because section nine hundred sixty-nine of the general municipal
-law was not amended to extend the effective date of such designation so
-that the designations of all empire zones pursuant to article eighteen-B
-of the general municipal law have expired, a business enterprise that
-was certified pursuant to article eighteen-B of the general municipal
-law on the day immediately preceding the day on which such designation
-expired shall be deemed to continue to be certified under such article
-eighteen-B for purposes of this section, and sections fifteen, sixteen,
 section one hundred eighty-seven-j, subdivisions five and six of section
 two hundred ten-B, subsections (bb) and (cc) of section six hundred six,
 subdivision (z) of section eleven hundred fifteen and subdivisions (r)
@@ -671,7 +529,7 @@ general municipal law have expired, all references to empire zones in
 the provisions of this chapter listed in the previous sentence shall be
 read as meaning areas designated as empire zones on the day immediately
 preceding the day on which such designation expired.
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (k) If the designation of an area as an empire zone is no longer in
 effect because section nine hundred sixty-nine of the general municipal
 law was not amended to extend the effective date of such designation so

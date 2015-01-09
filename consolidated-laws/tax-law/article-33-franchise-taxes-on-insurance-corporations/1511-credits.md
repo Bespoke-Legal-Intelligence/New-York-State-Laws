@@ -1490,16 +1490,7 @@ recaptured pursuant to subsection (a) of section 50 of the internal
 revenue code, a portion of the credit allowed under this subsection in
 the taxable year the credit was claimed must be added back in the same
 taxable year and in the same proportion as the federal recapture.
-  ** (4) The credit allowed under this subdivision for any taxable year
-shall not reduce the tax due for such year to less than the minimum
-fixed by paragraph four of subdivision (a) of section fifteen hundred
-two or section fifteen hundred two-a of this article, whichever is
-applicable. If the amount of the credit allowable under this subdivision
-for any taxable year reduces the tax to such amount, the excess may be
-carried over to the following year or years, and may be deducted from
-the taxpayer's tax for such year or years.
-  ** NB Effective until January 1, 2015
-  ** (4) The credit allowed under this subdivision for any taxable year
+  (4) The credit allowed under this subdivision for any taxable year
 shall not reduce the tax due for such year to less than the minimum
 fixed by paragraph four of subdivision (a) of section fifteen hundred
 two or section fifteen hundred two-a of this article, whichever is
@@ -1511,7 +1502,6 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  ** NB Effective January 1, 2015
   (5) To be eligible for the credit allowable under this subdivision,
 the rehabilitation project shall be in whole or in part located within a
 census tract which is identified as being at or below one hundred

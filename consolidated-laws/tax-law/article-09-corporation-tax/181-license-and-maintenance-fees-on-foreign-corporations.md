@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 181", "kind": "section", "law_id": "TAX", "location_id": "181", "path": "ARTICLE 9 › SECTION 181", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/181.md", "title": "License and maintenance fees on foreign corporations"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 181", "kind": "section", "law_id": "TAX", "location_id": "181", "path": "ARTICLE 9 › SECTION 181", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/181.md", "title": "License and maintenance fees on foreign corporations"} -->
 # Tax Law § 181 — License and maintenance fees on foreign corporations
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 181. License and maintenance fees on foreign corporations. 1. (a)

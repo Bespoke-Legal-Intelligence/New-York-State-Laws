@@ -10,63 +10,24 @@ agency" shall mean any state department, board, bureau, division,
 commission, committee, public authority, public benefit corporation,
 council, office, or other governmental entity performing a governmental
 or proprietary function for the state, or, solely for purposes of this
-section, a local social services district; * (b) "taxpayer" shall mean a
+section, a local social services district; (b) "taxpayer" shall mean a
 corporation, association, company, partnership, estate, trust,
 liquidator, fiduciary or other entity or individual who or which is
 liable for any tax or other imposition imposed by or pursuant to article
-nine, nine-A, twenty-two, thirty, thirty-A, thirty-B, thirty-two, or
-thirty-three of this chapter or article two-E of the general city law,
-which tax or other imposition is administered by the commissioner of
-taxation and finance, or who or which is under a duty to perform an act
-under or pursuant to such tax or imposition, excluding a state agency, a
-municipal corporation or a district corporation; and
-  * NB Effective until January 1, 2015
-  * (b) "taxpayer" shall mean a corporation, association, company,
-partnership, estate, trust, liquidator, fiduciary or other entity or
-individual who or which is liable for any tax or other imposition
+nine, nine-A, twenty-two, thirty, thirty-A, thirty-B or thirty-three of
+this chapter or article two-E of the general city law, which tax or
+other imposition is administered by the commissioner of taxation and
+finance, or who or which is under a duty to perform an act under or
+pursuant to such tax or imposition, excluding a state agency, a
+municipal corporation or a district corporation; and (c) "overpayment"
+shall mean an overpayment which has been requested or determined to be
+refunded, a refund or a reimbursement, of a tax or other imposition
 imposed by or pursuant to article nine, nine-A, twenty-two, thirty,
 thirty-A, thirty-B or thirty-three of this chapter or article two-E of
-the general city law, which tax or other imposition is administered by
-the commissioner of taxation and finance, or who or which is under a
-duty to perform an act under or pursuant to such tax or imposition,
-excluding a state agency, a municipal corporation or a district
-corporation; and
-  * NB Effective January 1, 2015
-  * (c) "overpayment" shall mean an overpayment which has been requested
-or determined to be refunded, a refund or a reimbursement, of a tax or
-other imposition imposed by or pursuant to article nine, nine-A,
-twenty-two, thirty, thirty-A, thirty-B, thirty-two, or thirty-three of
-this chapter or article two-E of the general city law, which is
-administered by the commissioner of taxation and finance.
-  * NB Effective until January 1, 2015
-  * (c) "overpayment" shall mean an overpayment which has been requested
-or determined to be refunded, a refund or a reimbursement, of a tax or
-other imposition imposed by or pursuant to article nine, nine-A,
-twenty-two, thirty, thirty-A, thirty-B or thirty-three of this chapter
-or article two-E of the general city law, which is administered by the
-commissioner of taxation and finance.
-  * NB Effective January 1, 2015
-  * (2) The commissioner of taxation and finance, upon agreement with
-the state comptroller and acting as an agent for the state comptroller,
-shall set forth the procedures for crediting any overpayment by a
-taxpayer of any tax or other imposition imposed by or authorized to be
-imposed pursuant to article nine, nine-A, twenty-two, thirty, thirty-A,
-thirty-B, thirty-two, or thirty-three of this chapter or article two-E
-of the general city law, which is administered by the commissioner of
-taxation and finance, and the interest on any such overpayments, against
-the amount of a past-due legally enforceable debt owed by such taxpayer
-to a state agency. An implementation plan shall be developed by the
-division of the budget and the department of taxation and finance which
-shall provide, but not be limited to, guidance with respect to
-coordination of debt collection pursuant to this section and subdivision
-twenty-seventh of section one hundred seventy-one of this article. This
-section shall not be deemed to abrogate or limit in any way the powers
-and authority of the state comptroller to set off debts owed the state
-against payments from the state, under the constitution of the state or
-any other law.
-  * NB Effective until January 1, 2015
-  * (2) The commissioner of taxation and finance, upon agreement with
-the state comptroller and acting as an agent for the state comptroller,
+the general city law, which is administered by the commissioner of
+taxation and finance.
+  (2) The commissioner of taxation and finance, upon agreement with the
+state comptroller and acting as an agent for the state comptroller,
 shall set forth the procedures for crediting any overpayment by a
 taxpayer of any tax or other imposition imposed by or authorized to be
 imposed pursuant to article nine, nine-A, twenty-two, thirty, thirty-A,
@@ -82,7 +43,6 @@ section one hundred seventy-one of this article. This section shall not
 be deemed to abrogate or limit in any way the powers and authority of
 the state comptroller to set off debts owed the state against payments
 from the state, under the constitution of the state or any other law.
-  * NB Effective January 1, 2015
   (3) For purposes of this section a past-due legally enforceable debt
 against which an overpayment and interest thereon may be credited shall
 include any applicable interest or late payment charge and is a debt:

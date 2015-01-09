@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1450", "kind": "section", "law_id": "TAX", "location_id": "1450", "path": "ARTICLE 32 › SECTION 1450", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1450.md", "title": "General definitions"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1450", "kind": "section", "law_id": "TAX", "location_id": "1450", "path": "ARTICLE 32 › SECTION 1450", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1450.md", "title": "General definitions"} -->
 # Tax Law § 1450 — General definitions
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1450. General definitions. As used in this article:

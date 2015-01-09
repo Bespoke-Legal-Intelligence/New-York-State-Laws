@@ -4,9 +4,9 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  * § 210-C. Combined reports. 1. Tax. The tax on a combined report
-shall be the highest of (i) the combined business income base multiplied
-by the tax rate specified in paragraph (a) of subdivision one of section
+  § 210-C. Combined reports. 1. Tax. The tax on a combined report shall
+be the highest of (i) the combined business income base multiplied by
+the tax rate specified in paragraph (a) of subdivision one of section
 two hundred ten of this article; (ii) the combined capital base
 multiplied by the tax rate specified in paragraph (b) of subdivision one
 of section two hundred ten of this article, but not exceeding the
@@ -211,5 +211,4 @@ member of the combined group that is a taxpayer may be appointed as the
 designated agent. Only the designated agent may act on behalf of the
 members of the combined group for matters relating to the combined
 report.
-  * NB Effective January 1, 2015
 ```

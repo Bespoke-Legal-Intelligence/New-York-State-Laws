@@ -21,25 +21,7 @@ the return through any officer or employee of such corporation, or the
 attendance of any other person having knowledge in the premises, and may
 take testimony and require proof material for its information, with
 power to administer oaths to such person or persons.
-  * (2) The tax commission may take any action under paragraph one of
-this subdivision to inquire into the commission of an offense connected
-with the administration or enforcement of this article or article nine,
-nine-a, thirteen, thirteen-a, thirty-two, or thirty-three of this
-chapter, provided, however, that notwithstanding the provisions of
-section one hundred seventy-four of this chapter no such action shall be
-taken when a referral by the department or the tax commission to the
-attorney general, a district attorney or any other prosecutorial agency
-is in effect. Provided, however, the tax commission shall have power,
-during the period when such referral is in effect, to examine or to
-cause to have examined, by any agent or representative designated by it
-for that purpose, any books, papers, records or memoranda bearing upon
-the matters required to be included in the return, where such books,
-papers, records or memoranda are in its possession, or where such books,
-papers, records or memoranda are in the possession of the attorney
-general, district attorney or other prosecutorial agency to which such
-referral is made.
-  * NB Effective until January 1, 2015
-  * (2) The commissioner may take any action under paragraph one of this
+  (2) The commissioner may take any action under paragraph one of this
 subdivision to inquire into the commission of an offense connected with
 the administration or enforcement of this article or article nine,
 nine-A, thirteen, thirteen-A or thirty-three of this chapter, provided,
@@ -56,7 +38,6 @@ records or memoranda are in its possession, or where such books, papers,
 records or memoranda are in the possession of the attorney general,
 district attorney or other prosecutorial agency to which such referral
 is made.
-  * NB Effective January 1, 2015
   (c) Abatement authority.---The tax commission, of its own motion, may
 abate any small unpaid balance of an assessment of tax, or any liability
 in respect thereof, if the tax commission determines under uniform rules
@@ -77,26 +58,7 @@ to any period of limitations, shall have the power, upon making a record
 of its reasons therefor in writing, to cause such moneys so paid and
 being erroneously and illegally held to be refunded and to issue
 therefor its certificate to the comptroller.
-  (e) * (1) Authority to set interest rates.---The commissioner shall
-set the overpayment and underpayment rates of interest to be paid
-pursuant to sections two hundred thirteen, two hundred thirteen-b, two
-hundred fifty-eight, two hundred sixty-three, two hundred ninety-four,
-one thousand eighty-four, one thousand eighty-five, one thousand
-eighty-eight, fourteen hundred sixty-one and fourteen hundred
-sixty-three of this chapter, but if no such rate or rates of interest
-are set, such overpayment rate shall be deemed to be set at six percent
-per annum and such underpayment rate shall be deemed to be set at seven
-and one-half percent per annum. Such overpayment and underpayment rates
-shall be the rates prescribed in paragraph two of this subsection, but
-the underpayment rate shall not be less than seven and one-half percent
-per annum. Any such rates set by the commissioner shall apply to taxes,
-or any portion thereof, which remain or become due or overpaid on or
-after the date on which such rates become effective and shall apply only
-with respect to interest computed or computable for periods or portions
-of periods occurring in the period during which such rates are in
-effect.
-  * NB Effective until January 1, 2015
-  * (1) Authority to set interest rates.---The commissioner shall set
+  (e) (1) Authority to set interest rates.---The commissioner shall set
 the overpayment and underpayment rates of interest to be paid pursuant
 to sections two hundred thirteen, two hundred thirteen-b, two hundred
 fifty-eight, two hundred sixty-three, two hundred ninety-four, one
@@ -113,7 +75,6 @@ after the date on which such rates become effective and shall apply only
 with respect to interest computed or computable for periods or portions
 of periods occurring in the period during which such rates are in
 effect.
-  * NB Effective January 1, 2015
   (2) General rule. (A) Overpayment rate. The overpayment rate set under
 this subsection shall be the sum of (i) the federal short-term rate as
 provided under paragraph three of this subsection, plus (ii) two

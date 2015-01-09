@@ -6,7 +6,7 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  § 28. Biofuel production credit. (a) General. A taxpayer subject to
+  * § 28. Biofuel production credit. (a) General. A taxpayer subject to
 tax under article nine, nine-A or twenty-two of this chapter shall be
 allowed a credit against such tax pursuant to the provisions referenced
 in subdivision (d) of this section. The credit (or pro rata share of
@@ -46,16 +46,10 @@ this section shall annually certify to the commissioner (i) that biofuel
 produced at the eligible biofuel plant meets all existing standards for
 biofuel and (ii) the amount of biofuel produced at the eligible biofuel
 plant during a taxable year.
-  * (d) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article 9: Section 187-c.
-  (2) Article 9-A: Section 210, subdivision 38.
-  (3) Article 22: Section 606, subsections (i) and (jj).
-  * NB Effective until January 1, 2015
-  * (d) Cross-references. For application of the credit provided for in
+  (d) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article 9: Section 187-c.
   (2) Article 9-A: Section 210-B, subdivision 24.
   (3) Article 22: Section 606, subsections (i) and (jj).
-  * NB Effective January 1, 2015
+  * NB There are 2 § 28's
 ```

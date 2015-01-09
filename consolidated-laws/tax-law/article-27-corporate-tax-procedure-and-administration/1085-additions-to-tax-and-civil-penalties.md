@@ -143,31 +143,7 @@ addition to tax shall be applied to any taxable year without regard to
 any adjustments to the differential earnings amount under subsection (f)
 of section eight hundred nine of the internal revenue code for such
 year.
-  * (3) The provisions of this subsection and subsections (d) and (e) of
-this section shall apply to the failure of a taxpayer to file a
-declaration of estimated tax surcharge or the failure to pay all or any
-part of an amount which is applied as an installment against such
-estimated tax surcharge pursuant to sections one hundred ninety-seven-a,
-one hundred ninety-seven-b, two hundred thirteen-a, two hundred
-thirteen-b, fourteen hundred sixty, fourteen hundred sixty-one, fifteen
-hundred thirteen and fifteen hundred fourteen of this chapter. For
-purposes of applying this section and subsections (d) and (e) of this
-section to the estimated tax surcharge, where appropriate the term "tax"
-shall be read to mean "tax surcharge," and the terms "amount required to
-be paid," "amount which would be required to be paid," and "amount which
-would have been required to be paid" shall be computed as the product of
-(1) such amount computed without regard to the tax surcharges imposed
-under sections one hundred eighty-four-a, one hundred eighty-six-c, one
-hundred eighty-eight, two hundred nine-A, two hundred nine-B, fourteen
-hundred fifty-five-A, fourteen hundred fifty-five-B, fifteen hundred
-five-a, and fifteen hundred twenty of this chapter, and (2) the MTA
-percentage. The term "MTA percentage" shall mean the product of (A) the
-tax rate applicable under such sections imposing such surcharges and (B)
-the percentage utilized in determining the portion of the taxpayer's
-business activity carried on within the metropolitan commuter
-transportation district under such sections.
-  * NB Effective until January 1, 2015
-  * (3) The provisions of this subsection and subsections (d) and (e) of
+  (3) The provisions of this subsection and subsections (d) and (e) of
 this section shall apply to the failure of a taxpayer to file a
 declaration of estimated tax surcharge or the failure to pay all or any
 part of an amount which is applied as an installment against such
@@ -189,7 +165,6 @@ under such sections imposing such surcharges and (B) the percentage
 utilized in determining the portion of the taxpayer's business activity
 carried on within the metropolitan commuter transportation district
 under such sections.
-  * NB Effective January 1, 2015
   (d) Exception to addition for underpayment of estimated tax.--The
 addition to tax under subsection (c) with respect to any underpayment of
 any amount which is applied as an installment against estimated tax
@@ -206,20 +181,12 @@ taxable year of twelve months, or
 taxable year, but otherwise on the basis of the facts shown on the
 return of the taxpayer for, and the law applicable to, the preceding
 taxable year, or
-  (3) Annualized income installment. (A) General.  * An amount equal to
+  (3) Annualized income installment. (A) General.  An amount equal to
 ninety-one percent of the tax for the taxable year computed on all items
 entering into the computation of the tax or taxes of the taxpayer for
-the taxable year under article nine, nine-A, thirty-two or thirty-three
-of this chapter. For purposes of computing the tax, all items of
-receipts, income and expenses shall be placed on an annualized basis--
-  * NB Effective until January 1, 2015
-  * An amount equal to ninety-one percent of the tax for the taxable
-year computed on all items entering into the computation of the tax or
-taxes of the taxpayer for the taxable year under article nine, nine-A or
-thirty-three of this chapter. For purposes of computing the tax, all
-items of receipts, income and expenses shall be placed on an annualized
-basis--
-  * NB Effective January 1, 2015
+the taxable year under article nine, nine-A or thirty-three of this
+chapter. For purposes of computing the tax, all items of receipts,
+income and expenses shall be placed on an annualized basis--
   (i) for the first three months of the taxable year, in the case of the
 installment required to be paid in the sixth month,
   (ii) for the first six months of the taxable year, in the case of the
@@ -257,16 +224,10 @@ declaration of estimated tax for such taxable year, or
   (4) (A) If the base period percentage for any six consecutive months
 of the taxable year equals or exceeds seventy percent, an amount equal
 to ninety-one percent of the tax determined in the following manner--
-  * (i) take the items entering into the computation of the tax or taxes
-of the taxpayer for the taxable year under article nine, nine-A,
-thirty-two or thirty-three of this chapter, for all months during the
-taxable year preceding the filing month,
-  * NB Effective until January 1, 2015
-  * (i) take the items entering into the computation of the tax or taxes
+  (i) take the items entering into the computation of the tax or taxes
 of the taxpayer for the taxable year under article nine, nine-A or
 thirty-three of this chapter, for all months during the taxable year
 preceding the filing month,
-  * NB Effective January 1, 2015
   (ii) divide such amounts by the base period percentage for all months
 during the taxable year preceding the filing month,
   (iii) determine the tax on the amounts determined under clause (ii),
@@ -284,57 +245,24 @@ in the case of reorganizations, new corporations, and other similar
 circumstances, and
   (ii) the term "filing month" means the month in which the installment
 is required to be paid.
-  * (5) In the case of any declaration installment, any reduction in
-such installment resulting from the application of paragraph three or
-four of this subsection shall be recaptured by increasing the amount of
-the next installment determined under paragraph one or two of this
-subsection or paragraph one of subsection (c) of this section by the
-amount of such reduction (and by increasing subsequent installments to
-the extent that the reduction has not previously been recaptured under
-this paragraph).  For purposes of the preceding sentence, a declaration
-installment means any installment of estimated tax other than the
-mandatory first installment required under paragraph (a) of subdivision
-one of section one hundred ninety-seven-b, subdivision (a) of section
-two hundred thirteen-b, subsection (a) of section fourteen hundred
-sixty-one or subdivision (a) of section fifteen hundred fourteen of this
-chapter.
-  * NB Effective until January 1, 2015
-  * (5) In the case of any declaration installment, any reduction in
-such installment resulting from the application of paragraph three or
-four of this subsection shall be recaptured by increasing the amount of
-the next installment determined under paragraph one or two of this
-subsection or paragraph one of subsection (c) of this section by the
-amount of such reduction (and by increasing subsequent installments to
-the extent that the reduction has not previously been recaptured under
-this paragraph).  For purposes of the preceding sentence, a declaration
-installment means any installment of estimated tax other than the
-mandatory first installment required under paragraph (a) of subdivision
-one of section one hundred ninety-seven-b, subdivision (a) of section
-two hundred thirteen-b or subdivision (a) of section fifteen hundred
-fourteen of this chapter.
-  * NB Effective January 1, 2015
+  (5) In the case of any declaration installment, any reduction in such
+installment resulting from the application of paragraph three or four of
+this subsection shall be recaptured by increasing the amount of the next
+installment determined under paragraph one or two of this subsection or
+paragraph one of subsection (c) of this section by the amount of such
+reduction (and by increasing subsequent installments to the extent that
+the reduction has not previously been recaptured under this paragraph).
+For purposes of the preceding sentence, a declaration installment means
+any installment of estimated tax other than the mandatory first
+installment required under paragraph (a) of subdivision one of section
+one hundred ninety-seven-b, subdivision (a) of section two hundred
+thirteen-b or subdivision (a) of section fifteen hundred fourteen of
+this chapter.
   For the purposes of this subsection the amounts specified in
 paragraphs (2), (3) and (4) shall be computed without regard to any
 increase in the rates applicable to the taxable year which may have
 become effective after the first day of the seventh month of such year.
-  (e) * (1) Paragraphs (1) and (2) of subsection (d) of this section
-shall not apply in the case of any corporation (or any predecessor
-corporation) which had entire net income, or the portion thereof
-allocated within the state, of one million dollars or more for any
-taxable year during the three taxable years immediately preceding the
-taxable year involved; provided, however, that in the case of a
-corporation subject to tax under section fifteen hundred two-a of this
-chapter, paragraphs (1) and (2) of subsection (d) of this section shall
-not apply if such corporation had entire net income, or the portion
-thereof allocated within the state, of one million dollars or more for
-any of the three taxable years immediately preceding the taxable year
-involved, or if the direct premiums subject to tax under section fifteen
-hundred two-a of this chapter of the corporation for any of such three
-preceding taxable years beginning on or after January first, two
-thousand three equals or exceeds three million seven hundred fifty
-thousand dollars.
-  * NB Effective until January 1, 2015
-  * (1) Paragraphs (1) and (2) of subsection (d) of this section shall
+  (e) (1) Paragraphs (1) and (2) of subsection (d) of this section shall
 not apply in the case of any corporation (or any predecessor
 corporation) which had business income, or the portion thereof allocated
 within the state, of one million dollars or more for any taxable year
@@ -349,7 +277,6 @@ direct premiums subject to tax under section fifteen hundred two-a of
 this chapter of the corporation for any of such three preceding taxable
 years beginning on or after January first, two thousand three equals or
 exceeds three million seven hundred fifty thousand dollars.
-  * NB Effective January 1, 2015
   (2) In the case of taxpayers described in paragraph one of this
 subsection, paragraph one of subsection (c), subparagraph (A) of
 paragraph three of subsection (d), and subparagraph (A) of paragraph
@@ -605,39 +532,12 @@ respect to a document shall not be treated as having aided or assisted
 in the preparation of such document by reason of such assistance.
   (4) The penalty imposed by this subsection shall be in addition to any
 other penalty provided by law.
-  * (m) Unwarranted reduction in utility costs in an empire zone. If
-during a taxable year a taxpayer has received a reduction in the rate
-charged for gas, electric, steam or water sold, or gas, electric, steam
-or water service rendered, pursuant to subdivision eight of section one
-hundred eighty-six-a of this chapter, based upon a certification as to
-the claiming of a credit under subsection nineteen of section two
-hundred ten, subsection (e) of section fourteen hundred fifty-six or
-subdivision (g) of section fifteen hundred eleven of this chapter, and
-it is finally determined that such taxpayer is not entitled to such
-credit in any part, such taxpayer shall be liable to a penalty in an
-amount equal to such reduction in cost, with interest from the last day
-of such year, at the rate applicable to underpayments of tax pursuant to
-this article. The tax commission shall have the power, in its discretion
-to waive, reduce or compromise such penalty.
-  * NB Repealed January 1, 2015
   (n) Failure to file report of information relating to certain interest
 payments.--In case of failure to file the report of information required
 under subdivision two-a of section two hundred eleven, unless it is
 shown that such failure is due to reasonable cause and not due to
 willful neglect, there shall be added to the tax a penalty of five
 hundred dollars.
-  * (o) Failure to include on return information relating to issuer's
-allocation percentage. Where a return is filed but does not contain (1)
-the information necessary to compute the taxpayer's issuer's allocation
-percentage, as defined in subparagraph one of paragraph (b) of
-subdivision three of section two hundred ten of this chapter, where the
-same is called for on the return, or, (2) the taxpayer's issuer's
-allocation percentage, where the same is called for on the return but
-where all of the information necessary for the computation of such
-percentage is not called for on the return, then unless it is shown that
-such failure is due to reasonable cause and not due to willful neglect
-there shall be added to the tax a penalty of five hundred dollars.
-  * NB Repealed January 1, 2015
   * (p) Failure to disclose or provide reportable transaction
 information.  -- (1) Any person who fails to file, disclose or provide
 any statement, return or other document which is required under
@@ -675,20 +575,12 @@ twenty thousand dollars.
   (B) The amount of the penalty under paragraph one of this subsection
 with respect to a listed transaction shall be the greater of
   (i) fifty thousand dollars or,
-  ** (ii) fifty percent of the gross income that the organizer or
-material advisor derived with respect to activities that were the basis
-for the requirement to file, disclose or provide information pursuant to
-section six thousand eleven of the internal revenue code, to the extent
-such gross income is attributable to the avoidance of any tax imposed
-under article nine, nine-A, thirty-two, or thirty-three of this chapter.
-  ** NB Effective until January 1, 2015
-  ** (ii) fifty percent of the gross income that the organizer or
-material advisor derived with respect to activities that were the basis
-for the requirement to file, disclose or provide information pursuant to
-section six thousand eleven of the internal revenue code, to the extent
-such gross income is attributable to the avoidance of any tax imposed
-under article nine, nine-A or thirty-three of this chapter.
-  ** NB Effective January 1, 2015
+  (ii) fifty percent of the gross income that the organizer or material
+advisor derived with respect to activities that were the basis for the
+requirement to file, disclose or provide information pursuant to section
+six thousand eleven of the internal revenue code, to the extent such
+gross income is attributable to the avoidance of any tax imposed under
+article nine, nine-A or thirty-three of this chapter.
   (C) Clause (ii) of subparagraph (B) of this paragraph shall be applied
 by substituting "seventy-five percent" for "fifty percent" in the case
 of an intentional failure or act described in paragraph one of this
@@ -753,18 +645,11 @@ thousand dollars with respect to such return or claim. With respect to
 any return or claim, the amount of the penalty payable by any person by
 reason of this paragraph shall be reduced by the amount of the penalty
 paid by such person by reason of paragraph one of this subsection.
-  ** (3) For purposes of this subsection, the term "understatement of
-liability" means any understatement of the net amount payable with
-respect to any tax imposed under article nine, nine-A, thirty-two, or
-thirty-three of this chapter or any overstatement of the net amount
-creditable or refundable with respect to any such tax.
-  * NB Effective until January 1, 2015
-  ** (3) For purposes of this subsection, the term "understatement of
+  (3) For purposes of this subsection, the term "understatement of
 liability" means any understatement of the net amount payable with
 respect to any tax imposed under article nine, nine-A or thirty-three of
 this chapter or any overstatement of the net amount creditable or
 refundable with respect to any such tax.
-  * NB Effective January 1, 2015
   (4) This subsection shall not apply if the penalty under subsection
 (l) of this section is imposed on the tax return preparer with respect
 to such understatement.
@@ -791,24 +676,7 @@ reason to know is false or fraudulent as to any material matter, or
   (iii) the person is deriving income in this state, or
   (iv) the person conducts any of the activities described in
 subparagraph (A) or (B) of this paragraph within the state of New York,
-* shall pay, with respect to each activity described in subparagraph (A)
-of this paragraph, a penalty equal to one thousand dollars or, if the
-person establishes that it is lesser, one hundred percent of the gross
-income derived (or to be derived) by such person from such activity to
-the extent such gross income is attributed to the avoidance of any tax
-imposed under articles nine, nine-A, thirty-two or thirty-three of this
-chapter; provided, however, that if an activity with respect to which a
-penalty imposed under this subsection involves a statement described in
-clause (i) of subparagraph (B) of paragraph one of this subsection, the
-penalty shall be equal to fifty percent of the gross income derived (or
-to be derived) from that activity within the state by the person on
-which the penalty is imposed. For purposes of the preceding sentence,
-activities described in clause (i) of subparagraph (A) of this paragraph
-with respect to each entity or arrangement shall be treated as a
-separate activity and participation in each sale described in clause
-(ii) of subparagraph (A) of this paragraph shall be so treated.
-  * NB Effective until January 1, 2015
-* shall pay, with respect to each activity described in subparagraph (A)
+shall pay, with respect to each activity described in subparagraph (A)
 of this paragraph, a penalty equal to one thousand dollars or, if the
 person establishes that it is lesser, one hundred percent of the gross
 income derived (or to be derived) by such person from such activity to
@@ -824,7 +692,6 @@ described in clause (i) of subparagraph (A) of this paragraph with
 respect to each entity or arrangement shall be treated as a separate
 activity and participation in each sale described in clause (ii) of
 subparagraph (A) of this paragraph shall be so treated.
-  * NB Effective January 1, 2015
   (2)(A) For purposes of this subsection, the term "gross valuation
 overstatement" means any statement as to the value of any property or
 services if--

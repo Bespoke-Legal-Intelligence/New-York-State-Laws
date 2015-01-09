@@ -6,40 +6,7 @@
 ```text
   § 1500. General definitions. The following words, as used in this
 article, shall have the meanings hereinafter set forth.
-  * (a) The term "insurance corporation" includes a corporation,
-association, joint stock company or association, person, society,
-aggregation or partnership, by whatever name known, doing an insurance
-business, and, notwithstanding the provisions of section fifteen hundred
-twelve of this article, shall include (1) a risk retention group as
-defined in subsection (n) of section five thousand nine hundred two of
-the insurance law, (2) the state insurance fund and (3) a corporation,
-association, joint stock company or association, person, society,
-aggregation or partnership doing an insurance business as a member of
-the New York insurance exchange described in section six thousand two
-hundred one of the insurance law. The definition of the "state insurance
-fund" contained in this subdivision shall be limited in its effect to
-the provisions of this article and the related provisions of this
-chapter and shall have no force and effect other than with respect to
-such provisions. The term "insurance corporation" shall also include a
-captive insurance company doing a captive insurance business, as defined
-in subsections (c) and (b), respectively, of section seven thousand two
-of the insurance law; provided, however, "insurance corporation" shall
-not include the metropolitan transportation authority, or a public
-benefit corporation or not-for-profit corporation formed by a city with
-a population of one million or more pursuant to subsection (a) of
-section seven thousand five of the insurance law, each of which is
-expressly exempt from the payment of fees, taxes or assessments, whether
-state or local; and provided further "insurance corporation" does not
-include any overcapitalized captive insurance company. The term
-"insurance corporation" shall also include an unauthorized insurer
-operating from an office within the state, pursuant to paragraph five of
-subsection (b) of section one thousand one hundred one and subsection
-(i) of section two thousand one hundred seventeen of the insurance law.
-The term "insurance corporation" also includes a health maintenance
-organization required to obtain a certificate of authority under article
-forty-four of the public health law.
-  * NB Effective until January 1, 2015
-  * (a) The term "insurance corporation" includes a corporation,
+  (a) The term "insurance corporation" includes a corporation,
 association, joint stock company or association, person, society,
 aggregation or partnership, by whatever name known, doing an insurance
 business, and, notwithstanding the provisions of section fifteen hundred
@@ -71,7 +38,6 @@ two thousand one hundred seventeen of the insurance law. The term
 "insurance corporation" also includes a health maintenance organization
 required to obtain a certificate of authority under article forty-four
 of the public health law.
-  * NB Effective January 1, 2015
   (b) The term "domestic insurance corporation" means an insurance
 corporation incorporated or organized under the laws of this state.
 Provided, however, the savings banks life insurance fund and savings and

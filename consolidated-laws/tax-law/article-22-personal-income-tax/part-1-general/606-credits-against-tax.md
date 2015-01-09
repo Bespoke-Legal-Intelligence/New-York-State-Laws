@@ -375,19 +375,6 @@ qualify as an owner of a new business unless:
   * (A) the business of which the individual is an owner is
 substantially similar in operation and in ownership to a business entity
 taxable, or previously taxable, under section one hundred eighty-three,
-one hundred eighty-four, one hundred eighty-five or one hundred
-eighty-six of article nine; article nine-A, thirty-two or thirty-three
-of this chapter; article twenty-three of this chapter or which would
-have been subject to tax under such article twenty-three (as such
-article was in effect on January first, nineteen hundred eighty) or the
-income (or losses) of which is (or was) includable under article
-twenty-two of this chapter whereby the intent and purpose of this
-paragraph and paragraph five of this subsection with respect to
-refunding of credit to new business would be evaded; or
-  * NB Effective until January 1, 2015
-  * (A) the business of which the individual is an owner is
-substantially similar in operation and in ownership to a business entity
-taxable, or previously taxable, under section one hundred eighty-three,
 one hundred eighty-four or one hundred eighty-five of article nine;
 article nine-A or thirty-three of this chapter; article twenty-three of
 this chapter or which would have been subject to tax under such article
@@ -399,7 +386,7 @@ in effect on December thirty-first, two thousand fourteen) or the income
 this chapter whereby the intent and purpose of this paragraph and
 paragraph five of this subsection with respect to refunding of credit to
 new business would be evaded; or
-  * NB Effective January 1, 2015 until January 1, 2018
+  * NB Effective until January 1, 2018
   * (A) the business of which the individual is an owner is
 substantially similar in operation and in ownership to a business entity
 taxable, or previously taxable, under section one hundred eighty-three,
@@ -2113,210 +2100,7 @@ of a New York S corporation:
 rata share of the corresponding credit base of such corporation,
 determined for the corporation's taxable year ending with or within the
 shareholder's taxable year and
-  * (B) shall be treated as the owner of a new business with respect to
-such share if the corporation qualifies as a new business pursuant to
-paragraph (j) of subdivision twelve of section two hundred ten of this
-chapter.
-                                     The corporation's credit base under
-                                     section two hundred ten or section
-With respect to the following        fourteen hundred fifty-six of this
-credit under this section:           chapter is:
-(i) Investment tax credit under      Investment credit base or qualified
-subsection (a)                       rehabilitation expenditures under
-                                     subdivision twelve of section two
-                                     hundred ten
-(ii) Empire zone investment          Cost or other basis under
-tax credit under subsection (j)      subdivision twelve-B of section
-                                     two hundred ten
-(iii) Empire zone wage tax credit    Eligible wages under subdivision
-under subsection (k)                 nineteen of section two hundred
-                                     ten or subsection (e) of section
-                                     fourteen hundred fifty-six
-(iv) Empire zone capital tax         Qualified investments and
-credit under subsection (l)          contributions under subdivision
-                                     twenty of section two hundred ten
-                                     or subsection (d) of section
-                                     fourteen hundred fifty-six
-(v) Agricultural property tax        Allowable school district property
-credit under subsection (n)          taxes under subdivision twenty-two
-                                     of section two hundred ten
-(vi) Credit for employment of        Qualified first-year wages or
-persons with disabilities            qualified second-year wages under
-under subsection (o)                 subdivision twenty-three of
-                                     section two hundred ten or
-                                     subsection (f) of section
-                                     fourteen hundred fifty-six
-(vii) Employment incentive credit    Applicable investment credit base
-under subsection (a-1)               under subdivision twelve-D of
-                                     section two hundred ten
-(viii) Empire zone employment        Applicable investment credit
-incentive credit under subsection    under subdivision twelve-C of
-(j-1)                                section two hundred ten
-(ix) Alternative fuels               Amount of credit
-and electric vehicle                 under subdivision twenty-four
-recharging property                  of section two hundred ten
-credit under subsection (p)
-(x) Qualified emerging technology    Applicable credit base under
-company employment credit under      subdivision twelve-E of section
-subsection (q)                       two hundred ten
-(xi) Qualified emerging technology   Qualified investments under
-company capital tax credit under     subdivision twelve-F of section
-subsection (r)                       two hundred ten
-(xii) Credit for purchase of an      Cost of an automated external
-automated external defibrillator     defibrillator under subdivision
-under subsection (s)                 twenty-five of section two hundred
-                                     ten or subsection (j) of section
-                                     fourteen hundred fifty-six
-(xiii) Low-income housing credit     Credit amount under subdivision
-under subsection (x)                 thirty of section two hundred ten
-                                     or subsection (l) of section
-                                     fourteen hundred fifty-six
-(xiv) Credit for transportation      For taxable years beginning
-improvement contributions under      before January first, two thousand
-subsection (z)                       nine, amount of credit under
-                                     subdivision thirty-two of
-                                     section two hundred ten
-                                     or subsection (n) of section
-                                     fourteen hundred fifty-six
-(xv) QEZE credit for real property   Amount of credit under subdivision
-taxes under subsection (bb)          twenty-seven of section two hundred
-                                     ten or subsection (o) of section
-                                     fourteen hundred fifty-six
-(xvi) QEZE tax reduction credit      Amount of benefit period factor,
-under subsection (cc)                employment increase factor and zone
-                                     allocation factor (without regard
-                                     to pro ration) under subdivision
-                                     twenty-eight of section two hundred
-                                     ten or subsection (p) of section
-                                     fourteen hundred fifty-six and
-                                     amount of tax factor as determined
-                                     under subdivision (f) of section
-                                     sixteen
-(xvii) Green building credit under   Amount of green building credit
-subsection (y)                       under subdivision thirty-one of
-                                     section two hundred ten or
-                                     subsection (m) of section fourteen
-                                     hundred fifty-six
-(xviii) Credit for long-term care    Qualified costs under subdivision
-insurance premiums under subsection  twenty-five-a of section two
-(aa)                                 hundred ten or subsection (k) of
-                                     section fourteen hundred fifty-six
-(xix) Brownfield redevelopment       Amount of credit under subdivision
-credit under subsection (dd)         thirty-three of section two hundred
-                                     ten or subsection (q) of section
-                                     fourteen hundred fifty-six
-(xx) Remediated brownfield credit    Amount of credit under subdivision
-for real property taxes for          thirty-four of section two hundred
-qualified sites under subsection     ten or subsection (r) of section
-(ee)                                 fourteen hundred fifty-six
-(xxi) Environmental remediation      Amount of credit under subdivision
-insurance credit under subsection    thirty-five of section two hundred
-(ff)                                 ten or subsection (s) of section
-                                     fourteen hundred fifty-six
-(xxii) Empire state film             Amount of credit for qualified
-production credit under              production costs in production of a
-subsection (gg)                      qualified film under subdivision
-                                     thirty-six of section two hundred
-                                     ten
-(xxiii) Qualified emerging           Qualifying expenditures and
-technology company facilities,       development activities under
-operations and training credit       subdivision twelve-G of section two
-under subsection (nn)                hundred ten
-(xxiv) Security training tax credit  Amount of credit under subdivision
-under subsection (ii)                thirty-seven of section two hundred
-                                     ten or under subsection (t) of
-                                     section fourteen hundred fifty-six
-(xxv) Credit for qualified fuel      For taxable years beginning before
-cell electric generating             January first, two thousand nine,
-equipment expenditures               amount of credit under subdivision
-under subsection (g-2)               thirty-seven of section two hundred
-                                     ten or subsection (t) of section
-                                     fourteen hundred fifty-six
-(xxvi) Empire state commercial       Amount of credit for qualified
-production credit under subsection   production costs in production of
-(jj)                                 a qualified commercial under
-                                     subdivision thirty-eight of
-                                     section two hundred ten
-(xxvii) Biofuel production tax       Amount of credit under subdivision
-credit under subsection (jj)         thirty-eight of section two hundred
-                                     ten
-(xxviii) Clean heating fuel credit   Amount of credit under subdivision
-under subsection (mm)                thirty-nine of section two hundred
-                                     ten
-(xxix) Credit for rehabilitation     Amount of credit under subdivision
-of historic properties under         forty of section two hundred ten
-subsection (oo)
-* (xxxi) Excelsior jobs program tax  Amount of credit under subdivision
-credit under subsection (qq)         forty-one of section two hundred
-                                     ten or under subdivision (u) of
-                                     section fourteen hundred fifty-six
-* NB There are 2 clause (xxxi)'s
-* (xxxi) Empire state film           Amount of credit for
-post production credit under         qualified post production
-subsection (qq)                      costs of a qualified film
-                                     under subdivision forty-one of
-                                     section two hundred ten
-* NB There are 2 clause (xxxi)'s
-* (xxxii) Economic transformation    Amount of credit under subdivision
-and facility redevelopment credit    forty-three of section 210 or under
-                                     subsection (x) of section fourteen
-                                     hundred fifty-six
-* NB Repealed December 31, 2021
-* (xxxiii) New York youth works      Amount of credit under
-tax credit                           subdivision forty-four of
-                                     section two hundred ten
-* NB There are 3 clause (xxxiii)'s
-* (xxxiii) Empire state jobs         Amount of credit under
-retention program credit             subdivision forty-four
-                                     of section two hundred ten
-                                     or under subsection (y) of section
-                                     fourteen hundred fifty-six
-* NB There are 3 clause (xxxiii)'s
-* (xxxiii) Credit for companies who  Amount of credit under
-provide transportation to            subdivision forty-four of
-individuals with disabilities        section two hundred ten
-under subsection (tt)
-* NB Repealed December 31, 2016
-* NB There are 3 clause (xxxiii)'s
-(xxxiv) Beer production credit       Amount of credit under subdivision
-under subsection (uu)                subdivision forty-five of
-                                     section two hundred ten
-* (xxxv) Hire a vet credit           Amount of credit under subdivision
-under subsection (a-2)               twenty-three-a of section two
-                                     hundred ten or subsection (e-1)
-                                     of section fourteen hundred
-                                     fifty-six
-* NB There are 2 clause (xxxv)'s
-* (xxxv) Minimum wage reimbursement  Amount of credit under subdivision
-credit under subsection (aaa)        forty-six of section two hundred
-                                     ten or subsection (z) of
-                                     section fourteen hundred
-                                     fifty-six
-* NB There are 2 clause (xxxv)'s
-(xxxvi) Tax-free NY area tax          Amount of credit under
-elimination credit                    subdivision forty-seven of
-                                      section two hundred ten
-** (xxxviii) Real property tax        Amount of credit under
-credit for manufacturers under        subdivision forty-eight of
-subsection (xx)                       section two hundred ten
-  ** NB There are 2 clause (xxxviii)'s
-  ** NB Repealed December 31, 2014
-** (xxxviii) Tax free NY area excise Amount of credit under
-tax on telecommunication services    subdivision forty-nine
-credit under subsection (yy)         of section two hundred ten
-  ** NB There are 2 clause (xxxviii)'s
-  ** NB Repealed December 31, 2014
-** (xxxix) Musical and theatrical    Amount of credit for
-production credit under              the sum of the qualified
-subsection (u)                       production expenditures and
-                                     the transportation expenditures
-                                     in a qualified musical and
-                                     theatrical production under
-                                     subdivision forty-seven of
-                                     section two hundred ten-B
-  ** NB Repealed March 31, 2018
-  * NB Effective until January 1, 2015
-  * (B) shall be treated as the owner of a new business with respect to
+  (B) shall be treated as the owner of a new business with respect to
 such share if the corporation qualifies as a new business pursuant to
 paragraph (f) of subdivision one of section two hundred ten-B of this
 chapter.
@@ -2477,44 +2261,21 @@ tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
                                      hundred ten-B
   ** NB Repealed January 1, 2020
-  * NB Effective January 1, 2015
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
 of this section.
   (3) Transition provisions relating to S corporation credits allowed
-for taxable years beginning before nineteen hundred ninety-four.  * (A)
+for taxable years beginning before nineteen hundred ninety-four.  (A)
 Credit carryover. Any excess credit under subparagraph (A) of paragraph
 one of this subsection, as it was in effect for taxable years beginning
 before nineteen hundred ninety-four, may be carried over to the
 shareholder's following year or years and may be deducted from such
 shareholder's tax for such year or years, except that any excess credit
-attributable to subdivision twelve of section two hundred ten of this
-chapter shall in no event be carried over beyond the ten taxable years
-next following the taxable year of origin.
-  * NB Effective until January 1, 2015
-  * (A) Credit carryover. Any excess credit under subparagraph (A) of
-paragraph one of this subsection, as it was in effect for taxable years
-beginning before nineteen hundred ninety-four, may be carried over to
-the shareholder's following year or years and may be deducted from such
-shareholder's tax for such year or years, except that any excess credit
 attributable to subdivision one of section two hundred ten-B of this
 chapter shall in no event be carried over beyond the ten taxable years
 next following the taxable year of origin.
-  * NB Effective January 1, 2015
-  * (B) Credit recapture. Any redetermination of credit required by this
-subsection as it was in effect for taxable years beginning before
-nineteen hundred ninety-four, upon disposition or cessation of qualified
-use of property pursuant to paragraph (g) of subdivision twelve,
-paragraph (f) of subdivision twelve-B or paragraph (f) of subdivision
-eighteen of section two hundred ten of this chapter shall be attributed
-in pro rata shares to the shareholders who were allowed credit under
-this subsection with respect to such property, and the reduction of a
-shareholder's proportionate stock interest shall be treated as a
-disposition of property for which a redetermination of credit under such
-paragraphs is required with respect to such shareholder.
-  * NB Effective until January 1, 2015
-  * (B) Credit recapture. Any redetermination of credit required by this
+  (B) Credit recapture. Any redetermination of credit required by this
 subsection as it was in effect for taxable years beginning before
 nineteen hundred ninety-four, upon disposition or cessation of qualified
 use of property pursuant to paragraph (e) of subdivision one, or
@@ -2525,7 +2286,6 @@ and the reduction of a shareholder's proportionate stock interest shall
 be treated as a disposition of property for which a redetermination of
 credit under such paragraphs is required with respect to such
 shareholder.
-  * NB Effective January 1, 2015
   (4) Transition provisions relating to credit for special additional
 mortgage recording tax. In the case of the special additional mortgage
 recording tax credit, in addition to any carryover thereof under
@@ -4331,18 +4091,11 @@ recaptured pursuant to subsection (a) of section 50 of the internal
 revenue code, a portion of the credit allowed under this subsection must
 be added back in the same taxable year and in the same proportion as the
 federal recapture.
-  * (4) If the amount of the credit allowable under this subsection for
-any taxable year shall exceed the taxpayer's tax for such year, the
-excess may be carried over to the following year or years, and may be
-applied against the taxpayer's tax for such year or years.
-  * NB Effective until January 1, 2015
-  * (4) If the amount of the credit allowed under this subsection for
-any taxable year shall exceed the taxpayer's tax for such year, the
-excess shall be treated as an overpayment of tax to be credited or
-refunded in accordance with the provisions of section six hundred
-eighty-six of this article, provided, however, that no interest shall be
-paid thereon.
-  * NB Effective January 1, 2015
+  (4) If the amount of the credit allowed under this subsection for any
+taxable year shall exceed the taxpayer's tax for such year, the excess
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
   (5) To be eligible for the credit allowable under this subsection the
 rehabilitation project shall be in whole or in part located within a
 census tract which is identified as being at or below one hundred
@@ -4851,7 +4604,7 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of section two hundred ten-B, or
 subdivision (j) of section fifteen hundred eleven of this chapter.
-  * NB Effective January 1, 2015 until January 1, 2020
+  * NB Effective until January 1, 2020
   (aaa) Minimum wage reimbursement credit. (1) A taxpayer shall be
 allowed a credit, to be computed as provided in section thirty-eight of
 this chapter, against the tax imposed by this article.
@@ -5160,15 +4913,7 @@ and carryovers of such credits, shall be deducted next, and among such
 credits, those whose carryover is of limited duration shall be deducted
 before those whose carryover is of unlimited duration. Credits allowable
 under this article which are refundable shall be deducted last.
-  * NB Effective until January 1, 2015
-  * (yyy) Order of credits. Credits allowable under this article which
-cannot be carried over and which are not refundable shall be deducted
-first. Credits allowable under this article which can be carried over,
-and carryovers of such credits, shall be deducted next, and among such
-credits, those whose carryover is of limited duration shall be deducted
-before those whose carryover is of unlimited duration. Credits allowable
-under this article which are refundable shall be deducted last.
-  * NB Effective January 1, 2015 until January 1, 2020
+  * NB Effective until January 1, 2020
   * (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,
@@ -5186,17 +4931,7 @@ eighty-six,
   (4) taxes paid by a trust for a prior taxable year on income
 subsequently distributed, see sections six hundred twenty-one and six
 hundred thirty-five.
-  * NB Effective until January 1, 2015
-  * (zzz) Cross references.--For credit in respect of:
-  (1) taxes withheld on wages, see section six hundred seventy-three,
-  (2) taxes imposed on a resident by other states, see section six
-hundred twenty,
-  (3) taxes overpaid for a prior taxable year, see section six hundred
-eighty-six,
-  (4) taxes paid by a trust for a prior taxable year on income
-subsequently distributed, see sections six hundred twenty-one and six
-hundred thirty-five.
-  * NB Effective January 1, 2015 until January 1, 2020
+  * NB Effective until January 1, 2020
   * (zzz) Cross references.--For credit in respect of:
   (1) taxes withheld on wages, see section six hundred seventy-three,
   (2) taxes imposed on a resident by other states, see section six

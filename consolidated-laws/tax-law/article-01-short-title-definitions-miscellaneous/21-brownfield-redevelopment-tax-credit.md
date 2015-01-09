@@ -5,16 +5,7 @@
 
 ```text
   * § 21. Brownfield redevelopment tax credit. (a) Allowance of credit.
-** (1) General. A taxpayer subject to tax under article nine, nine-A,
-twenty-two, thirty-two or thirty-three of this chapter shall be allowed
-a credit against such tax, pursuant to the provisions referenced in
-subdivision (f) of this section. Such credit shall be allowed with
-respect to a qualified site, as such term is defined in paragraph one of
-subdivision (b) of this section. The amount of the credit in a taxable
-year shall be the sum of the credit components specified in paragraphs
-two, three and four of this subdivision applicable in such year.
-  ** NB Effective until January 1, 2015
-  ** (1) General. A taxpayer subject to tax under article nine, nine-A,
+(1) General. A taxpayer subject to tax under article nine, nine-A,
 twenty-two or thirty-three of this chapter shall be allowed a credit
 against such tax, pursuant to the provisions referenced in subdivision
 (f) of this section. Such credit shall be allowed with respect to a
@@ -22,7 +13,6 @@ qualified site, as such term is defined in paragraph one of subdivision
 (b) of this section. The amount of the credit in a taxable year shall be
 the sum of the credit components specified in paragraphs two, three and
 four of this subdivision applicable in such year.
-  ** NB Effective January 1, 2015
   (2) Site preparation credit component. The site preparation credit
 component shall be equal to the applicable percentage of the site
 preparation costs paid or incurred by the taxpayer with respect to a
@@ -135,25 +125,8 @@ determined in taxable years after the effective date of the issuance of
 a certificate of completion shall be allowed in the taxable year such
 qualified costs are incurred and paid for up to five taxable years after
 the issuance of such certificate of completion.
-  ** (5) Applicable percentage. For purposes of paragraphs two, three
-and four of this subdivision, the applicable percentage shall be twelve
-percent in the case of credits claimed under article nine, nine-A,
-thirty-two or thirty-three of this chapter, and ten percent in the case
-of credits claimed under article twenty-two of this chapter, except that
-where at least fifty percent of the area of the qualified site relating
-to the credit provided for in this section is located in an
-environmental zone as defined in paragraph six of subdivision (b) of
-this section, the applicable percentage shall be increased by an
-additional eight percent. Provided, however, as afforded in section
-27-1419 of the environmental conservation law, if the certificate of
-completion indicates that the qualified site has been remediated to
-Track 1 as that term is described in subdivision four of section 27-1415
-of the environmental conservation law, the applicable percentage set
-forth in the first sentence of this paragraph shall be increased by an
-additional two percent.
-  ** NB Effective until January 1, 2015
-  ** (5) Applicable percentage. For purposes of paragraphs two, three
-and four of this subdivision, the applicable percentage shall be twelve
+  (5) Applicable percentage. For purposes of paragraphs two, three and
+four of this subdivision, the applicable percentage shall be twelve
 percent in the case of credits claimed under article nine, nine-A or
 thirty-three of this chapter, and ten percent in the case of credits
 claimed under article twenty-two of this chapter, except that where at
@@ -167,7 +140,6 @@ qualified site has been remediated to Track 1 as that term is described
 in subdivision four of section 27-1415 of the environmental conservation
 law, the applicable percentage set forth in the first sentence of this
 paragraph shall be increased by an additional two percent.
-  ** NB Effective January 1, 2015
   (6) Site preparation costs and on-site groundwater remediation costs
 paid or incurred by the taxpayer with respect to a qualified site and
 the cost or other basis for federal income tax purposes of tangible
@@ -269,26 +241,13 @@ environmental zone under subparagraph (B) of this paragraph if such site
 was the subject of a brownfield site cleanup agreement pursuant to
 section 27-1409 of the environmental conservation law that was entered
 into prior to September first, two thousand ten.
-  ** (c) Qualifying property. Property which qualifies for the credit
-provided for under this section and also for a credit provided for (1)
-under either subdivision twelve or subdivision twelve-B of section two
-hundred ten of this chapter, or both, (2) subsection (a) or subsection
-(j) of section six hundred six of this chapter, or both, (3) the credit
-provided for under subsection (i) of section fourteen hundred fifty-six
-of this chapter, or (4) the credit provided under subdivision (q) of
-section fifteen hundred eleven of this chapter may be the basis for
-either the credit provided for under this section or one of the credits
-enumerated in paragraph one, two, three or four of this subdivision, but
-not both.
-  ** NB Effective until January 1, 2015
-  ** (c) Qualifying property. Property which qualifies for the credit
+  (c) Qualifying property. Property which qualifies for the credit
 provided for under this section and also for a credit provided for (1)
 under either subdivision one or subdivision three of section two hundred
 ten-B of this chapter, or both, or (2) subsection (a) or subsection (j)
 of section six hundred six of this chapter, or both may be the basis for
 either the credit provided for under this section or one of the credits
 enumerated in paragraph one or two of this subdivision, but not both.
-  ** NB Effective January 1, 2015
   (d) Depreciable property. (1) With respect to qualified tangible
 property which is depreciable pursuant to section one hundred
 sixty-seven of the internal revenue code but is not subject to the
@@ -366,20 +325,11 @@ pursuant to section 27-1419 of the environmental conservation law, the
 amount of any credit allowed by this section shall be added back in the
 taxable year in which such determination is final and no longer subject
 to judicial review.
-  ** (f) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article 9: Section 187-g
-  (2) Article 9-A: Section 210, subdivision 33
-  (3) Article 22: Section 606, subsections (i) and (dd)
-  (4) Article 32: Section 1456, subsection (q)
-  (5) Article 33: Section 1511, subdivision (u).
-  ** NB Effective until January 1, 2015
-  ** (f) Cross-references. For application of the credit provided for in
+  (f) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article 9: Section 187-g
   (2) Article 9-A: Section 210-B, subdivision 17
   (3) Article 22: Section 606, subsections (i) and (dd)
   (4) Article 33: Section 1511, subdivision (u).
-  ** NB Effective January 1, 2015
   * NB There are 2 § 21's
 ```

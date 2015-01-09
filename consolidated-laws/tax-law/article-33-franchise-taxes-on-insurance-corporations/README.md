@@ -13,7 +13,7 @@
 - [§ 1503 Computation of entire net income](1503-computation-of-entire-net-income.md)
 - [§ 1504 Allocation](1504-allocation.md)
 - [§ 1505 Limitation on tax](1505-limitation-on-tax.md)
-- [§ 1505-A Temporary metropolitan transportation business tax surcharge on insurance corporations](1505a-temporary-metropolitan-transportation-business-tax-surcharge-on-insurance.md)
+- [§ 1505-A Metropolitan transportation business tax surcharge on insurance corporations](1505a-metropolitan-transportation-business-tax-surcharge-on-insurance-corporations.md)
 - [§ 1510 Additional franchise tax on insurance corporations](1510-additional-franchise-tax-on-insurance-corporations.md)
 - [§ 1511 Credits](1511-credits.md)
 - [§ 1512 Exemptions](1512-exemptions.md)

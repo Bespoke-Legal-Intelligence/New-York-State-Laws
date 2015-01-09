@@ -96,29 +96,6 @@ corporation or partnership, which otherwise qualifies as a qualified
 commercial production company, and is similar in operation and in
 ownership to a business entity or entities taxable, or previously
 taxable, under section one hundred eighty-three, one hundred eighty-four
-or one hundred eighty-five of article nine; article nine-A, article
-thirty-two or thirty-three of this chapter or which would have been
-subject to tax under article twenty-three of this chapter (as such
-article was in effect on January first, nineteen hundred eighty) or the
-income or losses of which is or was includable under article twenty-two
-of this chapter shall not be deemed a new or separate business, and
-therefore shall not be eligible for empire state commercial production
-benefits, if it was not formed for a valid business purpose, as such
-term is defined in clause (D) of subparagraph one of paragraph (o) of
-subdivision nine of section two hundred eight of this chapter and was
-formed solely to gain empire state commercial production credit
-benefits.
-  ** NB Effective until January 1, 2015
-  ** (3) No qualified production costs used by a taxpayer either as the
-basis for the allowance of the credit provided for under this section or
-used in the calculation of the credit provided for under this section
-shall be used by such taxpayer to claim any other credit allowed
-pursuant to this chapter.
-  Notwithstanding any provisions of this section to the contrary, a
-corporation or partnership, which otherwise qualifies as a qualified
-commercial production company, and is similar in operation and in
-ownership to a business entity or entities taxable, or previously
-taxable, under section one hundred eighty-three, one hundred eighty-four
 or one hundred eighty-five of article nine; article nine-A or
 thirty-three of this chapter or which would have been subject to tax
 under article twenty-three of this chapter (as such article was in
@@ -133,7 +110,7 @@ business purpose, as such term is defined in clause (D) of subparagraph
 one of paragraph (o) of subdivision nine of section two hundred eight of
 this chapter and was formed solely to gain empire state commercial
 production credit benefits.
-  ** NB Effective January 1, 2015 until January 1, 2018
+  ** NB Effective until January 1, 2018
   ** (4) Notwithstanding any provisions of this section to the contrary,
 a corporation or partnership, which otherwise qualifies as a qualified
 commercial production company, and is similar in operation and in
@@ -204,15 +181,9 @@ partnership, limited partnership, or other entity or individual which or
 who is principally engaged in the production of a qualified commercial
 and controls the production of the qualified commercial and is not the
 distributor or contracting entity for production of such commercial.
-  ** (c) Cross-references. For application of the credit provided for in
-this section, see the following provision of this chapter:
-  (1) article 9-A: section 210: subdivision 38.
-  (2) article 22: section 606: subsection (jj).
-  ** NB Effective until January 1, 2015
-  ** (c) Cross-references. For application of the credit provided for in
+  (c) Cross-references. For application of the credit provided for in
 this section, see the following provision of this chapter:
   (1) article 9-A: section 210-B: subdivision 23.
   (2) article 22: section 606: subsection (jj).
-  ** NB Effective January 1, 2015
   * NB There are 2 § 28's
 ```

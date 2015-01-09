@@ -28,14 +28,8 @@ per gallon; and
   (2) for each gallon of beer produced in this state in the taxable year
 in excess of five hundred thousand gallons, the credit shall equal four
 and one-half cents per gallon.
-  * (c) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article 9-A: Section 210, subdivision 45.
-  (2) Article 22: Section 606, subsections (i) and (uu).
-  * NB Effective until January 1, 2015
-  * (c) Cross-references. For application of the credit provided for in
+  (c) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article 9-A: Section 210-B, subdivision 39.
   (2) Article 22: Section 606, subsections (i) and (uu).
-  * NB Effective January 1, 2015
 ```

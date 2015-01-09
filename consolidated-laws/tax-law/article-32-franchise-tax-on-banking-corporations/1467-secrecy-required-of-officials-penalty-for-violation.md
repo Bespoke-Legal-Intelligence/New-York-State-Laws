@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1467", "kind": "section", "law_id": "TAX", "location_id": "1467", "path": "ARTICLE 32 › SECTION 1467", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1467.md", "title": "Secrecy required of officials; penalty for violation"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1467", "kind": "section", "law_id": "TAX", "location_id": "1467", "path": "ARTICLE 32 › SECTION 1467", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1467.md", "title": "Secrecy required of officials; penalty for violation"} -->
 # Tax Law § 1467 — Secrecy required of officials; penalty for violation
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1467. Secrecy required of officials; penalty for violation. (a)

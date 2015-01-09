@@ -4,21 +4,13 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 36. Empire state jobs retention program credit. * (a) Allowance of
-credit. A taxpayer subject to tax under article nine-A, twenty-two,
-thirty-two or thirty-three of this chapter shall be allowed a credit
-against such tax, pursuant to the provisions referenced in subdivision
-(e) of this section. The amount of the credit, allowable for ten
-consecutive tax years, is equal to the amount determined pursuant to
-section four hundred twenty-five of the economic development law.
-  * NB Effective until January 1, 2015
-  * (a) Allowance of credit. A taxpayer subject to tax under article
-nine-A, twenty-two or thirty-three of this chapter shall be allowed a
-credit against such tax, pursuant to the provisions referenced in
-subdivision (e) of this section. The amount of the credit, allowable for
-ten consecutive tax years, is equal to the amount determined pursuant to
-section four hundred twenty-five of the economic development law.
-  * NB Effective January 1, 2015
+  § 36. Empire state jobs retention program credit.  (a) Allowance of
+credit. A taxpayer subject to tax under article nine-A, twenty-two or
+thirty-three of this chapter shall be allowed a credit against such tax,
+pursuant to the provisions referenced in subdivision (e) of this
+section. The amount of the credit, allowable for ten consecutive tax
+years, is equal to the amount determined pursuant to section four
+hundred twenty-five of the economic development law.
   (b) Eligibility. To be eligible for the empire state jobs retention
 credit, the taxpayer shall have been issued a certificate of tax credit
 by the department of economic development pursuant to subdivision four
@@ -69,17 +61,9 @@ article twenty of the economic development law is revoked by such
 department, the amount of credit described in this section and claimed
 by the taxpayer prior to that revocation shall be added back to tax in
 the taxable year in which any such revocation becomes final.
-  * (e) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) article 9-A: section 210, subdivision 44;
-  (2) article 22: section 606, subsection (tt);
-  (3) article 32: section 1456, subsection (y);
-  (4) article 33, section 1511, subdivision (bb).
-  * NB Effective until January 1, 2015
-  * (e) Cross-references. For application of the credit provided for in
+  (e) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) article 9-A: section 210-B, subdivision 37;
   (2) article 22: section 606, subsection (tt);
   (3) article 33, section 1511, subdivision (bb).
-  * NB Effective January 1, 2015
 ```

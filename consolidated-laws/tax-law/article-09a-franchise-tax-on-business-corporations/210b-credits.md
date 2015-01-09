@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  * § 210-B. Credits. 1. Investment tax credit (ITC).  (a) A taxpayer
+  § 210-B. Credits. 1. Investment tax credit (ITC).  (a) A taxpayer
 shall be allowed a credit, to be computed as hereinafter provided,
 against the tax imposed by this article. The amount of the credit shall
 be the percent provided for hereinbelow of the investment credit base.
@@ -106,7 +106,7 @@ whether the property is principally used in qualifying uses, then either
 each affiliate using the property must satisfy this employment test or
 this employment test must be satisfied through the aggregation of the
 employees of the taxpayer, its affiliated regulated broker, dealer, and
-registered investment adviser using the property.  For purposes of this
+registered investment adviser using the property. For purposes of this
 subdivision, the term "goods" shall not include electricity.
   (ii) For purposes of this paragraph, the following definitions shall
 apply--
@@ -1664,9 +1664,9 @@ thousand six, against the tax imposed by this article. The credit
 allowed under this subdivision for any taxable year shall not reduce the
 tax due for such year to less than the fixed dollar minimum amount
 prescribed in paragraph (d) of subdivision one of section two hundred
-ten of this article.  However, if the amount of credit allowed under
-this subdivision for any taxable year reduces the tax to such amount or
-if the taxpayer otherwise pays tax based on the fixed dollar minimum
+ten of this article. However, if the amount of credit allowed under this
+subdivision for any taxable year reduces the tax to such amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
 amount, any amount of credit thus not deductible in such taxable year
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section one thousand eighty-six of
@@ -1761,7 +1761,7 @@ the provisions of this section, no carryover of credit allowable in a
 New York C year shall be deducted from the tax otherwise due under this
 article in a New York S year, and no credit allowable in a New York S
 year, or carryover of such credit, shall be deducted from the tax
-imposed by this article.  However, a New York S year shall be treated as
+imposed by this article. However, a New York S year shall be treated as
 a taxable year for purposes of determining the number of taxable years
 to which a credit may be carried over under this section.
 Notwithstanding the first sentence of this subdivision, however, the
@@ -2239,7 +2239,7 @@ of a credit allowed under a credit provision in section two hundred ten
 or article thirty-two of this chapter for a taxable year beginning prior
 to January first, two thousand fifteen if recapture would have been
 required under such credit provision.
-  ** 47. Musical and theatrical production credit. (a) Allowance of
+  * 47. Musical and theatrical production credit. (a) Allowance of
 credit. A taxpayer who is eligible pursuant to section twenty-four-a of
 this chapter shall be allowed a credit to be computed as provided in
 such section against the tax imposed by this article.
@@ -2253,8 +2253,8 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, further, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest shall be paid thereon.
-  ** NB Repealed March 31, 2018
-  ** 48. Workers with disabilities tax credit. (a) A qualified employer,
+  * NB Repealed March 31, 2018
+  * 48. Workers with disabilities tax credit. (a) A qualified employer,
 as defined in paragraph one of subdivision (b) of section twenty-five-b
 of the labor law, shall be entitled to a credit against the tax imposed
 by this article. The amount of the credit shall be: fifteen percent of
@@ -2293,6 +2293,5 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of this section, or subdivision (j) of
 section fifteen hundred eleven of this chapter.
-  ** NB Repealed January 1, 2020
-  * NB Effective January 1, 2015
+  * NB Repealed January 1, 2020
 ```

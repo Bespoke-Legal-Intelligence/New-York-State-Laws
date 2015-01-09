@@ -53,40 +53,22 @@ the filing of the claim or the making of the credit or refund, as the
 case may be, plus the portion of the tax paid within the period which
 would be applicable under subsection (a) if a claim had been filed on
 the date the agreement was executed.
-  (c) Notice of change or correction of federal income.-- * If a
-taxpayer is required by subdivision three of section two hundred eleven,
-subsection (e) of section fourteen hundred sixty-two or paragraph one of
-subdivision (e) of section fifteen hundred fifteen, to file a report or
-amended return in respect of (i) a decrease or increase in federal
-taxable income or federal alternative minimum taxable income or federal
-tax, or (ii) a federal change or correction or renegotiation, or
-computation or recomputation of tax, which is treated in the same manner
-as if it were an overpayment for federal income tax purposes, claim for
-credit or refund of any resulting overpayment of tax shall be filed by
-the taxpayer within two years from the time such report or amended
-return was required to be filed with the commissioner of taxation and
-finance. If the report or amended return required by any such provision
-of law is not filed within the period therein specified, no interest
-shall be payable on any claim for credit or refund of the overpayment
-attributable to the federal change or correction. The amount of such
-credit or refund--
-  * NB Effective until January 1, 2015
-  * If a taxpayer is required by subdivision three of section two
-hundred eleven or paragraph one of subdivision (e) of section fifteen
-hundred fifteen of this chapter, to file a report or amended return in
-respect of (i) a decrease or increase in federal taxable income or
-federal alternative minimum taxable income or federal tax, or (ii) a
-federal change or correction or renegotiation, or computation or
-recomputation of tax, which is treated in the same manner as if it were
-an overpayment for federal income tax purposes, claim for credit or
-refund of any resulting overpayment of tax shall be filed by the
-taxpayer within two years from the time such report or amended return
-was required to be filed with the commissioner. If the report or amended
-return required by any such provision of law is not filed within the
-period therein specified, no interest shall be payable on any claim for
-credit or refund of the overpayment attributable to the federal change
-or correction. The amount of such credit or refund--
-  * NB Effective January 1, 2015
+  (c) Notice of change or correction of federal income.-- If a taxpayer
+is required by subdivision three of section two hundred eleven or
+paragraph one of subdivision (e) of section fifteen hundred fifteen of
+this chapter, to file a report or amended return in respect of (i) a
+decrease or increase in federal taxable income or federal alternative
+minimum taxable income or federal tax, or (ii) a federal change or
+correction or renegotiation, or computation or recomputation of tax,
+which is treated in the same manner as if it were an overpayment for
+federal income tax purposes, claim for credit or refund of any resulting
+overpayment of tax shall be filed by the taxpayer within two years from
+the time such report or amended return was required to be filed with the
+commissioner. If the report or amended return required by any such
+provision of law is not filed within the period therein specified, no
+interest shall be payable on any claim for credit or refund of the
+overpayment attributable to the federal change or correction. The amount
+of such credit or refund--
   (1) shall be computed without change of the allocation of income or
 capital upon which the taxpayer's return (or any additional assessment)
 was based, and

@@ -4,29 +4,18 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  * § 31. Excelsior jobs program credit. ** (a) General. A taxpayer
+  * § 31. Excelsior jobs program credit.  **(a) General. A taxpayer
 subject to tax under section one hundred eighty-five, article nine-A,
-twenty-two, thirty-two or thirty-three of this chapter shall be allowed
-a credit against such tax, pursuant to the provisions referenced in
-subdivision (g) of this section. The amount of the credit, allowable for
-up to ten consecutive taxable years, is the sum of the following four
-credit components:
+twenty-two or thirty-three of this chapter shall be allowed a credit
+against such tax, pursuant to the provisions referenced in subdivision
+(g) of this section. The amount of the credit, allowable for up to ten
+consecutive taxable years, is the sum of the following four credit
+components:
   (1) the excelsior jobs tax credit component;
   (2) the excelsior investment tax credit component;
   (3) the excelsior research and development tax credit component; and
   (4) the excelsior real property tax credit component.
-  ** NB Effective until January 1, 2015
-  **(a) General. A taxpayer subject to tax under section one hundred
-eighty-five, article nine-A, twenty-two or thirty-three of this chapter
-shall be allowed a credit against such tax, pursuant to the provisions
-referenced in subdivision (g) of this section. The amount of the credit,
-allowable for up to ten consecutive taxable years, is the sum of the
-following four credit components:
-  (1) the excelsior jobs tax credit component;
-  (2) the excelsior investment tax credit component;
-  (3) the excelsior research and development tax credit component; and
-  (4) the excelsior real property tax credit component.
-  ** NB Effective January 1, 2015 until January 1, 2018
+  ** NB Effective until January 1, 2018
   ** (a) General. A taxpayer subject to tax under article nine-A,
 twenty-two or thirty-three of this chapter shall be allowed a credit
 against such tax, pursuant to the provisions referenced in subdivision
@@ -53,11 +42,10 @@ be attached to the taxpayer's return. No cost or expense paid or
 incurred by the taxpayer shall be the basis for more than one component
 of this credit or any other tax credit, except as provided in section
 three hundred fifty-five of the economic development law.
-  ** (c) Election of credit. A taxpayer who or which is qualified to
-claim the excelsior investment tax credit component and is also
-qualified to claim the investment tax credit provided for under
-subdivision twelve of section two hundred ten, subsection (a) of section
-six hundred six, or subsection (i) of section fourteen hundred fifty-six
+  (c) Election of credit. A taxpayer who or which is qualified to claim
+the excelsior investment tax credit component and is also qualified to
+claim the investment tax credit provided for under subdivision one of
+section two hundred ten-B or subsection (a) of section six hundred six
 of this chapter, may claim either the excelsior investment tax credit
 component or the investment tax credit, but not both with regard to a
 particular piece of property. In addition, a taxpayer who or which is
@@ -70,24 +58,6 @@ component, but not both with regard to a particular piece of property.
 The election to claim the excelsior investment tax credit component, the
 investment tax credit or the brownfield tangible property credit
 component, with regard to the same property, is irrevocable.
-  ** NB Effective until January 1, 2015
-  ** (c) Election of credit. A taxpayer who or which is qualified to
-claim the excelsior investment tax credit component and is also
-qualified to claim the investment tax credit provided for under
-subdivision one of section two hundred ten-B or subsection (a) of
-section six hundred six of this chapter, may claim either the excelsior
-investment tax credit component or the investment tax credit, but not
-both with regard to a particular piece of property. In addition, a
-taxpayer who or which is qualified to claim the excelsior investment tax
-credit component and is also qualified to claim the brownfield tangible
-property credit component under section twenty-one of this article, as
-added by chapter one of the laws of two thousand three, may claim either
-the excelsior investment tax credit component or such tangible property
-credit component, but not both with regard to a particular piece of
-property.  The election to claim the excelsior investment tax credit
-component, the investment tax credit or the brownfield tangible property
-credit component, with regard to the same property, is irrevocable.
-  ** NB Effective January 1, 2015
   (d) Information sharing. Notwithstanding any provision of this
 chapter, employees and officers of the department of economic
 development and the department shall be allowed and are directed to
@@ -148,21 +118,12 @@ realizes job creation less than the estimated amount, the credit
 described in this section allowed in that year shall be reduced by the
 proportion of actual job creation to the estimated amount, provided the
 proportion is at least seventy-five percent of the jobs estimated.
-  ** (g) Cross-references. For application of the credit provided for in
+  (g) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
-  (1) article 9: section 187-q.
-  (2) article 9-A: section 210: subdivision 41.
-  (3) article 22: section 606: subsection (qq).
-  (4) article 32: section 1456: subsection (u).
-  (5) article 33: section 1511: subdivision (y).
-  ** NB Effective until January 1, 2015
-  ** (g) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  *** (1) article 9: section 187-q.
-  *** NB Repealed January 1, 2018
+  ** (1) article 9: section 187-q.
+  ** NB Repealed January 1, 2018
   (2) article 9-A: section 210-B: subdivision 31.
   (3) article 22: section 606: subsection (qq).
   (4) article 33: section 1511: subdivision (y).
-  ** NB Effective January 1, 2015
   * NB There are 2 § 31's
 ```

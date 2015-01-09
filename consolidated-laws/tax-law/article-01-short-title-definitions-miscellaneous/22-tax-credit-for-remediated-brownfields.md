@@ -13,37 +13,7 @@ the commissioner of environmental conservation pursuant to section
 is a site with respect to which a certificate of completion has been
 issued by the commissioner of environmental conservation pursuant to
 section 27-1419 of the environmental conservation law.
-  * (3) Developer. (i) A "developer" is a taxpayer under article nine,
-nine-A, twenty-two, thirty-two or thirty-three of this chapter who or
-which either (I) has been issued a certificate of completion with
-respect to a qualified site or (II) has purchased or in any other way
-has been conveyed all or any portion of a qualified site from a taxpayer
-or any other party who or which has been issued a certificate of
-completion with respect to such site provided, such purchase or
-conveyance occurs within seven years of the effective date of the
-certificate of completion issued with respect to such qualified site.
-Provided further, that the taxpayer who or which is purchasing all or
-any portion of a qualified site and the taxpayer or any other party who
-or which has been issued a certificate of completion with respect to
-such site may not be related persons, as such term is defined in
-subparagraph (C) of paragraph three of subsection (b) of section four
-hundred sixty-five of the internal revenue code.
-  (ii) Where the entity to whom a certificate of completion has been
-issued is a partnership, or where the entity which has purchased all or
-any portion of a qualified site from a taxpayer who or which has been
-issued a certificate of completion with respect to such site within the
-applicable time limit is a partnership, any partner in such partnership
-who or which is taxable under article nine, nine-A, twenty-two,
-thirty-two or thirty-three of this chapter shall be a developer under
-this paragraph. Where the entity to whom a certificate of completion has
-been issued is a New York S corporation, or where the entity which has
-purchased all or any portion of a qualified site from a taxpayer who or
-which has been issued a certificate of completion with respect to such
-site within the applicable time limit is a New York S corporation, any
-shareholder in such New York S corporation shall be a developer under
-this paragraph.
-  * NB Effective until January 1, 2015
-  * (3) Developer. (i) A "developer" is a taxpayer under article nine,
+  (3) Developer. (i) A "developer" is a taxpayer under article nine,
 nine-A, twenty-two or thirty-three of this chapter who or which either
 (I) has been issued a certificate of completion with respect to a
 qualified site or (II) has purchased or in any other way has been
@@ -71,7 +41,6 @@ any portion of a qualified site from a taxpayer who or which has been
 issued a certificate of completion with respect to such site within the
 applicable time limit is a New York S corporation, any shareholder in
 such New York S corporation shall be a developer under this paragraph.
-  * NB Effective January 1, 2015
   (4) Cessation of status. A taxpayer shall cease to be a developer on
 the first day of the taxable year during which revocation of its
 certificate of completion under section 27-1419 of the environmental
@@ -105,19 +74,11 @@ was the subject of a brownfield site cleanup agreement pursuant to
 section 27-1409 of the environmental conservation law that was entered
 into prior to September first, two thousand ten.
   (b) Remediated brownfield credit for real property taxes for qualified
-sites. * (1) Allowance of credit. A developer of a qualified site who or
-which is subject to tax under article nine, nine-A, twenty-two,
-thirty-two or thirty-three of this chapter, shall be allowed a credit
-against such tax, pursuant to the provisions referenced in paragraph
-nine of this subdivision, for eligible real property taxes imposed on
-such site.
-  * NB Effective until January 1, 2015
-  * (1) Allowance of credit. A developer of a qualified site who or
+sites.  (1) Allowance of credit. A developer of a qualified site who or
 which is subject to tax under article nine, nine-A, twenty-two or
 thirty-three of this chapter, shall be allowed a credit against such
 tax, pursuant to the provisions referenced in paragraph nine of this
 subdivision, for eligible real property taxes imposed on such site.
-  * NB Effective January 1, 2015
   (2) Amount of credit. The amount of the credit shall be twenty-five
 percent of the product of (i) the benefit period factor, (ii) the
 employment number factor, and (iii) the eligible real property taxes
@@ -244,19 +205,10 @@ fifteen of this article, in a taxable year preceding the first taxable
 year such taxpayer is allowed to claim a credit under this section,
 shall not be precluded from making the election provided for in this
 paragraph.
-  *(9) Cross-references. For application of the credit provided for in
-this subdivision, see the following provisions of this chapter:
-  (i) Article 9: Section 187-h.
-  (ii) Article 9-A: Section 210: subdivision 34.
-  (iii) Article 22: Section 606: subsections (i) and (ee).
-  (iv) Article 32: Section 1456: subsection (r).
-  (v) Article 33: Section 1511: subdivision (v).
-  * NB Effective until January 1, 2015
-  * (9) Cross-references. For application of the credit provided for in
+  (9) Cross-references. For application of the credit provided for in
 this subdivision, see the following provisions of this chapter:
   (i) Article 9: Section 187-h.
   (ii) Article 9-A: Section 210-B: subdivision 18.
   (iii) Article 22: Section 606: subsections (i) and (ee).
   (iv) Article 33: Section 1511: subdivision (v).
-  * NB Effective January 1, 2015
 ```

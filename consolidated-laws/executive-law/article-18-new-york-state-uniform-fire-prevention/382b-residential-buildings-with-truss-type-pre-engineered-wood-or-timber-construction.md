@@ -4,8 +4,8 @@
 [Executive Law](../README.md) › [Article 18 — New York State Uniform Fire Prevention and Building Code Act](README.md)
 
 ```text
-  * § 382-b. Residential buildings with truss type, pre-engineered wood
-or timber construction; notice requirements. 1. a. Any person utilizing
+  § 382-b. Residential buildings with truss type, pre-engineered wood or
+timber construction; notice requirements. 1. a. Any person utilizing
 truss type, pre-engineered wood or timber construction for the erection
 of any new residential structure, for any addition to an existing
 residential structure, or for any rehabilitation of an existing
@@ -61,5 +61,4 @@ section by agreement pursuant to article five-G of the general municipal
 law.
   5. The provisions of this section shall not apply to any city with a
 population of one million or more persons.
-  * NB Effective January 1, 2015
 ```

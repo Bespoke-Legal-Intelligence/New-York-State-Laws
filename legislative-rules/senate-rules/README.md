@@ -17,15 +17,15 @@
 ```text
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2013-2014
-Rules  of  the  Senate  for  the  year  2013-2014,  as adopted by Senate
-Resolution number 1 of 2013 and as amended by Senate Resolution  314  of
-2013.
-  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
-Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
+                                2015-2016
+Rules  of  the  Senate  for  the  year  2015-2016,  as adopted by Senate
+Resolution number 5 of 2015.
+  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
+Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 ```
 
-[Full chapter text (2,374 lines)](chapter-text.md)
+[Full chapter text (2,378 lines)](chapter-text.md)
 
 ## Contents
 

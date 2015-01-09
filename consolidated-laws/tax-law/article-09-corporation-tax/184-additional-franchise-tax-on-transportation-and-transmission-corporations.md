@@ -5,173 +5,13 @@
 
 ```text
   § 184. Additional franchise tax on transportation and transmission
-corporations and associations.-- * 1. The term "corporation" as used in
+corporations and associations.-- 1. The term "corporation" as used in
 this section shall include an association, within the meaning of
 paragraph three of subsection (a) of section seventy-seven hundred one
 of the internal revenue code (including a limited liability company), a
 publicly traded partnership treated as a corporation for purposes of the
 internal revenue code pursuant to section seventy-seven hundred four
 thereof.
-  Every corporation, joint-stock company or association formed for or
-principally engaged in the conduct of canal, steamboat, ferry (except a
-ferry company operating between any of the boroughs of the city of New
-York under a lease granted by the city), express, navigation, pipe line,
-transfer, baggage express, omnibus, taxicab, telegraph or local
-telephone business, or formed for or principally engaged in the conduct
-of two or more of such businesses, and every corporation, joint-stock
-company or association formed for or principally engaged in the conduct
-of surface railroad, whether or not operated by steam, subway railroad,
-elevated railroad, palace car, sleeping car or trucking business or
-formed for or principally engaged in the conduct of two or more such
-businesses and which has made an election pursuant to subdivision ten of
-section one hundred eighty-three of this article, and every other
-corporation, joint-stock company or association formed for or
-principally engaged in the conduct of a transportation or transmission
-business (other than a telephone business), except a corporation,
-joint-stock company or association formed for or principally engaged in
-the conduct of a surface railroad, whether or not operated by steam,
-subway railroad, elevated railroad, palace car, sleeping car or trucking
-business or formed for or principally engaged in the conduct of two or
-more of such businesses and which has not made the election provided for
-in subdivision ten of section one hundred eighty-three of this article,
-and, except a corporation, joint-stock company or association
-principally engaged in the conduct of aviation (including air freight
-forwarders acting as principal and like indirect air carriers) and
-except a corporation principally engaged in providing telecommunication
-services between aircraft and dispatcher, aircraft and air traffic
-control or ground station and ground station (or any combination of the
-foregoing), at least ninety percent of the voting stock of which
-corporation is owned, directly or indirectly, by air carriers and which
-corporation's principal function is to fulfill the requirements of (i)
-the federal aviation administration (or the successor thereto) or (ii)
-the international civil aviation organization (or the successor
-thereto), relating to the existence of a communication system between
-aircraft and dispatcher, aircraft and air traffic control or ground
-station and ground station (or any combination of the foregoing) for the
-purposes of air safety and navigation and except a corporation,
-joint-stock company or association which is liable to taxation under
-article thirty-two of this chapter, for the privilege of exercising its
-corporate franchise, or of doing business, or of employing capital, or
-of owning or leasing property in this state in a corporate or organized
-capacity, or maintaining an office in this state, shall pay a franchise
-tax which shall be equal to (i) three-quarters of one percent for
-taxable years ending before two thousand one, provided that for a
-taxable year ending in two thousand the rate shall be reduced to
-three-eighths of one percent effective July first, two thousand with the
-result that for purposes of implementation of such change in rate the
-applicable rate for such a year shall be nine-sixteenths of one percent,
-and (ii) three-eighths of one percent for taxable years commencing after
-two thousand, upon its gross earnings from all sources within this
-state; except that, for taxable years commencing on or after January
-first, nineteen hundred eighty-five and ending on or before December
-thirty-first, nineteen hundred eighty-nine, every corporation,
-joint-stock company or association formed for or principally engaged in
-the conduct of telephone or telegraph business shall pay a franchise tax
-which shall be equal to three-tenths of one per centum upon its gross
-earnings from all sources within this state and, for taxable years
-commencing on or after January first, nineteen hundred ninety, every
-corporation, joint-stock company or association formed for or
-principally engaged in the conduct of local telephone business, or
-telegraph business shall pay a franchise tax which shall be equal to (i)
-three-quarters of one percent for taxable years ending before two
-thousand one, provided that for a taxable year ending in two thousand
-the rate shall be reduced to three-eighths of one percent effective July
-first, two thousand with the result that for purposes of implementation
-of such change in rate the applicable rate for such a year shall be
-nine-sixteenths of one percent, and (ii) three-eighths of one percent
-for taxable years commencing after two thousand, upon its gross earnings
-from all sources within this state, except that a corporation,
-joint-stock company or association formed for or principally engaged in
-the conduct of a local telephone business shall exclude the following
-earnings (but not in any event earnings derived by such taxpayer from
-the provision of carrier access services) derived by such taxpayer from
-sales for ultimate consumption of telecommunications service to its
-customers (i) thirty percent of separately charged intra-LATA toll
-service (which shall also include interregion regional calling plan
-service) and (ii) one hundred percent of separately charged inter-LATA,
-interstate or international telecommunications service; and except that
-corporations, joint-stock companies or associations formed for or
-principally engaged in the conduct of surface railroad, whether or not
-operated by steam, subway railroad, elevated railroad, palace car or
-sleeping car, business or any other corporation formed for or
-principally engaged in the conduct of a railroad business, for taxable
-years prior to nineteen hundred ninety-seven, and corporations,
-joint-stock companies or associations formed for or principally engaged
-in the conduct of canal, steamboat, ferry (except a ferry company
-operating between any of the boroughs of the city of New York under a
-lease granted by the city), navigation or any corporation formed for or
-principally engaged in the operation of vessels, shall pay a franchise
-tax which shall be equal to three-quarters of one per centum upon its
-gross earnings from all sources within this state, excluding earnings
-derived from business of an interstate or foreign character; except that
-for taxable years beginning in nineteen hundred ninety-seven or
-thereafter, in the case of a corporation, joint-stock company or
-association which, with respect to taxable years beginning after
-nineteen hundred ninety-seven, has made an election pursuant to
-subdivision ten of section one hundred eighty-three of this article and
-which is formed for or principally engaged in the conduct of surface
-railroad, whether or not operated by steam, subway railroad, elevated
-railroad, palace car, sleeping car or trucking business or formed for or
-principally engaged in the conduct of two or more of such businesses,
-such corporation, joint-stock company or association shall pay a
-franchise tax which shall be equal to (i) six-tenths of one percent for
-taxable years ending before two thousand one, provided that for a
-taxable year ending in two thousand the rate shall be reduced to
-three-eighths of one percent effective July first, two thousand with the
-result that for purposes of implementation of such change in rate the
-applicable rate for such a year shall be thirty-nine eightieths of one
-percent, and (ii) three-eighths of one percent for taxable years
-commencing after two thousand, upon its gross earnings from all sources
-within this state, provided that in the case of a corporation,
-joint-stock company or association formed for or principally engaged in
-the conduct of surface railroad, whether or not operated by steam,
-subway railroad, elevated railroad, palace car or sleeping car business,
-or formed for or principally engaged in the conduct of two or more of
-such businesses, such gross earnings shall not include earnings derived
-from business of an interstate or foreign character.
-  Provided, however, with respect to railroad, elevated railroad, palace
-car or sleeping car business or any other corporation formed for or
-principally engaged in the conduct of a railroad business and canal,
-steamboat, ferry (except a ferry company operating between any of the
-boroughs of the city of New York under a lease granted by the city),
-navigation or any corporation formed for or principally engaged in the
-operation of vessels where the gross earnings from such transportation
-business both originating and terminating within this state and
-traversing both this state and another state or states or country shall
-be subject to the franchise tax imposed by this section (except where
-such corporation, joint-stock company or association is formed for or
-principally engaged in the conduct of a railroad (including surface
-railroad, whether or not operated by steam, subway railroad or elevated
-railroad), palace car or sleeping car business or formed for or
-principally engaged in the conduct of two or more of such businesses,
-and has not made the election provided for under subdivision ten of
-section one hundred eighty-three of this article) and such earnings
-shall be allocated to this state in the same ratio that the mileage
-within the state bears to the total mileage of such business. Provided,
-further, a corporation, joint-stock company or association formed for or
-principally engaged in the transportation, transmission or distribution
-of gas, electricity or steam shall not be subject to tax under this
-section or section one hundred eighty-three of this article.
-  The term "local telephone business" means the provision or furnishing
-of telecommunication services for hire wherein the service furnished by
-the provider thereof consists of carrier access service or the service
-originates and terminates within the same local access and transport
-area ("LATA"), a local access and transport area being that geographic
-area as established and approved, and as so set and in existence on July
-first, nineteen hundred ninety-four, pursuant to the modification of
-final judgment in United States v. Western Electric Company (civil
-action no. 82-0192) in the United States district court for the District
-of Columbia or within the LATA-like Rochester non-associated independent
-area.
-  The term "telecommunication services" shall have the meaning ascribed
-to such term in section one hundred eighty-six-e of this article.
-  * NB Effective until January 1, 2015
-  * 1. The term "corporation" as used in this section shall include an
-association, within the meaning of paragraph three of subsection (a) of
-section seventy-seven hundred one of the internal revenue code
-(including a limited liability company), a publicly traded partnership
-treated as a corporation for purposes of the internal revenue code
-pursuant to section seventy-seven hundred four thereof.
   Every corporation, joint-stock company or association formed for or
 principally engaged in the conduct of canal, steamboat, ferry (except a
 ferry company operating between any of the boroughs of the city of New
@@ -295,7 +135,6 @@ of Columbia or within the LATA-like Rochester non-associated independent
 area.
   The term "telecommunication services" shall have the meaning ascribed
 to such term in section one hundred eighty-six-e of this article.
-  * NB Effective January 1, 2015
   1-a. Where a taxpayer is a partner, member or associate of a publicly
 traded partnership or an association which is subject to the tax imposed
 under this section, the amount to be included in such taxpayer's gross

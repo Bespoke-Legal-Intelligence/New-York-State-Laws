@@ -4,8 +4,8 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  * § 210-A. Apportionment. 1. General. Business income and capital
-shall be apportioned to the state by the apportionment factor determined
+  § 210-A. Apportionment. 1. General. Business income and capital shall
+be apportioned to the state by the apportionment factor determined
 pursuant to this section. The apportionment factor is a fraction,
 determined by including only those receipts, net income, net gains, and
 other items described in this section that are included in the
@@ -643,5 +643,4 @@ apportionment fraction determined pursuant to this section does not
 result in a proper reflection of the taxpayer's business income or
 capital within the state and that the proposed adjustment is
 appropriate.
-  * NB Effective January 1, 2015
 ```

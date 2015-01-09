@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1452", "kind": "section", "law_id": "TAX", "location_id": "1452", "path": "ARTICLE 32 › SECTION 1452", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1452.md", "title": "Banking corporation defined; exempt corporations"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1452", "kind": "section", "law_id": "TAX", "location_id": "1452", "path": "ARTICLE 32 › SECTION 1452", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1452.md", "title": "Banking corporation defined; exempt corporations"} -->
 # Tax Law § 1452 — Banking corporation defined; exempt corporations
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1452. Banking corporation defined; exempt corporations. (a) For

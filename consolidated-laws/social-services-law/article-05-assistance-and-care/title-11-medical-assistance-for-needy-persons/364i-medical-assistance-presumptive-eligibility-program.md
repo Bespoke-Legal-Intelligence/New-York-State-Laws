@@ -193,8 +193,8 @@ preceding the month of application for medical assistance and the
 recipient is determined to have been eligible in the month in which the
 care or service was received, or (b) as provided for in this section or
 regulations of the department.
-  * 8. (a) The following individuals shall be presumed to be eligible
-for medical assistance under this title beginning on the date that a
+  8. (a) The following individuals shall be presumed to be eligible for
+medical assistance under this title beginning on the date that a
 qualified hospital, as defined in paragraph (b) of this subdivision,
 determines, on the basis of preliminary information, that:
   (1) a child has MAGI household income that does not exceed the
@@ -262,5 +262,4 @@ sixty-five-a of this title, that are furnished to an individual during a
 presumptive eligibility period under this subdivision by an entity that
 is eligible for payments under this title shall be deemed to be medical
 assistance for purposes of payment and state reimbursement.
-  * NB Effective January 1, 2015
 ```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,148 |
-| Last changed | 26 Dec 2014 |
+| Sections | 1,148 (20 repealed) |
+| Last changed | 9 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (90 lines)](chapter-text.md)
+[Full chapter text (89 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Jan 2015](../../changes/2015/2015-01-09.md): 64 amended, 20 repealed
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 2 amended
 - [14 Nov 2014](../../changes/2014/2014-11-14.md): 1 added
 - [17 Oct 2014](../../changes/2014/2014-10-17.md): 1 amended
@@ -85,7 +86,7 @@ Assembly, do enact as follows:
 - [Article 31-E — Tax On Real Estate Transfers In the County of Nassau](article-31e-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-F — Tax On Real Estate Transfers In the Town of Warwick](article-31f-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-G — Tax On Real Estate Transfers In the County of Tompkins](article-31g-tax-on-real-estate-transfers-in-the-county/)
-- [Article 32 — Franchise Tax On Banking Corporations](article-32-franchise-tax-on-banking-corporations/)
+- [Article 32 — Franchise Tax On Banking Corporations](article-32-franchise-tax-on-banking-corporations/) *(repealed)*
 - [Article 33 — Franchise Taxes On Insurance Corporations](article-33-franchise-taxes-on-insurance-corporations/)
 - [Article 33-A — Tax On Independently Procured Insurance](article-33a-tax-on-independently-procured-insurance/)
 - [Article 33-B — Tax On Real Estate Transfers In Towns](article-33b-tax-on-real-estate-transfers-in-towns/)

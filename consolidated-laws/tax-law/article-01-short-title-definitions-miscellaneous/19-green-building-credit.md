@@ -5,36 +5,20 @@
 
 ```text
   § 19. Green building credit. (a) Allowance of credit. (1) General.
-* (A) Green building credit. A taxpayer subject to tax under article
-nine, nine-A, twenty-two, thirty-two or thirty-three of this chapter
-shall be allowed a green building credit against such tax, pursuant to
-the provisions referenced in subdivision (f) of this section. Provided,
-however, no credit shall be allowed under this section unless the
-taxpayer has complied with the applicable requirements of paragraph two
-of subdivision (d) of this section (relating to reports to DEC). The
-amount of the credit shall be the sum of the credit components specified
-in paragraphs two through seven of this subdivision. Provided, however,
-the amount of each such credit component shall not exceed the limit set
+(A) Green building credit. A taxpayer subject to tax under article nine,
+nine-A, twenty-two or thirty-three of this chapter shall be allowed a
+green building credit against such tax, pursuant to the provisions
+referenced in subdivision (f) of this section. Provided, however, no
+credit shall be allowed under this section unless the taxpayer has
+complied with the applicable requirements of paragraph two of
+subdivision (d) of this section (relating to reports to DEC). The amount
+of the credit shall be the sum of the credit components specified in
+paragraphs two through seven of this subdivision. Provided, however, the
+amount of each such credit component shall not exceed the limit set
 forth in the initial credit component certificate obtained pursuant to
 subdivision (c) of this section. In the determination of such credit
 components, no cost paid or incurred by the taxpayer shall be the basis
 for more than one such component.
-  * NB Effective until January 1, 2015
-  * (A) Green building credit. A taxpayer subject to tax under article
-nine, nine-A, twenty-two or thirty-three of this chapter shall be
-allowed a green building credit against such tax, pursuant to the
-provisions referenced in subdivision (f) of this section. Provided,
-however, no credit shall be allowed under this section unless the
-taxpayer has complied with the applicable requirements of paragraph two
-of subdivision (d) of this section (relating to reports to DEC). The
-amount of the credit shall be the sum of the credit components specified
-in paragraphs two through seven of this subdivision. Provided, however,
-the amount of each such credit component shall not exceed the limit set
-forth in the initial credit component certificate obtained pursuant to
-subdivision (c) of this section. In the determination of such credit
-components, no cost paid or incurred by the taxpayer shall be the basis
-for more than one such component.
-  * NB Effective January 1, 2015
   (B) Credit to successor owner. If a credit is allowed to a building
 owner pursuant to this subdivision with respect to property, and such
 property (or an interest therein) is sold, the credit for the period
@@ -256,7 +240,7 @@ an empire zone pursuant to article eighteen-B of the general municipal
 law or (B) an empowerment zone or enterprise community pursuant to
 section 1391 of the Internal Revenue Code.
   (6) "Eligible building" means a building located in this state which
-is :
+is:
   (A) classified B2, B3, B4, C1, C2, C5, or C6 for purposes of the New
 York state uniform fire prevention and building code or similarly
 classified under any subsequent code; provided that any such building
@@ -557,19 +541,19 @@ $ 4 million                                  2011
 $ 3 million                                  2012
 $ 2 million                                  2013
 $ 1 million                                  2014
-Provided,  however,  that  if  as  of  the  end  of  a  calendar   year,
-certificates  for credit component amounts totaling less than the amount
+Provided,   however,  that  if  as  of  the  end  of  a  calendar  year,
+certificates for credit component amounts totaling less than the  amount
 permitted with respect to taxable years commencing in such calendar year
-have been issued, then the amount  permitted  with  respect  to  taxable
-years  commencing  in the subsequent calendar year shall be augmented by
-the amount of such shortfall. Provided, further, that if at the  end  of
-calendar  year  two  thousand  nine,  certificates  for credit component
-amounts issued by the DEC have totaled  less  than  twenty-five  million
-dollars  for  calendar years 2005-2009, then the period to issue initial
-credit component certificates shall be extended to the end  of  calendar
-year  two  thousand  ten  and the DEC shall be permitted to issue in two
-thousand ten initial credit  component  certificates  for  amounts  that
-equal  the  difference  between  the  amounts  issued for calendar years
+have  been  issued,  then  the  amount permitted with respect to taxable
+years commencing in the subsequent calendar year shall be  augmented  by
+the  amount  of such shortfall. Provided, further, that if at the end of
+calendar year two  thousand  nine,  certificates  for  credit  component
+amounts  issued  by  the  DEC have totaled less than twenty-five million
+dollars for calendar years 2005-2009, then the period to  issue  initial
+credit  component  certificates shall be extended to the end of calendar
+year two thousand ten and the DEC shall be permitted  to  issue  in  two
+thousand  ten  initial  credit  component  certificates for amounts that
+equal the difference between  the  amounts  issued  for  calendar  years
 2005-2009 and twenty-five million dollars.
   (c) For purposes of either period one or two, if a taxpayer who is
 issued an initial credit component certificate is unable to claim as a
@@ -769,18 +753,7 @@ section, DEC, in consultation with DOH and NYSERDA, shall promulgate
 regulations, with respect to tenant space, indicating the methodology by
 which taxpayers shall demonstrate compliance with subparagraph (B) of
 paragraph eleven of subdivision (b) of this section.
-  * (f) Cross-references. For application of the credit provided for in
-this section, see the following provisions of this chapter:
-  (1) Article nine: Section one hundred eighty-seven-d;
-  (2) Article nine-A: Subdivision thirty-one of section two hundred ten;
-  (3) Article twenty-two: Subsections (i) and (y) of section six hundred
-six;
-  (4) Article thirty-two: Subsection (m) of section fourteen hundred
-fifty-six;
-  (5) Article thirty-three: Subdivision (o) of section fifteen hundred
-eleven.
-  * NB Effective until January 1, 2015
-  * (f) Cross-references. For application of the credit provided for in
+  (f) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
   (1) Article nine: Section one hundred eighty-seven-d;
   (2) Article nine-A: Subdivision sixteen of section two hundred ten-B;
@@ -788,5 +761,4 @@ this section, see the following provisions of this chapter:
 six;
   (4) Article thirty-three: Subdivision (o) of section fifteen hundred
 eleven.
-  * NB Effective January 1, 2015
 ```

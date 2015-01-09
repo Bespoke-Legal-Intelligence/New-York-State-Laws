@@ -116,47 +116,7 @@ commissioner deems such return necessary because of intercompany
 transactions or some agreement, understanding, arrangement or
 transaction referred to in subdivision (g) of this section, in order
 properly to reflect the tax liability under this article.
-  * (4)(i) For purposes of this paragraph, the term "closest controlling
-stockholder" means the corporation that indirectly owns or controls over
-fifty percent of the voting stock of a captive REIT or captive RIC, is
-subject to tax under section fifteen hundred one of this article,
-article nine-A or article thirty-two of this chapter or required to be
-included in a combined return or report under this article, article
-nine-A or article thirty-two of this chapter, and is the fewest tiers of
-corporations away in the ownership structure from the captive REIT or
-captive RIC. The commissioner is authorized to prescribe by regulation
-or published guidance the criteria for determining the closest
-controlling stockholder.
-  (ii) A captive REIT or a captive RIC must be included in a combined
-return with the corporation that directly owns or controls over fifty
-percent of the voting stock of the captive REIT or captive RIC if that
-corporation is a life insurance corporation and is subject to tax or
-required to be included in a combined return under this article.
-  (iii) If over fifty percent of the voting stock of a captive REIT or
-captive RIC is not directly owned or controlled by a life insurance
-corporation that is subject to tax or required to be included in a
-combined return under this article, then the captive REIT or captive RIC
-must be included in a combined report or return with the corporation
-that is the closest controlling stockholder of the captive REIT or
-captive RIC. If the closest controlling stockholder of the captive REIT
-or captive RIC is a life insurance corporation that is subject to tax or
-required to be included in a combined return under this article, then
-the captive REIT or captive RIC must be included in a combined return
-under this article.
-  (iv) If a captive REIT owns the stock of a qualified REIT subsidiary
-(as defined in paragraph two of subsection (i) of section eight hundred
-fifty-six of the internal revenue code), then the qualified REIT
-subsidiary must be included in any combined return required to be made
-by the captive REIT that owns the stock of the qualified REIT
-subsidiary.
-  (v) If a captive REIT or a captive RIC is required under this
-paragraph to be included in a combined return with another corporation,
-and that other corporation is required to be included in a combined
-return with another related corporation under this subdivision, then the
-captive REIT or the captive RIC must be included in that combined return
-with the other related corporation.
-  * NB Effective until January 1, 2015
-  * (4)(i) For purposes of this paragraph, the term "closest controlling
+  (4)(i) For purposes of this paragraph, the term "closest controlling
 stockholder" means the corporation that indirectly owns or controls over
 fifty percent of the voting stock of a captive REIT or captive RIC, is
 subject to tax under section fifteen hundred one of this article or
@@ -193,7 +153,6 @@ and that other corporation is required to be included in a combined
 return with another corporation under this subdivision, then the captive
 REIT or the captive RIC must be included in that combined return with
 the other corporation.
-  * NB Effective January 1, 2015
   (5)(i) In the case of a combined return, the tax shall be measured by
 the combined entire net income or combined capital of all the
 corporations included in the return, including any captive REIT or

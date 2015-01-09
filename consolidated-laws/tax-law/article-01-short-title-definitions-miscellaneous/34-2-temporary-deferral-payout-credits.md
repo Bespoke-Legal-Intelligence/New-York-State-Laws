@@ -35,23 +35,8 @@ thousand sixteen, the taxpayer shall be allowed to claim a credit equal
 to the remaining balance of the amount accumulated. The credit shall be
 allowed against the taxpayer's tax as provided in the provisions
 referenced in paragraph (b) of subdivision three of this section.
-  ** 3. (a) For application of the temporary deferral nonrefundable
-payout credit, see the following provisions of this chapter:
-  (1) Article 9: section 187-0
-  (2) Article 9-A: section 210(41)
-  (3) Article 22: section 606(qq)
-  (4) Article 32: section 1456(v)
-  (5) Article 33: section 1511(y)
-  (b) For application of the temporary deferral refundable payout
+  3. (a) For application of the temporary deferral nonrefundable payout
 credit, see the following provisions of this chapter:
-  (1) Article 9: section 187-p
-  (2) Article 9-A: section 210(42)
-  (3) Article 22: section 606(rr)
-  (4) Article 32: section 1456(w)
-  (5) Article 33: section 1511(z)
-  ** NB Effective until January 1, 2015
-  ** 3. (a) For application of the temporary deferral nonrefundable
-payout credit, see the following provisions of this chapter:
   (1) Article 9: section 187-o
   (2) Article 9-A: section 210-B(33)
   (3) Article 22: section 606(qq)
@@ -62,6 +47,5 @@ credit, see the following provisions of this chapter:
   (2) Article 9-A: section 210-B(34)
   (3) Article 22: section 606(rr)
   (4) Article 33: section 1511(z)
-  ** NB Effective January 1, 2015
   * NB There are 2 § 34's
 ```

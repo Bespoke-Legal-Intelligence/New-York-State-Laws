@@ -52,16 +52,7 @@ corporation. Blank forms of reports shall be furnished by the
 commissioner of taxation and finance, on application, but failure to
 secure such a blank shall not release any corporation from the
 obligation of making any report required by this article.
-  * 2-a. The tax commission may prescribe regulations and instructions
-requiring returns of information to be made and filed in conjunction
-with the reports required to be filed pursuant to section two hundred
-eleven, relating to payments made to shareholders owning, directly or
-indirectly, individually or in the aggregate, more than fifty percent of
-the issued capital stock of the taxpayer, where such payments are
-treated as payments of interest in the computation of entire net income
-or minimum taxable income reported on such reports.
-  * NB Effective until January 1, 2015
-  * 2-a. The commissioner may prescribe regulations and instructions
+  2-a. The commissioner may prescribe regulations and instructions
 requiring returns of information to be made and filed in conjunction
 with the reports required to be filed pursuant to this article, relating
 to payments made to shareholders owning, directly or indirectly,
@@ -69,31 +60,7 @@ individually or in the aggregate, more than fifty percent of the issued
 capital stock of the taxpayer, where such payments are treated as
 payments of interest in the computation of entire net income reported on
 such reports.
-  * NB Effective January 1, 2015
-  * 3. If the amount of taxable income or alternative minimum taxable
-income for any year of any taxpayer (including any taxpayer which has
-elected to be taxed under subchapter s of chapter one of the internal
-revenue code), as returned to the United States treasury department is
-changed or corrected by the commissioner of internal revenue or other
-officer of the United States or other competent authority, or where a
-renegotiation of a contract or subcontract with the United States
-results in a change in taxable income or alternative minimum taxable
-income, such taxpayer shall report such changed or corrected taxable
-income or alternative minimum taxable income, or the results of such
-renegotiation, within ninety days (or one hundred twenty days, in the
-case of a taxpayer making a combined report under this article for such
-year) after the final determination of such change or correction or
-renegotiation, or as required by the commissioner, and shall concede the
-accuracy of such determination or state wherein it is erroneous. The
-allowance of a tentative carryback adjustment based upon a net operating
-loss carryback or net capital loss carryback pursuant to section
-sixty-four hundred eleven of the internal revenue code, as amended,
-shall be treated as a final determination for purposes of this
-subdivision. Any taxpayer filing an amended return with such department
-shall also file within ninety days thereafter an amended report with the
-commissioner.
-  * NB Effective until January 1, 2015
-  * 3. If the amount of taxable income for any year of any taxpayer
+  3. If the amount of taxable income for any year of any taxpayer
 (including any taxpayer which has elected to be taxed under subchapter s
 of chapter one of the internal revenue code), as returned to the United
 States treasury department is changed or corrected by the commissioner
@@ -115,289 +82,9 @@ such department shall also file within ninety days (or one hundred
 twenty days, in the case of a taxpayer making a combined report under
 this article for such year) thereafter an amended report with the
 commissioner.
-  * NB Effective January 1, 2015
-  * 4. (a) Combined reports permitted or required. Any taxpayer, which
-owns or controls either directly or indirectly substantially all the
-capital stock of one or more other corporations, or substantially all
-the capital stock of which is owned or controlled either directly or
-indirectly by one or more other corporations or by interests which own
-or control either directly or indirectly substantially all the capital
-stock of one or more other corporations, (hereinafter referred to in
-this paragraph as "related corporations"), shall make a combined report
-covering any related corporations if there are substantial
-intercorporate transactions among the related corporations, regardless
-of the transfer price for such intercorporate transactions. It is not
-necessary that there be substantial intercorporate transactions between
-any one corporation and every other related corporation. It is
-necessary, however, that there be substantial intercorporate
-transactions between the taxpayer and a related corporation or
-collectively, a group of such related corporations. The report shall set
-forth such information as the commissioner may require, subject to the
-provisions of subparagraphs one through five of this paragraph.
-  In determining whether there are substantial intercorporate
-transactions, the commissioner shall consider and evaluate all
-activities and transactions of the taxpayer and its related
-corporations. Activities and transactions that will be considered
-include, but are not limited to: (i) manufacturing, acquiring goods or
-property, or performing services, for related corporations; (ii) selling
-goods acquired from related corporations; (iii) financing sales of
-related corporations; (iv) performing related customer services using
-common facilities and employees for related corporations; (v) incurring
-expenses that benefit, directly or indirectly, one or more related
-corporations, and (vi) transferring assets, including such assets as
-accounts receivable, patents or trademarks from one or more related
-corporations.
-  (1) Any corporation which owns or controls either directly or
-indirectly substantially all the capital stock of a DISC not exempt from
-tax under paragraph (i) of subdivision nine of section two hundred eight
-of this article shall be allowed, at the election of such corporation,
-to make a report on a combined basis covering such DISC, but the failure
-of such corporation to make such election shall not prohibit the
-commissioner from requiring a combined report covering such corporation
-and such DISC.
-  (2)(i) No taxpayer may be permitted to make a report on a combined
-basis covering any such other corporations where such taxpayer or any
-such other corporation allocates in accordance with clause (A) of
-subparagraph seven of paragraph (a) of subdivision three of section two
-hundred ten of this article (relating to aviation corporations) and such
-taxpayer or any such other corporation does not so allocate, unless such
-taxpayer or such other corporation is a qualified air freight forwarder
-with respect to such other corporation or such taxpayer, respectively,
-and all taxpayers included on such combined report elect, by filing such
-combined report, to have such qualified air freight forwarder so
-included.
-  (ii) A corporation is a qualified air freight forwarder with respect
-to another corporation:
-  (A) if it owns or controls either directly or indirectly all of the
-capital stock of such other corporation, or if all of its capital stock
-is owned or controlled either directly or indirectly by such other
-corporation, or if all of the capital stock of both corporations is
-owned or controlled either directly or indirectly by the same interests,
-  (B) if it is principally engaged in the business of air freight
-forwarding, and
-  (C) if its air freight forwarding business is carried on principally
-with the airline or airlines operated by such other corporation.
-  (3) No taxpayer may be permitted to make a report on a combined basis
-covering any such other corporations where such taxpayer or any such
-other corporation allocates in accordance with subparagraph eight of
-paragraph (a) of subdivision three of section two hundred ten of this
-article (relating to railroad and trucking corporations) and such
-taxpayer or any such other corporation does not so allocate.
-  (4) Except as provided in the first undesignated paragraph of this
-paragraph, no combined report covering any corporation shall be required
-unless the commissioner deems such a report necessary, because of
-inter-company transactions or some agreement, understanding, arrangement
-or transaction referred to in subdivision five of this section, in order
-properly to reflect the tax liability under this article.
-  (5) A corporation organized under the laws of a country other than the
-United States shall not be required or permitted to make a report on a
-combined basis.
-  (6) (i) For purposes of this subparagraph, the term "closest
-controlling stockholder" means the corporation that indirectly owns or
-controls over fifty percent of the voting stock of a captive REIT or
-captive RIC, is subject to tax under this article, article thirty-two or
-thirty-three of this chapter or otherwise required to be included in a
-combined return or report under this article, article thirty-two or
-thirty-three of this chapter, and is the fewest tiers of corporations
-away in the ownership structure from the captive REIT or captive RIC.
-The commissioner is authorized to prescribe by regulation or published
-guidance the criteria for determining the closest controlling
-stockholder.
-  (ii) A captive REIT or a captive RIC must be included in a combined
-report with the corporation that directly owns or controls over fifty
-percent of the voting stock of the captive REIT or captive RIC if that
-corporation is subject to tax or required to be included in a combined
-report under this article.
-  (iii) If over fifty percent of the voting stock of a captive REIT or
-captive RIC is not directly owned or controlled by a corporation that is
-subject to tax or required to be included in a combined report under
-this article, then the captive REIT or captive RIC must be included in a
-combined return or report with the corporation that is the closest
-controlling stockholder of the captive REIT or captive RIC. If the
-closest controlling stockholder of the captive REIT or captive RIC is
-subject to tax or otherwise required to be included in a combined report
-under this article, then the captive REIT or captive RIC must be
-included in a combined report under this article.
-  (iv) If the corporation that directly owns or controls the voting
-stock of the captive REIT or captive RIC is described in subparagraph
-two, three or five of this paragraph as a corporation not permitted to
-make a combined report, then the provisions in clause (iii) of this
-subparagraph must be applied to determine the corporation in whose
-combined return or report the captive REIT or captive RIC should be
-included. If, under clause (iii) of this subparagraph, the corporation
-that is the closest controlling stockholder of the captive REIT or
-captive RIC is described in subparagraph two, three or five of this
-paragraph as a corporation not permitted to make a combined return, then
-that corporation is deemed to not be in the ownership structure of the
-captive REIT or captive RIC, and the closest controlling stockholder
-will be determined without regard to that corporation.
-  (v) If a captive REIT owns the stock of a qualified REIT subsidiary
-(as defined in paragraph two of subsection (i) of section eight hundred
-fifty-six of the internal revenue code), then the qualified REIT
-subsidiary must be included in a combined report with the captive REIT.
-  (vi) If a captive REIT or a captive RIC is required under this
-subparagraph to be included in a combined report with another
-corporation, and that other corporation is also required to be included
-in a combined report with another related corporation or corporations
-under this paragraph, then the captive REIT or the captive RIC must be
-included in that combined report with those corporations.
-  (vii) If a captive REIT or a captive RIC is not required to be
-included in a combined report with another corporation under clause (ii)
-or (iii) of this subparagraph, or in a combined return under the
-provisions of either subparagraph (v) of paragraph two of subsection (f)
-of section fourteen hundred sixty-two or paragraph four of subdivision
-(f) of section fifteen hundred fifteen of this chapter, then the captive
-REIT or captive RIC is subject to the opening provisions of this
-paragraph and the provisions of subparagraph four of this paragraph. The
-captive REIT or captive RIC must be included in a combined report under
-this article with another corporation if either the substantial
-intercorporate transactions requirement in the opening provisions of
-this paragraph or the inter-company transactions or agreement,
-understanding, arrangement or transaction requirement of subparagraph
-four of this paragraph is satisfied and more than fifty percent of the
-voting stock of the captive REIT or the captive RIC and substantially
-all of the capital stock of that other corporation are owned and
-controlled, directly or indirectly, by the same corporation.
-  (7) (i) For purposes of this subparagraph, the term "closest
-controlling stockholder" means the corporation that indirectly owns or
-controls over fifty percent of the voting stock of an overcapitalized
-captive insurance company; is subject to tax under this article or
-article thirty-two of this chapter, or is otherwise required to be
-included in a combined return or report under this article or article
-thirty-two of this chapter; and is the fewest tiers of corporations away
-in the ownership structure from the overcapitalized captive insurance
-company.  The commissioner is authorized to prescribe by regulation or
-published guidance the criteria for determining the closest controlling
-stockholder.
-  (ii) An overcapitalized captive insurance company must be included in
-a combined report with the corporation that directly owns or controls
-over fifty percent of the voting stock of the overcapitalized captive
-insurance company if that corporation is subject to tax or required to
-be included in a combined report under this article.
-  (iii) If over fifty percent of the voting stock of an overcapitalized
-captive insurance company is not directly owned or controlled by a
-corporation that is subject to tax or required to be included in a
-combined report under this article, then the overcapitalized captive
-insurance company must be included in a combined return or report with
-the corporation that is the closest controlling stockholder of the
-overcapitalized captive insurance company. If the closest controlling
-stockholder of the overcapitalized captive insurance company is subject
-to tax or otherwise required to be included in a combined report under
-this article, then the overcapitalized captive insurance company must be
-included in a combined report under this article.
-  (iv) If the corporation that directly owns or controls the voting
-stock of the overcapitalized captive insurance company is described in
-subparagraph two, three, or five of this paragraph as a corporation not
-permitted to make a combined report, then the provisions in clause (iii)
-of this subparagraph must be applied to determine the corporation in
-whose combined return or report the overcapitalized captive insurance
-company should be included. If, under clause (iii) of this subparagraph,
-the corporation that is the closest controlling stockholder of the
-overcapitalized captive insurance company is described in subparagraph
-two, three or five of this paragraph as a corporation not permitted to
-make a combined return, then that corporation is deemed not to be in the
-ownership structure of the overcapitalized captive insurance company,
-and the closest controlling stockholder will be determined without
-regard to that corporation.
-  (v) If an overcapitalized captive insurance company is required under
-this subparagraph to be included in a combined report with another
-corporation, and that other corporation is also required to be included
-in a combined report with another related corporation or corporations
-under this paragraph, then the overcapitalized captive insurance company
-must be included in that combined report with those corporations.
-  (vi) If an overcapitalized captive insurance company is not required
-to be included in a combined report with another corporation under
-clause (ii) or (iii) of this subparagraph, or in a combined return under
-the provisions of subparagraph (v) of paragraph two of subsection (f) of
-section fourteen hundred sixty-two of this chapter, then the
-overcapitalized captive insurance company is subject to the opening
-provisions of this paragraph and the provisions of subparagraph four of
-this paragraph. The overcapitalized captive insurance company must be
-included in a combined report under this article with another
-corporation if either the substantial intercorporate transactions
-requirement in the opening provisions of this paragraph or the
-inter-company transactions or agreement, understanding, arrangement or
-transaction requirement of subparagraph four of this paragraph is
-satisfied, and both more than fifty percent of the voting stock of the
-overcapitalized captive insurance company and substantially all of the
-capital stock of that other corporation are owned and controlled,
-directly or indirectly, by the same corporation.
-  (b) Computation. (1) Tax. (i) In the case of a combined report the tax
-shall be measured by the combined entire net income, combined minimum
-taxable income, combined pre-nineteen hundred ninety minimum taxable
-income or combined capital, of all the corporations included in the
-report, including any captive REIT, captive RIC or overcapitalized
-captive insurance company; provided, however, in no event shall the tax
-measured by combined capital exceed the limitation provided for in
-paragraph (b) of subdivision one of section two hundred ten of this
-article.
-  (ii) In the case of a captive REIT or captive RIC required under this
-subdivision to be included in a combined report, entire net income must
-be computed as required under subdivision five (in the case of a captive
-REIT) or subdivision seven (in the case of a captive RIC) of section two
-hundred nine of this article. However, the deduction under the internal
-revenue code for dividends paid by the captive REIT or captive RIC to
-any member of the affiliated group that includes the corporation that
-directly or indirectly owns over fifty percent of the voting stock of
-the captive REIT or captive RIC shall not be allowed for taxable years
-beginning on or after January first, two thousand eight. The term
-"affiliated group" means "affiliated group" as defined in section
-fifteen hundred four of the internal revenue code, but without regard to
-the exceptions provided for in subsection (b) of that section.
-  (iii) In the case of an overcapitalized captive insurance company
-required under this subdivision to be included in a combined report,
-entire net income must be computed as required by subdivision nine of
-section two hundred eight of this article.
-  (2) Tax bases. In computing combined entire net income, combined
-minimum taxable income or combined pre-nineteen hundred ninety minimum
-taxable income intercorporate dividends shall be eliminated, in
-computing combined business and investment capital intercorporate
-stockholdings and intercorporate bills, notes and accounts receivable
-and payable and other intercorporate indebtedness shall be eliminated
-and in computing combined subsidiary capital intercorporate
-stockholdings shall be eliminated, provided, however, that
-intercorporate dividends from a DISC or a former DISC not exempt from
-tax under paragraph (i) of subdivision nine of section two hundred eight
-of this article which are taxable as business income under this article
-shall not be eliminated.
-  (3) Air freight forwarders: allocation. Notwithstanding any provision
-of law to the contrary, where a combined report includes a qualified air
-freight forwarder and a corporation described in subparagraph seven of
-paragraph (a) of subdivision three of section two hundred ten of this
-chapter (relating to aviation corporations), in computing the combined
-business allocation percentage such subparagraph seven shall be applied
-with respect to such qualified air freight forwarder.
-  * NB Effective until January 1, 2015
-  * 4. For provisions relating to combined reports, see section two
+  4. For provisions relating to combined reports, see section two
 hundred ten-C of this article.
-  * NB Effective January 1, 2015
-  * 5. In case it shall appear to the tax commission that any agreement,
-understanding or arrangement exists between the taxpayer and any other
-corporation or any person or firm, whereby the activity, business,
-income or capital of the taxpayer within the state is improperly or
-inaccurately reflected, the tax commission is authorized and empowered,
-in its discretion and in such manner as it may determine, to adjust
-items of income, deductions and capital, and to eliminate assets in
-computing any allocation percentage provided only that any income
-directly traceable thereto be also excluded from entire net income,
-minimum taxable income or pre-nineteen hundred ninety minimum taxable
-income, so as equitably to determine the tax. Where (a) any taxpayer
-conducts its activity or business under any agreement, arrangement or
-understanding in such manner as either directly or indirectly to benefit
-its members or stockholders, or any of them, or any person or persons
-directly or indirectly interested in such activity or business, by
-entering into any transaction at more or less than a fair price which,
-but for such agreement, arrangement or understanding, might have been
-paid or received therefor, or (b) any taxpayer, a substantial portion of
-whose capital stock is owned either directly or indirectly by another
-corporation, enters into any transaction with such other corporation on
-such terms as to create an improper loss or net income, the tax
-commission may include in the entire net income, minimum taxable income
-or pre-nineteen hundred ninety minimum taxable income of the taxpayer
-the fair profits which, but for such agreement, arrangement or
-understanding, the taxpayer might have derived from such transaction.
-  * NB Effective until January 1, 2015
-  * 5. In case it shall appear to the commissioner that any agreement,
+  5. In case it shall appear to the commissioner that any agreement,
 understanding or arrangement exists between the taxpayer and any other
 corporation or any person or firm, whereby the activity, business,
 income or capital of the taxpayer within the state is improperly or
@@ -427,7 +114,6 @@ receipts for the taxable year consist of premiums, the commissioner may
 include in the entire net income of the taxpayer, as a deemed
 distribution, the amount of the net income of the other corporation that
 is in excess of its net premium income.
-  * NB Effective January 1, 2015
   6. An action may be brought at any time by the attorney-general at the
 instance of the tax commission, in the name of the state, to compel the
 filing of reports due under this article.
@@ -608,17 +294,6 @@ pursuant to this subdivision.
 other provision of law, the reports to be furnished to the comptroller
 pursuant to this subdivision shall not be open to the public for
 inspection.
-  * 13. Notwithstanding the provisions of subdivision eight of this
-section, in the case where a taxpayer which is an attorney-in-fact has
-claimed a deduction pursuant to subparagraph fifteen of paragraph (a) of
-subdivision nine of section two hundred eight of this article, the
-commissioner shall have the authority to release to the interinsurer or
-reciprocal insurer any information with respect to the entire net income
-or business allocation percentage of such attorney-in-fact, or any
-member of a combined group that includes such attorney-in-fact, which is
-the basis for the denial in whole or in part of the deduction claimed by
-such attorney-in-fact.
-  * NB Repealed January 1, 2015
   14. Notwithstanding the provisions of subdivision eight of this
 section, the commissioner may disclose to a taxpayer or a taxpayer's
 related member, as defined in paragraph (o) of subdivision nine of

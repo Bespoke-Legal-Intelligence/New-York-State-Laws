@@ -5,23 +5,7 @@
 
 ```text
   * § 25. Disclosure of certain transactions and related information.
-(a)** (1) Every taxpayer, or person as defined in section seven thousand
-seven hundred one of the internal revenue code, required to file a
-disclosure statement with the internal revenue service pursuant to
-section six thousand eleven of the internal revenue code, or the
-regulations promulgated thereunder, related to a reportable transaction
-or a listed transaction, as those terms are defined in such section or
-regulations, must attach a duplicate of such disclosure statement to the
-return or report required to be filed by such taxpayer or person for the
-taxable year under article nine, nine-A, twenty-two, thirty-two or
-thirty-three of this chapter, and provide such other information related
-to such disclosure as prescribed by the commissioner. Such disclosure
-shall be made notwithstanding that one member of an affiliated group, as
-defined by section fifteen hundred four of the internal revenue code,
-may file such disclosure statement with the internal revenue service on
-behalf of its affiliates including such taxpayer or person.
-  ** NB Effective until January 1, 2015
-  ** (1) Every taxpayer, or person as defined in section seven thousand
+(a) (1) Every taxpayer, or person as defined in section seven thousand
 seven hundred one of the internal revenue code, required to file a
 disclosure statement with the internal revenue service pursuant to
 section six thousand eleven of the internal revenue code, or the
@@ -36,18 +20,7 @@ made notwithstanding that one member of an affiliated group, as defined
 by section fifteen hundred four of the internal revenue code, may file
 such disclosure statement with the internal revenue service on behalf of
 its affiliates including such taxpayer or person.
-  ** NB Effective January 1, 2015
-  ** (2) Every taxpayer or such person who participates in a New York
-reportable transaction for a taxable year must disclose such
-participation with its return or report required to be filed under
-article nine, nine-A, twenty-two, thirty-two or thirty-three of this
-chapter for the taxable year in a form prescribed by the commissioner,
-and provide such other information related to such transaction as
-prescribed by the commissioner. A New York reportable transaction is a
-transaction that has the potential to be a tax avoidance transaction as
-determined by the commissioner.
-  ** NB Effective until January 1, 2015
-  ** (2) Every taxpayer or such person who participates in a New York
+  (2) Every taxpayer or such person who participates in a New York
 reportable transaction for a taxable year must disclose such
 participation with its return or report required to be filed under
 article nine, nine-A, twenty-two or thirty-three of this chapter for the
@@ -56,7 +29,6 @@ other information related to such transaction as prescribed by the
 commissioner. A New York reportable transaction is a transaction that
 has the potential to be a tax avoidance transaction as determined by the
 commissioner.
-  ** NB Effective January 1, 2015
   (3) The commissioner may in his discretion prescribe, by regulation,
 New York reportable transactions.
   (4) Provided the commissioner has prescribed regulations pursuant to
@@ -77,17 +49,10 @@ of the following conditions apply:
   (A) the person is organized in this state,
   (B) the person is doing business in this state,
   (C) the person is deriving income in this state, or
-  (D)** (i) the list required to be maintained by such person pursuant
-to section six thousand one hundred twelve of the internal revenue code
-identifies or is required to identify a taxpayer subject to tax under
-article nine, nine-A, twenty-two, thirty-two or thirty-three of this
-chapter, and
-  ** NB Effective until January 1, 2015
-  ** (i) the list required to be maintained by such person pursuant to
+  (D) (i) the list required to be maintained by such person pursuant to
 section six thousand one hundred twelve of the internal revenue code
 identifies or is required to identify a taxpayer subject to tax under
 article nine, nine-A, twenty-two or thirty-three of this chapter, and
-  ** NB Effective January 1, 2015
   (ii) such person is a material advisor, as defined in section six
 thousand one hundred eleven of the internal revenue code, who provides
 any material aid, assistance, or advice with respect to organizing,

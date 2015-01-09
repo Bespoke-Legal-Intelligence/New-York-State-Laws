@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1451", "kind": "section", "law_id": "TAX", "location_id": "1451", "path": "ARTICLE 32 › SECTION 1451", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1451.md", "title": "Imposition of tax"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1451", "kind": "section", "law_id": "TAX", "location_id": "1451", "path": "ARTICLE 32 › SECTION 1451", "repealed": true, "repealed_date": "2015-01-09", "source": "nys-laws:TAX/1451.md", "title": "Imposition of tax"} -->
 # Tax Law § 1451 — Imposition of tax
 
 [Tax Law](../README.md) › [Article 32 — Franchise Tax On Banking Corporations](README.md)
+
+**Repealed** (9 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1451. Imposition of tax. (a) For the privilege of exercising its

@@ -4,8 +4,8 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 4 — Returns and Payment of Tax](README.md)
 
 ```text
-  § 660. Election by shareholders of S corporations.  * (a) Election. If
-a corporation is an eligible S corporation, the shareholders of the
+  § 660. Election by shareholders of S corporations.  (a) Election. If a
+corporation is an eligible S corporation, the shareholders of the
 corporation may elect in the manner set forth in subsection (b) of this
 section to take into account, to the extent provided for in this article
 (or in article thirteen of this chapter, in the case of a shareholder
@@ -16,37 +16,12 @@ the internal revenue code which are taken into account for federal
 income tax purposes for the taxable year. No election under this
 subsection shall be effective unless all shareholders of the corporation
 have so elected. An eligible S corporation is (i) an S corporation which
-is subject to tax under article nine-A or thirty-two of this chapter,
-(ii) an S corporation which is the parent of a qualified subchapter S
-subsidiary subject to tax under article nine-A, where the shareholders
-of such parent corporation are entitled to make the election under this
+is subject to tax under article nine-A of this chapter, or (ii) an S
+corporation which is the parent of a qualified subchapter S subsidiary
+subject to tax under article nine-A, where the shareholders of such
+parent corporation are entitled to make the election under this
 subsection by reason of subparagraph three of paragraph (k) of
-subdivision nine of section two hundred eight of this chapter; or (iii)
-an S corporation which is the parent of a qualified subchapter S
-corporation subject to tax under article thirty-two, where the
-shareholders of such parent are entitled to make the election under this
-subsection by reason of paragraph three of subsection (o) of section
-fourteen hundred fifty-three of this chapter.
-  * NB Effective until January 1, 2015
-  * (a) Election. If a corporation is an eligible S corporation, the
-shareholders of the corporation may elect in the manner set forth in
-subsection (b) of this section to take into account, to the extent
-provided for in this article (or in article thirteen of this chapter, in
-the case of a shareholder which is a taxpayer under such article), the S
-corporation items of income, loss, deduction and reductions for taxes
-described in paragraphs two and three of subsection (f) of section
-thirteen hundred sixty-six of the internal revenue code which are taken
-into account for federal income tax purposes for the taxable year. No
-election under this subsection shall be effective unless all
-shareholders of the corporation have so elected. An eligible S
-corporation is (i) an S corporation which is subject to tax under
-article nine-A of this chapter, or (ii) an S corporation which is the
-parent of a qualified subchapter S subsidiary subject to tax under
-article nine-A, where the shareholders of such parent corporation are
-entitled to make the election under this subsection by reason of
-subparagraph three of paragraph (k) of subdivision nine of section two
-hundred eight of this chapter.
-  * NB Effective January 1, 2015
+subdivision nine of section two hundred eight of this chapter.
   (b) Requirements of election. An election under subsection (a) of this
 section shall be made on such form and in such manner as the tax
 commission may prescribe by regulation or instruction.
@@ -157,37 +132,19 @@ during such year or years.
 effect for taxable years beginning before January first, nineteen
 hundred eighty-three) shall be treated as an election made under
 subsection (a) of this section.
-  * (h) Cross reference. For definitions relating to S corporations, see
-subdivision one-A of section two hundred eight and subsections (f) and
-(g) of section fourteen hundred fifty of this chapter.
-  * NB Effective until January 1, 2015
-  * (h) Cross reference. For definitions relating to S corporations, see
+  (h) Cross reference. For definitions relating to S corporations, see
 subdivision one-A of section two hundred eight of this chapter.
-  * NB Effective January 1, 2015
-  (i) Mandated New York S corporation election.  * (1) Notwithstanding
-the provisions in subsection (a) of this section, in the case of an
-eligible S corporation for which the election under subsection (a) of
-this section is not in effect for the current taxable year, the
-shareholders of an eligible S corporation are deemed to have made that
-election effective for the eligible S corporation's entire current
-taxable year, if the eligible S corporation's investment income for the
-current taxable year is more than fifty percent of its federal gross
-income for such year provided that this subsection shall not apply to an
-eligible S corporation that is subject to tax under article thirty-two
-of this chapter.
-  * NB Effective until January 1, 2015
-  * (1) Notwithstanding the provisions in subsection (a) of this
-section, in the case of an eligible S corporation for which the election
-under subsection (a) of this section is not in effect for the current
-taxable year, the shareholders of an eligible S corporation are deemed
-to have made that election effective for the eligible S corporation's
-entire current taxable year, if the eligible S corporation's investment
-income for the current taxable year is more than fifty percent of its
-federal gross income for such year. In determining an eligible S
-corporation's investment income, the investment income of a qualified
-subchapter S subsidiary owned directly or indirectly by the eligible S
-corporation shall be included.
-  * NB Effective January 1, 2015
+  (i) Mandated New York S corporation election.  (1) Notwithstanding the
+provisions in subsection (a) of this section, in the case of an eligible
+S corporation for which the election under subsection (a) of this
+section is not in effect for the current taxable year, the shareholders
+of an eligible S corporation are deemed to have made that election
+effective for the eligible S corporation's entire current taxable year,
+if the eligible S corporation's investment income for the current
+taxable year is more than fifty percent of its federal gross income for
+such year. In determining an eligible S corporation's investment income,
+the investment income of a qualified subchapter S subsidiary owned
+directly or indirectly by the eligible S corporation shall be included.
   (2) For the purposes of this subsection, the term "eligible S
 corporation" has the same definition as in subsection (a) of this
 section.

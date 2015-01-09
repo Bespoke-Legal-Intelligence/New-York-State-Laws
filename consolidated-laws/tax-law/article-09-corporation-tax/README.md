@@ -7,17 +7,17 @@
 
 ## Contents
 
-- [§ 180 Organization tax; taxes on changes of capital](180-organization-tax-taxes-on-changes-of-capital.md)
-- [§ 181 License and maintenance fees on foreign corporations](181-license-and-maintenance-fees-on-foreign-corporations.md)
+- [§ 180 Organization tax; taxes on changes of capital](180-organization-tax-taxes-on-changes-of-capital.md) *(repealed)*
+- [§ 181 License and maintenance fees on foreign corporations](181-license-and-maintenance-fees-on-foreign-corporations.md) *(repealed)*
 - [§ 182 Additional franchise tax on certain oil companies](182-additional-franchise-tax-on-certain-oil-companies.md)
 - [§ 182-A Franchise tax on certain oil companies](182a-franchise-tax-on-certain-oil-companies.md)
 - [§ 183 Franchise tax on transportation and transmission corporations and associations](183-franchise-tax-on-transportation-and-transmission-corporations-and-associations.md)
-- [§ 183-A Temporary metropolitan transportation business tax surcharge on transportation and transmission corporations and associations](183a-temporary-metropolitan-transportation-business-tax-surcharge-on-transportation.md)
+- [§ 183-A Metropolitan transportation business tax surcharge on transportation and transmission corporations and associations](183a-metropolitan-transportation-business-tax-surcharge-on-transportation.md)
 - [§ 184 Additional franchise tax on transportation and transmission corporations and associations](184-additional-franchise-tax-on-transportation-and-transmission-corporations.md)
-- [§ 184-A Additional temporary metropolitan transportation business tax surcharge on transportation and transmission corporations and associations ...](184a-additional-temporary-metropolitan-transportation-business-tax-surcharge.md)
+- [§ 184-A Additional metropolitan transportation business tax surcharge on transportation and transmission corporations and associations services](184a-additional-metropolitan-transportation-business-tax-surcharge-on-transportation.md)
 - [§ 185 Franchise tax on farmers', fruit growers', and other like agricultural corporations organized and operated on a co-operative basis](185-franchise-tax-on-farmers-fruit-growers-and-other-like-agricultural-corporations.md)
 - [§ 186-A Tax on the furnishing of utility services](186a-tax-on-the-furnishing-of-utility-services.md)
-- [§ 186-C Temporary metropolitan transportation business tax surcharge on utility services and excise tax on sale of telecommunication services](186c-temporary-metropolitan-transportation-business-tax-surcharge-on-utility-services.md)
+- [§ 186-C Metropolitan transportation business tax surcharge on utility services and excise tax on sale of telecommunication services](186c-metropolitan-transportation-business-tax-surcharge-on-utility-services.md)
 - [§ 186-D Transportation business tax on utility services in Erie county](186d-transportation-business-tax-on-utility-services-in-erie-county.md)
 - [§ 186-E Excise tax on telecommunication services](186e-excise-tax-on-telecommunication-services.md)
 - [§ 186-F Public safety communications surcharge](186f-public-safety-communications-surcharge.md)
@@ -71,9 +71,7 @@
 ```text
                                 ARTICLE 9
                              CORPORATION TAX
-Section 180.     Organization tax; taxes on changes of capital.
-        181.     License and maintenance fees on foreign corporations.
-        182.     Additional franchise tax on certain oil companies.
+Section 182.     Additional franchise tax on certain oil companies.
         182-a.   Franchise tax on certain oil companies.
         183.     Franchise tax on transportation and transmission
                    corporations and associations.

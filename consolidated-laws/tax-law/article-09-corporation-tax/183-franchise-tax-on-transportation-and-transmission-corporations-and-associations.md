@@ -13,53 +13,7 @@ partnership treated as a corporation for purposes of the internal
 revenue code pursuant to section seventy-seven hundred four thereof and
 any business conducted by a trustee or trustees wherein interest or
 ownership is evidenced by certificates or other written instruments.
-  * (b) For the privilege of exercising its corporate franchise, or of
-doing business, or of employing capital, or of owning or leasing
-property in this state in a corporate or organized capacity, or of
-maintaining an office in this state, every domestic corporation,
-joint-stock company or association formed for or principally engaged in
-the conduct of canal, steamboat, ferry (except a ferry company operating
-between any of the boroughs of the city of New York under a lease
-granted by the city), express, navigation, pipe line, transfer, baggage
-express, omnibus, taxicab, telegraph, or telephone business, or formed
-for or principally engaged in the conduct of two or more of such
-businesses, and every domestic corporation, joint-stock company or
-association formed for or principally engaged in the conduct of a
-railroad, palace car, sleeping car or trucking business or formed for or
-principally engaged in the conduct of two or more of such businesses and
-which has made an election pursuant to subdivision ten of this section,
-and every other domestic corporation, joint-stock company or association
-principally engaged in the conduct of a transportation or transmission
-business, except a corporation, joint-stock company or association
-formed for or principally engaged in the conduct of a railroad, palace
-car, sleeping car or trucking business or formed for or principally
-engaged in the conduct of two or more of such businesses and which has
-not made the election provided for in subdivision ten of this section,
-and except a corporation, joint-stock company or association principally
-engaged in the conduct of aviation (including air freight forwarders
-acting as principal and like indirect air carriers) and except a
-corporation principally engaged in providing telecommunication services
-between aircraft and dispatcher, aircraft and air traffic control or
-ground station and ground station (or any combination of the foregoing),
-at least ninety percent of the voting stock of which corporation is
-owned, directly or indirectly, by air carriers and which corporation's
-principal function is to fulfill the requirements of (i) the federal
-aviation administration (or the successor thereto) or (ii) the
-international civil aviation organization (or the successor thereto),
-relating to the existence of a communication system between aircraft and
-dispatcher, aircraft and air traffic control or ground station and
-ground station (or any combination of the foregoing) for the purposes of
-air safety and navigation and except a corporation, joint-stock company
-or association subject to taxation under article thirty-two of this
-chapter, shall pay, in advance, an annual tax to be computed upon the
-basis of the amount of its capital stock within this state during the
-preceding year, and upon each dollar of such amount. Provided, however,
-a corporation, joint-stock company or association formed for or
-principally engaged in the transportation, transmission or distribution
-of gas, electricity or steam shall not be subject to tax under this
-section or section one hundred eighty-four of this article.
-  * NB Effective until January 1, 2015
-  * (b) For the privilege of exercising its corporate franchise, or of
+  (b) For the privilege of exercising its corporate franchise, or of
 doing business, or of employing capital, or of owning or leasing
 property in this state in a corporate or organized capacity, or of
 maintaining an office in this state, every domestic corporation,
@@ -102,7 +56,6 @@ Provided, however, a corporation, joint-stock company or association
 formed for or principally engaged in the transportation, transmission or
 distribution of gas, electricity or steam shall not be subject to tax
 under this section or section one hundred eighty-four of this article.
-  * NB Effective January 1, 2015
   (c) Notwithstanding the provisions of paragraph (b) of this
 subdivision, during the period that the state tax on motor fuel,
 computed without regard to any reimbursement allowable under paragraph
@@ -253,50 +206,7 @@ corporation conducts into New York state shall be calculated by
 determining the number of trips each vehicle owned, leased or operated
 by the corporation conducts into New York state and adding those numbers
 together.
-  * 10. Election. With respect to taxable years beginning after nineteen
-hundred ninety-seven, every corporation, joint-stock company or
-association formed for or principally engaged in the conduct of a
-railroad (including surface railroad, whether or not operated by steam,
-subway railroad or elevated railroad), palace car, sleeping car or
-trucking business or formed for or principally engaged in the conduct of
-two or more of such businesses, which would be subject to article nine-A
-or thirty-two of this chapter if the election provided for under this
-subdivision were not made, may elect to be subject to the provisions of
-this section and, as applicable, section one hundred eighty-four of this
-article, rather than the provisions of such article nine-A or
-thirty-two. In the case of such a corporation, joint-stock company or
-association subject to the tax imposed under this section and, as
-applicable, section one hundred eighty-four of this article, for the
-taxable year ending December thirty-first, nineteen hundred
-ninety-seven, such corporation, joint-stock company or association must
-make such election on or before March fifteenth, nineteen hundred
-ninety-eight, and such election shall apply to the taxable year ending
-on December thirty-first, nineteen hundred ninety-eight and to
-succeeding taxable years, until revoked. In the case of such a
-corporation, joint-stock company or association which is not subject to
-the tax imposed under this section and, as applicable, section one
-hundred eighty-four of this article for the taxable year ending December
-thirty-first, nineteen hundred ninety-seven, but thereafter would be
-subject to article nine-A or thirty-two of this chapter if the election
-provided for under this subdivision were not made, such corporation,
-joint-stock company or association must make such election by the first
-day on which such corporation, joint-stock company or association would
-be required to file a return or report (without regard to extensions)
-under this section or section one hundred eighty-four of this article,
-or section one hundred eighty-three-a or one hundred-eighty-four-a of
-this article, or article nine-A or thirty-two of this chapter. An
-election made pursuant to this subdivision shall continue to be in
-effect until revoked by the taxpayer. A revocation of the election to be
-subject to this section and, as applicable, section one hundred
-eighty-four of this article, shall be irrevocable. Such election, and a
-revocation thereof, shall be made in the manner prescribed by the
-commissioner, whether by regulation or otherwise. Such revocation shall
-apply as of the first day of January next following the end of a taxable
-year with respect to which the taxpayer had been subject to this section
-and, as applicable, section one hundred eighty-four of this article, by
-reason of an election made pursuant to this subdivision.
-  * NB Effective until January 1, 2015
-  * 10. Election. Every corporation, joint-stock company or association
+  10. Election. Every corporation, joint-stock company or association
 formed for or principally engaged in the conduct of a railroad
 (including surface railroad, whether or not operated by steam, subway
 railroad or elevated railroad), palace car, sleeping car or trucking
@@ -322,5 +232,4 @@ of January next following the end of a taxable year with respect to
 which the taxpayer had been subject to this section and, as applicable,
 section one hundred eighty-four of this article, by reason of an
 election made pursuant to this subdivision.
-  * NB Effective January 1, 2015
 ```

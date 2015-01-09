@@ -117,18 +117,11 @@ one hundred seventy-one-f of this chapter, or a city of New York tax
 warrant judgment debt pursuant to the provisions of section one hundred
 seventy-one-l of this chapter, such portion of such an overpayment shall
 cease to bear interest on the date of such certification.
-  * (g) Cross-reference.--For provision with respect to interest after
-failure to file a report or amended return under subdivision three of
-section two hundred eleven, subsection (e) of section fourteen hundred
-sixty-two or paragraph one of subdivision (e) of section fifteen hundred
-fifteen, see subsection (c) of section one thousand eighty-seven.
-  * NB Effective until January 1, 2015
-  * (g) Cross-reference.--For provision with respect to interest after
+  (g) Cross-reference.--For provision with respect to interest after
 failure to file a report or amended return under subdivision three of
 section two hundred eleven or paragraph one of subdivision (e) of
 section fifteen hundred fifteen, see subsection (c) of section one
 thousand eighty-seven.
-  * NB Effective January 1, 2015
   (h) Notwithstanding any other provision in this section, for taxable
 years beginning on or after January first, two thousand eight and before
 January first, two thousand nine, interest will be allowed on an

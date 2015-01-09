@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "PBA", "location_id": "A7T18*", "path": "ARTICLE 7 › TITLE 18*", "source": "nys-laws:PBA/A7T18_.md", "title": "Tarrytown Parking Authority"} -->
-# Title 18* — Tarrytown Parking Authority
+﻿<!-- nyslaw {"kind": "container", "law_id": "PBA", "location_id": "A7T18", "path": "ARTICLE 7 › TITLE 18", "source": "nys-laws:PBA/A7T18.md", "title": "Tarrytown Parking Authority"} -->
+# Title 18 — Tarrytown Parking Authority
 
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md)
 
@@ -7,29 +7,30 @@
 
 ## Contents
 
-- [§ 1600-A\*2 Short title](1600a-2-short-title.md)
-- [§ 1600-B\*2 Definitions](1600b-2-definitions.md)
-- [§ 1600-C\*2 Tarrytown parking authority](1600c-2-tarrytown-parking-authority.md)
-- [§ 1600-D\*2 Purpose and powers of the authority](1600d-2-purpose-and-powers-of-the-authority.md)
-- [§ 1600-E\*2 Civil service status of officers and employees](1600e-2-civil-service-status-of-officers-and-employees.md)
-- [§ 1600-F\*2 Conveyance of property by the village to the authority; acquisition of property by the village or by the authority](1600f-2-conveyance-of-property-by-the-village-to-the-authority.md)
-- [§ 1600-G\*2 Construction contracts](1600g-2-construction-contracts.md)
-- [§ 1600-H\*2 Moneys of the authority](1600h-2-moneys-of-the-authority.md)
-- [§ 1600-I\*2 Bonds of the authority](1600i-2-bonds-of-the-authority.md)
-- [§ 1600-J\*2 Notes of the authority](1600j-2-notes-of-the-authority.md)
-- [§ 1600-K\*2 Agreements of the village and the state](1600k-2-agreements-of-the-village-and-the-state.md)
-- [§ 1600-L\*2 State and village not liable on bonds](1600l-2-state-and-village-not-liable-on-bonds.md)
-- [§ 1600-M\*2 Bonds and notes legal investments for public officers and fiduciaries](1600m-2-bonds-and-notes-legal-investments-for-public-officers.md)
-- [§ 1600-N\*2 Tax exemptions](1600n-2-tax-exemptions.md)
-- [§ 1600-O\*2 Tax contract by the state](1600o-2-tax-contract-by-the-state.md)
-- [§ 1600-P\*2 Remedies of bondholders](1600p-2-remedies-of-bondholders.md)
-- [§ 1600-Q\*2 Actions against the authority](1600q-2-actions-against-the-authority.md)
-- [§ 1600-R\*2 Termination of the authority](1600r-2-termination-of-the-authority.md)
-- [§ 1600-S\*2 Title not affected if in part unconstitutional or ineffective](1600s-2-title-not-affected-if-in-part-unconstitutional.md)
-- [§ 1600-T Inconsistent provisions in other acts superseded](1600t-inconsistent-provisions-in-other-acts-superseded.md)
+- [§ 1600 Short title](1600-short-title.md) *(repealed)*
+- [§ 1600-A Short title](1600a-short-title.md)
+- [§ 1600-B Definitions](1600b-definitions.md)
+- [§ 1600-C Tarrytown parking authority](1600c-tarrytown-parking-authority.md)
+- [§ 1600-D Purpose and powers of the authority](1600d-purpose-and-powers-of-the-authority.md)
+- [§ 1600-E Civil service status of officers and employees](1600e-civil-service-status-of-officers-and-employees.md)
+- [§ 1600-F Conveyance of property by the village to the authority; acquisition of property by the village or by the authority](1600f-conveyance-of-property-by-the-village-to-the-authority.md)
+- [§ 1600-G Construction contracts](1600g-construction-contracts.md)
+- [§ 1600-H Moneys of the authority](1600h-moneys-of-the-authority.md)
+- [§ 1600-I Bonds of the authority](1600i-bonds-of-the-authority.md)
+- [§ 1600-J Notes of the authority](1600j-notes-of-the-authority.md)
+- [§ 1600-K Agreements of the village and the state](1600k-agreements-of-the-village-and-the-state.md)
+- [§ 1600-L State and village not liable on bonds](1600l-state-and-village-not-liable-on-bonds.md)
+- [§ 1600-M Bonds and notes legal investments for public officers and fiduciaries](1600m-bonds-and-notes-legal-investments-for-public-officers.md)
+- [§ 1600-N Tax exemptions](1600n-tax-exemptions.md)
+- [§ 1600-O Tax contract by the state](1600o-tax-contract-by-the-state.md)
+- [§ 1600-P Remedies of bondholders](1600p-remedies-of-bondholders.md)
+- [§ 1600-Q Actions against the authority](1600q-actions-against-the-authority.md)
+- [§ 1600-R Termination of the authority](1600r-termination-of-the-authority.md)
+- [§ 1600-S Title not affected if in part unconstitutional or ineffective](1600s-title-not-affected-if-in-part-unconstitutional-or-ineffective.md)
+- [§ 1600-T\*2 Termination of the authority](1600t-2-termination-of-the-authority.md) *(repealed)*
 
 <details>
-<summary>Official heading of Title 18*, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
+<summary>Official heading of Title 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                                * TITLE 18
@@ -59,7 +60,6 @@ Section 1600-a*2.  Short title.
                      ineffective.
         1600-t.    Inconsistent provisions in other acts superseded.
   * NB Ceased to exist December 31, 1999
-  * NB There are 2 A7 T18's
 ```
 
 </details>

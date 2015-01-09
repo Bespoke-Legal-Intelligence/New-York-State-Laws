@@ -86,12 +86,4 @@ corporations liable to pay tax under subdivision eight of section one
 hundred eighty-seven shall be required to make the reports required
 herein only on the fifteenth day of March in the years nineteen hundred
 sixty-five through and including nineteen hundred seventy-six.
-  * 5. Foreign corporations subject to license fee. Every foreign
-corporation subject to the license fee imposed by section one hundred
-eighty-one of this chapter shall include in the reports filed by it,
-pursuant to the provisions of articles nine or nine-a of this chapter,
-such information, in such form as the tax commission may prescribe, as
-may be necessary to enable the tax commission to determine the amount of
-its license fee, pursuant to the aforesaid section.
-  * NB Repealed January 1, 2015
 ```
