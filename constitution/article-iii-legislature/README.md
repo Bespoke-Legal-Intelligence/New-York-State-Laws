@@ -20,7 +20,7 @@
 - [§ A3S11   Members not to be questioned for speeches](section-11-members-not-to-be-questioned-for-speeches.md)
 - [§ A3S12   Bills may originate in either house; may be amended by the              other](section-12-bills-may-originate-in-either-house-may-be-amended-by-the-other.md)
 - [§ A3S13   Enacting clause of bills; no law to be enacted except by              bill](section-13-enacting-clause-of-bills-no-law-to-be-enacted-except-by-bill.md)
-- [§ A3S14 Manner of passing bills; message of necessity for immediate              vote](section-14-manner-of-passing-bills-message-of-necessity-for-immediate-vote.md)
+- [§ A3S14   Manner of passing bills; message of necessity for immediate              vote](section-14-manner-of-passing-bills-message-of-necessity-for-immediate-vote.md)
 - [§ A3S15   Private or local bills to embrace only one subject to be              expressed in title](section-15-private-or-local-bills-to-embrace-only-one-subject-to-be-expressed-in-title.md)
 - [§ A3S16   Existing law not to be made applicable by reference](section-16-existing-law-not-to-be-made-applicable-by-reference.md)
 - [§ A3S17   Cases in which private or local bills shall not be passed](section-17-cases-in-which-private-or-local-bills-shall-not-be-passed.md)

@@ -1,19 +1,11 @@
-﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 2106", "kind": "section", "law_id": "CVP", "location_id": "2106", "path": "ARTICLE 21 › SECTION 2106", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/2106.md", "title": "Affirmation of truth of statement by attorney, physician, osteopath or dentist"} -->
-# Civil Practice Law and Rules § 2106 — Affirmation of truth of statement by attorney, physician, osteopath or dentist
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 2106", "kind": "section", "law_id": "CVP", "location_id": "2106", "path": "ARTICLE 21 › SECTION 2106", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/2106.md", "title": "Affirmation of truth of statement"} -->
+# Civil Practice Law and Rules § 2106 — Affirmation of truth of statement
 
 [Civil Practice Law and Rules](../README.md) › [Article 21 — Papers](README.md)
 
 ```text
-  * Rule 2106. Affirmation of truth of statement by attorney, physician,
-osteopath or dentist. The statement of an attorney admitted to practice
-in the courts of the state, or of a physician, osteopath or dentist,
-authorized by law to practice in the state, who is not a party to an
-action, when subscribed and affirmed by him to be true under the
-penalties of perjury, may be served or filed in the action in lieu of
-and with the same force and effect as an affidavit.
-  * NB Effective until January 1, 2015
-  * Rule 2106. Affirmation of truth of statement. (a) The statement of
-an attorney admitted to practice in the courts of the state, or of a
+  Rule 2106. Affirmation of truth of statement. (a) The statement of an
+attorney admitted to practice in the courts of the state, or of a
 physician, osteopath or dentist, authorized by law to practice in the
 state, who is not a party to an action, when subscribed and affirmed by
 him to be true under the penalties of perjury, may be served or filed in
@@ -35,5 +27,4 @@ territory or insular possession subject to the jurisdiction of the
 United States, that the foregoing is true, and I understand that this
 document may be filed in an action or proceeding in a court of law.
   (Signature)
-  * NB Effective January 1, 2015
 ```

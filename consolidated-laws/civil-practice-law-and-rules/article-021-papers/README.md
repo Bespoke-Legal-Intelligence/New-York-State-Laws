@@ -11,7 +11,7 @@
 - [§ 2103-A Confidentiality of addresses in civil proceedings](2103a-confidentiality-of-addresses-in-civil-proceedings.md)
 - [§ 2104 Stipulations](2104-stipulations.md)
 - [§ 2105 Certification by attorney](2105-certification-by-attorney.md)
-- [§ 2106 Affirmation of truth of statement by attorney, physician, osteopath or dentist](2106-affirmation-of-truth-of-statement-by-attorney-physician-osteopath-or-dentist.md)
+- [§ 2106 Affirmation of truth of statement](2106-affirmation-of-truth-of-statement.md)
 
 <details>
 <summary>Official heading of Article 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

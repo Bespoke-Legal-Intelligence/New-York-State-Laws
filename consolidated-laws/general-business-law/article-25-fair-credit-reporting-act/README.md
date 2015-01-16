@@ -26,7 +26,7 @@
 - [§ 380-R Disclosures to governmental agencies](380r-disclosures-to-governmental-agencies.md)
 - [§ 380-S Theft of identity](380s-theft-of-identity.md)
 - [§ 380-T Security freeze](380t-security-freeze.md)
-- [§ 380-U Severability](380u-severability.md)
+- [§ 380-U Security record freeze for protected minors](380u-security-record-freeze-for-protected-minors.md)
 - [§ 380-V Severability](380v-severability.md)
 
 <details>

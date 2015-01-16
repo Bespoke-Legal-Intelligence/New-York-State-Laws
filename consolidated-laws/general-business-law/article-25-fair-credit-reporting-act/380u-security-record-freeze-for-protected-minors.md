@@ -1,17 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 380-U", "kind": "section", "law_id": "GBS", "location_id": "380-U", "path": "ARTICLE 25 › SECTION 380-U", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/380-U.md", "title": "Severability"} -->
-# General Business Law § 380-U — Severability
+﻿<!-- nyslaw {"citation": "General Business Law § 380-U", "kind": "section", "law_id": "GBS", "location_id": "380-U", "path": "ARTICLE 25 › SECTION 380-U", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/380-U.md", "title": "Security record freeze for protected minors"} -->
+# General Business Law § 380-U — Security record freeze for protected minors
 
 [General Business Law](../README.md) › [Article 25 — Fair Credit Reporting Act](README.md)
 
 ```text
-  * § 380-u. Severability. If any provision of this article or the
-application thereof to any person or circumstances is held to be
-invalid, such invalidity shall not affect other provisions or
-applications of this article which can be given effect without the
-invalid provision or application, and to this end the provisions of this
-article are severable.
-  * NB Effective until January 1, 2015
-  * § 380-u. Security record freeze for protected minors. (a) A consumer
+  § 380-u. Security record freeze for protected minors. (a) A consumer
 credit reporting agency shall place a security freeze for a protected
 consumer if:
   (1) The consumer credit reporting agency receives a request from the
@@ -112,5 +105,4 @@ background screening.
   (k) Notwithstanding any other provision of law, the exclusive remedy
 for a violation of this section shall be in an action commenced by the
 attorney general.
-  * NB Effective January 1, 2015
 ```

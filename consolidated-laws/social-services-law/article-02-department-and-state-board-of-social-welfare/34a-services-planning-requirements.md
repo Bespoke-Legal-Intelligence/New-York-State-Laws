@@ -172,7 +172,7 @@ family services for review by January first, two thousand eight and the
 office shall approve or disapprove such local policies and procedures,
 based upon the model practices and procedures established in conjunction
 with the state department of education, within sixty days of submission.
-  * 9. (a) In order to allow families time to properly plan for their
+  9. (a) In order to allow families time to properly plan for their
 financial needs and for the safety, social and emotional needs of their
 children, in the event that a social services district proposes to amend
 its consolidated services plan, submits an annual plan update, or takes
@@ -226,5 +226,4 @@ certified employee organizations representing licensed, registered and
 legally-exempt child care providers in the affected district post the
 notice on their official website. This notice shall not be considered as
 a substitute for any notice to parents which is required by law.
-  * NB Effective January 1, 2015
 ```
