@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 1123", "kind": "section", "law_id": "ISC", "location_id": "1123", "path": "ARTICLE 11 › SECTION 1123", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1123.md", "title": "Health insurance demonstration program for independent workers"} -->
+﻿<!-- nyslaw {"citation": "Insurance Law § 1123", "kind": "section", "law_id": "ISC", "location_id": "1123", "path": "ARTICLE 11 › SECTION 1123", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:ISC/1123.md", "title": "Health insurance demonstration program for independent workers"} -->
 # Insurance Law § 1123 — Health insurance demonstration program for independent workers
 
 [Insurance Law](../README.md) › [Article 11 — Licensing of Insurers](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1123. Health insurance demonstration program for independent

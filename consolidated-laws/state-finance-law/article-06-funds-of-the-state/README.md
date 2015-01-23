@@ -58,7 +58,7 @@
 - [§ 92-Q\*2 The institute for the Hudson River Collection fund](92q-2-the-institute-for-the-hudson-river-collection-fund.md)
 - [§ 92-R Local government assistance tax fund](92r-local-government-assistance-tax-fund.md)
 - [§ 92-S Environmental protection fund](92s-environmental-protection-fund.md)
-- [§ 92-T New York state campaign finance fund](92t-new-york-state-campaign-finance-fund.md)
+- [§ 92-T New York state campaign finance fund](92t-new-york-state-campaign-finance-fund.md) *(repealed)*
 - [§ 92-U New York state canal system development fund](92u-new-york-state-canal-system-development-fund.md)
 - [§ 92-V Linked deposit program fund](92v-linked-deposit-program-fund.md)
 - [§ 92-W Missing and exploited children clearinghouse fund](92w-missing-and-exploited-children-clearinghouse-fund.md)
@@ -287,7 +287,6 @@ Section 70.        Classification of funds.
         92-q*2.    The institute for the Hudson River Collection fund.
         92-r.      Local government assistance tax fund.
         92-s.      Environmental protection fund.
-        92-t.      New York state campaign finance fund.
         92-u.      New York state canal system development fund.
         92-v.      Linked deposit program fund.
         92-w.      Missing and exploited children clearinghouse fund.

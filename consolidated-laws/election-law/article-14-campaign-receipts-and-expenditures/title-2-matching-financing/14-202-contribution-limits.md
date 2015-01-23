@@ -1,0 +1,43 @@
+﻿<!-- nyslaw {"citation": "Election Law § 14-202", "kind": "section", "law_id": "ELN", "location_id": "14-202", "path": "ARTICLE 14 › TITLE 2 › SECTION 14-202", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:ELN/14-202.md", "title": "Contribution limits"} -->
+# Election Law § 14-202 — Contribution limits
+
+[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures](../README.md) › [Title 2 — Matching Financing](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
+
+```text
+  * § 14-202. Contribution limits. Recipients of funds pursuant to this
+title shall be subject to the following contribution limits:
+  1. In the two thousand fourteen election for comptroller, or for
+nomination to such office, no contributor may make a contribution to any
+candidate or political committee participating in the state's public
+campaign financing system as defined in title two of this article, and
+no such candidate or political committee may accept any contribution
+from any contributor, which is in the aggregate amount greater than: (a)
+in the case of any nomination to public office, the product of the total
+number of enrolled voters in the candidate's party in the state,
+excluding voters in inactive status, multiplied by $.005, but such
+amount shall be not more than six thousand dollars and (b) in the case
+of any election to such public office, six thousand dollars; provided
+however, that the maximum amount which may be so contributed or
+accepted, in the aggregate, from any candidate's child, parent,
+grandparent, brother and sister, and the spouse of any such persons,
+shall not exceed in the case of any nomination to public office an
+amount equivalent to the product of the number of enrolled voters in the
+candidate's party in the state, excluding voters in inactive status,
+multiplied by $.025, and in the case of any election for a public
+office, an amount equivalent to the product of the number of registered
+voters in the state excluding voters in inactive status, multiplied by
+$.025.
+  2. In the event that a candidate for the two thousand fourteen
+election for comptroller has received a contribution which exceeds the
+limitations of this subdivision prior to becoming a participating
+candidate in the state's matching campaign financing system, the
+candidate shall either (a) deposit any amount in excess of the
+contribution limit set forth in this subdivision, into a segregated
+account where it shall not be withdrawn for campaign expenditures for
+any comptroller election in the year two thousand fourteen; or (b)
+return any amount in excess of the contribution limit set forth in this
+section, by bank check or certified check made out to the contributor.
+  * NB Repealed December 31, 2014
+```

@@ -219,8 +219,6 @@ Article
   29-A.   Access to community health care services in rural areas.
           Title    I.   Rural health care access (§§2950-2958).
                  1-A.   Rural dentistry pilot program (§2958-a).
-                  II.   Adirondack medical home multipayor demonstration
-                         program (§2959).
   29-AA.  Patient centered medical homes (§ 2959-a).
   29-B.   Orders not to resuscitate (§§2960-2979).
   29-C.   Health care agents and proxies (§§2980-2994).

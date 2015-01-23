@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
-| Sections | 1,005 |
-| Last changed | 16 Jan 2015 |
+| Sections | 1,005 (3 repealed) |
+| Last changed | 23 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -26,13 +26,14 @@ ARTICLE   1. General provisions. (§§ 101-110)
                201-214)
           3. Administrative and procedural provisions. (§§ 301-342)
           4. Insurance frauds prevention. (§§ 401-411)
-         11. Licensing of insurers. (§§ 1101-1125)
+         11. Licensing of insurers. (§§ 1101-1124*2)
 ```
 
 [Full chapter text (84 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Jan 2015](../../changes/2015/2015-01-23.md): 2 amended, 3 repealed
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 4 amended
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 6 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 4 amended

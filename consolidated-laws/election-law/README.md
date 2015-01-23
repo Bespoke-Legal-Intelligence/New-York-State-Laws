@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 405 |
-| Last changed | 5 Dec 2014 |
+| Sections | 405 (14 repealed) |
+| Last changed | 23 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -31,6 +31,7 @@ of section forty-two of the public officers law and amending such law in
 
 ## Recent changes
 
+- [23 Jan 2015](../../changes/2015/2015-01-23.md): 3 amended, 14 repealed
 - [5 Dec 2014](../../changes/2014/2014-12-05.md): 1 amended
 
 ## Contents
@@ -48,7 +49,7 @@ of section forty-two of the public officers law and amending such law in
 - [Article 11 — Special Presidential and Special Federal Voters and Special Ballots](article-11-special-presidential-and-special-federal-voters/)
 - [Article 12 — Presidential Electors and Federal Elected Officers](article-12-presidential-electors-and-federal-elected/)
 - [Article 13 — Annual Political Calendar](article-13-annual-political-calendar/)
-- [Article 14 — Campaign Receipts and Expenditures; Matching Financing](article-14-campaign-receipts-and-expenditures-matching/)
+- [Article 14 — Campaign Receipts and Expenditures](article-14-campaign-receipts-and-expenditures/)
 - [Article 15 — Village Elections](article-15-village-elections/)
 - [Article 16 — Judicial Proceedings](article-16-judicial-proceedings/)
 - [Article 17 — Violations of the Elective Franchise](article-17-violations-of-the-elective-franchise/)

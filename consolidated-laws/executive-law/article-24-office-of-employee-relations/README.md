@@ -10,7 +10,7 @@
 - [§ 652 Office of employee relations; director](652-office-of-employee-relations-director.md)
 - [§ 653 Powers and duties](653-powers-and-duties.md)
 - [§ 654 Actions by other officers, departments, boards, commissions or agencies](654-actions-by-other-officers-departments-boards-commissions-or-agencies.md)
-- [§ 666 Mandate and regulatory relief council](666-mandate-and-regulatory-relief-council.md)
+- [§ 666 Mandate and regulatory relief council](666-mandate-and-regulatory-relief-council.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 24, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,7 +24,6 @@ Section 650. Statement of policy.
         653. Powers and duties.
         654. Actions by other officers, departments, boards, commissions
                or agencies.
-        666. Mandate and regulatory relief council.
 ```
 
 </details>

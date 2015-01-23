@@ -21,7 +21,7 @@
 - [§ 53 Budget review process](53-budget-review-process.md)
 - [§ 54 Report on the budget](54-report-on-the-budget.md)
 - [§ 54-A Scheduling of legislative consideration of budget bills](54a-scheduling-of-legislative-consideration-of-budget-bills.md)
-- [§ 54-B Reorganization plan](54b-reorganization-plan.md)
+- [§ 54-B Reorganization plan](54b-reorganization-plan.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -49,7 +49,6 @@ Section  40.   Certificate of presiding officer.
          53.   Budget review process.
          54.   Report on the budget.
          54-a. Scheduling of legislative consideration of budget bills.
-         54-b. Reorganization plan.
 ```
 
 </details>

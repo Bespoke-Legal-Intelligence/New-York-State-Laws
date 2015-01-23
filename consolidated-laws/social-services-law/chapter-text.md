@@ -67,7 +67,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                         with AIDS.  (§§ 369-k--369-n)
                 11-C. Medicaid drug utilization review.
                         (§§ 369-aa--369-cc).
-                11-D. Family health plus program. (§§ 369-ee--369-gg).
+                11-D. Family health plus program. (§§ 369-gg).
                 12.   Community centers and services for senior citizens
                         (§§ 370--370-b).
                 13.   State Heating Fuel Crisis Assistance. (§ 370-aa).

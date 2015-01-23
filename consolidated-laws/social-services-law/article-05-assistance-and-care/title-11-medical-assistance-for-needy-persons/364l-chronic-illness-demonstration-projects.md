@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 364-L", "kind": "section", "law_id": "SOS", "location_id": "364-L", "path": "ARTICLE 5 › TITLE 11 › SECTION 364-L", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/364-L.md", "title": "Chronic illness demonstration projects"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 364-L", "kind": "section", "law_id": "SOS", "location_id": "364-L", "path": "ARTICLE 5 › TITLE 11 › SECTION 364-L", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:SOS/364-L.md", "title": "Chronic illness demonstration projects"} -->
 # Social Services Law § 364-L — Chronic illness demonstration projects
 
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 364-l. Chronic illness demonstration projects. 1. The legislature

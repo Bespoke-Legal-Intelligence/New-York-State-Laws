@@ -588,103 +588,18 @@ section eleven hundred twenty of the insurance law, for the period April
 first, two thousand fourteen through March thirty-first, two thousand
 fifteen, subsidy payments made to approved organizations shall be at
 amounts approved prior to April first, two thousand fourteen.
-  * 9. (a) The commissioner shall develop and implement locally-tailored
-public education, outreach and facilitated enrollment strategies
-targeted to children who may be eligible for benefits under this title
-or title eleven of article five of the social services law, and may
-contract with community based organizations including but not limited
-to, child advocacy organizations, providers, school-based health centers
-and local government. In awarding contracts, the commissioner shall
-consider the extent to which such organizations, or coalitions of
-organizations, are able to target efforts effectively in geographic
-regions of the state where the proportion of children enrolled under
-this title and title eleven of article five of the social services law
-is lower than other geographic regions of the state. In approving
-entities to undertake activities pursuant to this subdivision, within a
-defined geographic region, the commissioner shall make a good faith
-effort to assure that a coalition is broadly inclusive of organizations
-able to target effectively children who may be eligible under this title
-and title eleven of article five of the social services law.
-  (b) Outreach strategies shall include, but are not limited to:
-  (i) public education;
-  (ii) dissemination of outreach materials regarding the availability of
-benefits available under this title and title eleven of article five of
-the social services law, so long as such materials have been approved by
-the commissioner prior to distribution;
-  (iii) recruitment of children who may be eligible under this title or
-title eleven of article five of the social services law, including the
-distribution of a common application form for services under such
-titles;
-  (iv) outstationing of persons who are authorized to provide assistance
-to families in completing the enrollment application process under this
-title and title eleven of article five of the social services law, in
-locations, such as community settings, which are geographically
-accessible to large numbers of children who may be eligible for benefits
-under such titles, and at times, including evenings and weekends, when
-large numbers of children who may be eligible for benefits under such
-titles are likely to be encountered. Persons outstationed in accordance
-with this subparagraph shall be authorized to make determinations of
-presumptive eligibility in accordance with paragraph (f) of subdivision
-two of this section; and
-  (v) notice by local social services districts to medical assistance
-applicants of the availability of benefits under paragraph (f) of
-subdivision two of this section.
-  (c) The commissioner shall assure that persons authorized to determine
-eligibility under title eleven of article five of the social services
-law are placed in selected community settings.
-  (d) Subject to the availability of funds therefor, training shall be
-provided for outstationed persons and employees of approved
-organizations to enable them to disseminate information, and facilitate
-the completion of the application process under this subdivision.
-  (e) The commissioner shall assure that outreach activities are
-coordinated with all approved organizations, enrollment brokers and
-other relevant entities under this title and title eleven of article
-five of the social services law. The commissioner shall periodically
-monitor activities of these entities to facilitate the completion of
-applications for services and other activities under this subdivision.
-Such monitoring may include, but not be limited to, unannounced site
-visits. As part of the commissioner's assurance of coordinated outreach
-activities, contracts with outreach organizations under this subdivision
-shall include enrollment procedures for inquiring into existing
-relationships with health care providers and procedures for providing
-information about how such relationships may be maintained with respect
-to health care coverage under this title and under title eleven of
-article five of the social services law.
-  (f) Prior to entering into a contract under this subdivision, the
-commissioner shall require that potential outreach organizations
-disclose the nature of any contractual, financial, fiduciary or advisory
-relationships they have with any approved organizations providing
-covered health care services, and with the department. Applications
-submitted by organizations which fail to disclose any such relationships
-shall be eliminated from consideration for this program.
-  (g) The commissioner is authorized to submit one or more amendments to
-the appropriate cost allocation plan to enable the state to receive
-federal financial participation under title XIX and title XXI of the
-federal social security act, and is authorized to modify the
-administration of this program in order to obtain the maximum amount of
-federal financial participation for its components.
-  (h) Regardless of the availability of funding for contractual
-arrangements, upon application the commissioner may permit additional
-community-based organizations and qualified health care providers to
-perform education, outreach and facilitated enrollment services in
-accordance with this subdivision.
-  (i) The provisions of this subdivision shall be implemented only to
-the extent such provisions are not inconsistent with federal law,
-regulation and administrative guidance.
-  * NB Effective until July 1, 2014
-  * 9. The commissioner shall, within amounts available therefor,
-contract with community-based and other marketing organizations for
-purposes of public education, outreach, and recruitment of eligible
-children, including the distribution of applications and information
-regarding enrollment. In awarding such contracts, the commissioner shall
-consider the marketing, outreach and recruitment efforts of approved
+  9. The commissioner shall, within amounts available therefor, contract
+with community-based and other marketing organizations for purposes of
+public education, outreach, and recruitment of eligible children,
+including the distribution of applications and information regarding
+enrollment. In awarding such contracts, the commissioner shall consider
+the marketing, outreach and recruitment efforts of approved
 organizations, and the extent to which such organizations are able to
 effectively target efforts in geographic regions where the proportion of
 eligible children enrolled under this title are lower than in other
 geographic regions of the state. Community-based organizations shall
 include, but not be limited to: day care centers, schools,
 community-based diagnostic and treatment centers, and hospitals.
-  * NB Effective July 1, 2014
   10. Notwithstanding any other law or agreement to the contrary, and
 except in the case of a child or children who also becomes eligible for
 medical assistance, benefits under this title shall be considered

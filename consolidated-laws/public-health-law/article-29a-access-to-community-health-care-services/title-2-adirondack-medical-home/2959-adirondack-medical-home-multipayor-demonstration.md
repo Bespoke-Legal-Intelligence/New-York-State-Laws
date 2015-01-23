@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2959", "kind": "section", "law_id": "PBH", "location_id": "2959", "path": "ARTICLE 29-A › TITLE 2 › SECTION 2959", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2959.md", "title": "Adirondack medical home multipayor demonstration program"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2959", "kind": "section", "law_id": "PBH", "location_id": "2959", "path": "ARTICLE 29-A › TITLE 2 › SECTION 2959", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:PBH/2959.md", "title": "Adirondack medical home multipayor demonstration program"} -->
 # Public Health Law § 2959 — Adirondack medical home multipayor demonstration program
 
 [Public Health Law](../../README.md) › [Article 29-A — Access to Community Health Care Services In Rural Areas](../README.md) › [Title 2 — Adirondack Medical Home Multipayor Demonstration Program](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2959. Adirondack medical home multipayor demonstration program. 1.

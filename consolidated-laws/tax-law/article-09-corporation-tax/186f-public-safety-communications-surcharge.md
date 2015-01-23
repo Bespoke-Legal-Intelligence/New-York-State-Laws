@@ -129,42 +129,13 @@ state, and maintains compliance with such standards and guidelines. The
 grant amount will be prescribed pursuant to an agreement with the
 municipality, and may not exceed thirty percent of the annual cost borne
 by the municipality in relation to such bonds;
-  * (d) The sum of seven million dollars annually for the provision of
-grants to counties for costs related to the operation and improvement of
-local public safety answering points. Such annual grants may consider
-prospective or retrospective costs incurred to consolidate public safety
-answering points, to implement new technologies in local public safety
-answering points that facilitate interoperability and create operating
-efficiencies, or to promote the development and implementation of
-cross-jurisdictional standard operating procedures that foster regional
-consolidation. The sum of two million dollars annually for the provision
-of reimbursement to counties for operating expenses, other than personal
-service, incurred during the operation of local public safety answering
-points. The commissioner shall develop a plan for the distribution of
-such reimbursement, in consultation with the New York state
-interoperable and emergency communication board. The plan for
-distribution may consider the potential recipient's compliance with the
-standards of such board and the potential recipient's role in providing
-communication services to the benefit of other municipalities.
-  * NB Effective until March 31, 2014
-  * (d) To provide the costs of debt service for bonds and notes issued
-to finance expedited deployment funding pursuant to the provisions of
+  (d) To provide the costs of debt service for bonds and notes issued to
+finance expedited deployment funding pursuant to the provisions of
 section three hundred thirty-three of the county law and section sixteen
 hundred eighty-nine-h of the public authorities law; and
-  * NB Effective March 31, 2014
-  * (e) To provide the costs of debt service for bonds and notes issued
-to finance expedited deployment funding pursuant to the provisions of
-section three hundred thirty-three of the county law and section sixteen
-hundred eighty-nine-h of the public authorities law; and
-  * NB Effective until March 31, 2014
-  * (e) services and expenses that support the operations and mission of
+  (e) services and expenses that support the operations and mission of
 the division of homeland security and emergency services as appropriated
 by the legislature.
-  * NB Effective March 31, 2014
-  * (f) Services and expenses that support the operations and mission of
-the division of homeland security and emergency services as appropriated
-by the legislature.
-  * NB Effective until March 31, 2014
   (g) The sum of ten million dollars annually shall be used for the
 provision of grants to counties for costs related to the operations of
 public safety dispatch centers, to be distributed pursuant to a plan

@@ -25,7 +25,7 @@
       3. Freedom of worship; religious liberty.
 ```
 
-[Full chapter text (377 lines)](chapter-text.md)
+[Full chapter text (378 lines)](chapter-text.md)
 
 ## Recent changes
 

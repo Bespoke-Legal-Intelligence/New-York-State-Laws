@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 369-EE", "kind": "section", "law_id": "SOS", "location_id": "369-EE", "path": "ARTICLE 5 › TITLE 11-D › SECTION 369-EE", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/369-EE.md", "title": "Family health plus program"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 369-EE", "kind": "section", "law_id": "SOS", "location_id": "369-EE", "path": "ARTICLE 5 › TITLE 11-D › SECTION 369-EE", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:SOS/369-EE.md", "title": "Family health plus program"} -->
 # Social Services Law § 369-EE — Family health plus program
 
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-D — Family Health Plus Program](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 369-ee. Family health plus program. 1. Definitions. (a) "Family

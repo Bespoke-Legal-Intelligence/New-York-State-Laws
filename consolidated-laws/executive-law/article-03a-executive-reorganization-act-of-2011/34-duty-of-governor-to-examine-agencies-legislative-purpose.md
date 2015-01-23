@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 34", "kind": "section", "law_id": "EXC", "location_id": "34", "path": "ARTICLE 3-A › SECTION 34", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/34.md", "title": "Duty of governor to examine agencies; legislative purpose"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 34", "kind": "section", "law_id": "EXC", "location_id": "34", "path": "ARTICLE 3-A › SECTION 34", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:EXC/34.md", "title": "Duty of governor to examine agencies; legislative purpose"} -->
 # Executive Law § 34 — Duty of governor to examine agencies; legislative purpose
 
 [Executive Law](../README.md) › [Article 3-A — Executive Reorganization Act of 2011](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 34. Duty of governor to examine agencies; legislative purpose. 1.

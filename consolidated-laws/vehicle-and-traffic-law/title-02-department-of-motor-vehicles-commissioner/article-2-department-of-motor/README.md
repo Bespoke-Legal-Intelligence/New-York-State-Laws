@@ -8,7 +8,7 @@
 - [§ 200 Department of motor vehicles; commissioner](200-department-of-motor-vehicles-commissioner.md)
 - [§ 201 Custody of records](201-custody-of-records.md)
 - [§ 202 Fees for searches and copies of documents](202-fees-for-searches-and-copies-of-documents.md)
-- [§ 202-A Payment of fees and other charges by credit card or similar device](202a-payment-of-fees-and-other-charges-by-credit-card.md)
+- [§ 202-A Payment of fees and other charges by credit card or similar device](202a-payment-of-fees-and-other-charges-by-credit-card.md) *(repealed)*
 - [§ 202-B Penalties for submission of dishonored checks and credit card payments](202b-penalties-for-submission-of-dishonored-checks.md)
 - [§ 203 Oaths and acknowledgments](203-oaths-and-acknowledgments.md)
 - [§ 204 Subpoenaing hearing referees](204-subpoenaing-hearing-referees.md)
@@ -44,8 +44,6 @@
 Section 200.   Department of motor vehicles; commissioner.
         201.   Custody of records.
         202.   Fees for searches and copies of documents.
-        202-a. Payment of fees and other charges by credit card or
-                 similar device.
         202-b. Penalties for submission of dishonored checks and credit
                  card payments.
         203.   Oaths and acknowledgments.

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 92-T", "kind": "section", "law_id": "STF", "location_id": "92-T", "path": "ARTICLE 6 › SECTION 92-T", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/92-T.md", "title": "New York state campaign finance fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 92-T", "kind": "section", "law_id": "STF", "location_id": "92-T", "path": "ARTICLE 6 › SECTION 92-T", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:STF/92-T.md", "title": "New York state campaign finance fund"} -->
 # State Finance Law § 92-T — New York state campaign finance fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   *§ 92-t. New York state campaign finance fund. 1. There is hereby

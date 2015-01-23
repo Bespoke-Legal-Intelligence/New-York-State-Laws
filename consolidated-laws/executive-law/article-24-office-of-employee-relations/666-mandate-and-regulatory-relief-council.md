@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 666", "kind": "section", "law_id": "EXC", "location_id": "666", "path": "ARTICLE 24 › SECTION 666", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/666.md", "title": "Mandate and regulatory relief council"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 666", "kind": "section", "law_id": "EXC", "location_id": "666", "path": "ARTICLE 24 › SECTION 666", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:EXC/666.md", "title": "Mandate and regulatory relief council"} -->
 # Executive Law § 666 — Mandate and regulatory relief council
 
 [Executive Law](../README.md) › [Article 24 — Office of Employee Relations](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 666. Mandate and regulatory relief council. 1. Definitions. a.

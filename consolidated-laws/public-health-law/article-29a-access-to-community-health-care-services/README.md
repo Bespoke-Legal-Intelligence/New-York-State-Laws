@@ -7,7 +7,7 @@
 
 - [Title 1 — Rural Health Care Access](title-1-rural-health-care-access/)
 - [Title 1-A — Rural Dentistry Pilot Program](title-1a-rural-dentistry-pilot-program/)
-- [Title 2 — Adirondack Medical Home Multipayor Demonstration Program](title-2-adirondack-medical-home/)
+- [Title 2 — Adirondack Medical Home Multipayor Demonstration Program](title-2-adirondack-medical-home/) *(repealed)*
 
 <details>
 <summary>Official heading of Article 29-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

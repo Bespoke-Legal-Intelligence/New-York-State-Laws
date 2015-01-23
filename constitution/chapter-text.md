@@ -61,6 +61,7 @@ The text the Senate publishes at the top level of this law. For some laws this i
       5.   Apportionment of assembly members; creation of assembly
              districts.
       5-a. Definition of inhabitants for purpose of apportioning.
+      5-b. An independent redistricting commission established.
       6.   Compensation, allowances and traveling expenses of members.
       7.   Members; qualifications; not to receive certain civil
              appointments; acceptance to vacate seat.

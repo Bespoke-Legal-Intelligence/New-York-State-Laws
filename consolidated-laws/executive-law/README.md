@@ -7,14 +7,14 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 856 |
-| Last changed | 16 Jan 2015 |
+| Sections | 856 (10 repealed) |
+| Last changed | 23 Jan 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
-**Short title (from the law itself):** * § 33. Short title. This article shall be known and may be cited as the "executive reorganization act of 2011". * NB Repealed May 31, 2014
+**Short title (from the law itself):** § 369. Short title. This article shall be known and may be cited as the "veterans employment act".
 
 ## Chapter text as published
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (113 lines)](chapter-text.md)
+[Full chapter text (112 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Jan 2015](../../changes/2015/2015-01-23.md): 1 amended, 10 repealed
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 1 amended
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 1 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 amended
@@ -49,7 +50,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 2-A — Reprieves, Commutations and Pardons](article-02a-reprieves-commutations-and-pardons/)
 - [Article 2-B — State and Local Natural and Man-made Disaster Preparedness](article-02b-state-and-local-natural-and-man-made-disaster/)
 - [Article 3 — Executive Department](article-03-executive-department/)
-- [Article 3-A — Executive Reorganization Act of 2011](article-03a-executive-reorganization-act-of-2011/)
+- [Article 3-A — Executive Reorganization Act of 2011](article-03a-executive-reorganization-act-of-2011/) *(repealed)*
 - [Article 4 — Department of Audit and Control](article-04-department-of-audit-and-control/)
 - [Article 4-A — Office of the State Inspector General](article-04a-office-of-the-state-inspector-general/)
 - [Article 5 — Department of Law](article-05-department-of-law/)

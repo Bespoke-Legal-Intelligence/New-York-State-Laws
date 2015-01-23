@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 39-A", "kind": "section", "law_id": "EXC", "location_id": "39-A", "path": "ARTICLE 3-A › SECTION 39-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/39-A.md", "title": "Effect on actions or proceedings"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 39-A", "kind": "section", "law_id": "EXC", "location_id": "39-A", "path": "ARTICLE 3-A › SECTION 39-A", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:EXC/39-A.md", "title": "Effect on actions or proceedings"} -->
 # Executive Law § 39-A — Effect on actions or proceedings
 
 [Executive Law](../README.md) › [Article 3-A — Executive Reorganization Act of 2011](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 39-a. Effect on actions or proceedings. This article shall not

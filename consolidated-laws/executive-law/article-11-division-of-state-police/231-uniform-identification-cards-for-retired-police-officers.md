@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 231. Uniform identification cards for retired police officers. 1.
+  § 231. Uniform identification cards for retired police officers. 1.
 The superintendent, in conjunction with the division of criminal justice
 services, shall develop and distribute uniform identification cards to
 all sworn members of New York state police, upon such members'
@@ -29,5 +29,4 @@ programs or initiatives to supplement such system for the purpose of
 improving law enforcement security. The superintendent shall consult and
 comply with any federal laws, rules, regulations or standards pertaining
 to the issuance of uniform law enforcement identification cards.
-  * NB Effective January 20, 2015
 ```

@@ -30,11 +30,11 @@
 - [§ 1120 Child health insurance plan](1120-child-health-insurance-plan.md)
 - [§ 1121 Voucher insurance program](1121-voucher-insurance-program.md)
 - [§ 1122 New York state health insurance continuation assistance demonstration project](1122-new-york-state-health-insurance-continuation-assistance-demonstration-project.md)
-- [§ 1123 Health insurance demonstration program for independent workers](1123-health-insurance-demonstration-program-for-independent-workers.md)
-- [§ 1123-A Health insurance demonstration program for former employees](1123a-health-insurance-demonstration-program-for-former-employees.md)
+- [§ 1123 Health insurance demonstration program for independent workers](1123-health-insurance-demonstration-program-for-independent-workers.md) *(repealed)*
+- [§ 1123-A Health insurance demonstration program for former employees](1123a-health-insurance-demonstration-program-for-former-employees.md) *(repealed)*
 - [§ 1124 Institutions of higher education exempt; certificate of authority](1124-institutions-of-higher-education-exempt-certificate-of-authority.md)
 - [§ 1124\*2 Managed care health savings account](1124-2-managed-care-health-savings-account.md)
-- [§ 1125 Freelancers health plan demonstration program](1125-freelancers-health-plan-demonstration-program.md)
+- [§ 1125 Freelancers health plan demonstration program](1125-freelancers-health-plan-demonstration-program.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,14 +72,9 @@ Section 1101.   Definitions; doing an insurance business.
         1121.   Voucher insurance program.
         1122.   New York state health insurance continuation assistance
                   demonstration project.
-        1123.   Health insurance demonstration program for independent
-                  workers.
-        1123-a. Health insurance demonstration program for former
-                  employees.
         1124.   Institutions of higher education exempt; certificate of
                   authority.
         1124*2. Managed care health savings account.
-        1125.   Freelancers health plan demonstration program.
 ```
 
 </details>

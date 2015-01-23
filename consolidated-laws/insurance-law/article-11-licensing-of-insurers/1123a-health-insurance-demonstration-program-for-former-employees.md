@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 1123-A", "kind": "section", "law_id": "ISC", "location_id": "1123-A", "path": "ARTICLE 11 › SECTION 1123-A", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/1123-A.md", "title": "Health insurance demonstration program for former employees"} -->
+﻿<!-- nyslaw {"citation": "Insurance Law § 1123-A", "kind": "section", "law_id": "ISC", "location_id": "1123-A", "path": "ARTICLE 11 › SECTION 1123-A", "repealed": true, "repealed_date": "2015-01-23", "source": "nys-laws:ISC/1123-A.md", "title": "Health insurance demonstration program for former employees"} -->
 # Insurance Law § 1123-A — Health insurance demonstration program for former employees
 
 [Insurance Law](../README.md) › [Article 11 — Licensing of Insurers](README.md)
+
+**Repealed** (23 Jan 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1123-a. Health insurance demonstration program for former

@@ -476,15 +476,6 @@ subdivision nineteen of section two hundred ten-B of this article.
 hundred ninety-nine of the internal revenue code.
   (20) The amount of any federal deduction for taxes imposed under
 article twenty-three of this chapter.
-  (20-a) The amount of any federal deduction for the excise tax on
-telecommunication services to the extent such taxes are used as the
-basis of the calculation of the tax-free NY area excise tax on
-telecommunication services credit allowed under subdivision forty-four
-of section two hundred ten-B of this article.
-  (21) The amount of any federal deduction for real property taxes to
-the extent such taxes are used as the basis of the calculation of the
-real property tax credit for manufacturers allowed under subdivision
-forty-three of section two hundred ten-B of this article.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation
