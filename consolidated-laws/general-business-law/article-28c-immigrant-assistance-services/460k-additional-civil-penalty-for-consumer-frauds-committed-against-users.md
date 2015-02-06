@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 28-C — Immigrant Assistance Services](README.md)
 
 ```text
-  * § 460-k. Additional civil penalty for consumer frauds committed
+  § 460-k. Additional civil penalty for consumer frauds committed
 against users of immigrant assistance services. 1. (a) In addition to
 any liability for damages or a civil penalty imposed pursuant to
 sections three hundred forty-nine, three hundred fifty-c and three
@@ -39,5 +39,4 @@ defendant's conduct.
 subdivision one of this section or pursuant to any other section of law
 shall be given priority over the imposition of civil penalties ordered
 by the court under this section.
-  * NB Effective February 2, 2015
 ```

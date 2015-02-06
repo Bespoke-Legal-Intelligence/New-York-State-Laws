@@ -1,16 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 460-F", "kind": "section", "law_id": "GBS", "location_id": "460-F", "path": "ARTICLE 28-C › SECTION 460-F", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/460-F.md", "title": "Retention of documents"} -->
-# General Business Law § 460-F — Retention of documents
+﻿<!-- nyslaw {"citation": "General Business Law § 460-F", "kind": "section", "law_id": "GBS", "location_id": "460-F", "path": "ARTICLE 28-C › SECTION 460-F", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/460-F.md", "title": "Surety requirement"} -->
+# General Business Law § 460-F — Surety requirement
 
 [General Business Law](../README.md) › [Article 28-C — Immigrant Assistance Services](README.md)
 
 ```text
-  * § 460-f. Retention of documents. Every provider shall retain copies
-of all documents prepared or obtained in connection with a customer's
-request for assistance for a period of three years after a written
-contract is executed by the provider and the customer, whether or not
-such contract is subsequently cancelled.
-  * NB Effective until February 2, 2015
-  * § 460-f. Surety requirement. Every provider shall maintain in full
+  § 460-f. Surety requirement. Every provider shall maintain in full
 force and effect for the entire period during which the provider
 provides immigrant assistance services and for one year after the
 provider ceased to do business as an immigrant assistance service
@@ -28,5 +22,4 @@ the provider to which he or she is entitled, or is otherwise injured by
 the provider. The attorney general on behalf of the customer or the
 customer in his or her own name, may maintain an action against the
 provider and the surety.
-  * NB Effective February 2, 2015
 ```

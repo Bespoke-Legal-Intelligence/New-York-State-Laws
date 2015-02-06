@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3217-g. Maternal depression screenings. To the extent a policy
+  § 3217-g. Maternal depression screenings. To the extent a policy
 provides coverage for maternal depression screening, no insurer subject
 to this article shall by contract, written policy or procedure limit a
 patient insured's direct access to screening and referral for maternal
@@ -14,5 +14,4 @@ gynecologic, or pediatric services of her choice; provided that the
 patient insured's access to such services, coverage and choice of
 provider is otherwise subject to the terms and conditions of the policy
 under which the patient insured is covered.
-  * NB Effective January 31, 2015
 ```

@@ -58,7 +58,6 @@
 - [§ 92-Q\*2 The institute for the Hudson River Collection fund](92q-2-the-institute-for-the-hudson-river-collection-fund.md)
 - [§ 92-R Local government assistance tax fund](92r-local-government-assistance-tax-fund.md)
 - [§ 92-S Environmental protection fund](92s-environmental-protection-fund.md)
-- [§ 92-T New York state campaign finance fund](92t-new-york-state-campaign-finance-fund.md) *(repealed)*
 - [§ 92-U New York state canal system development fund](92u-new-york-state-canal-system-development-fund.md)
 - [§ 92-V Linked deposit program fund](92v-linked-deposit-program-fund.md)
 - [§ 92-W Missing and exploited children clearinghouse fund](92w-missing-and-exploited-children-clearinghouse-fund.md)
@@ -189,6 +188,7 @@
 - [§ 97-OOOO Basic health program trust fund](97oooo-basic-health-program-trust-fund.md)
 - [§ 97-OOOO\*2 Smart schools bond fund](97oooo-2-smart-schools-bond-fund.md)
 - [§ 97-PPPP Wage theft prevention enforcement account](97pppp-wage-theft-prevention-enforcement-account.md)
+- [§ 97-PPPP\*2 Mold assessment and remediation account](97pppp-2-mold-assessment-and-remediation-account.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
@@ -447,6 +447,7 @@ Section 70.        Classification of funds.
         97-oooo.   Basic health program trust fund.
         97-oooo*2. Smart schools bond fund.
         97-pppp.   Wage theft prevention enforcement account.
+        97-pppp*2. Mold assessment and remediation account.
         97-xxxx.   State health innovation plan account.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other

@@ -5,13 +5,13 @@
 
 ## Contents
 
-- [§ 460-A Definitions](460a-definitions.md)
+- [§ 460-A Definitions and applicability](460a-definitions-and-applicability.md)
 - [§ 460-B Immigrant assistance service contracts](460b-immigrant-assistance-service-contracts.md)
-- [§ 460-C Posting of signs](460c-posting-of-signs.md)
-- [§ 460-D Notice in advertisements](460d-notice-in-advertisements.md)
-- [§ 460-E Prohibited acts](460e-prohibited-acts.md)
-- [§ 460-F Retention of documents](460f-retention-of-documents.md)
-- [§ 460-G Surety requirement](460g-surety-requirement.md)
+- [§ 460-C Required notices](460c-required-notices.md)
+- [§ 460-D Prohibited acts](460d-prohibited-acts.md)
+- [§ 460-E Retention of documents](460e-retention-of-documents.md)
+- [§ 460-F Surety requirement](460f-surety-requirement.md)
+- [§ 460-G Action](460g-action.md)
 - [§ 460-H Enforcement](460h-enforcement.md)
 - [§ 460-I Violations](460i-violations.md)
 - [§ 460-J Other remedies](460j-other-remedies.md)

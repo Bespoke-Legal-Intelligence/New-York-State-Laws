@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 2500-k. Maternal depression. 1. Definitions. As used in this
+  § 2500-k. Maternal depression. 1. Definitions. As used in this
 section:
   (a) "Maternal depression" means a wide range of emotional and
 psychological reactions a woman may experience during pregnancy or after
@@ -41,5 +41,4 @@ commissioner of mental health, update and review the information on
 maternal depression, as necessary.
   3. The commissioner shall make any regulations necessary to implement
 this section.
-  * NB Effective January 31, 2015
 ```

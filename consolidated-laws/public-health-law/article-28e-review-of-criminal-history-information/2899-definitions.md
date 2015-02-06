@@ -32,18 +32,12 @@ department.
 employee, who files an application for employment as an employee with a
 provider and the provider has a reasonable expectation to hire such
 individual as an employee.
-  * 6. "Provider" shall mean any residential health care facility
-licensed under article twenty-eight of this chapter; or any certified
-home health agency, licensed home care services agency or long term home
-health care program certified under article thirty-six of this chapter.
-  * NB Effective until January 1, 2015
-  * 6. "Provider" shall mean any residential health care facility
-licensed under article twenty-eight of this chapter; or any certified
-home health agency, licensed home care services agency or long term home
-health care program certified under article thirty-six of this chapter;
-or any adult home, enriched housing program or residence for adults
-licensed under article seven of the social services law.
-  * NB Effective January 1, 2015
+  6. "Provider" shall mean any residential health care facility licensed
+under article twenty-eight of this chapter; or any certified home health
+agency, licensed home care services agency or long term home health care
+program certified under article thirty-six of this chapter; or any adult
+home, enriched housing program or residence for adults licensed under
+article seven of the social services law.
   7. "Temporary employee" shall mean any employee who has been
 temporarily approved for employment pending a determination by the
 department.

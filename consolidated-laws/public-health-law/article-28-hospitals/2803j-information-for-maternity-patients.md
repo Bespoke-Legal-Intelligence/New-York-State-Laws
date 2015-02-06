@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-j. Information for maternity patients. ** 1. The commissioner
+  * § 2803-j. Information for maternity patients.  1. The commissioner
 shall require that every hospital and birth center shall prepare in
 printed or photocopied form and distribute at the time of pre-booking
 directly to each prospective maternity patient and, upon request, to the
@@ -14,42 +14,22 @@ related procedures and practices as specified in subdivision two of this
 section and such other material as deemed appropriate by the
 commissioner. Hospitals and birth centers may also elect to distribute
 additional explanatory material along with the maternity patients
-informational leaflet.
-  ** NB Effective until January 31, 2015
-  ** 1. The commissioner shall require that every hospital and birth
-center shall prepare in printed or photocopied form and distribute at
-the time of pre-booking directly to each prospective maternity patient
-and, upon request, to the general public an informational leaflet. Such
-leaflet shall be designed by the commissioner and shall contain brief
-definitions of maternity related procedures and practices as specified
-in subdivision two of this section and such other material as deemed
-appropriate by the commissioner. Hospitals and birth centers may also
-elect to distribute additional explanatory material along with the
-maternity patients informational leaflet. The commissioner shall make
-the information contained in the leaflet available on the department's
-website.
-  ** NB Effective January 31, 2015
+informational leaflet. The commissioner shall make the information
+contained in the leaflet available on the department's website.
   1-a. The informational leaflet shall also include an explanation of
 the special provisions relating to maternity care and coverage under the
 insurance law and section two thousand eight hundred three-n of this
 chapter, and suggest that expectant parents check their insurance
 policies for the details of their maternity coverage.
-  ** 1-b. The informational leaflet shall also include information
-relating to the physical and mental health of the maternity patient
-after discharge from the hospital, including, but not limited to,
-information about post-partum depression.
-  ** NB Effective until January 31, 2015
-  ** 1-b. The informational leaflet shall also include information
-relating to the physical and mental health of the maternity patient
-after discharge from the hospital, including, but not limited to,
-information about maternal depression. The commissioner, in
-collaboration with the commissioner of mental health, shall review and
-update the information on maternal depression contained in the leaflet,
-as necessary. The informational leaflets shall be made available to
-patients in the top six languages spoken in the state, other than
-English, according to the latest available data from the United States
-Census Bureau.
-  ** NB Effective January 31, 2015
+  1-b. The informational leaflet shall also include information relating
+to the physical and mental health of the maternity patient after
+discharge from the hospital, including, but not limited to, information
+about maternal depression. The commissioner, in collaboration with the
+commissioner of mental health, shall review and update the information
+on maternal depression contained in the leaflet, as necessary. The
+informational leaflets shall be made available to patients in the top
+six languages spoken in the state, other than English, according to the
+latest available data from the United States Census Bureau.
   1-c. The informational leaflet shall also include a description of the
 dangers of shaking infants and young children. The description shall
 include information on the effects of shaking infants and young

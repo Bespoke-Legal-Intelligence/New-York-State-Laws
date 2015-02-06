@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 658 |
-| Last changed | 9 Jan 2015 |
+| Sections | 673 |
+| Last changed | 6 Feb 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (72 lines)](chapter-text.md)
+[Full chapter text (74 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Feb 2015](../../changes/2015/2015-02-06.md): 15 added
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 1 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 6 amended, 1 added
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 amended
@@ -89,4 +90,5 @@ Assembly, do enact as follows:
 - [Article 29 — Training and Education Program On Occupational Safety and Health](article-29-training-and-education-program-on-occupational/)
 - [Article 30 — Asbestos or Products Containing Asbestos; Licensing](article-30-asbestos-or-products-containing-asbestos/)
 - [Article 31 — New York Professional Employer Act](article-31-new-york-professional-employer-act/)
+- [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](article-32-licensing-of-mold-inspection-assessment/)
 - [Article 40 — When to Take Effect](article-40-when-to-take-effect/)

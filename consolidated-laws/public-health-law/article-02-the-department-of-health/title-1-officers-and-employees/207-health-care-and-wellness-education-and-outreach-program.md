@@ -58,7 +58,6 @@ citations to the department's website, as well as any other websites
 providing information on the subject.
   * (j) Maternal depression, including information about education,
 screening, referral services, and possible options for treatment.
-  * NB Effective January 31, 2015
   * NB There are 2 par (j)'s
   * (j) The eating disorders awareness and prevention program shall be
 designed to promote the awareness of eating disorders and available

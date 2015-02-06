@@ -62,20 +62,7 @@ employment. In the event that the prospective employee has a permanent
 record already on file with the department, this information promptly
 shall be made available to the provider who intends to hire such
 prospective employee.
-  9. * (a) In the event that funds are appropriated in any given fiscal
-year for the reimbursement for the costs of providing such criminal
-history information, reimbursement shall be made available in an
-equitable and direct manner for the projected cost of the fee
-established pursuant to law by the division of criminal justice services
-for processing a criminal history information check, the fee imposed by
-the federal bureau of investigation for a national criminal history
-check, and costs associated with obtaining the fingerprints to all
-providers licensed, but not certified under article thirty-six of this
-chapter, including those that are subject to this article and are unable
-to access direct reimbursement from state and/or federal funded health
-programs.
-  * NB Effective until January 1, 2015
-  * (a) In the event that funds are appropriated in any given fiscal
+  9. (a) In the event that funds are appropriated in any given fiscal
 year for the reimbursement for the costs of providing such criminal
 history information, reimbursement shall be made available in an
 equitable and direct manner for the projected cost of the fee
@@ -88,7 +75,6 @@ chapter, and all adult care facilities licensed under article seven of
 the social services law, including those that are subject to this
 article and are unable to access direct reimbursement from state and/or
 federal funded health programs.
-  * NB Effective January 1, 2015
   (b) Residential health care facilities licensed pursuant to article
 twenty-eight of this chapter and certified home health care agencies and
 long-term home health care programs certified or approved pursuant to
@@ -103,30 +89,7 @@ that for the purposes of determining rates of payment pursuant to
 article twenty-eight of this chapter for residential health care
 facilities, such reimbursable fees and costs shall be reflected as
 timely as practicable in such rates within the applicable rate period.
-  * 10. Notwithstanding subdivision eleven of section eight hundred
-forty-five-b of the executive law, a certified home health agency,
-licensed home care services agency or long term home health care program
-certified, licensed or approved under article thirty-six of this chapter
-or a home care services agency exempt from certification or licensure
-under article thirty-six of this chapter may temporarily approve a
-prospective employee while the results of the criminal history
-information check and the determination are pending, upon the condition
-that the provider conducts appropriate direct observation and evaluation
-of the temporary employee, while he or she is temporarily employed, and
-the care recipient. The results of such observations shall be documented
-in the temporary employee's personnel file and shall be maintained. For
-purposes of providing such appropriate direct observation and
-evaluation, the provider shall utilize an individual employed by such
-provider with a minimum of one year's experience working in an agency
-certified, licensed or approved under article thirty-six of this
-chapter. If the temporary employee is working under contract with
-another provider certified, licensed or approved under article
-thirty-six of this chapter, such contract provider's appropriate direct
-observation and evaluation of the temporary employee, shall be
-considered sufficient for the purposes of complying with this
-subdivision.
-  * NB Effective until January 1, 2015
-  * 10. Notwithstanding subdivision eleven of section eight hundred
+  10. Notwithstanding subdivision eleven of section eight hundred
 forty-five-b of the executive law, a certified home health agency,
 licensed home care services agency or long term home health care program
 certified, licensed or approved under article thirty-six of this chapter
@@ -151,7 +114,6 @@ licensed or approved under article thirty-six of this chapter, such
 contract provider's appropriate direct observation and evaluation of the
 temporary employee, shall be considered sufficient for the purposes of
 complying with this subdivision.
-  * NB Effective January 1, 2015
   11. No provider shall seek, directly or indirectly, to obtain from a
 prospective employee, temporary employee or employee compensation in any
 form for the payment of the fee or any facility costs associated with

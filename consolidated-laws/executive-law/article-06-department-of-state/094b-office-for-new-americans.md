@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
 
 ```text
-  * § 94-b. Office for new Americans. 1. Legislative intent. The
+  § 94-b. Office for new Americans. 1. Legislative intent. The
 legislature hereby finds and declares that, according to the 2010
 census, approximately twenty-two percent of New Yorkers were not born in
 the United States, nine percent above the national average. For years
@@ -75,5 +75,4 @@ the hotline and website, information on ESOL training services provided
 by the office, the number of immigrants assisted through the opportunity
 centers, or an estimation thereof, the status of any workforce
 development programs, and any other relevant information.
-  * NB Effective February 2, 2015
 ```

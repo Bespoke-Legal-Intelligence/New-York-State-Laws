@@ -1,22 +1,10 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 460-D", "kind": "section", "law_id": "GBS", "location_id": "460-D", "path": "ARTICLE 28-C › SECTION 460-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/460-D.md", "title": "Notice in advertisements"} -->
-# General Business Law § 460-D — Notice in advertisements
+﻿<!-- nyslaw {"citation": "General Business Law § 460-D", "kind": "section", "law_id": "GBS", "location_id": "460-D", "path": "ARTICLE 28-C › SECTION 460-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/460-D.md", "title": "Prohibited acts"} -->
+# General Business Law § 460-D — Prohibited acts
 
 [General Business Law](../README.md) › [Article 28-C — Immigrant Assistance Services](README.md)
 
 ```text
-  * § 460-d. Notice in advertisements. Every provider who advertises
-immigrant assistance services, whether by signs, pamphlets, newspapers,
-or any other written communication shall post or otherwise include with
-such advertisement a notice in the language in which the advertisement
-appears. This notice shall be of a conspicuous size and shall state:
-"THE INDIVIDUAL PROVIDING ASSISTANCE TO YOU IS NOT AN ATTORNEY LICENSED
-TO PRACTICE LAW OR ACCREDITED BY THE BOARD OF IMMIGRATION APPEALS TO
-PROVIDE REPRESENTATION TO YOU BEFORE THE BUREAU OF CITIZENSHIP AND
-IMMIGRATION SERVICES, THE DEPARTMENT OF LABOR, THE DEPARTMENT OF STATE
-OR ANY IMMIGRATION AUTHORITIES AND MAY NOT GIVE LEGAL ADVICE OR ACCEPT
-FEES FOR LEGAL ADVICE".
-  * NB Effective until February 2, 2015
-  * § 460-d. Prohibited acts. No provider shall:
+  § 460-d. Prohibited acts. No provider shall:
   1. Give legal advice, or otherwise engage in the practice of law.
   2. Assume, use or advertise the title of lawyer or attorney at law, or
 equivalent terms in the English language or any other language, or
@@ -87,5 +75,4 @@ or family's eligibility for other government benefits, with the intent
 to induce an individual to employ the services of the service provider
 to obtain such immigration benefits or status, or such other government
 benefits.
-  * NB Effective February 2, 2015
 ```

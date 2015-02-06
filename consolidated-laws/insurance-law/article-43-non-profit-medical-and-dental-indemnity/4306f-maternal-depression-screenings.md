@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4306-f. Maternal depression screenings. To the extent a contract
+  § 4306-f. Maternal depression screenings. To the extent a contract
 provides coverage for maternal depression screening, no corporation
 subject to this article shall by contract, written policy or procedure
 limit a patient insured's direct access to screening and referral for
@@ -14,5 +14,4 @@ obstetrical, gynecologic, or pediatric services of her choice; provided
 that the patient insured's access to such services, coverage and choice
 of provider is otherwise subject to the terms and conditions of the
 contract under which the patient insured is covered.
-  * NB Effective January 31, 2015
 ```

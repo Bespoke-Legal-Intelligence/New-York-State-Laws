@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
-| Sections | 1,005 (3 repealed) |
-| Last changed | 23 Jan 2015 |
+| Sections | 1,007 |
+| Last changed | 6 Feb 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -26,13 +26,14 @@ ARTICLE   1. General provisions. (§§ 101-110)
                201-214)
           3. Administrative and procedural provisions. (§§ 301-342)
           4. Insurance frauds prevention. (§§ 401-411)
-         11. Licensing of insurers. (§§ 1101-1124*2)
+          5. Certificates of insurance. (§§ 501-505)
 ```
 
-[Full chapter text (84 lines)](chapter-text.md)
+[Full chapter text (85 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Feb 2015](../../changes/2015/2015-02-06.md): 2 amended, 5 added, 3 removed
 - [23 Jan 2015](../../changes/2015/2015-01-23.md): 2 amended, 3 repealed
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 4 amended
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 6 amended
@@ -49,6 +50,7 @@ ARTICLE   1. General provisions. (§§ 101-110)
 - [Article 2 — Organization of the Department of Financial Services](article-02-organization-of-the-department-of-financial/)
 - [Article 3 — Administrative and Procedural Provisions](article-03-administrative-and-procedural-provisions/)
 - [Article 4 — Insurance Frauds Prevention](article-04-insurance-frauds-prevention/)
+- [Article 5 — Certificates of Insurance](article-05-certificates-of-insurance/)
 - [Article 11 — Licensing of Insurers](article-11-licensing-of-insurers/)
 - [Article 12 — Organization and Corporate Procedure](article-12-organization-and-corporate-procedure/)
 - [Article 13 — Assets and Deposits](article-13-assets-and-deposits/)

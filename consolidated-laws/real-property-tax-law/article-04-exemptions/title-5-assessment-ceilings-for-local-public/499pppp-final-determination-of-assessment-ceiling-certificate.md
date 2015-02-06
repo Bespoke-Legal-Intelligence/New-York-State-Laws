@@ -45,6 +45,5 @@ established by a local assessing jurisdiction for local public utility
 mass real property, the final certified assessment ceiling established
 pursuant to subdivision one of this section shall not be considered by
 the court.
-  * NB Effective January 1, 2015
   * NB Repealed January 1, 2019
 ```

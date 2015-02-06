@@ -12,15 +12,7 @@ a caesarean section, and for more than forty-eight hours when medically
 necessary. For a caesarean section, inpatient care for mothers and
 newborns shall be offered for not less than ninety-six hours after
 childbirth, and for more than ninety-six hours when medically necessary.
-  * (b) Maternity care shall also include, at minimum, parent education,
-assistance and training in breast or bottle feeding, and the performance
-of any necessary maternal and newborn clinical assessments.
-Notwithstanding this requirement, nothing in this paragraph is intended
-to result in the hospital charging any amount for such services in
-addition to the applicable charge for the maternity inpatient hospital
-admission.
-  * NB Effective until January 31, 2015
-  * (b) Maternity care shall also include, at minimum, parent education,
+  (b) Maternity care shall also include, at minimum, parent education,
 assistance and training in breast or bottle feeding, education on
 maternal depression, education on maternal depression screening and
 referrals, and the performance of any necessary maternal and newborn
@@ -28,7 +20,6 @@ clinical assessments. Notwithstanding this requirement, nothing in this
 paragraph is intended to result in the hospital charging any amount for
 such services in addition to the applicable charge for the maternity
 inpatient hospital admission.
-  * NB Effective January 31, 2015
   2. This section shall not limit the mother's option to be discharged
 earlier than the time periods established in subdivision one of this
 section.
