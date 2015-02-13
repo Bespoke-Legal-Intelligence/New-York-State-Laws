@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 5 — Fish and Wildlife Management Practices Cooperative Program; Prohibitions; Taking of Fish, Wildlife, Shellfish and Crustacea For Scientific or Propagation Purposes; Destructive Wildlife; Rabies Control; Guides; Endangered Species](README.md)
 
 ```text
-* § 11-0538. Direct contact between public and big cats prohibited.
+§ 11-0538. Direct contact between public and big cats prohibited.
   1. As used in this section:
   (a) "Big cat" shall mean any live species of lion (panthera leo),
 tiger (panthera tigres), leopard (panthera pardus) (with the exception
@@ -37,5 +37,4 @@ separate offense.
   4. Nothing in this section shall be construed to limit or restrict
 veterinary examination, treatment or care of a big cat or transportation
 of the animal for such purpose.
-  * NB Effective February 7, 2015
 ```

@@ -135,8 +135,7 @@ instrumentality, or
 that twenty percent of the units be affordable to families of low and
 moderate income.
   The following table shall illustrate the computation of the exemption:
-                         CONSTRUCTION OF CERTAIN
-                           MULTIPLE DWELLINGS
+               CONSTRUCTION OF CERTAIN MULTIPLE DWELLINGS
                                                   Exemption
 During Construction (maximum three years)         100%
 Following completion of work
@@ -200,8 +199,7 @@ instrumentality, or
 that twenty percent of the units be affordable to families of low and
 moderate income.
   The following table shall illustrate the computation of the exemption:
-                         CONSTRUCTION OF CERTAIN
-                           MULTIPLE DWELLINGS
+               CONSTRUCTION OF CERTAIN MULTIPLE DWELLINGS
                                                   Exemption
 During Construction (maximum three years)         100%
 Following completion of work
@@ -260,8 +258,7 @@ taxation;
   e. followed by two years of exemption from twenty percent of such
 taxation.
   The following table shall illustrate the computation of the exemption:
-                         CONSTRUCTION OF CERTAIN
-                           MULTIPLE DWELLINGS
+               CONSTRUCTION OF CERTAIN MULTIPLE DWELLINGS
 During construction (maximum three years)              Exemption 100%
 Following completion of work year:
                   1 through 12                         100%
