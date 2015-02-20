@@ -72,7 +72,7 @@ Section 4600.   Legislative findings and purpose.
         4622.   Priority reservation agreements; after obtaining a
                   certificate of authority.
         4623.   Long term care insurance and continuing care retirement
-                  communities.
+                  contracts.
         4624.   Continuing care retirement communities making assurances
                   regarding long term care.
 ```

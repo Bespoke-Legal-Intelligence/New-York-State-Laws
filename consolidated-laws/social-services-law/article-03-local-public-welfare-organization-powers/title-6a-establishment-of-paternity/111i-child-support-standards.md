@@ -19,21 +19,7 @@ application of the child support percentage as defined in section two
 hundred forty of the domestic relations law and section four hundred
 thirteen of the family court act; and (iv) the combined parental income
 amount.
-  * (b) The combined parental income amount to be reported in the child
-support standards chart and utilized in calculating orders of child
-support in accordance with subparagraph two of paragraph (c) of
-subdivision one of section four hundred thirteen of the family court act
-and subparagraph two of paragraph (c) of subdivision one-b of section
-two hundred forty of the domestic relations law shall be one hundred
-thirty thousand dollars; provided, however, beginning January
-thirty-first, two thousand twelve and every two years thereafter, the
-combined parental income amount shall increase by the product of the
-average annual percentage changes in the consumer price index for all
-urban consumers (CPI-U) as published by the United States department of
-labor bureau of labor statistics for the two year period rounded to the
-nearest one thousand dollars.
-  * NB Effective until February 19, 2015
-  * (b) The combined parental income amount to be reported in the child
+  (b) The combined parental income amount to be reported in the child
 support standards chart and utilized in calculating orders of child
 support in accordance with subparagraph two of paragraph (c) of
 subdivision one of section four hundred thirteen of the family court act
@@ -48,7 +34,6 @@ published by the United States department of labor bureau of labor
 statistics for the prior two years multiplied by the current combined
 parental income amount and then rounded to the nearest one thousand
 dollars.
-  * NB Effective February 19, 2015
   (c) The commissioner shall publish the child support standards chart
 on an annual basis by April first of each year and in no event later
 than forty-five days following publication of the annual poverty income

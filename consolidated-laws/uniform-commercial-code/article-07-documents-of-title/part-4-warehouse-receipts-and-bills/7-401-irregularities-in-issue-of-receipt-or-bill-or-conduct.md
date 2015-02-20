@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 7-401", "kind": "section", "law_id": "UCC", "location_id": "7-401", "path": "ARTICLE 7 › PART 4 › SECTION 7-401", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/7-401.md", "title": "Irregularities in Issue of Receipt or Bill or Conduct of Issuer"} -->
 # Uniform Commercial Code § 7-401 — Irregularities in Issue of Receipt or Bill or Conduct of Issuer
 
-[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading; General Obligations](README.md)
+[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading: General Obligations](README.md)
 
 ```text
 Section 7--401. Irregularities in Issue of Receipt or Bill or Conduct of

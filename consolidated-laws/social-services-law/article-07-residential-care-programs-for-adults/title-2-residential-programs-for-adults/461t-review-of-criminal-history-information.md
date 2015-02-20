@@ -4,10 +4,9 @@
 [Social Services Law](../../README.md) › [Article 7 — Residential Care Programs For Adults and Children](../README.md) › [Title 2 — Residential Programs For Adults](README.md)
 
 ```text
-  * § 461-t. Review of criminal history information concerning
-prospective direct care employees. Every adult home, enriched housing
-program and residence for adults shall conduct a criminal history record
-check of prospective direct care employees utilizing the procedures and
-standards set forth in article twenty-eight-E of the public health law.
-  * NB Effective January 1, 2015
+  § 461-t. Review of criminal history information concerning prospective
+direct care employees. Every adult home, enriched housing program and
+residence for adults shall conduct a criminal history record check of
+prospective direct care employees utilizing the procedures and standards
+set forth in article twenty-eight-E of the public health law.
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 8-B", "kind": "section", "law_id": "LSA", "location_id": "8-B", "path": "SECTION 8-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LSA/8-B.md", "title": "No title"} -->
+﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 8-B", "kind": "section", "law_id": "LSA", "location_id": "8-B", "path": "SECTION 8-B", "repealed": true, "repealed_date": "2015-02-20", "source": "nys-laws:LSA/8-B.md", "title": "No title"} -->
 # Lost and Strayed Animals § 8-B — No title
 
 [Lost and Strayed Animals](README.md)
+
+**Repealed** (20 Feb 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 8-b. No person holding a permit issued pursuant to section 161.09

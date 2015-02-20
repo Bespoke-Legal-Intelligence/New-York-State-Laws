@@ -8,8 +8,8 @@
 | Senate code | LSA |
 | Type | Unconsolidated law |
 | Session law | L. 1894, ch. 115 |
-| Sections | 20 |
-| Last changed | 26 Dec 2014 |
+| Sections | 20 (4 repealed) |
+| Last changed | 20 Feb 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Lost and Strayed Animals 115/1894 |
 
@@ -25,23 +25,24 @@
 
 ## Recent changes
 
+- [20 Feb 2015](../../changes/2015/2015-02-20.md): 8 amended, 4 repealed
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 12 amended
 
 ## Contents
 
 - [§ 1 No title](01-no-title.md)
 - [§ 2 No title](02-no-title.md)
-- [§ 2-A No title](02a-no-title.md)
+- [§ 2-A No title](02a-no-title.md) *(repealed)*
 - [§ 3 No title](03-no-title.md)
-- [§ 3-A No title](03a-no-title.md)
+- [§ 3-A No title](03a-no-title.md) *(repealed)*
 - [§ 4 No title](04-no-title.md)
 - [§ 5 No title](05-no-title.md)
 - [§ 6 No title](06-no-title.md)
 - [§ 7 No title](07-no-title.md)
 - [§ 8 No title](08-no-title.md)
 - [§ 8-A No title](08a-no-title.md)
-- [§ 8-B No title](08b-no-title.md)
-- [§ 8-C No title](08c-no-title.md)
+- [§ 8-B No title](08b-no-title.md) *(repealed)*
+- [§ 8-C No title](08c-no-title.md) *(repealed)*
 - [§ 9 No title](09-no-title.md)
 - [§ 10 No title](10-no-title.md)
 - [§ 11 No title](11-no-title.md)

@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../README.md) › [Article 1 — No title](../README.md) › [Part 2 — General Definitions and Principles of Interpretation](README.md)
 
 ```text
-Section 1--207. Statute of Frauds for Kinds of Personal Property Not
+  Section 1--207. Statute of Frauds for Kinds of Personal Property Not
 Otherwise Covered.
   (a) Except in the cases described in subsection (b) of this section a
 contract for the sale of personal property is not enforceable by way of

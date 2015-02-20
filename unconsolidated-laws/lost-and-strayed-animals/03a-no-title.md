@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 3-A", "kind": "section", "law_id": "LSA", "location_id": "3-A", "path": "SECTION 3-A", "repealed": false, "repealed_date": null, "source": "nys-laws:LSA/3-A.md", "title": "No title"} -->
+﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 3-A", "kind": "section", "law_id": "LSA", "location_id": "3-A", "path": "SECTION 3-A", "repealed": true, "repealed_date": "2015-02-20", "source": "nys-laws:LSA/3-A.md", "title": "No title"} -->
 # Lost and Strayed Animals § 3-A — No title
 
 [Lost and Strayed Animals](README.md)
+
+**Repealed** (20 Feb 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 3-a. In addition to the fee charged pursuant to sections one and

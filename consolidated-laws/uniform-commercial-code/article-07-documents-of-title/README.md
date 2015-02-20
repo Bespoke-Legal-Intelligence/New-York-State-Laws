@@ -8,7 +8,7 @@
 - [Part 1 — General](part-1-general/)
 - [Part 2 — Warehouse Receipts: Special Provisions](part-2-warehouse-receipts-special/)
 - [Part 3 — Bills of Lading: Special Provisions](part-3-bills-of-lading-special-provisions/)
-- [Part 4 — Warehouse Receipts and Bills of Lading; General Obligations](part-4-warehouse-receipts-and-bills/)
+- [Part 4 — Warehouse Receipts and Bills of Lading: General Obligations](part-4-warehouse-receipts-and-bills/)
 - [Part 5 — Warehouse Receipts and Bills of Lading: Negotiation and Transfer](part-5-warehouse-receipts-and-bills/)
 - [Part 6 — Warehouse Receipts and Bills of Lading: Miscellaneous Provisions](part-6-warehouse-receipts-and-bills/)
 

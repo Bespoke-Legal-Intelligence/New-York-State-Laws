@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 7-402", "kind": "section", "law_id": "UCC", "location_id": "7-402", "path": "ARTICLE 7 › PART 4 › SECTION 7-402", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/7-402.md", "title": "Duplicate Document of Title; Overissue"} -->
 # Uniform Commercial Code § 7-402 — Duplicate Document of Title; Overissue
 
-[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading; General Obligations](README.md)
+[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading: General Obligations](README.md)
 
 ```text
 Section 7--402. Duplicate Document of Title; Overissue.

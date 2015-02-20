@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "UCC", "location_id": "A7P4", "path": "ARTICLE 7 › PART 4", "source": "nys-laws:UCC/A7P4.md", "title": "Warehouse Receipts and Bills of Lading; General Obligations"} -->
-# Part 4 — Warehouse Receipts and Bills of Lading; General Obligations
+﻿<!-- nyslaw {"kind": "container", "law_id": "UCC", "location_id": "A7P4", "path": "ARTICLE 7 › PART 4", "source": "nys-laws:UCC/A7P4.md", "title": "Warehouse Receipts and Bills of Lading: General Obligations"} -->
+# Part 4 — Warehouse Receipts and Bills of Lading: General Obligations
 
 [Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md)
 
@@ -15,7 +15,7 @@
 
 ```text
                                  PART 4
-       WAREHOUSE RECEIPTS AND BILLS OF LADING; GENERAL OBLIGATIONS
+       WAREHOUSE RECEIPTS AND BILLS OF LADING: GENERAL OBLIGATIONS
 ```
 
 </details>

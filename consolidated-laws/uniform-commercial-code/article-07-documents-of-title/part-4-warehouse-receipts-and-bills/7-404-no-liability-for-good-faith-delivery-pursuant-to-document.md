@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Uniform Commercial Code § 7-404", "kind": "section", "law_id": "UCC", "location_id": "7-404", "path": "ARTICLE 7 › PART 4 › SECTION 7-404", "repealed": false, "repealed_date": null, "source": "nys-laws:UCC/7-404.md", "title": "No Liability for Good-Faith Delivery Pursuant to Document of Title"} -->
 # Uniform Commercial Code § 7-404 — No Liability for Good-Faith Delivery Pursuant to Document of Title
 
-[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading; General Obligations](README.md)
+[Uniform Commercial Code](../../README.md) › [Article 7 — Documents of Title](../README.md) › [Part 4 — Warehouse Receipts and Bills of Lading: General Obligations](README.md)
 
 ```text
 Section 7--404. No Liability for Good-Faith Delivery Pursuant to

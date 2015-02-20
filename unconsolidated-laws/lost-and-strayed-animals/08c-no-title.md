@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 8-C", "kind": "section", "law_id": "LSA", "location_id": "8-C", "path": "SECTION 8-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LSA/8-C.md", "title": "No title"} -->
+﻿<!-- nyslaw {"citation": "Lost and Strayed Animals § 8-C", "kind": "section", "law_id": "LSA", "location_id": "8-C", "path": "SECTION 8-C", "repealed": true, "repealed_date": "2015-02-20", "source": "nys-laws:LSA/8-C.md", "title": "No title"} -->
 # Lost and Strayed Animals § 8-C — No title
 
 [Lost and Strayed Animals](README.md)
+
+**Repealed** (20 Feb 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 8-c. Notwithstanding the provisions of section eight of this act,
