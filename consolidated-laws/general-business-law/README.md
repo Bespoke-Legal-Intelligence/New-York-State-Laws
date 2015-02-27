@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,173 |
-| Last changed | 6 Feb 2015 |
+| Last changed | 27 Feb 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -33,6 +33,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 
 ## Recent changes
 
+- [27 Feb 2015](../../changes/2015/2015-02-27.md): 3 amended
 - [6 Feb 2015](../../changes/2015/2015-02-06.md): 10 amended
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 3 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 1 added

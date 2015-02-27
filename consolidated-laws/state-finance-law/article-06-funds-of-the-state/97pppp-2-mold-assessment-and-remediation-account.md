@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 97-PPPP*2", "kind": "section", "law_id": "STF", "location_id": "97-PPPP*2", "path": "ARTICLE 6 › SECTION 97-PPPP*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-PPPP_2.md", "title": "Mold assessment and remediation account"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-PPPP*2", "kind": "section", "law_id": "STF", "location_id": "97-PPPP*2", "path": "ARTICLE 6 › SECTION 97-PPPP*2", "repealed": true, "repealed_date": "2015-02-27", "source": "nys-laws:STF/97-PPPP_2.md", "title": "Mold assessment and remediation account"} -->
 # State Finance Law § 97-PPPP*2 — Mold assessment and remediation account
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (27 Feb 2015). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
