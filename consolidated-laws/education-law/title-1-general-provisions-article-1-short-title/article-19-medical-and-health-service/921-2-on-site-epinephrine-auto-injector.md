@@ -23,5 +23,4 @@ employed by any such entity may administer epinephrine auto-injectors in
 the event of an emergency pursuant to the requirements of section three
 thousand-c of the public health law.
   * NB There are 2 § 921's
-  * NB Effective February 27, 2015
 ```
