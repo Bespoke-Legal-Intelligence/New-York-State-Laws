@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 25-B — The New York State Construction Industry Fair Play Act](README.md)
 
 ```text
-  * § 861-g. Contractor accountability. When a contractor or
+  § 861-g. Contractor accountability. When a contractor or
 sub-contractor is found to have failed to pay all wages as required by
 article six or nineteen of this chapter, either by a final order issued
 by the commissioner, an assurance of discontinuance or final settlement
@@ -16,5 +16,4 @@ attachment to employees at all worksites according to such form and
 manner ordered by the commissioner. The commissioner shall have the
 authority to promulgate rules necessary to effectuate the terms of this
 section.
-  * NB Effective February 27, 2015
 ```

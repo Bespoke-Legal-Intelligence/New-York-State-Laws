@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 6 Mar 2015.*
+*Current through the publication of 13 Mar 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [13 Mar 2015](changes/2015/2015-03-13.md): Labor Law; Real Property Tax Law
 - [6 Mar 2015](changes/2015/2015-03-06.md): Correction Law; Education Law; Environmental Conservation Law; Insurance Law; Limited Liability Company Law; Mental Hygiene Law; Public Health Law
 - [27 Feb 2015](changes/2015/2015-02-27.md): General Business Law; Insurance Law; Labor Law; State Finance Law; Uniform Commercial Code
 - [20 Feb 2015](changes/2015/2015-02-20.md): Environmental Conservation Law; Executive Law; Insurance Law; Lien Law; Lost and Strayed Animals; Social Services Law; Uniform City Court Act; Uniform Commercial Code
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [6 Feb 2015](changes/2015/2015-02-06.md): Executive Law; General Business Law; Insurance Law; Labor Law; Not-for-Profit Corporation Law; Penal Law; Public Health Law; Real Property Tax Law; State Finance Law; Urban Development Corporation Act
 - [30 Jan 2015](changes/2015/2015-01-30.md): Social Services Law; Tax Law
 - [23 Jan 2015](changes/2015/2015-01-23.md): Agriculture and Markets Law; Education Law; Election Law; Executive Law; General Municipal Law; Insurance Law; Legislative Law; Public Authorities Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Tax Law; Vehicle and Traffic Law
-- [16 Jan 2015](changes/2015/2015-01-16.md): Civil Practice Law and Rules; Executive Law; General Business Law; Insurance Law; New York State Constitution; Retirement and Social Security Law; Social Services Law; Tax Law
 
 ## Most changed in the past 12 months
 
@@ -35,12 +35,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Education Law](consolidated-laws/education-law/README.md) | 57 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 47 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 44 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 40 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 36 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 34 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 34 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 33 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 30 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 29 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 27 |
 | [Lost and Strayed Animals](unconsolidated-laws/lost-and-strayed-animals/README.md) | 24 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 22 |
 
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 28 Nov 2014 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,007 | 6 Mar 2015 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 522 | no change since 22 Sep 2014 (start of history) |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 673 | 27 Feb 2015 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 673 | 13 Mar 2015 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 23 Jan 2015 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 20 Feb 2015 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 117 | 6 Mar 2015 |
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 320 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 409 | 26 Dec 2014 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 745 | 13 Feb 2015 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 745 | 13 Mar 2015 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 305 | no change since 22 Sep 2014 (start of history) |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 539 | 16 Jan 2015 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
