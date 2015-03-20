@@ -21,7 +21,6 @@
 - [§ 810 Additional definitions](810-additional-definitions.md)
 - [§ 811 Promulgation of form of annual statement of financial disclosure; authority of governing body with respect to persons subject thereto](811-promulgation-of-form-of-annual-statement-of-financial-disclosure-authority.md)
 - [§ 812 Financial disclosure for local elected officials and certain officers and employees of counties, cities, towns and villages](812-financial-disclosure-for-local-elected-officials-and-certain-officers.md)
-- [§ 813 Temporary state commission on local government ethics; functions, powers and duties; review of financial disclosure statements; advisory ...](813-temporary-state-commission-on-local-government-ethics-functions-powers.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

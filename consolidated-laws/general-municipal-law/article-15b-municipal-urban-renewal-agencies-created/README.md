@@ -13,11 +13,9 @@
 - [Title 6 — Little Falls Urban Renewal Agency](title-006-little-falls-urban-renewal/)
 - [Title 11-A — Glen Cove Community Development Agency](title-011a-glen-cove-community/)
 - [Title 12 — Rochester Urban Renewal Agency](title-012-rochester-urban-renewal/)
-- [Title 12\* — Rochester Urban Renewal Agency](title-012-rochester-urban-renewal-2/) *(repealed)*
 - [Title 14 — White Plains Urban Renewal Agency](title-014-white-plains-urban-renewal/)
 - [Title 15 — Port Jervis Community Development Agency](title-015-port-jervis-community/)
 - [Title 17 — Ossining Urban Renewal Agency](title-017-ossining-urban-renewal/)
-- [Title 17-A — Village of Haverstraw Urban Renewal Agency](title-017a-village-of-haverstraw/)
 - [Title 20 — Gloversville Community Development Agency](title-020-gloversville-community/)
 - [Title 22 — Village of Spring Valley Urban Renewal Agency](title-022-village-of-spring-valley/)
 - [Title 23 — City of Tonawanda Community Development Agency](title-023-city-of-tonawanda-community/)
@@ -31,32 +29,26 @@
 - [Title 47 — Utica Urban Renewal Agency](title-047-utica-urban-renewal-agency/)
 - [Title 50 — Glens Falls Urban Renewal Agency](title-050-glens-falls-urban-renewal/)
 - [Title 51 — Freeport Community Development Agency](title-051-freeport-community/)
-- [Title 53 — Village of Johnson City Urban Renewal Agency](title-053-village-of-johnson-city/) *(repealed)*
 - [Title 54 — Albany Community Development Agency](title-054-albany-community/)
 - [Title 55 — Poughkeepsie Urban Renewal Agency](title-055-poughkeepsie-urban-renewal/)
 - [Title 56 — Village of Fairport Urban Renewal Agency](title-056-village-of-fairport-urban/)
 - [Title 58 — City of Fulton Community Development Agency](title-058-city-of-fulton-community/)
 - [Title 59 — Olean Urban Renewal Agency](title-059-olean-urban-renewal-agency/)
 - [Title 60 — Elmira Urban Renewal Agency](title-060-elmira-urban-renewal-agency/)
-- [Title 61 — Oneonta Urban Renewal Agency](title-061-oneonta-urban-renewal/) *(repealed)*
 - [Title 64 — Town of Islip Community Development Agency](title-064-town-of-islip-community/)
 - [Title 65 — Jamestown Urban Renewal Agency](title-065-jamestown-urban-renewal/)
 - [Title 71 — City of Buffalo Urban Renewal Agency](title-071-city-of-buffalo-urban/)
 - [Title 72 — City of Hudson Community Development and Planning Agency](title-072-city-of-hudson-community/)
-- [Title 76 — Village of Riverside Urban Renewal Agency](title-076-village-of-riverside-urban/) *(repealed)*
 - [Title 86 — Huntington Community Development Agency](title-086-huntington-community/)
 - [Title 86\* — Town of North Hempstead Community Development Agency](title-086-town-of-north-hempstead/)
 - [Title 87 — Town of Erwin Urban Renewal Agency](title-087-town-of-erwin-urban-renewal/)
 - [Title 91 — Village of Elmira Heights Urban Renewal Agency](title-091-village-of-elmira-heights/)
 - [Title 100 — Schenectady Urban Renewal Agency](title-100-schenectady-urban-renewal/)
 - [Title 101 — Village of Rockville Centre Community Development Agency](title-101-village-of-rockville-centre/)
-- [Title 102 — Village of Albion Urban Renewal Agency](title-102-village-of-albion-urban/) *(repealed)*
-- [Title 103 — City of Canandaigua Urban Renewal Agency](title-103-city-of-canandaigua-urban/) *(repealed)*
 - [Title 112 — Village of St Johnsville Urban Renewal Agency](title-112-village-of-st-johnsville/)
 - [Title 114 — Village of Patchogue Community Development Agency](title-114-village-of-patchogue/)
 - [Title 116 — Town of Riverhead Community Development Agency](title-116-town-of-riverhead-community/)
 - [Title 117 — Town of Haverstraw Urban Renewal Agency](title-117-town-of-haverstraw-urban/)
-- [Title 119 Village of Westbury Community Development Agency](title-119-village-of-westbury-community-development-agency.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 15-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

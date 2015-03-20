@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 898. Herkimer county industrial development agency. 1. For the
+  * § 898. Herkimer county industrial development agency. 1. For the
 benefit of the county of Herkimer and the inhabitants thereof, an
 industrial development agency, to be known as the HERKIMER COUNTY
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -18,7 +18,7 @@ of article eighteen-A of this chapter. Its members shall be appointed by
 the governing body of the county of Herkimer. The agency, its members,
 officers and employees, and its operations and activities shall in all
 respects be governed by the provisions of title one of article
-eighteen-A of this chapter.  To the extent that the foregoing provisions
+eighteen-A of this chapter. To the extent that the foregoing provisions
 of this subdivision or of title one of this article are inconsistent
 with the provisions of subdivision two of this section, the provisions
 of such subdivision two shall be controlling.
@@ -30,4 +30,5 @@ years subsequent to the effective date of the special act creating the
 agency and such agency as created and constituted pursuant to the other
 provisions of this article shall be continued until otherwise altered or
 terminated pursuant to provisions of law applicable to such agency.
+  * NB Agency expires per §§ 856 and 882
 ```

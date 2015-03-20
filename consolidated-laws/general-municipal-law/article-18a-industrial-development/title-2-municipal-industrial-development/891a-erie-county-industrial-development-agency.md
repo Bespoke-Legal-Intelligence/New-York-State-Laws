@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 891-a. Erie county industrial development agency.  1. For the
+  * § 891-a. Erie county industrial development agency. 1. For the
 benefit of the county of Erie and the inhabitants thereof, an industrial
 development agency, to be known as the ERIE COUNTY INDUSTRIAL
 DEVELOPMENT AGENCY, is hereby established for the accomplishment of any
@@ -88,4 +88,5 @@ encourage and assist in acquiring, constructing, reconstructing,
 improving, maintaining, equipping and furnishing of industrial,
 manufacturing, warehousing, commercial and research facilities including
 industrial pollution control facilities.
+  * NB Agency expires per §§ 856 and 882
 ```

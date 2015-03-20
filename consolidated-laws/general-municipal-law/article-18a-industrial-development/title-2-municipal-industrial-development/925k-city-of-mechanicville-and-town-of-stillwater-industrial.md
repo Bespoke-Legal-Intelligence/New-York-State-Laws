@@ -4,14 +4,14 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 925-k. City of Mechanicville and town of Stillwater industrial
+  * § 925-k. City of Mechanicville and town of Stillwater industrial
 development agency. For the benefit of the city of Mechanicville and the
 town of Stillwater, and the inhabitants thereof, an industrial
 development agency to be known as the CITY OF MECHANICVILLE AND TOWN OF
 STILLWATER INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
 accomplishment of any or all purposes specified in title one of article
 eighteen-A of this chapter. It shall constitute a body corporate and
-politic, and be perpetual in duration.  It shall have the powers and
+politic, and be perpetual in duration. It shall have the powers and
 duties now conferred by title one of article eighteen-A of this chapter
 upon industrial development agencies provided, that the exercise of the
 powers of such agency with respect to the acquisition of real property
@@ -27,4 +27,5 @@ shall appoint four members constituting a total membership of eight. The
 agency, its members, officers and employees and its operations shall in
 all respects be governed by the provisions of title one of article
 eighteen-A of this chapter.
+  * NB Agency expires per §§ 856 and 882
 ```

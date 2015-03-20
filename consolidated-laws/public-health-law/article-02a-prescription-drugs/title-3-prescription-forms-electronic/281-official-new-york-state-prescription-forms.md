@@ -37,7 +37,7 @@ prescriber shall not invalidate the prescription.
 commissioner shall promulgate regulations, in consultation with the
 commissioner of education, establishing standards for electronic
 prescriptions. Notwithstanding any other provision of this section or
-any other law to the contrary, effective two years subsequent to the
+any other law to the contrary, effective three years subsequent to the
 date on which such regulations are promulgated, no person shall issue
 any prescription in this state unless such prescription is made by
 electronic prescription from the person issuing the prescription to a

@@ -49,11 +49,12 @@ state department of health.
 disease" shall mean a disease that appears on the list of diseases
 promulgated by the commissioner pursuant to section twenty-three hundred
 eleven of this chapter.
-  (o) Distant site. The term "distant site" means a site at which a
+  * (o) Distant site. The term "distant site" means a site at which a
 health care provider is located while providing health care services by
 means of telemedicine or telehealth; unless the term is otherwise
 defined with respect to the provision in which it is used.
-  (p) Health care provider. The term "health care provider" means a
+  * NB Effective and Repealed January 1, 2016
+  * (p) Health care provider. The term "health care provider" means a
 person licensed pursuant to article one hundred thirty-one, one hundred
 thirty-one-B, one hundred thirty-three, one hundred thirty-nine, one
 hundred forty, one hundred forty-one, one hundred forty-three, one
@@ -65,14 +66,16 @@ this chapter; home care services agency as defined in article thirty-six
 of this chapter; or a hospice as defined in article forty of this
 chapter; unless the term is otherwise defined by law with respect to the
 provision in which it is used.
-  (q) Originating site. The term "originating site" means a site at
+  * NB Effective and Repealed January 1, 2016
+  * (q) Originating site. The term "originating site" means a site at
 which a patient is located at the time health care services are provided
 to him or her by means of telemedicine or telehealth, unless the term is
 otherwise defined with respect to the provision in which it is used.
 Provided, however, notwithstanding any other provision of law, insurers
 and providers may agree to alternative siting arrangements deemed
 appropriated by the parties.
-  (r) Telehealth. The term "telehealth" means delivering health care
+  * NB Effective and Repealed January 1, 2016
+  * (r) Telehealth. The term "telehealth" means delivering health care
 services by means of information and communications technologies
 consisting of telephones, remote patient monitoring devices or other
 electronic means which facilitate the assessment, diagnosis,
@@ -81,7 +84,8 @@ of a patient's health care while such patient is at the originating site
 and the health care provider is at a distant site; consistent with
 applicable federal law and regulations; unless the term is otherwise
 defined by law with respect to the provision in which it is used.
-  (s) Telemedicine. The term "telemedicine" means the delivery of
+  * NB Effective and Repealed January 1, 2016
+  * (s) Telemedicine. The term "telemedicine" means the delivery of
 clinical health care services by means of real time two-way electronic
 audio visual communications, including the application of secure video
 conferencing or store and forward technology to provide or support
@@ -91,6 +95,7 @@ of a patient's health care while such patient is at the originating site
 and the health care provider is at a distant site; consistent with
 applicable federal law and regulations; unless the term is otherwise
 defined by law with respect to the provision in which it is used.
+  * NB Effective and Repealed January 1, 2016
   2. Whenever the term "state board of health" occurs or any reference
 is made thereto, in any law, it shall be deemed to mean or refer to the
 department as described in this article.

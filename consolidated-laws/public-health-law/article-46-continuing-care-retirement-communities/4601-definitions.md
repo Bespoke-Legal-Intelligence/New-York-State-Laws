@@ -5,17 +5,29 @@
 
 ```text
   § 4601. Definitions. As used in this article:
-  1. "Certificates" or "certificate of authority" shall mean an
+  * 1. "Certificates" or "certificate of authority" shall mean an
 authorization in writing, approved by the council and issued by the
 commissioner, for an operator to operate a continuing care retirement
 community and to enter into continuing care retirement contracts
 pertaining to such community.
+  * NB Effective until April 1, 2015
+  * 1. "Certificates" or "certificate of authority" shall mean an
+authorization in writing, approved by the council and issued by the
+commissioner, for an operator to operate a continuing care retirement
+community and to enter into continuing care retirement contracts and
+continuing care at home contracts pertaining to such community.
+  * NB Effective April 1, 2015
   2. "Commissioner" shall mean the commissioner of health.
-  2-a. "Continuing care retirement community contract" shall mean a
+  * 2-a. "Continuing care retirement community contract" shall mean a
 single contract to provide a person the services provided by a
 continuing care retirement community.
-  2-b. "Continuing care retirement community" or "community" shall mean
-a facility or facilities established to provide a comprehensive,
+  * NB Effective until April 1, 2015
+  * 2-a. "Continuing care retirement contract" or "continuing care at
+home contract" shall mean a single contract to provide a person the
+services provided by a continuing care retirement community.
+  * NB Effective April 1, 2015
+  * 2-b. "Continuing care retirement community" or "community" shall
+mean a facility or facilities established to provide a comprehensive,
 cohesive living arrangement for the elderly, oriented to the enhancement
 of the quality of life and which, pursuant to the terms of the
 continuing care retirement community contract, at a minimum:
@@ -48,9 +60,52 @@ security act; and
 fee-for-service continuing care contracts must offer, along with such
 fee-for-service continuing care contracts, life care and/or continuing
 care contracts as defined in subdivision eight-a of this section.
-  3. "Contracts" or "agreements" shall mean continuing care at home or
+  * NB Effective until April 1, 2015
+  * 2-b. "Continuing care retirement community" or "community" shall
+mean a facility or facilities established to provide a comprehensive,
+cohesive living arrangement for the elderly, oriented to the enhancement
+of the quality of life and which, pursuant to a contract, at a minimum:
+  a. for continuing care retirement contracts, provides independent
+living units, and meal plan options. The independent living unit can be
+made available either through a non-equity arrangement or through an
+equity arrangement including, but not limited to a cooperative or
+condominium.  For purposes of this article, the purchase price of an
+independent living unit in an equity arrangement, regardless of the form
+of the purchase agreement, shall not be considered an entry fee for
+purposes of calculating reserve liabilities, but shall be considered an
+entry fee for escrow purposes;
+  b. provides a range of health care and social services, subject to
+such terms as may be included within the contract, which shall include
+adult care facility services of an on-site or affiliated adult care
+facility, and at a minimum, sixty days of prepaid services of an on-site
+or affiliated nursing facility for residents not receiving services
+under a fee-for-service contract;
+  c. provides access to health services as defined in the contract,
+prescription drugs, and rehabilitation services;
+  d. nothing in this article shall eliminate the obligation of a
+continuing care retirement community to provide at least sixty days of
+prepaid nursing facility services to all residents, with the exception
+of residents receiving services under the terms of a fee-for-service
+continuing care contract as defined in this section. The prepaid days
+must include the first sixty days of nursing facility services, whether
+or not consecutive, not covered by Title XVIII of the federal social
+security act;
+  e. communities established under this article and offering
+fee-for-service continuing care contracts must offer, along with such
+fee-for-service continuing care contracts, life care and/or continuing
+care contracts as defined in subdivision eight-a of this section; and
+  f. communities established under this article offering continuing care
+at home contracts must also offer continuing care retirement contracts
+and must maintain a continuing care retirement community that operates
+in support of the continuing care at home contracts.
+  * NB Effective April 1, 2015
+  * 3. "Contracts" or "agreements" shall mean continuing care at home or
 continuing care retirement community contracts as defined in this
 article.
+  * NB Effective until April 1, 2015
+  * 3. "Contracts" or "agreements" shall mean continuing care at home or
+continuing care retirement contracts as defined in this article.
+  * NB Effective April 1, 2015
   4. "Control", "controlling", "controlled by", and "under common
 control with" shall mean the possession, directly, or indirectly, of the
 power to direct or cause the direction of the management and policies of
@@ -65,54 +120,90 @@ any other person or is a corporate member of the legal entity.
   5. "Council" shall mean the continuing care retirement community
 council, established pursuant to section forty-six hundred two of this
 article.
-  6. "Entrance fee" shall mean an initial or deferred transfer to an
+  * 6. "Entrance fee" shall mean an initial or deferred transfer to an
 operator of a sum of money, made or promised to be made by a person or
 persons entering into a continuing care retirement contract, for the
 purpose of ensuring services pursuant to such a contract.
+  * NB Effective until April 1, 2015
+  * 6. "Entrance fee" shall mean an initial or deferred transfer to an
+operator of a sum of money, made or promised to be made by a person or
+persons entering into a continuing care retirement contract or
+continuing care at home contract, for the purpose of ensuring services
+pursuant to such a contract.
+  * NB Effective April 1, 2015
   7. "Facility" shall mean any place in which an operator undertakes to
 provide a resident with the services of a continuing care retirement
 community, pursuant to a contract, whether such place is constructed,
 owned, leased, rented, or otherwise contracted for by the operator.
-  7-a. "Continuing care at home corporation" shall mean a not-for-profit
-corporation affiliated with a continuing care retirement community
-campus provider through which contract holders pay an entrance fee and a
-monthly fee, both of which would correspond to the level of service
-chosen by the contract holder.
-  7-b. "Continuing care at home contract" shall mean a single contract
+  * 7-a. "Continuing care at home corporation" shall mean a
+not-for-profit corporation affiliated with a continuing care retirement
+community campus provider through which contract holders pay an entrance
+fee and a monthly fee, both of which would correspond to the level of
+service chosen by the contract holder.
+  * NB Repealed April 1, 2015
+  * 7-b. "Continuing care at home contract" shall mean a single contract
 to provide a person with long term care services and supports based upon
 an individual's needs and coordinated by a case manager, which shall
 include services provided to the individual in his or her residence and
 services of the affiliated community's nursing facility and adult care
 facility, or affiliated facilities.
-  7-c. a. "Continuing care at home" corporations providing services in a
-nursing home as defined in section twenty-eight hundred one of this
+  * NB Repealed April 1, 2015
+  * 7-c. a. "Continuing care at home" corporations providing services in
+a nursing home as defined in section twenty-eight hundred one of this
 chapter must be licensed under article twenty-eight and shall be subject
 to the provisions and standards of such article.
   b. "Continuing care at home" corporations providing home care services
 as defined in section thirty-six hundred two of this chapter must be
 licensed under article thirty-six and shall be subject to the provisions
 and standards of such article.
-  8. "Life care contract" shall mean a single continuing care retirement
-community contract or a continuing care at home contract to provide a
+  * NB Repealed April 1, 2015
+  * 8. "Life care contract" shall mean a single continuing care
+retirement community contract or a continuing care at home contract to
+provide a person, for the duration of such person's life, the services
+provided by the continuing care retirement community or the continuing
+care at home corporation, which services shall include unlimited
+services of the affiliated community's nursing facility or affiliated
+nursing home. Such term also shall mean a single continuing care
+retirement community contract to provide a person, for the duration of
+such person's life, the services provided by the continuing care
+retirement community under an arrangement in which the costs of the
+residents' unlimited nursing home or home care services are paid for in
+whole or in part by a long term care insurance policy approved by the
+superintendent in accordance with applicable regulations or by long term
+care insurance or medical assistance payments in accordance with the
+partnership for long term care program pursuant to the provisions of
+section three hundred sixty-seven-f of the social services law, section
+three thousand two hundred twenty-nine of the insurance law and section
+four thousand six hundred twenty-three of this chapter.
+  * NB Effective until April 1, 2015
+  * 8. "Life care contract" shall mean a single continuing care
+retirement contract or a continuing care at home contract to provide a
 person, for the duration of such person's life, the services provided by
-the continuing care retirement community or the continuing care at home
-corporation, which services shall include unlimited services of the
-affiliated community's nursing facility or affiliated nursing home. Such
-term also shall mean a single continuing care retirement community
-contract to provide a person, for the duration of such person's life,
-the services provided by the continuing care retirement community under
-an arrangement in which the costs of the residents' unlimited nursing
-home or home care services are paid for in whole or in part by a long
-term care insurance policy approved by the superintendent in accordance
-with applicable regulations or by long term care insurance or medical
-assistance payments in accordance with the partnership for long term
-care program pursuant to the provisions of section three hundred
-sixty-seven-f of the social services law, section three thousand two
-hundred twenty-nine of the insurance law and section four thousand six
-hundred twenty-three of this chapter.
+the continuing care retirement community, which services shall include
+unlimited services of the affiliated community's nursing facility or
+affiliated nursing home. Such term also shall mean a single continuing
+care retirement contract to provide a person, for the duration of such
+person's life, the services provided by the continuing care retirement
+community under an arrangement in which the costs of the residents'
+unlimited nursing home or home care services are paid for in whole or in
+part by a long term care insurance policy approved by the superintendent
+in accordance with applicable regulations or by long term care insurance
+or medical assistance payments in accordance with the partnership for
+long term care program pursuant to the provisions of section three
+hundred sixty-seven-f of the social services law, section three thousand
+two hundred twenty-nine of the insurance law and section four thousand
+six hundred twenty-three of this chapter.
+  * NB Effective April 1, 2015
   8-a. "Fee-for-service continuing care contract" shall mean a single
 continuing care retirement contract that provides long-term and other
 services on a per diem, fee-for-service or monthly rate.
+  * 8-b. "Continuing care at home contract" shall mean a single contract
+to provide a person with long term care services and supports based upon
+the person's needs and coordinated by a case manager, which shall
+include services provided to the person in his or her residence and
+services of the community's nursing facility and adult care facility, or
+affiliated facilities.
+  * NB Effective April 1, 2015
   9. "Life care shall mean those services provided pursuant to a "life
 care contract".
   10. "Living unit" shall mean an apartment, room, cottage, or other
@@ -141,9 +232,23 @@ paid by a prospective resident for deposit with the escrow agent for a
 prospective continuing care retirement community applicant, an applicant
 for a certificate of authority or an operator pursuant to a priority
 reservation agreement.
-  15. "Resident" shall mean any person who, pursuant to a contract, is
+  * 15. "Resident" shall mean any person who, pursuant to a contract, is
 entitled to reside in and receive services from a continuing care
 retirement community.
+  * NB Effective until April 1, 2015
+  * 15. "Resident" shall mean any person who, pursuant to a continuing
+care retirement contract or continuing care at home contract, is
+entitled to reside in and/or receive services from a continuing care
+retirement community.
+  * NB Effective April 1, 2015
+  * 15-a. "ILU resident" shall mean a continuing care retirement
+contract holder who resides in a living unit within the continuing care
+retirement community.
+  * NB Effective April 1, 2015
+  * 15-b. "Home resident" shall mean a continuing care at home contract
+holder who resides in a private residence off of the continuing care
+retirement community campus.
+  * NB Effective April 1, 2015
   16. "Residential health care demonstration facility" shall mean a
 residential health care facility containing up to sixty beds, within the
 defined geographical boundary of each health systems agency established

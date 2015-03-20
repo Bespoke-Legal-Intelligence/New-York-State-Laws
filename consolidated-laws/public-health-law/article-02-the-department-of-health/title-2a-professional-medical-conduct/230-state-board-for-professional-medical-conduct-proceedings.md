@@ -138,34 +138,48 @@ has been committed by the licensee, the board for professional medical
 conduct or office of professional medical conduct shall notify the
 appropriate law enforcement official or authority.
   9-b. Neither the board for professional medical conduct nor the office
-of professional medical conduct shall identify, charge, or cause a
-report made to the director of such office to be investigated based
-solely upon the recommendation or provision of a treatment modality by a
-licensee that is not universally accepted by the medical profession,
-including but not limited to, varying modalities used in the treatment
-of Lyme disease and other tick-borne diseases. As used in this
-subdivision the term "licensee" shall mean a physician, physician's
-assistant, and specialist's assistant. When a licensee, acting in
-accordance with paragraph e of subdivision four of section sixty-five
-hundred twenty-seven of the education law, recommends or provides a
-treatment modality that effectively treats human disease, pain, injury,
-deformity or physical condition, the recommendation or provision of that
-modality shall not, by itself, constitute professional misconduct. This
-prohibition shall not exonerate such licensee from otherwise applicable
-professional requirements.
+of professional medical conduct shall charge a licensee with misconduct
+as defined in sections sixty-five hundred thirty and sixty-five hundred
+thirty-one of the education law, or cause a report made to the director
+of such office to be investigated beyond a preliminary review as set
+forth in clause (A) of subparagraph (i) of paragraph (a) of subdivision
+ten of this section, where such report is determined to be based solely
+upon the recommendation or provision of a treatment modality to a
+particular patient by such licensee that is not universally accepted by
+the medical profession, including but not limited to, varying modalities
+used in the treatment of Lyme disease and other tick-borne diseases.
+When a licensee, acting in accordance with paragraph e of subdivision
+four of section sixty-five hundred twenty-seven of the education law,
+recommends or provides a treatment modality that effectively treats
+human disease, pain, injury, deformity or physical condition for which
+the licensee is treating a patient, the recommendation or provision of
+that modality to a particular patient shall not, by itself, constitute
+professional misconduct. The licensee shall otherwise abide by all other
+applicable professional requirements.
   10. Professional misconduct proceedings shall consist of:
-  * (a) Investigation.  (i) The board for professional medical conduct,
-by the director of the office of professional medical conduct, may
-investigate on its own any suspected professional misconduct, and shall
-investigate each complaint received regardless of the source. The
-director of the office of professional medical conduct shall cause a
-preliminary review of every report made to the department pursuant to
-section twenty-eight hundred three-e as added by chapter eight hundred
-sixty-six of the laws of nineteen hundred eighty, sections twenty-eight
-hundred five-l and forty-four hundred five-b of this chapter, and
-section three hundred fifteen of the insurance law, to determine if such
-report reasonably appears to reflect physician conduct warranting
-further investigation pursuant to this subparagraph.
+  * (a) Investigation.  (i) (A) The board for professional medical
+conduct, by the director of the office of professional medical conduct,
+may investigate on its own any suspected professional misconduct, and
+shall investigate each complaint received regardless of the source. By
+the conclusion of a preliminary review, including an internal clinical
+review, the director shall determine if a report is based solely upon
+the recommendation or provision of a treatment modality by a licensee
+that is not universally accepted by the medical profession, including
+but not limited to varying modalities used in the treatment of Lyme
+disease or other tick-borne diseases. Upon a determination by the
+director that a report is based solely upon the provision of a treatment
+modality that is not universally accepted, no further review shall be
+conducted and no charges shall be brought. Nothing in this section shall
+preclude the director from making such a determination earlier in, or
+subsequent to, a preliminary review. (B) The director of the office of
+professional medical conduct shall cause a preliminary review of every
+report made to the department pursuant to section twenty-eight hundred
+three-e as added by chapter eight hundred sixty-six of the laws of
+nineteen hundred eighty, sections twenty-eight hundred five-l and
+forty-four hundred five-b of this chapter, and section three hundred
+fifteen of the insurance law, to determine if such report reasonably
+appears to reflect physician conduct warranting further investigation
+pursuant to this subparagraph.
   (ii) If the investigation of cases referred to an investigation
 committee involves issues of clinical practice, medical experts, shall
 be consulted. Experts may be made available by the state medical society

@@ -4,12 +4,19 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  § 4612. Residents' organizations. 1. Residents in a community
+  § 4612. Residents' organizations. * 1. Residents in a community
 authorized by this article shall have the right of self-organization,
 the right to be represented by one or more individuals of their own
 choosing, and the right to engage in concerted activities for the
 purpose of keeping informed of the operation of the community in which
 they live.
+  * NB Effective until April 1, 2015
+  * 1. Continuing care retirement contract holders shall have the right
+of self-organization, the right to be represented by one or more
+individuals of their own choosing, and the right to engage in concerted
+activities for the purpose of keeping informed of the operation of the
+community in which they live.
+  * NB Effective April 1, 2015
   2. The board of directors, a designated representative, or other such
 governing body of a continuing care retirement community shall meet at
 least four times a year with residents' representatives and shall hold a

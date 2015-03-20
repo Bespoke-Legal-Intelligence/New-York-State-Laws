@@ -4,8 +4,8 @@
 [Banking Law](../README.md) › [Article 11 — Credit Unions](README.md)
 
 ```text
-  * § 451-a. Qualifications for membership. 1. Subject to approval of
-the superintendent, the membership of a credit union shall consist of
+  § 451-a. Qualifications for membership. 1. Subject to approval of the
+superintendent, the membership of a credit union shall consist of
 persons within the credit union's field of membership who have been duly
 admitted members.
   Subject to the approval of the superintendent, a credit union's field
@@ -54,5 +54,4 @@ extend membership to persons and organizations in an underserved local
 community, neighborhood or rural district where such area is considered
 an "investment area" as defined in the federal Community Development
 Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(16)).
-  * NB Effective March 17, 2015
 ```

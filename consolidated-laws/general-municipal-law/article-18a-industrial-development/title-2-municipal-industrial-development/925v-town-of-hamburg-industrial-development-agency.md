@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 925-v. Town of Hamburg industrial development agency. 1. For the
+  * § 925-v. Town of Hamburg industrial development agency. 1. For the
 benefit of the town of Hamburg in the county of Erie, and the
 inhabitants thereof, an industrial development agency, to be known as
 the TOWN OF HAMBURG INDUSTRIAL DEVELOPMENT AGENCY, is hereby established
@@ -28,4 +28,5 @@ provisions of title one of article eighteen-A of this chapter.
 hundred fifty-six of article eighteen-A of this chapter, the agency
 shall consist of not less than three nor more than nine members who
 shall be appointed by the governing body of the town of Hamburg.
+  * NB Agency expires per §§ 856 and 882
 ```

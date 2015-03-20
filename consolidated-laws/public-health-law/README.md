@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,600 (1 repealed) |
-| Last changed | 6 Mar 2015 |
+| Sections | 1,605 |
+| Last changed | 20 Mar 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (322 lines)](chapter-text.md)
+[Full chapter text (323 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Mar 2015](../../changes/2015/2015-03-20.md): 11 amended, 6 added, 1 removed
 - [6 Mar 2015](../../changes/2015/2015-03-06.md): 1 amended
 - [6 Feb 2015](../../changes/2015/2015-02-06.md): 7 amended
 - [23 Jan 2015](../../changes/2015/2015-01-23.md): 1 amended, 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Dec 2014](../../changes/2014/2014-12-19.md): 1 amended
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 3 amended, 2 added
 - [31 Oct 2014](../../changes/2014/2014-10-31.md): 1 amended
-- [24 Oct 2014](../../changes/2014/2014-10-24.md): 3 amended
 
 ## Contents
 
@@ -119,6 +119,7 @@ Assembly, do enact as follows:
 - [Article 29-D — Health Information and Quality Improvement](article-29d-health-information-and-quality-improvement/)
 - [Article 29-E — Accountable Care Organizations](article-29e-accountable-care-organizations/)
 - [Article 29-F — Improved Integration of Health Care and Financing](article-29f-improved-integration-of-health-care/)
+- [Article 29-G — Telehealth Delivery of Services](article-29g-telehealth-delivery-of-services/)
 - [Article 30 — Emergency Medical Services](article-30-emergency-medical-services/)
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)

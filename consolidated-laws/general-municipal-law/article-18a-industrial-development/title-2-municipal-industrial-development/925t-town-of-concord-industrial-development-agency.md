@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 925-t. Town of Concord industrial development agency. 1. For the
+  * § 925-t. Town of Concord industrial development agency. 1. For the
 benefit of the town of Concord and the inhabitants thereof, an
 industrial development agency, to be known as the TOWN OF CONCORD
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -32,4 +32,5 @@ one of section eight hundred fifty-six of this article shall not apply
 to the town of Concord industrial development agency and the agency as
 created and constituted pursuant to the other provisions of this article
 is continued until otherwise altered or terminated pursuant to law.
+  * NB Agency expires per §§ 856 and 882
 ```

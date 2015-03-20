@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Insurance Law § 4306-G", "kind": "section", "law_id": "ISC", "location_id": "4306-G", "path": "ARTICLE 43 › SECTION 4306-G", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/4306-G.md", "title": "Telehealth delivery of services"} -->
+# Insurance Law § 4306-G — Telehealth delivery of services
+
+[Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
+
+```text
+  * § 4306-g. Telehealth delivery of services. (a) A corporation shall
+not exclude from coverage a service that is otherwise covered under a
+contract that provides comprehensive coverage for hospital, medical or
+surgical care because the service is delivered via telehealth, as that
+term is defined in subsection (b) of this section; provided, however,
+that a corporation may exclude from coverage a service by a health care
+provider where the provider is not otherwise covered under the contract.
+A corporation may subject the coverage of a service delivered via
+telehealth to co-payments, coinsurance or deductibles provided that they
+are at least as favorable to the insured as those established for the
+same service when not delivered via telehealth. A corporation may
+subject the coverage of a service delivered via telehealth to reasonable
+utilization management and quality assurance requirements that are
+consistent with those established for the same service when not
+delivered via telehealth.
+  (b) For purposes of this section, "telehealth" means the use of
+electronic information and communication technologies by a health care
+provider to deliver health care services to an insured individual while
+such individual is located at a site that is different from the site
+where the health care provider is located.
+  * NB Effective January 1, 2016
+```

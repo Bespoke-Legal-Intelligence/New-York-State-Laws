@@ -4,13 +4,13 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 907-a. Town of Babylon industrial development agency. For the
+  * § 907-a. Town of Babylon industrial development agency. For the
 benefit of the town of Babylon in the county of Suffolk, and the
 inhabitants thereof, an industrial development agency, to be known as
 the TOWN OF BABYLON INDUSTRIAL DEVELOPMENT AGENCY, is hereby established
 for the accomplishment of any or all of the purposes specified in title
-one of article eighteen-A of this chapter.  It shall constitute a body
-corporate and politic, and be perpetual in duration.  It shall have the
+one of article eighteen-A of this chapter. It shall constitute a body
+corporate and politic, and be perpetual in duration. It shall have the
 powers and duties now or hereafter conferred by title one of article
 eighteen-A of this chapter upon industrial development agencies and
 provided that the exercise of the powers by such agency with respect to
@@ -24,4 +24,5 @@ chapter. Its members shall be appointed by the governing body of the
 Town of Babylon. The agency, its members, officers and employees and its
 operations and activities shall in all respects be governed by the
 provisions of title one of article eighteen-A of this chapter.
+  * NB Agency expires per §§ 856 and 882
 ```

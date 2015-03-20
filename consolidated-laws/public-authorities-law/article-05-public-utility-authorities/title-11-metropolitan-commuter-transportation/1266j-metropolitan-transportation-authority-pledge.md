@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11 — Metropolitan Commuter Transportation Authority](README.md)
 
 ```text
-  * § 1266-j. Metropolitan transportation authority pledge to customers.
+  § 1266-j. Metropolitan transportation authority pledge to customers.
 1. A metropolitan transportation authority pledge to customers shall be
 created and adopted by the metropolitan transportation authority. A copy
 of such pledge shall be posted on the web site of the authority and
@@ -36,5 +36,4 @@ authority's policies on service restoration.
 metropolitan transportation authority pledge to customers as it deems
 necessary and proper and may adopt rules and regulations for the proper
 administration of this section.
-  * NB Effective March 17, 2015
 ```

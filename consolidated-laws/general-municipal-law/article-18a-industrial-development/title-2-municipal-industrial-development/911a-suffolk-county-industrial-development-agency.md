@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 911-a. Suffolk county industrial development agency. 1. For the
+  * § 911-a. Suffolk county industrial development agency. 1. For the
 benefit of Suffolk county and the inhabitants thereof, an industrial
 development agency, to be known as the SUFFOLK COUNTY INDUSTRIAL
 DEVELOPMENT AGENCY, is hereby established for the accomplishment of any
@@ -48,4 +48,5 @@ for the preparation or servicing thereof, the financing agreements,
 resolutions or arrangements needed or required to carry out the
 provisions of such subdivision, and all indemnification agreements shall
 be subject to the prior approval of the state comptroller.
+  * NB Agency expires per §§ 856 and 882
 ```

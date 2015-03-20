@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 906-a. Allegany county industrial development agency.  1. For the
+  * § 906-a. Allegany county industrial development agency. 1. For the
 benefit of the county of Allegany and the inhabitants thereof, an
 industrial development agency, to be known as the ALLEGANY COUNTY
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -41,10 +41,10 @@ equipping and furnishing of industrial, manufacturing, warehousing,
 commercial, and research facilities including industrial pollution
 control facilities and thereby advance the job opportunities, health,
 general prosperity and economic welfare of the people of the state and
-improve their prosperity and standard of living.  The powers conferred
+improve their prosperity and standard of living. The powers conferred
 pursuant to this subdivision with respect to the acquisition of real
 property shall not include the acquisition of real property by
-condemnation.  Notwithstanding the taxable status date set forth in
+condemnation. Notwithstanding the taxable status date set forth in
 section three hundred two of the real property tax law or any other
 provision of law to the contrary, if, prior to September fifteen,
 nineteen hundred ninety-five, the agency acquires ownership,
@@ -61,4 +61,5 @@ conferred pursuant to this subdivision shall be subject to the prior
 consent of the affected tax jurisdictions that are located outside the
 county of Allegany, and shall not apply to special ad valorem levies and
 special assessments.
+  * NB Agency expires per §§ 856 and 882
 ```

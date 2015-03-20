@@ -31,6 +31,7 @@
 - [§ 3217-E Choice of health care provider](3217e-choice-of-health-care-provider.md)
 - [§ 3217-F Prohibition on lifetime and annual limits](3217f-prohibition-on-lifetime-and-annual-limits.md)
 - [§ 3217-G Maternal depression screenings](3217g-maternal-depression-screenings.md)
+- [§ 3217-H Telehealth delivery of services](3217h-telehealth-delivery-of-services.md)
 - [§ 3218 Medicare supplemental insurance policies](3218-medicare-supplemental-insurance-policies.md)
 - [§ 3219 Annuity and pure endowment contracts and certain group annuity certificates; standard provisions as to contractual rights and responsibil...](3219-annuity-and-pure-endowment-contracts-and-certain-group-annuity-certificates.md)
 - [§ 3220 Group life insurance policies; standard provisions](3220-group-life-insurance-policies-standard-provisions.md)
@@ -112,6 +113,7 @@ Section 3201.   Approval of life, accident and health, credit
         3217-e. Choice of health care provider.
         3217-f. Prohibition on lifetime and annual limits.
         3217-g. Maternal depression screenings.
+        3217-h. Telehealth delivery of services.
         3218.   Medicare supplemental insurance policies.
         3219.   Annuity and pure endowment contracts and certain group
                   annuity certificates; standard provisions as to

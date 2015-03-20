@@ -17,6 +17,7 @@
 - [§ 4306-D Choice of health care provider](4306d-choice-of-health-care-provider.md)
 - [§ 4306-E Prohibition on lifetime and annual limits](4306e-prohibition-on-lifetime-and-annual-limits.md)
 - [§ 4306-F Maternal depression screenings](4306f-maternal-depression-screenings.md)
+- [§ 4306-G Telehealth delivery of services](4306g-telehealth-delivery-of-services.md)
 - [§ 4307 Providers of services](4307-providers-of-services.md)
 - [§ 4308 Supervision of superintendent](4308-supervision-of-superintendent.md)
 - [§ 4309 Limitation on expenses](4309-limitation-on-expenses.md)
@@ -62,6 +63,7 @@ Section 4301.   Organization of corporation; purposes; board of
         4306-d. Choice of health care provider.
         4306-e. Prohibition on lifetime and annual limits.
         4306-f. Maternal depression screenings.
+        4306-g. Telehealth delivery of services.
         4307.   Providers of services.
         4308.   Supervision of superintendent.
         4309.   Limitation on expenses.

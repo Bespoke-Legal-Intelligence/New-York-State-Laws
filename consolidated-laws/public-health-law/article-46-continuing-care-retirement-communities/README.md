@@ -13,9 +13,12 @@
 - [§ 4604 Certificate of authority required; application and approval](4604-certificate-of-authority-required-application-and-approval.md)
 - [§ 4604-A Council approval required for industrial development agency financing in connection with continuing care retirement communities](4604a-council-approval-required-for-industrial-development-agency-financing.md)
 - [§ 4605 Certificate of authority; authority of operator](4605-certificate-of-authority-authority-of-operator.md)
+- [§ 4605-A Certificate of authority; authority to offer continuing care at home contracts](4605a-certificate-of-authority-authority-to-offer-continuing-care-at-home-contracts.md)
+- [§ 4605-B Certificate of authority; limitation on continuing care at home contracts](4605b-certificate-of-authority-limitation-on-continuing-care-at-home-contracts.md)
 - [§ 4606 Initial disclosure statement](4606-initial-disclosure-statement.md)
 - [§ 4607 Annual statement](4607-annual-statement.md)
 - [§ 4608 Continuing care retirement community contract](4608-continuing-care-retirement-community-contract.md)
+- [§ 4608-A Continuing care at home requirements](4608a-continuing-care-at-home-requirements.md)
 - [§ 4609 Withdrawal, death or dismissal of person; refund](4609-withdrawal-death-or-dismissal-of-person-refund.md)
 - [§ 4610 Entrance fee escrow account](4610-entrance-fee-escrow-account.md)
 - [§ 4611 Reserves and supporting assets](4611-reserves-and-supporting-assets.md)
@@ -51,9 +54,14 @@ Section 4600.   Legislative findings and purpose.
                   agency financing in connection with continuing care
                   retirement communities.
         4605.   Certificate of authority; authority of operator.
+        4605-a. Certificate of authority; authority to offer continuing
+                  care at home contracts.
+        4605-b. Certificate of authority; limitation on continuing care
+                  at home contracts.
         4606.   Initial disclosure statement.
         4607.   Annual statement.
-        4608.   Continuing care retirement community contract.
+        4608.   Contracts.
+        4608-a. Continuing care at home requirements.
         4609.   Withdrawal, death or dismissal of person; refund.
         4610.   Entrance fee escrow account.
         4611.   Reserves and supporting assets.
@@ -72,7 +80,7 @@ Section 4600.   Legislative findings and purpose.
         4622.   Priority reservation agreements; after obtaining a
                   certificate of authority.
         4623.   Long term care insurance and continuing care retirement
-                  contracts.
+                  contracts or continuing care at home contracts.
         4624.   Continuing care retirement communities making assurances
                   regarding long term care.
 ```

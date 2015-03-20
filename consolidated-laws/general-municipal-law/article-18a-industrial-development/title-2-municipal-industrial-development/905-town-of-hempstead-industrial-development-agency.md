@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 905. Town of Hempstead industrial development agency. 1. For the
+  * § 905. Town of Hempstead industrial development agency. 1. For the
 benefit of the town of Hempstead, county of Nassau, and the inhabitants
 thereof, an industrial development agency, to be known as the TOWN OF
 HEMPSTEAD INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -64,4 +64,5 @@ Freeport or the village of Hempstead may request from the office of the
 state comptroller an audit or review of the audit prior to the renewal
 or renegotiation of a PILOT agreement for a project located in the
 village of Freeport or the village of Hempstead.
+  * NB Agency expires per §§ 856 and 882
 ```

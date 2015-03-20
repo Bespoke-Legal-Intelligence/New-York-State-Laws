@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 909-b. Town of Bethlehem industrial development agency. 1. For the
+  * § 909-b. Town of Bethlehem industrial development agency. 1. For the
 benefit of the town of Bethlehem and the inhabitants thereof, an
 industrial development agency, to be known as the TOWN OF BETHLEHEM
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -29,4 +29,5 @@ of section eight hundred fifty-six or section eight hundred eighty-two
 of this chapter, the town of Bethlehem industrial development agency
 shall not dissolve or be terminated prior to June fifth, nineteen
 hundred ninety-three.
+  * NB Agency expires per §§ 856 and 882
 ```

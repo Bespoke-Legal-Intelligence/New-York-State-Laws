@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 908. County of Delaware industrial development agency.  For the
+  * § 908. County of Delaware industrial development agency. For the
 benefit of the county of Delaware and the inhabitants thereof, and
 industrial development agency, to be known as the COUNTY OF DELAWARE
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -19,4 +19,5 @@ the governing body of the county of Delaware. The agency, its members,
 officers and employees and its operations and activities shall in all
 respects be governed by the provisions of title one of article
 eighteen-A of this chapter.
+  * NB Agency expires per §§ 856 and 882
 ```

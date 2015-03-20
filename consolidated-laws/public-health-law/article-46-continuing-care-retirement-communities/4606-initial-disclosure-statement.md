@@ -115,7 +115,7 @@ arrangements, then the resident may have to be admitted to a facility
 approved by the health maintenance organization in order to receive
 their Medicare benefit for nursing facility services under the health
 maintenance organization subscriber contract.
-  13. The initial disclosure statement and marketing materials of a
+  * 13. The initial disclosure statement and marketing materials of a
 continuing care retirement community and continuing care at home
 corporation must clearly include a description of the services offered
 as part of its contract, including, but not limited to, any limitations
@@ -124,6 +124,16 @@ marketing materials of a continuing care retirement community or
 continuing care at home corporation which offers various types of
 contracts, which may include life care contracts, must clearly
 differentiate among the various types of contracts which it may offer.
+  * NB Effective until April 1, 2015
+  * 13. The initial disclosure statement and marketing materials of a
+continuing care retirement community must clearly include a description
+of the services offered as part of its contract, including, but not
+limited to, any limitations on nursing facility services. The initial
+disclosure statement and marketing materials of a continuing care
+retirement community which offers various types of contracts, which may
+include life care contracts, must clearly differentiate among the
+various types of contracts which it may offer.
+  * NB Effective April 1, 2015
   14. In accordance with regulations promulgated by the council, the
 operator shall prepare a standard information sheet for each approved
 continuing care retirement community, which must be approved by the
@@ -132,21 +142,38 @@ materials and attached to the initial disclosure statement prepared in
 accordance with this section. The standard information sheet shall be
 prepared in plain language and in twelve point type and shall include
 but shall not be limited to the following information:
-  a. a brief description of the community, including its name and
+  * a. a brief description of the community, including its name and
 location and amenities and services available;
+  * NB Effective until April 1, 2015
+  * a. a brief description of the community, including its name and
+location and amenities and services, including meal options, available;
+  * NB Effective April 1, 2015
   b. the name, address, and telephone number of the operator and a
 contact person employed by the operator;
   c. the number and types of independent living units, adult care
 facility units and nursing home beds and whether such beds are on-site
 or off-site;
   d. the types of contracts available;
-  e. the types of meal plans available;
-  f. a listing of all fees, charges, and refund options and the services
-covered by such fees and charges;
-  g. any insurance coverage required of residents; and
-  h. any other information which the continuing care retirement
+  * e. the types of meal plans available;
+  * NB Effective until April 1, 2015
+  * e. a listing of all fees, charges, and refund options and the
+services covered by such fees and charges;
+  * NB Effective April 1, 2015
+  * f. a listing of all fees, charges, and refund options and the
+services covered by such fees and charges;
+  * NB Effective until April 1, 2015
+  * f. any insurance coverage required of residents; and
+  * NB Effective April 1, 2015
+  * g. any insurance coverage required of residents; and
+  * NB Effective until April 1, 2015
+  * g. any other information which the continuing care retirement
 community council determines will assist a consumer in comparing the
 benefits and costs of different continuing care retirement communities.
+  * NB Effective April 1, 2015
+  * h. any other information which the continuing care retirement
+community council determines will assist a consumer in comparing the
+benefits and costs of different continuing care retirement communities.
+  * NB Effective until April 1, 2015
   15. Any other information as may be required by regulations
 promulgated by the council.
 ```

@@ -4,7 +4,7 @@
 [General Municipal Law](../../README.md) › [Article 18-A — Industrial Development](../README.md) › [Title 2 — Municipal Industrial Development Agencies](README.md)
 
 ```text
-  § 895-l. Columbia county industrial development agency. For the
+  * § 895-l. Columbia county industrial development agency. For the
 benefit of the county of Columbia and the inhabitants thereof, an
 industrial development agency, to be known as the COLUMBIA COUNTY
 INDUSTRIAL DEVELOPMENT AGENCY, is hereby established for the
@@ -24,4 +24,5 @@ members shall be appointed by the governing body of the county of
 Columbia. The agency, its members, officers and employees and its
 operations and activities shall in all respects be governed by the
 provisions of title one of article eighteen-A of this chapter.
+  * NB Agency expires per §§ 856 and 882
 ```
