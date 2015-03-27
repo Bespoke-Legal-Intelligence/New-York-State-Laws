@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 3 — Department of Environmental Conservation; General Functions, Powers, Duties and Jurisdiction](../README.md) › [Title 3 — General Functions, Powers, Duties and Jurisdiction](README.md)
 
 ```text
-* § 3-0319. Sea level rise projections.
+§ 3-0319. Sea level rise projections.
   The department shall, no later than January first, two thousand
 sixteen, adopt regulations establishing science-based state sea level
 rise projections. In adopting such regulations, the department shall
@@ -16,5 +16,4 @@ laws of two thousand seven, projections prepared by the New York City
 Panel on Climate Change and any other relevant regional, state and local
 reports. The department shall update such regulations no less than every
 five years.
-  * NB Effective March 21, 2015
 ```

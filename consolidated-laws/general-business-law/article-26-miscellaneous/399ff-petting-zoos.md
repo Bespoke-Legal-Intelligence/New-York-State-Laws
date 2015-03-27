@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 399-ff. Petting zoos. 1. For purposes of this section the terms:
+  § 399-ff. Petting zoos. 1. For purposes of this section the terms:
   (a) "petting zoo" shall mean a place where a collection of animals are
 kept for the express purpose of viewing, touching, holding and petting
 by patrons and visitors to the establishment; and
@@ -29,5 +29,4 @@ located.
 or hand cleansing facility and proper signage in violation of this
 section shall be subject to a civil penalty in an amount of up to five
 hundred dollars.
-  * NB Effective March 22, 2015
 ```

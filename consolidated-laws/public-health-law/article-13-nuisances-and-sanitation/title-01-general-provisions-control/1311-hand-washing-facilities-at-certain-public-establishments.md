@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 1 — General Provisions; Control and Abatement](README.md)
 
 ```text
-  *§ 1311. Hand washing facilities at certain public establishments
+  § 1311. Hand washing facilities at certain public establishments
 featuring animals. 1. All public establishments including, but not
 limited to, carnivals, fairs and amusement parks, as such terms are
 defined in section eight hundred seventy-c of the labor law, farms, and
@@ -30,5 +30,4 @@ to patrons of such establishments where such establishments are located
 outside the city of New York, and where such establishments are located
 within the city of New York, the commissioner of public health of the
 city of New York may make and enforce such rules.
-  * NB Effective March 22, 2015
 ```
