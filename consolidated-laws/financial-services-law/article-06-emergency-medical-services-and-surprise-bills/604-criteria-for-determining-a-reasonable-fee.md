@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 604. Criteria for determining a reasonable fee. In determining the
+  § 604. Criteria for determining a reasonable fee. In determining the
 appropriate amount to pay for a health care service, an independent
 dispute resolution entity shall consider all relevant factors,
 including:
@@ -25,5 +25,4 @@ participating;
 time and place of the service;
   (e) individual patient characteristics; and
   (f) the usual and customary cost of the service.
-  * NB Effective March 31, 2015
 ```

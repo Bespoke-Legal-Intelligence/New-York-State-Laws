@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-D — Family Health Plus Program](README.md)
 
 ```text
-  * § 369-gg. Basic health program. 1. Definitions. For purposes of this
+  § 369-gg. Basic health program. 1. Definitions. For purposes of this
 section:
   (a) "Eligible organization" means an insurer licensed pursuant to
 article thirty-two or forty-two of the insurance law, a corporation or
@@ -126,5 +126,4 @@ article due to his or her immigration status if the provisions of
 section one hundred twenty-two of this chapter were applied, shall be
 considered to be ineligible for medical assistance for purposes of
 paragraphs (b) and (c) of subdivision three of this section.
-  * NB Effective April 1, 2015
 ```

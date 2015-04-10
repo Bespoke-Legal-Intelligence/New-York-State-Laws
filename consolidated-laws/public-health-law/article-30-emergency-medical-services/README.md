@@ -43,7 +43,7 @@
                        EMERGENCY MEDICAL SERVICES
 Section  3000.    Declaration of policy and statement of purpose.
          3000-a.  Emergency medical treatment.
-         3000-b.  Automated externam defibrillators: Public access
+         3000-b.  Automated external defibrillators: Public access
                     providers.
          3000-c.  Epinephrine auto-injector devices.
          3000-d.  Availability of resuscitation equipment in certain

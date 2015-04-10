@@ -287,14 +287,7 @@ the applicable family size;
 title; and
   (iii) are enrolled in a standard health plan in the silver level, as
 defined in 42 U.S.C. 18022.
-  * (2) Payment pursuant to this paragraph shall be for premium
-obligations of the individual under the qualified health plan and shall
-continue only if and for so long as the individual's MAGI household
-income exceeds one hundred thirty-three percent, but does not exceed one
-hundred fifty percent, of the federal poverty line for the applicable
-family size.
-  * NB Effective until April 1, 2015
-  * (2) Payment pursuant to this paragraph shall be for premium
+  (2) Payment pursuant to this paragraph shall be for premium
 obligations of the individual under the qualified health plan and shall
 continue only if and for so long as the individual's MAGI household
 income exceeds one hundred thirty-three percent, but does not exceed one
@@ -302,7 +295,6 @@ hundred fifty percent, of the federal poverty line for the applicable
 family size, or, if earlier, until the individual is eligible for
 enrollment in a standard health plan pursuant to section three hundred
 sixty-nine-gg of this article.
-  * NB Effective April 1, 2015
   (3) The commissioner of health shall submit amendments to the state
 plan for medical assistance and/or submit one or more applications for
 waivers of the federal social security act as may be necessary to

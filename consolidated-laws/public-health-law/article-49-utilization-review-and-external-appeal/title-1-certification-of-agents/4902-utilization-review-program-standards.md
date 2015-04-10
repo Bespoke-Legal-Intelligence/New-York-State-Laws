@@ -73,7 +73,7 @@ an enrollee shall not be subject to prior authorization nor shall
 reimbursement for such services be denied on retrospective review;
 provided, however, that such services are medically necessary to
 stabilize or treat an emergency condition.
-  * (i) When conducting utilization review for purposes of determining
+  (i) When conducting utilization review for purposes of determining
 health care coverage for substance use disorder treatment, a utilization
 review agent shall utilize recognized evidence-based and peer reviewed
 clinical review criteria that is appropriate to the age of the patient
@@ -85,7 +85,6 @@ with the commissioner and the superintendent of financial services shall
 approve a recognized evidence-based and peer reviewed clinical review
 criteria, in addition to any other approved evidence-based and peer
 reviewed clinical review criteria.
-  * NB Effective April 1, 2015
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

@@ -166,7 +166,7 @@ service; or
 benefits under the evidence of coverage under the health care plan;
   (3) be binding on the plan and the enrollee; and
   (4) be admissible in any court proceeding.
-  * (D) For external appeals requested pursuant to paragraph (d) of
+  (D) For external appeals requested pursuant to paragraph (d) of
 subdivision two of section four thousand nine hundred ten of this title
 relating to an out-of-network referral denial, the external appeal agent
 shall review the utilization review agent's final adverse determination
@@ -196,7 +196,6 @@ beneficial outcome; or
 benefits under the evidence of coverage under the health care plan;
   (iv) be binding on the plan and the enrollee; and
   (v) be admissible in any court proceeding.
-  * NB Effective March 31, 2015
   3. No external appeal agent or clinical peer reviewer conducting an
 external appeal shall be liable in damages to any person for any
 opinions rendered by such external appeal agent or clinical peer

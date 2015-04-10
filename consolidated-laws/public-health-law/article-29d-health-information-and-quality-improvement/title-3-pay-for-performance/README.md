@@ -15,8 +15,7 @@
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * TITLE 3
-                           PAY FOR PERFORMANCE
+                    * TITLE 3 -- PAY FOR PERFORMANCE
 Section 2999-b. Legislative intent.
         2999-c. Definition.
         2999-d. Commissioner's workgroup.

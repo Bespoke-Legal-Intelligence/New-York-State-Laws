@@ -28,25 +28,13 @@ characteristics of the population to be served;
   b. an actuarial study;
   c. an initial disclosure statement as provided pursuant to section
 forty-six hundred six of this title;
-  * d. a copy of the proposed forms of contracts to be entered into with
-residents of the community or continuing care at home contract holders;
-  * NB Effective until April 1, 2015
-  * d. a copy of the proposed forms of contracts to be entered into with
+  d. a copy of the proposed forms of contracts to be entered into with
 residents;
-  * NB Effective April 1, 2015
-  * e. complete details of any agreements with a licensed insurer,
-including copies of proposed contracts, requiring the insurer to assume,
-wholly or in part, the cost of medical or health related services to be
-provided to a resident or continuing care at home contract holders
-pursuant to a continuing care retirement community or continuing care at
-home contract;
-  * NB Effective until April 1, 2015
-  * e. complete details of any agreements with a licensed insurer,
+  e. complete details of any agreements with a licensed insurer,
 including copies of proposed contracts, requiring the insurer to assume,
 wholly or in part, the cost of medical or health related services to be
 provided to a resident pursuant to a continuing care retirement contract
 or continuing care at home contract;
-  * NB Effective April 1, 2015
   f. a copy of each of the basic organizational documents and agreements
 of the applicant of all participating entities;
   g. a copy of the bylaws, rules and regulations and internal governing
@@ -100,36 +88,8 @@ or damages assessed, or the date, nature and issuer of the order;
   k. information which describes the populations to be served; and
   l. any other information as may be required by regulations adopted
 pursuant to this article.
-  * 3. Nothing in this article shall be construed to enlarge, diminish
-or modify: a social services district's otherwise valid recovery under
-section three hundred sixty-nine of the social services law, nor medical
-assistance eligibility under title eleven of article five of the social
-services law nor applicable provisions of the estates, powers and trusts
-law. Except as otherwise provided in this article, the activities of
-continuing care retirement communities shall be subject to any other law
-governing such activities including but not limited to article
-twenty-eight of this chapter and article seven of the social services
-law and regulations promulgated thereunder; provided, however, that the
-provisions of paragraphs (d) and (e) of subdivision four of section
-twenty-eight hundred one-a and section twenty-eight hundred two of this
-chapter shall not apply, and provided that the provisions of paragraph
-(a) of subdivision one and the provisions of subdivision two of section
-four hundred sixty-one-b of the social services law with respect to
-public need and the provisions of subdivision one of section four
-hundred sixty-one-c of the social services law shall not apply to
-residents who have been admitted in accordance with a continuing care
-retirement community contract provided that, upon admission to the adult
-care facility, such residents shall be given a notice which shall
-include, at a minimum, information regarding facility services, resident
-responsibilities, supplemental services, resident rights and protections
-and circumstances that warrant transfer. The number of residential
-health care facility beds available pursuant to subdivision five of this
-section, without proof of public need therefor, shall be reduced by the
-number of residential health care demonstration facility beds that are
-approved pursuant to this article.
-  * NB Effective until April 1, 2015
-  * 3. Nothing in this article shall be construed to enlarge, diminish
-or modify: a social services district's otherwise valid recovery under
+  3. Nothing in this article shall be construed to enlarge, diminish or
+modify: a social services district's otherwise valid recovery under
 section three hundred sixty-nine of the social services law, nor medical
 assistance eligibility under title eleven of article five of the social
 services law nor applicable provisions of the estates, powers and trusts
@@ -154,7 +114,6 @@ The number of residential health care facility beds available pursuant
 to subdivision five of this section, without proof of public need
 therefor, shall be reduced by the number of residential health care
 demonstration facility beds that are approved pursuant to this article.
-  * NB Effective April 1, 2015
   4. No certificate of authority shall be issued unless an application
 meeting the requirements of this section and all other requirements
 established by law has been approved by:
@@ -192,20 +151,7 @@ increase or decrease prior to its taking effect.
 because of the increased need for services of that resident;
   b. the commissioner as to those aspects of the application relating to
 adult care facility beds, if any;
-  * c. the public health and health planning council under section
-twenty-eight hundred one-a of this chapter as to the establishment of a
-skilled nursing facility by the applicant and as to such other
-facilities and services as may require the public health and health
-planning council's approval of the application; provided, however, that
-the recommendations of the health systems agency having geographical
-jurisdiction of the area where the continuing care retirement community
-is located shall not be required with respect to the establishment of an
-on-site or affiliated residential health care facility to serve
-residents as part of the continuing care retirement community, for up to
-the total number of residential health care facility beds provided for
-in subdivision five of this section in communities statewide;
-  * NB Effective until April 1, 2015
-  * c. the public health and health planning council as to the
+  c. the public health and health planning council as to the
 establishment of a skilled nursing facility by the applicant and as to
 such other facilities and services as may require the public health and
 health planning council's approval of the application; provided,
@@ -217,7 +163,6 @@ facility to serve residents as part of the continuing care retirement
 community, for up to the total number of residential health care
 facility beds provided for in subdivision five of this section in
 communities statewide;
-  * NB Effective April 1, 2015
   d. the commissioner under section twenty-eight hundred two of this
 chapter; provided, however, that, the recommendations of the public
 health and health planning council and the health systems agency having

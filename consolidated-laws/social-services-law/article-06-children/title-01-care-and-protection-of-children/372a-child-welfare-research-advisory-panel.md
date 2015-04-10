@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 372-A", "kind": "section", "law_id": "SOS", "location_id": "372-A", "path": "ARTICLE 6 › TITLE 1 › SECTION 372-A", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/372-A.md", "title": "Child welfare research advisory panel"} -->
+﻿<!-- nyslaw {"citation": "Social Services Law § 372-A", "kind": "section", "law_id": "SOS", "location_id": "372-A", "path": "ARTICLE 6 › TITLE 1 › SECTION 372-A", "repealed": true, "repealed_date": "2015-04-10", "source": "nys-laws:SOS/372-A.md", "title": "Child welfare research advisory panel"} -->
 # Social Services Law § 372-A — Child welfare research advisory panel
 
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
+
+**Repealed** (10 Apr 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 372-a. Child welfare research advisory panel. 1. The commissioner

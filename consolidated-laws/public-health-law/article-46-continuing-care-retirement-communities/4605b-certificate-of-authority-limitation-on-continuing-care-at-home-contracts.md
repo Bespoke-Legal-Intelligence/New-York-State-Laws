@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  * § 4605-b. Certificate of authority; limitation on continuing care at
+  § 4605-b. Certificate of authority; limitation on continuing care at
 home contracts. The number of continuing care at home contracts approved
 on a certificate of authority shall be limited to:
   1. The number of approved living units on the continuing care
@@ -23,5 +23,4 @@ services, based upon the superintendent's assessment of the following:
   (a) the overall financial impact on the community; and
   (b) the submitted materials set forth in section forty-six hundred
 five-a of this article.
-  * NB Effective April 1, 2015
 ```

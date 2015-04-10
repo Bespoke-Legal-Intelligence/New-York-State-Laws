@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 607. Dispute resolution for surprise bills. (a) Surprise bill
+  § 607. Dispute resolution for surprise bills. (a) Surprise bill
 received by an insured who assigns benefits. (1) If an insured assigns
 benefits to a non-participating physician, the health care plan shall
 pay the non-participating physician in accordance with paragraphs two
@@ -63,5 +63,4 @@ shall be binding on the patient, physician and health care plan, and
 shall be admissible in any court proceeding between the patient or
 insured, physician or health care plan, or in any administrative
 proceeding between this state and the physician.
-  * NB Effective March 31, 2015
 ```

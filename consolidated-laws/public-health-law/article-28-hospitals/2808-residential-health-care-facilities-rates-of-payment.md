@@ -1437,14 +1437,15 @@ which the facility's negative operating margin for the three-year period
 is assigned.
   i. For a facility located in a county with a total population of two
 hundred thousand or more as determined by the two thousand U.S. Census:
-First Quartile (lowest operating margins):  30 percent Second Quartile:
- 15 percent  Third Quartile: 7.5 percent
-  ii. For a facility located in a county with a total population of
-fewer than two hundred thousand as determined by the two thousand U.S.
-Census:
-First Quartile (lowest operating margins):   35 percent Second Quartile:
-  20 percent  Third Quartile: 12.5 percent
-  (f) The amount of any facility's financially disadvantaged residential
+First Quartile (lowest operating margins): 30 percent
+    Second Quartile: 15 percent
+    Third Quartile: 7.5 percent
+ii. For a facility located in a county with a total population of fewer
+than two hundred thousand as determined by the two thousand U.S. Census:
+First Quartile (lowest operating margins): 35 percent
+   Second Quartile: 20 percent
+   Third Quartile: 12.5 percent
+(f) The amount of any facility's financially disadvantaged residential
 health care facility distribution calculated in accordance with this
 subdivision shall be reduced by the facility's estimated rate year
 benefit of the two thousand one update to the regional input price

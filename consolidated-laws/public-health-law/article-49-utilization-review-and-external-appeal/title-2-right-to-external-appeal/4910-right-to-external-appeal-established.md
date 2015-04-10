@@ -83,7 +83,7 @@ to be more clinically beneficial than the alternate recommended
 in-network treatment and the adverse risk of the requested health
 service would likely not be substantially increased over the alternate
 recommended in-network health service.
-  * (d)(i) The enrollee has had an out-of-network referral denied on the
+  (d)(i) The enrollee has had an out-of-network referral denied on the
 grounds that the health care plan has a health care provider in the
 in-network benefits portion of its network with appropriate training and
 experience to meet the particular health care needs of an enrollee, and
@@ -98,7 +98,6 @@ care needs of an enrollee, and recommends an out-of-network provider
 with the appropriate training and experience to meet the particular
 health care needs of an enrollee, and who is able to provide the
 requested health service.
-  * NB Effective March 31, 2015
   3. (a) The health care plan may charge the enrollee a fee of up to
 twenty-five dollars per external appeal with an annual limit on filing
 fees for an enrollee not to exceed seventy-five dollars within a single

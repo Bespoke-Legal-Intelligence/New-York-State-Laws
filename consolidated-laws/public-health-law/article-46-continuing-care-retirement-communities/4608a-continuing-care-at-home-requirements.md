@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  * § 4608-a. Continuing care at home requirements. Continuing care
+  § 4608-a. Continuing care at home requirements. Continuing care
 retirement communities offering continuing care at home contracts shall:
   1. Ensure that all continuing care retirement community employees or
 contractors providing services to continuing care at home contract
@@ -19,5 +19,4 @@ department of financial services; and
 contracts in the total operation of the community when submitting
 financial reports as required by the department and the department of
 financial services.
-  * NB Effective April 1, 2015
 ```

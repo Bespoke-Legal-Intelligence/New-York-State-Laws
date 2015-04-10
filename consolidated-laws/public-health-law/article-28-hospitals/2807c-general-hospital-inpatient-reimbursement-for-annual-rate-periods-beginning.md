@@ -1863,6 +1863,23 @@ hundredths percent to encourage improved productivity and efficiency.
 Such election shall not alter the calculation of the group price
 component calculated pursuant to subparagraph (i) of paragraph (a) of
 subdivision seven of this section;
+  * NB Effective and expires December 31, 2017
+  * (f) where a general hospital having two hundred or less certified
+acute care beds, based on the total number of inpatient acute care beds
+for which such general hospital is certified pursuant to the operating
+certificate issued for such general hospital in accordance with section
+twenty-eight hundred five of this article in effect on June thirtieth,
+nineteen hundred ninety, is classified as a rural hospital for purposes
+of determining payment for inpatient services provided to beneficiaries
+of title XVIII of the federal social security act (medicare) or under
+state regulations, such general hospital may at its option have its
+reimbursable inpatient operating cost component of case based rates of
+payment per diagnosis-related group based one hundred percent on the
+general hospital's hospital-specific average reimbursable inpatient
+operating cost per discharge determined in accordance with subdivision
+six of this section. Such election shall not alter the calculation of
+the group price component calculated pursuant to subparagraph (i) of
+paragraph (a) of subdivision seven of this section;
   * NB Effective December 31, 2017
   * NB There are 2 par (f)'s
   (g) in cases where general hospitals or distinct units of general
@@ -2016,6 +2033,19 @@ The facility will be eligible to receive the financial incentives for
 the physician specialty weighting incentive towards primary care
 pursuant to subparagraph (ii) of paragraph (a) of subdivision
 twenty-five of this section.
+  * NB Effective and expires December 31, 2017
+  * (k) for facilities designated by the federal department of health
+and human services as an exempt acute care children's hospital, payment
+effective January first, nineteen hundred ninety-four will be based upon
+a hospital specific case payment amount inclusive of high cost and high
+length of stay outlier costs. The nineteen hundred eighty-seven base
+year cost, trended, volume adjusted and case mix adjusted where
+applicable to nineteen hundred ninety-two, trended will be utilized to
+determine the rate of payment effective January first, nineteen hundred
+ninety-four. The facility will be eligible to receive the financial
+incentives for the physician specialty weighting incentive towards
+primary care pursuant to subparagraph (ii) of paragraph (a) of
+subdivision twenty-five of this section.
   * NB Effective December 31, 2017
   * NB There are 2 par (k)'s
   (l) Notwithstanding any inconsistent provision of this section and
@@ -2518,7 +2548,7 @@ discharge; and
 education expenses reflected in the general hospital's group category
 average inpatient operating cost per discharge in accordance with
 subdivision twenty-five of this section as amended.
-  * NB Effective December 31, 2017
+  * NB Effective and expires December 31, 2017
   * (c) Notwithstanding any inconsistent provision of this section,
 commencing July first, nineteen hundred ninety-six through March
 thirty-first, nineteen hundred ninety-nine and July first, nineteen
@@ -2600,7 +2630,7 @@ payments made by state governmental agencies, for a per case (or for
 exempt hospitals a per diem) unit of service reduction in rates of
 payment for patients eligible for payments made by state governmental
 agencies for such general hospital.
-  * NB Effective December 31, 2017
+  * NB Effective and expires December 31, 2017
   6. Operating costs. (a) A general hospital's hospital-specific average
 reimbursable inpatient operating cost per discharge shall be determined
 in accordance with rules and regulations adopted by the council and

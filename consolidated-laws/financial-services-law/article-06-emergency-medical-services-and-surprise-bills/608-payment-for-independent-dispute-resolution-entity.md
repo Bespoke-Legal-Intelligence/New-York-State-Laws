@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 608. Payment for independent dispute resolution entity. (a) For
+  § 608. Payment for independent dispute resolution entity. (a) For
 disputes involving an insured, when the independent dispute resolution
 entity determines the health care plan's payment is reasonable, payment
 for the dispute resolution process shall be the responsibility of the
@@ -28,5 +28,4 @@ promulgate a regulation to determine payment for the dispute resolution
 process in cases of hardship. When the independent dispute resolution
 entity determines the physician's fee is unreasonable, payment for the
 dispute resolution process shall be the responsibility of the physician.
-  * NB Effective March 31, 2015
 ```

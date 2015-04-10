@@ -17,16 +17,7 @@ provided, however, that a health care professional who is not a clinical
 peer reviewer may not render an adverse determination; and
   (c) A clinical peer reviewer where the review involves an adverse
 determination.
-  * 2. A utilization review agent shall make a utilization review
-determination involving health care services which require
-pre-authorization and provide notice of a determination to the enrollee
-or enrollee's designee and the enrollee's health care provider by
-telephone and in writing within three business days of receipt of the
-necessary information. To the extent practicable, such written
-notification to the enrollee's health care provider shall be transmitted
-electronically, in a manner and in a form agreed upon by the parties.
-  * NB Effective until March 31, 2015
-  * 2. A utilization review agent shall make a utilization review
+  2. A utilization review agent shall make a utilization review
 determination involving health care services which require
 pre-authorization and provide notice of a determination to the enrollee
 or enrollee's designee and the enrollee's health care provider by
@@ -45,48 +36,25 @@ out-of-network health care services in a geographical area or zip code
 based upon the difference between what the health care plan will
 reimburse for out-of-network health care services and the usual and
 customary cost for out-of-network health care services.
-  * NB Effective March 31, 2015
-  * 3. A utilization review agent shall make a determination involving
+  3. (a) A utilization review agent shall make a determination involving
 continued or extended health care services, additional services for an
 enrollee undergoing a course of continued treatment prescribed by a
-health care provider, or home health care services following an
-inpatient hospital admission, and shall provide notice of such
-determination to the enrollee or the enrollee's designee, which may be
-satisfied by notice to the enrollee's health care provider, by telephone
-and in writing within one business day of receipt of the necessary
-information except, with respect to home health care services following
-an inpatient hospital admission, within seventy-two hours of receipt of
-the necessary information when the day subsequent to the request falls
-on a weekend or holiday. Notification of continued or extended services
-shall include the number of extended services approved, the new total of
-approved services, the date of onset of services and the next review
-date. Provided that a request for home health care services and all
-necessary information is submitted to the utilization review agent prior
-to discharge from an inpatient hospital admission pursuant to this
-subdivision, a utilization review agent shall not deny, on the basis of
-medical necessity or lack of prior authorization, coverage for home
-health care services while a determination by the utilization review
-agent is pending.
-  * NB Effective until April 1, 2015
-  * 3. (a) A utilization review agent shall make a determination
-involving continued or extended health care services, additional
-services for an enrollee undergoing a course of continued treatment
-prescribed by a health care provider, or requests for inpatient
-substance use disorder treatment, or home health care services following
-an inpatient hospital admission, and shall provide notice of such
-determination to the enrollee or the enrollee's designee, which may be
-satisfied by notice to the enrollee's health care provider, by telephone
-and in writing within one business day of receipt of the necessary
-information except, with respect to home health care services following
-an inpatient hospital admission, within seventy-two hours of receipt of
-the necessary information when the day subsequent to the request falls
-on a weekend or holiday and except, with respect to inpatient substance
-use disorder treatment, within twenty-four hours of receipt of the
-request for services when the request is submitted at least twenty-four
-hours prior to discharge from an inpatient admission. Notification of
-continued or extended services shall include the number of extended
-services approved, the new total of approved services, the date of onset
-of services and the next review date.
+health care provider, or requests for inpatient substance use disorder
+treatment, or home health care services following an inpatient hospital
+admission, and shall provide notice of such determination to the
+enrollee or the enrollee's designee, which may be satisfied by notice to
+the enrollee's health care provider, by telephone and in writing within
+one business day of receipt of the necessary information except, with
+respect to home health care services following an inpatient hospital
+admission, within seventy-two hours of receipt of the necessary
+information when the day subsequent to the request falls on a weekend or
+holiday and except, with respect to inpatient substance use disorder
+treatment, within twenty-four hours of receipt of the request for
+services when the request is submitted at least twenty-four hours prior
+to discharge from an inpatient admission. Notification of continued or
+extended services shall include the number of extended services
+approved, the new total of approved services, the date of onset of
+services and the next review date.
   (b) Provided that a request for home health care services and all
 necessary information is submitted to the utilization review agent prior
 to discharge from an inpatient hospital admission pursuant to this
@@ -101,7 +69,6 @@ pursuant to this subdivision, a utilization review agent shall not deny,
 on the basis of medical necessity or lack of prior authorization,
 coverage for the inpatient substance use disorder treatment while a
 determination by the utilization review agent is pending.
-  * NB Effective April 1, 2015
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.

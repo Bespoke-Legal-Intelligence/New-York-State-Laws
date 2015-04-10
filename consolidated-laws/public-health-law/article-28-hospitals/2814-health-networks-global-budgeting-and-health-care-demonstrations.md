@@ -75,10 +75,9 @@ appropriate health or health related items and services for persons
 residing in the region covered by the program.
   5. Any grant recipient seeking to implement a proposal developed
 pursuant to this section, except recipients of health networking grants,
-shall submit such proposal to the temporary statewide health care
-advisory board, in such form and content determined by the board, which
-shall evaluate such proposal and consider whether the proposal is likely
-to:
+shall submit such proposal to the temporary statewide health advisory
+board, in such form and content determined by the board, which shall
+evaluate such proposal and consider whether the proposal is likely to:
   (a) aid in meeting the priority health needs and concerns in the
 region as identified in and supported by evidence in the proposal and
 consistent with recommendations of the regional health systems agency;

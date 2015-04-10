@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 605. Dispute resolution for emergency services. (a) Emergency
+  § 605. Dispute resolution for emergency services. (a) Emergency
 services for an insured. (1) When a health care plan receives a bill for
 emergency services from a non-participating physician, the health care
 plan shall pay an amount that it determines is reasonable for the
@@ -53,5 +53,4 @@ shall be binding on the health care plan, physician and patient, and
 shall be admissible in any court proceeding between the health care
 plan, physician or patient, or in any administrative proceeding between
 this state and the physician.
-  * NB Effective March 31, 2015
 ```

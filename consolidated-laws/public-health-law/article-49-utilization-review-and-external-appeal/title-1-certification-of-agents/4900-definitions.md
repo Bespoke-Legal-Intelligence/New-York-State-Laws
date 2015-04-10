@@ -18,18 +18,12 @@ license to practice medicine; or
 license, certificate or registration or, where no provision for a
 license, certificate or registration exists, is credentialed by the
 national accrediting body appropriate to the profession; and
-  * (B) is in the same profession and same or similar specialty as the
-health care provider who typically manages the medical condition or
-disease or provides the health care service or treatment under review;
-and
-  * NB Effective until April 1, 2015
-  * (B) is in the same profession and same or similar specialty as the
+  (B) is in the same profession and same or similar specialty as the
 health care provider who typically manages the medical condition or
 disease or provides the health care service or treatment under review;
 or
-  * NB Effective April 1, 2015
-  * (iii) for purposes of a determination involving substance use
-disorder treatment:
+  (iii) for purposes of a determination involving substance use disorder
+treatment:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who specializes in behavioral health
 and has experience in the delivery of substance use disorder courses of
@@ -41,7 +35,6 @@ possesses a current and valid non-restricted license, certificate or
 registration or, where no provision for a license, certificate or
 registration exists, is credentialed by the national accrediting body
 appropriate to the profession; and
-  * NB Effective April 1, 2015
   (b) for purposes of title two of this article:
   (i) a physician who:
   (A) possesses a current and valid non-restricted license to practice
@@ -238,7 +231,7 @@ out-of-network denial shall not be construed to include a denial for a
 referral to an out-of-network provider on the basis that a health care
 provider is available in-network to provide the particular health
 service requested by the enrollee.
-  * 7-f-1. "Out-of-network referral denial" means a denial of a request
+  7-f-1. "Out-of-network referral denial" means a denial of a request
 for an authorization or referral to an out-of-network provider on the
 basis that the health care plan has a health care provider in the
 in-network benefits portion of its network with appropriate training and
@@ -252,7 +245,6 @@ article. An out-of-network referral denial under this subdivision does
 not constitute an adverse determination as defined in this article. An
 out-of-network referral denial shall not be construed to include an
 out-of-network denial as defined in subdivision seven-f of this section.
-  * NB Effective March 31, 2015
   7-g. "Rare disease" means a condition or disease that (1)(A) is
 currently or has been subject to a research study by the National
 Institutes of Health Rare Diseases Clinical Research Network or (B)

@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 603. Definitions. For the purposes of this article:
+  § 603. Definitions. For the purposes of this article:
   (a) "Emergency condition" means a medical or behavioral condition that
 manifests itself by acute symptoms of sufficient severity, including
 severe pain, such that a prudent layperson, possessing an average
@@ -74,5 +74,4 @@ article forty-three of the insurance law, a municipal cooperative health
 benefit plan certified pursuant to article forty-seven of the insurance
 law, or a health maintenance organization certified pursuant to article
 forty-four of the public health law.
-  * NB Effective March 31, 2015
 ```

@@ -1,21 +1,17 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4623", "kind": "section", "law_id": "PBH", "location_id": "4623", "path": "ARTICLE 46 › SECTION 4623", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4623.md", "title": "Long term care insurance and continuing care retirement contracts"} -->
-# Public Health Law § 4623 — Long term care insurance and continuing care retirement contracts
+﻿<!-- nyslaw {"citation": "Public Health Law § 4623", "kind": "section", "law_id": "PBH", "location_id": "4623", "path": "ARTICLE 46 › SECTION 4623", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4623.md", "title": "Long term care insurance and continuing care retirement contracts or continuing care at home contracts"} -->
+# Public Health Law § 4623 — Long term care insurance and continuing care retirement contracts or continuing care at home contracts
 
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  § 4623. * Long term care insurance and continuing care retirement
-contracts.
-  * NB Effective until April 1, 2015
-  * Long term care insurance and continuing care retirement contracts or
-continuing care at home contracts.
-  * NB Effective April 1, 2015
-1. The council may approve an application for a certificate of authority
-and the commissioner may issue a certificate of authority for the
-establishment and operation of a continuing care retirement community
-under an arrangement which otherwise complies with the requirements of
-this article except that the costs of nursing facility or home health
-care services are paid for in whole or in part by (a) long term care
+  § 4623. Long term care insurance and continuing care retirement
+contracts or continuing care at home contracts. 1. The council may
+approve an application for a certificate of authority and the
+commissioner may issue a certificate of authority for the establishment
+and operation of a continuing care retirement community under an
+arrangement which otherwise complies with the requirements of this
+article except that the costs of nursing facility or home health care
+services are paid for in whole or in part by (a) long term care
 insurance obtained and paid for by the resident or by medical assistance
 payments in accordance with the partnership for long term care program
 pursuant to section three hundred sixty-seven-f of the social services
@@ -26,22 +22,13 @@ application. The council, in consultation with the superintendent, shall
 provide for adequate disclosure to residents of their options, rights
 and obligations under such an arrangement, and shall establish standards
 for the remittance and collection of premiums and monthly care fees.
-  * 2. With regard to nursing facility or home health care services
-which are part of the continuing care retirement contract, any
-elimination or waiting periods and any deductibles, copayments, or other
-amounts not paid for by such long term care insurance or medical
-assistance payments shall be the responsibility of the continuing care
-retirement community.  The resident shall not be liable to pay any such
-amounts.
-  * NB Effective until April 1, 2015
-  * 2. With regard to nursing facility or home health care services
-which are part of the continuing care retirement contract or continuing
-care at home contract, any elimination or waiting periods and any
+  2. With regard to nursing facility or home health care services which
+are part of the continuing care retirement contract or continuing care
+at home contract, any elimination or waiting periods and any
 deductibles, copayments, or other amounts not paid for by such long term
 care insurance or medical assistance payments shall be the
 responsibility of the continuing care retirement community. The resident
 shall not be liable to pay any such amounts.
-  * NB Effective April 1, 2015
   3. The continuing care retirement community operator shall not require
 that long term care insurance be purchased from a specified insurer or
 group of insurers and the operator shall not, without the approval of

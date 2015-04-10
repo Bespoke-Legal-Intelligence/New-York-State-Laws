@@ -18,7 +18,7 @@
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * ARTICLE 6
+                                ARTICLE 6
               EMERGENCY MEDICAL SERVICES AND SURPRISE BILLS
 Section 601. Dispute resolution process established.
         602. Applicability.
@@ -29,7 +29,6 @@ Section 601. Dispute resolution process established.
                for insureds.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
-  * NB Effective March 31, 2015
 ```
 
 </details>

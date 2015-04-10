@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 46 — Continuing Care Retirement Communities](README.md)
 
 ```text
-  * § 4605-a. Certificate of authority; authority to offer continuing
-care at home contracts. A continuing care retirement community may offer
+  § 4605-a. Certificate of authority; authority to offer continuing care
+at home contracts. A continuing care retirement community may offer
 continuing care at home contracts upon approval by the council to amend
 the continuing care retirement community's certificate of authority. In
 order to qualify for an amendment to its certificate of authority, the
@@ -37,5 +37,4 @@ contract holders describing the anticipated impact of the addition of
 continuing care at home contracts on continuing care retirement
 community resources and proof that such notification has been
 distributed to all continuing care retirement contract holders.
-  * NB Effective April 1, 2015
 ```

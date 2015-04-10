@@ -4,12 +4,11 @@
 [Financial Services Law](../README.md) › [Article 6 — Emergency Medical Services and Surprise Bills](README.md)
 
 ```text
-  * § 606. Hold harmless and assignment of benefits for surprise bills
-for insureds. When an insured assigns benefits for a surprise bill in
+  § 606. Hold harmless and assignment of benefits for surprise bills for
+insureds. When an insured assigns benefits for a surprise bill in
 writing to a non-participating physician that knows the insured is
 insured under a health care plan, the non-participating physician shall
 not bill the insured except for any applicable copayment, coinsurance or
 deductible that would be owed if the insured utilized a participating
 physician.
-  * NB Effective March 31, 2015
 ```

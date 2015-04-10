@@ -86,21 +86,13 @@ including notice of how to determine whether a participating provider is
 accepting new patients;
   (j) a description of the procedures for changing primary and specialty
 care providers within the health maintenance organization;
-  * (k) notice that an enrollee may obtain a referral to a health care
-provider outside of the health maintenance organization's network or
-panel when the health maintenance organization does not have a health
-care provider with appropriate training and experience in the network or
-panel to meet the particular health care needs of the enrollee and the
-procedure by which the enrollee can obtain such referral;
-  * NB Effective until March 31, 2015
-  * (k) notice that an enrollee may obtain a referral to a health care
+  (k) notice that an enrollee may obtain a referral to a health care
 provider outside of the health maintenance organization's network or
 panel when the health maintenance organization does not have a health
 care provider who is geographically accessible to the enrollee and who
 has appropriate training and experience in the network or panel to meet
 the particular health care needs of the enrollee and the procedure by
 which the enrollee can obtain such referral;
-  * NB Effective March 31, 2015
   (l) notice that an enrollee with a condition which requires ongoing
 care from a specialist may request a standing referral to such a
 specialist and the procedure for requesting and obtaining such a
@@ -121,36 +113,15 @@ in the development of the policies of the health maintenance
 organization;
   (p) a description of how the health maintenance organization addresses
 the needs of non-English speaking enrollees;
-  * (p-1) notice that an enrollee shall have direct access to primary
-and preventive obstetric and gynecologic services from a qualified
-provider of such services of her choice from within the plan for no
-fewer than two examinations annually for such services or to any care
-related to pregnancy and that additionally, the enrollee shall have
-direct access to primary and preventive obstetric and gynecologic
-services required as a result of such annual examinations or as a result
-of an acute gynecologic condition;
-  * NB Effective until March 31, 2015
-  * (p-1) notice that an enrollee shall have direct access to primary
-and preventive obstetric and gynecologic services, including annual
+  (p-1) notice that an enrollee shall have direct access to primary and
+preventive obstetric and gynecologic services, including annual
 examinations, care resulting from such annual examinations, and
 treatment of acute gynecologic conditions, from a qualified provider of
 such services of her choice from within the plan or for any care related
 to a pregnancy;
-  * NB Effective March 31, 2015
-  * (q) notice of all appropriate mailing addresses and telephone
-numbers to be utilized by enrollees seeking information or
-authorization; and
-  * NB Effective until March 31, 2015
-  * (q) notice of all appropriate mailing addresses and telephone
-numbers to be utilized by enrollees seeking information or
-authorization;
-  * NB Effective March 31, 2015
-  * (r) a listing by specialty, which may be in a separate document that
-is updated annually, of the name, address and telephone number of all
-participating providers, including facilities, and, in addition, in the
-case of physicians, board certification.
-  * NB Effective until March 31, 2015
-  * (r) a listing by specialty, which may be in a separate document that
+  (q) notice of all appropriate mailing addresses and telephone numbers
+to be utilized by enrollees seeking information or authorization;
+  (r) a listing by specialty, which may be in a separate document that
 is updated annually, of the name, address and telephone number of all
 participating providers, including facilities, and, in addition, in the
 case of physicians, board certification, languages spoken and any
@@ -160,11 +131,9 @@ maintenance organization shall update the website within fifteen days of
 the addition or termination of a provider from the health maintenance
 organization's network or a change in a physician's hospital
 affiliation;
-  * NB Effective March 31, 2015
-  * (s) where applicable, a description of the method by which an
-enrollee may submit a claim for health care services;
-  * NB Effective March 31, 2015
-  * (t) with respect to out-of-network coverage:
+  (s) where applicable, a description of the method by which an enrollee
+may submit a claim for health care services;
+  (t) with respect to out-of-network coverage:
   (i) a clear description of the methodology used by the health
 maintenance organization to determine reimbursement for out-of-network
 health care services;
@@ -174,15 +143,13 @@ set forth as a percentage of the usual and customary cost for
 out-of-network health care services;
   (iii) examples of anticipated out-of-pocket costs for frequently
 billed out-of-network health care services; and
-  * NB Effective March 31, 2015
-  * (u) information in writing and through an internet website that
+  (u) information in writing and through an internet website that
 reasonably permits an enrollee or prospective enrollee to estimate the
 anticipated out-of-pocket cost for out-of-network health care services
 in a geographical area or zip code based upon the difference between
 what the health maintenance organization will reimburse for
 out-of-network health care services and the usual and customary cost for
 out-of-network health care services.
-  * NB Effective March 31, 2015
   2. Each health maintenance organization shall, upon request of an
 enrollee or prospective enrollee:
   (a) provide a list of the names, business addresses and official
@@ -223,34 +190,22 @@ is proprietary to the organization, the enrollee or prospective enrollee
 shall only use the information for the purposes of assisting the
 enrollee or prospective enrollee in evaluating the covered services
 provided by the organization;
-  * (k) provide the written application procedures and minimum
-qualification requirements for health care providers to be considered by
-the health maintenance organization; and
-  * NB Effective until March 31, 2015
-  * (k) provide the written application procedures and minimum
+  (k) provide the written application procedures and minimum
 qualification requirements for health care providers to be considered by
 the health maintenance organization;
-  * NB Effective March 31, 2015
-  * (l) disclose other information as required by the commissioner,
-provided that such requirements are promulgated pursuant to the state
-administrative procedure act.
-  * NB Effective until March 31, 2015
-  * (1) disclose other information as required by the commissioner,
+  (l) disclose other information as required by the commissioner,
 provided that such requirements are promulgated pursuant to the state
 administrative procedure act;
-  * NB Effective March 31, 2015
-  * (m) disclose whether a health care provider scheduled to provide a
+  (m) disclose whether a health care provider scheduled to provide a
 health care service is an in-network provider; and
-  * NB Effective March 31, 2015
-  * (n) with respect to out-of-network coverage, disclose the
-approximate dollar amount that the health maintenance organization will
-pay for a specific out-of-network health care service. The health
-maintenance organization shall also inform an enrollee through such
-disclosure that such approximation is not binding on the health
-maintenance organization and that the approximate dollar amount that the
-health maintenance organization will pay for a specific out-of-network
-health care service may change.
-  * NB Effective March 31, 2015
+  (n) with respect to out-of-network coverage, disclose the approximate
+dollar amount that the health maintenance organization will pay for a
+specific out-of-network health care service. The health maintenance
+organization shall also inform an enrollee through such disclosure that
+such approximation is not binding on the health maintenance organization
+and that the approximate dollar amount that the health maintenance
+organization will pay for a specific out-of-network health care service
+may change.
   3. Nothing in this section shall prevent a health maintenance
 organization from changing or updating the materials that are made
 available to enrollees.
@@ -281,15 +236,14 @@ and the superintendent of financial services showing the percentage
 utilization for the preceding quarter of non-participating provider
 services in such form and providing such other information as the
 commissioner shall prescribe.
-  * 7. For purposes of this section, "usual and customary cost" shall
-mean the eightieth percentile of all charges for the particular health
-care service performed by a provider in the same or similar specialty
-and provided in the same geographical area as reported in a benchmarking
+  7. For purposes of this section, "usual and customary cost" shall mean
+the eightieth percentile of all charges for the particular health care
+service performed by a provider in the same or similar specialty and
+provided in the same geographical area as reported in a benchmarking
 database maintained by a nonprofit organization specified by the
 superintendent of financial services. The nonprofit organization shall
 not be affiliated with an insurer, a corporation subject to article
 forty-three of the insurance law, a municipal cooperative health benefit
 plan certified pursuant to article forty-seven of the insurance law, or
 a health maintenance organization certified pursuant to this article.
-  * NB Effective March 31, 2015
 ```

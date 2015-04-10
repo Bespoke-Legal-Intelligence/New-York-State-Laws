@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 1 — Short Title and Definitions: General Provisions](../README.md) › [Title 2 — General Provisions](README.md)
 
 ```text
-  * § 24. Disclosure. 1. A health care professional, or a group practice
+  § 24. Disclosure. 1. A health care professional, or a group practice
 of health care professionals, a diagnostic and treatment center or a
 health center defined under 42 U.S.C. § 254b on behalf of health care
 professionals rendering services at the group practice, diagnostic and
@@ -103,5 +103,4 @@ registered or certified health care professional pursuant to title eight
 of the education law.
   (c) "Hospital" means a general hospital as defined in subdivision ten
 of section two thousand eight hundred one of this chapter.
-  * NB Effective March 31, 2015
 ```

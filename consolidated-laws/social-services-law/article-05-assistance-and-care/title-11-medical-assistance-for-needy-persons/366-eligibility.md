@@ -356,13 +356,13 @@ participation is available therefor. The commissioner of health shall
 make any amendments to the state plan for medical assistance, or apply
 for any waiver or approval under the federal social security act that
 are necessary to carry out the provisions of this paragraph.
-  * (g) Coverage of certain noncitizens. (1) Applicants and recipients
-who are lawfully admitted for permanent residence, or who are
-permanently residing in the United States under color of law; who are
-MAGI eligible pursuant to paragraph (b) of this subdivision; and who
-would be ineligible for medical assistance coverage under subdivisions
-one and two of section three hundred sixty-five-a of this title solely
-due to their immigration status if the provisions of section one hundred
+  (g) Coverage of certain noncitizens. (1) Applicants and recipients who
+are lawfully admitted for permanent residence, or who are permanently
+residing in the United States under color of law; who are MAGI eligible
+pursuant to paragraph (b) of this subdivision; and who would be
+ineligible for medical assistance coverage under subdivisions one and
+two of section three hundred sixty-five-a of this title solely due to
+their immigration status if the provisions of section one hundred
 twenty-two of this chapter were applied, shall only be eligible for
 assistance under this title if enrolled in a standard health plan
 offered by a basic health program established pursuant to section three
@@ -383,7 +383,6 @@ by the standard health plan.
 subparagraph one of this paragraph from qualifying for or receiving
 medical assistance while his or her enrollment in a standard health plan
 is pending, in accordance with applicable provisions of this title.
-  * NB Effective April 1, 2015
   1-a. Notwithstanding any other provision of law, in the event that a
 person who is an inmate of a state or local correctional facility, as
 defined in section two of the correction law, was in receipt of medical
