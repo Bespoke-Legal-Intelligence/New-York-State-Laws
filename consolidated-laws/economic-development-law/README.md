@@ -8,7 +8,7 @@
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
 | Sections | 166 |
-| Last changed | 2 Jan 2015 |
+| Last changed | 17 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [17 Apr 2015](../../changes/2015/2015-04-17.md): 2 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 added
 - [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
 

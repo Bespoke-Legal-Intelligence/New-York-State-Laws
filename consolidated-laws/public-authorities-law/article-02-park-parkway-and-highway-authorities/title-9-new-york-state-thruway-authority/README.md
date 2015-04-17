@@ -16,6 +16,8 @@
 - [§ 356-B Thruway to be designated as a section of a national network of Blue Star memorial highways](356b-thruway-to-be-designated-as-a-section.md)
 - [§ 357 Right of authority to use state property; payment for improvements](357-right-of-authority-to-use-state-property.md)
 - [§ 357-A State police and state payment for services](357a-state-police-and-state-payment.md)
+- [§ 357-B Sharing employees, services and resources](357b-sharing-employees-services-and-resources.md)
+- [§ 357-C Indemnification and defense under shared services agreement](357c-indemnification-and-defense-under-shared.md)
 - [§ 358 Acquisition of real property by the commissioner](358-acquisition-of-real-property.md)
 - [§ 358-A Acquisition of real property by the authority](358a-acquisition-of-real-property.md)
 - [§ 359 Construction, reconstruction and improvement](359-construction-reconstruction.md)
@@ -78,6 +80,9 @@ Section 350.   Short title.
         357.   Right of authority to use state property; payment for
                  improvements.
         357-a. State Police - payment for services.
+        357-b. Sharing employees, services and resources.
+        357-c. Indemnification and defense under shared services
+                 agreement.
         358.   Acquisition of real property by the commissioner.
         358-a. Acquisition of real property by the authority.
         359.   Construction, reconstruction and improvement.

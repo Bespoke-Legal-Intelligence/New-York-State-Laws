@@ -36,7 +36,7 @@
 - [§ 1680-P Longitudinal data system](1680p-longitudinal-data-system.md)
 - [§ 1680-Q State university of New York dormitory facilities](1680q-state-university-of-new-york-dormitory-facilities.md)
 - [§ 1680-Q\*2 Self-insured bond financing](1680q-2-self-insured-bond-financing.md)
-- [§ 1680-R Authorization for the issuance of bonds for the capital restructuring financing program](1680r-authorization-for-the-issuance-of-bonds-for-the-capital.md)
+- [§ 1680-R Authorization for the issuance of bonds for the capital restructuring financing program and the health care facility transformation program](1680r-authorization-for-the-issuance-of-bonds-for-the-capital.md)
 - [§ 1681 Moneys of the authority](1681-moneys-of-the-authority.md)
 - [§ 1681-A Distribution of board materials](1681a-distribution-of-board-materials.md)
 - [§ 1682 Bonds of the authority](1682-bonds-of-the-authority.md)

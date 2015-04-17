@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 83 |
-| Last changed | 6 Feb 2015 |
+| Sections | 84 |
+| Last changed | 17 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (108 lines)](chapter-text.md)
+[Full chapter text (109 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Apr 2015](../../changes/2015/2015-04-17.md): 6 amended, 1 added
 - [6 Feb 2015](../../changes/2015/2015-02-06.md): 1 amended
 - [7 Nov 2014](../../changes/2014/2014-11-07.md): 1 amended
 - [24 Oct 2014](../../changes/2014/2014-10-24.md): 1 amended
@@ -123,3 +124,4 @@ Section  1.     Short title.
 - [§ 48 Authorization for transportation infrastructure finance and innovation act loans](48-authorization-for-transportation-infrastructure-finance-and-innovation-act-loans.md)
 - [§ 49 No title](49-no-title.md)
 - [§ 50 No title](50-no-title.md)
+- [§ 51 No title](51-no-title.md)

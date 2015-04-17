@@ -3,11 +3,8 @@
 
 [Public Authorities Law](../../README.md) › [Article 7 — Parking Authorities](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
-- [§ 1600 Short title](1600-short-title.md) *(repealed)*
 - [§ 1600-A Short title](1600a-short-title.md)
 - [§ 1600-B Definitions](1600b-definitions.md)
 - [§ 1600-C Tarrytown parking authority](1600c-tarrytown-parking-authority.md)
@@ -27,7 +24,7 @@
 - [§ 1600-Q Actions against the authority](1600q-actions-against-the-authority.md)
 - [§ 1600-R Termination of the authority](1600r-termination-of-the-authority.md)
 - [§ 1600-S Title not affected if in part unconstitutional or ineffective](1600s-title-not-affected-if-in-part-unconstitutional-or-ineffective.md)
-- [§ 1600-T\*2 Termination of the authority](1600t-2-termination-of-the-authority.md) *(repealed)*
+- [§ 1600-T Inconsistent provisions in other acts superseded](1600t-inconsistent-provisions-in-other-acts-superseded.md)
 
 <details>
 <summary>Official heading of Title 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -62,4 +62,93 @@ provide a report to the governor and legislature no later than December
 first, two thousand fourteen providing recommendations on how to ensure
 the financial stability of, and preserve patient access to, critical
 access hospitals.
+  (g) Notwithstanding subdivision (a) of this section, and within
+amounts appropriated for such purposes as described herein, for the
+period of April first, two thousand fifteen through March thirty-first,
+two thousand sixteen, the commissioner may award a temporary adjustment
+to the non-capital components of rates, or make temporary lump-sum
+Medicaid payments to eligible general hospitals in severe financial
+distress to enable such facilities to maintain operations and vital
+services while such facilities establish long term solutions to achieve
+sustainable health services.
+  (i) Eligible general hospitals shall include:
+  (A) a public hospital, which for purposes of this subdivision, shall
+mean a general hospital operated by a county or municipality, but shall
+exclude any such hospital operated by a public benefit corporation;
+  (B) a federally designated critical access hospital;
+  (C) a federally designated sole community hospital; or
+  (D) a general hospital that is a safety net hospital, which for
+purposes of this subdivision shall mean:
+  (1) such hospital has at least thirty percent of its inpatient
+discharges made up of Medicaid eligible individuals, uninsured
+individuals or Medicaid dually eligible individuals and with at least
+thirty-five percent of its outpatient visits made up of Medicaid
+eligible individuals, uninsured individuals or Medicaid dually-eligible
+individuals; or
+  (2) such hospital serves at least thirty percent of the residents of a
+county or a multi-county area who are Medicaid eligible individuals,
+uninsured individuals or Medicaid dually-eligible individuals.
+  (ii) Eligible applicants must demonstrate that without such award,
+they will be in severe financial distress through March thirty-first,
+two thousand sixteen, as evidenced by:
+  (A) certification that such applicant has less than fifteen days cash
+and equivalents;
+  (B) such applicant has no assets that can be monetized other than
+those vital to operations; and
+  (C) such applicant has exhausted all efforts to obtain resources from
+corporate parents and affiliated entities to sustain operations.
+  (iii) Awards under this subdivision shall be made upon application to
+the department.
+  (A) Applications under this subdivision shall include a multi-year
+transformation plan that is aligned with the delivery system reform
+incentive payment ("DSRIP") program goals and objectives. Such plan
+shall be approved by the department and shall demonstrate a path towards
+long term sustainability and improved patient care.
+  (B) The department may authorize initial award payments to eligible
+applicants based solely on the criteria pursuant to paragraphs (i) and
+(ii) of this subdivision.
+  (C) Notwithstanding subparagraph (B) of this paragraph, the department
+may suspend or repeal an award if an eligible applicant fails to submit
+a multi-year transformation plan pursuant to subparagraph (A) of this
+paragraph that is acceptable to the department by no later than the
+thirtieth day of September two thousand fifteen.
+  (D) Applicants under this subdivision shall detail the extent to which
+the affected community has been engaged and consulted on potential
+projects of such application, as well as any outreach to stakeholders
+and health plans.
+  (E) The department shall review all applications under this
+subdivision, and a determine:
+  (1) applicant eligibility;
+  (2) each applicant's projected financial status;
+  (3) each applicant's proposed use of funds to maintain critical
+services needed by its community; and
+  (4) the anticipated impact of the loss of such services.
+  (F) After review of all applications under this subdivision, and a
+determination of the aggregate amount of requested funds, the department
+shall make awards to eligible applicants; provided, however, that such
+awards may be in an amount lower than such requested funding, on a per
+applicant or aggregate basis.
+  (iv) Awards under this subdivision may not be used for:
+  (A) capital expenditures, including, but not limited to: construction,
+renovation and acquisition of capital equipment, including major medical
+equipment;
+  (B) consultant fees;
+  (C) retirement of long term debt; or
+  (D) bankruptcy-related costs.
+  (v) Payments made to awardees pursuant to this subdivision shall be
+made on a monthly basis. Such payments will be based on the applicant's
+actual monthly financial performance during such period and the
+reasonable cash amount necessary to sustain operations for the following
+month. The applicant's monthly financial performance shall be measured
+by such applicant's monthly financial and activity reports, which shall
+include, but not be limited to, actual revenue and expenses for the
+prior month, projected cash need for the current month, and projected
+cash need for the following month.
+  (vi) The department shall provide a report on a quarterly basis to the
+chairs of the senate finance, assembly ways and means, senate health and
+assembly health committees. Such reports shall be submitted no later
+than sixty days after the close of the quarter, and shall include for
+each award, the name of the applicant, the amount of the award, payments
+to date, and a description of the status of the multi-year
+transformation plan pursuant to paragraph (iii) of this subdivision.
 ```

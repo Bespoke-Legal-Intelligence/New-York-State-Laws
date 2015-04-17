@@ -48,4 +48,5 @@ York state canal system; and (c) the Tappan Zee ferry service.
   13. The term "canal corporation" shall mean the New York state canal
 corporation created pursuant to section three hundred eighty-two of this
 title.
+  14. The term "department" shall mean the department of transportation.
 ```

@@ -57,7 +57,13 @@ into an agreement, subject to approval by the director of the budget and
 subject to section sixteen hundred eighty-r of the public authorities
 law, as added by a chapter of the laws of two thousand fourteen, for the
 purposes of awarding, distributing, and administering the funds made
-available pursuant to this section.
+available pursuant to this section. To the extent practicable, funds
+shall be awarded regionally in proportion to the applications received
+from the request for application issued by or before May first, two
+thousand fifteen. Projects awarded under sections twenty-eight hundred
+twenty-five-a and twenty-eight hundred twenty-five-b of this article
+shall not be eligible for grants or awards made available under this
+section.
   (a) For capital grant projects under paragraph (a) of subdivision two
 of this section, the evaluation of applications shall be submitted
 pursuant to the process described in paragraph (b) of subdivision twenty

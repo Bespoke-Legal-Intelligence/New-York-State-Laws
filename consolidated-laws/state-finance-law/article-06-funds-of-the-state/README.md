@@ -71,6 +71,7 @@
 - [§ 92-FF Metropolitan transportation authority financial assistance fund](92ff-metropolitan-transportation-authority-financial-assistance-fund.md)
 - [§ 93 Capital projects fund](93-capital-projects-fund.md)
 - [§ 93-A New York state storm recovery capital fund](93a-new-york-state-storm-recovery-capital-fund.md)
+- [§ 93-B Dedicated infrastructure investment fund](93b-dedicated-infrastructure-investment-fund.md)
 - [§ 94 Court facilities incentive aid fund](94-court-facilities-incentive-aid-fund.md)
 - [§ 94-A New York city county clerks' operations offset fund](94a-new-york-city-county-clerks-operations-offset-fund.md)
 - [§ 94-B Judiciary data processing offset fund](94b-judiciary-data-processing-offset-fund.md)
@@ -188,7 +189,6 @@
 - [§ 97-OOOO Basic health program trust fund](97oooo-basic-health-program-trust-fund.md)
 - [§ 97-OOOO\*2 Smart schools bond fund](97oooo-2-smart-schools-bond-fund.md)
 - [§ 97-PPPP Mold assessment and remediation account](97pppp-mold-assessment-and-remediation-account.md)
-- [§ 97-PPPP\*2 Mold assessment and remediation account](97pppp-2-mold-assessment-and-remediation-account.md) *(repealed)*
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
@@ -220,6 +220,7 @@
 - [§ 99-U\*2 New York state teen health education fund](99u-2-new-york-state-teen-health-education-fund.md)
 - [§ 99-V Mortgage settlement proceeds trust fund](99v-mortgage-settlement-proceeds-trust-fund.md)
 - [§ 99-V\*2 Homeless veterans assistance fund](99v-2-homeless-veterans-assistance-fund.md)
+- [§ 99-W Transit assistance for capital investments fund](99w-transit-assistance-for-capital-investments-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -301,6 +302,7 @@ Section 70.        Classification of funds.
                      assistance fund.
         93.        Capital projects fund.
         93-a.      New York state storm recovery capital fund.
+        93-b.      Dedicated infrastructure investment fund.
         94.        Court facilities incentive aid fund.
         94-a.      New York city county clerks' operations offset fund.
         94-b.      Judiciary data processing offset fund.
@@ -487,6 +489,7 @@ Section 70.        Classification of funds.
         99-u*2.    New York state teen health education fund.
         99-v.      Mortgage settlement proceeds trust fund.
         99-v*2.    Homeless veterans assistance fund.
+        99-w.      Transit assistance for capital investments fund.
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STF |
 | Type | Consolidated law, chapter 56 |
-| Sections | 497 (1 repealed) |
-| Last changed | 10 Apr 2015 |
+| Sections | 498 |
+| Last changed | 17 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Finance |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [17 Apr 2015](../../changes/2015/2015-04-17.md): 7 amended, 2 added, 1 removed
 - [10 Apr 2015](../../changes/2015/2015-04-10.md): 2 amended
 - [27 Feb 2015](../../changes/2015/2015-02-27.md): 1 amended, 1 repealed
 - [6 Feb 2015](../../changes/2015/2015-02-06.md): 1 amended, 1 added, 1 removed

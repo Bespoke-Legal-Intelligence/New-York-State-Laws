@@ -2823,6 +2823,48 @@ payment during the period January first, nineteen hundred ninety-one
 through December thirty-first, nineteen hundred ninety-three based upon
 nineteen hundred eighty-nine data from a representative sample of
 general hospitals and for rates of payment during the period January
+first, nineteen hundred ninety-four through December thirty-first,
+nineteen hundred ninety-nine based upon nineteen hundred ninety-two data
+from a representative sample of general hospitals that the costs
+associated with the portion of hospital stays in excess of the long stay
+outlier thresholds do not exceed three percent of the total of the acute
+care cost components of reimbursable inpatient operating costs related
+to the determination of case based rates of payment. The costs
+associated with the outlier portion of long stay outliers for each
+general hospital participating in the determination of the weighting
+factors shall be removed from each diagnosis-related group before
+calculating the weighting factors;
+  * NB Effective and expires December 31, 2017
+  * (iii) an estimate of inpatient costs which are related to a hospital
+stay in excess of the long stay threshold for long stay patients as
+defined in paragraph (c) of subdivision four of this section shall be
+eliminated from reimbursable inpatient operating costs in determining
+group category average inpatient reimbursable operating costs
+considering a long stay patient cost conversion factor, which shall be
+established at sixty percent provided, however, such long stay patient
+cost conversion factor may be revised for an annual rate period or
+periods beginning on or after January first, nineteen hundred
+eighty-nine in accordance with rules and regulations adopted by the
+council and approved by the commissioner; a case mix neutral acute care
+cost component of a general hospital's reimbursable inpatient operating
+cost base per day after application of the trend factor and the addition
+of special additional inpatient operating costs; long stay patient days
+incurred by such general hospital in nineteen hundred eighty-seven or
+the number of such long stay patient days during a recent twelve month
+period prior thereto established by regulation for which data are
+available subsequently reconciled by an adjustment to reflect nineteen
+hundred eighty-seven data; and the specific diagnosis-related groups
+with which the long stay patients are identified. The long stay outlier
+thresholds shall be determined by adding a sufficient number of standard
+deviations to the mean length of stay for each diagnosis-related group
+such that it is estimated for rates of payment during the period January
+first, nineteen hundred eighty-eight through December thirty-first,
+nineteen hundred ninety based upon nineteen hundred eighty-five data
+from a representative sample of general hospitals and for rates of
+payment during the period January first, nineteen hundred ninety-one
+through December thirty-first, nineteen hundred ninety-three based upon
+nineteen hundred eighty-nine data from a representative sample of
+general hospitals and for rates of payment during the period January
 first, nineteen hundred ninety-four through June thirtieth, nineteen
 hundred ninety-six based upon nineteen hundred ninety-two data from a
 representative sample of general hospitals that the costs associated
@@ -3421,6 +3463,32 @@ in accordance with clause (B-1) of this subparagraph.
   * In order to allow for real increases in general hospital case mix
 while limiting the effect of potential case mix changes that are the
 result of changes in coding practices rather than real changes in case
+mix, the commissioner shall annually for rate periods through December
+thirty-first, nineteen hundred ninety-six, in accordance with rules and
+regulations adopted by the council and approved by the commissioner,
+adjust individual general hospitals' case payment rates determined in
+accordance with paragraphs (a) and (b) of subdivision one of this
+section to account for increases in the statewide average case mix,
+based on increases in statewide average assignment to diagnosis-related
+groups for all patients other than beneficiaries of title XVIII of the
+federal social security act (medicare), that exceed the allowable
+statewide increase determined in accordance with this subparagraph. The
+commissioner further shall adjust individual general hospitals' case
+payment rates determined in accordance with this section for state
+governmental agencies for the periods January first, nineteen hundred
+ninety-seven through March thirty-first, two thousand in accordance with
+clause (G) of this subparagraph and to account for increases in
+statewide average case mix, based on increases in statewide average
+assignment to diagnosis-related groups based on data only for patients
+that are eligible for medical assistance pursuant to title eleven of
+article five of the social services law, including such patients
+enrolled in health maintenance organizations, that exceed the allowable
+statewide increase determined in accordance with clause (B-1) of this
+subparagraph.
+  * NB Effective and expires December 31, 2017
+  * In order to allow for real increases in general hospital case mix
+while limiting the effect of potential case mix changes that are the
+result of changes in coding practices rather than real changes in case
 mix, the commissioner shall annually, in accordance with rules and
 regulations adopted by the council and approved by the commissioner,
 adjust individual general hospitals' case payment rates determined in
@@ -3601,6 +3669,14 @@ governmental agencies during the period January first, nineteen hundred
 ninety-seven through March thirty-first, two thousand and periods on and
 after April first, two thousand.
   * NB Expires December 31, 2017
+  * (G) Adjustments determined in accordance with clause (B) of this
+subparagraph for the period  January first, nineteen hundred ninety-six
+through December thirty-first, nineteen hundred ninety-six on a final
+basis, and in accordance with subparagraph (ii) of this paragraph on an
+interim basis, shall be applied to rates of payment for state
+governmental agencies during the period January first, nineteen hundred
+ninety-seven through March thirty-first, two thousand.
+  * NB Effective and repealed December 31, 2017
   * (ii) (A) The commissioner shall, in accordance with rules and
 regulations adopted by the council and approved by the commissioner, for
 purposes of payments on an interim basis periodically compute an
@@ -4985,7 +5061,29 @@ hospital payments received pursuant to sections twenty-eight hundred
 seven-k and twenty-eight hundred seven-w of this article. The adjustment
 may be made to rates of payment or as aggregate payments to an eligible
 hospital.
-  * NB Expires December 31, 2017
+  * NB Effective until December 31, 2017
+  * 14-f. Public general hospital indigent care adjustment.
+Notwithstanding any inconsistent provision of this section, payment for
+inpatient hospital services for persons eligible for payments made by
+state governmental agencies for the period January first, nineteen
+hundred ninety-seven through December thirty-first, nineteen hundred
+ninety-nine applicable to patients eligible for federal financial
+participation under title XIX of the federal social security act in
+medical assistance provided pursuant to title eleven of article five of
+the social services law determined in accordance with this section shall
+include for eligible public general hospitals a public general hospital
+indigent care adjustment equal to the aggregate amount of the
+adjustments provided for such public general hospital for the period
+January first, nineteen hundred ninety-six through December
+thirty-first, nineteen hundred ninety-six pursuant to subdivisions
+fourteen-a and fourteen-d of this section on an annualized basis,
+provided all federal approvals necessary by federal law and regulation
+for federal financial participation in payments made for beneficiaries
+eligible for medical assistance under title XIX of the federal social
+security act based upon the adjustment provided herein as a component of
+such payments are granted. The adjustment may be made to rates of
+payment or as aggregate payments to an eligible hospital.
+  * NB Effective and repealed December 31, 2017
   15. Special provisions for payments by governmental agencies. In the
 event that federal financial participation in payments made for
 beneficiaries eligible for medical assistance under title XIX of the
@@ -5327,6 +5425,19 @@ services provided during annual periods beginning on or after January
 first, nineteen hundred ninety through December thirty-first, nineteen
 hundred ninety-nine and on or after January first, two thousand,
   * NB Effective until December 31, 2017
+  * (a) one and seventy-five thousandths percent of each general
+hospital's gross revenue received for inpatient hospital services
+provided during the period January first, nineteen hundred eighty-eight
+through December thirty-first, nineteen hundred eighty-eight; one and
+five hundredths percent of each general hospital's gross revenue
+received for inpatient hospital services provided during the period
+January first, nineteen hundred eighty-nine through December
+thirty-first, nineteen hundred eighty-nine; and one percent of each
+general hospital's gross revenue received for inpatient hospital
+services provided during annual periods beginning on or after January
+first, nineteen hundred ninety through December thirty-first, nineteen
+hundred ninety-nine,
+  * NB Effective and expires December 31, 2017
   * (a) one and seventy-five thousandths percent of each general
 hospital's gross revenue received for inpatient hospital services
 provided during the period January first, nineteen hundred eighty-eight
@@ -6136,7 +6247,7 @@ consolidated with funds accumulated from the allowance pursuant to
 subdivision two of section twenty-eight hundred seven-j of this article
 for such period and allocated in accordance with subdivision nine of
 section twenty-eight hundred seven-j of this article.
-  * NB Expires December 31, 2017
+  * NB Effective until December 31, 2017
   * 19-b. Funds accumulated in the statewide pool created by the
 assessment authorized in accordance with subdivision eighteen of this
 section for a period during the period January first, nineteen hundred
@@ -6147,7 +6258,7 @@ allowance pursuant to subdivision two of section twenty-eight hundred
 seven-j of this article for such period and allocated in accordance with
 subdivision nine of section twenty-eight hundred seven-j of this
 article.
-  * NB Effective and expires December 31, 2017
+  * NB Effective and repealed December 31, 2017
   20. Payments to pools. (a) Payments by or on behalf of general
 hospitals to bad debt and charity care regional pools of funds due based
 on the allowance included in rates and charges in accordance with
@@ -6318,6 +6429,68 @@ first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine and on and after January first, two
 thousand equal to one-half of such reduction.
   * NB Effective until December 31, 2017
+  * (b)(i) No public general hospital may receive in total from
+disproportionate share payment distributions made in accordance with
+subdivision seventeen of this section and adjustments in accordance with
+subdivisions fourteen-a and fourteen-d of this section for the period
+April first, nineteen hundred ninety-four through December thirty-first,
+nineteen hundred ninety-four or for annual rate periods beginning on
+January first on or after January first, nineteen hundred ninety-five
+through December thirty-first, nineteen hundred ninety-six, or made in
+accordance with section twenty-eight hundred seven-k of this article and
+adjustments in accordance with subdivision fourteen-f of this section
+for annual periods beginning on January first on and after January
+first, nineteen hundred ninety-seven through December thirty-first,
+nineteen hundred ninety-nine an amount which exceeds the costs incurred
+during such period of furnishing inpatient and ambulatory hospital
+services, net of medical assistance payments pursuant to title eleven of
+article five of the social services law, other than disproportionate
+share payments pursuant to subdivision twenty-six of this section or
+subdivision thirteen of section twenty-eight hundred seven-k of this
+article, and payments by uninsured patients, by the hospital to
+individuals who either are eligible for medical assistance pursuant to
+title eleven of article five of the social services law or have no
+health insurance or other source of third party coverage; provided,
+however, that the commissioner shall make such increase to such maximum
+or to the manner in which the limitation on disproportionate share
+payments is applied as shall increase the maximum limit for a period or
+part of a period as authorized by federal law or regulation or the
+secretary of the department of health and human services for purposes of
+federal financial participation pursuant to title XIX of the federal
+social security act. For purposes of this paragraph, payments to a
+general hospital for services provided to indigent patients made by the
+state or a unit of local government within the state shall not be
+considered to be a source of third party payment.
+  (ii) Reductions pursuant to this paragraph shall be made in the
+following sequence:
+  (A) for periods through December thirty-first, nineteen hundred
+ninety-six, adjustments in accordance with subdivision fourteen-d of
+this section; adjustments in accordance with subdivision fourteen-a of
+this section; and distributions in accordance with subdivision seventeen
+of this section, and
+  (B) for periods during the period January first, nineteen hundred
+ninety-seven through December thirty-first, nineteen hundred
+ninety-nine, adjustments in accordance with subdivision fourteen-f of
+this section; and distributions in accordance with section twenty-eight
+hundred seven-k of this article.
+  (iii) (A) In the event a reduction pursuant to subparagraphs (i) and
+(ii) of this paragraph is effective for distributions in accordance with
+subdivision seventeen of this section for a general hospital, such
+general hospital shall receive a supplementary distribution not as a
+disproportionate share payment and not subject to federal financial
+participation from funds available pursuant to subdivision seventeen of
+this section for periods through December thirty-first, nineteen hundred
+ninety-six.
+  (B) In the event a reduction pursuant to subparagraphs (i) and (ii) of
+this paragraph is effective for distributions in accordance with section
+twenty-eight hundred seven-k of this article for a general hospital,
+such general hospital shall receive a supplementary distribution not as
+a disproportionate share payment and not subject to federal financial
+participation from funds available pursuant to section twenty-eight
+hundred seven-k of this article for periods during the period January
+first, nineteen hundred ninety-seven through December thirty-first,
+nineteen hundred ninety-nine equal to one-half of such reduction.
+  * NB Effective and expires December 31, 2017
   * (b) (i) No public general hospital may receive in total from
 disproportionate share payment distributions made in accordance with
 subdivision seventeen of this section and adjustments in accordance with
@@ -6428,6 +6601,76 @@ first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine and on and after January first, two
 thousand equal to one-half of such reduction.
   * NB Effective until December 31, 2017
+  * (c)(i) No general hospital other than a public general hospital may
+receive in total from disproportionate share payment distributions made
+in accordance with paragraph (b) of subdivision fourteen-c, subdivision
+seventeen and paragraphs (c) and (d) of subdivision nineteen of this
+section and adjustments in accordance with subdivision fourteen-d of
+this section for the period April first, nineteen hundred ninety-five
+through December thirty-first, nineteen hundred ninety-five or for the
+annual rate period beginning on January first, nineteen hundred
+ninety-six through December thirty-first, nineteen hundred ninety-six,
+or made in accordance with section twenty-eight hundred seven-k of this
+article for annual periods beginning on January first on and after
+January first, nineteen hundred ninety-seven through December
+thirty-first, nineteen hundred ninety-nine an amount which exceeds the
+costs incurred during such period of furnishing inpatient and ambulatory
+hospital services, net of medical assistance payments pursuant to title
+eleven of article five of the social services law, other than
+disproportionate share payments pursuant to subdivision twenty-six of
+this section or subdivision thirteen of section twenty-eight hundred
+seven-k of this article, and payments by uninsured patients, by the
+hospital to individuals who either are eligible for medical assistance
+pursuant to title eleven of article five of the social services law or
+have no health insurance or other source of third party coverage;
+provided, however, that the commissioner shall make such modifications
+to the manner in which the limitation on disproportionate share payments
+is applied to such hospitals as shall increase the maximum limit for a
+period or part of a period as authorized by federal law or regulation or
+the secretary of the department of health and human services for
+purposes of federal financial participation pursuant to title XIX of the
+federal social security act. For purposes of this paragraph, payments to
+a general hospital for services provided to indigent patients made by
+the state or a unit of local government within the state shall not be
+considered to be a source of third party payment.
+  (ii)(A) Reductions pursuant to this paragraph for periods through
+December thirty-first, nineteen hundred ninety-six shall be made in the
+following sequence for general hospitals other than financially
+distressed hospitals: adjustments in accordance with subdivision
+fourteen-d of this section; and distributions in accordance with
+subdivision seventeen of this section.
+  (B) Reductions pursuant to this paragraph for periods through December
+thirty-first, nineteen hundred ninety-six shall be made in the following
+sequence for general hospitals designated as financially distressed
+hospitals: distributions in accordance with paragraph (b) of subdivision
+fourteen-c of this section; distributions in accordance with paragraphs
+(c) and (d) of subdivision nineteen of this section; and distributions
+in accordance with subdivision seventeen of this section.
+  (C) Reductions pursuant to this paragraph for periods during the
+period January first, nineteen hundred ninety-seven through December
+thirty-first, nineteen hundred ninety-nine, shall be made from
+distributions in accordance with section twenty-eight hundred seven-k of
+this article.
+  (iii) (A) In the event a reduction pursuant to subparagraphs (i) and
+(ii) of this paragraph is effective for distributions in accordance with
+paragraph (b) of subdivision fourteen-c of this section, paragraph (c)
+or (d) of subdivision nineteen of this section, subdivision fourteen-d
+of this section or subdivision seventeen of this section for a general
+hospital, such general hospital shall receive a supplementary
+distribution not as a disproportionate share payment and not subject to
+federal financial participation from funds available pursuant to such
+subdivisions equal to one-half of such reduction for periods through
+December thirty-first, nineteen hundred ninety-six.
+  (B) In the event a reduction pursuant to subparagraphs (i) and (ii) of
+this paragraph is effective for distributions in accordance with section
+twenty-eight hundred seven-k of this article for a general hospital,
+such general hospital shall receive a supplementary distribution not as
+a disproportionate share payment and not subject to federal financial
+participation from funds available pursuant to section twenty-eight
+hundred seven-k of this article for periods during the period January
+first, nineteen hundred ninety-seven through December thirty-first,
+nineteen hundred ninety-nine equal to one-half of such reduction.
+  * NB Effective and expires December 31, 2017
   * (c) (i) No general hospital other than a public general hospital may
 receive in total from disproportionate share payment distributions made
 in accordance with paragraph (b) of subdivision fourteen-c, subdivision
@@ -6506,6 +6749,36 @@ ninety-seven through December thirty-first, nineteen hundred ninety-nine
 and on and after January first, two thousand without consideration of
 subparagraph (i) of this paragraph.
   * NB Effective until December 31, 2017
+  * (d)(i) Commencing April first, nineteen hundred ninety-four, no
+general hospital may be eligible to receive disproportionate share
+payments determined in accordance with subdivision twenty-six of this
+section through December thirty-first, nineteen hundred ninety-six or in
+accordance with section twenty-eight hundred seven-k of this article for
+periods during the period January first, nineteen hundred ninety-seven
+through December thirty-first, nineteen hundred ninety-nine unless the
+hospital has an inpatient utilization rate for patients eligible for
+payments pursuant to title eleven of article five of the social services
+law eligible for federal financial participation pursuant to title
+nineteen of the federal social security act of not less than one
+percent.
+  (ii) In the event a general hospital is disqualified pursuant to
+subparagraph (i) of this paragraph from receiving disproportionate share
+payments for a period, such general hospital shall receive distributions
+not as disproportionate share payments and not subject to federal
+financial participation from funds available pursuant to subdivision
+seventeen of this section for periods through December thirty-first,
+nineteen hundred ninety-six, and pursuant to section twenty-eight
+hundred seven-k of this article for periods during the period January
+first, nineteen hundred ninety-seven through December thirty-first,
+nineteen hundred ninety-nine equal to one-half of the distributions for
+which such general hospital would have been qualified pursuant to
+subdivision seventeen of this section for periods through December
+thirty-first, nineteen hundred ninety-six, and pursuant to section
+twenty-eight hundred seven-k of this article for periods during the
+period January first, nineteen hundred ninety-seven through December
+thirty-first, nineteen hundred ninety-nine without consideration of
+subparagraph (i) of this paragraph.
+  * NB Effective and expires December 31, 2017
   * (d)(i) Commencing April first, nineteen hundred ninety-four, no
 general hospital may be eligible to receive disproportionate share
 payments determined in accordance with subdivision twenty-six of this

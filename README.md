@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 10 Apr 2015.*
+*Current through the publication of 17 Apr 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [17 Apr 2015](changes/2015/2015-04-17.md): Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Highway Law; Medical Care Facilities Finance Agency; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [10 Apr 2015](changes/2015/2015-04-10.md): Financial Services Law; Insurance Law; Public Health Law; Public Housing Law; Social Services Law; State Finance Law
 - [27 Mar 2015](changes/2015/2015-03-27.md): Agriculture and Markets Law; Correction Law; Environmental Conservation Law; General Business Law; Public Health Law
 - [20 Mar 2015](changes/2015/2015-03-20.md): Banking Law; Correction Law; Education Law; General Municipal Law; Insurance Law; Port of New York Authority; Public Authorities Law; Public Health Law; Social Services Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [6 Mar 2015](changes/2015/2015-03-06.md): Correction Law; Education Law; Environmental Conservation Law; Insurance Law; Limited Liability Company Law; Mental Hygiene Law; Public Health Law
 - [27 Feb 2015](changes/2015/2015-02-27.md): General Business Law; Insurance Law; Labor Law; State Finance Law; Uniform Commercial Code
 - [20 Feb 2015](changes/2015/2015-02-20.md): Environmental Conservation Law; Executive Law; Insurance Law; Lien Law; Lost and Strayed Animals; Social Services Law; Uniform City Court Act; Uniform Commercial Code
-- [13 Feb 2015](changes/2015/2015-02-13.md): Environmental Conservation Law; Real Property Tax Law
 
 ## Most changed in the past 12 months
 
@@ -30,19 +30,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---:|
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 259 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 122 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 118 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 119 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 98 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 87 |
-| [Education Law](consolidated-laws/education-law/README.md) | 60 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 94 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 79 |
+| [Education Law](consolidated-laws/education-law/README.md) | 61 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 48 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 47 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 40 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 35 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 34 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 32 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 30 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 30 |
-| [Lost and Strayed Animals](unconsolidated-laws/lost-and-strayed-animals/README.md) | 24 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 23 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 26 |
 
 ## Consolidated Laws
 
@@ -63,11 +63,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 320 | 27 Mar 2015 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 443 | no change since 22 Sep 2014 (start of history) |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 561 | 26 Dec 2014 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 561 | 17 Apr 2015 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 28 Nov 2014 |
-| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 166 | 2 Jan 2015 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 20 Mar 2015 |
+| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 166 | 17 Apr 2015 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,830 | 17 Apr 2015 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | no change since 22 Sep 2014 (start of history) |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 405 | 23 Jan 2015 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -75,7 +75,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,683 | 27 Mar 2015 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 344 | 26 Dec 2014 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 856 | 20 Feb 2015 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 856 | 17 Apr 2015 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 10 Apr 2015 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,173 | 27 Mar 2015 |
@@ -83,7 +83,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,064 | 20 Mar 2015 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 199 | no change since 22 Sep 2014 (start of history) |
-| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 537 | no change since 22 Sep 2014 (start of history) |
+| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 537 | 17 Apr 2015 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 28 Nov 2014 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,008 | 10 Apr 2015 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 522 | no change since 22 Sep 2014 (start of history) |
@@ -105,13 +105,13 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 28 Nov 2014 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 6 Feb 2015 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | no change since 22 Sep 2014 (start of history) |
-| [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 26 Dec 2014 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,134 | 20 Mar 2015 |
+| [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 17 Apr 2015 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 17 Apr 2015 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 48 | 26 Dec 2014 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,605 | 10 Apr 2015 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,609 | 17 Apr 2015 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | 10 Apr 2015 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
-| [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 24 Oct 2014 |
+| [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 17 Apr 2015 |
 | [Public Service Law](consolidated-laws/public-service-law/README.md) | PBS | 251 | 26 Dec 2014 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | PML | 341 | 23 Jan 2015 |
 | [Railroad Law](consolidated-laws/railroad-law/README.md) | RRD | 199 | no change since 22 Sep 2014 (start of history) |
@@ -126,16 +126,16 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | 10 Apr 2015 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 17 | no change since 22 Sep 2014 (start of history) |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | 23 Jan 2015 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 497 | 10 Apr 2015 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 498 | 17 Apr 2015 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 28 Nov 2014 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,148 | 30 Jan 2015 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,148 | 17 Apr 2015 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 12 Dec 2014 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
-| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 2 Jan 2015 |
+| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 17 Apr 2015 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 27 Feb 2015 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 885 | 23 Jan 2015 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 885 | 17 Apr 2015 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | no change since 22 Sep 2014 (start of history) |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 26 Dec 2014 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | no change since 22 Sep 2014 (start of history) |
@@ -158,7 +158,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General City Model](unconsolidated-laws/general-city-model/README.md) | GCM | 116 | no change since 22 Sep 2014 (start of history) |
 | [Local Emergency Housing Rent Control Act](unconsolidated-laws/local-emergency-housing-rent-control-act/README.md) | LEH | 0 | no change since 22 Sep 2014 (start of history) |
 | [Lost and Strayed Animals](unconsolidated-laws/lost-and-strayed-animals/README.md) | LSA | 20 | 20 Feb 2015 |
-| [Medical Care Facilities Finance Agency](unconsolidated-laws/medical-care-facilities-finance-agency/README.md) | MCF | 31 | 26 Dec 2014 |
+| [Medical Care Facilities Finance Agency](unconsolidated-laws/medical-care-facilities-finance-agency/README.md) | MCF | 31 | 17 Apr 2015 |
 | [New, New York Bond Act](unconsolidated-laws/new-new-york-bond-act/README.md) | NNY | 0 | no change since 22 Sep 2014 (start of history) |
 | [New York City Health and Hospitals Corporation Act](unconsolidated-laws/new-york-city-health-and-hospitals-corporation-act/README.md) | HHC | 27 | no change since 22 Sep 2014 (start of history) |
 | [New York Wine/Grape](unconsolidated-laws/new-york-wine-grape/README.md) | NYW | 12 | no change since 22 Sep 2014 (start of history) |
@@ -172,7 +172,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Special Needs Housing Act](unconsolidated-laws/special-needs-housing-act/README.md) | SNH | 5 | no change since 22 Sep 2014 (start of history) |
 | [Suffolk County Tax Act](unconsolidated-laws/suffolk-county-tax-act/README.md) | SCT | 89 | no change since 22 Sep 2014 (start of history) |
 | [Tobacco Settlement Financing Corporation Act](unconsolidated-laws/tobacco-settlement-financing-corporation-act/README.md) | TSF | 16 | no change since 22 Sep 2014 (start of history) |
-| [Urban Development Corporation Act](unconsolidated-laws/urban-development-corporation-act/README.md) | UDA | 83 | 6 Feb 2015 |
+| [Urban Development Corporation Act](unconsolidated-laws/urban-development-corporation-act/README.md) | UDA | 84 | 17 Apr 2015 |
 | [Urban Development Guarantee Fund of New York](unconsolidated-laws/urban-development-guarantee-fund-of-new-york/README.md) | UDG | 20 | no change since 22 Sep 2014 (start of history) |
 | [Urban Development Research Corporation Act](unconsolidated-laws/urban-development-research-corporation-act/README.md) | UDR | 26 | no change since 22 Sep 2014 (start of history) |
 | [Yonkers Financial Emergency Act](unconsolidated-laws/yonkers-financial-emergency-act/README.md) | YFA | 14 | no change since 22 Sep 2014 (start of history) |

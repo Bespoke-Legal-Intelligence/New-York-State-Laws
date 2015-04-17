@@ -22,7 +22,6 @@
 - [Title 16 — Village of Mount Kisco Parking Authority](title-16-village-of-mount-kisco-parking/)
 - [Title 16\* — Jamestown Parking Authority](title-16-jamestown-parking-authority/)
 - [Title 18 — Tarrytown Parking Authority](title-18-tarrytown-parking-authority/)
-- [Title 18\* — Tarrytown Parking Authority](title-18-tarrytown-parking-authority-2/) *(repealed)*
 - [Title 21 — Middletown Parking Authority](title-21-middletown-parking-authority/)
 - [Title 22 — Village of Nyack Parking Authority](title-22-village-of-nyack-parking-authority/)
 

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Transportation Law § 144", "kind": "section", "law_id": "TRA", "location_id": "144", "path": "ARTICLE 6 › SECTION 144", "repealed": false, "repealed_date": null, "source": "nys-laws:TRA/144.md", "title": "Fees and charges"} -->
+﻿<!-- nyslaw {"citation": "Transportation Law § 144", "kind": "section", "law_id": "TRA", "location_id": "144", "path": "ARTICLE 6 › SECTION 144", "repealed": true, "repealed_date": "2015-04-17", "source": "nys-laws:TRA/144.md", "title": "Fees and charges"} -->
 # Transportation Law § 144 — Fees and charges
 
 [Transportation Law](../README.md) › [Article 6 — Matters Relating to All Motor Carriers](README.md)
+
+**Repealed** (17 Apr 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 144. Fees and charges. The commissioner or authorized officer or
