@@ -8,7 +8,7 @@
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
 | Sections | 409 |
-| Last changed | 26 Dec 2014 |
+| Last changed | 24 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [24 Apr 2015](../../changes/2015/2015-04-24.md): 2 amended
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 1 amended
 - [5 Dec 2014](../../changes/2014/2014-12-05.md): 1 amended
 - [24 Oct 2014](../../changes/2014/2014-10-24.md): 2 amended

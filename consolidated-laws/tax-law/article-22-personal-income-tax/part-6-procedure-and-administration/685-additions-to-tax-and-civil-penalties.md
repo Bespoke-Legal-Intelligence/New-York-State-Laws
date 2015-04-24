@@ -1139,4 +1139,17 @@ false or fraudulent document to the department will be subject to a
 penalty of one hundred dollars per document submitted, or five hundred
 dollars per tax return submitted. This penalty will be in addition to
 any other penalty or addition provided by law.
+  (dd) Failure to supply all the information required or to provide
+correct information in secretary of state statements. Unless it is shown
+that such failure to provide the statement and information required by
+subdivision (e) of section three hundred one of the limited liability
+company law, subdivision (g) of section 121-1500 of the partnership law,
+and subdivision (f) of section 121-1502 of the partnership law is due to
+reasonable cause and not to willful neglect, there shall, upon notice
+and demand by the commissioner and in the same manner as tax, be paid by
+the entity failing to supply complete and correct information, a penalty
+of two hundred and fifty dollars per limited liability company,
+registered limited liability partnership or New York registered foreign
+limited liability partnership required to provide such information on
+its filing fee payment form.
 ```

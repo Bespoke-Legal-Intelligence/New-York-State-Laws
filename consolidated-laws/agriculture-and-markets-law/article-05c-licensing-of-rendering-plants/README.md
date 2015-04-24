@@ -9,7 +9,7 @@
 - [§ 96-Y Definitions](96y-definitions.md)
 - [§ 96-Z Exemptions](96z-exemptions.md)
 - [§ 96-Z-1 License required](96z-1-license-required.md)
-- [§ 96-Z-2 Application and fees](96z-2-application-and-fees.md)
+- [§ 96-Z-2 Application](96z-2-application.md)
 - [§ 96-Z-3 Granting, suspending or revoking licenses](96z-3-granting-suspending-or-revoking-licenses.md)
 - [§ 96-Z-4 Review](96z-4-review.md)
 - [§ 96-Z-5 Rules and regulations](96z-5-rules-and-regulations.md)

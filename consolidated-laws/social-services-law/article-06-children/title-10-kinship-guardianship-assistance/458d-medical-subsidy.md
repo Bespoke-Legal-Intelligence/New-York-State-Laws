@@ -13,19 +13,19 @@ cost of care, services and supplies payable under the state's program of
 medical assistance for needy persons provided to any child for whom
 kinship guardianship assistance payments are being made under this title
 who is not eligible for medical assistance under subdivision one of this
-section and for whom the relative guardian is unable to obtain
-appropriate and affordable medical coverage through any other available
-means, regardless of whether the child otherwise qualifies for medical
-assistance for needy persons. Payments pursuant to this subdivision
-shall be made only with respect to the cost of care, services, and
-supplies which are not otherwise covered or subject to payment or
-reimbursement by insurance, medical assistance or other sources.
-Payments made pursuant to this subdivision shall only be made if the
-relative guardian applies to obtain such medical coverage for the child
-from all available sources, unless the social services official
-determines that the relative guardian has good cause for not applying
-for such coverage; which shall include that appropriate coverage is not
-available or affordable.
+section and for whom the relative or successor guardian is unable to
+obtain appropriate and affordable medical coverage through any other
+available means, regardless of whether the child otherwise qualifies for
+medical assistance for needy persons. Payments pursuant to this
+subdivision shall be made only with respect to the cost of care,
+services, and supplies which are not otherwise covered or subject to
+payment or reimbursement by insurance, medical assistance or other
+sources. Payments made pursuant to this subdivision shall only be made
+if the relative or successor guardian applies to obtain such medical
+coverage for the child from all available sources, unless the social
+services official determines that the relative guardian has good cause
+for not applying for such coverage; which shall include that appropriate
+coverage is not available or affordable.
   3. An application for payments under this section shall be made prior
 to the issuance of letters of guardianship for the child. An approval of
 an application for payments under this section shall not be subject to

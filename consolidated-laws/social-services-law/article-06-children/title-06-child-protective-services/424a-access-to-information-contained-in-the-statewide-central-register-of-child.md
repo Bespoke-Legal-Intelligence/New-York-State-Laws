@@ -11,12 +11,17 @@ provisions of paragraph (e) of this subdivision, inform such agency and
 the subject of the inquiry whether an applicant for a certificate,
 license or permit, assistants to group family day care providers, the
 director of a camp subject to the provisions of article thirteen-B of
-the public health law, and any person over the age of eighteen who
-resides in the home of a person who has applied to become an adoptive
-parent or a foster parent or to operate a family day care home or group
-family day care home has been or is currently the subject of an
-indicated child abuse and maltreatment report on file with the statewide
-central register of child abuse and maltreatment.
+the public health law, a prospective successor guardian when a clearance
+is conducted pursuant to paragraph (d) of subdivision two of section
+four hundred fifty-eight-b of this article, and any person over the age
+of eighteen who resides in the home of a person who has applied to
+become an adoptive parent or a foster parent or to operate a family day
+care home or group family day care home or any person over the age of
+eighteen residing in the home of a prospective successor guardian when a
+clearance is conducted of a prospective successor guardian pursuant to
+this paragraph, has been or is currently the subject of an indicated
+child abuse and maltreatment report on file with the statewide central
+register of child abuse and maltreatment.
   (b) (i) Subject to the provisions of subdivision seven of this
 section, a provider agency shall inquire of the office and the office
 shall, subject to the provisions of paragraph (e) of this subdivision,
@@ -207,18 +212,22 @@ the application file or employment record, of the specific reasons why
 such person was determined to be appropriate to receive a foster care or
 adoption placement or to provide day care services, to be the director
 of a camp subject to the provisions of article thirteen-B of the public
-health law, to be employed, to be retained as an employee, to be hired
-as a consultant, used as a volunteer or to have access to the
-individuals cared for by the agency.
+health law, to be approved as a successor guardian in accordance with
+subparagraph (ii) of paragraph (b) of subdivision five of section four
+hundred fifty-eight-b of this article, to be employed, to be retained as
+an employee, to be hired as a consultant, used as a volunteer or to have
+access to the individuals cared for by the agency.
   (b) (i) Upon denial of such application by a licensing or a provider
 agency or failure to hire the consultant or use the volunteer, or denial
-of access by a person to the children cared for by the agency, such
-agency shall furnish the applicant, prospective consultant, volunteer or
-person who is denied access to the children cared for by the agency with
-a written statement setting forth whether its denial, failure to hire or
-failure to use was based, in whole or in part, on such indicated report,
-and if so, its reasons for the denial or failure to hire or failure to
-use.
+of access by a person to the children cared for by the agency, or
+failure to approve a successor guardian in accordance with subparagraph
+(ii) of paragraph (b) of subdivision five of section four hundred
+fifty-eight-b of this article, such agency shall furnish the applicant,
+prospective consultant, volunteer or person who is denied access to the
+children cared for by the agency with a written statement setting forth
+whether its denial, failure to hire or failure to use was based, in
+whole or in part, on such indicated report, and if so, its reasons for
+the denial or failure to hire or failure to use.
   (ii) Upon the termination of employment of an employee of a provider
 agency, who is the subject of an indicated report of child abuse or
 maltreatment on file with the statewide central register of child abuse
@@ -227,35 +236,37 @@ statement setting forth whether such termination was based, in whole or
 in part, on such indicated report and, if so, the reasons for the
 termination of employment.
   (c) If the reasons for such denial or termination or failure to hire a
-consultant or use a volunteer include the fact that the person is the
-subject of an indicated child abuse or maltreatment report, such person
-may request from the department within ninety days of receipt of notice
-of such denial, termination, failure to hire a consultant or use a
-volunteer and shall be granted a hearing in accordance with the
-procedures set forth in section twenty-two of this chapter relating to
-fair hearings. All hearings held pursuant to the provisions of this
-subdivision shall be held within thirty days of a request for the
-hearing unless the hearing is adjourned for good cause shown. Any
-subsequent adjournment for good cause shown shall be granted only upon
-consent of the person who requested the hearing. The hearing decision
-shall be rendered not later than sixty days after the conclusion of the
-hearing.
+consultant or use a volunteer or failure to approve a successor guardian
+in accordance with subparagraph (ii) of paragraph (b) of subdivision
+five of section four hundred fifty-eight-b of this article include the
+fact that the person is the subject of an indicated child abuse or
+maltreatment report, such person may request from the department within
+ninety days of receipt of notice of such denial, termination, failure to
+hire a consultant or use a volunteer and shall be granted a hearing in
+accordance with the procedures set forth in section twenty-two of this
+chapter relating to fair hearings. All hearings held pursuant to the
+provisions of this subdivision shall be held within thirty days of a
+request for the hearing unless the hearing is adjourned for good cause
+shown. Any subsequent adjournment for good cause shown shall be granted
+only upon consent of the person who requested the hearing. The hearing
+decision shall be rendered not later than sixty days after the
+conclusion of the hearing.
   (d) At any such hearing, the sole question before the department shall
 be whether the applicant, employee, prospective consultant, volunteer,
-or person who was denied access to the children cared for by a provider
-agency has been shown by a fair preponderance of the evidence to have
-committed the act or acts of child abuse or maltreatment giving rise to
-the indicated report. In such hearing, the burden of proof on the issue
-of whether an act of child abuse or maltreatment was committed shall be
-upon the local child protective service or the state agency which
-investigated the report, as the case may be. The failure to sustain the
-burden of proof at a hearing held pursuant to this section shall not
-result in the expungement or unfounding of an indicated report but shall
-be noted on the report maintained by the state central register and
-shall preclude the department from notifying a party which subsequently
-makes an inquiry to the department pursuant to this section that the
-person about whom the inquiry is made is the subject of an indicated
-report.
+prospective successor guardian or person who was denied access to the
+children cared for by a provider agency has been shown by a fair
+preponderance of the evidence to have committed the act or acts of child
+abuse or maltreatment giving rise to the indicated report. In such
+hearing, the burden of proof on the issue of whether an act of child
+abuse or maltreatment was committed shall be upon the local child
+protective service or the state agency which investigated the report, as
+the case may be. The failure to sustain the burden of proof at a hearing
+held pursuant to this section shall not result in the expungement or
+unfounding of an indicated report but shall be noted on the report
+maintained by the state central register and shall preclude the
+department from notifying a party which subsequently makes an inquiry to
+the department pursuant to this section that the person about whom the
+inquiry is made is the subject of an indicated report.
   (e) Upon the failure, at the fair hearing held pursuant to this
 section, to prove by a fair preponderance of the evidence that the
 applicant committed the act or acts of child abuse or maltreatment
@@ -263,9 +274,9 @@ giving rise to the indicated report, the department shall notify the
 provider or licensing agency which made the inquiry pursuant to this
 section that it should reconsider any decision to discharge an employee,
 or to deny the subject's application for employment, or to become an
-adoptive parent, or for a certificate, license or permit; or not to hire
-a consultant, use a volunteer, or allow access to children cared for by
-the agency.
+adoptive parent, or to become a successor guardian, or for a
+certificate, license or permit; or not to hire a consultant, use a
+volunteer, or allow access to children cared for by the agency.
   3. For purposes of this section, the term "provider" or "provider
 agency" shall mean an authorized agency, the office of children and
 family services, juvenile detention facilities subject to the
@@ -298,28 +309,30 @@ which has received an application from a relative within the second
 degree or third degree of consanguinity of the parent of a child or a
 relative within the second degree or third degree of consanguinity of
 the step-parent of a child or children, or the child's legal guardian
-for approval to receive, board or keep such child or a state or local
-governmental agency which receives an application to provide child day
-care services in a child day care center, school-age child care program,
-family day care home or group family day care home pursuant to the
-provisions of section three hundred ninety of this article, or the
-department of health and mental hygiene of the city of New York, when
-such department receives an application for a certificate of approval to
-provide child day care services in a child day care center pursuant to
-the provisions of the health code of the city of New York, or the office
-of mental health or the office for people with developmental
-disabilities when such office receives an application for an operating
-certificate pursuant to the provisions of the mental hygiene law to
-operate a family care home, or a state or local governmental official
-who receives an application for a permit to operate a camp which is
-subject to the provisions of article thirteen-B of the public health law
-or the office of children and family services which has received an
-application for a certificate to receive, board or keep any child at a
-foster family home pursuant to articles nineteen-G and nineteen-H of the
-executive law or any other facility or provider agency, as defined in
-subdivision four of section four hundred eighty-eight of this chapter,
-in regard to any licensing or certification function carried out by such
-facility or agency.
+for approval to receive, board or keep such child, or an authorized
+agency that conducts a clearance pursuant to paragraph (d) of
+subdivision two of section four hundred fifty-eight-b of this article,
+or a state or local governmental agency which receives an application to
+provide child day care services in a child day care center, school-age
+child care program, family day care home or group family day care home
+pursuant to the provisions of section three hundred ninety of this
+article, or the department of health and mental hygiene of the city of
+New York, when such department receives an application for a certificate
+of approval to provide child day care services in a child day care
+center pursuant to the provisions of the health code of the city of New
+York, or the office of mental health or the office for people with
+developmental disabilities when such office receives an application for
+an operating certificate pursuant to the provisions of the mental
+hygiene law to operate a family care home, or a state or local
+governmental official who receives an application for a permit to
+operate a camp which is subject to the provisions of article thirteen-B
+of the public health law or the office of children and family services
+which has received an application for a certificate to receive, board or
+keep any child at a foster family home pursuant to articles nineteen-G
+and nineteen-H of the executive law or any other facility or provider
+agency, as defined in subdivision four of section four hundred
+eighty-eight of this chapter, in regard to any licensing or
+certification function carried out by such facility or agency.
   5. (a) The office of children and family services, after consultation
 with the justice center for the protection of people with special needs,
 the office of mental health, the office for people with developmental

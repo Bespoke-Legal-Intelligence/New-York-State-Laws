@@ -478,7 +478,7 @@ firewood.
 operation" shall have the same meaning that such term has in subdivision
 thirteen of section three hundred one of the agriculture and markets
 law.
-  (22) "Prepaid telephone calling service" means the right to
+  (22) (A) "Prepaid telephone calling service" means the right to
 exclusively purchase telecommunication services, that must be paid for
 in advance and enable the origination of one or more intrastate,
 interstate or international telephone calls using an access number (such
@@ -486,13 +486,26 @@ as a toll free network access number) and/or authorization code, whether
 manually or electronically dialed, for which payment to a vendor must be
 made in advance, whether or not that right is represented by the
 transfer by the vendor to the purchaser of an item of tangible personal
-property. In no event shall a credit card constitute a prepaid telephone
-calling service. If the sale or recharge of a prepaid telephone calling
-service does not take place at the vendor's place of business, it shall
-be conclusively determined to take place at the purchaser's shipping
-address or, if there is no item shipped, at the purchaser's billing
-address or the location associated with the purchaser's mobile telephone
-number.
+property. Such term, except with respect to the tax imposed by section
+one hundred eighty-six-e of article nine of this chapter, includes a
+prepaid mobile calling service. In no event shall a credit card
+constitute a prepaid telephone calling service. If the sale or recharge
+of a prepaid telephone calling service does not take place at the
+vendor's place of business, it shall be conclusively determined to take
+place at the purchaser's shipping address or, if there is no item
+shipped, at the purchaser's billing address or the location associated
+with the purchaser's mobile telephone number, or, if the vendor does not
+have the address or the location associated with the customer's mobile
+telephone number, at such address, as approved by the commissioner, that
+reasonably reflects the customer's location at the time of the sale or
+recharge.
+  (B) "Prepaid mobile calling service" means the right to use a
+commercial mobile radio service, whether or not sold with other property
+or services, that must be paid for in advance and is sold for use over a
+specified period of time or in predetermined units or dollars that
+decline with use in a known amount, whether or not that right is
+represented by or includes the transfer to the purchaser of an item of
+tangible personal property.
   (23) Qualified empire zone enterprise. The term "qualified empire zone
 enterprise" shall have the same meaning that such term has in section
 fourteen of this chapter for purposes of this article and article

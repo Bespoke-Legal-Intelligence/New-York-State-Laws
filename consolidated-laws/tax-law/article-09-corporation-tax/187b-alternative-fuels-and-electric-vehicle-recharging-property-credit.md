@@ -28,17 +28,20 @@ eighty-four of this article shall be the excess of the credit allowed by
 this section over the amount of such credit allowable against the tax
 imposed by section one hundred eighty-three of this article.
   * NB Effective January 1, 2018
-  2. Alternative fuel vehicle refueling property and electric vehicle
-recharging property. The credit under this section for alternative fuel
-vehicle refueling and electric vehicle recharging property shall equal
-for each installation of property the lesser of five thousand dollars or
-fifty percent of the cost of any such property:
-  (a) which is located in this state;
-  (b) which constitutes alternative fuel vehicle refueling property or
+  2. (a) Alternative fuel vehicle refueling property and electric
+vehicle recharging property. The credit under this section for
+alternative fuel vehicle refueling and electric vehicle recharging
+property shall equal for each installation of property the lesser of
+five thousand dollars or the product of fifty percent and the cost of
+any such property less any costs paid from the proceeds of grants.
+  (b) To qualify for the credit, the property must:
+  (i) be located in this state;
+  (ii) constitute alternative fuel vehicle refueling property or
 electric vehicle recharging property; and
-  (c) for which none of the cost has been paid for from the proceeds of
-grants, including grants from the New York state energy research and
-development authority or the New York power authority.
+  (iii) not be paid for from the proceeds of grants awarded before
+January first, two thousand fifteen, including grants from the New York
+state energy research and development authority or the New York power
+authority.
   3. Definitions. (a) The term "alternative fuel vehicle refueling
 property" means all of the equipment needed to dispense any fuel at
 least eighty-five percent of the volume of which consists of one or more

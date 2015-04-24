@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 219", "kind": "section", "law_id": "AGM", "location_id": "219", "path": "ARTICLE 17-B › SECTION 219", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/219.md", "title": "Application"} -->
+# Agriculture and Markets Law § 219 — Application
+
+[Agriculture and Markets Law](../README.md) › [Article 17-B — Licensing of Food Salvagers](README.md)
+
+```text
+  § 219. Application. Application for license as a food salvager shall
+be made upon a form prescribed by the commissioner. The applicant shall
+satisfy the commissioner of his or her character and that he or she has
+adequate physical facilities for salvaging food and food products. If so
+satisfied, the commissioner shall issue to the applicant a
+non-transferable license, which will expire on the thirtieth of June of
+the next even numbered year following its issuance. Application for
+renewal of such license for a period of two years shall be made
+biennially, upon a form prescribed by the commissioner and submitted no
+later than thirty days prior to the expiration of the existing license.
+Where a person operates more than one salvage warehouse a separate
+license is required for each location.
+```

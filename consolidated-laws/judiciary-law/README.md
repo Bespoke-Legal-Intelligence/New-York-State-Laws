@@ -8,7 +8,7 @@
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
 | Sections | 522 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 24 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -30,6 +30,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (54 lines)](chapter-text.md)
+
+## Recent changes
+
+- [24 Apr 2015](../../changes/2015/2015-04-24.md): 1 amended
 
 ## Contents
 

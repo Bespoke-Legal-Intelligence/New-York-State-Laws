@@ -1017,9 +1017,10 @@ taxpayer and all other persons, not necessarily related, who have the
 same residence and share its furnishings, facilities and accommodations.
 Such terms shall not include a tenant, subtenant, roomer or boarder who
 is not related to the qualified taxpayer in any degree specified in
-paragraphs one through eight of subsection (a) of section one hundred
-fifty-two of the internal revenue code. Provided, however, no person may
-be a member of more than one household at one time.
+subparagraphs (A) through (G) of paragraph two of subsection (d) of
+section one hundred fifty-two of the internal revenue code. Provided,
+however, no person may be a member of more than one household at one
+time.
   (c) "Household gross income" means the aggregate adjusted gross income
 of all members of the household for the taxable year as reported for
 federal income tax purposes, or which would be reported as adjusted
@@ -1366,9 +1367,10 @@ taxpayer and all other persons, not necessarily related, who have the
 same residence and share its furnishings, facilities and accommodations.
 Such terms shall not include a tenant, subtenant, roomer or boarder who
 is not related to the qualified taxpayer in any degree specified in
-paragraphs one through eight of subsection (a) of section one hundred
-fifty-two of the internal revenue code. Provided, however, no person may
-be a member of more than one household at one time.
+subparagraphs (A) through (G) of paragraph two of subsection (d) of
+section one hundred fifty-two of the internal revenue code. Provided,
+however, no person may be a member of more than one household at one
+time.
   (C) "Household gross income" means the aggregate adjusted gross income
 of all members of the household for the taxable year as reported for
 federal income tax purposes, or which would be reported as adjusted
@@ -1403,15 +1405,16 @@ amount of any other separate category of loss shall not exceed three
 thousand dollars. The aggregate amount of all losses included in
 computing household gross income shall not exceed fifteen thousand
 dollars.
-  (D) "Residence" means a dwelling in this state owned or rented by the
-taxpayer, and so much of the land abutting it, not exceeding one acre,
-as is reasonably necessary for use of the dwelling as a home, and may
-consist of a part of a multi-dwelling or multi-purpose building
-including a cooperative or condominium, and rental units within a single
-dwelling. Residence includes a trailer or mobile home, used exclusively
-for residential purposes and defined as real property pursuant to
-paragraph (g) of subdivision twelve of section one hundred two of the
-real property tax law.
+  (D) "Residence" means a dwelling in this state, in a city with a
+population of over one million, owned or rented by the taxpayer, and so
+much of the land abutting it, not exceeding one acre, as is reasonably
+necessary for use of the dwelling as a home, and may consist of a part
+of a multi-dwelling or multi-purpose building including a cooperative or
+condominium, and rental units within a single dwelling. Residence
+includes a trailer or mobile home, used exclusively for residential
+purposes and defined as real property pursuant to paragraph (g) of
+subdivision twelve of section one hundred two of the real property tax
+law.
   (E) "Qualifying real property taxes" means all real property taxes,
 special ad valorem levies and special assessments, exclusive of
 penalties and interest, levied on the residence of a qualified taxpayer
@@ -2211,8 +2214,8 @@ subsection (qq)                      costs of a qualified film
 and facility redevelopment credit    thirty-five
                                      of section two hundred ten-B
   * NB Repealed December 31, 2021
-* (xxxiii) New York youth works      Amount of credit under
-tax credit                           subdivision thirty-six
+* (xxxiii) Urban youth jobs          Amount of credit under
+program tax credit                   subdivision thirty-six
                                      of section two hundred ten-B
   * NB There are 3 clause (xxxiii)'s
 * (xxxiii) Empire state jobs         Amount of credit under
@@ -2261,6 +2264,9 @@ tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
                                      hundred ten-B
   ** NB Repealed January 1, 2020
+(xlii) Employee training incentive   Amount of credit under
+program credit under                 subdivision fifty of
+subsection (ddd)                     section two hundred ten-B
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3305,17 +3311,21 @@ the provisions of this subsection shall control.
 hereinafter provided, against the tax imposed by this article, for
 alternative fuel vehicle refueling and electric vehicle recharging
 property placed in service during the taxable year.
-  (2) Alternative fuel vehicle refueling property and electric vehicle
-recharging property. The credit under this subsection for alternative
-fuel vehicle refueling property or electric vehicle recharging property
-shall equal for each installation of property the lesser of five
-thousand dollars or fifty percent of the cost of any such property
-  (A) which is located in this state;
-  (B) which constitutes alternative fuel vehicle refueling property or
+  (2) (a) Alternative fuel vehicle refueling property and electric
+vehicle recharging property. The credit under this subsection for
+alternative fuel vehicle refueling property or electric vehicle
+recharging property shall equal for each installation of property the
+lesser of five thousand dollars or the product of fifty percent and the
+cost of any such property less any costs paid from the proceeds of
+grants.
+  (b) To qualify for the credit, the property must:
+  (i) be located in this state;
+  (ii) constitute alternative fuel vehicle refueling property or
 electric vehicle recharging property; and
-  (C) for which none of the cost has been paid for from the proceeds of
-grants, including grants from the New York state energy research and
-development authority or the New York power authority.
+  (iii) not be paid for from the proceeds of grants awarded before
+January first, two thousand fifteen, including grants from the New York
+state energy research and development authority or the New York power
+authority.
   (3) Definitions. (A) The term "alternative fuel vehicle refueling
 property" means all of the equipment needed to dispense any fuel at
 least eighty-five percent of the volume of which consists of one or more
@@ -4348,10 +4358,10 @@ or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
   * NB Repealed December 31, 2021
-  * (tt) New York youth works tax credit.  (1) A taxpayer that has been
-certified by the commissioner of labor as a qualified employer pursuant
-to section twenty-five-a of the labor law shall be allowed a credit
-against the tax imposed by this article equal to (A) five hundred
+  * (tt) Urban youth jobs program tax credit. (1) A taxpayer that has
+been certified by the commissioner of labor as a qualified employer
+pursuant to section twenty-five-a of the labor law shall be allowed a
+credit against the tax imposed by this article equal to (A) five hundred
 dollars per month for up to six months for each qualified employee the
 employer employs in a full-time job or two hundred fifty dollars per
 month for up to six months for each qualified employee the employer
@@ -4380,10 +4390,12 @@ corporation. For purposes of this subsection, the term "qualified
 employee" shall have the same meaning as set forth in subdivision (b) of
 section twenty-five-a of the labor law. The portion of the credit
 described in subparagraph (A) of this paragraph shall be allowed for the
-taxable year in which the wages are paid to the qualified employee, and
-the portion of the credit described in subparagraph (B) of this
-paragraph shall be allowed in the taxable year in which the additional
-six month period ends.
+taxable year in which the wages are paid to the qualified employee, the
+portion of the credit described in subparagraph (B) of this paragraph
+shall be allowed in the taxable year in which the additional six month
+period ends, and the portion of the credit described in subparagraph (C)
+of this paragraph shall be allowed in the taxable year in which the
+additional year after the first year of employment ends.
   (2) If the amount of the credit allowed under this subsection exceeds
 the taxpayer's tax for the taxable year, any amount of credit not
 deductible in that taxable year will be treated as an overpayment of tax
@@ -4487,14 +4499,15 @@ year, the excess will be treated as an overpayment to be credited or
 refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
-  (xx) Real property tax credit for manufacturers. (1) A qualified New
+  (xx) Real property tax credit for manufacturers.  (1) A qualified New
 York manufacturer will be allowed a credit equal to twenty percent of
 the real property tax it paid during the taxable year for real property
 owned by such manufacturer in New York which was principally used during
 the taxable year for manufacturing to the extent not deducted in
-computing federal adjusted gross income. This credit will not be allowed
-if the real property taxes that are the basis for this credit are
-included in the calculation of another credit claimed by the taxpayer.
+computing New York adjusted gross income. This credit will not be
+allowed if the real property taxes that are the basis for this credit
+are included in the calculation of another credit claimed by the
+taxpayer.
   (2)(A) The term qualified New York manufacturer has the same meaning
 as under subparagraph (vi) of paragraph (a) of subdivision one of
 section two hundred ten of this chapter.
@@ -4523,11 +4536,12 @@ satisfied: (I) the tax must be paid by the taxpayer as lessee pursuant
 to explicit requirements in a written lease, and (II) the taxpayer as
 lessee has paid such taxes directly to the taxing authority and has
 received a written receipt for payment of taxes from the taxing
-authority. In the case of a combined group that constitutes a qualified
-New York manufacturer, the conditions in the preceding sentence are
-satisfied if one corporation in the combined group is the lessee and
-another corporation in the combined group makes the payments to the
-taxing authority.
+authority. In the case of a taxpayer that, during the taxable year, is
+principally engaged in the production of goods by farming, agriculture,
+horticulture, floriculture, viticulture, or commercial fishing, the
+taxpayer is eligible if the taxpayer satisfies the conditions in the
+preceding sentence and the taxpayer leases such real property from a
+related or unrelated party.
   (iii) The term real property tax does not include a payment made by
 the taxpayer in connection with an agreement for the payment in lieu of
 taxes on real property, whether such property is owned or leased by the
@@ -4558,8 +4572,8 @@ located in a tax-free NY area approved pursuant to article twenty-one of
 the economic development law shall be allowed a credit equal to the
 excise tax on telecommunication services imposed by section one hundred
 eighty-six-e of this chapter and passed through to such business during
-the taxable year to the extent not otherwise deducted in computing
-federal adjusted gross income. This credit may be claimed only where any
+the taxable year to the extent not otherwise deducted in computing New
+York adjusted gross income. This credit may be claimed only where any
 tax imposed by such section one hundred eighty-six-e has been separately
 stated on a bill from the provider of telecommunication services and
 paid by such taxpayer with respect to such services rendered within a
@@ -4906,6 +4920,32 @@ and fifty cents, in which case the amount of the credit shall be rounded
 up to two dollars.
   (7) No credit shall be allowed under this subsection in relation to
 property located within a city with a population of one million or more.
+  (ddd) Employee training incentive program tax credit. (1) A taxpayer
+that has been approved by the commissioner of economic development to
+participate in the employee training incentive program and has been
+issued a certificate of tax credit pursuant to section four hundred
+forty-three of the economic development law shall be allowed to claim a
+credit against the tax imposed by this article. The credit shall equal
+fifty percent of a taxpayer's eligible training costs, up to a credit of
+ten thousand dollars per employee completing eligible training pursuant
+to paragraph (a) of subdivision three of section four hundred forty-one
+of the economic development law. The credit shall equal fifty percent of
+the stipend paid to an intern, up to a credit of three thousand dollars
+per intern completing eligible training pursuant to paragraph (b) of
+subdivision three of section four hundred forty-one of the economic
+development law. In no event shall a taxpayer be allowed a credit
+greater than the amount listed on the certificate of tax credit issued
+by the commissioner of economic development. In the case of a taxpayer
+who is a partner in a partnership, member of a limited liability company
+or shareholder in an S corporation, the taxpayer shall be allowed its
+pro rata share of the credit earned by the partnership, limited
+liability company or S corporation. The credit will be allowed in the
+taxable year in which the eligible training is completed.
+  (2) If the amount of the credit allowed under this subsection for any
+taxable year exceeds the taxpayer's tax for the taxable year, the excess
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, no interest will be paid thereon.
   * (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,

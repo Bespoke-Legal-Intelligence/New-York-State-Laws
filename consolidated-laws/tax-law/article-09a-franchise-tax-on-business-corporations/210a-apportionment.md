@@ -4,17 +4,20 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 210-A. Apportionment. 1. General. Business income and capital shall
+  § 210-A. Apportionment.  1. General. Business income and capital shall
 be apportioned to the state by the apportionment factor determined
-pursuant to this section. The apportionment factor is a fraction,
+pursuant to this section.  The apportionment factor is a fraction,
 determined by including only those receipts, net income, net gains, and
 other items described in this section that are included in the
-computation of the taxpayer's business income for the taxable year. The
-numerator of the apportionment fraction shall be equal to the sum of all
-the amounts required to be included in the numerator pursuant to the
-provisions of this section and the denominator of the apportionment
-fraction shall be equal to the sum of all the amounts required to be
-included in the denominator pursuant to the provisions of this section.
+computation of the taxpayer's business income (determined without regard
+to the modification provided in subparagraph nineteen of paragraph (a)
+of subdivision nine of section two hundred eight of this article) for
+the taxable year. The numerator of the apportionment fraction shall be
+equal to the sum of all the amounts required to be included in the
+numerator pursuant to the provisions of this section and the denominator
+of the apportionment fraction shall be equal to the sum of all the
+amounts required to be included in the denominator pursuant to the
+provisions of this section.
   2. Sales of tangible personal property, electricity, and real
 property.  (a) Receipts from sales of tangible personal property where
 shipments are made to points within the state or the destination of the
@@ -29,10 +32,10 @@ Receipts from sales of electricity delivered to points within and
 without the state shall be included in the denominator of the
 apportionment fraction.
   (c) Receipts from sales of tangible personal property and electricity
-that are traded as commodities as described in section 475 of the
-internal revenue code are included in the apportionment fraction in
-accordance with clause (I) of subparagraph two of paragraph (a) of
-subdivision five of this section.
+that are traded as commodities, as the term "commodity" is defined in
+section 475 of the internal revenue code, are included in the
+apportionment fraction in accordance with clause (I) of subparagraph two
+of paragraph (a) of subdivision five of this section.
   (d) Net gains (not less than zero) from the sales of real property
 located within the state shall be included in the numerator of the
 apportionment fraction. Net gains (not less than zero) from the sales of
@@ -101,30 +104,50 @@ for the preceding taxable year for such digital product; or
   (4) The apportionment fraction in the current taxable year for those
 digital products that can be sourced using the hierarchy of sourcing
 methods in subparagraphs one and two of this paragraph.
-  5. Financial transactions. (a) Financial instruments. A financial
-instrument is a "qualified financial instrument" if it is marked to
-market under section 475 or section 1256 of the internal revenue code,
-provided that loans secured by real property shall not be qualified
-financial instruments. A financial instrument is a "nonqualified
-financial instrument" if it is not a qualified financial instrument.
+  5. Financial transactions. (a) Financial instruments.  A financial
+instrument is a "nonqualified financial instrument" if it is not a
+qualified financial instrument. A qualified financial instrument means a
+financial instrument that is of a type described in any of clauses (A),
+(B), (C), (D), (G), (H) or (I) of subparagraph two of this paragraph and
+that has been marked to market in the taxable year by the taxpayer under
+section 475 or section 1256 of the internal revenue code.  Further, if
+the taxpayer has in the taxable year marked to market a financial
+instrument of the type described in any of the clauses (A), (B), (C),
+(D), (G), (H) or (I) of subparagraph two of this paragraph, then any
+financial instrument within that type described in the above specified
+clause or clauses that has not been marked to market by the taxpayer
+under section 475 or section 1256 of the internal revenue code is a
+qualified financial instrument in the taxable year. Notwithstanding the
+two preceding sentences, (i) a loan secured by real property shall not
+be a qualified financial instrument, (ii) if the only loans that are
+marked to market by the taxpayer under section 475 or section 1256 of
+the internal revenue code are loans secured by real property, then no
+loans shall be qualified financial instruments, and (iii) stock that is
+investment capital as defined in paragraph (a) of subdivision five of
+section two hundred eight of this article shall not be a qualified
+financial instrument. If a corporation is included in a combined report,
+the definition of qualified financial instrument shall be determined on
+a combined basis.
   (1) Fixed percentage method for qualified financial instruments. In
 determining the inclusion of receipts and net gains from qualified
 financial instruments in the apportionment fraction, taxpayers may elect
 to use the fixed percentage method described in this subparagraph for
 qualified financial instruments. The election is irrevocable, applies to
 all qualified financial instruments, and must be made on an annual basis
-on the taxpayer's original, timely filed return. If the taxpayer elects
-the fixed percentage method, then all income, gain or loss, from
-qualified financial instruments constitutes business income, gain or
-loss. If the taxpayer does not elect to use the fixed percentage method,
-then receipts and net gains are included in the apportionment fraction
-in accordance with the customer sourcing method described in
-subparagraph two of this paragraph. Under the fixed percentage method,
-eight percent of all net income (not less than zero) from qualified
-financial instruments is included in the numerator of the apportionment
-fraction. All net income (not less than zero) from qualified financial
-instruments is included in the denominator of the apportionment
-fraction.
+on the taxpayer's original, timely filed return, determined with regard
+to extensions of time for filing. If the taxpayer elects the fixed
+percentage method, then all income, gain or loss, including marked to
+market net gains as defined in clause (J) of subparagraph two of this
+paragraph, from qualified financial instruments constitutes business
+income, gain or loss. If the taxpayer does not elect to use the fixed
+percentage method, then receipts and net gains are included in the
+apportionment fraction in accordance with the customer sourcing method
+described in subparagraph two of this paragraph. Under the fixed
+percentage method, eight percent of all net income (not less than zero)
+from qualified financial instruments is included in the numerator of the
+apportionment fraction. All net income (not less than zero) from
+qualified financial instruments is included in the denominator of the
+apportionment fraction.
   (2) Customer sourcing method. Receipts and net gains from qualified
 financial instruments, in cases where the taxpayer did not elect to use
 the fixed percentage method described in subparagraph one of this
@@ -165,13 +188,17 @@ sale of loans not secured by real property included in the numerator of
 the apportionment fraction is determined by multiplying the net gains by
 a fraction, the numerator of which is the amount of gross proceeds from
 sales of loans not secured by real property to purchasers located within
-the state and the denominator of which is the amount of gross receipts
+the state and the denominator of which is the amount of gross proceeds
 from sales of loans not secured by real property to purchasers located
 within and without the state. Gross proceeds shall be determined after
 the deduction of any cost incurred to acquire the loans but shall not be
 less than zero. Net gains (not less than zero) from sales of loans not
 secured by real property are included in the denominator of the
 apportionment fraction.
+  (v) For purposes of this subdivision, a loan is secured by real
+property if fifty percent or more of the value of the collateral used to
+secure the loan, when valued at fair market value as of the time the
+loan was entered into, consists of real property.
   (B) Federal, state, and municipal debt. Receipts constituting interest
 and net gains from sales of debt instruments issued by the United
 States, any state, or political subdivision of a state shall not be
@@ -282,21 +309,63 @@ other income (not less than zero) from other financial instruments are
 included in the denominator of the apportionment fraction.
   (I) Physical commodities. Net income (not less than zero) from sales
 of physical commodities are included in the numerator of the
-apportionment fraction as provided in this subparagraph. The amount of
-net income from sales of physical commodities included in the numerator
-of the apportionment fraction is determined by multiplying the net
-income from sales of physical commodities by a fraction, the numerator
-of which is the amount of receipts from sales of physical commodities
-actually delivered to points within the state or, if there is no actual
-delivery of the physical commodity, sold to purchasers located in the
-state, and the denominator of which is the amount of receipts from sales
-of physical commodities actually delivered to points within and without
-the state or sold to purchasers located within and without the state.
-Net income (not less that zero) from sales of physical commodities is
-included in the denominator of the apportionment fraction. Net income
-(not less than zero) from sales of physical commodities is determined
-after the deduction of the cost to acquire or produce the physical
-commodities.
+apportionment fraction as provided in this clause. The amount of net
+income from sales of physical commodities included in the numerator of
+the apportionment fraction is determined by multiplying the net income
+from sales of physical commodities by a fraction, the numerator of which
+is the amount of receipts from sales of physical commodities actually
+delivered to points within the state or, if there is no actual delivery
+of the physical commodity, sold to purchasers located in the state, and
+the denominator of which is the amount of receipts from sales of
+physical commodities actually delivered to points within and without the
+state or, if there is no actual delivery of the physical commodity, sold
+to purchasers located within and without the state. Net income (not less
+than zero) from sales of physical commodities is included in the
+denominator of the apportionment fraction. Net income (not less than
+zero) from sales of physical commodities is determined after the
+deduction of the cost to acquire or produce the physical commodities.
+  (J) Marked to market net gains. (i) For purposes of this subdivision,
+"marked to market" means that a financial instrument is, under section
+475 or section 1256 of the internal revenue code, treated by the
+taxpayer as sold for its fair market value on the last business day of
+the taxpayer's taxable year. "Marked to market gain or loss" means the
+gain or loss recognized by the taxpayer under section 475 or section
+1256 of the internal revenue code because the financial instrument is
+treated as sold for its fair market value on the last business day of
+the taxpayer's taxable year.
+  (ii) The amount of marked to market net gains (not less than zero)
+from each type of financial instrument that is marked to market included
+in the numerator of the apportionment fraction is determined by
+multiplying the marked to market net gains (but not less than zero) from
+such type of the financial instrument by a fraction, the numerator of
+which is the numerator of the apportionment fraction for the net gains
+from that type of financial instrument determined under the applicable
+clause of this subparagraph and the denominator of which is the
+denominator of the apportionment fraction for the net gains for that
+type of financial instrument determined under the applicable clause of
+this subparagraph.  Marked to market net gains (not less than zero) from
+financial instruments for which the numerator of the apportionment
+fraction is determined under the immediately preceding sentence are
+included in the denominator of the apportionment fraction.
+  (iii) If the type of financial instrument that is marked to market is
+not otherwise sourced by the taxpayer under this subparagraph, or if the
+taxpayer has a net loss from the sales of that type of financial
+instrument under the applicable clause of this subparagraph, the amount
+of marked to market net gains (not less than zero) from that type of
+financial instrument included in the numerator of the apportionment
+fraction is determined by multiplying the marked to market net gains
+(but not less than zero) from that type of financial instrument by a
+fraction, the numerator of which is the sum of the amount of receipts
+included in the numerator of the apportionment fraction under clauses
+(A), (B), (C), (D), (E), (F), (G), (H) and (I) of this subparagraph and
+subclause (ii) of this clause, and the denominator of which is the sum
+of the amount of receipts included in the denominator of the
+apportionment fraction under clauses (A), (B), (C), (D), (E), (F), (G),
+(H) and (I) and subclause (ii) of this clause. Marked to market net
+gains (not less than zero) for which the amount to be included in the
+numerator of the apportionment fraction is determined under the
+immediately preceding sentence are included in the denominator of the
+apportionment fraction.
   (b) Other receipts from broker or dealer activities. Receipts of a
 registered securities broker or dealer from securities or commodities
 broker or dealer activities described in this paragraph shall be deemed
@@ -480,12 +549,11 @@ company.
   (e) For purposes of this subdivision, a taxpayer shall use the
 following hierarchy to determine the commercial domicile of a business
 entity, based on the information known to the taxpayer or information
-that would be known upon reasonable inquiry: (i) the location of the
-treasury function of the business entity; (ii) the seat of management
-and control of the business entity; and (iii) the billing address of the
+that would be known upon reasonable inquiry: (i) the seat of management
+and control of the business entity; and (ii) the billing address of the
 business entity in the taxpayer's records. The taxpayer must exercise
-due diligence before rejecting a method in this hierarchy and proceeding
-to the next method.
+due diligence before rejecting the first method in this hierarchy and
+proceeding to the next method.
   (f) For purposes of this subdivision, the term "registered securities
 broker or dealer" means a broker or dealer registered as such by the
 securities and exchange commission or a broker or dealer registered as
@@ -506,6 +574,18 @@ the period covered by the taxpayer's report and the denominator of which
 is the miles in such business within and without the state during such
 period. Receipts from the conduct of the railroad business or a trucking
 business are included in the denominator of the apportionment fraction.
+  6-a. Receipts from the operation of vessels. Receipts from the
+operation of vessels are included in the numerator of the apportionment
+fraction as follows. The amount of receipts from the operation of
+vessels included in the numerator of the apportionment fraction is
+determined by multiplying the amount of such receipts by a fraction, the
+numerator of which is the aggregate number of working days of the
+vessels owned or leased by the taxpayer in territorial waters of the
+state during the period covered by the taxpayer's report and the
+denominator of which is the aggregate number of working days of all
+vessels owned or leased by the taxpayer during such period. Receipts
+from the operation of vessels are included in the denominator of the
+apportionment fraction.
   7. Receipts from aviation services. (a) Air freight forwarding.
 Receipts of a taxpayer from the activity of air freight forwarding
 acting as principal and like indirect air carrier receipts arising from
@@ -519,10 +599,11 @@ without the state, shall be included in the denominator of the
 apportionment fraction.
   (b) Other aviation services. (1)(A) The portion of receipts of a
 taxpayer from aviation services (other than services described in
-paragraph (a) of this subdivision) to be included in the numerator of
-the apportionment fraction shall be determined by multiplying its
-receipts from such aviation services by a percentage which is equal to
-the arithmetic average of the following three percentages:
+paragraph (a) of this subdivision, but including the receipts of a
+qualified air freight forwarder) to be included in the numerator of the
+apportionment fraction shall be determined by multiplying its receipts
+from such aviation services by a percentage which is equal to the
+arithmetic average of the following three percentages:
   (i) the percentage determined by dividing sixty percent of the
 aircraft arrivals and departures within this state by the taxpayer
 during the period covered by its report by the total aircraft arrivals
@@ -564,6 +645,17 @@ at airports;
   (2) All such receipts of a taxpayer from aviation services described
 in this paragraph are included in the denominator of the apportionment
 fraction.
+  (3) A corporation is a qualified air freight forwarder with respect to
+another corporation:
+  (A) if it owns or controls either directly or indirectly all of the
+capital stock of such other corporation, or if all of its capital stock
+is owned or controlled either directly or indirectly by such other
+corporation, or if all of the capital stock of both corporations is
+owned or controlled either directly or indirectly by the same interests,
+  (B) if it is principally engaged in the business of air freight
+forwarding, and
+  (C) if its air freight forwarding business is carried on principally
+with the airline or airlines operated by such other corporation.
   8. Receipts from sales of advertising. (a) The amount of receipts from
 sales of advertising in newspapers or periodicals included in the
 numerator of the apportionment fraction is determined by multiplying the
@@ -574,13 +666,13 @@ periodicals delivered to points within and without the state. The total
 of such receipts from sales of advertising in newspapers or periodicals
 is included in the denominator of the apportionment fraction.
   (b) The amount of receipts from sales of advertising on television or
-radio included in the apportionment fraction is determined by
-multiplying the total of such receipts by a fraction, the numerator of
-which is the number of viewers or listeners within the state and the
-denominator of which is the number of viewers or listeners within and
-without the state. The total of such receipts from sales of advertising
-on television and radio is included in the denominator of the
-apportionment fraction.
+radio included in the numerator of the apportionment fraction is
+determined by multiplying the total of such receipts by a fraction, the
+numerator of which is the number of viewers or listeners within the
+state and the denominator of which is the number of viewers or listeners
+within and without the state. The total of such receipts from sales of
+advertising on television and radio is included in the denominator of
+the apportionment fraction.
   (c) The amount of receipts from sales of advertising not described in
 paragraph (a) or (b) of this subdivision that is furnished, provided or
 delivered to, or accessed by the viewer or listener through the use of

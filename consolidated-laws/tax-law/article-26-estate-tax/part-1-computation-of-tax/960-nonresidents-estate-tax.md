@@ -17,7 +17,8 @@ the same as the tax that would be due, if the decedent had died a
 resident, under subsection (a) of section nine hundred fifty-two, except
 that for purposes of computing the tax under subsection (b) of section
 nine hundred fifty-two, "New York taxable estate" shall not include the
-value of any intangible personal property otherwise includible in the
+value of, or any deduction allowable under the Internal Revenue Code
+related to, any intangible personal property otherwise includible in the
 deceased individual's New York gross estate, and shall not include the
 amount of any gift unless such gift consists of real or tangible
 personal property having an actual situs in New York state or intangible

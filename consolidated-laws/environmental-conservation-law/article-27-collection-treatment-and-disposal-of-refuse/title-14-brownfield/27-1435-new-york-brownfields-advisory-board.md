@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 14 — Brownfield Cleanup Program](README.md)
 
 ```text
-§ 27-1435. New York brownfields advisory board.
+* § 27-1435. New York brownfields advisory board.
   1. There is hereby established within the department a New York
 brownfields advisory board. The board shall consist of fifteen members
 and shall include the commissioner, the commissioner of health, the
@@ -69,4 +69,8 @@ the future availability of funding.
   8. Staff services, including recording of board proceedings, shall be
 performed by personnel of the department, or such other departments or
 agencies as the chairperson deems appropriate or desirable.
+  * NB Repealed July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
 ```

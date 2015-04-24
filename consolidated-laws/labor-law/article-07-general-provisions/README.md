@@ -27,13 +27,13 @@
 - [§ 202-J Leave of absence for blood donation granted to employees](202j-leave-of-absence-for-blood-donation-granted-to-employees.md)
 - [§ 202-K Protection of persons employed in the broadcast industry](202k-protection-of-persons-employed-in-the-broadcast-industry.md)
 - [§ 202-L Leave of absence for volunteer emergency responders](202l-leave-of-absence-for-volunteer-emergency-responders.md)
+- [§ 202-M Healthcare professionals who volunteer to fight the Ebola virus disease overseas](202m-healthcare-professionals-who-volunteer-to-fight-the-ebola-virus-disease-overseas.md)
 - [§ 203 Washrooms, washing facilities and waterclosets for elevator employees](203-washrooms-washing-facilities-and-waterclosets-for-elevator-employees.md)
 - [§ 203-A Seats in certain passenger elevators or relief for the operator](203a-seats-in-certain-passenger-elevators-or-relief-for-the-operator.md)
 - [§ 203-B Seats for female employees](203b-seats-for-female-employees.md)
 - [§ 203-C Employee privacy protection](203c-employee-privacy-protection.md)
 - [§ 203-D Employee personal identifying information](203d-employee-personal-identifying-information.md)
 - [§ 204 Inspection of boilers; enforcement; fees; identification; exceptions](204-inspection-of-boilers-enforcement-fees-identification-exceptions.md)
-- [§ 204-A Examination of plans; fees](204a-examination-of-plans-fees.md)
 - [§ 204-B Refunds](204b-refunds.md)
 - [§ 205 Prohibition against eating meals in certain workrooms](205-prohibition-against-eating-meals-in-certain-workrooms.md)
 - [§ 206 Prevention of personal injuries to persons engaged in tree trimming](206-prevention-of-personal-injuries-to-persons-engaged-in-tree-trimming.md)
@@ -109,6 +109,8 @@ Section 200.   General duty to protect health and safety of employees;
         202-j. Leave of absence for blood donation granted to employees.
         202-k. Protection of persons employed in the broadcast industry.
         202-l. Leave of absence for volunteer emergency responders.
+        202-m. Healthcare professionals who volunteer to fight the Ebola
+                 virus disease overseas.
         203.   Washrooms, washing facilities and waterclosets for
                  elevator employees.
         203-a. Seats in certain passenger elevators or relief for the
@@ -118,7 +120,6 @@ Section 200.   General duty to protect health and safety of employees;
         203-d. Employee personal identifying information.
         204.   Inspection of boilers; enforcement; fees; identification;
                  exceptions.
-        204-a. Examination of plans; fees.
         204-b. Refunds.
         205.   Prohibition against eating meals in certain workrooms.
         206.   Prevention of personal injuries to persons engaged in

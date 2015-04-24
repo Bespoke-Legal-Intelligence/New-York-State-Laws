@@ -52,6 +52,7 @@
 - [§ 9-T Unsolicited mail-loan checks](9t-unsolicited-mail-loan-checks.md)
 - [§ 9-U ATM transactions by persons using foreign bank accounts](9u-atm-transactions-by-persons-using-foreign-bank-accounts.md)
 - [§ 9-V Savings promotion prize giveaway](9v-savings-promotion-prize-giveaway.md)
+- [§ 9-W Standard financial aid award letter](9w-standard-financial-aid-award-letter.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -128,6 +129,7 @@ Section 1.     Short title.
         9-t.   Unsolicited mail-loan checks.
         9-u.   ATM transactions by persons using foreign bank accounts.
         9-v.   Savings promotion prize giveaway.
+        9-w.   Standard financial aid award letter.
 ```
 
 </details>

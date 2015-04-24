@@ -58,36 +58,43 @@ guilty of a misdemeanor.
   2. (a) Notwithstanding any other provision of law to the contrary, and
 subject to rules and regulations of the division of criminal justice
 services, an authorized agency, as defined in subdivision ten of section
-three hundred seventy-one of this article, shall perform a criminal
+three hundred seventy-one of this title, shall perform a criminal
 history record check with the division of criminal justice services
 regarding any prospective foster parent or prospective adoptive parent
+or, a prospective successor guardian in accordance with paragraph (d) of
+subdivision two of section four hundred fifty-eight-b of this article,
 and any person over the age of eighteen who is currently residing in the
-home of such prospective foster parent or prospective adoptive parent
-before the foster parent or adoptive parent is finally certified or
-approved for the placement of a child. Persons who are over the age of
-eighteen residing in the home of a certified or approved foster parent
-and who previously did not have a criminal history record check
-performed in accordance with this subdivision shall have such a criminal
-history record check performed when the foster parent applies for
-renewal of his or her certification or approval as a foster parent. The
-division of criminal justice services is authorized to submit
-fingerprints to the federal bureau of investigation for the purpose of a
-nationwide criminal history record check pursuant to and consistent with
-public law 92-544 to determine whether such prospective foster parent,
-prospective adoptive parent or person over the age of eighteen currently
-residing in the home of such prospective parent has a criminal history
-in any state or federal jurisdiction. The provisions and procedures of
-this section, including the criminal history record check of persons
-over the age of eighteen who are currently residing in the home of the
-foster parent, also shall apply to prospective foster parents certified
-by the office of children and family services and to family homes
-certified by any other state agency where such family homes care for
-foster children in accordance with a memorandum of understanding with
-the office of children and family services.
+home of such prospective foster parent, prospective adoptive parent or
+prospective successor guardian. Provided, however, that for prospective
+foster parents and prospective adoptive parents and other persons over
+the age of eighteen in their homes, the checks required by this
+paragraph shall be conducted before the foster parent or adoptive parent
+is finally certified or approved for the placement of a child. Persons
+who are over the age of eighteen residing in the home of a certified or
+approved foster parent and who previously did not have a criminal
+history record check performed in accordance with this subdivision shall
+have such a criminal history record check performed when the foster
+parent applies for renewal of his or her certification or approval as a
+foster parent. The division of criminal justice services is authorized
+to submit fingerprints to the federal bureau of investigation for the
+purpose of a nationwide criminal history record check pursuant to and
+consistent with public law 92-544 to determine whether such prospective
+foster parent, prospective adoptive parent, prospective successor
+guardian or person over the age of eighteen currently residing in the
+home of such prospective parent or guardian has a criminal history in
+any state or federal jurisdiction. The provisions and procedures of this
+section, including the criminal history record check of persons over the
+age of eighteen who are currently residing in the home of the foster
+parent, also shall apply to prospective foster parents certified by the
+office of children and family services and to family homes certified by
+any other state agency where such family homes care for foster children
+in accordance with a memorandum of understanding with the office of
+children and family services.
   (b) Every authorized agency shall obtain a set of the prospective
-foster parent or prospective adoptive parent's fingerprints and those of
-any person over the age of eighteen who currently resides in the home of
-such prospective foster parent or prospective adoptive parent, and such
+foster parent, prospective adoptive parent or prospective successor
+guardian's fingerprints and those of any person over the age of eighteen
+who currently resides in the home of such prospective foster parent,
+prospective adoptive parent or prospective successor guardian, and such
 other information as is required by the office of children and family
 services and the division of criminal justice services. The authorized
 agency shall provide to the applicant blank fingerprint cards and a
@@ -101,17 +108,19 @@ the executive law to the division of criminal justice services for its
 full search and retain processing. Notwithstanding any other provision
 of law to the contrary, the processing fee shall be submitted by the
 office of children and family services and no part thereof shall be
-charged to the prospective foster parent or prospective adoptive parent
-or any person over the age of eighteen who currently resides in the home
-of such prospective foster parent or prospective adoptive parent who
+charged to the prospective foster parent, prospective adoptive parent,
+prospective successor guardian or any person over the age of eighteen
+who currently resides in the home of such prospective foster parent,
+prospective adoptive parent or prospective successor guardian who
 submitted a fingerprint card pursuant to this subdivision.
   (c) The division of criminal justice services shall promptly provide
 to the office of children and family services a criminal history record,
-if any, with respect to the prospective foster parent or prospective
-adoptive parent and any other person over the age of eighteen who
-resides in the home of the prospective foster parent or prospective
-adoptive parent, or a statement that the individual has no criminal
-history record.
+if any, with respect to the prospective foster parent, prospective
+adoptive parent or prospective successor guardian and any other person
+over the age of eighteen who resides in the home of the prospective
+foster parent, prospective adoptive parent or prospective successor
+guardian, or a statement that the individual has no criminal history
+record.
   (d) Notwithstanding any other provision of law to the contrary, the
 office of children and family services, upon receipt of a criminal
 history record from the division of criminal justice services, may
@@ -126,9 +135,14 @@ family services shall promptly notify the authorized agency or other
 state agency that:
   (1) Notwithstanding any other provision of law to the contrary, an
 application for certification or approval of a prospective foster parent
-or prospective adoptive parent shall be denied where a criminal history
-record of the prospective foster parent or prospective adoptive parent
-reveals a conviction for:
+or prospective adoptive parent shall be denied and, in the event of
+death or incapacity of a relative guardian, an agreement to provide
+payments to a prospective successor guardian pursuant to title ten of
+this article shall not be approved pursuant to subparagraph (ii) of
+paragraph (b) of subdivision five of section four hundred fifty-eight-b
+of this article, as applicable, where a criminal history record of the
+prospective foster parent, prospective adoptive parent or prospective
+successor guardian, as applicable, reveals a conviction for:
   (A) a felony conviction at any time involving: (i) child abuse or
 neglect; (ii) spousal abuse; (iii) a crime against a child, including
 child pornography; or (iv) a crime involving violence, including rape,
@@ -138,9 +152,13 @@ assault or battery; or
 assault, battery, or a drug-related offense; or
   (2) Notwithstanding any other provision of law to the contrary, a
 final determination of an application for certification or approval of a
-prospective foster parent or prospective adoptive parent shall be held
-in abeyance whenever the criminal history record of the prospective
-foster parent or prospective adoptive parent reveals:
+prospective foster parent or prospective adoptive parent and, in
+relation to prospective successor guardians, approval pursuant to
+subparagraph (ii) of paragraph (b) of subdivision five of section four
+hundred fifty-eight-b of this article shall be held in abeyance whenever
+the criminal history record of the prospective foster parent,
+prospective adoptive parent or prospective successor guardian, as
+applicable, reveals:
   (A) a charge for a crime set forth in subparagraph one of this
 paragraph which has not been finally resolved; or
   (B) a felony conviction that may be for a crime set forth in
@@ -149,17 +167,21 @@ with a determination of such application, in a manner consistent with
 this subdivision, only upon receiving subsequent notification from the
 office of children and family services regarding the status of such
 charge or the nature of such conviction; or
-  (3) an application for certification or approval of a prospective
-foster parent or prospective adoptive parent may, consistent with the
-provisions of article twenty-three-A of the correction law, be denied
-where:
-  (A) a criminal history record of the prospective foster parent or
-prospective adoptive parent reveals a charge or a conviction of a crime
-other than one set forth in subparagraph one of this paragraph; or
+  (3) consistent with the provisions of article twenty-three-A of the
+correction law, an application for certification or approval of a
+prospective foster parent or prospective adoptive parent may be denied,
+an agreement to provide payments to a prospective successor guardian
+pursuant to title ten of this article may not be approved pursuant to
+subparagraph (ii) of paragraph (b) of subdivision five of section four
+hundred fifty-eight-b of this article, as applicable, where:
+  (A) a criminal history record of the prospective foster parent,
+prospective adoptive parent or prospective successor guardian reveals a
+charge or a conviction of a crime other than one set forth in
+subparagraph one of this paragraph; or
   (B) a criminal history record of any other person over the age of
-eighteen who resides in the home of the prospective foster parent or
-prospective adoptive parent reveals a charge or a conviction of any
-crime; or
+eighteen who resides in the home of the prospective foster parent,
+prospective adoptive parent or prospective successor guardian reveals a
+charge or a conviction of any crime; or
   (4) Notwithstanding any other provision of law to the contrary, an
 application for renewal of the certification or approval of a foster
 parent submitted on or after October first, two thousand eight shall be
@@ -171,17 +193,19 @@ certification or approval of a foster parent, or the approval of an
 adoptive parent who has not completed the adoption process, shall be
 revoked based on the conviction of the foster parent or the adoptive
 parent of a crime set forth in subparagraph one of this paragraph; or
-  (6) the prospective foster parent or prospective adoptive parent and
-any person over the age of eighteen who is residing in the home of the
-prospective foster parent or prospective adoptive parent has no criminal
-history record.
+  (6) the prospective foster parent, prospective adoptive parent or
+prospective successor guardian and any person over the age of eighteen
+who is residing in the home of the prospective foster parent,
+prospective adoptive parent or prospective successor guardian has no
+criminal history record.
   (f) Except as otherwise set forth in this paragraph, any notification
 by the office of children and family services pursuant to paragraph (e)
 of this subdivision shall include a summary of the criminal history
 record provided by the division of criminal justice services, including,
 but not limited to, the specific crime or crimes for which the
-prospective foster or adoptive parent or parents or any adults over the
-age of eighteen living in the home have been charged or convicted, as
+prospective foster parent or parents, adoptive parent or parents or
+prospective successor guardian or guardians or any adults over the age
+of eighteen living in the home have been charged or convicted, as
 applicable. When responding to an inquiry from a voluntary authorized
 agency or other non-public agency with respect to the results of a
 national criminal history check performed by the federal bureau of
@@ -191,21 +215,22 @@ category or categories of crime or crimes and shall not provide the
 voluntary authorized agency or other non-public agency with the specific
 crime or crimes absent the written consent of the person for whom the
 national criminal history check was performed.
-  (g) When an authorized agency has denied an application pursuant to
-paragraph (e) of this subdivision, the authorized agency shall provide
-to the applicant a written statement setting forth the reasons for such
-denial, including, as authorized by paragraph (f) of this subdivision,
-the summary of the criminal history record provided to the authorized
-agency by the office of children and family services. The authorized
-agency shall also provide a description of the division of criminal
-justice services' record review process and any remedial processes
-provided by the office of children and family services to any
-prospective foster parent or prospective adoptive parent. If the
-applicant is disqualified under item (ii) of clause (A) of subparagraph
-one of paragraph (e) of this subdivision, then the applicant may apply
-for relief from the mandatory disqualification based on the grounds that
-the offense was not spousal abuse as that term is defined in paragraph
-(j) of this subdivision.
+  (g) When an authorized agency has denied an application or approval in
+accordance with the provisions of paragraph (e) of this subdivision, the
+authorized agency shall provide to the applicant a written statement
+setting forth the reasons for such denial, including, as authorized by
+paragraph (f) of this subdivision, the summary of the criminal history
+record provided to the authorized agency by the office of children and
+family services. The authorized agency shall also provide a description
+of the division of criminal justice services' record review process and
+any remedial processes provided by the office of children and family
+services to any prospective foster parent, prospective adoptive parent
+or prospective successor guardian. If the applicant is disqualified
+under item (ii) of clause (A) of subparagraph one of paragraph (e) of
+this subdivision, then the applicant may apply for relief from the
+mandatory disqualification based on the grounds that the offense was not
+spousal abuse as that term is defined in paragraph (j) of this
+subdivision.
   (h) Where a criminal history record of the certified or approved
 foster parent, prospective adoptive parent or of any other person over
 the age of eighteen who resides in the home of the certified or approved
@@ -235,21 +260,28 @@ or other state agency referenced in paragraph (a) of this subdivision
 from disclosing criminal history information to any administrative or
 judicial proceeding relating to the denial or revocation of a
 certification or approval of a foster parent or an adoptive parent or
-the removal of the foster child from the home. Where there is a pending
-court case, the authorized agency which received the criminal history
-record summary from the office of children and family services, shall
-provide a copy of such summary to the family court or surrogate's court.
+the removal of the foster child from the home or the failure to approve
+a prospective successor guardian pursuant to subparagraph (ii) of
+paragraph (b) of subdivision five of section four hundred fifty-eight-b
+of this article or the termination of an agreement for payments pursuant
+to title ten of this article that is made in accordance with paragraph
+(h) of subdivision four of section four hundred fifty-eight-b of this
+article. Where there is a pending court case, the authorized agency
+which received the criminal history record summary from the office of
+children and family services, shall provide a copy of such summary to
+the family court or surrogate's court.
   (j) For the purposes of this subdivision "spousal abuse" is an offense
 defined in section 120.05, 120.10, 121.12 or 121.13 of the penal law
 where the victim of such offense was the defendant's spouse; provided,
 however, spousal abuse shall not include a crime in which the
-prospective foster parent or prospective adoptive parent, who was the
-defendant, has received notice pursuant to paragraph (g) of this
-subdivision and the office of children and family services finds after a
-fair hearing held pursuant to section twenty-two of this chapter, that
-he or she was the victim of physical, sexual or psychological abuse by
-the victim of such offense and such abuse was a factor in causing the
-prospective foster parent or prospective adoptive parent to commit such
+prospective foster parent, prospective adoptive parent or prospective
+successor guardian, who was the defendant, has received notice pursuant
+to paragraph (g) of this subdivision and the office of children and
+family services finds after a fair hearing held pursuant to section
+twenty-two of this chapter, that he or she was the victim of physical,
+sexual or psychological abuse by the victim of such offense and such
+abuse was a factor in causing the prospective foster parent, prospective
+adoptive parent or prospective successor guardian to commit such
 offense.
   (k) The office of children and family services shall inform the
 division of criminal justice services when a person is no longer

@@ -27,8 +27,8 @@ average value of the business's real and tangible personal property,
 whether owned or rented to it, within the state during such period;
 provided that the term "value of the business's real and tangible
 personal property" shall have the same meaning as such term has in
-subparagraph one of paragraph (a) of subdivision three of section two
-hundred ten of this chapter; and
+paragraph (a) of subdivision two of section two hundred nine-B of this
+chapter; and
   (2) ascertaining the percentage that the total wages, salaries and
 other personal service compensation, similarly computed, during such
 period of employees, except general executive officers, employed at the
@@ -80,29 +80,51 @@ determined as if any of the partners was a non-resident.
   (ii) For purposes of article nine-A of this chapter, the term
 "partner's income from the partnership" means partnership items of
 income, gain, loss and deduction, and New York modifications thereto,
-entering into entire net income or minimum taxable income and the term
-"partner's entire income" means entire net income or minimum taxable
-income, allocated within the state. For purposes of article twenty-two
-of this chapter, the term "partner's income from the partnership" means
-partnership items of income, gain, loss and deduction, and New York
-modifications thereto, entering into New York adjusted gross income, and
-the term "partner's entire income" means New York adjusted gross income.
-  (C) Where the taxpayer is a shareholder of a New York S corporation
-that is a business located in a tax-free NY area, the shareholder's tax
-factor shall be that portion of the amount determined in paragraph one
-of this subdivision that is attributable to the income of the S
-corporation. Such attribution shall be made in accordance with the ratio
-of the shareholder's income from the S corporation allocated within the
-state, entering into New York adjusted gross income, to the
+entering into business income and the term "partner's entire income"
+means business income, allocated within the state. For purposes of
+article twenty-two of this chapter, the term "partner's income from the
+partnership" means partnership items of income, gain, loss and
+deduction, and New York modifications thereto, entering into New York
+adjusted gross income, and the term "partner's entire income" means New
+York adjusted gross income.
+  (C) (i) Where the taxpayer is a shareholder of a New York S
+corporation that is a business located in a tax-free NY area, the
+shareholder's tax factor shall be that portion of the amount determined
+in paragraph one of this subdivision that is attributable to the income
+of the S corporation. Such attribution shall be made in accordance with
+the ratio of the shareholder's income from the S corporation allocated
+within the state, entering into New York adjusted gross income, to the
 shareholder's New York adjusted gross income, or in accordance with such
 other methods as the commissioner may prescribe as providing an
 apportionment that reasonably reflects the portion of the shareholder's
 tax attributable to the income of such business. The income of the S
 corporation allocated within the state shall be determined by
-multiplying the income of the S corporation by the business allocation
-factor computed under paragraph (a) of subdivision three of section two
-hundred ten of this article without regard to subparagraph ten of such
-paragraph (a). In no event may the ratio so determined exceed 1.0.
+multiplying the income of the S corporation by a business allocation
+factor that shall be determined in clause (ii) of this subparagraph. In
+no event may the ratio so determined exceed 1.0.
+  (ii) The business allocation factor for purposes of this subparagraph
+shall be computed by adding together the property factor specified in
+subclause (I) of this clause, the wage factor specified in subclause
+(II) of this clause and the apportionment factor determined under
+section two hundred ten-A of this chapter and dividing by three.
+  (I) The property factor shall be determined by ascertaining the
+percentage that the average value of the business's real and tangible
+personal property, whether owned or rented to it, within the state
+during the period covered by the taxpayer's report or return bears to
+the average value of the business's real and tangible personal property,
+whether owned or rented to it, within and without the state during such
+period; provided that the term "value of the business's real and
+tangible personal property" shall have the same meaning as such term has
+in paragraph (a) of subdivision two of section two hundred nine-B of
+this chapter.
+  (II) The wage factor shall be determined by ascertaining the
+percentage that the total wages, salaries and other personal service
+compensation, similarly computed, during such period of employees,
+except general executive officers, employed at the business's location
+or locations within the state, bears to the total wages, salaries and
+other personal service compensation, similarly computed, during such
+period, of all the business's employees within and without the state,
+except general executive officers.
   (3) Combined returns or reports. (A) Where the taxpayer is a business
 located in a tax-free NY area and is required or permitted to make a
 return or report on a combined basis under article nine-A of this
@@ -116,10 +138,9 @@ reflects the portion of the combined group's tax attributable to the
 income of such business. In no event may the ratio so determined exceed
 1.0.
   (B) The term "income of the business located in a tax-free NY area"
-means entire net income or minimum taxable income calculated as if the
-taxpayer was filing separately and the term "combined group's income"
-means entire net income or minimum taxable income as shown on the
-combined report, allocated within the state.
+means business income calculated as if the taxpayer was filing
+separately and the term "combined group's income" means business income
+as shown on the combined report, allocated within the state.
   (4) If a business is generating or receiving income from a line of
 business or intangible property that was previously conducted, created
 or developed by the business or a related person, as that term is
@@ -128,7 +149,7 @@ law, the tax factor specified in this subdivision shall be adjusted to
 disregard such income.
   (e) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
-  (1) Article 9-A: section 210, subdivision 47.
+  (1) Article 9-A: section 210-B, subdivision 41.
   (2) Article 22: section 606, subsection (i), paragraph (1),
 subparagraph (B), clause (xxxvi).
   (3) Article 22: section 606, subsection (ww).

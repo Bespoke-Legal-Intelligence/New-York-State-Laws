@@ -43,22 +43,25 @@ in this subdivision, the term "credit card" includes bank, credit,
 travel and entertainment cards.
   (d)(i) A corporation with less than one million dollars but at least
 ten thousand dollars of receipts within this state in a taxable year
-that is part of a combined reporting group under section two hundred
-ten-C of this article is deriving receipts from activity in this state
-if the receipts within this state of the members of the combined
-reporting group that have at least ten thousand dollars of receipts
+that is part of a unitary group that meets the ownership test under
+section two hundred ten-C of this article is deriving receipts from
+activity in this state if the receipts within this state of the members
+of the unitary group that have at least ten thousand dollars of receipts
 within this state in the aggregate meet the threshold set forth in
 paragraph (b) of this subdivision.
   (ii) A corporation that does not meet any of the thresholds set forth
 in paragraph (c) of this subdivision but has at least ten customers, or
 locations, or customers and locations, as described in paragraph (c) of
-this subdivision, and is part of a combined reporting group under
-section two hundred ten-C of this article that is doing business in this
-state if the number of customers, locations, or customers and locations,
-within this state of the members of the combined reporting group that
-have at least ten customers, locations, or customers and locations,
-within this state in the aggregate meets any of the thresholds set forth
-in paragraph (c) of this subdivision.
+this subdivision, and is part of a unitary group that meets the
+ownership test under section two hundred ten-C of this article is doing
+business in this state if the number of customers, locations, or
+customers and locations, within this state of the members of the unitary
+group that have at least ten customers, locations, or customers and
+locations, within this state in the aggregate meets any of the
+thresholds set forth in paragraph (c) of this subdivision.
+  (iii) For purposes of this paragraph, any corporation described in
+paragraph (c) of subdivision two of section two hundred ten-C of this
+article shall not be considered.
   (e) At the end of each year, the commissioner shall review the
 cumulative percentage change in the consumer price index. The
 commissioner shall adjust the receipt thresholds set forth in this
@@ -99,27 +102,27 @@ employees of such corporation and such corporation does not otherwise do
 business, employ capital, own or lease property or maintain an office in
 this state, or (f) any combination of the foregoing activities.
   2-a. An alien corporation shall not be deemed to be doing business,
-employing capital, owning or leasing property, or maintaining an office
-in this state, for the purposes of this article, if its activities in
-this state are limited solely to (a) investing or trading in stocks and
-securities for its own account within the meaning of clause (ii) of
-subparagraph (A) of paragraph (2) of subsection (b) of section eight
-hundred sixty-four of the internal revenue code or (b) investing or
-trading in commodities for its own account within the meaning of clause
-(ii) of subparagraph (B) of paragraph (2) of subsection (b) of section
-eight hundred sixty-four of the internal revenue code or (c) any
-combination of activities described in paragraphs (a) and (b) of this
-subdivision. An alien corporation that under any provision of the
-internal revenue code is not treated as a "domestic corporation" as
-defined in section seven thousand seven hundred one of such code and has
-no effectively connected income for the taxable year pursuant to clause
-(iv) of the opening paragraph of subdivision nine of section two hundred
-eight of this article shall not be subject to tax under this article for
-that taxable year. For purposes of this article, an alien corporation is
-a corporation organized under the laws of a country, or any political
-subdivision thereof, other than the United States, or organized under
-the laws of a possession, territory or commonwealth of the United
-States.
+employing capital, owning or leasing property, maintaining an office in
+this state, or deriving receipts from activity in this state, for the
+purposes of this article, if its activities in this state are limited
+solely to (a) investing or trading in stocks and securities for its own
+account within the meaning of clause (ii) of subparagraph (A) of
+paragraph (2) of subsection (b) of section eight hundred sixty-four of
+the internal revenue code or (b) investing or trading in commodities for
+its own account within the meaning of clause (ii) of subparagraph (B) of
+paragraph (2) of subsection (b) of section eight hundred sixty-four of
+the internal revenue code or (c) any combination of activities described
+in paragraphs (a) and (b) of this subdivision. An alien corporation that
+under any provision of the internal revenue code is not treated as a
+"domestic corporation" as defined in section seven thousand seven
+hundred one of such code and has no effectively connected income for the
+taxable year pursuant to clause (iv) of the opening paragraph of
+subdivision nine of section two hundred eight of this article shall not
+be subject to tax under this article for that taxable year. For purposes
+of this article, an alien corporation is a corporation organized under
+the laws of a country, or any political subdivision thereof, other than
+the United States, or organized under the laws of a possession,
+territory or commonwealth of the United States.
   3. Any receiver, referee, trustee, assignee or other fiduciary, or any
 officer or agent appointed by any court, who conducts the business of
 any corporation, shall be subject to the tax imposed by this article in

@@ -16,7 +16,19 @@ makes a single return jointly with his or her spouse under subsection
 (b) of section thirteen hundred six of this article and on the city
 taxable income of every city resident surviving spouse shall be
 determined in accordance with the following tables:
-  (A) For taxable years beginning after two thousand nine:
+  (A) For taxable years beginning after two thousand fourteen:
+If the city taxable income is:         The tax is:
+Not over $21,600                       2.55% of the city taxable income
+Over $21,600 but not                   $551 plus 3.1% of excess
+over $45,000                             over $21,600
+Over $45,000 but not                   $1,276 plus 3.15% of excess
+over $90,000                             over $45,000
+Over $90,000 but not                   $2,694 plus 3.2% of excess
+over $500,000                            over $90,000
+Over $500,000                          $16,803 plus 3.4% of excess
+                                         over $500,000
+  (B) For taxable years beginning after two thousand nine and before two
+thousand fifteen:
 If the city taxable income is:         The tax is:
 Not over $21,600                       2.55% of the city taxable income
 Over $21,600 but not                   $551 plus 3.1% of excess
@@ -27,21 +39,22 @@ Over $90,000 but not                   $2,694 plus 3.2% of excess
 over $500,000                            over $90,000
 Over $500,000                          $15,814 plus 3.4% of excess
                                          over $500,000
-  (B)  For  taxable years beginning in two thousand one and two thousand
-two and for taxable years beginning after two thousand five  and  before
-two thousand ten:
-If the city taxable income is:         The tax is:
-Not over $21,600                       2.55% of the city taxable income
-Over $21,600 but not                   $551 plus 3.1% of excess
-over $45,000                             over $21,600
-Over $45,000 but not                   $1,276 plus 3.15% of excess
-over $90,000                             over $45,000
-Over $90,000                           $2,694 plus 3.2% of excess
-                                         over $90,000
-  (2)  Resident heads of households. The tax under this section for each
+  (2) Resident heads of households. The tax under this section for each
 taxable year on the city taxable income of every city resident head of a
 household shall be determined in accordance with the following tables:
-  (A) For taxable years beginning after two thousand nine:
+  (A) For taxable years beginning after two thousand fourteen:
+If the city taxable income is:         The tax is:
+Not over $14,400                       2.55% of the city taxable income
+Over $14,400 but not                   $367 plus 3.1% of excess
+over $30,000                             over $14,400
+Over $30,000 but not                   $851 plus 3.15% of excess
+over $60,000                             over $30,000
+Over $60,000 but not                   $1,796 plus 3.2% of excess
+over $500,000                            over $60,000
+Over $500,000                          $16,869 plus 3.4% of excess
+                                         over $500,000
+  (B) For taxable years beginning after two thousand nine and before two
+thousand fifteen:
 If the city taxable income is:         The tax is:
 Not over $14,400                       2.55% of the city taxable income
 Over $14,400 but not                   $367 plus 3.1% of excess
@@ -52,17 +65,6 @@ Over $60,000 but not                   $1,796 plus 3.2% of excess
 over $500,000                            over $60,000
 Over $500,000                          $15,876 plus 3.4% of excess
                                          Over $500,000
-  (B) For taxable years beginning in two thousand one and  two  thousand
-two  and  for taxable years beginning after two thousand five and before
-two thousand ten:
-If the city taxable income is:         The tax is:
-Not over $14,400                       2.55% of the city taxable income
-Over $14,400 but not                   $367 plus 3.1% of excess
-over $30,000                             over $14,400
-Over $30,000 but not                   $851 plus 3.15% of excess
-over $60,000                             over $30,000
-Over $60,000                           $1,796 plus 3.2% of excess
-                                         over $60,000
   (3) Resident unmarried individuals, resident married individuals
 filing separate returns and resident estates and trusts. The tax under
 this section for each taxable year on the city taxable income of every
@@ -72,7 +74,19 @@ subsection (b) of section thirteen hundred six of this article or a city
 resident head of household or a city resident surviving spouse, and on
 the city taxable income of every city resident estate and trust shall be
 determined in accordance with the following tables:
-(A) For taxable years beginning after two thousand nine:
+(A) For taxable years beginning after two thousand fourteen:
+If the city taxable income is:         The tax is:
+Not over $12,000                       2.55% of the city taxable income
+Over $12,000 but not                   $306 plus 3.1% of excess
+over $25,000                             over $12,000
+Over $25,000 but not                   $709 plus 3.15% of excess
+over $50,000                             over $25,000
+Over $50,000 but not                   $1,497 plus 3.2% of excess
+over $500,000                          over $50,000
+Over $500,000                          $16,891 plus 3.4%
+                                       of excess over $500,000
+  (B) For taxable years beginning after two thousand nine and before two
+thousand fifteen:
 If the city taxable income is:         The tax is:
 Not over $12,000                       2.55% of the city taxable income
 Over $12,000 but not                   $306 plus 3.1% of excess
@@ -83,17 +97,6 @@ Over $50,000 but not                   $1,497 plus 3.2% of excess
 over $500,000                          over $50,000
 Over $500,000                          $15,897 plus 3.4%
                                        of excess over $500,000
-(B) For taxable years beginning in two thousand one and two thousand two
-and  for  taxable years beginning after two thousand five and before two
-thousand ten:
-If the city taxable income is:         The tax is:
-Not over $12,000                       2.55% of the city taxable income
-Over $12,000 but not                   $306 plus 3.1% of excess
-over $25,000                             over $12,000
-Over $25,000 but not                   $709 plus 3.15% of excess
-over $50,000                             over $25,000
-Over $50,000                           $1,497 plus 3.2% of excess
-                                         over $50,000
   (b) A tax other than the city separate tax on the ordinary income
 portion of lump sum distributions imposed pursuant to the authority of
 section thirteen hundred one of this article shall be determined as

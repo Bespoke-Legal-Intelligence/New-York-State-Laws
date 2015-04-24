@@ -86,4 +86,12 @@ corporations liable to pay tax under subdivision eight of section one
 hundred eighty-seven shall be required to make the reports required
 herein only on the fifteenth day of March in the years nineteen hundred
 sixty-five through and including nineteen hundred seventy-six.
+  5. Notwithstanding the provisions of section two hundred two of this
+article, the commissioner shall provide the statements and other
+required information requested on tax reports under section four hundred
+eight of the business corporation law to the secretary of state for
+filing. Such provision may also include a copy or image of that portion
+of the report solely pertinent to such information to the extent
+feasible. The commissioner may also provide information on
+noncompliance.
 ```

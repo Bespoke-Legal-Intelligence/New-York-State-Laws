@@ -20,13 +20,24 @@ persons, or (7) pursuant to the order of a court of competent
 jurisdiction on a showing of necessity; except no certified copy or
 certified transcript of a death record shall be subject to disclosure
 under article six of the public officers law;
-  (b) issue certified copies or certified transcripts of birth
+  * (b) issue certified copies or certified transcripts of birth
 certificates only (1) upon order of a court of competent jurisdiction,
 or (2) upon specific request therefor by the person, if eighteen years
 of age or more, or by a parent or other lawful representative of the
 person, to whom the record of birth relates, or (3) upon specific
 request therefor by a department of a state or the federal government of
 the United States;
+  * NB Effective until September 1, 2015
+  * (b) issue certified copies or certified transcripts of birth
+certificates only (1) upon order of a court of competent jurisdiction,
+or (2) upon specific request therefor by the person, if eighteen years
+of age or more, or by a parent or other lawful representative of the
+person, to whom the record of birth relates including authorized
+representatives of a local social services district if the person is in
+the care and custody or custody and guardianship of such district, or
+(3) upon specific request therefor by a department of a state or the
+federal government of the United States;
+  * NB Effective September 1, 2015
   (c) upon request, issue a wallet-size certification of birth, in a
 form and bearing a design provided by the commissioner. Each applicant
 for a wallet-size certification of birth shall remit to the commissioner
@@ -68,7 +79,7 @@ fee of twenty dollars for each hour or fractional part of an hour of
 time of search, together with a fee of two dollars for each uncertified
 copy or abstract of such record requested by the applicant or for a
 certification that a search discloses no record.
-  4. No fee shall be charged for a search, certification, certificate,
+  * 4. No fee shall be charged for a search, certification, certificate,
 certified copy or certified transcript of a record to be used for school
 entrance, employment certificate or for purposes of public relief or
 when required by the veterans administration to be used in determining
@@ -86,6 +97,27 @@ birth to a youth placed in the custody of the local commissioner of
 social services or the custody of the office of children and family
 services pursuant to article three of the family court act in
 anticipation of such youth's discharge from placement.
+  * NB Effective until September 1, 2015
+  * 4. No fee shall be charged for a search, certification, certificate,
+certified copy or certified transcript of a record to be used for school
+entrance, employment certificate or for purposes of public relief or
+when required by the veterans administration to be used in determining
+the eligibility of any person to participate in the benefits made
+available by the veterans administration or when required by a board of
+elections for the purposes of determining voter eligibility or when
+requested by the department of corrections and community supervision or
+a local correctional facility as defined in subdivision sixteen of
+section two of the correction law for the purpose of providing a
+certified copy or certified transcript of birth to an inmate in
+anticipation of such inmate's release from custody or when requested by
+the office of children and family services or an authorized agency for
+the purpose of providing a certified copy or certified transcript of
+birth to a youth placed in the care and custody or custody and
+guardianship of the local commissioner of social services or the care
+and custody or custody and guardianship of the office of children and
+family services in anticipation of such youth's discharge from placement
+or foster care.
+  * NB Effective September 1, 2015
   5. (a) The United States social security administration may obtain
 information from death certificates needed in the administration of
 old-age and survivors insurance benefits laws, subject to the provisions

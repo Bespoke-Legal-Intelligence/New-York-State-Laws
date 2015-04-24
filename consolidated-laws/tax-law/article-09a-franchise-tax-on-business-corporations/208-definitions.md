@@ -66,20 +66,32 @@ taxpayer.
   4. The term "stock" means an interest in a corporation that is treated
 as equity for federal income tax purposes.
   5. (a) The term "investment capital" means investments in stocks that
-are held by the taxpayer for more than six consecutive months but are
-not held for sale to customers in the regular course of business, or, if
-the taxpayer makes the election provided for in subparagraph one of
-paragraph (a) of subdivision five of section two hundred ten-A of this
-article, are not qualified financial instruments as described in
-subdivision five of section two hundred ten-A of this article. Stock in
-a corporation that is conducting a unitary business with the taxpayer,
-stock in a corporation that is included in a combined report with the
-taxpayer pursuant to the commonly owned group election in subdivision
-three of section two hundred ten-C of this article, and stock issued by
-the taxpayer shall not constitute investment capital. For purposes of
-this subdivision, if the taxpayer owns or controls, directly or
-indirectly, less than twenty percent of the voting power of the stock of
-a corporation, that corporation will be presumed to be conducting a
+(i) satisfy the definition of a capital asset under section 1221 of the
+internal revenue code at all times the taxpayer owned such stock during
+the taxable year, (ii) are held by the taxpayer for investment for more
+than one year, (iii) the dispositions of which are, or would be, treated
+by the taxpayer as generating long-term capital gains or losses under
+the internal revenue code, (iv) for stocks acquired on or after January
+first, two thousand fifteen, at any time after the close of the day in
+which they are acquired, have never been held for sale to customers in
+the regular course of business, and (v) before the close of the day on
+which the stock was acquired, are clearly identified in the taxpayer's
+records as stock held for investment in the same manner as required
+under section 1236(a)(1) of the internal revenue code for the stock of a
+dealer in securities to be eligible for capital gain treatment (whether
+or not the taxpayer is a dealer of securities subject to section 1236),
+provided, however, that for stock acquired prior to October first, two
+thousand fifteen that was not subject to section 1236(a) of the internal
+revenue code, such identification in the taxpayer's records must occur
+before October first, two thousand fifteen. Stock in a corporation that
+is conducting a unitary business with the taxpayer, stock in a
+corporation that is included in a combined report with the taxpayer
+pursuant to the commonly owned group election in subdivision three of
+section two hundred ten-C of this article, and stock issued by the
+taxpayer shall not constitute investment capital. For purposes of this
+subdivision, if the taxpayer owns or controls, directly or indirectly,
+less than twenty percent of the voting power of the stock of a
+corporation, that corporation will be presumed to be conducting a
 business that is not unitary with the business of the taxpayer.
   (b) There shall be deducted from investment capital any liabilities
 which are directly or indirectly attributable to investment capital. If
@@ -100,54 +112,60 @@ are provided an exemption, equivalent to that provided for herein, from
 any tax based on or measured by capital imposed by such foreign country
 or countries and from any such tax imposed by any political subdivision
 thereof.
-  (d) If a taxpayer acquires stock during the second half of its taxable
-year and owns that stock on the last day of the taxable year, it will be
-presumed that the taxpayer held that stock for more than six consecutive
-months during the taxable year. However, if the taxpayer does not in
-fact hold that stock for more than six consecutive months, the taxpayer
-must increase its total business capital in the immediately succeeding
-taxable year by the amount included in investment capital for that
-stock, net of any liabilities attributable to that stock computed as
-provided in paragraph (b) of this subdivision and must increase its
-business income in the immediately succeeding taxable year by the amount
-of income and net gains (but not less than zero) from that stock
-included in investment income, less any interest deductions directly or
-indirectly attributable to that stock, as provided in subdivision six of
-this section.
+  (d) If a taxpayer acquires stock that is a capital asset under section
+1221 of the internal revenue code during the taxable year and owns that
+stock on the last day of the taxable year, it will be presumed, solely
+for purposes of determining whether that stock should be classified as
+investment capital after it is acquired, that the taxpayer held that
+stock for more than one year. However, if the taxpayer does not in fact
+own that stock at the time it actually files its original report for the
+taxable year in which it acquired the stock, then the presumption in the
+preceding sentence shall not apply and the actual period of time during
+which the taxpayer owned the stock shall be used to determine whether
+the stock should be classified as investment capital after it is
+acquired. If the taxpayer relies on the presumption in the first
+sentence of this paragraph but does not own the stock for more than one
+year, the taxpayer must increase its total business capital in the
+immediately succeeding taxable year by the amount included in investment
+capital for that stock, net of any liabilities attributable to that
+stock computed as provided in paragraph (b) of this subdivision and must
+increase its business income in the immediately succeeding taxable year
+by the amount of income and net gains (but not less than zero) from that
+stock included in investment income, less any interest deductions
+directly or indirectly attributable to that stock, as provided in
+subdivision six of this section.
   (e) When income or gain from a debt obligation or other security
-cannot be apportioned to the state using the business allocation
-percentage as a result of United States constitutional principles, the
-debt obligation or other security will be included in investment
-capital.
-  (f) For purposes of determining whether a taxpayer has held a security
-for more than six consecutive months, the commissioner shall take into
-account offsetting positions the taxpayer takes in such or similar
-securities.
-  6. (a) The term "investment income" means income, including capital
-gains in excess of capital losses, from investment capital, to the
-extent included in computing entire net income, less, (i) in the
+cannot be apportioned to the state using the apportionment factor
+determined under section two hundred ten-A of this article as a result
+of United States constitutional principles, the debt obligation or other
+security will be included in investment capital.
+  6. (a) (i) The term "investment income" means income, including
+capital gains in excess of capital losses, from investment capital, to
+the extent included in computing entire net income, less, in the
 discretion of the commissioner, any interest deductions allowable in
 computing entire net income which are directly or indirectly
-attributable to investment capital or investment income, and (ii) the
-taxpayer's loss, deduction and/or expense attributable to any
-transaction, or series of transactions, entered into to manage the risk
-of price changes or currency fluctuations with respect to any item of
-investment capital that is held or to be held by the taxpayer, or the
-aggregate investment capital that is held or to be held by the taxpayer,
-if all of the risk, or all but a de minimis amount of the risk, is with
-respect to investment capital, provided, however, that in no case shall
-investment income exceed entire net income. If the amount subtracted
-under subparagraph (i) or subparagraph (ii) of this paragraph or under
-both of those subparagraphs exceeds investment income, the excess of
-such amount over investment income must be added back to entire net
-income.
+attributable to investment capital or investment income, provided,
+however, that in no case shall investment income exceed entire net
+income. (ii) If the amount of interest deductions subtracted under
+subparagraph (i) of this paragraph exceeds investment income, the excess
+of such amount over investment income must be added back to entire net
+income. (iii) If the taxpayer's investment income determined without
+regard to the interest deductions subtracted under subparagraph (i) of
+this paragraph comprises more than eight percent of the taxpayer's
+entire net income, investment income determined without regard to such
+interest deductions cannot exceed eight percent of the taxpayer's entire
+net income.
   (b) In lieu of subtracting from investment income the amount of those
-interest deductions, the taxpayer may elect to reduce its total
-investment income by forty percent. If the taxpayer makes this election,
-the taxpayer must also make the elections provided for in paragraphs (b)
-and (c) of subdivision six-a of this section. A taxpayer which does not
-make this election because it has no investment capital will not be
-precluded from making those other elections.
+interest deductions, the taxpayer may make a revocable election to
+reduce its total investment income, determined after applying the
+limitation in subparagraph (iii) of paragraph (a) of this subdivision,
+by forty percent. If the taxpayer makes this election, the taxpayer must
+also make the elections provided for in paragraphs (b) and (c) of
+subdivision six-a of this section. If the taxpayer subsequently revokes
+this election, the taxpayer must revoke the elections provided for in
+paragraphs (b) and (c) of subdivision six-a of this section. A taxpayer
+that does not make this election because it has no investment capital
+will not be precluded from making those other elections.
   (c) Investment income shall not include any amount treated as
 dividends pursuant to section seventy-eight of the internal revenue
 code.
@@ -160,13 +178,16 @@ that is conducting a unitary business with the taxpayer but is not
 included in a combined report with the taxpayer, less, in the discretion
 of the commissioner, any interest deductions directly or indirectly
 attributable to that income. In lieu of subtracting from its exempt CFC
-income the amount of those interest deductions, the taxpayer may elect
-to reduce its total exempt CFC income by forty percent. If the taxpayer
-makes this election, the taxpayer must also make the elections provided
-for in paragraph (b) of subdivision six of this section and paragraph
-(c) of this subdivision. A taxpayer which does not make this election
-because it has no exempt CFC income will not be precluded from making
-those other elections.
+income the amount of those interest deductions, the taxpayer may make a
+revocable election to reduce its total exempt CFC income by forty
+percent. If the taxpayer makes this election, the taxpayer must also
+make the elections provided for in paragraph (b) of subdivision six of
+this section and paragraph (c) of this subdivision. If the taxpayer
+subsequently revokes this election, the taxpayer must revoke the
+elections provided for in paragraph (b) of subdivision six of this
+section and paragraph (c) of this subdivision. A taxpayer which does not
+make this election because it has no exempt CFC income will not be
+precluded from making those other elections.
   (c) "Exempt unitary corporation dividends" means those dividends from
 a corporation that is conducting a unitary business with the taxpayer
 but is not included in a combined report with the taxpayer, less, in the
@@ -177,11 +198,14 @@ imposed by article nine or article thirty-three of this chapter or would
 be taxable under a franchise tax imposed by article nine or article
 thirty-three of this chapter if subject to tax, in lieu of subtracting
 from this dividend income those interest deductions, the taxpayer may
-elect to reduce the total amount of this dividend income by forty
-percent. If the taxpayer makes this election, the taxpayer must also
-make the elections provided for in paragraph (b) of subdivision six of
-this section and paragraph (b) of this subdivision. A taxpayer which
-does not make this election because it has not received any exempt
+make a revocable election to reduce the total amount of this dividend
+income by forty percent. If the taxpayer makes this election, the
+taxpayer must also make the elections provided for in paragraph (b) of
+subdivision six of this section and paragraph (b) of this subdivision.
+If the taxpayer subsequently revokes this election, the taxpayer must
+also revoke the elections provided for in paragraph (b) of subdivision
+six of this section and paragraph (b) of this subdivision. A taxpayer
+which does not make this election because it has not received any exempt
 unitary corporation dividends or is precluded from making this election
 for dividends received from corporations taxable under a franchise tax
 imposed by article nine or article thirty-three of this chapter or would
@@ -281,12 +305,10 @@ shareholder or individual, for the operation of school buses,
 article twenty-three, or former article thirty-two of this chapter, for
 which tax no exclusion or deduction was allowed in determining the
 taxpayer's entire net income under this article, article twenty-three,
-or former article thirty-two of this chapter for any prior year, (ii) a
-refund or credit of general corporation tax allowed by subdivision
-eleven of section 11-604 of the administrative code of the city of New
-York, or (iii) any refund or credit of a tax imposed under sections one
-hundred eighty-three, one hundred eighty-three-a, one hundred
-eighty-four or one hundred eighty-four-a of this chapter, and
+or former article thirty-two of this chapter for any prior year, or (ii)
+any refund or credit of a tax imposed under sections one hundred
+eighty-three, one hundred eighty-three-a, one hundred eighty-four or one
+hundred eighty-four-a of this chapter;
   (6) any amount treated as dividends pursuant to section seventy-eight
 of the internal revenue code;
   (7) that portion of wages and salaries paid or incurred for the
@@ -996,10 +1018,10 @@ fraction, the numerator of which is the average total assets of all the
 thrift institutions and qualified community banks included in the
 combined report and the denominator of which is the average total assets
 of all the corporations included in the combined report.
-  (ii) Measurement of assets. (I) Total assets are those assets that are
-properly reflected on a balance sheet, computed in the same manner as is
-required by the banking regulator of the taxpayers included in the
-combined return.
+  (ii) Measurement of assets. For purposes of this paragraph: (I) Total
+assets are those assets that are properly reflected on a balance sheet,
+computed in the same manner as is required by the banking regulator of
+the taxpayers included in the combined return.
   (II) Assets will only be included if the income or expenses of which
 are properly reflected (or would have been properly reflected if not
 fully depreciated or expensed, or depreciated or expensed to a nominal
@@ -1128,18 +1150,18 @@ following conditions.
 provisions of article three of the banking law or a comparable provision
 of the laws of another state, or a national banking association.
   (B) The average value during the taxable year of the assets of the
-taxpayer, or the assets of the combined reporting group of the taxpayer
-under section two hundred ten-C of this article, must not exceed eight
-billion dollars.
+taxpayer, or, if the taxpayer is included in a combined report, the
+assets of the combined reporting group of the taxpayer under section two
+hundred ten-C of this article, must not exceed eight billion dollars.
   (2-a) To be a small thrift institution, a taxpayer must satisfy the
 following conditions.
   (A) It is a savings bank, a savings and loan association, or other
 savings institution chartered and supervised as such under federal or
 state law.
   (B) The average value during the taxable year of the assets of the
-taxpayer, or the assets of the combined reporting group of the taxpayer
-under section two hundred ten-C of this article, must not exceed eight
-billion dollars.
+taxpayer, or, if the taxpayer is included in a combined report, the
+assets of the combined reporting group of the taxpayer under section two
+hundred ten-C of this article, must not exceed eight billion dollars.
   (3)(A) The subtraction modification shall be computed as follows:
   (i) Multiply the taxpayer's net interest income from loans during the
 taxable year by a fraction, the numerator of which is the gross interest

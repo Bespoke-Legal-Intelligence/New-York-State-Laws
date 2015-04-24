@@ -34,4 +34,36 @@ social services, a city commissioner of social services, or an Indian
 tribe with which the office of children and family services has entered
 into an agreement to provide foster care services in accordance with
 subdivision two of section thirty-nine of this chapter.
+  6. "Successor guardian" shall mean a person or persons that is
+approved by a local social services district to receive payments
+pursuant to this title in accordance with subparagraph (ii) of paragraph
+(b) of subdivision five of section four hundred fifty-eight-b of this
+title and that has been named in the agreement in effect between the
+relative guardian and social services official for kinship guardianship
+assistance payments pursuant to this title who shall provide care and
+guardianship for a child in the event of death or incapacity of the
+relative guardian, as set forth in section four hundred fifty-eight-b of
+this title, who has assumed care for and is the guardian or permanent
+guardian of such child, provided that such person was appointed guardian
+or permanent guardian of such child by the court following, or due to,
+the death or incapacity of the relative guardian. Once approved in
+accordance with subparagraph (ii) of paragraph (b) of section four
+hundred fifty-eight-b of this title, a successor guardian shall be
+deemed to have the same rights and responsibilities as a relative
+guardian in relation to any provisions of this title and any agreement
+entered into under this title.
+  7. "Prospective successor guardian" shall mean a person or persons
+whom a prospective relative guardian or a relative guardian seeks to
+name or names in the original kinship guardianship assistance agreement,
+or any amendment thereto, as set forth in section four hundred
+fifty-eight-b of this title, as the person or persons to provide care
+and guardianship for a child in the event of the death or incapacity of
+a relative guardian, who has not been approved in accordance with
+subparagraph (ii) of paragraph (b) of subdivision five of section four
+hundred fifty-eight-b of this title.
+  8. "Incapacity" shall mean a substantial inability to care for a child
+as a result of: (a) a physically debilitating illness, disease or
+injury; or (b) a mental impairment that results in a substantial
+inability to understand the nature and consequences of decisions
+concerning the care of a child.
 ```

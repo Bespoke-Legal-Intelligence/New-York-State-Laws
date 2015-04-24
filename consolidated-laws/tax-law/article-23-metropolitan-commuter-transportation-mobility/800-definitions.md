@@ -23,7 +23,11 @@ cooperative educational services, a public elementary or secondary
 school, a school approved pursuant to article eighty-five or eighty-nine
 of the education law to serve students with disabilities of school age,
 or a nonpublic elementary or secondary school that provides instruction
-in grade one or above.
+in grade one or above, all public library systems as defined in
+subdivision one of section two hundred seventy-two of the education law,
+and all public and free association libraries as such terms are defined
+in subdivision two of section two hundred fifty-three of the education
+law.
   (c) Payroll expense. Payroll expense means wages and compensation as
 defined in sections 3121 and 3231 of the internal revenue code (without
 regard to section 3121(a)(1) and section 3231(e)(2)(A)(i)), paid to all

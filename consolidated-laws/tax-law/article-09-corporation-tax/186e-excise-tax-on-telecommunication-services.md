@@ -131,28 +131,30 @@ terms are defined in section eleven hundred one of this chapter: "mobile
 telecommunications service," "mobile telecommunications customer," "home
 service provider," "licensed service area," "reseller," "serving
 carrier," "place of primary use" and "taxing jurisdiction".
-  2. Imposition. (a) There is hereby imposed an excise tax on the sale
-of telecommunication services by any person which is a provider of
+  2. Imposition. (a) (1) There is hereby imposed an excise tax on the
+sale of telecommunication services, except for the sale of mobile
+telecommunication services that are subject to tax under subparagraph
+two of this paragraph, by any person which is a provider of
 telecommunication services, to be paid by such person, at the rate of
 three and one-half percent prior to October first, nineteen hundred
 ninety-eight, three and one-quarter percent from October first, nineteen
 hundred ninety-eight through December thirty-first, nineteen hundred
 ninety-nine, and two and one-half percent on and after January first,
-two thousand of gross receipt from: (1) any intrastate telecommunication
-services, except any telecommunication services the gross receipt from
-which is subject to tax under subparagraph four of this paragraph; (2)
-any interstate and international telecommunication services (other than
-interstate and international private telecommunication services and any
-telecommunication services the gross receipt from which is subject to
-tax under subparagraph four of this paragraph) which originate or
-terminate in this state and which telecommunication services are charged
-to a service address in this state, regardless of where the amounts
-charged for such services are billed or ultimately paid; (3) interstate
-and international private telecommunication services, the gross receipt
-to which the tax shall apply shall be determined as prescribed in
-subdivision three of this section, except any telecommunication services
-the gross receipt from which is subject to tax under subparagraph four
-of this paragraph; and (4) mobile telecommunications service provided by
+two thousand of gross receipt from: (i) any intrastate telecommunication
+services; (ii) any interstate and international telecommunication
+services (other than interstate and international private
+telecommunication services ) which originate or terminate in this state
+and which telecommunication services are charged to a service address in
+this state, regardless of where the amounts charged for such services
+are billed or ultimately paid; and (iii) interstate and international
+private telecommunication services, the gross receipt to which the tax
+shall apply shall be determined as prescribed in subdivision three of
+this section.
+  (2) There is hereby imposed an excise tax on the sale of mobile
+telecommunication services, by any person which is a provider of
+telecommunication services, to be paid by such person, at the rate of
+two and nine-tenths percent on and after May first, two thousand fifteen
+of gross receipts from any mobile telecommunications service provided by
 a home service provider where the mobile telecommunications customer's
 place of primary use is within this state.
   (b) (1) Sale for resale exclusion. There shall be excluded from the
@@ -391,4 +393,8 @@ provisions of article six of the county law or acting as a collection
 agent for the state pursuant to the provisions of section one hundred
 eighty-six-f of this article will not be considered as, nor included in
 the determination of gross receipts of the provider.
+  9. Distribution. Seven and six-tenths percent of the monies collected
+from the excise tax imposed by this section shall be distributed
+pursuant to subdivision three of section two hundred five of this
+chapter.
 ```

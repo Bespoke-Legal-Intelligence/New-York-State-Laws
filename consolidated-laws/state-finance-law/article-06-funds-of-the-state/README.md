@@ -22,6 +22,7 @@
 - [§ 79 World Trade Center memorial foundation fund](79-world-trade-center-memorial-foundation-fund.md)
 - [§ 80 Real estate finance bureau fund](80-real-estate-finance-bureau-fund.md)
 - [§ 83 Conservation fund](83-conservation-fund.md)
+- [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
 - [§ 84-A Olympic games guaranty fund](84a-olympic-games-guaranty-fund.md)
 - [§ 88 New York state infrastructure trust fund](88-new-york-state-infrastructure-trust-fund.md)
@@ -221,6 +222,7 @@
 - [§ 99-V Mortgage settlement proceeds trust fund](99v-mortgage-settlement-proceeds-trust-fund.md)
 - [§ 99-V\*2 Homeless veterans assistance fund](99v-2-homeless-veterans-assistance-fund.md)
 - [§ 99-W Transit assistance for capital investments fund](99w-transit-assistance-for-capital-investments-fund.md)
+- [§ 99-W\*2 SUNY DSRIP escrow fund](99w-2-suny-dsrip-escrow-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -247,6 +249,7 @@ Section 70.        Classification of funds.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
         83.        Conservation fund.
+        83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
@@ -490,6 +493,7 @@ Section 70.        Classification of funds.
         99-v.      Mortgage settlement proceeds trust fund.
         99-v*2.    Homeless veterans assistance fund.
         99-w.      Transit assistance for capital investments fund.
+        99-w*2.    SUNY DSRIP escrow fund.
 ```
 
 </details>

@@ -10,6 +10,7 @@
 - [§ 6453 Special nursing education program](6453-special-nursing-education-program.md)
 - [§ 6454 Science and technology entry program](6454-science-and-technology-entry-program.md)
 - [§ 6455 Collegiate science and technology entry program](6455-collegiate-science-and-technology-entry.md)
+- [§ 6456 Foster youth college success initiative](6456-foster-youth-college-success-initiative.md)
 
 <details>
 <summary>Official heading of Article 130, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +25,7 @@ Section 6451. Arthur O. Eve opportunity for higher education; non-public
         6453. Special nursing education program.
         6454. Science and technology entry program.
         6455. Collegiate science and technology entry program.
+        6456. Foster youth college success initiative.
 ```
 
 </details>

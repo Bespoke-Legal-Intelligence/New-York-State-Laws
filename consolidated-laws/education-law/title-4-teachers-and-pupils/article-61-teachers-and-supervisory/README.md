@@ -20,6 +20,7 @@
 - [§ 3005-A Leave of absence for teaching purposes](3005a-leave-of-absence-for-teaching-purposes.md)
 - [§ 3005-B Leave of absence for personal illness](3005b-leave-of-absence-for-personal-illness.md)
 - [§ 3006 Commissioner of education to issue certificates](3006-commissioner-of-education-to-issue-certificates.md)
+- [§ 3006-A Registration and continuing teacher and leader education requirements for holders of professional certificates in the classroom teaching ...](3006a-registration-and-continuing-teacher-and-leader-education-requirements.md)
 - [§ 3007 Endorsement of foreign certificates and diplomas](3007-endorsement-of-foreign-certificates-and-diplomas.md)
 - [§ 3008 Certification of teachers by local authorities](3008-certification-of-teachers-by-local-authorities.md)
 - [§ 3009 Unqualified teachers shall not be paid from school moneys](3009-unqualified-teachers-shall-not-be-paid-from-school-moneys.md)
@@ -28,6 +29,7 @@
 - [§ 3012 Tenure: certain school districts](3012-tenure-certain-school-districts.md)
 - [§ 3012-A Elementary tenure area](3012a-elementary-tenure-area.md)
 - [§ 3012-C Annual professional performance review of classroom teachers and building principals](3012c-annual-professional-performance-review-of-classroom-teachers-and-building.md)
+- [§ 3012-D Annual teacher and principal evaluations](3012d-annual-teacher-and-principal-evaluations.md)
 - [§ 3013 Abolition of office or position](3013-abolition-of-office-or-position.md)
 - [§ 3014 Tenure: boards of cooperative educational services](3014-tenure-boards-of-cooperative-educational-services.md)
 - [§ 3014-A Teachers' rights as a result of a board or boards of cooperative educational services taking over a program formerly operated by a school...](3014a-teachers-rights-as-a-result-of-a-board-or-boards-of-cooperative.md)
@@ -42,6 +44,7 @@
 - [§ 3019-A Notice of termination of service by teachers](3019a-notice-of-termination-of-service-by-teachers.md)
 - [§ 3020 Discipline of teachers](3020-discipline-of-teachers.md)
 - [§ 3020-A Disciplinary procedures and penalties](3020a-disciplinary-procedures-and-penalties.md)
+- [§ 3020-B Streamlined removal procedures for teachers rated ineffective](3020b-streamlined-removal-procedures-for-teachers-rated-ineffective.md)
 - [§ 3021 Removal of superintendents, teachers and employees for treasonable or seditious acts or utterances](3021-removal-of-superintendents-teachers-and-employees-for-treasonable.md)
 - [§ 3022 Elimination of subversive persons from the public school system](3022-elimination-of-subversive-persons-from-the-public-school-system.md)
 - [§ 3023 Liability of a board of education, trustee, trustees or board of cooperative educational services](3023-liability-of-a-board-of-education-trustee-trustees-or-board-of-cooperative.md)
@@ -92,6 +95,12 @@ Section 3001.   Qualifications of teachers.
         3005-a. Leave of absence for teaching purposes.
         3005-b. Leave of absence for personal illness.
         3006.   Commissioner of education to issue certificates.
+        3006-a. Registration and continuing teacher and leader education
+                  requirements for holders of professional certificates
+                  in the classroom teaching service, holders of level
+                  III teaching assistant certificates, holders of
+                  professional certificates in the educational
+                  leadership service.
         3007.   Endorsement of foreign certificates and diplomas.
         3008.   Certification of teachers by local authorities.
         3009.   Unqualified teachers shall not be paid from school
@@ -102,6 +111,7 @@ Section 3001.   Qualifications of teachers.
         3012-a. Elementary tenure area.
         3012-c. Annual professional performance review of classroom
                   teachers and building principals.
+        3012-d. Annual teacher and principal evaluations.
         3013.   Abolition of office or position.
         3014.   Tenure: boards of cooperative educational services.
         3014-a. Teachers' rights as a result of a board or boards of
@@ -126,6 +136,8 @@ Section 3001.   Qualifications of teachers.
         3019-a. Notice of termination of service by teachers.
         3020.   Discipline of teachers.
         3020-a. Disciplinary procedures and penalties.
+        3020-b. Streamlined removal procedures for teachers rated
+                  ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
         3022.   Elimination of subversive persons from the public school

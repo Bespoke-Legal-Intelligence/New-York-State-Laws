@@ -140,28 +140,31 @@ absorption by it of the entire amount of the tax imposed pursuant to
 this article. Provided, however, that the commissioner shall require
 such documentary proof to qualify for any reimbursement of tax provided
 by this section as the commissioner deems appropriate.
-  (f) Motor fuel used for farm production. No more than one thousand
-five hundred gallons of motor fuel purchased in this state in a
-thirty-day period or a greater amount which has been given prior
-clearance by the commissioner, by a consumer for use or consumption
-directly and exclusively in the production for sale of tangible personal
-property by farming, but only if all of such fuel is delivered on the
-farm site and is consumed other than on the public highways of this
-state (except for the use of the public highway to reach adjacent
-farmlands). This reimbursement to such purchaser who used such motor
-fuel in the manner specified in this subdivision may be claimed only
-where, (i) the tax imposed pursuant to this article has been paid with
-respect to such motor fuel and the entire amount of such tax has been
-absorbed by such purchaser, and (ii) such purchaser possesses
-documentary proof satisfactory to the commissioner evidencing the
-absorption by it of the entire amount of the tax imposed pursuant to
-this article. Provided, however, that the commissioner shall require
-such documentary proof to qualify for any reimbursement of tax provided
-by this subdivision as the commissioner deems appropriate. The
-commissioner is hereby empowered to make such provisions as deemed
-necessary to define the procedures for granting prior clearance for
-purchases of more than one thousand five hundred gallons in a thirty-day
-period.
+  (f) Motor fuel and highway diesel motor fuel used for farm production.
+No more than one thousand five hundred gallons of motor fuel and no more
+than four thousand five hundred gallons of highway diesel motor fuel
+purchased in this state in a thirty-day period or a greater amount which
+has been given prior clearance by the commissioner, by a consumer for
+use or consumption directly and exclusively in the production for sale
+of tangible personal property by farming, but only if all of such motor
+fuel or highway diesel motor fuel is delivered on the farm site and is
+consumed other than on the public highways of this state (except for the
+use of the public highway to reach adjacent farmlands). This
+reimbursement to such purchaser who used such motor fuel or highway
+diesel motor fuel in the manner specified in this subdivision may be
+claimed only where, (i) the tax imposed pursuant to this article has
+been paid with respect to such motor fuel or highway diesel motor fuel
+and the entire amount of such tax has been absorbed by such purchaser,
+and (ii) such purchaser possesses documentary proof satisfactory to the
+commissioner evidencing the absorption by it of the entire amount of the
+tax imposed pursuant to this article. Provided, however, that the
+commissioner shall require such documentary proof to qualify for any
+reimbursement of tax provided by this subdivision as the commissioner
+deems appropriate. The commissioner is hereby empowered to make such
+provisions as deemed necessary to define the procedures for granting
+prior clearance for purchases of more than one thousand five hundred
+gallons of motor fuel or four thousand five hundred gallons of highway
+diesel motor fuel in a thirty-day period.
   (g) Diesel motor fuel and motor fuel used in the operation of
 commercial fishing vessels. Diesel motor fuel or motor fuel purchased in
 this state by a commercial fisherman at retail wherein (1) such diesel

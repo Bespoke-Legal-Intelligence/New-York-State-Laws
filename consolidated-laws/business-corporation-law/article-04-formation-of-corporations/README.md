@@ -11,7 +11,7 @@
 - [§ 404 Organization meeting](404-organization-meeting.md)
 - [§ 405-A Institution for children; approval of certificate](405a-institution-for-children-approval-of-certificate.md)
 - [§ 406 Filing of a certificate of incorporation; facility for alcoholism or alcohol abuse, substance abuse, substance dependence, or chemical ab...](406-filing-of-a-certificate-of-incorporation-facility-for-alcoholism-or-alcohol.md)
-- [§ 408 Biennial statement; filing](408-biennial-statement-filing.md)
+- [§ 408 Statement; filing](408-statement-filing.md)
 - [§ 409 Penalty for failure to file; cure](409-penalty-for-failure-to-file-cure.md)
 
 <details>
@@ -28,7 +28,7 @@ Section 401.   Incorporators.
         406.   Filing of a certificate of incorporation; facility for
                  alcoholism or alcohol abuse, substance abuse, substance
                  dependence, or chemical abuse or dependence.
-        408.   Biennial statement; filing.
+        408.   Statement; filing.
         409.   Penalty for failure to file; cure.
 ```
 

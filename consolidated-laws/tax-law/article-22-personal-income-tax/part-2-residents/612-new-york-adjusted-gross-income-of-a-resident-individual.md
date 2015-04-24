@@ -359,7 +359,7 @@ fifty-nine and one-half from self-employed individual and owner-employee
 retirement plans which qualify under section four hundred one of the
 internal revenue code, whether or not the payments are periodic in
 nature. Nevertheless, the term "pensions and annuities" shall not
-include any lump sum distribution, as defined in subparagraph (A) of
+include any lump sum distribution, as defined in subparagraph (D) of
 paragraph four of subsection (e) of section four hundred two of the
 internal revenue code and taxed under section six hundred three of this
 article. Where a husband and wife file a joint state personal income tax
@@ -684,7 +684,7 @@ eleven-AA, eleven-AAA and eleven-AAAA of the general municipal law, to
 the extent that such award is includable in gross income for federal
 income tax purposes; provided, however, that such award is not
 distributed in the form of a lump sum distribution, as defined in
-subparagraph (A) of paragraph four of subsection (e) of section four
+subparagraph (D) of paragraph four of subsection (e) of section four
 hundred two of the internal revenue code and taxed under section six
 hundred three of this article; and provided, further, that such award is
 not distributed to a taxpayer who has not attained the age of fifty-nine

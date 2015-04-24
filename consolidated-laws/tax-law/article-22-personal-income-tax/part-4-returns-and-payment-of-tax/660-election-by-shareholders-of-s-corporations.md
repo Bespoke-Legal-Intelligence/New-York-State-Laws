@@ -142,9 +142,10 @@ of an eligible S corporation are deemed to have made that election
 effective for the eligible S corporation's entire current taxable year,
 if the eligible S corporation's investment income for the current
 taxable year is more than fifty percent of its federal gross income for
-such year. In determining an eligible S corporation's investment income,
-the investment income of a qualified subchapter S subsidiary owned
-directly or indirectly by the eligible S corporation shall be included.
+such year. In determining whether an eligible S corporation is deemed to
+have made that election, the income of a qualified subchapter S
+subsidiary owned directly or indirectly by the eligible S corporation
+shall be included with the income of the eligible S corporation.
   (2) For the purposes of this subsection, the term "eligible S
 corporation" has the same definition as in subsection (a) of this
 section.

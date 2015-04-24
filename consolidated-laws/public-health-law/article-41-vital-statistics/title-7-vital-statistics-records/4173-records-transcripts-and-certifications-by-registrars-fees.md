@@ -8,11 +8,21 @@
 1.  Upon request, a certification of birth or of death or a certified
 copy or certified transcript of a birth or death record shall be issued
 by the registrar under regulations prescribed by the commissioner.
-  2. A certified copy or certified transcript of a birth record shall be
-issued only upon order of a court of competent jurisdiction or upon a
+  * 2. A certified copy or certified transcript of a birth record shall
+be issued only upon order of a court of competent jurisdiction or upon a
 specific request therefor by the person, if eighteen years of age or
 more, or by a parent or other lawful representative of the person to
 whom the record of birth relates.
+  * NB Effective until September 1, 2015
+  * 2. A certified copy or certified transcript of a birth record shall
+be issued only upon order of a court of competent jurisdiction or upon a
+specific request therefor by the person, if eighteen years of age or
+more, or by a parent or other lawful representative of the person to
+whom the record of birth relates including an authorized representative
+of the office of children and family services or a local social services
+district if the person is in the care and custody or custody and
+guardianship of such entity.
+  * NB Effective September 1, 2015
   3. The registrar shall be entitled to a fee of ten dollars, except in
 the county of Chemung and the county of Monroe and the county of
 Onondaga and the county of Tompkins whereby such fee shall be set by the

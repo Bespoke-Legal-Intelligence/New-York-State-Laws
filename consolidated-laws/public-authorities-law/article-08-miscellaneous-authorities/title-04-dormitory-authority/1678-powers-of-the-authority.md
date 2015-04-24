@@ -417,7 +417,7 @@ the manner in which those services will be provided, the fees to be
 charged by the authority and the sources of funds for the projects. No
 design-build contract as defined in chapter fifty-six of the laws of two
 thousand eleven shall be awarded pursuant to this subdivision.
-  * NB Repealed April 1, 2015
+  * NB Repealed April 1, 2017
   * 27. To enter into a design and construction management agreement
 with the office of parks, recreation and historic preservation, pursuant
 to which one or more facilities are to be designed, constructed,
@@ -430,7 +430,7 @@ fees to be charged by the authority and the sources of funds for the
 projects. No design-build contract as defined in chapter fifty-six of
 the laws of two thousand eleven shall be awarded pursuant to this
 subdivision.
-  * NB Repealed April 1, 2015
+  * NB Repealed April 1, 2017
   28. To enter into a construction management agreement with the New
 York city housing authority, pursuant to which one or more facilities
 owned or operated by the New York city housing authority located in the

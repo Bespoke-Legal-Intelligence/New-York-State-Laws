@@ -9,8 +9,6 @@ New York estate by every deceased individual who at his or her death was
 a resident of New York state.
   (b) Computation of tax. The tax imposed by this section shall be
 computed on the deceased resident's New York taxable estate as follows:
-In the case of decedents dying on or after April 1, 2014 and before
-April 1, 2015
 If the New York taxable estate is:      The tax is:
 Not over $500,000                       3.06% of taxable estate
 Over $500,000 but not over $1,000,000   $15,300 plus 5.0% of excess over

@@ -712,4 +712,13 @@ false or fraudulent document to the department will be subject to a
 penalty of one hundred dollars per document submitted, or five hundred
 dollars per tax return submitted. This penalty will be in addition to
 any other penalty or addition provided by law.
+  (v) Failure to supply all the information required or to provide
+correct information in secretary of state statements. Unless it is shown
+that such failure to provide the statement and information required by
+section four hundred eight of the business corporation law is due to
+reasonable cause and not to willful neglect, there shall, upon notice
+and demand by the commissioner and in the same manner as tax, be paid by
+the taxpayer failing to supply complete and correct information, a
+penalty of two hundred fifty dollars per corporation required to provide
+such information.
 ```

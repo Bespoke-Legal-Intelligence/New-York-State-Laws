@@ -35,14 +35,17 @@ taxpayer's business income base. For taxable years beginning on or after
 January first, two thousand sixteen, the amount prescribed by this
 paragraph shall be six and one-half percent of the taxpayer's business
 income base. The taxpayer's business income base shall mean the portion
-of the taxpayer's business income allocated within the state as
+of the taxpayer's business income apportioned within the state as
 hereinafter provided. However, in the case of a small business taxpayer,
 as defined in paragraph (f) of this subdivision, the amount prescribed
 by this paragraph shall be computed pursuant to subparagraph (iv) of
 this paragraph and in the case of a manufacturer, as defined in
 subparagraph (vi) of this paragraph, the amount prescribed by this
 paragraph shall be computed pursuant to subparagraph (vi) of this
-paragraph.
+paragraph, and, in the case of a qualified emerging technology company,
+as defined in subparagraph (vii) of this paragraph, the amount
+prescribed by this paragraph shall be computed pursuant to subparagraph
+(vii) of this paragraph.
   (iv) for taxable years beginning before January first, two thousand
 sixteen, if the business income base is not more than two hundred ninety
 thousand dollars the amount shall be six and one-half percent of the
@@ -77,46 +80,42 @@ agriculture, horticulture, floriculture, viticulture or commercial
 fishing. However, the generation and distribution of electricity, the
 distribution of natural gas, and the production of steam associated with
 the generation of electricity shall not be qualifying activities for a
-manufacturer under this subparagraph. Moreover, the combined group shall
-be considered a "manufacturer" for purposes of this subparagraph only if
-the combined group during the taxable year is principally engaged in the
-activities set forth in this paragraph, or any combination thereof. A
-taxpayer or a combined group shall be "principally engaged" in
+manufacturer under this subparagraph. Moreover, in the case of a
+combined report, the combined group shall be considered a "manufacturer"
+for purposes of this subparagraph only if the combined group during the
+taxable year is principally engaged in the activities set forth in this
+paragraph, or any combination thereof. A taxpayer or, in the case of a
+combined report, a combined group shall be "principally engaged" in
 activities described above if, during the taxable year, more than fifty
 percent of the gross receipts of the taxpayer or combined group,
 respectively, are derived from receipts from the sale of goods produced
 by such activities. In computing a combined group's gross receipts,
 intercorporate receipts shall be eliminated. A "qualified New York
 manufacturer" is a manufacturer which has property in New York which is
-described in subdivision one of section two hundred ten-B of this
-article and either (I) the adjusted basis of such property for federal
-income tax purposes at the close of the taxable year is at least one
-million dollars or (II) all of its real and personal property is located
-in New York. A taxpayer or, in the case of a combined report, a combined
-group, that does not satisfy the principally engaged test may be a
-qualified New York manufacturer if the taxpayer or the combined group
-employs during the taxable year at least two thousand five hundred
-employees in manufacturing in New York and the taxpayer or the combined
-group has property in the state used in manufacturing, the adjusted
-basis of which for federal income tax purposes at the close of the
-taxable year is at least one hundred million dollars.
+described in clause (A) of subparagraph (i) of paragraph (b) of
+subdivision one of section two hundred ten-B of this article and either
+(I) the adjusted basis of such property for federal income tax purposes
+at the close of the taxable year is at least one million dollars or (II)
+all of its real and personal property is located in New York. A taxpayer
+or, in the case of a combined report, a combined group, that does not
+satisfy the principally engaged test may be a qualified New York
+manufacturer if the taxpayer or the combined group employs during the
+taxable year at least two thousand five hundred employees in
+manufacturing in New York and the taxpayer or the combined group has
+property in the state used in manufacturing, the adjusted basis of which
+for federal income tax purposes at the close of the taxable year is at
+least one hundred million dollars.
   (vii) For a taxpayer that is defined as a qualified emerging
 technology company under paragraph (c) of subdivision one of section
 thirty-one hundred two-e of the public authorities law regardless of the
 ten million dollar limitation expressed in subparagraph one of such
-paragraph (c) the rate at which the tax is computed in effect for
-taxable years beginning on or after January first, two thousand thirteen
-and before January first, two thousand fourteen for such qualified
-emerging technology companies shall be reduced by nine and two-tenths
-percent for taxable years commencing on or after January first, two
-thousand fourteen and before January first, two thousand fifteen, twelve
-and three-tenths percent for taxable years commencing on or after
+paragraph (c) the amount prescribed by this paragraph shall be computed
+at the rate of 5.7 percent for taxable years beginning on or after
 January first, two thousand fifteen and before January first, two
-thousand sixteen, fifteen and four-tenths percent for taxable years
-commencing on or after January first, two thousand sixteen and before
-January first, two thousand eighteen, and twenty-five percent for
-taxable years beginning on or after January first, two thousand
-eighteen.
+thousand sixteen, 5.5 percent for taxable years beginning on or after
+January first two thousand sixteen and before January first, two
+thousand eighteen, and 4.875 percent for taxable years beginning on or
+after January first, two thousand eighteen.
   (viii) (A) In computing the business income base, taxpayers shall be
 allowed both a prior net operating loss conversion subtraction under
 this subparagraph and a net operating loss deduction under subparagraph
@@ -173,11 +172,13 @@ subclause, if the taxpayer so elects, the taxpayer's prior net operating
 loss conversion subtraction for the tax years beginning on or after
 January first, two thousand fifteen and before January first, two
 thousand seventeen shall equal in each year, not more than one-half of
-its net operating loss conversion subtraction pool. The taxpayer shall
-make such election on its return for the tax year beginning on or after
-January first, two thousand fifteen and before January first, two
-thousand sixteen by the due date for such return (determined with regard
-to extensions).
+its net operating loss conversion subtraction pool until the pool is
+exhausted. If the pool is not exhausted at the end of such time period,
+the remainder of the pool shall be forfeited. The taxpayer shall make
+such revocable election on its first return for the tax year beginning
+on or after January first, two thousand fifteen and before January
+first, two thousand sixteen by the due date for such return (determined
+with regard to extensions).
   (3) Combined groups. (I) Where a taxpayer was properly included or
 required to be included in a combined report for the base year pursuant
 to section two hundred eleven of this article or a combined return under
@@ -213,29 +214,35 @@ combined group shall be increased by the amount of the remaining net
 operating loss conversion subtraction allowed to the taxpayer at the
 time the taxpayer is properly included in the combined group.
   (4) The prior net operating loss conversion subtraction may be used to
-reduce the taxpayer's tax on allocated business income to the higher of
-the tax on the capital base under paragraph (b) of this subdivision or
-the fixed dollar minimum under paragraph (d) of this subdivision. Any
-amount of unused subtraction shall be carried forward to subsequent tax
-year or years until tax years beginning on or after January first, two
-thousand thirty-six. Such amount carried forward shall not be subject to
-the one-tenth limitation for the subsequent tax year or years. However,
-if the taxpayer elects to compute its prior net operating loss
-conversion subtraction pursuant to item (IV) of subclause two of this
-clause, the taxpayer shall not carry forward any amount of such
-subtraction beyond its tax year beginning on or after January first, two
-thousand sixteen and before January first, two thousand seventeen.
-  (ix) Net operating loss deduction. In computing the business income
+reduce the taxpayer's tax on the apportioned business income base to the
+higher of the tax on the capital base under paragraph (b) of this
+subdivision or the fixed dollar minimum under paragraph (d) of this
+subdivision. Unless the taxpayer has made the election provided for in
+item (IV) of subclause two of this clause, any amount of unused
+subtraction shall be carried forward to subsequent tax year or years
+until the prior net operating loss conversion subtraction pool is
+exhausted, but for no longer than twenty taxable years, or the taxable
+year beginning on or after January first, two thousand thirty-five but
+before January first, two thousand thirty-six, whichever comes first.
+Such amount carried forward shall not be subject to the one-tenth
+limitation for the subsequent tax year or years. However, if the
+taxpayer elects to compute its prior net operating loss conversion
+subtraction pursuant to item (IV) of subclause two of this clause, the
+taxpayer shall not carry forward any unused amount of such subtraction
+to any tax year beginning on or after January first, two thousand
+seventeen.
+  (ix) Net operating loss deduction.  In computing the business income
 base, a net operating loss deduction shall be allowed. A net operating
 loss deduction is the amount of net operating loss or losses from one or
-more taxable years that are carried forward to a particular income year.
-A net operating loss is the amount of a business loss incurred in a
-particular tax year multiplied by the apportionment factor for that year
-as determined under section two hundred ten-A of this article. The
-maximum net operating deduction that is allowed in a taxable year is the
-amount that reduces the taxpayer's tax on allocated business income to
-the higher of the tax on the capital base or the fixed dollar minimum.
-Such deduction and loss are determined in accordance with the following:
+more taxable years that are carried forward or carried back to a
+particular taxable year. A net operating loss is the amount of a
+business loss incurred in a particular tax year multiplied by the
+apportionment factor for that year as determined under section two
+hundred ten-A of this article. The maximum net operating loss deduction
+that is allowed in a taxable year is the amount that reduces the
+taxpayer's tax on the apportioned business income base to the higher of
+the tax on the capital base or the fixed dollar minimum.  Such deduction
+and loss are determined in accordance with the following:
   (1) Such net operating loss deduction is not limited to the amount
 allowed under section one hundred seventy-two of the internal revenue
 code or the amount that would have been allowed if the taxpayer had not
@@ -249,25 +256,40 @@ the taxpayer was not subject to the tax imposed by this article.
 on a separate basis for purposes of this article must compute its
 deduction and loss as if it were filing on a separate basis for federal
 income tax purposes.
-  (4) A net operating loss may be carried forward to each of the twenty
-taxable years following the taxable year of the loss. A net operating
-loss may be carried back to each of the three taxable years preceding
-the taxable year of the loss; provided, however no loss can be carried
-back to a tax year prior to a tax year beginning on or after January,
-first, two thousand fifteen. A taxpayer must apply both of these
-limitations in computing such net operating loss deduction.
+  (4) A net operating loss may be carried back three taxable years
+preceding the taxable year of the loss ("the loss year"). However no
+loss can be carried back to a taxable year beginning before January
+first, two thousand fifteen. The loss is first carried to the earliest
+of the three taxable years. If it is not entirely used in that year, it
+is carried to the second taxable year preceding the loss year, and any
+remaining amount is carried to the taxable year immediately preceding
+the loss year. Any unused amount of loss then remaining may be carried
+forward for as many as twenty taxable years following the loss year.
+Losses carried forward are carried forward first to the taxable year
+immediately following the loss year, then to the second taxable year
+following the loss year, and then to the next immediately subsequent
+taxable year or years until the loss is used up or the twentieth taxable
+year following the loss year, whichever comes first.
   (5) Such net operating loss deduction shall not include any net
 operating loss incurred during a New York S year; provided, however, a
 New York S year must be treated as a taxable year for purposes of
 determining the number of taxable years to which a net operating loss
 may be carried forward.
-  (6) Where there are two or more allocated net operating losses, or
-portions thereof, carried forward to be deducted in one particular tax
-year from allocated business income, the earliest allocated loss
-incurred must be applied first.
-  (b) Capital base. (1) The amount prescribed by this paragraph shall be
-computed at .15 percent for each dollar of the taxpayer's total business
-capital, or the portion thereof allocated within the state as
+  (6) Where there are two or more apportioned net operating losses, or
+portions thereof, carried back or carried forward to be deducted in one
+particular tax year from apportioned business income, the earliest
+apportioned loss incurred must be applied first.
+  (7) A taxpayer may elect to waive the entire carryback period with
+respect to a net operating loss. Such election must be made on the
+taxpayer's original timely filed return (determined with regard to
+extensions) for the taxable year of the net operating loss for which the
+election is to be in effect. Once an election is made for a taxable
+year, it shall be irrevocable for that taxable year. A separate election
+must be made for each loss year. This election applies to all members of
+a combined group.
+  (b) Capital base. (1) (i) The amount prescribed by this paragraph
+shall be computed at .15 percent for each dollar of the taxpayer's total
+business capital, or the portion thereof apportioned within the state as
 hereinafter provided for taxable years beginning before January first,
 two thousand sixteen. However, in the case of a cooperative housing
 corporation as defined in the internal revenue code, the applicable rate
@@ -285,23 +307,23 @@ thousand twenty; .025 percent for taxable years beginning on or after
 January first, two thousand twenty and before January first, two
 thousand twenty-one; and zero percent for years beginning on or after
 January first, two thousand twenty-one. The rate of tax for a qualified
-New York manufacturer for tax years subsequent to taxable years
-beginning on or after January first, two thousand fifteen and before
-January first, two thousand sixteen shall be .106 percent for taxable
-years beginning on or after January first, two thousand sixteen and
-before January first, two thousand seventeen, .085 percent for taxable
-years beginning on or after January first, two thousand seventeen and
-before January first, two thousand eighteen; .056 percent for taxable
-years beginning on or after January first, two thousand eighteen and
-before January first, two thousand nineteen; .038 percent for taxable
-years beginning on or after January first, two thousand nineteen and
-before January first, thousand twenty; .019 percent for taxable years
-beginning on or after January first, two thousand twenty and before
-January first, two thousand twenty-one; and zero percent for years
-beginning on or after January first, two thousand twenty-one. In no
-event shall the amount prescribed by this paragraph exceed three hundred
-fifty thousand dollars for qualified New York manufacturers and for all
-other taxpayers five million dollars.
+New York manufacturer shall be .132 percent for taxable years beginning
+on or after January first, two thousand fifteen and before January
+first, two thousand sixteen, .106 percent for taxable years beginning on
+or after January first, two thousand sixteen and before January first,
+two thousand seventeen, .085 percent for taxable years beginning on or
+after January first, two thousand seventeen and before January first,
+two thousand eighteen; .056 percent for taxable years beginning on or
+after January first, two thousand eighteen and before January first, two
+thousand nineteen; .038 percent for taxable years beginning on or after
+January first, two thousand nineteen and before January first, thousand
+twenty; .019 percent for taxable years beginning on or after January
+first, two thousand twenty and before January first, two thousand
+twenty-one; and zero percent for years beginning on or after January
+first, two thousand twenty-one. (ii) In no event shall the amount
+prescribed by this paragraph exceed three hundred fifty thousand dollars
+for qualified New York manufacturers and for all other taxpayers five
+million dollars.
   (2) For purposes of subparagraph one of this paragraph, the term
 "manufacturer" shall mean a taxpayer which during the taxable year is
 principally engaged in the production of goods by manufacturing,
@@ -311,32 +333,36 @@ fishing. Moreover, for purposes of computing the capital base in a
 combined report, the combined group shall be considered a "manufacturer"
 for purposes of this subparagraph only if the combined group during the
 taxable year is principally engaged in the activities set forth in this
-subparagraph, or any combination thereof. A taxpayer or a combined group
-shall be "principally engaged" in activities described above if, during
-the taxable year, more than fifty percent of the gross receipts of the
-taxpayer or combined group, respectively, are derived from receipts from
-the sale of goods produced by such activities. In computing a combined
-group's gross receipts, intercorporate receipts shall be eliminated. A
-"qualified New York manufacturer" is a manufacturer that has property in
-New York that is described in subdivision one of section 210-B of this
-article and either (i) the adjusted basis of that property for federal
-income tax purposes at the close of the taxable year is at least one
-million dollars or (ii) all of its real and personal property is located
-in New York. In addition, a "qualified New York manufacturer" means a
-taxpayer that is defined as a qualified emerging technology company
-under paragraph (c) of subdivision one of section thirty-one hundred
-two-e of the public authorities law regardless of the ten million dollar
-limitation expressed in subparagraph one of such paragraph. A taxpayer
-or, in the case of a combined report, a combined group, that does not
-satisfy the principally engaged test may be a qualified New York
-manufacturer if the taxpayer or the combined group employs during the
-taxable year at least two thousand five hundred employees in
-manufacturing in New York and the taxpayer or the combined group has
-property in the state used in manufacturing, the adjusted basis of which
-for federal income tax purposes at the close of the taxable year is at
-least one hundred million dollars.
-  (d) Fixed dollar minimum. (1) The amount prescribed by this paragraph
-for New York S corporations will be determined in accordance with the
+subparagraph, or any combination thereof. A taxpayer or, in the case of
+a combined report, a combined group shall be "principally engaged" in
+activities described above if, during the taxable year, more than fifty
+percent of the gross receipts of the taxpayer or combined group,
+respectively, are derived from receipts from the sale of goods produced
+by such activities. In computing a combined group's gross receipts,
+intercorporate receipts shall be eliminated. A "qualified New York
+manufacturer" is a manufacturer that has property in New York that is
+described in clause (A) of subparagraph (i) of paragraph (b) of
+subdivision one of section two hundred ten-B of this article and either
+(i) the adjusted basis of that property for federal income tax purposes
+at the close of the taxable year is at least one million dollars or (ii)
+all of its real and personal property is located in New York. In
+addition, a "qualified New York manufacturer" means a taxpayer that is
+defined as a qualified emerging technology company under paragraph (c)
+of subdivision one of section thirty-one hundred two-e of the public
+authorities law regardless of the ten million dollar limitation
+expressed in subparagraph one of such paragraph. A taxpayer or, in the
+case of a combined report, a combined group, that does not satisfy the
+principally engaged test may be a qualified New York manufacturer if the
+taxpayer or the combined group employs during the taxable year at least
+two thousand five hundred employees in manufacturing in New York and the
+taxpayer or the combined group has property in the state used in
+manufacturing, the adjusted basis of which for federal income tax
+purposes at the close of the taxable year is at least one hundred
+million dollars.
+  (d) Fixed dollar minimum.  (1) (A) The amount prescribed by this
+paragraph for New York S corporations, other than New York S
+corporations that are qualified New York manufacturers or qualified
+emerging technology companies, will be determined in accordance with the
 following table:
 If New York receipts are:                The fixed dollar minimum tax is:
  not more than $100,000                               $   25
@@ -346,25 +372,57 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $1,000,000 but not over $5,000,000         $1,000
  more than $5,000,000 but not over $25,000,000        $3,000
  Over $25,000,000                                     $4,500
-Provided  further,  the  amount  prescribed  by  this  paragraph  for  a
-qualified New York manufacturer, as  defined  in  subparagraph  (vi)  of
-paragraph  (a)  of this subdivision, and a qualified emerging technology
-company under paragraph (c) of subdivision  one  of  section  thirty-one
-hundred  two-e  of  the  public  authorities  law  regardless of the ten
-million   dollar  limitation  expressed  in  subparagraph  one  of  such
-paragraph (c) will  be  determined  in  accordance  with  the  following
-tables:
-For  tax  years beginning on or after January 1, 2014 and before January
-1, 2015:
+  (B) Provided further, the amount prescribed by this paragraph for New
+York S corporations that are qualified New York manufacturers, as
+defined in subparagraph (vi) of paragraph (a) of this subdivision, and
+for New York S corporations that are qualified emerging technology
+companies under paragraph (c) of subdivision one of section thirty-one
+hundred two-e of the public authorities law regardless of the ten
+million dollar limitation expressed in subparagraph one of such
+paragraph (c), will be determined in accordance with the following
+tables.
+For taxable years beginning on or after January 1, 2015 and before
+January 1, 2016:
 If New York receipts are:                The fixed dollar minimum tax is:
- not more than $100,000                               $   23
- more than $100,000 but not over $250,000             $   68
- more than $250,000 but not over $500,000             $  159
- more than $500,000 but not over $1,000,000           $  454
- more than $1,000,000 but not over $5,000,000         $1,362
- more than $5,000,000 but not over $25,000,000        $3,178
- Over $25,000,000                                     $4,500
-For tax years beginning on or after January 1, 2015 and  before  January
+ not more than $100,000                               $   22
+ more than $100,000 but not over $250,000             $   44
+ more than $250,000 but not over $500,000             $  153
+ more than $500,000 but not over $1,000,000           $  263
+ more than $1,000,000 but not over $5,000,000         $  877
+ more than $5,000,000 but not over $25,000,000        $2,631
+ Over $25,000,000                                     $3,947
+For  taxable  years  beginning  on  or  after January 1, 2016 and before
+January 1, 2018:
+If New York receipts are:                The fixed dollar minimum tax is:
+ not more than $100,000                               $   21
+ more than $100,000 but not over $250,000             $   42
+ more than $250,000 but not over $500,000             $  148
+ more than $500,000 but not over $1,000,000           $  254
+ more than $1,000,000 but not over $5,000,000         $  846
+ more than $5,000,000 but not over $25,000,000        $2,538
+ Over $25,000,000                                     $3,807
+For taxable years beginning on or after January 1, 2018:
+If New York receipts are:                The fixed dollar minimum tax is:
+ not more than $100,000                               $   19
+ more than $100,000 but not over $250,000             $   38
+ more than $250,000 but not over $500,000             $  131
+ more than $500,000 but not over $1,000,000           $  225
+ more than $1,000,000 but not over $5,000,000         $  750
+ more than $5,000,000 but not over $25,000,000        $2,250
+ Over $25,000,000                                     $3,375
+  (C) Provided further, the amount prescribed by this paragraph for a
+qualified New York manufacturer, as defined in subparagraph (vi) of
+paragraph (a) of this subdivision, and a qualified emerging technology
+company under paragraph (c) of subdivision one of section thirty-one
+hundred two-e of the public authorities law regardless of the ten
+million dollar limitation expressed in subparagraph one of such
+paragraph (c), that is not a New York S corporation, will be determined
+in accordance with the following tables. However, with respect to
+qualified New York manufacturers, the amounts in these tables will apply
+in the case of a combined report only if the combined group satisfies
+the requirements to be a qualified New York manufacturer as set forth in
+such subparagraph (vi).
+For  tax  years beginning on or after January 1, 2015 and before January
 1, 2016:
 If New York receipts are:                The fixed dollar minimum tax is:
  not more than $100,000                               $   22
@@ -374,7 +432,7 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $1,000,000 but not over $5,000,000         $1,316
  more than $5,000,000 but not over $25,000,000        $3,070
  Over $25,000,000                                     $4,385
-For  tax  years beginning on or after January 1, 2016 and before January
+For tax years beginning on or after January 1, 2016 and  before  January
 1, 2018:
 If New York receipts are:                The fixed dollar minimum tax is:
  not more than $100,000                               $   21
@@ -393,8 +451,9 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $1,000,000 but not over $5,000,000         $1,125
  more than $5,000,000 but not over $25,000,000        $2,625
  Over $25,000,000                                     $3,750
-Otherwise the amount prescribed by this paragraph will be determined  in
-accordance with the following table:
+  (D) Otherwise, for all other taxpayers not covered by clauses (A), (B)
+and (C) of this subparagraph, the amount prescribed by this paragraph
+will be determined in accordance with the following table:
 If New York receipts are:                The fixed dollar minimum tax is:
  not more than $100,000                               $   25
  more than $100,000 but not over $250,000             $   75
@@ -402,24 +461,28 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $500,000 but not over $1,000,000           $  500
  more than $1,000,000 but not over $5,000,000         $1,500
  more than $5,000,000 but not over $25,000,000        $3,500
- more than $25,000,000
- but not over $50,000,000                             $5,000
+ more than $25,000,000 but not over $50,000,000       $5,000
  more than $50,000,000 but not over $100,000,000      $10,000
  more than $100,000,000 but not over $250,000,000     $20,000
  more than $250,000,000 but not over $500,000,000     $50,000
  more than $500,000,000 but not over $1,000,000,000   $100,000
  Over $1,000,000,000                                  $200,000
-For  purposes  of  this  paragraph,  New  York receipts are the receipts
-included in the numerator of the apportionment factor  determined  under
+  (E) For purposes of this paragraph, New York receipts are the receipts
+included in the numerator of the apportionment factor determined under
 section two hundred ten-A for the taxable year.
   (2) If the taxable year is less than twelve months, the amount of New
 York receipts is determined by dividing the amount of the receipts for
 the taxable year by the number of months in the taxable year and
-multiplying the result by twelve. In the case of a termination year of a
-New York S corporation, the sum of the tax computed under this paragraph
-for the S short year and for the C short year shall not be less than the
-amount computed under this paragraph as if the corporation were a New
-York C corporation for the entire taxable year.
+multiplying the result by twelve, and the amount prescribed by this
+paragraph shall be reduced by twenty-five percent of the period for
+which the taxpayer is subject to tax is more than six months but not
+more than nine months and by fifty percent if the period for which the
+taxpayer is subject to tax is not more than six months. In the case of a
+termination year of a New York S corporation, the sum of the tax
+computed under this paragraph for the S short year and for the C short
+year shall not be less than the amount computed under this paragraph as
+if the corporation were a New York C corporation for the entire taxable
+year.
   (f) For purposes of this section, the term "small business taxpayer"
 shall mean a taxpayer (i) which has an entire net income of not more
 than three hundred ninety thousand dollars for the taxable year; (ii)
@@ -443,7 +506,7 @@ corporation of such property for determining gain, reduced by any
 liability to which the property was subject or which was assumed by the
 corporation. The determination under the preceding sentence shall be
 made as of the time the property was received by the corporation. For
-purposes of subparagraph (iii) of this section, "average number of
+purposes of subparagraph (iv) of this paragraph, "average number of
 individuals, excluding general executive officers, employed full-time"
 shall be computed by ascertaining the number of such individuals
 employed by the taxpayer on the thirty-first day of March, the thirtieth
@@ -456,9 +519,9 @@ individual employed full-time means an employee in a job consisting of
 at least thirty-five hours per week, or two or more employees who are in
 jobs that together constitute the equivalent of a job at least
 thirty-five hours per week (full-time equivalent). Full-time equivalent
-employees in the state includes all employees regularly connected with
-or working out of an office or place of business of the taxpayer within
-the state.
+employees in the state include all employees regularly connected with or
+working out of an office or place of business of the taxpayer within the
+state.
   1-c. The computations specified in paragraph (b) of subdivision one of
 this section shall not apply to the first two taxable years of a
 taxpayer which, for one or both such years, is a small business taxpayer

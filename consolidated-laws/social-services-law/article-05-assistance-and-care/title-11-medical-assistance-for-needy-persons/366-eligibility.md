@@ -1689,6 +1689,68 @@ program, including data on residential program placements.
   n. This subdivision shall be effective only if, and as long as,
 federal financial participation is available for expenditures incurred
 under this subdivision.
+  7-a. a. The commissioner of health in consultation with the
+commissioner of developmental disabilities shall apply for a home and
+community-based waiver, pursuant to subdivision (c) of section nineteen
+hundred fifteen of the federal social security act, in order to provide
+home and community-based services for a population of persons with
+developmental disabilities, as such term is defined in section 1.03 of
+the mental hygiene law.
+  b. Persons eligible for participation in the waiver program shall:
+  (i) have a developmental disability as such term is defined in
+subdivision twenty-two of section 1.03 of the mental hygiene law;
+  (ii) meet the level of care criteria provided by an intermediate care
+facility for the developmentally disabled;
+  (iii) be eligible for Medicaid;
+  (iv) live at home or in an individualized residential alternative,
+community residence or family care home, operated or licensed by the
+office for people with developmental disabilities;
+  (v) be capable of being cared for in the community if provided with
+such services as respite, home adaptation, or other home and
+community-based services, other than room and board, as may be approved
+by the secretary of the federal department of health and human services,
+in addition to other services provided under this title, as determined
+by the assessment required by paragraph c of this subdivision;
+  (vi) have a demonstrated need for home and community based waiver
+services; and
+  (vii) meet such other criteria as may be established by the
+commissioner of health and the commissioner of developmental
+disabilities, as may be necessary to administer the provisions of this
+subdivision.
+  c. The commissioner of developmental disabilities shall assess the
+eligibility of persons enrolled, or seeking to enroll, in the waiver
+program. The assessment shall include, but need not be limited to, an
+evaluation of the health, psycho-social, developmental, habilitation and
+environmental needs of the person and shall serve as the basis for the
+development and provision of an appropriate person centered plan of care
+for such person.
+  d. The office for people with developmental disabilities shall
+undertake or arrange for the development of a written person centered
+plan of care for each person enrolled in the waiver. Such person
+centered plan of care shall describe the provision of home and community
+based waiver services consistent with the assessment for each person.
+  e. The office for people with developmental disabilities shall review
+the person centered plan of care and authorize those home and community
+based services to be included in the person centered plan of care,
+taking into account the person's assessed needs, valued outcomes and
+available resources.
+  f. The commissioners of developmental disabilities and health shall
+determine quality standards for organizations providing services under
+such waiver and shall authorize organizations that meet such standards
+to provide such services.
+  g. The commissioner of developmental disabilities or health may
+promulgate rules and regulations as necessary to effectuate the
+provisions of this section.
+  h. This subdivision shall be effective only if, and as long as,
+federal financial participation is available for expenditures incurred
+under this subdivision.
+  7-b. Services and needs assessment. The assessment completed pursuant
+to subdivision seven-a of this section shall be based upon a valid and
+reliable assessment tool. The assessment shall also include an
+evaluation of the individual's home environment, including but not
+limited to, the ability of family and/or caregivers to provide supports
+outside of those within the waiver, including but not limited to,
+activities of daily living.
   8. Notwithstanding any inconsistent provision of this chapter or any
 other law to the contrary, income and resources which are otherwise
 exempt from consideration in determining a person's eligibility for

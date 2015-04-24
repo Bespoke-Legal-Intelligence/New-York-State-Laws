@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 166 |
-| Last changed | 17 Apr 2015 |
+| Sections | 172 |
+| Last changed | 24 Apr 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (43 lines)](chapter-text.md)
+[Full chapter text (44 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Apr 2015](../../changes/2015/2015-04-24.md): 4 amended, 6 added
 - [17 Apr 2015](../../changes/2015/2015-04-17.md): 2 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 added
 - [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
@@ -73,3 +74,4 @@ Assembly, do enact as follows:
 - [Article 19 — Centers of Excellence Program](article-19-centers-of-excellence-program/)
 - [Article 20 — Empire State Jobs Retention Program](article-20-empire-state-jobs-retention-program/)
 - [Article 21 — Start-up Ny Program](article-21-start-up-ny-program/)
+- [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)

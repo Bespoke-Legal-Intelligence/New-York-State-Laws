@@ -26,34 +26,45 @@ this article (relating to providers of telecommunications services) such
 tax surcharge shall be calculated as if the tax imposed under section
 one hundred eighty-six-a of this article were imposed at a rate of three
 and one-half percent.
-  (b) In addition to the surcharge imposed by paragraph (a) of this
+  (b) (1) In addition to the surcharge imposed by paragraph (a) of this
 subdivision, there is hereby imposed a surcharge on the gross receipts
-from telecommunication services relating to the metropolitan commuter
-transportation district at the rate of seventeen percent of the state
-tax rate under section one hundred eighty-six-e of this article. All the
-definitions and other provisions of section one hundred eighty-six-e of
-this article shall apply to the tax imposed by this paragraph with such
-modification and limitation as may be necessary (including substituting
-the words "metropolitan commuter transportation district" for "state"
-where appropriate) in order to adapt the language of such section one
-hundred eighty-six-e of this article to the surcharge imposed by this
-paragraph within such metropolitan commuter transportation district so
-as to include (1) any intra-district telecommunication services, except
-any telecommunication services the gross receipts from which are subject
-to tax under subparagraph four of this paragraph, (2) any inter-district
-telecommunication services which originate or terminate in such district
-and are charged to a service address therein regardless of where the
-amounts charged for such services are billed or ultimately paid, except
-any telecommunications services the gross receipts from which are
-subject to tax under subparagraph four of this paragraph, (3) as
-apportioned to such district, private telecommunication services, except
-any telecommunication services the gross receipts from which are subject
-to tax under subparagraph four of this paragraph, and (4) mobile
-telecommunications service provided by a home service provider where the
-place of primary use is within such metropolitan commuter transportation
-district. Provided however, such tax surcharge shall be calculated as if
-the tax imposed under section one hundred eighty-six-e of this article
-were imposed at a rate of three and one-half percent.
+from telecommunication services, except for the gross receipts from
+mobile telecommunication services that are subject to tax under
+subparagraph two of this paragraph, relating to the metropolitan
+commuter transportation district at the rate of seventeen percent of the
+state tax rate under section one hundred eighty-six-e of this article.
+All the definitions and other provisions of section one hundred
+eighty-six-e of this article shall apply to the tax imposed by this
+subparagraph with such modification and limitation as may be necessary
+(including substituting the words "metropolitan commuter transportation
+district" for "state" where appropriate) in order to adapt the language
+of such section one hundred eighty-six-e of this article to the
+surcharge imposed by this subparagraph within such metropolitan commuter
+transportation district so as to include (i) any intra-district
+telecommunication services, (ii) any inter-district telecommunication
+services which originate or terminate in such district and are charged
+to a service address therein regardless of where the amounts charged for
+such services are billed or ultimately paid, and (iii) as apportioned to
+such district, private telecommunication services. Provided however,
+such tax surcharge shall be calculated as if the tax imposed under
+section one hundred eighty-six-e of this article were imposed at a rate
+of three and one-half percent.
+  (2) In addition to the surcharge imposed by paragraph (a) of this
+subdivision, there is hereby imposed a surcharge on the gross receipts
+from mobile telecommunication services relating to the metropolitan
+commuter transportation district at the rate of seven-tenths and
+two-hundredths and one-thousandth percent on and after May first, two
+thousand fifteen. All the definitions and other provisions of section
+one hundred eighty-six-e of this article shall apply to the tax imposed
+by this subparagraph with such modification and limitation as may be
+necessary (including substituting the words "metropolitan commuter
+transportation district" for "state" where appropriate) in order to
+adapt the language of such section one hundred eighty-six-e of this
+article to the surcharge imposed by this subparagraph within such
+metropolitan commuter transportation district so as to include any
+mobile telecommunications service provided by a home service provider
+where the mobile telecommunications customer's place of primary use is
+within such metropolitan commuter transportation district.
   2. If the tax imposed under section one hundred eighty-six-a of this
 article is on the taxpayer's gross income, the portion of the tax
 attributable to gross income from business activity carried on within

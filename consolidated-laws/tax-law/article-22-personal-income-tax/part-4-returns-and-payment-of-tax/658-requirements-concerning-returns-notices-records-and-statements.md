@@ -118,6 +118,16 @@ notice and demand and shall be assessed, collected and paid in the same
 manner as taxes, and for those purposes any reference in this article to
 tax imposed by this article shall be deemed also to refer to this filing
 fee.
+  (E) Notwithstanding the provisions of subsection (e) of section six
+hundred ninety-seven of this article, the commissioner shall provide the
+statements and other required information included on the filing fee
+payment form under section three hundred one of the limited liability
+company law, subdivision (g) of section 121-1500 of the partnership law,
+and subdivision (f) of section 121-1502 of the partnership law, to the
+secretary of state for filing. Such provision may also include a copy or
+image of that portion of the report solely pertinent to such information
+to the extent feasible. The commissioner may also provide information on
+noncompliance.
   (4) Estimated tax of nonresident partners, members and shareholders.
 (A) General. Every entity which is a partnership, other than a publicly
 traded partnership as defined in section 7704 of the federal Internal

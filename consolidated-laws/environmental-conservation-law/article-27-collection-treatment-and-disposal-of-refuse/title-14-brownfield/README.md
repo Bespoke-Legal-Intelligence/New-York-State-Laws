@@ -23,6 +23,7 @@
 - [§ 27-1431 Access to sites](27-1431-access-to-sites.md)
 - [§ 27-1433 Waiver of interest or penalties or other charges on brownfield properties](27-1433-waiver-of-interest-or-penalties-or-other.md)
 - [§ 27-1435 New York brownfields advisory board](27-1435-new-york-brownfields-advisory-board.md)
+- [§ 27-1437 BCP-EZ program](27-1437-bcp-ez-program.md)
 
 <details>
 <summary>Official heading of Title 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

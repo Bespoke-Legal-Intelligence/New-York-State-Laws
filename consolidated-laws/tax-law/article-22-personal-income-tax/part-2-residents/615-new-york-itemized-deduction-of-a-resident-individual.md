@@ -164,17 +164,17 @@ income is over one million dollars and no more than ten million dollars,
 the New York itemized deduction shall be an amount equal to fifty
 percent of any charitable contribution deduction allowed under section
 one hundred seventy of the internal revenue code for taxable years
-beginning after two thousand nine and before two thousand sixteen. With
+beginning after two thousand nine and before two thousand eighteen. With
 respect to an individual whose New York adjusted gross income is over
 one million dollars, the New York itemized deduction shall be an amount
 equal to fifty percent of any charitable contribution deduction allowed
 under section one hundred seventy of the internal revenue code for
 taxable years beginning in two thousand nine or after two thousand
-fifteen.
+seventeen.
   (2) With respect to an individual whose New York adjusted gross income
 is over ten million dollars, the New York itemized deduction shall be an
 amount equal to twenty-five percent of any charitable contribution
 deduction allowed under section one hundred seventy of the internal
 revenue code for taxable years beginning after two thousand nine and
-ending before two thousand sixteen.
+ending before two thousand eighteen.
 ```

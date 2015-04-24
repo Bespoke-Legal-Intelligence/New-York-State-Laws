@@ -148,7 +148,7 @@ shall have the meaning defined in 25 U.S.C. § 2703(8).
   (F) notwithstanding clauses (A), (B), (C), (D) and (E) of this
 subparagraph, when a vendor track, is located in Sullivan county and
 within sixty miles from any gaming facility in a contiguous state such
-vendor fee shall, for a period of seven years commencing April first,
+vendor fee shall, for a period of eight years commencing April first,
 two thousand eight, be at a rate of forty-one percent of the total
 revenue wagered at the vendor track after payout for prizes pursuant to
 this chapter, after which time such rate shall be as for all tracks in
@@ -200,19 +200,19 @@ required to co-invest an amount of capital expenditure equal to its
 cumulative vendor's capital award. For all tracks, except for Aqueduct
 racetrack, the amount of any vendor's capital award that is not used
 during any one year period may be carried over into subsequent years
-ending before April first, two thousand fifteen. Any amount attributable
+ending before April first, two thousand sixteen. Any amount attributable
 to a capital expenditure approved prior to April first, two thousand
-fifteen and completed before April first, two thousand seventeen; or
-approved prior to April first, two thousand nineteen and completed
-before April first, two thousand twenty-one for a vendor track located
-west of State Route 14 from Sodus Point to the Pennsylvania border
-within New York, shall be eligible to receive the vendor's capital
-award. In the event that a vendor track's capital expenditures, approved
-by the division prior to April first, two thousand fifteen and completed
-prior to April first, two thousand seventeen, exceed the vendor track's
+sixteen and completed before April first, two thousand eighteen; or
+approved prior to April first, two thousand twenty and completed before
+April first, two thousand twenty-two for a vendor track located west of
+State Route 14 from Sodus Point to the Pennsylvania border within New
+York, shall be eligible to receive the vendor's capital award. In the
+event that a vendor track's capital expenditures, approved by the
+division prior to April first, two thousand sixteen and completed prior
+to April first, two thousand eighteen, exceed the vendor track's
 cumulative capital award during the five year period ending April first,
-two thousand fifteen, the vendor shall continue to receive the capital
-award after April first, two thousand fifteen until such approved
+two thousand sixteen, the vendor shall continue to receive the capital
+award after April first, two thousand sixteen until such approved
 capital expenditures are paid to the vendor track subject to any
 required co-investment. In no event shall any vendor track that receives
 a vendor fee pursuant to clause (F) or (G) of this subparagraph be
@@ -223,7 +223,7 @@ prior to the full depreciation of the capital improvement in accordance
 with generally accepted accounting principles, shall reimburse the state
 in amounts equal to the total of any such awards. Any capital award not
 approved for a capital expenditure at a video lottery gaming facility by
-April first, two thousand fifteen shall be deposited into the state
+April first, two thousand sixteen shall be deposited into the state
 lottery fund for education aid; and
   (I) Notwithstanding any provision of law to the contrary, free play
 allowance credits authorized by the division pursuant to subdivision f

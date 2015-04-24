@@ -302,4 +302,12 @@ royalty payments paid, incurred or received by such taxpayer or related
 member to or from the other, including the treatment of such payments by
 the taxpayer or the related member in any report or return transmitted
 to the commissioner under this chapter.
+  15. Notwithstanding the provisions of subdivision eight of this
+section, the commissioner shall provide the statements and other
+required information requested on tax reports under section four hundred
+eight of the business corporation law to the secretary of state for
+filing. Such provision may also include a copy or image of that portion
+of the report solely pertinent to such information to the extent
+feasible. The commissioner any also provide information on
+noncompliance.
 ```

@@ -30,7 +30,7 @@
 - [§ 23 Administrative regulations](23-administrative-regulations.md)
 - [§ 24 Delegation of powers by commissioner](24-delegation-of-powers-by-commissioner.md)
 - [§ 25 Power to enter and inspect premises](25-power-to-enter-and-inspect-premises.md)
-- [§ 25-A Power to administer the New York youth works tax credit program](25a-power-to-administer-the-new-york-youth-works-tax-credit-program.md)
+- [§ 25-A Power to administer the urban youth jobs program tax credit](25a-power-to-administer-the-urban-youth-jobs-program-tax-credit.md)
 - [§ 25-B Power to administer the workers with disabilities tax credit program](25b-power-to-administer-the-workers-with-disabilities-tax-credit-program.md)
 - [§ 26 Examination of books and papers](26-examination-of-books-and-papers.md)
 - [§ 27 Safety and health standards](27-safety-and-health-standards.md)
@@ -89,8 +89,8 @@ Section 10.   Department of labor; commissioner of labor.
         23.   Administrative regulations.
         24.   Delegation of powers by commissioner.
         25.   Power to enter and inspect premises.
-        25-a. Power to administer the New York youth works tax credit
-                program.
+        25-a. Power to administer the urban youth jobs program tax
+                credit.
         25-b. Power to administer the workers with disabilities tax
                 credit program.
         26.   Examination of books and papers.

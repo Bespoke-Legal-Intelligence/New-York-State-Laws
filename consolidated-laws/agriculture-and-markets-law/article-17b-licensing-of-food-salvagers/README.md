@@ -8,7 +8,7 @@
 - [§ 216 Application of article](216-application-of-article.md)
 - [§ 217 Definitions](217-definitions.md)
 - [§ 218 License required](218-license-required.md)
-- [§ 219 Application and fee](219-application-and-fee.md)
+- [§ 219 Application](219-application.md)
 - [§ 220 Granting or revoking licenses](220-granting-or-revoking-licenses.md)
 - [§ 221 Review](221-review.md)
 - [§ 222 Rules and regulations](222-rules-and-regulations.md)

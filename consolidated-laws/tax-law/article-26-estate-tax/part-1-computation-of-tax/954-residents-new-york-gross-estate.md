@@ -16,9 +16,12 @@ created prior to September first, nineteen hundred thirty).
   (3) Increased by the amount of any taxable gift under section 2503 of
 the internal revenue code not otherwise included in the decedent's
 federal gross estate, made during the three year period ending on the
-decedent's date of death, but not including any gift made: (1) when the
-decedent was not a resident of New York state; (2) before April first,
-two thousand fourteen; or (3) on or after January first, two thousand
+decedent's date of death, but not including any gift made: (A) when the
+decedent was not a resident of New York state; or (B) before April
+first, two thousand fourteen; or (C) that is real or tangible personal
+property having an actual situs outside New York state at the time the
+gift was made. Provided, however that this paragraph shall not apply to
+the estate of a decendent dying on or after January first, two thousand
 nineteen.
   (b) Valuation. -- (1) The New York gross estate shall be valued as of
 the time of the decedent's death, except that if a federal estate tax

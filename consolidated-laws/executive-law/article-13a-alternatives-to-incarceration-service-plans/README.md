@@ -28,7 +28,7 @@ Section 261. Alternatives to incarceration service plans.
                approved amendments for eligible alcohol and substance
                abuse programs.
         267. Office reports.
-* NB Repealed September 1, 2015
+* NB Repealed September 1, 2017
 ```
 
 </details>

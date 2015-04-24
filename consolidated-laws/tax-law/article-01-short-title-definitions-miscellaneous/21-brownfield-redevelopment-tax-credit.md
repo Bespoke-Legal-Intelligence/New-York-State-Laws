@@ -24,7 +24,7 @@ other than with respect to such qualification shall be allowed for the
 taxable year in which the improvement to which the applicable costs
 apply is placed in service for up to five taxable years after the
 issuance of such certificate of completion.
-  (3) Tangible property credit component. The tangible property credit
+  * (3) Tangible property credit component. The tangible property credit
 component shall be equal to the applicable percentage of the cost or
 other basis for federal income tax purposes of tangible personal
 property and other tangible property, including buildings and structural
@@ -66,11 +66,117 @@ or any portion of an interest or estate in the site and the amounts
 included in the cost or other basis for federal income tax purposes of
 qualified tangible property already claimed by the previous taxpayer
 pursuant to this section.
-  (3-a) (A) Notwithstanding any other provision of law to the contrary,
-the tangible property credit component available for any qualified site
-pursuant to paragraph three of this subdivision shall not exceed
-thirty-five million dollars or three times the costs included in the
-calculation of the site preparation credit component and the on-site
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (3) Tangible property credit component.
+  (i) The tangible property credit component shall be equal to the
+applicable percentage of the cost or other basis for federal income tax
+purposes of tangible personal property and other tangible property,
+including buildings and structural components of buildings, which
+constitute qualified tangible property and may include any related party
+service fee paid; provided that in determining the cost or other basis
+of such property, the taxpayer shall exclude the acquisition cost of any
+item of property with respect to which a credit under this section was
+allowable to another taxpayer. A related party service fee shall be
+allowed only in the calculation of the tangible property credit
+component and shall not be allowed in the calculation of the site
+preparation credit component or the on-site groundwater remediation
+credit component. The portion of the tangible property credit component
+which is attributable to related party service fees shall be allowed
+only as follows: (A) in the taxable year in which the qualified tangible
+property described in subparagraph (iii) of this paragraph is placed in
+service, for that portion of the related party service fees which have
+been earned and actually paid to the related party on or before the last
+day of such taxable year; and (B) with respect to any other taxable year
+for which the tangible property credit component may be claimed under
+this subparagraph and in which the amount of any additional related
+party service fees are actually paid by the taxpayer to the related
+party, the tangible property credit component for such amount shall be
+allowed in such taxable year. The credit component amount so determined
+shall be allowed for the taxable year in which such qualified tangible
+property is first placed in service on a qualified site with respect to
+which a certificate of completion has been issued to the taxpayer, or
+for the taxable year in which the certificate of completion is issued if
+the qualified tangible property is placed in service prior to the
+issuance of the certificate of completion. This credit component shall
+only be allowed for up to one hundred twenty months after the date of
+the issuance of such certificate of completion.
+  (ii) The tangible property credit component shall be allowed with
+respect to property leased to a second party only if such second party
+is either (A) not a party responsible for the disposal of hazardous
+waste or the discharge of petroleum at the site according to applicable
+principles of statutory or common law liability, or (B) a party
+responsible according to applicable principles of statutory or common
+law liability if such party's liability arises solely from operation of
+the site subsequent to the disposal of hazardous waste or the discharge
+of petroleum, and is so certified by the commissioner of environmental
+conservation at the request of the taxpayer, pursuant to section 27-1419
+of the environmental conservation law. Notwithstanding any other
+provision of law to the contrary, in the case of allowance of credit
+under this section to such a lessor, the commissioner shall have the
+authority to reveal to such lessor any information, with respect to the
+issue of qualified use of property by the lessee, which is the basis for
+the denial in whole or in part, or for the recapture, of the credit
+claimed by such lessor. For purposes of the tangible property credit
+component allowed under this section the taxpayer to whom the
+certificate of completion is issued, as provided for under subdivision
+five of section 27-1419 of the environmental conservation law, may
+transfer the benefits and burdens of the certificate of completion,
+which run with the land and to the applicant's successors or assigns
+upon transfer or sale of all or any portion of an interest or estate in
+the qualified site. However, the taxpayer to whom certificate's benefits
+and burdens are transferred shall not include the cost of acquiring all
+or any portion of an interest or estate in the site and the amounts
+included in the cost or other basis for federal income tax purposes of
+qualified tangible property already claimed by the previous taxpayer
+pursuant to this section.
+  (iii) The term "related party service fee" shall mean any fee or other
+monetary compensation earned by a related party and calculated as a
+percentage of project and/or acquisition costs, in consideration of
+services rendered to or for the benefit of the taxpayer placing
+qualified tangible property in service in connection with the
+acquisition and development of such property. For purposes of this
+subparagraph, "related party" shall have the same meaning as related
+person as defined in subparagraph (c) of paragraph three of subdivision
+(b) of section four hundred sixty-five of the internal revenue code.
+  (iv) Eligible costs for the tangible property credit component are
+limited to costs for tangible property that has a depreciable life for
+federal income tax purposes of fifteen years or more, costs associated
+with demolition and excavation on the site and the foundation of any
+buildings constructed as part of the site cover that are not properly
+included in the site preparation component and costs associated with
+non-portable equipment, machinery and associated fixtures and
+appurtenances used exclusively on the site, whether or not such property
+has a depreciable life for federal income tax purposes of fifteen years
+or more.
+  (v) With respect to any qualified site for which the department of
+environmental conservation has issued a notice to the taxpayer on or
+after July first, two thousand fifteen or the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision thirty of section 27-1405 of the environmental
+conservation law, whichever shall be later, that its request for
+participation has been accepted under subdivision six of section 27-1407
+of the environmental conservation law, and the site is eligible for the
+tangible property credit component because it is an affordable housing
+project pursuant to subdivision one-a of section 27-1407 of the
+environmental conservation law, the portion of eligible costs to be
+included in the calculation of the tangible property credit component
+will be determined by multiplying the total costs qualified for the
+tangible property credit component by a fraction, the numerator of which
+shall be the square footage of space of the affordable housing units
+dedicated to residential occupancy and the denominator of which shall be
+the total square footage of the building.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
+  (3-a) * (A) Notwithstanding any other provision of law to the
+contrary, the tangible property credit component available for any
+qualified site pursuant to paragraph three of this subdivision shall not
+exceed thirty-five million dollars or three times the costs included in
+the calculation of the site preparation credit component and the on-site
 groundwater remediation credit component under paragraphs two and four,
 respectively, of this subdivision, whichever is less; provided, however,
 that: (1) in the case of a qualified site to be used primarily for
@@ -86,7 +192,41 @@ has issued a notice to the taxpayer before June twenty-third, two
 thousand eight that its request for participation has been accepted
 under subdivision six of section 27-1407 of the environmental
 conservation law.
-  (B) For the purposes of this paragraph, the term "manufacturing
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (A) Notwithstanding any other provision of law to the contrary, the
+tangible property credit component available for any qualified site
+pursuant to paragraph three of this subdivision shall not exceed
+thirty-five million dollars or three times the sum of the costs included
+in the calculation of the site preparation credit component and the
+on-site groundwater remediation credit component under paragraphs two
+and four, respectively, of this subdivision, and the costs that would
+have been included in the calculation of such components if not treated
+as an expense and deducted pursuant to section one hundred ninety-eight
+of the internal revenue code, whichever is less; provided, however,
+that: (1) in the case of a qualified site to be used primarily for
+manufacturing activities, the tangible property credit component
+available for any qualified site pursuant to paragraph three of this
+subdivision shall not exceed forty-five million dollars or six times the
+sum of the costs included in the calculation of the site preparation
+credit component and the on-site groundwater remediation credit
+component under paragraphs two and four, respectively, of this
+subdivision, and the costs that would have been included in the
+calculation of such components if not treated as an expense and deducted
+pursuant to section one hundred ninety-eight of the internal revenue
+code, whichever is less; and (2) the provisions of this paragraph shall
+not apply to any qualified site for which the department of
+environmental conservation has issued a notice to the taxpayer before
+June twenty-third, two thousand eight that its request for participation
+has been accepted under subdivision six of section 27-1407 of the
+environmental conservation law.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
+  * (B) For the purposes of this paragraph, the term "manufacturing
 activities" means the production of goods by manufacturing, processing,
 assembling, refining, mining, extracting, farming, agriculture,
 horticulture, floriculture, viticulture or commercial fishing, and shall
@@ -98,18 +238,75 @@ paragraph; provided however, that the generation and distribution of
 electricity, the distribution of natural gas, and the production of
 steam associated with the generation of electricity, shall not
 constitute manufacturing activities.
-  (C) In order to properly administer the credit set forth in paragraph
-three of this subdivision, the department may disclose information about
-the calculation and the amounts of the credits claimed under paragraph
-three of this subdivision on a taxpayer's return to the department of
-environmental conservation and other taxpayers claiming tax credits
-under this section with respect to the same qualifying site.
-  (D) If the qualifying site is located in a brownfield opportunity area
-and is developed in conformance with the goals and priorities
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (B) For the purposes of this paragraph, the term "manufacturing
+activities" means the production of goods by manufacturing, processing,
+assembling, refining, mining, extracting, farming, agriculture,
+horticulture, floriculture, viticulture or commercial fishing; provided
+however, that the generation and distribution of electricity, the
+distribution of natural gas, and the production of steam associated with
+the generation of electricity, shall not constitute manufacturing
+activities.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
+  * (C) In order to properly administer the credit set forth in
+paragraph three of this subdivision, the department may disclose
+information about the calculation and the amounts of the credits claimed
+under paragraph three of this subdivision on a taxpayer's return to the
+department of environmental conservation and other taxpayers claiming
+tax credits under this section with respect to the same qualifying site.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (C) In order to properly administer the credits set forth in this
+subdivision, the department may disclose information about the
+calculation and the amounts of the credits claimed under this
+subdivision on a taxpayer's return to the department of environmental
+conservation and other taxpayers claiming tax credits under this section
+with respect to the same qualifying site.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
+  * (D) If the qualifying site is located in a brownfield opportunity
+area and is developed in conformance with the goals and priorities
 established for that applicable brownfield opportunity area as
 designated pursuant to section nine hundred seventy-r of the general
 municipal law, the applicable percentage of the tangible property credit
 component will be increased by two percent.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (D) With respect to any qualified site for which the department of
+environmental conservation has issued a notice to the taxpayer before
+July first, two thousand fifteen or the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision thirty of section 27-1405 of the environmental conservation
+law, whichever shall be later, that its request for participation has
+been accepted under subdivision six of section 27-1407 of the
+environmental conservation law, or where the taxpayer has either been
+issued or received a certificate of completion from another taxpayer
+under section 27-1419 of the environmental conservation law before July
+first, two thousand fifteen or the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision thirty of section 27-1405 of the environmental conservation
+law, whichever shall be later, if the qualifying site is located in a
+brownfield opportunity area and is developed in conformance with the
+goals and priorities established for that applicable brownfield
+opportunity area as designated pursuant to section nine hundred
+seventy-r of the general municipal law, the applicable percentage of the
+tangible property credit component will be increased by two percent.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (4) On-site groundwater remediation credit component. The on-site
 groundwater remediation credit component shall be equal to the
 applicable percentage of the on-site groundwater remediation costs paid
@@ -125,7 +322,7 @@ determined in taxable years after the effective date of the issuance of
 a certificate of completion shall be allowed in the taxable year such
 qualified costs are incurred and paid for up to five taxable years after
 the issuance of such certificate of completion.
-  (5) Applicable percentage. For purposes of paragraphs two, three and
+  * (5) Applicable percentage. For purposes of paragraphs two, three and
 four of this subdivision, the applicable percentage shall be twelve
 percent in the case of credits claimed under article nine, nine-A or
 thirty-three of this chapter, and ten percent in the case of credits
@@ -140,6 +337,87 @@ qualified site has been remediated to Track 1 as that term is described
 in subdivision four of section 27-1415 of the environmental conservation
 law, the applicable percentage set forth in the first sentence of this
 paragraph shall be increased by an additional two percent.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (5) Applicable percentage. (A) For purposes of computing the site
+preparation and on-site groundwater remediation credit components
+pursuant to paragraphs two and four of this subdivision, with respect to
+such qualified sites for which the department of environmental
+conservation has issued a notice to the taxpayer before June
+twenty-third, two thousand eight that its request for participation has
+been accepted under subdivision six of section 27-1407 of the
+environmental conservation law, or where the taxpayer has either been
+issued or received a certificate of completion from another taxpayer
+under section 27-1419 of the environmental conservation law for such a
+site, and, for purposes of computing the tangible property component
+pursuant to paragraph three of this subdivision with respect to such
+qualified sites for which the department of environmental conservation
+has issued a notice to the taxpayer before July first, two thousand
+fifteen or the date of publication in the state register of proposed
+regulations defining "underutilized" as provided in subdivision thirty
+of section 27-1405 of the environmental conservation law, whichever
+shall be later, that its request for participation has been accepted
+under subdivision six of section 27-1407 of the environmental
+conservation law, or where the taxpayer has either been issued or
+received a certificate of completion from another taxpayer under section
+27-1419 of the environmental conservation law for such a site, the
+applicable percentage shall be twelve percent in the case of credits
+claimed under article nine, nine-A or thirty-three of this chapter, and
+ten percent in the case of credits claimed under article twenty-two of
+this chapter, except that where at least fifty percent of the area of
+the qualified site relating to the credit provided for in this section
+is located in an environmental zone as defined in paragraph six of
+subdivision (b) of this section, the applicable percentage shall be
+increased by an additional eight percent. Provided, however, as afforded
+in section 27-1419 of the environmental conservation law, if the
+certificate of completion indicates that the qualified site has been
+remediated to Track 1 as that term is described in subdivision four of
+section 27-1415 of the environmental conservation law, the applicable
+percentage set forth in the first sentence of this paragraph shall be
+increased by an additional two percent.
+  (B) With respect to such qualified site for which the department of
+environmental conservation has issued a notice to the taxpayer on or
+after July first, two thousand fifteen or the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision thirty of section 27-1405 of the environmental
+conservation law, whichever shall be later, that its request for
+participation has been accepted under subdivision six of section 27-1407
+of the environmental conservation law, the applicable percentage for the
+tangible property credit component of the brownfield redevelopment tax
+credit pursuant to paragraph three of subdivision (a) of this section
+shall be the sum of ten percent and the following additional
+percentages, provided that if the sum is greater than twenty-four
+percent, the total percentage of the tangible property credit component
+shall be twenty-four percent and is otherwise subject to the limitations
+set forth in paragraphs three and three-a of subdivision (a) of this
+section:
+  (i) five percent for a site within an environmental zone;
+  (ii) five percent for a site located within a designated brownfield
+opportunity area and is developed in conformance with the goals and
+priorities established for that applicable brownfield opportunity area;
+  (iii) five percent for a site developed as affordable housing, as
+defined in section 27-1405 of the environmental conservation law;
+  (iv) five percent for a site to be used primarily for manufacturing
+activities as such term is defined in subparagraph (B) of paragraph
+three-a of this subdivision; and
+  (v) five percent for sites remediated to Track 1 as that term is
+defined in subdivision four of section 27-1415 of the environmental
+conservation law.
+  (C) The taxpayer shall submit, in the manner prescribed by the
+commissioner, information sufficient to demonstrate that the site
+qualifies for any credit components available under subparagraph (B) of
+this paragraph. If the site is receiving the credit component authorized
+pursuant to clause (ii) of subparagraph (B) of this paragraph for being
+located within a designated brownfield opportunity area, the taxpayer
+shall submit a certification from the secretary of state that the
+development is in conformance with such brownfield opportunity area plan
+pursuant to section nine hundred seventy-r of the general municipal law.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (6) Site preparation costs and on-site groundwater remediation costs
 paid or incurred by the taxpayer with respect to a qualified site and
 the cost or other basis for federal income tax purposes of tangible
@@ -161,7 +439,7 @@ have the following meanings:
 a certificate of completion has been issued to the taxpayer by the
 commissioner of environmental conservation pursuant to section 27-1419
 of the environmental conservation law.
-  (2) Site preparation costs. The term "site preparation costs" shall
+  * (2) Site preparation costs. The term "site preparation costs" shall
 mean all amounts properly chargeable to a capital account, (i) which are
 paid or incurred in connection with a site's qualification for a
 certificate of completion, and (ii) all other site preparation costs
@@ -176,6 +454,43 @@ preparation costs shall not include the cost of acquiring the site and
 shall not include amounts included in the cost or other basis for
 federal income tax purposes of qualified tangible property, as described
 in paragraph three of this subdivision.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (2) Site preparation costs. The term "site preparation costs" shall
+mean all amounts properly chargeable to a capital account, which are
+paid or incurred which are necessary to implement a site's
+investigation, remediation, or qualification for a certificate of
+completion, and shall include costs of: excavation; demolition;
+activities undertaken under the oversight of the department of labor or
+in accordance with standards established by the department of health to
+remediate and dispose of regulated materials including asbestos, lead or
+polychlorinated biphenyls; environmental consulting; engineering; legal
+costs; transportation, disposal, treatment or containment of
+contaminated soil; remediation measures taken to address contaminated
+soil vapor; cover systems consistent with applicable regulations;
+physical support of excavation; dewatering and other work to facilitate
+or enable remediation activities; sheeting, shoring, and other
+engineering controls required to prevent off-site migration of
+contamination from the qualified site or migrating onto the qualified
+site; and the costs of fencing, temporary electric wiring, scaffolding,
+and security facilities until such time as the certificate of completion
+has been issued. Site preparation shall include all costs paid or
+incurred within sixty months after the last day of the tax year in which
+the certificate of completion is issued that are necessary for
+compliance with the certificate of completion or subsequent
+modifications thereof, or the remedial program defined in such
+certificate of completion including but not limited to institutional
+controls, engineering controls, an approved site management plan, and an
+environmental easement with respect to the qualified site. Site
+preparation cost shall not include the costs of foundation systems that
+exceed the cover system requirements in the regulations applicable to
+the qualified site.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (3) Qualified tangible property. "Qualified tangible property" is
 property described in either subparagraph (A) or (B) of this paragraph
 which:
@@ -188,10 +503,25 @@ seventy-nine (d) of the internal revenue code,
   (v) is principally used by the taxpayer for industrial, commercial,
 recreational or environmental conservation purposes (including the
 commercial development of residential housing); or
-  (B)(i) is, or when occupied becomes, part of a dwelling whose primary
+  (B)* (i) is, or when occupied becomes, part of a dwelling whose
+primary ownership structure is covered under either article nine-B of
+the real property law or meets the requirements of section 216 (b)(1) of
+the Internal Revenue Code;
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (i) is, or when occupied becomes, part of a dwelling whose primary
 ownership structure is covered under either article nine-B of the real
 property law or meets the requirements of section 216 (b)(1) of the
-Internal Revenue Code;
+Internal Revenue Code or is part of an affordable housing project as
+defined in subdivision twenty-nine of section 27-1405 of the
+environmental conservation law, where units are sold as single family
+homes or multiple family dwellings;
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (ii) has been acquired by purchase (as defined in section one hundred
 seventy-nine (d) of the Internal Revenue Code);
   (iii) has a situs on a qualified site in this state; and
@@ -203,7 +533,7 @@ addition, for the purposes of this subdivision only, property qualifying
 under this subparagraph shall be deemed to have been placed in service
 for the purposes of paragraph three of subdivision (a) of this section
 when a certificate of occupancy is issued for such property.
-  (4) On-site groundwater remediation costs. The term "on-site
+  * (4) On-site groundwater remediation costs. The term "on-site
 groundwater remediation costs" shall mean all amounts properly
 chargeable to a capital account, (i) which are paid or incurred in
 connection with a site's qualification for a certificate of completion,
@@ -213,14 +543,43 @@ implement a requirement of the remedial work plan or an interim remedial
 measure work plan for a qualified site which are imposed pursuant to
 subdivisions two and three of section 27-1411 of the environmental
 conservation law.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (4) On-site groundwater remediation costs. The term "on-site
+groundwater remediation costs" shall mean all amounts properly
+chargeable to a capital account, which are paid or incurred which are
+necessary to implement a site's groundwater investigation, remediation,
+or qualification for a certificate of completion not already covered
+under site preparation costs, and shall include costs of: environmental
+consulting; engineering; legal costs; transportation, disposal,
+treatment or containment of contaminated groundwater; sheeting, shoring,
+and other engineering controls required to prevent off-site migration of
+groundwater contamination from the qualified site or migrating onto the
+qualified site; and the costs of fencing, temporary electric wiring and
+security facilities until such time as the certificate of completion is
+issued. On-site groundwater remediation costs shall include all costs
+paid or incurred within sixty months after the last day of the tax year
+in which the certificate of completion is issued that are necessary for
+compliance with the certificate of completion or subsequent
+modifications thereof, or the groundwater remedial program defined in
+such certificate of completion including but not limited to
+institutional controls, engineering controls, an approved site
+management plan specific to on-site groundwater remediation, and an
+environmental easement with respect to the qualified site.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (5) Certificate of completion. A "certificate of completion" issued by
 the commissioner of environmental conservation pursuant to section
 27-1419 of the environmental conservation law.
-  (6) Environmental zones (EN-Zones). An "environmental zone" shall mean
-an area designated as such by the commissioner of economic development.
-Such areas so designated are areas which are census tracts and block
-numbering areas which, as of the two thousand census, satisfy either of
-the following criteria:
+  * (6) Environmental zones (EN-Zones). An "environmental zone" shall
+mean an area designated as such by the commissioner of economic
+development.  Such areas so designated are areas which are census tracts
+and block numbering areas which, as of the two thousand census, satisfy
+either of the following criteria:
   (A) areas that have both:
   (i) a poverty rate of at least twenty percent for the year to which
 the data relate; and
@@ -241,6 +600,38 @@ environmental zone under subparagraph (B) of this paragraph if such site
 was the subject of a brownfield site cleanup agreement pursuant to
 section 27-1409 of the environmental conservation law that was entered
 into prior to September first, two thousand ten.
+  * NB Effective until July 1, 2015 or on the date of publication in the
+state register of proposed regulations defining "underutilized" as
+provided in subdivision 30 of section 27-1405 of the environmental
+conservation law, whichever shall be later
+  * (6) Environmental zones (EN-Zones). An "environmental zone" shall
+mean an area designated as such by the commissioner of labor. Such areas
+shall be census tracts that satisfy either of the following criteria:
+  (A) areas that have both:
+  (i) a poverty rate of at least twenty percent based on the most recent
+five year American Community Survey; and
+  (ii) an unemployment rate of at least one and one-quarter times the
+statewide unemployment rate based on the most recent five year American
+Community Survey, or;
+  (B) areas that have a poverty rate of at least two times the poverty
+rate for the county in which the areas are located based on the most
+recent five year American Community Survey.
+  Such designation shall be made and a list of all such environmental
+zones shall be established by the commissioner of labor based on the two
+thousand nine through two thousand thirteen American Community Survey
+estimate. Upon request of the commissioner of environmental
+conservation, the commissioner of labor shall update such designation
+based on the most recent American Community Survey, or its successor.
+  The determination of whether a site is located in an environmental
+zone shall be based on the date the department of environmental
+conservation issued a notice to the taxpayer that its request for
+participation in the brownfield cleanup program has been deemed complete
+pursuant to subdivision three of section 27-1407 of the environmental
+conservation law.
+  * NB Effective July 1, 2015 or on the date of publication in the state
+register of proposed regulations defining "underutilized" as provided in
+subdivision 30 of section 27-1405 of the environmental conservation law,
+whichever shall be later
   (c) Qualifying property. Property which qualifies for the credit
 provided for under this section and also for a credit provided for (1)
 under either subdivision one or subdivision three of section two hundred

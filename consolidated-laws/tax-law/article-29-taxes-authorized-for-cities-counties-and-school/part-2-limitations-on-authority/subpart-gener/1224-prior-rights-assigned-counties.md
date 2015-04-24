@@ -39,6 +39,28 @@ such taxes for educational purposes or for such allocation and
 distribution, or both, at not to exceed one-third of such maximum rate.
 In such event, a city in the county shall have prior right to impose
 such taxes at not to exceed one-third of such maximum rate.
+  * (c-1) Notwithstanding any other provision of law: (1) Where a county
+containing one or more cities with a population of less than one million
+has elected the exemption for residential solar energy systems equipment
+and electricity provided in subdivision (ee) of section eleven hundred
+fifteen of this chapter, the exemption for commercial solar energy
+systems equipment and electricity provided in subdivision (ii) of such
+section eleven hundred fifteen, or both such exemptions, a city within
+such county shall have the prior right to impose tax on such exempt
+equipment and/or electricity to the extent of one half of the maximum
+rates authorized under subdivision (a) of section twelve hundred ten of
+this article;
+  (2) Where a city of less than one million has elected the exemption
+for residential solar energy systems equipment and electricity provided
+in subdivision (ee) of section eleven hundred fifteen of this chapter,
+the exemption for commercial solar energy systems equipment and
+electricity provided in subdivision (ii) of such section eleven hundred
+fifteen, or both such exemptions, the county in which such city is
+located shall have the prior right to impose tax on such exempt
+equipment and/or electricity to the extent of one half of the maximum
+rates authorized under subdivision (a) of section twelve hundred ten of
+this article.
+  * NB Effective December 1, 2015
   (d) The city of Yonkers shall have the sole right to impose the
 additional one percent rate of tax which such city is authorized to
 impose pursuant to the authority of section twelve hundred ten, such

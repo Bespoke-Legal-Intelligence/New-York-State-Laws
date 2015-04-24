@@ -288,12 +288,13 @@ government official any identifying information which the panel has been
 provided and shall not make public other information unless otherwise
 authorized by statute;
   (z) an entity with appropriate legal authority in another state to
-license, certify or otherwise approve prospective foster and adoptive
-parents where disclosure of information regarding the prospective foster
-or adoptive parents and other persons over the age of eighteen residing
-in the home of such prospective parents is required by paragraph twenty
-of subdivision (a) of section six hundred seventy-one of title forty-two
-of the United States code; and
+license, certify or otherwise approve prospective foster parents,
+prospective adoptive parents, prospective relative guardians or
+prospective successor guardians where disclosure of information
+regarding such prospective foster or prospective adoptive parents or
+prospective relative or prospective successor guardians and other
+persons over the age of eighteen residing in the home of such persons is
+required under title IV-E of the federal social security act; and
   (aa) a social services official who is investigating whether an adult
 is in need of protective services in accordance with the provisions of
 section four hundred seventy-three of this chapter, when such official

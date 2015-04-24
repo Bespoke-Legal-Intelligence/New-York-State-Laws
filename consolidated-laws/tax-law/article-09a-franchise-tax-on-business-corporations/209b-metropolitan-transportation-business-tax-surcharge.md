@@ -64,26 +64,29 @@ paragraph, the term "credit card" includes bank, credit, travel and
 entertainment cards.
   (d)(i) A corporation with less than one million dollars but at least
 ten thousand dollars of receipts within the metropolitan commuter
-transportation district in a taxable year that is part of a combined
-reporting group under section two hundred ten-C of this article is
-deriving receipts from activity in the metropolitan commuter
-transportation district if the receipts within the metropolitan commuter
-transportation district of the members of the combined reporting group
+transportation district in a taxable year that is part of a unitary
+group that meets the ownership test under section two hundred ten-C of
+this article is deriving receipts from activity in the metropolitan
+commuter transportation district if the receipts within the metropolitan
+commuter transportation district of the members of the unitary group
 that have at least ten thousand dollars of receipts within the
 metropolitan commuter transportation district in the aggregate meet the
 threshold set forth in paragraph (b) of this subdivision.
   (ii) A corporation that does not meet any of the thresholds set forth
 in paragraph (c) of this subdivision but has at least ten customers, or
 locations, or customers and locations, as described in paragraph (c),
-and is part of a combined reporting group under section two hundred
-ten-C of this article that is doing business in the metropolitan
-commuter transportation district if the number of customers, locations,
-or customers and locations, within the metropolitan commuter
-transportation district of the members of the combined reporting group
-that have at least ten customers, locations, or customers and locations,
-within the metropolitan commuter transportation district in the
-aggregate meets any of the thresholds set forth in paragraph (c) of this
-subdivision.
+and is part of a unitary group that meets the ownership test under
+section two hundred ten-C of this article is doing business in the
+metropolitan commuter transportation district if the number of
+customers, locations, or customers and locations, within the
+metropolitan commuter transportation district of the members of the
+unitary group that have at least ten customers, locations, or customers
+and locations, within the metropolitan commuter transportation district
+in the aggregate meets any of the thresholds set forth in paragraph (c)
+of this subdivision.
+  (iii) For purposes of this paragraph, any corporation described in
+paragraph (c) of subdivision two of section two hundred ten-C of this
+article shall not be considered.
   (e) At the end of each year, the commissioner shall review the
 cumulative percentage change in the consumer price index. The
 commissioner shall adjust the receipt thresholds set forth in this

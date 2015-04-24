@@ -9,7 +9,7 @@
 - [§ 142-BB Prohibition](142bb-prohibition.md)
 - [§ 142-CC Label or accompanying statement and weigh slip](142cc-label-or-accompanying-statement-and-weigh-slip.md)
 - [§ 142-DD Certificate to be filed](142dd-certificate-to-be-filed.md)
-- [§ 142-EE License and fee](142ee-license-and-fee.md)
+- [§ 142-EE License](142ee-license.md)
 - [§ 142-FF Reports and fees](142ff-reports-and-fees.md)
 - [§ 142-GG Sampling and analyzing](142gg-sampling-and-analyzing.md)
 - [§ 142-HH Stop orders](142hh-stop-orders.md)

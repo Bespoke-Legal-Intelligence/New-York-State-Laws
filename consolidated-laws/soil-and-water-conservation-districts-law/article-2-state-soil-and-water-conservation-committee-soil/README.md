@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 4 State soil and water conservation committee](04-state-soil-and-water-conservation-committee.md)
+- [§ 4-A Farm drain tile revolving loan program](04a-farm-drain-tile-revolving-loan-program.md)
 - [§ 5 Creation of soil and water conservation districts](05-creation-of-soil-and-water-conservation-districts.md)
 - [§ 6 Designation of district directors](06-designation-of-district-directors.md)
 - [§ 7 Appointment, qualifications, compensation and tenure of directors](07-appointment-qualifications-compensation-and-tenure.md)
@@ -25,6 +26,7 @@
           STATE SOIL AND WATER CONSERVATION COMMITTEE, SOIL AND
             WATER CONSERVATION DISTRICTS, AND OTHER FUNCTIONS
 Section 4.    State soil and water conservation committee.
+        4-a.  Farm drain tile revolving loan program.
         5.    Creation of soil and water conservation districts.
         6.    Designation of district directors.
         7.    Appointment, qualifications, compensation and tenure of

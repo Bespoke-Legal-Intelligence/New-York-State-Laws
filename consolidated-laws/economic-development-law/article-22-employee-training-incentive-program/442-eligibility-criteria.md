@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 442", "kind": "section", "law_id": "COM", "location_id": "442", "path": "ARTICLE 22 › SECTION 442", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/442.md", "title": "Eligibility criteria"} -->
+# Economic Development Law § 442 — Eligibility criteria
+
+[Economic Development Law](../README.md) › [Article 22 — Employee Training Incentive Program](README.md)
+
+```text
+  § 442. Eligibility criteria. In order to participate in the employee
+training incentive program, a business entity must satisfy the following
+criteria:
+  1. (a) The business entity must operate in the state predominantly in
+a strategic industry;
+  (b) The business entity must demonstrate that it is obtaining eligible
+training from an approved provider;
+  (c) The business entity must create at least ten net new jobs or make
+a significant capital investment in connection with the eligible
+training; and
+  (d) The business entity must be in compliance with all worker
+protection and environmental laws and regulations. In addition, the
+business entity may not owe past due state taxes or local property
+taxes; or
+  2. (a) The business entity, or an approved provider in contract with
+such business entity, must be approved by the commissioner to provide
+eligible training in the form of an internship program in advanced
+technology pursuant to paragraph (b) of subdivision three of section
+four hundred forty-one of this article;
+  (b) The business entity must be located in the state;
+  (c) The business entity must be in compliance with all worker
+protection and environmental laws and regulations. In addition, the
+business entity must not have past due state taxes or local property
+taxes;
+  (d) The internship program shall not displace regular employees;
+  (e) The business entity must have less than one hundred employees; and
+  (f) Participation of an individual in an internship program shall not
+last more than a total of twelve months.
+```

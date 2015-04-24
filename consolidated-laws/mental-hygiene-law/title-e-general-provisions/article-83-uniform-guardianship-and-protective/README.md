@@ -27,6 +27,7 @@
 - [§ 83.39 Effect of registration](83.39-effect-of-registration.md)
 - [§ 83.41 Uniformity of application and construction](83.41-uniformity-of-application-and-construction.md)
 - [§ 83.43 Relation to electronic signatures in global and national commerce act](83.43-relation-to-electronic-signatures-in-global-and-national.md)
+- [§ 83.45 Transitional provision](83.45-transitional-provision.md)
 
 <details>
 <summary>Official heading of Article 83, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

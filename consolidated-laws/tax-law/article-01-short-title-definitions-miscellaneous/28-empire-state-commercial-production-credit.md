@@ -181,7 +181,47 @@ partnership, limited partnership, or other entity or individual which or
 who is principally engaged in the production of a qualified commercial
 and controls the production of the qualified commercial and is not the
 distributor or contracting entity for production of such commercial.
-  (c) Cross-references. For application of the credit provided for in
+  (c) The department of economic development shall submit, on or before
+December first of each year, to the governor, the director of the
+division of the budget, the temporary president of the senate, and the
+speaker of the assembly an annual report including, but not limited to,
+the following information regarding the previous calendar year:
+  (1) the total dollar amount of credits allocated, the name and address
+of each qualified commercial production company allocated credits under
+this section, the total amount of credits allocated to each qualified
+commercial production company, the total amount of qualified production
+costs and production costs for each qualified commercial production
+company, and the estimated number of employees, credit-eligible man
+hours, and credit-eligible wages associated with each qualified
+commercial production company allocated credits under this section;
+  (2) for qualified commercial production companies that were allocated
+credit pursuant to subparagraph (ii) of paragraph two of subdivision (a)
+of this section: the name and address of each qualified commercial
+production company, the total dollar amount of credits allocated, the
+total amount of credits allocated to each qualified commercial
+production company, total qualified production costs and production
+costs for each qualified production company, and the estimated number of
+employees, credit-eligible man hours, and credit-eligible wages
+associated with each qualified commercial production company that filmed
+or recorded a qualified commercial within the district;
+  (3) for qualified commercial production companies that were allocated
+credit pursuant to subparagraph (iii) of paragraph two of subdivision
+(a) of this section: the name and address of each qualified commercial
+production company, the total dollar amount of credits allocated, the
+total amount of credits allocated to each qualified commercial
+production company, total qualified production costs and production
+costs for each qualified production company, and the estimated number of
+employees, credit-eligible man hours, and credit-eligible wages
+associated with each qualified commercial production company that filmed
+or recorded a qualified commercial outside the district; and
+  (4) the amount of credits reallocated to all eligible qualified
+commercial production companies pursuant to subparagraph (iii) of
+paragraph two of subdivision (a) of this section.
+  (5) The report may also include any recommendations for changes in the
+calculation or administration of the credit, recommendations regarding
+continuing modification or repeal of this credit, and any other
+information regarding this credit as may be useful and appropriate.
+  (d) Cross-references. For application of the credit provided for in
 this section, see the following provision of this chapter:
   (1) article 9-A: section 210-B: subdivision 23.
   (2) article 22: section 606: subsection (jj).

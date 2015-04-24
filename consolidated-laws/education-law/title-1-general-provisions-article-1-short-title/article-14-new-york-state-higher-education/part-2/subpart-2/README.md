@@ -22,6 +22,8 @@
 - [§ 669-B Recruitment incentive and retention program for members of the New York state organized militia](669b-recruitment-incentive.md)
 - [§ 669-D New York state math and science teaching incentive program](669d-new-york-state-math.md)
 - [§ 669-E New York state science, technology, engineering and mathematics incentive program](669e-new-york-state-science.md)
+- [§ 669-F New York state masters-in-education teacher incentive scholarship program](669f-new-york-state-masters.md)
+- [§ 669-G The New York state achievement and investment in merit scholarship (NY-AIMS)](669g-the-new-york-state-achievement.md)
 
 <details>
 <summary>Official heading of Subpart 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -60,6 +62,10 @@ Section 666.   Tuition awards for part-time undergraduate students.
                  program.
         669-e. New York state science, technology, engineering and
                  mathematics incentive program.
+        669-f. New York state masters-in-education teacher incentive
+                 scholarship program.
+        669-g. The New York state achievement and investment in merit
+                 scholarship (NY-AIMS).
 ```
 
 </details>

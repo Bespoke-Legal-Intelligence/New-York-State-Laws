@@ -4,9 +4,9 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 210-C. Combined reports. 1. Tax. The tax on a combined report shall
-be the highest of (i) the combined business income base multiplied by
-the tax rate specified in paragraph (a) of subdivision one of section
+  § 210-C. Combined reports.  1. Tax. (a) The tax on a combined report
+shall be the highest of (i) the combined business income base multiplied
+by the tax rate specified in paragraph (a) of subdivision one of section
 two hundred ten of this article; (ii) the combined capital base
 multiplied by the tax rate specified in paragraph (b) of subdivision one
 of section two hundred ten of this article, but not exceeding the
@@ -18,9 +18,10 @@ section two hundred ten of this article for each member of the combined
 group, other than the designated agent, that is a taxpayer.
   (b) The combined business income base is the amount of the combined
 business income of the combined group that is apportioned to the state,
-reduced by any net operating loss deduction for the combined group. The
-combined capital base is the amount of the combined capital of the
-combined group that is apportioned to the state.
+reduced by any prior net operating loss conversion subtraction and any
+net operating loss deduction for the combined group. The combined
+capital base is the amount of the combined capital of the combined group
+that is apportioned to the state.
   2. Combined reports required. (a) Except as provided in paragraph (c)
 of this subdivision, any taxpayer (i) which owns or controls either
 directly or indirectly more than fifty percent of the voting power of
@@ -78,10 +79,11 @@ capital, and fixed dollar minimum bases of all members of the group in
 accordance with paragraph four of this subdivision, whether or not that
 business income or business capital is from a single unitary business.
   (b) The election under this subdivision shall be made on an original,
-timely filed return of the combined group. Any corporation entering a
-commonly owned group subsequent to the year of election shall be
-included in the combined group and is considered to have waived any
-objection to its inclusion in the combined group.
+timely filed return of the combined group, determined with regard to
+extensions of time for filing. Any corporation entering a commonly owned
+group subsequent to the year of election shall be included in the
+combined group and is considered to have waived any objection to its
+inclusion in the combined group.
   (c) The election shall be irrevocable, and binding for and applicable
 to the taxable year for which it is made and for the next six taxable
 years. The election will automatically be renewed for another seven
@@ -118,21 +120,21 @@ minimum amount prescribed in paragraph (d) of subdivision one of section
 two hundred ten of this article, such fixed dollar minimum amount shall
 be the fixed dollar minimum amount that is attributable to the
 designated agent of the combined group.
-  (d)(i) A net operating loss deduction is allowed in computing the
+  (d) (i) A net operating loss deduction is allowed in computing the
 combined business income base. Such deduction may reduce the tax on the
 combined business income base to the higher of the tax on the combined
 capital base or the fixed dollar minimum amount that is attributable to
 the designated agent of the combined group. A combined net operating
 loss deduction is equal to the amount of combined net operating loss or
-losses from one or more taxable years that are carried forward to a
-particular income year. A combined net operating loss is the combined
-business loss incurred in a particular taxable year multiplied by the
-combined apportionment factor for that year determined as provided in
-subdivision five of this section.
+losses from one or more taxable years that are carried forward or
+carried back to a particular taxable year. A combined net operating loss
+is the combined business loss incurred in a particular taxable year
+multiplied by the combined apportionment factor for that year determined
+as provided in subdivision five of this section.
   (ii) The combined net operating loss deduction and combined net
 operating loss are also subject to the provisions contained in clauses
-one through six of subparagraph (ix) of paragraph (a) of subdivision one
-of section two hundred ten of this article.
+one through seven of subparagraph (ix) of paragraph (a) of subdivision
+one of section two hundred ten of this article.
   (iii) In the case of a corporation that files a combined report,
 either in the year the net operating loss is incurred or in the year in
 which a deduction is claimed on account of the loss, the combined net
@@ -157,16 +159,26 @@ the same relation to the combined loss as the net operating loss of such
 corporation bears to the total net operating loss of all members of the
 group having such losses to the extent that they are taken into account
 in computing the combined net operating loss.
-  (d-1) A net operating loss conversion subtraction is allowed in
+  (d-1) A prior net operating loss conversion subtraction is allowed in
 computing the combined business income base, as provided in subparagraph
 (viii) of paragraph (a) of subdivision one of section two hundred ten of
 this article. Such subtraction may reduce the tax on the combined
 business income base to the higher of the tax on the combined capital
 base or the fixed dollar minimum amount that is attributable to the
 designated agent of the combined group.
-  (e) Any election made pursuant to paragraph (b) of subdivision six,
-and paragraphs (b) and (c) of subdivision six-a of section two hundred
-eight of this article shall apply to all members of the combined group.
+  (e) (i) Any election made pursuant to paragraph (b) of subdivision
+six, paragraphs (b) and (c) of subdivision six-a of section two hundred
+eight, and item (IV) of subclause two of clause (B) of subparagraph
+(viii) and clause seven of subparagraph (ix) of paragraph (a) of
+subdivision one of section two hundred ten of this article shall apply
+to all members of the combined group.
+  (ii) The determination of whether or not the limitation on investment
+income provided in subparagraph (iii) of paragraph (a) of subdivision
+six of section two hundred eight of this article applies to the combined
+group shall be based on the investment income of the combined group,
+determined without regard to interest expenses attributable to
+investment capital or investment income, and the entire net income of
+the combined group.
   (f)(i) In the case of a captive REIT or captive RIC required under
 this section to be included in a combined report, entire net income
 shall be computed as required under subdivision five (in the case of a
@@ -204,11 +216,7 @@ apply to all members of the combined group.
 group that is subject to tax under this article shall be jointly and
 severally liable for the tax due pursuant to a combined report.
   7. Designated agent. Each combined group shall have one designated
-agent, which shall be a taxpayer. The designated agent is the parent
-corporation of the combined group. If there is no such parent
-corporation, or the parent corporation is not a taxpayer, then another
-member of the combined group that is a taxpayer may be appointed as the
-designated agent. Only the designated agent may act on behalf of the
-members of the combined group for matters relating to the combined
-report.
+agent for the combined group, which shall be a taxpayer. Only the
+designated agent may act on behalf of the members of the combined group
+for matters relating to the combined report.
 ```

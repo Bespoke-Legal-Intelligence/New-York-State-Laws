@@ -23,6 +23,7 @@
 - [§ 3609-E School tax relief aid, when and how payable commencing July first, nineteen hundred ninety-eight](3609e-school-tax-relief-aid-when-and-how.md)
 - [§ 3609-F Moneys apportioned to school districts for lottery grants pursuant to subparagraph two-a of paragraph b of subdivision four of section ni...](3609f-moneys-apportioned-to-school-districts.md)
 - [§ 3609-G Moneys apportioned to school districts for reimbursement of article twenty-three of the tax law payments commencing in the 2009-2010 scho...](3609g-moneys-apportioned-to-school-districts.md)
+- [§ 3609-H Moneys apportioned to school districts for commercial gaming grants pursuant to subdivision six of section ninety-seven-nnnn of the state...](3609h-moneys-apportioned-to-school-districts.md)
 - [§ 3610 Apportionment for apprenticeship training](3610-apportionment-for-apprenticeship.md)
 - [§ 3611 Racial and cultural awareness fund](3611-racial-and-cultural-awareness-fund.md)
 - [§ 3612 Teachers of tomorrow teacher recruitment and retention program](3612-teachers-of-tomorrow-teacher-recruitment.md)
@@ -72,6 +73,11 @@ Section 3601.    When apportioned and how applied.
         3609-g.  Moneys apportioned to school districts for
                    reimbursement of article twenty-three of the tax law
                    payments commencing in the 2009-2010 school year.
+        3609-h.  Moneys apportioned to school districts for commercial
+                   gaming grants pursuant to subdivision six of section
+                   ninety-seven-nnnn of the state finance law, when and
+                   how payable commencing July first, two thousand
+                   fourteen.
         3610.    Apportionment for apprenticeship training.
         3611.    Racial and cultural awareness fund.
         3612.    Teachers of tomorrow teacher recruitment and retention

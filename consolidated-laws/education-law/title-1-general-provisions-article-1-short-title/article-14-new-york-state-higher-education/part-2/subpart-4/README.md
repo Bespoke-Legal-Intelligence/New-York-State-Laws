@@ -11,6 +11,7 @@
 - [§ 679-D New York state nursing faculty loan forgiveness incentive program](679d-new-york-state-nursing-faculty.md)
 - [§ 679-E New York state district attorney and indigent legal services attorney loan forgiveness program](679e-new-york-state-district.md)
 - [§ 679-F New York state young farmers loan forgiveness incentive program](679f-new-york-state-young-farmers.md)
+- [§ 679-G New York state get on your feet loan forgiveness program](679g-new-york-state-get-on-your.md)
 
 <details>
 <summary>Official heading of Subpart 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ Section 679-a. New York state licensed social worker loan forgiveness
                  services attorney loan forgiveness program.
         679-f. New York state young farmers loan forgiveness incentive
                  program.
+        679-g. New York state get on your feet loan forgiveness program.
 ```
 
 </details>

@@ -10,7 +10,7 @@
 - [§ 16.03 Operating certificate required](16.03-operating-certificate-required.md)
 - [§ 16.05 Issuance of operating certificates](16.05-issuance-of-operating-certificates.md)
 - [§ 16.09 Approval of new construction](16.09-approval-of-new-construction.md)
-- [§ 16.11 Visitation and inspection of facilities](16.11-visitation-and-inspection-of-facilities.md)
+- [§ 16.11 Oversight of facilities and services](16.11-oversight-of-facilities-and-services.md)
 - [§ 16.13 Duties of providers of services](16.13-duties-of-providers-of-services.md)
 - [§ 16.17 Suspension, revocation, or limitation of an operating certificate](16.17-suspension-revocation-or-limitation.md)
 - [§ 16.19 Confinement, care and treatment of persons with developmental disabilities](16.19-confinement-care-and-treatment-of-persons.md)

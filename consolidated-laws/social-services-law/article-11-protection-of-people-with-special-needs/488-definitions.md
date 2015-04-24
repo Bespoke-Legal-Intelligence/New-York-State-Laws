@@ -171,10 +171,12 @@ psychiatric centers, inpatient psychiatric units of a general hospital,
 developmental centers, intermediate care facilities, community
 residences, group homes and family care homes, provided, however, that
 such term shall not include a secure treatment facility as defined in
-section 10.03 of the mental hygiene law, or services provided in
-programs or facilities that are operated by the office of mental health
-and located in state correctional facilities under the jurisdiction of
-the department of corrections and community supervision;
+section 10.03 of the mental hygiene law, services defined in
+subparagraph four of subdivision (a) of section 16.03 of the mental
+hygiene law, or services provided in programs or facilities that are
+operated by the office of mental health and located in state
+correctional facilities under the jurisdiction of the department of
+corrections and community supervision;
   (b) any program or facility that is operated by the office of children
 and family services for juvenile delinquents or juvenile offenders
 placed in the custody of the commissioner of such office and any

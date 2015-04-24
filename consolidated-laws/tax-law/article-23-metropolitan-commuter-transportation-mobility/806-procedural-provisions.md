@@ -19,11 +19,11 @@ article:
   (1) The commissioner may require the filing of a combined return
 which, in addition to the return provided for in subsection (b) of
 section eight hundred four of this article, may also include any of the
-returns required to be filed by a resident individual of New York state
-pursuant to the provisions of section six hundred fifty-one of this
-chapter and which may be required to be filed by such individual
-pursuant to any local law enacted pursuant to the authority of article
-thirty, thirty-A or thirty-B of this chapter.
+returns required to be filed by a taxpayer pursuant to the provisions of
+section six hundred fifty-one of this chapter and which may be required
+to be filed by such taxpayer pursuant to any local law enacted pursuant
+to the authority of article thirty, thirty-A or thirty-B of this
+chapter.
   (2) Where a combined return is required, and with respect to the
 payment of estimated tax, the commissioner may also require the payment
 to it of a single amount which shall equal the total of the amounts
