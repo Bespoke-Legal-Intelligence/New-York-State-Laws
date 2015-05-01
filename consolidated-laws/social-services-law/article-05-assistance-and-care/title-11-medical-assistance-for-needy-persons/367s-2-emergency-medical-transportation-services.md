@@ -11,9 +11,11 @@ Notwithstanding any provision of law to the contrary, a supplemental
 medical assistance payment shall be made on an annual basis to providers
 of emergency medical transportation services in an aggregate amount not
 to exceed four million dollars for two thousand six, six million dollars
-for two thousand seven, six million dollars for two thousand eight, and
-six million dollars for the period May first, two thousand fourteen
-through March thirty-first, two thousand fifteen pursuant to the
+for two thousand seven, six million dollars for two thousand eight, six
+million dollars for the period May first, two thousand fourteen through
+March thirty-first, two thousand fifteen, and six million dollars
+annually beginning with the period April first, two thousand fifteen
+through March thirty-first, two thousand sixteen pursuant to the
 following methodology:
   (a) For each emergency medical transportation services provider that
 receives medical assistance reimbursement processed through the state
@@ -38,9 +40,11 @@ obtained to receive federal financial participation in the payments
 authorized by this section, payments under this section shall be made in
 an aggregate amount not to exceed two million dollars for two thousand
 six, three million dollars for two thousand seven, three million dollars
-for two thousand eight and three million dollars for the period May
-first, two thousand fourteen through March thirty-first, two thousand
-fifteen. In such case, the multiplier set forth in paragraph (b) of
+for two thousand eight, three million dollars for the period May first,
+two thousand fourteen through March thirty-first, two thousand fifteen,
+and three million dollars annually beginning with the period April
+first, two thousand fifteen through March thirty-first, two thousand
+sixteen. In such case, the multiplier set forth in paragraph (b) of
 subdivision one of this section shall be deemed to be two million
 dollars or three million dollars as applicable to the annual period.
   4. Notwithstanding any inconsistent provisions of section three

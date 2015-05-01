@@ -944,6 +944,25 @@ senate and the speaker and the minority leader of the assembly. The
 department of health shall assess managed care providers under the
 managed care program on a per enrollee basis to cover the cost of such
 report.
+  * (c) In setting such reimbursement methodologies, the department
+shall consider costs borne by the managed care program to ensure
+actuarially sound and adequate rates of payment to ensure quality of
+care.
+  * NB There are 2 par (c)'s
+  * (c) The department of health shall require the independent actuary
+selected pursuant to paragraph (b) of this subdivision to provide a
+complete actuarial memorandum, along with all actuarial assumptions made
+and all other data, materials and methodologies used in the development
+of rates, to managed care providers thirty days prior to submission of
+such rates to the centers for medicare and medicaid services for
+approval. Managed care providers may request additional review of the
+actuarial soundness of the rate setting process and/or methodology.
+  * NB There are 2 par (c)'s
+  (d) The department of health shall annually provide to the temporary
+president of the senate and the speaker of the assembly the annual
+Medicaid managed care operating reports submitted to the department from
+managed care plans that contract with the state to manage services
+provided under the Medicaid program.
   19. (a) The commissioner of health, in consultation with the
 commissioner, shall promulgate such regulations as are necessary to
 implement the provisions of this section provided, however, that the
@@ -1405,6 +1424,16 @@ nutrition services for reimbursement to an A-87 cost allocation waiver.
 such contract or contracts, the chair of the senate standing committee
 on health and the chair of the assembly health committee with a report
 outlining the procurement and awards.
-  * NB Repealed March 31, 2015 (per ch. 165/1991)
+  31. (a) The commissioner shall require managed care providers under
+this section, managed long-term care plans under section forty-four
+hundred three-f the public health law and other appropriate long-term
+service programs to adopt expedited procedures for approving personal
+care services for a medical assistance recipient who requires immediate
+personal care or consumer directed personal assistance services pursuant
+to paragraph (e) of subdivision two of section three hundred
+sixty-five-a of this title or section three hundred sixty-five-f of this
+title, respectively, or other long-term care, and provide such care or
+services as appropriate, pending approval by such provider or program.
+  * NB Repealed March 31, 2019 (per ch. 165/1991)
   * NB Repealed March 31, 2016 (per ch. 710/1988)
 ```

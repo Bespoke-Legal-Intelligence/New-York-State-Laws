@@ -63,7 +63,7 @@ prevent the board from investigating or disciplining a licensee on the
 basis of medical malpractice claims that are pending;
   (f) name of medical schools attended and date of graduations;
   (g) graduate medical education;
-  (h) current speciality board certification and date of certification;
+  (h) current specialty board certification and date of certification;
   (i) dates admitted to practice in New York state;
   (j) names of hospitals where the licensee has practice privileges;
   (k) appointments to medical school faculties and indication as to
@@ -86,9 +86,8 @@ program; and
   (q) health care plans with which the licensee has contracts,
 employment, or other affiliation.
   1-a. Each physician licensed and registered to practice in this state
-shall within one hundred twenty days of the effective date of this
-subdivision and upon entering or updating his or her profile
-information:
+shall within thirty days of the transmittal of an initial profile survey
+and upon entering or updating his or her profile information:
   (a) register and maintain an account with the department's health
 provider network and any successor electronic system established to
 facilitate communications between the department and licensed health
@@ -105,7 +104,7 @@ information about licensees.
   3. Each physician who is self-insured for professional medical
 malpractice shall periodically report to the department on forms and in
 the time and manner required by the commissioner the information
-specified in paragraph (f) of subdivision one of this section, except
+specified in paragraph (e) of subdivision one of this section, except
 that the physician shall report the dollar amount (to the extent of the
 physician's information and belief) for each judgment, award and
 settlement and not a level of significance or context.
@@ -117,7 +116,9 @@ obtainable. In addition to such periodic reports and providing the same
 information, each physician shall update his or her profile information
 within the six months prior to the expiration date of such physician's
 registration period, as a condition of registration renewal under
-article one hundred thirty-one of the education law.
+article one hundred thirty-one of the education law. Except for optional
+information provided, physicians shall notify the department of any
+change in the profile information within thirty days of such change.
   5. The department shall provide each licensee with a copy of his or
 her profile prior to dissemination to the public. In the manner and time
 required by the commissioner, a licensee shall be provided the
@@ -145,7 +146,9 @@ copy physician profile.
   9. The department shall, in addition to hard copy physician profiles,
 provide for electronic access to and copying of physician profiles
 developed pursuant to this section through the system commonly known as
-the Internet.
+the Internet. The department shall update a physician's online profile
+within thirty days of receipt of a completed physician profile survey or
+any change in profile information.
   10. The commissioner shall require that:
   (a) Practitioner organizations that are representative of the target
 group for profiling, and health care consumer organizations, be provided
@@ -174,7 +177,11 @@ department shall study all physician data reporting requirements and
 develop recommendations to consolidate data collection and eliminate
 duplicate and unnecessary reporting requirements, or to supplement
 existing reporting requirements in order to satisfy the requirements of
-this section.
+this section. The department shall study the feasibility of
+incorporating health plan reporting requirements, without imposing any
+extra burden on the physician, regarding network participation into this
+section to ensure this information is available, accurate, up-to-date
+and accessible to consumers.
   (b) Supplemental information adjustment and security safeguards. The
 department shall develop a methodology for application to collected
 physician data that accounts for factors such as frequency, severity and
@@ -198,11 +205,12 @@ determinations and recommendations. The department shall consider such
 comments, and may amend its determinations and recommendations to
 reflect them.
   (d) Report. The department shall provide a report of its
-determinations and recommendations to the governor and legislature, and
-make such report publicly available, within six months of the effective
-date of this section.
-  (e) Application. The department shall thereafter apply such
-methodology to the data to be disseminated in physician profiles.
+determinations and recommendations under this subdivision to the
+governor and legislature, and make such report publicly available, on or
+before January first, two thousand sixteen. The department shall report
+annually thereafter to the legislature on the status of the physician
+profiles and any recommendations for additions, consolidations or other
+changes deemed appropriate.
   14. The physician data so disseminated shall be updated at regular
 intervals to be determined by the department.
   15. (a) All physician data disseminated shall include the following

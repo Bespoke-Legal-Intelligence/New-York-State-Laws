@@ -78,7 +78,7 @@ impact of the program on the quality of patient care, the effectiveness
 of the program in retaining certified emergency medical technicians and
 advanced emergency medical technicians, and the feasibility of replacing
 the state's certification program with a national certification program.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   3. Upon appeal from the appropriate regional council, the state
 council shall have the power, by an affirmative vote of a majority of
 those present, to amend, modify and reverse determinations of the

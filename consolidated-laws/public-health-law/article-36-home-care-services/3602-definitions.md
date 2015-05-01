@@ -138,7 +138,7 @@ rules and regulations of the department of social services. Such
 operator may provide these services only to residents of the adult home
 or enriched housing program governed by the terms of such limited
 license.
-  * NB Expires March 31, 2015
+  * NB Expires March 31, 2017
   16. "Public health council" and "state hospital review and planning
 council" shall mean the public health and health planning council.
 ```

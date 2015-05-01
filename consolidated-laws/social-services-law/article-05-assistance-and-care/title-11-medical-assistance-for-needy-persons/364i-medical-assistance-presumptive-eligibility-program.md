@@ -184,15 +184,16 @@ presumptively eligible for medical assistance but not yet enrolled in
 the medical assistance program, and assist women in submitting
 appropriate documentation to the social services district as required by
 the commissioner.
-  7. Notwithstanding section one hundred thirty-three of this chapter,
-where care or services are received prior to the date the individual is
-determined eligible for assistance under this title, medical assistance
-reimbursement shall be available for such care or services only (a) if
-the care or services are received during the three month period
-preceding the month of application for medical assistance and the
-recipient is determined to have been eligible in the month in which the
-care or service was received, or (b) as provided for in this section or
-regulations of the department.
+  7. Notwithstanding any other section of law, where care, services, or
+supplies are received prior to the date an individual is determined
+eligible for assistance under this title, medical assistance
+reimbursement, regardless of funding source, shall be available for such
+care, services, or supplies only (a) if the care, services, or supplies
+are received during the three month period preceding the month of
+application for medical assistance and the recipient is determined to
+have been eligible in the month in which the care, service, or supply
+was received, or (b) if provided during a period of presumptive
+eligibility pursuant to this section.
   8. (a) The following individuals shall be presumed to be eligible for
 medical assistance under this title beginning on the date that a
 qualified hospital, as defined in paragraph (b) of this subdivision,

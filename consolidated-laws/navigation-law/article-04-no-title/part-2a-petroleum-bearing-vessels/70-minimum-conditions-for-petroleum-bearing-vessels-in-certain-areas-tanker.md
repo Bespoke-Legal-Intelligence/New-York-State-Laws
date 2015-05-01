@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Navigation Law § 70", "kind": "section", "law_id": "NAV", "location_id": "70", "path": "ARTICLE 4 › PART 2-A › SECTION 70", "repealed": false, "repealed_date": null, "source": "nys-laws:NAV/70.md", "title": "Minimum conditions for petroleum-bearing vessels in certain areas; tanker-avoidance zones"} -->
+# Navigation Law § 70 — Minimum conditions for petroleum-bearing vessels in certain areas; tanker-avoidance zones
+
+[Navigation Law](../../README.md) › [Article 4 — No title](../README.md) › [Part 2-A — Petroleum-bearing Vessels](README.md)
+
+```text
+  § 70. Minimum conditions for petroleum-bearing vessels in certain
+areas; tanker-avoidance zones. 1. The commissioner of environmental
+conservation in consultation with the petroleum-bearing vessel advisory
+commission established in section seventy-one of this article, the
+United States Coast Guard, the board of commissioners of pilots and
+appropriate officials of any state or country with concurrent
+jurisdiction over water bodies which might be affected, through rule and
+regulation may establish standards setting forth:
+  (a) the minimum conditions under which petroleum-bearing vessels as
+defined in section one hundred seventy-two of this chapter may enter or
+move upon the navigable waters of the state and any tidewaters bordering
+on or lying within the boundaries of Nassau and Suffolk counties. Such
+conditions may include, but not be limited to, visibility, the tide and
+wind conditions and weather; and
+  (b) the minimum conditions under which petroleum-bearing vessels may
+enter or leave any major facility, port or harbor. Such conditions may
+include, but not be limited to, visibility, the tide and wind conditions
+and weather.
+  2. The commissioner of environmental conservation may, in consultation
+with the petroleum-bearing vessel advisory commission established in
+section seventy-one of this article, the United States Coast Guard, the
+board of commissioners of pilots and appropriate officials of any state
+or country with concurrent jurisdiction over water bodies which might be
+affected, establish tanker-avoidance zones, where it shall be unlawful
+for petroleum-bearing vessels as defined in section one hundred
+seventy-two of this chapter, to enter or move upon the navigable waters
+of the state or any tidewaters bordering on or lying within the
+boundaries of Nassau and Suffolk counties.
+```

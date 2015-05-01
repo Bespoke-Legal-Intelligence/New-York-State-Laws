@@ -279,4 +279,12 @@ and annually revised by the United States department of health and human
 services) that exceeds by thirty percentage points the highest income
 eligibility level applicable to a family of the same size under the
 medical assistance program.
+  12. The commissioner shall develop expedited procedures for
+determining medical assistance eligibility for any medical assistance
+applicant with an immediate need for personal care or consumer directed
+personal assistance services pursuant to paragraph (e) of subdivision
+two of section three hundred sixty-five-a of this title or section three
+hundred sixty-five-f of this title, respectively. Such procedures shall
+require that a final eligibility determination be made within seven days
+of the date of a complete medical assistance application.
 ```

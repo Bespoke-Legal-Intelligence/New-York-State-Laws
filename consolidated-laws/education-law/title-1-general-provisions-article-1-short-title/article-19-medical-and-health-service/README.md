@@ -34,6 +34,7 @@
 - [§ 920 Public schools; infestation of bedbugs (Cimex lectularius)](920-public-schools-infestation-of-bedbugs-cimex.md)
 - [§ 921 Training of unlicensed school personnel to administer certain medications](921-training-of-unlicensed-school-personnel-to-administer.md)
 - [§ 921\*2 On-site epinephrine auto-injector](921-2-on-site-epinephrine-auto-injector.md)
+- [§ 922 Opioid overdose prevention](922-opioid-overdose-prevention.md)
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -75,6 +76,7 @@ Section 901.   School health services to be provided.
         921.   Training of unlicensed school personnel to administer
                  certain medications.
         921*2. On-site epinephrine auto-injector.
+        922.   Opioid overdose prevention.
 ```
 
 </details>

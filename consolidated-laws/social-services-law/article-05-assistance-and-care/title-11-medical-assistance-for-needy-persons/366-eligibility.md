@@ -173,7 +173,11 @@ treatment for sexually transmitted diseases, if his or her income does
 not exceed the MAGI-equivalent of two hundred percent of the federal
 poverty line for the applicable family size, which shall be calculated
 in accordance with guidance issued by the secretary of the United States
-department of health and human services.
+department of health and human services; provided further that the
+commissioner of health is authorized to establish criteria for
+presumptive eligibility for services provided pursuant to this
+subparagraph in accordance with all applicable requirements of federal
+law or regulation pertaining to such eligibility.
   * (7) A child who is nineteen or twenty years of age living with his
 or her parent will be eligible for standard coverage if the sum of the
 MAGI-based income of every person included in the child's MAGI household
@@ -358,16 +362,17 @@ for any waiver or approval under the federal social security act that
 are necessary to carry out the provisions of this paragraph.
   (g) Coverage of certain noncitizens. (1) Applicants and recipients who
 are lawfully admitted for permanent residence, or who are permanently
-residing in the United States under color of law; who are MAGI eligible
-pursuant to paragraph (b) of this subdivision; and who would be
-ineligible for medical assistance coverage under subdivisions one and
-two of section three hundred sixty-five-a of this title solely due to
-their immigration status if the provisions of section one hundred
-twenty-two of this chapter were applied, shall only be eligible for
-assistance under this title if enrolled in a standard health plan
-offered by a basic health program established pursuant to section three
-hundred sixty-nine-gg of this article if such program is established and
-operating.
+residing in the United States under color of law, or who are
+non-citizens in a valid nonimmigrant status, as defined in 8 U.S.C.
+1101(a)(15); who are MAGI eligible pursuant to paragraph (b) of this
+subdivision; and who would be ineligible for medical assistance coverage
+under subdivisions one and two of section three hundred sixty-five-a of
+this title solely due to their immigration status if the provisions of
+section one hundred twenty-two of this chapter were applied, shall only
+be eligible for assistance under this title if enrolled in a standard
+health plan offered by a basic health program established pursuant to
+section three hundred sixty-nine-gg of this article if such program is
+established and operating.
   (2) With respect to a person described in subparagraph one of this
 paragraph who is enrolled in a standard health plan, medical assistance
 coverage shall mean:

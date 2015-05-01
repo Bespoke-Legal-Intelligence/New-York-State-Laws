@@ -16,7 +16,6 @@
 - [§ 2801-E Voluntary residential health care facility rightsizing demonstration program](2801e-voluntary-residential-health-care-facility-rightsizing-demonstration-program.md)
 - [§ 2801-F Residential health care facility quality incentive payment program](2801f-residential-health-care-facility-quality-incentive-payment-program.md)
 - [§ 2801-G Community forum on hospital closure](2801g-community-forum-on-hospital-closure.md)
-- [§ 2801-H Community forum on establishment of certain facilities in the county of Bronx](2801h-community-forum-on-establishment-of-certain-facilities-in-the-county-of-bronx.md)
 - [§ 2802 Approval of construction](2802-approval-of-construction.md)
 - [§ 2802-A Transitional care unit demonstration program](2802a-transitional-care-unit-demonstration-program.md)
 - [§ 2803 Commissioner and council; powers and duties](2803-commissioner-and-council-powers-and-duties.md)
@@ -68,6 +67,7 @@
 - [§ 2805-U Credentialing and privileging of health care practitioners providing telemedicine services](2805u-credentialing-and-privileging-of-health-care-practitioners-providing.md)
 - [§ 2805-V Observation services](2805v-observation-services.md)
 - [§ 2805-W Patient notice of observation services](2805w-patient-notice-of-observation-services.md)
+- [§ 2805-X Hospital-home care-physician collaboration program](2805x-hospital-home-care-physician-collaboration-program.md)
 - [§ 2806 Hospital operating certificates; suspension or revocation](2806-hospital-operating-certificates-suspension-or-revocation.md)
 - [§ 2806-A Temporary operator](2806a-temporary-operator.md)
 - [§ 2806-B Residential health care facilities; revocation of operating certificate](2806b-residential-health-care-facilities-revocation-of-operating-certificate.md)
@@ -147,8 +147,6 @@ Section 2800.     Declaration of policy and statement of purpose.
         2801-f.   Residential health care facility quality incentive
                     payment program.
         2801-g.   Community forum on hospital closure.
-        2801-h.   Community forum on establishment of certain facilities
-                    in the county of Bronx.
         2802.     Approval of construction.
         2802-a.   Transitional care unit demonstration program.
         2803.     Commissioner and council; powers and duties.
@@ -217,6 +215,7 @@ Section 2800.     Declaration of policy and statement of purpose.
                     practitioners providing telemedicine services.
         2805-v.   Observation services.
         2805-w.   Patient notice of observation services.
+        2805-x.   Hospital-home care-physician collaboration program.
         2806.     Hospital operating certificates; suspension or
                     revocation.
         2806-a.   Temporary operator.

@@ -36,17 +36,35 @@ provided to a facility upon such facility's request for the purpose of
 assisting the facility to address serious financial instability. Such
 funds may be derived from existing programs within the department,
 special appropriations, or other funds.
-  2.(a) In the event that: (i) a facility seeks extraordinary financial
+  (g) "improper delegation of management authority by the governing
+authority or operator" of a general hospital shall include, but not be
+limited to, the delegation to an entity that has not been established as
+an operator of the general hospital of (i) authority to hire or fire the
+administrator or other key management employees; (ii) maintenance and
+control of the books and records; (iii) authority over the disposition
+of assets and the incurring of liabilities on behalf of the facility;
+and (iv) the adoption and enforcement of policies regarding the
+operation of the facility. The criteria set forth in this paragraph
+shall not be the sole determining factors, but indicators to be
+considered with such other factors that may be pertinent in particular
+instances. Professional expertise shall be exercised in the utilization
+of the criteria. All of the listed indicia need not be present in a
+given instance for there to be an improper delegation of authority.
+  2. (a) In the event that: (i) a facility seeks extraordinary financial
 assistance and the commissioner finds that the facility is experiencing
 serious financial instability that is jeopardizing existing or continued
 access to essential services within the community, or (ii) the
 commissioner finds that there are conditions within the facility that
 seriously endanger the life, health or safety of residents or patients,
 the commissioner may appoint a temporary operator to assume sole control
-and sole responsibility for the operations of that facility. The
-appointment of the temporary operator shall be effectuated pursuant to
-this section and shall be in addition to any other remedies provided by
-law.
+and sole responsibility for the operations of that facility, or (iii)
+the commissioner finds that there has been an improper delegation of
+management authority by the governing authority or operator of a general
+hospital, the commissioner shall appoint a temporary operator to assume
+sole control and sole responsibility for the operations of that
+facility. The appointment of the temporary operator shall be effectuated
+pursuant to this section and shall be in addition to any other remedies
+provided by law.
   (b) The established operator of a facility may at any time request the
 commissioner to appoint a temporary operator. Upon receiving such a
 request, the commissioner may, if he or she determines that such an
@@ -142,7 +160,10 @@ deficiencies and financial instability,
   (ii) objectives for the continuation of the temporary operatorship if
 necessary and a schedule for satisfaction of such objectives,
   (iii) recommended actions for the ongoing operation of the facility
-subsequent to the term of the temporary operator; and
+subsequent to the term of the temporary operator including
+recommendations regarding the proper management of the facility and
+ongoing agreements with individuals or entities with proper delegation
+of management authority; and
   (iv) with respect to the first ninety-day term referenced in paragraph
 (a) of this subdivision, a plan for sustainable operation to avoid
 closure, or transformation of the facility which may include any option

@@ -310,6 +310,13 @@ provisions of paragraph (b) of subdivision three of this section; and
   (ii) the ability of the conservator or committee under the terms of
 the court order to operate the hospital in a manner consistent with this
 chapter and regulations promulgated pursuant thereto.
+  (i) Upon recommendation by the commissioner, if the public health and
+health planning council finds by substantial evidence that an improper
+delegation of management authority by a governing authority or operator
+of a general hospital has occurred as defined by paragraph (g) of
+subdivision one of section twenty-eight hundred six-a of this article,
+the establishment approval of such hospital shall be subject to
+revocation or suspension.
   5. Except as otherwise hereinafter provided, no county, city, town,
 village or other governmental subdivision shall establish or create any
 agency concerned with the establishment of any hospital as defined in

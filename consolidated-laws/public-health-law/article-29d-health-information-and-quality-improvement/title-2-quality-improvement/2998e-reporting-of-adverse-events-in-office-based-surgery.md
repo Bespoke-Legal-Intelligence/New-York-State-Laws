@@ -4,13 +4,29 @@
 [Public Health Law](../../README.md) › [Article 29-D — Health Information and Quality Improvement](../README.md) › [Title 2 — Quality Improvement](README.md)
 
 ```text
-  § 2998-e. Reporting of adverse events in office based surgery. 1. The
-commissioner shall enter into agreements with accrediting agencies
-pursuant to which the accrediting agencies shall report, at a minimum,
-aggregate data on adverse events for all office-based surgical practices
-accredited by the accrediting agencies to the department. The department
-may disclose reports of aggregate data to the public.
-  2. The information required to be collected, maintained and reported
+  § 2998-e. * Reporting of adverse events in office based surgery.
+  * NB Effective until April 13, 2016
+  * Reporting in office based surgery.
+  * NB Effective April 13, 2016
+  * 1. The commissioner shall enter into agreements with accrediting
+agencies pursuant to which the accrediting agencies shall report, at a
+minimum, aggregate data on adverse events for all office-based surgical
+practices accredited by the accrediting agencies to the department. The
+department may disclose reports of aggregate data to the public.
+  * NB Effective until April 13, 2016
+  * 1. The commissioner may enter into agreements with accrediting
+agencies to require all office-based surgical practices to conduct
+quality improvement and quality assurance activities and utilize
+certification by an appropriate certifying organization, hospital
+privileging or other equivalent methods to determine competency of
+practitioners to perform office-based surgery, carry out surveys or
+complaint/incident investigations and shall report, at a minimum,
+findings of surveys and complaint/incident investigations, and data for
+all office-based surgical practices accredited by the accrediting
+agencies to the department. The department may disclose reports of
+aggregate data to the public.
+  * NB Effective April 13, 2016
+  * 2. The information required to be collected, maintained and reported
 directly to the department pursuant to section two hundred thirty-d of
 this chapter shall be kept confidential and shall not be released,
 except to the department and except as required or permitted under
@@ -19,6 +35,23 @@ ten of section two hundred thirty of this chapter. Notwithstanding any
 other provision of law, none of such information shall be subject to
 disclosure under article six of the public officers law or article
 thirty-one of the civil practice law and rules.
+  * NB Effective until April 13, 2016
+  * 2. The information required to be collected, maintained and reported
+directly to the department and the accrediting agencies and maintained
+by office-based surgery practices under adverse event reporting, quality
+improvement and quality assurance activities pursuant to section two
+hundred thirty-d of this chapter shall be kept confidential and shall
+not be released, except to the department and except as required or
+permitted under subdivision nine-a and subparagraph (v) of paragraph (a)
+of subdivision ten of section two hundred thirty of this chapter.
+Notwithstanding any other provision of law, none of the information
+collected, maintained and reported to the department or the accrediting
+agencies, and maintained by the office-based surgery practices under
+adverse event reporting, quality improvement and quality assurance
+activities pursuant to this section shall be subject to disclosure under
+article six of the public officers law or article thirty-one of the
+civil practice law and rules.
+  * NB Effective April 13, 2016
   3. The commissioner shall make, adopt, promulgate and enforce such
 rules and regulations, as he or she may deem appropriate, to effectuate
 the purposes of this section. Where any rule or regulation under this

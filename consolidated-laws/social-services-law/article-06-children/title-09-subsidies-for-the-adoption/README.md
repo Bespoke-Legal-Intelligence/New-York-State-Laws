@@ -27,7 +27,7 @@ Section 450.   Statement of legislative intent.
         453-a. Payments for non-recurring adoption expenses.
         454.   Medical subsidy.
         455.   Fair hearings.
-        456.   State reimbursement.
+        456.   State reimbursement and payments.
         457.   Out-of-state adoptive parents.
         458.   Availability of subsidy; publicity.
 ```

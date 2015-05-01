@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3614-E", "kind": "section", "law_id": "PBH", "location_id": "3614-E", "path": "ARTICLE 36 › SECTION 3614-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3614-E.md", "title": "Electronic payment of claims"} -->
+# Public Health Law § 3614-E — Electronic payment of claims
+
+[Public Health Law](../README.md) › [Article 36 — Home Care Services](README.md)
+
+```text
+  § 3614-e. Electronic payment of claims. The payment of claims
+submitted under contracts or agreements with insurers under the medical
+assistance program for home and community-based long-term care services
+provided under this article, by fiscal intermediaries operating pursuant
+to section three hundred sixty-five-f of the social services law, and by
+residential health care facilities operating pursuant to article
+twenty-eight of this chapter shall be paid via electronic funds
+transfer. Such insurers shall include but not be limited to Medicaid
+managed care plans and managed long-term care plans.
+```

@@ -34,7 +34,7 @@
 - [§ 365-A Character and adequacy of assistance](365a-character-and-adequacy-of-assistance.md)
 - [§ 365-B Local medical plans: professional directors](365b-local-medical-plans-professional-directors.md)
 - [§ 365-C Medical advisory committee](365c-medical-advisory-committee.md)
-- [§ 365-D Early and periodic screening diagnosis and treatment outreach demonstration projects](365d-early-and-periodic-screening-diagnosis-and-treatment.md)
+- [§ 365-D Medicaid evidence based benefit review advisory committee](365d-medicaid-evidence-based-benefit-review-advisory.md)
 - [§ 365-E Optional or continued membership in entities offering comprehensive health services plans](365e-optional-or-continued-membership-in-entities-offering.md)
 - [§ 365-F Consumer directed personal assistance program](365f-consumer-directed-personal-assistance-program.md)
 - [§ 365-G Utilization thresholds for certain care, services and supplies](365g-utilization-thresholds-for-certain-care-services.md)
@@ -125,8 +125,8 @@ Section 363.     Declaration of objects.
         365-a.   Character and adequacy of assistance.
         365-b.   Local medical plans: professional directors.
         365-c.   Medical advisory committee.
-        365-d.   Early and periodic screening diagnosis and treatment
-                   outreach demonstration projects.
+        365-d.   Medicaid evidence based benefit review advisory
+                   committee.
         365-e.   Optional or continued membership in entities offering
                    comprehensive health services plans.
         365-f.   Consumer directed personal assistance program.

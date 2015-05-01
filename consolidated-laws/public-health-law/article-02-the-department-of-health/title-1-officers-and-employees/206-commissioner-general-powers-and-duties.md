@@ -615,7 +615,7 @@ the efficient delivery of appropriate, quality, cost-effective services
 and when the health, safety and general welfare of patients will not be
 impaired as a result of such waiver.
   * NB There are 2 sub. 18's
-  18-a. (a) Health information technology demonstration program. (i) The
+  18-a. Health information technology demonstration program. (a) (i) The
 commissioner is authorized to issue grant funding to one or more
 organizations broadly representative of physicians licensed in this
 state, from funds made available for the purpose of funding research and
@@ -643,7 +643,18 @@ implementation, their costs and the appropriateness of a broader
 application of the health information technology program to increase the
 quality and efficiency of health care across the state.
   * (b) The commissioner shall:
-  (i) convene a workgroup to:
+  (i) post on its website by September first, two thousand fifteen and
+quarterly thereafter, information on the uses of funding in support of
+the Statewide Health Information Network of New York (SHIN-NY),
+including how such funds may be used to:
+  (A) support hospitals, physicians, and other providers in the
+achievement of federal meaningful use requirements;
+  (B) support DSRIP health information exchange and data requirements to
+help performing provider systems and the state meet DSRIP quality goals;
+and
+  (C) increase participation in regional health information
+organizations by providers at reasonable costs to the providers; and
+  (ii) convene a workgroup to:
   (A) evaluate the state's health information technology infrastructure
 and systems, as well as other related plans and projects designed to
 make improvements or modifications to such infrastructure and systems
@@ -658,11 +669,16 @@ quality of care, efficiency, cost of care and patient satisfaction
 available in a self-sustainable, non-duplicative, interactive and
 interoperable manner that ensures safeguards for privacy,
 confidentiality and security;
-  (ii) submit a report to the governor and the temporary president of
-the senate and the speaker of the assembly, which shall fully consider
-the evaluation and recommendations of the workgroup, on or before
-December first, two thousand fourteen.
-  * NB Effective until March 31, 2015
+  (iii) submit an interim report to the governor, the temporary
+president of the senate and the speaker of the assembly, which shall
+detail the concerns and issues associated with establishing the state's
+health information technology infrastructure considered by the
+workgroup, on or before December first, two thousand fourteen; and
+  (iv) submit a report to the governor, the temporary president of the
+senate and the speaker of the assembly, which shall fully consider the
+evaluation and recommendations of the workgroup, on or before December
+first, two thousand fifteen.
+  * NB Effective until March 31, 2017
   * (b) The commissioner shall make such rules and regulations as may be
 necessary to implement federal policies and disburse funds as required
 by the American Recovery and Reinvestment Act of 2009 and to promote the
@@ -674,16 +690,17 @@ privacy and security. Such rules and regulations shall include, but not
 be limited to, requirements for organizations covered by 42 U.S.C. 17938
 or any other organizations that exchange health information through the
 SHIN-NY.
-  * NB Effective March 31, 2015
+  * NB Effective March 31, 2017
   (c) The members of the workgroup shall include, at a minimum, three
 members who represent RHIOs, two members employed by the department who
 are involved in the development of the SHIN-NY and the APD, two members
 who represent physicians, two members who represent hospitals, two
 members who represent home care agencies, one member who represents
-federally qualified health centers, the chair of the senate health
-committee or his or her designee, the chair of the assembly health
-committee or his or her designee, and other individuals with expertise
-in matters relevant to the charge of the workgroup.
+federally qualified health centers, one member who represents county
+health commissioners, the chair of the senate health committee or his or
+her designee, the chair of the assembly health committee or his or her
+designee, and other individuals with expertise in matters relevant to
+the charge of the workgroup.
   * (d) The commissioner may make such rules and regulations as may be
 necessary to implement federal policies and disburse funds as required
 by the American Recovery and Reinvestment Act of 2009 and to promote the
@@ -695,11 +712,17 @@ health information systems, while protecting privacy and security. Such
 rules and regulations shall include, but not be limited to, requirements
 for organizations covered by 42 U.S.C. 17938 or any other organizations
 that exchange health information through the SHIN-NY or any other
-statewide health information system recommended by the workgroup. The
-commissioner shall consider the recommendations of the workgroup. If the
-commissioner acts in a manner inconsistent with the recommendations of
-the workgroup, he or she shall provide the reasons therefor.
-  * NB Effective until March 31, 2015
+statewide health information system recommended by the workgroup. If the
+commissioner seeks to promulgate rules and regulations prior to issuance
+of the report identified in subparagraph (iv) of paragraph (b) of this
+subdivision, the commissioner shall submit the proposed regulations to
+the workgroup for its input. If the commissioner seeks to promulgate
+rules and regulations after the issuance of the report identified in
+such subparagraph (iv) then the commissioner shall consider the report
+and recommendations of the workgroup. If the commissioner acts in a
+manner inconsistent with the input or recommendations of the workgroup,
+he or she shall provide the reasons therefor.
+  * NB Effective until March 31, 2017
   * 19. The commissioner is authorized and directed to promulgate rules
 and regulations as may be necessary, with respect to the form and
 content of applications for licenses, the fees to be charged for
@@ -978,4 +1001,16 @@ traumatic brain injuries, in accordance with subdivision forty-two of
 section three hundred five of the education law, and provide for the
 posting on the department's internet website of such information as
 shall be required pursuant to such subdivision.
+  * 29. The commissioner shall prepare a report on the implementation of
+the State Health Innovation Plan (SHIP) which shall include:
+  (1) the recommendations of the workgroups established to assist the
+state in implementation of the SHIP;
+  (2) the department's efforts in advancing the SHIP's goals; and
+  (3) information on the expenditures of the State Innovation Model
+grant.
+The report shall be submitted to the governor, the temporary president
+of the senate, the speaker of the assembly, the chairs of the senate
+health committee and assembly health committee on or before January
+first, two thousand sixteen and annually thereafter.
+  * NB Repealed March 31, 2020
 ```

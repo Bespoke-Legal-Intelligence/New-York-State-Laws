@@ -698,25 +698,28 @@ section twenty-eight hundred three of this article, shall take into
 consideration the economic status of the patients receiving such
 services.
   7. Reimbursement rate promulgation. The commissioner shall notify each
-hospital and health-related service of its approved rates of payment
-which shall be used in reimbursing for services provided to persons
-eligible for payments made by state governmental agencies at least sixty
-days prior to the beginning of an established rate period for which the
-rate is to become effective. Notification shall be made only after
-approval of rate schedules by the state director of the budget. The
-sixty and thirty day notice provisions, herein, shall not apply to rates
-issued following judicial annulment or invalidation of any previously
-issued rates, or rates issued pursuant to changes in the methodology
-used to compute rates which changes are promulgated following the
-judicial annulment or invalidation of previously issued rates.
-Notwithstanding any provision of law to the contrary, nothing in this
-subdivision shall prohibit the recalculation and payment of rates,
-including both positive and negative adjustments, based on a
-reconciliation of amounts paid by residential health care facilities
-beginning April first, nineteen hundred ninety-seven for additional
-assessments or further additional assessments pursuant to section
-twenty-eight hundred seven-d of this article with the amounts originally
-recognized for reimbursement purposes.
+residential health care facility and health-related service of its
+approved rates of payment which shall be used in reimbursing for
+services provided to persons eligible for payments made by state
+governmental agencies at least sixty days prior to the beginning of an
+established rate period for which the rate is to become effective and
+for general hospitals at least thirty days prior to the beginning of an
+established rate period for which the rate is to become effective.
+Notification shall be made only after approval of rate schedules by the
+state director of the budget. The sixty and thirty day notice
+provisions, herein, shall not apply to rates issued following judicial
+annulment or invalidation of any previously issued rates, or rates
+issued pursuant to changes in the methodology used to compute rates
+which changes are promulgated following the judicial annulment or
+invalidation of previously issued rates. Notwithstanding any provision
+of law to the contrary, nothing in this subdivision shall prohibit the
+recalculation and payment of rates, including both positive and negative
+adjustments, based on a reconciliation of amounts paid by residential
+health care facilities beginning April first, nineteen hundred
+ninety-seven for additional assessments or further additional
+assessments pursuant to section twenty-eight hundred seven-d of this
+article with the amounts originally recognized for reimbursement
+purposes.
   7-a. Notwithstanding any inconsistent provision of law, with regard to
 a general hospital the provisions of subdivisions four and seven of this
 section and the provisions of section eighteen of chapter two of the
@@ -925,6 +928,34 @@ operating cost component of the rate promulgated by the commissioner for
 each diagnostic and treatment center with base year administrative and
 general costs exceeding the average.
   * NB Expired March 31, 2011
+  14-a. Notwithstanding any provision of law to the contrary, and
+subject to federal financial participation, the commissioner is
+authorized to establish, pursuant to regulations, a statewide general
+hospital quality pool for the purpose of incentivizing and facilitating
+quality improvements in general hospitals. Awards from such pool shall
+be subject to approval by the director of budget. If federal financial
+participation is unavailable, then the non-federal share of awards made
+pursuant to this subdivision may be made as state grants.
+  (a) Thirty days prior to adopting or applying a methodology or
+procedure for making an allocation or modification to an allocation made
+pursuant to this subdivision, the commissioner shall provide written
+notice to the chairs of the senate finance committee, the assembly ways
+and means committee, and the senate and assembly health committees with
+regard to the intent to adopt or apply the methodology or procedure,
+including a detailed explanation of the methodology or procedure.
+  (b) Thirty days prior to executing an allocation or modification to an
+allocation made pursuant to this subdivision, the commissioner shall
+provide written notice to the chairs of the senate finance committee,
+the assembly ways and means committee, and the senate and assembly
+health committees with regard to the intent to distribute such funds.
+Such notice shall include, but not be limited to, information on the
+methodology used to distribute the funds, the facility specific
+allocations of the funds, any facility specific project descriptions or
+requirements for receiving such funds, the multi-year impacts of these
+allocations, and the availability of federal matching funds. The
+commissioner shall provide quarterly reports to the chair of the senate
+finance committee and the chair of the assembly ways and means committee
+on the distribution and disbursement of such funds.
   15. Notwithstanding any inconsistent provision of law, including
 subdivision fourteen of this section, the facility-specific impact of
 eliminating the statewide cap on administrative and general costs, as
@@ -1139,7 +1170,32 @@ accordance with all requirements set forth in the state's federal 1115
 Medicaid waiver standard terms and conditions. The commissioner may
 modify the requirements of this paragraph and paragraph (c) of this
 subdivision if such modifications are required by the federal CMS.
-  (c) For periods on and after April first, two thousand fourteen, the
+  (c)(i) Project advisory committees. 1. Lead entities of systems
+established under the Medicaid delivery system reform incentive payment
+("DSRIP") program shall establish a project advisory committee. The
+committee shall consider and advise the entity on matters concerning
+system operations, service delivery issues, elimination of health care
+disparities, measurement of project outcomes, the degree to which
+project goals are being reached and the development of any plans or
+programs. The entity may establish rules with respect to its project
+advisory committee.
+  (ii) The members of the committee shall be representatives of the
+community, or geographic service areas, served by the system, including
+Medicaid consumers attributed to that system, and any other members
+required by the terms and conditions of the DSRIP program. The lead
+entity shall file with the commissioner, and from time to time update,
+an up-to-date list of the members of the committee, which shall be made
+available to the public by the department on its website.
+  (iii) Notwithstanding any inconsistent provision of law, no officer or
+employee of the state or of any civil division thereof, shall be deemed
+to have forfeited or shall forfeit his or her office or employment by
+reason of his or her acceptance of membership on a project advisory
+committee. No member of a project advisory committee shall receive
+compensation or allowance for services rendered on the committee,
+except, however, that members of a committee may be reimbursed by the
+entity or system for necessary expenses incurred in relation to service
+on a project advisory committee.
+  (d) For periods on and after April first, two thousand fourteen, the
 commissioner shall provide a report on a quarterly basis to the chairs
 of the senate finance, assembly ways and means, senate health and
 assembly health committees with regard to the status of the DSRIP
@@ -1159,17 +1215,17 @@ requirements;
   (viii) a summary of public engagement and public comments received;
   (ix) a description of DSRIP funding applications that were denied;
   (x) a description of all regulation waivers issued pursuant to
-paragraph (e) of this subdivision; and
+paragraph (f) of this subdivision; and
   (xi) a summary of the statewide geographic distribution of funds.
-  (d) For periods on and after April first, two thousand fourteen the
+  (e) For periods on and after April first, two thousand fourteen the
 commissioner shall promptly make all DSRIP governing documents,
 including 1115 waiver standard terms and conditions, supporting
 attachments and detailed project descriptions, and all materials made
-available to the legislature pursuant to paragraph (c) of this
+available to the legislature pursuant to paragraph (d) of this
 subdivision, available on the department's website. The commissioner
 shall also provide a detailed overview on the department's website of
 the opportunities for public comment on the DSRIP program.
-  (e) Notwithstanding any provision of law to the contrary, the
+  (f) Notwithstanding any provision of law to the contrary, the
 commissioners of the department of health, the office of mental health,
 the office for people with developmental disabilities, and the office of
 alcoholism and substance abuse services are authorized to waive any
@@ -1183,8 +1239,8 @@ any regulations be waived if such waiver would risk patient safety. Such
 waiver shall not exceed the life of the project or such shorter time
 periods as the authorizing commissioner may determine. Any regulatory
 relief granted pursuant to this subdivision shall be described,
-including each regulations waived and the project it relates to, in the
-report provided pursuant to paragraph (c) of this subdivision.
+including each regulation waived and the project it relates to, in the
+report provided pursuant to paragraph (d) of this subdivision.
   21. (a) Notwithstanding any contrary provision of law and subject to
 the receipt of all necessary federal approvals and the availability of
 federal financial participation, the commissioner is authorized to enter
@@ -1259,4 +1315,35 @@ period as the authorizing commissioner any determine. Any regulatory
 relief granted pursuant to this subdivision shall be described,
 including each regulation waived and the project it relates to, in the
 report provided pursuant to paragraph (b) of this subdivision.
+  * 22. Notwithstanding any provision of law to the contrary, and
+subject to federal financial participation, general hospitals designated
+as sole community hospitals in accordance with title XVIII of the
+federal social security act shall be eligible for enhanced payments or
+reimbursement for inpatient and/or outpatient services of up to twelve
+million dollars under a supplemental or revised rate methodology,
+established by the commissioner in regulation, for the purpose of
+promoting access and improving the quality of care. If federal financial
+participation is unavailable, then the non-federal share of such
+payments pursuant to this subdivision may be made as state grants.
+  (a) Thirty days prior to adopting or applying a methodology or
+procedure for making an allocation or modification to an allocation made
+pursuant to this subdivision, the commissioner shall provide written
+notice to the chairs of the senate finance committee, the assembly ways
+and means committee, and the senate and assembly health committees with
+regard to the intent to adopt or apply the methodology or procedure,
+including a detailed explanation of the methodology or procedure.
+  (b) Thirty days prior to executing an allocation or modification to an
+allocation made pursuant to this subdivision, the commissioner shall
+provide written notice to the chairs of the senate finance committee,
+the assembly ways and means committee, and the senate and assembly
+health committees with regard to the intent to distribute such funds.
+Such notice shall include, but not be limited to, information on the
+methodology used to distribute the funds, the facility specific
+allocations of the funds, any facility specific project descriptions or
+requirements for receiving such funds, the multi-year impacts of these
+allocations, and the availability of federal matching funds. The
+commissioner shall provide quarterly reports to the chair of the senate
+finance committee and the chair of the assembly ways and means committee
+on the distribution and disbursement of such funds.
+  * NB Effective June 1, 2015
 ```

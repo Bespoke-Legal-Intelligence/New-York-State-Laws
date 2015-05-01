@@ -673,6 +673,19 @@ health care facilities.
 pursuant to this paragraph be distributed in accordance with
 subparagraphs (i) and (ii) of this paragraph to physicians identified by
 general hospitals.
+  (iv) In addition to the funds allocated under this paragraph, for the
+period April first, two thousand fifteen through March thirty-first, two
+thousand sixteen, two million dollars shall be available for the
+purposes described in subdivision ten of this section;
+  (v) In addition to the funds allocated under this paragraph, for the
+period April first, two thousand sixteen through March thirty-first, two
+thousand seventeen, two million dollars shall be available for the
+purposes described in subdivision ten of this section;
+  (vi) Notwithstanding any provision of law to the contrary, and subject
+to the extension of the Health Care Reform Act of 1996, sufficient funds
+shall be available for the purposes described in subdivision ten of this
+section in amounts necessary to fund the remaining year commitments for
+awards made pursuant to subparagraphs (iv) and (v) of this paragraph.
   (e) Physician practice support. Four million nine hundred thousand
 dollars for the period January first, two thousand eight through
 December thirty-first, two thousand eight, four million nine hundred

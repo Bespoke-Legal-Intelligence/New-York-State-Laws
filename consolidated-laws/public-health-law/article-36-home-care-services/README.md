@@ -23,6 +23,8 @@
 - [§ 3614-A Home care provider assessments](3614a-home-care-provider-assessments.md)
 - [§ 3614-B Licensed home care services agencies assessments](3614b-licensed-home-care-services-agencies-assessments.md)
 - [§ 3614-C Home care worker wage parity](3614c-home-care-worker-wage-parity.md)
+- [§ 3614-D Universal standards for coding of payment for medical assistance claims for long term care](3614d-universal-standards-for-coding-of-payment-for-medical-assistance-claims-for-long.md)
+- [§ 3614-E Electronic payment of claims](3614e-electronic-payment-of-claims.md)
 - [§ 3615 State aid to certified home health agencies](3615-state-aid-to-certified-home-health-agencies.md)
 - [§ 3616 Provision of certified home health agency services, long term home health care programs and AIDS home care programs](3616-provision-of-certified-home-health-agency-services-long-term-home-health-care.md)
 - [§ 3616-A Quality assurance](3616a-quality-assurance.md)
@@ -63,6 +65,9 @@ Section 3600.   Declaration of legislative findings and intent.
         3614-a. Home care provider assessments.
         3614-b. Licensed home care services agencies assessments.
         3614-c. Home care worker wage parity.
+        3614-d. Universal standards for coding of payment for medical
+                  assistance claims for long term care.
+        3614-e. Electronic payment of claims.
         3615.   State aid to certified home health agencies.
         3616.   Provision of certified home health agency services, long
                   term home health care programs and AIDS home care

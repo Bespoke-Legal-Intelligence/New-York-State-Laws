@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2-A — Prescription Drugs](../README.md) › [Title 2 — Prescription Drugs; Various Provisions](README.md)
 
 ```text
-  § 280. Prescription drug discount program. The prescription drug
+  * § 280. Prescription drug discount program. The prescription drug
 discount program is hereby established in the department. The drug
 discount card shall be available to any resident between the ages of
 fifty and sixty-four, and any resident of any age who has been
@@ -20,4 +20,5 @@ the provider pharmacy under the drug discount card program shall be
 adjudicated and paid within two business days for any rebates,
 dispensing fees and drug costs not paid by the resident eligible for
 such program at the point of sale.
+  * NB Repealed June 1, 2015
 ```

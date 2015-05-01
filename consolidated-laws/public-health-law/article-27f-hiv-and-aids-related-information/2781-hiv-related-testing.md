@@ -25,10 +25,6 @@ test or, when the subject lacks capacity to consent, a person authorized
 pursuant to law to consent to health care for such individual, that an
 HIV related test will be conducted at such time, and shall note the
 notification in the patient's record.
-  2-a. The provisions of this section regarding informed consent shall
-not apply to tests performed in a facility operated under the correction
-law. For tests conducted in a facility under the correction law,
-individual consent for HIV related testing must be in writing.
   3. A person ordering the performance of an HIV related test shall
 provide either directly or through a representative to the subject of an
 HIV related test or, if the subject lacks capacity to consent, to a

@@ -7,22 +7,27 @@
   § 398-b. Transition to managed care. 1. Notwithstanding any
 inconsistent provision of law to the contrary and subject to the
 availability of federal financial participation, the commissioner is
-authorized to make grants from a gross amount of five million dollars to
-facilitate the transition of foster care children placed with voluntary
-foster care agencies to managed care. The use of such funds may include
-providing training and consulting services to voluntary agencies to
-access readiness and make necessary infrastructure and organizational
-modifications, collecting service utilization and other data from
-voluntary agencies and other entities, and making investments in health
-information technology, including the infrastructure necessary to
-establish and maintain electronic health records. Such funds shall be
-distributed pursuant to a formula to be developed by the commissioner of
-health, in consultation with the commissioner of the office of family
-and child services. In developing such formula the commissioners may
-take into account size and scope of provider operations as a factor
-relevant to eligibility for such funds. Each recipient of such funds
-shall be required to document and demonstrate the effective use of funds
-distributed herein.
+authorized to make grants up to a gross amount of five million dollars
+for state fiscal year two thousand fourteen--fifteen and up to a gross
+amount of fifteen million dollars for state fiscal year two thousand
+fifteen--sixteen to facilitate the transition of foster care children
+placed with voluntary foster care agencies to managed care. The use of
+such funds may include providing training and consulting services to
+voluntary agencies to assess readiness and make necessary infrastructure
+and organizational modifications, collecting service utilization and
+other data from voluntary agencies and other entities, and making
+investments in health information technology, including the
+infrastructure necessary to establish and maintain electronic health
+records. Such funds shall be distributed pursuant to a formula to be
+developed by the commissioner of health, in consultation with the
+commissioner of the office of children and family services. In
+developing such formula the commissioners may take into account size and
+scope of provider operations as a factor relevant to eligibility for
+such funds. Each recipient of such funds shall be required to document
+and demonstrate the effective use of funds distributed herein. If
+federal financial participation is unavailable, then the nonfederal
+share of payments pursuant to this subdivision may be made as state
+grants.
   2. Data provided by voluntary foster care agencies shall be compliant
 with the health insurance portability and accountability act, and shall
 be transmitted securely using eMEDS or other mechanism to be determined

@@ -17,7 +17,6 @@
                  PRESCRIPTION DRUGS; VARIOUS PROVISIONS
 Section 278. Prescription drug retail price lists.
         279. Prescriber education.
-        280. Prescription drug discount program.
 ```
 
 </details>

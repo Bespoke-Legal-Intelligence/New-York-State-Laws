@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  § 99-w. Transit assistance for capital investments fund. 1. There is
+  * § 99-w. Transit assistance for capital investments fund. 1. There is
 hereby established in the joint custody of the state comptroller and the
 commissioner of taxation and finance a special capital fund to be known
 as the "transit assistance for capital investments fund."
@@ -41,4 +41,5 @@ the director of the budget.
   8. All payments of moneys from the transit assistance for capital
 investments fund shall be made on the audit and warrant of the
 comptroller.
+  * NB There are 2 § 99-w's
 ```

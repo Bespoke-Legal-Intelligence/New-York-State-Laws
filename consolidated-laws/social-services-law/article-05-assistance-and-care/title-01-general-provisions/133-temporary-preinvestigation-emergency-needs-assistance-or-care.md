@@ -16,5 +16,8 @@ required by this section shall inform such person of a right to an
 expedited hearing when emergency needs assistance or care is denied. A
 public assistance applicant who has been denied emergency needs
 assistance or care must be given reason for such denial in a written
-determination which sets forth the basis for such denial.
+determination which sets forth the basis for such denial. Nothing in
+this section shall be construed to require the social services district
+or any state agency to provide medical assistance, except as otherwise
+required by title eleven of this article.
 ```

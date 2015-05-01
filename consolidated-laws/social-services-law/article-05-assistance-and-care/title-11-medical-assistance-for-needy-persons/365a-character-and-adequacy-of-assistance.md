@@ -143,10 +143,12 @@ or other location;
 emergency regulation, for the provision and management of services
 available under this paragraph for individuals whose need for such
 services exceeds a specified level to be determined by the commissioner;
-  (iii) the commissioner is authorized to provide assistance to persons
-receiving services under this paragraph who are transitioning to
-receiving care from a managed long term care plan certified pursuant to
-section forty-four hundred three-f of the public health law;
+  (iii) the commissioner shall provide assistance to persons receiving
+services under this paragraph who are transitioning to receiving care
+from a managed long term care plan certified pursuant to section
+forty-four hundred three-f of the public health law, consistent with
+subdivision thirty-one of section three hundred sixty-four-j of this
+title;
   (iv) personal care services available pursuant to this paragraph shall
 not exceed eight hours per week for individuals whose needs are limited
 to nutritional and environmental support functions;
@@ -240,13 +242,13 @@ to eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 approved by the department which meets the requirements of federal law
 and regulations.
-  * NB Effective until December 31, 2015
+  * NB Effective until December 31, 2019
   * (k) care and services furnished by an entity offering a
 comprehensive health services plan to eligible individuals residing in
 the geographic area served by such entity, when such services are
 furnished in accordance with an agreement approved by the department
 which meets the requirements of federal law and regulations.
-  * NB Effective December 31, 2015
+  * NB Effective December 31, 2019
   (l) care and services of podiatrists which care and services shall
 only be provided upon referral by a physician, nurse practitioner or
 certified nurse midwife in accordance with the program of early and
@@ -292,7 +294,7 @@ eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 with the department of health and meet the applicable requirements of
 federal law and regulation.
-  * NB Repealed December 31, 2015
+  * NB Repealed December 31, 2019
   (p) targeted case management services provided to children who
   (i) are eighteen years of age or under; and
   (ii) either

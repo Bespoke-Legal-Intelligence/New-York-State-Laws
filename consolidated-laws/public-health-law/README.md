@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,609 |
-| Last changed | 24 Apr 2015 |
+| Sections | 1,611 |
+| Last changed | 1 May 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (323 lines)](chapter-text.md)
+[Full chapter text (322 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [1 May 2015](../../changes/2015/2015-05-01.md): 30 amended, 3 added, 1 removed
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 3 amended
 - [17 Apr 2015](../../changes/2015/2015-04-17.md): 3 amended, 4 added
 - [10 Apr 2015](../../changes/2015/2015-04-10.md): 23 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Feb 2015](../../changes/2015/2015-02-06.md): 7 amended
 - [23 Jan 2015](../../changes/2015/2015-01-23.md): 1 amended, 1 repealed
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 2 amended
-- [2 Jan 2015](../../changes/2015/2015-01-02.md): 14 amended
 
 ## Contents
 

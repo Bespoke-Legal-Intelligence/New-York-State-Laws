@@ -365,7 +365,7 @@ financial participation is available for expenditures made for
 beneficiaries eligible for medical assistance under title XIX of the
 federal social security act based upon the allowances determined in
 accordance with this subdivision.
-  * NB Expires June 30, 2015
+  * NB Expires June 30, 2017
   * 6. (a) The commissioner shall, subject to the approval of the state
 director of the budget, establish capitated rates of payment for
 services provided by assisted living programs as defined by paragraph
@@ -466,7 +466,7 @@ five hundred thousand dollars. For rate periods on and after January
 first, two thousand five through December thirty-first, two thousand
 six, there shall be no such reconciliation of the amount of savings in
 excess of or lower than one million five hundred thousand dollars.
-  * NB Effective until March 31, 2015
+  * NB Effective until March 31, 2017
   * Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for purposes of establishing rates of payment by
 governmental agencies for certified home health agencies and long term
@@ -476,7 +476,7 @@ rule or regulation limit the reimbursable base year administrative and
 general costs of a provider of services to a percentage which is other
 than thirty percent of total reimbursable base year operational costs of
 such provider of services.
-  * NB Effective March 31, 2015
+  * NB Effective March 31, 2017
   No such limit shall be applied to a provider of services reimbursed on
 an initial budget basis, or a new provider, excluding changes in
 ownership or changes in name, who begins operations in the year prior to
@@ -490,7 +490,7 @@ general expenses provided by this subdivision shall be expressed as a
 percentage reduction for the rate promulgated by the commissioner to
 each certified home health agency and long term home health care program
 provider.
-  7-a.  Notwithstanding any inconsistent provision of law or regulation,
+  7-a. Notwithstanding any inconsistent provision of law or regulation,
 for the purposes of establishing rates of payment by governmental
 agencies for long term home health care programs for the period April
 first, two thousand five, through December thirty-first, two thousand
@@ -501,10 +501,11 @@ after April first, two thousand nine through March thirty-first, two
 thousand eleven, and on and after April first, two thousand eleven
 through March thirty-first, two thousand thirteen and on and after April
 first, two thousand thirteen through March thirty-first, two thousand
-fifteen, the reimbursable base year administrative and general costs of
-a provider of services shall not exceed the statewide average of total
-reimbursable base year administrative and general costs of such
-providers of services.
+fifteen, and on and after April 1st, two thousand fifteen through March
+thirty-first, two thousand seventeen the reimbursable base year
+administrative and general costs of a provider of services shall not
+exceed the statewide average of total reimbursable base year
+administrative and general costs of such providers of services.
   No such limit shall be applied to a provider of services reimbursed on
 an initial budget basis, or a new provider, excluding changes in
 ownership or changes in name, who begins operations in the year prior to
@@ -827,7 +828,7 @@ ensure that such aggregate limits on payment decreases are not exceeded.
   13. (a) Notwithstanding any inconsistent provision of law or
 regulation and subject to the availability of federal financial
 participation, effective April first, two thousand twelve through March
-thirty-first, two thousand fifteen, payments by government agencies for
+thirty-first, two thousand nineteen, payments by government agencies for
 services provided by certified home health agencies, except for such
 services provided to children under eighteen years of age and other
 discreet groups as may be determined by the commissioner pursuant to

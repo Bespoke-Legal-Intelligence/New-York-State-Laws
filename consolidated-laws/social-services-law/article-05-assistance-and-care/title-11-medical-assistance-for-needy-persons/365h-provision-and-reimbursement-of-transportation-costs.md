@@ -44,10 +44,13 @@ election, the date upon which the election shall be effective and such
 information as to transition of responsibilities as the commissioner
 deems prudent. The commissioner is authorized to contract with a
 transportation manager or managers to manage transportation services in
-any local social services district. Any transportation manager or
-managers selected by the commissioner to manage transportation services
-shall have proven experience in coordinating transportation services in
-a geographic and demographic area similar to the area in New York state
+any local social services district, other than transportation services
+provided or arranged for enrollees of managed long term care plans
+issued certificates of authority under section forty-four hundred
+three-f of the public health law. Any transportation manager or managers
+selected by the commissioner to manage transportation services shall
+have proven experience in coordinating transportation services in a
+geographic and demographic area similar to the area in New York state
 within which the contractor would manage the provision of services under
 this section. Such a contract or contracts may include responsibility
 for: review, approval and processing of transportation orders;
@@ -60,30 +63,8 @@ measures that may include, but are not limited to, global positioning
 tracking system reporting requirements and service verification
 mechanisms. Any and all reimbursement rates developed by transportation
 managers under this subdivision shall be subject to the review and
-approval of the commissioner. Notwithstanding any inconsistent provision
-of sections one hundred twelve and one hundred sixty-three of the state
-finance law, or section one hundred forty-two of the economic
-development law, or any other law, the commissioner is authorized to
-enter into a contract or contracts under this subdivision without a
-competitive bid or request for proposal process, provided, however,
-that:
-  (a) the department shall post on its website, for a period of no less
-than thirty days:
-  (i) a description of the proposed services to be provided pursuant to
-the contract or contracts;
-  (ii) the criteria for selection of a contractor or contractors;
-  (iii) the period of time during which a prospective contractor may
-seek selection, which shall be no less than thirty days after such
-information is first posted on the website; and
-  (iv) the manner by which a prospective contractor may seek such
-selection, which may include submission by electronic means;
-  (b) all reasonable and responsive submissions that are received from
-prospective contractors in timely fashion shall be reviewed by the
-commissioner; and
-  (c) the commissioner shall select such contractor or contractors that,
-in his or her discretion, are best suited to serve the purposes of this
-section.
-  * NB Repealed 4 years after the contract entered into pursuant to this
+approval of the commissioner.
+  * NB Repealed 6 years after the contract entered into pursuant to this
 section 365-h is executed
   * § 365-h. Provision and reimbursement of transportation costs. 1. The
 local social services official shall have responsibility for prior
@@ -111,6 +92,6 @@ cost transportation is reasonably available to eligible persons.
 are implemented, the commissioner shall assure compliance with
 applicable standards governing the safety and quality of transportation
 of the population served.
-  * NB Effective 4 years after the contract entered into pursuant to
+  * NB Effective 6 years after the contract entered into pursuant to
 this section 365-h has been executed
 ```

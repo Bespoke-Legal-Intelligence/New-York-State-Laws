@@ -75,7 +75,7 @@ which such eligible persons or such qualified medicare beneficiaries
 would be liable under federal law were they not eligible for medical
 assistance or were they not qualified medicare beneficiaries with
 respect to such benefits under such part B.
-  (iii) When payment under part B of title XVIII of the federal social
+  * (iii) When payment under part B of title XVIII of the federal social
 security act for items and services provided to eligible persons who are
 also beneficiaries under part B of title XVIII of the federal social
 security act and for items and services provided to qualified medicare
@@ -104,6 +104,37 @@ medicare beneficiaries, or for which such eligible persons or such
 qualified medicare beneficiaries would be liable under federal law were
 they not eligible for medical assistance or were they not qualified
 medicare beneficiaries with respect to such benefits under part B.
+  * NB Effective until July 1, 2015
+  * (iii) With respect to items and services provided to eligible
+persons who are also beneficiaries under part B of title XVIII of the
+federal social security act and items and services provided to qualified
+medicare beneficiaries under part B of title XVIII of the federal social
+security act, the amount payable for services covered under this title
+shall be the amount of any co-insurance liability of such eligible
+persons pursuant to federal law were they not eligible for medical
+assistance or were they not qualified medicare beneficiaries with
+respect to such benefits under such part B, but shall not exceed the
+amount that otherwise would be made under this title if provided to an
+eligible person other than a person who is also a beneficiary under part
+B or is a qualified medicare beneficiary minus the amount payable under
+part B; provided, however, amounts payable under this title for items
+and services provided to eligible persons who are also beneficiaries
+under part B or to qualified medicare beneficiaries by an ambulance
+service under the authority of an operating certificate issued pursuant
+to article thirty of the public health law, a psychologist licensed
+under article one hundred fifty-three of the education law, or a
+facility under the authority of an operating certificate issued pursuant
+to article sixteen, thirty-one or thirty-two of the mental hygiene law
+and with respect to outpatient hospital and clinic items and services
+provided by a facility under the authority of an operating certificate
+issued pursuant to article twenty-eight of the public health law, shall
+not be less than the amount of any co-insurance liability of such
+eligible persons or such qualified medicare beneficiaries, or for which
+such eligible persons or such qualified medicare beneficiaries would be
+liable under federal law were they not eligible for medical assistance
+or were they not qualified medicare beneficiaries with respect to such
+benefits under part B.
+  * NB Effective July 1, 2015
   (e) Amounts payable under this title for medical assistance in the
 form of clinic services pursuant to article twenty-eight of the public
 health law and article sixteen of the mental hygiene law provided to
@@ -327,7 +358,7 @@ amount, which co-payment amount the provider of such services may charge
 the recipient, provided, however, no provider may deny such services to
 an individual eligible for services based on the individual's inability
 to pay the co-payment amount.
-  (b) Co-payments shall apply to all eligible persons for the services
+  * (b) Co-payments shall apply to all eligible persons for the services
 defined in paragraph (d) of this subdivision with the exception of:
   (i) individuals under twenty-one years of age;
   (ii) pregnant women;
@@ -345,9 +376,45 @@ persons, other than persons otherwise exempted from co-payments pursuant
 to subparagraphs (i), (ii), (iii) and (v) of this paragraph, and other
 than those persons enrolled in a managed long term care program, shall
 be subject to co-payments as described in subparagraph (v) of paragraph
-(d) of this subdivision; and
+(d) of this subdivision;
+  (v) individuals whose family income is less than one hundred percent
+of the federal poverty line, as defined in subparagraph four of
+paragraph (a) of subdivision one of section three hundred sixty-six of
+this title, for a family of the same size; and
+  (vi) any other individuals required to be excluded by federal law or
+regulations.
+  * NB Effective until October 1, 2015 unless certain requirements are
+not met (See ch 57/2015 Pt. B § 60 sb 4)
+  * (b) Co-payments shall apply to all eligible persons for the services
+defined in paragraph (d) of this subdivision with the exception of:
+  (i) individuals under twenty-one years of age;
+  (ii) pregnant women;
+  (iii) individuals who are inpatients in a medical facility who have
+been required to spend all of their income for medical care, except
+their personal needs allowance or residents of community based
+residential facilities licensed by the office of mental health or the
+office of mental retardation and developmental disabilities who have
+been required to spend all of their income, except their personal needs
+allowance;
+  (iv) individuals whose family income is less than one hundred percent
+of the federal poverty line, as defined in subparagraph four of
+paragraph (a) of subdivision one of section three hundred sixty-six of
+this title, for a family of the same size; and
   (v) any other individuals required to be excluded by federal law or
 regulations.
+  * NB Effective October 1, 2015 unless certain requirements are not met
+(See ch 57/2015 Pt. B § 60 sb 4)
+  (b-1) The commissioner is authorized to submit any request or
+application to the Centers for Medicare and Medicaid Services as may be
+necessary to be granted a waiver of the requirement for the department
+of health to calculate its Medicaid payments to managed care
+organizations to include cost sharing established under the state plan
+for medical assistance for enrollees who are not exempt from cost
+sharing. In the absence of such a waiver, the commissioner shall adjust
+Medicaid payments to managed care organizations beginning October first,
+two thousand fifteen or on the date the Centers for Medicare and
+Medicaid Services commences enforcement of such requirement, whichever
+is later.
   * (c) (i) Co-payments charged pursuant to this subdivision for
 non-institutional services shall not exceed the following table,
 provided, however, that the department may establish standard
@@ -374,7 +441,7 @@ preferred drug, and the co-payments charged for each brand name
 prescription drug reimbursed pursuant to subparagraph (ii) of paragraph
 (a-1) of subdivision four of section three hundred sixty-five-a of this
 title shall be one dollar.
-  * NB Effective until March 31, 2015
+  * NB Effective until March 31, 2019
   * (c) Co-payments charged pursuant to this subdivision shall not
 exceed the following table:
     State's payment                  Maximum copayment
@@ -383,7 +450,7 @@ exceed the following table:
       $10.01 to $25                        $1.00
       $25.01 to $50                        $2.00
       $50.01 or more                       $3.00
-  * NB Effective March 31, 2015
+  * NB Effective March 31, 2019
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the
 commissioner in regulations, provided in accordance with section three
@@ -507,6 +574,60 @@ of this article. The department in providing utilization data to a
 manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
+  * (e) During the period from April first, two thousand fifteen through
+March thirty-first, two thousand seventeen, the commissioner may, in
+lieu of a managed care provider, negotiate directly and enter into an
+agreement with a pharmaceutical manufacturer for the provision of
+supplemental rebates relating to pharmaceutical utilization by enrollees
+of managed care providers pursuant to section three hundred sixty-four-j
+of this title. Such rebates shall be limited to drug utilization in the
+following classes: antiretrovirals approved by the FDA for the treatment
+of HIV/AIDS and hepatitis C agents for which the pharmaceutical
+manufacturer has in effect a rebate agreement with the federal secretary
+of health and human services pursuant to 42 U.S.C. § 1396r-8, and for
+which the state has established standard clinical criteria. No agreement
+entered into pursuant to this paragraph shall have an initial term or be
+extended beyond March thirty-first, two thousand twenty.
+  (i) The manufacturer shall not pay supplemental rebates to a managed
+care provider, or any of a managed care provider's agents, including but
+not limited to any pharmacy benefit manager on the two classes of drugs
+subject to this paragraph when the state is collecting supplemental
+rebates and standard clinical criteria are imposed on the managed care
+provider.
+  (ii) The commissioner shall establish adequate rates of reimbursement
+which shall take into account both the impact of the commissioner
+negotiating such rebates and any limitations imposed on the managed care
+provider's ability to establish clinical criteria relating to the
+utilization of such drugs. In developing the managed care provider's
+reimbursement rate, the commissioner shall identify the amount of
+reimbursement for such drugs as a separate and distinct component from
+the reimbursement otherwise made for prescription drugs as prescribed by
+this section.
+  (iii) The commissioner shall submit a report to the temporary
+president of the senate and the speaker of the assembly annually by
+December thirty-first. The report shall analyze the adequacy of rates to
+managed care providers for drug expenditures related to the classes
+under this paragraph.
+  (iv) Nothing in this paragraph shall be construed to require a
+pharmaceutical manufacturer to enter into a supplemental rebate
+agreement with the commissioner relating to pharmaceutical utilization
+by enrollees of managed care providers pursuant to section three hundred
+sixty-four-j of this title.
+  (v) All clinical criteria, including requirements for prior approval,
+and all utilization review determinations established by the state as
+described in this paragraph for either of the drug classes subject to
+this paragraph shall be developed using evidence-based and peer-reviewed
+clinical review criteria in accordance with article two-A of the public
+health law, as applicable.
+  (vi) All prior authorization and utilization review determinations
+related to the coverage of any drug subject to this paragraph shall be
+subject to article forty-nine of the public health law, section three
+hundred sixty-four-j of this title, and article forty-nine of the
+insurance law, as applicable. Nothing in this paragraph shall diminish
+any rights relating to access, prior authorization, or appeal relating
+to any drug class or drug afforded to a recipient under any other
+provision of law.
+  * NB Repealed March 31, 2020
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric
@@ -824,19 +945,19 @@ child. The department shall by regulation establish procedures
 consistent with paragraphs (a) and (b) of subdivision four of section
 one hundred seventy-one-c of the tax law by which any individual who is
 the subject of a certification may contest such certification.
-  12. Prior to receiving medical assistance under subparagraphs twelve
-and thirteen of paragraph (a) of subdivision one of section three
-hundred sixty-six of this title, a person whose net available income is
-at least one hundred fifty percent of the applicable federal income
-official poverty line, as defined and updated by the United States
-department of health and human services, must pay a monthly premium, in
-accordance with a procedure to be established by the commissioner. The
-amount of such premium shall be twenty-five dollars for an individual
-who is otherwise eligible for medical assistance under such
-subparagraphs, and fifty dollars for a couple, both of whom are
-otherwise eligible for medical assistance under such subparagraphs. No
-premium shall be required from a person whose net available income is
-less than one hundred fifty percent of the applicable federal income
-official poverty line, as defined and updated by the United States
-department of health and human services.
+  12. Prior to receiving medical assistance under subparagraphs five and
+six of paragraph (c) of subdivision one of section three hundred
+sixty-six of this title, a person whose net available income is at least
+one hundred fifty percent of the applicable federal income official
+poverty line, as defined and updated by the United States department of
+health and human services, must pay a monthly premium, in accordance
+with a procedure to be established by the commissioner. The amount of
+such premium shall be twenty-five dollars for an individual who is
+otherwise eligible for medical assistance under such subparagraphs, and
+fifty dollars for a couple, both of whom are otherwise eligible for
+medical assistance under such subparagraphs. No premium shall be
+required from a person whose net available income is less than one
+hundred fifty percent of the applicable federal income official poverty
+line, as defined and updated by the United States department of health
+and human services.
 ```

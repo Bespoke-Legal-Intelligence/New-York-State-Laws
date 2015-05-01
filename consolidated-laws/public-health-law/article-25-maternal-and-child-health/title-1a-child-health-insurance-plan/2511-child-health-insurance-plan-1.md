@@ -564,15 +564,6 @@ commissioner.
 remove any costs of approved organizations in excess of the amount
 determined in accordance with subparagraph (i) of this paragraph based
 on cost reports submitted to the department by approved organizations.
-  (e) The commissioner shall adjust subsidy payments to approved
-organizations made on and after April first, two thousand ten, so that
-the amount of each such payment, as otherwise calculated pursuant to
-this subdivision, is reduced by twenty-eight percent of the amount by
-which such calculated payment exceeds the statewide average subsidy
-payment for all approved organizations in effect on April first, two
-thousand ten. Such statewide average subsidy payment shall be calculated
-by the commissioner and shall not reflect adjustments made pursuant to
-this paragraph.
   (f) The commissioner shall adjust subsidy payments made to approved
 organizations on and after April first, two thousand eleven through
 March thirty-first, two thousand twelve, so that the amount of each such

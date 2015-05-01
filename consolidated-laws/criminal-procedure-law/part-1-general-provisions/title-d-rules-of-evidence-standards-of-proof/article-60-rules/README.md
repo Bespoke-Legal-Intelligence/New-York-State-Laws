@@ -18,6 +18,7 @@
 - [§ 60.44 Use of anatomically correct dolls](60.44-use-of-anatomically-correct-dolls.md)
 - [§ 60.45 Rules of evidence; admissibility of statements of defendants](60.45-rules-of-evidence-admissibility.md)
 - [§ 60.46 Rules of evidence, family offense proceedings in family court](60.46-rules-of-evidence-family-offense.md)
+- [§ 60.47 Possession of condoms; receipt into evidence](60.47-possession-of-condoms-receipt.md)
 - [§ 60.48 Rules of evidence; admissibility of evidence of victim's manner of dress in sex offense cases](60.48-rules-of-evidence-admissibility.md)
 - [§ 60.50 Rules of evidence; statements of defendants; corroboration](60.50-rules-of-evidence-statements.md)
 - [§ 60.55 Rules of evidence; psychiatric testimony in certain cases](60.55-rules-of-evidence-psychiatric-testimony.md)
@@ -54,6 +55,7 @@ Section 60.10 Rules of evidence; in general.
                 defendants.
         60.46 Rules of evidence; family offense proceedings in family
                 court.
+        60.47 Possession of condoms; receipt into evidence.
         60.48 Rules of evidence; admissibility of evidence of victim's
                 manner of dress in sex offense cases.
         60.50 Rules of evidence; statements of defendants;

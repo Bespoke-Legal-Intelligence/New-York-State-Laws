@@ -41,7 +41,7 @@ Article  1.   Short title and definitions (§§ 1-2).
 - [Article 1 — Short Title and Definitions](article-01-short-title-and-definitions/)
 - [Article 2 — Administration](article-02-administration/)
 - [Article 3 — Navigable Waters of the State](article-03-navigable-waters-of-the-state/)
-- [Article 4 — Vessels](article-04-vessels/)
+- [Article 4 — No title](article-04-no-title/)
 - [Article 4-A — Enforcement By Counties](article-04a-enforcement-by-counties/)
 - [Article 5 — Tidewater Navigation](article-05-tidewater-navigation/)
 - [Article 6 — Pilots and Pilotage Fees, Port of New York](article-06-pilots-and-pilotage-fees-port-of-new-york/)

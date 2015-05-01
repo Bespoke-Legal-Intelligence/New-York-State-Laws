@@ -143,7 +143,7 @@ ninety-nine, and two and one-half percent on and after January first,
 two thousand of gross receipt from: (i) any intrastate telecommunication
 services; (ii) any interstate and international telecommunication
 services (other than interstate and international private
-telecommunication services ) which originate or terminate in this state
+telecommunication services) which originate or terminate in this state
 and which telecommunication services are charged to a service address in
 this state, regardless of where the amounts charged for such services
 are billed or ultimately paid; and (iii) interstate and international

@@ -32,6 +32,25 @@ adjustment will achieve one or more of the following:
 services; or
   (iv) otherwise protect or enhance the health care delivery system, as
 determined by the commissioner.
+  (c-1) The commissioner, under applications submitted to the department
+pursuant to subdivision (d) of this section, shall consider criteria
+that includes, but is not limited to:
+  (i) Such applicant's financial condition as evidenced by operating
+margins, negative fund balance or negative equity position;
+  (ii) The extent to which such applicant fulfills or will fulfill an
+unmet health care need for acute inpatient, outpatient, primary or
+residential health care services in a community;
+  (iii) The extent to which such application will involve savings to the
+Medicaid program;
+  (iv) The quality of the application as evidenced by such application's
+long term solutions for such applicant to achieve sustainable health
+care services, improving the quality of patient care, and/or
+transforming the delivery of health care services to meet community
+needs;
+  (v) The extent to which such applicant is geographically isolated in
+relation to other providers; or
+  (vi) The extent to which such applicant provides services to an
+underserved area in relation to other providers.
   (d) (i) Such written proposal shall be submitted to the commissioner
 at least sixty days prior to the requested effective date of the
 temporary rate adjustment, and shall include a proposed budget to
@@ -54,14 +73,102 @@ to the end of the specified timeframe. (ii) The commissioner may require
 that applications submitted pursuant to this section be submitted in
 response to and in accordance with a Request For Applications or a
 Request For Proposals issued by the commissioner.
-  (e) Notwithstanding any law to the contrary, general hospitals defined
-as critical access hospitals pursuant to title XVIII of the federal
-social security act shall be allocated no less than five million dollars
-annually pursuant to this section. The department of health shall
-provide a report to the governor and legislature no later than December
-first, two thousand fourteen providing recommendations on how to ensure
-the financial stability of, and preserve patient access to, critical
-access hospitals.
+  * (e) Notwithstanding any law to the contrary, general hospitals
+defined as critical access hospitals pursuant to title XVIII of the
+federal social security act shall be allocated no less than five million
+dollars annually pursuant to this section. The department of health
+shall provide a report to the governor and legislature no later than
+December first, two thousand fourteen providing recommendations on how
+to ensure the financial stability of, and preserve patient access to,
+critical access hospitals.
+  * NB Effective until June 1, 2015
+  * (e) Notwithstanding any law to the contrary, general hospitals
+defined as critical access hospitals pursuant to title XVIII of the
+federal social security act shall be allocated no less than seven
+million five hundred thousand dollars annually pursuant to this section.
+The department of health shall provide a report to the governor and
+legislature no later than June first, two thousand fifteen providing
+recommendations on how to ensure the financial stability of, and
+preserve patient access to, critical access hospitals, including an
+examination of permanent Medicaid rate methodology changes.
+  * NB Effective June 1, 2015
+  * (e-1) Thirty days prior to executing an allocation or modification
+to an allocation made pursuant to this section, the commissioner shall
+provide written notice to the chair of the senate finance committee and
+the chair of the assembly ways and means committee with regards to the
+intent to distribute such funds. Such notice shall include, but not be
+limited to, information on the methodology used to distribute the funds,
+the facility specific allocations of the funds, any facility specific
+project descriptions or requirements for receiving such funds, the
+multi-year impacts of these allocations, and the availability of federal
+matching funds. The commissioner shall provide quarterly reports to the
+chair of the senate finance committee and the chair of the assembly ways
+and means committee on the distribution and disbursement of such funds.
+Within sixty days of the effectiveness of this subdivision, the
+commissioner shall provide a written report to the chair of the senate
+finance committee and the chair of the assembly ways and means committee
+on all awards made pursuant to this section prior to the effectiveness
+of this subdivision, including all information that is required to be
+included in the notice requirements of this subdivision.
+  * NB Effective June 1, 2015
+  (f) Notwithstanding any provision of law to the contrary, and subject
+to federal financial participation, no less than ten million dollars
+shall be allocated to providers described in this subdivision; provided,
+however that if federal financial participation is unavailable for any
+eligible provider, or for any potential investment under this
+subdivision then the non-federal share of payments pursuant to this
+subdivision may be made as state grants.
+  (i) Providers serving rural areas as such term is defined in section
+two thousand nine hundred fifty-one of this chapter, including but not
+limited to hospitals, residential health care facilities, diagnostic and
+treatment centers, ambulatory surgery centers and clinics shall be
+eligible for enhanced payments or reimbursement under a supplemental
+rate methodology for the purpose of promoting access and improving the
+quality of care.
+  (ii) Notwithstanding any provision of law to the contrary, and subject
+to federal financial participation, essential community providers,
+which, for the purposes of this section, shall mean a provider that
+offers health services within a defined and isolated geographic region
+where such services would otherwise be unavailable to the population of
+such region, shall be eligible for enhanced payments or reimbursement
+under a supplemental rate methodology for the purpose of promoting
+access and improving quality of care. Eligible providers under this
+paragraph may include, but are not limited to, hospitals, residential
+health care facilities, diagnostic and treatment centers, ambulatory
+surgery centers and clinics.
+  (iii) In making such payments the commissioner may contemplate the
+extent to which any such provider receives assistance under subdivision
+(a) of this section and may require such provider to submit a written
+proposal demonstrating that the need for monies under this subdivision
+exceeds monies otherwise distributed pursuant to this section.
+  (iv) Payments under this subdivision may include, but not be limited
+to, temporary rate adjustments, lump sum Medicaid payments, supplemental
+rate methodologies and any other payments as determined by the
+commissioner.
+  (v) Payments under this subdivision shall be subject to approval by
+the director of the budget.
+  (vi) The commissioner may promulgate regulations to effectuate the
+provisions of this subdivision.
+  (vii) Thirty days prior to adopting or applying a methodology or
+procedure for making an allocation or modification to an allocation made
+pursuant to this subdivision, the commissioner shall provide written
+notice to the chairs of the senate finance committee, the assembly ways
+and means committee, and the senate and assembly health committees with
+regard to the intent to adopt or apply the methodology or procedure,
+including a detailed explanation of the methodology or procedure.
+  (viii) Thirty days prior to executing an allocation or modification to
+an allocation made pursuant to this subdivision, the commissioner shall
+provide written notice to the chairs of the senate finance committee,
+the assembly ways and means committee, and the senate and assembly
+health committees with regard to the intent to distribute such funds.
+Such notice shall include, but not be limited to, information on the
+methodology used to distribute the funds, the facility specific
+allocations of the funds, any facility specific project descriptions or
+requirements for receiving such funds, the multi-year impacts of these
+allocations, and the availability of federal matching funds. The
+commissioner shall provide quarterly reports to the chair of the senate
+finance committee and the chair of the assembly ways and means committee
+on the distribution and disbursement of such funds.
   (g) Notwithstanding subdivision (a) of this section, and within
 amounts appropriated for such purposes as described herein, for the
 period of April first, two thousand fifteen through March thirty-first,

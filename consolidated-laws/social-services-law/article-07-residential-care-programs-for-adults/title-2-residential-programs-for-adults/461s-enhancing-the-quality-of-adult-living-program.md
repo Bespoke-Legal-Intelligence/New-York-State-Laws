@@ -20,5 +20,25 @@ revocation, suspension, limitation or denial of the operator's operating
 certificate.
   3. Prior to applying for EQUAL program funds, a facility shall receive
 approval of its expenditure plan from the residents' council for the
-facility.
+facility. The residents' council shall adopt a process to identify the
+priorities of the residents for the use of the program funds and
+document residents' top preferences by means that may include a vote or
+survey. The plan shall detail how program funds will be used to improve
+the physical environment of the facility or the quality of care and
+services rendered to residents and may include, but not be limited to,
+staff training, air conditioning in residents' areas, clothing,
+improvements in food quality, furnishings, equipment, security, and
+maintenance or repairs to the facility. The facility's application for
+EQUAL program funds shall include a signed attestation from the
+president or chair-person of the residents' council or, in the absence
+of a residents' council, at least three residents of the facility,
+stating that the application reflects the priorities of the residents of
+the facility. The department shall investigate reports of resident abuse
+and retaliation related to program applications and expenditures.
+  4. EQUAL program funds shall not be expended for a facility's daily
+operating expenses, including employee salaries or benefits, or for
+expenses incurred retrospectively. EQUAL program funds may be used for
+expenditures related to corrective action as required by an inspection
+report, provided such expenditure is consistent with subdivision three
+of this section.
 ```

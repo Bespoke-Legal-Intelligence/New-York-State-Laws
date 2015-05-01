@@ -147,7 +147,7 @@ include services and be made from contracts awarded by a regionally or
 nationally recognized purchasing organization, and contracts with a
 regionally or nationally recognized purchasing organization shall be
 made on a competitive basis.
-  * NB Repealed January 1, 2016
+  * NB Repealed January 1, 2020
   (c) authorize contracts for the participation by state hospitals in
 the department, as defined in section four hundred three of this title,
 in joint and cooperative programs and arrangements for the delivery of

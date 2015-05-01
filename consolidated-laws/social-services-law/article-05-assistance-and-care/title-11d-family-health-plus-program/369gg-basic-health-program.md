@@ -36,7 +36,17 @@ commissioner's authority pursuant to this section is contingent upon
 obtaining and maintaining all necessary approvals from the secretary of
 health and human services to offer a basic health program in accordance
 with 42 U.S.C. 18051. The commissioner may take any and all actions
-necessary to obtain such approvals.
+necessary to obtain such approvals. Notwithstanding the foregoing,
+within ninety days of the effective date of the chapter of the laws of
+two thousand fifteen which amended this subdivision the commissioner
+shall submit a report to the temporary president of the senate and the
+speaker of the assembly detailing a contingency plan in the event
+eligibility rules or regulations are modified or repealed; or in the
+event federal payment is reduced from ninety five percent of the premium
+tax credits and cost-sharing reductions pursuant to the patient
+protection and affordable care act (P.L. 111-148). The contingency plan
+shall be implemented within ninety days of the above stated events or
+the time period specified in federal law.
   3. Eligibility. A person is eligible to receive coverage for health
 care services pursuant to this title if he or she:
   (a) resides in New York state and is under sixty-five years of age;
@@ -108,7 +118,35 @@ defined and annually revised by the United States department of health
 and human services for a household of the same size.
   (b) The commissioner shall establish cost sharing obligations for
 enrollees, subject to federal approval.
-  6. Any funds transferred by the secretary of health and human services
+  6. Rates of payment. (a) The commissioner shall select the contract
+with an independent actuary to study and recommend appropriate
+reimbursement methodologies for the cost of health care service coverage
+pursuant to this title. Such independent actuary shall review and make
+recommendations concerning appropriate actuarial assumptions relevant to
+the establishment of reimbursement methodologies, including but not
+limited to; the adequacy of rates of payment in relation to the
+population to be served adjusted for case mix, the scope of health care
+services approved organizations must provide, the utilization of such
+services and the network of providers required to meet state standards.
+  (b) Upon consultation with the independent actuary and entities
+representing approved organizations, the commissioner shall develop
+reimbursement methodologies and fee schedules for determining rates of
+payment, which rate shall be approved by the director of the division of
+the budget, to be made by the department to approved organizations for
+the cost of health care services coverage pursuant to this title. Such
+reimbursement methodologies and fee schedules may include provisions for
+capitation arrangements.
+  (c) The commissioner shall have the authority to promulgate
+regulations, including emergency regulations, necessary to effectuate
+the provisions of this subdivision.
+  (d) The department shall require the independent actuary selected
+pursuant to paragraph (a) of this subdivision to provide a complete
+actuarial report, along with all actuarial assumptions made and all
+other data, materials and methodologies used in the development of rates
+for the basic health plan authorized under this section. Such report
+shall be provided annually to the temporary president of the senate and
+the speaker of the assembly.
+  7. Any funds transferred by the secretary of health and human services
 to the state pursuant to 42 U.S.C. 18051(d) shall be deposited in trust.
 Funds from the trust shall be used for providing health benefits through
 an approved organization, which, at a minimum, shall include essential
@@ -119,11 +157,21 @@ human services. Health benefits available through the basic health
 program shall be provided by one or more approved organizations pursuant
 to an agreement with the department of health and shall meet the
 requirements of applicable federal and state laws and regulations.
-  7. An individual who is lawfully admitted for permanent residence or
-permanently residing in the United States under color of law, and who
-would be ineligible for medical assistance under title eleven of this
-article due to his or her immigration status if the provisions of
-section one hundred twenty-two of this chapter were applied, shall be
-considered to be ineligible for medical assistance for purposes of
-paragraphs (b) and (c) of subdivision three of this section.
+  8. An individual who is lawfully admitted for permanent residence,
+permanently residing in the United States under color of law, or who is
+a non-citizen in a valid nonimmigrant status, as defined in 8 U.S.C.
+1101(a)(15), and who would be ineligible for medical assistance under
+title eleven of this article due to his or her immigration status if the
+provisions of section one hundred twenty-two of this chapter were
+applied, shall be considered to be ineligible for medical assistance for
+purposes of paragraphs (b) and (c) of subdivision three of this section.
+  9. Reporting. The commissioner shall submit a report to the temporary
+president of the senate and the speaker of the assembly annually by
+December thirty-first. The report shall include, at a minimum, an
+analysis of the basic health program and its impact on the financial
+interest of the state; its impact on the health benefit exchange
+including enrollment and premiums; its impact on the number of uninsured
+individuals in the state; its impact on the Medicaid global cap; and the
+demographics of basic health program enrollees including age and
+immigration status.
 ```

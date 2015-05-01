@@ -73,7 +73,24 @@ budget, may provide exceptions in circumstances where he finds that
 application of the regulations would result in excessive reimbursement
 or in severe economic hardship to the facility not caused by
 circumstances reasonably under the control of the facility.
-  (d) For facilities granted operating certificates on or after March
+  * (d) For facilities granted operating certificates on or after March
+tenth, nineteen hundred seventy-five, recognition of real property costs
+in such regulations shall be based upon historical costs to the owner of
+the facility, provided that payment for real property costs shall not be
+in excess of the actual debt service, including principal and interest,
+and payment with respect to owner's equity, and further provided that,
+subject to federal financial participation, and subject to the approval
+of the commissioner, effective April first, two thousand fifteen, the
+commissioner may modify such payments for real property costs for
+purposes of effectuating a shared savings program, whereby facilities
+share a minimum of fifty percent of savings, for facilities that elect
+to refinance their mortgage loans. For purposes of this subdivision,
+owner's equity shall be calculated without regard to any surplus created
+by revaluation of assets and shall not include amounts resulting from
+mortgage amortization where the payment therefor has been provided by
+real property cost reimbursement.
+  * NB Effective until March 31, 2020
+  * (d) For facilities granted operating certificates on or after March
 tenth, nineteen hundred seventy-five, recognition of real property costs
 in such regulations shall be based upon historical costs to the owner of
 the facility, provided that payment for real property costs shall not be
@@ -83,6 +100,7 @@ subdivision, owner's equity shall be calculated without regard to any
 surplus created by revaluation of assets and shall not include amounts
 resulting from mortgage amortization where the payment therefor has been
 provided by real property cost reimbursement.
+  * NB Effective March 31, 2020
   (e) All transactions, including leases and mortgages, which are not
 bona fide and reasonable shall be disregarded.
   2-b. Notwithstanding any inconsistent provision of this section, or
@@ -977,11 +995,11 @@ exemption to this subdivision. Beginning April first, nineteen hundred
 ninety-nine and thereafter, the commissioner shall consider such rate
 appeals within a reasonable period.
   (b) Notwithstanding any inconsistent provision of law or regulation to
-the contrary, for the state fiscal year beginning April first, two
-thousand ten and ending March thirty-first, two thousand fifteen, the
+the contrary, for the state fiscal years beginning April first, two
+thousand ten and ending March thirty-first, two thousand nineteen, the
 commissioner shall not be required to revise certified rates of payment
 established pursuant to this article for rate periods prior to April
-first, two thousand fifteen, based on consideration of rate appeals
+first, two thousand nineteen, based on consideration of rate appeals
 filed by residential health care facilities or based upon adjustments to
 capital cost reimbursement as a result of approval by the commissioner
 of an application for construction under section twenty-eight hundred
@@ -1002,7 +1020,7 @@ including, but not limited to, amounts owed pursuant to section
 twenty-eight hundred seven-d of this article; provided, however, that
 the commissioner's authority to negotiate such agreements resolving
 multiple pending rate appeals as hereinbefore described shall continue
-on and after April first, two thousand fifteen. Rate adjustments made
+on and after April first, two thousand nineteen. Rate adjustments made
 pursuant to this paragraph remain fully subject to approval by the
 director of the budget in accordance with the provisions of subdivision
 two of section twenty-eight hundred seven of this article.
@@ -1800,4 +1818,25 @@ care facility Medicaid rates of payment shall not include reimbursement
 for the cost of prescription drugs. Such reimbursement shall be in
 accordance with otherwise applicable provisions of section three hundred
 sixty-seven-a of the social services law.
+  * 27. The commissioner is authorized to conduct an energy audit and/or
+disaster preparedness review of residential health care facilities. Such
+audit or review shall explore the energy efficiency and/or disaster
+preparedness of the real property capital aspects of each facility and
+develop a cost/benefit analysis of potential modifications for each
+facility. Such audit or review shall serve as the basis for an energy
+efficiency and/or disaster preparedness program to be developed by the
+department in regulations. Participation in such audit or review shall
+be a condition to participation in any such program developed as a
+result thereof, and shall also be a condition to receipt of any funding
+available under such program. Such program shall only be implemented if
+it is in the best financial interests of the state, as determined by the
+commissioner. At least forty-five days prior to implementing such
+program, the department shall report to the senate and assembly health
+committees, the assembly ways and means committee and the senate finance
+committee the results of the energy audit authorized herein and the
+proposed eligibility criteria, funding sources, the manner in which
+savings may be shared between the state and facilities and any other
+information requested by such committees about such program prior to the
+transmittal of the report.
+  * NB Repealed March 31, 2018
 ```

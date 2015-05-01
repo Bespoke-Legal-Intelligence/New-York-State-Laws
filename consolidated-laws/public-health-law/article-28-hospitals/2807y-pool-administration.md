@@ -22,7 +22,11 @@ this article;
   2. In the event contracts with the article forty-three insurance law
 plans or other commissioner's designees are effectuated, the
 commissioner shall conduct annual audits of the receipt and distribution
-of the funds.
+of the funds and beginning January first, two thousand sixteen shall
+provide records of all revenues and disbursements made from allocations
+and assessments listed in subdivision one of this section to the
+temporary president of the senate and speaker of the assembly on an
+annual basis.
   3. The reasonable costs and expenses of an administrator as approved
 by the commissioner, not to exceed for personnel services on an annual
 basis four million five hundred fifty thousand dollars, increased

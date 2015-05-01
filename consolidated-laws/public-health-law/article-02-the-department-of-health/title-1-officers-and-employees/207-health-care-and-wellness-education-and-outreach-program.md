@@ -64,6 +64,7 @@ designed to promote the awareness of eating disorders and available
 services, as well as to prevent and reduce the incidence and prevalence
 of eating disorders, especially among children and adolescents.
   * NB There are 2 par (j)'s
+  (k) Donating umbilical cord blood to a public cord blood bank.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

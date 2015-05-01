@@ -35,6 +35,21 @@ similar funding opportunities, geographic and demographic factors,
 including the population served, and prevalence of qualifying
 conditions, connectivity to providers, and other criteria as established
 by the commissioner.
+  2-b. The commissioner is authorized to make grants up to a gross
+amount of five million dollars, to establish coordination between the
+health homes and the criminal justice system and for the integration of
+information of health homes with state and local correctional
+facilities, to the extent permitted by law. Health homes receiving funds
+under this subdivision shall be required to document and demonstrate the
+effective use of funds distributed herein.
+  2-c. The commissioner is authorized to make grants up to a gross
+amount of one million dollars for certified application counselors and
+assistors to facilitate the enrollment of persons in high risk
+populations, including but not limited to persons with mental health
+and/or substance abuse conditions that have been recently discharged or
+are pending release from state and local correctional facilities. Funds
+allocated for certified application counselors and assistors shall be
+expended through a request for proposal process.
   3. Until such time as the commissioner obtains necessary waivers
 and/or approvals of the federal social security act, Medicaid enrollees
 assigned to providers of health home services will be allowed to opt out

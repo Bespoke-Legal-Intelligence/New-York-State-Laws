@@ -3089,7 +3089,7 @@ determined in accordance with paragraphs (a), (b) and (c) of this
 subdivision for such prior year and capital related inpatient expenses
 for such prior year calculated based on the hospital's average capital
 related inpatient expenses computed on a per diem basis.
-  * NB Effective through March 31, 2015
+  * NB Effective through March 31, 2017
   * (f) Notwithstanding any inconsistent provision of this section,
 commencing April first, nineteen hundred ninety-five for purposes of
 determining the capital related inpatient expenses component of rates of
@@ -3100,7 +3100,7 @@ shall be decreased by the commissioner to reflect the percentage amount
 by which the budget for the base year two years prior to the rate year
 for capital related inpatient expenses of the hospital exceeded actual
 expenses.
-  * NB Effective through March 31, 2015
+  * NB Effective through March 31, 2017
   * (g) Notwithstanding any inconsistent provision of this article,
 commencing April first, nineteen hundred ninety-five for rates of
 payment for patients eligible for payments made by state governmental
@@ -3112,7 +3112,7 @@ seven of this article shall be adjusted by the commissioner to exclude
 such expenses related to:
   (i) forty-four percent of the costs of major movable equipment; and
   (ii) staff housing.
-  * NB Effective through March 31, 2015
+  * NB Effective through March 31, 2017
   9. Adjustments. For annual rate periods beginning on or after January
 first, nineteen hundred eighty-eight:
   (a) The commissioner shall on his own initiative, or on the basis of a

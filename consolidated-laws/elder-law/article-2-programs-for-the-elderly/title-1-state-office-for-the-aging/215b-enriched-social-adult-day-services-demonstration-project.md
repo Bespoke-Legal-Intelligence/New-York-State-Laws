@@ -96,5 +96,5 @@ including a unit of general purpose local government or not-for-profit,
 to provide services under this section. Funds under this section cannot
 pay for individuals who are eligible under title nineteen of the federal
 social security act.
-  * NB Repealed March 31, 2015
+  * NB Repealed March 31, 2017
 ```
