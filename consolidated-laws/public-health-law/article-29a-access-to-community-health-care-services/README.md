@@ -28,10 +28,6 @@ Section 2950. Legislative findings.
                                 TITLE 1-A
                       RURAL DENTISTRY PILOT PROGRAM
 Section 2958-a. Rural dentistry pilot program.
-                                * TITLE 2
-        ADIRONDACK MEDICAL HOME MULTIPAYOR DEMONSTRATION PROGRAM
-Section 2959. Adirondack medical home multipayor demonstration program.
-  * NB Repealed April 1, 2014
 ```
 
 </details>

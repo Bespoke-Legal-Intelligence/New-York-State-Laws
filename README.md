@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 1 May 2015.*
+*Current through the publication of 8 May 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [8 May 2015](changes/2015/2015-05-08.md): Penal Law
 - [1 May 2015](changes/2015/2015-05-01.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Correction Law; Criminal Procedure Law; Education Law; Elder Law; Environmental Conservation Law; Family Court Act; Insurance Law; Labor Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Social Services Law; State Finance Law; Tax Law
 - [24 Apr 2015](changes/2015/2015-04-24.md): Agriculture and Markets Law; Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Limited Liability Company Law; Local Finance Law; Mental Hygiene Law; Military Law; Navigation Law; New York City Criminal Court Act; Partnership Law; Penal Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Surrogate's Court Procedure Act; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [17 Apr 2015](changes/2015/2015-04-17.md): Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Highway Law; Medical Care Facilities Finance Agency; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [27 Mar 2015](changes/2015/2015-03-27.md): Agriculture and Markets Law; Correction Law; Environmental Conservation Law; General Business Law; Public Health Law
 - [20 Mar 2015](changes/2015/2015-03-20.md): Banking Law; Correction Law; Education Law; General Municipal Law; Insurance Law; Port of New York Authority; Public Authorities Law; Public Health Law; Social Services Law
 - [13 Mar 2015](changes/2015/2015-03-13.md): Labor Law; Real Property Tax Law
-- [6 Mar 2015](changes/2015/2015-03-06.md): Correction Law; Education Law; Environmental Conservation Law; Insurance Law; Limited Liability Company Law; Mental Hygiene Law; Public Health Law
 
 ## Most changed in the past 12 months
 
@@ -40,8 +40,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Labor Law](consolidated-laws/labor-law/README.md) | 55 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 52 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 43 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 42 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 42 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 41 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 36 |
 
 ## Consolidated Laws
@@ -103,7 +103,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 6 Feb 2015 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 185 | no change since 22 Sep 2014 (start of history) |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 24 Apr 2015 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 1 May 2015 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 8 May 2015 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | no change since 22 Sep 2014 (start of history) |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 17 Apr 2015 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 1 May 2015 |
