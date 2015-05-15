@@ -64,6 +64,12 @@ tracking system reporting requirements and service verification
 mechanisms. Any and all reimbursement rates developed by transportation
 managers under this subdivision shall be subject to the review and
 approval of the commissioner.
+  5. Notwithstanding any contrary provision of law, and subject to
+federal financial participation, the commissioner of health shall make
+adjustments to payments under this section, for the purposes of
+providing increased access to Medicaid non-emergency transportation in
+rural communities. Up to two million dollars shall be available for such
+purposes.
   * NB Repealed 6 years after the contract entered into pursuant to this
 section 365-h is executed
   * § 365-h. Provision and reimbursement of transportation costs. 1. The

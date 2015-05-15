@@ -8,7 +8,7 @@
 | Senate code | RRD |
 | Type | Consolidated law, chapter 49 |
 | Sections | 199 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 15 May 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Railroad |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (17 lines)](chapter-text.md)
+
+## Recent changes
+
+- [15 May 2015](../../changes/2015/2015-05-15.md): 1 amended
 
 ## Contents
 

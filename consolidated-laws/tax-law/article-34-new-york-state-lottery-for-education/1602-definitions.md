@@ -21,12 +21,11 @@ except for purposes of paragraph four of subsection c of section one
 thousand six hundred thirteen and sections one thousand six hundred
 fourteen and one thousand six hundred fifteen of this chapter the term
 "director" shall mean the "commission".
-  * 6. "Video lottery gaming" means any lottery game played on a video
+  6. "Video lottery gaming" means any lottery game played on a video
 lottery terminal that issues electronic tickets, allows multiple players
 to participate in the same game and determines winners to a material
 degree upon the element of chance, notwithstanding that the skill of a
 player may influence such player's chance of winning a game. Video
 lottery gaming may include elements of player interaction after a player
 receives an initial chance.
-  * NB Effective May 13, 2015
 ```
