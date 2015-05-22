@@ -12,6 +12,7 @@
 - [§ 1803-B Allocation of taxes among classes](1803b-allocation-of-taxes-among-classes.md)
 - [§ 1804 Commissioner certifications](1804-commissioner-certifications.md)
 - [§ 1805 Limitation on increases of assessed value of individual parcels](1805-limitation-on-increases-of-assessed-value-of-individual-parcels.md)
+- [§ 1805-A Assessment of real property damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve i...](1805a-assessment-of-real-property-damaged-by-the-severe-storm-that-occurred.md)
 - [§ 1806 Rules and regulations](1806-rules-and-regulations.md)
 
 <details>
@@ -32,6 +33,10 @@ Section 1801.   Definitions.
         1804.   Commissioner certifications.
         1805.   Limitation on increases of assessed value of individual
                   parcels.
+        1805-a. Assessment of real property damaged by the severe storm
+                  that occurred on the twenty-ninth and thirtieth of
+                  October, two thousand twelve in a city having a
+                  population of one million or more.
         1806.   Rules and regulations.
 ```
 

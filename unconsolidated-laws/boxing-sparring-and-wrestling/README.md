@@ -9,9 +9,13 @@
 | Type | Unconsolidated law |
 | Session law | L. 1920, ch. 912 |
 | Sections | 40 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 22 May 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Boxing, Sparring and Wrestling Ch. 912/20 |
+
+## Recent changes
+
+- [22 May 2015](../../changes/2015/2015-05-22.md): 1 amended
 
 ## Contents
 
