@@ -7,7 +7,7 @@
 
 - [§ 278 Prescription drug retail price lists](278-prescription-drug-retail-price-lists.md)
 - [§ 279 Prescriber education](279-prescriber-education.md)
-- [§ 280 Prescription drug discount program](280-prescription-drug-discount-program.md)
+- [§ 280 Prescription drug discount program](280-prescription-drug-discount-program.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

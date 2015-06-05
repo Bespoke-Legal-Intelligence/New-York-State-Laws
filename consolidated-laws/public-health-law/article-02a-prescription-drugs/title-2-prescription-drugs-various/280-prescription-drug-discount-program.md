@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 280", "kind": "section", "law_id": "PBH", "location_id": "280", "path": "ARTICLE 2-A › TITLE 2 › SECTION 280", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/280.md", "title": "Prescription drug discount program"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 280", "kind": "section", "law_id": "PBH", "location_id": "280", "path": "ARTICLE 2-A › TITLE 2 › SECTION 280", "repealed": true, "repealed_date": "2015-06-05", "source": "nys-laws:PBH/280.md", "title": "Prescription drug discount program"} -->
 # Public Health Law § 280 — Prescription drug discount program
 
 [Public Health Law](../../README.md) › [Article 2-A — Prescription Drugs](../README.md) › [Title 2 — Prescription Drugs; Various Provisions](README.md)
+
+**Repealed** (5 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 280. Prescription drug discount program. The prescription drug

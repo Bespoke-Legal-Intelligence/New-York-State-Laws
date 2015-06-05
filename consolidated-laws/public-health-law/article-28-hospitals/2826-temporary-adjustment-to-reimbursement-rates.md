@@ -73,27 +73,17 @@ to the end of the specified timeframe. (ii) The commissioner may require
 that applications submitted pursuant to this section be submitted in
 response to and in accordance with a Request For Applications or a
 Request For Proposals issued by the commissioner.
-  * (e) Notwithstanding any law to the contrary, general hospitals
-defined as critical access hospitals pursuant to title XVIII of the
-federal social security act shall be allocated no less than five million
-dollars annually pursuant to this section. The department of health
-shall provide a report to the governor and legislature no later than
-December first, two thousand fourteen providing recommendations on how
-to ensure the financial stability of, and preserve patient access to,
-critical access hospitals.
-  * NB Effective until June 1, 2015
-  * (e) Notwithstanding any law to the contrary, general hospitals
-defined as critical access hospitals pursuant to title XVIII of the
-federal social security act shall be allocated no less than seven
-million five hundred thousand dollars annually pursuant to this section.
-The department of health shall provide a report to the governor and
+  (e) Notwithstanding any law to the contrary, general hospitals defined
+as critical access hospitals pursuant to title XVIII of the federal
+social security act shall be allocated no less than seven million five
+hundred thousand dollars annually pursuant to this section. The
+department of health shall provide a report to the governor and
 legislature no later than June first, two thousand fifteen providing
 recommendations on how to ensure the financial stability of, and
 preserve patient access to, critical access hospitals, including an
 examination of permanent Medicaid rate methodology changes.
-  * NB Effective June 1, 2015
-  * (e-1) Thirty days prior to executing an allocation or modification
-to an allocation made pursuant to this section, the commissioner shall
+  (e-1) Thirty days prior to executing an allocation or modification to
+an allocation made pursuant to this section, the commissioner shall
 provide written notice to the chair of the senate finance committee and
 the chair of the assembly ways and means committee with regards to the
 intent to distribute such funds. Such notice shall include, but not be
@@ -110,7 +100,6 @@ finance committee and the chair of the assembly ways and means committee
 on all awards made pursuant to this section prior to the effectiveness
 of this subdivision, including all information that is required to be
 included in the notice requirements of this subdivision.
-  * NB Effective June 1, 2015
   (f) Notwithstanding any provision of law to the contrary, and subject
 to federal financial participation, no less than ten million dollars
 shall be allocated to providers described in this subdivision; provided,

@@ -1315,16 +1315,16 @@ period as the authorizing commissioner any determine. Any regulatory
 relief granted pursuant to this subdivision shall be described,
 including each regulation waived and the project it relates to, in the
 report provided pursuant to paragraph (b) of this subdivision.
-  * 22. Notwithstanding any provision of law to the contrary, and
-subject to federal financial participation, general hospitals designated
-as sole community hospitals in accordance with title XVIII of the
-federal social security act shall be eligible for enhanced payments or
-reimbursement for inpatient and/or outpatient services of up to twelve
-million dollars under a supplemental or revised rate methodology,
-established by the commissioner in regulation, for the purpose of
-promoting access and improving the quality of care. If federal financial
-participation is unavailable, then the non-federal share of such
-payments pursuant to this subdivision may be made as state grants.
+  22. Notwithstanding any provision of law to the contrary, and subject
+to federal financial participation, general hospitals designated as sole
+community hospitals in accordance with title XVIII of the federal social
+security act shall be eligible for enhanced payments or reimbursement
+for inpatient and/or outpatient services of up to twelve million dollars
+under a supplemental or revised rate methodology, established by the
+commissioner in regulation, for the purpose of promoting access and
+improving the quality of care. If federal financial participation is
+unavailable, then the non-federal share of such payments pursuant to
+this subdivision may be made as state grants.
   (a) Thirty days prior to adopting or applying a methodology or
 procedure for making an allocation or modification to an allocation made
 pursuant to this subdivision, the commissioner shall provide written
@@ -1345,5 +1345,4 @@ allocations, and the availability of federal matching funds. The
 commissioner shall provide quarterly reports to the chair of the senate
 finance committee and the chair of the assembly ways and means committee
 on the distribution and disbursement of such funds.
-  * NB Effective June 1, 2015
 ```

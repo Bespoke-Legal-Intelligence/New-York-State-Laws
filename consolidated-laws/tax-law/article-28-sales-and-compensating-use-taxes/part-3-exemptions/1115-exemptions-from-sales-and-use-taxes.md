@@ -1437,7 +1437,6 @@ two hundred thirty thousand dollars of the purchase price.
   (8) Except as otherwise provided herein, this subdivision shall not be
 deemed to limit any other exemption, exclusion or credit in this article
 relating to a vessel.
-  * NB Effective June 1, 2015
   * NB There are 2 sb (jj)'s
   * (jj) Tangible personal property or services otherwise taxable under
 this article sold to a related person shall not be subject to the taxes

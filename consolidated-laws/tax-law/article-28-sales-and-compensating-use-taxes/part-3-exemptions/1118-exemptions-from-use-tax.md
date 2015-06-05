@@ -127,7 +127,6 @@ alcoholic beverage control law to be furnished at no charge to a
 customer or prospective customer at such tasting for consumption at such
 tasting; and (ii) bottles, corks, caps and labels used to package such
 alcoholic beverages.
-  * NB Effective June 1, 2015
   * NB There are 2 sb (13)'s
   * (13) In respect to the use within the state of a vessel, as defined
 in section twenty-two hundred fifty of the vehicle and traffic law,
@@ -138,6 +137,5 @@ for a period in excess of ninety consecutive days;
 pursuant to section twenty-two hundred fifty-one of the vehicle and
 traffic law; or
   (c) the date upon which such vessel is so registered.
-  * NB Effective June 1, 2015
   * NB There are 2 sb (13)'s
 ```

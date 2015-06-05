@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 22 May 2015.*
+*Current through the publication of 5 Jun 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [5 Jun 2015](changes/2015/2015-06-05.md): Public Health Law; Tax Law
 - [22 May 2015](changes/2015/2015-05-22.md): Arts and Cultural Affairs Law; Boxing, Sparring and Wrestling; Education Law; General Business Law; Labor Law; Medical Care Facilities Finance Agency; Real Property Tax Law
 - [15 May 2015](changes/2015/2015-05-15.md): Labor Law; Penal Law; Private Housing Finance Law; Railroad Law; Social Services Law; State Finance Law; Tax Law
 - [8 May 2015](changes/2015/2015-05-08.md): Penal Law
@@ -22,15 +23,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [24 Apr 2015](changes/2015/2015-04-24.md): Agriculture and Markets Law; Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Limited Liability Company Law; Local Finance Law; Mental Hygiene Law; Military Law; Navigation Law; New York City Criminal Court Act; Partnership Law; Penal Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Surrogate's Court Procedure Act; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [17 Apr 2015](changes/2015/2015-04-17.md): Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Highway Law; Medical Care Facilities Finance Agency; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [10 Apr 2015](changes/2015/2015-04-10.md): Financial Services Law; Insurance Law; Public Health Law; Public Housing Law; Social Services Law; State Finance Law
-- [27 Mar 2015](changes/2015/2015-03-27.md): Agriculture and Markets Law; Correction Law; Environmental Conservation Law; General Business Law; Public Health Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 265 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 162 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 131 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 166 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 134 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 122 |
 | [Education Law](consolidated-laws/education-law/README.md) | 115 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 103 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 15 May 2015 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 1 May 2015 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 48 | 24 Apr 2015 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,611 | 1 May 2015 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,611 | 5 Jun 2015 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | 10 Apr 2015 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 1 May 2015 |
@@ -130,7 +130,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 28 Nov 2014 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,148 | 15 May 2015 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,148 | 5 Jun 2015 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 12 Dec 2014 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 17 Apr 2015 |
