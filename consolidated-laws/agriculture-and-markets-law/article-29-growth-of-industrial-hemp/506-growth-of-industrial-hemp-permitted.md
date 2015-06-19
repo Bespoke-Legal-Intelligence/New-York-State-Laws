@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 506. Growth of industrial hemp permitted. Notwithstanding any
+  § 506. Growth of industrial hemp permitted. Notwithstanding any
 provision of law to the contrary, industrial hemp is an agricultural
 product which may be grown, produced and possessed in the state as part
 of an agricultural pilot program pursuant to authorization under federal
@@ -17,5 +17,4 @@ agricultural pilot program conducted by the department and/or an
 institution of higher education to study the growth and cultivation of
 such hemp provided that the sites used for growing or cultivating
 industrial hemp are certified by, and registered with, the department.
-  * NB Effective June 15, 2015
 ```

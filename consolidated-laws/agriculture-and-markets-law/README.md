@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 664 |
-| Last changed | 1 May 2015 |
+| Sections | 664 (6 repealed) |
+| Last changed | 19 Jun 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [19 Jun 2015](../../changes/2015/2015-06-19.md): 10 amended, 6 repealed
 - [1 May 2015](../../changes/2015/2015-05-01.md): 2 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 10 amended
 - [27 Mar 2015](../../changes/2015/2015-03-27.md): 1 amended
@@ -104,7 +105,7 @@ Assembly, do enact as follows:
 - [Article 26 — Animals](article-26-animals/)
 - [Article 26-A — Care of Animals By Pet Dealers](article-26a-care-of-animals-by-pet-dealers/)
 - [Article 26-B — Animal Response Teams](article-26b-animal-response-teams/)
-- [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](article-27-saving-clauses-laws-repealed-when-to-take-effect/)
+- [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](article-27-saving-clauses-laws-repealed-when-to-take-effect/) *(repealed)*
 - [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](article-28-special-powers-and-duties-of-the-department/)
 - [Article 29 — Growth of Industrial Hemp](article-29-growth-of-industrial-hemp/)
 - [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](article-30-saving-clauses-laws-repealed-when-to-take-effect/)

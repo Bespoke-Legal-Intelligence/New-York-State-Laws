@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 505. Definitions. As used in this article:
+  § 505. Definitions. As used in this article:
   1. "Industrial hemp" means the plant Cannabis sativa L. and any part
 of such plant, whether growing or not, with a delta-9
 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry
@@ -22,5 +22,4 @@ section sixty-two hundred two of the education law; and
 power to confer associate, baccalaureate or higher degrees in this state
 by the legislature or by the regents under article five of the education
 law.
-  * NB Effective June 15, 2015
 ```

@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  * § 552. Pending actions or proceedings. This chapter shall not affect
+  § 552. Pending actions or proceedings. This chapter shall not affect
 pending actions or proceedings brought by or against the department of
 agriculture and markets or the department of farms and markets, the
 commissioner of agriculture and markets or the commissioner of farms and
@@ -30,5 +30,4 @@ the department, may be conducted or continued to a final determination
 by the department, commissioner, or other proper officer of such
 department, in the same manner and under the same terms and conditions
 as though this chapter had not been passed.
-  * NB Effective June 15, 2015
 ```

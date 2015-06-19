@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 452", "kind": "section", "law_id": "AGM", "location_id": "452", "path": "ARTICLE 27 › SECTION 452", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/452.md", "title": "Pending actions or proceedings"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 452", "kind": "section", "law_id": "AGM", "location_id": "452", "path": "ARTICLE 27 › SECTION 452", "repealed": true, "repealed_date": "2015-06-19", "source": "nys-laws:AGM/452.md", "title": "Pending actions or proceedings"} -->
 # Agriculture and Markets Law § 452 — Pending actions or proceedings
 
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+**Repealed** (19 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 452. Pending actions or proceedings. This chapter shall not affect

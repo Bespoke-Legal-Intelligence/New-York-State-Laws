@@ -4,14 +4,14 @@
 [Agriculture and Markets Law](../README.md) › [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  * § 554. Laws repealed. Chapter nine of the laws of nineteen hundred
-and nine, entitled "An act in relation to agriculture, constituting
-chapter one of the consolidated laws, "; chapter eight hundred and two
-of the laws of nineteen hundred and seventeen, entitled "An act in
-relation to farms and markets, constituting chapter sixty-nine of the
-consolidated laws, "; articles two, two-a, thirteen, fourteen, fifteen,
-and twenty-five-a, and sections three hundred and ninety, three hundred
-and ninety-two, three hundred and ninety-three, three hundred and
+  § 554. Laws repealed. Chapter nine of the laws of nineteen hundred and
+nine, entitled "An act in relation to agriculture, constituting chapter
+one of the consolidated laws, "; chapter eight hundred and two of the
+laws of nineteen hundred and seventeen, entitled "An act in relation to
+farms and markets, constituting chapter sixty-nine of the consolidated
+laws, "; articles two, two-a, thirteen, fourteen, fifteen, and
+twenty-five-a, and sections three hundred and ninety, three hundred and
+ninety-two, three hundred and ninety-three, three hundred and
 ninety-four, three hundred and ninety-five, and three hundred and
 ninety-seven, of chapter twenty-five of the laws of nineteen hundred and
 nine, entitled "An act relating to general business, constituting
@@ -21,5 +21,4 @@ forty-nine of the laws of nineteen hundred and nine, entitled "An act in
 relation to the public health, constituting chapter forty-five of the
 consolidated laws, "; and all acts and parts of acts amendatory thereof
 or supplemental thereto, are hereby repealed.
-  * NB Effective June 15, 2015
 ```

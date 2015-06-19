@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 451", "kind": "section", "law_id": "AGM", "location_id": "451", "path": "ARTICLE 27 › SECTION 451", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/451.md", "title": "Existing rules and regulations continued"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 451", "kind": "section", "law_id": "AGM", "location_id": "451", "path": "ARTICLE 27 › SECTION 451", "repealed": true, "repealed_date": "2015-06-19", "source": "nys-laws:AGM/451.md", "title": "Existing rules and regulations continued"} -->
 # Agriculture and Markets Law § 451 — Existing rules and regulations continued
 
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+**Repealed** (19 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 451. Existing rules and regulations continued. The rules and

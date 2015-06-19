@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 454", "kind": "section", "law_id": "AGM", "location_id": "454", "path": "ARTICLE 27 › SECTION 454", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/454.md", "title": "Laws repealed"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 454", "kind": "section", "law_id": "AGM", "location_id": "454", "path": "ARTICLE 27 › SECTION 454", "repealed": true, "repealed_date": "2015-06-19", "source": "nys-laws:AGM/454.md", "title": "Laws repealed"} -->
 # Agriculture and Markets Law § 454 — Laws repealed
 
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+**Repealed** (19 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 454. Laws repealed. Chapter nine of the laws of nineteen hundred

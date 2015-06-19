@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 453", "kind": "section", "law_id": "AGM", "location_id": "453", "path": "ARTICLE 27 › SECTION 453", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/453.md", "title": "Existing rights preserved"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 453", "kind": "section", "law_id": "AGM", "location_id": "453", "path": "ARTICLE 27 › SECTION 453", "repealed": true, "repealed_date": "2015-06-19", "source": "nys-laws:AGM/453.md", "title": "Existing rights preserved"} -->
 # Agriculture and Markets Law § 453 — Existing rights preserved
 
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+**Repealed** (19 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 453. Existing rights preserved. The provisions of this act, or the

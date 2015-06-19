@@ -16,7 +16,7 @@
 <summary>Official heading of Article 30, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 30
+                               ARTICLE 30
            Saving Clauses; Laws Repealed; When to Take Effect.
 Section 550. Application of provisions of other laws and of documents.
         551. Existing rules and regulations continued.
@@ -24,7 +24,6 @@ Section 550. Application of provisions of other laws and of documents.
         553. Existing rights preserved.
         554. Laws repealed.
         555. When to take effect.
-  * NB Effective June 15, 2015
 ```
 
 </details>

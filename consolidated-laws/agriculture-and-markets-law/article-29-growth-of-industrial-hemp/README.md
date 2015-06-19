@@ -14,13 +14,12 @@
 <summary>Official heading of Article 29, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 29
+                               ARTICLE 29
                         GROWTH OF INDUSTRIAL HEMP
 Section 505. Definitions.
         506. Growth of industrial hemp permitted.
         507. Prohibitions.
         508. Regulations.
-  * NB Effective June 15, 2015
 ```
 
 </details>

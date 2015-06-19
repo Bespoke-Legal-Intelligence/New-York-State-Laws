@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 450", "kind": "section", "law_id": "AGM", "location_id": "450", "path": "ARTICLE 27 › SECTION 450", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/450.md", "title": "Application of provisions of other laws and of documents"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 450", "kind": "section", "law_id": "AGM", "location_id": "450", "path": "ARTICLE 27 › SECTION 450", "repealed": true, "repealed_date": "2015-06-19", "source": "nys-laws:AGM/450.md", "title": "Application of provisions of other laws and of documents"} -->
 # Agriculture and Markets Law § 450 — Application of provisions of other laws and of documents
 
 [Agriculture and Markets Law](../README.md) › [Article 27 — Saving Clauses; Laws Repealed; When to Take Effect](README.md)
+
+**Repealed** (19 Jun 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 450. Application of provisions of other laws and of documents.
