@@ -6,5 +6,5 @@
 ```text
   * Section 1. Short title. This act shall be known and may be cited as
 the "emergency tenant protection act of nineteen seventy-four".
-  * NB Expires June 16, 2015
+  * NB Expires June 23, 2015
 ```

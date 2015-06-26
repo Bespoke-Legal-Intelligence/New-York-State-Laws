@@ -9,11 +9,11 @@
 | Type | Unconsolidated law |
 | Session law | L. 1974, ch. 576 |
 | Sections | 17 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Jun 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Tenant Protection Act 576/74 |
 
-**Short title (from the law itself):** * Section 1. Short title. This act shall be known and may be cited as the "emergency tenant protection act of nineteen seventy-four". * NB Expires June 16, 2015
+**Short title (from the law itself):** * Section 1. Short title. This act shall be known and may be cited as the "emergency tenant protection act of nineteen seventy-four". * NB Expires June 23, 2015
 
 ## Chapter text as published
 
@@ -29,6 +29,10 @@ Section 1.    Short title.
 ```
 
 [Full chapter text (23 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Jun 2015](../../changes/2015/2015-06-26.md): 17 amended
 
 ## Contents
 

@@ -9,11 +9,15 @@
 | Type | Unconsolidated law |
 | Session law | L. 1946, ch. 274; L. 1961, ch. 337 |
 | Sections | 18 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Jun 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Housing Rent Control Law 274/46 337/61 |
 
-**Short title (from the law itself):** * § 17. Short title. This act shall be known and may be cited as the emergency housing rent control law. * NB Effective until June 16, 2015
+**Short title (from the law itself):** * § 17. Short title. This act shall be known and may be cited as the emergency housing rent control law. * NB Effective until June 23, 2015
+
+## Recent changes
+
+- [26 Jun 2015](../../changes/2015/2015-06-26.md): 18 amended
 
 ## Contents
 

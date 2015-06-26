@@ -79,5 +79,5 @@ which is governed by the rent stabilization law of nineteen hundred
 sixty-nine or this act; provided, however, that the division shall not
 be required to maintain an office in the counties of Nassau, Rockland,
 or Richmond.
-  * NB Expires June 16, 2015
+  * NB Expires June 23, 2015
 ```

@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 Jun 2015.*
+*Current through the publication of 26 Jun 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 Jun 2015](changes/2015/2015-06-26.md): Emergency Housing Rent Control Law; Emergency Tenant Protection Act; General Business Law; Penal Law; Real Property Tax Law
 - [19 Jun 2015](changes/2015/2015-06-19.md): Agriculture and Markets Law; Education Law; General Municipal Law; Volunteer Ambulance Workers' Benefit Law
 - [5 Jun 2015](changes/2015/2015-06-05.md): Public Health Law; Tax Law
 - [22 May 2015](changes/2015/2015-05-22.md): Arts and Cultural Affairs Law; Boxing, Sparring and Wrestling; Education Law; General Business Law; Labor Law; Medical Care Facilities Finance Agency; Real Property Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [8 May 2015](changes/2015/2015-05-08.md): Penal Law
 - [1 May 2015](changes/2015/2015-05-01.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Correction Law; Criminal Procedure Law; Education Law; Elder Law; Environmental Conservation Law; Family Court Act; Insurance Law; Labor Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Social Services Law; State Finance Law; Tax Law
 - [24 Apr 2015](changes/2015/2015-04-24.md): Agriculture and Markets Law; Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Limited Liability Company Law; Local Finance Law; Mental Hygiene Law; Military Law; Navigation Law; New York City Criminal Court Act; Partnership Law; Penal Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Surrogate's Court Procedure Act; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
-- [17 Apr 2015](changes/2015/2015-04-17.md): Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Highway Law; Medical Care Facilities Finance Agency; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -40,9 +40,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 58 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 57 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 53 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 46 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 43 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 43 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 36 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 38 |
 
 ## Consolidated Laws
 
@@ -78,7 +78,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 856 | 24 Apr 2015 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 10 Apr 2015 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,173 | 22 May 2015 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,173 | 26 Jun 2015 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | no change since 22 Sep 2014 (start of history) |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,065 | 19 Jun 2015 |
@@ -103,7 +103,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 6 Feb 2015 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 185 | no change since 22 Sep 2014 (start of history) |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 24 Apr 2015 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 15 May 2015 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 26 Jun 2015 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | no change since 22 Sep 2014 (start of history) |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 15 May 2015 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 1 May 2015 |
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 320 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 409 | 24 Apr 2015 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 746 | 22 May 2015 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 746 | 26 Jun 2015 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 305 | no change since 22 Sep 2014 (start of history) |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 539 | 24 Apr 2015 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
@@ -151,8 +151,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [City of Troy Issuance of Serial Bonds](unconsolidated-laws/city-of-troy-issuance-of-serial-bonds/README.md) | TRY | 18 | no change since 22 Sep 2014 (start of history) |
 | [Defense Emergency Act of 1951](unconsolidated-laws/defense-emergency-act-of-1951/README.md) | DEA | 89 | no change since 22 Sep 2014 (start of history) |
 | [Development of Port of New York](unconsolidated-laws/development-of-port-of-new-york/README.md) | DPN | 17 | no change since 22 Sep 2014 (start of history) |
-| [Emergency Housing Rent Control Law](unconsolidated-laws/emergency-housing-rent-control-law/README.md) | ERL | 18 | no change since 22 Sep 2014 (start of history) |
-| [Emergency Tenant Protection Act](unconsolidated-laws/emergency-tenant-protection-act/README.md) | ETP | 17 | no change since 22 Sep 2014 (start of history) |
+| [Emergency Housing Rent Control Law](unconsolidated-laws/emergency-housing-rent-control-law/README.md) | ERL | 18 | 26 Jun 2015 |
+| [Emergency Tenant Protection Act](unconsolidated-laws/emergency-tenant-protection-act/README.md) | ETP | 17 | 26 Jun 2015 |
 | [Expanded Health Care Coverage Act](unconsolidated-laws/expanded-health-care-coverage-act/README.md) | EHC | 4 | no change since 22 Sep 2014 (start of history) |
 | [Facilities Development Corporation Act](unconsolidated-laws/facilities-development-corporation-act/README.md) | FDC | 25 | 28 Nov 2014 |
 | [General City Model](unconsolidated-laws/general-city-model/README.md) | GCM | 116 | no change since 22 Sep 2014 (start of history) |
