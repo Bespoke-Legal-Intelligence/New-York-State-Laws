@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 171-S", "kind": "section", "law_id": "TAX", "location_id": "171-S", "path": "ARTICLE 8 › SECTION 171-S", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/171-S.md", "title": "Brownfield redevelopment report"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 171-S", "kind": "section", "law_id": "TAX", "location_id": "171-S", "path": "ARTICLE 8 › SECTION 171-S", "repealed": true, "repealed_date": "2015-07-03", "source": "nys-laws:TAX/171-S.md", "title": "Brownfield redevelopment report"} -->
 # Tax Law § 171-S — Brownfield redevelopment report
 
 [Tax Law](../README.md) › [Article 8 — Department of Taxation and Finance; Commissioner of Taxation and Finance](README.md)
+
+**Repealed** (3 Jul 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 171-s. Brownfield redevelopment report. A developer, and his or

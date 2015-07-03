@@ -11,7 +11,7 @@
 - [§ 453-A Payments for non-recurring adoption expenses](453a-payments-for-non-recurring-adoption-expenses.md)
 - [§ 454 Medical subsidy](454-medical-subsidy.md)
 - [§ 455 Fair hearings](455-fair-hearings.md)
-- [§ 456 State reimbursement](456-state-reimbursement.md)
+- [§ 456 State reimbursement and payments](456-state-reimbursement-and-payments.md)
 - [§ 457 Out-of-state adoptive parents](457-out-of-state-adoptive-parents.md)
 - [§ 458 Availability of subsidy; publicity](458-availability-of-subsidy-publicity.md)
 

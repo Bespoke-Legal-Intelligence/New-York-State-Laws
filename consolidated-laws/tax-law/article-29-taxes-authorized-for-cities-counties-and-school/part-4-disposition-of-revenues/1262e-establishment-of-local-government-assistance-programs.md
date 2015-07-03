@@ -8,7 +8,7 @@
 Nassau county. 1. Towns and cities. Notwithstanding any other provision
 of law to the contrary, for the calendar year beginning on January
 first, nineteen hundred ninety-eight and continuing through the calendar
-year beginning on January first, two thousand fifteen, the county of
+year beginning on January first, two thousand seventeen, the county of
 Nassau shall enact and establish a local government assistance program
 for the towns and cities within such county to assist such towns and
 cities to minimize real property taxes; defray the cost and expense of
@@ -23,26 +23,26 @@ the three-quarters percent sales and use tax during calendar years two
 thousand one, two thousand two, two thousand three, two thousand four,
 two thousand five, two thousand six, two thousand seven, two thousand
 eight, two thousand nine, two thousand ten, two thousand eleven, two
-thousand twelve, two thousand thirteen, two thousand fourteen and two
-thousand fifteen additional to the regular three percent rate authorized
-for such county in section twelve hundred ten of this article. The
-monies for such special local assistance shall be paid and distributed
-to the towns and cities on a per capita basis using the population
-figures in the latest decennial federal census. Provided further, that
-notwithstanding any other law to the contrary, the establishment of such
-special assistance program shall preclude any city or town within such
-county from preempting or claiming under any other section of this
-chapter the revenues derived from the additional tax authorized by
-section twelve hundred ten of this article. Provided further, that any
-such town or towns may, by resolution of the town board, apportion all
-or a part of monies received in such special assistance program to an
-improvement district or special district account within such town or
-towns in order to accomplish the purposes of this special assistance
-program.
+thousand twelve, two thousand thirteen, two thousand fourteen, two
+thousand fifteen, two thousand sixteen, and two thousand seventeen
+additional to the regular three percent rate authorized for such county
+in section twelve hundred ten of this article. The monies for such
+special local assistance shall be paid and distributed to the towns and
+cities on a per capita basis using the population figures in the latest
+decennial federal census. Provided further, that notwithstanding any
+other law to the contrary, the establishment of such special assistance
+program shall preclude any city or town within such county from
+preempting or claiming under any other section of this chapter the
+revenues derived from the additional tax authorized by section twelve
+hundred ten of this article. Provided further, that any such town or
+towns may, by resolution of the town board, apportion all or a part of
+monies received in such special assistance program to an improvement
+district or special district account within such town or towns in order
+to accomplish the purposes of this special assistance program.
   2. Villages. Notwithstanding any other provision of law to the
 contrary, for the calendar year beginning on January first, nineteen
 hundred ninety-eight and continuing through the calendar year beginning
-on January first, two thousand fifteen, the county of Nassau, by local
+on January first, two thousand seventeen, the county of Nassau, by local
 law, is hereby empowered to enact and establish a local government
 assistance program for the villages within such county to assist such
 villages to minimize real property taxes; defray the cost and expense of

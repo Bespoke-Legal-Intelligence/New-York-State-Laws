@@ -1,18 +1,13 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1690", "kind": "section", "law_id": "VAT", "location_id": "1690", "path": "TITLE 8 › ARTICLE 44-A › SECTION 1690", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1690.md", "title": "Authority of the Nassau county and Suffolk county district court judicial hearing officers"} -->
-# Vehicle and Traffic Law § 1690 — Authority of the Nassau county and Suffolk county district court judicial hearing officers
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1690", "kind": "section", "law_id": "VAT", "location_id": "1690", "path": "TITLE 8 › ARTICLE 44-A › SECTION 1690", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1690.md", "title": "Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing officers"} -->
+# Vehicle and Traffic Law § 1690 — Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing officers
 
-[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-A — Authority of the Nassau and Suffolk County District Court Judicial Hearing Officers](README.md)
+[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-A — Authority of the Nassau and Suffolk County District Court and Buffalo City Court Judicial Hearing Officers](README.md)
 
 ```text
-  § 1690. * Authority of the Nassau county and Suffolk county district
-court judicial hearing officers.
-  * NB Effective until July 1, 2015
-  * Authority of the Nassau county and Suffolk county district court
-judicial hearing officers and the city of Buffalo judicial hearing
-officers.
-  * NB Effective July 1, 2015
-  1. Notwithstanding any other provision of law, where the trial of a
-traffic or parking infraction is authorized or required to be tried
+  § 1690. Authority of the Nassau county and Suffolk county district
+court judicial hearing officers and the city of Buffalo judicial hearing
+officers. 1. Notwithstanding any other provision of law, where the trial
+of a traffic or parking infraction is authorized or required to be tried
 before the Nassau county district court or Suffolk county district
 court, and such traffic and parking infraction does not constitute a
 misdemeanor, felony, violation of subdivision one of section eleven
@@ -43,8 +38,8 @@ entertain the case in the same manner as a court and shall:
   (c) render a verdict;
   (d) impose sentence; or
   (e) dispose of the case in any manner provided by law.
-  * 1-a. Notwithstanding any other provision of law, where the trial of
-a traffic infraction is authorized or required to be tried before the
+  1-a. Notwithstanding any other provision of law, where the trial of a
+traffic infraction is authorized or required to be tried before the
 Buffalo city court, and such traffic infraction does not constitute a
 misdemeanor, felony, violation of subdivision one of section eleven
 hundred ninety-two, subdivision five of section eleven hundred
@@ -80,7 +75,6 @@ and shall:
   (c) render a verdict;
   (d) impose sentence; or
   (e) dispose of the case in any manner provided by law.
-  * NB Effective July 1, 2015
   2. In the discharge of this responsibility, the judicial hearing
 officer shall have the same powers as a judge of the court in which the
 proceeding is pending. The rules of evidence and reasonable doubt burden
@@ -96,11 +90,10 @@ traffic or parking violations and are further prohibited from appearing
 in any capacity other than as a judicial hearing officer in any other
 court or administrative tribunal on any matter relating to traffic or
 parking violations.
-  * 4-a. Judicial hearing officers are prohibited from appearing in any
+  4-a. Judicial hearing officers are prohibited from appearing in any
 capacity other than as a judicial hearing officer in any part of Buffalo
 city court on any matter relating to traffic violations and are further
 prohibited from appearing in any capacity other than as a judicial
 hearing officer in any other court or administrative tribunal on any
 matter relating to traffic violations.
-  * NB Effective July 1, 2015
 ```

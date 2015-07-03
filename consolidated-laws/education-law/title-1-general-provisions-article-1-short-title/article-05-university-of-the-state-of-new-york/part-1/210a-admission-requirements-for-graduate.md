@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 210-a. Admission requirements for graduate-level teacher and
+  § 210-a. Admission requirements for graduate-level teacher and
 educational leader programs. Each institution registered by the
 department with graduate-level teacher and leader education programs
 shall adopt rigorous selection criteria geared to predicting a
@@ -20,5 +20,4 @@ teaching profession or other extenuating circumstances pursuant to the
 regulations of the commissioner. A program shall report to the
 department the number of students admitted pursuant to such exemption
 and the selection criteria used for such exemptions.
-  * NB Effective July 1, 2015
 ```

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
 
 ```text
-  * § 3020-b. Streamlined removal procedures for teachers rated
+  § 3020-b. Streamlined removal procedures for teachers rated
 ineffective. 1. Applicability. This section shall apply to classroom
 teachers and building principals who receive two or more consecutive
 annual ineffective ratings pursuant to annual professional performance
@@ -198,5 +198,4 @@ implementation of the decision of the hearing officer.
 any evidence of performance to support charges of incompetence brought
 pursuant to the provisions of section three thousand twenty-a of this
 article.
-  * NB Effective July 1, 2015
 ```

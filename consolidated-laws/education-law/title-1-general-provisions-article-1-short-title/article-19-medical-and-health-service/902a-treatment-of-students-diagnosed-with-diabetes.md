@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 902-a. Treatment of students diagnosed with diabetes by school
+  § 902-a. Treatment of students diagnosed with diabetes by school
 personnel. 1. Licensed nurses, nurse practitioners, physician
 assistants, or physicians employed by school districts or boards of
 cooperative educational services are authorized to calculate prescribed
@@ -26,5 +26,4 @@ hundred twenty-one of this article.
 their agents or employees shall incur no legal or financial liability as
 a result of any harm or injury sustained by a pupil or other person
 caused by reasonable and good faith compliance with this section.
-  * NB Effective July 1, 2015
 ```

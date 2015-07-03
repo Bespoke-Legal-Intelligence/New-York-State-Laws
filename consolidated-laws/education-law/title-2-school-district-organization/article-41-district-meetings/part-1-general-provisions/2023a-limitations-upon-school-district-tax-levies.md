@@ -28,7 +28,11 @@ improvement, furnishing and equipping of, or otherwise providing for
 school district capital facilities or school district capital equipment,
 including debt service and lease expenditures, and transportation
 capital debt service, subject to the approval of the qualified voters
-where required by law.
+where required by law.  The commissioner of taxation and finance shall,
+as appropriate, promulgate rules and regulations which may provide for
+adjustment of capital local expenditures to reflect a school district's
+share of additional budgeted capital expenditures made by a board of
+cooperative educational services.
   d. "Capital tax levy" means the tax levy necessary to support capital
 local expenditures, if any.
   e. "Coming school year" means the school year for which tax levy
@@ -91,7 +95,10 @@ changed due to physical or quantity change between the second final
 assessment roll or rolls preceding the final assessment roll or rolls
 upon which taxes are to be levied, and the final assessment roll or
 rolls immediately preceding the final assessment roll or rolls upon
-which taxes are to be levied.
+which taxes are to be levied. The commissioner of taxation and finance
+shall, as appropriate, promulgate rules and regulations regarding the
+calculation of the quantity change factor which may adjust the
+calculation based on the development on tax exempt land.
   c. After determining the quantity change factor for a school district,
 the commissioner of taxation and finance shall proceed as follows:
   (i) If the quantity change factor is negative, the commissioner of
@@ -184,5 +191,5 @@ the same date, would require an expenditure of money that would require
 a tax levy and would result in the tax levy limit being exceeded for the
 corresponding school year then such proposition shall be approved if
 sixty percent of the votes cast thereon are in the affirmative.
-  * NB Repealed June 16, 2016
+  * NB Repealed June 16, 2020
 ```

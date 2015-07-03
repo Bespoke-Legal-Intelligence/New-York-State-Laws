@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 210-b. Graduate-level teacher and educational leadership program
+  § 210-b. Graduate-level teacher and educational leadership program
 deregistration and suspension. 1. The department shall suspend a
 graduate program's authority to admit new students if for three
 consecutive academic years, fewer than fifty percent of its students who
@@ -51,5 +51,4 @@ registration.
   3. The department may also, as prescribed by the commissioner in
 regulations, conduct expedited suspension and registration reviews for
 graduate programs, pursuant to regulations of the commissioner.
-  * NB Effective July 1, 2015
 ```

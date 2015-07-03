@@ -23,13 +23,13 @@ adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is three-quarters percent additional to the three
 percent rate authorized above in this paragraph for such county for the
 period beginning January first, nineteen hundred eighty-six and ending
-November thirtieth, two thousand fifteen, subject to the limitation set
-forth in section twelve hundred sixty-two-e of this article, and also at
-a rate which is one-half percent additional to the three percent rate
-authorized above in this paragraph, and which is also additional to the
-three-quarters percent rate also authorized above in this clause for
+November thirtieth, two thousand seventeen, subject to the limitation
+set forth in section twelve hundred sixty-two-e of this article, and
+also at a rate which is one-half percent additional to the three percent
+rate authorized above in this paragraph, and which is also additional to
+the three-quarters percent rate also authorized above in this clause for
 such county, for the period beginning September first, nineteen hundred
-ninety-one and ending November thirtieth, two thousand fifteen;
+ninety-one and ending November thirtieth, two thousand seventeen;
   (3) the county of Rensselaer is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the

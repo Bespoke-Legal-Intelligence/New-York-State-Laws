@@ -6,5 +6,5 @@
 ```text
   * § 17. Short title. This act shall be known and may be cited as the
 emergency housing rent control law.
-  * NB Effective until June 23, 2015
+  * NB Effective until June 16, 2019
 ```

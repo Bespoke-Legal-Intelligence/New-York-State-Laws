@@ -101,4 +101,17 @@ in connection with a business carried on within the county, except when
 owned and used in connection with the operation of a farm by the owner
 or tenant thereof, at a rate per annum for each such vehicle of not in
 excess of thirty dollars.
+  (g) The county of Suffolk, in imposing taxes of the type authorized
+under subdivision (e) of section twelve hundred one of this subpart, may
+impose taxes on the use of passenger motor vehicles of a type commonly
+used for non-commercial purposes owned by residents of the county at a
+rate per annum for each such vehicle of not in excess of fifteen dollars
+if such vehicle weighs thirty-five hundred pounds or less and not in
+excess of thirty dollars per annum if such vehicle weighs more than
+thirty-five hundred pounds; and taxes on the use of trucks, buses and
+other such commercial motor vehicles used principally in connection with
+a business carried on within the county, except when owned and used in
+connection with the operation of a farm by the owner or tenant thereof,
+at a rate per annum for each such vehicle of not in excess of thirty
+dollars.
 ```

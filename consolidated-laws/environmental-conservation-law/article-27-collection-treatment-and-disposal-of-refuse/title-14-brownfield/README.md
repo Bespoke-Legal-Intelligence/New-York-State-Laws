@@ -17,7 +17,7 @@
 - [§ 27-1419 Certification of completion](27-1419-certification-of-completion.md)
 - [§ 27-1420 Brownfield cleanup program report](27-1420-brownfield-cleanup-program-report.md)
 - [§ 27-1421 Liability limitation](27-1421-liability-limitation.md)
-- [§ 27-1423 Payment of state costs](27-1423-payment-of-state-costs.md)
+- [§ 27-1423 Payment of state costs](27-1423-payment-of-state-costs.md) *(repealed)*
 - [§ 27-1425 Change of use](27-1425-change-of-use.md)
 - [§ 27-1429 Permit waivers](27-1429-permit-waivers.md)
 - [§ 27-1431 Access to sites](27-1431-access-to-sites.md)
@@ -43,14 +43,12 @@ Section 27-1401. Short title.
         27-1419. Certification of completion.
         27-1420. Brownfield cleanup program report.
         27-1421. Liability limitation.
-        27-1423. Payment of state costs.
         27-1425. Change of use.
         27-1427. Reserved.
         27-1429. Permit waivers.
         27-1431. Access to sites.
         27-1433. Waiver of interest or penalties or other charges on
                    brownfield properties.
-        27-1435. New York brownfields advisory board.
         27-1437. BCP-EZ program.
 ```
 

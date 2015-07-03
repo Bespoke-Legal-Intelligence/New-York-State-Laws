@@ -8,7 +8,7 @@
 - [§ 280 Legislative findings](280-legislative-findings.md)
 - [§ 281 Definition of "interim multiple dwelling"](281-definition-of-interim-multiple-dwelling.md)
 - [§ 282 Establishment of special loft unit](282-establishment-of-special-loft-unit.md)
-- [§ 282-A Limitation on applications for coverage of interim multiple dwellings and residential units](282a-limitation-on-applications-for-coverage-of-interim-multiple-dwellings.md)
+- [§ 282-A Applications for coverage of interim multiple dwellings and residential units](282a-applications-for-coverage-of-interim-multiple-dwellings-and-residential.md)
 - [§ 283 Occupancy permitted](283-occupancy-permitted.md)
 - [§ 284 Owner obligations](284-owner-obligations.md)
 - [§ 285 Owner protection](285-owner-protection.md)
@@ -24,8 +24,8 @@
 Section 280.   Legislative findings.
         281.   Definition of "interim multiple dwelling".
         282.   Establishment of special loft unit.
-        282-a. Limitation on applications for coverage of interim
-                 multiple dwellings and residential units.
+        282-a. Applications for coverage of interim multiple dwellings
+                 and residential units.
         283.   Occupancy permitted.
         284.   Owner obligations.
         285.   Owner protection.

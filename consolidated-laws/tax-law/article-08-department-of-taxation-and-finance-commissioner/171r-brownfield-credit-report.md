@@ -50,13 +50,9 @@ information.
 the commissioner of environmental conservation with regard to such
 credits, and any other statistical information that such commissioner
 deems to be useful in analyzing the effects of the program.
-  * (e) The commissioner, in consultation with the commissioner of
+  (e) The commissioner, in consultation with the commissioner of
 environmental conservation, shall publish by January thirty-first, two
 thousand sixteen a supplemental brownfield credit report containing the
 information required by this section about the credits claimed for the
 years two thousand five, two thousand six, and two thousand seven.
-  * NB Effective July 1, 2015 or on the date of publication in the state
-register of proposed regulations defining "underutilized" as provided in
-subdivision 30 of section 27-1405 of the environmental conservation law,
-whichever shall be later
 ```

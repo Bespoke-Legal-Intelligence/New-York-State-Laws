@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 14 — Brownfield Cleanup Program](README.md)
 
 ```text
-* § 27-1437. BCP-EZ program.
+§ 27-1437. BCP-EZ program.
   1. The department may promulgate regulations to implement a program
 providing for the expedited investigation and/or remediation of
 contamination at brownfield sites (BCP-EZ program), provided that:
@@ -41,8 +41,4 @@ certificate of completion in accordance with section 27-1419 of this
 title; provided, however, that such certificate of completion shall not
 entitle the holder to any tax credits provided by section twenty-one of
 the tax law.
-  * NB Effective July 1, 2015 or on the date of publication in the state
-register of proposed regulations defining "underutilized" as provided in
-subdivision 30 of section 27-1405 of the environmental conservation law,
-whichever shall be later
 ```

@@ -217,29 +217,7 @@ not include agencies that are certification agencies pursuant to federal
 law or regulation.
   5. "Mandated reporter" shall mean a custodian or a human services
 professional, but shall not include a service recipient.
-  * 5-a. "Human services professional" shall mean any: physician;
-registered physician assistant; surgeon; medical examiner; coroner;
-dentist; dental hygienist; osteopath; optometrist; chiropractor;
-podiatrist; resident; intern; psychologist; registered nurse; licensed
-practical nurse; nurse practitioner; social worker; emergency medical
-technician; licensed creative arts therapist; licensed marriage and
-family therapist; licensed mental health counselor; licensed
-psychoanalyst; licensed behavior analyst; certified behavior analyst
-assistant; licensed speech/language pathologist or audiologist; licensed
-physical therapist; licensed occupational therapist; hospital personnel
-engaged in the admission, examination, care or treatment of persons;
-Christian Science practitioner; school official, which includes but is
-not limited to school teacher, school guidance counselor, school
-psychologist, school social worker, school nurse, school administrator
-or other school personnel required to hold a teaching or administrative
-license or certificate; social services worker; any other child care or
-foster care worker; mental health professional; person credentialed by
-the office of alcoholism and substance abuse services; peace officer;
-police officer; district attorney or assistant district attorney;
-investigator employed in the office of a district attorney; or other law
-enforcement official.
-  * NB Effective until July 1, 2015
-  * 5-a. "Human services professional" shall mean any: physician;
+  5-a. "Human services professional" shall mean any: physician;
 registered physician assistant; surgeon; medical examiner; coroner;
 dentist; dental hygienist; osteopath; optometrist; chiropractor;
 podiatrist; resident; intern; psychologist; registered nurse; licensed
@@ -261,7 +239,6 @@ worker; mental health professional; person credentialed by the office of
 alcoholism and substance abuse services; peace officer; police officer;
 district attorney or assistant district attorney; investigator employed
 in the office of a district attorney; or other law enforcement official.
-  * NB Effective July 1, 2015
   6. "Physical injury" and "impairment of physical condition" shall mean
 any confirmed harm, hurt or damage resulting in a significant worsening
 or diminution of an individual's physical condition.

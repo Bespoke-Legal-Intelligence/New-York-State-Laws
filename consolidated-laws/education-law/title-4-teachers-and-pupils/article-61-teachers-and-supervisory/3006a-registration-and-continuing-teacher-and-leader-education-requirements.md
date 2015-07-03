@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
 
 ```text
-  * § 3006-a. Registration and continuing teacher and leader education
+  § 3006-a. Registration and continuing teacher and leader education
 requirements for holders of professional certificates in the classroom
 teaching service, holders of level III teaching assistant certificates,
 holders of professional certificates in the educational leadership
@@ -89,5 +89,4 @@ department, of required continuing teacher and leader education and who
 practices without such registration, shall be subject to moral character
 review under subdivision seven of section three hundred five of this
 chapter.
-  * NB Effective July 1, 2015
 ```

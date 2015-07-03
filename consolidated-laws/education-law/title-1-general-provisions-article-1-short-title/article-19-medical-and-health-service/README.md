@@ -25,7 +25,7 @@
 - [§ 913 Medical examinations of teachers and other employees](913-medical-examinations-of-teachers-and-other-employees.md)
 - [§ 914 Immunization of children](914-immunization-of-children.md)
 - [§ 915 Prohibiting the sale of certain sweetened foods](915-prohibiting-the-sale-of-certain-sweetened-foods.md)
-- [§ 916 Pupils afflicted with asthma](916-pupils-afflicted-with-asthma.md)
+- [§ 916 Pupils with asthma or another respiratory disease requiring rescue inhaler treatment](916-pupils-with-asthma-or-another-respiratory-disease.md)
 - [§ 916-A Pupils with allergies](916a-pupils-with-allergies.md)
 - [§ 916-B Pupils with diabetes](916b-pupils-with-diabetes.md)
 - [§ 917 On-site cardiac automated external defibrillator](917-on-site-cardiac-automated-external-defibrillator.md)

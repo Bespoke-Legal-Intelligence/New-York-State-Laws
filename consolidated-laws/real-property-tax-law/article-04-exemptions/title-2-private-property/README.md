@@ -101,6 +101,7 @@
 - [§ 467-F Protective and safety devices tax abatement](467f-protective-and-safety-devices-tax-abatement.md)
 - [§ 467-G Rebate for owners of certain real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of Octob...](467g-rebate-for-owners-of-certain-real-property-seriously-damaged-by-the-severe-storm.md)
 - [§ 467-H Partial abatement for certain rebuilt real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth...](467h-partial-abatement-for-certain-rebuilt-real-property-seriously-damaged.md)
+- [§ 467-I Real property tax abatement](467i-real-property-tax-abatement.md)
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
@@ -333,6 +334,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    on the twenty-ninth and thirtieth of October, two
                    thousand twelve in a city having a population of one
                    million or more.
+        467-i.   Real property tax abatement.
         468.     Fire patrol and salvage corps.
         469.     Assessment exemption for living quarters for parent or
                    grandparent.

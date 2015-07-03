@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 916-b. Pupils with diabetes. 1. The board of education or trustees
+  § 916-b. Pupils with diabetes. 1. The board of education or trustees
 of each school district and board of cooperative educational services
 shall allow pupils who have been diagnosed with diabetes to carry
 glucagon and carry and use insulin through appropriate medication
@@ -65,5 +65,4 @@ unreasonably interfere with a pupil's ability to treat hypoglycemia.
 their agents or employees shall incur no legal or financial liability as
 a result of any harm or injury sustained by a pupil or other person
 caused by reasonable and good faith compliance with this section.
-  * NB Effective July 1, 2015
 ```

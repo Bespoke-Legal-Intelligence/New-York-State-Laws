@@ -1624,7 +1624,7 @@ taxpayers in each county; and of those, the number of credits and the
 average amount of such credits allowed to qualified taxpayers whose
 household gross income falls within each of the household gross income
 ranges set forth in paragraph three of this subsection.
-  * NB Repealed January 1, 2016
+  * NB Repealed January 1, 2020
   * (e-1) Volunteer firefighters' and ambulance workers' credit. (1) For
 taxable years beginning on and after January first, two thousand seven,
 a resident taxpayer who serves as an active volunteer firefighter as
@@ -1654,7 +1654,7 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
-  * NB Effective January 1, 2016
+  * NB Effective January 1, 2020
   * (e-2) Volunteer firefighters' and ambulance workers' credit. (1) For
 taxable years beginning on and after January first, two thousand seven,
 a resident taxpayer who serves as an active volunteer firefighter as
@@ -1684,7 +1684,7 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
-  * NB Effective until January 1, 2016
+  * NB Effective until January 1, 2020
   (f) Credit for the special additional mortgage recording tax.  (1) For
 taxable years beginning before nineteen hundred eighty-eight, a taxpayer
 shall be allowed a credit, to be credited against the tax imposed by
@@ -3257,6 +3257,138 @@ income or farm indebtedness principal payments of the corporation, for
 any taxable year of the corporation for which the election under this
 paragraph is in effect, which is the basis for denial in whole or in
 part of the credit claimed by such shareholders.
+  (n-1) Property tax relief credit. (1) An individual taxpayer who meets
+the eligibility standards in paragraph two of this subsection shall be
+allowed a credit against the taxes imposed by this article in the amount
+specified in paragraph three of this subsection for tax years two
+thousand sixteen, two thousand seventeen, two thousand eighteen, and two
+thousand nineteen.
+  (2) (a) To be eligible for the credit, the taxpayer (or taxpayers
+filing joint returns) on the personal income tax return filed for the
+taxable year two years prior, must have (i) been a resident, (ii) owned
+and primarily resided in real property receiving the STAR exemption
+authorized by section four hundred twenty-five of the real property tax
+law, and (iii) had qualified gross income no greater than two hundred
+seventy-five thousand dollars. Provided, however, that no credit shall
+be allowed if any of the following apply:
+  (i) Such property is located in an independent school district that is
+subject to the provisions of section two thousand twenty-three-a of the
+education law and that has adopted a budget in excess of the tax levy
+limit prescribed by that section. To render its taxpayers eligible for
+the credit authorized by this subsection, the school district must
+certify its compliance with such tax levy limit in the manner prescribed
+by subdivision two of section two thousand twenty-three-b of the
+education law.
+  (ii) Such property is located in a city with a dependent school
+district that is subject to the provisions of section three-c of the
+general municipal law and that has adopted a budget in excess of the tax
+levy limit prescribed by that section. To render its taxpayers eligible
+for the credit authorized by this subsection, the city must certify its
+compliance with such tax levy limit in the manner prescribed by
+subdivision two of section three-d of the general municipal law.
+  (iii) Such property is located in the city of New York.
+  (3) Amount of credit. (a) For the two thousand sixteen taxable year
+(i) for a taxpayer residing in real property located within the
+metropolitan commuter transportation district (MCTD) and outside the
+city of New York, the amount of the credit shall be $130; (ii) for a
+taxpayer residing in real property located outside the MCTD, the amount
+of the credit shall be $185.
+  (b) For the two thousand seventeen, two thousand eighteen and two
+thousand nineteen taxable years (i) For a taxpayer who owned and
+primarily resided in real property receiving the basic STAR exemption,
+the amount of the credit shall equal the STAR tax savings associated
+with such basic STAR exemption, multiplied by the following percentage:
+  (A) for the two thousand seventeen taxable year:
+Qualified Gross Income                  Percentage
+Not over $75,000                        28%
+Over $75,000 but not over $150,000      20.5%
+Over $150,000 but not over $200,000     13%
+Over $200,000 but not over $275,000     5.5%
+Over $275,000                           No credit
+  (B) for the two thousand eighteen taxable year:
+Qualified Gross Income                  Percentage
+Not over $75,000                        60%
+Over $75,000 but not over $150,000      42.5%
+Over $150,000 but not over $200,000     25%
+Over $200,000 but not over $275,000     7.5%
+Over $275,000                           No credit
+  (C) for the two thousand nineteen taxable year:
+Qualified Gross Income                  Percentage
+Not over $75,000                        85%
+Over $75,000 but not over $150,000      60%
+Over $150,000 but not over $200,000     35%
+Over $200,000 but not over $275,000     10%
+Over $275,000                           No credit
+  (c) For a taxpayer who owned and primarily resided in real property
+receiving the enhanced STAR exemption, the amount of the credit shall
+equal the STAR tax savings associated with such enhanced STAR exemption,
+multiplied by the following percentage:
+Taxable Year                            Percentage
+two thousand seventeen                  12%
+two thousand eighteen                   26%
+two thousand nineteen                   34%
+  (d) In no case may the amount of the credit allowed under this
+subsection exceed the school district taxes due with respect to the
+residence for that school year.
+  (4) For purposes of this subsection:
+  (a) "Qualified gross income" means the adjusted gross income of the
+qualified taxpayer for the taxable year as reported for federal income
+tax purposes, or which would be reported as adjusted gross income if a
+federal income tax return were required to be filed. In computing
+qualified gross income, the net amount of loss reported on Federal
+Schedule C, D, E, or F shall not exceed three thousand dollars per
+schedule. In addition, the net amount of any other separate category of
+loss shall not exceed three thousand dollars. The aggregate amount of
+all losses included in computing qualified gross income shall not exceed
+fifteen thousand dollars.
+  (b) "STAR tax savings" means the tax savings attributable to the basic
+or enhanced STAR exemption, whichever is applicable, within a portion of
+a school district, as determined by the commissioner pursuant to
+subdivision two of section thirteen hundred six-a of the real property
+tax law.
+  (c) "Metropolitan commuter transportation district" or "MCTD" means
+the metropolitan commuter transportation district as defined in section
+twelve hundred sixty-two of the public authorities law.
+  (5) If the amount of the credit allowed under this subsection shall
+exceed the taxpayer's tax for the taxable year, the excess shall be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon. For
+each year this credit is allowed, on or before October fifteenth of such
+year, or as soon thereafter as is practicable, the commissioner shall
+determine the taxpayer's eligibility for this credit utilizing the
+information available to the commissioner on the taxpayer's personal
+income tax return filed for the taxable year two years prior to the
+taxable year in which the credit is allowed. For those taxpayers whom
+the commissioner has determined eligible for this credit, the
+commissioner shall advance a payment in the amount specified in
+paragraph three of this subsection, which payment shall be issued, to
+the greatest extent practicable, by October thirty-first of each year
+the credit is allowed. A taxpayer who has failed to receive an advance
+payment that he or she believes was due to him or her, or who has
+received an advance payment that he or she believes is less than the
+amount that was due to him or her, may request payment of the claimed
+deficiency in a manner prescribed by the commissioner.
+  (6) A taxpayer shall not be eligible for the credit allowed under this
+subsection if the school district taxes levied upon the residence during
+the taxable year remain unpaid sixty days after the last date on which
+they could have been paid without interest, or in the case of a school
+district where such taxes are payable in installments, if such taxes
+remain unpaid sixty days after the last date on which the final
+installment could have been paid without interest. If the taxes remain
+unpaid on such sixtieth day, the amount of credit claimed by the
+taxpayer under this subsection or the amount of advance payment of
+credit received by the taxpayer pursuant to paragraph five of this
+subsection shall be added back as tax on the income tax return for the
+taxable year in which such sixtieth day occurs.
+  (7) Only one credit per residence shall be allowed per taxable year
+under this subsection. When two or more members of a residence are able
+to meet the qualifications for a qualified taxpayer, the credit shall be
+equally divided between or among such individuals. In the case of
+spouses who file a joint federal return but who are required to
+determine their New York taxes separately, the credit allowed pursuant
+to this subsection may be applied against the tax of either or divided
+between them as they may elect.
   (o) Credit for employment of persons with disabilities. (1) Allowance
 of credit. A taxpayer shall be allowed a credit, to be computed as
 hereinafter provided, against the tax imposed by this article, for

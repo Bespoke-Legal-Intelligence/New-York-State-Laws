@@ -8,7 +8,7 @@
 | Senate code | GCT |
 | Type | Consolidated law, chapter 21 |
 | Sections | 205 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 3 Jul 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General City |
 
@@ -30,6 +30,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (37 lines)](chapter-text.md)
+
+## Recent changes
+
+- [3 Jul 2015](../../changes/2015/2015-07-03.md): 6 amended
 
 ## Contents
 

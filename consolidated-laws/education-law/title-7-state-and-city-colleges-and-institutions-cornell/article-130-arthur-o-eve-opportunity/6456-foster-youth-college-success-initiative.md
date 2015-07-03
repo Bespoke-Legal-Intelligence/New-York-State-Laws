@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 130 — Arthur O Eve Opportunity For Higher Education](README.md)
 
 ```text
-  * § 6456. Foster youth college success initiative. 1. Subject to an
+  § 6456. Foster youth college success initiative. 1. Subject to an
 appropriation, the commissioner shall allocate the funds available for
 the foster youth college success initiative for the purpose of providing
 support services to assist youth in foster care to apply for, enroll in,
@@ -57,5 +57,4 @@ support the regular academic programs of any institution participating
 in this program, nor shall funds be provided for programs which are
 incompatible with the regents plan for the expansion and development of
 higher education in this state.
-  * NB Effective July 1, 2015
 ```

@@ -1,31 +1,10 @@
-﻿<!-- nyslaw {"citation": "Education Law § 916", "kind": "section", "law_id": "EDN", "location_id": "916", "path": "TITLE 1 › ARTICLE 19 › SECTION 916", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/916.md", "title": "Pupils afflicted with asthma"} -->
-# Education Law § 916 — Pupils afflicted with asthma
+﻿<!-- nyslaw {"citation": "Education Law § 916", "kind": "section", "law_id": "EDN", "location_id": "916", "path": "TITLE 1 › ARTICLE 19 › SECTION 916", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/916.md", "title": "Pupils with asthma or another respiratory disease requiring rescue inhaler treatment"} -->
+# Education Law § 916 — Pupils with asthma or another respiratory disease requiring rescue inhaler treatment
 
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 916. Pupils afflicted with asthma. The board of education or
-trustees of each school district and board of cooperative educational
-services shall allow pupils who have been diagnosed by a physician or
-other duly authorized health care provider with a severe asthmatic
-condition to carry and use a prescribed inhaler during the school day,
-with the written permission of a physician or other duly authorized
-health care provider, and parental consent, based on such physician's or
-provider's determination that such pupil is subject to sudden asthmatic
-attacks severe enough to debilitate such pupil. A record of such
-permission shall be maintained in the school office. In addition, upon
-the written request of a parent or person in parental relation, the
-board of education or trustees of a school district and board of
-cooperative educational services shall allow such pupils to maintain an
-extra such inhaler in the care and custody of a registered professional
-nurse employed by such district or board of cooperative educational
-services.  Nothing in this section shall require a school district or
-board of cooperative educational services to retain a school nurse
-solely for the purpose of taking custody of a spare inhaler, or require
-that a school nurse be available at all times in a school building for
-such purpose.
-  * NB Effective until July 1, 2015
-  * § 916. Pupils with asthma or another respiratory disease requiring
+  § 916. Pupils with asthma or another respiratory disease requiring
 rescue inhaler treatment. 1. The board of education or trustees of each
 school district and board of cooperative educational services shall
 allow pupils who have been diagnosed by a physician or other duly
@@ -73,5 +52,4 @@ authorized health care provider.
 their agents or employees shall incur no legal or financial liability as
 a result of any harm or injury sustained by a pupil or other person
 caused by reasonable and good faith compliance with this section.
-  * NB Effective July 1, 2015
 ```

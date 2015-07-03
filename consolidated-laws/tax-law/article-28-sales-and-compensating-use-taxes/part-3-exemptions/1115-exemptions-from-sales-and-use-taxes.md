@@ -1193,10 +1193,10 @@ with a landlord for a term of ten years or more commencing on or after
 September first, two thousand five, but not later than, in the case of a
 space lease with respect to leased premises located in eligible areas as
 defined in clause (i) of subparagraph (D) of this paragraph, September
-first, two thousand fifteen and, in the case of a space lease with
+first, two thousand seventeen and, in the case of a space lease with
 respect to leased premises located in eligible areas as defined in
 clause (ii) of subparagraph (D) of this paragraph not later than
-September first, two thousand seventeen, of premises for use as
+September first, two thousand nineteen, of premises for use as
 commercial office space in buildings located or to be located in the
 eligible areas. A person who currently occupies premises for use as
 commercial office space under an existing lease in a building in the
@@ -1204,21 +1204,22 @@ eligible areas shall not be eligible for exemption under this
 subdivision unless such existing lease, in the case of a space lease
 with respect to leased premises located in eligible areas as defined in
 clause (i) of subparagraph (D) of this paragraph expires according to
-its terms before September first, two thousand fifteen or such existing
-lease, in the case of a space lease with respect to leased premises
-located in eligible areas as defined in clause (ii) of subparagraph (D)
-of this paragraph and such person enters into a space lease, for a term
-of ten years or more commencing on or after September first, two
-thousand five, of premises for use as commercial office space in a
-building located or to be located in the eligible areas, provided that
-such space lease with respect to leased premises located in eligible
-areas as defined in clause (i) of subparagraph (D) of this paragraph
-commences no later than September first, two thousand fifteen, and
-provided that such space lease with respect to leased premises located
-in eligible areas as defined in clause (ii) of subparagraph (D) of this
+its terms before September first, two thousand seventeen or such
+existing lease, in the case of a space lease with respect to leased
+premises located in eligible areas as defined in clause (ii) of
+subparagraph (D) of this paragraph and such person enters into a space
+lease, for a term of ten years or more commencing on or after September
+first, two thousand five, of premises for use as commercial office space
+in a building located or to be located in the eligible areas, provided
+that such space lease with respect to leased premises located in
+eligible areas as defined in clause (i) of subparagraph (D) of this
 paragraph commences no later than September first, two thousand
-seventeen and provided, further, that such space lease shall expire no
-earlier than ten years after the expiration of the original lease.
+seventeen, and provided that such space lease with respect to leased
+premises located in eligible areas as defined in clause (ii) of
+subparagraph (D) of this paragraph commences no later than September
+first, two thousand nineteen and provided, further, that such space
+lease shall expire no earlier than ten years after the expiration of the
+original lease.
   (B) "Leased premises" means the premises within a building to be used
 as commercial office space under a lease described in subparagraph (A)
 of this paragraph, excluding any common areas and any other area outside
@@ -1243,7 +1244,7 @@ and Murray street. In addition, "eligible area" shall include the
 seventy-two of the public authorities law, including the world financial
 center. Any tax lot that is partly located inside the eligible area
 shall be deemed to be entirely located inside such area, and
-  ** NB Repealed December 1, 2016
+  ** NB Repealed December 1, 2018
   (ii) the World Trade Center site, the World financial center and the
 Battery Park city area as defined as follows:
   (a) "World Trade Center site" means the area of the former complex of
@@ -1266,7 +1267,7 @@ hundred eight of this article or pursuant to the authority of article
 twenty-nine of this chapter other than taxes imposed by a city of a
 million or more pursuant to the authority of subdivision (a) of section
 twelve hundred ten of such article twenty-nine.
-  * NB Repealed December 1, 2018
+  * NB Repealed December 1, 2020
   * NB There are 2 sb (ee)'s
   (ff) Receipts from retail sales of tangible personal property by any
 gift shop located in a veteran's home described in title thirty-eight of
