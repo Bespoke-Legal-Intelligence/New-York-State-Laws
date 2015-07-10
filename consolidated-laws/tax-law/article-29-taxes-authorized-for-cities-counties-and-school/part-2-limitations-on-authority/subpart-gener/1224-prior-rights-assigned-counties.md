@@ -61,7 +61,19 @@ equipment and/or electricity to the extent of one half of the maximum
 rates authorized under subdivision (a) of section twelve hundred ten of
 this article.
   * NB Effective December 1, 2015
-  (d) The city of Yonkers shall have the sole right to impose the
+  * (d) The city of Yonkers shall have the sole right to impose the
+additional one percent and one-half of one percent rate of tax which
+such city is authorized to impose pursuant to the authority of section
+twelve hundred ten, such additional rates of tax shall be in addition to
+any other tax which such city may impose or may be imposing pursuant to
+this article or any other law and such additional rates of tax shall not
+be subject to pre-emption. The maximum three percent rate referred to in
+this section shall be calculated without reference to the additional one
+percent and one-half of one percent rate of tax which the city of
+Yonkers is authorized and empowered to adopt pursuant to section twelve
+hundred ten of this article.
+  * NB Effective until November 30, 2017
+  * (d) The city of Yonkers shall have the sole right to impose the
 additional one percent rate of tax which such city is authorized to
 impose pursuant to the authority of section twelve hundred ten, such
 additional rate of tax shall be in addition to any other tax which such
@@ -71,6 +83,7 @@ The maximum three percent rate referred to in this section shall be
 calculated without reference to the additional one percent rate of tax
 which the city of Yonkers is authorized and empowered to adopt pursuant
 to section twelve hundred ten.
+  * NB Effective November 30, 2017
   (e) The county of Erie shall have the sole right to impose the
 additional one percent rate and the additional three-quarters of one
 percent rate of tax which such county is authorized to impose pursuant

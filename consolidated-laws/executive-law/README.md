@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 856 (10 repealed) |
-| Last changed | 3 Jul 2015 |
+| Sections | 847 |
+| Last changed | 10 Jul 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 added, 10 removed
 - [3 Jul 2015](../../changes/2015/2015-07-03.md): 1 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 19 amended
 - [17 Apr 2015](../../changes/2015/2015-04-17.md): 13 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 1 amended
 - [9 Jan 2015](../../changes/2015/2015-01-09.md): 1 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 amended
-- [26 Dec 2014](../../changes/2014/2014-12-26.md): 4 amended
 
 ## Contents
 
@@ -51,7 +51,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 2-A — Reprieves, Commutations and Pardons](article-02a-reprieves-commutations-and-pardons/)
 - [Article 2-B — State and Local Natural and Man-made Disaster Preparedness](article-02b-state-and-local-natural-and-man-made-disaster/)
 - [Article 3 — Executive Department](article-03-executive-department/)
-- [Article 3-A — Executive Reorganization Act of 2011](article-03a-executive-reorganization-act-of-2011/) *(repealed)*
 - [Article 4 — Department of Audit and Control](article-04-department-of-audit-and-control/)
 - [Article 4-A — Office of the State Inspector General](article-04a-office-of-the-state-inspector-general/)
 - [Article 5 — Department of Law](article-05-department-of-law/)

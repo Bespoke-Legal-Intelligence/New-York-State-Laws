@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,148 (21 repealed) |
-| Last changed | 3 Jul 2015 |
+| Sections | 1,129 |
+| Last changed | 10 Jul 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [10 Jul 2015](../../changes/2015/2015-07-10.md): 7 amended, 2 added, 21 removed
 - [3 Jul 2015](../../changes/2015/2015-07-03.md): 7 amended, 1 repealed
 - [5 Jun 2015](../../changes/2015/2015-06-05.md): 4 amended
 - [15 May 2015](../../changes/2015/2015-05-15.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Jan 2015](../../changes/2015/2015-01-30.md): 1 amended
 - [23 Jan 2015](../../changes/2015/2015-01-23.md): 2 amended
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 1 amended
-- [9 Jan 2015](../../changes/2015/2015-01-09.md): 64 amended, 20 repealed
 
 ## Contents
 
@@ -90,7 +90,6 @@ Assembly, do enact as follows:
 - [Article 31-E — Tax On Real Estate Transfers In the County of Nassau](article-31e-tax-on-real-estate-transfers-in-the-county/)
 - [Article 31-F — Tax On Real Estate Transfers In the Town of Warwick](article-31f-tax-on-real-estate-transfers-in-the-town/)
 - [Article 31-G — Tax On Real Estate Transfers In the County of Tompkins](article-31g-tax-on-real-estate-transfers-in-the-county/)
-- [Article 32 — Franchise Tax On Banking Corporations](article-32-franchise-tax-on-banking-corporations/) *(repealed)*
 - [Article 33 — Franchise Taxes On Insurance Corporations](article-33-franchise-taxes-on-insurance-corporations/)
 - [Article 33-A — Tax On Independently Procured Insurance](article-33a-tax-on-independently-procured-insurance/)
 - [Article 33-B — Tax On Real Estate Transfers In Towns](article-33b-tax-on-real-estate-transfers-in-towns/)

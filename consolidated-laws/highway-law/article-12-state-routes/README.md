@@ -98,6 +98,7 @@
 - [§ 343-AA\*3 Portion of the state highway system to be designated as the "New York City Police Department Detective Peter Figoski Memorial Bridge"](343aa-3-portion-of-the-state-highway-system-to-be-designated-as-the-new-york-city-police.md)
 - [§ 343-AA\*4 Portion of state highway system to be designated as the "Assemblyman James D](343aa-4-portion-of-state-highway-system-to-be-designated-as-the-assemblyman-james-d.md)
 - [§ 343-AA\*5 Portion of the state highway system to be designated as the "Genesee and Orleans Veterans' Memorial Highway"](343aa-5-portion-of-the-state-highway-system-to-be-designated-as-the-genesee-and-orleans.md)
+- [§ 343-AAA Portion of the state highway system to be designated as the "Lieutenant Colonel Todd J](343aaa-portion-of-the-state-highway-system-to-be-designated-as-the-lieutenant-colonel.md)
 - [§ 343-B Portion of the state highway system to be designated as "The 94th Infantry Division Memorial Highway](343b-portion-of-the-state-highway-system-to-be-designated-as-the-94th-infantry.md)
 - [§ 343-BB Portion of the state highway system to be designated as the "Walden Veterans' Memorial Bridge"](343bb-portion-of-the-state-highway-system-to-be-designated-as-the-walden-veterans.md)
 - [§ 343-BBB Portion of the state highway system to be designated as the "86th Blackhawk Infantry Division Memorial Highway"](343bbb-portion-of-the-state-highway-system-to-be-designated-as-the-86th-blackhawk.md)
@@ -237,6 +238,10 @@
 - [§ 344-C\*5 Portion of the state highway system to be designated as the "Youngstown Veterans of Foreign Wars Memorial Highway"](344c-5-portion-of-the-state-highway-system-to-be-designated-as-the-youngstown-veterans.md)
 - [§ 344-C\*6 Portion of the state highway system to be designated as the "Sergeant Shawn Michael Farrell II Memorial Highway"](344c-6-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-shawn.md)
 - [§ 344-C\*7 Portion of the state highway system to be designated as the "Detective John M](344c-7-portion-of-the-state-highway-system-to-be-designated-as-the-detective-john-m.md)
+- [§ 344-D Portion of the state highway system to be designated as the "Specialist David R](344d-portion-of-the-state-highway-system-to-be-designated-as-the-specialist-david-r.md)
+- [§ 344-D\*2 Portion of the state highway system to be designated as the "Captain John J](344d-2-portion-of-the-state-highway-system-to-be-designated-as-the-captain-john-j.md)
+- [§ 344-D\*3 Portion of state highway system to be designated as the "Sergeant Elisha R](344d-3-portion-of-state-highway-system-to-be-designated-as-the-sergeant-elisha-r.md)
+- [§ 344-D\*4 Portion of the state highway system to be designated as the "Marine Captain Eric A](344d-4-portion-of-the-state-highway-system-to-be-designated-as-the-marine-captain-eric.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -443,6 +448,9 @@ Section 340-a.     Designation of state interstate routes.
                      the "Assemblyman James D. Conte Memorial Highway".
         343-aa*5.  Portion of the state highway system to be designated
                      as the "Genesee and Orleans Veterans' Memorial
+                     Highway".
+        343-aaa.   Portion of the state highway system to be designated
+                     as the "Lieutenant Colonel Todd J. Clark Memorial
                      Highway".
         343-b.     Portion of the state highway system to be designated
                      as "The 94th Infantry Division Memorial Highway".
@@ -781,6 +789,17 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-c*7.   Portion of the state highway system to be designated
                      as the "Detective John M. Falcone Memorial
+                     Highway".
+        344-d.     Portion of the state highway system to be designated
+                     as the "Specialist David R. Fahey Jr. Memorial
+                     Bridge".
+        344-d*2.   Portion of the state highway system to be designated
+                     as the "Captain John J. Levulis Memorial Highway".
+        344-d*3.   Portion of state highway system to be designated as
+                     the "Sergeant Elisha R. Parker Veterans Memorial
+                     Highway".
+        344-d*4.   Portion of the state highway system to be designated
+                     as the "Marine Captain Eric A. Jones Memorial
                      Highway".
         345-a.     Abandonment and transfer of state highways.
 ```

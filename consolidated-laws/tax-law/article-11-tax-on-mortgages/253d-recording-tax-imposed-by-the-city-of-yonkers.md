@@ -8,8 +8,8 @@
 Yonkers, acting through its local legislative body, is hereby authorized
 and empowered to adopt and amend local laws imposing in any such city
 during the period beginning September first, nineteen hundred
-ninety-three and ending August thirty-first, two thousand fifteen, a tax
-of fifty cents for each one hundred dollars and each remaining major
+ninety-three and ending August thirty-first, two thousand seventeen, a
+tax of fifty cents for each one hundred dollars and each remaining major
 fraction thereof of principal debt or obligation which is or under any
 contingency may be secured at the date of execution thereof, or at any
 time thereafter, by a mortgage on real property situated within such

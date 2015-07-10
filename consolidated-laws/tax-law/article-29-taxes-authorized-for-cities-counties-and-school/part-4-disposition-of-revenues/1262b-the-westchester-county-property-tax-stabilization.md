@@ -112,5 +112,5 @@ entitled to receive an allocation under subparagraph (C) of paragraph
 two or subparagraph (C) of paragraph three of subdivision (a) of this
 section shall be authorized or entitled to receive any cash allocation
 under section twelve hundred sixty-two of this article.
-  * NB Expires May 31, 2016
+  * NB Expires May 31, 2018
 ```

@@ -7,7 +7,6 @@
 
 - [§ 208 Definitions](208-definitions.md)
 - [§ 209 Imposition of tax; exemptions](209-imposition-of-tax-exemptions.md)
-- [§ 209-A Tax surcharge](209a-tax-surcharge.md) *(repealed)*
 - [§ 209-B Metropolitan transportation business tax surcharge](209b-metropolitan-transportation-business-tax-surcharge.md)
 - [§ 209-C Gift for fish and wildlife management](209c-gift-for-fish-and-wildlife-management.md)
 - [§ 209-D Gift for breast cancer research and education](209d-gift-for-breast-cancer-research-and-education.md)

@@ -17,6 +17,7 @@
 - [Article 129 — State Aid For Certain Independent Institutions of Higher Education](article-129-state-aid-for-certain/)
 - [Article 129-A — Regulation By Colleges of Conduct On Campuses and Other College Property Used For Educational Purposes](article-129a-regulation-by-colleges/)
 - [Article 130 — Arthur O Eve Opportunity For Higher Education](article-130-arthur-o-eve-opportunity/)
+- [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](article-129b-implementation-by-colleges/)
 
 <details>
 <summary>Official heading of Title 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,11 @@ Article 115    Cornell University (§§ 5701-5716).
         129-A  Regulation by colleges of conduct on campuses and other
                  college property used for educational purposes
                  (§§ 6430-6438).
+        129-B  Implementation by colleges and universities of sexual
+                 assault, dating violence, domestic violence and
+                 stalking prevention and response policies and
+                 procedures
+                 (§§ 6439-6449).
         130    Opportunity for higher education (§§ 6451-6456).
 ```
 

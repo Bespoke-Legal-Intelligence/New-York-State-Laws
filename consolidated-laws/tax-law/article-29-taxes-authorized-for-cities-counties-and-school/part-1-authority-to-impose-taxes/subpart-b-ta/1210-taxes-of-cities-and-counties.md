@@ -417,11 +417,20 @@ three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand two, and ending
 November thirtieth, two thousand fifteen;
   * NB There are 3 clause (41)'s
-  (ii) with respect to the following cities (1) the city of Yonkers is
+  (ii) with respect to the following cities * (1) the city of Yonkers is
 hereby further authorized and empowered to adopt and amend local laws,
-ordinances or resolutions imposing such taxes at a rate which is one
-percent additional to the three percent rate authorized above in this
-paragraph for such city;
+ordinances or resolutions imposing such taxes at a rate which is: (a)
+one percent additional to the three percent rate authorized above in
+this paragraph for such city; and (b) one-half of one percent in
+addition to the other rates authorized in this paragraph for such city
+for the period beginning September first, two thousand fifteen and
+ending November thirtieth, two thousand seventeen;
+  * NB Effective until November 30, 2017
+  * (1) the city of Yonkers is hereby further authorized and empowered
+to adopt and amend local laws, ordinances or resolutions imposing such
+taxes at a rate which is one percent additional to the three percent
+rate authorized above in this paragraph for such city;
+  * NB Effective November 30, 2017
   (2) the city of Mount Vernon is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
@@ -457,7 +466,31 @@ taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such city for the period
 beginning September first, two thousand four, and ending November
 thirtieth, two thousand fifteen;
-  (iii) the maximum rate referred to in section twelve hundred
+  * (iii) the maximum rate referred to in section twelve hundred
+twenty-four of this article shall be calculated without reference to the
+following additional rates authorized in subparagraphs (i) and (ii) of
+this paragraph: one and one-half percent for the county of Allegany; one
+percent for the counties of Rensselaer, Erie, Cattaraugus, Wyoming,
+Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin, Hamilton,
+Herkimer, Genesee, Columbia, Schuyler, Chenango, Monroe, Steuben,
+Chemung, Seneca, Livingston, Niagara, Yates, Tioga, Montgomery,
+Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence and Onondaga
+and the cities of Mount Vernon and New Rochelle; three-quarters of one
+percent for the counties of Dutchess, Lewis, Orange, and Jefferson; one
+percent and three-quarters of one percent or one-half of one percent for
+the county of Oneida; three-quarters of one percent and one-half of one
+percent for the county of Nassau; one-half of one percent and
+one-quarter of one percent and one-quarter of one percent for the city
+of White Plains; one-half or one percent for the county of Tompkins;
+three-eighths of one percent and five-eighths of one percent for the
+county of Rockland; one-half of one percent for the counties of Putnam
+and Schenectady; one-eighth of one percent and three-eighths of one
+percent for the county of Ontario; one-half of one percent and one-half
+of one percent for the county of Sullivan; one percent and one-half of
+one percent for the city of Yonkers; and three-quarters of one percent
+or one-half of one percent for the county of Chautauqua;
+  * NB Effective until November 30, 2017
+  * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
 this paragraph: one and one-half percent for the county of Allegany; one
@@ -479,6 +512,7 @@ Putnam and Schenectady; one-eighth of one percent and three-eighths of
 one percent for the county of Ontario; one-half of one percent and
 one-half of one percent for the county of Sullivan; and three-quarters
 of one percent or one-half of one percent for the county of Chautauqua;
+  * NB Effective November 30, 2017
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange
 or the county of Rockland withdraws from the metropolitan commuter

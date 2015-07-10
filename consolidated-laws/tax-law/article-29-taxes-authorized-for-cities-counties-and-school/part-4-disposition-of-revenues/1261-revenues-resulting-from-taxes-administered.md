@@ -57,13 +57,23 @@ comptroller shall on or before the last day of June and December make a
 partial payment consisting of the collections made during and including
 the first twenty-five days of said months to said fiscal officers of the
 foregoing taxing jurisdictions.
-  (2) However, the taxes, penalties and interest from the additional one
-percent rate which the city of Yonkers is authorized to impose pursuant
-to section twelve hundred ten of this article, after the comptroller has
-reserved such refund fund and such cost shall be paid to the special
-sales and compensating use tax fund for the city of Yonkers established
-by section ninety-two-f of the state finance law at the times set forth
-in the preceding sentence.
+  * (2) However, the taxes, penalties and interest from the additional
+one percent rate which the city of Yonkers is authorized to impose
+pursuant to item (a) of clause one of subparagraph (ii) of the opening
+paragraph of section twelve hundred ten of this article, after the
+comptroller has reserved such refund fund and such cost shall be paid to
+the special sales and compensating use tax fund for the city of Yonkers
+established by section ninety-two-f of the state finance law at the
+times set forth in the preceding sentence.
+  * NB Effective until November 30, 2017
+  * (2) However, the taxes, penalties and interest from the additional
+one percent rate which the city of Yonkers is authorized to impose
+pursuant to section twelve hundred ten of this article, after the
+comptroller has reserved such refund fund and such cost shall be paid to
+the special sales and compensating use tax fund for the city of Yonkers
+established by section ninety-two-f of the state finance law at the
+times set forth in the preceding sentence.
+  * NB Effective November 30, 2017
   (3) However, the taxes, penalties and interest which (i) the county of
 Nassau, (ii) the county of Erie, to the extent the county of Erie is
 contractually or statutorily obligated to allocate and apply or pay net

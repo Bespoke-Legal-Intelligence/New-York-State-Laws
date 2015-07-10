@@ -7,8 +7,6 @@
 
 ## Contents
 
-- [§ 180 Organization tax; taxes on changes of capital](180-organization-tax-taxes-on-changes-of-capital.md) *(repealed)*
-- [§ 181 License and maintenance fees on foreign corporations](181-license-and-maintenance-fees-on-foreign-corporations.md) *(repealed)*
 - [§ 182 Additional franchise tax on certain oil companies](182-additional-franchise-tax-on-certain-oil-companies.md)
 - [§ 182-A Franchise tax on certain oil companies](182a-franchise-tax-on-certain-oil-companies.md)
 - [§ 183 Franchise tax on transportation and transmission corporations and associations](183-franchise-tax-on-transportation-and-transmission-corporations-and-associations.md)

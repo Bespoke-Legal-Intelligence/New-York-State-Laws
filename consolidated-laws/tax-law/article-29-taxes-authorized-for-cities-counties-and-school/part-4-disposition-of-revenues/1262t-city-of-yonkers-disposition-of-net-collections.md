@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1262-T", "kind": "section", "law_id": "TAX", "location_id": "1262-T", "path": "ARTICLE 29 › PART 4 › SECTION 1262-T", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1262-T.md", "title": "City of Yonkers - disposition of net collections from the additional one-half of one percent rate of sales and compensating use taxes in ..."} -->
+# Tax Law § 1262-T — City of Yonkers - disposition of net collections from the additional one-half of one percent rate of sales and compensating use taxes in ...
+
+[Tax Law](../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../README.md) › [Part 4 — Disposition of Revenues](README.md)
+
+```text
+  * § 1262-t. City of Yonkers - disposition of net collections from the
+additional one-half of one percent rate of sales and compensating use
+taxes in the city of Yonkers. Notwithstanding any provision of law to
+the contrary, if the city of Yonkers imposes the additional one-half of
+one percent rate of sales and compensating use taxes authorized by item
+(b) of clause one of subparagraph (ii) of the opening paragraph of
+section twelve hundred ten of this article, the city shall use the net
+collections from such additional one-half of one percent rate solely for
+the support of education, unless the city council votes, on an annual
+basis, to use such net collections for a different purpose of the city,
+provided, however, that the requirements of paragraph b of subdivision
+five-b of section two thousand five hundred seventy-six of the education
+law are met.
+  * NB Effective November 30, 2017
+```

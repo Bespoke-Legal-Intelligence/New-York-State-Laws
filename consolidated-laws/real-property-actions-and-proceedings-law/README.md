@@ -8,7 +8,7 @@
 | Senate code | RPA |
 | Type | Consolidated law, chapter 81 |
 | Sections | 320 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 10 Jul 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Actions & Proceedings |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (54 lines)](chapter-text.md)
+
+## Recent changes
+
+- [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 amended
 
 ## Contents
 

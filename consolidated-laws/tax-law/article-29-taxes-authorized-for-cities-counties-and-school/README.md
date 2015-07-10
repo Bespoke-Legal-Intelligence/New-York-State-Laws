@@ -73,6 +73,7 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-u*4.  Hotel and motel taxes in Cattaraugus county.
         1202-v.    Hotel or motel taxes in Lewis county.
         1202-w.    Hotel or motel taxes in Wyoming county.
+        1202-x.    Occupancy tax in the city of Yonkers.
         1202-y.    Hotel or motel taxes in the city of Geneva.
         1202-y*2.  Hotel or motel taxes in Yates county.
         1202-z.    Hotel or motel taxes in Clinton county.
@@ -224,6 +225,10 @@ Section 1260.     Revenues resulting from taxes administered by cities
         1262-s.   Disposition of net collections from the additional
                      one-quarter of one percent rate of sales and
                      compensating use taxes in the county of Herkimer.
+        1262-t.   City of Yonkers - disposition of net collections from
+                     the additional one-half of one percent rate of
+                     sales and compensating use taxes in the city of
+                     Yonkers.
         1263.     Deposit of funds and use of funds not having assigned
                      purposes.
         1264.     References to certain taxes or revenues from certain

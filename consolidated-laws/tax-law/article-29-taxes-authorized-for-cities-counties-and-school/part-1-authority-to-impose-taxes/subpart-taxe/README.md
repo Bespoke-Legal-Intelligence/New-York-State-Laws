@@ -54,6 +54,7 @@
 - [§ 1202-U\*4 Hotel and motel taxes in Cattaraugus county](1202u-4-hotel-and-motel-taxes-in-cattaraugus.md)
 - [§ 1202-V Hotel or motel taxes in Lewis county](1202v-hotel-or-motel-taxes-in-lewis-county.md)
 - [§ 1202-W Hotel or motel taxes in Wyoming county](1202w-hotel-or-motel-taxes-in-wyoming-county.md)
+- [§ 1202-X Occupancy tax in the city of Yonkers](1202x-occupancy-tax-in-the-city-of-yonkers.md)
 - [§ 1202-Y Hotel or motel taxes in the city of Geneva](1202y-hotel-or-motel-taxes-in-the-city.md)
 - [§ 1202-Y\*2 Hotel or motel taxes in Yates county](1202y-2-hotel-or-motel-taxes-in-yates-county.md)
 - [§ 1202-Z Hotel or motel taxes in Clinton county](1202z-hotel-or-motel-taxes-in-clinton-county.md)
