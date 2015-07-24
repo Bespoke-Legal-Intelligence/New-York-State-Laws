@@ -16,10 +16,11 @@
 - [§ 406 License application; procedure; requirements; temporary license](406-license-application-procedure-requirements-temporary-license.md)
 - [§ 407 Examinations](407-examinations.md)
 - [§ 408 Licenses; display; renewal; duplicates](408-licenses-display-renewal-duplicates.md)
+- [§ 408-A Trainee](408a-trainee.md)
 - [§ 409 Fees](409-fees.md)
 - [§ 410 Administration](410-administration.md)
 - [§ 411 Denial of license; complaints; notice of hearing](411-denial-of-license-complaints-notice-of-hearing.md)
-- [§ 412 Civil penalties](412-civil-penalties.md)
+- [§ 412 Penalties](412-penalties.md)
 - [§ 413 Judicial review](413-judicial-review.md)
 - [§ 414 Official acts used as evidence](414-official-acts-used-as-evidence.md)
 - [§ 415 Disposition of moneys](415-disposition-of-moneys.md)
@@ -30,7 +31,7 @@
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE 27
+                               ARTICLE 27
                   LICENSING OF NAIL SPECIALTY, NATURAL
                  HAIR STYLING, ESTHETICS AND COSMETOLOGY
 Section 400.   Definitions.
@@ -41,14 +42,15 @@ Section 400.   Definitions.
         404-a. Monomeric methyl methacrylate.
         404-b. Nail specialty; owner responsibilities.
         405.   Appearance enhancement business license; requirements.
-        406.   License  application;  procedure; requirements; temporary
+        406.   License application; procedure; requirements; temporary
                  license.
         407.   Examinations.
         408.   Licenses; display; renewal; duplicates.
+        408-a. Trainee.
         409.   Fees.
         410.   Administration.
         411.   Denial of license; complaints; notice of hearing.
-        412.   Civil penalties.
+        412.   Penalties.
         413.   Judicial review.
         414.   Official acts used as evidence.
         415.   Disposition of moneys.

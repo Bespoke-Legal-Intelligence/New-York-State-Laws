@@ -48,7 +48,8 @@ Article 115    Cornell University (§§ 5701-5716).
                  stalking prevention and response policies and
                  procedures
                  (§§ 6439-6449).
-        130    Opportunity for higher education (§§ 6451-6456).
+        130    Arthur O. Eve opportunity for higher education (§§
+                 6451-6456).
 ```
 
 </details>
