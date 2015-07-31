@@ -4,8 +4,7 @@
 [Insurance Law](../README.md) › [Article 5 — Certificates of Insurance](README.md)
 
 ```text
-  * § 504. Rules and regulations. The superintendent may adopt rules or
+  § 504. Rules and regulations. The superintendent may adopt rules or
 regulations as the superintendent considers appropriate to carry out the
 provisions of this article.
-  * NB Effective July 28, 2015
 ```

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Election Law § 14-126", "kind": "section", "law_id": "ELN", "location_id": "14-126", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-126", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-126.md", "title": "Violations; penalties"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 14-126", "kind": "section", "law_id": "ELN", "location_id": "14-126", "path": "ARTICLE 14 › SECTION 14-126", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-126.md", "title": "Violations; penalties"} -->
 # Election Law § 14-126 — Violations; penalties
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../README.md) › [Article 14 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-126. Violations; penalties. 1. (a) Any person who fails to file a

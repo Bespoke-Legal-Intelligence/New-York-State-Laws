@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Election Law § 14-116", "kind": "section", "law_id": "ELN", "location_id": "14-116", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-116", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-116.md", "title": "Political contributions by certain organizations"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 14-116", "kind": "section", "law_id": "ELN", "location_id": "14-116", "path": "ARTICLE 14 › SECTION 14-116", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-116.md", "title": "Political contributions by certain organizations"} -->
 # Election Law § 14-116 — Political contributions by certain organizations
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../README.md) › [Article 14 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-116. Political contributions by certain organizations. 1.  No

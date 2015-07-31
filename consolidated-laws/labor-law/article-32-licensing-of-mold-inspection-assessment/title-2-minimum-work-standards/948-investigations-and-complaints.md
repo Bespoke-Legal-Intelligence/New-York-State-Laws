@@ -4,9 +4,8 @@
 [Labor Law](../../README.md) › [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](../README.md) › [Title 2 — Minimum Work Standards For the Conduct of Mold Assessments and Remediation By Licensed Persons](README.md)
 
 ```text
-  * § 948. Investigations and complaints. The commissioner shall have
-the authority to inspect ongoing or completed mold assessment and mold
+  § 948. Investigations and complaints. The commissioner shall have the
+authority to inspect ongoing or completed mold assessment and mold
 remediation projects and to conduct an investigation upon his or her own
 initiation or upon receipt of a complaint by any person or entity.
-  * NB Effective July 28, 2015
 ```

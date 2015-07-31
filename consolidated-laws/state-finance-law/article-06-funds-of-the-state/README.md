@@ -189,7 +189,7 @@
 - [§ 97-NNNN Commercial gaming revenue fund](97nnnn-commercial-gaming-revenue-fund.md)
 - [§ 97-OOOO Basic health program trust fund](97oooo-basic-health-program-trust-fund.md)
 - [§ 97-OOOO\*2 Smart schools bond fund](97oooo-2-smart-schools-bond-fund.md)
-- [§ 97-PPPP Mold assessment and remediation account](97pppp-mold-assessment-and-remediation-account.md)
+- [§ 97-PPPP Mold assessment and remediation account](97pppp-mold-assessment-and-remediation-account.md) *(repealed)*
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
@@ -451,7 +451,6 @@ Section 70.        Classification of funds.
         97-nnnn.   Commercial gaming revenue fund.
         97-oooo.   Basic health program trust fund.
         97-oooo*2. Smart schools bond fund.
-        97-pppp.   Mold assessment and remediation account.
         97-xxxx.   State health innovation plan account.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other

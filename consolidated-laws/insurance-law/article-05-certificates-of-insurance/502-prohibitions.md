@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 5 — Certificates of Insurance](README.md)
 
 ```text
-  * § 502. Prohibitions. In this state:
+  § 502. Prohibitions. In this state:
   (a) With respect to a certificate of insurance evidencing that a
 policy provides personal injury liability insurance or property damage
 liability insurance, as defined in paragraphs thirteen and fourteen of
@@ -38,5 +38,4 @@ coverage provided by the insurance policy to which the certificate of
 insurance makes reference. A certificate of insurance shall further not
 confer to any person any rights beyond those expressly provided by the
 policy of insurance referenced therein.
-  * NB Effective July 28, 2015
 ```

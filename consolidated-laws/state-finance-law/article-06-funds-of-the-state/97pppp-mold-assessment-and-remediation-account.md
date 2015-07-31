@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 97-PPPP", "kind": "section", "law_id": "STF", "location_id": "97-PPPP", "path": "ARTICLE 6 › SECTION 97-PPPP", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-PPPP.md", "title": "Mold assessment and remediation account"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-PPPP", "kind": "section", "law_id": "STF", "location_id": "97-PPPP", "path": "ARTICLE 6 › SECTION 97-PPPP", "repealed": true, "repealed_date": "2015-07-31", "source": "nys-laws:STF/97-PPPP.md", "title": "Mold assessment and remediation account"} -->
 # State Finance Law § 97-PPPP — Mold assessment and remediation account
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (31 Jul 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 97-pppp. Mold assessment and remediation account. 1. There is

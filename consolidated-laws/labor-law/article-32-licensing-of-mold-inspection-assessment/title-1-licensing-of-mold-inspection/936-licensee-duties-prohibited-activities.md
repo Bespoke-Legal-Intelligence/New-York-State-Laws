@@ -4,14 +4,13 @@
 [Labor Law](../../README.md) › [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](../README.md) › [Title 1 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](README.md)
 
 ```text
-  * § 936. Licensee duties; prohibited activities. 1. A mold assessment
+  § 936. Licensee duties; prohibited activities. 1. A mold assessment
 licensee who performs mold assessment services shall provide a written
 report to each person for whom such licensee performs mold assessment
 services for compensation.
   2. No licensee shall perform both mold assessment and mold remediation
 on the same property.
-  3. No person shall own an interest in both the entity which performs
-mold assessment services and the entity which performs mold remediation
+  3. No person shall own an interest in both the licensee who performs
+mold assessment services and the licensee who performs mold remediation
 services on the same property.
-  * NB Effective July 28, 2015
 ```

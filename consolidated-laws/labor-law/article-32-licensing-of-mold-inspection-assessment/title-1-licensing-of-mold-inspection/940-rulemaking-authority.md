@@ -4,8 +4,7 @@
 [Labor Law](../../README.md) › [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](../README.md) › [Title 1 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](README.md)
 
 ```text
-  * § 940. Rulemaking authority. The department shall adopt rules and
+  § 940. Rulemaking authority. The commissioner may adopt rules and
 regulations to oversee the practice of mold assessment, remediation and
 abatement and to ensure the health, safety and welfare of the public.
-  * NB Effective July 28, 2015
 ```

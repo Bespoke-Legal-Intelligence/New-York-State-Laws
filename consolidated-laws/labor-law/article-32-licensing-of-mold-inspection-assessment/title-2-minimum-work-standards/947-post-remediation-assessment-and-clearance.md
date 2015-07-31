@@ -4,10 +4,10 @@
 [Labor Law](../../README.md) › [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](../README.md) › [Title 2 — Minimum Work Standards For the Conduct of Mold Assessments and Remediation By Licensed Persons](README.md)
 
 ```text
-  * § 947. Post-remediation assessment and clearance. 1. For a
-remediated project to achieve clearance, a mold assessment licensee
-shall conduct a post-remediation assessment. The post-remediation
-assessment shall determine whether:
+  § 947. Post-remediation assessment and clearance. 1. For a remediated
+project to achieve clearance, a mold assessment licensee shall conduct a
+post-remediation assessment. The post-remediation assessment shall
+determine whether:
   (a) the work area is free from all visible mold; and
   (b) all work has been completed in compliance with the remediation
 plan and remediation work plan and meets clearance criteria specified in
@@ -28,5 +28,4 @@ to the client and to the remediation licensee and recommend to the
 client that either a new assessment be conducted, that the remediation
 plan as originally developed be completed, or the underlying causes of
 mold be addressed, as appropriate.
-  * NB Effective July 28, 2015
 ```

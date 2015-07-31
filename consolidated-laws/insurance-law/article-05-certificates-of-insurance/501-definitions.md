@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 5 — Certificates of Insurance](README.md)
 
 ```text
-  * § 501. Definitions. For purposes of this article:
+  § 501. Definitions. For purposes of this article:
   (a) "Certificate" or "certificate of insurance" means any document or
 instrument, or addendum thereto no matter how titled or described,
 prepared or issued by an insurer or insurance producer as evidence of
@@ -39,5 +39,4 @@ such terms are defined in section four thousand one hundred one of this
 chapter, but shall not include a kind of insurance specified under
 paragraph three or thirty-one of subsection (a) of section one thousand
 one hundred thirteen of this chapter.
-  * NB Effective July 28, 2015
 ```

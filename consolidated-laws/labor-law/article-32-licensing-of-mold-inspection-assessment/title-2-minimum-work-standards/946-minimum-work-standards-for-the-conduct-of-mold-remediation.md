@@ -4,7 +4,7 @@
 [Labor Law](../../README.md) › [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](../README.md) › [Title 2 — Minimum Work Standards For the Conduct of Mold Assessments and Remediation By Licensed Persons](README.md)
 
 ```text
-  * § 946. Minimum work standards for the conduct of mold remediation by
+  § 946. Minimum work standards for the conduct of mold remediation by
 licensed persons. 1. A mold remediation licensee shall prepare a mold
 remediation work plan that is specific to each project, fulfills all the
 requirements of the mold remediation plan developed by the mold
@@ -39,5 +39,4 @@ by a mold assessment or remediation licensee to use such a product must
 take into account the potential for occupant sensitivities and possible
 adverse reactions to chemicals that have the potential to be off-gassed
 from surfaces coated with the product.
-  * NB Effective July 28, 2015
 ```

@@ -14,13 +14,12 @@
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * ARTICLE 5
+                                ARTICLE 5
                         CERTIFICATES OF INSURANCE
 Section 501. Definitions.
         502. Prohibitions.
         503. Enforcement.
         504. Rules and regulations.
-  * NB Effective July 28, 2015
 ```
 
 </details>

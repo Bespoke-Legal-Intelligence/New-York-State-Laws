@@ -14,15 +14,15 @@
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-MINIMUM WORK STANDARDS FOR THE CONDUCT OF MOLD ASSESSMENTS AND
-REMEDIATION BY LICENSED PERSONS
-  945.    Minimum work standards for the conduct of mold assessments by
-licensed persons.
-  946.    Minimum work standards for the conduct of mold remediation by
-licensed persons.
-  947.    Post-remediation assessment and clearance.
-  948.    Investigations and complaints.
-  * NB Effective July 28, 2015
+                                 TITLE 2
+                MINIMUM WORK STANDARDS FOR THE CONDUCT OF
+          MOLD ASSESSMENTS AND REMEDIATION BY LICENSED PERSONS
+Section 945. Minimum work standards for the conduct of mold assessments
+               by licensed persons.
+        946. Minimum work standards for the conduct of mold remediation
+               by licensed persons.
+        947. Post-remediation assessment and clearance.
+        948. Investigations and complaints.
 ```
 
 </details>

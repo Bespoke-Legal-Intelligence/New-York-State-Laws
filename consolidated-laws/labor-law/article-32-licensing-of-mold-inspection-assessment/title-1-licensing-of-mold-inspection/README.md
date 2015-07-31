@@ -21,7 +21,7 @@
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * TITLE 1
+                                 TITLE 1
         LICENSING OF MOLD INSPECTION, ASSESSMENT AND REMEDIATION
                  SPECIALISTS AND MINIMUM WORK STANDARDS
 Section 930. Definitions.
@@ -35,7 +35,6 @@ Section 930. Definitions.
         938. Denial of license; complaints; notice of hearing.
         939. Judicial review.
         940. Rulemaking authority.
-  * NB Effective July 28, 2015
 ```
 
 </details>

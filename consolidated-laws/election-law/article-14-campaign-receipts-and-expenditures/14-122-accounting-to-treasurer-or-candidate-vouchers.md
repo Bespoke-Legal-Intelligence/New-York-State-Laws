@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Election Law § 14-122", "kind": "section", "law_id": "ELN", "location_id": "14-122", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-122", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-122.md", "title": "Accounting to treasurer or candidate; vouchers"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 14-122", "kind": "section", "law_id": "ELN", "location_id": "14-122", "path": "ARTICLE 14 › SECTION 14-122", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-122.md", "title": "Accounting to treasurer or candidate; vouchers"} -->
 # Election Law § 14-122 — Accounting to treasurer or candidate; vouchers
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../README.md) › [Article 14 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-122. Accounting to treasurer or candidate; vouchers. 1.  Whoever,

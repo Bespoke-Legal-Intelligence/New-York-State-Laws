@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Election Law § 14-118", "kind": "section", "law_id": "ELN", "location_id": "14-118", "path": "ARTICLE 14 › TITLE 1 › SECTION 14-118", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-118.md", "title": "Treasurer and depository of political committee; filing of name and address"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 14-118", "kind": "section", "law_id": "ELN", "location_id": "14-118", "path": "ARTICLE 14 › SECTION 14-118", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/14-118.md", "title": "Treasurer and depository of political committee; filing of name and address"} -->
 # Election Law § 14-118 — Treasurer and depository of political committee; filing of name and address
 
-[Election Law](../../README.md) › [Article 14 — Campaign Receipts and Expenditures](../README.md) › [Title 1 — Campaign Receipts and Expenditures](README.md)
+[Election Law](../README.md) › [Article 14 — Campaign Receipts and Expenditures](README.md)
 
 ```text
   § 14-118. Treasurer and depository of political committee; filing of
