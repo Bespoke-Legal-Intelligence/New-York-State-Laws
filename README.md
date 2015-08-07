@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 31 Jul 2015.*
+*Current through the publication of 7 Aug 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [7 Aug 2015](changes/2015/2015-08-07.md): Environmental Conservation Law; Executive Law; Labor Law; Private Housing Finance Law; Retirement and Social Security Law
 - [31 Jul 2015](changes/2015/2015-07-31.md): Education Law; Election Law; Executive Law; General Business Law; Insurance Law; Labor Law; Private Housing Finance Law; Public Authorities Law; Real Property Tax Law; State Finance Law
 - [24 Jul 2015](changes/2015/2015-07-24.md): Environmental Conservation Law; General Business Law; Public Officers Law
 - [17 Jul 2015](changes/2015/2015-07-17.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Environmental Conservation Law; General Municipal Law; Local Finance Law; Tax Law; Transportation Law; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [3 Jul 2015](changes/2015/2015-07-03.md): Criminal Procedure Law; Domestic Relations Law; Education Law; Emergency Housing Rent Control Law; Emergency Tenant Protection Act; Environmental Conservation Law; Executive Law; General Business Law; General City Law; General Municipal Law; Multiple Dwelling Law; Penal Law; Real Property Tax Law; Social Services Law; Tax Law; Vehicle and Traffic Law
 - [26 Jun 2015](changes/2015/2015-06-26.md): Emergency Housing Rent Control Law; Emergency Tenant Protection Act; General Business Law; Penal Law; Real Property Tax Law
 - [19 Jun 2015](changes/2015/2015-06-19.md): Agriculture and Markets Law; Education Law; General Municipal Law; Volunteer Ambulance Workers' Benefit Law
-- [5 Jun 2015](changes/2015/2015-06-05.md): Public Health Law; Tax Law
 
 ## Most changed in the past 12 months
 
@@ -35,9 +35,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 122 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 111 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 98 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 93 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 80 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 77 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 94 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 81 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 78 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 60 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 60 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 58 |
@@ -73,9 +73,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,684 | 24 Jul 2015 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,684 | 7 Aug 2015 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 344 | 26 Dec 2014 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 847 | 31 Jul 2015 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 847 | 7 Aug 2015 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 10 Apr 2015 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,174 | 31 Jul 2015 |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 28 Nov 2014 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,008 | 31 Jul 2015 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 522 | 24 Apr 2015 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 673 | 31 Jul 2015 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 673 | 7 Aug 2015 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 24 Apr 2015 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 20 Feb 2015 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 117 | 24 Apr 2015 |
@@ -105,7 +105,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 24 Apr 2015 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 852 | 3 Jul 2015 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | no change since 22 Sep 2014 (start of history) |
-| [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 31 Jul 2015 |
+| [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 7 Aug 2015 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 31 Jul 2015 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 48 | 10 Jul 2015 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,611 | 10 Jul 2015 |
@@ -120,7 +120,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 409 | 24 Apr 2015 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 747 | 31 Jul 2015 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 305 | no change since 22 Sep 2014 (start of history) |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 539 | 10 Jul 2015 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 539 | 7 Aug 2015 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | no change since 22 Sep 2014 (start of history) |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | 10 Jul 2015 |

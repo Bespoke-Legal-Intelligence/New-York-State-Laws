@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-1435", "kind": "section", "law_id": "ENV", "location_id": "27-1435", "path": "ARTICLE 27 › TITLE 14 › SECTION 27-1435", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-1435.md", "title": "New York brownfields advisory board"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-1435", "kind": "section", "law_id": "ENV", "location_id": "27-1435", "path": "ARTICLE 27 › TITLE 14 › SECTION 27-1435", "repealed": true, "repealed_date": "2015-08-07", "source": "nys-laws:ENV/27-1435.md", "title": "New York brownfields advisory board"} -->
 # Environmental Conservation Law § 27-1435 — New York brownfields advisory board
 
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 14 — Brownfield Cleanup Program](README.md)
+
+**Repealed** (7 Aug 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
 * § 27-1435. New York brownfields advisory board.

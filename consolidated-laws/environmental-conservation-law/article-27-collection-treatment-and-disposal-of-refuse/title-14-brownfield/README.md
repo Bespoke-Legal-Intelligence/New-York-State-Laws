@@ -22,7 +22,7 @@
 - [§ 27-1429 Permit waivers](27-1429-permit-waivers.md)
 - [§ 27-1431 Access to sites](27-1431-access-to-sites.md)
 - [§ 27-1433 Waiver of interest or penalties or other charges on brownfield properties](27-1433-waiver-of-interest-or-penalties-or-other.md)
-- [§ 27-1435 New York brownfields advisory board](27-1435-new-york-brownfields-advisory-board.md)
+- [§ 27-1435 New York brownfields advisory board](27-1435-new-york-brownfields-advisory-board.md) *(repealed)*
 - [§ 27-1437 BCP-EZ program](27-1437-bcp-ez-program.md)
 
 <details>
