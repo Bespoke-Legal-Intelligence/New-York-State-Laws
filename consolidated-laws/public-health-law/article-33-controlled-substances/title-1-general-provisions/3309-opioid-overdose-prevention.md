@@ -15,7 +15,7 @@ hundred twelve of the education law or any other law, the purchase,
 acquisition, possession or use of an opioid antagonist pursuant to this
 section shall not constitute the unlawful practice of a profession or
 other violation under title eight of the education law or this article.
-  * 3. (a) As used in this section:
+  3. (a) As used in this section:
   (i) "Opioid antagonist" means a drug approved by the Food and Drug
 Administration that, when administered, negates or neutralizes in whole
 or in part the pharmacological effects of an opioid in the body. "Opioid
@@ -27,14 +27,7 @@ prescription drugs.
   (iii) "Pharmacist" means a person licensed or authorized to practice
 pharmacy pursuant to article one hundred thirty-seven of the education
 law.
-  ** (iv) "Opioid antagonist recipient" or "recipient" means a person at
-risk of experiencing an opioid-related overdose, or a family member,
-friend or other person in a position to assist a person experiencing or
-at risk of experiencing an opioid-related overdose, or an organization
-registered as an opioid overdose prevention program pursuant to this
-section.
-  ** NB Effective until August 11, 2015
-  ** (iv) "Opioid antagonist recipient" or "recipient" means a person at
+  (iv) "Opioid antagonist recipient" or "recipient" means a person at
 risk of experiencing an opioid-related overdose, or a family member,
 friend or other person in a position to assist a person experiencing or
 at risk of experiencing an opioid-related overdose, or an organization
@@ -43,7 +36,6 @@ section or a school district, board of cooperative educational services,
 county vocational education and extension board, charter school,
 non-public elementary and/or secondary school in this state or any
 person employed by such district, board or school.
-  ** NB Effective August 11, 2015
   (b)(i) A health care professional may prescribe by a patient-specific
 or non-patient-specific prescription, dispense or distribute, directly
 or indirectly, an opioid antagonist to an opioid antagonist recipient.
@@ -61,8 +53,7 @@ prescription; nor shall it be deemed to limit the authority of a health
 care professional to prescribe, dispense or distribute, or of a
 pharmacist to dispense, an opioid antagonist under any other provision
 of law.
-  * NB There are 2 sb 3's
-  * 3. Any distribution of opioid antagonists through this program shall
+  3-a. Any distribution of opioid antagonists through this program shall
 include an informational card or sheet. The informational card or sheet
 shall include, at a minimum, information on:
   (a) how to recognize symptoms of an opioid overdose;
@@ -77,33 +68,7 @@ services' website; and
 as deemed appropriate by the commissioner. The department shall make
 such informational cards available to the opioid overdose prevention
 programs.
-  * NB There are 2 sb 3's
-  * NB Effective until August 11, 2015
-  * 3-a. Any distribution of opioid antagonists through this program
-shall include an informational card or sheet. The informational card or
-sheet shall include, at a minimum, information on:
-  (a) how to recognize symptoms of an opioid overdose;
-  (b) steps to take prior to and after an opioid antagonist is
-administered, including calling first responders;
-  (c) the number for the toll free office of alcoholism and substance
-abuse services HOPE line;
-  (d) how to access the office of alcoholism and substance abuse
-services' website; and
-  (e) any other information deemed relevant by the commissioner.
-  The educational card shall be provided in languages other than English
-as deemed appropriate by the commissioner. The department shall make
-such informational cards available to the opioid overdose prevention
-programs.
-  * NB Effective August 11, 2015
-  * 4. Use of an opioid antagonist pursuant to this section shall be
-considered first aid or emergency treatment for the purpose of any
-statute relating to liability.
-  A recipient or opioid overdose prevention program under this section,
-acting reasonably and in good faith in compliance with this section,
-shall not be subject to criminal, civil or administrative liability
-solely by reason of such action.
-  * NB Effective until August 11, 2015
-  * 4. Use of an opioid antagonist pursuant to this section shall be
+  4. Use of an opioid antagonist pursuant to this section shall be
 considered first aid or emergency treatment for the purpose of any
 statute relating to liability.
   A recipient, opioid overdose prevention program, school district,
@@ -113,7 +78,6 @@ secondary school in the state, or any person employed by such district,
 board or school under this section, acting reasonably and in good faith
 in compliance with this section, shall not be subject to criminal, civil
 or administrative liability solely by reason of such action.
-  * NB Effective August 11, 2015
   5. The commissioner shall publish findings on statewide opioid
 overdose data that reviews overdose death rates and other information to
 ascertain changes in the cause and rates of fatal opioid overdoses. The

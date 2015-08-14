@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 4 — Limited Dividend Housing Companies](README.md)
 
 ```text
-  § 85-a. Selection of tenants and occupants.  1. The dwellings in a
+  § 85-a. Selection of tenants and occupants. 1. The dwellings in a
 housing company project, other than a mutual project, shall be available
   (a) If such project was completed or acquired on or after July first,
 nineteen hundred fifty-five, for persons or families whose probable
@@ -99,7 +99,7 @@ exceed eight to one; provided, however, that, in the discretion of the
 commissioner upon application of the mutual housing company, the income
 limitations set forth in paragraph (a) of this subdivision shall be
 applicable to such projects, and, in such case, investment in the equity
-obligations of such housing companies shall include:  the value of the
+obligations of such housing companies shall include: the value of the
 stock of said housing company at time of purchase; all moneys paid
 towards the rental of the dwellings which are allocated to the reduction
 of the principal amount of the mortgage loan secured by a mortgage lien
@@ -191,7 +191,7 @@ in occupancy where the head of the household is sixty-two years of age
 or older and is not a recipient of public assistance pursuant to the
 social services law, and where the net probable aggregate annual income
 of the person or family in occupancy does not exceed six thousand five
-hundred dollars a year.  Notwithstanding the provisions of subdivision
+hundred dollars a year. Notwithstanding the provisions of subdivision
 twenty-nine of section two of this chapter net probable aggregate annual
 income as used in this subdivision shall mean annual income of family
 members from all sources after deduction of federal, state and city
@@ -236,7 +236,7 @@ project, as specified in this article or any other provision of law, are
 not required for the purpose of maintaining or operating said project or
 projects. Any such vote shall be preceded by a timely notice to the
 project's shareholders that such vote will take place;
-  shall be excused from undertaking a survey of the aggregate and
+shall be excused from undertaking a survey of the aggregate and
 individual annual incomes of persons or families residing in such
 project or projects constructed or acquired by such housing company, and
 shall not be required to impose rental surcharges based on the incomes

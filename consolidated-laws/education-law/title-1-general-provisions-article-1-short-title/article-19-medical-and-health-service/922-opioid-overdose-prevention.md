@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 922. Opioid overdose prevention. 1. School districts, boards of
+  § 922. Opioid overdose prevention. 1. School districts, boards of
 cooperative educational services, county vocational education and
 extension boards, charter schools, and non-public elementary and
 secondary schools in this state may provide and maintain on-site in each
@@ -31,5 +31,4 @@ nine of the public health law including, but not limited to, appropriate
 clinical oversight, record keeping and reporting. No person shall be
 required to participate in the program and any participation by an
 individual shall be voluntary.
-  * NB Effective August 11, 2015
 ```
