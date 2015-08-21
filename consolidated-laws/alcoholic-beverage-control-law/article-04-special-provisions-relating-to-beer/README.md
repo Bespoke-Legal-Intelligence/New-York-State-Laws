@@ -8,11 +8,11 @@
 - [§ 50 Kinds of licenses](50-kinds-of-licenses.md)
 - [§ 51 Brewer's license](51-brewers-license.md)
 - [§ 51-A Farm brewery license](51a-farm-brewery-license.md)
-- [§ 52 Brewer's retail license](52-brewers-retail-license.md) *(repealed)*
 - [§ 53 Wholesaler's license](53-wholesalers-license.md)
 - [§ 53-A Vendor's license](53a-vendors-license.md)
 - [§ 54 License to sell beer at retail for consumption off the premises](54-license-to-sell-beer-at-retail-for-consumption-off-the-premises.md)
 - [§ 54-A License to sell beer and wine products at retail for consumption off the premises](54a-license-to-sell-beer-and-wine-products-at-retail-for-consumption-off.md)
+- [§ 54-B Beer tasting](54b-beer-tasting.md)
 - [§ 55 License to sell beer at retail for consumption on the premises](55-license-to-sell-beer-at-retail-for-consumption-on-the-premises.md)
 - [§ 55-A License to sell beer at retail, in certain counties, for consumption at baseball parks, race tracks and outdoor athletic fields and stadi...](55a-license-to-sell-beer-at-retail-in-certain-counties-for-consumption.md)
 - [§ 55-B Manner of changing beer prices to wholesalers and retail licensees](55b-manner-of-changing-beer-prices-to-wholesalers-and-retail-licensees.md)
@@ -37,6 +37,7 @@ Section 50.   Kinds of licenses.
                 premises.
         54-a. License to sell beer and wine products at retail for
                 consumption off the premises.
+        54-b. Beer tasting.
         55.   License to sell beer at retail for consumption on the
                 premises.
         55-a. License to sell beer at retail, in certain counties, for

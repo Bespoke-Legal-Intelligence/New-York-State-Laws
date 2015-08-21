@@ -13,6 +13,7 @@
 - [§ 464 Permits; display; renewal; duplicates](464-permits-display-renewal-duplicates.md)
 - [§ 465 Powers of the commissioner](465-powers-of-the-commissioner.md)
 - [§ 466 Judicial review](466-judicial-review.md)
+- [§ 467 Single use tattoo and body piercing equipment](467-single-use-tattoo-and-body-piercing-equipment.md)
 
 <details>
 <summary>Official heading of Article 4-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ Section 460.   Definitions.
         464.   Permits; display; renewal; duplicates.
         465.   Powers of the commissioner.
         466.   Judicial review.
+        467.   Single use tattoo and body piercing equipment.
 ```
 
 </details>

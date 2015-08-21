@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 664 (6 repealed) |
-| Last changed | 19 Jun 2015 |
+| Sections | 664 (7 repealed) |
+| Last changed | 21 Aug 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [21 Aug 2015](../../changes/2015/2015-08-21.md): 2 amended, 1 repealed
 - [19 Jun 2015](../../changes/2015/2015-06-19.md): 10 amended, 6 repealed
 - [1 May 2015](../../changes/2015/2015-05-01.md): 2 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 10 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 11 amended, 10 added
 - [19 Dec 2014](../../changes/2014/2014-12-19.md): 1 added
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 2 amended
-- [26 Sep 2014](../../changes/2014/2014-09-26.md): 2 amended
 
 ## Contents
 

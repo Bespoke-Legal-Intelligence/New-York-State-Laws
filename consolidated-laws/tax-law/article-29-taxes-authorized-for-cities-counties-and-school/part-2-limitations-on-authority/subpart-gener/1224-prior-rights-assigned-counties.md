@@ -523,7 +523,7 @@ empowered to adopt pursuant to section twelve hundred ten of this
 article. Net collections from any additional rate of sales and
 compensating use taxes which the county may impose during the period
 commencing December first, two thousand eleven, and ending November
-thirtieth, two thousand fifteen, pursuant to the authority of section
+thirtieth, two thousand seventeen, pursuant to the authority of section
 twelve hundred ten of this article shall be used by the county solely
 for county purposes and shall not be subject to any revenue distribution
 agreement entered into pursuant to the authority of subdivision (c) of
@@ -552,6 +552,19 @@ percent rate referred to in this section shall be calculated without
 reference to the additional three-quarters of one percent rate of tax
 which the county of Jefferson is authorized and empowered to adopt
 pursuant to section twelve hundred ten of this article.
+  * NB Effective until December 1, 2015
+  * (dd) The county of Jefferson shall have the sole right to impose the
+additional one percent rate of tax which such county is authorized to
+impose pursuant to the authority of section twelve hundred ten of this
+article. Such additional rate of tax shall be in addition to any other
+tax which such county may impose or may be imposing pursuant to this
+article or any other law and such additional rate of tax shall not be
+subject to preemption. The maximum three percent rate referred to in
+this section shall be calculated without reference to the additional one
+percent rate of tax which the county of Jefferson is authorized and
+empowered to adopt pursuant to section twelve hundred ten of this
+article.
+  * NB Effective December 1, 2015
   * NB There are 2 sub (dd)'s
   * (dd) The county of Onondaga shall have the sole right to impose the
 additional one percent rate of tax which such county is authorized to

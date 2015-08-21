@@ -60,7 +60,7 @@ Article
           Title    I.   General provisions (§§401-410).
                   II.   Hospitals; boards of visitors (§§420-425).
                   IV.   Hospitals; officers and employees (§§450-455).
-   4-A.   Regulation of body piercing and tattooing (§§460-466).
+   4-A.   Regulation of body piercing and tattooing (§§460-467).
    4-B.   Tongue-splitting (§470).
    5.     Laboratories
           Title    I.   General provisions: state laboratories; approved

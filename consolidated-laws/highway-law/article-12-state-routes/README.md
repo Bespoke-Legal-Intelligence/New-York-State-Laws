@@ -242,6 +242,18 @@
 - [§ 344-D\*2 Portion of the state highway system to be designated as the "Captain John J](344d-2-portion-of-the-state-highway-system-to-be-designated-as-the-captain-john-j.md)
 - [§ 344-D\*3 Portion of state highway system to be designated as the "Sergeant Elisha R](344d-3-portion-of-state-highway-system-to-be-designated-as-the-sergeant-elisha-r.md)
 - [§ 344-D\*4 Portion of the state highway system to be designated as the "Marine Captain Eric A](344d-4-portion-of-the-state-highway-system-to-be-designated-as-the-marine-captain-eric.md)
+- [§ 344-D\*5 Portion of the state highway system to be designated as the "Trooper Christopher G](344d-5-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-christopher.md)
+- [§ 344-D\*6 Portion of the state highway system to be designated and known as the "Police Officer Arthur Lopez Memorial Bridge"](344d-6-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-police.md)
+- [§ 344-D\*7 Portion of the state highway system to be designated as the "Deputy Sheriff Glenn Searles Memorial Bridge"](344d-7-portion-of-the-state-highway-system-to-be-designated-as-the-deputy-sheriff-glenn.md)
+- [§ 344-D\*8 Portion of state highway system to be designated as the "Oneida County Vietnam Veterans Memorial Highway"](344d-8-portion-of-state-highway-system-to-be-designated-as-the-oneida-county-vietnam.md)
+- [§ 344-D\*9 Portion of the state highway system to be designated as the "Susan Foster Myers Memorial Bridge"](344d-9-portion-of-the-state-highway-system-to-be-designated-as-the-susan-foster-myers.md)
+- [§ 344-D\*10 Portion of the state highway system to be designated as the "Springwater Veterans Memorial Highway"](344d-10-portion-of-the-state-highway-system-to-be-designated-as-the-springwater-veterans.md)
+- [§ 344-D\*11 Portion of the state highway system to be designated as the "Livonia Veterans Memorial Highway"](344d-11-portion-of-the-state-highway-system-to-be-designated-as-the-livonia-veterans.md)
+- [§ 344-D\*12 Portion of the state highway system to be designated as the "Canadice Veterans Memorial Highway"](344d-12-portion-of-the-state-highway-system-to-be-designated-as-the-canadice-veterans.md)
+- [§ 344-D\*13 Portion of the state highway system to be designated as the "Rush Veterans Memorial Highway"](344d-13-portion-of-the-state-highway-system-to-be-designated-as-the-rush-veterans.md)
+- [§ 344-D\*14 Portion of the state highway system to be designated as the "Mendon Veterans Memorial Highway"](344d-14-portion-of-the-state-highway-system-to-be-designated-as-the-mendon-veterans.md)
+- [§ 344-D\*15 Portion of the state highway system to be designated as the "Henrietta Veterans Memorial Highway"](344d-15-portion-of-the-state-highway-system-to-be-designated-as-the-henrietta-veterans.md)
+- [§ 344-D\*16 Portion of the state highway system to be designated as the "Brighton Veterans Memorial Highway"](344d-16-portion-of-the-state-highway-system-to-be-designated-as-the-brighton-veterans.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -801,6 +813,34 @@ Section 340-a.     Designation of state interstate routes.
         344-d*4.   Portion of the state highway system to be designated
                      as the "Marine Captain Eric A. Jones Memorial
                      Highway".
+        344-d*5.   Portion of the state highway system to be designated
+                     as the "Trooper Christopher G. Skinner Memorial
+                     Bridge".
+        344-d*6.   Portion of the state highway system to be designated
+                     and known as the "Police Officer Arthur Lopez
+                     Memorial Bridge".
+        344-d*7.   Portion of the state highway system to be designated
+                     as the "Deputy Sheriff Glenn Searles Memorial
+                     Bridge".
+        344-d*8.   Portion of state highway system to be designated as
+                     the "Oneida County Vietnam Veterans Memorial
+                     Highway".
+        344-d*9.   Portion of the state highway system to be designated
+                     as the "Susan Foster Myers Memorial Bridge".
+        344-d*10.  Portion of the state highway system to be designated
+                     as the "Springwater Veterans Memorial Highway".
+        344-d*11.  Portion of the state highway system to be designated
+                     as the "Livonia Veterans Memorial Highway".
+        344-d*12.  Portion of the state highway system to be designated
+                     as the "Canadice Veterans Memorial Highway".
+        344-d*13.  Portion of the state highway system to be designated
+                     as the "Rush Veterans Memorial Highway".
+        344-d*14.  Portion of the state highway system to be designated
+                     as the "Mendon Veterans Memorial Highway".
+        344-d*15.  Portion of the state highway system to be designated
+                     as the "Henrietta Veterans Memorial Highway".
+        344-d*16.  Portion of the state highway system to be designated
+                     as the "Brighton Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

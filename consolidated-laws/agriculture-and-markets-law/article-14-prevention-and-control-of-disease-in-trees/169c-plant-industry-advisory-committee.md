@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 169-C", "kind": "section", "law_id": "AGM", "location_id": "169-C", "path": "ARTICLE 14 › SECTION 169-C", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/169-C.md", "title": "Plant industry advisory committee"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 169-C", "kind": "section", "law_id": "AGM", "location_id": "169-C", "path": "ARTICLE 14 › SECTION 169-C", "repealed": true, "repealed_date": "2015-08-21", "source": "nys-laws:AGM/169-C.md", "title": "Plant industry advisory committee"} -->
 # Agriculture and Markets Law § 169-C — Plant industry advisory committee
 
 [Agriculture and Markets Law](../README.md) › [Article 14 — Prevention and Control of Disease In Trees and Plants; Insect Pests; Sale of Fruit-bearing Trees](README.md)
+
+**Repealed** (21 Aug 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 169-c. Plant industry advisory committee. 1. There is hereby

@@ -123,5 +123,5 @@ any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or
 circumstances shall not be affected thereby.
   * NB There are 8 § 1202-aa's
-  * NB Repealed September 1, 2015
+  * NB Repealed September 1, 2018
 ```

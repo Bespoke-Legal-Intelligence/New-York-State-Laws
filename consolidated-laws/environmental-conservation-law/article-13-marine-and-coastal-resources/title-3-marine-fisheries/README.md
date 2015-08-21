@@ -21,7 +21,7 @@
 - [§ 13-0321 Taking and importation of shellfish for transplanting and other purposes](13-0321-taking-and-importation-of-shellfish-for-transplanting.md)
 - [§ 13-0323 Oysters; prohibited acts](13-0323-oysters-prohibited-acts.md)
 - [§ 13-0325 Clams; prohibited acts](13-0325-clams-prohibited-acts.md)
-- [§ 13-0327 Scallops; prohibited acts](13-0327-scallops-prohibited-acts.md)
+- [§ 13-0327 Scallops](13-0327-scallops.md)
 - [§ 13-0328 Commercial licenses; limited entry](13-0328-commercial-licenses-limited-entry.md)
 - [§ 13-0329 Lobsters; permit to take; prohibited acts](13-0329-lobsters-permit-to-take-prohibited-acts.md)
 - [§ 13-0330 Whelks or conchs; license to take](13-0330-whelks-or-conchs-license-to-take.md)
@@ -83,7 +83,7 @@ Section 13-0301.    Lease of state-owned underwater lands for shellfish
                       transplanting and other purposes.
         13-0323.    Oysters; prohibited acts.
         13-0325.    Clams; prohibited acts.
-        13-0327.    Scallops; prohibited acts.
+        13-0327.    Scallops.
         13-0328.    Commercial licenses; limited entry.
         13-0329.    Lobsters; permit to take; prohibited acts.
         13-0330.    Whelks or conchs; license to take.

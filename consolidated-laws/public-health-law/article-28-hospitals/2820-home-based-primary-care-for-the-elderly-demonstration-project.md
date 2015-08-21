@@ -31,5 +31,5 @@ no longer remain in their homes and such other information as required
 by the department to determine the effectiveness of the provision of
 home based physician and nurse-practitioner services on the health care
 of patients.
-  * NB Repealed January 1, 2016
+  * NB Repealed January 1, 2021
 ```

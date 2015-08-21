@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  § 212. Fees.  The department shall charge the following fees:  1. For
+  § 212. Fees. The department shall charge the following fees: 1. For
 the issuance of a qualifying certificate for admission to a professional
 school as required by or pursuant to law, five dollars.
   2. For admission to a special examination in English authorized or
@@ -19,4 +19,11 @@ has been lost or destroyed, or for the issuance of each registration
 certificate for more than one office, five dollars.
   6. For a detailed certification of licensure record at the request of
 an individual, ten dollars.
+  7. For services and expenses incurred by the department in conducting
+evaluations, processing complaints or performing other administrative
+functions related to the review of post-secondary distance education
+conducted by out-of-state institutions seeking approval to offer
+distance education to students in New York state who do not participate
+in an interstate reciprocity agreement pursuant to section two hundred
+ten-c of this chapter.
 ```

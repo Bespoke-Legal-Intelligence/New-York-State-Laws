@@ -13,15 +13,20 @@ shall require that an applicant set forth: his or her employment
 history, provide personal and employment references and sign a sworn
 statement indicating whether, to the best of his or her knowledge, he or
 she has ever been convicted of a crime in this state or any other
-jurisdiction. Such commissioner of social services shall also determine
-whether the applicant has ever held such a license, or a certificate or
-approval, and, if so, whether the license, certificate or approval was
-revoked, not renewed, or a child was removed from the home, and the
-reason therefor. In such instances, such commissioner of social services
-shall evaluate the circumstances, pursuant to regulations established by
-the office, to determine whether a license should be issued and the home
-re-opened. Not until all inquiries are completed and evaluated shall the
-commissioner of social services cause such license to be issued.
+jurisdiction. In accordance with the regulations of the office of
+children and family services, in addition to the requirements set forth
+in subdivision two of section three hundred seventy-eight-a of this
+title and paragraph (a) of subdivision one of section four hundred
+twenty-four-a of this article, such commissioner of social services
+shall review information available in the statewide automated child
+welfare information system to determine whether the applicant previously
+held such a license, or a certificate or approval as a foster parent,
+and, if so, whether such license, certificate or approval was revoked,
+not renewed, or a foster child was removed from his or her home for
+health or safety reasons and shall consider such information in
+determining whether a license should be issued to such applicant. Not
+until all inquiries are completed and evaluated shall the commissioner
+of social services cause such license to be issued.
   2. Before any such license shall be issued an authorized agent or
 employee of the social services district shall visit and inspect the
 premises for which such license is requested, make such further inquiry

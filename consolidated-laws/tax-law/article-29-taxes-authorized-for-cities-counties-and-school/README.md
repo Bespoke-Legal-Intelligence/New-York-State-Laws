@@ -86,6 +86,8 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-aa*7. Hotel or motel taxes in the city of Peekskill.
         1202-aa*8. Hotel or motel taxes in Tioga county.
         1202-bb.   Occupancy tax in the Village of Rye Brook.
+        1202-cc.   Hotel or motel taxes in Franklin county.
+        1202-cc*2. Hotel or motel taxes in Delaware county.
         1203.      Taxes administered by cities under one million.
         1204.      Taxes administered by cities with populations of less
                      than one hundred twenty-five thousand on request of

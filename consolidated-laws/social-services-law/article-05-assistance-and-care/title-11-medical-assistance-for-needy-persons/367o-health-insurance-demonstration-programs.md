@@ -10,27 +10,27 @@ authorized to establish one or more demonstration programs for the
 purposes of providing additional knowledge and experience in mechanisms
 to provide, maintain or subsidize health insurance coverage for
 unemployed and underemployed health care workers.
-  2. Health insurance continuation demonstration.
-  (a) The commissioner of health is hereby authorized to establish
-mechanisms to improve the process of authorizing medical assistance
-payment of health insurance premiums, pursuant to paragraph (c) of
-subdivision one of section three hundred sixty-seven-a of this title, on
-behalf of personal care and home health care workers who reside in any
-city with a population of one million or more and any county with a
-population of nine hundred thousand or more if such city or county is
-located within the metropolitan commuter transportation district created
-pursuant to section twelve hundred sixty-two of the public authorities
-law, and whose employment is irregular, episodic, or cyclical, and whose
-health insurance coverage therefore is frequently disrupted.
-Notwithstanding the provisions of section three hundred sixty-five of
-this title, the commissioner of health shall exercise discretion to
-determine whether medical assistance payment of such premiums is cost
-effective. If the commissioner of health determines that the test of
-cost effectiveness of insurance premiums is based on other than a
-case-by-case basis, no medical assistance payment for such premiums will
-be made until the commissioner of health obtains all necessary approvals
-under federal law and regulation to receive federal financial
-participation in the costs of such medical assistance.
+  2. Health insurance continuation demonstration.  (a) The commissioner
+of health is hereby authorized to establish mechanisms to improve the
+process of authorizing medical assistance payment of health insurance
+premiums, pursuant to paragraph (c) of subdivision one of section three
+hundred sixty-seven-a of this title, on behalf of personal care and home
+health care workers who reside in any city with a population of one
+million or more and any county with a population of nine hundred
+thousand or more if such city or county is located within the
+metropolitan commuter transportation district created pursuant to
+section twelve hundred sixty-two of the public authorities law, and
+whose employment is irregular, episodic, or cyclical, and whose health
+insurance coverage therefore is frequently disrupted.  Notwithstanding
+the provisions of section three hundred sixty-five of this title, the
+commissioner of health shall exercise discretion to determine whether
+medical assistance payment of such premiums is cost effective. If the
+commissioner of health determines that the test of cost effectiveness of
+insurance premiums is based on other than a case-by-case basis, no
+medical assistance payment for such premiums will be made until the
+commissioner of health obtains all necessary approvals under federal law
+and regulation to receive federal financial participation in the costs
+of such medical assistance.
   (b) The commissioner of health is authorized in consultation with the
 superintendent of financial services to require group health insurance
 plans and employer-based group health plans to report to the department
@@ -47,18 +47,17 @@ superintendent of financial services shall submit reports to the
 superintendent and to the commissioner of health in such form and at
 such times as may be required to implement the provisions of this
 subdivision.
-  3. Rate incentive demonstration.
-  With respect to a demonstration program authorized by subdivision one
-of this section, the commissioner of health may solicit and accept
-applications for participation in the demonstration program from any
-employer, or group of employers, of personal care workers or home health
-workers, who are employed in any city with a population of one million
-or more and any county with a population of nine hundred thousand or
-more if such city or county is located within the metropolitan commuter
-transportation district created pursuant to section twelve hundred
-sixty-two of the public authorities law, and whose employers provide
-services primarily to medical assistance recipients, if the following
-conditions are met:
+  3. Rate incentive demonstration.  With respect to a demonstration
+program authorized by subdivision one of this section, the commissioner
+of health may solicit and accept applications for participation in the
+demonstration program from any employer, or group of employers, of
+personal care workers or home health workers, who are employed in any
+city with a population of one million or more and any county with a
+population of nine hundred thousand or more if such city or county is
+located within the metropolitan commuter transportation district created
+pursuant to section twelve hundred sixty-two of the public authorities
+law, and whose employers provide services primarily to medical
+assistance recipients, if the following conditions are met:
   (a) at least fifty percent of the persons receiving services from such
 employers are recipients of medical assistance;
   (b) the employer contributes to a group health insurance plan or

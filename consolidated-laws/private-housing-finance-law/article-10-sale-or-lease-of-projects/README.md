@@ -21,7 +21,7 @@
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                ARTICLE X
+                               ARTICLE 10
                         SALE OR LEASE OF PROJECTS
 Section 550.  Application of article.
         551.  Definitions.

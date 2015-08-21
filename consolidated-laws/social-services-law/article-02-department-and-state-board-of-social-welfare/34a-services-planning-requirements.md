@@ -172,58 +172,33 @@ family services for review by January first, two thousand eight and the
 office shall approve or disapprove such local policies and procedures,
 based upon the model practices and procedures established in conjunction
 with the state department of education, within sixty days of submission.
-  9. (a) In order to allow families time to properly plan for their
-financial needs and for the safety, social and emotional needs of their
-children, in the event that a social services district proposes to amend
-its consolidated services plan, submits an annual plan update, or takes
-any other action that would lower the financial eligibility level for
-child care assistance so that families receiving subsidies would lose
-eligibility therefore, the local social services district shall notify
-the office of children and family services of that fact at least sixty
-days before the effective date of the proposed change in eligibility
-level. The office of children and family services shall post notice of
-the proposed change on the office's website within five days of
-receiving said notice, and within twenty days of receiving said notice
-shall notify all licensed, registered and legally-exempt child care
-providers in the affected district, the state child care resource and
-referral agency, the local child care resource and referral agency, as
-well as all certified employee organizations representing licensed,
-registered and legally-exempt child care providers in the affected
-district. Said notice may be made by e-mail or regular mail in the form
-of a letter or postcard, and shall inform the recipient of the date of
-the proposed change and a description of the proposed change. The notice
-shall also require that child care providers that receive the notice
-immediately post the notice in a place which is likely to be seen by the
-families who have children in the provider's care and that certified
-employee organizations representing licensed, registered and
-legally-exempt child care providers in the affected district post the
-notice on their official website. This notice shall not be considered as
-a substitute for any notice to parents which is required by law.
-  (b) In order to allow families time to properly plan for their
-financial needs and for the safety, social and emotional needs of their
-children, in the event that a social services district proposes to amend
-its consolidated services plan or to submit an annual plan update that
-increases the parental co-payment multiplier for child care assistance
-so that families receiving subsidies would pay an increased percentage
-of their income as a child care co-payment, the local social services
-district shall notify the office of children and family services of that
-fact at least sixty days before the effective date of the proposed
-change in eligibility level. The office of children and family services
-shall post notice of the proposed change on the office's website within
-five days of receiving said notice, and within twenty days of receiving
-said notice shall notify all licensed, registered and legally-exempt
-child care providers in the affected district, the state child care
-resource and referral agency, the local child care resource and referral
-agency, as well as all certified employee organizations representing
-licensed, registered and legally-exempt child care providers in the
-affected district. Said notice may be made by e-mail or regular mail in
-the form of a letter or postcard, and shall inform the recipient of the
-date of the proposed change and a description of the proposed change.
-The notice shall also require that child care providers that receive the
-notice immediately post the notice in a place which is likely to be seen
-by the families who have children in the provider's care and that
-certified employee organizations representing licensed, registered and
-legally-exempt child care providers in the affected district post the
-notice on their official website. This notice shall not be considered as
-a substitute for any notice to parents which is required by law.
+  9. (a) If a social services district proposes an amendment to the
+child care portion of its child and family services plan that reduces
+eligibility or increases the family share percentage for child care
+services such district must: (i) no later than the first day the public
+notice appears in a newspaper pursuant to subdivision three of this
+section or the regulations of the office of children and family
+services, as applicable, prominently post on the district's website a
+notice of the proposed amendment describing the categories of families
+whose cases will be impacted; and (ii) at the time the public notice is
+submitted to the newspaper for publication in accordance with
+subdivision three of this section or the regulations of the office of
+children and family services, as applicable, provide a copy of such
+notice to the office of children and family services.
+  (b) If a social services district implements its process for closing
+child care cases, as set forth in its approved child and family services
+plan, due to the district determining that it cannot maintain its
+current caseload because all of the available funds are projected to be
+needed for open cases, the district must: (i) no later than the day the
+social services district begins to send individual notices to impacted
+families in accordance with subdivision eight of section four hundred
+ten-w of this chapter, prominently post a notice on their website that
+states that such district is implementing the child care case closing
+process set forth in its approved child and family services plan and
+that describes the categories of families whose cases will be closed;
+and (ii) immediately provide a copy of such notice to the office of
+children and family services.
+  (c) The office of children and family services shall prominently post
+notices received pursuant to paragraphs (a) or (b) of this subdivision
+on its website.
 ```

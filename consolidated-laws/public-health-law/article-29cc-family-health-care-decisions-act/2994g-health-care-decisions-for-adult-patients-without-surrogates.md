@@ -100,10 +100,41 @@ an adult patient who has been determined to lack decision-making
 capacity pursuant to section twenty-nine hundred ninety-four-c of this
 article, without judicial approval. This paragraph shall not apply to
 any treatment necessary to alleviate pain or discomfort.
-  (c) With respect to a decision regarding hospice care for a patient in
-a general hospital or residential health care facility, the second
-physician must be designated by the general hospital or residential
-health care facility.
+  5-a. Decisions regarding hospice care. An attending physician shall be
+authorized to make decisions regarding hospice care and execute
+appropriate documents for such decisions (including a hospice election
+form) for an adult patient under this section who is hospice eligible in
+accordance with the following requirements.
+  (a) The attending physician shall make decisions under this section in
+consultation with staff directly responsible for the patient's care, and
+shall base his or her decisions on the standards for surrogate decisions
+set forth in subdivisions four and five of section twenty-nine hundred
+ninety-four-d of this article;
+  (b) There is a concurring opinion as follows:
+  (i) in a general hospital, at least one other physician designated by
+the hospital must independently determine that he or she concurs that
+the recommendation is consistent with such standards for surrogate
+decisions;
+  (ii) in a residential health care facility, the medical director of
+the facility, or a physician designated by the medical director, must
+independently determine that he or she concurs that the recommendation
+is consistent with such standards for surrogate decisions; provided that
+if the medical director is the patient's attending physician, a
+different physician designated by the residential health care facility
+must make this independent determination; or
+  (iii) in settings other than a general hospital or residential health
+care facility, the medical director of the hospice, or a physician
+designated by the medical director, must independently determine that he
+or she concurs that the recommendation is medically appropriate and
+consistent with such standards for surrogate decisions; provided that if
+the medical director is the patient's attending physician, a different
+physician designated by the hospice must make this independent
+determination; and
+  (c) The ethics review committee of the general hospital, residential
+health care facility or hospice, as applicable, including at least one
+physician who is not the patient's attending physician, or a court of
+competent jurisdiction, must review the decision and determine that it
+is consistent with such standards for surrogate decisions.
   6. Physician objection. If a physician consulted for a concurring
 opinion objects to an attending physician's recommendation or
 determination made pursuant to this section, or a member of the hospital

@@ -12,7 +12,7 @@
 - [§ 72 Prohibition of other pictorial devices](72-prohibition-of-other-pictorial-devices.md)
 - [§ 73 Great seal of the state](73-great-seal-of-the-state.md)
 - [§ 74 Use of the great seal](74-use-of-the-great-seal.md)
-- [§ 74-A New York state collectible series panel](74a-new-york-state-collectible-series-panel.md)
+- [§ 74-A New York state collectible series panel](74a-new-york-state-collectible-series-panel.md) *(repealed)*
 - [§ 75 State flower](75-state-flower.md)
 - [§ 76 State tree](76-state-tree.md)
 - [§ 77 State gem](77-state-gem.md)
@@ -42,7 +42,6 @@ Section 70.   Description of the arms of the state and the state flag.
         72.   Prohibition of other pictorial devices.
         73.   Great seal of the state.
         74.   Use of the great seal.
-        74-a. New York state collectible series panel.
         75.   State flower.
         76.   State tree.
         77.   State gem.

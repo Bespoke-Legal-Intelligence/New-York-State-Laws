@@ -67,6 +67,8 @@
 - [§ 1202-AA\*7 Hotel or motel taxes in the city of Peekskill](1202aa-7-hotel-or-motel-taxes-in-the-city.md)
 - [§ 1202-AA\*8 Hotel or motel taxes in Tioga county](1202aa-8-hotel-or-motel-taxes-in-tioga-county.md)
 - [§ 1202-BB Occupancy tax in the Village of Rye Brook](1202bb-occupancy-tax-in-the-village-of-rye.md)
+- [§ 1202-CC Hotel or motel taxes in Franklin county](1202cc-hotel-or-motel-taxes-in-franklin.md)
+- [§ 1202-CC\*2 Hotel or motel taxes in Delaware county](1202cc-2-hotel-or-motel-taxes-in-delaware.md)
 - [§ 1203 Taxes administered by cities under one million](1203-taxes-administered-by-cities-under-one.md)
 - [§ 1204 Taxes administered by cities with populations of less than one hundred twenty-five thousand on request of school districts](1204-taxes-administered-by-cities.md)
 - [§ 1205 Imposition of taxes on deeds in the city of Mount Vernon](1205-imposition-of-taxes-on-deeds-in-the-city.md)

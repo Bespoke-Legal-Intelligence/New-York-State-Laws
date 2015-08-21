@@ -18,7 +18,7 @@ alternatives and the possible defenses to the charges, (b) the minor
 possesses the maturity, knowledge and intelligence necessary to conduct
 his or her own defense, and (c) waiver is in the best interest of the
 minor.
-  * NB Effective until September 1, 2015
+  * NB Effective until September 1, 2020
   * § 249-a. Waiver of counsel. A minor who is a subject of a juvenile
 delinquency or person in need of supervision proceeding shall be
 presumed to lack the requisite knowledge and maturity to waive the
@@ -30,5 +30,5 @@ charges, the possible dispositional alternatives and the possible
 defenses to the charges, (b) the minor possesses the maturity, knowledge
 and intelligence necessary to conduct his or her own defense, and (c)
 waiver is in the best interest of the minor.
-  * NB Effective September 1, 2015
+  * NB Effective September 1, 2020
 ```

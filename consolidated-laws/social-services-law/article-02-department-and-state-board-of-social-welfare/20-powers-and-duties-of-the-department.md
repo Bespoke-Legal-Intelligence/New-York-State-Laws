@@ -125,7 +125,15 @@ investigation undertaken by the department or by the local social
 services district since the death of the child, (vi) as appropriate,
 recommendations for local or state administrative or policy changes, and
 (vii) written comments as may be provided by any local social services
-district referenced in such report.
+district referenced in such report, to the extent that such comments:
+(A) protect the confidentiality and privacy of the deceased child, his
+or her siblings, the parent or other person legally responsible for such
+child, any other members of such child's household and the source of any
+report of suspected child abuse or maltreatment, and (B) are relevant to
+the fatality reported and pertain to any of the provisions of
+subparagraph (i), (ii), (iii), (iv), (v) or (vi) of this paragraph,
+provided that any comments that pertain to subparagraphs (i), (ii),
+(iii), (iv) or (v) of this paragraph must be factually accurate.
   Such report shall contain no information that would identify the name
 of the deceased child, his or her siblings, the parent or other person
 legally responsible for the child or any other members of the child's
@@ -143,11 +151,13 @@ disclosure to the public of the substance or content of any
 psychological, psychiatric, therapeutic, clinical or medical reports,
 evaluations or like materials or information pertaining to such child or
 the child's family.
-  (c) Thirty days prior to the release of the report the department
+  (c) Twenty days prior to the release of the report the department
 shall forward the proposed report to each local social services district
-referenced in the report. Within twenty days thereafter each local
-social services district may provide written comments which the
-department shall include within the report. No later than six months
+referenced in the report. Within ten days thereafter, each local social
+services district may provide written comments in accordance with
+subparagraph (vii) of paragraph (b) of this subdivision to the
+department in the form and manner required by the department to be
+included by the department within the report. No later than six months
 from the date of the death of such child, the department shall forward
 its report to the social services district, chief county executive
 officer, chairperson of the local legislative body of the county where

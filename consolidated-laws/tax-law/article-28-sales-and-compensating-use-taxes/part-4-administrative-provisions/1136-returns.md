@@ -208,8 +208,11 @@ of such law, or a person operating pursuant to a farm cidery license as
 provided in section fifty-eight-c of the alcoholic beverage control law,
 or a person operating pursuant to a farm brewery license as provided in
 section fifty-one-a of the alcoholic beverage control law, or a person
-operating pursuant to any combination of such licenses, shall not be
-subject to any of the requirements of this subdivision.
+operating pursuant to a brewer's license as provided in section
+fifty-one of the alcoholic beverage control law who produces less than
+sixty thousand barrels of beer a year, or a person operating pursuant to
+any combination of such licenses, shall not be subject to any of the
+requirements of this subdivision.
   (2) The returns required by paragraph one of this subdivision must
 also include, for each vendor, operator, or recipient about whom
 information is required to be reported under such paragraph, the name

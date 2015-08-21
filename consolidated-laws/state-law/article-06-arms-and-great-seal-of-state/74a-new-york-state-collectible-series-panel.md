@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Law § 74-A", "kind": "section", "law_id": "STL", "location_id": "74-A", "path": "ARTICLE 6 › SECTION 74-A", "repealed": false, "repealed_date": null, "source": "nys-laws:STL/74-A.md", "title": "New York state collectible series panel"} -->
+﻿<!-- nyslaw {"citation": "State Law § 74-A", "kind": "section", "law_id": "STL", "location_id": "74-A", "path": "ARTICLE 6 › SECTION 74-A", "repealed": true, "repealed_date": "2015-08-21", "source": "nys-laws:STL/74-A.md", "title": "New York state collectible series panel"} -->
 # State Law § 74-A — New York state collectible series panel
 
 [State Law](../README.md) › [Article 6 — Arms and Great Seal of State](README.md)
+
+**Repealed** (21 Aug 2015). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 74-a. New York state collectible series panel. 1. There is hereby

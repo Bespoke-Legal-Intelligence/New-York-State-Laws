@@ -20,6 +20,7 @@
 - [§ 210 Registrations](210-registrations.md)
 - [§ 210-A Admission requirements for graduate-level teacher and educational leader programs](210a-admission-requirements-for-graduate.md)
 - [§ 210-B Graduate-level teacher and educational leadership program deregistration and suspension](210b-graduate-level-teacher.md)
+- [§ 210-C Interstate reciprocity agreement for post-secondary distance education programs](210c-interstate-reciprocity-agreement.md)
 - [§ 211 Review of regents learning standards](211-review-of-regents-learning-standards.md)
 - [§ 211-A Enhanced state accountability system](211a-enhanced-state-accountability-system.md)
 - [§ 211-B Consequences for consistent lack of improvement in academic performance](211b-consequences-for-consistent-lack.md)

@@ -23,7 +23,7 @@ Section 157.   Definitions.
         159.   Safety net assistance.
         160-a. Unexpended welfare balances.
         163.   Application.
-        165.   Relief recipients authorized to work.
+        165.   Recipients authorized to work.
 ```
 
 </details>

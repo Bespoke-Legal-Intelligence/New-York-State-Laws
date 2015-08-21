@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ABC |
 | Type | Consolidated law, chapter 3-B |
-| Sections | 165 (1 repealed) |
-| Last changed | 17 Jul 2015 |
+| Sections | 166 |
+| Last changed | 21 Aug 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Alcoholic Beverage Control |
 
@@ -23,7 +23,7 @@ Article  1.   Short title; policy of state and purpose of chapter;
                 definitions. (§§ 1-3.)
          2.   Liquor authority. (§§ 10-19.)
          4.   Special provisions relating to beer. (§§ 50--57-a.)
-         4-A. Special provisions relating to cider. (§§ 58-59.)
+         4-A. Special provisions relating to cider. (§§ 58--59-a.)
          5.   Special provisions relating to liquor. (§§ 60-67.)
 ```
 
@@ -31,6 +31,7 @@ Article  1.   Short title; policy of state and purpose of chapter;
 
 ## Recent changes
 
+- [21 Aug 2015](../../changes/2015/2015-08-21.md): 5 amended, 2 added, 1 removed
 - [17 Jul 2015](../../changes/2015/2015-07-17.md): 3 amended
 - [1 May 2015](../../changes/2015/2015-05-01.md): 1 amended
 - [19 Dec 2014](../../changes/2014/2014-12-19.md): 8 amended, 1 repealed

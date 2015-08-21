@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STL |
 | Type | Consolidated law, chapter 57 |
-| Sections | 96 |
-| Last changed | 28 Nov 2014 |
+| Sections | 96 (1 repealed) |
+| Last changed | 21 Aug 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State |
 
@@ -33,6 +33,7 @@ Became a law February 17, 1909, with the approval of the Governor.
 
 ## Recent changes
 
+- [21 Aug 2015](../../changes/2015/2015-08-21.md): 1 repealed
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 added
 - [17 Oct 2014](../../changes/2014/2014-10-17.md): 1 added
 

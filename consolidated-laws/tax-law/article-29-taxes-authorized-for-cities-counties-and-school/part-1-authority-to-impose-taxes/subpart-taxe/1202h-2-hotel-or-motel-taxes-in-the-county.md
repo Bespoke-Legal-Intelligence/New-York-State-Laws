@@ -6,7 +6,7 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 1202-h. Hotel or motel taxes in the county of Oswego. (1)
+  * § 1202-h. Hotel or motel taxes in the county of Oswego. ** (1)
 Notwithstanding any other provisions of law to the contrary, the county
 of Oswego is hereby authorized and empowered to adopt and amend local
 laws imposing in such county a tax, in addition to any other tax
@@ -17,6 +17,19 @@ rates of such tax shall be three percent of the per diem rental rate for
 each room provided, however, such tax shall not be applicable to a
 permanent resident of such tourist home, inn, hotel or motel or to rooms
 in such lodging facilities having less than six rentable units.
+  ** NB Effective until January 1, 2016
+  ** (1) Notwithstanding any other provisions of law to the contrary,
+the county of Oswego is hereby authorized and empowered to adopt and
+amend local laws imposing in such county a tax, in addition to any other
+tax authorized and imposed pursuant to this article, such as the
+legislature has or would have the power and authority to impose upon
+persons occupying tourist home, inn, hotel or motel rooms in such
+county. The rates of such tax shall be four percent of the per diem
+rental rate for each room provided, however, such tax shall not be
+applicable to a permanent resident of such tourist home, inn, hotel or
+motel or to rooms in such lodging facilities having less than six
+rentable units.
+  ** NB Effective January 1, 2016
   (2) Such taxes may be collected and administered by the county
 treasurer or other fiscal officers of Oswego county by such means and in
 such manner as other taxes which are now collected and administered by

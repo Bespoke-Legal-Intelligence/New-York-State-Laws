@@ -20,7 +20,7 @@
 - [§ 169 Delegation of powers and immunities in regard to dutch elm disease in municipalities](169-delegation-of-powers-and-immunities-in-regard-to-dutch-elm-disease.md)
 - [§ 169-A Spraying fruit trees or crops with poison](169a-spraying-fruit-trees-or-crops-with-poison.md)
 - [§ 169-B Fees](169b-fees.md)
-- [§ 169-C Plant industry advisory committee](169c-plant-industry-advisory-committee.md)
+- [§ 169-C Plant industry advisory committee](169c-plant-industry-advisory-committee.md) *(repealed)*
 - [§ 169-D Apiary industry advisory committee](169d-apiary-industry-advisory-committee.md)
 
 <details>
@@ -28,9 +28,8 @@
 
 ```text
                                ARTICLE 14
-                  Prevention and Control of Disease in
-                  Trees and Plants; Insect Pests; Sale
-                         of Fruit-bearing Trees
+  Prevention and Control of Disease in Trees and Plants; Insect Pests;
+                       Sale of Fruit-bearing Trees
 Section 161.   Definitions.
         162.   Nursery stock; common carriers.
         163.   Prevention of introduction of injurious insects, noxious
@@ -51,7 +50,6 @@ Section 161.   Definitions.
                  elm disease in municipalities.
         169-a. Spraying fruit trees or crops with poison.
         169-b. Fees.
-        169-c. Plant industry advisory committee.
         169-d. Apiary industry advisory committee.
 ```
 

@@ -13,13 +13,18 @@ Prior to issuing such certificate, the agency shall require that an
 applicant set forth: his or her employment history, provide personal and
 employment references and sign a sworn statement indicating whether the
 applicant, to the best of his or her knowledge, has ever been convicted
-of a crime in this state or any other jurisdiction. The agency shall
-determine whether the applicant has ever held such a certificate, or a
-license or approval and, if so, whether the certificate, license or
-approval was revoked, not renewed, or a child was removed from the home,
-and the reason therefor. In such instances, the agency shall evaluate
-the circumstances, pursuant to regulations established by the office, to
-determine whether a certificate should be issued and the home re-opened.
+of a crime in this state or any other jurisdiction. In accordance with
+the regulations of the office of children and family services, in
+addition to the requirements set forth in subdivision two of section
+three hundred seventy-eight-a of this title and paragraph (a) of
+subdivision one of section four hundred twenty-four-a of this article,
+the agency shall review information available in the statewide automated
+child welfare information system to determine whether the applicant
+previously held such a certificate, or a license or approval as a foster
+parent and, if so, whether such certificate, license or approval was
+revoked, not renewed, or a foster child was removed from his or her home
+for health or safety reasons and shall consider such information in
+determining whether a certificate should be issued to such applicant.
 Not until all inquiries are completed and evaluated shall the agency
 cause such certificate to be issued.
   2. The agency issuing or renewing any such certificate shall forthwith
