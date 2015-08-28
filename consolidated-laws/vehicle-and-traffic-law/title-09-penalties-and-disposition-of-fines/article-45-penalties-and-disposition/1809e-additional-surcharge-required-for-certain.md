@@ -16,7 +16,8 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-d of this chapter, and except an adjudication of liability of an
+eleven-d of this chapter, or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-b of this chapter, and except an adjudication in accordance with
@@ -47,7 +48,8 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-d of this chapter, and except an adjudication in accordance with
+eleven-d of this chapter or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication in accordance with
 section eleven hundred eleven-c of this chapter of a violation of a bus
 lane restriction as defined in such section, and except an adjudication
 of liability of an owner for a violation of subdivision (b), (c), (d),
@@ -75,7 +77,8 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-d of this chapter, and except an adjudication of liability of an
+eleven-d of this chapter or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication of liability of an
 owner for a violation of subdivision (b), (c), (d), (f) or (g) of
 section eleven hundred eighty of this chapter in accordance with section
 eleven hundred eighty-b of this chapter, and except an adjudication of
@@ -101,7 +104,8 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-d of this chapter, and except an adjudication of liability of an
+eleven-d of this chapter or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication of liability of an
 owner for a violation of subdivision (b), (c), (d), (f) or (g) of
 section eleven hundred eighty of this chapter in accordance with section
 eleven hundred eighty-c of this chapter, and except an adjudication of
@@ -124,7 +128,8 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-d of this chapter, and except an adjudication of liability of an
+eleven-d of this chapter or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication of liability of an
 owner for a violation of toll collection regulations pursuant to section
 two thousand nine hundred eighty-five of the public authorities law or
 sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
@@ -142,6 +147,25 @@ infraction involving standing, stopping, or parking or violations by
 pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
+eleven-a of this chapter or in accordance with section eleven hundred
+eleven-e of this chapter, and except an adjudication of liability of an
+owner for a violation of toll collection regulations pursuant to section
+two thousand nine hundred eighty-five of the public authorities law or
+sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
+seventy-four of the laws of nineteen hundred fifty, there shall be
+levied in addition to any sentence, penalty or other surcharge required
+or permitted by law, an additional surcharge of twenty-eight dollars.
+  * NB Effective August 21, 2019 until September 12, 2020
+  * a. Notwithstanding any other provision of law, whenever proceedings
+in a court or an administrative tribunal of this state result in a
+conviction for an offense under this chapter, except a conviction
+pursuant to section eleven hundred ninety-two of this chapter, or for a
+traffic infraction under this chapter, or a local law, ordinance, rule
+or regulation adopted pursuant to this chapter, except a traffic
+infraction involving standing, stopping, or parking or violations by
+pedestrians or bicyclists, and except an adjudication of liability of an
+owner for a violation of subdivision (d) of section eleven hundred
+eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter, and except an adjudication of liability of an
 owner for a violation of toll collection regulations pursuant to section
 two thousand nine hundred eighty-five of the public authorities law or
@@ -149,7 +173,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective August 21, 2019
+  * NB Effective September 12, 2020
   b. Notwithstanding any other provision of law, whenever proceedings in
 a court of this state result in a conviction pursuant to section eleven
 hundred ninety-two of this chapter, there shall be levied, in addition

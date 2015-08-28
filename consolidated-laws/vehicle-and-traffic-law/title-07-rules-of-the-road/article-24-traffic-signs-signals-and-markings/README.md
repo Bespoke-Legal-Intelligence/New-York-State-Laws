@@ -14,12 +14,11 @@
 - [§ 1111-B\*2 Owner liability for failure of operator to comply with traffic-control indications](1111b-2-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-B\*3 Owner liability for failure of operator to comply with traffic-control indications](1111b-3-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-B\*4 Owner liability for failure of operator to comply with traffic-control indications](1111b-4-owner-liability-for-failure-of-operator-to-comply.md)
-- [§ 1111-B\*5 Owner liability for failure of operator to comply with traffic-control indications](1111b-5-owner-liability-for-failure-of-operator-to-comply.md) *(repealed)*
-- [§ 1111-B\*6 Owner liability for failure of operator to comply with traffic-control indications](1111b-6-owner-liability-for-failure-of-operator-to-comply.md) *(repealed)*
 - [§ 1111-C Owner liability for failure of operator to comply with bus lane restrictions](1111c-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D Owner liability for failure of operator to comply with traffic-control indications](1111d-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D\*2 Owner liability for failure of operator to comply with traffic-control indications](1111d-2-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D\*3 Owner liability for failure of operator to comply with traffic-control indications](1111d-3-owner-liability-for-failure-of-operator-to-comply.md)
+- [§ 1111-E Owner liability for failure of operator to comply with traffic-control indications](1111e-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1112 Pedestrian-control signal indications](1112-pedestrian-control-signal-indications.md)
 - [§ 1113 Flashing signal indications](1113-flashing-signal-indications.md)
 - [§ 1114 Display of unauthorized signs, signals, or markings](1114-display-of-unauthorized-signs-signals-or-markings.md)
@@ -52,6 +51,8 @@ Section 1110.     Obedience to and required traffic-control devices.
         1111-d*2. Owner liability for failure of operator to comply with
                     traffic-control indications.
         1111-d*3. Owner liability for failure of operator to comply with
+                    traffic-control indications.
+        1111-e.   Owner liability for failure of operator to comply with
                     traffic-control indications.
         1112.     Pedestrian-control signal indications.
         1113.     Flashing signal indications.
