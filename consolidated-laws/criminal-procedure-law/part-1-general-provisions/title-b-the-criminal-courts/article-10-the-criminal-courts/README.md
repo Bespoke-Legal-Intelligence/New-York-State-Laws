@@ -8,7 +8,7 @@
 - [§ 10.10 The criminal courts; enumeration and definitions](10.10-the-criminal-courts-enumeration.md)
 - [§ 10.20 Superior courts; jurisdiction](10.20-superior-courts-jurisdiction.md)
 - [§ 10.30 Local criminal courts; jurisdiction](10.30-local-criminal-courts-jurisdiction.md)
-- [§ 10.40 Chief administrator to prescribe forms](10.40-chief-administrator-to-prescribe-forms.md)
+- [§ 10.40 Chief administrator to prescribe forms and to authorize use of electronic filing](10.40-chief-administrator-to-prescribe-forms.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,7 +18,8 @@
 Section 10.10 The criminal courts; enumeration and definitions.
         10.20 Superior courts; jurisdiction.
         10.30 Local criminal courts; jurisdiction.
-        10.40 Chief administrator to prescribe forms.
+        10.40 Chief administrator to prescribe forms and to authorize
+                use of electronic filing.
 ```
 
 </details>

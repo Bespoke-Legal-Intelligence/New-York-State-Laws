@@ -1,0 +1,15 @@
+﻿<!-- nyslaw {"citation": "New York City Civil Court Act § 2103-A", "kind": "section", "law_id": "CCA", "location_id": "2103-A", "path": "ARTICLE 21 › SECTION 2103-A", "repealed": false, "repealed_date": null, "source": "nys-laws:CCA/2103-A.md", "title": "Use of electronic filing authorized"} -->
+# New York City Civil Court Act § 2103-A — Use of electronic filing authorized
+
+[New York City Civil Court Act](../README.md) › [Article 21 — General](README.md)
+
+```text
+  § 2103-a. Use of electronic filing authorized. 1. Notwithstanding any
+other provision of law, the chief administrator of the courts may
+authorize a program in the use of electronic means in the civil court of
+the city of New York as provided in article twenty-one-A of the civil
+practice law and rules.
+  2. For purposes of this section, "electronic means" shall be as
+defined in subdivision (f) of rule twenty-one hundred three of the civil
+practice law and rules.
+```

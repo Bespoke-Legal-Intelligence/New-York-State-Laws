@@ -11,6 +11,7 @@
 - [§ 104 Application of act; confirmation of previous acts Each provision of this act relating to the jurisdiction of the surrogate's court over l...](104-application-of-act-confirmation-of-previous-acts-each-provision-of-this-act.md)
 - [§ 105 Rules for surrogates' courts The court in each county may make such rules for the conduct of business in its court as it may deem necessa...](105-rules-for-surrogates-courts-the-court-in-each-county-may-make-such-rules.md)
 - [§ 106 Appendix of official forms The state administrator of the state of New York shall have the power to adopt, amend and rescind an appendix ...](106-appendix-of-official-forms-the-state-administrator-of-the-state-of-new-york.md)
+- [§ 107 Use of electronic filing authorized 1](107-use-of-electronic-filing-authorized-1.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,13 +19,13 @@
 ```text
                                 ARTICLE 1
                                  GENERAL
-Section
-    101.  Short title; how cited.
-    102.  Application of CPLR and other laws.
-    103.  Definitions.
-    104.  Application of act; confirmation of previous acts.
-    105.  Rules for surrogates' courts.
-    106.  Appendix of official forms.
+Section 101. Short title; how cited.
+        102. Application of CPLR and other laws.
+        103. Definitions.
+        104. Application of act; confirmation of previous acts.
+        105. Rules for surrogates' courts.
+        106. Appendix of official forms.
+        107. Use of electronic filing authorized
 ```
 
 </details>

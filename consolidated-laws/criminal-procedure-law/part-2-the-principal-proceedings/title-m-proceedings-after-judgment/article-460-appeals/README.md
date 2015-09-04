@@ -14,6 +14,7 @@
 - [§ 460.60 Stay of judgment pending appeal to court of appeals from intermediate appellate court](460.60-stay-of-judgment-pending-appeal-to-court.md)
 - [§ 460.70 Appeal; how perfected](460.70-appeal-how-perfected.md)
 - [§ 460.80 Appeal; argument and submission thereof](460.80-appeal-argument-and-submission-thereof.md)
+- [§ 460.90 Filing of papers on appeal to the appellate division by electronic means](460.90-filing-of-papers-on-appeal.md)
 
 <details>
 <summary>Official heading of Article 460, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -34,6 +35,8 @@ Section 460.10 Appeal; how taken.
                  intermediate appellate court.
         460.70 Appeal; how perfected.
         460.80 Appeal; argument and submission thereof.
+        460.90 Filing of papers on appeal to the appellate division by
+                 electronic means.
 ```
 
 </details>

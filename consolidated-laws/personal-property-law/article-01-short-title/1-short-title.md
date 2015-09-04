@@ -4,6 +4,6 @@
 [Personal Property Law](../README.md) › [Article 1 — Short Title](README.md)
 
 ```text
-  Sec. 1.  Short title.  This chapter shall be known as the "Personal
+  Section 1. Short title. This chapter shall be known as the "Personal
 Property Law."
 ```

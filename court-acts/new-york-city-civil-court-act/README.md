@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CCA |
 | Type | Court act |
-| Sections | 157 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 158 |
+| Last changed | 4 Sep 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | New York City Civil Court |
 
@@ -30,6 +30,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (29 lines)](chapter-text.md)
+
+## Recent changes
+
+- [4 Sep 2015](../../changes/2015/2015-09-04.md): 1 added
 
 ## Contents
 

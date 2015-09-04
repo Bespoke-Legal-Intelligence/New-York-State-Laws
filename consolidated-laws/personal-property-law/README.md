@@ -8,11 +8,11 @@
 | Senate code | PEP |
 | Type | Consolidated law, chapter 41 |
 | Sections | 135 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 4 Sep 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Personal Property |
 
-**Short title (from the law itself):** Sec. 1. Short title. This chapter shall be known as the "Personal Property Law."
+**Short title (from the law itself):** Section 1. Short title. This chapter shall be known as the "Personal Property Law."
 
 ## Chapter text as published
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (25 lines)](chapter-text.md)
+
+## Recent changes
+
+- [4 Sep 2015](../../changes/2015/2015-09-04.md): 4 amended
 
 ## Contents
 

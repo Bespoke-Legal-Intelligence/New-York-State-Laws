@@ -240,13 +240,12 @@ or foreign commerce, machinery or equipment to be installed on such
 aircraft and property used by or purchased for the use of such aircraft
 for maintenance and repairs and flight simulators purchased by
 commercial airlines.
-  * (21-a) General aviation aircraft, and machinery or equipment to be
+  (21-a) General aviation aircraft, and machinery or equipment to be
 installed on such aircraft. For purposes of this subdivision, "general
 aviation aircraft" means an aircraft that is used in civil aviation,
 that is not a commercial aircraft as defined in paragraph seventeen of
 subdivision (b) of section eleven hundred one of this article, military
 aircraft, unmanned aerial vehicle or drone.
-  * NB Effective September 1, 2015
   (22) The rental or lease of trucks, tractors or tractor-trailer
 combinations to an authorized carrier, pursuant to a written contractual
 agreement, for use in the transportation for hire of tangible personal
@@ -1468,6 +1467,5 @@ nineteen, except with respect to sales made, services rendered, or uses
 occurring pursuant to binding contracts entered into on or before such
 date; but in no case shall such exemption apply after June thirtieth,
 two thousand twenty-four.
-  * NB Effective September 1, 2015
   * NB There are 2 sb (jj)'s
 ```

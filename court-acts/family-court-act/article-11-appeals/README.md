@@ -16,6 +16,7 @@
 - [§ 1119 Effective date](1119-effective-date.md)
 - [§ 1120 Counsel for parties and children on appeal](1120-counsel-for-parties-and-children-on-appeal.md)
 - [§ 1121 Special procedures](1121-special-procedures.md)
+- [§ 1122 Filing of papers on appeal to the appellate division by electronic means](1122-filing-of-papers-on-appeal-to-the-appellate-division-by-electronic-means.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,9 +32,11 @@ Section 1111. Appeals to appellate division.
         1116. Printed case and brief not required.
         1117. Costs.
         1118. Applicability of civil practice law and rules.
-        2119. Effective date.
+        1119. Effective date.
         1120. Counsel for parties and children on appeal.
         1121. Special procedures.
+        1122. Filing of papers on appeal to the appellate division by
+                electronic means.
 ```
 
 </details>

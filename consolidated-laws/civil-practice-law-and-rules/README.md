@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
-| Sections | 776 |
-| Last changed | 10 Jul 2015 |
+| Sections | 779 |
+| Last changed | 4 Sep 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -25,10 +25,11 @@ AN ACT in relation to civil practice and prescribing rules of civil
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (96 lines)](chapter-text.md)
+[Full chapter text (98 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Sep 2015](../../changes/2015/2015-09-04.md): 3 added
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 1 amended
 - [16 Jan 2015](../../changes/2015/2015-01-16.md): 2 amended
@@ -56,6 +57,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [Article 16 — Limited Liability of Persons Jointly Liable](article-016-limited-liability-of-persons-jointly-liable/)
 - [Article 20 — Mistakes, Defects, Irregularities and Extensions of Time](article-020-mistakes-defects-irregularities-and-extensions/)
 - [Article 21 — Papers](article-021-papers/)
+- [Article 21-A — Filing of Papers In the Courts By Facsimile Transmission and By Electronic Means](article-021a-filing-of-papers-in-the-courts-by-facsimile/)
 - [Article 22 — Stay, Motions, Orders and Mandates](article-022-stay-motions-orders-and-mandates/)
 - [Article 23 — Subpoenas, Oaths and Affirmations](article-023-subpoenas-oaths-and-affirmations/)
 - [Article 24 — Publication](article-024-publication/)

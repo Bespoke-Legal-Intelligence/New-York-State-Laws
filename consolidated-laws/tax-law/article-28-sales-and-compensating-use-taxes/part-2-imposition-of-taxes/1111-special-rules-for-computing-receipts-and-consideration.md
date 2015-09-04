@@ -126,59 +126,10 @@ hundred ten shall be deemed to include any tax imposed on cigarettes and
 tobacco products by article twenty of this chapter and any tax imposed
 on cigarettes by chapter thirteen of title eleven of the administrative
 code of the city of New York.
-  (i) * (A) Notwithstanding any contrary provisions of this article or
+  (i) (A) Notwithstanding any contrary provisions of this article or
 other law, with respect to any lease for a term of one year or more of
 (1) a motor vehicle, as defined in section one hundred twenty-five of
 the vehicle and traffic law, with a gross vehicle weight of ten thousand
-pounds or less, (2) a vessel, as defined in section twenty-two hundred
-fifty of such law (including any inboard or outboard motor and any
-trailer, as defined in section one hundred fifty-six of such law, leased
-in conjunction with such a vessel) and (3) noncommercial aircraft having
-a seating capacity of less than twenty passengers and a maximum payload
-capacity of less than six thousand pounds, or an option to renew such a
-lease or a similar contractual provision, all receipts due or
-consideration given or contracted to be given for such property under
-and for the entire period of such lease, option to renew or similar
-provision, or combination of them, shall be deemed to have been paid or
-given and shall be subject to tax, and any such tax due shall be
-collected, as of the date of first payment under such lease, option to
-renew or similar provision, or combination of them, or as of the date of
-registration of such property with the commissioner of motor vehicles,
-whichever is earlier. Notwithstanding any inconsistent provisions of
-subdivision (b) of this section or of section eleven hundred seventeen
-of this article or of other law, for purposes of such a lease, option to
-renew or similar provision originally entered into outside this state,
-by a lessee (1) who was a resident of this state, and leased such
-property for use outside the state and who subsequently brings such
-property into this state for use here or (2) who was a nonresident and
-subsequently becomes a resident and brings the property into this state
-for use here, any remaining receipts due or consideration to be given
-after such lessee brings such property into this state shall be subject
-to tax as if the lessee had entered into or exercised such lease, option
-to renew or similar provision, or combination thereof, for the first
-time in this state and the relevant provisions of sections eleven
-hundred ten concerning imposition and computation of tax, eleven hundred
-eighteen concerning exemption from use tax for tax paid to another
-jurisdiction, eleven hundred thirty-two concerning presumption of
-taxability and conditions for registration and eleven hundred
-thirty-nine concerning refunds, of this article, shall be applicable to
-any sales or compensating use tax paid by the lessee before the lessee
-brought the property into this state, except to the extent that any such
-provision is inconsistent with a provision of this subdivision. For
-purposes of this subdivision, (1) a lease for a term of one year or more
-shall include any lease for a shorter term which includes an option to
-renew or other like provision (or more than one of such option or other
-provision) where the cumulative period that the lease, with or without
-such option or provision, may be in effect upon exercise of such option
-or provision is one year or more and (2) receipts due and consideration
-given or contracted to be given under any such lease or other provision
-for excess mileage charges shall be subject to tax as and when paid or
-due.
-  * NB Effective until September 1, 2015
-  * (A) Notwithstanding any contrary provisions of this article or other
-law, with respect to any lease for a term of one year or more of (1) a
-motor vehicle, as defined in section one hundred twenty-five of the
-vehicle and traffic law, with a gross vehicle weight of ten thousand
 pounds or less, or (2) a vessel, as defined in section twenty-two
 hundred fifty of such law (including any inboard or outboard motor and
 any trailer, as defined in section one hundred fifty-six of such law,
@@ -221,7 +172,6 @@ or provision is one year or more and (2) receipts due and consideration
 given or contracted to be given under any such lease or other provision
 for excess mileage charges shall be subject to tax as and when paid or
 due.
-  * NB Effective September 1, 2015
   (B) Notwithstanding any inconsistent provisions of this subdivision,
 with respect to a lease of a motor vehicle described in paragraph (A) of
 this subdivision for a term of one year or more (1) which includes an
@@ -540,69 +490,7 @@ building site as a modular home if such installation charge is
 reasonable and stated separately from every other charge, and (ii) one
 hundred percent of any charges for shipping or delivery as described in
 such paragraph three of subdivision (b) of section eleven hundred one.
-  * (q) (1) The exclusions from the definition of retail sale in
-subparagraph (iv) of paragraph four of subdivision (b) of section eleven
-hundred one of this article shall not apply to transfers, distributions,
-or contributions of an aircraft or vessel, except where, in the case of
-the exclusion in subclause (I) of clause (A) of such subparagraph (iv),
-the two corporations to be merged or consolidated are not affiliated
-persons with respect to each other. For purposes of this subdivision,
-corporations are affiliated persons with respect to each other where (i)
-more than five percent of their combined shares are owned by members of
-the same family, as defined by paragraph four of subsection (c) of
-section two hundred sixty-seven of the internal revenue code of nineteen
-hundred eighty-six; (ii) one of the corporations has an ownership
-interest of more than five percent, whether direct or indirect, in the
-other; or (iii) another person or a group of other persons that are
-affiliated persons with respect to each other hold an ownership interest
-of more than five percent, whether direct or indirect, in each of the
-corporations.
-  (2) Notwithstanding any contrary provision of law, in relation to any
-transfer, distribution, or contribution of an aircraft or vessel that
-qualifies as a retail sale as a result of paragraph one of this
-subdivision, the sales tax imposed by subdivision (a) of section eleven
-hundred five of this part shall be computed based on the price at which
-the seller purchased the tangible personal property, provided that where
-the seller or purchaser affirmatively shows that the seller owned the
-property for six months prior to making the transfer, distribution or
-contribution covered by paragraph one of this subdivision, such aircraft
-or vessel shall be taxed on the basis of the current market value of the
-aircraft or vessel at the time of that transfer, distribution, or
-contribution. For the purposes of the prior sentence, "current market
-value" shall not exceed the cost of the aircraft or vessel. See
-subdivision (b) of this section for a similar rule on the computation of
-any compensating use tax due under section eleven hundred ten of this
-part on such transfers, distributions, or contributions.
-  (3) A purchaser of an aircraft or vessel covered by paragraph one of
-this subdivision will be entitled to a refund or credit against the
-sales or compensating use tax due as a result of a transfer,
-distribution, or contribution of such aircraft or vessel in the amount
-of any sales or use tax paid to this state or any other state on the
-seller's purchase or use of the aircraft or vessel so transferred,
-distributed or contributed, but not to exceed the tax due on the
-transfer, distribution, or contribution of the aircraft or vessel or on
-the purchaser's use in the state of the aircraft or vessel so
-transferred, distributed or contributed. An application for a refund or
-credit under this subdivision must be filed and shall be in such form as
-the commissioner may prescribe. Where an application for credit has been
-filed, the applicant may immediately take such credit on the return
-which is due coincident with or immediately subsequent to the time the
-application for credit is filed. However, the taking of the credit on
-the return shall be deemed to be part of the application for credit.
-Provided that the commissioner may, in his or her discretion and
-notwithstanding any other law, waive the application requirement for any
-or all classes of persons where the amount of the credit or refund is
-equal to the amount of the tax due from the purchaser. The provisions of
-subdivisions (a), (b), and (c) of section eleven hundred thirty-nine of
-this article shall apply to applications for refund or credit under this
-subdivision. No interest shall be allowed or paid on any refund made or
-credit allowed under this subdivision. If a refund is granted or a
-credit allowed under this paragraph, the seller or purchaser shall not
-be eligible for a refund or credit pursuant to subdivision seven of
-section eleven hundred eighteen of this article with regard to the same
-purchase or use.
-  * NB Effective until September 1, 2015
-  * (q) (1) The exclusions from the definition of retail sale in
+  (q) (1) The exclusions from the definition of retail sale in
 subparagraph (iv) of paragraph four of subdivision (b) of section eleven
 hundred one of this article shall not apply to transfers, distributions,
 or contributions of a vessel, except where, in the case of the exclusion
@@ -661,7 +549,6 @@ credit allowed under this paragraph, the seller or purchaser shall not
 be eligible for a refund or credit pursuant to subdivision seven of
 section eleven hundred eighteen of this article with regard to the same
 purchase or use.
-  * NB Effective September 1, 2015
   (r) (1) In regard to the collection of sales tax on occupancies by
 room remarketers, when occupancy is provided for a single consideration
 with property, services, amusement charges, or any other items, whether
