@@ -4,10 +4,10 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4-A — Special Provisions Relating to Cider](README.md)
 
 ```text
-  * § 59-a. Cider tasting. Any person holding a retail license under
-this chapter shall be permitted to conduct consumer tastings of cider
-upon such person's licensed premises. All such tastings shall be subject
-to the following limitations:
+  § 59-a. Cider tasting. Any person holding a retail license under this
+chapter shall be permitted to conduct consumer tastings of cider upon
+such person's licensed premises. All such tastings shall be subject to
+the following limitations:
   (a) Tastings of cider shall be conducted by the licensee or an
 authorized agent of the licensee. Provided, however, a licensed beer or
 cider wholesaler shall not serve as the authorized agent for another
@@ -25,5 +25,4 @@ of sections 11-100 and 11-101 of the general obligations law shall
 accrue to the licensee.
   (f) No person under the age of twenty-one shall be permitted to serve
 a sample or handle an open container of cider.
-  * NB Effective September 13, 2015
 ```

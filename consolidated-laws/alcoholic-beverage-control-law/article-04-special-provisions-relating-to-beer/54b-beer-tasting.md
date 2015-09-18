@@ -4,9 +4,9 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4 — Special Provisions Relating to Beer](README.md)
 
 ```text
-  * § 54-b. Beer tasting. Any person holding a retail license to sell
-beer under this chapter shall be permitted to conduct consumer tastings
-of beer upon such person's licensed premises. All such tastings shall be
+  § 54-b. Beer tasting. Any person holding a retail license to sell beer
+under this chapter shall be permitted to conduct consumer tastings of
+beer upon such person's licensed premises. All such tastings shall be
 subject to the following limitations:
   (a) Tastings of beer shall be conducted by the licensee or an
 authorized agent of the licensee. Provided, however, a licensed beer or
@@ -25,5 +25,4 @@ of sections 11-100 and 11-101 of the general obligations law shall
 accrue to the licensee.
   (f) No person under the age of twenty-one shall be permitted to serve
 a sample or handle an open container of beer.
-  * NB Effective September 13, 2015
 ```

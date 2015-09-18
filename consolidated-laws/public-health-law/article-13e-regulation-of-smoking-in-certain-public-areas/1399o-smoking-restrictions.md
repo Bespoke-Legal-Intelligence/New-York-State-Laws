@@ -78,8 +78,8 @@ provisions of this subdivision shall not apply to smoking in a
 residence, or within the real property boundary lines of such
 residential real property. The provisions of section thirteen hundred
 ninety-nine-p of this article shall not apply to this subdivision.
-  * 4. Smoking shall not be permitted and no person shall smoke within
-one hundred feet of the entrances, exits or outdoor areas of any
+  4. Smoking shall not be permitted and no person shall smoke within one
+hundred feet of the entrances, exits or outdoor areas of any
 after-school program licensed or registered pursuant to section three
 hundred ninety of the social services law; provided, however, that the
 provisions of this subdivision shall only apply on those days and during
@@ -87,5 +87,4 @@ those hours in which such after-school programs are operational; and
 provided, further, that the provisions of this subdivision shall not
 apply to smoking in a residence, or within the real property boundary
 lines of such residential real property.
-  * NB Effective September 12, 2015
 ```

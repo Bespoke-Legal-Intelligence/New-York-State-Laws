@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 4 Sep 2015.*
+*Current through the publication of 18 Sep 2015.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [18 Sep 2015](changes/2015/2015-09-18.md): Alcoholic Beverage Control Law; Public Health Law
 - [4 Sep 2015](changes/2015/2015-09-04.md): Civil Practice Law and Rules; Court of Claims Act; Criminal Procedure Law; Environmental Conservation Law; Executive Law; Family Court Act; Judiciary Law; New York City Civil Court Act; Personal Property Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Surrogate's Court Procedure Act; Tax Law
 - [28 Aug 2015](changes/2015/2015-08-28.md): General Municipal Law; Mental Hygiene Law; Public Officers Law; Vehicle and Traffic Law
 - [21 Aug 2015](changes/2015/2015-08-21.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Banking Law; Civil Rights Law; Criminal Procedure Law; Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; Highway Law; Indian Law; Mental Hygiene Law; Public Health Law; Public Officers Law; Real Property Tax Law; Social Services Law; State Finance Law; State Law; Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [7 Aug 2015](changes/2015/2015-08-07.md): Environmental Conservation Law; Executive Law; Labor Law; Private Housing Finance Law; Retirement and Social Security Law
 - [31 Jul 2015](changes/2015/2015-07-31.md): Education Law; Election Law; Executive Law; General Business Law; Insurance Law; Labor Law; Private Housing Finance Law; Public Authorities Law; Real Property Tax Law; State Finance Law
 - [24 Jul 2015](changes/2015/2015-07-24.md): Environmental Conservation Law; General Business Law; Public Officers Law
-- [17 Jul 2015](changes/2015/2015-07-17.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Environmental Conservation Law; General Municipal Law; Local Finance Law; Tax Law; Transportation Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -31,7 +31,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 276 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 223 |
 | [Education Law](consolidated-laws/education-law/README.md) | 220 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 147 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 149 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | 122 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 118 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 111 |
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Nov 2014 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 664 | 21 Aug 2015 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 166 | 21 Aug 2015 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 166 | 18 Sep 2015 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 250 | 22 May 2015 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 837 | 21 Aug 2015 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 14 Aug 2015 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 31 Jul 2015 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 48 | 10 Jul 2015 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,611 | 4 Sep 2015 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,611 | 18 Sep 2015 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | 10 Apr 2015 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 28 Aug 2015 |
