@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous Provisions](README.md)
 
 ```text
-  * § 9-v. Savings promotion prize giveaway. A banking organization
+  § 9-v. Savings promotion prize giveaway. A banking organization
 organized under or subject to the provisions of this chapter, federal
 credit union, federal savings bank, federal savings and loan
 association, or national bank association may conduct a savings
@@ -57,5 +57,4 @@ manner as other promotions regulated thereunder. For purposes of the
 general business law and the penal law, a savings promotion offered in
 accordance with this chapter shall not be deemed to entail consideration
 or the promotion of gambling or a lottery.
-  * NB Effective September 23, 2015
 ```

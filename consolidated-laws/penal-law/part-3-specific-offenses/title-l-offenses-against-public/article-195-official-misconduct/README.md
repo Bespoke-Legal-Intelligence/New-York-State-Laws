@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 195.00 Official misconduct](195.00-official-misconduct.md)
+- [§ 195.02 Concealment of a human corpse](195.02-concealment-of-a-human-corpse.md)
 - [§ 195.05 Obstructing governmental administration in the second degree](195.05-obstructing-governmental-administration.md)
 - [§ 195.06 Killing or injuring a police animal](195.06-killing-or-injuring-a-police-animal.md)
 - [§ 195.06-A Killing a police work dog or police work horse](195.06-a-killing-a-police-work-dog-or-police-work-horse.md)
@@ -27,6 +28,7 @@
          OFFICIAL MISCONDUCT AND OBSTRUCTION OF PUBLIC SERVANTS
                                 GENERALLY
 Section 195.00   Official misconduct.
+        195.02   Concealment of a human corpse.
         195.05   Obstructing governmental administration in the second
                    degree.
         195.06   Killing or injuring a police animal.

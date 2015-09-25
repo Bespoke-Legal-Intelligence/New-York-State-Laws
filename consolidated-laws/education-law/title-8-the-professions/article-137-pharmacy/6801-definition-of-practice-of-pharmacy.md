@@ -69,5 +69,5 @@ of section sixty-eight hundred one-a of this article.
 profession of pharmacy is defined as the preparing, compounding,
 preserving, or the dispensing of drugs, medicines and therapeutic
 devices on the basis of prescriptions or other legal authority.
-  * NB Effective September 14, 2015
+  * NB Effective September 14, 2018
 ```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 42-0107", "kind": "section", "law_id": "ENV", "location_id": "42-0107", "path": "ARTICLE 42 › SECTION 42-0107", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/42-0107.md", "title": "Powers and duties of the partnership"} -->
 # Environmental Conservation Law § 42-0107 — Powers and duties of the partnership
 
-[Environmental Conservation Law](../README.md) › [Article 42 — Historic Saratoga-washington On the Hudson Partnership](README.md)
+[Environmental Conservation Law](../README.md) › [Article 42 — Historic Hudson-hoosic Rivers Partnership](README.md)
 
 ```text
 § 42-0107. Powers and duties of the partnership.
