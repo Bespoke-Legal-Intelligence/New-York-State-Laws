@@ -1,0 +1,75 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-602", "kind": "section", "law_id": "FCT", "location_id": "580-602", "path": "ARTICLE 5-B › PART 6 › SUBPART A › SECTION 580-602", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-602.md", "title": "Procedure to register order for enforcement"} -->
+# Family Court Act § 580-602 — Procedure to register order for enforcement
+
+[Family Court Act](../../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../../README.md) › [Part 6 — Enforcement and Modification of Support Order After Registration](../README.md) › [Subpart A — Registration and Enforcement of Support Order](README.md)
+
+```text
+  * § 580-602. Procedure to register order for enforcement. (a) A
+support order or income-withholding order of another state may be
+registered in this state by sending the following documents and
+information to the appropriate tribunal in this state:
+  (1) a letter of transmittal to the tribunal requesting registration
+and enforcement;
+  (2) two copies, including one certified copy, of all orders to be
+registered, including any modification of an order;
+  (3) a sworn statement by the party seeking registration or a certified
+statement by the custodian of the records showing the amount of any
+arrearage;
+  (4) the name of the obligor and, if known:
+  (i) the obligor's address and social security number;
+  (ii) the name and address of the obligor's employer and any other
+source of income of the obligor; and
+  (iii) a description and the location of property of the obligor in
+this state not exempt from execution; and
+  (5) the name and address of the obligee and, if applicable, the agency
+or person to whom support payments are to be remitted.
+  (b) On receipt of a request for registration, the registering tribunal
+shall cause the order to be filed as a foreign judgment, together with
+one copy of the documents and information, regardless of their form.
+  (c) A petition or comparable pleading seeking a remedy that must be
+affirmatively sought under other laws of this state may be filed at the
+same time as the request for registration or later. The pleading must
+specify the grounds for the remedy sought.
+  * NB Effective until January 1, 2016
+  * § 580-602. Procedure to register order for enforcement. (a) Except
+as otherwise provided in section 580-706 of this article, a support
+order or income withholding order of another state or a foreign support
+order may be registered in this state by sending the following records
+to the appropriate tribunal in this state:
+  (1) a letter of transmittal to the tribunal requesting registration
+and enforcement;
+  (2) two copies, including one certified copy, of the order to be
+registered, including any modification of the order;
+  (3) a sworn statement by the person requesting registration or a
+certified statement by the custodian of the records showing the amount
+of any arrearage;
+  (4) the name of the obligor and, if known:
+  (i) the obligor's address and social security number;
+  (ii) the name and address of the obligor's employer and any other
+source of income of the obligor; and
+  (iii) a description and the location of property of the obligor in
+this state not exempt from execution; and
+  (5) except as otherwise provided in section 580-312 of this article,
+the name and address of the obligee and, if applicable, the person to
+whom support payments are to be remitted.
+  (b) On receipt of a request for registration, the registering tribunal
+shall cause the order to be filed as an order of a tribunal of another
+state or a foreign support order, together with one copy of the
+documents and information, regardless of their form.
+  (c) A petition or comparable pleading seeking a remedy that must be
+affirmatively sought under other law of this state may be filed at the
+same time as the request for registration or later. The pleading must
+specify the grounds for the remedy sought.
+  (d) If two or more orders are in effect, the person requesting
+registration shall:
+  (1) furnish to the tribunal a copy of every support order asserted to
+be in effect in addition to the documents specified in this section;
+  (2) specify the order alleged to be the controlling order, if any; and
+  (3) specify the amount of consolidated arrears, if any.
+  (e) A request for a determination of which is the controlling order
+may be filed separately or with a request for registration and
+enforcement or for registration and modification. The person requesting
+registration shall give notice of the request to each party whose rights
+may be affected by the determination.
+  * NB Effective January 1, 2016
+```

@@ -4,11 +4,11 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 8 — Interstate Rendition](README.md)
 
 ```text
-  § 580-802. Conditions of rendition.  (a) Before making demand that the
-governor of another state surrender an individual charged criminally in
-this state with having failed to provide for the support of an obligee,
-the governor of this state may require a prosecutor of this state to
-demonstrate that at least sixty days previously the obligee had
+  * § 580-802. Conditions of rendition. (a) Before making demand that
+the governor of another state surrender an individual charged criminally
+in this state with having failed to provide for the support of an
+obligee, the governor of this state may require a prosecutor of this
+state to demonstrate that at least sixty days previously the obligee had
 initiated proceedings for support pursuant to this article or that the
 proceeding would be of no avail.
   (b) If, under this article or a law substantially similar to this
@@ -25,8 +25,33 @@ the demand for a reasonable time to permit the initiation of a
 proceeding.
   (c) If a proceeding for support has been initiated and the individual
 whose rendition is demanded prevails, the governor may decline to honor
-the demand.  If the petitioner prevails and the individual whose
+the demand. If the petitioner prevails and the individual whose
 rendition is demanded is subject to a support order, the governor may
 decline to honor the demand if the individual is complying with the
 support order.
+  * NB Effective until January 1, 2016
+  * § 580-802. Conditions of rendition. (a) Before making a demand that
+the governor of another state surrender an individual charged criminally
+in this state with having failed to provide for the support of an
+obligee, the governor of this state may require a prosecutor of this
+state to demonstrate that at least sixty days previously the obligee had
+initiated proceedings for support pursuant to this article or that the
+proceeding would be of no avail.
+  (b) If, under this article or a law substantially similar to this
+article, the governor of another state makes a demand that the governor
+of this state surrender an individual charged criminally in that state
+with having failed to provide for the support of a child or other
+individual to whom a duty of support is owed, the governor may require a
+prosecutor to investigate the demand and report whether a proceeding for
+support has been initiated or would be effective. If it appears that a
+proceeding would be effective but has not been initiated, the governor
+may delay honoring the demand for a reasonable time to permit the
+initiation of a proceeding.
+  (c) If a proceeding for support has been initiated and the individual
+whose rendition is demanded prevails, the governor may decline to honor
+the demand. If the petitioner prevails and the individual whose
+rendition is demanded is subject to a support order, the governor may
+decline to honor the demand if the individual is complying with the
+support order.
+  * NB Effective January 1, 2016
 ```

@@ -4,7 +4,12 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  § 580-302. Action by minor parent.  A minor parent, or a guardian or
+  * § 580-302. Action by minor parent. A minor parent, or a guardian or
 other legal representative of a minor parent, may maintain a proceeding
 on behalf of or for the benefit of the minor's child.
+  * NB Effective until January 1, 2016
+  * § 580-302. Proceeding by a minor parent. A minor parent, or a
+guardian or other legal representative of a minor parent, may maintain a
+proceeding on behalf of or for the benefit of the minor's child.
+  * NB Effective January 1, 2016
 ```

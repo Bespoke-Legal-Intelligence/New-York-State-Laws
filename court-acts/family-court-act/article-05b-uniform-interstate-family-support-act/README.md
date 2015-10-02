@@ -6,17 +6,12 @@
 ## Contents
 
 - [Part 1 — General Provisions](part-1-general-provisions/)
-- [Part 2 Jurisdiction](part-2-jurisdiction.md)
-- [Part 2A — Extended Personal Jurisdiction](part-2a-extended-personal-jurisdiction/)
-- [Part 2B — Proceedings Involving Two or More States](part-2b-proceedings-involving-two-or-more/)
+- [Part 2 — Jurisdiction](part-2-jurisdiction/)
 - [Part 2C — Reconciliation of Multiple Orders](part-2c-reconciliation-of-multiple-orders/)
 - [Part 3 — Civil Provisions of General Application](part-3-civil-provisions-of-general/)
 - [Part 4 — Establishment of Support Order](part-4-establishment-of-support-order/)
 - [Part 5 — Enforcement of Order of Another State Without Registration](part-5-enforcement-of-order-of-another/)
-- [Part 6 Enforcement and Modification of Support Order After Registration](part-6-enforcement-and-modification-of-support-order-after-registration.md)
-- [Part 6A — Registration and Enforcement of Support Order](part-6a-registration-and-enforcement/)
-- [Part 6B — Contest of Validity or Enforcement](part-6b-contest-of-validity-or-enforcement/)
-- [Part 6C — Registration and Modification of Child Support Order](part-6c-registration-and-modification/)
+- [Part 6 — Enforcement and Modification of Support Order After Registration](part-6-enforcement-and-modification/)
 - [Part 7 — Determination of Parentage](part-7-determination-of-parentage/)
 - [Part 8 — Interstate Rendition](part-8-interstate-rendition/)
 - [Part 9 — Miscellaneous Provisions](part-9-miscellaneous-provisions/)
@@ -25,7 +20,7 @@
 <summary>Official heading of Article 5-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 5-B
+                              * ARTICLE 5-B
                   UNIFORM INTERSTATE FAMILY SUPPORT ACT
 Part 1. General provisions.
         Section 580-101. Definitions.
@@ -116,6 +111,19 @@ Part 9. Miscellaneous provisions.
         Section 580-903. Severability clause.
         Section 580-904. Effective date.
         Section 580-905. Repeals.
+  * NB Effective until January 1, 2016
+                               * ARTICLE 5-B
+                  UNIFORM INTERSTATE FAMILY SUPPORT ACT
+PART 1.   General provisions.
+     2.   Jurisdiction.
+     3.   Civil provisions of general application.
+     4.   Establishment of support order or determination of parentage.
+     5.   Enforcement of support order without registration.
+     6.   Registration, enforcement and modification of support order.
+     7.   Support proceeding under convention.
+     8.   Interstate rendition.
+     9.   Miscellaneous provisions.
+  * NB Effective January 1, 2016
 ```
 
 </details>

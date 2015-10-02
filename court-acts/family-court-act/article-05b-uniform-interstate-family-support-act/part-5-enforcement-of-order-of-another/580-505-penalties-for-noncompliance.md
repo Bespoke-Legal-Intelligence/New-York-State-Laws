@@ -4,9 +4,16 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 5 — Enforcement of Order of Another State Without Registration](README.md)
 
 ```text
-  § 580-505. Penalties for noncompliance.  An employer who willfully
+  * § 580-505. Penalties for noncompliance. An employer who willfully
 fails to comply with an income-withholding order issued by another state
 and received for enforcement is subject to the same penalties that may
 be imposed for noncompliance with an order issued by a tribunal of this
 state.
+  * NB Effective until January 1, 2016
+  * § 580-505. Penalties for noncompliance. An employer that willfully
+fails to comply with an income withholding order issued in another state
+and received for enforcement is subject to the same penalties that may
+be imposed for noncompliance with an order issued by a tribunal of this
+state.
+  * NB Effective January 1, 2016
 ```

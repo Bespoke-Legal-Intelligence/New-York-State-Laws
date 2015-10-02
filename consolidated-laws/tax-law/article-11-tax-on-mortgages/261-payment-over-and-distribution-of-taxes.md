@@ -63,7 +63,7 @@ and all expenses incurred by such county for county office and court
 facility projects and, after all such expenses are paid, for any and all
 expenses incurred by such county for county correctional and public
 safety facility projects;
-  * NB Effective until December 1, 2015
+  * NB Effective until December 1, 2018
   * (g) with respect to the counties of Washington and Warren, to the
 county treasurer of such county to be used to pay for any and all
 expenses incurred by such counties for the support of community colleges
@@ -71,7 +71,7 @@ pursuant to article one hundred twenty-six of the education law; with
 respect to the county of Essex, to the county treasurer of such county
 to be used to pay for any and all expenses incurred by such county for
 county office and court facility projects;
-  * NB Effective December 1, 2015
+  * NB Effective December 1, 2018
 (h) with respect to the county of Franklin, to the county treasurer of
 such county to be used to pay for any and all expenses incurred by such
 county for county office and county correctional facility projects; (i)
@@ -96,7 +96,7 @@ correctional facility and public safety building complex and the county
 composting facility; * (n) with respect to the county of Fulton, to the
 county treasurer of such county for deposit into the general fund of the
 county of Fulton;
-  * NB Repealed November 30, 2015
+  * NB Repealed November 30, 2017
 (o) with respect to the county of Steuben, to the county treasurer of
 such county for deposit into the general fund of the county of Steuben;
 (p) with respect to the remaining counties of the state except

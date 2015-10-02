@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  § 580-301. Proceedings under article.  (a) Except as otherwise
+  * § 580-301. Proceedings under article. (a) Except as otherwise
 provided in this article, this part applies to all proceedings under
 this article.
   (b) This article provides for the following proceedings:
@@ -27,4 +27,15 @@ in an initiating tribunal for forwarding to a responding tribunal or by
 filing a petition or a comparable pleading directly in a tribunal of
 another state which has or can obtain personal jurisdiction over the
 respondent.
+  * NB Effective until January 1, 2016
+  * § 580-301. Proceedings under article. (a) Except as otherwise
+provided in this article, this part applies to all proceedings under
+this article.
+  (b) An individual petitioner or a support enforcement agency may
+initiate a proceeding authorized under this article by filing a petition
+in an initiating tribunal for forwarding to a responding tribunal or by
+filing a petition or a comparable pleading directly in a tribunal of
+another state or a foreign country which has or can obtain personal
+jurisdiction over the respondent.
+  * NB Effective January 1, 2016
 ```

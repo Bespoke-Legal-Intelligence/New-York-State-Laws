@@ -4,6 +4,10 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  § 580-309. Private counsel.  An individual may employ private counsel
+  * § 580-309. Private counsel. An individual may employ private counsel
 to represent the individual in proceedings authorized by this article.
+  * NB Effective until January 1, 2016
+  * § 580-309. Private counsel. An individual may employ private counsel
+to represent the individual in proceedings authorized by this article.
+  * NB Effective January 1, 2016
 ```

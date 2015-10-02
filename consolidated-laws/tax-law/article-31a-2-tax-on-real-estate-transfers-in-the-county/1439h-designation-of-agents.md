@@ -11,6 +11,6 @@ provide for the manner in which such person may be designated as its
 agent subject to such terms and conditions as it shall prescribe. The
 real estate transfer tax shall be paid to such agent as provided in
 section fourteen hundred thirty-nine-c of this article.
-  * NB Repealed December 31, 2015
+  * NB Repealed December 31, 2017
   * NB There are 3 § 1439-h's
 ```

@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 9 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 580-905. Repeals.  Article three-A of the domestic relations law is
+  * § 580-905. Repeals. Article three-A of the domestic relations law is
 repealed except as to pending cases maintainable under subdivision one
 of section thirty-five of the domestic relations law; provided, however,
 no new petition may be commenced under such article three-A.
@@ -25,4 +25,5 @@ forty-two of the civil practice law and rules are amended to conform to
 section 466(f) of the social security act, as amended by section 321 of
 title III of the personal responsibility and work opportunity
 reconciliation act of 1996 (P.L. 104-193).
+  * NB Effective until January 1, 2016
 ```

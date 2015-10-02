@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-105", "kind": "section", "law_id": "FCT", "location_id": "580-105", "path": "ARTICLE 5-B › PART 1 › SECTION 580-105", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-105.md", "title": "Application of the article to a resident of a foreign country and foreign support proceedings"} -->
+# Family Court Act § 580-105 — Application of the article to a resident of a foreign country and foreign support proceedings
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 1 — General Provisions](README.md)
+
+```text
+  * § 580-105. Application of the article to a resident of a foreign
+country and foreign support proceedings. (a) A tribunal of this state
+shall apply parts one through six of this article and, as applicable,
+part seven of this article, to a support proceeding involving:
+  (1) a foreign support order;
+  (2) a foreign tribunal; or
+  (3) an obligee, obligor, or child residing in a foreign country.
+  (b) A tribunal of this state that is requested to recognize and
+enforce a support order on the basis of comity may apply the procedural
+and substantive provisions of parts one through six of this article.
+  (c) Part seven of this article applies only to a support proceeding
+under the convention. In such a proceeding, if a provision of part seven
+of this article is inconsistent with parts one through six of this
+article, part seven of this article controls.
+  * NB Effective January 1, 2016
+```

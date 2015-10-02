@@ -4,11 +4,12 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 9 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 580-904. Effective date. This article takes effect on the
+  * § 580-904. Effective date. This article takes effect on the
 thirty-first day of December, nineteen hundred ninety-seven, and shall
 apply to actions, proceedings, and accompanying documents filed and
 orders issued on or before the thirtieth day of December, nineteen
 hundred ninety-seven which substantially comply with the requirements of
 article three-A of the domestic relations law and shall apply to all
 actions or proceedings on or after such effective date.
+  * NB Effective until January 1, 2016
 ```

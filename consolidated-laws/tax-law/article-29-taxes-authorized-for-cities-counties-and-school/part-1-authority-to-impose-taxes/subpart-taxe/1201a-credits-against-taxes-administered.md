@@ -136,5 +136,5 @@ appropriate.
 a credit as authorized by this subdivision for a maximum of three
 consecutive calendar years, provided, however, that any such credit may
 not apply to taxable years beginning before January first, two thousand
-ten or beginning on or after January first, two thousand sixteen.
+ten or beginning on or after January first, two thousand nineteen.
 ```

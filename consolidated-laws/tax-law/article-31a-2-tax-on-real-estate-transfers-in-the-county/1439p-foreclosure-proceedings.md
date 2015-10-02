@@ -11,5 +11,5 @@ or sheriff effectuating such transfer shall not be liable for any
 interest or penalties that are authorized pursuant to this article or
 article thirty-seven of this chapter.
   * NB There are 3 § 1439-p's
-  * NB Repealed December 31, 2015
+  * NB Repealed December 31, 2017
 ```

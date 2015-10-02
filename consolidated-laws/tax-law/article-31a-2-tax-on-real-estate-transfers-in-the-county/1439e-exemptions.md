@@ -46,6 +46,6 @@ three-family house, an individual residential condominium unit or the
 sale of stock in a cooperative housing corporation in connection with
 the grant or transfer of a proprietary leasehold covering an individual
 residential cooperative unit.
-  * NB Repealed December 31, 2015
+  * NB Repealed December 31, 2017
   * NB There are 3 § 1439-e's
 ```

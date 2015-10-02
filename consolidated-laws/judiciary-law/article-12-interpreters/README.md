@@ -10,7 +10,7 @@
 - [§ 387 Temporary appointment of interpreters](387-temporary-appointment-of-interpreters.md)
 - [§ 388 Polish and Italian interpreters for Erie county](388-polish-and-italian-interpreters-for-erie-county.md)
 - [§ 389 Appointment of additional interpreter for Westchester county](389-appointment-of-additional-interpreter-for-westchester-county.md)
-- [§ 390 Appointment of interpreter for deaf person](390-appointment-of-interpreter-for-deaf-person.md)
+- [§ 390 Equal access to court proceedings for deaf or hard of hearing person](390-equal-access-to-court-proceedings-for-deaf-or-hard-of-hearing-person.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,7 +26,8 @@ Section 380. Salary  of  interpreters  appointed  for  supreme  court by
         388. Polish and Italian interpreters for Erie county.
         389. Appointment   of  additional  interpreter  for  Westchester
                county.
-        390. Appointment of interpreter for deaf person.
+        390. Equal access to court  proceedings  for  deaf  or  hard  of
+               hearing person.
 ```
 
 </details>

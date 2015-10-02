@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  § 580-101. Definitions.  In this article:
+  * § 580-101. Definitions. In this article:
   (1) "Child" means an individual, whether over or under the age of
 majority, who is or is alleged to be owed a duty of support by the
 individual's parent or who is or is alleged to be the beneficiary of a
@@ -19,7 +19,7 @@ unsatisfied obligation to provide support.
 or a person acting as parent for at least six consecutive months
 immediately preceding the time of filing of a petition or comparable
 pleading for support and, if a child is less than six months old, the
-state in which the child lived from birth with any of them.  A period of
+state in which the child lived from birth with any of them. A period of
 temporary absence of any of them is counted as part of the six-month or
 other period.
   (5) "Income" includes earnings or other periodic entitlements to money
@@ -97,4 +97,8 @@ and other relief.
   (22) "Tribunal" means a court, administrative agency, or
 quasi-judicial entity authorized to establish, enforce, or modify
 support orders or to determine parentage.
+  * NB Effective until January 1, 2016
+  * § 580-101. Short title. This article may be cited as the "uniform
+interstate family support act" or "UIFSA".
+  * NB Effective January 1, 2016
 ```

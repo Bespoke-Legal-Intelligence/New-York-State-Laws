@@ -4,7 +4,12 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  § 580-315. Nonparentage as defense.  A party whose parentage of a
+  * § 580-315. Nonparentage as defense. A party whose parentage of a
 child has been previously determined by or pursuant to law may not plead
 nonparentage as a defense to a proceeding under this article.
+  * NB Effective until January 1, 2016
+  * § 580-315. Nonparentage as defense. A party whose parentage of a
+child has been previously determined by or pursuant to law may not plead
+nonparentage as a defense to a proceeding under this article.
+  * NB Effective January 1, 2016
 ```

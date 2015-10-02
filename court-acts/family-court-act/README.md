@@ -7,12 +7,12 @@
 |---|---|
 | Senate code | FCT |
 | Type | Court act |
-| Sections | 632 |
-| Last changed | 4 Sep 2015 |
+| Sections | 651 |
+| Last changed | 2 Oct 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Family Court Act |
 
-**Short title (from the law itself):** § 580-902. Short title. This article may be cited as the uniform interstate family support act.
+**Short title (from the law itself):** * § 580-902. Short title. This article may be cited as the uniform interstate family support act. * NB Effective until January 1, 2016 * § 580-902. Severability. If any provision of this article or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this article which can be given effect without the invalid provision or 
 
 ## Chapter text as published
 
@@ -31,6 +31,7 @@
 
 ## Recent changes
 
+- [2 Oct 2015](../../changes/2015/2015-10-02.md): 62 amended, 19 added
 - [4 Sep 2015](../../changes/2015/2015-09-04.md): 8 amended, 1 added
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 2 amended
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 2 amended

@@ -71,7 +71,7 @@ the commissioner, shall be paid over by the recording officer receiving
 the same as provided by the determination of said commissioner.
   6. Each enactment of a local law may provide for the imposition of a
 mortgage tax for a period of time no longer than three years from the
-date of its enactment. Nothing in this section shall prohibit the
+date of its imposition. Nothing in this section shall prohibit the
 adoption and enactment of local laws, pursuant to the provisions of this
 section, upon the expiration of any other local law adopted pursuant to
 this section.

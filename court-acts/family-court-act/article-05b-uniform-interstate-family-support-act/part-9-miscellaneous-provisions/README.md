@@ -15,7 +15,14 @@
 <summary>Official heading of Part 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-  Part 9. Miscellaneous provisions.
+  * Part 9. Miscellaneous provisions.
+  * NB Effective until January 1, 2016
+                                 * PART 9
+                        MISCELLANEOUS PROVISIONS
+Section 580-901. Uniformity of application and construction.
+        580-902. Severability.
+        580-903. Effective date.
+  * NB Effective January 1, 2016
 ```
 
 </details>

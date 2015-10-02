@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25-AAA — Agricultural and Farmland Protection Programs](README.md)
 
 ```text
-  § 324. County agricultural and farmland protection plans.  1. County
+  § 324. County agricultural and farmland protection plans. 1. County
 agricultural and farmland protection boards may develop plans, in
 cooperation with the local soil and water conservation district and soil
 conservation service, which shall include, but not be limited to:
@@ -16,8 +16,14 @@ lands proposed to be protected:
   (iii) consequences of possible conversion; and
   (iv) level of conversion pressure on the lands or areas proposed to be
 protected; and
-  (c) a description of the activities, programs and strategies intended
-to be used by the county to promote continued agricultural use.
+  (c) a description of the activities, programs and strategies,
+including efforts to support the successful transfer of agricultural
+land from existing owners to new owners and operators, especially new
+and beginning farmers, intended to be used by the county to promote
+continued agricultural use, which may include but not be limited to
+revisions to the county's comprehensive plan pursuant to section two
+hundred thirty-nine-d or two hundred thirty-nine-i of the general
+municipal law.
   2. The county agricultural and farmland protection board shall conduct
 at least one public hearing for public input regarding such agricultural
 and farmland protection plan, and shall thereafter submit such plan to

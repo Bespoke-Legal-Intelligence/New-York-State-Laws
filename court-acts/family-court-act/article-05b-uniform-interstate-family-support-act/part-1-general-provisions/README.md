@@ -8,12 +8,24 @@
 - [§ 580-101 Definitions](580-101-definitions.md)
 - [§ 580-102 Tribunal of state](580-102-tribunal-of-state.md)
 - [§ 580-103 Remedies cumulative](580-103-remedies-cumulative.md)
+- [§ 580-104 Remedies cumulative](580-104-remedies-cumulative.md)
+- [§ 580-105 Application of the article to a resident of a foreign country and foreign support proceedings](580-105-application-of-the-article-to-a-resident-of-a-foreign-country.md)
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-  Part 1. General provisions.
+  * Part 1. General provisions.
+  * NB Effective until January 1, 2016
+                                * PART 1
+                           GENERAL PROVISIONS
+Section 580-101. Short title.
+        580-102. Definitions.
+        580-103. State tribunal and support enforcement agency.
+        580-104. Remedies cumulative.
+        580-105. Application of article to resident of foreign country
+                   and foreign support proceeding.
+  * NB Effective January 1, 2016
 ```
 
 </details>

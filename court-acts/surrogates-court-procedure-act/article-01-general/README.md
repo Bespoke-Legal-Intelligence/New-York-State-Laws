@@ -25,7 +25,7 @@ Section 101. Short title; how cited.
         104. Application of act; confirmation of previous acts.
         105. Rules for surrogates' courts.
         106. Appendix of official forms.
-        107. Use of electronic filing authorized
+        107. Use of electronic filing authorized.
 ```
 
 </details>

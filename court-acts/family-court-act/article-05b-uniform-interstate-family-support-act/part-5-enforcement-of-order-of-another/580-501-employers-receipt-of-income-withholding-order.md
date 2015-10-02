@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 5 — Enforcement of Order of Another State Without Registration](README.md)
 
 ```text
-  § 580-501. Employer's receipt of income-withholding order of another
+  * § 580-501. Employer's receipt of income-withholding order of another
 state. An income-withholding order issued in another state may be sent
 to the person or entity defined as the obligor's employer or income
 payor under section five thousand two hundred forty-one of the civil
@@ -12,4 +12,15 @@ practice law and rules (for purposes of this part and section 580-605 of
 this article employer shall also include income payor) without first
 filing a petition or comparable pleading or registering the order with a
 tribunal of this state.
+  * NB Effective until January 1, 2016
+  * § 580-501. Employer's receipt of income withholding order of another
+state. An income withholding order issued in another state may be sent
+by or on behalf of the obligee, or by the support enforcement agency, to
+the person defined as the obligor's employer or income payor under
+section five thousand two hundred forty-one of the civil practice law
+and rules or other debtor (for purposes of this part and section 580-605
+of this article, employer shall also include income payor or other
+debtor) without first filing a petition or comparable pleading or
+registering the order with a tribunal of this state.
+  * NB Effective January 1, 2016
 ```
