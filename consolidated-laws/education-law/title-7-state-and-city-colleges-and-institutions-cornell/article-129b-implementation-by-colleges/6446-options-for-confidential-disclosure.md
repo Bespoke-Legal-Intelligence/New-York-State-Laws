@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6446. Options for confidential disclosure. 1. In accordance with
+  § 6446. Options for confidential disclosure. 1. In accordance with
 this article, every institution shall ensure that reporting individuals
 have the following:
   a. Information regarding privileged and confidential resources they
@@ -89,5 +89,4 @@ violence;
   f. Whether the institution possesses other means to obtain evidence
 such as security footage, and whether available information reveals a
 pattern of perpetration at a given location or by a particular group.
-  * NB Effective October 5, 2015
 ```

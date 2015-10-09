@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6444. Response to reports. 1. Every institution shall ensure that
+  § 6444. Response to reports. 1. Every institution shall ensure that
 reporting individuals are advised of their right to:
   a. Notify university police or campus security, local law enforcement,
 and/or state police;
@@ -246,5 +246,4 @@ local health care facility to provide such a service.
   9. Nothing in this article shall be deemed to diminish the rights of
 any member of the institution's community under any applicable
 collective bargaining agreement.
-  * NB Effective October 5, 2015
 ```

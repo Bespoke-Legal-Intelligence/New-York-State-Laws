@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6440. General provisions. 1. Every institution shall:
+  § 6440. General provisions. 1. Every institution shall:
   a. adopt written rules implementing this article by amending its code
 of conduct or other comparable policies;
   b. annually file with the department on or before the first day of
@@ -57,5 +57,4 @@ right of action for any person.
   10. Nothing in this article shall be construed to prevent an
 institution from continuing an investigation when required by law to
 continue such investigation.
-  * NB Effective October 5, 2015
 ```

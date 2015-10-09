@@ -21,7 +21,7 @@
 <summary>Official heading of Article 129-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 129-B
+                              ARTICLE 129-B
           IMPLEMENTATION BY COLLEGES AND UNIVERSITIES OF SEXUAL
  ASSAULT, DATING VIOLENCE, DOMESTIC VIOLENCE AND STALKING PREVENTION AND
                     RESPONSE POLICIES AND PROCEDURES
@@ -36,7 +36,6 @@ Section 6439. Definitions.
         6447. Student onboarding and ongoing education.
         6448. Privacy in legal challenges.
         6449. Reporting aggregate data to the department.
-  * NB Effective October 5, 2015
 ```
 
 </details>

@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 3 — Bridge and Tunnel Authorities](../README.md) › [Title 2 — New York State Bridge Authority](README.md)
 
 ```text
-  § 536. Tax contract by the state. (1) The state of New York covenants
+  § 536 Tax contract by the state. (1) The state of New York covenants
 with the purchasers and with all subsequent holders and transferees of
 bonds and notes issued by the authority pursuant to this title, in
 consideration of the making of any payment for the bonds or notes, that

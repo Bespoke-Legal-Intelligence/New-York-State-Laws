@@ -135,6 +135,7 @@
 - [§ 158-B Vanpool vehicle](158b-vanpool-vehicle.md)
 - [§ 159 Vehicle](159-vehicle.md)
 - [§ 160 Wheel lift](160-wheel-lift.md)
+- [§ 161 Work area](161-work-area.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

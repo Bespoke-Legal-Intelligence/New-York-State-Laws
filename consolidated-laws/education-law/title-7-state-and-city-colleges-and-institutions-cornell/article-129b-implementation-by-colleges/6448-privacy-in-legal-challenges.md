@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6448. Privacy in legal challenges. Pursuant to subdivision (i) of
+  § 6448. Privacy in legal challenges. Pursuant to subdivision (i) of
 rule three thousand sixteen of the civil practice law and rules, in any
 proceeding brought against an institution which seeks to vacate or
 modify a finding that a student was responsible for violating an
@@ -18,5 +18,4 @@ information appears in a pleading or paper filed in such a proceeding,
 the court, absent such a waiver or cause shown, shall direct the clerk
 of the court to redact such name and identifying biographical
 information and so advise the parties.
-  * NB Effective October 5, 2015
 ```

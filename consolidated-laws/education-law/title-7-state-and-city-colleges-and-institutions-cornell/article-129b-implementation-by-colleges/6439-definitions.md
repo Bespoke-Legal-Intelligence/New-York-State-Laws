@@ -4,8 +4,8 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6439. Definitions. As used in this article, the following terms
-have the following meanings:
+  § 6439. Definitions. As used in this article, the following terms have
+the following meanings:
   1. "Institution" shall mean any college or university chartered by the
 regents or incorporated by special act of the legislature that maintains
 a campus in New York.
@@ -44,5 +44,4 @@ report of a violation.
   11. "Domestic violence", "dating violence", "stalking" and "sexual
 assault" shall be defined by each institution in its code of conduct in
 a manner consistent with applicable federal definitions.
-  * NB Effective October 5, 2015
 ```

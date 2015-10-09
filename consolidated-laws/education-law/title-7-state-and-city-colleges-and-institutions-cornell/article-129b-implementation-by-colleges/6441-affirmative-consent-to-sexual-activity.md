@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6441. Affirmative consent to sexual activity. 1. Every institution
+  § 6441. Affirmative consent to sexual activity. 1. Every institution
 shall adopt the following definition of affirmative consent as part of
 its code of conduct: "Affirmative consent is a knowing, voluntary, and
 mutual decision among all participants to engage in sexual activity.
@@ -33,5 +33,4 @@ other intoxicants may be incapacitated and therefore unable to consent.
 intimidation, force, or threat of harm.
   f. When consent is withdrawn or can no longer be given, sexual
 activity must stop.
-  * NB Effective October 5, 2015
 ```

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6443. Students' bill of rights. Every institution shall adopt and
+  § 6443. Students' bill of rights. Every institution shall adopt and
 implement the following "Students' Bill of Rights" as part of its code
 of conduct which shall be distributed annually to students, made
 available on each institution's website, posted in campus residence
@@ -36,5 +36,4 @@ throughout the judicial or conduct process including during all meetings
 and hearings related to such process; and 11. Exercise civil rights and
 practice of religion without interference by the investigative, criminal
 justice, or judicial or conduct process of the institution."
-  * NB Effective October 5, 2015
 ```

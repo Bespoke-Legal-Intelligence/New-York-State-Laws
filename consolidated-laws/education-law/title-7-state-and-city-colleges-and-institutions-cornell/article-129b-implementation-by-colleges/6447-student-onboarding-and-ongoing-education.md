@@ -4,11 +4,11 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6447. Student onboarding and ongoing education. 1. Every
-institution shall adopt a comprehensive student onboarding and ongoing
-education campaign to educate members of the institution's community
-about domestic violence, dating violence, stalking, and sexual assault,
-in compliance with applicable federal laws, including the Clery Act as
+  § 6447. Student onboarding and ongoing education. 1. Every institution
+shall adopt a comprehensive student onboarding and ongoing education
+campaign to educate members of the institution's community about
+domestic violence, dating violence, stalking, and sexual assault, in
+compliance with applicable federal laws, including the Clery Act as
 amended by the Violence Against Women Act reauthorization of 2013, 20
 U.S.C. 1092(f).
   2. Included in this campaign shall be a requirement that all new
@@ -71,5 +71,4 @@ intercollegiate athletic competition.
   7. Every institution must regularly assess programs and policies
 established pursuant to this article to determine effectiveness and
 relevance for students.
-  * NB Effective October 5, 2015
 ```

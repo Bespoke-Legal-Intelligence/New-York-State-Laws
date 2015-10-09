@@ -351,7 +351,7 @@ three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand four, and ending
 November thirtieth, two thousand seventeen;
   * NB There are 2 clause (37)'s
-  (38) the county of Chautauqua is hereby further authorized and
+  *(38) the county of Chautauqua is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is: (i) one and one-quarter percent
 additional to the three percent rate authorized above in this paragraph
@@ -366,7 +366,58 @@ beginning December first, two thousand seven and ending November
 thirtieth, two thousand ten; and (iv) one-half of one percent additional
 to the three percent rate authorized above in this paragraph for such
 county for the period beginning December first, two thousand ten and
-ending November thirtieth, two thousand fifteen;
+ending November thirtieth, two thousand seventeen;
+  * NB Effective until notification from the commissioner of taxation
+and finance that the provisions of § 8 of chapter 332 of 2015 have been
+satisfied for the 2016 county tax year
+  * (38) the county of Chautauqua is hereby further authorized and
+empowered to adopt and amend local laws, ordinances or resolutions
+imposing such taxes at a rate that is: (i) one and one-quarter percent
+additional to the three percent rate authorized above in this paragraph
+for such county for the period beginning March first, two thousand five
+and ending August thirty-first, two thousand six; (ii) one percent
+additional to the three percent rate authorized above in this paragraph
+for such county for the period beginning September first, two thousand
+six and ending November thirtieth, two thousand seven; (iii)
+three-quarters of one percent additional to the three percent rate
+authorized above in this paragraph for such county for the period
+beginning December first, two thousand seven and ending November
+thirtieth, two thousand ten; (iv) one-half of one percent additional to
+the three percent rate authorized above in this paragraph for such
+county for the period beginning December first, two thousand ten and
+ending November thirtieth, two thousand fifteen; and (v) one percent
+additional to the three percent rate authorized above in this clause for
+such county for the period beginning December first, two thousand
+fifteen and ending November thirtieth, two thousand seventeen;
+  * NB Effective upon notification from the commissioner of taxation and
+finance that the provisions of § 8 of chapter 332 of 2015 have been
+satisfied for the 2016 county tax year
+  * (38) the county of Chautauqua is hereby further authorized and
+empowered to adopt and amend local laws, ordinances or resolutions
+imposing such taxes at a rate that is: (i) one and one-quarter percent
+additional to the three percent rate authorized above in this paragraph
+for such county for the period beginning March first, two thousand five
+and ending August thirty-first, two thousand six; (ii) one percent
+additional to the three percent rate authorized above in this paragraph
+for such county for the period beginning September first, two thousand
+six and ending November thirtieth, two thousand seven; (iii)
+three-quarters of one percent additional to the three percent rate
+authorized above in this paragraph for such county for the period
+beginning December first, two thousand seven and ending November
+thirtieth, two thousand ten; (iv) one-half of one percent additional to
+the three percent rate authorized above in this paragraph for such
+county for the period beginning December first, two thousand ten and
+ending November thirtieth, two thousand fifteen; (v) one percent
+additional to the three percent rate authorized above in this clause for
+such county for the period beginning December first, two thousand
+fifteen and ending November thirtieth, two thousand sixteen; and (vi)
+one-half of one percent additional to the three percent rate authorized
+above in this clause for such county for the period beginning December
+first, two thousand sixteen and ending November thirtieth, two thousand
+seventeen;
+  * NB Effective upon notification from the commissioner of taxation and
+finance that the provisions of § 8 of chapter 332 of 2015 have NOT been
+satisfied for the 2017 county tax year
   * (39) the county of Fulton is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
