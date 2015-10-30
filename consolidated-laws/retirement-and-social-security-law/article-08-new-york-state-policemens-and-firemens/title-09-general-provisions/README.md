@@ -12,6 +12,7 @@
 - [§ 372 Optional retirement at age fifty-five; closed plan](372-optional-retirement-at-age-fifty-five.md)
 - [§ 373 Discontinued service after twenty years](373-discontinued-service-after-twenty-years.md)
 - [§ 374 Procedure for retirement](374-procedure-for-retirement.md)
+- [§ 374-A Applications and elections; issues due to death](374a-applications-and-elections-issues-due.md)
 - [§ 375 Allowance on superannuation retirement](375-allowance-on-superannuation-retirement.md)
 - [§ 375-A Non-contributory retirement plan for state employees](375a-non-contributory-retirement-plan.md)
 - [§ 375-B Non-contributory retirement plan for members of participating employers](375b-non-contributory-retirement-plan.md)
@@ -42,6 +43,7 @@ Section 370.   Superannuation retirement.
         372.   Optional retirement at age fifty-five; closed plan.
         373.   Discontinued service after twenty years.
         374.   Procedure for retirement.
+        374-a. Applications and elections; issues due to death.
         375.   Allowance on superannuation retirement.
         375-a. Non-contributory retirement plan for state employees.
         375-b. Non-contributory retirement plan for members of

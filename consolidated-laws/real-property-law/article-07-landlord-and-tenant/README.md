@@ -20,6 +20,7 @@
 - [§ 227-A Termination of residential lease by senior citizens moving to a residence of a family member or entering certain health care facilities, ...](227a-termination-of-residential-lease-by-senior-citizens-moving-to-a-residence.md)
 - [§ 227-B Termination of certain contracts by senior citizens](227b-termination-of-certain-contracts-by-senior-citizens.md)
 - [§ 227-C Termination of residential lease by victims of domestic violence](227c-termination-of-residential-lease-by-victims-of-domestic-violence.md)
+- [§ 227-D Discrimination based on domestic violence status; prohibited](227d-discrimination-based-on-domestic-violence-status-prohibited.md)
 - [§ 228 Termination of tenancies at will or by sufferance, by notice](228-termination-of-tenancies-at-will-or-by-sufferance-by-notice.md)
 - [§ 229 Liability of tenant holding over after giving notice of intention to quit](229-liability-of-tenant-holding-over-after-giving-notice-of-intention-to-quit.md)
 - [§ 230 Right of tenants to form, join or participate in tenants' groups](230-right-of-tenants-to-form-join-or-participate-in-tenants-groups.md)
@@ -71,6 +72,8 @@ Section 220.   Action for use and occupation.
         227-b. Termination of certain contracts by senior citizens.
         227-c. Termination of residential lease by victims of domestic
                  violence.
+        227-d. Discrimination based on domestic violence status;
+                 prohibited.
         228.   Termination of tenancies at will or by sufferance, by
                  notice.
         229.   Liability of tenant holding over after giving notice of

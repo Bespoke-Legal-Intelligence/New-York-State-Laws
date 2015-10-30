@@ -13,6 +13,7 @@
 - [§ 214-A Child abuse prevention](214a-child-abuse-prevention.md)
 - [§ 214-B Family offense intervention](214b-family-offense-intervention.md)
 - [§ 214-C Elder abuse awareness](214c-elder-abuse-awareness.md)
+- [§ 214-D Human trafficking awareness](214d-human-trafficking-awareness.md)
 - [§ 215 Organization; salaries; qualifications; appointment; term; rules and regulations](215-organization-salaries-qualifications-appointment-term-rules-and-regulations.md)
 - [§ 216 Bureau of criminal investigation](216-bureau-of-criminal-investigation.md)
 - [§ 216-A Scientific crime detection laboratory](216a-scientific-crime-detection-laboratory.md)
@@ -55,6 +56,7 @@ Section 210.   Division of state police.
         214-a. Child abuse prevention.
         214-b. Family offense intervention.
         214-c. Elder abuse awareness.
+        214-d. Human trafficking awareness.
         215.   Organization; salaries; qualifications; appointment;
                  term; rules and regulations.
         216.   Bureau of criminal investigation.

@@ -18,6 +18,7 @@
 - [§ 735 Manner of service; filing; when service complete](735-manner-of-service-filing-when-service-complete.md)
 - [§ 741 Contents of petition](741-contents-of-petition.md)
 - [§ 743 Answer](743-answer.md)
+- [§ 744 Eviction based on domestic violence victim status prohibited](744-eviction-based-on-domestic-violence-victim-status.md)
 - [§ 745 Trial](745-trial.md)
 - [§ 746 Stipulations](746-stipulations.md)
 - [§ 747 Judgment](747-judgment.md)
@@ -54,6 +55,8 @@ Section 701.   Jurisdiction; courts; venue.
         735.   Manner of service; filing; when service complete.
         741.   Contents of petition.
         743.   Answer.
+        744.   Eviction based on domestic violence victim status
+                 prohibited.
         745.   Trial.
         746.   Stipulations.
         747.   Judgment.

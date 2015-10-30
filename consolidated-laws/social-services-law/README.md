@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | SOS |
 | Type | Consolidated law, chapter 55 |
-| Sections | 686 (3 repealed) |
-| Last changed | 2 Oct 2015 |
+| Sections | 684 |
+| Last changed | 30 Oct 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Social Services |
 
@@ -33,6 +33,7 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [30 Oct 2015](../../changes/2015/2015-10-30.md): 2 amended, 1 added, 3 removed
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 1 amended
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 7 amended
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 amended
@@ -42,7 +43,6 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 12 amended
 - [10 Apr 2015](../../changes/2015/2015-04-10.md): 3 amended, 1 repealed
 - [20 Mar 2015](../../changes/2015/2015-03-20.md): 1 amended
-- [20 Feb 2015](../../changes/2015/2015-02-20.md): 2 amended
 
 ## Contents
 

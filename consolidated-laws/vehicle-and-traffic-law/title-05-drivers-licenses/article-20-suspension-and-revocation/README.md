@@ -10,6 +10,7 @@
 - [§ 510-AA Downgrade of commercial driver's licenses](510aa-downgrade-of-commercial-drivers-licenses.md)
 - [§ 510-B Suspension and revocation for violations committed during probationary periods](510b-suspension-and-revocation-for-violations-committed-during.md)
 - [§ 510-C Suspension and revocation of learner's permits and driver's licenses for violations committed by holders of class DJ or class MJ learner'...](510c-suspension-and-revocation-of-learners-permits-and-drivers-licenses.md)
+- [§ 510-D Suspension and revocation of class E driver's licenses](510d-suspension-and-revocation-of-class-e-drivers-licenses.md)
 - [§ 511 Operation while license or privilege is suspended or revoked; aggravated unlicensed operation](511-operation-while-license-or-privilege-is-suspended-or-revoked.md)
 - [§ 511-A Facilitating aggravated unlicensed operation of a motor vehicle](511a-facilitating-aggravated-unlicensed-operation-of-a-motor-vehicle.md)
 - [§ 511-B Seizure and redemption of unlawfully operated vehicles](511b-seizure-and-redemption-of-unlawfully-operated-vehicles.md)
@@ -43,6 +44,7 @@ Section 510.    Suspension, revocation and reissuance of licenses and
         510-c.  Suspension and revocation of learner's permits and
                   driver's licenses for violations committed by holders
                   of class DJ or class MJ learner's permits or licenses.
+        510-d.  Suspension and revocation of class E driver's licenses.
         511.    Operation while license or privilege is suspended or
                   revoked; aggravated unlicensed operation.
         511-a.  Facilitating aggravated unlicensed operation of a motor

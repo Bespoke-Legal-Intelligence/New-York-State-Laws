@@ -9,6 +9,7 @@
 - [§ 483-BB Services for victims of human trafficking](483bb-services-for-victims-of-human-trafficking.md)
 - [§ 483-CC Confirmation as a victim of human trafficking](483cc-confirmation-as-a-victim-of-human-trafficking.md)
 - [§ 483-DD Law enforcement assistance with respect to immigration](483dd-law-enforcement-assistance-with-respect-to-immigration.md)
+- [§ 483-EE Establishment of interagency task force on human trafficking](483ee-establishment-of-interagency-task-force-on-human-trafficking.md)
 
 <details>
 <summary>Official heading of Article 10-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -20,6 +21,8 @@ Section 483-aa. Definitions.
         483-bb. Services for victims of human trafficking.
         483-cc. Confirmation as a victim of human trafficking.
         483-dd. Law enforcement assistance with respect to immigration.
+        483-ee. Establishment of interagency task force on human
+                  trafficking.
 ```
 
 </details>

@@ -14,6 +14,7 @@
 - [§ 135.30 Kidnapping; defense](135.30-kidnapping-defense.md)
 - [§ 135.35 Labor trafficking](135.35-labor-trafficking.md)
 - [§ 135.36 Labor trafficking; accomplice](135.36-labor-trafficking-accomplice.md)
+- [§ 135.37 Aggravated labor trafficking](135.37-aggravated-labor-trafficking.md)
 - [§ 135.45 Custodial interference in the second degree](135.45-custodial-interference-in-the-second-degree.md)
 - [§ 135.50 Custodial interference in the first degree](135.50-custodial-interference-in-the-first-degree.md)
 - [§ 135.55 Substitution of children](135.55-substitution-of-children.md)
@@ -38,6 +39,7 @@ Section 135.00  Unlawful imprisonment, kidnapping and custodial
         135.30  Kidnapping; defense.
         135.35  Labor trafficking.
         135.36  Labor trafficking; accomplice.
+        135.37  Aggravated labor trafficking.
         135.45  Custodial interference in the second degree.
         135.50  Custodial interference in the first degree.
         135.55  Substitution of children.

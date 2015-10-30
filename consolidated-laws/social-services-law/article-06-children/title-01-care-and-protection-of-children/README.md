@@ -11,7 +11,6 @@
 - [§ 371-A Procedure](371a-procedure.md)
 - [§ 371-B Citizen review panels](371b-citizen-review-panels.md)
 - [§ 372 Records and reports](372-records-and-reports.md)
-- [§ 372-A Child welfare research advisory panel](372a-child-welfare-research-advisory-panel.md) *(repealed)*
 - [§ 372-B Adoption services](372b-adoption-services.md)
 - [§ 372-C Putative father registry](372c-putative-father-registry.md)
 - [§ 372-D Adoption services; purchase by department](372d-adoption-services-purchase-by-department.md)

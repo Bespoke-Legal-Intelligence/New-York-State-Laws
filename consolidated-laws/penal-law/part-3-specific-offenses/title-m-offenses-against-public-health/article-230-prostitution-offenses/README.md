@@ -6,13 +6,18 @@
 ## Contents
 
 - [§ 230.00 Prostitution](230.00-prostitution.md)
+- [§ 230.01 Prostitution; affirmative defense](230.01-prostitution-affirmative-defense.md)
 - [§ 230.02 Patronizing a prostitute; definitions](230.02-patronizing-a-prostitute-definitions.md)
 - [§ 230.03 Prostitution in a school zone](230.03-prostitution-in-a-school-zone.md)
 - [§ 230.04 Patronizing a prostitute in the third degree](230.04-patronizing-a-prostitute-in-the-third.md)
 - [§ 230.05 Patronizing a prostitute in the second degree](230.05-patronizing-a-prostitute-in-the-second.md)
 - [§ 230.06 Patronizing a prostitute in the first degree](230.06-patronizing-a-prostitute-in-the-first.md)
 - [§ 230.07 Patronizing a prostitute; defense](230.07-patronizing-a-prostitute-defense.md)
+- [§ 230.08 Patronizing a person for prostitution in a school zone](230.08-patronizing-a-person-for-prostitution.md)
 - [§ 230.10 Prostitution and patronizing a prostitute; no defense](230.10-prostitution-and-patronizing-a-prostitute.md)
+- [§ 230.11 Aggravated patronizing a minor for prostitution in the third degree](230.11-aggravated-patronizing-a-minor.md)
+- [§ 230.12 Aggravated patronizing a minor for prostitution in the second degree](230.12-aggravated-patronizing-a-minor.md)
+- [§ 230.13 Aggravated patronizing a minor for prostitution in the first degree](230.13-aggravated-patronizing-a-minor.md)
 - [§ 230.15 Promoting prostitution; definitions of terms](230.15-promoting-prostitution-definitions-of-terms.md)
 - [§ 230.19 Promoting prostitution in a school zone](230.19-promoting-prostitution-in-a-school-zone.md)
 - [§ 230.20 Promoting prostitution in the fourth degree](230.20-promoting-prostitution-in-the-fourth-degree.md)
@@ -32,13 +37,21 @@
                                ARTICLE 230
                           PROSTITUTION OFFENSES
 Section 230.00  Prostitution.
+        230.01  Prostitution; affirmative defense.
         230.02  Patronizing a prostitute; definitions.
         230.03  Prostitution in a school zone.
         230.04  Patronizing a prostitute in the third degree.
         230.05  Patronizing a prostitute in the second degree.
         230.06  Patronizing a prostitute in the first degree.
         230.07  Patronizing a prostitute; defense.
+        230.08  Patronizing a person for prostitution in a school zone.
         230.10  Prostitution and patronizing a prostitute; no defense.
+        230.11  Aggravated patronizing a minor for prostitution in the
+                  third degree.
+        230.12  Aggravated patronizing a minor for prostitution in the
+                  second degree.
+        230.13  Aggravated patronizing a minor for prostitution in the
+                  first degree.
         230.15  Promoting prostitution; definitions of terms.
         230.19  Promoting prostitution in a school zone.
         230.20  Promoting prostitution in the fourth degree.

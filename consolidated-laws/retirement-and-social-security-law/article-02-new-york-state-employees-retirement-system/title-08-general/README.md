@@ -12,6 +12,7 @@
 - [§ 72 Optional retirement at age fifty-five; closed plan](72-optional-retirement-at-age-fifty-five-closed-plan.md)
 - [§ 73 Discontinued service after twenty years](73-discontinued-service-after-twenty-years.md)
 - [§ 74 Procedure for retirement](74-procedure-for-retirement.md)
+- [§ 74-A Applications and elections; issues due to death](74a-applications-and-elections-issues-due-to-death.md)
 - [§ 75 Allowance on superannuation retirement](75-allowance-on-superannuation-retirement.md)
 - [§ 75-A Non-contributory retirement plan for state employees](75a-non-contributory-retirement-plan-for-state.md)
 - [§ 75-B Non-contributory retirement plan for members of participating employers](75b-non-contributory-retirement-plan-for-members.md)
@@ -42,6 +43,7 @@ Section 70.   Superannuation retirement.
         72.   Optional retirement at age fifty-five; closed plan.
         73.   Discontinued service after twenty years.
         74.   Procedure for retirement.
+        74-a. Applications and elections; issues due to death.
         75.   Allowance on superannuation retirement.
         75-a. Non-contributory retirement plan for state employees.
         75-b. Non-contributory retirement plan for members of

@@ -194,6 +194,12 @@ DOET.
 2C-B, Nexus.
   (32) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7), its
 optical isomers, salts and salts of isomers.
+  (33) 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
+also known as 25I-NBOMe; 2C-I-NBOMe; 25I; or Cimbi-5.
+  (34) 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
+also known as 25 CNBOMe; 2C-C-NBOMe; 25C; or Cimbi-82.
+  (35) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
+also known as, 25 BNBOMe; 2C-B-NBOMe; Cimbi-36.
   (e) Depressants. Unless specifically excepted or unless listed in
 another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a depressant

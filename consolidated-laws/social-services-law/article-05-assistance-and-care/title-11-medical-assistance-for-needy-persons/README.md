@@ -28,7 +28,6 @@
 - [§ 364-J-2 Transitional supplemental payments](364j-2-transitional-supplemental-payments.md)
 - [§ 364-JJ Special advisory review panel on Medicaid managed care](364jj-special-advisory-review-panel-on-medicaid-managed-care.md)
 - [§ 364-KK Condition of Participation](364kk-condition-of-participation.md)
-- [§ 364-L Chronic illness demonstration projects](364l-chronic-illness-demonstration-projects.md) *(repealed)*
 - [§ 364-M Statewide patient centered medical home program](364m-statewide-patient-centered-medical-home-program.md)
 - [§ 365 Responsibility for assistance](365-responsibility-for-assistance.md)
 - [§ 365-A Character and adequacy of assistance](365a-character-and-adequacy-of-assistance.md)

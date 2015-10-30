@@ -48,18 +48,16 @@ professional therapist from such agency or provider when the aide
 carries out simple procedures as an extension of physical, speech or
 occupational therapy. Such services may also be prescribed or ordered by
 a nurse practitioner to the extent authorized by law and consistent with
-the written practice agreement pursuant to subdivision three of section
-six thousand nine hundred two of the education law and not prohibited by
-federal law or regulation.
+subdivision three of section six thousand nine hundred two of the
+education law and not prohibited by federal law or regulation.
   5. "Personal care services" means services to assist with personal
 hygiene, dressing, feeding and household tasks essential to the
 patient's health. Such services shall be prescribed by a physician in
 accordance with a plan of home care supervised by a registered
 professional nurse. Such services may also be prescribed or ordered by a
 nurse practitioner to the extent authorized by law and consistent with
-the written practice agreement pursuant to subdivision three of section
-six thousand nine hundred two of the education law and not prohibited by
-federal law or regulations.
+subdivision three of section six thousand nine hundred two of the
+education law and not prohibited by federal law or regulations.
   6. "Homemaker services" means assistance and instruction in managing
 and maintaining a household, dressing, feeding, and incidental household
 tasks for persons at home because of illness, incapacity, or the absence

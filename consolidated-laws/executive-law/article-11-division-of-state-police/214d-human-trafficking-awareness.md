@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 214-D", "kind": "section", "law_id": "EXC", "location_id": "214-D", "path": "ARTICLE 11 › SECTION 214-D", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/214-D.md", "title": "Human trafficking awareness"} -->
+# Executive Law § 214-D — Human trafficking awareness
+
+[Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
+
+```text
+* § 214-d. Human trafficking awareness. The superintendent, in
+consultation with the office of temporary and disability assistance and
+the division of criminal justice services, shall: (1) develop, maintain
+and disseminate to all members of the state police, including new and
+veteran officers, written policies, procedures and educational materials
+relating to human trafficking victims, including services available for
+victims of human trafficking, as referenced in section four hundred
+eighty-three-bb of the social services law; and (2) establish and
+implement written procedures and policies in the event a member of the
+division of state police encounters an individual believed to be a
+victim of human trafficking, which shall include, but not be limited to,
+the provision of information and/or referral to an appropriate provider
+of social and legal services to human trafficking victims, in accordance
+with such section four hundred eighty-three-bb.
+  * NB Effective January 19, 2016
+```

@@ -14,8 +14,7 @@ section seventy-one hundred one of the education law or podiatrist who
 performs laboratory tests or procedures, personally or through his or
 her employees, solely as an adjunct to the treatment of his or her own
 patients; to the extent authorized by federal and state law, including
-the education law, and consistent with any applicable written practice
-agreement.
+the education law.
   2. This title shall not be applicable to and the department shall not
 have the power to regulate pursuant to this title: (a) any examination
 performed by a state or local government of materials derived from the

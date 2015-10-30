@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [§ 369-EE Family health plus program](369ee-family-health-plus-program.md) *(repealed)*
 - [§ 369-GG Basic health program](369gg-basic-health-program.md)
 
 <details>
