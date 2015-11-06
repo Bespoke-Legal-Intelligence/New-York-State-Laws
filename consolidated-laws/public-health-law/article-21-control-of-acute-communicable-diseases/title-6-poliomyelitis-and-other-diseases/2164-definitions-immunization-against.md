@@ -6,8 +6,9 @@
 ```text
   § 2164. Definitions; immunization against poliomyelitis, mumps,
 measles, diphtheria, rubella, varicella, Haemophilus influenzae type b
-(Hib), pertussis, tetanus, pneumococcal disease, and hepatitis B.  1. As
-used in this section, unless the context requires otherwise:
+(Hib), pertussis, tetanus, pneumococcal disease, meningococcal disease,
+and hepatitis B. 1. As used in this section, unless the context requires
+otherwise:
   a. The term "school" means and includes any public, private or
 parochial child caring center, day nursery, day care agency, nursery
 school, kindergarten, elementary, intermediate or secondary school.
@@ -43,13 +44,24 @@ which meets the standards approved by the United States public health
 service for such biological products, and which is approved by the
 department under such conditions as may be specified by the public
 health council.
+  c. Every person in parental relation to a child in this state entering
+or having entered seventh grade and twelfth grade or a comparable age
+level special education program with an unassigned grade on or after
+September first, two thousand sixteen, shall have administered to such
+child an adequate dose or doses of immunizing agents against
+meningococcal disease as recommended by the advisory committee on
+immunization practices of the centers for disease control and
+prevention, which meets the standards approved by the United States
+public health service for such biological products, and which is
+approved by the department under such conditions as may be specified by
+the public health and planning council.
   3. The person in parental relation to any such child who has not
 previously received such immunization shall present the child to a
 health practitioner and request such health practitioner to administer
 the necessary immunization against poliomyelitis, mumps, measles,
 diphtheria, Haemophilus influenzae type b (Hib), rubella, varicella,
-pertussis, tetanus, pneumococcal disease, and hepatitis B as provided in
-subdivision two of this section.
+pertussis, tetanus, pneumococcal disease, meningococcal disease, and
+hepatitis B as provided in subdivision two of this section.
   4. If any person in parental relation to such child is unable to pay
 for the services of a private health practitioner, such person shall
 present such child to the health officer of the county in which the
@@ -58,44 +70,44 @@ charge.
   5. The health practitioner who administers such immunizing agent
 against poliomyelitis, mumps, measles, diphtheria, Haemophilus
 influenzae type b (Hib), rubella, varicella, pertussis, tetanus,
-pneumococcal disease, and hepatitis B to any such child shall give a
-certificate of such immunization to the person in parental relation to
-such child.
+pneumococcal disease, meningococcal disease, and hepatitis B to any such
+child shall give a certificate of such immunization to the person in
+parental relation to such child.
   6. In the event that a person in parental relation to a child makes
 application for admission of such child to a school or has a child
 attending school and there exists no certificate or other acceptable
 evidence of the child's immunization against poliomyelitis, mumps,
 measles, diphtheria, rubella, varicella, hepatitis B, pertussis,
-tetanus, and, where applicable, Haemophilus influenzae type b (Hib) and
-pneumococcal disease, the principal, teacher, owner or person in charge
-of the school shall inform such person of the necessity to have the
-child immunized, that such immunization may be administered by any
-health practitioner, or that the child may be immunized without charge
-by the health officer in the county where the child resides, if such
-person executes a consent therefor. In the event that such person does
-not wish to select a health practitioner to administer the immunization,
-he or she shall be provided with a form which shall give notice that as
-a prerequisite to processing the application for admission to, or for
-continued attendance at, the school such person shall state a valid
-reason for withholding consent or consent shall be given for
-immunization to be administered by a health officer in the public
-employ, or by a school physician or nurse. The form shall provide for
-the execution of a consent by such person and it shall also state that
-such person need not execute such consent if subdivision eight or nine
-of this section apply to such child.
+tetanus, and, where applicable, Haemophilus influenzae type b (Hib),
+meningococcal disease, and pneumococcal disease, the principal, teacher,
+owner or person in charge of the school shall inform such person of the
+necessity to have the child immunized, that such immunization may be
+administered by any health practitioner, or that the child may be
+immunized without charge by the health officer in the county where the
+child resides, if such person executes a consent therefor. In the event
+that such person does not wish to select a health practitioner to
+administer the immunization, he or she shall be provided with a form
+which shall give notice that as a prerequisite to processing the
+application for admission to, or for continued attendance at, the school
+such person shall state a valid reason for withholding consent or
+consent shall be given for immunization to be administered by a health
+officer in the public employ, or by a school physician or nurse. The
+form shall provide for the execution of a consent by such person and it
+shall also state that such person need not execute such consent if
+subdivision eight or nine of this section apply to such child.
   7. (a) No principal, teacher, owner or person in charge of a school
 shall permit any child to be admitted to such school, or to attend such
 school, in excess of fourteen days, without the certificate provided for
 in subdivision five of this section or some other acceptable evidence of
 the child's immunization against poliomyelitis, mumps, measles,
 diphtheria, rubella, varicella, hepatitis B, pertussis, tetanus, and,
-where applicable, Haemophilus influenzae type b (Hib) and pneumococcal
-disease; provided, however, such fourteen day period may be extended to
-not more than thirty days for an individual student by the appropriate
-principal, teacher, owner or other person in charge where such student
-is transferring from out-of-state or from another country and can show a
-good faith effort to get the necessary certification or other evidence
-of immunization.
+where applicable, Haemophilus influenzae type b (Hib), meningococcal
+disease, and pneumococcal disease; provided, however, such fourteen day
+period may be extended to not more than thirty days for an individual
+student by the appropriate principal, teacher, owner or other person in
+charge where such student is transferring from out-of-state or from
+another country and can show a good faith effort to get the necessary
+certification or other evidence of immunization.
   (b) A parent, a guardian or any other person in parental relationship
 to a child denied school entrance or attendance may appeal by petition
 to the commissioner of education in accordance with the provisions of
@@ -110,8 +122,9 @@ section because there exists no certificate provided for in subdivision
 five of this section or other acceptable evidence of the child's
 immunization against poliomyelitis, mumps, measles, diphtheria, rubella,
 varicella, hepatitis B, pertussis, tetanus, and, where applicable,
-Haemophilus influenzae type b (Hib) and pneumococcal disease, the
-principal, teacher, owner or person in charge of the school shall:
+Haemophilus influenzae type b (Hib), meningococcal disease, and
+pneumococcal disease, the principal, teacher, owner or person in charge
+of the school shall:
   a. forward a report of such exclusion and the name and address of such
 child to the local health authority and to the person in parental
 relation to the child together with a notification of the responsibility

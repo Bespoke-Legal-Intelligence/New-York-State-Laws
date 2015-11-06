@@ -5,33 +5,21 @@
 
 ```text
   § 3343-b. Safe disposal of unused controlled substances. 1. The
-department shall establish a program for the safe disposal of unused
-controlled substances by consumers in accordance with federal law. The
-program shall permit individual members of the public to voluntarily
+department shall oversee a program for the safe disposal of unused
+controlled substances by consumers in accordance with federal law.
+Individual members of the public shall be authorized to voluntarily
 surrender controlled substances listed on schedule II, III, IV or V of
 section thirty-three hundred six of this article in a secure manner,
-without identifying themselves, and shall be publicized consistent with
-the prescription pain medication awareness program established pursuant
-to section thirty-three hundred nine-a of this article.
-  2. The surrender of a controlled substance pursuant to the program
-established pursuant to this section shall not constitute the
-possession, transfer or sale of such controlled substance for purposes
-of this article or the penal law.
-  3. In developing such program, the department shall consider the
-following: appropriate sites for disposal throughout the state; the role
-of law enforcement and federal authorities, as appropriate; and the
-manner in which potential costs to localities or to the state will be
-addressed. Disposal sites shall be operated by law enforcement agencies
-and pharmacies on a voluntary basis in collaboration with the
-department. Nothing in this section shall require any political
-subdivision of the state to participate in the program established in
-this section.
-  4. A licensed pharmacy designated by the commissioner may be a
-disposal site under this section for the functions of accepting
-surrender of controlled substances from consumers, temporarily storing
-the controlled substances, and transferring the controlled substances to
-an authorized disposal site.
-  5. The commissioner shall make regulations under this section,
-including (in consultation with the commissioner of education)
-regulations relating to pharmacies in the program.
+without identifying themselves. Safe disposal methods shall be
+publicized consistent with the prescription pain medication awareness
+program established pursuant to section thirty-three hundred nine-a of
+this article.
+  2. The surrender of a controlled substance pursuant to this section
+shall not constitute the possession, transfer or sale of such controlled
+substance for purposes of this article or the penal law.
+  3. Disposal sites shall be operated by law enforcement agencies,
+pharmacies and other Federal Drug Enforcement Administration authorized
+collectors on a voluntary basis. Nothing in this section shall require
+any political subdivision of the state to participate in the program
+established in this section.
 ```

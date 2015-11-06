@@ -82,7 +82,8 @@ conspicuous type:
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
   (ii) The commissioner shall not maintain records of any person who
-checks "skip this question". Failure to check a box shall not impair the
+checks "skip this question". Except where the application is made in
+person or electronically, failure to check a box shall not impair the
 validity of an application, and failure to check "yes" or checking "skip
 this question" shall not be construed to imply a wish not to donate. In
 the case of an applicant under eighteen years of age, checking "yes"

@@ -28,7 +28,8 @@ Section 2160. Poliomyelitis; persons twenty-one years of age and over;
         2164. Definitions; immunization against poliomyelitis, mumps,
                 measles, diphtheria, rubella, varicella, Haemophilus
                 influenzae type b (Hib), pertussis, tetanus,
-                pneumococcal disease, and hepatitis B.
+                pneumococcal disease, meningococcal disease, and
+                hepatitis B.
         2165. Immunization of certain post-secondary students.
         2166. Immunization; regulations.
         2167. Immunization against meningococcal meningitis.

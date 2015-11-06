@@ -8,7 +8,7 @@
 | Senate code | PEN |
 | Type | Consolidated law, chapter 40 |
 | Sections | 859 |
-| Last changed | 30 Oct 2015 |
+| Last changed | 6 Nov 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Penal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [6 Nov 2015](../../changes/2015/2015-11-06.md): 5 amended
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 21 amended, 6 added
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 1 amended
 - [25 Sep 2015](../../changes/2015/2015-09-25.md): 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [8 May 2015](../../changes/2015/2015-05-08.md): 1 amended
 - [1 May 2015](../../changes/2015/2015-05-01.md): 2 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 19 amended
-- [6 Feb 2015](../../changes/2015/2015-02-06.md): 2 amended
 
 ## Contents
 

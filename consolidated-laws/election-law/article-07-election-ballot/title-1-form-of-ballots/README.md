@@ -20,7 +20,7 @@
 - [§ 7-123 Ballots; military voters](7-123-ballots-military-voters.md)
 - [§ 7-124 Ballots; special federal voters](7-124-ballots-special-federal-voters.md)
 - [§ 7-125 Ballots; special presidential voters](7-125-ballots-special-presidential-voters.md)
-- [§ 7-126 Ballots; pasters, use of](7-126-ballots-pasters-use.md)
+- [§ 7-126 Ballots; pasters, or stickers, use of](7-126-ballots-pasters-or-stickers-use.md)
 - [§ 7-128 Ballots; inspection of](7-128-ballots-inspection.md)
 - [§ 7-130 Ballots; examination by voters and instruction in use of voting machines](7-130-ballots-examination-by-voters-and-instruction-in-use-of-voting-machines.md)
 
@@ -45,9 +45,9 @@ Section 7-100. Ballots; provision for.
         7-123. Ballots; military voters.
         7-124. Ballots; special federal voters.
         7-125. Ballots; special presidential voters.
-        7-126. Ballots; pasters, use of.
+        7-126. Ballots; pasters, or stickers, use of.
         7-128. Ballots; inspection of.
-        7-130. Ballots;  examination by voters and instruction in use of
+        7-130. Ballots; examination by voters and instruction in use of
                  voting machines.
 ```
 

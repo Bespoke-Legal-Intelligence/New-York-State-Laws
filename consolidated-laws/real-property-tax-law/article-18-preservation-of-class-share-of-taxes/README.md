@@ -13,13 +13,14 @@
 - [§ 1804 Commissioner certifications](1804-commissioner-certifications.md)
 - [§ 1805 Limitation on increases of assessed value of individual parcels](1805-limitation-on-increases-of-assessed-value-of-individual-parcels.md)
 - [§ 1805-A Assessment of real property damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve i...](1805a-assessment-of-real-property-damaged-by-the-severe-storm-that-occurred.md)
+- [§ 1805-B Assessment of real property damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve i...](1805b-assessment-of-real-property-damaged-by-the-severe-storm-that-occurred.md)
 - [§ 1806 Rules and regulations](1806-rules-and-regulations.md)
 
 <details>
 <summary>Official heading of Article 18, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE   18
+                               ARTICLE 18
   PRESERVATION OF CLASS SHARE OF TAXES IN MUNICIPAL CORPORATIONS EXCEPT
    COUNTIES WITHIN A CITY, INCLUDED WITHIN THE BOUNDARIES OF A SPECIAL
     ASSESSING UNIT AND LIMITATION ON INCREASES IN ASSESSMENTS THEREIN
@@ -37,6 +38,10 @@ Section 1801.   Definitions.
                   that occurred on the twenty-ninth and thirtieth of
                   October, two thousand twelve in a city having a
                   population of one million or more.
+        1805-b. Assessment of real property damaged by the severe storm
+                  that occurred on the twenty-ninth and thirtieth of
+                  October, two thousand twelve in a special assessing
+                  unit that is not a city.
         1806.   Rules and regulations.
 ```
 

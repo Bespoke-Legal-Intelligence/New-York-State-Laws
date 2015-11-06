@@ -39,6 +39,7 @@
 - [§ 25 Penalties](25-penalties.md)
 - [§ 25-A Combination gas and electric corporations; administrative sanctions; recovery of penalties](25a-combination-gas-and-electric-corporations-administrative-sanctions-recovery.md)
 - [§ 26 Enforcement proceedings](26-enforcement-proceedings.md)
+- [§ 27 Public availability of certain competitive requests for proposals](27-public-availability-of-certain-competitive-requests-for-proposals.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -87,6 +88,8 @@ Section 1.    Short title.
         25-a. Combination gas and electric corporations; administrative
                 sanctions; recovery of penalties.
         26.   Enforcement proceedings.
+        27.   Public availability of certain competitive requests for
+                proposals.
 ```
 
 </details>

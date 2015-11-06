@@ -32,5 +32,5 @@ provided, by the board. The board may require any officer to give
 security for the faithful performance of his duties.
   * (f) No employee of the corporation shall serve as chair of the board
 or hold any other title with similar responsibilities.
-  * NB Effective January 1, 2016
+  * NB Effective January 1, 2017
 ```

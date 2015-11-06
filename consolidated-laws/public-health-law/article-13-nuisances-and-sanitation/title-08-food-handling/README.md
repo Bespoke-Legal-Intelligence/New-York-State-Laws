@@ -12,6 +12,7 @@
 - [§ 1352-B Public eating establishments; first aid instructions concerning food lodged in throat; liability](1352b-public-eating-establishments-first-aid-instructions-concerning-food-lodged.md)
 - [§ 1352-C Ice cream or other frozen desserts made with wine](1352c-ice-cream-or-other-frozen-desserts-made-with-wine.md)
 - [§ 1352-D Public food service establishment inspection results](1352d-public-food-service-establishment-inspection-results.md)
+- [§ 1352-E Companion dogs at food service establishments](1352e-companion-dogs-at-food-service-establishments.md)
 - [§ 1353 Food places; violations; penalties](1353-food-places-violations-penalties.md)
 - [§ 1354 Contracts for meat inspection](1354-contracts-for-meat-inspection.md)
 - [§ 1355 Food service safety and sanitation training](1355-food-service-safety-and-sanitation-training.md)
@@ -30,6 +31,7 @@ Section 1350.   Food places; powers of the commissioner.
                   concerning food lodged in throat; liability.
         1352-c. Ice cream or other frozen desserts made with wine.
         1352-d. Public food service establishment inspection results.
+        1352-e. Companion dogs at food service establishments.
         1353.   Food places; violations; penalties.
         1354.   Contracts for meat inspection.
         1355.   Food service safety and sanitation training.

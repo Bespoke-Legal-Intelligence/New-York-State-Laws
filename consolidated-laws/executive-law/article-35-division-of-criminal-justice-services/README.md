@@ -42,6 +42,7 @@
 - [§ 843 Division homepage on the internet](843-division-homepage-on-the-internet.md)
 - [§ 844-B New York state committee for the coordination of police services to elderly persons](844b-new-york-state-committee-for-the-coordination-of-police-services-to-elderly.md)
 - [§ 845 Central state registry of police officers and peace officers](845-central-state-registry-of-police-officers-and-peace-officers.md)
+- [§ 845-A Presentment of flags lowered to half-staff in memorial of the death of any police officer or peace officer](845a-presentment-of-flags-lowered-to-half-staff-in-memorial-of-the-death-of-any.md)
 - [§ 845-B Requests for criminal history information](845b-requests-for-criminal-history-information.md)
 - [§ 846 Programs for the aging](846-programs-for-the-aging.md)
 - [§ 846\*2 Programs for the aging](846-2-programs-for-the-aging.md)
@@ -101,6 +102,8 @@ Section 835.     Definitions.
                    services to elderly persons.
         845.     Central state registry of police officers and peace
                    officers.
+        845-a.   Presentment of flags lowered to half-staff in memorial
+                   of the death of any police officer or peace officer.
         845-b.   Requests for criminal history information.
         846.     Programs for the aging.
         846*2.   Programs for the aging.

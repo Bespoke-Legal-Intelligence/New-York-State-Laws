@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,611 |
-| Last changed | 30 Oct 2015 |
+| Sections | 1,618 |
+| Last changed | 6 Nov 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (322 lines)](chapter-text.md)
+[Full chapter text (328 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [6 Nov 2015](../../changes/2015/2015-11-06.md): 3 amended, 7 added
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 6 amended
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 1 amended
 - [18 Sep 2015](../../changes/2015/2015-09-18.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 2 amended
 - [5 Jun 2015](../../changes/2015/2015-06-05.md): 2 amended, 1 repealed
 - [1 May 2015](../../changes/2015/2015-05-01.md): 30 amended, 3 added, 1 removed
-- [24 Apr 2015](../../changes/2015/2015-04-24.md): 3 amended
 
 ## Contents
 
@@ -116,6 +116,7 @@ Assembly, do enact as follows:
 - [Article 29-C — Health Care Agents and Proxies](article-29c-health-care-agents-and-proxies/)
 - [Article 29-CC — Family Health Care Decisions Act](article-29cc-family-health-care-decisions-act/)
 - [Article 29-CCC — Nonhospital Orders Not to Resuscitate](article-29ccc-nonhospital-orders-not-to-resuscitate/)
+- [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](article-29cccc-care-act-caregiver-advise-record-and-enable-act/)
 - [Article 29-D — Health Information and Quality Improvement](article-29d-health-information-and-quality-improvement/)
 - [Article 29-E — Accountable Care Organizations](article-29e-accountable-care-organizations/)
 - [Article 29-F — Improved Integration of Health Care and Financing](article-29f-improved-integration-of-health-care/)
