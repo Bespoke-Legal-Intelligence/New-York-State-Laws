@@ -146,5 +146,17 @@ appropriate case whether a registry identification card is valid.
 any provision of this title as determined by the department, his or her
 registry identification card may be suspended or revoked. This is in
 addition to any other penalty that may apply.
+  16. The commissioner shall make regulations for special
+certifications, which shall include expedited procedures and which may
+require the applicant to submit additional documentation establishing
+the clinical basis for the special certification. If the department has
+not established and made available a form for a registry application or
+renewal application and determined the application fee if any, or
+established and made available a form for a registry application or
+renewal application and determined the application fee for a special
+certification, then in the case of a special certification, a registry
+application or renewal application that otherwise conforms with the
+requirements of this section shall not require the use of a form or the
+payment of an application fee.
   * NB Repealed July 5, 2021
 ```

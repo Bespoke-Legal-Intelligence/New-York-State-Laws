@@ -18,5 +18,5 @@ relationship shall not be held liable, provided it has complied with
 this article and acted reasonably and in good faith, for the services
 rendered or not rendered by the caregiver to the patient at the
 patient's residence.
-  * NB Effective April 23, 2015
+  * NB Effective April 23, 2016
 ```

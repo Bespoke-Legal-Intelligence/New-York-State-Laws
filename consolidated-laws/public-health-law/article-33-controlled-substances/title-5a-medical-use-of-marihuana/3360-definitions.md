@@ -94,5 +94,8 @@ and quantity or percentage of marihuana or particular active ingredient.
 corporation and includes: board members, officers, managers, owners,
 partners, principal stakeholders and members who submit an application
 to become a registered organization.
+  18. "Special certification" means a special certification made under
+subdivision nine of section thirty-three hundred sixty-one of this
+title.
   * NB Repealed July 5, 2021
 ```

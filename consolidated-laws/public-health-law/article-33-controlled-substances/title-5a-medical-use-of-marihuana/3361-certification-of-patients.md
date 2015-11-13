@@ -71,5 +71,14 @@ the form or forms of medical marihuana or dosage for the certified
 patient; and
   (e) The commissioner shall make regulations to implement this
 subdivision.
+  9.(a) A certification may be a special certification if, in addition
+to the other requirements for a certification, the practitioner
+certifies in the certification that the patient's serious condition is
+progressive and degenerative or that delay in the patient's certified
+medical use of marihuana poses a serious risk to the patient's life or
+health.
+  (b) The department shall create the form to be used for a special
+certification and shall make that form available to be downloaded from
+the department's website.
   * NB Repealed July 5, 2021
 ```

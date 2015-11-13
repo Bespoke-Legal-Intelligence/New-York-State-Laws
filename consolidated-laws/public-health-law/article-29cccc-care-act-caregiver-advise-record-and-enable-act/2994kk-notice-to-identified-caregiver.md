@@ -14,5 +14,5 @@ contact the designated caregiver, the lack of contact shall not
 interfere with, delay, or otherwise affect the medical care provided to
 the patient or an appropriate discharge of the patient. The hospital
 shall promptly document the attempt in the patient's medical record.
-  * NB Effective April 23, 2015
+  * NB Effective April 23, 2016
 ```

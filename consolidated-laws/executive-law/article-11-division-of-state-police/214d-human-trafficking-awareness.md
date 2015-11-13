@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-* § 214-d. Human trafficking awareness. The superintendent, in
+  * § 214-d. Human trafficking awareness. The superintendent, in
 consultation with the office of temporary and disability assistance and
 the division of criminal justice services, shall: (1) develop, maintain
 and disseminate to all members of the state police, including new and

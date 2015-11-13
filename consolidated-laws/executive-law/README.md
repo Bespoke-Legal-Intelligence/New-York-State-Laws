@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 849 |
-| Last changed | 6 Nov 2015 |
+| Sections | 850 |
+| Last changed | 13 Nov 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [13 Nov 2015](../../changes/2015/2015-11-13.md): 1 amended, 1 added
 - [6 Nov 2015](../../changes/2015/2015-11-06.md): 2 amended, 1 added
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 6 amended, 1 added
 - [9 Oct 2015](../../changes/2015/2015-10-09.md): 1 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [7 Aug 2015](../../changes/2015/2015-08-07.md): 1 amended
 - [31 Jul 2015](../../changes/2015/2015-07-31.md): 2 amended
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 added, 10 removed
-- [3 Jul 2015](../../changes/2015/2015-07-03.md): 1 amended
 
 ## Contents
 

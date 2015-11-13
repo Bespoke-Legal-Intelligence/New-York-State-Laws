@@ -96,6 +96,7 @@ Section 3360.   Definitions.
         3363.   Registry identification cards.
         3364.   Registered organizations.
         3365.   Registering of registered organizations.
+        3365-a. Expedited registration of registered organizations.
         3366.   Reports by registered organizations.
         3367.   Evaluation; research programs; report by department.
         3368.   Relation to other laws.

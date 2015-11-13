@@ -9,6 +9,12 @@ registered organization registrations shall be issued or become
 effective no later than eighteen months from signing or until such time
 as the commissioner and the superintendent of state police certify that
 this title can be implemented in accordance with public health and
-safety interests, whichever event comes later.
+safety interests, whichever event comes later. Prior to making a general
+certification under this section, the commissioner and the
+superintendent of state police may make a certification limited to
+accommodating expedited access for patients with special certifications
+and for registered organizations under the emergency medical marihuana
+access program under section thirty-three hundred sixty-five-a of this
+title.
   * NB Repealed July 5, 2021
 ```

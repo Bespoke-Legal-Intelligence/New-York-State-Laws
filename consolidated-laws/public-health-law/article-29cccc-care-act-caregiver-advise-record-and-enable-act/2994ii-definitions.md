@@ -31,5 +31,5 @@ not include any rehabilitation facility, hospital, nursing home,
 assisted living facility, group home or other residential health care
 facility as defined in section twenty-eight hundred one of this chapter
 or any inpatient facility regulated by the office of mental health.
-  * NB Effective April 23, 2015
+  * NB Effective April 23, 2016
 ```
