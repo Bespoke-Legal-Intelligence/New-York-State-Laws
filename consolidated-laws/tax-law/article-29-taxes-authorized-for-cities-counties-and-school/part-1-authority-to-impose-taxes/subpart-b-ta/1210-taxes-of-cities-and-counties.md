@@ -530,30 +530,6 @@ following additional rates authorized in subparagraphs (i) and (ii) of
 this paragraph: one and one-half percent for the county of Allegany; one
 percent for the counties of Rensselaer, Erie, Cattaraugus, Wyoming,
 Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin, Hamilton,
-Herkimer, Genesee, Columbia, Schuyler, Chenango, Monroe, Steuben,
-Chemung, Seneca, Livingston, Niagara, Yates, Tioga, Montgomery,
-Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence and Onondaga
-and the cities of Mount Vernon and New Rochelle; three-quarters of one
-percent for the counties of Dutchess, Lewis, Orange, and Jefferson; one
-percent and three-quarters of one percent or one-half of one percent for
-the county of Oneida; three-quarters of one percent and one-half of one
-percent for the county of Nassau; one-half of one percent and
-one-quarter of one percent and one-quarter of one percent for the city
-of White Plains; one-half or one percent for the county of Tompkins;
-three-eighths of one percent and five-eighths of one percent for the
-county of Rockland; one-half of one percent for the counties of Putnam
-and Schenectady; one-eighth of one percent and three-eighths of one
-percent for the county of Ontario; one-half of one percent and one-half
-of one percent for the county of Sullivan; one percent and one-half of
-one percent for the city of Yonkers; and three-quarters of one percent
-or one-half of one percent for the county of Chautauqua;
-  * NB Effective until December 1, 2015
-  * (iii) the maximum rate referred to in section twelve hundred
-twenty-four of this article shall be calculated without reference to the
-following additional rates authorized in subparagraphs (i) and (ii) of
-this paragraph: one and one-half percent for the county of Allegany; one
-percent for the counties of Rensselaer, Erie, Cattaraugus, Wyoming,
-Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin, Hamilton,
 Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango, Monroe,
 Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga, Montgomery,
 Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence and Onondaga
@@ -571,7 +547,33 @@ county of Ontario; one-half of one percent and one-half of one percent
 for the county of Sullivan; one percent and one-half of one percent for
 the city of Yonkers; and three-quarters of one percent or one-half of
 one percent for the county of Chautauqua;
-  * NB Effective December 1, 2015 until November 30, 2017
+  * NB Effective until November 30, 2017 and until occurence of
+contingency or contingency not being satisfied pursuant to ch 332/2015
+§§ 8 to 9
+  * (iii) the maximum rate referred to in section twelve hundred
+twenty-four of this article shall be calculated without reference to the
+following additional rates authorized in subparagraphs (i) and (ii) of
+this paragraph: one and one-half percent for the county of Allegany; one
+percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
+Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
+Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
+Monroe, Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga,
+Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence
+and Onondaga and the cities of Mount Vernon and New Rochelle;
+three-quarters of one percent for the counties of Dutchess, Lewis, and
+Orange; one percent and three-quarters of one percent or one-half of one
+percent for the county of Oneida; three-quarters of one percent and
+one-half of one percent for the county of Nassau; one-half of one
+percent and one-quarter of one percent and one-quarter of one percent
+for the city of White Plains; one-half or one percent for the county of
+Tompkins; three-eighths of one percent and five-eighths of one percent
+for the county of Rockland; one-half of one percent for the counties of
+Putnam and Schenectady; one-eighth of one percent and three-eighths of
+one percent for the county of Ontario; and one-half of one percent and
+one-half of one percent for the county of Sullivan; one percent and
+one-half of one percent for the city of Yonkers;
+  * NB Effective until November 30, 2017 and upon contingency being
+satisfied pursuant to ch 332/2015 §§ 8 to 9
   * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
@@ -594,7 +596,31 @@ and Schenectady; one-eighth of one percent and three-eighths of one
 percent for the county of Ontario; one-half of one percent and one-half
 of one percent for the county of Sullivan; and three-quarters of one
 percent or one-half of one percent for the county of Chautauqua;
-  * NB Effective November 30, 2017
+  * NB Effective November 30, 2017 and until occurrence of contingency
+or contingency not being satisfied pursuant to ch 332/2015 §§ 8 to 9
+  * (iii) the maximum rate referred to in section twelve hundred
+twenty-four of this article shall be calculated without reference to the
+following additional rates authorized in subparagraphs (i) and (ii) of
+this paragraph: one and one-half percent for the county of Allegany; one
+percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
+Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
+Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
+Monroe, Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga,
+Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence
+and Onondaga and the cities of Yonkers, Mount Vernon and New Rochelle;
+three-quarters of one percent for the counties of Dutchess, Lewis, and
+Orange; one percent and three-quarters of one percent or one-half of one
+percent for the county of Oneida; three-quarters of one percent and
+one-half of one percent for the county of Nassau; one-half of one
+percent and one-quarter of one percent and one-quarter of one percent
+for the city of White Plains; one-half or one percent for the county of
+Tompkins; three-eighths of one percent and five-eighths of one percent
+for the county of Rockland; one-half of one percent for the counties of
+Putnam and Schenectady; one-eighth of one percent and three-eighths of
+one percent for the county of Ontario; and one-half of one percent and
+one-half of one percent for the county of Sullivan;
+  * NB Effective November 30, 2017 and upon contingency being satisfied
+pursuant to ch 332/2015 §§ 8 to 9
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange
 or the county of Rockland withdraws from the metropolitan commuter

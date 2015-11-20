@@ -410,16 +410,7 @@ preferred drug, and the co-payments charged for each brand name
 prescription drug reimbursed pursuant to subparagraph (ii) of paragraph
 (a-1) of subdivision four of section three hundred sixty-five-a of this
 title shall be one dollar.
-  * NB Effective until March 31, 2019
-  * (c) Co-payments charged pursuant to this subdivision shall not
-exceed the following table:
-    State's payment                  Maximum copayment
-    for the services               chargeable to recipient
-      $10 or less                           $.50
-      $10.01 to $25                        $1.00
-      $25.01 to $50                        $2.00
-      $50.01 or more                       $3.00
-  * NB Effective March 31, 2019
+  * NB Repealed March 31, 2019
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the
 commissioner in regulations, provided in accordance with section three
