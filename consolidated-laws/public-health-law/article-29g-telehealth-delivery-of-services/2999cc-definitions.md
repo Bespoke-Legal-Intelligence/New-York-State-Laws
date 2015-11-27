@@ -33,24 +33,28 @@ fifty-four of the education law;
 article one hundred fifty-nine of the education law;
   (k) a midwife licensed pursuant to article one hundred forty of the
 education law;
-  (l) a person who is certified as a diabetes educator by the National
+  (l) a physical therapist licensed pursuant to article one hundred
+thirty-six of the education law;
+  (m) an occupational therapist licensed pursuant to article one hundred
+fifty-six of the education law;
+  (n) a person who is certified as a diabetes educator by the National
 Certification Board for Diabetes Educators, or a successor national
 certification board, or provided by such a professional who is
 affiliated with a program certified by the American Diabetes
 Association, the American Association of Diabetes Educators, the Indian
 Health Services, or any other national accreditation organization
 approved by the federal centers for medicare and medicaid services;
-  (m) a person who is certified as an asthma educator by the National
+  (o) a person who is certified as an asthma educator by the National
 Asthma Educator Certification Board, or a successor national
 certification board;
-  (n) a person who is certified as a genetic counselor by the American
+  (p) a person who is certified as a genetic counselor by the American
 Board of Genetic Counseling, or a successor national certification
 board;
-  (o) a hospital as defined in article twenty-eight of this chapter;
-  (p) a home care services agency as defined in article thirty-six of
+  (q) a hospital as defined in article twenty-eight of this chapter;
+  (r) a home care services agency as defined in article thirty-six of
 this chapter;
-  (q) a hospice as defined in article forty of this chapter; and
-  (r) any other provider as determined by the commissioner pursuant to
+  (s) a hospice as defined in article forty of this chapter; and
+  (t) any other provider as determined by the commissioner pursuant to
 regulation.
   3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of

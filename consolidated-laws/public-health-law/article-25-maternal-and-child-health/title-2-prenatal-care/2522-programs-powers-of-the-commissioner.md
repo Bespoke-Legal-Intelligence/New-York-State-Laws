@@ -15,8 +15,8 @@ providers, and improvement of regional systems of perinatal care. This
 education, outreach, home visiting, referral and systems improvement may
 include, but is not limited to:
   (a) public education concerning availability of prenatal services;
-  (b) promotion of community awareness of the benefits of preconception
-health and early and continuous prenatal care;
+  (b) promotion of community awareness of the benefits to the mother and
+child of preconception health and early and continuous prenatal care;
   (c) outreach and direct recruitment of service recipients and
 providers;
   (d) referrals and linkage to organizations providing assistance with
@@ -24,6 +24,9 @@ applications for medical assistance and enrollment in Medicaid managed
 care programs;
   (e) referrals and linkage with home visiting and other community
 services;
+  (e-1) health and nutritional education and services for both parents,
+regarding childhood and adult obesity and asthma, and the prevention or
+mitigation thereof;
   (f) follow-up of patient participation in prenatal care services;
   (g) identification of regional perinatal health care system barriers
 and limitations that lead to poor perinatal outcomes and development of

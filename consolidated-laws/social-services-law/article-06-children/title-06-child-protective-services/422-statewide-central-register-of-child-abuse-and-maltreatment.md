@@ -143,7 +143,7 @@ the subject of an indicated report and that there is reasonable cause to
 believe that such records are necessary to the investigation by the
 probation service or the department, provided, however, that only
 indicated reports shall be furnished pursuant to this subdivision;
-  (l) a district attorney, an assistant district attorney or
+  * (l) a district attorney, an assistant district attorney or
 investigator employed in the office of a district attorney, a sworn
 officer of the division of state police, of the regional state park
 police, of a city police department, or of a county, town or village
@@ -157,6 +157,45 @@ person is the subject of a report, and that it is reasonable to believe
 that due to that nature of the crime under investigation or prosecution,
 such records may be related to the criminal investigation or
 prosecution;
+  * NB Effective until January 19, 2016
+  * (l) a criminal justice agency when:
+  (i) such agency requests such information stating that such
+information is necessary to conduct a criminal investigation or criminal
+prosecution of a person, that there is reasonable cause to believe that
+such person is the subject of a report, and that it is reasonable to
+believe that due to the nature of the crime under investigation or
+prosecution, such person is the subject of a report, and that it is
+reasonable to believe that due to that nature of the crime under
+investigation or prosecution, such records may be related to the
+criminal investigation or prosecution; or
+  (ii) such agency is conducting an investigation of a missing child
+where such agency has reason to suspect such child's parent, guardian or
+other person legally responsible for such child is the subject of a
+report, or, such child or such child's sibling is another person named
+in a report of child abuse or maltreatment and that such information is
+needed to further such investigation. If, upon an initial determination
+made by the office of children and family services or local social
+services district pursuant to this clause, it is determined that such
+reports, information or photographs are not available to such criminal
+justice agency pursuant to this subdivision, the criminal justice agency
+conducting the investigation may contact the office of children and
+family services and request an immediate administrative review by a
+supervisor or designated employee, as applicable, pursuant to paragraph
+(E) of this subdivision. The local social services district shall
+provide the criminal justice agency with the most expedient and
+appropriate method to contact the office of children and family services
+in order to request such review. Once such request is received, and
+after consultation with the requesting criminal justice agency, the
+individual designated pursuant to paragraph (E) of this subdivision
+shall immediately review the request and determine de novo whether the
+provisions of this clause apply and, therefore, access to the requested
+materials should be granted. If it is determined that the criminal
+justice agency may have access to the requested materials, such
+materials shall be supplied by the office of children and family
+services or directed to be supplied by the local social services
+district in possession of such materials immediately after the
+completion of such administrative review;
+  * NB Effective January 19, 2016
   (m) the New York city department of investigation provided however,
 that no information identifying the subjects of the report or other
 persons named in the report shall be made available to the department of
@@ -218,12 +257,13 @@ family;
 one hundred sixteen of the domestic relations law, provided that such
 disinterested person shall only make this information available to the
 judge before whom the adoption proceeding is pending;
-  (q) a criminal justice agency conducting an investigation of a missing
-child where there is reason to suspect such child or such child's
-sibling, parent, guardian or other person legally responsible for such
-child is a person named in an indicated report of child abuse or
-maltreatment and that such information is needed to further such
+  * (q) a criminal justice agency conducting an investigation of a
+missing child where there is reason to suspect such child or such
+child's sibling, parent, guardian or other person legally responsible
+for such child is a person named in an indicated report of child abuse
+or maltreatment and that such information is needed to further such
 investigation;
+  * NB Repealed January 19, 2016
   (s) a child protective service of another state when such service
 certifies that the records and reports are necessary in order to conduct
 a child abuse or maltreatment investigation within its jurisdiction of
@@ -364,6 +404,20 @@ access to records, reports or other information or parts thereof
 maintained by a local department pursuant to this title may bring a
 proceeding for review of such denial pursuant to article seventy-eight
 of the civil practice law and rules.
+  * (E) The commissioner of the office of children and family services,
+shall make available a supervisor, or otherwise designate an employee,
+who shall be in regular consultation with attorneys employed by the
+office of children and family services and shall be empowered, in
+circumstances arising under clause (ii) of subparagraph (l) of paragraph
+(A) of this subdivision, to overrule a denial of access by a local
+social services district and authorize such access in accordance with
+this subdivision and the authorized regulations. Such supervisor or
+employee may be the commissioner. The office of children and family
+services shall provide the local social services districts with the most
+expedient and appropriate method that criminal justice agencies may use
+to request an administrative review pursuant to clause (ii) of
+subparagraph (l) of paragraph (A) of this subdivision.
+  * NB Effective January 19, 2016
   5. (a) Unless an investigation of a report conducted pursuant to this
 title determines that there is some credible evidence of the alleged
 abuse or maltreatment, all information identifying the subjects of the

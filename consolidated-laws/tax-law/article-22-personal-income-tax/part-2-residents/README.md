@@ -3,6 +3,8 @@
 
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 611 New York taxable income of a resident individual](611-new-york-taxable-income-of-a-resident-individual.md)
@@ -26,10 +28,13 @@
 - [§ 627-B Gift for assisting homeless veterans](627b-gift-for-assisting-homeless-veterans.md)
 - [§ 628 Gift for missing and exploited children clearinghouse fund](628-gift-for-missing-and-exploited-children-clearinghouse-fund.md)
 - [§ 629 Gift for Alzheimer's disease support services](629-gift-for-alzheimers-disease-support-services.md)
+- [§ 629-A Gift for eliminating the stigma relating to mental illness](629a-gift-for-eliminating-the-stigma-relating-to-mental-illness.md)
 - [§ 630 Gift for prostate and testicular cancer research and education](630-gift-for-prostate-and-testicular-cancer-research-and-education.md)
 - [§ 630-A Gift for World Trade Center memorial foundation](630a-gift-for-world-trade-center-memorial-foundation.md)
 - [§ 630-B Gift for volunteer firefighting and volunteer emergency services fund](630b-gift-for-volunteer-firefighting-and-volunteer-emergency-services-fund.md)
 - [§ 630-C Gift for New York state teen health education fund](630c-gift-for-new-york-state-teen-health-education-fund.md)
+- [§ 630-D Gift for women's cancers education and prevention](630d-gift-for-womens-cancers-education-and-prevention.md)
+- [§ 630-D\*2 Gift for autism awareness and research](630d-2-gift-for-autism-awareness-and-research.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -62,13 +67,16 @@ Section 611.   New York taxable income of a resident individual.
         627-b. Gift for assisting homeless veterans.
         628.   Gift for missing and exploited children clearinghouse
                  fund.
-        629.   Gift for Alzheimer's disease support services.
+        629-a. Gift for eliminating the stigma relating to mental
+                 illness.
         630.   Gift for prostate and testicular cancer research and
                  education.
         630-a. Gift for World Trade Center memorial foundation.
         630-b. Gift for volunteer firefighting and volunteer emergency
                  services fund.
         630-c. Gift for New York state teen health education fund.
+        630-d. Gift for women's cancers education and prevention.
+        630-d. Gift for autism awareness and research.
 ```
 
 </details>

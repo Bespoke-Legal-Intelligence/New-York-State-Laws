@@ -30,6 +30,7 @@
 - [§ 69 Approval of issues of stock, bonds and other forms of indebtedness; approval of mergers or consolidations](69-approval-of-issues-of-stock-bonds-and-other-forms-of-indebtedness-approval.md)
 - [§ 69-A Reorganizations](69a-reorganizations.md)
 - [§ 70 Transfer of franchises or stocks](70-transfer-of-franchises-or-stocks.md)
+- [§ 70-A Street lights](70a-street-lights.md)
 - [§ 71 Complaints as to quality and price of gas and electricity; investigation by commission; forms of complaints](71-complaints-as-to-quality-and-price-of-gas-and-electricity-investigation.md)
 - [§ 72 Notice and hearing; order fixing price of gas or electricity or requiring improvement](72-notice-and-hearing-order-fixing-price-of-gas-or-electricity-or-requiring.md)
 - [§ 72-A Increased fuel costs](72a-increased-fuel-costs.md)
@@ -83,6 +84,7 @@ Section 64.    Application of article.
                  indebtedness; approval of mergers or consolidations.
         69-a.  Reorganizations.
         70.    Transfer of franchises or stocks.
+        70-a.  Street lights.
         71.    Complaints as to quality and price of gas and
                  electricity; investigation by commission; forms of
                  complaints.

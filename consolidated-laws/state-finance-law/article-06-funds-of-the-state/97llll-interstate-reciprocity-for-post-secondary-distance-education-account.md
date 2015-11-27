@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  § 97-llll. Interstate reciprocity for post-secondary distance
+  * § 97-llll. Interstate reciprocity for post-secondary distance
 education account. 1. There is hereby established in the joint custody
 of the state comptroller and the commissioner of taxation and finance an
 account of the miscellaneous special revenue fund to be known as the
@@ -32,4 +32,5 @@ in New York state that do not participate in the interstate reciprocity
 agreement. This fee may also include an application and processing
 charge for those institutions seeking to establish a physical presence
 in New York state.
+  * NB There are 2 § 97-llll's
 ```

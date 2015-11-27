@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 611", "kind": "section", "law_id": "EXC", "location_id": "611", "path": "ARTICLE 21-B › SECTION 611", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/611.md", "title": "Manufactured housing advisory council"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 611", "kind": "section", "law_id": "EXC", "location_id": "611", "path": "ARTICLE 21-B › TITLE 1 › SECTION 611", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/611.md", "title": "Manufactured housing advisory council"} -->
 # Executive Law § 611 — Manufactured housing advisory council
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 611. Manufactured housing advisory council. 1. There is hereby

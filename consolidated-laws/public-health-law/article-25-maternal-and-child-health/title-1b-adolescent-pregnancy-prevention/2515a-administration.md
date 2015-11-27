@@ -31,10 +31,10 @@ initial and repeated pregnancy and to deal more effectively with the
 consequences associated with adolescent parenting;
   (b) serve a geographic area where there is a large number of eligible
 adolescents, or a high rate of adolescent pregnancy;
-  (c) serve a geographic area where the incidence of infant mortality
-and the prevalence of low-income families are high and where the
-availability or accessibility of services for eligible adolescents is
-low;
+  (c) serve a geographic area where the incidence of infant mortality,
+low birth weight infants, childhood obesity and the prevalence of
+low-income families are high and where the availability or accessibility
+of services for eligible adolescents is low;
   (d) utilize existing community resources; and
   (e) maximize the use of federal, or other state, private and local
 resources.

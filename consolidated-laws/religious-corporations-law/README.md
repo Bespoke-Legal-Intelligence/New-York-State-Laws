@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RCO |
 | Type | Consolidated law, chapter 51 |
-| Sections | 305 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 335 |
+| Last changed | 27 Nov 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Religious Corporations |
 
@@ -27,7 +27,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (50 lines)](chapter-text.md)
+[Full chapter text (53 lines)](chapter-text.md)
+
+## Recent changes
+
+- [27 Nov 2015](../../changes/2015/2015-11-27.md): 1 amended, 30 added
 
 ## Contents
 
@@ -62,3 +66,6 @@ Assembly, do enact as follows:
 - [Article 19 — Unitarian and Universalist Societies](article-19-unitarian-and-universalist-societies/)
 - [Article 20 — Assemblies of God Churches](article-20-assemblies-of-god-churches/)
 - [Article 21 — Coptic Orthodox Churches](article-21-coptic-orthodox-churches/)
+- [Article 22 — Organizations of the Hindu Faith](article-22-organizations-of-the-hindu-faith/)
+- [Article 23 — Organizations of the Sikh Faith](article-23-organizations-of-the-sikh-faith/)
+- [Article 24 — Organizations of the Islamic Faith](article-24-organizations-of-the-islamic-faith/)

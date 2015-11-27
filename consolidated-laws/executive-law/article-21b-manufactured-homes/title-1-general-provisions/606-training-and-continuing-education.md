@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 606", "kind": "section", "law_id": "EXC", "location_id": "606", "path": "ARTICLE 21-B › SECTION 606", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/606.md", "title": "Training and continuing education"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 606", "kind": "section", "law_id": "EXC", "location_id": "606", "path": "ARTICLE 21-B › TITLE 1 › SECTION 606", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/606.md", "title": "Training and continuing education"} -->
 # Executive Law § 606 — Training and continuing education
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 606. Training and continuing education. 1. Beginning January first,

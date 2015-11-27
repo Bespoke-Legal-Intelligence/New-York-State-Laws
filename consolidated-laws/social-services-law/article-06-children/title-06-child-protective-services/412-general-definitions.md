@@ -48,4 +48,9 @@ abuse or maltreatment exists.
 person who has been issued a credential therefor by the office of
 alcoholism and substance abuse services, pursuant to paragraphs one and
 two of subdivision (d) of section 19.07 of the mental hygiene law.
+  * 9. "Criminal justice agency" means a district attorney, assistant
+district attorney, an investigator employed in the office of a district
+attorney, or a police officer defined by subdivision thirty-four of
+section 1.20 of the criminal procedure law.
+  * NB Effective January 19, 2016
 ```

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 607", "kind": "section", "law_id": "EXC", "location_id": "607", "path": "ARTICLE 21-B › SECTION 607", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/607.md", "title": "Penalties for violation of this article"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 607", "kind": "section", "law_id": "EXC", "location_id": "607", "path": "ARTICLE 21-B › TITLE 1 › SECTION 607", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/607.md", "title": "Penalties for violation of this article"} -->
 # Executive Law § 607 — Penalties for violation of this article
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 607. Penalties for violation of this article. Any person or business

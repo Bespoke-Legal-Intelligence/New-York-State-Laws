@@ -11,10 +11,12 @@ is at risk of becoming a parent, is pregnant, or is a parent.
   2. "Services for eligible adolescents" means those services, including
 but not limited to: vocational and educational counseling, job skills
 training, family life and parenting education, life skills development,
-coordination, case management, primary preventive health care, family
-planning, social and recreational programs, child care, outreach and
-advocacy, follow-up on service utilization, crisis intervention, and
-efforts to stimulate community interest and involvement.
+coordination, case management, primary preventive health care, pregnancy
+and child nutrition counseling for expectant mothers to curb the
+incidence of childhood obesity, family planning, social and recreational
+programs, child care, outreach and advocacy, follow-up on service
+utilization, crisis intervention, and efforts to stimulate community
+interest and involvement.
   3. "Community council" means a group of volunteers responsible for the
 development of the community service project plan which, to the extent
 possible, represents the needs and values of the community and which

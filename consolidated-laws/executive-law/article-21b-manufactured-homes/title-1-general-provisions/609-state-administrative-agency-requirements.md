@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 609", "kind": "section", "law_id": "EXC", "location_id": "609", "path": "ARTICLE 21-B › SECTION 609", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/609.md", "title": "State administrative agency requirements"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 609", "kind": "section", "law_id": "EXC", "location_id": "609", "path": "ARTICLE 21-B › TITLE 1 › SECTION 609", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/609.md", "title": "State administrative agency requirements"} -->
 # Executive Law § 609 — State administrative agency requirements
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 609. State administrative agency requirements. 1. In carrying out

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 603", "kind": "section", "law_id": "EXC", "location_id": "603", "path": "ARTICLE 21-B › SECTION 603", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/603.md", "title": "Warranty seals; notice to the department"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 603", "kind": "section", "law_id": "EXC", "location_id": "603", "path": "ARTICLE 21-B › TITLE 1 › SECTION 603", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/603.md", "title": "Warranty seals; notice to the department"} -->
 # Executive Law § 603 — Warranty seals; notice to the department
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 603. Warranty seals; notice to the department. 1. Before a

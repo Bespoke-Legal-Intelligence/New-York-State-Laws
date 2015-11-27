@@ -10,6 +10,7 @@
 - [§ 70 Classification of funds](70-classification-of-funds.md)
 - [§ 71 Abolition, maintenance and establishment of funds](71-abolition-maintenance-and-establishment-of-funds.md)
 - [§ 71-A Funds established by law](71a-funds-established-by-law.md)
+- [§ 71-B Expenditure of check-off monies](71b-expenditure-of-check-off-monies.md)
 - [§ 72 General fund](72-general-fund.md)
 - [§ 73 Federal interest subsidy payments](73-federal-interest-subsidy-payments.md)
 - [§ 74 Transportation infrastructure renewal fund](74-transportation-infrastructure-renewal-fund.md)
@@ -87,6 +88,7 @@
 - [§ 95-F The New York state water rescue team awareness and research fund](95f-the-new-york-state-water-rescue-team-awareness-and-research-fund.md)
 - [§ 95-F\*2 The Eighth Air Force Historical Society fund](95f-2-the-eighth-air-force-historical-society-fund.md)
 - [§ 95-G Department of motor vehicles distinctive plate development fund](95g-department-of-motor-vehicles-distinctive-plate-development-fund.md)
+- [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)
 - [§ 97-A Environmental quality protection fund](97a-environmental-quality-protection-fund.md)
 - [§ 97-B Hazardous waste remedial fund](97b-hazardous-waste-remedial-fund.md)
@@ -186,6 +188,7 @@
 - [§ 97-JJJJ Education assessment account](97jjjj-education-assessment-account.md)
 - [§ 97-KKKK Intervenor account](97kkkk-intervenor-account.md)
 - [§ 97-LLLL Interstate reciprocity for post-secondary distance education account](97llll-interstate-reciprocity-for-post-secondary-distance-education-account.md)
+- [§ 97-LLLL\*2 Women's cancers education and prevention fund](97llll-2-womens-cancers-education-and-prevention-fund.md)
 - [§ 97-MMMM Veterans remembrance and cemetery maintenance and operation fund](97mmmm-veterans-remembrance-and-cemetery-maintenance-and-operation-fund.md)
 - [§ 97-NNNN Commercial gaming revenue fund](97nnnn-commercial-gaming-revenue-fund.md)
 - [§ 97-OOOO Basic health program trust fund](97oooo-basic-health-program-trust-fund.md)
@@ -233,6 +236,7 @@
 Section 70.        Classification of funds.
         71.        Abolition, maintenance and establishment of funds.
         71-a.      Funds established by law.
+        71-b.      Expenditure of check-off monies.
         72.        General fund.
         73.        Federal interest subsidy payments.
         74.        Transportation infrastructure renewal fund.
@@ -328,6 +332,7 @@ Section 70.        Classification of funds.
         95-f*2.    The Eighth Air Force Historical Society fund.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
+        95-h.      Mental illness anti-stigma fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
         97-b.      Hazardous waste remedial fund.
@@ -448,6 +453,7 @@ Section 70.        Classification of funds.
         97-kkkk.   Intervenor account.
         97-llll.   Interstate reciprocity for post-secondary distance
                      education account.
+        97-llll*2. Women's cancers education and prevention fund.
         97-mmmm.   Veterans remembrance and cemetery maintenance and
                      operation fund.
         97-nnnn.   Commercial gaming revenue fund.

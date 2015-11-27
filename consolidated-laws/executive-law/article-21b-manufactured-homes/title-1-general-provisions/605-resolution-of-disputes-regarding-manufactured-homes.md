@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 605", "kind": "section", "law_id": "EXC", "location_id": "605", "path": "ARTICLE 21-B › SECTION 605", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/605.md", "title": "Resolution of disputes regarding manufactured homes"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 605", "kind": "section", "law_id": "EXC", "location_id": "605", "path": "ARTICLE 21-B › TITLE 1 › SECTION 605", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/605.md", "title": "Resolution of disputes regarding manufactured homes"} -->
 # Executive Law § 605 — Resolution of disputes regarding manufactured homes
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 605. Resolution of disputes regarding manufactured homes. 1. Any

@@ -28,5 +28,5 @@ the payment of tax refunds, the department shall describe to taxpayers
 all of the features of the debit card program (e.g., withdrawal at any
 ATM or point-of-sale use), including any fee or fees which may be
 charged to the taxpayer in accessing his or her tax refund.
-  * NB Repealed November 15, 2016
+  * NB Repealed November 15, 2021
 ```

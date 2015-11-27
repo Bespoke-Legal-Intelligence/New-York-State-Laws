@@ -38,7 +38,7 @@ home care program authorized pursuant to article thirty-six of the
 public health law, or is eligible for personal care services provided
 pursuant to this article;
   (b) is eligible for medical assistance;
-  (c) has been determined by the social services district, pursuant to
+  * (c) has been determined by the social services district, pursuant to
 an assessment of the person's appropriateness for the program, conducted
 with an appropriate long term home health care program, a certified home
 health agency, or an AIDS home care program or pursuant to the personal
@@ -48,10 +48,23 @@ to make informed choices, or has designated a relative or other adult
 who is able and willing to assist in making informed choices, as to the
 type and quality of services, including but not limited to such services
 as nursing care, personal care, transportation and respite services; and
+  * NB Effective until April 1, 2016
+  * (c) has been determined by the social services district, pursuant to
+an assessment of the person's appropriateness for the program, conducted
+with an appropriate long term home health care program, a certified home
+health agency, or an AIDS home care program or pursuant to the personal
+care program, as being in need of home care services or private duty
+nursing and is able and willing or has a designated representative,
+including a legal guardian able and willing to make informed choices, or
+a designated relative or other adult who is able and willing to assist
+in making informed choices, as to the type and quality of services,
+including but not limited to such services as nursing care, personal
+care, transportation and respite services; and
+  * NB Effective April 1, 2016
   (d) meets such other criteria, as may be established by the
 commissioner, which are necessary to effectively implement the
 objectives of this section.
-  3. Division of responsibilities. Eligible individuals who elect to
+  * 3. Division of responsibilities. Eligible individuals who elect to
 participate in the program assume the responsibility for services under
 such program as mutually agreed to by the eligible individual and
 provider and as documented in the eligible individual's record. Such
@@ -66,6 +79,38 @@ fulfill those responsibilities documented in his or her records. Failure
 of the individual to carry out his or her agreed to responsibilities may
 be considered in determining such individual's continued appropriateness
 for the program.
+  * NB Effective until April 1, 2016
+  * 3. Division of responsibilities. Eligible individuals who elect to
+participate in the program assume the responsibility for services under
+such program as mutually agreed to by the eligible individual and
+provider and as documented in the eligible individual's record,
+including, but not limited to, recruiting, hiring and supervising their
+personal assistants. For the purposes of this section, personal
+assistant shall mean an adult who provides services under this section
+to the eligible individual under the eligible individual's instruction,
+supervision and direction or under the instruction, supervision and
+direction of the eligible individual's designated representative,
+provided that a person legally responsible for an eligible individual's
+care and support, an eligible individual's spouse or designated
+representative may not be the personal assistant for the eligible
+individual; however, a personal assistant may include any other adult
+relative of the eligible individual, provided, however, that the program
+determines that the services provided by such relative are consistent
+with an individual's plan of care and that the aggregate cost for such
+services does not exceed the aggregate costs for equivalent services
+provided by a non-relative personal assistant. Such individuals shall be
+assisted as appropriate with service coverage, supervision, advocacy and
+management. Providers shall not be liable for fulfillment of
+responsibilities agreed to be undertaken by the eligible individual.
+This subdivision, however, shall not diminish the participating
+provider's liability for failure to exercise reasonable care in properly
+carrying out its responsibilities under this program, which shall
+include monitoring such individual's continuing ability to fulfill those
+responsibilities documented in his or her records. Failure of the
+individual to carry out his or her agreed to responsibilities may be
+considered in determining such individual's continued appropriateness
+for the program.
+  * NB Effective April 1, 2016
   4. Participating providers. All agencies or individuals who meet the
 qualifications to provide home health, personal care or nursing services
 and who elect to provide such services to persons receiving medical

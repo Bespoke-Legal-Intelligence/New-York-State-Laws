@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 743", "kind": "section", "law_id": "FCT", "location_id": "743", "path": "ARTICLE 7 › PART 4 › SECTION 743", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/743.md", "title": "Acceptance of an admission"} -->
+# Family Court Act § 743 — Acceptance of an admission
+
+[Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 4 — Hearings](README.md)
+
+```text
+  * § 743. Acceptance of an admission. (a) Before accepting an
+admission, the court shall advise the respondent of his or her right to
+a fact-finding hearing. The court shall also ascertain through
+allocution of the respondent and his or her parent or person legally
+responsible for his or her care, if present, that the respondent:
+  (i) committed the act or acts to which an admission is being entered;
+  (ii) is voluntarily waiving his or her right to a fact-finding
+hearing; and
+  (iii) is aware of the possible specific dispositional orders.
+The provisions of this subdivision shall not be waived.
+  (b) Upon acceptance of an admission, the court shall state the reasons
+for its determination and shall enter a fact-finding order. The court
+shall schedule a dispositional hearing in accordance with subdivision
+(b) or (c) of section seven hundred forty-nine of this part.
+  * NB Effective February 18, 2016
+```

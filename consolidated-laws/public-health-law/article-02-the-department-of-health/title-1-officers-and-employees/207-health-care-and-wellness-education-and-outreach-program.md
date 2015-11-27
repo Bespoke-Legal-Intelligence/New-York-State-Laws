@@ -48,7 +48,12 @@ preconceptional care, early prenatal care, considerations of health
 risks during pregnancy, considerations of benefits and risks of labor
 and delivery options including, but not limited to, vaginal and cesarean
 section delivery, elective or repeat cesarean sections, and appropriate
-use of drugs during delivery.
+use of drugs during delivery. There shall also be education and outreach
+concerning spina bifida, a permanently disabling birth defect occurring
+at the end of the first month of pregnancy which involves the incomplete
+development of the spinal cord or its coverings, and the importance of
+encouraging all women in their child-bearing years to increase their
+folic acid intake in order to reduce the incidence of spina bifida.
   (h) Palliative care options for patients with a terminal illness or
 condition.
   (i) About the short term and long term adverse health risks to adults
@@ -64,7 +69,23 @@ designed to promote the awareness of eating disorders and available
 services, as well as to prevent and reduce the incidence and prevalence
 of eating disorders, especially among children and adolescents.
   * NB There are 2 par (j)'s
-  (k) Donating umbilical cord blood to a public cord blood bank.
+  * (k) Donating umbilical cord blood to a public cord blood bank.
+  * NB There are 3 par (k)'s
+  * (k) The availability of individual, family and group counseling
+programs, education programs, and advocacy services provided at no cost
+by governmental agencies and not-for-profit organizations for victims of
+any sexual offense which constitutes a crime and for victims of child
+pornography promotion or possession.
+  * NB There are 3 par (k)'s
+  * (k) The physical, sexual and psychological consequences of
+undergoing female genital mutilation, including the practice of
+"vacation cutting" whereby girls are sent out of state or the country to
+undergo female genital mutilation, typically during school vacations.
+  * NB There are 3 par (k)'s
+  (l) The dangers of women's cancers, including ways to prevent and
+severity of such diseases. For purposes of this paragraph, women's
+cancers shall mean and include: cervical, endometrial, gestational
+trophoblastic tumor, ovarian, uterine sarcoma, vaginal, and vulvar.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

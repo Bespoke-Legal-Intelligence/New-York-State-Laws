@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Education Law § 7904-A", "kind": "section", "law_id": "EDN", "location_id": "7904-A", "path": "TITLE 8 › ARTICLE 156 › SECTION 7904-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7904-A.md", "title": "Requirements for license as an occupational therapy assistant"} -->
+# Education Law § 7904-A — Requirements for license as an occupational therapy assistant
+
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 156 — Occupational Therapy](README.md)
+
+```text
+  * § 7904-a. Requirements for license as an occupational therapy
+assistant. To qualify for a license as an occupational therapy assistant
+an applicant shall fulfill the following requirements:
+  (a) file an application with the department;
+  (b) have received an education as follows: completion of a two-year
+associate degree program for occupational therapy assistants registered
+by the department or accredited by a national accreditation agency which
+is satisfactory to the department;
+  (c) have a minimum of sixteen weeks clinical experience satisfactory
+to the state board for occupational therapy and in accordance with
+standards established by a national accreditation agency which is
+satisfactory to the department;
+  (d) be at least eighteen years of age;
+  (e) be of good moral character as determined by the department;
+  (f) pay a fee for an initial license and a fee for each triennial
+registration period that shall be one-half of the fee for initial
+license and for each triennial registration period established for
+occupational therapists; and
+  (g) except as otherwise provided by subdivision two of section
+seventy-nine hundred seven of this article, pass an examination
+acceptable to the department.
+  * NB Effective May 18, 2016
+```

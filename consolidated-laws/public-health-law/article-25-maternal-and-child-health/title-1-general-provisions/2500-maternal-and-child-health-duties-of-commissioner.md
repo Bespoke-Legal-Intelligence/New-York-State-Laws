@@ -4,14 +4,15 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 2500. Maternal and child health; duties of commissioner.  1. The
+  § 2500. Maternal and child health; duties of commissioner. 1. The
 commissioner shall act in an advisory and supervisory capacity, in
 matters pertaining to the safeguarding of motherhood, the prevention of
 maternal, perinatal, infant and child mortality, the prevention of
-diseases, low birth weight, and defects of childhood and the promotion
-of maternal, prenatal and child health, including care in hospitals, and
-shall administer such services bearing on the health of mothers and
-children for which funds are or shall hereafter be made available.
+diseases, low birth weight, childhood obesity, and defects of childhood
+and the promotion of maternal, prenatal and child health, including care
+in hospitals, and shall administer such services bearing on the health
+of mothers and children for which funds are or shall hereafter be made
+available.
   2. The commissioner shall establish minimum standards in accordance
 with established and accepted medical principles for local maternal and
 child health services administered by or under the general supervision

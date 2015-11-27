@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 156 — Occupational Therapy](README.md)
 
 ```text
-  § 7903. State board for occupational therapy. A state board for
+  * § 7903. State board for occupational therapy. A state board for
 occupational therapy shall be appointed by the board of regents on the
 recommendation of the commissioner for the purpose of assisting the
 board of regents and the department on matters of professional licensing
@@ -14,4 +14,16 @@ licensed occupational therapists, one physician, and two members of the
 public who are not licensed under this title. An executive secretary to
 the board shall be appointed by the board of regents on recommendation
 of the commissioner.
+  * NB Effective until May 18, 2016
+  * § 7903. State board for occupational therapy. A state board for
+occupational therapy shall be appointed by the board of regents on the
+recommendation of the commissioner for the purpose of assisting the
+board of regents and the department on matters of professional licensing
+and professional conduct in accordance with section sixty-five hundred
+eight of this title. The board shall be composed of not less than six
+licensed occupational therapists, one licensed occupational therapy
+assistant, one physician, and two members of the public who are not
+licensed under this title. An executive secretary to the board shall be
+appointed by the board of regents on recommendation of the commissioner.
+  * NB Effective May 18, 2016
 ```

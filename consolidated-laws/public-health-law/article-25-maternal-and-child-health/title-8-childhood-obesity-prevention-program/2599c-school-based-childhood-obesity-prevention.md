@@ -5,7 +5,9 @@
 
 ```text
   § 2599-c. School-based childhood obesity prevention and physical
-activity programs. The commissioner shall encourage the establishment of
+activity programs. The commissioner, in cooperation with the
+commissioners of education and agriculture and markets, and county
+boards of cooperative extension, shall encourage the establishment of
 school-based childhood obesity prevention and physical activity programs
 that promote:
   1. A healthy school environment, including physical and aesthetic

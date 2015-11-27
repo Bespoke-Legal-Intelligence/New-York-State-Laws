@@ -56,12 +56,15 @@ Section 611.   New York taxable income of a resident individual.
         628.   Gift for missing and exploited children clearinghouse
                  fund.
         629.   Gift for Alzheimer's disease support services.
+        629-a. Gift for eliminating the stigma relating to mental
+                 illness.
         630.   Gift for prostate cancer research, detection and
                  education.
         630-a. Gift for World Trade Center memorial foundation.
         630-b. Gift for volunteer firefighting and volunteer emergency
                  services fund.
         630-c. Gift for New York state teen health education fund.
+        630-d. Gift for women's cancers education and prevention.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.   New York source income of a nonresident individual.
         632.   Nonresident partners and electing shareholders of S

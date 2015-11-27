@@ -13,6 +13,7 @@
 - [§ 603-B Accidents; police to indicate serious physical injury and death on simplified traffic information or summons and compliant](603b-accidents-police-to-indicate-serious-physical.md)
 - [§ 604 Reports; contents; preparation; distribution; filing](604-reports-contents-preparation-distribution-filing.md)
 - [§ 605 Report required upon accident](605-report-required-upon-accident.md)
+- [§ 606 Processing of required reports](606-processing-of-required-reports.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,6 +33,7 @@ Section 600.   Leaving scene of an incident without reporting.
                  compliant.
         604.   Reports; contents; preparation; distribution; filing.
         605.   Report required upon accident.
+        606.   Processing of required reports.
 ```
 
 </details>

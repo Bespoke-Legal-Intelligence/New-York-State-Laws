@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 601", "kind": "section", "law_id": "EXC", "location_id": "601", "path": "ARTICLE 21-B › SECTION 601", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/601.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 601", "kind": "section", "law_id": "EXC", "location_id": "601", "path": "ARTICLE 21-B › TITLE 1 › SECTION 601", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/601.md", "title": "Definitions"} -->
 # Executive Law § 601 — Definitions
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 601. Definitions. For the purposes of this article the following
+  § 601. Definitions. For the purposes of this title, the following
 terms shall have the following meanings:
   1. "Business entity" means a corporation, association, partnership,
 limited liability company, limited liability partnership, or other legal

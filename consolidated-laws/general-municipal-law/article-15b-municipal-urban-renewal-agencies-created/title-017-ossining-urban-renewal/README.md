@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 586 Ossining urban renewal agency](586-ossining-urban-renewal-agency.md)
+- [§ 586 Ossining urban renewal agency](586-ossining-urban-renewal-agency.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -13,7 +13,6 @@
 ```text
                                 TITLE 17
                       OSSINING URBAN RENEWAL AGENCY
-Section 586. Ossining urban renewal agency.
 ```
 
 </details>

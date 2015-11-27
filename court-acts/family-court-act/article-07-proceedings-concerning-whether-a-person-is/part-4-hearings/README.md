@@ -8,6 +8,7 @@
 - [§ 741 Notice of rights; general provision](741-notice-of-rights-general-provision.md)
 - [§ 741-A Notice and right to be heard](741a-notice-and-right-to-be-heard.md)
 - [§ 742 Diversion attempts](742-diversion-attempts.md)
+- [§ 743 Acceptance of an admission](743-acceptance-of-an-admission.md)
 - [§ 744 Evidence in fact-finding hearings; required quantum](744-evidence-in-fact-finding-hearings-required-quantum.md)
 - [§ 745 Evidence in dispositional hearings; required quantum of proof](745-evidence-in-dispositional-hearings-required-quantum-of-proof.md)
 - [§ 746 Sequence of hearings](746-sequence-of-hearings.md)
@@ -25,6 +26,7 @@
 Section 741.   Notice of rights; general provision.
         741-a. Notice and right to be heard.
         742.   Diversion attempts.
+        743. Acceptance of an admission.
         744.   Evidence in fact-finding hearings; required quantum.
         745.   Evidence in dispositional hearings; required quantum of
                  proof.

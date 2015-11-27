@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 604", "kind": "section", "law_id": "EXC", "location_id": "604", "path": "ARTICLE 21-B › SECTION 604", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/604.md", "title": "Powers of the department"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 604", "kind": "section", "law_id": "EXC", "location_id": "604", "path": "ARTICLE 21-B › TITLE 1 › SECTION 604", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/604.md", "title": "Powers of the department"} -->
 # Executive Law § 604 — Powers of the department
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 604. Powers of the department. The department shall have the

@@ -202,17 +202,17 @@ this subparagraph) and the vendor's, operator's or recipient's state
 liquor authority license number, along with the information required by
 paragraph two of this subdivision. A person operating pursuant to a farm
 winery license as provided in section seventy-six-a of the alcoholic
-beverage control law, or a person operating pursuant to a farm
-distillery license as provided in subdivision two-c of section sixty-one
-of such law, or a person operating pursuant to a farm cidery license as
-provided in section fifty-eight-c of the alcoholic beverage control law,
-or a person operating pursuant to a farm brewery license as provided in
-section fifty-one-a of the alcoholic beverage control law, or a person
-operating pursuant to a brewer's license as provided in section
-fifty-one of the alcoholic beverage control law who produces less than
-sixty thousand barrels of beer a year, or a person operating pursuant to
-any combination of such licenses, shall not be subject to any of the
-requirements of this subdivision.
+beverage control law, or a person operating pursuant to a winery license
+as provided in section seventy-six of the alcoholic beverage control law
+and whose winery manufactures less than one hundred fifty thousand
+finished gallons of wine annually, or a person operating pursuant to a
+farm distillery license as provided in subdivision two-c of section
+sixty-one of such law, or a person operating pursuant to a farm cidery
+license as provided in section fifty-eight-c of the alcoholic beverage
+control law, or a person operating pursuant to a farm brewery license as
+provided in section fifty-one-a of the alcoholic beverage control law,
+or a person operating pursuant to any combination of such licenses,
+shall not be subject to any of the requirements of this subdivision.
   (2) The returns required by paragraph one of this subdivision must
 also include, for each vendor, operator, or recipient about whom
 information is required to be reported under such paragraph, the name

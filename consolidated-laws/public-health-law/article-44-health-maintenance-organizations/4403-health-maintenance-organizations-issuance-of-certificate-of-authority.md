@@ -259,16 +259,17 @@ services for persons with developmental disabilities, as demonstrated by
 criteria to be determined by the commissioner and the commissioner of
 the office for people with developmental disabilities. Such criteria
 shall include, but not be limited to, adequate experience providing or
-coordinating services for persons with developmental disabilities.
+coordinating services for persons with developmental disabilities;
   (a-1) If the commissioner and the commissioner of the office for
 people with developmental disabilities determine that such organization
 lacks the experience required in paragraph (a) of this subdivision, the
 organization shall have an affiliation arrangement with an entity or
-entities with experience serving persons with developmental disabilities
-such that the affiliated entity will coordinate and plan services
-operated, certified, funded, authorized or approved by the office for
-people with developmental disabilities or will oversee and approve such
-coordination and planning;
+entities that are non-profit with experience serving persons with
+developmental disabilities, including, but not limited to, residential,
+day, and employment services such that the affiliated entity will
+coordinate and plan services operated, certified, funded, authorized or
+approved by the office for people with developmental disabilities or
+will oversee and approve such coordination and planning;
   (a-2) Each enrollee shall receive services designed to achieve
 person-centered outcomes, to enable that person to live in the most
 integrated setting appropriate to that person's needs, and to enable

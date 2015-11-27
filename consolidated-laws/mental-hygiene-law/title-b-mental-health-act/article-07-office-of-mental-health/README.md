@@ -30,6 +30,7 @@
 - [§ 7.41 Geriatric service demonstration program](7.41-geriatric-service-demonstration-program.md)
 - [§ 7.43 The children's plan](7.43-the-childrens-plan.md)
 - [§ 7.45 Retaliatory personnel actions](7.45-retaliatory-personnel-actions.md)
+- [§ 7.47 Mental illness anti-stigma grants](7.47-mental-illness-anti-stigma-grants.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,6 +73,7 @@ Section 7.01    Declaration of policy.
         7.41    Geriatric service demonstration program.
         7.43    The children's plan.
         7.45    Retaliatory personnel actions.
+        7.47    Mental illness anti-stigma grants.
 ```
 
 </details>

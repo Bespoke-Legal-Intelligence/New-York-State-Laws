@@ -7,6 +7,7 @@
 
 - [§ 670 Application of article](670-application-of-article.md)
 - [§ 671 General duties of coroner, or coroner and coroner's physician, or medical examiner; additional duties may be directed](671-general-duties-of-coroner-or-coroner-and-coroners-physician-or-medical-examiner.md)
+- [§ 672 Mutual aid agreements for coroners' services](672-mutual-aid-agreements-for-coroners-services.md)
 - [§ 673 Deaths concerning which a coroner, coroner and coroner's physician or medical examiner has jurisdiction to investigate](673-deaths-concerning-which-a-coroner-coroner-and-coroners-physician-or-medical.md)
 - [§ 674 Manner of investigation](674-manner-of-investigation.md)
 - [§ 674-A Manner of investigation when decedent is a donor of an anatomical gift](674a-manner-of-investigation-when-decedent-is-a-donor-of-an-anatomical-gift.md)
@@ -25,6 +26,7 @@ Section 670.   Application of article.
         671.   General duties of coroner, or coroner and coroner's
                  physician, or medical examiner; additional duties may
                  be directed.
+        672.   Mutual aid agreements for coroners' services.
         673.   Deaths concerning which a coroner, coroner and coroner's
                  physician or medical examiner has jurisdiction to
                  investigate.

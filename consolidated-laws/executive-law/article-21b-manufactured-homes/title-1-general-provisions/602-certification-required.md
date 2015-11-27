@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 602", "kind": "section", "law_id": "EXC", "location_id": "602", "path": "ARTICLE 21-B › SECTION 602", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/602.md", "title": "Certification required"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 602", "kind": "section", "law_id": "EXC", "location_id": "602", "path": "ARTICLE 21-B › TITLE 1 › SECTION 602", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/602.md", "title": "Certification required"} -->
 # Executive Law § 602 — Certification required
 
-[Executive Law](../README.md) › [Article 21-B — Manufactured Homes](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
   § 602. Certification required. 1. On and after July first, two

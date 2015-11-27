@@ -53,6 +53,12 @@ paragraph (b) of subdivision two of section four hundred sixty-three-a
 of this chapter; and a report on the operation of the child support
 enforcement program, as required by chapter six hundred eighty-five of
 the laws of nineteen hundred seventy-five;
+  * (d-1) submit to the governor and the legislature one year after the
+effective date of this subdivision a report of the efforts of each local
+social services district to identify, prevent, and address their
+homeless population, including but not limited to projects funded by
+federal, state, municipal, or private dollars;
+  * NB Repealed January 1, 2017
   (e) work cooperatively with the commissioner of the office of mental
 health and the commissioner of the office of mental retardation and
 developmental disabilities to assist the commissioner of education in
