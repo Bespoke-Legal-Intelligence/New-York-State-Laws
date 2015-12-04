@@ -39,7 +39,7 @@ such taxes for educational purposes or for such allocation and
 distribution, or both, at not to exceed one-third of such maximum rate.
 In such event, a city in the county shall have prior right to impose
 such taxes at not to exceed one-third of such maximum rate.
-  * (c-1) Notwithstanding any other provision of law: (1) Where a county
+  (c-1) Notwithstanding any other provision of law: (1) Where a county
 containing one or more cities with a population of less than one million
 has elected the exemption for residential solar energy systems equipment
 and electricity provided in subdivision (ee) of section eleven hundred
@@ -60,7 +60,6 @@ located shall have the prior right to impose tax on such exempt
 equipment and/or electricity to the extent of one half of the maximum
 rates authorized under subdivision (a) of section twelve hundred ten of
 this article.
-  * NB Effective December 1, 2015
   * (d) The city of Yonkers shall have the sole right to impose the
 additional one percent and one-half of one percent rate of tax which
 such city is authorized to impose pursuant to the authority of section
@@ -542,18 +541,6 @@ empowered to adopt pursuant to section twelve hundred ten of this
 article.
   * NB There are 2 sub (cc)'s
   * (dd) The county of Jefferson shall have the sole right to impose the
-additional three-quarters of one percent rate of tax which such county
-is authorized to impose pursuant to the authority of section twelve
-hundred ten of this article. Such additional rate of tax shall be in
-addition to any other tax which such county may impose or may be
-imposing pursuant to this article or any other law and such additional
-rate of tax shall not be subject to preemption. The maximum three
-percent rate referred to in this section shall be calculated without
-reference to the additional three-quarters of one percent rate of tax
-which the county of Jefferson is authorized and empowered to adopt
-pursuant to section twelve hundred ten of this article.
-  * NB Effective until December 1, 2015
-  * (dd) The county of Jefferson shall have the sole right to impose the
 additional one percent rate of tax which such county is authorized to
 impose pursuant to the authority of section twelve hundred ten of this
 article. Such additional rate of tax shall be in addition to any other
@@ -564,7 +551,6 @@ this section shall be calculated without reference to the additional one
 percent rate of tax which the county of Jefferson is authorized and
 empowered to adopt pursuant to section twelve hundred ten of this
 article.
-  * NB Effective December 1, 2015
   * NB There are 2 sub (dd)'s
   * (dd) The county of Onondaga shall have the sole right to impose the
 additional one percent rate of tax which such county is authorized to

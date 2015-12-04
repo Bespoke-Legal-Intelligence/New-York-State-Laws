@@ -18,9 +18,6 @@
 - [§ 610 State certified installers](610-state-certified-installers.md)
 - [§ 611 Manufactured housing advisory council](611-manufactured-housing-advisory-council.md)
 - [§ 612 Powers and duties of the advisory council](612-powers-and-duties-of-the-advisory-council.md)
-- [§ 615 Definitions](615-definitions.md)
-- [§ 616 Manufactured homes as single-family dwellings in residential districts](616-manufactured-homes-as-single-family-dwellings-in-residential-districts.md)
-- [§ 617 Manufactured home parks to be consistent](617-manufactured-home-parks-to-be-consistent.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

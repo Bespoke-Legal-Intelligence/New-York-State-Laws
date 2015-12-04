@@ -331,18 +331,10 @@ thirtieth, two thousand seventeen;
   * NB There are 4 clause (36)'s
   * (37) the county of Jefferson is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
-imposing such taxes at a rate which is three-quarters of one percent
-additional to the three percent rate authorized above in this paragraph
-for such county for the period beginning September first, two thousand
-four, and ending November thirtieth, two thousand fifteen;
-  * NB Effective until December 1, 2015
-  * (37) the county of Jefferson is hereby further authorized and
-empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning December first, two thousand fifteen, and
 ending November thirtieth, two thousand seventeen;
-  * NB Effective December 1, 2015
   * NB There are 2 clause (37)'s
   * (37) the county of Onondaga is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
@@ -637,47 +629,7 @@ ordinances or resolutions to be set aside for mass transportation
 purposes; all such taxes to be administered, collected and distributed
 by the commissioner as provided in subpart B of part III and in part IV
 of this article:
-  (a) * (1) Either, all of the taxes described in article twenty-eight
-of this chapter, at the same uniform rate, as to which taxes all
-provisions of the local laws, ordinances or resolutions imposing such
-taxes shall be identical, except as to rate and except as otherwise
-provided, with the corresponding provisions in such article
-twenty-eight, including the definition and exemption provisions of such
-article, so far as the provisions of such article twenty-eight can be
-made applicable to the taxes imposed by such city or county and with
-such limitations and special provisions as are set forth in this
-article. The taxes authorized under this subdivision may not be imposed
-by a city or county unless the local law, ordinance or resolution
-imposes such taxes so as to include all portions and all types of
-receipts, charges or rents, subject to state tax under sections eleven
-hundred five and eleven hundred ten of this chapter, except as otherwise
-provided. (i) Any local law, ordinance or resolution enacted by any city
-of less than one million or by any county or school district, imposing
-the taxes authorized by this subdivision, shall, notwithstanding any
-provision of law to the contrary, exclude from the operation of such
-local taxes all sales of tangible personal property for use or
-consumption directly and predominantly in the production of tangible
-personal property, gas, electricity, refrigeration or steam, for sale,
-by manufacturing, processing, generating, assembly, refining, mining or
-extracting; and all sales of tangible personal property for use or
-consumption predominantly either in the production of tangible personal
-property, for sale, by farming or in a commercial horse boarding
-operation, or in both; and, unless such city, county or school district
-elects otherwise, shall omit the provision for credit or refund
-contained in clause six of subdivision (a) or subdivision (d) of section
-eleven hundred nineteen of this chapter. (ii) Any local law, ordinance
-or resolution enacted by any city, county or school district, imposing
-the taxes authorized by this subdivision, shall omit the residential
-solar energy systems equipment exemption provided for in subdivision
-(ee), the commercial solar energy systems equipment exemption provided
-for in subdivision (ii) and the clothing and footwear exemption provided
-for in paragraph thirty of subdivision (a) of section eleven hundred
-fifteen of this chapter, unless such city, county or school district
-elects otherwise as to either such residential solar energy systems
-equipment exemption, such commercial solar energy systems equipment
-exemption or such clothing and footwear exemption.
-  * NB Effective until December 1, 2015
-  * (1) Either, all of the taxes described in article twenty-eight of
+  (a) (1) Either, all of the taxes described in article twenty-eight of
 this chapter, at the same uniform rate, as to which taxes all provisions
 of the local laws, ordinances or resolutions imposing such taxes shall
 be identical, except as to rate and except as otherwise provided, with
@@ -717,7 +669,6 @@ district elects otherwise as to either such residential solar energy
 systems equipment and electricity exemption, such commercial solar
 energy systems equipment and electricity exemption or such clothing and
 footwear exemption.
-  * NB Effective December 1, 2015
   (2) A sale of tangible personal property to a person for use by him in
 performing the services of laundering, drycleaning, tailoring, weaving,
 pressing, shoe repairing and shoe shining, subject to the tax imposed
@@ -780,57 +731,7 @@ additional tax which Cattaraugus county is authorized to adopt pursuant
 to the opening paragraph of this section shall not be imposed on the
 retail sale or use of the energy sources and services described in
 subparagraph (i) of this paragraph.
-  * (4) Notwithstanding any other provision of law to the contrary, any
-local law enacted by any city of one million or more that imposes the
-taxes authorized by this subdivision (i) may omit the exception provided
-in subparagraph (ii) of paragraph three of subdivision (c) of section
-eleven hundred five of this chapter for receipts from laundering,
-dry-cleaning, tailoring, weaving, pressing, shoe repairing and shoe
-shining; (ii) may impose the tax described in paragraph six of
-subdivision (c) of section eleven hundred five of this chapter at a rate
-in addition to the rate prescribed by this section not to exceed two
-percent in multiples of one-half of one percent; (iii) shall provide
-that the tax described in paragraph six of subdivision (c) of section
-eleven hundred five of this chapter does not apply to facilities owned
-and operated by the city or an agency or instrumentality of the city or
-a public corporation the majority of whose members are appointed by the
-chief executive officer of the city or the legislative body of the city
-or both of them; (iv) shall not include any tax on receipts from, or the
-use of, the services described in paragraph seven of subdivision (c) of
-section eleven hundred five of this chapter; (v) shall provide that, for
-purposes of the tax described in subdivision (e) of section eleven
-hundred five of this chapter, "permanent resident" means any occupant of
-any room or rooms in a hotel for at least one hundred eighty consecutive
-days with regard to the period of such occupancy; (vi) may omit the
-exception provided in paragraph one of subdivision (f) of section eleven
-hundred five of this chapter for charges to a patron for admission to,
-or use of, facilities for sporting activities in which the patron is to
-be a participant, such as bowling alleys and swimming pools; (vii) may
-provide the clothing and footwear exemption in paragraph thirty of
-subdivision (a) of section eleven hundred fifteen of this chapter, and,
-notwithstanding any provision of subdivision (d) of this section to the
-contrary, any local law providing for such exemption or repealing such
-exemption, may go into effect on any one of the following dates: March
-first, June first, September first or December first; (viii) shall omit
-the exemption provided in paragraph forty-one of subdivision (a) of
-section eleven hundred fifteen of this chapter; (ix) shall omit the
-exemption provided in subdivision (c) of section eleven hundred fifteen
-of this chapter insofar as it applies to fuel, gas, electricity,
-refrigeration and steam, and gas, electric, refrigeration and steam
-service of whatever nature for use or consumption directly and
-exclusively in the production of gas, electricity, refrigeration or
-steam; (x) shall omit, unless such city elects otherwise, the provision
-for refund or credit contained in clause six of subdivision (a) or in
-subdivision (d) of section eleven hundred nineteen of this chapter; and
-(xi) shall provide that section eleven hundred five-C of this chapter
-does not apply to such taxes, and shall tax receipts from every sale,
-other than sales for resale, of gas service or electric service of
-whatever nature, including the transportation, transmission or
-distribution of gas or electricity, even if sold separately, at the rate
-set forth in clause one of subparagraph (i) of the opening paragraph of
-this section.
-  * NB Effective until December 1, 2015
-  * (4) Notwithstanding any other provision of law to the contrary, any
+  (4) Notwithstanding any other provision of law to the contrary, any
 local law enacted by any city of one million or more that imposes the
 taxes authorized by this subdivision (i) may omit the exception provided
 in subparagraph (ii) of paragraph three of subdivision (c) of section
@@ -892,30 +793,12 @@ ordinance or resolution that provides the exemptions provided in such
 former subdivisions (n) and/or (p) shall be deemed instead to provide
 the exemptions provided in clauses (xii) and/or (xiii) of this
 paragraph.
-  * NB Effective December 1, 2015
-  (b) * (1) Or, one or more of the taxes described in subdivisions (b),
+  (b) (1) Or, one or more of the taxes described in subdivisions (b),
 (d), (e) and (f) of section eleven hundred five of this chapter, at the
 same uniform rate, including the transitional provisions in section
 eleven hundred six of this chapter covering such taxes, but not the
 taxes described in subdivisions (a) and (c) of section eleven hundred
 five of this chapter. Provided, further, that where the tax described in
-subdivision (b) of section eleven hundred five of this chapter is
-imposed, the compensating use taxes described in clauses (E), (G) and
-(H) of subdivision (a) of section eleven hundred ten of this chapter
-shall also be imposed. Provided, further, that where the taxes described
-in subdivision (b) of section eleven hundred five are imposed, such
-taxes shall omit the provision for refund or credit contained in
-subdivision (d) of section eleven hundred nineteen of this chapter with
-respect to such taxes described in such subdivision (b) of section
-eleven hundred five unless such city or county elects to provide such
-provision or, if so elected, to repeal such provision.
-  * NB Effective until December 1, 2015
-  * (1) Or, one or more of the taxes described in subdivisions (b), (d),
-(e) and (f) of section eleven hundred five of this chapter, at the same
-uniform rate, including the transitional provisions in section eleven
-hundred six of this chapter covering such taxes, but not the taxes
-described in subdivisions (a) and (c) of section eleven hundred five of
-this chapter. Provided, further, that where the tax described in
 subdivision (b) of section eleven hundred five of this chapter is
 imposed, the compensating use taxes described in clauses (E), (G) and
 (H) of subdivision (a) of section eleven hundred ten of this chapter
@@ -931,7 +814,6 @@ fifteen of this chapter unless such county or city elects otherwise; and
 (C) the exemption provided in paragraph two of subdivision (ii) of
 section eleven hundred fifteen of this chapter, unless such county or
 city elects otherwise.
-  * NB Effective December 1, 2015
   (2) In respect to the taxes described in such subdivisions (b), (d),
 (e) and (f) of section eleven hundred five of this chapter and in such
 clauses (E), (G) and (H) of subdivision (a) of section eleven hundred
@@ -972,24 +854,7 @@ chapter and uses subject to tax under the applicable provisions of
 section eleven hundred ten of this chapter where the tax described in
 subdivision (b) of section eleven hundred five of this chapter is
 imposed.
-  (3) * (i) Notwithstanding any other provision of law to the contrary
-but not with respect to cities subject to the provisions of section
-eleven hundred eight of this chapter, any city or county, except a
-county wholly contained within a city, may provide that the tax imposed,
-pursuant to this subdivision, by such city or county on the sale, other
-than for resale, of propane (except when sold in containers of less than
-one hundred pounds), natural gas, electricity, steam and gas, electric
-and steam services of whatever nature used for residential purposes and
-on the use of gas or electricity used for residential purposes may be
-imposed at a lower rate than the uniform local rate imposed pursuant to
-the opening paragraph of this section, as long as such rate is one of
-the rates authorized by such paragraph or such sale or use may be
-exempted from such taxes. Provided, however, such lower rate must apply
-to all such energy sources and services and at the same rate and no such
-exemption may be enacted unless such exemption applies to all such
-energy sources and services.
-  * NB Effective until December 1, 2015
-  * (i) Notwithstanding any other provision of law to the contrary but
+  (3) (i) Notwithstanding any other provision of law to the contrary but
 not with respect to cities subject to the provisions of section eleven
 hundred eight of this chapter, any city or county, except a county
 wholly contained within a city, may provide that the tax imposed,
@@ -1007,7 +872,6 @@ exemption, other than the exemption provided for in subdivision (ee) of
 section eleven hundred fifteen of this chapter, if such exemption is
 elected by such city or county, may be enacted unless such exemption
 applies to all such energy sources and services.
-  * NB Effective December 1, 2015
   (ii) The transitional provisions in subdivision (c) of section eleven
 hundred five-A shall apply to a change in rate or to an exemption
 adopted pursuant to the authority of this paragraph in the same manner
@@ -1065,47 +929,15 @@ county shall continue to be authorized and empowered to impose the taxes
 as authorized in subdivisions (a) and (b) of this section, without any
 diminution in the county's right to impose such taxes in areas outside
 such city.
-  * (d) A local law, ordinance or resolution imposing any tax pursuant
-to this section, increasing or decreasing the rate of such tax,
-repealing or suspending such tax, exempting from such tax the energy
-sources and services described in paragraph three of subdivision (a) or
-of subdivision (b) of this section or changing the rate of tax imposed
-on such energy sources and services or providing for the credit or
-refund described in clause six of subdivision (a) of section eleven
-hundred nineteen of this chapter must go into effect only on one of the
-following dates: March first, June first, September first or December
-first; provided, that a local law, ordinance or resolution providing for
-the exemption described in paragraph thirty of subdivision (a) of
-section eleven hundred fifteen of this chapter or repealing any such
-exemption or a local law, ordinance or resolution providing for a refund
-or credit described in subdivision (d) of section eleven hundred
-nineteen of this chapter or repealing such provision so provided must go
-into effect only on March first. No such local law, ordinance or
-resolution shall be effective unless a certified copy of such law,
-ordinance or resolution is mailed by registered or certified mail to the
-commissioner at the commissioner's office in Albany at least ninety days
-prior to the date it is to become effective. However, the commissioner
-may waive and reduce such ninety-day minimum notice requirement to a
-mailing of such certified copy by registered or certified mail within a
-period of not less than thirty days prior to such effective date if the
-commissioner deems such action to be consistent with the commissioner's
-duties under section twelve hundred fifty of this article and the
-commissioner acts by resolution. Where the restriction provided for in
-section twelve hundred twenty-three of this article as to the effective
-date of a tax and the notice requirement provided for therein are
-applicable and have not been waived, the restriction and notice
-requirement in section twelve hundred twenty-three of this article shall
-also apply.
-  * NB Effective until December 1, 2015
-  * (d) A local law, ordinance or resolution imposing any tax pursuant
-to this section, increasing or decreasing the rate of such tax,
-repealing or suspending such tax, exempting from such tax the energy
-sources and services described in paragraph three of subdivision (a) or
-of subdivision (b) of this section or changing the rate of tax imposed
-on such energy sources and services or providing for the credit or
-refund described in clause six of subdivision (a) of section eleven
-hundred nineteen of this chapter, or electing or repealing the exemption
-for residential solar equipment and electricity in subdivision (ee) of
+  (d) A local law, ordinance or resolution imposing any tax pursuant to
+this section, increasing or decreasing the rate of such tax, repealing
+or suspending such tax, exempting from such tax the energy sources and
+services described in paragraph three of subdivision (a) or of
+subdivision (b) of this section or changing the rate of tax imposed on
+such energy sources and services or providing for the credit or refund
+described in clause six of subdivision (a) of section eleven hundred
+nineteen of this chapter, or electing or repealing the exemption for
+residential solar equipment and electricity in subdivision (ee) of
 section eleven hundred fifteen of this article, or the exemption for
 commercial solar equipment and electricity in subdivision (ii) of
 section eleven hundred fifteen of this article must go into effect only
@@ -1132,7 +964,6 @@ date of a tax and the notice requirement provided for therein are
 applicable and have not been waived, the restriction and notice
 requirement in section twelve hundred twenty-three of this article shall
 also apply.
-  * NB Effective December 1, 2015
   (e) Certified copies of any local law, ordinance or resolution
 described in subdivision (d) of this section shall also be filed with
 the city or county clerk, the secretary of state and the state
@@ -1203,35 +1034,6 @@ by the federal government and reservation land recognized as such by the
 state of New York, the commissioner shall promulgate rules and
 regulations necessary to implement the collection of sales, excise and
 use taxes on such retail sale items.
-  *(n) Notwithstanding any other provision of state or local law,
-ordinance or resolution to the contrary:
-  (1) Any city having a population of one million or more in which the
-taxes imposed by section eleven hundred seven of this chapter are in
-effect, acting through its local legislative body, is hereby authorized
-and empowered to elect to provide the same exemptions from such taxes as
-the residential solar energy systems equipment exemption from state
-sales and compensating use taxes described in subdivision (ee) of
-section eleven hundred fifteen of this chapter by enacting a resolution
-in the form set forth in paragraph two of this subdivision; whereupon,
-upon compliance with the provisions of subdivisions (d) and (e) of this
-section, such enactment of such resolution shall be deemed to be an
-amendment to such section eleven hundred seven and such section eleven
-hundred seven shall be deemed to incorporate such exemptions as if they
-had been duly enacted by the state legislature and approved by the
-governor.
-  (2) Form of Resolution: Be it enacted by the (insert proper title of
-local legislative body) as follows:
-  Section one. Receipts from sales of and consideration given or
-contracted to be given for, or for the use of, property and services
-exempt from state sales and compensating use taxes pursuant to
-subdivision (ee) of section 1115 of the tax law shall also be exempt
-from sales and compensating use taxes imposed in this jurisdiction.
-  Section two. This resolution shall take effect September 1, (insert
-the year, but not earlier than the year 2005) and shall apply to sales
-made, services rendered and uses occurring on and after that date in
-accordance with the applicable transitional provisions in sections 1106,
-1216 and 1217 of the New York tax law.
-  * NB Repealed December 1, 2015
   (o) Notwithstanding any other provision of state or local law,
 ordinance or resolution to the contrary: any city having a population of
 one million or more in which the taxes imposed by section eleven hundred
@@ -1249,25 +1051,4 @@ seven of this chapter and such section eleven hundred seven shall be
 deemed to incorporate such exemption of or reduced rate on such energy
 sources and services as if it had been duly enacted by the state
 legislature and approved by the governor.
-  * (p) Notwithstanding any other provision of state or local law,
-ordinance or resolution to the contrary:
-  (1) Any city having a population of one million or more is hereby
-authorized and empowered to elect to provide the same exemptions from
-such taxes as the commercial solar energy systems equipment exemption
-from state sales and compensating use taxes described in subdivision
-(ii) of section eleven hundred fifteen of this chapter by enacting a
-resolution in the form set forth in paragraph two of this subdivision.
-  (2) Form of Resolution: Be it enacted by the (insert proper title of
-local legislative body) as follows:
-  Section one. Receipts from sales of and consideration given or
-contracted to be given for, or for the use of, property and services
-exempt from state sales and compensating use taxes pursuant to
-subdivision (ii) of section 1115 of the tax law shall also be exempt
-from sales and compensating use taxes imposed in this jurisdiction.
-  Section two. This resolution shall take effect (choose one) January 1,
-2013 or September 1, (insert any year after 2012) and shall apply to
-sales made, services rendered and uses occurring on and after that date
-in accordance with the applicable transitional provisions in sections
-1106, 1216 and 1217 of the New York tax law.
-  * NB Repealed December 1, 2015
 ```

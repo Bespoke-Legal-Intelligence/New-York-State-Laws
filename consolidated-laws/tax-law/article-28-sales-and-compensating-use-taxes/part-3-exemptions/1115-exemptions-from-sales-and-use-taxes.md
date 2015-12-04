@@ -1107,17 +1107,6 @@ storing is rendered in conjunction with, and during the rendering of,
 such service to such aircraft, shall be exempt from the tax imposed
 under paragraph four of subdivision (c) of section eleven hundred five
 of this article.
-  * (ee) Receipts from the retail sale of residential solar energy
-systems equipment and of the service of installing such systems shall be
-exempt from tax under this article. For the purposes of this
-subdivision, "residential solar energy systems equipment" shall mean an
-arrangement or combination of components installed in a residence that
-utilizes solar radiation to produce energy designed to provide heating,
-cooling, hot water and/or electricity. Such arrangement or components
-shall not include equipment that is part of a non-solar energy system or
-which uses any sort of recreational facility or equipment as a storage
-medium.
-  * NB Effective until December 1, 2015
   * (ee) The following shall be exempt from tax under this article: (1)
 Receipts from the retail sale of, and consideration given or contracted
 to be given for, or for the use of, residential solar energy systems
@@ -1137,7 +1126,6 @@ equipment that is: (A) owned by a person other than the purchaser of
 such electricity; (B) installed on residential property of the purchaser
 of such electricity; and (C) used to provide heating, cooling, hot water
 or electricity to such property.
-  * NB Effective December 1, 2015
   * NB There are 2 sb (ee)'s
   * (ee) (1) Tangible personal property purchased by a tenant for use
 directly and exclusively to furnish and equip the tenant's leased
@@ -1357,16 +1345,6 @@ article, if such trip originates in a city of a million or more and
 terminates anywhere within the territorial boundaries of the
 metropolitan commuter transportation district and is subject to the tax
 on HAIL vehicle trips imposed by such article twenty-nine-A.
-  * (ii) Receipts from the retail sale of commercial solar energy
-systems equipment and of the service of installing such systems shall be
-exempt from taxes imposed by sections eleven hundred five and eleven
-hundred ten of this article. For the purposes of this subdivision,
-"commercial solar energy systems equipment" shall mean an arrangement or
-combination of components installed upon non-residential premises that
-utilize solar radiation to produce energy designed to provide heating,
-cooling, hot water and/or electricity. Such arrangement or components
-shall not include equipment that is part of a non-solar energy system.
-  * NB Effective until December 1, 2015
   * (ii) The following shall be exempt from tax under this article: (1)
 Receipts from the retail sale of, and consideration given or contracted
 to be given for, or for the use of, commercial solar energy systems
@@ -1385,7 +1363,6 @@ that is: (A) owned by a person other than the purchaser of such
 electricity; (B) installed on the non-residential premises of the
 purchaser of such electricity; and (C) used to provide heating, cooling,
 hot water or electricity to such premises.
-  * NB Effective December 1, 2015
   * NB There are 2 sb (ii)'s
   * (ii) Receipts from sales of and fees associated with water and sewer
 service line protection programs sold to owners of residential property

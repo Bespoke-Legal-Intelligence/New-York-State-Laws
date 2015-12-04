@@ -6,6 +6,7 @@
 ## Contents
 
 - [Title 1 — General Provisions](title-1-general-provisions/)
+- [Title 2 — Single-family Dwellings In Residential Districts](title-2-single-family-dwellings/)
 
 <details>
 <summary>Official heading of Article 21-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 616", "kind": "section", "law_id": "EXC", "location_id": "616", "path": "ARTICLE 21-B › TITLE 1 › SECTION 616", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/616.md", "title": "Manufactured homes as single-family dwellings in residential districts"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 616", "kind": "section", "law_id": "EXC", "location_id": "616", "path": "ARTICLE 21-B › TITLE 2 › SECTION 616", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/616.md", "title": "Manufactured homes as single-family dwellings in residential districts"} -->
 # Executive Law § 616 — Manufactured homes as single-family dwellings in residential districts
 
-[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 2 — Single-family Dwellings In Residential Districts](README.md)
 
 ```text
   § 616. Manufactured homes as single-family dwellings in residential

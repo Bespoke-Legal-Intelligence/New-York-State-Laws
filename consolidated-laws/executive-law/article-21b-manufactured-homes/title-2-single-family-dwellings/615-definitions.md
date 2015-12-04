@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 615", "kind": "section", "law_id": "EXC", "location_id": "615", "path": "ARTICLE 21-B › TITLE 1 › SECTION 615", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/615.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 615", "kind": "section", "law_id": "EXC", "location_id": "615", "path": "ARTICLE 21-B › TITLE 2 › SECTION 615", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/615.md", "title": "Definitions"} -->
 # Executive Law § 615 — Definitions
 
-[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 1 — General Provisions](README.md)
+[Executive Law](../../README.md) › [Article 21-B — Manufactured Homes](../README.md) › [Title 2 — Single-family Dwellings In Residential Districts](README.md)
 
 ```text
   § 615. Definitions. For the purposes of this title, the following
