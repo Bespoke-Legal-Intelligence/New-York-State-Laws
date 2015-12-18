@@ -430,6 +430,20 @@ regulations.
 services and supports authorized by the federal regulations governing
 the Home and Community-Based Attendant Services and Supports State Plan
 Option (Community First Choice) pursuant to 42 U.S.C. § 1396n(k).
+  * (cc) care and services for surgical first assistant services
+provided by a registered nurse first assistant who is certified in
+operating room nursing provided that: (i) such services are within the
+scope of practice of a non-physician surgical first assistant; and (ii)
+the terms and conditions of the member contract otherwise provide for
+the coverage of such services. Nothing in this paragraph shall be
+construed to:  prevent the medical management or utilization review of
+such services; prevent a policy from requiring services through a
+network of participating providers who shall meet certain requirements
+for participation, including provider credentialing; or prohibit an
+insurer from, in its sole discretion, providing a global or capitated
+payment or electing to directly reimburse a non-physician surgical first
+assistant for such services.
+  * NB Effective June 8, 2016
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

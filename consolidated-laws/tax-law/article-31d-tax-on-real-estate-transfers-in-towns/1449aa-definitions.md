@@ -147,5 +147,5 @@ vacation or investment home.
   19. "Primary residential property" means any one or two family house,
 townhouse or condominium located in the town which is to be owner
 occupied by such homebuyer.
-  * NB Repealed December 31, 2030
+  * NB Repealed December 31, 2050
 ```

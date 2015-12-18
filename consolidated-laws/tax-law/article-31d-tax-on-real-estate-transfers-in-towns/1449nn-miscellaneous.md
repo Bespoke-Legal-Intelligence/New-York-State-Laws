@@ -36,5 +36,5 @@ information is to be used for tax purposes.
   4. The commissioner and the towns imposing the tax authorized by this
 article may enter into a cooperative agreement to facilitate the
 administration and enforcement of this article.
-  * NB Repealed December 31, 2030
+  * NB Repealed December 31, 2050
 ```

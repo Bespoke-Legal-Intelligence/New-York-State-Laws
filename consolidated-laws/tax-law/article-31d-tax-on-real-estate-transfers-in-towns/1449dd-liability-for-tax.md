@@ -19,5 +19,5 @@ market value of the real property or interest therein. These
 presumptions shall prevail until the contrary is proven, and the burden
 of proving the contrary shall be on the person liable for payment of the
 tax.
-  * NB Repealed December 31, 2030
+  * NB Repealed December 31, 2050
 ```

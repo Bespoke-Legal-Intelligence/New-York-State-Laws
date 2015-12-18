@@ -29,10 +29,8 @@ a county and shall have the powers of a presiding officer under the city
 administrative procedures act within a city with a population of one
 million or more persons.
   9. "Department" shall mean the department of health.
-  * 10. "Single use ink" shall mean a sealed and pre-filled package of
-ink that is only intended for a single use.
-  * NB Effective December 12, 2015
-  * 11. "Single use needle" shall mean a sealed and sterile package of a
+  10. "Single use ink" shall mean a sealed and pre-filled package of ink
+that is only intended for a single use.
+  11. "Single use needle" shall mean a sealed and sterile package of a
 disposable needle.
-  * NB Effective December 12, 2015
 ```

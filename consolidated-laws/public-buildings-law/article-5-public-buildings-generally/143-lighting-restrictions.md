@@ -4,8 +4,7 @@
 [Public Buildings Law](../README.md) › [Article 5 — Public Buildings Generally](README.md)
 
 ```text
-  * § 143. Lighting restrictions. 1. Definitions. As used in this
-section:
+  § 143. Lighting restrictions. 1. Definitions. As used in this section:
   a. "Direct light" means light emitted by a fixture from the lamp, from
 a reflector, or through a refractor.
   b. "Facade lighting" means permanent outdoor fixtures that are
@@ -99,5 +98,4 @@ of transportation and the New York state energy research and development
 authority, and given due consideration to lighting industry standards
 and practices, shall establish rules and regulations to implement the
 provisions of this section.
-  * NB Effective December 17, 2015
 ```

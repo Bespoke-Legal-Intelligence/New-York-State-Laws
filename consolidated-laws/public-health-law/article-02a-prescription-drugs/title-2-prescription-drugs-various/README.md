@@ -7,6 +7,7 @@
 
 - [§ 278 Prescription drug retail price lists](278-prescription-drug-retail-price-lists.md)
 - [§ 279 Prescriber education](279-prescriber-education.md)
+- [§ 280-A Pharmacy benefit managers](280a-pharmacy-benefit-managers.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -14,8 +15,9 @@
 ```text
                                 TITLE II
                  PRESCRIPTION DRUGS; VARIOUS PROVISIONS
-Section 278. Prescription drug retail price lists.
-        279. Prescriber education.
+Section 278.   Prescription drug retail price lists.
+        279.   Prescriber education.
+        280-a. Pharmacy benefit managers.
 ```
 
 </details>

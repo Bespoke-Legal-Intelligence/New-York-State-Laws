@@ -34,6 +34,7 @@
 - [§ 391-R Restricted access to retail sale of ipecac](391r-restricted-access-to-retail-sale-of-ipecac.md)
 - [§ 391-S Restricted access to retail sale of dextromethorphan, commonly known as "dxm"](391s-restricted-access-to-retail-sale-of-dextromethorphan-commonly-known-as-dxm.md)
 - [§ 391-S\*2 Sale and distribution of novelty lighters prohibited](391s-2-sale-and-distribution-of-novelty-lighters-prohibited.md)
+- [§ 391-T Sale of small animals; instructions on care](391t-sale-of-small-animals-instructions-on-care.md)
 - [§ 392 Second-hand watches](392-second-hand-watches.md)
 - [§ 392-A Sale of new computers](392a-sale-of-new-computers.md)
 - [§ 392-B False labels and misrepresentations](392b-false-labels-and-misrepresentations.md)
@@ -209,6 +210,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         391-s.     Restricted access to retail sale of dextromethorphan,
                      commonly known as "dxm".
         391-s*2.   Sale and distribution of novelty lighters prohibited.
+        391-t.     Sale of small animals; instructions on care.
         392.       Second-hand watches.
         392-a.     Sale of new computers.
         392-b.     False labels and misrepresentations.

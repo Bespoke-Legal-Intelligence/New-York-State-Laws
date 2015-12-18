@@ -8,7 +8,7 @@
 | Senate code | RSS |
 | Type | Consolidated law, chapter 51-A |
 | Sections | 541 |
-| Last changed | 27 Nov 2015 |
+| Last changed | 18 Dec 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Retirement & Social Security |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [18 Dec 2015](../../changes/2015/2015-12-18.md): 4 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 5 amended
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 2 added
 - [7 Aug 2015](../../changes/2015/2015-08-07.md): 4 amended

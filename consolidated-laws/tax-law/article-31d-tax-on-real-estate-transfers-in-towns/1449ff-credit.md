@@ -16,5 +16,5 @@ used to compute such tax paid which is not yet due to such grantor on
 the date of the subsequent conveyance (and which such grantor will not
 be entitled to receive after such date), and the denominator of which is
 the total value of the consideration used to compute such tax paid.
-  * NB Repealed December 31, 2030
+  * NB Repealed December 31, 2050
 ```

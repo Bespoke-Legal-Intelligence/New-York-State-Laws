@@ -15,7 +15,7 @@
 - [Title 12 — Rochester Urban Renewal Agency](title-012-rochester-urban-renewal/)
 - [Title 14 — White Plains Urban Renewal Agency](title-014-white-plains-urban-renewal/)
 - [Title 15 — Port Jervis Community Development Agency](title-015-port-jervis-community/)
-- [Title 17 — Ossining Urban Renewal Agency](title-017-ossining-urban-renewal/)
+- [Title 17 Ossining Urban Renewal Agency](title-017-ossining-urban-renewal-agency.md)
 - [Title 20 — Gloversville Community Development Agency](title-020-gloversville-community/)
 - [Title 22 — Village of Spring Valley Urban Renewal Agency](title-022-village-of-spring-valley/)
 - [Title 23 — City of Tonawanda Community Development Agency](title-023-city-of-tonawanda-community/)

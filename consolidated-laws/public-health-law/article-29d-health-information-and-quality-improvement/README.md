@@ -32,6 +32,7 @@ Section 2995.   Structure and definitions.
         2997-b. Pamphlet of department programs.
         2997-e. Provision of contact information relating to long term
                   care.
+        2997-f. Provision of information relating to aging services.
                                 TITLE 1-A
                           SAFE PATIENT HANDLING
 Section 2997-g. Legislative intent.

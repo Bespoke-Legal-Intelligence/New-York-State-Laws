@@ -17,6 +17,7 @@
 - [§ 2997-C Palliative care patient information](2997c-palliative-care-patient-information.md)
 - [§ 2997-D Hospital, nursing home, home care, special needs assisted living residences and enhanced assisted living residences palliative care support](2997d-hospital-nursing-home-home-care-special-needs.md)
 - [§ 2997-E Provision of contact information relating to long term care](2997e-provision-of-contact-information-relating-to-long.md)
+- [§ 2997-F Provision of information relating to aging services](2997f-provision-of-information-relating-to-aging-services.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -40,6 +41,7 @@ Section 2995.   Structure and definitions.
                   living residences palliative care support.
         2997-e. Provision of contact information relating to long term
                   care.
+        2997-f. Provision of information relating to aging services.
 ```
 
 </details>

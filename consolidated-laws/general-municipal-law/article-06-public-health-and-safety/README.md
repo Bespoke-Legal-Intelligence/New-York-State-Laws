@@ -40,6 +40,7 @@
 - [§ 121-B Care of children admitted to certain places of amusement in certain cities, villages and towns under a local law or ordinance](121b-care-of-children-admitted-to-certain-places-of-amusement-in-certain-cities.md)
 - [§ 122 Refusal to take persons to hospital prohibited; exception for cities with a population of one million or more](122-refusal-to-take-persons-to-hospital-prohibited-exception-for-cities.md)
 - [§ 122-B General ambulance services](122b-general-ambulance-services.md)
+- [§ 122-C Transport of police work dogs injured in the line of duty](122c-transport-of-police-work-dogs-injured-in-the-line-of-duty.md)
 - [§ 123 Erection and operation of life-saving apparatus](123-erection-and-operation-of-life-saving-apparatus.md)
 - [§ 124 Inspection of building elevators in Nassau county](124-inspection-of-building-elevators-in-nassau-county.md)
 - [§ 125 Issuance of building permits](125-issuance-of-building-permits.md)
@@ -120,6 +121,8 @@ Section 120.     Contracts for purification of water and sewerage.
                    exception for cities with a population of one million
                    or more.
         122-b.   General ambulance services.
+        122-c.   Transport of police work dogs injured in the line of
+                   duty.
         123.     Erection and operation of life-saving apparatus.
         124.     Inspection of building elevators in Nassau county.
         125.     Issuance of building permits.

@@ -45,7 +45,7 @@ Section 1449-aa. Definitions.
         1449-nn. Miscellaneous.
         1449-oo. Returns to be secret.
         1449-pp. Foreclosure proceedings.
-          * NB Repealed December 31, 2030
+          * NB Repealed December 31, 2050
 ```
 
 </details>

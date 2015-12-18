@@ -111,5 +111,5 @@ an exemption pursuant to this section, the town shall approve the
 application and the conveyance of such primary residential property
 shall be exempt from the real estate transfer tax imposed by this
 article.
-  * NB Repealed December 31, 2030
+  * NB Repealed December 31, 2050
 ```
