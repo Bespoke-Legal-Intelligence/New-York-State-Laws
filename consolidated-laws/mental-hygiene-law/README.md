@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | MHY |
 | Type | Consolidated law, chapter 27 |
-| Sections | 463 |
-| Last changed | 27 Nov 2015 |
+| Sections | 469 |
+| Last changed | 25 Dec 2015 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Mental Hygiene |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                     CHAPTER 27 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (73 lines)](chapter-text.md)
+[Full chapter text (74 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [25 Dec 2015](../../changes/2015/2015-12-25.md): 6 added
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 2 amended, 1 added
 - [6 Nov 2015](../../changes/2015/2015-11-06.md): 1 amended
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [1 May 2015](../../changes/2015/2015-05-01.md): 1 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 12 amended, 1 added
 - [6 Mar 2015](../../changes/2015/2015-03-06.md): 1 amended
-- [2 Jan 2015](../../changes/2015/2015-01-02.md): 2 amended
 
 ## Contents
 

@@ -113,4 +113,6 @@ or
 the department in its implementation plan for this title which, at a
 minimum, must describe what circumstances beyond the household's control
 will constitute "good cause".
+  7. The provisions of this section shall not apply to persons who are
+residents of a city having a population of one million or more people.
 ```

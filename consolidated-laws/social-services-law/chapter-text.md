@@ -60,7 +60,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                 9-A.  Equipment loan fund for the disabled
                         (§§ 326-a--326-b).
                 9-B.  Public assistance employment programs
-                        (§§ 330-342).
+                        (§§ 330--342-a).
                 10.   Aid to dependent children (§§ 343-360).
                 11.   Medical assistance for needy persons (§§ 363-369).
                 11-B. Health insurance continuation program for persons

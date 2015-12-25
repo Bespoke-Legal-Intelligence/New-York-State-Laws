@@ -41,7 +41,7 @@ Title  1.   General provisions (§§ 131--152-b).
        8.   Emergency assistance for aged, blind and disabled persons
               (§§ 300-309).
        9-A. Equipment loan fund for the disabled (§§326-a--326-b).
-       9-B. Public assistance employment programs (§§ 330-342).
+       9-B. Public assistance employment programs (§§ 330-342-a).
       10.   Aid to dependent children (§§ 343-360).
       11.   Medical assistance for needy persons (§§ 363-369).
       11-B. Health insurance continuation program for persons with AIDS.

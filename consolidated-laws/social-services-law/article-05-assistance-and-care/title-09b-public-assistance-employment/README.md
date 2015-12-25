@@ -27,7 +27,9 @@
 - [§ 339 Reports](339-reports.md)
 - [§ 340 Technical assistance](340-technical-assistance.md)
 - [§ 341 Conciliation; refusal to participate](341-conciliation-refusal-to-participate.md)
+- [§ 341-A Re-engagement; conciliation; refusal to participate](341a-re-engagement-conciliation-refusal-to-participate.md)
 - [§ 342 Noncompliance with the requirements of this title](342-noncompliance-with-the-requirements-of-this-title.md)
+- [§ 342-A Noncompliance with the requirements of this title](342a-noncompliance-with-the-requirements-of-this-title.md)
 
 <details>
 <summary>Official heading of Title 9-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -60,7 +62,9 @@ Section 330.   Definitions.
         339.   Reports.
         340.   Technical assistance.
         341.   Conciliation; refusal to participate.
+        341-a. Re-engagement; conciliation; refusal to participate.
         342.   Noncompliance with the requirements of this title.
+        342-a. Noncompliance with the requirements of this title.
 ```
 
 </details>

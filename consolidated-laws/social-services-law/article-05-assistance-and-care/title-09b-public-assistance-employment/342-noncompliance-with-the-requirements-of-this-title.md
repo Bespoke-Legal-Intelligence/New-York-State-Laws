@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 9-B — Public Assistance Employment Programs](README.md)
 
 ```text
-  § 342. Noncompliance with the requirements of this title.  1. In
+  § 342. Noncompliance with the requirements of this title. 1. In
 accordance with the provisions of this section an individual who is
 required to participate in work activities shall be ineligible to
 receive public assistance if he or she fails to comply, without good
@@ -53,6 +53,8 @@ comply with the requirements of this article and shall be subject to the
 provisions of this section.
   5. A person described in paragraph (b) of subdivision seven of section
 one hundred fifty-nine of this chapter may not be sanctioned if his or
-her failure to comply with requirements of this title are related to
-his or her health status.
+her failure to comply with requirements of this title are related to his
+or her health status.
+  6. The provisions of this section shall not apply to persons who are
+residents of a city having a population of one million or more people.
 ```

@@ -9,6 +9,7 @@
 - [§ 1801 Penalties for misdemeanors](1801-penalties-for-misdemeanors.md)
 - [§ 1802 Receipts for fines or bail](1802-receipts-for-fines-or-bail.md)
 - [§ 1803 Disposition of fines and forfeitures](1803-disposition-of-fines-and-forfeitures.md)
+- [§ 1804 Prohibition of imposition and collection of a fine, penalty, forfeiture, fee or surcharge](1804-prohibition-of-imposition-and-collection.md)
 - [§ 1805 Plea of guilty, how put in](1805-plea-of-guilty-how-put.md)
 - [§ 1806 Plea of not guilty by a defendant charged with a traffic infraction](1806-plea-of-not-guilty-by-a-defendant-charged.md)
 - [§ 1806-A Default judgment in cases of failure to answer](1806a-default-judgment-in-cases-of-failure-to-answer.md)
@@ -33,6 +34,8 @@ Section 1800.    Penalties for traffic infractions.
         1801.    Penalties for misdemeanors.
         1802.    Receipts for fines or bail.
         1803.    Disposition of fines and forfeitures.
+        1804.    Prohibition of imposition and collection of a fine,
+                   penalty, forfeiture, fee or surcharge.
         1805.    Plea of guilty, how put in.
         1806.    Plea of not guilty by a defendant charged with a
                    traffic infraction.

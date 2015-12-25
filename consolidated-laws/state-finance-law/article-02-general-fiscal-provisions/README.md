@@ -15,6 +15,7 @@
 - [§ 8 Duties of the comptroller](08-duties-of-the-comptroller.md)
 - [§ 8-A Deviations from generally accepted accounting principles](08a-deviations-from-generally-accepted-accounting-principles.md)
 - [§ 8-B Additional duties of the comptroller](08b-additional-duties-of-the-comptroller.md)
+- [§ 8-C Enterprise fraud prevention and detection system](08c-enterprise-fraud-prevention-and-detection-system.md)
 - [§ 9 Subpoenas; oaths](09-subpoenas-oaths.md)
 - [§ 10 Compromise of old judgments and debts](10-compromise-of-old-judgments-and-debts.md)
 - [§ 11 Gifts, devises and bequests](11-gifts-devises-and-bequests.md)
@@ -45,6 +46,7 @@ Section  2.   Definitions.
          8.   Duties of the comptroller.
          8-a. Deviations from generally accepted accounting principles.
          8-b. Additional duties of the comptroller.
+         8-c. Enterprise fraud prevention and detection system.
          9.   Subpoenas; oaths.
         10.   Compromise of old judgments and debts.
         11.   Gifts, devises and bequests.

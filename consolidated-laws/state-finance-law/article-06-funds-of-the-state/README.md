@@ -226,6 +226,7 @@
 - [§ 99-V\*2 Homeless veterans assistance fund](99v-2-homeless-veterans-assistance-fund.md)
 - [§ 99-W Transit assistance for capital investments fund](99w-transit-assistance-for-capital-investments-fund.md)
 - [§ 99-W\*2 SUNY DSRIP escrow fund](99w-2-suny-dsrip-escrow-fund.md)
+- [§ 99-X New York achieving a better life experience (NY ABLE) savings program trust fund](99x-new-york-achieving-a-better-life-experience-ny-able-savings-program-trust-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -500,6 +501,8 @@ Section 70.        Classification of funds.
         99-v.      Mortgage settlement proceeds trust fund.
         99-v*2.    Homeless veterans assistance fund.
         99-w.      Transit assistance for capital investments fund.
+        99-x.      New York achieving a better life experience (NY ABLE)
+                     savings program trust fund.
         99-w*2.    SUNY DSRIP escrow fund.
 ```
 
