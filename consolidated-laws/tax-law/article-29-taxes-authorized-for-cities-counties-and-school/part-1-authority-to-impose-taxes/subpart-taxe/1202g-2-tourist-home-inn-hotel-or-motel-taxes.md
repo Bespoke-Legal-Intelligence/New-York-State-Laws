@@ -140,14 +140,16 @@ intent to evade the taxes, no assessment of additional taxes shall be
 made after the expiration of more than three years from the date of the
 filing of a return, provided, however, that where no return has been
 filed as provided by law the taxes may be assessed at any time.
-  ** (9) Revenues resulting from the imposition of tax authorized by
-this section shall be paid into the treasury of the county of Saratoga
-and shall be credited to and deposited in the general fund of the
-county; the net collections therefrom shall thereafter be allocated by
-the board of supervisors of Saratoga county only for the promotion of
-tourism and conventions provided, however, that the net collections
-pursuant to subdivision one-a of this section shall be paid to the
-general fund of the city of Saratoga Springs, the net collections
+  (9) Revenues resulting from the imposition of tax authorized by this
+section shall be paid into the treasury of the county of Saratoga and
+shall be credited to and deposited in the general fund of the county;
+the net collections therefrom shall thereafter be allocated by the board
+of supervisors of Saratoga county fifty percent for the promotion of
+tourism and conventions and fifty percent to the Saratoga County
+Prosperity Partnership, Inc. for the promotion of tourism and other
+economic development-related purposes provided, however, that the net
+collections pursuant to subdivision one-a of this section shall be paid
+to the general fund of the city of Saratoga Springs, the net collections
 pursuant to subdivision one-b of this section shall be paid to the city
 of Saratoga Springs convention and tourism bureau for use in marketing
 the city of Saratoga Springs as a destination for conventions and group
@@ -157,46 +159,18 @@ to fund the expansion and renovation of the City Center until such time
 as the expansion and renovation has been completed, and thereafter shall
 be placed in a special account which may be drawn upon to offset any
 operating deficit maintained by the City Center. A committee of nine
-persons shall be appointed by such board of supervisors, four of whom
-shall be members of such body and five of whom shall be owners, managers
-or, if such facility be owned by a corporation or partnership, partners
-or officers of facilities paying such tax, pursuant to the local laws
-authorized hereunder to advise and recommend to said board of
-supervisors relative to the purpose of this section.
-  ** NB Effective until December 24, 2015
-  ** (9) Revenues resulting from the imposition of tax authorized by
-this section shall be paid into the treasury of the county of Saratoga
-and shall be credited to and deposited in the general fund of the
-county; the net collections therefrom shall thereafter be allocated by
-the board of supervisors of Saratoga county fifty percent for the
-promotion of tourism and conventions and fifty percent to the Saratoga
-County Prosperity Partnership, Inc. for the promotion of tourism and
-other economic development-related purposes provided, however, that the
-net collections pursuant to subdivision one-a of this section shall be
-paid to the general fund of the city of Saratoga Springs, the net
-collections pursuant to subdivision one-b of this section shall be paid
-to the city of Saratoga Springs convention and tourism bureau for use in
-marketing the city of Saratoga Springs as a destination for conventions
-and group tours and the net collections pursuant to subdivision one-c of
-this section shall be placed in an interest bearing capital reserve
-account to fund the expansion and renovation of the City Center until
-such time as the expansion and renovation has been completed, and
-thereafter shall be placed in a special account which may be drawn upon
-to offset any operating deficit maintained by the City Center. A
-committee of nine persons to advise the board on expenditures made by
-the county for the promotion of tourism and conventions shall be
-appointed by such board of supervisors, four of whom shall be members of
-such body who shall include the chair of the board of supervisors, the
-chair of the board's economic development committee, the chair of the
-board's law and finance committee, and one member of the board of
-supervisors who also serves as a director of the Saratoga County
-Prosperity Partnership, Inc. and five additional members who shall
-include a representative from the Saratoga county chamber of commerce, a
-representative from the chamber of southern Saratoga county, a
-representative from the Saratoga convention and tourism bureau, a
-representative from the Saratoga Springs city center authority and the
-Saratoga county treasurer.
-  ** NB Effective December 24, 2015
+persons to advise the board on expenditures made by the county for the
+promotion of tourism and conventions shall be appointed by such board of
+supervisors, four of whom shall be members of such body who shall
+include the chair of the board of supervisors, the chair of the board's
+economic development committee, the chair of the board's law and finance
+committee, and one member of the board of supervisors who also serves as
+a director of the Saratoga County Prosperity Partnership, Inc. and five
+additional members who shall include a representative from the Saratoga
+county chamber of commerce, a representative from the chamber of
+southern Saratoga county, a representative from the Saratoga convention
+and tourism bureau, a representative from the Saratoga Springs city
+center authority and the Saratoga county treasurer.
   (10) Such local laws as may be enacted pursuant to this section shall
 remain in full force and effect only so long as the board of supervisors
 of Saratoga county shall continue to expend for industrial and tourist

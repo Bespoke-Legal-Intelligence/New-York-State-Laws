@@ -136,7 +136,7 @@ the case of an operator or affiliate that is not in good standing as
 provided in this paragraph, the department may permit the operator or
 affiliate to use the streamlined application process, in its discretion,
 if it determines that the disqualifying violation was an isolated
-occurrence that was promptly corrected by the operator or affiliate..ct
+occurrence that was promptly corrected by the operator or affiliate.
   (c) After an operator obtains approval of the department for the
 operation of an adult care facility he may operate such facility only so
 long as he continues to do so in compliance with the requirements of

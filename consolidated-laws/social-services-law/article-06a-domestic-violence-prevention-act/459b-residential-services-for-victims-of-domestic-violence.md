@@ -16,5 +16,9 @@ public assistance. Two forty-five day extensions of necessary and
 available emergency shelter may be granted beyond the maximum length of
 stay at a residential program for victims of domestic violence for
 residents who continue to be in need of emergency services and temporary
-shelter.
+shelter. If the victim of domestic violence has a service animal or
+therapy dog as such terms are defined in section 123-b and section 108
+of the agriculture and markets law, respectively, such service animal or
+therapy dog shall be allowed to accompany the victim at the residential
+program authorized pursuant to this section.
 ```
