@@ -12,11 +12,10 @@
 <summary>Official heading of Article 29-G, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 29-G
+                              ARTICLE 29-G
                      TELEHEALTH DELIVERY OF SERVICES
 Section 2999-cc. Definitions.
         2999-dd. Telehealth delivery of services.
-  * NB Effective January 1, 2016
 ```
 
 </details>

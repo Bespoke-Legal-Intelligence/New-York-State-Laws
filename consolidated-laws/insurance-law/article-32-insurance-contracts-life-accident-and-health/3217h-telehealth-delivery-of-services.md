@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3217-h. Telehealth delivery of services. (a) An insurer shall not
+  § 3217-h. Telehealth delivery of services. (a) An insurer shall not
 exclude from coverage a service that is otherwise covered under a policy
 that provides comprehensive coverage for hospital, medical or surgical
 care because the service is delivered via telehealth, as that term is
@@ -24,5 +24,4 @@ electronic information and communication technologies by a health care
 provider to deliver health care services to an insured individual while
 such individual is located at a site that is different from the site
 where the health care provider is located.
-  * NB Effective January 1, 2016
 ```

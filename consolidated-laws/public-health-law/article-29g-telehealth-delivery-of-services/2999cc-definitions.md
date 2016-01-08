@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-G — Telehealth Delivery of Services](README.md)
 
 ```text
-  * § 2999-cc. Definitions. As used in this article, the following terms
+  § 2999-cc. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Distant site" means a site at which a telehealth provider is
 located while delivering health care services by means of telehealth.
@@ -106,5 +106,4 @@ practitioner licensed pursuant to article one hundred thirty-nine of the
 education law, or a midwife licensed pursuant to article one hundred
 forty of the education law, with which the patient has a substantial and
 ongoing relationship.
-  * NB Effective January 1, 2016
 ```

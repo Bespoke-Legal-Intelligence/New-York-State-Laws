@@ -4,15 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 2 — Jurisdiction](README.md)
 
 ```text
-  * § 580-203. Initiating and responding tribunal of state. Under this
-article, a tribunal of this state may serve as an initiating tribunal to
-forward proceedings to another state and as a responding tribunal for
-proceedings initiated in another state.
-  * NB Effective until January 1, 2016
-  * § 580-203. Initiating and responding tribunal of state. Under this
+  § 580-203. Initiating and responding tribunal of state. Under this
 article, a tribunal of this state may serve as an initiating tribunal to
 forward proceedings to a tribunal of another state, and as a responding
 tribunal for proceedings initiated in another state or a foreign
 country.
-  * NB Effective January 1, 2016
 ```

@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [§ 580-207 Recognition of controlling child support order](580-207-recognition-of-controlling-child-support-order.md)
-- [§ 580-208 Multiple child support orders for two or more obligees](580-208-multiple-child-support-orders-for-two-or-more.md)
+- [§ 580-207 Determination of controlling child support order](580-207-determination-of-controlling-child-support-order.md)
+- [§ 580-208 Child support orders for two or more obligees](580-208-child-support-orders-for-two-or-more-obligees.md)
 - [§ 580-209 Credit for payments](580-209-credit-for-payments.md)
 - [§ 580-210 Application of article to nonresident subject to personal jurisdiction](580-210-application-of-article-to-nonresident-subject.md)
 - [§ 580-211 Continuing exclusive jurisdiction to modify spousal-support order](580-211-continuing-exclusive-jurisdiction-to-modify.md)

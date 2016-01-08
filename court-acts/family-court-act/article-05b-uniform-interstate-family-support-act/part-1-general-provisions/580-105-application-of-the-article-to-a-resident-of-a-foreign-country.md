@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  * § 580-105. Application of the article to a resident of a foreign
+  § 580-105. Application of the article to a resident of a foreign
 country and foreign support proceedings. (a) A tribunal of this state
 shall apply parts one through six of this article and, as applicable,
 part seven of this article, to a support proceeding involving:
@@ -18,5 +18,4 @@ and substantive provisions of parts one through six of this article.
 under the convention. In such a proceeding, if a provision of part seven
 of this article is inconsistent with parts one through six of this
 article, part seven of this article controls.
-  * NB Effective January 1, 2016
 ```

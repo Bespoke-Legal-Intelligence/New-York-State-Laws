@@ -4,14 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  * § 580-319. Receipt and disbursement of payments. A support
-enforcement agency or tribunal of this state shall disburse promptly any
-amounts received pursuant to a support order, as directed by the order.
-The agency or tribunal shall furnish to a requesting party or tribunal
-of another state a certified statement by the custodian of the record of
-the amounts and dates of all payments received.
-  * NB Effective until January 1, 2016
-  * § 580-319. Receipt and disbursement of payments. (a) A support
+  § 580-319. Receipt and disbursement of payments. (a) A support
 enforcement agency or tribunal of this state shall disburse promptly any
 amounts received pursuant to a support order, as directed by the order.
 The agency or tribunal shall furnish to a requesting party or tribunal
@@ -32,5 +25,4 @@ payments from another state pursuant to a law similar to subdivision (b)
 of this section shall furnish to a requesting party or tribunal of the
 other state a certified statement by the custodian of the record of the
 amount and dates of all payments received.
-  * NB Effective January 1, 2016
 ```

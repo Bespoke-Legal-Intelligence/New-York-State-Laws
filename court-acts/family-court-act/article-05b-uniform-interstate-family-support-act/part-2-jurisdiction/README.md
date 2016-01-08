@@ -6,19 +6,17 @@
 ## Contents
 
 - [§ 580-201 Bases for jurisdiction over nonresident](580-201-bases-for-jurisdiction-over-nonresident.md)
-- [§ 580-202 Procedure when exercising jurisdiction over nonresident](580-202-procedure-when-exercising-jurisdiction-over-nonresident.md)
+- [§ 580-202 Duration of personal jurisdiction](580-202-duration-of-personal-jurisdiction.md)
 - [§ 580-203 Initiating and responding tribunal of state](580-203-initiating-and-responding-tribunal-of-state.md)
-- [§ 580-204 Simultaneous proceedings in another state](580-204-simultaneous-proceedings-in-another-state.md)
-- [§ 580-205 Continuing, exclusive jurisdiction](580-205-continuing-exclusive-jurisdiction.md)
-- [§ 580-206 Enforcement and modification of support order by tribunal having continuing jurisdiction](580-206-enforcement-and-modification-of-support-order-by-tribunal-having.md)
+- [§ 580-204 Simultaneous proceedings](580-204-simultaneous-proceedings.md)
+- [§ 580-205 Continuing exclusive jurisdiction to modify child support order](580-205-continuing-exclusive-jurisdiction-to-modify-child-support-order.md)
+- [§ 580-206 Continuing jurisdiction to enforce child support order](580-206-continuing-jurisdiction-to-enforce-child-support-order.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-  * Part 2. Jurisdiction.
-  * NB Effective until January 1, 2016
-                                 * PART 2
+                                 PART 2
                               JURISDICTION
 Section 580-201. Bases for jurisdiction over nonresident.
         580-202. Duration of personal jurisdiction.
@@ -34,7 +32,6 @@ Section 580-201. Bases for jurisdiction over nonresident.
                    personal jurisdiction.
         580-211. Continuing exclusive jurisdiction to modify
                    spousal-support order.
-  * NB Effective January 1, 2016
 ```
 
 </details>

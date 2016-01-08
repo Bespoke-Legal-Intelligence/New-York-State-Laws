@@ -4,8 +4,8 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4306-g. Telehealth delivery of services. (a) A corporation shall
-not exclude from coverage a service that is otherwise covered under a
+  § 4306-g. Telehealth delivery of services. (a) A corporation shall not
+exclude from coverage a service that is otherwise covered under a
 contract that provides comprehensive coverage for hospital, medical or
 surgical care because the service is delivered via telehealth, as that
 term is defined in subsection (b) of this section; provided, however,
@@ -24,5 +24,4 @@ electronic information and communication technologies by a health care
 provider to deliver health care services to an insured individual while
 such individual is located at a site that is different from the site
 where the health care provider is located.
-  * NB Effective January 1, 2016
 ```

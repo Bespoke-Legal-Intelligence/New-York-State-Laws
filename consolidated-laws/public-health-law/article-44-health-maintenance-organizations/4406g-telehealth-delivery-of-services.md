@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
 
 ```text
-  * § 4406-g. Telehealth delivery of services. 1. A health maintenance
+  § 4406-g. Telehealth delivery of services. 1. A health maintenance
 organization shall not exclude from coverage a service that is otherwise
 covered under an enrollee contract of a health maintenance organization
 because the service is delivered via telehealth, as that term is defined
@@ -25,5 +25,4 @@ electronic information and communication technologies by a health care
 provider to deliver health care services to an enrollee while such
 enrollee is located at a site that is different from the site where the
 health care provider is located.
-  * NB Effective January 1, 2016
 ```

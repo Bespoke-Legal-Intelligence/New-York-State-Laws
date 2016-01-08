@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-506", "kind": "section", "law_id": "FCT", "location_id": "580-506", "path": "ARTICLE 5-B › PART 5 › SECTION 580-506", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-506.md", "title": "Contest by obligor"} -->
+# Family Court Act § 580-506 — Contest by obligor
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 5 — Enforcement of Support Order Without Registration](README.md)
+
+```text
+  § 580-506. Contest by obligor. (a) An obligor may contest the validity
+or enforcement of an income withholding order issued in another state
+and received directly by an employer in this state by registering the
+order in a tribunal of this state and filing a contest to that order as
+provided in part six of this article, or otherwise contesting the order
+in the same manner as if the order had been issued by a tribunal of this
+state.
+  (b) The obligor shall give notice of the contest to:
+  (1) a support enforcement agency providing services to the obligee;
+  (2) each employer that has directly received an income withholding
+order relating to the obligor; and
+  (3) the person designated to receive payments in the income
+withholding order or, if no person is designated, to the obligee.
+```

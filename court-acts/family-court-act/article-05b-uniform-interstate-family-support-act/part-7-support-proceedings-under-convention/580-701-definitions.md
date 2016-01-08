@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-701", "kind": "section", "law_id": "FCT", "location_id": "580-701", "path": "ARTICLE 5-B › PART 7 › SECTION 580-701", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-701.md", "title": "Definitions"} -->
+# Family Court Act § 580-701 — Definitions
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 7 — Support Proceedings Under Convention](README.md)
+
+```text
+  § 580-701. Definitions. In this part:
+  1. "Application" means a request under the Convention by an obligee or
+obligor, or on behalf of a child, made through a central authority for
+assistance from another central authority.
+  2. "Central authority" means the entity designated by the United
+States or a foreign country described in paragraph (iv) of subdivision
+five of section 580-102 of this article to perform the functions
+specified in the Convention.
+  3. "Convention support order" means a support order of a tribunal of a
+foreign country described in paragraph (iv) of subdivision five of
+section 580-102 of this article.
+  4. "Direct request" means a petition filed by an individual in a
+tribunal of this state in a proceeding involving an obligee, obligor or
+child residing outside the United States.
+  5. "Foreign central authority" means the entity designated by a
+foreign country described in paragraph (iv) of subdivision five of
+section 580-102 of this article to perform the functions specified in
+the Convention.
+  6. "Foreign support agreement":
+  (i) means an agreement for support in a record that:
+  (a) is enforceable as a support order in the country of origin;
+  (b) has been:
+  (A) formally drawn up or registered as an authentic instrument by a
+foreign tribunal; or
+  (B) authenticated by, or concluded, registered or filed with a foreign
+tribunal; and
+  (c) may be reviewed and modified by a foreign tribunal; and
+  (ii) includes a maintenance arrangement or authentic instrument under
+the convention.
+  7. "United States central authority" means the secretary of the United
+States department of health and human services.
+```

@@ -4,16 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 3 — Civil Provisions of General Application](README.md)
 
 ```text
-  * § 580-306. Inappropriate tribunal. If a petition or comparable
-pleading is received by an inappropriate tribunal of this state, it
-shall forward the pleading and accompanying documents to an appropriate
-tribunal in this state or another state and notify the petitioner where
-and when the pleading was sent.
-  * NB Effective until January 1, 2016
-  * § 580-306. Inappropriate tribunal. If a petition or comparable
+  § 580-306. Inappropriate tribunal. If a petition or comparable
 pleading is received by an inappropriate tribunal of this state, the
 tribunal shall forward the pleading and accompanying documents to an
 appropriate tribunal of this state or another state and notify the
 petitioner where and when the pleading was sent.
-  * NB Effective January 1, 2016
 ```

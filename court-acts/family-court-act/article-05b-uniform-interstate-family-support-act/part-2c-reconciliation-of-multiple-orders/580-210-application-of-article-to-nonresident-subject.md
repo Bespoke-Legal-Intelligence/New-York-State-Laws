@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 2C — Reconciliation of Multiple Orders](README.md)
 
 ```text
-  * § 580-210. Application of article to nonresident subject to personal
+  § 580-210. Application of article to nonresident subject to personal
 jurisdiction. A tribunal of this state exercising personal jurisdiction
 over a nonresident in a proceeding under this article, under other law
 of this state relating to a support order, or recognizing a foreign
@@ -15,5 +15,4 @@ discovery through a tribunal outside this state pursuant to section
 580-318 of this article. In all other respects, parts three through six
 of this article do not apply, and the tribunal shall apply the
 procedural and substantive law of this state.
-  * NB Effective January 1, 2016
 ```

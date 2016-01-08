@@ -4,11 +4,11 @@
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 2C — Reconciliation of Multiple Orders](README.md)
 
 ```text
-  * § 580-211. Continuing exclusive jurisdiction to modify
-spousal-support order. (a) A tribunal of this state issuing a
-spousal-support order consistent with the law of this state has
-continuing, exclusive jurisdiction to modify the spousal-support order
-throughout the existence of the support obligation.
+  § 580-211. Continuing exclusive jurisdiction to modify spousal-support
+order. (a) A tribunal of this state issuing a spousal-support order
+consistent with the law of this state has continuing, exclusive
+jurisdiction to modify the spousal-support order throughout the
+existence of the support obligation.
   (b) A tribunal of this state may not modify a spousal-support order
 issued by a tribunal of another state or a foreign country having
 continuing, exclusive jurisdiction over that order under the law of that
@@ -19,5 +19,4 @@ jurisdiction over a spousal-support order may serve as:
 enforce the spousal-support order issued in this state; or
   (2) a responding tribunal to enforce or modify its own spousal-support
 order.
-  * NB Effective January 1, 2016
 ```

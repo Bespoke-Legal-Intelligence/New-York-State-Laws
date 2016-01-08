@@ -6,8 +6,8 @@
 ## Contents
 
 - [§ 580-901 Uniformity of application and construction](580-901-uniformity-of-application-and-construction.md)
-- [§ 580-902 Short title](580-902-short-title.md)
-- [§ 580-903 Severability clause](580-903-severability-clause.md)
+- [§ 580-902 Severability](580-902-severability.md)
+- [§ 580-903 Effective date](580-903-effective-date.md)
 - [§ 580-904 Effective date](580-904-effective-date.md)
 - [§ 580-905 Repeals](580-905-repeals.md)
 
@@ -15,14 +15,11 @@
 <summary>Official heading of Part 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-  * Part 9. Miscellaneous provisions.
-  * NB Effective until January 1, 2016
-                                 * PART 9
+                                 PART 9
                         MISCELLANEOUS PROVISIONS
 Section 580-901. Uniformity of application and construction.
         580-902. Severability.
         580-903. Effective date.
-  * NB Effective January 1, 2016
 ```
 
 </details>

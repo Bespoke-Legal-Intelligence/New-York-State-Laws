@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-206", "kind": "section", "law_id": "FCT", "location_id": "580-206", "path": "ARTICLE 5-B › PART 2 › SECTION 580-206", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-206.md", "title": "Continuing jurisdiction to enforce child support order"} -->
+# Family Court Act § 580-206 — Continuing jurisdiction to enforce child support order
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 2 — Jurisdiction](README.md)
+
+```text
+  § 580-206. Continuing jurisdiction to enforce child support order. (a)
+A tribunal of this state that has issued a child support order
+consistent with the law of this state may serve as an initiating
+tribunal to request a tribunal of another state to enforce:
+  (1) the order if the order is the controlling order and has not been
+modified by a tribunal of another state that assumed jurisdiction
+pursuant to the Uniform Interstate Family Support Act; or
+  (2) a money judgment for arrears of support and interest on the order
+accrued before a determination that an order of a tribunal of another
+state is the controlling order.
+  (b) A tribunal of this state having continuing jurisdiction over a
+support order may act as a responding tribunal to enforce the order.
+```

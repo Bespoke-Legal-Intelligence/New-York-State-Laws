@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-401", "kind": "section", "law_id": "FCT", "location_id": "580-401", "path": "ARTICLE 5-B › PART 4 › SECTION 580-401", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-401.md", "title": "Establishment of support order"} -->
+# Family Court Act § 580-401 — Establishment of support order
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 4 — Establishment of Support Order or Determination of Parentage](README.md)
+
+```text
+  § 580-401. Establishment of support order. (a) If a support order
+entitled to recognition under this article has not been issued, a
+responding tribunal of this state with personal jurisdiction over the
+parties may issue a support order if:
+  (1) the individual seeking the order resides outside this state; or
+  (2) the support enforcement agency seeking the order is located
+outside this state.
+  (b) The tribunal may issue a temporary child support order if the
+tribunal determines that such an order is appropriate and the individual
+ordered to pay is:
+  (1) a presumed father of the child;
+  (2) petitioning to have his paternity adjudicated;
+  (3) identified as the father of the child through genetic testing;
+  (4) an alleged father who has declined to submit to genetic testing;
+  (5) shown by clear and convincing evidence to be the father of the
+child;
+  (6) an acknowledged father as provided by applicable state law;
+  (7) the mother of the child; or
+  (8) an individual who has been ordered to pay child support in a
+previous proceeding and the order has not been reversed or vacated.
+  (c) Upon finding, after notice and opportunity to be heard, that an
+obligor owes a duty of support, the tribunal shall issue a support order
+directed to the obligor and may issue other orders pursuant to section
+580-305 of this article.
+```

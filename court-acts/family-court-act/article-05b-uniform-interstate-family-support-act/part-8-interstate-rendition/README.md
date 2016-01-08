@@ -12,13 +12,10 @@
 <summary>Official heading of Part 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-  * Part 8. Interstate rendition.
-  * NB Effective until January 1, 2016
-                                 * PART 8
+                                 PART 8
                           INTERSTATE RENDITION
 Section 580-801. Grounds for rendition.
         580-802. Conditions of rendition.
-  * NB Effective January 1, 2016
 ```
 
 </details>
