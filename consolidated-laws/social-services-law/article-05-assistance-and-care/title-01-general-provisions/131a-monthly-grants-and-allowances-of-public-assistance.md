@@ -44,12 +44,16 @@ categories of assistance in and by all social services districts:
   For  each  additional  person in the household there shall be added an
 additional amount of sixty-seven dollars monthly.
   (a-2) For the period beginning July first, two thousand ten and ending
-June thirtieth, two thousand twelve, the following schedule shall be the
-standard of monthly need for determining eligibility for all  categories
-of assistance in and by all social services districts:
+June thirtieth, two thousand twelve, persons and families determined  to
+be eligible by the application of the standard of need prescribed by the
+provisions of subdivision two of this section, less any available income
+or  resources  which  are  not  required  to  be  disregarded  by  other
+provisions of this chapter, shall receive  maximum  monthly  grants  and
+allowances  in  all  social  services  districts, in accordance with the
+following schedule, for public assistance:
                      Number of Persons in Household
     One         Two         Three       Four        Five        Six
-    $141        $225        $300        $386        $477        $551a
+    $141        $225        $300        $386        $477        $551
   For each additional person in the household there shall be added an
 additional amount of seventy-five dollars monthly.
   (a-3) For the period beginning July first, two thousand twelve and

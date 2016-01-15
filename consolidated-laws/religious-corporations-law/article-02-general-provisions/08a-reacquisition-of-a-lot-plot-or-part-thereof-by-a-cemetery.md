@@ -4,7 +4,7 @@
 [Religious Corporations Law](../README.md) › [Article 2 — General Provisions](README.md)
 
 ```text
-  * § 8-a. Reacquisition of a lot, plot or part thereof by a cemetery. A
+  § 8-a. Reacquisition of a lot, plot or part thereof by a cemetery. A
 religious cemetery corporation may, upon application and approval by a
 supreme court, reacquire, resubdivide, and resell a lot, plot or part
 thereof under the following circumstances:
@@ -124,5 +124,4 @@ in the section of the cemetery where such resale occurs.
   (g) No corporation shall utilize the reacquisition provisions of this
 section in violation of such corporation's sectarian burial
 requirements.
-  * NB Effective January 10, 2016
 ```

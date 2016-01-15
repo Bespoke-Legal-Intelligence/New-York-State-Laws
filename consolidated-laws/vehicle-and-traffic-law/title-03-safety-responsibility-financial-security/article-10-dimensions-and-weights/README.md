@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 385 Dimensions and weights of vehicles](385-dimensions-and-weights-of-vehicles.md)
+- [§ 385 Except on highways designated as part of the interstate system, the provisions of subdivisions six, seven, eight, nine, ten, eleven and t...](385-except-on-highways-designated-as-part.md)
 - [§ 386 Motor vehicle sound level limits](386-motor-vehicle-sound-level-limits.md)
 
 <details>
