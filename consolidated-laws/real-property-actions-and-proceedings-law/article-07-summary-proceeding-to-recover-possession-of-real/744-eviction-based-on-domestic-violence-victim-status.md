@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 7 — Summary Proceeding to Recover Possession of Real Property](README.md)
 
 ```text
-  * § 744. Eviction based on domestic violence victim status prohibited.
+  § 744. Eviction based on domestic violence victim status prohibited.
 1.  A tenant shall not be removed from possession of a residential unit
 pursuant to this article because of such person's domestic violence
 victim status, as defined in section two hundred twenty-seven-d of the
@@ -24,5 +24,4 @@ comply with this section.
   4. This section shall not apply to buildings used for dwelling
 purposes that are owner occupied and have two or fewer residential
 units.
-  * NB Effective January 19, 2016
 ```

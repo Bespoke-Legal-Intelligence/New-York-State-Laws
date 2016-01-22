@@ -4,28 +4,20 @@
 [Social Services Law](../README.md) › [Article 10-D — Services For Victims of Human Trafficking](README.md)
 
 ```text
-  § 483-cc. Confirmation as a victim of human trafficking. * (a) As soon
+  § 483-cc. Confirmation as a victim of human trafficking.  (a) As soon
 as practicable after a first encounter with a person who reasonably
-appears to a law enforcement agency or a district attorney's office to
-be a human trafficking victim, that agency or office shall notify the
+appears to a law enforcement agency, district attorney's office, or an
+established provider of social or legal services designated by the
+office of temporary and disability assistance, the office for the
+prevention of domestic violence or the office of victim services to be a
+human trafficking victim, that law enforcement agency or district
+attorney's office shall notify the office of temporary and disability
+assistance and the division of criminal justice services that such
+person may be eligible for services under this article or, in the case
+of an established provider of social or legal services, shall notify the
 office of temporary and disability assistance and the division of
-criminal justice services that such person may be eligible for services
-under this article.
-  * NB Effective until January 19, 2016
-  * (a) As soon as practicable after a first encounter with a person who
-reasonably appears to a law enforcement agency, district attorney's
-office, or an established provider of social or legal services
-designated by the office of temporary and disability assistance, the
-office for the prevention of domestic violence or the office of victim
-services to be a human trafficking victim, that law enforcement agency
-or district attorney's office shall notify the office of temporary and
-disability assistance and the division of criminal justice services that
-such person may be eligible for services under this article or, in the
-case of an established provider of social or legal services, shall
-notify the office of temporary and disability assistance and the
-division of criminal justice services if such victim consents to seeking
-services pursuant to this article.
-  * NB Effective January 19, 2016
+criminal justice services if such victim consents to seeking services
+pursuant to this article.
   (b) Upon receipt of such a notification, the division of criminal
 justice services, in consultation with the office of temporary and
 disability assistance and the referring agency or office, shall make a

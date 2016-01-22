@@ -4,8 +4,8 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 5 — Drivers' Licenses](../README.md) › [Article 20 — Suspension and Revocation](README.md)
 
 ```text
-  * § 510-d. Suspension and revocation of class E driver's licenses. 1.
-A class E driver's license shall be suspended by the commissioner for a
+  § 510-d. Suspension and revocation of class E driver's licenses. 1. A
+class E driver's license shall be suspended by the commissioner for a
 period of one year where the holder is convicted of a violation of
 section 230.20, 230.25, 230.30, 230.32, 230.34 or 230.40 of the penal
 law and the holder used a for hire motor vehicle to commit such crime.
@@ -27,5 +27,4 @@ such person does not create a substantial traffic safety hazard.
 any person who has the authority to suspend or revoke a license to drive
 or privilege of operating pursuant to section five hundred ten of this
 article from exercising any such authority.
-  * NB Effective January 19, 2016
 ```

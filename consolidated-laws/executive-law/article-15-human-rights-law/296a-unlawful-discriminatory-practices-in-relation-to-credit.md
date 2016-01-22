@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 15 — Human Rights Law](README.md)
 
 ```text
-  § 296-a. Unlawful discriminatory practices in relation to credit.  1.
+  § 296-a. Unlawful discriminatory practices in relation to credit. 1.
 It shall be an unlawful discriminatory practice for any creditor or any
 officer, agent or employee thereof:
   a. In the case of applications for credit with respect to the
@@ -116,21 +116,7 @@ under oath and a record shall be made of the proceedings. A written
 decision shall be made by the superintendent or his or her designated
 representative separately setting forth findings of fact and conclusions
 of law. A copy of such decision shall be forwarded to the commissioner.
-  * c. If the superintendent finds that a violation of this section has
-occurred, the superintendent shall issue an order which shall do one or
-more of the following:
-  (1) impose a fine in an amount not to exceed ten thousand dollars for
-each violation, to be paid to the people of the state of New York;
-  (2) award compensatory damages to the person aggrieved by such
-violation;
-  (3) require the regulated creditor to cease and desist from such
-unlawful discriminatory practices;
-  (4) require the regulated creditor to take such further affirmative
-action as will effectuate the purposes of this section, including, but
-not limited to, granting the credit which was the subject of the
-complaint.
-  * NB Effective until January 19, 2016
-  * c. If the superintendent finds that a violation of this section has
+  c. If the superintendent finds that a violation of this section has
 occurred, the superintendent shall issue an order which shall do one or
 more of the following:
   (1) impose a fine in an amount not to exceed ten thousand dollars for
@@ -162,7 +148,6 @@ unlawful discriminatory practices;
 action as will effectuate the purposes of this section, including, but
 not limited to, granting the credit which was the subject of the
 complaint.
-  * NB Effective January 19, 2016
   d. Any complainant, respondent or other person aggrieved by any order
 or final determination of the superintendent may obtain judicial review
 thereof.

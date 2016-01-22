@@ -327,7 +327,7 @@ amount, which co-payment amount the provider of such services may charge
 the recipient, provided, however, no provider may deny such services to
 an individual eligible for services based on the individual's inability
 to pay the co-payment amount.
-  * (b) Co-payments shall apply to all eligible persons for the services
+  (b) Co-payments shall apply to all eligible persons for the services
 defined in paragraph (d) of this subdivision with the exception of:
   (i) individuals under twenty-one years of age;
   (ii) pregnant women;
@@ -352,27 +352,6 @@ paragraph (a) of subdivision one of section three hundred sixty-six of
 this title, for a family of the same size; and
   (vi) any other individuals required to be excluded by federal law or
 regulations.
-  * NB Effective until October 1, 2015 unless certain requirements are
-not met (See ch 57/2015 Pt. B § 60 sb 4)
-  * (b) Co-payments shall apply to all eligible persons for the services
-defined in paragraph (d) of this subdivision with the exception of:
-  (i) individuals under twenty-one years of age;
-  (ii) pregnant women;
-  (iii) individuals who are inpatients in a medical facility who have
-been required to spend all of their income for medical care, except
-their personal needs allowance or residents of community based
-residential facilities licensed by the office of mental health or the
-office of mental retardation and developmental disabilities who have
-been required to spend all of their income, except their personal needs
-allowance;
-  (iv) individuals whose family income is less than one hundred percent
-of the federal poverty line, as defined in subparagraph four of
-paragraph (a) of subdivision one of section three hundred sixty-six of
-this title, for a family of the same size; and
-  (v) any other individuals required to be excluded by federal law or
-regulations.
-  * NB Effective October 1, 2015 unless certain requirements are not met
-(See ch 57/2015 Pt. B § 60 sb 4)
   (b-1) The commissioner is authorized to submit any request or
 application to the Centers for Medicare and Medicaid Services as may be
 necessary to be granted a waiver of the requirement for the department
