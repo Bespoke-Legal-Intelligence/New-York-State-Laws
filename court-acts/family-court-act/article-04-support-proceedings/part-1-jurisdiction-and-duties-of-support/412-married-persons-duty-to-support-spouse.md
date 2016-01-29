@@ -4,18 +4,11 @@
 [Family Court Act](../../README.md) › [Article 4 — Support Proceedings](../README.md) › [Part 1 — Jurisdiction and Duties of Support](README.md)
 
 ```text
-  * § 412. Married person's duty to support spouse. A married person is
-chargeable with the support of his or her spouse and, if possessed of
-sufficient means or able to earn such means, may be required to pay for
-his or her support a fair and reasonable sum, as the court may
-determine, having due regard to the circumstances of the respective
-parties.
-  * NB Effective until January 23, 2016
-  * § 412. Married person's duty to support spouse. 1. A married person
-is chargeable with the support of his or her spouse and, except where
-the parties have entered into an agreement pursuant to section four
-hundred twenty-five of this article providing for support, the court,
-upon application by a party, shall make its award for spousal support
+  § 412. Married person's duty to support spouse. 1. A married person is
+chargeable with the support of his or her spouse and, except where the
+parties have entered into an agreement pursuant to section four hundred
+twenty-five of this article providing for support, the court, upon
+application by a party, shall make its award for spousal support
 pursuant to the provisions of this part.
   2. For purposes of this section, the following definitions shall be
 used:
@@ -202,5 +195,4 @@ on the record in open court;
   (c) issuance of a judgment of divorce or other order in a matrimonial
 proceeding;
   (d) the death of either party.
-  * NB Effective January 23, 2016
 ```
