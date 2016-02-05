@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Family Court Act § 580-905", "kind": "section", "law_id": "FCT", "location_id": "580-905", "path": "ARTICLE 5-B › PART 9 › SECTION 580-905", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-905.md", "title": "Repeals"} -->
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-905", "kind": "section", "law_id": "FCT", "location_id": "580-905", "path": "ARTICLE 5-B › PART 9 › SECTION 580-905", "repealed": true, "repealed_date": "2016-02-05", "source": "nys-laws:FCT/580-905.md", "title": "Repeals"} -->
 # Family Court Act § 580-905 — Repeals
 
 [Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 9 — Miscellaneous Provisions](README.md)
+
+**Repealed** (5 Feb 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 580-905. Repeals. Article three-A of the domestic relations law is
