@@ -4,10 +4,10 @@
 [Public Housing Law](../README.md) › [Article 10 — Loans to Owners of Existing Multiple Dwellings](README.md)
 
 ```text
-  § 212. Loans to owners.  1. Notwithstanding the provisions of any
+  § 212. Loans to owners. 1. Notwithstanding the provisions of any
 general, special or local law, a municipality, by its local legislative
 body, may make or contract to make loans to the owners of existing
-multiple dwellings within its territorial limits; in such amounts as may
+multiple dwellings within its territorial limits, in such amounts as may
 be required for the installation of proper heating facilities, or
 elimination of conditions dangerous to human life or detrimental to
 health, including nuisances as defined, in section three hundred nine of

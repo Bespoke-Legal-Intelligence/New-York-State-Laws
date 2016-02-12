@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 5 Feb 2016.*
+*Current through the publication of 12 Feb 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [12 Feb 2016](changes/2016/2016-02-12.md): Public Housing Law; State Finance Law
 - [5 Feb 2016](changes/2016/2016-02-05.md): Family Court Act; Vehicle and Traffic Law
 - [29 Jan 2016](changes/2016/2016-01-29.md): Domestic Relations Law; Family Court Act; Indian Law; State Finance Law
 - [22 Jan 2016](changes/2016/2016-01-22.md): Business Corporation Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Executive Law; Labor Law; Mental Hygiene Law; Penal Law; Public Health Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [8 Jan 2016](changes/2016/2016-01-08.md): Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General City Law; Insurance Law; Public Health Law; Public Officers Law; Real Property Tax Law; Social Services Law; Tax Law
 - [1 Jan 2016](changes/2016/2016-01-01.md): Arts and Cultural Affairs Law; Civil Service Law; Education Law; General Business Law; Insurance Law; Port of New York Authority; Social Services Law; Tax Law
 - [25 Dec 2015](changes/2015/2015-12-25.md): Civil Practice Law and Rules; Civil Service Law; Correction Law; Domestic Relations Law; Family Court Act; General Municipal Law; Insurance Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; State Law; Tax Law; Vehicle and Traffic Law
-- [18 Dec 2015](changes/2015/2015-12-18.md): Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; General Business Law; General City Law; General Municipal Law; Insurance Law; Local Finance Law; Not-for-Profit Corporation Law; Public Buildings Law; Public Health Law; Public Officers Law; Public Service Law; Real Property Tax Law; Religious Corporations Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Town Law; Vehicle and Traffic Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
@@ -32,17 +32,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Education Law](consolidated-laws/education-law/README.md) | 207 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 192 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 171 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 168 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 161 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 107 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 99 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 97 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 98 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 96 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 95 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 82 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 78 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 73 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 61 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 68 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 61 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 58 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 58 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 56 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 48 |
 
 ## Consolidated Laws
 
@@ -109,7 +109,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,115 | 25 Dec 2015 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 49 | 18 Dec 2015 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,622 | 22 Jan 2016 |
-| [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | 10 Apr 2015 |
+| [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 327 | 12 Feb 2016 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | no change since 22 Sep 2014 (start of history) |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 15 Jan 2016 |
 | [Public Service Law](consolidated-laws/public-service-law/README.md) | PBS | 253 | 18 Dec 2015 |
@@ -126,7 +126,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 686 | 22 Jan 2016 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 24 Apr 2015 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | 23 Jan 2015 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 505 | 29 Jan 2016 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 505 | 12 Feb 2016 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 15 Jan 2016 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
