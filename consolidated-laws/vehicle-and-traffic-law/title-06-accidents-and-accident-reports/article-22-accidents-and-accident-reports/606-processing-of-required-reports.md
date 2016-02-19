@@ -4,9 +4,8 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 6 — Accidents and Accident Reports](../README.md) › [Article 22 — Accidents and Accident Reports](README.md)
 
 ```text
-  * § 606. Processing of required reports. The commissioner, when
+  § 606. Processing of required reports. The commissioner, when
 processing reports of accidents filed pursuant to this article, shall
 give priority to reports involving serious physical injury (as defined
 in subdivision ten of section 10.00 of the penal law) or death.
-  * NB Effective February 18, 2016
 ```

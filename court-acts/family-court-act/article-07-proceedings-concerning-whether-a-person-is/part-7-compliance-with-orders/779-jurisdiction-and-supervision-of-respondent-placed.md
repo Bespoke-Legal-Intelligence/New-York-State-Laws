@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 779", "kind": "section", "law_id": "FCT", "location_id": "779", "path": "ARTICLE 7 › PART 7 › SECTION 779", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/779.md", "title": "Jurisdiction and supervision of respondent placed on probation; failure to comply with terms of probation"} -->
+# Family Court Act § 779 — Jurisdiction and supervision of respondent placed on probation; failure to comply with terms of probation
+
+[Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 7 — Compliance With Orders](README.md)
+
+```text
+  § 779. Jurisdiction and supervision of respondent placed on probation;
+failure to comply with terms of probation. (a) A respondent who is
+placed on probation in accordance with section seven hundred fifty-seven
+of this article shall remain under the legal jurisdiction of the court
+pending expiration or termination of the period of probation.
+  (b) The probation service shall supervise the respondent during the
+period of such legal jurisdiction.
+  (c) A respondent brought before the court for failure to comply with
+reasonable terms and conditions of an order of probation issued under
+section seven hundred fifty-seven of this article shall be subject to
+section seven hundred seventy-nine-a of this article. If, after a
+hearing pursuant to such section, the court determines by competent
+proof that the respondent without just cause failed to comply with such
+terms and conditions, the court may adjourn the matter for a new
+dispositional hearing in accordance with subdivision (b) or (c) of
+section seven hundred forty-nine of this article. The court may revoke
+the order of probation and proceed to make any order that might have
+been made at the time the order of probation was entered.
+```

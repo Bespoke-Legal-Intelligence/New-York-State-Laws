@@ -13,8 +13,8 @@
 - [§ 776 Failure to comply with terms and conditions of suspended judgment](776-failure-to-comply-with-terms-and-conditions-of-suspended.md)
 - [§ 777 Failure to comply with terms of placement at home](777-failure-to-comply-with-terms-of-placement-at-home.md)
 - [§ 778 Failure to comply with terms of placement in authorized agency](778-failure-to-comply-with-terms-of-placement-in-authorized.md)
-- [§ 779 Failure to comply with terms of probation](779-failure-to-comply-with-terms-of-probation.md)
-- [§ 779-A Declaration of delinquency concerning juvenile delinquents and persons in need of supervision](779a-declaration-of-delinquency-concerning-juvenile-delinquents.md)
+- [§ 779 Jurisdiction and supervision of respondent placed on probation; failure to comply with terms of probation](779-jurisdiction-and-supervision-of-respondent-placed.md)
+- [§ 779-A Petition and hearing on violation of order of probation or suspended judgment](779a-petition-and-hearing-on-violation-of-order-of-probation.md)
 - [§ 780 Failure to comply with order of protection](780-failure-to-comply-with-order-of-protection.md)
 - [§ 780-A Firearms; surrender and license suspension, revocation and ineligibility](780a-firearms-surrender-and-license-suspension-revocation.md)
 
