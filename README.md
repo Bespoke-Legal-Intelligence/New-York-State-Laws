@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 Feb 2016.*
+*Current through the publication of 26 Feb 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 Feb 2016](changes/2016/2016-02-26.md): Real Property Tax Law
 - [19 Feb 2016](changes/2016/2016-02-19.md): Criminal Procedure Law; Education Law; Executive Law; Family Court Act; Insurance Law; Navigation Law; Penal Law; Vehicle and Traffic Law
 - [12 Feb 2016](changes/2016/2016-02-12.md): Public Housing Law; State Finance Law
 - [5 Feb 2016](changes/2016/2016-02-05.md): Family Court Act; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 Jan 2016](changes/2016/2016-01-22.md): Business Corporation Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Executive Law; Labor Law; Mental Hygiene Law; Penal Law; Public Health Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Vehicle and Traffic Law
 - [15 Jan 2016](changes/2016/2016-01-15.md): Public Officers Law; Religious Corporations Law; Social Services Law; State Law; Vehicle and Traffic Law
 - [8 Jan 2016](changes/2016/2016-01-08.md): Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General City Law; Insurance Law; Public Health Law; Public Officers Law; Real Property Tax Law; Social Services Law; Tax Law
-- [1 Jan 2016](changes/2016/2016-01-01.md): Arts and Cultural Affairs Law; Civil Service Law; Education Law; General Business Law; Insurance Law; Port of New York Authority; Social Services Law; Tax Law
 
 ## Most changed in the past 12 months
 
@@ -33,16 +33,16 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 192 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 171 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 161 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 104 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 102 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 102 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 101 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 97 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 96 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 82 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 69 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 80 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 67 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 61 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 58 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 56 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 47 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 48 |
 
 ## Consolidated Laws
 
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 321 | 22 Jan 2016 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 410 | 22 Jan 2016 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 749 | 8 Jan 2016 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 749 | 26 Feb 2016 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 336 | 15 Jan 2016 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 25 Dec 2015 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
