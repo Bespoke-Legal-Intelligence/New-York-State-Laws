@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 26 Feb 2016.*
+*Current through the publication of 11 Mar 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [11 Mar 2016](changes/2016/2016-03-11.md): Business Corporation Law; Executive Law; General Business Law; State Law
 - [26 Feb 2016](changes/2016/2016-02-26.md): Real Property Tax Law
 - [19 Feb 2016](changes/2016/2016-02-19.md): Criminal Procedure Law; Education Law; Executive Law; Family Court Act; Insurance Law; Navigation Law; Penal Law; Vehicle and Traffic Law
 - [12 Feb 2016](changes/2016/2016-02-12.md): Public Housing Law; State Finance Law
@@ -22,26 +23,25 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [29 Jan 2016](changes/2016/2016-01-29.md): Domestic Relations Law; Family Court Act; Indian Law; State Finance Law
 - [22 Jan 2016](changes/2016/2016-01-22.md): Business Corporation Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Executive Law; Labor Law; Mental Hygiene Law; Penal Law; Public Health Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Vehicle and Traffic Law
 - [15 Jan 2016](changes/2016/2016-01-15.md): Public Officers Law; Religious Corporations Law; Social Services Law; State Law; Vehicle and Traffic Law
-- [8 Jan 2016](changes/2016/2016-01-08.md): Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General City Law; Insurance Law; Public Health Law; Public Officers Law; Real Property Tax Law; Social Services Law; Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Family Court Act](court-acts/family-court-act/README.md) | 214 |
-| [Education Law](consolidated-laws/education-law/README.md) | 209 |
+| [Education Law](consolidated-laws/education-law/README.md) | 208 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 192 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 171 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 161 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 102 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 101 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 160 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 102 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 97 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 96 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 96 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 80 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 67 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 62 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 61 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 58 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 56 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 54 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 52 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 48 |
 
 ## Consolidated Laws
@@ -55,7 +55,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 1 Jan 2016 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 837 | 30 Oct 2015 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 6 Nov 2015 |
-| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 248 | 22 Jan 2016 |
+| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 248 | 11 Mar 2016 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 83 | no change since 22 Sep 2014 (start of history) |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 779 | 22 Jan 2016 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 107 | 25 Sep 2015 |
@@ -75,10 +75,10 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,684 | 8 Jan 2016 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 344 | 18 Dec 2015 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 854 | 19 Feb 2016 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 854 | 11 Mar 2016 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 10 Apr 2015 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,177 | 1 Jan 2016 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,177 | 11 Mar 2016 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 8 Jan 2016 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,065 | 25 Dec 2015 |
@@ -127,7 +127,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 24 Apr 2015 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | 23 Jan 2015 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 505 | 12 Feb 2016 |
-| [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 15 Jan 2016 |
+| [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 11 Mar 2016 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,135 | 8 Jan 2016 |
