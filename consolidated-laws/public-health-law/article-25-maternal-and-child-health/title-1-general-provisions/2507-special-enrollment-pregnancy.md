@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2507", "kind": "section", "law_id": "PBH", "location_id": "2507", "path": "ARTICLE 25 › TITLE 1 › SECTION 2507", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2507.md", "title": "Special enrollment; pregnancy"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2507", "kind": "section", "law_id": "PBH", "location_id": "2507", "path": "ARTICLE 25 › TITLE 1 › SECTION 2507", "repealed": true, "repealed_date": "2016-03-18", "source": "nys-laws:PBH/2507.md", "title": "Special enrollment; pregnancy"} -->
 # Public Health Law § 2507 — Special enrollment; pregnancy
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+**Repealed** (18 Mar 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2507. Special enrollment; pregnancy. An insurer, subject to the

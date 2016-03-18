@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2-A — Prescription Drugs](../README.md) › [Title 2 — Prescription Drugs; Various Provisions](README.md)
 
 ```text
-  * § 280-a. Pharmacy benefit managers. 1. Definitions. As used in this
+  § 280-a. Pharmacy benefit managers. 1. Definitions. As used in this
 section, the following terms shall have the following meanings:
   (a) "Pharmacy benefit manager" means an entity that contracts with
 pharmacies or pharmacy contracting agents on behalf of a health plan,
@@ -50,5 +50,4 @@ registered pursuant to subdivision four of section sixty-eight hundred
 eight of the education law at a price which is equal to or less than the
 maximum allowable cost for that drug as determined by the pharmacy
 benefit manager.
-  * NB Effective March 10, 2016
 ```
