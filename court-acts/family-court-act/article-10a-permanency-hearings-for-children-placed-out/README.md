@@ -11,6 +11,7 @@
 - [§ 1089 Permanency hearings](1089-permanency-hearings.md)
 - [§ 1089-A Custody or guardianship with relatives or suitable persons pursuant to article six of this act or guardianship pursuant to article sevent...](1089a-custody-or-guardianship-with-relatives-or-suitable-persons-pursuant-to-article.md)
 - [§ 1090 Representation of parties](1090-representation-of-parties.md)
+- [§ 1090-A Participation of children in their permanency hearings](1090a-participation-of-children-in-their-permanency-hearings.md)
 
 <details>
 <summary>Official heading of Article 10-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -29,6 +30,7 @@ Section 1086.   Purpose.
                   persons pursuant to article seventeen of the
                   surrogate's court procedure act.
         1090.   Representation of parties.
+        1090-a. Participation of children in their permanency hearings.
 ```
 
 </details>
