@@ -6,20 +6,23 @@
 ```text
   § 458-c. Payments for non-recurring guardianship expenses. 1. A social
 services official shall make payments for non-recurring guardianship
-expenses incurred by or on behalf of the relatives who have been
-approved by the social services official to receive kinship guardianship
-assistance payments, when such expenses are incurred in connection with
-assuming the guardianship of a foster child. The agreement for the
-payment of non-recurring guardianship expenses must be reflected in the
-written agreement set forth in subdivision four of section four hundred
-fifty-eight-b of this title. In accordance with subdivision two of this
-section, the payments shall be made by the social services official
-either to the relative guardian or guardians directly or to an attorney
-on behalf of the relative guardian or guardians for the allowable amount
-of non-recurring guardianship expenses incurred in connection with
+expenses incurred by or on behalf of the relatives or successor
+guardians who have been approved by the social services official to
+receive kinship guardianship assistance payments, when such expenses are
+incurred in connection with assuming the guardianship of a foster child
+or a former foster child in regard to successor guardians. The agreement
+for the payment of non-recurring guardianship expenses must be reflected
+in the written agreement set forth in subdivision four of section four
+hundred fifty-eight-b of this title. In accordance with subdivision two
+of this section, the payments shall be made by the social services
+official either to the relative or successor guardian or guardians
+directly or to an attorney on behalf of the relative or successor
+guardian or guardians, as applicable, for the allowable amount of
+non-recurring guardianship expenses incurred in connection with
 obtaining such guardianship.
   2. The amount of the payment made pursuant to this section shall not
-exceed two thousand dollars for each foster child for whom the relatives
+exceed two thousand dollars for each foster child for whom the
+relatives, or each former foster child for whom the successor guardians,
 seek guardianship or permanent guardianship and shall be available only
 for those expenses that are determined to be eligible for reimbursement
 by the social services official in accordance with the regulations of

@@ -8,7 +8,7 @@
 | Senate code | CAL |
 | Type | Consolidated law, chapter 5 |
 | Sections | 83 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 8 Apr 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Canal |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (26 lines)](chapter-text.md)
+
+## Recent changes
+
+- [8 Apr 2016](../../changes/2016/2016-04-08.md): 3 amended
 
 ## Contents
 

@@ -13,6 +13,7 @@
 - [§ 1004 Officers and employees; expenses](1004-officers-and-employees-expenses.md)
 - [§ 1005 Powers and duties of authority](1005-powers-and-duties-of-authority.md)
 - [§ 1005-A Actions or contracts involving certain nuclear power plants](1005a-actions-or-contracts-involving-certain-nuclear.md)
+- [§ 1005-B New York state canal corporation](1005b-new-york-state-canal-corporation.md)
 - [§ 1006 Power to compel attendance of witnesses](1006-power-to-compel-attendance-of-witnesses.md)
 - [§ 1007 Acquisition of property](1007-acquisition-of-property.md)
 - [§ 1008 Consent of state](1008-consent-of-state.md)
@@ -36,14 +37,18 @@
                 POWER AUTHORITY OF THE STATE OF NEW YORK
 Section 1000.   Short title.
         1001.   Declaration of policy.
-        1001-a. Emergency  provisions  for  the metropolitan area of the
+        1001-a. Emergency provisions for the metropolitan area of the
                   city of New York.
         1002.   Power Authority of the State of New York.
         1003.   Trustees.
         1004.   Officers and employees; expenses.
         1005.   Powers and duties of authority.
-        1005-a. Actions or contracts  involving  certain  nuclear  power
+        1005-a. Actions or contracts involving certain nuclear power
                   plants.
+        1005-b. New York state canal corporation.
+        1005-c. Additional powers of the authority to finance certain
+                  projects in connection with the New York state canal
+                  system.
         1006.   Power to compel attendance of witnesses.
         1007.   Acquisition of property.
         1008.   Consent of state.
@@ -56,9 +61,9 @@ Section 1000.   Short title.
         1012-a. Emergency contributions to county of Niagara and city of
                   Niagara Falls.
         1013.   Repayment of state appropriations.
-        1014.   Public   service   law   not  applicable  to  authority;
+        1014.   Public service law not applicable to authority;
                   inconsistent provisions in other acts superseded.
-        1015.   Title  not  affected  if  in  part  unconstitutional  or
+        1015.   Title not affected if in part unconstitutional or
                   ineffective.
         1017.   Actions against authority.
 ```

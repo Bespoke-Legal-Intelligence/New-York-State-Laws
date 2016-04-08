@@ -301,13 +301,12 @@ seventy-nine of the internal revenue code, and (2) the grantor's
 transfer of assets to the trust is treated as an incomplete gift under
 section twenty-five hundred eleven of the internal revenue code, and the
 regulations thereunder.
-  * (42) Distributions received during the taxable year by a designated
+  (42) Distributions received during the taxable year by a designated
 beneficiary of a "NY ABLE account" established under the New York
 achieving a better life experience savings account act provided for
 under article eighty-four of the mental hygiene law, to the extent such
 distributions are nonqualified withdrawals within the meaning of
 subdivision six of section 84.03 of such law.
-  * NB Effective April 1, 2016
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -696,16 +695,14 @@ hundred two of the internal revenue code and taxed under section six
 hundred three of this article; and provided, further, that such award is
 not distributed to a taxpayer who has not attained the age of fifty-nine
 and one-half years.
-  * (42) Contributions made during the taxable year by an account owner
-to one or more "NY ABLE" accounts established under article eighty-four
-of the mental hygiene law, provided, however that such exclusion shall
-be available only to the account owner and not to any other person.
-  * NB Effective April 1, 2016
-  * (43) Distributions for qualified expenses of a designated
-beneficiary from a "NY ABLE" account established under article
-eighty-four of the mental hygiene law, to the extent includible in gross
-income for federal income tax purposes.
-  * NB Effective April 1, 2016
+  (42) Contributions made during the taxable year by an account owner to
+one or more "NY ABLE" accounts established under article eighty-four of
+the mental hygiene law, provided, however that such exclusion shall be
+available only to the account owner and not to any other person.
+  (43) Distributions for qualified expenses of a designated beneficiary
+from a "NY ABLE" account established under article eighty-four of the
+mental hygiene law, to the extent includible in gross income for federal
+income tax purposes.
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

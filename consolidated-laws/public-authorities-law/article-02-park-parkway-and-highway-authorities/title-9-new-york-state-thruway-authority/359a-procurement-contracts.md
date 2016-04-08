@@ -4,10 +4,18 @@
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
 
 ```text
-  § 359-a. Procurement contracts. For the purposes of section
+  * § 359-a. Procurement contracts. For the purposes of section
 twenty-eight hundred seventy-nine of this chapter as applied to the
 authority or the canal corporation, the term "procurement contract"
 shall mean any written agreement for the acquisition of goods or
 services of any kind by the authority or the canal corporation in the
 actual or estimated amount of fifteen thousand dollars or more.
+  * NB Effective until January 1, 2017
+  * § 359-a. Procurement contracts. For the purposes of section
+twenty-eight hundred seventy-nine of this chapter as applied to the
+authority, the term "procurement contract" shall mean any written
+agreement for the acquisition of goods or services of any kind by the
+authority in the actual or estimated amount of fifteen thousand dollars
+or more.
+  * NB Effective January 1, 2017
 ```

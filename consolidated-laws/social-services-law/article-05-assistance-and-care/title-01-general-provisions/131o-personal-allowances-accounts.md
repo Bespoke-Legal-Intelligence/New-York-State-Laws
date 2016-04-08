@@ -11,18 +11,33 @@ section two hundred nine of this chapter, and who is receiving benefits
 under the program of additional state payments pursuant to this chapter
 while receiving such care, shall be entitled to a monthly personal
 allowance out of such benefits in the following amount:
-  (a) in the case of each individual receiving family care, an amount
+  * (a) in the case of each individual receiving family care, an amount
 equal to at least $141.00 for each month beginning on or after January
 first, two thousand fifteen.
-  (b) in the case of each individual receiving residential care, an
+  * NB Effective until December 31, 2016
+  * (a) in the case of each individual receiving family care, an amount
+equal to at least $141.00 for each month beginning on or after January
+first, two thousand sixteen.
+  * NB Effective December 31, 2016
+  * (b) in the case of each individual receiving residential care, an
 amount equal to at least $163.00 for each month beginning on or after
 January first, two thousand fifteen.
-  (c) in the case of each individual receiving enhanced residential
+  * NB Effective until December 31, 2016
+  * (b) in the case of each individual receiving residential care, an
+amount equal to at least $163.00 for each month beginning on or after
+January first, two thousand sixteen.
+  * NB Effective December 31, 2016
+  * (c) in the case of each individual receiving enhanced residential
 care, an amount equal to at least $193.00 for each month beginning on or
 after January first, two thousand fifteen.
-  (d) for the period commencing January first, two thousand sixteen, the
-monthly personal needs allowance shall be an amount equal to the sum of
-the amounts set forth in subparagraphs one and two of this paragraph:
+  * NB Effective until December 31, 2016
+  * (c) in the case of each individual receiving enhanced residential
+care, an amount equal to at least $193.00 for each month beginning on or
+after January first, two thousand sixteen.
+  * NB Effective December 31, 2016
+  * (d) for the period commencing January first, two thousand sixteen,
+the monthly personal needs allowance shall be an amount equal to the sum
+of the amounts set forth in subparagraphs one and two of this paragraph:
   (1) the amounts specified in paragraphs (a), (b) and (c) of this
 subdivision; and
   (2) the amount in subparagraph one of this paragraph, multiplied by
@@ -30,6 +45,18 @@ the percentage of any federal supplemental security income cost of
 living adjustment which becomes effective on or after January first, two
 thousand sixteen, but prior to June thirtieth, two thousand sixteen,
 rounded to the nearest whole dollar.
+  * NB Effective until December 31, 2016
+  * (d) for the period commencing January first, two thousand seventeen,
+the monthly personal needs allowance shall be an amount equal to the sum
+of the amounts set forth in subparagraphs one and two of this paragraph:
+  (1) the amounts specified in paragraphs (a), (b) and (c) of this
+subdivision; and
+  (2) the amount in subparagraph one of this paragraph, multiplied by
+the percentage of any federal supplemental security income cost of
+living adjustment which becomes effective on or after January first, two
+thousand seventeen, but prior to June thirtieth, two thousand seventeen,
+rounded to the nearest whole dollar.
+  * NB Effective December 31, 2016
   2. The personal allowance described in subdivision one of this section
 shall be made directly available to the individual for his own use in
 obtaining clothing, personal hygiene items, and other supplies and

@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 4 — Other Awards](README.md)
 
 ```text
-  * § 679-a. New York state licensed social worker loan forgiveness
+  § 679-a. New York state licensed social worker loan forgiveness
 program. 1. Purpose. The president shall grant student loan forgiveness
 awards for the purpose of increasing the number of social workers
 serving in critical human service areas. For the purposes of this
@@ -51,5 +51,4 @@ the same priority, as provided in subdivision three of this section,
 than there are remaining awards, the corporation shall provide in
 regulation the method of distributing the remaining number of such
 awards, which may include a lottery or other form of random selection.
-  * NB Repealed June 30, 2016
 ```

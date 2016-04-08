@@ -4,15 +4,7 @@
 [Family Court Act](../../README.md) › [Article 1 — Family Court Established](../README.md) › [Part 5 — General Powers](README.md)
 
 ```text
-  * § 153-c. Temporary order of protection. Any person appearing at
-family court when the court is open requesting a temporary order of
-protection under any article of this act shall be entitled to file a
-petition without delay on the same day such person first appears at the
-family court, and a hearing on that request shall be held on the same
-day or the next day that the family court is open following the filing
-of such petition.
-  * NB Effective until April 1, 2016
-  * § 153-c. Temporary order of protection. (a) Any person appearing at
+  § 153-c. Temporary order of protection. (a) Any person appearing at
 family court when the court is open requesting a temporary order of
 protection under any article of this act shall be entitled to file a
 petition without delay on the same day such person first appears at the
@@ -110,5 +102,4 @@ under this section shall be recorded and preserved for transcription.
 Documentary evidence, if any, referred to by a party or witness or the
 court may be transmitted and submitted and introduced by electronic
 means.
-  * NB Effective April 1, 2016
 ```

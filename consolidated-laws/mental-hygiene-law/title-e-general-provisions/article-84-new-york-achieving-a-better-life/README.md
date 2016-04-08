@@ -16,7 +16,7 @@
 <summary>Official heading of Article 84, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 84
+                               ARTICLE 84
      NEW YORK ACHIEVING A BETTER LIFE EXPERIENCE SAVINGS ACCOUNT ACT
 Section 84.01 Short title.
         84.03 Definitions.
@@ -24,7 +24,6 @@ Section 84.01 Short title.
         84.07 NY ABLE account advisory council.
         84.09 Program requirements.
         84.11 Distribution requirements.
-  * NB Effective April 1, 2016
 ```
 
 </details>

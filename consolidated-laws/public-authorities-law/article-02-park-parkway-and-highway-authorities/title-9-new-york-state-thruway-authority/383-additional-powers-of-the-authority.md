@@ -4,13 +4,13 @@
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
 
 ```text
-  § 383. Additional powers of the authority to finance certain projects
-in connection with the New York state canal system. 1. (a) The authority
-is hereby authorized, as an additional corporate purpose thereof, to
-issue its bonds, notes and other obligations in conformity with
-applicable provisions of the uniform commercial code for purposes of
-financing the construction, reconstruction, development and improvement
-of the New York state canal system.
+  * § 383. Additional powers of the authority to finance certain
+projects in connection with the New York state canal system. 1. (a) The
+authority is hereby authorized, as an additional corporate purpose
+thereof, to issue its bonds, notes and other obligations in conformity
+with applicable provisions of the uniform commercial code for purposes
+of financing the construction, reconstruction, development and
+improvement of the New York state canal system.
   (b) The authority may issue bonds, notes or other obligations pursuant
 to paragraph (a) of this subdivision in an aggregate principal amount
 not exceeding one hundred sixty million dollars plus a principal amount
@@ -49,4 +49,5 @@ nineteen hundred eighty-six, as amended, shall be excluded.
 other obligations, which are not inconsistent with this section, shall
 apply to obligations authorized by this section, including but not
 limited to the power to issue renewal notes or refunding bonds thereof.
+  * NB Repealed January 1, 2017
 ```

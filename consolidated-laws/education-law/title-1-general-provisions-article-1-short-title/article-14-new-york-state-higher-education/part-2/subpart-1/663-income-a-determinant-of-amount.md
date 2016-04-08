@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 1 — General Provisions](README.md)
 
 ```text
-  § 663. Income, a determinant of amount of awards.  1. Income defined.
+  § 663. Income, a determinant of amount of awards. 1. Income defined.
 Except as otherwise provided in this section, "income" shall be the
 total of the combined net taxable income and income from pensions of New
 York state, local governments, the federal government and any private
@@ -12,19 +12,21 @@ employer of the applicant, the applicant's spouse, and the applicant's
 parents, including any pension and annuity income excluded for purposes
 of taxation pursuant to paragraph three-a of subsection (c) of section
 six hundred twelve of the tax law, as reported in New York state income
-tax returns for the calendar year next preceding the beginning of the
-school year for which application for assistance is made, except that
-any amount received by an applicant as a scholarship at an educational
-institution or as a fellowship grant, including the value of contributed
-services and accommodations, shall not be included within the definition
-of "income" for the purposes of this article. The term "parent" shall
-include birth parents, stepparents, adoptive parents and the spouse of
-an adoptive parent.  Income, if not a whole dollar amount, shall be
-assumed to be equal to the next lowest whole dollar amount. Any change
-in the status of an applicant with regard to the persons responsible for
-the applicant's support occurring after the beginning of any semester
-shall not be considered to change the applicant's award for that
-semester.
+tax returns for the calendar year coinciding with the tax year
+established by the U.S. department of education to qualify applicants
+for federal student financial aid programs authorized by title IV of the
+Higher Education Act of 1965, as amended, for the school year in which
+application for assistance is made, except that any amount received by
+an applicant as a scholarship at an educational institution or as a
+fellowship grant, including the value of contributed services and
+accommodations, shall not be included within the definition of "income"
+for the purposes of this article. The term "parent" shall include birth
+parents, stepparents, adoptive parents and the spouse of an adoptive
+parent. Income, if not a whole dollar amount, shall be assumed to be
+equal to the next lowest whole dollar amount. Any change in the status
+of an applicant with regard to the persons responsible for the
+applicant's support occurring after the beginning of any semester shall
+not be considered to change the applicant's award for that semester.
   2. Separation of parents. If the parents of an applicant are living
 apart, the income of the applicant shall be based upon the income of
 that parent with whom the applicant is living; or who exercises custody
@@ -32,7 +34,7 @@ if the applicant is a minor, or would exercise custody if the applicant
 were a minor, and any appropriate payments for the support of the
 applicant from the other parent.
   3. Exclusion of parental income in the determination of the amount of
-an award.  a. In determining the amount of an award for students, the
+an award. a. In determining the amount of an award for students, the
 income of the parents shall be excluded if the student has been
 emancipated from his parents.
   b. A student shall be considered emancipated if:

@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 232", "kind": "section", "law_id": "WKC", "location_id": "232", "path": "ARTICLE 9 › SECTION 232", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/232.md", "title": "Fees for testimony of physicians, podiatrists, chiropractors, dentists, psychologists and health care providers"} -->
+# Workers' Compensation Law § 232 — Fees for testimony of physicians, podiatrists, chiropractors, dentists, psychologists and health care providers
+
+[Workers' Compensation Law](../README.md) › [Article 9 — Disability Benefits](README.md)
+
+```text
+  § 232. Fees for testimony of physicians, podiatrists, chiropractors,
+dentists, psychologists and health care providers. Whenever his or her
+attendance at a hearing, deposition or arbitration before the board or
+the chair's designee, pursuant to section two hundred twenty-one of this
+article, is required, the attending physician or attending podiatrist or
+attending chiropractor or attending dentist or attending psychologist or
+attending certified nurse midwife of the disabled employee, except such
+physicians as are disqualified from testifying pursuant to subdivision
+one of section thirteen-b, or section nineteen-a of this chapter, and
+except such podiatrists as are disqualified from testifying under the
+provisions of section thirteen-k, and except such chiropractors as are
+disqualified from testifying under the provisions of section thirteen-l,
+and except such psychologists as are disqualified from testifying under
+the provisions of section thirteen-m, or health care provider shall be
+entitled to receive a fee in accordance with regulations of the chair.
+```

@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 4 — Other Awards](README.md)
 
 ```text
-  * § 679-d. New York state nursing faculty loan forgiveness incentive
+  § 679-d. New York state nursing faculty loan forgiveness incentive
 program. a. Purpose. (1) The president shall grant student loan
 forgiveness awards for the purpose of increasing the number of educators
 and adjunct clinical faculty teaching in the field of nursing education
@@ -40,5 +40,4 @@ be granted for more than five years.
   c. Amount. The corporation shall grant such awards within the amounts
 appropriated for such purpose and based on availability of funds in an
 amount not to exceed the total cost of the student loan debt.
-  * NB Repealed June 30, 2016
 ```

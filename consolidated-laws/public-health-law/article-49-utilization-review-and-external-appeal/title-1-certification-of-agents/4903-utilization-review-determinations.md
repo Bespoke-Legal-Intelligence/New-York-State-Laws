@@ -17,27 +17,7 @@ provided, however, that a health care professional who is not a clinical
 peer reviewer may not render an adverse determination; and
   (c) A clinical peer reviewer where the review involves an adverse
 determination.
-  * 2. A utilization review agent shall make a utilization review
-determination involving health care services which require
-pre-authorization and provide notice of a determination to the enrollee
-or enrollee's designee and the enrollee's health care provider by
-telephone and in writing within three business days of receipt of the
-necessary information. To the extent practicable, such written
-notification to the enrollee's health care provider shall be transmitted
-electronically, in a manner and in a form agreed upon by the parties.
-The notification shall identify; (a) whether the services are considered
-in-network or out-of-network; (b) and whether the enrollee will be held
-harmless for the services and not be responsible for any payment, other
-than any applicable co-payment or co-insurance; (c) as applicable, the
-dollar amount the health care plan will pay if the service is
-out-of-network; and (d) as applicable, information explaining how an
-enrollee may determine the anticipated out-of-pocket cost for
-out-of-network health care services in a geographical area or zip code
-based upon the difference between what the health care plan will
-reimburse for out-of-network health care services and the usual and
-customary cost for out-of-network health care services.
-  * NB Effective until April 1, 2016
-  * 2. (a) A utilization review agent shall make a utilization review
+  2. (a) A utilization review agent shall make a utilization review
 determination involving health care services which require
 pre-authorization and provide notice of a determination to the enrollee
 or enrollee's designee and the enrollee's health care provider by
@@ -71,7 +51,6 @@ the request. Written notice of the determination to the enrollee or
 enrollee's designee shall follow within three business days. Where
 feasible, such telephonic and written notice shall also be provided to
 the court.
-  * NB Effective April 1, 2016
   3. (a) A utilization review agent shall make a determination involving
 continued or extended health care services, additional services for an
 enrollee undergoing a course of continued treatment prescribed by a

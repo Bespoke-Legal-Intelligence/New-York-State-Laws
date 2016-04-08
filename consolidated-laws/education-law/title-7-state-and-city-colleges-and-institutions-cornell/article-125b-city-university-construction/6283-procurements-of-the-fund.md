@@ -8,5 +8,5 @@
 section one hundred twelve of the state finance law or any other law to
 the contrary, fund procurements shall not be subject to the prior
 approval of any state officer or agency.
-  * NB Repealed June 30, 2016
+  * NB Repealed June 30, 2021
 ```

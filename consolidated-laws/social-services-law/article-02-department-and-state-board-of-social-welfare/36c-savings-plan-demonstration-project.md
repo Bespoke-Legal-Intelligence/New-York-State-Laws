@@ -60,5 +60,5 @@ Temporary housing assistance recipients shall not be required to
 contribute to the cost of such shelter, as provided for in this section.
 Such project shall not be implemented so as to compromise the federal
 benefits of a recipient or any of his or her household members.
-  * NB Repealed March 31, 2016
+  * NB Repealed March 31, 2017
 ```

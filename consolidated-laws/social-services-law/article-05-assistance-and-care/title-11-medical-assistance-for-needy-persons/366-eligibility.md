@@ -546,14 +546,13 @@ veterans administration, and who is a resident of a nursing facility, as
 defined in section 1919 of the federal social security act, shall be
 equal to such reduced monthly pension but shall not exceed ninety
 dollars per month.
-  * (11) subject to the availability of federal financial participation,
+  (11) subject to the availability of federal financial participation,
 any amount, including earnings thereon, in a qualified NY ABLE account
 as established pursuant to article eighty-four of the mental hygiene
 law, any contributions to such NY ABLE account, and any distribution for
 qualified disability expenses from such account; provided however, that
 such exemption shall be consistent with section 529A of the Internal
 Revenue Code of 1986, as amended.
-  * NB Effective April 1, 2016
   * (b) (1) In establishing standards for determining eligibility for
 and amount of such assistance, the department shall take into account
 only such income and resources, in accordance with federal requirements,

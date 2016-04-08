@@ -47,6 +47,18 @@ through direct reimbursement or covered by a premium payment, and which
 covers, in whole or in part, any service provided by a home care aide,
 including but not limited to all service units defined as visits, hours,
 days, months or episodes.
+  (g) "Cash portion of the minimum rate of home care aid total
+compensation" means the minimum amount of home care aide total
+compensation that may be paid in cash wages, as determined by the
+department in consultation with the department of labor.
+  (h) "Benefit portion of the minimum rate of home care aide total
+compensation" means the portion of home care aide total compensation
+that may be paid in cash or health, education or pension benefits, wage
+differentials, supplements in lieu of benefits and compensated time off,
+as determined by the department in consultation with the department of
+labor. Cash wages paid pursuant to increases in the state or federal
+minimum wage cannot be used to satisfy the benefit portion of the
+minimum rate of home care aide total compensation.
   2. Notwithstanding any inconsistent provision of law, rule or
 regulation, no payments by government agencies shall be made to
 certified home health agencies, long term home health care programs or
@@ -62,10 +74,18 @@ compensation mandated by the living wage law of such city;
   (ii) for the period March first, two thousand thirteen through
 February twenty-eighth, two thousand fourteen, ninety-five percent of
 the total compensation mandated by the living wage law of such city;
-  (iii) for all periods on and after March first, two thousand fourteen,
-no less than the prevailing rate of total compensation as of January
-first, two thousand eleven, or the total compensation mandated by the
-living wage law of such city, whichever is greater.
+  (iii) for the period March first, two thousand fourteen through March
+thirty-first two thousand sixteen, no less than the prevailing rate of
+total compensation as of January first, two thousand eleven, or the
+total compensation mandated by the living wage law of such city,
+whichever is greater;
+  (iv) for all periods on or after April first, two thousand sixteen,
+the cash portion of the minimum rate of home care aide total
+compensation shall be ten dollars or the minimum wage as laid out in
+paragraph (c) of subdivision one of section six hundred fifty-two of the
+labor law, whichever is higher. The benefit portion of the minimum rate
+of home care aide total compensation shall be four dollars and nine
+cents.
   (b) The minimum rate of home care aide total compensation in the
 counties of Nassau, Suffolk and Westchester shall be:
   (i) for the period March first, two thousand thirteen through February
@@ -83,27 +103,19 @@ total compensation mandated by the living wage law as set on March
 first, two thousand fifteen of a city with a population of a million or
 more;
   (iv) for all periods on or after March first, two thousand sixteen,
-the lesser of (i) one hundred and fifteen percent of the total
-compensation mandated by the living wage law as set on March first of
-each succeeding year of a city with a population of one million or more
-or; (ii) the total compensation mandated by the living wage law of
-Nassau, Suffolk or Westchester county, based on the location of the
-episode of care
-  4. Any portion of the minimum rate of home care aide total
-compensation attributable to health benefit costs or payments in lieu of
-health benefits, and paid time off, as established pursuant to
-subdivision three of this section shall be superseded by the terms of
-any employer bona fide collective bargaining agreement in effect as of
-January first, two thousand eleven, or a successor to such agreement,
-which provides for home care aides' health benefits through payments to
-jointly administered labor-management funds.
-  5. The terms of this section shall apply equally to services provided
+the cash portion of the minimum rate of home care aide total
+compensation shall be ten dollars or the minimum wage as laid out in
+paragraph (c) of subdivision one of section six hundred fifty-two of the
+labor law, whichever is higher. The benefit portion of the minimum rate
+of home care aide total compensation shall be three dollars and
+twenty-two cents.
+  4. The terms of this section shall apply equally to services provided
 by home care aides who work on episodes of care as direct employees of
 certified home health agencies, long term home health care programs, or
 managed care plans, or as employees of licensed home care services
 agencies, limited licensed home care services agencies, or under any
 other arrangement.
-  6. No payments by government agencies shall be made to certified home
+  5. No payments by government agencies shall be made to certified home
 health agencies, long term home health care programs, or managed care
 plans for any episode of care without the certified home health agency,
 long term home health care program, or managed care plan having
@@ -112,7 +124,7 @@ prepared by the department in consultation with the department of labor,
 that all services provided under each episode of care are in full
 compliance with the terms of this section and any regulations
 promulgated pursuant to this section.
-  7. If a certified home health agency or long term home health care
+  6. If a certified home health agency or long term home health care
 program elects to provide home care aide services through contracts with
 licensed home care services agencies or through other third parties,
 provided that the episode of care on which the home care aide works is
@@ -132,20 +144,20 @@ be retained by all certified home health agencies, long term home health
 care programs, or managed care plans, and all licensed home care
 services agencies, or other third parties for a period of no less than
 ten years, and made available to the department upon request.
-  8. The commissioner shall distribute to all certified home health
+  7. The commissioner shall distribute to all certified home health
 agencies, long term home health care programs, and managed care plans
 official notice of the minimum rates of home care aide compensation at
 least one hundred twenty days prior to the effective date of each
 minimum rate for each social services district covered by the terms of
 this section.
-  9. The commissioner is authorized to promulgate regulations, and may
+  8. The commissioner is authorized to promulgate regulations, and may
 promulgate emergency regulations, to implement the provisions of this
 section.
-  10. Nothing in this section should be construed as applicable to any
+  9. Nothing in this section should be construed as applicable to any
 service provided by certified home health agencies, long term home
 health care programs, or managed care plans except for all episodes of
 care reimbursed in whole or in part by the New York Medicaid program.
-  11. No certified home health agency, managed care plan or long term
+  10. No certified home health agency, managed care plan or long term
 home health care program shall be liable for recoupment of payments for
 services provided through a licensed home care services agency or other
 third party with which the certified home health agency, long term home
@@ -154,5 +166,5 @@ licensed agency or other third party failed to comply with the
 provisions of this section if the certified home health agency, long
 term home health care program, or managed care plan has reasonably and
 in good faith collected certifications and all information required
-pursuant to subdivisions six and seven of this section.
+pursuant to subdivisions five and six of this section.
 ```

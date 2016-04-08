@@ -129,10 +129,17 @@ offense contained in such criminal history record from any state or
 local law enforcement agency or court for the purposes of determining
 whether any ground relating to such criminal conviction or pending
 criminal charge exists for denying an application.
-  (e) After reviewing any criminal history record information provided
+  (e) * After reviewing any criminal history record information provided
 by the division of criminal justice services, the office of children and
 family services shall promptly notify the authorized agency or other
 state agency that:
+  * NB Effective until December 30, 2016
+  * Except as set forth in paragraph (m) of this section, after
+reviewing any criminal history record information provided by the
+division of criminal justice services, the office of children and family
+services shall promptly notify the authorized agency or other state
+agency that:
+  * NB Effective December 30, 2016
   (1) Notwithstanding any other provision of law to the contrary, an
 application for certification or approval of a prospective foster parent
 or prospective adoptive parent shall be denied and, in the event of
@@ -298,4 +305,53 @@ the division of criminal justice services, shall promulgate regulations
 for the purpose of implementing the provisions of this subdivision
 relating to the standards for the certification or approval of foster
 parents or adoptive parents.
+  * (m)(1) The office of children and family services shall not release
+the content of the results of the nationwide criminal history record
+check conducted by the federal bureau of investigation in accordance
+with this subdivision to an authorized agency, as defined in paragraphs
+(a) or (c) of subdivision ten of section three hundred seventy-one of
+this title.
+  (2) For any application made to such an authorized agency under this
+subdivision, the office of children and family services shall:
+  (A) review and evaluate the results of the nationwide criminal history
+record check of the prospective foster parent, prospective adoptive
+parent and any other person over the age of eighteen who resides in the
+home of such applicant in accordance with the standards set forth in
+paragraph (e) of this subdivision relating to mandatory disqualifying
+convictions, hold in abeyance charges or convictions, and discretionary
+charges and convictions; and
+  (B) based on the results of the nationwide criminal history record
+check, inform such authorized agency that the application for
+certification or approval of the prospective foster parent or the
+prospective adoptive parent either: (i) must be denied; (ii) must be
+held in abeyance pending subsequent notification from the office of
+children and family services; or (iii) that the office of children and
+family services has no objection, solely based on the nationwide
+criminal history record check, for the authorized agency to proceed with
+a determination on such application based on the standards for
+certification or approval of a prospective foster parent or prospective
+adoptive parent, as set forth in the regulations of the office of
+children and family services.
+  (3) Where the office of children and family services directs the
+authorized agency to deny the application of a prospective foster parent
+or a prospective adoptive parent in accordance with this paragraph, the
+office of children and family services shall also notify the prospective
+foster parent, prospective adoptive parent or other person over the age
+of eighteen who resided in the home of the applicant whose criminal
+history was the basis for the denial and shall provide such prospective
+foster parent, prospective adoptive parent or other person a copy of the
+results of the nationwide criminal history record check upon which such
+denial was based and a written statement setting forth the reasons for
+such denial. If the applicant is disqualified under item (ii) of clause
+(A) of subparagraph one of paragraph (e) of this subdivision, then the
+applicant may apply for relief from the mandatory disqualification based
+on the grounds that the offense was not spousal abuse as that term is
+defined in paragraph (j) of this subdivision.
+  (4) This paragraph does not apply to nationwide criminal history
+record checks conducted by the federal bureau of investigation on behalf
+of state agencies or authorized agencies, as defined in paragraph (b) of
+subdivision ten of section three hundred seventy-one of this title, or
+to the results of statewide criminal history record checks conducted by
+the division of criminal justice services.
+  * NB Effective December 30, 2016
 ```

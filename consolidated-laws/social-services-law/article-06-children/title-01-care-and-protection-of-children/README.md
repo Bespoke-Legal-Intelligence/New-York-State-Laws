@@ -37,6 +37,7 @@
 - [§ 381 Maternity homes; records and reports](381-maternity-homes-records-and-reports.md)
 - [§ 382 Responsibility for children without state residence; license and board](382-responsibility-for-children-without-state-residence-license-and-board.md)
 - [§ 383 Care and custody of children](383-care-and-custody-of-children.md)
+- [§ 383-A Immunity from liability for application of the reasonable and prudent parent standard](383a-immunity-from-liability-for-application-of-the-reasonable-and-prudent.md)
 - [§ 383-B Medical treatment for abused, neglected and destitute children; consent of commissioners](383b-medical-treatment-for-abused-neglected-and-destitute-children-consent.md)
 - [§ 383-C Guardianship and custody of children in foster care](383c-guardianship-and-custody-of-children-in-foster-care.md)
 - [§ 384 Guardianship and custody of children not in foster care](384-guardianship-and-custody-of-children-not-in-foster-care.md)
@@ -103,6 +104,8 @@ Section 371.     Definitions.
         382.     Responsibility for children without state residence;
                    license and board.
         383.     Care and custody of children.
+        383-a.   Immunity from liability for application of the
+                   reasonable and prudent parent standard.
         383-b.   Medical treatment for abused, neglected and destitute
                    children; consent of commissioners.
         383-c.   Guardianship and custody of children in foster care.

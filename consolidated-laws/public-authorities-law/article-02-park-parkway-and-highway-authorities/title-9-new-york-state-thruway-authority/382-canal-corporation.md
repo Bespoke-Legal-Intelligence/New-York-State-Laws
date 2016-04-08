@@ -4,12 +4,13 @@
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
 
 ```text
-  § 382. Canal corporation. 1. There is hereby created a public benefit
-corporation known as the "New York state canal corporation" (hereinafter
-referred to as the "canal corporation") as a subsidiary corporation of
-the authority. The canal corporation is solely created to, and shall
-have only the power to, operate, maintain, construct, reconstruct,
-improve, develop, finance, and promote the New York State canal system.
+  * § 382. Canal corporation. 1. There is hereby created a public
+benefit corporation known as the "New York state canal corporation"
+(hereinafter referred to as the "canal corporation") as a subsidiary
+corporation of the authority. The canal corporation is solely created
+to, and shall have only the power to, operate, maintain, construct,
+reconstruct, improve, develop, finance, and promote the New York State
+canal system.
   2. The authority may transfer to the canal corporation any moneys,
 real, personal, or mixed property or any personnel in order to carry out
 the purposes of this section. The canal corporation and any of its
@@ -152,4 +153,5 @@ political subdivision, municipality, commission, agency, officer,
 department, board, division, or person shall have the same authorization
 and power for any such purposes to cooperate and enter into agreements
 with the canal corporation.
+  * NB Repealed January 1, 2017
 ```

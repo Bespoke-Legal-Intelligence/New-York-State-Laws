@@ -343,7 +343,7 @@ two thousand seven through June thirtieth, two thousand seven for
 services and expenses related to the pilot program for displaced workers
 included in subsection (c) of section one thousand one hundred
 twenty-two of the insurance law.
-  * NB Repealed July 1, 2016
+  * NB Repealed July 1, 2017
   (j) Funds shall be reserved and accumulated from year to year and
 shall be available, including income from invested funds, for purposes
 of services and expenses related to the tobacco use prevention and

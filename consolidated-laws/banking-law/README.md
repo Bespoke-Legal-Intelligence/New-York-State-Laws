@@ -8,7 +8,7 @@
 | Senate code | BNK |
 | Type | Consolidated law, chapter 2 |
 | Sections | 837 |
-| Last changed | 30 Oct 2015 |
+| Last changed | 8 Apr 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Banking |
 
@@ -33,6 +33,7 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [8 Apr 2016](../../changes/2016/2016-04-08.md): 1 amended
 - [30 Oct 2015](../../changes/2015/2015-10-30.md): 1 amended
 - [25 Sep 2015](../../changes/2015/2015-09-25.md): 5 amended
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 2 amended
@@ -42,7 +43,6 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 2 amended, 1 added
 - [5 Dec 2014](../../changes/2014/2014-12-05.md): 1 amended
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended
-- [26 Sep 2014](../../changes/2014/2014-09-26.md): 4 amended, 1 added
 
 ## Contents
 

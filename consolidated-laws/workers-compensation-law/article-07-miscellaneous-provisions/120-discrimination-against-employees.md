@@ -1,16 +1,18 @@
-﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 120", "kind": "section", "law_id": "WKC", "location_id": "120", "path": "ARTICLE 7 › SECTION 120", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/120.md", "title": "Discrimination against employees who bring proceedings"} -->
-# Workers' Compensation Law § 120 — Discrimination against employees who bring proceedings
+﻿<!-- nyslaw {"citation": "Workers' Compensation Law § 120", "kind": "section", "law_id": "WKC", "location_id": "120", "path": "ARTICLE 7 › SECTION 120", "repealed": false, "repealed_date": null, "source": "nys-laws:WKC/120.md", "title": "Discrimination against employees"} -->
+# Workers' Compensation Law § 120 — Discrimination against employees
 
 [Workers' Compensation Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 120. Discrimination against employees who bring proceedings. It
-shall be unlawful for any employer or his or her duly authorized agent
-to discharge or in any other manner discriminate against an employee as
-to his or her employment because such employee has claimed or attempted
-to claim compensation from such employer, or because he or she has
-testified or is about to testify in a proceeding under this chapter and
-no other valid reason is shown to exist for such action by the employer.
+  § 120. Discrimination against employees. It shall be unlawful for any
+employer or his or her duly authorized agent to discharge or fail to
+reinstate pursuant to section two hundred three-b of this chapter, or in
+any other manner discriminate against an employee as to his or her
+employment because such employee has claimed or attempted to claim
+compensation from such employer, or claimed or attempted to claim any
+benefits provided under this chapter or because he or she has testified
+or is about to testify in a proceeding under this chapter and no other
+valid reason is shown to exist for such action by the employer.
   Any complaint alleging such an unlawful discriminatory practice must
 be filed within two years of the commission of such practice. Upon
 finding that an employer has violated this section, the board shall make
@@ -23,8 +25,8 @@ rendered by an attorney or licensed representative as fixed by the
 board. Any employer who violates this section shall be liable to a
 penalty of not less than one hundred dollars or more than five hundred
 dollars, as may be determined by the board. All such penalties shall be
-paid into the state treasury.  All penalties, compensation and fees or
-allowances shall be paid solely by the employer.  The employer alone and
+paid into the state treasury. All penalties, compensation and fees or
+allowances shall be paid solely by the employer. The employer alone and
 not his or her carrier shall be liable for such penalties and payments.
 Any provision in an insurance policy undertaking to relieve the employer
 from liability for such penalties and payments shall be void.
