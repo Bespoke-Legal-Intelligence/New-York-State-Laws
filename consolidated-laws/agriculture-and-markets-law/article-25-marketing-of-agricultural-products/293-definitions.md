@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
 
 ```text
-  § 293. Definitions. (1) "Agricultural commodity" means any and all
+  * § 293. Definitions. (1) "Agricultural commodity" means any and all
 agricultural, horticultural, vineyard products, corn for grain, oats,
 soybeans, barley, wheat, poultry or poultry products, bees, maple sap
 and pure maple products produced therefrom, christmas trees, livestock,
@@ -63,4 +63,5 @@ representation of processors or handlers and producers or associations
 of producers together with a chairman who shall be the representative of
 the commissioner.
   * NB Expired January 1, 1987
+  * NB Repealed July 11, 2016
 ```

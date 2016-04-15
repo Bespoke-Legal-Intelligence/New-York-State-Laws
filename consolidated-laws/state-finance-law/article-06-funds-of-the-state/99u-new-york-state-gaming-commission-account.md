@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  § 99-u. New York state gaming commission account. 1. There is hereby
+  * § 99-u. New York state gaming commission account. 1. There is hereby
 established in the joint custody of the comptroller and the executive
 director of the New York state gaming commission an account in the
 miscellaneous special revenue fund to be known as the "New York state
@@ -20,4 +20,5 @@ or otherwise.
   4. All moneys in the New York state gaming commission account shall be
 available, subject to appropriation, for the payment of administrative
 expenses of the New York state gaming commission.
+  * NB There are 2 § 99-u's
 ```

@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 5. Boxing and professional wrestling exhibitions authorized. No
+  * § 5. Boxing and professional wrestling exhibitions authorized. No
 boxing, sparring or professional wrestling matches or exhibitions shall
 be conducted, held or given within the state except in accordance with
 the provisions of this act. The commission shall direct a deputy to be
@@ -18,4 +18,5 @@ issue a license. Where such match or exhibition is authorized to be held
 in a state or city owned armory, the provision of the military law in
 respect thereto must be complied with, but no such match or exhibition
 shall be held in a building wholly used for religious services.
+  * NB Repealed September 1, 2016
 ```

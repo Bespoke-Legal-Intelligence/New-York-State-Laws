@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1005-C", "kind": "section", "law_id": "PBA", "location_id": "1005-C", "path": "ARTICLE 5 › TITLE 1 › SECTION 1005-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1005-C.md", "title": "Additional powers of the authority to finance certain projects in connection with the New York state canal system"} -->
+# Public Authorities Law § 1005-C — Additional powers of the authority to finance certain projects in connection with the New York state canal system
+
+[Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1 — Power Authority of the State of New York](README.md)
+
+```text
+  * § 1005-c. Additional powers of the authority to finance certain
+projects in connection with the New York state canal system. 1. (a) The
+authority is hereby authorized, as an additional corporate purpose
+thereof, to issue its bonds, notes and other evidences of indebtedness
+in conformity with applicable provisions of the uniform commercial code
+for purposes of financing the construction, reconstruction, development
+and improvement of the New York state canal system.
+  (b) The authority shall issue any such bonds, notes, or evidences of
+indebtedness pursuant to paragraph (a) of this subdivision on a basis
+subordinate in lien and priority of payment to the authority's senior
+lien indebtedness as the authority shall provide by resolution.
+  2. All of the provisions of this title relating to bonds, notes and
+other evidence of indebtedness, which are not inconsistent with this
+section, shall apply to obligations authorized by this section,
+including but not limited to the power to issue renewal notes or
+refunding bonds thereof.
+  3. Subject to agreements with noteholders or bondholders, the
+authority shall have the authority to fix and collect such fees, rentals
+and charges for the use of the canal system or any part thereof
+necessary or convenient, with an adequate margin of safety, to produce
+sufficient revenue to meet the expense of maintenance and operation and
+to fulfill the terms of any agreements made with the holders of its
+notes or bonds, and to establish the rights and privileges granted upon
+payment thereof; provided, however, that tolls may only be imposed for
+the passage through locks and lift bridges by vessels which are
+propelled in whole or in part by mechanical power.
+  * NB Effective January 1, 2017
+```

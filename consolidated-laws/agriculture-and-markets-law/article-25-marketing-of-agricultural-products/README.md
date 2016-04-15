@@ -14,12 +14,13 @@
 <summary>Official heading of Article 25, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               ARTICLE 25
+                              * ARTICLE 25
                    MARKETING OF AGRICULTURAL PRODUCTS
 Section 292. Legislative declaration.
         293. Definitions.
         294. Powers and duties of the commissioner.
         295. Rules and regulations; enforcement.
+  * NB Repealed July 11, 2016
 ```
 
 </details>

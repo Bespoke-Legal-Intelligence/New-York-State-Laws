@@ -4,8 +4,8 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 11. Application for license; fingerprints. 1. Every application for
-a license shall be in writing, shall be addressed to the commission,
+  * § 11. Application for license; fingerprints. 1. Every application
+for a license shall be in writing, shall be addressed to the commission,
 shall be subscribed by the applicant, and affirmed by him as true under
 the penalties of perjury, and shall set forth such facts as the
 provisions hereof and the rules and regulations of the commission may
@@ -22,4 +22,5 @@ than a peace officer, except on order of a judge or justice of a court
 of record. The information obtained by any such fingerprint examination
 shall be for the guidance of the commission in the exercise of its
 discretion in granting or withholding the license.
+  * NB Repealed September 1, 2016
 ```

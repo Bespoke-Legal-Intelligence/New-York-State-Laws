@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 33. Misdemeanor. Any person or corporation who directly or
+  * § 33. Misdemeanor. Any person or corporation who directly or
 indirectly conducts, holds or gives boxing or sparring matches or
 exhibitions or participates either directly or indirectly in any boxing
 or sparring match or exhibition as a referee, judge, match-maker,
@@ -17,4 +17,5 @@ without first having procured an appropriate license in accordance with
 section 28-b of this chapter, shall be guilty of a misdemeanor.
   Nothing herein contained shall be deemed to apply to amateur
 exhibitions.
+  * NB Repealed September 1, 2016
 ```

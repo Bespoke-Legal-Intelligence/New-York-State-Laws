@@ -4,8 +4,8 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 28-b. Professional wrestling; promoters. 1. For the purposes of this
-act, "professional wrestling" shall mean an activity in which
+  * § 28-b. Professional wrestling; promoters. 1. For the purposes of
+this act, "professional wrestling" shall mean an activity in which
 participants struggle hand-in-hand primarily for the purpose of
 providing entertainment to spectators and which does not comprise a bona
 fide athletic contest or competition.
@@ -42,4 +42,5 @@ who perform for any such promoter including a list of prohibited drugs
 and available rehabilitation services; and
   (b) a referral procedure to permit any such professional wrestler to
 obtain rehabilitation services.
+  * NB Repealed September 1, 2016
 ```

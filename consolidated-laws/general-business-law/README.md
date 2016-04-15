@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,177 |
-| Last changed | 18 Mar 2016 |
+| Sections | 1,202 |
+| Last changed | 15 Apr 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (165 lines)](chapter-text.md)
+[Full chapter text (166 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Apr 2016](../../changes/2016/2016-04-15.md): 25 added
 - [18 Mar 2016](../../changes/2016/2016-03-18.md): 1 amended
 - [11 Mar 2016](../../changes/2016/2016-03-11.md): 1 amended
 - [1 Jan 2016](../../changes/2016/2016-01-01.md): 1 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 8 amended, 1 added
 - [31 Jul 2015](../../changes/2015/2015-07-31.md): 1 amended
 - [24 Jul 2015](../../changes/2015/2015-07-24.md): 9 amended, 1 added
-- [3 Jul 2015](../../changes/2015/2015-07-03.md): 2 amended
 
 ## Contents
 
@@ -166,3 +166,5 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-F — Notification of Unauthorized Acquisition of Private Information](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
 - [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
+- [Article 41 — Combative Sports](article-41-combative-sports/)
+- [Article 43 — Laws Repealed; When to Take Effect](article-43-laws-repealed-when-to-take-effect/)

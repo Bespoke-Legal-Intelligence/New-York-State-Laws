@@ -9,19 +9,13 @@ used in this section shall have the following meanings:
   (a) "Accredited status" means the full accreditation by
 nationally-recognized accrediting agency(ies) determined by the
 commissioner.
-  * (b) "Adverse event" means (i) patient death within thirty days; (ii)
-unplanned transfer to a hospital; (iii) unscheduled hospital admission,
-within seventy-two hours of the office-based surgery, for longer than
-twenty-four hours; or (iv) any other serious or life-threatening event.
-  * NB Effective until April 13, 2016
-  * (b) "Adverse event" means (i) patient death within thirty days; (ii)
+  (b) "Adverse event" means (i) patient death within thirty days; (ii)
 unplanned transfer to a hospital or emergency department visit within
 seventy-two hours of office-based surgery for reasons related to the
 office-based surgery encounter; (iii) unscheduled hospital admission or
 assignment to observation services, within seventy-two hours of the
 office-based surgery, for longer than twenty-four hours; or (iv) any
 other serious or life-threatening event.
-  * NB Effective April 13, 2016
   (c) "Deep sedation" means a drug-induced depression of consciousness
 during which (i) the patient cannot be easily aroused but responds
 purposefully following repeated painful stimulation; (ii) the patient's
@@ -72,20 +66,7 @@ law.
 obtain and maintain full accredited status.
   3. A licensee may only perform office-based surgery in a setting that
 has obtained and maintains full accredited status.
-  * 4. Licensees shall report adverse events to the department's patient
-safety center within one business day of the occurrence of such adverse
-event. Licensees shall also report any suspected health care disease
-transmission originating in their practices to the patient safety center
-within one business day of becoming aware of such suspected
-transmission. For purposes of this section, health care disease
-transmission shall mean the transmission of a reportable communicable
-disease that is blood borne from a health care professional to a patient
-or between patients as a result of improper infection control practices
-by the health care professional. The reported data shall be subject to
-all confidentiality provisions provided by section twenty-nine hundred
-ninety-eight-e of this chapter.
-  * NB Effective until April 13, 2016
-  * 4. (a) Licensees shall report adverse events to the department's
+  4. (a) Licensees shall report adverse events to the department's
 patient safety center within three business days of the occurrence of
 such adverse event. Licensees shall also report any suspected health
 care disease transmission originating in their practices to the patient
@@ -101,7 +82,6 @@ adverse events.
   (c) The data reported under this subdivision shall be subject to all
 confidentiality provisions provided by section twenty-nine hundred
 ninety-eight-e of this chapter.
-  * NB Effective April 13, 2016
   5. The commissioner shall make, adopt, promulgate and enforce such
 rules and regulations, as he or she may deem appropriate, to effectuate
 the purposes of this section. Where any rule or regulation under this

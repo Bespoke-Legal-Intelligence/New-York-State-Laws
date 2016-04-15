@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 6. Jurisdiction of commission. 1. The commission shall have and
+  * § 6. Jurisdiction of commission. 1. The commission shall have and
 hereby is vested with the sole direction, management, control and
 jurisdiction over all such boxing and sparring matches or exhibitions to
 be conducted, held or given within the state of New York and over all
@@ -20,4 +20,5 @@ otherwise provided in this act.
 wherein boxing, sparring and wrestling matches and exhibitions are
 conducted shall comply with state and applicable local sanitary codes
 appropriate to school athletic facilities.
+  * NB Repealed September 1, 2016
 ```

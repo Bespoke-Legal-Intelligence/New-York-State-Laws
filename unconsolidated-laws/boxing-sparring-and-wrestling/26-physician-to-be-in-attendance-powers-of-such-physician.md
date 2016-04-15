@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 26. Physician to be in attendance; powers of such physician. 1. It
+  * § 26. Physician to be in attendance; powers of such physician. 1. It
 shall be the duty of every person or corporation licensed to conduct a
 boxing or sparring match or exhibition, to have in attendance at every
 boxing or sparring match or exhibition, at least one physician
@@ -28,4 +28,5 @@ physician deems advisable.
 sparring match or exhibition and may terminate the match if in his
 opinion the same is necessary to prevent severe punishment or serious
 physical injury to a contestant.
+  * NB Repealed September 1, 2016
 ```

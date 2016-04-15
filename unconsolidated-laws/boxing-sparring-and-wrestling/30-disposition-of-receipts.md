@@ -4,8 +4,9 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 30. Disposition of receipts. All receipts of the commission shall be
-paid into the state treasury. Provided, however, that receipts from the
-tax imposed by article nineteen of the tax law shall be deposited as
+  * § 30. Disposition of receipts. All receipts of the commission shall
+be paid into the state treasury. Provided, however, that receipts from
+the tax imposed by article nineteen of the tax law shall be deposited as
 provided by section one hundred seventy-one-a of the tax law.
+  * NB Repealed September 1, 2016
 ```

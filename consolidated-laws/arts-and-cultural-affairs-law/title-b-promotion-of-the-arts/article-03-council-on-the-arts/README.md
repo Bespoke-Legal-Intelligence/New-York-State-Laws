@@ -13,7 +13,7 @@
 - [§ 3.11 Grants by council; consideration to certain applicants](3.11-grants-by-council-consideration-to-certain-applicants.md)
 - [§ 3.13 Participation in programs to promote progress and scholarship in the humanities and the arts](3.13-participation-in-programs-to-promote-progress-and-scholarship.md)
 - [§ 3.15 Shared use space grant](3.15-shared-use-space-grant.md)
-- [§ 3.17 New York state Edward Hopper citation of merit for visual artists](3.17-new-york-state-edward-hopper-citation-of-merit-for-visual.md)
+- [§ 3.17 New York state Edward Hopper citation of merit for visual artists](3.17-new-york-state-edward-hopper-citation-of-merit-for-visual.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,8 +31,6 @@ Section 3.01.  Legislative findings and declaration of policy.
         3.13.  Participation in programs to promote progress and
                  scholarship in the humanities and the arts.
         3.15.  Shared use space grant.
-        3.17.  New York state Edward Hopper citation of merit for visual
-                 artists.
 ```
 
 </details>

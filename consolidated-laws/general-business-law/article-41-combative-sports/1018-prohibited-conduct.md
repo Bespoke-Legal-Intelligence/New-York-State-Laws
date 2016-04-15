@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 1018", "kind": "section", "law_id": "GBS", "location_id": "1018", "path": "ARTICLE 41 › SECTION 1018", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/1018.md", "title": "Prohibited conduct"} -->
+# General Business Law § 1018 — Prohibited conduct
+
+[General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
+
+```text
+  * § 1018. Prohibited conduct. 1. No corporation or person shall have,
+either directly or indirectly, any financial interest in a professional
+boxer competing on premises owned or leased by the corporation or
+person, or in which such corporation or person is otherwise interested
+except pursuant to the specific written authorization of the commission.
+  2. No contestant in a boxing or sparring match or exhibition shall be
+paid for services before the contest, and should it be determined by the
+commission that such contestant did not give an honest exhibition of his
+or her skill, such services shall not be paid for.
+  3. Any person, including any corporation and the officers thereof, any
+physician, referee, judge, timekeeper, professional, manager, trainer or
+second, who shall promote, conduct, give or participate in any sham or
+collusive authorized professional combative sports, shall be deprived of
+his or her license by the commission and any other appropriate legal
+remedies.
+  4. No licensed promoter or matchmaker shall knowingly engage in a
+course of conduct in which fights are arranged where one professional
+has skills or experience significantly in excess of the other
+professional so that a mismatch results with the potential of physical
+harm to the professional.
+  * NB Effective September 1, 2016
+```

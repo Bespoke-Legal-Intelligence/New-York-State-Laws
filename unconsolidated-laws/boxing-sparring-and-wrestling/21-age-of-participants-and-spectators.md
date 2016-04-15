@@ -4,11 +4,12 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 21. Age of participants and spectators. No person under the age of
+  * § 21. Age of participants and spectators. No person under the age of
 eighteen years shall participate in any professional boxing, sparring or
 professional wrestling match or exhibition, and no person under sixteen
 years of age shall be permitted to attend thereat as a spectator;
 provided, however, that a person between the ages of eight and sixteen
 shall be permitted to attend thereat as a spectator if accompanied by a
 parent or guardian.
+  * NB Repealed September 1, 2016
 ```

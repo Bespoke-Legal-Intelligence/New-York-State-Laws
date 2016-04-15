@@ -4,12 +4,12 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 28-a. Duty to provide insurance for licensed boxers and professional
-wrestlers. 1. All persons, parties or corporations having licenses as
-promoters or who are licensed in accordance with section 28-b of this
-act shall continuously provide insurance for the protection of licensed
-boxers and professional wrestlers, appearing in boxing bouts or
-wrestling exhibitions. Such insurance coverage shall provide for
+  * § 28-a. Duty to provide insurance for licensed boxers and
+professional wrestlers. 1. All persons, parties or corporations having
+licenses as promoters or who are licensed in accordance with section
+28-b of this act shall continuously provide insurance for the protection
+of licensed boxers and professional wrestlers, appearing in boxing bouts
+or wrestling exhibitions. Such insurance coverage shall provide for
 reimbursement to the licensed athlete for medical, surgical and hospital
 care, with a minimum limit of seven thousand five hundred dollars for
 injuries sustained while participating in any program operated under the
@@ -23,4 +23,5 @@ amount of such minimum limits.
   2. The failure to provide such insurance as is required by subdivision
 one of this section shall be cause for the suspension or the revocation
 of the license of such defaulting promoter.
+  * NB Repealed September 1, 2016
 ```

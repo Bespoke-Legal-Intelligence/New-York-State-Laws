@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 8. License to corporations. 1. a. The commission may, in its
+  * § 8. License to corporations. 1. a. The commission may, in its
 discretion, issue a license to conduct, hold or give boxing or sparring
 matches or exhibitions, subject to the provisions hereof, to any person
 or corporation duly incorporated under the laws of the state of New
@@ -70,4 +70,5 @@ corporation, person or persons licensed under the provisions of this
 act, which fines and penalties are imposed and collected under authority
 hereby vested shall within thirty days after the receipt thereof by the
 commission be paid by them into the state treasury.
+  * NB Repealed September 1, 2016
 ```

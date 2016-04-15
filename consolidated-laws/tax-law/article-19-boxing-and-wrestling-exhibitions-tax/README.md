@@ -17,7 +17,10 @@
 
 ```text
                                ARTICLE 19
-                  BOXING AND WRESTLING EXHIBITIONS TAX
+                 * BOXING AND WRESTLING EXHIBITIONS TAX
+  * NB Effective until September 1, 2016
+                    * AUTHORIZED COMBATIVE SPORTS TAX
+  * NB Effective September 1, 2016
 Section 451. Definitions.
         452. Imposition of tax.
         453. Payment of tax.

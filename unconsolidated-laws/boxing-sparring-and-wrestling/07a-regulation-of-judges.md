@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 7-a. Regulation of judges. 1. Judges for any contest under the
+  * § 7-a. Regulation of judges. 1. Judges for any contest under the
 jurisdiction of the commission shall be selected by the commission from
 a list of qualified licensed judges maintained by the commission.
   2. Any boxer or manager may protest the assignment of a judge to a
@@ -33,4 +33,5 @@ shall file with the commission a financial disclosure statement in such
 form and manner as shall be acceptable to the commission.
   5. Only a person licensed by the commission may judge a boxing contest
 within the state.
+  * NB Repealed September 1, 2016
 ```

@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 17. Revocation or suspension of licenses. (a) Any license issued
+  * § 17. Revocation or suspension of licenses. (a) Any license issued
 under the provisions of this act may be revoked or suspended by the
 commission for the reason therein stated, that the licensee has, in the
 judgment of the commission, been guilty of an act detrimental to the
@@ -54,4 +54,5 @@ shall revoke a licensee's license to box in that state based on a
 knowing and intentional engagement in any prohibited practices of such
 state, the commission may act to revoke any license to box issued to
 such licensee pursuant to the provisions of this chapter.
+  * NB Repealed September 1, 2016
 ```

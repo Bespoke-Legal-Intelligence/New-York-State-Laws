@@ -4,8 +4,8 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-    Regulation of Boxing, Sparring and Wrestling--Chapter 912 of 1920
-  § 1. State athletic commission. The state boxing commission is
+   * Regulation of Boxing, Sparring and Wrestling--Chapter 912 of 1920
+  *§ 1. State athletic commission. The state boxing commission is
 continued as a division in the department of state under the name of the
 state athletic commission. The commission shall consist of three members
 who shall be appointed by the governor by and with the advice and
@@ -29,4 +29,5 @@ necessary to render a determination by the commission.
 its proceedings for the year ending with the first day of the preceding
 December and may submit with such report such recommendations pertaining
 to its affairs as it shall deem desirable.
+  * NB Repealed September 1, 2016
 ```

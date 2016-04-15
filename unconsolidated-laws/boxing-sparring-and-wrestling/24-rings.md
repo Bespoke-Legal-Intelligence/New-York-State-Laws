@@ -4,9 +4,10 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 24. Rings. No boxing contest or exhibition or training activity
+  * § 24. Rings. No boxing contest or exhibition or training activity
 shall be permitted in any ring unless such ring has been inspected and
 approved by the commission. The commission shall prescribe standard
 acceptable size and quality requirements for rings and appurtenances
 thereto.
+  * NB Repealed September 1, 2016
 ```

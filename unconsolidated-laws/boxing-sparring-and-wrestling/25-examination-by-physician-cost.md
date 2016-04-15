@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 25. Examination by physician; cost. 1. All boxers must be examined
+  * § 25. Examination by physician; cost. 1. All boxers must be examined
 by a physician designated by the commission before entering the ring and
 each such physician shall immediately file with the commission a written
 report of such examination. The cost of any such examination, as
@@ -30,4 +30,5 @@ by a physician approved by the commission.
   3. The commission may at any time require a licensed boxer to undergo
 a physical examination, including any neurological or neuropsychological
 test or procedure.
+  * NB Repealed September 1, 2016
 ```

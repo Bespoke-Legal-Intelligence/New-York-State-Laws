@@ -4,8 +4,8 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 23. Regulation of conduct of matches or exhibitions. 1. No boxing or
-sparring match or exhibition shall be of more than twelve rounds in
+  * § 23. Regulation of conduct of matches or exhibitions. 1. No boxing
+or sparring match or exhibition shall be of more than twelve rounds in
 length, such rounds to be not more than three minutes each; and no boxer
 shall be allowed to participate in more than twelve rounds within
 seventy-two consecutive hours. The commission may in respect to any bout
@@ -61,4 +61,5 @@ ability to fight, and a record of all medical suspensions.
   5. The commission shall prescribe by rule or regulation the
 unsportsmanlike practices prohibited in all boxing or sparring matches
 or exhibitions, which shall include the practice of biting.
+  * NB Repealed September 1, 2016
 ```

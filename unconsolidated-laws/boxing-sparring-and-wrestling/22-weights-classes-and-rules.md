@@ -4,7 +4,8 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 22. Weights; classes and rules. The weights and classes of boxers
+  * § 22. Weights; classes and rules. The weights and classes of boxers
 and the rules and regulations of boxing shall be prescribed by the
 commission.
+  * NB Repealed September 1, 2016
 ```

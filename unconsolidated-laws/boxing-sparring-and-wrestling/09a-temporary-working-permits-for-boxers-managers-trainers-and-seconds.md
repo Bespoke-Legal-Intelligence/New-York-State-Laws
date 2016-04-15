@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 9-a. Temporary working permits for boxers, managers, trainers and
+  * § 9-a. Temporary working permits for boxers, managers, trainers and
 seconds. The commission may issue temporary working permits to
 professional boxers, their managers, trainers and seconds. A temporary
 working permit shall authorize the employment of the holder of such
@@ -19,4 +19,5 @@ or neuropsychological test or procedure, including
 electroencephalography and computed tomography or medically equivalent
 procedure. The fee for such temporary working permit shall be
 established by the commission pursuant to rule.
+  * NB Repealed September 1, 2016
 ```

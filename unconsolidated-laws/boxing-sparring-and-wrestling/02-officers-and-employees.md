@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 2. Officers and employees. The commission may appoint, and at
+  * § 2. Officers and employees. The commission may appoint, and at
 pleasure remove, deputies who shall be paid a salary within budgetary
 appropriations and all necessary expenses for traveling and maintenance
 incurred by them in the performance of their official duties outside of
@@ -24,4 +24,5 @@ salary of its deputies and secretary, shall be paid monthly out of the
 state treasury on the warrant of the comptroller and the certificate of
 the chairman of the commission out of the money appropriated to be used
 therefor.
+  * NB Repealed September 1, 2016
 ```

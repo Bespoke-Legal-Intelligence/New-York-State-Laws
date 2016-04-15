@@ -4,7 +4,7 @@
 [Boxing, Sparring and Wrestling](README.md)
 
 ```text
-  § 18. Advertising matter to state admission price. It shall be the
+  * 18. Advertising matter to state admission price. It shall be the
 duty of every person or corporation promoting or conducting a boxing or
 sparring match or exhibition subject to the provisions of this chapter
 to cause to be inserted in each show card, bill, poster, newspaper
@@ -12,4 +12,5 @@ advertisement and in each and every advertisement of any exhibition or
 contest given by it, the price of admission thereto. Violation of the
 provisions of this section shall subject the person or corporation to a
 fine of one hundred dollars.
+  * NB Repealed September 1, 2016
 ```

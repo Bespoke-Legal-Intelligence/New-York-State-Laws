@@ -10,7 +10,7 @@
 - [§ 2998-B Safety goals](2998b-safety-goals.md)
 - [§ 2998-C Best practices](2998c-best-practices.md)
 - [§ 2998-D Voluntary and collaborative reporting system](2998d-voluntary-and-collaborative-reporting-system.md)
-- [§ 2998-E Reporting of adverse events in office based surgery](2998e-reporting-of-adverse-events-in-office-based-surgery.md)
+- [§ 2998-E Reporting in office based surgery](2998e-reporting-in-office-based-surgery.md)
 - [§ 2999 Contracting with private entities](2999-contracting-with-private-entities.md)
 - [§ 2999-A Public access](2999a-public-access.md)
 
