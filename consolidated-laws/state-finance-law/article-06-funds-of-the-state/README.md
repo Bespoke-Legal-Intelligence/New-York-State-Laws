@@ -229,6 +229,7 @@
 - [§ 99-X New York achieving a better life experience (NY ABLE) savings program trust fund](99x-new-york-achieving-a-better-life-experience-ny-able-savings-program-trust-fund.md)
 - [§ 99-Y SUNY Stony Brook Affiliation escrow fund](99y-suny-stony-brook-affiliation-escrow-fund.md)
 - [§ 99-Y\*2 Health republic insurance of New York fund](99y-2-health-republic-insurance-of-new-york-fund.md)
+- [§ 99-Y\*3 Highway use tax administration account](99y-3-highway-use-tax-administration-account.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -507,6 +508,7 @@ Section 70.        Classification of funds.
                      savings program trust fund.
         99-y.      SUNY Stony Brook Affiliation escrow fund.
         99-y*2.    Health republic insurance of New York fund.
+        99-y*3.    Highway use tax administration account.
         99-w*2.    SUNY DSRIP escrow fund.
 ```
 

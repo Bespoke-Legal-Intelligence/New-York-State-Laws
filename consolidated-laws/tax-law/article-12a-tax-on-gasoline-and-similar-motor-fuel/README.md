@@ -13,6 +13,7 @@
 - [§ 283-A Licensing of importing transporters](283a-licensing-of-importing-transporters.md)
 - [§ 283-B Licensing of terminal operators](283b-licensing-of-terminal-operators.md)
 - [§ 283-C Liquefied petroleum gas fuel permit](283c-liquefied-petroleum-gas-fuel-permit.md)
+- [§ 283-D Registration of wholesalers of motor fuel](283d-registration-of-wholesalers-of-motor-fuel.md)
 - [§ 284 Tax imposed](284-tax-imposed.md)
 - [§ 284-A Additional motor fuel tax](284a-additional-motor-fuel-tax.md)
 - [§ 284-C Supplemental motor fuel tax](284c-supplemental-motor-fuel-tax.md)
@@ -49,6 +50,7 @@ Section 282.   Definitions.
         283-a. Licensing of importing transporters.
         283-b. Licensing of terminal operators.
         283-c. Liquefied petroleum gas fuel permit.
+        283-d. Registration of wholesalers of motor fuel.
         284.   Tax imposed.
         284-a. Additional motor fuel tax.
         284-c. Supplemental motor fuel tax.

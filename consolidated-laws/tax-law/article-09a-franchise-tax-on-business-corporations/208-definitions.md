@@ -1021,7 +1021,9 @@ of all the corporations included in the combined report.
   (ii) Measurement of assets. For purposes of this paragraph: (I) Total
 assets are those assets that are properly reflected on a balance sheet,
 computed in the same manner as is required by the banking regulator of
-the taxpayers included in the combined return.
+the taxpayers included in the combined return. In addition, total assets
+includes leased real property that is not properly reflected on a
+balance sheet.
   (II) Assets will only be included if the income or expenses of which
 are properly reflected (or would have been properly reflected if not
 fully depreciated or expensed, or depreciated or expensed to a nominal
@@ -1029,10 +1031,11 @@ amount) in the computation of the combined group's entire net income for
 the taxable year. Assets will not include deferred tax assets and
 intangible assets identified as "goodwill".
   (III) Tangible real and personal property, such as buildings, land,
-machinery, and equipment shall be valued at cost. Leased assets will be
-valued at the annual lease payment multiplied by eight. Intangible
-property, such as loans and investments, shall be valued at book value
-exclusive of reserves.
+machinery, and equipment shall be valued at cost. Leased real property
+that is not properly reflected on a balance sheet will be valued at the
+annual lease payment multiplied by eight. Intangible property, such as
+loans and investments, shall be valued at book value exclusive of
+reserves.
   (IV) Intercorporate stockholdings and bills, notes and accounts
 receivable, and other intercorporate indebtedness between the
 corporations included in the combined report shall be eliminated.
@@ -1181,7 +1184,8 @@ the thrift institution or community bank during the taxable year.
   (ii) Measurement of assets. (I) Total assets are those assets that are
 properly reflected on a balance sheet, computed in the same manner as is
 required by the banking regulator of the taxpayers included in the
-combined return.
+combined return. In addition, total assets includes leased real property
+that is not properly reflected on a balance sheet.
   (II) Assets will only be included if the income or expenses of which
 are properly reflected (or would have been properly reflected if not
 fully depreciated or expensed, or depreciated or expensed to a nominal
@@ -1189,10 +1193,11 @@ amount) in the computation of the taxpayer's entire net income for the
 taxable year. Assets will not include deferred tax assets and intangible
 assets identified as "goodwill".
   (III) Tangible real and personal property, such as buildings, land,
-machinery, and equipment shall be valued at cost. Leased assets will be
-valued at the annual lease payment multiplied by eight. Intangible
-property, such as loans and investments, shall be valued at book value
-exclusive of reserves.
+machinery, and equipment shall be valued at cost. Leased real property
+that is not properly reflected on that balance sheet will be valued at
+the annual lease payment multiplied by eight. Intangible property, such
+as loans and investments, shall be valued at book value exclusive of
+reserves.
   (IV) Average assets are computed using the assets measured on the
 first day of the taxable year, and on the last day of each subsequent
 quarter of the taxable year or month or day during the taxable year.

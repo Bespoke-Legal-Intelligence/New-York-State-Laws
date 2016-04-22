@@ -52,13 +52,14 @@
 - [§ 35 Use of electronic means of communication](35-use-of-electronic-means-of-communication.md)
 - [§ 35\*2 Economic transformation and facility redevelopment program tax credit](35-2-economic-transformation-and-facility-redevelopment-program-tax-credit.md)
 - [§ 36 Empire state jobs retention program credit](36-empire-state-jobs-retention-program-credit.md)
-- [§ 37 Beer production credit](37-beer-production-credit.md)
+- [§ 37 Alcoholic beverage production credit](37-alcoholic-beverage-production-credit.md)
 - [§ 38 New York innovation hot spot program tax benefits](38-new-york-innovation-hot-spot-program-tax-benefits.md)
 - [§ 38\*2 Minimum wage reimbursement credit](38-2-minimum-wage-reimbursement-credit.md)
 - [§ 39 Tax benefits for businesses located in tax-free NY areas and employees of such businesses](39-tax-benefits-for-businesses-located-in-tax-free-ny-areas-and-employees-of-such.md)
 - [§ 39-A Penalties for fraud in the START-UP NY program](39a-penalties-for-fraud-in-the-start-up-ny-program.md)
 - [§ 40 The tax-free NY area tax elimination credit](40-the-tax-free-ny-area-tax-elimination-credit.md)
 - [§ 41 Limitations on tax credit eligibility](41-limitations-on-tax-credit-eligibility.md)
+- [§ 42 Farm workforce retention credit](42-farm-workforce-retention-credit.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -136,6 +137,7 @@ Section  1.   Short title.
         39-a. Penalties for fraud in the START-UP NY program.
         40.   The tax-free NY area tax elimination credit.
         41.   Limitations on tax credit eligibility.
+        42.   Farm workforce retention credit.
 ```
 
 </details>

@@ -21,9 +21,22 @@ collected or received pursuant to this article to which taxpayers shall
 be entitled under the provisions of this article, out of which amount
 the comptroller shall pay any refunds or reimbursements of the taxes
 collected or received pursuant to this article to which taxpayers shall
-be entitled under such provisions.  The comptroller, after reserving the
+be entitled under such provisions. The comptroller, after reserving the
 amount to pay such refunds or reimbursements, shall, on or before the
 last day of each month, pay the balance of the revenue so deposited
 during such month into the dedicated highway and bridge trust fund
 established pursuant to section eighty-nine-b of the state finance law.
+  Notwithstanding the foregoing or any other law to the contrary, the
+comptroller shall deposit all monies collected on account of the
+registration fees imposed pursuant to section five hundred two-a and
+subdivision eight of section five hundred nine of this article into the
+highway use tax administration account established pursuant to section
+ninety-nine-y of the state finance law. The monies deposited in such
+account shall be available to the commissioner for the costs of issuing
+the certificates of registration and highway use tax decals required by
+this article and for any other costs of administering the provisions of
+sections five hundred two, five hundred two-a and five hundred nine of
+this article. Any moneys not used in a given year shall be returned to
+such account and be added to the total funds available for disbursement
+in the succeeding year.
 ```

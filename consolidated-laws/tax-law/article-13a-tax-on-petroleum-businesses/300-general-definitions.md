@@ -186,17 +186,17 @@ sixteen of this chapter, or (2) the commissioner designates such vessel
 as performing such service based on industry or regulatory practice.
   * (o) The term "E85" shall have the same meaning as in subdivision
 twenty-two of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   * (p) The term "B20" shall have the same meaning as in subdivision
 twenty-three of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   * (q) The term "CNG" shall have the same meaning as in subdivision
 twenty-four of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   * (r) The term "hydrogen" shall have the same meaning as in
 subdivision twenty-five of section two hundred eighty-two of this
 chapter.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   (s) The term "terminal" shall have the same meaning as in subdivision
 thirteen of section two hundred eighty-two of this chapter.
 ```

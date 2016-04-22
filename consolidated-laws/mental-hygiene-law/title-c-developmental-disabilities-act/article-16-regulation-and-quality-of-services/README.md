@@ -16,6 +16,7 @@
 - [§ 16.19 Confinement, care and treatment of persons with developmental disabilities](16.19-confinement-care-and-treatment-of-persons.md)
 - [§ 16.21 Injunctions](16.21-injunctions.md)
 - [§ 16.23 Family care homes](16.23-family-care-homes.md)
+- [§ 16.25 Temporary operator](16.25-temporary-operator.md)
 - [§ 16.27 Residential facilities; receivership](16.27-residential-facilities-receivership.md)
 - [§ 16.29 Abuse, neglect, and significant incidents involving vulnerable persons](16.29-abuse-neglect-and-significant-incidents.md)
 - [§ 16.31 Monthly personal allowances](16.31-monthly-personal-allowances.md)
@@ -46,6 +47,7 @@ Section 16.00  Regulation and quality control of services for
                  developmental disabilities.
         16.21  Injunctions.
         16.23  Family care homes.
+        16.25  Temporary operator.
         16.27  Residential facilities; receivership.
         16.29  Abuse, neglect, and significant incidents involving
                  vulnerable persons.

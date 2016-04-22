@@ -118,7 +118,7 @@ commissioner may revoke or suspend a certificate of authority based on
 the grounds set forth in clause (vi) of this subparagraph only where the
 conviction referred to occurred not more than one year prior to the date
 of revocation or suspension.
-  * NB Effective until December 31, 2016
+  * NB Effective until December 31, 2019
   * (A) Where a person who holds a certificate of authority (i)
 willfully fails to file a report or return required by this article,
 (ii) willfully files, causes to be filed, gives or causes to be given a
@@ -135,7 +135,7 @@ or suspend a certificate of authority based on the grounds set forth in
 clause (v) of this subparagraph only where the conviction referred to
 occurred not more than one year prior to the date of revocation or
 suspension.
-  * NB Effective December 31, 2016
+  * NB Effective December 31, 2019
   (B) Where a person files a certificate of registration for a
 certificate of authority under this subdivision and in considering such
 application the commissioner ascertains that (i) any tax imposed under

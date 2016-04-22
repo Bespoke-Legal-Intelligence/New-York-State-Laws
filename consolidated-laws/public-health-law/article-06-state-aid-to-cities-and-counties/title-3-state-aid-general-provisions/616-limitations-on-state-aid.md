@@ -20,4 +20,7 @@ of this article to a municipality for contributions by the municipality
 for indirect costs and fringe benefits, including but not limited to,
 employee retirement funds, health insurance and federal old age and
 survivors insurance.
+  3. Administrative policy changes relating to state aid shall not be
+implemented without reasonable and statewide advance written notice to
+municipalities.
 ```

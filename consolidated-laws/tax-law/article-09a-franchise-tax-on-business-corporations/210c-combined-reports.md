@@ -76,7 +76,7 @@ section (such corporations collectively referred to in this subdivision
 as the "commonly owned group"). If that election is made, the commonly
 owned group shall calculate the combined business income, combined
 capital, and fixed dollar minimum bases of all members of the group in
-accordance with paragraph four of this subdivision, whether or not that
+accordance with subdivision four of this section, whether or not that
 business income or business capital is from a single unitary business.
   (b) The election under this subdivision shall be made on an original,
 timely filed return of the combined group, determined with regard to

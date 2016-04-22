@@ -254,5 +254,14 @@ appointment of the temporary operator any obligation of the established
 operator or any other person for the payment of taxes or other operating
 and maintenance expenses of the facility nor of the established operator
 or any other person for the payment of mortgages or liens.
-  * NB Repealed March 28, 2016
+  8. The commissioner shall cause the temporary president of the senate,
+the speaker of the assembly, and the chairs of the senate and the
+assembly health committees to be notified of the appointment of a
+temporary operator pursuant to paragraph (a) of subdivision two of this
+section upon such appointment. Such notification shall include, but not
+be limited to, the name of the established operator, the name of the
+appointed temporary operator and a description of the reasons for such
+appointment to the extent practicable under the circumstances and in the
+sole discretion of the commissioner.
+  * NB Repealed March 28, 2019
 ```

@@ -6,12 +6,12 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  * § 38. Minimum wage reimbursement credit. (a) A taxpayer that is an
+  * § 38. Minimum wage reimbursement credit.  (a) A taxpayer that is an
 eligible employer or an owner of an eligible employer as defined in
 subdivision (b) of this section shall be eligible for a credit against
-the tax imposed under article nine, nine-A, twenty-two, thirty-two or
-thirty-three of this article, pursuant to the provisions referenced in
-subdivision (e) of this section.
+the tax imposed under article nine, nine-A, twenty-two, or thirty-three
+of this article, pursuant to the provisions referenced in subdivision
+(e) of this section.
   (b) An eligible employer is a corporation (including a New York S
 corporation), a sole proprietorship, a limited liability company or a
 partnership. An eligible employee is an individual who is (i) employed
@@ -54,9 +54,8 @@ this chapter.
 section, see the following provisions of this chapter:
   ** (1) Article 9: Section 187-s.
   ** NB Repealed January 1, 2018
-  (2) Article 9-A: Section 210, subdivision 46.
+  (2) Article 9-A: Section 210-B, subdivision 40.
   (3) Article 22: Section 606, subsection (aaa).
-  (4) Article 32: Section 1456, subsection (z).
-  (5) Article 33: Section 1511, subdivision (cc).
+  (4) Article 33: Section 1511, subdivision (cc).
   * NB There are 2 § 38's
 ```

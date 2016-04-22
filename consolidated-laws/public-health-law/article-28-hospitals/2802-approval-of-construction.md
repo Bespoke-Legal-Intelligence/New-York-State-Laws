@@ -53,15 +53,16 @@ pursuant to the provisions of this article) provided, however, that the
 commissioner may act upon an application for construction by an
 applicant possessing a valid operating certificate when the application
 qualifies for review without the recommendation of the council pursuant
-to regulations adopted by the council and approved by the commissioner;
-and (b) the commissioner is satisfied as to the public need for the
-construction, at the time and place and under the circumstances
-proposed, provided however that, in the case of an application by a
-hospital established or operated by an organization defined in
-subdivision one of section four hundred eighty-two-b of the social
-services law, the needs of the members of the religious denomination
-concerned, for care or treatment in accordance with their religious or
-ethical convictions, shall be deemed to be public need.
+to regulations adopted by the council and approved by the commissioner,
+or as otherwise authorized by this section; and (b) the commissioner is
+satisfied as to the public need for the construction, at the time and
+place and under the circumstances proposed, provided however that, in
+the case of an application by a hospital established or operated by an
+organization defined in subdivision one of section four hundred
+eighty-two-b of the social services law, the needs of the members of the
+religious denomination concerned, for care or treatment in accordance
+with their religious or ethical convictions, shall be deemed to be
+public need.
   2-a. The council shall afford the applicant an opportunity to present
 information in person concerning an application to a committee
 designated by the council.
@@ -75,6 +76,24 @@ received between July first and December thirty-first of each year shall
 be reviewed by the appropriate health systems agency and the department
 and presented to the public health and health planning council for
 consideration prior to December thirty-first of the following year.
+  2-c. An application for the relocation of long-term ventilator beds
+from one residential health care facility to another residential health
+care facility with common ownership shall be subject, as determined by
+the commissioner, to either an administrative or limited review by the
+department. Common ownership shall be found when the ownership or
+controlling interest in the operator of each residential health care
+facility is the same, provided the percentage of ownership interest of
+each owner may vary between the two facilities but must meet the whole
+in common ownership. For purposes of this subdivision, the commissioner,
+when making a determination of public need, may consider access to
+long-term ventilator beds in the affected portions of the health systems
+region, and the quality of care provided at the facilities with common
+ownership. At no time shall an application submitted pursuant to this
+subdivision result in a change in the total combined number of long-term
+ventilator and residential health care facility beds, including
+residential health care facility beds converted from transferred
+long-term ventilator beds, operated by the two facilities with common
+ownership.
   3. Subject to the provisions of paragraph (b) of subdivision two, the
 commissioner in approving the construction of a hospital shall take into
 consideration and be empowered to request information and advice as to

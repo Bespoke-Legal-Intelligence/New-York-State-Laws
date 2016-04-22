@@ -42,6 +42,7 @@ Section 1811.   Estate, gift and transfer taxes.
         1812-e. Person not registered as a residual petroleum product
                   business.
         1812-f. Article thirteen-A tax.
+        1812-g. Person not registered as a wholesaler of motor fuel.
         1813.   Alcoholic beverage tax.
         1814.   Cigarette and tobacco products tax.
         1814-a. Person not appointed as a tobacco products distributor.

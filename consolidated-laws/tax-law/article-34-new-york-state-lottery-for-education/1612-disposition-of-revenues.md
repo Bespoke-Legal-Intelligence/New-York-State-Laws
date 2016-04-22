@@ -148,33 +148,62 @@ shall have the meaning defined in 25 U.S.C. § 2703(8).
   (F) notwithstanding clauses (A), (B), (C), (D) and (E) of this
 subparagraph, when a vendor track, is located in Sullivan county and
 within sixty miles from any gaming facility in a contiguous state such
-vendor fee shall, for a period of eight years commencing April first,
-two thousand eight, be at a rate of forty-one percent of the total
-revenue wagered at the vendor track after payout for prizes pursuant to
-this chapter, after which time such rate shall be as for all tracks in
-clause (C) of this subparagraph.
+vendor fee shall, for a period of nine years commencing April first, two
+thousand eight, be at a rate of forty-one percent of the total revenue
+wagered at the vendor track after payout for prizes pursuant to this
+chapter, after which time such rate shall be as for all tracks in clause
+(C) of this subparagraph.
   (G) Notwithstanding any provision to the contrary, when a vendor track
 is located within regions one, two, or five of development zone two as
 defined by section thirteen hundred ten of the racing, pari-mutuel
 wagering and breeding law, such vendor track shall receive an additional
 commission at a rate equal to the percentage of revenue wagered at the
-vendor track after payout for prizes pursuant to this chapter less ten
-percent retained by the commission for operation, administration, and
-procurement purposes and payment of the vendor's fee, marketing
-allowance, and capital award paid pursuant to this chapter and the
-effective tax rate paid on all gross gaming revenue paid by a gaming
-facility within the same region pursuant to section thirteen hundred
-fifty-one of the racing, pari-mutuel wagering and breeding law. The
-additional commission shall be paid to the vendor track within sixty
-days after the conclusion of the state fiscal year based on the
-calculated percentage during the previous fiscal year.
+vendor track after payout for prizes pursuant to this chapter, which
+percentage shall be one hundred, less the sum of the percentages of net
+revenue wagered at the vendor track retained by the commission for
+operation, administration, and procurement purposes; and the vendor's
+fee, marketing allowance and capital award paid to the vendor track
+pursuant to this chapter; and the effective tax rate paid on all gross
+gaming revenue paid by a gaming facility within the same region pursuant
+to section thirteen hundred fifty-one of the racing, pari-mutuel
+wagering and breeding law, provided, however, such additional commission
+shall be applied to revenue wagered at the vendor track after payout for
+prizes only while a gaming facility in the same region is open and
+operational pursuant to an operation certificate issued pursuant to
+section thirteen hundred thirty-one of the racing, pari-mutuel wagering
+and breeding law. The additional commission set forth in this clause
+shall be paid to the vendor track within sixty days after the conclusion
+of the state fiscal year based on the calculated percentage during the
+previous fiscal year.
   (G-1) Notwithstanding clause (A) and (B) of this subparagraph, when a
 video lottery gaming facility is located in either the county of Nassau
 or Suffolk and is operated by a corporation established pursuant to
 section five hundred two of the racing, pari-mutuel wagering and
 breeding law at a rate of thirty-five percent of the total revenue
 wagered at the vendor after payout for prizes pursuant to this chapter;
-  (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
+  (G-2) Notwithstanding any provision to the contrary, when a vendor
+track is located within region six of development zone two as defined by
+section thirteen hundred ten of the racing, pari-mutuel wagering and
+breeding law and is located within Ontario county, such vendor track
+shall receive an additional commission at a rate equal to the percentage
+of revenue wagered at the vendor track after payout for prizes pursuant
+to this chapter, which percentage shall be one hundred, less the sum of
+the percentages of net revenue wagered at the vendor track retained by
+the commission for operation, administration, and procurement purposes;
+and the vendor's fee, marketing allowance and capital award paid to the
+vendor track pursuant to this chapter; and the effective tax rate paid
+on all gross gaming revenue paid by a gaming facility within Seneca or
+Wayne counties pursuant to section thirteen hundred fifty-one of the
+racing, pari-mutuel wagering and breeding law, provided, however, such
+additional commission shall be applied to revenue wagered at the vendor
+track after payout for prizes only while a gaming facility in Seneca or
+Wayne counties is open and operational pursuant to an operation
+certificate issued pursuant to section thirteen hundred thirty-one of
+the racing, pari-mutuel wagering and breeding law. The additional
+commission set forth in this clause shall be paid to the vendor track
+within sixty days after the conclusion of the state fiscal year based on
+the calculated percentage during the previous fiscal year.
+  * (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
 this subparagraph, the track operator of a vendor track shall be
 eligible for a vendor's capital award of up to four percent of the total
 revenue wagered at the vendor track after payout for prizes pursuant to
@@ -200,31 +229,103 @@ required to co-invest an amount of capital expenditure equal to its
 cumulative vendor's capital award. For all tracks, except for Aqueduct
 racetrack, the amount of any vendor's capital award that is not used
 during any one year period may be carried over into subsequent years
-ending before April first, two thousand sixteen. Any amount attributable
-to a capital expenditure approved prior to April first, two thousand
-sixteen and completed before April first, two thousand eighteen; or
-approved prior to April first, two thousand twenty and completed before
-April first, two thousand twenty-two for a vendor track located west of
-State Route 14 from Sodus Point to the Pennsylvania border within New
-York, shall be eligible to receive the vendor's capital award. In the
-event that a vendor track's capital expenditures, approved by the
-division prior to April first, two thousand sixteen and completed prior
-to April first, two thousand eighteen, exceed the vendor track's
-cumulative capital award during the five year period ending April first,
-two thousand sixteen, the vendor shall continue to receive the capital
-award after April first, two thousand sixteen until such approved
-capital expenditures are paid to the vendor track subject to any
-required co-investment. In no event shall any vendor track that receives
-a vendor fee pursuant to clause (F) or (G) of this subparagraph be
-eligible for a vendor's capital award under this section. Any operator
-of a vendor track which has received a vendor's capital award, choosing
-to divest the capital improvement toward which the award was applied,
-prior to the full depreciation of the capital improvement in accordance
-with generally accepted accounting principles, shall reimburse the state
-in amounts equal to the total of any such awards. Any capital award not
-approved for a capital expenditure at a video lottery gaming facility by
-April first, two thousand sixteen shall be deposited into the state
-lottery fund for education aid; and
+ending before April first, two thousand seventeen. Any amount
+attributable to a capital expenditure approved prior to April first, two
+thousand seventeen and completed before April first, two thousand
+nineteen; or approved prior to April first, two thousand twenty-one and
+completed before April first, two thousand twenty-three for a vendor
+track located west of State Route 14 from Sodus Point to the
+Pennsylvania border within New York, shall be eligible to receive the
+vendor's capital award. In the event that a vendor track's capital
+expenditures, approved by the division prior to April first, two
+thousand seventeen and completed prior to April first, two thousand
+nineteen, exceed the vendor track's cumulative capital award during the
+five year period ending April first, two thousand seventeen, the vendor
+shall continue to receive the capital award after April first, two
+thousand seventeen until such approved capital expenditures are paid to
+the vendor track subject to any required co-investment. In no event
+shall any vendor track that receives a vendor fee pursuant to clause (F)
+or (G) of this subparagraph be eligible for a vendor's capital award
+under this section. Any operator of a vendor track which has received a
+vendor's capital award, choosing to divest the capital improvement
+toward which the award was applied, prior to the full depreciation of
+the capital improvement in accordance with generally accepted accounting
+principles, shall reimburse the state in amounts equal to the total of
+any such awards. Any capital award not approved for a capital
+expenditure at a video lottery gaming facility by April first, two
+thousand seventeen shall be deposited into the state lottery fund for
+education aid; and
+  * NB Effective until the designation of 400 video lottery devices as
+hosted pursuant to paragraph (4) of subdivsion a of section 1617-a of
+the tax law, pending notification from gaming commission
+  * (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
+this subparagraph, the track operator of a vendor track and in the case
+of Aqueduct, the video lottery terminal facility operator, shall be
+eligible for a vendor's capital award of up to four percent of the total
+revenue wagered at the vendor track after payout for prizes pursuant to
+this chapter, which shall be used exclusively for capital project
+investments to improve the facilities of the vendor track which promote
+or encourage increased attendance at the video lottery gaming facility
+including, but not limited to hotels, other lodging facilities,
+entertainment facilities, retail facilities, dining facilities, events
+arenas, parking garages and other improvements that enhance facility
+amenities; provided that such capital investments shall be approved by
+the division, in consultation with the state racing and wagering board,
+and that such vendor track demonstrates that such capital expenditures
+will increase patronage at such vendor track's facilities and increase
+the amount of revenue generated to support state education programs. The
+annual amount of such vendor's capital awards that a vendor track shall
+be eligible to receive shall be limited to two million five hundred
+thousand dollars, except for Aqueduct racetrack, for which there shall
+be no annual limit, provided, however, that any such capital award for
+the Aqueduct video lottery terminal facility operator shall be one
+percent of the total revenue wagered at the video lottery terminal
+facility after payout for prizes pursuant to this chapter until the
+earlier of the designation of one thousand video lottery devices as
+hosted pursuant to paragraph four of subdivision a of section sixteen
+hundred seventeen-a of this chapter or April first, two thousand
+nineteen and shall then be four percent of the total revenue wagered at
+the video lottery terminal facility after payout for prizes pursuant to
+this chapter, provided, further, that such capital award shall only be
+provided pursuant to an agreement with the operator to construct an
+expansion of the facility, hotel, and convention and exhibition space
+requiring a minimum capital investment of three hundred million dollars.
+Except for tracks having less than one thousand one hundred video gaming
+machines, and except for a vendor track located west of State Route 14
+from Sodus Point to the Pennsylvania border within New York, and except
+for Aqueduct racetrack each track operator shall be required to
+co-invest an amount of capital expenditure equal to its cumulative
+vendor's capital award. For all tracks, except for Aqueduct racetrack,
+the amount of any vendor's capital award that is not used during any one
+year period may be carried over into subsequent years ending before
+April first, two thousand seventeen. Any amount attributable to a
+capital expenditure approved prior to April first, two thousand
+seventeen and completed before April first, two thousand nineteen; or
+approved prior to April first, two thousand twenty-one and completed
+before April first, two thousand twenty-three for a vendor track located
+west of State Route 14 from Sodus Point to the Pennsylvania border
+within New York, shall be eligible to receive the vendor's capital
+award. In the event that a vendor track's capital expenditures, approved
+by the division prior to April first, two thousand seventeen and
+completed prior to April first, two thousand nineteen, exceed the vendor
+track's cumulative capital award during the five year period ending
+April first, two thousand seventeen, the vendor shall continue to
+receive the capital award after April first, two thousand seventeen
+until such approved capital expenditures are paid to the vendor track
+subject to any required co-investment. In no event shall any vendor
+track that receives a vendor fee pursuant to clause (F) or (G) of this
+subparagraph be eligible for a vendor's capital award under this
+section. Any operator of a vendor track which has received a vendor's
+capital award, choosing to divest the capital improvement toward which
+the award was applied, prior to the full depreciation of the capital
+improvement in accordance with generally accepted accounting principles,
+shall reimburse the state in amounts equal to the total of any such
+awards. Any capital award not approved for a capital expenditure at a
+video lottery gaming facility by April first, two thousand seventeen
+shall be deposited into the state lottery fund for education aid; and
+  * NB Effective upon the designation of 400 video lottery devices as
+hosted pursuant to paragraph (4) of subdivsion a of section 1617-a of
+the tax law, pending notification from gaming commission
   (I) Notwithstanding any provision of law to the contrary, free play
 allowance credits authorized by the division pursuant to subdivision f
 of section sixteen hundred seventeen-a of this article shall not be

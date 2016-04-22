@@ -8,16 +8,20 @@
 insurance corporation having an employee, including any officer, in this
 state or having an agent or representative in this state, shall
 annually, on or before the fifteenth day of the third month following
-the close of its taxable year, transmit to the tax commission a return
-in a form prescribed by it setting forth such information as the tax
-commission may prescribe and every taxpayer which ceases to exercise its
-franchise or to be subject to the tax imposed by this article shall
-transmit to the tax commission a return on the date of such cessation or
-at such other time as the tax commission may require covering each year
-or period for which no return was theretofore filed. A copy of each
-return required under this subdivision shall also be transmitted to the
-superintendent of financial services at or before the times specified
-for filing such returns with the tax commission.
+the close of its taxable year, for taxable years beginning before
+January first, two thousand sixteen, and on or before the fifteenth day
+of the fourth month following the close of its taxable year, for taxable
+years beginning on or after January first, two thousand sixteen,
+transmit to the commissioner a return in a form prescribed by the
+commissioner setting forth such information as the commissioner may
+prescribe and every taxpayer which ceases to exercise its franchise or
+to be subject to the tax imposed by this article shall transmit to the
+commissioner a return on the date of such cessation or at such other
+time as the commissioner may require covering each year or period for
+which no return was theretofore filed. A copy of each return required
+under this subdivision shall also be transmitted to the superintendent
+of financial services at or before the times specified for filing such
+returns with the commissioner.
   (b) Every taxpayer shall also transmit such other returns and such
 facts and information as the tax commission may require in the
 administration of this article.

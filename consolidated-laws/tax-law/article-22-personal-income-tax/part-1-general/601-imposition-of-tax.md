@@ -29,21 +29,68 @@ Over $300,000 but not over $2,000,000 $19,016 plus 6.85% of excess over
                                       $300,000
 Over $2,000,000                       $135,466 plus 8.82% of excess over
                                       $2,000,000
-  (B) For taxable years beginning after two thousand seventeen, the
-following brackets and dollar amounts shall apply, as adjusted by the
-cost of living adjustment prescribed in section six hundred one-a of
-this part for tax years two thousand thirteen through two thousand
-seventeen:
-If the New York taxable income is:    The tax is:
-Not over $16,000                      4% of taxable income
-Over $16,000 but not over $22,000     $640 plus 4.5% of excess over
-                                      $16,000
-Over $22,000 but not over $26,000     $910 plus 5.25% of excess over
-                                      $22,000
-Over $26,000 but not over $40,000     $1,120 plus 5.90% of excess over
-                                      $26,000
-Over $40,000                          $1,946 plus 6.85% of excess over
-                                      $40,000
+  (B)(i) For tax years beginning after two thousand seventeen, the
+brackets and dollars amounts in subparagraph (A) of this paragraph, as
+adjusted by the cost of living adjustment prescribed in section six
+hundred one-a of this part for tax years two thousand thirteen through
+two thousand seventeen, shall apply. In addition, the tax rates in
+subparagraph (A) of this paragraph shall apply, except as noted in
+clause (ii) of this subparagraph, and except that the rate applicable to
+New York taxable incomes in excess of $300,000 as adjusted by the cost
+of living adjustment prescribed in section six hundred one-a of this
+part for tax years two thousand thirteen through two thousand seventeen,
+shall be the highest tax rate specified in the provisions of this
+subparagraph as enacted by chapter fifty-nine of the laws of two
+thousand thirteen prior to its repeal by a chapter of the laws of two
+thousand sixteen that added this subparagraph. For purposes of clause
+(ii) of this subparagraph, the brackets specified shall be as adjusted
+by the cost of living adjustment prescribed in section six hundred one-a
+of this part for tax years two thousand thirteen through two thousand
+seventeen. After making the cost of living adjustments to the dollar
+amounts in subparagraph (A) of this paragraph, the dollar amounts in the
+tax calculations for the income brackets for New York taxable income
+over $26,000 shall be adjusted to reflect the rate reductions in clause
+(ii) of this subparagraph.
+  (ii) (I) For tax year two thousand eighteen, the following tax rates
+shall apply: If New York taxable income is over $26,000 but not over
+$40,000, the tax rate shall be 5.90%. If New York taxable income is over
+$40,000 but not over $150,000, the tax rate shall be 6.33%. If New York
+taxable income is over $150,000 but not over $300,000, the tax rate
+shall be 6.57%.
+  (II) For tax year two thousand nineteen, the following tax rates shall
+apply: If New York taxable income is over $26,000 but not over $40,000,
+the tax rate shall be 5.90%. If New York taxable income is over $40,000
+but not over $150,000, the tax rate shall be 6.21%. If New York taxable
+income is over $150,000 but not over $300,000, the tax rate shall be
+6.49%.
+  (III) For tax year two thousand twenty, the following tax rates shall
+apply: If New York taxable income is over $26,000 but not over $40,000,
+the tax rate shall be 5.90%. If New York taxable income is over $40,000
+but not over $150,000, the tax rate shall be 6.09%. If New York taxable
+income is over $150,000 but not over $300,000, the tax rate shall be
+6.41%.
+  (IV) For tax year two thousand twenty-one, the following tax rates
+shall apply: If New York taxable income is over $26,000 but not over
+$40,000, the tax rate shall be 5.90%. If New York taxable income is over
+$40,000 but not over $150,000, the tax rate shall be 5.97%. If New York
+taxable income is over $150,000 but not over $300,000, the tax rate
+shall be 6.33%.
+  (V) For tax year two thousand twenty-two, the following tax rates
+shall apply: If New York taxable income is over $26,000 but not over
+$150,000, the tax rate shall be 5.85%. If New York taxable income is
+over $150,000 but not over $300,000, the tax rate shall be 6.25%.
+  (VI) For tax year two thousand twenty-three, the following tax rates
+shall apply: If New York taxable income is over $26,000 but not over
+$150,000, the tax rate shall be 5.73%. If New York taxable income is
+over $150,000 but not over $300,000, the tax rate shall be 6.17%.
+  (VII) For tax year two thousand twenty-four, the following tax rates
+shall apply: If New York taxable income is over $26,000 but not over
+$150,000, the tax rate shall be 5.61%. If New York taxable income is
+over $150,000 but not over $300,000, the tax rate shall be 6.09%.
+  (VIII) For tax years after two thousand twenty-four, the following tax
+rates shall apply: If New York taxable income is over $26,000 but not
+over $150,000, the tax rate shall be 5.50%. If New York taxable income
+is over $150,000 but not over $300,000, the tax rate shall be 6.00%.
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
 If the New York taxable income is:    The tax is:
@@ -189,21 +236,68 @@ Over $250,000 but not over $1,500,000 $15,950 plus 6.85% of excess over
                                       $250,000
 Over $1,500,000                       $101,575 plus 8.82% of excess over
                                       $1,500,000
-  (B) For taxable years beginning after two thousand seventeen, the
-following brackets and dollars amounts shall apply, as adjusted by the
-cost of living adjustment prescribed in section six hundred one-a of
-this part for tax years two thousand thirteen through two thousand
-seventeen:
-If the New York taxable income is:    The tax is:
-Not over $12,000                      4% of taxable income
-Over $12,000 but not over $16,500     $480 plus 4.5% of excess over
-                                      $12,000
-Over $16,500 but not over $19,500     $683 plus 5.25% of excess over
-                                      $16,500
-Over $19,500 but not over $30,000     $840 plus 5.90% of excess over
-                                      $19,500
-Over $30,000                          $1,460 plus 6.85% of excess over
-                                      $30,000
+  (B) (i) For tax years beginning after two thousand seventeen, the
+brackets and dollars amounts in subparagraph (A) of this paragraph, as
+adjusted by the cost of living adjustment prescribed in section six
+hundred one-a of this part for tax years two thousand thirteen through
+two thousand seventeen, shall apply. In addition, the tax rates in
+subparagraph (A) of this paragraph shall apply, except as noted in
+clause (ii) of this subparagraph, and except that the rate applicable to
+New York taxable incomes in excess of $250,000 as adjusted by the cost
+of living adjustment prescribed in section six hundred one-a of this
+part for tax years two thousand thirteen through two thousand seventeen
+shall be the highest tax rate specified in the provisions of this
+subparagraph as enacted by chapter fifty-nine of the laws of two
+thousand thirteen prior to its repeal by a chapter of the laws of two
+thousand sixteen that added this subparagraph. For purposes of clause
+(ii) of this subparagraph, the brackets specified shall be as adjusted
+by the cost of living adjustment prescribed in section six hundred one-a
+of this part for tax years two thousand thirteen through two thousand
+seventeen. After making the cost of living adjustments to the dollar
+amounts in subparagraph (A) of this paragraph, the dollar amounts in the
+tax calculations for the income brackets for New York taxable income
+over $19,500 shall be adjusted to reflect the rate reductions in clause
+(ii) of this subparagraph.
+  (ii) (I) For tax year two thousand eighteen, the following tax rates
+shall apply: If New York taxable income is over $19,500 but not over
+$30,000, the tax rate shall be 5.90%. If New York taxable income is over
+$30,000 but not over $100,000, the tax rate shall be 6.33%. If New York
+taxable income is over $100,000 but not over $250,000, the tax rate
+shall be 6.57%.
+  (II) For tax year two thousand nineteen, the following tax rates shall
+apply: If New York taxable income is over $19,500 but not over $30,000,
+the tax rate shall be 5.90%. If New York taxable income is over $30,000
+but not over $100,000, the tax rate shall be 6.21%. If New York taxable
+income is over $100,000 but not over $250,000, the tax rate shall be
+6.49%.
+  (III) For tax year two thousand twenty, the following tax rates shall
+apply: If New York taxable income is over $19,500 but not over $30,000,
+the tax rate shall be 5.90%. If New York taxable income is over $30,000
+but not over $100,000, the tax rate shall be 6.09%. If New York taxable
+income is over $100,000 but not over $250,000, the tax rate shall be
+6.41%.
+  (IV) For tax year two thousand twenty-one, the following tax rates
+shall apply: If New York taxable income is over $19,500 but not over
+$30,000, the tax rate shall be 5.90%. If New York taxable income is over
+$30,000 but not over $100,000, the tax rate shall be 5.97%. If New York
+taxable income is over $100,000 but not over $250,000, the tax rate
+shall be 6.33%.
+  (V) For tax year two thousand twenty-two, the following tax rates
+shall apply: If New York taxable income is over $19,500 but not over
+$100,000, the tax rate shall be 5.85%. If New York taxable income is
+over $100,000 but not over $250,000, the tax rate shall be 6.25%.
+  (VI) For tax year two thousand twenty-three, the following tax rates
+shall apply: If New York taxable income is over $19,500 but not over
+$100,000, the tax rate shall be 5.73%. If New York taxable income is
+over $100,000 but not over $250,000, the tax rate shall be 6.17%.
+  (VII) For tax year two thousand twenty-four, the following tax rates
+shall apply: If New York taxable income is over $19,500 but not over
+$100,000, the tax rate shall be 5.61%. If New York taxable income is
+over $100,000 but not over $250,000, the tax rate shall be 6.09%.
+  (VIII) For tax years after two thousand twenty-four, the following tax
+rates shall apply: If New York taxable income is over $19,500 but not
+over $100,000, the tax rate shall be 5.50%. If New York taxable income
+is over $100,000 but not over $250,000, the tax rate shall be 6.00%.
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
 If the New York taxable income is:    The tax is:
@@ -355,21 +449,68 @@ Over $200,000 but not over $1,000,000 $12,833 plus 6.85% of excess over
                                       $200,000
 Over $1,000,000                       $67,633 plus 8.82% of excess over
                                       $1,000,000
-  (B) For taxable years beginning after two thousand seventeen, the
-following brackets and dollars amounts shall apply, as adjusted by the
-cost of living adjustment prescribed in section six hundred one-a of
-this part for tax years two thousand thirteen through two thousand
-seventeen:
-If the New York taxable income is:    The tax is:
-Not over $8,000                       4% of taxable income
-Over $8,000 but not over $11,000      $320 plus 4.5% of excess over
-                                      $8,000
-Over $11,000 but not over $13,000     $455 plus 5.25% of excess over
-                                      $11,000
-Over $13,000 but not over $20,000     $560 plus 5.90% of excess over
-                                      $13,000
-Over $20,000                          $973 plus 6.85% of excess over
-                                      $20,000
+  (B)(i) For tax years beginning after two thousand seventeen, the
+brackets and dollars amount in subparagraph (A) of this paragraph, as
+adjusted by the cost of living adjustment prescribed in section six
+hundred one-a of this part for tax years two thousand thirteen through
+two thousand seventeen, shall apply. In addition, the tax rates in
+subparagraph (A) of this paragraph shall apply, except as noted in
+clause (ii) of this subparagraph, and except that the rate applicable to
+New York taxable income in excess of $200,000 as adjusted by the cost of
+living adjustment prescribed in section six hundred one-a of this part
+for tax years two thousand thirteen through two thousand seventeen shall
+be the highest tax rate specified in the provisions of this subparagraph
+as enacted by chapter fifty-nine of the laws of two thousand thirteen
+prior to its repeal by a chapter of the laws of two thousand sixteen
+that added this subparagraph. For purposes of clause (ii) of this
+subparagraph, the brackets specified shall be as adjusted by the cost of
+living adjustment prescribed in section six hundred one-a of this part
+for tax years two thousand thirteen through two thousand seventeen.
+After making the cost of living adjustments to the dollar amounts in
+subparagraph (A) of this paragraph, the dollar amounts in the tax
+calculations for the income brackets for New York taxable income over
+$13,000 shall be adjusted to reflect the rate reductions in clause (ii)
+of this subparagraph.
+  (ii)(I) For tax year two thousand eighteen, the following tax rates
+shall apply: If New York taxable income is over $13,000 but not over
+$20,000, the tax rate shall be 5.90%. If New York taxable income is over
+$20,000 but not over $75,000, the tax rate shall be 6.33%. If New York
+taxable income is over $75,000 but not over $200,000, the tax rate shall
+be 6.57%.
+  (II) For tax year two thousand nineteen, the following tax rates shall
+apply: If New York taxable income is over $13,000 but not over $20,000,
+the tax rate shall be 5.90%. If New York taxable income is over $20,000
+but not over $75,000, the tax rate shall be 6.21%. If New York taxable
+income is over $75,000 but not over $200,000, the tax rate shall be
+6.49%.
+  (III) For tax year two thousand twenty, the following tax rates shall
+apply: If New York taxable income is over $13,000 but not over $20,000,
+the tax rate shall be 5.90%. If New York taxable income is over $20,000
+but not over $75,000, the tax rate shall be 6.09%. If New York taxable
+income is over $75,000 but not over $200,000, the tax rate shall be
+6.41%.
+  (IV) For tax year two thousand twenty-one, the following tax rates
+shall apply: If New York taxable income is over $13,000 but not over
+$20,000, the tax rate shall be 5.90%. If New York taxable income is over
+$20,000 but not over $75,000, the tax rate shall be 5.97%. If New York
+taxable income is over $75,000 but not over $200,000, the tax rate shall
+be 6.33%.
+  (V) For tax year two thousand twenty-two, the following tax rates
+shall apply: If New York taxable income is over $13,000 but not over
+$75,000, the tax rate shall be 5.85%. If New York taxable income is over
+$75,000 but not over $200,000, the tax rate shall be 6.25%.
+  (VI) For tax year two thousand twenty-three, the following tax rates
+shall apply: If New York taxable income is over $13,000 but not over
+$75,000, the tax rate shall be 5.73%. If New York taxable income is over
+$75,000 but not over $200,000, the tax rate shall be 6.17%.
+  (VII) For tax year two thousand twenty-four, the following tax rates
+shall apply: If New York taxable income is over $13,000 but not over
+$75,000, the tax rate shall be 5.61%. If New York taxable income is over
+$75,000 but not over $200,000, the tax rate shall be 6.09%.
+  (VIII) For tax years after two thousand twenty-four, the following tax
+rates shall apply: If New York taxable income is over $13,000 but not
+over $75,000, the tax rate shall be 5.50%. If New York taxable income is
+over $75,000 but not over $200,000, the tax rate shall be 6.00%.
   (1-a) For taxable years beginning after two thousand eight and before
 two thousand twelve:
 If the New York taxable income is:    The tax is:
@@ -573,18 +714,21 @@ two thousand two and before two thousand six and after two thousand
 eight and before two thousand twelve.
   (d-1) Alternative tax table benefit recapture. Notwithstanding the
 provisions of subsection (d) of this section, for taxable years
-beginning after two thousand eleven and before two thousand eighteen,
-there is hereby imposed a supplemental tax in addition to the tax
-imposed under subsections (a), (b) and (c) of this section for the
-purpose of recapturing the benefit of the tax tables contained in such
-subsections. During these taxable years, any reference in this chapter
-to subsection (d) of this section shall be read as a reference to this
-subsection.
+beginning after two thousand eleven, there is hereby imposed a
+supplemental tax in addition to the tax imposed under subsections (a),
+(b) and (c) of this section for the purpose of recapturing the benefit
+of the tax tables contained in such subsections. During these taxable
+years, any reference in this chapter to subsection (d) of this section
+shall be read as a reference to this subsection.
   (1) For resident married individuals filing joint returns and resident
 surviving spouses, the supplemental tax shall be an amount equal to the
 sum of the tax table benefits described in subparagraphs (A), (B), (C)
 and (D) of this paragraph multiplied by their respective fractions in
-such subparagraphs.
+such subparagraphs. Furthermore, in making the calculations described in
+these subparagraphs in taxable years beginning after tax year two
+thousand seventeen, the applicable tax rates specified in subparagraph
+(B) of paragraph one of subsection (a) of this section shall be
+substituted for the rates referenced in these subparagraphs.
   (A) The tax table benefit is the difference between (i) the amount of
 taxable income set forth in the tax table in paragraph one of subsection
 (a) of this section not subject to the 6.45 percent rate of tax for the
@@ -642,7 +786,12 @@ taxpayer's taxable income.
   (2) For resident heads of households, the supplemental tax shall be an
 amount equal to the sum of the tax table benefits described in
 subparagraphs (A), (B) and (C) of this paragraph multiplied by their
-respective fractions in such subparagraphs.
+respective fractions in such subparagraphs. Furthermore, in making the
+calculations described in these subparagraphs in taxable years beginning
+after tax year two thousand seventeen, the applicable tax rates
+specified in subparagraph (B) of paragraph one of subsection (b) of this
+section shall be substituted for the rates referenced in these
+subparagraphs.
   (A) The tax table benefit is the difference between (i) the amount of
 taxable income set forth in the tax table in paragraph one of subsection
 (b) of this section not subject to the 6.65 percent rate of tax for the
@@ -689,6 +838,11 @@ filing separate returns and resident estates and trusts, the
 supplemental tax shall be an amount equal to the sum of the tax table
 benefits described in subparagraphs (A), (B) and (C) of this paragraph
 multiplied by their respective fractions in such subparagraphs.
+Furthermore, in making the calculations described in these subparagraphs
+in taxable years beginning after tax year two thousand seventeen, the
+applicable tax rates specified in subparagraph (B) of paragraph one of
+subsection (c) of this section shall be substituted for the rates
+referenced in these subparagraphs.
   (A) The tax table benefit is the difference between (i) the amount of
 taxable income set forth in the tax table in paragraph one of subsection
 (c) of this section not subject to the 6.65 percent rate of tax for the
@@ -730,33 +884,6 @@ thousand eighteen.
 tax credits shall not exceed the highest rate of tax set forth in the
 tax tables in subsection (c) of this section multiplied by the
 taxpayer's taxable income.
-  (d-2) Tax table benefit recapture for tax years after two thousand
-seventeen.  For taxable years beginning after two thousand seventeen,
-there is hereby imposed a supplemental tax in addition to the tax
-imposed under subsections (a), (b) and (c) of this section for the
-purpose of recapturing the benefit of the tax tables contained in such
-subsections.  The supplemental tax shall be an amount equal to the table
-benefit in paragraph one of this subsection multiplied by the fraction
-in such paragraph. During these taxable years, any reference in this
-chapter to subsection (d) of this section shall be read as a reference
-to this subsection.
-  (1) Resident married individuals filing joint returns, resident
-surviving spouses, resident heads of households, resident unmarried
-individuals, resident married individuals filing separate returns and
-resident estates and trusts.
-  (A) The tax table benefit is the difference between (i) the amount of
-taxable income set forth in the tax table in subsection (a), (b) or (c),
-of this section, not subject to the 6.85 percent rate of tax for the
-taxable year multiplied by such rate and (ii) the dollar denominated tax
-for such amount of taxable income set forth in the tax table applicable
-to the taxable year in subsection (a), (b) or (c) of this section.
-  (B) The fraction is computed as follows: the numerator is the lesser
-of fifty thousand dollars or the excess of New York adjusted gross
-income for the taxable year over one hundred thousand dollars (as such
-amount is adjusted by the cost of living adjustment prescribed in
-section six hundred one-a of this part for tax years two thousand
-thirteen through two thousand seventeen) and the denominator is fifty
-thousand dollars.
   (e) Nonresidents and part-year residents. (1) General. There is hereby
 imposed for each taxable year on the taxable income which is derived
 from sources in this state of every nonresident and part-year resident

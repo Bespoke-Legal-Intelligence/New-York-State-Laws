@@ -128,7 +128,7 @@ person for such CNG or hydrogen. Claims for refunds or credits shall be
 presented, and refunds or credits shall be made, only as authorized by
 the commissioner under such rules and regulations as the commissioner
 may prescribe.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   2. However, the intention of this article is to place the ultimate
 burden resulting from such tax, so far as possible, on persons who use
 the public highways of the state for operating motor vehicles thereon,

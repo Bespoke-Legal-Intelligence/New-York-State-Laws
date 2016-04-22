@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 209. Imposition of tax; exemptions.  1. (a) For the privilege of
+  § 209. Imposition of tax; exemptions. 1. (a) For the privilege of
 exercising its corporate franchise, or of doing business, or of
 employing capital, or of owning or leasing property in this state in a
 corporate or organized capacity, or of maintaining an office in this
@@ -16,9 +16,16 @@ its business income base, or upon such other basis as may be applicable
 as hereinafter provided, for such fiscal or calendar year or part
 thereof, on a report which shall be filed, except as hereinafter
 provided, on or before the fifteenth day of March next succeeding the
-close of each such year, or, in the case of a corporation which reports
-on the basis of a fiscal year, within two and one-half months after the
-close of such fiscal year, and shall be paid as hereinafter provided.
+close of each such year, for taxable years beginning before January
+first, two thousand sixteen, and on or before the fifteenth day of April
+next succeeding the close of each such year, for taxable years beginning
+on or after January first, two thousand sixteen, or, in the case of a
+corporation which reports on the basis of a fiscal year, within two and
+one-half months after the close of such fiscal year, for taxable years
+beginning before January first, two thousand sixteen, and on or before
+the fifteenth day of the fourth month after the close of such fiscal
+year, for taxable years beginning on or after January first, two
+thousand sixteen, and shall be paid as hereinafter provided.
   (b) A corporation is deriving receipts from activity in this state if
 it has receipts within this state of one million dollars or more in the
 taxable year. For purposes of this section, the term "receipts" means
@@ -72,7 +79,7 @@ shall be adjusted to reflect that cumulative percentage change in the
 consumer price index. The adjusted thresholds shall be rounded to the
 nearest one thousand dollars. As used in this paragraph, "consumer price
 index" means the consumer price index for all urban consumers (CPI-U)
-available form the bureau of labor statistics of the United States
+available from the bureau of labor statistics of the United States
 department of labor. Any adjustment shall apply to tax periods that
 begin after the adjustment is made.
   (f) If a partnership is doing business, employing capital, owning or

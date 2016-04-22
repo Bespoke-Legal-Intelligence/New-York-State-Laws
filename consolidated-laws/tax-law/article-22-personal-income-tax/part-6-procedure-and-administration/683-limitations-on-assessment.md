@@ -112,7 +112,7 @@ principal purpose of avoiding tax. Abusive tax avoidance transactions
 include, but are not limited to, listed transactions described in
 paragraph five of subsection (p-1) of section six hundred eighty-five of
 this article.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   (d) Omission of income, total taxable amount or ordinary income
 portion of a lump sum distribution on return.--The tax may be assessed
 at any time within six years after the return was filed if--

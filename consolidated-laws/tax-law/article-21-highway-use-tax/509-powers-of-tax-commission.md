@@ -65,8 +65,8 @@ provisions of this article with respect to certificates of registration
 and decals shall be applicable to replacement certificates of
 registration and decals issued hereunder, except that the replacement
 certificate of registration or decal shall be issued upon payment of a
-fee of fifteen dollars for each motor vehicle and for any trailer,
-semi-trailer, dolly or other device drawn thereby for which a
+fee of one dollar and fifty cents for each motor vehicle and for any
+trailer, semi-trailer, dolly or other device drawn thereby for which a
 certificate of registration or decal is required to be issued under this
 article;
   9. To examine, or cause to be examined or cause any person to keep any

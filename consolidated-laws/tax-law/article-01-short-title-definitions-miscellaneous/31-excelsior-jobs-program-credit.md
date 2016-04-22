@@ -35,13 +35,15 @@ shall set forth the amount of each credit component that may be claimed
 for the taxable year. A taxpayer may claim such credit for ten
 consecutive taxable years commencing in the first taxable year that the
 taxpayer receives a certificate of tax credit or the first taxable year
-listed on its preliminary schedule of benefits, whichever is later. The
-taxpayer shall be allowed to claim only the amount listed on the
-certificate of tax credit for that taxable year. Such certificate must
-be attached to the taxpayer's return. No cost or expense paid or
-incurred by the taxpayer shall be the basis for more than one component
-of this credit or any other tax credit, except as provided in section
-three hundred fifty-five of the economic development law.
+listed on its preliminary schedule of benefits, whichever is later,
+provided that no tax credits may be allowed for taxable years beginning
+on or after January first, two thousand twenty-seven. The taxpayer shall
+be allowed to claim only the amount listed on the certificate of tax
+credit for that taxable year. Such certificate must be attached to the
+taxpayer's return. No cost or expense paid or incurred by the taxpayer
+shall be the basis for more than one component of this credit or any
+other tax credit, except as provided in section three hundred fifty-five
+of the economic development law.
   (c) Election of credit. A taxpayer who or which is qualified to claim
 the excelsior investment tax credit component and is also qualified to
 claim the investment tax credit provided for under subdivision one of

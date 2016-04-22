@@ -273,6 +273,8 @@ of two dollars per day.
 eleven of this part, when occupancy is provided, for a single
 consideration, with property, services, amusement charges, or any other
 items, the separate sale of which is not subject to tax under this
+article, and the rent paid for such occupancy does not qualify for the
+exemption in subdivision (kk) of section eleven hundred fifteen of this
 article, the entire consideration shall be treated as rent subject to
 tax under paragraph one of this subdivision; provided, however, that
 where the amount of the rent for occupancy is stated separately from the

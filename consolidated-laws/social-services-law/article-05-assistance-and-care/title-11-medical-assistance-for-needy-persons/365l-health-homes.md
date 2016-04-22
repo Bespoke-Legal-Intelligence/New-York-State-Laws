@@ -35,13 +35,18 @@ similar funding opportunities, geographic and demographic factors,
 including the population served, and prevalence of qualifying
 conditions, connectivity to providers, and other criteria as established
 by the commissioner.
-  2-b. The commissioner is authorized to make grants up to a gross
-amount of five million dollars, to establish coordination between the
-health homes and the criminal justice system and for the integration of
-information of health homes with state and local correctional
-facilities, to the extent permitted by law. Health homes receiving funds
-under this subdivision shall be required to document and demonstrate the
-effective use of funds distributed herein.
+  2-b. The commissioner is authorized to make lump sum payments or
+adjust rates of payment to providers up to a gross amount of five
+million dollars, to establish coordination between the health homes and
+the criminal justice system and for the integration of information of
+health homes with state and local correctional facilities, to the extent
+permitted by law. Such rate adjustments may be made to health homes
+participating in a criminal justice pilot program with the purpose of
+enrolling incarcerated individuals with serious mental illness, two or
+more chronic conditions, including substance abuse disorders, or
+HIV/AIDS, into such health home. Health homes receiving funds under this
+subdivision shall be required to document and demonstrate the effective
+use of funds distributed herein.
   2-c. The commissioner is authorized to make grants up to a gross
 amount of one million dollars for certified application counselors and
 assistors to facilitate the enrollment of persons in high risk
@@ -134,15 +139,26 @@ this section may be amended or modified without the need for a
 competitive bid or request for proposal process, and without regard to
 the provisions of sections one hundred twelve and one hundred
 sixty-three of the state finance law, section one hundred forty-two of
-the economic development law, or any other provision of law, to allow
-the purchase of additional personnel and services, subject to available
-funding, for the limited purpose of assisting the department of health
-with implementing the Balancing Incentive Program, the Fully Integrated
-Duals Advantage Program, the Vital Access Provider Program, the Medicaid
-waiver amendment associated with the public hospital transformation, the
+the economic development law, or any other provision of law, excepting
+the responsible vendor requirements of the state finance law, including,
+but not limited to, sections one hundred sixty-three and one hundred
+thirty-nine-k of the state finance law, to allow the purchase of
+additional personnel and services, subject to available funding, for the
+limited purpose of assisting the department of health with implementing
+the Balancing Incentive Program, the Fully Integrated Duals Advantage
+Program, the Vital Access Provider Program, the Medicaid waiver
+amendment associated with the public hospital transformation, the
 addition of behavioral health services as a managed care plan benefit,
 the delivery system reform incentive payment plan, activities to
 facilitate the transition of vulnerable populations to managed care
 and/or any workgroups required to be established by the chapter of the
-laws of two thousand thirteen that added this subdivision.
+laws of two thousand thirteen that added this subdivision. The
+department is authorized to extend such contract for a period of one
+year, without a competitive bid or request for proposal process, upon
+determination that the existing contractor is qualified to continue to
+provide such services; provided, however, that the department of health
+shall submit a request for applications for such contract during the
+time period specified in this subdivision and may terminate the contract
+identified herein prior to expiration of the extension authorized by
+this subdivision.
 ```

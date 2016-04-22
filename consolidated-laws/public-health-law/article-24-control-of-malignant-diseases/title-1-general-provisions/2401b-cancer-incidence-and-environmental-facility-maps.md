@@ -79,17 +79,8 @@ four of this section showing cancer clusters by cancer types. Prior to
 plotting such data, the department shall use an appropriate statistical
 method to detect statistical anomalies for the purpose of identifying
 cancer clusters.
-  (a) The department shall make such maps available as follows:
-  (i) by June thirtieth, two thousand twelve cancer types listed in
-paragraphs (a) through (e) of subdivision five of this section;
-  (ii) by December thirty-first, two thousand twelve cancer types listed
-in paragraphs (f) through (o) of subdivision five of this section; and
-  (iii) by June thirtieth, two thousand thirteen cancer types listed in
-paragraphs (p) through (w) of subdivision five of this section.
-  (b) The department, in consultation with the department of
-environmental conservation, shall update the maps periodically.
-  (c) The department shall post these maps on its public website as soon
-as practicable following the dates set forth in paragraph (a) of this
-subdivision.
-  * NB Repealed March 31, 2016
+  The department shall make such maps available on its public website,
+and shall, in consultation with the department of environmental
+conservation, update the maps not less than once every five years.
+  * NB Repealed March 31, 2022
 ```

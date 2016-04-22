@@ -239,9 +239,12 @@ features and reimbursement rates are approved by the commissioner and,
 as applicable, the commissioner of developmental disabilities:
   (1) a person enrolled in a managed care plan pursuant to section three
 hundred sixty-four-j of the social services law;
-  (2) a participant in the traumatic brain injury waiver program;
+  (2) a participant in the traumatic brain injury waiver program or a
+person whose circumstances would qualify him or her for the program as
+it existed on January first, two thousand fifteen;
   (3) a participant in the nursing home transition and diversion waiver
-program;
+program or a person whose circumstances would qualify him or her for the
+program as it existed on January first, two thousand fifteen;
   (4) a person enrolled in the assisted living program;
   (5) a person enrolled in home and community based waiver programs
 administered by the office for people with developmental disabilities;
@@ -268,6 +271,26 @@ hundred sixty-six of the social services law;
 paragraph (b) of subdivision four of section three hundred sixty-six of
 the social services law; and
   (12) Native Americans.
+  (v-a) For purposes of clause two of subparagraph (v) of this
+paragraph, program features shall be substantially comparable to those
+services available to traumatic brain injury waiver participants as of
+January first, two thousand fifteen, subject to federal financial
+participation.
+  (v-b) For purposes of clause three of subparagraph (v) of this
+paragraph, program features shall be substantially comparable to those
+services offered to nursing home transition and diversion waiver
+participants as of January first, two thousand fifteen, subject to
+federal financial participation.
+  (v-c) Any managed care program providing services under clause two or
+three of subparagraph (v) of this paragraph shall have an adequate
+network of trained providers to meet the needs of enrollees and provide
+services under this subdivision.
+  (v-d) Any individual providing service coordination pursuant to
+subparagraph (v-a) or (v-b) of this paragraph shall exercise his or her
+professional duties in the interests of the patient. Nothing in this
+subparagraph shall be construed as diminishing the authority and
+obligations of a managed long term care plan under this article and
+article forty-nine of this chapter.
   (vi) persons required to enroll in the managed long term care program
 or other care coordination model established pursuant to this paragraph
 shall have no less than thirty days to select a managed long term care
@@ -435,7 +458,9 @@ premiums may also be combined with disincentives or requirements
 designed to mitigate any incentives to obtain higher payment categories.
 In setting such payment rates, the commissioner shall consider costs
 borne by the managed care program to ensure actuarially sound and
-adequate rates of payment to ensure quality of care.
+adequate rates of payment to ensure quality of care shall comply with
+all applicable laws and regulations, state and federal, including
+regulations as to actuarial soundness for medicaid managed care.
   9. Reports. The department shall provide an interim report to the
 governor, temporary president of the senate and the speaker of the
 assembly on or before April first, two thousand three and a final report

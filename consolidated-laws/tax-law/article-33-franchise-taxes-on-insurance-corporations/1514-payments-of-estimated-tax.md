@@ -9,34 +9,41 @@ tax. (1) Except as otherwise provided in paragraph two of this
 subdivision, for taxable years beginning on or after January first,
 nineteen hundred seventy-six, every taxpayer subject to tax under this
 article must pay in each year an amount equal to (i) twenty-five percent
-of the tax imposed under this article for the preceding taxable year if
-the preceding year's tax exceeded one thousand dollars but was equal to
-or less than one hundred thousand dollars, or (ii) forty percent of the
-tax imposed under this article for the preceding taxable year if the
-preceding year's tax exceeded one hundred thousand dollars. If the
-preceding year's tax exceeded one thousand dollars and the taxpayer is
-subject to the tax surcharge imposed by section fifteen hundred five-a
-of this article, the taxpayer must also pay an amount equal to (i)
-twenty-five percent of the tax surcharge imposed under section fifteen
-hundred five-a for the preceding taxable year if the preceding year's
-tax was equal to or less than one hundred thousand dollars, or (ii)
-forty percent of the tax surcharge imposed for the preceding taxable
-year if the preceding year's tax exceeded one hundred thousand dollars.
+of the tax imposed under this article for the second preceding taxable
+year if the second preceding year's tax exceeded one thousand dollars
+but was equal to or less than one hundred thousand dollars, or (ii)
+forty percent of the tax imposed under this article for the second
+preceding taxable year if the second preceding year's tax exceeded one
+hundred thousand dollars. If the second preceding year's tax exceeded
+one thousand dollars and the taxpayer is subject to the tax surcharge
+imposed by section fifteen hundred five-a of this article, the taxpayer
+must also pay an amount equal to (i) twenty-five percent of the tax
+surcharge imposed under section fifteen hundred five-a of this article
+for the second preceding taxable year if the second preceding year's tax
+was equal to or less than one hundred thousand dollars, or (ii) forty
+percent of the tax surcharge imposed for the second preceding taxable
+year if the second preceding year's tax exceeded one hundred thousand
+dollars.
   (2) For taxable years beginning on or after January first, nineteen
 hundred ninety-nine, every taxpayer subject to tax under paragraph one
 of subdivision (b) of section fifteen hundred ten of this article shall
 pay in each such year an amount equal to forty percent of the tax
-imposed under such article for the preceding taxable year, if such
-preceding year's tax exceeded one thousand dollars. If such preceding
-year's tax exceeded one thousand dollars and such taxpayer is subject to
-the tax surcharge imposed by section fifteen hundred five-a of this
-article, such taxpayer shall also pay an amount equal to forty percent
-of the tax surcharge imposed under section fifteen hundred five-a for
-the preceding taxable year.
+imposed under such article for the second preceding taxable year, if
+such second preceding year's tax exceeded one thousand dollars. If such
+second preceding year's tax exceeded one thousand dollars and such
+taxpayer is subject to the tax surcharge imposed by section fifteen
+hundred five-a of this article, such taxpayer shall also pay an amount
+equal to forty percent of the tax surcharge imposed under section
+fifteen hundred five-a of this article for the second preceding taxable
+year.
   (3) Such amount or amounts described in paragraphs one and two of this
 subdivision shall be paid with the return required to be filed with
-respect to such tax or tax surcharge for such preceding taxable year or
-with an application for extension of the time for filing such return.
+respect to such tax or tax surcharge for the preceding taxable year or
+with an application for extension of the time for filing such return,
+for taxable years beginning before January first, two thousand sixteen,
+and shall be paid on or before the fifteenth day of the third month of
+each taxable year, for taxable years beginning on or after January
+first, two thousand sixteen.
   (b) Other installments. The estimated tax or estimated tax surcharge
 for each taxable year with respect to which a declaration of estimated
 tax or a declaration of estimated tax surcharge, respectively, is
@@ -80,11 +87,11 @@ reason of such amendment, and if any amendment is made after September
 fifteenth of the taxable year, any increase in the estimated tax or
 estimated tax surcharge by reason thereof shall be paid at the time of
 making such amendment.
-  (d) (1) Application of first installments based on preceding year's
-tax.  Any amount paid pursuant to subdivision (a) shall be applied as a
-first installment against the estimated tax or estimated tax surcharge,
-respectively, of the taxpayer for the taxable year shown on the
-declaration required to be filed pursuant to section fifteen hundred
+  (d) (1) Application of first installments based on second preceding
+year's tax. Any amount paid pursuant to subdivision (a) shall be applied
+as a first installment against the estimated tax or estimated tax
+surcharge, respectively, of the taxpayer for the taxable year shown on
+the declaration required to be filed pursuant to section fifteen hundred
 thirteen, or if no declaration is filed pursuant to such section, any
 such amount shall be considered a payment on account of the tax or tax
 surcharge shown on the return required to be filed by the taxpayer for
@@ -98,8 +105,8 @@ this article, or if no declaration is filed pursuant to such section,
 any such amount shall be considered a payment on account of the tax
 shown on the return required to be filed by the taxpayer for such
 taxable year.
-  (e) Interest on certain installments based on the preceding year's
-tax.  Notwithstanding the provisions of section one thousand
+  (e) Interest on certain installments based on the second preceding
+year's tax. Notwithstanding the provisions of section one thousand
 eighty-eight of this chapter or section sixteen of the state finance
 law, if an amount paid pursuant to subdivision (a) of this section
 exceeds the tax or tax surcharge, respectively, shown on the return
@@ -116,21 +123,16 @@ allowed or paid under this subdivision if the amount thereof is less
 than one dollar or if such interest becomes payable solely because of a
 loss described in paragraph four of subdivision (b) of section fifteen
 hundred three.
-  (f) The preceding year's tax defined. As used in this section, "the
-preceding year's tax" means, for taxpayers subject to tax under
-subdivision (b) of section fifteen hundred ten of this article, the
-taxes imposed upon the taxpayer by sections fifteen hundred one and
-fifteen hundred ten of this article from the preceding taxable year or
-as otherwise determined by subdivision (b) of section fifteen hundred
-five of this article, and for taxpayers subject to tax under section
-fifteen hundred two-a of this article, the tax imposed upon the taxpayer
-by such section fifteen hundred two-a of this article from the preceding
-year, or for purposes of computing the first installment of estimated
-tax when an application has been filed for extension of the time for
-filing the return required to be filed for such preceding taxable year,
-the amount properly estimated pursuant to paragraph one of subdivision
-(b) of section fifteen hundred sixteen of this article as the tax
-imposed upon the taxpayer for such taxable year.
+  (f) The second preceding year's tax defined. As used in this section,
+"the second preceding year's tax" means, for taxpayers subject to tax
+under subdivision (b) of section fifteen hundred ten of this article,
+the taxes imposed upon the taxpayer by sections fifteen hundred one and
+fifteen hundred ten of this article from the second preceding taxable
+year or as otherwise determined by subdivision (b) of section fifteen
+hundred five of this article, and for taxpayers subject to tax under
+section fifteen hundred two-a of this article, the tax imposed upon the
+taxpayer by such section fifteen hundred two-a of this article from the
+second preceding year.
   (g) Fiscal year. The provisions of this section shall apply to taxable
 years of twelve months other than a calendar year by the substitution of
 the months of such fiscal year for the corresponding months specified in

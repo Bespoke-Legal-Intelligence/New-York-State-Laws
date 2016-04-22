@@ -10,22 +10,47 @@ months ending at any time during the calendar year nineteen hundred
 seventy and thereafter, every taxpayer subject to the tax imposed by
 section two hundred nine of this chapter must pay with the report
 required to be filed for the preceding privilege period, or with an
-application for extension of the time for filing the report, an amount
-equal to (i) twenty-five percent of the preceding year's tax if the
-preceding year's tax exceeded one thousand dollars but was equal to or
-less than one hundred thousand dollars, or (ii) forty percent of the
-preceding year's tax if the preceding year's tax exceeded one hundred
-thousand dollars.  If the preceding year's tax under section two hundred
-nine of this chapter exceeded one thousand dollars and the taxpayer is
-subject to the tax surcharge imposed by section two hundred nine-B of
-this chapter, the taxpayer must also pay with the tax surcharge report
-required to be filed for the preceding privilege period, or with an
-application for extension of the time for filing the report, an amount
-equal to (i) twenty-five percent of the tax surcharge imposed for the
-preceding year if the preceding year's tax was equal to or less than one
-hundred thousand dollars, or (ii) forty percent of the tax surcharge
-imposed for the preceding year if the preceding year's tax exceeded one
-hundred thousand dollars.
+application for extension of the time for filing the report, for taxable
+years beginning before January first, two thousand sixteen, and must pay
+on or before the fifteenth day of the third month of such privilege
+periods, for taxable years beginning on or after January first, two
+thousand sixteen, an amount equal to (i) twenty-five percent of the
+second preceding year's tax if the second preceding year's tax exceeded
+one thousand dollars but was equal to or less than one hundred thousand
+dollars, or (ii) forty percent of the second preceding year's tax if the
+second preceding year's tax exceeded one hundred thousand dollars. If
+the second preceding year's tax under section two hundred nine of this
+chapter exceeded one thousand dollars and the taxpayer is subject to the
+tax surcharge imposed by section two hundred nine-B of this chapter, the
+taxpayer must also pay with the tax surcharge report required to be
+filed for the second preceding privilege period, or with an application
+for extension of the time for filing the report, for taxable years
+beginning before January first, two thousand sixteen, and must pay on or
+before the fifteenth day of the third month of such privilege periods,
+for taxable years beginning on or after January first, two thousand
+sixteen, an amount equal to (i) twenty-five percent of the tax surcharge
+imposed for the second preceding year if the second preceding year's tax
+was equal to or less than one hundred thousand dollars, or (ii) forty
+percent of the tax surcharge imposed for the second preceding year if
+the second preceding year's tax exceeded one hundred thousand dollars.
+Provided, however, that every taxpayer that is an S corporation must pay
+with the report required to be filed for the preceding privilege period,
+or with an application for extension of the time for filing the report,
+an amount equal to (i) twenty-five percent of the preceding year's tax
+if the preceding year's tax exceeded one thousand dollars but was equal
+to or less than one hundred thousand dollars, or (ii) forty percent of
+the preceding year's tax if the preceding year's tax exceeded one
+hundred thousand dollars. If the preceding year's tax under section two
+hundred nine of this article exceeded one thousand dollars and such
+taxpayer that is an S corporation is subject to the tax surcharge
+imposed by section two hundred nine-B of this article, the taxpayer must
+also pay with the tax surcharge report required to be filed for the
+preceding privilege period, or with an application for extension of the
+time for filing the report, an amount equal to (i) twenty-five percent
+of the tax surcharge imposed for the preceding year if the preceding
+year's tax was equal equal to or less than one hundred thousand dollars,
+or (ii) forty percent of the tax surcharge imposed for the preceding
+year if the preceding year's tax exceeded one hundred thousand dollars.
   (b) Other installments.--In privilege periods of twelve months ending
 at any time during the calendar year nineteen hundred seventy and
 thereafter, the estimated tax or estimated tax surcharge, with respect
@@ -69,7 +94,7 @@ amendment, and if any amendment is made after September fifteenth of the
 privilege period, any increase in the estimated tax or estimated tax
 surcharge by reason thereof shall be paid at the time of making such
 amendment.
-  (d) Application of installments based on the preceding year's
+  (d) Application of installments based on the second preceding year's
 tax.--(1) Any amount paid pursuant to subdivision (a) shall be applied
 after payment as a first installment against the estimated tax or
 estimated tax surcharge, respectively, of the taxpayer for the current
@@ -88,8 +113,8 @@ required to be filed pursuant to section two hundred thirteen-a of this
 article, or if no declaration is filed pursuant to such section, any
 such amount shall be considered a payment on account of the tax on the
 return required to be filed by the taxpayer for such taxable year.
-  (e) Interest on certain installments based on the preceding year's
-tax.--Notwithstanding the provisions of section one thousand
+  (e) Interest on certain installments based on the second preceding
+year's tax.--Notwithstanding the provisions of section one thousand
 eighty-eight of this chapter or of section sixteen of the state finance
 law, if an amount paid pursuant to subdivision (a) exceeds the tax or
 tax surcharge, respectively, shown on the report required to be filed by
@@ -106,15 +131,18 @@ the close of the taxable year, provided, however, that no interest shall
 be allowed or paid under this subdivision if the amount thereof is less
 than one dollar or if such interest becomes payable solely because of a
 carryback of a net operating loss in a subsequent privilege period.
-  (f) The preceding year's tax defined.-- As used in this section, "the
-preceding year's tax" means the tax imposed upon the taxpayer by section
-two hundred nine of this chapter for the preceding calendar or fiscal
-year, or, for purposes of computing the first installment of estimated
-tax when an application has been filed for extension of the time for
-filing the report required to be filed for such preceding calendar or
-fiscal year, the amount properly estimated pursuant to section two
-hundred thirteen of this chapter as the tax imposed upon the taxpayer
-for such calendar or fiscal year.
+  (f) The preceding year's tax and the second preceding year's tax
+defined.-- As used in this section, "the preceding year's tax" means the
+tax imposed upon the taxpayer by section two hundred nine of this
+article for the preceding calendar or fiscal year, or, for purposes of
+computing the first installment of estimated tax when an application has
+been filed for extension of the time for filing the report required to
+be filed for such preceding calendar or fiscal year, the amount properly
+estimated pursuant to section two hundred thirteen of this article as
+the tax imposed upon the taxpayer for such calendar or fiscal year. As
+used in this section, "the second preceding year's tax" means the tax
+imposed upon the taxpayer by section two hundred nine of this article
+for the second preceding calendar or fiscal year.
   (g) Application to short privilege period.--This section shall apply
 to a privilege period of less than twelve months in accordance with
 regulations of the tax commission.

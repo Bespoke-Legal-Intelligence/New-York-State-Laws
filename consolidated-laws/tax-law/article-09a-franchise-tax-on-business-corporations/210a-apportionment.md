@@ -122,12 +122,17 @@ two preceding sentences, (i) a loan secured by real property shall not
 be a qualified financial instrument, (ii) if the only loans that are
 marked to market by the taxpayer under section 475 or section 1256 of
 the internal revenue code are loans secured by real property, then no
-loans shall be qualified financial instruments, and (iii) stock that is
+loans shall be qualified financial instruments, (iii) stock that is
 investment capital as defined in paragraph (a) of subdivision five of
 section two hundred eight of this article shall not be a qualified
-financial instrument. If a corporation is included in a combined report,
-the definition of qualified financial instrument shall be determined on
-a combined basis.
+financial instrument, and (iv) stock that generates other exempt income
+as defined in subdivision six-a of section two hundred eight of this
+article and that is not marked to market under section 475 or section
+1256 of the internal revenue code shall not constitute a qualified
+financial instrument with respect to the income from that stock that is
+described in such subdivision six-a. If a corporation is included in a
+combined report, the definition of qualified financial instrument shall
+be determined on a combined basis.
   (1) Fixed percentage method for qualified financial instruments. In
 determining the inclusion of receipts and net gains from qualified
 financial instruments in the apportionment fraction, taxpayers may elect

@@ -120,13 +120,12 @@ copyright owner in this state prior to such date.
 to the effective date of a chapter of the laws of nineteen hundred
 ninety-nine which added this subdivision.
   * (13) In respect to the use of the following items at a tasting held
-by a licensed brewery, farm brewery, cider producer, farm cidery,
-distillery or farm distillery in accordance with the alcoholic beverage
-control law: (i) the alcoholic beverage or beverages authorized by the
-alcoholic beverage control law to be furnished at no charge to a
-customer or prospective customer at such tasting for consumption at such
-tasting; and (ii) bottles, corks, caps and labels used to package such
-alcoholic beverages.
+by a licensed producer of alcoholic beverages in accordance with the
+alcoholic beverage control law: (i) the alcoholic beverage or beverages
+authorized by the alcoholic beverage control law to be furnished at no
+charge to a customer or prospective customer at such tasting for
+consumption at such tasting; and (ii) bottles, corks, caps and labels
+used to package such alcoholic beverages.
   * NB There are 2 sb (13)'s
   * (13) In respect to the use within the state of a vessel, as defined
 in section twenty-two hundred fifty of the vehicle and traffic law,

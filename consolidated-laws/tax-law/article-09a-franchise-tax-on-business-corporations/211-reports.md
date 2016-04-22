@@ -4,33 +4,37 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 211. Reports. 1. Every taxpayer, as well as every foreign
-corporation having an employee, including any officer, within the state,
-shall annually on or before March fifteenth transmit to the tax
-commission a report in a form prescribed by it (except that a
-corporation which reports on the basis of a fiscal year shall transmit
-its report within two and one-half months after the close of its fiscal
-year and except, also, that a corporation which is a DISC shall transmit
-its report on or before the fifteenth day of the ninth month following
-the close of its calendar or fiscal year), setting forth such
-information as the tax commission may prescribe and every taxpayer which
-ceases to exercise its franchise or to be subject to the tax imposed by
-this article shall transmit to the tax commission a report on the date
-of such cessation or at such other time as the tax commission may
-require covering each year or period for which no report was theretofore
-filed. In the case of a termination year of an S corporation, the S
-short year and the C short year shall be treated as separate short
-taxable years, provided, however, the due date of the report for the S
-short year shall be the same as the due date of the report for the C
-short year. Every taxpayer shall also transmit such other reports and
-such facts and information as the tax commission may require in the
-administration of this article.  The tax commission may grant a
-reasonable extension of time for filing reports whenever good cause
-exists.
+  § 211. Reports. 1. Every taxpayer shall annually on or before March
+fifteenth, for taxable years beginning before January first, two
+thousand sixteen, and annually on or before April fifteenth, for taxable
+years beginning on or after January first, two thousand sixteen,
+transmit to the commissioner a report in a form prescribed by the
+commissioner (except that a corporation which reports on the basis of a
+fiscal year shall transmit its report within two and one-half months
+after the close of its fiscal year, for taxable years beginning before
+January first, two thousand sixteen, and on or before the fifteenth day
+of the fourth month after the close of its fiscal year, for taxable
+years beginning on or after January first, two thousand sixteen, and
+except, also, that a corporation which is a DISC shall transmit its
+report on or before the fifteenth day of the ninth month following the
+close of its calendar or fiscal year), setting forth such information as
+the commissioner may prescribe and every taxpayer which ceases to
+exercise its franchise or to be subject to the tax imposed by this
+article shall transmit to the commissioner a report on the date of such
+cessation or at such other time as the commissioner may require covering
+each year or period for which no report was theretofore filed. In the
+case of a termination year of an S corporation, the S short year and the
+C short year shall be treated as separate short taxable years, provided,
+however, the due date of the report for the S short year shall be the
+same as the due date of the report for the C short year. Every taxpayer
+shall also transmit such other reports and such facts and information as
+the commissioner may require in the administration of this article. The
+commissioner may grant a reasonable extension of time for filing reports
+whenever good cause exists.
   An automatic extension of six months for the filing of its annual
 report shall be allowed any taxpayer if, within the time prescribed by
-the preceding paragraph, such taxpayer files with the tax commission an
-application for extension in such form as said commission may prescribe
+the preceding paragraph, such taxpayer files with the commissioner an
+application for extension in such form as the commissioner may prescribe
 by regulation and pays on or before the date of such filing the amount
 properly estimated as its tax.
   2. Every report shall have annexed thereto a certification by the

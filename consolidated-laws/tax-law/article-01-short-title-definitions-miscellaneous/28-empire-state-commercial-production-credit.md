@@ -16,7 +16,7 @@ production costs (excluding post production costs) paid or incurred
 directly and predominantly in the actual filming or recording of the
 qualified commercial must be costs incurred in New York state. The tax
 credit allowed pursuant to this section shall apply to taxable years
-beginning before January first, two thousand seventeen.
+beginning before January first, two thousand nineteen.
   (2) The state has annually seven million dollars in total tax credits
 to disburse to all eligible commercial production companies. The seven
 million dollars in total tax credits shall be allocated according to

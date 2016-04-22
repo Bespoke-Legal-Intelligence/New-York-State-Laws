@@ -476,7 +476,7 @@ apply to any item attributable to a tax shelter.
   (iii) any other plan or arrangement,
 if a significant purpose of such partnership, entity, plan, or
 arrangement is the avoidance or evasion of tax.
-  * NB Effective until July 1, 2015
+  * NB Effective until July 1, 2019
   * (p) Substantial understatement of liability.--If there is a
 substantial understatement of income tax for any taxable year, there
 shall be added to the tax an amount equal to ten percent of the amount
@@ -499,7 +499,7 @@ return. The tax commission may waive all or any part of the addition to
 tax provided by this subsection on a showing by the taxpayer that there
 was reasonable cause for the understatement, or part thereof, and that
 the taxpayer acted in good faith.
-  * NB Effective July 1, 2015
+  * NB Effective July 1, 2019
   * (p-1) Reportable transaction understatement.-- (1) If a taxpayer has
 a reportable transaction understatement for any taxable year, there
 shall be added to the tax an amount equal to twenty percent of the
@@ -618,7 +618,7 @@ agreements of the taxpayer or any other person,
   (III) does not identify and consider all relevant facts, or
   (IV) fails to meet any other requirement as the commissioner may
 prescribe.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   (p-2) No penalty will be imposed pursuant to subsection (c) or (p) of
 this section for a taxable year beginning on or after January first, two
 thousand eight and before January first, two thousand nine resulting
@@ -746,7 +746,7 @@ then such preparer shall be subject to a penalty of fifty dollars for
 each such failure to electronically file a return, unless it is shown
 that such failure is due to reasonable cause and not due to willful
 neglect.
-  * NB Effective January 1, 2017
+  * NB Effective January 1, 2020
   (v) Failure to perform certain acts with respect to the quarterly
 combined withholding, wage reporting and unemployment insurance return.
 (1) Failure to file. (A) Delinquency. (i) General. If an employer fails
@@ -989,7 +989,7 @@ than a listed transaction, and
 requirements of this chapter and effective tax administration.
   (5) The penalty imposed by this section shall be in addition to any
 other penalty imposed by this chapter.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   * (y) Failure to disclose or provide reportable transaction return.--
 (1) Any person who fails to file, disclose or provide any statement,
 return or other document which is required under subdivision (b) of
@@ -1034,7 +1034,7 @@ of a penalty under clause (ii) of subparagraph (B) of paragraph two of
 subsection (q) of section one thousand eighty-five of this chapter for
 the same failure that is the basis for a penalty under clause (ii) of
 subparagraph (B) of paragraph two of this subsection.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   * (z) Failure to maintain list of advisees.-- (1) If any person who is
 required to maintain a list under subdivision (c) of section twenty-five
 of this chapter fails to make a duplicate of such list available, upon
@@ -1045,7 +1045,7 @@ after such twentieth day.
   (2) No penalty shall be imposed by paragraph one of this subsection
 with respect to the failure on any day if such failure is due to
 reasonable cause.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   * (aa) Tax preparer penalty.-- (1) If:
   (A) any part of any understatement of liability with respect to any
 return or claim for refund is due to a position for which there was not
@@ -1080,7 +1080,7 @@ the net amount creditable or refundable with respect to any such tax.
   (4) This subsection shall not apply if the penalty under subsection
 (r) of this section is imposed on the tax return preparer with respect
 to such understatement.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   * (bb) Promoting abusive tax shelters.-- (1) Any person who
   (A)(i) organizes (or assists in the organization of)
   (I) a partnership or other entity,
@@ -1133,7 +1133,7 @@ overstatement on a showing that there was a reasonable basis for the
 valuation and that such valuation was made in good faith.
   (3) The penalty imposed by this subsection shall be in addition to any
 other penalty provided by law.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   (cc) False or fraudulent document penalty. Any taxpayer that submits a
 false or fraudulent document to the department will be subject to a
 penalty of one hundred dollars per document submitted, or five hundred

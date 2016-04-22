@@ -26,7 +26,7 @@ airplanes, and except CNG, and except hydrogen, and except E85 when
 delivered to a filling station and placed in a storage tank of such
 filling station for such E85 to be dispensed directly into a motor
 vehicle for use in the operation of such vehicle.
-  * NB Effective until September 1, 2016
+  * NB Effective until December 1, 2017
   * (1) Every distributor of motor fuel shall pay, as a prepayment on
 account of the taxes imposed by this article and pursuant to the
 authority of article twenty-nine of this chapter, a tax on each gallon
@@ -44,8 +44,33 @@ or two of subdivision (a) of section eleven hundred sixteen of this
 article or a hospital included in the organizations described in
 paragraph four of such subdivision for its own use and consumption and
 except kero-jet fuel when imported by an airline for use in its
-airplanes.
-  * NB Effective September 1, 2016
+airplanes, and except CNG, and except hydrogen, and except E85 when
+delivered to a filling station and placed in a storage tank of such
+filling station for such E85 to be dispensed directly into a motor
+vehicle for use in the operation of such vehicle, and except aviation
+gasoline sold for use in commercial aircraft and general aviation
+aircraft.
+  * NB Effective December 1, 2017 until September 1, 2021
+  * (1) Every distributor of motor fuel shall pay, as a prepayment on
+account of the taxes imposed by this article and pursuant to the
+authority of article twenty-nine of this chapter, a tax on each gallon
+of motor fuel (i) which he imports or causes to be imported into this
+state for use, distribution, storage or sale in the state or produces,
+refines, manufactures or compounds in this state or (ii) if the tax has
+not been imposed prior to its sale in this state, which he sells (which
+acts shall in regard to motor fuel hereinafter in this article be
+encompassed by the phrase "imported, manufactured or sold"), except when
+imported, manufactured or sold under circumstances which preclude the
+collection of such tax by reason of the United States constitution and
+of the laws of the United States enacted pursuant thereto or when
+imported or manufactured by an organization described in paragraph one
+or two of subdivision (a) of section eleven hundred sixteen of this
+article or a hospital included in the organizations described in
+paragraph four of such subdivision for its own use and consumption and
+except kero-jet fuel when imported by an airline for use in its
+airplanes, and except aviation gasoline sold for use in commercial
+aircraft and general aviation aircraft.
+  * NB Effective September 1, 2021
   * (2) Every distributor of diesel motor fuel shall pay, as a
 prepayment on account of the taxes imposed by this article and pursuant
 to the authority of article twenty-nine of this chapter, a tax upon the
@@ -87,7 +112,7 @@ chapter, or (B) within such a terminal where it has been so delivered.
 Provided, however, that the exemption set forth in this subparagraph
 shall not apply to any highway diesel motor fuel if it is removed from a
 terminal, other than by pipeline, barge, tanker or other vessel.
-  * NB Effective until September 1, 2016
+  * NB Effective until September 1, 2021
   * (2) Every distributor of diesel motor fuel shall pay, as a
 prepayment on account of the taxes imposed by this article and pursuant
 to the authority of article twenty-nine of this chapter, a tax upon the
@@ -129,7 +154,7 @@ where it has been so delivered. Provided, however, that the exemption
 set forth in this subparagraph shall not apply to any highway diesel
 motor fuel once it is removed from a terminal, other than by pipeline,
 barge, tanker or other vessel.
-  * NB Effective September 1, 2016
+  * NB Effective September 1, 2021
   (3) The amount of such prepayment per gallon shall be computed
 pursuant to the provisions of subdivision (e) of section eleven hundred
 eleven of this article. Provided, further, no motor fuel or diesel motor
@@ -231,4 +256,11 @@ this article, the exercise of any right or power over motor fuel or
 diesel motor fuel by any person, whether or not a purchaser, including,
 but not limited to, the receiving, the withdrawal from storage or any
 consumption of such fuel.
+  * (f) Every wholesaler of motor fuel, as such term is defined by
+subdivision twenty-seven of section two hundred eighty-two of this
+chapter, shall pay or be entitled to a credit or refund of the tax
+imposed by this section on gallons of motor fuel under the circumstances
+set forth in paragraph three of subdivision (e) of section eleven
+hundred eleven of this article.
+  * NB Effective December 1, 2016
 ```

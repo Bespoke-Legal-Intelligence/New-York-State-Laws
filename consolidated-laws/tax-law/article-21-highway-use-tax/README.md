@@ -7,6 +7,7 @@
 
 - [§ 501 Definitions](501-definitions.md)
 - [§ 502 Highway use registration](502-highway-use-registration.md)
+- [§ 502-A Certificate of registration and decal fees](502a-certificate-of-registration-and-decal-fees.md)
 - [§ 503 Imposition of tax](503-imposition-of-tax.md)
 - [§ 503-A Imposition of additional tax](503a-imposition-of-additional-tax.md)
 - [§ 503-B Supplemental tax](503b-supplemental-tax.md)
@@ -33,6 +34,7 @@
                              HIGHWAY USE TAX
 Section 501.   Definitions.
         502.   Highway use registration.
+        502-a. Certificate of registration and decal fees.
         503.   Imposition of tax.
         503-a. Imposition of additional tax.
         503-b. Supplemental tax.

@@ -121,6 +121,7 @@
 - [§ 483-B Historic barns](483b-historic-barns.md)
 - [§ 483-C Temporary greenhouses](483c-temporary-greenhouses.md)
 - [§ 483-D Farm or food processing labor camps or commissaries](483d-farm-or-food-processing-labor-camps-or-commissaries.md)
+- [§ 483-E Anaerobic digestion facilities](483e-anaerobic-digestion-facilities.md)
 - [§ 484 Urban redevelopment corporations and companies](484-urban-redevelopment-corporations-and-companies.md)
 - [§ 485 Nuclear powered electric generating facilities](485-nuclear-powered-electric-generating-facilities.md)
 - [§ 485-A Residential-commercial urban exemption program](485a-residential-commercial-urban-exemption-program.md)
@@ -363,6 +364,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         483-b.   Historic barns.
         483-c.   Temporary greenhouses.
         483-d.   Farm or food processing labor camps or commissaries.
+        483-e.   Anaerobic digestion facilities.
         484.     Urban redevelopment corporations and companies.
         485.     Nuclear powered electric generating facilities.
         485-a.   Residential-commercial urban exemption program.

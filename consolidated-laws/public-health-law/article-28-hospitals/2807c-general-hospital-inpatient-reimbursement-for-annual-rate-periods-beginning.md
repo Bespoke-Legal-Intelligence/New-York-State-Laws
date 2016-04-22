@@ -1636,8 +1636,11 @@ such two thousand five reported operating costs, but not including
 reported direct medical education cost, shall, for rate-setting
 purposes, be held to a ceiling of one hundred ten percent of the average
 of such reported costs in the region in which the facility is located,
-as determined pursuant to clause (E) of subparagraph (iii) of paragraph
-(1) of this subdivision.
+as determined pursuant to clause (E) of subparagraph (iv) of paragraph
+(1) of this subdivision; and provided, further, that for physical
+medical rehabilitation services, the commissioner is authorized to make
+adjustments to such rates for the purposes of reimbursing pediatric
+ventilator services.
   (ii) For services provided by rural hospitals designated as critical
 access hospitals in accordance with title XVIII of the federal social
 security act, the operating cost component of such rates shall reflect

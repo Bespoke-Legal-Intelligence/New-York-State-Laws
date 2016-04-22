@@ -9,53 +9,64 @@ this article shall report as follows:
   * 1. Corporations paying franchise tax. Every corporation, association
 or joint-stock company liable to pay a tax under section one hundred
 eighty-three or one hundred eighty-five of this chapter shall, on or
-before March fifteenth in each year, make a written report to the tax
-commission of its condition at the close of its business on the
-preceding December thirty-first, stating the amount of its authorized
-capital stock, the amount of stock paid in, the date and rate per centum
-of each dividend paid by it during the year ending with such day, the
-entire amount of the capital of such corporation, and the capital
-employed by it in this state during such year.
+before March fifteenth in each year, for taxable years beginning before
+January first, two thousand seventeen, and on or before April fifteenth
+in each year, for taxable years beginning on or after January first, two
+thousand seventeen, make a written report to the commissioner of its
+condition at the close of its business on the preceding December
+thirty-first, stating the amount of its authorized capital stock, the
+amount of stock paid in, the date and rate per centum of each dividend
+paid by it during the year ending with such day, the entire amount of
+the capital of such corporation, and the capital employed by it in this
+state during such year.
   * NB Effective until January 1, 2018
   * 1. Corporations paying franchise tax. Every corporation, association
 or joint-stock company liable to pay a tax under section one hundred
 eighty-three of this chapter shall, on or before March fifteenth in each
-year, make a written report to the tax commission of its condition at
-the close of its business on the preceding December thirty-first,
-stating the amount of its authorized capital stock, the amount of stock
-paid in, the date and rate per centum of each dividend paid by it during
-the year ending with such day, the entire amount of the capital of such
-corporation, and the capital employed by it in this state during such
-year.
+year, for taxable years beginning before January first, two thousand
+seventeen, and on or before April fifteenth in each year, for taxable
+years beginning on or after January first, two thousand seventeen, make
+a written report to the commissioner of its condition at the close of
+its business on the preceding December thirty-first, stating the amount
+of its authorized capital stock, the amount of stock paid in, the date
+and rate per centum of each dividend paid by it during the year ending
+with such day, the entire amount of the capital of such corporation, and
+the capital employed by it in this state during such year.
   * NB Effective January 1, 2018
   2. Transportation and transmission corporations. Every transportation
 or transmission corporation, joint-stock company or association liable
 to pay an additional franchise tax under section one hundred eighty-four
 of this chapter, shall also, on or before March fifteenth of each year,
-make a written report to the tax commission of the amount of its gross
+make a written report to the commissioner of the amount of its gross
 earnings subject to the tax imposed by said section for the year ended
-on the preceding December thirty-first, except that the year ended on
+on the preceding December thirty-first, for taxable years beginning
+before January first, two thousand sixteen, except that the year ended
+on December thirty-first, nineteen hundred seventy-six shall be deemed,
+for the purposes of this subdivision, to have commenced on July first,
+nineteen hundred seventy-six, and shall also, on or before April
+fifteenth of each year, make a written report to the commissioner of the
+amount of its gross earnings subject to the tax imposed by said section
+for the year ended on the preceding December thirty-first, for taxable
+years beginning on or after January first, two thousand sixteen. Any
+such corporation, joint-stock company or association which ceases to be
+subject to the tax imposed by section one hundred eighty-four of this
+chapter by reason of a liquidation, dissolution, merger or consolidation
+with any other corporation, or any other cause, shall, on the date of
+such cessation or at such other time as the commissioner may require,
+make a written report to the commissioner of the amount of its gross
+earnings subject to the tax imposed by section one hundred eighty-four
+of this chapter for any period for which no report was theretofore
+filed. Any corporation, joint-stock company or association subject to a
+tax upon dividends under said section one hundred eighty-four of this
+chapter shall also include in its report under this subdivision required
+to be filed a statement of the authorized capital of the company, the
+amount of capital stock issued, and the amount of dividends of every
+nature paid during the year ended on the preceding December
+thirty-first. As to tax payers subject to such tax upon dividends under
+said section one hundred eighty-four of this chapter, the year ended on
 December thirty-first, nineteen hundred seventy-six shall be deemed, for
 the purposes of this subdivision, to have commenced on July first,
-nineteen hundred seventy-six. Any such corporation, joint-stock company
-or association which ceases to be subject to the tax imposed by section
-one hundred eighty-four of this chapter by reason of a liquidation,
-dissolution, merger or consolidation with any other corporation, or any
-other cause, shall, on the date of such cessation or at such other time
-as the tax commission may require, make a written report to the tax
-commission of the amount of its gross earnings subject to the tax
-imposed by section one hundred eighty-four of this chapter for any
-period for which no report was theretofore filed. Any corporation,
-joint-stock company or association subject to a tax upon dividends under
-said section one hundred eighty-four of this chapter shall also include
-in its report under this subdivision required to be filed a statement of
-the authorized capital of the company, the amount of capital stock
-issued, and the amount of dividends of every nature paid during the year
-ended on the preceding December thirty-first. As to tax payers subject
-to such tax upon dividends under said section one hundred eighty-four of
-this chapter, the year ended on December thirty-first, nineteen hundred
-seventy-six shall be deemed, for the purposes of this subdivision, to
-have commenced on July first, nineteen hundred seventy-six.
+nineteen hundred seventy-six.
   4. Insurance corporations. (a) Except as hereinafter provided in
 paragraph (b), every insurance corporation liable to pay a tax under
 section one hundred eighty-seven of this chapter shall, on or before

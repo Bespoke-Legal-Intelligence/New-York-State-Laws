@@ -149,7 +149,7 @@ principal purpose of avoiding tax. Abusive tax avoidance transactions
 include, but are not limited to, listed transactions described in
 paragraph five of subsection (k-1) of section one thousand eighty-five
 of this article.
-  * NB Repealed July 1, 2015
+  * NB Repealed July 1, 2019
   (d) Omission of income on return.---The tax may be assessed at any
 time within six years after the return was filed if (i) a taxpayer omits
 from gross income required to be reported on a return under article

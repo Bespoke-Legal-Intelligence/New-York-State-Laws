@@ -51,7 +51,23 @@ representative of such registered organization, a certified copy of any
 return or report filed by such registered organization pursuant to this
 article, nor to prohibit the publication of statistics so classified as
 to prevent the identification of particular returns or reports and the
-items thereof.
+items thereof. This section shall also not be construed to prohibit the
+disclosure, for tax administration purposes, to the division of the
+budget and the office of the state comptroller, of information
+aggregated from the returns filed by all the registered organizations
+making sales of, or manufacturing, medical marihuana in a specified
+county, whether the number of such registered organizations is one or
+more. Provided further that, notwithstanding the provisions of this
+subdivision, the commissioner may, in his or her discretion, permit the
+proper officer of any county entitled to receive an allocation,
+following appropriation by the legislature, pursuant to this article and
+section eighty-nine-h of the state finance law, or the authorized
+representative of such officer, to inspect any return filed under this
+article, or may furnish to such officer or the officer's authorized
+representative an abstract of any such return or supply such officer or
+such representative with information concerning an item contained in any
+such return, or disclosed by any investigation of tax liability under
+this article.
   2. The commissioner, in his or her discretion and pursuant to such
 rules and regulations as he or she may adopt, may permit the
 commissioner of internal revenue of the United States, or the

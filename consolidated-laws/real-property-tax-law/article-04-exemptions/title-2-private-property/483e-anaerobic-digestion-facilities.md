@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 483-E", "kind": "section", "law_id": "RPT", "location_id": "483-E", "path": "ARTICLE 4 › TITLE 2 › SECTION 483-E", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/483-E.md", "title": "Anaerobic digestion facilities"} -->
+# Real Property Tax Law § 483-E — Anaerobic digestion facilities
+
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
+
+```text
+  § 483-e. Anaerobic digestion facilities. 1. Structures permanently
+affixed to land for the purpose of anaerobic digestion of agricultural
+materials, including structures necessary for the storage and handling
+of the agricultural materials that are part of the digestion process,
+together with any equipment necessary for producing, collecting,
+storing, cleaning and converting biogas into forms of energy and
+generation, transmission, transporting, use of and/or the sale of biogas
+or energy on-site, off-site, and/or pursuant to an interconnection
+agreement with a utility; shall be exempt from taxation, special ad
+valorem levies and special assessments. "Agricultural materials"
+includes, but is not limited to, livestock manure, farming wastes and
+food residuals and other organic wastes associated with food production
+or consumption with at least fifty percent by weight of its feedstock on
+an annual basis being livestock manure, farming wastes and crops grown
+specifically for use as anaerobic digestion feedstock. "Food residuals"
+means organic material, including, but not limited to, food scraps, food
+processing residue, and related soiled or unrecyclable paper used in
+food packaging, preparation or cleanup.
+  2. The exemption provided by subdivision one of this section shall
+only be granted upon the application of the owner of the property upon
+which such structures are located, on a form to be prescribed by the
+commissioner. Such application shall be filed on or before the
+appropriate taxable status date with the assessor of the municipality
+having the power to assess real property. Once an exemption is granted,
+no renewal thereof shall be necessary.
+```

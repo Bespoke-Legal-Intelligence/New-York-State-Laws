@@ -126,6 +126,7 @@
 - [§ 2825-A Health care facility transformation program: Kings county project](2825a-health-care-facility-transformation-program-kings-county-project.md)
 - [§ 2825-B Oneida county health care facility transformation program: Oneida county project](2825b-oneida-county-health-care-facility-transformation-program-oneida-county-project.md)
 - [§ 2825-C Essential health care provider support program](2825c-essential-health-care-provider-support-program.md)
+- [§ 2825-D Health care facility transformation program: statewide](2825d-health-care-facility-transformation-program-statewide.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 
 <details>
@@ -299,6 +300,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2825-b.   Oneida county health care facility transformation
                     program:  Oneida county project.
         2825-c.   Essential health care provider support program.
+        2825-d.   Health care facility transformation program:
+                    statewide.
         2826.     Temporary adjustment to reimbursement rates.
 ```
 

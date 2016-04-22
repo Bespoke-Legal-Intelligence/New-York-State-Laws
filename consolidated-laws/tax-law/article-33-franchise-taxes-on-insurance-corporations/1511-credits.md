@@ -460,11 +460,11 @@ municipal law to the empire zone enterprise which is the basis of the
 credit.
   (g-1) Hire a vet credit. (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand seventeen, a taxpayer shall be allowed a
+January first, two thousand nineteen, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
-veteran within the state. The taxpayer may claim the credit in the year
+veteran within the state.  The taxpayer may claim the credit in the year
 in which the qualified veteran completes one year of employment by the
 taxpayer. If the taxpayer claims the credit allowed under this
 subdivision, the taxpayer may not use the hiring of a qualified veteran
@@ -479,7 +479,7 @@ militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand sixteen; and
+thousand eighteen; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or

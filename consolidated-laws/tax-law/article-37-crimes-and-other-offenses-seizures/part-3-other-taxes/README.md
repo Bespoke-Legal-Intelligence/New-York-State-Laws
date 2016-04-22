@@ -13,6 +13,7 @@
 - [§ 1812-D Person not licensed as transporter](1812d-person-not-licensed-as-transporter.md)
 - [§ 1812-E Person not registered as a residual petroleum product business](1812e-person-not-registered-as-a-residual-petroleum-product-business.md)
 - [§ 1812-F Article thirteen-A tax](1812f-article-thirteen-a-tax.md)
+- [§ 1812-G Person not registered as a wholesaler of motor fuel](1812g-person-not-registered-as-a-wholesaler-of-motor-fuel.md)
 - [§ 1813 Alcoholic beverage tax](1813-alcoholic-beverage-tax.md)
 - [§ 1814 Cigarette and tobacco products tax](1814-cigarette-and-tobacco-products-tax.md)
 - [§ 1814-A Person not appointed as a tobacco products distributor](1814a-person-not-appointed-as-a-tobacco-products-distributor.md)
@@ -30,13 +31,14 @@
 Section 1811.   Estate, gift and transfer taxes.
         1812.   Motor fuel taxes.
         1812-a. Person not registered as distributor of Diesel motor
-                fuel.
+                  fuel.
         1812-b. Person not registered as distributor.
         1812-c. Person not licensed as terminal operator.
         1812-d. Person not licensed as transporter.
         1812-e. Person not registered as a residual petroleum product
-                business.
+                  business.
         1812-f. Article thirteen-A tax.
+        1812-g. Person not registered as a wholesaler of motor fuel.
         1813.   Alcoholic beverage tax.
         1814.   Cigarette and tobacco products tax.
         1814-a. Person not appointed as a tobacco products distributor.
@@ -45,7 +47,7 @@ Section 1811.   Estate, gift and transfer taxes.
         1818.   Real estate transfer tax.
         1820.   Boxing and wrestling exhibitions tax.
         1821.   Medallion taxicab owners tax in the metropolitan
-                commuter transportation district.
+                  commuter transportation district.
 ```
 
 </details>

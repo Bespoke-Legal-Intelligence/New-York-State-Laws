@@ -6,31 +6,29 @@
 ```text
   § 502. Highway use registration. 1. a. Each carrier shall apply to the
 commissioner for a certificate of registration for each motor vehicle
-operated or to be operated by him on the public highways in this state.
-Application shall be made upon a form prescribed by such commissioner
-and shall set forth the gross and unloaded weight of each motor vehicle,
-license plate information for each motor vehicle and such other
-information as the commissioner may require. Such weights shall be
-subject to audit and approval by the commissioner. The application shall
-be accompanied by a fee of fifteen dollars for each motor vehicle listed
-in the application. The commissioner shall issue without further charge
-a certificate of registration for each motor vehicle or a consolidated
-certificate of registration for all or any portion of such vehicles of
-such carrier which shall contain such information and be in such form as
-the commissioner shall prescribe. In the case of the loss, mutilation or
-destruction of a certificate of registration, the commissioner shall
-issue a duplicate thereof upon payment of a fee of two dollars. Any such
-certificate of registration shall not be transferable, except as
-hereinafter provided, and shall be valid until revoked, suspended or
-surrendered. Such certificate of registration shall be maintained in the
-carrier's regular place of business. In the event of an increase in the
-gross or unloaded weight of any motor vehicle subject to this article,
-application for a corrected certificate of registration shall be made
-upon a form prescribed by such commissioner setting forth the previous
-gross or unloaded weight, the new gross or unloaded weight and such
-other information as the commissioner may require. In the event of a
-decrease in the gross or unloaded weight of any motor vehicle subject to
-this article, application may be made for a corrected certificate of
+operated or to be operated by such carrier on the public highways in
+this state. Application shall be made upon a form prescribed by such
+commissioner and shall set forth the gross and unloaded weight of each
+motor vehicle, license plate information for each motor vehicle and such
+other information as the commissioner may require. Such weights shall be
+subject to audit and approval by the commissioner. The commissioner
+shall issue a certificate of registration for each motor vehicle or a
+consolidated certificate of registration for all or any portion of such
+vehicles of such carrier which shall contain such information and be in
+such form as the commissioner shall prescribe. In the case of the loss,
+mutilation or destruction of a certificate of registration, the
+commissioner shall issue a duplicate thereof. Any such certificate of
+registration shall not be transferable, except as hereinafter provided,
+and shall be valid until revoked, suspended or surrendered. Such
+certificate of registration shall be maintained in the carrier's regular
+place of business. In the event of an increase in the gross or unloaded
+weight of any motor vehicle subject to this article, application for a
+corrected certificate of registration shall be made upon a form
+prescribed by such commissioner setting forth the previous gross or
+unloaded weight, the new gross or unloaded weight and such other
+information as the commissioner may require. In the event of a decrease
+in the gross or unloaded weight of any motor vehicle subject to this
+article, application may be made for a corrected certificate of
 registration in a similar manner, provided that any such application on
 the basis of a decrease in the gross or unloaded weight of any motor
 vehicle may be made only during the month of January. In the event of a
@@ -44,40 +42,38 @@ corrected certificate of registration shall be made upon a form
 prescribed by the commissioner setting forth the previous license plate
 information, the new license plate information and such other
 information as the commissioner may require. Upon surrendering the
-certificate of registration previously issued, the commissioner shall,
-without further charge, issue a corrected certificate of registration.
+certificate of registration previously issued, the commissioner shall
+issue a corrected certificate of registration.
   b. Every automotive fuel carrier shall apply to the commissioner for a
 special certificate of registration, in place of the certificate of
 registration described in paragraph a of this subdivision, for each
-motor vehicle operated or to be operated by him on the public highways
-in this state to transport automotive fuel. Provided, however, a special
-certificate of registration shall not be required under this paragraph
-for a tractor or other self-propelled device which, except with respect
-to the fuel in the ordinary fuel tank intended for its propulsion,
-transports automotive fuel solely by means of a trailer, dolly or other
-device drawn by such tractor or other self-propelled device if a
-certificate of registration prescribed by paragraph a of this
-subdivision has been issued for the self-propelled device. Application
-shall be made upon an application form prescribed by the commissioner.
-The application shall be accompanied by a fee of fifteen dollars for
-each trailer, semi-trailer, dolly or other device listed in the
-application. The commissioner shall issue without further charge such
-special certificate of registration for each motor vehicle listed in the
-application or a consolidated certificate of registration for all or any
-portion of such vehicles of such carrier. All of the provisions of this
-article with respect to certificates of registration shall be applicable
-to the special certificates of registration issued to automotive fuel
-carriers under this paragraph as if those provisions had been set forth
-in full in this paragraph and expressly referred to the special
-certificates of registration required by this paragraph except to the
-extent that any such provision is either inconsistent with a provision
-of this paragraph or not relevant to the certificates of registration
-required by this paragraph. Any certificate of registration shall not be
-transferable, and shall be valid until revoked, suspended or
-surrendered. Such special certificate of registration shall be
-maintained in the carrier's regular place of business. Nothing contained
-in this paragraph shall in any way exempt an automotive fuel carrier
-from payment of the taxes imposed pursuant to this article.
+motor vehicle operated or to be operated by such carrier on the public
+highways in this state to transport automotive fuel. Provided, however,
+a special certificate of registration shall not be required under this
+paragraph for a tractor or other self-propelled device which, except
+with respect to the fuel in the ordinary fuel tank intended for its
+propulsion, transports automotive fuel solely by means of a trailer,
+dolly or other device drawn by such tractor or other self-propelled
+device if a certificate of registration prescribed by paragraph a of
+this subdivision has been issued for the self-propelled device.
+Application shall be made upon an application form prescribed by the
+commissioner. The commissioner shall issue such special certificate of
+registration for each motor vehicle listed in the application or a
+consolidated certificate of registration for all or any portion of such
+vehicles of such carrier. All of the provisions of this article with
+respect to certificates of registration shall be applicable to the
+special certificates of registration issued to automotive fuel carriers
+under this paragraph as if those provisions had been set forth in full
+in this paragraph and expressly referred to the special certificates of
+registration required by this paragraph except to the extent that any
+such provision is either inconsistent with a provision of this paragraph
+or not relevant to the certificates of registration required by this
+paragraph. Any certificate of registration shall not be transferable,
+and shall be valid until revoked, suspended or surrendered. Such special
+certificate of registration shall be maintained in the carrier's regular
+place of business. Nothing contained in this paragraph shall in any way
+exempt an automotive fuel carrier from payment of the taxes imposed
+pursuant to this article.
   c. In lieu of the certificate of registration provided for in
 paragraph a of this subdivision, but not in place of any certificate of
 registration required by paragraph b of this subdivision, any carrier,
@@ -147,15 +143,13 @@ required by paragraph a of subdivision one of this section. If the
 commissioner requires the use of decals, the commissioner shall issue
 for each motor vehicle with a valid certificate of registration a decal
 that shall be of a size and design and containing such information as
-the commissioner prescribes. The fee for any decal issued pursuant to
-this paragraph is four dollars. In the case of the loss, mutilation, or
+the commissioner prescribes. In the case of the loss, mutilation, or
 destruction of a decal, the commissioner shall issue a new decal upon
-proof of the facts and payment of four dollars. The decal shall be
-firmly and conspicuously affixed upon the motor vehicle for which it is
-issued as closely as practical to the registration or license plates and
-at all times be visible and legible. No decal is transferable. A decal
-shall be valid until it expires or is revoked, suspended, or
-surrendered.
+proof of the facts. The decal shall be firmly and conspicuously affixed
+upon the motor vehicle for which it is issued as closely as practical to
+the registration or license plates and at all times be visible and
+legible. No decal is transferable. A decal shall be valid until it
+expires or is revoked, suspended, or surrendered.
   b. The commissioner may require the use of special decals as evidence
 that an automotive fuel carrier has a valid special certificate of
 registration for each motor vehicle operated or to be operated on the
@@ -165,16 +159,15 @@ requires the use of special decals, the commissioner shall issue for
 each motor vehicle with a valid special certificate of registration a
 special decal that shall be distinctively colored and of a size and
 design and containing such information as the commissioner prescribes.
-The fee for any special decal issued pursuant to this paragraph is four
-dollars. In the case of the loss, mutilation, or destruction of a
-special decal, the commissioner shall issue a new special decal upon
-proof of the facts and payment of four dollars. The special decal shall
-be firmly and conspicuously affixed upon the motor vehicle for which it
-is issued pursuant to the rules and regulations prescribed by the
-commissioner to enable the easy identification of the automotive fuel
-carrier certificate of registration number and at all times be visible
-and legible. No special decal is transferable and shall be valid until
-it expires or is revoked, suspended, or surrendered.
+In the case of the loss, mutilation, or destruction of a special decal,
+the commissioner shall issue a new special decal upon proof of the
+facts. The special decal shall be firmly and conspicuously affixed upon
+the motor vehicle for which it is issued pursuant to the rules and
+regulations prescribed by the commissioner to enable the easy
+identification of the automotive fuel carrier certificate of
+registration number and at all times be visible and legible. No special
+decal is transferable and shall be valid until it expires or is revoked,
+suspended, or surrendered.
   c. The suspension or revocation of any certificate of registration
 issued under this article shall be deemed to include the suspension and
 revocation of any decal issued under this subdivision.

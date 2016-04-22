@@ -168,7 +168,7 @@ his/her eighteenth birthday and remains in care, and who:
 residing on or is domiciled within an Indian reservation.
   * 37. "Comprehensive psychiatric emergency program" shall have the
 meaning defined in section 1.03 of the mental hygiene law.
-  * NB Repealed July 1, 2016
+  * NB Repealed July 1, 2020
   38. When used in this chapter, the following terms shall have the
 following meanings, unless otherwise expressly stated or unless the
 context or subject matter requires a different interpretation:

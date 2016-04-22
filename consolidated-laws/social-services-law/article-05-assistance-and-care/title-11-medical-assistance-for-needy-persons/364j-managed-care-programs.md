@@ -230,6 +230,12 @@ of the public health law shall not be provided to medical assistance
 recipients through managed care programs established pursuant to this
 section, and shall continue to be provided outside of managed care
 programs and in accordance with applicable reimbursement methodologies.
+  (d-2) Services provided pursuant to waivers, granted pursuant to
+subsection (c) of section 1915 of the federal social security act, to
+persons suffering from traumatic brain injuries or qualifying for
+nursing home diversion and transition services, shall not be provided to
+medical assistance recipients through managed care programs until at
+least January first, two thousand eighteen.
   (e) The following categories of individuals may be required to enroll
 with a managed care program when program features and reimbursement
 rates are approved by the commissioner of health and, as appropriate,
@@ -1222,6 +1228,13 @@ determination for coverage of prescription drug benefits under this
 title. The managed care provider shall make the standard prior
 authorization request form or forms available to, and shall accept it or
 them from, prescribing providers in paper and electronic form.
+  26-a. Managed care providers shall require prior authorization of
+prescriptions of opioid analgesics in excess of four prescriptions in a
+thirty-day period, provided, however, that this subdivision shall not
+apply if the patient is a recipient of hospice care, has a diagnosis of
+cancer or sickle cell disease, or any other condition or diagnosis for
+which the commissioner of health determines prior authorization is not
+required.
   ** 27. The commissioner of the department of health may make any
 necessary amendments to a contract pursuant to this section with a
 managed care provider, as defined in paragraph (b) of subdivision one of
@@ -1434,6 +1447,53 @@ to paragraph (e) of subdivision two of section three hundred
 sixty-five-a of this title or section three hundred sixty-five-f of this
 title, respectively, or other long-term care, and provide such care or
 services as appropriate, pending approval by such provider or program.
+  32. (a) The commissioner may, in his or her discretion, apply
+penalties to managed care organizations subject to this section and
+article forty-four of the public health law, including managed long term
+care plans, for untimely or inaccurate submission of encounter data;
+provided however, no penalty shall be assessed if the managed care
+organization submits, in good faith, timely and accurate data that is
+not successfully received by the department as a result of department
+system failures or technical issues that are beyond the control of the
+managed care organization.
+  (b) The commissioner shall consider the following prior to assessing a
+penalty against a managed care organization and have the discretion to
+reduce or eliminate a penalty:
+  (i) the degree to which the data submitted is inaccurate and the
+frequency of inaccurate data submissions by the managed care
+organization;
+  (ii) the degree to which the data submitted is untimely and the
+frequency of untimely data submissions by the managed care organization;
+  (iii) the timeliness of the managed care organization in curing or
+correcting inaccurate or untimely data;
+  (iv) whether the untimely or inaccurate data was submitted by the
+managed care organization or a third party;
+  (v) whether the managed care organization has taken corrective action
+to reduce the likelihood of future inaccurate or untimely data
+submissions; and
+  (vi) whether the managed care organization was or should have been
+aware of inaccurate or untimely data.
+  For purposes of this section, "encounter data" shall mean the
+transactions required to be reported under the model contract. Any
+penalty assessed under this subdivision shall be calculated as a
+percentage of the administrative component of the Medicaid premium
+calculated by the department.
+  (c) Such penalties shall be as follows:
+  (i) for encounter data submitted or resubmitted past the deadlines set
+forth in the model contract, Medicaid premiums shall be reduced by one
+and one-half percent; and
+  (ii) for incomplete or inaccurate encounter data that fails to conform
+to department developed benchmarks for completeness and accuracy,
+Medicaid premiums shall be reduced by one-half percent; and
+  (iii) for submitted data that results in a rejection rate in excess of
+ten percent of department developed volume benchmarks, Medicaid premiums
+shall be reduced by one-half percent.
+  (d) Penalties under this subdivision may be applied to any and all
+circumstances described in paragraph (b) of this subdivision until the
+managed care organization complies with the requirements for submission
+of encounter data. No penalties for late, incomplete or inaccurate
+encounter data shall be assessed against managed care organizations in
+addition to those provided for in this subdivision.
   * NB Repealed March 31, 2019 (per ch. 165/1991)
   * NB Repealed March 31, 2016 (per ch. 710/1988)
 ```

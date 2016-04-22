@@ -5,9 +5,9 @@
 
 ```text
   § 1212. Certain taxes of school districts administered by
-commissioner.  (a) Any school district which is coterminous with, partly
-within or wholly within a city having a population of less than one
-hundred twenty-five thousand, is hereby authorized and empowered, by
+commissioner.  * (a) Any school district which is coterminous with,
+partly within or wholly within a city having a population of less than
+one hundred twenty-five thousand, is hereby authorized and empowered, by
 majority vote of the whole number of its school authorities, to impose
 for school district purposes, within the territorial limits of such
 school district and without discrimination between residents and
@@ -47,6 +47,52 @@ such provision, and shall omit the exemptions provided in paragraph two
 of subdivision (ee) and paragraph two of subdivision (ii) of section
 eleven hundred fifteen of this chapter unless such school district
 elects otherwise.
+  * NB Effective until June 1, 2016
+  * (a) Any school district which is coterminous with, partly within or
+wholly within a city having a population of less than one hundred
+twenty-five thousand, is hereby authorized and empowered, by majority
+vote of the whole number of its school authorities, to impose for school
+district purposes, within the territorial limits of such school district
+and without discrimination between residents and nonresidents thereof,
+the taxes described in subdivision (b) of section eleven hundred five
+(but excluding the tax on prepaid telephone calling services) and the
+taxes described in clauses (E) and (H) of subdivision (a) of section
+eleven hundred ten, including the transitional provisions in subdivision
+(b) of section eleven hundred six of this chapter, so far as such
+provisions can be made applicable to the taxes imposed by such school
+district and with such limitations and special provisions as are set
+forth in this article, such taxes to be imposed at the rate of one-half,
+one, one and one-half, two, two and one-half or three percent which rate
+shall be uniform for all portions and all types of receipts and uses
+subject to such taxes. In respect to such taxes, all provisions of the
+resolution imposing them, except as to rate and except as otherwise
+provided herein, shall be identical with the corresponding provisions in
+such article twenty-eight of this chapter, including the applicable
+definition and exemption provisions of such article, so far as the
+provisions of such article twenty-eight of this chapter can be made
+applicable to the taxes imposed by such school district and with such
+limitations and special provisions as are set forth in this article. The
+taxes described in subdivision (b) of section eleven hundred five (but
+excluding the tax on prepaid telephone calling service) and clauses (E)
+and (H) of subdivision (a) of section eleven hundred ten, including the
+transitional provision in subdivision (b) of such section eleven hundred
+six of this chapter, may not be imposed by such school district unless
+the resolution imposes such taxes so as to include all portions and all
+types of receipts and uses subject to tax under such subdivision (but
+excluding the tax on prepaid telephone calling service) and clauses.
+Provided, however, that, where a school district imposes such taxes,
+such taxes shall omit the provision for refund or credit contained in
+subdivision (d) of section eleven hundred nineteen of this chapter with
+respect to such taxes described in such subdivision (b) of section
+eleven hundred five unless such school district elects to provide such
+provision or, if so elected, to repeal such provision, and shall omit
+the exemptions provided in paragraph two of subdivision (ee) and
+paragraph two of subdivision (ii) of section eleven hundred fifteen of
+this chapter unless such school district elects otherwise, and shall
+omit the exemption provided in paragraph two of subdivision (kk) of
+section eleven hundred fifteen of this chapter unless such school
+district elects otherwise.
+  * NB Effective June 1, 2016
   (b) A tax so imposed shall be in addition to any tax which a county or
 city may impose or may be imposing pursuant to this article or any other
 law, and may be so imposed notwithstanding any inconsistent provisions

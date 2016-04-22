@@ -151,10 +151,17 @@ taxpayer before the last day prescribed for its payment (including any
 amount paid by the taxpayer as estimated tax for a taxable year) shall
 be deemed to have been paid by it on the fifteenth day of the third
 month following the close of the taxable year the income of which is the
-basis for tax under article nine-a, nine-b or nine-c, or on the last day
-prescribed in article nine for the filing of a final return for such
-taxable year, or portion thereof, determined in all cases without regard
-to any extension of time granted the taxpayer.
+basis for tax under article nine-a, or on the last day prescribed in
+article nine for the filing of a final return for such taxable year, or
+portion thereof, determined in all cases without regard to any extension
+of time granted the taxpayer, for taxable years beginning before January
+first, two thousand sixteen, and on the fifteenth day of the fourth
+month following the close of the taxable year the income of which is the
+basis for tax under article nine-a, or on the last day prescribed in
+article nine for the filing of a final return for such taxable year, or
+portion thereof, determined in all cases without regard to any extension
+of time granted the taxpayer, for taxable years beginning on or after
+January first, two thousand sixteen.
   (j) Cross reference.--For provision barring refund of overpayment
 credited against tax of a succeeding year, except for good cause shown,
 see subsection (b) of section one thousand eighty-six.

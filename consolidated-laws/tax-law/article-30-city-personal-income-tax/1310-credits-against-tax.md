@@ -109,18 +109,18 @@ nonresident to resident and separate returns are filed, the credit
 computed for the entire year shall be divided first as provided in
 subparagraph (C) of this paragraph and then prorated according to the
 number of months in the period of residence.
-  * (e) State school tax reduction credit. (1) For taxable years
-beginning after nineteen hundred ninety-seven, a state school tax
-reduction credit shall be allowed as provided in the following tables.
-The credit shall be allowed against the taxes authorized by this article
-reduced by the credits permitted by this article. If the credit exceeds
-the tax as so reduced, the taxpayer may receive, and the comptroller,
-subject to a certificate of the commissioner, shall pay as an
-overpayment, without interest, the amount of such excess. For purposes
-of this subsection, no credit shall be granted to an individual with
-respect to whom a deduction under subsection (c) of section one hundred
-fifty-one of the internal revenue code is allowable to another taxpayer
-for the taxable year.
+  * (e) State school tax reduction credit.  (1) For taxable years
+beginning after nineteen hundred ninety-seven, and ending before two
+thousand sixteen, a state school tax reduction credit shall be allowed
+as provided in the following tables. The credit shall be allowed against
+the taxes authorized by this article reduced by the credits permitted by
+this article. If the credit exceeds the tax as so reduced, the taxpayer
+may receive, and the comptroller, subject to a certificate of the
+commissioner, shall pay as an overpayment, without interest, the amount
+of such excess. For purposes of this subsection, no credit shall be
+granted to an individual with respect to whom a deduction under
+subsection (c) of section one hundred fifty-one of the internal revenue
+code is allowable to another taxpayer for the taxable year.
   (2) The amount of the credit under this paragraph shall be determined
 based upon the taxpayer's income as defined in subparagraph (ii) of
 paragraph (b) of subdivision four of section four hundred twenty-five of
@@ -129,19 +129,17 @@ taxpayer under subparagraphs (A) and (B) of this paragraph with income
 of more than two hundred fifty thousand dollars shall not receive a
 credit.
   Beginning in the two thousand ten tax year and each tax year
-thereafter, the "more than two hundred fifty thousand dollar" income
-limitation shall be adjusted by applying the inflation factor set forth
-herein, and rounding each result to the nearest multiple of one hundred
-dollars. The department shall establish the income limitation to be
-associated with each subsequent tax year by applying the inflation
-factor set forth herein to the figures that define the income limitation
-that were applicable to the preceding tax year, as determined pursuant
-to this subdivision, and rounding each result to the nearest multiple of
-one hundred dollars. Such determination shall be made no later than
-March first, two thousand ten and each year thereafter.
-  For purposes of this paragraph, the "inflation factor" shall be
-determined in accordance with the provisions set forth in subdivision
-fifteen of section one hundred seventy-eight of this chapter.
+thereafter through two thousand fifteen, the "more than two hundred
+fifty thousand dollar" income limitation shall be adjusted by applying
+the inflation factor set forth herein, and rounding each result to the
+nearest multiple of one hundred dollars. The department shall establish
+the income limitation to be associated with each subsequent tax year by
+applying the inflation factor set forth herein to the figures that
+define the income limitation that were applicable to the preceding tax
+year, as determined pursuant to this subsection, and rounding each
+result to the nearest multiple of one hundred dollars. Such
+determination shall be made no later than March first, two thousand ten
+and each year thereafter.
   (A) Married individuals filing joint returns and surviving spouses. In
 the case of a husband and wife who make a single return jointly and of a
 surviving spouse:
@@ -149,14 +147,14 @@ surviving spouse:
                in 2001-2005                    $125
                in 2006                         $230
                in 2007-2008                    $290
-               in 2009 and after               $125
+               in 2009 - 2015                  $125
   (B) All others. In the case of an unmarried individual, a head of a
 household or a married individual filing a separate return:
      For taxable years beginning:       The credit shall be:
                in 2001-2005                    $62.50
                in 2006                         $115
                in 2007-2008                    $145
-               in 2009 and after               $62.50
+               in 2009 - 2015                  $62.50
   (4) Husband and wife who make a joint return. If a husband and wife
 make a single return jointly, the credit under this subsection shall be
 determined under paragraph two of this subsection, if either of them has

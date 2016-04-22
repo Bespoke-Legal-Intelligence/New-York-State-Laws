@@ -104,6 +104,27 @@ such eligible persons or such qualified medicare beneficiaries would be
 liable under federal law were they not eligible for medical assistance
 or were they not qualified medicare beneficiaries with respect to such
 benefits under part B.
+  * (iv) If a health plan participating in part C of title XVIII of the
+federal social security act pays for items and services provided to
+eligible persons who are also beneficiaries under part B of title XVIII
+of the federal social security act or to qualified medicare
+beneficiaries, the amount payable for services under this title shall be
+eighty-five percent of the amount of any co-insurance liability of such
+eligible persons pursuant to federal law if they were not eligible for
+medical assistance or were not qualified medicare beneficiaries with
+respect to such benefits under such part B; provided, however, amounts
+payable under this title for items and services provided to eligible
+persons who are also beneficiaries under part B or to qualified medicare
+beneficiaries by an ambulance service under the authority of an
+operating certificate issued pursuant to article thirty of the public
+health law, or a psychologist licensed under article one hundred
+fifty-three of the education law, shall not be less than the amount of
+any co-insurance liability of such eligible persons or such qualified
+medicare beneficiaries, or for which such eligible persons or such
+qualified medicare beneficiaries would be liable under federal law were
+they not eligible for medical assistance or were they not qualified
+medicare beneficiaries with respect to such benefits under part B.
+  * NB Effective July 1, 2016
   (e) Amounts payable under this title for medical assistance in the
 form of clinic services pursuant to article twenty-eight of the public
 health law and article sixteen of the mental hygiene law provided to
@@ -519,14 +540,17 @@ lieu of a managed care provider, negotiate directly and enter into an
 agreement with a pharmaceutical manufacturer for the provision of
 supplemental rebates relating to pharmaceutical utilization by enrollees
 of managed care providers pursuant to section three hundred sixty-four-j
-of this title. Such rebates shall be limited to drug utilization in the
-following classes: antiretrovirals approved by the FDA for the treatment
-of HIV/AIDS and hepatitis C agents for which the pharmaceutical
-manufacturer has in effect a rebate agreement with the federal secretary
-of health and human services pursuant to 42 U.S.C. § 1396r-8, and for
-which the state has established standard clinical criteria. No agreement
-entered into pursuant to this paragraph shall have an initial term or be
-extended beyond March thirty-first, two thousand twenty.
+of this title and may also negotiate directly and enter into such an
+agreement relating to pharmaceutical utilization by medical assistance
+recipients not so enrolled. Such rebates shall be limited to drug
+utilization in the following classes: antiretrovirals approved by the
+FDA for the treatment of HIV/AIDS and hepatitis C agents for which the
+pharmaceutical manufacturer has in effect a rebate agreement with the
+federal secretary of health and human services pursuant to 42 U.S.C. §
+1396r-8, and for which the state has established standard clinical
+criteria. No agreement entered into pursuant to this paragraph shall
+have an initial term or be extended beyond March thirty-first, two
+thousand twenty.
   (i) The manufacturer shall not pay supplemental rebates to a managed
 care provider, or any of a managed care provider's agents, including but
 not limited to any pharmacy benefit manager on the two classes of drugs
@@ -551,7 +575,8 @@ under this paragraph.
 pharmaceutical manufacturer to enter into a supplemental rebate
 agreement with the commissioner relating to pharmaceutical utilization
 by enrollees of managed care providers pursuant to section three hundred
-sixty-four-j of this title.
+sixty-four-j of this title or relating to pharmaceutical utilization by
+medical assistance recipients not so enrolled.
   (v) All clinical criteria, including requirements for prior approval,
 and all utilization review determinations established by the state as
 described in this paragraph for either of the drug classes subject to
@@ -567,6 +592,59 @@ any rights relating to access, prior authorization, or appeal relating
 to any drug class or drug afforded to a recipient under any other
 provision of law.
   * NB Repealed March 31, 2020
+  * (f) (1) The department may require manufacturers of drugs other than
+single source drugs and innovator multiple source drugs, as such terms
+are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
+department for any drug that has increased more than three hundred
+percent of its state maximum acquisition cost (SMAC), on or after April
+1, 2016, in comparison to its SMAC at any time during the course of the
+preceding twelve months. The required rebate shall be limited to the
+amount by which the current SMAC for the drug exceeds three hundred
+percent of the SMAC for the same drug at any time during the course of
+the preceding twelve months. Such rebates shall be in addition to any
+rebates payable to the department pursuant to any other provision of
+federal or state law. Nothing herein shall affect the department's
+obligation to reimburse for covered outpatient drugs pursuant to
+paragraph (d) of this subdivision.
+  (2) Except as provided in subparagraph three of this paragraph, the
+commissioner shall not determine any further rebates to be payable
+pursuant to this paragraph once the Centers for Medicare and Medicaid
+Services has adopted a final methodology for determining the amount of
+additional rebates under the federal generic drug price increase rebate
+program pursuant to 42 U.S.C. § 1396r-8 (c)(3), as amended by section
+602 of the Bipartisan Budget Act of 2015.
+  (3) During state fiscal year 2016-2017, if the Centers for Medicare
+and Medicaid Services has adopted a final methodology for determining
+the amount of additional rebates under the federal generic drug price
+increase rebate program pursuant to 42 U.S.C. § 1396r-8 (c)(3), as
+amended by section 602 of the Bipartisan Budget Act of 2015, the
+department may collect for a given drug the portion of the rebate
+determined under this paragraph that is in excess of the rebate required
+by such federal rebate program.
+  (4) The additional rebates authorized pursuant to this paragraph shall
+apply to generic prescription drugs dispensed to enrollees of managed
+care providers pursuant to section three hundred sixty-four-j of this
+title and to generic prescription drugs dispensed to Medicaid recipients
+who are not enrollees of such providers.
+  (5) Beginning in two thousand seventeen, the department shall provide
+an annual report to the legislature no later than February first setting
+forth:
+  (i) The number of drugs that exceeded the ceiling price established in
+this paragraph during the preceding year in comparison to the number of
+drugs that experienced at least a three hundred percent price increase
+during two thousand fourteen and two thousand fifteen;
+  (ii) The average percent amount above the ceiling price of drugs that
+exceeded the ceiling price in the preceding year in comparison to the
+number of drugs that experienced a price increase more than three
+hundred percent during two thousand fourteen and two thousand fifteen;
+  (iii) The number of generic drugs available to enrollees in Medicaid
+fee for service or Medicaid managed care, by fiscal quarter, in the
+preceding year in comparison to the drugs available, by fiscal quarter,
+during two thousand fourteen and two thousand fifteen; and
+  (iv) The total drug spend on generic drugs for the preceding year in
+comparison to the total drug spend on generic drugs during two thousand
+fourteen and two thousand fifteen.
+  * NB Repealed March 31, 2018
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric
@@ -579,7 +657,7 @@ title nineteen of the federal social security act to a residential
 treatment facility for children and youth for service to a person whose
 need for care and treatment in such a facility was not certified
 pursuant to section 9.51 of the mental hygiene law.
-  * NB Effective until July 1, 2016
+  * NB Effective until July 1, 2020
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth unless at the time such
@@ -591,7 +669,7 @@ nineteen of the federal social security act to a residential treatment
 facility for children and youth for service to a person whose need for
 care and treatment in such a facility was not certified pursuant to
 section 9.51 of the mental hygiene law.
-  * NB Effective July 1, 2016
+  * NB Effective July 1, 2020
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the

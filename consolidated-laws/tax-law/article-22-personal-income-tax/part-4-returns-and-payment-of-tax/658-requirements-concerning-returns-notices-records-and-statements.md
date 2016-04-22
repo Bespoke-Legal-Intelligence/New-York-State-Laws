@@ -56,12 +56,15 @@ taxable year setting forth all items of income, gain, loss and deduction
 and such other pertinent information as the commissioner may by
 regulations and instructions prescribe. Such return shall be filed on or
 before the fifteenth day of the fourth month following the close of each
-taxable year except that the due date for the return of a partnership
-consisting entirely of nonresident aliens shall be the date prescribed
-for the filing of its federal partnership return for the taxable year.
-For purposes of this paragraph, "taxable year" means a year or a period
-which would be a taxable year of the partnership if it were subject to
-tax under this article.
+taxable year, for taxable years beginning before January first, two
+thousand sixteen, and on or before the fifteenth day of the third month
+following the close of each taxable year, for taxable years beginning on
+or after January first, two thousand sixteen, except that the due date
+for the return of a partnership consisting entirely of nonresident
+aliens shall be the date prescribed for the filing of its federal
+partnership return for the taxable year. For purposes of this paragraph,
+"taxable year" means a year or a period which would be a taxable year of
+the partnership if it were subject to tax under this article.
   (2) S corporations. Every S corporation for which the election
 provided for in subsection (a) of section six hundred sixty is in effect
 shall make a return for the taxable year setting forth all items of
@@ -69,19 +72,20 @@ income, loss and deduction and such other pertinent information as the
 commissioner of taxation and finance may by regulations and instructions
 prescribe. Such return shall be filed on or before the fifteenth day of
 the third month following the close of each taxable year.
-  (3) Filing fees. (A) Every subchapter K limited liability company,
+  (3) Filing fees.  (A) Every subchapter K limited liability company,
 every limited liability company that is a disregarded entity for federal
 income tax purposes, and every partnership which has any income derived
 from New York sources, determined in accordance with the applicable
 rules of section six hundred thirty-one of this article as in the case
-of a nonresident individual, shall, within sixty days after the last day
-of the taxable year, make a payment of a filing fee. The amount of the
-filing fee is the amount set forth in subparagraph (B) of this
-paragraph. The minimum filing fee is twenty-five dollars for taxable
-years beginning in two thousand eight and thereafter. Limited liability
-companies that are disregarded entities for federal income tax purposes
-must pay a filing fee of twenty-five dollars for taxable years beginning
-on or after January first, two thousand eight.
+of a nonresident individual, shall on or before the fifteenth day of the
+third month following the close of each taxable year make a payment of a
+filing fee. The amount of the filing fee is the amount set forth in
+subparagraph (B) of this paragraph. The minimum filing fee is
+twenty-five dollars for taxable years beginning in two thousand eight
+and thereafter. Limited liability companies that are disregarded
+entities for federal income tax purposes must pay a filing fee of
+twenty-five dollars for taxable years beginning on or after January
+first, two thousand eight.
   (B) The filing fee will be based on the New York source gross income
 of the limited liability company or partnership for the taxable year
 immediately preceding the taxable year for which the fee is due. If the
@@ -396,5 +400,5 @@ that is filed, without regard to extensions, during the calendar year
 for which that return is required to be filed.
   (iv) "Tax software" means any computer software program intended for
 tax return preparation purposes.
-  * NB Effective January 1, 2017
+  * NB Effective January 1, 2020
 ```

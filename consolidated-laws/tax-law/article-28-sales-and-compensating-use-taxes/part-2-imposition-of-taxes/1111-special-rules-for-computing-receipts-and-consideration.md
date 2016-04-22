@@ -105,6 +105,19 @@ motor fuel is sold or used in the region referred to in subparagraph
 (iii) of paragraph one of this subdivision, the tax required to be
 prepaid pursuant to section eleven hundred two of this article on each
 gallon of such fuel shall be sixteen cents.
+  * (3) When a wholesaler of motor fuel sells motor fuel in a region, as
+defined in paragraph one of this subdivision, different from the region
+in which such motor fuel was purchased:
+  (i) if the region in which it sells the motor fuel has a higher
+prepaid rate as set forth in this subdivision than the region in which
+the wholesaler purchased the motor fuel in, the wholesaler shall pay to
+the department the difference in the rates for the gallonage sold.
+  (ii) if the region in which it sells the motor fuel has a lower
+prepaid rate as set forth in this subdivision than the region in which
+the wholesaler purchased the motor fuel, the wholesaler shall be
+entitled to a credit or refund for the difference in the rates for the
+gallonage sold.
+  * NB Effective December 1, 2016
   (f) The retail sales tax imposed under subdivision (a) of section
 eleven hundred five and the compensating use tax imposed under section
 eleven hundred ten, when computed in respect to a new mobile home, shall
@@ -411,7 +424,7 @@ of one million or more by section eleven hundred seven of this article
 shall be imposed on eighty percent of the receipts from the retail sale
 of or the consideration given or contracted to be given for, or for the
 use of, such B20.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   (o) (1) If a transportation service subject to tax under paragraph ten
 of subdivision (c) of section eleven hundred five of this part is
 provided by vehicle, and the owner or lessor of the vehicle leases or

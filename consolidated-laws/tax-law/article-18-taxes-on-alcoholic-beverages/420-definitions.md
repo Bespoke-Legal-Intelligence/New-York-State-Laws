@@ -11,7 +11,8 @@ combination of individuals and also an executor, administrator,
 receiver, trustee or other fiduciary.
   2. "Alcohol" means ethyl alcohol, hydrated oxide of ethyl or spirit of
 wine, from whatever source or by whatever process produced.
-  3. "Alcoholic beverages" mean and include beers, wines or liquors.
+  3. "Alcoholic beverages" mean and include ciders, as defined by the
+alcoholic beverage control law, beers, wines or liquors.
   4. (a) "Distributor" when used with respect to alcoholic beverages
 other than liquors means any person who imports or causes to be imported
 into this state any such alcoholic beverages which are or will be

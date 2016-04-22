@@ -121,8 +121,15 @@ tax surcharge imposed by this section.
   5. The report covering the tax surcharge which must be calculated
 pursuant to this section based upon the tax reportable on the report due
 by March fifteenth of any year under section one hundred eighty-three of
-this article shall be filed on or before March fifteenth of the year
-next succeeding such year. An extension pursuant to section one hundred
+this article, for taxable years beginning before January first, two
+thousand seventeen, and on the report due by April fifteenth of any year
+under section one hundred eighty-three of this article, for taxable
+years beginning on or after January first, two thousand seventeen, shall
+be filed on or before March fifteenth of the year next succeeding such
+year, for taxable years beginning before January first, two thousand
+seventeen, and on or before April fifteenth of the year next succeeding
+such year, for taxable years beginning on or after January first, two
+thousand seventeen. An extension pursuant to section one hundred
 ninety-three of this article shall be allowed only if a taxpayer files
 with the commissioner an application for extension in such form as said
 commissioner may prescribe by regulation and pays on or before the date

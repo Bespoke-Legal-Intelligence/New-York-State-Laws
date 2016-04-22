@@ -19,7 +19,7 @@
                                  Part I
                            COMPUTATION OF TAX
 Section 951.   Applicable internal revenue code provisions.
-        951-a. Definitions.
+        951-a. General provisions and definitions.
         952.   Tax imposed.
         954.   Resident's New York gross estate.
         955.   Resident's New York taxable estate.

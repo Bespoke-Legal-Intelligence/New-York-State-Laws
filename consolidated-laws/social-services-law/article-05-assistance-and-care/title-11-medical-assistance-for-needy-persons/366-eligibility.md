@@ -398,16 +398,22 @@ pursuant to this title for any care, services, or supplies provided
 during such time as the person is an inmate; provided, however, that
 nothing herein shall be deemed as preventing the provision of medical
 assistance for inpatient hospital services furnished to an inmate at a
-hospital outside of the premises of such correctional facility, to the
-extent that federal financial participation is available for the costs
-of such services. Upon release from such facility, such person shall
-continue to be eligible for receipt of medical assistance furnished
-pursuant to this title until such time as the person is determined to no
-longer be eligible for receipt of such assistance. To the extent
-permitted by federal law, the time during which such person is an inmate
-shall not be included in any calculation of when the person must
-recertify his or her eligibility for medical assistance in accordance
-with this article.
+hospital outside of the premises of such correctional facility or
+pursuant to other federal authority authorizing the provision of medical
+assistance to an inmate of a state or local correctional facility during
+the thirty days prior to release, to the extent that federal financial
+participation is available for the costs of such services. Upon release
+from such facility, such person shall continue to be eligible for
+receipt of medical assistance furnished pursuant to this title until
+such time as the person is determined to no longer be eligible for
+receipt of such assistance. To the extent permitted by federal law, the
+time during which such person is an inmate shall not be included in any
+calculation of when the person must recertify his or her eligibility for
+medical assistance in accordance with this article. The state may seek
+federal authority to provide medical assistance for transitional
+services including but not limited to medical, prescription, and care
+coordination services for high needs inmates in state and local
+correctional facilities during the thirty days prior to release.
   1-b. Notwithstanding any other provision of law, in the event that a
 person who is an inpatient in an institution for mental diseases, as
 defined by federal law and regulations, and who was in receipt of

@@ -183,8 +183,18 @@ this section shall be eligible to claim a credit on qualified
 investments with respect to the project for which the certificate of
 eligibility is issued. The credit shall be equal to ten percent of the
 cost or other basis for federal income tax purposes of the qualified
-investment at a closed facility. The total amount of investment tax
-credit allowed for all eligible participants under this subdivision for
+investment at a closed facility.  Provided however, for purposes of this
+credit only, a taxpayer that is the owner of a closed facility described
+in paragraph (d) of subdivision eleven of section four hundred of the
+economic development law, shall be allowed to include in its cost or
+other basis of the qualified investment at the closed facility, any
+demolition costs incurred at such closed facility. Those demolition
+costs shall be limited to the following costs: (i) asbestos removal
+costs, (ii) rental of demolition equipment, (iii) personnel costs to
+operate the demolition equipment, (iv) costs to remove and dispose of
+demolition debris, (v) the costs of any permits, licenses and insurance
+necessary for the demolition. The total amount of investment tax credit
+allowed for all eligible participants under this subdivision for
 qualified investments located at each closed facility shall not exceed
 eight million dollars. The credit shall be equal to six percent of the
 cost or other basis for federal income tax purposes for all other

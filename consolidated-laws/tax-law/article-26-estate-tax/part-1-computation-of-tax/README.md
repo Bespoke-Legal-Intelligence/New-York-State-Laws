@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 951 Applicable internal revenue code provisions](951-applicable-internal-revenue-code-provisions.md)
-- [§ 951-A Definitions](951a-definitions.md)
+- [§ 951-A General provisions and definitions](951a-general-provisions-and-definitions.md)
 - [§ 952 Tax imposed](952-tax-imposed.md)
 - [§ 954 Resident's New York gross estate](954-residents-new-york-gross-estate.md)
 - [§ 955 Resident's New York taxable estate](955-residents-new-york-taxable-estate.md)

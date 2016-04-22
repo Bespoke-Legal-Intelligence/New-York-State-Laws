@@ -147,4 +147,9 @@ be for other than sacramental purposes, and in reliance upon such
 statement the wine shall not have been included as taxable in a return
 made by a distributor, the purchaser shall file a return and pay the tax
 in the manner provided for in section four hundred twenty-nine.
+  6. Notwithstanding any other provision of this article, there shall be
+exempt from the taxes imposed under this article, alcoholic beverages
+furnished by a licensed producer of alcoholic beverages at no charge to
+a customer or prospective customer at a tasting held in accordance with
+the alcoholic beverage control law for consumption at such tasting.
 ```

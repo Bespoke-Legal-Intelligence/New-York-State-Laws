@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 12-A — Tax On Gasoline and Similar Motor Fuel](README.md)
 
 ```text
-  § 287. Payment of tax; returns.  1. Every distributor shall, on or
+  § 287. Payment of tax; returns. 1. Every distributor shall, on or
 before the twentieth day of each month, file with the department a
 return, on forms to be prescribed by the commissioner and furnished by
 such department, stating the number of gallons of motor fuel imported,
@@ -44,4 +44,16 @@ in the price.
 two hundred eighty-nine-c of this chapter, in lieu of such refund, may
 take credit therefor on a return filed pursuant to this section, unless
 the commissioner shall withdraw such privilege.
+  * 3. Every wholesaler of motor fuel shall, on or before the twentieth
+day of each month, file with the department a return, on forms
+prescribed by the commissioner stating the number of gallons of motor
+fuel purchased and sold by such wholesaler in the state during the
+preceding calendar month. For each purchase and sale, the date, number
+of gallons of motor fuel purchased or sold, and the name of the seller
+or purchaser shall be set forth on the return. Such returns shall
+contain such further information as the commissioner shall require. The
+fact that a wholesaler's name is signed to a filed return shall be prima
+facie evidence for all purposes that the return was actually signed by
+such wholesaler of motor fuel.
+  * NB Effective December 1, 2016
 ```

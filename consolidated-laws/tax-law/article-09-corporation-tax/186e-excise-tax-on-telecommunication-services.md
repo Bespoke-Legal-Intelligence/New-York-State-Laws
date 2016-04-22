@@ -346,22 +346,25 @@ commissioner may consent to their destruction within that period or may
 require that they be kept longer.
   6. Returns. Every provider of telecommunication services subject to
 tax under this section shall file, on or before March fifteenth of each
-year, a return for the year ended on the preceding December
-thirty-first, and pay the tax due, which return shall state the gross
-receipts for the period covered by each such return and the resale
-exclusions during such period. Returns shall be filed with the
-commissioner on a form to be furnished by the commissioner for such
-purpose and shall contain such other data, information or matter as the
-commissioner may require to be included therein. Notwithstanding the
-foregoing provisions of this subdivision, the commissioner may require
-any provider of telecommunication services to file an annual return,
-which shall contain any data specified by the commissioner, regardless
-of whether such provider is subject to tax under this section. Every
-return shall have annexed thereto a certification by the head of the
-provider of telecommunication services making the same, or of the owner
-or of a partner or member thereof, or of a principal officer of the
-corporation, if such business be conducted by a corporation, to the
-effect that the statements contained therein are true.
+year, for taxable years beginning before January first, two thousand
+sixteen, and on or before April fifteenth of each year, for taxable
+years beginning on or after January first, two thousand sixteen, a
+return for the year ended on the preceding December thirty-first, and
+pay the tax due, which return shall state the gross receipts for the
+period covered by each such return and the resale exclusions during such
+period. Returns shall be filed with the commissioner on a form to be
+furnished by the commissioner for such purpose and shall contain such
+other data, information or matter as the commissioner may require to be
+included therein. Notwithstanding the foregoing provisions of this
+subdivision, the commissioner may require any provider of
+telecommunication services to file an annual return, which shall contain
+any data specified by the commissioner, regardless of whether such
+provider is subject to tax under this section. Every return shall have
+annexed thereto a certification by the head of the provider of
+telecommunication services making the same, or of the owner or of a
+partner or member thereof, or of a principal officer of the corporation,
+if such business be conducted by a corporation, to the effect that the
+statements contained therein are true.
   7. (a) Applicability of article nine. If any provision of this section
 conflicts with any other provision contained in this article, the
 provision of this section shall control, but the provisions of this

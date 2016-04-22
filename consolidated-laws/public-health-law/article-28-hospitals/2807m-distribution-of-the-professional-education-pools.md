@@ -935,4 +935,22 @@ providers, affected communities and other interested parties. The
 commissioner shall report to the governor and the legislature on the
 findings of the study and recommendations by December first, two
 thousand eight.
+  12. Notwithstanding any provision of law to the contrary, applications
+submitted on or after April first, two thousand sixteen, for the
+physician loan repayment program pursuant to paragraph (d) of
+subdivision five-a of this section and subdivision ten of this section
+or the physician practice support program pursuant to paragraph (e) of
+subdivision five-a of this section, shall be subject to the following
+changes:
+  (a) Awards shall be made from the total funding available for new
+awards under the physician loan repayment program and the physician
+practice support program, with neither program limited to a specific
+funding amount within such total funding available;
+  (b) An applicant may apply for an award for either physician loan
+repayment or physician practice support, but not both;
+  (c) An applicant shall agree to practice for three years in an
+underserved area and each award shall provide up to forty thousand
+dollars for each of the three years; and
+  (d) To the extent practicable, awards shall be timed to be of use for
+job offers made to applicants.
 ```

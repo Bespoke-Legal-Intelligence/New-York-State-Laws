@@ -308,13 +308,17 @@ years, except that the tax commission may consent to their destruction
 within that period or may require that they be kept longer.
   4. Every utility subject to tax hereunder shall file, on or before
 March fifteenth of each year, a return for the year ended on the
-preceding December thirty-first, except that the year ended on December
-thirty-first, nineteen hundred seventy-six shall be deemed, for the
-purposes of this subdivision, to have commenced on June first, nineteen
-hundred seventy-six, including any period for which the tax imposed
-hereby or by any amendment hereof is effective, each of which returns
-shall state the gross income or gross operating income for the period
-covered by each such return. Returns shall be filed with the
+preceding December thirty-first, for taxable years beginning before
+January first, two thousand sixteen, except that the year ended on
+December thirty-first, nineteen hundred seventy-six shall be deemed, for
+the purposes of this subdivision, to have commenced on June first,
+nineteen hundred seventy-six, and shall file, on or before April
+fifteenth of each year, a return for the year ended on the preceding
+December thirty-first, for taxable years beginning on or after January
+first, two thousand sixteen, including any period for which the tax
+imposed hereby or by any amendment hereof is effective, each of which
+returns shall state the gross income or gross operating income for the
+period covered by each such return. Returns shall be filed with the
 commissioner of taxation and finance on a form to be furnished by the
 commissioner for such purpose and shall contain such other data,
 information or matter as the commissioner may require to be included
@@ -326,14 +330,17 @@ commissioner may require a landlord selling to a tenant gas, electric,
 steam, water or refrigeration or furnishing gas, electric, steam, water
 or refrigerator service, where the same has been subjected to tax under
 this section on the sale to such landlord, to file, on or before the
-fifteenth day of March of each year, an information return for the year
-ended on the preceding December thirty-first, covering such year in such
-form and containing such data as the commissioner may specify. Every
-return shall have annexed thereto a certification by the head of the
-utility making the same, or of the owner or of a co-partner thereof, or
-of a principal officer of the corporation, if such business be conducted
-by a corporation, to the effect that the statements contained therein
-are true.
+fifteenth day of March of each year, for taxable years beginning before
+January first, two thousand sixteen, and on or before the fifteenth day
+of April of each year, for taxable years beginning on or after January
+first, two thousand sixteen, an information return for the year ended on
+the preceding December thirty-first, covering such year in such form and
+containing such data as the commissioner may specify. Every return shall
+have annexed thereto a certification by the head of the utility making
+the same, or of the owner or of a co-partner thereof, or of a principal
+officer of the corporation, if such business be conducted by a
+corporation, to the effect that the statements contained therein are
+true.
   5. If any provision of this section conflicts with any other provision
 contained in this article, the provision of this section shall control,
 but the provisions of this article which do not conflict with the

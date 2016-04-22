@@ -50,7 +50,7 @@ a distributor of motor fuel, and then sold by such petroleum business
 and delivered to a filling station and placed in a storage tank of such
 filling station for such E85 to be dispensed directly into a motor
 vehicle for use in the operation of such vehicle.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   * (7)(i) Partial B20 exemption. B20 imported or caused to be imported
 into this state or produced, refined, manufactured or compounded in this
 state by a petroleum business registered under article twelve-A of this
@@ -60,9 +60,9 @@ petroleum business.
 exemption under this paragraph shall be determined by multiplying the
 quantity of B20 times twenty percent of the applicable taxes otherwise
 imposed by this article on such fuel.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   * (8) CNG or hydrogen.
-  * NB Repealed September 1, 2016
+  * NB Repealed September 1, 2021
   (b) Export. (1) Motor fuel imported or caused to be imported into this
 state or produced, refined, manufactured or compounded in this state by
 a petroleum business registered under article twelve-A of this chapter,

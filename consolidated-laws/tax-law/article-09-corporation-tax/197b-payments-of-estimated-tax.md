@@ -6,30 +6,35 @@
 ```text
   § 197-b. Payments of estimated tax. 1. (a) For taxable years beginning
 on or after January first, nineteen hundred seventy-seven, every
-taxpayer subject to tax under section one hundred eighty-two, one
-hundred eighty-two-a, former section one hundred eighty-two-b, one
-hundred eighty-four, one hundred eighty-six-a or one hundred
-eighty-six-e of this article, must pay in each year an amount equal to
-(i) twenty-five percent of the tax imposed under each of such sections
-for the preceding taxable year if the preceding year's tax exceeded one
-thousand dollars but was equal to or less than one hundred thousand
-dollars, or (ii) forty percent of the tax imposed under any of these
-sections for the preceding taxable year if the preceding year's tax
-exceeded one hundred thousand dollars. If the preceding year's tax under
-section one hundred eighty-four, one hundred eighty-six-a or one hundred
-eighty-six-e of this article exceeded one thousand dollars and the
-taxpayer is subject to the tax surcharge imposed by section one hundred
-eighty-four-a or one hundred eighty-six-c of this article, respectively,
-the taxpayer must also pay in each such year an amount equal to (i)
-twenty-five percent of the tax surcharge imposed under such section for
-the preceding taxable year if the preceding year's tax exceeded one
-thousand dollars but was equal to or less than one hundred thousand
-dollars, or (ii) forty percent of the tax surcharge imposed under that
-section for the preceding taxable year if the preceding year's tax
-exceeded one hundred thousand dollars. The amount or amounts must be
-paid with the return or report required to be filed with respect to the
-tax or tax surcharge for the preceding taxable year or with an
-application for extension of the time for filing the return or report.
+taxpayer subject to tax under section one hundred eighty-four, one
+hundred eighty-six-a or one hundred eighty-six-e of this article, must
+pay in each year an amount equal to (i) twenty-five percent of the tax
+imposed under each of such sections for the second preceding taxable
+year if the second preceding year's tax exceeded one thousand dollars
+but was equal to or less than one hundred thousand dollars, or (ii)
+forty percent of the tax imposed under any of these sections for the
+second preceding taxable year if the second preceding year's tax
+exceeded one hundred thousand dollars. If the second preceding year's
+tax under section one hundred eighty-four, one hundred eighty-six-a or
+one hundred eighty-six-e of this article exceeded one thousand dollars
+and the taxpayer is subject to the tax surcharge imposed by section one
+hundred eighty-four-a or one hundred eighty-six-c of this article,
+respectively, the taxpayer must also pay in each such year an amount
+equal to (i) twenty-five percent of the tax surcharge imposed under such
+section for the second preceding taxable year if the second preceding
+year's tax exceeded one thousand dollars but was equal to or less than
+one hundred thousand dollars, or (ii) forty percent of the tax surcharge
+imposed under that section for the second preceding taxable year if the
+second preceding year's tax exceeded one hundred thousand dollars. The
+amount or amounts must be paid with the return or report required to be
+filed with respect to the tax or tax surcharge for the preceding taxable
+year or with an application for extension of the time for filing the
+return or report, for taxable years beginning before January first, two
+thousand sixteen.  The amount or amounts that must be paid with respect
+to the tax or tax surcharge for the second preceding year must be paid
+on or before the fifteenth day of the third month following the close of
+the taxable year, for taxable years beginning on or after January first,
+two thousand sixteen.
   (b) Notwithstanding any other provision of this article to the
 contrary, any taxpayer required under this subdivision to pay an amount
 equal to twenty-five percent of its tax for the taxable year ending on
@@ -109,11 +114,10 @@ subdivision one to the fifteenth day of the third month following the
 close of the taxable year, provided, however, that no interest shall be
 allowed or paid under this subdivision if the amount thereof is less
 than one dollar.
-  6. As used in this section, "the preceding year's tax" means the tax
-imposed upon the taxpayer by section one hundred eighty-two, former
-section one hundred eighty-two-b, one hundred eighty-four, one hundred
-eighty-six-a or one hundred eighty-six-e of this article for the
-preceding taxable year.
+  6. As used in this section, "the second preceding year's tax" means
+the tax imposed upon the taxpayer by section one hundred eighty-four,
+one hundred eighty-six-a or one hundred eighty-six-e of this article for
+the second preceding taxable year.
   7. This section shall apply to a taxable period of less than twelve
 months in accordance with regulations of the tax commission.
   8. The commissioner of taxation and finance may grant a reasonable

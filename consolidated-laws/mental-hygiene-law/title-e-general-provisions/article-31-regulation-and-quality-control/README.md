@@ -19,6 +19,7 @@
 - [§ 31.16 Suspension, revocation, or limitation of an operating certificate and imposition of fines by the commissioner of mental health](31.16-suspension-revocation-or-limitation-of-an-operating-certificate.md)
 - [§ 31.17 Formal hearings; procedure](31.17-formal-hearings-procedure.md)
 - [§ 31.19 Confinement, care, and treatment of the mentally disabled](31.19-confinement-care-and-treatment-of-the-mentally-disabled.md)
+- [§ 31.20 Temporary operator](31.20-temporary-operator.md)
 - [§ 31.21 Injunction and temporary restraining order](31.21-injunction-and-temporary-restraining-order.md)
 - [§ 31.22 Approval of certain certificates of incorporation or articles of organization; granting of operating certificates](31.22-approval-of-certain-certificates-of-incorporation-or-articles.md)
 - [§ 31.23 Approval of new construction](31.23-approval-of-new-construction.md)
@@ -58,6 +59,7 @@ Section 31.01  Evaluation of services for the mentally disabled.
         31.17  Formal hearings; procedure.
         31.19  Confinement, care, and treatment of the mentally
                  disabled.
+        31.20  Temporary operator.
         31.21  Injunction and temporary restraining order.
         31.22  Approval of certain certificates of incorporation or
                  articles of organization; granting of operating

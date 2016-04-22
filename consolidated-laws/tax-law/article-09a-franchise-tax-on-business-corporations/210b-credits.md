@@ -1021,8 +1021,9 @@ other applicable period and dividing the sum so obtained by the number
 of such quarters occurring within such taxable year or other applicable
 period; provided however, except that in computing base year employment,
 there shall be excluded therefrom any employee with respect to whom a
-credit provided for under subdivision six of this section is claimed for
-the taxable year.
+credit provided for under subdivision nineteen of section two hundred
+ten of this article, as such subdivision was in effect on December
+thirty-first, two thousand fourteen, was claimed for the taxable year.
   (d) Amount of credit. The amount of the credit shall equal the product
 of one thousand dollars times the number of individuals employed
 full-time by the taxpayer in the taxable year that are in excess of one
@@ -1155,12 +1156,12 @@ the taxable year with respect to which the credit is allowed, or
   (v) twenty percent, if the disposition or recovery occurs more than
 ninety-six months but not more than one hundred eight months after the
 end of the taxable year with respect to which the credit is allowed.
-  9. Credit for the special additional mortgage recording tax. (a)
+  9. Credit for the special additional mortgage recording tax.  (a)
 Application of credit. A taxpayer shall be allowed a credit, to be
 credited against the tax imposed by this article, equal to the amount of
 the special additional mortgage recording tax paid by the taxpayer
 pursuant to the provisions of subdivision one-a of section two hundred
-fifty-three of this chapter or mortgages recorded. Provided, however, no
+fifty-three of this chapter on mortgages recorded. Provided, however, no
 credit shall be allowed with respect to a mortgage of real property
 principally improved or to be improved by one or more structures
 containing in the aggregate not more than six residential dwelling
@@ -1172,16 +1173,26 @@ of real property principally improved or to be improved by one or more
 structures containing in the aggregate not more than six residential
 dwelling units, each dwelling unit having its own separate cooking
 facilities, where the real property is located in the county of Erie.
-  (b) Carryover. In no event shall the credit herein provided for be
-allowed in an amount which will reduce the tax payable to less than the
-fixed dollar minimum amount prescribed in paragraph (d) of subdivision
-one of section two hundred ten of this article. If, however, the amount
-of credit allowable under this subdivision for any taxable year,
-including any credit carried over from a prior taxable year, reduces the
-tax to such amount or if the taxpayer otherwise pays tax based on the
-fixed dollar minimum amount, any amount of credit not deductible in such
-taxable year may be carried over to the following year or years and may
-be deducted from the taxpayer's tax for such year or years.
+  (b) Carryover or refund. In no event shall the credit herein provided
+for be allowed in an amount which will reduce the tax payable to less
+than the fixed dollar minimum amount prescribed in paragraph (d) of
+subdivision one of section two hundred ten of this article. If, however,
+the amount of credit allowable under this subdivision for any taxable
+year, including any credit carried over from a prior taxable year,
+reduces the tax to such amount or if the taxpayer otherwise pays tax
+based on the fixed dollar minimum amount, any amount of credit not
+deductible in such taxable year may be carried over to the following
+year or years and may be deducted from the taxpayer's tax for such year
+or years. In lieu of carrying over to the following year or years, the
+unused portion of credits attributable to the special additional
+mortgage recording tax paid by the taxpayer as mortgagee with respect to
+mortgages of real property principally improved or to be improved by one
+or more structures containing in the aggregate not more than six
+residential dwelling units, each dwelling unit having its own separate
+cooking facilities, such taxpayer may elect to treat such unused portion
+as an overpayment of tax to be credited or refunded in accordance with
+the provisions of section ten hundred eighty-six of this chapter, except
+that no interest shall be paid on such overpayment.
   10. Credit for servicing certain mortgages. (a) General. Every
 taxpayer meeting the requirements of the state of New York mortgage
 agency applicable to the servicing of mortgages acquired by such agency
@@ -1670,8 +1681,8 @@ this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
   (c) Expiration of credit. The credit allowed under this subdivision
-shall not be applicable to taxable years beginning on or after December
-thirty-first, two thousand seventeen.
+shall not be applicable to taxable years beginning on or after January
+first, two thousand nineteen.
   24. Biofuel production credit. (a) General. A taxpayer shall be
 allowed a credit, to be computed as provided in section twenty-eight of
 this chapter added as part X of chapter sixty-two of the laws of two
@@ -1690,14 +1701,16 @@ section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon. The tax credit allowed pursuant to this
 section shall apply to taxable years beginning before January first, two
 thousand twenty.
-  25. Clean heating fuel credit. (a) General. A taxpayer shall be
+  25. Clean heating fuel credit.  (a) General. A taxpayer shall be
 allowed a credit against the tax imposed by this article. Such credit,
 to be computed as hereinafter provided, shall be allowed for bioheat,
 used for space heating or hot water production for residential purposes
-within this state purchased before January first, two thousand
-seventeen. Such credit shall be $0.01 per percent of biodiesel per
-gallon of bioheat, not to exceed twenty cents per gallon, purchased by
-such taxpayer.
+within this state purchased before January first, two thousand twenty.
+Such credit shall be $0.01 per percent of biodiesel per gallon of
+bioheat, not to exceed twenty cents per gallon, purchased by such
+taxpayer. Provided, however, that on or after January first, two
+thousand seventeen, this credit shall not apply to bioheat that is less
+than six percent biodiesel per gallon of bioheat.
   (b) Definitions. For purposes of this subdivision, the following
 definitions shall apply:
   (i) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
@@ -1787,11 +1800,11 @@ whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
   29. Hire a vet credit. (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand seventeen, a taxpayer shall be allowed a
+January first, two thousand nineteen, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
-veteran within the state. The taxpayer may claim the credit in the year
+veteran within the state.  The taxpayer may claim the credit in the year
 in which the qualified veteran completes one year of employment by the
 taxpayer. If the taxpayer claims the credit allowed under this
 subdivision, the taxpayer may not use the hiring of a qualified veteran
@@ -1806,7 +1819,7 @@ militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand sixteen; and
+thousand eighteen; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -2081,21 +2094,25 @@ credit allowed under this subdivision for any taxable year reduces the
 tax to such amount or if the taxpayer otherwise pays tax based on the
 fixed dollar minimum amount, any amount of credit thus not deductible in
 such taxable year shall be carried over to the following year or years,
-and may be deducted from the taxpayer's tax for such year or years.
-  39. Beer production credit. A taxpayer shall be allowed a credit, to
-be computed as provided in section thirty-seven of this chapter, against
-the tax imposed by this article. In no event shall the credit allowed
-under this subdivision for any taxable year reduce the tax due for such
-year to less than the amount prescribed in paragraph (d) of subdivision
-one of section two hundred ten of this article. However, if the amount
-of credit allowed under this subdivision for any taxable year reduces
-the tax to such amount or if the taxpayer otherwise pays tax based on
-the fixed dollar minimum amount, any amount of credit thus not
-deductible in such taxable year shall be treated as an overpayment of
-tax to be credited or refunded in accordance with the provisions of
-section one thousand eighty-six of this chapter. Provided, however, the
-provisions of subsection (c) of section one thousand eighty-eight of
-this chapter notwithstanding, no interest shall be paid thereon.
+and may be deducted from the taxpayer's tax for such year or years. The
+tax credit allowed pursuant to this subdivision shall not apply to
+taxable years beginning on or after January first, two thousand
+twenty-three.
+  39. Alcoholic beverage production credit. A taxpayer shall be allowed
+a credit, to be computed as provided in section thirty-seven of this
+chapter, against the tax imposed by this article. In no event shall the
+credit allowed under this subdivision for any taxable year reduce the
+tax due for such year to less than the amount prescribed in paragraph
+(d) of subdivision one of section two hundred ten of this article.
+However, if the amount of credit allowed under this subdivision for any
+taxable year reduces the tax to such amount or if the taxpayer otherwise
+pays tax based on the fixed dollar minimum amount, any amount of credit
+thus not deductible in such taxable year shall be treated as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter. Provided,
+however, the provisions of subsection (c) of section one thousand
+eighty-eight of this chapter notwithstanding, no interest shall be paid
+thereon.
   40. Minimum wage reimbursement credit. (a) Allowance of credit. A
 taxpayer shall be allowed a credit, to be computed as provided in
 section thirty-eight of this chapter, against the tax imposed by this
@@ -2190,7 +2207,12 @@ authority. In the case of a combined group that constitutes a qualified
 New York manufacturer, the conditions in the preceding sentence are
 satisfied if one corporation in the combined group is the lessee and
 another corporation in the combined group makes the payments to the
-taxing authority.
+taxing authority. In the case of a taxpayer that, during the taxable
+year, is principally engaged in the production of goods by farming,
+agriculture, horticulture, floriculture, viticulture, or commercial
+fishing, the taxpayer is eligible if the taxpayer satisfies the
+conditions stipulated in this subdivision and the taxpayer leases such
+real property from a related or unrelated party.
   (3) The term real property tax does not include a payment made by the
 taxpayer in connection with an agreement for the payment in lieu of
 taxes on real property, whether such property is owned or leased by the
@@ -2240,19 +2262,13 @@ prescribed in paragraph (d) of subdivision one of section two hundred
 ten of this chapter. Provided, however, the provisions of subsection (c)
 of section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  45. Order of credits. (a) Credits allowable under this article which
+  45. Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
-first. The credit allowable under subdivision six of this section shall
-be deducted immediately after the deduction of all credits allowable
-under this article which cannot be carried over and which are not
-refundable, whether or not a portion of such credit is refundable.
-Credits allowable under this article which can be carried over, and
-carryovers of such credits, shall be deducted next after the deduction
-of the credit allowable under subdivision six of this section, and among
-such credits, those whose carryover is of limited duration shall be
-deducted before those whose carryover is of unlimited duration. Credits
-allowable under this article which are refundable (other than the credit
-allowable under subdivision six of this section) shall be deducted last.
+first.  Credits allowable under this article which can be carried over,
+and carryovers of such credits, shall be deducted next, and among such
+credits, those whose carryover is of limited duration shall be deducted
+before those whose carryover is of unlimited duration. Credits allowable
+under this article which are refundable shall be deducted last.
   46. Notwithstanding the repeal of the credit provisions contained in
 section two hundred ten of this article or in article thirty-two of this
 chapter and the enactment of this section by a chapter of the laws of
@@ -2367,4 +2383,20 @@ or a member of a limited liability company, its pro rata share of the
 amount of credit listed in the certificate of tax credit issued to the
 partnership or limited liability company.
   * NB Repealed January 1, 2020
+  51. Farm workforce retention credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-two of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
 ```

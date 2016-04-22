@@ -25,5 +25,5 @@ acquisition advances made by Stony Brook University Hospital to the
 Southampton Hospital Association.
   3. Monies of the SUNY Stony Brook Affiliation escrow fund shall be
 expended only for the purposes of Stony Brook Hospital at Southampton.
-  * NB There are 2 § 99-y's
+  * NB There are 3 § 99-y's
 ```

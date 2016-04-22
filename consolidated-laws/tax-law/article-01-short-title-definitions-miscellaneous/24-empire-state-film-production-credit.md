@@ -211,7 +211,7 @@ least thirty million dollars in annual production costs in the state, or
 production facility in the state.
   (c) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
-  (1) article 9-A: section 210: subdivision 36.
+  (1) article 9-A: section 210-B: subdivision 20.
   (2) article 22: section 606: subsection (gg).
   (d) Notwithstanding any provision of this chapter, employees and
 officers of the governor's office of motion picture and television
@@ -281,8 +281,8 @@ article is insufficient to utilize the balance of unallocated empire
 state film post production tax credits from such pool, the remainder,
 after such pending applications are considered, shall be made available
 for allocation in the empire state film tax credit pursuant to this
-section, subdivision thirty-six of section two hundred ten and
-subsection (gg) of section six hundred six of this chapter. Also, if the
+section, subdivision twenty of section two hundred ten-B and subsection
+(gg) of section six hundred six of this chapter. Also, if the
 commissioner of economic development determines that the aggregate
 amount of tax credits available from additional pool 2 for the empire
 state film post production tax credit have been previously allocated,
@@ -292,8 +292,8 @@ is insufficient to utilize the balance of unallocated film production
 tax credits from such pool, then all or part of the remainder, after
 such pending applications are considered, shall be made available for
 allocation for the empire state film post production credit pursuant to
-this section, subdivision forty-one of section two hundred ten and
-subsection (gg) of section six hundred six of this chapter. The
+this section, subdivision thirty-two of section two hundred ten-B and
+subsection (qq) of section six hundred six of this chapter. The
 governor's office for motion picture and television development must
 notify taxpayers of their allocation year and include the allocation
 year on the certificate of tax credit. Taxpayers eligible to claim a
