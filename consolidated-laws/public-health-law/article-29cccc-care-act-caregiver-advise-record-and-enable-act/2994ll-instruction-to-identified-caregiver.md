@@ -4,17 +4,17 @@
 [Public Health Law](../README.md) › [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](README.md)
 
 ```text
-  * § 2994-ll. Instruction to identified caregiver. 1. As soon as
-possible and not later than twenty-four hours prior to a patient's
-discharge from a hospital, the hospital shall consult with the
-identified caregiver along with the patient regarding the caregiver's
-capabilities and limitations and issue a discharge plan that describes a
-patient's after-care needs at his or her residence. In the event the
-hospital is unable to contact the designated caregiver, the lack of
-contact shall not interfere with, delay, or otherwise affect the medical
-care provided to the patient or an appropriate discharge of the patient.
-The hospital shall promptly document the attempt in the patient's
-medical record. At minimum, a discharge plan shall include:
+  § 2994-ll. Instruction to identified caregiver. 1. As soon as possible
+and not later than twenty-four hours prior to a patient's discharge from
+a hospital, the hospital shall consult with the identified caregiver
+along with the patient regarding the caregiver's capabilities and
+limitations and issue a discharge plan that describes a patient's
+after-care needs at his or her residence. In the event the hospital is
+unable to contact the designated caregiver, the lack of contact shall
+not interfere with, delay, or otherwise affect the medical care provided
+to the patient or an appropriate discharge of the patient. The hospital
+shall promptly document the attempt in the patient's medical record. At
+minimum, a discharge plan shall include:
   (a) the name and contact information of the caregiver identified under
 this article;
   (b) a description of all after-care tasks recommended by the
@@ -44,5 +44,4 @@ and contents of the instruction.
 the provisions of this article, including but not limited to,
 regulations to further define the content and scope of any instruction
 provided to caregivers under this article.
-  * NB Effective April 23, 2016
 ```

@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](README.md)
 
 ```text
-  * § 2994-ii. Definitions. When used in this article, the following
-words or phrases shall have the following meanings:
+  § 2994-ii. Definitions. When used in this article, the following words
+or phrases shall have the following meanings:
   1. "Hospital" shall mean any "general hospital" as defined in section
 twenty-eight hundred one of this chapter.
   2. "After-care" shall mean any assistance provided by a caregiver to a
@@ -31,5 +31,4 @@ not include any rehabilitation facility, hospital, nursing home,
 assisted living facility, group home or other residential health care
 facility as defined in section twenty-eight hundred one of this chapter
 or any inpatient facility regulated by the office of mental health.
-  * NB Effective April 23, 2016
 ```

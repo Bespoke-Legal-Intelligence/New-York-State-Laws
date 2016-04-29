@@ -16,7 +16,7 @@
 <summary>Official heading of Article 29-CCCC, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                            * ARTICLE 29-CCCC
+                             ARTICLE 29-CCCC
            CARE ACT (CAREGIVER ADVISE, RECORD AND ENABLE ACT)
 Section 2994-hh. Short title.
         2994-ii. Definitions.
@@ -24,7 +24,6 @@ Section 2994-hh. Short title.
         2994-kk. Notice to identified caregiver.
         2994-ll. Instruction to identified caregiver.
         2994-mm. Effect on other rights.
-  * NB Effective April 23, 2016
 ```
 
 </details>

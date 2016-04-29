@@ -4,7 +4,6 @@
 [Public Health Law](../README.md) › [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](README.md)
 
 ```text
-  * § 2994-hh. Short title. This article shall be known and may be cited
+  § 2994-hh. Short title. This article shall be known and may be cited
 as the "CARE act".
-  * NB Effective April 23, 2016
 ```

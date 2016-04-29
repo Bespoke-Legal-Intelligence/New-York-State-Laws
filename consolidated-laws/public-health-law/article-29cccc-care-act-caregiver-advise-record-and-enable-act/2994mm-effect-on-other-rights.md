@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](README.md)
 
 ```text
-  * § 2994-mm. Effect on other rights. 1. Nothing in this article shall
-be construed to interfere with the rights of an agent operating under a
+  § 2994-mm. Effect on other rights. 1. Nothing in this article shall be
+construed to interfere with the rights of an agent operating under a
 valid health care directive created under section twenty-nine hundred
 eighty-two of this chapter.
   2. Nothing in this article shall be construed to create a new private
@@ -18,5 +18,4 @@ relationship shall not be held liable, provided it has complied with
 this article and acted reasonably and in good faith, for the services
 rendered or not rendered by the caregiver to the patient at the
 patient's residence.
-  * NB Effective April 23, 2016
 ```

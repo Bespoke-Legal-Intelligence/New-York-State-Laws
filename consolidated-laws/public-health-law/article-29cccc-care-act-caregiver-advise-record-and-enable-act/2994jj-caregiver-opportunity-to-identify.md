@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-CCCC — Care Act (caregiver Advise, Record and Enable Act)](README.md)
 
 ```text
-  * § 2994-jj. Caregiver; opportunity to identify. 1. A hospital shall
+  § 2994-jj. Caregiver; opportunity to identify. 1. A hospital shall
 provide each patient or, if applicable, the patient's legal guardian
 with at least one opportunity to identify at least one caregiver under
 this article following the patient's entry into a hospital and prior to
@@ -47,5 +47,4 @@ any after-care tasks for any patient.
   3. This section shall not be construed to require a patient or a
 patient's legal guardian to identify any individual as a caregiver as
 defined by this article.
-  * NB Effective April 23, 2016
 ```
