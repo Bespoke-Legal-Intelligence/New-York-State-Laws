@@ -63,27 +63,6 @@ forty-three of the economic development law, or any other contrary
 provision of law, the commissioner is authorized to enter into a
 contract with local departments of social services without a competitive
 bid or request for proposal process.
-  * 5. Notwithstanding any inconsistent provision of sections one
-hundred twelve and one hundred sixty-three of the state finance law, or
-sections one hundred forty-two and one hundred forty-three of the
-economic development law, or any other contrary provision of law, the
-commissioner is authorized to amend the terms of contracts awarded prior
-to the effective date of this section, including a contract entered into
-pursuant to subdivision twenty-four of section two hundred six of the
-public health law, as added by section thirty-nine of part C of chapter
-fifty-eight of the laws of two thousand eight, without a competitive bid
-or request for proposal process, upon a determination that the existing
-contractor is qualified to provide assistance with one or more functions
-established in subdivision two of this section. Such amendments shall be
-limited to implementation of: (i) automation enhancements, including but
-not limited to, the Medicare savings program and the family planning
-benefit program; (ii) processes for verification of third party
-insurance and processing enrollment in medical assistance with third
-party health insurance; (iii) procedures that will increase efficiencies
-at enrollment centers; (iv) an asset verification system; and (v)
-processes to comply with federal law, including, but not limited to, the
-use of modified adjusted gross income in eligibility determinations.
-  * NB Repealed March 31, 2015
   5-a. (a) The commissioner may take necessary action to review the
 accuracy of determinations of initial and ongoing eligibility under the
 medical assistance program, and to identify and eliminate inappropriate

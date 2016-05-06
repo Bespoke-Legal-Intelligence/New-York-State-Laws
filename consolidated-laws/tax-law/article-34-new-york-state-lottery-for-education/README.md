@@ -40,7 +40,7 @@
 Section 1600.   Short title.
         1601.   Statement of purpose.
         1602.   Definitions.
-        1603.   Division of the lottery; director.
+        1603.   Division of the lottery.
         1604.   Powers and duties of the division.
         1604-a. Posting of signs to assist compulsive gamblers.
         1605.   Lottery sales agents and other licensees.
