@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 13 May 2016.*
+*Current through the publication of 20 May 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [20 May 2016](changes/2016/2016-05-20.md): Arts and Cultural Affairs Law; Boxing, Sparring and Wrestling; Education Law; Uniform Commercial Code
 - [13 May 2016](changes/2016/2016-05-13.md): Retirement and Social Security Law; Social Services Law
 - [6 May 2016](changes/2016/2016-05-06.md): Alcoholic Beverage Control Law; Social Services Law
 - [29 Apr 2016](changes/2016/2016-04-29.md): Public Health Law
@@ -22,21 +23,20 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [15 Apr 2016](changes/2016/2016-04-15.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Arts and Cultural Affairs Law; Boxing, Sparring and Wrestling; Correction Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Public Authorities Law; Public Health Law; Public Service Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [8 Apr 2016](changes/2016/2016-04-08.md): Banking Law; Canal Law; Education Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Parks, Recreation and Historic Preservation Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Volunteer Firefighters' Benefit Law; Workers' Compensation Law
 - [25 Mar 2016](changes/2016/2016-03-25.md): Correction Law; Family Court Act; General Municipal Law; Public Health Law; Public Service Law; Social Services Law; Vehicle and Traffic Law
-- [18 Mar 2016](changes/2016/2016-03-18.md): Executive Law; General Business Law; Insurance Law; Navigation Law; Public Health Law; Social Services Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Family Court Act](court-acts/family-court-act/README.md) | 212 |
-| [Education Law](consolidated-laws/education-law/README.md) | 201 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 197 |
+| [Education Law](consolidated-laws/education-law/README.md) | 207 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 196 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 105 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 89 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 78 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 74 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 73 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 71 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 73 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 72 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 70 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 61 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 59 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 58 |
@@ -52,7 +52,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 664 | 15 Apr 2016 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 166 | 6 May 2016 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
-| [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 15 Apr 2016 |
+| [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 20 May 2016 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 837 | 8 Apr 2016 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 6 Nov 2015 |
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 248 | 11 Mar 2016 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 29 Jan 2016 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 172 | 22 Apr 2016 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,857 | 22 Apr 2016 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,857 | 20 May 2016 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | 22 Apr 2016 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 393 | 18 Dec 2015 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -134,7 +134,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 18 Dec 2015 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 8 Apr 2016 |
-| [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 27 Feb 2015 |
+| [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 20 May 2016 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 889 | 15 Apr 2016 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 27 Nov 2015 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 19 Jun 2015 |
@@ -145,7 +145,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
-| [Boxing, Sparring and Wrestling](unconsolidated-laws/boxing-sparring-and-wrestling/README.md) | BSW | 40 | 15 Apr 2016 |
+| [Boxing, Sparring and Wrestling](unconsolidated-laws/boxing-sparring-and-wrestling/README.md) | BSW | 40 | 20 May 2016 |
 | [Bridges and Tunnels New York/New Jersey](unconsolidated-laws/bridges-and-tunnels-new-york-new-jersey/README.md) | BAT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Cigarettes, Cigars, Tobacco](unconsolidated-laws/cigarettes-cigars-tobacco/README.md) | CCT | 2 | no change since 22 Sep 2014 (start of history) |
 | [City of Troy Issuance of Serial Bonds](unconsolidated-laws/city-of-troy-issuance-of-serial-bonds/README.md) | TRY | 18 | no change since 22 Sep 2014 (start of history) |

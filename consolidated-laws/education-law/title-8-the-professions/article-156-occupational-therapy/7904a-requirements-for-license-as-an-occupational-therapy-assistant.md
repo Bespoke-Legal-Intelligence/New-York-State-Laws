@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 156 — Occupational Therapy](README.md)
 
 ```text
-  * § 7904-a. Requirements for license as an occupational therapy
+  § 7904-a. Requirements for license as an occupational therapy
 assistant. To qualify for a license as an occupational therapy assistant
 an applicant shall fulfill the following requirements:
   (a) file an application with the department;
@@ -25,5 +25,4 @@ occupational therapists; and
   (g) except as otherwise provided by subdivision two of section
 seventy-nine hundred seven of this article, pass an examination
 acceptable to the department.
-  * NB Effective May 18, 2016
 ```
