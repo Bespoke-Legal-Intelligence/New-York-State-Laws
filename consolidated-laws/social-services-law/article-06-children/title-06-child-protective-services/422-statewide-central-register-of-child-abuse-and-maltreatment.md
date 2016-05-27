@@ -175,8 +175,8 @@ within the legal authority of the department of investigation and the
 state department of social services gives prior approval;
   (n) chief executive officers of authorized agencies, directors of day
 care centers and directors of facilities operated or supervised by the
-department of education, the division for youth, the office of mental
-health or the office of mental retardation and developmental
+department of education, the office of children and family services, the
+office of mental health or the office for people with developmental
 disabilities, in connection with a disciplinary investigation, action,
 or administrative or judicial proceeding instituted by any of such
 officers or directors against an employee of any such agency, center or
@@ -185,14 +185,14 @@ abuse or maltreatment contained in the report occurred in the agency,
 center, facility or program, and the purpose of such proceeding is to
 determine whether the employee should be retained or discharged;
 provided, however, a person given access to information pursuant to this
-subparagraph (n) shall, notwithstanding any inconsistent provision of
-law, be authorized to redisclose such information only if the purpose of
-such redisclosure is to initiate or present evidence in a disciplinary,
+subparagraph shall, notwithstanding any inconsistent provision of law,
+be authorized to redisclose such information only if the purpose of such
+redisclosure is to initiate or present evidence in a disciplinary,
 administrative or judicial proceeding concerning the continued
 employment or the terms of employment of an employee of such agency,
 center or facility who has been named as a subject of an indicated
 report and, in addition, a person or agency given access to information
-pursuant to this subparagraph (n) shall also be given information not
+pursuant to this subparagraph shall also be given information not
 otherwise provided concerning the subject of an indicated report where
 the commission of an act or acts by such subject has been determined in
 proceedings pursuant to article ten of the family court act to

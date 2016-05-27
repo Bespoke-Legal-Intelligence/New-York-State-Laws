@@ -1,0 +1,40 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 305-B", "kind": "section", "law_id": "AGM", "location_id": "305-B", "path": "ARTICLE 25-AA › SECTION 305-B", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/305-B.md", "title": "Agricultural data statement"} -->
+# Agriculture and Markets Law § 305-B — Agricultural data statement
+
+[Agriculture and Markets Law](../README.md) › [Article 25-AA — Agricultural Districts](README.md)
+
+```text
+  § 305-b. Agricultural data statement. 1. Submission, evaluation. Any
+application for a special use permit, site plan approval, use variance,
+or subdivision approval requiring municipal review and approval by a
+planning board, zoning board of appeals, town board, or village board of
+trustees pursuant to article sixteen of the town law or article seven of
+the village law, that would occur on property within an agricultural
+district containing a farm operation or on property with boundaries
+within five hundred feet of a farm operation located in an agricultural
+district, shall include an agricultural data statement. The planning
+board, zoning board of appeals, town board, or village board of trustees
+shall evaluate and consider the agricultural data statement in its
+review of the possible impacts of the proposed project upon the
+functioning of farm operations within such agricultural district. The
+information required by an agricultural data statement may be included
+as part of any other application form required by local law, ordinance
+or regulation.
+  2. Notice provision. Upon the receipt of such application by the
+planning board, zoning board of appeals, town board, or village board of
+trustees, the clerk of such board shall mail written notice of such
+application to the owners of land as identified by the applicant in the
+agricultural data statement. The notice shall include a description of
+the proposed project and its location, and may be sent in conjunction
+with any other notice required by state or local law, ordinance, rule or
+regulation for the project. The cost of mailing the notice shall be
+borne by the applicant.
+  3. Content. An agricultural data statement shall include the following
+information: the name and address of the applicant; a description of the
+proposed project and its location; the name and address of any owner of
+land within the agricultural district, which land contains farm
+operations and is located within five hundred feet of the boundary of
+the property upon which the project is proposed; and a tax map or other
+map showing the site of the proposed project relative to the location of
+farm operations identified in the agricultural data statement.
+```

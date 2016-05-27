@@ -321,9 +321,9 @@ is filed in the court; or
   (c) The parent or parents, whose consent to the adoption of the child
 would otherwise be required in accordance with section one hundred
 eleven of the domestic relations law, are presently and for the
-foreseeable future unable, by reason of mental illness or mental
-retardation, to provide proper and adequate care for a child who has
-been in the care of an authorized agency for the period of one year
+foreseeable future unable, by reason of mental illness or intellectual
+disability, to provide proper and adequate care for a child who has been
+in the care of an authorized agency for the period of one year
 immediately prior to the date on which the petition is filed in the
 court; or
   (d) The child is a permanently neglected child; or
@@ -356,12 +356,14 @@ by a disorder or disturbance in behavior, feeling, thinking or judgment
 to such an extent that if such child were placed in or returned to the
 custody of the parent, the child would be in danger of becoming a
 neglected child as defined in the family court act.
-  (b) For the purposes of this section, "mental retardation" means
+  (b) For the purposes of this section, "intellectual disability" means
 subaverage intellectual functioning which originates during the
 developmental period and is associated with impairment in adaptive
 behavior to such an extent that if such child were placed in or returned
 to the custody of the parent, the child would be in danger of becoming a
-neglected child as defined in the family court act.
+neglected child as defined in the family court act; provided, however,
+that case law regarding use of the phrase "mental retardation" under
+this section shall be applicable to the term "intellectual disability".
   (c) The legal sufficiency of the proof in a proceeding upon the ground
 set forth in paragraph (c) of subdivision four of this section shall not
 be determined until the judge has taken the testimony of a psychologist,

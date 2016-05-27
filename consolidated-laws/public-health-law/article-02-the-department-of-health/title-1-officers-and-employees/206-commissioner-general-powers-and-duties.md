@@ -164,6 +164,29 @@ state plan amendment submitted to the centers for Medicare and Medicaid
 services to the chair of the senate standing committee on health and the
 chair of the assembly health committee, no later than five business days
 from the date of mailing or submission.
+  * (v) require, in consultation and cooperation with the superintendent
+of financial services, that every individual applying for health care
+coverage through the state health benefit exchange established pursuant
+to the federal Patient Protection and Affordable Care Act (P.L.
+111-148), as amended by the federal Health Care and Education
+Reconciliation Act of 2010 (P.L. 111-152), be provided space so that
+such applicant may register in the "donate life registry" for organ, eye
+and tissue donations under section forty-three hundred ten of this
+chapter with the following stated in clear conspicuous type:
+  "Would you like to be added to the Donate Life Registry? Check box for
+'yes' or 'skip this question'."
+  The commissioner shall not maintain records of any person who checks
+"skip this question". Except where the application is made in person or
+electronically, failure to check a box shall not impair the validity of
+an application, and failure to check "yes" or checking "skip this
+question" shall not be construed to imply a wish not to donate. In the
+case of an applicant under eighteen years of age, checking "yes" shall
+not constitute consent to make an anatomical gift or registration in the
+donate life registry. Where an applicant has previously consented to
+make an anatomical gift or registered in the donate life registry,
+checking "skip this question" or failing to check a box shall not impair
+that consent or registration.
+  * NB Effective January 1, 2017
   2. The commissioner and any person authorized by him so to do, may,
 without fee or hindrance, enter, examine and survey all grounds,
 erections, vehicles, structures, apartments, buildings and places.

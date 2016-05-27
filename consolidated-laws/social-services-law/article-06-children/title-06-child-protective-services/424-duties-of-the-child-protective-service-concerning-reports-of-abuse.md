@@ -181,11 +181,9 @@ basis or under a final or intermediate order of the family court.
   14. comply with provisions of sections ten hundred thirty-nine-a and
 ten hundred fifty-two-a of the family court act.
   The provisions of this section shall not apply to a child protective
-service with respect to reports involving children in facilities or
-programs subject to the provisions of subdivision eleven of section four
-hundred twenty-two of this title or reports involving children in homes
-operated or supervised by the division for youth, the office of mental
-health, or the office of mental retardation and developmental
-disabilities subject to the provisions of section four hundred
-twenty-four-b of this title.
+service with respect to reports involving children in homes operated or
+supervised by the office of children and family services, the office of
+mental health, or the office of people with developmental disabilities
+subject to the provisions of section four hundred twenty-four-b of this
+title.
 ```

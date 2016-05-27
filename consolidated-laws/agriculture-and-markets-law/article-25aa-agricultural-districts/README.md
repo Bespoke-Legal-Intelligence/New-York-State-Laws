@@ -11,12 +11,12 @@
 - [§ 303 Agricultural districts; creation](303-agricultural-districts-creation.md)
 - [§ 303-A Agricultural districts; review](303a-agricultural-districts-review.md)
 - [§ 303-B Agricultural districts; inclusion of viable agricultural land](303b-agricultural-districts-inclusion-of-viable-agricultural-land.md)
-- [§ 304 Unique and irreplaceable agricultural lands; creation of districts](304-unique-and-irreplaceable-agricultural-lands-creation-of-districts.md)
+- [§ 303-C Consolidation of agricultural districts](303c-consolidation-of-agricultural-districts.md)
 - [§ 304-A Agricultural assessment values](304a-agricultural-assessment-values.md)
 - [§ 304-B Agricultural district data reporting](304b-agricultural-district-data-reporting.md)
 - [§ 305 Agricultural districts; effects](305-agricultural-districts-effects.md)
 - [§ 305-A Coordination of local planning and land use decision-making with the agricultural districts program](305a-coordination-of-local-planning-and-land-use-decision-making.md)
-- [§ 305-B Review of proposed rules and regulations of state agencies affecting the agricultural industry](305b-review-of-proposed-rules-and-regulations-of-state-agencies-affecting.md)
+- [§ 305-B Agricultural data statement](305b-agricultural-data-statement.md)
 - [§ 306 Agricultural lands outside of districts; agricultural assessments](306-agricultural-lands-outside-of-districts-agricultural-assessments.md)
 - [§ 307 Promulgation of rules and regulations](307-promulgation-of-rules-and-regulations.md)
 - [§ 308 Right to farm](308-right-to-farm.md)
@@ -37,15 +37,15 @@ Section 300.   Declaration of legislative findings and intent.
         303-a. Agricultural districts; review.
         303-b. Agricultural districts; inclusion of viable agricultural
                  land.
-        304.   Unique and irreplaceable agricultural lands; creation of
-                 districts.
+        303-c. Consolidation of agricultural districts.
         304-a. Agricultural assessment values.
         304-b. Agricultural district data reporting.
         305.   Agricultural districts; effects.
         305-a. Coordination of local planning and land use
                  decision-making with the agricultural districts
                  program.
-        305-b. Review of proposed rules and regulations of state
+        305-b. Agricultural data statement.
+        305-c. Review of proposed rules and regulations of state
                  agencies affecting the agricultural industry.
         306.   Agricultural lands outside of districts; agricultural
                  assessments.

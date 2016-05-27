@@ -20,7 +20,6 @@
 - [§ 169 Delegation of powers and immunities in regard to dutch elm disease in municipalities](169-delegation-of-powers-and-immunities-in-regard-to-dutch-elm-disease.md)
 - [§ 169-A Spraying fruit trees or crops with poison](169a-spraying-fruit-trees-or-crops-with-poison.md)
 - [§ 169-B Fees](169b-fees.md)
-- [§ 169-C Plant industry advisory committee](169c-plant-industry-advisory-committee.md) *(repealed)*
 - [§ 169-D Apiary industry advisory committee](169d-apiary-industry-advisory-committee.md)
 
 <details>

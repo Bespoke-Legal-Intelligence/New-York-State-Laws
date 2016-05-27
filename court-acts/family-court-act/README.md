@@ -8,7 +8,7 @@
 | Senate code | FCT |
 | Type | Court act |
 | Sections | 651 |
-| Last changed | 8 Apr 2016 |
+| Last changed | 27 May 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Family Court Act |
 
@@ -31,6 +31,7 @@
 
 ## Recent changes
 
+- [27 May 2016](../../changes/2016/2016-05-27.md): 6 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 4 amended
 - [25 Mar 2016](../../changes/2016/2016-03-25.md): 1 amended, 1 added, 2 removed
 - [19 Feb 2016](../../changes/2016/2016-02-19.md): 7 amended
@@ -40,7 +41,6 @@
 - [25 Dec 2015](../../changes/2015/2015-12-25.md): 12 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 6 amended, 1 added
 - [6 Nov 2015](../../changes/2015/2015-11-06.md): 1 amended
-- [30 Oct 2015](../../changes/2015/2015-10-30.md): 1 amended
 
 ## Contents
 

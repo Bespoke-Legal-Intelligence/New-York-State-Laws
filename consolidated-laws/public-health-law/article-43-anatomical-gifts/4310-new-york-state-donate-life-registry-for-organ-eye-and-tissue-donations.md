@@ -62,8 +62,8 @@ the funds deposited into the life pass it on trust fund pursuant to
 section ninety-five-d of the state finance law.
   (c) In addition, the contractor may receive and use voluntary
 contributions.
-  * 5. (a) Such organ, eye and tissue registration of consent to make an
-anatomical gift can be made through: (i) indication made on the
+  * 5. ** (a) Such organ, eye and tissue registration of consent to make
+an anatomical gift can be made through: (i) indication made on the
 application or renewal form of a driver's license, (ii) indication made
 on a non-driver identification card application or renewal form, (iii)
 indication made on a voter registration form pursuant to subdivision
@@ -71,7 +71,19 @@ five of section 5-210 of the election law, (iv) enrollment through the
 donate life registry website, (v) paper enrollment submitted to the
 donate life registry, or (vi) through any other method identified by the
 commissioner.
-  (b)(i) Where required by law for registration forms described in
+  ** NB Effective until January 1, 2017
+  ** (a) Such organ, eye and tissue registration of consent to make an
+anatomical gift can be made through: (i) indication made on the
+application or renewal form of a driver's license, (ii) indication made
+on a non-driver identification card application or renewal form, (iii)
+indication made on a voter registration form pursuant to subdivision
+five of section 5-210 of the election law, (iv) indication made on the
+application for health care coverage offered through the state health
+benefit exchange, (v) enrollment through the donate life registry
+website, (vi) paper enrollment submitted to the donate life registry, or
+(vii) through any other method identified by the commissioner.
+  ** NB Effective January 1, 2017
+  (b)** (i) Where required by law for registration forms described in
 subparagraphs (i) and (ii) of paragraph (a) of this subdivision, the
 commissioner shall ensure that space is provided on any registration
 form so that the applicant shall register or decline registration in the
@@ -81,6 +93,18 @@ conspicuous type:
   "You must fill out the following section: Would you like to be added
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
+  ** NB Effective until January 1, 2017
+  ** (i) Where required by law for registration forms described in
+subparagraphs (i), (ii) and (iv) of paragraph (a) of this subdivision,
+the commissioner shall ensure that space is provided on any registration
+form so that the applicant shall register or decline registration in the
+donate life registry for organ, eye and tissue donations under this
+section and that the following is stated on the form in clear and
+conspicuous type:
+  "You must fill out the following section: Would you like to be added
+to the Donate Life Registry? Check box for 'yes' or 'skip this
+question'."
+  ** NB Effective January 1, 2017
   (ii) The commissioner shall not maintain records of any person who
 checks "skip this question". Except where the application is made in
 person or electronically, failure to check a box shall not impair the

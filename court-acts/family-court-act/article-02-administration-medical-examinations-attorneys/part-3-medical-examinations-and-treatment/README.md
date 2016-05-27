@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 231 Jurisdiction over mentally retarded children](231-jurisdiction-over-mentally-retarded-children.md)
+- [§ 231 Jurisdiction over intellectually disabled children](231-jurisdiction-over-intellectually-disabled.md)
 - [§ 232 Jurisdiction over children with physical disabilities](232-jurisdiction-over-children-with-physical.md)
 - [§ 233 Medical services](233-medical-services.md)
 - [§ 234 Compensation and liability for support and care in counties outside the city of New York](234-compensation-and-liability-for-support.md)
@@ -18,7 +18,7 @@
 ```text
                                  PART 3
                    MEDICAL EXAMINATIONS AND TREATMENT
-Section 231. Jurisdiction over mentally retarded children.
+Section 231. Jurisdiction over intellectually disabled children.
         232. Jurisdiction over children with physical disabilities.
         233. Medical services.
         234. Compensation and liability for support and care in counties
