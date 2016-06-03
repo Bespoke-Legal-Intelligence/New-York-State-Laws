@@ -45,7 +45,7 @@ Section 1811.   Estate, gift and transfer taxes.
         1815.   Highway use and fuel use taxes.
         1817.   Sales and compensating use taxes.
         1818.   Real estate transfer tax.
-        1820.   Boxing and wrestling exhibitions tax.
+        1820.   Authorized combative sports tax.
         1821.   Medallion taxicab owners tax in the metropolitan
                   commuter transportation district.
 ```
