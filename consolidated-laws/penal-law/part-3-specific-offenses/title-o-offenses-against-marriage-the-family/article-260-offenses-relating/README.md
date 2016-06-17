@@ -15,6 +15,7 @@
 - [§ 260.15 Endangering the welfare of a child; defense](260.15-endangering-the-welfare-of-a-child.md)
 - [§ 260.20 Unlawfully dealing with a child in the first degree](260.20-unlawfully-dealing-with-a-child.md)
 - [§ 260.21 Unlawfully dealing with a child in the second degree](260.21-unlawfully-dealing-with-a-child.md)
+- [§ 260.22 Facilitating female genital mutilation](260.22-facilitating-female-genital-mutilation.md)
 - [§ 260.24 Endangering the welfare of an incompetent or physically disabled person in the second degree](260.24-endangering-the-welfare-of-an-incompetent.md)
 - [§ 260.25 Endangering the welfare of an incompetent or physically disabled person in the first degree](260.25-endangering-the-welfare-of-an-incompetent.md)
 - [§ 260.31 Vulnerable elderly persons; definitions](260.31-vulnerable-elderly-persons-definitions.md)
@@ -37,6 +38,7 @@ Section 260.00   Abandonment of a child.
         260.15   Endangering the welfare of a child; defense.
         260.20   Unlawfully dealing with a child in the first degree.
         260.21   Unlawfully dealing with a child in the second degree.
+        260.22   Facilitating female genital mutilation.
         260.24   Endangering the welfare of an incompetent or physically
                    disabled person in the second degree.
         260.25   Endangering the welfare of an incompetent or physically

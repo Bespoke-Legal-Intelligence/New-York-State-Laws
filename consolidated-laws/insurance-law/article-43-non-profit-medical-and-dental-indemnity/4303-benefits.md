@@ -1787,7 +1787,7 @@ regulations promulgated thereunder with respect to such policy. An
 isolated, inadvertent renewal date change which was not made for the
 sole purpose of evading the requirements of the affordable care act
 shall not be deemed a violation of this subsection.
-  * (pp) No contract issued by a medical expense indemnity corporation,
+  (pp) No contract issued by a medical expense indemnity corporation,
 hospital service corporation, or health service corporation that
 provides reimbursement for non-physician surgical first assistant
 services when the services are provided by a non-physician surgical
@@ -1803,5 +1803,4 @@ review of the services or prevent a policy from requiring that services
 are to be provided through a network of participating providers who meet
 certain requirements for participation, including provider
 credentialing.
-  * NB Effective June 8, 2016
 ```

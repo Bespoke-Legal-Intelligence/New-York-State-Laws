@@ -132,7 +132,7 @@ medical emergency exists. However, no person actually in need of
 emergency treatment, as determined by the attending physician, shall be
 denied such treatment by a general hospital in cities with a population
 of one million or more for any reason whatsoever.
-  5. The staff of a general hospital shall inquire whether or not the
+  * 5. The staff of a general hospital shall inquire whether or not the
 person admitted is a veteran, as defined in section eighty-five of the
 civil service law. Such information shall be listed on the admissions
 form. The staff shall notify any admittee who is a veteran of the
@@ -145,4 +145,24 @@ the patient's condition has stabilized and transfer can be accomplished
 safely and without complication. The commissioner shall promulgate rules
 and regulations for notifying such admittees of possible available
 services and for arranging a requested transfer.
+  * NB Effective until December 5, 2016
+  * 5. The staff of a general hospital shall: (a) inquire whether or not
+the person admitted has served in the United States armed forces. Such
+information shall be listed on the admissions form; (b) notify any
+admittee who is a veteran of the possible availability of services at a
+hospital operated by the veterans administration, and, upon request by
+the admittee, such staff shall make arrangements for the individual's
+transfer to a veterans administration operated hospital, provided,
+however, that transfers shall be authorized only after it has been
+determined, according to accepted clinical and medical standards, that
+the patient's condition has stabilized and transfer can be accomplished
+safely and without complication; and (c) provide any admittee who has
+served in the United States armed forces with a copy of the "Information
+for Veterans concerning Health Care Options" fact sheet, maintained by
+the division of veterans' affairs pursuant to subdivision twenty-three
+of section three hundred fifty-three of the executive law prior to
+discharging or transferring the patient. The commissioner shall
+promulgate rules and regulations for notifying such admittees of
+possible available services and for arranging a requested transfer.
+  * NB Effective December 5, 2016
 ```
