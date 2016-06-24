@@ -11,13 +11,13 @@
 - [§ 1052-B Duties of counsel](1052b-duties-of-counsel.md)
 - [§ 1052-C Duty to report investigations to locate non-respondent parents or relatives](1052c-duty-to-report-investigations-to-locate-non-respondent-parents-or-relatives.md)
 - [§ 1053 Suspended judgment](1053-suspended-judgment.md)
-- [§ 1054 Release to custody of parent or other person responsible for care; supervision or order of protection](1054-release-to-custody-of-parent-or-other-person-responsible-for-care-supervision.md)
+- [§ 1054 Release to non-respondent parent or legal custodian or guardian](1054-release-to-non-respondent-parent-or-legal-custodian-or-guardian.md)
 - [§ 1055 Placement](1055-placement.md)
 - [§ 1055-A Substantial failure of a material condition of surrender; enforcement of a contact agreement](1055a-substantial-failure-of-a-material-condition-of-surrender-enforcement.md)
-- [§ 1055-B Custody or guardianship with relatives or suitable persons pursuant to article six of this act or guardianship with such a person pursuan...](1055b-custody-or-guardianship-with-relatives-or-suitable-persons-pursuant-to-article.md)
+- [§ 1055-B Custody or guardianship with a parent or parents, relatives or suitable persons pursuant to article six of this act or guardianship with ...](1055b-custody-or-guardianship-with-a-parent-or-parents-relatives-or-suitable-persons.md)
 - [§ 1056 Order of protection](1056-order-of-protection.md)
 - [§ 1056-A Firearms; surrender and license suspension, revocation and ineligibility](1056a-firearms-surrender-and-license-suspension-revocation-and-ineligibility.md)
-- [§ 1057 Supervision](1057-supervision.md)
+- [§ 1057 Release of the child to the respondent or respondents; supervision of the respondent or respondents](1057-release-of-the-child-to-the-respondent-or-respondents-supervision.md)
 - [§ 1058 Expiration of orders](1058-expiration-of-orders.md)
 
 <details>

@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 17 Jun 2016.*
+*Current through the publication of 24 Jun 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [24 Jun 2016](changes/2016/2016-06-24.md): Domestic Relations Law; Family Court Act
 - [17 Jun 2016](changes/2016/2016-06-17.md): Criminal Procedure Law; Education Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Penal Law; Public Health Law; Real Property Tax Law; Social Services Law; Workers' Compensation Law
 - [3 Jun 2016](changes/2016/2016-06-03.md): Banking Law; Education Law; Election Law; Environmental Conservation Law; Judiciary Law; Local Finance Law; Public Health Law; Retirement and Social Security Law; Surrogate's Court Procedure Act
 - [27 May 2016](changes/2016/2016-05-27.md): Agriculture and Markets Law; Domestic Relations Law; Executive Law; Family Court Act; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; State Finance Law
@@ -22,14 +23,13 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [13 May 2016](changes/2016/2016-05-13.md): Retirement and Social Security Law; Social Services Law
 - [6 May 2016](changes/2016/2016-05-06.md): Alcoholic Beverage Control Law; Social Services Law
 - [29 Apr 2016](changes/2016/2016-04-29.md): Public Health Law
-- [22 Apr 2016](changes/2016/2016-04-22.md): Civil Service Law; Economic Development Law; Education Law; Elder Law; Executive Law; Facilities Development Corporation Act; Insurance Law; Labor Law; Legislative Law; Mental Hygiene Law; Public Health Law; Public Housing Law; Public Lands Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Family Court Act](court-acts/family-court-act/README.md) | 218 |
-| [Education Law](consolidated-laws/education-law/README.md) | 208 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 229 |
+| [Education Law](consolidated-laws/education-law/README.md) | 207 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 192 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 106 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 89 |
@@ -41,8 +41,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 60 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 59 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 59 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 53 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 50 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 49 |
 
 ## Consolidated Laws
 
@@ -65,7 +65,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 444 | 27 Nov 2015 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 563 | 17 Jun 2016 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
-| [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 27 May 2016 |
+| [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 24 Jun 2016 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 172 | 22 Apr 2016 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,857 | 17 Jun 2016 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 39 | 22 Apr 2016 |
@@ -183,7 +183,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 4 Sep 2015 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 651 | 27 May 2016 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 651 | 24 Jun 2016 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 4 Sep 2015 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 33 | 24 Apr 2015 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 3 Jun 2016 |

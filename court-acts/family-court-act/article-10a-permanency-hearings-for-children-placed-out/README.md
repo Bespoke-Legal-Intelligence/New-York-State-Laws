@@ -9,7 +9,7 @@
 - [§ 1087 Definitions](1087-definitions.md)
 - [§ 1088 Continuing court jurisdiction](1088-continuing-court-jurisdiction.md)
 - [§ 1089 Permanency hearings](1089-permanency-hearings.md)
-- [§ 1089-A Custody or guardianship with relatives or suitable persons pursuant to article six of this act or guardianship pursuant to article sevent...](1089a-custody-or-guardianship-with-relatives-or-suitable-persons-pursuant-to-article.md)
+- [§ 1089-A Custody or guardianship with a parent or parents, a relative or relatives or a suitable person or persons pursuant to article six of this...](1089a-custody-or-guardianship-with-a-parent-or-parents-a-relative-or-relatives.md)
 - [§ 1090 Representation of parties](1090-representation-of-parties.md)
 - [§ 1090-A Participation of children in their permanency hearings](1090a-participation-of-children-in-their-permanency-hearings.md)
 
