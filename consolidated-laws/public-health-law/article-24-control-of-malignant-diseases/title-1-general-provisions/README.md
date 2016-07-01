@@ -15,6 +15,7 @@
 - [§ 2404-A Prostate cancer; duty to inform](2404a-prostate-cancer-duty-to-inform.md)
 - [§ 2404-B Breast cancer; duty of providers of mammography services to ascertain and provide clinical breast examination information](2404b-breast-cancer-duty-of-providers-of-mammography-services.md)
 - [§ 2404-C Breast cancer; duty of providers of mammography services to notify and inform](2404c-breast-cancer-duty-of-providers-of-mammography-services-to-notify.md)
+- [§ 2404-D Breast cancer; duty to provide extended hours](2404d-breast-cancer-duty-to-provide-extended-hours.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +37,7 @@ Section 2400.   Cancer; powers and duties of commissioner.
                   information.
         2404-c. Breast cancer; duty of providers of mammography services
                   to notify and inform.
+        2404-d. Breast cancer; duty to provide extended hours.
 ```
 
 </details>

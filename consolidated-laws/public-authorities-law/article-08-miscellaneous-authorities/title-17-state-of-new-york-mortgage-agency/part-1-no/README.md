@@ -16,6 +16,7 @@
 - [§ 2405-C Purchase of new housing loans](2405c-purchase-of-new-housing-loans.md)
 - [§ 2405-D Lease-to-own program](2405d-lease-to-own-program.md)
 - [§ 2405-E Purchase of employer assisted forward commitment mortgages](2405e-purchase-of-employer-assisted-forward.md)
+- [§ 2405-F New York state community restoration fund](2405f-new-york-state-community-restoration.md)
 - [§ 2406 Bonds and notes of the agency](2406-bonds-and-notes-of-the-agency.md)
 - [§ 2407 Bond limits](2407-bond-limits.md)
 - [§ 2408 Reserve funds and appropriations](2408-reserve-funds-and-appropriations.md)
@@ -54,6 +55,7 @@ Section 2400.   Short title.
         2405-d. Lease-to-own program.
         2405-e. Purchase of employer assisted forward commitment
                   mortgages.
+        2405-f. New York state community restoration fund.
         2406.   Bonds and notes of the agency.
         2407.   Bond limits.
         2408.   Reserve funds and appropriations.

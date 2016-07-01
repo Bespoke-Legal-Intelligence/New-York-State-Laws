@@ -9,6 +9,7 @@
 - [§ 6509-A Additional definition of professional misconduct; limited application](6509a-additional-definition-of-professional.md)
 - [§ 6509-B Additional definition of professional misconduct; arrears in payment of support; limited application](6509b-additional-definition-of-professional.md)
 - [§ 6509-C Additional definition of professional misconduct; failure to comply in paternity or child support proceedings; limited application](6509c-additional-definition-of-professional.md)
+- [§ 6509-D Limited exemption from professional misconduct](6509d-limited-exemption-from-professional-misconduct.md)
 - [§ 6510 Proceedings in cases of professional misconduct](6510-proceedings-in-cases-of-professional-misconduct.md)
 - [§ 6510-B Temporary surrender of licenses during treatment for drug or alcohol abuse](6510b-temporary-surrender-of-licenses-during.md)
 - [§ 6510-C Nurse peer assistance programs](6510c-nurse-peer-assistance-programs.md)

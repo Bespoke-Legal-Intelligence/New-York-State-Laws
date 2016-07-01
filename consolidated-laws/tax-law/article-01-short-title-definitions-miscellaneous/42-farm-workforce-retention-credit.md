@@ -59,5 +59,5 @@ allowed under this section.
   (g) Cross references: For application of the credit provided in this
 section, see the following provisions of this chapter:
   (1) Article 9-A: Section 210-B, subdivision 51.
-  (2) Article 22: Section 606, subsection (eee).
+  (2) Article 22: Section 606, subsection (fff).
 ```

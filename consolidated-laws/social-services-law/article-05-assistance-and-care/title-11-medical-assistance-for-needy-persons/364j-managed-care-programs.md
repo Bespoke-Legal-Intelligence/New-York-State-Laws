@@ -1235,6 +1235,12 @@ apply if the patient is a recipient of hospice care, has a diagnosis of
 cancer or sickle cell disease, or any other condition or diagnosis for
 which the commissioner of health determines prior authorization is not
 required.
+  26-b. Managed care providers shall not require prior authorization for
+an initial or renewal prescription for buprenorphine or injectable
+naltrexone for detoxification or maintenance treatment of opioid
+addiction unless the prescription is for a non-preferred or
+non-formulary form of the drug or as otherwise required by section
+1927(k)(6) of the Social Security Act.
   ** 27. The commissioner of the department of health may make any
 necessary amendments to a contract pursuant to this section with a
 managed care provider, as defined in paragraph (b) of subdivision one of
@@ -1495,5 +1501,5 @@ of encounter data. No penalties for late, incomplete or inaccurate
 encounter data shall be assessed against managed care organizations in
 addition to those provided for in this subdivision.
   * NB Repealed March 31, 2019 (per ch. 165/1991)
-  * NB Repealed March 31, 2016 (per ch. 710/1988)
+  * NB Repealed March 31, 2019 (per ch. 710/1988)
 ```

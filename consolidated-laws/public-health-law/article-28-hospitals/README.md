@@ -41,6 +41,7 @@
 - [§ 2803-R Dissemination of information about the abandoned infant protection act](2803r-dissemination-of-information-about-the-abandoned-infant-protection-act.md)
 - [§ 2803-S Access to product recall information](2803s-access-to-product-recall-information.md)
 - [§ 2803-T Preadmission information](2803t-preadmission-information.md)
+- [§ 2803-U Hospital substance use disorder policies and procedures](2803u-hospital-substance-use-disorder-policies-and-procedures.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
 - [§ 2804-A State task force on clinical practice guidelines and medical technology assessment](2804a-state-task-force-on-clinical-practice-guidelines-and-medical-technology.md)
 - [§ 2805 Approval of hospitals; operating certificates](2805-approval-of-hospitals-operating-certificates.md)
@@ -180,6 +181,8 @@ Section 2800.     Declaration of policy and statement of purpose.
                     infant protection act.
         2803-s.   Access to product recall information.
         2803-t.   Preadmission information.
+        2803-u.   Hospital substance use disorder policies and
+                    procedures.
         2804.     Units for hospital and health-related affairs.
         2804-a.   State task force on clinical practice guidelines and
                     medical technology assessment.

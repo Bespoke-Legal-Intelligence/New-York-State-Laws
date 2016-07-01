@@ -32,10 +32,10 @@ risk of experiencing an opioid-related overdose, or a family member,
 friend or other person in a position to assist a person experiencing or
 at risk of experiencing an opioid-related overdose, or an organization
 registered as an opioid overdose prevention program pursuant to this
-section or a school district, board of cooperative educational services,
-county vocational education and extension board, charter school,
-non-public elementary and/or secondary school in this state or any
-person employed by such district, board or school.
+section or a school district, public library, board of cooperative
+educational services, county vocational education and extension board,
+charter school, non-public elementary and/or secondary school in this
+state or any person employed by such district, library board or school.
   (b)(i) A health care professional may prescribe by a patient-specific
 or non-patient-specific prescription, dispense or distribute, directly
 or indirectly, an opioid antagonist to an opioid antagonist recipient.
@@ -53,6 +53,11 @@ prescription; nor shall it be deemed to limit the authority of a health
 care professional to prescribe, dispense or distribute, or of a
 pharmacist to dispense, an opioid antagonist under any other provision
 of law.
+  (v) Any pharmacy with twenty or more locations in the state, shall
+either: (1) pursue or maintain a non-patient-specific prescription with
+an authorized health care professional to dispense an opioid antagonist
+to a consumer upon request, as authorized by this section; or (2)
+register with the department as an opioid overdose prevention program.
   3-a. Any distribution of opioid antagonists through this program shall
 include an informational card or sheet. The informational card or sheet
 shall include, at a minimum, information on:
@@ -72,26 +77,36 @@ programs.
 considered first aid or emergency treatment for the purpose of any
 statute relating to liability.
   A recipient, opioid overdose prevention program, school district,
-board of cooperative educational services, county vocational education
-and extension board, charter school, non-public elementary school and/or
-secondary school in the state, or any person employed by such district,
-board or school under this section, acting reasonably and in good faith
-in compliance with this section, shall not be subject to criminal, civil
-or administrative liability solely by reason of such action.
+public library, board of cooperative educational services, county
+vocational education and extension board, charter school, non-public
+elementary school and/or secondary school in the state, or any person
+employed by such district, public library, board or school under this
+section, acting reasonably and in good faith in compliance with this
+section, shall not be subject to criminal, civil or administrative
+liability solely by reason of such action.
   5. The commissioner shall publish findings on statewide opioid
 overdose data that reviews overdose death rates and other information to
-ascertain changes in the cause and rates of fatal opioid overdoses. The
-report may be part of existing state mortality reports issued by the
-department, and shall be submitted annually to the governor, the
-temporary president of the senate, the speaker of the assembly, and the
-chairs of the senate and assembly health committees. The report shall
-include, at a minimum, the following information:
-  (a) information on opioid overdose deaths, including age, gender,
-ethnicity, and geographic location;
+ascertain changes in the cause and rates of opioid overdoses, including
+fatal opioid overdoses. The report shall be submitted annually, on or
+before October first, to the governor, the temporary president of the
+senate, the speaker of the assembly and the chairs of the senate and
+assembly health committees, and shall be made public on the department's
+internet website. The report shall include, at a minimum, the following
+information on a county basis:
+  (a) information on opioid overdoses and opioid overdose deaths,
+including age, gender, ethnicity, and geographic location;
   (b) data on emergency room utilization for the treatment of opioid
 overdose;
   (c) data on utilization of pre-hospital services;
-  (d) data on utilization of opioid antagonists; and
+  (d) data on the dispensing and utilization of opioid antagonists; and
   (e) any other information necessary to ascertain the success of the
-program and ways to further reduce overdoses.
+program, areas of the state which are experiencing particularly high
+rates of overdoses, ways to determine if services, resources and
+responses in particular areas of the state are having a positive impact
+on reducing overdoses, and ways to further reduce overdoses.
+  * 6. The commissioner shall provide the current information and data
+specified in subdivision five of this section to each county every three
+months. Such information and data may be utilized by a county or any
+combination thereof as it works to address the opioid epidemic.
+  * NB Repealed March 31, 2021
 ```

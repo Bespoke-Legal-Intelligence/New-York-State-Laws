@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2404-D", "kind": "section", "law_id": "PBH", "location_id": "2404-D", "path": "ARTICLE 24 › TITLE 1 › SECTION 2404-D", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2404-D.md", "title": "Breast cancer; duty to provide extended hours"} -->
+# Public Health Law § 2404-D — Breast cancer; duty to provide extended hours
+
+[Public Health Law](../../README.md) › [Article 24 — Control of Malignant Diseases](../README.md) › [Title 1 — General Provisions](README.md)
+
+```text
+  § 2404-d. Breast cancer; duty to provide extended hours. 1.
+Applicability. This section shall apply to any general hospital or
+extension clinic that is certified as a mammography facility pursuant to
+the federal mammography quality standards act (MQSA).
+  2. Extended service hours. Any general hospital or extension clinic
+certified as a mammography facility pursuant to the MQSA shall provide
+extended hours, i.e. in the early morning, evening, or weekend hours,
+for screening mammography services. Extended hours for screening
+mammography services shall be provided on at least two days each week,
+for at least two hours each day offered, for a total of at least four
+hours each week, including but not limited to the following times:
+  (a) Monday through Friday, between the hours of 7:00 AM and 9:00 AM;
+  (b) Monday through Friday, between the hours of 5:00 PM and 7:00 PM;
+or
+  (c) Saturday or Sunday, between the hours of 9:00 AM and 5:00 PM.
+  3. Waiver. (a) A facility may submit an application for a waiver from
+the requirements of this section, in whole or in part, if it can
+demonstrate, to the department's satisfaction, that the facility:
+  (i) does not have sufficient staff to provide extended hours for
+screening mammography services in accordance with this section, and that
+it is making diligent efforts to obtain staffing such that it can
+provide extended hours;
+  (ii) is in the process of discontinuing screening mammography
+services, as part of a consolidation or similar change; or
+  (iii) is subject to such other hardships as the department deems
+appropriate.
+  (b) The department may deny, grant or extend a waiver pursuant to
+paragraph (a) of this subdivision for ninety days, or more if the
+department determines appropriate, in its sole discretion.
+```

@@ -82,7 +82,7 @@ whichever is greater;
   (iv) for all periods on or after April first, two thousand sixteen,
 the cash portion of the minimum rate of home care aide total
 compensation shall be ten dollars or the minimum wage as laid out in
-paragraph (c) of subdivision one of section six hundred fifty-two of the
+paragraph (a) of subdivision one of section six hundred fifty-two of the
 labor law, whichever is higher. The benefit portion of the minimum rate
 of home care aide total compensation shall be four dollars and nine
 cents.
@@ -105,7 +105,7 @@ more;
   (iv) for all periods on or after March first, two thousand sixteen,
 the cash portion of the minimum rate of home care aide total
 compensation shall be ten dollars or the minimum wage as laid out in
-paragraph (c) of subdivision one of section six hundred fifty-two of the
+paragraph (b) of subdivision one of section six hundred fifty-two of the
 labor law, whichever is higher. The benefit portion of the minimum rate
 of home care aide total compensation shall be three dollars and
 twenty-two cents.

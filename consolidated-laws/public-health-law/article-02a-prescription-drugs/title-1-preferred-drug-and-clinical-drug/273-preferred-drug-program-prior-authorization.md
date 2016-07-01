@@ -91,4 +91,9 @@ and to enforce applicable federal and state laws.
 required for any prescription under EPIC until the panel has made prior
 authorization applicable to EPIC under section two hundred seventy-five
 of this article.
+  10. Prior authorization shall not be required for an initial or
+renewal prescription for buprenorphine or injectable naltrexone for
+detoxification or maintenance treatment of opioid addiction unless the
+prescription is for a non-preferred or non-formulary form of such drug
+as otherwise required by section 1927(k)(6) of the Social Security Act.
 ```

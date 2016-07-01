@@ -410,6 +410,17 @@ preferred drug, and the co-payments charged for each brand name
 prescription drug reimbursed pursuant to subparagraph (ii) of paragraph
 (a-1) of subdivision four of section three hundred sixty-five-a of this
 title shall be one dollar.
+  ** (iv) When an individual is initially dispensed or prescribed a
+seven or fewer days supply of an opioid pursuant to paragraph (b) of
+subdivision five of section three thousand three hundred thirty-one of
+the public health law, and is subsequently dispensed or prescribed an
+additional supply of such opioid for the same underlying condition, the
+total co-payment that may be charged to such an individual for the
+initial prescription plus all subsequent prescriptions for the same
+underlying condition for up to a total of thirty-days supply of such
+opioid shall not exceed the amount set forth in subparagraph (iii) of
+this paragraph.
+  ** NB Effective July 22, 2016
   * NB Repealed March 31, 2019
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the

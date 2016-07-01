@@ -1477,6 +1477,5 @@ a person other than the purchaser of such electricity; (B) installed on
 the non-residential premises of the purchaser of such electricity; (C)
 placed in service; and (D) used to provide heating, cooling, hot water
 or electricity to such premises.
-  * NB Effective June 1, 2016
   * NB There are 2 sb (kk)'s
 ```

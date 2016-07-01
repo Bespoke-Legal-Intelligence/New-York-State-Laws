@@ -129,7 +129,7 @@ Section  1.   Short title.
         35*2. Economic transformation and facility redevelopment program
                 tax credit.
         36.   Empire state jobs retention program credit.
-        37.   Beer production credit.
+        37.   Alcoholic beverage production credit.
         38.   New York innovation hot spot program tax benefits.
         38*2. Minimum wage reimbursement credit.
         39.   Tax benefits for businesses located in tax-free NY areas

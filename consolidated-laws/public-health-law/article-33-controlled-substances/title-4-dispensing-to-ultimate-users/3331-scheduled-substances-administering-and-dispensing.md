@@ -47,11 +47,32 @@ and bearing the legend, prominently marked or printed "Controlled
 Substance, Dangerous Unless Used As Directed";
   (c) Any label, transparency, or auxiliary label shall be applied in a
 manner which would inhibit its removal.
-  5. No more than a thirty day supply or, pursuant to regulations of the
-commissioner enumerating conditions warranting specified greater
+  * 5. No more than a thirty day supply or, pursuant to regulations of
+the commissioner enumerating conditions warranting specified greater
 supplies, no more than a three month supply of a schedule II, III or IV
 substance, as determined by the directed dosage and frequency of dosage,
 may be dispensed by an authorized practitioner at one time.
+  * NB Effective until July 22, 2016
+  * 5. (a) No more than a thirty day supply or, pursuant to regulations
+of the commissioner enumerating conditions warranting specified greater
+supplies, no more than a three month supply of a schedule II, III or IV
+substance, as determined by the directed dosage and frequency of dosage,
+may be dispensed by an authorized practitioner at one time.
+  (b) Notwithstanding the provisions of paragraph (a) of this
+subdivision, a practitioner, within the scope of his or her professional
+opinion or discretion, may not prescribe more than a seven-day supply of
+any schedule II, III, or IV opioid to an ultimate user upon the initial
+consultation or treatment of such user for acute pain. Upon any
+subsequent consultations for the same pain, the practitioner may issue,
+in accordance with paragraph (a) of this subdivision, any appropriate
+renewal, refill, or new prescription for the opioid or any other drug.
+  (c) For the purposes of this subdivision, "acute pain" shall mean
+pain, whether resulting from disease, accidental or intentional trauma,
+or other cause, that the practitioner reasonably expects to last only a
+short period of time. Such term shall not include chronic pain, pain
+being treated as part of cancer care, hospice or other end-of-life care,
+or pain being treated as part of palliative care practices.
+  * NB Effective July 22, 2016
   6. A practitioner dispensing a controlled substance shall file
 information pursuant to such dispensing with the department by
 electronic means in such manner and detail as the commissioner shall, by

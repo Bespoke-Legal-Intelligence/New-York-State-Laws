@@ -149,7 +149,7 @@ Article
                    II.   Houses of prostitution: injunction and
                           abatement (§§2320-2334).
   24.      Control of malignant diseases
-           Title    I.   General provisions (§§2400--2404-b).
+           Title    I.   General provisions (§§2400--2404-d).
            Title    I-A. Cancer Detection and Education Program
                           (§§2405--2409-a).
            Title    I-B. Health Research Science Board (§§2410-2413).

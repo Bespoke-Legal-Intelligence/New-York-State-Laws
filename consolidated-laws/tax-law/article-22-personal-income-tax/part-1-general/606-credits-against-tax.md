@@ -2265,7 +2265,7 @@ tax credit under subsection (zz)     credit under subdivision
                                      hundred ten-B
   ** NB Repealed January 1, 2020
 (xli) Farm workforce retention       Amount of credit under
-credit under subsection (eee)        subdivision fifty-one of
+credit under subsection (fff)        subdivision fifty-one of
                                      section two hundred ten-B
 (xlii) Employee training incentive   Amount of credit under
 program credit under                 subdivision fifty of
@@ -5085,32 +5085,50 @@ taxable year exceeds the taxpayer's tax for the taxable year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, no interest will be paid thereon.
-  * (eee) School tax relief (STAR) credit. (1) Definitions. For purposes
+  (eee) School tax relief (STAR) credit. (1) Definitions. For purposes
 of this subsection:
   (A) "Qualified taxpayer" means a resident individual of the state, who
 maintained his or her primary residence in this state on December
-thirty-first of the taxable year, who was an owner of that property on
-that date, who cannot receive the STAR exemption on that property either
-because (i) he or she is precluded from filing an application for the
-STAR exemption on that property pursuant to paragraph (a) of subdivision
-sixteen of section four hundred twenty-five of the real property tax
-law, or because (ii) he or she has irrevocably renounced his or her
-claim to such exemption in conjunction with all other owners pursuant to
-paragraph (b) of such subdivision, and who is required or chooses to
-file a return under this article. A taxpayer whose primary residence
-received a STAR exemption for the associated fiscal year that commenced
-after the acquisition of such residence shall not be considered a
-qualified taxpayer for purposes of this subsection.
-  (B) "Affiliated income" shall mean the combined income of all of the
-owners of the parcel who resided primarily thereon as of December
-thirty-first of the taxable year, and of any owners' spouses residing
-primarily thereon as of such date; provided that the income to be so
+thirty-first of the taxable year, and who was an owner of that property
+on that date, provided however: (i) A taxpayer whose primary residence
+received a STAR exemption for the associated fiscal year shall not be
+considered a qualified taxpayer for purposes of this subsection.
+  (ii) An individual may be considered a qualified taxpayer with respect
+to no more than one primary residence during any given taxable year.
+  (iii) If a resident individual was an owner of the property during the
+taxable year but did not own it on December thirty-first of the taxable
+year, he or she shall be considered a qualified taxpayer if the property
+was his or her primary residence during the taxable year and he or she
+paid qualifying taxes on that property while he or she was still an
+owner of that property.
+  (iv) If a resident individual has acquired ownership of property
+during a taxable year, such resident individual shall not be considered
+a qualified taxpayer for that taxable year to the extent that an advance
+payment of the credit for that taxable year has been issued to the prior
+owner with respect to the same property, unless such resident individual
+can demonstrate that he or she paid qualifying taxes on such property
+during the taxable year, and that the prior owner did not.
+  (B) "Affiliated income" shall mean for purposes of the basic STAR
+credit, the combined income of all of the owners of the parcel who
+resided primarily thereon as of December thirty-first of the taxable
+year, and of any owners' spouses residing primarily thereon as of such
+date, and for purposes of the enhanced STAR credit, the combined income
+of all of the owners of the parcel as of December thirty-first of the
+taxable year, and of any owners' spouses residing primarily thereon as
+of such date; provided that for both purposes the income to be so
 combined shall be the "adjusted gross income" for the taxable year as
 reported for federal income tax purposes, or that would be reported as
 adjusted gross income if a federal income tax return were required to be
 filed, reduced by distributions, to the extent included in federal
 adjusted gross income, received from an individual retirement account
-and an individual retirement annuity.
+and an individual retirement annuity. Provided further, that if the
+qualified taxpayer was an owner of the property during the taxable year
+but did not own it on December thirty-first of the taxable year, then
+the determination as to whether the income of an individual should be
+included in "affiliated income" shall be based upon the ownership and/or
+residency status of that individual as of the first day of the month
+during which the qualified taxpayer ceased to be an owner of the
+property, rather than as of December thirty-first of the taxable year.
   (C) "Associated fiscal year" means the school district fiscal year
 that began on July first of the taxable year or, in the case of a city
 school district that is subject to article fifty-two of the education
@@ -5174,8 +5192,8 @@ serves as the taxpayer's primary residence is less than or equal to five
 hundred thousand dollars.
   (B) Subject to the provisions of subparagraph (C) of this paragraph,
 such basic STAR credit shall be the lesser of:
-  (i) the basic STAR tax savings applicable to the taxpayer's primary
-residence, or
+  (i) the basic STAR tax savings for the school district portion in
+which the taxpayer's primary residence is located, or
   (ii) the taxpayer's qualifying taxes.
   (C) If the qualifying taxes paid by the taxpayer constituted only a
 portion of the total school district taxes that were levied upon the
@@ -5211,7 +5229,8 @@ paragraph (b) of subdivision four of section four hundred twenty-five of
 the real property tax law for purposes of the enhanced STAR exemption.
   (B) Subject to the provisions of subparagraph (C) of this paragraph,
 such credit shall be the lesser of:
-  (i) the enhanced STAR tax savings for the school district portion, or
+  (i) the enhanced STAR tax savings for the school district portion in
+which the taxpayer's primary residence is located, or
   (ii) the taxpayer's qualifying taxes.
   (C) If the qualifying taxes paid by the taxpayer constituted only a
 portion of the total school district taxes that were levied upon the
@@ -5237,21 +5256,32 @@ the real property tax law.
 cooperative apartment corporation that is described by paragraph (k) of
 subdivision two of section four hundred twenty-five of the real property
 tax law, the amount of the credit allowable with respect to a
-cooperative apartment shall be equal to sixty percent of the basic STAR
-tax savings for the school district portion, or sixty percent of the
-enhanced STAR tax savings for the school district portion, whichever is
-applicable. Provided, however, that in the case of a cooperative
-apartment corporation that is described by subparagraph (iv) of
-paragraph (k) of subdivision two of section four hundred twenty-five of
-the real property tax law, the credit allowable with respect to a
-cooperative apartment shall be equal to twenty percent of such amount.
+cooperative apartment shall be equal to the basic STAR tax savings for
+the school district portion, or the enhanced STAR tax savings for the
+school district portion, whichever is applicable. Provided, however,
+that in the case of a cooperative apartment corporation that is
+described by subparagraph (iv) of paragraph (k) of subdivision two of
+section four hundred twenty-five of the real property tax law, the
+credit allowable with respect to a cooperative apartment shall be equal
+to one-third of such amount.
   (B) In the case of property consisting of a mobile home that is
 described in paragraph (1) of subdivision two of section four hundred
 twenty-five of the real property tax law, the amount of the credit
-allowable with respect to such mobile home shall be equal to twenty-five
-percent of the basic STAR tax savings for the school district portion,
-or twenty-five percent of the enhanced STAR tax savings for the school
-district portion, whichever is applicable.
+allowable with respect to such mobile home shall be equal to the basic
+STAR tax savings for the school district portion, or the enhanced STAR
+tax savings for the school district portion, whichever is applicable,
+that would be applied to a separately assessed parcel in the school
+district portion with a taxable assessed value equal to twenty thousand
+dollars multiplied by the latest state equalization rate or special
+equalization rate for the assessing unit in which the mobile home is
+located. Provided, however, that if the commissioner is in possession of
+information, including but not limited to assessment records, that
+demonstrates to the commissioner's satisfaction that the taxpayer's
+mobile home is worth more than twenty thousand dollars, or if the
+taxpayer provides the commissioner with such information, the taxpayer's
+credit shall be increased accordingly, but in no case shall the credit
+exceed the basic STAR tax savings or enhanced STAR tax savings,
+whichever is applicable, for the school district portion.
   (C) In the case of a primary residence that is located in two or more
 school districts, the applicable basic or enhanced STAR tax savings for
 the school district portion shall be determined as follows:
@@ -5287,42 +5317,58 @@ identification numbers of all owners of the property and spouses who
 primarily reside on the property, the parcel identification number and
 all other information that may be required by the commissioner to
 determine the credit.
-  (9) Returns. If a qualified taxpayer is not required to file a return
-pursuant to section six hundred fifty-one of this article, a claim for a
-credit may be taken on a return filed with the commissioner within three
-years from the time it would have been required that a return be filed
-pursuant to such section had the qualified taxpayer had a taxable year
-ending on December thirty-first. Returns under this paragraph shall be
-in such form as shall be prescribed by the commissioner, who shall make
-available such forms and instructions for filing such returns.
+  (9) Returns. Whether or not the taxpayer is required to file a return
+pursuant to section six hundred fifty-one of this article, the process
+for requesting advance payment of such credit shall be as provided by
+paragraph ten of this subsection.
   (10) Advance payments. (A) The commissioner shall establish a
-mechanism by which a qualified taxpayer who has acquired a new primary
-residence between January first and July first of the taxable year,
-inclusive, may apply for an advance payment of the credit authorized by
-this section, provided that:
-  (i) Any such application must be submitted to the commissioner by the
-first day of July of the taxable year, or such later date as may be
-prescribed by the commissioner, and
+mechanism by which a qualified taxpayer may apply for an advance payment
+of the credit authorized by this section, provided that:
+  (i) If the taxpayer acquired a new primary residence between January
+first and July first of the taxable year, inclusive, any such
+application must be submitted to the commissioner by the first day of
+July of the taxable year, or such later date as may be prescribed by the
+commissioner in order for the taxpayer's payment to be subject to the
+processing schedule provided by subparagraph (B) of this paragraph, and
   (ii) A qualified taxpayer who fails to apply for an advance payment of
-such credit in a timely manner may request and receive such credit in
-the manner otherwise provided by this section.
+such credit by such date may apply for and receive such credit in the
+manner prescribed by the commissioner, provided that such application
+shall be made within three years from the time that a return for the
+taxable year would have had to be filed pursuant to section six hundred
+fifty-one of this article. If approved, such payment shall be issued as
+soon as is practicable after the submission of the application but shall
+not be subject to the processing schedule prescribed by subparagraph (B)
+of this paragraph, and
+  (iii) A qualified taxpayer who has applied for an advance payment of
+such credit in a taxable year may continue to receive such advance
+payments in future taxable years without reapplying as long as he or she
+remains eligible therefor.
   (B) On or before September fifteenth of each year, or as soon
 thereafter as practicable, the commissioner shall determine the
 eligibility of taxpayers for this credit utilizing the information
-available to him or her. For those taxpayers whom the commissioner has
-determined eligible for this credit, the commissioner shall advance a
-payment in the amount specified in paragraph three, four or six of this
-subsection, whichever is applicable. Such payment shall be issued by
-September thirtieth of the year the credit is allowed, or as soon
-thereafter as is practicable.  A taxpayer who has failed to receive an
-advance payment that he or she believes was due to him or her, or who
-has received an advance payment that he or she believes is less than the
-amount that was due to him or her, may request payment of the claimed
-deficiency in a manner prescribed by the commissioner.
-  (C) An advance payment of credit provided pursuant to this subsection
+available to him or her as obtained from the applications submitted on
+or before July first of that year, or such later date as may have been
+prescribed by the commissioner for that purpose, and from such other
+sources as the commissioner deems reliable and appropriate. For those
+taxpayers whom the commissioner has determined eligible for this credit,
+the commissioner shall advance a payment in the amount specified in
+paragraph three, four or six of this subsection, whichever is
+applicable. Such payment shall be issued by September thirtieth of the
+year the credit is allowed, or as soon thereafter as is practicable.
+Nothing contained herein shall be deemed to preclude the commissioner
+from issuing payments after September thirtieth to qualified taxpayers
+whose applications were made after July first of that year, or such
+later date as may have been prescribed by the commissioner for such
+purpose.
+  (C) A taxpayer who has failed to receive an advance payment that he or
+she believes was due to him or her, or who has received an advance
+payment that he or she believes is less than the amount that was due to
+him or her, may request payment of the claimed deficiency in a manner
+prescribed by the commissioner.
+  (D) An advance payment of credit provided pursuant to this subsection
 that exceeds the taxpayer's qualifying taxes for that taxable year shall
 be added back as tax on the income tax return for that taxable year.
-  (D) If the commissioner determines after issuing an advance payment
+  (E) If the commissioner determines after issuing an advance payment
 that it was issued in an excessive amount or to an ineligible or
 incorrect party, the commissioner shall be empowered to utilize any of
 the procedures for collection, levy and lien of personal income tax set
@@ -5356,14 +5402,28 @@ any return filed under this article by a member of his or her household
 for the taxable year for which the credit is claimed, and (B) that the
 commissioner finds is relevant and material to the issue of whether such
 claim was properly denied.
-  (12) In the case of a taxpayer who has itemized deductions from
-federal adjusted gross income, and whose federal itemized deductions
-include an amount for real estate taxes paid, the New York itemized
-deduction otherwise allowable under section six hundred fifteen of this
-chapter shall be reduced by the amount of the credit claimed under this
-subsection.
-  * NB There are 3 sb§ (eee)'s
-  * (eee) School tax reduction credit for residents of a city with a
+  (12) When the calculation of any other personal income tax credit is
+based in whole or in part upon the real property taxes paid by the
+taxpayer, the amount of real property taxes so paid shall be reduced by
+the credit authorized by this subsection, if applicable, in the course
+of performing such calculation. When the calculation of any other
+personal income tax credit is based in whole or in part upon an
+individual's state tax liability, the credit authorized by this
+subsection shall not be taken into account in the calculation of such
+state tax liability. When the calculation of a city tax surcharge is
+based in whole or in part upon the net state tax of an individual, the
+credit authorized by this subsection shall not be taken into account in
+the calculation of such net state tax.
+  (fff) Farm workforce retention credit. (1) A taxpayer shall be allowed
+a credit, to be computed as provided in section forty-two of this
+chapter, against the tax imposed by this article.
+  (2) Application of credit. If the amount of credit allowed under this
+subsection for any taxable year exceeds the taxpayer's tax for such
+year, the excess will be treated as an overpayment of tax to be credited
+or refunded in accordance with the provision of section six hundred
+eighty-six of this article, provided, however, that no interest will be
+paid thereon.
+  (ggg) School tax reduction credit for residents of a city with a
 population over one million. (1) For taxable years beginning after two
 thousand fifteen, a school tax reduction credit shall be allowed to a
 resident individual of the state who is a resident of a city with a
@@ -5395,17 +5455,6 @@ taxable year from resident to nonresident, or from nonresident to
 resident, the school tax reduction credit authorized by this subsection
 shall be prorated according to the number of months in the period of
 residence.
-  * NB There are 3 sb§ (eee)'s
-  * (eee) Farm workforce retention credit. (1) A taxpayer shall be
-allowed a credit, to be computed as provided in section forty-two of
-this chapter, against the tax imposed by this article.
-  (2) Application of credit. If the amount of credit allowed under this
-subsection for any taxable year exceeds the taxpayer's tax for such
-year, the excess will be treated as an overpayment of tax to be credited
-or refunded in accordance with the provision of section six hundred
-eighty-six of this article, provided, however, that no interest will be
-paid thereon.
-  * NB There are 3 sb§ (eee)'s
   * (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,
