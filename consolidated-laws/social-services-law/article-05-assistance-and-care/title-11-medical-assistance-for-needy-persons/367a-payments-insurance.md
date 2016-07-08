@@ -104,7 +104,7 @@ such eligible persons or such qualified medicare beneficiaries would be
 liable under federal law were they not eligible for medical assistance
 or were they not qualified medicare beneficiaries with respect to such
 benefits under part B.
-  * (iv) If a health plan participating in part C of title XVIII of the
+  (iv) If a health plan participating in part C of title XVIII of the
 federal social security act pays for items and services provided to
 eligible persons who are also beneficiaries under part B of title XVIII
 of the federal social security act or to qualified medicare
@@ -124,7 +124,6 @@ medicare beneficiaries, or for which such eligible persons or such
 qualified medicare beneficiaries would be liable under federal law were
 they not eligible for medical assistance or were they not qualified
 medicare beneficiaries with respect to such benefits under part B.
-  * NB Effective July 1, 2016
   (e) Amounts payable under this title for medical assistance in the
 form of clinic services pursuant to article twenty-eight of the public
 health law and article sixteen of the mental hygiene law provided to

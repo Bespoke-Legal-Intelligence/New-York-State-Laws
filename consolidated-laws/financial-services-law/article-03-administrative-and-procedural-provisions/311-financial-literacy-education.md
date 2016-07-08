@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 3 — Administrative and Procedural Provisions](README.md)
 
 ```text
-  * § 311. Financial literacy education. (a) Any youth participating in
+  § 311. Financial literacy education. (a) Any youth participating in
 the summer youth employment program, as defined in subdivision (c) of
 this section, shall be provided with financial literacy education.
   (b) The financial literacy education shall be developed and provided
@@ -17,5 +17,4 @@ subdivision.
   (c) For the purposes of this section, "summer youth employment
 program" shall mean any such program funded through the office of
 temporary and disability assistance.
-  * NB Effective July 1, 2016
 ```

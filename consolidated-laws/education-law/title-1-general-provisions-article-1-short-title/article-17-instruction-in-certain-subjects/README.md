@@ -18,7 +18,7 @@
 - [§ 804-D Automated external defibrillator instruction](804d-automated-external-defibrillator-instruction.md)
 - [§ 806 Courses of instruction in highway safety and traffic regulation; school safety patrols](806-courses-of-instruction-in-highway-safety.md)
 - [§ 806-A Driver education](806a-driver-education.md)
-- [§ 807 Fire drills](807-fire-drills.md)
+- [§ 807 Fire and emergency drills](807-fire-and-emergency-drills.md)
 - [§ 807-A Fire inspections](807a-fire-inspections.md)
 - [§ 807-B College fire inspections](807b-college-fire-inspections.md)
 - [§ 807-C Transmission of fire alarm to fire department](807c-transmission-of-fire-alarm-to-fire-department.md)

@@ -74,14 +74,13 @@ three hundred thirty-two of this title;
 able to engage in work activities pursuant to this title, with stated
 limitations, or
   (iii) neither disabled nor work limited.
-  * 4-a. If the practitioner to whom the individual is referred pursuant
+  4-a. If the practitioner to whom the individual is referred pursuant
 to subdivision four or paragraph (b) of subdivision two of this section
 issues an opinion that differs from the applicant's treating health care
 practitioner, the practitioner shall provide a written determination
 that specifies why the practitioner disagrees with the applicant's
 treating health care practitioner's disability determination and present
 evidence that supports the opinion.
-  * NB Effective July 3, 2016
   5. When an applicant or recipient has requested or a social services
 official has directed a determination pursuant to this section, no
 assignment to work activities may be made until completion of such
