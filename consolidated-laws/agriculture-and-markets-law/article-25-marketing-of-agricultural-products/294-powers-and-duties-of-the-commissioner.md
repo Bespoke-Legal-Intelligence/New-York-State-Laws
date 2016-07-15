@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 294", "kind": "section", "law_id": "AGM", "location_id": "294", "path": "ARTICLE 25 › SECTION 294", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/294.md", "title": "Powers and duties of the commissioner"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 294", "kind": "section", "law_id": "AGM", "location_id": "294", "path": "ARTICLE 25 › SECTION 294", "repealed": true, "repealed_date": "2016-07-15", "source": "nys-laws:AGM/294.md", "title": "Powers and duties of the commissioner"} -->
 # Agriculture and Markets Law § 294 — Powers and duties of the commissioner
 
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
+
+**Repealed** (15 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   ** § 294. Powers and duties of the commissioner.  (1) In order to

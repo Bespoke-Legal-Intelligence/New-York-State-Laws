@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 295", "kind": "section", "law_id": "AGM", "location_id": "295", "path": "ARTICLE 25 › SECTION 295", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/295.md", "title": "Rules and regulations; enforcement"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 295", "kind": "section", "law_id": "AGM", "location_id": "295", "path": "ARTICLE 25 › SECTION 295", "repealed": true, "repealed_date": "2016-07-15", "source": "nys-laws:AGM/295.md", "title": "Rules and regulations; enforcement"} -->
 # Agriculture and Markets Law § 295 — Rules and regulations; enforcement
 
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
+
+**Repealed** (15 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 295. Rules and regulations; enforcement. The commissioner may make

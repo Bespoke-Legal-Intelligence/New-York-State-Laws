@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 292", "kind": "section", "law_id": "AGM", "location_id": "292", "path": "ARTICLE 25 › SECTION 292", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/292.md", "title": "Legislative declaration"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 292", "kind": "section", "law_id": "AGM", "location_id": "292", "path": "ARTICLE 25 › SECTION 292", "repealed": true, "repealed_date": "2016-07-15", "source": "nys-laws:AGM/292.md", "title": "Legislative declaration"} -->
 # Agriculture and Markets Law § 292 — Legislative declaration
 
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
+
+**Repealed** (15 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 292. Legislative declaration. It is hereby declared that the

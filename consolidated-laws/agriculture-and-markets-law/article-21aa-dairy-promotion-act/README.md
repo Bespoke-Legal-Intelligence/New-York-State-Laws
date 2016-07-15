@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 258-AA Declaration of policy](258aa-declaration-of-policy.md)
+- [§ 258-AA Declaration of policy](258aa-declaration-of-policy.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 21-AA, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

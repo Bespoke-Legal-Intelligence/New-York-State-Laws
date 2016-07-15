@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6449. Reporting aggregate data to the department. 1. Institutions
+  § 6449. Reporting aggregate data to the department. 1. Institutions
 shall annually report to the department the following information about
 reports of domestic violence, dating violence, stalking and sexual
 assault:
@@ -48,5 +48,4 @@ report to the governor, the temporary president of the senate, the
 speaker of the assembly and the chairs of the higher education
 committees in each house regarding the data collected pursuant to this
 section.
-  * NB Effective July 7, 2016
 ```

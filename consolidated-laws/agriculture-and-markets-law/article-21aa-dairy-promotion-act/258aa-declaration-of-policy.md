@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 258-AA", "kind": "section", "law_id": "AGM", "location_id": "258-AA", "path": "ARTICLE 21-AA › SECTION 258-AA", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/258-AA.md", "title": "Declaration of policy"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 258-AA", "kind": "section", "law_id": "AGM", "location_id": "258-AA", "path": "ARTICLE 21-AA › SECTION 258-AA", "repealed": true, "repealed_date": "2016-07-15", "source": "nys-laws:AGM/258-AA.md", "title": "Declaration of policy"} -->
 # Agriculture and Markets Law § 258-AA — Declaration of policy
 
 [Agriculture and Markets Law](../README.md) › [Article 21-AA — Dairy Promotion Act](README.md)
+
+**Repealed** (15 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 258-aa. Declaration of policy. (a) It is hereby declared that the

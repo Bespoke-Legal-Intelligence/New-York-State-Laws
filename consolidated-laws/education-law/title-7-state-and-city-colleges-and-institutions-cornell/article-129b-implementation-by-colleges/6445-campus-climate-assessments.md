@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 7 — State and City Colleges and Institutions-cornell University](../README.md) › [Article 129-B — Implementation By Colleges and Universities of Sexual Assault, Dating Violence, Domestic Violence and Stalking Prevention and Response Policies and Procedures](README.md)
 
 ```text
-  * § 6445. Campus climate assessments. 1. Every institution shall
+  § 6445. Campus climate assessments. 1. Every institution shall
 conduct, no less than every other year, a campus climate assessment to
 ascertain general awareness and knowledge of the provisions of this
 article, including student experience with and knowledge of reporting
@@ -40,5 +40,4 @@ in any federal or state court proceeding or considered for other
 purposes in any action for damages brought by a private party against an
 institution, unless, in the discretion of the court, any such
 information is deemed to be material to the underlying claim or defense.
-  * NB Effective July 7, 2016
 ```

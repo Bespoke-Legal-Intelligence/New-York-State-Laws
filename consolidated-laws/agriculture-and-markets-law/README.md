@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 657 |
-| Last changed | 27 May 2016 |
+| Sections | 657 (5 repealed) |
+| Last changed | 15 Jul 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (101 lines)](chapter-text.md)
+[Full chapter text (100 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Jul 2016](../../changes/2016/2016-07-15.md): 5 repealed
 - [27 May 2016](../../changes/2016/2016-05-27.md): 11 amended, 1 added, 8 removed
 - [15 Apr 2016](../../changes/2016/2016-04-15.md): 5 amended
 - [13 Nov 2015](../../changes/2015/2015-11-13.md): 2 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [19 Jun 2015](../../changes/2015/2015-06-19.md): 10 amended, 6 repealed
 - [1 May 2015](../../changes/2015/2015-05-01.md): 2 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 10 amended
-- [27 Mar 2015](../../changes/2015/2015-03-27.md): 1 amended
 
 ## Contents
 
@@ -96,7 +96,7 @@ Assembly, do enact as follows:
 - [Article 22 — Farmers' Markets](article-22-farmers-markets/)
 - [Article 23 — Direct Marketing](article-23-direct-marketing/)
 - [Article 24 — Promotion of Agriculture and Domestic Arts; Agricultural Societies](article-24-promotion-of-agriculture-and-domestic-arts/)
-- [Article 25 — Marketing of Agricultural Products](article-25-marketing-of-agricultural-products/)
+- [Article 25 — Marketing of Agricultural Products](article-25-marketing-of-agricultural-products/) *(repealed)*
 - [Article 25-A — Food and Agriculture Industry Development](article-25a-food-and-agriculture-industry-development/)
 - [Article 25-AA — Agricultural Districts](article-25aa-agricultural-districts/)
 - [Article 25-AAA — Agricultural and Farmland Protection Programs](article-25aaa-agricultural-and-farmland-protection-programs/)

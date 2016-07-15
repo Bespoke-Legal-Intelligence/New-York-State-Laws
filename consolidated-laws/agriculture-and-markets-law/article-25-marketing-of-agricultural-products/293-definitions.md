@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 293", "kind": "section", "law_id": "AGM", "location_id": "293", "path": "ARTICLE 25 › SECTION 293", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/293.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 293", "kind": "section", "law_id": "AGM", "location_id": "293", "path": "ARTICLE 25 › SECTION 293", "repealed": true, "repealed_date": "2016-07-15", "source": "nys-laws:AGM/293.md", "title": "Definitions"} -->
 # Agriculture and Markets Law § 293 — Definitions
 
 [Agriculture and Markets Law](../README.md) › [Article 25 — Marketing of Agricultural Products](README.md)
+
+**Repealed** (15 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 293. Definitions. (1) "Agricultural commodity" means any and all

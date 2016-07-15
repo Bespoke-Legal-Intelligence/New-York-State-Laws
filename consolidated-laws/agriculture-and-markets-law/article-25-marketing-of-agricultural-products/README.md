@@ -3,12 +3,14 @@
 
 [Agriculture and Markets Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 292 Legislative declaration](292-legislative-declaration.md)
-- [§ 293 Definitions](293-definitions.md)
-- [§ 294 Powers and duties of the commissioner](294-powers-and-duties-of-the-commissioner.md)
-- [§ 295 Rules and regulations; enforcement](295-rules-and-regulations-enforcement.md)
+- [§ 292 Legislative declaration](292-legislative-declaration.md) *(repealed)*
+- [§ 293 Definitions](293-definitions.md) *(repealed)*
+- [§ 294 Powers and duties of the commissioner](294-powers-and-duties-of-the-commissioner.md) *(repealed)*
+- [§ 295 Rules and regulations; enforcement](295-rules-and-regulations-enforcement.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 25, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
