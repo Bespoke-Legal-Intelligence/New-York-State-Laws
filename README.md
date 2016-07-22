@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 15 Jul 2016.*
+*Current through the publication of 22 Jul 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [22 Jul 2016](changes/2016/2016-07-22.md): Civil Service Law; Mental Hygiene Law; Tax Law; Vehicle and Traffic Law
 - [15 Jul 2016](changes/2016/2016-07-15.md): Agriculture and Markets Law; Education Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [8 Jul 2016](changes/2016/2016-07-08.md): Alcoholic Beverage Control Law; Education Law; Environmental Conservation Law; Financial Services Law; General Municipal Law; Local Finance Law; Public Health Law; Real Property Tax Law; Social Services Law; Tax Law; Volunteer Firefighters' Benefit Law
 - [1 Jul 2016](changes/2016/2016-07-01.md): Civil Practice Law and Rules; Civil Service Law; Criminal Procedure Law; Education Law; Insurance Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Social Services Law; Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [17 Jun 2016](changes/2016/2016-06-17.md): Criminal Procedure Law; Education Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Penal Law; Public Health Law; Real Property Tax Law; Social Services Law; Workers' Compensation Law
 - [3 Jun 2016](changes/2016/2016-06-03.md): Banking Law; Education Law; Election Law; Environmental Conservation Law; Judiciary Law; Local Finance Law; Public Health Law; Retirement and Social Security Law; Surrogate's Court Procedure Act
 - [27 May 2016](changes/2016/2016-05-27.md): Agriculture and Markets Law; Domestic Relations Law; Executive Law; Family Court Act; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; State Finance Law
-- [20 May 2016](changes/2016/2016-05-20.md): Arts and Cultural Affairs Law; Boxing, Sparring and Wrestling; Education Law; Uniform Commercial Code
 
 ## Most changed in the past 12 months
 
@@ -32,17 +32,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | 161 |
 | [Education Law](consolidated-laws/education-law/README.md) | 160 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 114 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 82 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 77 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 74 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 71 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 70 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 69 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 62 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 55 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 53 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 52 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 52 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 50 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 50 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
 
 ## Consolidated Laws
 
@@ -59,7 +59,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 83 | 8 Apr 2016 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 779 | 1 Jul 2016 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 107 | 25 Sep 2015 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 169 | 1 Jul 2016 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 169 | 22 Jul 2016 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 320 | 15 Apr 2016 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 444 | 27 Nov 2015 |
@@ -92,7 +92,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 4 Dec 2015 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 117 | 4 Dec 2015 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 8 Jul 2016 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 471 | 1 Jul 2016 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 471 | 22 Jul 2016 |
 | [Military Law](consolidated-laws/military-law/README.md) | MIL | 303 | 6 Nov 2015 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 188 | 3 Jul 2015 |
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 104 | no change since 22 Sep 2014 (start of history) |
@@ -130,12 +130,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 11 Mar 2016 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,139 | 8 Jul 2016 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,139 | 22 Jul 2016 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 18 Dec 2015 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 8 Apr 2016 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 20 May 2016 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 889 | 15 Jul 2016 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 889 | 22 Jul 2016 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 27 Nov 2015 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 19 Jun 2015 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | 8 Jul 2016 |
