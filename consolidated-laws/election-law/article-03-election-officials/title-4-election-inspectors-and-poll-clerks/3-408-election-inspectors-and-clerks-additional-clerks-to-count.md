@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 3-408", "kind": "section", "law_id": "ELN", "location_id": "3-408", "path": "ARTICLE 3 › TITLE 4 › SECTION 3-408", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/3-408.md", "title": "Election inspectors and clerks; additional clerks to count absentee ballots"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 3-408", "kind": "section", "law_id": "ELN", "location_id": "3-408", "path": "ARTICLE 3 › TITLE 4 › SECTION 3-408", "repealed": true, "repealed_date": "2016-07-29", "source": "nys-laws:ELN/3-408.md", "title": "Election inspectors and clerks; additional clerks to count absentee ballots"} -->
 # Election Law § 3-408 — Election inspectors and clerks; additional clerks to count absentee ballots
 
 [Election Law](../../README.md) › [Article 3 — Election Officials](../README.md) › [Title 4 — Election Inspectors and Poll Clerks](README.md)
+
+**Repealed** (29 Jul 2016). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3-408. Election inspectors and clerks; additional clerks to count

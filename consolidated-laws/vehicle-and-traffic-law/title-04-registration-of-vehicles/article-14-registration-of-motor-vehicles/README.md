@@ -17,7 +17,9 @@
 - [§ 403-B Sales of special number or distinctive license plates by certain dealers](403b-sales-of-special-number-or-distinctive-license-plates.md)
 - [§ 404 Issuance of special number plates](404-issuance-of-special-number-plates.md)
 - [§ 404-A Registration of motor vehicles of severely disabled persons](404a-registration-of-motor-vehicles-of-severely-disabled.md)
+- [§ 404-AA Distinctive plates for members of the Catholic War Veterans of America](404aa-distinctive-plates-for-members-of-the-catholic-war.md)
 - [§ 404-B Distinctive plates for volunteer firefighters](404b-distinctive-plates-for-volunteer-firefighters.md)
+- [§ 404-BB Distinctive Cystic Fibrosis Foundation license plates](404bb-distinctive-cystic-fibrosis-foundation-license.md)
 - [§ 404-C Distinctive plates for former prisoners of war](404c-distinctive-plates-for-former-prisoners-of-war.md)
 - [§ 404-D Distinctive plates for members of the organized militia and reserve](404d-distinctive-plates-for-members-of-the-organized.md)
 - [§ 404-E Distinctive plates for purple heart recipients](404e-distinctive-plates-for-purple-heart-recipients.md)
@@ -58,6 +60,7 @@
 - [§ 404-V\*7 Distinctive "Love your library" plates](404v-7-distinctive-love-your-library-plates.md)
 - [§ 404-W Distinctive plates for war on terror veterans](404w-distinctive-plates-for-war-on-terror-veterans.md)
 - [§ 404-W\*2 Distinctive plates for Persian Gulf veterans](404w-2-distinctive-plates-for-persian-gulf-veterans.md)
+- [§ 404-X Distinctive "Ducks Unlimited" license plates](404x-distinctive-ducks-unlimited-license-plates.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -77,7 +80,10 @@ Section 401.     Registration of motor vehicles; fees; renewals.
         404.     Issuance of special number plates.
         404-a.   Registration of motor vehicles of severely disabled
                    persons.
+        404-aa.  Distinctive plates for members of the Catholic War
+                   Veterans of America.
         404-b.   Distinctive plates for volunteer firefighters.
+        404-bb.  Distinctive Cystic Fibrosis Foundation license plates.
         404-c.   Distinctive plates for former prisoners of war.
         404-d.   Distinctive plates for members of the organized militia
                    and reserve.
@@ -136,6 +142,7 @@ Section 401.     Registration of motor vehicles; fees; renewals.
         404-v*7. Distinctive "Love your library" plates.
         404-w.   Distinctive plates for war on terror veterans.
         404-w*2. Distinctive plates for Persian Gulf veterans.
+        404-x.   Distinctive "Ducks Unlimited" license plates.
 ```
 
 </details>

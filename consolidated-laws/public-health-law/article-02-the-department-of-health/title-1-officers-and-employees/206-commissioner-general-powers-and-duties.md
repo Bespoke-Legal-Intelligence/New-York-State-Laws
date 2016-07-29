@@ -186,7 +186,30 @@ donate life registry. Where an applicant has previously consented to
 make an anatomical gift or registered in the donate life registry,
 checking "skip this question" or failing to check a box shall not impair
 that consent or registration.
+  * NB There are 2 par (v)'s
   * NB Effective January 1, 2017
+  * (v) by rule and regulation, cause the distribution of crib safety
+information. (1) The commissioner shall require that every hospital and
+birth center distribute at the time of discharge directly to each
+maternity patient and, upon request, to the general public an
+informational leaflet concerning crib safety. Such leaflet shall be
+designed by the commissioner in conjunction with the director of the
+division of consumer protection, on behalf of the consumer protection
+division, and shall contain information detailing safe sleeping
+procedures for babies, crib product recalls and disclosure of the
+federal standards on the manufacture and sale of cribs.
+  (2) Such leaflet shall be made available to hospitals and birth
+centers by the department on its website and shall be provided in
+English, as well as the top six languages other than English spoken in
+the state according to the latest available data from the United States
+Bureau of Census.
+  (3) Hospital staff shall inquire whether the maternity patient has a
+new crib available for any newborns. If the maternity patients do not
+have a new crib available, hospital staff shall provide information
+about where to obtain a new crib, including social services agencies,
+non-profit service providers or other relevant organizations.
+  * NB There are 2 par (v)'s
+  * NB Effective May 1, 2017
   2. The commissioner and any person authorized by him so to do, may,
 without fee or hindrance, enter, examine and survey all grounds,
 erections, vehicles, structures, apartments, buildings and places.

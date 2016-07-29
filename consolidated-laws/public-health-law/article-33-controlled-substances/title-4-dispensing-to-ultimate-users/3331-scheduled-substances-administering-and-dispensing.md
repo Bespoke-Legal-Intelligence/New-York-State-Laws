@@ -47,14 +47,8 @@ and bearing the legend, prominently marked or printed "Controlled
 Substance, Dangerous Unless Used As Directed";
   (c) Any label, transparency, or auxiliary label shall be applied in a
 manner which would inhibit its removal.
-  * 5. No more than a thirty day supply or, pursuant to regulations of
+  5. (a) No more than a thirty day supply or, pursuant to regulations of
 the commissioner enumerating conditions warranting specified greater
-supplies, no more than a three month supply of a schedule II, III or IV
-substance, as determined by the directed dosage and frequency of dosage,
-may be dispensed by an authorized practitioner at one time.
-  * NB Effective until July 22, 2016
-  * 5. (a) No more than a thirty day supply or, pursuant to regulations
-of the commissioner enumerating conditions warranting specified greater
 supplies, no more than a three month supply of a schedule II, III or IV
 substance, as determined by the directed dosage and frequency of dosage,
 may be dispensed by an authorized practitioner at one time.
@@ -72,7 +66,6 @@ or other cause, that the practitioner reasonably expects to last only a
 short period of time. Such term shall not include chronic pain, pain
 being treated as part of cancer care, hospice or other end-of-life care,
 or pain being treated as part of palliative care practices.
-  * NB Effective July 22, 2016
   6. A practitioner dispensing a controlled substance shall file
 information pursuant to such dispensing with the department by
 electronic means in such manner and detail as the commissioner shall, by

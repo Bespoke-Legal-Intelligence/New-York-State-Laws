@@ -36,6 +36,13 @@ include information on the effects of shaking infants and young
 children, appropriate ways to manage the causes of shaking infants and
 young children, and discussion on how to reduce the risks of shaking
 infants and young children.
+  * 1-d. The informational leaflet shall also include the
+recommendations from the American Academy of Pediatrics relating to safe
+sleep, including sleep space and sleep position, and discussion on how
+to reduce the risk of infant death through safe sleep practices. The
+information described in this subdivision may take the form of a video
+in lieu of a leaflet.
+  * NB Effective November 18, 2016
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

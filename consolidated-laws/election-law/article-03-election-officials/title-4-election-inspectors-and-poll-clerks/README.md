@@ -10,7 +10,7 @@
 - [§ 3-402 Election inspectors and poll clerks; authority](3-402-election-inspectors-and-poll-clerks-authority.md)
 - [§ 3-404 Election inspectors and poll clerks; designation](3-404-election-inspectors-and-poll-clerks-designation.md)
 - [§ 3-406 Election inspectors and poll clerks; additional](3-406-election-inspectors-and-poll-clerks-additional.md)
-- [§ 3-408 Election inspectors and clerks; additional clerks to count absentee ballots](3-408-election-inspectors-and-clerks-additional-clerks-to-count.md)
+- [§ 3-408 Election inspectors and clerks; additional clerks to count absentee ballots](3-408-election-inspectors-and-clerks-additional-clerks-to-count.md) *(repealed)*
 - [§ 3-410 Election inspectors and poll clerks; certification](3-410-election-inspectors-and-poll-clerks-certification.md)
 - [§ 3-412 Election inspectors and poll clerks; training](3-412-election-inspectors-and-poll-clerks-training.md)
 - [§ 3-414 Election inspectors and poll clerks; oath of office, certificate of appointment](3-414-election-inspectors-and-poll-clerks-oath-of-office-certificate.md)
@@ -29,17 +29,15 @@ Section 3-400. Election inspectors and poll clerks; provision for.
         3-402. Election inspectors and poll clerks; authority.
         3-404. Election inspectors and poll clerks; designation.
         3-406. Election inspectors and poll clerks; additional.
-        3-408. Election  inspectors  and  clerks;  additional  clerks to
-                 count absentee ballots.
         3-410. Election inspectors and poll clerks; certification.
         3-412. Election inspectors and poll clerks; training.
-        3-414. Election inspectors and  poll  clerks;  oath  of  office,
+        3-414. Election inspectors and poll clerks; oath of office,
                  certificate of appointment.
-        3-416. Election    inspectors,    poll   clerks   and   election
+        3-416. Election inspectors, poll clerks and election
                  coordinators; removal.
         3-418. Election inspectors and poll clerks; emergency provisions
                  for filling vacancies or absences.
-        3-420. Election   inspectors,   poll   clerks    and    election
+        3-420. Election inspectors, poll clerks and election
                  coordinators; compensation.
 ```
 

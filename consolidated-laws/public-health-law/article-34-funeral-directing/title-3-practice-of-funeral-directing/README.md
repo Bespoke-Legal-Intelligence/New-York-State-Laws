@@ -11,6 +11,7 @@
 - [§ 3441-A Funeral arrangements; use of flag](3441a-funeral-arrangements-use-of-flag.md)
 - [§ 3442 Funeral directing; reports relating to moneys paid in connection with agreements for funeral merchandise or services in advance of need](3442-funeral-directing-reports-relating-to-moneys-paid-in-connection.md)
 - [§ 3443 Funeral directing; use of names; unlicensed persons prohibited](3443-funeral-directing-use-of-names-unlicensed-persons-prohibited.md)
+- [§ 3444 Food service in funeral establishments](3444-food-service-in-funeral-establishments.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -30,6 +31,7 @@ Section 3440.   Funeral directors; duty to use prescribed tests of
                   services in advance of need.
         3443.   Funeral directing; use of names; unlicensed persons
                   prohibited.
+        3444.   Food service in funeral establishments.
 ```
 
 </details>

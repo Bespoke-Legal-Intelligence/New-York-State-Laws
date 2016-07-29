@@ -86,6 +86,13 @@ undergo female genital mutilation, typically during school vacations.
 severity of such diseases. For purposes of this paragraph, women's
 cancers shall mean and include: cervical, endometrial, gestational
 trophoblastic tumor, ovarian, uterine sarcoma, vaginal, and vulvar.
+  (m) A Lyme disease and tick-borne infection awareness and prevention
+program designed to promote the awareness and prevention methods against
+Lyme disease and tick-borne infections. Such information shall include
+but not be limited to guidelines and methods of prevention, including
+the safe use of recommended insect repellents, the best practices for
+tick removal, recommendations for the reduction of exposure to ticks and
+appropriate course of action once a tick is removed from the body.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

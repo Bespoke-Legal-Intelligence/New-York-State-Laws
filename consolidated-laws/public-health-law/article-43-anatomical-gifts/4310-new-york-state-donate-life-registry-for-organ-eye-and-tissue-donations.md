@@ -137,7 +137,7 @@ refusal of any other or future anatomical gift.
 opportunity to specify which organs, eyes and tissues they want to
 donate and if the donation may be used for transplantation, research, or
 both.
-  * NB Effective until October 3, 2016
+  * NB Effective until October 3, 2020
   * 5. (a) Such organ, eye and tissue registration of consent to make an
 anatomical gift can be made through: (i) indication made on the
 application or renewal form of a driver's license, (ii) indication made
@@ -171,7 +171,7 @@ refusal of any other or future anatomical gift.
 opportunity to specify which organs, eyes and tissues they want to
 donate and if the donation may be used for transplantation, research, or
 both.
-  * NB Effective October 3, 2016
+  * NB Effective October 3, 2020
   6. An individual registered in the donate life registry before July
 twenty-third, two thousand eight shall be deemed to have expressed
 intent to donate, until and unless he or she files an amendment to his

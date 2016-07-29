@@ -24,6 +24,7 @@
 - [§ 311 Installment purchases](311-installment-purchases.md)
 - [§ 311-A Termination of motor vehicle lease contracts](311a-termination-of-motor-vehicle-lease-contracts.md)
 - [§ 311-B Cancellation without penalty of certain additional rental contracts](311b-cancellation-without-penalty-of-certain-additional-rental-contracts.md)
+- [§ 311-C Termination without penalty of certain service contracts](311c-termination-without-penalty-of-certain-service-contracts.md)
 - [§ 312 Mortgages](312-mortgages.md)
 - [§ 313 Settlement of cases involving stayed proceeding in foreclosure or repossession of personal property](313-settlement-of-cases-involving-stayed-proceeding-in-foreclosure-or-repossession.md)
 - [§ 313-A Exercise of rights under this article not to affect certain future financial transactions](313a-exercise-of-rights-under-this-article-not-to-affect-certain-future-financial.md)
@@ -76,6 +77,7 @@ Section 300.   Findings and declaration of emergency.
         311-a. Termination of motor vehicle lease contracts.
         311-b. Cancellation without penalty of certain additional rental
                  contracts.
+        311-c. Termination without penalty of certain service contracts.
         312.   Mortgages.
         313.   Settlement of cases involving stayed proceeding in
                  foreclosure or repossession of personal property.

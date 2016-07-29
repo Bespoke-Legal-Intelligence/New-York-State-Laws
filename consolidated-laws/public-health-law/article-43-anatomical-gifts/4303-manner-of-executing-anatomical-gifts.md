@@ -45,10 +45,10 @@ donee shall make reasonable effort to inquire of the donor or otherwise
 determine that the donor has no actual notice of contrary indications by
 the decedent and no reason to believe that an anatomical gift is
 contrary to the decedent's religious or moral beliefs.
-  * NB Effective until October 3, 2016
+  * NB Effective until October 3, 2020
   * 5. Any gift by a person designated in subdivision two of section
 four thousand three hundred one of this article shall be by a document
 signed by him or made by his telegraphic, recorded telephonic, or other
 recorded message.
-  * NB Effective October 3, 2016
+  * NB Effective October 3, 2020
 ```

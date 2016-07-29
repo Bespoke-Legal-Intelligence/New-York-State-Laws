@@ -8,7 +8,7 @@
 | Senate code | SCP |
 | Type | Court act |
 | Sections | 386 |
-| Last changed | 3 Jun 2016 |
+| Last changed | 29 Jul 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Surrogate's Court Procedure |
 
@@ -29,6 +29,7 @@ Passed by a majority vote, three-fifths being present
 
 ## Recent changes
 
+- [29 Jul 2016](../../changes/2016/2016-07-29.md): 14 amended
 - [3 Jun 2016](../../changes/2016/2016-06-03.md): 1 amended
 - [4 Sep 2015](../../changes/2015/2015-09-04.md): 1 added
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 1 amended
@@ -54,7 +55,7 @@ Passed by a majority vote, three-fifths being present
 - [Article 15 — Trusts and Trustees](article-15-trusts-and-trustees/)
 - [Article 16 — Foreign Estates](article-16-foreign-estates/)
 - [Article 17 — Guardians and Custodians](article-17-guardians-and-custodians/)
-- [Article 17-A — Guardians of Mentally Retarded and Developmentally Disabled Persons](article-17a-guardians-of-mentally-retarded/)
+- [Article 17-A — Guardians of Persons Who Are Intellectually Disabled and Developmentally Disabled](article-17a-guardians-of-persons-who-are-intellectually/)
 - [Article 18 — Claims; Payment of Debts and Funeral Expenses](article-18-claims-payment-of-debts-and-funeral-expenses/)
 - [Article 19 — Disposition of Real Property](article-19-disposition-of-real-property/)
 - [Article 20 — Proceeding to Open Safe Deposit Box](article-20-proceeding-to-open-safe-deposit-box/)

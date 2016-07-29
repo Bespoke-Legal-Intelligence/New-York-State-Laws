@@ -275,7 +275,7 @@ Article
            Title    I.   General provisions (§§3400-3404).
                    II.   Licensing and registration (§§3420-3429).
                   III.   Practice of funeral directing; funeral
-                          establishments (§§3440-3443).
+                          establishments (§§3440-3444).
                    IV.   Enforcement and discipline; violations and
                           penalties (§§3450-3457).
   35.      Practice of x-ray technology
