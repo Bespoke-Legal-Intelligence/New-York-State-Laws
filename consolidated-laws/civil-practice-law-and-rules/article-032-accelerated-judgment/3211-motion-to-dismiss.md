@@ -5,7 +5,7 @@
 
 ```text
   Rule 3211. Motion to dismiss. (a) Motion to dismiss cause of action.
-  A party may move for judgment dismissing one or more causes of action
+A party may move for judgment dismissing one or more causes of action
 asserted against him on the ground that:
   1. a defense is founded upon documentary evidence; or
   2. the court has not jurisdiction of the subject matter of the cause

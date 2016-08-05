@@ -17,6 +17,7 @@
 - [§ 305 Agricultural districts; effects](305-agricultural-districts-effects.md)
 - [§ 305-A Coordination of local planning and land use decision-making with the agricultural districts program](305a-coordination-of-local-planning-and-land-use-decision-making.md)
 - [§ 305-B Agricultural data statement](305b-agricultural-data-statement.md)
+- [§ 305-C Review of proposed rules and regulations of state agencies affecting the agricultural industry](305c-review-of-proposed-rules-and-regulations-of-state-agencies-affecting.md)
 - [§ 306 Agricultural lands outside of districts; agricultural assessments](306-agricultural-lands-outside-of-districts-agricultural-assessments.md)
 - [§ 307 Promulgation of rules and regulations](307-promulgation-of-rules-and-regulations.md)
 - [§ 308 Right to farm](308-right-to-farm.md)

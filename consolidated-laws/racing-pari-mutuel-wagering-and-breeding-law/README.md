@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PML |
 | Type | Consolidated law, chapter 47-A |
-| Sections | 349 |
-| Last changed | 1 Jul 2016 |
+| Sections | 362 |
+| Last changed | 5 Aug 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Racing, Pari-Mutuel Wagering and Breeding Law |
 
@@ -25,10 +25,11 @@ Article I.    Supervision and regulation. (§§ 101-129)
         V-a.  Off-track pari-mutuel betting. (§§ 518-532)
 ```
 
-[Full chapter text (16 lines)](chapter-text.md)
+[Full chapter text (18 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [5 Aug 2016](../../changes/2016/2016-08-05.md): 1 amended, 13 added
 - [1 Jul 2016](../../changes/2016/2016-07-01.md): 1 amended
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 19 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 1 amended
@@ -53,3 +54,4 @@ Article I.    Supervision and regulation. (§§ 101-129)
 - [Article 11 — Interstate Compact On Licensure of Participants In Live Horse Racing With Pari-mutuel Wagering](article-11-interstate-compact-on-licensure-of-participants/)
 - [Article 12 — Office of Racing Promotion and Development](article-12-office-of-racing-promotion-and-development/)
 - [Article 13 — Destination Resort Gaming](article-13-destination-resort-gaming/)
+- [Article 14 — Interactive Fantasy Sports](article-14-interactive-fantasy-sports/)

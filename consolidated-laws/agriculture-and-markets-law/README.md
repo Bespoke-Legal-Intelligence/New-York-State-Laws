@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 657 (5 repealed) |
-| Last changed | 29 Jul 2016 |
+| Sections | 653 |
+| Last changed | 5 Aug 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [5 Aug 2016](../../changes/2016/2016-08-05.md): 1 amended, 1 added, 5 removed
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 1 amended
 - [15 Jul 2016](../../changes/2016/2016-07-15.md): 5 repealed
 - [27 May 2016](../../changes/2016/2016-05-27.md): 11 amended, 1 added, 8 removed
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 6 amended
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 2 amended, 1 repealed
 - [19 Jun 2015](../../changes/2015/2015-06-19.md): 10 amended, 6 repealed
-- [1 May 2015](../../changes/2015/2015-05-01.md): 2 amended
 
 ## Contents
 
@@ -90,13 +90,12 @@ Assembly, do enact as follows:
 - [Article 20 — Licensing of Farm Products Dealers](article-20-licensing-of-farm-products-dealers/)
 - [Article 20-C — Licensing of Food Processing Establishments](article-20c-licensing-of-food-processing-establishments/)
 - [Article 21 — Milk Control](article-21-milk-control/)
-- [Article 21-AA — Dairy Promotion Act](article-21aa-dairy-promotion-act/)
+- [Article 21-AA Dairy Promotion Act](article-21aa-dairy-promotion-act.md)
 - [Article 21-B — Dry Milk Powder Control](article-21b-dry-milk-powder-control/)
 - [Article 21-C — Northeast Interstate Dairy Compact](article-21c-northeast-interstate-dairy-compact/)
 - [Article 22 — Farmers' Markets](article-22-farmers-markets/)
 - [Article 23 — Direct Marketing](article-23-direct-marketing/)
 - [Article 24 — Promotion of Agriculture and Domestic Arts; Agricultural Societies](article-24-promotion-of-agriculture-and-domestic-arts/)
-- [Article 25 — Marketing of Agricultural Products](article-25-marketing-of-agricultural-products/) *(repealed)*
 - [Article 25-A — Food and Agriculture Industry Development](article-25a-food-and-agriculture-industry-development/)
 - [Article 25-AA — Agricultural Districts](article-25aa-agricultural-districts/)
 - [Article 25-AAA — Agricultural and Farmland Protection Programs](article-25aaa-agricultural-and-farmland-protection-programs/)

@@ -22,4 +22,6 @@ Article I.    Supervision and regulation. (§§ 101-129)
         XI.   Interstate compact on licensure of participants in live
                 horse racing with pari-mutuel wagering. (§§ 1101-1112)
         12.   Office of racing promotion and development. (§§ 1201-1202)
+        13.   Destination resort gaming.(§§ 1300-1371)
+        14.   Interactive fantasy sports. (§§ 1400-1412)
 ```
