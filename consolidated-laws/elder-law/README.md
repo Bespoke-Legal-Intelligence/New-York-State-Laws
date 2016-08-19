@@ -8,7 +8,7 @@
 | Senate code | ELD |
 | Type | Consolidated law, chapter 35-A |
 | Sections | 39 |
-| Last changed | 29 Jul 2016 |
+| Last changed | 19 Aug 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Elder |
 
@@ -31,6 +31,7 @@ Section 101.   Short title.
 
 ## Recent changes
 
+- [19 Aug 2016](../../changes/2016/2016-08-19.md): 1 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 1 amended
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 1 amended
 - [18 Dec 2015](../../changes/2015/2015-12-18.md): 1 amended

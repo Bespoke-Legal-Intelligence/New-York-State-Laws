@@ -82,7 +82,23 @@ application for health care coverage offered through the state health
 benefit exchange, (v) enrollment through the donate life registry
 website, (vi) paper enrollment submitted to the donate life registry, or
 (vii) through any other method identified by the commissioner.
-  ** NB Effective January 1, 2017
+  ** NB Effective January 1, 2017 until February 14, 2017
+  ** (a) Such organ, eye and tissue registration of consent to make an
+anatomical gift can be made through: (i) indication made on the
+application or renewal form of a driver's license, (ii) indication made
+on a non-driver identification card application or renewal form, (iii)
+indication made on a voter registration form pursuant to subdivision
+five of section 5-210 of the election law, (iv) indication made on the
+application for health care coverage offered through the state health
+benefit exchange, (v) enrollment through the donate life registry
+website, (vi) paper enrollment submitted to the donate life registry, or
+(vii) through any other method identified by the commissioner.  The
+department shall establish a means by which to register the consent
+given by individuals who are sixteen or seventeen years of age in the
+donate life registry, and shall make registration available by any of
+the methods provided in subparagraphs (i), (ii), (iii), (iv), (v) and
+(vi) of this paragraph.
+  ** NB Effective February 14, 2017
   (b)** (i) Where required by law for registration forms described in
 subparagraphs (i) and (ii) of paragraph (a) of this subdivision, the
 commissioner shall ensure that space is provided on any registration
@@ -105,7 +121,7 @@ conspicuous type:
 to the Donate Life Registry? Check box for 'yes' or 'skip this
 question'."
   ** NB Effective January 1, 2017
-  (ii) The commissioner shall not maintain records of any person who
+  ** (ii) The commissioner shall not maintain records of any person who
 checks "skip this question". Except where the application is made in
 person or electronically, failure to check a box shall not impair the
 validity of an application, and failure to check "yes" or checking "skip
@@ -116,6 +132,21 @@ in the donate life registry. Where an applicant has previously consented
 to make an anatomical gift or registered in the donate life registry,
 checking "skip this question" or failing to check a box shall not impair
 that consent or registration.
+  ** NB Effective until February 14, 2017
+  ** (ii) The commissioner shall not maintain records of any person who
+checks "skip this question". Except where the application is made in
+person or electronically, failure to check a box shall not impair the
+validity of an application, and failure to check "yes" or checking "skip
+this question" shall not be construed to imply a wish not to donate. In
+the case of an applicant under eighteen years of age, checking "yes"
+shall not constitute consent to make an anatomical gift or registration
+in the donate life registry, except as otherwise provided pursuant to
+the provisions of paragraph (b) of subdivision one of section
+forty-three hundred one of this article. Where an applicant has
+previously consented to make an anatomical gift or registered in the
+donate life registry, checking "skip this question" or failing to check
+a box shall not impair that consent or registration.
+  ** NB Effective February 14, 2017
   (c) Enrollment or amendment or revocation through the donate life
 registry website through any of the means listed in this subdivision may
 be signed by electronic signature, in accordance with the provisions of

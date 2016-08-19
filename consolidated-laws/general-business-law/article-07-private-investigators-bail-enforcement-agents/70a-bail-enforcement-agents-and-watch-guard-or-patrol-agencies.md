@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 7 — Private Investigators, Bail Enforcement Agents and Watch, Guard and Patrol Agencies](README.md)
 
 ```text
-  * § 70-a. Bail enforcement agents and watch, guard or patrol agencies.
+  § 70-a. Bail enforcement agents and watch, guard or patrol agencies.
 1. The department of state shall have the power to issue separate
 licenses to bail enforcement agents and to watch, guard or patrol
 agencies. Nothing in this article shall prevent a private investigator
@@ -27,5 +27,4 @@ company, partnership, limited liability company or corporation for the
 conduct of such business.
   3. Any person, firm, company, partnership or corporation who violates
 any provision of this section shall be guilty of a class B misdemeanor.
-  * NB Effective August 13, 2016
 ```

@@ -308,9 +308,9 @@ isoquinoline alkaloids of opium.
 coca leaves, and any salt, compound, derivative, or preparation thereof
 which is chemically equivalent or identical with any of these substances
 including cocaine and ecgonine, their salts, isomers, and salts of
-isomers, except that the substances shall not include decocainized coca
-leaves or extraction of coca leaves, which extractions do not contain
-cocaine or ecgonine.
+isomers, except that the substances shall not include: (A) decocainized
+coca leaves or extraction of coca leaves, which extractions do not
+contain cocaine or ecgonine; or (B) {123I} ioflupane.
   (5) Concentrate of poppy straw (the crude extract of poppy straw in
 either liquid, solid or powder form which contains the phenanthrene
 alkaloids of the opium poppy).

@@ -29,11 +29,9 @@ a county and shall have the powers of a presiding officer under the city
 administrative procedures act within a city with a population of one
 million or more persons.
   9. "Department" shall mean the department of health.
-  * 10. "Approved ink handling procedure" shall mean tattoo ink storage
+  10. "Approved ink handling procedure" shall mean tattoo ink storage
 and use procedures that are approved and deemed protective by the
 department.
-  * Effective August 14, 2016
-  * 11. "Single use needle" shall mean a needle that is sterile and that
+  11. "Single use needle" shall mean a needle that is sterile and that
 has never been used on another person.
-  * Effective August 14, 2016
 ```

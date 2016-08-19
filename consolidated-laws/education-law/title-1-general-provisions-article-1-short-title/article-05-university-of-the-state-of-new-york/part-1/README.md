@@ -76,6 +76,7 @@
 - [§ 238-A Statewide resource centers for geriatric education](238a-statewide-resource-centers.md)
 - [§ 239 Albert Einstein chairs in science and Albert Schweitzer chairs in the humanities](239-albert-einstein-chairs-in-science.md)
 - [§ 239-A Collection and distribution of student's residual consumer goods](239a-collection-and-distribution.md)
+- [§ 239-B Research dogs and cats](239b-research-dogs-and-cats.md)
 
 <details>
 <summary>Official heading of Part 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

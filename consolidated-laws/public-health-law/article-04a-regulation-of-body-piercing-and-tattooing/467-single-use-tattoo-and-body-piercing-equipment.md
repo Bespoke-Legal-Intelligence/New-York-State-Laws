@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 4-A — Regulation of Body Piercing and Tattooing](README.md)
 
 ```text
-  * § 467. Single use tattoo and body piercing equipment.
+  § 467. Single use tattoo and body piercing equipment.
   1. All tattoo studios and body piercing studios shall use only single
 use needles and approved ink handling procedures in all tattoo and body
 piercing procedures performed in such establishments.
@@ -24,5 +24,4 @@ receiving a tattoo or body piercing. The tattoo studio or body piercing
 studio shall retain a copy of such confirmation form for a period not
 less than seven years.
   4. The commissioner shall make regulations under this section.
-  * Effective August 14, 2016
 ```

@@ -52,6 +52,44 @@ or,
   (c) if the deceased person is known to have a relative whose place of
 residence is known or can be ascertained after reasonable and diligent
 inquiry.
+  * 3-a. (a) In a city having a population of one million or more, no
+body of a deceased person shall be delivered or released to or received
+by, any university, college, school or institute, including any mortuary
+school unless:
+  (i) the person authorized to consent to make an anatomical gift with
+respect to the decedent under article forty-three of this chapter makes
+such an anatomical gift that would encompass such delivery or release;
+  (ii) the person authorized to control the disposition of such body
+under section forty-two hundred one of this article consents in writing
+to the delivery and release of the body of such person to the
+university, college, school or institute for the purpose of embalming,
+dissection or autopsy, provided that a chief fiscal officer of a county
+or a public administrator shall not be authorized to provide such
+consent; or
+  (iii) the decedent has through a lawfully executed written instrument,
+will or trust, consented to such delivery or release;
+  (b) In no event shall such delivery or release for the purpose of
+embalming, dissection or autopsy be authorized where the provisions of
+section forty-two hundred nine-a or forty-two hundred ten-c of this
+title apply.
+  (c) The person or entity having possession, charge, custody or control
+of the body of a deceased person under subdivision one of this section
+shall have no duty to locate and/or obtain the written consent from any
+person under this subdivision. Additionally, a chief fiscal officer of a
+county or a public administrator shall not be authorized to provide such
+consent. In the event that such body is not delivered or released to a
+university, college, school or institute under this section, the body
+shall be released for burial or other lawful disposition consistent with
+this article and any other applicable provision of law.
+  (d) The person having lawful possession of a body under this section
+shall not be held liable for actions taken reasonably and in good faith
+upon delivery of a body pursuant to subparagraph (i) of paragraph (a) of
+this subdivision, presentation of a written consent pursuant to
+subparagraph (ii) of such paragraph, or a written instrument, will or
+trust pursuant to subparagraph (iii) of such paragraph.
+  (e) The provisions of this section shall apply notwithstanding any
+inconsistent provision of general, special or local law.
+  * NB Effective September 17, 2016
   4. (a) A body of a deceased person shall not be delivered or released
 to, or received by a university, college, school or institute, if within
 twenty-four hours after notice of death by the person having lawful

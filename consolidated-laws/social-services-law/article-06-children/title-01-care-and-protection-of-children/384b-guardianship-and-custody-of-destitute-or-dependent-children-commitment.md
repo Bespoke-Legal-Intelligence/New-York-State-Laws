@@ -284,7 +284,7 @@ attorney for the child on the direction of the court. In the event of
 such filing the social services official or authorized agency having
 care and custody of the child shall be served with notice of the
 proceeding and shall join the petition.
-  (v) For the purposes of clause (D) of subparagraph (i) of this
+  * (v) For the purposes of clause (D) of subparagraph (i) of this
 paragraph, an assessment of whether a parent maintains a meaningful role
 in his or her child's life shall be based on evidence, which may include
 the following: a parent's expressions or acts manifesting concern for
@@ -308,6 +308,33 @@ parent's attorney or other individuals providing services to the parent,
 including correctional, mental health and substance abuse treatment
 program personnel. The court may make an order directing the authorized
 agency to undertake further steps to aid in completing its assessment.
+  * NB Effective until November 16, 2016
+  * (v) For the purposes of clause (D) of subparagraph (i) of this
+paragraph, an assessment of whether a parent maintains a meaningful role
+in his or her child's life shall be based on evidence, which may include
+the following: a parent's expressions or acts manifesting concern for
+the child, such as letters, telephone calls, visits, and other forms of
+communication with the child; efforts by the parent to communicate and
+work with the authorized agency, attorney for the child, foster parent,
+the court, and the parent's attorney or other individuals providing
+services to the parent, including correctional, mental health and
+substance abuse treatment program personnel for the purpose of complying
+with the service plan and repairing, maintaining or building the
+parent-child relationship; a positive response by the parent to the
+authorized agency's diligent efforts as defined in paragraph (f) of
+subdivision seven of this section; and whether the continued involvement
+of the parent in the child's life is in the child's best interest. In
+assessing whether a parent maintains a meaningful role in his or her
+child's life, the authorized agency shall gather input from individuals
+and agencies in a reasonable position to help make this assessment,
+including but not limited to, the authorized agency, attorney for the
+child, parent, child, foster parent or other individuals of importance
+in the child's life, and parent's attorney or other individuals
+providing services to the parent, including correctional, mental health
+and substance abuse treatment program personnel. The court may make an
+order directing the authorized agency to undertake further steps to aid
+in completing its assessment.
+  * NB Effective November 16, 2016
   4. An order committing the guardianship and custody of a child
 pursuant to this section shall be granted only upon one or more of the
 following grounds:
@@ -651,7 +678,7 @@ disposition ordered is the commitment of guardianship and custody
 pursuant to this section, an initial freed child permanency hearing
 shall be completed pursuant to section one thousand eighty-nine of the
 family court act.
-  9. Nothing in this section shall be construed to terminate, upon
+  * 9. Nothing in this section shall be construed to terminate, upon
 commitment of the guardianship and custody of a child to an authorized
 agency or foster parent, any rights and benefits, including but not
 limited to rights relating to inheritance, succession, social security,
@@ -665,6 +692,25 @@ disposition ordered is the commitment of guardianship and custody
 pursuant to this section, an initial freed child permanency hearing
 shall be held pursuant to section one thousand eighty-nine of the family
 court act.
+  * NB Effective until November 16, 2016
+  * 9. Nothing in this section shall be construed to terminate, upon
+commitment of the guardianship and custody of a child to an authorized
+agency or foster parent, any rights and benefits, including but not
+limited to rights relating to contact with siblings, inheritance,
+succession, social security, insurance and wrongful death action claims,
+possessed by or available to the child pursuant to any other provision
+of law. For purposes of this section, "siblings" shall include
+half-siblings and those who would be deemed siblings or half-siblings
+but for the termination of parental rights or death of a parent.
+Notwithstanding any other provision of law, a child committed to the
+custody and guardianship of an authorized agency pursuant to this
+section shall be deemed to continue in foster care until such time as an
+adoption or another planned permanent living arrangement is finalized.
+Where the disposition ordered is the commitment of guardianship and
+custody pursuant to this section, an initial freed child permanency
+hearing shall be held pursuant to section one thousand eighty-nine of
+the family court act.
+  * NB Effective November 16, 2016
   10. Upon the court's order transferring custody and guardianship to
 the commissioner, the attorney for the petitioning authorized agency
 shall promptly serve upon the persons who have been approved by such

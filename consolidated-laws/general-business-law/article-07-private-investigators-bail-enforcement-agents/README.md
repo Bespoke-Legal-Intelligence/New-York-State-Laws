@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 70 Licenses](70-licenses.md)
+- [§ 70 Private investigator license](70-private-investigator-license.md)
 - [§ 70-A Bail enforcement agents and watch, guard or patrol agencies](70a-bail-enforcement-agents-and-watch-guard-or-patrol-agencies.md)
 - [§ 71 Definitions](71-definitions.md)
 - [§ 72 Application for licenses](72-application-for-licenses.md)
@@ -23,7 +23,7 @@
 - [§ 82 Employees not to divulge information or make false reports](82-employees-not-to-divulge-information-or-make-false-reports.md)
 - [§ 83 Application of article](83-application-of-article.md)
 - [§ 84 Unlawful acts](84-unlawful-acts.md)
-- [§ 85 Attorney-general to prosecute](85-attorney-general-to-prosecute.md)
+- [§ 85 Prosecution](85-prosecution.md)
 - [§ 86 Reward may be presumed](86-reward-may-be-presumed.md)
 - [§ 87 Department of state to employ agents; expenses for enforcement of law](87-department-of-state-to-employ-agents-expenses-for-enforcement-of-law.md)
 - [§ 88 Roster of licensees](88-roster-of-licensees.md)
