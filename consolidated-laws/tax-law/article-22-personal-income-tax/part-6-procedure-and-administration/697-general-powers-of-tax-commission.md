@@ -113,23 +113,30 @@ herein shall be construed to prohibit the delivery by the commissioner
 to a commissioner of jurors, appointed pursuant to section five hundred
 four of the judiciary law, or, in counties within cities having a
 population of one million or more, to the county clerk of such county,
-of a mailing list of individuals to whom income tax forms are mailed by
-the commissioner for the sole purpose of compiling a list of prospective
-jurors as provided in article sixteen of the judiciary law. Provided,
-however, such delivery shall only be made pursuant to an order of the
-chief administrator of the courts, appointed pursuant to section two
-hundred ten of the judiciary law. No such order may be issued unless
-such chief administrator is satisfied that such mailing list is needed
-to compile a proper list of prospective jurors for the county for which
-such order is sought and that, in view of the responsibilities imposed
-by the various laws of the state on the department, it is reasonable to
-require the commissioner to furnish such list. Such order shall provide
-that such list shall be used for the sole purpose of compiling a list of
-prospective jurors and that such commissioner of jurors, or such county
-clerk, shall take all necessary steps to insure that the list is kept
-confidential and that there is no unauthorized use or disclosure of such
-list. Furthermore, nothing herein shall be construed to prohibit the
-delivery to a taxpayer or his or her duly authorized representative of a
+or to the clerk of the court or jury administrator of a United States
+district court appointed pursuant to title twenty-eight of the United
+States Code, section 1836(b)(2), of a mailing list of individuals to
+whom income tax forms are mailed by the commissioner for the sole
+purpose of compiling a list of prospective jurors as provided in article
+sixteen of the judiciary law or title twenty-eight of the United States
+Code. Provided, however, such delivery shall only be made pursuant to an
+order of the chief administrator of the courts, appointed pursuant to
+section two hundred ten of the judiciary law or an order of a chief
+judge of any United States district court in New York State. No such
+order may be issued unless such chief administrator or chief judge of
+such United States district court is satisfied that such mailing list is
+needed to compile a proper list of prospective jurors for the county or
+such United States district court for which such order is sought and
+that, in view of the responsibilities imposed by the various laws of the
+state on the department, it is reasonable to require the commissioner to
+furnish such list. Such order shall provide that such list shall be used
+for the sole purpose of compiling a list of prospective jurors and that
+such commissioner of jurors, or such county clerk, or clerk of the court
+or jury administrator of such United States district court shall take
+all necessary steps to insure that the list is kept confidential and
+that there is no unauthorized use or disclosure of such list.
+Furthermore, nothing herein shall be construed to prohibit the delivery
+to a taxpayer or his or her duly authorized representative of a
 certified copy of any return or report filed in connection with his or
 her tax or to prohibit the publication of statistics so classified as to
 prevent the identification of particular reports or returns and the
@@ -200,18 +207,17 @@ name and social security number of the taxpayer who made such
 overpayment, or the furnishing to the state department of health of the
 information required by paragraph (f) of subdivision two and subdivision
 two-a of section two thousand five hundred eleven of the public health
-law and by subdivision eight of section three hundred sixty-six-a and
-paragraphs (b) and (d) of subdivision two of section three hundred
-sixty-nine-ee of the social services law, or the furnishing to the state
-university of New York or the city university of New York respectively
-or the attorney general on behalf of such state or city university the
-amount of an overpayment of income tax and interest thereon certified to
-the comptroller to be credited against the amount of a default in
-repayment of a state university loan pursuant to section one hundred
-seventy-one-e of this chapter and of the name and social security number
-of the taxpayer who made such overpayment, or the disclosing to a state
-agency, pursuant to section one hundred seventy-one-f of this chapter,
-of the amount of an overpayment and interest thereon certified to the
+law and by subdivision eight of section three hundred sixty-six-a of the
+social services law, or the furnishing to the state university of New
+York or the city university of New York respectively or the attorney
+general on behalf of such state or city university the amount of an
+overpayment of income tax and interest thereon certified to the
+comptroller to be credited against the amount of a default in repayment
+of a state university loan pursuant to section one hundred seventy-one-e
+of this chapter and of the name and social security number of the
+taxpayer who made such overpayment, or the disclosing to a state agency,
+pursuant to section one hundred seventy-one-f of this chapter, of the
+amount of an overpayment and interest thereon certified to the
 comptroller to be credited against a past-due legally enforceable debt
 owed to such agency and of the name and social security number of the
 taxpayer who made such overpayment, or the furnishing of employee and
@@ -283,27 +289,25 @@ to the state department of health to verify eligibility under the child
 health insurance plan pursuant to subdivisions two and two-a of section
 two thousand five hundred eleven of the public health law, to verify
 eligibility under the medical assistance and family health plus programs
-pursuant to subdivision eight of section three hundred sixty-six-a and
-paragraphs (b) and (d) of subdivision two of section three hundred
-sixty-nine-ee of the social services law, and to verify eligibility for
-the program for elderly pharmaceutical insurance coverage under title
-three of article two of the elder law, or to the office of vocational
-and educational services for individuals with disabilities of the
-education department, the commission for the blind and any other state
-vocational rehabilitation agency, for purposes of obtaining
-reimbursement from the federal social security administration for
-expenditures made by such office, commission or agency on behalf of
-disabled individuals who have achieved economic self-sufficiency or to
-the higher education services corporation for the purpose of assisting
-the corporation in default prevention and default collection of
-education loan debt, including judgments, owed to the federal or New
-York state government; provided, however, that such information shall be
-limited to the names, social security numbers, home and/or business
-addresses, and employer names of defaulted or delinquent student loan
-borrowers, or to the office of the state comptroller for purposes of
-verifying the income of a retired member of a retirement system or
-pension plan administered by the state or any of its political
-subdivisions who returns to public employment.
+pursuant to subdivision eight of section three hundred sixty-six-a of
+the social services law, and to verify eligibility for the program for
+elderly pharmaceutical insurance coverage under title three of article
+two of the elder law, or to the office of vocational and educational
+services for individuals with disabilities of the education department,
+the commission for the blind and any other state vocational
+rehabilitation agency, for purposes of obtaining reimbursement from the
+federal social security administration for expenditures made by such
+office, commission or agency on behalf of disabled individuals who have
+achieved economic self-sufficiency or to the higher education services
+corporation for the purpose of assisting the corporation in default
+prevention and default collection of education loan debt, including
+judgments, owed to the federal or New York state government; provided,
+however, that such information shall be limited to the names, social
+security numbers, home and/or business addresses, and employer names of
+defaulted or delinquent student loan borrowers, or to the office of the
+state comptroller for purposes of verifying the income of a retired
+member of a retirement system or pension plan administered by the state
+or any of its political subdivisions who returns to public employment.
   Provided, however, that with respect to employee information the
 office of temporary and disability assistance shall only be furnished
 with the names, social security account numbers and gross wages of those
@@ -355,24 +359,23 @@ with respect to employee information, the department of health shall
 only be furnished with the information required pursuant to the
 provisions of paragraph (f) of subdivision two and subdivision two-a of
 section two thousand five hundred eleven of the public health law and
-subdivision eight of section three hundred sixty-six-a and paragraphs
-(b) and (d) of subdivision two of section three hundred sixty-nine-ee of
-the social services law, with respect to those individuals whose
-eligibility under the child health insurance plan, medical assistance
-program, and family health plus program is to be determined pursuant to
-such provisions and with respect to those members of any such
-individual's household whose income affects such individual's
-eligibility and who are so certified to the commissioner or by the
-department of health. Provided, further, that wage reporting information
-shall be furnished to the office of vocational and educational services
-for individuals with disabilities of the education department, the
-commission for the blind and any other state vocational rehabilitation
-agency only if such office, commission or agency, as applicable,
-certifies to the commissioner that such information is necessary to
-obtain reimbursement from the federal social security administration for
-expenditures made on behalf of disabled individuals who have achieved
-self-sufficiency. Reports and returns shall be preserved for three years
-and thereafter until the commissioner orders them to be destroyed.
+subdivision eight of section three hundred sixty-six-a of the social
+services law, with respect to those individuals whose eligibility under
+the child health insurance plan, medical assistance program, and family
+health plus program is to be determined pursuant to such provisions and
+with respect to those members of any such individual's household whose
+income affects such individual's eligibility and who are so certified to
+the commissioner or by the department of health. Provided, further, that
+wage reporting information shall be furnished to the office of
+vocational and educational services for individuals with disabilities of
+the education department, the commission for the blind and any other
+state vocational rehabilitation agency only if such office, commission
+or agency, as applicable, certifies to the commissioner that such
+information is necessary to obtain reimbursement from the federal social
+security administration for expenditures made on behalf of disabled
+individuals who have achieved self-sufficiency. Reports and returns
+shall be preserved for three years and thereafter until the commissioner
+orders them to be destroyed.
   (3-a) Notwithstanding the provisions of paragraph one of this
 subsection, the commissioner may disclose to a taxpayer or a taxpayer's
 related member, as defined in subsection (r) of section six hundred

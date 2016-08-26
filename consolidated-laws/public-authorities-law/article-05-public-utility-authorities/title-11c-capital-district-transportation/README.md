@@ -14,6 +14,7 @@
 - [§ 1305-A Filing five year performance, capital and operating finance plans](1305a-filing-five-year-performance-capital.md)
 - [§ 1306 General powers of the authority](1306-general-powers-of-the-authority.md)
 - [§ 1307 Special powers of the authority](1307-special-powers-of-the-authority.md)
+- [§ 1307-A Additional special powers of the authority](1307a-additional-special-powers-of-the-authority.md)
 - [§ 1308 Acquisition and disposition of real property](1308-acquisition-and-disposition-of-real-property.md)
 - [§ 1309 Cooperation and assistance of other agencies](1309-cooperation-and-assistance-of-other-agencies.md)
 - [§ 1310 Notes and bonds of the authority](1310-notes-and-bonds-of-the-authority.md)
@@ -48,6 +49,7 @@ Section 1300.   Short title.
                   finance plans.
         1306.   General powers of the authority.
         1307.   Special powers of the authority.
+        1307-a. Additional special powers of the authority.
         1308.   Acquisition and disposition of real property.
         1309.   Cooperation and assistance of other agencies.
         1310.   Notes and bonds of the authority.

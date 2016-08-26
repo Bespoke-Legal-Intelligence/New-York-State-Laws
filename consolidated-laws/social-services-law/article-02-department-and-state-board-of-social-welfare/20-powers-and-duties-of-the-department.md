@@ -180,34 +180,50 @@ any duly authorized agency, or any other agency which provided
 assistance, care or services to the deceased child such information as
 they are authorized to provide.
   6. The department is directed to seek appropriate approvals from
-federal officials to permit commissioners of jurors in each social
-services district to obtain the names and addresses of persons applying
-for or receiving aid to dependent children, medicaid, or home relief
-authorized by this chapter for purposes of identifying prospective
-jurors. Upon receiving such approval or upon determining that no
-approval is necessary, notwithstanding sections one hundred thirty-six
-and three hundred sixty-nine of this chapter, the department shall
-provide lists of such persons to the chief administrator of the courts,
-appointed pursuant to section two hundred ten of the judiciary law. The
-lists shall be provided for the sole purpose of integration into lists
-of prospective jurors as provided by section five hundred six of the
-judiciary law. The chief administrator of the courts shall upon request
-provide information from the lists to the commissioner of jurors in each
-county or, in a county within a city having a population of one million
-or more, the county clerk of said county, solely for the purpose of
-compiling lists of prospective jurors for the appropriate county. The
-lists shall be provided only pursuant to a cooperative agreement between
-the chief administrator of the courts and the commissioner that
-guarantees that all necessary steps shall be taken by the chief
-administrator of the courts, the commissioners of jurors and the county
-clerks to ensure that the lists are kept confidential and that there is
-no unauthorized use or disclosure of such lists. Furthermore, the lists
-will be provided only if the chief administrator of the courts
-determines that the lists are needed for integration into lists of
-prospective jurors in one or more counties. Commissioners of jurors and
-county clerks receiving such lists shall not use any information derived
-from such list for any purpose other than for the selection of jurors
-and shall take appropriate steps to see that the confidentiality of such
+federal officials to permit commissioners of jurors and clerks of the
+court or jury administrators of any United States district court in New
+York state appointed pursuant to title twenty-eight of the United States
+Code, section 1836(b)(2) in each social services district to obtain the
+names and addresses of persons applying for or receiving aid to
+dependent children, medicaid, or home relief authorized by this chapter
+for purposes of identifying prospective jurors. Upon receiving such
+approval or upon determining that no approval is necessary,
+notwithstanding sections one hundred thirty-six and three hundred
+sixty-nine of this chapter, the department shall provide lists of such
+persons to the chief administrator of the courts, appointed pursuant to
+section two hundred ten of the judiciary law, or the chief judge of any
+United States district court in New York State appointed pursuant to
+title twenty-eight of the United States Code. The lists shall be
+provided for the sole purpose of integration into lists of prospective
+jurors as provided by section five hundred six of the judiciary law or
+title twenty-eight of the United States Code. The chief administrator of
+the courts shall upon request provide information from the lists to the
+commissioner of jurors in each county or, in a county within a city
+having a population of one million or more, the county clerk of said
+county, solely for the purpose of compiling lists of prospective jurors
+for the appropriate county. The chief judge of such United States
+district court shall make lists available to such clerk of the court or
+jury administrator of a United States district court solely for the
+purpose of compiling lists of prospective jurors for the United States
+district court. The lists shall be provided only pursuant to a
+cooperative agreement between the chief administrator of the courts or,
+in the case of a United States district court, the chief judge of such
+United States district court and the commissioner that guarantees that
+all necessary steps shall be taken by the chief administrator of the
+courts, the chief judge of such United States district court, the
+commissioners of jurors and the county clerks or the clerk of the court
+or jury administrator or court clerk of the United States district court
+to ensure that the lists are kept confidential and that there is no
+unauthorized use or disclosure of such lists. Furthermore, the lists
+will be provided only if the chief administrator of the courts or the
+chief judge of the United States district court determines that the
+lists are needed for integration into lists of prospective jurors in one
+or more counties or the district of such United States district court.
+Commissioners of jurors and county clerks, and clerks of the court or
+jury administrators or clerk of any United States district court
+receiving such lists shall not use any information derived from such
+lists for any purpose other than for the selection of jurors and shall
+take appropriate steps to see that the confidentiality of such
 information is maintained.
   7. To the extent appropriations are available, the office of children
 and family services shall conduct a public education campaign that

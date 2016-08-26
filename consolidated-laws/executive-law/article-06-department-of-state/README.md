@@ -32,6 +32,7 @@
 - [§ 106-A Internet access to the New York code, rules and regulations](106a-internet-access-to-the-new-york-code-rules-and-regulations.md)
 - [§ 107 Intergovernmental agreements](107-intergovernmental-agreements.md)
 - [§ 108 Address confidentiality program](108-address-confidentiality-program.md)
+- [§ 109 Registration of certain service providers](109-registration-of-certain-service-providers.md)
 - [§ 130 Appointment of notaries public](130-appointment-of-notaries-public.md)
 - [§ 131 Procedure of appointment; fees and commissions; fee payment methods](131-procedure-of-appointment-fees-and-commissions-fee-payment-methods.md)
 - [§ 132 Certificates of official character of notaries public](132-certificates-of-official-character-of-notaries-public.md)
@@ -90,6 +91,7 @@ Section 90.    Department of state; secretary of state.
                  regulations.
         107.   Intergovernmental agreements.
         108.   Address confidentiality program.
+        109.   Registration of certain service providers.
         130.   Appointment of notaries public.
         131.   Procedure of appointment; fees and commissions; fee
                  payment methods.

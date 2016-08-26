@@ -9,6 +9,7 @@
 - [§ 1102 Records](1102-records.md)
 - [§ 1103 Transactions of business outside the state](1103-transactions-of-business-outside-the-state.md)
 - [§ 1104 Limited liability companies prohibited from interposing defense of usury](1104-limited-liability-companies-prohibited-from-interposing-defense-of-usury.md)
+- [§ 1105 Limited liability geology company](1105-limited-liability-geology-company.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,6 +22,7 @@ Section 1101. Fees.
         1103. Transactions of business outside the state.
         1104. Limited liability companies prohibited from interposing
                 defense of usury.
+        1105. Limited liability geology company.
 ```
 
 </details>

@@ -11,6 +11,8 @@
 - [§ 172-B Reports by registered charitable organizations; registration to be cancelled for failure to file](172b-reports-by-registered-charitable-organizations-registration-to-be-cancelled.md)
 - [§ 172-C Non-resident charitable organizations; designation of secretary of state as agent for service of process; service of process](172c-non-resident-charitable-organizations-designation-of-secretary-of-state-as-agent.md)
 - [§ 172-D Prohibited activity](172d-prohibited-activity.md)
+- [§ 172-E Disclosure of certain donations by charitable non-profit entities](172e-disclosure-of-certain-donations-by-charitable-non-profit-entities.md)
+- [§ 172-F Disclosure of certain activities by non-charitable non-profit entities](172f-disclosure-of-certain-activities-by-non-charitable-non-profit-entities.md)
 - [§ 173 Professional fund-raisers, commercial co-venturers and fund raising counsel](173-professional-fund-raisers-commercial-co-venturers-and-fund-raising-counsel.md)
 - [§ 173-A Contracts of professional fund raisers, fund raising counsel and commercial co-venturers; closing statements; final accountings](173a-contracts-of-professional-fund-raisers-fund-raising-counsel-and-commercial-co.md)
 - [§ 173-B Professional solicitor](173b-professional-solicitor.md)
@@ -41,6 +43,10 @@ Section 171-a. Definitions.
                  secretary of state as agent for service of process;
                  service of process.
         172-d. Prohibited activity.
+        172-e. Disclosure of certain donations by charitable non-profit
+                 entities.
+        172-f. Disclosure of certain activities by non-charitable
+                 non-profit entities.
         173.   Professional fund-raisers, commercial co-venturers and
                  fund raising counsel.
         173-a. Contracts of professional fund raisers, fund raising

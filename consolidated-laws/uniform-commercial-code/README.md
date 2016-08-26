@@ -17,17 +17,17 @@
 ## Chapter text as published
 
 ```text
-&font1
                          UNIFORM COMMERCIAL CODE
-                               ARTICLE 1
-                          GENERAL PROVISIONS
-                                PART 1
-              SHORT TITLE, CONSTRUCTION, APPLICATION AND
-                       SUBJECT MATTER OF THE ACT
-&font2
+                                ARTICLE 1
+                           GENERAL PROVISIONS
+                                 PART 1
+               SHORT TITLE, CONSTRUCTION, APPLICATION AND
+                        SUBJECT MATTER OF THE ACT
+Section 1--101. Short Title
+        1--102. Purposes; Rules of Construction; Variation by Agreement
 ```
 
-[Full chapter text (968 lines)](chapter-text.md)
+[Full chapter text (976 lines)](chapter-text.md)
 
 ## Recent changes
 

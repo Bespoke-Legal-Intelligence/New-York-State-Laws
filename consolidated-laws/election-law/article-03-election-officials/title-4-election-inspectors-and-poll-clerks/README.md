@@ -10,7 +10,6 @@
 - [§ 3-402 Election inspectors and poll clerks; authority](3-402-election-inspectors-and-poll-clerks-authority.md)
 - [§ 3-404 Election inspectors and poll clerks; designation](3-404-election-inspectors-and-poll-clerks-designation.md)
 - [§ 3-406 Election inspectors and poll clerks; additional](3-406-election-inspectors-and-poll-clerks-additional.md)
-- [§ 3-408 Election inspectors and clerks; additional clerks to count absentee ballots](3-408-election-inspectors-and-clerks-additional-clerks-to-count.md) *(repealed)*
 - [§ 3-410 Election inspectors and poll clerks; certification](3-410-election-inspectors-and-poll-clerks-certification.md)
 - [§ 3-412 Election inspectors and poll clerks; training](3-412-election-inspectors-and-poll-clerks-training.md)
 - [§ 3-414 Election inspectors and poll clerks; oath of office, certificate of appointment](3-414-election-inspectors-and-poll-clerks-oath-of-office-certificate.md)
