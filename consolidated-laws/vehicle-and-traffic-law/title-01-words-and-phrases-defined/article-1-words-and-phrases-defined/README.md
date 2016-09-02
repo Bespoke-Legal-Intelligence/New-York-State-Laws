@@ -3,8 +3,6 @@
 
 [Vehicle and Traffic Law](../../README.md) › [Title 1 — Words and Phrases Defined](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 100 Definition of words and phrases](100-definition-of-words-and-phrases.md)
@@ -102,8 +100,8 @@
 - [§ 140-C Skate board](140c-skate-board.md)
 - [§ 140-D Roundabout](140d-roundabout.md)
 - [§ 141 Safety zone](141-safety-zone.md)
-- [§ 141-A Sani-vans](141a-sani-vans.md)
-- [§ 141-A\*2 Sanitation patrol vehicle](141a-2-sanitation-patrol-vehicle.md)
+- [§ 141-A Sanitation patrol vehicle](141a-sanitation-patrol-vehicle.md)
+- [§ 141-B Sani-vans](141b-sani-vans.md)
 - [§ 142 School bus](142-school-bus.md)
 - [§ 143 Semitrailer](143-semitrailer.md)
 - [§ 143-A Shoulder](143a-shoulder.md)
@@ -134,6 +132,7 @@
 - [§ 158-A U turn](158a-u-turn.md)
 - [§ 158-B Vanpool vehicle](158b-vanpool-vehicle.md)
 - [§ 159 Vehicle](159-vehicle.md)
+- [§ 159-A Waste collection vehicle](159a-waste-collection-vehicle.md)
 - [§ 160 Wheel lift](160-wheel-lift.md)
 - [§ 161 Work area](161-work-area.md)
 
@@ -238,7 +237,7 @@ Section 100.     Definition of words and phrases.
         140-d.   Roundabout.
         141.     Safety zone.
         141-a.   Sanitation patrol vehicle.
-        141-a*2. Sani-vans.
+        141-b.   Sani-vans.
         142.     School bus.
         143.     Semitrailer.
         143-a.   Shoulder.
@@ -269,6 +268,7 @@ Section 100.     Definition of words and phrases.
         158-a.   U turn.
         158-b.   Vanpool vehicle.
         159.     Vehicle.
+        159-a.   Waste collection vehicle.
         160.     Wheel lift.
         161.     Work area.
 ```
