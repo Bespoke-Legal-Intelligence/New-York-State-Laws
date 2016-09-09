@@ -7,6 +7,8 @@
 
 - [§ 60 Kinds of licenses](60-kinds-of-licenses.md)
 - [§ 61 Distiller's licenses](61-distillers-licenses.md)
+- [§ 61-A Combined craft manufacturing license](61a-combined-craft-manufacturing-license.md)
+- [§ 61-B Importer's license](61b-importers-license.md)
 - [§ 62 Wholesaler's liquor license](62-wholesalers-liquor-license.md)
 - [§ 63 Seven day license to sell liquor at retail for consumption off the premises](63-seven-day-license-to-sell-liquor-at-retail-for-consumption-off-the-premises.md)
 - [§ 63-A Liquor tasting](63a-liquor-tasting.md)
@@ -31,6 +33,8 @@
                   SPECIAL PROVISIONS RELATING TO LIQUOR
 Section 60.   Kinds of licenses.
         61.   Distiller's licenses.
+        61-a. Combined craft manufacturing license.
+        61-b. Importer's license.
         62.   Wholesaler's liquor license.
         63.   Seven day license to sell liquor at retail for consumption
                 off the premises.
@@ -55,7 +59,7 @@ Section 60.   Kinds of licenses.
                 intent to consume by persons under the age of twenty-one
                 years.
         65-d. Posting of signs.
-        66.   License fees.
+        6     6.  License fees.
         67.   License fees, duration of licenses; fee for part of year.
 ```
 

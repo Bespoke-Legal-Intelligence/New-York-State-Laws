@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1015. Conduct of authorized professional combative sports. 1. All
+  § 1015. Conduct of authorized professional combative sports. 1. All
 buildings or structures used or intended to be used for conducting
 authorized professional combative sports shall be properly ventilated
 and provided with fire exits and fire escapes, and in all manner conform
@@ -143,5 +143,4 @@ article nineteen of the tax law. The athletic commission shall provide
 the commissioner of taxation and finance with such information and
 technical assistance as may be necessary for the proper administration
 of such tax.
-  * NB Effective September 1, 2016
 ```

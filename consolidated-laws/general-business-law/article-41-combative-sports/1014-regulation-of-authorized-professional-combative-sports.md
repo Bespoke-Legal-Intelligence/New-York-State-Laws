@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1014. Regulation of authorized professional combative sports. The
+  § 1014. Regulation of authorized professional combative sports. The
 commission shall promulgate regulations governing the conduct of
 authorized professional combative sports that:
   1. establish parameters and limitations on weights and classes of
@@ -26,5 +26,4 @@ equipment items utilized by professionals;
 appurtenances thereto; and
   9. establish such other rules and conditions as are necessary to
 effectuate the commission's purpose.
-  * NB Effective September 1, 2016
 ```

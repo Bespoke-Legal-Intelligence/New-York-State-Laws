@@ -27,6 +27,7 @@
 - [§ 99-E Change in duration of permits](99e-change-in-duration-of-permits.md)
 - [§ 99-F Special permits for minors to entertain](99f-special-permits-for-minors-to-entertain.md)
 - [§ 99-G Sale of privately held wines and liquors](99g-sale-of-privately-held-wines-and-liquors.md)
+- [§ 99-H Sunday on-premises sales permit](99h-sunday-on-premises-sales-permit.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -57,6 +58,7 @@ Section 90.    Kinds of permits.
         99-e.  Change in duration of permits.
         99-f.  Special permits for minors to entertain.
         99-g.  Sale of privately held wines and liquors.
+        99-h.  Sunday on-premises sales permit.
 ```
 
 </details>

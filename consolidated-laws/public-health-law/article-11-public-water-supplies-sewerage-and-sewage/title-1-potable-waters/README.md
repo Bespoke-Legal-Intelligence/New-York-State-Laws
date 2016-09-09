@@ -16,6 +16,7 @@
 - [§ 1107 Orders of commissioner](1107-orders-of-commissioner.md)
 - [§ 1108 Powers and duties with respect to comprehensive public water supply planning](1108-powers-and-duties-with-respect-to-comprehensive-public.md)
 - [§ 1109 Standards for water reuse](1109-standards-for-water-reuse.md)
+- [§ 1110 School potable water testing and standards](1110-school-potable-water-testing-and-standards.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -37,6 +38,7 @@ Section 1100.   Rules and regulations of the department.
         1108.   Powers and duties with respect to comprehensive public
                   water supply planning.
         1109.   Standards for water reuse.
+        1110.   School potable water testing and standards.
 ```
 
 </details>

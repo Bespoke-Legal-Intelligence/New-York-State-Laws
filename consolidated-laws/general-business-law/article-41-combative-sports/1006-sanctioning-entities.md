@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1006. Sanctioning entities. 1. The commission shall promulgate
+  § 1006. Sanctioning entities. 1. The commission shall promulgate
 regulations establishing a process by which entities may be recognized
 and approved by the commission as authorized sanctioning entities for a
 period of time to be established by the commission, during which the
@@ -25,5 +25,4 @@ has endured severe punishment or is in danger of suffering serious
 physical injury; and
   (d) whether the entity has established protocols to effectuate the
 appropriate and timely medical treatment of injured persons.
-  * NB Effective September 1, 2016
 ```

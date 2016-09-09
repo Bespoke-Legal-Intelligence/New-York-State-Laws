@@ -4,10 +4,6 @@
 [General Business Law](../README.md) › [Article 43 — Laws Repealed; When to Take Effect](README.md)
 
 ```text
-  * § 901. When to take effect. This chapter shall take effect
+  § 1201. When to take effect. This chapter shall take effect
 immediately.
-  * NB Effective until September 1, 2016
-  * § 1201. When to take effect. This chapter shall take effect
-immediately.
-  * NB Effective September 1, 2016
 ```

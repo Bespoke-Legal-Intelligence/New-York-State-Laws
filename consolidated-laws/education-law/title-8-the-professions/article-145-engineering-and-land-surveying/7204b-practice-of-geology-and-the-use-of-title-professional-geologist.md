@@ -8,5 +8,5 @@
 geologist". Only a person licensed or otherwise authorized under this
 article shall practice geology or use the title "professional
 geologist".
-  * NB Effective November 21, 2016
+  * NB Effective March 1, 2018
 ```

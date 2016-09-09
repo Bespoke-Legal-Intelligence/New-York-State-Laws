@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1010. Licenses; professionals. 1. Except as otherwise provided in
+  § 1010. Licenses; professionals. 1. Except as otherwise provided in
 sections one thousand six, one thousand eleven and one thousand
 seventeen of this article, only persons licensed by the commission shall
 compete in authorized professional combative sports.
@@ -33,5 +33,4 @@ confidential, and shall be open to examination only to the commission or
 its authorized representative, to the licensed professional or manager
 upon written application to examine said records, or upon the order of a
 court of competent jurisdiction in an appropriate case.
-  * NB Effective September 1, 2016
 ```

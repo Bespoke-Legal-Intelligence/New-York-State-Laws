@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1002. Combative sports prohibited. 1. The conduct of combative
+  § 1002. Combative sports prohibited. 1. The conduct of combative
 sports outside the supervision of the commission or an authorized
 sanctioning entity is prohibited.
   2. A person advances a prohibited combative sport when, acting other
@@ -28,5 +28,4 @@ in the proceeds of a prohibited combative sport, or pursuant to an
 agreement or understanding with any person whereby he or she
 participates or is to participate in the proceeds of a prohibited
 combative sport.
-  * NB Effective September 1, 2016
 ```

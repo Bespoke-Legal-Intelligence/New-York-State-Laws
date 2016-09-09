@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1018. Prohibited conduct. 1. No corporation or person shall have,
+  § 1018. Prohibited conduct. 1. No corporation or person shall have,
 either directly or indirectly, any financial interest in a professional
 boxer competing on premises owned or leased by the corporation or
 person, or in which such corporation or person is otherwise interested
@@ -24,5 +24,4 @@ course of conduct in which fights are arranged where one professional
 has skills or experience significantly in excess of the other
 professional so that a mismatch results with the potential of physical
 harm to the professional.
-  * NB Effective September 1, 2016
 ```

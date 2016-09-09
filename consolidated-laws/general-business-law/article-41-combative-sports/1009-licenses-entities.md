@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 41 — Combative Sports](README.md)
 
 ```text
-  * § 1009. Licenses; entities. 1. (a) Except as otherwise provided in
+  § 1009. Licenses; entities. 1. (a) Except as otherwise provided in
 sections one thousand six and one thousand seventeen of this article,
 only entities licensed by the commission may conduct an authorized
 professional combative sport within the state. The commission may, in
@@ -50,5 +50,4 @@ that it can furnish suitable facilities in which the training is to be
 conducted, including the making of such training facilities available
 for inspection by the commission at any time during which training is in
 progress.
-  * NB Effective September 1, 2016
 ```
