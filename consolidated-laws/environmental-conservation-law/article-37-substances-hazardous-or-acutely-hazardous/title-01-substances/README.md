@@ -11,7 +11,7 @@
 - [§ 37-0107 Prohibition against storage or release](37-0107-prohibition-against-storage-or-release.md)
 - [§ 37-0109 Chromated copper arsenate pressure treated lumber; public facilities](37-0109-chromated-copper-arsenate-pressure-treated.md)
 - [§ 37-0111 Prohibition against brominated flame retardants](37-0111-prohibition-against-brominated-flame.md)
-- [§ 37-0113 Lead wheel weight; prohibited](37-0113-lead-wheel-weight-prohibited.md)
+- [§ 37-0113 Lead and mercury-added wheel weights; prohibited](37-0113-lead-and-mercury-added-wheel-weights.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,7 +27,7 @@ Section 37-0101. Definitions.
         37-0109. Chromated copper arsenate pressure treated lumber;
                    public facilities.
         37-0111. Prohibition against brominated flame retardants.
-        37-0113. Lead wheel weight; prohibited.
+        37-0113. Lead and mercury-added wheel weights; prohibited.
 ```
 
 </details>

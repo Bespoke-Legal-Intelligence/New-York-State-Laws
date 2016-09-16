@@ -17,6 +17,7 @@
 - [§ 837-E Statewide central register for missing children](837e-statewide-central-register-for-missing-children.md)
 - [§ 837-F Missing and exploited children clearinghouse](837f-missing-and-exploited-children-clearinghouse.md)
 - [§ 837-F-1 Missing vulnerable adults clearinghouse](837f-1-missing-vulnerable-adults-clearinghouse.md)
+- [§ 837-F-2 Missing adults](837f-2-missing-adults.md)
 - [§ 837-G Livery vehicle safety training program establishment](837g-livery-vehicle-safety-training-program-establishment.md)
 - [§ 837-H Livery vehicle safety training program; standards; eligibility; reports](837h-livery-vehicle-safety-training-program-standards-eligibility-reports.md)
 - [§ 837-I Uniform parking ticket](837i-uniform-parking-ticket.md)
@@ -65,6 +66,7 @@ Section 835.     Definitions.
         837-e.   Statewide central register for missing children.
         837-f.   Missing and exploited children clearinghouse.
         837-f-1. Missing vulnerable adults clearinghouse.
+        837-f-2. Missing adults.
         837-g.   Livery vehicle safety training program establishment.
         837-h.   Livery vehicle safety training program; standards;
                    eligibility; reports.

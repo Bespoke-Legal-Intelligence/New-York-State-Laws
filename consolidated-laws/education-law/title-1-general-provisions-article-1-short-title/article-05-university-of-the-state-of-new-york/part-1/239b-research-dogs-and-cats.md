@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 239-b. Research dogs and cats. 1. A higher education research
+  § 239-b. Research dogs and cats. 1. A higher education research
 facility that receives public money, including tax-exempt status, or a
 facility that provides research in collaboration with a higher education
 facility shall after the completion of any testing or research involving
@@ -32,5 +32,4 @@ adoption by way of an established adoption program.
 required to offer dogs or cats for adoption under this section shall
 have the authority to assess the health of an animal and determine
 whether an animal is suitable for adoption.
-  * NB Effective September 15, 2016
 ```

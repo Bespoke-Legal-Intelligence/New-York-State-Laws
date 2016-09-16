@@ -22,6 +22,7 @@
 - [§ 201-F Retail sale of halal food or food products](201f-retail-sale-of-halal-food-or-food-products.md)
 - [§ 201-G Persons certifying as halal; filing with department](201g-persons-certifying-as-halal-filing-with-department.md)
 - [§ 201-H Notice of violation](201h-notice-of-violation.md)
+- [§ 201-I Misbranding of certain fish species](201i-misbranding-of-certain-fish-species.md)
 - [§ 202 Unavoidable added poisonous or deleterious substances](202-unavoidable-added-poisonous-or-deleterious-substances.md)
 - [§ 202-A False advertising](202a-false-advertising.md)
 - [§ 202-B Seizure and quarantine](202b-seizure-and-quarantine.md)
@@ -80,6 +81,7 @@ Section 198.   Definitions.
         201-f. Retail sale of halal food or food products.
         201-g. Persons certifying as halal; filing with department.
         201-h. Notice of violation.
+        201-i. Misbranding of certain fish species.
         202.   Unavoidable added poisonous or deleterious substances.
         202-a. False advertising.
         202-b. Seizure and quarantine.

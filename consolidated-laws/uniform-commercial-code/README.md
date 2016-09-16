@@ -8,7 +8,7 @@
 | Senate code | UCC |
 | Type | Consolidated law, chapter 38 |
 | Sections | 627 |
-| Last changed | 20 May 2016 |
+| Last changed | 16 Sep 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform Commercial Code |
 
@@ -24,13 +24,14 @@
                SHORT TITLE, CONSTRUCTION, APPLICATION AND
                         SUBJECT MATTER OF THE ACT
 Section 1--101. Short Title
-        1--102. Purposes; Rules of Construction; Variation by Agreement
+        1--102. Scope of Article
 ```
 
-[Full chapter text (976 lines)](chapter-text.md)
+[Full chapter text (983 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [16 Sep 2016](../../changes/2016/2016-09-16.md): 1 amended
 - [20 May 2016](../../changes/2016/2016-05-20.md): 1 amended
 - [27 Feb 2015](../../changes/2015/2015-02-27.md): 1 amended
 - [20 Feb 2015](../../changes/2015/2015-02-20.md): 5 amended

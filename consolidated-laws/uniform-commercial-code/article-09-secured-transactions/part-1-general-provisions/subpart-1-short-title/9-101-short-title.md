@@ -4,7 +4,7 @@
 [Uniform Commercial Code](../../../README.md) › [Article 9 — Secured Transactions](../../README.md) › [Part 1 — General Provisions](../README.md) › [Subpart 1 — Short Title, Definitions, and General Concepts](README.md)
 
 ```text
-Section 9-101. Short Title.
+Section 9--101. Short Title.
   This article may be cited as Uniform Commercial Code--Secured
 Transactions.
 ```
