@@ -4,12 +4,8 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 507. Prohibitions. The sale, distribution or export of industrial
-hemp grown or cultivated pursuant to this article is prohibited.
-  * NB Effective until September 18, 2016
-  * § 507. Prohibitions. Except as authorized by federal and state law,
+  § 507. Prohibitions. Except as authorized by federal and state law,
 and regulations promulgated pursuant to section five hundred eight of
 this article, the sale, distribution or export of industrial hemp grown
 or cultivated pursuant to this article is prohibited.
-  * NB Effective September 18, 2016
 ```

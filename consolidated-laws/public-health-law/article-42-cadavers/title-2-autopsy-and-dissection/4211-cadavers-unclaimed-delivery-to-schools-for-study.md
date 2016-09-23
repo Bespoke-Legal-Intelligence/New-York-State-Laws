@@ -52,9 +52,9 @@ or,
   (c) if the deceased person is known to have a relative whose place of
 residence is known or can be ascertained after reasonable and diligent
 inquiry.
-  * 3-a. (a) In a city having a population of one million or more, no
-body of a deceased person shall be delivered or released to or received
-by, any university, college, school or institute, including any mortuary
+  3-a. (a) In a city having a population of one million or more, no body
+of a deceased person shall be delivered or released to or received by,
+any university, college, school or institute, including any mortuary
 school unless:
   (i) the person authorized to consent to make an anatomical gift with
 respect to the decedent under article forty-three of this chapter makes
@@ -89,7 +89,6 @@ subparagraph (ii) of such paragraph, or a written instrument, will or
 trust pursuant to subparagraph (iii) of such paragraph.
   (e) The provisions of this section shall apply notwithstanding any
 inconsistent provision of general, special or local law.
-  * NB Effective September 17, 2016
   4. (a) A body of a deceased person shall not be delivered or released
 to, or received by a university, college, school or institute, if within
 twenty-four hours after notice of death by the person having lawful

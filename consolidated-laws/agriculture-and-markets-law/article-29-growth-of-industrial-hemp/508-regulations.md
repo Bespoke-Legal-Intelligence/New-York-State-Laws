@@ -4,20 +4,10 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 508. Regulations. In cooperation with the commissioner of health
-and the commissioner of criminal justice services, the commissioner
-shall develop regulations consistent with the provisions of this article
-for the approval of agricultural pilot programs for the growing and
-cultivation of industrial hemp, including, but not limited to:
-  (a) the authorization of any person who as part of such program may
-acquire or possess industrial hemp or hemp seeds; and
-  (b) the disposition of industrial hemp after it has been grown or
-cultivated and studied.
-  * NB Effective until September 18, 2016
-  * § 508. Regulations. In cooperation with the commissioner of health
-and the commissioner of criminal justice services, the commissioner
-shall develop regulations consistent with the provisions of this article
-for the approval of agricultural pilot programs for the growing and
+  § 508. Regulations. In cooperation with the commissioner of health and
+the commissioner of criminal justice services, the commissioner shall
+develop regulations consistent with the provisions of this article for
+the approval of agricultural pilot programs for the growing and
 cultivation, sale, distribution, transportation or processing of
 industrial hemp and products derived from such hemp, including, but not
 limited to:
@@ -27,5 +17,4 @@ cultivate industrial hemp plants; and/or, sell, purchase, distribute,
 transport or process such plants, seeds and products; and
   (b) the disposal, if necessary, of industrial hemp after it has been
 grown or cultivated and studied.
-  * NB Effective September 18, 2016
 ```

@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 509. Industrial hemp reporting. The commissioner, in cooperation
+  § 509. Industrial hemp reporting. The commissioner, in cooperation
 with the commissioner of economic development, shall file a written
 report with the governor, the majority and minority leaders of the
 senate and the speaker and minority leader of the assembly on January
@@ -14,5 +14,4 @@ but not be limited to, the success of such programs in cultivating,
 marketing, processing and selling industrial hemp and products derived
 from such hemp, and the opportunities and barriers to developing hemp
 related businesses and jobs.
-  * NB Effective September 18, 2016
 ```
