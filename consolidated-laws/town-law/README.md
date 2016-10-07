@@ -8,7 +8,7 @@
 | Senate code | TWN |
 | Type | Consolidated law, chapter 62 |
 | Sections | 358 |
-| Last changed | 16 Sep 2016 |
+| Last changed | 7 Oct 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Town |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [7 Oct 2016](../../changes/2016/2016-10-07.md): 1 amended
 - [16 Sep 2016](../../changes/2016/2016-09-16.md): 2 amended
 - [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 amended
 - [18 Dec 2015](../../changes/2015/2015-12-18.md): 1 amended

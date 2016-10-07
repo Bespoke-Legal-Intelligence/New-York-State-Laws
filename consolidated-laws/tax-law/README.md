@@ -8,7 +8,7 @@
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
 | Sections | 1,139 |
-| Last changed | 2 Sep 2016 |
+| Last changed | 7 Oct 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [7 Oct 2016](../../changes/2016/2016-10-07.md): 9 amended
 - [2 Sep 2016](../../changes/2016/2016-09-02.md): 1 amended
 - [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 6 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 59 amended, 4 added
 - [15 Apr 2016](../../changes/2016/2016-04-15.md): 5 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 1 amended
-- [8 Jan 2016](../../changes/2016/2016-01-08.md): 1 amended
 
 ## Contents
 
@@ -57,7 +57,7 @@ Assembly, do enact as follows:
 - [Article 13-A — Tax On Petroleum Businesses](article-13a-tax-on-petroleum-businesses/)
 - [Article 14 — Laws Repealed; When to Take Effect](article-14-laws-repealed-when-to-take-effect/)
 - [Article 18 — Taxes On Alcoholic Beverages](article-18-taxes-on-alcoholic-beverages/)
-- [Article 19 — Boxing and Wrestling Exhibitions Tax](article-19-boxing-and-wrestling-exhibitions-tax/)
+- [Article 19 — Authorized Combative Sports Tax](article-19-authorized-combative-sports-tax/)
 - [Article 20 — Tax On Cigarettes and Tobacco Products](article-20-tax-on-cigarettes-and-tobacco-products/)
 - [Article 20-A — Cigarette Marketing Standards](article-20a-cigarette-marketing-standards/)
 - [Article 20-B — Excise Tax On Medical Marihuana](article-20b-excise-tax-on-medical-marihuana/)

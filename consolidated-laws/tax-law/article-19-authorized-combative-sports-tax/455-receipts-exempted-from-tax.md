@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Tax Law § 455", "kind": "section", "law_id": "TAX", "location_id": "455", "path": "ARTICLE 19 › SECTION 455", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/455.md", "title": "Receipts exempted from tax"} -->
 # Tax Law § 455 — Receipts exempted from tax
 
-[Tax Law](../README.md) › [Article 19 — Boxing and Wrestling Exhibitions Tax](README.md)
+[Tax Law](../README.md) › [Article 19 — Authorized Combative Sports Tax](README.md)
 
 ```text
   § 455. Receipts exempted from tax. 1. The gross receipts from any

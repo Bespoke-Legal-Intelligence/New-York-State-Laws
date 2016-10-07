@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EPT |
 | Type | Consolidated law, chapter 17-B |
-| Sections | 344 |
-| Last changed | 18 Dec 2015 |
+| Sections | 361 |
+| Last changed | 7 Oct 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Estates, Powers & Trusts |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
                      ESTATES, POWERS AND TRUSTS LAW
 ```
 
-[Full chapter text (31 lines)](chapter-text.md)
+[Full chapter text (33 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [7 Oct 2016](../../changes/2016/2016-10-07.md): 17 added
 - [18 Dec 2015](../../changes/2015/2015-12-18.md): 1 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 2 amended
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 3 amended
@@ -54,4 +55,5 @@ Assembly, do enact as follows:
 - [Article 11-A — Uniform Principal and Income Act](article-11a-uniform-principal-and-income-act/)
 - [Article 12 — Actions By Creditors and Other Persons Against Distributees and Testamentary Beneficiaries](article-12-actions-by-creditors-and-other-persons-against/)
 - [Article 13 — Other Provisions Affecting Estates](article-13-other-provisions-affecting-estates/)
+- [Article 13-A — Administration of Digital Assets Summary of Article](article-13a-administration-of-digital-assets-summary/)
 - [Article 14 — Repealer; Derivation and Distribution Tables; Effective Date](article-14-repealer-derivation-and-distribution-tables/)

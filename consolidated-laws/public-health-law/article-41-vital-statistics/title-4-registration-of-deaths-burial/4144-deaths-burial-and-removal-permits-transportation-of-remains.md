@@ -7,45 +7,28 @@
   § 4144. Deaths; burial and removal permits; transportation of remains.
 1. The body of any person whose death occurs in this state, or which
 shall be found dead herein shall not be interred, deposited in a vault
-or tomb, cremated or otherwise disposed of, or removed from the county
-in which the death occurred or the body was found, or be temporarily
-held pending further disposition more than seventy-two hours after
-death, unless a permit for burial, removal, or other disposition thereof
-shall have been properly issued by the registrar of vital statistics of
-the registration district in which the death occurred or the body was
-found, except that such a body may be removed to an adjacent county
-without first obtaining a permit therefor; provided, however, that a
-licensed funeral director may apply for and receive such permit on
-behalf of any person or institution authorized by article forty-two or
-forty-three of this chapter to receive unclaimed cadavers or anatomical
-gifts.
-  2. (a) Except as provided in paragraphs (b) and (c) hereof, no burial
-or removal permit shall be issued by any registrar until, wherever
-practicable, a complete and satisfactory certificate of death has been
-filed with him as provided in this article.
-  (b) Verbal permission to remove a body of a deceased person from the
-county in which death occurred or the body was found to a non-adjacent
-county within the state of New York, as provided in subdivision one of
-this section, shall be issued by the said registrar of vital statistics,
-upon request by telephone of a licensed funeral director or undertaker
-who holds a certificate of death signed by the attending physician or
-nurse practitioner, or for deaths occurring on or after the
-implementation date under section forty-one hundred forty-eight of this
-title, such certificate of death signed by the attending physician or
-nurse practitioner is available electronically in accordance with
-section forty-one hundred forty-eight of this title, showing that the
-death resulted from natural causes and was not a result of accidental,
-suicidal, homicidal or other external causes.
-  (c) If it is not possible for the funeral director or undertaker to
-communicate with the registrar by telephone, verbal permission to remove
-a body of a deceased person under the same conditions as those
-prescribed for the registrar may be issued by the commissioner or person
-authorized by him.
-  (d) The funeral director or undertaker who shall make any removal
+or tomb, cremated or otherwise disposed of, or removed from this state,
+or be temporarily held pending further disposition more than seventy-two
+hours after death, unless a permit for burial, removal, or other
+disposition thereof shall have been properly issued by the registrar of
+vital statistics of the registration district in which the death
+occurred or the body was found; provided, however, that a licensed
+funeral director may apply for and receive such permit on behalf of any
+person or institution authorized by article forty-two or forty-three of
+this chapter to receive unclaimed cadavers or anatomical gifts.
+  2. (a) No burial or removal permit shall be issued by any registrar
+until, wherever practicable, a complete and satisfactory certificate of
+death has been filed with him as provided in this article.
+  (b) The funeral director or undertaker who shall make any removal
 before a permit is issued by the registrar, shall return the body to the
 registration district where death occurred, whenever the coroner,
 medical examiner, or district attorney shall request such return of the
 body for investigation or post-mortem examination.
+  (c) Except as specifically provided in this section, the existing
+general duties of, and remuneration received by, local registrars in
+accepting and filing certificates of death and issuing burial and
+removal permits pursuant to any statute or regulation shall be
+maintained, and not altered or abridged in any way by this section.
   3. No registrar of vital statistics shall receive any fee for the
 issuance of burial or removal permits under this chapter except as
 referenced by section forty-one hundred forty-eight of this title and
@@ -69,6 +52,4 @@ have power to promulgate rules with reference to the removal of bodies
 of persons whose deaths occur on trains, boats or other carriers engaged
 in the transportation of persons within this state, and with reference
 to the removal of bodies as provided herein.
-  7. For the purposes of this section the counties within New York city
-shall be considered a single county.
 ```

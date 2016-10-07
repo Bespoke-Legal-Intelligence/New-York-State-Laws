@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Tax Law § 454", "kind": "section", "law_id": "TAX", "location_id": "454", "path": "ARTICLE 19 › SECTION 454", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/454.md", "title": "Agents of the commissioner of taxation and finance"} -->
 # Tax Law § 454 — Agents of the commissioner of taxation and finance
 
-[Tax Law](../README.md) › [Article 19 — Boxing and Wrestling Exhibitions Tax](README.md)
+[Tax Law](../README.md) › [Article 19 — Authorized Combative Sports Tax](README.md)
 
 ```text
   § 454. Agents of the commissioner of taxation and finance. Employees

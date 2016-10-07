@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Tax Law § 456", "kind": "section", "law_id": "TAX", "location_id": "456", "path": "ARTICLE 19 › SECTION 456", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/456.md", "title": "Practice and procedure"} -->
 # Tax Law § 456 — Practice and procedure
 
-[Tax Law](../README.md) › [Article 19 — Boxing and Wrestling Exhibitions Tax](README.md)
+[Tax Law](../README.md) › [Article 19 — Authorized Combative Sports Tax](README.md)
 
 ```text
   § 456. Practice and procedure. The provisions of article twenty-seven

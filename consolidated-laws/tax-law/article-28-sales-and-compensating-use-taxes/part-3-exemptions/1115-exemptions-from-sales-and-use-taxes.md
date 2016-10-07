@@ -37,9 +37,8 @@ the presence of medicinal ingredients therein or medical equipment
 (including component parts thereof) and supplies, other than such drugs
 and medicines, purchased at retail for use in performing medical and
 similar services for compensation.
-  * (3-a) Feminine hygiene products, including, but not limited to,
+  (3-a) Feminine hygiene products, including, but not limited to,
 sanitary napkins, tampons and panty liners.
-  * NB Effective September 1, 2016
   (4) Prosthetic aids, hearing aids, eyeglasses and artificial devices
 and component parts thereof purchased to correct or alleviate physical
 incapacity in human beings.

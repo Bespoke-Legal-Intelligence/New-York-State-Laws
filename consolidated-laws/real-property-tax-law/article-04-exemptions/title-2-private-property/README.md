@@ -103,6 +103,7 @@
 - [§ 467-G Rebate for owners of certain real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of Octob...](467g-rebate-for-owners-of-certain-real-property-seriously-damaged-by-the-severe-storm.md)
 - [§ 467-H Partial abatement for certain rebuilt real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth...](467h-partial-abatement-for-certain-rebuilt-real-property-seriously-damaged.md)
 - [§ 467-I Real property tax abatement](467i-real-property-tax-abatement.md)
+- [§ 467-J Exemption for certain residential properties located in certain counties](467j-exemption-for-certain-residential-properties-located-in-certain-counties.md)
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
@@ -151,6 +152,7 @@
 - [§ 485-R Residential redevelopment inhibited property exemption; certain cities](485r-residential-redevelopment-inhibited-property-exemption-certain-cities.md)
 - [§ 485-S Residential reassessment exemption](485s-residential-reassessment-exemption.md)
 - [§ 485-S\*2 Residential reassessment exemption](485s-2-residential-reassessment-exemption.md)
+- [§ 485-S\*3 Mixed use exemption program for villages](485s-3-mixed-use-exemption-program-for-villages.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain solar or wind energy systems or farm waste energy systems](487-exemption-from-taxation-for-certain-solar-or-wind-energy-systems-or-farm-waste.md)
@@ -342,6 +344,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    thousand twelve in a city having a population of one
                    million or more.
         467-i.   Real property tax abatement.
+        467-j.   Exemption for certain residential properties located in
+                   certain counties.
         468.     Fire patrol and salvage corps.
         469.     Assessment exemption for living quarters for parent or
                    grandparent.
@@ -407,6 +411,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
                    certain cities.
         485-s.   Residential reassessment exemption.
         485-s*2. Residential reassessment exemption.
+        485-s*3. Mixed use exemption program for villages.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance

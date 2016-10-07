@@ -65,14 +65,17 @@ directions for use; or (e) issued by a practitioner to be dispensed by a
 pharmacy located outside the state, as set forth in regulation.
   4. In the case of a prescription for a controlled substance issued by
 a practitioner under paragraph (b) of subdivision three of this section,
-the practitioner shall file information about the issuance of such
-prescription with the department as soon as practicable, as set forth in
-regulation.
+the practitioner shall indicate in the patient's health record that the
+prescription was issued other than electronically due to temporary
+technological or electrical failure.
   5. In the case of a prescription for a controlled substance issued by
 a practitioner under paragraph (d) or (e) of subdivision three of this
-section, the practitioner shall, upon issuing such prescription, file
-information about the issuance of such prescription with the department
-by electronic means, as set forth in regulation.
+section, the practitioner shall, upon issuing such prescription,
+indicate in the patient's health record either that the prescription was
+issued other than electronically because it (a) was impractical to issue
+an electronic prescription in a timely manner and such delay would have
+adversely impacted the patient's medical condition, or (b) was to be
+dispensed by a pharmacy located outside the state.
   6. The waiver process established in regulation pursuant to paragraph
 (c) of subdivision three of this section shall provide that a
 practitioner prescribing under a waiver must notify the department in

@@ -15,6 +15,7 @@
 - [§ 1078-C Water metering](1078c-water-metering.md)
 - [§ 1078-D Additional powers of the county of Suffolk and towns and villages within Suffolk county](1078d-additional-powers-of-the-county-of-suffolk.md)
 - [§ 1078-E Acquisition by eminent domain](1078e-acquisition-by-eminent-domain.md)
+- [§ 1078-F Charges by authority; method of collection](1078f-charges-by-authority-method-of-collection.md)
 - [§ 1079 Survey of water resources](1079-survey-of-water-resources.md)
 - [§ 1080 Bonds](1080-bonds.md)
 - [§ 1080-A Notes of the authority](1080a-notes-of-the-authority.md)
@@ -36,7 +37,7 @@
 
 ```text
                                  TITLE 4
-                      SUFFOLK COUNTY WATER AUTHORITY
+                     SUFFOLK COUNTY WATER AUTHORITY
 Section 1074.   Short title.
         1075.   Statement of purpose.
         1076.   Definitions.
@@ -48,11 +49,12 @@ Section 1074.   Short title.
         1078-d. Additional powers of the county of Suffolk and towns and
                   villages within Suffolk county.
         1078-e. Acquisition by eminent domain.
+        1078-f. Charges by authority; method of collection.
         1079.   Survey of water resources.
         1080.   Bonds.
         1080-a. Notes of the authority.
         1081.   Bonds as legal investments.
-        1082.   Bonds   and   property  of  the  authority  exempt  from
+        1082.   Bonds and property of the authority exempt from
                   taxation.
         1083.   State, county and municipalities not liable on bonds.
         1084.   Agreements of the state.

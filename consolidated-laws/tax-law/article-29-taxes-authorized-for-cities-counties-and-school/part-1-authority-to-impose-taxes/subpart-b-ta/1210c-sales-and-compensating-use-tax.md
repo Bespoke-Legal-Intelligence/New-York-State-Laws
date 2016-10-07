@@ -14,7 +14,7 @@ limits of said county sales and compensating use taxes at a rate which
 is one-half of one percent additional to the three percent rate
 authorized in section twelve hundred ten of this article for the period
 beginning on or after September first, nineteen hundred ninety-eight and
-ending August thirty-first, two thousand thirty-three, which taxes shall
+ending August thirty-first, two thousand thirty-eight, which taxes shall
 be identical to the taxes imposed by said county pursuant to section
 twelve hundred ten of this article. Except as hereinafter provided, all
 provisions of this article, including the definition and exemption
@@ -41,7 +41,7 @@ authority of this section.
 contrary, the net collections from the tax imposed pursuant to
 subdivision (a) of this section for the period beginning on or after
 September first, nineteen hundred ninety-eight and ending August
-thirty-first, two thousand thirty-three shall, upon payment to the
+thirty-first, two thousand thirty-eight shall, upon payment to the
 county of Schenectady, be deposited in the Schenectady metroplex
 development authority support fund, pursuant to subdivision nine of
 section twenty-six hundred sixty-one of the public authorities law, with
@@ -57,7 +57,7 @@ Schenectady metroplex development authority support fund.
   (c) If the county of Schenectady does not impose the one-half of one
 percent rate of taxes authorized by subdivision (a) of this section
 during the period beginning September first, nineteen hundred
-ninety-eight and ending August thirty-first, two thousand thirty-three,
+ninety-eight and ending August thirty-first, two thousand thirty-eight,
 the county shall dedicate net collections from sales and compensating
 use taxes imposed during such period pursuant to the authority of
 section twelve hundred ten of this article at the rate of one-half of

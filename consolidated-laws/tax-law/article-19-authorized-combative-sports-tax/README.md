@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A19", "path": "ARTICLE 19", "source": "nys-laws:TAX/A19.md", "title": "Boxing and Wrestling Exhibitions Tax"} -->
-# Article 19 — Boxing and Wrestling Exhibitions Tax
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A19", "path": "ARTICLE 19", "source": "nys-laws:TAX/A19.md", "title": "Authorized Combative Sports Tax"} -->
+# Article 19 — Authorized Combative Sports Tax
 
 [Tax Law](../README.md)
 
@@ -17,10 +17,7 @@
 
 ```text
                                ARTICLE 19
-                 * BOXING AND WRESTLING EXHIBITIONS TAX
-  * NB Effective until September 1, 2016
-                    * AUTHORIZED COMBATIVE SPORTS TAX
-  * NB Effective September 1, 2016
+                     AUTHORIZED COMBATIVE SPORTS TAX
 Section 451. Definitions.
         452. Imposition of tax.
         453. Payment of tax.

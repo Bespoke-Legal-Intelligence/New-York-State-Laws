@@ -4,9 +4,9 @@
 [Tax Law](../README.md) › [Article 11 — Tax On Mortgages](README.md)
 
 ```text
-  § 252.  Exemptions.  No mortgage of real property situated within this
-state shall be exempt, and no person or corporation owning any debt or
-obligation secured by mortgage of real property situated within this
+  § 252. Exemptions. (1) No mortgage of real property situated within
+this state shall be exempt, and no person or corporation owning any debt
+or obligation secured by mortgage of real property situated within this
 state shall be exempt, from the taxes imposed by this article by reason
 of anything contained in any other statute, except as provided in
 section three hundred thirty-nine-ee of the real property law, or by
@@ -46,4 +46,23 @@ shall be exempt from the taxes imposed by this article and any person or
 corporation owning any debt or obligation secured by such a mortgage of
 real property situated within this state is and shall be exempt from the
 taxes imposed by this article.
+  (2) Notwithstanding article eighteen-A of the general municipal law
+and titles eleven and fifteen of article eight of the public authorities
+law, no mortgage of real property situated within the state in counties
+located within the metropolitan commuter transportation district, the
+Niagara Frontier transportation district, the Rochester-Genesee
+transportation district, the capital district transportation district,
+and the central New York regional transportation district executed,
+given, made, or transferred or assigned by or to an agency created under
+article eighteen-A of the general municipal law, an authority created
+under title eleven or fifteen of article eight of the public authorities
+law, an agent or agent of such agent of such agency or authority, a
+project operator receiving financial assistance from such agency or
+authority, a project occupant of such agency or authority, or an owner
+of a project receiving financial assistance from such agency or
+authority shall be exempt from the additional tax imposed by paragraph
+(a) of subdivision two of section two hundred fifty-three of this
+article. For the purposes of this subdivision the term "financial
+assistance" shall have the same meaning as defined in section eight
+hundred fifty-four of the general municipal law.
 ```

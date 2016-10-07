@@ -20,7 +20,7 @@
 - [§ 1815 Highway use and fuel use taxes](1815-highway-use-and-fuel-use-taxes.md)
 - [§ 1817 Sales and compensating use taxes](1817-sales-and-compensating-use-taxes.md)
 - [§ 1818 Real estate transfer tax](1818-real-estate-transfer-tax.md)
-- [§ 1820 Boxing and wrestling exhibitions tax](1820-boxing-and-wrestling-exhibitions-tax.md)
+- [§ 1820 Authorized combative sports tax](1820-authorized-combative-sports-tax.md)
 - [§ 1821 Medallion taxicab owners tax in the metropolitan commuter transportation district](1821-medallion-taxicab-owners-tax-in-the-metropolitan-commuter-transportation.md)
 
 <details>

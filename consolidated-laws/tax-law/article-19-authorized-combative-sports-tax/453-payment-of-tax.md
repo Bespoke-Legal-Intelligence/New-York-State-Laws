@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Tax Law § 453", "kind": "section", "law_id": "TAX", "location_id": "453", "path": "ARTICLE 19 › SECTION 453", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/453.md", "title": "Payment of tax"} -->
 # Tax Law § 453 — Payment of tax
 
-[Tax Law](../README.md) › [Article 19 — Boxing and Wrestling Exhibitions Tax](README.md)
+[Tax Law](../README.md) › [Article 19 — Authorized Combative Sports Tax](README.md)
 
 ```text
   § 453. Payment of tax. 1. In the case of gross receipts from

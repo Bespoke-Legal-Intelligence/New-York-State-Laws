@@ -22,9 +22,10 @@
 - [§ 1197-O Conflicts of interest of members of the board of directors and officers and employees of the authority](1197o-conflicts-of-interest-of-members-of-the-board.md)
 - [§ 1197-P Construction and purchase contracts](1197p-construction-and-purchase-contracts.md)
 - [§ 1197-Q Authority; affirmative action](1197q-authority-affirmative-action.md)
-- [§ 1197-R Separability clause](1197r-separability-clause.md)
-- [§ 1197-S Effect of inconsistent provisions](1197s-effect-of-inconsistent-provisions.md)
+- [§ 1197-R Charges by authority; method of collection](1197r-charges-by-authority-method-of-collection.md)
 - [§ 1197-T Acquisition by eminent domain](1197t-acquisition-by-eminent-domain.md)
+- [§ 1197-Y Separability clause](1197y-separability-clause.md)
+- [§ 1197-Z Effect of inconsistent provisions](1197z-effect-of-inconsistent-provisions.md)
 
 <details>
 <summary>Official heading of Title 8-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -51,9 +52,10 @@ Section 1197-a. Title.
                   directors and officers and employees of the authority.
         1197-p. Construction and purchase contracts.
         1197-q. Authority; affirmative action.
-        1197-r. Separability clause.
-        1197-s. Effect of inconsistent provisions.
+        1197-r. Charges by authority; method of collection.
         1197-t. Acquisition by eminent domain.
+        1197-y. Separability clause.
+        1197-z. Effect of inconsistent provisions.
 ```
 
 </details>

@@ -66,16 +66,33 @@ principally improved or to be improved by a one or two family residence
 or dwelling.  All the provisions of this article shall apply with
 respect to the additional tax imposed by this subdivision to the same
 extent as if it were imposed by the said subdivision one of this
-section, except as otherwise expressly provided in this article. The
-imposition of this additional tax on mortgages recorded in a county
-outside the city of New York, other than one of the counties from time
-to time comprising the metropolitan commuter transportation district,
-the Niagara Frontier transportation district, the Rochester-Genesee
-transportation district, the capital district transportation district or
-the central New York regional transportation district may be suspended
-for a specified period of time or without limitation as to time by a
-local law, ordinance or resolution duly adopted by the local legislative
-body of such county.
+section, except as otherwise expressly provided in this article.
+Notwithstanding article eighteen-A of the general municipal law and
+titles eleven and fifteen of article eight of the public authorities
+law, no mortgage of real property situated within the state in counties
+located within the metropolitan commuter transportation district, the
+Niagara Frontier transportation district, the Rochester-Genesee
+transportation district, the capital district transportation district,
+and the central New York regional transportation district executed,
+given, made, or transferred or assigned by or to an agency created under
+article eighteen-A of the general municipal law, an authority created
+under title eleven or fifteen of article eight of the public authorities
+law, an agent or agent of such agent of such agency or authority, a
+project operator receiving financial assistance from such agency or
+authority, a project occupant of such agency or authority, or an owner
+of a project receiving financial assistance from such agency or
+authority shall be exempt from the additional tax imposed by this
+subdivision. For the purposes of this subdivision the term "financial
+assistance" shall have the same meaning as defined in section eight
+hundred fifty-four of the general municipal law. The imposition of this
+additional tax on mortgages recorded in a county outside the city of New
+York, other than one of the counties from time to time comprising the
+metropolitan commuter transportation district, the Niagara Frontier
+transportation district, the Rochester-Genesee transportation district,
+the capital district transportation district or the central New York
+regional transportation district may be suspended for a specified period
+of time or without limitation as to time by a local law, ordinance or
+resolution duly adopted by the local legislative body of such county.
   (b) Any local law, ordinance or resolution suspending the imposition
 of this additional tax as provided in paragraph (a) of this subdivision,
 or amending or repealing such local law, ordinance or resolution, shall

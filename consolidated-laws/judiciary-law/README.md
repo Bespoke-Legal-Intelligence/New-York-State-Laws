@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
-| Sections | 522 |
-| Last changed | 3 Jun 2016 |
+| Sections | 523 |
+| Last changed | 7 Oct 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (54 lines)](chapter-text.md)
+[Full chapter text (55 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [7 Oct 2016](../../changes/2016/2016-10-07.md): 1 added
 - [3 Jun 2016](../../changes/2016/2016-06-03.md): 1 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 1 amended
 - [20 Nov 2015](../../changes/2015/2015-11-20.md): 1 amended
@@ -78,4 +79,5 @@ Assembly, do enact as follows:
 - [Article 21-A — Community Dispute Resolution Centers Program](article-21a-community-dispute-resolution-centers-program/)
 - [Article 21-B — Justice Court Assistance Program](article-21b-justice-court-assistance-program/)
 - [Article 22 — Judicial Hearing Officers](article-22-judicial-hearing-officers/)
+- [Article 22-A — Judicial Wellness or Assistance Committees](article-22a-judicial-wellness-or-assistance-committees/)
 - [Article 23 — Laws Repealed; When to Take Effect](article-23-laws-repealed-when-to-take-effect/)

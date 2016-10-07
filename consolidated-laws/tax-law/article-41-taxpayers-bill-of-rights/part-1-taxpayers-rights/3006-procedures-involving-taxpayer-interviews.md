@@ -42,9 +42,10 @@ officer or employee of the division of taxation at any time during the
 interview (other than an interview initiated by a subpoena to examine
 and inspect witnesses or books, records or other papers) that the
 taxpayer wishes to consult with an attorney, certified public
-accountant, or any other person permitted to represent the taxpayer,
-such officer or employee shall suspend such interview regardless of
-whether the taxpayer may have answered one or more questions.
+accountant, enrolled agent, or any other person permitted to represent
+the taxpayer, such officer or employee shall suspend such interview
+regardless of whether the taxpayer may have answered one or more
+questions.
   (c) Representatives holding power of attorney. Any attorney, certified
 public accountant, an enrolled agent, or any other person permitted to
 represent the taxpayer who is not disbarred or suspended from practice

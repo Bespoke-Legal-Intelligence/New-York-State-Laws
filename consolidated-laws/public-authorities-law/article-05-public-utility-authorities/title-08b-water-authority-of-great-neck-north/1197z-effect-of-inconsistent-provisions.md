@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 1197-S", "kind": "section", "law_id": "PBA", "location_id": "1197-S", "path": "ARTICLE 5 › TITLE 8-B › SECTION 1197-S", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1197-S.md", "title": "Effect of inconsistent provisions"} -->
-# Public Authorities Law § 1197-S — Effect of inconsistent provisions
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1197-Z", "kind": "section", "law_id": "PBA", "location_id": "1197-Z", "path": "ARTICLE 5 › TITLE 8-B › SECTION 1197-Z", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1197-Z.md", "title": "Effect of inconsistent provisions"} -->
+# Public Authorities Law § 1197-Z — Effect of inconsistent provisions
 
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 8-B — Water Authority of Great Neck North](README.md)
 
 ```text
-  § 1197-s. Effect of inconsistent provisions. Insofar as the provisions
+  § 1197-z. Effect of inconsistent provisions. Insofar as the provisions
 of this title are inconsistent with the provisions of any other law,
 general, special or local or of any charter or any local ordinance or
 resolution of any municipality the provisions of this title shall be

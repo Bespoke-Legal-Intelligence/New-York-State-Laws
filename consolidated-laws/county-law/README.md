@@ -8,7 +8,7 @@
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
 | Sections | 444 |
-| Last changed | 27 Nov 2015 |
+| Last changed | 7 Oct 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [7 Oct 2016](../../changes/2016/2016-10-07.md): 1 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 2 amended, 1 added
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 1 amended
 - [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 amended

@@ -1,23 +1,15 @@
 ﻿<!-- nyslaw {"citation": "Tax Law § 451", "kind": "section", "law_id": "TAX", "location_id": "451", "path": "ARTICLE 19 › SECTION 451", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/451.md", "title": "Definitions"} -->
 # Tax Law § 451 — Definitions
 
-[Tax Law](../README.md) › [Article 19 — Boxing and Wrestling Exhibitions Tax](README.md)
+[Tax Law](../README.md) › [Article 19 — Authorized Combative Sports Tax](README.md)
 
 ```text
   § 451. Definitions. For purposes of this article, the term:
-  * 1. "Gross receipts from ticket sales" shall mean the total gross
-receipts of every person from the sale of tickets to any professional or
-amateur boxing, sparring or wrestling match or exhibition held in this
-state, and without any deduction whatsoever for commissions, brokerage,
-distribution fees, advertising or any other expenses, charges and
-recoupments in respect thereto.
-  * NB Effective until September 1, 2016
-  * 1. "Gross receipts from ticket sales" shall mean the total gross
+  1. "Gross receipts from ticket sales" shall mean the total gross
 receipts of every person from the sale of tickets to any authorized
 combative sport held in this state, and without any deduction whatsoever
 for commissions, brokerage, distribution fees, advertising or any other
 expenses, charges and recoupments in respect thereto.
-  * NB Effective September 1, 2016
   2. "Gross receipts from broadcasting rights" shall mean the total
 gross receipts of every person from the sale, lease or other
 exploitation of broadcasting, television and motion picture rights of
@@ -31,8 +23,7 @@ thereto.
 partnership, limited liability company, estate, trust, liquidator,
 fiduciary or other entity or individual liable for the tax imposed by
 this article or under a duty to perform an act under this article.
-  * 4. "Authorized combative sport" shall mean any combative sport
+  4. "Authorized combative sport" shall mean any combative sport
 authorized pursuant to section one thousand one of the general business
 law.
-  * NB Effective September 1, 2016
 ```
