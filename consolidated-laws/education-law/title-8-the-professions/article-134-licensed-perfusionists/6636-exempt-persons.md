@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6636. Exempt persons. This article shall not prohibit:
+  § 6636. Exempt persons. This article shall not prohibit:
   1. The practice of perfusion by any student who is engaged in clinical
 training in a general hospital licensed pursuant to article twenty-eight
 of the public health law or during the transport of patients or organs
@@ -23,5 +23,4 @@ any other state or territory who is serving in the armed forces or the
 public health service of the United States or who is employed by the
 veterans administration, while engaged in the performance of his or her
 duties.
-  * NB Effective October 21, 2016
 ```

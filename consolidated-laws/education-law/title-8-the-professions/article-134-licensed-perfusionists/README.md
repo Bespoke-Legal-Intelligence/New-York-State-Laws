@@ -17,7 +17,7 @@
 <summary>Official heading of Article 134, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 134
+                               ARTICLE 134
                          LICENSED PERFUSIONISTS
 Section 6630. Definitions.
         6631. Practice of perfusion and use of title "licensed
@@ -27,7 +27,6 @@ Section 6630. Definitions.
         6634. State committee for perfusion.
         6635. Limited permits.
         6636. Exempt persons.
-  * NB Effective October 21, 2016
 ```
 
 </details>

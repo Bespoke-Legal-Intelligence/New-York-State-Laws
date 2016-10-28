@@ -4,9 +4,8 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6631. Practice of perfusion and use of title "licensed
+  § 6631. Practice of perfusion and use of title "licensed
 perfusionist". Only a person licensed or exempt under this article shall
 practice perfusion. Only persons licensed as perfusionists may use the
 title "licensed perfusionist".
-  * NB Effective October 21, 2016
 ```

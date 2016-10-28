@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
 
 ```text
-  * § 109. Registration of certain service providers. 1. For purposes of
+  § 109. Registration of certain service providers. 1. For purposes of
 this section:
   (a) "Client" shall mean a person or entity who in the preceding
 calendar year retained or hired the political consultant relating to
@@ -70,5 +70,4 @@ opportunity to cure such a failure.
   7. The department of state shall adopt, amend and rescind rules and
 regulations defining the degree and extent of political consulting
 services necessary to require the reporting pursuant to this section.
-  * NB Effective October 23, 2016
 ```

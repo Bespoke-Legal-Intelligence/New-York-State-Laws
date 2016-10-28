@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 120 Use of dwelling units in a class A multiple dwelling for other than permanent residence purposes](120-use-of-dwelling-units-in-a-class-a-multiple.md)
+- [§ 121 Prohibiting advertising that promotes the use of dwelling units in a class A multiple dwelling for other than permanent residence purposes](121-prohibiting-advertising-that-promotes-the-use.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

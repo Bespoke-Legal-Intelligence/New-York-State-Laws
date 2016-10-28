@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6630. Definitions. As used in this article: 1. The term
+  § 6630. Definitions. As used in this article: 1. The term
 "perfusionist" means a person who is licensed to practice perfusion
 pursuant to this article.
   2. The term "registered program" means a program for the education of
@@ -25,5 +25,4 @@ during the transport of patients or organs supported by extracorporeal
 or intracorporeal equipment.
   4. The term "committee" means the state committee for perfusion
 created by section sixty-six hundred thirty-four of this article.
-  * NB Effective October 21, 2016
 ```

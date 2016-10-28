@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6632. Requirements for licensure as a perfusionist. To qualify for
+  § 6632. Requirements for licensure as a perfusionist. To qualify for
 licensure as a "licensed perfusionist", an applicant shall fulfill the
 following requirements:
   1. Application: file an application with the department;
@@ -26,5 +26,4 @@ age;
 department;
   6. Fee: pay a fee determined by the department for an initial license
 and for each triennial registration period.
-  * NB Effective October 21, 2016
 ```

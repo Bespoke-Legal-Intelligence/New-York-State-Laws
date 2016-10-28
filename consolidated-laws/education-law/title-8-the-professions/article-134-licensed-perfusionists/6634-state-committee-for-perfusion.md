@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6634. State committee for perfusion. 1. A state committee for
+  § 6634. State committee for perfusion. 1. A state committee for
 perfusion shall be appointed by the board of regents upon the
 recommendation of the commissioner as a committee of the board for
 medicine to advise solely in matters relating to perfusion and shall
@@ -14,5 +14,4 @@ be composed of a minimum of the following:
   a. four licensed perfusionists;
   b. two licensed physicians and
   c. two representatives of the public at large.
-  * NB Effective October 21, 2016
 ```

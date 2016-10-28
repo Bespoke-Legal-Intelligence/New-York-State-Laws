@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 134 — Licensed Perfusionists](README.md)
 
 ```text
-  * § 6633. Special provisions. An individual who meets the requirements
+  § 6633. Special provisions. An individual who meets the requirements
 for a license as a licensed perfusionist except for examination,
 experience and education and who meets the requirements enumerated under
 subdivisions one or two of this section may be licensed without meeting
@@ -21,5 +21,4 @@ years of experience having occurred during the past five years;
 organization acceptable to the committee and the department may be
 licensed if they have been employed as a perfusionist for three of the
 past five years.
-  * NB Effective October 21, 2016
 ```
