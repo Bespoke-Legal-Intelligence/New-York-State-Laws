@@ -4,8 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 1 — Words and Phrases Defined](../README.md) › [Article 1 — Words and Phrases Defined](README.md)
 
 ```text
-  * § 159-a. Waste collection vehicle. Any motor vehicle which is
-commonly classified as a garbage truck that is designed for and is used
-in the collection of refuse and/or recyclable materials.
-  * NB Effective November 1, 2016
+  § 159-a. Waste collection vehicle. Any motor vehicle which is commonly
+classified as a garbage truck that is designed for and is used in the
+collection of refuse and/or recyclable materials.
 ```

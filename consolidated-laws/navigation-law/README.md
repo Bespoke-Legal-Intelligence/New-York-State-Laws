@@ -8,7 +8,7 @@
 | Senate code | NAV |
 | Type | Consolidated law, chapter 37 |
 | Sections | 216 |
-| Last changed | 16 Sep 2016 |
+| Last changed | 4 Nov 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Navigation |
 
@@ -33,6 +33,7 @@ Article  1.   Short title and definitions (§§ 1-2).
 
 ## Recent changes
 
+- [4 Nov 2016](../../changes/2016/2016-11-04.md): 1 amended
 - [16 Sep 2016](../../changes/2016/2016-09-16.md): 1 amended
 - [19 Aug 2016](../../changes/2016/2016-08-19.md): 1 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 1 amended
