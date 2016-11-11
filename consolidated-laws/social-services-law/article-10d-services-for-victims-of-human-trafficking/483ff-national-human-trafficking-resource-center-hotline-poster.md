@@ -4,7 +4,7 @@
 [Social Services Law](../README.md) › [Article 10-D — Services For Victims of Human Trafficking](README.md)
 
 ```text
-  * § 483-ff. National human trafficking resource center hotline poster.
+  § 483-ff. National human trafficking resource center hotline poster.
 (a) The commissioner of temporary and disability assistance shall make
 publicly available on its website an electronic version of the National
 Human Trafficking Resources Center (NHTRC) hotline poster, or create and
@@ -38,5 +38,4 @@ and urgent care centers. In consulting with such agencies and
 organizations, the commissioner shall advise that posters should be
 placed in conspicuous locations near primary public entrances or other
 areas where posters and notices are customarily posted on the premises.
-  * NB Effective November 8, 2016
 ```

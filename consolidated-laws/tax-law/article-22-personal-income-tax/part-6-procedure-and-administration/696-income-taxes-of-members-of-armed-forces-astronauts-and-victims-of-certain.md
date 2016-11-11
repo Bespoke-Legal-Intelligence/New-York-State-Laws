@@ -140,4 +140,11 @@ individual.
   (4) Astronaut. For purposes of this subsection, the term "astronaut"
 means any astronaut whose death occurs in the line of duty after
 December thirty-first, two thousand two.
+  (i) Collection period after assessment not extended as a result of
+hospitalization. With respect to any period of continuous
+hospitalization described in subsection (a) and the next one hundred
+eighty days thereafter, subsection (a) shall not apply to the
+collection, by the tax commission, by levy or otherwise of the amount of
+any liability pursuant to section six hundred ninety-two of this
+article.
 ```

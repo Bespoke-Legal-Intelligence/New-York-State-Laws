@@ -44,6 +44,7 @@
 - [§ 1879 Funds](1879-funds.md)
 - [§ 1880 Legislative findings and declaration of intent](1880-legislative-findings-and-declaration-of-intent.md)
 - [§ 1881 High phase order electric transmission research project](1881-high-phase-order-electric-transmission-research.md)
+- [§ 1882 School energy efficiency collaboration program](1882-school-energy-efficiency-collaboration-program.md)
 - [§ 1883 State oversight and funding](1883-state-oversight-and-funding.md)
 
 <details>
@@ -100,6 +101,7 @@ Section 1850.   Short title.
         1879.   Funds.
         1880.   Legislative findings and declaration of intent.
         1881.   High phase order electric transmission research project.
+        1882.   School energy efficiency collaboration program.
         1883.   State oversight and funding.
 ```
 

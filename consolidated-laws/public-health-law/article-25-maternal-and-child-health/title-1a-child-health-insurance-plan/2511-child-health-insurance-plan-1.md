@@ -239,29 +239,22 @@ enrollment period following the date that an approved organization
 determines, on the basis of preliminary information, that a child's net
 household income does not exceed the income level specified in title
 eleven of article five of the social services law for children eligible
-for medical assistance based on such child's age. Provided, however, in
-the case of a newborn child, the eligibility for subsidy payments and
-temporary enrollment shall be the date of the child's birth if the
-applicant for insurance applied prior to the child's birth or within
-sixty days after the child's birth, and an approved organization, or the
-state enrollment center, determines, on the basis of preliminary
-information, that the child's net household income does not exceed the
-income level specified in this title for children eligible for premium
-subsidy under this title. The temporary enrollment period shall continue
-until the earlier of the date an eligibility determination is made
-pursuant to this title or title eleven of article five of the social
-services law, or two months after the date temporary enrollment begins;
-provided however, a temporary enrollment period may be extended in the
-event an eligibility determination under this title or title eleven of
-article five of the social services law is not made within such two
-month period through no fault of the applicant for insurance for medical
-assistance. The commissioner shall assure that children who are enrolled
-pursuant to this paragraph receive the appropriate follow-up for a
-determination of eligibility for benefits under this title or title
-eleven of article five of the social services law prior to the
-termination of the temporary enrollment period. The commissioner shall
-assure that children and their families are informed of all available
-enrollment sites in accordance with subdivision nine of this section.
+for medical assistance based on such child's age. The temporary
+enrollment period shall continue until the earlier of the date an
+eligibility determination is made pursuant to this title or title eleven
+of article five of the social services law, or two months after the date
+temporary enrollment begins; provided however, a temporary enrollment
+period may be extended in the event an eligibility determination under
+this title or title eleven of article five of the social services law is
+not made within such two month period through no fault of the applicant
+for insurance for medical assistance. The commissioner shall assure that
+children who are enrolled pursuant to this paragraph receive the
+appropriate follow-up for a determination of eligibility for benefits
+under this title or title eleven of article five of the social services
+law prior to the termination of the temporary enrollment period. The
+commissioner shall assure that children and their families are informed
+of all available enrollment sites in accordance with subdivision nine of
+this section.
   ** NB Effective until January 1, 2017
   ** (i) Notwithstanding any inconsistent provision of law to the
 contrary and subject to the availability of federal financial

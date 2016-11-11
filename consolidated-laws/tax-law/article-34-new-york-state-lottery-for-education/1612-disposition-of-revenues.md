@@ -203,62 +203,7 @@ the racing, pari-mutuel wagering and breeding law. The additional
 commission set forth in this clause shall be paid to the vendor track
 within sixty days after the conclusion of the state fiscal year based on
 the calculated percentage during the previous fiscal year.
-  * (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
-this subparagraph, the track operator of a vendor track shall be
-eligible for a vendor's capital award of up to four percent of the total
-revenue wagered at the vendor track after payout for prizes pursuant to
-this chapter, which shall be used exclusively for capital project
-investments to improve the facilities of the vendor track which promote
-or encourage increased attendance at the video lottery gaming facility
-including, but not limited to hotels, other lodging facilities,
-entertainment facilities, retail facilities, dining facilities, events
-arenas, parking garages and other improvements that enhance facility
-amenities; provided that such capital investments shall be approved by
-the division, in consultation with the state racing and wagering board,
-and that such vendor track demonstrates that such capital expenditures
-will increase patronage at such vendor track's facilities and increase
-the amount of revenue generated to support state education programs. The
-annual amount of such vendor's capital awards that a vendor track shall
-be eligible to receive shall be limited to two million five hundred
-thousand dollars, except for Aqueduct racetrack, for which there shall
-be no vendor's capital awards. Except for tracks having less than one
-thousand one hundred video gaming machines, and except for a vendor
-track located west of State Route 14 from Sodus Point to the
-Pennsylvania border within New York, each track operator shall be
-required to co-invest an amount of capital expenditure equal to its
-cumulative vendor's capital award. For all tracks, except for Aqueduct
-racetrack, the amount of any vendor's capital award that is not used
-during any one year period may be carried over into subsequent years
-ending before April first, two thousand seventeen. Any amount
-attributable to a capital expenditure approved prior to April first, two
-thousand seventeen and completed before April first, two thousand
-nineteen; or approved prior to April first, two thousand twenty-one and
-completed before April first, two thousand twenty-three for a vendor
-track located west of State Route 14 from Sodus Point to the
-Pennsylvania border within New York, shall be eligible to receive the
-vendor's capital award. In the event that a vendor track's capital
-expenditures, approved by the division prior to April first, two
-thousand seventeen and completed prior to April first, two thousand
-nineteen, exceed the vendor track's cumulative capital award during the
-five year period ending April first, two thousand seventeen, the vendor
-shall continue to receive the capital award after April first, two
-thousand seventeen until such approved capital expenditures are paid to
-the vendor track subject to any required co-investment. In no event
-shall any vendor track that receives a vendor fee pursuant to clause (F)
-or (G) of this subparagraph be eligible for a vendor's capital award
-under this section. Any operator of a vendor track which has received a
-vendor's capital award, choosing to divest the capital improvement
-toward which the award was applied, prior to the full depreciation of
-the capital improvement in accordance with generally accepted accounting
-principles, shall reimburse the state in amounts equal to the total of
-any such awards. Any capital award not approved for a capital
-expenditure at a video lottery gaming facility by April first, two
-thousand seventeen shall be deposited into the state lottery fund for
-education aid; and
-  * NB Effective until the designation of 400 video lottery devices as
-hosted pursuant to paragraph (4) of subdivsion a of section 1617-a of
-the tax law, pending notification from gaming commission
-  * (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
+  (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
 this subparagraph, the track operator of a vendor track and in the case
 of Aqueduct, the video lottery terminal facility operator, shall be
 eligible for a vendor's capital award of up to four percent of the total
@@ -323,9 +268,6 @@ shall reimburse the state in amounts equal to the total of any such
 awards. Any capital award not approved for a capital expenditure at a
 video lottery gaming facility by April first, two thousand seventeen
 shall be deposited into the state lottery fund for education aid; and
-  * NB Effective upon the designation of 400 video lottery devices as
-hosted pursuant to paragraph (4) of subdivsion a of section 1617-a of
-the tax law, pending notification from gaming commission
   (I) Notwithstanding any provision of law to the contrary, free play
 allowance credits authorized by the division pursuant to subdivision f
 of section sixteen hundred seventeen-a of this article shall not be

@@ -435,4 +435,10 @@ correction of deficiencies or closure. The commissioner may also make
 grants to residential health care facilities that support facilities'
 activities and initiatives intended to improve residential quality of
 care pursuant to a request for proposals process.
+  11. The commissioner shall make regulations relating to midwifery
+birth centers, including relating to establishment, construction, and
+operation, considering the standards of state and national professional
+associations of midwifery birth centers, in consultation with
+representatives of midwives, midwifery birth centers, and general
+hospitals providing obstetric services.
 ```

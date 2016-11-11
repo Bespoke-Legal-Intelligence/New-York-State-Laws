@@ -69,6 +69,7 @@
 - [§ 2805-V Observation services](2805v-observation-services.md)
 - [§ 2805-W Patient notice of observation services](2805w-patient-notice-of-observation-services.md)
 - [§ 2805-X Hospital-home care-physician collaboration program](2805x-hospital-home-care-physician-collaboration-program.md)
+- [§ 2805-Y Identification and assessment of human trafficking victims](2805y-identification-and-assessment-of-human-trafficking-victims.md)
 - [§ 2806 Hospital operating certificates; suspension or revocation](2806-hospital-operating-certificates-suspension-or-revocation.md)
 - [§ 2806-A Temporary operator](2806a-temporary-operator.md)
 - [§ 2806-B Residential health care facilities; revocation of operating certificate](2806b-residential-health-care-facilities-revocation-of-operating-certificate.md)
@@ -220,6 +221,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2805-v.   Observation services.
         2805-w.   Patient notice of observation services.
         2805-x.   Hospital-home care-physician collaboration program.
+        2805-y.   Identification and assessment of human trafficking
+                    victims.
         2806.     Hospital operating certificates; suspension or
                     revocation.
         2806-a.   Temporary operator.

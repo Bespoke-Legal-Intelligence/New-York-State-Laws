@@ -7,6 +7,7 @@
 
 - [§ 3651 Reserve fund](3651-reserve-fund.md)
 - [§ 3652 Investment of moneys in reserve funds](3652-investment-of-moneys-in-reserve-funds.md)
+- [§ 3653 Insurance reserve funds](3653-insurance-reserve-funds.md)
 
 <details>
 <summary>Official heading of Article 74, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -14,8 +15,9 @@
 ```text
                                ARTICLE 74
                               RESERVE FUNDS
-Section 3651. Reserve fund.
-        3652. Investment of moneys in reserve funds.
+Section 3651.   Reserve fund.
+        3652.   Investment of moneys in reserve funds.
+        3653.   Insurance reserve funds.
 ```
 
 </details>

@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Elder Law § 216", "kind": "section", "law_id": "ELD", "location_id": "216", "path": "ARTICLE 2 › TITLE 1 › SECTION 216", "repealed": false, "repealed_date": null, "source": "nys-laws:ELD/216.md", "title": "Senior center council"} -->
+# Elder Law § 216 — Senior center council
+
+[Elder Law](../../README.md) › [Article 2 — Programs For the Elderly](../README.md) › [Title 1 — State Office For the Aging](README.md)
+
+```text
+  § 216. Senior center council. 1. Definition. For the purposes of this
+section, the term "council" shall mean the senior center council
+convened by the director pursuant to this section.
+  2. Membership. The senior center council shall consist of ten members
+appointed by the director who shall serve as the chair. These members
+shall have experience with the operation of senior centers and the
+provision of services therein. Members shall also be broadly
+representative of older adult groups and all geographic areas of the
+state. At least two of these members shall be over the age of sixty-two.
+  3. Compensation. Members of the council, other than the director,
+shall receive no compensation for their services, but shall be allowed
+their actual and necessary expenses incurred in the performance of their
+duties pursuant to this section.
+  4. Purpose. The purpose of the council shall be to (a) provide a forum
+for discussion of challenges facing senior centers across the state and
+developing solutions;
+  (b) support sharing of information regarding efficient and effective
+operation of senior centers in different areas around the state;
+  (c) encourage the spread of methods and programs with proven
+effectiveness;
+  (d) create an environment for peer-to-peer support for senior centers
+across the state; and
+  (e) offer recommendations for how the state can support senior centers
+and lower barriers to effective service delivery.
+```

@@ -83,13 +83,7 @@ syringes without a prescription; and (ii) at any location where
 hypodermic needles or syringes are kept for retail sale or furnishing,
 stores such needles and syringes in a manner that makes them available
 only to authorized personnel and not openly available to customers.
-  *(e) The commissioner shall promulgate rules and regulations necessary
-to implement the provisions of this subdivision which shall include a
-requirement that such pharmacies, health care facilities and health care
-practitioners cooperate in a safe disposal of used hypodermic needles or
-syringes.
-  * NB Effective until October 20, 2016
-  * (e) A pharmacy registered under article one hundred thirty-seven of
+  (e) A pharmacy registered under article one hundred thirty-seven of
 the education law may offer counseling and referral services to
 customers purchasing hypodermic syringes for the purpose of: preventing
 injection drug abuse; the provision of drug treatment; preventing and
@@ -98,21 +92,14 @@ immunodeficiency virus; and providing pre-exposure prophylaxis and
 non-occupational post-exposure prophylaxis. The content of such
 counseling and referral shall be at the professional discretion of the
 pharmacist.
-  * NB Effective October 20, 2016
-  * (f) The commissioner may, upon the finding of a violation of this
+  (f) The commissioner shall promulgate rules and regulations necessary
+to implement the provisions of this subdivision which shall include a
+requirement that such pharmacies, health care facilities and health care
+practitioners cooperate in a safe disposal of used hypodermic needles or
+syringes.
+  (g) The commissioner may, upon the finding of a violation of this
 section, suspend for a determinate period of time the sale or furnishing
 of syringes by a specific entity.
-  * NB Effective until October 20, 2016
-  * (f) The commissioner shall promulgate rules and regulations
-necessary to implement the provisions of this subdivision which shall
-include a requirement that such pharmacies, health care facilities and
-health care practitioners cooperate in a safe disposal of used
-hypodermic needles or syringes.
-  * NB Effective October 20, 2016
-  * (g) The commissioner may, upon the finding of a violation of this
-section, suspend for a determinate period of time the sale or furnishing
-of syringes by a specific entity.
-  * NB Effective October 20, 2016
   6. The provisions of this section shall not apply to farmers engaged
 in livestock production or to those persons supplying farmers engaged in
 livestock production, provided that:

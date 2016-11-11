@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 5 — Special Provisions Relating to Liquor](README.md)
 
 ```text
-  * § 61-a. Combined craft manufacturing license. 1. The authority may
+  § 61-a. Combined craft manufacturing license. 1. The authority may
 issue a combined craft manufacturer's license to a person for the
 purposes of articles four, four-a, five and six of this chapter,
 combining the privileges of two or more farm or micro manufacturing
@@ -21,5 +21,4 @@ winery; micro-distillery; micro-rectifier; and farm distillery.
 Provided, however, that the licensed premises for a combined farm
 manufacturer's license that includes a farm winery license must be
 located on a farm.
-  * NB Effective November 6, 2016
 ```

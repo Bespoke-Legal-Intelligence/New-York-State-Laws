@@ -9,28 +9,29 @@ article, shall have the following meanings, unless the context otherwise
 requires:
   1. "Hospital" means a facility or institution engaged principally in
 providing services by or under the supervision of a physician or, in the
-case of a dental clinic or dental dispensary, of a dentist, for the
-prevention, diagnosis or treatment of human disease, pain, injury,
-deformity or physical condition, including, but not limited to, a
-general hospital, public health center, diagnostic center, treatment
-center, dental clinic, dental dispensary, rehabilitation center other
-than a facility used solely for vocational rehabilitation, nursing home,
-tuberculosis hospital, chronic disease hospital, maternity hospital,
-lying-in-asylum, out-patient department, out-patient lodge, dispensary
-and a laboratory or central service facility serving one or more such
-institutions, but the term hospital shall not include an institution,
-sanitarium or other facility engaged principally in providing services
-for the prevention, diagnosis or treatment of mental disability and
-which is subject to the powers of visitation, examination, inspection
-and investigation of the department of mental hygiene except for those
-distinct parts of such a facility which provide hospital service. The
-provisions of this article shall not apply to a facility or institution
-engaged principally in providing services by or under the supervision of
-the bona fide members and adherents of a recognized religious
-organization whose teachings include reliance on spiritual means through
-prayer alone for healing in the practice of the religion of such
-organization and where services are provided in accordance with those
-teachings.
+case of a dental clinic or dental dispensary, of a dentist, or, in the
+case of a midwifery birth center, of a midwife, for the prevention,
+diagnosis or treatment of human disease, pain, injury, deformity or
+physical condition, including, but not limited to, a general hospital,
+public health center, diagnostic center, treatment center, dental
+clinic, dental dispensary, rehabilitation center other than a facility
+used solely for vocational rehabilitation, nursing home, tuberculosis
+hospital, chronic disease hospital, maternity hospital, midwifery birth
+center, lying-in-asylum, out-patient department, out-patient lodge,
+dispensary and a laboratory or central service facility serving one or
+more such institutions, but the term hospital shall not include an
+institution, sanitarium or other facility engaged principally in
+providing services for the prevention, diagnosis or treatment of mental
+disability and which is subject to the powers of visitation,
+examination, inspection and investigation of the department of mental
+hygiene except for those distinct parts of such a facility which provide
+hospital service. The provisions of this article shall not apply to a
+facility or institution engaged principally in providing services by or
+under the supervision of the bona fide members and adherents of a
+recognized religious organization whose teachings include reliance on
+spiritual means through prayer alone for healing in the practice of the
+religion of such organization and where services are provided in
+accordance with those teachings.
   2. "Nursing home" means a facility providing therein nursing care to
 sick, invalid, infirm, disabled or convalescent persons in addition to
 lodging and board or health-related service, or any combination of the
@@ -86,4 +87,7 @@ conditions or deformities. The term general hospital shall not include a
 residential health care facility, public health center, diagnostic
 center, treatment center, out-patient lodge, dispensary and laboratory
 or central service facility serving more than one institution.
+  11. "Midwifery birth center" means a hospital engaged principally in
+providing prenatal and obstetric care, where such services are provided
+principally by midwives.
 ```
