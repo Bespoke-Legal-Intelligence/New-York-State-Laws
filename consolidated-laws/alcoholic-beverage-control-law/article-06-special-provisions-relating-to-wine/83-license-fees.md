@@ -50,4 +50,7 @@ twenty-five dollars.
 hundred twenty-five dollars.
   8. The annual fee for a roadside farm market license shall be one
 hundred dollars.
+  * 9. The annual fee for a license to operate a custom winemakers'
+center shall be three hundred twenty dollars.
+  * NB Effective May 13, 2017
 ```

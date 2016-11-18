@@ -119,4 +119,13 @@ from an adverse determination.
 within the time periods prescribed in this section shall be deemed to be
 an adverse determination subject to appeal pursuant to section forty
 nine hundred four of this title.
+  8. The commissioner, in conjunction with the superintendent of
+financial services, shall develop standards for prior authorization
+requests to be utilized by all health care plans for the purposes of
+submitting a request for a utilization review determination for coverage
+of prescription drug benefits under this article. The department and the
+department of financial services, in development of the standards, shall
+take into consideration existing electronic prior authorization
+standards including National Council for Prescription Drug Programs
+(NCPDP) electronic prior authorization standard transactions.
 ```

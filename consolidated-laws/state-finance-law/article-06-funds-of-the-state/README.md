@@ -22,6 +22,7 @@
 - [§ 78-B New York higher education loan program fixed rate default reserve fund](78b-new-york-higher-education-loan-program-fixed-rate-default-reserve-fund.md)
 - [§ 79 World Trade Center memorial foundation fund](79-world-trade-center-memorial-foundation-fund.md)
 - [§ 80 Real estate finance bureau fund](80-real-estate-finance-bureau-fund.md)
+- [§ 81 Veterans' home assistance fund](81-veterans-home-assistance-fund.md)
 - [§ 83 Conservation fund](83-conservation-fund.md)
 - [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
@@ -257,6 +258,7 @@ Section 70.        Classification of funds.
                      default reserve fund.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
+        81.        Veterans' home assistance fund.
         83.        Conservation fund.
         83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid

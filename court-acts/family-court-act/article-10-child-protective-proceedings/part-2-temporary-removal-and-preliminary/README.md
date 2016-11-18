@@ -12,7 +12,7 @@
 - [§ 1024 Emergency removal without court order](1024-emergency-removal-without-court-order.md)
 - [§ 1026 Action by the appropriate person designated by the court and child protective agency upon emergency removal](1026-action-by-the-appropriate-person-designated-by-the-court.md)
 - [§ 1027 Hearing and preliminary orders after filing of petition](1027-hearing-and-preliminary-orders-after-filing-of-petition.md)
-- [§ 1027-A Placement of siblings](1027a-placement-of-siblings.md)
+- [§ 1027-A Placement of siblings; contact with siblings](1027a-placement-of-siblings-contact-with-siblings.md)
 - [§ 1028 Application to return child temporarily removed](1028-application-to-return-child-temporarily-removed.md)
 - [§ 1028-A Application of a relative to become a foster parent](1028a-application-of-a-relative-to-become-a-foster-parent.md)
 - [§ 1029 Temporary order of protection](1029-temporary-order-of-protection.md)

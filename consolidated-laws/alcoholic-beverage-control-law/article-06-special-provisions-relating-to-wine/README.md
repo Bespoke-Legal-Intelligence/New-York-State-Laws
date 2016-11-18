@@ -13,6 +13,7 @@
 - [§ 76-D Special farm winery license](76d-special-farm-winery-license.md)
 - [§ 76-E Special provisions relating to wineries and farm wineries holding a distiller's license](76e-special-provisions-relating-to-wineries-and-farm-wineries-holding.md)
 - [§ 76-F Roadside farm market license](76f-roadside-farm-market-license.md)
+- [§ 77 Custom winemakers' center](77-custom-winemakers-center.md)
 - [§ 78 Wholesaler's wine license](78-wholesalers-wine-license.md)
 - [§ 79 Seven day license to sell wine at retail for consumption off the premises](79-seven-day-license-to-sell-wine-at-retail-for-consumption-off-the-premises.md)
 - [§ 79-A Authorization to sell wine products by certain licensees for consumption off the premises](79a-authorization-to-sell-wine-products-by-certain-licensees-for-consumption-off.md)
@@ -42,6 +43,7 @@ Section 75.   Kinds of licenses.
         76-e. Special provisions relating to wineries and farm wineries
                 holding a distiller's license.
         76-f. Roadside farm market license.
+        77.   Custom winemakers' center.
         78.   Wholesaler's wine license.
         79.   Seven day license to sell wine at retail for consumption
                 off the premises.

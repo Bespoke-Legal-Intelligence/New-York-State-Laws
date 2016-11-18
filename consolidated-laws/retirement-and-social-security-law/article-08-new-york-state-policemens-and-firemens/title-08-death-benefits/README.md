@@ -16,7 +16,7 @@
 - [§ 361-A\*2 Payment of interest on death benefits and accumulated member contributions](361a-2-payment-of-interest-on-death-benefits.md)
 - [§ 362 Ordinary disability retirement](362-ordinary-disability-retirement.md)
 - [§ 363 Accidental disability retirement](363-accidental-disability-retirement.md)
-- [§ 363-A Firemen and policemen; certain disabilities](363a-firemen-and-policemen-certain-disabilities.md)
+- [§ 363-A Firefighters and police officers; certain disabilities](363a-firefighters-and-police-officers-certain.md)
 - [§ 363-B State police disability retirement allowance](363b-state-police-disability-retirement-allowance.md)
 - [§ 363-BB State police accidental disability retirement allowance](363bb-state-police-accidental-disability.md)
 - [§ 363-C Retirement for disability incurred in performance of duty](363c-retirement-for-disability-incurred.md)
@@ -45,7 +45,7 @@ Section 360.     Ordinary death benefit.
                    member contributions.
         362.     Ordinary disability retirement.
         363.     Accidential disability retirement.
-        363-a.   Firemen and policemen; certain disabilities.
+        363-a.   Firefighters and police officers; certain disabilities.
         363-b.   State police disability retirement allowance.
         363-bb.  State police accidental disability retirement
                    allowance.

@@ -19,6 +19,7 @@
 - [§ 45-B Tax sale in November, nineteen hundred thirty-three, validated](45b-tax-sale-in-november-nineteen-hundred-thirty-three-validated.md)
 - [§ 45-C Tax sales in October of the years nineteen hundred forty, nineteen hundred forty-one, nineteen hundred forty-two and in November nineteen...](45c-tax-sales-in-october-of-the-years-nineteen-hundred-forty-nineteen-hundred.md)
 - [§ 46 The county of Suffolk may purchase property at tax sale](46-the-county-of-suffolk-may-purchase-property-at-tax-sale.md)
+- [§ 46-A Notwithstanding any provision of this act to the contrary, the county may convey property or tax liens to the Suffolk County Landbank Cor...](46a-notwithstanding-any-provision-of-this-act-to-the-contrary-the-county-may.md)
 - [§ 47 When purchasers pay the amounts of their bids; possession of premises purchased](47-when-purchasers-pay-the-amounts-of-their-bids-possession-of-premises.md)
 - [§ 47-A Payment of delinquent taxes in installments](47a-payment-of-delinquent-taxes-in-installments.md)
 - [§ 48 Two or more separate and distinct parcels of real estate may be included in one transfer](48-two-or-more-separate-and-distinct-parcels-of-real-estate-may-be-included.md)

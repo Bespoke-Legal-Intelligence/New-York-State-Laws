@@ -31,6 +31,7 @@
 - [§ 837-P Criminal history records search for certain licenses and registrations in the county of Westchester](837p-criminal-history-records-search-for-certain-licenses-and-registrations.md)
 - [§ 837-Q Payments to Westchester county for policing special parkways](837q-payments-to-westchester-county-for-policing-special-parkways.md)
 - [§ 837-R Office of sex offender management](837r-office-of-sex-offender-management.md)
+- [§ 837-S Search for sex offense conviction records of emergency medical technician and other first responder applicants](837s-search-for-sex-offense-conviction-records-of-emergency-medical-technician.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 839 Municipal police training council](839-municipal-police-training-council.md)
 - [§ 840 Functions, powers and duties of council](840-functions-powers-and-duties-of-council.md)
@@ -88,6 +89,9 @@ Section 835.     Definitions.
         837-q.   Payments to Westchester county for policing special
                    parkways.
         837-r.   Office of sex offender management.
+        837-s.   Search for sex offense conviction records of emergency
+                   medical technician and other first responder
+                   applicants.
         838.     Identification of unknown dead and missing persons.
         839.     Municipal police training council.
         840.     Functions, powers and duties of council.

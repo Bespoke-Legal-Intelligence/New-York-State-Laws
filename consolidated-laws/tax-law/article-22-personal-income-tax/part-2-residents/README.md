@@ -26,6 +26,7 @@
 - [§ 627 Gift for breast cancer research and education](627-gift-for-breast-cancer-research-and-education.md)
 - [§ 627-A Gift for honor and remembrance of veterans](627a-gift-for-honor-and-remembrance-of-veterans.md)
 - [§ 627-B Gift for assisting homeless veterans](627b-gift-for-assisting-homeless-veterans.md)
+- [§ 627-C Gift for New York state veterans' homes](627c-gift-for-new-york-state-veterans-homes.md)
 - [§ 628 Gift for missing and exploited children clearinghouse fund](628-gift-for-missing-and-exploited-children-clearinghouse-fund.md)
 - [§ 629 Gift for Alzheimer's disease support services](629-gift-for-alzheimers-disease-support-services.md)
 - [§ 629-A Gift for eliminating the stigma relating to mental illness](629a-gift-for-eliminating-the-stigma-relating-to-mental-illness.md)
@@ -65,6 +66,7 @@ Section 611.   New York taxable income of a resident individual.
         627.   Gift for breast cancer research and education.
         627-a. Gift for honor and remembrance of veterans.
         627-b. Gift for assisting homeless veterans.
+        627-c. Gift for New York state veterans' homes.
         628.   Gift for missing and exploited children clearinghouse
                  fund.
         629-a. Gift for eliminating the stigma relating to mental

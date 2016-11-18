@@ -9,6 +9,7 @@
 - [§ 58-A Sale of cider by wholesale beer licensees](58a-sale-of-cider-by-wholesale-beer-licensees.md)
 - [§ 58-B Retail sale of cider by wholesale licensees](58b-retail-sale-of-cider-by-wholesale-licensees.md)
 - [§ 58-C Farm cidery license](58c-farm-cidery-license.md)
+- [§ 58-D Custom cidermakers' center](58d-custom-cidermakers-center.md)
 - [§ 59 Authorization for sale of cider by retail licensees](59-authorization-for-sale-of-cider-by-retail-licensees.md)
 - [§ 59-A Cider tasting](59a-cider-tasting.md)
 
@@ -22,6 +23,7 @@ Section 58.   Cider producers' or wholesalers' license.
         58-a. Sale of cider by wholesale beer licensees.
         58-b. Retail sale of cider by wholesale licensees.
         58-c. Farm cidery license.
+        58-d. Custom cidermakers' center.
         59.   Authorization for sale of cider by retail licensees.
         59-a. Cider tasting.
 ```

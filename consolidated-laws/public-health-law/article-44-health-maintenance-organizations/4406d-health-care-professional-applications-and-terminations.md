@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
 
 ```text
-  § 4406-d. Health care professional applications and terminations. 1.
+  § 4406-d. Health care professional applications and terminations. * 1.
 (a) A health care plan shall, upon request, make available and disclose
 to health care professionals written application procedures and minimum
 qualification requirements which a health care professional must meet in
@@ -59,6 +59,63 @@ is provisionally credentialed upon submission of such claim. A health
 care plan shall not deny, after appeal, a claim for services provided by
 a provisionally credentialed health care professional solely on the
 ground that the claim was not timely filed.
+  * NB Effective until April 1, 2017
+  * 1. (a) A health care plan shall, upon request, make available and
+disclose to health care professionals written application procedures and
+minimum qualification requirements which a health care professional must
+meet in order to be considered by the health care plan. The plan shall
+consult with appropriately qualified health care professionals in
+developing its qualification requirements. A health care plan shall
+complete review of the health care professional's application to
+participate in the in-network portion of the health care plan's network
+and shall, within sixty days of receiving a health care professional's
+completed application to participate in the health care plan's network,
+notify the health care professional as to: (i) whether he or she is
+credentialed; or (ii) whether additional time is necessary to make a
+determination because of a failure of a third party to provide necessary
+documentation. In such instances where additional time is necessary
+because of a lack of necessary documentation, a health plan shall make
+every effort to obtain such information as soon as possible and shall
+make a final determination within twenty-one days of receiving the
+necessary documentation.
+  (b) If the completed application of a newly-licensed health care
+professional or a health care professional who has recently relocated to
+this state from another state and has not previously practiced in this
+state, who joins a group practice of health care professionals each of
+whom participates in the in-network portion of a health care plan's
+network, is neither approved nor declined within sixty days of
+submission of a completed application pursuant to paragraph (a) of this
+subdivision, the health care professional shall be deemed "provisionally
+credentialed" and may participate in the in-network portion of the
+health care plan's network; provided, however, that a provisionally
+credentialed physician may not be designated as an enrollee's primary
+care physician until such time as the physician has been fully
+credentialed. The network participation for a provisionally credentialed
+health care professional shall begin on the day following the sixtieth
+day of receipt of the completed application and shall last until the
+final credentialing determination is made by the health care plan. A
+health care professional shall only be eligible for provisional
+credentialing if the group practice of health care professionals
+notifies the health care plan in writing that, should the application
+ultimately be denied, the health care professional or the group
+practice: (i) shall refund any payments made by the health care plan for
+in-network services provided by the provisionally credentialed health
+care professional that exceed any out-of-network benefits payable under
+the enrollee's contract with the health care plan; and (ii) shall not
+pursue reimbursement from the enrollee, except to collect the copayment
+that otherwise would have been payable had the enrollee received
+services from a health care professional participating in the in-network
+portion of a health care plan's network. Interest and penalties pursuant
+to section three thousand two hundred twenty-four-a of the insurance law
+shall not be assessed based on the denial of a claim submitted during
+the period when the health care professional was provisionally
+credentialed; provided, however, that nothing herein shall prevent a
+health care plan from paying a claim from a health care professional who
+is provisionally credentialed upon submission of such claim. A health
+care plan shall not deny, after appeal, a claim for services provided by
+a provisionally credentialed health care professional solely on the
+ground that the claim was not timely filed.
+  * NB Effective April 1, 2017
   2. (a) A health care plan shall not terminate a contract with a health
 care professional unless the health care plan provides to the health
 care professional a written explanation of the reasons for the proposed
