@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 7203", "kind": "section", "law_id": "EDN", "location_id": "7203", "path": "TITLE 8 › ARTICLE 145 › SECTION 7203", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7203.md", "title": "Definition of practice of land surveying"} -->
 # Education Law § 7203 — Definition of practice of land surveying
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
   § 7203. Definition of practice of land surveying.  The practice of the

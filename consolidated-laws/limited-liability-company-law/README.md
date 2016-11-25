@@ -8,7 +8,7 @@
 | Senate code | LLC |
 | Type | Consolidated law, chapter 34 |
 | Sections | 118 |
-| Last changed | 26 Aug 2016 |
+| Last changed | 25 Nov 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Limited Liability Company Law |
 
@@ -31,6 +31,7 @@ Article     I. Short title and definitions. (§§ 101-102)
 
 ## Recent changes
 
+- [25 Nov 2016](../../changes/2016/2016-11-25.md): 5 amended
 - [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 added
 - [4 Dec 2015](../../changes/2015/2015-12-04.md): 1 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 3 amended

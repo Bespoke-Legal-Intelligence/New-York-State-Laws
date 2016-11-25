@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 7211", "kind": "section", "law_id": "EDN", "location_id": "7211", "path": "TITLE 8 › ARTICLE 145 › SECTION 7211", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7211.md", "title": "Mandatory continuing education for professional engineers"} -->
 # Education Law § 7211 — Mandatory continuing education for professional engineers
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
   § 7211. Mandatory continuing education for professional engineers. 1.

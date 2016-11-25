@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 7210", "kind": "section", "law_id": "EDN", "location_id": "7210", "path": "TITLE 8 › ARTICLE 145 › SECTION 7210", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7210.md", "title": "Certificates of authorization"} -->
 # Education Law § 7210 — Certificates of authorization
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
   § 7210. Certificates of authorization.  * 1. Domestic or foreign
@@ -42,14 +42,13 @@ of this article may offer to provide or provide professional
 engineering, land surveying or professional geology services only after
 obtaining a certificate of authorization from the department. Except as
 otherwise authorized by statute, rule or regulation, other business
-entities are not authorized to offer or provide professional
-engineering, land surveying or professional geology services and may not
-obtain certificates of authorization provided that nothing contained
-herein shall prohibit an individual who is licensed to practice
-professional engineering, land surveying or professional geology under
-this article from obtaining a certificate of authorization upon
-application and payment of the appropriate fees provided for under this
-section.
+entities are not authorized to offer or provide professional engineering
+, land surveying or professional geology services and may not obtain
+certificates of authorization provided that nothing contained herein
+shall prohibit an individual who is licensed to practice professional
+engineering, land surveying or professional geology under this article
+from obtaining a certificate of authorization upon application and
+payment of the appropriate fees provided for under this section.
   * NB Effective March 1, 2018
   2. Upon application a certificate of authorization shall be issued by
 the department to all individuals, corporations, limited liability

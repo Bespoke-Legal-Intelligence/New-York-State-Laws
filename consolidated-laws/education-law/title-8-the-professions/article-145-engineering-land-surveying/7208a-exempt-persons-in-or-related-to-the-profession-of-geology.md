@@ -1,10 +1,10 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 7208-A", "kind": "section", "law_id": "EDN", "location_id": "7208-A", "path": "TITLE 8 › ARTICLE 145 › SECTION 7208-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7208-A.md", "title": "Exempt persons in or related to the profession of geology"} -->
 # Education Law § 7208-A — Exempt persons in or related to the profession of geology
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
-  * § 7208-a. Exempt persons in or related to the profession of geology.
+  § 7208-a. Exempt persons in or related to the profession of geology.
 Nothing in this article shall be construed to affect or prevent:
   1. The employment and supervision of interns and other persons
 qualified by education or experience by professional geologists as
@@ -51,5 +51,4 @@ conclusions and recommendations.
   8. Work customarily performed by water well drillers who have received
 a certificate of registration pursuant to section 15-1525 of the
 environmental conservation law.
-  * NB Effective November 21, 2016
 ```

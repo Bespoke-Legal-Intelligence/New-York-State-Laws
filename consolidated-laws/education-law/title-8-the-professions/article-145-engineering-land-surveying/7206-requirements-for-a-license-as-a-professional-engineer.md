@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Education Law § 7206", "kind": "section", "law_id": "EDN", "location_id": "7206", "path": "TITLE 8 › ARTICLE 145 › SECTION 7206", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7206.md", "title": "Requirements for a license as a professional engineer"} -->
 # Education Law § 7206 — Requirements for a license as a professional engineer
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
   § 7206. Requirements for a license as a professional engineer.  1. To

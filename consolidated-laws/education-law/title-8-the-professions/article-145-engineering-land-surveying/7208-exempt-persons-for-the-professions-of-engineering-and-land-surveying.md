@@ -1,19 +1,15 @@
-﻿<!-- nyslaw {"citation": "Education Law § 7208", "kind": "section", "law_id": "EDN", "location_id": "7208", "path": "TITLE 8 › ARTICLE 145 › SECTION 7208", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7208.md", "title": "Exempt persons"} -->
-# Education Law § 7208 — Exempt persons
+﻿<!-- nyslaw {"citation": "Education Law § 7208", "kind": "section", "law_id": "EDN", "location_id": "7208", "path": "TITLE 8 › ARTICLE 145 › SECTION 7208", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/7208.md", "title": "Exempt persons for the professions of engineering and land surveying"} -->
+# Education Law § 7208 — Exempt persons for the professions of engineering and land surveying
 
-[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering and Land Surveying](README.md)
+[Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
-  § 7208. * Exempt persons.
-  * NB Effective until November 21, 2016
-  * Exempt persons for the professions of engineering and land
-surveying.
-  * NB Effective November 21, 2016
-This article shall not be construed to affect or prevent the following,
-provided that no title, sign, card or device shall be used in such
-manner as to tend to convey the impression that the person rendering
-such service is a professional engineer or a land surveyor licensed in
-this state or is practicing engineering or land surveying:
+  § 7208. Exempt persons for the professions of engineering and land
+surveying. This article shall not be construed to affect or prevent the
+following, provided that no title, sign, card or device shall be used in
+such manner as to tend to convey the impression that the person
+rendering such service is a professional engineer or a land surveyor
+licensed in this state or is practicing engineering or land surveying:
   a. Offering to practice in this state as a professional engineer or
 land surveyor by any person not a resident of, and having no established
 place of practice in this state, provided that such person is legally

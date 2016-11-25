@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 7-A — Solicitation and Collection of Funds For Charitable Purposes](README.md)
 
 ```text
-  * § 172-e. Disclosure of certain donations by charitable non-profit
+  § 172-e. Disclosure of certain donations by charitable non-profit
 entities. 1. Definitions. For the purposes of this section:
   (a) "Covered entity" shall mean any corporation or entity that is
 qualified as an exempt organization or entity by the United States
@@ -60,5 +60,4 @@ and not affiliated with or employed by the department of law, pursuant
 to regulations promulgated by the department of law. The covered
 entity's sources of donations that are the subject of such appeal shall
 not be made public pending final judgment on appeal.
-  * NB Effective November 22, 2016
 ```

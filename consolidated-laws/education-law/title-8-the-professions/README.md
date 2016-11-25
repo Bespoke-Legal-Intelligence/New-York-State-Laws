@@ -23,7 +23,7 @@
 - [Article 141 — Podiatry](article-141-podiatry/)
 - [Article 143 — Optometry](article-143-optometry/)
 - [Article 144 — Ophthalmic Dispensing](article-144-ophthalmic-dispensing/)
-- [Article 145 — Engineering and Land Surveying](article-145-engineering-and-land-surveying/)
+- [Article 145 — Engineering, Land Surveying and Geology](article-145-engineering-land-surveying/)
 - [Article 147 — Architecture](article-147-architecture/)
 - [Article 148 — Landscape Architecture](article-148-landscape-architecture/)
 - [Article 149 — Public Accountancy](article-149-public-accountancy/)
