@@ -21,6 +21,7 @@
 - [§ 404-B Distinctive plates for volunteer firefighters](404b-distinctive-plates-for-volunteer-firefighters.md)
 - [§ 404-BB Distinctive Cystic Fibrosis Foundation license plates](404bb-distinctive-cystic-fibrosis-foundation-license.md)
 - [§ 404-C Distinctive plates for former prisoners of war](404c-distinctive-plates-for-former-prisoners-of-war.md)
+- [§ 404-CC Distinctive "Cure Childhood Cancer" plates](404cc-distinctive-cure-childhood-cancer-plates.md)
 - [§ 404-D Distinctive plates for members of the organized militia and reserve](404d-distinctive-plates-for-members-of-the-organized.md)
 - [§ 404-E Distinctive plates for purple heart recipients](404e-distinctive-plates-for-purple-heart-recipients.md)
 - [§ 404-F Distinctive plates for members of volunteer ambulance services](404f-distinctive-plates-for-members-of-volunteer-ambulance.md)
@@ -85,6 +86,7 @@ Section 401.     Registration of motor vehicles; fees; renewals.
         404-b.   Distinctive plates for volunteer firefighters.
         404-bb.  Distinctive Cystic Fibrosis Foundation license plates.
         404-c.   Distinctive plates for former prisoners of war.
+        404-cc.  Distinctive "Cure Childhood Cancer" plates.
         404-d.   Distinctive plates for members of the organized militia
                    and reserve.
         404-e.   Distinctive plates for purple heart recipients.

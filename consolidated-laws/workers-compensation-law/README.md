@@ -8,7 +8,7 @@
 | Senate code | WKC |
 | Type | Consolidated law, chapter 67 |
 | Sections | 313 |
-| Last changed | 16 Sep 2016 |
+| Last changed | 2 Dec 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Workers' Compensation |
 
@@ -33,6 +33,7 @@ hundred and thirteen, entitled "An act in relation to assuring
 
 ## Recent changes
 
+- [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended
 - [16 Sep 2016](../../changes/2016/2016-09-16.md): 2 amended
 - [17 Jun 2016](../../changes/2016/2016-06-17.md): 1 amended
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 2 amended

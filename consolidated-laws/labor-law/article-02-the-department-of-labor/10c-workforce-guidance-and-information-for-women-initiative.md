@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 10-C", "kind": "section", "law_id": "LAB", "location_id": "10-C", "path": "ARTICLE 2 › SECTION 10-C", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/10-C.md", "title": "Workforce guidance and information for women initiative"} -->
+# Labor Law § 10-C — Workforce guidance and information for women initiative
+
+[Labor Law](../README.md) › [Article 2 — The Department of Labor](README.md)
+
+```text
+  § 10-c. Workforce guidance and information for women initiative. 1.
+The department shall provide guidance to local workforce investment
+boards and staff, to enable them to better educate and inform both women
+and men about higher paying jobs and careers including jobs
+traditionally dominated by men. Such guidance shall promote program
+services for job seekers that provide:
+  (a) current information about compensation for jobs and careers that
+offer high earning potential including jobs that are traditionally
+dominated by men;
+  (b) counseling, skills development and training that encourage both
+women and men to seek employment in such jobs;
+  (c) referrals to employers offering such jobs; and
+  (d) current local labor market information regarding the gender wage
+gap and specific self-sufficiency rates for families living and working
+in that local labor market.
+  2. The commissioner shall prepare and submit to the governor, the
+temporary president of the senate, and the speaker of the assembly an
+annual evaluation report of the initiative no later than January first,
+two thousand eighteen, and every year thereafter. The report shall
+include:
+  (a) how many women were referred to counseling or skills development
+and training for jobs and careers that offer high earning potential,
+including jobs traditionally dominated by men;
+  (b) how many women were referred to such jobs;
+  (c) the ratio of women to men in such jobs and any change in that
+ratio from the previous year; and
+  (d) any other information the commissioner deems relevant.
+```

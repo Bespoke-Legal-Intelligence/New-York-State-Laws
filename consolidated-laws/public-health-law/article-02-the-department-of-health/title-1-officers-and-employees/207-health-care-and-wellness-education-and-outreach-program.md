@@ -93,7 +93,7 @@ but not be limited to guidelines and methods of prevention, including
 the safe use of recommended insect repellents, the best practices for
 tick removal, recommendations for the reduction of exposure to ticks and
 appropriate course of action once a tick is removed from the body.
-  * NB There are 2 par (m)'s
+  * NB There are 3 par (m)'s
   * (m) The department shall conduct such a program relating to breast
 density, which shall include, but not be limited to, educational
 information regarding the meaning and potential health consequences of
@@ -101,7 +101,17 @@ having dense breast tissue, the impact of dense breast tissue on
 mammographic screening for breast cancer and supplemental breast cancer
 screening techniques, and provide access to other educational websites
 regarding dense breast tissue and literature regarding risk factors.
-  * NB There are 2 par (m)'s
+  * NB There are 3 par (m)'s
+  * (m) Lupus, a debilitating autoimmune disease that can cause
+inflammation and tissue damage to virtually any organ system in the
+body, including the skin, joints, other connective tissue, blood and
+blood vessels, heart, lung, kidney and brain, and which affects women,
+particularly women of color, in a disproportionate manner; provided that
+the program shall include an advisory council under this section that
+shall include representatives of people with lupus and their families
+and health care providers who specialize in treating lupus, among
+others.
+  * NB There are 3 par (m)'s
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,
@@ -137,7 +147,9 @@ section, the commissioner may accept grants from public or private
 sources for these programs. The commissioner, in administering this
 section, shall seek to coordinate the department's programs with other
 public and private programs, and may undertake joint or cooperative
-programs with other public or private entities.
+programs with other public or private entities, including making grants
+(within amounts appropriated therefor and consistent with applicable
+law) to public or not-for-profit entities.
   8. The commissioner may make rules and regulations necessary and
 appropriate for implementation of this section.
 ```

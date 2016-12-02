@@ -232,6 +232,7 @@
 - [§ 99-Y SUNY Stony Brook Affiliation escrow fund](99y-suny-stony-brook-affiliation-escrow-fund.md)
 - [§ 99-Y\*2 Health republic insurance of New York fund](99y-2-health-republic-insurance-of-new-york-fund.md)
 - [§ 99-Y\*3 Highway use tax administration account](99y-3-highway-use-tax-administration-account.md)
+- [§ 99-Z Cure childhood cancer research fund](99z-cure-childhood-cancer-research-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -514,6 +515,7 @@ Section 70.        Classification of funds.
         99-y.      SUNY Stony Brook Affiliation escrow fund.
         99-y*2.    Health republic insurance of New York fund.
         99-y*3.    Highway use tax administration account.
+        99-z.      Cure childhood cancer research fund.
 ```
 
 </details>

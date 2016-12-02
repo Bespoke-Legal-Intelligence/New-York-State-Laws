@@ -8,7 +8,7 @@
 - [§ 10 Department of labor; commissioner of labor](10-department-of-labor-commissioner-of-labor.md)
 - [§ 10-A Domestic violence policy](10a-domestic-violence-policy.md)
 - [§ 10-B Domestic violence employee awareness and assistance](10b-domestic-violence-employee-awareness-and-assistance.md)
-- [§ 10-C Workforce guidance and information for women policy](10c-workforce-guidance-and-information-for-women-policy.md)
+- [§ 10-C Workforce guidance and information for women initiative](10c-workforce-guidance-and-information-for-women-initiative.md)
 - [§ 11 Deputy commissioner](11-deputy-commissioner.md)
 - [§ 12 Transmission of labor market information](12-transmission-of-labor-market-information.md)
 - [§ 12-C Passenger tramway advisory council](12c-passenger-tramway-advisory-council.md)
@@ -61,7 +61,7 @@
 Section 10.   Department of labor; commissioner of labor.
         10-a. Domestic violence policy.
         10-b. Domestic violence employee awareness and assistance.
-        10-c. Workforce guidance and information for women policy.
+        10-c. Workforce guidance and information for women initiative.
         11.   Deputy commissioner.
         12.   Transmission of labor market information.
         12-c. Passenger tramway advisory council.

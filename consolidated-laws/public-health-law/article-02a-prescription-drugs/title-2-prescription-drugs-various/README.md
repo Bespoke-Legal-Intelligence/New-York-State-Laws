@@ -8,6 +8,7 @@
 - [§ 278 Prescription drug retail price lists](278-prescription-drug-retail-price-lists.md)
 - [§ 279 Prescriber education](279-prescriber-education.md)
 - [§ 280-A Pharmacy benefit managers](280a-pharmacy-benefit-managers.md)
+- [§ 280-B Unused prescription drug donation and redispensing program](280b-unused-prescription-drug-donation-and-redispensing-program.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +19,8 @@
 Section 278.   Prescription drug retail price lists.
         279.   Prescriber education.
         280-a. Pharmacy benefit managers.
+        280-b. Unused prescription drug donation and redispensing
+                 program.
 ```
 
 </details>

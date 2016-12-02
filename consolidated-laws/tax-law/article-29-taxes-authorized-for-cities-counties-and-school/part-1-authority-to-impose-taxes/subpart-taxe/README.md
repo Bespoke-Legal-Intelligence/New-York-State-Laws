@@ -18,6 +18,8 @@
 - [§ 1202-B Hotel or motel taxes in Broome county](1202b-hotel-or-motel-taxes-in-broome-county.md)
 - [§ 1202-C Hotel or motel taxes in Jefferson county](1202c-hotel-or-motel-taxes-in-jefferson.md)
 - [§ 1202-D Hotel or motel taxes in Oneida county](1202d-hotel-or-motel-taxes-in-oneida-county.md)
+- [§ 1202-DD Hotel or motel taxes in the city of Hudson](1202dd-hotel-or-motel-taxes-in-the-city.md)
+- [§ 1202-DD\*2 Hotel or motel taxes in Fulton county](1202dd-2-hotel-or-motel-taxes-in-fulton.md)
 - [§ 1202-E Hotel or motel taxes in Schenectady county](1202e-hotel-or-motel-taxes-in-schenectady.md)
 - [§ 1202-F Hotel or motel taxes in Tompkins county](1202f-hotel-or-motel-taxes-in-tompkins-county.md)
 - [§ 1202-G Hotel or motel taxes in Cortland county](1202g-hotel-or-motel-taxes-in-cortland-county.md)

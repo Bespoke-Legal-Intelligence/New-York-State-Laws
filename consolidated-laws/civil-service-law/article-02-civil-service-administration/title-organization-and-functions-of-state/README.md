@@ -12,6 +12,7 @@
 - [§ 8 Offices of department; rooms and accommodations](08-offices-of-department-rooms-and-accommodations.md)
 - [§ 9 Attendance of witnesses; fees](09-attendance-of-witnesses-fees.md)
 - [§ 11 Assessment of certain expenses of administration of the department of civil service](11-assessment-of-certain-expenses-of-administration.md)
+- [§ 12 Recruitment of women to state civil service initiative 1](12-recruitment-of-women-to-state-civil-service-initiative.md)
 
 <details>
 <summary>Official heading of Title A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,8 +29,9 @@ Section  5.   Department of civil service; state civil service
                 workforce.
          8.   Offices of department; rooms and accommodations.
          9.   Attendance of witnesses; fees.
-        11.   Assessment of certain expenses of administration of the
+         11.  Assessment of certain expenses of administration of the
                 department of civil service.
+         12.  Recruitment of women to state civil service initiative
 ```
 
 </details>

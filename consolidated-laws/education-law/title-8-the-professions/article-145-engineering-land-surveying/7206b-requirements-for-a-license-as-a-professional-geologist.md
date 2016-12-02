@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
-  * § 7206-b. Requirements for a license as a professional geologist. 1.
+  § 7206-b. Requirements for a license as a professional geologist. 1.
 To qualify for a license as a professional geologist, an applicant shall
 fulfill the following requirements:
   (a) Application: file an application with the department;
@@ -45,5 +45,4 @@ professional geologist without a written examination if the applicant
 has satisfied the requirements of education and experience described in
 paragraphs (b) and (c) of subdivision one or subdivision two of this
 section no later than one year after the effective date of this section.
-  * NB Effective November 21, 2016
 ```

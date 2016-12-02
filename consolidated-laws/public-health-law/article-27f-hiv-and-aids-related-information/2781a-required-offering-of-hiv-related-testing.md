@@ -5,21 +5,22 @@
 
 ```text
   § 2781-a. Required offering of HIV related testing. 1. Every
-individual between the ages of thirteen and sixty-four years (or younger
-or older if there is evidence or indication of risk activity) who
-receives health services as an inpatient or in the emergency department
-of a general hospital defined in subdivision ten of section twenty-eight
-hundred one of this chapter or who receives primary care services in an
-outpatient department of such hospital or in a diagnostic and treatment
-center licensed under article twenty-eight of this chapter or from a
-physician, physician assistant, nurse practitioner, or midwife providing
-primary care shall be offered an HIV related test unless the health care
-practitioner providing such services reasonably believes that (a) the
-individual is being treated for a life threatening emergency; or (b) the
-individual has previously been offered or has been the subject of an HIV
-related test (except that a test shall be offered if otherwise
-indicated); or (c) the individual lacks capacity to consent to an HIV
-related test.
+individual age thirteen and older (or younger than thirteen if there is
+evidence or indication of risk activity) who receives health services as
+an inpatient or in the emergency department of a general hospital
+defined in subdivision ten of section twenty-eight hundred one of this
+chapter or who receives primary care services in an outpatient
+department of such hospital or in a diagnostic and treatment center
+licensed under article twenty-eight of this chapter or from a physician,
+physician assistant, nurse practitioner, or midwife providing primary
+care shall in accordance with subdivision one of section two thousand
+seven hundred eighty-one of this article be offered an HIV related test
+unless the health care practitioner providing such services reasonably
+believes that (a) the individual is being treated for a life threatening
+emergency; or (b) the individual has previously been offered or has been
+the subject of an HIV related test (except that a test shall be offered
+if otherwise indicated); or (c) the individual lacks capacity to consent
+to an HIV related test.
   2. As used in this section, "primary care" means the medical fields of
 family medicine, general pediatrics, primary care, internal medicine,
 primary care obstetrics, or primary care gynecology, without regard to

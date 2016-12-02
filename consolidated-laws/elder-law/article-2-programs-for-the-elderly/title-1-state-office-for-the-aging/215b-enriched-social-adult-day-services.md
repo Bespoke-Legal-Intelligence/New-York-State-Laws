@@ -1,0 +1,92 @@
+﻿<!-- nyslaw {"citation": "Elder Law § 215-B", "kind": "section", "law_id": "ELD", "location_id": "215-B", "path": "ARTICLE 2 › TITLE 1 › SECTION 215-B", "repealed": false, "repealed_date": null, "source": "nys-laws:ELD/215-B.md", "title": "Enriched social adult day services"} -->
+# Elder Law § 215-B — Enriched social adult day services
+
+[Elder Law](../../README.md) › [Article 2 — Programs For the Elderly](../README.md) › [Title 1 — State Office For the Aging](README.md)
+
+```text
+  * § 215-b. Enriched social adult day services. 1. Legislative intent.
+Social adult day services programs are resources that can help
+communities maintain the independence of functionally impaired adults.
+The level of services needed by some functionally impaired adults
+exceeds the level of assistance currently available through social model
+adult day services programs but is not at the level of support provided
+in an adult day health care program. Social adult day services programs
+cannot enroll new participants whose needs exceed the services that can
+be provided in the current social adult day services programs.
+Additionally, these programs must discharge current participants when
+their needs cannot be met. Therefore, an enriched social adult day
+services project shall be established as a demonstration project for the
+purposes of maintaining functionally impaired adults in the community by
+deterring or delaying institutionalization.
+  2. Definitions. For purposes of this section, the following terms
+shall have the following meanings:
+  (a) "Eligible participant" shall mean individuals who are functionally
+impaired, as defined in section two hundred fifteen of this title, and
+in need of services that exceed the level of assistance currently
+available through social adult day services programs but not at the
+level of support provided by adult day health care programs.
+  (b) "Eligible entity" shall mean any not-for-profit or government
+entity, including the governing body or council of an Indian tribal
+reservation, who currently provides all of the services required for
+social adult day services programs pursuant to section two hundred
+fifteen of this title; including total assistance with toileting,
+mobility, transferring, and eating where appropriate; and has an
+existing contract with the state office for the aging.
+  (c) "Enriched services" shall include the dispensing of medications by
+a registered nurse; health education; counseling; case management;
+restorative therapies lasting less than six months and maintenance
+therapies. Restorative and maintenance therapies shall be provided by an
+appropriately licensed health care provider.
+  (d) "Optional services" shall mean other non-medical services approved
+by the director designed to improve the quality of life of eligible
+participants by extending their independence, avoiding unnecessary
+hospital and nursing home stays, and sustaining their informal supports.
+  3. Duties of the director. (a) The director, in conjunction with the
+commissioner of health, shall develop an application process whereby
+eligible entities may apply for approval to offer enriched services,
+optional services, or both. Such application shall include, but not be
+limited to:
+  (1) an estimate of the number of eligible participants to whom the
+eligible entity could effectively provide the services for which they
+are applying to offer pursuant to this section; and
+  (2) a plan under which the eligible entity would safely offer the
+services for which they are applying pursuant to this section, either
+directly or through a contract with a licensed health care practitioner
+or licensed home care provider as defined in section thirty-six hundred
+five of the public health law.
+  (b) In considering applications made pursuant to paragraph (a) of this
+subdivision, the director, in conjunction with the commissioner of
+health, may consider:
+  (1) eligible entities that can effectively serve eligible participants
+residing in rural, urban, or suburban settings;
+  (2) eligible entities that effectively serve culturally diverse
+populations;
+  (3) eligible entities that demonstrate innovative use of technology,
+coordination, partnerships, transportation or other services to enable
+eligible participants to be effectively served; and
+  (4) any other criteria determined to be appropriate.
+  4. Evaluation. On or before January thirtieth, two thousand seventeen,
+the director shall provide the governor, the speaker of the assembly,
+the temporary president of the senate, and the chairpersons of the
+assembly and senate aging and health committees with a written
+evaluation of the program. The evaluation shall examine the
+effectiveness of the project in forestalling institutional placement,
+the costs of providing enriched services in a day care setting,
+participant satisfaction and program quality, and identification of the
+program design elements necessary for successful replication.
+  5. Grants. (a) The director may, within amounts appropriated therefor,
+make grants, available on a competitive basis, to eligible entities
+under this section. Such grants shall be for one hundred percent of the
+allowable expenditures for approved services and expenses under this
+section.
+  (b) In making grants, the director, in conjunction with the
+commissioner of health, may consider the criteria established under
+subdivision three of this section.
+  (c) Funds made available under this subdivision shall supplement and
+not supplant any federal, state, or local funds expended by any entity,
+including a unit of general purpose local government or not-for-profit,
+to provide services under this section. Funds under this subdivision
+cannot pay for individuals who are eligible under title nineteen of the
+federal social security act.
+  * NB Repealed March 31, 2017
+```

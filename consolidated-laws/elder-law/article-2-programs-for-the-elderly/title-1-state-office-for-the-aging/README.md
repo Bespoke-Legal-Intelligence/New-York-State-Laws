@@ -21,7 +21,7 @@
 - [§ 214 Community services for the elderly](214-community-services-for-the-elderly.md)
 - [§ 215 Social model adult day services programs](215-social-model-adult-day-services-programs.md)
 - [§ 215-A Senior vision services program](215a-senior-vision-services-program.md)
-- [§ 215-B Enriched social adult day services demonstration project](215b-enriched-social-adult-day-services-demonstration-project.md)
+- [§ 215-B Enriched social adult day services](215b-enriched-social-adult-day-services.md)
 - [§ 216 Senior center council](216-senior-center-council.md)
 - [§ 217 Congregate services initiative for the elderly](217-congregate-services-initiative-for-the-elderly.md)
 - [§ 217-A Long term care insurance education and outreach program](217a-long-term-care-insurance-education-and-outreach-program.md)
@@ -55,7 +55,7 @@ Section 201.   Office for the aging; director.
         214.   Community services for the elderly.
         215.   Social model adult day services programs.
         215-a. Senior vision services program.
-        215-b. Enriched social adult day services demonstration project.
+        215-b. Enriched social adult day services.
         216.   Senior center council.
         217.   Congregate services initiative for the elderly.
         217-a. Long term care insurance education and outreach program.

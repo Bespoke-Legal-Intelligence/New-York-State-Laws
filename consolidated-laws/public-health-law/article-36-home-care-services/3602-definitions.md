@@ -139,4 +139,13 @@ license.
   * NB Expires March 31, 2017
   16. "Public health council" and "state hospital review and planning
 council" shall mean the public health and health planning council.
+  * 17. "Advanced home health aides" means home health aides who are
+authorized to perform advanced tasks as delineated in subdivision two of
+section sixty-nine hundred eight of the education law and regulations
+issued by the commissioner of education relating thereto. The
+commissioner shall promulgate regulations regarding such aides, which
+shall include a process for the limitation or revocation of the advanced
+home health aide's authorization to perform advanced tasks in
+appropriate cases.
+  * NB Repealed May 31, 2023
 ```

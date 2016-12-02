@@ -13,7 +13,6 @@
 - [§ 141 Orders, notices and service](141-orders-notices-and-service.md)
 - [§ 142 Rate bureau regulation](142-rate-bureau-regulation.md)
 - [§ 143 Vehicle identification](143-vehicle-identification.md)
-- [§ 144 Fees and charges](144-fees-and-charges.md) *(repealed)*
 - [§ 145 Penalties and forfeitures for violations](145-penalties-and-forfeitures-for-violations.md)
 - [§ 146 Adequacy of service](146-adequacy-of-service.md)
 - [§ 147 Dogs accompanying persons with a disability](147-dogs-accompanying-persons-with-a-disability.md)

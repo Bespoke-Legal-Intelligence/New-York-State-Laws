@@ -35,6 +35,8 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-b.    Hotel or motel taxes in Broome county.
         1202-c.    Hotel or motel taxes in Jefferson county.
         1202-d.    Hotel or motel taxes in Oneida county.
+        1202-dd.   Hotel or motel taxes in the city of Hudson.
+        1202-dd*2. Hotel or motel taxes in Fulton county.
         1202-e.    Hotel or motel taxes in Schenectady county.
         1202-f.    Hotel or motel taxes in Tompkins county.
         1202-g.    Hotel or motel taxes in Cortland county.

@@ -6,9 +6,19 @@
 ```text
   § 3613. Home care services workers. 1. As used in this section, the
 following terms shall have the following meanings:
-  (a) "Home care services entity" means a home care services agency or
+  * (a) "Home care services entity" means a home care services agency or
+other entity providing home care services subject to this article or
+exempt under section thirty-six hundred nineteen of this article, a
+hospice program certified pursuant to article forty of this chapter
+providing routine care at home under the hospice benefit, or an enhanced
+assisted living residence licensed under article seven of the social
+services law and certified under article forty-six-B of this chapter
+providing enhanced assisted living services.
+  * NB Effective until May 21, 2023
+  * (a) "Home care services entity" means a home care services agency or
 other entity providing home care services subject to this article or
 exempt under section thirty-six hundred nineteen of this article.
+  * NB Effective May 31, 2023
   (b) "Home care services worker" or "worker" means any person engaged
 in or applying to become engaged in providing home health aide services,
 as defined in subdivision four of section three thousand six hundred two
@@ -122,6 +132,19 @@ persons already engaged as home care services workers. Persons employed
 as home care services workers on the effective date of this section
 shall be registered as soon as practicable, but not later than twelve
 months after such effective date.
-  9. The commissioner shall make rules and regulations reasonably
+  * 9. The department shall indicate within the home care services
+worker registry when a home health aide has satisfied all applicable
+training and recertification requirements and has passed the applicable
+competency examinations necessary to perform advanced tasks pursuant to
+subdivision two of section sixty-nine hundred eight of the education law
+and regulations issued thereto. Any limitation or revocation of the
+advanced home health aide's authorization also shall be indicated on the
+registry.
+  * NB Effective until May 31, 2023
+  * 9. The commissioner shall make rules and regulations reasonably
 necessary to implement the provisions of this section.
+  * NB Effective May 31, 2023
+  * 10. The commissioner shall make rules and regulations reasonably
+necessary to implement the provisions of this section.
+  * NB Effective until May 31, 2023
 ```

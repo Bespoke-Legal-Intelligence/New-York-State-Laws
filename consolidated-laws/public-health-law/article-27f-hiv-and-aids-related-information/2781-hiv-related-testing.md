@@ -8,24 +8,13 @@
 thousand one hundred twenty-one of the civil practice law and rules, or
 unless otherwise specifically authorized or required by a state or
 federal law, no person shall order the performance of an HIV related
-test without first having received informed consent of the subject of
-the test who has capacity to consent or, when the subject lacks capacity
-to consent, of a person authorized pursuant to law to consent to health
-care for such individual. In order for there to be informed consent, the
-person ordering the test shall, prior to obtaining informed consent, at
-a minimum advise the protected individual that an HIV-related test is
-being performed.
-  2. Informed consent for HIV related testing pursuant to this section
-shall be valid for such testing until such consent is revoked. Each time
-that an HIV related test is ordered pursuant to informed consent in
-accordance with this section, the physician or other person authorized
-pursuant to law to order the performance of the HIV related test, or
-such person's representative, shall orally notify the subject of the
-test or, when the subject lacks capacity to consent, a person authorized
-pursuant to law to consent to health care for such individual, that an
-HIV related test will be conducted at such time, and shall note the
-notification in the patient's record.
-  3. A person ordering the performance of an HIV related test shall
+test without first, at a minimum, orally advising the protected
+individual, or, when the protected individual lacks capacity to consent,
+a person authorized to consent to health care for such individual, that
+an HIV-related test is being performed, or over the objection of such
+individual or authorized persons. Such advisement and objection, when
+applicable shall be noted in the individual's record.
+  2. A person ordering the performance of an HIV related test shall
 provide either directly or through a representative to the subject of an
 HIV related test or, if the subject lacks capacity to consent, to a
 person authorized pursuant to law to consent to health care for the
@@ -43,9 +32,9 @@ testing center;
   (e) the law protects the confidentiality of HIV related test results;
   (f) the law prohibits discrimination based on an individual's HIV
 status and services are available to help with such consequences; and
-  (g) the law allows an individual's informed consent for HIV related
-testing to be valid for such testing until such consent is revoked by
-the subject of the HIV related test.
+  (g) the law requires that an individual be advised before an
+HIV-related test is performed, and that no test shall be performed over
+his or her objection.
   Protocols shall be in place to ensure compliance with this section.
   4. A person authorized pursuant to law to order the performance of an
 HIV related test shall provide directly or through a representative to

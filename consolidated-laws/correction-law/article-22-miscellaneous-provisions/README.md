@@ -30,6 +30,7 @@
 - [§ 621 Interstate cooperation with law enforcement officers and agencies of other states and the federal government](621-interstate-cooperation-with-law-enforcement-officers-and-agencies-of-other.md)
 - [§ 622 Sex offender treatment program](622-sex-offender-treatment-program.md)
 - [§ 623 Inmate telephone services](623-inmate-telephone-services.md)
+- [§ 624 Next of kin; death of inmate](624-next-of-kin-death-of-inmate.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

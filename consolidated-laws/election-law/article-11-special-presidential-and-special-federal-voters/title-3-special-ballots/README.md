@@ -8,6 +8,7 @@
 - [§ 11-300 Special ballots on account of religious scruples](11-300-special-ballots-on-account-of-religious-scruples.md)
 - [§ 11-302 Special ballots for board of election employees](11-302-special-ballots-for-board-of-election-employees.md)
 - [§ 11-306 Special ballots; victims of domestic violence](11-306-special-ballots-victims-of-domestic-violence.md)
+- [§ 11-308 Special ballots for emergency responders](11-308-special-ballots-for-emergency-responders.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +19,7 @@
 Section 11-300. Special ballots on account of religious scruples.
         11-302. Special ballots for board of election employees.
         11-306. Special ballots; victims of domestic violence.
+        11-308. Special ballots for emergency responders.
 ```
 
 </details>

@@ -435,10 +435,32 @@ correction of deficiencies or closure. The commissioner may also make
 grants to residential health care facilities that support facilities'
 activities and initiatives intended to improve residential quality of
 care pursuant to a request for proposals process.
-  11. The commissioner shall make regulations relating to midwifery
+  * 11. The commissioner shall make regulations relating to midwifery
 birth centers, including relating to establishment, construction, and
 operation, considering the standards of state and national professional
 associations of midwifery birth centers, in consultation with
 representatives of midwives, midwifery birth centers, and general
 hospitals providing obstetric services.
+  * NB There are 2 sb 11's
+  * 11. Notwithstanding any provision of this article, or any rule or
+regulation under this article to the contrary, the commissioner shall
+allow outpatient clinics of general hospitals and diagnostic and
+treatment centers to provide off-site primary care services that are:
+  (a) primary care services ordinarily provided to patients on-site at
+the outpatient clinic or diagnostic and treatment center and are not
+home care services defined in subdivision one of section thirty-six
+hundred two of this chapter or the professional services enumerated in
+subdivision two of such section;
+  (b) provided by a primary care professional to a patient with a
+pre-existing clinical relationship with the outpatient clinic or
+diagnosis and treatment center, or with the health care professional
+providing the service; and
+  (c) provided to a patient who is unable to leave his or her residence
+to receive services at the outpatient clinic or diagnostic and treatment
+center without unreasonable difficulty due to circumstances, including
+but not limited to, clinical impairment.
+  Nothing in this subdivision shall preclude a federally qualified
+health center from providing off-site services in accordance with
+department regulations.
+  * NB There are 2 sb 11's
 ```

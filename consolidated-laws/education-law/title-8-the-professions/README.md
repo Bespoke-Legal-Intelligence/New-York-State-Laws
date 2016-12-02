@@ -42,6 +42,7 @@
 - [Article 165 — Clinical Laboratory Technology Practice Act](article-165-clinical-laboratory-technology/)
 - [Article 166 — Medical Physics Practice](article-166-medical-physics-practice/)
 - [Article 167 — Applied Behavior Analysis](article-167-applied-behavior-analysis/)
+- [Article 168 — Licensed Pathologists' Assistants](article-168-licensed-pathologists-assistants/)
 
 <details>
 <summary>Official heading of Title 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

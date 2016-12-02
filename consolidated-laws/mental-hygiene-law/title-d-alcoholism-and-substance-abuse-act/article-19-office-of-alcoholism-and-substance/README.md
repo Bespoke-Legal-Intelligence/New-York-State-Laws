@@ -28,6 +28,7 @@
 - [§ 19.27 Methamphetamine awareness and education program](19.27-methamphetamine-awareness-and-education.md)
 - [§ 19.28 Receipt and disbursement of federal funds](19.28-receipt-and-disbursement-of-federal-funds.md)
 - [§ 19.29 Gifts](19.29-gifts.md)
+- [§ 19.31 Medication assisted treatment training requirement](19.31-medication-assisted-treatment-training.md)
 - [§ 19.35 Actions against persons rendering professional services at the request of the office; defense and indemnification](19.35-actions-against-persons-rendering.md)
 - [§ 19.40 Provision of chemical dependence services](19.40-provision-of-chemical-dependence-services.md)
 - [§ 19.41 Facilities; receivership](19.41-facilities-receivership.md)
@@ -80,6 +81,7 @@ Section 19.01   Declaration of policy.
         19.27   Methamphetamine awareness and education program.
         19.28   Receipt and disbursement of federal funds.
         19.29   Gifts.
+        19.31   Medication assisted treatment training requirement.
         19.35   Actions against persons rendering professional services
                   at the request of the office; defense and
                   indemnification.
