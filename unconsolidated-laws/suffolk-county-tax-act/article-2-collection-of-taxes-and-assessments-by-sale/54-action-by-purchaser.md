@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 54. Action by purchaser. The holder including the county of Suffolk,
+  § 54. Action by purchaser. The holder including the county of Suffolk,
 of any certificate of sale, heretofore or hereafter executed by the
 county treasurer, instead of taking a conveyance of the property
 purchased, or the holder of any tax deed executed by the county

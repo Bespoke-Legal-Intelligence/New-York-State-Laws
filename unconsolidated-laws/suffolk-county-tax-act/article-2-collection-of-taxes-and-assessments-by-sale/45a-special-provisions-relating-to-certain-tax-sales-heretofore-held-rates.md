@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 45-a. Special provisions relating to certain tax sales heretofore
+  § 45-a. Special provisions relating to certain tax sales heretofore
 held; rates of redemption. 1. All sales of real estate for unpaid taxes
 in the county of Suffolk in the years nineteen hundred thirty, nineteen
 hundred thirty-one and nineteen hundred thirty-two for unpaid taxes of

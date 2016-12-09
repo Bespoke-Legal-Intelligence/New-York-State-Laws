@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 48. Two or more separate and distinct parcels of real estate may be
+  § 48. Two or more separate and distinct parcels of real estate may be
 included in one transfer. The county treasurer may include in one
 certificate of sale, to a purchaser at the tax sale, two or more lots or
 separate and distinct parcels of real estate sold to the same purchaser,

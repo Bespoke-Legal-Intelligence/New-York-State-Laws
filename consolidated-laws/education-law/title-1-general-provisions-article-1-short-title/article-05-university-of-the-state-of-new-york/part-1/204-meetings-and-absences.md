@@ -4,17 +4,7 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 204. Meetings and absences. The regents may provide for regular
-meetings, and the chancellor, or the commissioner of education, or any
-five regents, may at any time call a special meeting of the board of
-regents and fix the time and place therefor; and at least ten days'
-notice of every meeting shall be mailed to the usual address of each
-regent. If any regent shall fail to attend three consecutive meetings,
-without excuse accepted as satisfactory by the regents, he may be deemed
-to have resigned and the regents shall then report the vacancy to the
-legislature, which shall fill it.
-  * NB Effective until December 8, 2016
-  * § 204. Meetings and absences. 1. (a) The regents may provide for
+  § 204. Meetings and absences. 1. (a) The regents may provide for
 regular meetings of the board of regents and any committee,
 subcommittee, task force, or other subgroups thereof. Notice of time and
 place for all regular public meetings of the board of regents and any
@@ -69,5 +59,4 @@ of ten years.
 without excuse accepted as satisfactory by the regents, that regent may
 be deemed to have resigned and the regents shall then report the vacancy
 to the legislature which shall fill it.
-  * NB Effective December 8, 2016
 ```

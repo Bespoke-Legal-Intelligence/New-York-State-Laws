@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 75. Payment of taxes by purchaser; penalties thereon. The owner or
+  § 75. Payment of taxes by purchaser; penalties thereon. The owner or
 holder of a certificate of sale of lots or parcels of real estate
 purchased at the tax sale, provided for herein, may at any time after
 annual return of taxes and assessments to the county treasurer by the

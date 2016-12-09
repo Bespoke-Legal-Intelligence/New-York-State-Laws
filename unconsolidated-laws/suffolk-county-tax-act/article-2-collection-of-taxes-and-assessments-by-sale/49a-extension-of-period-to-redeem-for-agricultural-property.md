@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 49-a. Extension of period to redeem for agricultural property. 1.
+  § 49-a. Extension of period to redeem for agricultural property. 1.
 Definitions. As used in this section:
   (a) "Agricultural property" means not less than five acres of land
 used in the previous two years for the production for sale of crops,

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 46. The county of Suffolk may purchase property at tax sale. The
+  § 46. The county of Suffolk may purchase property at tax sale. The
 county of Suffolk is empowered to purchase lots or parcels of land at
 such tax sale, and is further empowered to accept deeds and to foreclose
 the certificates of sale and perform all other acts to perfect the title

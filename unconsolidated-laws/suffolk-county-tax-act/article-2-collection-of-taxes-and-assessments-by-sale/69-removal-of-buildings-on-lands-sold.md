@@ -4,10 +4,10 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 69. Removal of buildings on lands sold. Any person who under such deed
-may enter into possession of such real estate and erect or place any
-building, building materials, or other property thereon, shall have the
-right in case he shall be ousted by any person claiming adversely to
+  § 69. Removal of buildings on lands sold. Any person who under such
+deed may enter into possession of such real estate and erect or place
+any building, building materials, or other property thereon, shall have
+the right in case he shall be ousted by any person claiming adversely to
 said deed, within three months after trial, judgment or ouster or
 rejectment, to remove said building, building materials or property from
 said real estate.

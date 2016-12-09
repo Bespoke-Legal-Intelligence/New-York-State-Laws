@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 72. The validity of taxes and sales of real estate not affected.
+  § 72. The validity of taxes and sales of real estate not affected.
 Nothing contained in this act shall be held or construed in any way as
 affecting the validity of the lien of any tax heretofore levied, or of
 any sale of lands, for the nonpayment of such taxes heretofore held.

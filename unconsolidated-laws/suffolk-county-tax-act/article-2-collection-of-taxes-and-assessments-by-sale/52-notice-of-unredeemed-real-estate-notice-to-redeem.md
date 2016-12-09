@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 52. Notice of unredeemed real estate; notice to redeem. 1. Notice of
+  § 52. Notice of unredeemed real estate; notice to redeem. 1. Notice of
 unredeemed real estate shall be given and published by the county
 treasurer at least three months before the expiration of the twelve
 months allowed for the redemption of unimproved or non-residential real

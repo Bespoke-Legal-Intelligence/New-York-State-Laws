@@ -4,8 +4,8 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 47-a. Payment of delinquent taxes in installments. 1. Definitions. As
-used in this section:
+  § 47-a. Payment of delinquent taxes in installments. 1. Definitions.
+As used in this section:
   (a) "Eligible delinquent taxes" means the combined amount of unpaid
 taxes, special ad valorem levies, special assessments, and any penalties
 and interest which have accrued and which the county has bid for
@@ -39,7 +39,7 @@ installments, as provided in this section, only where:
 levied subsequent to the eligible delinquent taxes are paid prior to
 approval of such agreement; or
   (b) Such eligible owner is not the owner of another parcel or parcels
-within  the county against which a tax lien had been sold for unpaid
+within the county against which a tax lien had been sold for unpaid
 taxes within three years of the date of the creation of the lien
 applicable to eligible delinquent taxes.
   4. Agreement to pay eligible delinquent taxes in installments. The

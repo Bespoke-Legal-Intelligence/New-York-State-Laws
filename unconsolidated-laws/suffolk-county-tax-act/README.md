@@ -8,7 +8,7 @@
 | Senate code | SCT |
 | Type | Unconsolidated law |
 | Sections | 90 |
-| Last changed | 18 Nov 2016 |
+| Last changed | 9 Dec 2016 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Suffolk County Tax Act |
 
@@ -16,6 +16,7 @@
 
 ## Recent changes
 
+- [9 Dec 2016](../../changes/2016/2016-12-09.md): 48 amended
 - [18 Nov 2016](../../changes/2016/2016-11-18.md): 1 added
 
 ## Contents

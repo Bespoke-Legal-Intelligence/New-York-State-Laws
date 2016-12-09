@@ -1064,5 +1064,5 @@ any instance in which a registered professional nurse engages in
 improper behavior while supervising an advanced home health aide
 pursuant to subdivision two of section sixty-nine hundred eight of the
 education law.
-  * NB Repealed May 31, 2023
+  * NB Repealed March 31, 2023
 ```

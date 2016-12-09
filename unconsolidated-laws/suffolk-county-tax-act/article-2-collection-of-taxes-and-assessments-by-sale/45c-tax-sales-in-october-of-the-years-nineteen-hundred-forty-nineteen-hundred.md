@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 45-c. Tax sales in October of the years nineteen hundred forty,
+  § 45-c. Tax sales in October of the years nineteen hundred forty,
 nineteen hundred forty-one, nineteen hundred forty-two and in November
 nineteen hundred forty-three, nineteen hundred forty-four, nineteen
 hundred forty-five, nineteen hundred forty-six, nineteen hundred

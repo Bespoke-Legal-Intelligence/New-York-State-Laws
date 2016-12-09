@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 53. Conveyance of property not redeemed. If such real estate, or any
+  § 53. Conveyance of property not redeemed. If such real estate, or any
 part thereof, be not redeemed as herein provided the county treasurer
 shall execute to the purchaser, including the county, its or his heirs,
 successors, or assigns, upon the performance by such purchaser of the

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 61. Costs and allowances. The court may in its discretion designate
+  § 61. Costs and allowances. The court may in its discretion designate
 the sheriff of Suffolk county as the officer to make the sale of real
 property in any action or proceeding brought as herein provided, and the
 sheriff shall serve without charge. Unless the judgment otherwise

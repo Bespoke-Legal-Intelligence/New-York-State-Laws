@@ -46,14 +46,14 @@ health care program certified under article thirty-six of this chapter;
 any hospice program certified pursuant to article forty of this chapter;
 or any adult home, enriched housing program or residence for adults
 licensed under article seven of the social services law.
-  * NB Effective April 1, 2018 until May 31, 2023
+  * NB Effective April 1, 2018 until March 31, 2023
   * 6. "Provider" shall mean any residential health care facility
 licensed under article twenty-eight of this chapter; or any certified
 home health agency, licensed home care services agency or long term home
 health care program certified under article thirty-six of this chapter;
 or any adult home, enriched housing program or residence for adults
 licensed under article seven of the social services law.
-  * NB Effective May 31, 2023
+  * NB Effective March 31, 2023
   7. "Temporary employee" shall mean any employee who has been
 temporarily approved for employment pending a determination by the
 department.

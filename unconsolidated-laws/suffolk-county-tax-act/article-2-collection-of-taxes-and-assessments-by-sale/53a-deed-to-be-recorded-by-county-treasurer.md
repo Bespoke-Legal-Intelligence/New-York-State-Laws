@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 53-a. Deed to be recorded by county treasurer. That any grantee or
+  § 53-a. Deed to be recorded by county treasurer. That any grantee or
 purchaser entitled to a deed from the county treasurer as herein set
 forth, shall, in addition to the payments herein before required to pay
 to the county treasurer an amount sufficient to record such deed in the

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 70. County treasurer to furnish supervisors with list of arrears.
+  § 70. County treasurer to furnish supervisors with list of arrears.
 Following each tax sale the county treasurer shall make and shall file
 with each town supervisor, on or before the first day of September of
 each year, a list of all property sold for unpaid taxes and assessments

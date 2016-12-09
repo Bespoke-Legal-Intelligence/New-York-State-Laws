@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-  § 40.  Collection of taxes and assessments shall be enforced by sale.
+  § 40. Collection of taxes and assessments shall be enforced by sale.
 The collection of every assessment and every tax upon real estate
 returned by the receivers of taxes as unpaid, with the interest and
 additions, shall be enforced by a sale of the real estate by the county

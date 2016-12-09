@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 66. Cancellation of void tax. When it shall be discovered that the
+  § 66. Cancellation of void tax. When it shall be discovered that the
 proceedings in levying any tax, or in making any assessment, have been
 so irregular as to render them illegal and void, the board of
 supervisors may annul them, or may annul all of them, subsequent to and

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 77. Tax agent. A mortgagee of lands situated in the county, who
+  § 77. Tax agent. A mortgagee of lands situated in the county, who
 resides out of it, may appoint an elector of the county as his tax
 agent. Upon the presentation of such appointment to the county
 treasurer, he shall file the same, and register the names and addresses

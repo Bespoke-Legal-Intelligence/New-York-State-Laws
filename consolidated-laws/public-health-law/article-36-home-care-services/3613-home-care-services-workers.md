@@ -14,11 +14,11 @@ providing routine care at home under the hospice benefit, or an enhanced
 assisted living residence licensed under article seven of the social
 services law and certified under article forty-six-B of this chapter
 providing enhanced assisted living services.
-  * NB Effective until May 21, 2023
+  * NB Effective until March 31, 2023
   * (a) "Home care services entity" means a home care services agency or
 other entity providing home care services subject to this article or
 exempt under section thirty-six hundred nineteen of this article.
-  * NB Effective May 31, 2023
+  * NB Effective March 31, 2023
   (b) "Home care services worker" or "worker" means any person engaged
 in or applying to become engaged in providing home health aide services,
 as defined in subdivision four of section three thousand six hundred two
@@ -140,11 +140,11 @@ subdivision two of section sixty-nine hundred eight of the education law
 and regulations issued thereto. Any limitation or revocation of the
 advanced home health aide's authorization also shall be indicated on the
 registry.
-  * NB Effective until May 31, 2023
+  * NB Effective until March 31, 2023
   * 9. The commissioner shall make rules and regulations reasonably
 necessary to implement the provisions of this section.
-  * NB Effective May 31, 2023
+  * NB Effective March 31, 2023
   * 10. The commissioner shall make rules and regulations reasonably
 necessary to implement the provisions of this section.
-  * NB Effective until May 31, 2023
+  * NB Effective until March 31, 2023
 ```

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 51. Rights of purchasers. The amount paid by a purchaser at such tax
+  § 51. Rights of purchasers. The amount paid by a purchaser at such tax
 sale, together with the progressive interest or penalties thereon, at
 the rate of his bid together with the costs and expenses as herein
 provided, shall be due and payable to such purchaser twelve months from

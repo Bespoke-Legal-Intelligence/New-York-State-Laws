@@ -108,7 +108,7 @@ twenty-seven hundred eighty-five of this chapter.
 the confidential HIV information of a deceased person as needed to
 fulfill his or her responsibilities/duties as an executor or
 administrator.
-  (r) qualified researchers for medical research purposes upon the
+  * (r) qualified researchers for medical research purposes upon the
 approval of a research protocol by a human research review committee
 established and approved under the provisions of article twenty-four-A
 of this chapter or by an institutional review board established and
@@ -116,6 +116,7 @@ approved under the provisions of 45 CFR part 46 or 42 USC 300 V-1, for
 the purpose of reviewing and monitoring research involving human
 subjects, provided that in no event shall any qualified researcher
 disclose information tending to identify the subjects of the research.
+  * NB Effective March 28, 2017
   2. A state, county or local health officer may disclose confidential
 HIV related information when:
   (a) disclosure is specifically authorized or required by federal or

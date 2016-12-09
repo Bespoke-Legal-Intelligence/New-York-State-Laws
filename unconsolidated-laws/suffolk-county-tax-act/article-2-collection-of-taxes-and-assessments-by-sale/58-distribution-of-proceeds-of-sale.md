@@ -4,10 +4,10 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 58. Distribution of proceeds of sale. The plaintiff and the defendants
-in said action, including the county of Suffolk, who are the holders of
-certificates of sale, shall be paid from the proceeds of sale the
-several amounts paid for real estate purchased as mentioned and
+  § 58. Distribution of proceeds of sale. The plaintiff and the
+defendants in said action, including the county of Suffolk, who are the
+holders of certificates of sale, shall be paid from the proceeds of sale
+the several amounts paid for real estate purchased as mentioned and
 described in the certificates of sale held by them, with all interest,
 penalties, additions, costs and expenses allowed by law, so far as the
 said proceeds shall suffice to pay the same, in the order of the lawful

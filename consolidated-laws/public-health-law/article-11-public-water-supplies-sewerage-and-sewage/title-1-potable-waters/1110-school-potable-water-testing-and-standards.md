@@ -4,16 +4,16 @@
 [Public Health Law](../../README.md) › [Article 11 — Public Water Supplies; Sewerage and Sewage Control](../README.md) › [Title 1 — Potable Waters](README.md)
 
 ```text
-  * § 1110. School potable water testing and standards. 1. In addition
-to school districts already classified as a public water system under
-parts 141 and 142 of title 40 of the code of federal regulations, as
-such regulations may, from time to time, be amended, every school
-district and board of cooperative educational services shall conduct
-periodic first-drawn tap testing of potable water systems to monitor for
-lead contamination in each occupied school building under its
-jurisdiction as required by regulations promulgated pursuant to this
-section. The testing shall be conducted and the results analyzed by an
-entity or entities approved by the commissioner.
+  § 1110. School potable water testing and standards. 1. In addition to
+school districts already classified as a public water system under parts
+141 and 142 of title 40 of the code of federal regulations, as such
+regulations may, from time to time, be amended, every school district
+and board of cooperative educational services shall conduct periodic
+first-drawn tap testing of potable water systems to monitor for lead
+contamination in each occupied school building under its jurisdiction as
+required by regulations promulgated pursuant to this section. The
+testing shall be conducted and the results analyzed by an entity or
+entities approved by the commissioner.
   2. Where a finding of lead contamination is made, the affected school
 district shall: (a) continue first-drawn tap water testing pursuant to
 regulations promulgated pursuant to this section; (b) provide school
@@ -56,5 +56,4 @@ according to the provisions of this section. Such report shall be sent
 to the commissioner, the governor, the temporary president of the
 senate, and the speaker of the assembly and shall be made available on
 the department's and state education department's websites.
-  * NB Effective December 5, 2016
 ```

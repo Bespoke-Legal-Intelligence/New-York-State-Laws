@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 76. When lands imperfectly described. When any lands are imperfectly
+  § 76. When lands imperfectly described. When any lands are imperfectly
 described in any tax or assessment roll, the board of supervisors may
 direct the board of assessors of the town in which such property is
 located to correct the description. The board of assessors of the

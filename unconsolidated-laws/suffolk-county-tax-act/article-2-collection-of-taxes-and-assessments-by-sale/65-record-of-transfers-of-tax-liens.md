@@ -4,8 +4,8 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 65. Record of transfers of tax liens. The county treasurer shall enter
-and record in his office his proceedings upon such sales, and all
+  § 65. Record of transfers of tax liens. The county treasurer shall
+enter and record in his office his proceedings upon such sales, and all
 certificates granted by him, and all assignments of certificates, and
 releases of lots authorized by section fifty hereof, and all redemptions
 and all proceedings whereby sales are defeated or discharged. He shall

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 57. Court shall determine and enforce all rights of parties to said
+  § 57. Court shall determine and enforce all rights of parties to said
 action. The court shall have full power to determine and enforce in all
 respects the rights, claims and demands of the several parties to said
 action, including the rights, claims and demands of the defendants as

@@ -4,10 +4,10 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 64. Reimbursement for invalid or irregular tax lien or certificate of
-sale. When any purchaser under such sale or his heirs or assigns, shall
-be unable to recover or retain possession of any real estate sold to
-him, by reason of any irregularity or error in the assessment of any
+  § 64. Reimbursement for invalid or irregular tax lien or certificate
+of sale. When any purchaser under such sale or his heirs or assigns,
+shall be unable to recover or retain possession of any real estate sold
+to him, by reason of any irregularity or error in the assessment of any
 person or property, or the levying of any tax thereon, or in any
 proceedings for the collection of any tax the county treasurer, with the
 approval of the county auditor shall reimburse the purchaser for money

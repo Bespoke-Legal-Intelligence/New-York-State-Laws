@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 55. When foreclosure action may be commenced. Except as herein
+  § 55. When foreclosure action may be commenced. Except as herein
 otherwise provided, the action provided for in the last section may be
 commenced at any time after twelve months in respect to unimproved or
 non-residential real estate, or thirty-six months in respect to

@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 60. Conveyance vests absolute fee in purchaser. The conveyance made
+  § 60. Conveyance vests absolute fee in purchaser. The conveyance made
 pusuant to a judgment in any action brought as herein provided, shall
 vest in the purchaser all right, title, interest, claim, lien and equity
 of redemption in and against the premises sold, of all the parties to

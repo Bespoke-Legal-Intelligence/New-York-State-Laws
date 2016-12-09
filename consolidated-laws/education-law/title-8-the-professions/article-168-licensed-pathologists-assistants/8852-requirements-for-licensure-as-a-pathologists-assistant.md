@@ -21,5 +21,5 @@ age;
 department; and
   6. Fee: pay a fee determined by the department for an initial license
 and for each triennial registration period.
-  * NB Effective November 28, 2017
+  * NB Effective November 28, 2018
 ```

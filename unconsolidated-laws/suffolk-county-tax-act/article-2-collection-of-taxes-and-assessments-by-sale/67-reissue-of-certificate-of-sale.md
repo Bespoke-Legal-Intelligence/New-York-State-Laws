@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 67. Reissue of certificate of sale. If a certificate of sale shall
+  § 67. Reissue of certificate of sale. If a certificate of sale shall
 have been lost or destroyed, the county treasurer shall, upon submission
 to him of satisfactory evidence of such loss or destruction, issue a
 duplicate of the original certificate. The evidence of loss or

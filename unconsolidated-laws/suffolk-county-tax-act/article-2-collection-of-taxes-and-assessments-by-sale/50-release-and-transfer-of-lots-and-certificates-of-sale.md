@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 50. Release and transfer of lots and certificates of sale. The
+  § 50. Release and transfer of lots and certificates of sale. The
 purchaser or the owner for the time being of tax certificates of sale of
 such several parcels or lots shall duly execute and acknowledge, in the
 manner now required in the case of a deed, releases of each and every

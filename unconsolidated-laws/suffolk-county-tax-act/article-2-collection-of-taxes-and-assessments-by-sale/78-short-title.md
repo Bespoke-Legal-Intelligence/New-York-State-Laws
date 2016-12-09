@@ -4,6 +4,6 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 78. Short title. This act shall be known and may be cited as "The
+  § 78. Short title. This act shall be known and may be cited as "The
 Suffolk county tax act."
 ```

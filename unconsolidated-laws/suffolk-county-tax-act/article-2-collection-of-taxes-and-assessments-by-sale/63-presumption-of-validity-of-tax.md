@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 63. Presumption of validity of tax. It shall be presumed that every
+  § 63. Presumption of validity of tax. It shall be presumed that every
 tax levied and assessment made is valid and regular, and that all the
 steps and proceedings required by law were taken and had, until the
 contrary shall be made to appear. Any action or proceedings commenced by

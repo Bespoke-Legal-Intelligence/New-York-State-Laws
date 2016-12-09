@@ -4,7 +4,7 @@
 [Suffolk County Tax Act](../README.md) › [Article 2 — Collection of Taxes and Assessments By Sale](README.md)
 
 ```text
-§ 71. Bill of taxes to show arrears. There shall be a ruled column for
+  § 71. Bill of taxes to show arrears. There shall be a ruled column for
 arrears in every tax bill rendered for taxes for lots on which said
 arrears or assessments may be due, or may have been sold and are still
 redeemable, in which shall be written opposite the entry of the
