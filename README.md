@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 9 Dec 2016.*
+*Current through the publication of 16 Dec 2016.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Dec 2016](changes/2016/2016-12-16.md): Retirement and Social Security Law
 - [9 Dec 2016](changes/2016/2016-12-09.md): Criminal Procedure Law; Education Law; Environmental Conservation Law; Public Health Law; Suffolk County Tax Act
 - [2 Dec 2016](changes/2016/2016-12-02.md): Arts and Cultural Affairs Law; Banking Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Criminal Procedure Law; Economic Development Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; General Business Law; Highway Law; Judiciary Law; Labor Law; Local Finance Law; Mental Hygiene Law; Not-for-Profit Corporation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Lands Law; Public Officers Law; Railroad Law; Real Property Tax Law; State Administrative Procedure Act; State Finance Law; Tax Law; Transportation Law; Uniform Justice Court Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [25 Nov 2016](changes/2016/2016-11-25.md): Business Corporation Law; Education Law; Executive Law; Limited Liability Company Law; Partnership Law; Public Health Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [11 Nov 2016](changes/2016/2016-11-11.md): Alcoholic Beverage Control Law; Education Law; Elder Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Not-for-Profit Corporation Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; State Administrative Procedure Act; Tax Law; Volunteer Ambulance Workers' Benefit Law; Volunteer Firefighters' Benefit Law
 - [4 Nov 2016](changes/2016/2016-11-04.md): Criminal Procedure Law; General Municipal Law; Navigation Law; Penal Law; Vehicle and Traffic Law
 - [28 Oct 2016](changes/2016/2016-10-28.md): Education Law; Executive Law; Mental Hygiene Law; Multiple Dwelling Law
-- [21 Oct 2016](changes/2016/2016-10-21.md): Executive Law; Mental Hygiene Law
 
 ## Most changed in the past 12 months
 
@@ -120,7 +120,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 410 | 16 Sep 2016 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 756 | 2 Dec 2016 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 336 | 15 Jan 2016 |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 18 Nov 2016 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 16 Dec 2016 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | no change since 22 Sep 2014 (start of history) |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 689 | 18 Nov 2016 |
