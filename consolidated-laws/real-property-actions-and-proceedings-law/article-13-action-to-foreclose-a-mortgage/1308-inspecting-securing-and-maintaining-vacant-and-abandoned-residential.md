@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 13 — Action to Foreclose a Mortgage](README.md)
 
 ```text
-  * § 1308. Inspecting, securing and maintaining vacant and abandoned
+  § 1308. Inspecting, securing and maintaining vacant and abandoned
 residential real property. Notwithstanding any other provision of law to
 the contrary, the following subdivisions of this section shall only
 apply to vacant and abandoned one to four family residential real
@@ -198,5 +198,4 @@ bank, savings bank, savings and loan association or credit union that
 originates, owns, services or maintains a mortgage related to such
 property for which the provisions of this section, pursuant to the
 opening paragraph of this section, do not apply.
-  * NB Effective December 20, 2016
 ```

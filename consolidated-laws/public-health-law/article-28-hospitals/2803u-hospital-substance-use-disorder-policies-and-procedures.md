@@ -4,11 +4,11 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-u. Hospital substance use disorder policies and procedures.
-1.  The office of alcoholism and substance abuse services, in
-consultation with the department, shall develop or utilize existing
-educational materials to be provided to general hospitals to disseminate
-to individuals with a documented substance use disorder or who appear to
+  § 2803-u. Hospital substance use disorder policies and procedures. 1.
+The office of alcoholism and substance abuse services, in consultation
+with the department, shall develop or utilize existing educational
+materials to be provided to general hospitals to disseminate to
+individuals with a documented substance use disorder or who appear to
 have or be at risk for a substance use disorder during discharge
 planning pursuant to section twenty-eight hundred three-i of this
 chapter. Such materials shall include information regarding the various
@@ -46,5 +46,4 @@ program.
 office of alcoholism and substance abuse services, shall make
 regulations as may be necessary and proper to carry out the provisions
 of this section.
-  * NB Effective December 19, 2016
 ```

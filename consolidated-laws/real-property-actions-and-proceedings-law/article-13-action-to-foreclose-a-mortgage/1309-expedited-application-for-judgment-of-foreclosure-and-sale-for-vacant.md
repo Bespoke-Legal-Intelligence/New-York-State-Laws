@@ -4,8 +4,8 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 13 — Action to Foreclose a Mortgage](README.md)
 
 ```text
-  * § 1309. Expedited application for judgment of foreclosure and sale
-for vacant and abandoned property. 1. The plaintiff in any foreclosure
+  § 1309. Expedited application for judgment of foreclosure and sale for
+vacant and abandoned property. 1. The plaintiff in any foreclosure
 proceeding may make an application by notice of motion or order to show
 cause for a judgment of foreclosure and sale on the grounds that the
 subject property is vacant and abandoned. The motion or order to show
@@ -138,5 +138,4 @@ to comply with this section.
   7. The chief administrative judge of the courts shall adopt such rules
 as he or she deems necessary to expeditiously implement the provisions
 of this section.
-  * NB Effective December 20, 2016
 ```
