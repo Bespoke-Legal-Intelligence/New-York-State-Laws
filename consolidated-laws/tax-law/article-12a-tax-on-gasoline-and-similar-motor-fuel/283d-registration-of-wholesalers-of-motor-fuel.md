@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 12-A — Tax On Gasoline and Similar Motor Fuel](README.md)
 
 ```text
-  * § 283-d. Registration of wholesalers of motor fuel. (a) Registration
+  § 283-d. Registration of wholesalers of motor fuel. (a) Registration
 required. Each wholesaler of motor fuel must be registered with the
 department under this section. No wholesaler of motor fuel shall make a
 sale of motor fuel in this state other than a retail sale not in bulk
@@ -168,5 +168,4 @@ without the prior written approval of the commissioner, or
   (4) with respect to a wholesaler of motor fuel which is a corporation,
 the dissolution or annulment of such corporation pursuant to section
 three hundred ten of this chapter.
-  * NB Effective December 1, 2016
 ```

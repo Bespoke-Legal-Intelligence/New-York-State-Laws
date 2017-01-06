@@ -37,7 +37,14 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-d.    Hotel or motel taxes in Oneida county.
         1202-dd.   Hotel or motel taxes in the city of Hudson.
         1202-dd*2. Hotel or motel taxes in Fulton county.
+        1202-dd*3. Hotel or motel taxes in the town of Greenburgh and
+                     specified villages therein and in the village of
+                     Sleepy Hollow.
+        1202-dd*4. Occupancy tax in the village of Harrison.
+        1202-dd*5. Occupancy tax in the village of Mamaroneck.
+        1202-dd*6. Occupancy tax in the village of Port Chester.
         1202-e.    Hotel or motel taxes in Schenectady county.
+        1202-ee.   Hotel or motel taxes in the town of Woodbury.
         1202-f.    Hotel or motel taxes in Tompkins county.
         1202-g.    Hotel or motel taxes in Cortland county.
         1202-g*2.  Tourist home, inn, hotel or motel taxes in Saratoga
@@ -76,9 +83,12 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-v.    Hotel or motel taxes in Lewis county.
         1202-w.    Hotel or motel taxes in Wyoming county.
         1202-x.    Occupancy tax in the city of Yonkers.
+        1202-xx.   Occupancy tax in the town of North Castle.
         1202-y.    Hotel or motel taxes in the city of Geneva.
         1202-y*2.  Hotel or motel taxes in Yates county.
         1202-z.    Hotel or motel taxes in Clinton county.
+        1202-z-1.  Occupancy tax in the village of Tuckahoe.
+        1202-z-3.  Occupancy tax in the village of Mount Kisco.
         1202-aa.   Occupancy tax in the city of New Rochelle.
         1202-aa*2. Occupancy tax in the city of Rye.
         1202-aa*3. Occupancy tax in the city of White Plains.

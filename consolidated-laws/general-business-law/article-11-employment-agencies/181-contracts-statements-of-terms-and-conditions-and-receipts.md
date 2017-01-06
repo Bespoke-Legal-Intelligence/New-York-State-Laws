@@ -1,0 +1,74 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 181", "kind": "section", "law_id": "GBS", "location_id": "181", "path": "ARTICLE 11 › SECTION 181", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/181.md", "title": "Contracts, statements of terms and conditions, and receipts"} -->
+# General Business Law § 181 — Contracts, statements of terms and conditions, and receipts
+
+[General Business Law](../README.md) › [Article 11 — Employment Agencies](README.md)
+
+```text
+  § 181. Contracts, statements of terms and conditions, and receipts. It
+shall be the duty of every employment agency to give to each applicant
+for employment:
+  1. A true copy of every contract executed between such agency and such
+applicant, which shall have printed on it or attached to it a statement
+setting forth in a clear and concise manner the provisions of sections
+one hundred eighty-five, and one hundred eighty-six of this article.
+  2. (a) Each contract shall include, but not be limited to, the
+following: information as to the name and address of the person to whom
+the applicant is to apply for such employment, the name, the address,
+the mailing address, and the telephone number of the employer; the
+address or addresses of employment, the kind of service to be performed;
+the anticipated rate of wages or compensation; the anticipated hours of
+work per day and number of days to be worked per week; the agency's fee
+for the applicant based on such anticipated wages or compensation; any
+provision to the employee, and costs associated with that provision
+including housing, health insurance, healthcare, sick leave, holidays
+and retirement benefits; whether such employment is permanent or
+temporary, the anticipated period of employment, the name and address of
+the person authorizing the hiring of such applicant; and the cost of
+transportation if the services are required outside of the city, town or
+village where such agency is located. If the job is a conditionally
+fee-paid job, the conditions under which the applicant will be required
+to pay a fee shall be clearly set forth in a separate agreement in
+ten-point type signed by the job applicant.
+  (b) The employment agency shall provide to each applicant, a separate
+document accompanying each contract summarizing the terms and conditions
+of the contract in commonly understood terms. This document shall be
+entitled "terms and conditions" and shall include the language that the
+document is not a contract and that such document is not legally
+binding. The commissioner shall promulgate rules and regulations
+determining what information shall be included in the terms and
+conditions provided by an agency to an applicant.
+  (c) When a job applicant identifies as his or her primary language a
+language for which a template is not available from the commissioner,
+the employment agency shall comply with this subdivision by providing
+that employee an English-language statement.
+  (d) An employment agency shall not be penalized for errors or
+omissions in the non-English portions of any notice provided by the
+commissioner.
+  3. A receipt for any fee, deposit, consideration, or payment which
+such agency receives from such applicant, which shall have printed or
+written on it the name of the applicant, the name and address of the
+employment agency, the date and amount of such fee, deposit,
+consideration or payment or portion thereof for which the receipt is
+given, the purpose for which it was paid, and the signature of the
+person receiving such payment. If the applicant for employment has been
+recruited from outside the state for domestic or household employment
+the receipt shall have printed on it, or attached to it, a copy of
+section one hundred eighty-four of this article. The receipt shall also
+include, immediately above the place for signature of the person
+receiving payment, set off in a box and printed in bold capital letters,
+the following statement:  "An employment agency may not charge you, the
+job applicant, a fee before referring you to a job that you accept. If
+you pay a fee before accepting a job or pay a fee that otherwise
+violates the law, you may demand a refund, which shall be repaid within
+seven days".
+  4. The completed original or duplicate-original copy of each such
+contract, statement of terms and conditions, receipts, and any other
+documents given to the applicant shall be retained by every employment
+agency for three years following the date on which the contract is
+executed or the payment is made, and shall be made available for
+inspection by the commissioner or his duly authorized agent or
+inspector, upon his request. Notwithstanding the other provisions of
+such contracts, the monetary consideration to be paid by the applicant
+shall not exceed the fee ceiling provided in subdivision eight of
+section one hundred eighty-five of this article.
+```

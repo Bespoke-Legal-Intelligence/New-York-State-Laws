@@ -10,6 +10,7 @@
 - [§ 710 Commissioner of the division of homeland security and emergency services; appointment of the commissioner; powers and duties](710-commissioner-of-the-division-of-homeland-security-and-emergency-services.md)
 - [§ 711 Reports](711-reports.md)
 - [§ 711-A Analyze and report on the feasibility of implementing tornado warning systems](711a-analyze-and-report-on-the-feasibility-of-implementing-tornado-warning-systems.md)
+- [§ 711-B Review of water supplier vulnerability analysis assessments](711b-review-of-water-supplier-vulnerability-analysis-assessments.md)
 - [§ 712 Miscellaneous](712-miscellaneous.md)
 - [§ 713 Protection of critical infrastructure including energy generating and transmission facilities](713-protection-of-critical-infrastructure-including-energy-generating.md)
 - [§ 714 Protection of critical infrastructure; storage facilities for hazardous substances](714-protection-of-critical-infrastructure-storage-facilities-for-hazardous.md)
@@ -32,6 +33,8 @@ Section 709.   Division of homeland security and emergency services;
         711.   Reports.
         711-a. Analyze and report on the feasibility of implementing
                  tornado warning systems.
+        711-b. Review of water supplier vulnerability analysis
+                 assessments.
         712.   Miscellaneous.
         713.   Protection of critical infrastructure including energy
                  generating and transmission facilities.

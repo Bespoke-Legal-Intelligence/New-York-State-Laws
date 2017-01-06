@@ -256,11 +256,10 @@ this article, the exercise of any right or power over motor fuel or
 diesel motor fuel by any person, whether or not a purchaser, including,
 but not limited to, the receiving, the withdrawal from storage or any
 consumption of such fuel.
-  * (f) Every wholesaler of motor fuel, as such term is defined by
+  (f) Every wholesaler of motor fuel, as such term is defined by
 subdivision twenty-seven of section two hundred eighty-two of this
 chapter, shall pay or be entitled to a credit or refund of the tax
 imposed by this section on gallons of motor fuel under the circumstances
 set forth in paragraph three of subdivision (e) of section eleven
 hundred eleven of this article.
-  * NB Effective December 1, 2016
 ```

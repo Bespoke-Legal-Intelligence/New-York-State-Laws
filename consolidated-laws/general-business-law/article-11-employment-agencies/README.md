@@ -15,7 +15,7 @@
 - [§ 177 Bonds and license fees](177-bonds-and-license-fees.md)
 - [§ 178 Action on bond](178-action-on-bond.md)
 - [§ 179 Registers and other records to be kept](179-registers-and-other-records-to-be-kept.md)
-- [§ 181 Contracts, receipts](181-contracts-receipts.md)
+- [§ 181 Contracts, statements of terms and conditions, and receipts](181-contracts-statements-of-terms-and-conditions-and-receipts.md)
 - [§ 182 Cards to be furnished nurses; registry records](182-cards-to-be-furnished-nurses-registry-records.md)
 - [§ 184 Recruitment of domestic or household employees who are residents of other states; findings and policy](184-recruitment-of-domestic-or-household-employees-who-are-residents-of-other-states.md)
 - [§ 184-A Recruitment of domestic or household employees from outside the continental United States](184a-recruitment-of-domestic-or-household-employees-from-outside-the-continental.md)
@@ -36,26 +36,27 @@
 
 ```text
                                ARTICLE 11
-                           EMPLOYMENT AGENCIES.
+                          EMPLOYMENT AGENCIES.
 Section 170.   Application of article.
         171.   Definitions.
         172.   License required.
         173.   Application for license.
         174.   Procedure upon application; grant of license.
         175.   Form and contents of license.
-        176.   Assignment  or  transfer  of license; change of location;
+        176.   Assignment or transfer of license; change of location;
                  additional locations.
         177.   Bonds and license fees.
         178.   Action on bond.
         179.   Registers and other records to be kept.
-        181.   Contracts, receipts.
+        181.   Contracts, statements of terms and conditions, and
+                 receipts.
         182.   Cards to be furnished nurses; registry records.
-        184.   Recruitment of domestic or household  employees  who  are
+        184.   Recruitment of domestic or household employees who are
                  residents of other states; findings and policy.
-        184-a. Recruitment  of  domestic  or  household  employees  from
+        184-a. Recruitment of domestic or household employees from
                  outside the continental United States.
         185.   Fees.
-        185-a. Domestic dayworkers who are transported to the  place  of
+        185-a. Domestic dayworkers who are transported to the place of
                  employment.
         186.   Return of fees.
         187.   Additional prohibitions.
@@ -65,7 +66,7 @@ Section 170.   Application of article.
         191.   Definition.
         192.   Prohibited activities.
         193.   Penalties for violation.
-        194.   Employment  agency  fees;  reimbursement from employee to
+        194.   Employment agency fees; reimbursement from employee to
                  employer prohibited.
 ```
 

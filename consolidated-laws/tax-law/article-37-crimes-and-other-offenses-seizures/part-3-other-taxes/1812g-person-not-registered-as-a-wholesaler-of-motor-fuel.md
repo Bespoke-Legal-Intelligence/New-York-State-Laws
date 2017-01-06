@@ -4,10 +4,9 @@
 [Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 3 — Other Taxes](README.md)
 
 ```text
-  * § 1812-g. Person not registered as a wholesaler of motor fuel. Any
+  § 1812-g. Person not registered as a wholesaler of motor fuel. Any
 person who, while not registered as a wholesaler of motor fuel pursuant
 to the provisions of article twelve-A of this chapter, makes a sale of
 motor fuel in this state other than a retail sale not in bulk, shall be
 guilty of a class E felony.
-  * NB Effective December 1, 2016
 ```

@@ -17,15 +17,15 @@
 ```text
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2015-2016
-  Rules of the Assembly for the years 2015--2016, as adopted by Assembly
-Resolution  number  6  of 2015 and amended by Assembly Resolution number
-830 of 2016.
-  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
-Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+                                2017-2018
+  Rules of the Assembly for the years 2017--2018, as adopted by Assembly
+Resolution number 6 of 2017.
+  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
+Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
+and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 ```
 
-[Full chapter text (2,222 lines)](chapter-text.md)
+[Full chapter text (2,282 lines)](chapter-text.md)
 
 ## Contents
 

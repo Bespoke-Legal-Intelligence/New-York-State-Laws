@@ -60,6 +60,7 @@
 - [§ 390-G Pesticide alternatives](390g-pesticide-alternatives.md)
 - [§ 390-H Notice requirement before closing certain day care centers](390h-notice-requirement-before-closing-certain-day-care-centers.md)
 - [§ 390-I Notice of inspection report](390i-notice-of-inspection-report.md)
+- [§ 390-J Performance summary card in a city having a population of one million or more](390j-performance-summary-card-in-a-city-having-a-population-of-one-million.md)
 - [§ 391 Violation; injunction](391-violation-injunction.md)
 - [§ 392 Services for relative caregivers](392-services-for-relative-caregivers.md)
 
@@ -140,6 +141,8 @@ Section 371.     Definitions.
         390-h.   Notice requirement before closing certain day care
                    centers.
         390-i.   Notice of inspection report.
+        390-j.   Performance summary card in a city having a population
+                   of one million or more.
         391.     Violation; injunction.
         392.     Services for relative caregivers.
 ```

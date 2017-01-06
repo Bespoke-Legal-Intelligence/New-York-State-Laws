@@ -6,12 +6,14 @@
 ```text
   § 1125. Water supply emergency plans. 1. Definitions. As used in this
 title:
-  (a) "Water supply emergency plan" shall mean a plan approved by the
-commissioner and filed with the department. The plan shall follow a form
-which shall be specified by the department and which shall include, but
-not be limited to, those items enumerated in this section, and shall
-address those actions to be taken by a water supplier to anticipate
-emergencies and respond responsibly to emergency situations.
+  (a) "Water supply emergency plan" shall mean a plan reviewed and
+approved by the commissioner and filed with the department. The plan
+shall follow a form which shall be specified by the department and which
+shall include, but not be limited to, those items enumerated in this
+section, and shall address those actions to be taken by a water supplier
+to anticipate emergencies and respond responsibly to emergency
+situations. The department shall maintain a list of all water suppliers
+required to file a water supply emergency plan pursuant to this section.
   (b) "Water supplier" shall mean any person who owns or operates a
 community water system that supplies drinking water to more than three
 thousand three hundred people.
@@ -41,8 +43,9 @@ during a water supply emergency,
   (j) public notification program coordinated with the phased
 implementation schedule, and
   (k) a vulnerability analysis assessment, including an analysis of
-vulnerability to terrorist attack, which shall be made after
-consultation with local and state law enforcement agencies.
+vulnerability to terrorist attack, including cyber attack, which shall
+be made after consultation with local and state law enforcement
+agencies.
   3. All water suppliers shall, prior to the final submission of the
 water supply emergency plan, publish a notice in a newspaper of general
 circulation in the area served by the community water system stating
@@ -65,19 +68,38 @@ commissioner shall retain a copy of each water supply emergency plan.
 water supply emergency plan and report its findings to the commissioner
 by December thirty-first, nineteen hundred ninety-five. Any water
 supplier whose water supply emergency plan does not include an analysis
-of vulnerability to terrorist attack, shall revise its emergency plan
-and report its findings to the commissioner by January first, two
-thousand three. Every water supplier shall keep its water supply
-emergency plan up to date, shall provide updated communication and
-notification information to the commissioner by December thirty-first of
-every year, and shall submit its water supply emergency plan to the
-commissioner for review at least once every five years and within thirty
-days after major water facility infrastructure changes have been made.
-  6. The commissioner, in his discretion, may provide an opportunity for
+of vulnerability to terrorist attack, including cyber attack, shall
+revise its emergency plan and report its findings to the commissioner by
+January first, two thousand seventeen. Every water supplier shall keep
+its water supply emergency plan up to date, shall provide updated
+communication and notification information to the commissioner by
+December thirty-first of every year, and shall submit its water supply
+emergency plan to the commissioner for review at least once every five
+years and within thirty days after major water facility infrastructure
+changes have been made. The commissioner shall transmit a copy of each
+vulnerability analysis assessment from a water supplier to the
+superintendent of state police, commissioner of the division of homeland
+security and emergency services, and chief technology officer.
+  6. (a) The commissioner or a county health department may provide
+guidance and assistance to community water systems on conducting
+vulnerability assessments, preparing water supply emergency plans and
+addressing threats from terrorist attacks, including cyber attacks,
+designed to disrupt the provision of safe drinking water or
+significantly affect the public health, or significantly affect the
+safety or supply of drinking water provided to communities or
+individuals.
+  (b) A community water system, that is not a water supplier, may elect
+to complete a water supply emergency plan. Such community water system
+may elect to submit the plan to the commissioner for approval. In such a
+case, the commissioner shall subject the plan to such approval process
+as described in paragraph (a) of subdivision one of this section.
+  7. The commissioner, in his discretion, may provide an opportunity for
 public hearing for persons served by a community water system.
-  7. The commissioner shall make such rules and regulations which may be
+  8. The commissioner shall make such rules and regulations which may be
 necessary to effectuate the purposes of this title.
-  8. The commissioner shall keep confidential: (a) all vulnerability
+  9. The commissioner, superintendent of state police, commissioner of
+the division of homeland security and emergency services, and chief
+technology officer shall keep confidential: (a) all vulnerability
 analysis assessments and all information derived therefrom; and (b) all
 information determined by a water supplier to pose a security risk to
 the operation of a water supply system. Such assessments and information

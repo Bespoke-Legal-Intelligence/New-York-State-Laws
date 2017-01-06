@@ -84,6 +84,46 @@ pursuant to this subdivision, a utilization review agent shall not deny,
 on the basis of medical necessity or lack of prior authorization,
 coverage for the inpatient substance use disorder treatment while a
 determination by the utilization review agent is pending.
+  3-a. A utilization review agent shall grant a step therapy protocol
+override determination within seventy-two hours of the receipt of
+information that includes supporting rationale and documentation from a
+health care professional which demonstrates that:
+  (a) The required prescription drug or drugs is contraindicated, will
+likely cause an adverse reaction by or physical or mental harm to the
+enrollee;
+  (b) The required prescription drug or drugs is expected to be
+ineffective based on the known clinical history and conditions of the
+enrollee and the enrollee's prescription drug regimen;
+  (c) The enrollee has tried the required prescription drug or drugs
+while under their current or a previous health insurance or health
+benefit plan, or another prescription drug or drugs in the same
+pharmacologic class or with the same mechanism of action and such
+prescription drug or drugs was discontinued due to lack of efficacy or
+effectiveness, diminished effect, or an adverse event;
+  (d) The enrollee is stable on a prescription drug or drugs selected by
+their health care professional for the medical condition under
+consideration, provided that this shall not prevent a utilization review
+agent from requiring an insured to try an AB-rated generic equivalent
+prior to providing coverage for the equivalent brand name prescription
+drug or drugs; or
+  (e) The required prescription drug or drugs is not in the best
+interest of the enrollee because it will likely cause a significant
+barrier to the enrollee's adherence to or compliance with the enrollee's
+plan of care, will likely worsen a comorbid condition of the enrollee,
+or will likely decrease the covered enrollee's ability to achieve or
+maintain reasonable functional ability in performing daily activities.
+  3-b. For an enrollee with a medical condition that places the health
+of the insured in serious jeopardy without the prescription drug or
+drugs prescribed by the insured's health care professional, the step
+therapy protocol override determination shall be granted within
+twenty-four hours of the receipt of information that includes supporting
+rationale and documentation from a health care professional
+demonstrating one or more of the standards provided for in subdivision
+three-a of this section.
+  3-c. Upon a determination that the step therapy protocol should be
+overridden, the health plan shall authorize immediate coverage for the
+prescription drug or drugs prescribed by the enrollee's treating health
+care professional.
   4. A utilization review agent shall make a utilization review
 determination involving health care services which have been delivered
 within thirty days of receipt of the necessary information.
@@ -117,8 +157,13 @@ in this section shall preclude the enrollee from initiating an appeal
 from an adverse determination.
   7. Failure by the utilization review agent to make a determination
 within the time periods prescribed in this section shall be deemed to be
-an adverse determination subject to appeal pursuant to section forty
-nine hundred four of this title.
+an adverse determination subject to appeal pursuant to section
+forty-nine hundred four of this title, provided, however, that failure
+to meet such time periods for a step therapy protocol as defined in
+subdivision seven-f-three of section forty-nine hundred of this title or
+a step therapy protocol override determination pursuant to subdivisions
+three-a, three-b and three-c of this section shall be deemed to be an
+override of the step therapy protocol.
   8. The commissioner, in conjunction with the superintendent of
 financial services, shall develop standards for prior authorization
 requests to be utilized by all health care plans for the purposes of

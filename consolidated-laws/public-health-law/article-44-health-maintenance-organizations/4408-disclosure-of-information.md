@@ -181,7 +181,10 @@ treatments in clinical trials;
   (i) provide individual health practitioner affiliations with
 participating hospitals, if any;
   (j) upon written request, provide specific written clinical review
-criteria relating to a particular condition or disease and, where
+criteria relating to a particular condition or disease including
+clinical review criteria relating to a step therapy protocol override
+determination pursuant to subdivisions three-a, three-b and three-c of
+section forty-nine hundred three of this chapter, and, where
 appropriate, other clinical information which the organization might
 consider in its utilization review and the organization may include with
 the information a description of how it will be used in the utilization
@@ -189,7 +192,10 @@ review process; provided, however, that to the extent such information
 is proprietary to the organization, the enrollee or prospective enrollee
 shall only use the information for the purposes of assisting the
 enrollee or prospective enrollee in evaluating the covered services
-provided by the organization;
+provided by the organization. Such clinical review criteria, and other
+clinical information shall also be made available to a health care
+professional as defined in subdivision six of section forty-nine hundred
+of this chapter, on behalf of an enrollee and upon written request;
   (k) provide the written application procedures and minimum
 qualification requirements for health care providers to be considered by
 the health maintenance organization;

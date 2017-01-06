@@ -86,4 +86,14 @@ thousand sixteen.
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated
 by contract or otherwise with such utilization review agent.
+  3. When establishing a step therapy protocol, a utilization review
+agent shall utilize recognized evidence-based and peer reviewed clinical
+review criteria that takes into account the needs of atypical patient
+populations and diagnoses as well when establishing the clinical review
+criteria.
+  4. When conducting utilization review for a step therapy protocol
+override determination, a utilization review agent shall utilize, in
+addition to any other requirements of this article, recognized
+evidence-based and peer reviewed clinical review criteria that is
+appropriate for the enrollee and the enrollee's medical condition.
 ```

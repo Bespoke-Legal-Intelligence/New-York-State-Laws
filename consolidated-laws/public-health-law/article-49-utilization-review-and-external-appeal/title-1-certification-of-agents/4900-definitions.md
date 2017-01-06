@@ -245,6 +245,21 @@ article. An out-of-network referral denial under this subdivision does
 not constitute an adverse determination as defined in this article. An
 out-of-network referral denial shall not be construed to include an
 out-of-network denial as defined in subdivision seven-f of this section.
+  7-f-2. "Step therapy protocol override determination" means a
+determination made by a utilization review agent as defined in
+subdivision nine of this section to override a step therapy protocol
+pursuant to subdivisions three-a, three-b and three-c of section
+forty-nine hundred three of this title granting coverage for the health
+care professional's selected prescription drug or drugs. Any step
+therapy protocol override determination as defined by this subdivision
+shall be eligible for appeal by an enrollee pursuant to this article.
+  7-f-3. "Step therapy protocol" means a policy, protocol or program
+established by a utilization review agent as defined in subdivision nine
+of this section that establishes the specific sequence in which
+prescription drugs for a specified medical condition are approved for a
+particular enrollee. Nothing in this chapter shall impair or prevent an
+insured from having the right to appeal pursuant to this article
+relating to the imposition of a step therapy protocol.
   7-g. "Rare disease" means a condition or disease that (1)(A) is
 currently or has been subject to a research study by the National
 Institutes of Health Rare Diseases Clinical Research Network or (B)
