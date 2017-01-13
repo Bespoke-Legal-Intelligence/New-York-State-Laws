@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1 — Power Authority of the State of New York](README.md)
 
 ```text
-  * § 1005-b. New York state canal corporation. 1. The public benefit
+  § 1005-b. New York state canal corporation. 1. The public benefit
 corporation known as the "New York state canal corporation" (hereinafter
 referred to as the "canal corporation") created as a subsidiary
 corporation of the New York state thruway authority pursuant to chapter
@@ -174,5 +174,4 @@ political subdivision, municipality, commission, agency, officer,
 department, board, division, or person shall have the same authorization
 and power for any such purposes to cooperate and enter into agreements
 with the canal corporation.
-  * NB Effective January 1, 2017
 ```

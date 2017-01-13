@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1973, ch. 392 |
 | Sections | 31 |
-| Last changed | 8 Apr 2016 |
+| Last changed | 13 Jan 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Medical Care Facilities Finance Agency 392/73 |
 
@@ -30,10 +30,11 @@ Section 1.    Short title.
         5.    Powers of the agency.
 ```
 
-[Full chapter text (40 lines)](chapter-text.md)
+[Full chapter text (38 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [13 Jan 2017](../../changes/2017/2017-01-13.md): 3 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 1 amended
 - [22 May 2015](../../changes/2015/2015-05-22.md): 1 amended
 - [1 May 2015](../../changes/2015/2015-05-01.md): 1 amended

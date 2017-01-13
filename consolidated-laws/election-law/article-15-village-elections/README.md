@@ -12,7 +12,7 @@
 - [§ 15-108 Designation and nomination of candidates](15-108-designation-and-nomination-of-candidates.md)
 - [§ 15-110 Election districts](15-110-election-districts.md)
 - [§ 15-112 Registers and poll-books; how used](15-112-registers-and-poll-books-how-used.md)
-- [§ 15-114 Number and use of voting machines](15-114-number-and-use-of-voting-machines.md)
+- [§ 15-114 Number of voting machines](15-114-number-of-voting-machines.md)
 - [§ 15-116 Inspectors of election](15-116-inspectors-of-election.md)
 - [§ 15-118 Registration of voters](15-118-registration-of-voters.md)
 - [§ 15-120 Absentee voting at village elections](15-120-absentee-voting-at-village-elections.md)

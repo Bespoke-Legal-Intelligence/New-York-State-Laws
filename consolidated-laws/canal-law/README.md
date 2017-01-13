@@ -8,7 +8,7 @@
 | Senate code | CAL |
 | Type | Consolidated law, chapter 5 |
 | Sections | 83 |
-| Last changed | 8 Apr 2016 |
+| Last changed | 13 Jan 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Canal |
 
@@ -31,12 +31,13 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [13 Jan 2017](../../changes/2017/2017-01-13.md): 3 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 3 amended
 
 ## Contents
 
 - [Article 1 — Short Title and Definitions](article-01-short-title-and-definitions/)
-- [Article 1-A — Transfer to New York State Thruway Authority](article-01a-transfer-to-new-york-state-thruway-authority/)
+- [Article 1-A — Transfer to Power Authority of the State of New York](article-01a-transfer-to-power-authority-of-the-state-of-new/)
 - [Article 2 — Powers of the Canal Corporation](article-02-powers-of-the-canal-corporation/)
 - [Article 3 — Canal Engineering](article-03-canal-engineering/)
 - [Article 4 — Canal Contracts](article-04-canal-contracts/)

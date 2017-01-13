@@ -49,7 +49,7 @@
 - [§ 2343 Medical malpractice insurance rates; special additional provisions regarding such rates](2343-medical-malpractice-insurance-rates-special-additional-provisions-regarding-such.md)
 - [§ 2344 Flexible rate limitations in problem markets](2344-flexible-rate-limitations-in-problem-markets.md)
 - [§ 2345 Disclosure of premium reductions and surcharges](2345-disclosure-of-premium-reductions-and-surcharges.md)
-- [§ 2346 Reduction in rates of fire insurance or homeowners insurance premiums for residential property](2346-reduction-in-rates-of-fire-insurance-or-homeowners-insurance-premiums.md)
+- [§ 2346 Reduction in rates of fire insurance, homeowners insurance or property/casualty premiums for residential property](2346-reduction-in-rates-of-fire-insurance-homeowners-insurance-or-property-casualty.md)
 - [§ 2346-A Reduction in rates of certain commercial risk insurance premiums for real property](2346a-reduction-in-rates-of-certain-commercial-risk-insurance-premiums-for-real.md)
 - [§ 2347 Workers' compensation rate changes](2347-workers-compensation-rate-changes.md)
 - [§ 2348 Anti-theft and fraud savings](2348-anti-theft-and-fraud-savings.md)

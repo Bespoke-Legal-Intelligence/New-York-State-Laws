@@ -85,7 +85,7 @@ support for a person receiving support collection services including
 data obtained from the wage reporting system operated by the state
 department of taxation and finance pursuant to section one hundred
 seventy-one-a of the tax law.
-  * (j) to ensure the provision, on any form required to be completed at
+  (j) to ensure the provision, on any form required to be completed at
 application or recertification for the purpose of obtaining financial
 assistance pursuant to this chapter, the form shall contain a check-off
 question asking whether the applicant or recipient or a member of his or
@@ -95,7 +95,6 @@ affirmative to such question, the office of temporary and disability
 assistance shall ensure that contact information for the state division
 of veterans' affairs is provided to such applicant or recipient, in
 addition to any other materials provided.
-  * NB Effective January 3, 2017
   4. The Department shall not withhold state reimbursement from or deny
 state reimbursement to a social services district, until written notice
 is given to the commissioner of the social services district affected,

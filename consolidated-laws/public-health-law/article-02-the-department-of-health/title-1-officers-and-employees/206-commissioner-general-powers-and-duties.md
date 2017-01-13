@@ -187,7 +187,6 @@ make an anatomical gift or registered in the donate life registry,
 checking "skip this question" or failing to check a box shall not impair
 that consent or registration.
   * NB There are 2 par (v)'s
-  * NB Effective January 1, 2017
   * (v) by rule and regulation, cause the distribution of crib safety
 information. (1) The commissioner shall require that every hospital and
 birth center distribute at the time of discharge directly to each

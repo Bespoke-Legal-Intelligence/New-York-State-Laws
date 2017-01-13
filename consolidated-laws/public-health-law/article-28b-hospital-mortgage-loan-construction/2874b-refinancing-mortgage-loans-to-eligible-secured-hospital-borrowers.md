@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2874-B", "kind": "section", "law_id": "PBH", "location_id": "2874-B", "path": "ARTICLE 28-B › SECTION 2874-B", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2874-B.md", "title": "Refinancing mortgage loans to eligible secured hospital borrowers"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2874-B", "kind": "section", "law_id": "PBH", "location_id": "2874-B", "path": "ARTICLE 28-B › SECTION 2874-B", "repealed": true, "repealed_date": "2017-01-13", "source": "nys-laws:PBH/2874-B.md", "title": "Refinancing mortgage loans to eligible secured hospital borrowers"} -->
 # Public Health Law § 2874-B — Refinancing mortgage loans to eligible secured hospital borrowers
 
 [Public Health Law](../README.md) › [Article 28-B — Hospital Mortgage Loan Construction](README.md)
+
+**Repealed** (13 Jan 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2874-b. Refinancing mortgage loans to eligible secured hospital

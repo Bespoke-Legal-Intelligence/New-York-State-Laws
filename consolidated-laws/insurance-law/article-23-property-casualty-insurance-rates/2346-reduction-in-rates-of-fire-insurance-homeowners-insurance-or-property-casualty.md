@@ -1,16 +1,12 @@
-﻿<!-- nyslaw {"citation": "Insurance Law § 2346", "kind": "section", "law_id": "ISC", "location_id": "2346", "path": "ARTICLE 23 › SECTION 2346", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2346.md", "title": "Reduction in rates of fire insurance or homeowners insurance premiums for residential property"} -->
-# Insurance Law § 2346 — Reduction in rates of fire insurance or homeowners insurance premiums for residential property
+﻿<!-- nyslaw {"citation": "Insurance Law § 2346", "kind": "section", "law_id": "ISC", "location_id": "2346", "path": "ARTICLE 23 › SECTION 2346", "repealed": false, "repealed_date": null, "source": "nys-laws:ISC/2346.md", "title": "Reduction in rates of fire insurance, homeowners insurance or property/casualty premiums for residential property"} -->
+# Insurance Law § 2346 — Reduction in rates of fire insurance, homeowners insurance or property/casualty premiums for residential property
 
 [Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
 
 ```text
-  § 2346. * Reduction in rates of fire insurance or homeowners insurance
-premiums for residential property.
-  * NB Effective until January 1, 2017
-  * Reduction in rates of fire insurance, homeowners insurance or
-property/casualty premiums for residential property.
-  * NB Effective January 1, 2017
-1. The superintendent may provide for a reduction in the rates of fire
+  § 2346. Reduction in rates of fire insurance, homeowners insurance or
+property/casualty premiums for residential property. 1. The
+superintendent may provide for a reduction in the rates of fire
 insurance premiums or the fire insurance component of homeowners
 insurance premiums applicable to residential real property equipped with
 smoke detecting alarm devices, approved sprinkler systems or fire
@@ -40,8 +36,8 @@ residential real property fitted or retrofitted with hurricane resistant
 laminated glass windows or doors. The superintendent shall by regulation
 establish standards for hurricane resistant laminated glass windows and
 doors, including the safe and secure installation thereof.
-  * 5. (a) Definitions. For the purposes of this subsection, the
-following terms shall have the following meanings:
+  5. (a) Definitions. For the purposes of this subsection, the following
+terms shall have the following meanings:
   (1) "Completion certificate" means a document which cannot be altered
 and which is provided to a person who successfully completes a homeowner
 natural disaster preparedness, home safety and loss prevention course.
@@ -92,5 +88,4 @@ of residence.
 or guidelines to be used by the superintendent when reviewing the
 proposed homeowner natural disaster preparedness, home safety and loss
 prevention courses.
-  * NB Effective January 1, 2017
 ```

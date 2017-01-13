@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 383", "kind": "section", "law_id": "PBA", "location_id": "383", "path": "ARTICLE 2 › TITLE 9 › SECTION 383", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/383.md", "title": "Additional powers of the authority to finance certain projects in connection with the New York state canal system"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 383", "kind": "section", "law_id": "PBA", "location_id": "383", "path": "ARTICLE 2 › TITLE 9 › SECTION 383", "repealed": true, "repealed_date": "2017-01-13", "source": "nys-laws:PBA/383.md", "title": "Additional powers of the authority to finance certain projects in connection with the New York state canal system"} -->
 # Public Authorities Law § 383 — Additional powers of the authority to finance certain projects in connection with the New York state canal system
 
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
+
+**Repealed** (13 Jan 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 383. Additional powers of the authority to finance certain

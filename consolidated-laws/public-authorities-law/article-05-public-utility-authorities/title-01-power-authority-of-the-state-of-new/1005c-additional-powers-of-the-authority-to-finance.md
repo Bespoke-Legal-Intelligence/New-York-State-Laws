@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 1 — Power Authority of the State of New York](README.md)
 
 ```text
-  * § 1005-c. Additional powers of the authority to finance certain
+  § 1005-c. Additional powers of the authority to finance certain
 projects in connection with the New York state canal system. 1. (a) The
 authority is hereby authorized, as an additional corporate purpose
 thereof, to issue its bonds, notes and other evidences of indebtedness
@@ -30,5 +30,4 @@ notes or bonds, and to establish the rights and privileges granted upon
 payment thereof; provided, however, that tolls may only be imposed for
 the passage through locks and lift bridges by vessels which are
 propelled in whole or in part by mechanical power.
-  * NB Effective January 1, 2017
 ```

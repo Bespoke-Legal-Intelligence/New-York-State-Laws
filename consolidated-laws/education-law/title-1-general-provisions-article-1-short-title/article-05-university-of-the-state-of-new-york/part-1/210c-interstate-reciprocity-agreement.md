@@ -4,8 +4,8 @@
 [Education Law](../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../README.md) › [Article 5 — University of the State of New York](../README.md) › [Part 1 — General Organization](README.md)
 
 ```text
-  * § 210-c. Interstate reciprocity agreement for post-secondary
-distance education programs.
+  § 210-c. Interstate reciprocity agreement for post-secondary distance
+education programs.
     INTERSTATE RECIPROCITY AGREEMENT FOR THE POST-SECONDARY DISTANCE
                            EDUCATION PROGRAMS
                                 Article I
@@ -181,7 +181,4 @@ SARA and/or regional compact for distance education.
   2. The duration of any regional compact and/or interstate agreement
 and the methods and conditions of withdrawal therefrom shall be those
 specified in their terms.
-  * NB Effective upon notification from the commissioner of education
-that the state has executed SARA and/or a regional compact for distance
-education
 ```

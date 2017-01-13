@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 382", "kind": "section", "law_id": "PBA", "location_id": "382", "path": "ARTICLE 2 › TITLE 9 › SECTION 382", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/382.md", "title": "Canal corporation"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 382", "kind": "section", "law_id": "PBA", "location_id": "382", "path": "ARTICLE 2 › TITLE 9 › SECTION 382", "repealed": true, "repealed_date": "2017-01-13", "source": "nys-laws:PBA/382.md", "title": "Canal corporation"} -->
 # Public Authorities Law § 382 — Canal corporation
 
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
+
+**Repealed** (13 Jan 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 382. Canal corporation. 1. There is hereby created a public

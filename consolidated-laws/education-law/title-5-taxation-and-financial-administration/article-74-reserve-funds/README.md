@@ -3,11 +3,14 @@
 
 [Education Law](../../README.md) › [Title 5 — Taxation and Financial Administration](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 3651 Reserve fund](3651-reserve-fund.md)
 - [§ 3652 Investment of moneys in reserve funds](3652-investment-of-moneys-in-reserve-funds.md)
 - [§ 3653 Insurance reserve funds](3653-insurance-reserve-funds.md)
+- [§ 3653\*2 Reserves funded by resolution](3653-2-reserves-funded-by-resolution.md)
 
 <details>
 <summary>Official heading of Article 74, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +21,7 @@
 Section 3651.   Reserve fund.
         3652.   Investment of moneys in reserve funds.
         3653.   Insurance reserve funds.
+        3653*2. Reserves funded by resolution.
 ```
 
 </details>

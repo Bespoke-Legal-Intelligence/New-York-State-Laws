@@ -129,17 +129,11 @@ offense contained in such criminal history record from any state or
 local law enforcement agency or court for the purposes of determining
 whether any ground relating to such criminal conviction or pending
 criminal charge exists for denying an application.
-  (e) * After reviewing any criminal history record information provided
-by the division of criminal justice services, the office of children and
-family services shall promptly notify the authorized agency or other
-state agency that:
-  * NB Effective until December 30, 2016
-  * Except as set forth in paragraph (m) of this section, after
+  (e) Except as set forth in paragraph (m) of this section, after
 reviewing any criminal history record information provided by the
 division of criminal justice services, the office of children and family
 services shall promptly notify the authorized agency or other state
 agency that:
-  * NB Effective December 30, 2016
   (1) Notwithstanding any other provision of law to the contrary, an
 application for certification or approval of a prospective foster parent
 or prospective adoptive parent shall be denied and, in the event of
@@ -305,7 +299,7 @@ the division of criminal justice services, shall promulgate regulations
 for the purpose of implementing the provisions of this subdivision
 relating to the standards for the certification or approval of foster
 parents or adoptive parents.
-  * (m)(1) The office of children and family services shall not release
+  (m)(1) The office of children and family services shall not release
 the content of the results of the nationwide criminal history record
 check conducted by the federal bureau of investigation in accordance
 with this subdivision to an authorized agency, as defined in paragraphs
@@ -353,5 +347,4 @@ of state agencies or authorized agencies, as defined in paragraph (b) of
 subdivision ten of section three hundred seventy-one of this title, or
 to the results of statewide criminal history record checks conducted by
 the division of criminal justice services.
-  * NB Effective December 30, 2016
 ```
