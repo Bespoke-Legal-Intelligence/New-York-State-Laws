@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 97-qqqq. Cystic fibrosis research and education fund. 1. There is
+  § 97-qqqq. Cystic fibrosis research and education fund. 1. There is
 hereby established in the joint custody of the commissioner of taxation
 and finance and the comptroller a fund to be known as the "cystic
 fibrosis research and education fund".
@@ -55,5 +55,4 @@ of health.
   5. To the extent practicable, the commissioner of health shall ensure
 that all moneys received during a fiscal year are expended prior to the
 end of that fiscal year.
-  * NB Effective January 17, 2017
 ```

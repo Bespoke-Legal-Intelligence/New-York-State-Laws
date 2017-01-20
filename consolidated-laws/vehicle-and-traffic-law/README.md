@@ -8,7 +8,7 @@
 | Senate code | VAT |
 | Type | Consolidated law, chapter 71 |
 | Sections | 896 |
-| Last changed | 13 Jan 2017 |
+| Last changed | 20 Jan 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Vehicle & Traffic |
 
@@ -33,6 +33,7 @@ to enact as follows:
 
 ## Recent changes
 
+- [20 Jan 2017](../../changes/2017/2017-01-20.md): 6 amended
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 2 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 3 amended, 2 added
 - [4 Nov 2016](../../changes/2016/2016-11-04.md): 8 amended
@@ -42,7 +43,6 @@ to enact as follows:
 - [19 Aug 2016](../../changes/2016/2016-08-19.md): 3 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 5 amended, 4 added
 - [22 Jul 2016](../../changes/2016/2016-07-22.md): 3 amended
-- [15 Jul 2016](../../changes/2016/2016-07-15.md): 2 amended
 
 ## Contents
 

@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 34 — Funeral Directing](../README.md) › [Title 3 — Practice of Funeral Directing; Funeral Establishments](README.md)
 
 ```text
-  * § 3444. Food service in funeral establishments. (a) A funeral
+  § 3444. Food service in funeral establishments. (a) A funeral
 establishment may provide space, facilities, equipment or supplies for
 the preparation, sale, service, distribution or consumption of food or
 nonalcoholic beverages, limited to incidental refreshments (such as
@@ -25,5 +25,4 @@ incidental refreshments or nonalcoholic beverages under this section.
 alcoholic beverage. Notwithstanding the provisions of this section, a
 funeral establishment shall not operate as a food service establishment
 or caterer.
-  * NB Effective January 17, 2017
 ```
