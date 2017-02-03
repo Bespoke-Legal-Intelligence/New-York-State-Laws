@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 163 — Mental Health Practitioners](README.md)
 
 ```text
-  * § 8412. Mandatory continuing education. 1. (a) Each licensed mental
+  § 8412. Mandatory continuing education. 1. (a) Each licensed mental
 health counselor, marriage and family therapist, psychoanalyst, and
 creative arts therapist required under this article to register
 triennially with the department to practice in this state, shall comply
@@ -102,5 +102,4 @@ triennial registration fees required by paragraph (g) of subdivision
 three of section eighty-four hundred two of this article and paragraph
 (g) of subdivision three of section eighty-four hundred five of this
 article.
-  * NB Effective January 1, 2017
 ```

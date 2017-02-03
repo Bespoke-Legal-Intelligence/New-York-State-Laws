@@ -49,7 +49,35 @@ benefit of any officer, director or member and which is exempt from
 federal income taxation pursuant to subsection (a) of section five
 hundred one of the internal revenue code shall be exempt from the
 special additional tax imposed by this subdivision.
-  2. (a) In addition to the taxes imposed by subdivisions one and one-a
+  2. * (a) In addition to the taxes imposed by subdivisions one and
+one-a of this section, there shall be imposed on each mortgage of real
+property situated within the state recorded on or after the first day of
+July, nineteen hundred sixty-nine, an additional tax of twenty-five
+cents for counties outside of the metropolitan commuter transportation
+district, as defined pursuant to section twelve hundred sixty-two of the
+public authorities law, and thirty cents for counties within such
+metropolitan commuter transportation district for each one hundred
+dollars and each remaining major fraction thereof of principal debt or
+obligation which is, or under any contingency may be secured at the date
+of execution thereof or at any time thereafter by such mortgage, saving
+and excepting the first ten thousand dollars of such principal debt or
+obligation in any case in which the related mortgage is of real property
+principally improved or to be improved by a one or two family residence
+or dwelling.  All the provisions of this article shall apply with
+respect to the additional tax imposed by this subdivision to the same
+extent as if it were imposed by the said subdivision one of this
+section, except as otherwise expressly provided in this article. The
+imposition of this additional tax on mortgages recorded in a county
+outside the city of New York, other than one of the counties from time
+to time comprising the metropolitan commuter transportation district,
+the Niagara Frontier transportation district, the Rochester-Genesee
+transportation district, the capital district transportation district or
+the central New York regional transportation district may be suspended
+for a specified period of time or without limitation as to time by a
+local law, ordinance or resolution duly adopted by the local legislative
+body of such county.
+  * NB Effective until July 1, 2017
+  * (a) In addition to the taxes imposed by subdivisions one and one-a
 of this section, there shall be imposed on each mortgage of real
 property situated within the state recorded on or after the first day of
 July, nineteen hundred sixty-nine, an additional tax of twenty-five
@@ -93,6 +121,7 @@ the capital district transportation district or the central New York
 regional transportation district may be suspended for a specified period
 of time or without limitation as to time by a local law, ordinance or
 resolution duly adopted by the local legislative body of such county.
+  * NB Effective July 1, 2017
   (b) Any local law, ordinance or resolution suspending the imposition
 of this additional tax as provided in paragraph (a) of this subdivision,
 or amending or repealing such local law, ordinance or resolution, shall
