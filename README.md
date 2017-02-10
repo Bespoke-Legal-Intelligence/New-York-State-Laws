@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 3 Feb 2017.*
+*Current through the publication of 10 Feb 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [10 Feb 2017](changes/2017/2017-02-10.md): Public Authorities Law
 - [3 Feb 2017](changes/2017/2017-02-03.md): Correction Law; Education Law; Executive Law; General Municipal Law; Mental Hygiene Law; Public Authorities Law; Tax Law
 - [20 Jan 2017](changes/2017/2017-01-20.md): Education Law; Insurance Law; Public Authorities Law; Public Health Law; Real Property Tax Law; State Finance Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [13 Jan 2017](changes/2017/2017-01-13.md): Agriculture and Markets Law; Canal Law; Domestic Relations Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Insurance Law; Labor Law; Medical Care Facilities Finance Agency; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Law; Real Property Tax Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Town Law; Transportation Law; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [30 Dec 2016](changes/2016/2016-12-30.md): General Business Law; Public Housing Law
 - [23 Dec 2016](changes/2016/2016-12-23.md): Civil Practice Law and Rules; Mental Hygiene Law; Public Health Law; Real Property Actions and Proceedings Law
 - [16 Dec 2016](changes/2016/2016-12-16.md): Retirement and Social Security Law
-- [9 Dec 2016](changes/2016/2016-12-09.md): Criminal Procedure Law; Education Law; Environmental Conservation Law; Public Health Law; Suffolk County Tax Act
 
 ## Most changed in the past 12 months
 
@@ -31,9 +31,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Education Law](consolidated-laws/education-law/README.md) | 187 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 119 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 117 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 79 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 82 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 75 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 69 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 68 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 52 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 51 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 50 |
@@ -106,7 +106,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 860 | 2 Dec 2016 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 4 Sep 2015 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 2 Dec 2016 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,123 | 3 Feb 2017 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,123 | 10 Feb 2017 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 49 | 18 Dec 2015 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,630 | 20 Jan 2017 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 329 | 30 Dec 2016 |
