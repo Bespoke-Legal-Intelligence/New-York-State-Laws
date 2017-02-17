@@ -6,18 +6,7 @@
 ```text
   § 2999-j. Payments from the fund. 1. The fund shall be used to pay the
 qualifying health care costs of qualified plaintiffs.
-  * 2. The provision of qualifying health care costs to qualified
-plaintiffs shall not be subject to prior authorization, except as
-described by the commissioner in regulation; provided, however, that
-such regulation shall not prevent qualified plaintiffs from receiving
-care or assistance that would, at a minimum, be authorized under the
-medicaid program; and provided, further, that if any prior authorization
-is required by such regulation, the regulation shall require that
-requests for prior authorization be processed within a reasonably prompt
-period of time and shall identify a process for prompt administrative
-review of any denial of a request for prior authorization.
-  * NB Effective until February 14, 2017
-  * 2. The provision of qualifying health care costs to qualified
+  2. The provision of qualifying health care costs to qualified
 plaintiffs shall not be subject to prior authorization, except as
 described by the commissioner in regulation; provided, however:
   (a) such regulation shall not prevent qualified plaintiffs from
@@ -30,20 +19,10 @@ provisions of subdivision two-a of this section, shall identify a
 process for prompt administrative review of any denial of a request for
 prior authorization; and
   (c) such regulations shall not prohibit qualifying health care costs
-on the grounds that the qualifying health care cost is not limited to
-the direct need of the patient and may benefit other members of the
-household.
-  * NB Effective February 14, 2017
-  * 2-a. A request for review of a denial of a claim or a denial of a
-request for prior authorization for the payment or reimbursement from
-the fund for qualifying health care costs must be made by the claimant
-no later than sixty days from receipt of the denial and, at a claimant's
-option, by either (a) making application to the court wherein the
-judgement was awarded or the case was settled, or (b) following the
-process established by regulations of the commissioner for the
-administrative review of a denial of a claim or request for prior
-authorization.
-  * NB Effective February 14, 2017
+on the grounds that the qualifying health care cost may incidentally
+benefit other members of the household, provided that whether the
+qualifying health care cost primarily benefits the patient may be
+considered.
   3. In determining the amount of qualifying health care costs to be
 paid from the fund, any such cost or expense that was or will, with
 reasonable certainty, be paid, replaced or indemnified from any
@@ -59,7 +38,7 @@ usual and customary rates, as defined by the commissioner in regulation;
 or (b) with respect to all other services, on the basis of Medicaid
 rates of reimbursement or, where no such rates are available, as defined
 by the commissioner in regulation.
-  * NB Effective until February 14, 2017
+  * NB Effective until June 30, 2017
   * 4. The amount of qualifying health care costs to be paid from the
 fund shall be calculated on the basis of one hundred percent of the
 usual and customary cost. For the purposes of this section, "usual and
@@ -73,7 +52,15 @@ calculated on the basis of no less than one hundred thirty percent of
 Medicaid or Medicare rates of reimbursement, whichever is higher. If no
 such rate exists, costs shall be reimbursed as defined by the
 commissioner in regulation.
-  * NB Effective February 14, 2017
+  * NB Effective June 30, 2017 until December 31, 2019
+  * 4. The amount of qualifying health care costs to be paid from the
+fund shall be calculated: (a) with respect to services provided in
+private physician practices on the basis of one hundred percent of the
+usual and customary rates, as defined by the commissioner in regulation;
+or (b) with respect to all other services, on the basis of Medicaid
+rates of reimbursement or, where no such rates are available, as defined
+by the commissioner in regulation.
+  * NB Effective December 31, 2019
   5. Claims for the payment or reimbursement from the fund of qualifying
 health care costs shall be made upon forms prescribed and furnished by
 the fund administrator in consultation with the commissioner and in
@@ -115,13 +102,6 @@ have been met and that the plaintiff is a qualified plaintiff; provided
 that no enrollment shall occur when the fund is closed to enrollment
 pursuant to subdivision six of section twenty-nine hundred ninety-nine-i
 of this title.
-  * 7-a. A request for a review of a determination by the fund
-administrator that the relevant provisions of subdivision six of this
-section have not been met and/or that the plaintiff or claimant is not a
-qualified plaintiff may be made by any of the parties, no later than
-sixty days from receipt of the denial, by making application to the
-court wherein the judgment was awarded or the case was settled.
-  * NB Effective February 14, 2017
   8. As to all claims, the fund administrator shall:
   (a) determine which of such costs are qualifying health care costs to
 be paid from the fund; and

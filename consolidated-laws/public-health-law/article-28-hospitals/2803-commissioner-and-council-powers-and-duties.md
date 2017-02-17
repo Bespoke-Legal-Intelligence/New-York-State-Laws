@@ -206,7 +206,7 @@ patient rights and responsibilities, described in paragraph (g) of this
 subdivision, shall include a provision informing the patient of his or
 her right to not be discriminated against on account of age.
   * NB There are 2  (j)'s
-  * (k) The statement regarding patient rights and responsibilities,
+  (k) The statement regarding patient rights and responsibilities,
 required pursuant to paragraph (g) of this subdivision, shall include
 provisions informing the patient of his or her right to choose to submit
 surprise bills or bills for emergency services to the independent
@@ -214,13 +214,11 @@ dispute process established in article six of the financial services
 law, and informing the patient of his or her right to view a list of the
 hospital's standard charges and the health plans the hospital
 participates with consistent with section twenty-four of this chapter.
-  * NB Effective February 14, 2017
-  * (l) The statement regarding patient rights and responsibilities,
+  (l) The statement regarding patient rights and responsibilities,
 required pursuant to paragraph (g) of this subdivision, shall include
 provisions informing the patient of his or her right to choose to
 identify a caregiver pursuant to article twenty-nine-cccc of this
 chapter.
-  * NB Effective February 14, 2017
   2. (a) The council, by a majority vote of its members, shall adopt and
 amend rules and regulations, subject to the approval of the
 commissioner, to effectuate the provisions and purposes of this article,

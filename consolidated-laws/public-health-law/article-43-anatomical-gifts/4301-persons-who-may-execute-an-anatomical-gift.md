@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
 
 ```text
-  § 4301. Persons who may execute an anatomical gift. * 1. Any
+  § 4301. Persons who may execute an anatomical gift.  1. (a) Any
 individual of sound mind and eighteen years of age or more may give all
 or any part of his or her body for any purpose specified in section
 forty-three hundred two of this article, the gift to take effect upon
@@ -18,20 +18,6 @@ tissue donation, authorization for donation shall not be rescinded by an
 objection by a member of any of the classes specified in paragraphs (a)
 through (h) of subdivision two of this section, except upon a showing
 that the donor revoked the authorization.
-  * NB Effective until February 14, 2017
-  * 1. (a) Any individual of sound mind and eighteen years of age or
-more may give all or any part of his or her body for any purpose
-specified in section forty-three hundred two of this article, the gift
-to take effect upon death. In any case where the donor has properly
-executed an organ donor card, driver's license authorization to make an
-anatomical gift, pursuant to paragraph (a) of subdivision one of section
-five hundred four of the vehicle and traffic law, registered in the New
-York state organ and tissue donor registry under section forty-three
-hundred ten of this article, or has otherwise given written
-authorization for organ or tissue donation, authorization for donation
-shall not be rescinded by an objection by a member of any of the classes
-specified in paragraphs (a) through (h) of subdivision two of this
-section, except upon a showing that the donor revoked the authorization.
   (b) Any person who is sixteen or seventeen years of age and of sound
 mind may give all or any part of his or her body for any purpose
 specified in section forty-three hundred two of this article, the gift
@@ -50,7 +36,6 @@ rescinded, except upon a showing that the donor revoked the
 authorization. Upon the donor reaching the age of eighteen, the donor's
 consent to donate his or her organs or tissue shall be regarded as
 consent for authorization to make an anatomical gift.
-  * NB Effective February 14, 2017
   2. Any of the following persons, in the order of priority stated, may,
 when persons in prior classes are not reasonably available, willing, and
 able to act, at the time of death, and in the absence of actual notice

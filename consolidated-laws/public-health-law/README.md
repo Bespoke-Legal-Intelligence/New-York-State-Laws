@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,630 (1 repealed) |
-| Last changed | 20 Jan 2017 |
+| Sections | 1,630 (2 repealed) |
+| Last changed | 17 Feb 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [17 Feb 2017](../../changes/2017/2017-02-17.md): 5 amended, 1 repealed
 - [20 Jan 2017](../../changes/2017/2017-01-20.md): 1 amended
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 4 amended, 1 repealed
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 7 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [25 Nov 2016](../../changes/2016/2016-11-25.md): 1 amended
 - [18 Nov 2016](../../changes/2016/2016-11-18.md): 2 amended
 - [11 Nov 2016](../../changes/2016/2016-11-11.md): 5 amended, 1 added
-- [7 Oct 2016](../../changes/2016/2016-10-07.md): 4 amended
 
 ## Contents
 
