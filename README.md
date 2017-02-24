@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 17 Feb 2017.*
+*Current through the publication of 24 Feb 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -28,21 +28,21 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 | Law | Sections changed |
 |---|---:|
-| [Education Law](consolidated-laws/education-law/README.md) | 187 |
+| [Education Law](consolidated-laws/education-law/README.md) | 185 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 123 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 119 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 82 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 75 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 70 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 69 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 53 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 51 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 50 |
 | [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | 50 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 50 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 50 |
 | [Suffolk County Tax Act](unconsolidated-laws/suffolk-county-tax-act/README.md) | 49 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 49 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 48 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 48 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 46 |
 
 ## Consolidated Laws
 
