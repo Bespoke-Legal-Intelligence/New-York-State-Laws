@@ -18,7 +18,7 @@
 - [§ 25.19 Posting of license or certificate](25.19-posting-of-license-or-certificate.md)
 - [§ 25.21 Change of office location](25.21-change-of-office-location.md)
 - [§ 25.23 Posting of price lists; information to purchaser](25.23-posting-of-price-lists-information-to-purchaser.md)
-- [§ 25.24 Automated ticket purchasing software](25.24-automated-ticket-purchasing-software.md)
+- [§ 25.24 Ticket purchasing software](25.24-ticket-purchasing-software.md)
 - [§ 25.25 Records of purchases and sales](25.25-records-of-purchases-and-sales.md)
 - [§ 25.27 Commissions to employees of places of entertainment](25.27-commissions-to-employees-of-places.md)
 - [§ 25.29 Unlawful charges in connection with tickets](25.29-unlawful-charges-in-connection-with-tickets.md)

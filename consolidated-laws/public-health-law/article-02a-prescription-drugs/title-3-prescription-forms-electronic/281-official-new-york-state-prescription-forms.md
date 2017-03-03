@@ -63,13 +63,12 @@ substance, the quantity of controlled substances does not exceed a five
 day supply if the controlled substance were used in accordance with the
 directions for use; or (e) issued by a practitioner to be dispensed by a
 pharmacy located outside the state, as set forth in regulation.
-  * 3-a. A pharmacy that receives an electronic prescription from the
+  3-a. A pharmacy that receives an electronic prescription from the
 person issuing the prescription may, if the prescription has not been
 dispensed and at the request of the patient or a person authorized to
 make the request on behalf of the patient, immediately transfer or
 forward such prescription to an alternative pharmacy designated by the
 requesting party.
-  * NB Effective February 26, 2017
   4. In the case of a prescription for a controlled substance issued by
 a practitioner under paragraph (b) of subdivision three of this section,
 the practitioner shall indicate in the patient's health record that the
