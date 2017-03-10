@@ -4,14 +4,7 @@
 [Education Law](../../../README.md) › [Title 8 — The Professions](../../README.md) › [Article 130* — General Provisions](../README.md) › [Subarticle 1 — Introductory Summary](README.md)
 
 ```text
-  * § 6501. Admission to a profession (licensing). Admission to practice
-of a profession in this state is accomplished by a license being issued
-to a qualified applicant by the education department. To qualify for a
-license an applicant shall meet the requirements prescribed in the
-article for the particular profession and shall meet the requirements
-prescribed in section 3-503 of the general obligations law.
-  * NB Effective until March 8, 2017
-  * § 6501. Admission to a profession (licensing). 1. Admission to
+  § 6501. Admission to a profession (licensing). 1. Admission to
 practice of a profession in this state is accomplished by a license
 being issued to a qualified applicant by the education department. To
 qualify for a license an applicant shall meet the requirements
@@ -63,5 +56,4 @@ this article.
   d. The department shall reduce the initial licensure application fee
 by one-half for any application submitted by a military spouse under
 this subdivision.
-  * NB Effective March 8, 2017
 ```
