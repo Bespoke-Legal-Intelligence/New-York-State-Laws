@@ -7,8 +7,9 @@
   § 483-g. Early childhood advisory council. 1. There is hereby
 established within the council an early childhood advisory council to
 promote a comprehensive and high quality early childhood system. Members
-of the early childhood advisory council shall include, but not be
-limited to, to the maximum extent possible:
+of the early childhood advisory council shall be appointed by the
+governor and shall include, but not be limited to, to the maximum extent
+possible:
   (a) a representative of the office of children and family services;
   (b) a representative of the state education department;
   (c) a representative of local educational agencies;
@@ -29,7 +30,9 @@ disabilities;
   (n) at least five representatives of the business community; and
   (o) representatives of other entities determined to be relevant by the
 governor.
-  2. The early childhood advisory council shall, in addition to any
+  2. The governor shall also designate the two chairpersons to the early
+childhood advisory council.
+  3. The early childhood advisory council shall, in addition to any
 responsibilities assigned by the governor:
   (a) conduct a periodic statewide needs assessment concerning the
 quality and availability of early childhood education and development
@@ -72,25 +75,25 @@ in early childhood and strategies for maximizing resources; and
   (j) make recommendations for improvements in state early learning
 standards and undertake efforts to develop high-quality comprehensive
 early learning standards, as appropriate.
-  3. Members of the early childhood advisory council shall serve on
+  4. Members of the early childhood advisory council shall serve on
 workgroups tasked with implementing the duties required pursuant to
-subdivision two of this section. Such workgroups may be established as
+subdivision three of this section. Such workgroups may be established as
 needed, provided however that there shall be a permanent early learning
 investment workgroup focused on implementation of, at a minimum, the
-duties described in paragraphs (g), (h) and (i) of subdivision two of
+duties described in paragraphs (g), (h) and (i) of subdivision three of
 this section. Membership of the early learning investment workgroup
 shall include, but not be limited to, representatives of the business
 community appointed to the council in accordance with paragraph (n) of
 subdivision one of this section.
-  4. The early childhood advisory council shall hold public hearings and
+  5. The early childhood advisory council shall hold public hearings and
 provide an opportunity for public comment on the activities described in
-subdivision two of this section.
-  5. The early childhood advisory council shall submit a statewide
-strategic report addressing the activities described in subdivision two
-of this section to the director of the head start collaboration office,
-the governor, the speaker of the assembly and the temporary president of
-the senate. After submission of a statewide strategic report, the early
-childhood advisory council shall meet periodically to review any
-implementation of the recommendations in such report and any changes in
-state and local needs.
+subdivision three of this section.
+  6. The early childhood advisory council shall submit a statewide
+strategic report addressing the activities described in subdivision
+three of this section to the director of the head start collaboration
+office, the governor, the speaker of the assembly and the temporary
+president of the senate. After submission of a statewide strategic
+report, the early childhood advisory council shall meet periodically to
+review any implementation of the recommendations in such report and any
+changes in state and local needs.
 ```

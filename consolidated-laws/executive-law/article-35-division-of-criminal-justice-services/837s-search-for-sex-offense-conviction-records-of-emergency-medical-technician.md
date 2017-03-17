@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
 ```text
-  * § 837-s. Search for sex offense conviction records of emergency
+  § 837-s. Search for sex offense conviction records of emergency
 medical technician and other first responder applicants. 1. The chief
 officer of any volunteer ambulance company, as such term is defined in
 subdivision two of section three of the volunteer ambulance workers'
@@ -34,5 +34,4 @@ eligible to be elected or otherwise appointed as a member of such
 ambulance company or service. Such determination shall be made
 consistent with article twenty-three-A of the correction law and a copy
 of such article shall be provided to the applicant.
-  * NB Effective March 14, 2017
 ```

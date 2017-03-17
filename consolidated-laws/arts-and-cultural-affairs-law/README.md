@@ -8,7 +8,7 @@
 | Senate code | ACA |
 | Type | Consolidated law, chapter 11-C |
 | Sections | 251 |
-| Last changed | 3 Mar 2017 |
+| Last changed | 17 Mar 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Arts and Cultural Affairs |
 
@@ -31,6 +31,7 @@ Article
 
 ## Recent changes
 
+- [17 Mar 2017](../../changes/2017/2017-03-17.md): 1 amended
 - [3 Mar 2017](../../changes/2017/2017-03-03.md): 1 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended, 1 added, 1 removed
 - [20 May 2016](../../changes/2016/2016-05-20.md): 19 amended
@@ -53,7 +54,7 @@ Article
 - [Title L — Protection of Child Performers and Models](title-l-protection-of-child-performers-and-models/)
 - [Title M — Theatrical Employment Contracts; Safety Precautions For Certain Performers; Performing Artists](title-m-theatrical-employment-contracts-safety/)
 - [Title P — New York State Cultural Education Trust](title-p-new-york-state-cultural-education-trust/)
-- [Title S — Executive Mansion Trust](title-s-executive-mansion-trust/)
+- [Title S — No title](title-s-no-title/)
 - [Title T — Natural Heritage Trust](title-t-natural-heritage-trust/)
 - [Title U — Divisions of History and Public Records](title-u-divisions-of-history-and-public-records/)
 - [Title V — American Museum of Natural History Planetarium Authority](title-v-american-museum-of-natural-history-planetarium/)

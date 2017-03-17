@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "ACA", "location_id": "TS", "path": "TITLE S", "source": "nys-laws:ACA/TS.md", "title": "Executive Mansion Trust"} -->
-# Title S — Executive Mansion Trust
+﻿<!-- nyslaw {"kind": "container", "law_id": "ACA", "location_id": "TS", "path": "TITLE S", "source": "nys-laws:ACA/TS.md", "title": "No title"} -->
+# Title S — No title
 
 [Arts and Cultural Affairs Law](../README.md)
 
@@ -12,7 +12,6 @@
 
 ```text
                                  TITLE S
-                         EXECUTIVE MANSION TRUST
 ```
 
 </details>

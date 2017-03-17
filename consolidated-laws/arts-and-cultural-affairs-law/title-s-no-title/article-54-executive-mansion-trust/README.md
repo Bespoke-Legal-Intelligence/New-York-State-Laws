@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"kind": "container", "law_id": "ACA", "location_id": "TSA54", "path": "TITLE S › ARTICLE 54", "source": "nys-laws:ACA/TSA54.md", "title": "Executive Mansion Trust"} -->
 # Article 54 — Executive Mansion Trust
 
-[Arts and Cultural Affairs Law](../../README.md) › [Title S — Executive Mansion Trust](../README.md)
+[Arts and Cultural Affairs Law](../../README.md) › [Title S — No title](../README.md)
 
 ## Contents
 

@@ -13,7 +13,8 @@ shall include, but not be limited to, those items enumerated in this
 section, and shall address those actions to be taken by a water supplier
 to anticipate emergencies and respond responsibly to emergency
 situations. The department shall maintain a list of all water suppliers
-required to file a water supply emergency plan pursuant to this section.
+required to submit a water supply emergency plan pursuant to this
+section.
   (b) "Water supplier" shall mean any person who owns or operates a
 community water system that supplies drinking water to more than three
 thousand three hundred people.
@@ -43,9 +44,8 @@ during a water supply emergency,
   (j) public notification program coordinated with the phased
 implementation schedule, and
   (k) a vulnerability analysis assessment, including an analysis of
-vulnerability to terrorist attack, including cyber attack, which shall
-be made after consultation with local and state law enforcement
-agencies.
+vulnerability to terrorist attack and cyber attack, which shall be made
+after consultation with local and state law enforcement agencies.
   3. All water suppliers shall, prior to the final submission of the
 water supply emergency plan, publish a notice in a newspaper of general
 circulation in the area served by the community water system stating
@@ -68,15 +68,17 @@ commissioner shall retain a copy of each water supply emergency plan.
 water supply emergency plan and report its findings to the commissioner
 by December thirty-first, nineteen hundred ninety-five. Any water
 supplier whose water supply emergency plan does not include an analysis
-of vulnerability to terrorist attack, including cyber attack, shall
-revise its emergency plan and report its findings to the commissioner by
-January first, two thousand seventeen. Every water supplier shall keep
+of vulnerability to terrorist attack and cyber attack, shall initiate
+such an analysis by June first, two thousand seventeen, and shall revise
+its emergency plan and report its findings to the commissioner by
+January first, two thousand eighteen. Every water supplier shall keep
 its water supply emergency plan up to date, shall provide updated
 communication and notification information to the commissioner by
 December thirty-first of every year, and shall submit its water supply
 emergency plan to the commissioner for review at least once every five
 years and within thirty days after major water facility infrastructure
-changes have been made. The commissioner shall transmit a copy of each
+changes have been made. The commissioner shall make available for
+review, following established security protocols, a copy of each
 vulnerability analysis assessment from a water supplier to the
 superintendent of state police, commissioner of the division of homeland
 security and emergency services, and chief technology officer.
