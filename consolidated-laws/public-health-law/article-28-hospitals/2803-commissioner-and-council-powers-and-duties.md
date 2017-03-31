@@ -461,5 +461,4 @@ but not limited to, clinical impairment.
 health center from providing off-site services in accordance with
 department regulations.
   * NB There are 2 sb 11's
-  * NB Effective March 28, 2017
 ```

@@ -24,26 +24,7 @@ physician, dentist, nurse, physical therapist or registered physician's
 assistant from liability for damages for injuries or death caused by an
 act or omission on the part of such person while rendering professional
 services in the normal and ordinary course of his or her practice.
-  * 2. (i) Any person who, or entity, partnership, corporation, firm or
-society that, purchases, operates, facilitates implementation or makes
-available resuscitation equipment that facilitates first aid, an
-automated external defibrillator or an epinephrine auto-injector device
-as required by or pursuant to law or local law, or (ii) an emergency
-health care provider under a collaborative agreement pursuant to section
-three thousand-b of this article with respect to an automated external
-defibrillator, or (iii) the emergency health care provider with a
-collaborative agreement under section three thousand-c of this article
-with respect to use of an epinephrine auto-injector device, shall not be
-liable for damages arising either from the use of that equipment by a
-person who voluntarily and without expectation of monetary compensation
-renders first aid or emergency treatment at the scene of an accident or
-medical emergency, or from the use of defectively manufactured
-equipment; provided that this subdivision shall not limit the person's
-or entity's, partnership's, corporation's, firm's, society's or the
-emergency health care provider's liability for his, her or its own
-negligence, gross negligence or intentional misconduct.
-  * NB Effective until March 28, 2017
-  * 2. (i) Any person or entity that purchases, operates, facilitates
+  2. (i) Any person or entity that purchases, operates, facilitates
 implementation or makes available resuscitation equipment that
 facilitates first aid, an automated external defibrillator or an
 epinephrine auto-injector device as required by or pursuant to law or
@@ -61,5 +42,4 @@ defectively manufactured equipment; provided that this subdivision shall
 not limit the person's or entity's, the emergency health care
 provider's, or other health care practitioner's liability for his, her
 or its own negligence, gross negligence or intentional misconduct.
-  * NB Effective March 28, 2017
 ```

@@ -4,17 +4,7 @@
 [Correction Law](../README.md) › [Article 2 — Department of Corrections and Community Supervision](README.md)
 
 ```text
-  * § 16. Expense of autopsy; state charge. The reasonable expense of
-any inquiry, autopsy, examination or report prepared thereon conducted
-by a coroner, coroner's physician or medical examiner as required by law
-with respect to any death occurring to an inmate of an institution
-operated by the department shall, to the extent not otherwise reimbursed
-by the state, be a state charge. Reimbursement of such expense shall be
-made on vouchers submitted annually and certified by the chief fiscal
-officer of the county or city as the case may be on the audit and
-warrant of the comptroller.
-  * NB Effective until March 28, 2017
-  * § 16. Expense of autopsy; state charge. 1. The reasonable expense of
+  § 16. Expense of autopsy; state charge. 1. The reasonable expense of
 any inquiry, autopsy, examination or report prepared thereon conducted
 by a coroner, coroner's physician or medical examiner as required by law
 with respect to any death occurring to an inmate of an institution
@@ -27,5 +17,4 @@ warrant of the comptroller.
 certificate for such inmate from a coroner, coroner's physician or
 medical examiner and forward such original death certificate to the next
 of kin.
-  * NB Effective March 28, 2017
 ```
