@@ -11,7 +11,7 @@
 - [§ 54-C Emergency financial aid to certain cities](54c-emergency-financial-aid-to-certain-cities.md)
 - [§ 54-D Advance payment of state moneys; authorization only by law](54d-advance-payment-of-state-moneys-authorization-only-by-law.md)
 - [§ 54-E State assistance to reimburse municipalities for firefighting costs](54e-state-assistance-to-reimburse-municipalities-for-firefighting-costs.md)
-- [§ 54-F State tax relief for school taxpayers of the city of New York](54f-state-tax-relief-for-school-taxpayers-of-the-city-of-new-york.md)
+- [§ 54-F State tax relief for school taxpayers of the city of New York](54f-state-tax-relief-for-school-taxpayers-of-the-city-of-new-york.md) *(repealed)*
 - [§ 54-G State assistance to local governments for support of activities related to fire prevention and building codes](54g-state-assistance-to-local-governments-for-support-of-activities-related-to-fire.md)
 - [§ 54-H State aid to local governments for housing maintenance code enforcement](54h-state-aid-to-local-governments-for-housing-maintenance-code-enforcement.md)
 - [§ 54-I Human services overburden aid to counties](54i-human-services-overburden-aid-to-counties.md)
@@ -37,8 +37,6 @@ Section  54.    Per capita state aid for the support of local
                   law.
          54-e.  State assistance to reimburse municipalities for
                   firefighting costs.
-         54-f.  State tax relief for school taxpayers of the city of New
-                  York.
          54-g.  State assistance to local governments for support of
                   activities related to fire prevention and building
                   codes.

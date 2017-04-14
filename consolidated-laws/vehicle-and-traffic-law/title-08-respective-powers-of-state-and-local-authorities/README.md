@@ -16,6 +16,7 @@
 - [Article 43 — Traffic Safety Boards](article-43-traffic-safety/)
 - [Article 44 — Traffic-control Devices](article-44-traffic-control/)
 - [Article 44-A — Authority of the Nassau and Suffolk County District Court and Buffalo City Court Judicial Hearing Officers](article-44a-authority/)
+- [Article 44-B — Transportation Network Company Services](article-44b-transportation/)
 
 <details>
 <summary>Official heading of Title 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

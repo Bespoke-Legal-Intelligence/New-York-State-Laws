@@ -16,7 +16,7 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
                    CHAPTER 60 OF THE CONSOLIDATED LAWS
                                  TAX LAW
-Article 1.      Short title; definitions; miscellaneous (§§ 1-42).
+Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
         8.      Department of taxation and finance; commissioner of
                   taxation and finance (§§ 170-179).
         9.      Corporation tax (§§ 182--207-b).

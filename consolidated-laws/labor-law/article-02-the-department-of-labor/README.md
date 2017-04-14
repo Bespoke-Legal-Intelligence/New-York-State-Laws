@@ -30,8 +30,9 @@
 - [§ 23 Administrative regulations](23-administrative-regulations.md)
 - [§ 24 Delegation of powers by commissioner](24-delegation-of-powers-by-commissioner.md)
 - [§ 25 Power to enter and inspect premises](25-power-to-enter-and-inspect-premises.md)
-- [§ 25-A Power to administer the urban youth jobs program tax credit](25a-power-to-administer-the-urban-youth-jobs-program-tax-credit.md)
+- [§ 25-A Power to administer the New York youth jobs program tax credit](25a-power-to-administer-the-new-york-youth-jobs-program-tax-credit.md)
 - [§ 25-B Power to administer the workers with disabilities tax credit program](25b-power-to-administer-the-workers-with-disabilities-tax-credit-program.md)
+- [§ 25-C Power to administer the empire state apprenticeship tax credit program](25c-power-to-administer-the-empire-state-apprenticeship-tax-credit-program.md)
 - [§ 26 Examination of books and papers](26-examination-of-books-and-papers.md)
 - [§ 27 Safety and health standards](27-safety-and-health-standards.md)
 - [§ 27-A Safety and health standards for public employees](27a-safety-and-health-standards-for-public-employees.md)
@@ -89,9 +90,11 @@ Section 10.   Department of labor; commissioner of labor.
         23.   Administrative regulations.
         24.   Delegation of powers by commissioner.
         25.   Power to enter and inspect premises.
-        25-a. Power to administer the urban youth jobs program tax
+        25-a. Power to administer the New York youth jobs program tax
                 credit.
         25-b. Power to administer the workers with disabilities tax
+                credit program.
+        25-c. Power to administer the empire state apprenticeship tax
                 credit program.
         26.   Examination of books and papers.
         27.   Safety and health standards.

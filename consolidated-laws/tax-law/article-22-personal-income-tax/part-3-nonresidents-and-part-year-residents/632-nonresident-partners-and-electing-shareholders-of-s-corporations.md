@@ -12,7 +12,14 @@ or connected with New York sources of such partner's distributive share
 of items of partnership income, gain, loss and deduction entering into
 his federal adjusted gross income, as such portion shall be determined
 under regulations of the tax commission consistent with the applicable
-rules of section six hundred thirty-one.
+rules of section six hundred thirty-one of this part. If a nonresident
+is a partner in a partnership where a sale or transfer of the membership
+interest of the partner is subject to the provisions of section
+one-thousand sixty of the internal revenue code, then any gain
+recognized on the sale or transfer for federal income tax purposes shall
+be treated as New York source income allocated in a manner consistent
+with the applicable methods and rules for allocation under this article
+in the year that the assets were sold or transferred.
   (2) In determining New York source income of a nonresident shareholder
 of an S corporation where the election provided for in subsection (a) of
 section six hundred sixty of this article is in effect, there shall be

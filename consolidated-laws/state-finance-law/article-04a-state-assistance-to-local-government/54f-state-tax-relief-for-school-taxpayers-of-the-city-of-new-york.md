@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 54-F", "kind": "section", "law_id": "STF", "location_id": "54-F", "path": "ARTICLE 4-A › SECTION 54-F", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/54-F.md", "title": "State tax relief for school taxpayers of the city of New York"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 54-F", "kind": "section", "law_id": "STF", "location_id": "54-F", "path": "ARTICLE 4-A › SECTION 54-F", "repealed": true, "repealed_date": "2017-04-14", "source": "nys-laws:STF/54-F.md", "title": "State tax relief for school taxpayers of the city of New York"} -->
 # State Finance Law § 54-F — State tax relief for school taxpayers of the city of New York
 
 [State Finance Law](../README.md) › [Article 4-A — State Assistance to Local Government](README.md)
+
+**Repealed** (14 Apr 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 54-f. State tax relief for school taxpayers of the city of New York.

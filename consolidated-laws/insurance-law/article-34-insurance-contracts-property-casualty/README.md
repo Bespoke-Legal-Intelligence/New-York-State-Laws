@@ -57,6 +57,8 @@
 - [§ 3453\*2 Self-service storage company group insurance policies](3453-2-self-service-storage-company-group-insurance-policies.md)
 - [§ 3453\*3 Employer sponsored group personal excess insurance](3453-3-employer-sponsored-group-personal-excess-insurance.md)
 - [§ 3454 Sponsored group personal insurance](3454-sponsored-group-personal-insurance.md)
+- [§ 3455 Transportation network company group insurance policies](3455-transportation-network-company-group-insurance-policies.md)
+- [§ 3456 Prohibition against cancellation of policy when motor vehicle is used or operated through a transportation network company program](3456-prohibition-against-cancellation-of-policy-when-motor-vehicle-is-used.md)
 
 <details>
 <summary>Official heading of Article 34, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -153,6 +155,10 @@ Section 3401.   Insurable interest in property.
         3453*2. Self-service storage company group insurance policies.
         3453*3. Employer sponsored group personal excess insurance.
         3454.   Sponsored group personal insurance.
+        3455.   Transportation network company group insurance policies.
+        3456.   Prohibition against cancellation of policy when motor
+                  vehicle is used or operated through a transportation
+                  network company program.
 ```
 
 </details>

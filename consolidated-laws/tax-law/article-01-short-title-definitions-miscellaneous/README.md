@@ -60,6 +60,8 @@
 - [§ 40 The tax-free NY area tax elimination credit](40-the-tax-free-ny-area-tax-elimination-credit.md)
 - [§ 41 Limitations on tax credit eligibility](41-limitations-on-tax-credit-eligibility.md)
 - [§ 42 Farm workforce retention credit](42-farm-workforce-retention-credit.md)
+- [§ 43 Life sciences research and development tax credit](43-life-sciences-research-and-development-tax-credit.md)
+- [§ 43\*2 Single member limited liability companies and eligibility for tax credits](43-2-single-member-limited-liability-companies-and-eligibility-for-tax-credits.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -138,6 +140,9 @@ Section  1.   Short title.
         40.   The tax-free NY area tax elimination credit.
         41.   Limitations on tax credit eligibility.
         42.   Farm workforce retention credit.
+        43.   Life sciences research and development tax credit.
+        43*2. Single member limited liability companies and eligibility
+                for tax credits.
 ```
 
 </details>

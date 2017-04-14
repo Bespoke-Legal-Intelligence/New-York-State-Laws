@@ -451,10 +451,11 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $1,000,000 but not over $5,000,000         $1,125
  more than $5,000,000 but not over $25,000,000        $2,625
  Over $25,000,000                                     $3,750
-  (D) Otherwise, for all other taxpayers not covered by clauses (A), (B)
-and (C) of this subparagraph, the amount prescribed by this paragraph
-will be determined in accordance with the following table:
-If New York receipts are:                The fixed dollar minimum tax is:
+  (D) Otherwise, for all other taxpayers not covered by clauses (A),
+(B), (C) and (D-1) of this subparagraph, the amount prescribed by this
+paragraph will be determined in accordance with the following table:
+  If New York receipts are:              The fixed dollar minimum tax
+is:
  not more than $100,000                               $   25
  more than $100,000 but not over $250,000             $   75
  more than $250,000 but not over $500,000             $  175
@@ -467,6 +468,14 @@ If New York receipts are:                The fixed dollar minimum tax is:
  more than $250,000,000 but not over $500,000,000     $50,000
  more than $500,000,000 but not over $1,000,000,000   $100,000
  Over $1,000,000,000                                  $200,000
+  (D-1) In the case of a REIT or a RIC that is not a captive REIT or
+captive RIC, the amount prescribed by this paragraph will be determined
+in accordance with the following table:
+If New York receipts are:                The fixed dollar minimum tax is:
+ not more than $100,000                               $   25
+ more than $100,000 but not over $250,000             $   75
+ more than $250,000 but not over $500,000             $  175
+ more than $500,000                                   $  500
   (E) For purposes of this paragraph, New York receipts are the receipts
 included in the numerator of the apportionment factor determined under
 section two hundred ten-A for the taxable year.

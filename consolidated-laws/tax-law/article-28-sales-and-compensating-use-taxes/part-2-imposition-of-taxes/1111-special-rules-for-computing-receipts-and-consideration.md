@@ -90,8 +90,8 @@ shall consist of the localities included in the counties of Nassau and
 Suffolk. (iii) The third region shall consist of the area of the state
 outside the regions referred to in subparagraphs (i) and (ii) of this
 paragraph.
-  (2) (i) Where the motor fuel is imported, manufactured or sold in, or
-diesel motor fuel is sold or used in the region referred to in
+  * (2) (i) Where the motor fuel is imported, manufactured or sold in,
+or diesel motor fuel is sold or used in the region referred to in
 subparagraph (i) of paragraph one of this subdivision, the tax required
 to be prepaid pursuant to section eleven hundred two of this article on
 each gallon of such fuel shall be seventeen and one-half cents.
@@ -105,6 +105,23 @@ motor fuel is sold or used in the region referred to in subparagraph
 (iii) of paragraph one of this subdivision, the tax required to be
 prepaid pursuant to section eleven hundred two of this article on each
 gallon of such fuel shall be sixteen cents.
+  * NB Effective until September 1, 2017
+  * (2) (i) Where the motor fuel is imported, manufactured or sold in,
+or diesel motor fuel is sold or used in the region referred to in
+subparagraph (i) of paragraph one of this subdivision, the tax required
+to be prepaid pursuant to section eleven hundred two of this article on
+each gallon of such fuel shall be sixteen cents.
+  (ii) Where motor fuel is imported, manufactured or sold in, or diesel
+motor fuel is sold or used in the region referred to in subparagraph
+(ii) of paragraph one of this subdivision, the tax required to be
+prepaid pursuant to section eleven hundred two of this article on each
+gallon of such fuel shall be sixteen cents.
+  (iii) Where motor fuel is imported, manufactured or sold in, or diesel
+motor fuel is sold or used in the region referred to in subparagraph
+(iii) of paragraph one of this subdivision, the tax required to be
+prepaid pursuant to section eleven hundred two of this article on each
+gallon of such fuel shall be fifteen cents.
+  * NB Effective September 1, 2017
   (3) When a wholesaler of motor fuel sells motor fuel in a region, as
 defined in paragraph one of this subdivision, different from the region
 in which such motor fuel was purchased:
@@ -117,6 +134,102 @@ prepaid rate as set forth in this subdivision than the region in which
 the wholesaler purchased the motor fuel, the wholesaler shall be
 entitled to a credit or refund for the difference in the rates for the
 gallonage sold.
+  * (4) The commissioner is authorized to adjust the rates in paragraph
+two of this subdivision and shall prescribe a schedule of such rates for
+each region described in paragraph one of this subdivision as provided
+in this paragraph.
+  (i) The schedule required by this paragraph shall be reviewed
+semiannually during the months of April and October of each year,
+beginning in October, two thousand seventeen. The commissioner shall
+determine a tentative rate of tax that would be required to be prepaid
+pursuant to section eleven hundred two of this article on each gallon of
+motor fuel or diesel motor fuel sold or used by multiplying the regional
+average retail sales prices for such fuel for each region described in
+paragraph one of this subdivision by a number that is seventy-five
+percent of the average local sales tax rate in each such region and
+adding to the product thereof the taxes imposed by paragraphs one and
+two of subdivision (m) of this section. The regional average retail
+sales price shall be determined for purposes of this subdivision using
+data regarding sales prices, which shall include, but not be limited to,
+sales prices as compiled by government or industry surveys and sources,
+taking into consideration with respect to motor fuel, the volumes and
+prices of unleaded motor fuels, including reformulated or like motor
+fuels, sold in this state and with respect to both motor fuel and diesel
+motor fuel, the volume and prices of such fuels sold at full service and
+self-service pumps for such fuels, during an immediately preceding
+period of up to twelve months ending the last day of March in the case
+of the April semiannual review and ending the last day of September in
+the case of the October semiannual review; provided, however, that the
+regional average retail sales prices for both motor fuel and diesel
+motor fuel shall represent the retail sales prices upon which the tax
+under this article and pursuant to the authority of article twenty-nine
+of this chapter is computed (including all federal and state and any
+local taxes included in such price) for such period.
+  (ii) If upon such review, it is determined that the tentative rate of
+tax that would be required to be prepaid for motor fuel or diesel motor
+fuel in any of the regions described in paragraph one of this
+subdivision would increase or decrease the rate for such region then in
+effect by two or more cents per gallon, the commissioner shall adjust
+such rate to be equal to the tentative rate, which shall take effect on
+the first day of June or the first day of December, respectively.
+Provided, however, the commissioner shall set the rate of tax required
+to be prepaid in the region described in subparagraph (ii) of paragraph
+one of this subdivision equal to the rate set forth in subparagraph (i)
+of such paragraph, unless the regional average retail sales price in the
+metropolitan commuter transportation district exceeds four dollars per
+gallon. In such event, the commissioner is authorized to establish a
+separate rate in the region described in such subparagraph (ii) and
+shall compute such rate by multiplying the regional average retail sales
+prices for motor fuel and diesel motor fuel in such region by a number
+that is eighty-five percent of the average local sales tax rate in such
+region and adding to the product thereof the taxes imposed by paragraphs
+one and two of subdivision (m) of this section.
+  (iii) The commissioner shall cause to be published on the department's
+website the schedule of rates and the regional average retail sales
+prices of motor fuel and diesel motor fuel fixed by this section, no
+later than ten days prior to the effective date of such rates.
+Notwithstanding any other provision of law, the calculation and
+publication of the rates so fixed by the provisions of this section
+shall not be included within paragraph (a) of subdivision two of section
+one hundred two of the state administrative procedure act relating to
+the definition of a rule.
+  * NB Effective September 1, 2017
+  * (5) Where a new rate of tax required to be prepaid for motor fuel or
+diesel motor fuel is determined by the commissioner, (i) if such new
+rate is less than the rate then in effect, on the date the rate becomes
+effective (A) a registered distributor shall be entitled to a credit in
+an amount equal to the difference between the amount of the prepaid tax
+paid or incurred by him or her with respect to motor fuel which he or
+she imported and which he or she has in inventory at the time such new
+rate becomes effective and the amount of tax which would be due on such
+inventory if the prepaid tax were calculated based on such new average
+price for the region in which such motor fuel was imported and (B) such
+inventory shall then be deemed to have been taxed based on the rate and
+all certifications of tax payment given by the distributor with respect
+to motor fuel in such inventory shall indicate a pass through of the
+prepaid tax based on such new price, (ii) if such new rate is greater
+than the existing rate, on the date such new rate becomes effective (A)
+such distributor shall become liable to pay an additional tax equal to
+the difference between the amount of tax which would be due with respect
+to motor fuel which he or she imported and which he or she has in
+inventory at the time such new rate becomes effective if the prepaid tax
+on such motor fuel were calculated based on such new average price for
+the region in which such motor fuel was imported and the amount of
+prepaid tax paid or actually incurred by such distributor with respect
+to such motor fuel and (B) such inventory shall then be deemed to have
+been taxed based on the new rate and all certifications of tax payment
+given by the distributor with respect to motor fuel in such inventory
+shall indicate a pass through of the prepaid tax based on such new rate.
+Such credit shall be allowed with respect to or such tax shall be paid
+with the return covering the month immediately preceding the month in
+which such new rate becomes effective. Any carryover credit may be
+applied to subsequent periods. The amount to be reported as additional
+tax shall be paid and disposed of in the same manner as the tax required
+to be prepaid by section eleven hundred two of this article. Such
+additional tax shall be determined, assessed, collected and enforced in
+the same manner as the tax required to be prepaid by section eleven
+hundred two of this article.
+  * NB Effective September 1, 2017
   (f) The retail sales tax imposed under subdivision (a) of section
 eleven hundred five and the compensating use tax imposed under section
 eleven hundred ten, when computed in respect to a new mobile home, shall

@@ -132,7 +132,16 @@ article and that is not marked to market under section 475 or section
 financial instrument with respect to the income from that stock that is
 described in such subdivision six-a. If a corporation is included in a
 combined report, the definition of qualified financial instrument shall
-be determined on a combined basis.
+be determined on a combined basis. In the case of a RIC or a REIT that
+is not a captive RIC or a captive REIT, a qualified financial instrument
+means a financial instrument that is of a type described in any of
+clauses (A), (B), (C), (D), (G), (H) or (I) of subparagraph two of this
+paragraph, other than (i) a loan secured by real property, (ii) stock
+that is investment capital as defined in paragraph (a) of subdivision
+five of section two hundred eight of this article, and (iii) stock that
+generates other exempt income as defined in subdivision six-a of section
+two hundred eight of this article with respect to the income from that
+stock that is described in such subdivision six-a.
   (1) Fixed percentage method for qualified financial instruments. In
 determining the inclusion of receipts and net gains from qualified
 financial instruments in the apportionment fraction, taxpayers may elect

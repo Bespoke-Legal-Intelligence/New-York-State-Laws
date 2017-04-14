@@ -6,12 +6,18 @@
 ```text
   § 1701. Financial institution data match system for state tax
 collection purposes. 1. Definitions. As used in this section:
-  (a) "Debt" means all liabilities, including unpaid tax, interest, and
-penalty, that the commissioner is required by law to collect and that
-have been reduced to judgment by the docketing of a New York state tax
-warrant in the office of a county clerk located in the state of New York
-or by the filing of a copy of the warrant in the office of the
+  * (a) "Debt" means past-due tax liabilities, including unpaid tax,
+interest, and penalty, that the commissioner is required by law to
+collect and that have become fixed and final such that the taxpayer no
+longer has any right to administrative or judicial review.
+  * NB Effective until April 1, 2020
+  * (a) "Debt" means all liabilities, including unpaid tax, interest,
+and penalty, that the commissioner is required by law to collect and
+that have been reduced to judgment by the docketing of a New York state
+tax warrant in the office of a county clerk located in the state of New
+York or by the filing of a copy of the warrant in the office of the
 department of state.
+  * NB Effective April 1, 2020
   (b) "Tax debtor" means a natural person or any entity other than a
 natural person named on a New York state tax warrant and identified
 thereon as a judgment debtor.
@@ -20,7 +26,22 @@ or required to participate in a financial institution data match system
 or program for child support enforcement purposes under federal or state
 law.
   2. Financial institution data match system for state tax collection
-purposes. (a) To assist the commissioner in the collection of debts, the
+purposes.  * (a) To assist the commissioner in the collection of debts,
+the department must develop and operate a financial institution data
+match system for the purpose of identifying and seizing the non-exempt
+assets of tax debtors as identified by the commissioner. The
+commissioner is authorized to designate a third party to develop and
+operate this system. Notwithstanding any other provisions of this
+chapter, the commissioner is authorized to disclose the debt and the
+debtor information to such third party and to financial institutions for
+purposes of this system. Any third party designated by the commissioner
+to develop and operate a financial data match system must keep all
+information it obtains from both the department and the financial
+institution confidential, and any employee, agent or representative of
+that third party is prohibited from disclosing that information to
+anyone other than the department or the financial institution.
+  * NB Effective unitl April 1, 2020
+  * (a) To assist the commissioner in the collection of debts, the
 department must develop and operate a financial institution data match
 system for the purpose of identifying and seizing the non-exempt assets
 of tax debtors as identified by the commissioner. The commissioner is
@@ -31,6 +52,7 @@ obtains from both the department and the financial institution
 confidential, and any employee, agent or representative of that third
 party is prohibited from disclosing that information to anyone other
 than the department or the financial institution.
+  * NB Effective April 1, 2020
   (b) Each financial institution doing business in the state must, in
 conjunction with the commissioner or the commissioner's authorized
 designee, develop and operate a data match system to facilitate the

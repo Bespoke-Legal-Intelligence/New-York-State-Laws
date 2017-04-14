@@ -9,7 +9,7 @@ services shall not be subject to the compensating use tax imposed under
 this article:
   (1) In respect to the use of property used by the purchaser in this
 state prior to August first, nineteen hundred sixty-five.
-  (2) In respect to the use of property or services purchased by the
+  (2)(a) In respect to the use of property or services purchased by the
 user while a nonresident of this state, except in the case of tangible
 personal property or services which the user, in the performance of a
 contract, incorporates into real property located in the state. A person
@@ -30,11 +30,18 @@ direct or indirect, in the other, or where an ownership interest of more
 than five percent, whether direct or indirect, is held in each of the
 persons by another person or by a group of other persons that are
 affiliated persons with respect to each other; (ii) "qualified property"
-means aircraft, vessels and motor vehicles; and (iii) "carry" means to
-take any person from one point to another, whether for the business
-purposes or pleasure of that person. For an exception to the exclusions
-from the definition of "retail sale" applicable to aircraft and vessels,
-see subdivision (q) of section eleven hundred eleven of this article.
+means vessels and motor vehicles; and (iii) "carry" means to take any
+person from one point to another, whether for the business purposes or
+pleasure of that person. For an exception to the exclusions from the
+definition of "retail sale" applicable to vessels, see subdivision (q)
+of section eleven hundred eleven of this article.
+  (b) Notwithstanding any provision of this article to the contrary, the
+exclusion in paragraph (a) of this subdivision shall not apply to the
+use within the state of property or a service purchased outside this
+state by a nonresident that is not an individual, unless such
+nonresident has been doing business outside the state for at least six
+months prior to the date such nonresident brought such property or
+service into this state.
   (3) In respect to the use of property or services upon the sale of
 which the purchaser would be expressly exempt from the taxes imposed
 under subdivision (a), (b) or (c) of section eleven hundred five. In

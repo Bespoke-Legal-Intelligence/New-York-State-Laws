@@ -120,8 +120,12 @@ principally used in qualifying uses, then either each affiliate using
 the property must satisfy this employment test or this employment test
 must be satisfied through the aggregation of the employees of the
 taxpayer, its affiliated regulated broker, dealer, and registered
-investment adviser using the property. For purposes of this subdivision,
-the term "goods" shall not include electricity.
+investment adviser using the property. For purposes of clause (A) of
+this subparagraph, tangible personal property and other tangible
+property shall not include property principally used by the taxpayer in
+the production or distribution of electricity, natural gas after
+extraction from wells, steam, or water delivered through pipes and
+mains.
   (ii) For purposes of this paragraph, the following definitions shall
 apply--
   (A) Manufacturing shall mean the process of working raw materials into
@@ -1905,7 +1909,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (f) Termination. The credit allowed by paragraph (b) of this
 subdivision shall not apply in taxable years beginning after December
-thirty-first, two thousand seventeen.
+thirty-first, two thousand twenty-two.
   31. Excelsior jobs program credit. (a) Allowance of credit. A taxpayer
 will be allowed a credit, to be computed as provided in section
 thirty-one of this chapter, against the tax imposed by this article.
@@ -1989,10 +1993,10 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
-  36. Urban youth jobs program tax credit. (a) A taxpayer that has been
-certified by the commissioner of labor as a qualified employer pursuant
-to section twenty-five-a of the labor law shall be allowed a credit
-against the tax imposed by this article equal to (i) five hundred
+  36. New York youth jobs program tax credit. (a) A taxpayer that has
+been certified by the commissioner of labor as a qualified employer
+pursuant to section twenty-five-a of the labor law shall be allowed a
+credit against the tax imposed by this article equal to (i) five hundred
 dollars per month for up to six months for each qualified employee the
 employer employs in a full-time job or two hundred fifty dollars per
 month for up to six months for each qualified employee the employer
@@ -2343,6 +2347,23 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of this section, or subdivision (j) of
 section fifteen hundred eleven of this chapter.
+  49. Empire state apprenticeship tax credit. (a) A taxpayer that has
+been certified by the commissioner of labor as a certified employer
+pursuant to section twenty-five-c of the labor law shall be allowed a
+credit against the tax imposed by this article equal to the amount
+specified under subdivision (c) of section twenty-five-c of the labor
+law. In no event shall the taxpayer be allowed a credit greater than the
+amount of the credit listed on the final certificate of eligibility.
+  (b) The credit allowed under this subdivision for any taxable year may
+not reduce the tax due for that year to less than the amount prescribed
+in paragraph (d) of subdivision one of section two hundred ten of this
+article. However, if the amount of the credit allowed under this
+subdivision for any taxable year reduces the tax to that amount or if
+the taxpayer otherwise pays tax based on the fixed dollar minimum
+amount, any amount of credit not deductible in that taxable year will be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, however, no interest will be paid thereon.
   50. Employee training incentive program tax credit. (a) A taxpayer
 that has been approved by the commissioner of economic development to
 participate in the employee training incentive program and has been
@@ -2399,4 +2420,20 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
+  52. Life sciences research and development tax credit. (a) Allowance
+of credit. A taxpayer that is eligible pursuant to section forty-three
+of this chapter shall be allowed a credit to be computed as provided in
+such section against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. Provided, however, that if the
+amount of the credit allowable under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, the excess shall be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, further, the provisions of subsection (c) of
+section one thousand eighty-eight of this chapter notwithstanding, no
+interest shall be paid thereon.
 ```

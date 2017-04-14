@@ -78,13 +78,13 @@ qualified production costs pursuant to paragraph one of subdivision (b)
 of this section, only from companies registered to collect and remit
 state and local sales and use taxes pursuant to articles twenty-eight
 and twenty-nine of this chapter.
-  (5) For the period two thousand fifteen through two thousand nineteen,
-in addition to the amount of credit established in paragraph two of this
-subdivision, a taxpayer shall be allowed a credit equal to the product
-(or pro rata share of the product, in the case of a member of a
-partnership) of ten percent and the amount of wages or salaries paid to
-individuals directly employed (excluding those employed as writers,
-directors, music directors, producers and performers, including
+  (5) For the period two thousand fifteen through two thousand
+twenty-two, in addition to the amount of credit established in paragraph
+two of this subdivision, a taxpayer shall be allowed a credit equal to
+the product (or pro rata share of the product, in the case of a member
+of a partnership) of ten percent and the amount of wages or salaries
+paid to individuals directly employed (excluding those employed as
+writers, directors, music directors, producers and performers, including
 background actors with no scripted lines) by a qualified film production
 company or a qualified independent film production company for services
 performed by those individuals in one of the counties specified in this
@@ -97,13 +97,13 @@ Franklin, Fulton, Genesee, Greene, Hamilton, Herkimer, Jefferson, Lewis,
 Livingston, Madison, Monroe, Montgomery, Niagara, Oneida, Onondaga,
 Ontario, Orange, Orleans, Oswego, Otsego, Putnam, Rensselaer, Saratoga,
 Schenectady, Schoharie, Schuyler, Seneca, St. Lawrence, Steuben,
-Suffolk, Sullivan, Tioga, Tompkins, Ulster, Warren, Washington, Wayne,
-Wyoming, or Yates. The aggregate amount of tax credits allowed pursuant
-to the authority of this paragraph shall be five million dollars each
-year during the period two thousand fifteen through two thousand
-nineteen of the annual allocation made available to the program pursuant
-to paragraph four of subdivision (e) of this section. Such aggregate
-amount of credits shall be allocated by the governor's office for motion
+Sullivan, Tioga, Tompkins, Ulster, Warren, Washington, Wayne, Wyoming,
+or Yates. The aggregate amount of tax credits allowed pursuant to the
+authority of this paragraph shall be five million dollars each year
+during the period two thousand fifteen through two thousand twenty-two
+of the annual allocation made available to the program pursuant to
+paragraph four of subdivision (e) of this section. Such aggregate amount
+of credits shall be allocated by the governor's office for motion
 picture and television development among taxpayers in order of priority
 based upon the date of filing an application for allocation of film
 production credit with such office. If the total amount of allocated
@@ -118,7 +118,7 @@ paragraph four of subdivision (e) of this section. However, in no event
 may the total of the credits allocated under this paragraph and the
 credits allocated under paragraph five of subdivision (a) of section
 thirty-one of this article exceed five million dollars in any year
-during the period two thousand fifteen through two thousand nineteen.
+during the period two thousand fifteen through two thousand twenty-two.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified production costs" means production costs only to the
@@ -263,14 +263,14 @@ subdivision (a) of this section.
   (4) Additional pool 2 - The aggregate amount of tax credits allowed in
 subdivision (a) of this section shall be increased by an additional four
 hundred twenty million dollars in each year starting in two thousand ten
-through two thousand nineteen provided however, seven million dollars of
-the annual allocation shall be available for the empire state film post
-production credit pursuant to section thirty-one of this article in two
-thousand thirteen and two thousand fourteen and twenty-five million
+through two thousand twenty-two provided however, seven million dollars
+of the annual allocation shall be available for the empire state film
+post production credit pursuant to section thirty-one of this article in
+two thousand thirteen and two thousand fourteen and twenty-five million
 dollars of the annual allocation shall be available for the empire state
 film post production credit pursuant to section thirty-one of this
 article in each year starting in two thousand fifteen through two
-thousand nineteen. This amount shall be allocated by the governor's
+thousand twenty-two. This amount shall be allocated by the governor's
 office for motion picture and television development among taxpayers in
 accordance with subdivision (a) of this section. If the commissioner of
 economic development determines that the aggregate amount of tax credits

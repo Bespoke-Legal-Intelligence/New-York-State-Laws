@@ -32,20 +32,24 @@ property in this state; or
 in this state" includes an interest in a partnership, limited liability
 corporation, S corporation, or non-publicly traded C corporation with
 one hundred or fewer shareholders (hereinafter the "entity") that owns
-real property that is located in New York and has a fair market value
-that equals or exceeds fifty percent of all the assets of the entity on
-the date of sale or exchange of the taxpayer's interest in the entity.
-Only those assets that the entity owned for at least two years before
-the date of the sale or exchange of the taxpayer's interest in the
-entity are to be used in determining the fair market value of all the
-assets of the entity on the date of sale or exchange. The gain or loss
-derived from New York sources from the taxpayer's sale or exchange of an
-interest in an entity that is subject to the provisions of this
+real property that is located in New York or owns shares of stock in a
+cooperative housing corporation where the cooperative units relating to
+the shares are located in New York; provided, that the sum of the fair
+market values of such real property, cooperative shares, and related
+cooperative units equals or exceeds fifty percent of all the assets of
+the entity on the date of sale or exchange of the taxpayer's interest in
+the entity. Only those assets that the entity owned for at least two
+years before the date of the sale or exchange of the taxpayer's interest
+in the entity are to be used in determining the fair market value of all
+the assets of the entity on the date of sale or exchange. The gain or
+loss derived from New York sources from the taxpayer's sale or exchange
+of an interest in an entity that is subject to the provisions of this
 subparagraph is the total gain or loss for federal income tax purposes
 from that sale or exchange multiplied by a fraction, the numerator of
-which is the fair market value of the real property located in New York
-on the date of sale or exchange and the denominator of which is the fair
-market value of all the assets of the entity on the date of sale or
+which is the fair market value of the real property, and the cooperative
+housing corporation stock and related cooperative units located in New
+York on the date of sale or exchange and the denominator of which is the
+fair market value of all the assets of the entity on the date of sale or
 exchange.
   (B) a business, trade, profession or occupation carried on in this
 state; or

@@ -57,8 +57,8 @@ such  period for such purposes and the denominator of which shall be the
 total of  all  expenditures  paid  or  incurred  for  such  acquisition,
 construction,  reconstruction  or  erection, multiplied by the allowable
 percentage for each such period.
-  (2)(A) A credit shall be allowed under this subsection with respect to
-tangible personal property and other tangible property, including
+  (2) (A) A credit shall be allowed under this subsection with respect
+to tangible personal property and other tangible property, including
 buildings and structural components of buildings, which are: depreciable
 pursuant to section one hundred sixty-seven of the internal revenue
 code, have a useful life of four years or more, are acquired by purchase
@@ -133,8 +133,12 @@ whether the property is principally used in qualifying uses, then either
 each affiliate using the property must satisfy this employment test or
 this employment test must be satisfied through the aggregation of the
 employees of the taxpayer, its affiliated regulated broker, dealer, and
-registered investment adviser using the property. For purposes of this
-subsection, the term "goods" shall not include electricity.
+registered investment adviser using the property. For purposes of clause
+(i) of this subparagraph, tangible personal property and other tangible
+property shall not include property principally used by the taxpayer in
+the production or distribution of electricity, natural gas after
+extraction from wells, steam, or water delivered through pipes and
+mains.
   (B) For purposes of this paragraph, the following definitions shall
 apply:
   (i) Manufacturing shall mean the process of working raw materials into
@@ -762,6 +766,34 @@ office of temporary and disability assistance shall certify the date of
 such event to the commissioner, the director of the division of the
 budget, the speaker of the assembly and the temporary president of the
 senate.
+  (1-a) For taxable years beginning after two thousand seventeen, for a
+taxpayer with New York adjusted gross income of at least fifty thousand
+dollars but less than one hundred fifty thousand dollars, the applicable
+percentage shall be the applicable percentage otherwise computed under
+paragraph one of this subsection multiplied by a factor as follows:
+  If New York adjusted gross
+  income is:                                         The factor is:
+  At least $50,000 and less
+  than $55,000                                       1.1682
+  At least $55,000 and less
+  than $60,000                                       1.2733
+  At least $60,000 and less
+  than $65,000                                       2.322
+  At least $65,000 and less
+  than $150,000                                      3.000
+  (1-b) Notwithstanding anything in this subsection to the contrary, a
+taxpayer shall be allowed a credit as provided in this subsection equal
+to the applicable percentage of the credit allowable under section
+twenty-one of the internal revenue code for the same taxable year
+(without regard to whether the taxpayer in fact claimed the credit under
+such section twenty-one for such taxable year) that would have been
+allowed absent the application of section 21(c) of such code for
+taxpayers with more than two qualifying individuals, provided however,
+that the credit shall be calculated as if the dollar limit on amount
+creditable shall not exceed seven thousand five hundred dollars if there
+are three qualifying individuals, eight thousand five hundred dollars if
+there are four qualifying individuals, and nine thousand dollars if
+there are five or more qualifying individuals.
   (2) Residents. In the case of a resident taxpayer, the credit under
 this subsection shall be allowed against the taxes imposed by this
 article for the taxable year reduced by the credits permitted by this
@@ -2214,7 +2246,7 @@ subsection (qq)                      costs of a qualified film
 and facility redevelopment credit    thirty-five
                                      of section two hundred ten-B
   * NB Repealed December 31, 2021
-* (xxxiii) Urban youth jobs          Amount of credit under
+* (xxxiii) New York youth jobs       Amount of credit under
 program tax credit                   subdivision thirty-six
                                      of section two hundred ten-B
   * NB There are 3 clause (xxxiii)'s
@@ -2270,6 +2302,14 @@ credit under subsection (fff)        subdivision fifty-one of
 (xlii) Employee training incentive   Amount of credit under
 program credit under                 subdivision fifty of
 subsection (ddd)                     section two hundred ten-B
+* (xliii) Life sciences research and Amount of credit under
+development tax credit under         subdivision fifty-two of
+subsection (hhh)                     section two hundred ten-B
+  * NB There are 2 clause (xliii)'s
+* (xliii) Empire state apprenticeshipAmount of credit under
+tax credit under subsection (vvv)    subdivision forty-nine of
+                                     section two hundred ten-B
+  * NB There are 2 clause (xliii)'s
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3496,7 +3536,7 @@ of recovery years prior to, but not including, the recapture year, and
 the denominator of which is the total recovery period.
   (6) Termination. The credit allowed by this subsection shall not apply
 in taxable years beginning after December thirty-first, two thousand
-seventeen.
+twenty-two.
   (q) Qualified emerging technology company employment credit. (1) A
 taxpayer shall be allowed a credit, to be computed as hereinafter
 provided, against the tax imposed by this article, provided:
@@ -4497,7 +4537,7 @@ or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
   * NB Repealed December 31, 2021
-  * (tt) Urban youth jobs program tax credit. (1) A taxpayer that has
+  * (tt) New York youth jobs program tax credit. (1) A taxpayer that has
 been certified by the commissioner of labor as a qualified employer
 pursuant to section twenty-five-a of the labor law shall be allowed a
 credit against the tax imposed by this article equal to (A) five hundred
@@ -5164,8 +5204,17 @@ or, in the case of a city school district that is subject to article
 fifty-two of the education law, the combined city and school district
 taxes that were levied upon the taxpayer's primary residence for the
 associated fiscal year that were actually paid by the taxpayer during
-the taxable year. In no case shall the term "qualifying taxes" be
-construed to include penalties or interest.
+the taxable year. Provided, however, that in the case of a cooperative
+apartment, "qualifying taxes" means the school district taxes that would
+have been levied upon the tenant-stockholder's primary residence if it
+were separately assessed, as determined by the commissioner based on the
+statement provided by the assessor pursuant to subparagraph (ii) of
+paragraph (k) of subdivision two of section four hundred twenty-five of
+the real property tax law, or in the case of a cooperative apartment
+corporation that is described in subparagraph (iv) of paragraph (k) of
+subdivision two of section four hundred twenty-five of the real property
+tax law, one third of such amount. In no case shall the term "qualifying
+taxes" be construed to include penalties or interest.
   (F) "STAR exemption" means the school tax relief (STAR) exemption
 authorized by section four hundred twenty-five of the real property tax
 law.
@@ -5252,18 +5301,7 @@ remove this disqualification by renouncing the exemption and making any
 required payments by December thirty-first of the taxable year, as
 provided by subdivision sixteen of section four hundred twenty-five of
 the real property tax law.
-  (6) Special cases. (A) In the case of property consisting of a
-cooperative apartment corporation that is described by paragraph (k) of
-subdivision two of section four hundred twenty-five of the real property
-tax law, the amount of the credit allowable with respect to a
-cooperative apartment shall be equal to the basic STAR tax savings for
-the school district portion, or the enhanced STAR tax savings for the
-school district portion, whichever is applicable. Provided, however,
-that in the case of a cooperative apartment corporation that is
-described by subparagraph (iv) of paragraph (k) of subdivision two of
-section four hundred twenty-five of the real property tax law, the
-credit allowable with respect to a cooperative apartment shall be equal
-to one-third of such amount.
+  (6) Special cases.
   (B) In the case of property consisting of a mobile home that is
 described in paragraph (1) of subdivision two of section four hundred
 twenty-five of the real property tax law, the amount of the credit
@@ -5298,13 +5336,22 @@ determined in clause (ii) of this subparagraph by the basic or enhanced
 STAR tax savings for the school district portion, whichever is
 applicable; and
   (iv) add the products determined in clause (iii) of this subparagraph.
-  (7) Disclosure of incomes. Where the commissioner has denied a
-taxpayer's claim for the credit authorized by this subsection in whole
-or in part on the grounds that the affiliated income of the parcel in
-question exceeds the applicable limit, the commissioner shall have the
-authority to reveal to that taxpayer the names and incomes of the other
-taxpayers whose incomes were included in the computation of such
-affiliated income.
+  (7) Disclosure of incomes and other information. (A) Where the
+commissioner has denied a taxpayer's claim for the credit authorized by
+this subsection in whole or in part on the grounds that the affiliated
+income of the parcel in question exceeds the applicable limit, the
+commissioner shall have the authority to reveal to that taxpayer the
+names and incomes of the other taxpayers whose incomes were included in
+the computation of such affiliated income.
+  (B) Notwithstanding any provision of law to the contrary, the names
+and addresses of individuals who have applied for or are receiving the
+credit authorized by this subsection may be disclosed to assessors and
+county directors of real property tax services. In addition, where an
+agreement is in place between the commissioner and the head of the tax
+department of another state, such information may be disclosed to such
+official or his or her designees. Such information shall be considered
+confidential and shall not be subject to further disclosure pursuant to
+the freedom of information law or otherwise.
   (8) Proof of claim. The commissioner may require a qualified taxpayer
 to furnish the following information in support of his or her claim for
 credit under this subsection: affiliated income, the total school
@@ -5343,23 +5390,47 @@ of this paragraph, and
 such credit in a taxable year may continue to receive such advance
 payments in future taxable years without reapplying as long as he or she
 remains eligible therefor.
-  (B) On or before September fifteenth of each year, or as soon
-thereafter as practicable, the commissioner shall determine the
-eligibility of taxpayers for this credit utilizing the information
-available to him or her as obtained from the applications submitted on
-or before July first of that year, or such later date as may have been
-prescribed by the commissioner for that purpose, and from such other
-sources as the commissioner deems reliable and appropriate. For those
-taxpayers whom the commissioner has determined eligible for this credit,
-the commissioner shall advance a payment in the amount specified in
+  (B) On or before the date specified below, or as soon thereafter as
+practicable, the commissioner shall determine the eligibility of
+taxpayers for this credit utilizing the information available to him or
+her as obtained from the applications submitted on or before July first
+of that year, or such later date as may have been prescribed by the
+commissioner for that purpose, and from such other sources as the
+commissioner deems reliable and appropriate. For those taxpayers whom
+the commissioner has determined eligible for this credit, the
+commissioner shall advance a payment in the amount specified in
 paragraph three, four or six of this subsection, whichever is
-applicable. Such payment shall be issued by September thirtieth of the
-year the credit is allowed, or as soon thereafter as is practicable.
-Nothing contained herein shall be deemed to preclude the commissioner
-from issuing payments after September thirtieth to qualified taxpayers
-whose applications were made after July first of that year, or such
-later date as may have been prescribed by the commissioner for such
-purpose.
+applicable. Such payment shall be issued by the date specified below, or
+as soon thereafter as is practicable; provided that if such payment is
+issued after such date, it shall be subject to interest at the rate
+prescribed by subparagraph (A) of paragraph two of subsection (j) of
+section six hundred ninety-seven of this article. Nothing contained
+herein shall be deemed to preclude the commissioner from issuing
+payments after such date to qualified taxpayers whose applications were
+made after July first of that year, or such later date as may have been
+prescribed by the commissioner for such purpose.
+  (i) The applicable dates for this purpose are as follows:
+  (I) If the school district tax roll is filed with the commissioner on
+or before July first, the determination of eligibility shall be made by
+July fifteenth, or as soon thereafter as is practicable, and the advance
+payment shall be issued by July thirtieth, or as soon thereafter as is
+practicable.
+  (II) If the school district tax roll is filed with the commissioner
+after July first and on or before September first, the determination of
+eligibility shall be made by September fifteenth, or as soon thereafter
+as is practicable, and the advance payment shall be issued by September
+thirtieth, or as soon thereafter as is practicable.
+  (III) If the school district tax roll is filed with the commissioner
+after September first, the determination of eligibility shall be made by
+the fifteenth day after such filing, or as soon thereafter as is
+practicable, and the advance payment shall be issued by the thirtieth
+day after such filing, or as soon thereafter as is practicable.
+  (ii) Notwithstanding the foregoing provisions of this subparagraph, in
+the case of taxpayers whose primary residence is a cooperative apartment
+or a mobile home that is subject to the provisions of subparagraph (A)
+or (B) of paragraph six of this subsection, the payment shall be issued
+by the sixtieth day following receipt of all of the data needed to
+properly calculate the credit, or as soon thereafter as is practicable.
   (C) A taxpayer who has failed to receive an advance payment that he or
 she believes was due to him or her, or who has received an advance
 payment that he or she believes is less than the amount that was due to
@@ -5414,6 +5485,39 @@ state tax liability. When the calculation of a city tax surcharge is
 based in whole or in part upon the net state tax of an individual, the
 credit authorized by this subsection shall not be taken into account in
 the calculation of such net state tax.
+  (13) (A) Nothing herein shall be construed to preclude the
+commissioner from making a preliminary advance payment of the credit
+based upon an estimate of the STAR tax savings applicable to a school
+district portion, where he or she finds that attempting to ascertain the
+actual STAR tax savings applicable to the school district portion would
+jeopardize the timely issuance of the payment. When making such an
+estimate, the commissioner shall consider the STAR tax savings
+applicable in the school district fiscal year preceding the associated
+fiscal year, the allowable levy growth factor applicable to the
+calculation of the tax levy limit for the associated fiscal year
+pursuant to paragraph a of subdivision two of section two thousand
+twenty-three-a of the education law, taxable assessed value where
+appropriate, and such other information that in his or her judgment will
+help make the estimate as accurate as possible.
+  (B) Nothing herein shall be construed to preclude the commissioner
+from making a preliminary advance payment of the credit without
+attempting to ascertain the taxpayer's qualifying taxes, where he or she
+finds that attempting to ascertain the taxpayer's qualifying taxes would
+jeopardize the timely issuance of the payment.
+  (C) If the commissioner determines that a taxpayer received a
+preliminary advance payment that is above or below the advance payment
+to which he or she was entitled under this subsection, the commissioner
+shall provide notice to such taxpayer that the next advance payment due
+to such taxpayer under this subsection shall be adjusted to reconcile
+such underpayment or overpayment; provided, however, the commissioner
+shall permit a taxpayer to request that such adjustment be made on an
+originally filed timely income tax return for the tax year in which such
+overpayment or underpayment occurred, provided such return is filed on
+or before the due date for such return, determined without regard to
+extensions.
+  (D) A taxpayer who received a preliminary advance payment that
+constitutes an overpayment shall not be required to pay interest on the
+amount of the overpayment.
   (fff) Farm workforce retention credit. (1) A taxpayer shall be allowed
 a credit, to be computed as provided in section forty-two of this
 chapter, against the tax imposed by this article.
@@ -5437,24 +5541,91 @@ will be paid thereon. For purposes of this subsection, no credit shall
 be granted to an individual with respect to whom a deduction under
 subsection (c) of section one hundred fifty-one of the internal revenue
 code is allowable to another taxpayer for the taxable year.
-  (2) The amount of the credit under this paragraph shall be determined
+  (2) The amount of the credit under this subsection shall be determined
 based upon the taxpayer's income as defined in subparagraph (ii) of
 paragraph (b) of subdivision four of section four hundred twenty-five of
-the real property tax law. For the purposes of this paragraph, any
-taxpayer under subparagraphs (A) and (B) of this paragraph with income
-of more than two hundred fifty thousand dollars shall not receive a
-credit.
+the real property tax law.
+  (3) For taxable years beginning in two thousand sixteen, the credit
+shall be determined as provided in this paragraph, provided that for the
+purposes of this paragraph, any taxpayer under subparagraphs (A) and (B)
+of this paragraph with income of more than two hundred fifty thousand
+dollars shall not receive a credit.
   (A) Married individuals filing joint returns and surviving spouses. In
 the case of married individuals who make a single return jointly and of
 a surviving spouse, the credit shall be one hundred twenty-five dollars.
   (B) All others. In the case of an unmarried individual, a head of a
 household or a married individual filing a separate return, the credit
 shall be sixty-two dollars and fifty cents.
-  (3) Part-year residents. If a taxpayer changes status during the
+  (4) For taxable years beginning after two thousand sixteen, the credit
+shall equal the "fixed" amount provided by paragraph (4-a) of this
+subsection plus the "rate reduction" amount provided by paragraph (4-b)
+of this subsection.
+  (4-a) The "fixed" amount of the credit shall be determined as provided
+in this paragraph, provided that any taxpayer with income of more than
+two hundred fifty thousand dollars shall not receive such amount.
+  (A) Married individuals filing joint returns and surviving spouses. In
+the case of married individuals who make a single return jointly and of
+a surviving spouse, the "fixed" amount of the credit shall be one
+hundred twenty-five dollars.
+  (B) All others. In the case of an unmarried individual, a head of a
+household or a married individual filing a separate return, the "fixed"
+amount of the credit shall be sixty-two dollars and fifty cents.
+  (4-b) The "rate reduction" amount of the credit shall be determined as
+provided in this paragraph, provided that any taxpayer with income of
+more than five hundred thousand dollars shall not receive such amount.
+  (A) For married individuals who make a single return jointly and for a
+surviving spouse:
+If the city taxable income is:         The "rate reduction" amount is:
+Not over $21,600                       0.171% of the city taxable income
+Over $21,600 but not over $500,000     $37 plus 0.228% of excess over
+                                         $21,600
+Over $500,000                              Not applicable
+  (B) For a head of household:
+If the city taxable income is:         The "rate reduction" amount is:
+Not over $14,400                       0.171% of the city taxable income
+Over $14,400 but not over $500,000     $25 plus 0.228% of excess over
+                                         $14,400
+Over $500,000                              Not applicable
+  (C) For an unmarried individual or a married individual filing
+a separate return:
+If the city taxable income is:         The "rate reduction" amount is:
+Not over $12,000                       0.171% of the city taxable income
+Over $12,000 but not over $500,000     $21 plus 0.228% of excess over
+                                         $12,000
+Over $500,000                              Not applicable
+  (5) Part-year residents. If a taxpayer changes status during the
 taxable year from resident to nonresident, or from nonresident to
 resident, the school tax reduction credit authorized by this subsection
 shall be prorated according to the number of months in the period of
 residence.
+  (hhh) Life sciences research and development tax credit. (1) Allowance
+of credit. A taxpayer who is eligible pursuant to section forty-three of
+this chapter shall be allowed a credit to be computed as provided in
+such section against the tax imposed by this article.
+  (2) Application of credit. If the amount of the credit allowable under
+this subsection for any taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded as provided in section six hundred eighty-six of
+this article, provided, however, that no interest shall be paid thereon.
+  (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
+has been certified by the commissioner of labor as a certified employer
+pursuant to section twenty-five-c of the labor law shall be allowed a
+credit against the tax imposed by this article equal to the amount
+specified under subdivision (c) of section twenty-five-c of the labor
+law. In no event shall the taxpayer be allowed a credit greater than the
+amount of the credit listed on the final certificate of tax credit.
+  (B) A taxpayer that is a partner in a partnership, member of a limited
+liability company or shareholder in an S corporation that has been
+certified by the commissioner of labor as a certified employer pursuant
+to section twenty-five-c of the labor law shall be allowed its pro rata
+share of the credit earned by the partnership, limited liability company
+or S corporation.
+  (2) If the amount of the credit allowed under this subsection exceeds
+the taxpayer's tax for the taxable year, any amount of credit not
+deductible in that taxable year will be treated as an overpayment of tax
+to be credited or refunded in accordance with the provisions of section
+six hundred eighty-six of this article. Provided, however, no interest
+will be paid thereon.
   * (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,

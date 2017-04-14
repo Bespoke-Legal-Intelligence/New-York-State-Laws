@@ -59,29 +59,29 @@ over a three year period beginning in the first taxable year in which
 the credit may be claimed and in the next two succeeding taxable years,
 with one-third of the amount of the credit allowed being claimed in each
 year.
-  (6) For the period two thousand fifteen through two thousand nineteen,
-in addition to the amount of credit established in paragraph two of
-subdivision (a) of this section, a taxpayer shall be allowed a credit
-equal to the product (or pro rata share of the product, in the case of a
-member of a partnership) of ten percent and the amount of wages or
-salaries paid to individuals directly employed (excluding those employed
-as writers, directors, music directors, producers and performers,
-including background actors with no scripted lines) for services
-performed by those individuals in one of the counties specified in this
-paragraph in connection with the post production work on a qualified
-film with a minimum budget of five hundred thousand dollars at a
-qualified post production facility in one of the counties listed in this
-paragraph. For purposes of this additional credit, the services must be
-performed in one or more of the following counties: Albany, Allegany,
-Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango, Clinton,
-Cortland, Delaware, Erie, Essex, Franklin, Fulton, Genesee, Hamilton,
-Herkimer, Jefferson, Lewis, Livingston, Madison, Monroe, Montgomery,
-Niagara, Oneida, Onondaga, Ontario, Orleans, Oswego, Otsego,
+  (6) For the period two thousand fifteen through two thousand
+twenty-two, in addition to the amount of credit established in paragraph
+two of subdivision (a) of this section, a taxpayer shall be allowed a
+credit equal to the product (or pro rata share of the product, in the
+case of a member of a partnership) of ten percent and the amount of
+wages or salaries paid to individuals directly employed (excluding those
+employed as writers, directors, music directors, producers and
+performers, including background actors with no scripted lines) for
+services performed by those individuals in one of the counties specified
+in this paragraph in connection with the post production work on a
+qualified film with a minimum budget of five hundred thousand dollars at
+a qualified post production facility in one of the counties listed in
+this paragraph. For purposes of this additional credit, the services
+must be performed in one or more of the following counties: Albany,
+Allegany, Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Chenango,
+Clinton, Cortland, Delaware, Erie, Essex, Franklin, Fulton, Genesee,
+Hamilton, Herkimer, Jefferson, Lewis, Livingston, Madison, Monroe,
+Montgomery, Niagara, Oneida, Onondaga, Ontario, Orleans, Oswego, Otsego,
 Schenectady, Schoharie, Schuyler, Seneca, St. Lawrence, Steuben, Tioga,
 Tompkins, Wayne, Wyoming, or Yates. The aggregate amount of tax credits
 allowed pursuant to the authority of this paragraph shall be five
 million dollars each year during the period two thousand fifteen through
-two thousand nineteen of the annual allocation made available to the
+two thousand twenty-two of the annual allocation made available to the
 empire state film post production credit pursuant to paragraph four of
 subdivision (e) of section twenty-four of this article. Such aggregate
 amount of credits shall be allocated by the governor's office for motion
@@ -101,7 +101,7 @@ in no event may the total of the credits allocated under this paragraph
 and the credits allocated under paragraph five of subdivision (a) of
 section twenty-four of this article exceed five million dollars in any
 year during the period two thousand fifteen through two thousand
-nineteen.
+twenty-two.
   (b) Definitions. As used in this section the following terms shall
 have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall

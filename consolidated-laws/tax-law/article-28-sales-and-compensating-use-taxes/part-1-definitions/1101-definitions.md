@@ -134,6 +134,17 @@ in consideration for the issuance of its stock.
 a partnership interest therein.
   (B) For an exception applicable to this subparagraph, see subdivision
 (q) of section eleven hundred eleven of this article.
+  (v) Notwithstanding the provisions of subparagraph (i) of this
+paragraph, the following sales of tangible personal property shall be
+deemed to be retail sales: (A) a sale to a single member limited
+liability company or a subsidiary for resale to its member or owner,
+where such single member limited liability company or subsidiary is
+disregarded as an entity separate from its owner for federal income tax
+purposes (without reference to any special rules related to the
+imposition of certain federal taxes), including but not limited to
+certain employment and excise taxes; (B) a sale to a partnership for
+resale to one or more of its partners; or (C) a sale to a trustee of a
+trust for resale to one or more beneficiaries of such trust.;
   (5) Sale, selling or purchase. Any transfer of title or possession or
 both, exchange or barter, rental, lease or license to use or consume
 (including, with respect to computer software, merely the right to

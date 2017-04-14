@@ -89,5 +89,5 @@ recovery years prior to, but not including, the recapture year, and the
 denominator of which is the total recovery period.
   6. Termination. The credit allowed by subdivision two of this section
 shall not apply in taxable years beginning after December thirty-first,
-two thousand seventeen.
+two thousand twenty-two.
 ```
