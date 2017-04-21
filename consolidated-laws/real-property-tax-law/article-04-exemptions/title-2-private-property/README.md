@@ -10,7 +10,7 @@
 - [§ 420-A Nonprofit organizations; mandatory class](420a-nonprofit-organizations-mandatory-class.md)
 - [§ 420-B Nonprofit organizations; permissive class](420b-nonprofit-organizations-permissive-class.md)
 - [§ 420-C Exemption from local real property taxation of certain low income housing accommodations in a city having a population of one million or ...](420c-exemption-from-local-real-property-taxation-of-certain-low-income-housing.md)
-- [§ 421-A Exemption of new multiple dwellings from local taxation](421a-exemption-of-new-multiple-dwellings-from-local-taxation.md)
+- [§ 421-A Affordable New York Housing Program](421a-affordable-new-york-housing-program.md)
 - [§ 421-B Exemption of certain private dwellings, multiple dwellings and improvements from local taxation; certain cases](421b-exemption-of-certain-private-dwellings-multiple-dwellings-and-improvements.md)
 - [§ 421-C Exemption of certain new multiple dwellings from local taxation](421c-exemption-of-certain-new-multiple-dwellings-from-local-taxation.md)
 - [§ 421-D Exemption of multiple dwellings financed by the New York state housing finance agency from local taxation](421d-exemption-of-multiple-dwellings-financed-by-the-new-york-state-housing-finance.md)
@@ -173,8 +173,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         420-c.   Exemption from local real property taxation of certain
                    low income housing accommodations in a city having a
                    population of one million or more.
-        421-a.   Exemption of new multiple dwellings from local
-                   taxation.
+        421-a.   Affordable New York Housing Program.
         421-b.   Exemption of certain private dwellings, multiple
                    dwellings and improvements from local taxation;
                    certain cases.

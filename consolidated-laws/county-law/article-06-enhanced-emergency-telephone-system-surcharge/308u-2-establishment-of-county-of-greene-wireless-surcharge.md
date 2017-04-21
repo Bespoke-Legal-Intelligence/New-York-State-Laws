@@ -72,4 +72,5 @@ for payment of the above mentioned costs in such fiscal year, such
 excess shall be reserved and carried over for the payment of those costs
 in the following fiscal year.
   * NB There are 2 § 308-u's
+  * NB Repealed December 1, 2017
 ```

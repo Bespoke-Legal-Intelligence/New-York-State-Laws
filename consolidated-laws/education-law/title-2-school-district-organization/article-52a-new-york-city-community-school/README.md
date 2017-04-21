@@ -31,6 +31,7 @@
 - [§ 2590-S Prompt payment of salaries](2590s-prompt-payment-of-salaries.md)
 - [§ 2590-T New York city comptroller audits](2590t-new-york-city-comptroller-audits.md)
 - [§ 2590-U New York city independent budget office reports](2590u-new-york-city-independent-budget-office-reports.md)
+- [§ 2590-V Notice to students regarding certain test scores](2590v-notice-to-students-regarding-certain-test-scores.md)
 
 <details>
 <summary>Official heading of Article 52-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,6 +73,7 @@ Section 2590.     Application of article.
         2590-s.   Prompt payment of salaries.
         2590-t.   New York city comptroller audits.
         2590-u.   New York city independent budget office reports.
+        2590-v.   Notice to students regarding certain test scores.
 ```
 
 </details>

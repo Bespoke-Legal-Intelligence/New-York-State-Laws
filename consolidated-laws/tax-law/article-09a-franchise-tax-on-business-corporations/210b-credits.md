@@ -2420,7 +2420,7 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
-  52. Life sciences research and development tax credit. (a) Allowance
+  * 52. Life sciences research and development tax credit. (a) Allowance
 of credit. A taxpayer that is eligible pursuant to section forty-three
 of this chapter shall be allowed a credit to be computed as provided in
 such section against the tax imposed by this article.
@@ -2436,4 +2436,60 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
+  * NB There are 2 sb 52's
+  * 52. Credit for farm donations to food pantries. (a) General. In the
+case of a taxpayer that is an eligible farmer, there shall be allowed a
+credit, to be computed as hereinafter provided against the tax imposed
+by this article for taxable years beginning on and after January first,
+two thousand eighteen. The amount of the credit shall be twenty-five
+percent of the fair market value of the taxpayer's qualified donations
+made to any eligible food pantry during the taxable year, not to exceed
+five thousand dollars per taxable year. If the taxpayer is a partner in
+a partnership, then the cap imposed by the preceding sentence shall be
+applied at the entity level, so that the aggregate credit allowed to all
+partners of such entity in the taxable year does not exceed five
+thousand dollars.
+  (b) Eligible farmer. For purposes of this subdivision, the term
+"eligible farmer" means a taxpayer whose federal gross income from
+farming for the taxable year is at least two-thirds of excess federal
+gross income. Excess federal gross income means the amount of federal
+gross income from all sources for the taxable year in excess of thirty
+thousand dollars. For purposes of this paragraph, payments from the
+state's farmland protection program, administered by the department of
+agriculture and markets, shall be included as federal gross income from
+farming for otherwise eligible farmers.
+  (c) Qualified donation. For purposes of this subdivision, the term
+"qualified donation" means a donation of apparently wholesome food, as
+defined in section 170(e)(3)(C)(vi) of the internal revenue code, grown
+or produced within this state, by an eligible farmer to an eligible food
+pantry.
+  (d) Eligible food pantry. For purposes of this subdivision, the term
+"eligible food pantry" means any food pantry, food bank, or other
+emergency food program operating within this state that has qualified
+for tax exemption under section 501(c)(3) of the internal revenue code.
+  (e) Determination of fair market value. For purposes of this
+subdivision, to determine the fair market value of apparently wholesome
+food donated to an eligible food pantry, the standards set forth under
+section 170(e)(3)(C)(v) of the internal revenue code shall apply.
+  (f) Record of donation. To claim a credit under this subdivision, a
+taxpayer must get and keep a receipt from the eligible food pantry
+showing: (i) the name of the eligible food pantry; (ii) the date and
+location of the qualified donation; and (iii) a reasonably detailed
+description of the qualified donation. A letter or other written
+communication from the eligible food pantry acknowledging receipt of the
+contribution and containing the information in subparagraphs (i), (ii),
+and (iii) of this paragraph will serve as a receipt.
+  (g) Application of credit. The credit allowed under this subdivision
+for any taxable year will not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * NB There are 2 sb 52's
 ```

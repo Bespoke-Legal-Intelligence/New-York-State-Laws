@@ -2305,11 +2305,15 @@ subsection (ddd)                     section two hundred ten-B
 * (xliii) Life sciences research and Amount of credit under
 development tax credit under         subdivision fifty-two of
 subsection (hhh)                     section two hundred ten-B
-  * NB There are 2 clause (xliii)'s
+  * NB There are 3 clause (xliii)'s
 * (xliii) Empire state apprenticeshipAmount of credit under
 tax credit under subsection (vvv)    subdivision forty-nine of
                                      section two hundred ten-B
-  * NB There are 2 clause (xliii)'s
+  * NB There are 3 clause (xliii)'s
+* (xliii) Farm donations to food     Amount of credit under
+pantries credit under                subdivision fifty-two of
+subsection (n-2)                     section two hundred ten-B
+  * NB There are 3 clause (xliii)'s
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3433,6 +3437,63 @@ spouses who file a joint federal return but who are required to
 determine their New York taxes separately, the credit allowed pursuant
 to this subsection may be applied against the tax of either or divided
 between them as they may elect.
+  (n-2) Credit for farm donations to food pantries. (1) General. In the
+case of a taxpayer who is an eligible farmer, there shall be allowed a
+credit, to be computed as hereinafter provided, against the tax imposed
+by this article for taxable years beginning on and after January first,
+two thousand eighteen. The amount of the credit shall be twenty-five
+percent of the fair market value of the taxpayer's qualified donations
+made to any eligible food pantry during the taxable year, not to exceed
+five thousand dollars per taxable year. If the taxpayer is a partner in
+a partnership or a shareholder of a New York S corporation, then the cap
+imposed by the preceding sentence shall be applied at the entity level,
+so that the aggregate credit allowed to all partners or shareholders of
+such entity in the taxable year does not exceed five thousand dollars.
+  (2) Eligible farmer. For purposes of this subsection, the term
+"eligible farmer" means a taxpayer whose federal gross income from
+farming for the taxable year is at least two-thirds of excess federal
+gross income.  Excess federal gross income means the amount of federal
+gross income from all sources for the taxable year reduced by the sum
+(not to exceed thirty thousand dollars) of those items included in
+federal gross income that consist of: (i) earned income, (ii) pension
+payments, including social security payments, (iii) interest, and (iv)
+dividends. For purposes of this paragraph, the term "earned income"
+shall mean wages, salaries, tips and other employee compensation, and
+those items of gross income that are includible in the computation of
+net earnings from self-employment. For the purposes of this paragraph,
+payments from the state's farmland protection program, administered by
+the department of agriculture and markets, shall be included as federal
+gross income from farming for otherwise eligible farmers.
+  (3) Qualified donation. For purposes of this subsection, the term
+"qualified donation" means a donation of any apparently wholesome food,
+as defined in section 170(e)(3)(C)(vi) of the internal revenue code,
+grown or produced within this state, by an eligible farmer to an
+eligible food pantry.
+  (4) Eligible food pantry. For purposes of this subsection, the term
+"eligible food pantry" means any food pantry, food bank, or other
+emergency food program operating within this state that has qualified
+for tax exemption under section 501(c)(3) of the internal revenue code.
+  (5) Determination of fair market value. For purposes of this
+subsection, to determine the fair market value of apparently wholesome
+food donated to an eligible food pantry, the standards set forth under
+section 170(e)(3)(C)(v) of the internal revenue code shall apply.
+  (6) Record of donation. To claim a credit under this subsection, a
+taxpayer must get and keep a receipt from the eligible food pantry
+showing: (i) the name of the eligible food pantry; (ii) the date and
+location of the qualified donation; and (iii) a reasonably detailed
+description of the qualified donation. A letter or other written
+communication from the eligible food pantry acknowledging receipt of the
+contribution and containing the information in subparagraphs (i), (ii),
+and (iii) of this paragraph will serve as a receipt.
+  (7) Application of credit. A taxpayer shall be allowed a credit under
+this subsection against the tax imposed by this article. However, if the
+amount of credit allowed under this subsection for any taxable year
+exceeds the taxpayer's tax for such year, the excess will be treated as
+an overpayment of tax to be credited or refunded in accordance with the
+provisions of section six hundred eighty-six of this article. Provided,
+however, the provisions of subsection (c) of section six hundred
+eighty-eight of this article notwithstanding, no interest will be paid
+thereon.
   (o) Credit for employment of persons with disabilities. (1) Allowance
 of credit. A taxpayer shall be allowed a credit, to be computed as
 hereinafter provided, against the tax imposed by this article, for

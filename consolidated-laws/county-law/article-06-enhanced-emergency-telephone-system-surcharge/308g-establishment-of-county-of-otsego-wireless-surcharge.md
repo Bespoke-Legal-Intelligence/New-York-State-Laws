@@ -4,7 +4,7 @@
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
 
 ```text
-  § 308-g. Establishment of county of Otsego wireless surcharge. 1.
+  * § 308-g. Establishment of county of Otsego wireless surcharge. 1.
 Notwithstanding the provisions of any law to the contrary, the county of
 Otsego, acting through its board of representatives, is hereby
 authorized and empowered to adopt, amend or repeal local laws to impose
@@ -69,4 +69,5 @@ amount of all such monies exceeds the amount necessary for payment of
 the above mentioned costs in such fiscal year, such excess shall be
 reserved and carried over for the payment of those costs in the
 following fiscal year.
+  * NB Repealed December 1, 2017
 ```

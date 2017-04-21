@@ -15,6 +15,7 @@
 - [§ 60.08 Authorized dispositions; resentencing of certain controlled substance offenders](60.08-authorized-dispositions-resentencing-of-certain-controlled-substance.md)
 - [§ 60.09 Authorized dispositions; resentencing of certain persons convicted of specified controlled substance offenses](60.09-authorized-dispositions-resentencing-of-certain-persons-convicted.md)
 - [§ 60.10 Authorized disposition; juvenile offender](60.10-authorized-disposition-juvenile-offender.md)
+- [§ 60.10-A Authorized disposition; adolescent offender](60.10-a-authorized-disposition-adolescent-offender.md)
 - [§ 60.11 Authorized dispositions; criminal possession of a weapon in the fourth degree](60.11-authorized-dispositions-criminal-possession-of-a-weapon-in-the-fourth.md)
 - [§ 60.11-A Authorized dispositions; certain criminal possession of a weapon in the third degree offenders](60.11-a-authorized-dispositions-certain-criminal-possession-of-a-weapon.md)
 - [§ 60.12 Authorized disposition; alternative indeterminate sentence of imprisonment; domestic violence cases](60.12-authorized-disposition-alternative-indeterminate-sentence.md)
@@ -56,6 +57,7 @@ Section 60.00   Applicability of provisions.
         60.09   Authorized dispositions; resentencing of certain persons
                   convicted of specified controlled substance offenses.
         60.10   Authorized disposition; juvenile offender.
+        60.10-a Authorized disposition; adolescent offender.
         60.11   Authorized dispositions; criminal possession of a weapon
                   in the fourth degree.
         60.11-a Authorized dispositions; certain criminal possession of

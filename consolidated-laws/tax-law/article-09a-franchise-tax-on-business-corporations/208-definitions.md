@@ -507,6 +507,11 @@ of section two hundred ten-B of this article.
 the extent such taxes are used as the basis of the calculation of the
 real property tax credit for manufacturers allowed under subdivision
 forty-three of section two hundred ten-B of this article.
+  (22) the amount of any deduction for charitable contributions allowed
+under section one hundred seventy of the internal revenue code to the
+extent such contributions are used as the basis of the calculation of
+the farm donations to food pantries credit under subdivision fifty-two
+of section two hundred ten-B of this article.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

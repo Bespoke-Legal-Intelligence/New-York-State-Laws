@@ -22,6 +22,7 @@
 - [§ 1818 Real estate transfer tax](1818-real-estate-transfer-tax.md)
 - [§ 1820 Authorized combative sports tax](1820-authorized-combative-sports-tax.md)
 - [§ 1821 Medallion taxicab owners tax in the metropolitan commuter transportation district](1821-medallion-taxicab-owners-tax-in-the-metropolitan-commuter-transportation.md)
+- [§ 1822 Violation of the state assessment fee on transportation network company prearranged trips](1822-violation-of-the-state-assessment-fee-on-transportation-network-company.md)
 
 <details>
 <summary>Official heading of Part 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -48,6 +49,8 @@ Section 1811.   Estate, gift and transfer taxes.
         1820.   Authorized combative sports tax.
         1821.   Medallion taxicab owners tax in the metropolitan
                   commuter transportation district.
+        1822.   Violation of the state assessment fee on transportation
+                  network company prearranged trips.
 ```
 
 </details>

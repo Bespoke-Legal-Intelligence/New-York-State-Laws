@@ -379,11 +379,11 @@ of the federal social security act.
   (g) * (i) Managed long term care plans and demonstrations may enroll
 eligible persons in the plan or demonstration upon the completion of a
 comprehensive assessment that shall include, but not be limited to, an
-evaluation of the medical, social and environmental needs of each
-prospective enrollee in such program. This assessment shall also serve
-as the basis for the development and provision of an appropriate plan of
-care for the enrollee. Upon approval of federal waivers pursuant to
-paragraph (b) of this subdivision which require medical assistance
+evaluation of the medical, social, cognitive, and environmental needs of
+each prospective enrollee in such program. This assessment shall also
+serve as the basis for the development and provision of an appropriate
+plan of care for the enrollee. Upon approval of federal waivers pursuant
+to paragraph (b) of this subdivision which require medical assistance
 recipients who require community-based long term care services to enroll
 in a plan, and upon approval of the commissioner, a plan may enroll an
 applicant who is currently receiving home and community-based services

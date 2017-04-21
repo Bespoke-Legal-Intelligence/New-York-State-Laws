@@ -11,7 +11,6 @@
 - [§ 2873 Regulation of eligible borrowers](2873-regulation-of-eligible-borrowers.md)
 - [§ 2874 Loans](2874-loans.md)
 - [§ 2874-A Mortgage loans to eligible secured hospital borrowers](2874a-mortgage-loans-to-eligible-secured-hospital-borrowers.md)
-- [§ 2874-B Refinancing mortgage loans to eligible secured hospital borrowers](2874b-refinancing-mortgage-loans-to-eligible-secured-hospital-borrowers.md) *(repealed)*
 - [§ 2875 Conditions and security for loans](2875-conditions-and-security-for-loans.md)
 - [§ 2876 Occupancy or other rates](2876-occupancy-or-other-rates.md)
 - [§ 2877 Transfer of real property](2877-transfer-of-real-property.md)

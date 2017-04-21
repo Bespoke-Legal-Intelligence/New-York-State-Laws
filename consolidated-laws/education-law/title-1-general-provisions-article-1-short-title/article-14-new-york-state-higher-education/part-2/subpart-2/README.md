@@ -9,6 +9,8 @@
 - [§ 667 Tuition assistance program awards](667-tuition-assistance-program.md)
 - [§ 667-A Supplemental tuition assistance program](667a-supplemental-tuition.md)
 - [§ 667-C Part-time tuition assistance program awards](667c-part-time-tuition-assistance.md)
+- [§ 667-C-1 New York state part-time scholarship (PTS) award program](667c-1-new-york-state-part-time.md)
+- [§ 667-D Enhanced tuition awards](667d-enhanced-tuition-awards.md)
 - [§ 668 Regents awards for children of deceased and disabled veterans](668-regents-awards-for-children.md)
 - [§ 668-A Regents awards for children of deceased police officers, peace officers, firefighters and volunteer firefighters](668a-regents-awards-for-children.md)
 - [§ 668-B Memorial scholarships for children, spouses and financial dependents of deceased firefighters, volunteer firefighters, police officers, p...](668b-memorial-scholarships.md)
@@ -24,6 +26,7 @@
 - [§ 669-E New York state science, technology, engineering and mathematics incentive program](669e-new-york-state-science.md)
 - [§ 669-F New York state masters-in-education teacher incentive scholarship program](669f-new-york-state-masters.md)
 - [§ 669-G The New York state achievement and investment in merit scholarship (NY-AIMS)](669g-the-new-york-state-achievement.md)
+- [§ 669-H Excelsior scholarship](669h-excelsior-scholarship.md)
 
 <details>
 <summary>Official heading of Subpart 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,41 +34,45 @@
 ```text
                                SUBPART II
                              GENERAL AWARDS
-Section 666.   Tuition awards for part-time undergraduate students.
-        667.   Tuition assistance program awards.
-        667-a. Supplemental tuition assistance program.
-        667-c. Part-time tuition assistance program awards.
-        668.   Regents awards for children of deceased and disabled
-                 veterans.
-        668-a. Regents awards for children of deceased police officers,
-                 peace officers, firefighters and volunteer
-                 firefighters.
-        668-b. Memorial scholarships for children, spouses and financial
-                 dependents of deceased firefighters, volunteer
-                 firefighters, police officers, peace officers, and
-                 emergency medical service workers.
-        668-c. Awards for Vietnam veterans' children born with Spina
-                 Bifida enrolled in approved undergraduate or graduate
-                 programs at degree granting institutions.
-        668-d. World trade center memorial scholarships.
-        668-e. Military enhanced recognition, incentive and tribute
-                 ("MERIT") scholarships.
-        668-f. American Airlines flight 587 memorial scholarships.
-        668-g. Continental Airlines flight 3407 memorial scholarships.
-        669.   Regents awards for children of deceased state correction
-                 officers and state civilian employees of a correction
-                 facility.
-        669-a. Veterans tuition awards program.
-        669-b. Recruitment incentive and retention program for members
-                 of the New York state organized militia.
-        669-d. New York state math and science teaching incentive
-                 program.
-        669-e. New York state science, technology, engineering and
-                 mathematics incentive program.
-        669-f. New York state masters-in-education teacher incentive
-                 scholarship program.
-        669-g. The New York state achievement and investment in merit
-                 scholarship (NY-AIMS).
+Section 666.     Tuition awards for part-time undergraduate students.
+        667.     Tuition assistance program awards.
+        667-a.   Supplemental tuition assistance program.
+        667-c.   Part-time tuition assistance program awards.
+        667-c-1. New York state part-time scholarship (PTS) award
+                   program.
+        667-d.   Enhanced tuition awards.
+        668.     Regents awards for children of deceased and disabled
+                   veterans.
+        668-a.   Regents awards for children of deceased police
+                   officers, peace officers, firefighters and volunteer
+                   firefighters.
+        668-b.   Memorial scholarships for children, spouses and
+                   financial dependents of deceased firefighters,
+                   volunteer firefighters, police officers, peace
+                   officers, and emergency medical service workers.
+        668-c.   Awards for Vietnam veterans' children born with Spina
+                   Bifida enrolled in approved undergraduate or graduate
+                   programs at degree granting institutions.
+        668-d.   World trade center memorial scholarships.
+        668-e.   Military enhanced recognition, incentive and tribute
+                   ("MERIT") scholarships.
+        668-f.   American Airlines flight 587 memorial scholarships.
+        668-g.   Continental Airlines flight 3407 memorial scholarships.
+        669.     Regents awards for children of deceased state
+                   correction officers and state civilian employees of a
+                   correction facility.
+        669-a.   Veterans tuition awards program.
+        669-b.   Recruitment incentive and retention program for members
+                   of the New York state organized militia.
+        669-d.   New York state math and science teaching incentive
+                   program.
+        669-e.   New York state science, technology, engineering and
+                   mathematics incentive program.
+        669-f.   New York state masters-in-education teacher incentive
+                   scholarship program.
+        669-g.   The New York state achievement and investment in merit
+                   scholarship (NY-AIMS).
+        669-h.   Excelsior scholarship.
 ```
 
 </details>

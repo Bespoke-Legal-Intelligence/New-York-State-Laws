@@ -19,6 +19,7 @@
 - [§ 186-D Transportation business tax on utility services in Erie county](186d-transportation-business-tax-on-utility-services-in-erie-county.md)
 - [§ 186-E Excise tax on telecommunication services](186e-excise-tax-on-telecommunication-services.md)
 - [§ 186-F Public safety communications surcharge](186f-public-safety-communications-surcharge.md)
+- [§ 186-G Wireless communications surcharge authorized](186g-wireless-communications-surcharge-authorized.md)
 - [§ 187 Credit for special additional mortgage recording tax](187-credit-for-special-additional-mortgage-recording-tax.md)
 - [§ 187-A Credit for employment of persons with disabilities](187a-credit-for-employment-of-persons-with-disabilities.md)
 - [§ 187-B Alternative fuels and electric vehicle recharging property credit](187b-alternative-fuels-and-electric-vehicle-recharging-property-credit.md)
@@ -92,6 +93,7 @@ Section 182.     Additional franchise tax on certain oil companies.
                    county.
         186-e.   Excise tax on telecommunication services.
         186-f.   Public safety communications surcharge.
+        186-g.   Wireless communications surcharge authorized.
         187.     Credit for special additional mortgage recording tax.
         187-a.   Credit for employment of persons with disabilities.
         187-b.   Alternative fuels and electric vehicle recharging

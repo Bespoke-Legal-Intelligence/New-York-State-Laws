@@ -202,6 +202,7 @@
 - [§ 98-C Legal services assistance fund](98c-legal-services-assistance-fund.md)
 - [§ 99 Withholding of state assistance upon default in payment of bonds held by the state](99-withholding-of-state-assistance-upon-default-in-payment-of-bonds-held.md)
 - [§ 99-A Justice court fund](99a-justice-court-fund.md)
+- [§ 99-AA Retiree health benefit trust fund](99aa-retiree-health-benefit-trust-fund.md)
 - [§ 99-B Withholding of state aid for school purposes upon default in payment of obligations of the prospective recipient](99b-withholding-of-state-aid-for-school-purposes-upon-default-in-payment.md)
 - [§ 99-C Withholding of state aid upon failure of municipalities and school districts to repay health insurance reserve receipts when required](99c-withholding-of-state-aid-upon-failure-of-municipalities-and-school-districts.md)
 - [§ 99-D City university stabilization account](99d-city-university-stabilization-account.md)
@@ -476,6 +477,7 @@ Section 70.        Classification of funds.
         98-c.      Legal services assistance fund.
         99.        Withholding of state assistance upon default in
                      payment of bonds held by the state.
+        99-a.      Justice court fund.
         99-a.      Justice court fund.
         99-b.      Withholding of state aid for school purposes upon
                      default in payment of obligations of the

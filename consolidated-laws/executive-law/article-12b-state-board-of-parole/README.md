@@ -19,6 +19,7 @@
 - [§ 259-M Compacts with other states for out-of-state parolee supervision](259m-compacts-with-other-states-for-out-of-state-parolee-supervision.md)
 - [§ 259-MM Interstate compact for adult offender supervision](259mm-interstate-compact-for-adult-offender-supervision.md)
 - [§ 259-O Interstate hearings for parole violations](259o-interstate-hearings-for-parole-violations.md)
+- [§ 259-P Interstate detention](259p-interstate-detention.md)
 - [§ 259-Q Civil actions against division personnel](259q-civil-actions-against-division-personnel.md)
 - [§ 259-R Release on medical parole for terminally ill inmates](259r-release-on-medical-parole-for-terminally-ill-inmates.md)
 - [§ 259-S Release on medical parole for inmates suffering significant debilitating illnesses](259s-release-on-medical-parole-for-inmates-suffering-significant-debilitating.md)
@@ -47,6 +48,7 @@ Section 259.    Definitions.
                   supervision.
         259-mm. Interstate compact for adult offender supervision.
         259-o.  Interstate hearings for parole violations.
+        259-p.  Interstate detention.
         259-q.  Civil actions against division personnel.
         259-r.  Release on medical parole for terminally ill inmates.
         259-s.  Release on medical parole for inmates suffering

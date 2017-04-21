@@ -7,6 +7,7 @@
 
 - [§ 180 Ordinances to regulate use of bicycles](180-ordinances-to-regulate-use-of-bicycles.md)
 - [§ 181 Ordinances to regulate taxicabs and limousines](181-ordinances-to-regulate-taxicabs-and-limousines.md)
+- [§ 182 Local regulation of transportation network companies](182-local-regulation-of-transportation-network-companies.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
            REGULATION OF USE OF BICYCLES AND SIMILAR VEHICLES
 Section 180. Ordinances to regulate use of bicycles.
         181. Ordinances to regulate taxicabs and limousines.
+        182. Local regulation of transportation network companies.
 ```
 
 </details>

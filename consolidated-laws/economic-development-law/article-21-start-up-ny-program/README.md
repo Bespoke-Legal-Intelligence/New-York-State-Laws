@@ -13,7 +13,6 @@
 - [§ 435 Approval of tax-free NY areas](435-approval-of-tax-free-ny-areas.md)
 - [§ 436 Businesses locating in tax-free NY areas](436-businesses-locating-in-tax-free-ny-areas.md)
 - [§ 437 MWBE and prevailing wage requirements](437-mwbe-and-prevailing-wage-requirements.md)
-- [§ 438 Disclosure authorization and reporting requirements](438-disclosure-authorization-and-reporting-requirements.md)
 - [§ 439 Conflict of interest guidelines](439-conflict-of-interest-guidelines.md)
 - [§ 440 Prohibition of anti-competitive behavior](440-prohibition-of-anti-competitive-behavior.md)
 
@@ -31,7 +30,6 @@ Section 430. Short title.
         435. Approval of tax-free NY areas.
         436. Businesses locating in tax-free NY areas.
         437. MWBE and prevailing wage requirements.
-        438. Disclosure authorization and reporting requirements.
         439. Conflict of interest guidelines.
         440. Prohibition of anti-competitive behavior.
 ```

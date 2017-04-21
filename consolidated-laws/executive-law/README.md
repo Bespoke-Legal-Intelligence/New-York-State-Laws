@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 861 |
-| Last changed | 14 Apr 2017 |
+| Sections | 865 |
+| Last changed | 21 Apr 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (112 lines)](chapter-text.md)
+[Full chapter text (114 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [21 Apr 2017](../../changes/2017/2017-04-21.md): 28 amended, 4 added
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 2 amended
 - [17 Mar 2017](../../changes/2017/2017-03-17.md): 3 amended
 - [10 Mar 2017](../../changes/2017/2017-03-10.md): 2 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 1 added
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 2 amended, 1 added
 - [25 Nov 2016](../../changes/2016/2016-11-25.md): 1 amended
-- [18 Nov 2016](../../changes/2016/2016-11-18.md): 1 added
 
 ## Contents
 
@@ -53,6 +53,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 3 — Executive Department](article-03-executive-department/)
 - [Article 4 — Department of Audit and Control](article-04-department-of-audit-and-control/)
 - [Article 4-A — Office of the State Inspector General](article-04a-office-of-the-state-inspector-general/)
+- [Article 4-B — Office of the Inspector General of New York For Transportation](article-04b-office-of-the-inspector-general-of-new-york/)
 - [Article 5 — Department of Law](article-05-department-of-law/)
 - [Article 6 — Department of State](article-06-department-of-state/)
 - [Article 6-A — State Register](article-06a-state-register/)

@@ -54,6 +54,8 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
                    districts (§§ 1201-1264).
        29-A.     Tax on medallion taxicab trips in the metropolitan
                    commuter transportation district (§§ 1280-1290).
+       29-B.     State assessment fee on transportation network company
+                   prearranged trips (§§ 1291-1298).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).

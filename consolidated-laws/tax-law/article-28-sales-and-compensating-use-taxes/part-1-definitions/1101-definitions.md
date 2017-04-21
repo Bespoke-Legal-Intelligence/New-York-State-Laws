@@ -618,8 +618,8 @@ limitation, concrete blocks, windows, door units, wall or roof panels,
 trusses and dormers; (ii) a shed, gazebo, any unattached garage or the
 like (even if made or built by a manufacturer of modular home modules);
 or (iii) a mobile home.
-  (34) Transportation service. The service of transporting, carrying or
-conveying a person or persons by livery service; whether to a single
+  * (34) Transportation service. The service of transporting, carrying
+or conveying a person or persons by livery service; whether to a single
 destination or to multiple destinations; and whether the compensation
 paid by or on behalf of the passenger is based on mileage, trip, time
 consumed or any other basis. A service that begins and ends in this
@@ -648,6 +648,41 @@ in such a city and regulated by such taxi and limousine commission; and
 the charges for service provided by an affiliated livery vehicle are on
 the basis of flat rate, time, mileage, or zones and not on a garage to
 garage basis.
+  * NB Effective until July 9, 2017
+  * (34) Transportation service. The service of transporting, carrying
+or conveying a person or persons by livery service; whether to a single
+destination or to multiple destinations; and whether the compensation
+paid by or on behalf of the passenger is based on mileage, trip, time
+consumed or any other basis. A service that begins and ends in this
+state is deemed intra-state even if it passes outside this state during
+a portion of the trip. However, transportation service does not include
+transportation of persons in connection with funerals. Transportation
+service includes transporting, carrying, or conveying property of the
+person being transported, whether owned by or in the care of such
+person. Notwithstanding the foregoing, transportation service shall not
+include a TNC prearranged trip, as that term is defined in article
+forty-four-B of the vehicle and traffic law, that is subject to tax
+under article twenty-nine-B of this chapter. In addition to what is
+included in the definition of "receipt" in paragraph three of this
+subdivision, receipts from the sale of transportation service subject to
+tax include any handling, carrying, baggage, booking service,
+administrative, mark-up, additional, or other charge, of any nature,
+made in conjunction with the transportation service. Livery service
+means service provided by limousine, black car or other motor vehicle,
+with a driver, but excluding (i) a taxicab, (ii) a bus, and (iii), in a
+city of one million or more in this state, an affiliated livery vehicle,
+and excluding any scheduled public service. Limousine means a vehicle
+with a seating capacity of up to fourteen persons, excluding the driver.
+Black car means a for-hire vehicle dispatched from a central facility.
+"Affiliated livery vehicle" means a for-hire motor vehicle with a
+seating capacity of up to six persons, including the driver, other than
+a black car or luxury limousine, that is authorized and licensed by the
+taxi and limousine commission of a city of one million or more to be
+dispatched by a base station located in such a city and regulated by
+such taxi and limousine commission; and the charges for service provided
+by an affiliated livery vehicle are on the basis of flat rate, time,
+mileage, or zones and not on a garage to garage basis.
+  * NB Effective July 9, 2017
   (35) Modular home modules. The component sections that will be
 installed on-site to construct a modular home, each of which sections is
 (i) engineered and manufactured in a factory, (ii) shipped or delivered

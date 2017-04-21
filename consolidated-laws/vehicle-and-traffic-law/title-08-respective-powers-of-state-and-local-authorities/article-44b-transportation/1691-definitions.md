@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  *§ 1691. Definitions. As used in this article: 1. "Transportation
+  * § 1691. Definitions. As used in this article: 1. "Transportation
 network company vehicle" or "TNC vehicle" means a vehicle that is:
   (a) used by a transportation network company driver to provide a TNC
 prearranged trip originating within the state of New York; and

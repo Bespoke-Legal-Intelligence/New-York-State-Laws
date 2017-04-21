@@ -15,6 +15,8 @@
 - [§ 74 Discharge on holidays, Saturdays and Sundays](74-discharge-on-holidays-saturdays-and-sundays.md)
 - [§ 75 Notice of voting rights](75-notice-of-voting-rights.md)
 - [§ 76 Notice of transitional services for inmates released from correctional facilities](76-notice-of-transitional-services-for-inmates-released-from-correctional.md)
+- [§ 77 Adolescent offender facilities](77-adolescent-offender-facilities.md)
+- [§ 78 Discharge plans](78-discharge-plans.md)
 - [§ 79 Leasing of state institutions to cities or counties for the confinement of prisoners](79-leasing-of-state-institutions-to-cities-or-counties-for-the-confinement.md)
 - [§ 79-A Closure of correctional facilities; notice](79a-closure-of-correctional-facilities-notice.md)
 - [§ 79-B Adaptive reuse plan for consideration prior to prison closure](79b-adaptive-reuse-plan-for-consideration-prior-to-prison-closure.md)
@@ -38,6 +40,8 @@ Section 70.   Establishment, use and designation of correctional
         75.   Notice of voting rights.
         76.   Notice of transitional services for inmates released from
                 correctional facilities.
+        77.   Adolescent offender facilities.
+        78.   Discharge plans.
         79.   Leasing of state institutions to cities or counties for
                 the confinement of prisoners.
         79-a. Closure of correctional facilities; notice.

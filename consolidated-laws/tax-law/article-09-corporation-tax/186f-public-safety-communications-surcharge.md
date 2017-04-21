@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
 
 ```text
-  § 186-f. Public safety communications surcharge. 1. Definitions. As
+  § 186-f. Public safety communications surcharge. * 1. Definitions. As
 used in this section, where not otherwise specifically defined and
 unless a different meaning is clearly required:
   (a) "Place of primary use" has the same meaning as that term is
@@ -31,13 +31,46 @@ provider as defined in subparagraph (ii) of paragraph twenty-seven of
 subdivision (b) of section eleven hundred one of this chapter, provided
 that the home service provider provides wireless communications service
 and has one or more wireless communications customers in New York state.
-  2. Public safety communications surcharge. (a) A surcharge on wireless
-communications service provided to a wireless communications customer
-with a place of primary use in this state is imposed at the rate of one
-dollar and twenty cents per month on each wireless communications device
-in service during any part of each month. The surcharge must be
-reflected and made payable on bills rendered to the wireless
-communications customer for wireless communication service.
+  * NB Effective until December 1, 2017
+  * 1. Definitions. As used in this section, where not otherwise
+specifically defined and unless a different meaning is clearly required:
+  (a) "Place of primary use" has the same meaning as that term is
+defined in paragraph twenty-six of subdivision (b) of section eleven
+hundred one of this chapter.
+  (b) "Wireless communications customer" means mobile telecommunications
+customer as defined in subparagraph (i) of paragraph twenty-seven of
+subdivision (b) of section eleven hundred one of this chapter, who
+contracts for or is the end user of wireless communications service.
+  (c) "Wireless communications device" means any equipment used to
+access a wireless communications service.
+  (d) "Wireless communications service" means all commercial mobile
+services, as that term is defined in section 332(d) of title 47 of the
+United States Code, as amended from time to time, including, but not
+limited to, all broadband personal communications services, wireless
+radio telephone services, geographic area specialized and enhanced
+specialized mobile radio services, and incumbent-wide area specialized
+mobile radio licensees, which offer real time, two-way voice or data
+service that is interconnected with the public switched telephone
+network or otherwise provides access to emergency communications
+services.
+  (e) "Wireless communications service supplier" means a home service
+provider as defined in subparagraph (ii) of paragraph twenty-seven of
+subdivision (b) of section eleven hundred one of this chapter, provided
+that the home service provider provides wireless communications service
+and has one or more wireless communications customers in New York state.
+  (f) "Prepaid wireless communications seller" means a person making a
+retail sale of prepaid wireless communications service.
+  (g) "Prepaid wireless communications service" means a prepaid mobile
+calling service as defined in paragraph twenty-two of subdivision (b) of
+section eleven hundred one of this chapter.
+  * NB Effective December 1, 2017
+  * 2. Public safety communications surcharge. (a) A surcharge on
+wireless communications service provided to a wireless communications
+customer with a place of primary use in this state is imposed at the
+rate of one dollar and twenty cents per month on each wireless
+communications device in service during any part of each month. The
+surcharge must be reflected and made payable on bills rendered to the
+wireless communications customer for wireless communication service.
   (b) Each wireless communications service supplier providing wireless
 communications service in New York state must act as a collection agent
 for the state for the collection of the surcharge. The wireless
@@ -68,16 +101,90 @@ fifty-eight and three-tenths percent of the total collections of the
 surcharge imposed by this section, provided that the supplier files any
 required return and remits the surcharge due to the commissioner on or
 before its due date.
-  3. Applicability of article twenty-seven. For purposes of article
+  * NB Effective until December 1, 2017
+  * 2. Public safety communications surcharge. (a) (1) A surcharge on
+wireless communications service provided to a wireless communications
+customer with a place of primary use in this state is imposed at the
+rate of one dollar and twenty cents per month on each wireless
+communications device in service during any part of each month. The
+surcharge must be reflected and made payable on bills rendered to the
+wireless communications customer for wireless communication service.
+  (2) A surcharge is imposed on the retail sale of each prepaid wireless
+communications service, whether or not any tangible personal property is
+sold therewith, at the rate of ninety cents per retail sale. A sale of a
+prepaid wireless communications service occurs in this state if the sale
+takes place at a seller's business location in the state. If the sale
+does not take place at the seller's place of business, it shall be
+conclusively determined to take place at the purchaser's shipping
+address or, if there is no item shipped, at the purchaser's billing
+address, or, if the seller does not have that address, at such address
+as approved by the commissioner that reasonably reflects the customer's
+location at the time of the sale of the prepaid wireless communications
+service.
+  (b) The surcharges must be reported and paid to the commissioner on a
+quarterly basis on or before the twentieth day of the month following
+each quarterly period ending on the last day of February, May, August
+and November, respectively. The payments must be accompanied by a return
+in the form and containing the information the commissioner may
+prescribe.
+  (c) The surcharges must be added as a separate line item to bills
+furnished by a wireless communications service supplier to its
+customers, or must be added as a separate line item to a sales slip,
+invoice, receipt, or other statement of the price, if any, that is
+furnished by a prepaid wireless communications seller to a purchaser,
+and must be identified as the "public safety communications surcharge".
+  (d) Each wireless communications service supplier and prepaid wireless
+communications seller is entitled to retain, as an administrative fee,
+an amount equal to three percent of fifty-eight and three-tenths percent
+of the total collections of the surcharges imposed by this section,
+provided that the supplier or seller files any required return and
+remits the surcharge due to the commissioner on or before its due date.
+  * NB Effective December 1, 2017
+  * 3. Applicability of article twenty-seven. For purposes of article
 twenty-seven of this chapter as applied to this section by section two
 hundred seven-b of this article, the term "taxpayer" in article
 twenty-seven refers to a wireless communications service supplier
 subject to this section or a wireless communications customer subject to
 this section, as the case may be, and the term "tax" in article
 twenty-seven refers to the surcharge imposed by this section.
-  4. Exemptions. The state of New York and any of its agencies,
+  * NB Effective until December 1, 2017
+  * 3. Exemption. Lifeline consumers shall be exempt from the surcharges
+imposed by this section.
+  * NB Effective December 1, 2017
+  * 4. Exemptions. The state of New York and any of its agencies,
 instrumentalities and political subdivisions are exempt from the
 surcharge imposed by this section.
+  * NB Effective until December 1, 2017
+  * 4. Applicable provisions. (a) Except as otherwise provided in this
+section, the surcharges imposed under this section shall be administered
+and collected by the commissioner in a like manner as the taxes imposed
+by article twenty-eight of this chapter. All the provisions of article
+twenty-eight of this chapter, including the provisions relating to
+definitions, exemptions, returns, personal liability for the tax,
+collection of tax from the customer, payment of tax, and the
+administration of the taxes imposed by such article, shall apply to the
+surcharges imposed under the authority of this section so far as those
+provisions can be made applicable to the surcharges imposed by this
+section, with such modifications as may be necessary in order to adapt
+the language of those provisions to the surcharges imposed by this
+section. Those provisions shall apply with the same force and effect as
+if the language of those provisions had been set forth in full in this
+section, except to the extent that any of those provisions is either
+inconsistent with a provision of this section or is not relevant to the
+surcharge imposed by this section. For purposes of this section, any
+reference in this chapter to a tax or the taxes imposed by article
+twenty-eight of this chapter shall be deemed also to refer to the
+surcharges imposed by this section unless a different meaning is clearly
+required.
+  (b) Notwithstanding the provisions of paragraph (a) of this
+subdivision:
+  (1) the exemptions provided for in section eleven hundred sixteen of
+this chapter, other than the exemptions in paragraphs one, two and three
+of subdivision (a) of that section, shall not apply to the surcharges
+imposed by this section.
+  (2) the credit provided in subdivision (f) of section eleven hundred
+thirty-seven of this chapter shall not apply to this section.
+  * NB Effective December 1, 2017
   5. Deposits of surcharge monies collected and received.
 Notwithstanding any provision of law to the contrary, all surcharge
 monies collected and received by the commissioner under this section

@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 100 General powers of department](100-general-powers-of-department.md)
+- [§ 100-A Comprehensive economic development reporting](100a-comprehensive-economic-development-reporting.md)
 - [§ 101 Assistance of other departments, agencies and political subdivisions](101-assistance-of-other-departments-agencies-and-political-subdivisions.md)
 - [§ 102 Atomic energy council](102-atomic-energy-council.md)
 - [§ 103 General functions, powers and duties of council](103-general-functions-powers-and-duties-of-council.md)
@@ -21,13 +22,14 @@
                                 ARTICLE 4
                       GENERAL POWERS OF DEPARTMENT
 Section 100.   General powers of department.
-        101.   Assistance  of  other departments, agencies and political
+        100-a. Comprehensive economic development reporting.
+        101.   Assistance of other departments, agencies and political
                  subdivisions.
         102.   Atomic energy council.
         103.   General functions, powers and duties of council.
-        104.   Assistance of other departments, agencies  and  political
+        104.   Assistance of other departments, agencies and political
                  subdivisions; review of regulations.
-        104-a. Special  powers and duties of the department with respect
+        104-a. Special powers and duties of the department with respect
                  to employee ownership assistance.
         105.   Radioactive byproducts special fund.
         106.   No disqualification.

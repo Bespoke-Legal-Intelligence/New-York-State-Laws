@@ -26,6 +26,7 @@
 - [§ 13-M Care and treatment of injured employees by duly licensed psychologists](13m-care-and-treatment-of-injured-employees-by-duly-licensed-psychologists.md)
 - [§ 13-N Mandatory registration of entities which derive income from independent medical examinations](13n-mandatory-registration-of-entities-which-derive-income-from-independent-medical.md)
 - [§ 13-O Pharmaceutical fee schedule](13o-pharmaceutical-fee-schedule.md)
+- [§ 13-P Comprehensive prescription drug formulary](13p-comprehensive-prescription-drug-formulary.md)
 - [§ 14 Weekly wages basis of compensation](14-weekly-wages-basis-of-compensation.md)
 - [§ 14-A Double compensation and death benefits when minors illegally employed](14a-double-compensation-and-death-benefits-when-minors-illegally-employed.md)
 - [§ 15 Schedule in case of disability](15-schedule-in-case-of-disability.md)
@@ -103,6 +104,7 @@ Section  9.    Definitions.
         13-n.  Mandatory registration of entities which derive income
                  from independent medical examinations.
         13-o.  Pharmaceutical fee schedule.
+        13-p.  Comprehensive prescription drug formulary.
         14.    Weekly wages basis of compensation.
         14-a.  Double compensation and death benefits when minors
                  illegally employed.

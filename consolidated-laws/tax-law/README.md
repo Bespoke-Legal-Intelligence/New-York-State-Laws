@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,153 |
-| Last changed | 14 Apr 2017 |
+| Sections | 1,163 |
+| Last changed | 21 Apr 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (89 lines)](chapter-text.md)
+[Full chapter text (91 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [21 Apr 2017](../../changes/2017/2017-04-21.md): 8 amended, 10 added
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 21 amended, 2 added
 - [3 Mar 2017](../../changes/2017/2017-03-03.md): 1 amended
 - [3 Feb 2017](../../changes/2017/2017-02-03.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [11 Nov 2016](../../changes/2016/2016-11-11.md): 3 amended
 - [7 Oct 2016](../../changes/2016/2016-10-07.md): 9 amended
 - [2 Sep 2016](../../changes/2016/2016-09-02.md): 1 amended
-- [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 amended
 
 ## Contents
 
@@ -73,6 +73,7 @@ Assembly, do enact as follows:
 - [Article 28-B — Simplified Sales and Use Tax Administration](article-28b-simplified-sales-and-use-tax-administration/)
 - [Article 29 — Taxes Authorized For Cities, Counties and School Districts](article-29-taxes-authorized-for-cities-counties-and-school/)
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
+- [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)
 - [Article 30 — City Personal Income Tax](article-30-city-personal-income-tax/)
 - [Article 30-A — City Income Tax Surcharge](article-30a-city-income-tax-surcharge/)
 - [Article 30-B — City Earnings Tax On Nonresidents](article-30b-city-earnings-tax-on-nonresidents/)

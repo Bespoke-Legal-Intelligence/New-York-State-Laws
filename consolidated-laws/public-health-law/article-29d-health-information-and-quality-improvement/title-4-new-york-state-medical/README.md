@@ -9,7 +9,6 @@
 - [§ 2999-H Definitions](2999h-definitions.md)
 - [§ 2999-I Custody and administration of the fund](2999i-custody-and-administration-of-the-fund.md)
 - [§ 2999-J Payments from the fund](2999j-payments-from-the-fund.md)
-- [§ 2999-K Consumer and stakeholder workgroup](2999k-consumer-and-stakeholder-workgroup.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

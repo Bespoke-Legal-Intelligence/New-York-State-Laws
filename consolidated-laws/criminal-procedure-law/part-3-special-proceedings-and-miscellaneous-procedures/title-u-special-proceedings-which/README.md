@@ -6,6 +6,7 @@
 ## Contents
 
 - [Article 720 — Youthful Offender Procedure](article-720/)
+- [Article 722 — Proceedings Against Juvenile Offenders and Adolescent Offenders; Establishment of Youth Part and Related Procedures](article-722/)
 - [Article 725 — Removal of Proceeding Against Juvenile Offender to Family Court](article-725/)
 - [Article 730 — Mental Disease or Defect Excluding Fitness to Proceed](article-730/)
 

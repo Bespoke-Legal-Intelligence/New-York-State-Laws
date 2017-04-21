@@ -52,6 +52,8 @@ Section 1811.   Estate, gift and transfer taxes.
         1820.   Boxing and wrestling exhibitions tax.
         1821.   Medallion taxicab owners tax in the metropolitan
                   commuter transportation district.
+        1822.   Violation of the state assessment fee on transportation
+                  network company prearranged trips.
                      PART IV - MISCELLANEOUS CRIMES
 Section 1825.   Violation of secrecy provisions of the tax law.
         1826.   Use of tax or other notices to distribute advertising

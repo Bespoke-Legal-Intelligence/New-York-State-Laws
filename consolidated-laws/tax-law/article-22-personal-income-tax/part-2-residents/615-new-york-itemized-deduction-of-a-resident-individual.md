@@ -65,6 +65,12 @@ be effective, as determined under subsection (s) of section six hundred
 twelve.
   (8) The amount of any federal deduction for taxes imposed under
 article twenty-three of this chapter.
+  (9) with respect to a taxpayer who has claimed the farm donations to
+food pantries credit pursuant to subsection (n-2) of section six hundred
+six of this article, the taxpayer's New York itemized deductions shall
+be reduced by any charitable contribution deduction allowed under
+section one hundred seventy of the internal revenue code with respect to
+such donations.
   (d) Modifications increasing federal itemized deductions. The total
 amount of deductions from federal adjusted gross income shall be
 increased by:
@@ -107,6 +113,23 @@ and one hundred percent for taxable years beginning after two thousand
 three. Provided, however, no deduction shall be allowed under this
 paragraph to a taxpayer who claims the credit provided under subsection
 (t) of section six hundred six of this article.
+  (5) the full amount of union dues paid during the taxable year if the
+taxpayer was not allowed federal miscellaneous itemized deductions by
+operation of section 67 of the internal revenue code. If any amount of
+union dues representing federal miscellaneous itemized deductions was
+allowed, then the amount allowed as a New York itemized deduction for
+union dues paid shall be a percentage of the union dues disallowed by
+the operation of section 67 of the internal revenue code computed as
+follows. The amount allowed as a New York itemized deduction shall be
+computed by multiplying the total union dues paid by the taxpayer during
+the taxable year by a percentage determined by subtracting from one, a
+fraction where the numerator is the amount of federal miscellaneous
+deductions allowed and the denominator is the aggregate federal
+miscellaneous itemized deductions before application of the two-percent
+floor under section 67 of the internal revenue code. For the purposes of
+this paragraph, union dues are those amounts that are deductible as
+union dues and agency shop fees under section 162 of the internal
+revenue code.
   (e) Modifications of partners and shareholders of S corporations. (1)
 Partners and shareholders of S corporations which are not New York C
 corporations. The amounts of modifications under subsection (c) or under

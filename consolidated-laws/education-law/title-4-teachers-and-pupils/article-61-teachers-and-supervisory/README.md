@@ -66,6 +66,7 @@
 - [§ 3034 Teacher career recruitment clearinghouse](3034-teacher-career-recruitment-clearinghouse.md)
 - [§ 3035 Duties of commissioner; submission of fingerprints](3035-duties-of-commissioner-submission-of-fingerprints.md)
 - [§ 3036 Coursework for reporting child abuse and maltreatment for those with coaching licenses or coaching certificates](3036-coursework-for-reporting-child-abuse-and-maltreatment-for-those.md)
+- [§ 3037 Grants for hiring teachers](3037-grants-for-hiring-teachers.md)
 
 <details>
 <summary>Official heading of Article 61, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -176,6 +177,7 @@ Section 3001.   Qualifications of teachers.
         3036.   Coursework for reporting child abuse and maltreatment
                   for those with coaching licenses or coaching
                   certificates.
+        3037.   Grants for hiring teachers.
 ```
 
 </details>

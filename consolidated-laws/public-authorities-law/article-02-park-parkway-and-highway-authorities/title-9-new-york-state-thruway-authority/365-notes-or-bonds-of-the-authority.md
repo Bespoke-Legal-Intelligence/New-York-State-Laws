@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 2 — Park, Parkway and Highway Authorities](../README.md) › [Title 9 — New York State Thruway Authority](README.md)
 
 ```text
-  § 365. Notes or bonds of the authority. 1.  (a) Subject to the
+  § 365. Notes or bonds of the authority. 1. (a) Subject to the
 provisions of section three hundred sixty-six of this title, the
 authority shall have the power and is hereby authorized from time to
 time to issue its negotiable notes and bonds in conformity with
@@ -47,10 +47,7 @@ such price or prices as the authority may determine. Bonds and notes of
 the authority shall not be sold by the authority at private sale unless
 such sale and the terms thereof have been approved in writing by the
 comptroller, where such sale is not to the comptroller, or by the
-director of the budget, where such sale is to the comptroller. Bonds and
-notes sold at public sale shall be sold by the comptroller, as agent of
-the authority, in such manner as the authority, with the approval of the
-comptroller, shall determine.
+director of the budget, where such sale is to the comptroller.
   3. Any resolution or resolutions authorizing any notes or bonds or any
 issue thereof may contain provisions, which shall be a part of the
 contract with the holders thereof, as to
