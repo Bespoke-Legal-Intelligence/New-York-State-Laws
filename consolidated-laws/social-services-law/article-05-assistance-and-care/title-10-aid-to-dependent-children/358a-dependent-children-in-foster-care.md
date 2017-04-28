@@ -54,7 +54,7 @@ section, for approval of such instrument. In such cases involving a
 social services official, expenditures for the care and maintenance of
 such child from the date of the initial transfer of his care and custody
 to the social services official shall be subject to state reimbursement.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * (b) The social services official shall initiate the proceeding by
 filing the petition as soon as practicable, but in no event later than
 thirty days following removal of the child from the home provided,
@@ -81,7 +81,7 @@ expenditures for the care and maintenance of such child from the date of
 the initial transfer of his care and custody to the social services
 official shall be subject to state reimbursement, notwithstanding the
 provisions of section one hundred fifty-three-d of this chapter.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   (2) Contents of petition. (a) Any petition required or authorized
 pursuant to subdivision one of this section shall allege whether the
 parent, parents or guardian executed the instrument because the parent,

@@ -5,9 +5,9 @@
 
 ```text
   § 387. * Ineligibility for public foster care funds; fiscal penalties.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * Public foster care funds; ineligibility.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   * 1. The office of children and family services shall, by regulation,
 promulgate standards to determine that an authorized agency, or one or
 more of its programs or facilities, is ineligible to receive public
@@ -24,7 +24,7 @@ for children with similar personal and family characteristics; and
   (c) a pattern or practice of repeated violation of the provisions of
 this chapter or of the regulations of the office of children and family
 services promulgated thereunder.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * 1. The department shall, by regulation, promulgate standards to
 determine that an authorized agency, or one or more of its programs or
 facilities, is ineligible to receive public foster care funds. Such
@@ -48,7 +48,7 @@ hundred nine-h of this chapter and in consultation with public and
 voluntary authorized agencies, citizens' groups and concerned
 individuals and organizations including the state council on children
 and families.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   * 2. A determination of ineligibility to receive public foster care
 funds or the assessment of a fiscal penalty shall be made upon a finding
 of substantial noncompliance with one or more of the standards developed
@@ -59,7 +59,7 @@ relating to the revocation, suspension or limiting of operating
 certificates. Such determination shall be subject to judicial review in
 accordance with article seventy-eight of the civil practice law and
 rules.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * 2. A determination of ineligibility to receive public foster care
 funds shall be made upon a finding of substantial noncompliance with one
 or more of the standards developed and adopted pursuant to subdivision
@@ -69,7 +69,7 @@ sixty-d of this chapter relating to the revocation, suspension or
 limiting of operating certificates. Such determination shall be subject
 to judicial review in accordance with article seventy-eight of the civil
 practice law and rules.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   3. A determination of ineligibility to receive public foster care
 funds shall specify whether it applies to the agency generally or to a
 particular program or facility of the agency.
@@ -90,5 +90,5 @@ the reason or reasons for the determination of ineligibility.
 services pursuant to this section shall be deposited to the credit of
 the children and family services quality enhancement fund established
 pursuant to section ninety-seven-yyy of the state finance law.
-  * NB Repealed June 30, 2017
+  * NB Repealed June 30, 2022
 ```

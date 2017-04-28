@@ -4,9 +4,9 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-C — Medicaid Drug Utilization Review](README.md)
 
 ```text
-  § 369-bb. Drug utilization review board. 1. A nineteen-member drug
-utilization review board is hereby created in the department. The board
-is responsible for the establishment and implementation of medical
+  § 369-bb. Drug utilization review board.  1. A twenty-three-member
+drug utilization review board is hereby created in the department. The
+board is responsible for the establishment and implementation of medical
 standards and criteria for the retrospective and prospective DUR
 program.
   2. The members of the DUR board shall be appointed by the commissioner
@@ -30,7 +30,10 @@ been involved in activities related to health care consumer advocacy,
 including issues affecting Medicaid or EPIC recipients.
   (e) One person licensed and actively practicing as a nurse
 practitioner or midwife.
-  (f) The commissioner shall designate a person from the department to
+  (f) Two persons who are health care economists.
+  (g) One person who is an actuary.
+  (h) One person representing the department of financial services.
+  (i) The commissioner shall designate a person from the department to
 serve as chairperson of the board.
   3. The appointed members to the board, or its agents shall have no
 sanctions against them by medicare or medicaid.
@@ -156,7 +159,11 @@ among physicians, pharmacists, and recipients;
   (ix) Incorrect drug dosage/duration of drug treatments;
   (x) Drug allergy interactions; and
   (xi) Clinical abuse/misuse.
-  (g) The adoption and implementation of procedures designed to ensure
+  (g) The evaluation of specific drugs submitted to the board for review
+pursuant to section two hundred eighty of the public health law, and the
+formulation of recommended target supplemental rebates, in accordance
+with the standards established in such section.
+  (h) The adoption and implementation of procedures designed to ensure
 the confidentiality of any information collected, stored, retrieved,
 assessed or analyzed by the DUR board, staff to the board, or
 contractors to the DUR program, that identifies individual physicians,
@@ -164,9 +171,9 @@ pharmacists, or recipients. The board may have access to identifying
 information for purposes of carrying out intervention activities, but
 such identifying information may not be released to anyone other than a
 member of the DUR board or the department and its agents.
-  (h) The improper release of identifying information in violation of
+  (i) The improper release of identifying information in violation of
 this article may subject that person to criminal or civil penalties.
-  (i) The board may release cumulative non-identifying information for
+  (j) The board may release cumulative non-identifying information for
 purposes of legitimate research.
   9. The relationship of the DUR board to the department is as follows:
   (a) The department shall monitor the DUR board's compliance to federal

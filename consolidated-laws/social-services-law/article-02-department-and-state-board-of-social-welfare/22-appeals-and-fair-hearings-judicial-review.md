@@ -39,7 +39,7 @@ hundred fifty-five of this chapter.
 under the fully integrated duals advantage demonstration program, the
 commissioner may contract for the sole purpose of assisting staff of the
 office for such purpose.
-  * NB Expires January 1, 2018
+  * NB Expires January 1, 2019
   3. Persons entitled to appeal to the department pursuant to this
 section shall include:
   (a) Applicants for or recipients of aid to dependent children,
@@ -58,11 +58,11 @@ to such law;
 chapter;
   * (e) Aggrieved persons, agencies or social services districts
 described in section three hundred seventy-two-e of this chapter;
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * (e) Aggrieved persons, agencies or social services districts
 described in sections one hundred fifty-three-d, three hundred
 seventy-two-e and three hundred ninety-eight-b of this chapter;
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   (f) Unless an agreement is in effect for federal administration of
 additional state payments pursuant to section two hundred eleven of this
 chapter, applicants for and recipients of additional state payments as

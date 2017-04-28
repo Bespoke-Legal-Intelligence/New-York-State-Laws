@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,684 (2 repealed) |
-| Last changed | 13 Jan 2017 |
+| Sections | 1,691 |
+| Last changed | 28 Apr 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -33,6 +33,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 
 ## Recent changes
 
+- [28 Apr 2017](../../changes/2017/2017-04-28.md): 7 amended, 9 added, 2 removed
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 2 amended
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 1 amended
 - [9 Dec 2016](../../changes/2016/2016-12-09.md): 5 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 12 amended
 - [8 Jul 2016](../../changes/2016/2016-07-08.md): 1 amended
-- [3 Jun 2016](../../changes/2016/2016-06-03.md): 1 amended
 
 ## Contents
 

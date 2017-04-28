@@ -465,6 +465,11 @@ for patients whose placement in a residential health care facility is
 for the purpose of receiving time-limited rehabilitation, to be followed
 by discharge from the facility, during the period such time-limited
 services are provided.
+  (f) The commissioner shall establish a prospective per diem adjustment
+for all nursing homes, other than nursing homes providing services
+primarily to children under the age of twenty-one, beginning April
+first, two thousand seventeen and each year thereafter sufficient to
+achieve eighteen million dollars in savings in each state fiscal year.
   2-d. Residential health care facility supplemental payments.
 Notwithstanding any inconsistent provision of law, rule or regulation
 and subject to the availability of federal financial participation, for
@@ -811,17 +816,20 @@ years beginning April first, two thousand twelve and April first, two
 thousand thirteen, and of up to five hundred million dollars in such
 aggregate annual additional payments for the state fiscal years
 beginning April first, two thousand fourteen, April first, two thousand
-fifteen and April first, two thousand sixteen. The amount allocated to
-each eligible public residential health care facility for this period
-shall be computed in accordance with the provisions of paragraph (f) of
-this subdivision, provided, however, that patient days shall be utilized
-for such computation reflecting actual reported data for two thousand
-three and each representative succeeding year as applicable, and
-provided further, however, that, in consultation with impacted
-providers, of the funds allocated for distribution in the state fiscal
-year beginning April first, two thousand thirteen, up to thirty-two
-million dollars may be allocated in accordance with paragraph (f-1) of
-this subdivision.
+fifteen and April first, two thousand sixteen and of up to five hundred
+million dollars in such aggregate annual additional payments for the
+state fiscal years beginning April first, two thousand seventeen, April
+first, two thousand eighteen, and April first, two thousand nineteen.
+The amount allocated to each eligible public residential health care
+facility for this period shall be computed in accordance with the
+provisions of paragraph (f) of this subdivision, provided, however, that
+patient days shall be utilized for such computation reflecting actual
+reported data for two thousand three and each representative succeeding
+year as applicable, and provided further, however, that, in consultation
+with impacted providers, of the funds allocated for distribution in the
+state fiscal year beginning April first, two thousand thirteen, up to
+thirty-two million dollars may be allocated in accordance with paragraph
+(f-1) of this subdivision.
   (f) The amount allocated to each eligible public residential health
 care facility for each period shall be calculated as the result of (A)
 the total payment for each period multiplied by (B) the ratio of patient
@@ -1770,48 +1778,17 @@ other residential health care facilities.
 "reserved bed day" is a day for which a governmental agency pays a
 residential health care facility to reserve a bed for a person eligible
 for medical assistance pursuant to title eleven of article five of the
-social services law while he or she is temporarily hospitalized or on
-leave of absence from the facility.
+social services law while he or she is on therapeutic leave of absence
+from the facility.
   (b) Notwithstanding any other provisions of this section or any other
 law or regulation to the contrary, for reserved bed days provided on
 behalf of persons twenty-one years of age or older:
   (i) payments for reserved bed days shall be made at ninety-five
 percent of the Medicaid rate otherwise payable to the facility for
-services provided on behalf of such person;
+services provided on behalf of such person; and
   (ii) payment to a facility for reserved bed days provided on behalf of
-such person for temporary hospitalizations may not exceed fourteen days
-in any twelve month period;
-  (iii) payment to a facility for reserved bed days provided on behalf
-of such person for non-hospitalization leaves of absence may not exceed
-ten days in any twelve month period.
-  (c)(i) Notwithstanding any contrary provision of this subdivision or
-any other law and subject to the availability of federal financial
-participation, with regard to services provided to residential health
-care facility residents twenty-one years of age and older, the
-commissioner shall promulgate regulations, and may promulgate emergency
-regulations, effective for periods on and after July first, two thousand
-twelve, establishing reimbursement rates for reserved bed days.
-  (ii) Such regulations shall, for each Medicaid patient for any twelve
-month period, provide for reimbursement for reserved bed days for: (A)
-up to an aggregate of fourteen days for hospitalizations and for other
-therapeutic leave of absences consistent with a plan of care ordered by
-such patient's treating health care professional; and (B) up to an
-aggregate of ten days of other leaves of absence.
-  (iii) No later than thirty days after promulgation of such
-regulations, the commissioner shall advise the chairs of the senate and
-assembly finance and health committees of the projected reductions
-expected to be achieved under the methodology set forth in such
-regulations.
-  (iv) In the event the commissioner determines, in consultation with
-the director of the budget, that the regulations promulgated pursuant to
-subparagraph (i) of this paragraph shall achieve projected aggregate
-Medicaid savings, as determined by the commissioner, of less than forty
-million dollars for the state fiscal year beginning April first, two
-thousand twelve, and each state fiscal year thereafter, the commissioner
-shall establish a prospective per diem rate adjustment for all nursing
-homes, other than nursing homes providing services primarily to children
-under the age of twenty-one, sufficient to achieve such forty million
-dollars in savings for each such state fiscal year.
+such person for therapeutic leaves of absence may not exceed ten days in
+any twelve month period.
   26. Notwithstanding any inconsistent provision of law, for rate
 periods on and after April first, two thousand ten, residential health
 care facility Medicaid rates of payment shall not include reimbursement

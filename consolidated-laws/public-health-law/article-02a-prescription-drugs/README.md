@@ -17,7 +17,7 @@
                            PRESCRIPTION DRUGS
 Title I.   Preferred drug and clinical drug review programs (§§
              270-277).
-      II.  Prescription drugs; various provisions (§§ 278).
+      II.  Prescription drugs; various provisions (§§ 278--280-b).
       III. Prescription forms, electronic prescribing and language
              assistance (§ 281).
 ```

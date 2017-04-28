@@ -24,7 +24,9 @@ services.
   2. In addition to payments made for health home services pursuant to
 subdivision one of this section, the commissioner is authorized to pay
 additional amounts to providers of health home services that meet
-process or outcome standards specified by the commissioner.
+process or outcome standards specified by the commissioner. Such
+additional amounts may be paid with state funds only if federal
+financial participation for such payments is unavailable.
   2-a. Up to fifteen million dollars in state funding may be used to
 fund health home infrastructure development. Such funds shall be used to
 develop enhanced systems to support Health Home operations including

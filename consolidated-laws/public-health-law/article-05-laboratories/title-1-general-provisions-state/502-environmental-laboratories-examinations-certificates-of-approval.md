@@ -85,4 +85,7 @@ one thousand dollars or by both such fine and imprisonment. A second or
 subsequent conviction shall be punishable by imprisonment for not more
 than one year or a fine of not more than two thousand five hundred
 dollars or by both such fine and imprisonment.
+  10. The department may require an environmental laboratory to report
+laboratory test results to the department, or to any other health
+department in an electronic manner prescribed by the department.
 ```

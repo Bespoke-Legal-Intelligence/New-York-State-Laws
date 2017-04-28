@@ -27,6 +27,7 @@
 - [§ 516-A Reciprocal driver license agreements with provinces of Canada](516a-reciprocal-driver-license-agreements-with-provinces-of-canada.md)
 - [§ 516-B Reciprocal agreements concerning reporting of traffic offenses and administrative action thereon](516b-reciprocal-agreements-concerning-reporting-of-traffic-offenses.md)
 - [§ 517 Interstate compact guaranteeing appearance](517-interstate-compact-guaranteeing-appearance.md)
+- [§ 518 Reciprocal agreements concerning suspension or revocation of registration of a motor vehicle for violations of toll collection regulations](518-reciprocal-agreements-concerning-suspension-or-revocation.md)
 
 <details>
 <summary>Official heading of Article 20, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -74,6 +75,9 @@ Section 510.    Suspension, revocation and reissuance of licenses and
         516-b.  Reciprocal agreements concerning reporting of traffic
                   offenses and administrative action thereon.
         517.    Interstate compact guaranteeing appearance.
+        518.    Reciprocal agreements concerning suspension or
+                  revocation of registration of a motor vehicle for
+                  violations of toll collection regulations.
 ```
 
 </details>

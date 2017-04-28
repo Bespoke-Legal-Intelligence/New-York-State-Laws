@@ -247,8 +247,8 @@ adjustments shall be the same as if calculated retrospectively.
   (b) Notwithstanding the provisions of paragraph (a) of this
 subdivision, for covered lives assessment rate periods on and after
 January first, two thousand fifteen through December thirty-first, two
-thousand seventeen, for amounts collected in the aggregate in excess of
-one billion forty-five million dollars on an annual basis, prospective
+thousand twenty, for amounts collected in the aggregate in excess of one
+billion forty-five million dollars on an annual basis, prospective
 adjustments shall be suspended if the annual reconciliation calculation
 from the prior year would otherwise result in a decrease to the regional
 allocation of the specified gross annual payment amount for that region,
@@ -412,5 +412,5 @@ and for the time periods covered by such agreements, provided, however,
 that the commissioner may audit future retroactive adjustments to
 payments made for such periods based on reports filed by payors
 subsequent to such agreements.
-  * NB Expires December 31, 2017
+  * NB Expires December 31, 2020
 ```

@@ -130,7 +130,7 @@ income is between one hundred eighty-six percent and two hundred eight
 percent of the non-farm federal poverty level or the gross equivalent of
 such net income, but no more than forty-five dollars per month per
 family; and
-  * NB Expires July 1, 2017
+  * NB Expires July 1, 2019
   (iv) effective September first, two thousand eight, twenty dollars per
 month for each eligible child whose family gross household income is
 between two hundred fifty-one percent and three hundred percent of the

@@ -396,7 +396,7 @@ that service:
       $50.01 or more                       $3.00
   (ii) co-payments charged pursuant to this subdivision for each
 discharge for inpatient care shall be twenty-five dollars.
-  (iii) Notwithstanding any other provision of this paragraph, co-
+  * (iii) Notwithstanding any other provision of this paragraph, co-
 payments charged for each generic prescription drug dispensed shall be
 one dollar and for each brand name prescription drug dispensed shall be
 three dollars; provided, however, that the co-payments charged for each
@@ -409,6 +409,15 @@ preferred drug, and the co-payments charged for each brand name
 prescription drug reimbursed pursuant to subparagraph (ii) of paragraph
 (a-1) of subdivision four of section three hundred sixty-five-a of this
 title shall be one dollar.
+  * NB Effective until July 1, 2017
+  * (iii) Notwithstanding any other provision of this paragraph,
+co-payments charged for each generic prescription drug dispensed shall
+be one dollar and for each brand name prescription drug dispensed shall
+be two dollars and fifty cents; provided, however, that the co-payments
+charged for each brand name prescription drug reimbursed pursuant to
+subparagraph (ii) of paragraph (a-1) of subdivision four of section
+three hundred sixty-five-a of this title shall be one dollar.
+  * NB Effective July 1, 2017
   (iv) When an individual is initially dispensed or prescribed a seven
 or fewer days supply of an opioid pursuant to paragraph (b) of
 subdivision five of section three thousand three hundred thirty-one of
@@ -601,9 +610,9 @@ any rights relating to access, prior authorization, or appeal relating
 to any drug class or drug afforded to a recipient under any other
 provision of law.
   * NB Repealed March 31, 2020
-  * (f) (1) The department may require manufacturers of drugs other than
-single source drugs and innovator multiple source drugs, as such terms
-are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
+  * (f) ** (1) The department may require manufacturers of drugs other
+than single source drugs and innovator multiple source drugs, as such
+terms are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
 department for any drug that has increased more than three hundred
 percent of its state maximum acquisition cost (SMAC), on or after April
 1, 2016, in comparison to its SMAC at any time during the course of the
@@ -615,6 +624,24 @@ rebates payable to the department pursuant to any other provision of
 federal or state law. Nothing herein shall affect the department's
 obligation to reimburse for covered outpatient drugs pursuant to
 paragraph (d) of this subdivision.
+  ** NB Effective until July 1, 2017
+  ** (1) The department may require manufacturers of drugs other than
+single source drugs and innovator multiple source drugs, as such terms
+are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
+department for any drug that has increased more than three hundred
+percent of its state maximum acquisition cost (SMAC) during the period
+April 1, 2016 through March thirty-first, two thousand seventeen, or
+that has increased more than seventy-five percent of its SMAC on or
+after April first, two thousand seventeen, in comparison to its SMAC at
+any time during the course of the preceding twelve months. The required
+rebate shall be limited to the amount by which the current SMAC for the
+drug exceeds the applicable percentage of the SMAC for the same drug at
+any time during the course of the preceding twelve months. Such rebates
+shall be in addition to any rebates payable to the department pursuant
+to any other provision of federal or state law. Nothing herein shall
+affect the department's obligation to reimburse for covered outpatient
+drugs pursuant to paragraph (d) of this subdivision.
+  ** NB Effective July 1, 2017
   (2) Except as provided in subparagraph three of this paragraph, the
 commissioner shall not determine any further rebates to be payable
 pursuant to this paragraph once the Centers for Medicare and Medicaid
@@ -635,9 +662,9 @@ apply to generic prescription drugs dispensed to enrollees of managed
 care providers pursuant to section three hundred sixty-four-j of this
 title and to generic prescription drugs dispensed to Medicaid recipients
 who are not enrollees of such providers.
-  (5) Beginning in two thousand seventeen, the department shall provide
-an annual report to the legislature no later than February first setting
-forth:
+  ** (5) Beginning in two thousand seventeen, the department shall
+provide an annual report to the legislature no later than February first
+setting forth:
   (i) The number of drugs that exceeded the ceiling price established in
 this paragraph during the preceding year in comparison to the number of
 drugs that experienced at least a three hundred percent price increase
@@ -653,6 +680,31 @@ during two thousand fourteen and two thousand fifteen; and
   (iv) The total drug spend on generic drugs for the preceding year in
 comparison to the total drug spend on generic drugs during two thousand
 fourteen and two thousand fifteen.
+  ** NB Effective until July 1, 2017
+  ** (5) Beginning in two thousand seventeen, the department shall
+provide an annual report to the legislature no later than February first
+setting forth:
+  (i) The number of drugs that exceeded the ceiling price established in
+this paragraph during the preceding year in comparison to the number of
+drugs that experienced at least a three hundred percent price increase
+during two thousand fourteen and two thousand fifteen, or at least a
+seventy-five percent price increase during two thousand fifteen and two
+thousand sixteen;
+  (ii) The average percent amount above the ceiling price of drugs that
+exceeded the ceiling price in the preceding year in comparison to the
+number of drugs that experienced a price increase more than three
+hundred percent during two thousand fourteen and two thousand fifteen,
+or at least a seventy-five percent price increase during two thousand
+fifteen and two thousand sixteen;
+  (iii) The number of generic drugs available to enrollees in Medicaid
+fee for service or Medicaid managed care, by fiscal quarter, in the
+preceding year in comparison to the drugs available, by fiscal quarter,
+during two thousand fourteen, two thousand fifteen, and two thousand
+sixteen; and
+  (iv) The total drug spend on generic drugs for the preceding year in
+comparison to the total drug spend on generic drugs during two thousand
+fourteen, two thousand fifteen, and two thousand sixteen.
+  ** NB Effective July 1, 2017
   * NB Repealed March 31, 2018
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
@@ -684,47 +736,49 @@ to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
 education law and for which payment is authorized pursuant to paragraph
 (g) of subdivision two of section three hundred sixty-five-a of this
-title, payments under this title shall be made at the following amounts:
+title, and for those drugs that are available without a prescription as
+required by section sixty-eight hundred ten of the education law but are
+reimbursed as items of medical assistance pursuant to paragraph (a) of
+subdivision four of section three hundred sixty-five-a of this title,
+payments under this title shall be made at the following amounts:
   (a) for drugs provided by medical practitioners and claimed separately
 by the practitioners, the actual cost of the drugs to the practitioners;
 and
   (b) for drugs dispensed by pharmacies:
-  (i) if the drug dispensed is a multiple source prescription drug for
-which an upper limit has been set by the federal centers for medicare
-and medicaid services, the lower of: (A) an amount equal to the specific
-upper limit set by such federal agency for the multiple source
-prescription drug; (B) the estimated acquisition cost of such drug to
-pharmacies which, for purposes of this subparagraph, shall mean the
-average wholesale price of a prescription drug based on the package size
-dispensed from, as reported by the prescription drug pricing service
-used by the department, less twenty-five percent thereof; (C) the
-maximum acquisition cost, if any, established pursuant to paragraph (e)
-of this subdivision, provided that the methodology used by the
-department to establish a maximum acquisition cost shall not include
-average acquisition cost as determined by department surveys; or (D) the
+  (i) (A) if the drug dispensed is a generic prescription drug, the
+lower of: (1) an amount equal to the national average drug acquisition
+cost set by the federal centers for medicare and medicaid services for
+the drug, if any, or if such amount if not available, the wholesale
+acquisition cost of the drug based on the package size dispensed from,
+as reported by the prescription drug pricing service used by the
+department, less seventeen and one-half percent thereof; (2) the federal
+upper limit, if any, established by the federal centers for medicare and
+medicaid services; (3) the state maximum acquisition cost, if any,
+established pursuant to paragraph (e) of this subdivision; or (4) the
 dispensing pharmacy's usual and customary price charged to the general
-public; and
-  (ii) if the drug dispensed is a multiple source prescription drug or a
-brand-name prescription drug for which no specific upper limit has been
-set by such federal agency, the lower of the estimated acquisition cost
-of such drug to pharmacies or the dispensing pharmacy's usual and
-customary price charged to the general public. For sole and multiple
-source brand name drugs, estimated acquisition cost means the average
-wholesale price of a prescription drug based upon the package size
+public; (B) if the drug dispensed is available without a prescription as
+required by section sixty-eight hundred ten of the education law but is
+reimbursed as an item of medical assistance pursuant to paragraph (a) of
+subdivision four of section three hundred sixty-five-a of this title,
+the lower of (1) an amount equal to the national average drug
+acquisition cost set by the federal centers for medicare and medicaid
+services for the drug, if any, or if such amount is not available, the
+wholesale acquisition cost of the drug based on the package size
 dispensed from, as reported by the prescription drug pricing service
-used by the department, less seventeen percent thereof or the wholesale
-acquisition cost of a prescription drug based upon package size
-dispensed from, as reported by the prescription drug pricing service
-used by the department, minus zero and forty-one hundredths percent
-thereof, and updated monthly by the department. For multiple source
-generic drugs, estimated acquisition cost means the lower of the average
-wholesale price of a prescription drug based on the package size
-dispensed from, as reported by the prescription drug pricing service
-used by the department, less twenty-five percent thereof, or the maximum
-acquisition cost, if any, established pursuant to paragraph (e) of this
-subdivision, provided that the methodology used by the department to
-establish a maximum acquisition cost shall not include average
-acquisition cost as determined by department surveys.
+used by the department, (2) the federal upper limit, if any, established
+by the federal centers for medicare and medicaid services; (3) the state
+maximum acquisition cost if any, established pursuant to paragraph (e)
+of this subdivision; or (4) the dispensing pharmacy's usual and
+customary price charged to the general public;
+  (ii) if the drug dispensed is a brand-name prescription drug, the
+lower of:
+  (A) an amount equal to the national average drug acquisition cost set
+by the federal centers for medicare and medicaid services for the drug,
+if any, or if such amount is not available, the wholesale acquisition
+cost of the drug based on the package size dispensed from, as reported
+by the prescription drug pricing service used by the department, less
+three and three-tenths percent thereof; or (B) the dispensing pharmacy's
+usual and customary price charged to the general public; and
   (iii) notwithstanding subparagraphs (i) and (ii) of this paragraph and
 paragraphs (d) and (e) of this subdivision, if the drug dispensed is a
 drug that has been purchased from a manufacturer by a covered entity
@@ -759,23 +813,14 @@ such purpose on the prescription form, payment under this title for such
 drug must be made under the provisions of subparagraph (ii) of such
 paragraph.
   (d) In addition to the amounts paid pursuant to paragraph (b) of this
-subdivision to pharmacies for those drugs which may not be dispensed
-without a prescription, as required by section sixty-eight hundred ten
-of the education law and for which payment is authorized pursuant to
-paragraph (g) of subdivision two of section three hundred sixty-five-a
-of this title, the department shall pay a pharmacy dispensing fee for
-each such prescription drug dispensed, which dispensing fee shall not be
-less than the following amounts:
-  (i) for prescription drugs categorized as generic by the prescription
-drug pricing service used by the department, three dollars and fifty
-cents per prescription; and
-  (ii) for prescription drugs categorized as brand-name prescription
-drugs by the prescription drug pricing service used by the department,
-three dollars and fifty cents per prescription, provided, however, that
-for brand name prescription drugs reimbursed pursuant to subparagraph
-(ii) of paragraph (a-1) of subdivision four of section three hundred
-sixty-five-a of this title, the dispensing fee shall be four dollars and
-fifty cents per prescription.
+subdivision, the department shall pay a professional pharmacy dispensing
+fee for each such drug dispensed in the amount of ten dollars per
+prescription or written order of a practitioner; provided, however that
+this professional dispensing fee will not apply to drugs that are
+available without a prescription as required by section sixty-eight
+hundred ten of the education law but do not meet the definition of a
+covered outpatient drug pursuant to Section 1927K of the Social Security
+Act.
   (e) For a multiple source generic drug for which no specific upper
 payment limit has been established by the federal centers for medicare
 and medicaid services, the commissioner of health may establish a
@@ -827,7 +872,7 @@ paragraph shall not take effect unless all necessary approvals under
 federal law and regulation have been obtained to receive federal
 financial participation in the costs of services provided under this
 paragraph.
-  * NB Effective until March 31, 2017
+  * NB Effective until March 31, 2020
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -874,7 +919,7 @@ cents per prescription; and
   (ii) for prescription drugs categorized as brand-name prescription
 drug by the prescription drug pricing service used by the department,
 four dollars and fifty cents per prescription.
-  * NB Effective March 31, 2017
+  * NB Effective March 31, 2020
   10. Any provider except for those providers certified under article
 twenty-eight of the public health law, of ordered services or supplies
 under the medical assistance program may be required to provide

@@ -15,6 +15,7 @@
 - [§ 1005-A Actions or contracts involving certain nuclear power plants](1005a-actions-or-contracts-involving-certain-nuclear.md)
 - [§ 1005-B New York state canal corporation](1005b-new-york-state-canal-corporation.md)
 - [§ 1005-C Additional powers of the authority to finance certain projects in connection with the New York state canal system](1005c-additional-powers-of-the-authority-to-finance.md)
+- [§ 1005-D Sharing employees, services and resources; indemnity and defense](1005d-sharing-employees-services-and-resources.md)
 - [§ 1006 Power to compel attendance of witnesses](1006-power-to-compel-attendance-of-witnesses.md)
 - [§ 1007 Acquisition of property](1007-acquisition-of-property.md)
 - [§ 1008 Consent of state](1008-consent-of-state.md)
@@ -50,6 +51,8 @@ Section 1000.   Short title.
         1005-c. Additional powers of the authority to finance certain
                   projects in connection with the New York state canal
                   system.
+        1005-d. Sharing employees, services and resources; indemnity and
+                  defense.
         1006.   Power to compel attendance of witnesses.
         1007.   Acquisition of property.
         1008.   Consent of state.

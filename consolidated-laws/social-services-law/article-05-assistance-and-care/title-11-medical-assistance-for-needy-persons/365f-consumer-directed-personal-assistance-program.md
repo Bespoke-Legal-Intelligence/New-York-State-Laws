@@ -90,6 +90,148 @@ providing services under a patient managed home care program authorized
 under the former section thirty-six hundred twenty-two of the public
 health law or the former sections three hundred sixty-five-f of this
 chapter may continue to provide such services under this section.
+  4-a. Fiscal intermediary services. (a) For the purposes of this
+section:
+  (i) "Fiscal intermediary" means an entity that provides fiscal
+intermediary services and has a contract for providing such services
+with:
+  (A) a local department of social services;
+  (B) an organization licensed under article forty-four of the public
+health law; or
+  (C) an accountable care organization certified under article
+twenty-nine-E of the public health law or an integrated delivery system
+composed primarily of health care providers recognized by the department
+as a performing provider system under the delivery system reform
+incentive payment program.
+  (ii) Fiscal intermediary services shall include the following
+services, performed on behalf of the consumer to facilitate his or her
+role as the employer:
+  (A) wage and benefit processing for consumer directed personal
+assistants;
+  (B) processing all income tax and other required wage withholdings;
+  (C) complying with workers' compensation, disability and unemployment
+requirements;
+  (D) maintaining personnel records for each consumer directed personal
+assistant, including time sheets and other documentation needed for
+wages and benefit processing and a copy of the medical documentation
+required pursuant to regulations established by the commissioner;
+  (E) ensuring that the health status of each consumer directed personal
+assistant is assessed prior to service delivery pursuant to regulations
+issued by the commissioner;
+  (F) maintaining records of service authorizations or reauthorizations;
+  (G) monitoring the consumer's or, if applicable, the designated
+representative's continuing ability to fulfill the consumer's
+responsibilities under the program and promptly notifying the
+authorizing entity of any circumstance that may affect the consumer's
+or, if applicable, the designated representative's ability to fulfill
+such responsibilities;
+  (H) complying with regulations established by the commissioner
+specifying the responsibilities of fiscal intermediaries providing
+services under this title; and
+  (I) entering into a department approved memorandum of understanding
+with the consumer that describes the parties' responsibilities under
+this program.
+  (iii) Fiscal intermediaries are not responsible for, and fiscal
+intermediary services shall not include, fulfillment of the
+responsibilities of the consumer or, if applicable, the consumer's
+designated representative as established by the commissioner. A fiscal
+intermediary's responsibilities shall not include, and a fiscal
+intermediary shall not engage in: managing the plan of care including
+recruiting and hiring a sufficient number of individuals who meet the
+definition of consumer directed personal assistant, as such term is
+defined by the commissioner, to provide authorized services that are
+included on the consumer's plan of care; training, supervising and
+scheduling each consumer directed personal assistant; terminating the
+consumer directed personal assistant's employment; or assuring that each
+consumer directed personal assistant competently and safely performs the
+personal care services, home health aide services and skilled nursing
+tasks that are included on the consumer's plan of care. A fiscal
+intermediary shall exercise reasonable care in properly carrying out its
+responsibilities under the program.
+  (b) No entity shall provide, directly or through contract, fiscal
+intermediary services without an authorization as a fiscal intermediary
+issued by the commissioner in accordance with this subdivision.
+  (c) An application for authorization as a fiscal intermediary shall be
+filed with the commissioner, together with such other forms and
+information as shall be prescribed by, or acceptable to the
+commissioner. Such information shall include, but not be limited to:
+  (i) the name and employer identification number, of the entity,
+including any subsidiary corporations, if applicable, and any name under
+which the entity does business;
+  (ii) all addresses at which the organization operates;
+  (iii) the names, titles and contact information of all officers and
+directors in a not-for-profit company or business, or managers in a
+limited liability company, as well as the name and employment history of
+the individual ultimately accountable for operation of the fiscal
+intermediary; and for a not-for-profit entity, the number of director
+positions set by the company's by-laws, and how many are currently
+filled;
+  (iv) a history of the organization, along with an overview of the
+organization and all services it offers, including any relationships
+with outside agencies that may influence in any way the ability of the
+organization to provide fiscal intermediary services consistent with the
+manner described in its application;
+  (v) all policies and procedures of the fiscal intermediary, including
+any contracts or other documents used in communications with consumers;
+  (vi) plans to solicit and consider input from the fiscal
+intermediary's consumers, staff, personal assistants and other
+interested parties which may be charged with roles including, but not
+limited to, quality assurance review, referral, program monitoring or
+development or establishing and responding to community needs; such
+input may be in the form of a board of directors, committee, survey, or
+other mechanism, provided that the majority of input obtained as part of
+this process must be from individual consumers and consumer advocates of
+the fiscal intermediary;
+  (vii) the organization's plan to address the needs of consumers and
+their personal assistants in a timely manner, regardless of where they
+live, including, but not limited to, input from consumers, obtaining
+physicals and other health information from personal assistants,
+obtaining time records for payroll, and timely processing of payroll;
+and
+  (viii) a written sworn statement by an officer of the entity
+disclosing any pending litigation, unsatisfied judgments or penalties,
+convictions for fraud or sanctions imposed by government authorities.
+  (d) The entity shall reasonably promptly notify the department of any
+change in the information submitted to the department for authorization
+under this subdivision.
+  (e) The commissioner shall not approve an application for
+authorization unless he or she is satisfied as to the character,
+competence and standing in the community of the applicant's
+incorporators, directors, sponsors, stockholders or operators and finds
+that the personnel, rules, consumer contracts or agreements, and fiscal
+intermediary services are fit and adequate, and that the fiscal
+intermediary services will be provided in the manner required by this
+subdivision and the rules and regulations hereunder, in a manner
+determined by the commissioner.
+  (f) The commissioner may contract with an entity with appropriate
+knowledge, expertise and experience possessing extensive knowledge of
+consumer directed personal assistance fiscal intermediary services and
+which has a history of providing similar services in relation to a
+self-directed program to develop and to assist the commissioner in
+evaluating applicants for authorizations or readiness reviews to be a
+fiscal intermediary.
+  (g) Neither public need, tax status nor profit-making status shall be
+a criterion for authorization under this subdivision. Status as a
+licensed home care services agency or other health provider shall not
+positively or negatively affect an application for authorization under
+this subdivision. An organization authorized pursuant to article
+forty-four of the public health law shall not be a fiscal intermediary.
+  (h) An authorization under this subdivision shall last for a period of
+five years. Upon application for a renewal, the fiscal intermediary
+shall submit up to date information to the commissioner.
+  4-b. Actions involving the authorization of a fiscal intermediary.
+  (a) A fiscal intermediary's authorization may be revoked, suspended,
+limited or annulled upon thirty day's written notice to the fiscal
+intermediary, if the commissioner finds that the fiscal intermediary has
+failed to comply with the provisions of this subdivision or regulations
+promulgated hereunder. Notwithstanding the foregoing, upon determining
+that the public health or safety would be imminently endangered by the
+continued authorization of the fiscal intermediary, the commissioner may
+revoke, suspend, limit or annul the fiscal intermediary's authorization
+immediately.
+  (b) All orders or determinations under this subdivision shall be
+subject to review as provided in article seventy-eight of the civil
+practice law and rules.
   5. Waivers, regulation and effectiveness.
   (a) The commissioner may, subject to the approval of the director of
 the budget, file for such federal waivers as may be needed for the

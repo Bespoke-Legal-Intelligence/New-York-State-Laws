@@ -41,7 +41,7 @@ were resolved relative to an individual's participation in such
 programs; and
   (c) a recommendation with respect to the individual's continued
 participation in the program.
-  * NB Effective until September 1, 2017
+  * NB Effective until September 1, 2019
   * § 852. Establishment of work release. 1. The commissioner of
 correction shall designate one or more institutions for the conduct of
 work release programs. Upon such designation the commissioner, with the
@@ -54,5 +54,5 @@ such institution.
 education, on-the-job training and employment opportunities for eligible
 inmates and shall supervise inmates during their participation in work
 release programs outside the premises of institutions.
-  * NB Effective September 1, 2017
+  * NB Effective September 1, 2019
 ```

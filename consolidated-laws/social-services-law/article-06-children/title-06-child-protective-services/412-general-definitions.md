@@ -48,4 +48,9 @@ abuse or maltreatment exists.
 person who has been issued a credential therefor by the office of
 alcoholism and substance abuse services, pursuant to paragraphs one and
 two of subdivision (d) of section 19.07 of the mental hygiene law.
+  * 9. A "publicly-funded emergency shelter for families with children"
+means any facility with overnight sleeping accommodations and that is
+used to house recipients of temporary housing assistance and which
+houses or may house children and families with children.
+  * NB Effective July 19, 2017
 ```

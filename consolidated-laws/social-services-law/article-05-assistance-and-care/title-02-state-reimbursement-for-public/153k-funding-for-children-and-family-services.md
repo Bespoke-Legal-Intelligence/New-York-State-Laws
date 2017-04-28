@@ -31,7 +31,7 @@ than seventeen and one-half percent during federal fiscal year nineteen
 hundred ninety-eight--nineteen hundred ninety-nine. Federal
 reimbursement of such claims shall be available only to the extent
 permitted by federal law or regulations.
-  2. (a) Notwithstanding the provisions of this chapter or of any other
+  2.  (a) Notwithstanding the provisions of this chapter or of any other
 law to the contrary, eligible expenditures by a social services district
 for foster care services shall be subject to reimbursement with state
 funds only to the extent of annual appropriations to the state foster
@@ -41,12 +41,18 @@ and tuition; supervision of foster children placed in federally funded
 job corps programs; and care, maintenance, supervision and tuition for
 adjudicated juvenile delinquents and persons in need of supervision
 placed in residential programs operated by authorized agencies and in
-out-of-state residential programs. Social services districts must
-develop and implement children and family services delivery systems that
-are designed to reduce the need for and the length of foster care
-placements and must document their efforts in the multi-year
-consolidated services plan and the annual implementation reports
-submitted pursuant to section thirty-four-a of this chapter.
+out-of-state residential programs; except that, notwithstanding any
+other provision of law to the contrary, reimbursement with state funds
+pursuant to the state foster care block grant shall not be available for
+tuition expenditures for foster children, including persons in need of
+supervision and adjudicated juvenile delinquents, made by a social
+services district located within a city having a population of one
+million or more. Social services districts must develop and implement
+children and family services delivery systems that are designed to
+reduce the need for and the length of foster care placements and must
+document their efforts in the multi-year consolidated services plan and
+the annual implementation reports submitted pursuant to section
+thirty-four-a of this chapter.
   (b) State reimbursement to each social services district shall be
 limited to the district's allocation of the foster care block grant. The
 state funds appropriated for the foster care block grant shall be
@@ -250,5 +256,5 @@ of any placement of persons in need of supervision under article seven
 of the family court act.
   ** NB Effective October 1, 2018; see ch. 59/2017 Pt. WWW § 106 sb b
 for further contingencies for 10/1/2019
-  * NB Repealed June 30, 2017
+  * NB Repealed June 30, 2022
 ```

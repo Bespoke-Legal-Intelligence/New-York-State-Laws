@@ -15,7 +15,7 @@ thirty-nine of this chapter and pursuant to this chapter, shall, if
 approved by the department of family assistance, be subject to
 reimbursement by the state, in accordance with the regulations of the
 department, as follows:
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * Expenditures made by social services districts, cities and towns for
 public assistance and care and its administration, pursuant to this
 chapter and expenditures made by any Indian tribe for foster care
@@ -25,7 +25,7 @@ department in accordance with section thirty-nine of this chapter and
 pursuant to this chapter, shall, if approved by the department, be
 subject to reimbursement by the state, in accordance with the
 regulations of the department, as follows:
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   There shall be paid to each such district, city or town
   a. the amount of federal funds, if any, properly received or to be
 received on account of such expenditures;
@@ -242,30 +242,34 @@ pursuant to section forty-four hundred five of the education law shall,
 if approved by the office of children and family services, be subject to
 eighteen and four hundred twenty-four thousandths percent reimbursement
 by the state and thirty-eight and four hundred twenty-four thousandths
-percent reimbursement by school districts in accordance with paragraph c
-of subdivision one of section forty-four hundred five of the education
-law, after first deducting therefrom any federal funds received or to be
-received on account of such expenditures, except that in the case of a
-student attending a state-operated school for the deaf or blind pursuant
-to article eighty-seven or eighty-eight of the education law who was not
-placed in such school by a school district such expenditures shall be
-subject to fifty percent reimbursement by the state after first
-deducting therefrom any federal funds received or to be received on
-account of such expenditures and there shall be no reimbursement by
-school districts. Such expenditures shall not be subject to the
-limitations on state reimbursement contained in subdivision two of
-section one hundred fifty-three-k of this title. In the event of the
-failure of the school district to make the maintenance payment pursuant
-to the provisions of this subdivision, the state comptroller shall
-withhold state reimbursement to any such school district in an amount
-equal to the unpaid obligation for maintenance and pay over such sum to
-the social services district upon certification of the commissioner of
-the office of children and family services and the commissioner of
-education that such funds are overdue and owed by such school district.
-The commissioner of the office of children and family services, in
+percent reimbursement by school districts, except for social services
+districts located within a city with a population of one million or
+more, where such expenditures shall be subject to fifty-six and eight
+hundred forty-eight thousandths percent reimbursement by the school
+district, in accordance with paragraph c of subdivision one of section
+forty-four hundred five of the education law, after first deducting
+therefrom any federal funds received or to be received on account of
+such expenditures, except that in the case of a student attending a
+state-operated school for the deaf or blind pursuant to article
+eighty-seven or eighty-eight of the education law who was not placed in
+such school by a school district such expenditures shall be subject to
+fifty percent reimbursement by the state after first deducting therefrom
+any federal funds received or to be received on account of such
+expenditures and there shall be no reimbursement by school districts.
+Such expenditures shall not be subject to the limitations on state
+reimbursement contained in subdivision two of section one hundred
+fifty-three-k of this title. In the event of the failure of the school
+district to make the maintenance payment pursuant to the provisions of
+this subdivision, the state comptroller shall withhold state
+reimbursement to any such school district in an amount equal to the
+unpaid obligation for maintenance and pay over such sum to the social
+services district upon certification of the commissioner of the office
+of children and family services and the commissioner of education that
+such funds are overdue and owed by such school district. The
+commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * 10. Expenditures made by a social services district for the
 maintenance of handicapped children, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,
@@ -275,7 +279,7 @@ or to be received on account of such expenditure. Such expenditures
 shall not be subject to the limitations on state reimbursement contained
 in sections one hundred fifty-three-d or one hundred fifty-three-e of
 this chapter.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   * 11. Expenditures made by a social services district for approved
 tuition costs pursuant to section four thousand four of the education
 law, after first deducting therefrom any federal funds received or to be
@@ -288,7 +292,7 @@ as applicable; provided, however, that the amount that a school district
 reimburses the state for its expenditure for such children pursuant to
 section four thousand four of the education law shall be credited to
 each applicable social services district.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * 11. Expenditures made by a social services district for approved
 tuition costs of certain children pursuant to section four thousand four
 of the education law, after first deducting therefrom any federal funds
@@ -297,7 +301,7 @@ percent reimbursement by the state; provided, however, that the amount
 that a school district reimburses the state for its expenditure for such
 children pursuant to section four thousand four of the education law
 shall be credited to each applicable social services district.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   * 12. Expenditures made by a social services district for the
 detention in foster care facilities or certified or approved family
 boarding homes of a person alleged to be or adjudicated as a person in
@@ -306,7 +310,7 @@ shall be subject to reimbursement by the state in accordance with the
 provisions of section five hundred thirty of the executive law. The care
 of such person shall not be required to comply with the requirements of
 sections four hundred nine-e and four hundred nine-f of this chapter.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * 12. Expenditures made by a social services district for the
 detention in foster care facilities of a person alleged to be or
 adjudicated as a person in need of supervision, pursuant to article
@@ -316,7 +320,7 @@ of the executive law.  The care of such person shall not be required to
 comply with the requirements of sections four hundred nine-e and four
 hundred nine-f, nor be subject to the provisions of section one hundred
 fifty-three-d or three hundred ninety-eight-b of this chapter.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   15. Notwithstanding the provisions of this section or any other law to
 the contrary, expenditures made by a social services district for
 brokers' fees, finders' fees or security deposits paid pursuant to this

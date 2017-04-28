@@ -13,6 +13,7 @@
 - [§ 460-E Records and reports; confidentiality; information](460e-records-and-reports-confidentiality-information.md)
 - [§ 460-F Penalties](460f-penalties.md)
 - [§ 460-G Construction](460g-construction.md)
+- [§ 460-H Review of criminal history information concerning prospective employees, consultants, assistants and volunteers of publicly-funded emerge...](460h-review-of-criminal-history-information-concerning.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,10 @@ Section 460.   Declaration of policy and statement of purpose.
         460-e. Records and reports; confidentiality; information.
         460-f. Penalties.
         460-g. Construction.
+        460-h. Review of criminal history information concerning
+                 prospective employees, consultants, assistants and
+                 volunteers of publicly-funded emergency shelters for
+                 families with children.
 ```
 
 </details>

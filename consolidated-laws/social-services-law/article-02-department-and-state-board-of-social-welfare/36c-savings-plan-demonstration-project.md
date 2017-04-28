@@ -60,5 +60,8 @@ Temporary housing assistance recipients shall not be required to
 contribute to the cost of such shelter, as provided for in this section.
 Such project shall not be implemented so as to compromise the federal
 benefits of a recipient or any of his or her household members.
-  * NB Repealed March 31, 2017
+  * NB Repealed March 31, 2018 provided that at such time the office of
+temporary and disability assistance has approved a revised savings
+demonstration plan that has been submitted to the the office by the City
+of New York
 ```

@@ -102,7 +102,7 @@ Article  1.   Short title; definitions (§§ 1-2).
          6-A. Domestic violence prevention act (§§ 459-a--459-h).
          7.   Residential care programs for adults and children
                         (§§ 460--463-b).
-         Title  1.    General provisions (§§ 460--460-g).
+         Title  1.    General provisions (§§ 460--460-h).
                 2.    Residential programs for adults (§§ 461--461-t).
                 3.    Residential programs for children (§§ 462--462-b).
                 4.    Registry of community residential facilities

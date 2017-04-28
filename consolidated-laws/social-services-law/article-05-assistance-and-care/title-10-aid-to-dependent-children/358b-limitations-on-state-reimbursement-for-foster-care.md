@@ -13,7 +13,7 @@ this title, state reimbursement shall not be denied for expenditures
 made by a social services district for the care and maintenance of such
 a child away from his home prior to denial of such petition by a family
 court judge solely by reason of such denial.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * § 358-b. Limitations on state reimbursement for foster care. In the
 event that a petition for approval of an instrument and the transfer of
 the custody and guardianship or care and custody of a child is filed
@@ -24,5 +24,5 @@ section one hundred fifty-three-d of this chapter, for expenditures made
 by a social services district for the care and maintenance of such a
 child away from his home prior to denial of such petition by a family
 court judge solely by reason of such denial.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
 ```

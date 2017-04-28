@@ -1500,6 +1500,32 @@ managed care organization complies with the requirements for submission
 of encounter data. No penalties for late, incomplete or inaccurate
 encounter data shall be assessed against managed care organizations in
 addition to those provided for in this subdivision.
+  33. For services under this title provided by residential health care
+facilities under article twenty-eight of the public health law, the
+commissioner shall direct managed care organizations licensed under
+article forty-four of the public health law, article forty-three of the
+insurance law, and this section, to continue to reimburse at a benchmark
+rate which is to be the fee-for-service rate calculated pursuant to
+section twenty-eight hundred eight of the public health law. The
+benchmark fee-for-service rate shall continue to be paid by such managed
+care organizations for all services provided by residential healthcare
+facilities from the effective date of this subdivision at least until
+December thirty-first, two thousand twenty. The commissioner may
+require, as a condition of continuing to require payment at such
+benchmark rate that aggregate managed care expenditures to residential
+health care facilities meet the alternative payment methodology
+requirements set forth in attachment I of the New York State section
+1115 medicaid redesign team waiver as approved by the centers for
+medicare and medicaid services. The commissioner of health shall waive
+such requirements if a sufficient number of providers, as determined by
+the commissioner, suffer a financial hardship as a consequence of such
+alternative payment methodology requirements, or if the commissioner
+determines that such alternative payment methodologies significantly
+threaten individuals' access to residential health care facility
+services; such waiver may be applied on a provider-specific or
+industry-wide basis. Further, such requirements may be waived, as the
+commissioner determines necessary, to comply with federal rules or
+regulations governing these payment methodologies.
   * NB Repealed March 31, 2019 (per ch. 165/1991)
   * NB Repealed March 31, 2019 (per ch. 710/1988)
 ```

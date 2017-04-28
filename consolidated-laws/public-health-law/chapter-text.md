@@ -86,7 +86,7 @@ Article
   9-B.     Primary Care Service Corps Practitioner Loan Repayment
             Program (§§923-924).
   11.      Public water supplies; sewerage and sewage control
-           Title    I.   Potable waters (§§1100-1110).
+           Title    I.   Potable waters (§§1100-1114).
                    II.   Realty subdivisions: water supply
                           (§§1115-1120).
                    II-A. Water supply emergency plans (§1125).
@@ -242,6 +242,7 @@ Article
   29-F.    Improved integration of health care and financing (§§
             2999-aa--2999-bb).
   29-G.    Telehealth delivery of services (§§ 2999-cc--2999-dd).
+  29-I.    Medical services for foster children (§ 2999-gg).
   30.      Emergency medical services (§§3000-3032).
   30-A.    Emergency medical services personnel training act of nineteen
             hundred eighty-six (§§3050-3053).

@@ -27,7 +27,7 @@ care. When the office of children and family services has established
 such standards, reimbursement under subdivision two of section one
 hundred fifty-three-k of this chapter, for the care of foster children
 shall be limited in accordance with such standards.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * (2) The department shall promulgate, subject to consultation with
 appropriate state agencies, the approval of the director of the budget
 and certification to the chairmen of the senate finance and assembly
@@ -40,7 +40,7 @@ be provided for the foster child and the cost of such care. When the
 department has established such standards, reimbursement under section
 one hundred fifty-three of this chapter, for the care of foster children
 shall be limited in accordance with such standards.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   (2-a) Those social services districts that as of January first, two
 thousand five were paying at least one hundred percent of the applicable
 rates published by the office of children and family services for the

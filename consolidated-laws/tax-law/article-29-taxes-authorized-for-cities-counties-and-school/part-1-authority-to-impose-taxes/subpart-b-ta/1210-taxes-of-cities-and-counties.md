@@ -343,26 +343,7 @@ three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand four, and ending
 November thirtieth, two thousand seventeen;
   * NB There are 2 clause (37)'s
-  *(38) the county of Chautauqua is hereby further authorized and
-empowered to adopt and amend local laws, ordinances or resolutions
-imposing such taxes at a rate that is: (i) one and one-quarter percent
-additional to the three percent rate authorized above in this paragraph
-for such county for the period beginning March first, two thousand five
-and ending August thirty-first, two thousand six; (ii) one percent
-additional to the three percent rate authorized above in this paragraph
-for such county for the period beginning September first, two thousand
-six and ending November thirtieth, two thousand seven; (iii)
-three-quarters of one percent additional to the three percent rate
-authorized above in this paragraph for such county for the period
-beginning December first, two thousand seven and ending November
-thirtieth, two thousand ten; and (iv) one-half of one percent additional
-to the three percent rate authorized above in this paragraph for such
-county for the period beginning December first, two thousand ten and
-ending November thirtieth, two thousand seventeen;
-  * NB Effective until notification from the commissioner of taxation
-and finance that the provisions of § 8 of chapter 332 of 2015 have been
-satisfied for the 2016 county tax year
-  * (38) the county of Chautauqua is hereby further authorized and
+  (38) the county of Chautauqua is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is: (i) one and one-quarter percent
 additional to the three percent rate authorized above in this paragraph
@@ -381,35 +362,6 @@ ending November thirtieth, two thousand fifteen; and (v) one percent
 additional to the three percent rate authorized above in this clause for
 such county for the period beginning December first, two thousand
 fifteen and ending November thirtieth, two thousand seventeen;
-  * NB Effective upon notification from the commissioner of taxation and
-finance that the provisions of § 8 of chapter 332 of 2015 have been
-satisfied for the 2016 county tax year
-  * (38) the county of Chautauqua is hereby further authorized and
-empowered to adopt and amend local laws, ordinances or resolutions
-imposing such taxes at a rate that is: (i) one and one-quarter percent
-additional to the three percent rate authorized above in this paragraph
-for such county for the period beginning March first, two thousand five
-and ending August thirty-first, two thousand six; (ii) one percent
-additional to the three percent rate authorized above in this paragraph
-for such county for the period beginning September first, two thousand
-six and ending November thirtieth, two thousand seven; (iii)
-three-quarters of one percent additional to the three percent rate
-authorized above in this paragraph for such county for the period
-beginning December first, two thousand seven and ending November
-thirtieth, two thousand ten; (iv) one-half of one percent additional to
-the three percent rate authorized above in this paragraph for such
-county for the period beginning December first, two thousand ten and
-ending November thirtieth, two thousand fifteen; (v) one percent
-additional to the three percent rate authorized above in this clause for
-such county for the period beginning December first, two thousand
-fifteen and ending November thirtieth, two thousand sixteen; and (vi)
-one-half of one percent additional to the three percent rate authorized
-above in this clause for such county for the period beginning December
-first, two thousand sixteen and ending November thirtieth, two thousand
-seventeen;
-  * NB Effective upon notification from the commissioner of taxation and
-finance that the provisions of § 8 of chapter 332 of 2015 have NOT been
-satisfied for the 2017 county tax year
   * (39) the county of Fulton is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
@@ -520,32 +472,6 @@ thirtieth, two thousand seventeen;
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
 this paragraph: one and one-half percent for the county of Allegany; one
-percent for the counties of Rensselaer, Erie, Cattaraugus, Wyoming,
-Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin, Hamilton,
-Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango, Monroe,
-Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga, Montgomery,
-Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence and Onondaga
-and the cities of Mount Vernon and New Rochelle; three-quarters of one
-percent for the counties of Dutchess, Lewis, and Orange; one percent and
-three-quarters of one percent or one-half of one percent for the county
-of Oneida; three-quarters of one percent and one-half of one percent for
-the county of Nassau; one-half of one percent and one-quarter of one
-percent and one-quarter of one percent for the city of White Plains;
-one-half or one percent for the county of Tompkins; three-eighths of one
-percent and five-eighths of one percent for the county of Rockland;
-one-half of one percent for the counties of Putnam and Schenectady;
-one-eighth of one percent and three-eighths of one percent for the
-county of Ontario; one-half of one percent and one-half of one percent
-for the county of Sullivan; one percent and one-half of one percent for
-the city of Yonkers; and three-quarters of one percent or one-half of
-one percent for the county of Chautauqua;
-  * NB Effective until November 30, 2017 and until occurence of
-contingency or contingency not being satisfied pursuant to ch 332/2015
-§§ 8 to 9
-  * (iii) the maximum rate referred to in section twelve hundred
-twenty-four of this article shall be calculated without reference to the
-following additional rates authorized in subparagraphs (i) and (ii) of
-this paragraph: one and one-half percent for the county of Allegany; one
 percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
 Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
 Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
@@ -561,11 +487,10 @@ for the city of White Plains; one-half or one percent for the county of
 Tompkins; three-eighths of one percent and five-eighths of one percent
 for the county of Rockland; one-half of one percent for the counties of
 Putnam and Schenectady; one-eighth of one percent and three-eighths of
-one percent for the county of Ontario; and one-half of one percent and
+one percent for the county of Ontario; one-half of one percent and
 one-half of one percent for the county of Sullivan; one percent and
 one-half of one percent for the city of Yonkers;
-  * NB Effective until November 30, 2017 and upon contingency being
-satisfied pursuant to ch 332/2015 §§ 8 to 9
+  * NB Effective until November 30, 2017
   * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
@@ -588,31 +513,7 @@ and Schenectady; one-eighth of one percent and three-eighths of one
 percent for the county of Ontario; one-half of one percent and one-half
 of one percent for the county of Sullivan; and three-quarters of one
 percent or one-half of one percent for the county of Chautauqua;
-  * NB Effective November 30, 2017 and until occurrence of contingency
-or contingency not being satisfied pursuant to ch 332/2015 §§ 8 to 9
-  * (iii) the maximum rate referred to in section twelve hundred
-twenty-four of this article shall be calculated without reference to the
-following additional rates authorized in subparagraphs (i) and (ii) of
-this paragraph: one and one-half percent for the county of Allegany; one
-percent for the counties of Rensselaer, Erie, Cattaraugus, Chautauqua,
-Wyoming, Ulster, Albany, Suffolk, Essex, Greene, Orleans, Franklin,
-Hamilton, Herkimer, Jefferson, Genesee, Columbia, Schuyler, Chenango,
-Monroe, Steuben, Chemung, Seneca, Livingston, Niagara, Yates, Tioga,
-Montgomery, Delaware, Wayne, Schoharie, Putnam, Clinton, St. Lawrence
-and Onondaga and the cities of Yonkers, Mount Vernon and New Rochelle;
-three-quarters of one percent for the counties of Dutchess, Lewis, and
-Orange; one percent and three-quarters of one percent or one-half of one
-percent for the county of Oneida; three-quarters of one percent and
-one-half of one percent for the county of Nassau; one-half of one
-percent and one-quarter of one percent and one-quarter of one percent
-for the city of White Plains; one-half or one percent for the county of
-Tompkins; three-eighths of one percent and five-eighths of one percent
-for the county of Rockland; one-half of one percent for the counties of
-Putnam and Schenectady; one-eighth of one percent and three-eighths of
-one percent for the county of Ontario; and one-half of one percent and
-one-half of one percent for the county of Sullivan;
-  * NB Effective November 30, 2017 and upon contingency being satisfied
-pursuant to ch 332/2015 §§ 8 to 9
+  * NB Effective November 30, 2017
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange
 or the county of Rockland withdraws from the metropolitan commuter

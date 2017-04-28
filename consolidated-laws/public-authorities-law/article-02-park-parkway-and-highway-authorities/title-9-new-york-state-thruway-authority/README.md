@@ -49,8 +49,6 @@
 - [§ 379 Further additional powers of the authority to finance certain repayment obligations of the state in connection with the purchase of real ...](379-further-additional-powers-of-the-authority.md)
 - [§ 380 Further additional powers of the authority to finance certain local highway and bridge improvements and payments to the authority](380-further-additional-powers-of-the-authority.md)
 - [§ 381 Further additional powers of the authority](381-further-additional-powers-of-the-authority.md)
-- [§ 382 Canal corporation](382-canal-corporation.md) *(repealed)*
-- [§ 383 Additional powers of the authority to finance certain projects in connection with the New York state canal system](383-additional-powers-of-the-authority.md) *(repealed)*
 - [§ 384 Additional powers of the authority to undertake and finance certain transportation projects](384-additional-powers-of-the-authority.md)
 - [§ 385 Additional powers of the authority to issue special dedicated highway and bridge trust fund bonds](385-additional-powers-of-the-authority.md)
 - [§ 386 Additional powers of the authority to issue special rail and aviation transportation bonds](386-additional-powers-of-the-authority.md)

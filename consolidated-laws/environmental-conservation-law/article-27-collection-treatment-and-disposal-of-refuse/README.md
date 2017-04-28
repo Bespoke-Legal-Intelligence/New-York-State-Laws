@@ -15,6 +15,7 @@
 - [Title 9 — Industrial Hazardous Waste Management](title-09-industrial/)
 - [Title 10 — Litter and Solid Waste Control](title-10-litter-and-solid/)
 - [Title 11 — Industrial Siting Hazardous Waste Facilities](title-11-industrial-siting/)
+- [Title 12 — Mitigation and Remediation of Certain Solid Waste Sites and Drinking Water Contamination](title-12-mitigation/)
 - [Title 13 — Inactive Hazardous Waste Disposal Sites](title-13-inactive/)
 - [Title 14 — Brownfield Cleanup Program](title-14-brownfield/)
 - [Title 15 — Storage, Treatment, Disposal and Transportation of Regulated Medical Waste](title-15-storage-treatment/)

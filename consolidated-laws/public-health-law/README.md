@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,629 |
-| Last changed | 21 Apr 2017 |
+| Sections | 1,634 |
+| Last changed | 28 Apr 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (328 lines)](chapter-text.md)
+[Full chapter text (329 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [28 Apr 2017](../../changes/2017/2017-04-28.md): 25 amended, 5 added
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended, 1 added, 2 removed
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 1 amended
 - [31 Mar 2017](../../changes/2017/2017-03-31.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [20 Jan 2017](../../changes/2017/2017-01-20.md): 1 amended
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 4 amended, 1 repealed
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 7 amended, 2 added
-- [23 Dec 2016](../../changes/2016/2016-12-23.md): 1 amended
 
 ## Contents
 
@@ -121,6 +121,7 @@ Assembly, do enact as follows:
 - [Article 29-E — Accountable Care Organizations](article-29e-accountable-care-organizations/)
 - [Article 29-F — Improved Integration of Health Care and Financing](article-29f-improved-integration-of-health-care/)
 - [Article 29-G — Telehealth Delivery of Services](article-29g-telehealth-delivery-of-services/)
+- [Article 29-I — Medical Services For Foster Children](article-29i-medical-services-for-foster-children/)
 - [Article 30 — Emergency Medical Services](article-30-emergency-medical-services/)
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)

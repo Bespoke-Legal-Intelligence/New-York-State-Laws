@@ -23,6 +23,7 @@
 - [Title 27 — Wild, Scenic and Recreational Rivers System](title-27-wild-scenic-and-recreational-rivers/)
 - [Title 29 — Water Resources Management Strategy](title-29-water-resources-management-strategy/)
 - [Title 31 — Groundwater Protection and Remediation Program](title-31-groundwater-protection/)
+- [Title 33 — Source Water Protection Projects](title-33-source-water-protection-projects/)
 
 <details>
 <summary>Official heading of Article 15, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

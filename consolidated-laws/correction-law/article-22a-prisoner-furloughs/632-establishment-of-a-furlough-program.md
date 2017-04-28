@@ -12,5 +12,5 @@ employment opportunities for inmates who are eligible to participate in
 a furlough program and (b) supervising inmates during their
 participation in a furlough program outside the premises of the
 institution.
-  * NB Expires September 1, 2017
+  * NB Expires September 1, 2019
 ```

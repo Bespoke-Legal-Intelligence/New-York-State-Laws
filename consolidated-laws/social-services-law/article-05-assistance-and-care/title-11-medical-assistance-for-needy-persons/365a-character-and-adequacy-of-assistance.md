@@ -185,8 +185,8 @@ regulations of the department, provided any necessary approvals under
 federal law have been obtained to receive federal financial
 participation in the costs of incontinence supplies provided pursuant to
 this subparagraph;
-  (g-1) drugs provided on an in-patient basis, those drugs contained on
-the list established by regulation of the commissioner of health
+  * (g-1) drugs provided on an in-patient basis, those drugs contained
+on the list established by regulation of the commissioner of health
 pursuant to subdivision four of this section, and those drugs which may
 not be dispensed without a prescription as required by section
 sixty-eight hundred ten of the education law and which the commissioner
@@ -213,6 +213,39 @@ of health and human services, or, in the case of a drug not requiring a
 prescription, in excess of the maximum reimbursable amount established
 by the commissioner of health pursuant to paragraph (a) of subdivision
 four of this section;
+  * NB Effective until July 1, 2017
+  * (g-1) drugs provided on an in-patient basis, those drugs contained
+on the list established by regulation of the commissioner of health
+pursuant to subdivision four of this section, and those drugs which may
+not be dispensed without a prescription as required by section
+sixty-eight hundred ten of the education law and which the commissioner
+of health shall determine to be reimbursable based upon such factors as
+the availability of such drugs or alternatives at low cost if purchased
+by a medicaid recipient, or the essential nature of such drugs as
+described by such commissioner in regulations, provided, however, that
+such drugs, exclusive of long-term maintenance drugs, shall be dispensed
+in quantities no greater than a thirty day supply or one hundred doses,
+whichever is greater; provided further that the commissioner of health
+is authorized to require prior authorization for any refill of a
+prescription when more than a ten day supply of the previously dispensed
+amount should remain were the product used as normally indicated, or in
+the case of a controlled substance, as defined in section thirty-three
+hundred two of the public health law, when more than a seven day supply
+of the previously dispensed amount should remain were the product used
+as normally indicated; provided further that the commissioner of health
+is authorized to require prior authorization of prescriptions of opioid
+analgesics in excess of four prescriptions in a thirty-day period in
+accordance with section two hundred seventy-three of the public health
+law; medical assistance shall not include any drug provided on other
+than an in-patient basis for which a recipient is charged or a claim is
+made in the case of a prescription drug, in excess of the maximum
+reimbursable amounts to be established by department regulations in
+accordance with standards established by the secretary of the United
+States department of health and human services, or, in the case of a
+drug not requiring a prescription, in excess of the maximum reimbursable
+amount established by the commissioner of health pursuant to paragraph
+(a) of subdivision four of this section;
+  * NB Effective July 1, 2017
   (h) speech therapy, and when provided at the direction of a physician
 or nurse practitioner, physical therapy including related rehabilitative
 services and occupational therapy; provided, however, that speech
@@ -444,6 +477,29 @@ including provider credentialing; or prohibit an insurer from providing
 a global or capitated payment or electing to directly reimburse a
 non-physician surgical first assistant for the services, as otherwise
 permitted by law.
+  * (dd) pasteurized donor human milk (PDHM), which may include
+fortifiers as medically indicated, for inpatient use, for which a
+licensed medical practitioner has issued an order for an infant who is
+medically or physically unable to receive maternal breast milk or
+participate in breast feeding or whose mother is medically or physically
+unable to produce maternal breast milk at all or in sufficient
+quantities or participate in breast feeding despite optimal lactation
+support. Such infant shall: (i) have a documented birth weight of less
+than one thousand five hundred grams; or (ii) have a congenital or
+acquired condition that places the infant at a high risk for development
+of necrotizing enterocolitis; or (iii) have a congenital or acquired
+condition that may benefit from the use of donor breast milk as
+determined by the commissioner of health or his or her designee.
+  * NB Effective July 1, 2017
+  (ee) Medical assistance shall include the coverage of a set of
+services to ensure improved outcomes of women who are in the process of
+ovulation enhancing drugs, limited to the provision of such treatment,
+office visits, hysterosalpingogram services, pelvic ultrasounds, and
+blood testing; services shall be limited to those necessary to monitor
+such treatment. In the event that ninety percent federal financial
+participation for such services is not available, the state share of
+appropriations related to these services shall be used for a grant
+program intended to accomplish the purpose of this section.
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

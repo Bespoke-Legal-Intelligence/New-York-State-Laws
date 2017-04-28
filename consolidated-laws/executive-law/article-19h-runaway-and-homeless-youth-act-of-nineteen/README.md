@@ -11,6 +11,7 @@
 - [§ 532-C Notice to parent; return of runaway youth to parent; alternative living arrangements](532c-notice-to-parent-return-of-runaway-youth-to-parent-alternative-living.md)
 - [§ 532-D Residential facilities operated as transitional independent living support programs](532d-residential-facilities-operated-as-transitional-independent-living-support.md)
 - [§ 532-E Powers and duties of the office of children and family services](532e-powers-and-duties-of-the-office-of-children-and-family-services.md)
+- [§ 532-F Required certification for residential programs](532f-required-certification-for-residential-programs.md)
 
 <details>
 <summary>Official heading of Article 19-H, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,13 +22,15 @@
                      NINETEEN HUNDRED SEVENTY-EIGHT
 Section 532.   Short title.
         532-a. Definitions.
-        532-b. Powers and duties of approved runaway program.
-        532-c. Notice  to  parent;  return  of  runaway youth to parent;
+        532-b. Powers and duties of runaway and homeless youth crisis
+                 services programs.
+        532-c. Notice to parent; return of runaway youth to parent;
                  alternative living arrangements.
-        532-d. Residential   facilities   operated    as    transitional
-                 independent living support programs.
-        532-e. Powers  and  duties  of the office of children and family
+        532-d. Residential transitional independent living support
+                 programs.
+        532-e. Powers and duties of the office of children and family
                  services.
+        532-f. Required certification for residential programs.
 ```
 
 </details>

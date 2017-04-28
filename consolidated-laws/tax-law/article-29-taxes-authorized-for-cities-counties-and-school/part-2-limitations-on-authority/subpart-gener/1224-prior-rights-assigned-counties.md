@@ -581,50 +581,17 @@ percent rate of tax which the county of Onondaga is authorized and
 empowered to adopt pursuant to section twelve hundred ten of this
 article.
   * NB There are 2 sub (dd)'s
-  * (ee) The county of Chautauqua shall have the sole right to impose
-the additional three-quarters or one-half of one percent rate of tax
-which such county is authorized to impose pursuant to the authority of
-section twelve hundred ten of this article. Such additional rate of tax
-shall be in addition to any other tax which such county may impose or
-may be imposing pursuant to this article or any other law and such
-additional rate of tax shall not be subject to preemption. The maximum
-three percent rate referred to in this section shall be calculated
-without reference to the additional three-quarters or one-half of one
-percent rate of tax which the county of Chautauqua is authorized and
-empowered to adopt pursuant to section twelve hundred ten of this
-article.
-  * NB Effective until notification from the commissioner of taxation
-and finance that the provisions of § 8 of chapter 332 of 2015 have been
-satisfied for the 2016 county tax year
-  * (ee) The county of Chautauqua shall have the sole right to impose
-the additional one percent rate of tax which such county is authorized
-to impose pursuant to the authority of section twelve hundred ten of
-this article. Such additional rate of tax shall be in addition to any
-other tax which such county may impose or may be imposing pursuant to
-this article or any other law and such additional rate of tax shall not
-be subject to preemption. The maximum three percent rate referred to in
+  (ee) The county of Chautauqua shall have the sole right to impose the
+additional one percent rate of tax which such county is authorized to
+impose pursuant to the authority of section twelve hundred ten of this
+article. Such additional rate of tax shall be in addition to any other
+tax which such county may impose or may be imposing pursuant to this
+article or any other law and such additional rate of tax shall not be
+subject to preemption. The maximum three percent rate referred to in
 this section shall be calculated without reference to the additional one
 percent rate of tax which the county of Chautauqua is authorized and
 empowered to adopt pursuant to section twelve hundred ten of this
 article.
-  * NB Effective upon notification from the commissioner of taxation and
-finance that the provisions of § 8 of chapter 332 of 2015 have been
-satisfied for the 2016 county tax year
-  * (ee) The county of Chautauqua shall have the sole right to impose
-the additional three-quarters or one-half of one percent rate of tax
-which such county is authorized to impose pursuant to the authority of
-section twelve hundred ten of this article. Such additional rate of tax
-shall be in addition to any other tax which such county may impose or
-may be imposing pursuant to this article or any other law and such
-additional rate of tax shall not be subject to preemption. The maximum
-three percent rate referred to in this section shall be calculated
-without reference to the additional three-quarters or one-half of one
-percent rate of tax which the county of Chautauqua is authorized and
-empowered to adopt pursuant to section twelve hundred ten of this
-article.
-  * NB Effective upon notification from the commissioner of taxation and
-finance that the provisions of § 8 of chapter 332 of 2015 have NOT been
-satisfied for the 2017 county tax year
   (ff) The county of Putnam shall have the sole right to impose the
 additional one percent rate of tax which such county is authorized to
 impose pursuant to the authority of section twelve hundred ten of this

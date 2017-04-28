@@ -31,7 +31,7 @@ record established and maintained pursuant to section four hundred
 nine-f of this chapter. The commissioner shall promulgate regulations to
 assist social services officials in making determinations of eligibility
 for mandated preventive services pursuant to this subparagraph.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
 * (ii) the child is the subject of a petition under article seven of the
 family court act, or has been determined by the assessment service
 established pursuant to section two hundred forty-three-a of the
@@ -45,7 +45,7 @@ established and maintained pursuant to section four hundred nine-f of
 this chapter. The commissioner shall promulgate regulations to assist
 social services officials in making determinations of eligibility for
 mandated preventive services pursuant to clause (ii) of this paragraph.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   (b) When a child and his family have received preventive services for
 a period of six months pursuant to this subdivision, the social services
 official shall continue to provide such services only upon making a new
@@ -76,7 +76,7 @@ administered pursuant to a plan approved by the office of children and
 family services, the office of children and family services may waive
 the requirements of section four hundred nine-f or four hundred
 forty-two of this article.
-  * NB Effective until June 30, 2017
+  * NB Effective until June 30, 2022
   * (a) A social services official is authorized to provide community
 preventive services to communities likely to benefit from such services
 to accomplish the purposes set forth in section four hundred nine of
@@ -98,7 +98,7 @@ will be subject to denial of reimbursement. Where services are
 administered pursuant to a plan approved by the department, the
 department may waive the requirements of section four hundred nine-f or
 four hundred forty-two of this article.
-  * NB Effective June 30, 2017
+  * NB Effective June 30, 2022
   (b) The department must inform social services districts of procedures
 governing application for waivers of eligibility and administrative
 requirements and approval of waivers of eligibility and administrative

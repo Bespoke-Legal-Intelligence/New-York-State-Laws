@@ -17,6 +17,9 @@
 - [§ 1108 Powers and duties with respect to comprehensive public water supply planning](1108-powers-and-duties-with-respect-to-comprehensive-public.md)
 - [§ 1109 Standards for water reuse](1109-standards-for-water-reuse.md)
 - [§ 1110 School potable water testing and standards](1110-school-potable-water-testing-and-standards.md)
+- [§ 1112 Emerging contaminant monitoring](1112-emerging-contaminant-monitoring.md)
+- [§ 1113 Drinking water quality council; established](1113-drinking-water-quality-council-established.md)
+- [§ 1114 Lead service line replacement grant program](1114-lead-service-line-replacement-grant-program.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -39,6 +42,9 @@ Section 1100.   Rules and regulations of the department.
                   water supply planning.
         1109.   Standards for water reuse.
         1110.   School potable water testing and standards.
+        1112.   Emerging contaminant monitoring.
+        1113.   Drinking water quality council; established.
+        1114.   Lead service line replacement grant program.
 ```
 
 </details>

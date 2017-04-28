@@ -119,19 +119,18 @@ accumulation fund and five and six-tenths percent shall be deposited in
 such mass transportation operating assistance fund to the credit of such
 metropolitan mass transportation operating assistance account.
   * NB Effective April 1, 2020
-  * 3. The moneys collected from the taxes imposed by sections one
-hundred eighty-three and one hundred eighty-four of this article on and
-after April first, two thousand thirteen, after reserving amounts for
-refunds or reimbursements, shall be distributed as follows: twenty
-percent of such moneys shall be deposited to the credit of the dedicated
-highway and bridge trust fund established by section eighty-nine-b of
-the state finance law, fifty-four percent of such moneys shall be
-deposited in the mass transportation operating assistance fund to the
-credit of the metropolitan mass transportation operating assistance
-account created pursuant to section eighty-eight-a of the state finance
-law and twenty-six percent of such moneys shall be deposited in the mass
+  3. The moneys collected from the taxes imposed by sections one hundred
+eighty-three and one hundred eighty-four of this article on and after
+April first, two thousand thirteen, after reserving amounts for refunds
+or reimbursements, shall be distributed as follows: twenty percent of
+such moneys shall be deposited to the credit of the dedicated highway
+and bridge trust fund established by section eighty-nine-b of the state
+finance law, fifty-four percent of such moneys shall be deposited in the
+mass transportation operating assistance fund to the credit of the
+metropolitan mass transportation operating assistance account created
+pursuant to section eighty-eight-a of the state finance law and
+twenty-six percent of such moneys shall be deposited in the mass
 transportation operating assistance fund to the credit of the public
 transportation systems operating assistance account created pursuant to
 section eighty-eight-a of the state finance law.
-  * NB Repealed March 31, 2018
 ```

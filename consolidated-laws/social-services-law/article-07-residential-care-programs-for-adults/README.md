@@ -16,7 +16,7 @@
 ```text
                                 ARTICLE 7
             RESIDENTIAL CARE PROGRAMS FOR ADULTS AND CHILDREN
-Title 1. General provisions (§§ 460--460-g).
+Title 1. General provisions (§§ 460--460-h).
       2. Residential programs for adults (§§ 461--461-t).
       3. Residential programs for children (§§ 462--462-b).
       4. Registry of community residential facilities (§§ 463--463-b).

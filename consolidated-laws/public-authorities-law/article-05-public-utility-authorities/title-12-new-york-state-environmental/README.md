@@ -29,6 +29,9 @@
 - [§ 1285-P State environmental infrastructure projects](1285p-state-environmental-infrastructure-projects.md)
 - [§ 1285-Q Financing of hazardous waste site remediation projects](1285q-financing-of-hazardous-waste-site-remediation.md)
 - [§ 1285-R State beginning farmer program](1285r-state-beginning-farmer-program.md)
+- [§ 1285-S New York state intermunicipal water infrastructure grants program](1285s-new-york-state-intermunicipal-water-infrastructure.md)
+- [§ 1285-T Water infrastructure emergency financial assistance](1285t-water-infrastructure-emergency-financial-assistance.md)
+- [§ 1285-U Septic system replacement fund](1285u-septic-system-replacement-fund.md)
 - [§ 1286 Acquisition and disposition of real property](1286-acquisition-and-disposition-of-real-property.md)
 - [§ 1287 Construction contracts](1287-construction-contracts.md)
 - [§ 1288 Co-operation and assistance of other agencies](1288-co-operation-and-assistance-of-other-agencies.md)
@@ -84,6 +87,10 @@ Section 1280.   Short title.
         1285-p. State environmental infrastructure projects.
         1285-q. Financing of hazardous waste site remediation projects.
         1285-r. State beginning farmer program.
+        1285-s. New York state intermunicipal water infrastructure
+                  grants program.
+        1285-t. Water infrastructure emergency financial assistance.
+        1285-u. Septic system replacement fund.
         1286.   Acquisition and disposition of real property.
         1287.   Construction contracts.
         1288.   Co-operation and assistance of other agencies.
