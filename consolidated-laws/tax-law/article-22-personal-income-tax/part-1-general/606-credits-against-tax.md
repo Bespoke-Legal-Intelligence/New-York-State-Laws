@@ -2302,17 +2302,17 @@ credit under subsection (fff)        subdivision fifty-one of
 (xlii) Employee training incentive   Amount of credit under
 program credit under                 subdivision fifty of
 subsection (ddd)                     section two hundred ten-B
-* (xliii) Life sciences research and Amount of credit under
-development tax credit under         subdivision fifty-two of
+* (xliii) Life sciences research     Amount of credit under
+and development tax credit under     subdivision fifty-two of
 subsection (hhh)                     section two hundred ten-B
   * NB There are 3 clause (xliii)'s
-* (xliii) Empire state apprenticeshipAmount of credit under
-tax credit under subsection (vvv)    subdivision forty-nine of
-                                     section two hundred ten-B
+* (xliii) Empire state apprentice-   Amount of credit under
+ship tax credit under subsection     subdivision forty-nine of
+(vvv)                                section two hundred ten-B
   * NB There are 3 clause (xliii)'s
 * (xliii) Farm donations to food     Amount of credit under
-pantries credit under                subdivision fifty-two of
-subsection (n-2)                     section two hundred ten-B
+pantries credit under subsection     subdivision fifty-two of
+(n-2)                                section two hundred ten-B
   * NB There are 3 clause (xliii)'s
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a

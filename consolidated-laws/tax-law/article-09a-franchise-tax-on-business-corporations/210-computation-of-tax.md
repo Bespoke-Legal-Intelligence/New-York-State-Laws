@@ -454,8 +454,7 @@ If New York receipts are:                The fixed dollar minimum tax is:
   (D) Otherwise, for all other taxpayers not covered by clauses (A),
 (B), (C) and (D-1) of this subparagraph, the amount prescribed by this
 paragraph will be determined in accordance with the following table:
-  If New York receipts are:              The fixed dollar minimum tax
-is:
+If New York receipts are:                The fixed dollar minimum tax is:
  not more than $100,000                               $   25
  more than $100,000 but not over $250,000             $   75
  more than $250,000 but not over $500,000             $  175

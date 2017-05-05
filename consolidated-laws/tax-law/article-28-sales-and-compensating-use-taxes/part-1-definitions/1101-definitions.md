@@ -144,7 +144,7 @@ purposes (without reference to any special rules related to the
 imposition of certain federal taxes), including but not limited to
 certain employment and excise taxes; (B) a sale to a partnership for
 resale to one or more of its partners; or (C) a sale to a trustee of a
-trust for resale to one or more beneficiaries of such trust.;
+trust for resale to one or more beneficiaries of such trust.
   (5) Sale, selling or purchase. Any transfer of title or possession or
 both, exchange or barter, rental, lease or license to use or consume
 (including, with respect to computer software, merely the right to

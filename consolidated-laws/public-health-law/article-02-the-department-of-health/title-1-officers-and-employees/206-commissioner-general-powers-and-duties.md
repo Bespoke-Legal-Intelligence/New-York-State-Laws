@@ -208,7 +208,6 @@ have a new crib available, hospital staff shall provide information
 about where to obtain a new crib, including social services agencies,
 non-profit service providers or other relevant organizations.
   * NB There are 2 par (v)'s
-  * NB Effective May 1, 2017
   2. The commissioner and any person authorized by him so to do, may,
 without fee or hindrance, enter, examine and survey all grounds,
 erections, vehicles, structures, apartments, buildings and places.

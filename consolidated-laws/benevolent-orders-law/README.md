@@ -8,7 +8,7 @@
 | Senate code | BVO |
 | Type | Consolidated law, chapter 3 |
 | Sections | 20 |
-| Last changed | 6 Nov 2015 |
+| Last changed | 5 May 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Benevolent Orders |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [5 May 2017](../../changes/2017/2017-05-05.md): 1 amended
 - [6 Nov 2015](../../changes/2015/2015-11-06.md): 2 amended
 
 ## Contents
