@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 4-B — Office of the Inspector General of New York For Transportation](README.md)
 
 ```text
-  * § 58. Functions and duties. The inspector general of New York for
+  § 58. Functions and duties. The inspector general of New York for
 transportation shall have the following duties and responsibilities:
   1. receive, investigate, and prosecute complaints from any source, or
 upon his or her own initiative, concerning allegations of corruption,
@@ -44,5 +44,4 @@ release of all or portions of such reports may be deferred to protect
 the confidentiality of ongoing investigations, provided that the
 inspector general shall maintain a written record that specifies the
 reason confidentiality is necessary under this subdivision.
-  * NB Effective May 10, 2017
 ```

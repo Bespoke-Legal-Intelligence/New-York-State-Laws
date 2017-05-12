@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 4-B — Office of the Inspector General of New York For Transportation](README.md)
 
 ```text
-  * § 57. Establishment and organization. 1. There shall be an office of
+  § 57. Establishment and organization. 1. There shall be an office of
 the inspector general of New York for transportation in the executive
 department. The head of the office shall be the inspector general of New
 York for transportation.
@@ -19,5 +19,4 @@ avoid duplication and provide for a timely response to alleged
 violations.
   4. The salary of the inspector general shall be established by the
 governor within the limit of funds available therefore.
-  * NB Effective May 10, 2017
 ```

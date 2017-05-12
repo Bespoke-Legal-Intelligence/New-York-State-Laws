@@ -4,17 +4,16 @@
 [Executive Law](../README.md) › [Article 4-B — Office of the Inspector General of New York For Transportation](README.md)
 
 ```text
-  * § 56. Jurisdiction. 1. This article shall, subject to the
-limitations contained herein, confer upon the office of the inspector
-general of New York for transportation investigative and prosecutorial
-power over criminal and unethical conduct involving individuals serving
-at a senior level in operations, financing or management of a
-transportation entity located in a city of a population of one million
-or more where such action or actions occurred within the state; and
-investigative and prosecutorial power of criminal and unethical conduct
-involving managerial appointees or managerial employees of any
-transportation entity where such action or actions occurred within the
-state.
+  § 56. Jurisdiction. 1. This article shall, subject to the limitations
+contained herein, confer upon the office of the inspector general of New
+York for transportation investigative and prosecutorial power over
+criminal and unethical conduct involving individuals serving at a senior
+level in operations, financing or management of a transportation entity
+located in a city of a population of one million or more where such
+action or actions occurred within the state; and investigative and
+prosecutorial power of criminal and unethical conduct involving
+managerial appointees or managerial employees of any transportation
+entity where such action or actions occurred within the state.
   2. For the purposes of this article: (a) "transportation entity" shall
 mean any public entity located within a city of one million or more
 involved in the transportation of persons, goods or other items within
@@ -60,5 +59,4 @@ unethical conduct of individuals involved at a senior level in
 operations, financing or management or a managerial appointee or
 managerial employee of a transportation entity where such conduct
 occurred in New York.
-  * NB Effective May 10, 2017
 ```
