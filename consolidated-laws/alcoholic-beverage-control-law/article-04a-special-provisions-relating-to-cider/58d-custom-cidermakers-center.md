@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4-A — Special Provisions Relating to Cider](README.md)
 
 ```text
-  * § 58-d. Custom cidermakers' center. 1. Any person may apply to the
+  § 58-d. Custom cidermakers' center. 1. Any person may apply to the
 authority on or before December thirty-first, two thousand nineteen for
 a custom cidermakers' center license as provided for in this section to
 operate a custom cidermakers' center facility and provide individuals
@@ -76,5 +76,4 @@ the annual amount of cider produced by each individual at the facility
 pursuant to the rules of the authority.
   10. The annual fee for a license to operate a custom cidermakers'
 center shall be three hundred twenty dollars.
-  * NB Effective May 13, 2017
 ```

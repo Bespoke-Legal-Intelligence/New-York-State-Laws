@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 6 — Special Provisions Relating to Wine](README.md)
 
 ```text
-  * § 77. Custom winemakers' center. 1. Any person may apply to the
+  § 77. Custom winemakers' center. 1. Any person may apply to the
 authority on or before December thirty-first, two thousand nineteen for
 a custom winemakers' center license as provided for in this section to
 operate a custom winemakers' center facility and provide individuals
@@ -75,5 +75,4 @@ regulations to effectuate the purposes of this section.
 contact information of the individual or individuals that have used such
 facility and the annual amount of wine produced by each individual at
 the facility pursuant to the rules of the authority.
-  * NB Effective May 13, 2017
 ```

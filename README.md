@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 12 May 2017.*
+*Current through the publication of 19 May 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [19 May 2017](changes/2017/2017-05-19.md): Alcoholic Beverage Control Law; Correction Law; Insurance Law
 - [12 May 2017](changes/2017/2017-05-12.md): Criminal Procedure Law; Executive Law; State Finance Law
 - [5 May 2017](changes/2017/2017-05-05.md): Benevolent Orders Law; Business Corporation Law; Public Health Law; Real Property Tax Law; Tax Law; Vehicle and Traffic Law
 - [28 Apr 2017](changes/2017/2017-04-28.md): Abandoned Property Law; Agriculture and Markets Law; Business Corporation Law; Civil Practice Law and Rules; Correction Law; Court of Claims Act; Criminal Procedure Law; Domestic Relations Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Military Law; Navigation Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [14 Apr 2017](changes/2017/2017-04-14.md): Economic Development Law; Executive Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Public Health Law; Public Housing Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [31 Mar 2017](changes/2017/2017-03-31.md): Correction Law; Public Health Law; Vehicle and Traffic Law
 - [17 Mar 2017](changes/2017/2017-03-17.md): Arts and Cultural Affairs Law; Banking Law; Correction Law; Executive Law; General Business Law; Insurance Law; Local Finance Law; Public Authorities Law; Public Health Law; Social Services Law; Vehicle and Traffic Law
-- [10 Mar 2017](changes/2017/2017-03-10.md): Civil Service Law; Correction Law; Education Law; Executive Law; Public Officers Law
 
 ## Most changed in the past 12 months
 
@@ -35,11 +35,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 83 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 82 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 65 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 58 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 54 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 53 |
 | [County Law](consolidated-laws/county-law/README.md) | 53 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 52 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 51 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 51 |
 | [Suffolk County Tax Act](unconsolidated-laws/suffolk-county-tax-act/README.md) | 49 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 46 |
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 655 | 28 Apr 2017 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 17 Feb 2017 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 19 May 2017 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 17 Mar 2017 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 837 | 17 Mar 2017 |
@@ -61,7 +61,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 107 | 25 Sep 2015 |
 | [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 10 Mar 2017 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
-| [Correction Law](consolidated-laws/correction-law/README.md) | COR | 324 | 28 Apr 2017 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | COR | 324 | 19 May 2017 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 444 | 21 Apr 2017 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 574 | 12 May 2017 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
@@ -85,7 +85,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 199 | 9 Oct 2015 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 569 | 2 Dec 2016 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 29 Jan 2016 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,011 | 28 Apr 2017 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,011 | 19 May 2017 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 523 | 28 Apr 2017 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 674 | 28 Apr 2017 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 28 Apr 2017 |

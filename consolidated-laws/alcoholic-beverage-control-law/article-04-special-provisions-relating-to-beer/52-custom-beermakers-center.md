@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 4 — Special Provisions Relating to Beer](README.md)
 
 ```text
-  * § 52. Custom beermakers' center. 1. Any person may apply to the
+  § 52. Custom beermakers' center. 1. Any person may apply to the
 authority on or before December thirty-first, two thousand nineteen for
 a custom beermakers' center license as provided for in this section to
 operate a custom beermakers' center facility and provide individuals
@@ -78,5 +78,4 @@ regulations to effectuate the purposes of this section.
 contact information of the individuals that have used such facility and
 the annual amount of beer produced by each individual at the facility
 pursuant to the rules of the authority.
-  * NB Effective May 13, 2017
 ```
