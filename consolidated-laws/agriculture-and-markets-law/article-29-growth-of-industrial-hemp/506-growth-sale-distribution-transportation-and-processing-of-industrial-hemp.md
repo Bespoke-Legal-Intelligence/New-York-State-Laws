@@ -4,27 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
-  * § 506. Growth, sale, distribution, transportation and processing of
-industrial hemp and products derived from such hemp permitted.
-Notwithstanding any provision of law to the contrary, industrial hemp
-and products derived from such hemp are agricultural products which may
-be grown, produced and possessed in the state, and sold, distributed,
-transported or processed either in or out of state as part of
-agricultural pilot programs pursuant to authorization under federal law
-and the provisions of this article.
-  Notwithstanding any provision of law to the contrary restricting the
-growing or cultivating, sale, distribution, transportation or processing
-of industrial hemp and products derived from such hemp, and subject to
-authorization under federal law, the commissioner may authorize no more
-than ten sites for the growing or cultivating of industrial hemp as part
-of agricultural pilot programs conducted by the department and/or an
-institution of higher education to study the growth and cultivation,
-sale, distribution, transportation and processing of such hemp and
-products derived from such hemp provided that the sites and programs
-used for growing or cultivating industrial hemp are certified by, and
-registered with, the department.
-  * NB Effective until May 20, 2017
-  * § 506. Growth, sale, distribution, transportation and processing of
+  § 506. Growth, sale, distribution, transportation and processing of
 industrial hemp and products derived from such hemp permitted.
 Notwithstanding any provision of law to the contrary, industrial hemp
 and products derived from such hemp are agricultural products which may
@@ -43,5 +23,4 @@ transportation and processing of such hemp and products derived from
 such hemp provided that the sites and programs used for growing or
 cultivating industrial hemp are certified by, and registered with, the
 department.
-  * NB Effective May 20, 2017
 ```

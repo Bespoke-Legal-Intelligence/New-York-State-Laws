@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 May 2017.*
+*Current through the publication of 26 May 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 May 2017](changes/2017/2017-05-26.md): Agriculture and Markets Law; Real Property Tax Law; Tax Law
 - [19 May 2017](changes/2017/2017-05-19.md): Alcoholic Beverage Control Law; Correction Law; Insurance Law
 - [12 May 2017](changes/2017/2017-05-12.md): Criminal Procedure Law; Executive Law; State Finance Law
 - [5 May 2017](changes/2017/2017-05-05.md): Benevolent Orders Law; Business Corporation Law; Public Health Law; Real Property Tax Law; Tax Law; Vehicle and Traffic Law
@@ -22,16 +23,15 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [21 Apr 2017](changes/2017/2017-04-21.md): Correction Law; County Law; Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Medical Care Facilities Finance Agency; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [14 Apr 2017](changes/2017/2017-04-14.md): Economic Development Law; Executive Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Public Health Law; Public Housing Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [31 Mar 2017](changes/2017/2017-03-31.md): Correction Law; Public Health Law; Vehicle and Traffic Law
-- [17 Mar 2017](changes/2017/2017-03-17.md): Arts and Cultural Affairs Law; Banking Law; Correction Law; Executive Law; General Business Law; Insurance Law; Local Finance Law; Public Authorities Law; Public Health Law; Social Services Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Education Law](consolidated-laws/education-law/README.md) | 183 |
+| [Education Law](consolidated-laws/education-law/README.md) | 177 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 134 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 107 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 100 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 101 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 83 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 82 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 65 |
@@ -42,14 +42,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Family Court Act](court-acts/family-court-act/README.md) | 51 |
 | [Suffolk County Tax Act](unconsolidated-laws/suffolk-county-tax-act/README.md) | 49 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 49 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 46 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 47 |
 
 ## Consolidated Laws
 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 655 | 28 Apr 2017 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 655 | 26 May 2017 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 19 May 2017 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 17 Mar 2017 |
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 324 | 28 Apr 2017 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 410 | 28 Apr 2017 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 756 | 5 May 2017 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 756 | 26 May 2017 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 336 | 15 Jan 2016 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 21 Apr 2017 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
@@ -130,7 +130,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 11 Mar 2016 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 25 | no change since 22 Sep 2014 (start of history) |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,163 | 5 May 2017 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,163 | 26 May 2017 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 13 Jan 2017 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 13 Jan 2017 |
