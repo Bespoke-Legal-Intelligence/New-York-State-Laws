@@ -13,7 +13,7 @@
 - [§ 306 Service of process](306-service-of-process.md)
 - [§ 307 Service of process on unauthorized foreign corporation](307-service-of-process-on-unauthorized-foreign-corporation.md)
 - [§ 308 Records and certificates of department of state](308-records-and-certificates-of-department-of-state.md)
-- [§ 309 Personal jurisdiction and service of process on non-domiciliary resident director, officer, key employee or agent](309-personal-jurisdiction-and-service-of-process-on-non-domiciliary-resident.md)
+- [§ 309 Personal jurisdiction and service of process on non-domiciliary resident director, officer, key person or agent](309-personal-jurisdiction-and-service-of-process-on-non-domiciliary-resident.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

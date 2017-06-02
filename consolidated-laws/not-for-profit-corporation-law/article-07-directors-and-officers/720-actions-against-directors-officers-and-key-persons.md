@@ -1,21 +1,13 @@
-﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 720", "kind": "section", "law_id": "NPC", "location_id": "720", "path": "ARTICLE 7 › SECTION 720", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/720.md", "title": "Actions against directors, officers and key employees"} -->
-# Not-for-Profit Corporation Law § 720 — Actions against directors, officers and key employees
+﻿<!-- nyslaw {"citation": "Not-for-Profit Corporation Law § 720", "kind": "section", "law_id": "NPC", "location_id": "720", "path": "ARTICLE 7 › SECTION 720", "repealed": false, "repealed_date": null, "source": "nys-laws:NPC/720.md", "title": "Actions against directors, officers and key persons"} -->
+# Not-for-Profit Corporation Law § 720 — Actions against directors, officers and key persons
 
 [Not-for-Profit Corporation Law](../README.md) › [Article 7 — Directors and Officers](README.md)
 
 ```text
-§ 720. * Actions against directors, officers and key employees.
-  * NB Effective until May 27, 2017
-  * Actions against directors, officers and key persons.
-  * NB Effective May 27, 2017
-  * (a) An action may be brought against one or more directors,
-officers, or key employees of a corporation to procure a judgment for
-the following relief:
-  * NB Effective until May 27, 2017
-  * (a) An action may be brought against one or more directors,
-officers, or key persons of a corporation to procure a judgment for the
-following relief:
-  * NB Effective May 27, 2017
+§ 720. Actions against directors, officers and key persons.
+  (a) An action may be brought against one or more directors, officers,
+or key persons of a corporation to procure a judgment for the following
+relief:
   (1) To compel the defendant to account for his official conduct in the
 following cases:
   (A) The neglect of, or failure to perform, or other violation of his

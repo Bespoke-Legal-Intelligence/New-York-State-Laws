@@ -6,23 +6,7 @@
 ```text
   § 2553. Early intervention coordinating council. 1. (a) The department
 shall establish an early intervention coordinating council.
-  * (b) The council shall consist of twenty-seven members, unless
-otherwise required by federal law, appointed by the governor. At least
-five members shall be parents, four of whom shall be parents of children
-with disabilities aged twelve or younger and one of whom shall be the
-parent of a child with disabilities aged six or younger; at least five
-shall be representatives of public or private providers of early
-intervention services; at least one shall be involved in personnel
-preparation or training; at least two shall be early intervention
-officials; at least two shall be members of the legislature; seven shall
-be the commissioner and the commissioners of education, the office of
-children and family services, people with developmental disabilities,
-mental health, alcoholism and substance abuse services and the
-superintendent of financial services, or their appropriate designees
-with sufficient authority to engage in policy planning and
-implementation on behalf of their agencies.
-  * NB Effective until May 27, 2017
-  * (b) The council shall consist of thirty members, unless otherwise
+  (b) The council shall consist of thirty members, unless otherwise
 required by federal law, appointed by the governor. At least five
 members shall be parents, four of whom shall be parents of children with
 disabilities aged twelve or younger and one of whom shall be the parent
@@ -39,20 +23,7 @@ developmental disabilities, mental health, alcoholism and substance
 abuse services and the superintendent of financial services, or their
 appropriate designees with sufficient authority to engage in policy
 planning and implementation on behalf of their agencies.
-  * NB Effective May 27, 2017
-  * (c) The governor shall appoint eight members on the recommendation
-of the temporary president of the senate and the speaker of the
-assembly, each of whom shall recommend four members as follows: one
-parent of a child with disabilities age twelve or younger; one
-representative of public or private providers of early intervention
-services; one member of the legislature; and one early intervention
-official. The governor shall appoint four members on the recommendations
-of the minority leader of the assembly and the minority leader of the
-senate, each of whom shall recommend two members as follows: one parent
-of a child with disabilities age twelve or younger; one representative
-of public or private providers of early intervention services.
-  * NB Effective until May 27, 2017
-  * (c) The governor shall appoint ten members on the recommendation of
+  (c) The governor shall appoint ten members on the recommendation of
 the temporary president of the senate and the speaker of the assembly,
 each of whom shall recommend five members as follows: one parent of a
 child with disabilities age twelve or younger; one representative of
@@ -66,7 +37,6 @@ leader of the senate, each of whom shall recommend two members as
 follows: one parent of a child with disabilities age twelve or younger;
 one representative of public or private providers of early intervention
 services.
-  * NB Effective May 27, 2017
   (d) The governor shall designate a chairperson from among the members
 of the council. All members shall serve for terms of three years. Such
 terms shall be established so that the terms of no more than one-third

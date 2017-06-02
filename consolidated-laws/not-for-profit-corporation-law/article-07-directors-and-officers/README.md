@@ -27,7 +27,7 @@
 - [§ 717 Duty of directors and officers](717-duty-of-directors-and-officers.md)
 - [§ 718 List of directors and officers](718-list-of-directors-and-officers.md)
 - [§ 719 Liability of directors in certain cases](719-liability-of-directors-in-certain-cases.md)
-- [§ 720 Actions against directors, officers and key employees](720-actions-against-directors-officers-and-key-employees.md)
+- [§ 720 Actions against directors, officers and key persons](720-actions-against-directors-officers-and-key-persons.md)
 - [§ 720-A Liability of directors, officers and trustees](720a-liability-of-directors-officers-and-trustees.md)
 - [§ 721 Nonexclusivity of statutory provisions for indemnification of directors and officers](721-nonexclusivity-of-statutory-provisions-for-indemnification-of-directors.md)
 - [§ 722 Authorization for indemnification of directors and officers](722-authorization-for-indemnification-of-directors-and-officers.md)
