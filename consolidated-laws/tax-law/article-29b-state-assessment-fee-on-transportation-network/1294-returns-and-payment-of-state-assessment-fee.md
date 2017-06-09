@@ -33,5 +33,5 @@ return for such period, without regard to whether a return is filed or
 whether the return that is filed correctly shows the correct number of
 trips, gross trip fares or amount of fees due thereon. The commissioner
 may require that the fee be paid electronically.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

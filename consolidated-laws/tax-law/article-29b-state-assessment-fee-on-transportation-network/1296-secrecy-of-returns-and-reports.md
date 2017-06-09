@@ -95,5 +95,5 @@ from office and be incapable of holding any public office for a period
 of five years thereafter.
   (2) Cross-reference: For criminal penalties, see article thirty-seven
 of this chapter.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

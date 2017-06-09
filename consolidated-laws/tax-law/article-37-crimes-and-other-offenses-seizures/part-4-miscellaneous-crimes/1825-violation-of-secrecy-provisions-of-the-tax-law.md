@@ -18,7 +18,7 @@ section fifteen hundred eighteen, subdivision (a) of section fifteen
 hundred fifty-five of this chapter, and subdivision (e) of section
 11-1797 of the administrative code of the city of New York shall be
 guilty of a misdemeanor.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * § 1825. Violation of secrecy provisions of the tax law.--Any person
 who violates the provisions of subdivision (b) of section twenty-one,
 subdivision one of section two hundred two, subdivision eight of section
@@ -33,5 +33,5 @@ hundred eighteen, subdivision (a) of section fifteen hundred eighteen,
 subdivision (a) of section fifteen hundred fifty-five of this chapter,
 and subdivision (e) of section 11-1797 of the administrative code of the
 city of New York shall be guilty of a misdemeanor.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

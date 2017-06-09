@@ -138,5 +138,5 @@ with a population of one million or more.
 policy issued pursuant to this section. Nothing in this section
 supercedes the mandatory arbitration requirements contained in section
 five thousand one hundred five of the insurance law.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

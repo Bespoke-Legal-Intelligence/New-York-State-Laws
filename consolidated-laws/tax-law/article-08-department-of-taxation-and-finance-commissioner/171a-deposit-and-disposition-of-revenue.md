@@ -92,7 +92,7 @@ respect to amounts originally withheld from such overpayment pursuant to
 section one hundred seventy-one-l of this article and paid to the city
 of New York, the comptroller shall collect a like amount from the city
 of New York.
-  ** NB Effective until July 9, 2017
+  ** NB Effective until June 29, 2017
   ** 1. All taxes, interest, penalties and fees collected or received by
 the commissioner or the commissioner's duly authorized agent under
 articles nine (except section one hundred eighty-two-a thereof and
@@ -180,7 +180,7 @@ from such overpayment, and (vii) with respect to amounts originally
 withheld from such overpayment pursuant to section one hundred
 seventy-one-l of this article and paid to the city of New York, the
 comptroller shall collect a like amount from the city of New York.
-  ** NB Effective July 9, 2017 until July 5, 2021
+  ** NB Effective June 29, 2017 until July 5, 2021
   ** 1. All taxes, interest, penalties and fees collected or received by
 the commissioner or the commissioner's duly authorized agent under
 articles nine (except section one hundred eighty-two-a thereof and

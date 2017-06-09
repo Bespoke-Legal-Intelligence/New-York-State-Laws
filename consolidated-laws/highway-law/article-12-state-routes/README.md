@@ -262,13 +262,14 @@
 - [§ 344-E\*5 Portion of the state highway system to be designated as the "6994th Security Squadron Memorial Highway"](344e-5-portion-of-the-state-highway-system-to-be-designated-as-the-6994th-security.md)
 - [§ 344-E\*6 Portion of the state highway system to be designated as "John Spear Way"](344e-6-portion-of-the-state-highway-system-to-be-designated-as-john-spear-way.md)
 - [§ 344-E\*7 Portion of the state highway system to be designated as the "Sergeant Kevin W](344e-7-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-kevin-w.md)
-- [§ 344-E\*8 Portion of the state highway system to be designated as the "Marine Lance Corporal James J](344e-8-portion-of-the-state-highway-system-to-be-designated-as-the-marine-lance.md)
+- [§ 344-E\*8 Portion of the state highway system to be designated as the "Marine Corporal James J](344e-8-portion-of-the-state-highway-system-to-be-designated-as-the-marine-corporal.md)
 - [§ 344-E\*9 Portion of the state highway system to be designated as the "United States Submarine Veterans' Memorial Highway-Saratoga County"](344e-9-portion-of-the-state-highway-system-to-be-designated-as-the-united-states.md)
 - [§ 344-E\*10 Portion of the state highway system to be designated as the "Corporal Nicholas K](344e-10-portion-of-the-state-highway-system-to-be-designated-as-the-corporal-nicholas-k.md)
 - [§ 344-E\*11 Portion of state highway system to be designated as the "Corey Lee Carr Memorial Bridge"](344e-11-portion-of-state-highway-system-to-be-designated-as-the-corey-lee-carr-memorial.md)
 - [§ 344-E\*12 Portion of the state highway system to be designated as the "Wayne C](344e-12-portion-of-the-state-highway-system-to-be-designated-as-the-wayne-c.md)
 - [§ 344-E\*13 Portion of the state highway system to be designated as the "Private First Class Duane C](344e-13-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
 - [§ 344-E\*14 Portion of the state highway system to be designated as the "Army Captain Clayton Carpenter Memorial Highway"](344e-14-portion-of-the-state-highway-system-to-be-designated-as-the-army-captain-clayton.md)
+- [§ 344-F Portion of state highway system to be designated as the "Specialist Matthew E](344f-portion-of-state-highway-system-to-be-designated-as-the-specialist-matthew-e.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -874,8 +875,8 @@ Section 340-a.     Designation of state interstate routes.
         344-e*7.   Portion of the state highway system to be designated
                      as the "Sergeant Kevin W. White Memorial Bridge".
         344-e*8.   Portion of the state highway system to be designated
-                     as the "Marine Lance Corporal James J. Jackowski
-                     Memorial Highway".
+                     as the "Marine Corporal James J. Jackowski Memorial
+                     Highway".
         344-e*9.   Portion of the state highway system to be designated
                      as the "United States Submarine Veterans' Memorial
                      Highway-Saratoga County".
@@ -892,6 +893,8 @@ Section 340-a.     Designation of state interstate routes.
         344-e*14.  Portion of the state highway system to be designated
                      as the "Army Captain Clayton Carpenter Memorial
                      Highway".
+        344-f.     Portion of state highway system to be designated as
+                     the "Specialist Matthew E. Baylis Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
 ```
 

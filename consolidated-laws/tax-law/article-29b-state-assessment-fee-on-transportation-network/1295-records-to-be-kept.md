@@ -14,5 +14,5 @@ records required to be kept by a state agency that is authorized to
 permit or regulate a TNC; and
   (c) such other records and information as the commissioner may require
 to perform his or her duties under this article.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

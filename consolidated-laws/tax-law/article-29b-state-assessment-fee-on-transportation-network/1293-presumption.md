@@ -10,5 +10,5 @@ by this article, it shall be presumed that every TNC prearranged trip
 that originates anywhere in the state outside the city is subject to the
 state assessment fee. This presumption shall prevail until the contrary
 is proven by the person liable for the fee.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

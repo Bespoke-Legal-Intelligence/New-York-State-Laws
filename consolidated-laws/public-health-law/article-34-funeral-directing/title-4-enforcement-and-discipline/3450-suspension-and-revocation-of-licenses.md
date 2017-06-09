@@ -61,7 +61,7 @@ consideration (including without limitation a commission or gift) from
 any insurer or agent thereof, to sell, offer or promote the sale of any
 policy of insurance payable, expressly or as marketed, at the death of
 the insured for funeral or burial expenses;
-  * NB Effective until June 1, 2017
+  * NB Effective until June 30, 2022
   * (l) has paid, given, has caused to be paid or given or offered to
 pay or to give to any person a commission or other valuable
 consideration for the solicitation or procurement, either directly or
@@ -72,7 +72,7 @@ thereof) from any financial institution or trust company, or agent
 thereof, with whom the funeral director deposits funds paid for funeral
 services in advance of need pursuant to subdivision one of section four
 hundred fifty-three of the general business law;
-  * NB Effective June 1, 2017
+  * NB Effective June 30, 2022
   (m) has been guilty of fraudulent, misleading or deceptive
 advertising;
   (n) has practiced funeral directing, undertaking or embalming, or has

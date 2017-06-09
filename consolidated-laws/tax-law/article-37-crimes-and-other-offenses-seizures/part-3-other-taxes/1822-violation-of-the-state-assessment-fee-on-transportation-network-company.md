@@ -8,5 +8,5 @@
 network company prearranged trips. Any willful act or omission by any
 person that constitutes a violation of any provision of article
 twenty-nine-B of this chapter shall constitute a misdemeanor.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

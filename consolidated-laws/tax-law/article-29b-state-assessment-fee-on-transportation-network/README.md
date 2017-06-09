@@ -29,7 +29,7 @@ Section 1291. Definitions.
         1296. Secrecy of returns and reports.
         1297. Practice and procedure.
         1298. Deposit and disposition of revenue.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```
 
 </details>

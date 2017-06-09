@@ -17,5 +17,5 @@ its terms; and
   3. That, if a TNC vehicle has a lien against it, then the continued
 use of such TNC vehicle by its TNC driver without physical damage
 coverage may violate the terms of the contract with the lienholder.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

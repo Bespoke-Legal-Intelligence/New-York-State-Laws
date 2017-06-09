@@ -648,7 +648,7 @@ in such a city and regulated by such taxi and limousine commission; and
 the charges for service provided by an affiliated livery vehicle are on
 the basis of flat rate, time, mileage, or zones and not on a garage to
 garage basis.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * (34) Transportation service. The service of transporting, carrying
 or conveying a person or persons by livery service; whether to a single
 destination or to multiple destinations; and whether the compensation
@@ -682,7 +682,7 @@ dispatched by a base station located in such a city and regulated by
 such taxi and limousine commission; and the charges for service provided
 by an affiliated livery vehicle are on the basis of flat rate, time,
 mileage, or zones and not on a garage to garage basis.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
   (35) Modular home modules. The component sections that will be
 installed on-site to construct a modular home, each of which sections is
 (i) engineered and manufactured in a factory, (ii) shipped or delivered

@@ -13,5 +13,5 @@ incorporated in full into this article and had expressly referred to the
 state assessment fee under this article, except to the extent that any
 such provision is either inconsistent with a provision of this article
 or is not relevant to this article.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

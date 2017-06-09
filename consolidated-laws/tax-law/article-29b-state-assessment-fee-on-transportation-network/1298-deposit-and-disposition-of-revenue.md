@@ -8,5 +8,5 @@
 interest and penalties collected or received by the commissioner under
 this article shall be deposited and disposed of pursuant to the
 provisions of section one hundred seventy-one-a of this chapter.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

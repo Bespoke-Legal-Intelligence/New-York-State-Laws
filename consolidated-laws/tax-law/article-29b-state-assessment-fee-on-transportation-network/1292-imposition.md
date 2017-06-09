@@ -8,5 +8,5 @@
 assessment fee of 4% of the gross trip fare of every TNC prearranged
 trip provided by such TNC that originates anywhere in the state outside
 the city and terminates anywhere in this state.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```

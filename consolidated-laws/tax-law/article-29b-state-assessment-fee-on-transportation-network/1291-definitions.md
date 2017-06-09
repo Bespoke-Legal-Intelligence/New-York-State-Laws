@@ -26,5 +26,5 @@ in article forty-four-B of the vehicle and traffic law.
   (g) "Gross trip fare" means the sum of the base fare charge, distance
 charge and time charge for a complete TNC prearranged trip at the
 applicable rate charged by the TNC at the time such trip is arranged.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
 ```
