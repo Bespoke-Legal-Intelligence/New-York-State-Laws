@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 9 Jun 2017.*
+*Current through the publication of 16 Jun 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Jun 2017](changes/2017/2017-06-16.md): Real Property Tax Law
 - [9 Jun 2017](changes/2017/2017-06-09.md): Executive Law; General Municipal Law; Highway Law; Insurance Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [2 Jun 2017](changes/2017/2017-06-02.md): Civil Practice Law and Rules; Estates, Powers and Trusts Law; Not-for-Profit Corporation Law; Public Health Law; Public Officers Law; State Finance Law; Vehicle and Traffic Law
 - [26 May 2017](changes/2017/2017-05-26.md): Agriculture and Markets Law; Real Property Tax Law; Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [12 May 2017](changes/2017/2017-05-12.md): Criminal Procedure Law; Executive Law; State Finance Law
 - [5 May 2017](changes/2017/2017-05-05.md): Benevolent Orders Law; Business Corporation Law; Public Health Law; Real Property Tax Law; Tax Law; Vehicle and Traffic Law
 - [28 Apr 2017](changes/2017/2017-04-28.md): Abandoned Property Law; Agriculture and Markets Law; Business Corporation Law; Civil Practice Law and Rules; Correction Law; Court of Claims Act; Criminal Procedure Law; Domestic Relations Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Military Law; Navigation Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law
-- [21 Apr 2017](changes/2017/2017-04-21.md): Correction Law; County Law; Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; Family Court Act; General Municipal Law; Insurance Law; Medical Care Facilities Finance Agency; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 324 | 28 Apr 2017 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 410 | 28 Apr 2017 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 756 | 26 May 2017 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 756 | 16 Jun 2017 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 336 | 15 Jan 2016 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 21 Apr 2017 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
