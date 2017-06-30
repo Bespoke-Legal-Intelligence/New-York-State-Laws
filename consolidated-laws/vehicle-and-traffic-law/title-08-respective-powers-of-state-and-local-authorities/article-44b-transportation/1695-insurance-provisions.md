@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1695. Insurance provisions. 1. Insurers that write motor vehicle
+  § 1695. Insurance provisions. 1. Insurers that write motor vehicle
 insurance in this state may, in the insurance policy, exclude any and
 all coverage afforded under the policy issued to an owner or operator of
 a TNC vehicle for any loss or injury that occurs while a TNC driver is
@@ -63,5 +63,4 @@ such report, or his or her authorized representative; and
 demonstrated to the satisfaction of the commissioner that such person is
 or may be a party to a civil action arising out of the conduct described
 in such accident report.
-  * NB Effective June 29, 2017
 ```

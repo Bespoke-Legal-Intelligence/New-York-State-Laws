@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1694. Disclosures. A TNC shall disclose in writing to TNC drivers
+  § 1694. Disclosures. A TNC shall disclose in writing to TNC drivers
 the following before they are allowed to accept a request for a TNC
 prearranged trip on the TNC's digital network:
   1. The insurance coverage, including the types of coverage and the
@@ -17,5 +17,4 @@ its terms; and
   3. That, if a TNC vehicle has a lien against it, then the continued
 use of such TNC vehicle by its TNC driver without physical damage
 coverage may violate the terms of the contract with the lienholder.
-  * NB Effective June 29, 2017
 ```

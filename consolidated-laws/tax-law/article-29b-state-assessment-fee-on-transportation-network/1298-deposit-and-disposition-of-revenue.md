@@ -4,9 +4,8 @@
 [Tax Law](../README.md) › [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](README.md)
 
 ```text
-  * § 1298. Deposit and disposition of revenue. All taxes, fees,
-interest and penalties collected or received by the commissioner under
-this article shall be deposited and disposed of pursuant to the
-provisions of section one hundred seventy-one-a of this chapter.
-  * NB Effective June 29, 2017
+  § 1298. Deposit and disposition of revenue. All taxes, fees, interest
+and penalties collected or received by the commissioner under this
+article shall be deposited and disposed of pursuant to the provisions of
+section one hundred seventy-one-a of this chapter.
 ```

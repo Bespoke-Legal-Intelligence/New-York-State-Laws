@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1696. Driver and vehicle requirements. 1. (a) At all times, an
+  § 1696. Driver and vehicle requirements. 1. (a) At all times, an
 individual acting as a TNC driver shall be permitted by the TNC as
 follows:
   (i) The individual shall submit an application to the TNC, which shall
@@ -134,5 +134,4 @@ driver is providing the TNC service or TNC prearranged trip is
 distinguishable. Such marking shall be in such form as is approved by
 the commissioner, and shall be attached, affixed or displayed in such
 manner as he or she may prescribe by regulation.
-  * NB Effective June 29, 2017
 ```

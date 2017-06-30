@@ -268,7 +268,7 @@
 - [§ 344-E\*11 Portion of state highway system to be designated as the "Corey Lee Carr Memorial Bridge"](344e-11-portion-of-state-highway-system-to-be-designated-as-the-corey-lee-carr-memorial.md)
 - [§ 344-E\*12 Portion of the state highway system to be designated as the "Wayne C](344e-12-portion-of-the-state-highway-system-to-be-designated-as-the-wayne-c.md)
 - [§ 344-E\*13 Portion of the state highway system to be designated as the "Private First Class Duane C](344e-13-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
-- [§ 344-E\*14 Portion of the state highway system to be designated as the "Army Captain Clayton Carpenter Memorial Highway"](344e-14-portion-of-the-state-highway-system-to-be-designated-as-the-army-captain-clayton.md)
+- [§ 344-E\*14 Portion of the state highway system to be designated as the "Major Clayton Carpenter Memorial Highway"](344e-14-portion-of-the-state-highway-system-to-be-designated-as-the-major-clayton.md)
 - [§ 344-F Portion of state highway system to be designated as the "Specialist Matthew E](344f-portion-of-state-highway-system-to-be-designated-as-the-specialist-matthew-e.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
@@ -891,8 +891,7 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Private First Class Duane C. Scott Memorial
                      Highway".
         344-e*14.  Portion of the state highway system to be designated
-                     as the "Army Captain Clayton Carpenter Memorial
-                     Highway".
+                     as the "Major Clayton Carpenter Memorial Highway".
         344-f.     Portion of state highway system to be designated as
                      the "Specialist Matthew E. Baylis Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.

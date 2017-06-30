@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 34 — Insurance Contracts-property/casualty](README.md)
 
 ```text
-  * § 3455. Transportation network company group insurance policies. (a)
+  § 3455. Transportation network company group insurance policies. (a)
 For purposes of this section, the following definitions shall apply:
   (1) "Transportation network company" shall have the same meaning as
 set forth in article forty-four-B of the vehicle and traffic law.
@@ -236,5 +236,4 @@ digital network for the TNC driver to participate in such group policy.
 policy that provides financial responsibility coverage under this
 section except as permitted in section five thousand one hundred five of
 the insurance law.
-  * NB Effective June 29, 2017
 ```

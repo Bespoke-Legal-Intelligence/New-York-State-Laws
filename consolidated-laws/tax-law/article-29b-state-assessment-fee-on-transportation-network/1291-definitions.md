@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](README.md)
 
 ```text
-  * § 1291. Definitions. (a) "Person" means an individual, partnership,
+  § 1291. Definitions. (a) "Person" means an individual, partnership,
 limited liability company, society, association, joint stock company,
 corporation, estate, receiver, trustee, assignee, referee or any other
 person acting in a fiduciary or representative capacity, whether
@@ -26,5 +26,4 @@ in article forty-four-B of the vehicle and traffic law.
   (g) "Gross trip fare" means the sum of the base fare charge, distance
 charge and time charge for a complete TNC prearranged trip at the
 applicable rate charged by the TNC at the time such trip is arranged.
-  * NB Effective June 29, 2017
 ```

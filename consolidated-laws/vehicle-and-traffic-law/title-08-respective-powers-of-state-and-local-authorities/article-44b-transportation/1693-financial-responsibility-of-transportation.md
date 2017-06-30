@@ -4,10 +4,10 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1693. Financial responsibility of transportation network
-companies.  1. A TNC driver, or TNC on the TNC driver's behalf through a
-group policy, shall maintain insurance that recognizes that the driver
-is a TNC driver and provides financial responsibility coverage:
+  § 1693. Financial responsibility of transportation network companies.
+1. A TNC driver, or TNC on the TNC driver's behalf through a group
+policy, shall maintain insurance that recognizes that the driver is a
+TNC driver and provides financial responsibility coverage:
   (a) while the TNC driver is logged onto the TNC's digital network; and
   (b) while the TNC driver is engaged in a TNC prearranged trip.
   2. (a) The following automobile financial responsibility insurance
@@ -138,5 +138,4 @@ with a population of one million or more.
 policy issued pursuant to this section. Nothing in this section
 supercedes the mandatory arbitration requirements contained in section
 five thousand one hundred five of the insurance law.
-  * NB Effective June 29, 2017
 ```

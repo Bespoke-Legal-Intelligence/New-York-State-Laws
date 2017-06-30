@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1692. General provisions. 1. A TNC or a TNC driver shall not be
+  § 1692. General provisions. 1. A TNC or a TNC driver shall not be
 deemed a common carrier, as defined in subdivision six of section two of
 the transportation law; a contract carrier of passengers by motor
 vehicle, as defined in subdivision nine of section two of the
@@ -65,5 +65,4 @@ prearranged trip is authorized pursuant to an existing reciprocity
 agreement.
   10. Nothing in this article shall apply to cities with a population of
 one million or more.
-  * NB Effective June 29, 2017
 ```

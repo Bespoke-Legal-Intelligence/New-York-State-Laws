@@ -4,12 +4,12 @@
 [Tax Law](../README.md) › [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](README.md)
 
 ```text
-  * § 1294. Returns and payment of state assessment fee. (a) Every
-person liable for the state assessment fee imposed by this article shall
-file a return on a calendar-quarterly basis with the commissioner. Each
-return shall show the number of TNC prearranged trips, the total gross
-trip fares and the amount of fees due thereon in the quarter for which
-the return is filed, together with such other information as the
+  § 1294. Returns and payment of state assessment fee. (a) Every person
+liable for the state assessment fee imposed by this article shall file a
+return on a calendar-quarterly basis with the commissioner. Each return
+shall show the number of TNC prearranged trips, the total gross trip
+fares and the amount of fees due thereon in the quarter for which the
+return is filed, together with such other information as the
 commissioner may require. The returns required by this section shall be
 filed within thirty days after the end of the quarterly period covered
 thereby. If the commissioner deems it necessary in order to ensure the
@@ -33,5 +33,4 @@ return for such period, without regard to whether a return is filed or
 whether the return that is filed correctly shows the correct number of
 trips, gross trip fares or amount of fees due thereon. The commissioner
 may require that the fee be paid electronically.
-  * NB Effective June 29, 2017
 ```

@@ -4,8 +4,8 @@
 [Tax Law](../README.md) › [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](README.md)
 
 ```text
-  * § 1296. Secrecy of returns and reports. (a) Except in accordance
-with proper judicial order or as otherwise provided by law, it shall be
+  § 1296. Secrecy of returns and reports. (a) Except in accordance with
+proper judicial order or as otherwise provided by law, it shall be
 unlawful for the commissioner, any officer or employee of the
 department, any person engaged or retained by the department on an
 independent contract basis, or any person who in any manner may acquire
@@ -95,5 +95,4 @@ from office and be incapable of holding any public office for a period
 of five years thereafter.
   (2) Cross-reference: For criminal penalties, see article thirty-seven
 of this chapter.
-  * NB Effective June 29, 2017
 ```

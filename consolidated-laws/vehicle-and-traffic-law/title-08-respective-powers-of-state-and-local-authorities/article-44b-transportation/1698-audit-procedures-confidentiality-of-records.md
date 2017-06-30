@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1698. Audit procedures; confidentiality of records. 1. For the
+  § 1698. Audit procedures; confidentiality of records. 1. For the
 purpose of verifying that a TNC is in compliance with the licensing
 requirements of the department, the department shall reserve the right
 to audit a sample of records that the TNC is required to maintain, upon
@@ -20,5 +20,4 @@ if disclosed, would constitute an unwarranted invasion of personal
 privacy under the provisions of article six of the public officers law.
   3. The department shall establish regulations for the filing of
 complaints against any TNC driver or TNC pursuant to this section.
-  * NB Effective June 29, 2017
 ```

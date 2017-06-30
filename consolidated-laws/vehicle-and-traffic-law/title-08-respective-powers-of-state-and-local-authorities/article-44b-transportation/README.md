@@ -20,7 +20,7 @@
 <summary>Official heading of Article 44-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 44-B
+                              ARTICLE 44-B
                  TRANSPORTATION NETWORK COMPANY SERVICES
 Section 1691. Definitions.
         1692. General provisions.
@@ -34,7 +34,6 @@ Section 1691. Definitions.
         1699. Criminal history background check of transportation
                 network company drivers.
         1700. Controlling authority.
-  * NB Effective June 29, 2017
 ```
 
 </details>

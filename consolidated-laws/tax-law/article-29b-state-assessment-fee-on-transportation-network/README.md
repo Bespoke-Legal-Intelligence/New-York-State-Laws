@@ -18,7 +18,7 @@
 <summary>Official heading of Article 29-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 29-B
+                              ARTICLE 29-B
          STATE ASSESSMENT FEE ON TRANSPORTATION NETWORK COMPANY
                             PREARRANGED TRIPS
 Section 1291. Definitions.
@@ -29,7 +29,6 @@ Section 1291. Definitions.
         1296. Secrecy of returns and reports.
         1297. Practice and procedure.
         1298. Deposit and disposition of revenue.
-  * NB Effective June 29, 2017
 ```
 
 </details>

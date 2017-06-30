@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-B — Transportation Network Company Services](README.md)
 
 ```text
-  * § 1699. Criminal history background check of transportation network
+  § 1699. Criminal history background check of transportation network
 company drivers. 1. A TNC shall conduct, or have a third party conduct,
 a criminal history background check using a lawful method approved by
 the department pursuant to paragraph (a) of subdivision two of this
@@ -80,5 +80,4 @@ civil penalty of not more than ten thousand dollars. For any subsequent
 instance within the period of two years from any initial violation, such
 TNC shall be subject to a civil penalty of not more than fifty thousand
 dollars, or the suspension or revocation of its TNC license or both.
-  * NB Effective June 29, 2017
 ```
