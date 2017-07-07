@@ -54,23 +54,23 @@ general municipal law. Notwithstanding any contrary provision of law, if
 the county of Chautauqua imposes the additional one percent rate of
 sales and compensating use taxes authorized by such section twelve
 hundred ten for all or any of the period beginning December first, two
-thousand fifteen and ending November thirtieth, two thousand seventeen,
-the county shall allocate three-twentieths of the net collections from
-the additional one percent to the cities, towns and villages in the
-county on the basis of their respective populations, determined in
-accordance with the latest decennial federal census or special
-population census taken pursuant to section twenty of the general
-municipal law completed and published prior to the end of the quarter
-for which the allocation is made, and allocate the remainder of the net
-collections from the additional one percent as follows: (1) to pay the
-county's expenses for Medicaid and other expenses required by law; (2)
-to pay for local road and bridge projects; (3) for the purposes of
-capital projects and repaying any debts incurred for such capital
-projects in the county of Chautauqua that are not otherwise paid for by
-revenue received from the mortgage recording tax; and (4) for deposit
-into a reserve fund for bonded indebtedness established pursuant to the
-general municipal law. The net collections from the additional rates
-imposed pursuant to this section shall be deposited in a special fund to
-be created by such county separate and apart from any other funds and
-accounts of the county to be used for purposes above described.
+thousand fifteen and ending November thirtieth, two thousand twenty, the
+county shall allocate three-twentieths of the net collections from the
+additional one percent to the cities, towns and villages in the county
+on the basis of their respective populations, determined in accordance
+with the latest decennial federal census or special population census
+taken pursuant to section twenty of the general municipal law completed
+and published prior to the end of the quarter for which the allocation
+is made, and allocate the remainder of the net collections from the
+additional one percent as follows: (1) to pay the county's expenses for
+Medicaid and other expenses required by law; (2) to pay for local road
+and bridge projects; (3) for the purposes of capital projects and
+repaying any debts incurred for such capital projects in the county of
+Chautauqua that are not otherwise paid for by revenue received from the
+mortgage recording tax; and (4) for deposit into a reserve fund for
+bonded indebtedness established pursuant to the general municipal law.
+The net collections from the additional rates imposed pursuant to this
+section shall be deposited in a special fund to be created by such
+county separate and apart from any other funds and accounts of the
+county to be used for purposes above described.
 ```

@@ -396,28 +396,13 @@ that service:
       $50.01 or more                       $3.00
   (ii) co-payments charged pursuant to this subdivision for each
 discharge for inpatient care shall be twenty-five dollars.
-  * (iii) Notwithstanding any other provision of this paragraph, co-
-payments charged for each generic prescription drug dispensed shall be
-one dollar and for each brand name prescription drug dispensed shall be
-three dollars; provided, however, that the co-payments charged for each
-brand name prescription drug on the preferred drug list established
-pursuant to section two hundred seventy-two of the public health law or,
-for managed care providers operating pursuant to section three hundred
-sixty-four-j of this title, for each brand name prescription drug on a
-managed care provider's formulary that such provider has designated as a
-preferred drug, and the co-payments charged for each brand name
-prescription drug reimbursed pursuant to subparagraph (ii) of paragraph
-(a-1) of subdivision four of section three hundred sixty-five-a of this
-title shall be one dollar.
-  * NB Effective until July 1, 2017
-  * (iii) Notwithstanding any other provision of this paragraph,
+  (iii) Notwithstanding any other provision of this paragraph,
 co-payments charged for each generic prescription drug dispensed shall
 be one dollar and for each brand name prescription drug dispensed shall
 be two dollars and fifty cents; provided, however, that the co-payments
 charged for each brand name prescription drug reimbursed pursuant to
 subparagraph (ii) of paragraph (a-1) of subdivision four of section
 three hundred sixty-five-a of this title shall be one dollar.
-  * NB Effective July 1, 2017
   (iv) When an individual is initially dispensed or prescribed a seven
 or fewer days supply of an opioid pursuant to paragraph (b) of
 subdivision five of section three thousand three hundred thirty-one of
@@ -610,22 +595,7 @@ any rights relating to access, prior authorization, or appeal relating
 to any drug class or drug afforded to a recipient under any other
 provision of law.
   * NB Repealed March 31, 2020
-  * (f) ** (1) The department may require manufacturers of drugs other
-than single source drugs and innovator multiple source drugs, as such
-terms are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
-department for any drug that has increased more than three hundred
-percent of its state maximum acquisition cost (SMAC), on or after April
-1, 2016, in comparison to its SMAC at any time during the course of the
-preceding twelve months. The required rebate shall be limited to the
-amount by which the current SMAC for the drug exceeds three hundred
-percent of the SMAC for the same drug at any time during the course of
-the preceding twelve months. Such rebates shall be in addition to any
-rebates payable to the department pursuant to any other provision of
-federal or state law. Nothing herein shall affect the department's
-obligation to reimburse for covered outpatient drugs pursuant to
-paragraph (d) of this subdivision.
-  ** NB Effective until July 1, 2017
-  ** (1) The department may require manufacturers of drugs other than
+  * (f) (1) The department may require manufacturers of drugs other than
 single source drugs and innovator multiple source drugs, as such terms
 are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
 department for any drug that has increased more than three hundred
@@ -641,7 +611,6 @@ shall be in addition to any rebates payable to the department pursuant
 to any other provision of federal or state law. Nothing herein shall
 affect the department's obligation to reimburse for covered outpatient
 drugs pursuant to paragraph (d) of this subdivision.
-  ** NB Effective July 1, 2017
   (2) Except as provided in subparagraph three of this paragraph, the
 commissioner shall not determine any further rebates to be payable
 pursuant to this paragraph once the Centers for Medicare and Medicaid
@@ -662,28 +631,9 @@ apply to generic prescription drugs dispensed to enrollees of managed
 care providers pursuant to section three hundred sixty-four-j of this
 title and to generic prescription drugs dispensed to Medicaid recipients
 who are not enrollees of such providers.
-  ** (5) Beginning in two thousand seventeen, the department shall
-provide an annual report to the legislature no later than February first
-setting forth:
-  (i) The number of drugs that exceeded the ceiling price established in
-this paragraph during the preceding year in comparison to the number of
-drugs that experienced at least a three hundred percent price increase
-during two thousand fourteen and two thousand fifteen;
-  (ii) The average percent amount above the ceiling price of drugs that
-exceeded the ceiling price in the preceding year in comparison to the
-number of drugs that experienced a price increase more than three
-hundred percent during two thousand fourteen and two thousand fifteen;
-  (iii) The number of generic drugs available to enrollees in Medicaid
-fee for service or Medicaid managed care, by fiscal quarter, in the
-preceding year in comparison to the drugs available, by fiscal quarter,
-during two thousand fourteen and two thousand fifteen; and
-  (iv) The total drug spend on generic drugs for the preceding year in
-comparison to the total drug spend on generic drugs during two thousand
-fourteen and two thousand fifteen.
-  ** NB Effective until July 1, 2017
-  ** (5) Beginning in two thousand seventeen, the department shall
-provide an annual report to the legislature no later than February first
-setting forth:
+  (5) Beginning in two thousand seventeen, the department shall provide
+an annual report to the legislature no later than February first setting
+forth:
   (i) The number of drugs that exceeded the ceiling price established in
 this paragraph during the preceding year in comparison to the number of
 drugs that experienced at least a three hundred percent price increase
@@ -704,7 +654,6 @@ sixteen; and
   (iv) The total drug spend on generic drugs for the preceding year in
 comparison to the total drug spend on generic drugs during two thousand
 fourteen, two thousand fifteen, and two thousand sixteen.
-  ** NB Effective July 1, 2017
   * NB Repealed March 31, 2018
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential

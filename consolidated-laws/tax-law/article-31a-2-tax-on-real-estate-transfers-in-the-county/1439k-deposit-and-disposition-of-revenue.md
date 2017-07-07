@@ -17,6 +17,6 @@ collected or received from the tax imposed pursuant to this article.
 Such local law shall also provide that all revenue derived from the
 imposition of such tax shall be deposited into the general fund of the
 county of Columbia.
-  * NB Repealed December 31, 2017
+  * NB Repealed December 31, 2020
   * NB There are 3 § 1439-k's
 ```

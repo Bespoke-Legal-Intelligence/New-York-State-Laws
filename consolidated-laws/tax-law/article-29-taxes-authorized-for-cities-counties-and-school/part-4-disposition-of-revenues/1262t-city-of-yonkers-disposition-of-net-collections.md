@@ -17,5 +17,5 @@ basis, to use such net collections for a different purpose of the city,
 provided, however, that the requirements of paragraph b of subdivision
 five-b of section two thousand five hundred seventy-six of the education
 law are met.
-  * NB Repealed November 30, 2017
+  * NB Repealed November 30, 2020
 ```

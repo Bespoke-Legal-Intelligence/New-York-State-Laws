@@ -95,22 +95,22 @@ certified under article twenty-eight of the public health law or article
 thirty-one of the mental hygiene law and residential health care
 facilities, with the exception of podiatrists' services;
   * (f) for hemodialysis;
-  * NB Effective until July 1, 2017
+  * NB Effective until July 1, 2020
   * (f) for hemodialysis; or
-  * NB Effective July 1, 2017
+  * NB Effective July 1, 2020
   * (g) through or by referral from a preferred primary care provider
 designated pursuant to subdivision twelve of section twenty-eight
 hundred seven of the public health law;
-  * NB Effective until July 1, 2017
+  * NB Effective until July 1, 2020
   * (g) through or by referral from a preferred primary care provider
 designated pursuant to subdivision twelve of section twenty-eight
 hundred seven of the public health law.
-  * NB Effective July 1, 2017
+  * NB Effective July 1, 2020
   * (h) pursuant to a court order; or
-  * NB Repealed July 1, 2017
+  * NB Repealed July 1, 2020
   * (i) as a condition of eligibility for any other public program,
 including but not limited to public assistance.
-  * NB Repealed July 1, 2017
+  * NB Repealed July 1, 2020
   6. The department shall consult with representatives of medical
 assistance providers, social services districts, voluntary organizations
 that represent or advocate on behalf of recipients, the managed care

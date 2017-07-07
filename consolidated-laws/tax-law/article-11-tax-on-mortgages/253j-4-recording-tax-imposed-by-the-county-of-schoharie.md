@@ -82,6 +82,6 @@ effect.
 also be filed with the county clerk of the county of Schoharie, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB Repealed December 1, 2017
+  * NB Repealed December 1, 2020
   * NB There are 4 § 253-j's
 ```

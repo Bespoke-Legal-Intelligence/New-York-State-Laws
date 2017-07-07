@@ -10,6 +10,6 @@ to this article that he or she shall collect so long as he or she shall
 compute and collect such tax on the amount of consideration or the value
 of the interest conveyed as such amounts are provided to him or her by
 the person paying the tax.
-  * NB Repealed December 31, 2017
+  * NB Repealed December 31, 2020
   * NB There are 3 § 1439-i's
 ```

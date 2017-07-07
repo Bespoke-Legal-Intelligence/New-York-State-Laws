@@ -81,6 +81,7 @@
 - [§ 209-E Fire mobilization and mutual aid plan](209e-fire-mobilization-and-mutual-aid-plan.md)
 - [§ 209-EE Adoption of a code of ethics and disclosure of interests by fire companies](209ee-adoption-of-a-code-of-ethics-and-disclosure-of-interests-by-fire-companies.md)
 - [§ 209-F Outside service by local police forces; mobilization by governor; powers of sheriffs](209f-outside-service-by-local-police-forces-mobilization-by-governor-powers.md)
+- [§ 209-FF Provisions relating to certain accidental disability benefits](209ff-provisions-relating-to-certain-accidental-disability-benefits.md)
 - [§ 209-G Liability for outside aid](209g-liability-for-outside-aid.md)
 - [§ 209-I Emergency service by volunteer firemen](209i-emergency-service-by-volunteer-firemen.md)
 - [§ 209-J Mutual aid programs in counties](209j-mutual-aid-programs-in-counties.md)
@@ -234,6 +235,8 @@ Section 200.      Defining qualifications of exempt volunteer firemen.
                     interests by fire companies.
         209-f.    Outside service by local police forces; mobilization
                     by governor; powers of sheriffs.
+        209-ff.   Provisions relating to certain accidental disability
+                    benefits.
         209-g.    Liability for outside aid.
         209-i.    Emergency service by volunteer firemen.
         209-j.    Mutual aid programs in counties.

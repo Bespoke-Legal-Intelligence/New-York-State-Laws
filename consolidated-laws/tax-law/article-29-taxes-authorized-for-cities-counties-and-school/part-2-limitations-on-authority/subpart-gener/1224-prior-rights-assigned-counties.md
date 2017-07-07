@@ -88,7 +88,7 @@ this section shall be calculated without reference to the additional one
 percent and one-half of one percent rate of tax which the city of
 Yonkers is authorized and empowered to adopt pursuant to section twelve
 hundred ten of this article.
-  * NB Effective until November 30, 2017
+  * NB Effective until November 30, 2020
   * (d) The city of Yonkers shall have the sole right to impose the
 additional one percent rate of tax which such city is authorized to
 impose pursuant to the authority of section twelve hundred ten, such
@@ -99,7 +99,7 @@ The maximum three percent rate referred to in this section shall be
 calculated without reference to the additional one percent rate of tax
 which the city of Yonkers is authorized and empowered to adopt pursuant
 to section twelve hundred ten.
-  * NB Effective November 30, 2017
+  * NB Effective November 30, 2020
   (e) The county of Erie shall have the sole right to impose the
 additional one percent rate and the additional three-quarters of one
 percent rate of tax which such county is authorized to impose pursuant
@@ -539,7 +539,7 @@ empowered to adopt pursuant to section twelve hundred ten of this
 article. Net collections from any additional rate of sales and
 compensating use taxes which the county may impose during the period
 commencing December first, two thousand eleven, and ending November
-thirtieth, two thousand seventeen, pursuant to the authority of section
+thirtieth, two thousand twenty, pursuant to the authority of section
 twelve hundred ten of this article shall be used by the county solely
 for county purposes and shall not be subject to any revenue distribution
 agreement entered into pursuant to the authority of subdivision (c) of

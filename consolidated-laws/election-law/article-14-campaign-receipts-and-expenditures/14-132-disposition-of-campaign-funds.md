@@ -4,7 +4,7 @@
 [Election Law](../README.md) › [Article 14 — Campaign Receipts and Expenditures](README.md)
 
 ```text
-  * § 14-132. Disposition of campaign funds. 1. Upon the death of a
+  § 14-132. Disposition of campaign funds. 1. Upon the death of a
 candidate, former candidate or holder of elective office, where such
 candidate or candidate's authorized committee received campaign
 contributions, all such funds shall be disposed of by any of the
@@ -29,5 +29,4 @@ section, such funds shall be recoverable by the chief enforcement
 counsel of the state board of elections in a special proceeding in state
 supreme court in the manner prescribed by section 16-116 of this chapter
 and deposited into the state's general fund.
-  * NB Effective July 1, 2017
 ```

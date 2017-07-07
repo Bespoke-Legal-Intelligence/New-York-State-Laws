@@ -30,6 +30,6 @@ recording officer orders them to be destroyed.
 conveyance unless the return required by this section has been filed and
 the tax imposed pursuant to this article shall have been paid as
 provided in this section.
-  * NB Repealed December 31, 2017
+  * NB Repealed December 31, 2020
   * NB There are 3 § 1439-c's
 ```

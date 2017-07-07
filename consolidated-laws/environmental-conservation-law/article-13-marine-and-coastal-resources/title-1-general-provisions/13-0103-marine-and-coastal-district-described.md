@@ -8,5 +8,5 @@
   The marine and coastal district shall include the waters of the
 Atlantic Ocean within three nautical miles from the coast line and all
 other tidal waters within the state, including the Hudson River up to
-the Governor Malcolm Wilson Tappan Zee bridge.
+the Governor Mario M. Cuomo bridge.
 ```

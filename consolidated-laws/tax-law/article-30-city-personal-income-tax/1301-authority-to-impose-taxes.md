@@ -12,11 +12,11 @@ local laws imposing in any such city, for taxable years beginning after
 nineteen hundred seventy-five:
   (1) a tax on the personal income of residents of such city, at the
 rates provided for under subsection (a) of section thirteen hundred four
-of this article for taxable years beginning before two thousand
-eighteen, and at the rates provided for under subsection (b) of section
-thirteen hundred four of this article for taxable years beginning after
-two thousand seventeen, provided, however, that if, for any taxable year
-beginning after two thousand seventeen, the rates set forth in such
+of this article for taxable years beginning before two thousand twenty,
+and at the rates provided for under subsection (b) of section thirteen
+hundred four of this article for taxable years beginning after two
+thousand twenty, provided, however, that if, for any taxable year
+beginning after two thousand twenty, the rates set forth in such
 subsection (b) are rendered inapplicable and the rates set forth in such
 subsection (a) are rendered applicable, then the tax for such taxable
 year shall be at the rates provided under subparagraph (A) of paragraphs

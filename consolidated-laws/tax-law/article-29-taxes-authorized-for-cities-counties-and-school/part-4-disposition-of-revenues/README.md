@@ -23,7 +23,7 @@
 - [§ 1262-I Allocation of net collections from the additional one percent rate of sales and compensating use taxes in the county of Tioga](1262i-allocation-of-net-collections-from-the-additional-one.md)
 - [§ 1262-J Allocation and distribution of net collections from the additional sales and compensating use taxes in Suffolk county](1262j-allocation-and-distribution-of-net-collections.md)
 - [§ 1262-K Allocation and distribution of net collections in Oswego county](1262k-allocation-and-distribution-of-net-collections.md)
-- [§ 1262-L Allocation and distribution of net collections from the additional rate of sales and compensating use tax in Rockland county](1262l-allocation-and-distribution-of-net-collections.md)
+- [§ 1262-L 's](1262l-s.md)
 - [§ 1262-L\*2 Allocation and distribution of certain net collections in Warren county](1262l-2-allocation-and-distribution-of-certain-net.md)
 - [§ 1262-M Allocation of net collections from the additional one percent rate of sales and compensating use taxes in the county of Chenango](1262m-allocation-of-net-collections-from-the-additional-one.md)
 - [§ 1262-M\*2 Allocation and distribution of net collections in Saratoga county](1262m-2-allocation-and-distribution-of-net-collections.md)

@@ -11,7 +11,7 @@ authorized and empowered to adopt and amend local laws, ordinances or
 resolutions imposing within the territorial limits of such county
 additional sales and compensating use taxes at the rate of one-quarter
 of one percent for the period beginning December first, two thousand
-seven and ending November thirtieth, two thousand seventeen, which taxes
+seven and ending November thirtieth, two thousand twenty, which taxes
 shall be identical to the taxes imposed by such county pursuant to the
 authority of section twelve hundred ten of this subpart. Except as
 hereinafter provided, all provisions of this article, including the

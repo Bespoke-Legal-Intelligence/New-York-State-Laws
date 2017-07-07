@@ -8,7 +8,7 @@
 Nassau county. 1. Towns and cities. Notwithstanding any other provision
 of law to the contrary, for the calendar year beginning on January
 first, nineteen hundred ninety-eight and continuing through the calendar
-year beginning on January first, two thousand seventeen, the county of
+year beginning on January first, two thousand twenty, the county of
 Nassau shall enact and establish a local government assistance program
 for the towns and cities within such county to assist such towns and
 cities to minimize real property taxes; defray the cost and expense of
@@ -24,7 +24,8 @@ thousand one, two thousand two, two thousand three, two thousand four,
 two thousand five, two thousand six, two thousand seven, two thousand
 eight, two thousand nine, two thousand ten, two thousand eleven, two
 thousand twelve, two thousand thirteen, two thousand fourteen, two
-thousand fifteen, two thousand sixteen, and two thousand seventeen
+thousand fifteen, two thousand sixteen,, two thousand seventeen, two
+thousand eighteen, two thousand nineteen and two thousand twenty
 additional to the regular three percent rate authorized for such county
 in section twelve hundred ten of this article. The monies for such
 special local assistance shall be paid and distributed to the towns and
@@ -42,7 +43,7 @@ to accomplish the purposes of this special assistance program.
   2. Villages. Notwithstanding any other provision of law to the
 contrary, for the calendar year beginning on January first, nineteen
 hundred ninety-eight and continuing through the calendar year beginning
-on January first, two thousand seventeen, the county of Nassau, by local
+on January first, two thousand twenty, the county of Nassau, by local
 law, is hereby empowered to enact and establish a local government
 assistance program for the villages within such county to assist such
 villages to minimize real property taxes; defray the cost and expense of

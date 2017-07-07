@@ -113,7 +113,7 @@ terminated for cause. This subdivision shall not apply where both
 parties mutually agree in writing to the termination or non-renewal and
 the plan provides notice to the enrollee at least thirty days in advance
 of the date of contract termination.
-  * NB Repealed June 30, 2017
+  * NB Repealed June 30, 2019
   6. No health care plan which provides coverage for prescription drugs
 shall require, or enter into a contract which permits, a copayment which
 exceeds the usual and customary cost of such prescribed drug.

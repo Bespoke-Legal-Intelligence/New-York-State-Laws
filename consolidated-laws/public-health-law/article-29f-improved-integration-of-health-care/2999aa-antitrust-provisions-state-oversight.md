@@ -27,7 +27,7 @@ arrangement for which state action immunity is sought under this article
 without first consulting with, and receiving a recommendation from, the
 public health and health planning council. No arrangement under this
 article shall be approved after December thirty-first, two thousand
-sixteen.
+twenty.
   2. The commissioner or his or her duly authorized representative may
 engage in appropriate state supervision necessary to promote state
 action immunity under the state and federal antitrust laws.
