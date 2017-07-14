@@ -1241,7 +1241,7 @@ and Murray street. In addition, "eligible area" shall include the
 seventy-two of the public authorities law, including the world financial
 center. Any tax lot that is partly located inside the eligible area
 shall be deemed to be entirely located inside such area, and
-  ** NB Repealed December 1, 2018
+  ** NB Repealed December 1, 2021
   (ii) the World Trade Center site, the World financial center and the
 Battery Park city area as defined as follows:
   (a) "World Trade Center site" means the area of the former complex of

@@ -689,6 +689,29 @@ hundred two of the internal revenue code and taxed under section six
 hundred three of this article; and provided, further, that such award is
 not distributed to a taxpayer who has not attained the age of fifty-nine
 and one-half years.
+  (42) Distributions from an eligible retirement plan, as such term is
+defined in subparagraph (B) of paragraph (8) of subsection (c) of
+section four hundred two of the Internal Revenue Code, made on or after
+April first, two thousand seventeen and before April second, two
+thousand twenty-two. In order for such distributions to be eligible to
+be subtracted from federal adjusted gross income under this paragraph,
+the following conditions must be satisfied: (A) the taxpayer's primary
+residence was located in the area affected by the disaster declared
+pursuant to executive order one hundred sixty-five of two thousand
+seventeen, declaring a state of emergency, dated May third, two thousand
+seventeen; (B) such primary residence must have incurred damage due to
+coastal flooding, widespread erosion and water damage caused by such
+disaster; (C) such damage must qualify for the casualty deduction under
+section one hundred sixty-five of the internal revenue code (determined
+without regard to whether the loss exceeds ten percent of adjusted gross
+income); and (D) the taxpayer during the taxable year must use the
+entire amount of the distributions to pay for repairs needed as a result
+of such damage. Provided, however, that the amount of the distributions
+that otherwise may be subtracted under this paragraph must be reduced by
+any deduction claimed by the taxpayer for such damage pursuant to
+section one hundred sixty-five of the internal revenue code. Provided,
+further, that the taxpayer shall not claim a subtraction modification
+under paragraph three-a of this subsection for such distribution.
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

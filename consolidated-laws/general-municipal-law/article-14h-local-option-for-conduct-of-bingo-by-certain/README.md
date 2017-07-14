@@ -16,7 +16,7 @@
 - [§ 483 Form and contents of license; display of license](483-form-and-contents-of-license-display-of-license.md)
 - [§ 484 Control and supervision; suspension of licenses; inspection of premises](484-control-and-supervision-suspension-of-licenses-inspection-of-premises.md)
 - [§ 485 Sunday; conduct of games on](485-sunday-conduct-of-games.md)
-- [§ 486 Participation by persons under eighteen](486-participation-by-persons-under-eighteen.md)
+- [§ 486 Participation by persons under the age of eighteen](486-participation-by-persons-under-the-age-of-eighteen.md)
 - [§ 487 Frequency of game; sale of alcoholic beverages](487-frequency-of-game-sale-of-alcoholic-beverages.md)
 - [§ 488 Persons operating and conducting games; equipment; expenses; compensation](488-persons-operating-and-conducting-games-equipment-expenses-compensation.md)
 - [§ 489 Charge for admission and participation; amount of prizes; award of prizes](489-charge-for-admission-and-participation-amount-of-prizes-award-of-prizes.md)

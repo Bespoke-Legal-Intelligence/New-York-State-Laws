@@ -271,6 +271,7 @@
 - [§ 344-E\*14 Portion of the state highway system to be designated as the "Major Clayton Carpenter Memorial Highway"](344e-14-portion-of-the-state-highway-system-to-be-designated-as-the-major-clayton.md)
 - [§ 344-F Portion of state highway system to be designated as the "Specialist Matthew E](344f-portion-of-state-highway-system-to-be-designated-as-the-specialist-matthew-e.md)
 - [§ 344-F\*2 Portion of the state highway system to be designated as the "Major General Harold J](344f-2-portion-of-the-state-highway-system-to-be-designated-as-the-major-general-harold.md)
+- [§ 344-F\*3 Portion of the state highway system to be designated as the "Gordie Little Memorial Bridge"](344f-3-portion-of-the-state-highway-system-to-be-designated-as-the-gordie-little.md)
 - [§ 344-G Portion of state highway system to be designated as the "Senator William J](344g-portion-of-state-highway-system-to-be-designated-as-the-senator-william-j.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
@@ -899,6 +900,8 @@ Section 340-a.     Designation of state interstate routes.
         344-f*2.   Portion of the state highway system to be designated
                      as the "Major General Harold J. Greene Memorial
                      Highway".
+        344-f*3.   Portion of the state highway system to be designated
+                     as the "Gordie Little Memorial Bridge".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
         345-a.     Abandonment and transfer of state highways.

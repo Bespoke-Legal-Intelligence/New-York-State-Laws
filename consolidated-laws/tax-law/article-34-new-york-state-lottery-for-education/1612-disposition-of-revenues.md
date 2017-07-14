@@ -102,13 +102,25 @@ for games defined in paragraph one of subdivision a of this section
 during the preceding month; and the balance of the total revenue after
 payout for prizes for games known as "video lottery gaming," including
 any joint, multi-jurisdiction, and out-of-state video lottery gaming,
-(i) less ten percent of the total revenue wagered after payout for
+* (i) less ten percent of the total revenue wagered after payout for
 prizes to be retained by the division for operation, administration, and
-procurement purposes; (ii) less a vendor's fee the amount of which is to
-be paid for serving as a lottery agent to the track operator of a vendor
-track or the operator of a resort facility or the operator of any other
-video lottery gaming facility authorized pursuant to section one
-thousand six hundred seventeen a of this article:
+procurement purposes, provided, however, a vendor track located within
+Oneida county, within fifteen miles of a Native American class III
+gaming facility, that has maintained at least ninety percent of
+full-time equivalent employees as they employed in the year two thousand
+sixteen, may withhold up to seventy-five percent of such funds for
+operational expenses upon a determination by the gaming commission that
+such funds are necessary to sustain operation of such vendor track;
+  * NB Effective until June 29, 2019
+* (i) less ten percent of the total revenue wagered after payout for
+prizes to be retained by the division for operation, administration, and
+procurement purposes;
+  * NB Effective June 29, 2019
+(ii) less a vendor's fee the amount of which is to be paid for serving
+as a lottery agent to the track operator of a vendor track or the
+operator of a resort facility or the operator of any other video lottery
+gaming facility authorized pursuant to section one thousand six hundred
+seventeen a of this article:
   (A) having fewer than one thousand one hundred video gaming machines,
 at a rate of thirty-five percent for the first fifty million dollars
 annually, twenty-eight percent for the next hundred million dollars
@@ -276,6 +288,15 @@ games, the total amount wagered after payout of prizes, the vendor fees
 payable to the operators of video lottery facilities, vendor's capital
 awards, fees payable to the division's video lottery gaming equipment
 contractors, or racing support payments.
+  * (J) Notwithstanding clause (H) of this subparagraph, the gaming
+commission shall be able to authorize a vendor track located within
+Oneida county, within fifteen miles of a Native American class III
+gaming facility, and who has maintained at least ninety percent of
+full-time equivalent employees as they employed in the year two thousand
+sixteen, to use a portion of their vendor's capital award of up to four
+percent of the total revenue wagered at the vendor track after payout
+for prizes pursuant to this chapter each year, for operations.
+  * NB Repealed June 29, 2019
   (iii) less an additional vendor's marketing allowance at a rate of ten
 percent for the first one hundred million dollars annually and eight
 percent thereafter of the total revenue wagered at the vendor track
