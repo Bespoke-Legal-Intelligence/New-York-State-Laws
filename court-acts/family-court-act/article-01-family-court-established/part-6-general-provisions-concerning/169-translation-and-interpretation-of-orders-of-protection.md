@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 1 — Family Court Established](../README.md) › [Part 6 — General Provisions Concerning Hearings](README.md)
 
 ```text
-  * § 169. Translation and interpretation of orders of protection. The
+  § 169. Translation and interpretation of orders of protection. The
 office of court administration shall, in accordance with paragraph (t)
 of subdivision two of section two hundred twelve of the judiciary law,
 ensure that a court order of protection and temporary order of
@@ -30,5 +30,4 @@ court order of protection or temporary order of protection issued. The
 authority provided herein shall be in addition to and shall not be
 deemed to diminish or reduce any rights of the parties under existing
 law.
-  * NB Effective July 19, 2017
 ```

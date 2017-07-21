@@ -4,12 +4,12 @@
 [Social Services Law](../../README.md) › [Article 7 — Residential Care Programs For Adults and Children](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  * § 460-h. Review of criminal history information concerning
-prospective employees, consultants, assistants and volunteers of
-publicly-funded emergency shelters for families with children. 1. Every
-provider of services to publicly-funded emergency shelters for families
-with children, as such phrase is defined in subdivision nine of section
-four hundred twelve of this chapter, shall request from the division of
+  § 460-h. Review of criminal history information concerning prospective
+employees, consultants, assistants and volunteers of publicly-funded
+emergency shelters for families with children. 1. Every provider of
+services to publicly-funded emergency shelters for families with
+children, as such phrase is defined in subdivision nine of section four
+hundred twelve of this chapter, shall request from the division of
 criminal justice services criminal history information, as such phrase
 is defined in paragraph (c) of subdivision one of section eight hundred
 forty-five-b of the executive law, concerning each prospective employee,
@@ -124,5 +124,4 @@ provisions of this section, which shall include convenient procedures
 for the provider to promptly verify the accuracy of the reviewed
 criminal history information and, to the extent authorized by law, to
 have access to relevant documents related thereto.
-  * NB Effective July 19, 2017
 ```

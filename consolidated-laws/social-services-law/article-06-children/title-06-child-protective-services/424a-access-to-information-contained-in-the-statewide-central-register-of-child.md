@@ -277,30 +277,7 @@ or to deny the subject's application for employment, or to become an
 adoptive parent, or to become a successor guardian, or for a
 certificate, license or permit; or not to hire a consultant, use a
 volunteer, or allow access to children cared for by the agency.
-  * 3. For purposes of this section, the term "provider" or "provider
-agency" shall mean an authorized agency, the office of children and
-family services, juvenile detention facilities subject to the
-certification of such office, programs established pursuant to article
-nineteen-H of the executive law, non-residential or residential programs
-or facilities licensed or operated by the office of mental health or the
-office for people with developmental disabilities except family care
-homes, licensed child day care centers, including head start programs
-which are funded pursuant to title V of the federal economic opportunity
-act of nineteen hundred sixty-four, as amended, early intervention
-service established pursuant to section twenty-five hundred forty of the
-public health law, preschool services established pursuant to section
-forty-four hundred ten of the education law, school-age child care
-programs, special act school districts as enumerated in chapter five
-hundred sixty-six of the laws of nineteen hundred sixty-seven, as
-amended, programs and facilities licensed by the office of alcoholism
-and substance abuse services, residential schools which are operated,
-supervised or approved by the education department, and any other
-facility or provider agency, as defined in subdivision four of section
-four hundred eighty-eight of this chapter, in regard to the employment
-of staff, or use of providers of goods and services and staff of such
-providers, consultants, interns and volunteers.
-  * NB Effective until July 19, 2017
-  * 3. For purposes of this section, the term "provider" or "provider
+  3. For purposes of this section, the term "provider" or "provider
 agency" shall mean: an authorized agency; the office of children and
 family services; juvenile detention facilities subject to the
 certification of the office of children and family services; programs
@@ -329,7 +306,6 @@ any other facility or provider agency, as defined in subdivision four of
 section four hundred eighty-eight of this chapter, in regard to the
 employment of staff, or use of providers of goods and services and staff
 of such providers, consultants, interns and volunteers.
-  * NB Effective July 19, 2017
   4. For purposes of this section, the term "licensing agency" shall
 mean an authorized agency which has received an application to become an
 adoptive parent or an authorized agency which has received an

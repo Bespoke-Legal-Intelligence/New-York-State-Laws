@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 99-N*2", "kind": "section", "law_id": "STF", "location_id": "99-N*2", "path": "ARTICLE 6 › SECTION 99-N*2", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/99-N_2.md", "title": "Oneida Indian Nation real property tax depository fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 99-N*2", "kind": "section", "law_id": "STF", "location_id": "99-N*2", "path": "ARTICLE 6 › SECTION 99-N*2", "repealed": true, "repealed_date": "2017-07-21", "source": "nys-laws:STF/99-N_2.md", "title": "Oneida Indian Nation real property tax depository fund"} -->
 # State Finance Law § 99-N*2 — Oneida Indian Nation real property tax depository fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (21 Jul 2017). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

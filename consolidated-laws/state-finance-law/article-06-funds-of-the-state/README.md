@@ -217,7 +217,7 @@
 - [§ 99-L Assisted living residence quality oversight fund](99l-assisted-living-residence-quality-oversight-fund.md)
 - [§ 99-L\*2 Love your library fund](99l-2-love-your-library-fund.md)
 - [§ 99-N Highway construction and maintenance safety education fund](99n-highway-construction-and-maintenance-safety-education-fund.md)
-- [§ 99-N\*2 Oneida Indian Nation real property tax depository fund](99n-2-oneida-indian-nation-real-property-tax-depository-fund.md)
+- [§ 99-N\*2 Oneida Indian Nation real property tax depository fund](99n-2-oneida-indian-nation-real-property-tax-depository-fund.md) *(repealed)*
 - [§ 99-O Arts institutions revolving loan fund](99o-arts-institutions-revolving-loan-fund.md)
 - [§ 99-P Empire state stem cell trust fund](99p-empire-state-stem-cell-trust-fund.md)
 - [§ 99-Q Volunteer firefighting and volunteer emergency services recruitment and retention fund](99q-volunteer-firefighting-and-volunteer-emergency-services-recruitment.md)
@@ -496,8 +496,6 @@ Section 70.        Classification of funds.
         99-l.      Assisted living residence quality oversight fund.
         99-l*2.    Love your library fund.
         99-n.      Highway construction and maintenance safety education
-                     fund.
-        99-n*2.    Oneida Indian Nation real property tax depository
                      fund.
         99-o.      Arts institutions revolving loan fund.
         99-p.      Empire state stem cell trust fund.

@@ -21,7 +21,7 @@
 - [§ 14 Town and city clerks to issue marriage licenses; form](14-town-and-city-clerks-to-issue-marriage-licenses-form.md)
 - [§ 14-A Town and city clerks to issue certificates of marriage registration; form](14a-town-and-city-clerks-to-issue-certificates-of-marriage-registration-form.md)
 - [§ 15 Duty of town and city clerks](15-duty-of-town-and-city-clerks.md)
-- [§ 15-A Marriages of minors under fourteen years of age](15a-marriages-of-minors-under-fourteen-years-of-age.md)
+- [§ 15-A Marriages of minors under seventeen years of age](15a-marriages-of-minors-under-seventeen-years-of-age.md)
 - [§ 15-B Temporary provisions authorizing issuance of marriage license, upon court order, without consent of a parent in armed forces of United St...](15b-temporary-provisions-authorizing-issuance-of-marriage-license-upon-court.md)
 - [§ 16 False statements and affidavits](16-false-statements-and-affidavits.md)
 - [§ 17 Clergyman or officer violating article; penalty](17-clergyman-or-officer-violating-article-penalty.md)
