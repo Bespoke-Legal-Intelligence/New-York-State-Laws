@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2515-D", "kind": "section", "law_id": "PBH", "location_id": "2515-D", "path": "ARTICLE 25 › TITLE 1-B › SECTION 2515-D", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2515-D.md", "title": "Report"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2515-D", "kind": "section", "law_id": "PBH", "location_id": "2515-D", "path": "ARTICLE 25 › TITLE 1-B › SECTION 2515-D", "repealed": true, "repealed_date": "2017-08-04", "source": "nys-laws:PBH/2515-D.md", "title": "Report"} -->
 # Public Health Law § 2515-D — Report
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1-B — Adolescent Pregnancy Prevention and Services Program](README.md)
+
+**Repealed** (4 Aug 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2515-d. Report. The department shall submit a report to the governor

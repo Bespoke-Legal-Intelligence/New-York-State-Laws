@@ -28,7 +28,7 @@
 Title    I.   General provisions (§§ 2500-2507).
          I-A. Child health insurance plan (§§ 2510-2511).
          1-B. Adolescent pregnancy prevention and services program
-                (§§ 2515-2515-d).
+                (§§ 2515-2515-c).
         II.   Prenatal care (§§ 2520--2530-a).
         II-A. Early intervention program for infants and toddlers with
                 disabilities and their families (§§ 2540--2559-b).

@@ -19,10 +19,19 @@ charges and requests delivery of an electrical impulse to the patient's
 heart; and (iv) then, upon action by an operator, delivers an
 appropriate electrical impulse to the patient's heart to perform
 defibrillation.
-  (b) "Emergency health care provider" means (i) a physician with
+  * (b) "Emergency health care provider" means (i) a physician with
 knowledge and experience in the delivery of emergency cardiac care; or
 (ii) a hospital licensed under article twenty-eight of this chapter that
 provides emergency cardiac care.
+  * NB Effective until January 21, 2018
+  * (b) "Emergency health care provider" means (i) a physician with
+knowledge and experience in the delivery of emergency cardiac care; (ii)
+a physician assistant or nurse practitioner with knowledge and
+experience in the delivery of emergency cardiac care, and who is acting
+within his or her scope of practice; or (iii) a hospital licensed under
+article twenty-eight of this chapter that provides emergency cardiac
+care.
+  * NB Effective January 21, 2018
   (c) "Public access defibrillation provider" means a person, firm,
 organization or other entity possessing or operating an automated
 external defibrillator pursuant to a collaborative agreement under this

@@ -14,7 +14,7 @@ services under this title, shall notify the person in writing of the
 provisions of this section.
   2. If a person eligible to receive services under the provisions of
 this title desires to remain and is deemed by his physician able to
-remain in his own  home or the home of a responsible relative or other
+remain in his own home or the home of a responsible relative or other
 responsible adult if the necessary services are provided, such person or
 his representative shall so inform the local social services official.
 If an AIDS home care program as defined under article thirty-six of the
@@ -42,7 +42,7 @@ authorize the utilization of medical assistance funds to pay for
 services provided by AIDS home care programs in addition to those
 services included in the medical assistance program under section three
 hundred sixty-five-a of this chapter, so long as federal financial
-participation is available for such services.  Expenditures made under
+participation is available for such services. Expenditures made under
 this subdivision shall be deemed payments for medical assistance for
 needy persons and shall be subject to reimbursement by the state in
 accordance with the provisions of section three hundred sixty-eight-a of
@@ -51,17 +51,6 @@ this chapter.
 receiving an AIDS home care program while payments are being made for
 that person for inpatient care in a residential health care facility or
 hospital.
-  5. The commissioner, together with the commissioner of health, shall
-submit a report to the governor, president pro tem of the senate and the
-speaker of the assembly by July first, nineteen hundred ninety and each
-subsequent year thereafter on the implementation of this section. Such
-report shall include a statement of the scope and status of the AIDS
-crisis in New York state, the development and implementation of the AIDS
-home care programs, the adequacy of care delivered by such programs, the
-extent to which such programs have affected use of institutional care
-services by AIDS patients, the costs associated with such programs, the
-adequacy of reimbursement provided such programs, any recommendations
-for legislative action and other such matters as may be pertinent.
   6. This section shall be effective if, and as long as, federal
 financial participation is available.
 ```

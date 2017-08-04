@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 2500-c. Special programs with respect to diethylstilbestrol.  1. For
+  § 2500-c. Special programs with respect to diethylstilbestrol. 1. For
 the purpose of identifying persons who have been exposed to the
 potential hazards and afflictions of diethylstilbestrol, and for the
 purpose of educating the public concerning the symptoms and prevention
@@ -48,15 +48,9 @@ exposure. Enrollment in the registry shall be upon a voluntary basis.
 division, board, bureau, commission or agency of the state or of any
 political subdivision thereof such assistance and data as will enable
 him to properly carry out his activities hereunder and effectuate the
-purposes herein set forth.  The commissioner may also enter into any
+purposes herein set forth. The commissioner may also enter into any
 contract for services as he deems necessary with a private agency or
 concern upon said terms and conditions as he deems appropriate.
-  6. The department shall make an annual report to the legislature of
-its findings and recommendations concerning the effectiveness, impact
-and benefits derived from the special programs as provided for in this
-section. Such report shall be delivered on or before the first day of
-February and shall contain evaluations of such special programs, and any
-legislation deemed necessary and proper.
   7. Special programs as provided for in this section shall be conducted
 within the appropriation made therefor.
 ```

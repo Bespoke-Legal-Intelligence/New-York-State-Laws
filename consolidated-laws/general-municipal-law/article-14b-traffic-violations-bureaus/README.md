@@ -12,6 +12,7 @@
 - [§ 373 Records](373-records.md)
 - [§ 374 Traffic prosecutor selection and oversight](374-traffic-prosecutor-selection-and-oversight.md)
 - [§ 374-A Traffic prosecutor selection and oversight](374a-traffic-prosecutor-selection-and-oversight.md)
+- [§ 374-B Traffic prosecutor selection and oversight](374b-traffic-prosecutor-selection-and-oversight.md)
 
 <details>
 <summary>Official heading of Article 14-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +27,7 @@ Section 370.   Establishment.
         373.   Records.
         374.   Traffic prosecutor selection and oversight.
         374-a. Traffic prosecutor selection and oversight.
+        374-b. Traffic prosecutor selection and oversight.
 ```
 
 </details>

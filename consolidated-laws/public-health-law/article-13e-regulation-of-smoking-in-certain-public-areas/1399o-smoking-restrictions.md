@@ -87,4 +87,10 @@ those hours in which such after-school programs are operational; and
 provided, further, that the provisions of this subdivision shall not
 apply to smoking in a residence, or within the real property boundary
 lines of such residential real property.
+  5. a. Use of an electronic cigarette or e-cigarette shall not be
+permitted on school grounds, as defined in subdivision six of section
+thirteen hundred ninety-nine-n of this article.
+  b. "Electronic cigarette" or "e-cigarette" shall have the same meaning
+as in subdivision thirteen of section thirteen hundred ninety-nine-aa of
+this chapter.
 ```

@@ -79,9 +79,6 @@ forms provided by the commissioner, a summary regarding compliance with
 this section.
   11. The commissioner may adopt and amend rules and regulations to
 effectuate the provisions and purposes of this section.
-  12. The commissioner shall report annually to the governor and the
-legislature concerning the immunization of all students pursuant to this
-section.
   13. a. Prior to August first, nineteen hundred ninety-one, this
 section shall not apply to (i) part-time students or (ii) any student
 who attended the institution he or she is attending prior to August

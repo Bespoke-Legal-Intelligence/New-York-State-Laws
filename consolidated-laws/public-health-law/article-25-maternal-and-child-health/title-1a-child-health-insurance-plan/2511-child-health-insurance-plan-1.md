@@ -741,24 +741,6 @@ section, including penalties, shall be applicable to eligibility
 determinations made by approved organizations only for periods during
 which an approved organization's responsibilities include making such
 eligibility determinations.
-  13. On or before January first, nineteen hundred ninety-two, the
-commissioner shall report to the governor and the legislature on the
-implementation of the program of primary and preventive health care
-services coverage established pursuant to subdivision one of this
-section. Such report shall include, but not be limited to: a status
-report on implementation of the program including the number of
-individuals enrolled profiled by age and geographic location and the
-number and location of contractual arrangements entered into; the impact
-of such program on access to primary and preventive health care
-services; the effect, expenditures and activities of the community-based
-outreach program; the number of children for whom an application for
-insurance coverage has been made and enrollees who were determined to be
-ineligible and the reasons therefor; and, such other matters as the
-commissioner deems appropriate. The commissioner shall report annually
-thereafter on the status of such program, and on and after January
-first, nineteen hundred ninety-seven including inpatient health care
-services, including any recommendations for change or other modification
-in such program.
   14. The commissioner, in consultation with the superintendent, shall
 enter into agreements with one or more persons, not-for-profit
 corporations, or other organizations, other than a state employee,

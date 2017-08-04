@@ -250,24 +250,7 @@ thirty-first, nineteen hundred ninety-four, or for such longer period if
 extended by law, based on the projected availability of an equitable
 level of bad debt and charity care coverage for such agencies provided
 pursuant to chapter two of the laws of nineteen hundred eighty-eight and
-any future amendments thereto. In order to determine the appropriateness
-of the exclusion of hospital-based certified home health agencies and
-the allocation to publicly sponsored certified home health agencies
-pursuant to this paragraph, the commissioner on or before April
-thirtieth, nineteen hundred ninety-one and annually thereafter shall
-report to the governor, the chairmen of the senate finance and assembly
-ways and means committees and the chairmen of the senate and assembly
-standing committees on health comparing the levels of bad debt and
-charity care coverage for all certified home health agencies and
-indicating whether such coverage is equitable, within a five percent
-differential, between hospital-based, public, other voluntary non-profit
-and private proprietary certified home health agencies considering the
-availability of all other forms of financial support or subsidies for
-this purpose. Should the differential of the preceding be greater than
-five percent, the commissioner shall recommend modifications to the
-provisions of this paragraph, and to any associated regulations, as may
-be necessary to achieve equitable levels of bad debt and charity care
-coverage.
+any future amendments thereto.
   (c) No certified home health agency may receive a bad debt and charity
 care allowance in accordance with this subdivision in an amount which
 exceeds its need for the financing of losses associated with the

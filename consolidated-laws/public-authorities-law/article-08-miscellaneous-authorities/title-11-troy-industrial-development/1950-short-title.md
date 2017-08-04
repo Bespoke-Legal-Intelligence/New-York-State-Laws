@@ -5,5 +5,5 @@
 
 ```text
   § 1950. Short title. This title may be cited as the "Troy Industrial
-Development Authority Act. "
+Development Authority Act."
 ```

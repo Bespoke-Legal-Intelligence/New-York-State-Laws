@@ -17,6 +17,7 @@
 - [§ 5 Quarters for Veterans of Foreign Wars](05-quarters-for-veterans-of-foreign-wars.md)
 - [§ 5-A Quarters for Disabled American Veterans](05a-quarters-for-disabled-american-veterans.md)
 - [§ 5-B Quarters for Vietnam Veterans of America](05b-quarters-for-vietnam-veterans-of-america.md)
+- [§ 5-C Samuel J](05c-samuel-j.md)
 - [§ 6 Construction plans; custody; approval; and procedure notwithstanding local requirements](06-construction-plans-custody-approval-and-procedure-notwithstanding-local.md)
 - [§ 8 Contracts](08-contracts.md)
 - [§ 9 Construction emergencies](09-construction-emergencies.md)
@@ -54,6 +55,7 @@ Section 2.     Public buildings.
         5.     Quarters for Veterans of Foreign Wars.
         5-a.   Quarters for Disabled American Veterans.
         5-b.   Quarters for Vietnam Veterans of America.
+        5-c.   Samuel J. Abbott commemorative plaque.
         6.     Construction plans; custody; approval; and procedure
                  notwithstanding local requirements.
         8.     Contracts.

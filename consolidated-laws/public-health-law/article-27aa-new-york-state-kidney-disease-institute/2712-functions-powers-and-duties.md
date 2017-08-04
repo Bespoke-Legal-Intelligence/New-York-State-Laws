@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 27-AA — New York State Kidney Disease Institute](README.md)
 
 ```text
-  § 2712. Functions, powers and duties.  1. In order to further the
+  § 2712. Functions, powers and duties. 1. In order to further the
 declared purposes of this article, the institute shall have the
 following functions, powers and duties:
   (a) To conduct a survey of all of the existing facilities within the
@@ -24,9 +24,6 @@ equipment.
   (f) To survey and evaluate the need for a program of professional
 education and training for medical students, physicians and nurses in
 the care and treatment of kidney diseases.
-  (g) To report to the governor and to the legislature annually on or
-before February first its findings, a progress report, its activities
-carried on under this act and the state's total needs in this area.
   (h) To enter into such contracts and agreements with individuals,
 colleges, universities, associations, corporations, municipalities and
 other units of government as may be deemed necessary and advisable to

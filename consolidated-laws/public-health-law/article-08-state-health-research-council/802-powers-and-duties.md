@@ -28,16 +28,14 @@ by the chairman;
 made to the health research council; and to cause the department of
 taxation and finance to establish from all such monies a special trust
 fund to be used under the direction of the council for the purpose of
-health research and training.  Such grants, gifts, devises or bequests
+health research and training. Such grants, gifts, devises or bequests
 shall be accepted subject to the provisions of section fifty-three-a of
 the state finance law and subject to audit by the state comptroller;
   m. make rules and regulations for the exercise of the council's powers
 and performance of its duties in order to carry out the provisions of
-this article;
+this article; and
   n. exercise and perform such other functions, powers, and duties as
-may from time to time be conferred or imposed by law; and
-  o. report to the governor and to the legislature annually on or before
-March first.
+may from time to time be conferred or imposed by law.
   2. For the purposes of this section research shall not include the
 actual delivery of health care or equipment for health care provided by
 existing institutes established by this chapter to conduct research,

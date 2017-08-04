@@ -180,9 +180,4 @@ their submission to the federal government.
 (including the Adirondack medical home collaborative) previously
 established under section twenty-nine hundred fifty-nine of this chapter
 is continued and shall be deemed to be a program under this section.
-  12. The commissioner shall annually report to the governor and the
-legislature on the operation of the programs and their effectiveness in
-achieving the purposes of this section, with particular reference to the
-quality, cost, and outcomes for enrollees in Medicaid fee-for-service,
-Medicaid managed care, family health plus and child health plus.
 ```

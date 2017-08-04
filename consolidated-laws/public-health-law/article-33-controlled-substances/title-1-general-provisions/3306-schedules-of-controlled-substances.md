@@ -224,8 +224,8 @@ gamma-hydroxybutyric acid lactone; 3-hydroxybutyric acid lactone and
   (6) 1,4 butanediol, including butanediol; butane-1,4-diol;
 1,4-butylene glyco; butylene glycol; 1,4-dihydroxybutane;
 1,4-tetramethylene glycol; tetramethylene glycol; tetramethylene
-1,4-diol with Chemical Abstract Service number (110-63-4) when any such
-substance is intended for human consumption.
+Abstract Service number (110-63-4) when any such substance is intended
+for human consumption.
   (f) Stimulants. Unless specifically excepted or unless listed in
 another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a stimulant

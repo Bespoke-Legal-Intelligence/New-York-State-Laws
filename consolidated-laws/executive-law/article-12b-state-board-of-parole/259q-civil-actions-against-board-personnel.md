@@ -1,10 +1,10 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 259-Q", "kind": "section", "law_id": "EXC", "location_id": "259-Q", "path": "ARTICLE 12-B › SECTION 259-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/259-Q.md", "title": "Civil actions against division personnel"} -->
-# Executive Law § 259-Q — Civil actions against division personnel
+﻿<!-- nyslaw {"citation": "Executive Law § 259-Q", "kind": "section", "law_id": "EXC", "location_id": "259-Q", "path": "ARTICLE 12-B › SECTION 259-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/259-Q.md", "title": "Civil actions against board personnel"} -->
+# Executive Law § 259-Q — Civil actions against board personnel
 
 [Executive Law](../README.md) › [Article 12-B — State Board of Parole](README.md)
 
 ```text
-  § 259-q. Civil actions against division personnel. 1. No civil action
+  § 259-q. Civil actions against board personnel. 1. No civil action
 shall be brought in any court of the state, except by the attorney
 general on behalf of the state, against any officer or employee of the
 board of parole or former division of parole, in his personal capacity,
@@ -22,11 +22,11 @@ resulting from a claim filed in a court of the United States for damages
 arising out of an act done or the failure to perform any act that was
 (a) within the scope of the employment and in the discharge of the
 duties of such officer or employee, and (b) not done or omitted with the
-intent to violate any rule or regulation of the division or of any
-statute or governing case law of the state or of the United States at
-the time the damages were sustained; provided that the officer or
-employee shall comply with the provisions of subdivision four of section
-seventeen of the public officers law.
+intent to violate any rule or regulation of the department, board or
+former division or of any statute or governing case law of the state or
+of the United States at the time the damages were sustained; provided
+that the officer or employee shall comply with the provisions of
+subdivision four of section seventeen of the public officers law.
   4. (a) The provisions of this section shall supplement, and be
 available in addition to, the provisions of section seventeen of the
 public officers law and, insofar as this section is inconsistent with

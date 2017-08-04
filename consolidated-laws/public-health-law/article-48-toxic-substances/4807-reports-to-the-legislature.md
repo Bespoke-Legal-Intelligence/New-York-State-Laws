@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 4807", "kind": "section", "law_id": "PBH", "location_id": "4807", "path": "ARTICLE 48 › SECTION 4807", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/4807.md", "title": "Reports to the legislature"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 4807", "kind": "section", "law_id": "PBH", "location_id": "4807", "path": "ARTICLE 48 › SECTION 4807", "repealed": true, "repealed_date": "2017-08-04", "source": "nys-laws:PBH/4807.md", "title": "Reports to the legislature"} -->
 # Public Health Law § 4807 — Reports to the legislature
 
 [Public Health Law](../README.md) › [Article 48 — Toxic Substances](README.md)
+
+**Repealed** (4 Aug 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 4807. Reports to the legislature. The commissioner, in consultation

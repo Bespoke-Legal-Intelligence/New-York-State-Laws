@@ -165,7 +165,7 @@ Article
            Title    I.   General provisions (§§2500-2507).
                    I-A.  Child health insurance plan (§§2510-2511).
                    1-B.  Adolescent pregnancy prevention and services
-                          program (§§ 2515-2515-d).
+                          program (§§ 2515-2515-c).
                    II.   Prenatal care (§§2520-2530-a).
                    II-A. Early intervention program for infants and
                           toddlers with disabilities and their families
@@ -182,7 +182,7 @@ Article
                           (§§2599-a--2599-d).
   26.      Helen Hayes Hospital (§§2600-2602).
   26-A.    New York state veterans' home (§§2630-2635).
-  27.      Bureau of chronic disease and geriatrics (§§2700-2703).
+  27.      Bureau of chronic disease and geriatrics (§§2700-2702).
   27-A.    Osteoporosis prevention and education (§§2705-2706).
   27-AA.   New York state kidney disease institute (§§ 2710-2712).
   27-B.    Treatment of hypertension.
@@ -271,7 +271,7 @@ Article
                   VII.   Offenses, violations and enforcement
                           (§§3380-3397).
   33-A.    Controlled substances therapeutic research act
-            (§§3397-a--3397-g).
+            (§§3397-a--3397-f).
   34.      Funeral directing
            Title    I.   General provisions (§§3400-3404).
                    II.   Licensing and registration (§§3420-3429).

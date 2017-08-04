@@ -5,7 +5,7 @@
 
 ```text
   § 2803-b. Uniform reports and accounting systems for hospital costs.
-1. The council, after public hearings with respect to its proposed
+1.  The council, after public hearings with respect to its proposed
 systems of uniform hospital accounting and reporting, shall, by majority
 vote of its members and subject to approval of the commissioner, adopt
 and amend approved systems of uniform hospital accounting and reporting
@@ -49,9 +49,4 @@ hospital officers or licensed accountants preparing reports under this
 section stating that each such officer or accountant making the
 authentication believes that to the extent of his knowledge and
 information each statement in the report is true.
-  5. The council shall report annually to the legislature and the
-executive department no later than the fifteenth day of January,
-developments under this section and methods currently in use to
-implement the provisions of section twenty-eight hundred seven of this
-article.
 ```

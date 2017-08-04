@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 24-B — Information Program On Dioxin](README.md)
 
 ```text
-  § 2475. Special policies with respect to dioxin exposure.  1. For the
+  § 2475. Special policies with respect to dioxin exposure. 1. For the
 purpose of identifying persons who were exposed to an herbicide
 containing dioxin and for the purpose of compiling data on the health
 effects of this exposure, the commissioner of health shall:
@@ -34,10 +34,4 @@ Information concerning patient and medical data provided to the
 commissioner pursuant to this subdivision shall be kept confidential
 according to the provisions of paragraph (j) of subdivision one of
 section two hundred six of this chapter.
-  3. The commissioner shall make an annual report to the legislature of
-his findings and recommendations concerning the effectiveness, impact
-and benefits derived from the special policies as provided for in this
-section. Such report shall be delivered on or before the first day of
-March and shall contain evaluations of the policies and any legislation
-deemed necessary and proper.
 ```

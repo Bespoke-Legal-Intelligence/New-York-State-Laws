@@ -48,18 +48,6 @@ submitted by the commissioner to the state comptroller with copies to be
 sent to the chairs of the senate finance committee and the assembly ways
 and means committee and the director of the budget for informational
 purposes only.
-  (ii) The commissioner shall provide the chair of the senate finance
-committee and the assembly ways and means committee and the director of
-the budget with quarterly reports of all transfers or interchanges made
-by the commissioner pursuant to this section on the fifteenth day of
-July, October, January and April of each year, with such reports to
-include the program impact of each transfer or interchange. The
-allocation of lump sum appropriations from a fund or funds made to the
-department for later distribution to the institutional program in the
-department or the allocation of lump sum appropriations made to all
-state departments and agencies for later allocation for specific
-programs or purposes shall not be deemed to be part of any total
-increase or decrease authorized by this section.
   2. (a) Notwithstanding any inconsistent provision of section
 ninety-three of the state finance law or any other law to the contrary,
 any capital projects fund appropriation for state hospitals in the

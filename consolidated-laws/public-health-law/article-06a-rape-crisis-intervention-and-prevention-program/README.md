@@ -9,7 +9,7 @@
 - [§ 695-A Definitions](695a-definitions.md)
 - [§ 695-B Authorization of programs](695b-authorization-of-programs.md)
 - [§ 695-C Technical assistance](695c-technical-assistance.md)
-- [§ 695-D Evaluation and reports](695d-evaluation-and-reports.md)
+- [§ 695-D Evaluation and reports](695d-evaluation-and-reports.md) *(repealed)*
 - [§ 695-E Assistance of other agencies](695e-assistance-of-other-agencies.md)
 
 <details>
@@ -22,7 +22,6 @@ Section 695.   Short title.
         695-a. Definitions.
         695-b. Authorization of programs.
         695-c. Technical assistance.
-        695-d. Evaluation and reports.
         695-e. Assistance of other agencies.
 ```
 

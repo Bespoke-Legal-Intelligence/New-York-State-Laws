@@ -154,6 +154,7 @@
 - [§ 485-S Residential reassessment exemption](485s-residential-reassessment-exemption.md)
 - [§ 485-S\*2 Residential reassessment exemption](485s-2-residential-reassessment-exemption.md)
 - [§ 485-S\*3 Mixed use exemption program for villages](485s-3-mixed-use-exemption-program-for-villages.md)
+- [§ 485-T Owner occupied residential property exemption program](485t-owner-occupied-residential-property-exemption-program.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
 - [§ 487 Exemption from taxation for certain solar or wind energy systems or farm waste energy systems](487-exemption-from-taxation-for-certain-solar-or-wind-energy-systems-or-farm-waste.md)
@@ -414,6 +415,7 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         485-s.   Residential reassessment exemption.
         485-s*2. Residential reassessment exemption.
         485-s*3. Mixed use exemption program for villages.
+        485-t.   Owner occupied residential property exemption program.
         486.     Non-profit medical and dental indemnity, or hospital
                    service corporations.
         486-a.   Non-profit corporations operating as health maintenance

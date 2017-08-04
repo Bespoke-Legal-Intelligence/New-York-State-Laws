@@ -18,8 +18,4 @@ title one of this article, and with federal and other programs for
 improving patient safety or health care quality including programs of
 the national forum for health care quality measurement and reporting
 (quality forum).
-  3. The center shall provide a report of its findings and
-recommendations to the governor and legislature and make such report
-available to the public within eighteen months of the effective date of
-this section and at regular intervals thereafter.
 ```

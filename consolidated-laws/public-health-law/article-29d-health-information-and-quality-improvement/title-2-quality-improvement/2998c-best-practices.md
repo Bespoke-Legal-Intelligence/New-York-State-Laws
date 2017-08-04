@@ -12,8 +12,4 @@ identifying appropriate quality improvement strategies and developing
 and adopting health care best practices;
   (b) Serve as a clearing house of information for health care providers
 concerning quality improvement strategies and best practices; and
-  (c) Report its findings and recommendations to the governor and
-legislature, and make such report available to the public within
-twenty-four months of the effective date of this section and reevaluate
-and update at regular intervals findings and recommendations.
 ```

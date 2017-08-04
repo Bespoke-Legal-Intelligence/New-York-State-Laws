@@ -188,14 +188,14 @@ office of the department of mental hygiene, in accordance with
 applicable provisions of law and regulations or participating in a
 foster family care demonstration program pursuant to section three
 hundred sixty-four-h of this chapter.
-  * NB Effective until December 31, 2017
+  * NB Effective until December 31, 2021
   * (c) "Receiving family care" shall mean residing in a family type
 home for adults which is certified by the department and supervised by a
 social services district, in accordance with applicable provisions of
 law and regulations, or a family care home certified by the appropriate
 office of the department of mental hygiene, in accordance with
 applicable provisions of law and regulations.
-  * NB Effective December 31, 2017
+  * NB Effective December 31, 2021
   (d) "Receiving residential care" shall mean residing in a residence
 for adults or a privately operated community residence, residential
 substance abuse treatment program or community residential facility for

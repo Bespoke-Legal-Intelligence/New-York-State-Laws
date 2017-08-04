@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 16 — Pesticide Control Board](README.md)
 
 ```text
-  § 1606. Functions, powers and duties.  1. The board (a) may prepare
-and recommend rules and regulations, or amendment or repeal thereof, for
+  § 1606. Functions, powers and duties. 1. The board (a) may prepare and
+recommend rules and regulations, or amendment or repeal thereof, for
 controlling the use, transportation, storage and disposal of pesticides
 consistent with the declared purpose of this article and (b) shall
 designate the department or departments by whom such rules or
@@ -32,8 +32,6 @@ and effects of pesticides.
   (f) To advise and assist state departments and agencies upon request.
   (g) To inform the public concerning the state's efforts to regulate
 the use of pesticides and to provide information concerning pesticides.
-  (h) To report to the governor and to the legislature and recommend
-legislation.
   (i) To recommend that the use of specific pesticides be prohibited
 under specified conditions.
   (j) To consult and cooperate with the appropriate agencies of the

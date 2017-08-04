@@ -32,10 +32,17 @@ of the department's production of such materials.
 incidents in children and update the information on choking risks,
 precautionary measures and life-saving procedures provided in its
 educational materials and on its internet website, as appropriate.
-  5. The department shall annually report, on or before January first,
+  * 5. The department shall annually report, on or before January first,
 to the governor, the temporary president of the senate and the speaker
 of the assembly on the implementation of this section and any
 recommendations for furthering the purpose of this section.
+  * NB Effective until December 31, 2017
+  * 5. The department shall report every three years, commencing January
+first, two thousand eighteen, to the governor, the temporary president
+of the senate and the speaker of the assembly on the implementation of
+this section and any recommendations for furthering the purpose of this
+section.
+  * NB Effective December 31, 2017
   6. Implementation of this section shall be contingent upon and shall
 be conducted within appropriations made therefor.
 ```

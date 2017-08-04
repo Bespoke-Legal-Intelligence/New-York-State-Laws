@@ -28,6 +28,7 @@
 - [§ 342-CCC Portion of the state highway system to be designated as the "Paul Cerjan Memorial Highway"](342ccc-portion-of-the-state-highway-system-to-be-designated-as-the-paul-cerjan-memorial.md)
 - [§ 342-D Portion of state highway system to be designated as the "Col](342d-portion-of-state-highway-system-to-be-designated-as-the-col.md)
 - [§ 342-DD Portion of the state highway system to be designated as the "Turning Point Trail"](342dd-portion-of-the-state-highway-system-to-be-designated-as-the-turning-point-trail.md)
+- [§ 342-DDD Portion of the state highway system to be designated as the "Hancock Veterans Memorial Bridge"](342ddd-portion-of-the-state-highway-system-to-be-designated-as-the-hancock-veterans.md)
 - [§ 342-E Portion of state highway system to be designated as "The Roosevelt-Marcy Memorial Highway](342e-portion-of-state-highway-system-to-be-designated-as-the-roosevelt-marcy-memorial.md)
 - [§ 342-EE Portion of state highway system to be designated and known as the "Assemblyman Philip B](342ee-portion-of-state-highway-system-to-be-designated-and-known-as-the-assemblyman.md)
 - [§ 342-F Portion of state highway system to be designated as the "Seaway Trail"](342f-portion-of-state-highway-system-to-be-designated-as-the-seaway-trail.md)
@@ -272,6 +273,9 @@
 - [§ 344-F Portion of state highway system to be designated as the "Specialist Matthew E](344f-portion-of-state-highway-system-to-be-designated-as-the-specialist-matthew-e.md)
 - [§ 344-F\*2 Portion of the state highway system to be designated as the "Major General Harold J](344f-2-portion-of-the-state-highway-system-to-be-designated-as-the-major-general-harold.md)
 - [§ 344-F\*3 Portion of the state highway system to be designated as the "Gordie Little Memorial Bridge"](344f-3-portion-of-the-state-highway-system-to-be-designated-as-the-gordie-little.md)
+- [§ 344-F\*4 Portion of state highway system to be designated as the "New York State Trooper Timothy Pratt Memorial Bridge"](344f-4-portion-of-state-highway-system-to-be-designated-as-the-new-york-state-trooper.md)
+- [§ 344-F\*5 Portion of the state highway system to be designated as "Sergeant James J](344f-5-portion-of-the-state-highway-system-to-be-designated-as-sergeant-james-j.md)
+- [§ 344-F\*6 Portion of the state highway system to be designated as the "Gerard 'Jess' Fitzpatrick Memorial Bridge"](344f-6-portion-of-the-state-highway-system-to-be-designated-as-the-gerard-jess.md)
 - [§ 344-G Portion of state highway system to be designated as the "Senator William J](344g-portion-of-state-highway-system-to-be-designated-as-the-senator-william-j.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
@@ -322,6 +326,8 @@ Section 340-a.     Designation of state interstate routes.
                      the "Col. George F. Chandler Drive."
         342-dd.    Portion of the state highway system to be designated
                      as the "Turning Point Trail".
+        342-ddd.   Portion of the state highway system to be designated
+                     as the "Hancock Veterans Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -902,6 +908,13 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-f*3.   Portion of the state highway system to be designated
                      as the "Gordie Little Memorial Bridge".
+        344-f*4.   Portion of state highway system to be designated as
+                     the "New York State Trooper Timothy Pratt Memorial
+                     Bridge".
+        344-f*5.   Portion of the state highway system to be designated
+                     as "Sergeant James J. Regan Memorial Boulevard".
+        344-f*6.   Portion of the state highway system to be designated
+                     as the "Gerard 'Jess' Fitzpatrick Memorial Bridge".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
         345-a.     Abandonment and transfer of state highways.

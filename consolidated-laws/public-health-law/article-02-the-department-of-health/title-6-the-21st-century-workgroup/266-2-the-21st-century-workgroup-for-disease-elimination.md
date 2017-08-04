@@ -28,8 +28,15 @@ prevention, the national institute of health and the national institute
 of allergy and infectious diseases;
   4. Apply for grants, accept gifts from private and public sources for
 purposes set forth herein; and
-  5. Report annually to the commissioner, the temporary president of the
-senate, the speaker of the assembly, the chair of the senate standing
-committee on health, and the chair of the assembly health committee.
+  ** 5. Report annually to the commissioner, the temporary president of
+the senate, the speaker of the assembly, the chair of the senate
+standing committee on health, and the chair of the assembly health
+committee.
+  ** NB Effective until December 31, 2017
+  ** 5. Report every three years, commencing January first, two thousand
+eighteen, to the commissioner, the temporary president of the senate,
+the speaker of the assembly, the chair of the senate standing committee
+on health, and the chair of the assembly health committee.
+  ** NB Effective December 31, 2017
   * NB There are 2 § 266's
 ```

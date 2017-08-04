@@ -19,8 +19,4 @@ reporting systems, including the use of random audit;
   (d) Analyze and report on health care performance of health care
 providers and health care professionals in New York state pursuant to
 this title; and
-  (e) Report its findings, in aggregate, and recommendations to the
-governor and legislature within twenty-four months of the effective date
-of this section and reevaluate and update at regular intervals findings
-and recommendations.
 ```

@@ -8,7 +8,7 @@
 - [§ 2950 Legislative findings](2950-legislative-findings.md)
 - [§ 2951 Definitions](2951-definitions.md)
 - [§ 2952 Rural health network development grant program](2952-rural-health-network-development-grant-program.md)
-- [§ 2953 Distribution of reports](2953-distribution-of-reports.md)
+- [§ 2953 Distribution of reports](2953-distribution-of-reports.md) *(repealed)*
 - [§ 2954 Limitation on liability of network participants](2954-limitation-on-liability-of-network-participants.md)
 - [§ 2955 Restraint of trade by networks and network participants](2955-restraint-of-trade-by-networks-and-network.md)
 - [§ 2956 Designation of upgraded diagnostic and treatment centers](2956-designation-of-upgraded-diagnostic-and-treatment.md)
@@ -24,7 +24,6 @@
 Section 2950. Legislative findings.
         2951. Definitions.
         2952. Rural health network development grant program.
-        2953. Distribution of reports.
         2954. Limitation on liability of network participants.
         2955. Restraint of trade by networks and network participants.
         2956. Designation of upgraded diagnostic and treatment centers.

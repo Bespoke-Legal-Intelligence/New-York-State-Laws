@@ -23,6 +23,7 @@
 - [§ 404-C Distinctive plates for former prisoners of war](404c-distinctive-plates-for-former-prisoners-of-war.md)
 - [§ 404-CC Distinctive "Cure Childhood Cancer" plates](404cc-distinctive-cure-childhood-cancer-plates.md)
 - [§ 404-D Distinctive plates for members of the organized militia and reserve](404d-distinctive-plates-for-members-of-the-organized.md)
+- [§ 404-DD Distinctive plates for members of AMVETS](404dd-distinctive-plates-for-members-of-amvets.md)
 - [§ 404-E Distinctive plates for purple heart recipients](404e-distinctive-plates-for-purple-heart-recipients.md)
 - [§ 404-F Distinctive plates for members of volunteer ambulance services](404f-distinctive-plates-for-members-of-volunteer-ambulance.md)
 - [§ 404-G Distinctive plates bearing the words "Birthplace of Baseball"](404g-distinctive-plates-bearing-the-words-birthplace.md)
@@ -62,6 +63,8 @@
 - [§ 404-W Distinctive plates for war on terror veterans](404w-distinctive-plates-for-war-on-terror-veterans.md)
 - [§ 404-W\*2 Distinctive plates for Persian Gulf veterans](404w-2-distinctive-plates-for-persian-gulf-veterans.md)
 - [§ 404-X Distinctive "Ducks Unlimited" license plates](404x-distinctive-ducks-unlimited-license-plates.md)
+- [§ 404-Y Distinctive plates for veterans of the Iraq War and veterans of the Afghanistan War](404y-distinctive-plates-for-veterans-of-the-iraq-war.md)
+- [§ 404-Y\*2 Distinctive "Appalachian Trail" license plates](404y-2-distinctive-appalachian-trail-license-plates.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -89,6 +92,7 @@ Section 401.     Registration of motor vehicles; fees; renewals.
         404-cc.  Distinctive "Cure Childhood Cancer" plates.
         404-d.   Distinctive plates for members of the organized militia
                    and reserve.
+        404-dd.  Distinctive plates for members of AMVETS.
         404-e.   Distinctive plates for purple heart recipients.
         404-f.   Distinctive plates for members of volunteer ambulance
                    services.
@@ -145,6 +149,9 @@ Section 401.     Registration of motor vehicles; fees; renewals.
         404-w.   Distinctive plates for war on terror veterans.
         404-w*2. Distinctive plates for Persian Gulf veterans.
         404-x.   Distinctive "Ducks Unlimited" license plates.
+        404-y.   Distinctive plates for veterans of the Iraq War and
+                   veterans of the Afghanistan War.
+        404-y*2. Distinctive "Appalachian Trail" license plates.
 ```
 
 </details>

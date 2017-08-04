@@ -99,8 +99,4 @@ one of this section. Vaccines purchased with funds made available under
 this section shall be made available without charge to licensed private
 physicians, hospitals, clinics and such others as the commissioner shall
 determine, and no charge shall be made to any patient for such vaccines.
-  5. The commissioner shall submit to the governor and the legislature
-an annual report on the progress of the immunization program. Such
-reports shall include specific information on the steps taken and
-planned by the department to carry out the program.
 ```

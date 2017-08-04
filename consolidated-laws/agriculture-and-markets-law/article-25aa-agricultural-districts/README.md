@@ -23,6 +23,7 @@
 - [§ 308 Right to farm](308-right-to-farm.md)
 - [§ 308-A Fees and expenses in certain private nuisance actions](308a-fees-and-expenses-in-certain-private-nuisance-actions.md)
 - [§ 309 Advisory council on agriculture](309-advisory-council-on-agriculture.md)
+- [§ 309-A Young farmer advisory board on agriculture](309a-young-farmer-advisory-board-on-agriculture.md)
 - [§ 310 Disclosure](310-disclosure.md)
 
 <details>
@@ -54,6 +55,7 @@ Section 300.   Declaration of legislative findings and intent.
         308.   Right to farm.
         308-a. Fees and expenses in certain private nuisance actions.
         309.   Advisory council on agriculture.
+        309-a. Young farmer advisory board on agriculture.
         310.   Disclosure.
 ```
 

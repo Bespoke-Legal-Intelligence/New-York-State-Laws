@@ -18,7 +18,5 @@ office of temporary and disability assistance, undertake and continue
 efforts to educate local departments of social services about the
 measures they must take to ensure that medical assistance benefits are
 provided to persons eligible for such benefits under subdivision four of
-section three hundred sixty-six of this title. A report on the progress
-to implement such automated system shall be submitted annually to the
-governor and the legislature by the commissioner of health.
+section three hundred sixty-six of this title.
 ```

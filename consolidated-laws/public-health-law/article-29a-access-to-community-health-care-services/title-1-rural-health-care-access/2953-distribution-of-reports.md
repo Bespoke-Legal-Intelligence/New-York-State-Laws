@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2953", "kind": "section", "law_id": "PBH", "location_id": "2953", "path": "ARTICLE 29-A › TITLE 1 › SECTION 2953", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2953.md", "title": "Distribution of reports"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2953", "kind": "section", "law_id": "PBH", "location_id": "2953", "path": "ARTICLE 29-A › TITLE 1 › SECTION 2953", "repealed": true, "repealed_date": "2017-08-04", "source": "nys-laws:PBH/2953.md", "title": "Distribution of reports"} -->
 # Public Health Law § 2953 — Distribution of reports
 
 [Public Health Law](../../README.md) › [Article 29-A — Access to Community Health Care Services In Rural Areas](../README.md) › [Title 1 — Rural Health Care Access](README.md)
+
+**Repealed** (4 Aug 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2953. Distribution of reports. The commissioner shall prepare a

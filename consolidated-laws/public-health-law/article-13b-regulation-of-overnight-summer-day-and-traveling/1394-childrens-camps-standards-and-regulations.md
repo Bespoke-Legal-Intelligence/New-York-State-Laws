@@ -34,4 +34,11 @@ child. A record of such permission shall be maintained by the camp. A
 child who is unable to physically apply sunscreen may be assisted by
 unlicensed personnel when directed to do so by the child, if permitted
 by a parent or guardian and authorized by the camp.
+  5. Each children's overnight camp, summer day camp and traveling
+summer day camp shall allow children attending such camp to carry and
+use insect repellent with the written permission of a parent or guardian
+of any child. A record of such permission shall be maintained by the
+camp.  A child who is unable to physically apply insect repellent may be
+assisted by unlicensed personnel when directed to do so by the child, if
+permitted by a parent or guardian and authorized by the camp.
 ```
