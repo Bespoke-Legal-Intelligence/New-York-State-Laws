@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 11 Aug 2017.*
+*Current through the publication of 18 Aug 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [18 Aug 2017](changes/2017/2017-08-18.md): Agriculture and Markets Law; Education Law; General Business Law; Penal Law
 - [11 Aug 2017](changes/2017/2017-08-11.md): Civil Service Law; Public Authorities Law; State Finance Law
 - [4 Aug 2017](changes/2017/2017-08-04.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Economic Development Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Highway Law; Indian Law; Judiciary Law; Local Finance Law; Mental Hygiene Law; Parks, Recreation and Historic Preservation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Social Services Law; State Finance Law; Town Law; Vehicle and Traffic Law
 - [21 Jul 2017](changes/2017/2017-07-21.md): Criminal Procedure Law; Domestic Relations Law; Education Law; Family Court Act; Highway Law; Judiciary Law; Public Authorities Law; Social Services Law; State Finance Law; Tax Law
@@ -22,13 +23,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [7 Jul 2017](changes/2017/2017-07-07.md): Arts and Cultural Affairs Law; Banking Law; Boxing, Sparring and Wrestling; Cigarettes, Cigars, Tobacco; Civil Service Law; Correction Law; Criminal Procedure Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General City Law; General City Model; General Municipal Law; Highway Law; Insurance Law; Local Finance Law; Mental Hygiene Law; NYS Financial Emergency Act for the city of NY; Parks, Recreation and Historic Preservation Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Town Law; Vehicle and Traffic Law
 - [30 Jun 2017](changes/2017/2017-06-30.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Estates, Powers and Trusts Law; Executive Law; General Municipal Law; Highway Law; Insurance Law; Local Finance Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Retirement and Social Security Law; Tax Law; Town Law; Vehicle and Traffic Law
 - [23 Jun 2017](changes/2017/2017-06-23.md): Domestic Relations Law; Insurance Law; Real Property Tax Law; Religious Corporations Law
-- [16 Jun 2017](changes/2017/2017-06-16.md): Real Property Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Education Law](consolidated-laws/education-law/README.md) | 169 |
+| [Education Law](consolidated-laws/education-law/README.md) | 170 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 168 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 150 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 125 |
@@ -40,7 +40,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 59 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 56 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 54 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 53 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 54 |
 | [County Law](consolidated-laws/county-law/README.md) | 53 |
 | [Suffolk County Tax Act](unconsolidated-laws/suffolk-county-tax-act/README.md) | 49 |
 
@@ -49,7 +49,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 661 | 4 Aug 2017 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 662 | 18 Aug 2017 |
 | [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 4 Aug 2017 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 7 Jul 2017 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 21 Jul 2017 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 172 | 4 Aug 2017 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,877 | 21 Jul 2017 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,877 | 18 Aug 2017 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 40 | 28 Apr 2017 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 395 | 4 Aug 2017 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -78,7 +78,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 867 | 4 Aug 2017 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,204 | 17 Mar 2017 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,204 | 18 Aug 2017 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 7 Jul 2017 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,070 | 4 Aug 2017 |
@@ -103,7 +103,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 257 | 14 Jul 2017 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 176 | 4 Aug 2017 |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 25 Nov 2016 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 861 | 4 Aug 2017 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 861 | 18 Aug 2017 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 4 Sep 2015 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 424 | 4 Aug 2017 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,125 | 11 Aug 2017 |
