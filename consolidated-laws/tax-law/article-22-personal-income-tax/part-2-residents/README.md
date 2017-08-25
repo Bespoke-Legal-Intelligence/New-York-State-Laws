@@ -36,49 +36,52 @@
 - [§ 630-C Gift for New York state teen health education fund](630c-gift-for-new-york-state-teen-health-education-fund.md)
 - [§ 630-D Gift for women's cancers education and prevention](630d-gift-for-womens-cancers-education-and-prevention.md)
 - [§ 630-D\*2 Gift for autism awareness and research](630d-2-gift-for-autism-awareness-and-research.md)
+- [§ 630-E Gift to the love your library fund](630e-gift-to-the-love-your-library-fund.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                             PART II-RESIDENTS
-Section 611.   New York taxable income of a resident individual.
-        612.   New York adjusted gross income of a resident individual.
-        613.   New York deduction of a resident individual.
-        614.   New York standard deduction of a resident individual.
-        615.   New York itemized deduction of a resident individual.
-        616.   New York exemptions of a resident individual.
-        617.   Resident partners and shareholders of S corporations.
-        617-a. Residents; special provisions.
-        618.   New York taxable income of a resident estate or trust.
-        619.   Share of a resident estate, trust or beneficiary in New
-                 York fiduciary adjustment.
-        620.   Credit for income tax of another state.
-        620-A. Credit against separate tax.
-        621.   Credits to trust beneficiary receiving accumulation
-                 distribution.
-        624.   Computation of separate tax on the ordinary income
-                 portion of lump sum distributions received by resident
-                 individuals, estates and trusts.
-        625.   Gift for fish and wildlife management.
-        626.   The United States Olympic Committee/Lake Placid Olympic
-                 Training Center Fund.
-        627.   Gift for breast cancer research and education.
-        627-a. Gift for honor and remembrance of veterans.
-        627-b. Gift for assisting homeless veterans.
-        627-c. Gift for New York state veterans' homes.
-        628.   Gift for missing and exploited children clearinghouse
-                 fund.
-        629-a. Gift for eliminating the stigma relating to mental
-                 illness.
-        630.   Gift for prostate and testicular cancer research and
-                 education.
-        630-a. Gift for World Trade Center memorial foundation.
-        630-b. Gift for volunteer firefighting and volunteer emergency
-                 services fund.
-        630-c. Gift for New York state teen health education fund.
-        630-d. Gift for women's cancers education and prevention.
-        630-d. Gift for autism awareness and research.
+Section 611.     New York taxable income of a resident individual.
+        612.     New York adjusted gross income of a resident
+                   individual.
+        613.     New York deduction of a resident individual.
+        614.     New York standard deduction of a resident individual.
+        615.     New York itemized deduction of a resident individual.
+        616.     New York exemptions of a resident individual.
+        617.     Resident partners and shareholders of S corporations.
+        617-a.   Residents; special provisions.
+        618.     New York taxable income of a resident estate or trust.
+        619.     Share of a resident estate, trust or beneficiary in New
+                   York fiduciary adjustment.
+        620.     Credit for income tax of another state.
+        620-A.   Credit against separate tax.
+        621.     Credits to trust beneficiary receiving accumulation
+                   distribution.
+        624.     Computation of separate tax on the ordinary income
+                   portion of lump sum distributions received by
+                   resident individuals, estates and trusts.
+        625.     Gift for fish and wildlife management.
+        626.     The United States Olympic Committee/Lake Placid Olympic
+                   Training Center Fund.
+        627.     Gift for breast cancer research and education.
+        627-a.   Gift for honor and remembrance of veterans.
+        627-b.   Gift for assisting homeless veterans.
+        627-c.   Gift for New York state veterans' homes.
+        628.     Gift for missing and exploited children clearinghouse
+                   fund.
+        629-a.   Gift for eliminating the stigma relating to mental
+                   illness.
+        630.     Gift for prostate and testicular cancer research and
+                   education.
+        630-a.   Gift for World Trade Center memorial foundation.
+        630-b.   Gift for volunteer firefighting and volunteer emergency
+                   services fund.
+        630-c.   Gift for New York state teen health education fund.
+        630-d.   Gift for women's cancers education and prevention.
+        630-d*2. Gift for autism awareness and research.
+        630-e.   Gift to the love your library fund.
 ```
 
 </details>

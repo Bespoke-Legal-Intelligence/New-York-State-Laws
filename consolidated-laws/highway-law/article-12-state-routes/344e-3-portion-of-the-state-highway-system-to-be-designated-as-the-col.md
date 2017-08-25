@@ -13,5 +13,5 @@ intersection with Pennsylvania Avenue to its intersection with South
 Washington Street, in the city of Binghamton, in the county of Broome,
 shall each be designated and known as the "Col. David Ireland Memorial
 Highway".
-  * NB There are 14 § 344-e's
+  * NB There are 13 § 344-e's
 ```

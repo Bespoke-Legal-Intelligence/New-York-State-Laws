@@ -11,5 +11,5 @@
 routes five, eight and twelve, also known as the north-south arterial,
 in the city of Utica, county of Oneida, shall be designated and known as
 the "Corey Lee Carr Memorial Bridge".
-  * NB There are 14 § 344-e's
+  * NB There are 13 § 344-e's
 ```

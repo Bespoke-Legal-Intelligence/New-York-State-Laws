@@ -16,6 +16,7 @@
 - [§ 209-H Gift for honor and remembrance of veterans](209h-gift-for-honor-and-remembrance-of-veterans.md)
 - [§ 209-I Gift for women's cancers education and prevention](209i-gift-for-womens-cancers-education-and-prevention.md)
 - [§ 209-J Gift for New York state veterans' homes](209j-gift-for-new-york-state-veterans-homes.md)
+- [§ 209-K Gift to the love your library fund](209k-gift-to-the-love-your-library-fund.md)
 - [§ 210 Computation of tax](210-computation-of-tax.md)
 - [§ 210-A Apportionment](210a-apportionment.md)
 - [§ 210-B Credits](210b-credits.md)
@@ -50,6 +51,7 @@ Section 208.   Definitions.
         209-H. Gift for honor and remembrance of veterans.
         209-I. Gift for women's cancers education and prevention.
         209-J. Gift for New York state veterans' homes.
+        209-K. Gift to the love your library fund.
         210.   Computation of tax.
         210-A. Apportionment.
         210-B. Credits.

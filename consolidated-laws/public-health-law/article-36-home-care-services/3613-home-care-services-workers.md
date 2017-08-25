@@ -8,12 +8,13 @@
 following terms shall have the following meanings:
   * (a) "Home care services entity" means a home care services agency or
 other entity providing home care services subject to this article or
-exempt under section thirty-six hundred nineteen of this article, a
-hospice program certified pursuant to article forty of this chapter
-providing routine care at home under the hospice benefit, or an enhanced
-assisted living residence licensed under article seven of the social
-services law and certified under article forty-six-B of this chapter
-providing enhanced assisted living services.
+exempt under section thirty-six hundred nineteen of this article, or an
+enhanced assisted living residence licensed under article seven of the
+social services law and certified under article forty-six-B of this
+chapter providing enhanced assisted living services. A hospice program
+under article forty of this chapter providing hospice care in a
+patient's home shall be considered a home care services entity only for
+the purpose of compliance with the home care services worker registry.
   * NB Effective until March 31, 2023
   * (a) "Home care services entity" means a home care services agency or
 other entity providing home care services subject to this article or

@@ -29,6 +29,8 @@
 - [§ 342-D Portion of state highway system to be designated as the "Col](342d-portion-of-state-highway-system-to-be-designated-as-the-col.md)
 - [§ 342-DD Portion of the state highway system to be designated as the "Turning Point Trail"](342dd-portion-of-the-state-highway-system-to-be-designated-as-the-turning-point-trail.md)
 - [§ 342-DDD Portion of the state highway system to be designated as the "Hancock Veterans Memorial Bridge"](342ddd-portion-of-the-state-highway-system-to-be-designated-as-the-hancock-veterans.md)
+- [§ 342-DDD\*2 Portion of the state highway system to be designated as the "David H](342ddd-2-portion-of-the-state-highway-system-to-be-designated-as-the-david-h.md)
+- [§ 342-DDD\*3 Portion of the state highway system to be designated as the "Hugh A](342ddd-3-portion-of-the-state-highway-system-to-be-designated-as-the-hugh.md)
 - [§ 342-E Portion of state highway system to be designated as "The Roosevelt-Marcy Memorial Highway](342e-portion-of-state-highway-system-to-be-designated-as-the-roosevelt-marcy-memorial.md)
 - [§ 342-EE Portion of state highway system to be designated and known as the "Assemblyman Philip B](342ee-portion-of-state-highway-system-to-be-designated-and-known-as-the-assemblyman.md)
 - [§ 342-F Portion of state highway system to be designated as the "Seaway Trail"](342f-portion-of-state-highway-system-to-be-designated-as-the-seaway-trail.md)
@@ -268,15 +270,16 @@
 - [§ 344-E\*10 Portion of the state highway system to be designated as the "Corporal Nicholas K](344e-10-portion-of-the-state-highway-system-to-be-designated-as-the-corporal-nicholas-k.md)
 - [§ 344-E\*11 Portion of state highway system to be designated as the "Corey Lee Carr Memorial Bridge"](344e-11-portion-of-state-highway-system-to-be-designated-as-the-corey-lee-carr-memorial.md)
 - [§ 344-E\*12 Portion of the state highway system to be designated as the "Wayne C](344e-12-portion-of-the-state-highway-system-to-be-designated-as-the-wayne-c.md)
-- [§ 344-E\*13 Portion of the state highway system to be designated as the "Private First Class Duane C](344e-13-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
-- [§ 344-E\*14 Portion of the state highway system to be designated as the "Major Clayton Carpenter Memorial Highway"](344e-14-portion-of-the-state-highway-system-to-be-designated-as-the-major-clayton.md)
+- [§ 344-E\*13 Portion of the state highway system to be designated as the "Major Clayton Carpenter Memorial Highway"](344e-13-portion-of-the-state-highway-system-to-be-designated-as-the-major-clayton.md)
 - [§ 344-F Portion of state highway system to be designated as the "Specialist Matthew E](344f-portion-of-state-highway-system-to-be-designated-as-the-specialist-matthew-e.md)
 - [§ 344-F\*2 Portion of the state highway system to be designated as the "Major General Harold J](344f-2-portion-of-the-state-highway-system-to-be-designated-as-the-major-general-harold.md)
 - [§ 344-F\*3 Portion of the state highway system to be designated as the "Gordie Little Memorial Bridge"](344f-3-portion-of-the-state-highway-system-to-be-designated-as-the-gordie-little.md)
 - [§ 344-F\*4 Portion of state highway system to be designated as the "New York State Trooper Timothy Pratt Memorial Bridge"](344f-4-portion-of-state-highway-system-to-be-designated-as-the-new-york-state-trooper.md)
 - [§ 344-F\*5 Portion of the state highway system to be designated as "Sergeant James J](344f-5-portion-of-the-state-highway-system-to-be-designated-as-sergeant-james-j.md)
 - [§ 344-F\*6 Portion of the state highway system to be designated as the "Gerard 'Jess' Fitzpatrick Memorial Bridge"](344f-6-portion-of-the-state-highway-system-to-be-designated-as-the-gerard-jess.md)
+- [§ 344-F\*7 Portion of the state highway system to be designated as the "Private First Class Duane C](344f-7-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
 - [§ 344-G Portion of state highway system to be designated as the "Senator William J](344g-portion-of-state-highway-system-to-be-designated-as-the-senator-william-j.md)
+- [§ 344-G\*2 Portion of the state highway system to be designated as the "Detective Steven McDonald Memorial Highway"](344g-2-portion-of-the-state-highway-system-to-be-designated-as-the-detective-steven.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -328,6 +331,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Turning Point Trail".
         342-ddd.   Portion of the state highway system to be designated
                      as the "Hancock Veterans Memorial Bridge".
+        342-ddd*2. Portion of the state highway system to be designated
+                     as the "David H. Newman Sr. Memorial Bridge".
+        342-ddd*3. Portion of the state highway system to be designated
+                     as the "Hugh A. Kearney Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -548,16 +555,18 @@ Section 340-a.     Designation of state interstate routes.
                      as the "United States Army 77th Infantry Division
                      Memorial Highway".
         343-k*5.   Portions of the state highway system to be designated
-                     as the "Chautauqua Wine Trail", the "Canandaigua
-                     Wine Trail", the "Cayuga Wine Trail East", the
-                     "Cayuga Wine Trail West", the "Seneca Lake Wine
-                     Trail East", the "Seneca Lake Wine Trail West", the
-                     "Keuka Lake Wine Trail", the "Shawangunk Wine
-                     Trail", the "Dutchess Wine Trail", the "North Fork
-                     Wine Trail", the "Hamptons Wine Trail", the "Long
-                     Island Wine Region", the "Niagara Escarpment Wine
-                     Trail", the "Niagara Wine Trail" and the "Lake
-                     Ontario Wine Trail".
+                     as the "Lake Erie Wine Country Trail", the
+                     "Canandaigua Wine Trail", the "Cayuga Wine Trail
+                     East", the "Cayuga Wine Trail West", the "Seneca
+                     Lake Wine Trail East", the "Seneca Lake Wine Trail
+                     West", the "Keuka Lake Wine Trail", the "Shawangunk
+                     Wine Trail", the "Dutchess Wine Trail", the "North
+                     Fork Wine Trail", the "Hamptons Wine Trail", the
+                     "Long Island Wine Region", the "Niagara Wine Trail
+                     Ridge", the "Niagara Wine Trail Lake", the "Lake
+                     Ontario Wine Trail", the "Adirondack Coast Wine
+                     Trail", the "St. Lawrence Wine Trail" and the
+                     "Upper Hudson Wine Trail".
         343-k*6.   Portion of the state highway system to be designated
                      as the "Joseph A. Scapelliti Memorial Bridge".
         343-k*7.   Portion of the state highway system to be designated
@@ -897,9 +906,6 @@ Section 340-a.     Designation of state interstate routes.
         344-e*12.  Portion of the state highway system to be designated
                      as the "Wayne C. Speenburgh Memorial Highway".
         344-e*13.  Portion of the state highway system to be designated
-                     as the "Private First Class Duane C. Scott Memorial
-                     Highway".
-        344-e*14.  Portion of the state highway system to be designated
                      as the "Major Clayton Carpenter Memorial Highway".
         344-f.     Portion of state highway system to be designated as
                      the "Specialist Matthew E. Baylis Memorial Bridge".
@@ -915,8 +921,14 @@ Section 340-a.     Designation of state interstate routes.
                      as "Sergeant James J. Regan Memorial Boulevard".
         344-f*6.   Portion of the state highway system to be designated
                      as the "Gerard 'Jess' Fitzpatrick Memorial Bridge".
+        344-f*7.   Portion of the state highway system to be designated
+                     as the "Private First Class Duane C. Scott Memorial
+                     Highway".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
+        344-g*2.   Portion of the state highway system to be designated
+                     as the "Detective Steven McDonald Memorial
+                     Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

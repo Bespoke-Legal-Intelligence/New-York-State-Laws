@@ -12,7 +12,6 @@
 - [§ 4804 Outreach programs](4804-outreach-programs.md)
 - [§ 4805 Trade secrets](4805-trade-secrets.md)
 - [§ 4806 Public inquiries](4806-public-inquiries.md)
-- [§ 4807 Reports to the legislature](4807-reports-to-the-legislature.md) *(repealed)*
 - [§ 4808 Separability](4808-separability.md)
 
 <details>

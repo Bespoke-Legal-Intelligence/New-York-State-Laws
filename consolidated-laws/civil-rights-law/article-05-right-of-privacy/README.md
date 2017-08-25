@@ -13,6 +13,7 @@
 - [§ 50-E Personnel records of bridge and tunnel officers, sergeants and lieutenants](50e-personnel-records-of-bridge-and-tunnel-officers-sergeants-and-lieutenants.md)
 - [§ 51 Action for injunction and for damages](51-action-for-injunction-and-for-damages.md)
 - [§ 52 Televising, broadcasting or taking motion pictures of certain proceedings prohibited](52-televising-broadcasting-or-taking-motion-pictures-of-certain-proceedings.md)
+- [§ 52-A Private right of action for unwarranted video imaging of residential premises](52a-private-right-of-action-for-unwarranted-video-imaging-of-residential-premises.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,8 @@ Section 50.   Right of privacy.
         51.   Action for injunction and for damages.
         52.   Televising, broadcasting or taking motion pictures of
                 certain proceedings prohibited.
+        52-a. Private right of action for unwarranted video imaging of
+                residential premises.
 ```
 
 </details>

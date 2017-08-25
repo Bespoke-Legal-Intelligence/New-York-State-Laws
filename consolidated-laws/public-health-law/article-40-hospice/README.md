@@ -16,6 +16,7 @@
 - [§ 4012-A Hospice supplemental financial assistance program for persons with special needs](4012a-hospice-supplemental-financial-assistance-program-for-persons-with-special-needs.md)
 - [§ 4012-B Hospice palliative care program for persons with advanced and progressive disease](4012b-hospice-palliative-care-program-for-persons-with-advanced-and-progressive.md)
 - [§ 4013 Hospice worker recruitment and retention program](4013-hospice-worker-recruitment-and-retention-program.md)
+- [§ 4013-B Home care services worker registry](4013b-home-care-services-worker-registry.md)
 - [§ 4014 Hospice residence pilot program](4014-hospice-residence-pilot-program.md)
 - [§ 4015 Pilot program for all-inclusive care for children](4015-pilot-program-for-all-inclusive-care-for-children.md)
 
@@ -39,6 +40,7 @@ Section 4000.   Legislative declaration.
         4012-b. Hospice palliative care program for persons with
                   advanced and progressive disease.
         4013.   Hospice worker recruitment and retention program.
+        4013-b. Home care services worker registry.
         4014.   Hospice residence pilot program.
         4015.   Pilot program for all-inclusive care for children.
 ```

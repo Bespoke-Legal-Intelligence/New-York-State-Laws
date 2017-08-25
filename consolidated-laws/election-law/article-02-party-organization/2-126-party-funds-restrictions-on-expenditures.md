@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 2-126", "kind": "section", "law_id": "ELN", "location_id": "2-126", "path": "ARTICLE 2 › SECTION 2-126", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/2-126.md", "title": "Party funds; restrictions on expenditures"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 2-126", "kind": "section", "law_id": "ELN", "location_id": "2-126", "path": "ARTICLE 2 › SECTION 2-126", "repealed": true, "repealed_date": "2017-08-25", "source": "nys-laws:ELN/2-126.md", "title": "Party funds; restrictions on expenditures"} -->
 # Election Law § 2-126 — Party funds; restrictions on expenditures
 
 [Election Law](../README.md) › [Article 2 — Party Organization](README.md)
+
+**Repealed** (25 Aug 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2-126. Party funds; restrictions on expenditures. No contributions

@@ -9,5 +9,5 @@
 highway system constituting state route two hundred seventy-seven in the
 town of West Seneca, county of Erie, shall be designated and known as
 the "West Seneca Veterans Memorial Highway".
-  * NB There are 14 § 344-e's
+  * NB There are 13 § 344-e's
 ```

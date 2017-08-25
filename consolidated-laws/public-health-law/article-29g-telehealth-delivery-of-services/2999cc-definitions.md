@@ -62,10 +62,12 @@ telehealth. Originating sites shall be limited to facilities licensed
 under articles twenty-eight and forty of this chapter, facilities as
 defined in subdivision six of section 1.03 of the mental hygiene law,
 private physician's or dentist's offices located within the state of New
-York and, when a patient is receiving health care services by means of
-remote patient monitoring, the patient's place of residence located
-within the state of New York or other temporary location located within
-or outside the state of New York.
+York, any type of adult care facility licensed under title two of
+article seven of the social services law, and, when a patient is
+receiving health care services by means of remote patient monitoring,
+the patient's place of residence located within the state of New York or
+other temporary location located within or outside the state of New
+York.
   4. "Telehealth" means the use of electronic information and
 communication technologies by telehealth providers to deliver health
 care services, which shall include the assessment, diagnosis,

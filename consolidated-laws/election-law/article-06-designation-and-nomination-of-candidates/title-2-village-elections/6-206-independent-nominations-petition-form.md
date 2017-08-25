@@ -24,6 +24,8 @@ making the nomination (or nominations) and.....(fill in emblem) as the
 emblem of such body.
      Name of
     Candidate           Public Office           Term        Residence
+                        (include district
+                        number, if applicable)
    .............      ....................      ....      ...............
    .............      ....................      ....      ...............
   I do hereby appoint (insert names and addresses of at least three
@@ -68,6 +70,8 @@ making the nomination (or nominations) and.....(fill in emblem) as the
 emblem of such body.
      Name of
     Candidate           Public Office           Term        Residence
+                        (include district
+                        number, if applicable)
    .............      ....................      ....      ...............
    .............      ....................      ....      ...............
   I do hereby appoint (insert names and addresses of at least three

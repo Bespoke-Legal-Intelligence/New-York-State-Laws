@@ -90,7 +90,10 @@ hereby designate the following named person (or persons) as a candidate
 (or candidates) for nomination of such party for the public office (or
 public offices) to be voted for at the primary election to be held on
 the ...... day of ........... 20.... as hereinafter specified.
-    Name of Candidate     Public Office      Term       Residence
+                          Public Office
+                          (include district
+                          number, if
+    Name of Candidate     applicable)        Term       Residence
   ....................  .................   .......   ...............
   ....................  .................   .......   ...............
   I do hereby appoint (insert names and addresses of at least three
@@ -116,7 +119,7 @@ statement, shall subject me to the same penalties as if I had been duly
 sworn.
   .......................                   ...........................
       Date                                  Signature of Witness
-                        page no. .........
+                           page no. .........
   * NB Effective until November 22, 2017
   * a. Party designations for elective village offices shall be made on
 a designating petition containing the signatures in ink of residents of
@@ -140,7 +143,10 @@ hereby designate the following named person (or persons) as a candidate
 (or candidates) for nomination of such party for the public office (or
 public offices) to be voted for at the primary election to be held on
 the ...... day of ........... 20.... as hereinafter specified.
-    Name of Candidate     Public Office      Term       Residence
+                          Public Office
+                          (include district
+                          number, if
+    Name of Candidate     applicable)        Term       Residence
   ....................  .................   .......   ...............
   ....................  .................   .......   ...............
   I do hereby appoint (insert names and addresses of at least three
@@ -198,7 +204,10 @@ be held on the ..... day of ........, 20....., and that I select the
 name .............. (fill in name) as the name of the independent body
 making the nomination (or nominations) and ..... (fill in emblem) as the
 emblem of such body.
-    Name of Candidate     Public Office       Term        Residence
+                          Public Office
+                          (include district
+                          number, if
+    Name of Candidate     applicable)         Term        Residence
   ....................  .................   ........    .................
   ....................  .................   ........    .................
 I do hereby appoint _ _ _ _
@@ -250,7 +259,10 @@ be held on the ..... day of ........, 20....., and that I select the
 name .............. (fill in name) as the name of the independent body
 making the nomination (or nominations) and ..... (fill in emblem) as the
 emblem of such body.
-    Name of Candidate     Public Office       Term        Residence
+                          Public Office
+                          (include district
+                          number, if
+    Name of Candidate     applicable)         Term        Residence
   ....................  .................   ........    .................
   ....................  .................   ........    .................
 I do hereby appoint _ _ _ _

@@ -24,6 +24,7 @@
 - [§ 404-CC Distinctive "Cure Childhood Cancer" plates](404cc-distinctive-cure-childhood-cancer-plates.md)
 - [§ 404-D Distinctive plates for members of the organized militia and reserve](404d-distinctive-plates-for-members-of-the-organized.md)
 - [§ 404-DD Distinctive plates for members of AMVETS](404dd-distinctive-plates-for-members-of-amvets.md)
+- [§ 404-DD\*2 Mental illness anti-stigma license plates](404dd-2-mental-illness-anti-stigma-license-plates.md)
 - [§ 404-E Distinctive plates for purple heart recipients](404e-distinctive-plates-for-purple-heart-recipients.md)
 - [§ 404-F Distinctive plates for members of volunteer ambulance services](404f-distinctive-plates-for-members-of-volunteer-ambulance.md)
 - [§ 404-G Distinctive plates bearing the words "Birthplace of Baseball"](404g-distinctive-plates-bearing-the-words-birthplace.md)
@@ -65,6 +66,8 @@
 - [§ 404-X Distinctive "Ducks Unlimited" license plates](404x-distinctive-ducks-unlimited-license-plates.md)
 - [§ 404-Y Distinctive plates for veterans of the Iraq War and veterans of the Afghanistan War](404y-distinctive-plates-for-veterans-of-the-iraq-war.md)
 - [§ 404-Y\*2 Distinctive "Appalachian Trail" license plates](404y-2-distinctive-appalachian-trail-license-plates.md)
+- [§ 404-Y\*3 Distinctive plates for members of the Kiwanis International](404y-3-distinctive-plates-for-members-of-the-kiwanis.md)
+- [§ 404-Y\*4 Distinctive plates for conspicuous service cross recipients](404y-4-distinctive-plates-for-conspicuous-service-cross.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,86 +75,91 @@
 ```text
                                ARTICLE 14
                      REGISTRATION OF MOTOR VEHICLES
-Section 401.     Registration of motor vehicles; fees; renewals.
-        401-a.   In-transit permits.
-        401-b.   Registration of tow trucks.
-        402.     Distinctive number; form of number plates; trailers.
-        402-a.   Facsimile license plates.
-        403.     Number plates continued.
-        403-a.   Temporary indicia of registration.
-        403-b.   Sales of special number or distinctive license plates
-                   by certain dealers.
-        404.     Issuance of special number plates.
-        404-a.   Registration of motor vehicles of severely disabled
-                   persons.
-        404-aa.  Distinctive plates for members of the Catholic War
-                   Veterans of America.
-        404-b.   Distinctive plates for volunteer firefighters.
-        404-bb.  Distinctive Cystic Fibrosis Foundation license plates.
-        404-c.   Distinctive plates for former prisoners of war.
-        404-cc.  Distinctive "Cure Childhood Cancer" plates.
-        404-d.   Distinctive plates for members of the organized militia
-                   and reserve.
-        404-dd.  Distinctive plates for members of AMVETS.
-        404-e.   Distinctive plates for purple heart recipients.
-        404-f.   Distinctive plates for members of volunteer ambulance
-                   services.
-        404-g.   Distinctive plates bearing the words "Birthplace of
-                   Baseball".
-        404-h.   Distinctive plates for members of the Jewish War
-                   Veterans of America.
-        404-i.   Distinctive plates for gold star mothers.
-        404-j.   Registration and issuance of special number plates for
-                   veterans who survived the Pearl Harbor attack.
-        404-k.   Distinctive plates for Marine Corps League members.
-        404-l.   Distinctive regional design plates.
-        404-m.   Distinctive license plates commemorating the World
-                   University Games.
-        404-n.   Issuance of distinctive conservation plates.
-        404-o.   Distinctive "Olympic Spirit" license plates.
-        404-oo.  Deposit of service charges for distinctive license
-                   plates.
-        404-p.   Distinctive "Animal Population Control Fund" license
-                   plates.
-        404-p*2. Distinctive plates for congressional medal of honor
-                   recipients.
-        404-q.   Distinctive "drive for the cure" license plates.
-        404-q*2. Distinctive plates for the council on the arts.
-        404-r.   Distinctive "foreign organization" license plates.
-        404-r*2. Distinctive plates for New York state licensed dentists
-                   who are members of the New York State Dental
-                   Association.
-        404-s.   Issuance of distinctive "I Love New York" plates.
-        404-s*2. Issuance of distinctive plates for agriculture.
-        404-s*3. Distinctive "drive out diabetes" license plates.
-        404-s*4. Distinctive plates for the Saratoga national cemetery
-                   honor guard association.
-        404-t.   Distinctive marine and coastal district of New York
-                   license plates.
-        404-t*2. Distinctive conserve habitat license plates.
-        404-t*3. Distinctive "peace at home" license plates.
-        404-u.   Distinctive "keep kids drug free" license plates.
-        404-u*2. Distinctive "national multiple sclerosis society"
-                   license plates.
-        404-u*3. Distinctive gift of life license plates.
-        404-u*4. Distinctive "Erie canal" license plates.
-        404-v.   Distinctive plates for water rescue team members.
-        404-v*2. Distinctive plates for the United States Naval Armed
-                   Guard.
-        404-v*3. Distinctive plates for the arts and cultural
-                   institutions and museums.
-        404-v*4. Distinctive plates for members of the Eighth Air Force
-                   Historical Society.
-        404-v*5. Issuance of distinctive "Discover Queens" license
-                   plates.
-        404-v*6. Distinctive autism awareness license plates.
-        404-v*7. Distinctive "Love your library" plates.
-        404-w.   Distinctive plates for war on terror veterans.
-        404-w*2. Distinctive plates for Persian Gulf veterans.
-        404-x.   Distinctive "Ducks Unlimited" license plates.
-        404-y.   Distinctive plates for veterans of the Iraq War and
-                   veterans of the Afghanistan War.
-        404-y*2. Distinctive "Appalachian Trail" license plates.
+Section 401.      Registration of motor vehicles; fees; renewals.
+        401-a.    In-transit permits.
+        401-b.    Registration of tow trucks.
+        402.      Distinctive number; form of number plates; trailers.
+        402-a.    Facsimile license plates.
+        403.      Number plates continued.
+        403-a.    Temporary indicia of registration.
+        403-b.    Sales of special number or distinctive license plates
+                    by certain dealers.
+        404.      Issuance of special number plates.
+        404-a.    Registration of motor vehicles of severely disabled
+                    persons.
+        404-aa.   Distinctive plates for members of the Catholic War
+                    Veterans of America.
+        404-b.    Distinctive plates for volunteer firefighters.
+        404-bb.   Distinctive Cystic Fibrosis Foundation license plates.
+        404-c.    Distinctive plates for former prisoners of war.
+        404-cc.   Distinctive "Cure Childhood Cancer" plates.
+        404-d.    Distinctive plates for members of the organized
+                    militia and reserve.
+        404-dd.   Distinctive plates for members of AMVETS.
+        404-dd*2. Mental illness anti-stigma license plates.
+        404-e.    Distinctive plates for purple heart recipients.
+        404-f.    Distinctive plates for members of volunteer ambulance
+                    services.
+        404-g.    Distinctive plates bearing the words "Birthplace of
+                    Baseball".
+        404-h.    Distinctive plates for members of the Jewish War
+                    Veterans of America.
+        404-i.    Distinctive plates for gold star mothers.
+        404-j.    Registration and issuance of special number plates for
+                    veterans who survived the Pearl Harbor attack.
+        404-k.    Distinctive plates for Marine Corps League members.
+        404-l.    Distinctive regional design plates.
+        404-m.    Distinctive license plates commemorating the World
+                    University Games.
+        404-n.    Issuance of distinctive conservation plates.
+        404-o.    Distinctive "Olympic Spirit" license plates.
+        404-oo.   Deposit of service charges for distinctive license
+                    plates.
+        404-p.    Distinctive "Animal Population Control Fund" license
+                    plates.
+        404-p*2.  Distinctive plates for congressional medal of honor
+                    recipients.
+        404-q.    Distinctive "drive for the cure" license plates.
+        404-q*2.  Distinctive plates for the council on the arts.
+        404-r.    Distinctive "foreign organization" license plates.
+        404-r*2.  Distinctive plates for New York state licensed
+                    dentists who are members of the New York State
+                    Dental Association.
+        404-s.    Issuance of distinctive "I Love New York" plates.
+        404-s*2.  Issuance of distinctive plates for agriculture.
+        404-s*3.  Distinctive "drive out diabetes" license plates.
+        404-s*4.  Distinctive plates for the Saratoga national cemetery
+                    honor guard association.
+        404-t.    Distinctive marine and coastal district of New York
+                    license plates.
+        404-t*2.  Distinctive conserve habitat license plates.
+        404-t*3.  Distinctive "peace at home" license plates.
+        404-u.    Distinctive "keep kids drug free" license plates.
+        404-u*2.  Distinctive "national multiple sclerosis society"
+                    license plates.
+        404-u*3.  Distinctive gift of life license plates.
+        404-u*4.  Distinctive "Erie canal" license plates.
+        404-v.    Distinctive plates for water rescue team members.
+        404-v*2.  Distinctive plates for the United States Naval Armed
+                    Guard.
+        404-v*3.  Distinctive plates for the arts and cultural
+                    institutions and museums.
+        404-v*4.  Distinctive plates for members of the Eighth Air Force
+                    Historical Society.
+        404-v*5.  Issuance of distinctive "Discover Queens" license
+                    plates.
+        404-v*6.  Distinctive autism awareness license plates.
+        404-v*7.  Distinctive "Love your library" plates.
+        404-w.    Distinctive plates for war on terror veterans.
+        404-w*2.  Distinctive plates for Persian Gulf veterans.
+        404-x.    Distinctive "Ducks Unlimited" license plates.
+        404-y.    Distinctive plates for veterans of the Iraq War and
+                    veterans of the Afghanistan War.
+        404-y*2.  Distinctive "Appalachian Trail" license plates.
+        404-y*3.  Distinctive plates for members of the Kiwanis
+                    International.
+        404-y*4.  Distinctive plates for conspicuous service cross
+                    recipients.
 ```
 
 </details>

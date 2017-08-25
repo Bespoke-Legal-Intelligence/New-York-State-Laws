@@ -11,7 +11,6 @@
 - [§ 3397-D State patient qualification review board; composition; powers and duties](3397d-state-patient-qualification-review-board-composition-powers-and-duties.md)
 - [§ 3397-E Patient participation in program; procedure](3397e-patient-participation-in-program-procedure.md)
 - [§ 3397-F Antonio G](3397f-antonio-g.md)
-- [§ 3397-G Report](3397g-report.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 33-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

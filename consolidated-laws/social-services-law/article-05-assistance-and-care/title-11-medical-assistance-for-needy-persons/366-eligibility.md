@@ -696,28 +696,29 @@ resources the corpus or income of the following trusts which comply with
 the provisions of the regulations authorized by clause (iv) of this
 subparagraph: (A) a trust containing the assets of such a disabled
 individual which was established for the benefit of the disabled
-individual while such individual was under sixty-five years of age by a
-parent, grandparent, legal guardian, or court of competent jurisdiction,
-if upon the death of such individual the state will receive all amounts
-remaining in the trust up to the total value of all medical assistance
-paid on behalf of such individual; (B) and a trust containing the assets
-of such a disabled individual established and managed by a non-profit
-association which maintains separate accounts for the benefit of
-disabled individuals, but, for purposes of investment and management of
-trust funds, pools the accounts, provided that accounts in the trust
-fund are established solely for the benefit of individuals who are
-disabled as such term is defined in section 1614(a)(3) of the federal
-social security act by such disabled individual, a parent, grandparent,
-legal guardian, or court of competent jurisdiction, and to the extent
-that amounts remaining in the individual's account are not retained by
-the trust upon the death of the individual, the state will receive all
-such remaining amounts up to the total value of all medical assistance
-paid on behalf of such individual. Notwithstanding any law to the
-contrary, a not-for-profit corporation may, in furtherance of and as an
-adjunct to its corporate purposes, act as trustee of a trust for persons
-with disabilities established pursuant to this subclause, provided that
-a trust company, as defined in subdivision seven of section one
-hundred-c of the banking law, acts as co-trustee.
+individual while such individual was under sixty-five years of age by
+the individual, a parent, grandparent, legal guardian, or court of
+competent jurisdiction, if upon the death of such individual the state
+will receive all amounts remaining in the trust up to the total value of
+all medical assistance paid on behalf of such individual; (B) and a
+trust containing the assets of such a disabled individual established
+and managed by a non-profit association which maintains separate
+accounts for the benefit of disabled individuals, but, for purposes of
+investment and management of trust funds, pools the accounts, provided
+that accounts in the trust fund are established solely for the benefit
+of individuals who are disabled as such term is defined in section
+1614(a)(3) of the federal social security act by such disabled
+individual, a parent, grandparent, legal guardian, or court of competent
+jurisdiction, and to the extent that amounts remaining in the
+individual's account are not retained by the trust upon the death of the
+individual, the state will receive all such remaining amounts up to the
+total value of all medical assistance paid on behalf of such individual.
+Notwithstanding any law to the contrary, a not-for-profit corporation
+may, in furtherance of and as an adjunct to its corporate purposes, act
+as trustee of a trust for persons with disabilities established pursuant
+to this subclause, provided that a trust company, as defined in
+subdivision seven of section one hundred-c of the banking law, acts as
+co-trustee.
   (iv) The department shall promulgate such regulations as may be
 necessary to carry out the provisions of this subparagraph. Such
 regulations shall include provisions for: assuring the fulfillment of

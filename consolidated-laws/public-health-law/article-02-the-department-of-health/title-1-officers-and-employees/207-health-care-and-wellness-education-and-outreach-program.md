@@ -112,6 +112,15 @@ shall include representatives of people with lupus and their families
 and health care providers who specialize in treating lupus, among
 others.
   * NB There are 3 par (m)'s
+  (n) Pediatric acute-onset neuropsychiatric syndrome, a clinical
+diagnosis given to children who have a sudden and dramatic onset of
+neuropsychiatric symptoms including obsessive compulsive disorder and/or
+eating disorder, and which may cause affected children to become moody,
+irritable and anxious, and to have difficulty with schoolwork. Provided
+that such program shall include an advisory council under this section
+that shall include representatives of people with pediatric acute-onset
+neuropsychiatric syndrome and their families and health care providers
+who specialize in treating such syndrome, among others.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,

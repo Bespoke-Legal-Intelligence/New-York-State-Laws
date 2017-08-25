@@ -20,7 +20,7 @@
 - [§ 2-122-A National convention; national party conference](2-122-a-national-convention-national-party-conference.md)
 - [§ 2-122-B Presidential primary](2-122-b-presidential-primary.md)
 - [§ 2-124 Party names and emblems; provision for](2-124-party-names-and-emblems-provision.md)
-- [§ 2-126 Party funds; restrictions on expenditures](2-126-party-funds-restrictions-on-expenditures.md)
+- [§ 2-126 Party funds; restrictions on expenditures](2-126-party-funds-restrictions-on-expenditures.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -45,7 +45,6 @@ Section 2-100.   Party committees; provision for.
         2-122-a. National convention; national party conference.
         2-122-b. Presidential primary.
         2-124.   Party names and emblems; provision for.
-        2-126.   Party funds; restrictions on expenditures.
 ```
 
 </details>

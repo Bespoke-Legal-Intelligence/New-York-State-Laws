@@ -8,7 +8,6 @@
 - [§ 2700 Bureau of chronic disease and geriatrics established](2700-bureau-of-chronic-disease-and-geriatrics-established.md)
 - [§ 2701 Purpose and functions](2701-purpose-and-functions.md)
 - [§ 2702 Powers and duties](2702-powers-and-duties.md)
-- [§ 2703 Report](2703-report.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -4,7 +4,7 @@
 [Village Law](../README.md) › [Article 5 — Finances](README.md)
 
 ```text
-  § 5-530 Villages authorized to impose taxes on utilities.  l.
+  § 5-530 Villages authorized to impose taxes on utilities.  1.
 Notwithstanding any other provisions of law to the contrary, any village
 is hereby authorized and empowered to adopt and amend local laws
 imposing in any such village a tax such as was imposed by section one

@@ -15,6 +15,7 @@
 - [§ 676 Employment of stenographer](676-employment-of-stenographer.md)
 - [§ 677 Records; reports](677-records-reports.md)
 - [§ 678 Disposition of money or property found on deceased](678-disposition-of-money-or-property-found-on-deceased.md)
+- [§ 679 Training requirements for coroners and coroner's deputies](679-training-requirements-for-coroners-and-coroners-deputies.md)
 
 <details>
 <summary>Official heading of Article 17-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -38,6 +39,8 @@ Section 670.   Application of article.
         676.   Employment of stenographer.
         677.   Records; reports.
         678.   Disposition of money or property found on deceased.
+        679.   Training requirements for coroners and coroner's
+                 deputies.
 ```
 
 </details>

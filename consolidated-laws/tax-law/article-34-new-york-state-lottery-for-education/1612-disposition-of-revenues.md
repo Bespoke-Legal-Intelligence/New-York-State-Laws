@@ -227,44 +227,44 @@ including, but not limited to hotels, other lodging facilities,
 entertainment facilities, retail facilities, dining facilities, events
 arenas, parking garages and other improvements that enhance facility
 amenities; provided that such capital investments shall be approved by
-the division, in consultation with the state racing and wagering board,
-and that such vendor track demonstrates that such capital expenditures
-will increase patronage at such vendor track's facilities and increase
-the amount of revenue generated to support state education programs. The
-annual amount of such vendor's capital awards that a vendor track shall
-be eligible to receive shall be limited to two million five hundred
-thousand dollars, except for Aqueduct racetrack, for which there shall
-be no annual limit, provided, however, that any such capital award for
-the Aqueduct video lottery terminal facility operator shall be one
-percent of the total revenue wagered at the video lottery terminal
-facility after payout for prizes pursuant to this chapter until the
-earlier of the designation of one thousand video lottery devices as
-hosted pursuant to paragraph four of subdivision a of section sixteen
-hundred seventeen-a of this chapter or April first, two thousand
-nineteen and shall then be four percent of the total revenue wagered at
-the video lottery terminal facility after payout for prizes pursuant to
-this chapter, provided, further, that such capital award shall only be
-provided pursuant to an agreement with the operator to construct an
-expansion of the facility, hotel, and convention and exhibition space
-requiring a minimum capital investment of three hundred million dollars.
-Except for tracks having less than one thousand one hundred video gaming
-machines, and except for a vendor track located west of State Route 14
-from Sodus Point to the Pennsylvania border within New York, and except
-for Aqueduct racetrack each track operator shall be required to
-co-invest an amount of capital expenditure equal to its cumulative
-vendor's capital award. For all tracks, except for Aqueduct racetrack,
-the amount of any vendor's capital award that is not used during any one
-year period may be carried over into subsequent years ending before
-April first, two thousand eighteen. Any amount attributable to a capital
-expenditure approved prior to April first, two thousand eighteen and
-completed before April first, two thousand twenty; or approved prior to
-April first, two thousand twenty-two and completed before April first,
-two thousand twenty-four for a vendor track located west of State Route
-14 from Sodus Point to the Pennsylvania border within New York, shall be
-eligible to receive the vendor's capital award. In the event that a
-vendor track's capital expenditures, approved by the division prior to
-April first, two thousand eighteen and completed prior to April first,
-two thousand twenty, exceed the vendor track's cumulative capital award
+the division, in consultation with the gaming commission, and that such
+vendor track demonstrates that such capital expenditures will increase
+patronage at such vendor track's facilities and increase the amount of
+revenue generated to support state education programs. The annual amount
+of such vendor's capital awards that a vendor track shall be eligible to
+receive shall be limited to two million five hundred thousand dollars,
+except for Aqueduct racetrack, for which there shall be no annual limit,
+provided, however, that any such capital award for the Aqueduct video
+lottery terminal facility operator shall be one percent of the total
+revenue wagered at the video lottery terminal facility after payout for
+prizes pursuant to this chapter until the earlier of the designation of
+one thousand video lottery devices as hosted pursuant to paragraph four
+of subdivision a of section sixteen hundred seventeen-a of this chapter
+or April first, two thousand nineteen and shall then be four percent of
+the total revenue wagered at the video lottery terminal facility after
+payout for prizes pursuant to this chapter, provided, further, that such
+capital award shall only be provided pursuant to an agreement with the
+operator to construct an expansion of the facility, hotel, and
+convention and exhibition space requiring a minimum capital investment
+of three hundred million dollars. Except for tracks having less than one
+thousand nine hundred video gaming machines, and except for a vendor
+track located west of State Route 14 from Sodus Point to the
+Pennsylvania border within New York, and except for Aqueduct racetrack
+each track operator shall be required to co-invest an amount of capital
+expenditure equal to its cumulative vendor's capital award. For all
+tracks, except for Aqueduct racetrack, the amount of any vendor's
+capital award that is not used during any one year period may be carried
+over into subsequent years ending before April first, two thousand
+eighteen. Any amount attributable to a capital expenditure approved
+prior to April first, two thousand eighteen and completed before April
+first, two thousand twenty; or approved prior to April first, two
+thousand twenty-two and completed before April first, two thousand
+twenty-four for a vendor track located west of State Route 14 from Sodus
+Point to the Pennsylvania border within New York, shall be eligible to
+receive the vendor's capital award. In the event that a vendor track's
+capital expenditures, approved by the gaming commission prior to April
+first, two thousand eighteen and completed prior to April first, two
+thousand twenty, exceed the vendor track's cumulative capital award
 during the five year period ending April first, two thousand eighteen,
 the vendor shall continue to receive the capital award after April
 first, two thousand eighteen until such approved capital expenditures

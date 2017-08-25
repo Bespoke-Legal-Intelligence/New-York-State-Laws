@@ -15,7 +15,7 @@ initially identify at least three such centers.
   2. The commissioner's identification of a comprehensive care center
 for eating disorders under this article shall be valid for not more than
 a two year period from the date of issuance. The commissioner may
-reissue such identifications for subsequent periods of up to two years,
+reissue such identifications for subsequent periods of up to five years,
 provided that the comprehensive care center has notified the
 commissioner of any material changes in structure or operation based on
 its original application, or since its last written notice by the

@@ -126,9 +126,10 @@ forty-five-b of the executive law, a certified home health agency,
 licensed home care services agency or long term home health care program
 certified, licensed or approved under article thirty-six of this chapter
 or a home care services agency exempt from certification or licensure
-under article thirty-six of this chapter, or an adult home, enriched
-housing program or residence for adults licensed under article seven of
-the social services law, may temporarily approve a prospective employee
+under article thirty-six of this chapter, a hospice program under
+article forty of this chapter, or an adult home, enriched housing
+program or residence for adults licensed under article seven of the
+social services law, may temporarily approve a prospective employee
 while the results of the criminal history information check and the
 determination are pending, upon the condition that the provider conducts
 appropriate direct observation and evaluation of the temporary employee,
