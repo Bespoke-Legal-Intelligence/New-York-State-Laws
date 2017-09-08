@@ -79,7 +79,7 @@ not a RIC. Any voting stock in a RIC that is held in a segregated asset
 account of a life insurance corporation (as described in section 817 of
 the internal revenue code) shall not be taken into account for purposes
 of determining whether a RIC is a captive RIC.
-  11. The term " combinable captive insurance company" means an entity
+  11. The term "combinable captive insurance company" means an entity
 that is treated as an association taxable as a corporation under the
 internal revenue code (a) more than fifty percent of the voting stock of
 which is owned or controlled, directly or indirectly, by a single entity

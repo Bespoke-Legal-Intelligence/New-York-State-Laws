@@ -397,7 +397,7 @@ REIT and the conditions described in subparagraphs three and four of
 this paragraph are satisfied, or (B) in the case of any real estate
 investment trust transfer occurring on or after July thirteenth,
 nineteen hundred ninety-six and before September first, two thousand
-seventeen, the transaction is described in subparagraph five of this
+twenty, the transaction is described in subparagraph five of this
 paragraph in which case the provisions of such subparagraph shall apply.
   (3) The value of the ownership interests in the REIT, or in a
 partnership or corporation in which the REIT owns a controlling

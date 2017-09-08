@@ -543,9 +543,8 @@ county or counties in which that service is provided under section one
 hundred thirty-one-g of the highway law and property used by or
 purchased for the use of those exempt ferry boats for fuel, provisions,
 supplies, maintenance and repairs.
-  * (44) monuments as that term is defined in subdivision (f) of section
+  (44) monuments as that term is defined in subdivision (f) of section
 fifteen hundred two of the not-for-profit corporation law.
-  * NB Effective September 1, 2017
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall

@@ -139,16 +139,19 @@ which continues to conduct business shall also be subject to the tax
 imposed by this article.
   * 4. Corporations liable to tax under sections one hundred
 eighty-three to one hundred eighty-five, inclusive, corporations taxable
-under article thirty-three of this chapter, any trust company organized
-under a law of this state all of the stock of which is owned by not less
-than twenty savings banks organized under a law of this state, a captive
-REIT or a captive RIC filing a combined return under subdivision (f) of
-section fifteen hundred fifteen of this chapter, and housing companies
-organized and operating pursuant to the provisions of article two or
-article five of the private housing finance law and housing development
-fund companies organized pursuant to the provisions of article eleven of
-the private housing finance law shall not be subject to tax under this
-article.
+under articles thirty-two and thirty-three of this chapter, any trust
+company organized under a law of this state all of the stock of which is
+owned by not less than twenty savings banks organized under a law of
+this state, bank holding companies filing a combined return in
+accordance with subdivision (f) of section fourteen hundred sixty-two of
+this chapter, a captive REIT or a captive RIC filing a combined return
+under either subdivision (f) of section fourteen hundred sixty-two or
+subdivision (f) of section fifteen hundred fifteen of this chapter, and
+housing companies organized and operating pursuant to the provisions of
+article two or article five of the private housing finance law and
+housing development fund companies organized pursuant to the provisions
+of article eleven of the private housing finance law shall not be
+subject to tax under this article.
   * NB Effective until January 1, 2018
   * 4. Corporations liable to tax under sections one hundred
 eighty-three to one hundred eighty-four-a, inclusive, corporations

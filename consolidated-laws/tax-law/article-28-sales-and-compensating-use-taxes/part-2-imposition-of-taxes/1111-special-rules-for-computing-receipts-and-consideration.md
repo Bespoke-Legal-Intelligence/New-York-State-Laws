@@ -90,24 +90,8 @@ shall consist of the localities included in the counties of Nassau and
 Suffolk. (iii) The third region shall consist of the area of the state
 outside the regions referred to in subparagraphs (i) and (ii) of this
 paragraph.
-  * (2) (i) Where the motor fuel is imported, manufactured or sold in,
-or diesel motor fuel is sold or used in the region referred to in
-subparagraph (i) of paragraph one of this subdivision, the tax required
-to be prepaid pursuant to section eleven hundred two of this article on
-each gallon of such fuel shall be seventeen and one-half cents.
-  (ii) Where motor fuel is imported, manufactured or sold in, or diesel
-motor fuel is sold or used in the region referred to in subparagraph
-(ii) of paragraph one of this subdivision, the tax required to be
-prepaid pursuant to section eleven hundred two of this article on each
-gallon of such fuel shall be twenty-one cents.
-  (iii) Where motor fuel is imported, manufactured or sold in, or diesel
-motor fuel is sold or used in the region referred to in subparagraph
-(iii) of paragraph one of this subdivision, the tax required to be
-prepaid pursuant to section eleven hundred two of this article on each
-gallon of such fuel shall be sixteen cents.
-  * NB Effective until September 1, 2017
-  * (2) (i) Where the motor fuel is imported, manufactured or sold in,
-or diesel motor fuel is sold or used in the region referred to in
+  (2) (i) Where the motor fuel is imported, manufactured or sold in, or
+diesel motor fuel is sold or used in the region referred to in
 subparagraph (i) of paragraph one of this subdivision, the tax required
 to be prepaid pursuant to section eleven hundred two of this article on
 each gallon of such fuel shall be sixteen cents.
@@ -121,7 +105,6 @@ motor fuel is sold or used in the region referred to in subparagraph
 (iii) of paragraph one of this subdivision, the tax required to be
 prepaid pursuant to section eleven hundred two of this article on each
 gallon of such fuel shall be fifteen cents.
-  * NB Effective September 1, 2017
   (3) When a wholesaler of motor fuel sells motor fuel in a region, as
 defined in paragraph one of this subdivision, different from the region
 in which such motor fuel was purchased:
@@ -134,7 +117,7 @@ prepaid rate as set forth in this subdivision than the region in which
 the wholesaler purchased the motor fuel, the wholesaler shall be
 entitled to a credit or refund for the difference in the rates for the
 gallonage sold.
-  * (4) The commissioner is authorized to adjust the rates in paragraph
+  (4) The commissioner is authorized to adjust the rates in paragraph
 two of this subdivision and shall prescribe a schedule of such rates for
 each region described in paragraph one of this subdivision as provided
 in this paragraph.
@@ -193,8 +176,7 @@ publication of the rates so fixed by the provisions of this section
 shall not be included within paragraph (a) of subdivision two of section
 one hundred two of the state administrative procedure act relating to
 the definition of a rule.
-  * NB Effective September 1, 2017
-  * (5) Where a new rate of tax required to be prepaid for motor fuel or
+  (5) Where a new rate of tax required to be prepaid for motor fuel or
 diesel motor fuel is determined by the commissioner, (i) if such new
 rate is less than the rate then in effect, on the date the rate becomes
 effective (A) a registered distributor shall be entitled to a credit in
@@ -229,7 +211,6 @@ to be prepaid by section eleven hundred two of this article. Such
 additional tax shall be determined, assessed, collected and enforced in
 the same manner as the tax required to be prepaid by section eleven
 hundred two of this article.
-  * NB Effective September 1, 2017
   (f) The retail sales tax imposed under subdivision (a) of section
 eleven hundred five and the compensating use tax imposed under section
 eleven hundred ten, when computed in respect to a new mobile home, shall

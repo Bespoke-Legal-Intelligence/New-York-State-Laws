@@ -32,8 +32,7 @@ formation of the REIT, provided that the conditions set forth in clauses
 (i) and (ii) of this subparagraph are satisfied, or (II) in the case of
 any real estate investment trust transfer occurring on or after July
 thirteenth, nineteen hundred ninety-six and before September first, two
-thousand seventeen, is described in the last sentence of this
-subparagraph.
+thousand twenty, is described in the last sentence of this subparagraph.
   (i) The value of the ownership interests in the REIT, or in a
 partnership or corporation in which the REIT owns a controlling
 interest, received by the grantor as consideration for such conveyance

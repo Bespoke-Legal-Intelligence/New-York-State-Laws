@@ -39,8 +39,7 @@
                  FRANCHISE TAX ON BUSINESS CORPORATIONS
 Section 208.   Definitions.
         209.   Imposition of tax; exemptions.
-        209-B. Temporary metropolitan transportation business tax
-                 surcharge.
+        209-B. Metropolitan transportation business tax surcharge.
         209-C. Gift for fish and wildlife management.
         209-D. Gift for breast cancer research and education.
         209-E. Gift for prostate and testicular cancer research and
