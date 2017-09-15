@@ -31,6 +31,8 @@
 - [§ 342-DDD Portion of the state highway system to be designated as the "Hancock Veterans Memorial Bridge"](342ddd-portion-of-the-state-highway-system-to-be-designated-as-the-hancock-veterans.md)
 - [§ 342-DDD\*2 Portion of the state highway system to be designated as the "David H](342ddd-2-portion-of-the-state-highway-system-to-be-designated-as-the-david-h.md)
 - [§ 342-DDD\*3 Portion of the state highway system to be designated as the "Hugh A](342ddd-3-portion-of-the-state-highway-system-to-be-designated-as-the-hugh.md)
+- [§ 342-DDD\*4 Portion of the state highway system to be designated as the "SSG Justin R](342ddd-4-portion-of-the-state-highway-system-to-be-designated-as-the-ssg-justin-r.md)
+- [§ 342-DDD\*5 Portion of the state highway system to be designated as the "Lt](342ddd-5-portion-of-the-state-highway-system-to-be-designated-as-the-lt.md)
 - [§ 342-E Portion of state highway system to be designated as "The Roosevelt-Marcy Memorial Highway](342e-portion-of-state-highway-system-to-be-designated-as-the-roosevelt-marcy-memorial.md)
 - [§ 342-EE Portion of state highway system to be designated and known as the "Assemblyman Philip B](342ee-portion-of-state-highway-system-to-be-designated-and-known-as-the-assemblyman.md)
 - [§ 342-F Portion of state highway system to be designated as the "Seaway Trail"](342f-portion-of-state-highway-system-to-be-designated-as-the-seaway-trail.md)
@@ -114,6 +116,7 @@
 - [§ 343-CC\*2 Portion of the state highway system to be designated as the "Corey J](343cc-2-portion-of-the-state-highway-system-to-be-designated-as-the-corey-j.md)
 - [§ 343-CCC Portion of the state highway system to be designated as the "Corporal Tony Casamento Memorial Bridge"](343ccc-portion-of-the-state-highway-system-to-be-designated-as-the-corporal-tony.md)
 - [§ 343-D Portion of state highway system to be designated as the "Jackie Robinson Parkway"](343d-portion-of-state-highway-system-to-be-designated-as-the-jackie-robinson-parkway.md)
+- [§ 343-DD Portion of state highway system to be designated as the "Justine L](343dd-portion-of-state-highway-system-to-be-designated-as-the-justine-l.md)
 - [§ 343-E Portion of state highway system in the county of Rockland to be designated as the "Vietnam Veterans Memorial Highway"](343e-portion-of-state-highway-system-in-the-county-of-rockland-to-be-designated.md)
 - [§ 343-F Portion of the state highway system to be designated as "The Norman J](343f-portion-of-the-state-highway-system-to-be-designated-as-the-norman-j.md)
 - [§ 343-F\*2 Portion of state highway system in the county of Monroe to be designated as a "POW-MIA Memorial Highway"](343f-2-portion-of-state-highway-system-in-the-county-of-monroe-to-be-designated.md)
@@ -335,6 +338,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "David H. Newman Sr. Memorial Bridge".
         342-ddd*3. Portion of the state highway system to be designated
                      as the "Hugh A. Kearney Memorial Bridge".
+        342-ddd*4. Portion of the state highway system to be designated
+                     as the "SSG Justin R. Whiting Memorial Bridge".
+        342-ddd*5. Portion of the state highway system to be designated
+                     as the "Lt. Cameron N. Hall Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -524,6 +531,8 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Corporal Tony Casamento Memorial Bridge".
         343-d.     Portion of state highway system to be designated as
                      the "Jackie Robinson Parkway".
+        343-dd.    Portion of state highway system to be designated as
+                     the "Justine L. Hommel Memorial Highway".
         343-e.     Portion of state highway system in the county of
                      Rockland to be designated as the "Vietnam Veterans
                      Memorial Highway".

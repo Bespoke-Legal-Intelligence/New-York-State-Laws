@@ -1707,23 +1707,24 @@ section shall apply to taxable years beginning before January first, two
 thousand twenty.
   25. Clean heating fuel credit.  (a) General. A taxpayer shall be
 allowed a credit against the tax imposed by this article. Such credit,
-to be computed as hereinafter provided, shall be allowed for bioheat,
-used for space heating or hot water production for residential purposes
-within this state purchased before January first, two thousand twenty.
-Such credit shall be $0.01 per percent of biodiesel per gallon of
-bioheat, not to exceed twenty cents per gallon, purchased by such
-taxpayer. Provided, however, that on or after January first, two
-thousand seventeen, this credit shall not apply to bioheat that is less
-than six percent biodiesel per gallon of bioheat.
+to be computed as hereinafter provided, shall be allowed for bioheating
+fuel, used for space heating or hot water production for residential
+purposes within this state purchased before January first, two thousand
+twenty. Such credit shall be $0.01 per percent of biodiesel per gallon
+of bioheating fuel, not to exceed twenty cents per gallon, purchased by
+such taxpayer. Provided, however, that on or after January first, two
+thousand seventeen, this credit shall not apply to bioheating fuel that
+is less than six percent biodiesel per gallon of bioheating fuel.
   (b) Definitions. For purposes of this subdivision, the following
 definitions shall apply:
   (i) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
 esters of long chain fatty acids derived from vegetable oils or animal
 fats, designated B100, which meets the specifications of American
 Society of Testing and Materials designation D 6751.
-  (ii) "Bioheat" shall mean a fuel comprised of biodiesel blended with
-conventional home heating oil, which meets the specifications of the
-American Society of Testing and Materials designation D 396 or D 975.
+  (ii) "Bioheating fuel" shall mean a fuel comprised of biodiesel or
+renewable hydrocarbon diesel blended with conventional home heating oil,
+which meets the specifications of the American Society of Testing and
+Materials designation D 396 or D 975.
   (c) Application of credit. The credit allowed under this subdivision
 for any taxable year shall not reduce the tax due for such year to less
 than the fixed dollar minimum amount prescribed in paragraph (d) of

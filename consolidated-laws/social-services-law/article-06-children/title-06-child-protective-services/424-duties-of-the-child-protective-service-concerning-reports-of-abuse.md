@@ -99,8 +99,20 @@ enumerated in such report and the name, age and condition of other
 children in the home, and, after seeing to the safety of the child or
 children, forthwith notify the subjects of the report and other persons
 named in the report in writing of the existence of the report and their
-respective rights pursuant to this title in regard to amendment.
-  (b) subject to rules and regulations of the division of criminal
+respective rights pursuant to this title in regard to amendment;
+  (b) ascertain whether the child named in the report or any other child
+in the same home is in the care, custody or guardianship of an
+authorized agency. Where such authorized agency is not the social
+services district in which the home is located, the report shall be
+forwarded as soon as possible to such authorized agency and any other
+social services district charged with the care, custody or guardianship
+of the child or other children in the home. Such authorized agency and
+local social services district shall also be notified as to whether such
+report is indicated or unfounded in accordance with subdivision seven of
+this section. Nothing in this subdivision shall require such social
+services district to investigate or participate in the investigation of
+such report;
+  (c) subject to rules and regulations of the division of criminal
 justice services, a manager of the child protective services unit, or a
 person with law enforcement background who is specifically designated by
 the commissioner of the local social services district for this purpose,

@@ -31,6 +31,7 @@
 - [§ 724 Indemnification of directors and officers by a court](724-indemnification-of-directors-and-officers-by-a-court.md)
 - [§ 725 Other provisions affecting indemnification of directors and officers](725-other-provisions-affecting-indemnification-of-directors-and-officers.md)
 - [§ 726 Insurance for indemnification of directors and officers](726-insurance-for-indemnification-of-directors-and-officers.md)
+- [§ 727 Annual reports for certain transactions required](727-annual-reports-for-certain-transactions-required.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,15 +59,16 @@ Section 701. Board of directors.
         718. List of directors and officers.
         719. Liability of directors in certain cases.
         720. Action against directors and officers for misconduct.
-        721. Nonexclusivity  of statutory provisions for indemnification
+        721. Nonexclusivity of statutory provisions for indemnification
                of directors and officers.
-        722. Authorization  for   indemnification   of   directors   and
+        722. Authorization for indemnification of directors and
                officers.
         723. Payment of indemnification other than by court award.
         724. Indemnification of directors and officers by a court.
         725. Other provisions affecting indemnification of directors and
                officers.
         726. Insurance for indemnification of directors and officers.
+        727. Annual reports for certain transactions required.
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELD |
 | Type | Consolidated law, chapter 35-A |
-| Sections | 40 |
-| Last changed | 8 Sep 2017 |
+| Sections | 44 |
+| Last changed | 15 Sep 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Elder |
 
@@ -27,10 +27,11 @@ Section 101.   Short title.
                                  TITLE 1
 ```
 
-[Full chapter text (58 lines)](chapter-text.md)
+[Full chapter text (68 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [15 Sep 2017](../../changes/2017/2017-09-15.md): 4 added
 - [8 Sep 2017](../../changes/2017/2017-09-08.md): 1 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 1 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 1 amended
@@ -40,9 +41,9 @@ Section 101.   Short title.
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 1 amended
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 1 amended
 - [18 Dec 2015](../../changes/2015/2015-12-18.md): 1 amended
-- [27 Nov 2015](../../changes/2015/2015-11-27.md): 1 amended
 
 ## Contents
 
 - [Article 1 — Short Title](article-1-short-title/)
 - [Article 2 — Programs For the Elderly](article-2-programs-for-the-elderly/)
+- [Article 3 — Identifying and Reporting Self Neglect, Abuse and Maltreatment In Healthcare Settings](article-3-identifying-and-reporting-self-neglect-abuse/)

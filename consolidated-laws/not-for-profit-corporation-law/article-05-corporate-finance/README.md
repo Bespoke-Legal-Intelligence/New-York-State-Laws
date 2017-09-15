@@ -23,6 +23,7 @@
 - [§ 516 Distributions to members upon termination of membership](516-distributions-to-members-upon-termination-of-membership.md)
 - [§ 517 Liabilities of members](517-liabilities-of-members.md)
 - [§ 519 Annual report of directors](519-annual-report-of-directors.md)
+- [§ 519-A Annual reports for certain transactions required](519a-annual-reports-for-certain-transactions-required.md)
 - [§ 520 Reports of corporation](520-reports-of-corporation.md)
 - [§ 521 Liability for failure to disclose required information](521-liability-for-failure-to-disclose-required-information.md)
 
@@ -52,6 +53,7 @@ Section 501.   Stock and shares prohibited; membership certificates
         516.   Distributions to members upon termination of membership.
         517.   Liabilities of members.
         519.   Annual report of directors.
+        519-a. Annual reports for certain transactions required.
         520.   Reports of corporation.
         521.   Liability for failure to disclose required information.
 ```

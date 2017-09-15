@@ -24,6 +24,7 @@
 - [§ 19-0321 Permits to construct and operate certain municipally sponsored major facilities](19-0321-permits-to-construct-and-operate-certain-municipally.md)
 - [§ 19-0323 Use of ultra low sulfur diesel fuel and best available technology by the state](19-0323-use-of-ultra-low-sulfur-diesel-fuel-and-best-available.md)
 - [§ 19-0325 Sulfur reduction requirements](19-0325-sulfur-reduction-requirements.md)
+- [§ 19-0327 Bioheating fuel requirements](19-0327-bioheating-fuel-requirements.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -58,6 +59,7 @@ Section 19-0301.   Powers and duties.
         19-0323.   Use of ultra low sulfur diesel fuel and best
                      available technology by the state.
         19-0325.   Sulfur reduction requirements.
+        19-0327.   Bioheating fuel requirements.
 ```
 
 </details>

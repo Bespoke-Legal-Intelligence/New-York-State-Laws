@@ -71,6 +71,7 @@
 - [§ 92-A Medical, surgical and hospital services or insurance for officers, employees and retired officers and employees of public corporations an...](92a-medical-surgical-and-hospital-services-or-insurance-for-officers-employees.md)
 - [§ 92-B Audit of claims under certain contracts for administering medical assistance](92b-audit-of-claims-under-certain-contracts-for-administering-medical-assistance.md)
 - [§ 92-C Emergency service volunteer; paid leave](92c-emergency-service-volunteer-paid-leave.md)
+- [§ 92-D Sick leave for officers and employees with a qualifying World Trade Center condition](92d-sick-leave-for-officers-and-employees-with-a-qualifying-world-trade-center.md)
 - [§ 93 Payment of certain insurance premiums for officers and employees of municipal corporations and agencies or instrumentalities thereof](93-payment-of-certain-insurance-premiums-for-officers-and-employees-of-municipal.md)
 - [§ 93-A Written statement of deductions to accompany payment of salary or wages to officers or employees in certain cases](93a-written-statement-of-deductions-to-accompany-payment-of-salary-or-wages.md)
 - [§ 93-B Deductions from wages or salaries of civil service employees](93b-deductions-from-wages-or-salaries-of-civil-service-employees.md)
@@ -225,6 +226,8 @@ Section 70.     Payment of judgments against municipal corporation.
         92-b.   Audit of claims under certain contracts for
                   administering medical assistance.
         92-c.   Emergency service volunteer; paid leave.
+        92-d.   Sick leave for officers and employees with a qualifying
+                  World Trade Center condition.
         93.     Payment of certain insurance premiums for officers and
                   employees of municipal corporations and agencies or
                   instrumentalities thereof.

@@ -143,7 +143,14 @@ mammogram pursuant to this section shall not exceed the documented costs
 associated therewith. However, the reasonable charge for paper copies
 shall not exceed seventy-five cents per page. A qualified person shall
 not be denied access to patient information solely because of inability
-to pay.
+to pay. No charge may be imposed under this section for providing,
+releasing, or delivering patient information or copies of patient
+information where requested for the purpose of supporting an
+application, claim or appeal for any government benefit or program,
+provided that, where a provider maintains patient information in
+electronic form, it shall provide the copy in either electronic or paper
+form, as required by the government benefit or program, or at the
+patient's request.
   (f) A provider may place reasonable limitations on the time, place,
 and frequency of any inspections of patient information.
   (g) In the event that a practitioner does not have space available to

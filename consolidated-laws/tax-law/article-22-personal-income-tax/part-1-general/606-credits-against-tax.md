@@ -4099,25 +4099,26 @@ hundred eighty-six of this article, provided, however, that no interest
 shall be paid thereon.
   (mm) Clean heating fuel credit.  (1) A taxpayer shall be allowed a
 credit against the tax imposed by this article. Such credit, to be
-computed as hereinafter provided, shall be allowed for bioheat, used for
-space heating or hot water production for residential purposes within
-this state and purchased on or after July first, two thousand six and
-before July first, two thousand seven and on or after January first, two
-thousand eight and before January first, two thousand twenty. Such
-credit shall be $0.01 per percent of biodiesel per gallon of bioheat,
-not to exceed twenty cents per gallon, purchased by such taxpayer.
+computed as hereinafter provided, shall be allowed for bioheating fuel,
+used for space heating or hot water production for residential purposes
+within this state and purchased on or after July first, two thousand six
+and before July first, two thousand seven and on or after January first,
+two thousand eight and before January first, two thousand twenty. Such
+credit shall be $0.01 per percent of biodiesel per gallon of bioheating
+fuel, not to exceed twenty cents per gallon, purchased by such taxpayer.
 Provided, however, that on or after January first, two thousand
-seventeen, this credit shall not apply to bioheat that is less than six
-percent biodiesel per gallon of bioheat.
+seventeen, this credit shall not apply to bioheating fuel that is less
+than six percent biodiesel per gallon of bioheating fuel.
   (2) For purposes of this subsection, the following definitions shall
 apply:
   (a) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
 esters of long chain fatty acids derived from vegetable oils or animal
 fats, designated B100, which meets the specifications of American
 Society of Testing and Materials designation D 6751.
-  (b) "Bioheat" shall mean a fuel comprised of biodiesel blended with
-conventional home heating oil, which meets the specifications of the
-American Society of Testing and Materials designation D 396 or D 975.
+  (b) "Bioheating fuel" shall mean a fuel comprised of biodiesel or
+renewable hydrocarbon diesel blended with conventional home heating oil,
+which meets the specifications of the American Society of Testing and
+Materials designation D 396 or D 975.
   (3) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in

@@ -8,7 +8,7 @@
 | Senate code | EPT |
 | Type | Consolidated law, chapter 17-B |
 | Sections | 361 |
-| Last changed | 30 Jun 2017 |
+| Last changed | 15 Sep 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Estates, Powers & Trusts |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 amended
 - [30 Jun 2017](../../changes/2017/2017-06-30.md): 3 amended
 - [2 Jun 2017](../../changes/2017/2017-06-02.md): 1 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [26 Dec 2014](../../changes/2014/2014-12-26.md): 3 amended
 - [28 Nov 2014](../../changes/2014/2014-11-28.md): 1 amended, 1 added
 - [24 Oct 2014](../../changes/2014/2014-10-24.md): 2 amended
-- [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
 
 ## Contents
 

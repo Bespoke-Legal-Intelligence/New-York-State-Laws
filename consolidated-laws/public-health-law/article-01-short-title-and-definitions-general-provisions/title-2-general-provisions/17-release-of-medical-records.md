@@ -31,7 +31,14 @@ further, that any charge for delivering an original mammogram pursuant
 to this section shall not exceed the documented costs associated
 therewith. However, the reasonable charge for paper copies shall not
 exceed seventy-five cents per page. A release of records under this
-section shall not be denied solely because of inability to pay.
+section shall not be denied solely because of inability to pay. No
+charge may be imposed under this section for providing, releasing, or
+delivering medical records or copies of medical records where requested
+for the purpose of supporting an application, claim or appeal for any
+government benefit or program, provided that, where a provider maintains
+medical records in electronic form, it shall provide the copy in either
+electronic or paper form, as required by the government benefit or
+program, or at the patient's request.
   For the purposes of this section the term "laboratory tests" shall
 include but not be limited to tests and examinations administered in
 clinical laboratories or blood banks as those terms are defined in
