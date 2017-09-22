@@ -8,7 +8,7 @@
 | Senate code | CVR |
 | Type | Consolidated law, chapter 6 |
 | Sections | 108 |
-| Last changed | 25 Aug 2017 |
+| Last changed | 22 Sep 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Rights |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [22 Sep 2017](../../changes/2017/2017-09-22.md): 1 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 1 added
 - [25 Sep 2015](../../changes/2015/2015-09-25.md): 1 amended
 - [21 Aug 2015](../../changes/2015/2015-08-21.md): 1 amended

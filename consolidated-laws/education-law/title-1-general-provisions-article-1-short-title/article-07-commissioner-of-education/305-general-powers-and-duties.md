@@ -1323,5 +1323,5 @@ guidelines with the farm-to-school program established pursuant to
 subdivision five-b of section sixteen of the agriculture and markets
 law.
   * NB There are 2 sb 56's
-  * NB Effective March 11, 2018
+  * NB Effective March 12, 2018
 ```

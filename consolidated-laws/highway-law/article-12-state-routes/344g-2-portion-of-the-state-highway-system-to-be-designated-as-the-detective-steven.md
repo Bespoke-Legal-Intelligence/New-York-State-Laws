@@ -14,5 +14,4 @@ in a generally easterly direction, and terminating at exit 22, the
 intersection of the Meadowbrook State Parkway, shall be designated and
 known as the "Detective Steven McDonald Memorial Highway".
   * NB There are 2 § 344-g's
-  * NB Effective September 16, 2017
 ```

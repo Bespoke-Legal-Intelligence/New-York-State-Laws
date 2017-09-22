@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 5 — Right of Privacy](README.md)
 
 ```text
-  * § 52-a. Private right of action for unwarranted video imaging of
+  § 52-a. Private right of action for unwarranted video imaging of
 residential premises. 1. Any owner or tenant of residential real
 property shall have a private right of action for damages against any
 person who installs or affixes a video imaging device on property
@@ -21,5 +21,4 @@ portion of the parcel on which residential real property is located
 which extends beyond the rear footprint of the residential dwelling
 situated thereon, and to the side and rear boundaries of such parcel
 extending beyond the rear footprint of such residential dwelling.
-  * NB Effective September 15, 2017
 ```
