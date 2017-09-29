@@ -14,7 +14,7 @@
 - [§ 27-1510 Standards applicable to generators of regulated medical waste](27-1510-standards-applicable-to-generators.md)
 - [§ 27-1511 Standards applicable to transporter of regulated medical waste](27-1511-standards-applicable-to-transporter.md)
 - [§ 27-1513 Requirements for regulated medical waste treatment, storage and disposal facility](27-1513-requirements-for-regulated-medical.md)
-- [§ 27-1515 Rules and regulations](27-1515-rules-and-regulations.md)
+- [§ 27-1515 Rules and Regulations](27-1515-rules-and-regulations.md)
 - [§ 27-1517 Permits for storage, transportation, treatment or disposal of regulated medical waste](27-1517-permits-for-storage-transportation.md)
 - [§ 27-1519 Pilot projects](27-1519-pilot-projects.md)
 

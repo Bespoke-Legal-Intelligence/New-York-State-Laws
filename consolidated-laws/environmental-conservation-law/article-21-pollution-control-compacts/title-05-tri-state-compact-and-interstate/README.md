@@ -23,6 +23,7 @@
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
+                                 TITLE 5
         TRI-STATE COMPACT AND INTERSTATE ENVIRONMENTAL COMMISSION
 Section 21-0501. Tri-state compact.
         21-0503. Commissioners.

@@ -14,7 +14,7 @@
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE III
+                                 TITLE 3
          GOVERNMENT AGENCY REPORTING OF TOXIC CHEMICAL RELEASES
 Section 37-0301. Definitions.
         37-0303. Applicability.

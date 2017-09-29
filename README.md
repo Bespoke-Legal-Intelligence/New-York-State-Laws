@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 22 Sep 2017.*
+*Current through the publication of 29 Sep 2017.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [29 Sep 2017](changes/2017/2017-09-29.md): Environmental Conservation Law
 - [22 Sep 2017](changes/2017/2017-09-22.md): Agriculture and Markets Law; Civil Rights Law; Correction Law; Education Law; Highway Law; Parks, Recreation and Historic Preservation Law
 - [15 Sep 2017](changes/2017/2017-09-15.md): Agriculture and Markets Law; Business Corporation Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; General Municipal Law; Highway Law; Insurance Law; Mental Hygiene Law; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Public Authorities Law; Public Health Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; Tax Law; Town Law; Village Law
 - [8 Sep 2017](changes/2017/2017-09-08.md): Elder Law; Environmental Conservation Law; Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [25 Aug 2017](changes/2017/2017-08-25.md): Alcoholic Beverage Control Law; Civil Practice Law and Rules; Civil Rights Law; Correction Law; County Law; Criminal Procedure Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; General Business Law; Highway Law; Judiciary Law; Labor Law; Mental Hygiene Law; Public Authorities Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law; Village Law
 - [18 Aug 2017](changes/2017/2017-08-18.md): Agriculture and Markets Law; Education Law; General Business Law; Penal Law
 - [11 Aug 2017](changes/2017/2017-08-11.md): Civil Service Law; Public Authorities Law; State Finance Law
-- [4 Aug 2017](changes/2017/2017-08-04.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; Correction Law; Criminal Procedure Law; Economic Development Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; Highway Law; Indian Law; Judiciary Law; Local Finance Law; Mental Hygiene Law; Parks, Recreation and Historic Preservation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Tax Law; Social Services Law; State Finance Law; Town Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -30,16 +30,16 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 177 |
 | [Education Law](consolidated-laws/education-law/README.md) | 173 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 158 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 119 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 157 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 118 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 104 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 91 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 87 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 73 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 71 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 64 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 60 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 57 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 56 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 54 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 54 |
 | [County Law](consolidated-laws/county-law/README.md) | 54 |
@@ -73,7 +73,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,695 | 15 Sep 2017 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,695 | 29 Sep 2017 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 15 Sep 2017 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 15 Sep 2017 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
