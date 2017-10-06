@@ -12,6 +12,7 @@
 - [Title 9 — Park, Recreation and Historic Preservation Projects](title-09-park-recreation-and-historic/)
 - [Title 11 — Local Waterfront Revitalization Plans and Coastal Rehabilitation Projects](title-11-local-waterfront-revitalization/)
 - [Title 13 — Long Island Central Pine Barrens Area and South Shore Estuary Reserve Planning](title-13-long-island-central-pine-barrens/)
+- [Title 15 — Climate Smart Community Projects](title-15-climate-smart-community-projects/)
 
 <details>
 <summary>Official heading of Article 54, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2903", "kind": "section", "law_id": "ENV", "location_id": "27-2903", "path": "ARTICLE 27T29 › SECTION 27-2903", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2903.md", "title": "Mercury-containing thermostat collection"} -->
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-2903", "kind": "section", "law_id": "ENV", "location_id": "27-2903", "path": "ARTICLE 27 › ARTICLE 27T29 › SECTION 27-2903", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-2903.md", "title": "Mercury-containing thermostat collection"} -->
 # Environmental Conservation Law § 27-2903 — Mercury-containing thermostat collection
 
-[Environmental Conservation Law](../README.md) › [Article 27T29 — Title 29 Mercury Thermostat Collection Act](README.md)
+[Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Article 27T29 — Title 29 Mercury Thermostat Collection Act](README.md)
 
 ```text
 * § 27-2903. Mercury-containing thermostat collection.

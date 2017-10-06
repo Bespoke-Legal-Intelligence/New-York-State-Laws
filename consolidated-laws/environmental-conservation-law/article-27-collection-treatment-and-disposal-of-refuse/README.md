@@ -30,6 +30,7 @@
 - [Title 26 — Electronic Equipment Recycling and Reuse](title-26-electronic/)
 - [Title 27 — Plastic Bag Reduction, Reuse and Recycling](title-27-plastic-bag/)
 - [Title 27\*2 — Drug Management and Disposal](title-27-2-drug-management/)
+- [Article 27T29 — Title 29 Mercury Thermostat Collection Act](article-27t29-title-29/)
 
 <details>
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

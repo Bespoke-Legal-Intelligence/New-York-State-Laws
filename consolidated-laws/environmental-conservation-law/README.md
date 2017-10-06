@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,695 |
-| Last changed | 29 Sep 2017 |
+| Sections | 1,707 |
+| Last changed | 6 Oct 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -33,6 +33,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 
 ## Recent changes
 
+- [6 Oct 2017](../../changes/2017/2017-10-06.md): 12 added
 - [29 Sep 2017](../../changes/2017/2017-09-29.md): 8 amended
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 added
 - [8 Sep 2017](../../changes/2017/2017-09-08.md): 1 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 7 amended, 9 added, 2 removed
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 2 amended
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 1 amended
-- [9 Dec 2016](../../changes/2016/2016-12-09.md): 5 amended
 
 ## Contents
 
@@ -66,7 +66,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 25 — Tidal Wetlands](article-25-tidal-wetlands/)
 - [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](article-27-collection-treatment-and-disposal-of-refuse/)
 - [Article 28 — Pollution Prevention](article-28-pollution-prevention/)
-- [Article 27T29 — Title 29 Mercury Thermostat Collection Act](article-27t29-title-29-mercury-thermostat-collection-act/)
 - [Article 29 — Low-level Radioactive Waste Facilities](article-29-low-level-radioactive-waste-facilities/)
 - [Article 33 — Pesticides](article-33-pesticides/)
 - [Article 34 — Coastal Erosion Hazard Areas](article-34-coastal-erosion-hazard-areas/)
