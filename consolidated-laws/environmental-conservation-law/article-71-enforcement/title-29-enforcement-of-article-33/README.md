@@ -18,8 +18,7 @@
 <summary>Official heading of Title 29, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 29
-                        ENFORCEMENT OF ARTICLE 33
+                  TITLE 29 - ENFORCEMENT OF ARTICLE 33
 Section 71-2901. Applicability of this title.
         71-2903. Investigations.
         71-2905. Immunity of witnesses.

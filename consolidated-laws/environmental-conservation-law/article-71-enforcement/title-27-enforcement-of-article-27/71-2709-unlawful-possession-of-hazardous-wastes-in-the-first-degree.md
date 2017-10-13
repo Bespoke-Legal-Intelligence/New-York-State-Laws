@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 71 — Enforcement](../README.md) › [Title 27 — Enforcement of Article 27 and Article 71](README.md)
 
 ```text
- § 71-2709. Unlawful possession of hazardous wastes in the first degree.
+§ 71-2709. Unlawful possession of hazardous wastes in the first degree.
   No person shall:
   1. Knowingly possess acute hazardous wastes at a place other than the
 site of generation; or
