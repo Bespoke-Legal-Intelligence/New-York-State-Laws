@@ -62,7 +62,7 @@ the funds deposited into the life pass it on trust fund pursuant to
 section ninety-five-d of the state finance law.
   (c) In addition, the contractor may receive and use voluntary
 contributions.
-  * 5. (a) Such organ, eye and tissue registration of consent to make an
+  5. (a) Such organ, eye and tissue registration of consent to make an
 anatomical gift can be made through: (i) indication made on the
 application or renewal form of a driver's license, (ii) indication made
 on a non-driver identification card application or renewal form, (iii)
@@ -121,41 +121,6 @@ refusal of any other or future anatomical gift.
 opportunity to specify which organs, eyes and tissues they want to
 donate and if the donation may be used for transplantation, research, or
 both.
-  * NB Effective until October 3, 2020
-  * 5. (a) Such organ, eye and tissue registration of consent to make an
-anatomical gift can be made through: (i) indication made on the
-application or renewal form of a driver's license, (ii) indication made
-on a non-driver identification card application or renewal form, (iii)
-indication made on a voter registration form pursuant to subdivision
-five of section 5-210 of the election law, (iv) enrollment through the
-donate life registry website, (v) paper enrollment submitted to the
-donate life registry, or (vi) through any other method identified by the
-commissioner.
-  (b)(i) registration subparagraphs (i) and (ii) paragraph (a) of
-registration, eye
-  (ii)
-  (c) Enrollment or amendment or revocation through the donate life
-registry website through any of the means listed in this subdivision may
-be signed by electronic signature, in accordance with the provisions of
-article three of the state technology law, supported by the use of
-suitable mechanisms including unique identifiers to provide confidence
-in the identity of the person providing the electronic signature. The
-registration shall take effect upon the provision of written or
-electronic notice of the registration to the individual enrolling in the
-donate life registry.
-  (d) Amendments or revocations from the donate life registry shall be
-made by the following, subject to the requirements of the commissioner:
-  (i) registrants submitting an amendment or revocation in writing to
-the donate life registry; or
-  (ii) registrants submitting an amendment or revocation electronically
-through the donate life registry website.
-  (e) Removal from the donate life registry shall not be deemed a
-refusal of any other or future anatomical gift.
-  (f) The donate life registry shall provide individuals enrolled the
-opportunity to specify which organs, eyes and tissues they want to
-donate and if the donation may be used for transplantation, research, or
-both.
-  * NB Effective October 3, 2020
   6. An individual registered in the donate life registry before July
 twenty-third, two thousand eight shall be deemed to have expressed
 intent to donate, until and unless he or she files an amendment to his

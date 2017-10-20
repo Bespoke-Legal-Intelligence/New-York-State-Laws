@@ -31,6 +31,7 @@
 - [§ 11-0537 Bald and golden eagles; prohibited acts](11-0537-bald-and-golden-eagles-prohibited-acts.md)
 - [§ 11-0538 Direct contact between public and big cats prohibited](11-0538-direct-contact-between-public-and-big-cats.md)
 - [§ 11-0539 New York natural heritage program](11-0539-new-york-natural-heritage-program.md)
+- [§ 11-0540 Prohibition on permits authorizing the use of elephants in entertainment acts](11-0540-prohibition-on-permits-authorizing-the-use.md)
 
 <details>
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -80,6 +81,8 @@ Section 11-0501.   Fish and wildlife management practices cooperative
         11-0538.   Direct contact between public and big cats
                      prohibited.
         11-0539.   New York natural heritage program.
+        11-0540.   Prohibition on permits authorizing the use of
+                     elephants in entertainment acts.
 ```
 
 </details>

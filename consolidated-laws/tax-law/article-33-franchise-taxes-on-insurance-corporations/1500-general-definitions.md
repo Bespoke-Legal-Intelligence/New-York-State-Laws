@@ -4,8 +4,8 @@
 [Tax Law](../README.md) › [Article 33 — Franchise Taxes On Insurance Corporations](README.md)
 
 ```text
-  § 1500. General definitions. The following words, as used in this
-article, shall have the meanings hereinafter set forth.
+  Section 1500. General definitions. The following words, as used in
+this article, shall have the meanings hereinafter set forth.
   (a) The term "insurance corporation" includes a corporation,
 association, joint stock company or association, person, society,
 aggregation or partnership, by whatever name known, doing an insurance

@@ -4,8 +4,8 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 12 — New York State Environmental Facilities Corporation](README.md)
 
 ```text
-  * § 1285-u. Septic system replacement fund. 1. Definitions. For
-purposes of this section:
+  § 1285-u. Septic system replacement fund. 1. Definitions. For purposes
+of this section:
   (a) "Cesspool" means a drywell that receives untreated sanitary waste
 containing human excreta, which sometimes has an open bottom and/or
 perforated sides.
@@ -124,5 +124,4 @@ limited to, the number and amount of grants provided, the number and
 amount of any grants denied, geographic distribution of such projects
 and any other information the corporation determines useful in
 evaluating the benefits of the program.
-  * NB Effective October 17, 2017
 ```

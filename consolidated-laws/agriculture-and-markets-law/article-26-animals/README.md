@@ -44,6 +44,7 @@
 - [§ 377-A Spaying and neutering of dogs and cats](377a-spaying-and-neutering-of-dogs-and-cats.md)
 - [§ 378 Unlawful tampering with animal research](378-unlawful-tampering-with-animal-research.md)
 - [§ 379 Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](379-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
+- [§ 380 Use of elephants in entertainment acts](380-use-of-elephants-in-entertainment-acts.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -103,6 +104,7 @@ Section 350.   Definitions.
         378.   Unlawful tampering with animal research.
         379.   Prohibition of the selling of fur, hair, skin or flesh of
                  a dog or cat.
+        380.   Use of elephants in entertainment acts.
 ```
 
 </details>

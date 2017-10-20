@@ -40,8 +40,8 @@ Section 1500.   General definitions.
         1503.   Computation of entire net income.
         1504.   Allocation.
         1505.   Limitation on tax.
-        1505-a. Temporary metropolitan transportation business tax
-                  surcharge on insurance corporations.
+        1505-a. Metropolitan transportation business tax surcharge on
+                  insurance corporations.
         1510.   Additional franchise tax on insurance corporations.
         1511.   Credits.
         1512.   Exemptions.

@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 37 — Crimes and Other Offenses, Seizures and Forfeitures](../README.md) › [Part 6 — Seizures and Forfeitures](README.md)
 
 ```text
-  § 1848.  Forfeiture action with respect to motor fuel and diesel motor
+  § 1848. Forfeiture action with respect to motor fuel and diesel motor
 fuel and vehicle carrying such fuel.
   (a) Temporary seizure. Whenever a police officer designated in section
 1.20 of the criminal procedure law or a peace officer designated in
@@ -72,9 +72,9 @@ herein.
 department of taxation and finance or a defendant may apply for an order
 dismissing the complaint and terminating the forfeiture action in the
 interest of justice.
-  (B) Such application for the relief provided in subparagraph (A)hereof
-must be made in writing and upon notice to all parties. The court may,
-in its discretion, direct that notice be given to any other person
+  (B) Such application for the relief provided in subparagraph (A)
+hereof must be made in writing and upon notice to all parties. The court
+may, in its discretion, direct that notice be given to any other person
 having an interest in the property.
   (C) An application for the relief provided for in subparagraph (A)
 hereof must be brought exclusively in the supreme court in the county in
