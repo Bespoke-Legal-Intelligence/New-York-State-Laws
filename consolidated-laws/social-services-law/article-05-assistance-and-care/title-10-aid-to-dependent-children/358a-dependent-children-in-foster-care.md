@@ -427,19 +427,60 @@ subject of the petition with any minor siblings or half-siblings who are
 placed in care or, if such children have not been placed together,
 whether such official has arranged for regular visitation and other
 forms of regular communication between such child and such siblings.
-  (b) If the court determines that the subject child has not been placed
-with his or her minor siblings or half-siblings who are in care, or that
-regular visitation and other forms of regular communication between the
-subject child and his or her minor siblings or half-siblings has not
-been provided or arranged for, the court may direct such official to
-provide or arrange for such placement or regular visitation and
-communication where the court finds that such placement or visitation
-and communication is in the child's best interests. Placement or regular
-visitation and communication with siblings or half-siblings shall be
-presumptively in the child's best interests unless such placement or
-visitation and communication would be contrary to the child's health,
-safety or welfare, or the lack of geographic proximity precludes or
-prevents visitation.
+  * (b) If the court determines that the subject child has not been
+placed with his or her minor siblings or half-siblings who are in care,
+or that regular visitation and other forms of regular communication
+between the subject child and his or her minor siblings or half-siblings
+has not been provided or arranged for, the court may direct such
+official to provide or arrange for such placement or regular visitation
+and communication where the court finds that such placement or
+visitation and communication is in the child's best interests. Placement
+or regular visitation and communication with siblings or half-siblings
+shall be presumptively in the child's best interests unless such
+placement or visitation and communication would be contrary to the
+child's health, safety or welfare, or the lack of geographic proximity
+precludes or prevents visitation.
+  * NB Effective until January 21, 2018
+  * (b) If the court determines that the subject child has not been
+placed with his or her minor siblings or half-siblings who are in care,
+or that regular visitation and other forms of regular communication
+between the subject child and his or her minor siblings or half-siblings
+has not been provided or arranged for, the court may direct such
+official to provide or arrange for such placement or regular visitation
+and communication where the court finds that such placement or
+visitation and communication is in the child's and his or her siblings'
+or half-siblings' best interests. Placement or regular visitation and
+communication with siblings or half-siblings shall be presumptively in
+the child's and his or her siblings' or half-siblings' best interests
+unless such placement or visitation and communication would be contrary
+to the child's or his or her siblings' or half-siblings' health, safety
+or welfare, or the lack of geographic proximity precludes or prevents
+visitation.
+  * NB Effective January 21, 2018
+  * (c) If a child placed in foster care pursuant to this section is not
+placed together or afforded regular communication with his or her
+siblings, the child, through his or her attorney or through a parent on
+his or her behalf, may move for an order regarding placement or
+communication. The motion shall be served upon: (i) the parent or
+parents in the proceeding under this section; (ii) the local social
+services official having the care of the child; (iii) other persons
+having care, custody and control of the child, if any; (iv) the parents
+or other persons having care, custody and control of the siblings to be
+visited or with whom contact is sought; (v) such sibling himself or
+herself if ten years of age or older; and (vi) such sibling's attorney,
+if any. Upon receipt of a motion filed under this paragraph the court
+shall determine, after giving notice and an opportunity to be heard to
+the persons served, whether visitation and contact would be in the best
+interests of the child and his or her siblings. The court may order that
+the child be placed together with or have regular communication with his
+or her siblings if the court determines it to be in the best interests
+of the child and his or her siblings.
+  * NB Effective January 21, 2018
+  * (d) For purposes of this section, "siblings" shall include
+half-siblings and those who would be deemed siblings or half-siblings
+but for the surrender, termination of parental rights or death of a
+parent.
+  * NB Effective January 21, 2018
   (12) For the purposes of this section, aggravated circumstances means
 where a child has been either severely or repeatedly abused, as defined
 in subdivision eight of section three hundred eighty-four-b of this

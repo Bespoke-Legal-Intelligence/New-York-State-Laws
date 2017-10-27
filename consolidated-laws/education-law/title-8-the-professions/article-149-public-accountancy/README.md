@@ -16,7 +16,7 @@
 - [§ 7407 Exempt persons](7407-exempt-persons.md)
 - [§ 7408 Special provisions](7408-special-provisions.md)
 - [§ 7409 Mandatory continuing education](7409-mandatory-continuing-education.md)
-- [§ 7410 Mandatory quality review](7410-mandatory-quality-review.md)
+- [§ 7410 Mandatory peer review](7410-mandatory-peer-review.md)
 
 <details>
 <summary>Official heading of Article 149, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -37,7 +37,7 @@ Section 7400.   Introduction.
         7407.   Exempt persons.
         7408.   Special provisions.
         7409.   Mandatory continuing education.
-        7410.   Mandatory quality review.
+        7410.   Mandatory peer review.
 ```
 
 </details>

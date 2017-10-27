@@ -689,7 +689,7 @@ hundred two of the internal revenue code and taxed under section six
 hundred three of this article; and provided, further, that such award is
 not distributed to a taxpayer who has not attained the age of fifty-nine
 and one-half years.
-  (42) Distributions from an eligible retirement plan, as such term is
+  * (42) Distributions from an eligible retirement plan, as such term is
 defined in subparagraph (B) of paragraph (8) of subsection (c) of
 section four hundred two of the Internal Revenue Code, made on or after
 April first, two thousand seventeen and before April second, two
@@ -712,6 +712,13 @@ any deduction claimed by the taxpayer for such damage pursuant to
 section one hundred sixty-five of the internal revenue code. Provided,
 further, that the taxpayer shall not claim a subtraction modification
 under paragraph three-a of this subsection for such distribution.
+  * NB There are 2 par 42's
+  * (42) Insurance payments received by an eligible volunteer
+firefighter for the cancer disability benefits in section two hundred
+five-cc of the general municipal law to the extent includable in gross
+income for federal income tax purposes.
+  * NB There are 2 par 42's
+  * NB Effective January 1, 2019
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

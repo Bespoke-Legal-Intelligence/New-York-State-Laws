@@ -23,6 +23,7 @@
 - [§ 66-L Net energy metering for residential, farm service and non-residential wind electric generating systems](66l-net-energy-metering-for-residential-farm-service-and-non-residential-wind.md)
 - [§ 66-M Green jobs-green New York on-bill recovery](66m-green-jobs-green-new-york-on-bill-recovery.md)
 - [§ 66-N Net metering study](66n-net-metering-study.md)
+- [§ 66-O Electric vehicle charging tariff](66o-electric-vehicle-charging-tariff.md)
 - [§ 67 Inspection of gas and electric meters](67-inspection-of-gas-and-electric-meters.md)
 - [§ 67-A Charges for past services](67a-charges-for-past-services.md)
 - [§ 68 Certificate of public convenience and necessity](68-certificate-of-public-convenience-and-necessity.md)
@@ -75,6 +76,7 @@ Section 64.    Application of article.
                  non-residential wind electric generating systems.
         66-m.  Green jobs-green New York on-bill recovery.
         66-n.  Net metering study.
+        66-o.  Electric vehicle charging tariff.
         67.    Inspection of gas and electric meters.
         67-a.  Charges for past services.
         68.    Certificate of public convenience and necessity.

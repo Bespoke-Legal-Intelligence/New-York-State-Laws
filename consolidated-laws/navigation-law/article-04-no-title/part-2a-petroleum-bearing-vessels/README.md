@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 70 Minimum conditions for petroleum-bearing vessels in certain areas; tanker-avoidance zones](70-minimum-conditions-for-petroleum-bearing-vessels-in-certain-areas-tanker.md)
+- [§ 70-A Minimum conditions for petroleum-bearing vessels on the Hudson river; tanker-avoidance zones](70a-minimum-conditions-for-petroleum-bearing-vessels-on-the-hudson-river-tanker.md)
 - [§ 71 Petroleum-bearing vessel advisory commission](71-petroleum-bearing-vessel-advisory-commission.md)
 
 <details>
@@ -13,9 +14,11 @@
 
 ```text
                    PART 2-A--PETROLEUM-BEARING VESSELS
-Section 70. Minimum conditions for petroleum-bearing vessels in certain
-              areas; tanker-avoidance zones.
-        71. Petroleum-bearing vessel advisory commission.
+Section 70.   Minimum conditions for petroleum-bearing vessels in
+                certain areas; tanker-avoidance zones.
+        70-a. Minimum conditions for petroleum-bearing vessels on the
+                Hudson river; tanker-avoidance zones.
+        71.   Petroleum-bearing vessel advisory commission.
 ```
 
 </details>

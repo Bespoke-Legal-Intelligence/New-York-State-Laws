@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking In Certain Public Areas](README.md)
 
 ```text
-  § 1399-p. Posting of signs. 1. "Smoking" or "No Smoking" signs, or the
-international "No Smoking" symbol, which consists of a pictorial
+  * § 1399-p. Posting of signs. 1. "Smoking" or "No Smoking" signs, or
+the international "No Smoking" symbol, which consists of a pictorial
 representation of a burning cigarette enclosed in a circle with a bar
 across it, shall be prominently posted and properly maintained where
 smoking is regulated by this article, by the owner, operator, manager or
@@ -19,4 +19,23 @@ that are subject to the provisions of subdivision four of section
 thirteen hundred ninety-nine-o of this article, provided that signs
 posted pursuant to this subdivision shall specify the specific time
 period during which smoking shall be prohibited.
+  * NB Effective until November 22, 2017
+  * § 1399-p. Posting of signs. 1. "Smoking" or "No Smoking" signs, or
+"Vaping" or "No Vaping" signs, or the international "No Smoking" symbol,
+which consists of a pictorial representation of a burning cigarette
+enclosed in a circle with a bar across it, shall be prominently posted
+and properly maintained where smoking and vaping are regulated by this
+article, by the owner, operator, manager or other person having control
+of such area.
+  2. The owner, operator or manager of a hotel or motel that chooses to
+develop and implement a smoking and vaping policy for rooms rented to
+guests shall post a notice at the reception area of the establishment as
+to the availability, upon request, of rooms in which no smoking and
+vaping are allowed.
+  3. The provisions of this section shall apply to after-school programs
+that are subject to the provisions of subdivision four of section
+thirteen hundred ninety-nine-o of this article, provided that signs
+posted pursuant to this subdivision shall specify the specific time
+period during which smoking and vaping shall be prohibited.
+  * NB Effective November 22, 2017
 ```

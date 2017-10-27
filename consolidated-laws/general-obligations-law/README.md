@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GOB |
 | Type | Consolidated law, chapter 24-A |
-| Sections | 199 |
-| Last changed | 9 Oct 2015 |
+| Sections | 202 |
+| Last changed | 27 Oct 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Obligations |
 
@@ -27,10 +27,11 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (33 lines)](chapter-text.md)
+[Full chapter text (34 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Oct 2017](../../changes/2017/2017-10-27.md): 3 added
 - [9 Oct 2015](../../changes/2015/2015-10-09.md): 1 amended
 
 ## Contents
@@ -47,4 +48,5 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 - [Article 17 — Revival or Extension; Waiver of Defense or Bar](article-17-revival-or-extension-waiver-of-defense-or-bar/)
 - [Article 18 — Safety In Skiing Code](article-18-safety-in-skiing-code/)
 - [Article 18-A — Specifications of Liability For Employers and Employees](article-18a-specifications-of-liability-for-employers/)
+- [Article 18-B — Safety In Agricultural Tourism](article-18b-safety-in-agricultural-tourism/)
 - [Article 19 — Laws Repealed; Effective Date](article-19-laws-repealed-effective-date/)

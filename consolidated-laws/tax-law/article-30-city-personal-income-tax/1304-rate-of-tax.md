@@ -29,11 +29,13 @@ Over $90,000                           $2,863 plus 3.4% of excess
 two thousand seventeen:
 If the city taxable income is:         The tax is:
 Not over $21,600                       2.55% of the city taxable income
-Over $21,600 but not                     $551 plus 3.1% of excess over
-$45,000  over $21,600 Over $45,000 but not $1,276 plus 3.15% of excess
-over $90,000  over $45,000 Over $90,000 but not $2,694 plus 3.2% of
-excess over $500,000  over $90,000 Over $500,000 $16,803 plus 3.4% of
-excess
+Over $21,600 but not                   $551 plus 3.1% of excess
+over $45,000                             over $21,600
+Over $45,000 but not                   $1,276 plus 3.15% of excess
+over $90,000                             over $45,000
+Over $90,000 but not                   $2,694 plus 3.2% of excess
+over $500,000                            over $90,000
+Over $500,000                          $16,803 plus 3.4% of excess
                                          over $500,000
   (C) For taxable years beginning after two thousand nine and before two
 thousand fifteen:

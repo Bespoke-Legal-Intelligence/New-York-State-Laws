@@ -22,13 +22,18 @@
 <summary>Official heading of Article 13-E, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 13-E
+                             * ARTICLE 13-E
               REGULATION OF SMOKING IN CERTAIN PUBLIC AREAS
-Section 1399-n.   Definitions.
-        1399-o.   Smoking restrictions.
-        1399-o-1. Smoking restrictions; certain outdoor areas.
+  * NB Effective until November 22, 2017
+                              * ARTICLE 13-E
+        REGULATION OF SMOKING AND VAPING IN CERTAIN PUBLIC AREAS
+  * NB Effective November 22, 2017
+  Sectio1399-n.   Definitions.
+        1399-o.   Smoking and vaping restrictions.
+        1399-o-1. Smoking and vaping restrictions; certain outdoor
+                    areas.
         1399-p.   Posting of signs.
-        1399-q.   Smoking restrictions inapplicable.
+        1399-q.   Smoking and vaping restrictions inapplicable.
         1399-r.   General provisions.
         1399-s.   Violations.
         1399-t.   Enforcement.

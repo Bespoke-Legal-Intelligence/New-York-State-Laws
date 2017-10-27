@@ -55,6 +55,7 @@
 - [§ 214-L Sale of talc coated rice prohibited](214l-sale-of-talc-coated-rice-prohibited.md)
 - [§ 214-M Labeling of certain food products](214m-labeling-of-certain-food-products.md)
 - [§ 214-N Treatment and sale of apple cider](214n-treatment-and-sale-of-apple-cider.md)
+- [§ 214-O Labeling requirements for fish wholesalers](214o-labeling-requirements-for-fish-wholesalers.md)
 
 <details>
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -117,6 +118,7 @@ Section 198.   Definitions.
         214-l. Sale of talc coated rice prohibited.
         214-m. Labeling of certain food products.
         214-n. Treatment and sale of apple cider.
+        214-o. Labeling requirements for fish wholesalers.
 ```
 
 </details>

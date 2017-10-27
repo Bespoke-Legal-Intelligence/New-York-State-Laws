@@ -11,9 +11,16 @@ shall establish that:
   (a) compliance with a specific provision of this article would cause
 undue financial hardship; or
   (b) other factors exist which would render compliance unreasonable.
-  2. Every waiver granted shall be subject to such conditions or
+  * 2. Every waiver granted shall be subject to such conditions or
 restrictions as may be necessary to minimize the adverse effects of the
 waiver upon persons subject to an involuntary exposure to second-hand
 smoke and to ensure that the waiver is consistent with the general
 purpose of this article.
+  * NB Effective until November 22, 2017
+  * 2. Every waiver granted shall be subject to such conditions or
+restrictions as may be necessary to minimize the adverse effects of the
+waiver upon persons subject to an involuntary exposure to second-hand
+smoke or vaping and to ensure that the waiver is consistent with the
+general purpose of this article.
+  * NB Effective November 22, 2017
 ```

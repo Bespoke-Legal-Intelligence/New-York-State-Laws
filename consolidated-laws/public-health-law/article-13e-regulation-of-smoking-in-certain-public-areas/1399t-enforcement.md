@@ -41,11 +41,18 @@ commencing a proceeding for injunctive relief to compel compliance with
 this article.
   3. Any person who desires to register a complaint under this article
 may do so with the appropriate enforcement officer.
-  4. The owner, manager, operator or other person having control of any
-area subject to the provisions of this article, shall inform, or shall
-designate an agent who shall be responsible for informing individuals
-smoking in an area in which smoking is not permitted that they are in
-violation of this article.
+  * 4. The owner, manager, operator or other person having control of
+any area subject to the provisions of this article, shall inform, or
+shall designate an agent who shall be responsible for informing
+individuals smoking in an area in which smoking is not permitted that
+they are in violation of this article.
+  * NB Effective until November 22, 2017
+  * 4. The owner, manager, operator or other person having control of
+any area subject to the provisions of this article, shall inform, or
+shall designate an agent who shall be responsible for informing
+individuals smoking or vaping in an area in which smoking or vaping is
+not permitted that they are in violation of this article.
+  * NB Effective November 22, 2017
   5. Any person aggrieved by the decision of an enforcement officer
 other than the commissioner may appeal to the commissioner to review
 such decision within thirty days of such decision. The decision of any

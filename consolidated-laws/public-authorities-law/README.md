@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBA |
 | Type | Consolidated law, chapter 43-A |
-| Sections | 3,125 |
-| Last changed | 20 Oct 2017 |
+| Sections | 3,126 |
+| Last changed | 27 Oct 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Authorities |
 
@@ -33,6 +33,7 @@ three-fifths being present
 
 ## Recent changes
 
+- [27 Oct 2017](../../changes/2017/2017-10-27.md): 1 amended, 1 added
 - [20 Oct 2017](../../changes/2017/2017-10-20.md): 1 amended
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 2 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 1 amended
@@ -42,7 +43,6 @@ three-fifths being present
 - [7 Jul 2017](../../changes/2017/2017-07-07.md): 3 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended, 4 added, 2 removed
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 6 amended
-- [17 Mar 2017](../../changes/2017/2017-03-17.md): 2 amended
 
 ## Contents
 

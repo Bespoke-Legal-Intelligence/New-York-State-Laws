@@ -32,8 +32,19 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202.      Taxes administered by counties not wholly within a
                      city.
         1202-a.    Hotel or motel taxes in Onondaga county.
+        1202-aa.   Occupancy tax in the city of New Rochelle.
+        1202-aa*2. Occupancy tax in the city of Rye.
+        1202-aa*3. Occupancy tax in the city of White Plains.
+        1202-aa*4. Hotel or motel taxes in Schoharie county.
+        1202-aa*5. Hotel and motel tax in Washington county.
+        1202-aa*6. Hotel or motel taxes in Orange county.
+        1202-aa*7. Hotel or motel taxes in the city of Peekskill.
+        1202-aa*8. Hotel or motel taxes in Tioga county.
         1202-b.    Hotel or motel taxes in Broome county.
+        1202-bb.   Occupancy tax in the Village of Rye Brook.
         1202-c.    Hotel or motel taxes in Jefferson county.
+        1202-cc.   Hotel or motel taxes in Franklin county.
+        1202-cc*2. Hotel or motel taxes in Delaware county.
         1202-d.    Hotel or motel taxes in Oneida county.
         1202-dd.   Hotel or motel taxes in the city of Hudson.
         1202-dd*2. Hotel or motel taxes in Fulton county.
@@ -89,17 +100,6 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-z.    Hotel or motel taxes in Clinton county.
         1202-z-1.  Occupancy tax in the village of Tuckahoe.
         1202-z-3.  Occupancy tax in the village of Mount Kisco.
-        1202-aa.   Occupancy tax in the city of New Rochelle.
-        1202-aa*2. Occupancy tax in the city of Rye.
-        1202-aa*3. Occupancy tax in the city of White Plains.
-        1202-aa*4. Hotel or motel taxes in Schoharie county.
-        1202-aa*5. Hotel and motel tax in Washington county.
-        1202-aa*6. Hotel or motel taxes in Orange county.
-        1202-aa*7. Hotel or motel taxes in the city of Peekskill.
-        1202-aa*8. Hotel or motel taxes in Tioga county.
-        1202-bb.   Occupancy tax in the Village of Rye Brook.
-        1202-cc.   Hotel or motel taxes in Franklin county.
-        1202-cc*2. Hotel or motel taxes in Delaware county.
         1203.      Taxes administered by cities under one million.
         1204.      Taxes administered by cities with populations of less
                      than one hundred twenty-five thousand on request of

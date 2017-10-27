@@ -237,7 +237,7 @@ subsidy payments under section four hundred fifty-three of this article.
 The social services official shall consider the financial status of the
 prospective relative guardian or relative guardian only for the purpose
 of determining the amount of the payments to be made.
-  7. (a) Kinship guardianship assistance payments shall be made to the
+  7. * (a) Kinship guardianship assistance payments shall be made to the
 relative guardian or guardians until the child's eighteenth birthday or,
 if the child had attained sixteen years of age before the agreement
 became effective, until the child attains twenty-one years of age
@@ -249,6 +249,25 @@ activity designed to promote, or remove barriers to, employment; or (v)
 incapable of any of such activities due to a medical condition, which
 incapability is supported by regularly updated information in the case
 plan of the child.
+  * NB Effective until 60 days following the date that the US Department
+of Health and Human Services, Administration for Children, Youth and
+Families approves a title IV-E state plan amendment (see ch. 384/2017, §
+3 sb (b))
+  * (a) Kinship guardianship assistance payments shall be made to the
+relative guardian or guardians until the child's eighteenth birthday or
+until the child attains twenty-one years of age provided the child
+consented upon attaining the age of eighteen and is: (i) completing
+secondary education or a program leading to an equivalent credential;
+(ii) enrolled in an institution which provides post-secondary or
+vocational education; (iii) employed for at least eighty hours per
+month; (iv) participating in a program or activity designed to promote,
+or remove barriers to, employment; or (v) incapable of any of such
+activities due to a medical condition, which incapability is supported
+by regularly updated information in the case plan of the child.
+  * NB Effective 60 days following the date that the US Department of
+Health and Human Services, Administration for Children, Youth and
+Families approves a title IV-E state plan amendment (see ch. 384/2017, §
+3 sb (b))
   (b) (i) Notwithstanding paragraph (a) of this subdivision, and except
 as provided for in paragraph (b) of subdivision five of this section, no
 kinship guardianship assistance payments may be made pursuant to this

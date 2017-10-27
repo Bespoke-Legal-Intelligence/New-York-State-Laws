@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 2-E — Hiv/hbv/hcv Prevention Training](README.md)
 
 ```text
-  § 239. Course work or training in infection control practices. (a)
+  § 239. Course work or training in infection control practices. * (a)
 Every physician, physician assistant and specialist assistant practicing
 in the state shall, on or before July first, nineteen hundred
 ninety-four and every four years thereafter, complete course work or
@@ -18,6 +18,21 @@ must also be completed by every medical student, medical resident and
 physician assistant student in the state as part of the orientation
 programs conducted by medical schools, medical residency programs and
 physician assistant programs.
+  * NB Effective until July 1, 2018
+  * (a) Every physician, physician assistant and specialist assistant
+practicing in the state shall, on or before July first, nineteen hundred
+ninety-four and every four years thereafter, complete course work or
+training, appropriate to the professional's practice, approved by the
+department regarding infection control, which shall include sepsis, and
+barrier precautions, including engineering and work practice controls,
+in accordance with regulatory standards promulgated by the department in
+consultation with the department of education, to prevent the
+transmission of HIV, HBV, HCV and sepsis in the course of professional
+practice. Such coursework or training must also be completed by every
+medical student, medical resident and physician assistant student in the
+state as part of the orientation programs conducted by medical schools,
+medical residency programs and physician assistant programs.
+  * NB Effective July 1, 2018
   (b) Every physician, physician assistant, specialist assistant,
 medical student, medical resident and physician assistant student must
 provide to the department documentation demonstrating the completion of

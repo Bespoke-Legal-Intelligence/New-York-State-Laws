@@ -7,6 +7,7 @@
 
 - [§ 112 Powers and duties of commissioner relating to correctional facilities and community supervision](112-powers-and-duties-of-commissioner-relating-to-correctional-facilities.md)
 - [§ 113 Absence of inmate for funeral and deathbed visits authorized](113-absence-of-inmate-for-funeral-and-deathbed-visits-authorized.md)
+- [§ 114 Rehabilitation programs for women; to be commensurate to those afforded men](114-rehabilitation-programs-for-women-to-be-commensurate-to-those-afforded-men.md)
 - [§ 115 Fiscal accounts and records](115-fiscal-accounts-and-records.md)
 - [§ 116 Inmates' funds](116-inmates-funds.md)
 - [§ 117 Estimates of expenses](117-estimates-of-expenses.md)
@@ -44,6 +45,8 @@ Section 112.   Powers and duties of commissioner relating to
                  correctional facilities and community supervision.
         113.   Absence of inmate for funeral and deathbed visits
                  authorized.
+        114.   Rehabilitation programs for women; to be commensurate to
+                 those afforded men.
         115.   Fiscal accounts and records.
         116.   Inmates' funds.
         117.   Estimates of expenses.

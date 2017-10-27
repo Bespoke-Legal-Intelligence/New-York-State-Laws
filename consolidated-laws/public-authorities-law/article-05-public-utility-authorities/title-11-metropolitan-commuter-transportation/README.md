@@ -10,6 +10,7 @@
 - [§ 1262 Metropolitan commuter transportation district](1262-metropolitan-commuter-transportation-district.md)
 - [§ 1263 Metropolitan transportation authority](1263-metropolitan-transportation-authority.md)
 - [§ 1264 Purposes of the authority](1264-purposes-of-the-authority.md)
+- [§ 1264-A State of emergency; boarding of a commuter transportation by domestic companion animals](1264a-state-of-emergency-boarding-of-a-commuter.md)
 - [§ 1265 General powers of the authority](1265-general-powers-of-the-authority.md)
 - [§ 1265-A Contracts](1265a-contracts.md)
 - [§ 1265-B Metropolitan transportation authority small business mentoring program](1265b-metropolitan-transportation-authority-small.md)
@@ -76,6 +77,8 @@ Section 1260.   Short title.
         1262.   Metropolitan commuter transportation district.
         1263.   Metropolitan transportation authority.
         1264.   Purposes of the authority.
+        1264-a. State of emergency; boarding of a commuter
+                  transportation by domestic companion animals.
         1265.   General powers of the authority.
         1265-a. Contracts.
         1265-b. Metropolitan transportation authority small business

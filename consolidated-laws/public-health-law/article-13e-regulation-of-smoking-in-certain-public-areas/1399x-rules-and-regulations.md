@@ -4,11 +4,20 @@
 [Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking In Certain Public Areas](README.md)
 
 ```text
-  § 1399-x. Rules and regulations. The commissioner shall not promulgate
-any rules or regulations to effectuate the provisions of section
-thirteen hundred ninety-nine-n, paragraph f of subdivision one of
-section thirteen hundred ninety-nine-o or subdivision one of section
+  * § 1399-x. Rules and regulations. The commissioner shall not
+promulgate any rules or regulations to effectuate the provisions of
+section thirteen hundred ninety-nine-n, paragraph f of subdivision one
+of section thirteen hundred ninety-nine-o or subdivision one of section
 thirteen hundred ninety-nine-p of this article. The commissioner shall
 not promulgate any rules or regulations that create, limit or enlarge
 any smoking restrictions.
+  * NB Effective until November 22, 2017
+  * § 1399-x. Rules and regulations. The commissioner shall not
+promulgate any rules or regulations to effectuate the provisions of
+section thirteen hundred ninety-nine-n, paragraph f of subdivision one
+of section thirteen hundred ninety-nine-o or subdivision one of section
+thirteen hundred ninety-nine-p of this article. The commissioner shall
+not promulgate any rules or regulations that create, limit or enlarge
+any smoking or vaping restrictions.
+  * NB Effective November 22, 2017
 ```

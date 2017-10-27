@@ -30,6 +30,7 @@
 - [§ 2505-A Rights of breastfeeding mothers](2505a-rights-of-breastfeeding-mothers.md)
 - [§ 2506 Obstetric and pediatric practitioner incentive demonstration program](2506-obstetric-and-pediatric-practitioner-incentive-demonstration-program.md)
 - [§ 2507 Special supplemental nutrition program for women, infants and children; specialty formula](2507-special-supplemental-nutrition-program-for-women-infants-and-children.md)
+- [§ 2508 Newborn health and safe sleep pilot program](2508-newborn-health-and-safe-sleep-pilot-program.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -68,6 +69,7 @@ Section 2500.     Maternal and child health; duties of commissioner.
                     demonstration program.
         2507.     Special supplemental nutrition program for women,
                     infants and children; specialty formula.
+        2508.     Newborn health and safe sleep pilot program.
 ```
 
 </details>

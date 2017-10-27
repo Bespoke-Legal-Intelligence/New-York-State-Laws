@@ -118,7 +118,7 @@ Article
             camps for children (§§1391-1396).
   13-D.    Regulation of housing; used as accommodations by employees of
             certain motels and hotels (§§1399-j--1399-m).
-  13-E.    Regulation of smoking in certain public areas
+  13-E.    Regulation of smoking and vaping in certain public areas
             (§§1399-n--1399-x).
   13-F.    Regulation of tobacco products and herbal cigarettes;
             distribution to minors (§§1399-aa--1399-mm).
@@ -162,7 +162,7 @@ Article
             committee (§§2490--2490-a).
   24-E.    Information about hysterectomy (§§2495--2499-a).
   25.      Maternal and child health
-           Title    I.   General provisions (§§2500-2507).
+           Title    I.   General provisions (§§2500-2508).
                    I-A.  Child health insurance plan (§§2510-2511).
                    1-B.  Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).

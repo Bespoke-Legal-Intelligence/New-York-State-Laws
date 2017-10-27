@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 10 — Firemen and Policemen](README.md)
 
 ```text
-  * § 208-h. Cardiopulmonary resuscitation training and retraining for
+  § 208-h. Cardiopulmonary resuscitation training and retraining for
 police departments in cities having a population of one million or more
 1. For the purposes of this section, "cardiopulmonary resuscitation"
 shall have the same meaning as provided in subdivision six of section
@@ -14,5 +14,4 @@ million or more shall provide all uniformed personnel of such department
 training in cardiopulmonary resuscitation and direct that such training
 be completed at least every two years to the extent practicable, but no
 later than every four years.
-  * NB Effective October 26, 2017
 ```

@@ -194,6 +194,8 @@
 - [§ 97-NNNN Commercial gaming revenue fund](97nnnn-commercial-gaming-revenue-fund.md)
 - [§ 97-OOOO Basic health program trust fund](97oooo-basic-health-program-trust-fund.md)
 - [§ 97-OOOO\*2 Smart schools bond fund](97oooo-2-smart-schools-bond-fund.md)
+- [§ 97-PPPP Lupus research and education fund](97pppp-lupus-research-and-education-fund.md)
+- [§ 97-PPPP\*2 Sickle cell disease research and education fund](97pppp-2-sickle-cell-disease-research-and-education-fund.md)
 - [§ 97-QQQQ Cystic fibrosis research and education fund](97qqqq-cystic-fibrosis-research-and-education-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
@@ -217,7 +219,6 @@
 - [§ 99-L Assisted living residence quality oversight fund](99l-assisted-living-residence-quality-oversight-fund.md)
 - [§ 99-L\*2 Love your library fund](99l-2-love-your-library-fund.md)
 - [§ 99-N Highway construction and maintenance safety education fund](99n-highway-construction-and-maintenance-safety-education-fund.md)
-- [§ 99-N\*2 Oneida Indian Nation real property tax depository fund](99n-2-oneida-indian-nation-real-property-tax-depository-fund.md) *(repealed)*
 - [§ 99-O Arts institutions revolving loan fund](99o-arts-institutions-revolving-loan-fund.md)
 - [§ 99-P Empire state stem cell trust fund](99p-empire-state-stem-cell-trust-fund.md)
 - [§ 99-Q Volunteer firefighting and volunteer emergency services recruitment and retention fund](99q-volunteer-firefighting-and-volunteer-emergency-services-recruitment.md)
@@ -468,6 +469,8 @@ Section 70.        Classification of funds.
         97-nnnn.   Commercial gaming revenue fund.
         97-oooo.   Basic health program trust fund.
         97-oooo*2. Smart schools bond fund.
+        97-pppp.   Lupus research and education fund.
+        97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
         97-xxxx.   State health innovation plan account.
         98.        Investment of state funds.

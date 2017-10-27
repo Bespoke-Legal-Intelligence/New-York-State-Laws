@@ -68,6 +68,8 @@
 - [§ 404-Y\*2 Distinctive "Appalachian Trail" license plates](404y-2-distinctive-appalachian-trail-license-plates.md)
 - [§ 404-Y\*3 Distinctive plates for members of the Kiwanis International](404y-3-distinctive-plates-for-members-of-the-kiwanis.md)
 - [§ 404-Y\*4 Distinctive plates for conspicuous service cross recipients](404y-4-distinctive-plates-for-conspicuous-service-cross.md)
+- [§ 404-Y\*5 Distinctive lupus awareness license plates](404y-5-distinctive-lupus-awareness-license-plates.md)
+- [§ 404-Y\*6 Distinctive sickle cell disease awareness license plates](404y-6-distinctive-sickle-cell-disease-awareness-license.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -160,6 +162,9 @@ Section 401.      Registration of motor vehicles; fees; renewals.
                     International.
         404-y*4.  Distinctive plates for conspicuous service cross
                     recipients.
+        404-y*5.  Distinctive lupus awareness license plates.
+        404-y*6.  Distinctive sickle cell disease awareness license
+                    plates.
 ```
 
 </details>

@@ -26,6 +26,7 @@
 - [§ 205-A Additional right of action to certain injured or representatives of certain deceased firefighters](205a-additional-right-of-action-to-certain-injured-or-representatives-of-certain.md)
 - [§ 205-B Relief of volunteer firefighters engaged in the performance of duty as such firefighters from civil liability and liability of fire distr...](205b-relief-of-volunteer-firefighters-engaged-in-the-performance-of-duty-as-such.md)
 - [§ 205-C Payments pending controversies where volunteer firemen are killed or injured](205c-payments-pending-controversies-where-volunteer-firemen-are-killed-or-injured.md)
+- [§ 205-CC Volunteer firefighter enhanced cancer disability benefits](205cc-volunteer-firefighter-enhanced-cancer-disability-benefits.md)
 - [§ 205-D Relief from civil liability for acts or omissions by fire wardens in the city of New York](205d-relief-from-civil-liability-for-acts-or-omissions-by-fire-wardens-in-the-city.md)
 - [§ 205-E Right of action to certain injured or representatives of certain deceased police officers](205e-right-of-action-to-certain-injured-or-representatives-of-certain-deceased-police.md)
 - [§ 205-F Removal of civil liability barriers](205f-removal-of-civil-liability-barriers.md)
@@ -137,6 +138,8 @@ Section 200.      Defining qualifications of exempt volunteer firemen.
                     acts of volunteer firefighters.
         205-c.    Payments pending controversies where volunteer firemen
                     are killed or injured.
+        205-cc.   Volunteer firefighter enhanced cancer disability
+                    benefits.
         205-d.    Relief from civil liability for acts or omissions by
                     fire wardens in the city of New York.
         205-e.    Right of action to certain injured or representatives
