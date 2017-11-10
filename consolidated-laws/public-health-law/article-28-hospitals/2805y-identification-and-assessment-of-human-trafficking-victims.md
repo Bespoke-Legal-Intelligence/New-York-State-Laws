@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2805-y. Identification and assessment of human trafficking
-victims.  1. As used in this section:
+  § 2805-y. Identification and assessment of human trafficking victims.
+1. As used in this section:
   (a) "human trafficking victim" shall have the meaning set forth in
 section four hundred eighty-three-aa of the social services law;
   (b) "subject facility" shall mean a general hospital, public health
@@ -41,5 +41,4 @@ consideration by subject facilities to provide training under this
 section. The commissioner may, in consultation with the office of
 temporary and disability assistance and the office of children and
 family services, make regulations under this section.
-  * NB Effective November 4, 2017
 ```
