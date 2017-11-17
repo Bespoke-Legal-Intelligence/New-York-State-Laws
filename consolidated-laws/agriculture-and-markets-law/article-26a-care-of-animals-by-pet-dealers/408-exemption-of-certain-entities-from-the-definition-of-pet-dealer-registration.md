@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 26-A — Care of Animals By Pet Dealers](README.md)
 
 ```text
-  * § 408. Exemption of certain entities from the definition of pet
+  § 408. Exemption of certain entities from the definition of pet
 dealer; registration required. 1. Any person eligible for exemption from
 the definition of pet dealer pursuant to paragraph (c) of subdivision
 four of section four hundred of this article shall be registered by the
@@ -112,5 +112,4 @@ practice law and rules.
   6. The commissioner is hereby authorized to promulgate rules and
 regulations concerning the application, registration and revocation
 process described in this section.
-  * NB Effective November 12, 2017
 ```

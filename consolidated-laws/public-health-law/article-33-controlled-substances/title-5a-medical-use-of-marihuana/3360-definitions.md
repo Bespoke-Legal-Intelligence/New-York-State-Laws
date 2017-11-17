@@ -29,15 +29,15 @@ certified patient in a registry application. A certified patient may
 designate up to two designated caregivers.
   6. "Public place" means a public place as defined in regulation by the
 commissioner.
-  7. (a) "Serious condition" means:
+  7.  (a) "Serious condition" means:
   (i) having one of the following severe debilitating or
 life-threatening conditions: cancer, positive status for human
 immunodeficiency virus or acquired immune deficiency syndrome,
 amyotrophic lateral sclerosis, Parkinson's disease, multiple sclerosis,
 damage to the nervous tissue of the spinal cord with objective
 neurological indication of intractable spasticity, epilepsy,
-inflammatory bowel disease, neuropathies, Huntington's disease, or as
-added by the commissioner; and
+inflammatory bowel disease, neuropathies, Huntington's disease,
+post-traumatic stress disorder, or as added by the commissioner; and
   (ii) any of the following conditions where it is clinically associated
 with, or a complication of, a condition under this paragraph or its
 treatment: cachexia or wasting syndrome; severe or chronic pain; severe
