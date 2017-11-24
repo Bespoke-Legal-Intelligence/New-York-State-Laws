@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-N", "kind": "section", "law_id": "PBH", "location_id": "1399-N", "path": "ARTICLE 13-E › SECTION 1399-N", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-N.md", "title": "Definitions"} -->
 # Public Health Law § 1399-N — Definitions
 
-[Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking In Certain Public Areas](README.md)
+[Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](README.md)
 
 ```text
   § 1399-n. Definitions. For purposes of this article:
@@ -40,16 +40,13 @@ accessories, and in which the sale of other products is merely
 incidental.
   8. "Smoking" means the burning of a lighted cigar, cigarette, pipe or
 any other matter or substance which contains tobacco.
-  * 9. "Vaping" means the use of an electronic cigarette.
-  * NB Effective November 22, 2017
-  * 10. "Electronic cigarette" shall have the same meaning as in
+  9. "Vaping" means the use of an electronic cigarette.
+  10. "Electronic cigarette" shall have the same meaning as in
 subdivision thirteen of section thirteen hundred ninety-nine-aa of this
 chapter.
-  * NB Effective November 22, 2017
-  * 11. "Retail electronic cigarette store" means a retail store devoted
+  11. "Retail electronic cigarette store" means a retail store devoted
 primarily to the sale of electronic cigarettes, and in which the sale of
 other products is merely incidental. The sale of such other products
 shall be considered incidental if such sales generate less than
 twenty-five percent of the total annual gross sales.
-  * NB Effective November 22, 2017
 ```

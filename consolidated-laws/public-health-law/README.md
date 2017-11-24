@@ -8,7 +8,7 @@
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
 | Sections | 1,630 |
-| Last changed | 17 Nov 2017 |
+| Last changed | 24 Nov 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [24 Nov 2017](../../changes/2017/2017-11-24.md): 11 amended
 - [17 Nov 2017](../../changes/2017/2017-11-17.md): 1 amended
 - [10 Nov 2017](../../changes/2017/2017-11-10.md): 1 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 14 amended, 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 22 amended, 6 repealed
 - [7 Jul 2017](../../changes/2017/2017-07-07.md): 6 amended
 - [9 Jun 2017](../../changes/2017/2017-06-09.md): 1 amended
-- [2 Jun 2017](../../changes/2017/2017-06-02.md): 2 amended
 
 ## Contents
 
@@ -66,7 +66,7 @@ Assembly, do enact as follows:
 - [Article 13-A — State Camp Safety Advisory Council](article-13a-state-camp-safety-advisory-council/)
 - [Article 13-B — Regulation of Overnight, Summer Day, and Traveling Summer Day Camps For Children](article-13b-regulation-of-overnight-summer-day-and-traveling/)
 - [Article 13-D — Regulation of Housing; Used As Accommodations By Employees of Certain Motels and Hotels](article-13d-regulation-of-housing-used-as-accommodations/)
-- [Article 13-E — Regulation of Smoking In Certain Public Areas](article-13e-regulation-of-smoking-in-certain-public-areas/)
+- [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](article-13e-regulation-of-smoking-and-vaping-in-certain/)
 - [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](article-13f-regulation-of-tobacco-products-herbal-cigarettes/)
 - [Article 13-G — Tobacco Escrow Funds](article-13g-tobacco-escrow-funds/)
 - [Article 13-H — Regulation of Sharps](article-13h-regulation-of-sharps/)

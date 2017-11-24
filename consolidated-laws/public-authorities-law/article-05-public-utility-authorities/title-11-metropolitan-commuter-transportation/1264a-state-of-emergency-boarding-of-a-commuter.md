@@ -4,8 +4,8 @@
 [Public Authorities Law](../../README.md) › [Article 5 — Public Utility Authorities](../README.md) › [Title 11 — Metropolitan Commuter Transportation Authority](README.md)
 
 ```text
-  * § 1264-a. State of emergency; boarding of a commuter transportation
-by domestic companion animals. 1. For the purposes of this section:
+  § 1264-a. State of emergency; boarding of a commuter transportation by
+domestic companion animals. 1. For the purposes of this section:
   (a) "Commuter transportation" means commuter transportation, and other
 related services and facilities, operated by the authority or any of its
 subsidiaries, including but not limited to such transportation by
@@ -48,5 +48,4 @@ seating before a domestic companion animal may be placed in a seat.
   5. The authority is authorized to promulgate and enforce such rules
 and regulations as shall be necessary for the implementation of this
 section.
-  * NB Effective November 22, 2017
 ```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Public Health Law § 1399-V", "kind": "section", "law_id": "PBH", "location_id": "1399-V", "path": "ARTICLE 13-E › SECTION 1399-V", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-V.md", "title": "Penalties"} -->
 # Public Health Law § 1399-V — Penalties
 
-[Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking In Certain Public Areas](README.md)
+[Public Health Law](../README.md) › [Article 13-E — Regulation of Smoking and Vaping In Certain Public Areas](README.md)
 
 ```text
   § 1399-v. Penalties.  The commissioner may impose a civil penalty for
