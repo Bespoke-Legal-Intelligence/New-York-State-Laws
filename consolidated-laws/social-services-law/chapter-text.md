@@ -124,7 +124,7 @@ Article  1.   Short title; definitions (§§ 1-2).
          10-A. William B. Hoyt memorial children and family trust fund
                 act (§§ 481-a--481-f).
          10-B. Statewide settlement house program (§§ 482-a--482-c).
-         10-C. State council on children and families (§§ 483--483-g).
+         10-C. State council on children and families (§§ 483--483-h).
          10-D. Services for victims of human trafficking
                         (§§ 483-aa--483-ff).
          11.   Construction; laws repealed; when to take effect

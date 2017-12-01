@@ -40,9 +40,10 @@
 - [§ 1020-FF Rates charged to veterans' organizations](1020ff-rates-charged-to-veterans-organizations.md)
 - [§ 1020-GG Energy plan](1020gg-energy-plan.md)
 - [§ 1020-HH Green jobs-green New York on-bill recovery](1020hh-green-jobs-green-new-york-on-bill-recovery.md)
-- [§ 1020-II Liberal interpretation](1020ii-liberal-interpretation.md)
-- [§ 1020-JJ Inconsistent provisions of other laws superseded](1020jj-inconsistent-provisions-of-other-laws-superseded.md)
-- [§ 1020-KK Severability](1020kk-severability.md)
+- [§ 1020-II Energy storage deployment program](1020ii-energy-storage-deployment-program.md)
+- [§ 1020-JJ Liberal interpretation](1020jj-liberal-interpretation.md)
+- [§ 1020-KK Inconsistent provisions of other laws superseded](1020kk-inconsistent-provisions-of-other-laws-superseded.md)
+- [§ 1020-LL Severability](1020ll-severability.md)
 
 <details>
 <summary>Official heading of Title 1-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -96,9 +97,10 @@ Section 1020.    Short title.
         1020-ff. Rates charged to veterans' organizations.
         1020-gg. Energy plan.
         1020-hh. Green jobs-green New York on-bill recovery.
-        1020-ii. Liberal interpretation.
-        1020-jj. Inconsistent provisions of other laws superseded.
-        1020-kk. Severability.
+        1020-ii. Energy storage deployment program.
+        1020-jj. Liberal interpretation.
+        1020-kk. Inconsistent provisions of other laws superseded.
+        1020-ll. Severability.
   * NB There are 2 A5 T1-A's
 ```
 

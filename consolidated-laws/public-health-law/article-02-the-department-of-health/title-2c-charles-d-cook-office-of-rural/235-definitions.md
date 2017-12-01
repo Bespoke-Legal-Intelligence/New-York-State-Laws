@@ -13,7 +13,6 @@ agency, corporation, facility, or individual providing medical and/or
 health care services to residents of a rural area.
   3. "Office" shall mean the Charles D. Cook office of rural health, as
 created pursuant to section two hundred thirty-six of this article.
-  4. "Rural health council" shall mean that advisory body to the
-commissioner, created July, nineteen hundred eighty-eight, with members
-appointed by the governor.
+  4. "Rural health council" shall mean the rural health council
+established pursuant to section two hundred thirty-six-b of this title.
 ```

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 168 — Licensed Pathologists' Assistants](README.md)
 
 ```text
-  * § 8855. Limited permits. 1. Eligibility. A person who fulfills all
+  § 8855. Limited permits. 1. Eligibility. A person who fulfills all
 requirements for licensure as a pathologists' assistant except that
 relating to the examination shall be eligible for a limited permit.
   2. Limit of practice. A permittee shall be authorized to practice as a
@@ -16,5 +16,4 @@ issuance. A limited permit may be extended for one additional year for
 good cause as determined by the department.
   4. Fees. The fee for each limited permit shall be determined by the
 department.
-  * NB Effective November 28, 2017
 ```

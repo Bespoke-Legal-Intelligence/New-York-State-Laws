@@ -94,13 +94,22 @@ Violence Against Women Act;
 partner; and
   (vii) emphasize the need for the system to hold the abusing partner
 responsible by appropriate referrals to law enforcement.
-  (h) make available on its website all award allocations for request
+  * (h) make available on its website all award allocations for request
 for proposals issued by the office of children and family services upon
 release of such awards. Such information shall also include all
 organizations requesting funding and the amounts requested for each
 request for proposal. The office of children and family services may
 also include any other information related to each program that it deems
 appropriate.
+  * NB Effective until February 27, 2018
+  * (h) make available on its website all award allocations for request
+for proposals issued by the office of children and family services upon
+release of such awards. Such information shall also include all
+organizations requesting funding and the amounts requested for each
+request for proposal. The office of children and family services may
+also include any other information related to each program that it deems
+appropriate;
+  * NB Effective February 27, 2018
   * (i) have the authority appoint a temporary operator in accordance
 with this subdivision:
   (1) For the purposes of this subdivision:
@@ -288,11 +297,37 @@ any other person for the maintenance and repair of the building,
 provision of utility services, payment of taxes or other operating and
 maintenance expenses of the building, nor of the established operator or
 any other person for the payment of mortgages or liens.
-  * NB Effective until December 31, 2019
+  * NB Effective until February 27, 2018
+  * (i) make available to the council on children and families, through
+the OpenNY website, information regarding: (1) all recipients of grants
+awarded or administered by the state for the purposes of providing
+afterschool or summer programs as defined in section two of this
+chapter, extended learning time, including but not limited to grants for
+such purposes awarded under section thirty-six hundred forty-one of the
+education law, or community schools, including but not limited to grants
+for such purposes awarded under section thirty-six hundred forty-one of
+the education law; and (2) registered school age child care providers
+registered by the office of children and family services. For each grant
+recipient or provider the recipient's or provider's name, the address at
+which the program is offered, and the name and phone number of an
+individual who is authorized to answer questions regarding the program
+will be made available through the OpenNY website no less than once a
+year and within ninety days of the date of execution or expiration of
+contracts with grant recipients when all such contracts are executing or
+expiring for a particular competitive grant; and
+  * NB Effective February 27, 2018 until December 31, 2019
   * (i) exercise such other powers and perform such other duties as may
 be imposed by law.
   * NB Effective December 31, 2019
   * (j) exercise such other powers and perform such other duties as may
 be imposed by law.
+  * NB Effective until February 27, 2018
+  * (j) exercise such other powers and perform such other duties as may
+be imposed by law.
+  * NB Effective February 27, 2018
+  * NB Repealed December 31, 2019
+  * (k) exercise such other powers and perform such other duties as may
+be imposed by law.
+  * NB Effective February 27, 2018
   * NB Repealed December 31, 2019
 ```

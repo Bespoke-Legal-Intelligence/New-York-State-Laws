@@ -9,6 +9,7 @@
 - [§ 235 Definitions](235-definitions.md)
 - [§ 236 Charles D](236-charles-d.md)
 - [§ 236-A Study of health professional employment incentives](236a-study-of-health-professional-employment-incentives.md)
+- [§ 236-B Rural health council](236b-rural-health-council.md)
 - [§ 237 Preparation and distribution of reports](237-preparation-and-distribution-of-reports.md)
 
 <details>
@@ -21,6 +22,7 @@ Section 234.   Legislative findings and intent.
         235.   Definitions.
         236.   Charles D. Cook office of rural health created.
         236-a. Study of health professional employment incentives.
+        236-b. Rural health council.
         237.   Preparation and distribution of reports.
 ```
 

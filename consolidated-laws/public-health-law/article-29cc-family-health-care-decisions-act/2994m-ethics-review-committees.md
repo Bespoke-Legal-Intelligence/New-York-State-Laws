@@ -27,7 +27,7 @@ advisory and nonbinding, except as specified in subdivision five of
 section twenty-nine hundred ninety-four-d of this article and
 subdivision three of section twenty-nine hundred ninety-four-e of this
 article.
-  3. Committee membership. The membership of ethics review committees
+  * 3. Committee membership. The membership of ethics review committees
 must be interdisciplinary and must include at least five members who
 have demonstrated an interest in or commitment to patient's rights or to
 the medical, public health, or social needs of those who are ill. At
@@ -44,7 +44,27 @@ of whom shall be persons who have expertise in or a demonstrated
 commitment to patient rights or to the care and treatment of the elderly
 or nursing home residents through professional or community activities,
 other than activities performed as a health care provider.
-  4. Procedures for ethics review committee. (a) These procedures are
+  * NB Effective until May 28, 2018
+  * 3. Committee membership. The membership of ethics review committees
+must be interdisciplinary and must include at least five members who
+have demonstrated an interest in or commitment to patient's rights or to
+the medical, public health, or social needs of those who are ill. At
+least three ethics review committee members must be health or social
+services practitioners, at least one of whom must be a registered nurse
+and one of whom must be a physician or nurse practitioner. At least one
+member must be a person without any governance, employment or
+contractual relationship with the hospital. In a residential health care
+facility the facility must offer the residents' council of the facility
+(or of another facility that participates in the committee) the
+opportunity to appoint up to two persons to the ethics review committee,
+none of whom may be a resident of or a family member of a resident of
+such facility, and both of whom shall be persons who have expertise in
+or a demonstrated commitment to patient rights or to the care and
+treatment of the elderly or nursing home residents through professional
+or community activities, other than activities performed as a health
+care provider.
+  * NB Effective May 28, 2018
+  * 4. Procedures for ethics review committee. (a) These procedures are
 required only when: (i) the ethics review committee is convened to
 review a decision by a surrogate to withhold or withdraw life-sustaining
 treatment for: (A) a patient in a residential health care facility
@@ -136,4 +156,62 @@ within or under contract with the justice center which provides
 protection and advocacy services from requiring any information, report
 or record from a hospital in accordance with the provisions of section
 five hundred fifty-eight of the executive law.
+  * NB Effective until May 28, 2018
+  * 4. Procedures for ethics review committee. (a) These procedures are
+required only when: (i) the ethics review committee is convened to
+review a decision by a surrogate to withhold or withdraw life-sustaining
+treatment for: (A) a patient in a residential health care facility
+pursuant to paragraph (b) of subdivision five of section twenty-nine
+hundred ninety-four-d of this article; (B) a patient in a general
+hospital pursuant to paragraph (c) of subdivision five of section
+twenty-nine hundred ninety-four-d of this article; or (C) an emancipated
+minor patient pursuant to subdivision three of section twenty-nine
+hundred ninety-four-e of this article; or (ii) when a person connected
+with the case requests the ethics review committee to provide assistance
+in resolving a dispute about proposed care. Nothing in this section
+shall bar health care providers from first striving to resolve disputes
+through less formal means, including the informal solicitation of
+ethical advice from any source.
+  (b)(i) A person connected with the case may not participate as an
+ethics review committee member in the consideration of that case.
+  (ii) The ethics review committee shall respond promptly, as required
+by the circumstances, to any request for assistance in resolving a
+dispute or consideration of a decision to withhold or withdraw
+life-sustaining treatment pursuant to paragraphs (b) and (c) of
+subdivision five of section twenty-nine hundred ninety-four-d of this
+article made by a person connected with the case. The committee shall
+permit persons connected with the case to present their views to the
+committee, and to have the option of being accompanied by an advisor
+when participating in a committee meeting.
+  (iii) The ethics review committee shall promptly provide the patient,
+where there is any indication of the patient's ability to comprehend the
+information, the surrogate, other persons on the surrogate list directly
+involved in the decision or dispute regarding the patient's care, any
+parent or guardian of a minor patient directly involved in the decision
+or dispute regarding the minor patient's care, an attending physician,
+an attending nurse practitioner, the hospital, and other persons the
+committee deems appropriate, with the following:
+  (A) notice of any pending case consideration concerning the patient,
+including, for patients, persons on the surrogate list, parents and
+guardians, information about the ethics review committee's procedures,
+composition and function; and
+  (B) the committee's response to the case, including a written
+statement of the reasons for approving or disapproving the withholding
+or withdrawal of life-sustaining treatment for decisions considered
+pursuant to subparagraph (ii) of paragraph (a) of subdivision five of
+section twenty-nine hundred ninety-four-d of this article. The
+committee's response to the case shall be included in the patient's
+medical record.
+  (iv) Following ethics review committee consideration of a case
+concerning the withdrawal or withholding of life-sustaining treatment,
+treatment shall not be withdrawn or withheld until the persons
+identified in subparagraph (iii) of this paragraph have been informed of
+the committee's response to the case.
+  (c) When an ethics review committee is convened to review decisions
+regarding hospice care for a patient in a general hospital or
+residential health care facility, the responsibilities of this section
+shall be carried out by the ethics review committee of the general
+hospital or residential health care facility, provided that such
+committee shall invite a representative from hospice to participate.
+  * NB Effective May 28, 2018
 ```

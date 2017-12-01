@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 168 — Licensed Pathologists' Assistants](README.md)
 
 ```text
-  * § 8854. State committee for pathologists' assistants. 1. A state
+  § 8854. State committee for pathologists' assistants. 1. A state
 committee for pathologists' assistants shall be appointed by the board
 of regents upon the recommendation of the commissioner as a committee of
 the board of medicine to advise solely on matters relating to
@@ -19,5 +19,4 @@ be composed of a minimum of the following:
   (a) one licensed physician who practices pathology;
   (b) three licensed pathologists' assistants; and
   (c) one public representative.
-  * NB Effective November 28, 2017
 ```

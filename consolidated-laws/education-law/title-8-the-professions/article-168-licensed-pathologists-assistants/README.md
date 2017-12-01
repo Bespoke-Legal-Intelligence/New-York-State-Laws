@@ -17,7 +17,7 @@
 <summary>Official heading of Article 168, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 168
+                               ARTICLE 168
                     LICENSED PATHOLOGISTS' ASSISTANTS
 Section 8850. Definitions.
         8851. Practice as pathologists' assistant and use of the title
@@ -27,7 +27,6 @@ Section 8850. Definitions.
         8854. State committee for pathologists' assistants.
         8855. Limited permits.
         8856. Exemptions and exempt persons.
-  * NB Effective November 28, 2017
 ```
 
 </details>

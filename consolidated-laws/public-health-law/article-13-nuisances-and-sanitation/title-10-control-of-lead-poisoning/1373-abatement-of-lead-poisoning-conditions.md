@@ -4,11 +4,18 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 10 — Control of Lead Poisoning](README.md)
 
 ```text
-  § 1373. Abatement of lead poisoning conditions.  1. Whenever the
+  § 1373. Abatement of lead poisoning conditions. * 1. Whenever the
 commissioner or his representative shall designate an area of high risk,
 he may give written notice and demand, served as provided herein, for
 the discontinuance of a paint condition conducive to lead poisoning in
 any designated dwelling in such area within a specified period of time.
+  * NB Effective until March 29, 2018
+  * 1. Whenever the commissioner or his or her representative shall
+designate an area of high risk, he or she shall give written notice and
+demand, served as provided by this section, for the discontinuance of a
+paint condition conducive to lead poisoning in any designated dwelling
+in such area within a specified period of time.
+  * NB Effective March 29, 2018
   2. Such notice and demand shall prescribe the method of discontinuance
 of a condition conducive to lead poisoning which may include the removal
 of paint containing more than one-half of one per centum of metallic
@@ -21,13 +28,25 @@ three hundred seventy-two of this title or the covering of such surfaces
 with such material or the removal of lead contaminated soils or lead
 pipes supplying drinking water as may be deemed necessary to protect the
 life and health of occupants of the dwelling.
-  3. In the event of failure to comply with a notice and demand, the
+  * 3. In the event of failure to comply with a notice and demand, the
 commissioner or his representative may conduct a formal hearing upon due
 notice in accordance with the provisions of section twelve-a of this
 chapter and on proof of violation of such notice and demand may order
 abatement of a paint condition conducive to lead poisoning upon such
 terms as may be appropriate and may assess a penalty not to exceed two
 thousand five hundred dollars for such violation.
+  * NB Effective until March 29, 2018
+  * 3. In the event of failure to comply with a notice and demand, the
+commissioner or his or her representative shall conduct a formal hearing
+upon due notice in accordance with the provisions of section twelve-a of
+this chapter and on proof of violation of such notice and demand may
+order abatement of a paint condition conducive to lead poisoning upon
+such terms as may be appropriate and may assess a penalty not to exceed
+two thousand five hundred dollars for such violation; provided, however,
+that abatement shall not be ordered if the respondent proves by a
+preponderance of evidence at such hearing that a paint condition
+conducive to lead poisoning in the designated dwelling does not exist.
+  * NB Effective March 29, 2018
   4. A notice required by this section may be served upon an owner or
 occupant of the dwelling or agent of the owner in the same manner as a
 summons in a civil action or by registered or certified mail to his last

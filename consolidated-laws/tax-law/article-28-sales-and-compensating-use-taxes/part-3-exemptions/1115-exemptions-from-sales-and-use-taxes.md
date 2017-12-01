@@ -384,12 +384,23 @@ such receipts or consideration shall be exempt under this paragraph.
 Nothing in this paragraph shall be construed to affect the refund or
 credit under subdivision (b) of such section eleven hundred nineteen
 with respect to the purchase or use of motor fuel or diesel motor fuel.
-  (33) Wine or wine product, and the bottles, corks, caps, and labels
+  * (33) Wine or wine product, and the bottles, corks, caps, and labels
 used to package such wine or wine product, furnished by the official
 agent of a farm winery, winery, wholesaler, or importer at a wine
 tasting held in accordance with the alcoholic beverage control law to a
 customer or prospective customer who consumes such wine at such wine
 tasting.
+  * NB Effective until March 1, 2018
+  * (33) Wine or wine product, beer or beer product, cider or cider
+product, liquor or liquor product, and the kegs, cans, bottles,
+growlers, corks, caps, and labels used to package such alcoholic
+product, furnished by the official agent of a farm winery, winery,
+brewery, farm brewery, cider producer, farm cidery, distillery, farm
+distillery, wholesaler, or importer at a wine, beer, cider or liquor
+tasting held in accordance with the alcoholic beverage control law to a
+customer or prospective customer who consumes such wine, beer, cider or
+liquor at such tasting.
+  * NB Effective March 1, 2018
   (34) Textbooks purchased by full and part time college students for
 their courses; provided, however, that upon purchase such a student
 shall present a valid student identification card, and such a textbook

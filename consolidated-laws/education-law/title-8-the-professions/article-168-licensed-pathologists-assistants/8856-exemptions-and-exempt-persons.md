@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 168 — Licensed Pathologists' Assistants](README.md)
 
 ```text
-  * § 8856. Exemptions and exempt persons. This article shall not
+  § 8856. Exemptions and exempt persons. This article shall not
 prohibit:
   1. The performance of any tasks or responsibilities by any student
 engaged in clinical training in a general hospital licensed pursuant to
@@ -24,5 +24,4 @@ engaged in the performance of his or her duties; or
 legally carrying out the examinations and tests enumerated in
 subdivision two of section five hundred seventy-nine of the public
 health law.
-  * NB Effective November 28, 2017
 ```

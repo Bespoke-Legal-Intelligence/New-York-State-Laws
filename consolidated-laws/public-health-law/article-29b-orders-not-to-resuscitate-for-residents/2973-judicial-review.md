@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 29-B — Orders Not to Resuscitate For Residents of Mental Hygiene Facilities](README.md)
 
 ```text
-  § 2973. Judicial review.  1. The patient, an attending physician, a
+  § 2973. Judicial review.  * 1. The patient, an attending physician, a
 parent, non-custodial parent, or legal guardian of a minor patient, any
 person on the surrogate list, the hospital that is caring for the
 patient and the facility director, may commence a special proceeding
@@ -23,6 +23,28 @@ that the decision is contrary to the patient's best interests. In any
 other proceeding brought pursuant to this subdivision, the court shall
 make its determination based upon the applicable substantive standards
 and procedures set forth in this article.
+  * NB Effective until May 28, 2018
+  * 1. The patient, an attending physician, attending nurse
+practitioner, a parent, non-custodial parent, or legal guardian of a
+minor patient, any person on the surrogate list, the hospital that is
+caring for the patient and the facility director, may commence a special
+proceeding pursuant to article four of the civil practice law and rules,
+in a court of competent jurisdiction, with respect to any dispute
+arising under this article, except that the decision of a patient not to
+consent to issuance of an order not to resuscitate may not be subjected
+to judicial review. In any proceeding brought pursuant to this
+subdivision challenging a decision regarding issuance of an order not to
+resuscitate on the ground that the decision is contrary to the patient's
+wishes or best interests, the person or entity challenging the decision
+must show, by clear and convincing evidence, that the decision is
+contrary to the patient's wishes including consideration of the
+patient's religious and moral beliefs, or, in the absence of evidence of
+the patient's wishes, that the decision is contrary to the patient's
+best interests. In any other proceeding brought pursuant to this
+subdivision, the court shall make its determination based upon the
+applicable substantive standards and procedures set forth in this
+article.
+  * NB Effective May 28, 2018
   2. In any proceeding brought pursuant to this section, the court may
 issue an order, pursuant to the standards applicable to the issuance of
 a temporary restraining order according to section six thousand three

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STT |
 | Type | Consolidated law, chapter 57-A |
-| Sections | 25 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 26 |
+| Last changed | 1 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Technology |
 
@@ -26,6 +26,10 @@ Article                                              Section
 ```
 
 [Chapter text page](chapter-text.md)
+
+## Recent changes
+
+- [1 Dec 2017](../../changes/2017/2017-12-01.md): 1 added
 
 ## Contents
 

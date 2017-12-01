@@ -67,4 +67,12 @@ or contractor therefore makes a report in accordance with this section
 and/or cooperated with the investigation of a reportable incident. A
 court of competent jurisdiction may grant injunctive relief to any
 person determined to have been subjected to such retaliation.
+  5. State oversight agencies shall ensure that all facilities or
+provider agencies operated, licensed, or certified by such state
+oversight agencies have policies and procedures in place to identify and
+report possible crimes against a service recipient by a custodian. State
+oversight agencies shall provide guidance to facilities or provider
+agencies operated, licensed, or certified by such state oversight
+agencies that do not already have policies and procedures for the
+identification and reporting of possible crimes.
 ```
