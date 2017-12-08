@@ -4,7 +4,7 @@
 [Election Law](../README.md) › [Article 4 — Proceedings Preliminary to Registration, Enrollment and Elections](README.md)
 
 ```text
-  * § 4-123. Publication of candidate websites. 1. The state board of
+  § 4-123. Publication of candidate websites. 1. The state board of
 elections shall publish on its website the campaign website address
 designated by any candidate for governor, lieutenant governor, attorney
 general, state comptroller, member of the state senate and member of the
@@ -25,5 +25,4 @@ following disclaimer with relation to the list of candidate website
 addresses:  "The website addresses published here are designated by the
 candidate.  The state board of elections is not responsible for and
 expresses no opinion as to the content of candidate websites."
-  * NB Effective December 1, 2017
 ```

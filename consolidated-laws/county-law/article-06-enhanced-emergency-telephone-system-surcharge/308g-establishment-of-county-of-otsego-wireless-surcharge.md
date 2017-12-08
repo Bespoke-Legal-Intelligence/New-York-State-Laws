@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-G", "kind": "section", "law_id": "CNT", "location_id": "308-G", "path": "ARTICLE 6 › SECTION 308-G", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-G.md", "title": "Establishment of county of Otsego wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-G", "kind": "section", "law_id": "CNT", "location_id": "308-G", "path": "ARTICLE 6 › SECTION 308-G", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-G.md", "title": "Establishment of county of Otsego wireless surcharge"} -->
 # County Law § 308-G — Establishment of county of Otsego wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-g. Establishment of county of Otsego wireless surcharge. 1.

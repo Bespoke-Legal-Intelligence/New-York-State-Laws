@@ -25,32 +25,10 @@ except kero-jet fuel when imported by an airline for use in its
 airplanes, and except CNG, and except hydrogen, and except E85 when
 delivered to a filling station and placed in a storage tank of such
 filling station for such E85 to be dispensed directly into a motor
-vehicle for use in the operation of such vehicle.
-  * NB Effective until December 1, 2017
-  * (1) Every distributor of motor fuel shall pay, as a prepayment on
-account of the taxes imposed by this article and pursuant to the
-authority of article twenty-nine of this chapter, a tax on each gallon
-of motor fuel (i) which he imports or causes to be imported into this
-state for use, distribution, storage or sale in the state or produces,
-refines, manufactures or compounds in this state or (ii) if the tax has
-not been imposed prior to its sale in this state, which he sells (which
-acts shall in regard to motor fuel hereinafter in this article be
-encompassed by the phrase "imported, manufactured or sold"), except when
-imported, manufactured or sold under circumstances which preclude the
-collection of such tax by reason of the United States constitution and
-of the laws of the United States enacted pursuant thereto or when
-imported or manufactured by an organization described in paragraph one
-or two of subdivision (a) of section eleven hundred sixteen of this
-article or a hospital included in the organizations described in
-paragraph four of such subdivision for its own use and consumption and
-except kero-jet fuel when imported by an airline for use in its
-airplanes, and except CNG, and except hydrogen, and except E85 when
-delivered to a filling station and placed in a storage tank of such
-filling station for such E85 to be dispensed directly into a motor
 vehicle for use in the operation of such vehicle, and except aviation
 gasoline sold for use in commercial aircraft and general aviation
 aircraft.
-  * NB Effective December 1, 2017 until September 1, 2021
+  * NB Effective until September 1, 2021
   * (1) Every distributor of motor fuel shall pay, as a prepayment on
 account of the taxes imposed by this article and pursuant to the
 authority of article twenty-nine of this chapter, a tax on each gallon

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CAL |
 | Type | Consolidated law, chapter 5 |
-| Sections | 83 |
-| Last changed | 13 Jan 2017 |
+| Sections | 88 |
+| Last changed | 8 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Canal |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
                                 CANAL LAW
 ```
 
-[Full chapter text (26 lines)](chapter-text.md)
+[Full chapter text (27 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [8 Dec 2017](../../changes/2017/2017-12-08.md): 5 added
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 3 amended
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 3 amended
 
@@ -52,4 +53,5 @@ Assembly, do enact as follows:
 - [Article 12 — Damages](article-12-damages/)
 - [Article 13 — Miscellaneous](article-13-miscellaneous/)
 - [Article 13-A — Canal Recreationway Commission](article-13a-canal-recreationway-commission/)
+- [Article 13-B — Upstate Flood Mitigation Task Force](article-13b-upstate-flood-mitigation-task-force/)
 - [Article 14 — Saving Clause; Laws Repealed](article-14-saving-clause-laws-repealed/)

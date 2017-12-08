@@ -254,5 +254,8 @@ shall be entitled. Mortgage tax moneys allotted to cities, towns and
 villages shall be applied to the payment of the general expenses
 thereof. The commissioner shall prescribe the method of adjustment and
 correction of errors heretofore or hereafter made in the distribution of
-moneys collected under this article.
+moneys collected under this article. Provided, however that in the town
+of Ossining, county of Westchester, monies due to the unincorporated
+portion of the town shall be placed in the unincorporated town fund
+instead of into the general fund of such town.
 ```

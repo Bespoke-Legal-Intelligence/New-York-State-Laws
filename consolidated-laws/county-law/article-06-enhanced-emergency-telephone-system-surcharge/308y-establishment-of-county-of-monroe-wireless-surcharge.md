@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-Y", "kind": "section", "law_id": "CNT", "location_id": "308-Y", "path": "ARTICLE 6 › SECTION 308-Y", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-Y.md", "title": "Establishment of county of Monroe wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-Y", "kind": "section", "law_id": "CNT", "location_id": "308-Y", "path": "ARTICLE 6 › SECTION 308-Y", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-Y.md", "title": "Establishment of county of Monroe wireless surcharge"} -->
 # County Law § 308-Y — Establishment of county of Monroe wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-y. Establishment of county of Monroe wireless surcharge. 1.

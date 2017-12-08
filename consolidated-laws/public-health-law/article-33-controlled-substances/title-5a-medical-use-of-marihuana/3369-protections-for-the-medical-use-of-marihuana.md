@@ -27,9 +27,25 @@ contract or funding.
 accordance with this title, shall not be a consideration in a proceeding
 pursuant to applicable sections of the domestic relations law, the
 social services law and the family court act.
-  4. Certification applications, certification forms, any certified
+  ** 4. Certification applications, certification forms, any certified
 patient information contained within a database, and copies of registry
 identification cards shall be deemed exempt from public disclosure under
 sections eighty-seven and eighty-nine of the public officers law.
+  ** NB Effective until January 28, 2018
+  ** 4. (a) Certification applications, certification forms, any
+certified patient information contained within a database, and copies of
+registry identification cards shall be deemed exempt from public
+disclosure under sections eighty-seven and eighty-nine of the public
+officers law.
+  (b) The name, contact information, and other information relating to
+practitioners registered with the department under this title shall be
+public information and shall be maintained by the commissioner on the
+department's website accessible to the public in searchable form.
+However, if a practitioner notifies the department in writing that he or
+she does not want his or her name and other information disclosed, that
+practitioner's name and other information shall thereafter not be public
+information or maintained on the department's website, unless the
+practitioner cancels the request.
+  ** NB Effective January 28, 2018
   * NB Repealed July 5, 2021
 ```

@@ -39,7 +39,8 @@ Section 2994-a. Definitions.
         2994-d. Health care decisions for adult patients by surrogates.
         2994-e. Decisions about life-sustaining treatment for minor
                   patients.
-        2994-f. Obligations of attending physician.
+        2994-f. Obligations of attending physician or attending nurse
+                  practitioner.
         2994-g. Health care decisions for adult patients without
                   surrogates.
         2994-i. Specific policies for orders not to resuscitate.

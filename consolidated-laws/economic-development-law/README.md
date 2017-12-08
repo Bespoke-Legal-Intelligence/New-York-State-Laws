@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 172 |
-| Last changed | 4 Aug 2017 |
+| Sections | 173 |
+| Last changed | 8 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [8 Dec 2017](../../changes/2017/2017-12-08.md): 1 added
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 1 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended, 1 added, 1 removed
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 7 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 4 amended, 6 added
 - [17 Apr 2015](../../changes/2015/2015-04-17.md): 2 amended
 - [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 added
-- [26 Sep 2014](../../changes/2014/2014-09-26.md): 1 amended
 
 ## Contents
 

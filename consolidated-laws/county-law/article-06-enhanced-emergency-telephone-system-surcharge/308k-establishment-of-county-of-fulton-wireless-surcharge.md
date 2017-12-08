@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-K", "kind": "section", "law_id": "CNT", "location_id": "308-K", "path": "ARTICLE 6 › SECTION 308-K", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-K.md", "title": "Establishment of county of Fulton wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-K", "kind": "section", "law_id": "CNT", "location_id": "308-K", "path": "ARTICLE 6 › SECTION 308-K", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-K.md", "title": "Establishment of county of Fulton wireless surcharge"} -->
 # County Law § 308-K — Establishment of county of Fulton wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-k. Establishment of county of Fulton wireless surcharge. 1.

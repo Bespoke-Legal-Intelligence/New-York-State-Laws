@@ -4,19 +4,10 @@
 [Election Law](../README.md) › [Article 4 — Proceedings Preliminary to Registration, Enrollment and Elections](README.md)
 
 ```text
-  * § 4-114. Determination of candidates and questions; county board of
-elections. The county board of elections, not later than the
-thirty-fifth day before the day of a primary or general election, or the
-fifty-third day before a special election or presidential primary
-election, shall determine the candidates duly nominated for public
-office and the questions that shall appear on the ballot within the
-jurisdiction of that board of elections.
-  * NB Effective until December 31, 2016
-  * § 4-114. Determination of candidates and questions; county board of
+  § 4-114. Determination of candidates and questions; county board of
 elections. The county board of elections, not later than the
 thirty-fifth day before the day of a primary or general election, or the
 fifty-third day before a special election, shall determine the
 candidates duly nominated for public office and the questions that shall
 appear on the ballot within the jurisdiction of that board of elections.
-  * NB Effective December 31, 2016
 ```

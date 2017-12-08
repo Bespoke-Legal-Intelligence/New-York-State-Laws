@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-D", "kind": "section", "law_id": "CNT", "location_id": "308-D", "path": "ARTICLE 6 › SECTION 308-D", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-D.md", "title": "Establishment of county of Orange wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-D", "kind": "section", "law_id": "CNT", "location_id": "308-D", "path": "ARTICLE 6 › SECTION 308-D", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-D.md", "title": "Establishment of county of Orange wireless surcharge"} -->
 # County Law § 308-D — Establishment of county of Orange wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-d. Establishment of county of Orange wireless surcharge. 1.

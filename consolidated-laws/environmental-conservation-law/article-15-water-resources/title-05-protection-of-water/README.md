@@ -15,6 +15,7 @@
 - [§ 15-0514 Prohibition of certain incompatible uses over either primary groundwater recharge areas or federally designated sole source aquifers](15-0514-prohibition-of-certain-incompatible-uses-over-either-primary.md)
 - [§ 15-0515 Review](15-0515-review.md)
 - [§ 15-0516 Inspection report of dam safety](15-0516-inspection-report-of-dam-safety.md)
+- [§ 15-0517 Water quality testing requirements for land clearing debris and compost facilities in Nassau and Suffolk counties](15-0517-water-quality-testing-requirements-for-land-clearing-debris.md)
 
 <details>
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -38,6 +39,9 @@ Section 15-0501. Protection of certain streams; disturbances of stream
                    designated sole source aquifers.
         15-0515. Review.
         15-0516. Inspection report of dam safety.
+        15-0517. Water quality testing requirements for land clearing
+                   debris and compost facilities in Nassau and Suffolk
+                   counties.
 ```
 
 </details>

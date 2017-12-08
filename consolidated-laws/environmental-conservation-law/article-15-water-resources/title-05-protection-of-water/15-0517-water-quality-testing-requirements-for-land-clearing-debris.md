@@ -1,0 +1,39 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 15-0517", "kind": "section", "law_id": "ENV", "location_id": "15-0517", "path": "ARTICLE 15 › TITLE 5 › SECTION 15-0517", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/15-0517.md", "title": "Water quality testing requirements for land clearing debris and compost facilities in Nassau and Suffolk counties"} -->
+# Environmental Conservation Law § 15-0517 — Water quality testing requirements for land clearing debris and compost facilities in Nassau and Suffolk counties
+
+[Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 5 — Protection of Water](README.md)
+
+```text
+* § 15-0517. Water quality testing requirements for land clearing debris
+             and compost facilities in Nassau and Suffolk counties.
+  1. In Nassau and Suffolk counties, the department shall promulgate
+rules and regulations to prevent water quality and other environmental
+impairments resulting from land clearing debris facilities or composting
+facilities. Such regulations shall at a minimum require:
+  (a) quarterly up gradient and down gradient water quality testing;
+  (b) setbacks from drinking water supply wells and surface water
+bodies; and
+  (c) dust and odor suppression and fire risk minimization.
+  2. The department shall in the case of a primary recharge area, and
+may for other recharge areas, promulgate rules and regulations to be
+implemented twenty-four months after the effective date of this section,
+to prevent water quality and other environmental impairments resulting
+from land clearing debris facilities or composting facilities by
+requiring the use of an impermeable liner, in addition to the
+requirements of subdivision one of this section. The department may
+exempt a land clearing debris facility or a composting facility from the
+regulatory requirements of this subdivision following a review of the
+facility's water quality testing results and a determination by the
+department that such facility does not pose a risk of impairment to the
+primary recharge area or, if applicable, other recharge area.
+  3. For the purposes of this section:
+  (a) "land clearing debris" shall mean vegetative matter, soil and rock
+resulting from activities such as land clearing and grubbing, utility
+line maintenance or seasonal or storm related cleanup such as trees,
+stumps, brush and leaves and including wood chips generated from these
+materials.
+  (b) "composting facilities" shall mean facilities that accept more
+than three thousand cubic yards of waste, either processed or
+unprocessed, per year.
+  * NB Effective January 1, 2018
+```

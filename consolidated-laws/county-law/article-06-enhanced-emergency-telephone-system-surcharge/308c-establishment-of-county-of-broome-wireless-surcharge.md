@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-C", "kind": "section", "law_id": "CNT", "location_id": "308-C", "path": "ARTICLE 6 › SECTION 308-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-C.md", "title": "Establishment of county of Broome wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-C", "kind": "section", "law_id": "CNT", "location_id": "308-C", "path": "ARTICLE 6 › SECTION 308-C", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-C.md", "title": "Establishment of county of Broome wireless surcharge"} -->
 # County Law § 308-C — Establishment of county of Broome wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-c. Establishment of county of Broome wireless surcharge. 1.

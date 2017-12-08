@@ -16,6 +16,7 @@
 - [§ 92-E Telephone service; changes in providers](092e-telephone-service-changes-in-providers.md)
 - [§ 92-F Prepaid telephone calling card consumer protections](092f-prepaid-telephone-calling-card-consumer-protections.md)
 - [§ 92-G De-tariffing of non-basic retail services](092g-de-tariffing-of-non-basic-retail-services.md)
+- [§ 92-H Participation in the targeted accessibility fund](092h-participation-in-the-targeted-accessibility-fund.md)
 - [§ 93 Liability for loss or damage caused by violation of this chapter](093-liability-for-loss-or-damage-caused-by-violation-of-this-chapter.md)
 - [§ 94 General powers and duties of commission in respect to telegraph corporations and telephone corporations](094-general-powers-and-duties-of-commission-in-respect-to-telegraph-corporations.md)
 - [§ 95 Reports of telegraph corporations and telephone corporations](095-reports-of-telegraph-corporations-and-telephone-corporations.md)
@@ -52,6 +53,7 @@ Section 90.   Application of article.
         92-e. Telephone service; changes in providers.
         92-f. Prepaid telephone calling card consumer protections.
         92-g. De-tariffing of non-basic retail services.
+        92-h. Participation in the targeted accessibility fund.
         93.   Liability for loss or damage caused by violation of this
                 chapter.
         94.   General powers and duties of commission in respect to

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-A*6", "kind": "section", "law_id": "CNT", "location_id": "308-A*6", "path": "ARTICLE 6 › SECTION 308-A*6", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-A_6.md", "title": "Establishment of county of Cayuga wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-A*6", "kind": "section", "law_id": "CNT", "location_id": "308-A*6", "path": "ARTICLE 6 › SECTION 308-A*6", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-A_6.md", "title": "Establishment of county of Cayuga wireless surcharge"} -->
 # County Law § 308-A*6 — Establishment of county of Cayuga wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

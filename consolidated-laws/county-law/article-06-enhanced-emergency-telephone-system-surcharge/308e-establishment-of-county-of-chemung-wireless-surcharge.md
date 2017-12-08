@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "County Law § 308-E", "kind": "section", "law_id": "CNT", "location_id": "308-E", "path": "ARTICLE 6 › SECTION 308-E", "repealed": false, "repealed_date": null, "source": "nys-laws:CNT/308-E.md", "title": "Establishment of county of Chemung wireless surcharge"} -->
+﻿<!-- nyslaw {"citation": "County Law § 308-E", "kind": "section", "law_id": "CNT", "location_id": "308-E", "path": "ARTICLE 6 › SECTION 308-E", "repealed": true, "repealed_date": "2017-12-08", "source": "nys-laws:CNT/308-E.md", "title": "Establishment of county of Chemung wireless surcharge"} -->
 # County Law § 308-E — Establishment of county of Chemung wireless surcharge
 
 [County Law](../README.md) › [Article 6 — Enhanced Emergency Telephone System Surcharge](README.md)
+
+**Repealed** (8 Dec 2017). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 308-e. Establishment of county of Chemung wireless surcharge. 1.
