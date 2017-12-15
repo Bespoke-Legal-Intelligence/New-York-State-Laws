@@ -712,13 +712,29 @@ any deduction claimed by the taxpayer for such damage pursuant to
 section one hundred sixty-five of the internal revenue code. Provided,
 further, that the taxpayer shall not claim a subtraction modification
 under paragraph three-a of this subsection for such distribution.
-  * NB There are 2 par 42's
+  * NB There are 3 par (42)'s
   * (42) Insurance payments received by an eligible volunteer
 firefighter for the cancer disability benefits in section two hundred
 five-cc of the general municipal law to the extent includable in gross
 income for federal income tax purposes.
-  * NB There are 2 par 42's
+  * NB There are 3 par (42)'s
   * NB Effective January 1, 2019
+  * (42) (A) The amount of any student loan that is discharged, whether
+in whole or in part, if such discharge was:
+  (i) pursuant to subsection (a) or (d) of section 437 of the Higher
+Education Act of 1965 or the parallel benefit provided pursuant to part
+D of title IV of such act;
+  (ii) pursuant to section 464(c)(1)(F) of the Higher Education Act of
+1965; or
+  (iii) otherwise discharged on account of the death or total and
+permanent disability of the person on whose behalf the indebtedness was
+incurred.
+  (B) For the purposes of this paragraph, "student loan" means:
+  (i) a student loan as defined in section 108(f)(2) of the Internal
+Revenue Code of 1986; or
+  (ii) a private education loan, as defined in section 140(7) of the
+Consumer Credit Protection Act.
+  * NB There are 3 par (42)'s
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of
