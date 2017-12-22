@@ -3,6 +3,8 @@
 
 [Agriculture and Markets Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 350 Definitions](350-definitions.md)
@@ -45,6 +47,7 @@
 - [§ 378 Unlawful tampering with animal research](378-unlawful-tampering-with-animal-research.md)
 - [§ 379 Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](379-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
 - [§ 380 Use of elephants in entertainment acts](380-use-of-elephants-in-entertainment-acts.md)
+- [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -105,6 +108,8 @@ Section 350.   Definitions.
         379.   Prohibition of the selling of fur, hair, skin or flesh of
                  a dog or cat.
         380.   Use of elephants in entertainment acts.
+        380*2. Examination of seized animals or animals taken possession
+                 of.
 ```
 
 </details>

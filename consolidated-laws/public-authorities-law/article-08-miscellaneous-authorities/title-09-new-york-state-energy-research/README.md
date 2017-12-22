@@ -36,6 +36,7 @@
 - [§ 1870 Title not affected if in part unconstitutional or ineffective](1870-title-not-affected-if-in-part-unconstitutional.md)
 - [§ 1871 Public service law not applicable to authority](1871-public-service-law-not-applicable-to-authority.md)
 - [§ 1872 Green residential building program](1872-green-residential-building-program.md)
+- [§ 1872-A Affordable residential green building program](1872a-affordable-residential-green-building-program.md)
 - [§ 1873 Examination and reporting of energy efficiency grant recipients; required](1873-examination-and-reporting-of-energy-efficiency-grant.md)
 - [§ 1875 Legislative findings and declaration of intent](1875-legislative-findings-and-declaration-of-intent.md)
 - [§ 1876 High temperature technology research program established](1876-high-temperature-technology-research-program.md)
@@ -90,6 +91,7 @@ Section 1850.   Short title.
                   ineffective.
         1871.   Public service law not applicable to authority.
         1872.   Green residential building program.
+        1872-a. Affordable residential green building program.
         1873.   Examination and reporting of energy efficiency grant
                   recipients; required.
         1875.   Legislative findings and declaration of intent.

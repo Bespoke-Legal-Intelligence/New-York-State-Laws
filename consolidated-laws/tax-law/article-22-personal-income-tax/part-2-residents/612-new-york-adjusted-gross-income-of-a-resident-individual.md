@@ -301,6 +301,27 @@ seventy-nine of the internal revenue code, and (2) the grantor's
 transfer of assets to the trust is treated as an incomplete gift under
 section twenty-five hundred eleven of the internal revenue code, and the
 regulations thereunder.
+  * (42) (A) Excess distributions received during the taxable year by a
+distributee of a first home savings account established under the New
+York state first home savings program provided for under article
+twenty-eight of the private housing finance law, to the extent such
+excess distributions are deemed attributable to the deductible
+contributions under paragraph forty-two of subsection (c) of this
+section.
+  (B) (i) The term "excess distributions" means distributions which are
+not:
+  (I) qualified withdrawals within the meaning of subdivision ten of
+section twelve hundred fifty-two of the private housing finance law;
+  (II) withdrawals made as a result of the death or disability of the
+designated beneficiary within the meaning of subdivision eleven of
+section twelve hundred fifty-two of such law; or
+  (III) transfers described in paragraph (b) of subdivision six of
+section twelve hundred fifty-five of such law.
+  (ii) Excess distributions shall be deemed attributable to deductible
+contributions to the extent the amount of any such excess distribution,
+when added to all previous excess distributions from the account,
+exceeds the aggregate of all nondeductible contributions to the account.
+  * NB Effective June 16, 2018
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -712,12 +733,12 @@ any deduction claimed by the taxpayer for such damage pursuant to
 section one hundred sixty-five of the internal revenue code. Provided,
 further, that the taxpayer shall not claim a subtraction modification
 under paragraph three-a of this subsection for such distribution.
-  * NB There are 3 par (42)'s
+  * NB There are 4 par (42)'s
   * (42) Insurance payments received by an eligible volunteer
 firefighter for the cancer disability benefits in section two hundred
 five-cc of the general municipal law to the extent includable in gross
 income for federal income tax purposes.
-  * NB There are 3 par (42)'s
+  * NB There are 4 par (42)'s
   * NB Effective January 1, 2019
   * (42) (A) The amount of any student loan that is discharged, whether
 in whole or in part, if such discharge was:
@@ -734,7 +755,24 @@ incurred.
 Revenue Code of 1986; or
   (ii) a private education loan, as defined in section 140(7) of the
 Consumer Credit Protection Act.
-  * NB There are 3 par (42)'s
+  * NB There are 4 par (42)'s
+  * (42) Contributions made during the taxable year by an account owner
+to a first home savings account established under the New York state
+first home savings program provided for under article twenty-eight of
+the private housing finance law, to the extent not deductible or
+eligible for credit for federal income tax purposes, provided, however,
+the exclusion provided for in this paragraph shall not exceed five
+thousand dollars for an individual or head of household, and for married
+couples who file joint tax returns, shall not exceed ten thousand
+dollars; provided, further that such exclusion shall be available only
+to the account owner and not to any other person.
+  * NB There are 4 par (42)'s
+  * NB Effective June 16, 2018
+  * (43) Distributions from a first home savings account established
+under the New York state first home savings program provided for under
+article twenty-eight of the private housing finance law, to the extent
+includible in gross income for federal income tax purposes.
+  * NB Effective June 16, 2018
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

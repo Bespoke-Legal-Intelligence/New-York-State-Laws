@@ -4,7 +4,7 @@
 [Civil Service Law](../README.md) › [Article 10 — Miscellaneous Provisions](README.md)
 
 ```text
-  § 159-c. Excused leave to undertake a screening for prostate cancer.
+  * § 159-c. Excused leave to undertake a screening for prostate cancer.
 1.  Every public officer, employee of this state, employee of any
 county, employee of any community college, employee of any public
 authority, employee of any public benefit corporation, employee of any
@@ -42,4 +42,5 @@ of any school district or any employee of a participating employer in
 the New York state and local employees' retirement system or any
 employee of a participating employer in the New York state teachers'
 retirement system is otherwise entitled to.
+  * NB Repealed March 18, 2018
 ```

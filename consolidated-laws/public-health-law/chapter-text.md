@@ -129,6 +129,7 @@ Article
            Title    I.   Municipal insect control (§§1500-1503).
                    II.   County insect control (§§1520-1531).
   16.      Pesticide control board (§§1601-1609).
+  19.      Crohn's and Colitis Fairness Act (§§1900-1902).
   20.      Reporting of Alzheimer's Disease (§§2000--2004-a).
   20-a.    Alzheimer's Community Assistance Program (§§2005-2009).
   21.      Control of acute communicable diseases

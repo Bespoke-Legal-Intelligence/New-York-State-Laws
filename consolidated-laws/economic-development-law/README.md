@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 173 |
-| Last changed | 8 Dec 2017 |
+| Sections | 181 |
+| Last changed | 22 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (44 lines)](chapter-text.md)
+[Full chapter text (46 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 Dec 2017](../../changes/2017/2017-12-22.md): 8 added
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 1 added
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 1 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended, 1 added, 1 removed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 4 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 4 amended, 6 added
 - [17 Apr 2015](../../changes/2015/2015-04-17.md): 2 amended
-- [2 Jan 2015](../../changes/2015/2015-01-02.md): 3 added
 
 ## Contents
 
@@ -60,6 +60,7 @@ Assembly, do enact as follows:
 - [Article 5-D — Agriculture Economic Development Program](article-05d-agriculture-economic-development-program/)
 - [Article 5-E — Empire State Golf Trails Program](article-05e-empire-state-golf-trails-program/)
 - [Article 5-E\* — Empire State Brewery Trails Program](article-05e-empire-state-brewery-trails-program/)
+- [Article 5-F — Senior Tourism Program](article-05f-senior-tourism-program/)
 - [Article 6 — New York State Economic Development Power Allocation Board](article-06-new-york-state-economic-development-power/)
 - [Article 6-A — Western New York Power Proceeds Allocation Act](article-06a-western-new-york-power-proceeds-allocation-act/)
 - [Article 7 — Industrial Effectiveness Program](article-07-industrial-effectiveness-program/)
@@ -81,3 +82,4 @@ Assembly, do enact as follows:
 - [Article 20 — Empire State Jobs Retention Program](article-20-empire-state-jobs-retention-program/)
 - [Article 21 — Start-up Ny Program](article-21-start-up-ny-program/)
 - [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)
+- [Article 23 — New York Seafood Marketing Task Force](article-23-new-york-seafood-marketing-task-force/)

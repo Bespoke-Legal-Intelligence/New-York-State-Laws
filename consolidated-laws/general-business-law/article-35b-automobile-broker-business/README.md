@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 736 Definitions](736-definitions.md)
+- [§ 736-A Registration required](736a-registration-required.md)
 - [§ 737 Advance fees prohibited](737-advance-fees-prohibited.md)
 - [§ 738 Contracts; requirements and contents](738-contracts-requirements-and-contents.md)
 - [§ 739 Contracts void and unenforceable](739-contracts-void-and-unenforceable.md)
@@ -24,6 +25,7 @@
                               ARTICLE 35-B
                        AUTOMOBILE BROKER BUSINESS
 Section 736.   Definitions.
+        736-a. Registration required.
         737.   Advance fees prohibited.
         738.   Contracts; requirements and contents.
         739.   Contracts void and unenforceable.

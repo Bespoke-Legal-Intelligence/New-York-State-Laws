@@ -1435,8 +1435,28 @@ the individual under any circumstances is considered to be a transfer of
 assets by the individual for purposes of this section as of the date of
 establishment of the trust, or, if later, the date on which the payment
 to the individual is foreclosed.
-  (f) The commissioner shall promulgate such rules and regulations as
+  * (f) The commissioner shall promulgate such rules and regulations as
 may be necessary to carry out the provisions of this subdivision.
+  * NB Effective until June 16, 2018
+  * (f) The department shall provide written notice under this paragraph
+to an applicant for or recipient of medical assistance who is or
+reasonably appears to be eligible for medical assistance under
+subparagraph two of paragraph (c) of subdivision one of this section,
+except for having income exceeding applicable income levels. The notice
+shall explain, in plain language, the rules for depositing income in a
+trust that may enable an applicant or recipient who is disabled to
+become eligible for medical assistance under clause (iii) of
+subparagraph two of paragraph (b) of subdivision two of this section.
+The notice shall be included with the eligibility notice provided to
+such applicants and recipients. The notice shall include information on
+how to enroll in such a trust and how to request that the local social
+services district rebudget medical assistance based on participation in
+such a trust. This paragraph shall not be construed to change any
+criterion for eligibility for medical assistance.
+  * NB Effective June 16, 2018
+  * (g) The commissioner shall promulgate such rules and regulations as
+may be necessary to carry out the provisions of this subdivision.
+  * NB Effective June 16, 2018
   * 6. a. The commissioner of health shall apply for a home and
 community-based services waiver pursuant to subdivision (c) of section
 nineteen hundred fifteen of the federal social security act in order to

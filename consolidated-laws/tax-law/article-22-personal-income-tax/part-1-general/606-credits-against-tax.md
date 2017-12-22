@@ -3086,10 +3086,11 @@ farming for otherwise eligible farmers.
 the term "school district property taxes" means all property taxes,
 special ad valorem levies and special assessments, exclusive of
 penalties and interest, levied for school district purposes on the
-qualified agricultural property (A) owned by the taxpayer or (B) owned
-by the father, mother, grandfather, grandmother, brother or sister of
-the taxpayer and a written agreement expressing intent to eventually
-purchase the land has been entered into.
+qualified agricultural property (A) owned by the taxpayer, (B) owned by
+the father, mother, grandfather, grandmother, brother or sister of the
+taxpayer and a written agreement expressing intent to eventually
+purchase the land has been entered into, or (C) owned by trust to which
+the taxpayer is a beneficiary.
   (4) Qualified agricultural property. For purposes of this subsection,
 the term "qualified agricultural property" means land located in this
 state which is used in agricultural production, and land improvements,

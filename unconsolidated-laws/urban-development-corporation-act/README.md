@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 87 |
-| Last changed | 28 Apr 2017 |
+| Sections | 88 |
+| Last changed | 22 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (112 lines)](chapter-text.md)
+[Full chapter text (113 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 Dec 2017](../../changes/2017/2017-12-22.md): 4 amended, 1 added
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 6 amended
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 1 amended
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [15 Jul 2016](../../changes/2016/2016-07-15.md): 3 amended
 - [15 Apr 2016](../../changes/2016/2016-04-15.md): 3 amended, 3 added
 - [8 Apr 2016](../../changes/2016/2016-04-08.md): 6 amended
-- [24 Apr 2015](../../changes/2015/2015-04-24.md): 1 amended
 
 ## Contents
 
@@ -72,6 +72,7 @@ Section  1.     Short title.
 - [§ 15 Special provisions relating to residential projects](15-special-provisions-relating-to-residential-projects.md)
 - [§ 16 Cooperation with municipalities](16-cooperation-with-municipalities.md)
 - [§ 16-A Regional revolving loan program](16a-regional-revolving-loan-program.md)
+- [§ 16-AA Life sciences initiatives program](16aa-life-sciences-initiatives-program.md)
 - [§ 16-B Job retention and defense industry working capital loan program](16b-job-retention-and-defense-industry-working-capital-loan-program.md)
 - [§ 16-C Minority- and women-owned business development and lending program](16c-minority-and-women-owned-business-development-and-lending-program.md)
 - [§ 16-D Urban and community development program](16d-urban-and-community-development-program.md)

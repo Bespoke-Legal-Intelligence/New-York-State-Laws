@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,631 |
-| Last changed | 8 Dec 2017 |
+| Sections | 1,634 |
+| Last changed | 22 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (329 lines)](chapter-text.md)
+[Full chapter text (330 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [22 Dec 2017](../../changes/2017/2017-12-22.md): 2 amended, 3 added
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 1 amended
 - [1 Dec 2017](../../changes/2017/2017-12-01.md): 33 amended, 1 added
 - [24 Nov 2017](../../changes/2017/2017-11-24.md): 11 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [20 Oct 2017](../../changes/2017/2017-10-20.md): 2 amended
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 3 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 8 amended, 1 added, 6 removed
-- [4 Aug 2017](../../changes/2017/2017-08-04.md): 22 amended, 6 repealed
 
 ## Contents
 
@@ -73,6 +73,7 @@ Assembly, do enact as follows:
 - [Article 14 — Regulation of Camps For Children](article-14-regulation-of-camps-for-children/)
 - [Article 15 — Insect Control](article-15-insect-control/)
 - [Article 16 — Pesticide Control Board](article-16-pesticide-control-board/)
+- [Article 19 — Crohn's and Colitis Fairness Act](article-19-crohns-and-colitis-fairness-act/)
 - [Article 20 — Reporting of Alzheimer's Disease](article-20-reporting-of-alzheimers-disease/)
 - [Article 20-A — Alzheimer's Community Assistance Program](article-20a-alzheimers-community-assistance-program/)
 - [Article 21 — Control of Acute Communicable Diseases](article-21-control-of-acute-communicable-diseases/)

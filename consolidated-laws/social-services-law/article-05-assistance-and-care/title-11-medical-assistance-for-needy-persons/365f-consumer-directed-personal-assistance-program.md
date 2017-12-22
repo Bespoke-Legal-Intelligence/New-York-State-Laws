@@ -90,7 +90,7 @@ providing services under a patient managed home care program authorized
 under the former section thirty-six hundred twenty-two of the public
 health law or the former sections three hundred sixty-five-f of this
 chapter may continue to provide such services under this section.
-  4-a. Fiscal intermediary services. (a) For the purposes of this
+  * 4-a. Fiscal intermediary services. (a) For the purposes of this
 section:
   (i) "Fiscal intermediary" means an entity that provides fiscal
 intermediary services and has a contract for providing such services
@@ -219,7 +219,8 @@ forty-four of the public health law shall not be a fiscal intermediary.
   (h) An authorization under this subdivision shall last for a period of
 five years. Upon application for a renewal, the fiscal intermediary
 shall submit up to date information to the commissioner.
-  4-b. Actions involving the authorization of a fiscal intermediary.
+  * NB Effective January 1, 2018
+  * 4-b. Actions involving the authorization of a fiscal intermediary.
   (a) A fiscal intermediary's authorization may be revoked, suspended,
 limited or annulled upon thirty day's written notice to the fiscal
 intermediary, if the commissioner finds that the fiscal intermediary has
@@ -232,6 +233,7 @@ immediately.
   (b) All orders or determinations under this subdivision shall be
 subject to review as provided in article seventy-eight of the civil
 practice law and rules.
+  * NB Effective January 1, 2018
   5. Waivers, regulation and effectiveness.
   (a) The commissioner may, subject to the approval of the director of
 the budget, file for such federal waivers as may be needed for the

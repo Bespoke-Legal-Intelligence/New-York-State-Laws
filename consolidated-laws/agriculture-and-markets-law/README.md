@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 664 |
-| Last changed | 17 Nov 2017 |
+| Sections | 667 |
+| Last changed | 22 Dec 2017 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** § 1. Short title. This chapter shall be known as the agriculture and markets law.
 
@@ -31,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [22 Dec 2017](../../changes/2017/2017-12-22.md): 3 amended, 3 added
 - [17 Nov 2017](../../changes/2017/2017-11-17.md): 2 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended, 1 added
 - [20 Oct 2017](../../changes/2017/2017-10-20.md): 1 added
@@ -40,7 +43,6 @@ Assembly, do enact as follows:
 - [18 Aug 2017](../../changes/2017/2017-08-18.md): 1 amended, 1 added
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 6 amended, 1 added
 - [14 Jul 2017](../../changes/2017/2017-07-14.md): 2 amended, 5 added
-- [30 Jun 2017](../../changes/2017/2017-06-30.md): 1 amended
 
 ## Contents
 

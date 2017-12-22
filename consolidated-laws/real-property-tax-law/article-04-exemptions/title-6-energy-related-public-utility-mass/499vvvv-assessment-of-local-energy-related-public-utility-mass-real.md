@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-VVVV", "kind": "section", "law_id": "RPT", "location_id": "499-VVVV", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-VVVV", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-VVVV.md", "title": "Assessment of local energy-related public utility mass real property"} -->
+# Real Property Tax Law § 499-VVVV — Assessment of local energy-related public utility mass real property
+
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 6 — Energy-related Public Utility Mass Real Property Central Assessment Pilot Program](README.md)
+
+```text
+  * § 499-vvvv. Assessment of local energy-related public utility mass
+real property. Subject to the provisions of section four hundred
+ninety-nine-ccccc of this title, the assessor in each city, town and
+village in counties with a population of more than nine hundred forty
+thousand and less than one million two hundred thousand inhabitants
+according to the last decennial census, and counties with a population
+of more than nine hundred forty thousand and less than one million two
+hundred thousand inhabitants according to the last decennial census
+shall annually assess all local energy-related public utility mass real
+property situated in such city, town, village or county, as the case may
+be. Where a village has enacted a local law as provided in subdivision
+three of section fourteen hundred two of this chapter, the town or
+county assessor shall apportion that part of the assessment of local
+energy-related public utility mass real property in the town or county
+to the village for village tax purposes.
+  * NB Effective January 1, 2018 and Repealed January 1, 2023
+```
