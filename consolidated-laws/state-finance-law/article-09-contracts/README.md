@@ -8,7 +8,7 @@
 - [§ 135 Separate specifications for contract work for the state](135-separate-specifications-for-contract-work-for-the-state.md)
 - [§ 135-A Definitions](135a-definitions.md)
 - [§ 136 Contracts in pursuance of appropriations](136-contracts-in-pursuance-of-appropriations.md)
-- [§ 136-A Contracts for architectural, engineering and surveying services](136a-contracts-for-architectural-engineering-and-surveying-services.md)
+- [§ 136-A Contracts for architectural, engineering, geological and surveying services](136a-contracts-for-architectural-engineering-geological-and-surveying-services.md)
 - [§ 136-B Selection of underwriters by state agencies](136b-selection-of-underwriters-by-state-agencies.md)
 - [§ 136-C Contracts for employee training and organizational development services](136c-contracts-for-employee-training-and-organizational-development-services.md)
 - [§ 137 Bond to secure payment of certain claims arising from a public improvement; enforcement](137-bond-to-secure-payment-of-certain-claims-arising-from-a-public-improvement.md)

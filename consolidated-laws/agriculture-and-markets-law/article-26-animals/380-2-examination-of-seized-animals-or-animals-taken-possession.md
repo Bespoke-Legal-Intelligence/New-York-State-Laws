@@ -42,4 +42,5 @@ notice to the owner of the animal by any means reasonably calculated to
 provide actual notice to the owner.
   * NB Effective upon the adoption of regulations by the commissioner
 pursuant to § 111-a
+  * NB There are 2 § 380's
 ```

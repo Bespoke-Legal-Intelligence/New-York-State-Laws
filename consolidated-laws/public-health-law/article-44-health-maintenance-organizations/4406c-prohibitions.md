@@ -148,11 +148,10 @@ percent of the payment amount otherwise due for the service provided,
 and (iii) any agreed to reduction in payment shall not be imposed if the
 patient's coverage could not be determined by the hospital after
 reasonable efforts at the time the inpatient services were provided.
-  * 9. A health care plan shall not require a prior authorization
+  9. A health care plan shall not require a prior authorization
 determination for services provided in a neonatal intensive care unit of
 a general hospital certified pursuant to article twenty-eight of this
 chapter. Nothing in this subdivision shall prohibit a health care plan
 from denying a claim for such services if the services are subsequently
 determined not medically necessary.
-  * NB Effective December 22, 2017
 ```
