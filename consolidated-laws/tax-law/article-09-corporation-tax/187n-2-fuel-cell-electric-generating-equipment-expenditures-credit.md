@@ -7,39 +7,21 @@
 
 ```text
   * § 187-n. Fuel cell electric generating equipment expenditures
-credit.  ** (1) Allowance of credit. For taxable years beginning before
+credit.  (1) Allowance of credit. For taxable years beginning before
 January first, two thousand nine, a taxpayer whose business is not
 substantially engaged in the commercial generation, distribution,
 transmission, or servicing of energy or energy products shall be allowed
-a credit against the taxes imposed by sections one hundred eighty-three,
-one hundred eighty-four and one hundred eighty-five of this article,
-equal to its qualified fuel cell electric generating equipment
-expenditures.  Provided, however, that the amount of such credit
-allowable against the tax imposed by section one hundred eighty-four of
-this article shall be the excess of the amount of such credit over the
-amount of any credit allowed by this section against the tax imposed by
-section one hundred eighty-three of this article. This credit shall not
-exceed one thousand five hundred dollars per generating unit with
-respect to any taxable year. The credit provided for herein shall be
-allowed with respect to the taxable year in which the fuel cell electric
-generating equipment is placed in service.
-  ** NB Effective until January 1, 2018
-  ** (1) Allowance of credit. For taxable years beginning before January
-first, two thousand nine, a taxpayer whose business is not substantially
-engaged in the commercial generation, distribution, transmission, or
-servicing of energy or energy products shall be allowed a credit against
-the taxes imposed by sections one hundred eighty-three and one hundred
-eighty-four of this article, equal to its qualified fuel cell electric
-generating equipment expenditures. Provided, however, that the amount of
-such credit allowable against the tax imposed by section one hundred
-eighty-four of this article shall be the excess of the amount of such
-credit over the amount of any credit allowed by this section against the
-tax imposed by section one hundred eighty-three of this article. This
-credit shall not exceed one thousand five hundred dollars per generating
-unit with respect to any taxable year. The credit provided for herein
-shall be allowed with respect to the taxable year in which the fuel cell
-electric generating equipment is placed in service.
-  ** NB Effective January 1, 2018
+a credit against the taxes imposed by sections one hundred eighty-three
+and one hundred eighty-four of this article, equal to its qualified fuel
+cell electric generating equipment expenditures. Provided, however, that
+the amount of such credit allowable against the tax imposed by section
+one hundred eighty-four of this article shall be the excess of the
+amount of such credit over the amount of any credit allowed by this
+section against the tax imposed by section one hundred eighty-three of
+this article. This credit shall not exceed one thousand five hundred
+dollars per generating unit with respect to any taxable year. The credit
+provided for herein shall be allowed with respect to the taxable year in
+which the fuel cell electric generating equipment is placed in service.
   (2) Qualified fuel cell electric generating equipment expenditures.
 (a) Qualified fuel cell electric generating equipment expenditures are
 the costs, incurred on or after July first, two thousand five,
@@ -61,16 +43,7 @@ taxpayer, which was used for the purchase and/or installation of such
 equipment and which was not included in the federal gross income of the
 taxpayer, shall not be included in the amount of such qualified
 expenditures.
-  ** (3) Application of credit. In no event shall the credit under this
-section be allowed in an amount which will reduce the tax payable to
-less than the applicable minimum tax fixed by section one hundred
-eighty-three or one hundred eighty-five of this article. If, however,
-the amount of credit allowable under this section for any taxable year
-reduces the tax to such amount, any amount of credit not deductible in
-such taxable year may be carried over to the following year or years and
-may be deducted from the taxpayer's tax for such year or years.
-  ** NB Effective until January 1, 2018
-  ** (3) Application of credit. In no event shall the credit under this
+  (3) Application of credit. In no event shall the credit under this
 section be allowed in an amount which will reduce the tax payable to
 less than the applicable minimum tax fixed by section one hundred
 eighty-three of this article. If, however, the amount of credit
@@ -78,6 +51,5 @@ allowable under this section for any taxable year reduces the tax to
 such amount, any amount of credit not deductible in such taxable year
 may be carried over to the following year or years and may be deducted
 from the taxpayer's tax for such year or years.
-  ** NB Effective January 1, 2018
   * NB There are 2 § 187-n's
 ```

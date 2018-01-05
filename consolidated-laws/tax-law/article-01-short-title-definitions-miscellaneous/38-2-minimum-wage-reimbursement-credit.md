@@ -52,8 +52,6 @@ credit may not be used as the basis of any other credit allowed under
 this chapter.
   (e) Cross references: For application of the credit provided in this
 section, see the following provisions of this chapter:
-  ** (1) Article 9: Section 187-s.
-  ** NB Repealed January 1, 2018
   (2) Article 9-A: Section 210-B, subdivision 40.
   (3) Article 22: Section 606, subsection (aaa).
   (4) Article 33: Section 1511, subdivision (cc).

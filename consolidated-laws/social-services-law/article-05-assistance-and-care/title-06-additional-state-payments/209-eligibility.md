@@ -59,37 +59,14 @@ of such month, or because he has refused vocational rehabilitation.
 determining eligibility for and the amount of additional state payments,
 depending on the type of living arrangement and the geographic area in
 which the eligible individual or the eligible couple resides:
-  * (a) On and after January first, two thousand sixteen, for an
-eligible individual living alone, $820.00; and for an eligible couple
-living alone, $1204.00.
-  * NB Effective until December 31, 2017
-  * (a) On and after January first, two thousand seventeen, for an
+  (a) On and after January first, two thousand seventeen, for an
 eligible individual living alone, $822.00; and for an eligible couple
 living alone, $1,207.00.
-  * NB Effective December 31, 2017
-  * (b) On and after January first, two thousand sixteen, for an
-eligible individual living with others with or without in-kind income,
-$756.00; and for an eligible couple living with others with or without
-in-kind income, $1146.00.
-  * NB Effective until December 31, 2017
-  * (b) On and after January first, two thousand seventeen, for an
+  (b) On and after January first, two thousand seventeen, for an
 eligible individual living with others with or without in-kind income,
 $758.00; and for an eligible couple living with others with or without
 in-kind income, $1,149.00.
-  * NB Effective December 31, 2017
-  * (c) On and after January first, two thousand sixteen, (i) for an
-eligible individual receiving family care, $999.48 if he or she is
-receiving such care in the city of New York or the county of Nassau,
-Suffolk, Westchester or Rockland; and (ii) for an eligible couple
-receiving family care in the city of New York or the county of Nassau,
-Suffolk, Westchester or Rockland, two times the amount set forth in
-subparagraph (i) of this paragraph; or (iii) for an eligible individual
-receiving such care in any other county in the state, $961.48; and (iv)
-for an eligible couple receiving such care in any other county in the
-state, two times the amount set forth in subparagraph (iii) of this
-paragraph.
-  * NB Effective until December 31, 2017
-  * (c) On and after January first, two thousand seventeen, (i) for an
+  (c) On and after January first, two thousand seventeen, (i) for an
 eligible individual receiving family care, $1,001.48 if he or she is
 receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -100,20 +77,7 @@ receiving such care in any other county in the state, $963.48; and (iv)
 for an eligible couple receiving such care in any other county in the
 state, two times the amount set forth in subparagraph (iii) of this
 paragraph.
-  * NB Effective December 31, 2017
-  * (d) On and after January first, two thousand sixteen, (i) for an
-eligible individual receiving residential care, $1168.00 if he or she is
-receiving such care in the city of New York or the county of Nassau,
-Suffolk, Westchester or Rockland; and (ii) for an eligible couple
-receiving residential care in the city of New York or the county of
-Nassau, Suffolk, Westchester or Rockland, two times the amount set forth
-in subparagraph (i) of this paragraph; or (iii) for an eligible
-individual receiving such care in any other county in the state,
-$1138.00; and (iv) for an eligible couple receiving such care in any
-other county in the state, two times the amount set forth in
-subparagraph (iii) of this paragraph.
-  * NB Effective until December 31, 2017
-  * (d) On and after January first, two thousand seventeen, (i) for an
+  (d) On and after January first, two thousand seventeen, (i) for an
 eligible individual receiving residential care, $1,170.00 if he or she
 is receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -124,29 +88,15 @@ individual receiving such care in any other county in the state,
 $1,140.00; and (iv) for an eligible couple receiving such care in any
 other county in the state, two times the amount set forth in
 subparagraph (iii) of this paragraph.
-  * NB Effective December 31, 2017
-  * (e) (i) On and after January first, two thousand sixteen, for an
-eligible individual receiving enhanced residential care, $1427.00; and
-(ii) for an eligible couple receiving enhanced residential care, two
-times the amount set forth in subparagraph (i) of this paragraph.
-  * NB Effective until December 31, 2017
-  * (e) (i) On and after January first, two thousand seventeen, for an
+  (e) (i) On and after January first, two thousand seventeen, for an
 eligible individual receiving enhanced residential care, $1,429.00; and
 (ii) for an eligible couple receiving enhanced residential care, two
 times the amount set forth in subparagraph (i) of this paragraph.
-  * NB Effective December 31, 2017
-  * (f) The amounts set forth in paragraphs (a) through (e) of this
-subdivision shall be increased to reflect any increases in federal
-supplemental security income benefits for individuals or couples which
-become effective on or after January first, two thousand seventeen but
-prior to June thirtieth, two thousand seventeen.
-  * NB Effective until December 31, 2017
-  * (f) The amounts set forth in paragraphs (a) through (e) of this
+  (f) The amounts set forth in paragraphs (a) through (e) of this
 subdivision shall be increased to reflect any increases in federal
 supplemental security income benefits for individuals or couples which
 become effective on or after January first, two thousand eighteen but
 prior to June thirtieth, two thousand eighteen.
-  * NB Effective December 31, 2017
   2-a. Notwithstanding any inconsistent provision of subparagraph (ii)
 of paragraph (d) of subdivision one of this section, an individual who
 is receiving or is eligible to receive federal supplemental security

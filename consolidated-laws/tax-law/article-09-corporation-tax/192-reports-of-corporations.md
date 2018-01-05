@@ -6,21 +6,7 @@
 ```text
   § 192. Reports of corporations. Corporations liable to pay a tax under
 this article shall report as follows:
-  * 1. Corporations paying franchise tax. Every corporation, association
-or joint-stock company liable to pay a tax under section one hundred
-eighty-three or one hundred eighty-five of this chapter shall, on or
-before March fifteenth in each year, for taxable years beginning before
-January first, two thousand seventeen, and on or before April fifteenth
-in each year, for taxable years beginning on or after January first, two
-thousand seventeen, make a written report to the commissioner of its
-condition at the close of its business on the preceding December
-thirty-first, stating the amount of its authorized capital stock, the
-amount of stock paid in, the date and rate per centum of each dividend
-paid by it during the year ending with such day, the entire amount of
-the capital of such corporation, and the capital employed by it in this
-state during such year.
-  * NB Effective until January 1, 2018
-  * 1. Corporations paying franchise tax. Every corporation, association
+  1. Corporations paying franchise tax. Every corporation, association
 or joint-stock company liable to pay a tax under section one hundred
 eighty-three of this chapter shall, on or before March fifteenth in each
 year, for taxable years beginning before January first, two thousand
@@ -32,7 +18,6 @@ of its authorized capital stock, the amount of stock paid in, the date
 and rate per centum of each dividend paid by it during the year ending
 with such day, the entire amount of the capital of such corporation, and
 the capital employed by it in this state during such year.
-  * NB Effective January 1, 2018
   2. Transportation and transmission corporations. Every transportation
 or transmission corporation, joint-stock company or association liable
 to pay an additional franchise tax under section one hundred eighty-four

@@ -263,8 +263,6 @@ based on such reduction.
 this section see section fourteen of this article. For application of
 the credit provided for in this section, see the following provisions of
 this chapter:
-  * (1) Article 9: Section 187-j.
-  * NB Repealed January 1, 2018
   (2) Article 9-A: Section 210-B: subdivision 5.
   (3) Article 22: Section 606: subsections (i) and (bb).
   (4) Article 33: Section 1511: subdivision (r).

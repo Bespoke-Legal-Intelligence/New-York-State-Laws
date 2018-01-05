@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 15 — Water Resources](../README.md) › [Title 5 — Protection of Water](README.md)
 
 ```text
-* § 15-0517. Water quality testing requirements for land clearing debris
+§ 15-0517. Water quality testing requirements for land clearing debris
              and compost facilities in Nassau and Suffolk counties.
   1. In Nassau and Suffolk counties, the department shall promulgate
 rules and regulations to prevent water quality and other environmental
@@ -35,5 +35,4 @@ materials.
   (b) "composting facilities" shall mean facilities that accept more
 than three thousand cubic yards of waste, either processed or
 unprocessed, per year.
-  * NB Effective January 1, 2018
 ```

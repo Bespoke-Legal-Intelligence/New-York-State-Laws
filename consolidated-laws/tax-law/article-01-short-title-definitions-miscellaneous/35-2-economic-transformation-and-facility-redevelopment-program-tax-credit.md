@@ -6,23 +6,14 @@
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 ```text
-  § 35. Economic transformation and facility redevelopment program tax
-credit. (a) General. (1) * A taxpayer which is a participant or the
-owner of a participant in the economic transformation and facility
+  * § 35. Economic transformation and facility redevelopment program tax
+credit. (a) General. (1) A taxpayer which is a participant or the owner
+of a participant in the economic transformation and facility
 redevelopment program under article eighteen of the economic development
-law that is subject to tax under section one hundred eighty-five of
-article nine, or article nine-A, twenty-two or thirty-three of this
-chapter shall be allowed the sum of following components against such
-tax, pursuant to the provisions referenced in subdivision (f) of this
-section.
-  * NB Effective until January 1, 2018
-  * A taxpayer which is a participant or the owner of a participant in
-the economic transformation and facility redevelopment program under
-article eighteen of the economic development law that is subject to tax
-under article nine-A, twenty-two or thirty-three of this chapter shall
-be allowed the sum of following components against such tax, pursuant to
-the provisions referenced in subdivision (f) of this section.
-  * NB Effective January 1, 2018
+law that is subject to tax under article nine-A, twenty-two or
+thirty-three of this chapter shall be allowed the sum of following
+components against such tax, pursuant to the provisions referenced in
+subdivision (f) of this section.
   (A) the economic transformation and facility redevelopment program
 jobs tax credit component;
   (B) the economic transformation and facility redevelopment program
@@ -128,24 +119,14 @@ certification under article eighteen of the economic development law;
 economic transformation area in which it is applying for certification
 under article eighteen of the economic development law from another area
 of the state;
-  * (C) the business entity must not be substantially similar in
-ownership and operation to another taxpayer taxable or previously
-taxable under section one hundred eighty-three, one hundred eighty-four
-or one hundred eighty-five of article nine, former section one hundred
-eighty-six of this chapter or article nine-A, twenty-two or thirty-three
-of this chapter or former article thirty-two of this chapter or the
-income or losses of which is or was includable under article twenty-two
-of this chapter;
-  * NB Effective until January 1, 2018
-  * (C) the business entity must not be substantially similar in
-ownership and operation to another taxpayer taxable or previously
-taxable under section one hundred eighty-three or one hundred
-eighty-four or former section one hundred eighty-five of article nine,
-former section one hundred eighty-six of this chapter or article nine-A,
-twenty-two or thirty-three of this chapter or former article thirty-two
-of this chapter or the income or losses of which is or was includable
-under article twenty-two of this chapter;
-  * NB Effective January 1, 2018
+  (C) the business entity must not be substantially similar in ownership
+and operation to another taxpayer taxable or previously taxable under
+section one hundred eighty-three or one hundred eighty-four or former
+section one hundred eighty-five of article nine, former section one
+hundred eighty-six of this chapter or article nine-A, twenty-two or
+thirty-three of this chapter or former article thirty-two of this
+chapter or the income or losses of which is or was includable under
+article twenty-two of this chapter;
   (D) the business entity must not have caused individuals to transfer
 from existing employment in New York with another business entity with
 similar ownership to similar employment with the business entity;
@@ -165,8 +146,6 @@ partnership in which the taxpayer is a partner and a New York subchapter
 S corporation in which the taxpayer is a shareholder.
   (f) Cross-references. For application of the credits provided for in
 this section, see the following provisions of this chapter:
-  * (1) section 185: section 187-r.
-  * NB Repealed January 1, 2018
   (2) article 9-A: section 210-B(35).
   (3) article 22: section 606 (ss).
   (4) article 33: section 1511 (aa).

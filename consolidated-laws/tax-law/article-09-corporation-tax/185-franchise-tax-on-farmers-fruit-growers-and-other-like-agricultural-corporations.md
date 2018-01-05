@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 185", "kind": "section", "law_id": "TAX", "location_id": "185", "path": "ARTICLE 9 › SECTION 185", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/185.md", "title": "Franchise tax on farmers', fruit growers', and other like agricultural corporations organized and operated on a co-operative basis"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 185", "kind": "section", "law_id": "TAX", "location_id": "185", "path": "ARTICLE 9 › SECTION 185", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/185.md", "title": "Franchise tax on farmers', fruit growers', and other like agricultural corporations organized and operated on a co-operative basis"} -->
 # Tax Law § 185 — Franchise tax on farmers', fruit growers', and other like agricultural corporations organized and operated on a co-operative basis
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 185. Franchise tax on farmers', fruit growers', and other like

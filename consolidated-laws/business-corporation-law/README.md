@@ -8,7 +8,7 @@
 | Senate code | BSC |
 | Type | Consolidated law, chapter 4 |
 | Sections | 249 |
-| Last changed | 15 Sep 2017 |
+| Last changed | 5 Jan 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Business Corporation |
 
@@ -31,6 +31,7 @@ Article   1.   Short title; definitions; application; certificates,
 
 ## Recent changes
 
+- [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 added
 - [5 May 2017](../../changes/2017/2017-05-05.md): 2 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 1 amended
@@ -40,7 +41,6 @@ Article   1.   Short title; definitions; application; certificates,
 - [22 Jan 2016](../../changes/2016/2016-01-22.md): 1 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 1 amended
 - [24 Apr 2015](../../changes/2015/2015-04-24.md): 4 amended
-- [9 Jan 2015](../../changes/2015/2015-01-09.md): 1 amended
 
 ## Contents
 

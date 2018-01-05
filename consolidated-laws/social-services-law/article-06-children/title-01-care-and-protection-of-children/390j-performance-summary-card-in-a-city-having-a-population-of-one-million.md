@@ -4,9 +4,9 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  * § 390-j. Performance summary card in a city having a population of
-one million or more. 1. Definitions. For the purposes of this section,
-the following terms shall have the following meanings:
+  § 390-j. Performance summary card in a city having a population of one
+million or more. 1. Definitions. For the purposes of this section, the
+following terms shall have the following meanings:
   (a) "Child care service" shall mean any person who provides child day
 care in a city having a population of one million or more that is
 required to obtain a permit to operate pursuant to the health code of
@@ -30,5 +30,4 @@ card shall be updated and reissued by such department at least once
 every twelve months. The child care service shall conspicuously post its
 most recently issued performance summary card at or near its entrance in
 accordance with rules promulgated by such department.
-  * NB Effective December 31, 2017
 ```

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 187-K", "kind": "section", "law_id": "TAX", "location_id": "187-K", "path": "ARTICLE 9 › SECTION 187-K", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-K.md", "title": "Empire zone investment tax credit for agricultural cooperatives"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 187-K", "kind": "section", "law_id": "TAX", "location_id": "187-K", "path": "ARTICLE 9 › SECTION 187-K", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/187-K.md", "title": "Empire zone investment tax credit for agricultural cooperatives"} -->
 # Tax Law § 187-K — Empire zone investment tax credit for agricultural cooperatives
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 187-k. Empire zone investment tax credit for agricultural

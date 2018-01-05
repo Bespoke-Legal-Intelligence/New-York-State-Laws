@@ -1180,22 +1180,13 @@ is entered into) more than one year after the date such indebtedness was
 incurred.
   (7) For purposes of paragraph four of this subdivision, a new business
 shall include any corporation, except a corporation which:
-  * (A) over fifty percent of the number of shares of stock entitling
-the holders thereof to vote for the election of directors or trustees is
-owned or controlled, either directly or indirectly, by a taxpayer
-subject to tax under this article; section one hundred eighty-three, one
-hundred eighty-four, one hundred eighty-five or one hundred eighty-six
-of article nine; article nine-A or article thirty-two of this chapter;
-or
-  * NB Effective until January 1, 2018
-  * (A) over fifty percent of the number of shares of stock entitling
-the holders thereof to vote for the election of directors or trustees is
+  (A) over fifty percent of the number of shares of stock entitling the
+holders thereof to vote for the election of directors or trustees is
 owned or controlled, either directly or indirectly, by a taxpayer
 subject to tax under this article; section one hundred eighty-three, one
 hundred eighty-four, former section one hundred eighty-five or former
 section one hundred eighty-six of article nine; article nine-A or
 article thirty-two of this chapter; or
-  * NB Effective January 1, 2018
   (B) is substantially similar in operation and in ownership to a
 business entity (or entities) taxable, or previously taxable, under this
 article; section one hundred eighty-three, one hundred eighty-four, one

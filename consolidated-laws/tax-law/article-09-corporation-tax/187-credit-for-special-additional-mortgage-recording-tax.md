@@ -32,16 +32,7 @@ dwelling units, each dwelling unit having its own separate cooking
 facilities, where the real property is located in the county of Erie and
 where the mortgage is recorded on or after May first, nineteen hundred
 eighty-seven.
-  * 2. In no event shall the credit herein provided for be allowed in an
-amount which will reduce the tax payable to less than the applicable
-minimum tax fixed by section one hundred eighty-three, one hundred
-eighty-five or one hundred eighty-six. If, however, the amount of credit
-allowable under this section for any taxable year reduces the tax to
-such amount, any amount of credit not deductible in such taxable year
-may be carried over to the following year or years and may be deducted
-from the taxpayer's tax for such year or years.
-  * NB Effective until January 1, 2018
-  * 2. In no event shall the credit herein provided for be allowed in an
+  2. In no event shall the credit herein provided for be allowed in an
 amount which will reduce the tax payable to less than the applicable
 minimum tax fixed by section one hundred eighty-three or former section
 one hundred eighty-six. If, however, the amount of credit allowable
@@ -49,5 +40,4 @@ under this section for any taxable year reduces the tax to such amount,
 any amount of credit not deductible in such taxable year may be carried
 over to the following year or years and may be deducted from the
 taxpayer's tax for such year or years.
-  * NB Effective January 1, 2018
 ```

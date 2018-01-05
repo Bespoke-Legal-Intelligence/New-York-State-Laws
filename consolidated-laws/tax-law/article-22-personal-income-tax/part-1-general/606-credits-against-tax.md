@@ -376,28 +376,13 @@ incurred.
   (10) For purposes of paragraph five of this subsection, an individual
 who is either a sole proprietor or a member of a partnership shall
 qualify as an owner of a new business unless:
-  * (A) the business of which the individual is an owner is
-substantially similar in operation and in ownership to a business entity
-taxable, or previously taxable, under section one hundred eighty-three,
-one hundred eighty-four or one hundred eighty-five of article nine;
-article nine-A or thirty-three of this chapter; article twenty-three of
-this chapter or which would have been subject to tax under such article
-twenty-three (as such article was in effect on January first, nineteen
-hundred eighty), article thirty-two of this chapter or which would have
-been subject to tax under such article thirty-two (as such article was
-in effect on December thirty-first, two thousand fourteen) or the income
-(or losses) of which is (or was) includable under article twenty-two of
-this chapter whereby the intent and purpose of this paragraph and
-paragraph five of this subsection with respect to refunding of credit to
-new business would be evaded; or
-  * NB Effective until January 1, 2018
-  * (A) the business of which the individual is an owner is
-substantially similar in operation and in ownership to a business entity
-taxable, or previously taxable, under section one hundred eighty-three,
-one hundred eighty-four or former section one hundred eighty-five former
-section of article nine; article nine-A or thirty-three of this chapter;
-article twenty-three of this chapter or which would have been subject to
-tax under such article twenty-three (as such article was in effect on
+  (A) the business of which the individual is an owner is substantially
+similar in operation and in ownership to a business entity taxable, or
+previously taxable, under section one hundred eighty-three, one hundred
+eighty-four or former section one hundred eighty-five former section of
+article nine; article nine-A or thirty-three of this chapter; article
+twenty-three of this chapter or which would have been subject to tax
+under such article twenty-three (as such article was in effect on
 January first, nineteen hundred eighty), article thirty-two of this
 chapter or which would have been subject to tax under such article
 thirty-two (as such article was in effect on December thirty-first, two
@@ -405,7 +390,6 @@ thousand fourteen) or the income (or losses) of which is (or was)
 includable under article twenty-two of this chapter whereby the intent
 and purpose of this paragraph and paragraph five of this subsection with
 respect to refunding of credit to new business would be evaded; or
-  * NB Effective January 1, 2018
   (B) the individual has operated such new business entity in this state
 for more than five taxable years (excluding short years of the
 business).
@@ -654,35 +638,35 @@ Not over $5,000                     $90.00  plus  an  amount  equal   to
                                     exemptions  for  which  the taxpayer
                                     (or in the case  of  a  husband  and
                                     wife,  taxpayers)  is  entitled to a
-                                    deduction for the taxable  year  for
-                                    federal  income  tax  purposes under
-                                    subsections (b) and (c)  of  section
+                                    deduction  for  the taxable year for
+                                    federal income  tax  purposes  under
+                                    subsections  (b)  and (c) of section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $5,000 but not over $6,000     $75.00 plus such an amount
 Over $6,000 but not over $7,000     $65.00 plus such an amount
 Over $7,000 but not over $20,000    $60.00 plus such an amount
 Over $20,000 but not over $22,000   $60.00  plus  an  amount  equal   to
-                                    $10.00 multiplied by a number  which
+                                    $10.00  multiplied by a number which
                                     is  one  less  than  the  number  of
-                                    exemptions for  which  the  taxpayer
-                                    (or  in  the  case  of a husband and
-                                    wife, taxpayers) is  entitled  to  a
-                                    deduction  for  the taxable year for
-                                    federal income  tax  purposes  under
-                                    subsections  (b)  and (c) of section
+                                    exemptions  for  which  the taxpayer
+                                    (or in the case  of  a  husband  and
+                                    wife,  taxpayers)  is  entitled to a
+                                    deduction for the taxable  year  for
+                                    federal  income  tax  purposes under
+                                    subsections (b) and (c)  of  section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $22,000 but not over $25,000   $50.00 plus such an amount
 Over $25,000 but not over $28,000   $40.00 plus an amount equal to $5.00
-                                    multiplied  by a number which is one
-                                    less than the number  of  exemptions
-                                    for  which  the  taxpayer (or in the
-                                    case  of   a   husband   and   wife,
-                                    taxpayers)    is   entitled   to   a
-                                    deduction for the taxable  year  for
-                                    federal  income  tax  purposes under
-                                    subsections (b) and (c)  of  section
+                                    multiplied by a number which is  one
+                                    less  than  the number of exemptions
+                                    for which the taxpayer  (or  in  the
+                                    case   of   a   husband   and  wife,
+                                    taxpayers)   is   entitled   to    a
+                                    deduction  for  the taxable year for
+                                    federal income  tax  purposes  under
+                                    subsections  (b)  and (c) of section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $28,000 but not over $32,000   $20.00 plus such an amount

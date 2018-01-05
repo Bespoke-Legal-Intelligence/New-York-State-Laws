@@ -4,19 +4,13 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 11 — Registration of Snowmobiles, Motorboats and Limited Use Vehicles](../README.md) › [Article 47 — Registration of Snowmobiles](README.md)
 
 ```text
-  § 2222. Registration. * 1. Except as hereinafter provided, no person
-shall operate any snowmobile within the state unless such snowmobile has
-been registered and numbered in accordance with the provisions of this
-article, and the registration number for such snowmobile is in full
-force and effect and displayed as hereinafter provided.
-  * NB Effective until January 1, 2018
-  * 1. Except as hereinafter provided, no person shall operate any
-snowmobile within the state unless: (a) such snowmobile has been
-registered and numbered in accordance with the provisions of this
-article, and the registration number for such snowmobile is in full
-force and effect as hereinafter provided; and (b) the registration
-number for such snowmobile is displayed as hereinafter provided.
-  * NB Effective January 1, 2018
+  § 2222. Registration. 1. Except as hereinafter provided, no person
+shall operate any snowmobile within the state unless: (a) such
+snowmobile has been registered and numbered in accordance with the
+provisions of this article, and the registration number for such
+snowmobile is in full force and effect as hereinafter provided; and (b)
+the registration number for such snowmobile is displayed as hereinafter
+provided.
   2. The commissioner is authorized to register a snowmobile, issue a
 registration certificate and assign a registration number to such
 snowmobile. All such registrations shall be valid until the thirty-first

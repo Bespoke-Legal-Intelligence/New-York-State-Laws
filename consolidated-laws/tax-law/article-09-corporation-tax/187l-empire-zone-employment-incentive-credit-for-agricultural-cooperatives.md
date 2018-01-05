@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 187-L", "kind": "section", "law_id": "TAX", "location_id": "187-L", "path": "ARTICLE 9 › SECTION 187-L", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-L.md", "title": "Empire zone employment incentive credit for agricultural cooperatives"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 187-L", "kind": "section", "law_id": "TAX", "location_id": "187-L", "path": "ARTICLE 9 › SECTION 187-L", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/187-L.md", "title": "Empire zone employment incentive credit for agricultural cooperatives"} -->
 # Tax Law § 187-L — Empire zone employment incentive credit for agricultural cooperatives
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 187-l. Empire zone employment incentive credit for agricultural

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 187-S", "kind": "section", "law_id": "TAX", "location_id": "187-S", "path": "ARTICLE 9 › SECTION 187-S", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-S.md", "title": "Minimum wage reimbursement credit"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 187-S", "kind": "section", "law_id": "TAX", "location_id": "187-S", "path": "ARTICLE 9 › SECTION 187-S", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/187-S.md", "title": "Minimum wage reimbursement credit"} -->
 # Tax Law § 187-S — Minimum wage reimbursement credit
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 187-s Minimum wage reimbursement credit. (a) Allowance of credit.

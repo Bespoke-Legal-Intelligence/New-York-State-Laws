@@ -4,7 +4,7 @@
 [Business Corporation Law](../README.md) › [Article 7 — Directors and Officers](README.md)
 
 ```text
-* § 727. Annual reports for certain transactions required.
+§ 727. Annual reports for certain transactions required.
   (a) Every condominium or cooperative housing corporation, incorporated
 pursuant to this chapter, shall, at least once each year:
   (1) require that each director, as defined in paragraph five of
@@ -33,5 +33,4 @@ the board shall instead submit to the shareholders a document, signed by
 each director, indicating: "No actions taken by the board were subject
 to the annual report required pursuant to section 727 of the Business
 Corporation Law".
-  * NB Effective January 1, 2018
 ```

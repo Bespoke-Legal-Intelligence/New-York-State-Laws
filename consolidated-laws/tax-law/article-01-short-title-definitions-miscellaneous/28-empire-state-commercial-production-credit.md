@@ -86,33 +86,13 @@ production costs of a qualified production company must be greater than
 one hundred thousand dollars in the aggregate during the calendar year.
 Such credit will be applied to qualified production costs exceeding one
 hundred thousand dollars in a calendar year.
-  ** (3) No qualified production costs used by a taxpayer either as the
+  (3) No qualified production costs used by a taxpayer either as the
 basis for the allowance of the credit provided for under this section or
 used in the calculation of the credit provided for under this section
 shall be used by such taxpayer to claim any other credit allowed
 pursuant to this chapter.
-  Notwithstanding any provisions of this section to the contrary, a
+  (4) Notwithstanding any provisions of this section to the contrary, a
 corporation or partnership, which otherwise qualifies as a qualified
-commercial production company, and is similar in operation and in
-ownership to a business entity or entities taxable, or previously
-taxable, under section one hundred eighty-three, one hundred eighty-four
-or one hundred eighty-five of article nine; article nine-A or
-thirty-three of this chapter or which would have been subject to tax
-under article twenty-three of this chapter (as such article was in
-effect on January first, nineteen hundred eighty) or which would have
-been subject to tax under article thirty-two of this chapter (as such
-article was in effect on December thirty-first, two thousand fourteen)
-or the income or losses of which is or was includable under article
-twenty-two of this chapter shall not be deemed a new or separate
-business, and therefore shall not be eligible for empire state
-commercial production benefits, if it was not formed for a valid
-business purpose, as such term is defined in clause (D) of subparagraph
-one of paragraph (o) of subdivision nine of section two hundred eight of
-this chapter and was formed solely to gain empire state commercial
-production credit benefits.
-  ** NB Effective until January 1, 2018
-  ** (4) Notwithstanding any provisions of this section to the contrary,
-a corporation or partnership, which otherwise qualifies as a qualified
 commercial production company, and is similar in operation and in
 ownership to a business entity or entities taxable, or previously
 taxable, under section one hundred eighty-three or one hundred
@@ -130,7 +110,6 @@ business purpose, as such term is defined in clause (D) of subparagraph
 one of paragraph (o) of subdivision nine of section two hundred eight of
 this chapter and was formed solely to gain empire state commercial
 production credit benefits.
-  ** NB Effective January 1, 2018
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified production costs" means production costs only to the

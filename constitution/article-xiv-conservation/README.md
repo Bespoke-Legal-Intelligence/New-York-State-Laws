@@ -10,6 +10,7 @@
 - [§ A14S3 Forest and wild life conservation; use or disposition of            certain forest preserve lands authorized](section-3-forest-and-wild-life-conservation-use-or-disposition-of-certain-forest-preserve.md)
 - [§ A14S4 Protection of natural resources and the development of            agricultural lands](section-4-protection-of-natural-resources-and-the-development-of-agricultural-lands.md)
 - [§ A14S5 Violations of article; how restrained](section-5-violations-of-article-how-restrained.md)
+- [§ A14S6 Enacted without section heading](section-6-enacted-without-section-heading.md)
 
 <details>
 <summary>Official heading of Article XIV, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -26,6 +27,7 @@ ARTICLE XIV
       4. Protection of natural resources and the development of
            agricultural lands.
       5. Violations of article; how restrained.
+      6. Enacted without section heading.
 ```
 
 </details>

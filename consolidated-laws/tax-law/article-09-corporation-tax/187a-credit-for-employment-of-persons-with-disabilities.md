@@ -48,17 +48,7 @@ paid or incurred by the taxpayer during the taxable year to qualified
 employees which are attributable, with respect to any such employee, to
 services rendered during the one-year period beginning one year after
 the employee begins work for the taxpayer.
-  * 5. Carryover. In no event shall the credit under this section be
-allowed in an amount which will reduce the tax payable to less than the
-applicable minimum tax fixed by section one hundred eighty-three, one
-hundred eighty-five or one hundred eighty-six of this article.  If,
-however, the amount of credit allowable under this section for any
-taxable year reduces the tax to such amount, any amount of credit not
-deductible in such taxable year may be carried over to the following
-year or years and may be deducted from the taxpayer's tax for such year
-or years.
-  * NB Effective until January 1, 2018
-  * 5. Carryover. In no event shall the credit under this section be
+  5. Carryover. In no event shall the credit under this section be
 allowed in an amount which will reduce the tax payable to less than the
 applicable minimum tax fixed by section one hundred eighty-three or
 former section one hundred eighty-six of this article. If, however, the
@@ -66,7 +56,6 @@ amount of credit allowable under this section for any taxable year
 reduces the tax to such amount, any amount of credit not deductible in
 such taxable year may be carried over to the following year or years and
 may be deducted from the taxpayer's tax for such year or years.
-  * NB Effective January 1, 2018
   6. Coordination with federal work opportunity tax credit. The
 provisions of sections fifty-one and fifty-two of the internal revenue
 code, as such sections applied on October first, nineteen hundred

@@ -137,35 +137,18 @@ the same manner and to the same extent as if the business were conducted
 by the agents or officers of such corporation. A dissolved corporation
 which continues to conduct business shall also be subject to the tax
 imposed by this article.
-  * 4. Corporations liable to tax under sections one hundred
-eighty-three to one hundred eighty-five, inclusive, corporations taxable
-under articles thirty-two and thirty-three of this chapter, any trust
-company organized under a law of this state all of the stock of which is
-owned by not less than twenty savings banks organized under a law of
-this state, bank holding companies filing a combined return in
-accordance with subdivision (f) of section fourteen hundred sixty-two of
-this chapter, a captive REIT or a captive RIC filing a combined return
-under either subdivision (f) of section fourteen hundred sixty-two or
-subdivision (f) of section fifteen hundred fifteen of this chapter, and
-housing companies organized and operating pursuant to the provisions of
-article two or article five of the private housing finance law and
-housing development fund companies organized pursuant to the provisions
-of article eleven of the private housing finance law shall not be
-subject to tax under this article.
-  * NB Effective until January 1, 2018
-  * 4. Corporations liable to tax under sections one hundred
-eighty-three to one hundred eighty-four-a, inclusive, corporations
-taxable under article thirty-three of this chapter, any trust company
-organized under a law of this state all of the stock of which is owned
-by not less than twenty savings banks organized under a law of this
-state, a captive REIT or a captive RIC filing a combined return under
-subdivision (f) of section fifteen hundred fifteen of this chapter, and
-housing companies organized and operating pursuant to the provisions of
-article two or article five of the private housing finance law and
-housing development fund companies organized pursuant to the provisions
-of article eleven of the private housing finance law shall not be
-subject to tax under this article.
-  * NB Effective January 1, 2018
+  4. Corporations liable to tax under sections one hundred eighty-three
+to one hundred eighty-four-a, inclusive, corporations taxable under
+article thirty-three of this chapter, any trust company organized under
+a law of this state all of the stock of which is owned by not less than
+twenty savings banks organized under a law of this state, a captive REIT
+or a captive RIC filing a combined return under subdivision (f) of
+section fifteen hundred fifteen of this chapter, and housing companies
+organized and operating pursuant to the provisions of article two or
+article five of the private housing finance law and housing development
+fund companies organized pursuant to the provisions of article eleven of
+the private housing finance law shall not be subject to tax under this
+article.
   5. For any taxable year of a real estate investment trust as defined
 in section eight hundred fifty-six of the internal revenue code in which
 such trust is subject to federal income taxation under section eight
@@ -230,11 +213,10 @@ corporation that is a qualified entity of a New York state innovation
 hot spot shall be subject only to the fixed dollar minimum tax under
 paragraph (d) of subdivision one of section two hundred ten of this
 article, as provided in section thirty-eight of this chapter.
-  * 12. All farmers', fruit growers' and other like agricultural
+  12. All farmers', fruit growers' and other like agricultural
 corporations organized and operated on a co-operative basis for the
 purposes expressed in and as provided under the co-operative
 corporations law of the state of New York, whether or not such
 corporations have capital stock, shall be exempt from taxation under the
 provisions of this article.
-  * NB Effective January 1, 2018
 ```

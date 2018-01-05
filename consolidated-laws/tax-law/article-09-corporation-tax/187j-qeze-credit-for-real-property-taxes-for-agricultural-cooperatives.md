@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 187-J", "kind": "section", "law_id": "TAX", "location_id": "187-J", "path": "ARTICLE 9 › SECTION 187-J", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-J.md", "title": "QEZE credit for real property taxes for agricultural cooperatives"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 187-J", "kind": "section", "law_id": "TAX", "location_id": "187-J", "path": "ARTICLE 9 › SECTION 187-J", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/187-J.md", "title": "QEZE credit for real property taxes for agricultural cooperatives"} -->
 # Tax Law § 187-J — QEZE credit for real property taxes for agricultural cooperatives
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 187-j. QEZE credit for real property taxes for agricultural

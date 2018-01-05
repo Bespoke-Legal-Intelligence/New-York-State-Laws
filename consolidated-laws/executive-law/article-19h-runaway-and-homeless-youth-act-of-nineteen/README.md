@@ -7,9 +7,9 @@
 
 - [§ 532 Short title](532-short-title.md)
 - [§ 532-A Definitions](532a-definitions.md)
-- [§ 532-B Powers and duties of approved runaway program](532b-powers-and-duties-of-approved-runaway-program.md)
+- [§ 532-B Powers and duties of runaway and homeless youth crisis services programs](532b-powers-and-duties-of-runaway-and-homeless-youth-crisis-services-programs.md)
 - [§ 532-C Notice to parent; return of runaway youth to parent; alternative living arrangements](532c-notice-to-parent-return-of-runaway-youth-to-parent-alternative-living.md)
-- [§ 532-D Residential facilities operated as transitional independent living support programs](532d-residential-facilities-operated-as-transitional-independent-living-support.md)
+- [§ 532-D Residential transitional independent living support programs](532d-residential-transitional-independent-living-support-programs.md)
 - [§ 532-E Powers and duties of the office of children and family services](532e-powers-and-duties-of-the-office-of-children-and-family-services.md)
 - [§ 532-F Required certification for residential programs](532f-required-certification-for-residential-programs.md)
 

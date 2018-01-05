@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 187-Q", "kind": "section", "law_id": "TAX", "location_id": "187-Q", "path": "ARTICLE 9 › SECTION 187-Q", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/187-Q.md", "title": "Excelsior jobs program credit"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 187-Q", "kind": "section", "law_id": "TAX", "location_id": "187-Q", "path": "ARTICLE 9 › SECTION 187-Q", "repealed": true, "repealed_date": "2018-01-05", "source": "nys-laws:TAX/187-Q.md", "title": "Excelsior jobs program credit"} -->
 # Tax Law § 187-Q — Excelsior jobs program credit
 
 [Tax Law](../README.md) › [Article 9 — Corporation Tax](README.md)
+
+**Repealed** (5 Jan 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 187-q. Excelsior jobs program credit. (a) Allowance of credit. A

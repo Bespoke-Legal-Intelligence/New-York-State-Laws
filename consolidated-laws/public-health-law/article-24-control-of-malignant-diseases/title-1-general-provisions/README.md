@@ -7,7 +7,7 @@
 
 - [§ 2400 Cancer; powers and duties of commissioner](2400-cancer-powers-and-duties-of-commissioner.md)
 - [§ 2401 Cancer; duty to report](2401-cancer-duty-to-report.md)
-- [§ 2401-A 3](2401a-3.md)
+- [§ 2401-A Skin cancer reporting](2401a-skin-cancer-reporting.md)
 - [§ 2401-B Cancer incidence and environmental facility maps](2401b-cancer-incidence-and-environmental-facility-maps.md)
 - [§ 2402 Cancer; reports confidential](2402-cancer-reports-confidential.md)
 - [§ 2403 Cancer; compulsory submission for supervision or inspection not required](2403-cancer-compulsory-submission-for-supervision-or-inspection-not.md)

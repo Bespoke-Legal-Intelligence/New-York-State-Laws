@@ -4,7 +4,7 @@
 [Not-for-Profit Corporation Law](../README.md) › [Article 5 — Corporate Finance](README.md)
 
 ```text
-* § 519-a. Annual reports for certain transactions required.
+§ 519-a. Annual reports for certain transactions required.
   (a) Every condominium or cooperative housing corporation, incorporated
 pursuant to this chapter, shall, at least once each year:
   (1) require that each director, as defined in paragraph six of
@@ -34,5 +34,4 @@ governing board, if there are no members, a document, signed by each
 director, indicating: "No actions taken by the board were subject to the
 annual report required pursuant to section 519-a of the Not-for-Profit
 Corporation Law".
-  * NB Effective January 1, 2018
 ```

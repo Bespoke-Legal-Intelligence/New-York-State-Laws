@@ -5,19 +5,7 @@
 
 ```text
   § 187-b. Alternative fuels and electric vehicle recharging property
-credit. * 1. General. A taxpayer shall be allowed a credit, to be
-credited against the taxes imposed under sections one hundred
-eighty-three, one hundred eighty-four, and one hundred eighty-five of
-this article. Such credit, to be computed as hereinafter provided, shall
-be allowed for alternative fuel vehicle refueling and electric vehicle
-recharging property placed in service during the taxable year. Provided,
-however, that the amount of such credit allowable against the tax
-imposed by section one hundred eighty-four of this article shall be the
-excess of the credit allowed by this section over the amount of such
-credit allowable against the tax imposed by section one hundred
-eighty-three of this article.
-  * NB Effective until January 1, 2018
-  * 1. General. A taxpayer shall be allowed a credit, to be credited
+credit. 1. General. A taxpayer shall be allowed a credit, to be credited
 against the taxes imposed under sections one hundred eighty-three and
 one hundred eighty-four of this article. Such credit, to be computed as
 hereinafter provided, shall be allowed for alternative fuel vehicle
@@ -27,7 +15,6 @@ credit allowable against the tax imposed by section one hundred
 eighty-four of this article shall be the excess of the credit allowed by
 this section over the amount of such credit allowable against the tax
 imposed by section one hundred eighty-three of this article.
-  * NB Effective January 1, 2018
   2. (a) Alternative fuel vehicle refueling property and electric
 vehicle recharging property. The credit under this section for
 alternative fuel vehicle refueling and electric vehicle recharging
@@ -50,16 +37,7 @@ petroleum, or hydrogen.
   (b) The term "electric vehicle recharging property" means all the
 equipment needed to convey electric power from the electric grid or
 another power source to an onboard vehicle energy storage system.
-  * 4. Carryovers. In no event shall the credit under this section be
-allowed in an amount which will reduce the tax payable to less than the
-applicable minimum tax fixed by section one hundred eighty-three or one
-hundred eighty-five of this article. If, however, the amount of credit
-allowable under this section for any taxable year reduces the tax to
-such amount, any amount of credit not deductible in such taxable year
-may be carried over to the following year or years and may be deducted
-from the taxpayer's tax for such year or years.
-  * NB Effective until January 1, 2018
-  * 4. Carryovers. In no event shall the credit under this section be
+  4. Carryovers. In no event shall the credit under this section be
 allowed in an amount which will reduce the tax payable to less than the
 applicable minimum tax fixed by section one hundred eighty-three of this
 article. If, however, the amount of credit allowable under this section
@@ -67,7 +45,6 @@ for any taxable year reduces the tax to such amount, any amount of
 credit not deductible in such taxable year may be carried over to the
 following year or years and may be deducted from the taxpayer's tax for
 such year or years.
-  * NB Effective January 1, 2018
   5. Credit recapture. If, at any time before the end of its recovery
 period, alternative fuel vehicle refueling or electric vehicle
 recharging property ceases to be qualified, a recapture amount must be

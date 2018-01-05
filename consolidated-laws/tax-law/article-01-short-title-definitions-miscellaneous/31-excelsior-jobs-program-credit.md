@@ -4,29 +4,16 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  * § 31. Excelsior jobs program credit.  **(a) General. A taxpayer
-subject to tax under section one hundred eighty-five, article nine-A,
-twenty-two or thirty-three of this chapter shall be allowed a credit
-against such tax, pursuant to the provisions referenced in subdivision
-(g) of this section. The amount of the credit, allowable for up to ten
-consecutive taxable years, is the sum of the following four credit
-components:
+  * § 31. Excelsior jobs program credit.  (a) General. A taxpayer
+subject to tax under article nine-A, twenty-two or thirty-three of this
+chapter shall be allowed a credit against such tax, pursuant to the
+provisions referenced in subdivision (g) of this section. The amount of
+the credit, allowable for up to ten consecutive taxable years, is the
+sum of the following four credit components:
   (1) the excelsior jobs tax credit component;
   (2) the excelsior investment tax credit component;
   (3) the excelsior research and development tax credit component; and
   (4) the excelsior real property tax credit component.
-  ** NB Effective until January 1, 2018
-  ** (a) General. A taxpayer subject to tax under article nine-A,
-twenty-two or thirty-three of this chapter shall be allowed a credit
-against such tax, pursuant to the provisions referenced in subdivision
-(g) of this section. The amount of the credit, allowable for up to ten
-consecutive taxable years, is the sum of the following four credit
-components:
-  (1) the excelsior jobs tax credit component;
-  (2) the excelsior investment tax credit component;
-  (3) the excelsior research and development tax credit component; and
-  (4) the excelsior real property tax credit component.
-  * NB Effective January 1, 2018
   (b) To be eligible for the excelsior jobs program credit, the taxpayer
 shall have been issued a "certificate of tax credit" by the department
 of economic development pursuant to subdivision four of section three
@@ -122,8 +109,6 @@ proportion of actual job creation to the estimated amount, provided the
 proportion is at least seventy-five percent of the jobs estimated.
   (g) Cross-references. For application of the credit provided for in
 this section, see the following provisions of this chapter:
-  ** (1) article 9: section 187-q.
-  ** NB Repealed January 1, 2018
   (2) article 9-A: section 210-B: subdivision 31.
   (3) article 22: section 606: subsection (qq).
   (4) article 33: section 1511: subdivision (y).

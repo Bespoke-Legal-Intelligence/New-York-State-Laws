@@ -157,7 +157,7 @@
 - [§ 485-T Owner occupied residential property exemption program](485t-owner-occupied-residential-property-exemption-program.md)
 - [§ 486 Non-profit medical and dental indemnity, or hospital service corporations](486-non-profit-medical-and-dental-indemnity-or-hospital-service-corporations.md)
 - [§ 486-A Non-profit corporations operating as health maintenance organizations](486a-non-profit-corporations-operating-as-health-maintenance-organizations.md)
-- [§ 487 Exemption from taxation for certain solar or wind energy systems or farm waste energy systems](487-exemption-from-taxation-for-certain-solar-or-wind-energy-systems-or-farm-waste.md)
+- [§ 487 Exemption from taxation for certain energy systems](487-exemption-from-taxation-for-certain-energy-systems.md)
 - [§ 487-A Exemption from taxation of conservation improvements to certain residential premises](487a-exemption-from-taxation-of-conservation-improvements-to-certain-residential.md)
 - [§ 488 Retirement systems](488-retirement-systems.md)
 - [§ 488-A Rehabilitation of certain class B multiple dwellings and class A multiple dwellings used for single room occupancy](488a-rehabilitation-of-certain-class-b-multiple-dwellings-and-class-a-multiple.md)
