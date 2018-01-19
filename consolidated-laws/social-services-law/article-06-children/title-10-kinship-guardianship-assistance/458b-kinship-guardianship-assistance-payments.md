@@ -249,10 +249,7 @@ activity designed to promote, or remove barriers to, employment; or (v)
 incapable of any of such activities due to a medical condition, which
 incapability is supported by regularly updated information in the case
 plan of the child.
-  * NB Effective until 60 days following the date that the US Department
-of Health and Human Services, Administration for Children, Youth and
-Families approves a title IV-E state plan amendment (see ch. 384/2017, §
-3 sb (b))
+  * NB Effective until March 12, 2018
   * (a) Kinship guardianship assistance payments shall be made to the
 relative guardian or guardians until the child's eighteenth birthday or
 until the child attains twenty-one years of age provided the child
@@ -264,10 +261,7 @@ month; (iv) participating in a program or activity designed to promote,
 or remove barriers to, employment; or (v) incapable of any of such
 activities due to a medical condition, which incapability is supported
 by regularly updated information in the case plan of the child.
-  * NB Effective 60 days following the date that the US Department of
-Health and Human Services, Administration for Children, Youth and
-Families approves a title IV-E state plan amendment (see ch. 384/2017, §
-3 sb (b))
+  * NB Effective March 12, 2018
   (b) (i) Notwithstanding paragraph (a) of this subdivision, and except
 as provided for in paragraph (b) of subdivision five of this section, no
 kinship guardianship assistance payments may be made pursuant to this
