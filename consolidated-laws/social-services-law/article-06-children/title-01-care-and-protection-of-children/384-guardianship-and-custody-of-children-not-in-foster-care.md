@@ -254,11 +254,10 @@ information. Any information provided pursuant to this subdivision shall
 be recorded in the uniform case record maintained pursuant to section
 four hundred nine-f of this article; provided, however, that the failure
 to provide such information shall not invalidate the surrender.
-  * 9. Acceptance of a judicial surrender or approval of an
-extra-judicial surrender pursuant to this section shall not be construed
-to terminate any rights of the child to contact his or her siblings. For
-purposes of this section, "siblings" shall include half-siblings and
-those who would be deemed siblings or half siblings but for the
-surrender, termination of parental rights or death of a parent.
-  * NB Effective January 21, 2018
+  9. Acceptance of a judicial surrender or approval of an extra-judicial
+surrender pursuant to this section shall not be construed to terminate
+any rights of the child to contact his or her siblings. For purposes of
+this section, "siblings" shall include half-siblings and those who would
+be deemed siblings or half siblings but for the surrender, termination
+of parental rights or death of a parent.
 ```

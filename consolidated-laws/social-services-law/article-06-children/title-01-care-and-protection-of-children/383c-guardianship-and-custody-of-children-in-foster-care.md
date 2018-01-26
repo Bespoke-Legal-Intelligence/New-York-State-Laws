@@ -463,12 +463,11 @@ section, the court shall schedule an initial freed child permanency
 hearing pursuant to section one thousand eighty-nine of the family court
 act. Subsequent permanency hearings shall be held pursuant to section
 one thousand eighty-nine of the family court act.
-  * 11. Acceptance of surrender. Acceptance of a judicial surrender or
+  11. Acceptance of surrender. Acceptance of a judicial surrender or
 approval of an extra-judicial surrender pursuant to this section shall
 not be construed to terminate any rights of the child to contact his or
 her siblings. For purposes of this section, "siblings" shall include
 half-siblings and those who would be deemed siblings or half-siblings
 but for the surrender, termination of parental rights or death of a
 parent.
-  * NB Effective January 21, 2018
 ```

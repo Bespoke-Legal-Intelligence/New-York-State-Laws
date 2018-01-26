@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 Jan 2018.*
+*Current through the publication of 26 Jan 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 Jan 2018](changes/2018/2018-01-26.md): Civil Service Law; Executive Law; Family Court Act; Penal Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [19 Jan 2018](changes/2018/2018-01-19.md): Public Housing Law; Social Services Law; Vehicle and Traffic Law
 - [12 Jan 2018](changes/2018/2018-01-12.md): Legislative Law; Town Law; Village Law
 - [5 Jan 2018](changes/2018/2018-01-05.md): Business Corporation Law; Economic Development Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Family Court Act; General Municipal Law; New York State Constitution; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Personal Property Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; Tax Law; Town Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 Dec 2017](changes/2017/2017-12-22.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Arts and Cultural Affairs Law; Civil Service Law; Correction Law; Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Personal Property Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [15 Dec 2017](changes/2017/2017-12-15.md): Civil Service Law; Education Law; Environmental Conservation Law; Executive Law; General Municipal Law; Public Authorities Law; Public Officers Law; Retirement and Social Security Law; State Administrative Procedure Act; Tax Law
 - [8 Dec 2017](changes/2017/2017-12-08.md): Arts and Cultural Affairs Law; Canal Law; Civil Service Law; County Law; Economic Development Law; Election Law; Environmental Conservation Law; Executive Law; Insurance Law; Mental Hygiene Law; Not-for-Profit Corporation Law; Public Health Law; Public Service Law; Real Property Law; Retirement and Social Security Law; Social Services Law; Tax Law
-- [1 Dec 2017](changes/2017/2017-12-01.md): Education Law; Environmental Conservation Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Public Authorities Law; Public Health Law; Public Service Law; Social Services Law; State Technology Law; Tax Law
 
 ## Most changed in the past 12 months
 
@@ -30,17 +30,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 189 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 180 |
-| [Education Law](consolidated-laws/education-law/README.md) | 130 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 128 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 107 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 129 |
+| [Education Law](consolidated-laws/education-law/README.md) | 129 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 105 |
 | [County Law](consolidated-laws/county-law/README.md) | 103 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 86 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 76 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 71 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 71 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 71 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 74 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 70 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 68 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 62 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 67 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 61 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 55 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | 54 |
 
@@ -59,7 +59,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 8 Dec 2017 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 780 | 27 Oct 2017 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 108 | 22 Sep 2017 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 22 Dec 2017 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 26 Jan 2018 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 325 | 29 Dec 2017 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 445 | 8 Dec 2017 |
@@ -75,7 +75,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,709 | 5 Jan 2018 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 5 Jan 2018 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 5 Jan 2018 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 26 Jan 2018 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,206 | 22 Dec 2017 |
@@ -103,12 +103,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 258 | 5 Jan 2018 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 176 | 5 Jan 2018 |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 25 Nov 2016 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 861 | 17 Nov 2017 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 861 | 26 Jan 2018 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 5 Jan 2018 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 431 | 22 Dec 2017 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,129 | 5 Jan 2018 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 51 | 17 Nov 2017 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,634 | 5 Jan 2018 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,634 | 26 Jan 2018 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 329 | 19 Jan 2018 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 2 Dec 2016 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 15 Dec 2017 |
@@ -123,10 +123,10 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 542 | 22 Dec 2017 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 44 | no change since 22 Sep 2014 (start of history) |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | no change since 22 Sep 2014 (start of history) |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 693 | 19 Jan 2018 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 693 | 26 Jan 2018 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 28 Apr 2017 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | 22 Dec 2017 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 510 | 29 Dec 2017 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 510 | 26 Jan 2018 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 96 | 11 Mar 2016 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 1 Dec 2017 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
@@ -135,7 +135,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 5 Jan 2018 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 16 Sep 2016 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 915 | 19 Jan 2018 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 915 | 26 Jan 2018 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 12 Jan 2018 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 11 Nov 2016 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | 11 Nov 2016 |
@@ -183,7 +183,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 28 Apr 2017 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 5 Jan 2018 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 26 Jan 2018 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 4 Sep 2015 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 33 | 28 Apr 2017 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 29 Jul 2016 |
