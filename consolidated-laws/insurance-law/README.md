@@ -8,7 +8,7 @@
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
 | Sections | 1,011 |
-| Last changed | 29 Dec 2017 |
+| Last changed | 2 Feb 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -33,6 +33,7 @@ ARTICLE   1. General provisions. (§§ 101-110)
 
 ## Recent changes
 
+- [2 Feb 2018](../../changes/2018/2018-02-02.md): 3 amended
 - [29 Dec 2017](../../changes/2017/2017-12-29.md): 2 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 1 amended
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 1 amended
@@ -42,7 +43,6 @@ ARTICLE   1. General provisions. (§§ 101-110)
 - [14 Jul 2017](../../changes/2017/2017-07-14.md): 9 amended
 - [7 Jul 2017](../../changes/2017/2017-07-07.md): 9 amended
 - [30 Jun 2017](../../changes/2017/2017-06-30.md): 7 amended
-- [23 Jun 2017](../../changes/2017/2017-06-23.md): 1 amended
 
 ## Contents
 
