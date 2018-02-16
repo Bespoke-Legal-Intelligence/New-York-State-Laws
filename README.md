@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 2 Feb 2018.*
+*Current through the publication of 16 Feb 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [16 Feb 2018](changes/2018/2018-02-16.md): Alcoholic Beverage Control Law
 - [2 Feb 2018](changes/2018/2018-02-02.md): Civil Practice Law and Rules; Insurance Law; Mental Hygiene Law; Public Health Law
 - [26 Jan 2018](changes/2018/2018-01-26.md): Civil Service Law; Executive Law; Family Court Act; Penal Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [19 Jan 2018](changes/2018/2018-01-19.md): Public Housing Law; Social Services Law; Vehicle and Traffic Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [5 Jan 2018](changes/2018/2018-01-05.md): Business Corporation Law; Economic Development Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Family Court Act; General Municipal Law; New York State Constitution; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Personal Property Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; Tax Law; Town Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
 - [29 Dec 2017](changes/2017/2017-12-29.md): Agriculture and Markets Law; Correction Law; Insurance Law; Public Health Law; Public Housing Law; State Finance Law
 - [22 Dec 2017](changes/2017/2017-12-22.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Arts and Cultural Affairs Law; Civil Service Law; Correction Law; Criminal Procedure Law; Economic Development Law; Education Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Personal Property Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Service Law; Real Property Tax Law; Retirement and Social Security Law; Social Services Law; State Administrative Procedure Act; State Finance Law; Tax Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
-- [15 Dec 2017](changes/2017/2017-12-15.md): Civil Service Law; Education Law; Environmental Conservation Law; Executive Law; General Municipal Law; Public Authorities Law; Public Officers Law; Retirement and Social Security Law; State Administrative Procedure Act; Tax Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Tax Law](consolidated-laws/tax-law/README.md) | 189 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 187 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 181 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 129 |
-| [Education Law](consolidated-laws/education-law/README.md) | 129 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 128 |
+| [Education Law](consolidated-laws/education-law/README.md) | 126 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 105 |
 | [County Law](consolidated-laws/county-law/README.md) | 103 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 86 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 76 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 74 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 70 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 70 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 68 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 67 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 65 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 61 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 55 |
-| [Correction Law](consolidated-laws/correction-law/README.md) | 54 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | 53 |
 
 ## Consolidated Laws
 
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 667 | 29 Dec 2017 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 22 Dec 2017 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 172 | 16 Feb 2018 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 251 | 22 Dec 2017 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 837 | 27 Oct 2017 |
