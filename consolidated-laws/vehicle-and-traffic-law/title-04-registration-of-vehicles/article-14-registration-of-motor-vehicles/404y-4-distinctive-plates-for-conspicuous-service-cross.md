@@ -25,5 +25,4 @@ registration fee prescribed by section four hundred one of this article;
 provided, however, that an additional, one-time service charge of ten
 dollars shall be charged for such plate.
   * NB There are 6 § 404-y's
-  * NB Effective February 17, 2018
 ```

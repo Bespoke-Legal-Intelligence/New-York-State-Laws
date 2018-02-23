@@ -70,12 +70,11 @@ deem necessary to assist him in exhuming, removing, obtaining possession
 of and examining physically or chemically such dead body or any portion
 thereof. The expense therefor shall be a county charge, to be paid by
 the county treasurer on the certificate of the district attorney.
-  * 5. When an autopsy of the body is conducted of a deceased human who
+  5. When an autopsy of the body is conducted of a deceased human who
 has epilepsy or a history of seizures it shall include an investigation
 and determinations as to whether the deceased suffered a sudden
 unexpected death in epilepsy. In the event the deceased did suffer a
 sudden, unexpected death in epilepsy, such information shall be noted on
 the death certificate and be reported to the North American SUDEP
 Registry.
-  * NB Effective February 17, 2018
 ```

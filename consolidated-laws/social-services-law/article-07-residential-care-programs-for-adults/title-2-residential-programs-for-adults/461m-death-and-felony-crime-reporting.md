@@ -4,19 +4,7 @@
 [Social Services Law](../../README.md) › [Article 7 — Residential Care Programs For Adults and Children](../README.md) › [Title 2 — Residential Programs For Adults](README.md)
 
 ```text
-  * § 461-m. Death and felony crime reporting. The operator of an adult
-home or residence for adults shall have an affirmative duty to report
-any death, or attempted suicide of a resident to the department within
-twenty-four hours of its occurrence, and shall also have an affirmative
-duty to report to an appropriate law enforcement authority if it is
-believed that a felony crime may have been committed against a resident
-of such facility as soon as possible, or in any event within forty-eight
-hours. In addition, the operator shall send any reports involving a
-resident who had at any time received services from a mental hygiene
-service provider to the justice center for the protection of people with
-special needs.
-  * NB Effective until February 16, 2018
-  * § 461-m. Death and felony crime reporting. The operator of an adult
+  § 461-m. Death and felony crime reporting. The operator of an adult
 home, enriched housing program or residence for adults shall have an
 affirmative duty to report any death, or attempted suicide of a resident
 to the department of health within twenty-four hours of its occurrence,
@@ -32,5 +20,4 @@ service provider to the justice center for the protection of people with
 special needs within twenty-four hours of the occurrence of the death or
 attempted suicide or of the discovery of an incident that the operator
 believed or reasonably should have believed to be a felony crime.
-  * NB Effective February 16, 2018
 ```

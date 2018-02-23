@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 159 — Speech-language Pathologists and Audiologists](README.md)
 
 ```text
-  * § 8206-a. Limited license. 1. The department shall issue a limited
+  § 8206-a. Limited license. 1. The department shall issue a limited
 license to an applicant for a license as a speech-language pathologist
 who meets all requirements set forth in this section.
   2. Any person engaging in clinical or academic practice under the
@@ -20,5 +20,4 @@ for additional one year periods until such time as may be necessary to
 complete an experience requirement for a professional license as a
 speech-language pathologist.
   5. The fee for a limited license shall be seventy dollars.
-  * NB Effective February 17, 2018
 ```
