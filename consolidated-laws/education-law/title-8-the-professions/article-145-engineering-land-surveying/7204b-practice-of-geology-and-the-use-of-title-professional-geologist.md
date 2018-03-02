@@ -4,9 +4,8 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 145 — Engineering, Land Surveying and Geology](README.md)
 
 ```text
-  * § 7204-b. Practice of geology and the use of title "professional
+  § 7204-b. Practice of geology and the use of title "professional
 geologist". Only a person licensed or otherwise authorized under this
 article shall practice geology or use the title "professional
 geologist".
-  * NB Effective March 1, 2018
 ```

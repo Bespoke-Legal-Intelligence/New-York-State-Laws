@@ -4,7 +4,7 @@
 [Social Services Law](../README.md) › [Article 10-C — State Council On Children and Families](README.md)
 
 ```text
-  * § 483-h. List of child care providers. 1. The council, in accordance
+  § 483-h. List of child care providers. 1. The council, in accordance
 with information made available to it by the office of children and
 family services pursuant to section seventeen of this chapter and
 provided to it by the state education department pursuant to section
@@ -35,5 +35,4 @@ expiration of contracts with grant recipients when all such contracts
 are executing or expiring for a particular competitive grant.
   4. The council may include locations and information for additional
 relevant programs as it sees fit.
-  * NB Effective February 27, 2018
 ```

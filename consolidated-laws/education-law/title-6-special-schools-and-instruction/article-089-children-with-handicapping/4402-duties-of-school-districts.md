@@ -943,7 +943,7 @@ twenty-one provided the notification shall also contain the name and
 contact information for the chairperson of the school district's
 committee on special education or other individual who is charged with
 processing referrals to the committee in the district.
-  * 9. The board of education or the board of trustees of each school
+  9. The board of education or the board of trustees of each school
 district shall establish a policy and adopt procedures to allow any
 student with a disability in such district to participate in the
 graduation ceremony of the student's high school graduating class and
@@ -965,5 +965,4 @@ special education as well as the student's own expressed preference. For
 purposes of this subdivision, a student's high school graduating class
 shall be the twelfth grade class with which such student with a
 disability entered into ninth grade.
-  * NB Effective February 27, 2018
 ```
