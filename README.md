@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 2 Mar 2018.*
+*Current through the publication of 9 Mar 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [9 Mar 2018](changes/2018/2018-03-09.md): Election Law
 - [2 Mar 2018](changes/2018/2018-03-02.md): Education Law; Social Services Law; State Technology Law; Tax Law
 - [23 Feb 2018](changes/2018/2018-02-23.md): County Law; Education Law; Public Health Law; Public Housing Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [16 Feb 2018](changes/2018/2018-02-16.md): Alcoholic Beverage Control Law
@@ -22,19 +23,18 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [26 Jan 2018](changes/2018/2018-01-26.md): Civil Service Law; Executive Law; Family Court Act; Penal Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [19 Jan 2018](changes/2018/2018-01-19.md): Public Housing Law; Social Services Law; Vehicle and Traffic Law
 - [12 Jan 2018](changes/2018/2018-01-12.md): Legislative Law; Town Law; Village Law
-- [5 Jan 2018](changes/2018/2018-01-05.md): Business Corporation Law; Economic Development Law; Elder Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Family Court Act; General Municipal Law; New York State Constitution; Not-for-Profit Corporation Law; Parks, Recreation and Historic Preservation Law; Personal Property Law; Public Authorities Law; Public Health Law; Real Property Tax Law; Social Services Law; Tax Law; Town Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Tax Law](consolidated-laws/tax-law/README.md) | 188 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 176 |
-| [Education Law](consolidated-laws/education-law/README.md) | 132 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 128 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 187 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 175 |
+| [Education Law](consolidated-laws/education-law/README.md) | 130 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 127 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 106 |
 | [County Law](consolidated-laws/county-law/README.md) | 104 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 86 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 81 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 78 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 76 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 70 |
@@ -69,7 +69,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 5 Jan 2018 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,878 | 2 Mar 2018 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 44 | 5 Jan 2018 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 395 | 5 Jan 2018 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 395 | 9 Mar 2018 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
