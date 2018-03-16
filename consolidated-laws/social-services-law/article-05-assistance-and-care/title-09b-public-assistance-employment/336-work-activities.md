@@ -15,17 +15,12 @@ following:
 (including work associated with refurbishing publicly assisted housing)
 if sufficient private sector employment is not available;
   (e) On-the-job training;
-  * (f) job search and job readiness assistance, provided that job
-search is an active and continuing effort to secure employment
-configured by the local social services official;
-  * NB Effective until March 11, 2018
-  * (f) job search and job readiness assistance, provided that job
-search is an active and continuing effort to secure employment
-configured by the local social services official; and such social
-services district may work in cooperation with the department of labor
-to provide workforce guidance and information in accordance with section
-ten-c of the labor law;
-  * NB Effective March 11, 2018
+  (f) job search and job readiness assistance, provided that job search
+is an active and continuing effort to secure employment configured by
+the local social services official; and such social services district
+may work in cooperation with the department of labor to provide
+workforce guidance and information in accordance with section ten-c of
+the labor law;
   (g) community service programs provided, however, the number of hours
 a participant in community service activities authorized pursuant to
 this section shall be required to work in such assignment shall not
