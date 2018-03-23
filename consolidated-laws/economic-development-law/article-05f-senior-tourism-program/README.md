@@ -12,11 +12,10 @@
 <summary>Official heading of Article 5-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 5-F
+                               ARTICLE 5-F
                          SENIOR TOURISM PROGRAM
 Section 181-f. Definitions.
         181-g. Senior tourism program.
-  * NB Effective March 18, 2018
 ```
 
 </details>

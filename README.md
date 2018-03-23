@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 16 Mar 2018.*
+*Current through the publication of 23 Mar 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [23 Mar 2018](changes/2018/2018-03-23.md): Civil Service Law; Economic Development Law; Executive Law; General Municipal Law; Labor Law
 - [16 Mar 2018](changes/2018/2018-03-16.md): Agriculture and Markets Law; Education Law; Election Law; Executive Law; Military Law; Not-for-Profit Corporation Law; Social Services Law
 - [9 Mar 2018](changes/2018/2018-03-09.md): Election Law
 - [2 Mar 2018](changes/2018/2018-03-02.md): Education Law; Social Services Law; State Technology Law; Tax Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [16 Feb 2018](changes/2018/2018-02-16.md): Alcoholic Beverage Control Law
 - [2 Feb 2018](changes/2018/2018-02-02.md): Civil Practice Law and Rules; Insurance Law; Mental Hygiene Law; Public Health Law
 - [26 Jan 2018](changes/2018/2018-01-26.md): Civil Service Law; Executive Law; Family Court Act; Penal Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
-- [19 Jan 2018](changes/2018/2018-01-19.md): Public Housing Law; Social Services Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 187 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 175 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 173 |
 | [Education Law](consolidated-laws/education-law/README.md) | 130 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 126 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 106 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 124 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 105 |
 | [County Law](consolidated-laws/county-law/README.md) | 104 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 81 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 80 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 79 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 76 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 70 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 67 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 65 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 69 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 68 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 63 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 61 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 55 |
-| [Correction Law](consolidated-laws/correction-law/README.md) | 52 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | 51 |
 
 ## Consolidated Laws
 
@@ -59,14 +59,14 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 8 Dec 2017 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 780 | 2 Feb 2018 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 108 | 22 Sep 2017 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 26 Jan 2018 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 23 Mar 2018 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 325 | 29 Dec 2017 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 445 | 23 Feb 2018 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 574 | 22 Dec 2017 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 21 Jul 2017 |
-| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 5 Jan 2018 |
+| [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 23 Mar 2018 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,878 | 16 Mar 2018 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 44 | 5 Jan 2018 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 395 | 16 Mar 2018 |
@@ -75,19 +75,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,709 | 5 Jan 2018 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 5 Jan 2018 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 16 Mar 2018 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 23 Mar 2018 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,206 | 22 Dec 2017 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 7 Jul 2017 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,073 | 5 Jan 2018 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,073 | 23 Mar 2018 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 202 | 27 Oct 2017 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 583 | 22 Sep 2017 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 4 Aug 2017 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,011 | 2 Feb 2018 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 523 | 22 Dec 2017 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 674 | 22 Dec 2017 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 674 | 23 Mar 2018 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 12 Jan 2018 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 4 Dec 2015 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 118 | 25 Nov 2016 |

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Civil Service Law § 159-C", "kind": "section", "law_id": "CVS", "location_id": "159-C", "path": "ARTICLE 10 › SECTION 159-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/159-C.md", "title": "Excused leave to undertake a screening for prostate cancer"} -->
+﻿<!-- nyslaw {"citation": "Civil Service Law § 159-C", "kind": "section", "law_id": "CVS", "location_id": "159-C", "path": "ARTICLE 10 › SECTION 159-C", "repealed": true, "repealed_date": "2018-03-23", "source": "nys-laws:CVS/159-C.md", "title": "Excused leave to undertake a screening for prostate cancer"} -->
 # Civil Service Law § 159-C — Excused leave to undertake a screening for prostate cancer
 
 [Civil Service Law](../README.md) › [Article 10 — Miscellaneous Provisions](README.md)
+
+**Repealed** (23 Mar 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 159-c. Excused leave to undertake a screening for prostate cancer.

@@ -4,7 +4,7 @@
 [Economic Development Law](../README.md) › [Article 5-F — Senior Tourism Program](README.md)
 
 ```text
-  * § 181-g. Senior tourism program. 1. The commissioner, in conjunction
+  § 181-g. Senior tourism program. 1. The commissioner, in conjunction
 with the commissioner of parks, recreation and historic preservation,
 and the director of the office for the aging and in consultation with
 applicable local government officials shall develop and implement a
@@ -23,5 +23,4 @@ attractions in such program. Such information shall be publicly
 available and posted on the websites of the department, the office of
 parks, recreation and historic preservation, and the office for the
 aging.
-  * NB Effective March 18, 2018
 ```
