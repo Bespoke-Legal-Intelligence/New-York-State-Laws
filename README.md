@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 23 Mar 2018.*
+*Current through the publication of 30 Mar 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [30 Mar 2018](changes/2018/2018-03-30.md): Environmental Conservation Law; Public Health Law
 - [23 Mar 2018](changes/2018/2018-03-23.md): Civil Service Law; Economic Development Law; Executive Law; General Municipal Law; Labor Law
 - [16 Mar 2018](changes/2018/2018-03-16.md): Agriculture and Markets Law; Education Law; Election Law; Executive Law; Military Law; Not-for-Profit Corporation Law; Social Services Law
 - [9 Mar 2018](changes/2018/2018-03-09.md): Election Law
@@ -22,21 +23,20 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [23 Feb 2018](changes/2018/2018-02-23.md): County Law; Education Law; Public Health Law; Public Housing Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 - [16 Feb 2018](changes/2018/2018-02-16.md): Alcoholic Beverage Control Law
 - [2 Feb 2018](changes/2018/2018-02-02.md): Civil Practice Law and Rules; Insurance Law; Mental Hygiene Law; Public Health Law
-- [26 Jan 2018](changes/2018/2018-01-26.md): Civil Service Law; Executive Law; Family Court Act; Penal Law; Public Health Law; Social Services Law; State Finance Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 187 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 173 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 174 |
 | [Education Law](consolidated-laws/education-law/README.md) | 130 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 124 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 105 |
 | [County Law](consolidated-laws/county-law/README.md) | 104 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 81 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 79 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 76 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 78 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 69 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 68 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 63 |
@@ -73,7 +73,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,709 | 5 Jan 2018 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,709 | 30 Mar 2018 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 5 Jan 2018 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 868 | 23 Mar 2018 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 431 | 22 Dec 2017 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,129 | 5 Jan 2018 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 51 | 17 Nov 2017 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,634 | 23 Feb 2018 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,634 | 30 Mar 2018 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 329 | 23 Feb 2018 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 2 Dec 2016 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 113 | 15 Dec 2017 |
