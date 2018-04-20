@@ -9,7 +9,7 @@
 - [§ 3102 Powers and duties of the corporation](3102-powers-and-duties-of-the-corporation.md)
 - [§ 3102-A Industrial technology extension service](3102a-industrial-technology-extension-service.md)
 - [§ 3102-B Centers for advanced technology](3102b-centers-for-advanced-technology.md)
-- [§ 3102-C Small business innovation research program](3102c-small-business-innovation-research-program.md)
+- [§ 3102-C Small business innovation research program](3102c-small-business-innovation-research-program.md) *(repealed)*
 - [§ 3102-D Technology development organization program](3102d-technology-development-organization-program.md)
 - [§ 3102-E Emerging technology industrial classifications](3102e-emerging-technology-industrial-classifications.md)
 - [§ 3102-F Science and technology law center](3102f-science-and-technology-law-center.md)
@@ -32,7 +32,6 @@ Section 3101.   Purposes of the corporation.
         3102.   Powers and duties of the corporation.
         3102-a. Industrial technology extension service.
         3102-b. Centers for advanced technology.
-        3102-c. Small business innovation research program.
         3102-d. Technology development organization program.
         3102-e. Emerging technology industrial classifications.
         3102-f. Science and technology law center.

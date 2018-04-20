@@ -50,4 +50,22 @@ registered pursuant to subdivision four of section sixty-eight hundred
 eight of the education law at a price which is equal to or less than the
 maximum allowable cost for that drug as determined by the pharmacy
 benefit manager.
+  3. No pharmacy benefit manager shall, with respect to contracts
+between such pharmacy benefit manager and a pharmacy or, alternatively,
+such pharmacy benefit manager and a pharmacy's contracting agent, such
+as a pharmacy services administrative organization:
+  (a) prohibit or penalize a pharmacist or pharmacy from disclosing to
+an individual purchasing a prescription medication information
+regarding:
+  (1) the cost of the prescription medication to the individual, or
+  (2) the availability of any therapeutically equivalent alternative
+medications or alternative methods of purchasing the prescription
+medication, including but not limited to, paying a cash price; or
+  (b) charge or collect from an individual a copayment that exceeds the
+total submitted charges by the pharmacy for which the pharmacy is paid.
+If an individual pays a copayment, the pharmacy shall retain the
+adjudicated costs and the pharmacy benefit manager shall not redact or
+recoup the adjudicated cost.
+  4. Any provision of a contract that violates the provisions of this
+section shall be deemed to be void and unenforceable.
 ```

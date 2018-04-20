@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "General Business Law § 1311", "kind": "section", "law_id": "GBS", "location_id": "1311", "path": "ARTICLE 43 › SECTION 1311", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/1311.md", "title": "Payments"} -->
+# General Business Law § 1311 — Payments
+
+[General Business Law](../README.md) › [Article 43 — New York State Secure Choice Savings Program](README.md)
+
+```text
+  § 1311. Payments. Employee contributions deducted by the participating
+employer through payroll deduction shall be remitted by the
+participating employer to the program using one or more payroll
+deduction IRAs established or authorized by the board under this
+article, either:
+  1. on or before the last day of the month following the month in which
+the compensation otherwise would have been payable to the employee in
+cash; or
+  2. before such later deadline prescribed by the board for making such
+payments, but not later than the due date for the deposit of tax
+required to be deducted and withheld relating to collection of income
+tax at source on wages or for the deposit of tax required to be paid
+under the unemployment insurance system for the payroll period to which
+such payments relate.
+```

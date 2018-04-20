@@ -219,11 +219,11 @@ amount established by the commissioner of health pursuant to paragraph
   (h) speech therapy, and when provided at the direction of a physician
 or nurse practitioner, physical therapy including related rehabilitative
 services and occupational therapy; provided, however, that speech
-therapy, physical therapy and occupational therapy each shall be limited
-to coverage of twenty visits per year; such limitation shall not apply
-to persons with developmental disabilities or, notwithstanding any other
-provision of law to the contrary, to persons with traumatic brain
-injury;
+therapy and occupational therapy each shall be limited to coverage of
+twenty visits per year; physical therapy shall be limited to coverage of
+forty visits per year; such limitation shall not apply to persons with
+developmental disabilities or, notwithstanding any other provision of
+law to the contrary, to persons with traumatic brain injury;
   (i) laboratory and x-ray services; and
   (j) transportation when essential and appropriate to obtain medical
 care, services and supplies otherwise available under the medical
@@ -245,13 +245,13 @@ to eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 approved by the department which meets the requirements of federal law
 and regulations.
-  * NB Effective until December 31, 2019
+  * NB Effective until December 31, 2024
   * (k) care and services furnished by an entity offering a
 comprehensive health services plan to eligible individuals residing in
 the geographic area served by such entity, when such services are
 furnished in accordance with an agreement approved by the department
 which meets the requirements of federal law and regulations.
-  * NB Effective December 31, 2019
+  * NB Effective December 31, 2024
   (l) care and services of podiatrists which care and services shall
 only be provided upon referral by a physician, nurse practitioner or
 certified nurse midwife in accordance with the program of early and
@@ -297,7 +297,7 @@ eligible individuals residing in the geographic area served by such
 entity, when such services are furnished in accordance with an agreement
 with the department of health and meet the applicable requirements of
 federal law and regulation.
-  * NB Repealed December 31, 2019
+  * NB Repealed December 31, 2024
   (p) targeted case management services provided to children who
   (i) are eighteen years of age or under; and
   (ii) either
@@ -559,6 +559,10 @@ and drug administration.
 title XVIII of the federal social security act, drugs which are
 denominated as "covered part D drugs" under section 1860D-2(e) of such
 act.
+  (h) opioids prescribed in violation of the treatment plan standards of
+subdivision eight of section thirty-three hundred thirty-one of the
+public health law or treatment plan standards as otherwise required by
+the commissioner.
   5. (a) Medical assistance shall include surgical benefits for
 emergency or urgent surgery for the alleviation of severe pain, for
 immediate diagnosis or treatment of conditions which threaten disability

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,206 |
-| Last changed | 22 Dec 2017 |
+| Sections | 1,223 |
+| Last changed | 20 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (166 lines)](chapter-text.md)
+[Full chapter text (168 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Apr 2018](../../changes/2018/2018-04-20.md): 19 added, 2 removed
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 5 amended, 1 added
 - [1 Dec 2017](../../changes/2017/2017-12-01.md): 2 amended, 1 added
 - [17 Nov 2017](../../changes/2017/2017-11-17.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [17 Mar 2017](../../changes/2017/2017-03-17.md): 6 amended
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 10 amended
 - [30 Dec 2016](../../changes/2016/2016-12-30.md): 2 amended
-- [2 Dec 2016](../../changes/2016/2016-12-02.md): 2 amended
 
 ## Contents
 
@@ -167,4 +167,5 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
 - [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
-- [Article 43 — Laws Repealed; When to Take Effect](article-43-laws-repealed-when-to-take-effect/)
+- [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
+- [Article 46 — Article 43 Laws Repealed; When to Take Effect](article-46-article-43-laws-repealed-when-to-take-effect/)

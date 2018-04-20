@@ -32,4 +32,11 @@ cost of such programs.
 (B) of subparagraph (iii) of paragraph (e) of subdivision one of section
 twenty-eight hundred seven-c of this chapter shall apply to hospices.
   * NB Effective July 1, 2017
+  5. The commissioner shall establish a methodology as of July first,
+two thousand eighteen subject to federal financial participation that
+shall ensure a prospective ten-percent increase in the medicaid
+reimbursement rates for hospice providers, relative to the reimbursement
+rate, as of March thirty-first, two thousand eighteen, for services
+provided by such providers on and after April first, two thousand
+eighteen.
 ```

@@ -23,7 +23,9 @@
 - [§ 15 Validation of official acts performed before filing official oath or undertaking](15-validation-of-official-acts-performed-before-filing-official-oath.md)
 - [§ 16 Qualifications of certain judicial officers in cities of the first class](16-qualifications-of-certain-judicial-officers-in-cities-of-the-first-class.md)
 - [§ 17 Defense and indemnification of state officers and employees](17-defense-and-indemnification-of-state-officers-and-employees.md)
+- [§ 17-A Reimbursement of funds paid by state agencies and state entities for the payment of awards adjudicated in sexual harassment claims](17a-reimbursement-of-funds-paid-by-state-agencies-and-state-entities.md)
 - [§ 18 Defense and indemnification of officers and employees of public entities](18-defense-and-indemnification-of-officers-and-employees-of-public-entities.md)
+- [§ 18-A Reimbursement of funds paid by a public entity for the payment of awards adjudicated in sexual harassment claims](18a-reimbursement-of-funds-paid-by-a-public-entity-for-the-payment-of-awards.md)
 - [§ 19 Reimbursement of defense costs incurred by or on behalf of state employees](19-reimbursement-of-defense-costs-incurred-by-or-on-behalf-of-state-employees.md)
 
 <details>
@@ -57,8 +59,14 @@ Section  3.   Qualifications for holding office.
                 the first class.
         17.   Defense and indemnification of state officers and
                 employees.
+        17-a. Reimbursement of funds paid by state agencies and state
+                entities for the payment of awards adjudicated in sexual
+                harassment claims.
         18.   Defense and indemnification of officers and employees of
                 public entities.
+        18-a. Reimbursement of funds paid by a public entity for the
+                payment of awards adjudicated in sexual harassment
+                claims.
         19.   Reimbursement of defense costs incurred by or on behalf of
                 state employees.
 ```

@@ -26,6 +26,7 @@
 - [§ 139-I Obligations with respect to procurement contracts with New York state and foreign business enterprises](139i-obligations-with-respect-to-procurement-contracts-with-new-york-state.md)
 - [§ 139-J Restrictions on contacts during the procurement process](139j-restrictions-on-contacts-during-the-procurement-process.md)
 - [§ 139-K Disclosure of contacts and responsibility of offerers](139k-disclosure-of-contacts-and-responsibility-of-offerers.md)
+- [§ 139-L Statement on sexual harassment, in bids](139l-statement-on-sexual-harassment-in-bids.md)
 - [§ 140 Disposition of deposit accompanying bid](140-disposition-of-deposit-accompanying-bid.md)
 - [§ 141 Claims against contractors](141-claims-against-contractors.md)
 - [§ 142 Workmen's compensation insurance on public works](142-workmens-compensation-insurance-on-public-works.md)
@@ -68,6 +69,7 @@ Section 135.   Separate specifications for contract work for the state.
                  New York state and foreign business enterprises.
         139-j. Restrictions on contacts during the procurement process.
         139-k. Disclosure of contacts and responsibility of offerers.
+        139-l. Statement on sexual harassment, in bids.
         140.   Disposition of deposit accompanying bid.
         141.   Claims against contractors.
         142.   Workmen's compensation insurance on public works.

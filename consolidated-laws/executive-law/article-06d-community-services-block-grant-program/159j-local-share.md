@@ -4,11 +4,12 @@
 [Executive Law](../README.md) › [Article 6-D — Community Services Block Grant Program](README.md)
 
 ```text
-  § 159-j. Local share. Each recipient of funds shall secure a local
+  * § 159-j. Local share. Each recipient of funds shall secure a local
 share equivalent to twenty-five percent of federal funds received under
 the community services block grant. Such local share may be in cash or
 in kind, fairly evaluated including but not limited to donated plant,
 equipment and services. The secretary may waive all or part of this
 requirement upon an application made and upon good cause shown by the
 recipient.
+  * NB Repealed October 1, 2018
 ```

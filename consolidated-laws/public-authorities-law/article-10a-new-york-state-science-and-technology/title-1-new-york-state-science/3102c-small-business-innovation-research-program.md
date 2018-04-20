@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Authorities Law § 3102-C", "kind": "section", "law_id": "PBA", "location_id": "3102-C", "path": "ARTICLE 10-A › TITLE 1 › SECTION 3102-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/3102-C.md", "title": "Small business innovation research program"} -->
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 3102-C", "kind": "section", "law_id": "PBA", "location_id": "3102-C", "path": "ARTICLE 10-A › TITLE 1 › SECTION 3102-C", "repealed": true, "repealed_date": "2018-04-20", "source": "nys-laws:PBA/3102-C.md", "title": "Small business innovation research program"} -->
 # Public Authorities Law § 3102-C — Small business innovation research program
 
 [Public Authorities Law](../../README.md) › [Article 10-A — New York State Science and Technology](../README.md) › [Title 1 — New York State Science and Technology Foundation](README.md)
+
+**Repealed** (20 Apr 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3102-c. Small business innovation research program. 1. As used in

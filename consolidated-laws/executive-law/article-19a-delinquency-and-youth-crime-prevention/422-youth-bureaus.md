@@ -45,7 +45,7 @@ with a total youth population of twenty-five thousand or less shall be
 required under this article, or for purposes of receiving state aid
 hereunder, to employ a full time executive director for their respective
 proposed or approved youth programs, as the case may be.
-  * NB Effective until December 31, 2018
+  * NB Effective until December 31, 2021
   * § 422. Youth bureaus; recreation and youth service projects; and
 other youth programs. 1. Any county or city, or any town or village with
 a total population of twenty thousand or more persons desiring to
@@ -107,5 +107,5 @@ twenty-five thousand or less residing in such city, town or village
 shall be required under this article, or for purposes of receiving state
 aid hereunder, to employ a full time executive director for their
 respective proposed or approved youth programs, as the case may be.
-  * NB Effective December 31, 2018
+  * NB Effective December 31, 2021
 ```

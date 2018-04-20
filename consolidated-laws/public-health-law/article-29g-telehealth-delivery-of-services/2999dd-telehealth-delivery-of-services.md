@@ -4,7 +4,22 @@
 [Public Health Law](../README.md) › [Article 29-G — Telehealth Delivery of Services](README.md)
 
 ```text
-  § 2999-dd. Telehealth delivery of services. Health care services
+  * § 2999-dd. Telehealth delivery of services. Health care services
 delivered by means of telehealth shall be entitled to reimbursement
 under section three hundred sixty-seven-u of the social services law.
+  * NB Effective until July 11, 2018
+  * § 2999-dd. Telehealth delivery of services. 1. Health care services
+delivered by means of telehealth shall be entitled to reimbursement
+under section three hundred sixty-seven-u of the social services law.
+  2. The department of health, the office of mental health, the office
+of alcoholism and substance abuse services, and the office for people
+with developmental disabilities shall coordinate on the issuance of a
+single guidance document, to be updated as appropriate, that shall: (a)
+identify any differences in regulations or policies issued by the
+agencies, including with respect to reimbursement pursuant to section
+three hundred sixty-seven-u of the social services law; and (b) be
+designed to assist consumers, providers, and health plans in
+understanding and facilitating the appropriate use of telehealth in
+addressing barriers to care.
+  * NB Effective July 11, 2018
 ```

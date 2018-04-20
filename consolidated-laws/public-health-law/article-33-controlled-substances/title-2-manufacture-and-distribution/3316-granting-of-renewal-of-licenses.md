@@ -4,13 +4,19 @@
 [Public Health Law](../../README.md) › [Article 33 — Controlled Substances](../README.md) › [Title 2 — Manufacture and Distribution of Controlled Substances](README.md)
 
 ```text
-  § 3316. Granting of renewal of licenses.  1. The commissioner shall
+  § 3316. Granting of renewal of licenses. 1. The commissioner shall
 renew a license unless he determines and finds that the applicant:
   (a) is unlikely to maintain or be able to maintain effective control
 against diversion; or
   (b) is unlikely to comply with all federal and state laws applicable
 to the manufacture or distribution of the controlled substance or
 substances for which the license is sought.
+  * (c) is unlikely during the period of his or her license to complete
+the reports or to pay the ratable share required by title two-A of this
+article on or before the required date. Prior evidence of non-compliance
+shall constitute substantial evidence of such.
+  * NB Effective July 11, 2018
+  * NB Repealed June 30, 2024
   2. For purposes of this section, proof that a licensee, during the
 period of his license, has failed to maintain effective control against
 diversion or has knowingly or negligently failed to comply with

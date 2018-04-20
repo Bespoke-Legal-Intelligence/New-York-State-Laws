@@ -26,22 +26,23 @@ other authorized federal funding for such services designed to assist
 persons in acquiring, retaining, and improving the self-help,
 socialization, and adaptive skills necessary to reside successfully in
 home and community based settings.
-  (d) "Health and long term care services" means services, whether
-provided by state-operated programs or not-for-profit entities,
+  (d) "Health and long term care services" means comprehensive health
+services and other services as determined by the commissioner and the
+commissioner of the office for people with developmental disabilities,
+whether provided by state-operated programs or not-for-profit entities,
 including, but not limited to, habilitation services, home and
 community-based and institution-based long term care services, and
 ancillary services, that shall include medical supplies and nutritional
 supplements, that are necessary to meet the needs of persons whom the
-plan is authorized to enroll, and may include primary care and acute
-care if the DISCO is authorized to provide or arrange for such services.
-Each person enrolled in a DISCO shall receive health and long term care
-services designed to achieve person-centered outcomes, to enable that
-person to live in the most integrated setting appropriate to that
-person's needs, and to enable that person to interact with nondisabled
-persons to the fullest extent possible in social, workplace and other
-community settings, provided that all such services are consistent with
-such person's wishes to the extent that such wishes are known and in
-accordance with such person's needs.
+plan is authorized to enroll. Each person enrolled in a DISCO shall
+receive health and long term care services designed to achieve
+person-centered outcomes, to enable that person to live in the most
+integrated setting appropriate to that person's needs, and to enable
+that person to interact with nondisabled persons to the fullest extent
+possible in social, workplace and other community settings, provided
+that all such services are consistent with such person's wishes to the
+extent that such wishes are known and in accordance with such person's
+needs.
   2. Approval authority. An applicant shall be issued a certificate of
 authority as a DISCO for purposes of participating in the people first
 waiver program pursuant to section 13.40 of the mental hygiene law upon
@@ -59,7 +60,11 @@ but not be limited to:
   (a) A description of the service area proposed to be served by the
 DISCO with projections of enrollment that will result in a fiscally
 sound plan;
-  (b) A description of the services to be covered by such DISCO;
+  (b) A description of the services to be covered by such DISCO, which
+must include all health and long term care services, as defined in
+paragraph (d) of subdivision one of this section, and other services as
+determined by the commissioner and the commissioner of the office for
+people with developmental disabilities;
   (c) A description of the proposed marketing plan and how marketing
 materials will be presented to persons with developmental disabilities
 or their authorized decision makers for the purposes of enabling them to
@@ -151,7 +156,10 @@ coordination including, but not limited to, measures to support sound
 clinical decisions, reduce administrative complexity, coordinate access
 to services, maximize benefits available pursuant to such title and
 ensure that necessary care is provided;
-  (j) Readiness and capability to arrange and manage covered services;
+  (j) Readiness and capability of organizing, marketing, managing,
+promoting and operating a health and long term care services plan, or
+has an affiliation agreement with an entity that has such readiness and
+capability;
   (k) Willingness and capability of taking, or cooperating in, all steps
 necessary to secure and integrate any potential sources of funding for
 services provided by or through the DISCO, including, but not limited
@@ -398,5 +406,5 @@ medical assistance submitted pursuant to section three hundred
 sixty-three-a of the social services law, and/or submit one or more
 applications for waivers of the federal social security act, in order to
 ensure such federal financial participation.
-  * NB Repealed September 30, 2019
+  * NB Repealed September 30, 2023
 ```

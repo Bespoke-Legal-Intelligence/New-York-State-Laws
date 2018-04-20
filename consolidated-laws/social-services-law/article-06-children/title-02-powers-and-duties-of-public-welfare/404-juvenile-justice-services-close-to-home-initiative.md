@@ -282,52 +282,6 @@ year for which the social services district does not receive state
 reimbursement from the annual appropriation for the approved close to
 home initiative may not be claimed against that district's appropriation
 for the initiative for the next or any subsequent state fiscal year.
-  (i) State funding for reimbursement shall be, subject to
-appropriation, in the following amounts: for state fiscal year 2013-14,
-$35,200,000 adjusted by any changes in such amount required by
-subparagraphs (ii) and (iii) of this paragraph; for state fiscal year
-2014-15, $41,400,000 adjusted to include the amount of any changes made
-to the state fiscal year 2013-14 appropriation under subparagraphs (ii)
-and (iii) of this paragraph plus any additional changes required by such
-subparagraphs; and, such reimbursement shall be, subject to
-appropriation, for all subsequent state fiscal years in the amount of
-the prior year's actual appropriation adjusted by any changes required
-by subparagraphs (ii) and (iii) of this paragraph.
-  (ii) The reimbursement amounts set forth in subparagraph (i) of this
-paragraph shall be increased or decreased by the percentage that the
-average of the most recently approved maximum state aid rates for group
-residential foster care programs is higher or lower than the average of
-the approved maximum state aid rates for group residential foster care
-programs in existence immediately prior to the most recently approved
-rates.
-  (iii) The reimbursement amounts set forth in subparagraph (i) of this
-paragraph shall be increased if either the population of alleged
-juvenile delinquents who receive a probation intake or the total
-population of adjudicated juvenile delinquents placed on probation
-combined with the population of adjudicated juvenile delinquents placed
-out of their homes in a setting other than a secure facility pursuant to
-section 352.2 of the family court act, increases by at least ten percent
-over the respective population in the annual baseline year. The baseline
-year shall be the period from July first, two thousand ten through June
-thirtieth, two thousand eleven or the most recent twelve month period
-for which there is complete data, whichever is later. In each successive
-year, the population of the previous July first through June thirtieth
-period shall be compared to the baseline year for determining any
-adjustments to a state fiscal year appropriation. When either population
-increases by ten percent or more, the reimbursement will be adjusted by
-a percentage equal to the larger of the percentage increase in either
-the number of probation intakes for alleged juvenile delinquents or the
-total population of adjudicated juvenile delinquents placed on probation
-combined with the population of adjudicated juvenile delinquents placed
-out of their homes in a setting other than a secure facility pursuant to
-section 352.2 of the family court act.
-  (iv) The social services district and/or the New York city department
-of probation shall provide an annual report including the data required
-to calculate the population adjustment to the New York city office of
-management and budget, the division of criminal justice services and the
-state division of the budget no later than the first day of September
-following the close of the previous July first through June thirtieth
-period.
   (b) The department of family assistance is authorized, in its
 discretion, to make advances to a social services district in
 anticipation of the state reimbursement provided for in this section.
@@ -660,5 +614,5 @@ ninety-eight of this article.
 social services district that recites the facts upon which it is based
 shall be deemed or held to be invalid by reason of any imperfection or
 defect in form.
-  * NB Repealed March 31, 2018
+  * NB Repealed March 31, 2023
 ```

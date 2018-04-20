@@ -1322,7 +1322,7 @@ services provided in a nursing facility; a level of care provided in a
 hospital which is equivalent to the care which is provided in a nursing
 facility; and care, services or supplies provided pursuant to a waiver
 granted pursuant to subsection (c) of section 1915 of the federal social
-security act.
+security act or successor federal waiver.
   (2) The uncompensated value of an asset is the fair market value of
 such asset at the time of transfer less any outstanding loans,
 mortgages, or other encumbrances on the asset, minus the amount of the
@@ -1531,7 +1531,7 @@ participation of any person in the waiver program.
   k. This subdivision shall be effective only if, and as long as,
 federal financial participation is available for expenditures incurred
 under this subdivision.
-  * NB Repealed December 31, 2018
+  * NB Repealed March 31, 2023
   6-a. a. The commissioner of health shall apply for a nursing facility
 transition and diversion medicaid waiver pursuant to subdivision (c) of
 section nineteen hundred fifteen of the federal social security act in
@@ -1790,6 +1790,21 @@ evaluation of the individual's home environment, including but not
 limited to, the ability of family and/or caregivers to provide supports
 outside of those within the waiver, including but not limited to,
 activities of daily living.
+  7-c. The commissioner of health in consultation with the commissioner
+of developmental disabilities is authorized to submit the appropriate
+waivers, including, but not limited to, those authorized pursuant to
+section eleven hundred fifteen of the federal social security act, in
+order to achieve the purposes of high-quality and integrated care and
+services for a population of persons with developmental disabilities, as
+such term is defined in section 1.03 of the mental hygiene law. Such
+waiver applications shall be executed consistent with subdivisions
+seven, seven-a, and seven-b of this section, to the extent those
+sections comply with the requirements of section eleven hundred fifteen
+of the federal social security act. Nothing in subdivision seven of this
+section shall prevent the commissioner of health, in consultation with
+the commissioner of developmental disabilities, from submitting waiver
+applications expanding eligibility under such waivers to children under
+eighteen years or age who are eligible for medical assistance.
   8. Notwithstanding any inconsistent provision of this chapter or any
 other law to the contrary, income and resources which are otherwise
 exempt from consideration in determining a person's eligibility for

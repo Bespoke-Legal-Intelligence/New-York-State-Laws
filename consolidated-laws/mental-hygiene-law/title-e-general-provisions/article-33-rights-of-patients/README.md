@@ -24,6 +24,7 @@
 - [§ 33.21 Consent for mental health treatment of minors](33.21-consent-for-mental-health-treatment-of-minors.md)
 - [§ 33.23 Incident notifications and reports](33.23-incident-notifications-and-reports.md)
 - [§ 33.25 Release of records pertaining to allegations and investigations of abuse and mistreatment](33.25-release-of-records-pertaining-to-allegations-and-investigations-of-abuse.md)
+- [§ 33.27 Independent substance use disorder and mental health ombudsman](33.27-independent-substance-use-disorder-and-mental-health-ombudsman.md)
 
 <details>
 <summary>Official heading of Article 33, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -55,6 +56,8 @@ Section 33.01  Protection of patients' rights.
         33.23  Incident notifications and reports.
         33.25  Release of records pertaining to allegations and
                  investigations of abuse and mistreatment.
+        33.27  Independent substance use disorder and mental health
+                 ombudsman.
 ```
 
 </details>

@@ -37,6 +37,7 @@
 - [§ 13.41 Integrated employment plan](13.41-integrated-employment-plan.md)
 - [§ 13.41\*2 Retaliatory personnel actions](13.41-2-retaliatory-personnel-actions.md)
 - [§ 13.42 Autism spectrum disorders advisory board](13.42-autism-spectrum-disorders-advisory-board.md)
+- [§ 13.43 First responder training](13.43-first-responder-training.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -88,6 +89,7 @@ Section 13.01   Declaration of policy.
         13.41   Integrated employment plan.
         13.41*2 Retaliatory personnel actions.
         13.42   Autism spectrum disorders advisory board.
+        13.43   First responder training.
 ```
 
 </details>

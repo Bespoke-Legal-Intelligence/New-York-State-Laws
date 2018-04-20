@@ -39,10 +39,17 @@ facility for children that is licensed, certified or operated by the
 office of children and family services; or any other child care or
 foster care worker; mental health professional; substance abuse
 counselor; alcoholism counselor; all persons credentialed by the office
-of alcoholism and substance abuse services; peace officer; police
-officer; district attorney or assistant district attorney; investigator
-employed in the office of a district attorney; or other law enforcement
-official.
+of alcoholism and substance abuse services; employees, who are expected
+to have regular and substantial contact with children, of a health home
+or health home care management agency contracting with a health home as
+designated by the department of health and authorized under section
+three hundred sixty-five-l of this chapter or such employees who provide
+home and community based services under a demonstration program pursuant
+to section eleven hundred fifteen of the federal social security act who
+are expected to have regular and substantial contact with children;
+peace officer; police officer; district attorney or assistant district
+attorney; investigator employed in the office of a district attorney; or
+other law enforcement official.
   (b) Whenever such person is required to report under this title in his
 or her capacity as a member of the staff of a medical or other public or
 private institution, school, facility or agency, he or she shall make

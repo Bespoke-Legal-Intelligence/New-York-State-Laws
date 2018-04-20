@@ -7,6 +7,7 @@
 
 - [§ 370.10 Proceedings from verdict to sentence](370.10-proceedings-from-verdict-to-sentence.md)
 - [§ 370.15 Procedure for determining whether certain misdemeanor crimes are crimes of domestic violence for purposes of federal law](370.15-procedure-for-determining-whether.md)
+- [§ 370.25 Procedure for the surrender of firearms, rifles and shotguns upon judgment of conviction for a felony or a serious offense](370.25-procedure-for-the-surrender.md)
 
 <details>
 <summary>Official heading of Article 370, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,8 +17,10 @@
                                TO SENTENCE
 Section 370.10 Proceedings from verdict to sentence.
         370.15 Procedure for determining whether certain misdemeanor
-                 crimes are crimes of domestic violence for purposes of
-                 federal law.
+                 crimes are serious offenses under the penal law.
+        370.25 Procedure for the surrender of firearms, rifles and
+                 shotguns upon judgment of conviction for a felony or a
+                 serious offense.
 ```
 
 </details>

@@ -41,17 +41,32 @@ the applicant a hearing on the application, if requested, or on its own
 motion. Any hearing held pursuant to this subdivision may be conducted
 by the public health and health planning council or by any individual
 designated by the public health and health planning council.
-  4. The public health and health planning council shall not approve an
-application for licensure unless it is satisfied as to the character,
+  * 4. The public health and health planning council shall not approve
+an application for licensure unless it is satisfied as to the character,
 competence and standing in the community of the applicant's
 incorporators, directors, sponsors, stockholders or operators.
+  * NB Effective until April 1, 2020
+  * 4. The public health and health planning council shall not approve
+an application for licensure unless it is satisfied as to: (a) the
+public need for the existence of the licensed home health care service
+agency at the time and place and under the circumstances proposed; (b)
+the character, competence and standing in the community of the
+applicant's incorporators, directors, sponsors, stockholders or
+operators; (c) the financial resources of the proposed licensed home
+health care service agency and its sources of financial revenues; and
+(d) such other matters as it shall deem pertinent.
+  * NB Effective April 1, 2020
   5. A license shall not be issued by the commissioner unless he finds
 that the equipment, personnel, rules, standards of care, and home care
 services are fit and adequate, and that the home care services will be
 provided in the manner required by this article and the rules and
 regulations thereunder.
-  6. Neither public need, tax status nor profit-making status shall be
+  * 6. Neither public need, tax status nor profit-making status shall be
 criteria for licensure.
+  * NB Effective until April 1, 2020
+  * 6. Neither tax status nor profit-making status shall be criteria for
+licensure.
+  * NB Effective April 1, 2020
   7. An agency licensed pursuant to this section shall be authorized to
 provide nursing services, home health aide services or personal care
 services.

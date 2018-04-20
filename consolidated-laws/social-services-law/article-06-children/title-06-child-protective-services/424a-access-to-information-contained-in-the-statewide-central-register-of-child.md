@@ -295,17 +295,27 @@ districts as enumerated in chapter five hundred sixty-six of the laws of
 nineteen hundred sixty-seven, as amended; programs and facilities
 licensed by the office of alcoholism and substance abuse services;
 residential schools which are operated, supervised or approved by the
-education department; publicly-funded emergency shelters for families
-with children, provided, however, for purposes of this section, when the
-provider or provider agency is a publicly-funded emergency shelter for
-families with children, then all references in this section to the
-"potential for regular and substantial contact with individuals who are
-cared for by the agency" shall mean the potential for regular and
-substantial contact with children who are served by such shelter; and
-any other facility or provider agency, as defined in subdivision four of
-section four hundred eighty-eight of this chapter, in regard to the
-employment of staff, or use of providers of goods and services and staff
-of such providers, consultants, interns and volunteers.
+education department; health homes, or any subcontractor of such health
+homes, who contracts with or is approved or otherwise authorized by the
+department of health to provide health home services to all those
+enrolled pursuant to a diagnosis of a developmental disability as
+defined in subdivision twenty-two of section 1.03 of the mental hygiene
+law and enrollees who are under twenty-one years of age under section
+three hundred sixty-five-l of this chapter, or any entity that provides
+home and community based services to enrollees who are under twenty-one
+years of age under a demonstration program pursuant to section eleven
+hundred fifteen of the federal social security act; publicly-funded
+emergency shelters for families with children, provided, however, for
+purposes of this section, when the provider or provider agency is a
+publicly-funded emergency shelter for families with children, then all
+references in this section to the "potential for regular and substantial
+contact with individuals who are cared for by the agency" shall mean the
+potential for regular and substantial contact with children who are
+served by such shelter; and any other facility or provider agency, as
+defined in subdivision four of section four hundred eighty-eight of this
+chapter, in regard to the employment of staff, or use of providers of
+goods and services and staff of such providers, consultants, interns and
+volunteers.
   4. For purposes of this section, the term "licensing agency" shall
 mean an authorized agency which has received an application to become an
 adoptive parent or an authorized agency which has received an

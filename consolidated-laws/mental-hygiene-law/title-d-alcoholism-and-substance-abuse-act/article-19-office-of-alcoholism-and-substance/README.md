@@ -19,6 +19,7 @@
 - [§ 19.17 Programs, services, and operation of facilities in the office of alcoholism and substance abuse services](19.17-programs-services-and-operation.md)
 - [§ 19.18 Opioid addiction treatment and hospital diversion demonstration program](19.18-opioid-addiction-treatment-and-hospital.md)
 - [§ 19.18-A Heroin and opioid addiction wraparound services demonstration program](19.18-a-heroin-and-opioid-addiction-wraparound.md)
+- [§ 19.18-B Certified peer recovery advocate services program](19.18-b-certified-peer-recovery-advocate-services.md)
 - [§ 19.19 Personnel of the office](19.19-personnel-of-the-office.md)
 - [§ 19.20 Review of criminal history information concerning certain prospective employees and volunteers](19.20-review-of-criminal-history-information.md)
 - [§ 19.20-A Review of criminal history information concerning prospective providers, operators and individuals seeking to be credentialed by the office](19.20-a-review-of-criminal-history-information.md)
@@ -66,6 +67,7 @@ Section 19.01   Declaration of policy.
                   demonstration program.
         19.18-a Heroin and opioid addiction wraparound services
                   demonstration program.
+        19.18-b Certified peer recovery advocate services program.
         19.19   Personnel of the office.
         19.20   Review of criminal history information concerning
                   certain prospective employees and volunteers.

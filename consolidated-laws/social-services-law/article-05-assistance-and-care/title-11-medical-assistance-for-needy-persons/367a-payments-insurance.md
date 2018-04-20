@@ -126,13 +126,14 @@ they not eligible for medical assistance or were they not qualified
 medicare beneficiaries with respect to such benefits under part B.
   (e) Amounts payable under this title for medical assistance in the
 form of clinic services pursuant to article twenty-eight of the public
-health law and article sixteen of the mental hygiene law provided to
-eligible persons diagnosed with a developmental disability who are also
-beneficiaries under part B of title XVIII of the federal social security
-act, or provided to persons diagnosed with a developmental disability
-who are qualified medicare beneficiaries under part B of title XVIII of
-such act shall not be less than the approved medical assistance payment
-level less the amount payable under part B.
+health law, article sixteen of the mental hygiene law and independent
+practitioner services for individuals with developmental disabilities
+provided to eligible persons diagnosed with a developmental disability
+who are also beneficiaries under part B of title XVIII of the federal
+social security act, or provided to persons diagnosed with a
+developmental disability who are qualified medicare beneficiaries under
+part B of title XVIII of such act shall not be less than the approved
+medical assistance payment level less the amount payable under part B.
   (f) Amounts payable under this title for medical assistance in the
 form of outpatient mental health services under article thirty-one or
 outpatient chemical dependence services including opioid treatment
@@ -151,6 +152,14 @@ of the federal social security act or provided to qualified medicare
 beneficiaries under part B of title XVIII of such act shall not exceed
 the approved medical assistance payment level less the amount payable
 under part B.
+  (h) Amounts payable under this title for medical assistance in the
+form of freestanding clinic services pursuant to article twenty-eight of
+the public health law provided to eligible persons participating in the
+New York traumatic brain injury waiver program who are also
+beneficiaries under part B of title XVIII of the federal social security
+act or who are qualified medicare beneficiaries under part B of title
+XVIII of such act shall not be less than the approved medical assistance
+payment level less the amount payable under part B.
   2. (a) Any inconsistent provision of this chapter notwithstanding,
 provision for medical care and other medical benefits available under
 this title may be made, in whole or in part, either under this title or
@@ -413,7 +422,7 @@ initial prescription plus all subsequent prescriptions for the same
 underlying condition for up to a total of thirty-days supply of such
 opioid shall not exceed the amount set forth in subparagraph (iii) of
 this paragraph.
-  * NB Repealed March 31, 2019
+  * NB Repealed March 31, 2024
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the
 commissioner in regulations, provided in accordance with section three
@@ -538,8 +547,8 @@ manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
   * (e) During the period from April first, two thousand fifteen through
-March thirty-first, two thousand seventeen, the commissioner may, in
-lieu of a managed care provider, negotiate directly and enter into an
+March thirty-first, two thousand twenty, the commissioner may, in lieu
+of a managed care provider, negotiate directly and enter into an
 agreement with a pharmaceutical manufacturer for the provision of
 supplemental rebates relating to pharmaceutical utilization by enrollees
 of managed care providers pursuant to section three hundred sixty-four-j
@@ -552,8 +561,8 @@ pharmaceutical manufacturer has in effect a rebate agreement with the
 federal secretary of health and human services pursuant to 42 U.S.C. §
 1396r-8, and for which the state has established standard clinical
 criteria. No agreement entered into pursuant to this paragraph shall
-have an initial term or be extended beyond March thirty-first, two
-thousand twenty.
+have an initial term or be extended beyond the expiration or repeal of
+this paragraph.
   (i) The manufacturer shall not pay supplemental rebates to a managed
 care provider, or any of a managed care provider's agents, including but
 not limited to any pharmacy benefit manager on the two classes of drugs
@@ -594,7 +603,7 @@ insurance law, as applicable. Nothing in this paragraph shall diminish
 any rights relating to access, prior authorization, or appeal relating
 to any drug class or drug afforded to a recipient under any other
 provision of law.
-  * NB Repealed March 31, 2020
+  * NB Repealed March 31, 2023
   * (f) (1) The department may require manufacturers of drugs other than
 single source drugs and innovator multiple source drugs, as such terms
 are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
@@ -654,7 +663,7 @@ sixteen; and
   (iv) The total drug spend on generic drugs for the preceding year in
 comparison to the total drug spend on generic drugs during two thousand
 fourteen, two thousand fifteen, and two thousand sixteen.
-  * NB Repealed March 31, 2018
+  * NB Repealed March 31, 2020
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric
@@ -763,13 +772,13 @@ drug must be made under the provisions of subparagraph (ii) of such
 paragraph.
   (d) In addition to the amounts paid pursuant to paragraph (b) of this
 subdivision, the department shall pay a professional pharmacy dispensing
-fee for each such drug dispensed in the amount of ten dollars per
-prescription or written order of a practitioner; provided, however that
-this professional dispensing fee will not apply to drugs that are
-available without a prescription as required by section sixty-eight
-hundred ten of the education law but do not meet the definition of a
-covered outpatient drug pursuant to Section 1927K of the Social Security
-Act.
+fee for each such drug dispensed in the amount of ten dollars and eight
+cents per prescription or written order of a practitioner; provided,
+however that this professional dispensing fee will not apply to drugs
+that are available without a prescription as required by section
+sixty-eight hundred ten of the education law but do not meet the
+definition of a covered outpatient drug pursuant to Section 1927K of the
+Social Security Act.
   (e) For a multiple source generic drug for which no specific upper
 payment limit has been established by the federal centers for medicare
 and medicaid services, the commissioner of health may establish a

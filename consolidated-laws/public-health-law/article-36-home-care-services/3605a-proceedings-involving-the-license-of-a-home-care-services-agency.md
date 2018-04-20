@@ -14,6 +14,10 @@ denied without a hearing. However, a license may be temporarily
 suspended or limited without a hearing for a period not in excess of
 thirty days upon written notice to the agency following a finding by the
 department that the public health or safety is in imminent danger.
+Notwithstanding the provisions of this section, no licensed home care
+services agency shall be permitted to operate unless it has registered
+with the department pursuant to section thirty-six hundred five-b of
+this article.
   3. The commissioner shall fix a time and place for the hearing. A copy
 of the charges, together with the notice of the time and place of the
 hearing, shall be served in person or mailed by registered or certified
@@ -22,7 +26,7 @@ the hearing. The agency shall file with the department not less than
 eight days prior to the hearing, a written answer to the charges.
   4. All orders or determinations hereunder shall be subject to review
 as provided in article seventy-eight of the civil practice law and
-rules. Application for such review must be made within sixty days after
+rules.  Application for such review must be made within sixty days after
 service in person or by registered or certified mail of a copy of the
 order or determination upon the applicant or agency.
 ```

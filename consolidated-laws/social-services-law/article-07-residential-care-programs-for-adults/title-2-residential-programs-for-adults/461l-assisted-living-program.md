@@ -246,6 +246,80 @@ in regulations promulgated by the commissioner of health. The
 commissioner of health shall not be required to review on a comparative
 basis applications submitted for assisted living program beds made
 available under this paragraph.
+  (k) (i) Existing assisted living program providers may apply to the
+department of health for approval to add up to nine additional assisted
+living program beds that do not require major renovation or
+construction. Eligible applicants are those that agree to dedicate such
+beds to serve only individuals receiving medical assistance, are in good
+standing with the department of health, and are in compliance with
+appropriate state and local requirements as determined by the department
+of health.
+  (ii) Existing assisted living program providers licensed on or before
+April first, two thousand eighteen may submit applications under this
+paragraph beginning no later than June thirtieth, two thousand eighteen
+and until a deadline to be determined by the department of health.
+Existing assisted living program providers licensed on or before April
+first, two thousand twenty may submit such applications beginning no
+later than June thirtieth, two thousand twenty and until a deadline to
+be determined by the department of health.
+  (iii) The number of additional assisted living program beds approved
+under this paragraph shall be based on the total number of previously
+awarded beds either withdrawn by applicants or denied by the department
+of health. The commissioner of health shall utilize an expedited review
+process allowing certification of the additional beds within ninety days
+of such department's receipt of a satisfactory application.
+  (l) (i) The commissioner of health is authorized to solicit and award
+applications for up to a total of five hundred new assisted living
+program beds in those counties where there is one or no assisted living
+program providers, pursuant to criteria to be determined by the
+commissioner.
+  (ii) The commissioner of health is authorized to solicit and award
+applications for up to five hundred new assisted living program beds in
+counties where utilization of existing assisted living program beds
+exceeds eighty-five percent. All applicants shall comply with federal
+home and community-based settings requirements, as set forth in 42 CFR
+Part 441 Subpart G. To be eligible for an award, an applicant must agree
+to:
+  (A) Dedicate such beds to serve only individuals receiving medical
+assistance;
+  (B) Develop and execute collaborative agreements within twenty-four
+months of an application being made to the department of health, in
+accordance with guidance to be published by such department, between at
+least one of each of the following entities: an adult care facility; a
+residential health care facility; and a general hospital; and
+  (C) Enter into an agreement with an existing managed care entity.
+  (iii) The commissioner of health is authorized to award any assisted
+living program beds for which a solicitation is made under subparagraph
+(i) of this paragraph, but which are not awarded, to applicants that
+meet all applicable criteria pursuant to a solicitation made under
+subparagraph (ii) of this paragraph.
+  (m) Beginning April first, two thousand twenty-three, additional
+assisted living program beds shall be approved on a case by case basis
+whenever the commissioner of health is satisfied that public need exists
+at the time and place and under circumstances proposed by the applicant.
+  (i) The consideration of public need may take into account factors
+such as, but not limited to, regional occupancy rates for adult care
+facilities and assisted living program occupancy rates and the extent to
+which the project will serve individuals receiving medical assistance.
+  (ii) Existing assisted living program providers may apply for approval
+to add up to nine additional assisted living program beds that do not
+require major renovation or construction under an expedited review
+process. The expedited review process is available to applicants that
+are in good standing with the department of health, and are in
+compliance with appropriate state and local requirements as determined
+by the department of health. The expedited review process shall allow
+certification of the additional beds for which the commissioner of
+health is satisfied that public need exists within ninety days of such
+department's receipt of a satisfactory application.
+  (n) The commissioner of health is authorized to create a program to
+subsidize the cost of assisted living for those individuals living with
+Alzheimer's disease and dementia who are not eligible for medical
+assistance pursuant to title eleven of article five of this chapter. The
+program shall authorize up to two hundred vouchers to individuals
+through an application process and pay for up to seventy-five percent of
+the average private pay rate in the respective region. The commissioner
+of health may propose rules and regulations to effectuate this
+provision.
   4. Revocation, suspension, limitation or annulment. Authorization to
 operate an assisted living program may be revoked, suspended, limited or
 annulled by the commissioner in accordance with the provisions of this

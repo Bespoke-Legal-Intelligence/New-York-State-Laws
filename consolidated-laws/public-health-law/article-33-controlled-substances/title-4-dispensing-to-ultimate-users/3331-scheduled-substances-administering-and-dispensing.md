@@ -80,4 +80,13 @@ administer, prescribe or dispense any such substance to any individual
 without first obtaining the informed consent of such individual, or
 where the individual lacks capacity to give such consent, a person
 legally authorized to consent on his or her behalf.
+  8. No opioids shall be prescribed to a patient initiating or being
+maintained on opioid treatment for pain which has lasted more than three
+months or past the time of normal tissue healing, unless the medical
+record contains a written treatment plan that follows generally accepted
+national professional or governmental guidelines. The requirements of
+this paragraph shall not apply in the case of patients who are being
+treated for cancer that is not in remission, who are in hospice or other
+end-of-life care, or whose pain is being treated as part of palliative
+care practices.
 ```

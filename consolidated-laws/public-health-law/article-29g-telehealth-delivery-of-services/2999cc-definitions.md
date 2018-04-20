@@ -50,13 +50,43 @@ certification board;
   (p) a person who is certified as a genetic counselor by the American
 Board of Genetic Counseling, or a successor national certification
 board;
-  (q) a hospital as defined in article twenty-eight of this chapter;
+  * (q) a hospital as defined in article twenty-eight of this chapter;
+  * NB Effective until July 11, 2018
+  * (q) a hospital as defined in article twenty-eight of this chapter,
+including residential health care facilities serving special needs
+populations;
+  * NB Effective July 11, 2018
   (r) a home care services agency as defined in article thirty-six of
 this chapter;
-  (s) a hospice as defined in article forty of this chapter; and
-  (t) any other provider as determined by the commissioner pursuant to
+  * (s) a hospice as defined in article forty of this chapter; and
+  * NB Effective until July 11, 2018
+  * (s) a hospice as defined in article forty of this chapter;
+  * NB Effective July 11, 2018
+  * (t) any other provider as determined by the commissioner pursuant to
 regulation.
-  3. "Originating site" means a site at which a patient is located at
+  * NB Effective until July 11, 2018
+  * (t) credentialed alcoholism and substance abuse counselors
+credentialed by the office of alcoholism and substance abuse services or
+by a credentialing entity approved by such office pursuant to section
+19.07 of the mental hygiene law;
+  * NB Effective July 11, 2018
+  * (u) providers authorized to provide services and service
+coordination under the early intervention program pursuant to article
+twenty-five of this chapter;
+  * NB Effective July 11, 2018
+  * (v) clinics licensed or certified under article sixteen of the
+mental hygiene law and certified and non-certified day and residential
+programs funded or operated by the office for people with developmental
+disabilities; and
+  * NB Effective July 11, 2018
+  * (w) any other provider as determined by the commissioner pursuant to
+regulation or, in consultation with the commissioner, by the
+commissioner of the office of mental health, the commissioner of the
+office of alcoholism and substance abuse services, or the commissioner
+of the office for people with developmental disabilities pursuant to
+regulation.
+  * NB Effective July 11, 2018
+  * 3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of
 telehealth. Originating sites shall be limited to facilities licensed
 under articles twenty-eight and forty of this chapter, facilities as
@@ -70,6 +100,23 @@ is receiving health care services by means of remote patient monitoring,
 the patient's place of residence located within the state of New York or
 other temporary location located within or outside the state of New
 York.
+  * NB Effective until July 11, 2018
+  * 3. "Originating site" means a site at which a patient is located at
+the time health care services are delivered to him or her by means of
+telehealth. Originating sites shall be limited to: (a) facilities
+licensed under articles twenty-eight and forty of this chapter; (b)
+facilities as defined in subdivision six of section 1.03 of the mental
+hygiene law; (c) certified and non-certified day and residential
+programs funded or operated by the office for people with developmental
+disabilities; (d) private physician's or dentist's offices located
+within the state of New York; (e) any type of adult care facility
+licensed under title two of article seven of the social services law;
+(f) public, private and charter elementary and secondary schools, school
+age child care programs, and child day care centers within the state of
+New York; and (g) the patient's place of residence located within the
+state of New York or other temporary location located within or outside
+the state of New York.
+  * NB Effective July 11, 2018
   4. "Telehealth" means the use of electronic information and
 communication technologies by telehealth providers to deliver health
 care services, which shall include the assessment, diagnosis,
@@ -94,7 +141,7 @@ transmission of a patient's health information in the form of
 patient-specific digital images and/or pre-recorded videos from a
 provider at an originating site to a telehealth provider at a distant
 site.
-  7. "Remote patient monitoring" means the use of synchronous or
+  * 7. "Remote patient monitoring" means the use of synchronous or
 asynchronous electronic information and communication technologies to
 collect personal health information and medical data from a patient at
 an originating site that is transmitted to a telehealth provider at a
@@ -110,4 +157,24 @@ practitioner licensed pursuant to article one hundred thirty-nine of the
 education law, or a midwife licensed pursuant to article one hundred
 forty of the education law, with which the patient has a substantial and
 ongoing relationship.
+  * NB Effective until July 11, 2018
+  * 7. "Remote patient monitoring" means the use of synchronous or
+asynchronous electronic information and communication technologies to
+collect personal health information and medical data from a patient at
+an originating site that is transmitted to a telehealth provider at a
+distant site for use in the treatment and management of medical
+conditions that require frequent monitoring. Such technologies may
+include additional interaction triggered by previous transmissions, such
+as interactive queries conducted through communication technologies or
+by telephone. Such conditions shall include, but not be limited to,
+congestive heart failure, diabetes, chronic obstructive pulmonary
+disease, wound care, polypharmacy, mental or behavioral problems, and
+technology-dependent care such as continuous oxygen, ventilator care,
+total parenteral nutrition or enteral feeding. Remote patient monitoring
+shall be ordered by a physician licensed pursuant to article one hundred
+thirty-one of the education law, a nurse practitioner licensed pursuant
+to article one hundred thirty-nine of the education law, or a midwife
+licensed pursuant to article one hundred forty of the education law,
+with which the patient has a substantial and ongoing relationship.
+  * NB Effective July 11, 2018
 ```

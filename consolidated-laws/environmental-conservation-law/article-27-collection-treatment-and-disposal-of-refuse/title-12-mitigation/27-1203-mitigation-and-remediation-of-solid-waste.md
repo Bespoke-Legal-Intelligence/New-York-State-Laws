@@ -76,5 +76,5 @@ notification levels, maximum residual disinfectant levels, or action
 levels established by the department of health. The department may
 implement necessary measures to mitigate and remediate the solid waste
 site within amounts appropriated for such purposes from the solid waste
-mitigation account.
+mitigation program.
 ```

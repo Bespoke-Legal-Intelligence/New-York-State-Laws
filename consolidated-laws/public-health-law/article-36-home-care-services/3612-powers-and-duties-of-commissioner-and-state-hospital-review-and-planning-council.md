@@ -85,4 +85,28 @@ home care services agencies with regard to (a) uniform standards for
 quality of care and services to be provided and (b) the establishment of
 a uniform statewide system of reports relating to the quality of
 services offered.
+  8. (a) The commissioner may require a health home or licensed home
+care services agency to report on the costs incurred by the health home
+or licensed home care services agency in rendering health care services
+to Medicaid beneficiaries. The department of health may specify the
+frequency and format of such reports, determine the type and amount of
+information to be submitted, and require the submission of supporting
+documentation, provided, however, that the department shall provide no
+less than ninety calendar days' notice before such reports are due.
+  (b) If the department determines that the cost report submitted by a
+provider is inaccurate or incomplete, the department shall notify the
+provider in writing and advise the provider of the correction or
+additional information that the provider must submit. The provider must
+submit the corrected or additional information within thirty calendar
+days from the date the provider receives the notice.
+  (c) The department shall grant a provider an additional thirty
+calendar days to submit the original, corrected or additional cost
+report when the provider, prior to the date the report is due, submits a
+written request to the department for an extension and establishes to
+the department's satisfaction that the provider cannot submit the report
+by the date due for reasons beyond the provider's control.
+  (d) All reports shall be certified by the owner, administrator, chief
+executive officer, or public official responsible for the operation of
+the provider. The cost report form shall include a certification form,
+which shall specify who must certify the report.
 ```

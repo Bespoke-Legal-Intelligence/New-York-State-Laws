@@ -14,6 +14,7 @@
 - [§ 679-G New York state get on your feet loan forgiveness program](679g-new-york-state-get-on-your.md)
 - [§ 679-H New York state child welfare worker incentive scholarship program](679h-new-york-state-child-welfare.md)
 - [§ 679-I New York state child welfare worker loan forgiveness incentive program](679i-new-york-state-child-welfare.md)
+- [§ 679-J The New York state teacher loan forgiveness program](679j-the-new-york-state-teacher.md)
 
 <details>
 <summary>Official heading of Subpart 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +37,7 @@ Section 679-a. New York state licensed social worker loan forgiveness
                  program.
         679-i. New York state child welfare worker loan forgiveness
                  incentive program.
+        679-j. The New York state teacher loan forgiveness program.
 ```
 
 </details>

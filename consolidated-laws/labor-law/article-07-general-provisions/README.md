@@ -14,6 +14,7 @@
 - [§ 201-D Discrimination against the engagement in certain activities](201d-discrimination-against-the-engagement-in-certain-activities.md)
 - [§ 201-E Maintenance of employee-patient records at occupational health service centers](201e-maintenance-of-employee-patient-records-at-occupational-health-service-centers.md)
 - [§ 201-F Posting regulations on employment of persons previously convicted of one or more crimes](201f-posting-regulations-on-employment-of-persons-previously-convicted-of-one-or-more.md)
+- [§ 201-G Prevention of sexual harassment](201g-prevention-of-sexual-harassment.md)
 - [§ 202 Protection of the public and of persons engaged at window cleaning and cleaning of exterior surfaces of buildings](202-protection-of-the-public-and-of-persons-engaged-at-window-cleaning-and-cleaning.md)
 - [§ 202-A Leave of absence for bone marrow donations](202a-leave-of-absence-for-bone-marrow-donations.md)
 - [§ 202-B Leave for organ or bone marrow donation granted to state employees](202b-leave-for-organ-or-bone-marrow-donation-granted-to-state-employees.md)
@@ -88,6 +89,7 @@ Section 200.   General duty to protect health and safety of employees;
                  health service centers.
         201-f. Posting regulations on employment of persons previously
                  convicted of one or more crimes.
+        201-g. Prevention of sexual harassment.
         202.   Protection of the public and of persons engaged at window
                  cleaning and cleaning of exterior surfaces of
                  buildings.

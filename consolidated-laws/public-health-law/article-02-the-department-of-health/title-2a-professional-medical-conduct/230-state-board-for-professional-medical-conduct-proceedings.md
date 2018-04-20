@@ -723,7 +723,7 @@ committee, or
 period in a physician committee of the Medical Society of the State of
 New York or the New York State Osteopathic Society whose purpose is to
 confront and refer to treatment physicians who are thought to be
-suffering from alcoholism, drug abuse or mental illness. Such
+suffering from alcoholism, drug abuse, or mental illness. Such
 demonstration period shall commence on April first, nineteen hundred
 eighty and terminate on May thirty-first, nineteen hundred eighty-three.
 An additional demonstration period shall commence on June first,
@@ -744,7 +744,9 @@ additional demonstration period shall commence on April first, two
 thousand three and terminate on March thirty-first, two thousand
 thirteen. An additional demonstration period shall commence April first,
 two thousand thirteen and terminate on March thirty-first, two thousand
-eighteen provided, however, that the commissioner may prescribe
+eighteen. An additional demonstration period shall commence April first,
+two thousand eighteen and terminate on March thirty-first, two thousand
+twenty-three provided, however, that the commissioner may prescribe
 requirements for the continuation of such demonstration program,
 including periodic reviews of such programs and submission of any
 reports and data necessary to permit such reviews. During these
@@ -911,19 +913,25 @@ board. A summary order shall be public upon issuance.
 committing an act constituting a felony under New York state law or
 federal law, or the law of another jurisdiction which, if committed
 within this state, would have constituted a felony under New York state
-law, or when the duly authorized professional disciplinary agency of
-another jurisdiction has made a finding substantially equivalent to a
-finding that the practice of medicine by the licensee in that
-jurisdiction constitutes an imminent danger to the health of its people,
-or when a licensee has been disciplined by a duly authorized
-professional disciplinary agency of another jurisdiction for acts which
-if committed in this state would have constituted the basis for summary
-action by the commissioner pursuant to paragraph (a) of this
-subdivision, the commissioner, after a recommendation by a committee of
-professional conduct of the state board for professional medical
-conduct, may order the licensee, by written notice, to discontinue or
-refrain from practicing medicine in whole or in part or to take certain
-actions authorized pursuant to this title immediately. The order of the
+law, or when a licensee has been charged with committing an act
+constituting a felony under New York state or federal law or the law of
+another jurisdiction, where the licensee's alleged conduct, which, if
+committed within this state, would have constituted a felony under New
+York state law, and in the commissioner's opinion the licensee's alleged
+conduct constitutes an imminent danger to the health of the people, or
+when the duly authorized professional disciplinary agency of another
+jurisdiction has made a finding substantially equivalent to a finding
+that the practice of medicine by the licensee in that jurisdiction
+constitutes an imminent danger to the health of its people, or when a
+licensee has been disciplined by a duly authorized professional
+disciplinary agency of another jurisdiction for acts which if committed
+in this state would have constituted the basis for summary action by the
+commissioner pursuant to paragraph (a) of this subdivision, the
+commissioner, after a recommendation by a committee of professional
+conduct of the state board for professional medical conduct, may order
+the licensee, by written notice, to discontinue or refrain from
+practicing medicine in whole or in part or to take certain actions
+authorized pursuant to this title immediately. The order of the
 commissioner shall constitute summary action against the licensee and
 become public upon issuance. The summary suspension shall remain in
 effect until the final conclusion of a hearing which shall commence
@@ -934,7 +942,9 @@ commissioner's order is based upon a finding substantially equivalent to
 a finding that the practice of medicine by the licensee in another
 jurisdiction constitutes an imminent danger to the health of its people,
 the hearing shall commence within thirty days after the disciplinary
-proceedings in that jurisdiction are finally concluded.
+proceedings in that jurisdiction are finally concluded. If, at any time,
+the felony charge is dismissed, withdrawn or reduced to a non-felony
+charge, the commissioner's summary order shall terminate.
   13. (a) Temporary surrender. The license and registration of a
 licensee who may be temporarily incapacitated for the active practice of
 medicine and whose alleged incapacity has not resulted in harm to a

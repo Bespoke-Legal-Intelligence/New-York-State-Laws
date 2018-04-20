@@ -100,7 +100,7 @@ section five hundred seventy-nine of this chapter that is certified by
 the Centers for Medicare and Medicaid Services under regulations
 implementing the federal Clinical Laboratory Improvement Amendments of
 1988 (CLIA).
-  3. (a) Any health care provider who administers any vaccine to a
+  3. (a) (i) Any health care provider who administers any vaccine to a
 person less than nineteen years of age or, on or after September first,
 two thousand nine, conducts a blood lead analysis of a sample obtained
 from a person under eighteen years of age in accordance with paragraph
@@ -114,7 +114,7 @@ analysis. Health care providers administering immunizations to persons
 less than nineteen years of age in the city of New York shall report, in
 a format prescribed by the city of New York commissioner of health and
 mental hygiene, all such immunizations to the citywide immunization
-registry.  Health care providers who conduct a blood lead analysis on a
+registry. Health care providers who conduct a blood lead analysis on a
 person under eighteen years of age and who report the results of such
 analysis to the city of New York commissioner of health and mental
 hygiene pursuant to New York city reporting requirements shall be exempt
@@ -124,6 +124,16 @@ data collected from physician office laboratories by the commissioner of
 health and mental hygiene of the city of New York pursuant to the health
 code of the city of New York shall be provided to the department in a
 format prescribed by the commissioner.
+  (ii) A pharmacist who administers a vaccine pursuant to subdivision
+two of section sixty-eight hundred one of the education law, to a person
+less than nineteen years of age, shall report all such immunizations to
+the department in a format prescribed by the commissioner within
+fourteen days of administration of such immunizations. Pharmacists
+administering immunizations pursuant to subdivision two of section
+sixty-eight hundred one of the education law to persons less than
+nineteen years of age in the city of New York shall report, in a format
+prescribed by the city of New York commissioner of health and mental
+hygiene, all such immunizations to the citywide immunization registry.
   (b) (i) Any health care provider who administers any vaccine to a
 person nineteen years of age or older, may report, with the consent of
 the vaccinee, all such immunizations to the department in a format
@@ -274,8 +284,18 @@ registrant upon reaching eighteen years of age.
   (d) The following authorized users shall have access to the statewide
 immunization information system and the blood lead information in such
 system and the citywide immunization registry for the purposes stated in
-this paragraph: (i) schools for verifying immunization status for
-eligibility for admission; (ii) colleges for verifying immunization
+this paragraph: (i) schools for the purpose of verifying immunization
+status for eligibility for admission, for the purpose of confirming a
+student has been screened for lead when enrolling in child care,
+pre-school or kindergarten, and for the provision of appropriate
+educational materials developed by the department pursuant to section
+thirteen hundred seventy-a of this chapter on the dangers of lead
+exposure, and the health risks associated with elevated blood lead
+levels to the parents or legal guardians of the student with an elevated
+blood lead level, as such term is defined in subdivision six of section
+thirteen hundred seventy of this chapter, as well as information on
+programs that may be available to the student and the parents or legal
+guardians of the student; (ii) colleges for verifying immunization
 status for eligibility for admission; (iii) professional and technical
 schools for verifying immunization status for eligibility for admission;
 (iv) children's overnight camps and summer day camps for verifying

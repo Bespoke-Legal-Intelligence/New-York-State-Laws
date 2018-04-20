@@ -14,6 +14,7 @@
 - [§ 905 Record of screening examinations for vision, hearing and scoliosis](905-record-of-screening-examinations-for-vision-hearing.md)
 - [§ 906 Existence of communicable diseases; return after illness](906-existence-of-communicable-diseases-return-after.md)
 - [§ 907 Use of sunscreen](907-use-of-sunscreen.md)
+- [§ 908 Prohibition against meal shaming](908-prohibition-against-meal-shaming.md)
 - [§ 909 School hygiene districts](909-school-hygiene-districts.md)
 - [§ 910 Choice of method of treatment](910-choice-of-method-of-treatment.md)
 - [§ 911 Enforcement](911-enforcement.md)
@@ -53,6 +54,7 @@ Section 901.   School health services to be provided.
                  scoliosis.
         906.   Existence of communicable diseases; return after illness.
         907.   Use of sunscreen.
+        908.   Prohibition against meal shaming.
         909.   School hygiene districts.
         910.   Choice of method of treatment.
         911.   Enforcement.

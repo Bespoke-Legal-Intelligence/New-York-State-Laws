@@ -334,9 +334,9 @@ subdivision five-b of this section.
 section twenty-eight hundred seven-w of this article or any other
 contrary provision of law, and subject to the availability of federal
 financial participation, for periods on and after January first, two
-thousand thirteen, through December thirty-first, two thousand eighteen,
-all funds available for distribution pursuant to this section, except
-for funds distributed pursuant to subparagraph (v) of paragraph (b) of
+thousand thirteen, through March thirty-first, two thousand twenty, all
+funds available for distribution pursuant to this section, except for
+funds distributed pursuant to subparagraph (v) of paragraph (b) of
 subdivision five-b of this section, and all funds available for
 distribution pursuant to section twenty-eight hundred seven-w of this
 article, shall be reserved and set aside and distributed in accordance
@@ -356,7 +356,7 @@ uninsured patients, and as further adjusted by application of a nominal
 need computation that shall take into account each facility's medicaid
 inpatient share.
   (ii) Annual distributions pursuant to such regulations for the two
-thousand thirteen through two thousand eighteen calendar years shall be
+thousand thirteen through two thousand nineteen calendar years shall be
 in accord with the following:
   (A) one hundred thirty-nine million four hundred thousand dollars
 shall be distributed as Medicaid Disproportionate Share Hospital ("DSH")
@@ -384,13 +384,15 @@ payments pursuant to this subdivision that: for the calendar year
 beginning January first, two thousand thirteen, is greater than two and
 one-half percent; for the calendar year beginning January first, two
 thousand fourteen, is greater than five percent; and, for the calendar
-year beginning on January first, two thousand fifteen, is greater than
+year beginning on January first, two thousand fifteen; is greater than
 seven and one-half percent, and for the calendar year beginning on
 January first, two thousand sixteen, is greater than ten percent; and
 for the calendar year beginning on January first, two thousand
 seventeen, is greater than twelve and one-half percent; and for the
 calendar year beginning on January first, two thousand eighteen, is
-greater than fifteen percent.
+greater than fifteen percent; and for the calendar year beginning on
+January first, two thousand nineteen, is greater than seventeen and
+one-half percent.
   (iv) Such regulations shall reserve one percent of the funds available
 for distribution in the two thousand fourteen and two thousand fifteen
 calendar years, and for calendar years thereafter, pursuant to this

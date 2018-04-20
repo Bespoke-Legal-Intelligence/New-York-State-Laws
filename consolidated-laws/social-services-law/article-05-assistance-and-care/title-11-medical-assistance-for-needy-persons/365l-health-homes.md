@@ -57,6 +57,23 @@ and/or substance abuse conditions that have been recently discharged or
 are pending release from state and local correctional facilities. Funds
 allocated for certified application counselors and assistors shall be
 expended through a request for proposal process.
+  2-d. The commissioner shall establish reasonable targets for health
+home participation by enrollees of special needs managed care plans
+designated pursuant to subdivision four of section three hundred
+sixty-five-m of this title and by high-risk enrollees of other Medicaid
+managed care plans operating pursuant to section three hundred
+sixty-four-j of this title, and shall encourage both the managed care
+providers and the health homes to work collaboratively with each other
+to achieve such targets. The commissioner may assess penalties under
+this subdivision in instances of failure to meet the participation
+targets established pursuant to this subdivision, where the department
+has determined that such failure reflected the absence of a good faith
+and reasonable effort to achieve the participation targets, except that
+managed care providers shall not be penalized for the failure of a
+health home to work collaboratively toward meeting the participation
+targets and a health home shall not be penalized for the failure of a
+managed care provider to work collaboratively toward meeting the
+participation targets.
   3. Until such time as the commissioner obtains necessary waivers
 and/or approvals of the federal social security act, Medicaid enrollees
 assigned to providers of health home services will be allowed to opt out

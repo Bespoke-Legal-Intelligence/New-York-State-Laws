@@ -32,21 +32,24 @@ department.
 employee, who files an application for employment as an employee with a
 provider and the provider has a reasonable expectation to hire such
 individual as an employee.
-  * 6. "Provider" shall mean any residential health care facility
-licensed under article twenty-eight of this chapter; or any certified
-home health agency, licensed home care services agency or long term home
-health care program certified under article thirty-six of this chapter;
-or any adult home, enriched housing program or residence for adults
-licensed under article seven of the social services law.
-  * NB Effective until April 1, 2018
-  * 6. "Provider" shall mean any residential health care facility
+  * 6. "Provider" shall mean: (a) any residential health care facility
 licensed under article twenty-eight of this chapter; or any certified
 home health agency, licensed home care services agency or long term home
 health care program certified under article thirty-six of this chapter;
 any hospice program certified pursuant to article forty of this chapter;
 or any adult home, enriched housing program or residence for adults
-licensed under article seven of the social services law.
-  * NB Effective April 1, 2018 until March 31, 2023
+licensed under article seven of the social services law; or (b) a health
+home, or any subcontractor of such health home, who contracts with or is
+approved or otherwise authorized by the department to provide health
+home services to all those enrolled pursuant to a diagnosis of a
+developmental disability as defined in subdivision twenty-two of section
+1.03 of the mental hygiene law and enrollees who are under twenty-one
+years of age under section three hundred sixty-five-l of the social
+services law, or any entity that provides home and community based
+services to enrollees who are under twenty-one years of age under a
+demonstration program pursuant to section eleven hundred fifteen of the
+federal social security act.
+  * NB Effective until March 31, 2023
   * 6. "Provider" shall mean any residential health care facility
 licensed under article twenty-eight of this chapter; or any certified
 home health agency, licensed home care services agency or long term home

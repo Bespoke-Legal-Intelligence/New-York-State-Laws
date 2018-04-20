@@ -49,7 +49,7 @@ Section 380.10   Applicability.
         380.96   Obligation of sentencing court pursuant to article four
                    hundred of the penal law.
         380.97   Notification to division of criminal justice services
-                   of determinations in certain misdemeanor cases.
+                   of certain misdemeanor convictions.
 ```
 
 </details>

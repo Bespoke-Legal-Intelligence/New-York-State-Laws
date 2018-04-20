@@ -18,7 +18,7 @@ a separate component within the Medicaid global cap as part of a focused
 and sustained effort to balance the growth of drug expenditures with the
 growth of total Medicaid expenditures.
   2. The commissioner shall establish a year to year department of
-health state-funds Medicaid drug spending growth target as follows:
+health state funds Medicaid drug expenditure growth target as follows:
   (a) for state fiscal year two thousand seventeen--two thousand
 eighteen, be limited to the ten-year rolling average of the medical
 component of the consumer price index plus five percent and minus a
@@ -26,20 +26,34 @@ pharmacy savings target of fifty-five million dollars; and
   (b) for state fiscal year two thousand eighteen--two thousand
 nineteen, be limited to the ten-year rolling average of the medical
 component of the consumer price index plus four percent and minus a
-pharmacy savings target of eighty-five million dollars.
+pharmacy savings target of eighty-five million dollars; and
+  (c) for state fiscal year two thousand nineteen--two thousand twenty,
+be limited to the ten-year rolling average of the medical component of
+the consumer price index plus four percent and minus a pharmacy savings
+target of eighty-five million dollars.
   3. The department and the division of the budget shall assess on a
 quarterly basis the projected total amount to be expended in the year on
 a cash basis by the Medicaid program for each drug, and the projected
-annual amount of drug expenditures for all drugs, which shall be a
-component of the projected department of health state funds Medicaid
-expenditures calculated for purposes of sections ninety-one and
-ninety-two of part H of chapter fifty-nine of the laws of two thousand
-eleven. For purposes of this section, state funds Medicaid drug
-expenditures include amounts expended for drugs in both the Medicaid
-fee-for-service and Medicaid managed care programs, minus the amount of
-any drug rebates or supplemental drug rebates received by the
-department, including rebates pursuant to subdivision five of this
-section with respect to rebate targets.
+annual amount of state funds Medicaid drug expenditures on a cash basis
+for all drugs, which shall be a component of the projected department of
+health state funds Medicaid expenditures calculated for purposes of
+sections ninety-one and ninety-two of part H of chapter fifty-nine of
+the laws of two thousand eleven. For purposes of this section, state
+funds Medicaid drug expenditures include amounts expended for drugs in
+both the Medicaid fee-for-service program and Medicaid managed care
+programs, minus the amount of any drug rebates or supplemental drug
+rebates received by the department, including rebates pursuant to
+subdivision five of this section with respect to rebate targets. The
+department and the division of the budget shall report quarterly to the
+drug utilization review board the projected state funds Medicaid drug
+expenditures including the amounts, in aggregate thereof, attributable
+to the net cost of: changes in the utilization of drugs by Medicaid
+recipients; changes in the number of Medicaid recipients; changes to the
+cost of brand name drugs and changes to the cost of generic drugs. The
+information contained in the report shall not be publicly released in a
+manner that allows for the identification of an individual drug or
+manufacturer or that is likely to compromise the financial competitive,
+or proprietary nature of the information.
   (a) In the event the director of the budget determines, based on
 Medicaid drug expenditures for the previous quarter or other relevant
 information, that the total department of health state funds Medicaid
@@ -183,19 +197,22 @@ prices charged for drugs by such manufacturer.
 rebates received by the department, including rebates received to date
 pursuant to this section, total Medicaid drug expenditures are still
 projected to exceed the annual growth limitation imposed by subdivision
-two of this section, the commissioner of health may: subject drugs to
-prior approval in accordance with existing processes and procedures,
-which may include all drugs of a manufacturer that has not entered into
-a supplemental rebate agreement required by this section; directing
-managed care plans to remove from their Medicaid formularies those drugs
-with respect to which a manufacturer has failed to enter into a rebate
-agreement required by this section; promoting the use of cost effective
-and clinically appropriate drugs other than those of a manufacturer who
-has failed to enter into a rebate agreement required by this section;
-allowing manufacturers to accelerate rebate payments under existing
-rebate contracts; and such other actions as authorized by law. The
-commissioner shall provide written notice to the legislature thirty days
-prior to taking action pursuant to this paragraph, unless action is
+two of this section, the commissioner may: subject any drug of a
+manufacturer referred to the drug utilization review board under this
+section to prior approval in accordance with existing processes and
+procedures when such manufacturer has not entered into a supplemental
+rebate agreement as required by this section; directing managed care
+plans to remove from their Medicaid formularies those drugs that the
+drug utilization review board recommends a target rebate amount for and
+the manufacturer has failed to enter into a rebate agreement required by
+this section; promoting the use of cost effective and clinically
+appropriate drugs other than those of a manufacturer who has a drug that
+the drug utilization review board recommends a target rebate amount and
+the manufacturer has failed to enter into a rebate agreement required by
+this section; allowing manufacturers to accelerate rebate payments under
+existing rebate contracts; and such other actions as authorized by law.
+The commissioner shall provide written notice to the legislature thirty
+days prior to taking action pursuant to this paragraph, unless action is
 necessary in the fourth quarter of a fiscal year to prevent total
 Medicaid drug expenditures from exceeding the limitation imposed by
 subdivision two of this section, in which case such notice to the
@@ -212,4 +229,10 @@ allowed by paragraph (c) of subdivision five of this section; provided
 further that nothing in this section shall prevent access by a Medicaid
 recipient to a drug which is the only treatment for a particular disease
 or condition.
+  8. The commissioner shall report by February first annually to the
+drug utilization review board on savings achieved through the drug cap
+in the last year. Such report shall provide data on what savings were
+achieved through actions pursuant to subdivisions three, five and seven
+of this section, respectively, and what savings were achieved through
+other means and how such savings were calculated and implemented.
 ```

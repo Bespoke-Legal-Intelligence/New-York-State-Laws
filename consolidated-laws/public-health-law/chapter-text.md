@@ -24,28 +24,30 @@ Article
    2.      The department of health.
            Title    I.   Officers and employees (§§200--211-a).
                    II.   The public health council (§§220-229).
-                   II-A. Professional medical conduct (§§230--230-d).
-                 * II-B. New York state health services corps
+                 II-A.   Professional medical conduct (§§230--230-d).
+               * II-B.   New York state health services corps
                            (§§231-233).
-                    *NB Expired July 18, 1996
-                   II-C. Charles D. Cook office of rural health
+                 * NB Expired July 18, 1996
+                 II-C.   Charles D. Cook office of rural health
                            (§§234-237).
-                   II-D. Health care practitioner referrals
+                 II-D.   Health care practitioner referrals
                            (§§238--238-e).
-                   II-E. HIV/HBV/HCV prevention training (§§239--239-b).
-                   II-F. Office of minority health (§§240*-243*).
+                 II-E.   HIV/HBV/HCV prevention training (§§239--239-b).
+                 II-F.   Office of minority health (§§240*-243*).
                   III.   State health areas (§§240-243).
                    IV.   Spinal cord injury research board (§§250-251).
                     V.   Health care practitioner volunteer pilot
                            program (§260).
                    V*.   Obesity prevention act (§§260*-263).
-                    5-A. Empire State Stem Cell Board (§§ 265--265-f).
-                   VI.   Women's Health (§ 266).
+                  5-A.   Empire State Stem Cell Board (§§ 265--265-f).
+                   VI.   Women's Health (§§ 266-267).
+                    6.   The 21st century workgroup for disease
+                            elimination and reduction (§ 266).
    2-A.    Prescription drugs.
            Title    I.   Preferred drug and clinical drug review
                            programs (§§ 270-277).
                    II.   Prescription drugs; various provisions (§§
-                           278--280-b).
+                           278--280-c).
                   III.   Prescription forms, electronic prescribing and
                            language assistance (§ 281).
    3.      Local health organization.
@@ -86,10 +88,10 @@ Article
   9-B.     Primary Care Service Corps Practitioner Loan Repayment
             Program (§§923-924).
   11.      Public water supplies; sewerage and sewage control
-           Title    I.   Potable waters (§§1100-1114).
+           Title    I.   Potable waters (§§1100--1114-a).
                    II.   Realty subdivisions: water supply
                           (§§1115-1120).
-                   II-A. Water supply emergency plans (§1125).
+                 II-A.   Water supply emergency plans (§1125).
                   III.   Annual water supply statement (§§1150-1153).
                    IV.   Drinking water revolving fund (§§1160-1169).
   13.      Nuisances and sanitation
@@ -109,7 +111,7 @@ Article
                    XI.   State aid; planning for construction of solid
                           waste management facilities (§§1380-1383).
                   XII.   Toxic substances (§§1385-1389).
-                 XII-A.  Inactive hazardous waste disposal sites
+                XII-A.   Inactive hazardous waste disposal sites
                           (§§1389-a--1389-e).
                  XIII.   Storage, treatment and disposal of infectious
                           waste (§§1389-aa--1389-gg).
@@ -151,9 +153,9 @@ Article
                           abatement (§§2320-2334).
   24.      Control of malignant diseases
            Title    I.   General provisions (§§2400--2404-d).
-           Title    I-A. Cancer Detection and Education Program
+           Title  I-A.   Cancer Detection and Education Program
                           (§§2405--2409-a).
-           Title    I-B. Health Research Science Board (§§2410-2413).
+           Title  I-B.   Health Research Science Board (§§2410-2413).
                    II.   State institute for the study of malignant
                           diseases (§§2420-2423).
   24-A.    Protection of human subjects (§§2440-2446).
@@ -164,11 +166,11 @@ Article
   24-E.    Information about hysterectomy (§§2495--2499-a).
   25.      Maternal and child health
            Title    I.   General provisions (§§2500-2508).
-                   I-A.  Child health insurance plan (§§2510-2511).
-                   1-B.  Adolescent pregnancy prevention and services
+                  I-A.   Child health insurance plan (§§2510-2511).
+                  1-B.   Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).
-                   II.   Prenatal care (§§2520-2530-a).
-                   II-A. Early intervention program for infants and
+                   II.   Prenatal care (§§2520-2532).
+                 II-A.   Early intervention program for infants and
                           toddlers with disabilities and their families
                           (§§2540--2559-b).
                    IV.   Institutions for children (§§2570-2575).
@@ -179,7 +181,7 @@ Article
                  * VI.   Emergency nutrition aid program for pregnant
                           women and adolescents (§§2590-2592)
                  * NB Expired March 31, 1986
-                  VIII.  Childhood obesity prevention program
+                 VIII.   Childhood obesity prevention program
                           (§§2599-a--2599-d).
   26.      Helen Hayes Hospital (§§2600-2602).
   26-A.    New York state veterans' home (§§2630-2635).
@@ -230,13 +232,13 @@ Article
   29-CCCC. CARE act (caregiver advise, record and enable act)
             (§§ 2994-hh--2994-mm).
   29-D.    Health information and quality improvement.
-           Title    I    Health information (§§2995--2997-f).
-                    1-A  Safe patient handling (§§2997-g--2997-l).
-                    II   Quality improvement (§§2998--2999-a).
-                    3    Pay for performance (§§2999-b--2999-f).
-                    4    New York state medical indemnity fund
+           Title   I.    Health information (§§2995--2997-f).
+                 1-A.    Safe patient handling (§§2997-g--2997-l).
+                  II.    Quality improvement (§§2998--2999-a).
+                   3.    Pay for performance (§§2999-b--2999-f).
+                   4.    New York state medical indemnity fund
                           (§§2999-g--2999-j).
-                    5    New York state hospital quality initiative
+                   5.    New York state hospital quality initiative
                           (§2999-m).
   29-E.    Accountable care organizations demonstration program (§§
             2999-n--2999-r).
@@ -246,7 +248,7 @@ Article
   29-I.    Medical services for foster children (§ 2999-gg).
   30.      Emergency medical services (§§3000-3032).
   30-A.    Emergency medical services personnel training act of nineteen
-            hundred eighty-six (§§3050-3053).
+            hundred eighty-six (§§3050-3054).
   30-B.    Emergency medical, trauma and disaster care (§§3060-3066).
   30-C.    Emergency medical services for children (§§3070-3075).
   31.      Human blood and transfusion services
@@ -261,6 +263,7 @@ Article
            Title    I.   General provisions (§§3300-3309-a).
                    II.   Manufacture and distribution of controlled
                           substances (§§3310-3322).
+                  2-A.   Opioid stewardship act (§ 3323).
                   III.   Research, instructional activities, and
                           chemical analysis relating to controlled
                           substances (§§3324-3329).
@@ -301,12 +304,12 @@ Article
                    II.   Registration districts: registrars, physicians,
                           midwives and funeral directors (§§ 4120-4124).
                   III.   Registration of births (§§4130--4138-d).
-                  III-A. Filing of certificates of dissolution of
+                III-A.   Filing of certificates of dissolution of
                           marriage (§4139).
                    IV.   Registration of deaths; burial permits
                           (§§4140-4148).
                     V.   Registration of fetal deaths (§§4160-4163).
-                    V-A. Induced viable births (§4164).
+                  V-A.   Induced viable births (§4164).
                    VI.   Registration of persons in institutions
                           (§4165).
                   VII.   Vital statistics records (§§4170-4179).

@@ -32,7 +32,7 @@
 - [§ 36 Studies](36-studies.md)
 - [§ 36-A Department research and demonstration projects](36a-department-research-and-demonstration-projects.md)
 - [§ 36-B Local flexibility incentive pilot program](36b-local-flexibility-incentive-pilot-program.md)
-- [§ 36-C Savings plan demonstration project](36c-savings-plan-demonstration-project.md)
+- [§ 36-C Savings plan for the city of New York](36c-savings-plan-for-the-city-of-new-york.md)
 - [§ 37 Reports of and to department](37-reports-of-and-to-department.md)
 - [§ 38 Commission for the blind](38-commission-for-the-blind.md)
 - [§ 39 Indian affairs](39-indian-affairs.md)
@@ -77,7 +77,7 @@ Section 5.    Department of social welfare.
         36.   Studies.
         36-a. Department research and demonstration projects.
         36-b. Local flexibility incentive pilot program.
-        36-c. Savings plan demonstration project.
+        36-c. Savings plan for the city of New York.
         37.   Reports of and to department.
         38.   Commission for the blind.
         39.   Indian affairs.

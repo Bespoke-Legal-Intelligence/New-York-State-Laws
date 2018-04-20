@@ -84,6 +84,12 @@ ethyl-4-piperidinyl} -N-phenylpropanamide).
 -propanamide.
   (54) Tilidine.
   (55) Trimeperidine.
+  * (56) 3,4-dichloro-N-{(1-dimethylamino) cyclohexylmethyl}benzamide.
+Some trade or other names: AH-7921.
+  * NB Effective July 11, 2018
+  * (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide (Acetyl
+Fentanyl).
+  * NB Effective July 11, 2018
   (c) Opium derivatives. Unless specifically excepted or unless listed
 in another schedule, any of the following opium derivatives, its salts,
 isomers, and salts of isomers whenever the existence of such salts,
@@ -200,6 +206,13 @@ also known as 25I-NBOMe; 2C-I-NBOMe; 25I; or Cimbi-5.
 also known as 25 CNBOMe; 2C-C-NBOMe; 25C; or Cimbi-82.
   (35) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
 also known as, 25 BNBOMe; 2C-B-NBOMe; Cimbi-36.
+  * (36) 5-methoxy-N,N-dimethyltryptamine.
+  * NB Effective July 11, 2018
+  * (37) Alpha-methyltryptamine. Some trade or other names: AMT.
+  * NB Effective July 11, 2018
+  * (38) 5-methoxy-N,N-diisopropyltryptamine. Some trade or other names:
+5-MeO-DIPT.
+  * NB Effective July 11, 2018
   (e) Depressants. Unless specifically excepted or unless listed in
 another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a depressant
@@ -268,6 +281,85 @@ methylone).
   (22) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H).
   (23) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N).
   (24) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P).
+  * (g) Synthetic cannabinoids. Unless specifically excepted or unless
+listed in another schedule, any material, compound, mixture, or
+preparation, which contains any quantity of the following synthetic
+cannabinoid substances, or which contains any of its salts, isomers, and
+salts of isomers whenever the existence of such salts, isomers, and
+salts of isomers is possible within the specific chemical designation
+(for purposes of this paragraph only, the term "isomer" includes the
+optical, position and geometric isomers):
+  (1) (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)
+methanone.  Some trade or other names: UR-144.
+  (2) {1-(5-fluro-pentyl)-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)
+methanone. Some trade names or other names: 5-fluoro-UR-144, XLR11.
+  (3) N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide. Some trade or
+other names: APINACA, AKB48.
+  (4) quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate. Some trade or
+other names: PB-22; QUPIC.
+  (5) quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate. Some
+trade or other names: 5-fluoro-PB-22; 5F-PB-22.
+  (6) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazo-
+le-3-carboxamide. Some trade or other names: AB-FUBINACA.
+  (7) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-
+carboxamide. Some trade or other names: ADB-PINACA.
+  (8) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-
+indazole-3-carboxamide. Some trade or other names: AB-CHMINACA.
+  (9) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-
+carboxamide. Some trade or other names: AB-PINACA.
+  (10) {1-(5-fluoropentyl)-1H-indazol-3-yl}(naphthalen-1-y1)methanone.
+Some trade or other names: THJ-2201.
+  * NB Effective July 11, 2018
+  * (h) (1) Cannabimimetic agents. Unless specifically exempted or
+unless listed in another schedule, any material, compound, mixture, or
+preparation that is not approved by the federal food and drug
+administration (FDA) which contains any quantity of cannabimimetic
+agents, or which contains their salts, isomers, and salts of isomers
+whenever the existence of such salts, isomers, and salts of isomers is
+possible within the specific chemical designation.
+  (2) As used in this subdivision, the term "cannabimimetic agents"
+means any substance that is a cannabinoid receptor type 1 (CB1 receptor)
+agonist as demonstrated by binding studies and functional assays within
+any of the following structural classes:
+  (i) 2-(3-hydroxycyclohexyl)phenol with substitution at the 5-position
+of the phenolic ring by alkyl or alkenyl, whether or not substituted on
+the cyclohexyl ring to any extent.
+  (ii) 3-(1-naphthoyl)indole or 3-(1-naphthylmethane)indole by
+substitution at the nitrogen atom of the indole ring, whether or not
+further substituted on the indole ring to any extent, whether or not
+substituted on the naphthoyl or naphthyl ring to any extent.
+  (iii) 3-(1-naphthoyl)pyrrole by substitution at the nitrogen atom of
+the pyrrole ring, whether or not further substituted in the pyrrole ring
+to any extent, whether or not substituted on the naphthoyl ring to any
+extent.
+  (iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position
+of the indene ring, whether or not further substituted in the indene
+ring to any extent, whether or not substituted on the naphthyl ring to
+any extent.
+  (v) 3-phenylacetylindole or 3-benzoylindole by substitution at the
+nitrogen atom of the indole ring, whether or not further substituted in
+the indole ring to any extent, whether or not substituted on the phenyl
+ring to any extent.
+  (3) Such term includes:
+  (i) 5-(1,1-dimethylheptyl)-2-{(1R,3S)-3-hydroxycyclohexyl}-phenol
+(CP-47,497);
+  (ii) 5-(1,1-dimethyloctyl)-2-{(1R,3S)-3-hydroxycyclohexyl}-phenol
+(cannabicyclohexanol or CP-47,497 C8-homolog);
+  (iii) 1-pentyl-3-(1-naphthoyl)indole (JWH-018 and AM678);
+  (iv) 1-butyl-3-(1-naphthoyl)indole (JWH-073);
+  (v) 1-hexyl-3-(1-naphthoyl)indole (JWH-019);
+  (vi) 1-{2-(4-morpholinyl)ethyl}-3-(1-naphthoyl)indole (JWH-200);
+  (vii) 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250);
+  (viii) 1-pentyl-3-{1-(4-methoxynaphthoyl)}indole (JWH-081);
+  (ix) 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122);
+  (x) 1-pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398);
+  (xi) 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM2201);
+  (xii) 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole (AM694);
+  (xiii) 1-pentyl-3-{(4-methoxy)-benzoyl}indole (SR-19 and RCS-4);
+  (xiv) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (SR-18 and
+RCS-8); and
+  (xv) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203).
+  * NB Effective July 11, 2018
   Schedule II. (a) Schedule II shall consist of the drugs and other
 substances, by whatever official name, common or usual name, chemical
 name, or brand name designated, listed in this section.

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
-| Sections | 431 |
-| Last changed | 22 Dec 2017 |
+| Sections | 437 |
+| Last changed | 20 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -27,10 +27,11 @@ Assembly, do enact as follows:
               CHAPTER FORTY-FOUR-B OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (62 lines)](chapter-text.md)
+[Full chapter text (65 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Apr 2018](../../changes/2018/2018-04-20.md): 6 added
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 7 added
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 7 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [14 Aug 2015](../../changes/2015/2015-08-14.md): 9 amended
 - [7 Aug 2015](../../changes/2015/2015-08-07.md): 1 amended
 - [31 Jul 2015](../../changes/2015/2015-07-31.md): 7 amended
-- [15 May 2015](../../changes/2015/2015-05-15.md): 1 amended
 
 ## Contents
 
@@ -79,3 +79,5 @@ Assembly, do enact as follows:
 - [Article 26 — New York Main Street Program](article-26-new-york-main-street-program/)
 - [Article 27 — Rural and Urban Community Investment Fund Program](article-27-rural-and-urban-community-investment-fund/)
 - [Article 28 — New York State First Home Savings Program](article-28-new-york-state-first-home-savings-program/)
+- [Article 29 — Residential Emergency Services to Offer Home Repairs to the Elderly Program](article-29-residential-emergency-services-to-offer-home/)
+- [Article 30 — New York Access to Home For Heroes Program](article-30-new-york-access-to-home-for-heroes-program/)

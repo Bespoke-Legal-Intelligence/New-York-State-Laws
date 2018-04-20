@@ -15,18 +15,19 @@ person (i) who is in a medical institution or nursing facility and
 expected to remain in such facility or institution for at least thirty
 consecutive days; or (ii) who is receiving care, services and supplies
 pursuant to a waiver pursuant to subsection (c) of section nineteen
-hundred fifteen of the federal social security act or is receiving care,
-services and supplies in a managed long-term care plan pursuant to
-section eleven hundred fifteen of the social security act; and (iii) who
-is married to a person who is not in a medical institution or nursing
-facility or is not receiving waiver services described in subparagraph
-(ii) of this paragraph; provided, however, that medical assistance shall
-be furnished pursuant to this paragraph only if, for so long as, and to
-the extent that federal financial participation is available therefor.
-The commissioner of health shall make any amendments to the state plan
-for medical assistance, or apply for any waiver or approval under the
-federal social security act that are necessary to carry out the
-provisions of this paragraph.
+hundred fifteen of the federal social security act, or successor to such
+waiver, or is receiving care, services and supplies in a managed
+long-term care plan pursuant to section eleven hundred fifteen of the
+social security act; and (iii) who is married to a person who is not in
+a medical institution or nursing facility or is not receiving waiver
+services described in subparagraph (ii) of this paragraph; provided,
+however, that medical assistance shall be furnished pursuant to this
+paragraph only if, for so long as, and to the extent that federal
+financial participation is available therefor. The commissioner of
+health shall make any amendments to the state plan for medical
+assistance, or apply for any waiver or approval under the federal social
+security act that are necessary to carry out the provisions of this
+paragraph.
   (b) For purposes of this section, a "community spouse" is a person who
 is the spouse of an "institutionalized spouse".
   (c) For the purposes of this section, "spousal share" means an amount
@@ -144,10 +145,10 @@ injury waiver authorized pursuant to section twenty-seven hundred forty
 of the public health law, the long term home health care program waiver
 authorized pursuant to section three hundred sixty-seven-c of this
 title, and the home and community based services waiver for persons with
-developmental disabilities administered by the office of mental
-retardation and developmental disabilities pursuant to an agreement with
-the federal centers for medicare and Medicaid services.
-  * NB Effective until December 31, 2018
+developmental disabilities, or successor to such waiver, administered by
+the office for people with developmental disabilities pursuant to an
+agreement with the federal centers for medicare and Medicaid services.
+  * NB Effective until March 31, 2023
   * 4. In determining the amount of income to be applied toward the cost
 of medical care, services and supplies of the institutionalized spouse,
 after the institutionalized spouse has been determined eligible for
@@ -158,7 +159,7 @@ monthly income of the institutionalized spouse in the following order:
   (c) a family allowance for each family member;
   (d) any expenses incurred for medical care, services or supplies and
 remedial care for the institutionalized spouse.
-  * NB Effective December 31, 2018
+  * NB Effective March 31, 2023
   5. The following rules apply in determining the resources of the
 institutionalized spouse and the community spouse in establishing
 eligibility for medical assistance:

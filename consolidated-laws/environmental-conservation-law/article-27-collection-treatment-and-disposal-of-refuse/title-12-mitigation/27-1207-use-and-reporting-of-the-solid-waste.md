@@ -1,11 +1,11 @@
-﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-1207", "kind": "section", "law_id": "ENV", "location_id": "27-1207", "path": "ARTICLE 27 › TITLE 12 › SECTION 27-1207", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-1207.md", "title": "Use and reporting of the solid waste mitigation account and the drinking water response account"} -->
-# Environmental Conservation Law § 27-1207 — Use and reporting of the solid waste mitigation account and the drinking water response account
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 27-1207", "kind": "section", "law_id": "ENV", "location_id": "27-1207", "path": "ARTICLE 27 › TITLE 12 › SECTION 27-1207", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/27-1207.md", "title": "Use and reporting of the solid waste mitigation program and the drinking water response program"} -->
+# Environmental Conservation Law § 27-1207 — Use and reporting of the solid waste mitigation program and the drinking water response program
 
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 12 — Mitigation and Remediation of Certain Solid Waste Sites and Drinking Water Contamination](README.md)
 
 ```text
-§ 27-1207. Use and reporting of the solid waste mitigation account and
-             the drinking water response account.
+§ 27-1207. Use and reporting of the solid waste mitigation program and
+             the drinking water response program.
   1. Pursuant to the clean water infrastructure act of two thousand
 seventeen and within the up to one hundred thirty million dollars
 appropriated for such purposes, mitigation and remediation efforts to
@@ -13,9 +13,10 @@ address public drinking water contamination from emerging contaminants
 and solid waste sites causing or substantially contributing to drinking
 water impairment that impacts public health may be conducted in
 accordance with this title.
-  2. The solid waste mitigation account shall be made available to the
-department and the department of health, as applicable, for the
-following purposes:
+  2. The solid waste mitigation program shall receive no more than
+twenty-five million dollars from the clean water infrastructure act of
+2017 and be made available to the department and the department of
+health, as applicable, for the following purposes:
   a. enumeration and assessment of solid waste sites;
   b. investigation and environmental characterization of solid waste
 sites, including environmental sampling;
@@ -23,9 +24,10 @@ sites, including environmental sampling;
   d. monitoring of solid waste sites; and
   e. administration and enforcement of the requirements of section
 27-1203 of this title.
-  3. The drinking water response account shall be made available to the
-department and the department of health, as applicable, for the
-following purposes:
+  3. The drinking water response program shall receive no more than
+twenty million dollars annually from the clean water infrastructure act
+of 2017 and be made available to the department and the department of
+health, as applicable, for the following purposes:
   a. mitigation of drinking water contamination;
   b. investigation of drinking water contamination;
   c. remediation of drinking water contamination; and
@@ -33,5 +35,24 @@ following purposes:
 except the provisions of section 27-1203.
   4. On or before July first, two thousand nineteen and July first of
 each succeeding year, the department shall report on the status of the
-programs.
+programs. Such status report shall reflect information available to the
+department as of March thirty-first of each year, and shall include
+information regarding the number of sites referred to the inactive
+hazardous waste disposal site remedial program based on information
+obtained pursuant to this title and an accounting of all monies expended
+or encumbered from the clean water infrastructure act of two thousand
+seventeen during the preceding fiscal year, such accounting to
+separately list:
+  a. monies expended or encumbered for the purpose of conducting site
+investigations;
+  b. monies expended or encumbered for the purpose of conducting
+remedial investigations and feasibility studies;
+  c. monies expended for mitigation and remediation measures; and
+  d. an accounting of payments received and payments obligated to be
+received pursuant to this title, and a report of the department's
+attempts to secure such obligations.
+  5. all moneys recovered pursuant to title twelve of article
+twenty-seven of this chapter shall be deposited into the capital
+projects fund (30000), provided that such moneys recovered shall be used
+for the same purposes as are authorized by this title.
 ```

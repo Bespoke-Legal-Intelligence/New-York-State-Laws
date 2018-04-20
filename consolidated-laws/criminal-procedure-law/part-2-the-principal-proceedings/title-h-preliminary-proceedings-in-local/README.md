@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Article 95 — Pre-criminal Proceeding Settlements](article-095-pre/)
 - [Article 100 — Commencement of Action In Local Criminal Court--local Criminal Court Accusatory Instruments](article-100-com/)
 - [Article 110 — Requiring Defendant's Appearance In Local Criminal Court For Arraignment](article-110-req/)
 - [Article 120 — Warrant of Arrest](article-120-war/)

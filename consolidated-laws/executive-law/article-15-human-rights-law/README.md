@@ -15,6 +15,7 @@
 - [§ 296-A Unlawful discriminatory practices in relation to credit](296a-unlawful-discriminatory-practices-in-relation-to-credit.md)
 - [§ 296-B Unlawful discriminatory practices relating to domestic workers](296b-unlawful-discriminatory-practices-relating-to-domestic-workers.md)
 - [§ 296-C Unlawful discriminatory practices relating to interns](296c-unlawful-discriminatory-practices-relating-to-interns.md)
+- [§ 296-D Sexual harassment relating to non-employees](296d-sexual-harassment-relating-to-non-employees.md)
 - [§ 297 Procedure](297-procedure.md)
 - [§ 298 Judicial review and enforcement](298-judicial-review-and-enforcement.md)
 - [§ 298-A Application of article to certain acts committed outside the state of New York](298a-application-of-article-to-certain-acts-committed-outside-the-state-of-new-york.md)
@@ -39,6 +40,7 @@ Section 290.   Purposes of article.
         296-b. Unlawful discriminatory practices relating to domestic
                  workers.
         296-c. Unlawful discriminatory practices relating to interns.
+        296-d. Sexual harassment relating to non-employees.
         297.   Procedure.
         298.   Judicial review and enforcement.
         298-a. Application of article to certain acts committed outside

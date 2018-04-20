@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
-| Sections | 1,073 |
-| Last changed | 23 Mar 2018 |
+| Sections | 1,074 |
+| Last changed | 20 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [20 Apr 2018](../../changes/2018/2018-04-20.md): 2 amended, 1 added
 - [23 Mar 2018](../../changes/2018/2018-03-23.md): 1 amended
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 4 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended, 1 added
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 2 amended, 1 added
 - [1 Sep 2017](../../changes/2017/2017-09-01.md): 1 added
-- [4 Aug 2017](../../changes/2017/2017-08-04.md): 8 amended, 1 added
 
 ## Contents
 
@@ -85,6 +85,7 @@ Assembly, do enact as follows:
 - [Article 12-F — Conservation Advisory Councils and Conservation Boards](article-12f-conservation-advisory-councils-and-conservation/)
 - [Article 12-G — Landlord-tenant Relations Council](article-12g-landlord-tenant-relations-council/)
 - [Article 12-H — Councils On the Disabled](article-12h-councils-on-the-disabled/)
+- [Article 12-I — County-wide Shared Services Panels](article-12i-county-wide-shared-services-panels/)
 - [Article 13 — Playgrounds and Neighborhood Recreation Centers](article-13-playgrounds-and-neighborhood-recreation-centers/)
 - [Article 13-A — Lost and Found Property](article-13a-lost-and-found-property/)
 - [Article 13-B — Picnic Parks And/or Roadside Rest Areas](article-13b-picnic-parks-and-or-roadside-rest-areas/)

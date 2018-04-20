@@ -7,7 +7,7 @@
   § 2801. Definitions. The following words or phrases, as used in this
 article, shall have the following meanings, unless the context otherwise
 requires:
-  1. "Hospital" means a facility or institution engaged principally in
+  * 1. "Hospital" means a facility or institution engaged principally in
 providing services by or under the supervision of a physician or, in the
 case of a dental clinic or dental dispensary, of a dentist, or, in the
 case of a midwifery birth center, of a midwife, for the prevention,
@@ -32,6 +32,52 @@ recognized religious organization whose teachings include reliance on
 spiritual means through prayer alone for healing in the practice of the
 religion of such organization and where services are provided in
 accordance with those teachings.
+  * NB Effective until October 9, 2018
+  * 1. "Hospital" means a facility or institution engaged principally in
+providing services by or under the supervision of a physician or, in the
+case of a dental clinic or dental dispensary, of a dentist, or, in the
+case of a midwifery birth center, of a midwife, for the prevention,
+diagnosis or treatment of human disease, pain, injury, deformity or
+physical condition, including, but not limited to, a general hospital,
+public health center, diagnostic center, treatment center, dental
+clinic, dental dispensary, rehabilitation center other than a facility
+used solely for vocational rehabilitation, nursing home, tuberculosis
+hospital, chronic disease hospital, maternity hospital, midwifery birth
+center, lying-in-asylum, out-patient department, out-patient lodge,
+dispensary and a laboratory or central service facility serving one or
+more such institutions, but the term hospital shall not include an
+institution, sanitarium or other facility engaged principally in
+providing services for the prevention, diagnosis or treatment of mental
+disability and which is subject to the powers of visitation,
+examination, inspection and investigation of the department of mental
+hygiene except for those distinct parts of such a facility which provide
+hospital service. The provisions of this article shall not apply to a
+facility or institution engaged principally in providing services by or
+under the supervision of the bona fide members and adherents of a
+recognized religious organization whose teachings include reliance on
+spiritual means through prayer alone for healing in the practice of the
+religion of such organization and where services are provided in
+accordance with those teachings. No provision of this article or any
+other provision of law shall be construed to: (a) limit the volume of
+mental health or substance use disorder services that can be provided by
+a provider of primary care services licensed under this article and
+authorized to provide integrated services in accordance with regulations
+issued by the commissioner in consultation with the commissioner of the
+office of mental health and the commissioner of the office of alcoholism
+and substance abuse services, including regulations issued pursuant to
+subdivision seven of section three hundred sixty-five-l of the social
+services law or part L of chapter fifty-six of the laws of two thousand
+twelve; (b) require a provider licensed pursuant to article thirty-one
+of the mental hygiene law or certified pursuant to article thirty-two of
+the mental hygiene law to obtain an operating certificate from the
+department if such provider has been authorized to provide integrated
+services in accordance with regulations issued by the commissioner in
+consultation with the commissioner of the office of mental health and
+the commissioner of the office of alcoholism and substance abuse
+services, including regulations issued pursuant to subdivision seven of
+section three hundred sixty-five-l of the social services law or part L
+of chapter fifty-six of the laws of two thousand twelve.
+  * NB Effective October 9, 2018
   2. "Nursing home" means a facility providing therein nursing care to
 sick, invalid, infirm, disabled or convalescent persons in addition to
 lodging and board or health-related service, or any combination of the

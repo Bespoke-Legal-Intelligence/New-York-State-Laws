@@ -36,15 +36,18 @@ law to the contrary, eligible expenditures by a social services district
 for foster care services shall be subject to reimbursement with state
 funds only to the extent of annual appropriations to the state foster
 care block grant. Such foster care services shall include expenditures
-for the provision and administration of: care, maintenance, supervision
-and tuition; supervision of foster children placed in federally funded
-job corps programs; and care, maintenance, supervision and tuition for
-adjudicated juvenile delinquents and persons in need of supervision
-placed in residential programs operated by authorized agencies and in
-out-of-state residential programs; except that, notwithstanding any
-other provision of law to the contrary, reimbursement with state funds
-pursuant to the state foster care block grant shall not be available for
-tuition expenditures for foster children, including persons in need of
+for the provision and administration of: care, maintenance, supervision,
+tuition, and transportation costs related to the education of a foster
+child or youth incurred in accordance with paragraph c of subdivision
+four of section thirty-two hundred forty-four of the education law;
+supervision of foster children placed in federally funded job corps
+programs; and care, maintenance, supervision and tuition for adjudicated
+juvenile delinquents and persons in need of supervision placed in
+residential programs operated by authorized agencies and in out-of-state
+residential programs; except that, notwithstanding any other provision
+of law to the contrary, reimbursement with state funds pursuant to the
+state foster care block grant shall not be available for tuition
+expenditures for foster children, including persons in need of
 supervision and adjudicated juvenile delinquents, made by a social
 services district located within a city having a population of one
 million or more. Social services districts must develop and implement

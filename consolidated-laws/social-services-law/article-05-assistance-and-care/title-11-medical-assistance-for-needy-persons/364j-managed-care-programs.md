@@ -24,15 +24,15 @@ or
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act; or
-  ** NB Effective until September 30, 2019
+  ** NB Effective until September 30, 2023
   ** (ii) is authorized as a partially capitated program pursuant to
 section three hundred sixty-four-f of this title or section forty-four
 hundred three-e of the public health law or section 1915b of the social
 security act.
-  ** NB Effective September 30, 2019
+  ** NB Effective September 30, 2023
   ** (iii) is authorized to operate under section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed September 30, 2019
+  ** NB Repealed September 30, 2023
   (c) "Managed care program". A statewide program in which medical
 assistance recipients enroll on a voluntary or mandatory basis to
 receive medical assistance services, including case management, directly
@@ -235,7 +235,7 @@ subsection (c) of section 1915 of the federal social security act, to
 persons suffering from traumatic brain injuries or qualifying for
 nursing home diversion and transition services, shall not be provided to
 medical assistance recipients through managed care programs until at
-least January first, two thousand eighteen.
+least January first, two thousand twenty-two.
   (e) The following categories of individuals may be required to enroll
 with a managed care program when program features and reimbursement
 rates are approved by the commissioner of health and, as appropriate,
@@ -264,9 +264,10 @@ facility for the developmentally disabled or who has characteristics and
 needs similar to such persons;
   (vii) a person with a developmental or physical disability who
 receives home and community-based services or care-at-home services
-through existing waivers under section nineteen hundred fifteen (c) of
-the federal social security act or who has characteristics and needs
-similar to such persons;
+through a demonstration waiver under section eleven hundred fifteen of
+the federal social security act, existing waivers under section nineteen
+hundred fifteen (c) of the federal social security act, or who has
+characteristics and needs similar to such persons;
   (viii) a person who is eligible for medical assistance pursuant to
 subparagraph twelve or subparagraph thirteen of paragraph (a) of
 subdivision one of section three hundred sixty-six of this title;
@@ -1343,7 +1344,7 @@ inconsistent with any provision of section forty-four hundred three-g of
 the public health law, such provision of this section shall not apply to
 an entity authorized to operate pursuant to section forty-four hundred
 three-g of the public health law.
-  ** NB Repealed September 30, 2019
+  ** NB Repealed September 30, 2023
   29. In the event that the department receives approval from the
 Centers for Medicare and Medicaid Services to amend its 1115 waiver
 known as the Partnership Plan or receives approval for a new 1115 waiver
@@ -1526,6 +1527,6 @@ services; such waiver may be applied on a provider-specific or
 industry-wide basis. Further, such requirements may be waived, as the
 commissioner determines necessary, to comply with federal rules or
 regulations governing these payment methodologies.
-  * NB Repealed March 31, 2019 (per ch. 165/1991)
-  * NB Repealed March 31, 2019 (per ch. 710/1988)
+  * NB Repealed March 31, 2024 (per ch. 165/1991)
+  * NB Repealed March 31, 2024 (per ch. 710/1988)
 ```

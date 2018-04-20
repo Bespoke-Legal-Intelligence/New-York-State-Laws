@@ -8,11 +8,11 @@
 evidence in a sexual offense. 1. Every hospital providing treatment to
 alleged victims of a sexual offense shall be responsible for:
   (a) maintaining sexual offense evidence and the chain of custody as
-provided in subdivision two of this section.
+provided in subdivision two of this section;
   (b) contacting a rape crisis or victim assistance organization, if
 any, providing victim assistance to the geographic area served by that
 hospital to establish the coordination of non-medical services to sexual
-offense victims who request such coordination and services.
+offense victims who request such coordination and services;
   (c) offering and making available appropriate HIV post-exposure
 treatment therapies; including a seven day starter pack of HIV
 post-exposure prophylaxis, in cases where it has been determined, in
@@ -23,25 +23,102 @@ of victim services pursuant to the provisions of article twenty-two of
 the executive law. With the consent of the victim of a sexual assault,
 the hospital emergency room department shall provide or arrange for an
 appointment for medical follow-up related to HIV post-exposure
-prophylaxis and other care as appropriate.
-  2. The sexual offense evidence shall be collected and kept in a locked
-separate and secure area for not less than thirty days unless: (a) such
-evidence is not privileged and the police request its surrender before
-that time, which request shall be complied with; or (b) such evidence is
-privileged and (i) the alleged sexual offense victim nevertheless gives
-permission to turn such privileged evidence over to the police before
-that time, or (ii) the alleged sexual offense victim signs a statement
-directing the hospital to not collect and keep such privileged evidence,
-which direction shall be complied with. The sexual offense evidence
-shall include, but not be limited to, slides, cotton swabs, clothing and
-other items. Where appropriate such items must be refrigerated and the
-clothes and swabs must be dried, stored in paper bags and labeled. Each
-item of evidence shall be marked and logged with a code number
-corresponding to the patient's medical record. The alleged sexual
-offense victim shall be notified that after thirty days, the
-refrigerated evidence will be discarded in compliance with state and
-local health codes and the alleged sexual offense victim's clothes will
-be returned to the alleged sexual offense victim upon request.
+prophylaxis and other care as appropriate; and
+  (d) ensuring sexual assault survivors are not billed for sexual
+assault forensic exams and are notified orally and in writing of the
+option to decline to provide private health insurance information and
+have the office of victim services reimburse the hospital for the exam
+pursuant to subdivision thirteen of section six hundred thirty-one of
+the executive law.
+  2. Sexual offense evidence shall be collected and maintained as
+follows:
+  (a) All sexual offense evidence shall be kept in a locked, separate
+and secure area for twenty years from the date of collection; provided
+that such evidence shall be transferred to a new location(s) pursuant to
+this subdivision.
+  (b) Sexual offense evidence shall include, but not be limited to,
+slides, cotton swabs, clothing and other items. Where appropriate, such
+items shall be refrigerated and the clothes and swabs shall be dried,
+stored in paper bags, and labeled. Each item of evidence shall be marked
+and logged with a code number corresponding to the alleged sexual
+offense victim's medical record.
+  (c) Upon collection, the hospital shall notify the alleged sexual
+offense victim that, after twenty years, the sexual offense evidence
+will be discarded in compliance with state and local health codes and
+that the alleged sexual offense victim's clothes or personal effects
+will be returned to the alleged sexual offense victim at any time upon
+request. The alleged sexual offense victim shall be given the option of
+providing contact information for purposes of receiving notice of the
+planned destruction of such evidence after the expiration of the
+twenty-year period.
+  (d) Until April first, two thousand twenty-one, or earlier if
+determined feasible by the director of budget pursuant to paragraph (g)
+of this subdivision, hospitals shall be responsible for securing
+long-term sexual offense evidence pursuant to this section, after which
+such storage shall be the responsibility of the custodian(s) identified
+in the plan approved by the director of budget pursuant to paragraph (g)
+of this subdivision. Hospitals may enter into contracts with other
+entities that will ensure appropriate and secure long-term storage of
+sexual offense evidence pursuant to this section until April first, two
+thousand twenty-one.
+  (e) Beginning April first, two thousand eighteen, the department, the
+office of victim services, the division of criminal justice services and
+the division of state police shall jointly study, evaluate and make
+recommendations concerning the storage and monitoring of sexual offense
+evidence for twenty years, including studying options for the use of:
+state-owned or operated facilities; facilities owned or operated by
+local government or law enforcement agencies; and facilities owned or
+operated by private entities.
+  (f) On or before December first, two thousand nineteen, such agencies
+shall submit a joint plan to the director of budget, speaker of the
+assembly, and president pro tempore of the senate, which shall at a
+minimum include: recommended storage location(s) for sexual offense
+evidence; a schedule for sexual offense evidence held by hospitals
+pursuant to this section to be transferred to such storage location(s)
+by April first, two thousand twenty-one; and tracking, monitoring and
+notification option(s).
+  (g) On or before January first, two thousand twenty, the director of
+budget shall approve a plan that, at a minimum, establishes: storage
+location(s) for sexual offense evidence by no later than April first,
+two thousand twenty-one; a reasonable schedule for sexual offense
+evidence maintained by hospitals pursuant to this section to be
+transferred to such storage location(s); and tracking, monitoring and
+notification system(s).
+  (h) Between thirty and ten days prior to the transfer of sexual
+offense evidence to the storage location(s) identified in the plan
+approved by the director of budget pursuant to paragraph (g) of this
+subdivision, hospitals shall make diligent efforts to notify the alleged
+sexual offense victim of the transfer of custody for the remainder of
+the twenty-year storage period.
+  (i) On April first, two thousand twenty-one, or earlier if determined
+feasible by the director of budget, responsibility for long-term storage
+of sexual offense evidence shall transfer to the custodian(s) identified
+in the plan approved by the director of budget pursuant to paragraph (g)
+of this subdivision.
+  (j) After April first, two thousand twenty-one, or earlier if
+determined feasible by the director of budget, hospitals shall ensure
+transfer of sexual offense evidence collected pursuant to this section
+to the custodian(s) identified in the plan approved by the director of
+budget pursuant to paragraph (g) of this subdivision within ten days of
+collection of such evidence, while maintaining chain of custody.
+  (k) At least ninety days prior to the expiration of the twenty-year
+storage period for any sexual offense evidence, the custodian(s) of the
+sexual offense evidence shall make diligent efforts to contact the
+alleged sexual offense victim to notify the alleged sexual offense
+victim that the sexual offense evidence will be discarded in compliance
+with state and local health codes and that the alleged sexual offense
+victim's clothes and personal effects will be returned to the alleged
+sexual offense victim upon request.
+  (l) Notwithstanding any other provision in this section, sexual
+offense evidence shall not continue to be stored where: (i) such
+evidence is not privileged and law enforcement requests its release, in
+which case the custodian(s) shall comply with such request; or (ii) such
+evidence is privileged and either (A) the alleged sexual offense victim
+gives permission to release the evidence to law enforcement, or (B) the
+alleged sexual offense victim signs a statement directing the
+custodian(s) to dispose of the evidence, in which case the sexual
+offense evidence will be discarded in compliance with state and local
+health codes.
   3. Upon admittance or commencement of treatment of the alleged sexual
 offense victim, the hospital shall advise the victim of the availability
 of the services of a local rape crisis or victim assistance

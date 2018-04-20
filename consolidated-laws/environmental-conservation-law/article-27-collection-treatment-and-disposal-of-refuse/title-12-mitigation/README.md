@@ -8,7 +8,7 @@
 - [§ 27-1201 Definitions](27-1201-definitions.md)
 - [§ 27-1203 Mitigation and remediation of solid waste sites](27-1203-mitigation-and-remediation-of-solid-waste.md)
 - [§ 27-1205 Mitigation of contaminants in drinking water](27-1205-mitigation-of-contaminants-in-drinking-water.md)
-- [§ 27-1207 Use and reporting of the solid waste mitigation account and the drinking water response account](27-1207-use-and-reporting-of-the-solid-waste.md)
+- [§ 27-1207 Use and reporting of the solid waste mitigation program and the drinking water response program](27-1207-use-and-reporting-of-the-solid-waste.md)
 - [§ 27-1209 Rules and regulations](27-1209-rules-and-regulations.md)
 - [§ 27-1211 Protection against liability and liability exemptions and defenses](27-1211-protection-against-liability-and-liability.md)
 

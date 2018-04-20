@@ -4,7 +4,7 @@
 [County Law](../README.md) › [Article 18-B — Representation of Persons Accused of Crime or Parties Before the Family Court or Surrogate's Court](README.md)
 
 ```text
-  § 722-f. Annual reports. 1. A public defender appointed pursuant to
+  § 722-f. Annual reports. * 1. A public defender appointed pursuant to
 article eighteen-A of this chapter, a private legal aid bureau or
 society designated by a county or city pursuant to subdivision two of
 section seven hundred twenty-two of this chapter, and an administrator
@@ -12,6 +12,18 @@ of a plan of a bar association appointed pursuant to subdivision three
 of section seven hundred twenty-two of this chapter shall file an annual
 report with the judicial conference at such times and in such detail and
 form as the judicial conference may direct.
+  * NB Effective until April 1, 2019
+  * 1. A public defender appointed pursuant to article eighteen-A of
+this chapter, a private legal aid bureau or society designated by a
+county or city pursuant to subdivision two of section seven hundred
+twenty-two of this article, an administrator of a plan of a bar
+association appointed pursuant to subdivision three of section seven
+hundred twenty-two of this article and an office of conflict defender
+established pursuant to such subdivision shall file an annual report
+with the chief administrator of the courts and the office of indigent
+legal services.  Such report shall be filed at such times and in such
+detail and form as the office of indigent legal services may direct.
+  * NB Effective April 1, 2019
   2. (a) The county executive or chief executive officer of each county
 or, in the case of a county wholly contained within a city, such city
 shall file an annual report which specifies in detail and certifies to

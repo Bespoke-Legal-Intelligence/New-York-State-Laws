@@ -219,6 +219,30 @@ forty-four of the public health law shall not be a fiscal intermediary.
   (h) An authorization under this subdivision shall last for a period of
 five years. Upon application for a renewal, the fiscal intermediary
 shall submit up to date information to the commissioner.
+  (i) (i) The commissioner may require a fiscal intermediary to report
+on the direct care and administrative costs of personal assistance
+services as accounted for by the fiscal intermediary. The department may
+specify the frequency and format of such reports, determine the type and
+amount of information to be submitted, and require the submission of
+supporting documentation, provided, however, that the department shall
+provide no less than ninety calendar days' notice before such reports
+are due.
+  (ii) If the department determines that the cost report submitted by a
+provider is inaccurate or incomplete, the department shall notify the
+provider in writing and advise the provider of the correction or
+additional information that the provider must submit. The provider must
+submit the corrected or additional information within thirty calendar
+days from the date the provider receives the notice.
+  (iii) The department shall grant a provider an additional thirty
+calendar days to submit the original, corrected or additional cost
+report when the provider, prior to the date the report is due, submits a
+written request to the department for an extension and establishes to
+the department's satisfaction that the provider cannot submit the report
+by the date due for reasons beyond the provider's control.
+  (iv) All reports shall be certified by the owner, administrator, chief
+executive officer, or public official responsible for the operation of
+the provider. The cost report form shall include a certification form,
+which shall specify who must certify the report.
   4-b. Actions involving the authorization of a fiscal intermediary.
   (a) A fiscal intermediary's authorization may be revoked, suspended,
 limited or annulled upon thirty day's written notice to the fiscal
@@ -232,6 +256,31 @@ immediately.
   (b) All orders or determinations under this subdivision shall be
 subject to review as provided in article seventy-eight of the civil
 practice law and rules.
+  4-c. Advertising by fiscal intermediaries. (a) A fiscal intermediary
+shall not publish any advertisement that is false or misleading. For
+purposes of this subdivision, an advertisement is any material produced
+in any medium that can reasonably be interpreted as intended to market
+the fiscal intermediary's services to medical assistance recipients.
+  (b) Fiscal intermediaries shall submit all advertisements to the
+department prior to dissemination. Fiscal intermediaries shall not
+disseminate any advertisement until it has been approved by the
+department. The department shall render a decision on such submissions
+within thirty days.
+  (c) Upon a fiscal intermediary's receipt of notification by the
+commissioner that the fiscal intermediary has disseminated a false or
+misleading advertisement, or that the fiscal intermediary disseminated
+an advertisement without the department's approval, the fiscal
+intermediary shall have thirty days to cease disseminating or remove
+such advertisement.
+  (d) Upon the commissioner's determination that a fiscal intermediary
+has disseminated two advertisements that are either false or misleading
+or that were not approved by the department, such entity shall be
+prohibited from providing fiscal intermediary services and any
+authorization granted shall be immediately revoked, suspended, limited
+or annulled pursuant to subdivision four-b of this section. The
+department shall maintain a list of such entities and shall make such
+list available to contracting entities listed in subparagraph (i) of
+paragraph (a) of subdivision four-a of this section.
   5. Waivers, regulation and effectiveness.
   (a) The commissioner may, subject to the approval of the director of
 the budget, file for such federal waivers as may be needed for the

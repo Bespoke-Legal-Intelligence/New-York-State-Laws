@@ -130,6 +130,7 @@
 - [§ 2825-C Essential health care provider support program](2825c-essential-health-care-provider-support-program.md)
 - [§ 2825-D Health care facility transformation program: statewide](2825d-health-care-facility-transformation-program-statewide.md)
 - [§ 2825-E Health care facility transformation program: statewide II](2825e-health-care-facility-transformation-program-statewide-ii.md)
+- [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 
 <details>
@@ -311,6 +312,8 @@ Section 2800.     Declaration of policy and statement of purpose.
                     statewide.
         2825-e.   Health care facility transformation program: statewide
                     II.
+        2825-f.   Health care facility transformation program: statewide
+                    III.
         2826.     Temporary adjustment to reimbursement rates.
 ```
 

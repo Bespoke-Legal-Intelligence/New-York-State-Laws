@@ -198,6 +198,7 @@
 - [§ 97-PPPP\*2 Sickle cell disease research and education fund](97pppp-2-sickle-cell-disease-research-and-education-fund.md)
 - [§ 97-QQQQ Cystic fibrosis research and education fund](97qqqq-cystic-fibrosis-research-and-education-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
+- [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
 - [§ 98-B Indigent legal services fund](98b-indigent-legal-services-fund.md)
@@ -206,9 +207,15 @@
 - [§ 99-A Justice court fund](99a-justice-court-fund.md)
 - [§ 99-AA Retiree health benefit trust fund](99aa-retiree-health-benefit-trust-fund.md)
 - [§ 99-B Withholding of state aid for school purposes upon default in payment of obligations of the prospective recipient](99b-withholding-of-state-aid-for-school-purposes-upon-default-in-payment.md)
+- [§ 99-BB Armory rental account](99bb-armory-rental-account.md)
+- [§ 99-BB\*2 Parking services fund](99bb-2-parking-services-fund.md)
+- [§ 99-BB\*3 New York state secure choice administrative fund](99bb-3-new-york-state-secure-choice-administrative-fund.md)
+- [§ 99-BB\*4 SUNY Stony Brook Eastern Long Island Hospital Affiliation escrow fund](99bb-4-suny-stony-brook-eastern-long-island-hospital-affiliation-escrow-fund.md)
 - [§ 99-C Withholding of state aid upon failure of municipalities and school districts to repay health insurance reserve receipts when required](99c-withholding-of-state-aid-upon-failure-of-municipalities-and-school-districts.md)
+- [§ 99-CC Solid waste fund](99cc-solid-waste-fund.md)
 - [§ 99-D City university stabilization account](99d-city-university-stabilization-account.md)
 - [§ 99-D\*2 Community projects fund](99d-2-community-projects-fund.md)
+- [§ 99-DD Special events fund](99dd-special-events-fund.md)
 - [§ 99-E State university stabilization account](99e-state-university-stabilization-account.md)
 - [§ 99-F Spinal cord injury research trust fund](99f-spinal-cord-injury-research-trust-fund.md)
 - [§ 99-H Tribal-state compact revenue account](99h-tribal-state-compact-revenue-account.md)
@@ -473,6 +480,7 @@ Section 70.        Classification of funds.
         97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
         97-xxxx.   State health innovation plan account.
+        97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other
                      funds not immediately required.
@@ -484,11 +492,18 @@ Section 70.        Classification of funds.
         99-b.      Withholding of state aid for school purposes upon
                      default in payment of obligations of the
                      prospective recipient.
+        99-bb.     Armory rental account.
+        99-bb*2.   Parking services fund.
+        99-bb*3.   New York state secure choice administrative fund.
+        99-bb.     SUNY Stony Brook Eastern Long Island Hospital
+                     Affiliation escrow fund.
         99-c.      Withholding of state aid upon failure of
                      municipalities and school districts to repay health
                      insurance reserve receipts when required.
+        99-cc.     Solid waste fund.
         99-d.      City university stabilization account.
         99-d*2.    Community projects fund.
+        99-dd.     Special events fund.
         99-e.      State university stabilization account.
         99-f.      Spinal cord injury research trust fund.
         99-h.      Tribal-state compact revenue account.

@@ -470,6 +470,28 @@ for all nursing homes, other than nursing homes providing services
 primarily to children under the age of twenty-one, beginning April
 first, two thousand seventeen and each year thereafter sufficient to
 achieve eighteen million dollars in savings in each state fiscal year.
+  * (g) Notwithstanding any other provision of law or regulation to the
+contrary, any residential health care facility established pursuant to
+this article located in a county with a population of more than
+seventy-two thousand and less then seventy-five thousand persons based
+on the two thousand ten federal census, and operating between one
+hundred ten and one hundred thirty beds, being reimbursed by the
+department on a fee-for-services basis, shall be reimbursed at a rate of
+no less than one hundred seventeen percent of the fee-for-service rate
+of reimbursement calculated pursuant to this section for that facility
+for inpatient services provided on or after March first, two thousand
+eighteen.
+  * NB There are 2 par (g)'s
+  * (g) The commissioner shall reduce Medicaid revenue to a residential
+health care facility in a payment year by two percent if in each of the
+two most recent payment years for which New York state nursing home
+quality initiative data is available, the facility was ranked in the
+lowest two quintiles of facilities based on its nursing home quality
+initiative performance, and was ranked in the lowest quintile in the
+most recent payment year. The commissioner shall waive the application
+of this paragraph to a facility if the commissioner determines that the
+facility is in financial distress.
+  * NB There are 2 par (g)'s
   2-d. Residential health care facility supplemental payments.
 Notwithstanding any inconsistent provision of law, rule or regulation
 and subject to the availability of federal financial participation, for

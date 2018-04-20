@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 88 |
-| Last changed | 5 Jan 2018 |
+| Sections | 90 |
+| Last changed | 20 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (113 lines)](chapter-text.md)
+[Full chapter text (117 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Apr 2018](../../changes/2018/2018-04-20.md): 5 amended, 2 added
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 4 amended, 1 added
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [26 Aug 2016](../../changes/2016/2016-08-26.md): 1 amended
 - [29 Jul 2016](../../changes/2016/2016-07-29.md): 1 amended
 - [15 Jul 2016](../../changes/2016/2016-07-15.md): 3 amended
-- [15 Apr 2016](../../changes/2016/2016-04-15.md): 3 amended, 3 added
 
 ## Contents
 
@@ -76,6 +76,7 @@ Section  1.     Short title.
 - [§ 16-B Job retention and defense industry working capital loan program](16b-job-retention-and-defense-industry-working-capital-loan-program.md)
 - [§ 16-C Minority- and women-owned business development and lending program](16c-minority-and-women-owned-business-development-and-lending-program.md)
 - [§ 16-D Urban and community development program](16d-urban-and-community-development-program.md)
+- [§ 16-DD Community development revolving loan program](16dd-community-development-revolving-loan-program.md)
 - [§ 16-E Regional economic development partnership program](16e-regional-economic-development-partnership-program.md)
 - [§ 16-F Bonding guarantee assistance program](16f-bonding-guarantee-assistance-program.md)
 - [§ 16-G Child care facilities construction program](16g-child-care-facilities-construction-program.md)
@@ -135,3 +136,4 @@ Section  1.     Short title.
 - [§ 49 No title](49-no-title.md)
 - [§ 50 No title](50-no-title.md)
 - [§ 51 No title](51-no-title.md)
+- [§ 52 Small business innovation research (SBIR)/small business technology transfer (STTR) technical assistance program](52-small-business-innovation-research-sbir-small-business-technology-transfer-sttr.md)

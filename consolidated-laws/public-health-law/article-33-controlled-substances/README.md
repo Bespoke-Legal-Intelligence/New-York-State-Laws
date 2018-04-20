@@ -7,6 +7,7 @@
 
 - [Title 1 — General Provisions](title-1-general-provisions/)
 - [Title 2 — Manufacture and Distribution of Controlled Substances](title-2-manufacture-and-distribution/)
+- [Title 2-A — Opioid Stewardship Act](title-2a-opioid-stewardship-act/)
 - [Title 3 — Research, Instructional Activities, and Chemical Analysis Relating to Controlled Substances](title-3-research-instructional-activities/)
 - [Title 4 — Dispensing to Ultimate Users](title-4-dispensing-to-ultimate-users/)
 - [Title 5 — Dispensing to Addicts and Habitual Users](title-5-dispensing-to-addicts-and-habitual/)
@@ -52,6 +53,9 @@ Section 3310.   Licenses for manufacture or distribution of controlled
         3320.   Authorized distribution.
         3321.   Exempt distribution.
         3322.   Reports and records.
+                                TITLE 2-A
+                         OPIOID STEWARDSHIP ACT
+Section 3323.   Opioid stewardship fund.
                                 TITLE III
         RESEARCH, INSTRUCTIONAL ACTIVITIES, AND CHEMICAL ANALYSIS
                     RELATING TO CONTROLLED SUBSTANCES

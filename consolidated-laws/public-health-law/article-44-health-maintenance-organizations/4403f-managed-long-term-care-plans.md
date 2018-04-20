@@ -209,20 +209,20 @@ nineteen hundred fifteen of the federal social security act or successor
 provisions, and any other waivers necessary to require on or after April
 first, two thousand twelve, medical assistance recipients who are
 twenty-one years of age or older and who require community-based long
-term care services, as specified by the commissioner, for more than one
-hundred and twenty days, to receive such services through an available
-plan certified pursuant to this section or other program model that
-meets guidelines specified by the commissioner that support coordination
-and integration of services. Such guidelines shall address the
-requirements of paragraphs (a), (b), (c), (d), (e), (f), (g), (h), and
-(i) of subdivision three of this section as well as payment methods that
-ensure provider accountability for cost effective quality outcomes. Such
-other program models may include long term home health care programs
-that comply with such guidelines. Copies of such original waiver
-applications and amendments thereto shall be provided to the chairs of
-the senate finance committee, the assembly ways and means committee and
-the senate and assembly health committees simultaneously with their
-submission to the federal government.
+term care services, as specified by the commissioner, for a continuous
+period of more than one hundred and twenty days, to receive such
+services through an available plan certified pursuant to this section or
+other program model that meets guidelines specified by the commissioner
+that support coordination and integration of services. Such guidelines
+shall address the requirements of paragraphs (a), (b), (c), (d), (e),
+(f), (g), (h), and (i) of subdivision three of this section as well as
+payment methods that ensure provider accountability for cost effective
+quality outcomes. Such other program models may include long term home
+health care programs that comply with such guidelines. Copies of such
+original waiver applications and amendments thereto shall be provided to
+the chairs of the senate finance committee, the assembly ways and means
+committee and the senate and assembly health committees simultaneously
+with their submission to the federal government.
   (ii) The commissioner, shall seek input from representatives of home
 and community-based long term care services providers, recipients, and
 the Medicaid managed care advisory review panel, among others, to
@@ -269,8 +269,12 @@ subparagraph six of paragraph (b) of subdivision one of section three
 hundred sixty-six of the social services law;
   (11) a person who is eligible for medical assistance pursuant to
 paragraph (b) of subdivision four of section three hundred sixty-six of
-the social services law; and
-  (12) Native Americans.
+the social services law;
+  (12) Native Americans; and
+  (13) a person who is permanently placed in a nursing home for a
+consecutive period of three months or more. In implementing this
+provision, the department shall continue to support service delivery and
+outcomes that result in community living for enrollees.
   (v-a) For purposes of clause two of subparagraph (v) of this
 paragraph, program features shall be substantially comparable to those
 services available to traumatic brain injury waiver participants as of
@@ -299,13 +303,29 @@ choice. Where a participant has not selected such a provider, the
 commissioner shall assign such participant to a managed long term care
 provider, taking into account quality, capacity and geographic
 accessibility.
-  (vii) Managed long term care provided and plans certified or other
+  ** (vii) Managed long term care provided and plans certified or other
 care coordination model established pursuant to this paragraph shall
 comply with the provisions of paragraphs (d), (i), (t), and (u) and
 subparagraph (iii) of paragraph (a) and subparagraph (iv) of paragraph
 (e) of subdivision four of section three hundred sixty-four-j of the
 social services law.
-  (viii) (1) The commissioner shall report biannually on the
+  ** NB Effective until October 1, 2018
+  ** (vii) If another long term care plan certified under this section
+is available, medical assistance recipients required to enroll in such
+plans pursuant to this section, including recipients who have been
+assigned to a provider by the commissioner, may change plans without
+cause within ninety days of either notification of enrollment or the
+effective date of enrollment into a plan, whichever is later, by
+submitting a request to the entity designated by the department in a
+format to be determined by the department. In accordance with federal
+statutes and regulations, after such ninety-day period, the department
+may prohibit a recipient from changing plans more frequently than once
+every twelve months, except for good cause. Good cause may include poor
+quality of care, lack of access to covered services, lack of access to
+providers experienced in dealing with the enrollee's care needs, or as
+otherwise determined by the commissioner.
+  ** NB Effective October 1, 2018
+  ** (viii) (1) The commissioner shall report biannually on the
 implementation of this subdivision. The reports shall include, but not
 be limited to:
   (A) satisfaction of enrollees with care coordination/case management;
@@ -329,6 +349,39 @@ initial report shall be provided by September first, two thousand
 twelve. The reports shall be made available by each February first, and
 September first thereafter. Such reports shall be formatted to allow
 comparisons between plans.
+  ** NB Effective until October 1, 2018
+  ** (viii) Managed long term care provided and plans certified or other
+care coordination model established pursuant to this paragraph shall
+comply with the provisions of paragraphs (d), (i), (t), and (u) and
+subparagraph (iii) of paragraph (a) and subparagraph (iv) of paragraph
+(e) of subdivision four of section three hundred sixty-four-j of the
+social services law.
+  ** NB Effective October 1, 2018
+  ** (ix) (1) The commissioner shall report biannually on the
+implementation of this subdivision. The reports shall include, but not
+be limited to:
+  (A) satisfaction of enrollees with care coordination/case management;
+timeliness of care;
+  (B) service utilization data including changes in the level, hours,
+frequency, and types of services and providers;
+  (C) enrollment data, including auto-assignment rates by plan;
+  (D) quality data; and
+  (E) continuity of care for participants as they move to managed long
+term care, with respect to community based and nursing home populations,
+including pediatric nursing home populations, and medically fragile
+children being served by home care agencies affiliated with pediatric
+nursing homes and diagnostic and treatment centers primarily serving
+medically fragile children.
+  (2) The commissioner shall publish the report on the department's
+website and provide notice to the temporary president of the senate, the
+speaker of the assembly, the chair of the senate standing committee on
+health, the chair of the assembly health committee and the Medicaid
+Managed Care Advisory Review Panel upon availability of the report. The
+initial report shall be provided by September first, two thousand
+twelve. The reports shall be made available by each February first, and
+September first thereafter. Such reports shall be formatted to allow
+comparisons between plans.
+  ** NB Effective October 1, 2018
   * NB Effective until April 1, 2019
   * (b) The commissioner shall, to the extent necessary, submit the
 appropriate waivers, including, but not limited to, those authorized
@@ -426,13 +479,13 @@ demonstration, and consistent with federal regulations promulgated
 pursuant to the Health Insurance Portability and Accountability Act,
 share with such plan or demonstration the following data if it is
 available:
-  * NB Effective until September 30, 2019
+  * NB Effective until September 30, 2023
   * The commissioner shall, upon request by a managed long term care
 plan or operating demonstration, and consistent with federal regulations
 promulgated pursuant to the Health Insurance Portability and
 Accountability Act, share with such plan or demonstration the following
 data if it is available:
-  * NB Effective September 30, 2019
+  * NB Effective September 30, 2023
   (i) information concerning utilization of services and providers by
 each of its enrollees prior to and during enrollment, including but not
 limited to utilization of emergency department services, prescription
@@ -440,6 +493,73 @@ drugs, and hospital and nursing facility admissions.
   (ii) aggregate data concerning utilization and costs for enrollees and
 for comparable cohorts served through the Medicaid fee-for-service
 program.
+  (j) Limitations on licensed home care service agency contracts. (i)
+The commissioner may establish methodologies to limit the number of
+licensed home care services agencies licensed pursuant to article
+thirty-six of the public health law with which managed long term care
+plans may enter into contracts, provided that such limitations are
+consistent with the specifications set forth in this paragraph.
+  (ii) Managed long term care plans operating in the city of New York
+and/or the counties of Nassau, Suffolk, and Westchester may enter into
+contracts with licensed home care services agencies in such region in a
+maximum number calculated based upon the following methodology:
+  (A) As of October first, two thousand eighteen, one contract per
+seventy-five members enrolled in the plan within such region; and
+  (B) As of October first, two thousand nineteen, one contract per one
+hundred members enrolled in the plan within such region.
+  (iii) Managed long term care plans operating in counties other than
+those in the city of New York and the counties of Nassau, Suffolk, and
+Westchester may enter into contracts with licensed home care services
+agencies in such region in a maximum number calculated based upon the
+following methodology:
+  (A) As of October first, two thousand eighteen, one contract per
+forty-five members enrolled in the plan within such region.
+  (B) As of October first, two thousand nineteen, one contract per sixty
+members enrolled in the plan within such region.
+  (iv) Notwithstanding subparagraphs (ii) and (iii) of this paragraph, a
+managed long term care plan shall not enter into less than the number of
+contracts with licensed home care services agencies in each county in
+which the plan operates as is necessary to remain consistent with
+network adequacy standards, as determined by the department in
+accordance with federal regulations.
+  (v) When calculating the number of additional contracts that a managed
+long term care plan may enter using the methodologies established
+pursuant to this paragraph, any fractional result shall be rounded down.
+  (vi) The commissioner may increase the number of licensed home care
+services agencies with which a managed long term care plan may contract,
+on a county by county basis, if the commissioner determines that such
+increase is necessary to: ensure adequate access to services in the
+geographic area including, but not limited to, special needs services
+and services that are culturally and linguistically appropriate; or to
+avoid disruption in services in the geographic area.
+  (vii) Any licensed home care services agency that ceases operation as
+a result of this paragraph shall conform with all applicable
+requirements, including but not limited to demonstrating to the
+department's satisfaction continuity of care for individuals receiving
+services from the agency.
+  (viii) The commissioner may require managed long term care plans to
+provide evidence of compliance with this paragraph, on an annual basis.
+  (ix) In implementing the provisions of this paragraph, the
+commissioner shall, to the extent practicable, consider and select
+methodologies that seek to maximize continuity of care and minimize
+disruption to the provider labor workforce, and shall, to the extent
+practicable and consistent with the ratios set forth herein, continue to
+support contracts between managed long term care plans and licensed home
+care services agencies that are based on a commitment to quality and
+value.
+  (x) This subparagraph applies where implementation of the limits on
+contracts with licensed home care service agencies of this paragraph (i)
+would otherwise require an enrollee's care to be transferred from the
+enrollee's current licensed home care service agency to another licensed
+care service agency, and (ii) the enrollee (or the enrollee's authorized
+representative) wants the enrollee to continue to be cared for by one or
+more employees of the current licensed home care service agency, and
+that continuation would otherwise be provided. In such a case: the
+enrollee's managed long term care plan may contract with the enrollee's
+current licensed home care service agency for the purpose of continuing
+the enrollee's care by such employee or employees, and the contract
+shall not count towards the limits on contracts under this paragraph for
+a period of three months.
   8. Payment rates for managed long term care plan enrollees eligible
 for medical assistance. The commissioner shall establish payment rates
 for services provided to enrollees eligible under title XIX of the
@@ -461,6 +581,16 @@ borne by the managed care program to ensure actuarially sound and
 adequate rates of payment to ensure quality of care shall comply with
 all applicable laws and regulations, state and federal, including
 regulations as to actuarial soundness for medicaid managed care.
+  8-a. Rates for certain residential health care facilities.
+Notwithstanding any other provision of law or regulation to the
+contrary, any residential health care facility established pursuant to
+article twenty-eight of this chapter located in a county with a
+population of more than seventy-two thousand and less than seventy-five
+thousand persons based on the two thousand ten federal census shall be
+reimbursed by any managed long term care plan, approved pursuant to this
+section and contracting with the department, at a rate of no less than
+one hundred four percent of the average rate of reimbursement in
+existence on March first, two thousand eighteen for such county.
   9. Reports. The department shall provide an interim report to the
 governor, temporary president of the senate and the speaker of the
 assembly on or before April first, two thousand three and a final report
@@ -553,6 +683,15 @@ system; and
 not limited to, smooth patient transitions, appropriate enrollment,
 quality care, high staff retention and positive health care outcomes
 achieved at a low cost.
+  11-b. In cases of a managed long term care plan merger, acquisition,
+or other similar arrangement approved by the department, any receiving
+plan that is a party to the arrangement shall submit a report to the
+department within twelve months of the effective date of the
+transaction. Such reports shall be in a form and format to be determined
+by the department and shall include, but not be limited to, information
+about the enrollees transferred and enrollee service authorization data
+before and after transfer. The department shall make a summary of the
+report available to the public.
   ** 12. The commissioner may make any necessary amendments to a
 contract pursuant to this section with a managed long term care plan, as
 defined in paragraph (a) of subdivision one of this section, to allow
@@ -580,12 +719,16 @@ services for persons with developmental disabilities;
 people with developmental disabilities determine that such plan lacks
 the experience required in paragraph (a) of this subdivision, the plan
 shall have an affiliation arrangement with an entity or entities that
-are non-profit with experience serving persons with developmental
-disabilities, including, but not limited to, residential, day and
-employment services, such that the affiliated entity will coordinate and
-plan services operated, certified, funded, authorized or approved by the
-office for people with developmental disabilities or will oversee and
-approve such coordination and planning;
+are non-profit organizations or organizations whose shareholders are
+solely controlled by non-profit organizations with experience serving
+persons with developmental disabilities, as demonstrated by criteria to
+be determined by the commissioner and the commissioner of the office for
+people with developmental disabilities, with such criteria including,
+but not limited to, residential, day and employment services, such that
+the affiliated entity will coordinate and plan services operated,
+certified, funded, authorized or approved by the office for people with
+developmental disabilities or will oversee and approve such coordination
+and planning;
   (a-2) Each enrollee shall receive services designed to achieve
 person-centered outcomes, to enable that person to live in the most
 integrated setting appropriate to that person's needs, and to enable
@@ -679,7 +822,7 @@ persons with developmental disabilities pursuant to this article
 operating in the person's county of residence to meet the needs of
 persons with developmental disabilities, and that such plans meet the
 standards of this section.
-  ** NB Repealed September 30, 2019
+  ** NB Repealed September 30, 2023
   ** NB There are 2 sb 12's
   ** 13. Notwithstanding any inconsistent provision to the contrary, the
 commissioner may issue a certificate of authority to no more than three
@@ -698,7 +841,7 @@ necessary to allow such managed long term care plans to provide or
 arrange for services for persons with developmental disabilities that
 are adequate and appropriate to meet the needs of such individuals and
 that will ensure their health and safety.
-  ** NB Repealed September 30, 2019
+  ** NB Repealed September 30, 2023
   ** 14. The provisions of subdivisions twelve and thirteen of this
 section shall only be effective if, for so long as, and to the extent
 that federal financial participation is available for the costs of
@@ -713,6 +856,6 @@ that the provisions of subdivision twelve and thirteen of this section
 are inconsistent with other provisions of this article or with the
 provisions of section three hundred sixty-four-j of the social services
 law, the provisions of this subdivision shall prevail.
-  ** NB Repealed September 30, 2019
-  * NB Repealed December 31, 2019
+  ** NB Repealed September 30, 2023
+  * NB Repealed December 31, 2024
 ```

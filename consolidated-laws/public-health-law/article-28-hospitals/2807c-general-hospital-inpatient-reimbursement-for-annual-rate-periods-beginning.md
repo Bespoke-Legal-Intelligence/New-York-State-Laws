@@ -7552,6 +7552,32 @@ rate methodology and billing requirements for services pursuant to
 subdivision two-a of section twenty-eight hundred seven of this article
 and opportunity for hospitals to perform end-to-end testing on claims
 submission, processing and payment.
+  34. Enhanced safety net hospital program. (a) For the purposes of this
+subdivision, "enhanced safety net hospital" shall mean a hospital which:
+  (i) in any of the previous three calendar years, has met the following
+criteria:
+  (A) not less than fifty percent of the patients it treats receive
+medicaid or are medically uninsured;
+  (B) not less than forty percent of its inpatient discharges are
+covered by medicaid;
+  (C) twenty-five percent or less of its discharged patients are
+commercially insured;
+  (D) not less than three percent of the patients it provides services
+to are attributed to the care of uninsured patients; and
+  (E) provides care to uninsured patients in its emergency room,
+hospital based clinics and community based clinics, including the
+provision of important community services, such as dental care and
+prenatal care;
+  (ii) is a public hospital operated by a county, municipality, public
+benefit corporation or the state university of New York;
+  (iii) is federally designated as a critical access hospital; or
+  (iv) is federally designated as a sole community hospital.
+  (b) Within amounts appropriated, the commissioner shall adjust medical
+assistance rates to enhanced safety net hospitals for the purposes of
+supporting critically needed health care services and to ensure the
+continued maintenance and operation of such hospitals.
+  (c) Payments made pursuant to this subdivision may be added to rates
+of payment or made as aggregate payments to eligible general hospitals.
   35. Notwithstanding any inconsistent provision of this section, or any
 other contrary provision of law and subject to the availability of
 federal financial participation, rates of payment by governmental

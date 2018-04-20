@@ -12,7 +12,7 @@
 - [§ 105 Training and education of justices; expenses thereof; requirements; restriction](105-training-and-education-of-justices-expenses-thereof-requirements-restriction.md)
 - [§ 106 Holding of court; place of holding; assignment of justices](106-holding-of-court-place-of-holding-assignment-of-justices.md)
 - [§ 106-A Reducing number of justices in adjacent towns](106a-reducing-number-of-justices-in-adjacent-towns.md)
-- [§ 106-B Election of a single town justice for two or more adjacent towns](106b-election-of-a-single-town-justice-for-two-or-more-adjacent-towns.md)
+- [§ 106-B Election of one or more town justices for two or more towns](106b-election-of-one-or-more-town-justices-for-two-or-more-towns.md)
 - [§ 107 Records and dockets of court](107-records-and-dockets-of-court.md)
 - [§ 109 Non-judicial personnel; their powers and duties](109-non-judicial-personnel-their-powers-and-duties.md)
 - [§ 110 Enforcement officers](110-enforcement-officers.md)
@@ -33,8 +33,8 @@ Section 101.   Short title.
         106.   Holding of court; place of holding; assignment of
                  justices.
         106-a. Reducing number of justices in adjacent towns.
-        106-b. Election of a single town justice for two or more
-                 adjacent towns.
+        106-b. Election of one or more town justices for two or more
+                 towns.
         107.   Records and dockets of court.
         109.   Non-judicial personnel; their powers and duties.
         110.   Enforcement officers.

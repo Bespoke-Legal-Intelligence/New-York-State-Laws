@@ -10,6 +10,7 @@
 - [§ 189 Liability for certain acts](189-liability-for-certain-acts.md)
 - [§ 190 Civil actions for false claims](190-civil-actions-for-false-claims.md)
 - [§ 190-A Monies recovered](190a-monies-recovered.md)
+- [§ 190-B Medicaid fraud recovery reporting](190b-medicaid-fraud-recovery-reporting.md)
 - [§ 191 Remedies](191-remedies.md)
 - [§ 192 Limitation of actions, burden of proof](192-limitation-of-actions-burden-of-proof.md)
 - [§ 193 Other law enforcement authority and duties](193-other-law-enforcement-authority-and-duties.md)
@@ -26,6 +27,7 @@ Section 187.   Short title.
         189.   Liability for certain acts.
         190.   Civil actions for false claims.
         190-a. Monies recovered.
+        190-b. Medicaid fraud recovery reporting.
         191.   Remedies.
         192.   Limitation of actions, burden of proof.
         193.   Other law enforcement authority and duties.

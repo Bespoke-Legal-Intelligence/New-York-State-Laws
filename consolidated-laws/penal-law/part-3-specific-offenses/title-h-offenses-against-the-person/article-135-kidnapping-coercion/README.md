@@ -19,6 +19,7 @@
 - [§ 135.50 Custodial interference in the first degree](135.50-custodial-interference-in-the-first-degree.md)
 - [§ 135.55 Substitution of children](135.55-substitution-of-children.md)
 - [§ 135.60 Coercion in the second degree](135.60-coercion-in-the-second-degree.md)
+- [§ 135.61 Coercion in the second degree](135.61-coercion-in-the-second-degree.md)
 - [§ 135.65 Coercion in the first degree](135.65-coercion-in-the-first-degree.md)
 - [§ 135.70 Coercion; no defense](135.70-coercion-no-defense.md)
 - [§ 135.75 Coercion; defense](135.75-coercion-defense.md)
@@ -43,7 +44,8 @@ Section 135.00  Unlawful imprisonment, kidnapping and custodial
         135.45  Custodial interference in the second degree.
         135.50  Custodial interference in the first degree.
         135.55  Substitution of children.
-        135.60  Coercion in the second degree.
+        135.60  Coercion in the third degree.
+        135.61  Coercion in the second degree.
         135.65  Coercion in the first degree.
         135.70  Coercion; no defense.
         135.75  Coercion; defense.

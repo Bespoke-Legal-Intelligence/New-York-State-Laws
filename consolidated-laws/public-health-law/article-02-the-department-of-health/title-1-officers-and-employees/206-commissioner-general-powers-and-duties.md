@@ -1001,7 +1001,7 @@ the education law, manufacturers and distributors of adult immunizing
 agents doing business in this state, and others possessing such adult
 immunizing agents of additional information needed to respond to an
 imminent public health emergency.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2020
   26. The commissioner is hereby authorized and directed to review any
 policy or practice instituted in facilities operated by the department
 of corrections and community supervision, and in all local correctional
