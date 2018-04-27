@@ -93,7 +93,7 @@ for such a pilot program the commissioner shall promptly provide a copy
 of such agreement to such chairs. The commissioner shall report every
 six months thereafter on the progress of implementation of such program
 and provide a final evaluation of the program upon its conclusion.
-  * NB Expires July 1, 2017
+  * NB Expired July 1, 2017
   4. Electronic transfer of claims information. (a) Claims submitted to
 third-party payors for payment for inpatient hospital services provided
 by a general hospital on or after April first, nineteen hundred

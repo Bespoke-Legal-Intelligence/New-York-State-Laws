@@ -909,7 +909,7 @@ programs pursuant to the provisions of section two thousand eight
 hundred seven-h of this article for diagnostic and treatment centers,
 and the commissioner is hereby directed to make rate adjustments to
 cover the cost of such programs.
-  * NB Expires July 1, 2017
+  * NB Expired July 1, 2017
   * 14. Notwithstanding any inconsistent provision of law or regulation,
 for purposes of establishing rates of payment by governmental agencies
 for diagnostic and treatment centers for services provided on or after

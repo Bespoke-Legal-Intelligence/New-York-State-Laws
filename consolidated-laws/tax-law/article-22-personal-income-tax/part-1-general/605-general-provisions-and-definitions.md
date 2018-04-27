@@ -55,11 +55,11 @@ with or within which the period ends, the taxpayer is present in this
 state for a number of days which does not exceed an amount which bears
 the same ratio to ninety as the number of days contained in that portion
 of the taxable year bears to five hundred forty-eight, or
-  (B) who is not domiciled in this state but maintains a permanent place
-of abode in this state and spends in the aggregate more than one hundred
-eighty-three days of the taxable year in this state, unless such
-individual is in active service in the armed forces of the United
-States.
+  (B) who maintains a permanent place of abode in this state and spends
+in the aggregate more than one hundred eighty-three days of the taxable
+year in this state, whether or not domiciled in this state for any
+portion of the taxable year, unless such individual is in active service
+in the armed forces of the United States.
   (2) Nonresident individual. A nonresident individual means an
 individual who is not a resident or a part-year resident.
   (3) Resident estate or trust. A resident estate or trust means:

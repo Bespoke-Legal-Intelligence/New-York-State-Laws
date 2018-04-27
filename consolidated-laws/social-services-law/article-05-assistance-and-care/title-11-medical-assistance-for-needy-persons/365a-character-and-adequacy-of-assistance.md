@@ -428,7 +428,7 @@ residing in the geographic area served by such entity, when such
 services are furnished in accordance with an agreement approved by the
 department of health which meets the requirements of federal law and
 regulations.
-  * NB Repealed September 30, 2019
+  * NB Repealed September 30, 2023
   (bb) Subject to the availability of federal financial participation,
 services and supports authorized by the federal regulations governing
 the Home and Community-Based Attendant Services and Supports State Plan

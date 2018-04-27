@@ -40,6 +40,7 @@
 - [§ 4412 Separability](4412-separability.md)
 - [§ 4413 Savings clause](4413-savings-clause.md)
 - [§ 4414 Health care compliance programs](4414-health-care-compliance-programs.md)
+- [§ 4416 Excess reserves of certain health maintenance organizations](4416-excess-reserves-of-certain-health-maintenance-organizations.md)
 
 <details>
 <summary>Official heading of Article 44, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -91,6 +92,8 @@ Section 4400.     Statement of policy and purposes.
         4412.     Separability.
         4413.     Savings clause.
         4414.     Health care compliance programs.
+        4416.     Excess reserves of certain health maintenance
+                    organizations.
 ```
 
 </details>

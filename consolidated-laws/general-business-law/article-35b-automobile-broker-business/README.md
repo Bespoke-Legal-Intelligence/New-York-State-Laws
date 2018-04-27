@@ -14,6 +14,7 @@
 - [§ 740-A Automobile broker business surety bond](740a-automobile-broker-business-surety-bond.md)
 - [§ 741 Deceptive acts prohibited](741-deceptive-acts-prohibited.md)
 - [§ 741-A Advertising](741a-advertising.md)
+- [§ 741-B Disclosure](741b-disclosure.md)
 - [§ 742 Action for recovery of damages by consumer](742-action-for-recovery-of-damages-by-consumer.md)
 - [§ 743 Enforcement by attorney general](743-enforcement-by-attorney-general.md)
 - [§ 744 Severability](744-severability.md)
@@ -33,6 +34,7 @@ Section 736.   Definitions.
         740-a. Automobile broker business surety bond.
         741.   Deceptive acts prohibited.
         741-a. Advertising.
+        741-b. Disclosure.
         742.   Action for recovery of damages by consumer.
         743.   Enforcement by attorney general.
         744.   Severability.

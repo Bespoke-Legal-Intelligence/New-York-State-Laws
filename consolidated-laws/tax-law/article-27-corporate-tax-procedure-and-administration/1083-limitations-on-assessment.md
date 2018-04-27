@@ -150,6 +150,14 @@ include, but are not limited to, listed transactions described in
 paragraph five of subsection (k-1) of section one thousand eighty-five
 of this article.
   * NB Repealed July 1, 2019
+  (12) Except as otherwise provided in paragraph three of this
+subsection, or as otherwise provided in this section where a longer
+period of time may apply, if a taxpayer files an amended return, an
+assessment of tax (if not deemed to have been made upon the filing of
+the amended return), including recovery of a previously paid refund,
+attributable to a change or correction on the amended return from a
+prior return may be made at any time within one year after such amended
+return is filed.
   (d) Omission of income on return.---The tax may be assessed at any
 time within six years after the return was filed if (i) a taxpayer omits
 from gross income required to be reported on a return under article

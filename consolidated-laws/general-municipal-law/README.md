@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
-| Sections | 1,074 |
-| Last changed | 20 Apr 2018 |
+| Sections | 1,077 |
+| Last changed | 27 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (107 lines)](chapter-text.md)
+[Full chapter text (108 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Apr 2018](../../changes/2018/2018-04-27.md): 4 amended, 3 added
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 2 amended, 1 added
 - [23 Mar 2018](../../changes/2018/2018-03-23.md): 1 amended
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [17 Nov 2017](../../changes/2017/2017-11-17.md): 2 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended, 1 added
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 2 amended, 1 added
-- [1 Sep 2017](../../changes/2017/2017-09-01.md): 1 added
 
 ## Contents
 

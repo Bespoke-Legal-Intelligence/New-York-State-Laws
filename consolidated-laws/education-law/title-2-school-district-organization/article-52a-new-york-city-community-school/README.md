@@ -27,7 +27,6 @@
 - [§ 2590-P Educational facilities capital plan](2590p-educational-facilities-capital-plan.md)
 - [§ 2590-Q Budgetary and fiscal processes](2590q-budgetary-and-fiscal-processes.md)
 - [§ 2590-R School based budgeting and expenditure reporting](2590r-school-based-budgeting-and-expenditure-reporting.md)
-- [§ 2590-R-1 Community school district based budgeting and expenditure reporting](2590r-1-community-school-district-based-budgeting.md)
 - [§ 2590-S Prompt payment of salaries](2590s-prompt-payment-of-salaries.md)
 - [§ 2590-T New York city comptroller audits](2590t-new-york-city-comptroller-audits.md)
 - [§ 2590-U New York city independent budget office reports](2590u-new-york-city-independent-budget-office-reports.md)
@@ -68,8 +67,6 @@ Section 2590.     Application of article.
         2590-p.   Educational facilities capital plan.
         2590-q.   Budgetary and fiscal processes.
         2590-r.   School based budgeting and expenditure reporting.
-        2590-r-1. Community school district based budgeting and
-                    expenditure reporting.
         2590-s.   Prompt payment of salaries.
         2590-t.   New York city comptroller audits.
         2590-u.   New York city independent budget office reports.

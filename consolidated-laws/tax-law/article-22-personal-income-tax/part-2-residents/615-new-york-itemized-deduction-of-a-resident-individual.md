@@ -4,16 +4,19 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
 
 ```text
-  § 615. New York itemized deduction of a resident individual.  (a)
+  § 615. New York itemized deduction of a resident individual. (a)
 General. If federal taxable income of a resident individual is
-determined by itemizing deductions from his federal adjusted gross
-income, he may elect to deduct his New York itemized deduction in lieu
-of his New York standard deduction. The New York itemized deduction of a
-resident individual means the total amount of his deductions from
-federal adjusted gross income, other than federal deductions for
+determined by itemizing deductions or claiming the federal standard
+deduction from his or her federal adjusted gross income, he or she may
+elect to deduct his or her New York itemized deduction or claim his or
+her New York standard deduction. The New York itemized deduction of a
+resident individual means the total amount of his or her deductions from
+federal adjusted gross income allowed, other than federal deductions for
 personal exemptions, as provided in the laws of the United States for
-the taxable year, with the modifications specified in this section,
-except as provided for under subsections (f) and (g) of this section.
+the taxable year, as such deductions existed immediately prior to the
+enactment of Public Law 115-97 with the modifications specified in this
+section, except as provided for under subsections (f) and (g) of this
+section.
   (b) Husband and wife.
   (1) A husband and wife, both of whom are required to file returns
 under this article, shall be allowed New York itemized deductions only

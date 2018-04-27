@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  § 2023-b. Certification of compliance with property tax freeze
+  * § 2023-b. Certification of compliance with property tax freeze
 requirements. A school district that is subject to the provisions of
 section two thousand twenty-three-a of this part must comply with the
 requirements of subdivision two of this section in order to render its
@@ -205,4 +205,6 @@ to an eligible school district that has submitted a government
 efficiency plan and shall notify the commissioner of taxation and
 finance of such determination no later than July thirty-first, two
 thousand fifteen.
+  * NB Repealed April 15, 2020
+  * NB There are 2 § 2023-b's
 ```

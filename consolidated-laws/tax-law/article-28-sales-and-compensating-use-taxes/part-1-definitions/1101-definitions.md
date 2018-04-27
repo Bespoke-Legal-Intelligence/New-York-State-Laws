@@ -640,17 +640,22 @@ made in conjunction with the transportation service. Livery service
 means service provided by limousine, black car or other motor vehicle,
 with a driver, but excluding (i) a taxicab, (ii) a bus, and (iii), in a
 city of one million or more in this state, an affiliated livery vehicle,
-and excluding any scheduled public service. Limousine means a vehicle
-with a seating capacity of up to fourteen persons, excluding the driver.
-Black car means a for-hire vehicle dispatched from a central facility.
-"Affiliated livery vehicle" means a for-hire motor vehicle with a
-seating capacity of up to six persons, including the driver, other than
-a black car or luxury limousine, that is authorized and licensed by the
-taxi and limousine commission of a city of one million or more to be
-dispatched by a base station located in such a city and regulated by
-such taxi and limousine commission; and the charges for service provided
-by an affiliated livery vehicle are on the basis of flat rate, time,
-mileage, or zones and not on a garage to garage basis.
+and excluding any scheduled public service. Limousine means any vehicle
+with a seating capacity of up to fourteen persons, excluding the driver,
+and any vehicle with a seating capacity of between fifteen and twenty
+persons, excluding the driver, that has only two axles and four tires.
+"Bus" means any motor vehicle with a seating capacity of at least
+fifteen persons, excluding the driver, that does not otherwise qualify
+as a limousine. Black car means a for-hire vehicle dispatched from a
+central facility. "Affiliated livery vehicle" means a for-hire motor
+vehicle with a seating capacity of up to six persons, including the
+driver, other than a black car or luxury limousine, that is authorized
+and licensed by the taxi and limousine commission of a city of one
+million or more to be dispatched by a base station located in such a
+city and regulated by such taxi and limousine commission; and the
+charges for service provided by an affiliated livery vehicle are on the
+basis of flat rate, time, mileage, or zones and not on a garage to
+garage basis.
   (35) Modular home modules. The component sections that will be
 installed on-site to construct a modular home, each of which sections is
 (i) engineered and manufactured in a factory, (ii) shipped or delivered

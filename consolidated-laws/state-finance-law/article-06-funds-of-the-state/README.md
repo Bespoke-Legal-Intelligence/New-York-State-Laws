@@ -72,6 +72,9 @@
 - [§ 92-DD Health care reform act (HCRA) resources fund](92dd-health-care-reform-act-hcra-resources-fund.md)
 - [§ 92-EE New York state higher education endowment](92ee-new-york-state-higher-education-endowment.md)
 - [§ 92-FF Metropolitan transportation authority financial assistance fund](92ff-metropolitan-transportation-authority-financial-assistance-fund.md)
+- [§ 92-GG Charitable gifts trust fund](92gg-charitable-gifts-trust-fund.md)
+- [§ 92-GG\*2 Subway assistance fund](92gg-2-subway-assistance-fund.md)
+- [§ 92-HH Health care transformation fund](92hh-health-care-transformation-fund.md)
 - [§ 93 Capital projects fund](93-capital-projects-fund.md)
 - [§ 93-A New York state storm recovery capital fund](93a-new-york-state-storm-recovery-capital-fund.md)
 - [§ 93-B Dedicated infrastructure investment fund](93b-dedicated-infrastructure-investment-fund.md)
@@ -324,6 +327,9 @@ Section 70.        Classification of funds.
         92-ee.     New York state higher education endowment.
         92-ff.     Metropolitan transportation authority financial
                      assistance fund.
+        92-gg.     Charitable gifts trust fund.
+        92-gg*2.   Subway assistance fund.
+        92-hh.     Health care transformation fund.
         93.        Capital projects fund.
         93-a.      New York state storm recovery capital fund.
         93-b.      Dedicated infrastructure investment fund.
@@ -495,7 +501,7 @@ Section 70.        Classification of funds.
         99-bb.     Armory rental account.
         99-bb*2.   Parking services fund.
         99-bb*3.   New York state secure choice administrative fund.
-        99-bb.     SUNY Stony Brook Eastern Long Island Hospital
+        99-bb*4.   SUNY Stony Brook Eastern Long Island Hospital
                      Affiliation escrow fund.
         99-c.      Withholding of state aid upon failure of
                      municipalities and school districts to repay health

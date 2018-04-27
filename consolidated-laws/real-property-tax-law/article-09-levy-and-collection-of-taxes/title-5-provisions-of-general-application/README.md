@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 980 Tax statements and receipts to show nature and amount of local assistance by state](980-tax-statements-and-receipts-to-show-nature.md)
+- [§ 980-A Tax credits for contributions to certain funds](980a-tax-credits-for-contributions-to-certain-funds.md)
 - [§ 981 Tax statements to include notice of arrears](981-tax-statements-to-include-notice-of-arrears.md)
 - [§ 982 Notice to non-residents in towns](982-notice-to-non-residents-in-towns.md)
 - [§ 984 Notice to non-residents in cities](984-notice-to-non-residents-in-cities.md)
@@ -23,24 +24,25 @@
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                  TITLE 5
+                                 TITLE 5
             PROVISIONS OF GENERAL APPLICATION; MISCELLANEOUS
-Section 980.  Tax statements and receipts to show nature and amount of
-                local assistance by state.
-        981.  Tax statements to include notice of arrears.
-        982.  Notice to non-residents in towns.
-        984.  Notice to non-residents in cities.
-        986.  Receipts for taxes.
-        987.  Notice of unpaid taxes.
-        988.  Remedy of occupant for taxes paid by him.
-        990.  Supplementary proceedings to collect taxes.
-        992.  Action for sequestration.
-        994.  No fine or imprisonment for non-payment of taxes.
-        995.  Collection of taxes and special assessments from a
-                municipal corporation.
-        996.  Contracts with banks for the collection of taxes.
-        999.  Levy and collection of certain taxes in the county of
-                Ontario and city of Geneva.
+Section 980.   Tax statements and receipts to show nature and amount of
+                 local assistance by state.
+        980-a. Tax credits for contributions to certain funds.
+        981.   Tax statements to include notice of arrears.
+        982.   Notice to non-residents in towns.
+        984.   Notice to non-residents in cities.
+        986.   Receipts for taxes.
+        987.   Notice of unpaid taxes.
+        988.   Remedy of occupant for taxes paid by him.
+        990.   Supplementary proceedings to collect taxes.
+        992.   Action for sequestration.
+        994.   No fine or imprisonment for non-payment of taxes.
+        995.   Collection of taxes and special assessments from a
+                 municipal corporation.
+        996.   Contracts with banks for the collection of taxes.
+        999.   Levy and collection of certain taxes in the county of
+                 Ontario and city of Geneva.
 ```
 
 </details>

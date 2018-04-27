@@ -229,7 +229,7 @@ to be determined by the commissioner and the department of taxation and
 finance.
   * NB Effective January 1, 2014 or a later date to be determined by the
 commissioner of health (see chapter 56 of 2013 Pt. D § 76 sub h)
-  * (g) ** (i) Notwithstanding any inconsistent provision of law to the
+  * (g) (i) Notwithstanding any inconsistent provision of law to the
 contrary and subject to the availability of federal financial
 participation under title XIX of the federal social security act, a
 child under the age of nineteen shall be presumed to be eligible for
@@ -255,34 +255,6 @@ law prior to the termination of the temporary enrollment period. The
 commissioner shall assure that children and their families are informed
 of all available enrollment sites in accordance with subdivision nine of
 this section.
-  ** NB Effective until January 1, 2017
-  ** (i) Notwithstanding any inconsistent provision of law to the
-contrary and subject to the availability of federal financial
-participation under title XIX of the federal social security act, a
-child under the age of nineteen shall be presumed to be eligible for
-subsidy payments and temporarily enrolled for coverage under this title,
-once during a twelve month period, beginning on the first day of the
-enrollment period following the date that an approved organization
-determines, on the basis of preliminary information, that a child's net
-household income does not exceed the income level specified in title
-eleven of article five of the social services law for children eligible
-for medical assistance based on such child's age. The temporary
-enrollment period shall continue until the earlier of the date an
-eligibility determination is made pursuant to this title or title eleven
-of article five of the social services law, or two months after the date
-temporary enrollment begins; provided however, a temporary enrollment
-period may be extended in the event an eligibility determination under
-this title or title eleven of article five of the social services law is
-not made within such two month period through no fault of the applicant
-for insurance for medical assistance. The commissioner shall assure that
-children who are enrolled pursuant to this paragraph receive the
-appropriate follow-up for a determination of eligibility for benefits
-under this title or title eleven of article five of the social services
-law prior to the termination of the temporary enrollment period. The
-commissioner shall assure that children and their families are informed
-of all available enrollment sites in accordance with subdivision nine of
-this section.
-  ** NB Effective January 1, 2017
   (ii) Effective September first two thousand seven, through March
 thirty-first, two thousand fourteen temporary enrollment pursuant to
 subparagraph (i) of this paragraph shall be provided only to children
@@ -295,7 +267,7 @@ promulgate rules and regulations necessary to prevent fraud and abuse in
 eligibility determinations made by approved organizations pursuant to
 this subdivision.
   * NB Expires July 1, 2019
-  * (i) Notwithstanding any inconsistent provision of law, rule or
+  (i) Notwithstanding any inconsistent provision of law, rule or
 regulation:
   (i) A newborn child who meets the eligibility criteria set forth in
 this subdivision or subdivision five of this section, as determined by
@@ -317,7 +289,6 @@ applicable to eligible children enrolled under this title and specified
 in state contracts with approved organizations or implemented by the
 health insurance exchange marketplace, whichever is applicable, shall
 apply to presumptive enrollment of newborn children.
-  * NB Effective January 1, 2017
   (j) Where an application for recertification of coverage under this
 title contains insufficient information for a final determination of
 eligibility for continued coverage, a child shall be presumed eligible
@@ -497,12 +468,6 @@ Any such approved organization may also be removed as an approved
 organization, provided however, that eligible children shall continue to
 receive services until such time as the orderly transition to other
 approved organizations can be effected.
-  * 5-b. Notwithstanding any law, rule or regulation to the contrary,
-and except as provided in paragraph (g) of subdivision two of this
-section, the effective date of coverage under this title shall be the
-date of the child's birth if the applicant for insurance applied prior
-to the child's birth or within sixty days after the child's birth.
-  * NB Effective and Repealed January 1, 2017
   6. The commissioner shall, in consultation with the superintendent,
 establish guidelines for the submission of proposals by eligible
 organizations for the purposes of providing covered health care services

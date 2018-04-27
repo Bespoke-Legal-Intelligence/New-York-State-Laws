@@ -15,13 +15,14 @@ liability company, or any employee of an individual proprietorship who
 as such officer, director, employee or manager is under a duty to act
 for such corporation, partnership, limited liability company or
 individual proprietorship in complying with any requirement of this
-article; and any member of a partnership or limited liability company.
-Provided, however, that any person who is a vendor solely by reason of
-clause (D) or (E) of subparagraph (i) of paragraph (8) of subdivision
-(b) of section eleven hundred one shall not be a "person required to
-collect any tax imposed by this article" until twenty days after the
-date by which such person is required to file a certificate of
-registration pursuant to section eleven hundred thirty-four.
+article, or has so acted; and any member of a partnership or limited
+liability company. Provided, however, that any person who is a vendor
+solely by reason of clause (D) or (E) of subparagraph (i) of paragraph
+(8) of subdivision (b) of section eleven hundred one of this article
+shall not be a "person required to collect any tax imposed by this
+article" until twenty days after the date by which such person is
+required to file a certificate of registration pursuant to section
+eleven hundred thirty-four of this part.
   (2) "Customer" shall include: every purchaser of tangible personal
 property or services; every patron paying or liable for the payment of
 any amusement charge; and every occupant of a room or rooms in a hotel.

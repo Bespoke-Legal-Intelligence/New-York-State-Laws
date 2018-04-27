@@ -75,6 +75,7 @@
 - [§ 2806-B Residential health care facilities; revocation of operating certificate](2806b-residential-health-care-facilities-revocation-of-operating-certificate.md)
 - [§ 2807 Hospital reimbursement provisions; generally](2807-hospital-reimbursement-provisions-generally.md)
 - [§ 2807-A General hospital nineteen hundred eighty-six and nineteen hundred eighty-seven inpatient rates and charges](2807a-general-hospital-nineteen-hundred-eighty-six-and-nineteen-hundred-eighty-seven.md)
+- [§ 2807-BBB Health occupation development and workplace demonstration programs](2807bbb-health-occupation-development-and-workplace-demonstration-programs.md)
 - [§ 2807-B Outstanding payments and reports due under subdivision eighteen of section twenty-eight hundred seven-c, sections twenty-eight hundred se...](2807b-outstanding-payments-and-reports-due-under-subdivision-eighteen-of-section.md)
 - [§ 2807-C General hospital inpatient reimbursement for annual rate periods beginning on or after January first, nineteen hundred eighty-eight](2807c-general-hospital-inpatient-reimbursement-for-annual-rate-periods-beginning.md)
 - [§ 2807-D Hospital assessments](2807d-hospital-assessments.md)
@@ -240,6 +241,8 @@ Section 2800.     Declaration of policy and statement of purpose.
                     twenty-eight hundred seven-j, twenty-eight hundred
                     seven-s and twenty-eight hundred seven-t of this
                     article.
+        2807-bbb. Health occupation development and workplace
+                    demonstration programs.
         2807-c.   General hospital inpatient reimbursement for annual
                     rate periods beginning on or after January first,
                     nineteen hundred eighty-eight.
@@ -249,8 +252,6 @@ Section 2800.     Declaration of policy and statement of purpose.
         2807-e.   Uniform bills.
         2807-f.   Health maintenance organization payment factor.
         2807-g.   Health workforce retraining program.
-        2807-h.   Health occupation development and workplace
-                    demonstration programs.
         2807-i.   Service and quality improvement grants.
         2807-j.   Patient services payments.
         2807-k.   General hospital indigent care pool.

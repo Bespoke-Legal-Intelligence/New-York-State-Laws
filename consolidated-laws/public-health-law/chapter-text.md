@@ -131,7 +131,6 @@ Article
            Title    I.   Municipal insect control (§§1500-1503).
                    II.   County insect control (§§1520-1531).
   16.      Pesticide control board (§§1601-1609).
-  19.      Crohn's and Colitis Fairness Act (§§1900-1902).
   20.      Reporting of Alzheimer's Disease (§§2000--2004-a).
   20-a.    Alzheimer's Community Assistance Program (§§2005-2009).
   21.      Control of acute communicable diseases
@@ -320,7 +319,7 @@ Article
   43-A.    Request for consent to an anatomical gift (§4351).
   43-B.    Organ, tissue and body parts procurement and storage
             (§§4360-4368).
-  44.      Health maintenance organizations (§§4400-4414).
+  44.      Health maintenance organizations (§§4400-4416).
   45.      Medical referral services (§§4500-4503).
   46.      Continuing care retirement communities (§§4600-4624).
   46-A.    Fee-for-service continuing care retirement communities

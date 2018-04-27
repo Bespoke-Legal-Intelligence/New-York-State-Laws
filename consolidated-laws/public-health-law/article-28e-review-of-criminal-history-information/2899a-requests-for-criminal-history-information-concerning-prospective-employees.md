@@ -91,26 +91,12 @@ for processing a criminal history information check, the fee imposed by
 the federal bureau of investigation for a national criminal history
 check, and costs associated with obtaining the fingerprints to all
 providers licensed, but not certified under article thirty-six of this
-chapter, and all adult care facilities licensed under article seven of
-the social services law, including those that are subject to this
-article and are unable to access direct reimbursement from state and/or
-federal funded health programs.
-  * NB Effective until April 1, 2018
-  * (a) In the event that funds are appropriated in any given fiscal
-year for the reimbursement for the costs of providing such criminal
-history information, reimbursement shall be made available in an
-equitable and direct manner for the projected cost of the fee
-established pursuant to law by the division of criminal justice services
-for processing a criminal history information check, the fee imposed by
-the federal bureau of investigation for a national criminal history
-check, and costs associated with obtaining the fingerprints to all
-providers licensed, but not certified under article thirty-six of this
 chapter, providers certified under article forty of this chapter, and
 all adult care facilities licensed under article seven of the social
 services law, including those that are subject to this article and are
 unable to access direct reimbursement from state and/or federal funded
 health programs.
-  * NB Effective April 1, 2018 until March 31, 2023
+  * NB Effective until March 31, 2023
   * (a) In the event that funds are appropriated in any given fiscal
 year for the reimbursement for the costs of providing such criminal
 history information, reimbursement shall be made available in an

@@ -48,6 +48,7 @@
 - [§ 1270-F Implementation of the rebuild and renew New York transportation bond act of two thousand five](1270f-implementation-of-the-rebuild-and-renew-new.md)
 - [§ 1270-G Regulation of certain authority expenditures](1270g-regulation-of-certain-authority-expenditures.md)
 - [§ 1270-H Metropolitan transportation authority finance fund](1270h-metropolitan-transportation-authority-finance.md)
+- [§ 1270-I New York city transportation assistance fund](1270i-new-york-city-transportation-assistance-fund.md)
 - [§ 1271 Agreement of the state](1271-agreement-of-the-state.md)
 - [§ 1272 Right of state to require redemption of bonds](1272-right-of-state-to-require-redemption-of-bonds.md)
 - [§ 1273 Remedies of noteholders and bondholders](1273-remedies-of-noteholders-and-bondholders.md)
@@ -66,6 +67,7 @@
 - [§ 1279-A Management advisory board](1279a-management-advisory-board.md)
 - [§ 1279-B Transition--election to withdraw from the metropolitan commuter transportation district](1279b-transition-election-to-withdraw.md)
 - [§ 1279-C The office of legislative and community input](1279c-the-office-of-legislative-and-community-input.md)
+- [§ 1279-D Supplemental revenue reporting program](1279d-supplemental-revenue-reporting-program.md)
 
 <details>
 <summary>Official heading of Title 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -130,6 +132,7 @@ Section 1260.   Short title.
                   transportation bond act of two thousand five.
         1270-g. Regulation of certain authority expenditures.
         1270-h. Metropolitan transportation authority finance fund.
+        1270-i. New York city transportation assistance fund.
         1271.   Agreement of the state.
         1272.   Right of state to require redemption of bonds.
         1273.   Remedies of noteholders and bondholders.
@@ -150,6 +153,7 @@ Section 1260.   Short title.
         1279-b. Transition--election to withdraw from the metropolitan
                   commuter transportation district.
         1279-c. The office of legislative and community input.
+        1279-d. Supplemental revenue reporting program.
 ```
 
 </details>

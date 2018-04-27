@@ -400,7 +400,7 @@ support. For purposes of subdivision eight of section one hundred
 fifty-three of this article, safety net assistance given to such a child
 during the first forty-five days after application therefor shall be
 regarded as being given to meet emergency circumstances.
-  14. In determining the need for aid provided pursuant to public
+  * 14. In determining the need for aid provided pursuant to public
 assistance programs, each person living with clinical/symptomatic HIV
 illness or AIDS in social services districts with a population over five
 million who is receiving services through such district's administrative
@@ -409,4 +409,27 @@ unearned income, shall not be required to pay more than thirty percent
 of his or her monthly earned and/or unearned income toward the cost of
 rent that such person has a direct obligation to pay; this provision
 shall not apply to room and board arrangements.
+  * NB Effective until July 11, 2018
+  * 14. In determining the need for aid provided pursuant to public
+assistance programs, each person living with medically diagnosed HIV
+infection as defined by the AIDS institute of the department of health
+in social services districts with a population over five million who is
+receiving services through such district's administrative unit providing
+HIV/AIDS services, public assistance and earned and/or unearned income,
+shall not be required to pay more than thirty percent of his or her
+monthly earned and/or unearned income toward the cost of rent that such
+person has a direct obligation to pay; this provision shall not apply to
+room and board arrangements.
+  * NB Effective July 11, 2018
+  * 15. In determining the need for aid provided pursuant to public
+assistance programs, each public assistance recipient living with
+medically diagnosed HIV infection as defined by the AIDS institute of
+the department of health in social services districts with a population
+of five million or fewer, at local option and in accordance with a plan
+approved by the office of temporary and disability assistance, may not
+be required to pay more than thirty percent of his or her monthly earned
+and/or unearned income toward the cost of rent that such person has a
+direct obligation to pay; this provision shall not apply to room and
+board arrangements.
+  * NB Effective July 11, 2018
 ```

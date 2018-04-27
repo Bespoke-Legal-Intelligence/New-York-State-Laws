@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
 
 ```text
-  § 3-d. Certification of compliance with property tax freeze
+  * § 3-d. Certification of compliance with property tax freeze
 requirements. A municipal corporation or an independent special district
 that is subject to the provisions of section three-c of this article
 must comply with the requirements of subdivision two of this section in
@@ -226,4 +226,6 @@ whether the requirements of this subdivision have been met with respect
 to a local government unit that has submitted a government efficiency
 plan and shall notify the commissioner of taxation and finance of such
 determination no later than July thirty-first, two thousand fifteen.
+  * NB Repealed April 15, 2020
+  * NB There are 2 § 3-d's
 ```

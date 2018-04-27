@@ -23,12 +23,16 @@ exemption, except as hereinafter provided.
 modifications shall be made:
   (1) Entire net income shall not include:
   (A) income, gains and losses from subsidiary capital which do not
-include the amount of a recovery in respect of any war loss;
-  (B) fifty percent of dividends other than from subsidiaries except
-that in the case of a life insurance company, such modification shall
-apply only with respect to the company's share of such dividends, which
-share means the percentage determined under paragraph one of subsection
-(a) of section eight hundred twelve of the internal revenue code;
+include the amount of a recovery in respect of any war loss, except that
+this modification shall not apply to the amount described in
+subparagraph (S) of this paragraph;
+  (B) fifty percent of dividends other than from subsidiaries, except
+that this modification shall not apply to the amount described in
+subparagraph (S) of this paragraph, and except that, in the case of a
+life insurance company, such modification shall apply only with respect
+to the company's share of such dividends, which share means the
+percentage determined under paragraph one of subsection (a) of section
+eight hundred twelve of the internal revenue code;
   (C) any refund or credit of a tax imposed under this article or
 section one hundred eighty-seven, or article twenty-three of this
 chapter heretofore in effect to the extent properly included as income
@@ -105,6 +109,12 @@ subsection.
   (R) for taxable years beginning after December thirty-first, two
 thousand two, the amount deductible pursuant to paragraph fourteen of
 this subdivision.
+  (S) The income required to be included in the taxpayer's federal gross
+income pursuant to subsection (a) of section 951 of the internal revenue
+code by reason of subsection (a) of section 965 of such code as adjusted
+by subsection (b) of such section but without regard to subsection (c)
+of such section to the extent such income is received from a corporation
+that is not included in a combined return with the taxpayer.
   (2) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (A) the amount of any specific exemption or credit allowed in any law
@@ -112,7 +122,7 @@ of the United States imposing any tax on or measured by the income of
 corporations;
   (B) any part of any income from dividends or interest on any kind of
 stock, securities or indebtedness, except as provided in subparagraphs
-(A) and (B) of paragraph one hereof;
+(A), (B) and (S) of paragraph one hereof;
   (C) taxes paid or accrued to the United States on or measured by
 income or premiums;
   (D) taxes imposed under this article;
@@ -154,7 +164,8 @@ small business investment company;
   (H) in the discretion of the commissioner, any amount of interest
 directly or indirectly and any other amount directly attributable as a
 carrying charge or otherwise to subsidiary capital or to income, gains
-or losses from subsidiary capital;
+or losses from subsidiary capital, or to the income described in
+subparagraph (S) of paragraph one of this subdivision;
   (I) in the case of a life insurance company, the provisions of
 subparagraph (B) of this paragraph shall not apply to the policyholders'
 share of the items described in such subparagraph. For purposes of this
@@ -247,6 +258,10 @@ section 167 of the internal revenue code.
 hundred ninety-nine of the internal revenue code.
   (V) The amount of any federal deduction for taxes imposed under
 article twenty-three of this chapter.
+  (W) The amount of any federal deduction allowed pursuant to subsection
+(c) of section 965 of the internal revenue code.
+  (X) The amount of any federal deduction allowed pursuant to section
+250(a)(1)(A) of the internal revenue code.
   (3) In determining entire net income, there shall be subtracted, to
 the extent not deductible in determining federal taxable income:
   (A) interest on indebtedness incurred or continued to purchase or

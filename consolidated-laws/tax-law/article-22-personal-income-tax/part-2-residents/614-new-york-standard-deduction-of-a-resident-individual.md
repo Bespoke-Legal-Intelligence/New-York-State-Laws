@@ -4,18 +4,18 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
 
 ```text
-  § 614. New York standard deduction of a resident individual. (a)
+  § 614. New York standard deduction of a resident individual.  (a)
 Unmarried individual. For taxable years beginning after nineteen hundred
 ninety-six, the New York standard deduction of a resident individual who
 is not married nor the head of a household nor a surviving spouse nor an
-individual whose federal exemption amount is zero shall be seven
-thousand five hundred dollars; for taxable years beginning in nineteen
-hundred ninety-six, such standard deduction shall be seven thousand four
-hundred dollars; for taxable years beginning in nineteen hundred
-ninety-five, such standard deduction shall be six thousand six hundred
-dollars; and for taxable years beginning after nineteen hundred
-eighty-nine and before nineteen hundred ninety-five, such standard
-deduction shall be six thousand dollars.
+individual who is claimed as a dependent by another New York state
+taxpayer shall be seven thousand five hundred dollars; for taxable years
+beginning in nineteen hundred ninety-six, such standard deduction shall
+be seven thousand four hundred dollars; for taxable years beginning in
+nineteen hundred ninety-five, such standard deduction shall be six
+thousand six hundred dollars; and for taxable years beginning after
+nineteen hundred eighty-nine and before nineteen hundred ninety-five,
+such standard deduction shall be six thousand dollars.
   (b) Husband and wife filing jointly and surviving spouse. For taxable
 years beginning after two thousand five, the New York standard deduction
 of a husband and wife whose New York taxable income is determined

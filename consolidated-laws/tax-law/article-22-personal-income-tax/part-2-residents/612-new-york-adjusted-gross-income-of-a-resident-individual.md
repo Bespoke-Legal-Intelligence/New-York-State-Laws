@@ -1642,4 +1642,36 @@ purchased shall be determined without regard to Internal Revenue Code §
 section shall be added to federal adjusted gross income when the
 reinvestment in the New York qualified emerging technology company which
 qualified a taxpayer for such deferral is sold.
+  (w) Alimony modifications. (1) In the case of applicable alimony or
+separate maintenance payments, the following modifications shall apply:
+  (A) There shall be subtracted from federal adjusted gross income any
+applicable alimony or separate maintenance payments made by the taxpayer
+during the taxable year.
+  (B) There shall be added to federal adjusted gross income any
+applicable alimony or separate maintenance payments received by the
+taxpayer during the taxable year.
+  (2) (A) The term "alimony or separate maintenance payments" means
+payments as defined under section seventy-one of the internal revenue
+code in effect immediately prior to the enactment of Public Law 115-97.
+  (B) The term "applicable alimony or separate maintenance payments"
+means payments made under an alimony or separation instrument (as
+defined in section seventy-one of the internal revenue code in effect
+immediately prior to the enactment of Public Law 115-97) that was
+executed after December thirty-first, two thousand eighteen, and any
+divorce or separation instrument executed on or before such date and
+modified after such date if the modification expressly provides that the
+amendments made by this section apply to such modification.
+  (x) Qualified moving expense reimbursement and moving expenses. (1) In
+the case of applicable qualified moving expense reimbursement and moving
+expenses, the following modifications shall apply:
+  (A) There shall be subtracted from federal adjusted gross income any
+applicable qualified moving expense reimbursement received by the
+taxpayer during the taxable year.
+  (B) There shall be subtracted from federal adjusted gross income any
+applicable moving expenses paid by the taxpayer during the taxable year.
+  (2) Applicable qualified moving expense reimbursement and moving
+expenses are those deductions as allowed by paragraph (g) of sections
+one hundred thirty-two and section two hundred seventeen, respectfully,
+of the internal revenue code immediately prior to the enactment of
+Public Law 115-97.
 ```

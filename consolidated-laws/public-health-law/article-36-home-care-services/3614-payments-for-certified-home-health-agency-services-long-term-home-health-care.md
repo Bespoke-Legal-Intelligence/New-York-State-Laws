@@ -408,20 +408,11 @@ speaker of the assembly, the temporary president of the senate, and the
 chairpersons of the assembly and senate health committees with a report
 setting forth the conclusions of such study.
   * NB There are 2 sub 6's
-  * 6. Subject to the provisions of section twenty-eight hundred seven-h
-of this chapter, the commissioner shall authorize health occupation
-development and workplace demonstration programs for certified home
-health agencies, long term home health care programs, AIDS home care
-programs and licensed home care services agencies, and, subject to the
-availability of funds, the commissioner is hereby directed to make rate
-adjustments to cover the cost of such programs.
-  * NB Effective until July 1, 2017
   * 6. Subject to the availability of funds, the provisions of clause
 (B) of subparagraph (iii) of paragraph (e) of subdivision one of section
 twenty-eight hundred seven-c of this chapter shall apply to certified
 home health agencies, long term home health care programs and AIDS home
 care programs.
-  * NB Effective July 1, 2017
   * NB There are 2 sub 6's
   7. * Notwithstanding any inconsistent provision of law or regulation,
 for purposes of establishing rates of payment by governmental agencies

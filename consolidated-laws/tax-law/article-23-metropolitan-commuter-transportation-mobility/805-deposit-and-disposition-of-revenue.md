@@ -29,11 +29,13 @@ section, the commissioner shall certify to the comptroller the amount of
 all revenues so received during the prior month as a result of the
 taxes, interest and penalties so imposed. The amount of revenues so
 certified shall be paid over by the fifteenth and the final business day
-of each succeeding month from such account into the mobility tax trust
-account of the metropolitan transportation authority financial
-assistance fund established pursuant to section ninety-two-ff of the
-state finance law, for payment, pursuant to appropriations by the
-legislature to the metropolitan transportation authority finance fund
-established pursuant to section twelve hundred seventy-h of the public
-authorities law.
+of each succeeding month from such account without appropriation into
+the metropolitan transportation authority finance fund established
+pursuant to section twelve hundred seventy-h of the public authorities
+law, provided, however, that the comptroller shall ensure that any
+payments to the metropolitan transportation authority finance fund which
+are due to be paid by the final business day in the month of December
+pursuant to this subsection shall be received by the metropolitan
+transportation authority finance fund on the same business day in which
+it is paid.
 ```

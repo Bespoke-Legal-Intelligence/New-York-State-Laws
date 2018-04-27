@@ -209,20 +209,4 @@ long term home health agency or personal care provider with total
 medicaid reimbursements, including reimbursements through the managed
 care program established pursuant to section three hundred sixty-four-j
 of this chapter, exceeding fifteen million dollars per calendar year.
-  39. "Afterschool program" shall mean a program conducted outside the
-regular school day whereby students can participate in enrichment
-activities including but not limited to athletics, academic enrichment,
-art, music, drama, academic tutoring, mentoring, community services and
-related programs that will promote positive youth development, physical
-and/or emotional wellness, educational achievement, and/or school,
-civic, family and community engagement.
-  40. "Summer program" shall mean a program conducted outside the
-regular school year whereby students can participate in enrichment
-activities including but not limited to athletics, academic enrichment,
-art, music, drama, academic tutoring, mentoring, community services and
-related programs that will promote positive youth development, physical
-and/or emotional wellness, educational achievement, and/or school,
-civic, family and community engagement, and shall not include required
-summer school programming pursuant to section thirty-six hundred two of
-the education law.
 ```

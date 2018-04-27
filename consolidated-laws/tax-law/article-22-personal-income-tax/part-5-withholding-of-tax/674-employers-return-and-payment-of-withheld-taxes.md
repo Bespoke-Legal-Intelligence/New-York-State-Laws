@@ -69,13 +69,12 @@ payments in lieu of such contributions pursuant to article eighteen of
 the labor law, shall file a quarterly combined withholding, wage
 reporting and unemployment insurance return detailing the preceding
 calendar quarter's withholding tax transactions, such quarter's wage
-reporting information, such quarter's unemployment insurance
-contributions, and such other related information as the commissioner of
-taxation and finance or the commissioner of labor, as applicable, may
-prescribe. In addition, the return covering the last calendar quarter of
-each year shall also include withholding reconciliation information for
-such calendar year. Such returns shall be filed no later than the last
-day of the month following the last day of each calendar quarter.
+reporting information, such quarter's withholding reconciliation
+information, such quarter's unemployment insurance contributions, and
+such other related information as the commissioner of taxation and
+finance or the commissioner of labor, as applicable, may prescribe. Such
+returns shall be filed no later than the last day of the month following
+the last day of each calendar quarter.
   (B) An employer shall, at the time prescribed by subparagraph (A) of
 this paragraph for filing each quarterly combined withholding, wage
 reporting and unemployment insurance return, pay over, in a single

@@ -14,6 +14,7 @@
 - [§ 402-B Power of authority to enter into mixed-finance transactions to continue viability of public housing](402b-power-of-authority-to-enter-into-mixed.md)
 - [§ 402-C Notice upon denial of request](402c-notice-upon-denial-of-request.md)
 - [§ 402-C\*2 Notice of pre-termination meeting](402c-2-notice-of-pre-termination-meeting.md)
+- [§ 402-D The governor may issue an executive order, pursuant to article two-B of the executive law and subject to the availability of a state appr...](402d-the-governor-may-issue-an-executive-order.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -31,6 +32,7 @@ Section 400.     Validation.
                    transactions to continue viability of public housing.
         402-c.   Notice upon denial of request.
         402-c*2. Notice of pre-termination meeting.
+        402-d.   (Enacted without section heading).
 ```
 
 </details>

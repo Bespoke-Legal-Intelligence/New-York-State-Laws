@@ -27,11 +27,12 @@ department regarding infection control, which shall include sepsis, and
 barrier precautions, including engineering and work practice controls,
 in accordance with regulatory standards promulgated by the department in
 consultation with the department of education, to prevent the
-transmission of HIV, HBV, HCV and sepsis in the course of professional
-practice. Such coursework or training must also be completed by every
-medical student, medical resident and physician assistant student in the
-state as part of the orientation programs conducted by medical schools,
-medical residency programs and physician assistant programs.
+transmission of HIV, HBV, HCV and infections that could lead to sepsis
+in the course of professional practice. Such coursework or training must
+also be completed by every medical student, medical resident and
+physician assistant student in the state as part of the orientation
+programs conducted by medical schools, medical residency programs and
+physician assistant programs.
   * NB Effective July 1, 2018
   (b) Every physician, physician assistant, specialist assistant,
 medical student, medical resident and physician assistant student must

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,165 (8 repealed) |
-| Last changed | 20 Apr 2018 |
+| Sections | 1,174 |
+| Last changed | 27 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (91 lines)](chapter-text.md)
+[Full chapter text (93 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Apr 2018](../../changes/2018/2018-04-27.md): 30 amended, 18 added, 9 removed
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 1 amended
 - [2 Mar 2018](../../changes/2018/2018-03-02.md): 1 amended
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 23 amended, 8 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [1 Dec 2017](../../changes/2017/2017-12-01.md): 1 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended
 - [20 Oct 2017](../../changes/2017/2017-10-20.md): 2 amended
-- [15 Sep 2017](../../changes/2017/2017-09-15.md): 2 amended
 
 ## Contents
 
@@ -65,6 +65,7 @@ Assembly, do enact as follows:
 - [Article 21-A — Tax On Fuel Use](article-21a-tax-on-fuel-use/)
 - [Article 22 — Personal Income Tax](article-22-personal-income-tax/)
 - [Article 23 — Metropolitan Commuter Transportation Mobility Tax](article-23-metropolitan-commuter-transportation-mobility/)
+- [Article 24 — Employer Compensation Expense Program](article-24-employer-compensation-expense-program/)
 - [Article 25 — Reciprocal Enforcement of Tax Liabilities](article-25-reciprocal-enforcement-of-tax-liabilities/)
 - [Article 26 — Estate Tax](article-26-estate-tax/)
 - [Article 27 — Corporate Tax Procedure and Administration](article-27-corporate-tax-procedure-and-administration/)
@@ -74,6 +75,7 @@ Assembly, do enact as follows:
 - [Article 29 — Taxes Authorized For Cities, Counties and School Districts](article-29-taxes-authorized-for-cities-counties-and-school/)
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
 - [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)
+- [Article 29-C — Congestion Surcharge](article-29c-congestion-surcharge/)
 - [Article 30 — City Personal Income Tax](article-30-city-personal-income-tax/)
 - [Article 30-A — City Income Tax Surcharge](article-30a-city-income-tax-surcharge/)
 - [Article 30-B — City Earnings Tax On Nonresidents](article-30b-city-earnings-tax-on-nonresidents/)

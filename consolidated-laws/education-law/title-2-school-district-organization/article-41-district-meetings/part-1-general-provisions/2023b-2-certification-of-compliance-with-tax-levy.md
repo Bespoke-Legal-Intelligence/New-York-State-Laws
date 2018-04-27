@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Education Law § 2023-B*2", "kind": "section", "law_id": "EDN", "location_id": "2023-B*2", "path": "TITLE 2 › ARTICLE 41 › PART 1 › SECTION 2023-B*2", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/2023-B_2.md", "title": "Certification of compliance with tax levy limit"} -->
+# Education Law § 2023-B*2 — Certification of compliance with tax levy limit
+
+[Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
+```text
+  * § 2023-b. Certification of compliance with tax levy limit. 1. Upon
+the adoption of the budget of an eligible school district, the chief
+executive officer of such school district shall certify to the state
+comptroller, the commissioner of taxation and finance and the
+commissioner that the budget so adopted does not exceed the tax levy
+limit prescribed by section two thousand twenty-three-a of this part.
+Such certification shall be made in a form and manner prescribed by the
+state comptroller in consultation with the commissioner of taxation and
+finance and the commissioner.
+  2. If such a certification has been made and the actual tax levy of
+the school district exceeds the applicable tax levy limit, the excess
+amount shall be placed in reserve and used in the manner prescribed by
+subdivision five of section two thousand twenty-three-a of this part,
+even if a tax levy in excess of the tax levy limit had been duly
+authorized for the applicable fiscal year by the school district voters.
+  3. Notwithstanding any provision of law to the contrary, every school
+district that is subject to the provisions of section two thousand
+twenty-three-a of this part shall report both its proposed budget and
+its adopted budget to the office of the state comptroller and the
+commissioner at the time and in the manner as they may prescribe,
+whether or not such budget has been or will be certified as provided by
+this subdivision.
+  * NB Effective April 15, 2020
+  * NB Repealed June 16, 2020
+  * NB There are 2 § 2023-b's
+```

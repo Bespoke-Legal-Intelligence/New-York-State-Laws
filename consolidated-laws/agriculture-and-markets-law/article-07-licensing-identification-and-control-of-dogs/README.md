@@ -12,7 +12,7 @@
 - [§ 110 License fees](110-license-fees.md)
 - [§ 111 Identification of dogs](111-identification-of-dogs.md)
 - [§ 111-A Microchipping standards](111a-microchipping-standards.md)
-- [§ 111-B Registration of microchips](111b-registration-of-microchips.md)
+- [§ 111-B Registration of microchips](111b-registration-of-microchips.md) *(repealed)*
 - [§ 112 Change of ownership; lost or stolen dog](112-change-of-ownership-lost-or-stolen-dog.md)
 - [§ 113 Dog control officers](113-dog-control-officers.md)
 - [§ 114 Pounds and shelters](114-pounds-and-shelters.md)
@@ -43,7 +43,6 @@ Section 106.   Purpose.
         110.   License fees.
         111.   Identification of dogs.
         111-a. Microchipping standards.
-        111-b. Registration of microchips.
         112.   Change of ownership; lost or stolen dog.
         113.   Dog control officers.
         114.   Pounds and shelters.

@@ -18,5 +18,5 @@ fees for the use of state-owned parking lots and garages.
 commissioner of general services for services and expenses of the office
 relating to the direct maintenance and operation of state-owned parking
 lots and garages.
-  * NB There are 4 § 99-bb*2's
+  * NB There are 4 § 99-bb's
 ```

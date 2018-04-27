@@ -13,9 +13,10 @@ four hundred eighty-seven, subdivision one or two of section five
 hundred fourteen, subsection (e) of section six hundred ninety-seven,
 subsection (a) of section nine hundred ninety-four, subdivision (a) of
 section eleven hundred forty-six, section twelve hundred eighty-seven,
-section twelve hundred ninety-six, subdivision (a) of section fourteen
-hundred eighteen, subdivision (a) of section fifteen hundred eighteen,
-subdivision (a) of section fifteen hundred fifty-five of this chapter,
-and subdivision (e) of section 11-1797 of the administrative code of the
-city of New York shall be guilty of a misdemeanor.
+section twelve hundred ninety-six, section twelve hundred ninety-nine-F,
+subdivision (a) of section fourteen hundred eighteen, subdivision (a) of
+section fifteen hundred eighteen, subdivision (a) of section fifteen
+hundred fifty-five of this chapter, and subdivision (e) of section
+11-1797 of the administrative code of the city of New York shall be
+guilty of a misdemeanor.
 ```

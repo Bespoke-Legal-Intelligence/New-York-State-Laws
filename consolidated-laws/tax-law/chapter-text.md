@@ -41,6 +41,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
        22.       Personal income tax (§§ 601-699).
        23.       Metropolitan commuter transportation mobility tax
                    (§§ 800-807).
+       24.       Employer compensation expense program (§§ 850-857).
        25.       Reciprocal enforcement of tax liabilities
                    (§§ 901-903).
        26.       Estate tax (§§ 951-999-a).
@@ -56,6 +57,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
                    commuter transportation district (§§ 1280-1290).
        29-B.     State assessment fee on transportation network company
                    prearranged trips (§§ 1291-1298).
+       29-C.     Congestion surcharge (§§ 1299--1299-I).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBG |
 | Type | Consolidated law, chapter 44-A |
-| Sections | 329 |
-| Last changed | 23 Feb 2018 |
+| Sections | 330 |
+| Last changed | 27 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Housing |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [27 Apr 2018](../../changes/2018/2018-04-27.md): 4 amended, 1 added
 - [23 Feb 2018](../../changes/2018/2018-02-23.md): 1 amended
 - [19 Jan 2018](../../changes/2018/2018-01-19.md): 1 amended
 - [29 Dec 2017](../../changes/2017/2017-12-29.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [30 Dec 2016](../../changes/2016/2016-12-30.md): 2 amended
 - [7 Oct 2016](../../changes/2016/2016-10-07.md): 2 added
 - [22 Apr 2016](../../changes/2016/2016-04-22.md): 1 amended
-- [12 Feb 2016](../../changes/2016/2016-02-12.md): 1 amended
 
 ## Contents
 

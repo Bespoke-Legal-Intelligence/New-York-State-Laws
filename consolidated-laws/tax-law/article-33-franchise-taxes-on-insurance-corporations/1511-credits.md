@@ -458,9 +458,9 @@ allowed if an empire zone retention certificate is not issued pursuant
 to subdivision (w) of section nine hundred fifty-nine of the general
 municipal law to the empire zone enterprise which is the basis of the
 credit.
-  (g-1) Hire a vet credit. (1) Allowance of credit. For taxable years
+  (g-1) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand nineteen, a taxpayer shall be allowed a
+January first, two thousand twenty-one, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -479,7 +479,7 @@ militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand eighteen; and
+thousand twenty; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1452,21 +1452,25 @@ and may be deducted from the taxpayer's tax for such year or years.
   * NB There are 3 sb§ (y)'s
   * (y) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand twenty, a taxpayer shall be allowed a
-credit as hereinafter provided, against the tax imposed by this article,
-in an amount equal to one hundred percent of the amount of credit
-allowed the taxpayer with respect to a certified historic structure
-under subsection (a)(2) of section 47 of the federal internal revenue
-code with respect to a certified historic structure located within the
-state. Provided, however, the credit shall not exceed five million
-dollars. For taxable years beginning on or after January first, two
-thousand twenty, a taxpayer shall be allowed a credit as hereinafter
-provided, against the tax imposed by this article, in an amount equal to
-thirty percent of the amount of credit allowed the taxpayer with respect
-to a certified historic structure under subsection (a)(2) of section 47
-of the federal internal revenue code with respect to a certified
-historic structure located within the state. Provided, however, the
-credit shall not exceed one hundred thousand dollars.
+before January first, two thousand twenty-five, a taxpayer shall be
+allowed a credit as hereinafter provided, against the tax imposed by
+this article, in an amount equal to one hundred percent of the amount of
+credit allowed the taxpayer with respect to a certified historic
+structure under internal revenue code section 47(c)(3), determined
+without regard to ratably allocating the credit over a five year period
+as required by subsection (a) of such section 47, with respect to a
+certified historic structure located within the state. Provided,
+however, the credit shall not exceed five million dollars. For taxable
+years beginning on or after January first, two thousand twenty-five, a
+taxpayer shall be allowed a credit as hereinafter provided, against the
+tax imposed by this article, in an amount equal to thirty percent of the
+amount of credit allowed the taxpayer with respect to a certified
+historic structure under internal revenue code section 47(c)(3),
+determined without regard to ratably allocating the credit over a five
+year period as required by subsection (a) of such section 47 with
+respect to a certified historic structure located within the state.
+Provided, however, the credit shall not exceed one hundred thousand
+dollars.
   (B) If the taxpayer is a partner in a partnership, then the cap
 imposed in subparagraph (A) of this paragraph shall be applied at the
 entity level, so that the aggregate credit allowed to all the partners
@@ -1475,12 +1479,14 @@ that is applicable in that taxable year.
   (2) Tax credits allowed pursuant to this subsection shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
-  (3) If the credit allowed the taxpayer pursuant to section 47 of the
-internal revenue code with respect to a qualified rehabilitation is
-recaptured pursuant to subsection (a) of section 50 of the internal
-revenue code, a portion of the credit allowed under this subsection in
-the taxable year the credit was claimed must be added back in the same
-taxable year and in the same proportion as the federal recapture.
+  (3) If the taxpayer is allowed a credit pursuant to section 47 of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subdivision and that
+credit pursuant to such section 47 is recaptured pursuant to subsection
+(a) of section 50 of the internal revenue code, a portion of the credit
+allowed under this subdivision in the taxable year the credit was
+claimed must be added back in the same taxable year and in the same
+proportion as the federal recapture.
   (4) The credit allowed under this subdivision for any taxable year
 shall not reduce the tax due for such year to less than the minimum
 fixed by paragraph four of subdivision (a) of section fifteen hundred
@@ -1496,9 +1502,13 @@ interest shall be paid thereon.
   (5) To be eligible for the credit allowable under this subdivision,
 the rehabilitation project shall be in whole or in part located within a
 census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of January
+percent of the state median family income as calculated as of April
 first of each year using the most recent five year estimate from the
 American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subdivision for an additional two calendar years.
   * NB There are 3 sb§ (y)'s
   (z) Temporary deferral refundable payout credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided

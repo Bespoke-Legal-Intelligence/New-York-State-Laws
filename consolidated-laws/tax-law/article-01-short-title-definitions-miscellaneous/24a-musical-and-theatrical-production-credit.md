@@ -167,5 +167,5 @@ commissioner of the department of economic development regarding
 continuing modification, repeal of such act, and such other information
 regarding the act as the commissioner of the department of economic
 development may feel useful and appropriate.
-  * NB Repealed March 31, 2018
+  * NB Repealed March 31, 2022
 ```

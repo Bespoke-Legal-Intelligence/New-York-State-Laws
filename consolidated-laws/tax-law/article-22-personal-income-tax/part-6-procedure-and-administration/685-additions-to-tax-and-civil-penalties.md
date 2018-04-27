@@ -893,20 +893,20 @@ program, and shall be deposited and disposed of by the respective
 department in accordance with applicable law.
   (3) Failure to provide complete and correct employee withholding
 reconciliation information. In the case of a failure by an employer to
-provide complete and correct annual withholding information relating to
-individual employees on a quarterly combined withholding, wage reporting
-and unemployment insurance return covering the last calendar quarter of
-a year, such employer shall, unless it is shown that such failure is due
-to reasonable cause and not due to willful neglect, pay a penalty equal
-to the product of fifty dollars multiplied by the number of employees
-for whom such information is incomplete or incorrect; provided, however,
-that if the number of such employees cannot be determined from the
-quarterly combined withholding, wage reporting and unemployment
-insurance return, the commissioner may utilize any information in the
-commissioner's possession in making such determination. The total amount
-of the penalty imposed pursuant to this paragraph on an employer for any
-such failure for the last calendar quarter of a year shall not exceed
-ten thousand dollars.
+provide complete and correct quarterly withholding information relating
+to individual employees on a quarterly combined withholding, wage
+reporting and unemployment insurance return covering each calendar
+quarter of a year, such employer shall, unless it is shown that such
+failure is due to reasonable cause and not due to willful neglect, pay a
+penalty equal to the product of fifty dollars multiplied by the number
+of employees for whom such information is incomplete or incorrect;
+provided, however, that if the number of such employees cannot be
+determined from the quarterly combined withholding, wage reporting and
+unemployment insurance return, the commissioner may utilize any
+information in the commissioner's possession in making such
+determination. The total amount of the penalty imposed pursuant to this
+paragraph on an employer for any such failure for each calendar quarter
+of a year shall not exceed ten thousand dollars.
   (4) Failure to provide complete and correct quarterly withholding
 information not relating to individual employees. In the case of a
 failure by an employer to provide complete and correct quarterly

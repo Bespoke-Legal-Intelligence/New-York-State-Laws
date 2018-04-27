@@ -54,7 +54,7 @@ twenty-eight hundred twenty-five-b of this article shall not be eligible
 for grants or awards made available under this section.
   3. Notwithstanding section one hundred sixty-three of the state
 finance law or any inconsistent provision of law to the contrary, up to
-four hundred seventy-five million dollars of the funds appropriated for
+five hundred twenty-five million dollars of the funds appropriated for
 this program shall be awarded without a competitive bid or request for
 proposal process for grants to health care providers (hereafter
 "applicants"). Provided, however, that a minimum of: (a) sixty million

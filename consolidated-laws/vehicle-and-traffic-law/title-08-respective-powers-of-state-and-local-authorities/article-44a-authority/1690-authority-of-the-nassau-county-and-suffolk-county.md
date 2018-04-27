@@ -1,44 +1,39 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1690", "kind": "section", "law_id": "VAT", "location_id": "1690", "path": "TITLE 8 › ARTICLE 44-A › SECTION 1690", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1690.md", "title": "Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing officers"} -->
-# Vehicle and Traffic Law § 1690 — Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing officers
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1690", "kind": "section", "law_id": "VAT", "location_id": "1690", "path": "TITLE 8 › ARTICLE 44-A › SECTION 1690", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1690.md", "title": "Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing offic..."} -->
+# Vehicle and Traffic Law § 1690 — Authority of the Nassau county and Suffolk county district court judicial hearing officers and the city of Buffalo judicial hearing offic...
 
-[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-A — Authority of the Nassau and Suffolk County District Court and Buffalo City Court Judicial Hearing Officers](README.md)
+[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-A — Authority of the Nassau and Suffolk County District Court and Buffalo City Court and Rochester City Court Judicial Hearing Officers](README.md)
 
 ```text
-  § 1690. * Authority of the Nassau county and Suffolk county district
+  § 1690. Authority of the Nassau county and Suffolk county district
 court judicial hearing officers and the city of Buffalo judicial hearing
-officers.
-  * NB Effective until April 21, 2018
-  * Authority of the Nassau county and Suffolk county district court
-judicial hearing officers and the city of Buffalo judicial hearing
-officers and the city of Rochester judicial hearing officers.
-  * NB Effective April 21, 2018
-1. Notwithstanding any other provision of law, where the trial of a
-traffic or parking infraction is authorized or required to be tried
-before the Nassau county district court or Suffolk county district
-court, and such traffic and parking infraction does not constitute a
-misdemeanor, felony, violation of subdivision one of section eleven
-hundred ninety-two, subdivision five of section eleven hundred
-ninety-two, section three hundred ninety-seven-a, or subdivision (g) of
-section eleven hundred eighty of this chapter, or a violation of
-paragraph (b) of subdivision four of section fourteen-f or clause (b) of
-subparagraph (iii) of paragraph c of subdivision two of section one
-hundred forty of the transportation law, or any offense that is part of
-the same criminal transaction, as that term is defined in subdivision
-two of section 40.10 of the criminal procedure law, as such a
-misdemeanor, felony, violation of subdivision one of section eleven
-hundred ninety-two, subdivision two of section eleven hundred
-ninety-two, section three hundred ninety-seven-a or subdivision (g) of
-section eleven hundred eighty of this chapter, or a violation of
-paragraph (b) of subdivision four of section fourteen-f or clause (b) of
-subparagraph (iii) of paragraph d of subdivision two of section one
-hundred forty of the transportation law, the administrative judge of the
-county in which the trial court is located, may assign judicial hearing
-officers to conduct such a trial. Such judicial hearing officers shall
-be village court justices or retired judges either of which shall have
-at least two years of experience conducting trials of traffic and
-parking violations cases and shall be admitted to practice law in this
-state. Where such assignment is made, the judicial hearing officer shall
-entertain the case in the same manner as a court and shall:
+officers and the city of Rochester judicial hearing officers.  1.
+Notwithstanding any other provision of law, where the trial of a traffic
+or parking infraction is authorized or required to be tried before the
+Nassau county district court or Suffolk county district court, and such
+traffic and parking infraction does not constitute a misdemeanor,
+felony, violation of subdivision one of section eleven hundred
+ninety-two, subdivision five of section eleven hundred ninety-two,
+section three hundred ninety-seven-a, or subdivision (g) of section
+eleven hundred eighty of this chapter, or a violation of paragraph (b)
+of subdivision four of section fourteen-f or clause (b) of subparagraph
+(iii) of paragraph c of subdivision two of section one hundred forty of
+the transportation law, or any offense that is part of the same criminal
+transaction, as that term is defined in subdivision two of section 40.10
+of the criminal procedure law, as such a misdemeanor, felony, violation
+of subdivision one of section eleven hundred ninety-two, subdivision two
+of section eleven hundred ninety-two, section three hundred
+ninety-seven-a or subdivision (g) of section eleven hundred eighty of
+this chapter, or a violation of paragraph (b) of subdivision four of
+section fourteen-f or clause (b) of subparagraph (iii) of paragraph d of
+subdivision two of section one hundred forty of the transportation law,
+the administrative judge of the county in which the trial court is
+located, may assign judicial hearing officers to conduct such a trial.
+Such judicial hearing officers shall be village court justices or
+retired judges either of which shall have at least two years of
+experience conducting trials of traffic and parking violations cases and
+shall be admitted to practice law in this state. Where such assignment
+is made, the judicial hearing officer shall entertain the case in the
+same manner as a court and shall:
   (a) determine all questions of law;
   (b) act as the exclusive trier of all issues of fact;
   (c) render a verdict;
@@ -81,8 +76,8 @@ and shall:
   (c) render a verdict;
   (d) impose sentence; or
   (e) dispose of the case in any manner provided by law.
-  * 1-b. Notwithstanding any other provision of law, where the trial of
-a traffic infraction is authorized or required to be tried before the
+  1-b. Notwithstanding any other provision of law, where the trial of a
+traffic infraction is authorized or required to be tried before the
 Rochester city court, and such traffic infraction does not constitute a
 misdemeanor, felony, violation of subdivision one of section eleven
 hundred ninety-two, subdivision five of section eleven hundred
@@ -122,7 +117,6 @@ case in the same manner as a court and shall:
   (c) render a verdict;
   (d) impose sentence; or
   (e) dispose of the case in any manner provided by law.
-  * NB Effective April 21, 2018
   2. In the discharge of this responsibility, the judicial hearing
 officer shall have the same powers as a judge of the court in which the
 proceeding is pending. The rules of evidence and reasonable doubt burden
@@ -144,11 +138,10 @@ city court on any matter relating to traffic violations and are further
 prohibited from appearing in any capacity other than as a judicial
 hearing officer in any other court or administrative tribunal on any
 matter relating to traffic violations.
-  * 4-b. Judicial hearing officers are prohibited from appearing in any
+  4-b. Judicial hearing officers are prohibited from appearing in any
 capacity other than as a judicial hearing officer in any part of
 Rochester city court on any matter relating to traffic violations and
 are further prohibited from appearing in any capacity other than as a
 judicial hearing officer in any other court or administrative tribunal
 on any matter relating to traffic violations.
-  * NB Effective April 21, 2018
 ```

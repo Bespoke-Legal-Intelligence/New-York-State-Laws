@@ -220,9 +220,9 @@ premiums, annuities, compensations, remunerations, emoluments or other
 fixed or determinable gains, profits or income, except interest coupons
 payable to bearer. Information required to be furnished pursuant to
 paragraph four of subsection (a) of section six hundred seventy-four on
-a quarterly combined withholding and wage reporting return covering the
-last calendar quarter of each year and relating to tax withheld on wages
-paid by an employer to an employee for the full calendar year, shall
+a quarterly combined withholding and wage reporting return covering each
+calendar quarter of each year and relating to tax withheld on wages paid
+by an employer to an employee for each calendar quarter, shall
 constitute the return of information required to be made under this
 section with respect to such wages.
   (2) (A) The commissioner shall be authorized to require, by

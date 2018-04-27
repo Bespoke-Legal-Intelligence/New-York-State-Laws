@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 852", "kind": "section", "law_id": "TAX", "location_id": "852", "path": "ARTICLE 24 › SECTION 852", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/852.md", "title": "Imposition and rate of tax"} -->
+# Tax Law § 852 — Imposition and rate of tax
+
+[Tax Law](../README.md) › [Article 24 — Employer Compensation Expense Program](README.md)
+
+```text
+  § 852. Imposition and rate of tax. A tax is hereby imposed on the
+payroll expense paid by electing employers to covered employees. For two
+thousand nineteen, the tax shall be equal to one and one-half percent of
+the payroll expense paid by electing employers to covered employees
+during the calendar quarter. For two thousand twenty, the tax shall be
+equal to three percent of the payroll expense paid by electing employers
+to covered employees during the calendar quarter. For two thousand
+twenty-one and thereafter, the tax shall be equal to five percent of the
+payroll expense paid by electing employers to covered employees during
+the calendar quarter. An electing employer shall only be subject to the
+tax imposed under this article on the payroll expense paid to any
+covered employee during the calendar year in excess of forty thousand
+dollars.
+```

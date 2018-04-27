@@ -171,23 +171,32 @@ dividends pursuant to section seventy-eight of the internal revenue
 code.
   6-a. (a) The term "other exempt income" means the sum of exempt CFC
 income and exempt unitary corporation dividends.
-  (b) "Exempt CFC income" means the income required to be included in
-the taxpayer's federal gross income pursuant to subsection (a) of
+  (b) "Exempt CFC income" means (i) except to the extent described in
+subparagraph (ii) of this paragraph, the income required to be included
+in the taxpayer's federal gross income pursuant to subsection (a) of
 section 951 of the internal revenue code, received from a corporation
 that is conducting a unitary business with the taxpayer but is not
-included in a combined report with the taxpayer, less, in the discretion
-of the commissioner, any interest deductions directly or indirectly
-attributable to that income. In lieu of subtracting from its exempt CFC
-income the amount of those interest deductions, the taxpayer may make a
-revocable election to reduce its total exempt CFC income by forty
-percent. If the taxpayer makes this election, the taxpayer must also
-make the elections provided for in paragraph (b) of subdivision six of
-this section and paragraph (c) of this subdivision. If the taxpayer
-subsequently revokes this election, the taxpayer must revoke the
-elections provided for in paragraph (b) of subdivision six of this
-section and paragraph (c) of this subdivision. A taxpayer which does not
-make this election because it has no exempt CFC income will not be
-precluded from making those other elections.
+included in a combined report with the taxpayer, and (ii) such income
+required to be included in the taxpayer's federal gross income pursuant
+to subsection (a) of such section 951 of the internal revenue code by
+reason of subsection (a) of section 965 of the internal revenue code, as
+adjusted by subsection (b) of section 965 of the internal revenue code,
+and without regard to subsection (c) of such section, received from a
+corporation that is not included in a combined report with the taxpayer,
+less, (iii) in the discretion of the commissioner, any interest
+deductions directly or indirectly attributable to that income. In lieu
+of subtracting from its exempt CFC income the amount of those interest
+deductions, the taxpayer may make a revocable election to reduce its
+total exempt CFC income by forty percent. If the taxpayer makes this
+election, the taxpayer must also make the elections provided for in
+paragraph (b) of subdivision six of this section and paragraph (c) of
+this subdivision. If the taxpayer subsequently revokes this election,
+the taxpayer must revoke the elections provided for in paragraph (b) of
+subdivision six of this section and paragraph (c) of this subdivision. A
+taxpayer which does not make this election because it has no exempt CFC
+income will not be precluded from making those other elections. The
+income described in subparagraph (ii) of this paragraph shall not
+constitute investment income.
   (c) "Exempt unitary corporation dividends" means those dividends from
 a corporation that is conducting a unitary business with the taxpayer
 but is not included in a combined report with the taxpayer, less, in the
@@ -310,7 +319,8 @@ any refund or credit of a tax imposed under sections one hundred
 eighty-three, one hundred eighty-three-a, one hundred eighty-four or one
 hundred eighty-four-a of this chapter;
   (6) any amount treated as dividends pursuant to section seventy-eight
-of the internal revenue code;
+of the internal revenue code to the extent that such dividends are not
+deducted under section two hundred fifty of such code;
   (7) that portion of wages and salaries paid or incurred for the
 taxable year for which a deduction is not allowed pursuant to the
 provisions of section two hundred eighty-C of the internal revenue code.
@@ -512,6 +522,10 @@ under section one hundred seventy of the internal revenue code to the
 extent such contributions are used as the basis of the calculation of
 the farm donations to food pantries credit under subdivision fifty-two
 of section two hundred ten-B of this article.
+  (23) The amount of any federal deduction allowed pursuant to
+subsection (c) of section 965 of the internal revenue code.
+  (24) The amount of any federal deduction allowed pursuant to section
+250(a)(1)(A) of the internal revenue code.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

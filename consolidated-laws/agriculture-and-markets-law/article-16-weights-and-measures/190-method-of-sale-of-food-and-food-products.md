@@ -11,17 +11,7 @@ whether simple or compound, used or intended for consumption by human
 beings or domestic animals normally kept as household pets and shall
 also include all substances or ingredients to be added thereto for any
 purpose.
-  * 2. All food and food products which are sold, offered or exposed for
-sale by wholesalers, packers, distributors or jobbers shall be sold, or
-offered or exposed for sale by net weight, standard measure or numerical
-count and shall be plainly marked, in such form or manner as may be
-prescribed by the commissioner, by such person offering the food or food
-products for sale except that it shall not be necessary to so mark meat,
-meat products or fish, other than shellfish in natural form, provided
-the net weight be stated on a written invoice and on the shipping
-container of the meat, meat product or fish.
-  * NB Effective until April 21, 2018
-  * 2. All food and food products which are sold, offered or exposed for
+  2. All food and food products which are sold, offered or exposed for
 sale by wholesalers, packers, distributors or jobbers shall be sold, or
 offered or exposed for sale by net weight, standard measure or numerical
 count and shall be plainly marked, in such form or manner as may be
@@ -32,7 +22,6 @@ not be necessary to so mark meat, meat products or fish, other than
 shellfish in natural form, provided the net weight be stated on a
 written invoice and on the shipping container of the meat, meat product
 or fish.
-  * NB Effective April 21, 2018
   3. All food and food products which are sold, offered or exposed for
 sale at retail and which are not in containers, shall be sold, offered
 or exposed for sale by net weight, standard measure or numerical count

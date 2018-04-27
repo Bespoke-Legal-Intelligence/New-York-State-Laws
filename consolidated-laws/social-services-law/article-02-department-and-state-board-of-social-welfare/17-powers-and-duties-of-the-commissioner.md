@@ -53,12 +53,6 @@ paragraph (b) of subdivision two of section four hundred sixty-three-a
 of this chapter; and a report on the operation of the child support
 enforcement program, as required by chapter six hundred eighty-five of
 the laws of nineteen hundred seventy-five;
-  * (d-1) submit to the governor and the legislature one year after the
-effective date of this subdivision a report of the efforts of each local
-social services district to identify, prevent, and address their
-homeless population, including but not limited to projects funded by
-federal, state, municipal, or private dollars;
-  * NB Repealed January 1, 2017
   (e) work cooperatively with the commissioner of the office of mental
 health and the commissioner of the office of mental retardation and
 developmental disabilities to assist the commissioner of education in
@@ -101,23 +95,17 @@ organizations requesting funding and the amounts requested for each
 request for proposal. The office of children and family services may
 also include any other information related to each program that it deems
 appropriate;
-  (i) make available to the council on children and families, through
-the OpenNY website, information regarding: (1) all recipients of grants
-awarded or administered by the state for the purposes of providing
-afterschool or summer programs as defined in section two of this
-chapter, extended learning time, including but not limited to grants for
-such purposes awarded under section thirty-six hundred forty-one of the
-education law, or community schools, including but not limited to grants
-for such purposes awarded under section thirty-six hundred forty-one of
-the education law; and (2) registered school age child care providers
+  (i) make available to the council on children and families information
+regarding: (1) all recipients of grants awarded or administered by the
+office of children and family services for the purposes of providing
+afterschool programs; and (2) registered school age child care providers
 registered by the office of children and family services. For each grant
-recipient or provider the recipient's or provider's name, the address at
-which the program is offered, and the name and phone number of an
-individual who is authorized to answer questions regarding the program
-will be made available through the OpenNY website no less than once a
-year and within ninety days of the date of execution or expiration of
-contracts with grant recipients when all such contracts are executing or
-expiring for a particular competitive grant; and
+recipient or provider the recipient's or provider's name, and the
+address at which the program is offered except for those who in
+accordance with paragraph eight-a of section three hundred ninety of
+this chapter have opted out of providing information online, and the
+phone number for the program will be made available no less than once a
+year; and
   * (i) exercise such other powers and perform such other duties as may
 be imposed by law.
   * NB Effective March 31, 2019

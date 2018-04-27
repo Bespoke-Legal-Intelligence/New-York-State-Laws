@@ -1,0 +1,25 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 1299-I", "kind": "section", "law_id": "TAX", "location_id": "1299-I", "path": "ARTICLE 29-C › SECTION 1299-I", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1299-I.md", "title": "Cooperation by regulatory agencies"} -->
+# Tax Law § 1299-I — Cooperation by regulatory agencies
+
+[Tax Law](../README.md) › [Article 29-C — Congestion Surcharge](README.md)
+
+```text
+  § 1299-I. Cooperation by regulatory agencies. All regulatory agencies
+shall cooperate with and assist the commissioner to effectuate the
+purposes of this article and the commissioner's responsibilities
+hereunder. Such cooperation shall include obtaining, furnishing, and
+timely updating current, complete and accurate names, addresses and all
+other information concerning: (1) every for-hire vehicle owner,
+operator, and driver of for-hire vehicles licensed or permitted by such
+licensing agency; (2) every agent of such person, if any; and (3) any
+other person or entity that is licensed or permitted by such licensing
+agency. Such cooperation shall also include furnishing to the
+commissioner all written, computerized, automated or electronic records
+in the regulatory agency's possession, or in the possession of any of
+its agents, instrumentalities, contractors, or any other person
+authorized or required to obtain or possess such records or information,
+that account for any transportation and operation for hire provided by a
+licensed or permitted person or entity. Such information shall be
+provided to the commissioner without cost, and in a format prescribed by
+the commissioner.
+```

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,223 |
-| Last changed | 20 Apr 2018 |
+| Sections | 1,227 |
+| Last changed | 27 Apr 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (168 lines)](chapter-text.md)
+[Full chapter text (169 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Apr 2018](../../changes/2018/2018-04-27.md): 6 amended, 4 added
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 19 added, 2 removed
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 5 amended, 1 added
 - [1 Dec 2017](../../changes/2017/2017-12-01.md): 2 amended, 1 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [18 Aug 2017](../../changes/2017/2017-08-18.md): 1 amended
 - [17 Mar 2017](../../changes/2017/2017-03-17.md): 6 amended
 - [6 Jan 2017](../../changes/2017/2017-01-06.md): 10 amended
-- [30 Dec 2016](../../changes/2016/2016-12-30.md): 2 amended
 
 ## Contents
 
@@ -112,6 +112,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 28-C — Immigrant Assistance Services](article-28c-immigrant-assistance-services/)
 - [Article 28-D — Lasers, Radiation, Crane Operators and Blasters](article-28d-lasers-radiation-crane-operators-and-blasters/)
 - [Article 28-E — Children's Product Safety and Recall Effectiveness Act of 2008](article-28e-childrens-product-safety-and-recall/)
+- [Article 28-F — Crohn's and Colitis Fairness Act](article-28f-crohns-and-colitis-fairness-act/)
 - [Article 29 — Manufacture, Sale and Introduction or Movement In Commerce of Flammable Wearing Apparel, Fabrics, Related Material and Interior Furnishings Prohibited](article-29-manufacture-sale-and-introduction-or-movement/)
 - [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](article-29a-unauthorized-or-improper-use-of-credit-cards/)
 - [Article 29-AAA — Credit Card Registration Services](article-29aaa-credit-card-registration-services/)
@@ -168,4 +169,4 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
-- [Article 46 — Article 43 Laws Repealed; When to Take Effect](article-46-article-43-laws-repealed-when-to-take-effect/)
+- [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)

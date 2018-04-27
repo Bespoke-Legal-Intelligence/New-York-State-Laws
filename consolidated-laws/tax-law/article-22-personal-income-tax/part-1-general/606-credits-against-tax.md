@@ -563,9 +563,9 @@ option, receive such excess as a refund. Any refund paid pursuant to
 this paragraph shall be deemed to be a refund of an overpayment of tax
 as provided in section six hundred eighty-six of this article, provided,
 however, that no interest shall be paid thereon.
-  (a-2) Hire a vet credit. (1) Allowance of credit. For taxable years
+  (a-2) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand nineteen, a taxpayer shall be allowed a
+January first, two thousand twenty-one, a taxpayer shall be allowed a
 credit, to be computed as provided in this subsection, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -584,7 +584,7 @@ militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand eighteen; and
+thousand twenty; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -827,7 +827,10 @@ Revenue Code for each qualifying child. For the purposes of this
 subsection, a qualifying child shall be a child who meets the definition
 of qualified child under section 24(c) of the internal revenue code and
 is at least four years of age. The applicable percentage shall be
-thirty-three percent.
+thirty-three percent. For purposes of this subsection, any reference to
+section 24 of the Internal Revenue Code shall be a reference to such
+section as it existed immediately prior to the enactment of Public Law
+115-97.
   (2) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
@@ -2274,7 +2277,7 @@ subsection (u)                       production expenditures and
                                      theatrical production under
                                      subdivision forty-seven of
                                      section two hundred ten-B
-  ** NB Repealed March 31, 2018
+  ** NB Repealed March 31, 2022
 ** (xl) Workers with disabilities    Amount of
 tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
@@ -3073,8 +3076,10 @@ penalties and interest, levied for school district purposes on the
 qualified agricultural property (A) owned by the taxpayer, (B) owned by
 the father, mother, grandfather, grandmother, brother or sister of the
 taxpayer and a written agreement expressing intent to eventually
-purchase the land has been entered into, or (C) owned by trust to which
-the taxpayer is a beneficiary.
+purchase the land has been entered into, or (C) owned by trust where the
+taxpayer is an immediate family member of the settlor, and where under
+the terms of the trust the title to the property shall pass to such
+taxpayer upon the death of the settlor.
   (4) Qualified agricultural property. For purposes of this subsection,
 the term "qualified agricultural property" means land located in this
 state which is used in agricultural production, and land improvements,
@@ -3845,7 +3850,7 @@ this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
-  ** NB Repealed March 31, 2018
+  ** NB Repealed March 31, 2022
   (x) Low-income housing credit. (1) Allowance of credit. A taxpayer
 shall be allowed a credit against the tax imposed by this article with
 respect to the ownership of eligible low-income buildings, computed as
@@ -4297,21 +4302,25 @@ for taxable years beginning on or after January first, two thousand
 twelve.
   (oo) Credit for rehabilitation of historic properties. (1) (A) For
 taxable years beginning on or after January first, two thousand ten and
-before January first, two thousand twenty, a taxpayer shall be allowed a
-credit as hereinafter provided, against the tax imposed by this article,
-in an amount equal to one hundred percent of the amount of credit
-allowed the taxpayer with respect to a certified historic structure
-under subsection (a) (2) of section 47 of the federal internal revenue
-code with respect to a certified historic structure located within the
-state. Provided, however, the credit shall not exceed five million
-dollars. For taxable years beginning on or after January first, two
-thousand twenty, a taxpayer shall be allowed a credit as hereinafter
-provided, against the tax imposed by this article, in an amount equal to
-thirty percent of the amount of credit allowed the taxpayer with respect
-to a certified historic structure under subsection (a)(2) of section 47
-of the federal internal revenue code with respect to a certified
-historic structure located within the state; provided, however, the
-credit shall not exceed one hundred thousand dollars.
+before January first, two thousand twenty-five, a taxpayer shall be
+allowed a credit as hereinafter provided, against the tax imposed by
+this article, in an amount equal to one hundred percent of the amount of
+credit allowed the taxpayer with respect to a certified historic
+structure under internal revenue code section 47(c)(3), determined
+without regard to ratably allocating the credit over a five year period
+as required by subsection (a) of such section 47, with respect to a
+certified historic structure located within the state. Provided,
+however, the credit shall not exceed five million dollars. For taxable
+years beginning on or after January first, two thousand twenty-five, a
+taxpayer shall be allowed a credit as hereinafter provided, against the
+tax imposed by this article, in an amount equal to thirty percent of the
+amount of credit allowed the taxpayer with respect to a certified
+historic structure under internal revenue code section 47(c)(3),
+determined without regard to ratably allocating the credit over a five
+year period as required by subsection (a) of such section 47, with
+respect to a certified historic structure located within the state;
+provided, however, the credit shall not exceed one hundred thousand
+dollars.
   (B) If the taxpayer is a partner in a partnership or a shareholder of
 a New York S corporation, then the credit cap imposed in subparagraph
 (A) of this paragraph shall be applied at the entity level, so that the
@@ -4321,12 +4330,13 @@ applicable in that taxable year.
   (2) Tax credits allowed pursuant to this subsection shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
-  (3) If the credit allowed the taxpayer pursuant to section 47 of the
-internal revenue code with respect to a qualified rehabilitation is
-recaptured pursuant to subsection (a) of section 50 of the internal
-revenue code, a portion of the credit allowed under this subsection must
-be added back in the same taxable year and in the same proportion as the
-federal recapture.
+  (3) If the taxpayer is allowed a credit pursuant to section 47 of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subsection and that
+credit pursuant to such section 47 is recaptured pursuant to subsection
+(a) of section 50 of the internal revenue code, a portion of the credit
+allowed under this subsection must be added back in the same taxable
+year and in the same proportion as the federal recapture.
   (4) If the amount of the credit allowed under this subsection for any
 taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
@@ -4335,9 +4345,13 @@ article, provided, however, that no interest shall be paid thereon.
   (5) To be eligible for the credit allowable under this subsection the
 rehabilitation project shall be in whole or in part located within a
 census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of January
+percent of the state median family income as calculated as of April
 first of each year using the most recent five year estimate from the
 American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subsection for an additional two calendar years.
   (pp) Historic homeownership rehabilitation credit. (1) For taxable
 years beginning on or after January first, two thousand seven, a
 taxpayer shall be allowed a credit, to be computed as hereinafter
@@ -4364,20 +4378,20 @@ the qualified historic home.
   (2) (A) With respect to any particular residence of a taxpayer, the
 credit allowed under paragraph one of this subsection shall not exceed
 fifty thousand dollars for taxable years beginning on or after January
-first, two thousand ten and before January first, two thousand twenty
-and twenty-five thousand dollars for taxable years beginning on or after
-January first, two thousand twenty. In the case of a husband and wife,
-the amount of the credit shall be divided between them equally or in
-such other manner as they may both elect. If a taxpayer incurs qualified
-rehabilitation expenditures in relation to more than one residence in
-the same year, the total amount of credit allowed under paragraph one of
-this subsection for all such expenditures shall not exceed fifty
-thousand dollars for taxable years beginning on or after January first,
-two thousand ten and before January first, two thousand twenty and
-twenty-five thousand dollars for taxable years beginning on or after
-January first, two thousand twenty.
+first, two thousand ten and before January first, two thousand
+twenty-five and twenty-five thousand dollars for taxable years beginning
+on or after January first, two thousand twenty-five. In the case of a
+husband and wife, the amount of the credit shall be divided between them
+equally or in such other manner as they may both elect. If a taxpayer
+incurs qualified rehabilitation expenditures in relation to more than
+one residence in the same year, the total amount of credit allowed under
+paragraph one of this subsection for all such expenditures shall not
+exceed fifty thousand dollars for taxable years beginning on or after
+January first, two thousand ten and before January first, two thousand
+twenty-five and twenty-five thousand dollars for taxable years beginning
+on or after January first, two thousand twenty-five.
   (B) For taxable years beginning on or after January first, two
-thousand ten and before January first, two thousand twenty, if the
+thousand ten and before January first, two thousand twenty-five, if the
 amount of credit allowable under this subsection shall exceed the
 taxpayer's tax for such year, and the taxpayer's New York adjusted gross
 income for such year does not exceed sixty thousand dollars, the excess
@@ -4388,10 +4402,10 @@ the taxpayer's New York adjusted gross income for such year exceeds
 sixty thousand dollars, the excess credit that may be carried over to
 the following year or years and may be deducted from the taxpayer's tax
 for such year or years. For taxable years beginning on or after January
-first, two thousand twenty, if the amount of credit allowable under this
-subsection shall exceed the taxpayer's tax for such year, the excess may
-be carried over to the following year or years and may be deducted from
-the taxpayer's tax for such year or years.
+first, two thousand twenty-five, if the amount of credit allowable under
+this subsection shall exceed the taxpayer's tax for such year, the
+excess may be carried over to the following year or years and may be
+deducted from the taxpayer's tax for such year or years.
   (3)(A) The term "qualified rehabilitation expenditure" means, for
 purposes of this subsection, any amount properly chargeable to a capital
 account:
@@ -4584,35 +4598,38 @@ or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
   * NB Repealed December 31, 2021
-  * (tt) New York youth jobs program tax credit. (1) A taxpayer that has
-been certified by the commissioner of labor as a qualified employer
+  * (tt) New York youth jobs program tax credit.  ** (1) A taxpayer that
+has been certified by the commissioner of labor as a qualified employer
 pursuant to section twenty-five-a of the labor law shall be allowed a
-credit against the tax imposed by this article equal to (A) five hundred
-dollars per month for up to six months for each qualified employee the
-employer employs in a full-time job or two hundred fifty dollars per
-month for up to six months for each qualified employee the employer
-employs in a part-time job of at least twenty hours per week or ten
-hours per week when the qualified employee is enrolled in high school
-full-time, and (B) one thousand dollars for each qualified employee who
-is employed for at least an additional six months by the qualified
-employer in a full-time job or five hundred dollars for each qualified
-employee who is employed for at least an additional six months by the
-qualified employer in a part-time job of at least twenty hours per week
-or ten hours per week when the qualified employee is enrolled in high
-school full-time, and (C) an additional one thousand dollars for each
-qualified employee who is employed for at least an additional year after
-the first year of the employee's employment by the qualified employer in
-a full-time job or five hundred dollars for each qualified employee who
-is employed for at least an additional year after the first year of the
-employee's employment by the qualified employer in a part-time job of at
-least twenty hours per week or ten hours per week when the qualified
-employee is enrolled in high school full-time. A taxpayer that is a
-partner in a partnership, member of a limited liability company or
-shareholder in an S corporation that has been certified by the
-commissioner of labor as a qualified employer pursuant to section
-twenty-five-a of the labor law shall be allowed its pro rata share of
-the credit earned by the partnership, limited liability company or S
-corporation. For purposes of this subsection, the term "qualified
+credit against the tax imposed by this article equal to (A) seven
+hundred fifty dollars per month for up to six months for each qualified
+employee the employer employs in a full-time job or three hundred
+seventy-five dollars per month for up to six months for each qualified
+employee the employer employs in a part-time job of at least twenty
+hours per week or ten hours per week when the qualified employee is
+enrolled in high school full-time, and (B) fifteen hundred dollars for
+each qualified employee who is employed for at least an additional six
+consecutive months by the qualified employer in a full-time job or seven
+hundred fifty dollars for each qualified employee who is employed for at
+least an additional six consecutive months by the qualified employer in
+a part-time job of at least twenty hours per week or ten hours per week
+when the qualified employee is enrolled in high school full-time, and
+(C) an additional fifteen hundred dollars for each qualified employee
+who is employed for at least an additional year after the completion of
+the time periods and satisfaction of the conditions set forth in
+subparagraphs A and B of this subsection by the qualified employer in a
+full-time job or seven hundred fifty dollars for each qualified employee
+who is employed for at least an additional year after the completion of
+the time periods and satisfaction of the conditions set forth in
+subparagraphs A and B of this subsection by the qualified employer in a
+part-time job of at least twenty hours per week or ten hours per week
+when the qualified employee is enrolled in high school full-time. A
+taxpayer that is a partner in a partnership, member of a limited
+liability company or shareholder in an S corporation that has been
+certified by the commissioner of labor as a qualified employer pursuant
+to section twenty-five-a of the labor law shall be allowed its pro rata
+share of the credit earned by the partnership, limited liability company
+or S corporation. For purposes of this subsection, the term "qualified
 employee" shall have the same meaning as set forth in subdivision (b) of
 section twenty-five-a of the labor law. The portion of the credit
 described in subparagraph (A) of this paragraph shall be allowed for the
@@ -4622,13 +4639,38 @@ shall be allowed in the taxable year in which the additional six month
 period ends, and the portion of the credit described in subparagraph (C)
 of this paragraph shall be allowed in the taxable year in which the
 additional year after the first year of employment ends.
+  ** NB Effective until January 1, 2019
+  ** (1) A taxpayer that has been certified by the commissioner of labor
+as a qualified employer pursuant to section twenty-five-a of the labor
+law and received an annual final certificate of tax credit from such
+commissioner shall be allowed a credit against the tax imposed by this
+article equal to the amount listed on the annual final certificate of
+tax credit issued by the commissioner of labor pursuant to section
+twenty-five-a of the labor law. A taxpayer that is a partner in a
+partnership, member of a limited liability company or shareholder in an
+S corporation that has received its annual final certificate of tax
+credit from the commissioner of labor as a qualified employer pursuant
+to section twenty-five-a of the labor law shall be allowed its pro rata
+share of the credit earned by the partnership, limited liability company
+or S corporation. If the qualified employer's taxable year is a calendar
+year, the employer shall be entitled to claim the credit as calculated
+on the annual final certificate of tax credit on the calendar year
+return for which the annual final certificate of tax credit was issued.
+If the qualified employer's taxable year is a fiscal year, the employer
+shall be entitled to claim the credit as calculated on the annual final
+certificate of tax credit on the return for the fiscal year that
+encompasses the date on which the annual final certificate of tax credit
+is issued. For the purposes of this subsection, the term "qualified
+employee" shall have the same meaning as set forth in subdivision (b) of
+section twenty-five-a of the labor law.
+  ** NB Effective January 1, 2019
   (2) If the amount of the credit allowed under this subsection exceeds
 the taxpayer's tax for the taxable year, any amount of credit not
 deductible in that taxable year will be treated as an overpayment of tax
 to be credited or refunded in accordance with the provisions of section
 six hundred eighty-six of this article. Provided, however, no interest
 will be paid thereon.
-  (3) The taxpayer may be required to attach to its tax return its
+  ** (3) The taxpayer may be required to attach to its tax return its
 certificate of eligibility issued by the commissioner of labor pursuant
 to section twenty-five-a of the labor law. In no event shall the
 taxpayer be allowed a credit greater than the amount of the credit
@@ -4641,6 +4683,21 @@ member of a limited liability company, a partner in a partnership, or a
 shareholder in a subchapter S corporation, only the amount of credit
 earned by the entity and not the amount of credit claimed by the
 taxpayer may be released.
+  ** NB Effective until January 1, 2019
+  ** (3) The taxpayer shall be required to attach to its tax return its
+annual final certificate of tax credit issued by the commissioner of
+labor pursuant to section twenty-five-a of the labor law. In no event
+shall the taxpayer be allowed a credit greater than the amount of the
+credit listed on the annual final certificate of tax credit.
+Notwithstanding any provision of this chapter to the contrary, the
+commissioner and the commissioner's designees may release the names and
+addresses of any taxpayer claiming this credit and the amount of the
+credit earned by the taxpayer. Provided, however, if a taxpayer claims
+this credit because it is a member of a limited liability company, a
+partner in a partnership, or a shareholder in a subchapter S
+corporation, only the amount of credit earned by the entity and not the
+amount of credit claimed by the taxpayer may be released.
+  ** NB Effective January 1, 2019
   * NB There are 3 sb (tt)'s
   * (tt) Empire state jobs program retention credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided
@@ -4854,7 +4911,8 @@ year, the excess will be treated as an overpayment of tax to be credited
 or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
-  (bbb) Real property tax freeze credit. (1) As used in this subsection:
+  * (bbb) Real property tax freeze credit. (1) As used in this
+subsection:
   (A) The term "freeze-compliant budget" means a budget of a taxing
 jurisdiction that has met the requirements of section two thousand
 twenty-three-b of the education law or section three-d of the general
@@ -5146,6 +5204,46 @@ and fifty cents, in which case the amount of the credit shall be rounded
 up to two dollars.
   (7) No credit shall be allowed under this subsection in relation to
 property located within a city with a population of one million or more.
+  * NB Repealed April 15, 2020
+  (ccc) Article twenty-four employee credit. A covered employee of an
+electing employer shall be entitled to a credit against the tax imposed
+by this article as provided in this subsection. For purposes of this
+subsection the terms "covered employee" and "electing employer" shall
+have the same meanings as under section eight hundred fifty of this
+chapter. (1) For two thousand nineteen, the credit shall be equal to the
+product of (i) the covered employee's wages and compensation in excess
+of forty thousand dollars received during the tax year from the electing
+employer that are subject to tax under this article and (ii) one and
+one-half percent and (iii) the result of one minus a fraction, the
+numerator of which shall be the tax imposed on the covered employee as
+determined pursuant to section six hundred one of this article before
+the application of any credits for the applicable tax year and the
+denominator of which shall be the covered employee's taxable income as
+determined pursuant to this article for the applicable tax year. (2) For
+two thousand twenty, the credit shall be equal to the product of (i) the
+covered employee's wages and compensation in excess of forty thousand
+dollars received during the tax year from the electing employer that are
+subject to tax under this article and (ii) three percent and (iii) the
+result of one minus a fraction, the numerator of which shall be the tax
+imposed on the covered employee as determined pursuant to section six
+hundred one of this article before the application of any credits for
+the applicable tax year and the denominator of which shall be the
+covered employee's taxable income as determined pursuant to this article
+for the applicable tax year. (3) For two thousand twenty-one and
+thereafter, the credit shall be equal to the product of (i) the covered
+employee's wages and compensation in excess of forty thousand dollars
+received during the tax year from the electing employer that are subject
+to tax under this article and (ii) five percent and (iii) the result of
+one minus a fraction, the numerator of which shall be the tax imposed on
+the covered employee as determined pursuant to section six hundred one
+of this article before the application of any credits for the applicable
+tax year and the denominator of which shall be the covered employee's
+taxable income as determined pursuant to this article for the applicable
+tax year. If the amount of the credit allowable under this subsection
+for any taxable year shall exceed the taxpayer's tax for such year, the
+excess allowed for a taxable year may be carried over to the following
+year or years and may be deducted from the taxpayer's tax for such year
+or years.
   (ddd) Employee training incentive program tax credit. (1) A taxpayer
 that has been approved by the commissioner of economic development to
 participate in the employee training incentive program and has been
@@ -5208,10 +5306,26 @@ reported for federal income tax purposes, or that would be reported as
 adjusted gross income if a federal income tax return were required to be
 filed, reduced by distributions, to the extent included in federal
 adjusted gross income, received from an individual retirement account
-and an individual retirement annuity. Provided further, that if the
-qualified taxpayer was an owner of the property during the taxable year
-but did not own it on December thirty-first of the taxable year, then
-the determination as to whether the income of an individual should be
+and an individual retirement annuity. For taxable years beginning on and
+after January first, two thousand nineteen, where an income-eligibility
+determination is wholly or partly based upon the income of one or more
+individuals who did not file a return pursuant to section six hundred
+fifty-one of this article for the applicable income tax year, then in
+order to be eligible for the credit authorized by this subsection, each
+such individual must file a statement with the department showing the
+source or sources of his or her income for that income tax year, and the
+amount or amounts thereof, that would have been reported on such a
+return if one had been filed. Such statement shall be filed at such
+time, and in such form and manner, as may be prescribed by the
+department, and shall be subject to the provisions of section six
+hundred ninety-seven of this article to the same extent that a return
+would be. The department shall make such forms and instructions
+available for the filing of such statements. The local assessor shall
+upon the request of a taxpayer assist such taxpayer in the filing of the
+statement with the department. Provided further, that if the qualified
+taxpayer was an owner of the property during the taxable year but did
+not own it on December thirty-first of the taxable year, then the
+determination as to whether the income of an individual should be
 included in "affiliated income" shall be based upon the ownership and/or
 residency status of that individual as of the first day of the month
 during which the qualified taxpayer ceased to be an owner of the
@@ -5349,6 +5463,13 @@ required payments by December thirty-first of the taxable year, as
 provided by subdivision sixteen of section four hundred twenty-five of
 the real property tax law.
   (6) Special cases.
+  (A) A married couple may not receive a credit pursuant to this
+subsection on more than one residence during any given taxable year,
+unless living apart due to legal separation. Nor may a married couple
+receive a credit pursuant to this subsection on one residence while
+receiving an exemption pursuant to section four hundred twenty-five of
+the real property tax law on another residence, unless living apart due
+to legal separation.
   (B) In the case of property consisting of a mobile home that is
 described in paragraph (1) of subdivision two of section four hundred
 twenty-five of the real property tax law, the amount of the credit
@@ -5392,13 +5513,14 @@ names and incomes of the other taxpayers whose incomes were included in
 the computation of such affiliated income.
   (B) Notwithstanding any provision of law to the contrary, the names
 and addresses of individuals who have applied for or are receiving the
-credit authorized by this subsection may be disclosed to assessors and
-county directors of real property tax services. In addition, where an
-agreement is in place between the commissioner and the head of the tax
-department of another state, such information may be disclosed to such
-official or his or her designees. Such information shall be considered
-confidential and shall not be subject to further disclosure pursuant to
-the freedom of information law or otherwise.
+credit authorized by this subsection may be disclosed to assessors,
+county directors of real property tax services, and municipal tax
+collecting officers. In addition, where an agreement is in place between
+the commissioner and the head of the tax department of another state,
+such information may be disclosed to such official or his or her
+designees. Such information shall be considered confidential and shall
+not be subject to further disclosure pursuant to the freedom of
+information law or otherwise.
   (8) Proof of claim. The commissioner may require a qualified taxpayer
 to furnish the following information in support of his or her claim for
 credit under this subsection: affiliated income, the total school
@@ -5654,6 +5776,25 @@ this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
+  (iii) Credit for contributions to certain funds. For taxable years
+beginning on or after January first, two thousand nineteen, an
+individual taxpayer shall be allowed a credit against the tax imposed
+under this article for an amount equal to eighty-five percent of the sum
+of: (1) the amount contributed by the taxpayer during the immediately
+preceding taxable year to any or all of the following accounts within
+the charitable gifts trust fund set forth in section ninety-two-gg of
+the state finance law: the health charitable account established by
+paragraph a of subdivision four of section ninety-two-gg of the state
+finance law, or the elementary and secondary education charitable
+account established by paragraph b of subdivision four of section
+ninety-two-gg of the state finance law; (2) the amount of qualified
+contributions made by the taxpayer to Health Research, Inc. in
+accordance with section two of the chapter of the laws of two thousand
+eighteen that added this subsection; and (3) the amount of qualified
+contributions made by the taxpayer to the State University of New York
+Impact Foundation and/or the Research Foundation of the City University
+of New York in accordance with section three of the chapter of the laws
+of two thousand eighteen that added this subsection.
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

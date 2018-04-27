@@ -25,11 +25,11 @@ consecutive days, the taxpayer is present in the city for a number of
 days which does not exceed an amount which bears the same ratio to
 ninety as the number of days contained in that period of less than
 twelve months bears to five hundred forty-eight, or
-  (2) who is not domiciled in such city but maintains a permanent place
-of abode in such city and spends in the aggregate more than one hundred
-eighty-three days of the taxable year in such city, unless such
-individual is in active service in the armed forces of the United
-States.
+  (2) who maintains a permanent place of abode in such city and spends
+in the aggregate more than one hundred eighty-three days of the taxable
+year in such city, whether or not domiciled in this city for any portion
+of the taxable year, unless such individual is in active service in the
+armed forces of the United States.
   (b) City nonresident individual. A city nonresident individual means
 an individual who is not a resident of such city or the state of New
 York.

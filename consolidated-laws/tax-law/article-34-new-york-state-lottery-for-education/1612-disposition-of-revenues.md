@@ -252,34 +252,33 @@ track located west of State Route 14 from Sodus Point to the
 Pennsylvania border within New York, and except for Aqueduct racetrack
 each track operator shall be required to co-invest an amount of capital
 expenditure equal to its cumulative vendor's capital award. For all
-tracks, except for Aqueduct racetrack, the amount of any vendor's
-capital award that is not used during any one year period may be carried
-over into subsequent years ending before April first, two thousand
-eighteen. Any amount attributable to a capital expenditure approved
-prior to April first, two thousand eighteen and completed before April
-first, two thousand twenty; or approved prior to April first, two
-thousand twenty-two and completed before April first, two thousand
-twenty-four for a vendor track located west of State Route 14 from Sodus
-Point to the Pennsylvania border within New York, shall be eligible to
-receive the vendor's capital award. In the event that a vendor track's
-capital expenditures, approved by the gaming commission prior to April
-first, two thousand eighteen and completed prior to April first, two
-thousand twenty, exceed the vendor track's cumulative capital award
-during the five year period ending April first, two thousand eighteen,
-the vendor shall continue to receive the capital award after April
-first, two thousand eighteen until such approved capital expenditures
-are paid to the vendor track subject to any required co-investment. In
-no event shall any vendor track that receives a vendor fee pursuant to
-clause (F) or (G) of this subparagraph be eligible for a vendor's
-capital award under this section. Any operator of a vendor track which
-has received a vendor's capital award, choosing to divest the capital
-improvement toward which the award was applied, prior to the full
-depreciation of the capital improvement in accordance with generally
-accepted accounting principles, shall reimburse the state in amounts
-equal to the total of any such awards. Any capital award not approved
-for a capital expenditure at a video lottery gaming facility by April
-first, two thousand eighteen shall be deposited into the state lottery
-fund for education aid; and
+tracks the amount of any vendor's capital award that is not used during
+any one year period may be carried over into subsequent years ending
+before April first, two thousand nineteen. Any amount attributable to a
+capital expenditure approved prior to April first, two thousand nineteen
+and completed before April first, two thousand twenty-one; or approved
+prior to April first, two thousand twenty-three and completed before
+April first, two thousand twenty-five for a vendor track located west of
+State Route 14 from Sodus Point to the Pennsylvania border within New
+York, shall be eligible to receive the vendor's capital award. In the
+event that a vendor track's capital expenditures, approved by the gaming
+commission prior to April first, two thousand nineteen and completed
+prior to April first, two thousand twenty-one, exceed the vendor track's
+cumulative capital award during the five year period ending April first,
+two thousand nineteen, the vendor shall continue to receive the capital
+award after April first, two thousand nineteen until such approved
+capital expenditures are paid to the vendor track subject to any
+required co-investment. In no event shall any vendor track that receives
+a vendor fee pursuant to clause (F) or (G) of this subparagraph be
+eligible for a vendor's capital award under this section. Any operator
+of a vendor track which has received a vendor's capital award, choosing
+to divest the capital improvement toward which the award was applied,
+prior to the full depreciation of the capital improvement in accordance
+with generally accepted accounting principles, shall reimburse the state
+in amounts equal to the total of any such awards. Any capital award not
+approved for a capital expenditure at a video lottery gaming facility by
+April first, two thousand nineteen shall be deposited into the state
+lottery fund for education aid; and
   (I) Notwithstanding any provision of law to the contrary, free play
 allowance credits authorized by the division pursuant to subdivision f
 of section sixteen hundred seventeen-a of this article shall not be

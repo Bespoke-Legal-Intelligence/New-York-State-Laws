@@ -114,9 +114,18 @@ underpayment rate set by the commissioner pursuant to section one
 thousand ninety-six of this article, or if no rate is set, at the rate
 of seven and one-half percent per annum upon the amount of the
 underpayment for the period of the underpayment but not beyond the
-fifteenth day of the third month following the close of the taxable
-year. The amount of the underpayment shall be, with respect to any
-installment of estimated tax computed on the basis of either the
+fifteenth day of the fourth month following the close of the taxable
+year. Provided, however, that, for taxable years beginning on or after
+January first, two thousand seventeen and before January first, two
+thousand eighteen, no amount shall be added to the tax with respect to
+the portion of such tax related to the amount of any interest deductions
+directly or indirectly attributable to the amount included in exempt CFC
+income pursuant to subparagraph (ii) of paragraph (b) of subdivision
+six-a of section two hundred eight of this chapter or the forty percent
+reduction of such exempt CFC income in lieu of interest attribution if
+the election described in paragraph (b) of subdivision six-a of such
+section is made. The amount of the underpayment shall be, with respect
+to any installment of estimated tax computed on the basis of either the
 preceding year's tax or the second preceding year's tax, the excess of
 the amount required to be paid over the amount, if any, paid on or
 before the last day prescribed for such payment or, with respect to any

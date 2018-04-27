@@ -723,18 +723,10 @@ initial trend factor was established and one prospective final annual
 adjustment to the trend factors to reflect such price movements and to
 be effective on January first, two years after the initial trend factor
 was established.
-  * 10. Subject to the availability of funds, the commissioner shall
-authorize health occupation development and workplace demonstration
-programs pursuant to the provisions of section two thousand eight
-hundred seven-h of this article for residential health care facilities,
-and the commissioner is hereby directed to make rate adjustments to
-cover the cost of such programs.
-  * NB Effective until July 1, 2017
-  * 10. Subject to the availability of funds, the provisions of clause
-(B) of subparagraph (iii) of paragraph (e) of subdivision one of section
+  10. Subject to the availability of funds, the provisions of clause (B)
+of subparagraph (iii) of paragraph (e) of subdivision one of section
 twenty-eight hundred seven-c of this article shall apply to residential
 health care facilities.
-  * NB Effective July 1, 2017
   11. Residential health care facility reimbursement rate promulgation.
 With regard to a residential health care facility, the provisions of
 subdivision seven of section twenty-eight hundred seven of this article

@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 3 — Exemptions](README.md)
 
 ```text
-  § 1119. (a) Subject to the conditions and limitations provided for
+  § 1119. * (a) Subject to the conditions and limitations provided for
 herein, a refund or credit shall be allowed for a tax paid pursuant to
 subdivision (a) of section eleven hundred five or section eleven hundred
 ten (1) on the sale or use of tangible personal property if the
@@ -92,6 +92,88 @@ or use imposed under this article plus any tax imposed under the
 authority of article twenty-nine exceeds the amount computed by applying
 against such sale or use the state and local rates of tax in effect at
 the time such contract was entered into or such bid was submitted.
+  * NB Effective until June 1, 2018
+  * (a) Subject to the conditions and limitations provided for herein, a
+refund or credit shall be allowed for a tax paid pursuant to subdivision
+(a) of section eleven hundred five or section eleven hundred ten (1) on
+the sale or use of tangible personal property if the purchaser or user,
+in the performance of a contract, later incorporates that tangible
+personal property into real property located outside this state, (2) on
+the sale or use of tangible personal property purchased in bulk, or any
+portion thereof, which is stored and not used by the purchaser or user
+within this state if that property is subsequently reshipped by such
+purchaser or user to a point outside this state for use outside this
+state, (3) on the sale to or use by a contractor or subcontractor of
+tangible personal property if that property is used by him solely in the
+performance of a pre-existing lump sum or unit price construction
+contract, (4) on the sale or use within this state of tangible personal
+property, not purchased for resale, if the use of such property in this
+state is restricted to fabricating such property (including
+incorporating it into or assembling it with other tangible personal
+property), processing, printing or imprinting such property and such
+property is then shipped to a point outside this state for use outside
+this state, or (6) on the sale of tangible personal property purchased
+for use in constructing, expanding or rehabilitating industrial or
+commercial real property (other than property used or to be used
+exclusively by one or more registered vendors primarily engaged in the
+retail sale of tangible personal property) located in an area designated
+as an empire zone pursuant to article eighteen-B of the general
+municipal law, but only to the extent that such property becomes an
+integral component part of the real property. (For the purpose of clause
+(3) of the preceding sentence, the term "pre-existing lump sum or unit
+price construction contract" shall mean a contract for the construction
+of improvements to real property under which the amount payable to the
+contractor or subcontractor is fixed without regard to the costs
+incurred by him in the performance thereof, and which (i) was
+irrevocably entered into prior to the date of the enactment of this
+article or the enactment of a law increasing the rate of tax imposed
+under this article, or (ii) resulted from the acceptance by a
+governmental agency of a bid accompanied by a bond or other performance
+guaranty which was irrevocably submitted prior to such date.) Where the
+tax on the sale or use of such tangible personal property has been paid
+to the vendor, to qualify for such refund or credit, such tangible
+personal property must be incorporated into real property as required in
+clause (1) above, reshipped as required in clause (2) above, used in the
+manner described in clauses (3), (4) and (6) above within three years
+after the date such tax was payable to the tax commission by the vendor
+pursuant to section eleven hundred thirty-seven. Where the tax on the
+sale or use of such tangible personal property was paid by the applicant
+for the credit or refund directly to the tax commission, to qualify for
+such refund or credit, such tangible personal property must be
+incorporated into real property as required in clause (1) above,
+reshipped as required in clause (2) above, used in the manner described
+in clauses (3), (4) and (6) above within three years after the date such
+tax was payable to the tax commission by such applicant pursuant to this
+article. An application for a refund or credit pursuant to this section
+must be filed with such commission within the time provided by
+subdivision (a) of section eleven hundred thirty-nine. Such application
+shall be in such form as the tax commission may prescribe. Where an
+application for credit has been filed, the applicant may immediately
+take such credit on the return which is due coincident with or
+immediately subsequent to the time that he files his application for
+credit. However, the taking of the credit on the return shall be deemed
+to be part of the application for credit and shall be subject to the
+provisions in respect to applications for credit in section eleven
+hundred thirty-nine as provided in subdivision (e) of such section. With
+respect to a sale or use described in clause (3) above where a
+pre-existing lump sum or unit price construction contract was
+irrevocably entered into prior to the date of the enactment of this
+article or the bid accompanied by the performance guaranty was
+irrevocably submitted to the governmental agency prior to such date, the
+purchaser or user shall be entitled to a refund or credit only of the
+amount by which the tax on such sale or use imposed under this article
+plus any tax imposed under the authority of article twenty-nine exceeds
+the amount computed by applying against such sale or use the local rate
+of tax, if any, in effect at the time such contract was entered into or
+such bid was submitted.
+  In the case of the enactment of a law increasing the rate of tax
+imposed by this article, the purchaser or user shall be entitled only to
+a refund or credit of the amount by which the increased tax on such sale
+or use imposed under this article plus any tax imposed under the
+authority of article twenty-nine exceeds the amount computed by applying
+against such sale or use the state and local rates of tax in effect at
+the time such contract was entered into or such bid was submitted.
+  * NB Effective June 1, 2018
   (b) Subject to the conditions and limitations provided for in this
 subdivision, a refund or credit shall be allowed for a tax paid pursuant
 to subdivision (a) and paragraph three of subdivision (c) of section

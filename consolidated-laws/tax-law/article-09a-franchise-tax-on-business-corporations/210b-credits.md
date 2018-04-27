@@ -1737,25 +1737,29 @@ tax to be credited or refunded in accordance with the provisions of
 section one thousand eighty-six of this chapter. Provided, however, the
 provisions of subsection (c) of section one thousand eighty-eight of
 this chapter notwithstanding, no interest shall be paid thereon.
-  26. Credit for rehabilitation of historic properties. (a) Application
+  26. Credit for rehabilitation of historic properties.  (a) Application
 of credit. (i) For taxable years beginning on or after January first,
-two thousand ten, and before January first, two thousand twenty, a
+two thousand ten, and before January first, two thousand twenty-five, a
 taxpayer shall be allowed a credit as hereinafter provided, against the
 tax imposed by this article, in an amount equal to one hundred percent
 of the amount of credit allowed the taxpayer for the same taxable year
-with respect to a certified historic structure under subsection (c)(2)
-of section 47 of the internal revenue code with respect to a certified
-historic structure located within the state. Provided, however, the
-credit shall not exceed five million dollars.
+with respect to a certified historic structure under internal revenue
+code section 47(c)(3), determined without regard to ratably allocating
+the credit over a five year period as required by subsection (a) of such
+section 47, with respect to a certified historic structure located
+within the state. Provided, however, the credit shall not exceed five
+million dollars.
   (ii) For taxable years beginning on or after January first, two
-thousand twenty, a taxpayer shall be allowed a credit as hereinafter
-provided, against the tax imposed by this article, in an amount equal to
-thirty percent of the amount of credit allowed the taxpayer for the same
-taxable year with respect to a certified historic structure under
-subsection (c)(3) of section 47 of the internal revenue code with
-respect to a certified historic structure located within the state.
-Provided, however, the credit shall not exceed one hundred thousand
-dollars.
+thousand twenty-five, a taxpayer shall be allowed a credit as
+hereinafter provided, against the tax imposed by this article, in an
+amount equal to thirty percent of the amount of credit allowed the
+taxpayer for the same taxable year determined without regard to ratably
+allocating the credit over a five year period as required by subsection
+(a) of section 47 of the internal revenue code, with respect to a
+certified historic structure under subsection (c)(3) of section 47 of
+the internal revenue code with respect to a certified historic structure
+located within the state. Provided, however, the credit shall not exceed
+one hundred thousand dollars.
   (B) If the taxpayer is a partner in a partnership or a shareholder in
 a New York S corporation, then the credit caps imposed in subparagraph
 (A) of this paragraph shall be applied at the entity level, so that the
@@ -1765,12 +1769,13 @@ applicable in that taxable year.
   (b) Tax credits allowed pursuant to this subdivision shall be allowed
 in the taxable year that the qualified rehabilitation is placed in
 service under section 167 of the federal internal revenue code.
-  (c) If the credit allowed the taxpayer pursuant to section 47 of the
-internal revenue code with respect to a qualified rehabilitation is
-recaptured pursuant to subsection (a) of section 50 of the internal
-revenue code, a portion of the credit allowed under this subsection must
-be added back in the same taxable year and in the same proportion as the
-federal credit.
+  (c) If the taxpayer is allowed a credit pursuant to section 47 of the
+internal revenue code with respect to a qualified rehabilitation that is
+also the subject of the credit allowed by this subdivision and that
+credit pursuant to such section 47 is recaptured pursuant to subsection
+(a) of section 50 of the internal revenue code, a portion of the credit
+allowed under this subdivision must be added back in the same taxable
+year and in the same proportion as the federal credit.
   (d) The credit allowed under this subdivision for any taxable year
 shall not reduce the tax due for such year to less than the amount
 prescribed in paragraph (d) of subdivision one of section two hundred
@@ -1786,9 +1791,13 @@ interest shall be paid thereon.
   (e) To be eligible for the credit allowable under this subdivision,
 the rehabilitation project shall be in whole or in part located within a
 census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of January
+percent of the state median family income as calculated as of April
 first of each year using the most recent five year estimate from the
 American community survey published by the United States Census bureau.
+If there is a change in the most recent five year estimate, a census
+tract that qualified for eligibility under this program before
+information about the change was released will remain eligible for a
+credit under this subdivision for an additional two calendar years.
   27. Credits of New York S corporations. (a) General. Notwithstanding
 the provisions of this section, no carryover of credit allowable in a
 New York C year shall be deducted from the tax otherwise due under this
@@ -1805,11 +1814,11 @@ whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
   29. Hire a vet credit. (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand nineteen, a taxpayer shall be allowed a
+January first, two thousand twenty-one, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
-veteran within the state.  The taxpayer may claim the credit in the year
+veteran within the state. The taxpayer may claim the credit in the year
 in which the qualified veteran completes one year of employment by the
 taxpayer. If the taxpayer claims the credit allowed under this
 subdivision, the taxpayer may not use the hiring of a qualified veteran
@@ -1824,7 +1833,7 @@ militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand eighteen; and
+thousand twenty; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1994,39 +2003,62 @@ credited or refunded in accordance with the provisions of section one
 thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
-  36. New York youth jobs program tax credit. (a) A taxpayer that has
+  36. New York youth jobs program tax credit.  *(a) A taxpayer that has
 been certified by the commissioner of labor as a qualified employer
 pursuant to section twenty-five-a of the labor law shall be allowed a
-credit against the tax imposed by this article equal to (i) five hundred
-dollars per month for up to six months for each qualified employee the
-employer employs in a full-time job or two hundred fifty dollars per
-month for up to six months for each qualified employee the employer
-employs in a part-time job of at least twenty hours per week or ten
-hours per week when the qualified employee is enrolled in high school
-full-time, (ii) one thousand dollars for each qualified employee who is
-employed for at least an additional six months by the qualified employer
-in a full-time job or five hundred dollars for each qualified employee
-who is employed for at least an additional six months by the qualified
+credit against the tax imposed by this article equal to (i) seven
+hundred fifty dollars per month for up to six months for each qualified
+employee the employer employs in a full-time job or three hundred
+seventy-five dollars per month for up to six months for each qualified
+employee the employer employs in a part-time job of at least twenty
+hours per week or ten hours per week when the qualified employee is
+enrolled in high school full-time, (ii) fifteen hundred dollars for each
+qualified employee who is employed for at least an additional six
+consecutive months by the qualified employer in a full-time job or seven
+hundred fifty dollars for each qualified employee who is employed for at
+least an additional six consecutive months by the qualified employer in
+a part-time job of at least twenty hours per week or ten hours per week
+when the qualified employee is enrolled in high school full-time, and
+(iii) an additional fifteen hundred dollars for each qualified employee
+who is employed for at least an additional year after the completion of
+the time periods and satisfaction of the conditions set forth in
+subparagraphs (i) and (ii) of this paragraph by the qualified employer
+in a full-time job or seven hundred fifty dollars for each qualified
+employee who is employed for at least an additional year after the
+completion of the time periods and satisfaction of the conditions set
+forth in subparagraphs (i) and (ii) of this paragraph by the qualified
 employer in a part-time job of at least twenty hours per week or ten
 hours per week when the qualified employee is enrolled in high school
-full-time, and (iii) an additional one thousand dollars for each
-qualified employee who is employed for at least an additional year after
-the first year of the employee's employment by the qualified employer in
-a full-time job or five hundred dollars for each qualified employee who
-is employed for at least an additional year after the first year of the
-employee's employment by the qualified employer in a part-time job of at
-least twenty hours per week or ten hours per week when the qualified
-employee is enrolled in high school full-time. For purposes of this
+full-time. For purposes of this subdivision, the term "qualified
+employee" shall have the same meaning as set forth in subdivision (b) of
+section twenty-five-a of the labor law. The portion of the credit
+described in subparagraph (i) of this paragraph shall be allowed for the
+taxable year in which the wages are paid to the qualified employee, the
+portion of the credit described in subparagraph (ii) of this paragraph
+shall be allowed in the taxable year in which the additional six month
+period ends, and the portion of the credit described in subparagraph
+(iii) of this paragraph shall be allowed in the taxable year in which
+the additional year after the first year of employment ends.
+  * NB Effective until January 1, 2019
+  * (a) A taxpayer that has been certified by the commissioner of labor
+as a qualified employer pursuant to section twenty-five-a of the labor
+law and received an annual final certificate of tax credit from such
+commissioner shall be allowed a credit against the tax imposed by this
+article equal to the amount listed on the annual final certificate of
+tax credit issued by the commissioner of labor pursuant to section
+twenty-five-a of the labor law. If the qualified employer's taxable year
+is a calendar year, the employer shall be entitled to claim the credit
+as calculated on the annual final certificate of tax credit on the
+calendar year return for which the annual final certificate of tax
+credit was issued. If the qualified employer's taxable year is a fiscal
+year, the employer shall be entitled to claim the credit as calculated
+on the annual final certificate of tax credit on the return for the
+fiscal year that encompasses the date on which the annual final
+certificate of tax credit is issued. For the purposes of this
 subdivision, the term "qualified employee" shall have the same meaning
 as set forth in subdivision (b) of section twenty-five-a of the labor
-law. The portion of the credit described in subparagraph (i) of this
-paragraph shall be allowed for the taxable year in which the wages are
-paid to the qualified employee, the portion of the credit described in
-subparagraph (ii) of this paragraph shall be allowed in the taxable year
-in which the additional six month period ends, and the portion of the
-credit described in subparagraph (iii) of this paragraph shall be
-allowed in the taxable year in which the additional year after the first
-year of employment ends.
+law.
+  * NB Effective January 1, 2019
   (b) The credit allowed under this subdivision for any taxable year may
 not reduce the tax due for that year to less than the amount prescribed
 in paragraph (d) of subdivision one of section two hundred ten of this
@@ -2037,7 +2069,7 @@ amount, any amount of credit not deductible in that taxable year will be
 treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, no interest will be paid thereon.
-  (c) The taxpayer may be required to attach to its tax return its
+  * (c) The taxpayer may be required to attach to its tax return its
 certificate of eligibility issued by the commissioner of labor pursuant
 to section twenty-five-a of the labor law. In no event shall the
 taxpayer be allowed a credit greater than the amount of the credit
@@ -2049,6 +2081,20 @@ Provided, however, if a taxpayer claims this credit because it is a
 member of a limited liability company or a partner in a partnership,
 only the amount of credit earned by the entity and not the amount of
 credit claimed by the taxpayer may be released.
+  * NB Effective until January 1, 2019
+  * (c) The taxpayer shall be required to attach to its tax return its
+annual final certificate of tax credit issued by the commissioner of
+labor pursuant to section twenty-five-a of the labor law. In no event
+shall the taxpayer be allowed a credit greater than the amount of the
+credit listed on the annual final certificate of tax credit.
+Notwithstanding any provision of this chapter to the contrary, the
+commissioner and the commissioner's designees may release the names and
+addresses of any taxpayer claiming this credit and the amount of the
+credit earned by the taxpayer. Provided, however, if a taxpayer claims
+this credit because it is a member of a limited liability company or a
+partner in a partnership, only the amount of credit earned by the entity
+and not the amount of credit claimed by the taxpayer may be released.
+  * NB Effective January 1, 2019
   37. Empire state jobs retention program credit. (a) Allowance of
 credit.  A taxpayer will be allowed a credit, to be computed as provided
 in section thirty-six of this chapter, against the taxes imposed by this
@@ -2307,7 +2353,7 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  * NB Repealed March 31, 2018
+  * NB Repealed March 31, 2022
   * 48. Workers with disabilities tax credit. (a) A qualified employer,
 as defined in paragraph one of subdivision (b) of section twenty-five-b
 of the labor law, shall be entitled to a credit against the tax imposed
