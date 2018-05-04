@@ -146,7 +146,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2801-b.   Improper practices in hospital staff appointments and
                     extension of professional privileges prohibited.
         2801-c.   Injunctions.
-        2801-d.   Private actions by patients of residental health care
+        2801-d.   Private actions by patients of residential health care
                     facilities.
         2801-e.   Voluntary residential health care facility rightsizing
                     demonstration program.
@@ -271,7 +271,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2807-y.   Pool administration.
         2807-z.   Review of eligible federally qualified health center
                     capital projects.
-        2808.     Residental health care facilities; rates of payment.
+        2808.     Residential health care facilities; rates of payment.
         2808-a.   Liability of certain persons.
         2808-b.   Certification of financial statements and financial
                     information.

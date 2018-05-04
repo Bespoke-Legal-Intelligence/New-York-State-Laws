@@ -20,13 +20,7 @@ while such child was boarded out in the approved or certified foster
 family boarding home with the prospective relative guardian. Such rate
 shall reflect annual changes in room and board rates and clothing
 replacement allowances.
-  * 3. "Prospective relative guardian" shall mean a person or persons
-who is related to the child through blood, marriage, or adoption who has
-been caring for the child as a fully certified or approved foster parent
-for at least six consecutive months prior to applying for kinship
-guardianship assistance payments.
-  * NB Effective until March 12, 2018
-  * 3. "Prospective relative guardian" shall mean a person who has been
+  3. "Prospective relative guardian" shall mean a person who has been
 caring for the child as a fully certified or approved foster parent for
 at least six consecutive months prior to applying for kinship
 guardianship assistance payments and who:
@@ -38,7 +32,6 @@ half-sibling; or
   (c) is an adult with a positive relationship with the child,
 including, but not limited to, a step-parent, godparent, neighbor or
 family friend.
-  * NB Effective March 12, 2018
   4. "Relative guardian" shall mean a person or persons who was
 appointed, as a guardian or permanent guardian for a child after
 entering into an agreement with a social services official for the

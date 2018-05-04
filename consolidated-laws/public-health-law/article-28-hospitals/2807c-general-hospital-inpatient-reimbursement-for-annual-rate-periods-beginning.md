@@ -4573,7 +4573,7 @@ twenty-three hundredths of one percent;
 six hundred fourteen thousandths of one percent;
   (iii) for the January first, nineteen hundred ninety-five through June
 thirtieth, nineteen hundred ninety-five rate period, an allowance of six
-hundred thirty-seven thousandths of one percent;
+hundred thirty-seven thousandths of one percent
   (iv) for the July first, nineteen hundred ninety-five through December
 thirty-first, nineteen hundred ninety-five rate period, an allowance of
 one and forty-two hundredths percent; and
