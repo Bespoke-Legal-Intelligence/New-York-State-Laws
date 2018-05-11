@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 21 — Forest Preserve Health and Safety Land Account and Public Utility Improvements](README.md)
 
 ```text
-* § 9-2101. Health and safety land account creation and use.
+§ 9-2101. Health and safety land account creation and use.
   1. Definitions. For purposes of this section:
   a. "eligible project" means a public health or safety-related project
 necessary where no viable alternative exists, limited to the following:
@@ -141,7 +141,4 @@ shall revert to the state for inclusion in the forest preserve. The
 department shall prescribe the terms and conditions for the removal of
 any improvements to the land and restoration of the land to a natural,
 vegetative state.
-  * NB Effective upon ratification of a CONCURRENT RESOLUTION OF THE
-SENATE AND ASSEMBLY that allows public utility lines and bicycle paths
-on certain state lands in the forest preserve
 ```

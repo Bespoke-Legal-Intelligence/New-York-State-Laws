@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 21 — Forest Preserve Health and Safety Land Account and Public Utility Improvements](README.md)
 
 ```text
-* § 9-2103. Highway right of way public utility improvements.
+§ 9-2103. Highway right of way public utility improvements.
   1. Definitions. For purposes of this section:
   a."county highway" shall have the same meaning as defined in
 subdivision four of section three of the highway law.
@@ -98,7 +98,4 @@ natural, vegetative state.
   8. The department is authorized to promulgate such rules and
 regulations as may be necessary to implement and administer the
 provisions of this article.
-  * NB Effective upon ratification of a CONCURRENT RESOLUTION OF THE
-SENATE AND ASSEMBLY that allows public utility lines and bicycle paths
-on certain state lands in the forest preserve
 ```

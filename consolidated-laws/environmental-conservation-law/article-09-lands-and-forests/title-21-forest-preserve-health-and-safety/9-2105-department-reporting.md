@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 9 — Lands and Forests](../README.md) › [Title 21 — Forest Preserve Health and Safety Land Account and Public Utility Improvements](README.md)
 
 ```text
-* § 9-2105. Department reporting.
+§ 9-2105. Department reporting.
   1. The department shall issue an annual report to the legislature
 detailing the use of the health and safety land account and the highway
 right of way public utility improvement permits including: the number of
@@ -18,7 +18,4 @@ public utility improvement permits issued; and the cumulative total and
 project type of permits issued listed by project sponsor.
   2. The information contained in such report shall also be made
 available on the department's website and updated no less than annually.
-  * NB Effective upon ratification of a CONCURRENT RESOLUTION OF THE
-SENATE AND ASSEMBLY that allows public utility lines and bicycle paths
-on certain state lands in the forest preserve
 ```
