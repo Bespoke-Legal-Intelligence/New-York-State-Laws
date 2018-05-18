@@ -443,11 +443,11 @@ levomethadylacetate or LAAM).
   (16) Methadone-intermediate, 4-cyano-2-dimethylamino-4, 4-diphenyl
 butane.
   (17) Moramide-intermediate, 2-methyl-3-morpholino-1,
-1-diphenylpropane-carboxylic
+1--diphenylpropane--carboxylic acid.
   (18) Pethidine (meperidine).
   (19) Pethidine-intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine.
   (20) Pethidine-intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate.
-  (21) Pethidine-intermediate-C, 1-methyl-4- phenylpiperidine-4-
+  (21) Pethidine-intermediate-C, 1--methyl--4-- phenylpiperidine--4--
 carboxylic acid.
   (22) Phenazocine.
   (23) Piminodine.

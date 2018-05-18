@@ -160,7 +160,7 @@ This appointment becomes effective upon my death.
 PRIOR APPOINTMENT REVOKED:
   I hereby revoke any prior appointment of any person to control the
 disposition of my remains.
-Signed this____________________day of__________,____________.
+Signed this                    day of          ,            .
 ________________________________________________________________________
 (Signature of person making the appointment)
 Statement by witness (must be 18 or older)
@@ -168,9 +168,11 @@ I declare that the person who executed this document is personally known
 to me and appears to be of sound mind and acting of his or her free
 will. He or she signed (or asked another to sign for him or her) this
 document in my presence.
-Witness 1: __________________ (signature)
+Witness 1: __________________
+             (signature)
 Address: _________________
-Witness 2: _________________ (signature)
+Witness 2: _________________
+             (signature)
 Address: _________________
 ACCEPTANCE AND ASSUMPTION BY AGENT:
   1. I have no reason to believe there has been a revocation of this

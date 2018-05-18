@@ -72,11 +72,10 @@ of a building or interest therein by a partnership which has thirty-five
 or more partners, the provisions of section 42(j)(5) of the internal
 revenue code shall apply to any recapture under this subdivision unless
 the partnership elects not to have such provisions apply.
-  * (6-a) The taxpayer that originally received the credit shall remain
+  (6-a) The taxpayer that originally received the credit shall remain
 solely liable for all obligations and liabilities imposed on the
 taxpayer with respect to the credit, none of which shall apply to a
 party to whom the credit has been subsequently transferred.
-  * NB Effective May 12, 2018
   (7) (A) The credit recapture required under this subdivision will not
 apply solely by reason of the disposition of a building or an interest
 therein if it is reasonably expected that such building will continue to

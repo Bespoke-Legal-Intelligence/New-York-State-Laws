@@ -120,42 +120,6 @@ residential health care facility, the responsibilities of this section
 shall be carried out by the ethics review committee of the general
 hospital or residential health care facility, provided that such
 committee shall invite a representative from hospice to participate.
-  5. Access to medical records and information; patient confidentiality.
-Ethics review committee members and consultants shall have access to
-medical information and medical records necessary to perform their
-function under this article. Any such information or records disclosed
-to committee members, consultants, or others shall be kept confidential
-except to the extent necessary to accomplish the purposes of this
-article or as otherwise provided by law.
-  6. Ethics review committee confidentiality. Notwithstanding any other
-provisions of law, the proceedings and records of an ethics review
-committee shall be kept confidential and shall not be released by
-committee members, committee consultants, or other persons privy to such
-proceedings and records; the proceedings and records of an ethics review
-committee shall not be subject to disclosure or inspection in any
-manner, including under article six of the public officers law or
-article thirty-one of the civil practice law and rules; and, no person
-shall testify as to the proceedings or records of an ethics review
-committee, nor shall such proceedings and records otherwise be
-admissible as evidence in any action or proceeding of any kind in any
-court or before any other tribunal, board, agency or person, except
-that:
-  (a) Ethics review committee proceedings and records, in cases where a
-committee approves or disapproves of the withholding or withdrawal of
-life-sustaining treatment pursuant to subdivision five of section
-twenty-nine hundred ninety-four-d of this article, or subdivision three
-of section twenty-nine hundred ninety-four-e of this article, may be
-obtained by or released to the department;
-  (b) Nothing in this subdivision shall prohibit the patient, the
-surrogate, other persons on the surrogate list, or a parent or guardian
-of a minor patient from voluntarily disclosing, releasing or testifying
-about committee proceedings or records; and
-  (c) Nothing in this subdivision shall prohibit the justice center for
-the protection of people with special needs or any agency or person
-within or under contract with the justice center which provides
-protection and advocacy services from requiring any information, report
-or record from a hospital in accordance with the provisions of section
-five hundred fifty-eight of the executive law.
   * NB Effective until May 28, 2018
   * 4. Procedures for ethics review committee. (a) These procedures are
 required only when: (i) the ethics review committee is convened to
@@ -214,4 +178,40 @@ shall be carried out by the ethics review committee of the general
 hospital or residential health care facility, provided that such
 committee shall invite a representative from hospice to participate.
   * NB Effective May 28, 2018
+  5. Access to medical records and information; patient confidentiality.
+Ethics review committee members and consultants shall have access to
+medical information and medical records necessary to perform their
+function under this article. Any such information or records disclosed
+to committee members, consultants, or others shall be kept confidential
+except to the extent necessary to accomplish the purposes of this
+article or as otherwise provided by law.
+  6. Ethics review committee confidentiality. Notwithstanding any other
+provisions of law, the proceedings and records of an ethics review
+committee shall be kept confidential and shall not be released by
+committee members, committee consultants, or other persons privy to such
+proceedings and records; the proceedings and records of an ethics review
+committee shall not be subject to disclosure or inspection in any
+manner, including under article six of the public officers law or
+article thirty-one of the civil practice law and rules; and, no person
+shall testify as to the proceedings or records of an ethics review
+committee, nor shall such proceedings and records otherwise be
+admissible as evidence in any action or proceeding of any kind in any
+court or before any other tribunal, board, agency or person, except
+that:
+  (a) Ethics review committee proceedings and records, in cases where a
+committee approves or disapproves of the withholding or withdrawal of
+life-sustaining treatment pursuant to subdivision five of section
+twenty-nine hundred ninety-four-d of this article, or subdivision three
+of section twenty-nine hundred ninety-four-e of this article, may be
+obtained by or released to the department;
+  (b) Nothing in this subdivision shall prohibit the patient, the
+surrogate, other persons on the surrogate list, or a parent or guardian
+of a minor patient from voluntarily disclosing, releasing or testifying
+about committee proceedings or records; and
+  (c) Nothing in this subdivision shall prohibit the justice center for
+the protection of people with special needs or any agency or person
+within or under contract with the justice center which provides
+protection and advocacy services from requiring any information, report
+or record from a hospital in accordance with the provisions of section
+five hundred fifty-eight of the executive law.
 ```
