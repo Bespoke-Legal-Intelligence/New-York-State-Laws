@@ -639,12 +639,11 @@ hundred ninety-six. The amount of the further additional assessment
 collected pursuant to paragraph (b) of subdivision two of this section
 in excess of one hundred sixty-four million seven hundred thousand
 dollars for the period of July first, nineteen hundred ninety-five
-through March thirty-first, nineteen hundred ninety-six shall be
-refunded to residential health care facilities by the commissioner based
-on the ratio which a residential health care facility's further
-additional assessment for such period bears to the total of the further
-additional assessments for such period paid by residential health care
-facilities.
+through March thirtyfirst, nineteen hundred ninety-six shall be refunded
+to residential health care facilities by the commissioner based on the
+ratio which a residential health care facility's further additional
+assessment for such period bears to the total of the further additional
+assessments for such period paid by residential health care facilities.
   (v) The further additional assessment imposed pursuant to subparagraph
 (iv) of paragraph (b) of subdivision two of this section shall not be
 collected in excess of one hundred twelve million dollars from

@@ -40,13 +40,12 @@ of continued inpatient care or where there is imminent or serious threat
 to the health of the enrollee;
   (e) Establishment of a written procedure to assure that the notice of
 an adverse determination includes: (i) the reasons for the determination
-including the clinical rationale, if any;
-  (ii) instructions on how to initiate standard and expedited appeals
-pursuant to section forty-nine hundred four and an external appeal
-pursuant to section forty-nine hundred fourteen of this article; and
-  (iii) notice of the availability, upon request of the enrollee or the
-enrollee's designee, of the clinical review criteria relied upon to make
-such determination;
+including the clinical rationale, if any; (ii) instructions on how to
+initiate standard and expedited appeals pursuant to section forty-nine
+hundred four and an external appeal pursuant to section forty-nine
+hundred fourteen of this article; and (iii) notice of the availability,
+upon request of the enrollee or the enrollee's designee, of the clinical
+review criteria relied upon to make such determination;
   (f) Establishment of a requirement that appropriate personnel of the
 utilization review agent are reasonably accessible by toll-free
 telephone:

@@ -6,9 +6,9 @@
 ```text
   § 2807-e. Uniform bills. 1. Definitions. For the purposes of this
 section, unless the context clearly requires otherwise:
-  (a)"Ambulatory care services" shall mean ambulatory surgical services,
-diagnostic and treatment services, emergency services, hospital
-outpatient services and physician services.
+  (a) "Ambulatory care services" shall mean ambulatory surgical
+services, diagnostic and treatment services, emergency services,
+hospital outpatient services and physician services.
   (b) "Superintendent" shall mean the superintendent of financial
 services.
   (c) "Third-party payor" shall mean those payors within the payor

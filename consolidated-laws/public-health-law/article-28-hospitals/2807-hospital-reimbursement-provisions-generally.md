@@ -182,16 +182,16 @@ year period total clinic visits according to the following scale:
               up to 15%                                   50%
               15 - 30%                                    75%
               30%+                                        100%
-  If the sum of the nominal payment amounts for all eligible voluntary
-non-profit diagnostic and treatment centers or for all eligible public
-diagnostic and treatment centers is less than the amount allocated for
-bad debt and charity care allowances pursuant to subparagraph (ii) or
-(ix) respectively of this paragraph for such diagnostic and treatment
-centers respectively, the nominal coverage percentages of base year
-period losses associated with the delivery of bad debt and charity care
-pursuant to this scale may be increased to not more than one hundred
+If  the  sum  of  the nominal payment amounts for all eligible voluntary
+non-profit diagnostic and treatment centers or for all  eligible  public
+diagnostic  and  treatment centers is less than the amount allocated for
+bad debt and charity care allowances pursuant to  subparagraph  (ii)  or
+(ix)  respectively  of  this paragraph for such diagnostic and treatment
+centers respectively, the nominal  coverage  percentages  of  base  year
+period  losses associated with the delivery of bad debt and charity care
+pursuant to this scale may be increased to not  more  than  one  hundred
 percent for voluntary non-profit diagnostic and treatment centers or for
-public diagnostic and treatment centers in accordance with rules and
+public  diagnostic  and  treatment  centers in accordance with rules and
 regulations adopted by the council and approved by the commissioner.
   (v) The bad debt and charity care allowance for each eligible
 voluntary non-profit diagnostic and treatment center shall be based on

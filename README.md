@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 18 May 2018.*
+*Current through the publication of 25 May 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [25 May 2018](changes/2018/2018-05-25.md): Public Health Law
 - [18 May 2018](changes/2018/2018-05-18.md): Penal Law; Public Health Law; Public Housing Law; Real Property Actions and Proceedings Law; Tax Law
 - [11 May 2018](changes/2018/2018-05-11.md): Environmental Conservation Law; Executive Law; Public Authorities Law; State Finance Law
 - [4 May 2018](changes/2018/2018-05-04.md): Education Law; Election Law; Executive Law; Public Health Law; Social Services Law
@@ -22,14 +23,13 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [20 Apr 2018](changes/2018/2018-04-20.md): Civil Practice Law and Rules; County Law; Criminal Procedure Law; Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General Municipal Law; General Obligations Law; Insurance Law; Labor Law; Mental Hygiene Law; Military Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Social Services Law; Soil and Water Conservation Districts Law; State Finance Law; Tax Law; Transportation Law; Uniform Justice Court Act; Urban Development Corporation Act; Vehicle and Traffic Law
 - [30 Mar 2018](changes/2018/2018-03-30.md): Environmental Conservation Law; Public Health Law
 - [23 Mar 2018](changes/2018/2018-03-23.md): Civil Service Law; Economic Development Law; Executive Law; General Municipal Law; Labor Law
-- [16 Mar 2018](changes/2018/2018-03-16.md): Agriculture and Markets Law; Education Law; Election Law; Executive Law; Military Law; Not-for-Profit Corporation Law; Social Services Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Tax Law](consolidated-laws/tax-law/README.md) | 197 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 191 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 196 |
 | [Education Law](consolidated-laws/education-law/README.md) | 139 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 98 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 97 |
@@ -37,7 +37,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 75 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 74 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 67 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 64 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 63 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 62 |
 | [Highway Law](consolidated-laws/highway-law/README.md) | 57 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 56 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 27 Apr 2018 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,130 | 11 May 2018 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 51 | 17 Nov 2017 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,642 | 18 May 2018 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,642 | 25 May 2018 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 330 | 18 May 2018 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 2 Dec 2016 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 115 | 27 Apr 2018 |

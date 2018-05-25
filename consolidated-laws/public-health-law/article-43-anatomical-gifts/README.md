@@ -34,8 +34,8 @@ Section 4300. Definitions.
         4307. Prohibition of sales and purchases of human organs.
         4308. Prohibition on charging a fee to a donor's estate.
         4309. Application.
-        4310. New York state donate life registry for organ and tissue
-                donations.
+        4310. New York state donate life registry for organ, eye and
+                tissue donations.
 ```
 
 </details>

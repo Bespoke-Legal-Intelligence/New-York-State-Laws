@@ -34,7 +34,7 @@ Section 4209.   Autopsies; right to perform.
         4209-a. Procedure for obtaining identification by persons
                   opposed to the dissection or autopsy of their bodies
                   upon their death.
-        4210.   Cadavers; right to dissect.
+        4210.   Deceased persons; right to dissect.
         4210-a. Unlawful dissection of the body of a human being.
         4210-b. Certain unauthorized autopsies.
         4210-c. Limitations to dissection or autopsy.

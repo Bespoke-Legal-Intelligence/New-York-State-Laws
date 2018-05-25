@@ -117,7 +117,7 @@ medical director of the organization and specialist if any, determines
 that such a standing referral is appropriate, the organization shall
 make such a referral to a specialist. In no event shall a health
 maintenance organization be required to permit an enrollee to elect to
-have a non- participating specialist, except pursuant to the provisions
+have a non-participating specialist, except pursuant to the provisions
 of paragraph (a) of this subdivision. Such referral shall be pursuant to
 a treatment plan approved by the health maintenance organization in
 consultation with the primary care provider, the specialist, and the
