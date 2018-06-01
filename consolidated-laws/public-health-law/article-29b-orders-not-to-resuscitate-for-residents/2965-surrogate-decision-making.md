@@ -43,29 +43,7 @@ domestic partner;
   (vi) a close friend.
   (b) After the surrogate has been identified, the name of such person
 shall be included in the patient's medical chart.
-  * 3. (a) The surrogate shall make a decision regarding cardiopulmonary
-resuscitation on the basis of the adult patient's wishes including a
-consideration of the patient's religious and moral beliefs, or, if the
-patient's wishes are unknown and cannot be ascertained, on the basis of
-the patient's best interests.
-  (b) Notwithstanding any law to the contrary, the surrogate shall have
-the same right as the patient to receive medical information and medical
-records.
-  (c) A surrogate may consent to an order not to resuscitate on behalf
-of an adult patient only if there has been a determination by an
-attending physician with the concurrence of another physician selected
-by a person authorized by the hospital to make such selection, given
-after personal examination of the patient that, to a reasonable degree
-of medical certainty:
-  (i) the patient has a terminal condition; or
-  (ii) the patient is permanently unconscious; or
-  (iii) resuscitation would be medically futile; or
-  (iv) resuscitation would impose an extraordinary burden on the patient
-in light of the patient's medical condition and the expected outcome of
-resuscitation for the patient.
-  Each determination shall be included in the patient's medical chart.
-  * NB Effective until May 28, 2018
-  * 3. (a) The surrogate shall make a decision regarding cardiopulmonary
+  3. (a) The surrogate shall make a decision regarding cardiopulmonary
 resuscitation on the basis of the adult patient's wishes including a
 consideration of the patient's religious and moral beliefs, or, if the
 patient's wishes are unknown and cannot be ascertained, on the basis of
@@ -87,39 +65,13 @@ certainty:
 in light of the patient's medical condition and the expected outcome of
 resuscitation for the patient.
   Each determination shall be included in the patient's medical chart.
-  * NB Effective May 28, 2018
-  * 4. (a) A surrogate shall express a decision consenting to an order
-not to resuscitate either (i) in writing, dated, and signed in the
-presence of one witness eighteen years of age or older who shall sign
-the decision, or (ii) orally, to two persons eighteen years of age or
-older, one of whom is a physician affiliated with the hospital in which
-the patient is being treated. Any such decision shall be recorded in the
-patient's medical chart.
-  (b) The attending physician who is provided with the decision of a
-surrogate shall include the decision in the patient's medical chart and,
-if the surrogate has consented to the issuance of an order not to
-resuscitate, shall either:
-  (i) promptly issue an order not to resuscitate the patient and inform
-the hospital staff responsible for the patient's care of the order; or
-  (ii) promptly make the attending physician's objection to the issuance
-of such an order known to the surrogate and either make all reasonable
-efforts to arrange for the transfer of the patient to another physician,
-if necessary, or promptly refer the matter to the dispute mediation
-system.
-  (c) If the attending physician has actual notice of opposition to a
-surrogate's consent to an order not to resuscitate by any person on the
-surrogate list, the physician shall submit the matter to the dispute
-mediation system and such order shall not be issued or shall be revoked
-in accordance with the provisions of subdivision three of section
-twenty-nine hundred seventy-two of this article.
-  * NB Effective until May 28, 2018
-  * 4. (a) A surrogate shall express a decision consenting to an order
-not to resuscitate either (i) in writing, dated, and signed in the
-presence of one witness eighteen years of age or older who shall sign
-the decision, or (ii) orally, to two persons eighteen years of age or
-older, one of whom is a physician or nurse practitioner affiliated with
-the hospital in which the patient is being treated. Any such decision
-shall be recorded in the patient's medical chart.
+  4. (a) A surrogate shall express a decision consenting to an order not
+to resuscitate either (i) in writing, dated, and signed in the presence
+of one witness eighteen years of age or older who shall sign the
+decision, or (ii) orally, to two persons eighteen years of age or older,
+one of whom is a physician or nurse practitioner affiliated with the
+hospital in which the patient is being treated. Any such decision shall
+be recorded in the patient's medical chart.
   (b) The attending physician or attending nurse practitioner who is
 provided with the decision of a surrogate shall include the decision in
 the patient's medical chart and, if the surrogate has consented to the
@@ -138,5 +90,4 @@ practitioner shall submit the matter to the dispute mediation system and
 such order shall not be issued or shall be revoked in accordance with
 the provisions of subdivision three of section twenty-nine hundred
 seventy-two of this article.
-  * NB Effective May 28, 2018
 ```

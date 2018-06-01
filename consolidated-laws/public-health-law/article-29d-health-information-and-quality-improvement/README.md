@@ -30,6 +30,10 @@ Section 2995.   Structure and definitions.
         2997.   Patient privacy.
         2997-a. Public access.
         2997-b. Pamphlet of department programs.
+        2997-c. Palliative care patient information.
+        2997-d. Hospital, nursing home, home care, special needs
+                  assisted living residences and enhanced assisted
+                  living residences palliative care support.
         2997-e. Provision of contact information relating to long term
                   care.
         2997-f. Provision of information relating to aging services.

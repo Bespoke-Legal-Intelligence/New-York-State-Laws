@@ -11,21 +11,13 @@ accordance with accepted medical standards. Hospitals shall also develop
 policies in accord with accepted medical standards regarding
 documentation of clinical determinations and decisions by surrogates and
 health care providers pursuant to this article.
-  2. * If a decision to withhold or withdraw life-sustaining treatment
-has been made pursuant to this article, and an attending physician
-determines at any time that the decision is no longer appropriate or
-authorized because the patient has regained decision-making capacity or
-because the patient's condition has otherwise improved, the physician
-shall immediately:
-  * NB Effective until May 28, 2018
-  * If a decision to withhold or withdraw life-sustaining treatment has
+  2. If a decision to withhold or withdraw life-sustaining treatment has
 been made pursuant to this article, and an attending physician or
 attending nurse practitioner determines at any time that the decision is
 no longer appropriate or authorized because the patient has regained
 decision-making capacity or because the patient's condition has
 otherwise improved, the physician or nurse practitioner shall
 immediately:
-  * NB Effective May 28, 2018
   (a) include such determination in the patient's medical record;
   (b) cancel any orders or plans of care implementing the decision to
 withhold or withdraw life-sustaining treatment;

@@ -6,24 +6,17 @@
 ```text
   § 2994-aa. Definitions. 1. "Adult" means any person who is eighteen
 years of age or older, or is the parent of a child or has married.
-  * 2. "Attending physician" means the physician who has primary
-responsibility for the treatment and care of the patient. Where more
-than one physician shares such responsibility, any such physician may
-act as the attending physician pursuant to this article.
-  * NB Effective until May 28, 2018
-  * 2. "Attending physician" means the physician who has primary
+  2. "Attending physician" means the physician who has primary
 responsibility for the treatment and care of the patient. Where more
 than one physician or nurse practitioner shares such responsibility, any
 such physician or nurse practitioner may act as the attending physician
 or attending nurse practitioner pursuant to this article.
-  * NB Effective May 28, 2018
-  * 2-a. "Attending nurse practitioner" means the nurse practitioner who
+  2-a. "Attending nurse practitioner" means the nurse practitioner who
 has primary responsibility for the treatment and care of the patient.
 Where more than one physician and/or nurse practitioner shares such
 responsibility, any such physician or nurse practitioner may act as the
 attending physician or attending nurse practitioner pursuant to this
 article.
-  * NB Effective May 28, 2018
   3. "Capacity" means the ability to understand and appreciate the
 nature and consequences of a nonhospital order not to resuscitate,
 including the benefits and disadvantages of such an order, and to reach
@@ -73,11 +66,10 @@ emergency medical services personnel, hospice personnel and hospital
 emergency services personnel not to attempt cardiopulmonary
 resuscitation in the event a patient suffers cardiac or respiratory
 arrest.
-  * 13-a. "Nurse practitioner" means a nurse practitioner certified
+  13-a. "Nurse practitioner" means a nurse practitioner certified
 pursuant to section sixty-nine hundred ten of the education law who is
 practicing in accordance with subdivision three of section sixty-nine
 hundred two of the education law.
-  * NB Effective May 28, 2018
   14. "Patient" means a person who has been or who may be issued a
 nonhospital order not to resuscitate.
   15. "Surrogate" means a person authorized to make a health care

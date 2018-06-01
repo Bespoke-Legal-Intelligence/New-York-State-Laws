@@ -38,21 +38,8 @@ ninety-four-d of this article.
 be made pursuant to this subdivision if a parent or legal guardian of
 the person is available, willing, and competent to decide about
 treatment for the minor.
-  * (b) The following persons may commence a special proceeding in a
-court of competent jurisdiction to seek appointment as the health care
-guardian of a minor patient solely for the purpose of deciding about
-life-sustaining treatment pursuant to this article:
-  (i) the hospital administrator;
-  (ii) an attending physician;
-  (iii) the local commissioner of social services or the local
-commissioner of health, authorized to make medical treatment decisions
-for the minor pursuant to section three hundred eighty-three-b of the
-social services law; or
-  (iv) an individual, eighteen years of age or older, who has assumed
-care of the minor for a substantial and continuous period of time.
-  * NB Effective until May 28, 2018
-  * (b) The following persons may commence a special proceeding in a
-court of competent jurisdiction to seek appointment as the health care
+  (b) The following persons may commence a special proceeding in a court
+of competent jurisdiction to seek appointment as the health care
 guardian of a minor patient solely for the purpose of deciding about
 life-sustaining treatment pursuant to this article:
   (i) the hospital administrator;
@@ -63,7 +50,6 @@ for the minor pursuant to section three hundred eighty-three-b of the
 social services law; or
   (iv) an individual, eighteen years of age or older, who has assumed
 care of the minor for a substantial and continuous period of time.
-  * NB Effective May 28, 2018
   (c) Notice of the proceeding shall be given to the persons identified
 in section seventeen hundred five of the surrogate's court procedure
 act.

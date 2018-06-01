@@ -20,20 +20,19 @@ thousand eleven, and within amounts appropriated for each state fiscal
 year on and after April first, two thousand eleven, shall be available
 to the commissioner from funds made available pursuant to section
 twenty-eight hundred seven-l of this chapter for grants pursuant to this
-section.
-  1. The commissioner shall establish a rural health network development
-grant program for the purpose of assisting community based health care
-providers, consumers and organizations in rural areas to promote more
-effective health care delivery through the coordination, development,
-planning, implementation and operation of rural health networks pursuant
-to this title. Such grants shall support activities and organizational
-costs including, but not limited to, the recruitment of qualified health
-care professionals, the performance of feasibility studies, the
-development of affiliation agreements among rural health providers, the
-development of managed care capacities, the expansion and integration of
-public and preventive health services into community based primary care
-systems, the integration and expansion of prehospital emergency medical
-services and related consulting and legal fees.
+section. 1. The commissioner shall establish a rural health network
+development grant program for the purpose of assisting community based
+health care providers, consumers and organizations in rural areas to
+promote more effective health care delivery through the coordination,
+development, planning, implementation and operation of rural health
+networks pursuant to this title. Such grants shall support activities
+and organizational costs including, but not limited to, the recruitment
+of qualified health care professionals, the performance of feasibility
+studies, the development of affiliation agreements among rural health
+providers, the development of managed care capacities, the expansion and
+integration of public and preventive health services into community
+based primary care systems, the integration and expansion of prehospital
+emergency medical services and related consulting and legal fees.
   2. To be eligible to receive grant funding pursuant to this section,
 the applicant shall submit a network plan to the commissioner for
 approval; the network plan shall identify network participants and

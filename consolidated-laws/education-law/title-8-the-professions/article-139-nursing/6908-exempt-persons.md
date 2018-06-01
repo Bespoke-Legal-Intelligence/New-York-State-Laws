@@ -245,6 +245,5 @@ such regulations, the commissioner shall take into account the
 recommendations of a workgroup of stakeholders convened by the
 commissioner of health in consultation with the commissioner for the
 purpose of providing guidance on the foregoing.
-  * NB Effective May 28, 2018
   * NB Repealed March 31, 2023
 ```

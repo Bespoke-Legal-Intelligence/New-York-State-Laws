@@ -9,23 +9,15 @@ article, shall have the following meanings, unless the context otherwise
 requires:
   1. "Adult" means any person who is eighteen years of age or older or
 has married.
-  * 2. "Attending physician" means a physician, selected by or assigned
-to a patient pursuant to hospital policy, who has primary responsibility
-for the treatment and care of the patient. Where more than one physician
-shares such responsibility, or where a physician is acting on the
-attending physician's behalf, any such physician may act as an attending
-physician pursuant to this article.
-  * NB Effective until May 28, 2018
-  * 2. "Attending physician" means a physician, selected by or assigned
-to a patient pursuant to hospital policy, who has primary responsibility
+  2. "Attending physician" means a physician, selected by or assigned to
+a patient pursuant to hospital policy, who has primary responsibility
 for the treatment and care of the patient. Where more than one physician
 and/or nurse practitioner shares such responsibility, or where a
 physician or nurse practitioner is acting on the attending physician's
 or attending nurse practitioner's behalf, any such physician or nurse
 practitioner may act as an attending physician or attending nurse
 practitioner pursuant to this article.
-  * NB Effective May 28, 2018
-  * 2-a. "Attending nurse practitioner" means a nurse practitioner,
+  2-a. "Attending nurse practitioner" means a nurse practitioner,
 selected by or assigned to a patient pursuant to hospital policy, who
 has primary responsibility for the treatment and care of the patient.
 Where more than one physician and/or nurse practitioner shares such
@@ -33,28 +25,18 @@ responsibility, or where a physician or nurse practitioner is acting on
 the attending physician's or attending nurse practitioner's behalf, any
 such physician or nurse practitioner may act as an attending physician
 or attending nurse practitioner pursuant to this article.
-  * NB Effective May 28, 2018
   3. "Cardiopulmonary resuscitation" means measures, as specified in
 regulations promulgated by the commissioner, to restore cardiac function
 or to support ventilation in the event of a cardiac or respiratory
 arrest. Cardiopulmonary resuscitation shall not include measures to
 improve ventilation and cardiac function in the absence of an arrest.
-  * 4. "Close friend" means any person, eighteen years of age or older,
-who is a close friend of the patient, or a relative of the patient
-(other than a spouse, adult child, parent, brother or sister), who has
-maintained such regular contact with the patient as to be familiar with
-the patient's activities, health, and religious or moral beliefs, and
-who presents a signed statement to that effect to the attending
-physician.
-  * NB Effective until May 28, 2018
-  * 4. "Close friend" means any person, eighteen years of age or older,
+  4. "Close friend" means any person, eighteen years of age or older,
 who is a close friend of the patient, or a relative of the patient
 (other than a spouse, adult child, parent, brother or sister), who has
 maintained such regular contact with the patient as to be familiar with
 the patient's activities, health, and religious or moral beliefs, and
 who presents a signed statement to that effect to the attending
 physician or attending nurse practitioner.
-  * NB Effective May 28, 2018
   5. "Decision-making capacity" means the ability to understand and
 appreciate the nature and consequences of proposed health care,
 including the benefits and risks of and alternatives to proposed health
@@ -146,11 +128,10 @@ twenty of section 1.03 of the mental hygiene law, and does not include
 dementia, such as Alzheimer's disease, or other disorders related to
 dementia.
   22. "Minor" means any person who is not an adult.
-  * 22-a. "Nurse practitioner" means a nurse practitioner certified
+  22-a. "Nurse practitioner" means a nurse practitioner certified
 pursuant to section sixty-nine hundred ten of the education law who is
 practicing in accordance with subdivision three of section sixty-nine
 hundred two of the education law.
-  * NB Effective May 28, 2018
   23. "Order not to resuscitate" means an order not to attempt
 cardiopulmonary resuscitation in the event a patient suffers cardiac or
 respiratory arrest.

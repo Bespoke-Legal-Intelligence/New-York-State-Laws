@@ -10,27 +10,12 @@ equipment. 1. Every person admitted to a hospital shall be presumed to
 consent to the administration of cardiopulmonary resuscitation in the
 event of cardiac or respiratory arrest, unless there is consent to the
 issuance of an order not to resuscitate as provided in this article.
-  * 2. It shall be lawful for the attending physician to issue an order
-not to resuscitate a patient, provided that the order has been issued
-pursuant to the requirements of this article. The order shall be
-included in writing in the patient's chart. An order not to resuscitate
-shall be effective upon issuance.
-  * NB Effective until May 28, 2018
-  * 2. It shall be lawful for the attending physician or attending nurse
+  2. It shall be lawful for the attending physician or attending nurse
 practitioner to issue an order not to resuscitate a patient, provided
 that the order has been issued pursuant to the requirements of this
 article. The order shall be included in writing in the patient's chart.
 An order not to resuscitate shall be effective upon issuance.
-  * NB Effective May 28, 2018
-  * 3. Before obtaining, pursuant to this article, the consent of the
-patient, or of the surrogate of the patient, or parent or legal guardian
-of the minor patient, to an order not to resuscitate, the attending
-physician shall provide to the person giving consent information about
-the patient's diagnosis and prognosis, the reasonably foreseeable risks
-and benefits of cardiopulmonary resuscitation for the patient, and the
-consequences of an order not to resuscitate.
-  * NB Effective until May 28, 2018
-  * 3. Before obtaining, pursuant to this article, the consent of the
+  3. Before obtaining, pursuant to this article, the consent of the
 patient, or of the surrogate of the patient, or parent or legal guardian
 of the minor patient, to an order not to resuscitate, the attending
 physician or attending nurse practitioner shall provide to the person
@@ -38,7 +23,6 @@ giving consent information about the patient's diagnosis and prognosis,
 the reasonably foreseeable risks and benefits of cardiopulmonary
 resuscitation for the patient, and the consequences of an order not to
 resuscitate.
-  * NB Effective May 28, 2018
   4. Nothing in this article shall require a hospital to expand its
 existing equipment and facilities to provide cardiopulmonary
 resuscitation.
