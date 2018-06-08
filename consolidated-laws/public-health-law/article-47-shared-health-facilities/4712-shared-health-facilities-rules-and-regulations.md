@@ -12,7 +12,7 @@ and to otherwise effectuate the provisions of this article.
 subdivision and after such hearing the department may suspend or revoke
 the registration of a shared health facility for failure to comply with
 any provision of this article applicable to such facility, or for
-failure to comply with the rules or regualtions of the department
+failure to comply with the rules or regulations of the department
 pertaining thereto, or for fraudulent practices on the part of any of
 the providers or purveyors therein.
   (b) No registration shall be revoked, suspended, limited or annulled
@@ -20,7 +20,7 @@ without a hearing. However, a registration may be temporarily suspended
 or limited without a hearing for a period not in excess of thirty days
 upon written notice to the shared health facility following a finding by
 the department that the public health or safety is in imminent danger.
-  (c) The commissioner shall fix a time and a place for the hearing.  A
+  (c) The commissioner shall fix a time and a place for the hearing. A
 copy of the charges, together with the notice of the time and place of
 the hearing shall be served in person or mailed by certified mail to
 such facility at least twenty-one days before the date fixed for the

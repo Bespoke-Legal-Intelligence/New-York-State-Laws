@@ -39,18 +39,20 @@ members, as appropriate and consistent with patient confidentiality.
 department's website. The commissioner shall, in collaboration with the
 commissioner of mental health, update and review the information on
 maternal depression, as necessary.
-  3. Maternal depression treatment. The commissioner, in collaboration
+  * 3. The commissioner shall make any regulations necessary to
+implement this section.
+  * NB Effective until June 30, 2018
+  * 3. Maternal depression treatment. The commissioner, in consultation
 with the commissioner of mental health, shall:
-  (a) compile a list of providers who treat or provide support for
-maternal depression including mental health professionals, other
-licensed professionals, peer support, not-for-profit corporations and
-other community resources. Such list shall be made available to the
-public on the department's website and be searchable by zip code;
-  (b) update the list of providers as necessary; and
-  (c) within existing appropriations, ensure adequate investment in
-treatment resources for maternal depression including a statewide
-hotline, peer support, adequate referral networks and telehealth or
-telemedicine services.
-  4. The commissioner shall make any regulations necessary to implement
-this section.
+  (a) inform providers of the need to raise awareness about maternal
+depression; and
+  (b) provide information on the department's and office of mental
+health's websites regarding how to locate available providers who treat
+or provide support for maternal depression including, but not limited
+to, mental health professionals, other licensed professionals, peer
+support, not-for-profit corporations and other community resources.
+  * NB Effective June 30, 2018
+  * 4. The commissioner shall make any regulations necessary to
+implement this section.
+  * NB Effective June 30, 2018
 ```

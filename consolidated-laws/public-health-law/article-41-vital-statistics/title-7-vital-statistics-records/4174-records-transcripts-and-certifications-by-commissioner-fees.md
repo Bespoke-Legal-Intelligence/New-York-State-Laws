@@ -5,7 +5,7 @@
 
 ```text
   § 4174. Records; transcripts and certifications by commissioner; fees.
-  1. The commissioner or any person authorized by him shall:
+1. The commissioner or any person authorized by him shall:
   (a) upon request, issue to any applicant either a certified copy or a
 certified transcript of the record of any death registered under the
 provisions of this chapter (1) when a documented medical need has been

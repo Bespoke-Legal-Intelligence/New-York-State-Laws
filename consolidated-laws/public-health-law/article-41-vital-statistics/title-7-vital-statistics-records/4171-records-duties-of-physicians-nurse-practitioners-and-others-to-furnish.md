@@ -5,13 +5,13 @@
 
 ```text
   § 4171. Records; duties of physicians, nurse practitioners, and others
-to furnish information.
-  1. Physicians, nurse practitioners, nurse-midwives, funeral directors,
-undertakers and informants, and all other persons having knowledge of
-the facts, are hereby required to supply, upon a form provided by the
-commissioner or upon the original certificate, such information as they
-may possess regarding any birth or death upon demand of the
-commissioner, in person, by mail, or through the registrar.
+to furnish information. 1. Physicians, nurse practitioners,
+nurse-midwives, funeral directors, undertakers and informants, and all
+other persons having knowledge of the facts, are hereby required to
+supply, upon a form provided by the commissioner or upon the original
+certificate, such information as they may possess regarding any birth or
+death upon demand of the commissioner, in person, by mail, or through
+the registrar.
   2. No forms shall be used other than those supplied by the
 commissioner.
   3. All certificates, either of birth or death, shall be written

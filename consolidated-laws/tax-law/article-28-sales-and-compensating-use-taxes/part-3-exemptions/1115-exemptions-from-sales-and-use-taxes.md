@@ -628,25 +628,8 @@ shall be exempt from the tax imposed under subdivision (b) of section
 eleven hundred five. For the purposes of this subdivision, each payment
 for overtime or additional usage beyond the initial usage period shall
 be deemed to be a separate charge.
-  * (f) Services rendered by a veterinarian licensed and registered as
+  (f) (1) Services rendered by a veterinarian licensed and registered as
 required by the education law which constitute the practice of
-veterinary medicine as defined in said law, including hospitalization
-for which no separate boarding charge is made, shall not be subject to
-tax under paragraph (3) of subdivision (c) of section eleven hundred
-five, but the exemption allowed by this subdivision shall not apply to
-other services provided by a veterinarian to pets and other animals,
-including, but not limited to, boarding, grooming and clipping. Articles
-of tangible personal property designed for use in some manner relating
-to domestic animals or poultry, when sold by such a veterinarian, shall
-not be subject to tax under subdivision (a) of section eleven hundred
-five or under section eleven hundred ten. However, the sale of any such
-articles of tangible personal property to a veterinarian shall not be
-deemed a sale for resale within the meaning of pargraph (4) of
-subdivision (b) of section eleven hundred one and shall not be exempt
-from retail sales tax.
-  * NB Effective until June 1, 2018
-  * (f) (1) Services rendered by a veterinarian licensed and registered
-as required by the education law which constitute the practice of
 veterinary medicine as defined in said law, including hospitalization
 for which no separate boarding charge is made, shall not be subject to
 tax under paragraph (3) of subdivision (c) of section eleven hundred
@@ -667,7 +650,6 @@ subdivision to livestock or poultry used in the production for sale of
 tangible personal property by farming, or sold to a person qualifying
 for the exemption provided for in paragraph six of subdivision (a) of
 this section for use by such person on such livestock or poultry.
-  * NB Effective June 1, 2018
   (g) Services otherwise taxable under paragraph (3) of subdivision (c)
 of section eleven hundred five shall be exempt from tax (1) if performed
 upon prosthetic aids, hearing aids, eyeglasses, artificial devices or

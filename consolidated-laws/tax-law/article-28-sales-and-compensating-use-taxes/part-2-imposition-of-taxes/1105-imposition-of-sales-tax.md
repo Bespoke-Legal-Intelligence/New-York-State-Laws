@@ -221,32 +221,7 @@ service is provided in this state.
 employee for performing as an employee the services described in
 paragraphs (1) through (9) of this subdivision (c) are not receipts
 subject to the taxes imposed under such subdivision.
-  (d) * (i) The receipts from every sale of beer, wine or other
-alcoholic beverages or any other drink of any nature, or from every sale
-of food and drink of any nature or of food alone, when sold in or by
-restaurants, taverns or other establishments in this state, or by
-caterers, including in the amount of such receipts any cover, minimum,
-entertainment or other charge made to patrons or customers (except those
-receipts taxed pursuant to subdivision (f) of this section):
-  (1) in all instances where the sale is for consumption on the premises
-where sold;
-  (2) in those instances where the vendor or any person whose services
-are arranged for by the vendor, after the delivery of the food or drink
-by or on behalf of the vendor for consumption off the premises of the
-vendor, serves or assists in serving, cooks, heats or provides other
-services with respect to the food or drink; and
-  (3) in those instances where the sale is made through a vending
-machine that is activated by use of coin, currency, credit card or debit
-card (except the sale of drinks in a heated state made through such a
-vending machine) or is for consumption off the premises of the vendor,
-except where food (other than sandwiches) or drink or both are (A) sold
-in an unheated state and, (B) are of a type commonly sold for
-consumption off the premises and in the same form and condition,
-quantities and packaging, in establishments which are food stores other
-than those principally engaged in selling foods prepared and ready to be
-eaten.
-  * NB Effective until June 1, 2018
-  * (i) The receipts from every sale, other than sales for resale, of
+  (d) (i) The receipts from every sale, other than sales for resale, of
 beer, wine or other alcoholic beverages or any other drink of any
 nature, or from every sale, other than sales for resale, of food and
 drink of any nature or of food alone, when sold in or by restaurants,
@@ -271,7 +246,6 @@ consumption off the premises and in the same form and condition,
 quantities and packaging, in establishments which are food stores other
 than those principally engaged in selling foods prepared and ready to be
 eaten.
-  * NB Effective June 1, 2018
   (ii) The tax imposed by this subdivision shall not apply to:
   (A) food or drink which is sold to an air line for consumption while
 in flight;
