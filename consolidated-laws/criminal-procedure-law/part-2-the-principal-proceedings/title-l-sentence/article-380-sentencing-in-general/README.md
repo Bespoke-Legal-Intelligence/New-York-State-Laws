@@ -22,7 +22,7 @@
 - [§ 380.95 Reporting convictions of certain school employees](380.95-reporting-convictions-of-certain-school.md)
 - [§ 380.95\*2 Reporting convictions of certain school employees](380.95-2-reporting-convictions-of-certain-school.md)
 - [§ 380.96 Obligation of sentencing court pursuant to article four hundred of the penal law](380.96-obligation-of-sentencing-court-pursuant.md)
-- [§ 380.97 Notification to division of criminal justice services of determinations in certain misdemeanor cases](380.97-notification-to-division-of-criminal-justice.md)
+- [§ 380.97 Notification to division of criminal justice services of certain misdemeanor convictions](380.97-notification-to-division-of-criminal-justice.md)
 
 <details>
 <summary>Official heading of Article 380, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
