@@ -17,7 +17,7 @@
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                            * ARTICLE XXVIII
+                             ARTICLE XXVIII
                         NEW YORK STATE FIRST HOME
                              SAVINGS PROGRAM
 Section 1250. Program established.
@@ -27,7 +27,6 @@ Section 1250. Program established.
         1254. Powers of the comptroller.
         1255. Program requirements; first home savings account.
         1256. Program limitations; first home savings account.
-  * NB Effective June 16, 2018
 ```
 
 </details>

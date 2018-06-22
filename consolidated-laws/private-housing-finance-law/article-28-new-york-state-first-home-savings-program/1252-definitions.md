@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
 
 ```text
-  * § 1252. Definitions. As used in this article, the following terms
+  § 1252. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Account" or "first home savings account" shall mean an individual
 savings account established in accordance with the provisions of this
@@ -94,5 +94,4 @@ comptroller or a financial organization and the account owner.
 the comptroller to act as a depository and manager of the program.
   16. "Commissioner" shall mean the commissioner of taxation and
 finance.
-  * NB Effective June 16, 2018
 ```

@@ -301,7 +301,7 @@ seventy-nine of the internal revenue code, and (2) the grantor's
 transfer of assets to the trust is treated as an incomplete gift under
 section twenty-five hundred eleven of the internal revenue code, and the
 regulations thereunder.
-  * (42) (A) Excess distributions received during the taxable year by a
+  (42) (A) Excess distributions received during the taxable year by a
 distributee of a first home savings account established under the New
 York state first home savings program provided for under article
 twenty-eight of the private housing finance law, to the extent such
@@ -321,7 +321,6 @@ section twelve hundred fifty-five of such law.
 contributions to the extent the amount of any such excess distribution,
 when added to all previous excess distributions from the account,
 exceeds the aggregate of all nondeductible contributions to the account.
-  * NB Effective June 16, 2018
   (c) Modifications reducing federal adjusted gross income. There shall
 be subtracted from federal adjusted gross income:
   (1) Interest income on obligations of the United States and its
@@ -767,12 +766,10 @@ couples who file joint tax returns, shall not exceed ten thousand
 dollars; provided, further that such exclusion shall be available only
 to the account owner and not to any other person.
   * NB There are 4 par (42)'s
-  * NB Effective June 16, 2018
-  * (43) Distributions from a first home savings account established
-under the New York state first home savings program provided for under
-article twenty-eight of the private housing finance law, to the extent
+  (43) Distributions from a first home savings account established under
+the New York state first home savings program provided for under article
+twenty-eight of the private housing finance law, to the extent
 includible in gross income for federal income tax purposes.
-  * NB Effective June 16, 2018
   (d) Modification for New York fiduciary adjustment. There shall be
 added to or subtracted from federal adjusted gross income (as the case
 may be) the taxpayer's share, as beneficiary of an estate or trust, of

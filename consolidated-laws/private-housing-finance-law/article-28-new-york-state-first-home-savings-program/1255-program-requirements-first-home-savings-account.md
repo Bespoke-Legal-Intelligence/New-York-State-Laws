@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
 
 ```text
-  * § 1255. Program requirements; first home savings account. 1. First
+  § 1255. Program requirements; first home savings account. 1. First
 home savings accounts established pursuant to the provisions of this
 article shall be governed by the provisions of this section.
   2. A first home savings account may be opened by any person who
@@ -157,5 +157,4 @@ account owner for state personal income taxation purposes, so long as
 the monies are applied for the purchase or construction of a qualified
 first home purchase by the account owner or designated beneficiary of
 the account.
-  * NB Effective June 16, 2018
 ```

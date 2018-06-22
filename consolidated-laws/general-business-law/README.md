@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,227 |
-| Last changed | 1 Jun 2018 |
+| Last changed | 22 Jun 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -33,6 +33,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 
 ## Recent changes
 
+- [22 Jun 2018](../../changes/2018/2018-06-22.md): 6 amended
 - [1 Jun 2018](../../changes/2018/2018-06-01.md): 3 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 6 amended, 4 added
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 19 added, 2 removed
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 1 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 2 amended
 - [18 Aug 2017](../../changes/2017/2017-08-18.md): 1 amended
-- [17 Mar 2017](../../changes/2017/2017-03-17.md): 6 amended
 
 ## Contents
 

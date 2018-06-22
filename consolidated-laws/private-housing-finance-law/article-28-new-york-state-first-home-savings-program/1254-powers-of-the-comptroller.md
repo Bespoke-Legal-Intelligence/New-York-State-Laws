@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
 
 ```text
-  * § 1254. Powers of the comptroller. 1. The comptroller may implement
+  § 1254. Powers of the comptroller. 1. The comptroller may implement
 the program through use of financial organizations as account
 depositories and managers. Under the program, an account owner may
 establish accounts directly with an account depository.
@@ -103,5 +103,4 @@ program manager or depository and into investment instruments as similar
 to the original instruments as possible.
   9. The comptroller may enter into such contracts as it deems necessary
 and proper for the implementation of the program.
-  * NB Effective June 16, 2018
 ```

@@ -4,7 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
 
 ```text
-  * § 1253. Functions of the comptroller. 1. The comptroller shall
+  § 1253. Functions of the comptroller. 1. The comptroller shall
 implement the program under the terms and conditions established by this
 article and a memorandum of understanding with the commissioner relating
 to any terms or conditions not otherwise expressly provided for in this
@@ -30,5 +30,4 @@ dispersed;
 administrative costs; and
   (i) do all things necessary and proper to carry out the purposes of
 this article.
-  * NB Effective June 16, 2018
 ```

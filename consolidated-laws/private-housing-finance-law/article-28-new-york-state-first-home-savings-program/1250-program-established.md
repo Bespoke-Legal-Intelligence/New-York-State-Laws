@@ -4,8 +4,7 @@
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
 
 ```text
-  * § 1250. Program established. There is hereby established a first
-home savings program and such program shall be known and may be cited as
-the "New York state first home savings program".
-  * NB Effective June 16, 2018
+  § 1250. Program established. There is hereby established a first home
+savings program and such program shall be known and may be cited as the
+"New York state first home savings program".
 ```
