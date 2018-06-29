@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 22 Jun 2018.*
+*Current through the publication of 29 Jun 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [29 Jun 2018](changes/2018/2018-06-29.md): Civil Service Law; Highway Law; Transportation Law
 - [22 Jun 2018](changes/2018/2018-06-22.md): General Business Law; General Municipal Law; Insurance Law; Private Housing Finance Law; Social Services Law; Tax Law; Vehicle and Traffic Law
 - [15 Jun 2018](changes/2018/2018-06-15.md): Criminal Procedure Law; Family Court Act; Penal Law
 - [8 Jun 2018](changes/2018/2018-06-08.md): Alcoholic Beverage Control Law; Civil Service Law; Education Law; General Municipal Law; Local Finance Law; Public Authorities Law; Public Health Law; Social Services Law; Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [25 May 2018](changes/2018/2018-05-25.md): Public Health Law
 - [18 May 2018](changes/2018/2018-05-18.md): Penal Law; Public Health Law; Public Housing Law; Real Property Actions and Proceedings Law; Tax Law
 - [11 May 2018](changes/2018/2018-05-11.md): Environmental Conservation Law; Executive Law; Public Authorities Law; State Finance Law
-- [4 May 2018](changes/2018/2018-05-04.md): Education Law; Election Law; Executive Law; Public Health Law; Social Services Law
 
 ## Most changed in the past 12 months
 
@@ -35,12 +35,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 85 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 80 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 74 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 73 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 68 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 67 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 67 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 56 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | 56 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 55 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | 55 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 55 |
 | [County Law](consolidated-laws/county-law/README.md) | 55 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 54 |
 
@@ -59,7 +59,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 27 Apr 2018 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 782 | 20 Apr 2018 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 108 | 22 Sep 2017 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 8 Jun 2018 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 29 Jun 2018 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 325 | 29 Dec 2017 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 445 | 1 Jun 2018 |
@@ -83,7 +83,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,077 | 22 Jun 2018 |
 | [General Obligations Law](consolidated-laws/general-obligations-law/README.md) | GOB | 203 | 20 Apr 2018 |
-| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 583 | 27 Apr 2018 |
+| [Highway Law](consolidated-laws/highway-law/README.md) | HAY | 584 | 29 Jun 2018 |
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 4 Aug 2017 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,011 | 22 Jun 2018 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 523 | 27 Apr 2018 |
@@ -133,7 +133,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,174 | 22 Jun 2018 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 358 | 12 Jan 2018 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 72 | no change since 22 Sep 2014 (start of history) |
-| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 27 Apr 2018 |
+| [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 323 | 29 Jun 2018 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 16 Sep 2016 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 915 | 22 Jun 2018 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 12 Jan 2018 |
