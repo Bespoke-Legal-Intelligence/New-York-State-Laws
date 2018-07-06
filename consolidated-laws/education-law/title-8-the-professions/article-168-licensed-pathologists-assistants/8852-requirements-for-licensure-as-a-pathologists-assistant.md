@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 168 — Licensed Pathologists' Assistants](README.md)
 
 ```text
-  * § 8852. Requirements for licensure as a pathologists' assistant. To
+  § 8852. Requirements for licensure as a pathologists' assistant. To
 qualify for licensure as a "licensed pathologists' assistant", an
 applicant shall fulfill the following requirements:
   1. Application: file an application with the department;
@@ -21,5 +21,4 @@ age;
 department; and
   6. Fee: pay a fee determined by the department for an initial license
 and for each triennial registration period.
-  * NB Effective November 28, 2018
 ```

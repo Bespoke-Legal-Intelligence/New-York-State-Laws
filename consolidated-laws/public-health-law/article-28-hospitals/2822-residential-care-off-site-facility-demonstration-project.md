@@ -36,5 +36,5 @@ residential health care facility. During the demonstration period, an
 eligible provider approved for the purposes of this section shall not
 have their medical assistance rates adjusted for any additional costs
 related to such demonstration project.
-  * NB Repealed June 30, 2018
+  * NB Repealed June 30, 2021
 ```

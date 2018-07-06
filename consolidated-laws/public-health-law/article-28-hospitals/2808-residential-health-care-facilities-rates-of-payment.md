@@ -1829,5 +1829,5 @@ proposed eligibility criteria, funding sources, the manner in which
 savings may be shared between the state and facilities and any other
 information requested by such committees about such program prior to the
 transmittal of the report.
-  * NB Repealed March 31, 2018
+  * NB Repealed July 1, 2021
 ```

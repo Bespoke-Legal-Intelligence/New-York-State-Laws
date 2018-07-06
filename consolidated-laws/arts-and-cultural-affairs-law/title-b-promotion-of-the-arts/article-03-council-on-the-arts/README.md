@@ -12,7 +12,6 @@
 - [§ 3.09 Assistance of other agencies](3.09-assistance-of-other-agencies.md)
 - [§ 3.11 Grants by council; consideration to certain applicants](3.11-grants-by-council-consideration-to-certain-applicants.md)
 - [§ 3.13 Participation in programs to promote progress and scholarship in the humanities and the arts](3.13-participation-in-programs-to-promote-progress-and-scholarship.md)
-- [§ 3.15 Shared use space grant](3.15-shared-use-space-grant.md) *(repealed)*
 - [§ 3.19 Prohibition](3.19-prohibition.md)
 
 <details>
