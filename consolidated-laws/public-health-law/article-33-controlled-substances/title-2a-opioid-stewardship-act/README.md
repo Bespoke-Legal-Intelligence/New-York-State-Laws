@@ -14,7 +14,6 @@
                                * TITLE 2-A
                          OPIOID STEWARDSHIP ACT
 Section 3323. Opioid stewardship fund.
-  * NB Effective July 11, 2018
   * NB Repealed June 30, 2024
 ```
 

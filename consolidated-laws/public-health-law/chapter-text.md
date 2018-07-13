@@ -50,6 +50,7 @@ Article
                            278--280-c).
                   III.   Prescription forms, electronic prescribing and
                            language assistance (§ 281).
+   2-B.    Drug take back (§§ 290-294).
    3.      Local health organization.
            Title    I.   Local boards of health; general provisions
                            (§§300-312).

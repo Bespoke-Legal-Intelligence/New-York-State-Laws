@@ -84,7 +84,6 @@
 - [§ 2807-E Uniform bills](2807e-uniform-bills.md)
 - [§ 2807-F Health maintenance organization payment factor](2807f-health-maintenance-organization-payment-factor.md)
 - [§ 2807-G Health workforce retraining program](2807g-health-workforce-retraining-program.md)
-- [§ 2807-H Health occupation development and workplace demonstration programs](2807h-health-occupation-development-and-workplace-demonstration-programs.md)
 - [§ 2807-I Service and quality improvement grants](2807i-service-and-quality-improvement-grants.md)
 - [§ 2807-J Patient services payments](2807j-patient-services-payments.md)
 - [§ 2807-K General hospital indigent care pool](2807k-general-hospital-indigent-care-pool.md)

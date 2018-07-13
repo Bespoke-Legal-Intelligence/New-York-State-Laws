@@ -10,7 +10,7 @@
 - [§ 1352 Food places; sanitary requirements](1352-food-places-sanitary-requirements.md)
 - [§ 1352-A Food places; toilet facilities](1352a-food-places-toilet-facilities.md)
 - [§ 1352-B Public eating establishments; first aid instructions concerning food lodged in throat; liability](1352b-public-eating-establishments-first-aid-instructions-concerning-food-lodged.md)
-- [§ 1352-C Ice cream or other frozen desserts made with wine](1352c-ice-cream-or-other-frozen-desserts-made-with-wine.md)
+- [§ 1352-C Ice cream or other frozen desserts made with wine, beer or cider](1352c-ice-cream-or-other-frozen-desserts-made-with-wine-beer-or-cider.md)
 - [§ 1352-D Public food service establishment inspection results](1352d-public-food-service-establishment-inspection-results.md)
 - [§ 1352-E Companion dogs at food service establishments](1352e-companion-dogs-at-food-service-establishments.md)
 - [§ 1353 Food places; violations; penalties](1353-food-places-violations-penalties.md)

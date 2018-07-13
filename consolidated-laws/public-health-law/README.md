@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,642 |
-| Last changed | 6 Jul 2018 |
+| Sections | 1,646 |
+| Last changed | 13 Jul 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (332 lines)](chapter-text.md)
+[Full chapter text (333 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [13 Jul 2018](../../changes/2018/2018-07-13.md): 9 amended, 5 added, 1 removed
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 7 amended
 - [8 Jun 2018](../../changes/2018/2018-06-08.md): 4 amended
 - [1 Jun 2018](../../changes/2018/2018-06-01.md): 32 amended
@@ -42,13 +43,13 @@ Assembly, do enact as follows:
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 13 amended, 2 added, 3 removed
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 26 amended, 9 added
 - [30 Mar 2018](../../changes/2018/2018-03-30.md): 1 amended
-- [23 Feb 2018](../../changes/2018/2018-02-23.md): 1 amended
 
 ## Contents
 
 - [Article 1 — Short Title and Definitions: General Provisions](article-01-short-title-and-definitions-general-provisions/)
 - [Article 2 — The Department of Health](article-02-the-department-of-health/)
 - [Article 2-A — Prescription Drugs](article-02a-prescription-drugs/)
+- [Article 2-B — Drug Take Back](article-02b-drug-take-back/)
 - [Article 3 — Local Health Organization](article-03-local-health-organization/)
 - [Article 4 — Property and Hospitals In the Department of Health](article-04-property-and-hospitals-in-the-department/)
 - [Article 4-A — Regulation of Body Piercing and Tattooing](article-04a-regulation-of-body-piercing-and-tattooing/)

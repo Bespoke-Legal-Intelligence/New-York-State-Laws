@@ -11,7 +11,7 @@
 - [§ 802-A Instruction relating to general elections](802a-instruction-relating-to-general-elections.md)
 - [§ 803 Instruction in physical education and kindred subjects](803-instruction-in-physical-education-and-kindred.md)
 - [§ 803-A Courses of study in prevention of child abduction](803a-courses-of-study-in-prevention-of-child.md)
-- [§ 804 Health education regarding alcohol, drugs, tobacco abuse and the prevention and detection of certain cancers](804-health-education-regarding-alcohol-drugs-tobacco.md)
+- [§ 804 Health education regarding mental health, alcohol, drugs, tobacco abuse and the prevention and detection of certain cancers](804-health-education-regarding-mental-health-alcohol.md)
 - [§ 804-A Comprehensive school health education demonstration program](804a-comprehensive-school-health-education.md)
 - [§ 804-B Education regarding child development](804b-education-regarding-child-development.md)
 - [§ 804-C Cardiopulmonary resuscitation instruction](804c-cardiopulmonary-resuscitation-instruction.md)

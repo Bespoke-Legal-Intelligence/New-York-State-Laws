@@ -84,12 +84,10 @@ ethyl-4-piperidinyl} -N-phenylpropanamide).
 -propanamide.
   (54) Tilidine.
   (55) Trimeperidine.
-  * (56) 3,4-dichloro-N-{(1-dimethylamino) cyclohexylmethyl}benzamide.
+  (56) 3,4-dichloro-N-{(1-dimethylamino) cyclohexylmethyl}benzamide.
 Some trade or other names: AH-7921.
-  * NB Effective July 11, 2018
-  * (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide (Acetyl
+  (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide (Acetyl
 Fentanyl).
-  * NB Effective July 11, 2018
   (c) Opium derivatives. Unless specifically excepted or unless listed
 in another schedule, any of the following opium derivatives, its salts,
 isomers, and salts of isomers whenever the existence of such salts,
@@ -206,13 +204,10 @@ also known as 25I-NBOMe; 2C-I-NBOMe; 25I; or Cimbi-5.
 also known as 25 CNBOMe; 2C-C-NBOMe; 25C; or Cimbi-82.
   (35) 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
 also known as, 25 BNBOMe; 2C-B-NBOMe; Cimbi-36.
-  * (36) 5-methoxy-N,N-dimethyltryptamine.
-  * NB Effective July 11, 2018
-  * (37) Alpha-methyltryptamine. Some trade or other names: AMT.
-  * NB Effective July 11, 2018
-  * (38) 5-methoxy-N,N-diisopropyltryptamine. Some trade or other names:
+  (36) 5-methoxy-N,N-dimethyltryptamine.
+  (37) Alpha-methyltryptamine. Some trade or other names: AMT.
+  (38) 5-methoxy-N,N-diisopropyltryptamine. Some trade or other names:
 5-MeO-DIPT.
-  * NB Effective July 11, 2018
   (e) Depressants. Unless specifically excepted or unless listed in
 another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a depressant
@@ -281,7 +276,7 @@ methylone).
   (22) 2-(2,5-Dimethoxyphenyl)ethanamine (2C-H).
   (23) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine (2C-N).
   (24) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine (2C-P).
-  * (g) Synthetic cannabinoids. Unless specifically excepted or unless
+  (g) Synthetic cannabinoids. Unless specifically excepted or unless
 listed in another schedule, any material, compound, mixture, or
 preparation, which contains any quantity of the following synthetic
 cannabinoid substances, or which contains any of its salts, isomers, and
@@ -309,9 +304,8 @@ indazole-3-carboxamide. Some trade or other names: AB-CHMINACA.
 carboxamide. Some trade or other names: AB-PINACA.
   (10) {1-(5-fluoropentyl)-1H-indazol-3-yl}(naphthalen-1-y1)methanone.
 Some trade or other names: THJ-2201.
-  * NB Effective July 11, 2018
-  * (h) (1) Cannabimimetic agents. Unless specifically exempted or
-unless listed in another schedule, any material, compound, mixture, or
+  (h) (1) Cannabimimetic agents. Unless specifically exempted or unless
+listed in another schedule, any material, compound, mixture, or
 preparation that is not approved by the federal food and drug
 administration (FDA) which contains any quantity of cannabimimetic
 agents, or which contains their salts, isomers, and salts of isomers
@@ -359,7 +353,6 @@ ring to any extent.
   (xiv) 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (SR-18 and
 RCS-8); and
   (xv) 1-pentyl-3-(2-chlorophenylacetyl)indole (JWH-203).
-  * NB Effective July 11, 2018
   Schedule II. (a) Schedule II shall consist of the drugs and other
 substances, by whatever official name, common or usual name, chemical
 name, or brand name designated, listed in this section.

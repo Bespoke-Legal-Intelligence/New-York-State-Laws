@@ -4,7 +4,7 @@
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 3 — Certain Prohibited Contracts and Provisions of Contracts](README.md)
 
 ```text
-  * § 5-336. Nondisclosure agreements. Notwithstanding any other law to
+  § 5-336. Nondisclosure agreements. Notwithstanding any other law to
 the contrary, no employer, its officers or employees shall have the
 authority to include or agree to include in any settlement, agreement or
 other resolution of any claim, the factual foundation for which involves
@@ -19,5 +19,4 @@ agreement signed by all parties. For a period of at least seven days
 following the execution of such agreement, the complainant may revoke
 the agreement, and the agreement shall not become effective or be
 enforceable until such revocation period has expired.
-  * NB Effective July 11, 2018
 ```

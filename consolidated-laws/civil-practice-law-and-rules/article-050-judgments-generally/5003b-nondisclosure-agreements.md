@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 50 — Judgments Generally](README.md)
 
 ```text
-  * § 5003-b. Nondisclosure agreements. Notwithstanding any other law to
+  § 5003-b. Nondisclosure agreements. Notwithstanding any other law to
 the contrary, for any claim or cause of action, whether arising under
 common law, equity, or any provision of law, the factual foundation for
 which involves sexual harassment, in resolving, by agreed judgment,
@@ -22,5 +22,4 @@ For a period of at least seven days following the execution of such
 agreement, the plaintiff may revoke the agreement, and the agreement
 shall not become effective or be enforceable until such revocation
 period has expired.
-  * NB Effective July 11, 2018
 ```

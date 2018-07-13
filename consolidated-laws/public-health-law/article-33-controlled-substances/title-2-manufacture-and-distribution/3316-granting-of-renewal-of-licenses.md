@@ -15,7 +15,6 @@ substances for which the license is sought.
 the reports or to pay the ratable share required by title two-A of this
 article on or before the required date. Prior evidence of non-compliance
 shall constitute substantial evidence of such.
-  * NB Effective July 11, 2018
   * NB Repealed June 30, 2024
   2. For purposes of this section, proof that a licensee, during the
 period of his license, has failed to maintain effective control against

@@ -8,7 +8,7 @@
 | Senate code | STF |
 | Type | Consolidated law, chapter 56 |
 | Sections | 522 |
-| Last changed | 11 May 2018 |
+| Last changed | 13 Jul 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Finance |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [13 Jul 2018](../../changes/2018/2018-07-13.md): 1 amended
 - [11 May 2018](../../changes/2018/2018-05-11.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 19 amended, 3 added
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 7 amended, 9 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 1 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 1 amended, 2 added, 1 removed
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 2 amended
-- [11 Aug 2017](../../changes/2017/2017-08-11.md): 1 amended
 
 ## Contents
 
