@@ -40,7 +40,19 @@ of section three thousand three hundred six of this article; and (b)
 such ingredients are included therein in such combinations, quantity,
 proportion or concentration as to substantially reduce the potential for
 abuse.
-  5. The commissioner shall establish minimum standards for the storage,
+  5. The commissioner may by regulation or emergency regulation,
+reclassify any compound, mixture or preparation containing any substance
+listed in Schedule I of section three thousand three hundred six of this
+title as a Schedule II, III, IV or V substance, or exempt it from this
+article, if that same compound, mixture or preparation is redesignated
+or rescheduled other than under Schedule I under the federal Controlled
+Substances Act, or deleted as a controlled substance under the federal
+Controlled Substances Act. If the commissioner acts under this
+subdivision and does not exempt the compound, mixture or preparation
+from this article, he or she may only reclassify it to a newly created
+subdivision in the same numbered schedule or a higher numbered schedule
+than to which it is redesignated or rescheduled under the federal act.
+  6. The commissioner shall establish minimum standards for the storage,
 reporting, ordering and record keeping of controlled substances
 specified in subdivision (b-1) of schedule II of section thirty-three
 hundred six of this article by manufacturers and distributors as if such

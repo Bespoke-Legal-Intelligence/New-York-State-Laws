@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 459", "kind": "section", "law_id": "COM", "location_id": "459", "path": "ARTICLE 23 › SECTION 459", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/459.md", "title": "Powers and duties"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 459", "kind": "section", "law_id": "COM", "location_id": "459", "path": "ARTICLE 23 › SECTION 459", "repealed": true, "repealed_date": "2018-08-03", "source": "nys-laws:COM/459.md", "title": "Powers and duties"} -->
 # Economic Development Law § 459 — Powers and duties
 
 [Economic Development Law](../README.md) › [Article 23 — New York Seafood Marketing Task Force](README.md)
+
+**Repealed** (3 Aug 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 459. Powers and duties. The task force shall support and work

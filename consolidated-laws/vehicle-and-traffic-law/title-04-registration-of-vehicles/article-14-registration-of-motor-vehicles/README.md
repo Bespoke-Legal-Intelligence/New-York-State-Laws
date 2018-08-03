@@ -26,6 +26,8 @@
 - [§ 404-DD Distinctive plates for members of AMVETS](404dd-distinctive-plates-for-members-of-amvets.md)
 - [§ 404-DD\*2 Mental illness anti-stigma license plates](404dd-2-mental-illness-anti-stigma-license-plates.md)
 - [§ 404-E Distinctive plates for purple heart recipients](404e-distinctive-plates-for-purple-heart-recipients.md)
+- [§ 404-EE Distinctive "West Indian American Day Carnival" license plates](404ee-distinctive-west-indian-american-day-carnival.md)
+- [§ 404-EE\*2 Distinctive Down's syndrome awareness license plates](404ee-2-distinctive-downs-syndrome-awareness-license.md)
 - [§ 404-F Distinctive plates for members of volunteer ambulance services](404f-distinctive-plates-for-members-of-volunteer-ambulance.md)
 - [§ 404-G Distinctive plates bearing the words "Birthplace of Baseball"](404g-distinctive-plates-bearing-the-words-birthplace.md)
 - [§ 404-H Distinctive plates for members of the Jewish War Veterans of America](404h-distinctive-plates-for-members-of-the-jewish-war.md)
@@ -100,6 +102,9 @@ Section 401.      Registration of motor vehicles; fees; renewals.
         404-dd.   Distinctive plates for members of AMVETS.
         404-dd*2. Mental illness anti-stigma license plates.
         404-e.    Distinctive plates for purple heart recipients.
+        404-ee.   Distinctive "West Indian American Day Carnival"
+                    license plates.
+        404-ee*2. Distinctive Down's syndrome awareness license plates.
         404-f.    Distinctive plates for members of volunteer ambulance
                     services.
         404-g.    Distinctive plates bearing the words "Birthplace of

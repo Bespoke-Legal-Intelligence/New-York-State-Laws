@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 456", "kind": "section", "law_id": "COM", "location_id": "456", "path": "ARTICLE 23 › SECTION 456", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/456.md", "title": "Legislative findings"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 456", "kind": "section", "law_id": "COM", "location_id": "456", "path": "ARTICLE 23 › SECTION 456", "repealed": true, "repealed_date": "2018-08-03", "source": "nys-laws:COM/456.md", "title": "Legislative findings"} -->
 # Economic Development Law § 456 — Legislative findings
 
 [Economic Development Law](../README.md) › [Article 23 — New York Seafood Marketing Task Force](README.md)
+
+**Repealed** (3 Aug 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 456. Legislative findings. The legislature hereby finds that the

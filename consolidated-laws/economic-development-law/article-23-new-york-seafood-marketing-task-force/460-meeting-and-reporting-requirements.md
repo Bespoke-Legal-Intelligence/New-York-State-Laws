@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 460", "kind": "section", "law_id": "COM", "location_id": "460", "path": "ARTICLE 23 › SECTION 460", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/460.md", "title": "Meeting and reporting requirements"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 460", "kind": "section", "law_id": "COM", "location_id": "460", "path": "ARTICLE 23 › SECTION 460", "repealed": true, "repealed_date": "2018-08-03", "source": "nys-laws:COM/460.md", "title": "Meeting and reporting requirements"} -->
 # Economic Development Law § 460 — Meeting and reporting requirements
 
 [Economic Development Law](../README.md) › [Article 23 — New York Seafood Marketing Task Force](README.md)
+
+**Repealed** (3 Aug 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 460. Meeting and reporting requirements. 1. The task force shall

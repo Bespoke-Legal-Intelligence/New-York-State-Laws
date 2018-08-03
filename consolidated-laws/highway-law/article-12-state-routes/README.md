@@ -283,6 +283,7 @@
 - [§ 344-F\*7 Portion of the state highway system to be designated as the "Private First Class Duane C](344f-7-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
 - [§ 344-G Portion of state highway system to be designated as the "Senator William J](344g-portion-of-state-highway-system-to-be-designated-as-the-senator-william-j.md)
 - [§ 344-G\*2 Portion of the state highway system to be designated as the "Detective Steven McDonald Memorial Highway"](344g-2-portion-of-the-state-highway-system-to-be-designated-as-the-detective-steven.md)
+- [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -938,6 +939,8 @@ Section 340-a.     Designation of state interstate routes.
         344-g*2.   Portion of the state highway system to be designated
                      as the "Detective Steven McDonald Memorial
                      Highway".
+        344-j.     Portion of the state highway system to be designated
+                     as the "Chief George Bell Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

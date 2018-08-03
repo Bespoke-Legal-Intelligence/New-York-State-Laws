@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 181 |
-| Last changed | 27 Apr 2018 |
+| Sections | 181 (6 repealed) |
+| Last changed | 3 Aug 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (46 lines)](chapter-text.md)
+[Full chapter text (45 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 Aug 2018](../../changes/2018/2018-08-03.md): 6 repealed
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 3 amended
 - [23 Mar 2018](../../changes/2018/2018-03-23.md): 2 amended
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended, 1 added, 1 removed
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 7 amended
 - [3 Mar 2017](../../changes/2017/2017-03-03.md): 1 amended
-- [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended
 
 ## Contents
 
@@ -82,4 +82,4 @@ Assembly, do enact as follows:
 - [Article 20 — Empire State Jobs Retention Program](article-20-empire-state-jobs-retention-program/)
 - [Article 21 — Start-up Ny Program](article-21-start-up-ny-program/)
 - [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)
-- [Article 23 — New York Seafood Marketing Task Force](article-23-new-york-seafood-marketing-task-force/)
+- [Article 23 — New York Seafood Marketing Task Force](article-23-new-york-seafood-marketing-task-force/) *(repealed)*

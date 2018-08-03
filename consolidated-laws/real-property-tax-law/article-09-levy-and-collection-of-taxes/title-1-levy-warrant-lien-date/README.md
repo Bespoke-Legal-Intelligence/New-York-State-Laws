@@ -6,8 +6,10 @@
 ## Contents
 
 - [§ 900 Levy and extension of taxes](900-levy-and-extension-of-taxes.md)
+- [§ 901 Collection of unpaid housing code violation penalties in the city of Syracuse; levy](901-collection-of-unpaid-housing-code-violation-penalties.md)
 - [§ 902 Lien date](902-lien-date.md)
 - [§ 904 Warrant; tax roll](904-warrant-tax-roll.md)
+- [§ 905 Collection of unpaid housing code violation penalties; levy](905-collection-of-unpaid-housing-code-violation-penalties-levy.md)
 - [§ 906 County treasurer to be furnished certain statements](906-county-treasurer-to-be-furnished-certain-statements.md)
 
 <details>
@@ -17,8 +19,12 @@
                                  TITLE 1
                         LEVY; WARRANT; LIEN DATE
 Section 900. Levy and extension of taxes.
+        901. Collection of unpaid housing code violation penalties in
+               the city of Syracuse; levy.
         902. Lien date.
         904. Warrant; tax roll.
+        905. Collection of unpaid housing code violation penalties;
+               levy.
         906. County treasurer to be furnished certain statements.
 ```
 

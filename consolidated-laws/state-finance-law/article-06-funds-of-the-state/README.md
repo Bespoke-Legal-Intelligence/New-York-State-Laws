@@ -220,6 +220,7 @@
 - [§ 99-D\*2 Community projects fund](99d-2-community-projects-fund.md)
 - [§ 99-DD Special events fund](99dd-special-events-fund.md)
 - [§ 99-E State university stabilization account](99e-state-university-stabilization-account.md)
+- [§ 99-EE Down's syndrome research fund](99ee-downs-syndrome-research-fund.md)
 - [§ 99-F Spinal cord injury research trust fund](99f-spinal-cord-injury-research-trust-fund.md)
 - [§ 99-H Tribal-state compact revenue account](99h-tribal-state-compact-revenue-account.md)
 - [§ 99-H\*2 Teacher education accreditation account](99h-2-teacher-education-accreditation-account.md)
@@ -511,6 +512,7 @@ Section 70.        Classification of funds.
         99-d*2.    Community projects fund.
         99-dd.     Special events fund.
         99-e.      State university stabilization account.
+        99-ee.     Down's syndrome research fund.
         99-f.      Spinal cord injury research trust fund.
         99-h.      Tribal-state compact revenue account.
         99-h*2.    Teacher education accreditation account.

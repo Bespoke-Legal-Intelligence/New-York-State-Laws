@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 457", "kind": "section", "law_id": "COM", "location_id": "457", "path": "ARTICLE 23 › SECTION 457", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/457.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 457", "kind": "section", "law_id": "COM", "location_id": "457", "path": "ARTICLE 23 › SECTION 457", "repealed": true, "repealed_date": "2018-08-03", "source": "nys-laws:COM/457.md", "title": "Definitions"} -->
 # Economic Development Law § 457 — Definitions
 
 [Economic Development Law](../README.md) › [Article 23 — New York Seafood Marketing Task Force](README.md)
+
+**Repealed** (3 Aug 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 457. Definitions. When used in this article, the following terms

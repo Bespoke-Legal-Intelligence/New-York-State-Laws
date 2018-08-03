@@ -63,6 +63,5 @@ section shall transfer or loan any funds to any subsidiary or member of
 the entity's holding company system or to a member or stockholder where
 a purpose of the transfer or loan is to avoid the application of this
 section.
-  * NB Effective August 1, 2018
   * NB Repealed August 1, 2023
 ```

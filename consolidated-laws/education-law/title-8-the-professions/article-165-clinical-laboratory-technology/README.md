@@ -14,9 +14,9 @@
 - [§ 8606 Requirements for certification as a clinical laboratory technician](8606-requirements-for-certification-as-a-clinical-laboratory-technician.md)
 - [§ 8606-A Requirements for certification as a histological technician](8606a-requirements-for-certification-as-a-histological-technician.md)
 - [§ 8607 Special provisions](8607-special-provisions.md)
-- [§ 8608 Limited permits](8608-limited-permits.md)
+- [§ 8608 Limited and provisional permits](8608-limited-and-provisional-permits.md)
 - [§ 8609 Exempt persons](8609-exempt-persons.md)
-- [§ 8610 Restricted clinical laboratory and limited licenses](8610-restricted-clinical-laboratory-and-limited-licenses.md)
+- [§ 8610 Restricted clinical laboratory licenses](8610-restricted-clinical-laboratory-licenses.md)
 
 <details>
 <summary>Official heading of Article 165, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

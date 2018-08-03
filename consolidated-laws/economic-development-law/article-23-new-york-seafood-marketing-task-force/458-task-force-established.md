@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 458", "kind": "section", "law_id": "COM", "location_id": "458", "path": "ARTICLE 23 › SECTION 458", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/458.md", "title": "Task force established"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 458", "kind": "section", "law_id": "COM", "location_id": "458", "path": "ARTICLE 23 › SECTION 458", "repealed": true, "repealed_date": "2018-08-03", "source": "nys-laws:COM/458.md", "title": "Task force established"} -->
 # Economic Development Law § 458 — Task force established
 
 [Economic Development Law](../README.md) › [Article 23 — New York Seafood Marketing Task Force](README.md)
+
+**Repealed** (3 Aug 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 458. Task force established. 1. There is hereby created a task force
