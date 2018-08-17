@@ -21,38 +21,12 @@ statement of acknowledgment is readily available by the owner or
 employee responsible for the operation of the ultraviolet radiation
 device of such facility.
   2. No owner, operator, or employee of a tanning facility shall permit
-the use of an ultraviolet radiation device by a person seventeen to
-eighteen years of age until such person provides the tanning facility
-with the written consent, in a form prescribed by the commissioner, of a
-parent or legal guardian to use such tanning facility. The parent or
-legal guardian shall sign such consent form in the presence of the owner
-of the tanning facility or an employee responsible for the operation of
-the ultraviolet radiation device of such facility indicating that such
-parent or guardian has read the warnings required under subdivision two
-of section thirty-five hundred fifty-four of this article and that the
-person seventeen to eighteen years of age agrees to wear safety goggles
-before using an ultraviolet radiation device. Such original written
-consent shall be retained by the tanning facility for a period of twelve
-months and may be retained off premises provided that an electronic
-image or facsimile of the original signed consent form is readily
-available by the owner or employee responsible for the operation of the
-ultraviolet radiation device of such facility.
-  ** 3.  A written consent form signed by a parent or legal guardian
-pursuant to subdivision two of this section shall expire twelve months
-from the date it is signed by the parent or legal guardian. Upon the
-expiration of a written consent form, a new written consent shall be
-provided in the manner prescribed in subdivision two of this section
-prior to the use of an ultraviolet radiation device by any person
-seventeen to eighteen years of age.
-  ** NB There are 2 sb 3's
-  4. No owner, operator, or employee of a tanning facility shall permit
-the use of an ultraviolet radiation device by persons sixteen years of
-age and under.
-  ** 3.  This section shall be exclusive and shall preempt any contrary
+the use of an ultraviolet radiation device by a person under eighteen
+years of age.
+  3. This section shall be exclusive and shall preempt any contrary
 local law or ordinance, except that this section shall not preempt or
 supersede local laws or ordinances imposing additional stricter
 restrictions on the use and operation of ultraviolet radiation devices
 at tanning facilities which are in effect prior to the effective date of
 this section.
-  ** NB There are 2 sb 3's
 ```

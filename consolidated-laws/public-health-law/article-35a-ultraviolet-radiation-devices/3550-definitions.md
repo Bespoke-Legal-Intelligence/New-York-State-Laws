@@ -8,9 +8,10 @@
 and phrases shall have the meanings ascribed to them in this section:
   1. "Tanning facility" shall mean any establishment where one or more
 ultraviolet radiation device is used, offered, or made available for use
-by any human being, for which a fee is charged, directly or indirectly,
-but shall not include any facility where any such device is used by a
-qualified health care professional for treatment of medical conditions.
+by any human being, whether or not a fee is charged, directly or
+indirectly, but shall not include any facility where any such device is
+used by a qualified health care professional for treatment of medical
+conditions.
   2. "Ultraviolet radiation device" shall mean any equipment which is
 designed to emit electromagnetic radiation in the wavelength interval of
 two hundred to four hundred nanometers in air, and which is intended to

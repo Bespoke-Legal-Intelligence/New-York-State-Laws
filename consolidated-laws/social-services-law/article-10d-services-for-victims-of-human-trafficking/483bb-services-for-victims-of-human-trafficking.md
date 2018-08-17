@@ -26,10 +26,20 @@ district, from providing human trafficking victims who are United States
 citizens or human trafficking victims who meet the criteria pursuant to
 section one hundred twenty-two of this chapter with any benefits or
 services for which they otherwise may be eligible.
-  (c) An individual who is a victim of the conduct prohibited by section
-230.33, 230.34, 135.35 or 135.37 of the penal law may bring a civil
-action against the perpetrator or whoever knowingly advances or profits
-from, or whoever should have known he or she was advancing or profiting
-from, an act in violation of section 230.33, 230.34, 135.35 or 135.37 of
-the penal law to recover damages and reasonable attorney's fees.
+  * (c) An individual who is a victim of the conduct prohibited by
+section 230.33, 230.34, 135.35 or 135.37 of the penal law may bring a
+civil action against the perpetrator or whoever knowingly advances or
+profits from, or whoever should have known he or she was advancing or
+profiting from, an act in violation of section 230.33, 230.34, 135.35 or
+135.37 of the penal law to recover damages and reasonable attorney's
+fees.
+  * NB Effective until November 13, 2018
+  * (c) An individual who is a victim of the conduct prohibited by
+section 230.33, 230.34, 230.34-a, 135.35 or 135.37 of the penal law may
+bring a civil action against the perpetrator or whoever knowingly
+advances or profits from, or whoever should have known he or she was
+advancing or profiting from, an act in violation of section 230.33,
+230.34, 230.34-a, 135.35 or 135.37 of the penal law to recover damages
+and reasonable attorney's fees.
+  * NB Effective November 13, 2018
 ```

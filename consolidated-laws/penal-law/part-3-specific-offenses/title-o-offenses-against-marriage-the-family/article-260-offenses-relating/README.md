@@ -22,6 +22,7 @@
 - [§ 260.31\*2 Misrepresentation by a child day care provider](260.31-2-misrepresentation-by-a-child-day-care.md)
 - [§ 260.32 Endangering the welfare of a vulnerable elderly person, or an incompetent or physically disabled person in the second degree](260.32-endangering-the-welfare-of-a-vulnerable.md)
 - [§ 260.34 Endangering the welfare of a vulnerable elderly person, or an incompetent or physically disabled person in the first degree](260.34-endangering-the-welfare-of-a-vulnerable.md)
+- [§ 260.35 Misrepresentation by, or on behalf of, a caregiver for a child or children](260.35-misrepresentation-by-or-on-behalf.md)
 
 <details>
 <summary>Official heading of Article 260, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -51,6 +52,8 @@ Section 260.00   Abandonment of a child.
         260.34   Endangering the welfare of a vulnerable elderly person,
                    or an incompetent or physically disabled person in
                    the first degree.
+        260.35   Misrepresentation by, or on behalf of, a caregiver for
+                   a child or children.
 ```
 
 </details>
