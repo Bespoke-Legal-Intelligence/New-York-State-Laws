@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | JUD |
 | Type | Consolidated law, chapter 30 |
-| Sections | 523 |
-| Last changed | 17 Aug 2018 |
+| Sections | 533 |
+| Last changed | 24 Aug 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Judiciary |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (55 lines)](chapter-text.md)
+[Full chapter text (57 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Aug 2018](../../changes/2018/2018-08-24.md): 10 added
 - [17 Aug 2018](../../changes/2018/2018-08-17.md): 1 amended
 - [10 Aug 2018](../../changes/2018/2018-08-10.md): 1 amended
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 2 amended
 - [21 Jul 2017](../../changes/2017/2017-07-21.md): 1 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
-- [3 Mar 2017](../../changes/2017/2017-03-03.md): 1 amended
 
 ## Contents
 
@@ -73,6 +73,7 @@ Assembly, do enact as follows:
 - [Article 13-A — Judicial Proceedings For the Removal of Public Officers By Impeachment](article-13a-judicial-proceedings-for-the-removal-of-public/)
 - [Article 14 — Law Reporting](article-14-law-reporting/)
 - [Article 15 — Attorneys and Counsellors](article-15-attorneys-and-counsellors/)
+- [Article 15-A — State Commission On Prosecutorial Conduct](article-15a-state-commission-on-prosecutorial-conduct/)
 - [Article 16 — Selection of Jurors](article-16-selection-of-jurors/)
 - [Article 19 — Contempts](article-19-contempts/)
 - [Article 20 — Collection of Fines](article-20-collection-of-fines/)

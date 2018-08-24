@@ -13,6 +13,7 @@
 - [§ 423-B New York state venture capital program](423b-new-york-state-venture-capital-program.md)
 - [§ 423-C MWBE asset management and financial institution strategy](423c-mwbe-asset-management-and-financial-institution-strategy.md)
 - [§ 424 Distribution of earnings](424-distribution-of-earnings.md)
+- [§ 424-A Use of placement agents or intermediaries prohibited](424a-use-of-placement-agents-or-intermediaries-prohibited.md)
 - [§ 425 Separability of retirement systems](425-separability-of-retirement-systems.md)
 
 <details>
@@ -29,6 +30,7 @@ Section 420.   Short title.
         423-b. New York state venture capital program.
         423-c. MWBE asset management and financial institution strategy.
         424.   Distribution of earnings.
+        424-a. Use of placement agents or intermediaries prohibited.
         425.   Separability of retirement systems.
 ```
 

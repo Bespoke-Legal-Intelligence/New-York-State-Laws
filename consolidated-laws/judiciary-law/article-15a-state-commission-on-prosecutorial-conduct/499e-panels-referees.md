@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Judiciary Law § 499-E", "kind": "section", "law_id": "JUD", "location_id": "499-E", "path": "ARTICLE 15-A › SECTION 499-E", "repealed": false, "repealed_date": null, "source": "nys-laws:JUD/499-E.md", "title": "Panels; referees"} -->
+# Judiciary Law § 499-E — Panels; referees
+
+[Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
+
+```text
+  * § 499-e. Panels; referees. 1. The commission may delegate any of its
+functions, powers and duties to a panel of three of its members, one of
+whom shall be a member of the bar, except that no panel shall confer
+immunity in accordance with section 50.20 of the criminal procedure law.
+No panel shall be authorized to take any action pursuant to subdivisions
+four through nine of section four hundred ninety-nine-f of this article
+or subdivision two of this section.
+  2. The commission may designate a member of the bar who is not a
+prosecutor or a member of the commission or its staff as a referee to
+hear and report to the commission in accordance with the provisions of
+section four hundred ninety-nine-f of this article. Such referee shall
+be empowered to conduct hearings, administer oaths or affirmations,
+subpoena witnesses, compel their attendance, examine them under oath or
+affirmation and require the production of any books, records, documents
+or other evidence that the referee may deem relevant or material to the
+subject of the hearing.
+  * NB Effective January 1, 2019
+```
