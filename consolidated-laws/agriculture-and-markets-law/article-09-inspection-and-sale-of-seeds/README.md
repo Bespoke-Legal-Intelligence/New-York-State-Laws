@@ -15,6 +15,7 @@
 - [§ 140-A Provision for seed tests](140a-provision-for-seed-tests.md)
 - [§ 141 Certification](141-certification.md)
 - [§ 142 Implementation](142-implementation.md)
+- [§ 142-A Stop sale orders](142a-stop-sale-orders.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,7 @@ Section 136.   Definitions.
         140-a. Provision for seed tests.
         141.   Certification.
         142.   Implementation.
+        142-a. Stop sale orders.
 ```
 
 </details>

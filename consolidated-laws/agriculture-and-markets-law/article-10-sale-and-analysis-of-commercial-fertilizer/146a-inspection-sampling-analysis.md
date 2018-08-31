@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 10 — Sale and Analysis of Commercial Fertilizer](README.md)
 
 ```text
-  § 146-a. Inspection, sampling, analysis. a. It shall be the duty of
+  * § 146-a. Inspection, sampling, analysis. a. It shall be the duty of
 the commissioner, who may act through his authorized agent, to sample,
 inspect, and analyze commercial fertilizers distributed within this
 state at such time and place and to the extent he may deem necessary to
@@ -22,4 +22,20 @@ licensee within ninety days of the date of sampling and the commissioner
 shall publish or cause to be published at least annually a summary of
 all analyses made, together with such additional information as
 circumstances advise.
+  * NB Effective until December 22, 2018
+  * § 146-a. Inspection, sampling, analysis. a. It shall be the duty of
+the commissioner, who may act through his authorized agent, to sample,
+inspect, and analyze commercial fertilizers distributed within this
+state at such time and place and to the extent he may deem necessary to
+determine whether such commercial fertilizers are in compliance with the
+provisions of this article. The methods of sampling and analysis shall
+be those the commissioner may require by regulation and be based on
+methods adopted by an agricultural and food analytical standards
+association, as further defined in regulations by the commissioner.
+  b. The results of the analysis of such sample shall be reported to the
+licensee within ninety days of the date of sampling and the commissioner
+shall publish or cause to be published at least annually a summary of
+all analyses made, together with such additional information as
+circumstances advise.
+  * NB Effective December 22, 2018
 ```

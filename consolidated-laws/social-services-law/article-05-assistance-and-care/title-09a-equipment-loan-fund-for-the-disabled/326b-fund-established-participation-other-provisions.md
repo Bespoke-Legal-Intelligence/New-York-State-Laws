@@ -14,8 +14,8 @@ regulations of the commissioner.
 opportunity to purchase or replace essential equipment used by them for
 daily living or vocational functioning following rehabilitation,
 including, but not limited to, prosthesis, ramps, wheelchairs,
-wheelchair van lifts, telecommunication devices for the deaf and hearing
-impaired, devices which allow persons who are blind or visually impaired
+wheelchair van lifts, telecommunication devices for the deaf and hard of
+hearing, devices which allow persons who are blind or visually impaired
 to discern printed materials and adaptive equipment to permit a disabled
 person to operate a motor vehicle but not to purchase or replace a motor
 vehicle itself.

@@ -16,7 +16,7 @@
 - [§ 7-B Legislative emergency health station](07b-legislative-emergency-health-station.md)
 - [§ 7-C Member of assembly defined](07c-member-of-assembly-defined.md)
 - [§ 7-D Employees of the legislature](07d-employees-of-the-legislature.md)
-- [§ 7-E Assistive listening system for the hearing impaired](07e-assistive-listening-system-for-the-hearing-impaired.md)
+- [§ 7-E Assistive listening system for the deaf and hard of hearing](07e-assistive-listening-system-for-the-deaf-and-hard-of-hearing.md)
 - [§ 7-F Assembly historian](07f-assembly-historian.md)
 - [§ 7-G Senate historian](07g-senate-historian.md)
 - [§ 8 Appointments to be filed with the comptroller](08-appointments-to-be-filed-with-the-comptroller.md)
@@ -65,7 +65,8 @@ Section 2.    Exemption of members and officers from arrest.
         7-b.  Legislative emergency health station.
         7-c.  Member of assembly defined.
         7-d.  Employees of the legislature.
-        7-e.  Assistive listening system for the hearing impaired.
+        7-e.  Assistive listening system for the deaf and hard of
+                hearing.
         7-f.  Assembly historian.
         7-g.  Senate historian.
         8.    Appointments to be filed with the comptroller.

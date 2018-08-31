@@ -37,6 +37,7 @@
 - [§ 630-D Gift for women's cancers education and prevention](630d-gift-for-womens-cancers-education-and-prevention.md)
 - [§ 630-D\*2 Gift for autism awareness and research](630d-2-gift-for-autism-awareness-and-research.md)
 - [§ 630-E Gift to the love your library fund](630e-gift-to-the-love-your-library-fund.md)
+- [§ 630-F Gift for organ and tissue donation outreach and research](630f-gift-for-organ-and-tissue-donation-outreach-and-research.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -82,6 +83,8 @@ Section 611.     New York taxable income of a resident individual.
         630-d.   Gift for women's cancers education and prevention.
         630-d*2. Gift for autism awareness and research.
         630-e.   Gift to the love your library fund.
+        630-f.   Gift for organ and tissue donation outreach and
+                   research.
 ```
 
 </details>

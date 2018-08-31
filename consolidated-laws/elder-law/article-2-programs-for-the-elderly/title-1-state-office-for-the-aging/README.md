@@ -25,7 +25,7 @@
 - [§ 216 Senior center council](216-senior-center-council.md)
 - [§ 217 Congregate services initiative for the elderly](217-congregate-services-initiative-for-the-elderly.md)
 - [§ 217-A Long term care insurance education and outreach program](217a-long-term-care-insurance-education-and-outreach-program.md)
-- [§ 218 Long term care ombudsman](218-long-term-care-ombudsman.md)
+- [§ 218 Long-term care ombudsman](218-long-term-care-ombudsman.md)
 - [§ 219 Elderly abuse education and outreach program](219-elderly-abuse-education-and-outreach-program.md)
 - [§ 220 Resident advisor program](220-resident-advisor-program.md)
 - [§ 222 Senior citizen energy packaging pilot program](222-senior-citizen-energy-packaging-pilot-program.md)

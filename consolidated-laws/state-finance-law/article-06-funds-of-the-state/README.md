@@ -93,6 +93,7 @@
 - [§ 95-F\*2 The Eighth Air Force Historical Society fund](95f-2-the-eighth-air-force-historical-society-fund.md)
 - [§ 95-G Department of motor vehicles distinctive plate development fund](95g-department-of-motor-vehicles-distinctive-plate-development-fund.md)
 - [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
+- [§ 96 The World Trade Center memorial scholarship fund](96-the-world-trade-center-memorial-scholarship-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)
 - [§ 97-A Environmental quality protection fund](97a-environmental-quality-protection-fund.md)
 - [§ 97-B Hazardous waste remedial fund](97b-hazardous-waste-remedial-fund.md)
@@ -357,6 +358,7 @@ Section 70.        Classification of funds.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
         95-h.      Mental illness anti-stigma fund.
+        96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
         97-b.      Hazardous waste remedial fund.

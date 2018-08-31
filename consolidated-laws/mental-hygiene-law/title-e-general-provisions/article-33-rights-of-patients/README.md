@@ -20,7 +20,7 @@
 - [§ 33.14 Sealing of records pertaining to treatment for mental illness](33.14-sealing-of-records-pertaining-to-treatment-for-mental-illness.md)
 - [§ 33.15 Habeas corpus](33.15-habeas-corpus.md)
 - [§ 33.16 Access to clinical records](33.16-access-to-clinical-records.md)
-- [§ 33.17 Transportation of female patients](33.17-transportation-of-female-patients.md)
+- [§ 33.17 Transportation of individuals](33.17-transportation-of-individuals.md)
 - [§ 33.21 Consent for mental health treatment of minors](33.21-consent-for-mental-health-treatment-of-minors.md)
 - [§ 33.23 Incident notifications and reports](33.23-incident-notifications-and-reports.md)
 - [§ 33.25 Release of records pertaining to allegations and investigations of abuse and mistreatment](33.25-release-of-records-pertaining-to-allegations-and-investigations-of-abuse.md)
@@ -51,7 +51,7 @@ Section 33.01  Protection of patients' rights.
                  illness.
         33.15  Habeas corpus.
         33.16  Access to clinical records.
-        33.17  Transportation of female patients.
+        33.17  Transportation of individuals.
         33.21  Consent for mental health treatment of minors.
         33.23  Incident notifications and reports.
         33.25  Release of records pertaining to allegations and

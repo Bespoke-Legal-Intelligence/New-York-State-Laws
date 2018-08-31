@@ -7,9 +7,11 @@
   § 2500-j. Autism spectrum disorders; screening of children. 1. The
 commissioner shall establish, for use by pediatric primary care
 providers, best practice protocols for early screening of children for
-autism spectrum disorders. Such protocols shall incorporate standards
-and guidelines established by the American Academy of Pediatricians and
-shall include, but not be limited to:
+autism spectrum disorders, including but not limited to developmental
+screening for children three years of age and under. Such protocols
+shall incorporate standards and guidelines established by the American
+Academy of Pediatrics, shall be updated at least biennially, and shall
+include, but not be limited to:
   (a) the routine employment of objective autism spectrum disorder
 screening tools at regular intervals during critical childhood
 developmental stages;

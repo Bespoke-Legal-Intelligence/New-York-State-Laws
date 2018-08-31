@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Public Buildings Law § 144", "kind": "section", "law_id": "PBB", "location_id": "144", "path": "ARTICLE 5 › SECTION 144", "repealed": false, "repealed_date": null, "source": "nys-laws:PBB/144.md", "title": "Lactation room in public buildings"} -->
+# Public Buildings Law § 144 — Lactation room in public buildings
+
+[Public Buildings Law](../README.md) › [Article 5 — Public Buildings Generally](README.md)
+
+```text
+  * § 144. Lactation room in public buildings. 1. As used in this
+section:
+  (a) "covered public building" means a public building owned by the
+state of New York, under the supervision and control of the commissioner
+of general services, that is determined by said commissioner to be open
+to the public; and
+  (b) "lactation room" means a hygienic place, other than a bathroom,
+that:
+  (1) is shielded from view;
+  (2) is free from intrusion;
+  (3) contains a chair, a working surface, and, if the public building
+is otherwise supplied with electricity, an electrical outlet; and
+  (4) is intended to be used for the primary purpose of breastfeeding or
+expressing breast milk.
+  2. A covered public building shall contain a lactation room that is
+made available for use by a member of the public to breastfeed or
+express breast milk.
+  3. A covered public building shall be excluded from the requirement of
+subdivision two of this section if:
+  (a) the public building does not have a room that could be repurposed
+as a lactation room or a space that could be made private, at a
+reasonable cost; or
+  (b) new construction would be required to create a lactation room in
+the public building and the cost of such construction is unfeasible.
+  4. Nothing in this section shall be construed to authorize an
+individual to enter a public building that the individual is not
+otherwise authorized to enter.
+  * NB Effective April 12, 2019
+```

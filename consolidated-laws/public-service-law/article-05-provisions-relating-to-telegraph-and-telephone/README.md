@@ -9,7 +9,7 @@
 - [§ 91 Adequate service; just and reasonable charges; unjust discrimination; unreasonable preference; protection of privacy](091-adequate-service-just-and-reasonable-charges-unjust-discrimination.md)
 - [§ 91-A Customer of record for telephonic blocking and restrictions on the removal of telephonic blocks to certain area codes](091a-customer-of-record-for-telephonic-blocking-and-restrictions-on-the-removal.md)
 - [§ 92 Rate schedules](092-rate-schedules.md)
-- [§ 92-A Special telephone equipment for hearing impaired persons](092a-special-telephone-equipment-for-hearing-impaired-persons.md)
+- [§ 92-A Special telephone equipment for deaf and hard of hearing persons](092a-special-telephone-equipment-for-deaf-and-hard-of-hearing-persons.md)
 - [§ 92-B Telephone deposits and payment plans for the elderly](092b-telephone-deposits-and-payment-plans-for-the-elderly.md)
 - [§ 92-C Customer service requirements for alternate operator service providers and COCOT service providers](092c-customer-service-requirements-for-alternate-operator-service-providers.md)
 - [§ 92-D Telephone solicitations](092d-telephone-solicitations.md)
@@ -29,6 +29,7 @@
 - [§ 101 Authority to issue stock, bonds and other forms of indebtedness](101-authority-to-issue-stock-bonds-and-other-forms-of-indebtedness.md)
 - [§ 101-A Reorganization](101a-reorganization.md)
 - [§ 102 IntraLATA presubscribed interexchange carrier-change charge study](102-intralata-presubscribed-interexchange-carrier-change-charge-study.md)
+- [§ 103 Commercial landlord-tenant relationship](103-commercial-landlord-tenant-relationship.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -72,6 +73,7 @@ Section 90.   Application of article.
        101-a. Reorganization.
        102.   IntraLATA presubscribed interexchange carrier-change
                 charge study.
+       103.   Commercial landlord-tenant relationship.
 ```
 
 </details>

@@ -46,6 +46,7 @@
 - [§ 3020-A Disciplinary procedures and penalties](3020a-disciplinary-procedures-and-penalties.md)
 - [§ 3020-B Streamlined removal procedures for teachers rated ineffective](3020b-streamlined-removal-procedures-for-teachers-rated-ineffective.md)
 - [§ 3021 Removal of superintendents, teachers and employees for treasonable or seditious acts or utterances](3021-removal-of-superintendents-teachers-and-employees-for-treasonable.md)
+- [§ 3021-A Notification of accusatory instrument alleging a sex offense](3021a-notification-of-accusatory-instrument-alleging-a-sex-offense.md)
 - [§ 3022 Elimination of subversive persons from the public school system](3022-elimination-of-subversive-persons-from-the-public-school-system.md)
 - [§ 3023 Liability of a board of education, trustee, trustees or board of cooperative educational services](3023-liability-of-a-board-of-education-trustee-trustees-or-board-of-cooperative.md)
 - [§ 3024 Teachers responsible for record books](3024-teachers-responsible-for-record-books.md)
@@ -141,6 +142,8 @@ Section 3001.   Qualifications of teachers.
                   ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
+        3021-a. Notification of accusatory instrument alleging a sex
+                  offense.
         3022.   Elimination of subversive persons from the public school
                   system.
         3023.   Liability of a board of education, trustee, trustees or

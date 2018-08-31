@@ -8,7 +8,7 @@
 | Senate code | GOB |
 | Type | Consolidated law, chapter 24-A |
 | Sections | 203 |
-| Last changed | 13 Jul 2018 |
+| Last changed | 31 Aug 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Obligations |
 
@@ -31,6 +31,7 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 
 ## Recent changes
 
+- [31 Aug 2018](../../changes/2018/2018-08-31.md): 2 amended
 - [13 Jul 2018](../../changes/2018/2018-07-13.md): 1 amended
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 2 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 1 added

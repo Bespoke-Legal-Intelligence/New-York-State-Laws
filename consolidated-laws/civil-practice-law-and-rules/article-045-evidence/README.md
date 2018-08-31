@@ -47,6 +47,7 @@
 - [§ 4538 Acknowledged, proved or certified writing; conveyance of real property without the state](4538-acknowledged-proved-or-certified-writing-conveyance-of-real-property-without.md)
 - [§ 4539 Reproductions of original](4539-reproductions-of-original.md)
 - [§ 4540 Authentication of official record of court or government office in the United States](4540-authentication-of-official-record-of-court-or-government-office-in-the-united.md)
+- [§ 4540-A Presumption of authenticity based on a party's production of material authored or otherwise created by the party](4540a-presumption-of-authenticity-based-on-a-partys-production-of-material-authored.md)
 - [§ 4541 Proof of proceedings before justice of the peace](4541-proof-of-proceedings-before-justice-of-the-peace.md)
 - [§ 4542 Proof of foreign records and documents](4542-proof-of-foreign-records-and-documents.md)
 - [§ 4543 Proof of facts or writing by methods other than those authorized in this article](4543-proof-of-facts-or-writing-by-methods-other-than-those-authorized-in-this-article.md)
@@ -160,6 +161,9 @@
                  (d) Printed tariff or classification subject to public
                        service commission, commissioner of
                        transportation or interstate commerce commission.
+        4540-a. Presumption of authenticity based on a party's
+                  production of material authored or otherwise created
+                  by the party.
         4541.   Proof of proceedings before justice of the peace.
                  (a) Of the state.
                  (b) Of another state.

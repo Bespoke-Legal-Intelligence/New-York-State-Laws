@@ -68,6 +68,8 @@ Section 611.     New York taxable income of a resident individual.
         630-d.   Gift for women's cancers education and prevention.
         630-d*2. Gift for autism awareness and research.
         630-e.   Gift to the love your library fund.
+        630-f.   Gift for organ and tissue donation outreach and
+                   research.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S
