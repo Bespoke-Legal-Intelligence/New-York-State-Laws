@@ -283,6 +283,9 @@
 - [§ 344-F\*7 Portion of the state highway system to be designated as the "Private First Class Duane C](344f-7-portion-of-the-state-highway-system-to-be-designated-as-the-private-first-class.md)
 - [§ 344-G Portion of state highway system to be designated as the "Senator William J](344g-portion-of-state-highway-system-to-be-designated-as-the-senator-william-j.md)
 - [§ 344-G\*2 Portion of the state highway system to be designated as the "Detective Steven McDonald Memorial Highway"](344g-2-portion-of-the-state-highway-system-to-be-designated-as-the-detective-steven.md)
+- [§ 344-H Portion of the state highway system to be designated as the "T Sgt Henry "Hank" Dylong Memorial Bridge"](344h-portion-of-the-state-highway-system-to-be-designated-as-the-t-sgt-henry-hank.md)
+- [§ 344-H\*2 Portion of the state highway system to be designated as the "General William 'Wild Bill' Donovan Memorial Highway"](344h-2-portion-of-the-state-highway-system-to-be-designated-as-the-general-william-wild.md)
+- [§ 344-H\*3 Portion of the state highway system to be designated as the "Jolly 51 Memorial Bridge"](344h-3-portion-of-the-state-highway-system-to-be-designated-as-the-jolly-51-memorial.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
@@ -939,6 +942,13 @@ Section 340-a.     Designation of state interstate routes.
         344-g*2.   Portion of the state highway system to be designated
                      as the "Detective Steven McDonald Memorial
                      Highway".
+        344-h.     Portion of the state highway system to be designated
+                     as the "T Sgt Henry "Hank" Dylong Memorial Bridge".
+        344-h*2.   Portion of the state highway system to be designated
+                     as the "General William 'Wild Bill' Donovan
+                     Memorial Highway".
+        344-h*3.   Portion of the state highway system to be designated
+                     as the "Jolly 51 Memorial Bridge".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
