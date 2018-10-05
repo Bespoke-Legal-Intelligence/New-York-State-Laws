@@ -93,6 +93,7 @@
 - [§ 95-F\*2 The Eighth Air Force Historical Society fund](95f-2-the-eighth-air-force-historical-society-fund.md)
 - [§ 95-G Department of motor vehicles distinctive plate development fund](95g-department-of-motor-vehicles-distinctive-plate-development-fund.md)
 - [§ 95-H Mental illness anti-stigma fund](95h-mental-illness-anti-stigma-fund.md)
+- [§ 95-I New York state ALS research and education fund](95i-new-york-state-als-research-and-education-fund.md)
 - [§ 96 The World Trade Center memorial scholarship fund](96-the-world-trade-center-memorial-scholarship-fund.md)
 - [§ 97 Housing debt fund, and urban renewal debt fund](97-housing-debt-fund-and-urban-renewal-debt-fund.md)
 - [§ 97-A Environmental quality protection fund](97a-environmental-quality-protection-fund.md)
@@ -201,6 +202,7 @@
 - [§ 97-PPPP Lupus research and education fund](97pppp-lupus-research-and-education-fund.md)
 - [§ 97-PPPP\*2 Sickle cell disease research and education fund](97pppp-2-sickle-cell-disease-research-and-education-fund.md)
 - [§ 97-QQQQ Cystic fibrosis research and education fund](97qqqq-cystic-fibrosis-research-and-education-fund.md)
+- [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
@@ -215,6 +217,7 @@
 - [§ 99-BB\*2 Parking services fund](99bb-2-parking-services-fund.md)
 - [§ 99-BB\*3 New York state secure choice administrative fund](99bb-3-new-york-state-secure-choice-administrative-fund.md)
 - [§ 99-BB\*4 SUNY Stony Brook Eastern Long Island Hospital Affiliation escrow fund](99bb-4-suny-stony-brook-eastern-long-island-hospital-affiliation-escrow-fund.md)
+- [§ 99-BB\*5 School-based health centers fund](99bb-5-school-based-health-centers-fund.md)
 - [§ 99-C Withholding of state aid upon failure of municipalities and school districts to repay health insurance reserve receipts when required](99c-withholding-of-state-aid-upon-failure-of-municipalities-and-school-districts.md)
 - [§ 99-CC Solid waste fund](99cc-solid-waste-fund.md)
 - [§ 99-D City university stabilization account](99d-city-university-stabilization-account.md)
@@ -358,6 +361,7 @@ Section 70.        Classification of funds.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
         95-h.      Mental illness anti-stigma fund.
+        95-i.      New York state ALS research and education fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
@@ -488,6 +492,7 @@ Section 70.        Classification of funds.
         97-pppp.   Lupus research and education fund.
         97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
+        97-rrrr.   Lupus education and prevention fund.
         97-xxxx.   State health innovation plan account.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.

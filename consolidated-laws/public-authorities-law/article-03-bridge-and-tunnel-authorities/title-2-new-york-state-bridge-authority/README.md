@@ -8,6 +8,7 @@
 - [§ 525 Short title](525-short-title.md)
 - [§ 526 Definitions](526-definitions.md)
 - [§ 526-A Ceremonial designation](526a-ceremonial-designation.md)
+- [§ 526-B Ceremonial designation of the Bear Mountain bridge](526b-ceremonial-designation-of-the-bear-mountain.md)
 - [§ 527 New York State Bridge Authority](527-new-york-state-bridge-authority.md)
 - [§ 528 Powers of the authority](528-powers-of-the-authority.md)
 - [§ 529 Acquisition of land; dedication by counties, towns or villages](529-acquisition-of-land-dedication-by-counties-towns.md)
@@ -35,9 +36,10 @@
 Section 525.   Short title.
         526.   Definitions.
         526-a. Ceremonial designation.
+        526-b. Ceremonial designation of the Bear Mountain bridge.
         527.   New York State Bridge Authority.
         528.   Powers of the authority.
-        529.   Acquisition  of  land;  dedication  by counties, towns or
+        529.   Acquisition of land; dedication by counties, towns or
                  villages.
         530.   Construction contracts.
         531.   Moneys of the authority.
@@ -51,7 +53,7 @@ Section 525.   Short title.
         538.   Tolls, rules and regulations.
         539.   Powers of the comptroller.
         540.   Actions against the authority.
-        541.   Title  not  affected  if  in  part  unconstitutional   or
+        541.   Title not affected if in part unconstitutional or
                  ineffective.
         542.   Inconsistent provisions in other acts superseded.
 ```

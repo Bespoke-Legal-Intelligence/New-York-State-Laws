@@ -30,6 +30,7 @@
 - [§ 220 Resident advisor program](220-resident-advisor-program.md)
 - [§ 222 Senior citizen energy packaging pilot program](222-senior-citizen-energy-packaging-pilot-program.md)
 - [§ 223 Economically sustainable transportation demonstration program](223-economically-sustainable-transportation-demonstration-program.md)
+- [§ 224 Informal caregivers in the workplace program](224-informal-caregivers-in-the-workplace-program.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -65,6 +66,7 @@ Section 201.   Office for the aging; director.
         222.   Senior citizen energy packaging pilot program.
         223.   Economically sustainable transportation demonstration
                  program.
+        224.   Informal caregivers in the workplace program.
 ```
 
 </details>

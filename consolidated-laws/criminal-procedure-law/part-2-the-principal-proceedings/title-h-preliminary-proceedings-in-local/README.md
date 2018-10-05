@@ -6,8 +6,8 @@
 ## Contents
 
 - [Article 95 — Pre-criminal Proceeding Settlements](article-095-pre/)
-- [Article 100 — Commencement of Action In Local Criminal Court--local Criminal Court Accusatory Instruments](article-100-com/)
-- [Article 110 — Requiring Defendant's Appearance In Local Criminal Court For Arraignment](article-110-req/)
+- [Article 100 — Commencement of Action In Local Criminal Court or Youth Part of a Superior Court--accusatory Instruments](article-100-com/)
+- [Article 110 — Requiring Defendant's Appearance In Local Criminal Court or Youth Part of Superior Court For Arraignment](article-110-req/)
 - [Article 120 — Warrant of Arrest](article-120-war/)
 - [Article 130 — The Summons](article-130-the/)
 - [Article 140 — Arrest Without a Warrant](article-140-arr/)

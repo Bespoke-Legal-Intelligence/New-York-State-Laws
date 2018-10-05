@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-CCCCC", "kind": "section", "law_id": "RPT", "location_id": "499-CCCCC", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-CCCCC", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-CCCCC.md", "title": "Application of assessment ceiling; computation of exemption"} -->
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-CCCCC", "kind": "section", "law_id": "RPT", "location_id": "499-CCCCC", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-CCCCC", "repealed": true, "repealed_date": "2018-10-05", "source": "nys-laws:RPT/499-CCCCC.md", "title": "Application of assessment ceiling; computation of exemption"} -->
 # Real Property Tax Law § 499-CCCCC — Application of assessment ceiling; computation of exemption
 
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 6 — Energy-related Public Utility Mass Real Property Central Assessment Pilot Program](README.md)
+
+**Repealed** (5 Oct 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 499-ccccc. Application of assessment ceiling; computation of

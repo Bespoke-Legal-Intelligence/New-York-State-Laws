@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 510.10 Securing order; when required](510.10-securing-order-when-required.md)
-- [§ 510.15 Commitment of principal under sixteen](510.15-commitment-of-principal.md)
+- [§ 510.15 Commitment of principal under seventeen or eighteen](510.15-commitment-of-principal.md)
 - [§ 510.20 Application for recognizance or bail; making and determination thereof in general](510.20-application-for-recognizance.md)
 - [§ 510.30 Application for recognizance or bail; rules of law and criteria controlling determination](510.30-application-for-recognizance.md)
 - [§ 510.40 Application for recognizance or bail; determination thereof, form of securing order and execution thereof](510.40-application-for-recognizance.md)

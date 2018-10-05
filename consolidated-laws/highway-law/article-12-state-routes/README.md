@@ -77,6 +77,7 @@
 - [§ 342-V\*2 Portion of the state highway system to be designated as "St](342v-2-portion-of-the-state-highway-system-to-be-designated-as-st.md)
 - [§ 342-V\*3 Portion of state highway system designated as the Veterans Memorial Highway](342v-3-portion-of-state-highway-system-designated-as-the-veterans-memorial-highway.md)
 - [§ 342-VV Portion of state highway system to be designated and known as the "Rensselaer County Korean War Veterans Memorial Highway"](342vv-portion-of-state-highway-system-to-be-designated-and-known-as-the-rensselaer.md)
+- [§ 342-VVV Portion of the state highway system to be designated as "The Woodstock Way"](342vvv-portion-of-the-state-highway-system-to-be-designated-as-the-woodstock-way.md)
 - [§ 342-W Portion of the state highway system to be designated as "Phelps Way"](342w-portion-of-the-state-highway-system-to-be-designated-as-phelps-way.md)
 - [§ 342-WW Portion of the New York state thruway to be designated as the "Jewish War Veterans Memorial Highway"](342ww-portion-of-the-new-york-state-thruway-to-be-designated-as-the-jewish-war.md)
 - [§ 342-WWW Portion of the state highway system to be designated as the "Adirondack Veterans' Memorial Highway"](342www-portion-of-the-state-highway-system-to-be-designated-as-the-adirondack-veterans.md)
@@ -286,6 +287,17 @@
 - [§ 344-H Portion of the state highway system to be designated as the "T Sgt Henry "Hank" Dylong Memorial Bridge"](344h-portion-of-the-state-highway-system-to-be-designated-as-the-t-sgt-henry-hank.md)
 - [§ 344-H\*2 Portion of the state highway system to be designated as the "General William 'Wild Bill' Donovan Memorial Highway"](344h-2-portion-of-the-state-highway-system-to-be-designated-as-the-general-william-wild.md)
 - [§ 344-H\*3 Portion of the state highway system to be designated as the "Jolly 51 Memorial Bridge"](344h-3-portion-of-the-state-highway-system-to-be-designated-as-the-jolly-51-memorial.md)
+- [§ 344-H\*4 Portion of the state highway system to be designated as the "New York State Trooper Joel R](344h-4-portion-of-the-state-highway-system-to-be-designated-as-the-new-york-state.md)
+- [§ 344-H\*5 Portion of the state highway system to be designated as the "Lt](344h-5-portion-of-the-state-highway-system-to-be-designated-as-the-lt.md)
+- [§ 344-H\*6 Portion of the state highway system to be designated as the "Sergeant James C](344h-6-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-james-c.md)
+- [§ 344-H\*7 Portion of the state highway system to be designated as the "S Sgt Michael F](344h-7-portion-of-the-state-highway-system-to-be-designated-as-the-s-sgt-michael-f.md)
+- [§ 344-H\*8 Portion of the state highway system to be designated as the "Roger J](344h-8-portion-of-the-state-highway-system-to-be-designated-as-the-roger-j.md)
+- [§ 344-H\*9 Portion of the state highway system to be designated as the "Sergeant Jonathan Gollnitz Memorial Highway"](344h-9-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-jonathan.md)
+- [§ 344-H\*10 Portion of the state highway system to be designated as the "PFC David P](344h-10-portion-of-the-state-highway-system-to-be-designated-as-the-pfc-david-p.md)
+- [§ 344-H\*11 Portion of the state highway system to be designated as the "SGT Brian K](344h-11-portion-of-the-state-highway-system-to-be-designated-as-the-sgt-brian-k.md)
+- [§ 344-H\*12 Portion of the state highway system to be designated as the "Conesus Veterans Memorial Highway"](344h-12-portion-of-the-state-highway-system-to-be-designated-as-the-conesus-veterans.md)
+- [§ 344-H\*13 Portion of the state highway system to be designated as the "Kathy Cairo Davis Memorial Bridge"](344h-13-portion-of-the-state-highway-system-to-be-designated-as-the-kathy-cairo-davis.md)
+- [§ 344-H\*14 Portion of the state highway system to be designated as the "Gold Star Families Memorial Highway"](344h-14-portion-of-the-state-highway-system-to-be-designated-as-the-gold-star-families.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
@@ -444,6 +456,8 @@ Section 340-a.     Designation of state interstate routes.
         342-vv.    Portion of state highway system to be designated and
                      known as the "Rensselaer County Korean War Veterans
                      Memorial Highway".
+        342-vvv.   Portion of the state highway system to be designated
+                     as "The Woodstock Way".
         342-w.     Portion of the state highway system to be designated
                      as "Phelps Way".
         342-ww.    Portion of the New York state thruway to be
@@ -525,7 +539,7 @@ Section 340-a.     Designation of state interstate routes.
         343-c*3.   Portion of the state highway system to be designated
                      as the "William Gregory Bypass".
         343-c*4.   Portion of the state highway system to be designated
-                     as the "Thomas C. Rotondo, Jr. Bridge".
+                     as the "Thomas C. Rotondo, Jr. Memorial Bridge".
         343-cc.    Portion of the state highway system to be designated
                      as the "Sgt. Michael J. Esposito Jr. Memorial
                      Bridge".
@@ -949,6 +963,33 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Highway".
         344-h*3.   Portion of the state highway system to be designated
                      as the "Jolly 51 Memorial Bridge".
+        344-h*4.   Portion of the state highway system to be designated
+                     as the "New York State Trooper Joel R. Davis
+                     Memorial Bridge".
+        344-h*5.   Portion of the state highway system to be designated
+                     as the "Lt. Christopher J. Raguso FDNY-CFD Memorial
+                     Highway".
+        344-h*6.   Portion of the state highway system to be designated
+                     as the "Sergeant James C. Matteson Memorial
+                     Highway".
+        344-h*7.   Portion of the state highway system to be designated
+                     as the "S Sgt Michael F. Kaczmarek Memorial
+                     Bridge".
+        344-h*8.   Portion of the state highway system to be designated
+                     as the "Roger J. Mazal Memorial Bridge".
+        344-h*9.   Portion of the state highway system to be designated
+                     as the "Sergeant Jonathan Gollnitz Memorial
+                     Highway".
+        344-h*10.  Portion of the state highway system to be designated
+                     as the "PFC David P. Coveny Memorial Highway".
+        344-h*11.  Portion of the state highway system to be designated
+                     as the "SGT Brian K. Baker Memorial Bridge".
+        344-h*12.  Portion of the state highway system to be designated
+                     as the "Conesus Veterans Memorial Highway".
+        344-h*13.  Portion of the state highway system to be designated
+                     as the "Kathy Cairo Davis Memorial Bridge".
+        344-h*14.  Portion of the state highway system to be designated
+                     as the "Gold Star Families Memorial Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         345-a.     Abandonment and transfer of state highways.

@@ -3,20 +3,22 @@
 
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 499-TTTT Definitions](499tttt-definitions.md)
-- [§ 499-UUUU Annual fee](499uuuu-annual-fee.md)
-- [§ 499-VVVV Assessment of local energy-related public utility mass real property](499vvvv-assessment-of-local-energy-related-public-utility-mass-real.md)
-- [§ 499-WWWW Assessment ceiling](499wwww-assessment-ceiling.md)
-- [§ 499-XXXX Local energy-related public utility mass real property value](499xxxx-local-energy-related-public-utility-mass-real-property-value.md)
-- [§ 499-YYYY Equitable ratio of assessment](499yyyy-equitable-ratio-of-assessment.md)
-- [§ 499-ZZZZ Equalization rate](499zzzz-equalization-rate.md)
-- [§ 499-AAAAA Tentative determination of assessment ceiling; notice, complaints and hearing](499aaaaa-tentative-determination-of-assessment-ceiling-notice.md)
-- [§ 499-BBBBB Final determination of assessment ceiling; certificate](499bbbbb-final-determination-of-assessment-ceiling-certificate.md)
-- [§ 499-CCCCC Application of assessment ceiling; computation of exemption](499ccccc-application-of-assessment-ceiling-computation-of-exemption.md)
-- [§ 499-DDDDD Reports to commissioner](499ddddd-reports-to-commissioner.md)
-- [§ 499-EEEEE Inspection of accounts and property of public utilities](499eeeee-inspection-of-accounts-and-property-of-public-utilities.md)
+- [§ 499-TTTT Definitions](499tttt-definitions.md) *(repealed)*
+- [§ 499-UUUU Annual fee](499uuuu-annual-fee.md) *(repealed)*
+- [§ 499-VVVV Assessment of local energy-related public utility mass real property](499vvvv-assessment-of-local-energy-related-public-utility-mass-real.md) *(repealed)*
+- [§ 499-WWWW Assessment ceiling](499wwww-assessment-ceiling.md) *(repealed)*
+- [§ 499-XXXX Local energy-related public utility mass real property value](499xxxx-local-energy-related-public-utility-mass-real-property-value.md) *(repealed)*
+- [§ 499-YYYY Equitable ratio of assessment](499yyyy-equitable-ratio-of-assessment.md) *(repealed)*
+- [§ 499-ZZZZ Equalization rate](499zzzz-equalization-rate.md) *(repealed)*
+- [§ 499-AAAAA Tentative determination of assessment ceiling; notice, complaints and hearing](499aaaaa-tentative-determination-of-assessment-ceiling-notice.md) *(repealed)*
+- [§ 499-BBBBB Final determination of assessment ceiling; certificate](499bbbbb-final-determination-of-assessment-ceiling-certificate.md) *(repealed)*
+- [§ 499-CCCCC Application of assessment ceiling; computation of exemption](499ccccc-application-of-assessment-ceiling-computation-of-exemption.md) *(repealed)*
+- [§ 499-DDDDD Reports to commissioner](499ddddd-reports-to-commissioner.md) *(repealed)*
+- [§ 499-EEEEE Inspection of accounts and property of public utilities](499eeeee-inspection-of-accounts-and-property-of-public-utilities.md) *(repealed)*
 
 <details>
 <summary>Official heading of Title 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | HAY |
 | Type | Consolidated law, chapter 25 |
-| Sections | 588 |
-| Last changed | 28 Sep 2018 |
+| Sections | 600 |
+| Last changed | 5 Oct 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Highway |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [5 Oct 2018](../../changes/2018/2018-10-05.md): 7 amended, 12 added
 - [28 Sep 2018](../../changes/2018/2018-09-28.md): 3 added
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 1 added
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 3 amended, 3 added
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 24 amended, 4 added, 1 removed
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 3 amended, 4 added
-- [21 Jul 2017](../../changes/2017/2017-07-21.md): 1 amended
 
 ## Contents
 

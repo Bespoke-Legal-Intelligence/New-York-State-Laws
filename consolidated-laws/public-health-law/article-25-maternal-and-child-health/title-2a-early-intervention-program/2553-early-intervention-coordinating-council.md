@@ -17,12 +17,13 @@ training; at least three shall be representatives of managed care plans
 or managed care plan trade associations familiar with how claims for
 services provided pursuant to this title are managed; at least two shall
 be early intervention officials; at least two shall be members of the
-legislature; seven shall be the commissioner and the commissioners of
-education, the office of children and family services, people with
-developmental disabilities, mental health, alcoholism and substance
-abuse services and the superintendent of financial services, or their
-appropriate designees with sufficient authority to engage in policy
-planning and implementation on behalf of their agencies.
+legislature or such members' designees; seven shall be the commissioner
+and the commissioners of education, the office of children and family
+services, people with developmental disabilities, mental health,
+alcoholism and substance abuse services and the superintendent of
+financial services, or their appropriate designees with sufficient
+authority to engage in policy planning and implementation on behalf of
+their agencies.
   (c) The governor shall appoint ten members on the recommendation of
 the temporary president of the senate and the speaker of the assembly,
 each of whom shall recommend five members as follows: one parent of a
@@ -41,6 +42,8 @@ services.
 of the council. All members shall serve for terms of three years. Such
 terms shall be established so that the terms of no more than one-third
 of the members of the council expire each year.
+  (e) A majority of the appointed voting membership of the council shall
+constitute a quorum.
   2. The council shall:
   (a) assist the lead agency in the effective performance of the lead
 agency's responsibilities set out under this title, including:

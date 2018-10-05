@@ -161,4 +161,15 @@ programs with other public or private entities, including making grants
 law) to public or not-for-profit entities.
   8. The commissioner may make rules and regulations necessary and
 appropriate for implementation of this section.
+  (o) For women who may become pregnant, expectant parents and parents
+of infants, information regarding:
+  (i) the incidence of cytomegalovirus;
+  (ii) the transmission and risks of cytomegalovirus to pregnant women
+and women who may become pregnant;
+  (iii) birth defects caused by congenital cytomegalovirus;
+  (iv) methods of diagnosing congenital cytomegalovirus;
+  (v) the available preventive measures to avoid the infection of women
+who are pregnant or may become pregnant; and
+  (vi) available methods of treating cytomegalovirus and resources
+available for families of children born with cytomegalovirus.
 ```

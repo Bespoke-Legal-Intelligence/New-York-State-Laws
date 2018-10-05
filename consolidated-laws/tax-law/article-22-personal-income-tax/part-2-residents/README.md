@@ -38,6 +38,9 @@
 - [§ 630-D\*2 Gift for autism awareness and research](630d-2-gift-for-autism-awareness-and-research.md)
 - [§ 630-E Gift to the love your library fund](630e-gift-to-the-love-your-library-fund.md)
 - [§ 630-F Gift for organ and tissue donation outreach and research](630f-gift-for-organ-and-tissue-donation-outreach-and-research.md)
+- [§ 630-F\*2 Gift for ALS research and education](630f-2-gift-for-als-research-and-education.md)
+- [§ 630-F\*3 Gift for school-based health centers](630f-3-gift-for-school-based-health-centers.md)
+- [§ 630-F\*4 Gift for lupus education and prevention](630f-4-gift-for-lupus-education-and-prevention.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -85,6 +88,9 @@ Section 611.     New York taxable income of a resident individual.
         630-e.   Gift to the love your library fund.
         630-f.   Gift for organ and tissue donation outreach and
                    research.
+        630-f*2. Gift for ALS research and education.
+        630-f*3. Gift for school-based health centers.
+        630-f*4. Gift for lupus education and prevention.
 ```
 
 </details>

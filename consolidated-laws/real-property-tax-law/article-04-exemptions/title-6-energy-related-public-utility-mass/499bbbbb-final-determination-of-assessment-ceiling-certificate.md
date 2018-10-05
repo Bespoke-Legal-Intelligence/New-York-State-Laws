@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-BBBBB", "kind": "section", "law_id": "RPT", "location_id": "499-BBBBB", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-BBBBB", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-BBBBB.md", "title": "Final determination of assessment ceiling; certificate"} -->
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-BBBBB", "kind": "section", "law_id": "RPT", "location_id": "499-BBBBB", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-BBBBB", "repealed": true, "repealed_date": "2018-10-05", "source": "nys-laws:RPT/499-BBBBB.md", "title": "Final determination of assessment ceiling; certificate"} -->
 # Real Property Tax Law § 499-BBBBB — Final determination of assessment ceiling; certificate
 
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 6 — Energy-related Public Utility Mass Real Property Central Assessment Pilot Program](README.md)
+
+**Repealed** (5 Oct 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 499-bbbbb. Final determination of assessment ceiling; certificate.

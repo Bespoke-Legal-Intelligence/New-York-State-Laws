@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 159-J", "kind": "section", "law_id": "EXC", "location_id": "159-J", "path": "ARTICLE 6-D › SECTION 159-J", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/159-J.md", "title": "Local share"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 159-J", "kind": "section", "law_id": "EXC", "location_id": "159-J", "path": "ARTICLE 6-D › SECTION 159-J", "repealed": true, "repealed_date": "2018-10-05", "source": "nys-laws:EXC/159-J.md", "title": "Local share"} -->
 # Executive Law § 159-J — Local share
 
 [Executive Law](../README.md) › [Article 6-D — Community Services Block Grant Program](README.md)
+
+**Repealed** (5 Oct 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 159-j. Local share. Each recipient of funds shall secure a local

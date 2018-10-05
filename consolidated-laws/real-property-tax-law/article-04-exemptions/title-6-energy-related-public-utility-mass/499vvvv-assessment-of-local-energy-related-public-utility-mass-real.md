@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-VVVV", "kind": "section", "law_id": "RPT", "location_id": "499-VVVV", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-VVVV", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-VVVV.md", "title": "Assessment of local energy-related public utility mass real property"} -->
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-VVVV", "kind": "section", "law_id": "RPT", "location_id": "499-VVVV", "path": "ARTICLE 4 › TITLE 6 › SECTION 499-VVVV", "repealed": true, "repealed_date": "2018-10-05", "source": "nys-laws:RPT/499-VVVV.md", "title": "Assessment of local energy-related public utility mass real property"} -->
 # Real Property Tax Law § 499-VVVV — Assessment of local energy-related public utility mass real property
 
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 6 — Energy-related Public Utility Mass Real Property Central Assessment Pilot Program](README.md)
+
+**Repealed** (5 Oct 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 499-vvvv. Assessment of local energy-related public utility mass

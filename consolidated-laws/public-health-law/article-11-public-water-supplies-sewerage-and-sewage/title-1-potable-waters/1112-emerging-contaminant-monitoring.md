@@ -82,7 +82,9 @@ advisory level has been established, the commissioner shall establish
 notification levels based upon the available scientific information, and
 may take into consideration recommendations of the drinking water
 quality council established pursuant to section eleven hundred thirteen
-of this title.
+of this title. Such notification levels shall be made easily accessible
+to the public through a link that is posted on the department's website
+and updated regularly.
   7. Notwithstanding subdivision three of this section, the commissioner
 may, by declaration, add any physical, chemical, microbiological or
 radiological substance to the list of emerging contaminants established
@@ -99,7 +101,11 @@ establishing such notification level within one year of such
 declaration. Such declaration shall clearly state where and the date by
 which such testing must occur. After the commissioner promulgates
 regulations adding such emerging contaminant, such regulations shall
-supersede the declaration issued pursuant to this subdivision.
+supersede the declaration issued pursuant to this subdivision. Until
+such notification levels are posted on the department's website pursuant
+to subdivision six of this section, the commissioner shall post the
+notification levels established by declaration on such website so that
+they are easily accessible through a link to the public.
   8. Whenever one or more emerging contaminants is confirmed to be
 present in drinking water at concentrations at or above a notification
 level established pursuant to this section:
@@ -129,14 +135,29 @@ of the department of environmental conservation to develop educational
 materials, and may take into consideration recommendations of the
 drinking water quality council established pursuant to section eleven
 hundred thirteen of this title. Such educational materials shall be made
-available to the covered public water system and the general public,
+available through a link on the department's website that is easily
+accessible to the covered public water system and the general public,
 relating to methodologies for reducing exposure to emerging contaminants
 and potential actions that may be taken to mitigate or remediate
-emerging contaminants. The commissioner shall also provide the covered
-public water system with information relating to potential funding
-sources provided by the state and federal government for mitigation or
-remedial activities, and to reduce the exposure to emerging
-contaminants.
+emerging contaminants. Such link shall also include information relating
+to notification levels established by declaration pursuant to
+subdivision seven of this section and by regulation pursuant to
+subdivision six of this section. The commissioner shall coordinate with
+the United States Environmental Protection Agency to ensure that the
+information available on the EPA's Drinking Water Watch website is
+available to public water systems and that information available on the
+EPA's Safe Drinking Water Information System is available to the public
+through an easily accessible link on the department's website. The
+website and such links shall allow, to the extent practicable, the
+public to easily access information including but not limited to, basic
+water system information, including system identification number, name
+and type, department contacts, public notices, violations and
+enforcement actions taken by the state and federal government. The
+website and such links shall be monitored and updated regularly by the
+department. The commissioner shall also provide the covered public water
+system with information relating to potential funding sources provided
+by the state and federal government for mitigation or remedial
+activities, and to reduce the exposure to emerging contaminants.
   10. Any owner of real property, including any owner's agent, to whom a
 covered public water system has provided notification of the exceedance
 of a notification level established pursuant to subdivision six of this

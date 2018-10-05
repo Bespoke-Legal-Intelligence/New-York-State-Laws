@@ -56,4 +56,73 @@ of adverse reactions and cardiopulmonary resuscitation;
   (d) pay a biennial certification fee of twenty dollars; and
   (e) meet such other criteria as may be established by the commissioner
 in regulation.
+  * 6. (a) (i) Notwithstanding the provisions of this section or any
+other provision of law, rule or regulation to the contrary, licensed
+practitioners, persons licensed under this article and unlicensed
+personnel employed at a local correctional facility may, in a manner
+permitted by the regulations promulgated pursuant to this subdivision,
+utilize body imaging scanning equipment that applies ionizing radiation
+to humans for purposes of screening inmates committed to such facility,
+in connection with the implementation of such facility's security
+program.
+  (ii) The utilization of such body imaging scanning equipment shall be
+in accordance with regulations promulgated by the department, or in
+cities having a population of two million or more, such utilization
+shall be in accordance with regulations promulgated by the New York city
+department of health and mental hygiene.
+  (b) Prior to establishing, maintaining or operating in a local
+correctional facility any body imaging scanning equipment, the chief
+administrative officer of the facility shall ensure that such facility
+is in compliance with the regulations promulgated pursuant to this
+subdivision and otherwise applicable requirements for the installation,
+registration, maintenance, operation and inspection of body imaging
+scanning equipment.
+  (c) The regulations promulgated pursuant to subparagraph (ii) of
+paragraph (a) of this subdivision shall include, but not be limited to:
+  (i) A requirement that prior to operating body imaging scanning
+equipment, unlicensed personnel employed at local correctional
+facilities shall have successfully completed a training course approved
+by the department, or in cities of two million or more, approved by the
+New York city department of health and mental hygiene, and that such
+personnel receive additional training on an annual basis;
+  (ii) Limitations on exposure which shall be no more than fifty percent
+of the annual exposure limits for non-radiation workers as specified by
+applicable regulations, except that inmates under the age of eighteen
+shall not be subject to more than five percent of such annual exposure
+limits, and pregnant women shall not be subject to such scanning at any
+time. Procedures for identifying pregnant women shall be set forth in
+the regulations;
+  (iii) Registration with the department of each body imaging scanning
+machine purchased or installed at a local correctional facility;
+  (iv) Inspection and regular reviews of the use of body imaging
+scanning equipment by the department or the New York city department of
+health and mental hygiene, as applicable; and
+  (v) A requirement that records be kept regarding each use of body
+imaging scanning equipment by the local correctional facility.
+  (d) For the purpose of this subdivision, "body imaging scanning
+equipment" or "equipment" means equipment that utilizes a low dose of
+ionizing radiation to produce an anatomical image capable of detecting
+objects placed on, attached to or secreted within a person's body.
+  (e) For the purposes of this subdivision, "local correctional
+facility" shall have the same meaning as found in subdivision sixteen of
+section two of the correction law.
+  (f) Any local government agency that utilizes body imaging scanning
+equipment in a local correctional facility under its jurisdiction shall
+submit an annual report to the department, the speaker of the assembly,
+and the temporary president of the senate. Such report shall be
+submitted within eighteen months after the initial date of registration
+of such equipment with the department, and annually thereafter, and
+shall contain the following information as to each such facility:
+  (i) the number of times the equipment was used on inmates upon intake,
+after visits, and upon the suspicion of contraband, as well as any other
+event that triggers the use of such equipment;
+  (ii) the average, median, and highest number of times the equipment
+was used on any inmate, with corresponding exposure levels;
+  (iii) the number of times the use of the equipment detected the
+presence of drug contraband, weapon contraband, and any other illegal or
+impermissible object or substance;
+  (iv) incidents or any injuries or illness resulting from the use of
+such equipment or reported by persons scanned by such equipment; and
+  (v) any other information the department may reasonably require.
+  * NB Effective January 30, 2019
 ```

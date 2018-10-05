@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CPL |
 | Type | Consolidated law, chapter 11-A |
-| Sections | 576 |
-| Last changed | 17 Aug 2018 |
+| Sections | 576 (1 repealed) |
+| Last changed | 5 Oct 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Criminal Procedure |
 
@@ -33,6 +33,7 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
 
 ## Recent changes
 
+- [5 Oct 2018](../../changes/2018/2018-10-05.md): 38 amended, 1 repealed
 - [17 Aug 2018](../../changes/2018/2018-08-17.md): 5 amended
 - [15 Jun 2018](../../changes/2018/2018-06-15.md): 4 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 2 amended
@@ -42,7 +43,6 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
 - [13 Oct 2017](../../changes/2017/2017-10-13.md): 1 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 4 amended
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 4 amended
-- [21 Jul 2017](../../changes/2017/2017-07-21.md): 1 amended
 
 ## Contents
 

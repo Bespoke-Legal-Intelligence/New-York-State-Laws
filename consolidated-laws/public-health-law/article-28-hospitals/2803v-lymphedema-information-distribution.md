@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2803-V", "kind": "section", "law_id": "PBH", "location_id": "2803-V", "path": "ARTICLE 28 › SECTION 2803-V", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2803-V.md", "title": "Lymphedema information distribution"} -->
+# Public Health Law § 2803-V — Lymphedema information distribution
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  * § 2803-v. Lymphedema information distribution. 1. For the purposes
+of this section, the term "lymphedema" shall mean an accumulation of
+fluid in the interstitial tissue that causes swelling, most often in the
+arms and/or legs, and occasionally in other parts of the body, from any
+cause.
+  2. The commissioner shall design an informational packet about
+lymphedema and shall require that every general hospital distribute such
+packet to all patients at high risk of developing lymphedema. Patients
+deemed high risk shall include:
+  (a) patients who experience any significant injury to soft tissue that
+could reasonably be expected, using sound medical judgment, as a result
+of severity and nature thereof, to compromise or cause to be ineffective
+the drainage of the lymphatic system;
+  (b) patients who experience recurrent or persistent bacterial
+infections that could reasonably be expected, using sound medical
+judgment, as a result of severity and nature thereof, to compromise or
+cause to be ineffective the drainage of the lymphatic system; or
+  (c) patients who have had corrective surgical procedures performed
+that may have interfered with the lymph drainage by severing local
+lymphatics in a manner that may jeopardize reconstitution and recovery
+of lymph drainage.
+  * NB Effective January 29, 2019
+```

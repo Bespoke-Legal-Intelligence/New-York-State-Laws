@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | REL |
 | Type | Consolidated law, chapter 77-A |
-| Sections | 44 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 46 |
+| Last changed | 5 Oct 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Rural Electric Cooperative |
 
@@ -28,6 +28,10 @@ Became a law April 29, 1942, with the approval of the Governor.  Passed,
 ```
 
 [Full chapter text (21 lines)](chapter-text.md)
+
+## Recent changes
+
+- [5 Oct 2018](../../changes/2018/2018-10-05.md): 2 amended, 2 added
 
 ## Contents
 
