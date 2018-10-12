@@ -29,7 +29,7 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (57 lines)](chapter-text.md)
+[Full chapter text (59 lines)](chapter-text.md)
 
 ## Recent changes
 

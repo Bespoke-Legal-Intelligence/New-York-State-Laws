@@ -124,5 +124,6 @@ impermissible object or substance;
   (iv) incidents or any injuries or illness resulting from the use of
 such equipment or reported by persons scanned by such equipment; and
   (v) any other information the department may reasonably require.
+  * NB Repealed January 30, 2024
   * NB Effective January 30, 2019
 ```

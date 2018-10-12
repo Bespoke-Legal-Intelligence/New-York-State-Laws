@@ -48,17 +48,7 @@ subdivision four of this section. To the extent funds are available
 therefor, grants to assist and facilitate the purchase of technology
 shall be made available to providers who demonstrate the need for
 financial assistance as determined by the department.
-  * 7. The department promptly shall make all determinations and actions
-required by subdivision five of section eight hundred forty-five-b of
-the executive law upon receipt of the information from the division of
-criminal justice services and the federal bureau of investigation. The
-department shall create a permanent record, update the information in
-accordance with section eight hundred forty-five-b of the executive law
-and make only records or information received from the division of
-criminal justice services available to providers pursuant to this
-section.
-  * NB Effective until October 9, 2018
-  * 7. The department promptly shall make all determinations and actions
+  7. The department promptly shall make all determinations and actions
 required by subdivision five of section eight hundred forty-five-b of
 the executive law upon receipt of the information from the division of
 criminal justice services and the federal bureau of investigation,
@@ -74,7 +64,6 @@ shall create a permanent record, update the information in accordance
 with section eight hundred forty-five-b of the executive law and make
 only records or information received from the division of criminal
 justice services available to providers pursuant to this section.
-  * NB Effective October 9, 2018
   8. The department shall allow all providers access to any
 determination made upon a prospective employee at such time as such
 prospective employee presents himself or herself to such provider for

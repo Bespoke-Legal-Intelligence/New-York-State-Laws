@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 214-f. Emergency situations involving people with autism spectrum
+  § 214-f. Emergency situations involving people with autism spectrum
 disorder and other developmental disabilities. The superintendent shall,
 for all members of the state police:
   1. Develop, maintain and disseminate, in consultation with the
@@ -21,5 +21,4 @@ establishment and implementation on an ongoing basis of a training
 program for all current and new police officers regarding the policies
 and procedures established pursuant to this subdivision, along with
 recommendations for periodic retraining of police officers.
-  * NB Effective October 9, 2018
 ```

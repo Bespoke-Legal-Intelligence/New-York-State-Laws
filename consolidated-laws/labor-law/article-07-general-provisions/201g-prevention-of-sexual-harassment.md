@@ -4,12 +4,12 @@
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
 
 ```text
-  * § 201-g. Prevention of sexual harassment. 1. The department shall
+  § 201-g. Prevention of sexual harassment. 1. The department shall
 consult with the division of human rights to create and publish a model
 sexual harassment prevention guidance document and sexual harassment
 prevention policy that employers may utilize in their adoption of a
 sexual harassment prevention policy required by this section.
-   a. Such model sexual harassment prevention policy shall: (i) prohibit
+  a. Such model sexual harassment prevention policy shall: (i) prohibit
 sexual harassment consistent with guidance issued by the department in
 consultation with the division of human rights and provide examples of
 prohibited conduct that would constitute unlawful sexual harassment;
@@ -60,5 +60,4 @@ on an annual basis.
   3. The commissioner may promulgate regulations as he or she deems
 necessary for the purposes of carrying out the provisions of this
 section.
-  * NB Effective October 9, 2018
 ```

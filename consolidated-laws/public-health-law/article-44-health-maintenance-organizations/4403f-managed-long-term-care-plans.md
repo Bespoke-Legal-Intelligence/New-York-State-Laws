@@ -303,15 +303,8 @@ choice. Where a participant has not selected such a provider, the
 commissioner shall assign such participant to a managed long term care
 provider, taking into account quality, capacity and geographic
 accessibility.
-  ** (vii) Managed long term care provided and plans certified or other
-care coordination model established pursuant to this paragraph shall
-comply with the provisions of paragraphs (d), (i), (t), and (u) and
-subparagraph (iii) of paragraph (a) and subparagraph (iv) of paragraph
-(e) of subdivision four of section three hundred sixty-four-j of the
-social services law.
-  ** NB Effective until October 1, 2018
-  ** (vii) If another long term care plan certified under this section
-is available, medical assistance recipients required to enroll in such
+  (vii) If another long term care plan certified under this section is
+available, medical assistance recipients required to enroll in such
 plans pursuant to this section, including recipients who have been
 assigned to a provider by the commissioner, may change plans without
 cause within ninety days of either notification of enrollment or the
@@ -324,40 +317,13 @@ every twelve months, except for good cause. Good cause may include poor
 quality of care, lack of access to covered services, lack of access to
 providers experienced in dealing with the enrollee's care needs, or as
 otherwise determined by the commissioner.
-  ** NB Effective October 1, 2018
-  ** (viii) (1) The commissioner shall report biannually on the
-implementation of this subdivision. The reports shall include, but not
-be limited to:
-  (A) satisfaction of enrollees with care coordination/case management;
-timeliness of care;
-  (B) service utilization data including changes in the level, hours,
-frequency, and types of services and providers;
-  (C) enrollment data, including auto-assignment rates by plan;
-  (D) quality data; and
-  (E) continuity of care for participants as they move to managed long
-term care, with respect to community based and nursing home populations,
-including pediatric nursing home populations, and medically fragile
-children being served by home care agencies affiliated with pediatric
-nursing homes and diagnostic and treatment centers primarily serving
-medically fragile children.
-  (2) The commissioner shall publish the report on the department's
-website and provide notice to the temporary president of the senate, the
-speaker of the assembly, the chair of the senate standing committee on
-health, the chair of the assembly health committee and the Medicaid
-Managed Care Advisory Review Panel upon availability of the report. The
-initial report shall be provided by September first, two thousand
-twelve. The reports shall be made available by each February first, and
-September first thereafter. Such reports shall be formatted to allow
-comparisons between plans.
-  ** NB Effective until October 1, 2018
-  ** (viii) Managed long term care provided and plans certified or other
+  (viii) Managed long term care provided and plans certified or other
 care coordination model established pursuant to this paragraph shall
 comply with the provisions of paragraphs (d), (i), (t), and (u) and
 subparagraph (iii) of paragraph (a) and subparagraph (iv) of paragraph
 (e) of subdivision four of section three hundred sixty-four-j of the
 social services law.
-  ** NB Effective October 1, 2018
-  ** (ix) (1) The commissioner shall report biannually on the
+  (ix) (1) The commissioner shall report biannually on the
 implementation of this subdivision. The reports shall include, but not
 be limited to:
   (A) satisfaction of enrollees with care coordination/case management;
@@ -381,7 +347,6 @@ initial report shall be provided by September first, two thousand
 twelve. The reports shall be made available by each February first, and
 September first thereafter. Such reports shall be formatted to allow
 comparisons between plans.
-  ** NB Effective October 1, 2018
   * NB Effective until April 1, 2019
   * (b) The commissioner shall, to the extent necessary, submit the
 appropriate waivers, including, but not limited to, those authorized
