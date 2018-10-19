@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 12 — Hotels and Boarding Houses](README.md)
 
 ```text
-  * § 206-f. Information concerning services for human trafficking
+  § 206-f. Information concerning services for human trafficking
 victims. 1. For purposes of this section, "lodging facility" shall mean
 any inn, hotel, motel, motor court or other establishment that provides
 lodging to transient guests. Such term shall not include an
@@ -29,5 +29,4 @@ state interagency task force on human trafficking, shall develop a
 notice which shall include the national human trafficking hotline
 telephone number, to be made available to lodging facilities to post on
 a voluntary basis.
-  * NB Effective October 14, 2018
 ```
