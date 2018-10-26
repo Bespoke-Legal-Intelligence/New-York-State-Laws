@@ -13,5 +13,4 @@ Route 27) in the hamlet of Westhampton, town of Southampton, county of
 Suffolk, shall be designated and known as the "Jolly 51 Memorial
 Bridge".
   * NB There are 14 § 344-h's
-  * NB Effective October 25, 2018
 ```

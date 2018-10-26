@@ -121,6 +121,17 @@ that such program shall include an advisory council under this section
 that shall include representatives of people with pediatric acute-onset
 neuropsychiatric syndrome and their families and health care providers
 who specialize in treating such syndrome, among others.
+  (o) For women who may become pregnant, expectant parents and parents
+of infants, information regarding:
+  (i) the incidence of cytomegalovirus;
+  (ii) the transmission and risks of cytomegalovirus to pregnant women
+and women who may become pregnant;
+  (iii) birth defects caused by congenital cytomegalovirus;
+  (iv) methods of diagnosing congenital cytomegalovirus;
+  (v) the available preventive measures to avoid the infection of women
+who are pregnant or may become pregnant; and
+  (vi) available methods of treating cytomegalovirus and resources
+available for families of children born with cytomegalovirus.
   2. Programs under this section, dealing with one or more subjects, may
 include but not be limited to any of the following elements:
   (a) educational and informational materials in print, audio, visual,
@@ -161,15 +172,4 @@ programs with other public or private entities, including making grants
 law) to public or not-for-profit entities.
   8. The commissioner may make rules and regulations necessary and
 appropriate for implementation of this section.
-  (o) For women who may become pregnant, expectant parents and parents
-of infants, information regarding:
-  (i) the incidence of cytomegalovirus;
-  (ii) the transmission and risks of cytomegalovirus to pregnant women
-and women who may become pregnant;
-  (iii) birth defects caused by congenital cytomegalovirus;
-  (iv) methods of diagnosing congenital cytomegalovirus;
-  (v) the available preventive measures to avoid the infection of women
-who are pregnant or may become pregnant; and
-  (vi) available methods of treating cytomegalovirus and resources
-available for families of children born with cytomegalovirus.
 ```
