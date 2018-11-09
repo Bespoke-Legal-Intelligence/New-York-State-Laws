@@ -35,7 +35,7 @@
 - [§ 71 Complaints as to quality and price of gas and electricity; investigation by commission; forms of complaints](71-complaints-as-to-quality-and-price-of-gas-and-electricity-investigation.md)
 - [§ 72 Notice and hearing; order fixing price of gas or electricity or requiring improvement](72-notice-and-hearing-order-fixing-price-of-gas-or-electricity-or-requiring.md)
 - [§ 72-A Increased fuel costs](72a-increased-fuel-costs.md)
-- [§ 74 Energy storage deployment program](74-energy-storage-deployment-program.md)
+- [§ 74 Energy storage deployment policy](74-energy-storage-deployment-policy.md)
 - [§ 75 Defense in case of excessive charges for gas or electricity](75-defense-in-case-of-excessive-charges-for-gas-or-electricity.md)
 - [§ 76 Rates charged veteran organizations, religious bodies and community residences](76-rates-charged-veteran-organizations-religious-bodies-and-community-residences.md)
 - [§ 77 Powers of local officers](77-powers-of-local-officers.md)
@@ -94,7 +94,7 @@ Section 64.    Application of article.
         72.    Notice and hearing; order fixing price of gas or
                  electricity or requiring improvement.
         72-a.  Increased fuel costs.
-        74.    Energy storage deployment program.
+        74.    Energy storage deployment policy.
         75.    Defense in case of excessive charges for gas or
                  electricity.
         76.    Rates charged veteran organizations, religious bodies and

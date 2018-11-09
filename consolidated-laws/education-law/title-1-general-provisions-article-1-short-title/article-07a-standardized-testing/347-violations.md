@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 7-A — Standardized Testing](README.md)
 
 ```text
-  § 347. Violations.  Any test agency which violates any section of this
-article shall be liable for a civil penalty of not more than five
-hundred dollars for each violation.
+  § 347. Violations. Any test agency which violates any section of this
+article shall be liable for a civil penalty of not more than one
+thousand dollars for each violation.
 ```

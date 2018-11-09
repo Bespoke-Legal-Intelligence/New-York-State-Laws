@@ -10,7 +10,6 @@
 - [§ 159-G Rules and regulations](159g-rules-and-regulations.md)
 - [§ 159-H Limitation of administrative costs](159h-limitation-of-administrative-costs.md)
 - [§ 159-I Distribution of funds](159i-distribution-of-funds.md)
-- [§ 159-J Local share](159j-local-share.md) *(repealed)*
 - [§ 159-K Monitoring and evaluation](159k-monitoring-and-evaluation.md)
 - [§ 159-L Decertification and reduction of entity shares](159l-decertification-and-reduction-of-entity-shares.md)
 - [§ 159-M Designation and redesignation of eligible entities in unserved areas](159m-designation-and-redesignation-of-eligible-entities-in-unserved-areas.md)

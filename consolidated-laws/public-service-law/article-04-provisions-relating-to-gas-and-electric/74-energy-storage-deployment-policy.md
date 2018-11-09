@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Public Service Law § 74", "kind": "section", "law_id": "PBS", "location_id": "74", "path": "ARTICLE 4 › SECTION 74", "repealed": false, "repealed_date": null, "source": "nys-laws:PBS/74.md", "title": "Energy storage deployment policy"} -->
+# Public Service Law § 74 — Energy storage deployment policy
+
+[Public Service Law](../README.md) › [Article 4 — Provisions Relating to Gas and Electric Corporations; Regulation of Price of Gas and Electricity](README.md)
+
+```text
+  § 74. Energy storage deployment policy. 1. As used in this section
+"qualified energy storage system" shall mean commercially available
+technology that is capable of absorbing energy, storing it for a period
+of time, and thereafter dispatching the energy using mechanical,
+chemical, or thermal processes to store energy that was generated at one
+time for use at a later time.
+  2. By December thirty-first, two thousand eighteen, the commission
+shall, in consultation with the New York state energy research and
+development authority and the Long Island power authority, after a
+hearing held on notice, establish by order, rules and regulations, both
+a two thousand thirty energy storage goal for the state and a deployment
+policy to support that goal. The energy storage deployment policy shall
+include the following:
+  (a) avoided or deferred costs associated with transmission,
+distribution, or generation capacity;
+  (b) minimization of peak load in constrained areas; (c) systems that
+are connected to customer facilities and systems that are directly
+connected to transmission and distribution facilities;
+  (d) cost-effectiveness;
+  (e) assisting the integration of variable-output energy resources;
+  (f) reducing emissions of greenhouse gases;
+  (g) reducing demand for peak electrical generation; and
+  (h) improving the reliable operation of the electrical transmission or
+distribution systems;
+  (i) Annual reports on the achievements and effectiveness of the policy
+to be submitted to the governor, the temporary president of the senate,
+and the speaker of the assembly; and
+  (j) Such other issues deemed appropriate by the commission.
+```

@@ -47,6 +47,7 @@
 - [§ 77-E Baseball field fence leases in Yates county](77e-baseball-field-fence-leases-in-yates-county.md)
 - [§ 77-F Sports field fence leases in the town of Sweden, Monroe county](77f-sports-field-fence-leases-in-the-town-of-sweden-monroe-county.md)
 - [§ 77-G Sports field fence leases in the city of Rye, Westchester county](77g-sports-field-fence-leases-in-the-city-of-rye-westchester-county.md)
+- [§ 77-H Sports field fence leases in the town of New Castle, Westchester county](77h-sports-field-fence-leases-in-the-town-of-new-castle-westchester-county.md)
 - [§ 78 Insurance of property](78-insurance-of-property.md)
 - [§ 78-B Demolition and removal of unsafe structures](78b-demolition-and-removal-of-unsafe-structures.md)
 - [§ 80 Discrimination against non-residents](80-discrimination-against-non-residents.md)
@@ -189,6 +190,8 @@ Section 70.     Payment of judgments against municipal corporation.
         77-f.   Sports field fence leases in the town of Sweden, Monroe
                   county.
         77-g.   Sports field fence leases in the city of Rye,
+                  Westchester county.
+        77-h.   Sports field fence leases in the town of New Castle,
                   Westchester county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.

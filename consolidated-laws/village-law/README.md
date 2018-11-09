@@ -8,7 +8,7 @@
 | Senate code | VIL |
 | Type | Consolidated law, chapter 64 |
 | Sections | 241 |
-| Last changed | 31 Aug 2018 |
+| Last changed | 9 Nov 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Village |
 
@@ -31,6 +31,7 @@ AN ACT to repeal the village law, and to amend the agriculture and
 
 ## Recent changes
 
+- [9 Nov 2018](../../changes/2018/2018-11-09.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [12 Jan 2018](../../changes/2018/2018-01-12.md): 1 amended
 - [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 amended

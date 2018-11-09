@@ -68,6 +68,7 @@
 - [§ 3035 Duties of commissioner; submission of fingerprints](3035-duties-of-commissioner-submission-of-fingerprints.md)
 - [§ 3036 Coursework for reporting child abuse and maltreatment for those with coaching licenses or coaching certificates](3036-coursework-for-reporting-child-abuse-and-maltreatment-for-those.md)
 - [§ 3037 Grants for hiring teachers](3037-grants-for-hiring-teachers.md)
+- [§ 3038 The superintendent of each school district, in consultation with the district superintendent of a board of cooperative educational servic...](3038-the-superintendent-of-each-school-district-in-consultation.md)
 
 <details>
 <summary>Official heading of Article 61, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -181,6 +182,7 @@ Section 3001.   Qualifications of teachers.
                   for those with coaching licenses or coaching
                   certificates.
         3037.   Grants for hiring teachers.
+        3038.   (Enacted without section heading).
 ```
 
 </details>

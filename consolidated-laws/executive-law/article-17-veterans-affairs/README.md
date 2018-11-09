@@ -15,6 +15,7 @@
 - [§ 354-B New York state supplemental burial allowance for members of the armed forces of the United States killed in combat or duty subject to hos...](354b-new-york-state-supplemental-burial-allowance-for-members-of-the-armed-forces.md)
 - [§ 354-C New York state veteran burial fund](354c-new-york-state-veteran-burial-fund.md)
 - [§ 354-D Time within which marriage may be solemnized; member of the armed forces](354d-time-within-which-marriage-may-be-solemnized-member-of-the-armed-forces.md)
+- [§ 354-E Use of personal confidential information obtained from veterans or family members of veterans receiving services from the state and polit...](354e-use-of-personal-confidential-information-obtained-from-veterans-or-family.md)
 - [§ 355 Acceptance of gifts](355-acceptance-of-gifts.md)
 - [§ 356 State veterans' service agency](356-state-veterans-service-agency.md)
 - [§ 357 Local veterans' service agencies](357-local-veterans-service-agencies.md)
@@ -51,6 +52,10 @@ Section 350.   Definitions.
         354-c. New York state veteran burial fund.
         354-d. Time within which marriage may be solemnized; member of
                  the armed forces.
+        354-e. Use of personal confidential information obtained from
+                 veterans or family members of veterans receiving
+                 services from the state and political subdivisions
+                 thereof.
         355.   Acceptance of gifts.
         356.   State veterans' service agency.
         357.   Local veterans' service agencies.

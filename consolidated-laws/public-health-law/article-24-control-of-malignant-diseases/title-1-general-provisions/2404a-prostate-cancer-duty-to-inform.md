@@ -10,26 +10,34 @@ which shall explain the following:
   (a) the symptoms and risk factors for prostate cancer;
   (b) the available methods for the detection and diagnosis of prostate
 cancer, including information on the relative accuracy of the available
-detection and diagnostic techniques; and
-  (c) the alternative medically viable methods of treating prostate
+detection and diagnostic techniques;
+  (c) the availability of insurance coverage for diagnostic screening
+for prostate cancer without cost sharing pursuant to subparagraph (B) of
+paragraph eleven-a of subsection (i) of section three thousand two
+hundred sixteen, subparagraph (B) of paragraph eleven-a of subsection
+(1) of section three thousand two hundred twenty-one and paragraph two
+of subsection (z-1) of section four thousand three hundred three of the
+insurance law; and
+  (d) the alternative medically viable methods of treating prostate
 cancer, including but not limited to hormonal, radiological,
 chemotherapeutic or surgical treatments, or combinations thereof. The
 summary shall contain information on prostate post-treatment risks and
 other pertinent information to aid a person in deciding a course of
 treatment. The summary shall be updated as is necessary.
-  (d) The summary shall be provided to any health care provider or
+  2. The summary shall be provided to any health care provider or
 practitioner providing medical treatment to adult men without charge or
-fee for distribution in accordance with subdivision two of this section.
-  2. The standardized written summary provided for by subdivision one of
+fee for distribution in accordance with subdivision three of this
+section.
+  3. The standardized written summary provided for by subdivision one of
 this section may be provided by a health care provider to each person
-under his/her care who is or may be at risk for prostate cancer or who
-has been diagnosed to be afflicted with prostate cancer upon said
+under his or her care who is or may be at risk for prostate cancer or
+who has been diagnosed to be afflicted with prostate cancer upon said
 diagnosis, or as soon thereafter as practicable.
-  3. Nothing in this section shall be construed to create a cause of
+  4. Nothing in this section shall be construed to create a cause of
 action for lack of informed consent in any instance in which such cause
 of action would be limited by section twenty-eight hundred five-d of
 this chapter.
-  4. The commissioner shall have the written summary, required by this
+  5. The commissioner shall have the written summary, required by this
 section, completed and prepared for distribution on or before January
 first, nineteen hundred ninety-eight.
 ```

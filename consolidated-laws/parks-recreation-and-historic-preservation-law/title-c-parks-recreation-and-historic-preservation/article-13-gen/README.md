@@ -27,6 +27,7 @@
 - [§ 13.23 Land and water conservation fund; state agent](13.23-land-and-water-conservation-fund-state.md)
 - [§ 13.25 State reservation at Saratoga Springs](13.25-state-reservation-at-saratoga-springs.md)
 - [§ 13.27 Hudson-Mohawk urban cultural park](13.27-hudson-mohawk-urban-cultural-park.md)
+- [§ 13.28 Lyme and tick-borne disease warning signs](13.28-lyme-and-tick-borne-disease-warning.md)
 - [§ 13.29 Sojourner Truth commemorative marker](13.29-sojourner-truth-commemorative-marker.md)
 - [§ 13.30 Reimbursement for expenditures necessitated by negligent, willful or reckless conduct](13.30-reimbursement-for-expenditures.md)
 - [§ 13.31 Permits for activities near certain funeral events](13.31-permits-for-activities-near-certain.md)
@@ -59,6 +60,7 @@ Section 13.01   Transfer of parks, parkways and other property.
         13.23   Land and water conservation fund; state agent.
         13.25   State reservation at Saratoga Springs.
         13.27   Hudson-Mohawk urban cultural park.
+        13.28   Lyme and tick-borne disease warning signs.
         13.29   Sojourner Truth commemorative marker.
         13.30   Reimbursement for expenditures necessitated by
                   negligent, willful or reckless conduct.

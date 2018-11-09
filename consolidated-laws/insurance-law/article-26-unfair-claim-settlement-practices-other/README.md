@@ -22,6 +22,7 @@
 - [§ 2613 Eligibility for life and disability insurance for persons with a history of any type of cancer](2613-eligibility-for-life-and-disability-insurance-for-persons-with-a-history-of-any.md)
 - [§ 2614 Discrimination because of past lawful travel](2614-discrimination-because-of-past-lawful-travel.md)
 - [§ 2615 Genetic testing written informed consent](2615-genetic-testing-written-informed-consent.md)
+- [§ 2616 Discrimination because of status as a living organ or tissue donor](2616-discrimination-because-of-status-as-a-living-organ-or-tissue-donor.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -52,6 +53,8 @@ Section 2601.   Unfair claim settlement practices; penalties.
                   persons with a history of any type of cancer.
         2614.   Discrimination because of past lawful travel.
         2615.   Genetic testing written informed consent.
+        2616.   Discrimination because of status as a living organ or
+                  tissue donor.
 ```
 
 </details>
