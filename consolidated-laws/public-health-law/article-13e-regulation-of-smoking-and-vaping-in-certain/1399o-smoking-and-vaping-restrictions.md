@@ -20,12 +20,7 @@ and limousines;
 terminals;
   g. youth centers and facilities for detention as defined in sections
 five hundred twenty-seven-a and five hundred three of the executive law;
-  * h. any facility that provides child care services as defined in
-section four hundred ten-p of the social services law, provided that
-such services provided in a private home are excluded from this
-subdivision when children enrolled in such day care are not present;
-  * NB Effective until November 18, 2018
-  * h. any facility that provides child care services as defined in
+  h. any facility that provides child care services as defined in
 section four hundred ten-p of the social services law, provided,
 however, that rooms in such a facility that is a private home shall be
 regulated by this paragraph as follows:
@@ -39,7 +34,6 @@ for such services by the office of children and family services, rooms
 in such home are included within the prohibition of this paragraph,
 regardless of whether or not children receiving such services are
 present.
-  * NB Effective November 18, 2018
   i. child day care centers as defined in section three hundred ninety
 of the social services law and child day care centers licensed by the
 city of New York;
