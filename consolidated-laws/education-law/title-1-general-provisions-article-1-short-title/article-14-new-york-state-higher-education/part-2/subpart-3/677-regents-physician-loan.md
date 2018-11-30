@@ -4,7 +4,7 @@
 [Education Law](../../../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../../../README.md) › [Article 14 — New York State Higher Education Services Corporation](../../README.md) › [Part 2 — Student Financial Aid](../README.md) › [Subpart 3 — Academic Performance Awards](README.md)
 
 ```text
-  * § 677. Regents physician loan forgiveness program. 1. Number and
+  § 677. Regents physician loan forgiveness program. 1. Number and
 certification. Eighty regents physician loan forgiveness awards shall be
 awarded each year. Such awards shall be allocated as provided in article
 thirteen of this chapter to eligible physicians as certified to the
@@ -33,5 +33,4 @@ recommendation of the president in consultation with the commissioner.
 successful completion of the first year requirement of the service
 contract as defined by the president, as well as other criteria set
 forth in this section.
-  * NB Program terminates per Ch 31/85 § 17, as amended
 ```
