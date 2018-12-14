@@ -31,6 +31,7 @@
 - [§ 109-A Purchases through the office of general services by certain public associations](109a-purchases-through-the-office-of-general-services-by-certain-public-associations.md)
 - [§ 109-B Installment contracts](109b-installment-contracts.md)
 - [§ 109-C Purchases through county contracts by certain not-for-profit corporations](109c-purchases-through-county-contracts-by-certain-not-for-profit-corporations.md)
+- [§ 109-D Emergency vehicle warranties](109d-emergency-vehicle-warranties.md)
 
 <details>
 <summary>Official heading of Article 5-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -75,6 +76,7 @@ Section 100.   Definitions.
         109-b. Installment contracts.
         109-c. Purchases through county contracts by certain
                  not-for-profit corporations.
+        109-d. Emergency vehicle warranties.
 ```
 
 </details>

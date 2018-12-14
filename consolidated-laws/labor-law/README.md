@@ -8,7 +8,7 @@
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
 | Sections | 675 |
-| Last changed | 9 Nov 2018 |
+| Last changed | 14 Dec 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 Dec 2018](../../changes/2018/2018-12-14.md): 2 amended
 - [9 Nov 2018](../../changes/2018/2018-11-09.md): 1 amended
 - [12 Oct 2018](../../changes/2018/2018-10-12.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 2 amended
 - [25 Aug 2017](../../changes/2017/2017-08-25.md): 2 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 1 amended
-- [14 Apr 2017](../../changes/2017/2017-04-14.md): 1 amended, 1 added
 
 ## Contents
 

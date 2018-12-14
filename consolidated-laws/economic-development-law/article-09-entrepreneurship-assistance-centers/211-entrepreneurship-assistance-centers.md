@@ -1,0 +1,90 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 211", "kind": "section", "law_id": "COM", "location_id": "211", "path": "ARTICLE 9 › SECTION 211", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/211.md", "title": "Entrepreneurship assistance centers"} -->
+# Economic Development Law § 211 — Entrepreneurship assistance centers
+
+[Economic Development Law](../README.md) › [Article 9 — Entrepreneurship Assistance Centers](README.md)
+
+```text
+  § 211. Entrepreneurship assistance centers. 1. The department shall
+establish and support, within available appropriations, entrepreneurship
+assistance centers at career education agencies and not-for-profit
+corporations including, but not limited to, local development
+corporations, chambers of commerce, community-based business outreach
+centers and other community-based organizations. The purpose of such
+centers shall be to train minority group members, women, individuals
+with a disability, dislocated workers and veterans in the principles and
+practice of entrepreneurship in order to prepare such persons to pursue
+self-employment opportunities and to pursue a minority business
+enterprise or a women-owned business enterprise. Such centers shall
+provide for training in all aspects of business development and small
+business management as defined by the commissioner. For purposes of this
+section, "career education agency" shall mean a community college or
+board of cooperative educational services operating within the state.
+  2. The department shall establish criteria for selection and
+designation of such centers which shall include, but not be limited to:
+  (a) the level of support for the center from local post-secondary
+education institutions, businesses, and government;
+  (b) the level of financial assistance provided at the local and
+federal level to support the operations of the center;
+  (c) the applicant's understanding of program goals and objectives
+articulated by the department;
+  (d) the plans of the center to supplement state and local funding
+through fees for services which may be based on a sliding scale based on
+ability to pay;
+  (e) the need for and anticipated impact of the center on the community
+in which it will function;
+  (f) the quality of the proposed work plan and staff of the center; and
+  (g) the extent of economic distress in the area to be served.
+  3. Application for grants made pursuant to this section shall be made
+in the manner and on forms prescribed by the department. Such
+application shall include, but shall not be limited to:
+  (a) a description of the training programs available within the
+geographic area to be served by the center to which eligible clients may
+be referred;
+  (b) designation of a program director;
+  (c) plans for providing ongoing technical assistance to program
+graduates, including linkages with providers of other entrepreneurial
+assistance programs and with providers of small business technical
+assistance and services;
+  (d) a program budget, including matching funds, in-kind and otherwise,
+to be provided by the applicant; and
+  (e) such other requirements as deemed necessary by the department.
+  4. Each center shall:
+  (a) be operated by a board of directors representing community leaders
+in business, education, finance and government;
+  (b) be incorporated as a not-for-profit corporation;
+  (c) be located in an area accessible to eligible clients;
+  (d) establish an advisory group of community business experts, at
+least one-half of whom shall be representative of the clientele to be
+served by the center, which shall constitute a support network to
+provide counseling and mentoring services to minority group members,
+women, individuals with a disability, dislocated workers and veterans
+from the concept stage of development through the first one to two years
+of existence on a regular basis and as needed thereafter; and
+  (e) establish a referral system and linkages to existing area small
+business assistance programs and financing sources.
+  5. Each entrepreneurship assistance center shall provide needed
+services to eligible clients, including, but not limited to:
+  (a) orientation and screening of prospective entrepreneurs;
+  (b) analysis of business concepts and technical feasibility;
+  (c) market analysis;
+  (d) management analysis and counseling;
+  (e) business planning and financial planning assistance;
+  (f) referrals to financial resources;
+  (g) referral to existing educational programs for training in such
+areas as marketing, accounting and other such training programs as may
+be necessary and available; and
+  (h) referral to business incubator facilities, where appropriate, for
+the purpose of entering into agreements to access shared support
+services.
+  6. Grants made pursuant to this section shall be subject to the
+following limitations:
+  (a) no grant shall be made to any one or any consortium of career
+education agencies and not-for-profit corporations in excess of
+seventy-five thousand dollars; and
+  (b) each grant shall be disbursed for payment of the cost of services
+and expenses of the program director, the instructors of the
+participating career education agency or not-for-profit corporation, the
+faculty and support personnel thereof and any other person in the
+service of providing instruction and counseling in furtherance of the
+program.
+```

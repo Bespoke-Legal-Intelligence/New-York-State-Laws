@@ -15,6 +15,7 @@
 - [§ 206-A Discrimination in hospital staff appointments and privileges prohibited](206a-discrimination-in-hospital-staff-appointments-and-privileges.md)
 - [§ 206-B Special requirements with respect to Lyme disease diagnosis](206b-special-requirements-with-respect-to-lyme-disease-diagnosis.md)
 - [§ 207 Health care and wellness education and outreach program](207-health-care-and-wellness-education-and-outreach-program.md)
+- [§ 207-A Tick-borne diseases and blood-borne pathogen impact study](207a-tick-borne-diseases-and-blood-borne-pathogen-impact-study.md)
 - [§ 208 Deputy commissioners; appointment; qualifications and duties](208-deputy-commissioners-appointment-qualifications-and-duties.md)
 - [§ 209 Deputy commissioners; compensation](209-deputy-commissioners-compensation.md)
 - [§ 210 Officers and employees; appointment](210-officers-and-employees-appointment.md)
@@ -39,6 +40,8 @@ Section 200.   Department of health; continuation.
         206-b. Special requirements with respect to Lyme disease
                  diagnosis.
         207.   Health care and wellness education and outreach program.
+        207-a. Tick-borne diseases and blood-borne pathogen impact
+                 study.
         208.   Deputy commissioners; appointment; qualifications and
                  duties.
         209.   Deputy commissioners; compensation.

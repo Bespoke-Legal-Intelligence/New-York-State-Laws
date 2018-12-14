@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1255", "kind": "section", "law_id": "PVH", "location_id": "1255", "path": "ARTICLE 28 › SECTION 1255", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1255.md", "title": "Program requirements; first home savings account"} -->
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1255", "kind": "section", "law_id": "PVH", "location_id": "1255", "path": "ARTICLE 28 › SECTION 1255", "repealed": true, "repealed_date": "2018-12-14", "source": "nys-laws:PVH/1255.md", "title": "Program requirements; first home savings account"} -->
 # Private Housing Finance Law § 1255 — Program requirements; first home savings account
 
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
+
+**Repealed** (14 Dec 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 1255. Program requirements; first home savings account. 1. First

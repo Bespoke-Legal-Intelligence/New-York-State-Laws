@@ -52,7 +52,6 @@
 - [§ 41.54 Roles and responsibilities of certain board members](41.54-roles-and-responsibilities-of-certain-board-members.md)
 - [§ 41.54\*2 Employee assistance programs](41.54-2-employee-assistance-programs.md)
 - [§ 41.55 Community mental health support and workforce reinvestment program](41.55-community-mental-health-support-and-workforce-reinvestment-program.md)
-- [§ 41.56 Adolescent suicide prevention advisory council](41.56-adolescent-suicide-prevention-advisory-council.md)
 - [§ 41.57 Compulsive gambling education and treatment program](41.57-compulsive-gambling-education-and-treatment-program.md)
 
 <details>
@@ -117,7 +116,6 @@ Section 41.01    Declaration of purpose.
         41.54*2  Employee assistance programs.
         41.55    Community mental health support and workforce
                    reinvestment program.
-        41.56    Adolescent suicide prevention advisory council.
         41.57    Compulsive gambling education and treatment program.
 ```
 

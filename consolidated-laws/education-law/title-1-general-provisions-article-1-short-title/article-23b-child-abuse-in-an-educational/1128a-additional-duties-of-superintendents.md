@@ -4,13 +4,26 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 23-B — Child Abuse In an Educational Setting](README.md)
 
 ```text
-  § 1128-a. Additional duties of superintendents. 1. Where a
-superintendent of schools forwards to law enforcement a report as
-described in paragraph (a) of subdivision one of section eleven hundred
-twenty-six of this article, he or she shall refer such report to the
-commissioner where the employee or volunteer alleged to have committed
-an act of child abuse as defined in this article holds a certification
-or license issued by the department.
+  § 1128-a. * Additional duties of superintendents.
+  * NB Effective until June 5, 2019
+  * Additional duties of school administrators and superintendents.
+  * NB Effective June 5, 2019
+  * 1. Where a superintendent of schools forwards to law enforcement a
+report as described in paragraph (a) of subdivision one of section
+eleven hundred twenty-six of this article, he or she shall refer such
+report to the commissioner where the employee or volunteer alleged to
+have committed an act of child abuse as defined in this article holds a
+certification or license issued by the department.
+  * NB Effective until June 5, 2019
+  * 1. Where a superintendent of schools or, in a school other than a
+school district or public school, the school administrator forwards to
+law enforcement a report as described in paragraph (a) of subdivision
+one or subdivision one-a of section eleven hundred twenty-six of this
+article, he or she shall refer such report to the commissioner where the
+employee or volunteer alleged to have committed an act of child abuse as
+defined in this article holds a certification or license issued by the
+department.
+  * NB Effective June 5, 2019
   2. A report which is made pursuant to this article and does not, after
 investigation, result in a criminal conviction shall be expunged from
 any record which may be kept by a school or school district with respect

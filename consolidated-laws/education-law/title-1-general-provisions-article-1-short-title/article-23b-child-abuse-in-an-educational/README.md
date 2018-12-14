@@ -15,6 +15,7 @@
 - [§ 1131 Actions upon criminal conviction of a licensed or certified school employee](1131-actions-upon-criminal-conviction-of-a-licensed.md)
 - [§ 1132 Duties of the commissioner; child abuse in an educational setting](1132-duties-of-the-commissioner-child-abuse.md)
 - [§ 1133 Unreported resignation against public policy](1133-unreported-resignation-against-public-policy.md)
+- [§ 1134 Reporting to the vulnerable persons' central register](1134-reporting-to-the-vulnerable-persons-central.md)
 
 <details>
 <summary>Official heading of Article 23-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -23,8 +24,8 @@
                               ARTICLE 23-B
                   CHILD ABUSE IN AN EDUCATIONAL SETTING
 Section 1125.   Definitions.
-        1126.   Duties  of  employees  specifically  enumerated  in this
-                  section upon receipt of an allegation of  child  abuse
+        1126.   Duties of employees specifically enumerated in this
+                  section upon receipt of an allegation of child abuse
                   in an educational setting.
         1127.   Confidentiality of records.
         1128.   Duties of school administrators and superintendents upon
@@ -33,11 +34,12 @@ Section 1125.   Definitions.
         1128-a. Additional duties of superintendents.
         1129.   Penalties for failure to comply.
         1130.   Notification by district attorney.
-        1131.   Actions  upon  criminal  conviction  of  a  licensed  or
+        1131.   Actions upon criminal conviction of a licensed or
                   certified school employee.
-        1132.   Duties  of  the  commissioner;   child   abuse   in   an
+        1132.   Duties of the commissioner; child abuse in an
                   educational setting.
         1133.   Unreported resignation against public policy.
+        1134.   Reporting to the vulnerable persons' central register.
 ```
 
 </details>

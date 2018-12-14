@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 181 (6 repealed) |
-| Last changed | 3 Aug 2018 |
+| Sections | 181 (7 repealed) |
+| Last changed | 14 Dec 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 Dec 2018](../../changes/2018/2018-12-14.md): 4 amended, 1 repealed
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 6 repealed
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 3 amended
 - [23 Mar 2018](../../changes/2018/2018-03-23.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [4 Aug 2017](../../changes/2017/2017-08-04.md): 1 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 1 amended, 1 added, 1 removed
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 7 amended
-- [3 Mar 2017](../../changes/2017/2017-03-03.md): 1 amended
 
 ## Contents
 
@@ -66,7 +66,7 @@ Assembly, do enact as follows:
 - [Article 7 — Industrial Effectiveness Program](article-07-industrial-effectiveness-program/)
 - [Article 7-A — Northern New York Power Proceeds Allocation Act](article-07a-northern-new-york-power-proceeds-allocation-act/)
 - [Article 8 — Economic Development Skills Training Program](article-08-economic-development-skills-training-program/)
-- [Article 9 — Entrepreneurial Assistance](article-09-entrepreneurial-assistance/)
+- [Article 9 — Entrepreneurship Assistance Centers](article-09-entrepreneurship-assistance-centers/)
 - [Article 9-A — Come Home to New York Program](article-09a-come-home-to-new-york-program/)
 - [Article 10 — International Trade](article-10-international-trade/)
 - [Article 11 — Regional Economic Development](article-11-regional-economic-development/)

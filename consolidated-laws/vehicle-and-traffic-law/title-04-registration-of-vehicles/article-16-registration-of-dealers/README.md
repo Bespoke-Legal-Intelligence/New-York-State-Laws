@@ -15,6 +15,7 @@
 - [§ 417 Certificates by retail dealers on sales of second hand motor vehicles](417-certificates-by-retail-dealers-on-sales-of-second-hand-motor.md)
 - [§ 417-A Mandatory disclosures by sellers prior to resale](417a-mandatory-disclosures-by-sellers-prior-to-resale.md)
 - [§ 417-B Mandatory disclosures by second-hand dealers prior to resale](417b-mandatory-disclosures-by-second-hand-dealers-prior-to-resale.md)
+- [§ 417-C Mandatory disclosures by sellers prior to resale](417c-mandatory-disclosures-by-sellers-prior-to-resale.md)
 - [§ 418 Punishment for violations](418-punishment-for-violations.md)
 - [§ 419 Recreational vehicle shows or exhibits](419-recreational-vehicle-shows-or-exhibits.md)
 
@@ -41,6 +42,7 @@ Section 415.   Registration of manufacturers, dealers, repairmen and
         417-a. Mandatory disclosures by sellers prior to resale.
         417-b. Mandatory disclosures by second-hand dealers prior to
                  resale.
+        417-c. Mandatory disclosures by sellers prior to resale.
         418.   Punishment for violations.
         419.   Recreational vehicle shows or exhibits.
 ```

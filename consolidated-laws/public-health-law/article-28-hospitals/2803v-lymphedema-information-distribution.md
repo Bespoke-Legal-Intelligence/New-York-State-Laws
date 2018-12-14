@@ -25,5 +25,6 @@ cause to be ineffective the drainage of the lymphatic system; or
 that may have interfered with the lymph drainage by severing local
 lymphatics in a manner that may jeopardize reconstitution and recovery
 of lymph drainage.
+  * NB There are 2 § 2803-v's
   * NB Effective January 29, 2019
 ```

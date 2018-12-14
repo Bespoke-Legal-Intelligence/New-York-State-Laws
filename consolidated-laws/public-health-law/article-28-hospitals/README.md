@@ -43,6 +43,7 @@
 - [§ 2803-T Preadmission information](2803t-preadmission-information.md)
 - [§ 2803-U Hospital substance use disorder policies and procedures](2803u-hospital-substance-use-disorder-policies-and-procedures.md)
 - [§ 2803-V Lymphedema information distribution](2803v-lymphedema-information-distribution.md)
+- [§ 2803-V\*2 Standing orders for newborn care in a hospital](2803v-2-standing-orders-for-newborn-care-in-a-hospital.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
 - [§ 2804-A State task force on clinical practice guidelines and medical technology assessment](2804a-state-task-force-on-clinical-practice-guidelines-and-medical-technology.md)
 - [§ 2805 Approval of hospitals; operating certificates](2805-approval-of-hospitals-operating-certificates.md)
@@ -188,6 +189,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2803-u.   Hospital substance use disorder policies and
                     procedures.
         2803-v.   Lymphedema information distribution.
+        2803-v*2. Standing orders for newborn care in a hospital.
         2804.     Units for hospital and health-related affairs.
         2804-a.   State task force on clinical practice guidelines and
                     medical technology assessment.

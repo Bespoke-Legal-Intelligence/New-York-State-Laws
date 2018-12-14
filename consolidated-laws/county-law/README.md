@@ -8,7 +8,7 @@
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
 | Sections | 445 (50 repealed) |
-| Last changed | 1 Jun 2018 |
+| Last changed | 14 Dec 2018 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 Dec 2018](../../changes/2018/2018-12-14.md): 1 amended
 - [1 Jun 2018](../../changes/2018/2018-06-01.md): 1 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 2 amended
 - [23 Feb 2018](../../changes/2018/2018-02-23.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [7 Oct 2016](../../changes/2016/2016-10-07.md): 1 amended
 - [27 Nov 2015](../../changes/2015/2015-11-27.md): 2 amended, 1 added
 - [2 Oct 2015](../../changes/2015/2015-10-02.md): 1 amended
-- [10 Jul 2015](../../changes/2015/2015-07-10.md): 1 amended
 
 ## Contents
 

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 213", "kind": "section", "law_id": "COM", "location_id": "213", "path": "ARTICLE 9 › SECTION 213", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/213.md", "title": "Reporting"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 213", "kind": "section", "law_id": "COM", "location_id": "213", "path": "ARTICLE 9 › SECTION 213", "repealed": true, "repealed_date": "2018-12-14", "source": "nys-laws:COM/213.md", "title": "Reporting"} -->
 # Economic Development Law § 213 — Reporting
 
-[Economic Development Law](../README.md) › [Article 9 — Entrepreneurial Assistance](README.md)
+[Economic Development Law](../README.md) › [Article 9 — Entrepreneurship Assistance Centers](README.md)
+
+**Repealed** (14 Dec 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 213. Reporting. The department shall:

@@ -17,6 +17,7 @@
 - [§ 7.19 Personnel of the office](7.19-personnel-of-the-office.md)
 - [§ 7.21 Directors of facilities](7.21-directors-of-facilities.md)
 - [§ 7.23 Education and training](7.23-education-and-training.md)
+- [§ 7.24 Mental health disorder hospital discharge; policies and procedures](7.24-mental-health-disorder-hospital-discharge-policies-and-procedures.md)
 - [§ 7.25 Safety](7.25-safety.md)
 - [§ 7.27 Facility services](7.27-facility-services.md)
 - [§ 7.29 Gifts](7.29-gifts.md)
@@ -53,6 +54,8 @@ Section 7.01    Declaration of policy.
         7.19    Personnel of the office.
         7.21    Directors of facilities.
         7.23    Education and training.
+        7.24    Mental health disorder hospital discharge; policies and
+                  procedures.
         7.25    Safety.
         7.27    Facility services.
         7.29    Gifts.

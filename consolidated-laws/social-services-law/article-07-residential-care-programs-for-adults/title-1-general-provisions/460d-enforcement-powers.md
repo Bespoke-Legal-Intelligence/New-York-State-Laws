@@ -366,4 +366,8 @@ shall be prohibited from applying to the department of health or to any
 other agency of this state for an operating certificate or approval to
 operate an alternate type of facility during the period in which such
 certificate has been revoked, suspended or limited.
+  17. The department of health shall provide written notification to
+residents of all adult homes, enriched housing programs, residences for
+adults and assisted living programs where a temporary operator has been
+appointed pursuant to subdivision four of this section.
 ```

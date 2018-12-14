@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1251", "kind": "section", "law_id": "PVH", "location_id": "1251", "path": "ARTICLE 28 › SECTION 1251", "repealed": false, "repealed_date": null, "source": "nys-laws:PVH/1251.md", "title": "Purposes"} -->
+﻿<!-- nyslaw {"citation": "Private Housing Finance Law § 1251", "kind": "section", "law_id": "PVH", "location_id": "1251", "path": "ARTICLE 28 › SECTION 1251", "repealed": true, "repealed_date": "2018-12-14", "source": "nys-laws:PVH/1251.md", "title": "Purposes"} -->
 # Private Housing Finance Law § 1251 — Purposes
 
 [Private Housing Finance Law](../README.md) › [Article 28 — New York State First Home Savings Program](README.md)
+
+**Repealed** (14 Dec 2018). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 1251. Purposes. The purposes of the program shall be to authorize

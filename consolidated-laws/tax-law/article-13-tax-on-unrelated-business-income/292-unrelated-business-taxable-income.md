@@ -31,7 +31,8 @@ allowable under paragraph six of subsection (b) of section five hundred
 twelve of the internal revenue code of nineteen hundred fifty-four.
   (4) There shall be subtracted from federal unrelated business taxable
 income any amount which is included therein solely by reason of the
-application of section 501(m)(2)(A) of the internal revenue code.
+application of section 501(m)(2)(A) or 512(a)(7) of the internal revenue
+code.
   (5) Shareholders of S corporations. (A) In the case of a shareholder
 of an S corporation,
   (i) where the election provided for in subsection (a) of section six
