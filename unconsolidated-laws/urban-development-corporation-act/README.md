@@ -30,7 +30,7 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (117 lines)](chapter-text.md)
+[Full chapter text (118 lines)](chapter-text.md)
 
 ## Recent changes
 

@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 14 Dec 2018.*
+*Current through the publication of 21 Dec 2018.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -29,9 +29,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 165 |
-| [Education Law](consolidated-laws/education-law/README.md) | 137 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 114 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 84 |
+| [Education Law](consolidated-laws/education-law/README.md) | 136 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 113 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 82 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 76 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 69 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 66 |
@@ -40,9 +40,9 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 56 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 44 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 41 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 39 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 39 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 38 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 38 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 37 |
 
 ## Consolidated Laws
 
