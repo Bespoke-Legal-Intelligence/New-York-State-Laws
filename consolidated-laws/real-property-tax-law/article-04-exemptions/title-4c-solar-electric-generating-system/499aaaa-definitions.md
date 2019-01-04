@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-AAAA", "kind": "section", "law_id": "RPT", "location_id": "499-AAAA", "path": "ARTICLE 4 › TITLE 4-C › SECTION 499-AAAA", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-AAAA.md", "title": "Definitions"} -->
 # Real Property Tax Law § 499-AAAA — Definitions
 
-[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
 
 ```text
   § 499-aaaa. Definitions. When used in this title, the following terms
@@ -12,8 +12,9 @@ managers of a condominium or the board of directors of a cooperative
 apartment corporation, or (b) with respect to any other eligible
 building, the owner of such building.
   2. "Application for tax abatement" shall mean an application for a
-solar electric generating system tax abatement pursuant to section four
-hundred ninety-nine-cccc of this title.
+solar electric generating system or electric energy storage equipment
+tax abatement pursuant to section four hundred ninety-nine-cccc of this
+title.
   3. "Architect" shall mean a person licensed and registered to practice
 the profession of architecture under the education law.
   4. "Compliance period" shall mean the tax year in which a tax
@@ -29,14 +30,16 @@ real property, as defined in subdivision one of section eighteen hundred
 two of this chapter, located within a city having a population of one
 million or more persons. No building shall be eligible for more than one
 tax abatement pursuant to this title.
-  8. "Eligible solar electric generating system expenditures" shall mean
+  8. "Eligible solar electric generating system expenditures" and
+"eligible electric energy storage equipment expenditures" shall mean
 reasonable expenditures for materials, labor costs properly allocable to
 on-site preparation, assembly and original installation, architectural
 and engineering services, and designs and plans directly related to the
-construction or installation of a solar electric generating system
-installed in connection with an eligible building. Such eligible
-expenditures shall not include interest or other finance charges, or any
-expenditures incurred using a federal, state or local grant.
+construction or installation of a solar electric generating system or
+electric energy storage equipment installed in connection with an
+eligible building. Such eligible expenditures shall not include interest
+or other finance charges, or any expenditures incurred using a federal,
+state or local grant.
   9. "Engineer" shall mean a person licensed and registered to practice
 the profession of engineering under the education law.
   10. "Solar electric generating system" shall mean a system that uses
@@ -45,4 +48,11 @@ equipment connected to a solar electric generating system that is a
 component of part or parts of a non-solar electric generating system or
 that uses any sort of recreational facility or equipment as a storage
 medium.
+  11. "Electric energy storage equipment" means a set of technologies
+capable of storing electric energy and releasing that energy as electric
+power at a later time. Electric energy storage technologies may store
+energy as potential, kinetic, chemical or thermal energy that can be
+released as electric power, and include, but are not limited to, various
+types of batteries, flywheels, electrochemical capacitors, compressed
+air storage and thermal storage devices.
 ```

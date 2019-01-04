@@ -107,4 +107,12 @@ thirteen hundred ninety-nine-n of this article.
   b. "Electronic cigarette" or "e-cigarette" shall have the same meaning
 as in subdivision thirteen of section thirteen hundred ninety-nine-aa of
 this chapter.
+  * 6. Smoking shall not be permitted and no person shall smoke within
+one hundred feet of the entrances, exits or outdoor areas of any public
+or association library as defined in subdivision two of section two
+hundred fifty-three of the education law; provided, however, that the
+provisions of this subdivision shall not apply to smoking in a
+residence, or within the real property boundary lines of such
+residential real property.
+  * NB Effective June 19, 2019
 ```

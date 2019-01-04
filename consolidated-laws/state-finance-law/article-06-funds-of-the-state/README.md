@@ -23,6 +23,7 @@
 - [§ 79 World Trade Center memorial foundation fund](79-world-trade-center-memorial-foundation-fund.md)
 - [§ 80 Real estate finance bureau fund](80-real-estate-finance-bureau-fund.md)
 - [§ 81 Veterans' home assistance fund](81-veterans-home-assistance-fund.md)
+- [§ 82 Gifts to food banks fund](82-gifts-to-food-banks-fund.md)
 - [§ 83 Conservation fund](83-conservation-fund.md)
 - [§ 83-A Habitat conservation and access account](83a-habitat-conservation-and-access-account.md)
 - [§ 84 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](84-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
@@ -38,6 +39,7 @@
 - [§ 89-F Workers' compensation security fund payment account](89f-workers-compensation-security-fund-payment-account.md)
 - [§ 89-G Accident prevention course internet, and other technology pilot program fund](89g-accident-prevention-course-internet-and-other-technology-pilot-program-fund.md)
 - [§ 89-H Medical marihuana trust fund](89h-medical-marihuana-trust-fund.md)
+- [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
 - [§ 90 New York state department of transportation highway safety program fund](90-new-york-state-department-of-transportation-highway-safety-program-fund.md)
 - [§ 90-A New York state passenger facility charge fund](90a-new-york-state-passenger-facility-charge-fund.md)
 - [§ 91 Transportation safety account](91-transportation-safety-account.md)
@@ -277,6 +279,7 @@ Section 70.        Classification of funds.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
         81.        Veterans' home assistance fund.
+        82.        Gifts to food banks fund.
         83.        Conservation fund.
         83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid
@@ -295,6 +298,7 @@ Section 70.        Classification of funds.
         89-g.      Accident prevention course internet, and other
                      technology pilot program fund.
         89-h.      Medical marihuana trust fund.
+        89-i.      Military family relief fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.

@@ -289,7 +289,7 @@ Article
                    II.   Licensing and registration (§§3502-3509).
                   III.   Violations; penalties (§§3510-3514).
                    IV.   Construction (§§3515-3518).
-  35-A.    Ultraviolet radiation devices (§§3550-3555).
+  35-A.    Ultraviolet radiation devices (§§3550-3556).
   36.      Home Care Services (§§3600-3622).
   36-A.    Medical equipment service agencies (§§3650-3656).
   37.      Physician's assistants and specialist's assistants

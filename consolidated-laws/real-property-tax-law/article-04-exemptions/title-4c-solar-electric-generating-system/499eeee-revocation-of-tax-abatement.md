@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-EEEE", "kind": "section", "law_id": "RPT", "location_id": "499-EEEE", "path": "ARTICLE 4 › TITLE 4-C › SECTION 499-EEEE", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-EEEE.md", "title": "Revocation of tax abatement"} -->
 # Real Property Tax Law § 499-EEEE — Revocation of tax abatement
 
-[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
 
 ```text
   § 499-eeee. Revocation of tax abatement. 1. The department of finance
@@ -16,12 +16,14 @@ this title;
   (b) an eligible building has not been in compliance at any time during
 the compliance period with a requirement of this title or any rule
 promulgated hereunder;
-  (c) the solar electric generating system for which a tax abatement was
-granted has at any time during the compliance period failed to meet any
-requirement for a solar electric generating system pursuant to this
-title or any rule promulgated hereunder;
-  (d) the solar electric generating system has become a fire or safety
-hazard at any time during the compliance period; or
+  (c) the solar electric generating system or electric energy storage
+equipment for which a tax abatement was granted has at any time during
+the compliance period failed to meet any requirement for a solar
+electric generating system or electric energy storage equipment pursuant
+to this title or any rule promulgated hereunder;
+  (d) the solar electric generating system or electric energy storage
+equipment has become a fire or safety hazard at any time during the
+compliance period; or
   (e) an application, certification, report or other document submitted
 by the applicant contains a false or misleading statement as to a
 material fact or omits to state any material fact necessary in order to

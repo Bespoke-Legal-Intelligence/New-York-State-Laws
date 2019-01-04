@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Real Property Tax Law § 499-FFFF", "kind": "section", "law_id": "RPT", "location_id": "499-FFFF", "path": "ARTICLE 4 › TITLE 4-C › SECTION 499-FFFF", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/499-FFFF.md", "title": "Enforcement and administration"} -->
 # Real Property Tax Law § 499-FFFF — Enforcement and administration
 
-[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](README.md)
 
 ```text
   § 499-ffff. Enforcement and administration. 1. The department of
@@ -21,14 +21,16 @@ following functions, powers and duties to be exercised in accordance
 with this title:
   (a) to receive, review, approve and deny applications for tax
 abatement;
-  (b) to inspect solar electric generating systems and any related
-structures and equipment;
+  (b) to inspect solar electric generating systems or electric energy
+storage equipment and any related structures and equipment;
   (c) to establish permit or certification requirements to determine
-when the solar electric generating system has been placed in service,
-such as certification by an architect, engineer or other certified or
-licensed professional whom a designated agency designates by rule;
+when the solar electric generating system or electric energy storage
+equipment has been placed in service, such as certification by an
+architect, engineer or other certified or licensed professional whom a
+designated agency designates by rule;
   (d) to establish guidance and procedures for determining or certifying
-eligible solar electric generating system expenditures;
+eligible solar electric generating system or electric energy storage
+equipment expenditures;
   (e) to prescribe forms and make and promulgate rules to carry out the
 purposes of this title;
   (f) to make the determinations provided for in sections four hundred

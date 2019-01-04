@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Civil Service Law § 59-B", "kind": "section", "law_id": "CVS", "location_id": "59-B", "path": "ARTICLE 4 › TITLE A › SECTION 59-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/59-B.md", "title": "Promotions of supervisory personnel of the emergency medical service"} -->
+# Civil Service Law § 59-B — Promotions of supervisory personnel of the emergency medical service
+
+[Civil Service Law](../../README.md) › [Article 4 — Recruitment of Personnel](../README.md) › [Title A — Examinations and Eligible Lists](README.md)
+
+```text
+  § 59-b. Promotions of supervisory personnel of the emergency medical
+service. 1. The legislature hereby finds and declares that the
+continued, uninterrupted, adequate and efficient operation of emergency
+medical services is necessary for the general welfare of the people;
+that such adequate operation involves and requires personnel with highly
+specialized ability, skill, training and knowledge, which necessitate
+that vacancies in the emergency medical services in the positions of
+Supervising Emergency Medical Service Specialist Level II (Captains),
+Deputy Chief, Division Chief, and Division Commander, shall be filled as
+far as practicable by promotion from among persons holding competitive
+class positions in a lower grade in the department in which the vacancy
+exists, provided that such lower grade positions are in direct line of
+promotion, as determined by the department or municipal commission.
+  2. Promotion shall be based on merit and fitness as determined by
+competitive examination, due weight being given to seniority. The
+previous training and experience of the candidates, and performance
+ratings where available, may be considered and given due weight as
+factors in determining the relative merit and fitness of candidates for
+promotion.
+  3. Any employee holding a provisional or discretionary appointment in
+the affected supervisory titles of the emergency medical service
+described in subdivision one of this section shall be given the
+opportunity to participate in a competitive promotional examination for
+the next higher level title.
+  4. Except as provided above, the provisions of this chapter shall
+apply to employees covered by this section.
+```

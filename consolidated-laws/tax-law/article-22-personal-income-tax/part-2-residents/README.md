@@ -22,6 +22,7 @@
 - [§ 621 Credits to trust beneficiary receiving accumulation distribution](621-credits-to-trust-beneficiary-receiving-accumulation-distribution.md)
 - [§ 624 Computation of separate tax on the ordinary income portion of lump sum distributions received by resident individuals, estates and trusts](624-computation-of-separate-tax-on-the-ordinary-income-portion-of-lump-sum.md)
 - [§ 625 Gift for fish and wildlife management](625-gift-for-fish-and-wildlife-management.md)
+- [§ 625-A Gifts to food banks](625a-gifts-to-food-banks.md)
 - [§ 626 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](626-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
 - [§ 627 Gift for breast cancer research and education](627-gift-for-breast-cancer-research-and-education.md)
 - [§ 627-A Gift for honor and remembrance of veterans](627a-gift-for-honor-and-remembrance-of-veterans.md)
@@ -41,6 +42,8 @@
 - [§ 630-F\*2 Gift for ALS research and education](630f-2-gift-for-als-research-and-education.md)
 - [§ 630-F\*3 Gift for school-based health centers](630f-3-gift-for-school-based-health-centers.md)
 - [§ 630-F\*4 Gift for lupus education and prevention](630f-4-gift-for-lupus-education-and-prevention.md)
+- [§ 630-F\*5 Gift for military families](630f-5-gift-for-military-families.md)
+- [§ 630-F\*6 Gift for city university of New York](630f-6-gift-for-city-university-of-new-york.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -67,6 +70,7 @@ Section 611.     New York taxable income of a resident individual.
                    portion of lump sum distributions received by
                    resident individuals, estates and trusts.
         625.     Gift for fish and wildlife management.
+        625-a.   Gifts to food banks.
         626.     The United States Olympic Committee/Lake Placid Olympic
                    Training Center Fund.
         627.     Gift for breast cancer research and education.
@@ -91,6 +95,8 @@ Section 611.     New York taxable income of a resident individual.
         630-f*2. Gift for ALS research and education.
         630-f*3. Gift for school-based health centers.
         630-f*4. Gift for lupus education and prevention.
+        630-f*5. Gift for military families.
+        630-f*6. Gift for city university of New York.
 ```
 
 </details>

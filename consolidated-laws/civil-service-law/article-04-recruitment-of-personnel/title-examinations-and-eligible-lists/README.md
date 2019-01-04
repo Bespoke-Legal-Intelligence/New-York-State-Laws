@@ -25,6 +25,7 @@
 - [§ 58-A Requirements for provisional or permanent appointment of certain fire fighters](58a-requirements-for-provisional-or-permanent-appointment.md)
 - [§ 59 Placement of county sheriffs' personnel in classified service](59-placement-of-county-sheriffs-personnel-in-classified-service.md)
 - [§ 59-A Placement of detectives and investigators in classified service](59a-placement-of-detectives-and-investigators-in-classified.md)
+- [§ 59-B Promotions of supervisory personnel of the emergency medical service](59b-promotions-of-supervisory-personnel-of-the-emergency-medical.md)
 
 <details>
 <summary>Official heading of Title A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -57,6 +58,8 @@ Section 50.     Examinations generally.
                   service.
         59-a.   Placement of detectives and investigators in classified
                   service.
+        59-b.   Promotions of supervisory personnel of the emergency
+                  medical service.
 ```
 
 </details>

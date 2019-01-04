@@ -18,5 +18,5 @@ of law all revenues collected pursuant to this section shall be credited
 to the New York state ALS research and education fund and used only for
 those purposes enumerated in section ninety-five-i of the state finance
 law.
-  * NB There are 4 § 630-f's
+  * NB There are 6 § 630-f's
 ```

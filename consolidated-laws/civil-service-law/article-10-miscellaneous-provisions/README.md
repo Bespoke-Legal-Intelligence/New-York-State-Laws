@@ -16,7 +16,6 @@
 - [§ 159 Group insurance or mass merchandising policies or programs](159-group-insurance-or-mass-merchandising-policies-or-programs.md)
 - [§ 159-A Disability program](159a-disability-program.md)
 - [§ 159-B Excused leave to undertake a screening for cancer](159b-excused-leave-to-undertake-a-screening-for-cancer.md)
-- [§ 159-C Excused leave to undertake a screening for prostate cancer](159c-excused-leave-to-undertake-a-screening-for-prostate-cancer.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

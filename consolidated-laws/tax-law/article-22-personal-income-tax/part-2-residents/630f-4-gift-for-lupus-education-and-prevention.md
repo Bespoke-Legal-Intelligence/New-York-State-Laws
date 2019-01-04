@@ -16,5 +16,5 @@ other provision of law all revenues collected pursuant to this section
 shall be credited to the lupus education and prevention fund and used
 only for those purposes enumerated in section ninety-seven-rrrr of the
 state finance law.
-  * NB There are 4 § 630-f's
+  * NB There are 6 § 630-f's
 ```

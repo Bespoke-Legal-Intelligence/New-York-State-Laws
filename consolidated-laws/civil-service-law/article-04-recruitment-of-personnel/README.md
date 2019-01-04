@@ -14,7 +14,7 @@
 ```text
                                ARTICLE IV
                         RECRUITMENT OF PERSONNEL
-Title A. Examinations and eligible lists (§§ 50--59-a).
+Title A. Examinations and eligible lists (§§ 50--59-b).
       B. Appointment and promotion (§§ 60-65).
 ```
 

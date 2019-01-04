@@ -16,6 +16,6 @@ collected pursuant to this section shall be credited to the life pass it
 on trust fund and used only for those purposes enumerated in section
 ninety-five-d of the state finance law, as added by chapter four hundred
 fifteen of the laws of two thousand three.
-  * NB There are 4 § 630-f's
+  * NB There are 6 § 630-f's
   * NB Effective January 1, 2019
 ```

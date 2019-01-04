@@ -19,5 +19,5 @@ booklet. Notwithstanding any other provision of law all revenues
 collected pursuant to this section shall be credited to the school-based
 health centers fund and used only for those purposes enumerated in
 section ninety-nine-bb of the state finance law.
-  * NB There are 4 § 630-f's
+  * NB There are 6 § 630-f's
 ```

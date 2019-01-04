@@ -34,6 +34,7 @@
 - [§ 837-S Search for sex offense conviction records of emergency medical technician and other first responder applicants](837s-search-for-sex-offense-conviction-records-of-emergency-medical-technician.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
+- [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
 - [§ 839 Municipal police training council](839-municipal-police-training-council.md)
 - [§ 840 Functions, powers and duties of council](840-functions-powers-and-duties-of-council.md)
 - [§ 841 Functions, powers and duties of the commissioner with respect to the council](841-functions-powers-and-duties-of-the-commissioner-with-respect-to-the-council.md)
@@ -95,6 +96,7 @@ Section 835.     Definitions.
                    applicants.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
+        838-b.   Victim's right to notice.
         839.     Municipal police training council.
         840.     Functions, powers and duties of council.
         841.     Functions, powers and duties of the commissioner with

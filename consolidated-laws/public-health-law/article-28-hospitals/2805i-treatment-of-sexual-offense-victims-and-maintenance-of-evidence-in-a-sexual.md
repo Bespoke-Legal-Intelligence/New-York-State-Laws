@@ -201,13 +201,93 @@ identify the offenses subject to the provisions of this section, provide
 a specific definition of sexual offense evidence and require each
 hospital to contact its local police agency and forensic laboratory to
 determine their specific needs or requirements.
-  6. On or before November thirtieth, two thousand two, the commissioner
-shall make a report to the governor, the temporary president of the
-senate and the speaker of the assembly concerning the sexual assault
-forensic examiner program established under subdivision four-b of this
-section. Such report shall include an evaluation of the efficacy of such
-program in obtaining useful forensic evidence in sexual offense cases
-and assuring quality treatment to sex offense victims. Such report shall
-also recommend whether this program should be expanded and shall
-estimate the financial cost, if any, of such expansion.
+  * 6. On or before November thirtieth, two thousand two, the
+commissioner shall make a report to the governor, the temporary
+president of the senate and the speaker of the assembly concerning the
+sexual assault forensic examiner program established under subdivision
+four-b of this section. Such report shall include an evaluation of the
+efficacy of such program in obtaining useful forensic evidence in sexual
+offense cases and assuring quality treatment to sex offense victims.
+Such report shall also recommend whether this program should be expanded
+and shall estimate the financial cost, if any, of such expansion.
+  * NB Effective until June 19, 2019
+  * 6. (a) The department, in consultation with the division of criminal
+justice services, the office of victim services, hospitals, other health
+care providers and victim advocacy organizations, shall publish a sexual
+assault victim bill of rights for purposes of informing sexual offense
+victims of their rights under state law. Such bill of rights shall be
+prominently published on the department's website, in at least the ten
+most common languages spoken in this state, and distributed to hospitals
+as a document which shall be provided to every presenting sexual offense
+victim. The department may update the bill of rights as necessary to
+reflect changes in state law and more accurately explain the law. Such
+bill of rights shall be in plain, easy to understand language, and
+include the right of the victim to:
+  (1) consult with a local rape crisis or local victim assistance
+organization, to have a representative of such organization accompany
+the victim through the sexual offense examination, and to have such an
+organization be summoned by the medical facility, police agency,
+prosecutorial agency or other law enforcement agency before the
+commencement of the physical examination or interview, pursuant to this
+section;
+  (2) be offered and have made available at no cost appropriate
+post-exposure treatment therapies, including a seven day starter pack of
+HIV post-exposure prophylaxis in accordance with paragraph (c) of
+subdivision one of this section and subdivision thirteen of section six
+hundred thirty-one of the executive law;
+  (3) a health care forensic examination at no cost and the right to be
+notified of the option to decline to provide private health insurance
+information and have the office of victim services reimburse the
+hospital for the examination under subdivision thirteen of section six
+hundred thirty-one of the executive law;
+  (4) receive information relating to and the provision of emergency
+contraception in accordance with section twenty-eight hundred five-p of
+this article;
+  (5) be offered contact information for the police agency,
+prosecutorial agency or other law enforcement agency with jurisdiction
+over the sexual offense and be informed, upon request of the victim, of
+the date and location at which such sexual offense evidence kit was
+assessed for Combined DNA Index System (CODIS) eligibility and analyzed,
+whether a CODIS eligible profile was developed and whether or not a DNA
+match was identified, provided, however, that the police agency,
+prosecutorial agency or other law enforcement agency serving the
+jurisdiction may temporarily delay release of such DNA match information
+to the victim, prior to the arrest of a suspect alleged to have
+committed such offense, if such agency documents in writing and notifies
+the victim that release of such information would compromise the
+successful investigation of such sexual offense;
+  (6) be notified between thirty and ten days prior to the transfer of a
+sexual offense evidence kit from the hospital to another storage
+facility in accordance with paragraph (h) of subdivision two of this
+section, the right to have a sexual offense evidence kit maintained at
+an appropriate storage facility for twenty years from the date of
+collection, the right, if not previously consented to, to consent to
+release the evidence to law enforcement at any time during the twenty
+years from collection, and the right to be notified by such facility at
+least ninety days prior to the expiration of the twenty-year storage
+period in accordance with paragraph (k) of subdivision two of this
+section; and
+  (7) be notified by the prosecutorial agency with jurisdiction of
+judicial proceedings relating to their case in accordance with article
+twenty-three of the executive law; and
+  (8) decide whether or not the victim wishes to report the offense to
+law enforcement.
+  (b) Before a medical facility commences a physical examination of a
+sexual offense victim, or a police agency, prosecutorial agency or other
+law enforcement agency commences an interview of a sexual offense
+victim, the health care professional conducting the exam, police agency,
+prosecutorial agency or other law enforcement agency shall inform the
+victim of the victim's rights by providing a copy of this sexual assault
+victim bill of rights and offering to explain such rights.
+  * NB Effective June 19, 2019
+  * 7. On or before November thirtieth, two thousand two, the
+commissioner shall make a report to the governor, the temporary
+president of the senate and the speaker of the assembly concerning the
+sexual assault forensic examiner program established under subdivision
+four-b of this section. Such report shall include an evaluation of the
+efficacy of such program in obtaining useful forensic evidence in sexual
+offense cases and assuring quality treatment to sex offense victims.
+Such report shall also recommend whether this program should be expanded
+and shall estimate the financial cost, if any, of such expansion.
+  * NB Effective June 19, 2019
 ```

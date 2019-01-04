@@ -767,6 +767,18 @@ the state's remainder interest in the trust, or such other action or
 proceeding as may be lawful and appropriate as to assure compliance by
 the trustee or to safeguard and enforce the state's remainder interest
 in the trust.
+  (vi) The department shall provide written notice to an applicant for
+or recipient of medical assistance who is or reasonably appears to be
+eligible for medical assistance except for having income exceeding
+applicable income levels. The notice shall inform the applicant or
+recipient, in plain language, that in certain circumstances the medical
+assistance program does not count the income of disabled applicants and
+recipients if it is placed in a trust described in clause (iii) of this
+subparagraph. The notice shall be included with the eligibility notice
+provided to such applicants and recipients and shall reference where
+additional information may be found on the department's website. This
+clause shall not be construed to change any criterion for eligibility
+for medical assistance.
   * NB There are 2 sb 2 ¶(b)'s
   (3) (a) Social services officials shall authorize medical assistance
 for persons who would be eligible for such assistance except that their
@@ -1435,22 +1447,7 @@ the individual under any circumstances is considered to be a transfer of
 assets by the individual for purposes of this section as of the date of
 establishment of the trust, or, if later, the date on which the payment
 to the individual is foreclosed.
-  (f) The department shall provide written notice under this paragraph
-to an applicant for or recipient of medical assistance who is or
-reasonably appears to be eligible for medical assistance under
-subparagraph two of paragraph (c) of subdivision one of this section,
-except for having income exceeding applicable income levels. The notice
-shall explain, in plain language, the rules for depositing income in a
-trust that may enable an applicant or recipient who is disabled to
-become eligible for medical assistance under clause (iii) of
-subparagraph two of paragraph (b) of subdivision two of this section.
-The notice shall be included with the eligibility notice provided to
-such applicants and recipients. The notice shall include information on
-how to enroll in such a trust and how to request that the local social
-services district rebudget medical assistance based on participation in
-such a trust. This paragraph shall not be construed to change any
-criterion for eligibility for medical assistance.
-  (g) The commissioner shall promulgate such rules and regulations as
+  (f) The commissioner shall promulgate such rules and regulations as
 may be necessary to carry out the provisions of this subdivision.
   * 6. a. The commissioner of health shall apply for a home and
 community-based services waiver pursuant to subdivision (c) of section

@@ -11,6 +11,7 @@
 - [§ 3553 Fees](3553-fees.md)
 - [§ 3554 Powers and duties of the commissioner](3554-powers-and-duties-of-the-commissioner.md)
 - [§ 3555 Restrictions on the use of ultraviolet radiation devices](3555-restrictions-on-the-use-of-ultraviolet-radiation-devices.md)
+- [§ 3556 Ultraviolet nail drying devices](3556-ultraviolet-nail-drying-devices.md)
 
 <details>
 <summary>Official heading of Article 35-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +25,7 @@ Section 3550. Definitions.
         3553. Fees.
         3554. Powers and duties of the commissioner.
         3555. Restrictions on the use of ultraviolet radiation devices.
+        3556. Ultraviolet nail drying devices.
 ```
 
 </details>

@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "RPT", "location_id": "A4T4-C", "path": "ARTICLE 4 › TITLE 4-C", "source": "nys-laws:RPT/A4T4-C.md", "title": "Solar Electric Generating System Tax Abatement For Certain Properties In a City of One Million or More Persons"} -->
-# Title 4-C — Solar Electric Generating System Tax Abatement For Certain Properties In a City of One Million or More Persons
+﻿<!-- nyslaw {"kind": "container", "law_id": "RPT", "location_id": "A4T4-C", "path": "ARTICLE 4 › TITLE 4-C", "source": "nys-laws:RPT/A4T4-C.md", "title": "Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons"} -->
+# Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons
 
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md)
 
@@ -18,8 +18,9 @@
 
 ```text
                                 TITLE 4-C
-             SOLAR ELECTRIC GENERATING SYSTEM TAX ABATEMENT
-     FOR CERTAIN PROPERTIES IN A CITY OF ONE MILLION OR MORE PERSONS
+ SOLAR ELECTRIC GENERATING SYSTEM AND ELECTRIC ENERGY STORAGE EQUIPMENT
+  TAX ABATEMENT FOR CERTAIN PROPERTIES IN A CITY OF ONE MILLION OR MORE
+                                 PERSONS
 Section 499-aaaa. Definitions.
         499-bbbb. Real property tax abatement.
         499-cccc. Application for tax abatement.

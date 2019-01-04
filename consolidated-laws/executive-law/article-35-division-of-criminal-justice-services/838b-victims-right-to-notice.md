@@ -1,0 +1,27 @@
+﻿<!-- nyslaw {"citation": "Executive Law § 838-B", "kind": "section", "law_id": "EXC", "location_id": "838-B", "path": "ARTICLE 35 › SECTION 838-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/838-B.md", "title": "Victim's right to notice"} -->
+# Executive Law § 838-B — Victim's right to notice
+
+[Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
+
+```text
+  * § 838-b. Victim's right to notice. Each police agency, prosecutorial
+agency and other law enforcement agency with jurisdiction over a sexual
+offense shall, upon request of the victim who has consented to report
+such offense to law enforcement, provide the sexual offense victim with
+notice of the date and location at which sexual offense evidence
+collected or received from such victim is assessed for CODIS eligibility
+and analyzed, whether a CODIS eligible profile was developed and whether
+or not a DNA match was identified, provided, however, that the police
+agency, prosecutorial agency or other law enforcement agency serving the
+jurisdiction may temporarily delay release of such DNA match information
+to the victim, prior to the arrest of a suspect alleged to have
+committed such offense, if such agency documents in writing and notifies
+the victim that release of such information would compromise the
+successful investigation of such sexual offense. The police or
+prosecutorial agency or other law enforcement agency in possession of a
+sexual offense evidence kit shall notify the sexual offense victim at
+least ninety days prior to the expiration of the twenty-year storage
+period in accordance with paragraph (k) of subdivision two of section
+twenty-eight hundred five-i of the public health law.
+  * NB Effective June 19, 2019
+```

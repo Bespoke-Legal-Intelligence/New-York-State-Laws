@@ -8,6 +8,7 @@
 - [§ 19.01 Purpose](19.01-purpose.md)
 - [§ 19.03 Powers, functions and duties; commissioner](19.03-powers-functions-and-duties.md)
 - [§ 19.05 Historic sites](19.05-historic-sites.md)
+- [§ 19.07 People's history project](19.07-peoples-history-project.md)
 - [§ 19.11 Functions of education department](19.11-functions-of-education-department.md)
 
 <details>
@@ -19,6 +20,7 @@
 Section 19.01 Purpose.
         19.03 Powers, functions and duties; commissioner.
         19.05 Historic sites.
+        19.07 People's history project.
         19.11 Functions of education department.
 ```
 

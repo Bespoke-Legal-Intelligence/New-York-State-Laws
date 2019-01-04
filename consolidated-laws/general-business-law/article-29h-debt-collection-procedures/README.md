@@ -7,6 +7,7 @@
 
 - [§ 600 Definitions](600-definitions.md)
 - [§ 601 Prohibited practices](601-prohibited-practices.md)
+- [§ 601-A Disclosure by principal creditors and/or debt collection agencies](601a-disclosure-by-principal-creditors-and-or-debt-collection-agencies.md)
 - [§ 602 Violations and penalties](602-violations-and-penalties.md)
 - [§ 603 Severability](603-severability.md)
 
@@ -15,11 +16,13 @@
 
 ```text
                               ARTICLE 29-H
-                        DEBT COLLECTION PROCEDURES
-Section 600. Definitions.
-        601. Prohibited practices.
-        602. Violations and penalties.
-        603. Severability.
+                       DEBT COLLECTION PROCEDURES
+Section 600.   Definitions.
+        601.   Prohibited practices.
+        601-a. Disclosure by principal creditors and/or debt collection
+                 agencies.
+        602.   Violations and penalties.
+        603.   Severability.
 ```
 
 </details>
