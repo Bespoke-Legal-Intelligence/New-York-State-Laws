@@ -14,7 +14,7 @@
 - [§ 120.05 Assault in the second degree](120.05-assault-in-the-second-degree.md)
 - [§ 120.06 Gang assault in the second degree](120.06-gang-assault-in-the-second-degree.md)
 - [§ 120.07 Gang assault in the first degree](120.07-gang-assault-in-the-first-degree.md)
-- [§ 120.08 Assault on a peace officer, police officer, fireman or emergency medical services professional](120.08-assault-on-a-peace-officer-police-officer.md)
+- [§ 120.08 Assault on a peace officer, police officer, firefighter or emergency medical services professional](120.08-assault-on-a-peace-officer-police-officer.md)
 - [§ 120.09 Assault on a judge](120.09-assault-on-a-judge.md)
 - [§ 120.10 Assault in the first degree](120.10-assault-in-the-first-degree.md)
 - [§ 120.11 Aggravated assault upon a police officer or a peace officer](120.11-aggravated-assault-upon-a-police-officer.md)
@@ -52,8 +52,9 @@ Section 120.00    Assault in the third degree.
         120.05    Assault in the second degree.
         120.06    Gang assault in the second degree.
         120.07    Gang assault in the first degree.
-        120.08    Assault on a peace officer, police officer, fireman or
-                    emergency medical services professional.
+        120.08    Assault on a peace officer, police officer,
+                    firefighter or emergency medical services
+                    professional.
         120.09    Assault on a judge.
         120.10    Assault in the first degree.
         120.11    Aggravated assault upon a police officer or a peace

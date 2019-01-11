@@ -1,11 +1,11 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 77", "kind": "section", "law_id": "GMU", "location_id": "77", "path": "ARTICLE 5 › SECTION 77", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/77.md", "title": "Leases of public buildings to posts of veteran organizations, organizations of volunteer firemen, and child care agencies"} -->
-# General Municipal Law § 77 — Leases of public buildings to posts of veteran organizations, organizations of volunteer firemen, and child care agencies
+﻿<!-- nyslaw {"citation": "General Municipal Law § 77", "kind": "section", "law_id": "GMU", "location_id": "77", "path": "ARTICLE 5 › SECTION 77", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/77.md", "title": "Leases of public buildings to posts of veteran organizations, organizations of volunteer firefighters, and child care agencies"} -->
+# General Municipal Law § 77 — Leases of public buildings to posts of veteran organizations, organizations of volunteer firefighters, and child care agencies
 
 [General Municipal Law](../README.md) › [Article 5 — Powers, Limitations and Liabilities](README.md)
 
 ```text
   § 77. Leases of public buildings to posts of veteran organizations,
-organizations of volunteer firemen, and child care agencies. 1. A
+organizations of volunteer firefighters, and child care agencies. 1. A
 municipal corporation may lease, for not exceeding five years, to a post
 or posts of the Grand Army of the Republic, Veterans of Foreign Wars of
 the United States, American Legion, Catholic War Veterans, Inc.,
@@ -20,8 +20,8 @@ Schenectady, N.Y., Inc., Polish Legion of American Veterans, Inc.,
 Vietnam Veterans of America or other veteran organization of honorably
 discharged members of the armed forces of the United States or to an
 incorporated organization or an association of either active or exempt
-volunteer firemen, a public building or part thereof, belonging to such
-municipal corporation, except schoolhouses in actual use as such,
+volunteer firefighters, a public building or part thereof, belonging to
+such municipal corporation, except schoolhouses in actual use as such,
 without expense, or at a nominal rent, fixed by the board or council
 having charge of such buildings and provide furniture and furnishings,
 and heat, light and janitor service therefor, in like manner.

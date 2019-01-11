@@ -8,7 +8,7 @@
 | Senate code | RSS |
 | Type | Consolidated law, chapter 51-A |
 | Sections | 543 |
-| Last changed | 4 Jan 2019 |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Retirement & Social Security |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 105 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 18 amended
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 2 amended
 - [14 Sep 2018](../../changes/2018/2018-09-14.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [15 Dec 2017](../../changes/2017/2017-12-15.md): 2 amended
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 3 amended
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended
-- [15 Sep 2017](../../changes/2017/2017-09-15.md): 3 amended
 
 ## Contents
 
@@ -57,7 +57,7 @@ Assembly, do enact as follows:
 - [Article 5 — Construction, Laws Repealed, Effective Date](article-05-construction-laws-repealed-effective-date/)
 - [Article 6 — Supplemental Retirement Allowance Act](article-06-supplemental-retirement-allowance-act/)
 - [Article 7 — Re-employment In Public Service of Retired Public Employees](article-07-re-employment-in-public-service-of-retired/)
-- [Article 8 — New York State Policemen's and Firemen's Retirement System Short Title](article-08-new-york-state-policemens-and-firemens/)
+- [Article 8 — New York State and Local Police and Fire Retirement System](article-08-new-york-state-and-local-police-and-fire/)
 - [Article 9 — Common Retirement Fund](article-09-common-retirement-fund/)
 - [Article 10 — Payment For Benefit Improvements](article-10-payment-for-benefit-improvements/)
 - [Article 11 — Limitations Applicable to New Entrants](article-11-limitations-applicable-to-new-entrants/)

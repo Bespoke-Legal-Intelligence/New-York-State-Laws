@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Civil Service Law § 88", "kind": "section", "law_id": "CVS", "location_id": "88", "path": "ARTICLE 6 › SECTION 88", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/88.md", "title": "Prohibition against discrimination against public employees serving in the armed forces"} -->
 # Civil Service Law § 88 — Prohibition against discrimination against public employees serving in the armed forces
 
-[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](README.md)
+[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](README.md)
 
 ```text
   § 88. Prohibition against discrimination against public employees

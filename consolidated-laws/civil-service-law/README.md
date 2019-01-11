@@ -8,7 +8,7 @@
 | Senate code | CVS |
 | Type | Consolidated law, chapter 7 |
 | Sections | 170 |
-| Last changed | 4 Jan 2019 |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Service |
 
@@ -33,6 +33,7 @@ Became a law, February 17, 1909, with the approval of the Governor.
 
 ## Recent changes
 
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 2 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 2 amended, 1 added, 1 removed
 - [14 Sep 2018](../../changes/2018/2018-09-14.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
@@ -42,7 +43,6 @@ Became a law, February 17, 1909, with the approval of the Governor.
 - [23 Mar 2018](../../changes/2018/2018-03-23.md): 1 amended, 1 repealed
 - [26 Jan 2018](../../changes/2018/2018-01-26.md): 3 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 2 amended
-- [15 Dec 2017](../../changes/2017/2017-12-15.md): 1 amended
 
 ## Contents
 
@@ -51,7 +51,7 @@ Became a law, February 17, 1909, with the approval of the Governor.
 - [Article 3 — Jurisdictional Classification](article-03-jurisdictional-classification/)
 - [Article 4 — Recruitment of Personnel](article-04-recruitment-of-personnel/)
 - [Article 5 — Personnel Changes](article-05-personnel-changes/)
-- [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](article-06-special-rights-for-veterans-and-exempt-volunteer/)
+- [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](article-06-special-rights-for-veterans-and-exempt-volunteer/)
 - [Article 7 — Enforcement; Prohibitions; Penalties](article-07-enforcement-prohibitions-penalties/)
 - [Article 8 — Classification and Compensation of State Employees](article-08-classification-and-compensation-of-state/)
 - [Article 9 — Merit Awards For State Employees](article-09-merit-awards-for-state-employees/)

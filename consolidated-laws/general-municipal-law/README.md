@@ -8,7 +8,7 @@
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
 | Sections | 1,079 |
-| Last changed | 4 Jan 2019 |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 53 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 amended
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 1 amended, 1 added
 - [9 Nov 2018](../../changes/2018/2018-11-09.md): 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 4 amended
 - [22 Jun 2018](../../changes/2018/2018-06-22.md): 4 amended
 - [8 Jun 2018](../../changes/2018/2018-06-08.md): 2 amended
-- [27 Apr 2018](../../changes/2018/2018-04-27.md): 4 amended, 3 added
 
 ## Contents
 
@@ -70,7 +70,7 @@ Assembly, do enact as follows:
 - [Article 8 — Cemeteries](article-08-cemeteries/)
 - [Article 9 — Regulation of Use of Bicycles and Similar Vehicles](article-09-regulation-of-use-of-bicycles-and-similar/)
 - [Article 9-A — Local Option For Conduct of Games of Chance By Certain Organizations](article-09a-local-option-for-conduct-of-games-of-chance/)
-- [Article 10 — Firemen and Policemen](article-10-firemen-and-policemen/)
+- [Article 10 — Firefighters and Police Officers](article-10-firefighters-and-police-officers/)
 - [Article 11 — Acquisition of Lands By the United States](article-11-acquisition-of-lands-by-the-united-states/)
 - [Article 11-A — Service Award Programs](article-11a-service-award-programs/)
 - [Article 11-AA — Defined Contribution Service Award Programs For Volunteer Ambulance Workers](article-11aa-defined-contribution-service-award-programs/)

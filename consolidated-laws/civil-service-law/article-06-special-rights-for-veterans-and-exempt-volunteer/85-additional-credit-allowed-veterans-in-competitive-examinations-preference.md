@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Civil Service Law § 85", "kind": "section", "law_id": "CVS", "location_id": "85", "path": "ARTICLE 6 › SECTION 85", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/85.md", "title": "Additional credit allowed veterans in competitive examinations; preference in retention upon abolition of positions"} -->
 # Civil Service Law § 85 — Additional credit allowed veterans in competitive examinations; preference in retention upon abolition of positions
 
-[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](README.md)
+[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](README.md)
 
 ```text
   § 85. Additional credit allowed veterans in competitive examinations;

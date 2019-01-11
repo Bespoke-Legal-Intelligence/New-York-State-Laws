@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ABC |
 | Type | Consolidated law, chapter 3-B |
-| Sections | 172 |
-| Last changed | 4 Jan 2019 |
+| Sections | 177 |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Alcoholic Beverage Control |
 
@@ -22,15 +22,16 @@
 Article  1.   Short title; policy of state and purpose of chapter;
                 definitions. (§§ 1-3.)
          2.   Liquor authority. (§§ 10-19.)
+         3.   Special provisions relating to mead and braggot. (§§
+                30-34.)
          4.   Special provisions relating to beer. (§§ 50--57-a.)
-         4-A. Special provisions relating to cider. (§§ 58--59-a.)
-         5.   Special provisions relating to liquor. (§§ 60-67.)
 ```
 
-[Full chapter text (16 lines)](chapter-text.md)
+[Full chapter text (18 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 10 amended, 5 added
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 3 amended
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 1 amended
 - [19 Oct 2018](../../changes/2018/2018-10-19.md): 1 amended
@@ -40,12 +41,12 @@ Article  1.   Short title; policy of state and purpose of chapter;
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 1 amended
 - [13 Jul 2018](../../changes/2018/2018-07-13.md): 4 amended
 - [8 Jun 2018](../../changes/2018/2018-06-08.md): 1 amended
-- [16 Feb 2018](../../changes/2018/2018-02-16.md): 3 amended
 
 ## Contents
 
 - [Article 1 — Short Title; Policy of State and Purpose of Chapter: Definitions](article-01-short-title-policy-of-state-and-purpose/)
 - [Article 2 — Liquor Authority](article-02-liquor-authority/)
+- [Article 3 — No title](article-03-no-title/)
 - [Article 4 — Special Provisions Relating to Beer](article-04-special-provisions-relating-to-beer/)
 - [Article 4-A — Special Provisions Relating to Cider](article-04a-special-provisions-relating-to-cider/)
 - [Article 5 — Special Provisions Relating to Liquor](article-05-special-provisions-relating-to-liquor/)

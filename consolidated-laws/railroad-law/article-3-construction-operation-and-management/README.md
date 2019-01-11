@@ -67,7 +67,7 @@
 - [§ 85 Certain railroads may cease operation in winter](085-certain-railroads-may-cease-operation-in-winter.md)
 - [§ 86 Certain railroads need not be operated beyond June, July, August and September](086-certain-railroads-need-not-be-operated-beyond-june-july-august-and-september.md)
 - [§ 87 Mails](087-mails.md)
-- [§ 88 When railroads may designate policemen](088-when-railroads-may-designate-policemen.md)
+- [§ 88 When railroads may designate police officers](088-when-railroads-may-designate-police-officers.md)
 - [§ 89 New railroads across streets](089-new-railroads-across-streets.md)
 - [§ 90 New streets across railroads](090-new-streets-across-railroads.md)
 - [§ 91 Alteration or rehabilitation of existing crossing](091-alteration-or-rehabilitation-of-existing-crossing.md)

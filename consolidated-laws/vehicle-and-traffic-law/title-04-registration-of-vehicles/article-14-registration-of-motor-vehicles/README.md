@@ -29,6 +29,7 @@
 - [§ 404-EE Distinctive "West Indian American Day Carnival" license plates](404ee-distinctive-west-indian-american-day-carnival.md)
 - [§ 404-EE\*2 Distinctive Down's syndrome awareness license plates](404ee-2-distinctive-downs-syndrome-awareness-license.md)
 - [§ 404-EE\*3 Distinctive "September eleventh, two thousand one remembrance" license plates](404ee-3-distinctive-september-eleventh-two-thousand-one.md)
+- [§ 404-EE\*4 Distinctive "Jamaican bobsled team" number plates](404ee-4-distinctive-jamaican-bobsled-team-number-plates.md)
 - [§ 404-F Distinctive plates for members of volunteer ambulance services](404f-distinctive-plates-for-members-of-volunteer-ambulance.md)
 - [§ 404-G Distinctive plates bearing the words "Birthplace of Baseball"](404g-distinctive-plates-bearing-the-words-birthplace.md)
 - [§ 404-H Distinctive plates for members of the Jewish War Veterans of America](404h-distinctive-plates-for-members-of-the-jewish-war.md)
@@ -109,6 +110,7 @@ Section 401.      Registration of motor vehicles; fees; renewals.
         404-ee*2. Distinctive Down's syndrome awareness license plates.
         404-ee*3. Distinctive "September eleventh, two thousand one
                     remembrance" license plates.
+        404-ee*4. Distinctive "Jamaican bobsled team" number plates.
         404-f.    Distinctive plates for members of volunteer ambulance
                     services.
         404-g.    Distinctive plates bearing the words "Birthplace of

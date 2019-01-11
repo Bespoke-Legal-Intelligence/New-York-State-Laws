@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 206", "kind": "section", "law_id": "GMU", "location_id": "206", "path": "ARTICLE 10 › SECTION 206", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/206.md", "title": "Certificate to police officers and firefighters; free transportation; use of telegraph lines and telephones"} -->
+# General Municipal Law § 206 — Certificate to police officers and firefighters; free transportation; use of telegraph lines and telephones
+
+[General Municipal Law](../README.md) › [Article 10 — Firefighters and Police Officers](README.md)
+
+```text
+  § 206. Certificate to police officers and firefighters; free
+transportation; use of telegraph lines and telephones. The mayor of each
+city of this state and the mayor of each incorporated village may issue,
+under the seal of his or her office, to each police officer and
+firefighter appointed by the duly-constituted authorities of such city
+or village, a certificate of the appointment and qualification of such
+police officer and firefighter as such, and specifying the duration of
+his or her term of office; and it shall thereupon be the duty of every
+street surface and elevated railroad company carrying on business within
+such city or village, to transport every such police officer and
+firefighter free of charge while he or she is traveling in the course of
+the performance of the duties of his or her office. Every telegraph or
+telephone company engaged in business within such city or village, shall
+afford to such police officer and firefighter the use of its telegraph
+lines or telephones for the purpose of making and receiving reports and
+communications in the course of the performance of his or her official
+duties.
+```

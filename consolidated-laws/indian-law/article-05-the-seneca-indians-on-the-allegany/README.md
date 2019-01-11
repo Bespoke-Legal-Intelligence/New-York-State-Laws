@@ -10,7 +10,7 @@
 - [§ 72 The president](72-the-president.md)
 - [§ 73 General powers and duties of the council](73-general-powers-and-duties-of-the-council.md)
 - [§ 75 Vacancies in elective offices](75-vacancies-in-elective-offices.md)
-- [§ 77 Policemen at annual fair](77-policemen-at-annual-fair.md)
+- [§ 77 Police officers at annual fair](77-police-officers-at-annual-fair.md)
 - [§ 78 Leases and rights of way](78-leases-and-rights-of-way.md)
 
 <details>
@@ -26,7 +26,7 @@ Section 70. Confirmation of nationality.
         72. The president.
         73. General powers and duties of the council.
         75. Vacancies in elective offices.
-        77. Policemen at annual fair.
+        77. Police officers at annual fair.
         78. Leases and rights of way.
 ```
 

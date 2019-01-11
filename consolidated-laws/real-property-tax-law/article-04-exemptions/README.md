@@ -19,7 +19,6 @@
 - [Title 4-B — Green Roof Tax Abatement For Certain Properties In a City of One Million or More Persons](title-4b-green-roof-tax-abatement-for-certain/)
 - [Title 4-C — Solar Electric Generating System and Electric Energy Storage Equipment Tax Abatement For Certain Properties In a City of One Million or More Persons](title-4c-solar-electric-generating-system/)
 - [Title 5 — Assessment Ceilings For Local Public Utility Mass Real Property](title-5-assessment-ceilings-for-local-public/)
-- [Title 6 — Energy-related Public Utility Mass Real Property Central Assessment Pilot Program](title-6-energy-related-public-utility-mass/) *(repealed)*
 
 <details>
 <summary>Official heading of Article 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

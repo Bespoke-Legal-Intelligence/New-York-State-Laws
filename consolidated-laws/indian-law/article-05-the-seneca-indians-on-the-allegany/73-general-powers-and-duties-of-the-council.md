@@ -4,7 +4,7 @@
 [Indian Law](../README.md) › [Article 5 — The Seneca Indians On the Allegany and Cattaraugus Reservations](README.md)
 
 ```text
-  § 73. General powers and duties of the council.  The council of the
+  § 73. General powers and duties of the council. The council of the
 Seneca nation shall meet annually on the first Tuesday of December, and
 in extra session whenever called by the president. Ten of the councilors
 shall be necessary to constitute a quorum for the transaction of
@@ -28,5 +28,5 @@ is committed.
   5. Notwithstanding any other provision of law to establish, manage and
 control a fire corporation for the fire protection of the common land of
 the nation and to enter into contracts necessary for providing such fire
-protection and to provide insurance for volunteer firemen.
+protection and to provide insurance for volunteer firefighters.
 ```

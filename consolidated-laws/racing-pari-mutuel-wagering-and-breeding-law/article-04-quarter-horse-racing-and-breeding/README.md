@@ -16,7 +16,7 @@
 - [§ 409 Licenses for participants and employees at quarter horse race meetings](409-licenses-for-participants-and-employees-at-quarter-horse-race.md)
 - [§ 410 Power of state racing and wagering board to impose fines and penalties](410-power-of-state-racing-and-wagering-board-to-impose-fines.md)
 - [§ 411 Refunds](411-refunds.md)
-- [§ 412 Special policemen](412-special-policemen.md)
+- [§ 412 Special police officers](412-special-police-officers.md)
 - [§ 413 Place and manner of conducting pari-mutuel betting](413-place-and-manner-of-conducting-pari-mutuel-betting.md)
 - [§ 414 Construction](414-construction.md)
 - [§ 415 Bond required of corporation or association conducting pari-mutuel betting](415-bond-required-of-corporation-or-association-conducting-pari.md)
@@ -62,7 +62,7 @@ Section 401. General powers of state racing and wagering board.
         410. Power of state racing and wagering board to impose fines
                and penalties.
         411. Refunds.
-        412. Special policemen.
+        412. Special police officers.
         413. Place and manner of conducting pari-mutuel betting.
         414. Construction.
         415. Bond required of corporation or association conducting

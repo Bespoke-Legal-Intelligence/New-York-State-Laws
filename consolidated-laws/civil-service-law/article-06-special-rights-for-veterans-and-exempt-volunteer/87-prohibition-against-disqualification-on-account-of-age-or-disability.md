@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Civil Service Law § 87", "kind": "section", "law_id": "CVS", "location_id": "87", "path": "ARTICLE 6 › SECTION 87", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/87.md", "title": "Prohibition against disqualification on account of age or disability"} -->
 # Civil Service Law § 87 — Prohibition against disqualification on account of age or disability
 
-[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](README.md)
+[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](README.md)
 
 ```text
   § 87. Prohibition against disqualification on account of age or

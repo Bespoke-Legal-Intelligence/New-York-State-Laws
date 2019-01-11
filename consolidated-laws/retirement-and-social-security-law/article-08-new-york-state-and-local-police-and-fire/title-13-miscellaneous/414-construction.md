@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "Retirement and Social Security Law § 414", "kind": "section", "law_id": "RSS", "location_id": "414", "path": "ARTICLE 8 › TITLE 13 › SECTION 414", "repealed": false, "repealed_date": null, "source": "nys-laws:RSS/414.md", "title": "Construction"} -->
+# Retirement and Social Security Law § 414 — Construction
+
+[Retirement and Social Security Law](../../README.md) › [Article 8 — New York State and Local Police and Fire Retirement System](../README.md) › [Title 13 — Miscellaneous Provisions; Saving and Construction Clauses](README.md)
+
+```text
+  § 414. Construction.  a. An act of the legislature of the year
+nineteen hundred sixty-six or nineteen hundred sixty-seven which, in
+form, amends or repeals or purports to amend or repeal any provision or
+provisions of article two of this chapter, as in force and effect
+immediately prior to April first, nineteen hundred sixty-seven, shall be
+deemed and construed as an amendment or repeal, as the case may be, of
+the corresponding provision or provisions of this article.
+  b. An act of the legislature of the year nineteen hundred sixty-six or
+nineteen hundred sixty-seven which adds, or purports to add a new
+section, subdivision or other provision of law to article two of this
+chapter, as in force immediately prior to April first, nineteen hundred
+sixty-seven, shall, except to the extent that the provisions of such act
+are inconsistent with the provisions of this article, be deemed and
+construed as having been added to this article and shall be given full
+effect according to its context as if the same had been added expressly
+and in terms to this article, and shall be deemed and construed to have
+been inserted in this article in the appropriate position in regard to
+and as modifying the effect of the corresponding provision or provisions
+of this article.
+```

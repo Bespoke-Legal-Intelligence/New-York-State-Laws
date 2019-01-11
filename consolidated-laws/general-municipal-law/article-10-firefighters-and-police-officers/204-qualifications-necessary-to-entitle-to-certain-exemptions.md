@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 204", "kind": "section", "law_id": "GMU", "location_id": "204", "path": "ARTICLE 10 › SECTION 204", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/204.md", "title": "Qualifications necessary to entitle to certain exemptions"} -->
+# General Municipal Law § 204 — Qualifications necessary to entitle to certain exemptions
+
+[General Municipal Law](../README.md) › [Article 10 — Firefighters and Police Officers](README.md)
+
+```text
+  § 204. Qualifications necessary to entitle to certain exemptions. No
+person who became a member of a volunteer fire organization within the
+state since the first day of January nineteen hundred and two, or who
+shall have thereafter become such member who shall not possess the
+qualifications prescribed by this article shall be entitled to any of
+the exemptions and privileges secured to volunteer firefighters by the
+civil service law of this state.
+```

@@ -10,7 +10,7 @@
 - [§ 50 Cause of action not barred](50-cause-of-action-not-barred.md)
 - [§ 50-A Municipal liability for negligent operation of vehicles](50a-municipal-liability-for-negligent-operation-of-vehicles.md)
 - [§ 50-B Municipal liability for negligent operation of vehicles or other facility of transportation](50b-municipal-liability-for-negligent-operation-of-vehicles-or-other-facility.md)
-- [§ 50-C Liability for negligent operation of certain vehicles in the performance of duty by policemen and paid firemen](50c-liability-for-negligent-operation-of-certain-vehicles-in-the-performance.md)
+- [§ 50-C Liability for negligent operation of certain vehicles in the performance of duty by police officers and paid firefighters](50c-liability-for-negligent-operation-of-certain-vehicles-in-the-performance.md)
 - [§ 50-D Municipal liability for malpractice of certain physicians, resident physicians, internes, dentists, podiatrists and optometrists in publi...](50d-municipal-liability-for-malpractice-of-certain-physicians-resident.md)
 - [§ 50-E Notice of claim](50e-notice-of-claim.md)
 - [§ 50-F Recording of notice of claim](50f-recording-of-notice-of-claim.md)
@@ -39,7 +39,8 @@ Section 50.     Cause of action not barred.
         50-b.   Municipal liability for negligent operation of vehicles
                   or other facility of transportation.
         50-c.   Liability for negligent operation of certain vehicles in
-                  the performance of duty by policemen and paid firemen.
+                  the performance of duty by police officers and paid
+                  firefighters.
         50-d.   Municipal liability for malpractice of certain
                   physicians, resident physicians, internes, dentists,
                   podiatrists and optometrists in public institutions.

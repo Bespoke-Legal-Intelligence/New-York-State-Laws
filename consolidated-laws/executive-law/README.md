@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 873 |
-| Last changed | 4 Jan 2019 |
+| Sections | 897 |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (115 lines)](chapter-text.md)
+[Full chapter text (117 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 6 amended, 24 added
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 5 amended, 2 added
 - [30 Nov 2018](../../changes/2018/2018-11-30.md): 2 amended
 - [16 Nov 2018](../../changes/2018/2018-11-16.md): 3 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 8 amended, 1 repealed
 - [14 Sep 2018](../../changes/2018/2018-09-14.md): 3 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 5 amended
-- [24 Aug 2018](../../changes/2018/2018-08-24.md): 1 amended
 
 ## Contents
 
@@ -63,6 +63,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 6-E — State Certified and Licensed Real Estate Appraisers](article-06e-state-certified-and-licensed-real-estate/)
 - [Article 6-F — New York Black Car Operators' Injury Compensation Fund, Inc](article-06f-new-york-black-car-operators-injury-compensation/)
 - [Article 6-G — Independent Livery Driver Benefit Fund](article-06g-independent-livery-driver-benefit-fund/)
+- [Article 6-H — Real Estate Appraisal Management Companies](article-06h-real-estate-appraisal-management-companies/)
 - [Article 7 — Miscellaneous Provisions](article-07-miscellaneous-provisions/)
 - [Article 7-A — Solicitation and Collection of Funds For Charitable Purposes](article-07a-solicitation-and-collection-of-funds/)
 - [Article 8 — Division of Budget](article-08-division-of-budget/)

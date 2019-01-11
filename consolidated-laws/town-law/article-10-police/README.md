@@ -14,14 +14,14 @@
 - [§ 155 Discipline and charges](155-discipline-and-charges.md)
 - [§ 156 Effect of resignation](156-effect-of-resignation.md)
 - [§ 157 Absentee leave](157-absentee-leave.md)
-- [§ 158 Special policemen](158-special-policemen.md)
+- [§ 158 Special police officers](158-special-police-officers.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                                ARTICLE 10
-                                  POLICE
+                                 POLICE
 Section 150.   Establishment of town police departments.
         151.   Qualifications.
         152.   Promotion.
@@ -31,7 +31,7 @@ Section 150.   Establishment of town police departments.
         155.   Discipline and charges.
         156.   Effect of resignation.
         157.   Absentee leave.
-        158.   Special policemen.
+        158.   Special police officers.
 ```
 
 </details>

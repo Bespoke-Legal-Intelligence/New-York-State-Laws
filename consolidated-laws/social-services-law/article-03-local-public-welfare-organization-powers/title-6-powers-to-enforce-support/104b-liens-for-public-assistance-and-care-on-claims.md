@@ -127,6 +127,6 @@ under any provision of this chapter to recover payments of public
 assistance if such payments were reimbursed by child support
 collections.
   This section shall not apply to any claim or award which is or may be
-allowed pursuant to the provisions of the workmen's compensation law or
-the volunteer firemen's benefit law.
+allowed pursuant to the provisions of the workers' compensation law or
+the volunteer firefighters' benefit law.
 ```

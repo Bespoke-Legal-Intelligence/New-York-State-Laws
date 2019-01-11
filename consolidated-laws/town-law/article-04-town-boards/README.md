@@ -18,6 +18,7 @@
 - [§ 64-C Payment in lieu of taxes for property acquired for park and recreational purposes](64c-payment-in-lieu-of-taxes-for-property-acquired-for-park-and-recreational.md)
 - [§ 64-D Payment in lieu of taxes for property acquired for open space purposes](64d-payment-in-lieu-of-taxes-for-property-acquired-for-open-space-purposes.md)
 - [§ 64-E Peconic Bay region community preservation funds](64e-peconic-bay-region-community-preservation-funds.md)
+- [§ 64-EE Peconic Bay region septic system replacement loan program](64ee-peconic-bay-region-septic-system-replacement-loan-program.md)
 - [§ 64-F Town of Brookhaven community preservation fund](64f-town-of-brookhaven-community-preservation-fund.md)
 - [§ 64-G Town of Warwick preservation funds](64g-town-of-warwick-preservation-funds.md)
 - [§ 64-H Town of Red Hook preservation funds](64h-town-of-red-hook-preservation-funds.md)
@@ -52,6 +53,8 @@ Section 60.     Town board constituted.
         64-d.   Payment in lieu of taxes for property acquired for open
                   space purposes.
         64-e.   Peconic Bay region community preservation funds.
+        64-ee.  Peconic Bay region septic system replacement loan
+                  program.
         64-f.   Town of Brookhaven community preservation fund.
         64-g.   Town of Warwick preservation funds.
         64-h.   Town of Red Hook preservation funds.

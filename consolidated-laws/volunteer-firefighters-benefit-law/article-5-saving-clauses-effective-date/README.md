@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 70 References to workmen's compensation law](70-references-to-workmens-compensation-law.md)
+- [§ 70 References to workers' compensation law](70-references-to-workers-compensation-law.md)
 - [§ 71 Effect of unconstitutionality in part](71-effect-of-unconstitutionality-in-part.md)
 - [§ 72 Effective date](72-effective-date.md)
 

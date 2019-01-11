@@ -8,7 +8,7 @@
 | Senate code | MRE |
 | Type | Consolidated law, chapter 61-B |
 | Sections | 104 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 11 Jan 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Multiple Residence |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (22 lines)](chapter-text.md)
+
+## Recent changes
+
+- [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 
 ## Contents
 

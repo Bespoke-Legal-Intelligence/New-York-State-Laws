@@ -17,15 +17,15 @@
 ```text
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2017-2018
-Rules  of  the  Senate  for  the  year  2017-2018,  as adopted by Senate
-Resolution number 4 of 2017 and as amended by Senate  Resolution  number
-226 of 2017.
-  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
-Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
+                                2019-2020
+Rules  of  the  Senate  for  the  year  2019-2020,  as adopted by Senate
+Resolution number 3 of 2019.
+  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
+Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 ```
 
-[Full chapter text (2,426 lines)](chapter-text.md)
+[Full chapter text (2,397 lines)](chapter-text.md)
 
 ## Contents
 

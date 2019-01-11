@@ -3990,7 +3990,7 @@ credit. A taxpayer that is eligible pursuant to the provisions of
 section twenty-eight of this chapter shall be allowed a credit to be
 computed as provided in such section against the tax imposed by this
 article. The tax credit allowed pursuant to this section shall apply to
-taxable years beginning before January first, two thousand nineteen.
+taxable years beginning before January first, two thousand twenty-four.
   (2) Application of credit. If the amount of the credit allowable under
 this subsection for any taxable year exceeds the taxpayer's tax for such
 year, fifty percent of the excess shall be treated as an overpayment of

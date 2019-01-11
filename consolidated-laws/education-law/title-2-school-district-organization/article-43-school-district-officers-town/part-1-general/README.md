@@ -9,7 +9,7 @@
 - [§ 2102 Qualifications of officers](2102-qualifications-of-officers.md)
 - [§ 2102-A Required training for school district officers](2102a-required-training-for-school-district.md)
 - [§ 2103 Ineligibility to office](2103-ineligibility-to-office.md)
-- [§ 2103-A Policemen and firemen on boards of education](2103a-policemen-and-firemen-on-boards-of-education.md)
+- [§ 2103-A Police officers and firefighters on boards of education](2103a-police-officers-and-firefighters-on-boards.md)
 - [§ 2105 Terms of office](2105-terms-of-office.md)
 - [§ 2106 Terms of officers of newly created district](2106-terms-of-officers-of-newly-created-district.md)
 - [§ 2108 Notice and acceptance of election](2108-notice-and-acceptance-of-election.md)
@@ -38,7 +38,7 @@ Section 2101.   Officers of district.
         2102.   Qualifications of officers.
         2102-a. Required training for school district officers.
         2103.   Ineligibility to office.
-        2103-a. Policemen and firemen on boards of education.
+        2103-a. Police officers and firefighters on boards of education.
         2105.   Terms of office.
         2106.   Terms of officers of newly created district.
         2108.   Notice and acceptance of election.

@@ -39,7 +39,7 @@
 - [§ 74-C Taking of billboards](74c-taking-of-billboards.md)
 - [§ 75 Limitation on acquisition of water rights in Dutchess county](75-limitation-on-acquisition-of-water-rights-in-dutchess-county.md)
 - [§ 76 Limitation on acquisition of water rights in Westchester and Putnam counties](76-limitation-on-acquisition-of-water-rights-in-westchester-and-putnam-counties.md)
-- [§ 77 Leases of public buildings to posts of veteran organizations, organizations of volunteer firemen, and child care agencies](77-leases-of-public-buildings-to-posts-of-veteran-organizations-organizations.md)
+- [§ 77 Leases of public buildings to posts of veteran organizations, organizations of volunteer firefighters, and child care agencies](77-leases-of-public-buildings-to-posts-of-veteran-organizations-organizations.md)
 - [§ 77-A Construction and maintenance of memorial building or monument by county or city](77a-construction-and-maintenance-of-memorial-building-or-monument-by-county-or-city.md)
 - [§ 77-B Expenses of certain public officers and employees attending conventions, conferences and schools](77b-expenses-of-certain-public-officers-and-employees-attending-conventions.md)
 - [§ 77-C Per diem meal allowances for travel on official business](77c-per-diem-meal-allowances-for-travel-on-official-business.md)

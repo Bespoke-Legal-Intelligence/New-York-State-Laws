@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Civil Service Law § 85-C", "kind": "section", "law_id": "CVS", "location_id": "85-C", "path": "ARTICLE 6 › SECTION 85-C", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/85-C.md", "title": "Additional credits allowed the children and siblings of emergency medical technicians and paramedics killed in the line of duty"} -->
 # Civil Service Law § 85-C — Additional credits allowed the children and siblings of emergency medical technicians and paramedics killed in the line of duty
 
-[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](README.md)
+[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](README.md)
 
 ```text
   § 85-c. Additional credits allowed the children and siblings of

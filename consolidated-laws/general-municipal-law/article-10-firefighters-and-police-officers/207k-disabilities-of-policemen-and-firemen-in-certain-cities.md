@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 207-K", "kind": "section", "law_id": "GMU", "location_id": "207-K", "path": "ARTICLE 10 › SECTION 207-K", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/207-K.md", "title": "Disabilities of policemen and firemen in certain cities"} -->
+# General Municipal Law § 207-K — Disabilities of policemen and firemen in certain cities
+
+[General Municipal Law](../README.md) › [Article 10 — Firefighters and Police Officers](README.md)
+
+```text
+  * § 207-k. Disabilities of policemen and firemen in certain cities.
+Notwithstanding the provisions of any general, special or local law or
+administrative code to the contrary, but except for the purposes of
+sections two hundred seven-a and two hundred seven-c of this chapter,
+the workmen's compensation law and the labor law, any condition of
+impairment of health caused by diseases of the heart, resulting in total
+or partial disability or death to a paid member of the uniformed force
+of a paid police department or fire department, where such paid
+policemen or firemen are drawn from competitive civil service lists, who
+successfully passed a physical examination on entry into the service of
+such respective department, which examination failed to reveal any
+evidence of such condition, shall be presumptive evidence that it was
+incurred in the performance and discharge of duty, unless the contrary
+be proved by competent evidence.
+  * NB Expired July 1, 1973
+  * NB There are 2 § 207-k's
+```

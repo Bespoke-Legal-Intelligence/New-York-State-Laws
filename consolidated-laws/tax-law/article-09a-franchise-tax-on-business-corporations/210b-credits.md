@@ -1686,7 +1686,7 @@ section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
   (c) Expiration of credit. The credit allowed under this subdivision
 shall not be applicable to taxable years beginning on or after January
-first, two thousand nineteen.
+first, two thousand twenty-four.
   24. Biofuel production credit. (a) General. A taxpayer shall be
 allowed a credit, to be computed as provided in section twenty-eight of
 this chapter added as part X of chapter sixty-two of the laws of two

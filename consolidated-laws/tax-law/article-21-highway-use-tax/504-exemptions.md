@@ -51,5 +51,5 @@ interstate commerce commission) by a carrier under authority of the
 commissioner of transportation of this state or of the interstate
 commerce commission.
   6. Owned and operated by any fire company or fire department as
-defined in section three of the volunteer firemen's benefit law.
+defined in section three of the volunteer firefighters' benefit law.
 ```

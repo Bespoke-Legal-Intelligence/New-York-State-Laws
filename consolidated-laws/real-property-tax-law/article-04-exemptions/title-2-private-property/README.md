@@ -64,8 +64,8 @@
 - [§ 459-C Persons with disabilities and limited incomes](459c-persons-with-disabilities-and-limited-incomes.md)
 - [§ 460 Clergy](460-clergy.md)
 - [§ 462 Religious corporations; property used for residential purposes](462-religious-corporations-property-used-for-residential-purposes.md)
-- [§ 464 Incorporated associations of volunteer firemen](464-incorporated-associations-of-volunteer-firemen.md)
-- [§ 466 Volunteer firemen and fire companies in villages](466-volunteer-firemen-and-fire-companies-in-villages.md)
+- [§ 464 Incorporated associations of volunteer firefighters](464-incorporated-associations-of-volunteer-firefighters.md)
+- [§ 466 Volunteer firefighters and fire companies in villages](466-volunteer-firefighters-and-fire-companies-in-villages.md)
 - [§ 466-A Volunteer firefighters and volunteer ambulance workers; certain counties](466a-volunteer-firefighters-and-volunteer-ambulance-workers-certain-counties.md)
 - [§ 466-B Volunteer firefighters and volunteer ambulance workers; certain additional counties](466b-volunteer-firefighters-and-volunteer-ambulance-workers-certain-additional.md)
 - [§ 466-C Volunteer firefighters and volunteer ambulance workers; certain county](466c-volunteer-firefighters-and-volunteer-ambulance-workers-certain-county.md)
@@ -106,6 +106,7 @@
 - [§ 467-I Real property tax abatement](467i-real-property-tax-abatement.md)
 - [§ 467-J Exemption for certain residential properties located in certain counties](467j-exemption-for-certain-residential-properties-located-in-certain-counties.md)
 - [§ 467-K Senior citizen longtime resident exemption](467k-senior-citizen-longtime-resident-exemption.md)
+- [§ 467-K\*2 Exemption for certain residential property required to participate in the federal flood insurance program](467k-2-exemption-for-certain-residential-property-required-to-participate.md)
 - [§ 468 Fire patrol and salvage corps](468-fire-patrol-and-salvage-corps.md)
 - [§ 469 Assessment exemption for living quarters for parent or grandparent](469-assessment-exemption-for-living-quarters-for-parent-or-grandparent.md)
 - [§ 470 Exemption for improvements to real property meeting certification standards for green buildings](470-exemption-for-improvements-to-real-property-meeting-certification-standards.md)
@@ -260,8 +261,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         460.     Clergy.
         462.     Religious corporations; property used for residential
                    purposes.
-        464.     Incorporated associations of volunteer firemen.
-        466.     Volunteer firemen and fire companies in villages.
+        464.     Incorporated associations of volunteer firefighters.
+        466.     Volunteer firefighters and fire companies in villages.
         466-a.   Volunteer firefighters and volunteer ambulance workers;
                    certain counties.
         466-b.   Volunteer firefighters and volunteer ambulance workers;
@@ -351,6 +352,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         467-j.   Exemption for certain residential properties located in
                    certain counties.
         467-k.   Senior citizen longtime resident exemption.
+        467-k*2. Exemption for certain residential property required to
+                   participate in the federal flood insurance program.
         468.     Fire patrol and salvage corps.
         469.     Assessment exemption for living quarters for parent or
                    grandparent.

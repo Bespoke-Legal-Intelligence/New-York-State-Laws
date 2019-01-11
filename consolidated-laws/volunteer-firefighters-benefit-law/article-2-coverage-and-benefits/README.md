@@ -8,7 +8,7 @@
 ## Contents
 
 - [§ 5 Coverage](05-coverage.md)
-- [§ 6 Volunteer firemen's benefits; general](06-volunteer-firemens-benefits-general.md)
+- [§ 6 Volunteer firefighters' benefits; general](06-volunteer-firefighters-benefits-general.md)
 - [§ 7 Lt](07-lt.md)
 - [§ 7-A Date of death benefits](07a-date-of-death-benefits.md)
 - [§ 8 Permanent total disability benefits](08-permanent-total-disability-benefits.md)
@@ -22,12 +22,12 @@
 - [§ 12 Non-schedule adjustments](12-non-schedule-adjustments.md)
 - [§ 13 Reclassification of disabilities](13-reclassification-of-disabilities.md)
 - [§ 14 Previous disability](14-previous-disability.md)
-- [§ 15 Expense for rehabilitating injured volunteer firemen](15-expense-for-rehabilitating-injured-volunteer-firemen.md)
+- [§ 15 Expense for rehabilitating injured volunteer firefighters](15-expense-for-rehabilitating-injured-volunteer-firefighters.md)
 - [§ 16 Treatment and care](16-treatment-and-care.md)
 - [§ 17 Aliens](17-aliens.md)
 - [§ 18 Disposition of accrued benefits upon death](18-disposition-of-accrued-benefits-upon-death.md)
 - [§ 19 Exclusiveness of remedy](19-exclusiveness-of-remedy.md)
-- [§ 20 Other remedies of volunteer firemen; subrogation](20-other-remedies-of-volunteer-firemen-subrogation.md)
+- [§ 20 Other remedies of volunteer firefighters; subrogation](20-other-remedies-of-volunteer-firefighters-subrogation.md)
 - [§ 21 Assistance to other states, the Dominion of Canada, property ceded to the federal government and to Indian reservations](21-assistance-to-other-states-the-dominion-of-canada-property-ceded-to-the-federal.md)
 - [§ 22 Revenues and benefits from sources other than this chapter](22-revenues-and-benefits-from-sources-other-than-this-chapter.md)
 - [§ 23 Assignments, exemptions](23-assignments-exemptions.md)
@@ -41,7 +41,7 @@
                                ARTICLE II
                           Coverage And Benefits
 Section  5.     Coverage.
-         6.     Volunteer firemen's benefits; general.
+         6.     Volunteer firefighters' benefits; general.
          7.     Lt. Michael E. Neuner/Timothy Goff memorial death
                   benefit program.
          7-a.   Date of death benefits.
@@ -57,12 +57,13 @@ Section  5.     Coverage.
         12.     Non-schedule adjustments.
         13.     Reclassification of disabilities.
         14.     Previous disability.
-        15.     Expense for rehabilitating injured volunteer firemen.
+        15.     Expense for rehabilitating injured volunteer
+                  firefighters.
         16.     Treatment and care.
         17.     Aliens.
         18.     Disposition of accrued benefits upon death.
         19.     Exclusiveness of remedy.
-        20.     Other remedies of volunteer firemen; subrogation.
+        20.     Other remedies of volunteer firefighters; subrogation.
         21.     Assistance to other states, the Dominion of Canada,
                   property ceded to the federal government and to Indian
                   reservations.

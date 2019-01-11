@@ -8,7 +8,7 @@
 shall whenever requested in writing by the commissioner of health or
 health officer in cities having a population of less than one hundred
 seventy-five thousand, with the approval of the mayor, detail such
-number of regular policemen as shall be specified in such request who
-shall while so detailed serve under the direction of the commissioner of
-health or health officer.
+number of regular police officers as shall be specified in such request
+who shall while so detailed serve under the direction of the
+commissioner of health or health officer.
 ```

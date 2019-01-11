@@ -1,0 +1,26 @@
+﻿<!-- nyslaw {"citation": "General Municipal Law § 206-B", "kind": "section", "law_id": "GMU", "location_id": "206-B", "path": "ARTICLE 10 › SECTION 206-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/206-B.md", "title": "Exemption of benefits payable under blanket accident insurance covering volunteer firefighters"} -->
+# General Municipal Law § 206-B — Exemption of benefits payable under blanket accident insurance covering volunteer firefighters
+
+[General Municipal Law](../README.md) › [Article 10 — Firefighters and Police Officers](README.md)
+
+```text
+  § 206-b. Exemption of benefits payable under blanket accident
+insurance covering volunteer firefighters. Not only shall the benefits
+payable or allowable under any blanket accident insurance policy or
+contract purchased (1) by a fire department pursuant to section four
+thousand two hundred thirty-seven of the insurance law, or (2) by a
+municipal corporation or fire district pursuant to any general, special
+or local law, to insure active volunteer firefighters against injury or
+death resulting from bodily injuries sustained by such firefighters in
+the performance of their duties be exempt from execution as provided in
+subsection (c) of section three thousand two hundred twelve of the
+insurance law, but also any benefits payable or allowable under any such
+policy or contract in the event of the death of an insured volunteer
+firefighter shall be exempt from execution for the purpose of satisfying
+any debt or liability of the beneficiary designated in the policy or
+contract, or in the event that the insured volunteer firefighter is a
+minor shall be exempt from execution for the purpose of satisfying any
+debt or liability of the person to whom such benefits are payable
+pursuant to subsection (b) of section four thousand two hundred
+thirty-seven of the insurance law.
+```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Civil Service Law § 85-B", "kind": "section", "law_id": "CVS", "location_id": "85-B", "path": "ARTICLE 6 › SECTION 85-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CVS/85-B.md", "title": "Additional credits allowed children and siblings of firefighters and police officers killed in the line of duty"} -->
 # Civil Service Law § 85-B — Additional credits allowed children and siblings of firefighters and police officers killed in the line of duty
 
-[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firemen](README.md)
+[Civil Service Law](../README.md) › [Article 6 — Special Rights For Veterans and Exempt Volunteer Firefighters](README.md)
 
 ```text
   § 85-b. Additional credits allowed children and siblings of

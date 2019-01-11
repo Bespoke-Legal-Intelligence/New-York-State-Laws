@@ -47,7 +47,7 @@ Title  1.   General provisions (§§ 131--152-b).
       11-B. Health insurance continuation program for persons with AIDS.
               (§§ 369-k--369-n).
       11-C. Medicaid drug utilization review (§§ 369-aa--369-dd).
-      11-D. Family health plus program (§§ 369-ee--369-gg).
+      11-D. Family health plus program (§ 369-gg).
       12.   Community centers and services for senior citizens
               (§§ 370--370-b).
       13.   State heating fuel crisis assistance (§ 370-aa).
