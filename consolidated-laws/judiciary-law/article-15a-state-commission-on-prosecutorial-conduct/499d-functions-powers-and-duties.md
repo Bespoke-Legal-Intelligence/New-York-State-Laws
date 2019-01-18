@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-d. Functions; powers and duties. The commission shall have the
+  § 499-d. Functions; powers and duties. The commission shall have the
 following functions, powers and duties:
   1. To conduct hearings and investigations, administer oaths or
 affirmations, subpoena witnesses, compel their attendance, examine them
@@ -48,5 +48,4 @@ filed in the offices of the chief administrator of the courts and the
 secretary of state.
   6. To do all other things necessary and convenient to carry out its
 functions, powers and duties expressly set forth in this article.
-  * NB Effective January 1, 2019
 ```

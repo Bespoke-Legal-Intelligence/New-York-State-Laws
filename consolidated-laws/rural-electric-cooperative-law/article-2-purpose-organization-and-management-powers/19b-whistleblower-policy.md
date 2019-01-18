@@ -4,7 +4,7 @@
 [Rural Electric Cooperative Law](../README.md) › [Article 2 — Purpose; Organization and Management; Powers](README.md)
 
 ```text
-  * § 19-b. Whistleblower policy. (a) Except as provided in subdivision
+  § 19-b. Whistleblower policy. (a) Except as provided in subdivision
 (c) of this section, the board of every rural electric cooperative shall
 adopt, and oversee the implementation of, and compliance with, a
 whistleblower policy to protect from retaliation persons who report
@@ -42,5 +42,4 @@ section shall be deemed in compliance with provisions of this section.
 electric cooperative from any additional requirements in relation to
 internal compliance, retaliation, or document retention required by any
 other law or rule.
-  * NB Effective January 1, 2019
 ```

@@ -4598,93 +4598,37 @@ or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
   * NB Repealed December 31, 2021
-  * (tt) New York youth jobs program tax credit.  ** (1) A taxpayer that
+  * (tt) New York youth jobs program tax credit.  (1) A taxpayer that
 has been certified by the commissioner of labor as a qualified employer
-pursuant to section twenty-five-a of the labor law shall be allowed a
-credit against the tax imposed by this article equal to (A) seven
-hundred fifty dollars per month for up to six months for each qualified
-employee the employer employs in a full-time job or three hundred
-seventy-five dollars per month for up to six months for each qualified
-employee the employer employs in a part-time job of at least twenty
-hours per week or ten hours per week when the qualified employee is
-enrolled in high school full-time, and (B) fifteen hundred dollars for
-each qualified employee who is employed for at least an additional six
-consecutive months by the qualified employer in a full-time job or seven
-hundred fifty dollars for each qualified employee who is employed for at
-least an additional six consecutive months by the qualified employer in
-a part-time job of at least twenty hours per week or ten hours per week
-when the qualified employee is enrolled in high school full-time, and
-(C) an additional fifteen hundred dollars for each qualified employee
-who is employed for at least an additional year after the completion of
-the time periods and satisfaction of the conditions set forth in
-subparagraphs A and B of this subsection by the qualified employer in a
-full-time job or seven hundred fifty dollars for each qualified employee
-who is employed for at least an additional year after the completion of
-the time periods and satisfaction of the conditions set forth in
-subparagraphs A and B of this subsection by the qualified employer in a
-part-time job of at least twenty hours per week or ten hours per week
-when the qualified employee is enrolled in high school full-time. A
-taxpayer that is a partner in a partnership, member of a limited
-liability company or shareholder in an S corporation that has been
-certified by the commissioner of labor as a qualified employer pursuant
-to section twenty-five-a of the labor law shall be allowed its pro rata
-share of the credit earned by the partnership, limited liability company
-or S corporation. For purposes of this subsection, the term "qualified
-employee" shall have the same meaning as set forth in subdivision (b) of
-section twenty-five-a of the labor law. The portion of the credit
-described in subparagraph (A) of this paragraph shall be allowed for the
-taxable year in which the wages are paid to the qualified employee, the
-portion of the credit described in subparagraph (B) of this paragraph
-shall be allowed in the taxable year in which the additional six month
-period ends, and the portion of the credit described in subparagraph (C)
-of this paragraph shall be allowed in the taxable year in which the
-additional year after the first year of employment ends.
-  ** NB Effective until January 1, 2019
-  ** (1) A taxpayer that has been certified by the commissioner of labor
-as a qualified employer pursuant to section twenty-five-a of the labor
-law and received an annual final certificate of tax credit from such
-commissioner shall be allowed a credit against the tax imposed by this
-article equal to the amount listed on the annual final certificate of
-tax credit issued by the commissioner of labor pursuant to section
-twenty-five-a of the labor law. A taxpayer that is a partner in a
-partnership, member of a limited liability company or shareholder in an
-S corporation that has received its annual final certificate of tax
-credit from the commissioner of labor as a qualified employer pursuant
-to section twenty-five-a of the labor law shall be allowed its pro rata
-share of the credit earned by the partnership, limited liability company
-or S corporation. If the qualified employer's taxable year is a calendar
-year, the employer shall be entitled to claim the credit as calculated
-on the annual final certificate of tax credit on the calendar year
-return for which the annual final certificate of tax credit was issued.
-If the qualified employer's taxable year is a fiscal year, the employer
-shall be entitled to claim the credit as calculated on the annual final
-certificate of tax credit on the return for the fiscal year that
-encompasses the date on which the annual final certificate of tax credit
-is issued. For the purposes of this subsection, the term "qualified
-employee" shall have the same meaning as set forth in subdivision (b) of
-section twenty-five-a of the labor law.
-  ** NB Effective January 1, 2019
+pursuant to section twenty-five-a of the labor law and received an
+annual final certificate of tax credit from such commissioner shall be
+allowed a credit against the tax imposed by this article equal to the
+amount listed on the annual final certificate of tax credit issued by
+the commissioner of labor pursuant to section twenty-five-a of the labor
+law. A taxpayer that is a partner in a partnership, member of a limited
+liability company or shareholder in an S corporation that has received
+its annual final certificate of tax credit from the commissioner of
+labor as a qualified employer pursuant to section twenty-five-a of the
+labor law shall be allowed its pro rata share of the credit earned by
+the partnership, limited liability company or S corporation. If the
+qualified employer's taxable year is a calendar year, the employer shall
+be entitled to claim the credit as calculated on the annual final
+certificate of tax credit on the calendar year return for which the
+annual final certificate of tax credit was issued.  If the qualified
+employer's taxable year is a fiscal year, the employer shall be entitled
+to claim the credit as calculated on the annual final certificate of tax
+credit on the return for the fiscal year that encompasses the date on
+which the annual final certificate of tax credit is issued. For the
+purposes of this subsection, the term "qualified employee" shall have
+the same meaning as set forth in subdivision (b) of section
+twenty-five-a of the labor law.
   (2) If the amount of the credit allowed under this subsection exceeds
 the taxpayer's tax for the taxable year, any amount of credit not
 deductible in that taxable year will be treated as an overpayment of tax
 to be credited or refunded in accordance with the provisions of section
 six hundred eighty-six of this article. Provided, however, no interest
 will be paid thereon.
-  ** (3) The taxpayer may be required to attach to its tax return its
-certificate of eligibility issued by the commissioner of labor pursuant
-to section twenty-five-a of the labor law. In no event shall the
-taxpayer be allowed a credit greater than the amount of the credit
-listed on the certificate of eligibility. Notwithstanding any provision
-of this chapter to the contrary, the commissioner and the commissioner's
-designees may release the names and addresses of any taxpayer claiming
-this credit and the amount of the credit earned by the taxpayer.
-Provided, however, if a taxpayer claims this credit because it is a
-member of a limited liability company, a partner in a partnership, or a
-shareholder in a subchapter S corporation, only the amount of credit
-earned by the entity and not the amount of credit claimed by the
-taxpayer may be released.
-  ** NB Effective until January 1, 2019
-  ** (3) The taxpayer shall be required to attach to its tax return its
+  (3) The taxpayer shall be required to attach to its tax return its
 annual final certificate of tax credit issued by the commissioner of
 labor pursuant to section twenty-five-a of the labor law. In no event
 shall the taxpayer be allowed a credit greater than the amount of the
@@ -4697,7 +4641,6 @@ this credit because it is a member of a limited liability company, a
 partner in a partnership, or a shareholder in a subchapter S
 corporation, only the amount of credit earned by the entity and not the
 amount of credit claimed by the taxpayer may be released.
-  ** NB Effective January 1, 2019
   * NB There are 3 sb (tt)'s
   * (tt) Empire state jobs program retention credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided

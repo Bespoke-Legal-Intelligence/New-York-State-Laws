@@ -16,15 +16,14 @@ the United States Code (Trafficking Victims Protection) but has not yet
 obtained such certification, or a person who has reported a crime to law
 enforcement and it reasonably appears to law enforcement that the person
 is such a victim.
-  * (c) "Short-term safe house" means a residential facility operated by
-a not-for-profit agency with experience in providing services to human
+  (c) "Short-term safe house" means a residential facility operated by a
+not-for-profit agency with experience in providing services to human
 trafficking victims, that provides emergency shelter, services and care
 to human trafficking victims including food, shelter, clothing, medical
 care, counseling and appropriate crisis intervention services and
 promotes a safe living environment.
-  * NB Effective December 22, 2018
-  * (d) "Long-term safe house" means a residential facility operated by
-a not-for-profit agency with experience in providing services to human
+  (d) "Long-term safe house" means a residential facility operated by a
+not-for-profit agency with experience in providing services to human
 trafficking victims, that provides shelter for human trafficking victims
 and promotes a safe living environment. In addition, a long-term safe
 house shall provide or assist with securing necessary services for such
@@ -37,5 +36,4 @@ service plan for such human trafficking victim, shall also provide
 counseling and therapeutic services, educational services including life
 skills services, job training and placement and planning services to
 successfully transition such person back into the community.
-  * NB Effective December 22, 2018
 ```

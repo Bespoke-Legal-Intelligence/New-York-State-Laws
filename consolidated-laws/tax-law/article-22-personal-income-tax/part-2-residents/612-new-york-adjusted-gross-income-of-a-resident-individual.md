@@ -718,7 +718,6 @@ firefighter for the cancer disability benefits in section two hundred
 five-cc of the general municipal law to the extent includable in gross
 income for federal income tax purposes.
   * NB There are 3 par (42)'s
-  * NB Effective January 1, 2019
   * (42) (A) The amount of any student loan that is discharged, whether
 in whole or in part, if such discharge was:
   (i) pursuant to subsection (a) or (d) of section 437 of the Higher

@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-g. Confidentiality of records. Except as hereinafter provided,
+  § 499-g. Confidentiality of records. Except as hereinafter provided,
 all complaints, correspondence, commission proceedings and transcripts
 thereof, other papers and data and records of the commission shall be
 confidential and shall not be made available to any person except
@@ -19,5 +19,4 @@ of any person who did not participate at any such hearing suitably
 deleted therefrom, except the subject prosecutor or complainant, shall
 be made available for inspection and copying to the public, or to any
 person, agency or body designated by such prosecutor.
-  * NB Effective January 1, 2019
 ```

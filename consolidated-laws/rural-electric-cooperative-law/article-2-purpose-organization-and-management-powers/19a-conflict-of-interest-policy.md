@@ -4,7 +4,7 @@
 [Rural Electric Cooperative Law](../README.md) › [Article 2 — Purpose; Organization and Management; Powers](README.md)
 
 ```text
-  * § 19-a. Conflict of interest policy. (a) Except as provided in
+  § 19-a. Conflict of interest policy. (a) Except as provided in
 subdivision (d) of this section, the board of every rural electric
 cooperative shall adopt, and oversee the implementation of, and
 compliance with, a conflict of interest policy to ensure that its
@@ -54,5 +54,4 @@ electric cooperative to adopt any specific conflict of interest policy
 not otherwise required by this section or any other law or rule, or to
 supersede or limit any requirement or duty governing conflicts of
 interest required by any other law or rule.
-  * NB Effective January 1, 2019
 ```

@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-c. State commission on prosecutorial conduct; organization. 1.
+  § 499-c. State commission on prosecutorial conduct; organization. 1.
 The commission shall consist of eleven members, of whom two shall be
 appointed by the governor, two by the temporary president of the senate,
 one by the minority leader of the senate, two by the speaker of the
@@ -72,5 +72,4 @@ such deputies, assistants, counsel, investigators and other officers and
 employees as he or she may deem necessary, prescribe their powers and
 duties, fix their compensation and provide for reimbursement of their
 expenses within the amounts appropriated therefor.
-  * NB Effective January 1, 2019
 ```

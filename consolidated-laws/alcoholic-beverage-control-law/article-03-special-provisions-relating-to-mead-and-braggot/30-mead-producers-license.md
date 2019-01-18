@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 30", "kind": "section", "law_id": "ABC", "location_id": "30", "path": "ARTICLE 3 › SECTION 30", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/30.md", "title": "Mead producers' license"} -->
 # Alcoholic Beverage Control Law § 30 — Mead producers' license
 
-[Alcoholic Beverage Control Law](../README.md) › [Article 3 — No title](README.md)
+[Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
   * § 30. Mead producers' license. 1. Any person may apply to the liquor

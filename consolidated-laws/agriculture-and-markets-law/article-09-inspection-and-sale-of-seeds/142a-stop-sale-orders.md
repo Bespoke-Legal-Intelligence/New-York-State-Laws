@@ -4,7 +4,7 @@
 [Agriculture and Markets Law](../README.md) › [Article 9 — Inspection and Sale of Seeds](README.md)
 
 ```text
-  * § 142-a. Stop sale orders. The commissioner may issue and enforce a
+  § 142-a. Stop sale orders. The commissioner may issue and enforce a
 written or printed "stop sale, use or removal" order to the owner or
 custodian of any lot of seed when the commissioner finds that seed is
 being offered or exposed for sale in violation of any of the provisions
@@ -14,5 +14,4 @@ said seed is released by the commissioner in writing; or (2) said
 violation has been otherwise legally disposed of by written authority.
 The commissioner shall release the seed so withdrawn when the
 requirements of the provisions of this article have been complied with.
-  * NB Effective December 22, 2018
 ```

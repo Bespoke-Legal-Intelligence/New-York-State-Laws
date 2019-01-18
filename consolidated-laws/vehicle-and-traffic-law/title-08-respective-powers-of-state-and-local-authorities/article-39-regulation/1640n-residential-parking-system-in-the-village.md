@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1640-N", "kind": "section", "law_id": "VAT", "location_id": "1640-N", "path": "TITLE 8 › ARTICLE 39 › SECTION 1640-N", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1640-N.md", "title": "Residential parking system in the village of Bronxville in the county of Westchester"} -->
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1640-N", "kind": "section", "law_id": "VAT", "location_id": "1640-N", "path": "TITLE 8 › ARTICLE 39 › SECTION 1640-N", "repealed": true, "repealed_date": "2019-01-18", "source": "nys-laws:VAT/1640-N.md", "title": "Residential parking system in the village of Bronxville in the county of Westchester"} -->
 # Vehicle and Traffic Law § 1640-N — Residential parking system in the village of Bronxville in the county of Westchester
 
 [Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 39 — Regulation of Traffic By Cities and Villages](README.md)
+
+**Repealed** (18 Jan 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1640-n. Residential parking system in the village of Bronxville in

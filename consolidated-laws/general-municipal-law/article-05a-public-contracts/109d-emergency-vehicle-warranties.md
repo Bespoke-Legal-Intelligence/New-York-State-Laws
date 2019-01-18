@@ -4,8 +4,8 @@
 [General Municipal Law](../README.md) › [Article 5-A — Public Contracts](README.md)
 
 ```text
-  * § 109-d. Emergency vehicle warranties. 1. Definitions. As used in
-this section:
+  § 109-d. Emergency vehicle warranties. 1. Definitions. As used in this
+section:
   a. "Ambulance" means a motor vehicle designed, appropriately equipped
 and used for the purpose of: (i) transporting emergency medical
 personnel and equipment to sick or injured persons; and (ii) carrying
@@ -283,5 +283,4 @@ contrary to public policy.
   6. Preservation of rights. Nothing in this section shall in any way
 limit the rights or remedies which are otherwise available to a
 municipal consumer under any other law.
-  * NB Effective January 1, 2019
 ```

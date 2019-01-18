@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 34", "kind": "section", "law_id": "ABC", "location_id": "34", "path": "ARTICLE 3 › SECTION 34", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/34.md", "title": "Mead and braggot tasting"} -->
 # Alcoholic Beverage Control Law § 34 — Mead and braggot tasting
 
-[Alcoholic Beverage Control Law](../README.md) › [Article 3 — No title](README.md)
+[Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
   * § 34. Mead and braggot tasting. Any person holding a retail license

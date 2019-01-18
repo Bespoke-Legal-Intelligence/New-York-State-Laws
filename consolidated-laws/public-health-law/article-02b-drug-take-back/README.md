@@ -15,14 +15,13 @@
 <summary>Official heading of Article 2-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 2-B
+                               ARTICLE 2-B
                              DRUG TAKE BACK
 Section 290. Definitions.
         291. Drug take back.
         292. Collection.
         293. Violations.
         294. Jurisdiction.
-  * NB Effective January 6, 2019
 ```
 
 </details>

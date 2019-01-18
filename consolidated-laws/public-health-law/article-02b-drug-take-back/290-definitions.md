@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 2-B — Drug Take Back](README.md)
 
 ```text
-  * § 290. Definitions. As used in this article, unless the context
+  § 290. Definitions. As used in this article, unless the context
 clearly requires otherwise:
   1. "Authorized collector" means: (a) a person, company, corporation or
 other entity that is registered with the United States Drug Enforcement
@@ -55,5 +55,4 @@ entity in the state other than a consumer.
   7. "Repackager" means an entity that owns or operates an establishment
 that repacks and relabels a product or package containing a covered drug
 for further sale or for distribution without further transaction.
-  * NB Effective January 6, 2019
 ```

@@ -36,7 +36,7 @@
 - [§ 253-T Recording tax imposed by the county of Yates](253t-recording-tax-imposed-by-the-county-of-yates.md)
 - [§ 253-U Recording tax imposed by the county of Herkimer](253u-recording-tax-imposed-by-the-county-of-herkimer.md)
 - [§ 253-V Recording tax imposed by the county of Cortland](253v-recording-tax-imposed-by-the-county-of-cortland.md)
-- [§ 253-W Recording tax imposed by the county of Warren](253w-recording-tax-imposed-by-the-county-of-warren.md)
+- [§ 253-W Recording tax imposed by the county of Warren](253w-recording-tax-imposed-by-the-county-of-warren.md) *(repealed)*
 - [§ 253-X Recording tax imposed by the county of Cattaraugus](253x-recording-tax-imposed-by-the-county-of-cattaraugus.md)
 - [§ 253-X\*2 Recording tax imposed by the county of Greene](253x-2-recording-tax-imposed-by-the-county-of-greene.md)
 - [§ 254 Optional tax on prior mortgages](254-optional-tax-on-prior-mortgages.md)
@@ -91,7 +91,6 @@ Section 250.     Definitions.
         253-t.   Recording tax imposed by the county of Yates.
         253-u.   Recording tax imposed by the county of Herkimer.
         253-v.   Recording tax imposed by the county of Cortland.
-        253-w.   Recording tax imposed by the county of Warren.
         253-x.   Recording tax imposed by the county of Cattaraugus.
         253-x*2. Recording tax imposed by the county of Greene.
         254.     Optional tax on prior mortgages.

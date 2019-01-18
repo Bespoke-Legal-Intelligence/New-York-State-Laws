@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 60 Refunds to members](60-refunds-to-members.md)
+- [§ 60 Patronage capital contributions, allocations, and retirements](60-patronage-capital-contributions-allocations-and-retirements.md)
 - [§ 61 Disposition of property](61-disposition-of-property.md)
 - [§ 62 Non-liability of members for debts of cooperative](62-non-liability-of-members-for-debts-of-cooperative.md)
 - [§ 63 Recordation of mortgages; effect thereof](63-recordation-of-mortgages-effect-thereof.md)

@@ -18,7 +18,7 @@
 - [§ 509-I Notification of a conviction resulting from a violation of this chapter in this state or a motor vehicle conviction in another state and ...](509i-notification-of-a-conviction-resulting.md)
 - [§ 509-J Compliance required](509j-compliance-required.md)
 - [§ 509-K Ill or fatigued operator](509k-ill-or-fatigued-operator.md)
-- [§ 509-L Drugs, controlled substance and intoxicating liquor](509l-drugs-controlled-substance-and-intoxicating-liquor.md)
+- [§ 509-L Drugs, controlled substances and intoxicating liquor](509l-drugs-controlled-substances-and-intoxicating-liquor.md)
 - [§ 509-M Duties of the department](509m-duties-of-the-department.md)
 - [§ 509-N Exempt carriers; reporting requirements](509n-exempt-carriers-reporting-requirements.md)
 - [§ 509-O Penalties](509o-penalties.md)

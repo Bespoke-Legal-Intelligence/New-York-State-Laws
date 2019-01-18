@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-e. Panels; referees. 1. The commission may delegate any of its
+  § 499-e. Panels; referees. 1. The commission may delegate any of its
 functions, powers and duties to a panel of three of its members, one of
 whom shall be a member of the bar, except that no panel shall confer
 immunity in accordance with section 50.20 of the criminal procedure law.
@@ -20,5 +20,4 @@ subpoena witnesses, compel their attendance, examine them under oath or
 affirmation and require the production of any books, records, documents
 or other evidence that the referee may deem relevant or material to the
 subject of the hearing.
-  * NB Effective January 1, 2019
 ```

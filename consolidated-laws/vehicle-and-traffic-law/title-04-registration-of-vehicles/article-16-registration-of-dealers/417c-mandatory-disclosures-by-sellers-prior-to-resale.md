@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 4 — Registration of Vehicles](../README.md) › [Article 16 — Registration of Dealers and Transporters](README.md)
 
 ```text
-  * § 417-c. Mandatory disclosures by sellers prior to resale. 1.
+  § 417-c. Mandatory disclosures by sellers prior to resale. 1.
 Certificate of prior nonconformity by manufacturer or dealer. Upon the
 sale or transfer of title by a manufacturer, its agent or any dealer of
 any second-hand fire vehicle or ambulance, previously returned to a
@@ -47,5 +47,4 @@ thousand dollars for each violation. In connection with an application
 made under this subdivision, the attorney general is authorized to take
 proof and to make a determination of the relevant facts and to issue
 subpoenas in accordance with the civil practice law and rules.
-  * NB Effective January 1, 2019
 ```

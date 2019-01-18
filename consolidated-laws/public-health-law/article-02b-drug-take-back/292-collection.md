@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 2-B — Drug Take Back](README.md)
 
 ```text
-  * § 292. Collection. 1. All pharmacies shall provide for the safe
+  § 292. Collection. 1. All pharmacies shall provide for the safe
 collection of drugs, which shall include:
   (a) Offering drug collection by one or more of the following methods:
   (i) On-site collection, dropbox, or receptacle meeting federal
@@ -32,5 +32,4 @@ efficiency.
 take back program shall provide a voucher for a prepaid envelope upon
 dispensing a covered drug. Such voucher shall include information on
 drug take back and safe drug disposal methods.
-  * NB Effective January 6, 2019
 ```

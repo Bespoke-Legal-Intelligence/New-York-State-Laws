@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 2-B — Drug Take Back](README.md)
 
 ```text
-  * § 291. Drug take back. 1. Any manufacturer of a covered drug shall:
+  § 291. Drug take back. 1. Any manufacturer of a covered drug shall:
   (a) operate a drug take back program approved by the department
 individually or jointly with other manufacturers;
   (b) enter into an agreement with a drug take back organization which
@@ -101,5 +101,4 @@ public education and outreach activities, an evaluation of the efficacy
 of the program and each collection method, and any manufacturer out of
 compliance or subject to penalties pursuant to section two hundred
 ninety-four of this article.
-  * NB Effective January 6, 2019
 ```

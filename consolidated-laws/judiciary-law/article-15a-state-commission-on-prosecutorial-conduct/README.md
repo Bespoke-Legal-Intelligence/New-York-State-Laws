@@ -20,7 +20,7 @@
 <summary>Official heading of Article 15-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 15-A
+                              ARTICLE 15-A
                 STATE COMMISSION ON PROSECUTORIAL CONDUCT
 Section 499-a. Establishment of commission.
         499-b. Definitions.
@@ -33,7 +33,6 @@ Section 499-a. Establishment of commission.
         499-i. Resignation not to divest commission or court of appeals
                  of jurisdiction.
         499-j. Effect.
-  * NB Effective January 1, 2019
 ```
 
 </details>

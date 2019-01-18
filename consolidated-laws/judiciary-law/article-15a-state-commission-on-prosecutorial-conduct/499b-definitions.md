@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-b. Definitions. For the purposes of this article the following
+  § 499-b. Definitions. For the purposes of this article the following
 terms have the following meanings:
   1. "Commission" means the state commission on prosecutorial conduct.
   2. "Prosecutor" means a district attorney or any assistant district
@@ -14,5 +14,4 @@ penalty, fine, sanction or forfeiture.
 hundred ninety-nine-f of this article.
   4. "Member of the bar" means a person admitted to the practice of law
 in this state for at least five years.
-  * NB Effective January 1, 2019
 ```

@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 31", "kind": "section", "law_id": "ABC", "location_id": "31", "path": "ARTICLE 3 › SECTION 31", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/31.md", "title": "Farm meadery license"} -->
 # Alcoholic Beverage Control Law § 31 — Farm meadery license
 
-[Alcoholic Beverage Control Law](../README.md) › [Article 3 — No title](README.md)
+[Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
   * § 31. Farm meadery license. 1. Any person may apply to the authority

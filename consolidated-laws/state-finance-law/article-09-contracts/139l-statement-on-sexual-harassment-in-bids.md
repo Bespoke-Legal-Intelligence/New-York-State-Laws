@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 9 — Contracts](README.md)
 
 ```text
-  * § 139-l. Statement on sexual harassment, in bids. 1. (a) Every bid
+  § 139-l. Statement on sexual harassment, in bids. 1. (a) Every bid
 hereafter made to the state or any public department or agency thereof,
 where competitive bidding is required by statute, rule or regulation,
 for work or services performed or to be performed or goods sold or to be
@@ -41,5 +41,4 @@ shall be deemed to have been authorized by the board of directors of
 such bidder, and such authorization shall be deemed to include the
 signing and submission of such bid and the inclusion therein of such
 statement as the act and deed of the corporation.
-  * NB Effective January 1, 2019
 ```

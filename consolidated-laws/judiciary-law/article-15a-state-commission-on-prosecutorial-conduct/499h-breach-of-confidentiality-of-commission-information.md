@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-h. Breach of confidentiality of commission information. 1. Any
+  § 499-h. Breach of confidentiality of commission information. 1. Any
 staff member, employee or agent of the state commission on prosecutorial
 conduct who violates any of the provisions of section four hundred
 ninety-nine-g of this article shall be subject to a reprimand, a fine,
@@ -68,5 +68,4 @@ shall be expunged from his or her record.
   6. The accused staff member, employee or agent may seek review of the
 recommendation by the commission by way of a special proceeding pursuant
 to article seventy-eight of the civil practice law and rules.
-  * NB Effective January 1, 2019
 ```

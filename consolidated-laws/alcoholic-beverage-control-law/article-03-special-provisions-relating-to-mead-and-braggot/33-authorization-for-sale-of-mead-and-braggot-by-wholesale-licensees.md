@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Alcoholic Beverage Control Law § 33", "kind": "section", "law_id": "ABC", "location_id": "33", "path": "ARTICLE 3 › SECTION 33", "repealed": false, "repealed_date": null, "source": "nys-laws:ABC/33.md", "title": "Authorization for sale of mead and braggot by wholesale licensees"} -->
 # Alcoholic Beverage Control Law § 33 — Authorization for sale of mead and braggot by wholesale licensees
 
-[Alcoholic Beverage Control Law](../README.md) › [Article 3 — No title](README.md)
+[Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
   * § 33. Authorization for sale of mead and braggot by wholesale

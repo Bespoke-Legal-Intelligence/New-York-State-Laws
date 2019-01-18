@@ -16,5 +16,5 @@ Notwithstanding any other provision of law, all revenues collected
 pursuant to this section shall be credited to the lupus education and
 prevention fund and shall be used only for those purposes enumerated in
 section ninety-seven-rrrr of the state finance law.
-  * NB There are 2 § 209-L's
+  * NB There are 3 § 209-L's
 ```

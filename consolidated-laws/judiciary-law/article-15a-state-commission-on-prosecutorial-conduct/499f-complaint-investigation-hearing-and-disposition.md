@@ -4,7 +4,7 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  * § 499-f. Complaint; investigation; hearing and disposition. 1. The
+  § 499-f. Complaint; investigation; hearing and disposition. 1. The
 commission shall receive, initiate, investigate and hear complaints with
 respect to the conduct, qualifications, fitness to perform, or
 performance of official duties of any prosecutor, and may determine that
@@ -191,5 +191,4 @@ the complaint.
 subdivision seven or eight or paragraph (a) or (b) of subdivision nine
 of this section, a vacancy shall exist pursuant to article three of the
 public officers law.
-  * NB Effective January 1, 2019
 ```

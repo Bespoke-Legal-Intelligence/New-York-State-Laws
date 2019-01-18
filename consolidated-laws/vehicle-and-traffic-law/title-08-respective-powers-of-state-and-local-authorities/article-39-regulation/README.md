@@ -26,7 +26,7 @@
 - [§ 1640-K Residential parking permit system in the city of Rensselaer](1640k-residential-parking-permit-system-in-the-city.md)
 - [§ 1640-L Residential parking system in the city of Binghamton](1640l-residential-parking-system-in-the-city.md)
 - [§ 1640-M Pilot residential parking permit system in the city of Albany](1640m-pilot-residential-parking-permit-system.md)
-- [§ 1640-N Residential parking system in the village of Bronxville in the county of Westchester](1640n-residential-parking-system-in-the-village.md)
+- [§ 1640-N Residential parking system in the village of Bronxville in the county of Westchester](1640n-residential-parking-system-in-the-village.md) *(repealed)*
 - [§ 1640-O Residential parking system in the village of Dobbs Ferry in the county of Westchester](1640o-residential-parking-system-in-the-village.md)
 - [§ 1640-O\*2 Residential parking system in the village of Mamaroneck in the county of Westchester](1640o-2-residential-parking-system-in-the-village.md)
 - [§ 1640-P Pilot residential parking permit system in the city of Buffalo](1640p-pilot-residential-parking-permit-system.md)
@@ -85,8 +85,6 @@ Section 1640.     Traffic regulations in all cities and villages.
         1640-l.   Residential parking system in the city of Binghamton.
         1640-m.   Pilot residential parking permit system in the city of
                     Albany.
-        1640-n.   Residential parking system in the village of
-                    Bronxville in the county of Westchester.
         1640-o.   Residential parking system in the village of Dobbs
                     Ferry in the county of Westchester.
         1640-o*2. Residential parking system in the village of

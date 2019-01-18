@@ -67,7 +67,6 @@ Section 4.    Department of agriculture and markets.
         25.   Annual reports.
         26.   Transfer of property and records in custody of council of
                 agriculture and markets.
-        26-a. Advisory board on kosher law enforcement.
         27.   Obtaining title to real property by purchase or
                 acquisition.
 ```

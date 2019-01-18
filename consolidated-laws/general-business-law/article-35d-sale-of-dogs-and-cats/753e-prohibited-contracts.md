@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 35-D — Sale of Dogs and Cats](README.md)
 
 ```text
-  * § 753-e. Prohibited contracts. No contract for the purchase of a dog
+  § 753-e. Prohibited contracts. No contract for the purchase of a dog
 or a cat or the financing of such purchase shall include any provisions
 which authorize the use of a dog or a cat as security where such dog or
 cat may be repossessed by the seller or lender contingent on the
@@ -14,5 +14,4 @@ through an unsecured personal loan, nor be construed to limit the
 enforcement of other provisions of this article, article twenty-six-a of
 the agriculture and markets law or other rights or remedies which are
 otherwise available to all parties under any other law.
-  * NB Effective December 23, 2018
 ```
