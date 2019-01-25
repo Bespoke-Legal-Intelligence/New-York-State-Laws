@@ -7,7 +7,7 @@
 
 - [Article 120 — Assault and Related Offenses](article-120-assault-and-related/)
 - [Article 121 — Strangulation and Related Offenses](article-121-strangulation/)
-- [Article 125 — Homicide, Abortion and Related Offenses](article-125-homicide-abortion/)
+- [Article 125 — Homicide and Related Offenses](article-125-homicide-and-related/)
 - [Article 130 — Sex Offenses](article-130-sex-offenses/)
 - [Article 135 — Kidnapping, Coercion and Related Offenses](article-135-kidnapping-coercion/)
 

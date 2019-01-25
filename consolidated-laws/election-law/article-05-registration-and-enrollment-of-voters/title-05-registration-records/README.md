@@ -9,6 +9,7 @@
 - [§ 5-502 Registration records; supplies and equipment](5-502-registration-records-supplies-and-equipment.md)
 - [§ 5-504 Optional discontinuation of central file registration records](5-504-optional-discontinuation-of-central-file-registration.md)
 - [§ 5-506 Optional use of computer registration lists](5-506-optional-use-of-computer-registration-lists.md)
+- [§ 5-507 Voter pre-registration and education on voter pre-registration](5-507-voter-pre-registration-and-education-on-voter-pre.md)
 - [§ 5-508 Confidentiality of registration records in certain cases](5-508-confidentiality-of-registration-records-in-certain-cases.md)
 
 <details>
@@ -22,6 +23,8 @@ Section 5-500. Registration records; form and content.
         5-504. Optional discontinuation of central file registration
                  records.
         5-506. Optional use of computer registration lists.
+        5-507. Voter pre-registration and education on voter
+                 pre-registration.
         5-508. Confidentiality of registration records in certain cases.
 ```
 

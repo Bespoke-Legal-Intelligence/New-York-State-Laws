@@ -11,7 +11,7 @@
 - [Title 3-A — Filing of Certificates of Dissolution of Marriage](title-3a-filing-of-certificates/)
 - [Title 4 — Registration of Deaths: Burial Permits](title-4-registration-of-deaths-burial/)
 - [Title 5 — Registration of Fetal Deaths](title-5-registration-of-fetal-deaths/)
-- [Title 5-A — Induced Viable Births](title-5a-induced-viable-births/)
+- [Title 5-A Induced Viable Births](title-5a-induced-viable-births.md)
 - [Title 6 — Registration of Persons In Institutions](title-6-registration-of-persons/)
 - [Title 7 — Vital Statistics Records](title-7-vital-statistics-records/)
 
@@ -29,7 +29,7 @@ Title   I.   General provisions (Secs. 4100-4104).
                4139).
        IV.   Registration of deaths: burial permits (Secs. 4140-4148).
         V.   Registration of fetal deaths (Secs. 4160-4163).
-        V-A. Induced viable births (Sec. 4164).
+        V-A. Induced viable births.
        VI.   Registration of persons in institutions (Sec. 4165).
       VII.   Vital statistics records (Secs. 4170-4179).
 ```

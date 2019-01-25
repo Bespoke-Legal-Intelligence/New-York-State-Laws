@@ -183,6 +183,7 @@ Article
                  * NB Expired March 31, 1986
                  VIII.   Childhood obesity prevention program
                           (§§2599-a--2599-d).
+  25-A.    Reproductive health act (§§ 2599-aa--2599-bb).
   26.      Helen Hayes Hospital (§§2600-2602).
   26-A.    New York state veterans' home (§§2630-2635).
   27.      Bureau of chronic disease and geriatrics (§§2700-2702).
@@ -309,7 +310,7 @@ Article
                    IV.   Registration of deaths; burial permits
                           (§§4140-4148).
                     V.   Registration of fetal deaths (§§4160-4163).
-                  V-A.   Induced viable births (§4164).
+                  V-A.   Induced viable births.
                    VI.   Registration of persons in institutions
                           (§4165).
                   VII.   Vital statistics records (§§4170-4179).

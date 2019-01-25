@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 7 — Checks Against Fraudulent Practices](README.md)
 
 ```text
-  § 5-708. Change of voter status; reports of.  1. It shall be the duty
+  § 5-708. Change of voter status; reports of. 1. It shall be the duty
 of the state health department and the department of health of the city
 of New York to deliver to the state board of elections, at least
 monthly, records, in a format as mutually determined by both agencies,
@@ -44,8 +44,8 @@ provisions of this section, set forth a residence address outside New
 York state, the state board shall transmit such notices to the chief
 state election official of such state at such times and in such manner
 as it deems appropriate.
-  5. a. At least once each year during the month of May, each board of
-elections shall obtain through the National Change of Address System,
+  5. a. At least once each year during the month of February, each board
+of elections shall obtain through the National Change of Address System,
 the forwarding address for every voter registered with such board of
 elections for whom the United States Postal Service has such a
 forwarding address together with the name of each such voter whom the
