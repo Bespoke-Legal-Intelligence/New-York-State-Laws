@@ -125,5 +125,4 @@ impermissible object or substance;
 such equipment or reported by persons scanned by such equipment; and
   (v) any other information the department may reasonably require.
   * NB Repealed January 30, 2024
-  * NB Effective January 30, 2019
 ```

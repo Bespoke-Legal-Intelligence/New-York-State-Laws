@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 8-602", "kind": "section", "law_id": "ELN", "location_id": "8-602", "path": "ARTICLE 8 › TITLE 6 › SECTION 8-602", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/8-602.md", "title": "State board of elections; powers and duties for early voting"} -->
 # Election Law § 8-602 — State board of elections; powers and duties for early voting
 
-[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 6 — No title](README.md)
+[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 6 — Early Voting](README.md)
 
 ```text
   § 8-602. State board of elections; powers and duties for early voting.

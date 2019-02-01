@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Election Law § 8-600", "kind": "section", "law_id": "ELN", "location_id": "8-600", "path": "ARTICLE 8 › TITLE 6 › SECTION 8-600", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/8-600.md", "title": "Early voting"} -->
 # Election Law § 8-600 — Early voting
 
-[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 6 — No title](README.md)
+[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 6 — Early Voting](README.md)
 
 ```text
   § 8-600. Early voting. 1. Beginning the tenth day prior to any
