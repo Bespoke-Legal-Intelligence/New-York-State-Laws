@@ -15,22 +15,19 @@ of the patient. Where more than one physician shares such
 responsibility, or where a physician is acting on the attending
 physician's behalf, any such physician may act as the attending
 physician pursuant to this article.
-  * 2-a. "Nurse practitioner" means a nurse practitioner certified under
+  2-a. "Nurse practitioner" means a nurse practitioner certified under
 section sixty-nine hundred ten of the education law, practicing within
 his or her scope of practice.
-  * NB Effective February 3, 2019
-  * 2-b. "Psychiatric nurse practitioner" means a nurse practitioner
+  2-b. "Psychiatric nurse practitioner" means a nurse practitioner
 certified by the department of education as a psychiatric nurse
 practitioner.
-  * NB Effective February 3, 2019
-  * 2-c. "Attending nurse practitioner" means the nurse practitioner,
+  2-c. "Attending nurse practitioner" means the nurse practitioner,
 selected by or assigned to a patient, who has primary responsibility for
 the treatment and care of the patient. Where more than one nurse
 practitioner shares such responsibility, or where a nurse practitioner
 is acting on the attending nurse practitioner's behalf, any such nurse
 practitioner may act as the attending nurse practitioner pursuant to
 this article.
-  * NB Effective February 3, 2019
   3. "Capacity to make health care decisions" means the ability to
 understand and appreciate the nature and consequences of health care
 decisions, including the benefits and risks of and alternatives to any

@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 26 — Unfair Claim Settlement Practices; Other Misconduct; Discrimination](README.md)
 
 ```text
-  * § 2616. Discrimination because of status as a living organ or tissue
+  § 2616. Discrimination because of status as a living organ or tissue
 donor. (a) No insurer or entity authorized to do the kinds of business
 specified in paragraph one or three of subsection (a) of section one
 thousand one hundred thirteen of this chapter shall decline to provide
@@ -22,5 +22,4 @@ coverage.
   (c) As used in this section, the terms "organ" and "tissue" shall have
 the same meanings as are provided therefor in section forty-three
 hundred sixty of the public health law.
-  * NB Effective February 3, 2019
 ```

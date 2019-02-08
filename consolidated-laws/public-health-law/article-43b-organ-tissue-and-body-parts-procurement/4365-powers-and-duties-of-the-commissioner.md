@@ -70,7 +70,7 @@ standards for each subcategory of license.
 the council on human blood and transfusion services to adopt rules and
 regulations concerning blood and bone marrow in accordance with article
 thirty-one of this chapter.
-  * 8. The commissioner, in cooperation and consultation with the
+  8. The commissioner, in cooperation and consultation with the
 transplant council and other interested parties, shall develop and
 distribute, in printed form and on the department's internet website,
 informational materials relating to the live donation of organs and
@@ -82,5 +82,4 @@ access to insurance and assistance;
 income tax purposes, granted to living organ and tissue donors; and
   (d) the protections and benefits granted pursuant to the living donor
 protection act of two thousand eighteen.
-  * NB Effective February 3, 2019
 ```

@@ -15,42 +15,12 @@ health care agent, or unless a committee or guardian of the person has
 been appointed for the adult pursuant to article seventy-eight of the
 mental hygiene law or article seventeen-A of the surrogate's court
 procedure act.
-  * 2. Health care proxy; execution; witnesses. (a) A competent adult
-may appoint a health care agent by a health care proxy, signed and dated
-by the adult in the presence of two adult witnesses who shall also sign
-the proxy. Another person may sign and date the health care proxy for
-the adult if the adult is unable to do so, at the adult's direction and
-in the adult's presence, and in the presence of two adult witnesses who
-shall sign the proxy. The witnesses shall state that the principal
-appeared to execute the proxy willingly and free from duress. The person
-appointed as agent shall not act as witness to execution of the health
-care proxy.
-  (b) For persons who reside in a mental hygiene facility operated or
-licensed by the office of mental health, at least one witness shall be
-an individual who is not affiliated with the facility and, if the mental
-hygiene facility is also a hospital as defined in subdivision ten of
-section 1.03 of the mental hygiene law, at least one witness shall be a
-qualified psychiatrist.
-  (c) For persons who reside in a mental hygiene facility operated or
-licensed by the office for people with developmental disabilities, at
-least one witness shall be an individual who is not affiliated with the
-facility and at least one witness shall be a physician or clinical
-psychologist who either is employed by a developmental disabilities
-services office named in section 13.17 of the mental hygiene law or who
-has been employed for a minimum of two years to render care and service
-in a facility operated or licensed by the office for people with
-developmental disabilities, or has been approved by the commissioner of
-developmental disabilities in accordance with regulations approved by
-the commissioner. Such regulations shall require that a physician or
-clinical psychologist possess specialized training or three years
-experience in treating developmental disabilities.
-  * NB Effective until February 3, 2019
-  * 2. Health care proxy; execution; witnesses. (a) A competent adult
-may appoint a health care agent by a health care proxy, signed and dated
-by the adult in the presence of two adult witnesses who shall also sign
-the proxy. Another person may sign and date the health care proxy for
-the adult if the adult is unable to do so, at the adult's direction and
-in the adult's presence, and in the presence of two adult witnesses who
+  2. Health care proxy; execution; witnesses. (a) A competent adult may
+appoint a health care agent by a health care proxy, signed and dated by
+the adult in the presence of two adult witnesses who shall also sign the
+proxy. Another person may sign and date the health care proxy for the
+adult if the adult is unable to do so, at the adult's direction and in
+the adult's presence, and in the presence of two adult witnesses who
 shall sign the proxy. The witnesses shall state that the principal
 appeared to execute the proxy willingly and free from duress. The person
 appointed as agent shall not act as witness to execution of the health
@@ -75,37 +45,11 @@ regulations approved by the commissioner. Such regulations shall require
 that a physician, nurse practitioner or clinical psychologist possess
 specialized training or three years experience in treating developmental
 disabilities.
-  * NB Effective February 3, 2019
-  * 3. Restrictions on who may be and limitations on a health care
-agent.  (a) An operator, administrator or employee of a hospital may not
-be appointed as a health care agent by any person who, at the time of
-the appointment, is a patient or resident of, or has applied for
-admission to, such hospital.
-  (b) The restriction in paragraph (a) of this subdivision shall not
-apply to:
-  (i) an operator, administrator or employee of a hospital who is
-related to the principal by blood, marriage or adoption; or
-  (ii) a physician, subject to the limitation set forth in paragraph (c)
-of this subdivision, except that no physician affiliated with a mental
-hygiene facility or a psychiatric unit of a general hospital may serve
-as agent for a principal residing in or being treated by such facility
-or unit unless the physician is related to the principal by blood,
-marriage or adoption.
-  (c) If a physician is appointed agent, the physician shall not act as
-the patient's attending physician after the authority under the health
-care proxy commences, unless the physician declines the appointment as
-agent at or before such time.
-  (d) No person who is not the spouse, child, parent, brother, sister or
-grandparent of the principal, or is the issue of, or married to, such
-person, shall be appointed as a health care agent if, at the time of
-appointment, he or she is presently appointed health care agent for ten
-principals.
-  * NB Effective until February 3, 2019
-  * 3. Restrictions on who may be and limitations on a health care
-agent.  (a) An operator, administrator or employee of a hospital may not
-be appointed as a health care agent by any person who, at the time of
-the appointment, is a patient or resident of, or has applied for
-admission to, such hospital.
+  3. Restrictions on who may be and limitations on a health care agent.
+(a) An operator, administrator or employee of a hospital may not be
+appointed as a health care agent by any person who, at the time of the
+appointment, is a patient or resident of, or has applied for admission
+to, such hospital.
   (b) The restriction in paragraph (a) of this subdivision shall not
 apply to:
   (i) an operator, administrator or employee of a hospital who is
@@ -127,7 +71,6 @@ grandparent of the principal, or is the issue of, or married to, such
 person, shall be appointed as a health care agent if, at the time of
 appointment, he or she is presently appointed health care agent for ten
 principals.
-  * NB Effective February 3, 2019
   4. Commencement of agent's authority. The agent's authority shall
 commence upon a determination, made pursuant to subdivision one of
 section two thousand nine hundred eighty-three of this article, that the
@@ -201,27 +144,7 @@ health care agent's authority to consent to organ or tissue donation or
 designate another person to do so, under article forty-three of this
 chapter. Failure to state wishes or instructions shall not be construed
 to imply a wish not to donate.
-  * 6. Alternate agent. (a) A competent adult may designate an alternate
-agent in the health care proxy to serve in place of the agent when:
-  (i) the attending physician has determined in a writing signed by the
-physician (A) that the person appointed as agent is not reasonably
-available, willing and competent to serve as agent, and (B) that such
-person is not expected to become reasonably available, willing and
-competent to make a timely decision given the patient's medical
-circumstances;
-  (ii) the agent is disqualified from acting on the principal's behalf
-pursuant to subdivision three of this section or subdivision two of
-section two thousand nine hundred ninety-two of this article, or
-  (iii) under conditions set forth in the proxy.
-  (b) If, after an alternate agent's authority commences, the person
-appointed as agent becomes available, willing and competent to serve as
-agent:
-  (i) the authority of the alternate agent shall cease and the authority
-of the agent shall commence; and
-  (ii) the attending physician shall record the change in agent and the
-reasons therefor in the principal's medical record.
-  * NB Effective until February 3, 2019
-  * 6. Alternate agent. (a) A competent adult may designate an alternate
+  6. Alternate agent. (a) A competent adult may designate an alternate
 agent in the health care proxy to serve in place of the agent when:
   (i) the attending physician or attending nurse practitioner has
 determined in a writing signed by the physician or nurse practitioner
@@ -241,5 +164,4 @@ of the agent shall commence; and
   (ii) the attending physician or attending nurse practitioner shall
 record the change in agent and the reasons therefor in the principal's
 medical record.
-  * NB Effective February 3, 2019
 ```

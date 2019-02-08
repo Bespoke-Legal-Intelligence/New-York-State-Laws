@@ -4,9 +4,9 @@
 [Executive Law](../README.md) › [Article 45-B — Lyme and Tick-borne Diseases Working Group](README.md)
 
 ```text
-  * § 958. Lyme and tick-borne diseases working group. 1. There is
-hereby created in the executive department a Lyme and tick-borne
-diseases working group consisting of the:
+  § 958. Lyme and tick-borne diseases working group. 1. There is hereby
+created in the executive department a Lyme and tick-borne diseases
+working group consisting of the:
   (a) commissioner of health;
   (b) commissioner of the office of mental health;
   (c) commissioner of environmental conservation;
@@ -76,5 +76,4 @@ temporary president of the senate and the speaker of the assembly.
 fifteenth, two thousand nineteen, then the working group may proceed to
 meet and fulfill its responsibilities, pursuant to paragraphs two and
 three of this section, without such appointees.
-  * NB Effective February 3, 2019
 ```

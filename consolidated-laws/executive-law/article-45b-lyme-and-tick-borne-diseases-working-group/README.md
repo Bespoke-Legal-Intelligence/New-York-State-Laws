@@ -11,10 +11,9 @@
 <summary>Official heading of Article 45-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 45-B
+                              ARTICLE 45-B
                LYME AND TICK-BORNE DISEASES WORKING GROUP
 Section 958. Lyme and tick-borne diseases working group.
-  * NB Effective February 3, 2019
 ```
 
 </details>
