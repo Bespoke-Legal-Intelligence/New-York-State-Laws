@@ -4,7 +4,13 @@
 [Judiciary Law](../README.md) › [Article 7-A — Judicial Administration](README.md)
 
 ```text
-  § 219-c. Crimes involving sexual assault; judicial training. The
+  * § 219-c. Crimes involving sexual assault; judicial training. The
 office of court administration shall provide training for judges and
 justices with respect to crimes involving sexual assault.
+  * NB Effective until August 14, 2019
+  * § 219-c. Crimes involving sexual assault and the sexual abuse of
+minors; judicial training. The office of court administration shall
+provide training for judges and justices with respect to crimes
+involving sexual assault, and the sexual abuse of minors.
+  * NB Effective August 14, 2019
 ```

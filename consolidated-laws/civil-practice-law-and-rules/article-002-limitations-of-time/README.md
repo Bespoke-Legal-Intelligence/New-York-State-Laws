@@ -28,6 +28,7 @@
 - [§ 214-D Limitations on certain actions against licensed engineers and architects](214d-limitations-on-certain-actions-against-licensed-engineers-and-architects.md)
 - [§ 214-E Action to recover damages for personal injury caused by the infusion of such blood products which result in the contraction of the human ...](214e-action-to-recover-damages-for-personal-injury-caused-by-the-infusion-of-such.md)
 - [§ 214-F Action to recover damages for personal injury caused by contact with or exposure to any substance or combination of substances found with...](214f-action-to-recover-damages-for-personal-injury-caused-by-contact-with-or-exposure.md)
+- [§ 214-G Certain child sexual abuse cases](214g-certain-child-sexual-abuse-cases.md)
 - [§ 215 Actions to be commenced within one year: against sheriff, coroner or constable; for escape of prisoner; for assault, battery, false impri...](215-actions-to-be-commenced-within-one-year-against-sheriff-coroner-or-constable.md)
 - [§ 216 Abbreviation of period to one year after notice](216-abbreviation-of-period-to-one-year-after-notice.md)
 - [§ 217 Proceeding against body or officer; actions complaining about conduct that would constitute a union's breach of its duty of fair represen...](217-proceeding-against-body-or-officer-actions-complaining-about-conduct-that-would.md)
@@ -128,6 +129,7 @@
                  contact with or exposure to any substance or
                  combination of substances found within an area
                  designated as a superfund site.
+        214-g. Certain child sexual abuse cases.
         215.   Actions to be commenced within one year: against sheriff,
                  coroner or constable; for escape of prisoner; for
                  assault, battery, false imprisonment, malicious

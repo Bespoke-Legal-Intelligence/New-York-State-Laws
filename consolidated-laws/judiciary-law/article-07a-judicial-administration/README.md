@@ -20,6 +20,7 @@
 - [§ 219-A The New York state judicial institute](219a-the-new-york-state-judicial-institute.md)
 - [§ 219-B The New York state court officer academy](219b-the-new-york-state-court-officer-academy.md)
 - [§ 219-C Crimes involving sexual assault; judicial training](219c-crimes-involving-sexual-assault-judicial-training.md)
+- [§ 219-D Rules reviving certain actions; sexual offenses against children](219d-rules-reviving-certain-actions-sexual-offenses-against-children.md)
 
 <details>
 <summary>Official heading of Article 7-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -44,7 +45,10 @@ Section 210.   Administrative officers of the unified court system.
         219.   Capital plans for court facilities.
         219-a. The New York state judicial institute.
         219-b. The New York state court officer academy.
-        219-c. Crimes involving sexual assault; judicial training.
+        219-c. Crimes involving sexual assault and the sexual abuse of
+                 minors; judicial training.
+        219-d. Rules reviving certain actions; sexual offenses against
+                 children.
 ```
 
 </details>
