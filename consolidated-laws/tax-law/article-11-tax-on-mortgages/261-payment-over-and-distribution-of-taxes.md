@@ -63,7 +63,7 @@ and all expenses incurred by such county for county office and court
 facility projects and, after all such expenses are paid, for any and all
 expenses incurred by such county for county correctional and public
 safety facility projects;
-  * NB Effective until December 1, 2018
+  * NB Effective until December 1, 2021
   * (g) with respect to the counties of Washington and Warren, to the
 county treasurer of such county to be used to pay for any and all
 expenses incurred by such counties for the support of community colleges
@@ -71,7 +71,7 @@ pursuant to article one hundred twenty-six of the education law; with
 respect to the county of Essex, to the county treasurer of such county
 to be used to pay for any and all expenses incurred by such county for
 county office and court facility projects;
-  * NB Effective December 1, 2018
+  * NB Effective December 1, 2021
 (h) with respect to the county of Franklin, to the county treasurer of
 such county to be used to pay for any and all expenses incurred by such
 county for county office and county correctional facility projects; (i)

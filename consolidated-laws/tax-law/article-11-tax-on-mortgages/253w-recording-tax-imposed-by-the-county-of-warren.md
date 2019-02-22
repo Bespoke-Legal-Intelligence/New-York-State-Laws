@@ -1,9 +1,7 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 253-W", "kind": "section", "law_id": "TAX", "location_id": "253-W", "path": "ARTICLE 11 › SECTION 253-W", "repealed": true, "repealed_date": "2019-01-18", "source": "nys-laws:TAX/253-W.md", "title": "Recording tax imposed by the county of Warren"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 253-W", "kind": "section", "law_id": "TAX", "location_id": "253-W", "path": "ARTICLE 11 › SECTION 253-W", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/253-W.md", "title": "Recording tax imposed by the county of Warren"} -->
 # Tax Law § 253-W — Recording tax imposed by the county of Warren
 
 [Tax Law](../README.md) › [Article 11 — Tax On Mortgages](README.md)
-
-**Repealed** (18 Jan 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 253-w. Recording tax imposed by the county of Warren. 1. Warren
@@ -82,5 +80,5 @@ effect.
 also be filed with the county clerk of the county of Warren, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB Repealed December 1, 2018
+  * NB Repealed December 1, 2020
 ```

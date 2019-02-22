@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  * § 96. The World Trade Center memorial scholarship fund. 1. There is
+  § 96. The World Trade Center memorial scholarship fund. 1. There is
 hereby established, in the joint custody of the commissioner of taxation
 and finance and the comptroller, a special fund to be known as the World
 Trade Center memorial scholarship fund.
@@ -24,5 +24,4 @@ of education.
   5. To the extent possible, the commissioner of education shall ensure
 that all monies received during a fiscal year are expended prior to the
 end of that fiscal year.
-  * NB Effective February 20, 2019
 ```
