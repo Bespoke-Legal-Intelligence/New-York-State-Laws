@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVP |
 | Type | Consolidated law, chapter 8 |
-| Sections | 784 |
-| Last changed | 15 Feb 2019 |
+| Sections | 792 |
+| Last changed | 1 Mar 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Practice Law & Rules |
 
@@ -25,10 +25,11 @@ AN ACT in relation to civil practice and prescribing rules of civil
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (98 lines)](chapter-text.md)
+[Full chapter text (99 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [1 Mar 2019](../../changes/2019/2019-03-01.md): 8 added
 - [15 Feb 2019](../../changes/2019/2019-02-15.md): 2 amended, 1 added
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 1 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
@@ -38,7 +39,6 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [13 Jul 2018](../../changes/2018/2018-07-13.md): 2 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 1 amended, 2 added
 - [2 Feb 2018](../../changes/2018/2018-02-02.md): 2 amended
-- [27 Oct 2017](../../changes/2017/2017-10-27.md): 1 amended
 
 ## Contents
 
@@ -91,6 +91,7 @@ AN ACT in relation to civil practice and prescribing rules of civil
 - [Article 60 — Provisional Remedies Generally](article-060-provisional-remedies-generally/)
 - [Article 62 — Attachment](article-062-attachment/)
 - [Article 63 — Injunction](article-063-injunction/)
+- [Article 63-A — Extreme Risk Protection Orders](article-063a-extreme-risk-protection-orders/)
 - [Article 64 — Receivership](article-064-receivership/)
 - [Article 65 — Notice of Pendency](article-065-notice-of-pendency/)
 - [Article 70 — Habeas Corpus](article-070-habeas-corpus/)
