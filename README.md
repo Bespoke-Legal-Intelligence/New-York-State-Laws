@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 1 Mar 2019.*
+*Current through the publication of 8 Mar 2019.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [8 Mar 2019](changes/2019/2019-03-08.md): Real Property Tax Law
 - [1 Mar 2019](changes/2019/2019-03-01.md): Civil Practice Law and Rules; Civil Rights Law; Education Law; Environmental Conservation Law; Executive Law; Penal Law
 - [22 Feb 2019](changes/2019/2019-02-22.md): Election Law; Executive Law; Insurance Law; Mental Hygiene Law; Real Property Tax Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 - [15 Feb 2019](changes/2019/2019-02-15.md): Civil Practice Law and Rules; Court of Claims Act; Criminal Procedure Law; Education Law; General Municipal Law; Judiciary Law
@@ -22,25 +23,24 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [1 Feb 2019](changes/2019/2019-02-01.md): Civil Rights Law; Criminal Procedure Law; Education Law; Executive Law; Penal Law; Public Health Law; Vehicle and Traffic Law
 - [25 Jan 2019](changes/2019/2019-01-25.md): Civil Service Law; County Law; Criminal Procedure Law; Education Law; Election Law; Judiciary Law; Penal Law; Public Health Law; Public Officers Law
 - [18 Jan 2019](changes/2019/2019-01-18.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Arts and Cultural Affairs Law; Civil Practice Law and Rules; Correction Law; Education Law; Executive Law; General Business Law; General Municipal Law; General Obligations Law; Judiciary Law; Labor Law; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; Public Health Law; Public Officers Law; Real Property Tax Law; Rural Electric Cooperative Law; Social Services Law; State Finance Law; Tax Law; Town Law; Vehicle and Traffic Law
-- [11 Jan 2019](changes/2019/2019-01-11.md): Alcoholic Beverage Control Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; County Law; Criminal Procedure Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; General City Law; General Municipal Law; General Obligations Law; Indian Law; Insurance Law; Labor Law; Legislative Law; Local Finance Law; Mental Hygiene Law; Military Law; Multiple Residence Law; Municipal Home Rule Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Officers Law; Racing, Pari-Mutuel Wagering and Breeding Law; Railroad Law; Real Property Law; Real Property Tax Law; Retirement and Social Security Law; Second Class Cities Law; Social Services Law; Surrogate's Court Procedure Act; Tax Law; Town Law; Transportation Corporations Law; Uniform Justice Court Act; Vehicle and Traffic Law; Village Law; Volunteer Firefighters' Benefit Law; Workers' Compensation Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 176 |
-| [Education Law](consolidated-laws/education-law/README.md) | 148 |
+| [Education Law](consolidated-laws/education-law/README.md) | 144 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 128 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 127 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 105 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 104 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 88 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 78 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 79 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 71 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 70 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 62 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 61 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 58 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 54 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 51 |
 | [Election Law](consolidated-laws/election-law/README.md) | 47 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 44 |
 
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 324 | 24 Aug 2018 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 411 | 11 Jan 2019 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 763 | 22 Feb 2019 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 763 | 8 Mar 2019 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 336 | 5 Oct 2018 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 543 | 11 Jan 2019 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 18 Jan 2019 |
