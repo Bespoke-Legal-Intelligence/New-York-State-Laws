@@ -4,11 +4,10 @@
 [Correction Law](../README.md) › [Article 22 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 625. Feminine hygiene products. Feminine hygiene products,
+  § 625. Feminine hygiene products. Feminine hygiene products,
 including, but not limited to, sanitary napkins, tampons and panty
 liners, shall be provided at no cost to individuals housed in state and
 local correctional facilities used for the general confinement of female
 inmates and in any other state or local facility where women are
 detained or confined by law enforcement agencies.
-  * NB Effective March 7, 2019
 ```

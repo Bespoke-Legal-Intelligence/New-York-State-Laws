@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 4 — Teachers and Pupils](../README.md) › [Article 61 — Teachers and Supervisory and Administrative Staff](README.md)
 
 ```text
-  * § 3038. The superintendent of each school district, in consultation
+  § 3038. The superintendent of each school district, in consultation
 with the district superintendent of a board of cooperative educational
 services, where applicable, shall designate an employee who is a member
 of the school district staff or an employee of the board of cooperative
@@ -22,5 +22,4 @@ and rules. Provided, however, that nothing in this section shall relieve
 such designated individual of any legal duty to otherwise report such
 information. Such designated individual or individuals shall undergo any
 necessary training as may be required by the commissioner.
-  * NB Effective March 5, 2019
 ```
