@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 22 Mar 2019.*
+*Current through the publication of 29 Mar 2019.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [29 Mar 2019](changes/2019/2019-03-29.md): Alcoholic Beverage Control Law; Election Law; Environmental Conservation Law; Family Court Act; General Business Law
 - [22 Mar 2019](changes/2019/2019-03-22.md): Agriculture and Markets Law; Executive Law
 - [15 Mar 2019](changes/2019/2019-03-15.md): Agriculture and Markets Law; Correction Law; Education Law; Executive Law; Family Court Act; Mental Hygiene Law; Not-for-Profit Corporation Law; Real Property Tax Law
 - [8 Mar 2019](changes/2019/2019-03-08.md): Real Property Tax Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 Feb 2019](changes/2019/2019-02-22.md): Election Law; Executive Law; Insurance Law; Mental Hygiene Law; Real Property Tax Law; State Finance Law; Tax Law; Vehicle and Traffic Law
 - [15 Feb 2019](changes/2019/2019-02-15.md): Civil Practice Law and Rules; Court of Claims Act; Criminal Procedure Law; Education Law; General Municipal Law; Judiciary Law
 - [8 Feb 2019](changes/2019/2019-02-08.md): Executive Law; Insurance Law; Parks, Recreation and Historic Preservation Law; Public Health Law; Real Property Tax Law; Workers' Compensation Law
-- [1 Feb 2019](changes/2019/2019-02-01.md): Civil Rights Law; Criminal Procedure Law; Education Law; Executive Law; Penal Law; Public Health Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -30,19 +30,19 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 176 |
 | [Education Law](consolidated-laws/education-law/README.md) | 144 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 129 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 128 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 128 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 104 |
-| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 88 |
+| [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 87 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 81 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 71 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 73 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 70 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 62 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | 61 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 58 |
+| [Election Law](consolidated-laws/election-law/README.md) | 51 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 49 |
-| [Election Law](consolidated-laws/election-law/README.md) | 45 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 44 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | 48 |
 
 ## Consolidated Laws
 
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 667 | 22 Mar 2019 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 177 | 18 Jan 2019 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 177 | 29 Mar 2019 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 253 | 18 Jan 2019 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 838 | 4 Jan 2019 |
@@ -69,16 +69,16 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 14 Dec 2018 |
 | [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,888 | 15 Mar 2019 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 5 Oct 2018 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 397 | 22 Feb 2019 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 397 | 29 Mar 2019 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,710 | 1 Mar 2019 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,710 | 29 Mar 2019 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 31 Aug 2018 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 897 | 22 Mar 2019 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,231 | 18 Jan 2019 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,231 | 29 Mar 2019 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 11 Jan 2019 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | no change since 22 Sep 2014 (start of history) |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,079 | 15 Feb 2019 |
@@ -183,7 +183,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 15 Feb 2019 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 15 Mar 2019 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 29 Mar 2019 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 4 Sep 2015 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 33 | 11 Jan 2019 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 11 Jan 2019 |

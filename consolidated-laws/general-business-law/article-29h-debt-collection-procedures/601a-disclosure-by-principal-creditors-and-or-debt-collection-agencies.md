@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 29-H — Debt Collection Procedures](README.md)
 
 ```text
-  * § 601-a. Disclosure by principal creditors and/or debt collection
+  § 601-a. Disclosure by principal creditors and/or debt collection
 agencies. No principal creditors and/or debt collection agencies shall
 make any representation that a person is required to pay the debt of a
 family member in a way that contravenes with the Fair Debt Collection
@@ -12,5 +12,4 @@ Practices Act (15 USC § 1692 et seq.). In addition, the principal
 creditors and/or debt collection agencies shall not make any
 misrepresentation about the family member's obligation to pay such
 debts.
-  * NB Effective March 28, 2019
 ```

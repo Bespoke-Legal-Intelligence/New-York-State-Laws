@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
-  * § 34. Mead and braggot tasting. Any person holding a retail license
+  § 34. Mead and braggot tasting. Any person holding a retail license
 under this chapter shall be permitted to conduct consumer tastings of
 mead and braggot upon such person's licensed premises. All such tastings
 shall be subject to the following limitations:
@@ -25,5 +25,4 @@ of sections 11-100 and 11-101 of the general obligations law shall
 accrue to the licensee.
   6. No person under the age of twenty-one shall be permitted to serve a
 sample or handle an open container of mead or braggot.
-  * NB Effective March 28, 2019
 ```

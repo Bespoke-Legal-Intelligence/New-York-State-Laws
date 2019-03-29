@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
-  * § 31. Farm meadery license. 1. Any person may apply to the authority
+  § 31. Farm meadery license. 1. Any person may apply to the authority
 for a farm meadery license as provided for in this section to produce
 mead and braggot within this state for sale. Such application shall be
 in writing and verified and shall contain such information as the
@@ -197,5 +197,4 @@ such rules and regulations, the authority shall promote the expansion
 and profitability of mead and braggot production and of tourism in New
 York, thereby promoting the conservation, production and enhancement of
 New York state agricultural lands.
-  * NB Effective March 28, 2019
 ```

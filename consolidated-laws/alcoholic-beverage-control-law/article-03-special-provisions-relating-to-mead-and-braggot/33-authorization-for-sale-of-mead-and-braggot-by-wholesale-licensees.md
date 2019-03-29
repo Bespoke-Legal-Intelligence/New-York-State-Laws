@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
-  * § 33. Authorization for sale of mead and braggot by wholesale
+  § 33. Authorization for sale of mead and braggot by wholesale
 licensees. 1. Each wholesale licensee authorized to sell beer under this
 chapter shall have the right, by virtue of its license and without being
 required to pay any additional fee for the privilege, to sell at
@@ -26,5 +26,4 @@ which has been designated as wine pursuant to subdivision nineteen-a of
 section three of this chapter. Such mead shall be subject to the
 provisions of this chapter regarding the tasting and sale or wine at
 wholesale and retail.
-  * NB Effective March 28, 2019
 ```

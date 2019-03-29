@@ -4,7 +4,7 @@
 [Alcoholic Beverage Control Law](../README.md) › [Article 3 — Special Provisions Relating to Mead and Braggot](README.md)
 
 ```text
-  * § 30. Mead producers' license. 1. Any person may apply to the liquor
+  § 30. Mead producers' license. 1. Any person may apply to the liquor
 authority for a mead producers' license as provided for in this section.
 Such application shall be in writing and shall contain such information
 as the liquor authority shall require. Such application shall be
@@ -96,5 +96,4 @@ thereby shall be subject to such rules and conditions of the authority
 as it deems necessary.
   4. A mead producer shall manufacture at least fifty gallons of mead
 and/or braggot annually.
-  * NB Effective March 28, 2019
 ```
