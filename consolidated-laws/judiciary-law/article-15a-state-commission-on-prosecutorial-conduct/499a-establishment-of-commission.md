@@ -4,12 +4,12 @@
 [Judiciary Law](../README.md) › [Article 15-A — State Commission On Prosecutorial Conduct](README.md)
 
 ```text
-  § 499-a. Establishment of commission. A state commission of
-prosecutorial conduct is hereby established. The commission shall have
-the authority to review the conduct of prosecutors upon the filing of a
-complaint with the commission to determine whether said conduct as
-alleged departs from the applicable statutes, case law, New York Rules
-of Professional Conduct, 22 NYCRR 1200, including but not limited to
-Rule 3.8 (Special Responsibilities of Prosecutors and Other Government
-Lawyers).
+  § 499-a. Establishment of commission. There is hereby created within
+the executive department a state commission of prosecutorial conduct.
+The commission shall have the authority to review the conduct of
+prosecutors upon the filing of a complaint with the commission to
+determine whether said conduct as alleged departs from the applicable
+statutes, case law, New York Rules of Professional Conduct, 22 NYCRR
+1200, including but not limited to Rule 3.8 (Special Responsibilities of
+Prosecutors and Other Government Lawyers).
 ```

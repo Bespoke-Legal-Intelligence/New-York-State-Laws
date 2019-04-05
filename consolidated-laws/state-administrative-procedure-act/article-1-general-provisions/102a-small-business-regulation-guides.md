@@ -4,22 +4,7 @@
 [State Administrative Procedure Act](../README.md) › [Article 1 — General Provisions](README.md)
 
 ```text
-  * § 102-a. Small business regulation guides. For each rule or group of
-related rules which significantly impact a substantial number of small
-businesses, the agency which adopted the rule shall post on its website
-one or more guides explaining the actions a small business may take to
-comply with such rule or group of rules if the agency determines that
-such guide or guides will assist small businesses in complying with the
-rule, and shall designate each such posting as a "small business
-regulation guide". The guide shall explain the actions a small business
-may take to comply with a rule or group of rules. The agency shall, in
-its sole discretion, taking into account the subject matter of the rule
-and the language of relevant statutes, ensure that the guide is written
-using sufficiently plain language that it is likely to be understood by
-affected small businesses. Agencies shall cooperate with other state
-agencies in developing such guides.
-  * NB Effective until April 1, 2019
-  * § 102-a. Small business regulation guides. 1. For each rule or group
+  § 102-a. Small business regulation guides. 1. For each rule or group
 of related rules which significantly impact a substantial number of
 small businesses, the agency which adopted the rule shall post on its
 website one or more guides explaining the actions a small business may
@@ -41,5 +26,4 @@ subject matter of the rule and the language of relevant statutes, ensure
 that the guide is written using sufficiently plain language that it is
 likely to be understood by affected small businesses. Agencies shall
 cooperate with other state agencies in developing such guides.
-  * NB Effective April 1, 2019
 ```
