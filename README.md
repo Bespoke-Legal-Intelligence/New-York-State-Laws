@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 5 Apr 2019.*
+*Current through the publication of 12 Apr 2019.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [12 Apr 2019](changes/2019/2019-04-12.md): Civil Service Law; Correction Law; Education Law; Executive Law; Public Health Law; State Finance Law
 - [5 Apr 2019](changes/2019/2019-04-05.md): County Law; Executive Law; General Business Law; Judiciary Law; Military Law; Public Housing Law; State Administrative Procedure Act
 - [29 Mar 2019](changes/2019/2019-03-29.md): Alcoholic Beverage Control Law; Election Law; Environmental Conservation Law; Family Court Act; General Business Law
 - [22 Mar 2019](changes/2019/2019-03-22.md): Agriculture and Markets Law; Executive Law
@@ -22,23 +23,22 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [8 Mar 2019](changes/2019/2019-03-08.md): Real Property Tax Law
 - [1 Mar 2019](changes/2019/2019-03-01.md): Civil Practice Law and Rules; Civil Rights Law; Education Law; Environmental Conservation Law; Executive Law; Penal Law
 - [22 Feb 2019](changes/2019/2019-02-22.md): Election Law; Executive Law; Insurance Law; Mental Hygiene Law; Real Property Tax Law; State Finance Law; Tax Law; Vehicle and Traffic Law
-- [15 Feb 2019](changes/2019/2019-02-15.md): Civil Practice Law and Rules; Court of Claims Act; Criminal Procedure Law; Education Law; General Municipal Law; Judiciary Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 175 |
-| [Education Law](consolidated-laws/education-law/README.md) | 144 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 129 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 176 |
+| [Education Law](consolidated-laws/education-law/README.md) | 145 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 130 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 128 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 104 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 87 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 81 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 74 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 70 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 63 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 62 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | 61 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 58 |
 | [Election Law](consolidated-laws/election-law/README.md) | 51 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 49 |
@@ -59,15 +59,15 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 27 Apr 2018 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 792 | 1 Mar 2019 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 108 | 1 Mar 2019 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 25 Jan 2019 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 170 | 12 Apr 2019 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | no change since 22 Sep 2014 (start of history) |
-| [Correction Law](consolidated-laws/correction-law/README.md) | COR | 326 | 15 Mar 2019 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | COR | 326 | 12 Apr 2019 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 445 | 5 Apr 2019 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 576 | 15 Feb 2019 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 4 Jan 2019 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 14 Dec 2018 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,888 | 15 Mar 2019 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,888 | 12 Apr 2019 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 5 Oct 2018 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 397 | 29 Mar 2019 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
@@ -75,7 +75,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | no change since 22 Sep 2014 (start of history) |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,710 | 29 Mar 2019 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 31 Aug 2018 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 897 | 5 Apr 2019 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 897 | 12 Apr 2019 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 29 Jul 2016 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,231 | 5 Apr 2019 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 14 Dec 2018 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,132 | 18 Jan 2019 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 52 | 31 Aug 2018 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,651 | 8 Feb 2019 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,651 | 12 Apr 2019 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 330 | 5 Apr 2019 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 2 Dec 2016 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 115 | 25 Jan 2019 |
@@ -126,7 +126,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 693 | 18 Jan 2019 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 20 Apr 2018 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 30 | 5 Apr 2019 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 529 | 22 Feb 2019 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 529 | 12 Apr 2019 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 97 | 4 Jan 2019 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 27 Apr 2018 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |

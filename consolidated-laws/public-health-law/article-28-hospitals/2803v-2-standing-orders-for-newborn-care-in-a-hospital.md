@@ -78,5 +78,4 @@ the lawful scope of practice of a registered nurse.
   8. The commissioner may make regulations governing the terms,
 procedures and implementation of standing orders.
   * NB There are 2 § 2803-v's
-  * NB Effective April 6, 2019
 ```
