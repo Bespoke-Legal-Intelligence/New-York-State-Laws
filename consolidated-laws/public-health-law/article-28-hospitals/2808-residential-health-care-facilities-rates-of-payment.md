@@ -1018,32 +1018,32 @@ ninety-nine and thereafter, the commissioner shall consider such rate
 appeals within a reasonable period.
   (b) Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for the state fiscal years beginning April first, two
-thousand ten and ending March thirty-first, two thousand nineteen, the
-commissioner shall not be required to revise certified rates of payment
-established pursuant to this article for rate periods prior to April
-first, two thousand nineteen, based on consideration of rate appeals
-filed by residential health care facilities or based upon adjustments to
-capital cost reimbursement as a result of approval by the commissioner
-of an application for construction under section twenty-eight hundred
-two of this article, in excess of an aggregate annual amount of eighty
-million dollars for each such state fiscal year provided, however, that
-for the period April first, two thousand eleven through March
-thirty-first, two thousand twelve such aggregate annual amount shall be
-fifty million dollars. In revising such rates within such fiscal limit,
-the commissioner shall, in prioritizing such rate appeals, include
-consideration of which facilities the commissioner determines are facing
-significant financial hardship as well as such other considerations as
-the commissioner deems appropriate and, further, the commissioner is
-authorized to enter into agreements with such facilities or any other
-facility to resolve multiple pending rate appeals based upon a
-negotiated aggregate amount and may offset such negotiated aggregate
-amounts against any amounts owed by the facility to the department,
-including, but not limited to, amounts owed pursuant to section
-twenty-eight hundred seven-d of this article; provided, however, that
-the commissioner's authority to negotiate such agreements resolving
+thousand ten and ending March thirty-first, two thousand twenty-three,
+the commissioner shall not be required to revise certified rates of
+payment established pursuant to this article for rate periods prior to
+April first, two thousand twenty-three, based on consideration of rate
+appeals filed by residential health care facilities or based upon
+adjustments to capital cost reimbursement as a result of approval by the
+commissioner of an application for construction under section
+twenty-eight hundred two of this article, in excess of an aggregate
+annual amount of eighty million dollars for each such state fiscal year
+provided, however, that for the period April first, two thousand eleven
+through March thirty-first, two thousand twelve such aggregate annual
+amount shall be fifty million dollars. In revising such rates within
+such fiscal limit, the commissioner shall, in prioritizing such rate
+appeals, include consideration of which facilities the commissioner
+determines are facing significant financial hardship as well as such
+other considerations as the commissioner deems appropriate and, further,
+the commissioner is authorized to enter into agreements with such
+facilities or any other facility to resolve multiple pending rate
+appeals based upon a negotiated aggregate amount and may offset such
+negotiated aggregate amounts against any amounts owed by the facility to
+the department, including, but not limited to, amounts owed pursuant to
+section twenty-eight hundred seven-d of this article; provided, however,
+that the commissioner's authority to negotiate such agreements resolving
 multiple pending rate appeals as hereinbefore described shall continue
-on and after April first, two thousand nineteen. Rate adjustments made
-pursuant to this paragraph remain fully subject to approval by the
+on and after April first, two thousand twenty-three. Rate adjustments
+made pursuant to this paragraph remain fully subject to approval by the
 director of the budget in accordance with the provisions of subdivision
 two of section twenty-eight hundred seven of this article.
   (c) Notwithstanding any other contrary provision of law, rule or

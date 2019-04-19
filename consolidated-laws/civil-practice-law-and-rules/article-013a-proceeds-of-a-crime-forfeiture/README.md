@@ -8,6 +8,7 @@
 - [§ 1310 Definitions](1310-definitions.md)
 - [§ 1311 Forfeiture actions](1311-forfeiture-actions.md)
 - [§ 1311-A Subpoena duces tecum](1311a-subpoena-duces-tecum.md)
+- [§ 1311-B Money judgment](1311b-money-judgment.md)
 - [§ 1312 Provisional remedies; generally](1312-provisional-remedies-generally.md)
 - [§ 1313 Debt or property subject to attachment; proper garnishee](1313-debt-or-property-subject-to-attachment-proper-garnishee.md)
 - [§ 1314 Attaching creditor's rights in personal property](1314-attaching-creditors-rights-in-personal-property.md)
@@ -59,6 +60,7 @@
 Section 1310.   Definitions.
         1311.   Forfeiture actions.
         1311-a. Subpoena duces tecum.
+        1311-b. Money judgment.
         1312.   Provisional remedies; generally.
         1313.   Debt or property subject to attachment; proper
                   garnishee.

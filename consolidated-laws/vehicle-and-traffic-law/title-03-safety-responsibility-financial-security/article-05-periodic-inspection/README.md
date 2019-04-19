@@ -16,6 +16,7 @@
 - [§ 306 Enforcement](306-enforcement.md)
 - [§ 307 Voluntary inspection](307-voluntary-inspection.md)
 - [§ 308 Definitions](308-definitions.md)
+- [§ 308-A Mandatory reporting](308a-mandatory-reporting.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -35,6 +36,7 @@ Section 301.   Periodic inspection of all motor vehicles.
         306.   Enforcement.
         307.   Voluntary inspection.
         308.   Definitions.
+        308-a. Mandatory reporting.
 ```
 
 </details>

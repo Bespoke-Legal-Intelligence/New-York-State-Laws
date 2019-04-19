@@ -18,6 +18,7 @@
 - [§ 4306-E Prohibition on lifetime and annual limits](4306e-prohibition-on-lifetime-and-annual-limits.md)
 - [§ 4306-F Maternal depression screenings](4306f-maternal-depression-screenings.md)
 - [§ 4306-G Telehealth delivery of services](4306g-telehealth-delivery-of-services.md)
+- [§ 4306-H Essential health benefits package and limit on cost-sharing](4306h-essential-health-benefits-package-and-limit-on-cost-sharing.md)
 - [§ 4307 Providers of services](4307-providers-of-services.md)
 - [§ 4308 Supervision of superintendent](4308-supervision-of-superintendent.md)
 - [§ 4309 Limitation on expenses](4309-limitation-on-expenses.md)
@@ -41,6 +42,8 @@
 - [§ 4326 Standardized health insurance contracts for qualifying small employers and individuals](4326-standardized-health-insurance-contracts-for-qualifying-small-employers.md)
 - [§ 4327 Stop loss funds for standardized health insurance contracts issued to qualifying small employers and qualifying individuals](4327-stop-loss-funds-for-standardized-health-insurance-contracts-issued-to-qualifying.md)
 - [§ 4328 Individual enrollee direct payment contracts offered by health maintenance organization on and after October first, two thousand thirteen](4328-individual-enrollee-direct-payment-contracts-offered-by-health-maintenance.md)
+- [§ 4329 Prescription drug coverage](4329-prescription-drug-coverage.md)
+- [§ 4330 Discrimination because of sex or marital status in hospital, surgical or medical expense insurance](4330-discrimination-because-of-sex-or-marital-status-in-hospital-surgical-or-medical.md)
 
 <details>
 <summary>Official heading of Article 43, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -64,6 +67,8 @@ Section 4301.   Organization of corporation; purposes; board of
         4306-e. Prohibition on lifetime and annual limits.
         4306-f. Maternal depression screenings.
         4306-g. Telehealth delivery of services.
+        4306-h. Essential health benefits package and limit on
+                  cost-sharing.
         4307.   Providers of services.
         4308.   Supervision of superintendent.
         4309.   Limitation on expenses.
@@ -101,6 +106,9 @@ Section 4301.   Organization of corporation; purposes; board of
         4328.   Individual enrollee direct payment contracts offered by
                   health maintenance organization on and after October
                   first, two thousand thirteen.
+        4329.   Prescription drug coverage.
+        4330.   Discrimination because of sex or marital status in
+                  hospital, surgical or medical expense insurance.
 ```
 
 </details>

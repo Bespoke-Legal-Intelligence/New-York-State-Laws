@@ -43,6 +43,7 @@ Article
                    VI.   Women's Health (§§ 266-267).
                     6.   The 21st century workgroup for disease
                             elimination and reduction (§ 266).
+                  VII.   NY State of Health (§§ 268-268-h).
    2-A.    Prescription drugs.
            Title    I.   Preferred drug and clinical drug review
                            programs (§§ 270-277).

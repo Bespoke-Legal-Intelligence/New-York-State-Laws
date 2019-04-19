@@ -19,12 +19,28 @@ appropriate regarding:
 the availability of other therapies, consultations, or tests; or
   (b) the provisions, terms, or requirements of the health care plan's
 products as they relate to the enrollee, where applicable.
-  3. No health care plan shall by contract, written policy or written
+  * 3. No health care plan shall by contract, written policy or written
 procedure prohibit or restrict any health care provider from filing a
 complaint, making a report or commenting to an appropriate governmental
 body regarding the policies or practices of such health care plan which
 the provider believes may negatively impact upon the quality of, or
 access to, patient care.
+  * NB Effective until January 1, 2020
+  * 3. No health care plan shall by contract, written policy, written
+procedure or practice prohibit or restrict any health care provider from
+filing a complaint, making a report or commenting to an appropriate
+governmental body regarding the policies or practices of such health
+care plan which the provider believes may negatively impact upon the
+quality of, or access to, patient care. Nor shall a health care plan
+take any adverse action, including but not limited to refusing to renew
+or execute a contract or agreement with a health care provider as
+retaliation against a health care provider for filing a complaint,
+making a report or commenting to an appropriate governmental body
+regarding policies or practices of such health care plan which may
+violate this chapter or the insurance law including subsection (g), (k),
+(l), (l-1) or (1-2) of section forty-three hundred three of the
+insurance law.
+  * NB Effective January 1, 2020
   4. No health care plan shall by contract, written policy or written
 procedure prohibit or restrict any health care provider from advocating
 to the health care plan on behalf of the enrollee for approval or
@@ -154,4 +170,56 @@ a general hospital certified pursuant to article twenty-eight of this
 chapter. Nothing in this subdivision shall prohibit a health care plan
 from denying a claim for such services if the services are subsequently
 determined not medically necessary.
+  10. (a) Any contract or other arrangement entered into by a health
+care plan for the provision and administration of pharmacy benefit
+management services on behalf of individuals enrolled in a managed care
+provider, as defined in section three hundred sixty-four-j of the social
+services law, shall be based on a pass-through pricing model and include
+the following requirements:
+  (i) Payment to the pharmacy benefit manager for pharmacy benefit
+management services shall be limited to the actual ingredient costs,
+dispensing fees paid to pharmacies, and an administrative fee that
+covers the cost of providing pharmacy benefit management services
+pursuant to a contract described in this paragraph. The department may
+establish a maximum administrative fee;
+  (ii) The pharmacy benefit manager shall identify all sources and
+amounts of income, payments, and financial benefits to the pharmacy
+benefit manager related to the provision and administration of pharmacy
+benefit management services on behalf of the health care plan,
+including, but not limited to, any pricing discounts, rebates of any
+kind, inflationary payments, credits, clawbacks, fees, grants,
+chargebacks, reimbursements, or other benefits and shall ensure that any
+portion of such income, payments, and financial benefits is passed
+through to the health care plan in full to reduce the reportable
+ingredient cost;
+  (iii) The pharmacy benefit manager shall fully disclose to the
+department and to the health care plan the sources and amounts of all
+income, payments, and financial benefits referred to in subparagraph
+(ii) of this paragraph received by the pharmacy benefit manager;
+  (iv) The pharmacy benefit manager shall identify all ingredient costs
+and dispensing fees or similar payments made by the pharmacy benefit
+manager to any pharmacy in connection with the contract or other
+arrangement;
+  (v) The pharmacy benefit manager shall not utilize any form of spread
+pricing in any contract or other arrangement with health care plans. For
+purposes of this subdivision "spread pricing" means any amount charged
+or claimed by the pharmacy benefit manager in excess of the amount paid
+to pharmacies on behalf of the health care plan less an administrative
+fee as described in this paragraph. Any such excess amount shall be
+remitted to the health care plan on a quarterly basis;
+  (vi) Pharmacy benefit managers shall make their payment model for
+administrative fees available to the health care plan and to the
+department. The health care plan shall, if so directed by the
+department, make changes to the payment model and resubmit an amended
+contract or contracts to the department for review and approval.
+  (b) Any changes to premiums resulting from such contracts shall be
+subject to certification by the state's actuary as actuarially
+appropriate.
+  (c) Contracts or other arrangements subject to this subdivision shall
+be submitted to the department for review and approval as required by
+and in accordance with state law and the regulations of the department.
+Contracts or other arrangements subject to this subdivision existing and
+in force at the time of enactment of this subdivision shall be submitted
+to the department for review and approval on or before July first, two
+thousand nineteen.
 ```

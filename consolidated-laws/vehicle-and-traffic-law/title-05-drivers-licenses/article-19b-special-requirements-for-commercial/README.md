@@ -15,6 +15,7 @@
 - [§ 509-W Penalties](509w-penalties.md)
 - [§ 509-X Exemptions](509x-exemptions.md)
 - [§ 509-Y Rules and regulations](509y-rules-and-regulations.md)
+- [§ 509-Z Motor carrier information](509z-motor-carrier-information.md)
 
 <details>
 <summary>Official heading of Article 19-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -32,6 +33,7 @@ Section 509-p. Definitions.
         509-w. Penalties.
         509-x. Exemptions.
         509-y. Rules and regulations.
+        509-z. Motor carrier information.
 ```
 
 </details>

@@ -103,7 +103,16 @@ compliance with the standards promulgated by such office shall be deemed
 in compliance with the provisions of this section, so long as such plans
 adequately address medical assistance program risk areas and compliance
 issues.
-  (b) In the event that the commissioner of health or the Medicaid
+  (b) A compliance program that meets Federal requirements for managed
+care provider compliance programs, as specified in the contract or
+contracts between the department and the Medicaid managed care provider
+shall be deemed in compliance with the provisions in this section, so
+long as such programs adequately address medical assistance program risk
+areas and compliance issues. For purposes of this section, a managed
+care provider is as defined in paragraph (c) of subdivision one of
+section three hundred sixty-four-j of this chapter, and includes managed
+long term care plans.
+  (c) In the event that the commissioner of health or the Medicaid
 inspector general finds that the provider does not have a satisfactory
 program within ninety days after the effective date of the regulations
 issued pursuant to subdivision four of this section, the provider may be

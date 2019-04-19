@@ -84,10 +84,38 @@ proper enforcement of this article, provide by regulation that customers
 shall file returns and pay directly to the tax commission any tax herein
 imposed, at such times as returns are required to be filed and payment
 made by persons required to collect the tax.
-  (d) No person required to collect any tax imposed by this article
+  (d) (1) no person required to collect any tax imposed by this article
 shall advertise or hold out to the public in any manner, directly or
-indirectly, that the tax is not considered as an element in the price,
-amusement charge or rent payable by customers.
+indirectly, that the tax imposed by this article is not considered as an
+element in the price, amusement charge or rent payable by customers.
+However, such person required to collect tax may advertise, hold out, or
+state to a retail purchaser or to the public, that such person will pay
+the tax imposed by section eleven hundred five of this article on behalf
+of a retail purchaser, subject to the following conditions:
+  (i) In so advertising, holding out, or stating to a retail purchaser
+or to the public, such person required to collect tax shall expressly
+state on every bill, memorandum, receipt or other statement of the
+price, amusement charge or rent paid or payable given to such purchaser,
+that such person will pay the tax imposed by section eleven hundred five
+of this article on behalf of such purchaser, and such person shall not
+indicate or imply that the transaction is exempt or excluded from any
+tax imposed by this article; and
+  (ii) Every bill, memorandum, receipt or other statement of the price,
+amusement charge or rent paid or payable given to such purchaser shall
+separately state the amount of tax due pursuant to such section eleven
+hundred five and that the tax was not collected from such purchaser.
+Such person required to collect tax shall hold such tax as trustee for
+and on account of the state; and
+  (iii) A retail purchaser, who in good faith accepts from a person
+required to collect any tax imposed by this article, a bill, memorandum,
+receipt or other statement of the price, amusement charge or rent that
+indicates the amount of tax due pursuant to such section eleven hundred
+five and that such person required to collect tax will be paying such
+tax on behalf of such purchaser, shall not be liable for the tax imposed
+by such section eleven hundred five, or any interest or penalties
+thereon; provided, however that nothing in this subdivision shall exempt
+such purchaser from any additional tax due pursuant to section eleven
+hundred ten of this article.
   (e) Applicability of Mobile Telecommunications Sourcing Act. The
 provisions of sections 119(c), 120, 121 and 122 of title 4 of the United
 States Code as enacted and in effect on July twenty-eighth, two
@@ -99,4 +127,12 @@ in full into this article and had expressly referred to the taxes under
 this article, with such modifications as may be necessary in order to
 adapt the language of such provisions to the taxes imposed by this
 article.
+  (f) A marketplace provider is relieved of liability under this section
+for failure to collect the correct amount of tax to the extent that the
+marketplace provider can show that the error was due to incorrect or
+insufficient information given to the marketplace provider by the
+marketplace seller. Provided, however, this subdivision shall not apply
+if the marketplace seller and marketplace provider are affiliated within
+the meaning of paragraph one of subdivision (e) of section eleven
+hundred one of this article.
 ```

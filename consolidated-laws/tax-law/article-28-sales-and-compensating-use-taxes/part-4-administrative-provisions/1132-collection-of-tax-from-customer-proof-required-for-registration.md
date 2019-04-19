@@ -5,14 +5,16 @@
 
 ```text
   § 1132. Collection of tax from customer; proof required for
-registration of motor vehicles. (a) (1) Every person required to collect
-the tax shall collect the tax from the customer when collecting the
-price, amusement charge or rent to which it applies. If the customer is
-given any sales slip, invoice, receipt or other statement or memorandum
-of the price, amusement charge or rent paid or payable, the tax shall be
-stated, charged and shown separately on the first of such documents
-given to him. The tax shall be paid to the person required to collect it
-as trustee for and on account of the state.
+registration of motor vehicles. (a) (1) Except as otherwise permitted in
+subdivision (d) of section eleven hundred thirty-three of this part,
+every person required to collect the tax shall collect the tax from the
+customer when collecting the price, amusement charge or rent to which it
+applies. If the customer is given any sales slip, invoice, receipt or
+other statement or memorandum of the price, amusement charge or rent
+paid or payable, the tax shall be stated, charged and shown separately
+on the first of such documents given to him. The tax shall be paid to
+the person required to collect it as trustee for and on account of the
+state.
   (2) Notwithstanding any provision of this chapter to the contrary: (i)
 If a person required to collect tax demonstrates to the satisfaction of
 the commissioner by June first, of any year that, in any two quarterly
@@ -577,4 +579,60 @@ of proving that the receipt is not taxable hereunder shall be solely
 upon the purchaser. The vendor shall not be required to collect such
 taxes from purchasers who furnish such certificates or statements in
 proper form.
+  (l)(1) A marketplace provider with respect to a sale of tangible
+personal property it facilitates: (A) shall have all the obligations and
+rights of a vendor under this article and article twenty-nine of this
+chapter and under any regulations adopted pursuant thereto, including,
+but not limited to, the duty to obtain a certificate of authority, to
+collect tax, file returns, remit tax, and the right to accept a
+certificate or other documentation from a customer substantiating an
+exemption or exclusion from tax, the right to receive the refund
+authorized by subdivision (e) of this section and the credit allowed by
+subdivision (f) of section eleven hundred thirty-seven of this part
+subject to the provisions of such subdivisions; and (B) shall keep such
+records and information and cooperate with the commissioner to ensure
+the proper collection and remittance of tax imposed, collected or
+required to be collected under this article and article twenty-nine of
+this chapter.
+  (2) A marketplace seller who is a vendor is relieved from the duty to
+collect tax in regard to a particular sale of tangible personal property
+subject to tax under subdivision (a) of section eleven hundred five of
+this article and shall not include the receipts from such sale in its
+taxable receipts for purposes of section eleven hundred thirty-six of
+this part if, in regard to such sale: (A) the marketplace seller can
+show that such sale was facilitated by a marketplace provider from whom
+such seller has received in good faith a properly completed certificate
+of collection in a form prescribed by the commissioner, certifying that
+the marketplace provider is registered to collect sales tax and will
+collect sales tax on all taxable sales of tangible personal property by
+the marketplace seller facilitated by the marketplace provider, and with
+such other information as the commissioner may prescribe; and (B) any
+failure of the marketplace provider to collect the proper amount of tax
+in regard to such sale was not the result of such marketplace seller
+providing the marketplace provider with incorrect information. This
+provision shall be administered in a manner consistent with subparagraph
+(i) of paragraph one of subdivision (c) of this section as if a
+certificate of collection were a resale or exemption certificate for
+purposes of such subparagraph, including with regard to the completeness
+of such certificate of collection and the timing of its acceptance by
+the marketplace seller. Provided that, with regard to any sales of
+tangible personal property by a marketplace seller that are facilitated
+by a marketplace provider who is affiliated with such marketplace seller
+within the meaning of paragraph one of subdivision (e) of section eleven
+hundred one of this article, the marketplace seller shall be deemed
+liable as a person under a duty to act for such marketplace provider for
+purposes of subdivision one of section eleven hundred thirty-one of this
+part.
+  (3) The commissioner may, in his or her discretion: (A) develop a
+standard provision, or approve a provision developed by a marketplace
+provider, in which the marketplace provider obligates itself to collect
+the tax on behalf of all the marketplace sellers for whom the
+marketplace provider facilitates sales of tangible personal property,
+with respect to all sales that it facilitates for such sellers where
+delivery occurs in the state; and (B) provide by regulation or otherwise
+that the inclusion of such provision in the publicly-available agreement
+between the marketplace provider and marketplace seller will have the
+same effect as a marketplace seller's acceptance of a certificate of
+collection from such marketplace provider under paragraph two of this
+subdivision.
 ```

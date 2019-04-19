@@ -23,6 +23,7 @@
 - [Title 9 — Subsidies For the Adoption of Children](title-09-subsidies-for-the-adoption/)
 - [Title 10 — Kinship Guardianship Assistance Program](title-10-kinship-guardianship-assistance/)
 - [Title 11 — Education Reform Program](title-11-education-reform-program/)
+- [Title 12 — Family Support Services Programs](title-12-family-support-services-programs/)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -52,6 +53,7 @@ Title 1.    Care and protection of children (§§ 371-392).
       9.    Subsidies for the Adoption of Children (§§ 450-458).
       10.   Kinship guardianship assistance program (§§ 458-a--458-f).
       11.   Education reform program (§ 458-l).
+      12.   Family support services programs (§§ 458-m--458-n).
 ```
 
 </details>

@@ -4,8 +4,7 @@
 [Public Buildings Law](../README.md) › [Article 5 — Public Buildings Generally](README.md)
 
 ```text
-  * § 144. Lactation room in public buildings. 1. As used in this
-section:
+  § 144. Lactation room in public buildings. 1. As used in this section:
   (a) "covered public building" means a public building owned by the
 state of New York, under the supervision and control of the commissioner
 of general services, that is determined by said commissioner to be open
@@ -31,5 +30,4 @@ the public building and the cost of such construction is unfeasible.
   4. Nothing in this section shall be construed to authorize an
 individual to enter a public building that the individual is not
 otherwise authorized to enter.
-  * NB Effective April 12, 2019
 ```

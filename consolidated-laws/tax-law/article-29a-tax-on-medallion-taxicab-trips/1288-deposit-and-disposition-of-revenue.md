@@ -8,40 +8,39 @@
 provision of law to the contrary: (a) All taxes, interest and penalties
 collected or received by the commissioner pursuant to this article shall
 be deposited daily with such responsible banks, banking houses or trust
-companies, as may be designated by the comptroller, to the credit of the
-comptroller. Such an account may be established in one or more of such
-depositories. Such deposits shall be kept separate and apart from all
-other money in the possession of the comptroller. The comptroller shall
-require adequate security from all such depositories. Of the total
-revenue collected or received under this section, the comptroller shall
-retain in the comptroller's hands such amount as the commissioner may
-determine to be necessary for refunds under this article. The
-commissioner is authorized and directed to deduct from such amounts
-collected or received under this article, before deposit into the
-accounts specified by the comptroller, a reasonable amount necessary to
-effectuate refunds of appropriations of the department to reimburse the
-department for the costs to administer, collect and distribute the taxes
-imposed by this article.
+companies, as may be designated by the comptroller, in trust for the
+credit of the metropolitan transportation authority. An account may be
+established in one or more of such depositories. Such deposits shall be
+kept separate and apart from all other money in the possession of the
+comptroller. The comptroller shall require adequate security from all
+such depositories. Of the total revenue collected or received under this
+section, the comptroller shall retain in the comptroller's hands such
+amount as the commissioner may determine to be necessary for refunds
+under this article. The commissioner is authorized and directed to
+deduct from such amounts collected or received under this article,
+before deposit into the accounts specified by the comptroller, a
+reasonable amount necessary to effectuate refunds of appropriations of
+the department to reimburse the department for the costs to administer,
+collect and distribute the taxes imposed by this article.
   (b) On or before the twelfth day following the end of each month,
 after reserving such amount for such refunds and such costs, the
 commissioner shall certify to the comptroller the amount of all revenues
 so received pursuant to this article during the prior month as a result
 of the taxes, interest and penalties so imposed.
-  (c) The comptroller shall pay over the amount of revenues so certified
-by the commissioner to the metropolitan transportation authority aid
-trust account of the metropolitan transportation authority financial
-assistance fund established by section ninety-two-ff of the state
-finance law for deposit, subject to appropriation, in the corporate
-transportation account of the metropolitan transportation authority
-special assistance fund established by section twelve hundred seventy-a
-of the public authorities law to be applied as provided in paragraph (e)
-of subdivision four of such section twelve hundred seventy-a. Any money
+  (c) By the fifteenth day of the last month of each calendar quarter
+the comptroller shall pay over the amount of revenues from the prior
+three months in total so certified by the commissioner, without
+appropriation, into the corporate transportation account of the
+metropolitan transportation authority special assistance fund
+established by section twelve hundred seventy-a of the public
+authorities law to be applied as provided in paragraph (e) of
+subdivision four of such section twelve hundred seventy-a. Any money
 collected pursuant to this article that is deposited by the comptroller
-in the metropolitan transportation authority aid trust account of the
-metropolitan transportation authority financial assistance fund shall be
-held in such fund free and clear of any claim by any person or entity
-paying the tax pursuant to this article, including, without limiting the
-generality of the foregoing, any right or claim against the metropolitan
+in the corporate transportation account of the metropolitan
+transportation authority special assistance fund shall be held in such
+fund free and clear of any claim by any person or entity paying the tax
+pursuant to this article, including, without limiting the generality of
+the foregoing, any right or claim against the metropolitan
 transportation authority, any of its bondholders, or any subsidiary or
 affiliate of the metropolitan transportation authority.
 ```

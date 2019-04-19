@@ -20,41 +20,14 @@ beginning before January first, two thousand twenty-four.
   (2) The state has annually seven million dollars in total tax credits
 to disburse to all eligible commercial production companies. The seven
 million dollars in total tax credits shall be allocated according to
-subparagraphs (i), (ii) and (iii) of this paragraph:
-  (i) The state annually will disburse one million of the total seven
-million in tax credits to all eligible production companies and the
-amount of the credit shall be the product (or pro rata share of the
-product, in the case of a member of a partnership) of twenty percent of
-the qualified production costs paid or incurred in the production of a
-qualified commercial, provided that the qualified production costs paid
-or incurred are attributable to the use of tangible property or the
-performance of services within the state in the production of such
-qualified commercial. To be eligible for said credit the total qualified
-production costs of a qualified production company must be greater in
-the aggregate during the current calendar year than the average of the
-three previous years for which the credit was applied. Provided,
-however, that until a qualified production company has established a
-three year history, the credit will be based on either the previous year
-or the average of the two previous years, whichever period is longer for
-the qualified production company seeking the credit. If the qualified
-production company has never applied for the growth credit, the previous
-year's data will be used to create a benchmark. The tax credit shall be
-applied only to the amount of the total qualified production costs of
-the current calendar year that are greater than the total amount of
-production costs of the appropriate measurement period as described in
-this subparagraph. The tax credit must be distributed to eligible
-production companies on a pro rata basis, provided, however, that no
-such qualified production company shall receive more than three hundred
-thousand dollars annually for such credit. The credit shall be allowed
-for the taxable year in which the production of such qualified
-commercial is completed.
-  (ii) The state annually will disburse three million of the total seven
+subparagraphs (i) and (ii) of this paragraph:
+  (i) The state annually will disburse four million of the total seven
 million in tax credits to all eligible production companies who film or
 record qualified commercials within the metropolitan commuter
 transportation district as defined in section twelve hundred sixty-two
 of the public authorities law. The amount of the credit shall be the
 product (or pro rata share of the product, in the case of a member of a
-partnership) of five percent of the qualified production costs paid or
+partnership) of twenty percent of the qualified production costs paid or
 incurred in the production of a qualified commercial, provided that the
 qualified production costs paid or incurred are attributable to the use
 of tangible property or the performance of services within the state in
@@ -64,19 +37,19 @@ company must be greater than five hundred thousand dollars in the
 aggregate during the calendar year. Such credit will be applied to
 qualified production costs exceeding five hundred thousand dollars in a
 calendar year.
-  (iii) The state annually will disburse three million of the total
-seven million in tax credits to all eligible production companies who
-film or record a qualified commercial outside of the metropolitan
-commuter transportation district as defined in section twelve hundred
-sixty-two of the public authorities law; provided, however, that if,
-after July thirty-first the state reviews all applications from eligible
-production companies who film or record a qualified commercial outside
-of the metropolitan commuter district for a given year, tax credits
-remain unallocated under this subparagraph, those credits shall be
-allotted to the credits set forth in subparagraph (i) of this paragraph
-for use consistent with the purposes of such subparagraph. The amount of
-the credit shall be the product (or pro rata share of the product, in
-the case of a member of a partnership) of five percent of the qualified
+  (ii) The state annually will disburse three million of the total seven
+million in tax credits to all eligible production companies who film or
+record a qualified commercial outside of the metropolitan commuter
+transportation district as defined in section twelve hundred sixty-two
+of the public authorities law; provided, however, that if, after July
+thirty-first the state reviews all applications from eligible production
+companies who film or record a qualified commercial outside of the
+metropolitan commuter district for a given year, tax credits remain
+unallocated under this subparagraph, those credits shall be allotted to
+the credits set forth in subparagraph (i) of this paragraph for use
+consistent with the purposes of such subparagraph. The amount of the
+credit shall be the product (or pro rata share of the product, in the
+case of a member of a partnership) of thirty percent of the qualified
 production costs paid or incurred in the production of a qualified
 commercial, provided that the qualified production costs paid or
 incurred are attributable to the use of tangible property or the
@@ -84,8 +57,8 @@ performance of services within the state in the production of such
 qualified commercial. To be eligible for said credit the total qualified
 production costs of a qualified production company must be greater than
 one hundred thousand dollars in the aggregate during the calendar year.
-Such credit will be applied to qualified production costs exceeding one
-hundred thousand dollars in a calendar year.
+Such credit will be applied to all qualified production costs in a
+calendar year.
   (3) No qualified production costs used by a taxpayer either as the
 basis for the allowance of the credit provided for under this section or
 used in the calculation of the credit provided for under this section
@@ -141,25 +114,27 @@ occurring in New York, shall be deemed qualified production costs for
 the purposes of this section. Provided further, however, that "post
 production costs" shall not include the editing of previously produced
 content for a qualified commercial.
-  (3) "Qualified commercial" means an advertisement that is recorded on
-film, audiotape, videotape or digital medium in New York for
-multi-market distribution by way of radio, television networks, cable,
-satellite or motion picture theaters. "Qualified commercial" shall not
-include (i) news or current affairs program, interview or talk program,
-network promos, i.e., commercials promoting television series or movies,
-"how-to" (i.e., instructional) commercial or program, commercial or
-program consisting entirely of stock footage, trailers promoting
-theatrical films, sporting event or sporting program, game show, award
-ceremony, daytime drama (i.e., daytime "soap opera"), or "reality"
-program, or (ii) a production for which records are required under
-section 2257 of title 18, United States code, to be maintained with
-respect to any performer in such production (reporting of books,
-commercials, etc. with respect to sexually explicit conduct).
+  (3) "Qualified commercial" means an advertisement of any length that
+is recorded on film, audiotape, videotape or digital medium in New York
+for multi-market distribution by way of radio, television networks,
+cable, satellite, motion picture theaters or internet. "Qualified
+commercial" shall not include (i) news or current affairs program,
+interview or talk program, network promos, i.e., commercials promoting
+television series or movies, "how-to" (i.e., instructional) commercial
+or program, commercial or program consisting entirely of stock footage,
+trailers promoting theatrical films, sporting event or sporting program,
+game show, award ceremony, daytime drama (i.e., daytime "soap opera"),
+or "reality" program, or (ii) a production for which records are
+required under section 2257 of title 18, United States code, to be
+maintained with respect to any performer in such production (reporting
+of books, commercials, etc. with respect to sexually explicit conduct).
   (4) "Qualified commercial production company" is a corporation,
 partnership, limited partnership, or other entity or individual which or
 who is principally engaged in the production of a qualified commercial
 and controls the production of the qualified commercial and is not the
-distributor or contracting entity for production of such commercial.
+distributor, or the contracting entity for production of such
+commercial, nor is a variable interest entity of such distributor or
+contracting entity.
   (c) The department of economic development shall submit, on or before
 December first of each year, to the governor, the director of the
 division of the budget, the temporary president of the senate, and the
@@ -174,7 +149,7 @@ company, and the estimated number of employees, credit-eligible man
 hours, and credit-eligible wages associated with each qualified
 commercial production company allocated credits under this section;
   (2) for qualified commercial production companies that were allocated
-credit pursuant to subparagraph (ii) of paragraph two of subdivision (a)
+credit pursuant to subparagraph (i) of paragraph two of subdivision (a)
 of this section: the name and address of each qualified commercial
 production company, the total dollar amount of credits allocated, the
 total amount of credits allocated to each qualified commercial
@@ -184,8 +159,8 @@ employees, credit-eligible man hours, and credit-eligible wages
 associated with each qualified commercial production company that filmed
 or recorded a qualified commercial within the district;
   (3) for qualified commercial production companies that were allocated
-credit pursuant to subparagraph (iii) of paragraph two of subdivision
-(a) of this section: the name and address of each qualified commercial
+credit pursuant to subparagraph (ii) of paragraph two of subdivision (a)
+of this section: the name and address of each qualified commercial
 production company, the total dollar amount of credits allocated, the
 total amount of credits allocated to each qualified commercial
 production company, total qualified production costs and production
@@ -194,7 +169,7 @@ employees, credit-eligible man hours, and credit-eligible wages
 associated with each qualified commercial production company that filmed
 or recorded a qualified commercial outside the district; and
   (4) the amount of credits reallocated to all eligible qualified
-commercial production companies pursuant to subparagraph (iii) of
+commercial production companies pursuant to subparagraph (ii) of
 paragraph two of subdivision (a) of this section.
   (5) The report may also include any recommendations for changes in the
 calculation or administration of the credit, recommendations regarding

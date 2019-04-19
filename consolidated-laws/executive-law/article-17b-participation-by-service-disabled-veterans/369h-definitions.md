@@ -122,5 +122,5 @@ honorable or general discharge from, the United States army, navy, air
 force, marines, coast guard, and/or reserves thereof, and/or in the army
 national guard, air national guard, New York guard and/or the New York
 naval militia.
-  * NB Repealed March 31, 2019
+  * NB Repealed March 31, 2024
 ```

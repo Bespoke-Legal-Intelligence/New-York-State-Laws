@@ -99,6 +99,8 @@ Article  1.   Short title; definitions (§§ 1-2).
                 10.   Kinship guardianship assistance program
                         (§§ 458-a--458-f).
                 11.   Education reform program (§ 458-l).
+                12.   Family support services programs (§§
+                        458-m--458-n).
          6-A. Domestic violence prevention act (§§ 459-a--459-h).
          7.   Residential care programs for adults and children
                         (§§ 460--463-b).

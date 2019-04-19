@@ -61,7 +61,7 @@ decisions shall be made available for public inspection at the offices
 of the city board, each community council, the office of the
 commissioner of education, and at such other places as the city board
 shall deem proper.
-  * NB Effective until June 30, 2019
+  * NB Effective until June 30, 2022
   * § 2590-d. By-laws; regulations and decisions. 1. The city board and
 the chancellor shall prescribe such by-laws and regulations as may be
 necessary to make effectual the provisions of this chapter and for the
@@ -107,5 +107,5 @@ decisions shall be made available for public inspection at the offices
 of the city board, each community board, the office of the commissioner
 of education, and at such other places as the city board shall deem
 proper.
-  * NB Effective June 30, 2019
+  * NB Effective June 30, 2022
 ```

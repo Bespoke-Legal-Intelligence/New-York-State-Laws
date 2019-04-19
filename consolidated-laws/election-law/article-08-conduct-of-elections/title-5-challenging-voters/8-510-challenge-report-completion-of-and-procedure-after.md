@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Election Law § 8-510", "kind": "section", "law_id": "ELN", "location_id": "8-510", "path": "ARTICLE 8 › TITLE 5 › SECTION 8-510", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/8-510.md", "title": "Challenge report; completion of and procedure after"} -->
+# Election Law § 8-510 — Challenge report; completion of and procedure after
+
+[Election Law](../../README.md) › [Article 8 — Conduct of Elections](../README.md) › [Title 5 — Challenging Voters](README.md)
+
+```text
+  § 8-510. Challenge report; completion of and procedure after. 1.
+Immediately after the close of the polls the board of inspectors of
+election shall verify the entries which it has made on the challenge
+report or in the spaces provided in the computer generated registration
+list by comparing such entries with the information appearing on the
+registration poll records of the affected voters or the information
+appearing in the spaces provided in the computer generated registration
+list. If it has made no entries in section two, three or four of such
+report it shall write across or note in such section the words "No
+challenges", "No assistance" or "None", as the case may be, as directed
+in this chapter.
+  2. After completing such report the inspectors shall sign a
+certificate in the spaces provided by the county board of elections for
+such report.
+  3. The inspectors shall place such completed report, and each court
+order, if any, directing that a person be permitted to vote, in the
+secure container provided by the county board of elections for such
+ledger of registration records or computer generated registration lists
+and then shall close and seal each ledger of registration records or
+computer generated registration lists, lock such ledger in the carrying
+case furnished for that purpose and enclose the keys in a sealed package
+or seal such list in the envelope provided for that purpose.
+```

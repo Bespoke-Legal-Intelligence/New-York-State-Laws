@@ -67,12 +67,15 @@ minimum rate of home care aide total compensation.
   2. Notwithstanding any inconsistent provision of law, rule or
 regulation, no payments by government agencies shall be made to
 certified home health agencies, long term home health care programs,
-managed care plans, or the consumer directed personal assistance program
-under section three hundred sixty-five-f of the social services law, for
-any episode of care furnished, in whole or in part, by any home care
-aide who is compensated at amounts less than the applicable minimum rate
-of home care aide total compensation established pursuant to this
-section.
+managed care plans, the consumer directed personal assistance program
+under section three hundred sixty-five-f of the social services law, the
+nursing home transition and diversion waiver program under section three
+hundred sixty-six of the social services law, or the traumatic brain
+injury waiver program under section two thousand seven hundred forty of
+this chapter for any episode of care furnished, in whole or in part, by
+any home care aide who is compensated at amounts less than the
+applicable minimum rate of home care aide total compensation established
+pursuant to this section.
   3. (a) The minimum rate of home care aide total compensation in a city
 with a population of one million or more shall be:
   (i) for the period March first, two thousand twelve through February

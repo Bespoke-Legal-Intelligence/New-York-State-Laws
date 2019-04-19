@@ -32,6 +32,7 @@
 - [§ 837-Q Payments to Westchester county for policing special parkways](837q-payments-to-westchester-county-for-policing-special-parkways.md)
 - [§ 837-R Office of sex offender management](837r-office-of-sex-offender-management.md)
 - [§ 837-S Search for sex offense conviction records of emergency medical technician and other first responder applicants](837s-search-for-sex-offense-conviction-records-of-emergency-medical-technician.md)
+- [§ 837-T Use of force reporting](837t-use-of-force-reporting.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -48,6 +49,8 @@
 - [§ 845 Central state registry of police officers and peace officers](845-central-state-registry-of-police-officers-and-peace-officers.md)
 - [§ 845-A Presentment of flags lowered to half-staff in memorial of the death of any police officer or peace officer](845a-presentment-of-flags-lowered-to-half-staff-in-memorial-of-the-death-of-any.md)
 - [§ 845-B Requests for criminal history information](845b-requests-for-criminal-history-information.md)
+- [§ 845-C Criminal history record searches; undisposed cases](845c-criminal-history-record-searches-undisposed-cases.md)
+- [§ 845-D Criminal record searches: reports for civil purposes](845d-criminal-record-searches-reports-for-civil-purposes.md)
 - [§ 846 Programs for the aging](846-programs-for-the-aging.md)
 - [§ 846\*2 Programs for the aging](846-2-programs-for-the-aging.md)
 
@@ -94,6 +97,7 @@ Section 835.     Definitions.
         837-s.   Search for sex offense conviction records of emergency
                    medical technician and other first responder
                    applicants.
+        837-t.   Use of force reporting.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.
@@ -115,6 +119,8 @@ Section 835.     Definitions.
         845-a.   Presentment of flags lowered to half-staff in memorial
                    of the death of any police officer or peace officer.
         845-b.   Requests for criminal history information.
+        845-c.   Criminal history record searches; undisposed cases.
+        845-d.   Criminal record searches: reports for civil purposes.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
 ```

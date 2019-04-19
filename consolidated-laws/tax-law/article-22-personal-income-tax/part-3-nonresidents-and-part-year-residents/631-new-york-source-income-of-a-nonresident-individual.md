@@ -61,6 +61,8 @@ thirty-two of this article; or
   (D) winnings from a wager placed in a lottery conducted by the
 division of the lottery, if the proceeds from such wager exceed five
 thousand dollars; or
+  (D-1) gambling winnings in excess of five thousand dollars from
+wagering transactions within the state; or
   (E) gains from the sale, conveyance or other disposition of shares of
 stock in a cooperative housing corporation in connection with the grant
 or transfer of a proprietary leasehold by the owner thereof and subject

@@ -11,13 +11,19 @@ materials to be provided to general hospitals to disseminate to
 individuals with a documented substance use disorder or who appear to
 have or be at risk for a substance use disorder during discharge
 planning pursuant to section twenty-eight hundred three-i of this
-chapter. Such materials shall include information regarding the various
+article. Such materials shall include information regarding the various
 types of treatment and recovery services, including but not limited to:
 inpatient, outpatient, and medication-assisted treatment; how to
 recognize the need for treatment services; information for individuals
 to determine what type and level of treatment is most appropriate and
 what resources are available to them; and any other information the
-commissioner deems appropriate.
+commissioner deems appropriate. General hospitals shall include in their
+policies and procedures treatment protocols, consistent with medical
+standards, to be utilized by the emergency departments in general
+hospitals for the appropriate use of medication-assisted treatment,
+including buprenorphine, prior to discharge, or referral protocols for
+evaluation of medication-assisted treatment when initiation in an
+emergency department of a general hospital is not feasible.
   2. Every general hospital shall: (a) within existing or in addition to
 current policies and procedures, develop, maintain and disseminate,
 written policies and procedures, for the identification, assessment and

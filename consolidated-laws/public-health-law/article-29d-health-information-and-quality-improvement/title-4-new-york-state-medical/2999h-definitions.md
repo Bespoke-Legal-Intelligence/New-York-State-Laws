@@ -25,14 +25,24 @@ rendered to and supplies utilized by qualified plaintiffs, which are
 necessary to meet their health care needs, as determined by their
 treating physicians, physician assistants, or nurse practitioners and as
 otherwise defined by the commissioner in regulation.
-  4. "Qualified plaintiff" means every plaintiff or claimant who (i) has
-been found by a jury or court to have sustained a birth-related
+  * 4. "Qualified plaintiff" means every plaintiff or claimant who (i)
+has been found by a jury or court to have sustained a birth-related
 neurological injury as the result of medical malpractice, or (ii) has
 sustained a birth-related neurological injury as the result of alleged
 medical malpractice, and has settled his or her lawsuit or claim
 therefor.
-  5. Any reference to the "department of financial services" and the
+  * NB Effective until October 1, 2019
+  * 4. "Qualified plaintiff" means every plaintiff or claimant who (i)
+has been found by a jury or court to have sustained a birth-related
+neurological injury as the result of medical malpractice, or (ii) has
+sustained a birth-related neurological injury as the result of alleged
+medical malpractice, and has settled his or her lawsuit or claim
+therefor; and (iii) has been ordered to be enrolled in the fund by a
+court in New York state.
+  * NB Effective October 1, 2019
+  * 5. Any reference to the "department of financial services" and the
 "superintendent of financial services" in this title shall mean, prior
 to October third, two thousand eleven, respectively, the "department of
 insurance" and "superintendent of insurance."
+  * NB Effective until October 1, 2019
 ```

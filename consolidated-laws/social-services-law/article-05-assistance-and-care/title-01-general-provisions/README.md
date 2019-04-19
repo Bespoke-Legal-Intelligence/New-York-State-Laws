@@ -30,7 +30,7 @@
 - [§ 131-R Liability for reimbursement of public assistance benefits](131r-liability-for-reimbursement-of-public-assistance-benefits.md)
 - [§ 131-S Payments made for utility service for recipients of public assistance benefits, supplemental security income benefits or additional state...](131s-payments-made-for-utility-service-for-recipients-of-public-assistance.md)
 - [§ 131-T Periodic reporting](131t-periodic-reporting.md)
-- [§ 131-U Domestic violence services to eligible persons](131u-domestic-violence-services-to-eligible-persons.md)
+- [§ 131-U Domestic violence services](131u-domestic-violence-services.md)
 - [§ 131-V Temporary emergency shelter](131v-temporary-emergency-shelter.md)
 - [§ 131-W Limitations in the payment of rent arrears](131w-limitations-in-the-payment-of-rent-arrears.md)
 - [§ 131-X Reverse mortgage loans](131x-reverse-mortgage-loans.md)

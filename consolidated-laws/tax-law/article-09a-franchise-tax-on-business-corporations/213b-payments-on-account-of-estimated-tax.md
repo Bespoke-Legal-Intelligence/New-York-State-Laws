@@ -33,24 +33,14 @@ imposed for the second preceding year if the second preceding year's tax
 was equal to or less than one hundred thousand dollars, or (ii) forty
 percent of the tax surcharge imposed for the second preceding year if
 the second preceding year's tax exceeded one hundred thousand dollars.
-Provided, however, that every taxpayer that is an S corporation must pay
-with the report required to be filed for the preceding privilege period,
-or with an application for extension of the time for filing the report,
-an amount equal to (i) twenty-five percent of the preceding year's tax
-if the preceding year's tax exceeded one thousand dollars but was equal
-to or less than one hundred thousand dollars, or (ii) forty percent of
-the preceding year's tax if the preceding year's tax exceeded one
-hundred thousand dollars. If the preceding year's tax under section two
-hundred nine of this article exceeded one thousand dollars and such
-taxpayer that is an S corporation is subject to the tax surcharge
-imposed by section two hundred nine-B of this article, the taxpayer must
-also pay with the tax surcharge report required to be filed for the
-preceding privilege period, or with an application for extension of the
-time for filing the report, an amount equal to (i) twenty-five percent
-of the tax surcharge imposed for the preceding year if the preceding
-year's tax was equal equal to or less than one hundred thousand dollars,
-or (ii) forty percent of the tax surcharge imposed for the preceding
-year if the preceding year's tax exceeded one hundred thousand dollars.
+Provided, however, that every taxpayer that is a New York S corporation
+must pay with the report required to be filed for the preceding
+privilege period, or with an application for extension of the time for
+filing the report, an amount equal to (i) twenty-five percent of the
+preceding year's tax if the preceding year's tax exceeded one thousand
+dollars but was equal to or less than one hundred thousand dollars, or
+(ii) forty percent of the preceding year's tax if the preceding year's
+tax exceeded one hundred thousand dollars.
   (b) Other installments.--In privilege periods of twelve months ending
 at any time during the calendar year nineteen hundred seventy and
 thereafter, the estimated tax or estimated tax surcharge, with respect
@@ -126,7 +116,7 @@ shall be allowed and paid at the overpayment rate set by the
 commissioner of taxation and finance pursuant to section one thousand
 ninety-six of this chapter, or if no rate is set, at the rate of six per
 centum per annum from the date of payment of the amount so paid pursuant
-to such subdivision to the fifteenth day of the third month following
+to such subdivision to the fifteenth day of the fourth month following
 the close of the taxable year, provided, however, that no interest shall
 be allowed or paid under this subdivision if the amount thereof is less
 than one dollar or if such interest becomes payable solely because of a

@@ -75,14 +75,14 @@ the social services district assurances that no such funds will be used
 for such purposes.
   5. The social services district shall require every private or
 not-for-profit employer that intends to hire one or more work activity
-participants to certify to the district that such employer has not, in
+participants to certify to the district whether such employer has, in
 the past five years, been convicted of a felony or a misdemeanor the
 underlying basis of which involved workplace safety and health or labor
 standards. Such employer shall also certify as to all violations issued
 by the department of labor within the past five years. The social
 services official in the district in which the participant is placed
-shall determine whether there is a pattern of violations sufficient to
-render the potential employer ineligible. Employers who submit false
-information under this section shall be subject to criminal prosecution
-for filing a false instrument.
+shall determine whether there is a pattern of convictions or violations
+sufficient to render the potential employer ineligible. Employers who
+submit false information under this section shall be subject to criminal
+prosecution for filing a false instrument.
 ```

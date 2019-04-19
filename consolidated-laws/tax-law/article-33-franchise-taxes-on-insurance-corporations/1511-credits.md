@@ -1499,16 +1499,20 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  (5) To be eligible for the credit allowable under this subdivision,
-the rehabilitation project shall be in whole or in part located within a
-census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of April
-first of each year using the most recent five year estimate from the
-American community survey published by the United States Census bureau.
-If there is a change in the most recent five year estimate, a census
-tract that qualified for eligibility under this program before
-information about the change was released will remain eligible for a
-credit under this subdivision for an additional two calendar years.
+  (5) Except in the case of a qualified rehabilitation project
+undertaken within a state park, state historic site, or other land owned
+by the state, that is under the jurisdiction of the office of parks,
+recreation and historic preservation, to be eligible for the credit
+allowable under this subdivision, the rehabilitation project shall be in
+whole or in part located within a census tract which is identified as
+being at or below one hundred percent of the state median family income
+as calculated as of April first of each year using the most recent five
+year estimate from the American community survey published by the United
+States Census bureau. If there is a change in the most recent five year
+estimate, a census tract that qualified for eligibility under this
+program before information about the change was released will remain
+eligible for a credit under this subdivision for an additional two
+calendar years.
   * NB There are 3 sb§ (y)'s
   (z) Temporary deferral refundable payout credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided
@@ -1569,4 +1573,51 @@ tax to be credited or refunded in accordance with the provisions of
 section one thousand eighty-six of this chapter. Provided, however, the
 provisions of subsection (c) of section one thousand eighty-eight of
 this chapter notwithstanding, no interest shall be paid thereon.
+  * (dd) Employer-provided child care credit. (1) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-four of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. The credit allowed under this subdivision
+shall not reduce the tax due for such year to be less than the minimum
+fixed by paragraph four of subdivision (a) of section fifteen hundred
+two or section fifteen hundred two-a of this article, whichever is
+applicable. However, if the amount of the credit allowed under this
+subdivision for any taxable year reduces the taxpayer's tax to such
+amount, any amount of credit thus not deductible will be treated as an
+overpayment of tax to be credited or refunded in accordance with the
+provisions of section one thousand eighty-six of this chapter. Provided,
+however, the provisions of subsection (c) of one thousand eighty-eight
+of this chapter notwithstanding, no interest shall be paid thereon.
+  (3) Credit recapture. For provisions requiring recapture of credit,
+see section forty-four of this chapter.
+  * NB There are 2 sb (dd)'s
+  * (dd) Recovery tax credit. (1) Allowance of credit. A taxpayer that
+is a qualified employer pursuant to section 32.38 of the mental hygiene
+law that has received a certificate of tax credit from the commissioner
+of the office of alcoholism and substance abuse services shall be
+allowed a credit against the tax imposed by this article equal to the
+amount shown on such certificate of tax credit. A taxpayer that is a
+partner in a partnership or member of a limited liability company that
+has been certified by the commissioner of the office of alcoholism and
+substance abuse services as a qualified employer pursuant to section
+32.38 of the mental hygiene law shall be allowed its pro rata share of
+the credit earned by the partnership or limited liability company.
+  (2) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the minimum tax fixed by paragraph four of subdivision (a) of
+section fifteen hundred two of this article or by section fifteen
+hundred two-a of this article, whichever is applicable. However, if the
+amount of credit allowed under this subdivision for any taxable year
+reduces the tax to such amount, then any amount of credit thus not
+deductible in such taxable year shall be treated as an overpayment of
+tax to be credited or refunded in accordance with the provisions of
+section one thousand eighty-six of this chapter. Provided, however, the
+provisions of subsection (c) of section one thousand eighty-eight of
+this chapter notwithstanding, no interest shall be paid thereon.
+  (3) Tax return requirement. The taxpayer shall be required to attach
+to its tax return in the form prescribed by the commissioner, proof of
+receipt of its certificate of tax credit issued by the commissioner of
+the office of alcoholism and substance abuse services pursuant to
+section 32.38 of the mental hygiene law.
+  * NB There are 2 sb (dd)'s
 ```

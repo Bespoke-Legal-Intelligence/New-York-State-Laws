@@ -118,7 +118,7 @@
 - [§ 97-W Chemical dependence service fund](97w-chemical-dependence-service-fund.md)
 - [§ 97-X Statewide planning and research cooperative system; assessment of annual fees on general hospitals](97x-statewide-planning-and-research-cooperative-system-assessment-of-annual-fees.md)
 - [§ 97-Y Business and licensing services account](97y-business-and-licensing-services-account.md)
-- [§ 97-Z Arts capital revolving fund](97z-arts-capital-revolving-fund.md)
+- [§ 97-Z Arts capital grants fund](97z-arts-capital-grants-fund.md)
 - [§ 97-AA The New York state "Discover Queens fund"](97aa-the-new-york-state-discover-queens-fund.md)
 - [§ 97-BB Criminal justice improvement account](97bb-criminal-justice-improvement-account.md)
 - [§ 97-DD Eminent domain account](97dd-eminent-domain-account.md)
@@ -213,20 +213,11 @@
 - [§ 98-C Legal services assistance fund](98c-legal-services-assistance-fund.md)
 - [§ 99 Withholding of state assistance upon default in payment of bonds held by the state](99-withholding-of-state-assistance-upon-default-in-payment-of-bonds-held.md)
 - [§ 99-A Justice court fund](99a-justice-court-fund.md)
-- [§ 99-AA Retiree health benefit trust fund](99aa-retiree-health-benefit-trust-fund.md)
 - [§ 99-B Withholding of state aid for school purposes upon default in payment of obligations of the prospective recipient](99b-withholding-of-state-aid-for-school-purposes-upon-default-in-payment.md)
-- [§ 99-BB Armory rental account](99bb-armory-rental-account.md)
-- [§ 99-BB\*2 Parking services fund](99bb-2-parking-services-fund.md)
-- [§ 99-BB\*3 New York state secure choice administrative fund](99bb-3-new-york-state-secure-choice-administrative-fund.md)
-- [§ 99-BB\*4 SUNY Stony Brook Eastern Long Island Hospital Affiliation escrow fund](99bb-4-suny-stony-brook-eastern-long-island-hospital-affiliation-escrow-fund.md)
-- [§ 99-BB\*5 School-based health centers fund](99bb-5-school-based-health-centers-fund.md)
 - [§ 99-C Withholding of state aid upon failure of municipalities and school districts to repay health insurance reserve receipts when required](99c-withholding-of-state-aid-upon-failure-of-municipalities-and-school-districts.md)
-- [§ 99-CC Solid waste fund](99cc-solid-waste-fund.md)
 - [§ 99-D City university stabilization account](99d-city-university-stabilization-account.md)
 - [§ 99-D\*2 Community projects fund](99d-2-community-projects-fund.md)
-- [§ 99-DD Special events fund](99dd-special-events-fund.md)
 - [§ 99-E State university stabilization account](99e-state-university-stabilization-account.md)
-- [§ 99-EE Down's syndrome research fund](99ee-downs-syndrome-research-fund.md)
 - [§ 99-F Spinal cord injury research trust fund](99f-spinal-cord-injury-research-trust-fund.md)
 - [§ 99-H Tribal-state compact revenue account](99h-tribal-state-compact-revenue-account.md)
 - [§ 99-H\*2 Teacher education accreditation account](99h-2-teacher-education-accreditation-account.md)
@@ -252,6 +243,18 @@
 - [§ 99-Y\*2 Health republic insurance of New York fund](99y-2-health-republic-insurance-of-new-york-fund.md)
 - [§ 99-Y\*3 Highway use tax administration account](99y-3-highway-use-tax-administration-account.md)
 - [§ 99-Z Cure childhood cancer research fund](99z-cure-childhood-cancer-research-fund.md)
+- [§ 99-AA Retiree health benefit trust fund](99aa-retiree-health-benefit-trust-fund.md)
+- [§ 99-BB Armory rental account](99bb-armory-rental-account.md)
+- [§ 99-BB\*2 Parking services fund](99bb-2-parking-services-fund.md)
+- [§ 99-BB\*3 New York state secure choice administrative fund](99bb-3-new-york-state-secure-choice-administrative-fund.md)
+- [§ 99-BB\*4 SUNY Stony Brook Eastern Long Island Hospital Affiliation escrow fund](99bb-4-suny-stony-brook-eastern-long-island-hospital-affiliation-escrow-fund.md)
+- [§ 99-BB\*5 School-based health centers fund](99bb-5-school-based-health-centers-fund.md)
+- [§ 99-CC Solid waste fund](99cc-solid-waste-fund.md)
+- [§ 99-DD Special events fund](99dd-special-events-fund.md)
+- [§ 99-EE Down's syndrome research fund](99ee-downs-syndrome-research-fund.md)
+- [§ 99-FF Parks retail stores fund](99ff-parks-retail-stores-fund.md)
+- [§ 99-FF\*2 New York central business district trust fund](99ff-2-new-york-central-business-district-trust-fund.md)
+- [§ 99-GG Golf fund](99gg-golf-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -553,6 +556,9 @@ Section 70.        Classification of funds.
         99-cc.     Solid waste fund.
         99-dd.     Special events fund.
         99-ee.     Down's syndrome research fund.
+        99-ff.     Parks retail stores fund.
+        99-ff*2.   New York central business district trust fund.
+        99-gg.     Golf fund.
 ```
 
 </details>

@@ -5,7 +5,7 @@
 
 ```text
   § 424-a. Access to information contained in the statewide central
-register of child abuse and maltreatment. 1. (a) A licensing agency
+register of child abuse and maltreatment. 1. * (a) A licensing agency
 shall inquire of the department and the department shall, subject to the
 provisions of paragraph (e) of this subdivision, inform such agency and
 the subject of the inquiry whether an applicant for a certificate,
@@ -22,7 +22,68 @@ clearance is conducted of a prospective successor guardian pursuant to
 this paragraph, has been or is currently the subject of an indicated
 child abuse and maltreatment report on file with the statewide central
 register of child abuse and maltreatment.
-  (b) (i) Subject to the provisions of subdivision seven of this
+  * NB Effective until September 1, 2019
+  * (a) (i) A licensing agency shall inquire of the department and the
+department shall, subject to the provisions of paragraph (e) of this
+subdivision, inform such agency and the subject of the inquiry whether
+an applicant for a certificate, license or permit, the director of a
+camp subject to the provisions of article thirteen-B of the public
+health law, a prospective successor guardian when a clearance is
+conducted pursuant to paragraph (d) of subdivision two of section four
+hundred fifty-eight-b of this article, and any person over the age of
+eighteen who resides in the home of a person who has applied to become
+an adoptive parent or a foster parent or any person over the age of
+eighteen residing in the home of a prospective successor guardian when a
+clearance is conducted of a prospective successor guardian pursuant to
+this paragraph, has been or is currently the subject of an indicated
+child abuse and maltreatment report on file with the statewide central
+register of child abuse and maltreatment.
+  (ii) A licensing agency shall inquire of the office whether an
+applicant for a certificate, license or permit to operate a child care
+program including a family day care home, group family day care home,
+child care center, school age child care program, or enrolled legally
+exempt provider or an employee, volunteer or applicant to be an employee
+or volunteer in such program who has potential for regular and
+substantial contact with children in the program, is the confirmed
+subject of an indicated child abuse report maintained by the statewide
+central register of child abuse and maltreatment. The office shall
+promulgate regulations related to the process by which providers and
+applicants will be informed whether the applicant is authorized or
+unauthorized to care for children based on the outcome of such inquiry.
+  (iii) A licensing agency shall inquire of the office whether any
+person age eighteen or older who is not related in any way to all
+children for whom care is provided that resides on the premises of where
+child care is provided in a setting that is not the child's own home by
+an enrolled legally-exempt provider as such term is defined in
+subdivision one-a of section three hundred ninety-b of this chapter is
+the confirmed subject of an indicated child abuse report maintained by
+the statewide central register of child abuse and maltreatment. The
+office shall promulgate regulations related to the process by which
+providers and applicants will be informed whether the applicant is
+authorized or unauthorized to care for children based on the outcome of
+such inquiry.
+  (iv) A licensing agency conducting inquiries pursuant to subparagraphs
+(ii) and (iii) of this paragraph may inquire of the office whether any
+person who is to be hired as a consultant by such agency who has the
+potential for regular and substantial contact with individuals who are
+cared for by the agency is the subject of an indicated child abuse and
+maltreatment report on file with the statewide central register of child
+abuse and maltreatment. The office shall promulgate regulations related
+to the process by which providers and applicants will be informed
+whether the applicant is authorized or unauthorized to care for children
+based on the outcome of such inquiry.
+  (v) A licensing agency conducting inquiries pursuant to subparagraphs
+(ii) and (iii) or this paragraph may inquire of the office whether any
+person who has volunteered his or her services to such agency and who
+will have the potential for regular and substantial contact with
+individuals who are cared for by the agency, is the subject of an
+indicated child abuse and maltreatment report on file with the statewide
+central register of child abuse and maltreatment. The office shall
+promulgate regulations related to the process by which providers and
+applicants will be informed whether the applicant is authorized or
+unauthorized to care for children based on the outcome of such inquiry.
+  * NB Effective September 1, 2019
+  (b) * (i) Subject to the provisions of subdivision seven of this
 section, a provider agency shall inquire of the office and the office
 shall, subject to the provisions of paragraph (e) of this subdivision,
 inform such agency and the subject of the inquiry whether any person who
@@ -49,6 +110,54 @@ such person to have unsupervised contact with such individuals.
 Inquiries made to the office pursuant to this subparagraph by a provider
 agency on current employees shall be made no more often than once in any
 six month period.
+  * NB Effective until July 1, 2019
+  * (i) (A) Subject to the provisions of subdivision seven of this
+section, a provider agency shall inquire of the office and the office
+shall, subject to the provisions of paragraph (e) of this subdivision,
+inform such agency and the subject of the inquiry whether any person who
+is actively being considered for employment and who will have the
+potential for regular and substantial contact with individuals who are
+cared for by the agency, is the subject of an indicated child abuse and
+maltreatment report on file with the statewide central register of child
+abuse and maltreatment prior to permitting such person to have
+unsupervised contact with such individuals. Such agency may inquire of
+the office and the office shall inform such agency and the subject of
+the inquiry whether any person who is currently employed and who has the
+potential for regular and substantial contact with individuals who are
+cared for by such agency is the subject of an indicated child abuse and
+maltreatment report on file with the statewide central register of child
+abuse and maltreatment. A provider agency shall also inquire of the
+office and the office shall inform such agency and the subject of the
+inquiry whether any person who is employed by an individual,
+corporation, partnership or association which provides goods or services
+to such agency who has the potential for regular and substantial contact
+with individuals who are cared for by the agency, is the subject of an
+indicated child abuse and maltreatment report on file with the statewide
+central register of child abuse and maltreatment prior to permitting
+such person to have unsupervised contact with such individuals.
+Inquiries made to the office pursuant to this subparagraph by a provider
+agency on current employees shall be made no more often than once in any
+six month period.
+  (B) Notwithstanding clause (A) of this subparagraph, where the
+provider agency is an authorized agency that operates a residential
+program for foster children that is licensed or certified by the office
+of children and family services such agency shall inquire of the office
+and the office shall, subject to the provisions of paragraph (e) of this
+subdivision, inform such agency and the subject of the inquiry whether:
+  (I) any person who is actively being considered for employment in such
+program who is not already required to be cleared pursuant to clause (A)
+of this subparagraph is the subject of an indicated child abuse and
+maltreatment report on file with the statewide central register of child
+abuse and maltreatment; and
+  (II) Notwithstanding any other provision of law to the contrary, prior
+to April first, two thousand twenty and in accordance with a schedule
+developed by the office of children and family services, whether any
+person who is employed in a residential foster care program that has not
+previously had a clearance conducted pursuant to this subparagraph in
+connection to such employment is the subject of an indicated child abuse
+and maltreatment report on file with the statewide central register of
+child abuse and maltreatment.
+  * NB Effective July 1, 2019
   (ii) A provider agency may inquire of the office and the office shall,
 upon receipt of such inquiry and subject to the provisions of paragraph
 (e) of this subdivision, inform such agency and the subject of the
@@ -284,20 +393,19 @@ certification of the office of children and family services; programs
 established pursuant to article nineteen-H of the executive law;
 non-residential or residential programs or facilities licensed or
 operated by the office of mental health or the office for people with
-developmental disabilities except family care homes; licensed child day
-care centers, including head start programs which are funded pursuant to
-title V of the federal economic opportunity act of nineteen hundred
-sixty-four, as amended; early intervention service established pursuant
-to section twenty-five hundred forty of the public health law; preschool
-services established pursuant to section forty-four hundred ten of the
-education law; school-age child care programs; special act school
-districts as enumerated in chapter five hundred sixty-six of the laws of
-nineteen hundred sixty-seven, as amended; programs and facilities
-licensed by the office of alcoholism and substance abuse services;
-residential schools which are operated, supervised or approved by the
-education department; health homes, or any subcontractor of such health
-homes, who contracts with or is approved or otherwise authorized by the
-department of health to provide health home services to all those
+developmental disabilities except family care homes; including head
+start programs which are funded pursuant to title V of the federal
+economic opportunity act of nineteen hundred sixty-four, as amended;
+early intervention service established pursuant to section twenty-five
+hundred forty of the public health law; preschool services established
+pursuant to section forty-four hundred ten of the education law; special
+act school districts as enumerated in chapter five hundred sixty-six of
+the laws of nineteen hundred sixty-seven, as amended; programs and
+facilities licensed by the office of alcoholism and substance abuse
+services; residential schools which are operated, supervised or approved
+by the education department; health homes, or any subcontractor of such
+health homes, who contracts with or is approved or otherwise authorized
+by the department of health to provide health home services to all those
 enrolled pursuant to a diagnosis of a developmental disability as
 defined in subdivision twenty-two of section 1.03 of the mental hygiene
 law and enrollees who are under twenty-one years of age under section
@@ -316,7 +424,7 @@ defined in subdivision four of section four hundred eighty-eight of this
 chapter, in regard to the employment of staff, or use of providers of
 goods and services and staff of such providers, consultants, interns and
 volunteers.
-  4. For purposes of this section, the term "licensing agency" shall
+  * 4. For purposes of this section, the term "licensing agency" shall
 mean an authorized agency which has received an application to become an
 adoptive parent or an authorized agency which has received an
 application for a certificate or license to receive, board or keep any
@@ -350,6 +458,44 @@ and nineteen-H of the executive law or any other facility or provider
 agency, as defined in subdivision four of section four hundred
 eighty-eight of this chapter, in regard to any licensing or
 certification function carried out by such facility or agency.
+  * NB Effective until September 1, 2019
+  * 4. For purposes of this section, the term "licensing agency" shall
+mean an authorized agency which has received an application to become an
+adoptive parent or an authorized agency which has received an
+application for a certificate or license to receive, board or keep any
+child pursuant to the provisions of section three hundred seventy-six or
+three hundred seventy-seven of this article or an authorized agency
+which has received an application from a relative within the second
+degree or third degree of consanguinity of the parent of a child or a
+relative within the second degree or third degree of consanguinity of
+the step-parent of a child or children, or the child's legal guardian
+for approval to receive, board or keep such child, or an authorized
+agency that conducts a clearance pursuant to paragraph (d) of
+subdivision two of section four hundred fifty-eight-b of this article,
+or a state or local governmental agency which receives an application to
+provide child day care services in a child day care center, school-age
+child care program, family day care home or group family day care home
+or enrolled legally-exempt provider as such term is defined in
+subdivision one-a of section three hundred ninety-b of this article
+pursuant to the provisions of section three hundred ninety of this
+article, or the department of health and mental hygiene of the city of
+New York, when such department receives an application for a certificate
+of approval to provide child day care services in a child day care
+center pursuant to the provisions of the health code of the city of New
+York, or the office of mental health or the office for people with
+developmental disabilities when such office receives an application for
+an operating certificate pursuant to the provisions of the mental
+hygiene law to operate a family care home, or a state or local
+governmental official who receives an application for a permit to
+operate a camp which is subject to the provisions of article thirteen-B
+of the public health law or the office of children and family services
+which has received an application for a certificate to receive, board or
+keep any child at a foster family home pursuant to articles nineteen-G
+and nineteen-H of the executive law or any other facility or provider
+agency, as defined in subdivision four of section four hundred
+eighty-eight of this chapter, in regard to any licensing or
+certification function carried out by such facility or agency.
+  * NB Effective September 1, 2019
   5. (a) The office of children and family services, after consultation
 with the justice center for the protection of people with special needs,
 the office of mental health, the office for people with developmental

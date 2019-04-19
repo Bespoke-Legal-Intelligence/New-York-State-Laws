@@ -1,0 +1,132 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 268-C", "kind": "section", "law_id": "PBH", "location_id": "268-C", "path": "ARTICLE 2 › TITLE 7 › SECTION 268-C", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/268-C.md", "title": "Functions of the Marketplace"} -->
+# Public Health Law § 268-C — Functions of the Marketplace
+
+[Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 7 — Ny State of Health](README.md)
+
+```text
+  § 268-c. Functions of the Marketplace. The Marketplace shall:
+  1. (a) Perform eligibility determinations for federal and state
+insurance affordability programs including medical assistance in
+accordance with section three hundred sixty-six of the social services
+law, child health plus in accordance with section twenty-five hundred
+eleven of this chapter, the basic health program in accordance with
+section three hundred sixty-nine-gg of the social services law, premium
+tax credits and cost-sharing reductions and qualified health plans in
+accordance with applicable law and other health insurance programs as
+determined by the commissioner;
+  (b) certify and make available to qualified individuals, qualified
+health plans, including dental plans, certified by the Marketplace
+pursuant to applicable law, provided that coverage under such plans
+shall not become effective prior to certification by the Marketplace;
+and
+  (c) certify and/or make available to eligible individuals, health
+plans certified by the Marketplace pursuant to applicable law, and/or
+participating in an insurance affordability program pursuant to
+applicable law, provided that coverage under such plans shall not become
+effective prior to certification by the Marketplace, and/or approval by
+the commissioner.
+  2. Assign an actuarial value to each Marketplace certified plan
+offered through the Marketplace in accordance with the criteria
+developed by the secretary pursuant to federal law or the superintendent
+pursuant to the insurance law and/or requirements developed by the
+Marketplace, and determine each health plan's level of coverage in
+accordance with regulations issued by the secretary pursuant to federal
+law or the superintendent pursuant to the insurance law.
+  3. Utilize a standardized format for presenting health benefit options
+in the Marketplace, including the use of the uniform outline of coverage
+established under section 2715 of the federal public health service act
+or the insurance law.
+  4. Standardize the benefits available through the Marketplace at each
+level of coverage defined by the superintendent in the insurance law.
+  5. Maintain enrollment periods in the best interest of qualified
+individuals consistent with federal and state law.
+  6. Implement procedures for the certification, recertification and
+decertification of health plans as qualified health plans or health
+plans approved for sale by the department of financial services or
+department of health and certified by the Marketplace, consistent with
+guidelines developed by the secretary pursuant to section 1311(c) of the
+federal act and requirements developed by the Marketplace.
+  7. Contract for health care coverage offered to qualified individuals
+through the Marketplace, and in doing so shall seek to provide health
+care coverage choices that offer the optimal combination of choice,
+value, quality, and service.
+  8. Contract for health care coverage offered to certain eligible
+individuals through the Marketplace, pursuant to health insurance
+programs as determined by the commissioner, and in doing so shall seek
+to provide health care coverage choices that offer the optimal
+combination of choice, value, quality, and service;
+  9. Provide the minimum requirements an insurer shall meet to
+participate in the Marketplace, in the best interest of qualified
+individuals or eligible individuals;
+  10. Require qualified health plans and/or other health plans certified
+by the Marketplace to offer those benefits determined to be essential
+health benefits pursuant to state law or as required by the Marketplace.
+  11. Ensure that insurers offering health plans through the Marketplace
+do not charge an individual enrollee a fee or penalty for termination of
+coverage.
+  12. Provide for the operation of a toll-free telephone hotline to
+respond to requests for assistance.
+  13. Maintain an internet website through which enrollees and
+prospective enrollees of qualified health plans and health plans
+certified by the Marketplace may obtain standardized comparative
+information on such plans and insurance affordability programs.
+  14. Make available by electronic means a calculator to determine the
+actual cost of coverage after the application of any premium tax credit
+under section 36B of the Internal Revenue Code of 1986 or applicable
+state law and any cost-sharing reduction under federal or applicable
+state law.
+  15. Operate a program under which the Marketplace awards grants to
+entities to serve as navigators in accordance with applicable federal
+law and regulations adopted thereunder, and/or a program under which the
+Marketplace awards grants to entities to provide community based
+enrollment assistance in accordance with requirements developed by the
+Marketplace; and/or a program under which the Marketplace certifies New
+York state licensed producers to provide assistance to eligible
+individuals and/or small employers pursuant to federal or state law.
+  16. In accordance with applicable federal and state law, inform
+individuals of eligibility requirements for the Medicaid program under
+title XIX of the social security act and the social services law, the
+children's health insurance program (CHIP) under title XXI of the social
+security act and this chapter, the basic health program under section
+three hundred sixty-nine-gg of the social services law, or any
+applicable state or local public health insurance program and if,
+through screening of the application by the Marketplace, the Marketplace
+determines that such individuals are eligible for any such program,
+enroll such individuals in such program.
+  17. Grant a certification that an individual is exempt from the
+requirement to maintain minimum essential coverage pursuant to federal
+or state law and from any penalties imposed by such requirements
+because:
+  (a) there is no affordable health plan available covering the
+individual, as defined by applicable law; or
+  (b) the individual meets the requirements for any other such exemption
+from the requirement to maintain minimum essential coverage or to pay
+the penalty pursuant to applicable federal or state law.
+  18. Operate a small business health options program ("SHOP") pursuant
+to section 1311 of the federal act and applicable state law, through
+which eligible small employers may select marketplace-certified
+qualified health plans offered in the small group market, and through
+which eligible small employers may receive assistance in qualifying for
+small business tax credits available pursuant to federal and state law.
+  19. Enter into agreements as necessary with federal and state agencies
+and other state Marketplaces to carry out its responsibilities under
+this title, provided such agreements include adequate protections with
+respect to the confidentiality of any information to be shared and
+comply with all state and federal laws and regulations.
+  20. Perform duties required by the secretary, the secretary of the
+United States department of the treasury or the commissioner related to
+determining eligibility for premium tax credits or reduced cost-sharing
+under applicable federal or state law.
+  21. Meet program integrity requirements under applicable law,
+including keeping an accurate accounting of receipts and expenditures
+and providing reports to the secretary regarding Marketplace related
+activities in accordance with applicable law.
+  22. Submit information provided by Marketplace applicants for
+verification as required by section 1411(c) of the federal act and
+applicable state law.
+  23. Establish rules and regulations that do not conflict with or
+prevent the application of regulations promulgated by the secretary.
+  24. Determine eligibility, provide notices, and provide opportunities
+for appeal and redetermination in accordance with the requirements of
+federal and state law.
+```

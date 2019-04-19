@@ -26,11 +26,15 @@ pharmacy savings target of fifty-five million dollars; and
   (b) for state fiscal year two thousand eighteen--two thousand
 nineteen, be limited to the ten-year rolling average of the medical
 component of the consumer price index plus four percent and minus a
-pharmacy savings target of eighty-five million dollars; and
+pharmacy savings target of eighty-five million dollars;
   (c) for state fiscal year two thousand nineteen--two thousand twenty,
 be limited to the ten-year rolling average of the medical component of
 the consumer price index plus four percent and minus a pharmacy savings
-target of eighty-five million dollars.
+target of eighty-five million dollars; and
+  (d) for state fiscal year two thousand twenty--two thousand
+twenty-one, be limited to the ten-year rolling average of the medical
+component of the consumer price index plus four percent and minus a
+pharmacy savings target of eighty-five million dollars.
   3. The department and the division of the budget shall assess on a
 quarterly basis the projected total amount to be expended in the year on
 a cash basis by the Medicaid program for each drug, and the projected
@@ -44,12 +48,13 @@ both the Medicaid fee-for-service program and Medicaid managed care
 programs, minus the amount of any drug rebates or supplemental drug
 rebates received by the department, including rebates pursuant to
 subdivision five of this section with respect to rebate targets. The
-department and the division of the budget shall report quarterly to the
-drug utilization review board the projected state funds Medicaid drug
-expenditures including the amounts, in aggregate thereof, attributable
-to the net cost of: changes in the utilization of drugs by Medicaid
-recipients; changes in the number of Medicaid recipients; changes to the
-cost of brand name drugs and changes to the cost of generic drugs. The
+department and the division of the budget shall report in December of
+each year, for the prior April through October, to the drug utilization
+review board the projected state funds Medicaid drug expenditures
+including the amounts, in aggregate thereof, attributable to the net
+cost of: changes in the utilization of drugs by Medicaid recipients;
+changes in the number of Medicaid recipients; changes to the cost of
+brand name drugs and changes to the cost of generic drugs. The
 information contained in the report shall not be publicly released in a
 manner that allows for the identification of an individual drug or
 manufacturer or that is likely to compromise the financial competitive,
@@ -69,19 +74,33 @@ review board pursuant to paragraph (a) of this subdivision, the
 department shall notify the manufacturer of such drug and shall attempt
 to reach agreement with the manufacturer on a rebate for the drug prior
 to referring the drug to the drug utilization review board for review.
+Such rebate may be based on evidence-based research, including, but not
+limited to, such research operated or conducted by or for other state
+governments, the federal government, the governments of other nations,
+and third party payers or multi-state coalitions, provided however that
+the department shall account for the effectiveness of the drug in
+treating the conditions for which it is prescribed or in improving a
+patient's health, quality of life, or overall health outcomes, and the
+likelihood that use of the drug will reduce the need for other medical
+care, including hospitalization.
   (c) In the event that the commissioner and the manufacturer have
 previously agreed to a supplemental rebate for a drug pursuant to
 paragraph (b) of this subdivision or paragraph (e) of subdivision seven
 of section three hundred sixty-seven-a of the social services law, the
 drug shall not be referred to the drug utilization review board for any
 further supplemental rebate for the duration of the previous rebate
-agreement.
+agreement, provided however, the commissioner may refer a drug to the
+drug utilization review board if the commissioner determines there are
+significant and substantiated utilization or market changes, new
+evidence-based research, or statutory or federal regulatory changes that
+warrant additional rebates. In such cases, the department shall notify
+the manufacturer and provide evidence of the changes or research that
+would warrant additional rebates, and shall attempt to reach agreement
+with the manufacturer on a rebate for the drug prior to referring the
+drug to the drug utilization review board for review.
   (d) The department shall consider a drug's actual cost to the state,
 including current rebate amounts, prior to seeking an additional rebate
-pursuant to paragraph (b) or (c) of this subdivision and shall take into
-consideration whether the manufacturer of the drug is providing
-significant discounts relative to other drugs covered by the Medicaid
-program.
+pursuant to paragraph (b) or (c) of this subdivision.
   (e) The commissioner shall be authorized to take the actions described
 in this section only so long as total Medicaid drug expenditures are
 projected to exceed the annual growth limitation imposed by subdivision
@@ -98,13 +117,13 @@ or
   (c) whether the drug may be priced disproportionately to its
 therapeutic benefits.
   5. (a) If the drug utilization review board recommends a target rebate
-amount on a drug referred by the commissioner, the commissioner shall
-require a supplemental rebate to be paid by the drug's manufacturer in
-an amount not to exceed such target rebate amount. With respect to a
-rebate required in state fiscal year two thousand seventeen--two
-thousand eighteen, the rebate requirement shall apply beginning with the
-month of April, two thousand seventeen, without regard to the date the
-department enters into the rebate agreement with the manufacturer.
+amount on a drug referred by the commissioner, the department shall
+negotiate with the drug's manufacturer for a supplemental rebate to be
+paid by the manufacturer in an amount not to exceed such target rebate
+amount. A rebate requirement shall apply beginning with the first day of
+the state fiscal year during which the rebate was required without
+regard to the date the department enters into the rebate agreement with
+the manufacturer.
   (b) The supplemental rebate required by paragraph (a) of this
 subdivision shall apply to drugs dispensed to enrollees of managed care
 providers pursuant to section three hundred sixty-four-j of the social
@@ -137,7 +156,18 @@ for a drug, the drug utilization review board may consider:
 drug;
   (ii) information supplied by the department relevant to the pricing of
 the drug;
-  (iii) information relating to value-based pricing;
+  (iii) information relating to value-based pricing provided, however,
+if the department directly invites any third party to provide
+cost-effectiveness analysis or research related to value-based pricing,
+and the department receives and considers such analysis or research for
+use by the board, such third party shall disclose any funding sources.
+The department shall, if reasonably possible, make publicly available
+the following documents in its possession that it relies upon to provide
+cost effectiveness analyses or research related to value-based pricing:
+(A) descriptions of underlying methodologies; (B) assumptions and
+limitations of research findings; and (C) if available, data that
+presents results in a way that reflects different outcomes for affected
+subpopulations;
   (iv) the seriousness and prevalence of the disease or condition that
 is treated by the drug;
   (v) the extent of utilization of the drug;
@@ -201,15 +231,15 @@ two of this section, the commissioner may: subject any drug of a
 manufacturer referred to the drug utilization review board under this
 section to prior approval in accordance with existing processes and
 procedures when such manufacturer has not entered into a supplemental
-rebate agreement as required by this section; directing managed care
-plans to remove from their Medicaid formularies those drugs that the
-drug utilization review board recommends a target rebate amount for and
-the manufacturer has failed to enter into a rebate agreement required by
-this section; promoting the use of cost effective and clinically
+rebate agreement as required by this section; direct managed care plans
+to remove from their Medicaid formularies those drugs that the drug
+utilization review board recommends a target rebate amount for and the
+manufacturer has failed to enter into a rebate agreement required by
+this section; promote the use of cost effective and clinically
 appropriate drugs other than those of a manufacturer who has a drug that
 the drug utilization review board recommends a target rebate amount and
 the manufacturer has failed to enter into a rebate agreement required by
-this section; allowing manufacturers to accelerate rebate payments under
+this section; allow manufacturers to accelerate rebate payments under
 existing rebate contracts; and such other actions as authorized by law.
 The commissioner shall provide written notice to the legislature thirty
 days prior to taking action pursuant to this paragraph, unless action is
@@ -229,9 +259,9 @@ allowed by paragraph (c) of subdivision five of this section; provided
 further that nothing in this section shall prevent access by a Medicaid
 recipient to a drug which is the only treatment for a particular disease
 or condition.
-  8. The commissioner shall report by February first annually to the
-drug utilization review board on savings achieved through the drug cap
-in the last year. Such report shall provide data on what savings were
+  8. The commissioner shall report by July first annually to the drug
+utilization review board on savings achieved through the drug cap in the
+last fiscal year. Such report shall provide data on what savings were
 achieved through actions pursuant to subdivisions three, five and seven
 of this section, respectively, and what savings were achieved through
 other means and how such savings were calculated and implemented.

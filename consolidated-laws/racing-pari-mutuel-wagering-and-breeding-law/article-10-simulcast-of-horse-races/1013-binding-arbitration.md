@@ -140,5 +140,5 @@ modifying any award after the rendition thereof.
 section shall be entitled to receive a fee for his or her services to be
 paid equally by the parties. In no event shall the board charge a fee to
 arbitrate disputes.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2020
 ```

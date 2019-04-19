@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | BNK |
 | Type | Consolidated law, chapter 2 |
-| Sections | 838 |
-| Last changed | 4 Jan 2019 |
+| Sections | 854 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Banking |
 
@@ -29,10 +29,11 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
   The  People  of  the  State  of  New  York,  represented in Senate and
 ```
 
-[Full chapter text (74 lines)](chapter-text.md)
+[Full chapter text (75 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 4 amended, 16 added
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 added
 - [26 Oct 2018](../../changes/2018/2018-10-26.md): 5 amended
 - [21 Sep 2018](../../changes/2018/2018-09-21.md): 1 amended
@@ -42,7 +43,6 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [7 Jul 2017](../../changes/2017/2017-07-07.md): 1 amended
 - [17 Mar 2017](../../changes/2017/2017-03-17.md): 1 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended
-- [3 Jun 2016](../../changes/2016/2016-06-03.md): 1 amended
 
 ## Contents
 
@@ -88,5 +88,6 @@ Became a law April 16, 1914, with the approval of the Governor.  Passed,
 - [Article 13-D — Misconduct Relating to Banking Organizations](article-13d-misconduct-relating-to-banking-organizations/)
 - [Article 13-E — Joint Deposits and Shares;](article-13e-joint-deposits-and-shares/)
 - [Article 14 — Laws Repealed; Construction; When to Take Effect](article-14-laws-repealed-construction-when-to-take-effect/)
+- [Article 14-A — Student Loan Servicers](article-14a-student-loan-servicers/)
 - [Article 15 — General Provisions Applicable to Banking Stock Corporations, Limited Liability Investment Companies, and Limited Liability Trust Companies](article-15-general-provisions-applicable-to-banking-stock/)
 - [Article 16 — General Provisions Applicable to Banking Non-stock Corporations](article-16-general-provisions-applicable-to-banking-non/)

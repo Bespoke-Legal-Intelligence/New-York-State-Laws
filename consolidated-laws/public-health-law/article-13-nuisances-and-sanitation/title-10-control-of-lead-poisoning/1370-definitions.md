@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 13 — Nuisances and Sanitation](../README.md) › [Title 10 — Control of Lead Poisoning](README.md)
 
 ```text
-  § 1370. Definitions.  When used in this title, the following words and
+  § 1370. Definitions. When used in this title, the following words and
 phrases shall have the following meanings, unless the context clearly
 requires otherwise:
   1. "Dwelling" means a building or structure or portion thereof,
@@ -30,8 +30,8 @@ this title.
 established pursuant to section thirteen hundred seventy-b of this
 title.
   6. "Elevated lead levels" means a blood lead level greater than or
-equal to ten micrograms of lead per deciliter of whole blood or such
-blood lead level as may be established by the department pursuant to
-rule or regulation.
+equal to five micrograms of lead per deciliter of whole blood or such
+lower blood lead level as may be established by the department pursuant
+to rule or regulation.
   7. "Person" means any natural person.
 ```

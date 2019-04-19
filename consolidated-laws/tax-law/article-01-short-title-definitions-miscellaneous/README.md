@@ -62,6 +62,7 @@
 - [§ 42 Farm workforce retention credit](42-farm-workforce-retention-credit.md)
 - [§ 43 Life sciences research and development tax credit](43-life-sciences-research-and-development-tax-credit.md)
 - [§ 43\*2 Single member limited liability companies and eligibility for tax credits](43-2-single-member-limited-liability-companies-and-eligibility-for-tax-credits.md)
+- [§ 44 Employer-provided child care credit](44-employer-provided-child-care-credit.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -143,6 +144,7 @@ Section  1.   Short title.
         43.   Life sciences research and development tax credit.
         43*2. Single member limited liability companies and eligibility
                 for tax credits.
+        44.   Employer-provided child care credit.
 ```
 
 </details>

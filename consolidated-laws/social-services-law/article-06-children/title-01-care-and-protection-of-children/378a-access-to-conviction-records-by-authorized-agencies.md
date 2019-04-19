@@ -4,24 +4,62 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  § 378-a. Access to conviction records by authorized agencies. 1. Every
-authorized agency which operates a residential program for children
-licensed or certified by the office of children and family services, and
-the office of children and family services in relation to any juvenile
-justice program it operates, shall request that the justice center for
-the protection of people with special needs check, and upon such
-request, such justice center shall request and shall be authorized to
-receive from the division of criminal justice services and the federal
-bureau of investigation criminal history information, as such phrase is
-defined in paragraph (c) of subdivision one of section eight hundred
-forty-five-b of the executive law concerning each prospective operator,
-employee or volunteer of such a residential program who will have
-regular and substantial unsupervised or unrestricted physical contact
-with children in such program. For the purposes of this section,
+  § 378-a. Access to conviction records by authorized agencies. * 1.
+Every authorized agency which operates a residential program for
+children licensed or certified by the office of children and family
+services, and the office of children and family services in relation to
+any juvenile justice program it operates, shall request that the justice
+center for the protection of people with special needs check, and upon
+such request, such justice center shall request and shall be authorized
+to receive from the division of criminal justice services and the
+federal bureau of investigation criminal history information, as such
+phrase is defined in paragraph (c) of subdivision one of section eight
+hundred forty-five-b of the executive law concerning each prospective
+operator, employee or volunteer of such a residential program who will
+have regular and substantial unsupervised or unrestricted physical
+contact with children in such program. For the purposes of this section,
 "operator" shall include any natural person with an ownership interest
 in the authorized agency. Access to and the use of such information
 shall be governed by the provisions of section eight hundred
 forty-five-b of the executive law.
+  * NB Effective until July 1, 2019
+  * 1. Every authorized agency which operates a residential program for
+children licensed or certified by the office of children and family
+services, and the office of children and family services in relation to
+any juvenile justice program it operates, shall request that the justice
+center for the protection of people with special needs check, and upon
+such request, such justice center shall request and shall be authorized
+to receive from the division of criminal justice services and the
+federal bureau of investigation criminal history information, as such
+phrase is defined in paragraph (c) of subdivision one of section eight
+hundred forty-five-b of the executive law concerning each prospective
+operator, employee or volunteer of such a residential program who will
+have regular and substantial unsupervised or unrestricted physical
+contact with children in such program.
+  (a) Provided however, any authorized agency required to request
+criminal history information pursuant to this subdivision that operates
+a residential program for foster children that is licensed or certified
+by the office of children and family services shall request that the
+justice center for the protection of people with special needs check,
+and upon such request, such justice center shall request and shall be
+authorized to receive from the division of criminal justice services and
+the federal bureau of investigation criminal history information, as
+such phrase is defined in paragraph (c) of subdivision one of section
+eight hundred forty-five-b of the executive law, for every: (i)
+prospective employee of such program that is not already required to be
+cleared pursuant to the opening paragraph of this subdivision; and (ii)
+notwithstanding any other provision of law to the contrary, prior to
+April first, two thousand twenty and in accordance with a schedule
+developed by the office of children and family services, any person who
+is employed in a residential foster care program that has not previously
+had a clearance conducted pursuant to this section in connection to such
+employment.
+  (b) For the purposes of this section, "operator" shall include any
+natural person with an ownership interest in the authorized agency.
+  (c) Access to and the use of information obtained pursuant to this
+subdivision shall be governed by the provisions of section eight hundred
+forty-five-b of the executive law.
+  * NB Effective July 1, 2019
   1-a. Excluding the authorized agencies authorized to request and
 receive criminal history information pursuant to subdivision one of this
 section, and subject to the rules and regulations of the division of

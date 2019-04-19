@@ -23,7 +23,7 @@ under the provisions of the internal revenue code. If such election was
 made for the purposes of the federal estate tax, then such election must
 also be made by the executor on the return of the tax imposed by this
 article. Where no federal estate tax return is required to be filed, the
-executor may make the election referred to in such paragraph (7) with
+executor must make the election referred to in such paragraph (7) with
 respect to the tax imposed by this article on the return of the tax
 imposed by this article. Any election made under this subsection shall
 be irrevocable.

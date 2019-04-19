@@ -85,6 +85,19 @@ services law, provided that funding shall be prioritized for awards made
 pursuant to subparagraph (i) of such paragraph, with remaining funding
 available for awards made pursuant to subparagraphs (ii) and (iii) of
 such paragraph.
+  4-a. Notwithstanding subdivision two of this section or any
+inconsistent provision of law to the contrary, and upon approval of the
+director of the budget, the commissioner may, subject to the
+availability of lawful appropriation, award up to three hundred million
+dollars of the funds made available pursuant to this section for
+unfunded project applications submitted in response to the request for
+applications number 17648 issued by the department on January eighth,
+two thousand eighteen pursuant to section twenty-eight hundred
+twenty-five-e of this article, provided however that the provisions of
+subdivisions three and four of this section shall apply.
+  4-b. Authorized amounts to be awarded pursuant to applications
+submitted in response to the request for application number 17648 shall
+be awarded no later than May first, two thousand nineteen.
   5. In determining awards for eligible applicants under this section,
 the commissioner shall consider criteria including, but not limited to:
   (a) the extent to which the proposed project will contribute to the

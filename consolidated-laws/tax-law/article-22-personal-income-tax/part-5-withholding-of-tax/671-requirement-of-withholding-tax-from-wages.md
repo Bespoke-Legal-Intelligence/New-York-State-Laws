@@ -88,6 +88,9 @@ such annuity be subject to withholding under this article is in effect.
   (D) Any payment of winnings from a wager placed in a lottery conducted
 by the division of the lottery, if the proceeds from such wager exceed
 five thousand dollars.
+  (E) Any gambling winnings from a wagering transaction within this
+state, if the proceeds from the wager are subject to withholding under
+section three thousand four hundred two of the internal revenue code.
   (F) Any amount deducted or deferred from an employee's salary under a
 flexible benefits program established pursuant to section twenty-three
 of the general municipal law or section one thousand two hundred ten-a

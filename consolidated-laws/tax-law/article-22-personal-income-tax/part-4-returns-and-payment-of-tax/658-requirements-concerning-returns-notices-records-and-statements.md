@@ -400,5 +400,5 @@ that is filed, without regard to extensions, during the calendar year
 for which that return is required to be filed.
   (iv) "Tax software" means any computer software program intended for
 tax return preparation purposes.
-  * NB Effective January 1, 2020
+  * NB Effective January 1, 2025
 ```

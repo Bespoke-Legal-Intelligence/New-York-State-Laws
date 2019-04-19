@@ -153,12 +153,12 @@ such certification may be based on such information as may be available
 to the commissioner at the time such certificate must be made under this
 section and may be estimated on the basis of percentages or other
 indices calculated from distributions for prior periods.
-  (5) However, the comptroller shall withhold from the taxes, penalties
-and interest imposed by the city of New York on and after August first,
-two thousand eight, and deposit such amounts to the state treasury as
-reimbursement for appropriated disbursements made by the New York state
-financial control board established by the New York state financial
-emergency act for the city of New York and by the state deputy
+  (5) (i) However, the comptroller shall withhold from the taxes,
+penalties and interest imposed by the city of New York on and after
+August first, two thousand eight, and deposit such amounts to the state
+treasury as reimbursement for appropriated disbursements made by the New
+York state financial control board established by the New York state
+financial emergency act for the city of New York and by the state deputy
 comptroller for the city of New York established by section forty-one-a
 of the executive law, as the actual, reasonable expenses of that board
 or that deputy comptroller, incurred on behalf of the city, for
@@ -172,6 +172,45 @@ the comptroller is required to withhold amounts and make payments
 described in this paragraph, the city of New York has no right, title or
 interest in or to those taxes, penalties and interest required to be
 paid into the above referenced miscellaneous special revenue funds.
+  (ii) After withholding the taxes, penalties and interest imposed by
+the city of New York on and after August first, two thousand eight as
+provided in subparagraph (i) of this paragraph, the comptroller shall
+withhold a portion of such taxes, penalties and interest sufficient to
+deposit annually into the central business district tolling capital
+lockbox established pursuant to section five hundred fifty-three-j of
+the public authorities law: (A) in state fiscal year two thousand
+nineteen - two thousand twenty, one hundred twenty-seven million five
+hundred thousand dollars; (B) in state fiscal year two thousand twenty -
+two thousand twenty-one, one hundred seventy million dollars; and (C) in
+state fiscal year two thousand twenty-one - two thousand twenty-two and
+every succeeding state fiscal year, an amount equal to one hundred one
+percent of the amount deposited in the immediately preceding state
+fiscal year. The funds shall be deposited monthly in equal installments.
+During the period that the comptroller is required to withhold amounts
+and make payments described in this paragraph, the city of New York has
+no right, title or interest in or to those taxes, penalties and interest
+required to be paid into the above referenced central business district
+tolling capital lockbox.
+  * (5-a) However, after the comptroller has made the payments required
+by paragraphs two, three and five of this subdivision, for each
+municipality that received a base level grant in state fiscal year two
+thousand eighteen-two thousand nineteen but not in state fiscal year two
+thousand nineteen-two thousand twenty under the aid and incentives for
+municipalities program pursuant to subdivision ten of section fifty-four
+of the state finance law, the comptroller shall annually withhold from
+the remaining taxes, penalties and interest imposed by the county in
+which a majority of the population of such municipality resides an
+amount equal to the base level grant received by such municipality in
+state fiscal year two thousand eighteen-two thousand nineteen and shall
+annually distribute, by December fifteenth, two thousand nineteen and by
+such date annually thereafter, such amount directly to such
+municipality, unless such municipality has a fiscal year ending May
+thirty-first, then such annual distribution shall be made by May
+fifteenth, two thousand twenty and by such date annually thereafter. No
+county shall have any right, title or interest in or to the taxes,
+penalties and interest required to be withheld and distributed pursuant
+to this paragraph.
+  * NB Effective June 1, 2019
   (6) Where the amount so paid over to any city, county, school district
 or the special sales and compensating use tax fund for the city of
 Yonkers in any such distribution or to any such authority is more or

@@ -8,7 +8,7 @@
 | Senate code | CCO |
 | Type | Consolidated law, chapter 77 |
 | Sections | 64 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Cooperative Corporations |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (20 lines)](chapter-text.md)
+
+## Recent changes
+
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 1 amended
 
 ## Contents
 

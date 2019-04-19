@@ -136,18 +136,19 @@ of one million or more for any reason whatsoever.
 the person admitted has served in the United States armed forces. Such
 information shall be listed on the admissions form; (b) notify any
 admittee who is a veteran of the possible availability of services at a
-hospital operated by the veterans administration, and, upon request by
-the admittee, such staff shall make arrangements for the individual's
-transfer to a veterans administration operated hospital, provided,
-however, that transfers shall be authorized only after it has been
-determined, according to accepted clinical and medical standards, that
-the patient's condition has stabilized and transfer can be accomplished
-safely and without complication; and (c) provide any admittee who has
-served in the United States armed forces with a copy of the "Information
-for Veterans concerning Health Care Options" fact sheet, maintained by
-the division of veterans' affairs pursuant to subdivision twenty-three
-of section three hundred fifty-three of the executive law prior to
-discharging or transferring the patient. The commissioner shall
-promulgate rules and regulations for notifying such admittees of
-possible available services and for arranging a requested transfer.
+hospital operated by the United States veterans health administration,
+and, upon request by the admittee, such staff shall make arrangements
+for the individual's transfer to a United States veterans health
+administration hospital, provided, however, that transfers shall be
+authorized only after it has been determined, according to accepted
+clinical and medical standards, that the patient's condition has
+stabilized and transfer can be accomplished safely and without
+complication; and (c) provide any admittee who has served in the United
+States armed forces with a copy of the "Information for Veterans
+concerning Health Care Options" fact sheet, maintained by the division
+of veterans' services pursuant to subdivision twenty-three of section
+three hundred fifty-three of the executive law prior to discharging or
+transferring the patient. The commissioner shall promulgate rules and
+regulations for notifying such admittees of possible available services
+and for arranging a requested transfer.
 ```

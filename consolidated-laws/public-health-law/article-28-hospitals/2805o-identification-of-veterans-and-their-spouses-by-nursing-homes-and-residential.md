@@ -18,19 +18,19 @@ solicit such information from each patient residing at such institution
 and update the patient's file to indicate veteran status.
   2. Every nursing home and residential health care facility shall in
 writing advise all individuals identifying themselves as veterans or
-spouses of veterans that the division of veterans' affairs and local
+spouses of veterans that the division of veterans' services and local
 veterans' service agencies established pursuant to section three hundred
 fifty-seven of the executive law to provide assistance to veterans and
 their spouses regarding benefits under federal and state law. Such
 written information shall include the name, address and telephone number
-of the New York state division of veterans' affairs, the nearest
-division of veterans' affairs office, the nearest county or city
+of the New York state division of veterans' services, the nearest
+division of veterans' services office, the nearest county or city
 veterans' service agency and the nearest accredited veterans' service
 officer.
   3. Every nursing home and residential health care facility, upon
 request of individuals identifying themselves as veterans or spouses of
 veterans, shall transmit such veteran status information to the division
-of veterans' affairs.
+of veterans' services.
   4. Any person who violates the provisions of this section shall be
 subject to a civil fine not to exceed fifty dollars per violation but in
 no event shall any fine exceed one thousand dollars.

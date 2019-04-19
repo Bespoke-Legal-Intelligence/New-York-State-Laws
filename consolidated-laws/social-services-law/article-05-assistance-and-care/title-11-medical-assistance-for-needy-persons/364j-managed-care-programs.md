@@ -682,7 +682,9 @@ disability.
 pursuant to an order of a court of competent jurisdiction, provided
 however, that such services shall be within such provider's or plan's
 benefit package and are reimbursable under title xix of the federal
-social security act.
+social security act, provided that services for a substance use disorder
+shall be provided by a program licensed, certified or otherwise
+authorized by the office of alcoholism and substance abuse services.
   (s) Managed care providers shall be provided with the date of
 recertification for medical assistance of each of their enrolled
 participants in conjunction with the monthly enrollment information
@@ -1495,12 +1497,15 @@ Medicaid premiums shall be reduced by one-half percent; and
   (iii) for submitted data that results in a rejection rate in excess of
 ten percent of department developed volume benchmarks, Medicaid premiums
 shall be reduced by one-half percent.
-  (d) Penalties under this subdivision may be applied to any and all
+  (d) (i) Penalties under this subdivision may be applied to any and all
 circumstances described in paragraph (b) of this subdivision until the
 managed care organization complies with the requirements for submission
-of encounter data. No penalties for late, incomplete or inaccurate
-encounter data shall be assessed against managed care organizations in
-addition to those provided for in this subdivision.
+of encounter data.
+  (ii) No penalties for late, incomplete or inaccurate encounter data
+shall be assessed against managed care organizations in addition to
+those provided for in this subdivision, provided, however, that nothing
+in this paragraph shall prohibit the imposition of penalties, in cases
+of fraud or abuse, otherwise authorized by law.
   33. For services under this title provided by residential health care
 facilities under article twenty-eight of the public health law, the
 commissioner shall direct managed care organizations licensed under
@@ -1527,6 +1532,86 @@ services; such waiver may be applied on a provider-specific or
 industry-wide basis. Further, such requirements may be waived, as the
 commissioner determines necessary, to comply with federal rules or
 regulations governing these payment methodologies.
+  34. For purposes of recovery of overpayments pursuant to subdivision
+thirty-five of this section, any payment made pursuant to the state's
+managed care program, including payments made by managed long term care
+plans, shall be deemed a payment by the state's medical assistance
+program, provided that this subdivision shall not permit the imposition
+of a lien or recovery against property of an individual or estate on
+account of medical assistance payments where recovery is made against
+the individual's managed care provider or provider of medical assistance
+program items or services. Provided however nothing in this subdivision
+shall be construed to limit recoveries under other relevant sections of
+law.
+  35. Recovery of overpayments from network providers. (a) Where the
+Medicaid inspector general during the course of an audit, investigation,
+or review, or the deputy attorney general for the Medicaid fraud control
+unit during the course of an investigation or prosecution for Medicaid
+fraud, identifies medical assistance overpayments made by a managed care
+provider or managed long term care plan to its subcontractor or
+subcontractors or provider or providers, the state shall have the right
+to recover the overpayment from the subcontractor or subcontractors,
+provider or providers, or the managed care provider or managed long term
+care plan; provided, however, in no event shall the state duplicate the
+recovery of an overpayment from a provider or subcontractor.
+  (b) Where the state is unsuccessful in recovering an overpayment from
+the subcontractor or subcontractors or provider or providers, the
+Medicaid inspector general may require the managed care provider or
+managed long term care plan to recover the medical assistance
+overpayment identified in paragraph (a) of this subdivision on behalf of
+the state. The managed care provider or managed long term care plan
+shall remit to the state the full amount of the identified overpayment
+no later than six months after receiving notice of the overpayment from
+the state.
+  36. Medicaid Program Integrity Reviews. (a) For purposes of this
+subdivision, managed care provider shall also include managed long term
+care plans.
+  (b) The Medicaid inspector general shall conduct periodic reviews of
+the contractual performance of each managed care provider as it relates
+to the managed care provider's program integrity obligations under its
+contract with the department. The Medicaid inspector general, in
+consultation with the commissioner, shall publish on its website, a list
+of those contractual obligations pursuant to which the managed care
+provider's program integrity performance shall be evaluated, including
+benchmarks, prior to commencing any review. A Medicaid program integrity
+review of a managed care provider conducted pursuant to this
+subdivision, may be completed no more than annually. Reviews performed
+pursuant to this subdivision shall include a review of compliance with
+contractual standards which prevent fraud, waste, or abuse. Such
+standards may include but are not limited to excluded providers,
+restricted recipient program, reporting obligations, compliance
+programs, and suspension of payments. However, if the Medicaid inspector
+general determines that a subsequent review, pursuant to this
+subdivision, is necessary, a second review may occur within one year.
+  (c) If, as a result of his or her review, the Medicaid inspector
+general determines that a managed care provider is not meeting its
+program integrity obligations, the Medicaid inspector general may
+recover from the managed care provider up to two percent of the Medicaid
+premiums paid to the managed care provider for the period under review.
+Any premium recovery under this subdivision shall be a percentage of the
+administrative component of the Medicaid premium calculated by the
+department and may be recovered by the department in the same manner it
+recovers overpayments.
+  (d) The managed care provider shall be entitled to receive a draft
+audit report and final audit report containing the results of the
+Medicaid inspector general's review. If the Medicaid inspector general
+determines to recover a percentage of the premium as described in
+paragraph (c) of this subdivision, the managed care provider shall be
+entitled to notice and an opportunity to be heard in accordance with
+section twenty-two of this chapter.
+  37. Managed care providers shall report to the department all sources
+and amounts of income, payments, and financial benefits related to the
+provision of pharmacy benefits, including, but not limited to, any
+pricing discounts, rebates of any kind, inflationary payments, credits,
+clawbacks, fees, grants, chargebacks, reimbursements, or other benefits
+whether such income, payments, or financial benefits are received
+directly by the managed care provider or passed through from a pharmacy
+benefit manager or other entity. Managed care providers shall also
+report to the department the amounts of any administrative fees paid to
+cover the cost of providing pharmacy benefit management services. The
+reporting required in this subdivision shall be supplemental to and
+included with other existing reporting requirements, including but not
+limited to any quarterly reporting requirements.
   * NB Repealed March 31, 2024 (per ch. 165/1991)
   * NB Repealed March 31, 2024 (per ch. 710/1988)
 ```

@@ -77,5 +77,5 @@ necessary or desirable pursuant to this chapter.
   10. The members of the commission shall receive no compensation for
 their services but shall be allowed their actual and necessary expenses
 incurred in the performance of their duties.
-  * NB Repealed June 30, 2019
+  * NB Repealed June 30, 2020
 ```

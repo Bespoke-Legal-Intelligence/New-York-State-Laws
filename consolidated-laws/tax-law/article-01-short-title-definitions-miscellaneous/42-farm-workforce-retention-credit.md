@@ -12,15 +12,16 @@ this section.
   (b) A farm employer is a corporation (including a New York S
 corporation), a sole proprietorship, a limited liability company or a
 partnership who is also an eligible farmer.
-  (c) For purposes of this subdivision, the term "eligible farmer" means
-a taxpayer whose federal gross income from farming for the taxable year
-is at least two-thirds of excess federal gross income. Excess federal
-gross income means the amount of federal gross income from all sources
-for the taxable year in excess of thirty thousand dollars. For the
-purposes of this subdivision, payments from the state's farmland
-protection program, administered by the department of agriculture and
-markets, shall be included as federal gross income from farming for
-otherwise eligible farmers.
+  (c) For purposes of this section, the term "eligible farmer" means a
+taxpayer whose federal gross income from farming as defined in
+subsection (n) of section six hundred six of this chapter for the
+taxable year is at least two-thirds of excess federal gross income.
+Excess federal gross income means the amount of federal gross income
+from all sources for the taxable year in excess of thirty thousand
+dollars. For purposes of this section, payments from the state's
+farmland protection program, administered by the department of
+agriculture and markets, shall be included as federal gross income from
+farming for otherwise eligible farmers.
   (d) An eligible farm employee is an individual who is employed for
 five hundred hours or more per taxable year, by a farm employer in New
 York state, but excluding general executive officers of the farm
@@ -30,6 +31,17 @@ illness or disability, the hours such individual is employed may be
 combined with the hours worked by an individual hired to replace such
 individual when determining whether the five hundred hour threshold has
 been met.
+  (d-1) Special rules. If more than fifty percent of such eligible
+farmer's federal gross income from farming is from the sale of wine from
+a licensed farm winery as provided for in article six of the alcoholic
+beverage control law, or from the sale of cider from a licensed farm
+cidery as provided for in section fifty-eight-c of the alcoholic
+beverage control law, then an eligible farm employee of such eligible
+farmer shall be included for purposes of calculating the amount of
+credit allowed under this section only if such eligible farm employee is
+employed by such eligible farmer on qualified agricultural property as
+defined in paragraph four of subsection (n) of section six hundred six
+of this chapter.
   (e) For taxable years beginning on or after January first, two
 thousand seventeen and before January first, two thousand eighteen, the
 amount of the credit allowed under this section shall be equal to the

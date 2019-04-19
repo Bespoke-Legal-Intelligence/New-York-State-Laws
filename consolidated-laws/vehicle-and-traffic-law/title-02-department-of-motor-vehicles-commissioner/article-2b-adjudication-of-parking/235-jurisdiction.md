@@ -213,7 +213,7 @@ default shall be reported to the department which department shall cause
 a suspension and non-renewal of the owner's registration pursuant to the
 provisions of subdivision four-c of section five hundred ten of this
 chapter.
-  * NB Effective until September 1, 2019
+  * NB Effective until September 1, 2020
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -245,7 +245,7 @@ hundred eighty of this chapter in accordance with section eleven hundred
 eighty-b of this chapter, such tribunal and the rules and regulations
 pertaining thereto shall be constituted in substantial conformance with
 the following sections.
-  * NB Effective September 1, 2019 until December 1, 2019
+  * NB Effective September 1, 2020 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -274,7 +274,7 @@ section eleven hundred eighty of this chapter in accordance with section
 eleven hundred eighty-b of this chapter, such tribunal and the rules and
 regulations pertaining thereto shall be constituted in substantial
 conformance with the following sections.
-  * NB Effective and Expires December 1, 2019
+  * NB Effective and Expires December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -299,7 +299,7 @@ of this chapter in accordance with section eleven hundred eighty-b of
 this chapter, such tribunal and the rules and regulations pertaining
 thereto shall be constituted in substantial conformance with the
 following sections.
-  *NB Effective December 1, 2019 until September 20, 2020
+  *NB Effective December 1, 2024 until September 20, 2020
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -340,7 +340,7 @@ sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
 of the laws of nineteen hundred fifty, such tribunal and the rules and
 regulations pertaining thereto shall be constituted in substantial
 conformance with the following sections.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -356,7 +356,7 @@ law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
 hundred seventy-four of the laws of nineteen hundred fifty, such
 tribunal and the rules and regulations pertaining thereto shall be
 constituted in substantial conformance with the following sections.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -370,5 +370,5 @@ of chapter seven hundred seventy-four of the laws of nineteen hundred
 fifty, such tribunal and the rules and regulations pertaining thereto
 shall be constituted in substantial conformance with the following
 sections.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
 ```

@@ -13,6 +13,7 @@
 - [§ 572 Employment of experts in connection with assessments of real property](572-employment-of-experts-in-connection-with-assessments-of-real.md)
 - [§ 574 Information to be furnished by recording officers and assessors](574-information-to-be-furnished-by-recording-officers-and-assessors.md)
 - [§ 575 Assessor's annual reports](575-assessors-annual-reports.md)
+- [§ 575-A Electric generating facility annual reports](575a-electric-generating-facility-annual-reports.md)
 - [§ 576 Assessment under cooperative agreements](576-assessment-under-cooperative-agreements.md)
 - [§ 578 County assistance under cooperative agreements](578-county-assistance-under-cooperative-agreements.md)
 - [§ 579 Coordinated assessment programs](579-coordinated-assessment-programs.md)
@@ -39,6 +40,7 @@ Section 560.   Abandoned subdivisions.
         574.   Information to be furnished by recording officers and
                  assessors.
         575.   Assessor's annual reports.
+        575-a. Electric generating facility annual reports.
         576.   Assessment under cooperative agreements.
         578.   County assistance under cooperative agreements.
         579.   Coordinated assessment programs.

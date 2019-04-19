@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Banking Law § 718", "kind": "section", "law_id": "BNK", "location_id": "718", "path": "ARTICLE 14-A › SECTION 718", "repealed": false, "repealed_date": null, "source": "nys-laws:BNK/718.md", "title": "Rules and Regulations"} -->
+# Banking Law § 718 — Rules and Regulations
+
+[Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
+
+```text
+  * § 718. Rules and Regulations. 1. In addition to such powers as may
+otherwise be prescribed by law, the superintendent is hereby authorized
+and empowered to promulgate such rules and regulations as may in the
+judgement of the superintendent be consistent with the purposes of this
+article, or appropriate for the effective administration of this
+article, including, but not limited to:
+  (a) Such rules and regulations in connection with the activities of
+student loan servicers as may be necessary and appropriate for the
+protection of borrowers in this state.
+  (b) Such rules and regulations as may be necessary and appropriate to
+define unfair, deceptive or abusive acts or practices in connection with
+the activities of student loan servicers.
+  (c) Such rules and regulations as may define the terms used in this
+article and as may be necessary and appropriate to interpret and
+implement the provisions of this article.
+  (d) Such rules and regulations as may be necessary for the enforcement
+of this article.
+  2. The superintendent is hereby authorized and empowered to make such
+specific rulings, demands and findings as the superintendent may deem
+necessary for the proper conduct of the student loan servicing industry.
+  * NB Effective October 9, 2019
+```

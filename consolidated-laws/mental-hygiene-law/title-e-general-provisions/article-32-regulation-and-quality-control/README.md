@@ -28,6 +28,7 @@
 - [§ 32.33 Improper expenditures of money](32.33-improper-expenditures-of-money.md)
 - [§ 32.35 Disclosure by members, officers and employees](32.35-disclosure-by-members-officers-and-employees.md)
 - [§ 32.37 Registration and notification of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations](32.37-registration-and-notification-of-boards-of-directors-or-trustees.md)
+- [§ 32.38 The recovery tax credit program](32.38-the-recovery-tax-credit-program.md)
 - [§ 32.39 Fiscal year report](32.39-fiscal-year-report.md)
 
 <details>
@@ -70,6 +71,7 @@ Section 32.01  Regulation and quality control of chemical dependence
         32.37  Registration and notification of boards of directors or
                  trustees of certain voluntary not-for-profit facilities
                  or corporations.
+        32.38  The recovery tax credit program.
         32.39  Fiscal year report.
 ```
 

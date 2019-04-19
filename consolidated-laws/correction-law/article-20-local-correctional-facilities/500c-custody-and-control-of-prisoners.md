@@ -229,5 +229,5 @@ prior to commitment, as if such person had been judicially committed to
 the custody of the sheriff and such person may be held in the Broome
 county correctional facility.
   ** NB There are 4 sb 25's
-  * NB Repealed September 1, 2019
+  * NB Repealed September 1, 2020
 ```

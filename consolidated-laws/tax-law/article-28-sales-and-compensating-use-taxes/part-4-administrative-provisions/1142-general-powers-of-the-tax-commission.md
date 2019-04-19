@@ -313,4 +313,14 @@ same effect as provided by law for appeal from a judgment in a special
 proceeding. All such proceedings for review shall be heard on the
 petition, transcript and other papers, and on appeal shall be heard on
 the record, without requirement of printing.
+  (15) To publish a list on the department's website of marketplace
+providers whose certificates of authority have been revoked and, if
+necessary to protect sales tax revenue, provide by regulation or
+otherwise that a marketplace seller who is a vendor will be relieved of
+the duty to collect tax for sales of tangible personal property
+facilitated by a marketplace provider only if, in addition to the
+conditions prescribed by paragraph two of subdivision (l) of section
+eleven hundred thirty-two of this part being met, such marketplace
+provider is not on such list at the commencement of the quarterly period
+covered thereby.
 ```

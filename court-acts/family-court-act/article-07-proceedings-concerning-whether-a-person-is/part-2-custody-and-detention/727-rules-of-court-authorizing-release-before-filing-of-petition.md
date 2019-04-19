@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 2 — Custody and Detention](README.md)
 
 ```text
-  § 727. Rules of court authorizing release before filing of petition.
+  * § 727. Rules of court authorizing release before filing of petition.
 (a) The agency responsible for operating a detention facility or in a
 city of one million or more, the agency responsible for operating a
 foster care facility, may release a child in custody before the filing
@@ -20,4 +20,5 @@ with section seven hundred twenty-four (b) (i).
 under this section, the child shall promptly be brought before a judge
 of the court, if practicable, and section seven hundred twenty-eight
 shall apply.
+  * NB Repealed January 1, 2020
 ```

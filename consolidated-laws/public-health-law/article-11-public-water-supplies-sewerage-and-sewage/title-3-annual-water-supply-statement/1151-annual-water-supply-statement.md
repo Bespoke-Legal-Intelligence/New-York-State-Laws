@@ -61,6 +61,9 @@ agencies. In addition, for water works corporations that test for
 cryptosporidium parvum or giardia lamblia, a summary of the following:
 sampling sites; number of tests per year; testing results and actions
 taken in response to those results.
+  9. General information regarding lead pipes reasonably known to be
+located within the water system, as that term is defined in subdivision
+twenty-six of section two of the public service law.
   The commissioner may add such additional requirements as he determines
 to be appropriate.
 ```

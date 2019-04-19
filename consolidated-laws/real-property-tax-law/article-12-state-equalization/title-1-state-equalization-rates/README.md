@@ -11,6 +11,7 @@
 - [§ 1206 Complaints](1206-complaints.md)
 - [§ 1208 Hearing of complaints](1208-hearing-of-complaints.md)
 - [§ 1210 Establishment of final state equalization rates, class ratios and class equalization rates](1210-establishment-of-final-state-equalization-rates-class-ratios.md)
+- [§ 1211 Confirmation by commissioner of the locally stated level of assessment](1211-confirmation-by-commissioner-of-the-locally-stated-level.md)
 - [§ 1212 Certification of final state equalization rates, class ratios and class equalization rates](1212-certification-of-final-state-equalization-rates-class-ratios.md)
 - [§ 1214 Establishment of state equalization rates for counties](1214-establishment-of-state-equalization-rates-for-counties.md)
 - [§ 1216 Establishment of state equalization rates for supplemental assessment rolls for school purposes; computation of full valuation for school...](1216-establishment-of-state-equalization-rates-for-supplemental.md)
@@ -31,6 +32,8 @@ Section 1200. Studies for establishing state equalization rates.
         1208. Hearing of complaints.
         1210. Establishment of final state equalization rates, class
                 ratios and class equalization rates.
+        1211. Confirmation by commissioner of the locally stated level
+                of assessment.
         1212. Certification of final state equalization rates, class
                 ratios and class equalization rates.
         1214. Establishment of state equalization rates for counties.

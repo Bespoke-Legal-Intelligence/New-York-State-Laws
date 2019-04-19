@@ -1507,8 +1507,8 @@ return pursuant to section six hundred fifty-one of this article, a
 qualified taxpayer may nevertheless receive the full amount of the
 credit to be credited or repaid as an overpayment, without interest.
   (3) Determination of credit. For taxable years after two thousand
-thirteen and prior to two thousand sixteen, the amount of the credit
-allowable under this subsection shall be determined as follows:
+thirteen, the amount of the credit allowable under this subsection shall
+be determined as follows:
 If household gross income    Excess real property    The credit amount is
 for the taxable year is:     taxes are the excess    the following
                              of real property tax    percentage of excess
@@ -2282,7 +2282,7 @@ subsection (u)                       production expenditures and
 tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
                                      hundred ten-B
-  ** NB Repealed January 1, 2020
+  ** NB Repealed January 1, 2023
 (xli) Farm workforce retention       Amount of credit under
 credit under subsection (fff)        subdivision fifty-one of
                                      section two hundred ten-B
@@ -2301,6 +2301,14 @@ ship tax credit under subsection     subdivision forty-nine of
 pantries credit under subsection     subdivision fifty-two of
 (n-2)                                section two hundred ten-B
   * NB There are 3 clause (xliii)'s
+* (xliv) Employer-provided child     Amount of credit under subdivision
+care credit (jjj)                    fifty-three of section two hundred
+                                     ten-B
+  * NB There are 2 clause (xliv)'s
+* (xliv) Recovery tax credit under   Amount of credit under
+subsection (jjj)                     subdivision fifty-three of
+                                     section two hundred ten-B
+  * NB There are 2 clause (xliv)'s
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -4093,12 +4101,12 @@ computed as hereinafter provided, shall be allowed for bioheating fuel,
 used for space heating or hot water production for residential purposes
 within this state and purchased on or after July first, two thousand six
 and before July first, two thousand seven and on or after January first,
-two thousand eight and before January first, two thousand twenty. Such
-credit shall be $0.01 per percent of biodiesel per gallon of bioheating
-fuel, not to exceed twenty cents per gallon, purchased by such taxpayer.
-Provided, however, that on or after January first, two thousand
-seventeen, this credit shall not apply to bioheating fuel that is less
-than six percent biodiesel per gallon of bioheating fuel.
+two thousand eight and before January first, two thousand twenty-three.
+Such credit shall be $0.01 per percent of biodiesel per gallon of
+bioheating fuel, not to exceed twenty cents per gallon, purchased by
+such taxpayer. Provided, however, that on or after January first, two
+thousand seventeen, this credit shall not apply to bioheating fuel that
+is less than six percent biodiesel per gallon of bioheating fuel.
   (2) For purposes of this subsection, the following definitions shall
 apply:
   (a) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
@@ -4342,16 +4350,20 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
-  (5) To be eligible for the credit allowable under this subsection the
-rehabilitation project shall be in whole or in part located within a
-census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of April
-first of each year using the most recent five year estimate from the
-American community survey published by the United States Census bureau.
-If there is a change in the most recent five year estimate, a census
-tract that qualified for eligibility under this program before
-information about the change was released will remain eligible for a
-credit under this subsection for an additional two calendar years.
+  (5) Except in the case of a qualified rehabilitation project
+undertaken within a state park, state historic site, or other land owned
+by the state, that is under the jurisdiction of the office of parks,
+recreation and historic preservation, to be eligible for the credit
+allowable under this subsection the rehabilitation project shall be in
+whole or in part located within a census tract which is identified as
+being at or below one hundred percent of the state median family income
+as calculated as of April first of each year using the most recent five
+year estimate from the American community survey published by the United
+States Census bureau. If there is a change in the most recent five year
+estimate, a census tract that qualified for eligibility under this
+program before information about the change was released will remain
+eligible for a credit under this subsection for an additional two
+calendar years.
   (pp) Historic homeownership rehabilitation credit. (1) For taxable
 years beginning on or after January first, two thousand seven, a
 taxpayer shall be allowed a credit, to be computed as hereinafter
@@ -4457,11 +4469,15 @@ state:
 the taxpayer,
   (iii) in which the taxpayer resides during the taxable year in which
 the taxpayer is allowed a credit under this subsection, and
-  (iv) which is in whole or in part a targeted area residence within the
-meaning of section 143(j) of the internal revenue code or is located
-within a census tract which is identified as being at or below one
-hundred percent of the state median family income in the most recent
-federal census.
+  (iv) (1) which is in whole or in part a targeted area residence within
+the meaning of section 143(j) of the internal revenue code; or (2) is
+located within a census tract which is identified as being at or below
+one hundred percent of the state median family income in the most recent
+federal census; or (3) which is located in a city with a population of
+less than one million with a poverty rate greater than fifteen percent,
+rounded to the nearest whole number, in the most recent five year
+estimate from the American community survey published by the United
+States census bureau.
   (B) A building shall be treated as having been "substantially
 rehabilitated" if the qualified rehabilitation expenditures in relation
 to such building total five thousand dollars or more.
@@ -4844,7 +4860,7 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of section two hundred ten-B, or
 subdivision (j) of section fifteen hundred eleven of this chapter.
-  * NB Effective until January 1, 2020
+  * NB Effective until January 1, 2023
   (aaa) Minimum wage reimbursement credit. (1) A taxpayer shall be
 allowed a credit, to be computed as provided in section thirty-eight of
 this chapter, against the tax imposed by this article.
@@ -5325,7 +5341,8 @@ law.
   (G) "STAR tax savings" means the tax savings attributable to the STAR
 exemption within a portion of a school district, as determined by the
 commissioner pursuant to subdivision two of section thirteen hundred
-six-a of the real property tax law.
+six-a of the real property tax law for purposes of the credit authorized
+by this subsection.
   (2) Allowance of credit. A qualified taxpayer shall be allowed a
 credit as provided in paragraph three or four of this subsection,
 whichever is applicable, against the taxes imposed by this article
@@ -5342,7 +5359,10 @@ interest.
 years after two thousand fifteen, a basic STAR credit shall be available
 to a qualified taxpayer if the affiliated income of the parcel that
 serves as the taxpayer's primary residence is less than or equal to five
-hundred thousand dollars.
+hundred thousand dollars. The income limit established for the basic
+STAR exemption by paragraph (b-1) of subdivision three of section four
+hundred twenty-five of the real property tax law shall not be taken into
+account when determining eligibility for the basic STAR credit.
   (B) Subject to the provisions of subparagraph (C) of this paragraph,
 such basic STAR credit shall be the lesser of:
   (i) the basic STAR tax savings for the school district portion in
@@ -5400,11 +5420,12 @@ represents.
 authorized by this subsection if the parcel that serves as the
 taxpayer's primary residence received the STAR exemption on the
 assessment roll upon which school district taxes for the associated
-fiscal year where levied. Provided, however, that the taxpayer may
-remove this disqualification by renouncing the exemption and making any
-required payments by December thirty-first of the taxable year, as
-provided by subdivision sixteen of section four hundred twenty-five of
-the real property tax law.
+fiscal year were levied. Provided, however, that the taxpayer may remove
+this disqualification by renouncing the exemption by December
+thirty-first of the taxable year, as provided by subdivision sixteen of
+section four hundred twenty-five of the real property tax law, and
+making any required payments within the time frame prescribed by section
+four hundred ninety-six of the real property tax law.
   (6) Special cases.
   (A) A married couple may not receive a credit pursuant to this
 subsection on more than one residence during any given taxable year,
@@ -5413,7 +5434,7 @@ receive a credit pursuant to this subsection on one residence while
 receiving an exemption pursuant to section four hundred twenty-five of
 the real property tax law on another residence, unless living apart due
 to legal separation.
-  (B) In the case of property consisting of a mobile home that is
+  (B) (i) In the case of property consisting of a mobile home that is
 described in paragraph (1) of subdivision two of section four hundred
 twenty-five of the real property tax law, the amount of the credit
 allowable with respect to such mobile home shall be equal to the basic
@@ -5431,6 +5452,31 @@ taxpayer provides the commissioner with such information, the taxpayer's
 credit shall be increased accordingly, but in no case shall the credit
 exceed the basic STAR tax savings or enhanced STAR tax savings,
 whichever is applicable, for the school district portion.
+  (ii) The commissioner may implement an electronic system for the
+reporting of information by owners and operators of manufactured home
+parks, as defined by section two hundred thirty-three of the real
+property law. Upon the implementation of such a system, each such owner
+and operator shall file electronic statements with the commissioner
+according to a schedule to be determined by the commissioner. Such
+statement shall require reporting of names of all persons owning an
+interest in the park, the services provided by the park owner to the
+tenants, the name of the agent designated pursuant to subdivision l of
+section two hundred thirty-three of the real property law, the names and
+addresses of all tenants of the park, whether the tenant leases or owns
+the home, the rent set for each lot in the park, and such additional
+information as the commissioner may deem necessary for the proper
+administration of the STAR exemption established pursuant to section
+four hundred twenty-five of the real property tax law and the STAR
+credit and any other property tax-based credit established pursuant to
+this section. In the case of the first registration statement filed in a
+calendar year, such statement shall also include a copy of all current
+manufactured home park rules and regulations. In the case that the
+manufactured home park rules and regulations are modified after the
+filing of the first registration statement in a calendar year, the next
+subsequent registration statement shall also include a copy of such
+rules and regulations. The commissioner shall provide the commissioner
+of housing and community renewal with the information contained in each
+report no later than thirty days after the receipt thereof.
   (C) In the case of a primary residence that is located in two or more
 school districts, the applicable basic or enhanced STAR tax savings for
 the school district portion shall be determined as follows:
@@ -5557,7 +5603,13 @@ incorrect party, the commissioner shall be empowered to utilize any of
 the procedures for collection, levy and lien of personal income tax set
 forth in this article, any other relevant procedures referenced within
 the provisions of this article, and any other law as may be applicable,
-to recoup the improperly issued amount.
+to recoup the improperly issued amount; provided that in the event such
+party was determined to be ineligible on the basis that his or her
+primary residence received the STAR exemption in the associated fiscal
+year, the improperly issued credit amount shall be deemed a clerical
+error and shall be paid upon notice and demand without the issuance of a
+notice of deficiency and shall be assessed, collected and paid in the
+same manner as taxes.
   (11) Administration. The provisions of this article, including the
 provisions of sections six hundred fifty-three, six hundred fifty-eight,
 and six hundred fifty-nine of this article and the provisions of part
@@ -5630,6 +5682,13 @@ extensions.
   (D) A taxpayer who received a preliminary advance payment that
 constitutes an overpayment shall not be required to pay interest on the
 amount of the overpayment.
+  (E) On or after April first, two thousand nineteen, a taxpayer who is
+found to have made a material misstatement on an application for the
+credit authorized by this section shall be disqualified from receiving
+such credit for six years. As used herein, the term "material
+misstatement" shall have the same meaning as set forth in paragraph (a)
+of subdivision thirteen of section four hundred twenty-five of the real
+property tax law.
   (fff) Farm workforce retention credit. (1) A taxpayer shall be allowed
 a credit, to be computed as provided in section forty-two of this
 chapter, against the tax imposed by this article.
@@ -5738,6 +5797,62 @@ contributions made by the taxpayer to the State University of New York
 Impact Foundation and/or the Research Foundation of the City University
 of New York in accordance with section three of the chapter of the laws
 of two thousand eighteen that added this subsection.
+  * (jjj) Employer-provided child care credit. (1) Allowance of credit.
+A taxpayer shall be allowed a credit, to be computed as provided in
+section forty-four of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for any taxable year exceeds the taxpayer's tax for such
+year, the excess will be treated as an overpayment of tax to be credited
+or refunded in accordance with the provisions of section six hundred
+eighty-six of this article, provided, however, that no interest will be
+paid thereon.
+  (3) Credit recapture. For provisions requiring recapture of credit,
+see section forty-four of this chapter.
+  * NB There are 3 subsection (jjj)'s
+  * (jjj) Recovery tax credit. (1) Allowance of credit. A taxpayer that
+is a qualified employer pursuant to section 32.38 of the mental hygiene
+law that has received a certificate of tax credit from the commissioner
+of the office of alcoholism and substance abuse services shall be
+allowed a credit against the tax imposed by this article equal to the
+amount shown on such certificate of tax credit. A taxpayer that is a
+partner in a partnership, member of a limited liability company or
+shareholder in an S corporation that has been certified by the
+commissioner of the office of alcoholism and substance abuse services as
+a qualified employer pursuant to section 32.38 of the mental hygiene law
+shall be allowed its pro rata share of the credit earned by the
+partnership, limited liability company or S corporation.
+  (2) Overpayment. If the amount of the credit allowed under this
+subsection for any taxable year exceeds the taxpayer's tax for the
+taxable year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, no interest will
+be paid thereon.
+  (3) Tax return requirement. The taxpayer shall be required to attach
+to its tax return, in the form prescribed by the commissioner, proof of
+receipt of its certificate of tax credit issued by the commissioner of
+the office of alcoholism and substance abuse services pursuant to
+section 32.38 of the mental hygiene law.
+  * NB There are 3 subsection (jjj)'s
+  * (jjj) Central business district toll credit. (1) For taxable years
+beginning on or after January first, two thousand twenty-one, a resident
+individual whose primary residence is located in the central business
+district established pursuant to article forty-four-C of the vehicle and
+traffic law and whose New York adjusted gross income for the taxable
+year is less than sixty thousand dollars shall be entitled to a credit
+as calculated pursuant to paragraph two of this subsection.
+  (2) The credit shall be equal to the aggregate amount of central
+business district tolls paid by the taxpayer during the taxable year
+pursuant to the central business district tolling program authorized by
+article forty-four-C of the vehicle and traffic law. Provided, however,
+that any toll that would constitute a trade or business expense under
+section 162 of the internal revenue code shall be excluded.
+  (3) If the amount of the credit allowed under this subsection for any
+taxable year shall exceed the taxpayer's tax for such year, the excess
+shall be treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section six hundred eighty-six of this
+article, provided, however, that no interest shall be paid thereon.
+  * NB There are 3 subsection (jjj)'s
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a
@@ -5764,7 +5879,7 @@ and carryovers of such credits, shall be deducted next, and among such
 credits, those whose carryover is of limited duration shall be deducted
 before those whose carryover is of unlimited duration. Credits allowable
 under this article which are refundable shall be deducted last.
-  * NB Effective until January 1, 2020
+  * NB Effective until January 1, 2023
   * (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,
@@ -5772,7 +5887,7 @@ and carryovers of such credits, shall be deducted next, and among such
 credits, those whose carryover is of limited duration shall be deducted
 before those whose carryover is of unlimited duration. Credits allowable
 under this article which are refundable shall be deducted last.
-  * NB Effective January 1, 2020
+  * NB Effective January 1, 2023
   * (zzz) Cross references.--For credit in respect of:
   (1) taxes withheld on wages, see section six hundred seventy-three,
   (2) taxes imposed on a resident by other states, see section six
@@ -5782,7 +5897,7 @@ eighty-six,
   (4) taxes paid by a trust for a prior taxable year on income
 subsequently distributed, see sections six hundred twenty-one and six
 hundred thirty-five.
-  * NB Effective until January 1, 2020
+  * NB Effective until January 1, 2023
   * (zzz) Cross references.--For credit in respect of:
   (1) taxes withheld on wages, see section six hundred seventy-three,
   (2) taxes imposed on a resident by other states, see section six
@@ -5792,5 +5907,5 @@ eighty-six,
   (4) taxes paid by a trust for a prior taxable year on income
 subsequently distributed, see sections six hundred twenty-one and six
 hundred thirty-five.
-  * NB Effective January 1, 2020
+  * NB Effective January 1, 2023
 ```

@@ -59,14 +59,25 @@ of such month, or because he has refused vocational rehabilitation.
 determining eligibility for and the amount of additional state payments,
 depending on the type of living arrangement and the geographic area in
 which the eligible individual or the eligible couple resides:
-  (a) On and after January first, two thousand eighteen, for an eligible
-individual living alone, $837.00; and for an eligible couple living
-alone, $1,229.00.
-  (b) On and after January first, two thousand eighteen, for an eligible
-individual living with others with or without in-kind income, $773.00;
-and for an eligible couple living with others with or without in-kind
-income, $1,171.00.
-  (c) On and after January first, two thousand eighteen, (i) for an
+  * (a) On and after January first, two thousand eighteen, for an
+eligible individual living alone, $837.00; and for an eligible couple
+living alone, $1,229.00.
+  * NB Effective until December 31, 2019
+  * (a) On and after January first, two thousand nineteen, for an
+eligible individual living alone, $858.00; and for an eligible couple
+living alone, $1,261.00.
+  * NB Effective December 31, 2019
+  * (b) On and after January first, two thousand eighteen, for an
+eligible individual living with others with or without in-kind income,
+$773.00; and for an eligible couple living with others with or without
+in-kind income, $1,171.00.
+  * NB Effective until December 31, 2019
+  * (b) On and after January first, two thousand nineteen, for an
+eligible individual living with others with or without in-kind income,
+$794.00; and for an eligible couple living with others with or without
+in-kind income, $1,203.00.
+  * NB Effective December 31, 2019
+  * (c) On and after January first, two thousand eighteen, (i) for an
 eligible individual receiving family care, $1,016.48 if he or she is
 receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -77,7 +88,20 @@ receiving such care in any other county in the state, $978.48; and (iv)
 for an eligible couple receiving such care in any other county in the
 state, two times the amount set forth in subparagraph (iii) of this
 paragraph.
-  (d) On and after January first, two thousand eighteen, (i) for an
+  * NB Effective until December 31, 2019
+  * (c) On and after January first, two thousand nineteen, (i) for an
+eligible individual receiving family care, $1,037.48 if he or she is
+receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving family care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland, two times the amount set forth in
+subparagraph (i) of this paragraph; or (iii) for an eligible individual
+receiving such care in any other county in the state, $999.48; and (iv)
+for an eligible couple receiving such care in any other county in the
+state, two times the amount set forth in subparagraph (iii) of this
+paragraph.
+  * NB Effective December 31, 2019
+  * (d) On and after January first, two thousand eighteen, (i) for an
 eligible individual receiving residential care, $1,185.00 if he or she
 is receiving such care in the city of New York or the county of Nassau,
 Suffolk, Westchester or Rockland; and (ii) for an eligible couple
@@ -88,15 +112,41 @@ individual receiving such care in any other county in the state,
 $1,155.00; and (iv) for an eligible couple receiving such care in any
 other county in the state, two times the amount set forth in
 subparagraph (iii) of this paragraph.
-  (e) (i) On and after January first, two thousand eighteen, for an
+  * NB Effective until December 31, 2019
+  * (d) On and after January first, two thousand nineteen, (i) for an
+eligible individual receiving residential care, $1,206.00 if he or she
+is receiving such care in the city of New York or the county of Nassau,
+Suffolk, Westchester or Rockland; and (ii) for an eligible couple
+receiving residential care in the city of New York or the county of
+Nassau, Suffolk, Westchester or Rockland, two times the amount set forth
+in subparagraph (i) of this paragraph; or (iii) for an eligible
+individual receiving such care in any other county in the state,
+$1,176.00; and (iv) for an eligible couple receiving such care in any
+other county in the state, two times the amount set forth in
+subparagraph (iii) of this paragraph.
+  * NB Effective December 31, 2019
+  * (e) (i) On and after January first, two thousand eighteen, for an
 eligible individual receiving enhanced residential care, $1,444.00; and
 (ii) for an eligible couple receiving enhanced residential care, two
 times the amount set forth in subparagraph (i) of this paragraph.
-  (f) The amounts set forth in paragraphs (a) through (e) of this
+  * NB Effective until December 31, 2019
+  * (e) On and after January first, two thousand nineteen, (i) for an
+eligible individual receiving enhanced residential care, $1,465.00; and
+(ii) for an eligible couple receiving enhanced residential care, two
+times the amount set forth in subparagraph (i) of this paragraph.
+  * NB Effective December 31, 2019
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
 subdivision shall be increased to reflect any increases in federal
 supplemental security income benefits for individuals or couples which
 become effective on or after January first, two thousand nineteen but
 prior to June thirtieth, two thousand nineteen.
+  * NB Effective until December 31, 2019
+  * (f) The amounts set forth in paragraphs (a) through (e) of this
+subdivision shall be increased to reflect any increases in federal
+supplemental security income benefits for individuals or couples which
+become effective on or after January first, two thousand twenty but
+prior to June thirtieth, two thousand twenty.
+  * NB Effective December 31, 2019
   2-a. Notwithstanding any inconsistent provision of subparagraph (ii)
 of paragraph (d) of subdivision one of this section, an individual who
 is receiving or is eligible to receive federal supplemental security

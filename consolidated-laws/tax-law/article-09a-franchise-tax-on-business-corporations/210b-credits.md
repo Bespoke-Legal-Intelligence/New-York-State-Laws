@@ -1710,11 +1710,12 @@ allowed a credit against the tax imposed by this article. Such credit,
 to be computed as hereinafter provided, shall be allowed for bioheating
 fuel, used for space heating or hot water production for residential
 purposes within this state purchased before January first, two thousand
-twenty. Such credit shall be $0.01 per percent of biodiesel per gallon
-of bioheating fuel, not to exceed twenty cents per gallon, purchased by
-such taxpayer. Provided, however, that on or after January first, two
-thousand seventeen, this credit shall not apply to bioheating fuel that
-is less than six percent biodiesel per gallon of bioheating fuel.
+twenty-three. Such credit shall be $0.01 per percent of biodiesel per
+gallon of bioheating fuel, not to exceed twenty cents per gallon,
+purchased by such taxpayer.  Provided, however, that on or after January
+first, two thousand seventeen, this credit shall not apply to bioheating
+fuel that is less than six percent biodiesel per gallon of bioheating
+fuel.
   (b) Definitions. For purposes of this subdivision, the following
 definitions shall apply:
   (i) "Biodiesel" shall mean a fuel comprised exclusively of mono-alkyl
@@ -1788,16 +1789,20 @@ in accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, however, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  (e) To be eligible for the credit allowable under this subdivision,
-the rehabilitation project shall be in whole or in part located within a
-census tract which is identified as being at or below one hundred
-percent of the state median family income as calculated as of April
-first of each year using the most recent five year estimate from the
-American community survey published by the United States Census bureau.
-If there is a change in the most recent five year estimate, a census
-tract that qualified for eligibility under this program before
-information about the change was released will remain eligible for a
-credit under this subdivision for an additional two calendar years.
+  (e) Except in the case of a qualified rehabilitation project
+undertaken within a state park, state historic site, or other land owned
+by the state, that is under the jurisdiction of the office of parks,
+recreation and historic preservation, to be eligible for the credit
+allowable under this subdivision, the rehabilitation project shall be in
+whole or in part located within a census tract which is identified as
+being at or below one hundred percent of the state median family income
+as calculated as of April first of each year using the most recent five
+year estimate from the American community survey published by the United
+States Census bureau. If there is a change in the most recent five year
+estimate, a census tract that qualified for eligibility under this
+program before information about the change was released will remain
+eligible for a credit under this subdivision for an additional two
+calendar years.
   27. Credits of New York S corporations. (a) General. Notwithstanding
 the provisions of this section, no carryover of credit allowable in a
 New York C year shall be deducted from the tax otherwise due under this
@@ -2487,4 +2492,51 @@ thousand eighty-six of this chapter. Provided, however, the provisions
 of subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
   * NB There are 2 sb 52's
+  * 53. Employer-provided child care credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-four of this chapter, against the tax imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of the
+credit allowed under this subdivision for any taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year will be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  (c) Credit recapture. For provisions requiring recapture of credit,
+see section forty-four of this chapter.
+  * NB There are 2 sb 53's
+  * 53. Recovery tax credit. (a) Allowance of credit. A taxpayer that is
+a certified employer pursuant to section 32.38 of the mental hygiene law
+that has received a certificate of tax credit from the commissioner of
+the office of alcoholism and substance abuse services shall be allowed a
+credit against the tax imposed by this article equal to the amount shown
+on such certificate of tax credit. A taxpayer that is a partner in a
+partnership or member of a limited liability company that has been
+certified by the commissioner of the office of alcoholism and substance
+abuse services as a qualified employer pursuant to section 32.38 of the
+mental hygiene law shall be allowed its pro rata share of the credit
+earned by the partnership or limited liability company.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year may not reduce the tax due for that year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of the
+credit allowed under this subdivision for any taxable year reduces the
+tax to that amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit not deductible in that
+taxable year will be treated as an overpayment of tax to be credited or
+refunded in accordance with the provisions of section one thousand
+eighty-six of this chapter. Provided, however, no interest will be paid
+thereon.
+  (c) Tax return requirement. The taxpayer shall be required to attach
+to its tax return, in the form prescribed by the commissioner, proof of
+receipt of its certificate of tax credit issued by the commissioner of
+the office of alcoholism and substance abuse services pursuant to
+section 32.38 of the mental hygiene law.
+  * NB There are 2 sb 53's
 ```

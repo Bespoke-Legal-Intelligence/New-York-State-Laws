@@ -36,7 +36,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -65,7 +65,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -136,7 +136,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective July 25, 2018 until August 21, 2019
+  * NB Effective July 25, 2018 until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -155,7 +155,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -173,7 +173,7 @@ sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
 or permitted by law, an additional surcharge of twenty-eight dollars.
-  * NB Effective September 12, 2020
+  * NB Effective Decembe 1, 2024
   b. Notwithstanding any other provision of law, whenever proceedings in
 a court of this state result in a conviction pursuant to section eleven
 hundred ninety-two of this chapter, there shall be levied, in addition

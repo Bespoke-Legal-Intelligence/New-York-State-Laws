@@ -47,7 +47,17 @@ provisions of section eleven hundred thirty-seven of this part. The
 return of a recipient of amusement charges shall show all such charges
 and the amount of tax thereon, and the return of an operator required to
 collect tax on rents shall show all rents received or charged and the
-amount of tax thereon.
+amount of tax thereon. The return of a marketplace seller shall exclude
+the receipts from a sale of tangible personal property facilitated by a
+marketplace provider if, in regard to such sale: (A) the marketplace
+seller has timely received in good faith a properly completed
+certificate of collection from the marketplace provider or the
+marketplace provider has included a provision approved by the
+commissioner in the publicly-available agreement between the marketplace
+provider and the marketplace seller as described in subdivision one of
+section eleven hundred thirty-two of this part, and (B) the information
+provided by the marketplace seller to the marketplace provider about
+such tangible personal property is accurate.
   (5) The returns of any seller of petroleum products shall show the
 number of gallons of petroleum products sold, together with such
 additional information as the commissioner shall require in order to

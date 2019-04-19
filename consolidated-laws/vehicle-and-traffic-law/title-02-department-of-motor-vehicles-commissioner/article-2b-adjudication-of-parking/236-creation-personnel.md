@@ -38,7 +38,7 @@ providing for or regulating the parking, stopping or standing of a
 vehicle. In addition for purposes of this article, "commissioner" shall
 mean and include the commissioner of traffic of the city or an official
 possessing authority as such a commissioner.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * 1. Creation. In any city as hereinbefore or hereafter authorized
 such tribunal when created shall be known as the parking violations
 bureau and shall have jurisdiction of traffic infractions which
@@ -64,7 +64,7 @@ regulation providing for or regulating the parking, stopping or standing
 of a vehicle. In addition for purposes of this article, "commissioner"
 shall mean and include the commissioner of traffic of the city or an
 official possessing authority as such a commissioner.
-  * NB Effective and Expires December 1, 2019
+  * NB Effective and Expires December 1, 2024
   * 1. Creation. In any city as hereinbefore or hereafter authorized
 such tribunal when created shall be known as the parking violations
 bureau and shall have jurisdiction of traffic infractions which
@@ -82,7 +82,7 @@ providing for or regulating the parking, stopping or standing of a
 vehicle. In addition for purposes of this article, "commissioner" shall
 mean and include the commissioner of traffic of the city or an official
 possessing authority as such a commissioner.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * 1. Creation. In any city as hereinbefore or hereafter authorized
 such tribunal when created shall be known as the parking violations
 bureau and, where authorized by local law adopted pursuant to
@@ -111,7 +111,7 @@ regulating the parking, stopping or standing of a vehicle. In addition
 for purposes of this article, "commissioner" shall mean and include the
 commissioner of traffic of the city or an official possessing authority
 as such a commissioner.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * 1. Creation. In any city as hereinbefore or hereafter authorized
 such tribunal when created shall be known as the parking violations
 bureau and where authorized by local law adopted pursuant to subdivision
@@ -123,7 +123,7 @@ parking, stopping or standing of a vehicle. In addition for purposes of
 this article, "commissioner" shall mean and include the commissioner of
 traffic of the city or an official possessing authority as such a
 commissioner.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * 1. Creation. In any city as hereinbefore or hereafter authorized
 such tribunal when created shall be known as the parking violations
 bureau and shall have jurisdiction of traffic infractions which
@@ -133,7 +133,7 @@ providing for or regulating the parking, stopping or standing of a
 vehicle. In addition for purposes of this article, "commissioner" shall
 mean and include the commissioner of traffic of the city or an official
 possessing authority as such a commissioner.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   2. Personnel. a. The head of such bureau shall be the director, who
 shall be appointed by the commissioner. The director may exercise or
 delegate any of the functions, powers and duties conferred upon him or

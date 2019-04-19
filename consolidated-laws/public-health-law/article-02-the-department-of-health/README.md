@@ -22,6 +22,7 @@
 - [Title 5-A — Empire State Stem Cell Board](title-5a-empire-state-stem-cell-board/)
 - [Title 6 — Women's Health](title-6-womens-health/)
 - [Title 6\* — The 21st Century Workgroup For Disease Elimination and Reduction](title-6-the-21st-century-workgroup/)
+- [Title 7 — Ny State of Health](title-7-ny-state-of-health/)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -45,6 +46,7 @@ Title    I.   Officers and employees (§§ 200--211-a).
          VI.  Women's Health (§§ 266-267).
          6.   The 21st century workgroup for disease elimination and
               reduction (§ 266).
+         VII. NY State of Health (§§ 268--268-h).
 ```
 
 </details>

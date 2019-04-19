@@ -4,8 +4,8 @@
 [Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 7 — Compliance With Orders](README.md)
 
 ```text
-  § 774. Action on petition for transfer.  On receiving a petition under
-section seven hundred seventy-three, the court may proceed under
+  * § 774. Action on petition for transfer. On receiving a petition
+under section seven hundred seventy-three, the court may proceed under
 sections seven hundred thirty-seven, seven hundred thirty-eight or seven
 hundred thirty-nine with respect to the issuance of a summons or warrant
 and sections seven hundred twenty-seven and seven hundred twenty-nine
@@ -14,4 +14,15 @@ appear. Due notice of the petition and a copy of the petition shall also
 be served personally or by mail upon the office of the locality
 chargeable for the support of the person involved and upon the person
 involved and his parents and other persons.
+  * NB Effective until January 1, 2020
+  * § 774. Action on petition for transfer. On receiving a petition
+under section seven hundred seventy-three of this part, the court may
+proceed under sections seven hundred thirty-seven, seven hundred
+thirty-eight or seven hundred thirty-nine of this article with respect
+to the issuance of a summons or warrant. Due notice of the petition and
+a copy of the petition shall also be served personally or by mail upon
+the office of the locality chargeable for the support of the person
+involved and upon the person involved and his or her parents and other
+persons.
+  * NB Effective January 1, 2020
 ```

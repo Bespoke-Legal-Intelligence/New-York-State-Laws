@@ -265,7 +265,10 @@ after April first, two thousand fifteen through March thirty-first, two
 thousand seventeen such assessment shall be six percent, and further
 provided that for all such gross receipts received on or after April
 first, two thousand seventeen through March thirty-first, two thousand
-nineteen such assessment shall be six percent.
+nineteen such assessment shall be six percent, and further provided that
+for all such gross receipts received on or after April first, two
+thousand nineteen through March thirty-first, two thousand twenty-one
+such assessment shall be six percent.
   (c) For all other facilities issued an operating certificate pursuant
 to section twenty-eight hundred five of this article, including
 diagnostic and treatment centers, the assessment shall be six-tenths of

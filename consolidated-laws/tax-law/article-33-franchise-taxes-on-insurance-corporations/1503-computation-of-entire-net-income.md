@@ -4,21 +4,25 @@
 [Tax Law](../README.md) › [Article 33 — Franchise Taxes On Insurance Corporations](README.md)
 
 ```text
-  § 1503. Computation of entire net income. (a) The entire net income of
-a taxpayer shall be its total net income from all sources which shall be
-presumably the same as the life insurance company taxable income (which
-shall include, in the case of a stock life insurance company which has
-an existing policyholders surplus account, the amount of direct and
-indirect distributions during the taxable year to shareholders from such
-account), taxable income of a partnership or taxable income, but not
-alternative minimum taxable income, as the case may be, which the
-taxpayer is required to report to the United States treasury department,
-for the taxable year or, in the case of a corporation exempt from
-federal income tax (other than the tax on unrelated business taxable
-income imposed under section 511 of the internal revenue code) but not
-exempt from tax under section fifteen hundred one, the taxable income
-which such taxpayer would have been required to report but for such
-exemption, except as hereinafter provided.
+  § 1503. Computation of entire net income.  (a) The entire net income
+of a taxpayer shall be its total net income from all sources which shall
+be presumably the same as the life insurance company taxable income
+(which shall include, in the case of a stock life insurance company that
+has a balance, as determined as of the close of such company's last
+taxable year beginning before January first, two thousand eighteen, in
+an existing policyholders surplus account, as such term is defined in
+section 815 of the internal revenue code as such section was in effect
+for taxable years beginning before January first, two thousand eighteen,
+the amount of one-eighth of such balance), taxable income of a
+partnership or taxable income, but not alternative minimum taxable
+income, as the case may be, which the taxpayer is required to report to
+the United States treasury department, for the taxable year or, in the
+case of a corporation exempt from federal income tax (other than the tax
+on unrelated business taxable income imposed under section 511 of the
+internal revenue code) but not exempt from tax under section fifteen
+hundred one, the taxable income which such taxpayer would have been
+required to report but for such exemption, except as hereinafter
+provided.
   (b) Modifications. In computing entire net income, the following
 modifications shall be made:
   (1) Entire net income shall not include:
@@ -115,6 +119,11 @@ code by reason of subsection (a) of section 965 of such code as adjusted
 by subsection (b) of such section but without regard to subsection (c)
 of such section to the extent such income is received from a corporation
 that is not included in a combined return with the taxpayer.
+  (T) Any amount excepted, for purposes of subsection (a) of section one
+hundred eighteen of the internal revenue code, from the term
+"contribution to the capital of the taxpayer" by paragraph two of
+subsection (b) of section one hundred eighteen of the internal revenue
+code.
   (2) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (A) the amount of any specific exemption or credit allowed in any law

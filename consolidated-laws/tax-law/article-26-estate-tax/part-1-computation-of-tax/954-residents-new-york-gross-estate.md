@@ -18,11 +18,22 @@ the internal revenue code not otherwise included in the decedent's
 federal gross estate, made during the three year period ending on the
 decedent's date of death, but not including any gift made: (A) when the
 decedent was not a resident of New York state; or (B) before April
-first, two thousand fourteen; or (C) that is real or tangible personal
-property having an actual situs outside New York state at the time the
-gift was made. Provided, however that this paragraph shall not apply to
-the estate of a decendent dying on or after January first, two thousand
-nineteen.
+first, two thousand fourteen; or (C) between January first, two thousand
+nineteen and January fifteenth, two thousand nineteen; or (D) that is
+real or tangible personal property having an actual situs outside New
+York state at the time the gift was made. Provided, however that this
+paragraph shall not apply to the estate of a decedent dying on or after
+January first, two thousand twenty-six.
+  (4) Increased by the value of any property not otherwise already
+included in the decedent's federal gross estate in which the decedent
+had a qualifying income interest for life if a deduction was allowed on
+the return of the tax imposed by this article with respect to the
+transfer of such property to the decedent by reason of the application
+of paragraph (7) of subsection (b) of section 2056 of the internal
+revenue code, as made applicable to the tax imposed by this article by
+section nine hundred ninety-nine-a of this article, whether or not a
+federal estate tax return was required to be filed by the estate of the
+transferring spouse.
   (b) Valuation. -- (1) The New York gross estate shall be valued as of
 the time of the decedent's death, except that if a federal estate tax
 return is filed and the alternate valuation under section 2032 of the

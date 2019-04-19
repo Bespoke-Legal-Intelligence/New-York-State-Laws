@@ -23,6 +23,7 @@
 - [Title 18 — Rechargeable Battery Recycling](title-18-rechargeable/)
 - [Title 19 — Waste Tire Management and Recycling](title-19-waste-tire/)
 - [Title 21 — Mercury-added Consumer Products](title-21-mercury-added/)
+- [Title 22 — Food Donation and Food Scraps Recycling](title-22-food-donation/)
 - [Title 23 — Vehicle Dismantling Facilities](title-23-vehicle/)
 - [Title 23\*2 — Wireless Telephone Recycling](title-23-2-wireless/)
 - [Title 24 — Environmental Tests Reporting Requirements](title-24-environmental/)
@@ -30,6 +31,7 @@
 - [Title 26 — Electronic Equipment Recycling and Reuse](title-26-electronic/)
 - [Title 27 — Plastic Bag Reduction, Reuse and Recycling](title-27-plastic-bag/)
 - [Title 27\*2 — Drug Management and Disposal](title-27-2-drug-management/)
+- [Title 28 — Bag Waste Reduction](title-28-bag-waste/)
 - [Article 27T29 — Title 29 Mercury Thermostat Collection Act](article-27t29-title-29/)
 
 <details>
@@ -55,6 +57,7 @@ Title   1.   Solid and hazardous waste management policy and planning
        18.   Rechargeable battery recycling
        19.   Waste tire management and recycling
        21.   Mercury-added consumer products
+       22.   Food donation and food scraps recycling
        23.   Vehicle dismantling facilities
        23*2. Wireless telephone recycling
        24.   Environmental tests reporting requirements
@@ -62,6 +65,7 @@ Title   1.   Solid and hazardous waste management policy and planning
        26.   Electronic equipment recycling and reuse
        27.   Plastic bag reduction, reuse and recycling
        27*2. Drug management and disposal
+       28.   Bag waste reduction
        29.   Mercury thermostat collection act
 ```
 

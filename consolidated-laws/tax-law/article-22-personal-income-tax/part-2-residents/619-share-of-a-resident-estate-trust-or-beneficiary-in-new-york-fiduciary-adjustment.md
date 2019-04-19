@@ -15,10 +15,11 @@ as determined in this section.
   (b) Definition. The New York fiduciary adjustment shall be the net
 amount of the modifications described in section six hundred twelve
 (including subsection (d) if the estate or trust is a beneficiary of
-another estate or trust), and in subsection (c) and paragraphs (2) and
-(3) of subsection (d) of section six hundred fifteen, which relate to
-items of income, gain, loss or deduction of an estate or trust. The net
-amount of such modifications shall not include:
+another estate or trust), in subsection (c) and paragraphs (2) and (3)
+of subsection (d) of section six hundred fifteen, and in subsection (e)
+of this section, which relate to items of income, gain, loss or
+deduction of an estate or trust. The net amount of such modifications
+shall not include:
   (1) Any modification described in paragraphs (1) and (2) of subsection
 (b) and paragraphs (1), (2), (4), (5), (6) and (7) of subsection (c) of
 section six hundred twelve with respect to any amount which, pursuant to
@@ -49,4 +50,28 @@ fiduciary in his discretion whenever the allocation of the fiduciary
 adjustment pursuant to subsection (c) would result in an inequity which
 is substantial both in amount and in relation to the amount of the
 fiduciary adjustment.
+  (e) Additional modifications. (1) For any taxable year beginning after
+December thirty-first, two thousand seventeen, and before January first,
+two thousand twenty-six, to the extent that the estate or trust claimed
+a deduction for taxes under section 164 of the internal revenue code
+that was limited to ten thousand dollars as provided in section
+164(b)(6)(B) or was denied as a result of section 164(b)(6)(A), there
+shall be subtracted the taxes paid or accrued in that taxable year by an
+estate or trust that the estate or trust was not able to deduct for
+federal income tax purposes because of such limitation or denial, other
+than state and local sales taxes and income taxes described in paragraph
+one of subsection (c) of section six hundred fifteen of this part. In
+determining the makeup of the ten thousand dollars of deduction claimed
+by the estate or trust under section 164 of the internal revenue code,
+it shall be presumed that the ten thousand dollars of deduction first
+comprises the state and local sales taxes or income taxes the estate or
+trust accrued or paid during the taxable year.
+  (2) For any taxable year beginning after December thirty-first, two
+thousand seventeen, and before January first, two thousand twenty-six,
+there shall be subtracted the miscellaneous itemized deductions as
+described in and limited by section 67 of the internal revenue code (but
+excluding the deductions described in subsection (e) of section 67), but
+determined without regard to subsection (g) of such section.
+  (3) For any taxable year, there shall be added the amount of any
+deduction allowed pursuant to section 199A of the internal revenue code.
 ```

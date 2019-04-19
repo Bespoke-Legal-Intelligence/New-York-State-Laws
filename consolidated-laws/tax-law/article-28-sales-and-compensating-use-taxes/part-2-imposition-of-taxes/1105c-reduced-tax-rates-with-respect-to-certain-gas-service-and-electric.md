@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 2 — Imposition of Taxes](README.md)
 
 ```text
-  § 1105-C. Reduced tax rates with respect to certain gas service and
+  * § 1105-C. Reduced tax rates with respect to certain gas service and
 electric service. Notwithstanding any other provisions of this article
 or article twenty-nine of this chapter:
   (a) The rates of taxes imposed by this article and pursuant to the
@@ -25,4 +25,5 @@ for the regulated utility which has the responsibility to serve that
 area, the charge for such transportation, transmission or distribution
 when made by the provider who also sells, other than as a sale for
 resale, the gas or electricity, shall qualify for such reduced rate.
+  * NB Repealed June 1, 2019
 ```

@@ -469,6 +469,11 @@ such treatment. In the event that ninety percent federal financial
 participation for such services is not available, the state share of
 appropriations related to these services shall be used for a grant
 program intended to accomplish the purpose of this section.
+  * (ff) evidence-based prevention and support services recognized by
+the federal Centers for Disease Control (CDC), provided by a
+community-based organization, and designed to prevent individuals at
+risk of developing diabetes from developing Type 2 diabetes.
+  * NB Effective July 1, 2019
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons
@@ -490,12 +495,23 @@ shall include the provision of evaluations and related services rendered
 pursuant to article eighty-nine of the education law and regulations of
 the commissioner of education by persons qualified to provide such
 services thereunder.
-  (d) family planning services and supplies for eligible persons of
+  * (d) family planning services and supplies for eligible persons of
 childbearing age, including children under twenty-one years of age who
 can be considered sexually active, who desire such services and
 supplies, in accordance with the requirements of federal law and
 regulations and the regulations of the department. No person shall be
 compelled or coerced to accept such services or supplies.
+  * NB Effective until January 1, 2020
+  * (d) family planning services and twelve months of supplies for
+eligible persons of childbearing age, including children under
+twenty-one years of age who can be considered sexually active, who
+desire such services and supplies, in accordance with the requirements
+of federal law and regulations and the regulations of the department.
+Coverage of prescription contraceptives shall include a twelve-month
+supply that may be dispensed at one time or up to twelve times within
+one year from the date of the prescription. No person shall be compelled
+or coerced to accept such services or supplies.
+  * NB Effective January 1, 2020
   4. Any inconsistent provision of law notwithstanding, medical
 assistance shall not include, unless required by federal law and
 regulation as a condition of qualifying for federal financial

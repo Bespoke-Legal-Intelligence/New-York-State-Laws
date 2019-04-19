@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | TAX |
 | Type | Consolidated law, chapter 60 |
-| Sections | 1,184 |
-| Last changed | 22 Feb 2019 |
+| Sections | 1,197 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Tax |
 
@@ -29,10 +29,11 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (93 lines)](chapter-text.md)
+[Full chapter text (95 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 59 amended, 13 added
 - [22 Feb 2019](../../changes/2019/2019-02-22.md): 5 amended
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 6 amended, 1 repealed
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 5 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 1 amended, 5 added
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 added
 - [3 Aug 2018](../../changes/2018/2018-08-03.md): 4 amended
-- [13 Jul 2018](../../changes/2018/2018-07-13.md): 1 amended
 
 ## Contents
 
@@ -61,6 +61,7 @@ Assembly, do enact as follows:
 - [Article 20 — Tax On Cigarettes and Tobacco Products](article-20-tax-on-cigarettes-and-tobacco-products/)
 - [Article 20-A — Cigarette Marketing Standards](article-20a-cigarette-marketing-standards/)
 - [Article 20-B — Excise Tax On Medical Marihuana](article-20b-excise-tax-on-medical-marihuana/)
+- [Article 20-D — Excise Tax On Sale of Opioids](article-20d-excise-tax-on-sale-of-opioids/)
 - [Article 21 — Highway Use Tax](article-21-highway-use-tax/)
 - [Article 21-A — Tax On Fuel Use](article-21a-tax-on-fuel-use/)
 - [Article 22 — Personal Income Tax](article-22-personal-income-tax/)
@@ -72,6 +73,7 @@ Assembly, do enact as follows:
 - [Article 28 — Sales and Compensating Use Taxes](article-28-sales-and-compensating-use-taxes/)
 - [Article 28-A — Special Tax On Passenger Car Rentals](article-28a-special-tax-on-passenger-car-rentals/)
 - [Article 28-B — Simplified Sales and Use Tax Administration](article-28b-simplified-sales-and-use-tax-administration/)
+- [Article 28-C — Supplemental Tax On Vapor Products](article-28c-supplemental-tax-on-vapor-products/)
 - [Article 29 — Taxes Authorized For Cities, Counties and School Districts](article-29-taxes-authorized-for-cities-counties-and-school/)
 - [Article 29-A — Tax On Medallion Taxicab Trips In the Metropolitan Commuter Transportation District](article-29a-tax-on-medallion-taxicab-trips/)
 - [Article 29-B — State Assessment Fee On Transportation Network Company Prearranged Trips](article-29b-state-assessment-fee-on-transportation-network/)

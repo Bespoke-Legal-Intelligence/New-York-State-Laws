@@ -101,6 +101,29 @@ report quarterly to such chairpersons on the transactions in the pool,
 including but not limited to receipts or deposits to the pool,
 disbursements or loans made from the pool, investment income, and the
 balance on hand as of the end of the month for each such quarter.
+  5-a. Notwithstanding anything in this section to the contrary, the
+authority is authorized and directed to transfer from the restructuring
+pool to the department, upon written request of the director of the
+budget and within thirty days thereof, funds repaid by participating
+borrowers, and held by the authority relating to restructuring pool
+loans funded by amounts transferred to the restructuring pool by the
+department or remaining funds in the restructuring pool that were
+transferred by the department, not to exceed a total of eighty-three
+million five hundred thousand dollars, excepting therefrom amounts
+necessary to pay expenses of the authority as provided in the agreement
+described in subdivision three of this section. All participating
+borrowers shall be obligated in their loan agreement to repay no later
+than March thirty-first, two thousand twenty all funds borrowed from the
+eighty-three million five hundred thousand dollars transferred by the
+department pursuant to this section, to fund these restructuring pool
+loans. Further, in respect of these borrowed funds, all participating
+borrowers shall be required under the terms of their loan agreement to
+immediately upon receipt of quality improvement incentive payments or
+additional supplemental assistance initiate repayment of an amount equal
+to the quality improvement incentive payments or additional supplemental
+assistance not to exceed the amount of such borrowed funds, unless a
+waiver or extension of repayment has been approved by the director of
+the budget.
   6. The commissioner is authorized, with the assistance and cooperation
 of the authority, to provide a program of technical assistance to
 participating borrowers.

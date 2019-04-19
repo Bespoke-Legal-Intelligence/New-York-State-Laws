@@ -16,7 +16,7 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
                    CHAPTER 60 OF THE CONSOLIDATED LAWS
                                  TAX LAW
-Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
+Article 1.      Short title; definitions; miscellaneous (§§ 1-44).
         8.      Department of taxation and finance; commissioner of
                   taxation and finance (§§ 170-179).
         9.      Corporation tax (§§ 182--207-b).
@@ -36,6 +36,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
                    (§§ 470--482-a).
        20-A.     Cigarette marketing standards (§§ 483-489).
        20-B.     Excise tax on medical marihuana (§§ 490-491).
+       20-C.     Excise tax on sale of opioids (§§ 497-499).
        21.       Highway use tax (§§ 501-515).
        21-A.     Tax on fuel use (§§ 521-528).
        22.       Personal income tax (§§ 601-699).
@@ -51,6 +52,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-43).
        28-A.     Special tax on passenger car rentals (§§ 1160-1167).
        28-B.     Simplified sales and use tax administration
                    (§§ 1170-1178).
+       28-C.     Supplemental tax on vapor products (§§ 1180-1186).
        29.       Taxes authorized for cities, counties and school
                    districts (§§ 1201-1264).
        29-A.     Tax on medallion taxicab trips in the metropolitan

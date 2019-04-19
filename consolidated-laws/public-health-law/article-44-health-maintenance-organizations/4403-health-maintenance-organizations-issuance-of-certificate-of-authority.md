@@ -87,8 +87,8 @@ jeopardize the quality of or enrollees' appropriate access to medically
 necessary services; provided, however, that payment at less than
 prevailing fee for service rates or capitation shall not be deemed or
 presumed prima facie to jeopardize quality or access.
-  (b) The following criteria shall be considered by the commissioner at
-the time of a review: (i) the availability of appropriate and timely
+  * (b) The following criteria shall be considered by the commissioner
+at the time of a review: (i) the availability of appropriate and timely
 care that is provided in compliance with the standards of the Federal
 Americans with Disability Act to assure access to health care for the
 enrollee population; (ii) the network's ability to provide culturally
@@ -97,6 +97,26 @@ population; and (iii) with the exception of initial licensure, the
 number of grievances filed by enrollees relating to waiting times for
 appointments, appropriateness of referrals and other indicators of plan
 capacity.
+  * NB Effective until January 1, 2020
+  * (b) The following criteria shall be considered by the commissioner
+at the time of a review: (i) the availability of appropriate and timely
+care that is provided in compliance with the standards of the Federal
+Americans with Disability Act to assure access to health care for the
+enrollee population; (ii) the network's ability to provide culturally
+and linguistically competent care to meet the needs of the enrollee
+population; (iii) the availability of appropriate and timely care that
+is in compliance with the standards of the Paul Wellstone and Pete
+Domenici Mental Health Parity and Addiction Equity Act of 2008, 42
+U.S.C. 18031(j), and any amendments to, and federal guidance and
+regulations issued under those Acts, which shall include an analysis of
+the rate of out-of-network utilization for covered mental health and
+substance use disorder services as compared to the rate of
+out-of-network utilization for the respective category of medical
+services; and (iv) with the exception of initial licensure, the number
+of grievances filed by enrollees relating to waiting times for
+appointments, appropriateness of referrals and other indicators of plan
+capacity.
+  * NB Effective January 1, 2020
   (c) Each organization shall report on an annual basis the number of
 enrollees and the number of participating providers in each
 organization.

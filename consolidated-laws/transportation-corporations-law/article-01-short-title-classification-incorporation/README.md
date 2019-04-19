@@ -11,6 +11,7 @@
 - [§ 4 Applicability of business corporation law to transportation corporations](4-applicability-of-business-corporation-law-to-transportation-corporations.md)
 - [§ 5 Application](5-application.md)
 - [§ 6 Merger of subsidiary corporations](6-merger-of-subsidiary-corporations.md)
+- [§ 7 Agreement for fiber optic utility use and occupancy of state right of way](7-agreement-for-fiber-optic-utility-use-and-occupancy-of-state-right.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,6 +26,8 @@ Section 1. Short title.
              corporations.
         5. Application.
         6. Merger of subsidiary corporations.
+        7. Agreement for fiber optic utility use and occupancy of state
+             right of way.
 ```
 
 </details>

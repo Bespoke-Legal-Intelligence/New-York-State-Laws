@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CPL |
 | Type | Consolidated law, chapter 11-A |
-| Sections | 576 |
-| Last changed | 15 Feb 2019 |
+| Sections | 593 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Criminal Procedure |
 
@@ -29,10 +29,11 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (149 lines)](chapter-text.md)
+[Full chapter text (150 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 60 amended, 17 added
 - [15 Feb 2019](../../changes/2019/2019-02-15.md): 1 amended
 - [1 Feb 2019](../../changes/2019/2019-02-01.md): 1 amended
 - [25 Jan 2019](../../changes/2019/2019-01-25.md): 1 amended
@@ -42,7 +43,6 @@ Became a law May 20, 1970, with the approval of the Governor.  Passed by
 - [12 Oct 2018](../../changes/2018/2018-10-12.md): 3 amended
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 38 amended, 1 repealed
 - [17 Aug 2018](../../changes/2018/2018-08-17.md): 5 amended
-- [15 Jun 2018](../../changes/2018/2018-06-15.md): 4 amended
 
 ## Contents
 

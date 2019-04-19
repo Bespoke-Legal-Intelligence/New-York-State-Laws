@@ -1241,6 +1241,27 @@ periods as the authorizing commissioner may determine. Any regulatory
 relief granted pursuant to this subdivision shall be described,
 including each regulation waived and the project it relates to, in the
 report provided pursuant to paragraph (d) of this subdivision.
+  * 20-a. Notwithstanding any provision of law to the contrary, the
+commissioners of the department of health, the office of mental health,
+the office of people with developmental disabilities, and the office of
+alcoholism and substance abuse services are authorized to waive any
+regulatory requirements as are necessary, consistent with applicable
+law, to allow providers that are involved in DSRIP projects or
+replication and scaling activities, as approved by the authorizing
+commissioner, to avoid duplication of requirements and to allow the
+efficient scaling and replication of DSRIP promising practices, as
+determined by the authorizing commissioner; provided however, that
+regulations pertaining to patient safety, patient autonomy, patient
+privacy, patient rights, due process, scope of practice, professional
+licensure, environmental protections, provider reimbursement
+methodologies, or occupational standards and employee rights may not be
+waived, nor shall any regulations be waived if such waiver would risk
+patient safety. Any regulatory action under this subdivision shall be
+published on the applicable website of the authorizing commissioner and
+shall include a description of each waiver, including a citation of each
+regulation waived, and a description of the project of which such relief
+was granted.
+  * NB Expires April 1, 2020
   21. (a) Notwithstanding any contrary provision of law and subject to
 the receipt of all necessary federal approvals and the availability of
 federal financial participation, the commissioner is authorized to enter

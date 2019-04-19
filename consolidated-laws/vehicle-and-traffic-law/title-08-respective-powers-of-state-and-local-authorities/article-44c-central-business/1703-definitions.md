@@ -1,0 +1,58 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1703", "kind": "section", "law_id": "VAT", "location_id": "1703", "path": "TITLE 8 › ARTICLE 44-C › SECTION 1703", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1703.md", "title": "Definitions"} -->
+# Vehicle and Traffic Law § 1703 — Definitions
+
+[Vehicle and Traffic Law](../../README.md) › [Title 8 — Respective Powers of State and Local Authorities](../README.md) › [Article 44-C — Central Business District Tolling Program](README.md)
+
+```text
+  § 1703. Definitions. For the purposes of this article, unless the
+context otherwise requires:
+  1. "City" means the city of New York.
+  2. "Central business district toll" means a toll charged for entry
+into or remaining in the central business district as described in
+section seventeen hundred four of this article.
+  3. "Central business district tolling program" means the program for
+charging tolls for vehicles that enter or remain in the central business
+district and includes the central business district tolling
+infrastructure, the central business district tolling collection system
+and the central business district tolling customer service center.
+  4. "Central business district" means the area described in section
+seventeen hundred four of this article for which tolls shall be charged
+for a vehicle's entry into or remaining in such district.
+  5. "Central business district tolling infrastructure" means the
+devices and structures including but not limited to gantries, clear
+signage delineating entry into the central business district and toll
+amounts, and power and communication lines that the Triborough bridge
+and tunnel authority will plan, design, construct, and use as part of
+the central business district tolling program. Such infrastructure shall
+be planned, designed, installed and constructed pursuant to the
+memorandum of understanding executed pursuant to subdivision two-a of
+section seventeen hundred four of this article.
+  6. "Central business district tolling collection system" means the
+electronic system of collecting tolls or other charges using electronic
+data and/or images that the Triborough bridge and tunnel authority will
+plan, design, install and construct pursuant to the memorandum of
+understanding executed pursuant to subdivision two-a of section
+seventeen hundred four of this article, and that such authority shall
+operate as part of the central business district tolling program.
+  7. "Central business district tolling customer service center" means
+the customer contact and back-office system and operation services for
+the collection of central business district tolls and enforcement of
+central business district toll violations that the Triborough bridge and
+tunnel authority will plan, design, implement and operate as part of the
+central business district tolling program.
+  8. "Operation date" means the date determined by the Triborough bridge
+and tunnel authority, which shall not be earlier than December
+thirty-first, two thousand twenty, for the beginning of the operation
+and enforcement of the central business district tolling program. The
+operation and enforcement date shall commence only after an initial
+program testing period of thirty days where no collection of any tolls,
+fees, or other charges shall be authorized. As of the commencement date
+of operation and enforcement, there shall be a period of sixty days
+where only the established tolls may be collected without the collection
+of other fees or charges or fines.
+  9. "Triborough bridge and tunnel authority" means the corporation
+organized pursuant to section five hundred fifty-two of the public
+authorities law as consolidated pursuant to section five hundred
+fifty-two-a of the public authorities law or any successor corporation
+or corporation into which it may be consolidated.
+```

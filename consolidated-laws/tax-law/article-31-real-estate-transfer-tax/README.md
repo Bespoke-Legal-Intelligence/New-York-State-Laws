@@ -9,6 +9,7 @@
 - [§ 1401 Definitions](1401-definitions.md)
 - [§ 1402 Imposition of tax](1402-imposition-of-tax.md)
 - [§ 1402-A Additional tax](1402a-additional-tax.md)
+- [§ 1402-B Supplemental tax in cities having a population of one million or more](1402b-supplemental-tax-in-cities-having-a-population-of-one-million-or-more.md)
 - [§ 1404 Liability for tax](1404-liability-for-tax.md)
 - [§ 1405 Exemptions](1405-exemptions.md)
 - [§ 1405-A Credit](1405a-credit.md)
@@ -41,6 +42,8 @@ Section 1400.   Short title.
         1401.   Definitions.
         1402.   Imposition of tax.
         1402-a. Additional tax.
+        1402-b. Supplemental tax in cities having a population of one
+                  million or more.
         1404.   Liability for tax.
         1405.   Exemptions.
         1405-A. Credit.

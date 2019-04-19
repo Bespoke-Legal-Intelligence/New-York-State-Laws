@@ -12,7 +12,7 @@
 - [§ 3-B Limitation on real estate tax in New York city](03b-limitation-on-real-estate-tax-in-new-york-city.md)
 - [§ 3-C Limit upon real property tax levies by local governments](03c-limit-upon-real-property-tax-levies-by-local-governments.md)
 - [§ 3-D Certification of compliance with property tax freeze requirements](03d-certification-of-compliance-with-property-tax-freeze-requirements.md)
-- [§ 3-D\*2 Certification of compliance with tax levy limit](03d-2-certification-of-compliance-with-tax-levy-limit.md)
+- [§ 3-D\*2 Certification of compliance with tax levy limit](03d-2-certification-of-compliance-with-tax-levy-limit.md) *(repealed)*
 - [§ 4 Investigation of expenditures of towns and villages](04-investigation-of-expenditures-of-towns-and-villages.md)
 - [§ 5 Payment of fines, civil penalties, rent, rates, taxes, fees, charges and other amounts by credit card](05-payment-of-fines-civil-penalties-rent-rates-taxes-fees-charges-and-other-amounts.md)
 - [§ 5-A Electronic or wire transfers](05a-electronic-or-wire-transfers.md)
@@ -36,6 +36,7 @@
 - [§ 6-S Community preservation funds](06s-community-preservation-funds.md)
 - [§ 6-T Charitable gifts reserve fund](06t-charitable-gifts-reserve-fund.md)
 - [§ 6-U Charitable gifts reserve fund](06u-charitable-gifts-reserve-fund.md)
+- [§ 6-V Asset forfeiture escrow fund](06v-asset-forfeiture-escrow-fund.md)
 - [§ 7 Payment of municipal bonds](07-payment-of-municipal-bonds.md)
 - [§ 8 Application of revenues of a public improvement or part thereof, or service](08-application-of-revenues-of-a-public-improvement-or-part-thereof-or-service.md)
 - [§ 9 Use of tax moneys raised outside constitutional tax limit](09-use-of-tax-moneys-raised-outside-constitutional-tax-limit.md)
@@ -64,7 +65,6 @@ Section 3.     Compensation for property of a municipal corporation,
         3-c.   Limit upon real property tax levies by local governments.
         3-d.   Certification of compliance with property tax freeze
                  requirements.
-        3-d*2. Certification of compliance with tax levy limit.
         4.     Investigation of expenditures of towns and villages.
         5.     Payment of fines, civil penalties, rent, rates, taxes,
                  fees, charges and other amounts by credit card.
@@ -98,6 +98,7 @@ Section 3.     Compensation for property of a municipal corporation,
         6-s.   Community preservation funds.
         6-t.   Charitable gifts reserve fund.
         6-u.   Charitable gifts reserve fund.
+        6-v.   Asset forfeiture escrow fund.
         7.     Payment of municipal bonds.
         8.     Application of revenues of a public improvement or part
                  thereof, or service.

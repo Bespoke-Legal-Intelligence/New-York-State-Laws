@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 897 |
-| Last changed | 12 Apr 2019 |
+| Sections | 900 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 45 amended, 3 added
 - [12 Apr 2019](../../changes/2019/2019-04-12.md): 1 amended
 - [5 Apr 2019](../../changes/2019/2019-04-05.md): 1 amended
 - [22 Mar 2019](../../changes/2019/2019-03-22.md): 2 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [8 Feb 2019](../../changes/2019/2019-02-08.md): 2 amended
 - [1 Feb 2019](../../changes/2019/2019-02-01.md): 6 amended
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 2 amended
-- [11 Jan 2019](../../changes/2019/2019-01-11.md): 6 amended, 24 added
 
 ## Contents
 
@@ -83,7 +83,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 15-C — Religious Accommodation For Licensing Examinations](article-15c-religious-accommodation-for-licensing/)
 - [Article 16 — Martin Luther King, Jr Commission](article-16-martin-luther-king-jr-commission/)
 - [Article 16-A — Highway Safety](article-16a-highway-safety/)
-- [Article 17 — Veterans' Affairs](article-17-veterans-affairs/)
+- [Article 17 — Veterans' Services](article-17-veterans-services/)
 - [Article 17-A — Veterans Employment Act](article-17a-veterans-employment-act/)
 - [Article 17-B — Participation By Service-disabled Veterans With Respect to State Contracts](article-17b-participation-by-service-disabled-veterans/)
 - [Article 18 — New York State Uniform Fire Prevention and Building Code Act](article-18-new-york-state-uniform-fire-prevention/)

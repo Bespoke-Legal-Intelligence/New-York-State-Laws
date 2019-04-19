@@ -25,7 +25,7 @@ eighty-b of this chapter, as applicable prior to rendering a final
 determination. Final determinations sustaining or dismissing charges
 shall be entered on a final determination roll maintained by the bureau
 together with records showing payment and nonpayment of penalties.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * 1. The hearing examiner shall make a determination on the charges,
 either sustaining or dismissing them. Where the hearing examiner
 determines that the charges have been sustained he or she may examine
@@ -42,7 +42,7 @@ applicable prior to rendering a final determination. Final
 determinations sustaining or dismissing charges shall be entered on a
 final determination roll maintained by the bureau together with records
 showing payment and nonpayment of penalties.
-  * NB Effective and Expires December 1, 2019
+  * NB Effective and Expires December 1, 2024
   * 1. The hearing examiner shall make a determination on the charges,
 either sustaining or dismissing them. Where the hearing examiner
 determines that the charges have been sustained he or she may examine
@@ -57,7 +57,7 @@ of this chapter, as applicable, prior to rendering a final
 determination. Final determinations sustaining or dismissing charges
 shall be entered on a final determination roll maintained by the bureau
 together with records showing payment and nonpayment of penalties.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * 1. The hearing examiner shall make a determination on the charges,
 either sustaining or dismissing them. Where the hearing examiner
 determines that the charges have been sustained he or she may examine
@@ -83,7 +83,7 @@ person charged, as applicable, prior to rendering a final determination.
 Final determinations sustaining or dismissing charges shall be entered
 on a final determination roll maintained by the bureau together with
 records showing payment and nonpayment of penalties.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * 1. The hearing examiner shall make a determination on the charges,
 either sustaining or dismissing them. Where the hearing examiner
 determines that the charges have been sustained he or she may examine
@@ -93,7 +93,7 @@ chapter of the person charged, as applicable, prior to rendering a final
 determination. Final determinations sustaining or dismissing charges
 shall be entered on a final determination roll maintained by the bureau
 together with records showing payment and nonpayment of penalties.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * 1. The hearing examiner shall make a determination on the charges,
 either sustaining or dismissing them. Where the hearing examiner
 determines that the charges have been sustained he may examine the prior
@@ -102,7 +102,7 @@ final determination. Final determinations sustaining or dismissing
 charges shall be entered on a final determination roll maintained by the
 bureau together with records showing payment and nonpayment of
 penalties.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or contest an allegation of liability in accordance
 with section eleven hundred eleven-a of this chapter or in accordance
@@ -172,7 +172,7 @@ or penalty shall be imposed for any reason, prior to the holding of the
 hearing. If the hearing examiner shall make a determination on the
 charges, sustaining them, he or she shall impose no greater penalty or
 fine than those upon which the person was originally charged.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or contest an allegation of liability in accordance
 with sections eleven hundred eleven-b of this chapter as added by
@@ -229,7 +229,7 @@ any reason, prior to the holding of the hearing. If the hearing examiner
 shall make a determination on the charges, sustaining them, he or she
 shall impose no greater penalty or fine than those upon which the person
 was originally charged.
-  * NB Effective and Expires December 1, 2019
+  * NB Effective and Expires December 1, 2024
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or contest an allegation of liability in accordance
 with section eleven hundred eleven-e of this chapter, or contest an
@@ -278,7 +278,7 @@ imposed for any reason, prior to the holding of the hearing. If the
 hearing examiner shall make a determination on the charges, sustaining
 them, he or she shall impose no greater penalty or fine than those upon
 which the person was originally charged.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or contest an allegation of liability in accordance
 with section eleven hundred eleven-e of this chapter or contest an
@@ -363,7 +363,7 @@ fine or penalty shall be imposed for any reason, prior to the holding of
 the hearing. If the hearing examiner shall make a determination on the
 charges, sustaining them, he shall impose no greater penalty or fine
 than those upon which the person was originally charged.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or contest an allegation of liability in accordance
 with section eleven hundred eleven-e of this chapter or fails to appear
@@ -399,7 +399,7 @@ imposed for any reason, prior to the holding of the hearing. If the
 hearing examiner shall make a determination on the charges, sustaining
 them, he shall impose no greater penalty or fine than those upon which
 the person was originally charged.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * 2. Where an operator or owner fails to enter a plea to a charge of a
 parking violation or fails to appear on a designated hearing date or
 subsequent adjourned date or fails after a hearing to comply with the
@@ -431,7 +431,7 @@ reason, prior to the holding of the hearing. If the hearing examiner
 shall make a determination on the charges, sustaining them, he shall
 impose no greater penalty or fine than those upon which the person was
 originally charged.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   3. A judgment entered pursuant to the provisions of this section shall
 remain in full force and effect for eight years notwithstanding any
 other provision of law.

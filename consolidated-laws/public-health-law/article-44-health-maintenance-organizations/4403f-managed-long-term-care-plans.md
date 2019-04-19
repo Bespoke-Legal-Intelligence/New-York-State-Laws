@@ -347,7 +347,7 @@ initial report shall be provided by September first, two thousand
 twelve. The reports shall be made available by each February first, and
 September first thereafter. Such reports shall be formatted to allow
 comparisons between plans.
-  * NB Effective until April 1, 2019
+  * NB Effective until April 1, 2023
   * (b) The commissioner shall, to the extent necessary, submit the
 appropriate waivers, including, but not limited to, those authorized
 pursuant to sections eleven hundred fifteen and nineteen hundred fifteen
@@ -359,7 +359,7 @@ of the federal social security act. Copies of such original waiver
 applications shall be provided to the chairman of the senate finance
 committee and the chairman of the assembly ways and means committee
 simultaneously with their submission to the federal government.
-  * NB Effective April 1, 2019
+  * NB Effective April 1, 2023
   (c)(i) A managed long term care plan shall not use deceptive or
 coercive marketing methods to encourage participants to enroll. A
 managed long term care plan shall not distribute marketing materials to
@@ -408,7 +408,7 @@ applicant who is currently receiving home and community-based services
 and complete the comprehensive assessment within thirty days of
 enrollment provided that the plan continues to cover transitional care
 until such time as the assessment is completed.
-  * NB Effective until April 1, 2019
+  * NB Effective until April 1, 2023
   * (i) Managed long term care plans and demonstrations may enroll
 eligible persons in the plan or demonstration upon the completion of a
 comprehensive assessment that shall include, but not be limited to, an
@@ -416,7 +416,7 @@ evaluation of the medical, social and environmental needs of each
 prospective enrollee in such program. This assessment shall also serve
 as the basis for the development and provision of an appropriate plan of
 care for the prospective enrollee.
-  * NB Effective April 1, 2019
+  * NB Effective April 1, 2023
   (ii) The assessment shall be completed by a representative of the
 managed long term care plan or demonstration, in consultation with the
 prospective enrollee's health care practitioner as necessary. The

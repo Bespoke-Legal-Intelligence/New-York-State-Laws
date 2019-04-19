@@ -5,11 +5,21 @@
 
 ```text
   § 390. Child day care; license or registration required. 1.
-Definitions.  (a) (i) "Child day care" shall mean care for a child on a
-regular basis provided away from the child's residence for less than
+Definitions.  (a) * (i) "Child day care" shall mean care for a child on
+a regular basis provided away from the child's residence for less than
 twenty-four hours per day by someone other than the parent, step-parent,
 guardian, or relative within the third degree of consanguinity of the
 parents or step-parents of such child.
+  * NB Effective until September 1, 2019
+  * (i) "Child day care" shall mean child care where a license or
+registration pursuant to this section is required and shall include care
+for a child on a regular basis provided away from the child's residence
+for less than twenty-four hours per day by someone other than: (1) the
+parent, step-parent, guardian, or relative within the third degree of
+consanguinity of the parents or step-parents of such child; or (2) an
+enrolled legally-exempt provider as such term is defined in paragraph
+(g) of this subdivision.
+  * NB Effective September 1, 2019
   (ii) Child day care shall not refer to care provided in:
   (A) a day camp, as defined in the state sanitary code;
   (B) an after-school program operated for the purpose of religious
@@ -85,7 +95,14 @@ children at a permanent site before or after the period children
 enrolled in such program are ordinarily in school or during school lunch
 periods and may also provide such care on school holidays and those
 periods of the year in which school is not in session.
-  2.  (a) Child day care centers caring for seven or more children and
+  * (g) "Enrolled legally exempt provider" shall mean a person who is a
+caregiver or entity that is not required to be licensed or registered
+pursuant to this section and that is enrolled to be a caregiver and
+provide subsidized child care services to eligible families in
+accordance with title five-C of this article and the regulations of the
+office of children and family services.
+  * NB Effective September 1, 2019
+  2. * (a) Child day care centers caring for seven or more children and
 group family day care programs, as defined in subdivision one of this
 section, shall obtain a license from the office of children and family
 services and shall operate in accordance with the terms of such license
@@ -93,6 +110,16 @@ and the regulations of such office. Initial licenses shall be valid for
 a period of up to two years; subsequent licenses shall be valid for a
 period of up to four years so long as the provider remains substantially
 in compliance with applicable law and regulations during such period.
+  * NB Effective until September 30, 2019
+  * (a) Child day care centers caring for seven or more children and
+group family day care programs, as defined in subdivision one of this
+section, shall obtain a license from the office of children and family
+services and shall operate in accordance with the terms of such license
+and the regulations of such office. Initial licenses and subsequent
+licenses shall be valid for a period of up to four years so long as the
+provider remains substantially in compliance with applicable law and
+regulations during such period.
+  * NB Effective September 30, 2019
   (b) Family day care homes, child day care centers caring for at least
 three but fewer than seven children, and school-age child care programs
 shall register with the department and shall operate in compliance with
@@ -108,10 +135,16 @@ registration or renewing a license shall include a satisfactory
 inspection of the facility by the office of children and family services
 prior to issuance of the license or registration or renewal of the
 license.
-  (ii) (A) Initial registrations shall be valid for a period of up to
+  (ii) * (A) Initial registrations shall be valid for a period of up to
 two years, subsequent registrations shall be valid for a period of up to
 four years so long as the provider remains substantially in compliance
 with applicable law and regulations during such period.
+  * NB Effective until September 30, 2019
+  * (A) Initial registrations and subsequent registrations shall be
+valid for a period of up to four years so long as the provider remains
+substantially in compliance with applicable law and regulations during
+such period.
+  * NB Effective September 30, 2019
   (B) After initial registration by the child day care provider, the
 office of children and family services shall not accept any subsequent
 registration by such provider, unless:
@@ -146,6 +179,24 @@ suspension is necessary.
 openly display such license in the facility or home for which the
 license is issued. Child day care providers who have registered with the
 department shall provide proof of registration upon request.
+  * (d-1) (i) The office of children and family services shall
+promulgate regulations for inspections of enrolled legally exempt
+providers, which shall include the completion of a satisfactory
+inspection of the premises where care is to be provided, by the office
+of children and family services.
+  (ii) Provided however, unless a complaint is made in or as otherwise
+authorized such inspections shall not be required when the enrolled
+legally exempt provider is an individual, age eighteen or older, and
+who, by virtue of blood, marriage or court decree, is, to all of the
+children that such person is enrolled to provide subsidized child care
+services to in accordance with title five-C of this article:
+  (A) a grandparent;
+  (B) a great-grandparent;
+  (C) a sibling, provided that such sibling resides in a separate
+household from the child;
+  (D) an aunt; or
+  (E) an uncle.
+  * NB Effective September 1, 2019
   (e) Notwithstanding any other provision of this section, where a child
 is cared for by a parent, guardian or relative within the third degree
 of consanguinity of the parent of such child and such person
@@ -188,7 +239,7 @@ office of children and family services. Extenuating circumstances for
 the purposes of this section shall include but not be limited to the
 medical or health needs of the parent or child, or the economic hardship
 of the parent.
-  3. (a) The office of children and family services may make announced
+  3. * (a) The office of children and family services may make announced
 or unannounced inspections of the records and premises of any child day
 care provider, whether or not such provider has a license from, or is
 registered with, the office of children and family services. The office
@@ -202,12 +253,41 @@ be imminent danger to the children, the office of children and family
 services shall investigate the complaint no later than the next day of
 operation of the provider. The office of children and family services
 may provide for inspections through the purchase of services.
-  (b) Where inspections have been made and violations of applicable
+  * NB Effective until September 30, 2019
+  * (a) The office of children and family services may make announced or
+unannounced inspections of the records and premises of any child care
+provider, whether or not such provider has a license from, or is
+registered with, the office of children and family services. The office
+of children and family services shall make unannounced inspections of
+the records and premises of any child day care provider within fifteen
+days after the office of children and family services receives a
+complaint that, if true, would indicate such provider does not comply
+with the applicable regulations of the office of children and family
+services or with statutory requirements. If the complaint indicates that
+there may be imminent danger to the children, the office of children and
+family services shall investigate the complaint no later than the next
+day of operation of the provider. The office of children and family
+services may provide for inspections through the purchase of services.
+  * NB Effective September 30, 2019
+  * (b) Where inspections have been made and violations of applicable
 statutes or regulations have been found, the office of children and
 family services shall within ten days advise the child day care provider
 in writing of the violations and require the provider to correct such
 violations. The office of children and family services may also act
 pursuant to subdivisions ten and eleven of this section.
+  * NB Effective until September 30, 2019
+  * (b) (i) Where inspections have been made and violations of
+applicable statutes or regulations have been found, the office of
+children and family services shall within ten days advise the child day
+care provider in writing of the violations and require the provider to
+correct such violations. The office of children and family services may
+also act pursuant to subdivisions ten and eleven of this section.
+  (ii) Where inspections have been made and violations of applicable
+statutes or regulations have been found, the office of children and
+family services or its designee shall, within ten days, advise the
+enrolled legally-exempt provider in writing of the violations and
+require the provider to correct such violations.
+  * NB Effective September 30, 2019
   (c) (i) The office of children and family services shall establish a
 toll-free statewide telephone number to receive inquiries about child
 day care homes, programs and facilities and complaints of violations of
@@ -310,7 +390,7 @@ provided, however, that the total participation of an individual
 district in all activities related to the provision of subsidized child
 day care shall be no less than the participation level engaged in by
 such individual district on the effective date of this section.
-  4. (a) The office of children and family services on an annual basis
+  4. * (a) The office of children and family services on an annual basis
 shall inspect at least twenty percent of all registered family day care
 homes, registered child day care centers and registered school age child
 care programs to determine whether such homes, centers and programs are
@@ -324,6 +404,14 @@ thousand one. The office of children and family services may provide for
 such inspections through purchase of services. Priority shall be given
 to family day care homes which have never been licensed or certified
 prior to initial registration.
+  * NB Effective until September 30, 2019
+  * (a) The office of children and family services on an annual basis
+shall inspect all child day care programs and all enrolled
+legally-exempt providers except when such provider is determined to be
+exempt in accordance with subparagraph (ii) of paragraph (d-one) of
+subdivision two of this section. The office of children and family
+services may provide for such inspections through purchase of services.
+  * NB Effective September 30, 2019
   (b) Any family day care home or school-age child care program
 licensed, registered, or certified by the department or by any
 authorized agency on the effective date of this section shall be deemed

@@ -60,6 +60,7 @@
 - [§ 1276-C Independent audit of authority](1276c-independent-audit-of-authority.md)
 - [§ 1276-D Independent audit by the legislature](1276d-independent-audit-by-the-legislature.md)
 - [§ 1276-E Reporting](1276e-reporting.md)
+- [§ 1276-F Metropolitan transportation authority transit performance metrics](1276f-metropolitan-transportation-authority-transit.md)
 - [§ 1277 Station operation and maintenance](1277-station-operation-and-maintenance.md)
 - [§ 1277-A Transfer and receipt of surplus funds](1277a-transfer-and-receipt-of-surplus-funds.md)
 - [§ 1278 Title not affected if in part unconstitutional or ineffective](1278-title-not-affected-if-in-part-unconstitutional.md)
@@ -68,6 +69,11 @@
 - [§ 1279-B Transition--election to withdraw from the metropolitan commuter transportation district](1279b-transition-election-to-withdraw.md)
 - [§ 1279-C The office of legislative and community input](1279c-the-office-of-legislative-and-community-input.md)
 - [§ 1279-D Supplemental revenue reporting program](1279d-supplemental-revenue-reporting-program.md)
+- [§ 1279-E Assignment, transfer, sharing or consolidating powers, functions or activities](1279e-assignment-transfer-sharing-or-consolidating.md)
+- [§ 1279-F Independent forensic audit](1279f-independent-forensic-audit.md)
+- [§ 1279-G Major construction review unit](1279g-major-construction-review-unit.md)
+- [§ 1279-H Debarment](1279h-debarment.md)
+- [§ 1279-L Right to share employees](1279l-right-to-share-employees.md)
 
 <details>
 <summary>Official heading of Title 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -144,6 +150,8 @@ Section 1260.   Short title.
         1276-c. Independent audit of authority.
         1276-d. Independent audit by the legislature.
         1276-e. Reporting.
+        1276-f. Metropolitan transportation authority transit
+                  performance metrics.
         1277.   Station operation and maintenance.
         1277-a. Transfer and receipt of surplus funds.
         1278.   Title not affected if in part unconstitutional or
@@ -154,6 +162,12 @@ Section 1260.   Short title.
                   commuter transportation district.
         1279-c. The office of legislative and community input.
         1279-d. Supplemental revenue reporting program.
+        1279-e. Assignment, transfer, sharing or consolidating powers,
+                  functions or activities.
+        1279-f. Independent forensic audit.
+        1279-g. Major construction review unit.
+        1279-h. Debarment.
+        1279-l. Right to share employees.
 ```
 
 </details>

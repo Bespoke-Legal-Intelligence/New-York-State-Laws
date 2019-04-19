@@ -71,9 +71,9 @@ taxpayer's taxable year;
   (E) Divide the result obtained in (D) by twelve.
   (vi) for taxable years beginning on or after January first, two
 thousand fourteen, the amount prescribed by this paragraph for a
-taxpayer which is a qualified New York manufacturer, shall be computed
-at the rate of zero percent of the taxpayer's business income base. The
-term "manufacturer" shall mean a taxpayer which during the taxable year
+taxpayer that is a qualified New York manufacturer, shall be computed at
+the rate of zero percent of the taxpayer's business income base. The
+term "manufacturer" shall mean a taxpayer that during the taxable year
 is principally engaged in the production of goods by manufacturing,
 processing, assembling, refining, mining, extracting, farming,
 agriculture, horticulture, floriculture, viticulture or commercial
@@ -91,10 +91,10 @@ percent of the gross receipts of the taxpayer or combined group,
 respectively, are derived from receipts from the sale of goods produced
 by such activities. In computing a combined group's gross receipts,
 intercorporate receipts shall be eliminated. A "qualified New York
-manufacturer" is a manufacturer which has property in New York which is
+manufacturer" is a manufacturer that has property in New York that is
 described in clause (A) of subparagraph (i) of paragraph (b) of
 subdivision one of section two hundred ten-B of this article and either
-(I) the adjusted basis of such property for federal income tax purposes
+(I) the adjusted basis of such property for New York state tax purposes
 at the close of the taxable year is at least one million dollars or (II)
 all of its real and personal property is located in New York. A taxpayer
 or, in the case of a combined report, a combined group, that does not
@@ -103,7 +103,7 @@ manufacturer if the taxpayer or the combined group employs during the
 taxable year at least two thousand five hundred employees in
 manufacturing in New York and the taxpayer or the combined group has
 property in the state used in manufacturing, the adjusted basis of which
-for federal income tax purposes at the close of the taxable year is at
+for New York state tax purposes at the close of the taxable year is at
 least one hundred million dollars.
   (vii) For a taxpayer that is defined as a qualified emerging
 technology company under paragraph (c) of subdivision one of section
@@ -325,7 +325,7 @@ prescribed by this paragraph exceed three hundred fifty thousand dollars
 for qualified New York manufacturers and for all other taxpayers five
 million dollars.
   (2) For purposes of subparagraph one of this paragraph, the term
-"manufacturer" shall mean a taxpayer which during the taxable year is
+"manufacturer" shall mean a taxpayer that during the taxable year is
 principally engaged in the production of goods by manufacturing,
 processing, assembling, refining, mining, extracting, farming,
 agriculture, horticulture, floriculture, viticulture or commercial
@@ -343,7 +343,7 @@ intercorporate receipts shall be eliminated. A "qualified New York
 manufacturer" is a manufacturer that has property in New York that is
 described in clause (A) of subparagraph (i) of paragraph (b) of
 subdivision one of section two hundred ten-B of this article and either
-(i) the adjusted basis of that property for federal income tax purposes
+(i) the adjusted basis of that property for New York state tax purposes
 at the close of the taxable year is at least one million dollars or (ii)
 all of its real and personal property is located in New York. In
 addition, a "qualified New York manufacturer" means a taxpayer that is
@@ -356,7 +356,7 @@ principally engaged test may be a qualified New York manufacturer if the
 taxpayer or the combined group employs during the taxable year at least
 two thousand five hundred employees in manufacturing in New York and the
 taxpayer or the combined group has property in the state used in
-manufacturing, the adjusted basis of which for federal income tax
+manufacturing, the adjusted basis of which for New York state tax
 purposes at the close of the taxable year is at least one hundred
 million dollars.
   (d) Fixed dollar minimum.  (1) (A) The amount prescribed by this

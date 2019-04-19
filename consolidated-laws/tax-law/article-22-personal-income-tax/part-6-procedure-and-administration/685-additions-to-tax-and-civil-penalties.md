@@ -476,7 +476,7 @@ apply to any item attributable to a tax shelter.
   (iii) any other plan or arrangement,
 if a significant purpose of such partnership, entity, plan, or
 arrangement is the avoidance or evasion of tax.
-  * NB Effective until July 1, 2019
+  * NB Effective until July 1, 2024
   * (p) Substantial understatement of liability.--If there is a
 substantial understatement of income tax for any taxable year, there
 shall be added to the tax an amount equal to ten percent of the amount
@@ -499,7 +499,7 @@ return. The tax commission may waive all or any part of the addition to
 tax provided by this subsection on a showing by the taxpayer that there
 was reasonable cause for the understatement, or part thereof, and that
 the taxpayer acted in good faith.
-  * NB Effective July 1, 2019
+  * NB Effective July 1, 2024
   * (p-1) Reportable transaction understatement.-- (1) If a taxpayer has
 a reportable transaction understatement for any taxable year, there
 shall be added to the tax an amount equal to twenty percent of the
@@ -618,7 +618,7 @@ agreements of the taxpayer or any other person,
   (III) does not identify and consider all relevant facts, or
   (IV) fails to meet any other requirement as the commissioner may
 prescribe.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2024
   (p-2) No penalty will be imposed pursuant to subsection (c) or (p) of
 this section for a taxable year beginning on or after January first, two
 thousand eight and before January first, two thousand nine resulting
@@ -712,17 +712,53 @@ the last day of such year, at the rate applicable to underpayments of
 tax pursuant to this article. The tax commission shall have the power,
 in its discretion, to waive, reduce or compromise such penalty.
   (u) Failure of tax return preparer to conform to certain
-requirements.--(3) Failure to furnish copy to taxpayer. Any person who
-is a tax return preparer with respect to any return or claim for refund,
-who is required under paragraph three of subsection (g) of section six
-hundred fifty-eight of this article to furnish a copy of such return or
-claim for refund to the taxpayer, and who fails to comply with such
-provision with respect to such return or claim for refund, shall be
-subject to a penalty of fifty dollars for each such failure, unless it
-is shown that such failure is due to reasonable cause and not due to
-willful neglect. The maximum penalty imposed under this paragraph on any
-person with respect to returns or claims for refund filed during any
-calendar year shall not exceed twenty-five thousand dollars.
+requirements.--(1) Failure to sign return or claim for refund. If a tax
+return preparer who is required pursuant to paragraph one of subsection
+(g) of section six hundred fifty-eight of this article to sign a return
+or claim for refund fails to comply with such requirement with respect
+to such return or claim for refund, the tax return preparer shall be
+subject to a penalty of two hundred fifty dollars for each such failure
+to sign, unless it is shown that such failure is due to reasonable cause
+and not due to willful neglect. The maximum penalty imposed under this
+paragraph on any tax return preparer with respect to returns filed
+during any calendar year by the tax return preparer must not exceed ten
+thousand dollars. Provided, however, that if a tax return preparer has
+been penalized under this paragraph for a preceding calendar year and
+again fails to sign his or her name on any return that requires the tax
+return preparer's signature during a subsequent calendar year, then the
+penalty under this paragraph for each failure will be five hundred
+dollars, and no annual cap will apply. This paragraph shall not apply if
+the penalty under paragraph three of subsection (g) of section
+thirty-two of this chapter is imposed on the tax return preparer with
+respect to such return or claim for refund.
+  (2) Failure to furnish identifying number. If a tax return preparer
+fails to include any identifying number required to be included on any
+return or claim for refund pursuant to paragraph two of subsection (g)
+of section six hundred fifty-eight of this article, the tax return
+preparer shall be subject to a penalty of one hundred dollars for each
+such failure, unless it is shown that such failure is due to reasonable
+cause and not willful neglect. The maximum penalty imposed under this
+paragraph on any tax return preparer with respect to returns filed
+during any calendar year must not exceed two thousand five hundred
+dollars; provided, however, that if a tax return preparer has been
+penalized under this paragraph for a preceding calendar year and again
+fails to include the identifying number on one or more returns during a
+subsequent calendar year, then the penalty under this paragraph for each
+failure will be two hundred fifty dollars, and no annual cap will apply.
+this paragraph shall not apply if the penalty under paragraph four of
+subsection (g) of section thirty-two of this chapter is imposed on the
+tax return preparer with respect to such return or claim for refund.
+  (3) Failure to furnish copy to taxpayer. Any person who is a tax
+return preparer with respect to any return or claim for refund, who is
+required under paragraph three of subsection (g) of section six hundred
+fifty-eight of this article to furnish a copy of such return or claim
+for refund to the taxpayer, and who fails to comply with such provision
+with respect to such return or claim for refund, shall be subject to a
+penalty of fifty dollars for each such failure, unless it is shown that
+such failure is due to reasonable cause and not due to willful neglect.
+The maximum penalty imposed under this paragraph on any person with
+respect to returns or claims for refund filed during any calendar year
+shall not exceed twenty-five thousand dollars.
   (4) Failure to retain copy or list. Any person who is a tax return
 preparer with respect to any return or claim for refund, who is required
 under paragraph four of subsection (g) of section six hundred
@@ -746,7 +782,10 @@ then such preparer shall be subject to a penalty of fifty dollars for
 each such failure to electronically file a return, unless it is shown
 that such failure is due to reasonable cause and not due to willful
 neglect.
-  * NB Effective January 1, 2020
+  * NB Effective January 1, 2025
+  (6) For purposes of this subsection, the term "tax return preparer"
+shall have the same meaning as defined in paragraph five of subsection
+(g) of section six hundred fifty-eight of this article.
   (v) Failure to perform certain acts with respect to the quarterly
 combined withholding, wage reporting and unemployment insurance return.
 (1) Failure to file. (A) Delinquency. (i) General. If an employer fails
@@ -989,7 +1028,7 @@ than a listed transaction, and
 requirements of this chapter and effective tax administration.
   (5) The penalty imposed by this section shall be in addition to any
 other penalty imposed by this chapter.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2024
   * (y) Failure to disclose or provide reportable transaction return.--
 (1) Any person who fails to file, disclose or provide any statement,
 return or other document which is required under subdivision (b) of
@@ -1034,7 +1073,7 @@ of a penalty under clause (ii) of subparagraph (B) of paragraph two of
 subsection (q) of section one thousand eighty-five of this chapter for
 the same failure that is the basis for a penalty under clause (ii) of
 subparagraph (B) of paragraph two of this subsection.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2024
   * (z) Failure to maintain list of advisees.-- (1) If any person who is
 required to maintain a list under subdivision (c) of section twenty-five
 of this chapter fails to make a duplicate of such list available, upon
@@ -1045,42 +1084,35 @@ after such twentieth day.
   (2) No penalty shall be imposed by paragraph one of this subsection
 with respect to the failure on any day if such failure is due to
 reasonable cause.
-  * NB Repealed July 1, 2019
-  * (aa) Tax preparer penalty.-- (1) If:
-  (A) any part of any understatement of liability with respect to any
-return or claim for refund is due to a position for which there was not
-a reasonable belief that the tax treatment in that position was more
-likely than not the proper treatment,
-  (B) any person who is an income tax return preparer with respect to
-such return or claim knew (or reasonably should have known) of such
-position, and
-  (C) such position was not disclosed as provided in subsection (p) of
-this section or there was no reasonable basis for the tax treatment of
-that position,
-such person shall pay a penalty of up to one thousand dollars with
-respect to such return or claim unless it is shown that there is
-reasonable cause for the understatement and such person acted in good
-faith.
-  (2) If any part of any understatement of liability with respect to any
-return or claim for refund is due:
-  (A) to a willful attempt in any manner to understate the liability for
-tax by a person who is a tax return preparer with respect to such return
-or claim, or
-  (B) to any reckless or intentional disregard of rules or regulations
-by any such person,
-such person shall pay a penalty of up to five thousand dollars with
-respect to such return or claim. With respect to any return or claim,
-the amount of the penalty payable by any person by reason of this
-paragraph shall be reduced by the amount of the penalty paid by such
-person by reason of paragraph one of this subsection.
-  (3) For purposes of this subsection, the term "understatement of
+  * NB Repealed July 1, 2024
+  * (aa) Tax preparer penalty.-- (1) If a tax return preparer takes a
+position on any income tax return or credit claim form that either
+understates the tax liability or increases the claim for a refund, and
+the preparer knew, or reasonably should have known, that said position
+was not proper, and such position was not adequately disclosed on the
+return or in a statement attached to the return, such income tax
+preparer shall pay a penalty of between one hundred and one thousand
+dollars.
+  (2) If a tax return preparer takes a position on any income tax return
+or credit claim form that either understates the tax liability or
+increases the claim for a refund and the understatement of the tax
+liability or the increased claim for refund is due to the preparer's
+reckless or intentional disregard of the law, rules or regulations, such
+preparer shall pay a penalty of between five hundred and five thousand
+dollars. The amount of the penalty payable by any person by reason of
+this paragraph shall be reduced by the amount of the penalty paid by
+such person by reason of paragraph one of this subsection.
+  (3) For purposes of this subsection, the term "understatement of tax
 liability" means any understatement of the net amount payable with
 respect to any tax imposed under this article or any overstatement of
 the net amount creditable or refundable with respect to any such tax.
-  (4) This subsection shall not apply if the penalty under subsection
+  (4) For purposes of this subsection, the term "tax return prepared"
+shall have the same meaning as defined in paragraph five of subsection
+(g) of section six hundred fifty-eight of this article.
+  (5) This subsection shall not apply if the penalty under subsection
 (r) of this section is imposed on the tax return preparer with respect
 to such understatement.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2024
   * (bb) Promoting abusive tax shelters.-- (1) Any person who
   (A)(i) organizes (or assists in the organization of)
   (I) a partnership or other entity,
@@ -1133,7 +1165,7 @@ overstatement on a showing that there was a reasonable basis for the
 valuation and that such valuation was made in good faith.
   (3) The penalty imposed by this subsection shall be in addition to any
 other penalty provided by law.
-  * NB Repealed July 1, 2019
+  * NB Repealed July 1, 2024
   (cc) False or fraudulent document penalty. Any taxpayer that submits a
 false or fraudulent document to the department will be subject to a
 penalty of one hundred dollars per document submitted, or five hundred

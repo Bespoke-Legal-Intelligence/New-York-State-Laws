@@ -22,8 +22,8 @@ expertise in illnesses associated with military duty; and
   3. In exercising any of his or her powers under this section, the
 commissioner shall consult with appropriate health care professionals,
 providers, veterans or organizations representing them, the division of
-veterans' affairs, the federal department of veterans' affairs and the
-United States defense department.
+veterans' services, the United States department of veterans affairs and
+the United States defense department.
   4. The commissioner may make rules and regulations necessary and
 appropriate for the implementation of this section.
 ```

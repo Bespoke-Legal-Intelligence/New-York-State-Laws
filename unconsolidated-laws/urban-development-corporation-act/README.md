@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 90 |
-| Last changed | 14 Dec 2018 |
+| Sections | 91 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -34,6 +34,7 @@ Section  1.     Short title.
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 6 amended, 1 added
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 4 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 3 amended
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
 - [21 Apr 2017](../../changes/2017/2017-04-21.md): 6 amended
 - [14 Apr 2017](../../changes/2017/2017-04-14.md): 1 amended
-- [20 Jan 2017](../../changes/2017/2017-01-20.md): 1 amended
 
 ## Contents
 
@@ -72,11 +72,9 @@ Section  1.     Short title.
 - [§ 15 Special provisions relating to residential projects](15-special-provisions-relating-to-residential-projects.md)
 - [§ 16 Cooperation with municipalities](16-cooperation-with-municipalities.md)
 - [§ 16-A Regional revolving loan program](16a-regional-revolving-loan-program.md)
-- [§ 16-AA Life sciences initiatives program](16aa-life-sciences-initiatives-program.md)
 - [§ 16-B Job retention and defense industry working capital loan program](16b-job-retention-and-defense-industry-working-capital-loan-program.md)
 - [§ 16-C Minority- and women-owned business development and lending program](16c-minority-and-women-owned-business-development-and-lending-program.md)
 - [§ 16-D Urban and community development program](16d-urban-and-community-development-program.md)
-- [§ 16-DD Community development revolving loan program](16dd-community-development-revolving-loan-program.md)
 - [§ 16-E Regional economic development partnership program](16e-regional-economic-development-partnership-program.md)
 - [§ 16-F Bonding guarantee assistance program](16f-bonding-guarantee-assistance-program.md)
 - [§ 16-G Child care facilities construction program](16g-child-care-facilities-construction-program.md)
@@ -100,6 +98,8 @@ Section  1.     Short title.
 - [§ 16-X Dairy promotion act](16x-dairy-promotion-act.md)
 - [§ 16-Y Marketing of agricultural products](16y-marketing-of-agricultural-products.md)
 - [§ 16-Z Marketing orders](16z-marketing-orders.md)
+- [§ 16-AA Life sciences initiatives program](16aa-life-sciences-initiatives-program.md)
+- [§ 16-DD Community development revolving loan program](16dd-community-development-revolving-loan-program.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)
 - [§ 19 Security for bonds or notes; construction and acquisition of projects](19-security-for-bonds-or-notes-construction-and-acquisition-of-projects.md)
@@ -137,3 +137,4 @@ Section  1.     Short title.
 - [§ 50 No title](50-no-title.md)
 - [§ 51 No title](51-no-title.md)
 - [§ 52 Small business innovation research (SBIR)/small business technology transfer (STTR) technical assistance program](52-small-business-innovation-research-sbir-small-business-technology-transfer-sttr.md)
+- [§ 53 No title](53-no-title.md)

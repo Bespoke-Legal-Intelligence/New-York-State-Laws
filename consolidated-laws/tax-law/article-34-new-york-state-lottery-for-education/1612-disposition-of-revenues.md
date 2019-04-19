@@ -35,15 +35,15 @@ alcoholic beverages for consumption on the premises; and, provided,
 further, that such regulations may be revised on an emergency basis not
 later than ninety days after the enactment of this paragraph in order to
 conform such regulations to the requirements of this paragraph; or
-  (2) sixty-five percent of the total amount for which tickets have been
-sold for the "Instant Cash" game in which the participant purchases a
-preprinted ticket on which dollar amounts or symbols are concealed on
-the face or the back of such ticket, provided however up to five new
-games may be offered during the fiscal year, seventy-five percent of the
-total amount for which tickets have been sold for such five games in
-which the participant purchases a preprinted ticket on which dollar
-amounts or symbols are concealed on the face or the back of such ticket;
-or
+  (2) sixty-four and one-fourth percent of the total amount for which
+tickets have been sold for the "Instant Cash" game in which the
+participant purchases a preprinted ticket on which dollar amounts or
+symbols are concealed on the face or the back of such ticket, provided
+however up to five new games may be offered during the fiscal year,
+seventy-four and one-fourth percent of the total amount for which
+tickets have been sold for such five games in which the participant
+purchases a preprinted ticket on which dollar amounts or symbols are
+concealed on the face or the back of such ticket; or
   (3) fifty-five percent of the total amount for which tickets have been
 sold for any joint, multi-jurisdiction, and out-of-state lottery except
 as otherwise provided in paragraph one of subdivision b of this section
@@ -83,244 +83,201 @@ Balances in the lottery prize account identified by individual games may
 be carried over from one fiscal year to the next to ensure proper payout
 of games.
   b. 1. Notwithstanding section one hundred twenty-one of the state
-finance law, on or before the twentieth day of each month, the division
-shall pay into the state treasury, to the credit of the state lottery
-fund created by section ninety-two-c of the state finance law, not less
-than forty-five percent of the total amount for which tickets have been
-sold for games defined in paragraph four of subdivision a of this
-section during the preceding month, not less than thirty-five percent of
-the total amount for which tickets have been sold for games defined in
-paragraph three of subdivision a of this section during the preceding
-month, not less than twenty percent of the total amount for which
-tickets have been sold for games defined in paragraph two of subdivision
-a of this section during the preceding month, provided however that for
-games with a prize payout of seventy-five percent of the total amount
-for which tickets have been sold, the division shall pay not less than
-ten percent of sales into the state treasury and not less than
-twenty-five percent of the total amount for which tickets have been sold
-for games defined in paragraph one of subdivision a of this section
-during the preceding month; and the balance of the total revenue after
-payout for prizes for games known as "video lottery gaming," including
-any joint, multi-jurisdiction, and out-of-state video lottery gaming,
-* (i) less ten percent of the total revenue wagered after payout for
-prizes to be retained by the division for operation, administration, and
-procurement purposes, provided, however, a vendor track located within
-Oneida county, within fifteen miles of a Native American class III
-gaming facility, that has maintained at least ninety percent of
-full-time equivalent employees as they employed in the year two thousand
-sixteen, may withhold up to seventy-five percent of such funds for
-operational expenses upon a determination by the gaming commission that
-such funds are necessary to sustain operation of such vendor track;
+finance law, on or before the twentieth day of each month, the
+commission shall pay into the state treasury, to the credit of the state
+lottery fund created by section ninety-two-c of the state finance law,
+not less than forty-five percent of the total amount for which tickets
+have been sold for games defined in paragraph five of subdivision a of
+this section during the preceding month, not less than forty-five
+percent of the total amount for which tickets have be sold for games
+defined in paragraph four of subdivision a of this section during the
+preceding month, not less than thirty-five percent of the total amount
+for which tickets have been sold for games defined in paragraph three of
+subdivision a of this section during the preceding month, not less than
+twenty and three-fourths percent of the total amount for which tickets
+have been sold for games defined in paragraph two of subdivision a of
+this section during the preceding month, provided however that for games
+with a prize payout of seventy-four and one-fourth percent of the total
+amount for which tickets have been sold, the commission shall pay not
+less than ten and three-fourths percent of sales into the state treasury
+and not less than twenty-five percent of the total amount for which
+tickets have been sold for games defined in paragraph one of subdivision
+a of this section during the preceding month; and the balance of the
+total revenue after payout for prizes for games known as "video lottery
+gaming," including any joint, multi-jurisdiction, and out-of-state video
+lottery gaming, * (i) less ten percent of the total revenue wagered
+after payout for prizes to be retained by the division for operation,
+administration, and procurement purposes, provided, however, a vendor
+track located within Oneida county, within fifteen miles of a Native
+American class III gaming facility, that has maintained at least ninety
+percent of full-time equivalent employees as they employed in the year
+two thousand sixteen, may withhold up to seventy-five percent of such
+funds for operational expenses upon a determination by the gaming
+commission that such funds are necessary to sustain operation of such
+vendor track;
   * NB Effective until June 29, 2019
 * (i) less ten percent of the total revenue wagered after payout for
 prizes to be retained by the division for operation, administration, and
 procurement purposes;
   * NB Effective June 29, 2019
-(ii) less a vendor's fee the amount of which is to be paid for serving
+  (ii) less a vendor's fee the amount of which is to be paid for serving
 as a lottery agent to the track operator of a vendor track or the
-operator of a resort facility or the operator of any other video lottery
-gaming facility authorized pursuant to section one thousand six hundred
-seventeen a of this article:
-  (A) having fewer than one thousand one hundred video gaming machines,
-at a rate of thirty-five percent for the first fifty million dollars
-annually, twenty-eight percent for the next hundred million dollars
-annually, and twenty-five percent thereafter of the total revenue
-wagered at the vendor track after payout for prizes pursuant to this
-chapter;
-  (B) having one thousand one hundred or more video gaming machines, at
-a rate of thirty-one percent of the total revenue wagered at the vendor
-track after payout for prizes pursuant to this chapter, except for such
-facility located in the county of Westchester, in which case the rate
-shall be thirty percent until March thirty-first, two thousand twelve.
-  Notwithstanding the foregoing, not later than April first, two
-thousand twelve, the vendor fee shall become thirty-one percent and
-remain at that level thereafter; and except for Aqueduct racetrack, in
-which case the vendor fee shall be thirty-eight percent of the total
-revenue wagered at the vendor track after payout for prizes pursuant to
-this chapter;
-  (C) notwithstanding clauses (A) and (B) of this subparagraph, when the
-vendor track is located in an area with a population of less than one
-million within the forty mile radius around such track, at a rate of
-thirty-nine percent for the first fifty million dollars annually,
-twenty-eight percent for the next hundred million dollars annually, and
-twenty-five percent thereafter of the total revenue wagered at the
-vendor track after payout for prizes pursuant to this chapter;
-  (D) notwithstanding clauses (A), (B) and (C) of this subparagraph,
-when the vendor track is located within fifteen miles of a Native
-American class III gaming facility at a rate of forty-one percent of the
-total revenue wagered at the vendor track after payout for prizes
-pursuant to this chapter;
-  (E) notwithstanding clauses (A), (B), (C) and (D) of this
-subparagraph, when a Native American class III gaming facility is
-established, after the effective date of this subparagraph, within
-fifteen miles of the vendor track, at a rate of forty-one percent of the
-total revenue wagered after payout for prizes pursuant to this chapter;
-  (E-1) for purposes of this subdivision, the term "class III gaming"
-shall have the meaning defined in 25 U.S.C. § 2703(8).
-  (F) notwithstanding clauses (A), (B), (C), (D) and (E) of this
-subparagraph, when a vendor track, is located in Sullivan county and
-within sixty miles from any gaming facility in a contiguous state such
-vendor fee shall, for a period of ten years commencing April first, two
-thousand eight, be at a rate of forty-one percent of the total revenue
-wagered at the vendor track after payout for prizes pursuant to this
-chapter, after which time such rate shall be as for all tracks in clause
-(C) of this subparagraph.
-  (G) Notwithstanding any provision to the contrary, when a vendor track
-is located within regions one, two, or five of development zone two as
+operator of any other video lottery gaming facility authorized pursuant
+to section sixteen hundred seventeen-a of this article. The amount of
+the vendor's fee shall be calculated as follows:
+  (A) when a vendor track is located within development zone one as
 defined by section thirteen hundred ten of the racing, pari-mutuel
-wagering and breeding law, such vendor track shall receive an additional
-commission at a rate equal to the percentage of revenue wagered at the
-vendor track after payout for prizes pursuant to this chapter, which
-percentage shall be one hundred, less the sum of the percentages of net
-revenue wagered at the vendor track retained by the commission for
-operation, administration, and procurement purposes; and the vendor's
-fee, marketing allowance and capital award paid to the vendor track
-pursuant to this chapter; and the effective tax rate paid on all gross
-gaming revenue paid by a gaming facility within the same region pursuant
-to section thirteen hundred fifty-one of the racing, pari-mutuel
-wagering and breeding law, provided, however, such additional commission
-shall be applied to revenue wagered at the vendor track after payout for
-prizes only while a gaming facility in the same region is open and
-operational pursuant to an operation certificate issued pursuant to
-section thirteen hundred thirty-one of the racing, pari-mutuel wagering
-and breeding law. The additional commission set forth in this clause
-shall be paid to the vendor track within sixty days after the conclusion
-of the state fiscal year based on the calculated percentage during the
-previous fiscal year.
-  (G-1) Notwithstanding clause (A) and (B) of this subparagraph, when a
-video lottery gaming facility is located in either the county of Nassau
-or Suffolk and is operated by a corporation established pursuant to
-section five hundred two of the racing, pari-mutuel wagering and
-breeding law at a rate of thirty-five percent of the total revenue
-wagered at the vendor after payout for prizes pursuant to this chapter;
-  (G-2) Notwithstanding any provision to the contrary, when a vendor
-track is located within region six of development zone two as defined by
+wagering and breeding law, at a rate of thirty-nine and one-half percent
+of the total revenue wagered at the vendor track after payout for prizes
+pursuant to this chapter;
+  (B) when a vendor track is located within zone two as defined by
 section thirteen hundred ten of the racing, pari-mutuel wagering and
-breeding law and is located within Ontario county, such vendor track
-shall receive an additional commission at a rate equal to the percentage
-of revenue wagered at the vendor track after payout for prizes pursuant
-to this chapter, which percentage shall be one hundred, less the sum of
-the percentages of net revenue wagered at the vendor track retained by
-the commission for operation, administration, and procurement purposes;
-and the vendor's fee, marketing allowance and capital award paid to the
-vendor track pursuant to this chapter; and the effective tax rate paid
-on all gross gaming revenue paid by a gaming facility within Seneca or
-Wayne counties pursuant to section thirteen hundred fifty-one of the
-racing, pari-mutuel wagering and breeding law, provided, however, such
-additional commission shall be applied to revenue wagered at the vendor
-track after payout for prizes only while a gaming facility in Seneca or
-Wayne counties is open and operational pursuant to an operation
-certificate issued pursuant to section thirteen hundred thirty-one of
-the racing, pari-mutuel wagering and breeding law. The additional
-commission set forth in this clause shall be paid to the vendor track
-within sixty days after the conclusion of the state fiscal year based on
-the calculated percentage during the previous fiscal year.
-  (H) notwithstanding clauses (A), (B), (C), (D), (E), (F) and (G) of
-this subparagraph, the track operator of a vendor track and in the case
-of Aqueduct, the video lottery terminal facility operator, shall be
-eligible for a vendor's capital award of up to four percent of the total
-revenue wagered at the vendor track after payout for prizes pursuant to
-this chapter, which shall be used exclusively for capital project
-investments to improve the facilities of the vendor track which promote
-or encourage increased attendance at the video lottery gaming facility
+breeding law, the rate of the total revenue wagered at the vendor track
+after payout for prizes pursuant to this chapter shall be as follows:
+  (1) forty-three and one-half percent for a vendor track located more
+than fifteen miles but less than fifty miles from a destination resort
+gaming facility authorized pursuant to article thirteen of the racing,
+pari-mutuel wagering and breeding law;
+  (2) forty-nine percent for a vendor track located within fifteen miles
+of a destination resort gaming facility authorized pursuant to article
+thirteen of the racing, pari-mutuel wagering and breeding law;
+  (3) fifty-one percent for vendor track located more than fifteen miles
+but less than fifty miles from a Native American class III gaming
+facility as defined in 25 U.S.C. §2703(8);
+  (4) fifty-six percent for a vendor track located within fifteen miles
+of a Native American class III gaming facility as defined in 25 U.S.C
+§2703(8);
+  (B-1) Notwithstanding subparagraph (B) of this paragraph, for the
+period commencing on April first, two thousand nineteen and ending on
+March thirty-first, two thousand twenty, for a vendor track that is
+located within Ontario County, such vendor fee shall be thirty-seven and
+one-half percent of the total revenue wagered at the vendor track after
+payout for prizes pursuant to this chapter;
+  (B-2) Notwithstanding subparagraph (B) of this paragraph, for the
+period commencing on April first, two thousand nineteen and ending on
+March thirty-first two thousand twenty, for a vendor track that is
+located within Saratoga County, such vendor fee shall be thirty-nine and
+one-half percent of the total revenue wagered at the vendor track after
+payout for prizes pursuant to this chapter;
+  (C) when a video lottery facility is located at Aqueduct racetrack, at
+a rate of fifty percent of the total revenue wagered at the video
+lottery gaming facility after payout for prizes pursuant to this
+chapter;
+  (D) when a video lottery gaming facility is located in either Nassau
+or Suffolk counties and is operated by a corporation established
+pursuant to section five hundred two of the racing, pari-mutuel wagering
+and breeding law, at a rate of forty-five percent of the total revenue
+wagered at the video lottery gaming facility after payout for prizes
+pursuant to this chapter.
+  (iii) less any additional vendor's fees. Additional vendor's fees
+shall be calculated as follows:
+  (A) when a vendor track is located within region two of development
+zone two, as such zone is defined in section thirteen hundred ten of the
+racing, pari-mutuel wagering and breeding law, or is located within
+region six of such development zone two and is located within Ontario
+county, the additional vendor fee received by the vendor track shall be
+calculated pursuant to subclause one of this clause; provided, however,
+such additional vendor fee shall not exceed ten percent.
+  (1) The additional vendor fee is a percentage of the total revenue
+wagered at the vendor track after payout for prizes pursuant to this
+chapter. That percentage is calculated by subtracting the effective tax
+rate on all taxable gross gaming revenue paid by a gaming facility
+within the same region as the vendor track from the percentage that is
+ninety percent less than the percentage of the vendor track's vendor
+fee. For purposes of this clause, Seneca and Wayne counties shall be
+deemed to be located within region six of development zone two.
+  (2) The additional vendor fee paid pursuant to this clause shall
+commence with the state fiscal year beginning on April first, two
+thousand nineteen and shall be paid to a vendor track no later than
+ninety days after the close of the fiscal year. The additional vendor
+fee authorized by this clause shall only be applied to revenue wagered
+at a vendor track while a gaming facility in the same region as that
+vendor track is open and operating pursuant to an operation certificate
+issued pursuant to section thirteen hundred thirty-one of the racing,
+pari-mutuel wagering and breeding law.
+  * (B) for a vendor track that is located within Oneida county, within
+fifteen miles of a Native American class III gaming facility, such
+additional vendor fee shall be six and four-tenths percent of the total
+revenue wagered at the vendor after payout for prizes pursuant to this
+chapter. The vendor track shall forfeit this additional vendor fee for
+any time period that the vendor track does not maintain at least ninety
+percent of full-time equivalent employees as they employed in the year
+two thousand sixteen.
+  * NB Effective June 30, 2019 and Repealed March 31, 2023
+  1-a. (i) Notwithstanding any provision of law to the contrary, any
+operators of a vendor track or the operators of any other video lottery
+gaming facility eligible to receive a capital award as of December
+thirty-first, two thousand eighteen shall deposit from their vendor fee
+into a segregated account an amount equal to four percent of the first
+sixty-two million five hundred thousand dollars of revenue wagered at
+the vendor track after payout for prizes pursuant to this chapter to be
+used exclusively for capital investments, except for Aqueduct, which
+shall deposit an amount equal to four percent of all revenue wagered at
+the video lottery gaming facility after payout for prizes pursuant to
+this chapter into a segregated account for capital investments.
+  (ii) Vendor tracks and video lottery gaming facilities shall be
+permitted to withdraw funds for projects approved by the commission to
+improve the facilities of the vendor track or video lottery gaming
+facility which enhance or maintain the video lottery gaming facility
 including, but not limited to hotels, other lodging facilities,
 entertainment facilities, retail facilities, dining facilities, events
-arenas, parking garages and other improvements that enhance facility
-amenities; provided that such capital investments shall be approved by
-the division, in consultation with the gaming commission, and that such
-vendor track demonstrates that such capital expenditures will increase
-patronage at such vendor track's facilities and increase the amount of
-revenue generated to support state education programs. The annual amount
-of such vendor's capital awards that a vendor track shall be eligible to
-receive shall be limited to two million five hundred thousand dollars,
-except for Aqueduct racetrack, for which there shall be no annual limit,
-provided, however, that any such capital award for the Aqueduct video
-lottery terminal facility operator shall be one percent of the total
-revenue wagered at the video lottery terminal facility after payout for
-prizes pursuant to this chapter until the earlier of the designation of
-one thousand video lottery devices as hosted pursuant to paragraph four
-of subdivision a of section sixteen hundred seventeen-a of this chapter
-or April first, two thousand nineteen and shall then be four percent of
-the total revenue wagered at the video lottery terminal facility after
-payout for prizes pursuant to this chapter, provided, further, that such
-capital award shall only be provided pursuant to an agreement with the
-operator to construct an expansion of the facility, hotel, and
-convention and exhibition space requiring a minimum capital investment
-of three hundred million dollars. Except for tracks having less than one
-thousand nine hundred video gaming machines, and except for a vendor
-track located west of State Route 14 from Sodus Point to the
-Pennsylvania border within New York, and except for Aqueduct racetrack
-each track operator shall be required to co-invest an amount of capital
-expenditure equal to its cumulative vendor's capital award. For all
-tracks the amount of any vendor's capital award that is not used during
-any one year period may be carried over into subsequent years ending
-before April first, two thousand nineteen. Any amount attributable to a
-capital expenditure approved prior to April first, two thousand nineteen
-and completed before April first, two thousand twenty-one; or approved
-prior to April first, two thousand twenty-three and completed before
-April first, two thousand twenty-five for a vendor track located west of
-State Route 14 from Sodus Point to the Pennsylvania border within New
-York, shall be eligible to receive the vendor's capital award. In the
-event that a vendor track's capital expenditures, approved by the gaming
-commission prior to April first, two thousand nineteen and completed
-prior to April first, two thousand twenty-one, exceed the vendor track's
-cumulative capital award during the five year period ending April first,
-two thousand nineteen, the vendor shall continue to receive the capital
-award after April first, two thousand nineteen until such approved
-capital expenditures are paid to the vendor track subject to any
-required co-investment. In no event shall any vendor track that receives
-a vendor fee pursuant to clause (F) or (G) of this subparagraph be
-eligible for a vendor's capital award under this section. Any operator
-of a vendor track which has received a vendor's capital award, choosing
-to divest the capital improvement toward which the award was applied,
-prior to the full depreciation of the capital improvement in accordance
-with generally accepted accounting principles, shall reimburse the state
-in amounts equal to the total of any such awards. Any capital award not
-approved for a capital expenditure at a video lottery gaming facility by
-April first, two thousand nineteen shall be deposited into the state
-lottery fund for education aid; and
-  (I) Notwithstanding any provision of law to the contrary, free play
-allowance credits authorized by the division pursuant to subdivision f
+arenas, parking garages and other improvements and amenities customary
+to a gaming facility, provided, however, the vendor tracks and video
+lottery gaming facilities shall be permitted to withdraw funds for
+unreimbursed capital awards approved prior to the effective date of this
+subparagraph.
+  (iii) Any proceeds from the divestiture of any assets acquired through
+these capital funds or any prior capital award must be deposited into
+this segregated account, provided that if the vendor track or video
+lottery gaming facility ceases use of such asset for gaming purposes or
+transfers the asset to a related party, such vendor track or video
+lottery gaming facility shall deposit an amount equal to the fair market
+value of that asset into the account.
+  (iv) In the event a vendor track or video lottery gaming facility
+ceases gaming operations, any balance in the account along with an
+amount equal to the value of all remaining assets acquired through this
+fund or prior capital awards shall be returned to the state for deposit
+into the state lottery fund for education aid, except for Aqueduct,
+which shall return to the state for deposit into the state lottery fund
+for education aid all amounts in excess of the amount needed to fund a
+project pursuant to an agreement with the operator to construct an
+expansion of the facility, hotel, and convention and exhibition space
+requiring a minimum capital investment of three hundred million dollars
+and any subsequent amendments to such agreement.
+  (v) The comptroller or his legally authorized representative is
+authorized to audit any and all expenditures made out of these
+segregated capital accounts.
+  (vi) Notwithstanding subparagraphs (i) through (v) of this paragraph,
+a vendor track located in Ontario county may withdraw up to two million
+dollars from this account for the purpose of constructing a turf course
+at the vendor track and may withdraw up to six million dollars in
+calendar year two thousand nineteen for the purpose of covering ongoing
+operating expenses.
+  (vii) Notwithstanding subparagraphs (i) through (vi) of this
+paragraph, a vendor track located within Saratoga county may withdraw up
+to three million dollars in calendar year two thousand nineteen for the
+purpose of covering ongoing operating expenses.
+  (viii) Any balance remaining in the capital award account of a vendor
+track or operator or any other video lottery gaming facility as of March
+thirty-first, two thousand nineteen shall be transferred for deposit
+into a segregated account established by this subparagraph.
+  1-b. Notwithstanding any provision of law to the contrary, free play
+allowance credits authorized by the division pursuant to subdivision i
 of section sixteen hundred seventeen-a of this article shall not be
 included in the calculation of the total amount wagered on video lottery
 games, the total amount wagered after payout of prizes, the vendor fees
-payable to the operators of video lottery facilities, vendor's capital
-awards, fees payable to the division's video lottery gaming equipment
-contractors, or racing support payments.
-  * (J) Notwithstanding clause (H) of this subparagraph, the gaming
-commission shall be able to authorize a vendor track located within
-Oneida county, within fifteen miles of a Native American class III
-gaming facility, and who has maintained at least ninety percent of
-full-time equivalent employees as they employed in the year two thousand
-sixteen, to use a portion of their vendor's capital award of up to four
-percent of the total revenue wagered at the vendor track after payout
-for prizes pursuant to this chapter each year, for operations.
-  * NB Repealed June 29, 2019
-  (iii) less an additional vendor's marketing allowance at a rate of ten
-percent for the first one hundred million dollars annually and eight
-percent thereafter of the total revenue wagered at the vendor track
-after payout for prizes to be used by the vendor track for the marketing
-and promotion and associated costs of its video lottery gaming
-operations and pari-mutuel horse racing operations, as long as any such
-costs associated with pari-mutuel horse racing operations simultaneously
-encourage increased attendance at such vendor's video lottery gaming
-facilities, consistent with the customary manner of marketing comparable
-operations in the industry and subject to the overall supervision of the
-division; provided, however, that the additional vendor's marketing
-allowance shall not exceed eight percent in any year for any operator of
-a racetrack located in the county of Westchester or Queens; provided,
-however, a vendor track that receives a vendor fee pursuant to clause
-(G) of subparagraph (ii) of this paragraph shall not receive the
-additional vendor's marketing allowance; provided, however, except for a
-vendor track located west of State Route 14 from Sodus Point to the
-Pennsylvania border within New York shall continue to receive a
-marketing allowance of ten percent on total revenue wagered at the
-vendor track after payout for prizes in excess of one hundred million
-dollars annually provided, however, a vendor that receives a vendor fee
-pursuant to clause (G-1) of subparagraph (ii) of this paragraph shall
-receive an additional marketing allowance at a rate of ten percent of
-the total revenue wagered at the video lottery gaming facility after
-payout for prizes. In establishing the vendor fee,
+payable to the operators of video lottery gaming facilities, fees
+payable to the division's video lottery gaming equipment contractors, or
+racing support payments.
+  1-c. Notwithstanding any provision of law to the contrary, the
+operator of a vendor track or the operator of any other video lottery
+gaming facility shall fund a marketing and promotion program out of the
+vendor's fee. Each operator shall submit an annual marketing plan for
+the review and approval of the commission and any other required
+documents detailing promotional activities as prescribed by the
+commission. The commission shall have the right to reject any
+advertisement or promotion that does not properly represent the mission
+or interests of the lottery or its programs.
   2. As consideration for the operation of a video lottery gaming
 facility, the division, shall cause the investment in the racing
 industry of a portion of the vendor fee received pursuant to paragraph

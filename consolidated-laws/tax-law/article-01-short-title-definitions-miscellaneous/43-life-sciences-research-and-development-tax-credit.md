@@ -38,12 +38,13 @@ allowance of the credit set forth in the preceding sentence.
 company, or, if the life sciences company is properly included or
 required to be included in a combined report, to the combined group,
 taken in the aggregate, shall not exceed five hundred thousand dollars
-in any taxable year. If the life sciences company is a partner in a
-partnership or shareholder of a New York S corporation, then the total
-amount of credit allowable shall be applied at the entity level, so that
-the total amount of credit allowable to all the partners or shareholders
-of each such entity, taken in the aggregate, does not exceed five
-hundred thousand dollars in any taxable year.
+in any taxable year. If the taxpayer is a partner in a partnership that
+is a life sciences company or a shareholder of a New York S corporation
+that is a life sciences company, then the total amount of credit
+allowable shall be applied at the entity level, so that the total amount
+of credit allowable to all the partners or shareholders of each such
+entity, taken in the aggregate, does not exceed five hundred thousand
+dollars in any taxable year.
   (4) No research and development expenditures made by the life sciences
 company and used either as the basis for the allowance of the credit
 provided for pursuant to this section or used in the calculation of the
@@ -79,7 +80,7 @@ sciences company, pursuant to this section, and shall specify the
 taxable year in which such credit may be claimed.
   (2) "New business" means any business that qualifies as a new business
 under either paragraph (f) of subdivision one of section two hundred
-ten-B or paragraph ten of subsection one of section six hundred six of
+ten-B or paragraph ten of subsection (a) of section six hundred six of
 this chapter.
   (3) "Qualified life sciences company" means a life sciences company,
 as defined in subdivision eleven of section three hundred fifty-two of
@@ -105,7 +106,7 @@ federal research and development credit structure and definition in
 effect in section 41 in federal tax year two thousand nine were still in
 effect.
   (5) "Related person" means a related person as defined in subparagraph
-(c) of paragraph three of subsection (b) of section 465 of the internal
+(C) of paragraph three of subsection (b) of section 465 of the internal
 revenue code. For this purpose, a "related person" shall include an
 entity that would have qualified as a "related person" if it had not
 been dissolved, liquidated, merged with another entity or otherwise

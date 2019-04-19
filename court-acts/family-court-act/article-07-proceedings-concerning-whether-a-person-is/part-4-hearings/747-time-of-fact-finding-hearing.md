@@ -4,7 +4,12 @@
 [Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 4 — Hearings](README.md)
 
 ```text
-  § 747. Time of fact-finding hearing.  A fact-finding hearing shall
+  * § 747. Time of fact-finding hearing. A fact-finding hearing shall
 commence not more than three days after the filing of a petition under
 this article if the respondent is in detention.
+  * NB Effective until January 1, 2020
+  * § 747. Time of fact-finding hearing. A fact-finding hearing shall
+commence not more than three days after the filing of a petition under
+this article if the respondent is in pre-dispositional placement.
+  * NB Effective January 1, 2020
 ```

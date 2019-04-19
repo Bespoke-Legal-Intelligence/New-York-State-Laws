@@ -31,7 +31,7 @@ contain a warning to advise the person so pleading or contesting that
 failure to appear on the date designated, or on any subsequent adjourned
 date, shall be deemed an admission of liability, and that a default
 judgment may be entered thereon.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty or a person alleged to be liable
 in accordance with sections eleven hundred eleven-b of this chapter as
@@ -54,7 +54,7 @@ to advise the person so pleading or contesting that failure to appear on
 the date designated, or on any subsequent adjourned date, shall be
 deemed an admission of liability, and that a default judgment may be
 entered thereon.
-  * NB Effective and expires December 1, 2019
+  * NB Effective and expires December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty or a person alleged to be liable
 in accordance with section eleven hundred eleven-d of this chapter or in
@@ -73,7 +73,7 @@ contain a warning to advise the person so pleading that failure to
 appear on the date designated, or on any subsequent adjourned date,
 shall be deemed an admission of liability, and that a default judgment
 may be entered thereon.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
 in accordance with section eleven hundred eleven-d of this chapter, or a
@@ -104,7 +104,7 @@ and shall contain a warning to advise the person so pleading that
 failure to appear on the date designated, or on any subsequent adjourned
 date, shall be deemed an admission of liability, and that a default
 judgment may be entered thereon.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
 in accordance with section eleven hundred eleven-e of this chapter
@@ -116,7 +116,7 @@ director, and shall contain a warning to advise the person so pleading
 that failure to appear on the date designated, or on any subsequent
 adjourned date, shall be deemed an admission of liability, and that a
 default judgment may be entered thereon.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, the bureau shall advise such
 person personally by such form of first class mail as the director may
@@ -126,7 +126,7 @@ prescribed by the director, and shall contain a warning to advise the
 person so pleading that failure to appear on the date designated, or on
 any subsequent adjourned date, shall be deemed an admission of
 liability, and that a default judgment may be entered thereon.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-a of this chapter or
@@ -144,7 +144,7 @@ eighty-b of this chapter, is being contested, by a person in a timely
 fashion and a hearing upon the merits has been demanded, but has not yet
 been held, the bureau shall not issue any notice of fine or penalty to
 that person prior to the date of the hearing.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with sections eleven hundred eleven-b of this chapter, as
@@ -158,7 +158,7 @@ eighty-b of this chapter is being contested, by a person in a timely
 fashion and a hearing upon the merits has been demanded, but has not yet
 been held, the bureau shall not issue any notice of fine or penalty to
 that person prior to the date of the hearing.
-  * NB Effective and expires December 1, 2019
+  * NB Effective and expires December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-d of this chapter or in
@@ -169,7 +169,7 @@ eighty-b of this chapter is being contested, by a person in a timely
 fashion and a hearing upon the merits has been demanded, but has not yet
 been held, the bureau shall not issue any notice of fine or penalty to
 that person prior to the date of the hearing.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-d of this chapter, or
@@ -191,7 +191,7 @@ chapter, is being contested, by a person in a timely fashion and a
 hearing upon the merits has been demanded, but has not yet been held,
 the bureau shall not issue any notice of fine or penalty to that person
 prior to the date of the hearing.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-e of this chapter, is
@@ -199,13 +199,13 @@ being contested, by a person in a timely fashion and a hearing upon the
 merits has been demanded, but has not yet been held, the bureau shall
 not issue any notice of fine or penalty to that person prior to the date
 of the hearing.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered by a person in a timely fashion and a hearing upon the merits
 has been demanded, but has not yet been held, the bureau shall not issue
 any notice of fine or penalty to that person prior to the date of the
 hearing.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   2. Conduct of hearings.  * a. Every hearing for the adjudication of a
 charge of parking violation or an allegation of liability in accordance
 with section eleven hundred eleven-a of this chapter or in accordance
@@ -222,7 +222,7 @@ eleven-c of this chapter or an allegation of liability in accordance
 with section eleven hundred eighty-b of this chapter, shall be held
 before a hearing examiner in accordance with rules and regulations
 promulgated by the bureau.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with sections
 eleven hundred eleven-b of this chapter, as added by sections sixteen of
@@ -234,7 +234,7 @@ hundred eleven-c of this chapter or an allegation of liability in
 accordance with section eleven hundred eighty-b of this chapter, shall
 be held before a hearing examiner in accordance with rules and
 regulations promulgated by the bureau.
-  * NB Effective and expires December 1, 2019
+  * NB Effective and expires December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred eleven-e of this chapter or an allegation of liability in
@@ -244,7 +244,7 @@ eleven-c of this chapter or an allegation of liability in accordance
 with section eleven hundred eighty-b of this chapter shall be held
 before a hearing examiner in accordance with rules and regulations
 promulgated by the bureau.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred eleven-e of this chapter or an allegation of liability in
@@ -259,17 +259,17 @@ eleven hundred eleven-e of this chapter or an allegation of liability in
 accordance with section eleven hundred eleven-d of this chapter shall be
 held before a hearing examiner in accordance with rules and regulations
 promulgated by the bureau.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred eleven-e of this chapter shall be held before a hearing
 examiner in accordance with rules and regulations promulgated by the
 bureau.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation shall be held before a hearing examiner in accordance with
 rules and regulations promulgated by the bureau.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
   b. No charge may be established except upon proof by substantial
 evidence.
   c. The hearing examiner shall not be bound by the rules of evidence in
@@ -304,7 +304,7 @@ section eleven hundred eleven-c of this chapter or a hearing at which
 liability in accordance with section eleven hundred eighty-b of this
 chapter is contested. Recording devices may be used for the making of
 the record.
-  * NB Effective until December 1, 2019
+  * NB Effective until December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with sections eleven hundred
 eleven-b of this chapter, as added by sections sixteen of chapters
@@ -315,7 +315,7 @@ hearing at which liability in accordance with section eleven hundred
 eleven-c of this chapter or a hearing at which liability in accordance
 with section eleven hundred eighty-b of this chapter is contested.
 Recording devices may be used for the making of the record.
-  * NB Effective and expires December 1, 2019
+  * NB Effective and expires December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with section eleven hundred
 eleven-e of this chapter or of a hearing at which liability in
@@ -324,7 +324,7 @@ hearing at which liability in accordance with section eleven hundred
 eleven-c of this chapter or a hearing at which liability in accordance
 with section eleven hundred eighty-b of this chapter is contested.
 Recording devices may be used for the making of the record.
-  * NB Effective December 1, 2019 until September 20, 2020
+  * NB Effective December 1, 2024 until September 20, 2020
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with section eleven hundred
 eleven-e of this chapter or of a hearing at which liability in
@@ -338,13 +338,13 @@ hearing at which liability in accordance with section eleven hundred
 eleven-d of this chapter is contested or a hearing at which liability in
 accordance with section eleven hundred eleven-e of this chapter is
 contested. Recording devices may be used for the making of the record.
-  * NB Effective August 30, 2018 until August 21, 2019
+  * NB Effective August 30, 2018 until December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or a
 hearing at which liability in accordance with section eleven hundred
 eleven-e of this chapter is contested. Recording devices may be used for
 the making of the record.
-  * NB Effective August 21, 2019 until September 12, 2020
+  * NB Effective December 1, 2024 until December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty.
 Recording devices may be used for the making of the record.
-  * NB Effective September 12, 2020
+  * NB Effective December 1, 2024
 ```

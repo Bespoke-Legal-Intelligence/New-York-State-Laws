@@ -81,8 +81,10 @@ Over $43,000 but not over $161,550    $2,093 plus 6.09% of excess over
                                       $43,000
 Over $161,550 but not over $323,200   $9,313 plus 6.41% of excess over
                                       $161,550
-Over $323,200                         $19,674 plus 6.85% of excess over
-                                      $323,200
+Over $323,200 but not over            $19,674 plus 6.85% of excess
+$2,155,350                            $323,200 over
+Over $2,155,350                       $145,177 plus 8.82% of excess over
+                                      $2,155,350
   (iv) For taxable years beginning in two thousand twenty-one the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -97,8 +99,10 @@ Over $43,000 but not over $161,550    $2,093 plus 5.97% of excess over
                                       $43,000
 Over $161,550 but not over $323,200   $9,170 plus 6.33% of excess over
                                       $161,550
-Over $323,200                         $19,403 plus 6.85% of excess over
-                                      $323,200
+Over $323,200 but not over            $19,403 plus 6.85% of excess
+$2,155,350                            over  $323,200
+Over $2,155,350                       $144,905 plus 8.82% of excess over
+                                      $2,155,350
   (v) For taxable years beginning in two thousand twenty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -111,8 +115,10 @@ Over $27,900 but not over $161,550    $1,202 plus 5.85% of excess over
                                       $27,900
 Over $161,550 but not over $323,200   $9,021 plus 6.25% of excess over
                                       $161,550
-Over $323,200                         $19,124 plus 6.85% of excess over
-                                      $323,200
+Over $323,200 but not over $2,155,350 $19,124 plus
+                                      6.85% of excess over $323,200
+Over $2,155,350                       $144,626 plus 8.82% of excess over
+                                      $2,155,350
   (vi) For taxable years beginning in two thousand twenty-three the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -125,8 +131,10 @@ Over $27,900 but not over $161,550    $1,202 plus 5.73% of excess over
                                       $27,900
 Over $161,550 but not over $323,200   $8,860 plus 6.17% of excess over
                                       $161,550
-Over $323,200                         $18,834 plus 6.85% of excess over
-                                      $323,200
+Over $323,200 but not over            $18,834 plus 6.85% of
+$2,155,350                            excess over $323,200
+Over $2,155,350                       $144,336 plus 8.82% of excess over
+                                      $2,155,350
   (vii) For taxable years beginning in two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -139,8 +147,10 @@ Over $27,900 but not over $161,550    $1,202 plus 5.61% of excess over
                                       $27,900
 Over $161,550 but not over $323,200   $8,700 plus 6.09% of excess over
                                       $161,550
-Over $323,200                         $18,544 plus 6.85% of excess over
-                                      $323,200
+Over $323,200 but not over            $18,544 plus 6.85% of
+$2,155,350                            excess over $323,200
+Over $2,155,350                       $144,047 plus 8.82% of excess over
+                                      $2,155,350
   (viii) For taxable years beginning after two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -344,8 +354,10 @@ Over $32,200 but not over $107,650    $1,568 plus 6.09% of excess over
                                       $32,200
 Over $107,650 but not over $269,300   $6,162 plus 6.41% of excess over
                                       $107,650
-Over $269,300                         $16,524 plus 6.85% of excess over
-                                      $269,300
+Over $269,300 but not over            $16,524 plus 6.85% of
+$1,616,450                            excess over $269,300
+Over $1,616,450                       $108,804 plus 8.82% of excess over
+                                      $1,616,450
   (iv) For taxable years beginning in two thousand twenty-one the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -360,8 +372,10 @@ Over $32,200 but not over $107,650    $1,568 plus 5.97% of excess over
                                       $32,200
 Over $107,650 but not over $269,300   $6,072 plus 6.33% of excess over
                                       $107,650
-Over $269,300                         $16,304 plus 6.85% of excess over
-                                      $269,300
+Over $269,300 but not over             $16,304 plus 6.85% of
+$1,616,450                            excess over $269,300
+Over $1,616,450                       $108,584 plus 8.82% of excess over
+                                      $1,616,450
   (v) For taxable years beginning in two thousand twenty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -374,8 +388,10 @@ Over $20,900 but not over $107,650    $901 plus 5.85% of excess over
                                       $20,900
 Over $107,650 but not over $269,300   $5,976 plus 6.25% of excess over
                                       $107,650
-Over $269,300                         $16,079 plus 6.85% of excess over
-                                      $269,300
+Over $269,300 but not over            $16,079 plus 6.85% of excess
+$1,616,450                            over $269,300
+Over $1,616,450                       $108,359 plus 8.82% of excess over
+                                      $1,616,450
   (vi) For taxable years beginning in two thousand twenty-three the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -388,8 +404,10 @@ Over $20,900 but not over $107,650    $901 plus 5.73% of excess over
                                       $20,900
 Over $107,650 but not over $269,300   $5,872 plus 6.17% of excess over
                                       $107,650
-Over $269,300                         $15,845 plus 6.85% of excess over
-                                      $269,300
+Over $269,300 but not over            $15,845 plus 6.85% of excess
+$1,616,450                            over $269,300
+Over $1,616,450                       $108,125 plus 8.82% of excess over
+                                      $1,616,450
   (vii) For taxable years beginning in two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -402,8 +420,10 @@ Over $20,900 but not over $107,650    $901 plus 5.61% of excess over
                                       $20,900
 Over $107,650 but not over $269,300   $5,768 plus 6.09% of excess over
                                       $107,650
-Over $269,300                         $15,612 plus 6.85% of excess over
-                                      $269,300
+Over $269,300 but not over            $15,612 plus 6.85% of excess
+$1,616,450                            over $269,300
+Over $1,616,450                       $107,892 plus 8.82% of excess over
+                                      $1,616,450
   (viii) For taxable years beginning after two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -496,7 +516,7 @@ Over $125,000 but not over $500,000   $8,000 plus 7.5% of excess over
                                       $125,000
 Over $500,000                         $36,125 plus 7.7% of excess over
                                       $500,000
-  (6)  For taxable years beginning after nineteen hundred ninety-six and
+  (6) For taxable years beginning after nineteen hundred ninety-six and
 before two thousand three:
 If the New York taxable income is:    The tax is:
 Not over $11,000                      4% of the New York taxable
@@ -542,14 +562,14 @@ Over $15,000 but not over $17,000     $715 plus 7% of excess over
                                       $15,000
 Over $17,000                          $855 plus 7.875% of excess over
                                       $17,000
-  (c)  Resident  unmarried  individuals,  resident  married  individuals
+  (c) Resident unmarried individuals, resident married individuals
 filing separate returns and resident estates and trusts. There is hereby
-imposed  for  each  taxable year on the New York taxable income of every
-resident individual who is not a married individual who makes  a  single
-return  jointly  with  his  spouse  under  subsection (b) of section six
-hundred fifty-one or a resident  head  of  a  household  or  a  resident
-surviving  spouse,  and on the New York taxable income of every resident
-estate and trust a tax  determined  in  accordance  with  the  following
+imposed for each taxable year on the New York taxable income of every
+resident individual who is not a married individual who makes a single
+return jointly with his spouse under subsection (b) of section six
+hundred fifty-one or a resident head of a household or a resident
+surviving spouse, and on the New York taxable income of every resident
+estate and trust a tax determined in accordance with the following
 tables:
   (1) (A) For taxable years beginning after two thousand eleven and
 before two thousand eighteen:
@@ -619,8 +639,10 @@ Over $21,400 but not over $80,650     $1,042 plus 6.09% of excess over
                                       $21,400
 Over $80,650 but not over $215,400    $4,650 plus 6.41% of excess over
                                       $80,650
-Over $215,400                         $13,288 plus 6.85% of excess over
-                                      $215,400
+Over $215,400 but not over            $13,288 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550                       $72,345 plus 8.82% of excess over
+                                      $1,077,550
   (iv) For taxable years beginning in two thousand twenty-one the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -635,8 +657,10 @@ Over $21,400 but not over $80,650     $1,042 plus 5.97% of excess over
                                       $21,400
 Over $80,650 but not over $215,400    $4,579 plus 6.33% of excess over
                                       $80,650
-Over $215,400                         $13,109 plus 6.85% of excess over
-                                      $215,400
+Over $215,400 but not over            $13,109 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550                       $72,166 plus 8.82% of excess over
+                                      $1,077,550
   (v) For taxable years beginning in two thousand twenty-two the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -649,8 +673,10 @@ Over $13,900 but not over $80,650     $600 plus 5.85% of excess over
                                       $13,900
 Over $80,650 but not over $215,400    $4,504 plus 6.25% of excess over
                                       $80,650
-Over $215,400                         $12,926 plus 6.85% of excess over
-                                      $215,400
+Over $215,400 but not over            $12,926 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550                       $71,984 plus 8.82% of excess over
+                                      $1,077,550
   (vi) For taxable years beginning in two thousand twenty-three the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -663,8 +689,10 @@ Over $13,900 but not over $80,650     $600 plus 5.73% of excess over
                                       $13,900
 Over $80,650 but not over $215,400    $4,424 plus 6.17% of excess over
                                       $80,650
-Over $215,400                         $12,738 plus 6.85% of excess over
-                                      $215,400
+Over $215,400 but not over            $12,738 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550                       $71,796 plus 8.82% of excess over
+                                      $1,077,550
   (vii) For taxable years beginning in two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -677,8 +705,10 @@ Over $13,900 but not over $80,650     $600 plus 5.61% of excess over
                                       $13,900
 Over $80,650 but not over $215,400    $4,344 plus 6.09% of excess over
                                       $80,650
-Over $215,400                         $12,550 plus 6.85% of excess over
-                                      $215,400
+Over $215,400 but not over            $12,550 plus 6.85% of excess
+$1,077,550                            over $215,400
+Over $1,077,550                       $71,608 plus 8.82% of excess over
+                                      $1,077,550
   (viii) For taxable years beginning after two thousand twenty-four the
 following rates shall apply:
 If the New York taxable income is:    The tax is:
@@ -960,7 +990,7 @@ excess of New York adjusted gross income for the taxable year over two
 million dollars and the denominator is fifty thousand dollars. This
 subparagraph shall apply only to taxable years beginning on or after
 January first, two thousand twelve and before January first, two
-thousand twenty.
+thousand twenty-five.
   (E) Provided, however, the total tax prior to the application of any
 tax credits shall not exceed the highest rate of tax set forth in the
 tax tables in subsection (a) of this section multiplied by the
@@ -1010,7 +1040,7 @@ excess of New York adjusted gross income for the taxable year over one
 million five hundred thousand dollars and the denominator is fifty
 thousand dollars. This subparagraph shall apply only to taxable years
 beginning on or after January first, two thousand twelve and before
-January first, two thousand twenty.
+January first, two thousand twenty-five.
   (D) Provided, however, the total tax prior to the application of any
 tax credits shall not exceed the highest rate of tax set forth in the
 tax tables in subsection (b) of this section multiplied by the
@@ -1061,7 +1091,7 @@ excess of New York adjusted gross income for the taxable year over one
 million dollars and the denominator is fifty thousand dollars. This
 subparagraph shall apply only to taxable years beginning on or after
 January first, two thousand twelve and before January first, two
-thousand twenty.
+thousand twenty-five.
   (D) Provided, however, the total tax prior to the application of any
 tax credits shall not exceed the highest rate of tax set forth in the
 tax tables in subsection (c) of this section multiplied by the

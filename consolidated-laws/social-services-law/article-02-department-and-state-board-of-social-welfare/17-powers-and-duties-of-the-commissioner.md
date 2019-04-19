@@ -108,7 +108,7 @@ phone number for the program will be made available no less than once a
 year; and
   * (i) exercise such other powers and perform such other duties as may
 be imposed by law.
-  * NB Effective March 31, 2019
+  * NB Effective March 31, 2022
   * (j) have the authority appoint a temporary operator in accordance
 with this subdivision:
   (1) For the purposes of this subdivision:
@@ -296,8 +296,8 @@ any other person for the maintenance and repair of the building,
 provision of utility services, payment of taxes or other operating and
 maintenance expenses of the building, nor of the established operator or
 any other person for the payment of mortgages or liens.
-  * NB Repealed March 31, 2019
+  * NB Repealed March 31, 2022
   * (k) exercise such other powers and perform such other duties as may
 be imposed by law.
-  * NB Repealed March 31, 2019
+  * NB Repealed March 31, 2022
 ```

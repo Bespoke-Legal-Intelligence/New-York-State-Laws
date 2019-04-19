@@ -8,7 +8,7 @@
 following shall be exempt from the tax on retail sales imposed under
 subdivision (a) of section eleven hundred five and the compensating use
 tax imposed under section eleven hundred ten:
-  (1) Food, food products, beverages, dietary foods and health
+  * (1) Food, food products, beverages, dietary foods and health
 supplements, sold for human consumption but not including (i) candy and
 confectionery, (ii) fruit drinks which contain less than seventy percent
 of natural fruit juice, (iii) soft drinks, sodas and beverages such as
@@ -26,6 +26,27 @@ sold for one dollar and fifty cents or less through vending machines,
 nothing herein shall be construed as exempting food or drink from the
 tax imposed under subdivision (d) of section eleven hundred five of this
 article.
+  * NB Effective until June 1, 2019
+  * (1) (A) Food, food products, beverages, dietary foods and health
+supplements, sold for human consumption but not including (i) candy and
+confectionery, (ii) fruit drinks which contain less than seventy percent
+of natural fruit juice, (iii) soft drinks, sodas and beverages such as
+are ordinarily dispensed at soda fountains or in connection therewith
+(other than coffee, tea and cocoa) and (iv) beer, wine or other
+alcoholic beverages, all of which shall be subject to the retail sales
+and compensating use taxes, whether or not the item is sold in liquid
+form. Nothing in this subparagraph shall be construed as exempting food
+or drink from the tax imposed under subdivision (d) of section eleven
+hundred five of this article.
+  (B) Until May thirty first, two thousand twenty-one, the food and
+drink excluded from the exemption provided by clauses (i), (ii) and
+(iii) of subparagraph (A) of this paragraph, and bottled water, shall be
+exempt under this subparagraph when sold for one dollar and fifty cents
+or less through any vending machine that accepts coin or currency only
+or when sold for two dollars or less through any vending machine that
+accepts any form of payment other than coin or currency, whether or not
+it also accepts coin or currency.
+  * NB Effective June 1, 2019
   (2) Water, when delivered to the consumer through mains or pipes.
   (3) Drugs and medicines intended for use, internally or externally, in
 the cure, mitigation, treatment or prevention of illnesses or diseases
@@ -546,8 +567,14 @@ county or counties in which that service is provided under section one
 hundred thirty-one-g of the highway law and property used by or
 purchased for the use of those exempt ferry boats for fuel, provisions,
 supplies, maintenance and repairs.
-  (44) monuments as that term is defined in subdivision (f) of section
+  * (44) monuments as that term is defined in subdivision (f) of section
 fifteen hundred two of the not-for-profit corporation law.
+  * NB Effective until June 1, 2019
+  * (44) monuments as that term is defined in paragraph (f) of section
+fifteen hundred two of the not-for-profit corporation law, and tangible
+personal property that will become a physical component part of such
+monuments.
+  * NB Effective June 5, 2019
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall
@@ -1458,10 +1485,10 @@ subdivision if the person bears a relationship to such person described
 in section two hundred sixty-seven of the internal revenue code. The
 exemption provided by this subdivision shall not apply to sales made,
 services rendered, or uses occurring after June thirtieth, two thousand
-nineteen, except with respect to sales made, services rendered, or uses
-occurring pursuant to binding contracts entered into on or before such
-date; but in no case shall such exemption apply after June thirtieth,
-two thousand twenty-four.
+twenty-one, except with respect to sales made, services rendered, or
+uses occurring pursuant to binding contracts entered into on or before
+such date; but in no case shall such exemption apply after June
+thirtieth, two thousand twenty-four.
   * NB There are 2 sb (jj)'s
   * (kk) Rent paid by a room remarketer to an operator that is not a
 room remarketer for an occupancy that the room remarketer intends to

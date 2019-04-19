@@ -1,0 +1,18 @@
+﻿<!-- nyslaw {"citation": "Civil Practice Law and Rules § 1311-B", "kind": "section", "law_id": "CVP", "location_id": "1311-B", "path": "ARTICLE 13-A › SECTION 1311-B", "repealed": false, "repealed_date": null, "source": "nys-laws:CVP/1311-B.md", "title": "Money judgment"} -->
+# Civil Practice Law and Rules § 1311-B — Money judgment
+
+[Civil Practice Law and Rules](../README.md) › [Article 13-A — Proceeds of a Crime-forfeiture](README.md)
+
+```text
+  * § 1311-b. Money judgment. If a claiming authority obtains a
+forfeiture judgment against a defendant for the proceeds, substituted
+proceeds, instrumentality of a crime or real property instrumentality of
+a crime, but is unable to locate all or part of any such property, the
+claiming authority may apply to the court for a money judgment against
+the defendant in the amount of the value of the forfeited property that
+cannot be located. The defendant shall have the right to challenge the
+valuation of any property that is the basis for such an application. The
+claiming authority shall have the burden of establishing the value of
+the property under this section by a preponderance of the evidence.
+  * NB Effective October 9, 2019
+```

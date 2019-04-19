@@ -120,7 +120,11 @@ and filed by his executor, administrator, or other person charged with
 his property. If a final return of a decedent is for a fractional part
 of a year, the due date of such return shall be the fifteenth day of the
 fourth month following the close of the twelve-month period which began
-with the first day of such fractional part of the year.
+with the first day of such fractional part of the year. Notwithstanding
+any provision of law to the contrary, when a return has been filed for a
+decedent, the commissioner may disclose the decedent's name, address,
+and the date of death to the director of real property tax services of
+the county in which the address reported on such return is located.
   (d) Individuals under a disability. The return for an individual who
 is unable to make a return by reason of minority or other disability
 shall be made and filed by his guardian, conservator, committee,

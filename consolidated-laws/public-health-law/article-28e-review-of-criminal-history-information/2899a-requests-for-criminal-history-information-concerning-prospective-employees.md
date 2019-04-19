@@ -157,9 +157,9 @@ social services law, or any entity that provides home and community
 based services to enrollees who are under twenty-one years of age under
 a demonstration program pursuant to section eleven hundred fifteen of
 the federal social security act, direct observation and evaluation of
-temporary employees shall not be required until April first, two
-thousand nineteen. The results of such observations shall be documented
-in the temporary employee's personnel file and shall be maintained. For
+temporary employees shall not be required until July first, two thousand
+nineteen. The results of such observations shall be documented in the
+temporary employee's personnel file and shall be maintained. For
 purposes of providing such appropriate direct observation and
 evaluation, the provider shall utilize an individual employed by such
 provider with a minimum of one year's experience working in an agency

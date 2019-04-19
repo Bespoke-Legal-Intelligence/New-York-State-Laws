@@ -348,7 +348,7 @@ financial participation is available for expenditures made for
 beneficiaries eligible for medical assistance under title XIX of the
 federal social security act based upon the allowances determined in
 accordance with this subdivision.
-  * NB Expires June 30, 2019
+  * NB Expires June 30, 2021
   * 6. (a) The commissioner shall, subject to the approval of the state
 director of the budget, establish capitated rates of payment for
 services provided by assisted living programs as defined by paragraph
@@ -440,7 +440,7 @@ five hundred thousand dollars. For rate periods on and after January
 first, two thousand five through December thirty-first, two thousand
 six, there shall be no such reconciliation of the amount of savings in
 excess of or lower than one million five hundred thousand dollars.
-  * NB Effective until March 31, 2019
+  * NB Effective until March 31, 2021
   * Notwithstanding any inconsistent provision of law or regulation to
 the contrary, for purposes of establishing rates of payment by
 governmental agencies for certified home health agencies and long term
@@ -450,7 +450,7 @@ rule or regulation limit the reimbursable base year administrative and
 general costs of a provider of services to a percentage which is other
 than thirty percent of total reimbursable base year operational costs of
 such provider of services.
-  * NB Effective March 31, 2019
+  * NB Effective March 31, 2021
   No such limit shall be applied to a provider of services reimbursed on
 an initial budget basis, or a new provider, excluding changes in
 ownership or changes in name, who begins operations in the year prior to
@@ -808,8 +808,8 @@ ensure that such aggregate limits on payment decreases are not exceeded.
   13. (a) Notwithstanding any inconsistent provision of law or
 regulation and subject to the availability of federal financial
 participation, effective April first, two thousand twelve through March
-thirty-first, two thousand nineteen, payments by government agencies for
-services provided by certified home health agencies, except for such
+thirty-first, two thousand twenty-three, payments by government agencies
+for services provided by certified home health agencies, except for such
 services provided to children under eighteen years of age and other
 discreet groups as may be determined by the commissioner pursuant to
 regulations, shall be based on episodic payments. In establishing such

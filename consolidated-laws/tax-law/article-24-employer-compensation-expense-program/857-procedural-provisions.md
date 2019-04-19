@@ -14,18 +14,7 @@ any provision is either inconsistent with a provision of this article or
 is not relevant to this article. Notwithstanding the preceding sentence,
 no credit against tax in article twenty-two of this chapter can be used
 to offset the tax due under this article.
-  (b) Notwithstanding the provisions of section six hundred ninety-seven
-of this chapter, if the commissioner determines that a person is liable
-for any tax, penalty or interest under this article pursuant to
-subsection (b) of section eight hundred fifty-four of this article, upon
-request in writing of such person, the commissioner shall disclose in
-writing to such person (1) the name of any other person the commissioner
-has determined to be liable for such tax, penalty or interest under this
-article for the electing employer, and (2) whether the commissioner has
-attempted to collect such tax, penalty or interest from such other
-person or electing employer, the general nature of such collection
-activities, and the amount collected.
-  (c) Notwithstanding any other law to the contrary, the commissioner
+  (b) Notwithstanding any other law to the contrary, the commissioner
 may require that all filings of forms or returns under this article must
 be filed electronically and all payments of tax must be paid
 electronically. The commissioner may prescribe the methods for quarterly

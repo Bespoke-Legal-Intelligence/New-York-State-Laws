@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | VAT |
 | Type | Consolidated law, chapter 71 |
-| Sections | 921 (1 repealed) |
-| Last changed | 22 Feb 2019 |
+| Sections | 929 |
+| Last changed | 19 Apr 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Vehicle & Traffic |
 
@@ -29,10 +29,11 @@ to enact as follows:
               CHAPTER SEVENTY-ONE OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (125 lines)](chapter-text.md)
+[Full chapter text (126 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Apr 2019](../../changes/2019/2019-04-19.md): 29 amended, 9 added, 1 removed
 - [22 Feb 2019](../../changes/2019/2019-02-22.md): 2 amended
 - [1 Feb 2019](../../changes/2019/2019-02-01.md): 3 amended
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 3 amended, 1 repealed
@@ -42,7 +43,6 @@ to enact as follows:
 - [16 Nov 2018](../../changes/2018/2018-11-16.md): 2 amended
 - [5 Oct 2018](../../changes/2018/2018-10-05.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 5 amended, 2 added
-- [17 Aug 2018](../../changes/2018/2018-08-17.md): 2 amended
 
 ## Contents
 

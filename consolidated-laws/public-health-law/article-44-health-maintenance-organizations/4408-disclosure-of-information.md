@@ -121,7 +121,7 @@ such services of her choice from within the plan or for any care related
 to a pregnancy;
   (q) notice of all appropriate mailing addresses and telephone numbers
 to be utilized by enrollees seeking information or authorization;
-  (r) a listing by specialty, which may be in a separate document that
+  * (r) a listing by specialty, which may be in a separate document that
 is updated annually, of the name, address and telephone number of all
 participating providers, including facilities, and, in addition, in the
 case of physicians, board certification, languages spoken and any
@@ -131,9 +131,26 @@ maintenance organization shall update the website within fifteen days of
 the addition or termination of a provider from the health maintenance
 organization's network or a change in a physician's hospital
 affiliation;
+  * NB Effective until January 1, 2020
+  * (r) a listing by specialty, which may be in a separate document that
+is updated annually, of the name, address and telephone number of all
+participating providers, including facilities, and: (i) whether the
+provider is accepting new patients; (ii) in the case of mental health or
+substance use disorder services providers, any affiliations with
+participating facilities certified or authorized by the office of mental
+health or the office of alcoholism and substance abuse services, and any
+restrictions regarding the availability of the individual provider's
+services; and (iii) in the case of physicians, board certification,
+languages spoken and any affiliations with participating hospitals. The
+listing shall also be posted on the health maintenance organization's
+website and the health maintenance organization shall update the website
+within fifteen days of the addition or termination of a provider from
+the health maintenance organization's network or a change in a
+physician's hospital affiliation;
+  * NB Effective January 1, 2020
   (s) where applicable, a description of the method by which an enrollee
 may submit a claim for health care services;
-  (t) with respect to out-of-network coverage:
+  * (t) with respect to out-of-network coverage:
   (i) a clear description of the methodology used by the health
 maintenance organization to determine reimbursement for out-of-network
 health care services;
@@ -143,13 +160,41 @@ set forth as a percentage of the usual and customary cost for
 out-of-network health care services;
   (iii) examples of anticipated out-of-pocket costs for frequently
 billed out-of-network health care services; and
-  (u) information in writing and through an internet website that
+  * NB Effective until January 1, 2020
+  * (t) with respect to out-of-network coverage:
+  (i) a clear description of the methodology used by the health
+maintenance organization to determine reimbursement for out-of-network
+health care services;
+  (ii) the amount that the health maintenance organization will
+reimburse under the methodology for out-of-network health care services
+set forth as a percentage of the usual and customary cost for
+out-of-network health care services;
+  (iii) examples of anticipated out-of-pocket costs for frequently
+billed out-of-network health care services;
+  * NB Effective January 1, 2020
+  * (u) information in writing and through an internet website that
 reasonably permits an enrollee or prospective enrollee to estimate the
 anticipated out-of-pocket cost for out-of-network health care services
 in a geographical area or zip code based upon the difference between
 what the health maintenance organization will reimburse for
 out-of-network health care services and the usual and customary cost for
 out-of-network health care services.
+  * NB Effective until January 1, 2020
+  * (u) information in writing and through an internet website that
+reasonably permits an enrollee or prospective enrollee to estimate the
+anticipated out-of-pocket cost for out-of-network health care services
+in a geographical area or zip code based upon the difference between
+what the health maintenance organization will reimburse for
+out-of-network health care services and the usual and customary cost for
+out-of-network health care services; and
+  * NB Effective January 1, 2020
+  * (v) the most recent comparative analysis performed by the health
+maintenance organization to assess the provision of its covered services
+in accordance with the Paul Wellstone and Pete Dominici Mental Health
+Parity and Addiction Equity Act of 2008, 42 U.S.C. 18031(j) and any
+amendments to, and federal guidance and regulations issued under, those
+Acts.
+  * NB Effective January 1, 2020
   2. Each health maintenance organization shall, upon request of an
 enrollee or prospective enrollee:
   (a) provide a list of the names, business addresses and official

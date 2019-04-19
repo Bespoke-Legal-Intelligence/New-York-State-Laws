@@ -112,7 +112,7 @@
 - [§ 99-S Transfer and sale of delinquent real estate tax receivables](99s-transfer-and-sale-of-delinquent-real-estate-tax-receivables.md)
 - [§ 99-T Contracts with banks or trust companies for the collection of water or sewer user fees, charges, rates or rentals, or certain special ass...](99t-contracts-with-banks-or-trust-companies-for-the-collection-of-water-or-sewer.md)
 - [§ 99-U Municipal cooperation agreements for counties](99u-municipal-cooperation-agreements-for-counties.md)
-- [§ 99-V Veterans affairs; display of events](99v-veterans-affairs-display-of-events.md)
+- [§ 99-V Veterans services; display of events](99v-veterans-services-display-of-events.md)
 - [§ 99-W Land for monument erection](99w-land-for-monument-erection.md)
 
 <details>
@@ -292,7 +292,7 @@ Section 70.     Payment of judgments against municipal corporation.
                   collection of water or sewer user fees, charges, rates
                   or rentals, or certain special assessments.
         99-u.   Municipal cooperation agreements for counties.
-        99-v.   Veterans affairs; display of events.
+        99-v.   Veterans services; display of events.
         99-w.   Land for monument erection.
 ```
 

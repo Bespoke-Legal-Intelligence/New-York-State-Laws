@@ -79,46 +79,47 @@ of this section, only from companies registered to collect and remit
 state and local sales and use taxes pursuant to articles twenty-eight
 and twenty-nine of this chapter.
   (5) For the period two thousand fifteen through two thousand
-twenty-two, in addition to the amount of credit established in paragraph
-two of this subdivision, a taxpayer shall be allowed a credit equal to
-the product (or pro rata share of the product, in the case of a member
-of a partnership) of ten percent and the amount of wages or salaries
-paid to individuals directly employed (excluding those employed as
-writers, directors, music directors, producers and performers, including
-background actors with no scripted lines) by a qualified film production
-company or a qualified independent film production company for services
-performed by those individuals in one of the counties specified in this
-paragraph in connection with a qualified film with a minimum budget of
-five hundred thousand dollars. For purposes of this additional credit,
-the services must be performed in one or more of the following counties:
-Albany, Allegany, Broome, Cattaraugus, Cayuga, Chautauqua, Chemung,
-Chenango, Clinton, Columbia, Cortland, Delaware, Dutchess, Erie, Essex,
-Franklin, Fulton, Genesee, Greene, Hamilton, Herkimer, Jefferson, Lewis,
-Livingston, Madison, Monroe, Montgomery, Niagara, Oneida, Onondaga,
-Ontario, Orange, Orleans, Oswego, Otsego, Putnam, Rensselaer, Saratoga,
-Schenectady, Schoharie, Schuyler, Seneca, St. Lawrence, Steuben,
-Sullivan, Tioga, Tompkins, Ulster, Warren, Washington, Wayne, Wyoming,
-or Yates. The aggregate amount of tax credits allowed pursuant to the
-authority of this paragraph shall be five million dollars each year
-during the period two thousand fifteen through two thousand twenty-two
-of the annual allocation made available to the program pursuant to
-paragraph four of subdivision (e) of this section. Such aggregate amount
-of credits shall be allocated by the governor's office for motion
-picture and television development among taxpayers in order of priority
-based upon the date of filing an application for allocation of film
-production credit with such office. If the total amount of allocated
-credits applied for under this paragraph in any year exceeds the
-aggregate amount of tax credits allowed for such year under this
-paragraph, such excess shall be treated as having been applied for on
-the first day of the next year. If the total amount of allocated tax
-credits applied for under this paragraph at the conclusion of any year
-is less than five million dollars, the remainder shall be treated as
-part of the annual allocation made available to the program pursuant to
-paragraph four of subdivision (e) of this section. However, in no event
-may the total of the credits allocated under this paragraph and the
-credits allocated under paragraph five of subdivision (a) of section
-thirty-one of this article exceed five million dollars in any year
-during the period two thousand fifteen through two thousand twenty-two.
+twenty-four, in addition to the amount of credit established in
+paragraph two of this subdivision, a taxpayer shall be allowed a credit
+equal to the product (or pro rata share of the product, in the case of a
+member of a partnership) of ten percent and the amount of wages or
+salaries paid to individuals directly employed (excluding those employed
+as writers, directors, music directors, producers and performers,
+including background actors with no scripted lines) by a qualified film
+production company or a qualified independent film production company
+for services performed by those individuals in one of the counties
+specified in this paragraph in connection with a qualified film with a
+minimum budget of five hundred thousand dollars. For purposes of this
+additional credit, the services must be performed in one or more of the
+following counties: Albany, Allegany, Broome, Cattaraugus, Cayuga,
+Chautauqua, Chemung, Chenango, Clinton, Columbia, Cortland, Delaware,
+Dutchess, Erie, Essex, Franklin, Fulton, Genesee, Greene, Hamilton,
+Herkimer, Jefferson, Lewis, Livingston, Madison, Monroe, Montgomery,
+Niagara, Oneida, Onondaga, Ontario, Orange, Orleans, Oswego, Otsego,
+Putnam, Rensselaer, Saratoga, Schenectady, Schoharie, Schuyler, Seneca,
+St. Lawrence, Steuben, Sullivan, Tioga, Tompkins, Ulster, Warren,
+Washington, Wayne, Wyoming, or Yates. The aggregate amount of tax
+credits allowed pursuant to the authority of this paragraph shall be
+five million dollars each year during the period two thousand fifteen
+through two thousand twenty-four of the annual allocation made available
+to the program pursuant to paragraph four of subdivision (e) of this
+section. Such aggregate amount of credits shall be allocated by the
+governor's office for motion picture and television development among
+taxpayers in order of priority based upon the date of filing an
+application for allocation of film production credit with such office.
+If the total amount of allocated credits applied for under this
+paragraph in any year exceeds the aggregate amount of tax credits
+allowed for such year under this paragraph, such excess shall be treated
+as having been applied for on the first day of the next year. If the
+total amount of allocated tax credits applied for under this paragraph
+at the conclusion of any year is less than five million dollars, the
+remainder shall be treated as part of the annual allocation made
+available to the program pursuant to paragraph four of subdivision (e)
+of this section. However, in no event may the total of the credits
+allocated under this paragraph and the credits allocated under paragraph
+five of subdivision (a) of section thirty-one of this article exceed
+five million dollars in any year during the period two thousand fifteen
+through two thousand twenty-four.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified production costs" means production costs only to the
@@ -263,14 +264,14 @@ subdivision (a) of this section.
   (4) Additional pool 2 - The aggregate amount of tax credits allowed in
 subdivision (a) of this section shall be increased by an additional four
 hundred twenty million dollars in each year starting in two thousand ten
-through two thousand twenty-two provided however, seven million dollars
+through two thousand twenty-four provided however, seven million dollars
 of the annual allocation shall be available for the empire state film
 post production credit pursuant to section thirty-one of this article in
 two thousand thirteen and two thousand fourteen and twenty-five million
 dollars of the annual allocation shall be available for the empire state
 film post production credit pursuant to section thirty-one of this
 article in each year starting in two thousand fifteen through two
-thousand twenty-two. This amount shall be allocated by the governor's
+thousand twenty-four. This amount shall be allocated by the governor's
 office for motion picture and television development among taxpayers in
 accordance with subdivision (a) of this section. If the commissioner of
 economic development determines that the aggregate amount of tax credits

@@ -377,6 +377,11 @@ thirty-eight of this chapter.
   (19) the amount computed pursuant to paragraph (r), (s) or (t) of this
 subdivision, but only the amount determined pursuant to one of such
 paragraphs.
+  (20) Any amount excepted, for purposes of subsection (a) of section
+one hundred eighteen of the internal revenue code, from the term
+"contribution to the capital of the taxpayer" by paragraph two of
+subsection (b) of section one hundred eighteen of the internal revenue
+code.
   (b) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (1) in the case of an alien corporation that under any provision of

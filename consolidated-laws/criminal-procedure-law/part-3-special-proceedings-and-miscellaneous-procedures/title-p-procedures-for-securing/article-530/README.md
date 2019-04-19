@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "CPL", "location_id": "A530", "path": "PART 3 › TITLE P › ARTICLE 530", "source": "nys-laws:CPL/A530.md", "title": "Artice 530--orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized"} -->
-# Article 530 — Artice 530--orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized
+﻿<!-- nyslaw {"kind": "container", "law_id": "CPL", "location_id": "A530", "path": "PART 3 › TITLE P › ARTICLE 530", "source": "nys-laws:CPL/A530.md", "title": "Orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized"} -->
+# Article 530 — Orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized
 
 [Criminal Procedure Law](../../../README.md) › [Part 3 — Special Proceedings and Miscellaneous Procedures](../../README.md) › [Title P — Procedures For Securing Attendance At Criminal Actions and Proceedings of Defendants and Witnesses Under Control of Court--recognizance, Bail and Commitment](../README.md)
 
@@ -23,7 +23,7 @@
 <summary>Official heading of Article 530, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-             ARTICE 530--ORDERS OF RECOGNIZANCE OR BAIL WITH
+            ARTICLE 530--ORDERS OF RECOGNIZANCE OR BAIL WITH
                 RESPECT TO DEFENDANTS IN CRIMINAL ACTIONS
                     AND PROCEEDINGS--WHEN AND BY WHAT
                             COURTS AUTHORIZED
@@ -38,14 +38,16 @@ Section 530.10 Order of recognizance or bail; in general.
                  such a license; order to surrender firearms.
         530.20 Order of recognizance or bail; by local criminal court
                  when action is pending therein.
-        530.30 Order of recognizance or bail; by superior court judge
-                 when action is pending in local criminal court.
-        530.40 Order of recognizance or bail; by superior court when
-                 action is pending therein.
+        530.30 Order of recognizance, release under non-monetary
+                 conditions or bail; by superior court judge when action
+                 is pending in local criminal court.
+        530.40 Order of recognizance, release under non-monetary
+                 conditions or bail; by superior court when action is
+                 pending therein.
         530.45 Order of recognizance or bail; after conviction and
                  before sentence.
         530.50 Order of recognizance or bail; during pendency of appeal.
-        530.60 Order of recognizance or bail; revocation thereof.
+        530.60 Certain modifications of a securing order.
         530.70 Order of recognizance or bail; bench warrant.
         530.80 Order of recognizance or bail; surrender of defendant.
 ```

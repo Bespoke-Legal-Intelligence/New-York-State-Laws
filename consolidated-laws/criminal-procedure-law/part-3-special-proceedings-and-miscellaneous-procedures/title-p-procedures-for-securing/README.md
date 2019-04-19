@@ -8,7 +8,7 @@
 - [Article 500 — Recognizance, Bail and Commitment--definitions of Terms](article-500/)
 - [Article 510 — Recognizance, Bail and Commitment-- Determination of Application For Recognizance or Bail, Issuance of Securing Orders, and Related Matters](article-510/)
 - [Article 520 — Bail and Bail Bonds](article-520/)
-- [Article 530 — Artice 530--orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized](article-530/)
+- [Article 530 — Orders of Recognizance or Bail With Respect to Defendants In Criminal Actions and Proceedings--when and By What Courts Authorized](article-530/)
 - [Article 540 — Forfeiture of Bail and Remission Thereof](article-540/)
 
 <details>

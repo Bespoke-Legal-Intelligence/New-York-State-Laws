@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
 
 ```text
-  * § 3-c. Limit upon real property tax levies by local governments. 1.
+  § 3-c. Limit upon real property tax levies by local governments. 1.
 Unless otherwise provided by law, the amount of real property taxes that
 may be levied by or on behalf of any local government, other than the
 city of New York and the counties contained therein, shall not exceed
@@ -185,5 +185,4 @@ shall, prior to adopting a budget for the coming fiscal year, submit to
 the state comptroller, in a form and manner as he or she may prescribe,
 any information necessary for calculating the tax levy limit for the
 coming fiscal year.
-  * NB Repealed June 16, 2020
 ```

@@ -58,19 +58,29 @@ procedures, including visitor identification.
 regulations requiring operators, program directors, employees and
 assistants of family day care homes, group family day care homes,
 school-age child care programs and child day care centers to receive
-thirty hours of training every two years; provided, however, that
-fifteen hours of such training must be received within the first six
-months of the initial licensure, registration or employment. Such
-training requirements shall also apply to any volunteer in such day care
-homes, programs or centers who has the potential for regular and
-substantial contact with children. The thirty hours of training required
-during the first biennial cycle after initial licensure or registration
-shall include training received while an application for licensure or
-registration pursuant to section three hundred ninety of this title is
-pending. The office of children and family services may provide this
-training through purchase of services.
+pre-service and annual training, as applicable. Provided however that
+such providers shall be required to receive thirty hours of training
+every two years; provided, however, any individual or provider who is
+already in compliance with this subdivision, prior to the effective date
+of the chapter of the laws of two thousand nineteen that amended this
+subdivision, shall only be required to complete any additional federal
+training requirements which they have not already completed in order to
+be deemed in compliance with this subdivision. Fifteen hours of such
+training must be received within the first six months of the initial
+licensure, registration or employment. Such training requirements shall
+also apply to any volunteer in such day care homes, programs or centers
+who has the potential for regular and substantial contact with children.
+The thirty hours of training required during the first biennial cycle
+after initial licensure or registration shall include training received
+while an application for licensure or registration pursuant to section
+three hundred ninety of this title is pending. The office of children
+and family services may provide this training through purchase of
+services.
   (b) The training required in paragraph (a) of this subdivision shall
-address the following topics:
+address topics and subject matters required by federal law and the
+following topics or subject matters, unless such topics or subject
+matters are substantially covered in training that is required pursuant
+to federal law:
   (i) principles of childhood development, focusing on the developmental
 stages of the age groups for which the program provides care;
   (ii) nutrition and health needs of infants and children;

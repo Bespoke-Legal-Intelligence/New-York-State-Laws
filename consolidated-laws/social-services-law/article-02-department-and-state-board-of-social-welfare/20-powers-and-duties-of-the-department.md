@@ -93,7 +93,7 @@ her family served in the United States military, and an option to answer
 in the affirmative. Where the applicant or recipient answers in the
 affirmative to such question, the office of temporary and disability
 assistance shall ensure that contact information for the state division
-of veterans' affairs is provided to such applicant or recipient, in
+of veterans' services is provided to such applicant or recipient, in
 addition to any other materials provided.
   4. The Department shall not withhold state reimbursement from or deny
 state reimbursement to a social services district, until written notice

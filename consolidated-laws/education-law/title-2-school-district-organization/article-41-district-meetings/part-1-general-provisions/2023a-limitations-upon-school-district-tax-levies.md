@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  * § 2023-a. Limitations upon school district tax levies. 1. Generally.
+  § 2023-a. Limitations upon school district tax levies. 1. Generally.
 Unless otherwise provided by law, the amount of taxes that may be levied
 by or on behalf of any school district, other than a city school
 district of a city with one hundred twenty-five thousand inhabitants or
@@ -191,5 +191,4 @@ the same date, would require an expenditure of money that would require
 a tax levy and would result in the tax levy limit being exceeded for the
 corresponding school year then such proposition shall be approved if
 sixty percent of the votes cast thereon are in the affirmative.
-  * NB Repealed June 16, 2020
 ```

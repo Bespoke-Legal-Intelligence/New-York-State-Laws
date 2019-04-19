@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 44 — Health Maintenance Organizations](README.md)
 
 ```text
-  § 4406. Health maintenance organizations; regulation of contracts. 1.
+  § 4406. Health maintenance organizations; regulation of contracts.  1.
 The contract between a health maintenance organization and an enrollee
 shall be subject to regulation by the superintendent as if it were a
 health insurance subscriber contract, and shall include, but not be
@@ -13,13 +13,13 @@ insurance law. Such contract shall fully and clearly state the benefits
 and limitations therein provided or imposed, so as to facilitate
 understanding and comparisons, and to exclude provisions which may be
 misleading or unreasonably confusing. Such contract shall be issued to
-any individual and dependents of such individual and any group of fifty
-or fewer employees or members, exclusive of spouses and dependents, or
-any employee or member of the group, including dependents, applying for
-such contract at any time throughout the year, and may include a
-pre-existing condition provision as provided for in section four
-thousand three hundred eighteen of the insurance law, provided, however,
-that, the superintendent may, after giving consideration to the public
+any individual and dependents of such individual and any group of one
+hundred or fewer employees or members, exclusive of spouses and
+dependents, or to any employee or member of the group, including
+dependents, applying for such contract at any time throughout the year.
+An individual direct payment contract shall be issued only in accordance
+with section four thousand three hundred twenty-eight of the insurance
+law. The superintendent may, after giving consideration to the public
 interest, exempt a health maintenance organization from the requirements
 of this section provided that another health insurer or health
 maintenance organization within the health maintenance organization's
@@ -35,30 +35,15 @@ four hundred eight-a of this chapter. The requirements shall not apply
 to a health maintenance organization exclusively serving individuals
 enrolled pursuant to title eleven of article five of the social services
 law, title eleven-D of article five of the social services law, title
-one-A of article twenty-five of the public health law or title eighteen
-of the federal Social Security Act, and, further provided, that such
-health maintenance organization shall not discontinue a contract for an
+one-A of article twenty-five of this chapter or title eighteen of the
+federal Social Security Act, and, further provided, that such health
+maintenance organization shall not discontinue a contract for an
 individual receiving comprehensive-type coverage in effect prior to
 January first, two thousand four who is ineligible to purchase policies
 offered after such date pursuant to this section or section four
-thousand three hundred twenty-two of this article due to the provision
-of 42 U.S.C. 1395ss in effect prior to January first, two thousand four.
-Subject to the creditable coverage requirements of subsection (a) of
-section four thousand three hundred eighteen of the insurance law, the
-organization may, as an alternative to the use of a pre-existing
-condition provision, elect to offer contracts without a pre-existing
-condition provision to such groups but may require that coverage shall
-not become effective until after a specified affiliation period of not
-more than sixty days after the application for coverage is submitted.
-The organization is not required to provide health care services or
-benefits during such period and no premium shall be charged for any
-coverage during the period. After January first, nineteen hundred
-ninety-six, all individual direct payment contracts shall be issued only
-pursuant to sections four thousand three hundred twenty-one and four
-thousand three hundred twenty-two of the insurance law. Such contracts
-may not, with respect to an eligible individual (as defined in section
-2741(b) of the federal Public Health Service Act, 42 U.S.C. §
-300gg-41(b), impose any pre-existing condition exclusion.
+thousand three hundred twenty-eight of the insurance law due to the
+provision of 42 U.S.C. 1395ss in effect prior to January first, two
+thousand four.
   2. (a) Upon approval of the commissioner, an organization may
 implement an out-of-plan benefits system that allows enrollees to use
 providers not participating in the plan pursuant to a contract,

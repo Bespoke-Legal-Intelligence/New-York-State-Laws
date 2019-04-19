@@ -10,7 +10,7 @@
 - [§ 459-C Non-residential services for victims of domestic violence](459c-non-residential-services-for-victims-of-domestic-violence.md)
 - [§ 459-D Reporting requirements](459d-reporting-requirements.md)
 - [§ 459-E Technical assistance](459e-technical-assistance.md)
-- [§ 459-F Fees for services](459f-fees-for-services.md)
+- [§ 459-F Payment for services](459f-payment-for-services.md)
 - [§ 459-G Cooperation of an abuser not required as a condition of eligibility for benefits or services](459g-cooperation-of-an-abuser-not-required-as-a-condition-of-eligibility-for-benefits.md)
 - [§ 459-H Confidentiality](459h-confidentiality.md)
 
@@ -22,12 +22,12 @@
                     DOMESTIC VIOLENCE PREVENTION ACT
 Section 459-a. Definitions.
         459-b. Residential services for victims of domestic violence.
-        459-c. Non-residential   services   for   victims   of  domestic
+        459-c. Non-residential services for victims of domestic
                  violence.
         459-d. Reporting requirements.
         459-e. Technical assistance.
-        459-f. Fees for services.
-        459-g. Cooperation of an abuser not required as a  condition  of
+        459-f. Payment for services.
+        459-g. Cooperation of an abuser not required as a condition of
                  eligibility for benefits or services.
         459-h. Confidentiality.
 ```

@@ -10,7 +10,7 @@
 - [§ 8-504 Challenges; of voter at the polling place](8-504-challenges-of-voter-at-the-polling-place.md)
 - [§ 8-506 Challenges; absentee, military, special federal and special presidential ballots](8-506-challenges-absentee-military-special-federal-and-special-presidential-ballots.md)
 - [§ 8-508 Challenge report; preparation of](8-508-challenge-report-preparation.md)
-- [§ 8-510 Challenge report; completion of and closing of registration poll ledgers](8-510-challenge-report-completion-of-and-closing-of-registration-poll-ledgers.md)
+- [§ 8-510 Challenge report; completion of and procedure after](8-510-challenge-report-completion-of-and-procedure-after.md)
 
 <details>
 <summary>Official heading of Title 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,11 +21,10 @@
 Section 8-500. Watchers; provision for.
         8-502. Challenges; generally.
         8-504. Challenges; of voter at the polling place.
-        8-506. Challenges;   absentee,  military,  special  federal  and
+        8-506. Challenges; absentee, military, special federal and
                  special presidential ballots.
         8-508. Challenge report; preparation of.
-        8-510. Challenge  report;   completion   of   and   closing   of
-                 registration poll ledgers.
+        8-510. Challenge report; completion of and procedure after.
 ```
 
 </details>

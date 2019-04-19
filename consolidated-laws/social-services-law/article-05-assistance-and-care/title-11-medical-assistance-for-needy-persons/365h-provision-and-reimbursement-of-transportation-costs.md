@@ -70,8 +70,8 @@ adjustments to payments under this section, for the purposes of
 providing increased access to Medicaid non-emergency transportation in
 rural communities. Up to two million dollars shall be available for such
 purposes.
-  * NB Repealed 8 years after the contract entered into pursuant to this
-section 365-h is executed
+  * NB Repealed 10 years after the contract entered into pursuant to
+this section 365-h is executed
   * § 365-h. Provision and reimbursement of transportation costs. 1. The
 local social services official shall have responsibility for prior
 authorizing transportation of eligible persons and for limiting the
@@ -98,6 +98,6 @@ cost transportation is reasonably available to eligible persons.
 are implemented, the commissioner shall assure compliance with
 applicable standards governing the safety and quality of transportation
 of the population served.
-  * NB Effective 8 years after the contract entered into pursuant to
+  * NB Effective 10 years after the contract entered into pursuant to
 this section 365-h has been executed
 ```

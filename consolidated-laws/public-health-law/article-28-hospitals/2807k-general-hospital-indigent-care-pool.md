@@ -286,22 +286,6 @@ subdivision;
   (iv) Twenty-five million dollars shall be distributed in accordance
 with the provisions of subparagraph (iv) of paragraph (a) of this
 subdivision;
-  (v) Twenty-four million five hundred thousand dollars shall be
-distributed as non-Medicaid grants to non-major public academic medical
-centers pursuant to a schedule to be set forth in regulations
-promulgated by the commissioner, for funding for the following purposes:
-  (A) quality of care standards linked to the All Patient Refined (APR)
-DRGs;
-  (B) best practices and evidence-based guidelines with particular focus
-on obstetric, psychiatric and other high risk specialties;
-  (C) inpatient psychiatric case payment system and financial incentives
-to divert admissions and improve linkages to outpatient programs;
-  (D) medical home standards and integrated delivery systems with a
-particular focus on chronic care patients served in academic medical
-centers and community-based settings; and
-  (E) reforms to residency training curriculum focusing on cultural
-competency, quality of training programs, and physician supply in needed
-specialties and geographic areas.
   5-c. (a) Notwithstanding any contrary provision of law and subject to
 the availability of federal financial participation, for the period July
 first, two thousand ten through December thirty-first, two thousand ten,
@@ -356,8 +340,8 @@ uninsured patients, and as further adjusted by application of a nominal
 need computation that shall take into account each facility's medicaid
 inpatient share.
   (ii) Annual distributions pursuant to such regulations for the two
-thousand thirteen through two thousand nineteen calendar years shall be
-in accord with the following:
+thousand thirteen through two thousand twenty calendar years shall be in
+accord with the following:
   (A) one hundred thirty-nine million four hundred thousand dollars
 shall be distributed as Medicaid Disproportionate Share Hospital ("DSH")
 payments to major public general hospitals; and
@@ -392,7 +376,8 @@ seventeen, is greater than twelve and one-half percent; and for the
 calendar year beginning on January first, two thousand eighteen, is
 greater than fifteen percent; and for the calendar year beginning on
 January first, two thousand nineteen, is greater than seventeen and
-one-half percent.
+one-half percent; and for the calendar year beginning on January first,
+two thousand twenty, is greater than twenty percent.
   (iv) Such regulations shall reserve one percent of the funds available
 for distribution in the two thousand fourteen and two thousand fifteen
 calendar years, and for calendar years thereafter, pursuant to this

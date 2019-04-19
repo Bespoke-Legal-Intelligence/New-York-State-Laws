@@ -162,10 +162,9 @@ a real estate investment trust, including a captive REIT as defined in
 section two of this chapter, the term "entire net income" means "real
 estate investment trust taxable income" as defined in paragraph two of
 subdivision (b) of section eight hundred fifty-seven (as modified by
-section eight hundred fifty-eight) of the internal revenue code plus the
-amount taxable under paragraph three of subdivision (b) of section eight
-hundred fifty-seven of such code, subject to the modifications required
-by subdivision nine of section two hundred eight of this article.
+section eight hundred fifty-eight) of the internal revenue code, subject
+to the modifications required by subdivision nine of section two hundred
+eight of this article.
   6. For any taxable year of a DISC, not exempt from tax under paragraph
 (i) of subdivision nine of section two hundred eight of this article,
 the taxes imposed by subdivision one of this section shall be computed

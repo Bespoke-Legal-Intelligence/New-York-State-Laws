@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 3-D*2", "kind": "section", "law_id": "GMU", "location_id": "3-D*2", "path": "ARTICLE 2 › SECTION 3-D*2", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/3-D_2.md", "title": "Certification of compliance with tax levy limit"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 3-D*2", "kind": "section", "law_id": "GMU", "location_id": "3-D*2", "path": "ARTICLE 2 › SECTION 3-D*2", "repealed": true, "repealed_date": "2019-04-19", "source": "nys-laws:GMU/3-D_2.md", "title": "Certification of compliance with tax levy limit"} -->
 # General Municipal Law § 3-D*2 — Certification of compliance with tax levy limit
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (19 Apr 2019). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

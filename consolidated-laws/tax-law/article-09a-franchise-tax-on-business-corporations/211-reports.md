@@ -125,39 +125,39 @@ filing of reports due under this article.
 tax commission orders them to be destroyed.
   8. (a) Except in accordance with proper judicial order or as otherwise
 provided by law, it shall be unlawful for any tax commissioner, any
-officer or employee of the department of taxation and finance, or any
-person who, pursuant to this section, is permitted to inspect any
-report, or to whom any information contained in any report is furnished,
-or any person engaged or retained by such department on an independent
-contract basis, or any person who in any manner may acquire knowledge of
-the contents of a report filed pursuant to this article, to divulge or
-make known in any manner the amount of income or any particulars set
-forth or disclosed in any report under this article. The officers
-charged with the custody of such reports shall not be required to
-produce any of them or evidence of anything contained in them in any
-action or proceeding in any court, except on behalf of the state or the
-commissioner in an action or proceeding under the provisions of this
-chapter or in any other action or proceeding involving the collection of
-a tax due under this chapter to which the state or the commissioner is a
-party or a claimant, or on behalf of any party to any action or
-proceeding under the provisions of this article when the reports or
-facts shown thereby are directly involved in such action or proceeding,
-in any of which events the court may require the production of, and may
-admit in evidence, so much of said reports or of the facts shown thereby
-as are pertinent to the action or proceeding, and no more. The
-commissioner may, nevertheless, publish a copy or a summary of any
-determination or decision rendered after the formal hearing provided for
-in section one thousand eighty-nine of this chapter. Nothing herein
-shall be construed to prohibit the delivery to a corporation or its duly
-authorized representative of a copy of any report filed by it, nor to
-prohibit the publication of statistics so classified as to prevent the
-identification of particular reports and the items thereof; or the
-publication of delinquent lists showing the names of taxpayers who have
-failed to pay their taxes at the time and in the manner provided by
-section two hundred thirteen of this chapter together with any relevant
-information which in the opinion of the commissioner may assist in the
-collection of such delinquent taxes; or the inspection by the attorney
-general or other legal representatives of the state of the report of any
+officer or employee of the department, or any person who, pursuant to
+this section, is permitted to inspect any report, or to whom any
+information contained in any report is furnished, or any person engaged
+or retained by such department on an independent contract basis, or any
+person who in any manner may acquire knowledge of the contents of a
+report filed pursuant to this article, to divulge or make known in any
+manner the amount of income or any particulars set forth or disclosed in
+any report under this article. The officers charged with the custody of
+such reports shall not be required to produce any of them or evidence of
+anything contained in them in any action or proceeding in any court,
+except on behalf of the state or the commissioner in an action or
+proceeding under the provisions of this chapter or in any other action
+or proceeding involving the collection of a tax due under this chapter
+to which the state or the commissioner is a party or a claimant, or on
+behalf of any party to any action or proceeding under the provisions of
+this article when the reports or facts shown thereby are directly
+involved in such action or proceeding, in any of which events the court
+may require the production of, and may admit in evidence, so much of
+said reports or of the facts shown thereby as are pertinent to the
+action or proceeding, and no more. The commissioner may, nevertheless,
+publish a copy or a summary of any determination or decision rendered
+after the formal hearing provided for in section one thousand
+eighty-nine of this chapter. Nothing herein shall be construed to
+prohibit the delivery to a corporation or its duly authorized
+representative of a copy of any report filed by it, nor to prohibit the
+publication of statistics so classified as to prevent the identification
+of particular reports and the items thereof; or the publication of
+delinquent lists showing the names of taxpayers who have failed to pay
+their taxes at the time and in the manner provided by section two
+hundred thirteen of this chapter together with any relevant information
+which in the opinion of the commissioner may assist in the collection of
+such delinquent taxes; or the inspection by the attorney general or
+other legal representatives of the state of the report of any
 corporation which shall bring action to set aside or review the tax
 based thereon, or against which an action or proceeding under this
 chapter has been recommended by the commissioner of taxation and finance
@@ -165,11 +165,7 @@ or the attorney general or has been instituted; or the inspection of the
 reports of any corporation by the comptroller or duly designated officer
 or employee of the state department of audit and control, for purposes
 of the audit of a refund of any tax paid by such corporation under this
-article; and nothing in this chapter shall be construed to prohibit the
-publication of the issuer's allocation percentage of any corporation, as
-such term "issuer's allocation percentage" is defined in subparagraph
-one of paragraph (b) of subdivision three of section two hundred ten of
-this article.
+article.
   (b) (i) Any officer or employee of the state who willfully violates
 the provisions of paragraph (a) of this subdivision shall be dismissed
 from office and be incapable of holding any public office in this state

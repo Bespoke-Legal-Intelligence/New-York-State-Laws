@@ -1588,20 +1588,12 @@ otherwise be subject to the provisions of paragraph (e) of this
 subdivision shall, with regard to days of service associated with
 admissions occurring on and after April first, two thousand ten, be in
 accordance with the following:
-  (i) For rate periods on and after April first, two thousand ten, the
+  (i) For rate periods on or after April first, two thousand ten, the
 commissioner, in consultation with the commissioner of the office of
 mental health, shall promulgate regulations, and may promulgate
 emergency regulations, establishing methodologies for determining the
 operating cost components of rates of payments for services described in
-this paragraph. Such regulations shall utilize two thousand five
-operating costs as submitted to the department prior to July first, two
-thousand nine and shall provide for methodologies establishing per diem
-inpatient rates that utilize case mix adjustment mechanisms. Such
-regulations shall contain criteria for adjustments based on length of
-stay and may also provide for a base year update, provided, however,
-that such base year update shall take effect no earlier than April
-first, two thousand fifteen, and provided further, however, that the
-commissioner may make such adjustments to such utilization and to the
+this paragraph. The commissioner may make such adjustments to the
 methodology for computing such rates as is necessary to achieve no
 aggregate, net growth in overall Medicaid expenditures related to such
 rates, as compared to such aggregate expenditures from the prior year.
@@ -1609,6 +1601,11 @@ In determining the updated base year to be utilized pursuant to this
 subparagraph, the commissioner shall take into account the base year
 determined in accordance with paragraph (c) of subdivision thirty-five
 of this section.
+  Furthermore, the commissioner shall establish such rates in
+consultation with industry representatives to achieve an appropriate
+base year update to the operating cost components of rates of payment
+for services described in this paragraph and that takes into account
+facility cost, mix of services, and patient specific conditions.
   (ii) Rates of payment established pursuant to subparagraph (i) of this
 paragraph shall reflect an aggregate net statewide increase in
 reimbursement for such services of up to twenty-five million dollars on
@@ -3092,7 +3089,7 @@ determined in accordance with paragraphs (a), (b) and (c) of this
 subdivision for such prior year and capital related inpatient expenses
 for such prior year calculated based on the hospital's average capital
 related inpatient expenses computed on a per diem basis.
-  * NB Effective through March 31, 2019
+  * NB Effective through March 31, 2021
   * (f) Notwithstanding any inconsistent provision of this section,
 commencing April first, nineteen hundred ninety-five for purposes of
 determining the capital related inpatient expenses component of rates of
@@ -3103,7 +3100,7 @@ shall be decreased by the commissioner to reflect the percentage amount
 by which the budget for the base year two years prior to the rate year
 for capital related inpatient expenses of the hospital exceeded actual
 expenses.
-  * NB Effective through March 31, 2019
+  * NB Effective through March 31, 2021
   * (g) Notwithstanding any inconsistent provision of this article,
 commencing April first, nineteen hundred ninety-five for rates of
 payment for patients eligible for payments made by state governmental
@@ -3115,7 +3112,7 @@ seven of this article shall be adjusted by the commissioner to exclude
 such expenses related to:
   (i) forty-four percent of the costs of major movable equipment; and
   (ii) staff housing.
-  * NB Effective through March 31, 2019
+  * NB Effective through March 31, 2021
   9. Adjustments. For annual rate periods beginning on or after January
 first, nineteen hundred eighty-eight:
   (a) The commissioner shall on his own initiative, or on the basis of a

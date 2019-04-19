@@ -35,12 +35,17 @@ of section eleven hundred thirty-four of this chapter shall be guilty of
 a misdemeanor.
   (d) Any person (1) who willfully fails to charge separately the tax
 imposed under article twenty-eight of this chapter or to state such tax
-separately on any bill, statement, memorandum or receipt issued or
-employed by him upon which the tax is required to be stated separately
-as provided in subdivision (a) of section eleven hundred thirty-two of
-this chapter; or (2) who shall refer or cause reference to be made to
-such tax in a form or manner other than that required by such article
-twenty-eight, shall be guilty of a misdemeanor.
+separately on any bill, statement, memorandum, receipt or other
+statement issued or employed by him or her upon which the tax is
+required to be stated separately as provided in subdivision (a) of
+section eleven hundred thirty-two of this chapter; or (2) who shall
+refer or cause reference to be made to such tax in a form or manner
+other than that required by such article twenty-eight, shall be guilty
+of a misdemeanor. Provided however, that a person who has paid the tax
+on behalf of a retail purchaser as provided in subdivision (d) of
+section eleven hundred thirty-three of this chapter shall not be guilty
+of a misdemeanor for failure to separately charge the tax imposed by
+such article twenty-eight.
   (e) Any person willfully failing to file a bond or other security or
 deposit taxes in any banking institution where such filing or deposit is
 required pursuant to the provisions of paragraph two or three of

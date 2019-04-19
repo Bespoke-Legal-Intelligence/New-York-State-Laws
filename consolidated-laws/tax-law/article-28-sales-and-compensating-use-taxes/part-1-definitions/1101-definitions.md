@@ -913,4 +913,46 @@ material purpose or activity is social or athletic.
   (14) Honorary member. A membership granted in a social or athletic
 club without payment of dues which may provide full or partial club
 privileges.
+  (e) When used in this article for the purposes of the taxes imposed
+under subdivision (a) of section eleven hundred five of this article and
+by section eleven hundred ten of this article, the following terms shall
+mean:
+  (1) Marketplace provider. A person who, pursuant to an agreement with
+a marketplace seller, facilitates sales of tangible personal property by
+such marketplace seller or sellers. A person "facilitates a sale of
+tangible personal property" for purposes of this paragraph when the
+person meets both of the following conditions: (A) such person provides
+the forum in which, or by means of which, the sale takes place or the
+offer of sale is accepted, including a shop, store, or booth, an
+internet website, catalog, or similar forum; and (B) such person or an
+affiliate of such person collects the receipts paid by a customer to a
+marketplace seller for a sale of tangible personal property, or
+contracts with a third party to collect such receipts. For purposes of
+this paragraph, a "sale of tangible personal property" shall not include
+the rental of a passenger car as described in section eleven hundred
+sixty of this chapter but shall include a lease described in subdivision
+(i) of section eleven hundred eleven of this article. For purposes of
+this paragraph, persons are affiliated if one person has an ownership
+interest of more than five percent, whether direct or indirect, in
+another, or where an ownership interest of more than five percent,
+whether direct or indirect, is held in each of such persons by another
+person or by a group of other persons that are affiliated persons with
+respect to each other. Notwithstanding anything in this paragraph, a
+person who is not otherwise registered pursuant to section eleven
+hundred thirty four of this article is not a marketplace provider if
+such person has no physical presence in New York and, for the
+immediately preceding four quarterly periods ending on the last day of
+February, May, August and November, can show that the cumulative total
+gross receipts of sales it has made or facilitated of property delivered
+in this state does not exceed three hundred thousand dollars or that
+such person has not made or facilitated more than one hundred sales of
+property delivered in this state. However, such person may elect to
+register as a marketplace provider, and, once registered, will be
+subject to the provisions of this article.
+  (2) Marketplace seller. Any person, whether or not such person is
+required to obtain a certificate of authority under section eleven
+hundred thirty-four of this article, who has an agreement with a
+marketplace provider under which the marketplace provider will
+facilitate sales of tangible personal property by such person within the
+meaning of paragraph one of this subdivision.
 ```
