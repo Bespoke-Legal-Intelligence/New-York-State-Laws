@@ -4,23 +4,7 @@
 [Public Health Law](../README.md) › [Article 35-A — Ultraviolet Radiation Devices](README.md)
 
 ```text
-  * § 3550. Definitions. When used in this article, the following words
-and phrases shall have the meanings ascribed to them in this section:
-  1. "Tanning facility" shall mean any establishment where one or more
-ultraviolet radiation device is used, offered, or made available for use
-by any human being, whether or not a fee is charged, directly or
-indirectly, but shall not include any facility where any such device is
-used by a qualified health care professional for treatment of medical
-conditions.
-  2. "Ultraviolet radiation device" shall mean any equipment which is
-designed to emit electromagnetic radiation in the wavelength interval of
-two hundred to four hundred nanometers in air, and which is intended to
-induce tanning of the human skin through irradiation, including, but not
-limited to, a sunlamp, tanning booth, or tanning bed.
-  3. "Person" shall mean an individual, corporation, partnership, joint
-venture, or any business entity.
-  * NB Effective until April 20, 2019
-  * § 3550. Definitions. When used in this article, the following words
+  § 3550. Definitions. When used in this article, the following words
 and phrases shall have the meanings ascribed to them in this section:
   1. "Tanning facility" shall mean any establishment where one or more
 ultraviolet radiation device is used, offered, or made available for use
@@ -39,5 +23,4 @@ two hundred to four hundred nanometers in air, and which is intended to
 induce nail curing or hardening through irradiation.
   4. "Person" shall mean an individual, corporation, partnership, joint
 venture, or any business entity.
-  * NB Effective April 20, 2019
 ```

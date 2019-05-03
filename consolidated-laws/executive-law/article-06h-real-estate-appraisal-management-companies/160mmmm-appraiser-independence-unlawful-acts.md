@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-mmmm. Appraiser independence; unlawful acts. Each appraisal
+  § 160-mmmm. Appraiser independence; unlawful acts. Each appraisal
 management company shall ensure that real estate appraisals are
 conducted independently and free from inappropriate influence and
 coercion. Notwithstanding any other provision of this article, it shall
@@ -60,5 +60,4 @@ additional, appropriate property information, including: additional
 comparable properties to make or support an appraisal; provide further
 detail, substantiation, or explanation for the appraiser's value
 conclusion; or correct errors in the appraisal report.
-  * NB Effective April 27, 2019
 ```

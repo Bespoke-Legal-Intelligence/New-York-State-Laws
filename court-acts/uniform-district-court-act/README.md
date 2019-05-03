@@ -8,7 +8,7 @@
 | Senate code | UDC |
 | Type | Court act |
 | Sections | 180 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 3 May 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Uniform District Court Act |
 
@@ -30,6 +30,10 @@ AN ACT to provide a uniform jurisdiction, practice and procedure for
 ```
 
 [Full chapter text (36 lines)](chapter-text.md)
+
+## Recent changes
+
+- [3 May 2019](../../changes/2019/2019-05-03.md): 1 amended
 
 ## Contents
 

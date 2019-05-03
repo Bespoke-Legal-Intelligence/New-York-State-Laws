@@ -14,8 +14,9 @@
 <summary>Official heading of Article 17-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-PARTICIPATION BY SERVICE-DISABLED VETERANS WITH RESPECT TO STATE
-CONTRACTS
+                             * ARTICLE 17-B
+       PARTICIPATION BY SERVICE-DISABLED VETERANS WITH RESPECT TO
+                             STATE CONTRACTS
 Section 369-h. Definitions.
         369-i. Division of service-disabled veterans' business
                  development.

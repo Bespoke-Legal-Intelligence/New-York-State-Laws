@@ -4,8 +4,7 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-ffff. Expiration of license. A certificate of registration
+  § 160-ffff. Expiration of license. A certificate of registration
 granted by the department pursuant to this article shall be valid for a
 period of two years from the date upon which it is issued.
-  * NB Effective April 27, 2019
 ```

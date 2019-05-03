@@ -574,7 +574,7 @@ fifteen hundred two of the not-for-profit corporation law.
 fifteen hundred two of the not-for-profit corporation law, and tangible
 personal property that will become a physical component part of such
 monuments.
-  * NB Effective June 5, 2019
+  * NB Effective June 1, 2019
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall

@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 80 Definition](80-definition.md)
+- [§ 80 Definitions](80-definitions.md)
 - [§ 81 Additional powers](81-additional-powers.md)
 - [§ 81-A Misconduct of officers and agents of pipe-line corporations](81a-misconduct-of-officers-and-agents-of-pipe-line-corporations.md)
 - [§ 82 Location of route](82-location-of-route.md)
@@ -27,7 +27,7 @@
 ```text
                                 ARTICLE 7
                          PIPE LINE CORPORATIONS
-Section 80.   Definition.
+Section 80.   Definitions.
         81.   Additional powers.
         81-a. Misconduct of officers and agents of pipe-line
                 corporations.

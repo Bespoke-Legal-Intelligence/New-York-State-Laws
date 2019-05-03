@@ -4,7 +4,7 @@
 [Uniform City Court Act](../README.md) › [Article 2 — Jurisdiction](README.md)
 
 ```text
-203. Actions involving real property.
+§ 203. Actions involving real property.
   (a) The court shall have jurisdiction of the following actions
 provided that the real property involved is located in whole or in part
 within the city:

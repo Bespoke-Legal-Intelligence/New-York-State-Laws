@@ -22,7 +22,7 @@
 
 ```text
                                ARTICLE VI
-                    General Miscellaneous Provisions
+                    GENERAL MISCELLANEOUS PROVISIONS
 Section 85. Segregation of certain women.
         87. Parole and temporary commitment of women offenders pending
               trial and sentence.

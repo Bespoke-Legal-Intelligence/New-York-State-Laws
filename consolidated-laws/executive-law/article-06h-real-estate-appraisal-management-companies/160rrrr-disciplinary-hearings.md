@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-rrrr. Disciplinary hearings. The department shall, before
+  § 160-rrrr. Disciplinary hearings. The department shall, before
 revoking or suspending any license or imposing any fine or reprimand on
 the holder thereof, and at least twenty days prior to the date set for
 the hearing, notify, in writing, the holder of such license of any
@@ -15,5 +15,4 @@ last known business address of such licensee or unlicensed person, or by
 any method authorized by the civil practice law and rules. The hearing
 on such charges shall be at such time and place as the department shall
 prescribe.
-  * NB Effective April 27, 2019
 ```

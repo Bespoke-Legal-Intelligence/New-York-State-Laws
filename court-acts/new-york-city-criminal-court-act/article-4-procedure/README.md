@@ -12,7 +12,7 @@
 
 ```text
                                ARTICLE IV
-                                Procedure
+                                PROCEDURE
 Section 41. Practice and procedure.
 ```
 

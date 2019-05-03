@@ -128,8 +128,8 @@ Section 371.     Definitions.
         389.     Penalty for violations.
         390.     Child day care; license or registration required.
         390-a.   Standards and training for child day care.
-        390-b.   Criminal history review of child care providers,
-                   generally.
+        390-b.   Criminal history review and background clearances of
+                   child care providers, generally.
         390-c.   Notice of pesticide applications.
         390-c*2. Additional powers and duties of the office of children
                    and family services.

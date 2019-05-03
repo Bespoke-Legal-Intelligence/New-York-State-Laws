@@ -2347,6 +2347,7 @@ tax credit if it claims any of the other credits for employment of
 persons with disabilities under either subsection (o) of section six
 hundred six, subdivision twelve of this section, or subdivision (j) of
 section fifteen hundred eleven of this chapter.
+  * NB Repealed January 1, 2023
   49. Empire state apprenticeship tax credit. (a) A taxpayer that has
 been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

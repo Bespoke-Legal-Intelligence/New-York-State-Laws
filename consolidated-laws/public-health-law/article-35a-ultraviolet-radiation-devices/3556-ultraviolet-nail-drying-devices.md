@@ -17,7 +17,7 @@ subdivision four of section four hundred of the general business law, to
 advise users of ultraviolet nail drying devices to apply a sunscreen or
 a similar substance designed to block ultraviolet radiation to the hands
 and wrists prior to using such device.
-  * 2. Upon completion of such review, based on the findings of the
+  2. Upon completion of such review, based on the findings of the
 department, the department of state may promulgate any regulations
 deemed appropriate for governing the use of ultraviolet nail drying
 devices by any appearance enhancement business, required to be licensed
@@ -30,5 +30,4 @@ may take to mitigate such hazards in an area clearly visible to patrons
 in the licensed premises or in the place where the practice of an
 occupation licensed pursuant to article twenty-seven of the general
 business law is conducted.
-  * NB Effective April 20, 2019
 ```

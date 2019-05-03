@@ -4,8 +4,7 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-dddd. Forms. An applicant for a certificate of registration as
+  § 160-dddd. Forms. An applicant for a certificate of registration as
 an appraisal management company shall submit an application on such
 forms as prescribed by the department.
-  * NB Effective April 27, 2019
 ```

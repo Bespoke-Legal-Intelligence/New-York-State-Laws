@@ -5872,23 +5872,14 @@ deductible in that taxable year will be treated as an overpayment of tax
 to be credited or refunded in accordance with the provisions of section
 six hundred eighty-six of this article. Provided, however, no interest
 will be paid thereon.
-  * (yyy) Order of credits. Credits allowable under this article which
+  (yyy) Order of credits. Credits allowable under this article which
 cannot be carried over and which are not refundable shall be deducted
 first. Credits allowable under this article which can be carried over,
 and carryovers of such credits, shall be deducted next, and among such
 credits, those whose carryover is of limited duration shall be deducted
 before those whose carryover is of unlimited duration. Credits allowable
 under this article which are refundable shall be deducted last.
-  * NB Effective until January 1, 2023
-  * (yyy) Order of credits. Credits allowable under this article which
-cannot be carried over and which are not refundable shall be deducted
-first. Credits allowable under this article which can be carried over,
-and carryovers of such credits, shall be deducted next, and among such
-credits, those whose carryover is of limited duration shall be deducted
-before those whose carryover is of unlimited duration. Credits allowable
-under this article which are refundable shall be deducted last.
-  * NB Effective January 1, 2023
-  * (zzz) Cross references.--For credit in respect of:
+  (zzz) Cross references.--For credit in respect of:
   (1) taxes withheld on wages, see section six hundred seventy-three,
   (2) taxes imposed on a resident by other states, see section six
 hundred twenty,
@@ -5897,15 +5888,4 @@ eighty-six,
   (4) taxes paid by a trust for a prior taxable year on income
 subsequently distributed, see sections six hundred twenty-one and six
 hundred thirty-five.
-  * NB Effective until January 1, 2023
-  * (zzz) Cross references.--For credit in respect of:
-  (1) taxes withheld on wages, see section six hundred seventy-three,
-  (2) taxes imposed on a resident by other states, see section six
-hundred twenty,
-  (3) taxes overpaid for a prior taxable year, see section six hundred
-eighty-six,
-  (4) taxes paid by a trust for a prior taxable year on income
-subsequently distributed, see sections six hundred twenty-one and six
-hundred thirty-five.
-  * NB Effective January 1, 2023
 ```

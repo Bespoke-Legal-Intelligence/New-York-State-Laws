@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-llll. Recordkeeping. Each appraisal management company shall
+  § 160-llll. Recordkeeping. Each appraisal management company shall
 maintain a detailed record of each service request that it receives and
 the real estate appraiser that performs such appraisal for the appraisal
 management company. Records shall be maintained for a period of at least
@@ -17,5 +17,4 @@ books and records of the appraisal management company and require it to
 submit reports, information and documents upon request. Appraisal
 management companies shall also allow the department to verify that the
 appraisers on such panel hold a valid license or certification.
-  * NB Effective April 27, 2019
 ```

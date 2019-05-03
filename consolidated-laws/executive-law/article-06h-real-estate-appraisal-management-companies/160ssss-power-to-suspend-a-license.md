@@ -4,9 +4,8 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-ssss. Power to suspend a license. In cases where the health,
+  § 160-ssss. Power to suspend a license. In cases where the health,
 safety, or welfare of the public is endangered, the department shall
 have the authority to immediately suspend a license pending a hearing
 before an administrative law judge.
-  * NB Effective April 27, 2019
 ```

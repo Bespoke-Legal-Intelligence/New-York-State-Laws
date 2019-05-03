@@ -26,7 +26,7 @@
 - [§ 13-0329 Lobsters; permit to take; prohibited acts](13-0329-lobsters-permit-to-take-prohibited-acts.md)
 - [§ 13-0330 Whelks or conchs; license to take](13-0330-whelks-or-conchs-license-to-take.md)
 - [§ 13-0331 Crabs; permit to take; prohibited acts](13-0331-crabs-permit-to-take-prohibited-acts.md)
-- [§ 13-0333 Menhaden; license; prohibited acts](13-0333-menhaden-license-prohibited-acts.md)
+- [§ 13-0333 Menhaden; prohibited acts](13-0333-menhaden-prohibited-acts.md)
 - [§ 13-0334 Marine and coastal district food fish and crustacea dealers and shippers license](13-0334-marine-and-coastal-district-food-fish-and-crustacea.md)
 - [§ 13-0335 Food fish; license; prohibited acts](13-0335-food-fish-license-prohibited-acts.md)
 - [§ 13-0336 Marine and coastal district party and charter boat license](13-0336-marine-and-coastal-district-party-and-charter-boat.md)

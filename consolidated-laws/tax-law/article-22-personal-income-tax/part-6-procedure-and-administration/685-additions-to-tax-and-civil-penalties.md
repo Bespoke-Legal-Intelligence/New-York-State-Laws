@@ -1085,7 +1085,7 @@ after such twentieth day.
 with respect to the failure on any day if such failure is due to
 reasonable cause.
   * NB Repealed July 1, 2024
-  * (aa) Tax preparer penalty.-- (1) If a tax return preparer takes a
+  (aa) Tax preparer penalty.-- (1) If a tax return preparer takes a
 position on any income tax return or credit claim form that either
 understates the tax liability or increases the claim for a refund, and
 the preparer knew, or reasonably should have known, that said position
@@ -1112,7 +1112,6 @@ shall have the same meaning as defined in paragraph five of subsection
   (5) This subsection shall not apply if the penalty under subsection
 (r) of this section is imposed on the tax return preparer with respect
 to such understatement.
-  * NB Repealed July 1, 2024
   * (bb) Promoting abusive tax shelters.-- (1) Any person who
   (A)(i) organizes (or assists in the organization of)
   (I) a partnership or other entity,

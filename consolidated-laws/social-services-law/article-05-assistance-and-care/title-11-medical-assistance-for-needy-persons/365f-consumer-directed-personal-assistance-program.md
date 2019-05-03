@@ -368,6 +368,7 @@ chosen by the individual.
   (e) Any transfer under this subdivision shall not diminish any of an
 individual's rights relating to continuity of care, utilization review
 or fair hearing appeals and aid continuing.
+  * NB Effective January 1, 2020
   5. Waivers, regulation and effectiveness.
   (a) The commissioner may, subject to the approval of the director of
 the budget, file for such federal waivers as may be needed for the

@@ -7,6 +7,7 @@
 
 - [§ 245.10 Timing of discovery](245.10-timing-of-discovery.md)
 - [§ 245.20 Automatic discovery](245.20-automatic-discovery.md)
+- [§ 245.25 Disclosure prior to certain guilty pleas](245.25-disclosure-prior-to-certain-guilty.md)
 - [§ 245.30 Court orders for preservation, access or discovery](245.30-court-orders-for-preservation-access.md)
 - [§ 245.35 Court ordered procedures to facilitate compliance](245.35-court-ordered-procedures-to-facilitate.md)
 - [§ 245.40 Non-testimonial evidence from the defendant](245.40-non-testimonial-evidence.md)

@@ -34,7 +34,7 @@
 <summary>Official heading of Article 6-H, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 6-H
+                               ARTICLE 6-H
                REAL ESTATE APPRAISAL MANAGEMENT COMPANIES
 Section 160-aaaa. Definitions.
         160-bbbb. Registration required.
@@ -60,7 +60,6 @@ Section 160-aaaa. Definitions.
         160-vvvv. Violations.
         160-wwww. Severability.
         160-xxxx. Judicial review.
-  * NB Effective April 27, 2019
 ```
 
 </details>

@@ -4,11 +4,11 @@
 [Executive Law](../README.md) › [Article 6-H — Real Estate Appraisal Management Companies](README.md)
 
 ```text
-  * § 160-gggg. Fees. 1. The department shall collect a fee of two
-hundred fifty dollars for a certificate of registration issued or
-reissued under the provisions of this article. Additionally, the
-department shall assess twenty-five dollars for each appraiser added to
-an appraisal management company's appraiser panel.
+  § 160-gggg. Fees. 1. The department shall collect a fee of two hundred
+fifty dollars for a certificate of registration issued or reissued under
+the provisions of this article. Additionally, the department shall
+assess twenty-five dollars for each appraiser added to an appraisal
+management company's appraiser panel.
   2. The department shall collect from each appraisal management company
 seeking to be registered, the amount determined by the appraisal
 subcommittee to be a national registry fee for each appraiser, that
@@ -32,5 +32,4 @@ the department shall collect a fee of three hundred fifty dollars to
 reissue a certificate of registration under this article which was
 submitted after the expiration of the immediately preceding registration
 term.
-  * NB Effective April 27, 2019
 ```

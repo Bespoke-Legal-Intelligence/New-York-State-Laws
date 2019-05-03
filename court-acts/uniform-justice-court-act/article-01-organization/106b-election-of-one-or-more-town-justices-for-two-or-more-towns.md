@@ -4,7 +4,7 @@
 [Uniform Justice Court Act](../README.md) › [Article 1 — Organization](README.md)
 
 ```text
-  § 106-b. Election of one or more town justices for two or more towns.
+§ 106-b. Election of one or more town justices for two or more towns.
   1. Two or more towns within the same county, acting by and through
 their town boards, are authorized to jointly undertake a study relating
 to the election of one or more town justices who shall preside in the

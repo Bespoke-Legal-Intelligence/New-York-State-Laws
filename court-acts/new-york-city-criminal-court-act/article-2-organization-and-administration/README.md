@@ -15,7 +15,7 @@
 
 ```text
                                ARTICLE II
-                     Organization and Administration
+                     ORGANIZATION AND ADMINISTRATION
 Section 20. The court constituted.
         21. Administration.
         22. Judges of the court.

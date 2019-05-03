@@ -107,7 +107,7 @@ Section 131.     Assistance, care and services to be given.
                    public assistance benefits, supplemental security
                    income benefits or additional state payments.
         131-t.   Periodic reporting.
-        131-u.   Domestic violence services to eligible persons.
+        131-u.   Domestic violence services.
         131-v.   Temporary emergency shelter.
         131-w.   Limitations in the payment of rent arrears.
         131-x.   Reverse mortgage loans.
