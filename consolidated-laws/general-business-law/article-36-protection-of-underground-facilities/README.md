@@ -7,7 +7,7 @@
 
 - [§ 760 Definitions](760-definitions.md)
 - [§ 761 One-call notification systems](761-one-call-notification-systems.md)
-- [§ 762 Duties of local governing bodies](762-duties-of-local-governing-bodies.md)
+- [§ 762 Duties of local governments](762-duties-of-local-governments.md)
 - [§ 763 Duties of operators](763-duties-of-operators.md)
 - [§ 764 Duties of excavators](764-duties-of-excavators.md)
 - [§ 765 Penalties and liabilities](765-penalties-and-liabilities.md)

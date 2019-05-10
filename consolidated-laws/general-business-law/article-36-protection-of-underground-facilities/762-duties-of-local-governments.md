@@ -1,16 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 762", "kind": "section", "law_id": "GBS", "location_id": "762", "path": "ARTICLE 36 › SECTION 762", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/762.md", "title": "Duties of local governing bodies"} -->
-# General Business Law § 762 — Duties of local governing bodies
+﻿<!-- nyslaw {"citation": "General Business Law § 762", "kind": "section", "law_id": "GBS", "location_id": "762", "path": "ARTICLE 36 › SECTION 762", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/762.md", "title": "Duties of local governments"} -->
+# General Business Law § 762 — Duties of local governments
 
 [General Business Law](../README.md) › [Article 36 — Protection of Underground Facilities](README.md)
 
 ```text
-  * § 762. Duties of local governing bodies. The local governing bodies
-shall display in an appropriate location and provide a notice to each
-applicant for an excavation and demolition permit that informs them
-about their responsibilities under the law and regulations to protect
-underground facilities and the existence, operation and programs of the
-one-call notification system.
-  * NB Effective until May 4, 2019
   * § 762. Duties of local governments. The local governments shall
 display in an appropriate location and provide a notice to each
 applicant for an excavation and demolition permit that informs them
@@ -25,7 +18,7 @@ and education program. Such training and education program shall be made
 available in-person and online. The cost of such training and education
 program shall not exceed twenty-five dollars and shall not be required
 more than once per five year period.
-  * NB Effective May 4, 2019 until October 1, 2021
+  * NB Effective until October 1, 2021
   * § 762. Duties of local governments. The local governments shall
 display in an appropriate location and provide a notice to each
 applicant for an excavation and demolition permit that informs them
