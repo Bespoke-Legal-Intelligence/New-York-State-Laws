@@ -10,6 +10,7 @@
 - [§ 440.30 Motion to vacate judgment and to set aside sentence; procedure](440.30-motion-to-vacate-judgment-and-to-set-aside.md)
 - [§ 440.40 Motion to set aside sentence; by people](440.40-motion-to-set-aside-sentence-by-people.md)
 - [§ 440.46 Motion for resentence; certain controlled substance offenders](440.46-motion-for-resentence-certain-controlled.md)
+- [§ 440.47 Motion for resentence; domestic violence cases](440.47-motion-for-resentence-domestic-violence.md)
 - [§ 440.50 Notice to crime victims of case disposition](440.50-notice-to-crime-victims-of-case-disposition.md)
 - [§ 440.55 Notice to education department where a licensed professional has been convicted of a felony](440.55-notice-to-education-department-where.md)
 - [§ 440.60 Notification of invalid sentences of probation](440.60-notification-of-invalid-sentences.md)
@@ -28,6 +29,7 @@ Section 440.10  Motion to vacate judgment.
         440.40  Motion to set aside sentence; by people.
         440.46  Motion for resentence; certain controlled substance
                   offenders.
+        440.47  Motion for resentence; domestic violence cases.
         440.50  Notice to crime victims of case disposition.
         440.55  Notice to education department where a licensed
                   professional has been convicted of a felony.

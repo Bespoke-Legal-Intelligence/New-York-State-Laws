@@ -18,7 +18,7 @@
 - [§ 60.10-A Authorized disposition; adolescent offender](60.10-a-authorized-disposition-adolescent-offender.md)
 - [§ 60.11 Authorized dispositions; criminal possession of a weapon in the fourth degree](60.11-authorized-dispositions-criminal-possession-of-a-weapon-in-the-fourth.md)
 - [§ 60.11-A Authorized dispositions; certain criminal possession of a weapon in the third degree offenders](60.11-a-authorized-dispositions-certain-criminal-possession-of-a-weapon.md)
-- [§ 60.12 Authorized disposition; alternative indeterminate sentence of imprisonment; domestic violence cases](60.12-authorized-disposition-alternative-indeterminate-sentence.md)
+- [§ 60.12 Authorized disposition; alternative sentence; domestic violence cases](60.12-authorized-disposition-alternative-sentence-domestic-violence-cases.md)
 - [§ 60.13 Authorized dispositions; felony sex offenses](60.13-authorized-dispositions-felony-sex-offenses.md)
 - [§ 60.20 Authorized dispositions; traffic infraction](60.20-authorized-dispositions-traffic-infraction.md)
 - [§ 60.21 Authorized dispositions; driving while intoxicated or aggravated driving while intoxicated](60.21-authorized-dispositions-driving-while-intoxicated-or-aggravated-driving.md)
@@ -62,8 +62,8 @@ Section 60.00   Applicability of provisions.
                   in the fourth degree.
         60.11-a Authorized dispositions; certain criminal possession of
                   a weapon in the third degree offenders.
-        60.12   Authorized disposition; alternative indeterminate
-                  sentence of imprisonment; domestic violence cases.
+        60.12   Authorized disposition; alternative sentence; domestic
+                  violence cases.
         60.13   Authorized dispositions; felony sex offenses.
         60.20   Authorized dispositions; traffic infraction.
         60.21   Authorized dispositions; driving while intoxicated or
