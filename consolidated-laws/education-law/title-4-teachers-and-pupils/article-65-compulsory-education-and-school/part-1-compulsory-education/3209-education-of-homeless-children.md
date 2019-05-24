@@ -4,7 +4,7 @@
 [Education Law](../../../README.md) › [Title 4 — Teachers and Pupils](../../README.md) › [Article 65 — Compulsory Education and School Census](../README.md) › [Part 1 — Compulsory Education](README.md)
 
 ```text
-§ 3209. Education of homeless children. 1. Definitions.
+  § 3209. Education of homeless children. 1. Definitions.
   * a. Homeless child. For the purposes of this article, the term
 "homeless child" shall mean:
   (1) a child or youth who lacks a fixed, regular, and adequate
@@ -73,13 +73,6 @@ seven of section thirty-two hundred two of this part or pursuant to
 article eighty-one, eighty-five, eighty-seven or eighty-eight of this
 chapter.
   * NB Effective until June 30, 2020
-  * a-1. Exception. For the purposes of this article the term "homeless
-child" shall not include a child in a foster care placement or receiving
-educational services pursuant to subdivision four, five, six, six-a or
-seven of section thirty-two hundred two of this article or pursuant to
-article eighty-one, eighty-five, eighty-seven or eighty-eight of this
-chapter.
-  * NB Effective June 30, 2020
   b. Designator. The term "designator" shall mean:
   (1) the parent or the person in parental relation to a homeless child;
 or

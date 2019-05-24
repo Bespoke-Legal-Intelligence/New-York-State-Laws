@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 17 May 2019.*
+*Current through the publication of 24 May 2019.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [24 May 2019](changes/2019/2019-05-24.md): Education Law
 - [17 May 2019](changes/2019/2019-05-17.md): Correction Law; Criminal Procedure Law; Election Law; General Municipal Law; Judiciary Law; Penal Law; Public Officers Law; Vehicle and Traffic Law
 - [10 May 2019](changes/2019/2019-05-10.md): Executive Law; General Business Law; Military Law
 - [3 May 2019](changes/2019/2019-05-03.md): Banking Law; Civil Service Law; Correction Law; Criminal Procedure Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; Highway Law; Insurance Law; Judiciary Law; New York City Criminal Court Act; Public Health Law; Social Services Law; State Finance Law; Tax Law; Transportation Corporations Law; Uniform City Court Act; Uniform District Court Act; Uniform Justice Court Act; Vehicle and Traffic Law; Workers' Compensation Law
@@ -22,22 +23,21 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [12 Apr 2019](changes/2019/2019-04-12.md): Civil Service Law; Correction Law; Education Law; Executive Law; Public Health Law; State Finance Law
 - [5 Apr 2019](changes/2019/2019-04-05.md): County Law; Executive Law; General Business Law; Judiciary Law; Military Law; Public Housing Law; State Administrative Procedure Act
 - [29 Mar 2019](changes/2019/2019-03-29.md): Alcoholic Beverage Control Law; Election Law; Environmental Conservation Law; Family Court Act; General Business Law
-- [22 Mar 2019](changes/2019/2019-03-22.md): Agriculture and Markets Law; Executive Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Education Law](consolidated-laws/education-law/README.md) | 175 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 171 |
+| [Education Law](consolidated-laws/education-law/README.md) | 176 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 168 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 167 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 148 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 128 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 124 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 123 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 91 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 90 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 84 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 78 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 76 |
 | [Election Law](consolidated-laws/election-law/README.md) | 67 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 63 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 54 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 193 | no change since 22 Sep 2014 (start of history) |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 19 Apr 2019 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 181 | 19 Apr 2019 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,889 | 3 May 2019 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,889 | 24 May 2019 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 19 Apr 2019 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 400 | 17 May 2019 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | no change since 22 Sep 2014 (start of history) |
