@@ -439,14 +439,14 @@ empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is: (i) one-half of one percent
 additional to the three percent rate authorized above in this paragraph
 for such city for the period beginning September first, nineteen hundred
-ninety-three and ending August thirty-first, two thousand nineteen; and
-(ii) an additional one-quarter of one percent in addition to the other
-rates authorized in this paragraph for such city for the period
+ninety-three and ending August thirty-first, two thousand twenty-one;
+and (ii) an additional one-quarter of one percent in addition to the
+other rates authorized in this paragraph for such city for the period
 beginning March first, two thousand eight and ending August
-thirty-first, two thousand nineteen; and (iii) an additional one-quarter
-of one percent in addition to the other rates authorized in this
-paragraph for such city for the period beginning June first, two
-thousand ten and ending August thirty-first, two thousand nineteen;
+thirty-first, two thousand twenty-one; and (iii) an additional
+one-quarter of one percent in addition to the other rates authorized in
+this paragraph for such city for the period beginning June first, two
+thousand ten and ending August thirty-first, two thousand twenty-one;
   (4) the city of New Rochelle is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the

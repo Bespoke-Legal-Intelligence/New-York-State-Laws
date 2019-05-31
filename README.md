@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 24 May 2019.*
+*Current through the publication of 31 May 2019.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [31 May 2019](changes/2019/2019-05-31.md): Tax Law
 - [24 May 2019](changes/2019/2019-05-24.md): Education Law
 - [17 May 2019](changes/2019/2019-05-17.md): Correction Law; Criminal Procedure Law; Election Law; General Municipal Law; Judiciary Law; Penal Law; Public Officers Law; Vehicle and Traffic Law
 - [10 May 2019](changes/2019/2019-05-10.md): Executive Law; General Business Law; Military Law
@@ -22,18 +23,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [19 Apr 2019](changes/2019/2019-04-19.md): Alcoholic Beverage Control Law; Banking Law; Civil Practice Law and Rules; Civil Service Law; Cooperative Corporations Law; Correction Law; County Law; Court of Claims Act; Criminal Procedure Law; Defense Emergency Act of 1951; Domestic Relations Law; Economic Development Law; Education Law; Elder Law; Election Law; Environmental Conservation Law; Executive Law; Facilities Development Corporation Act; Family Court Act; General Municipal Law; Highway Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Military Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Buildings Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Actions and Proceedings Law; Real Property Law; Real Property Tax Law; Rural Electric Cooperative Law; Social Services Law; State Finance Law; Tax Law; Transportation Corporations Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law; Workers' Compensation Law
 - [12 Apr 2019](changes/2019/2019-04-12.md): Civil Service Law; Correction Law; Education Law; Executive Law; Public Health Law; State Finance Law
 - [5 Apr 2019](changes/2019/2019-04-05.md): County Law; Executive Law; General Business Law; Judiciary Law; Military Law; Public Housing Law; State Administrative Procedure Act
-- [29 Mar 2019](changes/2019/2019-03-29.md): Alcoholic Beverage Control Law; Election Law; Environmental Conservation Law; Family Court Act; General Business Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Education Law](consolidated-laws/education-law/README.md) | 176 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 168 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 167 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 163 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 148 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | 128 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 123 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 124 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | 91 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 90 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | 84 |
@@ -130,7 +130,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 97 | 4 Jan 2019 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 27 Apr 2018 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,197 | 3 May 2019 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,197 | 31 May 2019 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 359 | 18 Jan 2019 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 3 May 2019 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 324 | 19 Apr 2019 |
