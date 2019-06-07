@@ -9,7 +9,7 @@
 - [§ 1126 Duties of employees specifically enumerated in this section upon receipt of an allegation of child abuse in an educational setting](1126-duties-of-employees-specifically-enumerated.md)
 - [§ 1127 Confidentiality of records](1127-confidentiality-of-records.md)
 - [§ 1128 Duties of school administrators and superintendents upon receipt of a written report alleging child abuse in an educational setting](1128-duties-of-school-administrators.md)
-- [§ 1128-A Additional duties of superintendents](1128a-additional-duties-of-superintendents.md)
+- [§ 1128-A Additional duties of school administrators and superintendents](1128a-additional-duties-of-school-administrators.md)
 - [§ 1129 Penalties for failure to comply](1129-penalties-for-failure-to-comply.md)
 - [§ 1130 Notification by district attorney](1130-notification-by-district-attorney.md)
 - [§ 1131 Actions upon criminal conviction of a licensed or certified school employee](1131-actions-upon-criminal-conviction-of-a-licensed.md)

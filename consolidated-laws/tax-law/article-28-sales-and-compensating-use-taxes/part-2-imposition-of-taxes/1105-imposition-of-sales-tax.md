@@ -10,18 +10,13 @@ tax of four percent upon:
   (a) The receipts from every retail sale of tangible personal property,
 except as otherwise provided in this article.
   (b) (1) The receipts from every sale, other than sales for resale, of
-the following: * (A) gas, electricity, refrigeration and steam, and gas,
-electric, refrigeration and steam service of whatever nature;
-  * NB Effective until June 1, 2019
-  * (A) gas, electricity, refrigeration and steam, and gas, electric,
-refrigeration and steam service of whatever nature, including the
-transportation, transmission or distribution of gas or electricity, even
-if sold separately;
-  * NB Effective June 1, 2019
-(B) telephony and telegraphy and telephone and telegraph service of
-whatever nature except interstate and international telephony and
-telegraphy and telephone and telegraph service and except any
-telecommunications service the receipts from the sale of which are
+the following:  (A) gas, electricity, refrigeration and steam, and gas,
+electric, refrigeration and steam service of whatever nature, including
+the transportation, transmission or distribution of gas or electricity,
+even if sold separately; (B) telephony and telegraphy and telephone and
+telegraph service of whatever nature except interstate and international
+telephony and telegraphy and telephone and telegraph service and except
+any telecommunications service the receipts from the sale of which are
 subject to tax under paragraph two of this subdivision; (C) a telephone
 answering service; and (D) a prepaid telephone calling service.
   (2) The receipts from every sale of mobile telecommunications service

@@ -9,7 +9,7 @@
 - [§ 1105 Imposition of sales tax](1105-imposition-of-sales-tax.md)
 - [§ 1105-A Reduced tax rate on certain energy sources and services](1105a-reduced-tax-rate-on-certain-energy-sources-and-services.md)
 - [§ 1105-B Exemptions for certain parts, tools, supplies and services relating to tangible personal property used or consumed in production](1105b-exemptions-for-certain-parts-tools-supplies-and-services-relating.md)
-- [§ 1105-C Reduced tax rates with respect to certain gas service and electric service](1105c-reduced-tax-rates-with-respect-to-certain-gas-service-and-electric.md)
+- [§ 1105-C Reduced tax rates with respect to certain gas service and electric service](1105c-reduced-tax-rates-with-respect-to-certain-gas-service-and-electric.md) *(repealed)*
 - [§ 1106 Transitional provisions](1106-transitional-provisions.md)
 - [§ 1107 Temporary municipal assistance sales and compensating use taxes for cities of one million or more](1107-temporary-municipal-assistance-sales-and-compensating-use-taxes-for-cities.md)
 - [§ 1108 Temporary municipal assistance sales and compensating use taxes for cities of under one million](1108-temporary-municipal-assistance-sales-and-compensating-use-taxes-for-cities.md)

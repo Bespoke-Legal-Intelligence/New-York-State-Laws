@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 1105-C", "kind": "section", "law_id": "TAX", "location_id": "1105-C", "path": "ARTICLE 28 › PART 2 › SECTION 1105-C", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/1105-C.md", "title": "Reduced tax rates with respect to certain gas service and electric service"} -->
+﻿<!-- nyslaw {"citation": "Tax Law § 1105-C", "kind": "section", "law_id": "TAX", "location_id": "1105-C", "path": "ARTICLE 28 › PART 2 › SECTION 1105-C", "repealed": true, "repealed_date": "2019-06-07", "source": "nys-laws:TAX/1105-C.md", "title": "Reduced tax rates with respect to certain gas service and electric service"} -->
 # Tax Law § 1105-C — Reduced tax rates with respect to certain gas service and electric service
 
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 2 — Imposition of Taxes](README.md)
+
+**Repealed** (7 Jun 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1105-C. Reduced tax rates with respect to certain gas service and

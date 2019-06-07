@@ -675,14 +675,6 @@ exclusively in the production of gas, electricity, refrigeration or
 steam; (x) shall omit, unless such city elects otherwise, the provision
 for refund or credit contained in clause six of subdivision (a) or in
 subdivision (d) of section eleven hundred nineteen of this chapter;
-* (xi) shall provide that section eleven hundred five-C of this chapter
-does not apply to such taxes, and shall tax receipts from every sale,
-other than sales for resale, of gas service or electric service of
-whatever nature, including the transportation, transmission or
-distribution of gas or electricity, even if sold separately, at the rate
-set forth in clause one of subparagraph (i) of the opening paragraph of
-this section;
-  * NB Repealed June 1, 2019
 (xii) shall omit, unless such city elects otherwise, the exemption for
 residential solar energy systems equipment and electricity provided in
 subdivision (ee) of section eleven hundred fifteen of this chapter;

@@ -4,8 +4,8 @@
 [Tax Law](../README.md) › [Article 28-A — Special Tax On Passenger Car Rentals](README.md)
 
 ```text
-  * § 1166-b. Special supplemental tax on passenger car rentals outside
-of the metropolitan commuter transportation district. (a) In addition to
+  § 1166-b. Special supplemental tax on passenger car rentals outside of
+the metropolitan commuter transportation district. (a) In addition to
 the tax imposed under section eleven hundred sixty of this article and
 in addition to any tax imposed under any other article of this chapter,
 there is hereby imposed and there shall be paid a tax at the rate of six
@@ -28,5 +28,4 @@ the use of such property, including any charges for shipping or delivery
 as described in paragraph three of subdivision (b) of section eleven
 hundred one of this chapter, but excluding any credit for tangible
 personal property accepted in part payment and intended for resale.
-  * NB Effective June 1, 2019
 ```

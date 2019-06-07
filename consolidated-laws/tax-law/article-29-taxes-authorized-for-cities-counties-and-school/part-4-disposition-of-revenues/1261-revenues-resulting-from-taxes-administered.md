@@ -191,8 +191,8 @@ and make payments described in this paragraph, the city of New York has
 no right, title or interest in or to those taxes, penalties and interest
 required to be paid into the above referenced central business district
 tolling capital lockbox.
-  * (5-a) However, after the comptroller has made the payments required
-by paragraphs two, three and five of this subdivision, for each
+  (5-a) However, after the comptroller has made the payments required by
+paragraphs two, three and five of this subdivision, for each
 municipality that received a base level grant in state fiscal year two
 thousand eighteen-two thousand nineteen but not in state fiscal year two
 thousand nineteen-two thousand twenty under the aid and incentives for
@@ -210,7 +210,6 @@ fifteenth, two thousand twenty and by such date annually thereafter. No
 county shall have any right, title or interest in or to the taxes,
 penalties and interest required to be withheld and distributed pursuant
 to this paragraph.
-  * NB Effective June 1, 2019
   (6) Where the amount so paid over to any city, county, school district
 or the special sales and compensating use tax fund for the city of
 Yonkers in any such distribution or to any such authority is more or

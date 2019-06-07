@@ -29,8 +29,6 @@ Section 1101.   Definitions.
         1105-B. Exemptions for certain parts, tools, supplies and
                   services relating to tangible personal property used
                   or consumed in production.
-        1105-C. Reduced tax rates with respect to certain gas service
-                  and electric service.
         1106.   Transitional provisions.
         1107.   Temporary municipal assistance sales and compensating
                   use taxes for cities of one million or more.
