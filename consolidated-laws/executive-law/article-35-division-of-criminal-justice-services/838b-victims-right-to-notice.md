@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
 ```text
-  * § 838-b. Victim's right to notice. Each police agency, prosecutorial
+  § 838-b. Victim's right to notice. Each police agency, prosecutorial
 agency and other law enforcement agency with jurisdiction over a sexual
 offense shall, upon request of the victim who has consented to report
 such offense to law enforcement, provide the sexual offense victim with
@@ -23,5 +23,4 @@ sexual offense evidence kit shall notify the sexual offense victim at
 least ninety days prior to the expiration of the twenty-year storage
 period in accordance with paragraph (k) of subdivision two of section
 twenty-eight hundred five-i of the public health law.
-  * NB Effective June 19, 2019
 ```

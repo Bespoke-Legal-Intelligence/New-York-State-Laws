@@ -227,9 +227,7 @@ for the city of New York shall implement the requirements of this
 subdivision.
   (f) The immunization status of children exempt from immunizations
 pursuant to subdivision eight of section twenty-one hundred sixty-four
-of this title and a parent claiming exemption pursuant to subdivision
-nine of section twenty-one hundred sixty-four of this title shall be
-reported by the health care provider.
+of this title shall be reported by the health care provider.
   6. In the city of New York, the commissioner of the department of
 health and mental hygiene of the city of New York may maintain its
 existing registry consistent with the requirements of this section and

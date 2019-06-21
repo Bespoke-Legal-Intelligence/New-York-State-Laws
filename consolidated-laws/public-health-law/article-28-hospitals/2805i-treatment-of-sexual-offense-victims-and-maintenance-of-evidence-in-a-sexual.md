@@ -201,17 +201,7 @@ identify the offenses subject to the provisions of this section, provide
 a specific definition of sexual offense evidence and require each
 hospital to contact its local police agency and forensic laboratory to
 determine their specific needs or requirements.
-  * 6. On or before November thirtieth, two thousand two, the
-commissioner shall make a report to the governor, the temporary
-president of the senate and the speaker of the assembly concerning the
-sexual assault forensic examiner program established under subdivision
-four-b of this section. Such report shall include an evaluation of the
-efficacy of such program in obtaining useful forensic evidence in sexual
-offense cases and assuring quality treatment to sex offense victims.
-Such report shall also recommend whether this program should be expanded
-and shall estimate the financial cost, if any, of such expansion.
-  * NB Effective until June 19, 2019
-  * 6. (a) The department, in consultation with the division of criminal
+  6. (a) The department, in consultation with the division of criminal
 justice services, the office of victim services, hospitals, other health
 care providers and victim advocacy organizations, shall publish a sexual
 assault victim bill of rights for purposes of informing sexual offense
@@ -279,15 +269,13 @@ victim, the health care professional conducting the exam, police agency,
 prosecutorial agency or other law enforcement agency shall inform the
 victim of the victim's rights by providing a copy of this sexual assault
 victim bill of rights and offering to explain such rights.
-  * NB Effective June 19, 2019
-  * 7. On or before November thirtieth, two thousand two, the
-commissioner shall make a report to the governor, the temporary
-president of the senate and the speaker of the assembly concerning the
-sexual assault forensic examiner program established under subdivision
-four-b of this section. Such report shall include an evaluation of the
-efficacy of such program in obtaining useful forensic evidence in sexual
-offense cases and assuring quality treatment to sex offense victims.
-Such report shall also recommend whether this program should be expanded
-and shall estimate the financial cost, if any, of such expansion.
-  * NB Effective June 19, 2019
+  7. On or before November thirtieth, two thousand two, the commissioner
+shall make a report to the governor, the temporary president of the
+senate and the speaker of the assembly concerning the sexual assault
+forensic examiner program established under subdivision four-b of this
+section. Such report shall include an evaluation of the efficacy of such
+program in obtaining useful forensic evidence in sexual offense cases
+and assuring quality treatment to sex offense victims. Such report shall
+also recommend whether this program should be expanded and shall
+estimate the financial cost, if any, of such expansion.
 ```

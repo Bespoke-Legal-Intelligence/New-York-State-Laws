@@ -694,12 +694,8 @@ gelatin capsule in a U.S. Food and Drug Administration approved product.
   Some other names for dronabinol include: (6aR-trans)-6a, 7, 8,
 10a-tetrahydro-6, 6, 9-trimethyl-3-pentyl-6H-dibenzo{b,d} pyran-1-o1, or
 (-)-delta-9-(trans) - tetrahydrocannabinol.
-  * (g) Chorionic gonadotropin. Unless specifically excepted or unless
+  (g) Chorionic gonadotropin. (1) Unless specifically excepted or unless
 listed in another schedule any material, compound, mixture, or
-preparation which contains any amount of chorionic gonadotropin.
-  * NB Effective until June 19, 2019
-  * (g) Chorionic gonadotropin. (1) Unless specifically excepted or
-unless listed in another schedule any material, compound, mixture, or
 preparation which contains any amount of chorionic gonadotropin.
   (2) Paragraph one of this subdivision shall not include any substance
 containing chorionic gonadotropin expressly intended for administration
@@ -711,7 +707,6 @@ substances for other than implantation or injection to cattle or
 nonhuman species shall be subject to the same penalties as a
 practitioner who violates the provisions of this section or any other
 penalties prescribed by law.
-  * NB Effective June 19, 2019
   Schedule IV. (a) Schedule IV shall consist of the drugs and other
 substances, by whatever official name, common or usual name, chemical
 name, or brand name designated, listed in this section.

@@ -94,8 +94,32 @@ consent shall be given for immunization to be administered by a health
 officer in the public employ, or by a school physician or nurse. The
 form shall provide for the execution of a consent by such person and it
 shall also state that such person need not execute such consent if
-subdivision eight or nine of this section apply to such child.
+subdivision eight of this section applies to such child.
   7. (a) No principal, teacher, owner or person in charge of a school
+shall permit any child to be admitted to such school, or to attend such
+school, in excess of fourteen days, without the certificate provided for
+in subdivision five of this section or some other acceptable evidence of
+the child's immunization against poliomyelitis, mumps, measles,
+diphtheria, rubella, varicella, hepatitis B, pertussis, tetanus, and,
+where applicable, Haemophilus influenzae type b (Hib), meningococcal
+disease, and pneumococcal disease; provided, however, such fourteen day
+period may be extended to not more than thirty days for an individual
+student by the appropriate principal, teacher, owner or other person in
+charge where such student is transferring from out-of-state or from
+another country and can show a good faith effort to get the necessary
+certification or other evidence of immunization or where the parent,
+guardian, or any other person in parental relationship to such child can
+demonstrate that a child has received at least the first dose in each
+immunization series required by this section and has age appropriate
+appointments scheduled to complete the immunization series according to
+the Advisory Committee on Immunization Practices Recommended
+Immunization Schedules for Persons Aged 0 through 18 Years.
+  (b) A parent, a guardian or any other person in parental relationship
+to a child denied school entrance or attendance may appeal by petition
+to the commissioner of education in accordance with the provisions of
+section three hundred ten of the education law.
+  * NB Effective until June 30, 2020
+  * 7. (a) No principal, teacher, owner or person in charge of a school
 shall permit any child to be admitted to such school, or to attend such
 school, in excess of fourteen days, without the certificate provided for
 in subdivision five of this section or some other acceptable evidence of
@@ -112,6 +136,7 @@ certification or other evidence of immunization.
 to a child denied school entrance or attendance may appeal by petition
 to the commissioner of education in accordance with the provisions of
 section three hundred ten of the education law.
+  * NB Effective June 30, 2020
   8. If any physician licensed to practice medicine in this state
 certifies that such immunization may be detrimental to a child's health,
 the requirements of this section shall be inapplicable until such
@@ -139,11 +164,6 @@ an immunizing agent or agents shall be administered as required by
 subdivision two of this section, the commissioner shall arrange for such
 administration and may recover the cost thereof from the amount of state
 aid to which the local health authority would otherwise be entitled.
-  9. This section shall not apply to children whose parent, parents, or
-guardian hold genuine and sincere religious beliefs which are contrary
-to the practices herein required, and no certificate shall be required
-as a prerequisite to such children being admitted or received into
-school or attending school.
   10. The commissioner may adopt and amend rules and regulations to
 effectuate the provisions and purposes of this section.
   11. Every school shall annually provide the commissioner, on forms
