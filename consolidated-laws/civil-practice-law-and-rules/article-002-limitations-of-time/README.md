@@ -18,7 +18,7 @@
 - [§ 211 Actions to be commenced within twenty years](211-actions-to-be-commenced-within-twenty-years.md)
 - [§ 212 Actions to be commenced within ten years](212-actions-to-be-commenced-within-ten-years.md)
 - [§ 213 Actions to be commenced within six years: where not otherwise provided for; on contract; on sealed instrument; on bond or note, and mortg...](213-actions-to-be-commenced-within-six-years-where-not-otherwise-provided.md)
-- [§ 213-A Actions to be commenced within four years; residential rent overcharge](213a-actions-to-be-commenced-within-four-years-residential-rent-overcharge.md)
+- [§ 213-A Residential rent overcharge](213a-residential-rent-overcharge.md)
 - [§ 213-B Action by a victim of a criminal offense](213b-action-by-a-victim-of-a-criminal-offense.md)
 - [§ 213-C Action by victim of conduct constituting certain sexual offenses](213c-action-by-victim-of-conduct-constituting-certain-sexual-offenses.md)
 - [§ 214 Actions to be commenced within three years: for non-payment of money collected on execution; for penalty created by statute; to recover c...](214-actions-to-be-commenced-within-three-years-for-non-payment-of-money-collected.md)
@@ -102,8 +102,7 @@
                  property; by state based on misappropriation of public
                  property; based on mistake; by corporation against
                  director, officer or stockholder; based on fraud.
-        213-a. Actions to be commenced within four years; residential
-                 rent overcharge.
+        213-a. Residential rent overcharge.
         213-b. Action by a victim of a criminal offense.
         213-c. Action by victim of conduct constituting certain sexual
                  offenses.

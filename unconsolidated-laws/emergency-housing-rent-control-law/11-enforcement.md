@@ -4,7 +4,7 @@
 [Emergency Housing Rent Control Law](README.md)
 
 ```text
-  * § 11. Enforcement. 1. Whenever in the judgment of the commission any
+  § 11. Enforcement. 1. Whenever in the judgment of the commission any
 person has engaged or is about to engage in any acts or practices which
 constitute or will constitute a violation of any provision of section
 ten of this act, the commission may make application to the supreme
@@ -140,5 +140,4 @@ liable to the tenant for three times the damages sustained on account of
 such conduct plus reasonable attorney's fees and costs as determined by
 the court. In addition to any other damages the cost of removal of
 property shall be a lawful measure of damages.
-  * NB Effective until June 16, 2019
 ```

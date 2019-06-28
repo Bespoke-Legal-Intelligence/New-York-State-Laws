@@ -306,11 +306,11 @@ a person shall be presumed to be regularly or systematically soliciting
 business in this state if, for the immediately preceding four quarterly
 periods ending on the last day of February, May, August and November,
 the cumulative total of such person's gross receipts from sales of
-property delivered in this state exceeds three hundred thousand dollars
+property delivered in this state exceeds five hundred thousand dollars
 and such person made more than one hundred sales of property delivered
 in this state, unless such person can demonstrate, to the satisfaction
 of the commissioner, that he cannot reasonably be expected to have gross
-receipts in excess of three hundred thousand dollars or more than one
+receipts in excess of five hundred thousand dollars or more than one
 hundred sales of property delivered in this state for the next
 succeeding four quarterly periods ending on the last day of February,
 May, August and November.
@@ -944,8 +944,8 @@ such person has no physical presence in New York and, for the
 immediately preceding four quarterly periods ending on the last day of
 February, May, August and November, can show that the cumulative total
 gross receipts of sales it has made or facilitated of property delivered
-in this state does not exceed three hundred thousand dollars or that
-such person has not made or facilitated more than one hundred sales of
+in this state does not exceed five hundred thousand dollars or that such
+person has not made or facilitated more than one hundred sales of
 property delivered in this state. However, such person may elect to
 register as a marketplace provider, and, once registered, will be
 subject to the provisions of this article.

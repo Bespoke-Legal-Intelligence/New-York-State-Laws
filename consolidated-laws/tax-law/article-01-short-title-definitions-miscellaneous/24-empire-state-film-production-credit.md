@@ -175,9 +175,12 @@ with a Noise Criteria ("NC") of 30 or better, has sufficient heating and
 air conditioning for shooting without the need for supplemental units,
 incorporates a permanent grid and sufficient built-in electric service
 for shooting without the need for generators, and is column-free with a
-clear height of at least sixteen feet under the permanent grid; and (ii)
-an armory owned by the state or city of New York located in the city of
-New York that does not satisfy the criteria of subparagraph (i) of this
+clear height of at least sixteen feet under the permanent grid for
+facilities constructed on or after January first, two thousand nineteen,
+and at least twelve feet under the permanent grid for facilities
+constructed before January first, two thousand nineteen; and (ii) an
+armory owned by the state or city of New York located in the city of New
+York that does not satisfy the criteria of subparagraph (i) of this
 paragraph shall be treated as a qualified film production facility upon
 certification by the governor's office of motion picture and television
 development of a petition submitted to that office by a qualified film
@@ -308,4 +311,42 @@ taxable year the production of the qualified film is complete, or the
 taxable year immediately following the allocation year for which the
 film has been allocated credit by the governor's office for motion
 picture and television development.
+  (f) (1) With regard to certificates of tax credit issued on or after
+January first, two thousand twenty, the commissioner of economic
+development shall reduce by one-quarter of one percent the amount of
+credit allowed to a taxpayer and this reduced amount shall be reported
+on a certificate of tax credit issued pursuant to this section and the
+regulations promulgated by the commissioner of economic development to
+implement this credit program.
+  (2) By January thirty-first of each year, the commissioner of economic
+development shall report to the comptroller the total amount of such
+reductions of tax credit during the immediately preceding calendar year.
+On or before March thirty-first of each year, the comptroller shall
+transfer without appropriations from the general fund to the empire
+state entertainment diversity job training development fund established
+under section ninety-seven-ff of the state finance law an amount equal
+to the total amount of such reductions reported by the commissioner of
+economic development for the immediately preceding calendar year.
+  (3) Notwithstanding paragraph two of this subdivision, the following
+provisions shall apply with respect to reductions of tax credit in two
+thousand twenty. (i) The commissioner of economic development shall
+report to the comptroller by June first, two thousand twenty the total
+amount of such reductions of tax credit during the period of January
+first, two thousand twenty through May fifteenth, two thousand twenty.
+On or before July first, two thousand twenty, the comptroller shall
+transfer without appropriations from the general fund to the empire
+state entertainment diversity job training development fund an amount
+equal to the total amount of such reductions reported by the
+commissioner of economic development for the period of January first,
+two thousand twenty through May fifteenth, two thousand twenty. (ii) By
+January thirty-first, two thousand twenty-one, the commissioner of
+economic development shall report to the comptroller the total amount of
+such reductions of tax credit during the period of May sixteenth, two
+thousand twenty through December thirty-first, two thousand twenty. On
+or before March thirty-first, two thousand twenty-one, the comptroller
+shall transfer without appropriations from the general fund to the
+empire state entertainment diversity job training development fund an
+amount equal to the total amount of such reductions reported by the
+commissioner of economic development for the period of May sixteenth,
+two thousand twenty through December thirty-first, two thousand twenty.
 ```

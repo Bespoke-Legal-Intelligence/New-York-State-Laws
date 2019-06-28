@@ -8,19 +8,19 @@
 | Senate code | ETP |
 | Type | Unconsolidated law |
 | Session law | L. 1974, ch. 576 |
-| Sections | 17 |
-| Last changed | 3 Jul 2015 |
+| Sections | 18 |
+| Last changed | 28 Jun 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Tenant Protection Act 576/74 |
 
-**Short title (from the law itself):** * Section 1. Short title. This act shall be known and may be cited as the "emergency tenant protection act of nineteen seventy-four". * NB Expires June 16, 2019
+**Short title (from the law itself):** Section 1. Short title. This act shall be known and may be cited as the "emergency tenant protection act of nineteen seventy-four".
 
 ## Chapter text as published
 
 ```text
   § 4. The emergency tenant protection act of nineteen hundred
 seventy-four is hereby enacted to read as follows:
-                    * EMERGENCY TENANT PROTECTION ACT
+                     EMERGENCY TENANT PROTECTION ACT
                         OF NINETEEN SEVENTY-FOUR
 Section 1.    Short title.
         2.    Legislative finding.
@@ -32,6 +32,7 @@ Section 1.    Short title.
 
 ## Recent changes
 
+- [28 Jun 2019](../../changes/2019/2019-06-28.md): 16 amended, 1 added
 - [3 Jul 2015](../../changes/2015/2015-07-03.md): 17 amended
 - [26 Jun 2015](../../changes/2015/2015-06-26.md): 17 amended
 
@@ -49,6 +50,7 @@ Section 1.    Short title.
 - [§ 9 Application for adjustment of initial legal regulated rent](09-application-for-adjustment-of-initial-legal-regulated-rent.md)
 - [§ 10 Regulations](10-regulations.md)
 - [§ 10-A Right to sublease](10a-right-to-sublease.md)
+- [§ 10-B Major capital improvements and individual apartment improvements in rent regulated units](10b-major-capital-improvements-and-individual-apartment-improvements-in-rent.md)
 - [§ 11 Non-waiver of rights](11-non-waiver-of-rights.md)
 - [§ 12 Enforcement and procedures](12-enforcement-and-procedures.md)
 - [§ 12-A Rent registration](12a-rent-registration.md)

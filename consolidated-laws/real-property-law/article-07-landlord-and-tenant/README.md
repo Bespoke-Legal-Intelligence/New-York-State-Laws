@@ -16,11 +16,14 @@
 - [§ 226 Effect of renewal on sub-lease](226-effect-of-renewal-on-sub-lease.md)
 - [§ 226-A Effect of new lease on tenant's right to remove fixtures or improvements](226a-effect-of-new-lease-on-tenants-right-to-remove-fixtures-or-improvements.md)
 - [§ 226-B Right to sublease or assign](226b-right-to-sublease-or-assign.md)
+- [§ 226-C Notice of rent increase or non-renewal of residential tenancy](226c-notice-of-rent-increase-or-non-renewal-of-residential-tenancy.md)
 - [§ 227 When tenant may surrender premises](227-when-tenant-may-surrender-premises.md)
 - [§ 227-A Termination of residential lease by senior citizens moving to a residence of a family member or entering certain health care facilities, ...](227a-termination-of-residential-lease-by-senior-citizens-moving-to-a-residence.md)
 - [§ 227-B Termination of certain contracts by senior citizens](227b-termination-of-certain-contracts-by-senior-citizens.md)
 - [§ 227-C Termination of residential lease by victims of domestic violence](227c-termination-of-residential-lease-by-victims-of-domestic-violence.md)
 - [§ 227-D Discrimination based on domestic violence status; prohibited](227d-discrimination-based-on-domestic-violence-status-prohibited.md)
+- [§ 227-E Landlord duty to mitigate damages](227e-landlord-duty-to-mitigate-damages.md)
+- [§ 227-F Denial on the basis of involvement in prior disputes prohibited](227f-denial-on-the-basis-of-involvement-in-prior-disputes-prohibited.md)
 - [§ 228 Termination of tenancies at will or by sufferance, by notice](228-termination-of-tenancies-at-will-or-by-sufferance-by-notice.md)
 - [§ 229 Liability of tenant holding over after giving notice of intention to quit](229-liability-of-tenant-holding-over-after-giving-notice-of-intention-to-quit.md)
 - [§ 230 Right of tenants to form, join or participate in tenants' groups](230-right-of-tenants-to-form-join-or-participate-in-tenants-groups.md)
@@ -32,20 +35,22 @@
 - [§ 232-C Holding over by a tenant after expiration of a term longer than one month; effect of acceptance of rent](232c-holding-over-by-a-tenant-after-expiration-of-a-term-longer-than-one-month-effect.md)
 - [§ 233 Manufactured home parks; duties, responsibilities](233-manufactured-home-parks-duties-responsibilities.md)
 - [§ 233-A Sale of manufactured home parks](233a-sale-of-manufactured-home-parks.md)
-- [§ 234 Tenants' right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property](234-tenants-right-to-recover-attorneys-fees-in-actions-or-summary-proceedings.md)
+- [§ 233-B Manufactured home parks; rent increases](233b-manufactured-home-parks-rent-increases.md)
+- [§ 234 Right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property](234-right-to-recover-attorneys-fees-in-actions-or-summary-proceedings-arising-out.md)
 - [§ 235 Wilful violations](235-wilful-violations.md)
 - [§ 235-A Tenant right to offset payments and entitlement to damages in certain cases](235a-tenant-right-to-offset-payments-and-entitlement-to-damages-in-certain-cases.md)
 - [§ 235-B Warranty of habitability](235b-warranty-of-habitability.md)
 - [§ 235-BB Certificates of occupancy; required disclosure to tenant](235bb-certificates-of-occupancy-required-disclosure-to-tenant.md)
 - [§ 235-C Unconscionable lease or clause](235c-unconscionable-lease-or-clause.md)
 - [§ 235-D Harassment](235d-harassment.md)
-- [§ 235-E Duty of landlord to provide written receipt](235e-duty-of-landlord-to-provide-written-receipt.md)
+- [§ 235-E Duty to provide a written receipt](235e-duty-to-provide-a-written-receipt.md)
 - [§ 235-F Unlawful restrictions on occupancy](235f-unlawful-restrictions-on-occupancy.md)
 - [§ 235-G Electronic billing and/or payment of rent](235g-electronic-billing-and-or-payment-of-rent.md)
 - [§ 236 Assignment of lease of a deceased tenant](236-assignment-of-lease-of-a-deceased-tenant.md)
 - [§ 237 Discrimination in leases with respect to bearing of children](237-discrimination-in-leases-with-respect-to-bearing-of-children.md)
 - [§ 237-A Discrimination against children in dwelling houses and manufactured home parks](237a-discrimination-against-children-in-dwelling-houses-and-manufactured-home-parks.md)
 - [§ 238 Agreements or contracts for privileges to deal with occupants of tenements, apartment houses or bungalow colonies](238-agreements-or-contracts-for-privileges-to-deal-with-occupants-of-tenements.md)
+- [§ 238-A Limitation on fees](238a-limitation-on-fees.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -65,6 +70,8 @@ Section  220.   Action for use and occupation.
          226-a. Effect of new lease on tenant's right to remove fixtures
                   or improvements.
          226-b. Right to sublease or assign.
+         226-c. Notice of rent increase or non-renewal of residential
+                  tenancy.
          227.   When tenant may surrender premises.
          227-a. Termination of residential lease by senior citizens
                   moving to a residence of a family member or entering
@@ -74,6 +81,9 @@ Section  220.   Action for use and occupation.
          227-c. Termination of residential lease by victims of domestic
                   violence.
          227-d. Discrimination based on domestic violence status;
+                  prohibited.
+         227-e. Landlord duty to mitigate damages.
+         227-f. Denial on the basis of involvement in prior disputes
                   prohibited.
          228.   Termination of tenancies at will or by sufferance, by
                   notice.
@@ -93,9 +103,10 @@ Section  220.   Action for use and occupation.
                   longer than one month; effect of acceptance of rent.
          233.   Manufactured home parks; duties, responsibilities.
          233-a. Sale of manufactured home parks.
-         234.   Tenants' right to recover attorneys' fees in actions or
-                  summary proceedings arising out of leases of
-                  residential property.
+         233-b. Manufactured home parks; rent increases.
+         234.   Right to recover attorneys' fees in actions or summary
+                  proceedings arising out of leases of residential
+                  property.
          235.   Wilful violations.
          235-a. Tenant right to offset payments and entitlement to
                   damages in certain cases.
@@ -104,7 +115,7 @@ Section  220.   Action for use and occupation.
                   tenant.
          235-c. Unconscionable lease or clause.
          235-d. Harassment.
-         235-e. Duty of landlord to provide written receipt.
+         235-e. Duty to provide written receipt.
          235-f. Unlawful restrictions on occupancy.
          235-g. Electronic billing and/or payment of rent.
          236.   Assignment of lease of a deceased tenant.
@@ -115,6 +126,7 @@ Section  220.   Action for use and occupation.
          238.   Agreements or contracts for privileges to deal with
                   occupants of tenements, apartment houses or bungalow
                   colonies.
+         238-a. Limitation on fees.
 ```
 
 </details>

@@ -12,12 +12,11 @@
 <summary>Official heading of Article 241, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 241
+                               ARTICLE 241
                   HARASSMENT OF RENT REGULATED TENANTS
 Section 241.00 Harassment of a rent regulated tenant; definition of
                  terms.
         241.05 Harassment of a rent regulated tenant.
-                 * NB Repealed June 16, 2019
 ```
 
 </details>

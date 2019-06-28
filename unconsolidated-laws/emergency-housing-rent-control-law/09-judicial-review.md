@@ -4,7 +4,7 @@
 [Emergency Housing Rent Control Law](README.md)
 
 ```text
-  * § 9. Judicial review. 1. Any person who is aggrieved by the final
+  § 9. Judicial review. 1. Any person who is aggrieved by the final
 determination of a protest may, in accordance with article seventy-eight
 of the civil practice law and rules, within sixty days after such
 determination, commence a proceeding in the supreme court praying that
@@ -119,5 +119,4 @@ provided in this subdivision, shall any retroacitve effect be given to
 any judgment setting aside a provision of a regulation or order.
   4. The method prescribed herein for the judicial review of a
 regulation or order shall be exclusive.
-  * NB Effective until June 16, 2019
 ```

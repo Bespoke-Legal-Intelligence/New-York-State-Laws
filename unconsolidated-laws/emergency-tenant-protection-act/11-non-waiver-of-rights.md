@@ -4,9 +4,8 @@
 [Emergency Tenant Protection Act](README.md)
 
 ```text
-  * § 11. Non-waiver of rights. Any provision of a lease or other rental
+  § 11. Non-waiver of rights. Any provision of a lease or other rental
 agreement which purports to waive a tenant's rights under this act or
 regulations promulgated pursuant thereto shall be void as contrary to
 public policy.
-  * NB Expires June 16, 2019
 ```

@@ -4,7 +4,7 @@
 [Emergency Tenant Protection Act](README.md)
 
 ```text
-  * § 9. Application for adjustment of initial legal regulated rent. a.
+  § 9. Application for adjustment of initial legal regulated rent. a.
 The owner or tenant of a housing accommodation described in paragraph
 one or two of subdivision b of section six may, within sixty days of the
 local effective date of this act or the commencement of the first
@@ -58,5 +58,4 @@ rent of such housing accommodation.
 city having a population of one million or more shall be subject to
 adjustment in accordance with the provisions of the New York city rent
 stabilization law as amended.
-  * NB Expires June 16, 2019
 ```

@@ -174,7 +174,7 @@ small business investment company;
 directly or indirectly and any other amount directly attributable as a
 carrying charge or otherwise to subsidiary capital or to income, gains
 or losses from subsidiary capital, or to the income described in
-subparagraph (S) of paragraph one of this subdivision;
+subparagraphs (S), (U) and (V) of paragraph one of this subdivision;
   (I) in the case of a life insurance company, the provisions of
 subparagraph (B) of this paragraph shall not apply to the policyholders'
 share of the items described in such subparagraph. For purposes of this
@@ -271,6 +271,8 @@ article twenty-three of this chapter.
 (c) of section 965 of the internal revenue code.
   (X) The amount of any federal deduction allowed pursuant to section
 250(a)(1)(A) of the internal revenue code.
+  (Y) The amount of the federal deduction allowed pursuant to section
+250(a)(1)(B) of the internal revenue code.
   (3) In determining entire net income, there shall be subtracted, to
 the extent not deductible in determining federal taxable income:
   (A) interest on indebtedness incurred or continued to purchase or

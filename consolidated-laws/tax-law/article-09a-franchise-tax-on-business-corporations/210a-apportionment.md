@@ -575,18 +575,21 @@ such by the commodities futures trading commission, and shall include an
 OTC derivatives dealer as defined under regulations of the securities
 and exchange commission at title 17, part 240, section 3b-12 of the code
 of federal regulations (17 CFR 240.3b-12).
-  5-a. Net global intangible low-taxed income. Notwithstanding any other
-provision of this section, net global intangible low-taxed income shall
-be included in the apportionment fraction as provided in this
-subdivision. Receipts constituting net global intangible low-taxed
-income shall not be included in the numerator of the apportionment
-fraction. Receipts constituting net global intangible low-taxed income
-shall be included in the denominator of the apportionment fraction. For
-purposes of this subdivision, the term "net global intangible low-taxed
-income" means the amount required to be included in the taxpayer's
-federal gross income pursuant to subsection (a) of section 951A of the
-internal revenue code less the amount of the deduction allowed under
-clause (i) of section 250(a)(1)(B) of such code.
+  5-a. Global intangible low-taxed income. (a) Notwithstanding any other
+provision of this section, global intangible low-taxed income shall be
+included in the apportionment fraction as provided in this subdivision.
+  (b) For New York C corporations, global intangible low-taxed income
+shall not be included in the numerator of the apportionment fraction.
+Five percent of global intangible low-taxed income shall be included in
+the denominator of the apportionment fraction.
+  (c) For New York S corporations, global intangible low-taxed income
+shall not be included in the numerator of the apportionment fraction.
+Global intangible low-taxed income shall be included in the denominator
+of the apportionment fraction.
+  (d) For purposes of this subdivision, the term " global intangible
+low-taxed income" means the amount required to be included in the
+taxpayer's federal gross income pursuant to subsection (a) of section
+951A of the internal revenue code.
   6. Receipts from railroad and trucking business. Receipts from the
 conduct of a railroad business (including surface railroad, whether or
 not operated by steam, subway railroad, elevated railroad, palace car or

@@ -176,14 +176,19 @@ subparagraph (ii) of this paragraph, the income required to be included
 in the taxpayer's federal gross income pursuant to subsection (a) of
 section 951 of the internal revenue code, received from a corporation
 that is conducting a unitary business with the taxpayer but is not
-included in a combined report with the taxpayer, and (ii) such income
+included in a combined report with the taxpayer, (ii) such income
 required to be included in the taxpayer's federal gross income pursuant
 to subsection (a) of such section 951 of the internal revenue code by
 reason of subsection (a) of section 965 of the internal revenue code, as
 adjusted by subsection (b) of section 965 of the internal revenue code,
 and without regard to subsection (c) of such section, received from a
 corporation that is not included in a combined report with the taxpayer,
-less, (iii) in the discretion of the commissioner, any interest
+and (iii) ninety-five percent of the income required to be included in
+the taxpayer's federal gross income pursuant to subsection (a) of
+section 951A of the internal revenue code, without regard to the
+deduction under section 250 of the internal revenue code, received from
+a corporation that is not included in a combined report with the
+taxpayer, less, (iv) in the discretion of the commissioner, any interest
 deductions directly or indirectly attributable to that income. In lieu
 of subtracting from its exempt CFC income the amount of those interest
 deductions, the taxpayer may make a revocable election to reduce its
@@ -195,8 +200,10 @@ the taxpayer must revoke the elections provided for in paragraph (b) of
 subdivision six of this section and paragraph (c) of this subdivision. A
 taxpayer which does not make this election because it has no exempt CFC
 income will not be precluded from making those other elections. The
-income described in subparagraph (ii) of this paragraph shall not
-constitute investment income.
+income described in subparagraphs (ii) and (iii) of this paragraph shall
+not constitute investment income. The income described in subparagraph
+(iii) of this paragraph shall not constitute exempt unitary corporation
+dividends.
   (c) "Exempt unitary corporation dividends" means those dividends from
 a corporation that is conducting a unitary business with the taxpayer
 but is not included in a combined report with the taxpayer, less, in the
@@ -531,6 +538,8 @@ of section two hundred ten-B of this article.
 subsection (c) of section 965 of the internal revenue code.
   (24) The amount of any federal deduction allowed pursuant to section
 250(a)(1)(A) of the internal revenue code.
+  (25) The amount of any federal deduction allowed pursuant to section
+250(a)(1)(B)(i) of the internal revenue code.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

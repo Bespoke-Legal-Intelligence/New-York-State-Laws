@@ -26,7 +26,7 @@ emergency housing rent control law:
 "local emergency housing rent control act".
 ```
 
-[Full chapter text (839 lines)](chapter-text.md)
+[Full chapter text (800 lines)](chapter-text.md)
 
 ## Contents
 

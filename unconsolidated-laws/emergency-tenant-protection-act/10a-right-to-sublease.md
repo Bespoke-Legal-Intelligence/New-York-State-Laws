@@ -4,7 +4,7 @@
 [Emergency Tenant Protection Act](README.md)
 
 ```text
-  * § 10-a. Right to sublease. Units subject to this law may be sublet
+  § 10-a. Right to sublease. Units subject to this law may be sublet
 pursuant to section two hundred twenty-six-b of the real property law
 provided that (a) the rental charged to the subtenant does not exceed
 the legal regulated rent plus a ten percent surcharge payable to the
@@ -51,5 +51,4 @@ event the landlord shall have received any such vacancy increases or
 vacancy surcharges during such seven year period, the vacancy surcharge
 shall be reduced by the amount received by any such vacancy increase or
 vacancy surcharges.
-  * NB Expires June 16, 2019
 ```

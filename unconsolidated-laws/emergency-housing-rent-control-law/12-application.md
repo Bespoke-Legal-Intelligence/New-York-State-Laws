@@ -4,8 +4,8 @@
 [Emergency Housing Rent Control Law](README.md)
 
 ```text
-  * § 12. Application. 1. Whenever the commission shall find that, in
-any municipality specified by the commission, (a) the percentage of
+  § 12. Application. 1. Whenever the commission shall find that, in any
+municipality specified by the commission, (a) the percentage of
 vacancies in all or any particular class of housing accommodations is
 five per centum or more, or, (b) the availability of adequate rental
 housing accommodations and other relevant factors are such as to make
@@ -263,5 +263,4 @@ regulations adopted thereunder, and all the provisions of this act
 applying generally with respect to maximum rents on such housing
 accommodations and evictions therefrom shall apply with respect thereto
 within such city.
-  * NB Effective until June 16, 2019
 ```

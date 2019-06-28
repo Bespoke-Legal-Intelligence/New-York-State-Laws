@@ -128,5 +128,15 @@ section twenty-four of this article.
 this section, see the following provisions of this chapter:
   (1) article 9-A: section 210-B: subdivision 32.
   (2) article 22: section 606: subsection (qq).
+  (e) With regard to certificates of tax credit issued on or after
+January first, two thousand twenty, the commissioner of economic
+development shall reduce by one-quarter of one percent the amount of
+credit allowed to a taxpayer and this reduced amount shall be reported
+on a certificate of tax credit issued pursuant to this section and the
+regulations promulgated by the commissioner of economic development to
+implement this credit program. Such reductions in tax credit shall be
+deposited into the empire state entertainment diversity job training
+development fund as provided in subdivision (f) of section twenty-four
+of this article.
   * NB There are 2 § 31's
 ```

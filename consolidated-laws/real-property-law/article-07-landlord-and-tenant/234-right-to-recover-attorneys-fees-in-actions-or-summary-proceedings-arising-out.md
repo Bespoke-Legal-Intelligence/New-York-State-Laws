@@ -1,11 +1,11 @@
-﻿<!-- nyslaw {"citation": "Real Property Law § 234", "kind": "section", "law_id": "RPP", "location_id": "234", "path": "ARTICLE 7 › SECTION 234", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/234.md", "title": "Tenants' right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property"} -->
-# Real Property Law § 234 — Tenants' right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property
+﻿<!-- nyslaw {"citation": "Real Property Law § 234", "kind": "section", "law_id": "RPP", "location_id": "234", "path": "ARTICLE 7 › SECTION 234", "repealed": false, "repealed_date": null, "source": "nys-laws:RPP/234.md", "title": "Right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property"} -->
+# Real Property Law § 234 — Right to recover attorneys' fees in actions or summary proceedings arising out of leases of residential property
 
 [Real Property Law](../README.md) › [Article 7 — Landlord and Tenant](README.md)
 
 ```text
-  § 234. Tenants' right to recover attorneys' fees in actions or summary
-proceedings arising out of leases of residential property.  Whenever a
+  § 234. Right to recover attorneys' fees in actions or summary
+proceedings arising out of leases of residential property. Whenever a
 lease of residential property shall provide that in any action or
 summary proceeding the landlord may recover attorneys' fees and/or
 expenses incurred as the result of the failure of the tenant to perform
@@ -20,6 +20,7 @@ the landlord against the tenant arising out of the lease, and an
 agreement that such fees and expenses may be recovered as provided by
 law in an action commenced against the landlord or by way of
 counterclaim in any action or summary proceeding commenced by the
-landlord against the tenant. Any waiver of this section shall be void as
+landlord against the tenant. A landlord may not recover attorneys' fees
+upon a default judgment. Any waiver of this section shall be void as
 against public policy.
 ```

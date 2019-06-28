@@ -4,7 +4,7 @@
 [Emergency Housing Rent Control Law](README.md)
 
 ```text
-  * § 10. Prohibitions. 1. It shall be unlawful, regardless of any
+  § 10. Prohibitions. 1. It shall be unlawful, regardless of any
 contract, lease or other obligation heretofore or hereafter entered
 into, for any person to demand or receive any rent for any housing
 accommodations in excess of the maximum rent or otherwise to do or omit
@@ -34,5 +34,4 @@ discontinuance of essential services) which interferes with or disturbs
 or is intended to interfere with or disturb the comfort, repose, peace
 or quiet of the tenant in his use or occupancy of the housing
 accommodations.
-  * NB Effective until June 16, 2019
 ```

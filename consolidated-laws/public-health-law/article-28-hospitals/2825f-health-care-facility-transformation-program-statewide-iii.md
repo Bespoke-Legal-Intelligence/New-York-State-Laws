@@ -97,7 +97,7 @@ twenty-five-e of this article, provided however that the provisions of
 subdivisions three and four of this section shall apply.
   4-b. Authorized amounts to be awarded pursuant to applications
 submitted in response to the request for application number 17648 shall
-be awarded no later than May first, two thousand nineteen.
+be awarded no later than September first, two thousand nineteen.
   5. In determining awards for eligible applicants under this section,
 the commissioner shall consider criteria including, but not limited to:
   (a) the extent to which the proposed project will contribute to the

@@ -5421,11 +5421,13 @@ authorized by this subsection if the parcel that serves as the
 taxpayer's primary residence received the STAR exemption on the
 assessment roll upon which school district taxes for the associated
 fiscal year were levied. Provided, however, that the taxpayer may remove
-this disqualification by renouncing the exemption by December
-thirty-first of the taxable year, as provided by subdivision sixteen of
-section four hundred twenty-five of the real property tax law, and
-making any required payments within the time frame prescribed by section
-four hundred ninety-six of the real property tax law.
+this disqualification by switching to the credit in the manner provided
+by subdivision seventeen of section four hundred twenty-five of the real
+property tax law. Alternatively, the taxpayer may remove this
+disqualification by renouncing the exemption and making any required
+payments in the manner provided by section four hundred ninety-six of
+the real property tax law. Any such switch to the credit or renunciation
+shall be irrevocable.
   (6) Special cases.
   (A) A married couple may not receive a credit pursuant to this
 subsection on more than one residence during any given taxable year,

@@ -111,10 +111,12 @@ administration, and procurement purposes, provided, however, a vendor
 track located within Oneida county, within fifteen miles of a Native
 American class III gaming facility, that has maintained at least ninety
 percent of full-time equivalent employees as they employed in the year
-two thousand sixteen, may withhold up to seventy-five percent of such
-funds for operational expenses upon a determination by the gaming
-commission that such funds are necessary to sustain operation of such
-vendor track;
+two thousand sixteen, may, for each quarter this subparagraph is
+effective, withhold up to seventy-five percent of such funds for
+operational expenses provided such vendor track has filed an affirmation
+with the gaming commission certifying that this additional amount is
+necessary to raise revenues to the same level as expenses during the
+previous quarter;
   * NB Effective until June 29, 2019
 * (i) less ten percent of the total revenue wagered after payout for
 prizes to be retained by the division for operation, administration, and
@@ -147,6 +149,9 @@ facility as defined in 25 U.S.C. §2703(8);
   (4) fifty-six percent for a vendor track located within fifteen miles
 of a Native American class III gaming facility as defined in 25 U.S.C
 §2703(8);
+  (5) forty-nine percent for a video lottery gaming facility authorized
+pursuant to paragraph five of subdivision a of section sixteen hundred
+seventeen-a of this article;
   (B-1) Notwithstanding subparagraph (B) of this paragraph, for the
 period commencing on April first, two thousand nineteen and ending on
 March thirty-first, two thousand twenty, for a vendor track that is
@@ -171,13 +176,14 @@ wagered at the video lottery gaming facility after payout for prizes
 pursuant to this chapter.
   (iii) less any additional vendor's fees. Additional vendor's fees
 shall be calculated as follows:
-  (A) when a vendor track is located within region two of development
-zone two, as such zone is defined in section thirteen hundred ten of the
-racing, pari-mutuel wagering and breeding law, or is located within
-region six of such development zone two and is located within Ontario
-county, the additional vendor fee received by the vendor track shall be
-calculated pursuant to subclause one of this clause; provided, however,
-such additional vendor fee shall not exceed ten percent.
+  (A) when a vendor track is located within region one and is located
+within Orange county or region two of development zone two, as such zone
+is defined in section thirteen hundred ten of the racing, pari-mutuel
+wagering and breeding law, or is located within region six of such
+development zone two and is located within Ontario county, the
+additional vendor fee received by the vendor track shall be calculated
+pursuant to subclause one of this clause; provided, however, such
+additional vendor fee shall not exceed ten percent.
   (1) The additional vendor fee is a percentage of the total revenue
 wagered at the vendor track after payout for prizes pursuant to this
 chapter. That percentage is calculated by subtracting the effective tax
@@ -282,35 +288,39 @@ or interests of the lottery or its programs.
 facility, the division, shall cause the investment in the racing
 industry of a portion of the vendor fee received pursuant to paragraph
 one of this subdivision in the manner set forth in this subdivision.
-With the exception of Aqueduct racetrack or a facility in the county of
-Nassau or Suffolk operated by a corporation established pursuant to
-section five hundred two of the racing, pari-mutuel wagering and
-breeding law, each such track shall dedicate a portion of its vendor
-fees, received pursuant to clause (A), (B), (C), (D), (E), (F), or (G)
-of subparagraph (ii) of paragraph one of this subdivision, for the
-purpose of enhancing purses at such track, in an amount equal to eight
-and three-quarters percent of the total revenue wagered at the vendor
-track after pay out for prizes. One percent of the gross purse
-enhancement amount, as required by this subdivision, shall be paid to
-the gaming commission to be used exclusively to promote and ensure
-equine health and safety in New York. Any portion of such funding to the
-gaming commission unused during a fiscal year shall be returned to the
-video lottery gaming operators on a pro rata basis in accordance with
-the amounts originally contributed by each operator and shall be used
-for the purpose of enhancing purses at such track. One and one-half
-percent of the gross purse enhancement amount at a thoroughbred track,
-as required by this subdivision, shall be paid to an account established
+With the exception of Aqueduct racetrack, a video lottery gaming
+facility authorized pursuant to paragraph five of subdivision a of
+section sixteen hundred seventeen-a of this article or a facility in the
+county of Nassau or Suffolk operated by a corporation established
+pursuant to section five hundred two of the racing, pari-mutuel wagering
+and breeding law, each such track shall dedicate a portion of its vendor
+fees, received pursuant to clause (A), (B), (B-1), (B-2), (C), or (D) of
+subparagraph (ii) of paragraph one of this subdivision, for the purpose
+of enhancing purses at such track, in an amount equal to eight and
+three-quarters percent of the total revenue wagered at the vendor track
+after pay out for prizes. One percent of the gross purse enhancement
+amount, as required by this subdivision, shall be paid to the gaming
+commission to be used exclusively to promote and ensure equine health
+and safety in New York. Any portion of such funding to the gaming
+commission unused during a fiscal year shall be returned to the video
+lottery gaming operators on a pro rata basis in accordance with the
+amounts originally contributed by each operator and shall be used for
+the purpose of enhancing purses at such track. One and one-half percent
+of the gross purse enhancement amount at a thoroughbred track, as
+required by this subdivision, shall be paid to an account established
 pursuant to section two hundred twenty-one-a of the racing, pari-mutuel
 wagering and breeding law to be used exclusively to provide health
 insurance for jockeys. In addition, with the exception of Aqueduct
-racetrack or a facility in the county of Nassau or Suffolk operated by a
-corporation established pursuant to section five hundred two of the
-racing, pari-mutuel wagering and breeding law, one and one-quarter
-percent of total revenue wagered at the vendor track after pay out for
-prizes, received pursuant to clause (A), (B), (C), (D), (E), (F), or (G)
-of subparagraph (ii) of paragraph one of this subdivision, shall be
-distributed to the appropriate breeding fund for the manner of racing
-conducted by such track.
+racetrack, a video lottery gaming facility authorized pursuant to
+paragraph five of subdivision a of section sixteen hundred seventeen-a
+of this article or a facility in the county of Nassau or Suffolk
+operated by a corporation established pursuant to section five hundred
+two of the racing, pari-mutuel wagering and breeding law, one and
+one-quarter percent of total revenue wagered at the vendor track after
+pay out for prizes, received pursuant to clause (A), (B), (B-1), (B-2),
+(C), or (D) of subparagraph (ii) of paragraph one of this subdivision,
+shall be distributed to the appropriate breeding fund for the manner of
+racing conducted by such track.
   Provided, further, that nothing in this paragraph shall prevent each
 track from entering into an agreement, not to exceed five years, with
 the organization authorized to represent its horsemen to increase or
@@ -408,31 +418,6 @@ thoroughbred racing operations at Aqueduct racetrack, Belmont Park
 racetrack and Saratoga race course.
   5. Paragraphs one, two, three and four of this subdivision shall be
 known collectively as the "racing support payments".
-  g. In the event the state elects to construct a video lottery terminal
-facility at the Aqueduct racetrack, all video lottery terminal revenues
-payable to the video lottery gaming operator at the Aqueduct racetrack
-remaining after payment of the racing support payments shall first be
-used to repay the state's advances for (i) confirmation of the chapter
-eleven plan of reorganization and cash advances for the franchised
-corporation's operations following confirmation of the chapter eleven
-plan of reorganization and (ii) the amount expended by the state to
-construct such video lottery terminal facility at Aqueduct racetrack
-pursuant to an agreement with the state. Subparagraphs (i) and (ii) of
-this paragraph shall be defined as the state advance amount and the
-amounts payable to the division of the lottery.
-  h. As consideration for the operation of a video lottery gaming resort
-facility located in Sullivan county, the division shall cause the
-investment in the racing industry at the following amount from the
-vendor fee to be paid as follows:
-  As amount to the horsemen for purses at a licensed racetrack in
-Sullivan county and to the agriculture and New York state horse breeding
-development fund to maintain racing support payments at the same dollar
-levels realized in two thousand thirteen, to be adjusted by the consumer
-price index for all urban consumers, as published annually by the United
-States department of labor bureau of labor statistics. In no
-circumstance shall net proceeds of the lottery, including the proceeds
-from video lottery gaming, be used for the payment of non-lottery
-expenses of the gaming commission, administrative or otherwise.
   f-1. As consideration for operation of video lottery gaming facility
 located in the county of Nassau or Suffolk and operated by a corporation
 established pursuant to section five hundred two of the racing,
@@ -482,4 +467,38 @@ Aqueduct racetrack at the same level realized in two thousand thirteen,
 to be adjusted by the consumer price index for all urban consumers, as
 published annually by the United States department of labor, bureau of
 labor statistics, shall instead be returned to the commission.
+  g. In the event the state elects to construct a video lottery terminal
+facility at the Aqueduct racetrack, all video lottery terminal revenues
+payable to the video lottery gaming operator at the Aqueduct racetrack
+remaining after payment of the racing support payments shall first be
+used to repay the state's advances for (i) confirmation of the chapter
+eleven plan of reorganization and cash advances for the franchised
+corporation's operations following confirmation of the chapter eleven
+plan of reorganization and (ii) the amount expended by the state to
+construct such video lottery terminal facility at Aqueduct racetrack
+pursuant to an agreement with the state. Subparagraphs (i) and (ii) of
+this paragraph shall be defined as the state advance amount and the
+amounts payable to the division of the lottery.
+  h. As consideration for the operation of a video lottery gaming
+facility located in Orange county, the division shall cause the
+investment in the racing industry at the following amount from the
+vendor fee to be paid as follows:
+  As amount to the horsemen for purses at a licensed racetrack in
+Sullivan county in an amount equal to eight and three-quarters percent
+of the total revenue wagered at the video lottery gaming facility, after
+pay out for prizes. The facility located in Orange county, as defined in
+paragraph five of subdivision a of section sixteen hundred seventeen-a
+of this article shall pay to the horsemen at a licensed racetrack at
+Yonkers racetrack an amount to maintain purses for such horsemen at the
+same dollar levels realized in two thousand eighteen, to be adjusted by
+the consumer price index for all urban consumers, as published annually
+by the United States department of labor bureau of labor statistics. In
+addition, one and one-quarter percent of total revenue wagered at the
+video lottery gaming facility after pay out for prizes, received
+pursuant to clause (B) of subparagraph (ii) of paragraph one of
+subdivision b of this section, shall be distributed to the appropriate
+breeding fund for the manner of racing conducted by such track. In no
+circumstance shall net proceeds of the lottery, including the proceeds
+from video lottery gaming, be used for the payment of non-lottery
+expenses of the gaming commission, administrative or otherwise.
 ```

@@ -52,6 +52,60 @@ two of the racing, pari-mutuel wagering and breeding law in the Nassau
 region to develop a facility pursuant to paragraph three of this
 subdivision upon the expiration, termination, or withdrawal of such
 agreement.
+  (5) At a facility located in Orange county to be operated by the
+entity otherwise licensed to operate video lottery gaming at Monticello
+racetrack, provided that: (i) such licensed entity is no longer
+operating video lottery gaming at Monticello racetrack and provided that
+Monticello racetrack is conducting racing operations; (ii) such facility
+in Orange county is not sited within a thirty mile radius of the video
+lottery gaming facility at Yonkers racetrack; and (iii) the licensed
+entity, its subsidiaries and affiliates, including the entity licensed
+to operate a commercial gaming facility in Sullivan county, and the
+entity licensed to operate video lottery gaming at Yonkers racetrack
+enter into a mitigation agreement, to be approved by the gaming
+commission, which shall include, but not be limited to, terms that
+require: (A) the operator of the facility in Orange county to make an
+annual payment to the entity licensed to operate video lottery gaming or
+commercial gaming at Yonkers racetrack to account for the effects that
+siting such facility in Orange county would likely have on the gross
+gaming revenue of the entity licensed to operate at Yonkers racetrack;
+(B) employment levels at the affected facilities; and (C) that upon
+expiration or termination of the agreement, the authority to operate
+video lottery gaming in Orange county shall cease. Notwithstanding any
+other provision of this subdivision, at no time shall an entity
+operating video lottery gaming in Orange county be permitted to apply
+for or receive a license to operate a commercial gaming facility in that
+county.
+  (6) Notwithstanding any other provision of law to the contrary, as a
+condition of the license to operate a video lottery gaming facility
+located in Orange county, such operator shall provide an annual
+certification to the New York state gaming commission that the staffing
+levels at a commercial gaming facility located in zone two, region one
+pursuant to section thirteen hundred ten of the racing, pari-mutuel
+wagering and breeding law (or any successor commercial gaming facility
+located in said region) are no less than one thousand four hundred
+seventy-three full-time, permanent employees. In furtherance of and
+without limiting the foregoing, the licensee for the commercial gaming
+facility located in zone two, region one pursuant to section thirteen
+hundred ten of the racing, pari-mutuel wagering and breeding law (or any
+successor commercial gaming facility located in such region) shall not
+conduct any mass, involuntary layoff events that would trigger worker
+adjustment and retraining notification (WARN) act notifications pursuant
+to article twenty-five-A of the labor law or otherwise result in the
+employment levels at such facility dropping below levels mandated by
+this section. For purposes of this section, "full-time, permanent
+employee" shall mean an employee who has worked at the facility for a
+minimum of thirty-five hours per week for not less than four consecutive
+weeks and who is entitled to receive the usual and customary fringe
+benefits extended to other employees with comparable rank and duties; or
+two part-time employees who have worked at the facility for a combined
+minimum of thirty-five hours per week for not less than four consecutive
+weeks and who are entitled to receive the usual and customary fringe
+benefits extended to other employees with comparable rank and duties.
+  (7) The village of Monticello, Sullivan county, the town of Thompson,
+Sullivan county, and Sullivan county shall continue to receive
+assistance payments made pursuant to section fifty-four-l of the state
+finance law.
   b. Such rules and regulations shall provide, as a condition of
 licensure, that racetracks to be licensed are certified to be in
 compliance with all state and local fire and safety codes, that the
