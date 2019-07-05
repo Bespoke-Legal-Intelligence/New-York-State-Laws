@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
 
 ```text
-  * § 1402-b. Supplemental tax in cities having a population of one
+  § 1402-b. Supplemental tax in cities having a population of one
 million or more. (a) In addition to the taxes imposed by sections
 fourteen hundred two and fourteen hundred two-a of this article, a tax
 is hereby imposed on each conveyance of residential real property or
@@ -63,5 +63,4 @@ provisions shall apply with the same force and effect as if those
 provisions had been set forth in this section except to the extent that
 any provision is either inconsistent with a provision of this section or
 not relevant to the tax authorized by this section.
-  * NB Effective July 1, 2019
 ```

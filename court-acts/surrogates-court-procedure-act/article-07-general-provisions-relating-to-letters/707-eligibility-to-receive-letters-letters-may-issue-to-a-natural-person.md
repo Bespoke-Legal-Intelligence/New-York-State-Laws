@@ -4,12 +4,12 @@
 [Surrogate's Court Procedure Act](../README.md) › [Article 7 — General Provisions Relating to Letters](README.md)
 
 ```text
-§ 707.  Eligibility to receive letters
+§ 707. Eligibility to receive letters
   Letters may issue to a natural person or to a person authorized by law
 to be a fiduciary except as follows:
-  1.  Persons ineligible
-  (a)  an infant
-  (b)  an incompetent
+  1. Persons ineligible
+  (a) an infant
+  (b) an incompetent
   (c) a non-domiciliary alien except one who is a foreign guardian as
 provided in subdivision four of section one thousand seven hundred
 sixteen of this chapter, or one who shall serve with one or more

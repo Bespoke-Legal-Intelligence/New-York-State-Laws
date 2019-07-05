@@ -416,6 +416,12 @@ three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand two, and ending
 November thirtieth, two thousand twenty;
   * NB There are 3 clause (41)'s
+  (42) the county of Westchester is hereby further authorized and
+empowered to adopt and amend local laws, ordinances or resolutions
+imposing such taxes at a rate that is one percent additional to the
+three percent rate authorized above in this paragraph for such county
+for the period beginning August first, two thousand nineteen and ending
+November thirtieth, two thousand twenty;
   (ii) with respect to the following cities * (1) the city of Yonkers is
 hereby further authorized and empowered to adopt and amend local laws,
 ordinances or resolutions imposing such taxes at a rate which is: (a)

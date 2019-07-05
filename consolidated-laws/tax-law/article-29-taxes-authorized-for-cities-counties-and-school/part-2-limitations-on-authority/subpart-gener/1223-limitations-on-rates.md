@@ -4,7 +4,7 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 2 — Limitations On Authority and Exemptions](../README.md) › [Subpart A — General](README.md)
 
 ```text
-  § 1223. Limitations on rates.  (a) No transaction taxable under
+  § 1223. Limitations on rates.  * (a) No transaction taxable under
 sections twelve hundred two through twelve hundred four of this article
 shall be taxed pursuant to this article by any county or by any city
 located therein, or by both, at an aggregate rate in excess of the
@@ -18,25 +18,59 @@ Rensselaer, Tompkins, Wyoming, Columbia, Schuyler, Rockland, Chenango,
 Monroe, Chemung, Seneca, Sullivan, Wayne, Livingston, Schenectady,
 Montgomery, Delaware, Clinton, Niagara, Yates, Lewis, Essex, Dutchess,
 Schoharie, Putnam, Chautauqua, Orange, Oswego, Ontario, Jefferson, St.
-Lawrence or Onondaga and by the county of Cortland and the city of
-Cortland and by the county of Broome and the city of Binghamton and by
-the county of Cayuga and the city of Auburn and by the county of Otsego
-and the city of Oneonta and by the county of Madison and the city of
-Oneida and by the county of Fulton and the city of Gloversville or the
-city of Johnstown as provided in section twelve hundred ten of this
+Lawrence, Westchester or Onondaga and by the county of Cortland and the
+city of Cortland and by the county of Broome and the city of Binghamton
+and by the county of Cayuga and the city of Auburn and by the county of
+Otsego and the city of Oneonta and by the county of Madison and the city
+of Oneida and by the county of Fulton and the city of Gloversville or
+the city of Johnstown as provided in section twelve hundred ten of this
 article) at a rate in excess of three percent, except that, in the city
-of Yonkers, in the city of Mount Vernon, in the city of New Rochelle, in
-the city of Fulton and in the city of Oswego, the rate may not be in
-excess of four percent and in the city of White Plains, the rate may not
-be in excess of four percent and except that in the city of Poughkeepsie
-in the county of Dutchess, if such county withdraws from the
-metropolitan commuter transportation district pursuant to section twelve
-hundred seventy-nine-b of the public authorities law and if the revenues
-from a three-eighths percent rate of such tax imposed by such county,
-pursuant to the authority of section twelve hundred ten of this article,
-are required by local laws, ordinances or resolutions to be set aside
-for mass transportation purposes, the rate may not be in excess of three
-and three-eighths percent.
+of Mount Vernon, in the city of New Rochelle, in the city of Fulton, in
+the city of Oswego, and in the city of White Plains, the rate may not be
+in excess of four percent, and in the city of Yonkers, the rate may not
+be in excess of four and one-half percent, and except that in the city
+of Poughkeepsie in the county of Dutchess, if such county withdraws from
+the metropolitan commuter transportation district pursuant to section
+twelve hundred seventy-nine-b of the public authorities law and if the
+revenues from a three-eighths percent rate of such tax imposed by such
+county, pursuant to the authority of section twelve hundred ten of this
+article, are required by local laws, ordinances or resolutions to be set
+aside for mass transportation purposes, the rate may not be in excess of
+three and three-eighths percent.
+  * NB Effective until December 1, 2020
+  * (a) No transaction taxable under sections twelve hundred two through
+twelve hundred four of this article shall be taxed pursuant to this
+article by any county or by any city located therein, or by both, at an
+aggregate rate in excess of the highest rate set forth in the applicable
+subdivision of section twelve hundred one of this article or, in the
+case of any taxes imposed pursuant to the authority of section twelve
+hundred ten or twelve hundred eleven of this article (other than taxes
+imposed by the county of Nassau, Erie, Steuben, Cattaraugus, Suffolk,
+Oneida, Genesee, Greene, Franklin, Hamilton, Herkimer, Tioga, Orleans,
+Allegany, Ulster, Albany, Rensselaer, Tompkins, Wyoming, Columbia,
+Schuyler, Rockland, Chenango, Monroe, Chemung, Seneca, Sullivan, Wayne,
+Livingston, Schenectady, Montgomery, Delaware, Clinton, Niagara, Yates,
+Lewis, Essex, Dutchess, Schoharie, Putnam, Chautauqua, Orange, Oswego,
+Ontario, Jefferson, St. Lawrence, Westchester or Onondaga and by the
+county of Cortland and the city of Cortland and by the county of Broome
+and the city of Binghamton and by the county of Cayuga and the city of
+Auburn and by the county of Otsego and the city of Oneonta and by the
+county of Madison and the city of Oneida and by the county of Fulton and
+the city of Gloversville or the city of Johnstown as provided in section
+twelve hundred ten of this article) at a rate in excess of three
+percent, except that, in the city of Yonkers, in the city of Mount
+Vernon, in the city of New Rochelle, in the city of Fulton, in the city
+of Oswego, and in the city of White Plains, the rate may not be in
+excess of four percent, and except that in the city of Poughkeepsie in
+the county of Dutchess, if such county withdraws from the metropolitan
+commuter transportation district pursuant to section twelve hundred
+seventy-nine-b of the public authorities law and if the revenues from a
+three-eighths percent rate of such tax imposed by such county, pursuant
+to the authority of section twelve hundred ten of this article, are
+required by local laws, ordinances or resolutions to be set aside for
+mass transportation purposes, the rate may not be in excess of three and
+three-eighths percent.
+  * NB Effective December 1, 2020
   (b) If a transaction is taxed by both a county and a city, the rate of
 tax on such transaction imposed by the county or city, not having prior
 right thereto pursuant to section twelve hundred twenty-four, shall be

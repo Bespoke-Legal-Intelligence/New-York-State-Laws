@@ -5,25 +5,25 @@
 
 ```text
   * § 1262-b. The Westchester county property tax stabilization and
-relief act. (a) Notwithstanding any other provision of law to the
-contrary, if the county of Westchester imposes sales and compensating
-use taxes pursuant to subdivision (a) of section twelve hundred ten of
-this article at the rate of three percent:
-  (1) The county shall allocate net collections from such taxes imposed
-at the rate of one and one-half percent countywide among the cities and
-towns of the county on the basis of the ratio which the full valuation
-of real property in each city or town bears to the aggregate full
-valuation of real property in all cities and towns of the county.
-Amounts so allocated shall be credited to each of said cities and towns
-against the county taxes levied upon real property in said cities and
-towns.
-  (2) The county shall allocate and credit or pay net collections
-received by the county by reason of its additional one percent rate of
-such taxes on the area of the county outside any city imposing sales and
-compensating use taxes at a rate of one and one-half percent or greater
-pursuant to the authority of subdivision (a) or at any rate pursuant to
-the authority of subdivision (b) of section twelve hundred ten of this
-article as follows:
+relief act. Notwithstanding any other provision of law to the contrary:
+(a) If the county of Westchester imposes sales and compensating use
+taxes pursuant to subdivision (a) of section twelve hundred ten of this
+article at the rate of three percent:
+  (1) The county shall allocate one-half of net collections from such
+taxes imposed pursuant to subdivision (a) of section twelve hundred ten
+of this article countywide among the cities and towns of the county on
+the basis of the ratio which the full valuation of real property in each
+city or town bears to the aggregate full valuation of real property in
+all cities and towns of the county. Amounts so allocated shall be
+credited to each of said cities and towns against the county taxes
+levied upon real property in said cities and towns.
+  (2) The county shall allocate and credit or pay one-third of net
+collections from such taxes imposed pursuant to subdivision (a) of
+section twelve hundred ten of this article to the area of the county
+outside any city imposing sales and compensating use taxes at a rate of
+one and one-half percent or greater pursuant to the authority of
+subdivision (a) or at any rate pursuant to the authority of subdivision
+(b) of section twelve hundred ten of this article as follows:
   (A) One-third of such net collections shall be allocated and credited
 in the manner set forth in paragraph one of this subdivision.
   (B) One-sixth of such net collections shall be allocated and paid
@@ -52,11 +52,10 @@ county in which the sales and compensating use taxes are imposed.
   (C) One-half of such net collections shall be allocated and paid
 quarterly by the county commissioner of finance, in cash, to the cities
 not imposing sales and compensating use taxes and to the towns and
-villages on which such additional one percent rate is imposed, on the
-basis of the ratio which the population of each such city, town or
-village on which such additional one percent rate is imposed bears to
-the entire population of all such cities, towns and villages in the area
-on which such additional one percent rate is imposed. Such populations
+villages on which such rate is imposed, on the basis of the ratio which
+the population of each such city, town or village on which such rate is
+imposed bears to the entire population of all such cities, towns and
+villages in the area on which such rate is imposed. Such populations
 shall be determined in accordance with the latest federal census or
 special population census under section twenty of the general municipal
 law completed and published prior to the end of the quarter in which
@@ -65,34 +64,36 @@ the entire area of the county; provided that such special population
 census shall not be taken more than once in every two years.
   (D) The quarterly allocation and payment of cash to cities, towns,
 villages and school districts provided for under this paragraph and
-under paragraph three of this subdivision may be made after payment by
-the state comptroller to the county of the net collections subject to
-such allocation and receipt by the county commissioner of finance of the
-quarterly settlement report issued by the department, and may include
-adjustments for corrections applicable to such allocations. All ratios
-established by the county commissioner of finance with respect to
-allocations to cities, towns, villages and school districts under this
-subdivision shall be carried to four decimal places. The allocation of
-net collections and payment of cash provided for under this paragraph
-and under paragraph three of this subdivision shall be made to a town
-based upon the population of the town less the population of any village
-therein, provided that a town/village or village/town shall be deemed a
-village for the purpose of determining such allocation. The allocation
-of net collections and payment of cash provided for under this paragraph
-and under paragraph three of this subdivision shall be applied by the
-cities, towns, villages and school districts receiving such allocation
-and payment as a credit against the taxes upon real property imposed by
-such municipalities and school districts, respectively. The allocation
-and payment received by towns shall be credited against real property
-taxes in either the general fund town-wide or the town outside village
-fund or a combination thereof.
-  (3) The county shall allocate and credit or pay net collections
-received by the county by reason of its additional one-half percent rate
-of such taxes imposed on the area of the county outside any city
-imposing sales and compensating use taxes at a rate of one and one-half
-percent or greater pursuant to the authority of subdivision (a) or at
-any rate pursuant to the authority of subdivision (b) of section twelve
-hundred ten of this article as follows:
+under paragraph three of this subdivision and under subdivision (b) of
+this section may be made after payment by the state comptroller to the
+county of the net collections subject to such allocation and receipt by
+the county commissioner of finance of the quarterly settlement report
+issued by the department, and may include adjustments for corrections
+applicable to such allocations. All ratios established by the county
+commissioner of finance with respect to allocations to cities, towns,
+villages and school districts under this subdivision and under
+subdivision (b) of this section shall be carried to four decimal places.
+The allocation of net collections and payment of cash provided for under
+this paragraph and under paragraph three of this subdivision and under
+subdivision (b) of this section shall be made to a town based upon the
+population of the town less the population of any village therein,
+provided that a town/village or village/town shall be deemed a village
+for the purpose of determining such allocation. The allocation of net
+collections and payment of cash provided for under this paragraph and
+under paragraph three of this subdivision and under subdivision (b) of
+this section shall be applied by the cities, towns, villages and school
+districts receiving such allocation and payment as a credit against the
+taxes upon real property imposed by such municipalities and school
+districts, respectively. The allocation and payment received by towns
+shall be credited against real property taxes in either the general fund
+town-wide or the town outside village fund or a combination thereof.
+  (3) The county shall allocate and credit or pay one-sixth of net
+collections from such taxes imposed pursuant to subdivision (a) of
+section twelve hundred ten of this article to the area of the county
+outside any city imposing sales and compensating use taxes at a rate of
+one and one-half percent or greater pursuant to the authority of
+subdivision (a) or at any rate pursuant to the authority of subdivision
+(b) of section twelve hundred ten of this article as follows:
   (A) Seventy percent of such net collections shall be retained by the
 county to be used for any county purpose.
   (B) Ten percent of such net collections shall be allocated and paid in
@@ -101,16 +102,28 @@ subdivision.
   (C) Twenty percent of such net collections shall be allocated and paid
 in the manner set forth in subparagraph (C) of paragraph two of this
 subdivision.
-  (b) Nothing in this section shall be construed to impair the powers of
+  (b) If the county of Westchester imposes the additional one percent
+rate of sales and compensating use tax authorized by clause forty-two of
+subparagraph (i) of the opening paragraph of section twelve hundred ten
+of this article, the county shall allocate and credit or pay net
+collections from such additional one percent rate in the manner set
+forth in paragraph three of subdivision (a) of this section with respect
+to the area of the county outside any city imposing sales and
+compensating use taxes at a rate of one and one-half percent or greater
+pursuant to the authority of subdivision (a) of section twelve hundred
+ten of this article or at any rate pursuant to the authority of
+subdivision (b) of section twelve hundred ten of this article.
+  (c) Nothing in this section shall be construed to impair the powers of
 a city currently imposing sales and compensating use taxes pursuant to
 the authority of section twelve hundred ten of this article from
 continuing to do so in accordance with law. No school district in any
 city imposing such sales and compensating use taxes shall be entitled to
 receive a cash allocation and payment under paragraph two or three of
-subdivision (a) of this section. No city, town or village authorized or
-entitled to receive an allocation under subparagraph (C) of paragraph
-two or subparagraph (C) of paragraph three of subdivision (a) of this
-section shall be authorized or entitled to receive any cash allocation
-under section twelve hundred sixty-two of this article.
-  * NB Expires May 31, 2020
+subdivision (a) or under subdivision (b) of this section. No city, town
+or village authorized or entitled to receive an allocation under
+subparagraph (C) of paragraph two or subparagraph (C) of paragraph three
+of subdivision (a) or under subdivision (b) of this section shall be
+authorized or entitled to receive any cash allocation under section
+twelve hundred sixty-two of this article.
+  * NB Expires November 30, 2020
 ```

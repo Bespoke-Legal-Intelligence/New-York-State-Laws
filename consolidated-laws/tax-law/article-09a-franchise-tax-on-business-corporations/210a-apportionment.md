@@ -586,7 +586,7 @@ the denominator of the apportionment fraction.
 shall not be included in the numerator of the apportionment fraction.
 Global intangible low-taxed income shall be included in the denominator
 of the apportionment fraction.
-  (d) For purposes of this subdivision, the term " global intangible
+  (d) For purposes of this subdivision, the term "global intangible
 low-taxed income" means the amount required to be included in the
 taxpayer's federal gross income pursuant to subsection (a) of section
 951A of the internal revenue code.

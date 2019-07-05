@@ -4,22 +4,22 @@
 [Tax Law](../README.md) › [Article 20-D — Excise Tax On Sale of Opioids](README.md)
 
 ```text
-  * § 498. Imposition of excise tax. (a) There is hereby imposed an
-excise tax on the first sale of every opioid unit in the state at the
-following rates: (1) a quarter of a cent per morphine milligram
-equivalent where the wholesale acquisition cost is less than fifty
-cents, or (2) one and one-half cents per morphine milligram equivalent
-where the wholesale acquisition cost is fifty cents or more; except that
-such tax shall not apply when such first sale is to any program operated
-pursuant to article forty of the public health law and article
-thirty-two of the mental hygiene law. The tax imposed by this article
-shall be charged against and paid by the registrant making such first
-sale, and shall accrue at the time of such sale. For the purpose of the
-proper administration of this article and to prevent evasion of the tax
-hereby imposed, it shall be presumed that any sale of an opioid unit in
-this state by a registrant is the first sale of such in the state until
-the contrary is established, and the burden of proving that any sale is
-not the first sale in the state shall be upon the registrant.
+  § 498. Imposition of excise tax. (a) There is hereby imposed an excise
+tax on the first sale of every opioid unit in the state at the following
+rates: (1) a quarter of a cent per morphine milligram equivalent where
+the wholesale acquisition cost is less than fifty cents, or (2) one and
+one-half cents per morphine milligram equivalent where the wholesale
+acquisition cost is fifty cents or more; except that such tax shall not
+apply when such first sale is to any program operated pursuant to
+article forty of the public health law and article thirty-two of the
+mental hygiene law. The tax imposed by this article shall be charged
+against and paid by the registrant making such first sale, and shall
+accrue at the time of such sale. For the purpose of the proper
+administration of this article and to prevent evasion of the tax hereby
+imposed, it shall be presumed that any sale of an opioid unit in this
+state by a registrant is the first sale of such in the state until the
+contrary is established, and the burden of proving that any sale is not
+the first sale in the state shall be upon the registrant.
   (b) Every registrant liable for the tax imposed by this article shall
 file with the commissioner a return on forms to be prescribed by the
 commissioner showing the total morphine milligram equivalent and
@@ -95,5 +95,4 @@ health.
   Such information shall be reported annually in such form as defined by
 the commissioner of health and shall not be subject to the provisions of
 section four hundred ninety-nine of this article.
-  * NB Effective July 1, 2019
 ```

@@ -16,12 +16,7 @@ rate of such tax shall be one percent of the consideration or part
 thereof attributable to the residential real property. Such tax shall be
 paid at the same time and in the same manner as the tax imposed by
 section fourteen hundred two of this article.
-  * (b) Notwithstanding the provisions of subdivision (a) of section
-fourteen hundred four of this article, the additional tax imposed by
-this section shall be paid by the grantee. If the grantee is exempt from
-such tax, the grantor shall have the duty to pay the tax.
-  * NB Effective until July 1, 2019
-  * (b) Notwithstanding the provisions of subdivision (a) of section
+  (b) Notwithstanding the provisions of subdivision (a) of section
 fourteen hundred four of this article, the additional tax imposed by
 this section shall be paid by the grantee. If the grantee has failed to
 pay the tax imposed by this article at the time required by section
@@ -30,7 +25,6 @@ such tax, the grantor shall have the duty to pay the tax. Where the
 grantor has the duty to pay the tax because the grantee has failed to
 pay, such tax shall be the joint and several liability of the grantor
 and the grantee.
-  * NB Effective July 1, 2019
   (c) Except as otherwise provided in this section, all the provisions
 of this article relating to or applicable to the administration,
 collection, determination and distribution of the tax imposed by section

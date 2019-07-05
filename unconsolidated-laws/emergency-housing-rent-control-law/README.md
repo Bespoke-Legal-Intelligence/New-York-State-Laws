@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1946, ch. 274; L. 1961, ch. 337 |
 | Sections | 18 |
-| Last changed | 28 Jun 2019 |
+| Last changed | 5 Jul 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Emergency Housing Rent Control Law 274/46 337/61 |
 
@@ -17,6 +17,7 @@
 
 ## Recent changes
 
+- [5 Jul 2019](../../changes/2019/2019-07-05.md): 1 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 17 amended, 1 added, 1 removed
 - [3 Jul 2015](../../changes/2015/2015-07-03.md): 18 amended
 - [26 Jun 2015](../../changes/2015/2015-06-26.md): 18 amended

@@ -4,26 +4,8 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  § 378-a. Access to conviction records by authorized agencies. * 1.
+  § 378-a. Access to conviction records by authorized agencies.  1.
 Every authorized agency which operates a residential program for
-children licensed or certified by the office of children and family
-services, and the office of children and family services in relation to
-any juvenile justice program it operates, shall request that the justice
-center for the protection of people with special needs check, and upon
-such request, such justice center shall request and shall be authorized
-to receive from the division of criminal justice services and the
-federal bureau of investigation criminal history information, as such
-phrase is defined in paragraph (c) of subdivision one of section eight
-hundred forty-five-b of the executive law concerning each prospective
-operator, employee or volunteer of such a residential program who will
-have regular and substantial unsupervised or unrestricted physical
-contact with children in such program. For the purposes of this section,
-"operator" shall include any natural person with an ownership interest
-in the authorized agency. Access to and the use of such information
-shall be governed by the provisions of section eight hundred
-forty-five-b of the executive law.
-  * NB Effective until July 1, 2019
-  * 1. Every authorized agency which operates a residential program for
 children licensed or certified by the office of children and family
 services, and the office of children and family services in relation to
 any juvenile justice program it operates, shall request that the justice
@@ -59,7 +41,6 @@ natural person with an ownership interest in the authorized agency.
   (c) Access to and the use of information obtained pursuant to this
 subdivision shall be governed by the provisions of section eight hundred
 forty-five-b of the executive law.
-  * NB Effective July 1, 2019
   1-a. Excluding the authorized agencies authorized to request and
 receive criminal history information pursuant to subdivision one of this
 section, and subject to the rules and regulations of the division of

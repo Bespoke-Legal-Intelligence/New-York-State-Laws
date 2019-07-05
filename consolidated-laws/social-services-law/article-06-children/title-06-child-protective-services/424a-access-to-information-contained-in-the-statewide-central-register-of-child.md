@@ -83,35 +83,7 @@ promulgate regulations related to the process by which providers and
 applicants will be informed whether the applicant is authorized or
 unauthorized to care for children based on the outcome of such inquiry.
   * NB Effective September 1, 2019
-  (b) * (i) Subject to the provisions of subdivision seven of this
-section, a provider agency shall inquire of the office and the office
-shall, subject to the provisions of paragraph (e) of this subdivision,
-inform such agency and the subject of the inquiry whether any person who
-is actively being considered for employment and who will have the
-potential for regular and substantial contact with individuals who are
-cared for by the agency, is the subject of an indicated child abuse and
-maltreatment report on file with the statewide central register of child
-abuse and maltreatment prior to permitting such person to have
-unsupervised contact with such individuals. Such agency may inquire of
-the office and the office shall inform such agency and the subject of
-the inquiry whether any person who is currently employed and who has the
-potential for regular and substantial contact with individuals who are
-cared for by such agency is the subject of an indicated child abuse and
-maltreatment report on file with the statewide central register of child
-abuse and maltreatment. A provider agency shall also inquire of the
-office and the office shall inform such agency and the subject of the
-inquiry whether any person who is employed by an individual,
-corporation, partnership or association which provides goods or services
-to such agency who has the potential for regular and substantial contact
-with individuals who are cared for by the agency, is the subject of an
-indicated child abuse and maltreatment report on file with the statewide
-central register of child abuse and maltreatment prior to permitting
-such person to have unsupervised contact with such individuals.
-Inquiries made to the office pursuant to this subparagraph by a provider
-agency on current employees shall be made no more often than once in any
-six month period.
-  * NB Effective until July 1, 2019
-  * (i) (A) Subject to the provisions of subdivision seven of this
+  (b) (i) (A) Subject to the provisions of subdivision seven of this
 section, a provider agency shall inquire of the office and the office
 shall, subject to the provisions of paragraph (e) of this subdivision,
 inform such agency and the subject of the inquiry whether any person who
@@ -157,7 +129,6 @@ previously had a clearance conducted pursuant to this subparagraph in
 connection to such employment is the subject of an indicated child abuse
 and maltreatment report on file with the statewide central register of
 child abuse and maltreatment.
-  * NB Effective July 1, 2019
   (ii) A provider agency may inquire of the office and the office shall,
 upon receipt of such inquiry and subject to the provisions of paragraph
 (e) of this subdivision, inform such agency and the subject of the

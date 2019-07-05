@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-D — Excise Tax On Sale of Opioids](README.md)
 
 ```text
-  * § 497. Definitions. The following terms shall have the following
+  § 497. Definitions. The following terms shall have the following
 meanings when used in this article.
   (a) "Opioid" shall mean an "opiate" as defined by subdivision
 twenty-three of section thirty-three hundred two of the public health
@@ -56,5 +56,4 @@ either the dispensing of an opioid unit pursuant to a prescription to an
 ultimate consumer or the transfer of title to an opioid unit from a
 manufacturer in this state to a purchaser outside this state when such
 opioid unit will be used or consumed outside this state.
-  * NB Effective July 1, 2019
 ```

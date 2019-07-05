@@ -209,7 +209,7 @@ chapter. The vendor track shall forfeit this additional vendor fee for
 any time period that the vendor track does not maintain at least ninety
 percent of full-time equivalent employees as they employed in the year
 two thousand sixteen.
-  * NB Effective June 30, 2019 and Repealed March 31, 2023
+  * NB Repealed March 31, 2023
   1-a. (i) Notwithstanding any provision of law to the contrary, any
 operators of a vendor track or the operators of any other video lottery
 gaming facility eligible to receive a capital award as of December

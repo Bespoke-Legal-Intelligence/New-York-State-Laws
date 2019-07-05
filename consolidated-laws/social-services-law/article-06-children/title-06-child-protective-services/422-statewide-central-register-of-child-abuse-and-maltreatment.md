@@ -319,13 +319,12 @@ has reasonable cause to believe such adult may be in need of protective
 services due to the conduct of an individual or individuals who had
 access to such adult when such adult was a child and that such reports
 and information are needed to further the present investigation.
-  * (bb) an entity with appropriate legal authority in another state to
+  (bb) an entity with appropriate legal authority in another state to
 license, certify or otherwise approve residential programs for foster
 children where disclosure of information regarding any prospective or
 current employee of such program is required by paragraph twenty of
 subdivision (a) of section six hundred seventy-one of title forty-two of
 the United States code.
-  * NB Effective July 1, 2019
   After a child, other than a child in residential care, who is reported
 to the central register of abuse or maltreatment reaches the age of
 eighteen years, access to a child's record under subparagraphs (a) and

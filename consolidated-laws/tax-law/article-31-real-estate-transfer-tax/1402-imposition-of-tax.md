@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
 
 ```text
-  § 1402. Imposition of tax. * (a) A tax is hereby imposed on each
+  § 1402. Imposition of tax.  (a) A tax is hereby imposed on each
 conveyance of real property or interest therein when the consideration
 exceeds five hundred dollars, at the rate of two dollars for each five
 hundred dollars or fractional part thereof; provided, however, that with
@@ -13,31 +13,20 @@ individual residential condominium unit, or interests therein; and (B)
 conveyances where the consideration is less than five hundred thousand
 dollars, the consideration for the interest conveyed shall exclude the
 value of any lien or encumbrance remaining thereon at the time of
-conveyance.
-  * NB Effective until July 1, 2019
-  * (a) A tax is hereby imposed on each conveyance of real property or
-interest therein when the consideration exceeds five hundred dollars, at
-the rate of two dollars for each five hundred dollars or fractional part
-thereof; provided, however, that with respect to (A) a conveyance of a
-one, two or three-family house and an individual residential condominium
-unit, or interests therein; and (B) conveyances where the consideration
-is less than five hundred thousand dollars, the consideration for the
-interest conveyed shall exclude the value of any lien or encumbrance
-remaining thereon at the time of conveyance. The rate of this tax shall
-be: (1) two dollars for each five hundred dollars or fractional part
-thereof on all conveyances of real property or interest therein; plus
-(2) an additional one dollar and twenty-five cents for each five hundred
-dollars or fractional part thereof of consideration on each conveyance
-of real property or interest therein within any city in this state
-having a population of one million or more (i) when the consideration
-for the entire conveyance of residential real property is three million
-dollars or more, and (ii) when the consideration for the entire
-conveyance of any other property is two million dollars or more. For
-purposes of this section, residential real property shall include any
-premises that is or may be used in whole or in part as a personal
-residence, and shall include a one, two, or three-family house, an
-individual condominium unit, or a cooperative apartment unit.
-  * NB Effective July 1, 2019
+conveyance. The rate of this tax shall be: (1) two dollars for each five
+hundred dollars or fractional part thereof on all conveyances of real
+property or interest therein; plus (2) an additional one dollar and
+twenty-five cents for each five hundred dollars or fractional part
+thereof of consideration on each conveyance of real property or interest
+therein within any city in this state having a population of one million
+or more (i) when the consideration for the entire conveyance of
+residential real property is three million dollars or more, and (ii)
+when the consideration for the entire conveyance of any other property
+is two million dollars or more. For purposes of this section,
+residential real property shall include any premises that is or may be
+used in whole or in part as a personal residence, and shall include a
+one, two, or three-family house, an individual condominium unit, or a
+cooperative apartment unit.
   (b) (1) Notwithstanding the provisions of subdivision (a) of this
 section, in the case of any real estate investment trust transfer
 occurring on or after the effective date of this subdivision, the tax

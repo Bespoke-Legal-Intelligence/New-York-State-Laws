@@ -21,19 +21,7 @@ commissioner may use the amount that is not granted to contract with
 agencies, associations, or organizations to provide such services; or
 the health department may use such proportionate share to provide the
 services upon approval of the director of the division of the budget.
-  * 2. State aid reimbursement for public health services provided by a
-municipality under this title, shall be made if the municipality is
-providing some or all of the core public health services identified in
-section six hundred two of this title, pursuant to an approved
-application for state aid, at a rate of no less than thirty-six per
-centum of the difference between the amount of moneys expended by the
-municipality for public health services required by section six hundred
-two of this title during the fiscal year and the base grant provided
-pursuant to subdivision one of this section. No such reimbursement shall
-be provided for services that are not eligible for state aid pursuant to
-this article.
-  * NB Effective until July 1, 2019
-  * 2. State aid reimbursement for public health services provided by a
+  2. State aid reimbursement for public health services provided by a
 municipality under this title, shall be made if the municipality is
 providing some or all of the core public health services identified in
 section six hundred two of this title, pursuant to an approved
@@ -45,7 +33,6 @@ section six hundred two of this title during the fiscal year and the
 base grant provided pursuant to subdivision one of this section. No such
 reimbursement shall be provided for services that are not eligible for
 state aid pursuant to this article.
-  * NB Effective July 1, 2019
   3. Municipalities shall make every reasonable effort to collect
 payments for public health services provided. All such revenues shall be
 reported to the commissioner pursuant to section six hundred six of this

@@ -469,11 +469,10 @@ such treatment. In the event that ninety percent federal financial
 participation for such services is not available, the state share of
 appropriations related to these services shall be used for a grant
 program intended to accomplish the purpose of this section.
-  * (ff) evidence-based prevention and support services recognized by
-the federal Centers for Disease Control (CDC), provided by a
-community-based organization, and designed to prevent individuals at
-risk of developing diabetes from developing Type 2 diabetes.
-  * NB Effective July 1, 2019
+  (ff) evidence-based prevention and support services recognized by the
+federal Centers for Disease Control (CDC), provided by a community-based
+organization, and designed to prevent individuals at risk of developing
+diabetes from developing Type 2 diabetes.
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons

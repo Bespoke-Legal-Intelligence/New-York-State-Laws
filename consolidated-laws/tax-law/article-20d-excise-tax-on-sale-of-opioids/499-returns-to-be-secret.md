@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 20-D — Excise Tax On Sale of Opioids](README.md)
 
 ```text
-  * § 499. Returns to be secret. (a) Except in accordance with a proper
+  § 499. Returns to be secret. (a) Except in accordance with a proper
 judicial order or as otherwise provided for by law, it shall be unlawful
 for the commissioner, any officer or employee of the department, or any
 person engaged or retained by such department on an independent contract
@@ -58,5 +58,4 @@ office and be incapable of holding any public office in this state for a
 period of five years thereafter.
   (2) Cross-reference: For criminal penalties, see article thirty-seven
 of this chapter.
-  * NB Effective July 1, 2019
 ```
