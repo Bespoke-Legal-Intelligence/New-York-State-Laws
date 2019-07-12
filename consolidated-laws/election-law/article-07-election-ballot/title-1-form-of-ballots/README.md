@@ -8,6 +8,7 @@
 - [§ 7-100 Ballots; provision for](7-100-ballots-provision.md)
 - [§ 7-102 Ballot; placing names and ballot proposals thereon](7-102-ballot-placing-names-and-ballot-proposals-thereon.md)
 - [§ 7-104 Ballots; form of, voting machine](7-104-ballots-form-of-voting-machine.md)
+- [§ 7-105 Ballot accountability](7-105-ballot-accountability.md)
 - [§ 7-106 Election day paper ballots; form of](7-106-election-day-paper-ballots-form.md)
 - [§ 7-108 Ballots; form for elections](7-108-ballots-form-for-elections.md)
 - [§ 7-110 Ballots; form for ballot proposals](7-110-ballots-form-for-ballot-proposals.md)
@@ -33,6 +34,7 @@
 Section 7-100. Ballots; provision for.
         7-102. Ballot; placing names and ballot proposals thereon.
         7-104. Ballots; form of, voting machine.
+        7-105. Ballot accountability.
         7-106. Election day paper ballots; form of.
         7-108. Ballots; form for elections.
         7-110. Ballots; form for ballot proposals.

@@ -419,6 +419,50 @@ authorized use of returns and other information in such actions or
 proceedings, officers and employees of the department of taxation and
 finance may testify in such actions or proceedings in respect to such
 returns or other information.
+  (f-1) Cooperation with investigations by certain committees of the
+United States Congress.--(1) Notwithstanding the provisions of
+subsection (e) of this section, upon written request from the
+chairperson of the committee on ways and means of the United States
+House of Representatives, the chairperson of the committee on finance of
+the United States Senate, or the chairperson of the joint committee on
+taxation of the United States Congress, the commissioner shall furnish
+such committee with any current or prior year reports or returns
+specified in such request that were filed under this article by the
+president of the United States, vice-president of the United States,
+member of the United States Congress representing New York state, or any
+person who served in or was employed by the executive branch of the
+government of the United States on the executive staff of the president,
+in the executive office of the president, or in an acting or confirmed
+capacity in a position subject to confirmation by the United States
+senate; or, in New York state: a statewide elected official, as defined
+in paragraph (a) of subdivision one of section seventy-three-a of the
+public officers law; a state officer or employee, as defined in
+subparagraph (i) of paragraph (c) of subdivision one of such section
+seventy-three-a; a political party chairperson, as defined in paragraph
+(h) of subdivision one of such section seventy-three-a; a local elected
+official, as defined in subdivisions one and two of section eight
+hundred ten of the general municipal law; a person appointed, pursuant
+to law, to serve due to vacancy or otherwise in the position of a local
+elected official, as defined in subdivisions one and two of section
+eight hundred ten of the general municipal law; a member of the state
+legislature; or a judge or justice of the unified court system; provided
+however that, prior to furnishing any report or return, the commissioner
+shall redact any copy of a federal return (or portion thereof) attached
+to, or any information on a federal return that is reflected on, such
+report or return, and any social security numbers, account numbers and
+residential address information.
+  (2) No reports or returns shall be furnished pursuant to this
+subsection unless the chairperson of the requesting committee certifies
+in writing that such reports or returns have been requested related to,
+and in furtherance of, a legitimate task of the Congress, that the
+requesting committee has made a written request to the United States
+secretary of the treasury for related federal returns or return
+information, pursuant to 26 U.S.C. Section 6103(f), and that if such
+requested reports or returns are inspected by and/or submitted to
+another committee, to the United States House of Representatives, or to
+the United States Senate, then such inspection and/or submission shall
+occur in a manner consistent with federal law as informed by the
+requirements and procedures established in 26 U.S.C. Section 6103(f).
   (g) Cooperation with the cities of the state of New York.
 Notwithstanding the provisions of subsection (e), the tax commission may
 permit the proper city officer of any city of the state of New York

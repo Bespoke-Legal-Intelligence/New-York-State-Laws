@@ -12,11 +12,11 @@ but less than two hundred fifteen thousand inhabitants, acting through
 its local legislative body, is hereby authorized and empowered to adopt
 and amend local laws imposing in any such city, for taxable years
 beginning after nineteen hundred eighty-three and before two thousand
-twenty, a city income tax surcharge on residents of such city at a rate
-not to exceed nineteen and one-quarter percent of the net state tax as
-defined in section thirteen hundred twenty-three of this article, such
-city income tax surcharge to be administered, collected and distributed
-by the commissioner as provided for in this article.
+twenty-two, a city income tax surcharge on residents of such city at a
+rate not to exceed nineteen and one-quarter percent of the net state tax
+as defined in section thirteen hundred twenty-three of this article,
+such city income tax surcharge to be administered, collected and
+distributed by the commissioner as provided for in this article.
   (b) Earnings tax on nonresidents requirement. The city income tax
 surcharge authorized by this article may be imposed only if this chapter
 authorizes the adoption of a city tax on the earnings of nonresidents
@@ -26,43 +26,43 @@ such tax on the earnings of nonresidents.
 local law enacted pursuant to the authority of this section shall go
 into effect on the first day of January, nineteen hundred eighty-four
 and shall apply to taxable years beginning on or after such date and
-before two thousand twenty. Provided, however, no such local law shall
-be so effective unless such local law is enacted by July thirty-first,
-nineteen hundred eighty-four and unless a certified copy of such local
-law is mailed by registered or certified mail to the commissioner at the
-commissioner's office in Albany by such date. (ii) If the requirements
-of paragraph (i) of this subsection are not met, a local law enacted
-pursuant to the authority of this section shall go into effect on the
-first day of the next succeeding January and shall apply to taxable
-years beginning on or after such date and before two thousand twenty.
-Provided, however, no such local law shall be so effective unless such
-local law is enacted at least ninety days prior to the date it is to
-become effective and unless a certified copy of such local law is mailed
-by registered or certified mail to the commissioner at such
-commissioner's office in Albany by such date. However, the commissioner
-may waive and reduce such ninety day minimum requirements within a
-period of not less than thirty days prior to such effective date if such
-commissioner deems such action to be consistent with such commissioner's
-duties under this article. (iii) Any amendment of such a local law
-enacted pursuant to the authority of this section, which changes the
-rate of the income tax surcharge on residents, shall take effect on the
-first day of January in the year in which such amendment is enacted and
-shall apply to taxable years beginning on or after such date, if such
-amendment is enacted on or before July thirty-first of the year in which
-it is to take effect and a certified copy of such amendment is mailed by
-registered or certified mail to the commissioner at his or her office in
-Albany by such date. (iv) If the requirements of paragraph (iii) of this
-subsection are not met, the amendment of such local law shall go into
-effect on the first day of the next succeeding January and shall apply
-to taxable years beginning on or after such date, provided that no such
-amendment shall take effect unless it is enacted at least ninety days
-prior to the date it is to become effective and a certified copy thereof
-is mailed by registered or certified mail to the commissioner at his or
-her office in Albany by such date. (v) Any amendment to the provisions
-of article twenty-two of this chapter to the extent that such amendment
-is applicable to the city income tax surcharge imposed under such local
-law, shall be deemed to have been incorporated in the analogous
-provision or provisions of such local law.
+before two thousand twenty-two. Provided, however, no such local law
+shall be so effective unless such local law is enacted by July
+thirty-first, nineteen hundred eighty-four and unless a certified copy
+of such local law is mailed by registered or certified mail to the
+commissioner at the commissioner's office in Albany by such date. (ii)
+If the requirements of paragraph (i) of this subsection are not met, a
+local law enacted pursuant to the authority of this section shall go
+into effect on the first day of the next succeeding January and shall
+apply to taxable years beginning on or after such date and before two
+thousand twenty-two. Provided, however, no such local law shall be so
+effective unless such local law is enacted at least ninety days prior to
+the date it is to become effective and unless a certified copy of such
+local law is mailed by registered or certified mail to the commissioner
+at such commissioner's office in Albany by such date. However, the
+commissioner may waive and reduce such ninety day minimum requirements
+within a period of not less than thirty days prior to such effective
+date if such commissioner deems such action to be consistent with such
+commissioner's duties under this article. (iii) Any amendment of such a
+local law enacted pursuant to the authority of this section, which
+changes the rate of the income tax surcharge on residents, shall take
+effect on the first day of January in the year in which such amendment
+is enacted and shall apply to taxable years beginning on or after such
+date, if such amendment is enacted on or before July thirty-first of the
+year in which it is to take effect and a certified copy of such
+amendment is mailed by registered or certified mail to the commissioner
+at his or her office in Albany by such date. (iv) If the requirements of
+paragraph (iii) of this subsection are not met, the amendment of such
+local law shall go into effect on the first day of the next succeeding
+January and shall apply to taxable years beginning on or after such
+date, provided that no such amendment shall take effect unless it is
+enacted at least ninety days prior to the date it is to become effective
+and a certified copy thereof is mailed by registered or certified mail
+to the commissioner at his or her office in Albany by such date. (v) Any
+amendment to the provisions of article twenty-two of this chapter to the
+extent that such amendment is applicable to the city income tax
+surcharge imposed under such local law, shall be deemed to have been
+incorporated in the analogous provision or provisions of such local law.
   (d) Filing of local law with others. Certified copies of such local
 law shall also be filed with the clerk of the city wherein the tax is
 imposed, the secretary of state and the state comptroller within thirty

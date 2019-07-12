@@ -132,8 +132,8 @@ strengthen and expand current training procedures for child protective
 service supervisors; provide the skills, knowledge and standards to
 practice effective case planning and case management; provide
 comprehensive assessment tools needed in critical decision making;
-require participation in the existing common core training required by
-child protective service caseworkers; strengthen recognition and
+require participation in the existing next generation training required
+by child protective service caseworkers; strengthen recognition and
 response to safety and risk indicators; improve skills to promote
 consistent implementation of training and practice; provide the
 necessary tools and assistance to build the ability to coach and monitor

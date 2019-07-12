@@ -56,29 +56,21 @@ courses which would satisfy the educational requirements for
 certification and recertification of emergency medical technicians and
 advanced emergency medical technicians.
   * 2-b. The commissioner, in consultation with the state emergency
-medical services council, shall develop a pilot program in at least six
-regions of the state (including the western New York and capital
-regions) to allow emergency medical technicians and advanced emergency
+medical services council, shall develop a program to allow certified
+first responders, emergency medical technicians and advanced emergency
 medical technicians who have been in continuous practice, who have
 demonstrated competence in applicable behavioral and performance
 objectives, and who have demonstrated completion of appropriate
 continuing education, to renew their certification under subdivision two
 of this section without requiring the completion of a written
-examination. In implementing this program the commissioner shall
+examination. In implementing this program, the commissioner shall
 contract with and use the standards established by a nationally
-recognized organization that certifies emergency medical technicians and
-advanced emergency medical technicians. However, no pilot program shall
-include employees of a municipal ambulance service in cities with a
-population over one million. Renewals of certification under the
-demonstration program shall be deemed equivalent to renewals under
-subdivision two of this section for purposes of this article.
-  Within one year of developing the demonstration program and annually
-thereafter, the commissioner shall report to the legislature on the
-impact of the program on the quality of patient care, the effectiveness
-of the program in retaining certified emergency medical technicians and
-advanced emergency medical technicians, and the feasibility of replacing
-the state's certification program with a national certification program.
-  * NB Repealed July 1, 2019
+recognized organization that certifies certified first responders,
+emergency medical technicians and advanced emergency medical
+technicians. Renewals of certification under the program shall be deemed
+equivalent to renewals under subdivision two of this section for
+purposes of this article.
+  * NB Repealed July 1, 2021
   3. Upon appeal from the appropriate regional council, the state
 council shall have the power, by an affirmative vote of a majority of
 those present, to amend, modify and reverse determinations of the

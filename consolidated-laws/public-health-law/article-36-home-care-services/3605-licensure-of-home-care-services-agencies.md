@@ -89,11 +89,11 @@ social services law. The commissioner shall approve only those
 applicants that the commissioner of the department of social services
 has listed as eligible pursuant to the requirements of paragraph (a) of
 subdivision eleven of this section.
-  * NB Expires June 30, 2019
+  * NB Expires June 30, 2021
   * 10. The department shall notify the department of social services of
 any action taken against a limited home care services agency pursuant to
 section thirty-six hundred five-a of this article.
-  * NB Expires June 30, 2019
+  * NB Expires June 30, 2021
   * 11. For purposes of this subdivision, eligibility of limited home
 care services agencies licensed by the department shall be as follows:
   (a) Only those certified operators of adult homes and enriched housing
@@ -120,11 +120,11 @@ of a proposed enforcement action taken pursuant to section four hundred
 sixty-d of the social services law, the department shall review the
 delivery of home care services to determine whether such agency is
 meeting all applicable regulations and standards.
-  * NB Expires June 30, 2019
+  * NB Expires June 30, 2021
   * 12. Notwithstanding any law to the contrary, the commissioner shall
 have the authority to limit the number of adult homes and enriched
 housing programs eligible for licensure under this section.
-  * NB Expires June 30, 2019
+  * NB Expires June 30, 2021
   13. The commissioner shall charge to applicants for the licensure of
 home care services agencies an application fee of two thousand dollars.
 All fees pursuant to this section shall be payable to the department of

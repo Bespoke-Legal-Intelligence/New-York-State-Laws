@@ -28,5 +28,5 @@ personnel with notice of the provisions of this section, and the
 regulations promulgated pursuant to this section by the commissioner.
 The commissioner shall provide such notice for school districts to
 disseminate.
-  * NB Repealed June 30, 2019
+  * NB Repealed June 30, 2024
 ```

@@ -58,7 +58,7 @@ commissioner or the attorney general or has been instituted, or the
 inspection of the reports or returns required under this article by the
 comptroller or duly designated officer or employee of the state
 department of audit and control, for purposes of the audit of a refund
-of any tax paid by a taxpayer under this article.  Further, nothing
+of any tax paid by a taxpayer under this article. Further, nothing
 contained herein shall be construed to prevent an examination of any
 documents concerning an estate that are under the control of the
 surrogate by a title abstractor, attorney at law or title examiner or to
@@ -121,6 +121,59 @@ finance to the taxing authorities of another state for the purpose of
 complying with the provisions of section nine hundred seventy-one-a of
 this article relating to additional proceedings in estates of
 nondomiciliary decedents.
+  (b-1) Cooperation with investigations by certain committees of the
+United States Congress. (1) Notwithstanding the provisions of subsection
+(a) of this section, upon written request from the chairperson of the
+committee on ways and means of the United States House of
+Representatives, the chairperson of the committee on finance of the
+United States Senate, or the chairperson of the joint committee on
+taxation of the United States Congress, the commissioner shall furnish
+such committee with any current or prior year reports or returns
+specified in such request that were filed under this article by the
+president of the United States, vice-president of the United States,
+member of the United States Congress representing New York state, or any
+person who served in or was employed by the executive branch of the
+government of the United States on the executive staff of the president,
+in the executive office of the president, or in an acting or confirmed
+capacity in a position subject to confirmation by the United States
+senate; or, in New York state: a statewide elected official, as defined
+in paragraph (a) of subdivision one of section seventy-three-a of the
+public officers law; a state officer or employee, as defined in
+subparagraph (i) of paragraph (c) of subdivision one of such section
+seventy-three-a; a political party chairperson, as defined in paragraph
+(h) of subdivision one of such section seventy-three-a; a local elected
+official, as defined in subdivisions one and two of section eight
+hundred ten of the general municipal law; a person appointed, pursuant
+to law, to serve due to vacancy or otherwise in the position of a local
+elected official, as defined in subdivisions one and two of section
+eight hundred ten of the general municipal law; a member of the state
+legislature; or a judge or justice of the unified court system; or filed
+by a partnership, firm, association, corporation, joint-stock company,
+trust or similar entity directly or indirectly controlled by any
+individual listed in this paragraph, whether by contract, through
+ownership or control of a majority interest in such entity, or
+otherwise, or filed by a partnership, firm, association, corporation,
+joint-stock company, trust or similar entity of which any individual
+listed in this paragraph holds ten percent or more of the voting
+securities of such entity; provided however that, prior to furnishing
+any report or return, the commissioner shall redact any copy of a
+federal return (or portion thereof) attached to, or any information on a
+federal return that is reflected on, such report or return, and any
+social security numbers, account numbers and residential address
+information.
+  (2) No reports or returns shall be furnished pursuant to this
+subsection unless the chairperson of the requesting committee certifies
+in writing that such reports or returns have been requested related to,
+and in furtherance of, a legitimate task of the Congress, that the
+requesting committee has made a written request to the United States
+secretary of the treasury for related federal reports or returns or
+report or return information, pursuant to 26 U.S.C. Section 6103(f), and
+that if such requested reports or returns are inspected by and/or
+submitted to another committee, to the United States House of
+Representatives, or to the United States Senate, then such inspection
+and/or submission shall occur in a manner consistent with federal law as
+informed by the requirements and procedures established in 26 U.S.C.
+Section 6103(f).
   (c) Procedure and preservation of returns. (1) Reports and returns or
 in lieu thereof, copies or reproductions of such reports and returns,
 shall be preserved for eighteen years and thereafter until the
