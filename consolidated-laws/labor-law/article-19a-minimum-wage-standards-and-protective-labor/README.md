@@ -11,6 +11,7 @@
 - [§ 673 Minimum wage](673-minimum-wage.md)
 - [§ 673-A Farm workers; mandatory work agreements](673a-farm-workers-mandatory-work-agreements.md)
 - [§ 674 Regulations](674-regulations.md)
+- [§ 674-A Farm laborers wage board](674a-farm-laborers-wage-board.md)
 - [§ 676 Appeals from regulations](676-appeals-from-regulations.md)
 - [§ 677 Appeals from compliance orders](677-appeals-from-compliance-orders.md)
 - [§ 678 Commissioner's powers of investigation](678-commissioners-powers-of-investigation.md)

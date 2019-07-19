@@ -13,11 +13,20 @@ thirteen hundred ninety-nine-n of this chapter, or the bar area of a
 food service establishment with a valid, on-premises full liquor
 license; (b) in a private club; (c) in a tobacco business as defined in
 subdivision eight of section thirteen hundred ninety-nine-aa of this
-article; or (d) in a place of employment which has an insignificant
+article; or * (d) in a place of employment which has an insignificant
 portion of its regular workforce comprised of people under the age of
 eighteen years and only in such locations that are not accessible to the
 general public; provided, however, that in such locations the vending
 machine is located in plain view and under the direct supervision and
 control of the person in charge of the location or his or her designated
 agent or employee.
+  * NB Effective until November 13, 2019
+  * (d) in a place of employment which has an insignificant portion of
+its regular workforce comprised of people under the age of twenty-one
+years and only in such locations that are not accessible to the general
+public; provided, however, that in such locations the vending machine is
+located in plain view and under the direct supervision and control of
+the person in charge of the location or his or her designated agent or
+employee.
+  * NB Effective November 13, 2019
 ```

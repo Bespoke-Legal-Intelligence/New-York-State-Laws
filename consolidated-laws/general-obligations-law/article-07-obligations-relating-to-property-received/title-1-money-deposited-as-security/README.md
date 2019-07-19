@@ -10,7 +10,7 @@
 - [§ 7-105 Landlord failing to turn over deposits made by tenants or licensees and to notify tenants or licensees thereof in certain cases](7-105-landlord-failing-to-turn-over-deposits.md)
 - [§ 7-106 Money deposited or advanced for certain installations; waiver void](7-106-money-deposited-or-advanced-for-certain.md)
 - [§ 7-107 Liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units](7-107-liability-of-a-grantee-or-assignee.md)
-- [§ 7-108 Liability of a grantee or assignee for deposits made by tenants upon conveyance of non-rent stabilized dwelling units](7-108-liability-of-a-grantee-or-assignee.md)
+- [§ 7-108 Deposits made by tenants of non-rent stabilized dwelling units](7-108-deposits-made-by-tenants-of-non-rent.md)
 - [§ 7-109 Commencement of a proceeding or action by the attorney general to compel compliance](7-109-commencement-of-a-proceeding-or-action.md)
 
 <details>

@@ -7,6 +7,7 @@
 
 - [§ 110 Record and report of injuries by employers](110-record-and-report-of-injuries-by-employers.md)
 - [§ 110-A Confidentiality of workers' compensation records](110a-confidentiality-of-workers-compensation-records.md)
+- [§ 110-B Reporting of injuries to employer](110b-reporting-of-injuries-to-employer.md)
 - [§ 111 Information to be furnished by employer](111-information-to-be-furnished-by-employer.md)
 - [§ 112 Inspection of records of employers](112-inspection-of-records-of-employers.md)
 - [§ 113 Interstate commerce](113-interstate-commerce.md)
@@ -47,6 +48,7 @@
                         Miscellaneous Provisions.
 Section 110.   Record and report of injuries by employers.
         110-a. Confidentiality of workers' compensation records.
+        110-b. Reporting of injuries to employer.
         111.   Information to be furnished by employer.
         112.   Inspection of records of employers.
         113.   Interstate commerce.

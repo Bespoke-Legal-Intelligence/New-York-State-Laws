@@ -9,6 +9,7 @@
 - [§ 161 One day rest in seven](161-one-day-rest-in-seven.md)
 - [§ 162 Time allowed for meals](162-time-allowed-for-meals.md)
 - [§ 163 Hours of labor in brickyards](163-hours-of-labor-in-brickyards.md)
+- [§ 163-A Farm laborers](163a-farm-laborers.md)
 - [§ 164 Hours of labor on street railroads](164-hours-of-labor-on-street-railroads.md)
 - [§ 165 Steam and other railroads](165-steam-and-other-railroads.md)
 - [§ 166 Signalmen](166-signalmen.md)
@@ -28,6 +29,7 @@ Section 160.   Hours to constitute a day's work.
         161.   One day rest in seven.
         162.   Time allowed for meals.
         163.   Hours of labor in brickyards.
+        163-a. Farm laborers.
         164.   Hours of labor on street railroads.
         165.   Steam and other railroads.
         166.   Signalmen.

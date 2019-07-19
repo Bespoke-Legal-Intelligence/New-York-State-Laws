@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 609-A", "kind": "section", "law_id": "EDN", "location_id": "609-A", "path": "TITLE 1 › ARTICLE 13 › SECTION 609-A", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/609-A.md", "title": "New York DREAM fund commission"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 609-A", "kind": "section", "law_id": "EDN", "location_id": "609-A", "path": "TITLE 1 › ARTICLE 13 › SECTION 609-A", "repealed": true, "repealed_date": "2019-07-19", "source": "nys-laws:EDN/609-A.md", "title": "New York DREAM fund commission"} -->
 # Education Law § 609-A — New York DREAM fund commission
 
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 13 — Higher Education Student Financial Aid Programs](README.md)
+
+**Repealed** (19 Jul 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 609-a. New York DREAM fund commission. 1. (a) There shall be

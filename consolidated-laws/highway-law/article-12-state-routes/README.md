@@ -299,6 +299,8 @@
 - [§ 344-H\*13 Portion of the state highway system to be designated as the "Kathy Cairo Davis Memorial Bridge"](344h-13-portion-of-the-state-highway-system-to-be-designated-as-the-kathy-cairo-davis.md)
 - [§ 344-H\*14 Portion of the state highway system to be designated as the "Gold Star Families Memorial Highway"](344h-14-portion-of-the-state-highway-system-to-be-designated-as-the-gold-star-families.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
+- [§ 344-K Portion of the state highway system to be designated as the "Officer Kevin F](344k-portion-of-the-state-highway-system-to-be-designated-as-the-officer-kevin-f.md)
+- [§ 344-K\*2 Portion of the state highway system to be designated as "Melvin Harris, Jr](344k-2-portion-of-the-state-highway-system-to-be-designated-as-melvin-harris-jr.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -992,6 +994,11 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Gold Star Families Memorial Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
+        344-k.     Portion of the state highway system to be designated
+                     as the "Officer Kevin F. Crossley Memorial
+                     Highway".
+        344-k.     Portion of the state highway system to be designated
+                     as "Melvin Harris, Jr. Way".
         345-a.     Abandonment and transfer of state highways.
 ```
 

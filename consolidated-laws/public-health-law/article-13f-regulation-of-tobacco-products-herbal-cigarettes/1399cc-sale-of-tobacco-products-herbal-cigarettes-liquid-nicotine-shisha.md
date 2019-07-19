@@ -28,19 +28,33 @@ this section; and
   (e) "Liquid nicotine", "electronic liquid" or "e-liquid" means a
 liquid composed of nicotine and other chemicals, and which is sold as a
 product that may be used in an electronic cigarette.
-  2. Any person operating a place of business wherein tobacco products,
-herbal cigarettes, liquid nicotine, shisha or electronic cigarettes, are
-sold or offered for sale is prohibited from selling such products,
-herbal cigarettes, liquid nicotine, shisha, electronic cigarettes or
-smoking paraphernalia to individuals under eighteen years of age, and
-shall post in a conspicuous place a sign upon which there shall be
-imprinted the following statement, "SALE OF CIGARETTES, CIGARS, CHEWING
-TOBACCO, POWDERED TOBACCO, SHISHA OR OTHER TOBACCO PRODUCTS, HERBAL
-CIGARETTES, LIQUID NICOTINE, ELECTRONIC CIGARETTES, ROLLING PAPERS OR
-SMOKING PARAPHERNALIA, TO PERSONS UNDER EIGHTEEN YEARS OF AGE IS
-PROHIBITED BY LAW." Such sign shall be printed on a white card in red
+  * 2. Any person operating a place of business wherein tobacco
+products, herbal cigarettes, liquid nicotine, shisha or electronic
+cigarettes, are sold or offered for sale is prohibited from selling such
+products, herbal cigarettes, liquid nicotine, shisha, electronic
+cigarettes or smoking paraphernalia to individuals under eighteen years
+of age, and shall post in a conspicuous place a sign upon which there
+shall be imprinted the following statement, "SALE OF CIGARETTES, CIGARS,
+CHEWING TOBACCO, POWDERED TOBACCO, SHISHA OR OTHER TOBACCO PRODUCTS,
+HERBAL CIGARETTES, LIQUID NICOTINE, ELECTRONIC CIGARETTES, ROLLING
+PAPERS OR SMOKING PARAPHERNALIA, TO PERSONS UNDER EIGHTEEN YEARS OF AGE
+IS PROHIBITED BY LAW." Such sign shall be printed on a white card in red
 letters at least one-half inch in height.
-  3. Sale of tobacco products, herbal cigarettes, liquid nicotine,
+  * NB Effective until November 13, 2019
+  * 2. Any person operating a place of business wherein tobacco
+products, herbal cigarettes, liquid nicotine, shisha or electronic
+cigarettes, are sold or offered for sale is prohibited from selling such
+products, herbal cigarettes, liquid nicotine, shisha, electronic
+cigarettes or smoking paraphernalia to individuals under twenty-one
+years of age, and shall post in a conspicuous place a sign upon which
+there shall be imprinted the following statement, "SALE OF CIGARETTES,
+CIGARS, CHEWING TOBACCO, POWDERED TOBACCO, SHISHA OR OTHER TOBACCO
+PRODUCTS, HERBAL CIGARETTES, LIQUID NICOTINE, ELECTRONIC CIGARETTES,
+ROLLING PAPERS OR SMOKING PARAPHERNALIA, TO PERSONS UNDER TWENTY-ONE
+YEARS OF AGE IS PROHIBITED BY LAW." Such sign shall be printed on a
+white card in red letters at least one-half inch in height.
+  * NB Effective November 13, 2019
+  * 3. Sale of tobacco products, herbal cigarettes, liquid nicotine,
 shisha or electronic cigarettes in such places, other than by a vending
 machine, shall be made only to an individual who demonstrates, through
 (a) a valid driver's license or non-driver's identification card issued
@@ -57,6 +71,25 @@ such appearance shall not constitute a defense in any proceeding
 alleging the sale of a tobacco product, herbal cigarettes, liquid
 nicotine, shisha or electronic cigarettes to an individual under
 eighteen years of age.
+  * NB Effective until November 13, 2019
+  * 3. Sale of tobacco products, herbal cigarettes, liquid nicotine,
+shisha or electronic cigarettes in such places, other than by a vending
+machine, shall be made only to an individual who demonstrates, through
+(a) a valid driver's license or non-driver's identification card issued
+by the commissioner of motor vehicles, the federal government, any
+United States territory, commonwealth or possession, the District of
+Columbia, a state government within the United States or a provincial
+government of the dominion of Canada, or (b) a valid passport issued by
+the United States government or any other country, or (c) an
+identification card issued by the armed forces of the United States,
+indicating that the individual is at least twenty-one years of age. Such
+identification need not be required of any individual who reasonably
+appears to be at least twenty-five years of age, provided, however, that
+such appearance shall not constitute a defense in any proceeding
+alleging the sale of a tobacco product, herbal cigarettes, liquid
+nicotine, shisha or electronic cigarettes to an individual under
+twenty-one years of age.
+  * NB Effective November 13, 2019
   4. (a) Any person operating a place of business wherein tobacco
 products, herbal cigarettes, liquid nicotine, shisha or electronic
 cigarettes are sold or offered for sale may perform a transaction scan
@@ -108,7 +141,7 @@ chapter. The commissioner and the state liquor authority shall jointly
 promulgate any regulation necessary to ensure quality control in the use
 of the transaction scan devices under this chapter and article five of
 the alcoholic beverage control law.
-  7. No person operating a place of business wherein tobacco products,
+  * 7. No person operating a place of business wherein tobacco products,
 herbal cigarettes, liquid nicotine, shisha or electronic cigarettes are
 sold or offered for sale shall sell, permit to be sold, offer for sale
 or display for sale any tobacco product, herbal cigarettes, liquid
@@ -119,4 +152,17 @@ locked container; provided, however, such restriction shall not apply to
 tobacco businesses, as defined in subdivision eight of section thirteen
 hundred ninety-nine-aa of this article, and to places to which admission
 is restricted to persons eighteen years of age or older.
+  * NB Effective until November 13, 2019
+  * 7. No person operating a place of business wherein tobacco products,
+herbal cigarettes, liquid nicotine, shisha or electronic cigarettes are
+sold or offered for sale shall sell, permit to be sold, offer for sale
+or display for sale any tobacco product, herbal cigarettes, liquid
+nicotine, shisha or electronic cigarettes in any manner, unless such
+products and cigarettes are stored for sale (a) behind a counter in an
+area accessible only to the personnel of such business, or (b) in a
+locked container; provided, however, such restriction shall not apply to
+tobacco businesses, as defined in subdivision eight of section thirteen
+hundred ninety-nine-aa of this article, and to places to which admission
+is restricted to persons twenty-one years of age or older.
+  * NB Effective November 13, 2019
 ```

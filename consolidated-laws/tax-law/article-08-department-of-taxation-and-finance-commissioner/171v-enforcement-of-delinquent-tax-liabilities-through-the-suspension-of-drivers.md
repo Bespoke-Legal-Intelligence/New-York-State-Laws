@@ -37,39 +37,8 @@ may be lifted; and
   (c) any other matter the department and the department of motor
 vehicles shall deem necessary to carry out the provisions of this
 section.
-  * (3) The department shall provide notice to the taxpayer of his or
-her inclusion in the license suspension program no later than sixty days
-prior to the date the department intends to inform the commissioner of
-motor vehicles of the taxpayer's inclusion. However, no such notice
-shall be issued to a taxpayer whose wages are being garnished by the
-department for the payment of past-due tax liabilities or past-due child
-support or combined child and spousal support arrears. Notice shall be
-provided by first class mail to the taxpayer's last known address as
-such address appears in the electronic systems or records of the
-department. Such notice shall include:
-  (a) a clear statement of the past-due tax liabilities along with a
-statement that the department shall provide to the department of motor
-vehicles the taxpayer's name, social security number and any other
-identifying information necessary for the purpose of suspending his or
-her driver's license pursuant to this section and subdivision four-f of
-section five hundred ten of the vehicle and traffic law sixty days after
-the mailing or sending of such notice to the taxpayer;
-  (b) a statement that the taxpayer may avoid suspension of his or her
-license by fully satisfying the past-due tax liabilities or by making
-payment arrangements satisfactory to the commissioner, and information
-as to how the taxpayer can pay the past-due tax liabilities to the
-department, enter into a payment arrangement or request additional
-information;
-  (c) a statement that the taxpayer's right to protest the notice is
-limited to raising issues set forth in subdivision five of this section;
-  (d) a statement that the suspension of the taxpayer's driver's license
-shall continue until the past-due tax liabilities are fully paid or the
-taxpayer makes payment arrangements satisfactory to the commissioner;
-and
-  (e) any other information that the commissioner deems necessary.
-  * NB Effective until July 11, 2019
-  * (3) The department shall provide notice to the taxpayer of his or
-her inclusion in the license suspension program no later than sixty days
+  (3) The department shall provide notice to the taxpayer of his or her
+inclusion in the license suspension program no later than sixty days
 prior to the date the department intends to inform the commissioner of
 motor vehicles of the taxpayer's inclusion. However, no such notice
 shall be issued to a taxpayer whose wages are being garnished by the
@@ -100,7 +69,6 @@ shall continue until the past-due tax liabilities are fully paid or the
 taxpayer makes payment arrangements satisfactory to the commissioner;
 and
   (e) any other information that the commissioner deems necessary.
-  * NB Effective July 11, 2019
   (4) After the expiration of the sixty day period, if the taxpayer has
 not challenged the notice pursuant to subdivision five of this section
 and the taxpayer has failed to satisfy the past-due tax liabilities or
@@ -113,38 +81,7 @@ case where a taxpayer fails to comply with the terms of a current
 payment arrangement more than once within a twelve month period, the
 commissioner shall immediately notify the department of motor vehicles
 that the taxpayer's driver's license shall be suspended.
-  * (5) Notwithstanding any other provision of law, and except as
-specifically provided herein, the taxpayer shall have no right to
-commence a court action or proceeding or to any other legal recourse
-against the department or the department of motor vehicles regarding a
-notice issued by the department pursuant to this section and the
-referral by the department of any taxpayer with past-due tax liabilities
-to the department of motor vehicles pursuant to this section for the
-purpose of suspending the taxpayer's driver's license. A taxpayer may
-only challenge such suspension or referral on the grounds that (i) the
-individual to whom the notice was provided is not the taxpayer at issue;
-(ii) the past-due tax liabilities were satisfied; (iii) the taxpayer's
-wages are being garnished by the department for the payment of the
-past-due tax liabilities at issue or for past-due child support or
-combined child and spousal support arrears; (iv) the taxpayer's wages
-are being garnished for the payment of past-due child support or
-combined child and spousal support arrears pursuant to an income
-execution issued pursuant to section five thousand two hundred forty-one
-of the civil practice law and rules; (v) the taxpayer's driver's license
-is a commercial driver's license as defined in section five hundred
-one-a of the vehicle and traffic law; or (vi) the department incorrectly
-found that the taxpayer has failed to comply with the terms of a payment
-arrangement made with the commissioner more than once within a twelve
-month period for the purposes of subdivision three of this section.
-  However, nothing in this subdivision is intended to limit a taxpayer
-from seeking relief from joint and several liability pursuant to section
-six hundred fifty-four of this chapter, to the extent that he or she is
-eligible pursuant to that subdivision, or establishing to the department
-that the enforcement of the underlying tax liabilities has been stayed
-by the filing of a petition pursuant to the Bankruptcy Code of 1978
-(Title Eleven of the United States Code).
-  * NB Effective until July 11, 2019
-  * (5) Notwithstanding any other provision of law, and except as
+  (5) Notwithstanding any other provision of law, and except as
 specifically provided herein, the taxpayer shall have no right to
 commence a court action or proceeding or to any other legal recourse
 against the department or the department of motor vehicles regarding a
@@ -180,7 +117,6 @@ pursuant to such section, or establishing to the department that the
 enforcement of the underlying tax liabilities has been stayed by the
 filing of a petition pursuant to the Bankruptcy Code of 1978 (Title
 Eleven of the United States Code).
-  * NB Effective July 11, 2019
   (6) Notwithstanding any provision of this chapter to the contrary, the
 department may disclose to the department of motor vehicles the
 information described in this section that, in the discretion of the

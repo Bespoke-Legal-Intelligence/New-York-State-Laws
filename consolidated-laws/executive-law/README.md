@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
-| Sections | 900 |
-| Last changed | 5 Jul 2019 |
+| Sections | 906 |
+| Last changed | 19 Jul 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -29,10 +29,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  CHAPTER EIGHTEEN OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (117 lines)](chapter-text.md)
+[Full chapter text (118 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [19 Jul 2019](../../changes/2019/2019-07-19.md): 16 amended, 6 added
 - [5 Jul 2019](../../changes/2019/2019-07-05.md): 3 amended
 - [21 Jun 2019](../../changes/2019/2019-06-21.md): 2 amended
 - [14 Jun 2019](../../changes/2019/2019-06-14.md): 1 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [12 Apr 2019](../../changes/2019/2019-04-12.md): 1 amended
 - [5 Apr 2019](../../changes/2019/2019-04-05.md): 1 amended
 - [22 Mar 2019](../../changes/2019/2019-03-22.md): 2 amended
-- [15 Mar 2019](../../changes/2019/2019-03-15.md): 1 amended
 
 ## Contents
 
@@ -107,6 +107,7 @@ The People of the State of New York, represented in Senate and Assembly,
 - [Article 26 — Division of Homeland Security and Emergency Services](article-26-division-of-homeland-security-and-emergency/)
 - [Article 26-B — Board of Social Welfare](article-26b-board-of-social-welfare/)
 - [Article 27 — Adirondack Park Agency](article-27-adirondack-park-agency/)
+- [Article 28 — Workforce Diversity Program](article-28-workforce-diversity-program/)
 - [Article 30 — Indigent Legal Services](article-30-indigent-legal-services/)
 - [Article 35 — Division of Criminal Justice Services](article-35-division-of-criminal-justice-services/)
 - [Article 36 — Neighborhood Preservation Crime Prevention Act](article-36-neighborhood-preservation-crime-prevention-act/)

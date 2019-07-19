@@ -17,10 +17,16 @@ seating areas, in which the business is the sale of food for on-premises
 consumption.
   3. "Person" means a person, firm, company, corporation, partnership,
 sole proprietor, limited partnership or association.
-  4. "Private club" means an organization with no more than an
+  * 4. "Private club" means an organization with no more than an
 insignificant portion of its membership comprised of people under the
 age of eighteen years that regularly receives dues and/or payments from
 its members for the use of space, facilities and services.
+  * NB Effective until November 13, 2019
+  * 4. "Private club" means an organization with no more than an
+insignificant portion of its membership comprised of people under the
+age of twenty-one years that regularly receives dues and/or payments
+from its members for the use of space, facilities and services.
+  * NB Effective November 13, 2019
   5. "Tobacco products" means one or more cigarettes or cigars, bidis,
 chewing tobacco, powdered tobacco, nicotine water or any other tobacco
 products.

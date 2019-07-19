@@ -114,6 +114,7 @@
 - [§ 398-C Children attending roller skating rinks and indoor ice skating rinks under certain conditions](398c-children-attending-roller-skating-rinks-and-indoor-ice-skating-rinks.md)
 - [§ 398-D Disposal of abandoned molds](398d-disposal-of-abandoned-molds.md)
 - [§ 398-E Indemnity provision in motor carrier transportation contracts](398e-indemnity-provision-in-motor-carrier-transportation-contracts.md)
+- [§ 398-F Children's non-regulated camp](398f-childrens-non-regulated-camp.md)
 - [§ 399 Cigarette package labeling](399-cigarette-package-labeling.md)
 - [§ 399-A Pay toilets; prohibition](399a-pay-toilets-prohibition.md)
 - [§ 399-AA Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](399aa-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
@@ -322,6 +323,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         398-d.     Disposal of abandoned molds.
         398-e.     Indemnity provision in motor carrier transportation
                      contracts.
+        398-f.     Children's non-regulated camp.
         399.       Cigarette package labeling.
         399-a.     Pay toilets; prohibition.
         399-aa.    Prohibition of the selling of fur, hair, skin or

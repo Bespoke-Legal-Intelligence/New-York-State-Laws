@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 7 — Landlord and Tenant](README.md)
 
 ```text
-  * § 227-f. Denial on the basis of involvement in prior disputes
+  § 227-f. Denial on the basis of involvement in prior disputes
 prohibited. 1. No landlord of a residential premises shall refuse to
 rent or offer a lease to a potential tenant on the basis that the
 potential tenant was involved in a past or pending landlord-tenant
@@ -22,5 +22,4 @@ this section, he or she may bring an action or special proceeding in the
 supreme court for a judgment enjoining the continuance of such violation
 and for a civil penalty of not less than five hundred dollars, but not
 more than one thousand dollars for each violation.
-  * NB Effective July 14, 2019
 ```

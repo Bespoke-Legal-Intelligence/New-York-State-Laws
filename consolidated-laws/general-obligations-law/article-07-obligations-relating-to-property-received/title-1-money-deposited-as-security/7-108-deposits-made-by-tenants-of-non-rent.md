@@ -1,25 +1,14 @@
-﻿<!-- nyslaw {"citation": "General Obligations Law § 7-108", "kind": "section", "law_id": "GOB", "location_id": "7-108", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-108", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/7-108.md", "title": "Liability of a grantee or assignee for deposits made by tenants upon conveyance of non-rent stabilized dwelling units"} -->
-# General Obligations Law § 7-108 — Liability of a grantee or assignee for deposits made by tenants upon conveyance of non-rent stabilized dwelling units
+﻿<!-- nyslaw {"citation": "General Obligations Law § 7-108", "kind": "section", "law_id": "GOB", "location_id": "7-108", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-108", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/7-108.md", "title": "Deposits made by tenants of non-rent stabilized dwelling units"} -->
+# General Obligations Law § 7-108 — Deposits made by tenants of non-rent stabilized dwelling units
 
 [General Obligations Law](../../README.md) › [Article 7 — Obligations Relating to Property Received As Security](../README.md) › [Title 1 — Money Deposited As Security to Be Held In Trust In Certain Cases](README.md)
 
 ```text
-  § 7-108.* Liability of a grantee or assignee for deposits made by
-tenants upon conveyance of non-rent stabilized dwelling units.
-  * NB Effective until July 14, 2019
-  *  Deposits made by tenants of non-rent stabilized dwelling units.
-  * NB Effective July 14, 2019
-  * 1. This section shall apply to all dwelling units with written
-leases in residential premises containing six or more dwelling units and
-to all dwelling units subject to the city rent and rehabilitation law or
-the emergency housing rent control law, unless such dwelling unit is
-specifically referred to in section 7-107 of this chapter.
-  * NB Effective until July 14, 2019
-  * 1. This section shall apply to all dwelling units in residential
+  § 7-108. Deposits made by tenants of non-rent stabilized dwelling
+units.  1. This section shall apply to all dwelling units in residential
 premises, unless such dwelling unit is specifically referred to in
 section 7-107 of this title.
-  * NB Effective July 14, 2019
-  * 1-a. Except in dwelling units subject to the city rent and
+  1-a. Except in dwelling units subject to the city rent and
 rehabilitation law or the emergency housing rent control law, continuing
 care retirement communities licensed pursuant to article forty-six or
 forty-six-A of the public health law, assisted living providers licensed
@@ -82,7 +71,6 @@ the reasonableness of the amount retained.
 be liable for actual damages, provided a person found to have willfully
 violated this subdivision shall be liable for punitive damages of up to
 twice the amount of the deposit or advance.
-  * NB Effective July 14, 2019
   2. (a) In circumstances where any sum of money or any other thing of
 value deposited as security for the full performance by a tenant of the
 terms of his lease is not turned over to a successor in interest
