@@ -4,7 +4,7 @@
 [General City Law](../../../README.md) › [Article 2-D — City Personal Income Tax On Residents](../../README.md) › [Part 1-6 — City Personal Income Tax On Residents](../README.md) › [Part 1 — General](README.md)
 
 ```text
-  § 2. Persons subject to tax. (a) Imposition of tax.--A tax determined
+  § 2. Persons subject to tax.--(a) Imposition of tax.--A tax determined
 in accordance with the rates set forth in this local law is hereby
 imposed for each taxable year, ending on or after July first, nineteen
 hundred sixty-six, but commencing prior to January first, nineteen

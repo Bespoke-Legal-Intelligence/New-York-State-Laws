@@ -4,6 +4,6 @@
 [General Construction Law](../README.md) › [Article 1 — Short Title](README.md)
 
 ```text
-Section 1. Short title. This chapter shall be known as the "General
+  § 1. Short title. This chapter shall be known as the "General
 Construction Law."
 ```

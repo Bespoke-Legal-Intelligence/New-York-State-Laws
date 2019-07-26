@@ -298,6 +298,10 @@
 - [§ 344-H\*12 Portion of the state highway system to be designated as the "Conesus Veterans Memorial Highway"](344h-12-portion-of-the-state-highway-system-to-be-designated-as-the-conesus-veterans.md)
 - [§ 344-H\*13 Portion of the state highway system to be designated as the "Kathy Cairo Davis Memorial Bridge"](344h-13-portion-of-the-state-highway-system-to-be-designated-as-the-kathy-cairo-davis.md)
 - [§ 344-H\*14 Portion of the state highway system to be designated as the "Gold Star Families Memorial Highway"](344h-14-portion-of-the-state-highway-system-to-be-designated-as-the-gold-star-families.md)
+- [§ 344-I Portion of the state highway system to be designated as the "Trooper Nicholas F](344i-portion-of-the-state-highway-system-to-be-designated-as-the-trooper-nicholas-f.md)
+- [§ 344-I\*2 Portion of the state highway system to be designated as the "Specialist Allan Milk Memorial Bridge"](344i-2-portion-of-the-state-highway-system-to-be-designated-as-the-specialist-allan.md)
+- [§ 344-I\*3 Portion of the state highway system to be designated as the "Justice Thurgood Marshall memorial highway"](344i-3-portion-of-the-state-highway-system-to-be-designated-as-the-justice-thurgood.md)
+- [§ 344-I\*4 Portion of the state highway system to be designated as the "Sergeant Jeremy J](344i-4-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-jeremy-j.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 344-K Portion of the state highway system to be designated as the "Officer Kevin F](344k-portion-of-the-state-highway-system-to-be-designated-as-the-officer-kevin-f.md)
 - [§ 344-K\*2 Portion of the state highway system to be designated as "Melvin Harris, Jr](344k-2-portion-of-the-state-highway-system-to-be-designated-as-melvin-harris-jr.md)
@@ -992,6 +996,16 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Kathy Cairo Davis Memorial Bridge".
         344-h*14.  Portion of the state highway system to be designated
                      as the "Gold Star Families Memorial Highway".
+        344-i.     Portion of the state highway system to be designated
+                     as the "Trooper Nicholas F. Clark Memorial Bridge".
+        344-i*2.   Portion of the state highway system to be designated
+                     as the "Specialist Allan Milk Memorial Bridge".
+        344-i*3.   Portion of the state highway system to be designated
+                     as the "Justice Thurgood Marshall memorial
+                     highway".
+        344-i*4.   Portion of the state highway system to be designated
+                     as the "Sergeant Jeremy J. VanNostrand Memorial
+                     Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PEN |
 | Type | Consolidated law, chapter 40 |
-| Sections | 864 (5 repealed) |
-| Last changed | 19 Jul 2019 |
+| Sections | 860 |
+| Last changed | 26 Jul 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Penal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [26 Jul 2019](../../changes/2019/2019-07-26.md): 1 added, 5 removed
 - [19 Jul 2019](../../changes/2019/2019-07-19.md): 2 amended
 - [5 Jul 2019](../../changes/2019/2019-07-05.md): 4 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 23 amended
 - [1 Mar 2019](../../changes/2019/2019-03-01.md): 1 amended
 - [1 Feb 2019](../../changes/2019/2019-02-01.md): 5 amended
-- [25 Jan 2019](../../changes/2019/2019-01-25.md): 4 amended, 5 repealed
 
 ## Contents
 

@@ -4,8 +4,8 @@
 [General City Law](../../../README.md) › [Article 2-D — City Personal Income Tax On Residents](../../README.md) › [Part 1-6 — City Personal Income Tax On Residents](../README.md) › [Part 6 — Miscellaneous](README.md)
 
 ```text
-  § 90. Deposit and disposition of revenues by administrator.- All
-taxes, penalties and interest imposed under this local law which are
-paid to or collected by the administrator shall be deposited by the
-administrator in the general fund of the city imposing such tax.
+  § 90. Deposit and disposition of revenues by administrator. All taxes,
+penalties and interest imposed under this local law which are paid to or
+collected by the administrator shall be deposited by the administrator
+in the general fund of the city imposing such tax.
 ```

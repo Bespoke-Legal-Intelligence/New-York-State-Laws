@@ -14,6 +14,7 @@
 - [§ 51 Action for injunction and for damages](51-action-for-injunction-and-for-damages.md)
 - [§ 52 Televising, broadcasting or taking motion pictures of certain proceedings prohibited](52-televising-broadcasting-or-taking-motion-pictures-of-certain-proceedings.md)
 - [§ 52-A Private right of action for unwarranted video imaging of residential premises](52a-private-right-of-action-for-unwarranted-video-imaging-of-residential-premises.md)
+- [§ 52-B Private right of action for unlawful dissemination or publication of an intimate image](52b-private-right-of-action-for-unlawful-dissemination-or-publication-of-an-intimate.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -36,6 +37,8 @@ Section 50.   Right of privacy.
                 certain proceedings prohibited.
         52-a. Private right of action for unwarranted video imaging of
                 residential premises.
+        52-b. Private right of action for unlawful dissemination or
+                publication of an intimate image.
 ```
 
 </details>

@@ -48,6 +48,7 @@
 - [§ 379 Prohibition of the selling of fur, hair, skin or flesh of a dog or cat](379-prohibition-of-the-selling-of-fur-hair-skin-or-flesh-of-a-dog-or-cat.md)
 - [§ 380 Use of elephants in entertainment acts](380-use-of-elephants-in-entertainment-acts.md)
 - [§ 380\*2 Examination of seized animals or animals taken possession of](380-2-examination-of-seized-animals-or-animals-taken-possession.md)
+- [§ 381 Prohibition of the declawing of cats](381-prohibition-of-the-declawing-of-cats.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -110,6 +111,7 @@ Section 350.   Definitions.
         380.   Use of elephants in entertainment acts.
         380*2. Examination of seized animals or animals taken possession
                  of.
+        381.   Prohibition of the declawing of cats.
 ```
 
 </details>

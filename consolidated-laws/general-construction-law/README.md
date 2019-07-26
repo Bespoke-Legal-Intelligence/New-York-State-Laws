@@ -8,11 +8,11 @@
 | Senate code | GCN |
 | Type | Consolidated law, chapter 22 |
 | Sections | 97 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 26 Jul 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Construction |
 
-**Short title (from the law itself):** Section 1. Short title. This chapter shall be known as the "General Construction Law."
+**Short title (from the law itself):** § 1. Short title. This chapter shall be known as the "General Construction Law."
 
 ## Chapter text as published
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (19 lines)](chapter-text.md)
+
+## Recent changes
+
+- [26 Jul 2019](../../changes/2019/2019-07-26.md): 1 amended
 
 ## Contents
 

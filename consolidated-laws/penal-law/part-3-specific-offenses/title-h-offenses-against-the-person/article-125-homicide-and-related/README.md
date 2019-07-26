@@ -19,11 +19,6 @@
 - [§ 125.25 Murder in the second degree](125.25-murder-in-the-second-degree.md)
 - [§ 125.26 Aggravated murder](125.26-aggravated-murder.md)
 - [§ 125.27 Murder in the first degree](125.27-murder-in-the-first-degree.md)
-- [§ 125.40 Abortion in the second degree](125.40-abortion-in-the-second-degree.md) *(repealed)*
-- [§ 125.45 Abortion in the first degree](125.45-abortion-in-the-first-degree.md) *(repealed)*
-- [§ 125.50 Self-abortion in the second degree](125.50-self-abortion-in-the-second-degree.md) *(repealed)*
-- [§ 125.55 Self-abortion in the first degree](125.55-self-abortion-in-the-first-degree.md) *(repealed)*
-- [§ 125.60 Issuing abortional articles](125.60-issuing-abortional-articles.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 125, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

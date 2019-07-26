@@ -12,6 +12,7 @@
 - [§ 245.05 Offensive exhibition](245.05-offensive-exhibition.md)
 - [§ 245.10 Public display of offensive sexual material; definitions of terms](245.10-public-display-of-offensive-sexual.md)
 - [§ 245.11 Public display of offensive sexual material](245.11-public-display-of-offensive-sexual.md)
+- [§ 245.15 Unlawful dissemination or publication of an intimate image](245.15-unlawful-dissemination-or-publication.md)
 
 <details>
 <summary>Official heading of Article 245, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,8 @@ Section 245.00 Public lewdness.
         245.10 Public display of offensive sexual material; definitions
                  of terms.
         245.11 Public display of offensive sexual material.
+        245.15 Unlawful dissemination or publication of an intimate
+                 image.
 ```
 
 </details>
