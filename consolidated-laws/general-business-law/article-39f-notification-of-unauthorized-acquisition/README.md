@@ -6,15 +6,21 @@
 ## Contents
 
 - [§ 899-AA Notification; person without valid authorization has acquired private information](899aa-notification-person-without-valid-authorization-has-acquired-private.md)
+- [§ 899-BB Data security protections](899bb-data-security-protections.md)
 
 <details>
 <summary>Official heading of Article 39-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
                               ARTICLE 39-F
-     NOTIFICATION OF UNAUTHORIZED ACQUISITION OF PRIVATE INFORMATION
+    * NOTIFICATION OF UNAUTHORIZED ACQUISITION OF PRIVATE INFORMATION
+  * NB Effective until October 23, 2019
+           * NOTIFICATION OF UNAUTHORIZED ACQUISITION OF PRIVATE
+                 INFORMATION DATA; SECURITY PROTECTIONS
+* NB Effective October 9, 2019
 Section 899-aa. Notification; person without valid authorization has
                   acquired private information.
+        899-bb. Data security protections.
 ```
 
 </details>

@@ -17,6 +17,7 @@
 - [§ 333 Expedited deployment funding of local public safety answering points](333-expedited-deployment-funding-of-local-public-safety-answering-points.md)
 - [§ 334 County of Onondaga enhanced 911 emergency telephone system](334-county-of-onondaga-enhanced-911-emergency-telephone-system.md)
 - [§ 335 County of Tompkins enhanced 911 emergency telephone system](335-county-of-tompkins-enhanced-911-emergency-telephone-system.md)
+- [§ 336 County of Broome enhanced 911 emergency telephone system](336-county-of-broome-enhanced-911-emergency-telephone-system.md)
 
 <details>
 <summary>Official heading of Article 6-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -41,6 +42,7 @@ Section 325.   Definitions.
                  system.
         335.   County of Tompkins enhanced 911 emergency telephone
                  system.
+        336.   County of Broome enhanced 911 emergency telephone system.
 ```
 
 </details>

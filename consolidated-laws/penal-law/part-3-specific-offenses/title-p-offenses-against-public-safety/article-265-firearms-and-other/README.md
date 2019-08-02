@@ -3,12 +3,15 @@
 
 [Penal Law](../../../README.md) › [Part 3 — Specific Offenses](../../README.md) › [Title P — Offenses Against Public Safety](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 265.00 Definitions](265.00-definitions.md)
 - [§ 265.01 Criminal possession of a weapon in the fourth degree](265.01-criminal-possession-of-a-weapon-in-the-fourth.md)
 - [§ 265.01-A Criminal possession of a weapon on school grounds](265.01-a-criminal-possession-of-a-weapon-on-school.md)
 - [§ 265.01-B Criminal possession of a firearm](265.01-b-criminal-possession-of-a-firearm.md)
+- [§ 265.01-C Criminal possession of a rapid-fire modification device](265.01-c-criminal-possession-of-a-rapid-fire.md)
 - [§ 265.02 Criminal possession of a weapon in the third degree](265.02-criminal-possession-of-a-weapon-in-the-third.md)
 - [§ 265.03 Criminal possession of a weapon in the second degree](265.03-criminal-possession-of-a-weapon-in-the-second.md)
 - [§ 265.04 Criminal possession of a weapon in the first degree](265.04-criminal-possession-of-a-weapon-in-the-first.md)
@@ -34,6 +37,9 @@
 - [§ 265.37 Unlawful possession of certain ammunition feeding devices](265.37-unlawful-possession-of-certain-ammunition.md)
 - [§ 265.40 Purchase of rifles and/or shotguns in contiguous states](265.40-purchase-of-rifles-and-or-shotguns.md)
 - [§ 265.45 Safe storage of rifles, shotguns, and firearms](265.45-safe-storage-of-rifles-shotguns-and-firearms.md)
+- [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
+- [§ 265.50\*2 Failure to safely store rifles, shotguns, and firearms in the second degree](265.50-2-failure-to-safely-store-rifles-shotguns.md)
+- [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)
 
 <details>
 <summary>Official heading of Article 265, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -45,6 +51,8 @@ Section 265.00   Definitions.
         265.01   Criminal possession of a weapon in the fourth degree.
         265.01-a Criminal possession of a weapon on school grounds.
         265.01-b Criminal possession of a firearm.
+        265.01-c Criminal possession of a rapid-fire modification
+                   device.
         265.02   Criminal possession of a weapon in the third degree.
         265.03   Criminal possession of a weapon in the second degree.
         265.04   Criminal possession of a weapon in the first degree.
@@ -76,6 +84,12 @@ Section 265.00   Definitions.
         265.40   Purchase of rifles and/or shotguns in contiguous
                    states.
         265.45   Safe storage of rifles, shotguns, and firearms.
+        265.50   Criminal manufacture, sale, or transport of an
+                   undetectable firearm, rifle or shotgun.
+        265.50*2 Failure to safely store rifles, shotguns, and firearms
+                   in the second degree.
+        265.55   Criminal possession of an undetectable firearm, rifle
+                   or shotgun.
 ```
 
 </details>

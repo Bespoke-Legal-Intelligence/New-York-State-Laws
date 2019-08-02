@@ -121,6 +121,7 @@
 - [§ 97-Z Arts capital grants fund](97z-arts-capital-grants-fund.md)
 - [§ 97-AA The New York state "Discover Queens fund"](97aa-the-new-york-state-discover-queens-fund.md)
 - [§ 97-BB Criminal justice improvement account](97bb-criminal-justice-improvement-account.md)
+- [§ 97-CC Municipal gun buyback program fund](97cc-municipal-gun-buyback-program-fund.md)
 - [§ 97-DD Eminent domain account](97dd-eminent-domain-account.md)
 - [§ 97-EE New York Great Lakes protection fund](97ee-new-york-great-lakes-protection-fund.md)
 - [§ 97-FF Empire state entertainment diversity job training development fund](97ff-empire-state-entertainment-diversity-job-training-development-fund.md)
@@ -404,6 +405,7 @@ Section 70.        Classification of funds.
         97-z.      Arts capital grants fund.
         97-aa.     The New York state "Discover Queens fund".
         97-bb.     Criminal justice improvement account.
+        97-cc.     Municipal gun buyback program fund.
         97-dd.     Eminent domain account.
         97-ee.     New York Great Lakes protection fund.
         97-ff.     Empire state entertainment diversity job training

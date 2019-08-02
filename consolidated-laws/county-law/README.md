@@ -7,12 +7,10 @@
 |---|---|
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
-| Sections | 445 (50 repealed) |
-| Last changed | 12 Jul 2019 |
+| Sections | 396 |
+| Last changed | 2 Aug 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
-
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** Section 1. Short title. This chapter shall be known as the "County Law".
 
@@ -33,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [2 Aug 2019](../../changes/2019/2019-08-02.md): 1 amended, 1 added, 50 removed
 - [12 Jul 2019](../../changes/2019/2019-07-12.md): 1 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
 - [5 Apr 2019](../../changes/2019/2019-04-05.md): 2 amended
@@ -42,7 +41,6 @@ Assembly, do enact as follows:
 - [1 Jun 2018](../../changes/2018/2018-06-01.md): 1 amended
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 2 amended
 - [23 Feb 2018](../../changes/2018/2018-02-23.md): 1 amended
-- [8 Dec 2017](../../changes/2017/2017-12-08.md): 50 repealed
 
 ## Contents
 
