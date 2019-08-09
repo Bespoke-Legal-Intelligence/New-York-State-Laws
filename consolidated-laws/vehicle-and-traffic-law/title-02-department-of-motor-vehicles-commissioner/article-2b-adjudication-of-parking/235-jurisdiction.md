@@ -4,9 +4,9 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 2 — Department of Motor Vehicles; Commissioner](../README.md) › [Article 2-B — Adjudication of Parking Infractions](README.md)
 
 ```text
-  * § 235. Jurisdiction.  1. Notwithstanding any inconsistent provision
-of any general, special or local law or administrative code to the
-contrary, in any city which heretofore or hereafter is authorized to
+  * § 235. Jurisdiction. ** 1. Notwithstanding any inconsistent
+provision of any general, special or local law or administrative code to
+the contrary, in any city which heretofore or hereafter is authorized to
 establish an administrative tribunal to hear and determine complaints of
 traffic infractions constituting parking, standing or stopping
 violations, or to adjudicate the liability of owners for violations of
@@ -35,6 +35,41 @@ hundred eighty of this chapter in accordance with section eleven hundred
 eighty-b of this chapter, such tribunal and the rules and regulations
 pertaining thereto shall be constituted in substantial conformance with
 the following sections.
+  ** NB Effective until September 5, 2019
+  ** 1. Notwithstanding any inconsistent provision of any general,
+special or local law or administrative code to the contrary, in any city
+which heretofore or hereafter is authorized to establish an
+administrative tribunal to hear and determine complaints of traffic
+infractions constituting parking, standing or stopping violations, or to
+adjudicate the liability of owners for violations of subdivision (d) of
+section eleven hundred eleven of this chapter in accordance with section
+eleven hundred eleven-a of this chapter, or to adjudicate the liability
+of owners for violations of subdivision (d) of section eleven hundred
+eleven of this chapter in accordance with sections eleven hundred
+eleven-b of this chapter as added by sections sixteen of chapters
+twenty, and twenty-two of the laws of two thousand nine, or to
+adjudicate the liability of owners for violations of subdivision (d) of
+section eleven hundred eleven of this chapter in accordance with section
+eleven hundred eleven-d of this chapter, or to adjudicate the liability
+of owners for violations of section eleven hundred seventy-four of this
+chapter in accordance with section eleven hundred seventy-four-a of this
+chapter, or to adjudicate the liability of owners for violations of
+subdivision (d) of section eleven hundred eleven of this chapter in
+accordance with section eleven hundred eleven-e of this chapter, or to
+adjudicate the liability of owners for violations of toll collection
+regulations as defined in and in accordance with the provisions of
+section two thousand nine hundred eighty-five of the public authorities
+law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
+hundred seventy-four of the laws of nineteen hundred fifty, or to
+adjudicate liability of owners in accordance with section eleven hundred
+eleven-c of this chapter for violations of bus lane restrictions as
+defined in subdivision (b), (c), (d), (f) or (g) of such section, or to
+adjudicate the liability of owners for violations of section eleven
+hundred eighty of this chapter in accordance with section eleven hundred
+eighty-b of this chapter, such tribunal and the rules and regulations
+pertaining thereto shall be constituted in substantial conformance with
+the following sections.
+  ** NB Effective September 5, 2019 until December 1, 2024
   2. Notwithstanding any inconsistent provision of any general, special
 or local law or administrative code to the contrary, any city with a
 population in excess of one hundred thousand persons according to the
@@ -225,42 +260,15 @@ accordance with section eleven hundred eleven-a of this chapter, or to
 adjudicate the liability of owners for violations of subdivision (d) of
 section eleven hundred eleven of this chapter in accordance with
 sections eleven hundred eleven-b of this chapter as added by sections
-sixteen of chapters twenty, twenty-one, and twenty-two of the laws of
-two thousand nine, or to adjudicate the liability of owners for
-violations of subdivision (d) of section eleven hundred eleven of this
-chapter in accordance with section eleven hundred eleven-d of this
-chapter, or to adjudicate the liability of owners for violations of
+sixteen of chapters twenty, and twenty-two of the laws of two thousand
+nine, or to adjudicate the liability of owners for violations of
 subdivision (d) of section eleven hundred eleven of this chapter in
-accordance with section eleven hundred eleven-e of this chapter, or to
-adjudicate the liability of owners for violations of toll collection
-regulations as defined in and in accordance with the provisions of
-section two thousand nine hundred eighty-five of the public authorities
-law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty, or to
-adjudicate liability of owners in accordance with section eleven hundred
-eleven-c of this chapter for violations of bus lane restrictions as
-defined in such section, or to adjudicate the liability of owners for
-violations of subdivision (b), (c), (d), (f) or (g) of section eleven
-hundred eighty of this chapter in accordance with section eleven hundred
-eighty-b of this chapter, such tribunal and the rules and regulations
-pertaining thereto shall be constituted in substantial conformance with
-the following sections.
-  * NB Effective September 1, 2020 until December 1, 2024
-  * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
-any general, special or local law or administrative code to the
-contrary, in any city which heretofore or hereafter is authorized to
-establish an administrative tribunal to hear and determine complaints of
-traffic infractions constituting parking, standing or stopping
-violations, or to adjudicate the liability of owners for violations of
-subdivision (d) of section eleven hundred eleven of this chapter in
-accordance with sections eleven hundred eleven-b of this chapter as
-added by sections sixteen of chapters twenty, twenty-one, and twenty-two
-of the laws of two thousand nine, or to adjudicate the liability of
-owners for violations of subdivision (d) of section eleven hundred
-eleven of this chapter in accordance with section eleven hundred
-eleven-d of this chapter, or to adjudicate the liability of owners for
-violations of subdivision (d) of section eleven hundred eleven of this
-chapter in accordance with section eleven hundred eleven-e of this
+accordance with section eleven hundred eleven-d of this chapter, or to
+adjudicate the liability of owners for violations of subdivision (d) of
+section eleven hundred eleven of this chapter in accordance with section
+eleven hundred eleven-e of this chapter, or to adjudicate the liability
+of owners for violations of section eleven hundred seventy-four of this
+chapter in accordance with section eleven hundred seventy-four-a of this
 chapter, or to adjudicate the liability of owners for violations of toll
 collection regulations as defined in and in accordance with the
 provisions of section two thousand nine hundred eighty-five of the
@@ -274,7 +282,7 @@ section eleven hundred eighty of this chapter in accordance with section
 eleven hundred eighty-b of this chapter, such tribunal and the rules and
 regulations pertaining thereto shall be constituted in substantial
 conformance with the following sections.
-  * NB Effective and Expires December 1, 2024
+  * NB Effective September 1, 2020 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
 contrary, in any city which heretofore or hereafter is authorized to
@@ -282,10 +290,17 @@ establish an administrative tribunal to hear and determine complaints of
 traffic infractions constituting parking, standing or stopping
 violations, or to adjudicate the liability of owners for violations of
 subdivision (d) of section eleven hundred eleven of this chapter in
-accordance with section eleven hundred eleven-d of this chapter, or to
-adjudicate the liability of owners for violations of subdivision (d) of
-section eleven hundred eleven of this chapter in accordance with section
-eleven hundred eleven-e of this chapter, or to adjudicate the liability
+accordance with sections eleven hundred eleven-b of this chapter as
+added by sections sixteen of chapters twenty, and twenty-two of the laws
+of two thousand nine, or to adjudicate the liability of owners for
+violations of subdivision (d) of section eleven hundred eleven of this
+chapter in accordance with section eleven hundred eleven-d of this
+chapter, or to adjudicate the liability of owners for violations of
+subdivision (d) of section eleven hundred eleven of this chapter in
+accordance with section eleven hundred eleven-e of this chapter, or to
+adjudicate the liability of owners for violations of section eleven
+hundred seventy-four of this chapter in accordance with section eleven
+hundred seventy-four-a of this chapter, or to adjudicate the liability
 of owners for violations of toll collection regulations as defined in
 and in accordance with the provisions of section two thousand nine
 hundred eighty-five of the public authorities law and sections
@@ -299,6 +314,33 @@ of this chapter in accordance with section eleven hundred eighty-b of
 this chapter, such tribunal and the rules and regulations pertaining
 thereto shall be constituted in substantial conformance with the
 following sections.
+  * NB Effective and Expires December 1, 2024
+  * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
+any general, special or local law or administrative code to the
+contrary, in any city which heretofore or hereafter is authorized to
+establish an administrative tribunal to hear and determine complaints of
+traffic infractions constituting parking, standing or stopping
+violations, or to adjudicate the liability of owners for violations of
+subdivision (d) of section eleven hundred eleven of this chapter in
+accordance with section eleven hundred eleven-d of this chapter, or to
+adjudicate the liability of owners for violations of subdivision (d) of
+section eleven hundred eleven of this chapter in accordance with section
+eleven hundred eleven-e of this chapter, or to adjudicate the liability
+of owners for violations of section eleven hundred seventy-four of this
+chapter in accordance with section eleven hundred seventy-four-a of this
+chapter, or to adjudicate the liability of owners for violations of toll
+collection regulations as defined in and in accordance with the
+provisions of section two thousand nine hundred eighty-five of the
+public authorities law and sections sixteen-a, sixteen-b and sixteen-c
+of chapter seven hundred seventy-four of the laws of nineteen hundred
+fifty, or to adjudicate liability of owners in accordance with section
+eleven hundred eleven-c of this chapter for violations of bus lane
+restrictions as defined in such section, or to adjudicate the liability
+of owners for violations of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter in accordance with section
+eleven hundred eighty-b of this chapter, such tribunal and the rules and
+regulations pertaining thereto shall be constituted in substantial
+conformance with the following sections.
   *NB Effective December 1, 2024 until September 20, 2025
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
@@ -311,16 +353,19 @@ accordance with section eleven hundred eleven-d of this chapter, or to
 adjudicate the liability of owners for violations of subdivision (d) of
 section eleven hundred eleven of this chapter in accordance with section
 eleven hundred eleven-e of this chapter, or to adjudicate the liability
-of owners for violations of toll collection regulations as defined in
-and in accordance with the provisions of section two thousand nine
-hundred eighty-five of the public authorities law and sections
-sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
-of the laws of nineteen hundred fifty, or to adjudicate liability of
-owners for violations of subdivisions (c) and (d) of section eleven
-hundred eighty of this chapter in accordance with section eleven hundred
-eighty-b of this chapter, such tribunal and the rules and regulations
-pertaining thereto shall be constituted in substantial conformance with
-the following sections.
+of owners for violations of section eleven hundred seventy-four of this
+chapter in accordance with section eleven hundred seventy-four-a of this
+chapter, or to adjudicate the liability of owners for violations of toll
+collection regulations as defined in and in accordance with the
+provisions of section two thousand nine hundred eighty-five of the
+public authorities law and sections sixteen-a, sixteen-b and sixteen-c
+of chapter seven hundred seventy-four of the laws of nineteen hundred
+fifty, or to adjudicate liability of owners for violations of
+subdivisions (c) and (d) of section eleven hundred eighty of this
+chapter in accordance with section eleven hundred eighty-b of this
+chapter, such tribunal and the rules and regulations pertaining thereto
+shall be constituted in substantial conformance with the following
+sections.
   * NB Effective September 20, 2025 until July 1, 2022
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
@@ -333,13 +378,16 @@ accordance with section eleven hundred eleven-d of this chapter, or to
 adjudicate the liability of owners for violations of subdivision (d) of
 section eleven hundred eleven of this chapter in accordance with section
 eleven hundred eleven-e of this chapter, or to adjudicate the liability
-of owners for violations of toll collection regulations as defined in
-and in accordance with the provisions of section two thousand nine
-hundred eighty-five of the public authorities law and sections
-sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
-of the laws of nineteen hundred fifty, such tribunal and the rules and
-regulations pertaining thereto shall be constituted in substantial
-conformance with the following sections.
+of owners for violations of section eleven hundred seventy-four of this
+chapter in accordance with section eleven hundred seventy-four-a of this
+chapter, or to adjudicate the liability of owners for violations of toll
+collection regulations as defined in and in accordance with the
+provisions of section two thousand nine hundred eighty-five of the
+public authorities law and sections sixteen-a, sixteen-b and sixteen-c
+of chapter seven hundred seventy-four of the laws of nineteen hundred
+fifty, such tribunal and the rules and regulations pertaining thereto
+shall be constituted in substantial conformance with the following
+sections.
   * NB Effective July 1, 2022 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
@@ -349,13 +397,16 @@ traffic infractions constituting parking, standing or stopping
 violations, or to adjudicate the liability of owners for violations of
 subdivision (d) of section eleven hundred eleven of this chapter in
 accordance with section eleven hundred eleven-e of this chapter, or to
-adjudicate the liability of owners for violations of toll collection
-regulations as defined in and in accordance with the provisions of
-section two thousand nine hundred eighty-five of the public authorities
-law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty, such
-tribunal and the rules and regulations pertaining thereto shall be
-constituted in substantial conformance with the following sections.
+adjudicate the liability of owners for violations of section eleven
+hundred seventy-four of this chapter in accordance with section eleven
+hundred seventy-four-a of this chapter, or to adjudicate the liability
+of owners for violations of toll collection regulations as defined in
+and in accordance with the provisions of section two thousand nine
+hundred eighty-five of the public authorities law and sections
+sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+of the laws of nineteen hundred fifty, such tribunal and the rules and
+regulations pertaining thereto shall be constituted in substantial
+conformance with the following sections.
   * NB Effective December 1, 2024 until December 1, 2024
   * § 235. Jurisdiction. Notwithstanding any inconsistent provision of
 any general, special or local law or administrative code to the
@@ -363,12 +414,14 @@ contrary, in any city which heretofore or hereafter is authorized to
 establish an administrative tribunal to hear and determine complaints of
 traffic infractions constituting parking, standing or stopping
 violations, or to adjudicate the liability of owners for violations of
-toll collection regulations as defined in and in accordance with the
-provisions of section two thousand nine hundred eighty-five of the
-public authorities law and sections sixteen-a, sixteen-b and sixteen-c
-of chapter seven hundred seventy-four of the laws of nineteen hundred
-fifty, such tribunal and the rules and regulations pertaining thereto
-shall be constituted in substantial conformance with the following
-sections.
+section eleven hundred seventy-four of this chapter in accordance with
+section eleven hundred seventy-four-a of this chapter, or to adjudicate
+the liability of owners for violations of toll collection regulations as
+defined in and in accordance with the provisions of section two thousand
+nine hundred eighty-five of the public authorities law and sections
+sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+of the laws of nineteen hundred fifty, such tribunal and the rules and
+regulations pertaining thereto shall be constituted in substantial
+conformance with the following sections.
   * NB Effective December 1, 2024
 ```

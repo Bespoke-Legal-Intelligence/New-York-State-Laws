@@ -10,6 +10,7 @@
 - [§ 1172 Stop signs and yield signs](1172-stop-signs-and-yield-signs.md)
 - [§ 1173 Emerging from alley, driveway, private road or building](1173-emerging-from-alley-driveway-private-road-or-building.md)
 - [§ 1174 Overtaking and passing school bus](1174-overtaking-and-passing-school-bus.md)
+- [§ 1174-A Owner liability for failure of operator to stop for a school bus displaying a red visual signal and stop-arm](1174a-owner-liability-for-failure-of-operator-to-stop-for-a-school-bus.md)
 - [§ 1175 Obstructing traffic at intersection](1175-obstructing-traffic-at-intersection.md)
 - [§ 1176 Obstructing highway-railroad grade crossings](1176-obstructing-highway-railroad-grade-crossings.md)
 
@@ -19,14 +20,17 @@
 ```text
                                ARTICLE 29
                          SPECIAL STOPS REQUIRED
-Section 1170. Obedience to signal indicating approach of train.
-        1171. Certain vehicles must stop at all railroad grade
-                crossings.
-        1172. Stop signs and yield signs.
-        1173. Emerging from alley, driveway, private road or building.
-        1174. Overtaking and passing school bus.
-        1175. Obstructing traffic at intersection.
-        1176. Obstructing highway-railroad grade crossings.
+Section 1170.   Obedience to signal indicating approach of train.
+        1171.   Certain vehicles must stop at all railroad grade
+                  crossings.
+        1172.   Stop signs and yield signs.
+        1173.   Emerging from alley, driveway, private road or building.
+        1174.   Overtaking and passing school bus.
+        1174-a. Owner liability for failure of operator to stop for a
+                  school bus displaying a red visual signal and
+                  stop-arm.
+        1175.   Obstructing traffic at intersection.
+        1176.   Obstructing highway-railroad grade crossings.
 ```
 
 </details>
