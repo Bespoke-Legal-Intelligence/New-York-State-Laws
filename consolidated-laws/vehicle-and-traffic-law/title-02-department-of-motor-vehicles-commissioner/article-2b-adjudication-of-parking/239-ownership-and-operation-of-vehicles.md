@@ -41,18 +41,20 @@ subdivision nine of section two hundred thirty-seven of this article,
 but shall not be deemed to include a notice of liability issued pursuant
 to authorization set forth in section eleven hundred eleven-a of this
 chapter, or sections eleven hundred eleven-b of this chapter as added by
-sections sixteen of chapters twenty, twenty-one, and twenty-two of the
-laws of two thousand nine, or section eleven hundred eleven-d of this
-chapter, or section eleven hundred eleven-e of this chapter, and shall
-not be deemed to include a notice of liability issued pursuant to
-section two thousand nine hundred eighty-five of the public authorities
-law and sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty and shall not
-be deemed to include a notice of liability issued pursuant to section
-eleven hundred eleven-c of this chapter and shall not be deemed to
-include a notice of liability issued pursuant to section eleven hundred
-eighty-b of this chapter.
-  * NB Effective until September 5, 2019
+sections sixteen of chapters twenty, and twenty-two of the laws of two
+thousand nine, or section eleven hundred eleven-d of this chapter, or
+section eleven hundred eleven-e of this chapter, or section eleven
+hundred seventy-four-a of this chapter, and shall not be deemed to
+include a notice of liability issued pursuant to section two thousand
+nine hundred eighty-five of the public authorities law and sections
+sixteen-a, sixteen-b and sixteen-c of chapter seven hundred seventy-four
+of the laws of nineteen hundred fifty and shall not be deemed to include
+a notice of liability issued pursuant to section eleven hundred eleven-c
+of this chapter and shall not be deemed to include a notice of liability
+issued pursuant to section eleven hundred eighty-b of this chapter and
+shall not be deemed to include a notice of liability issued pursuant to
+section eleven hundred eighty-d of this chapter.
+  * NB Effective until September 6, 2024
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article,
 but shall not be deemed to include a notice of liability issued pursuant
@@ -69,7 +71,7 @@ of the laws of nineteen hundred fifty and shall not be deemed to include
 a notice of liability issued pursuant to section eleven hundred eleven-c
 of this chapter and shall not be deemed to include a notice of liability
 issued pursuant to section eleven hundred eighty-b of this chapter.
-  * NB Effective until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article but
 shall not be deemed to include a notice of liability issued pursuant to
@@ -81,7 +83,10 @@ section eleven hundred seventy-four-a of this chapter and shall not be
 deemed to include a notice of liability issued pursuant to section
 eleven hundred eleven-c of this chapter and shall not be deemed to
 include a notice of liability issued pursuant to section eleven hundred
-eighty-b of this chapter.
+eighty-b of this chapter and shall not be deemed to include a notice of
+liability issued pursuant to section eleven hundred eighty-d of this
+chapter and shall not be deemed to include a notice of liability issued
+pursuant to section eleven hundred eighty-d of this chapter.
   * NB Effective and expires December 1, 2024
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article and
@@ -94,7 +99,8 @@ eleven hundred seventy-four-a of this chapter and shall not be deemed to
 include a notice of liability issued pursuant to section eleven hundred
 eleven-c of this chapter and shall not be deemed to include a notice of
 liability issued pursuant to section eleven hundred eighty-b of this
-chapter.
+chapter and shall not be deemed to include a notice of liability issued
+pursuant to section eleven hundred eighty-d of this chapter.
   * NB Effective December 1, 2024 until September 20, 2025
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article and
@@ -105,7 +111,9 @@ forth in section eleven hundred eleven-e of this chapter or to a notice
 of liability issued pursuant to authorization set forth in section
 eleven hundred seventy-four-a of this chapter and shall not be deemed to
 include a notice of liability issued pursuant to section eleven hundred
-eighty-b of this chapter.
+eighty-b of this chapter and shall not be deemed to include a notice of
+liability issued pursuant to section eleven hundred eighty-d of this
+chapter.
   * NB Effective September 20, 2025 until July 1, 2022
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article and
@@ -114,20 +122,28 @@ authorization set forth in section eleven hundred eleven-d of this
 chapter or to a notice of liability issued pursuant to authorization set
 forth in section eleven hundred eleven-e of this chapter or to a notice
 of liability issued pursuant to authorization set forth in section
-eleven hundred seventy-four-a of this chapter.
+eleven hundred seventy-four-a of this chapter and shall not be deemed to
+include a notice of liability issued pursuant to section eleven hundred
+eighty-d of this chapter.
   * NB Effective July 1, 2022 until December 1, 2024
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article and
 shall not be deemed to include a notice of liability issued pursuant to
 authorization set forth in section eleven hundred eleven-e of this
 chapter or to a notice of liability issued pursuant to authorization set
-forth in section eleven hundred seventy-four-a of this chapter.
+forth in section eleven hundred seventy-four-a of this chapter and shall
+not be deemed to include a notice of liability issued pursuant to
+section eleven hundred eighty-d of this chapter.
   * NB Effective December 1, 2024 until December 1, 2024
   * f. "Notice of violation" means a notice of violation as defined in
 subdivision nine of section two hundred thirty-seven of this article and
 shall not be deemed to include a notice of liability issued pursuant to
 authorization set forth in section eleven hundred seventy-four-a of this
-chapter.
+chapter and shall not be deemed to include a notice of liability issued
+pursuant to section eleven hundred eighty-d of this chapter.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * f. "Notice of violation" means a notice of violation as defined in
+subdivision nine of section two hundred thirty-seven of this article.
   * NB Effective December 1, 2024
   g. "Fiscal year" means a period of one year commencing on the first
 day of July and terminating on the thirtieth day of June.

@@ -302,9 +302,13 @@
 - [§ 344-I\*2 Portion of the state highway system to be designated as the "Specialist Allan Milk Memorial Bridge"](344i-2-portion-of-the-state-highway-system-to-be-designated-as-the-specialist-allan.md)
 - [§ 344-I\*3 Portion of the state highway system to be designated as the "Justice Thurgood Marshall memorial highway"](344i-3-portion-of-the-state-highway-system-to-be-designated-as-the-justice-thurgood.md)
 - [§ 344-I\*4 Portion of the state highway system to be designated as the "Sergeant Jeremy J](344i-4-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-jeremy-j.md)
+- [§ 344-I\*5 Portion of the state highway system to be designated as the "Sergeant John Kempe Winslow Memorial Highway"](344i-5-portion-of-the-state-highway-system-to-be-designated-as-the-sergeant-john-kempe.md)
+- [§ 344-I\*6 Portion of the state highway system to be designated as the "Dennis 'Matt' Howe Memorial Highway"](344i-6-portion-of-the-state-highway-system-to-be-designated-as-the-dennis-matt-howe.md)
+- [§ 344-I\*7 Portion of the state highway system to be designated as the "SSgt Louis Bonacasa Memorial Bridge"](344i-7-portion-of-the-state-highway-system-to-be-designated-as-the-ssgt-louis-bonacasa.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 344-K Portion of the state highway system to be designated as the "Officer Kevin F](344k-portion-of-the-state-highway-system-to-be-designated-as-the-officer-kevin-f.md)
 - [§ 344-K\*2 Portion of the state highway system to be designated as "Melvin Harris, Jr](344k-2-portion-of-the-state-highway-system-to-be-designated-as-melvin-harris-jr.md)
+- [§ 344-K\*3 Portion of the state highway system to be designated as the "Charles 'Chuck' Kelly Memorial Highway"](344k-3-portion-of-the-state-highway-system-to-be-designated-as-the-charles-chuck-kelly.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1006,13 +1010,22 @@ Section 340-a.     Designation of state interstate routes.
         344-i*4.   Portion of the state highway system to be designated
                      as the "Sergeant Jeremy J. VanNostrand Memorial
                      Highway".
+        344-i*5.   Portion of the state highway system to be designated
+                     as the "Sergeant John Kempe Winslow Memorial
+                     Highway".
+        344-i*6.   Portion of the state highway system to be designated
+                     as the "Dennis 'Matt' Howe Memorial Highway".
+        344-i*7.   Portion of the state highway system to be designated
+                     as the "SSgt Louis Bonacasa Memorial Bridge".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated
                      as the "Officer Kevin F. Crossley Memorial
                      Highway".
-        344-k.     Portion of the state highway system to be designated
+        344-k*2.   Portion of the state highway system to be designated
                      as "Melvin Harris, Jr. Way".
+        344-k*3.   Portion of the state highway system to be designated
+                     as the "Charles 'Chuck' Kelly Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

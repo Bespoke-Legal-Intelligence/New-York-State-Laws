@@ -13,7 +13,8 @@ not limited to acts constituting disorderly conduct, harassment,
 aggravated harassment, sexual misconduct, forcible touching, sexual
 abuse, stalking, criminal mischief, menacing, reckless endangerment,
 kidnapping, assault, attempted assault, attempted murder, criminal
-obstruction of breathing or blood circulation, or strangulation; and
+obstruction of breathing or blood circulation, strangulation, identity
+theft, grand larceny or coercion; and
   (i) such act or acts have resulted in actual physical or emotional
 injury or have created a substantial risk of physical or emotional harm
 to such person or such person's child; and

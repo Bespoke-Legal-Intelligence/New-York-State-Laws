@@ -20,12 +20,14 @@
 - [§ 176.60 Life settlement fraud in the second degree](176.60-life-settlement-fraud-in-the-second-degree.md)
 - [§ 176.65 Life settlement fraud in the first degree](176.65-life-settlement-fraud-in-the-first-degree.md)
 - [§ 176.70 Aggravated life settlement fraud](176.70-aggravated-life-settlement-fraud.md)
+- [§ 176.75 Staging a motor vehicle accident in the second degree](176.75-staging-a-motor-vehicle-accident-in-the-second-degree.md)
+- [§ 176.80 Staging a motor vehicle accident in the first degree](176.80-staging-a-motor-vehicle-accident-in-the-first-degree.md)
 
 <details>
 <summary>Official heading of Article 176, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE   176
+                               ARTICLE 176
                              INSURANCE FRAUD
 Section 176.00 Insurance fraud; definition of terms.
         176.05 Insurance fraud; defined.
@@ -42,6 +44,8 @@ Section 176.00 Insurance fraud; definition of terms.
         176.60 Life settlement fraud in the second degree.
         176.65 Life settlement fraud in the first degree.
         176.70 Aggravated life settlement fraud.
+        176.75 Staging a motor vehicle accident in the second degree.
+        176.80 Staging a motor vehicle accident in the first degree.
 ```
 
 </details>

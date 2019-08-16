@@ -8,30 +8,34 @@
 a person charged with a parking violation enters a plea of not guilty or
 a person alleged to be liable in accordance with section eleven hundred
 eleven-a of this chapter or sections eleven hundred eleven-b of this
-chapter as added by sections sixteen of chapters twenty, twenty-one, and
-twenty-two of the laws of two thousand nine or section eleven hundred
-eleven-d of this chapter, or section eleven hundred eleven-e of this
-chapter, for a violation of subdivision (d) of section eleven hundred
-eleven of this chapter contests such allegation, or a person alleged to
-be liable in accordance with the provisions of section two thousand nine
-hundred eighty-five of the public authorities law or sections sixteen-a,
-sixteen-b and sixteen-c of chapter seven hundred seventy-four of the
-laws of nineteen hundred fifty, or a person alleged to be liable in
-accordance with the provisions of section eleven hundred eleven-c of
-this chapter for a violation of a bus lane restriction as defined in
-such section contests such allegation, or a person alleged to be liable
-in accordance with the provisions of section eleven hundred eighty-b of
-this chapter for a violation of subdivision (b), (c), (d), (f) or (g) of
-section eleven hundred eighty of this chapter contests such allegation,
-the bureau shall advise such person personally by such form of first
-class mail as the director may direct of the date on which he or she
-must appear to answer the charge at a hearing. The form and content of
-such notice of hearing shall be prescribed by the director, and shall
-contain a warning to advise the person so pleading or contesting that
-failure to appear on the date designated, or on any subsequent adjourned
-date, shall be deemed an admission of liability, and that a default
-judgment may be entered thereon.
-  * NB Effective until September 5, 2019
+chapter as added by sections sixteen of chapters twenty, and twenty-two
+of the laws of two thousand nine or section eleven hundred eleven-d of
+this chapter, or section eleven hundred eleven-e of this chapter, or
+section eleven hundred seventy-four-a of this chapter, for a violation
+of subdivision (d) of section eleven hundred eleven of this chapter
+contests such allegation, or a person alleged to be liable in accordance
+with the provisions of section two thousand nine hundred eighty-five of
+the public authorities law or sections sixteen-a, sixteen-b and
+sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+hundred fifty, or a person alleged to be liable in accordance with the
+provisions of section eleven hundred eleven-c of this chapter for a
+violation of a bus lane restriction as defined in such section contests
+such allegation, or a person alleged to be liable in accordance with the
+provisions of section eleven hundred eighty-b of this chapter for a
+violation of subdivision (b), (c), (d), (f) or (g) of section eleven
+hundred eighty of this chapter contests such allegation, or a person
+alleged to be liable in accordance with the provisions of section eleven
+hundred eighty-d of this chapter for a violation of subdivision (b),
+(c), (d), (f) or (g) of section eleven hundred eighty of this chapter
+contests such allegation, the bureau shall advise such person personally
+by such form of first class mail as the director may direct of the date
+on which he or she must appear to answer the charge at a hearing. The
+form and content of such notice of hearing shall be prescribed by the
+director, and shall contain a warning to advise the person so pleading
+or contesting that failure to appear on the date designated, or on any
+subsequent adjourned date, shall be deemed an admission of liability,
+and that a default judgment may be entered thereon.
+  * NB Effective until September 6, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty or a person alleged to be liable
 in accordance with section eleven hundred eleven-a of this chapter or
@@ -60,7 +64,7 @@ person so pleading or contesting that failure to appear on the date
 designated, or on any subsequent adjourned date, shall be deemed an
 admission of liability, and that a default judgment may be entered
 thereon.
-  * NB Effective September 5, 2019 until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty or a person alleged to be liable
 in accordance with sections eleven hundred eleven-b of this chapter as
@@ -75,15 +79,18 @@ restriction as defined in such section contests such allegation, or a
 person alleged to be liable in accordance with the provisions of section
 eleven hundred eighty-b of this chapter for violations of subdivision
 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this
-chapter contests such allegation, the bureau shall advise such person
-personally by such form of first class mail as the director may direct
-of the date on which he or she must appear to answer the charge at a
-hearing. The form and content of such notice of hearing shall be
-prescribed by the director, and shall contain a warning to advise the
-person so pleading or contesting that failure to appear on the date
-designated, or on any subsequent adjourned date, shall be deemed an
-admission of liability, and that a default judgment may be entered
-thereon.
+chapter contests such allegation, or a person alleged to be liable in
+accordance with the provisions of section eleven hundred eighty-d of
+this chapter for a violation of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter contests such allegation,
+the bureau shall advise such person personally by such form of first
+class mail as the director may direct of the date on which he or she
+must appear to answer the charge at a hearing. The form and content of
+such notice of hearing shall be prescribed by the director, and shall
+contain a warning to advise the person so pleading or contesting that
+failure to appear on the date designated, or on any subsequent adjourned
+date, shall be deemed an admission of liability, and that a default
+judgment may be entered thereon.
   * NB Effective and expires December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty or a person alleged to be liable
@@ -95,15 +102,18 @@ for a violation of a bus lane restriction as defined in such section,
 contests such allegation, or a person alleged to be liable in accordance
 with the provisions of section eleven hundred eighty-b of this chapter
 for violations of subdivision (b), (c), (d), (f) or (g) of section
-eleven hundred eighty of this chapter contests such allegation, the
-bureau shall advise such person personally by such form of first class
-mail as the director may direct of the date on which he or she must
-appear to answer the charge at a hearing. The form and content of such
-notice of hearing shall be prescribed by the director, and shall contain
-a warning to advise the person so pleading that failure to appear on the
-date designated, or on any subsequent adjourned date, shall be deemed an
-admission of liability, and that a default judgment may be entered
-thereon.
+eleven hundred eighty of this chapter contests such allegation, or a
+person alleged to be liable in accordance with the provisions of section
+eleven hundred eighty-d of this chapter for a violation of subdivision
+(b), (c), (d), (f) or (g) of section eleven hundred eighty of this
+chapter contests such allegation, the bureau shall advise such person
+personally by such form of first class mail as the director may direct
+of the date on which he or she must appear to answer the charge at a
+hearing. The form and content of such notice of hearing shall be
+prescribed by the director, and shall contain a warning to advise the
+person so pleading that failure to appear on the date designated, or on
+any subsequent adjourned date, shall be deemed an admission of
+liability, and that a default judgment may be entered thereon.
   * NB Effective December 1, 2024 until September 20, 2025
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
@@ -114,75 +124,103 @@ with section eleven hundred seventy-four-a of this chapter, or a person
 alleged to be liable in accordance with the provisions of section eleven
 hundred eighty-b of this chapter for violations of subdivision (b), (c),
 (d), (f) or (g) of section eleven hundred eighty of this chapter
-contests such allegation, the bureau shall advise such person personally
-by such form of first class mail as the director may direct of the date
-on which he or she must appear to answer the charge at a hearing. The
-form and content of such notice of hearing shall be prescribed by the
-director, and shall contain a warning to advise the person so pleading
-that failure to appear on the date designated, or on any subsequent
-adjourned date, shall be deemed an admission of liability, and that a
-default judgment may be entered thereon.
+contests such allegation, or a person alleged to be liable in accordance
+with the provisions of section eleven hundred eighty-d of this chapter
+for a violation of subdivision (b), (c), (d), (f) or (g) of section
+eleven hundred eighty of this chapter contests such allegation, the
+bureau shall advise such person personally by such form of first class
+mail as the director may direct of the date on which he or she must
+appear to answer the charge at a hearing. The form and content of such
+notice of hearing shall be prescribed by the director, and shall contain
+a warning to advise the person so pleading that failure to appear on the
+date designated, or on any subsequent adjourned date, shall be deemed an
+admission of liability, and that a default judgment may be entered
+thereon.
   * NB Effective September 20, 2025 until July 1, 2022
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
 in accordance with section eleven hundred eleven-d of this chapter
 contests such allegation, or a person alleged to be liable in accordance
 with section eleven hundred eleven-e of this chapter contests such
-allegation, or a person alleged to be liable in accordance with section
-eleven hundred seventy-four-a of this chapter contests such allegation,
-the bureau shall advise such person personally by such form of first
-class mail as the director may direct of the date on which he or she
-must appear to answer the charge at a hearing. The form and content of
-such notice of hearing shall be prescribed by the director, and shall
-contain a warning to advise the person so pleading that failure to
-appear on the date designated, or on any subsequent adjourned date,
-shall be deemed an admission of liability, and that a default judgment
-may be entered thereon.
+allegation, or a person alleged to be liable in accordance with the
+provisions of section eleven hundred eighty-d of this chapter for a
+violation of subdivision (b), (c), (d), (f) or (g) of section eleven
+hundred eighty of this chapter contests such allegation, or a person
+alleged to be liable in accordance with section eleven hundred
+seventy-four-a of this chapter contests such allegation, the bureau
+shall advise such person personally by such form of first class mail as
+the director may direct of the date on which he or she must appear to
+answer the charge at a hearing. The form and content of such notice of
+hearing shall be prescribed by the director, and shall contain a warning
+to advise the person so pleading that failure to appear on the date
+designated, or on any subsequent adjourned date, shall be deemed an
+admission of liability, and that a default judgment may be entered
+thereon.
   * NB Effective July 1, 2022 until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
 in accordance with section eleven hundred eleven-e of this chapter
 contests such allegation, or a person alleged to be liable in accordance
-with section eleven hundred seventy-four-a of this chapter contests such
-allegation, the bureau shall advise such person personally by such form
-of first class mail as the director may direct of the date on which he
-or she must appear to answer the charge at a hearing. The form and
-content of such notice of hearing shall be prescribed by the director,
-and shall contain a warning to advise the person so pleading that
-failure to appear on the date designated, or on any subsequent adjourned
-date, shall be deemed an admission of liability, and that a default
-judgment may be entered thereon.
+with the provisions of section eleven hundred eighty-d of this chapter
+for a violation of subdivision (b), (c), (d), (f) or (g) of section
+eleven hundred eighty of this chapter contests such allegation, or a
+person alleged to be liable in accordance with section eleven hundred
+seventy-four-a of this chapter contests such allegation, the bureau
+shall advise such person personally by such form of first class mail as
+the director may direct of the date on which he or she must appear to
+answer the charge at a hearing. The form and content of such notice of
+hearing shall be prescribed by the director, and shall contain a warning
+to advise the person so pleading that failure to appear on the date
+designated, or on any subsequent adjourned date, shall be deemed an
+admission of liability, and that a default judgment may be entered
+thereon.
   * NB Effective December 1, 2024 until December 1, 2024
   * 1. Notice of hearing. Whenever a person charged with a parking
 violation enters a plea of not guilty, or a person alleged to be liable
-in accordance with section eleven hundred seventy-four-a of this chapter
-contests such allegation, the bureau shall advise such person personally
-by such form of first class mail as the director may direct of the date
-on which he or she must appear to answer the charge at a hearing. The
-form and content of such notice of hearing shall be prescribed by the
-director, and shall contain a warning to advise the person so pleading
-that failure to appear on the date designated, or on any subsequent
-adjourned date, shall be deemed an admission of liability, and that a
-default judgment may be entered thereon.
+in accordance with the provisions of section eleven hundred eighty-d of
+this chapter for a violation of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter contests such allegation,
+or a person alleged to be liable in accordance with section eleven
+hundred seventy-four-a of this chapter contests such allegation, the
+bureau shall advise such person personally by such form of first class
+mail as the director may direct of the date on which he or she must
+appear to answer the charge at a hearing. The form and content of such
+notice of hearing shall be prescribed by the director, and shall contain
+a warning to advise the person so pleading that failure to appear on the
+date designated, or on any subsequent adjourned date, shall be deemed an
+admission of liability, and that a default judgment may be entered
+thereon.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * 1. Notice of hearing. Whenever a person charged with a parking
+violation enters a plea of not guilty, the bureau shall advise such
+person personally by such form of first class mail as the director may
+direct of the date on which he must appear to answer the charge at a
+hearing. The form and content of such notice of hearing shall be
+prescribed by the director, and shall contain a warning to advise the
+person so pleading that failure to appear on the date designated, or on
+any subsequent adjourned date, shall be deemed an admission of
+liability, and that a default judgment may be entered thereon.
   * NB Effective December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-a of this chapter or
 sections eleven hundred eleven-b of this chapter as added by sections
-sixteen of chapters twenty, twenty-one, and twenty-two of the laws of
-two thousand nine or section eleven hundred eleven-d of this chapter or
-section eleven hundred eleven-e of this chapter or an allegation of
-liability in accordance with section two thousand nine hundred
-eighty-five of the public authorities law or sections sixteen-a,
-sixteen-b and sixteen-c of chapter seven hundred seventy-four of the
-laws of nineteen hundred fifty or an allegation of liability in
-accordance with section eleven hundred eleven-c of this chapter or an
-allegation of liability in accordance with section eleven hundred
-eighty-b of this chapter, is being contested, by a person in a timely
-fashion and a hearing upon the merits has been demanded, but has not yet
-been held, the bureau shall not issue any notice of fine or penalty to
-that person prior to the date of the hearing.
-  * NB Effective until September 5, 2019
+sixteen of chapters twenty, and twenty-two of the laws of two thousand
+nine or section eleven hundred eleven-d of this chapter or section
+eleven hundred eleven-e of this chapter or section eleven hundred
+seventy-four-a of this chapter or an allegation of liability in
+accordance with section two thousand nine hundred eighty-five of the
+public authorities law or sections sixteen-a, sixteen-b and sixteen-c of
+chapter seven hundred seventy-four of the laws of nineteen hundred fifty
+or an allegation of liability in accordance with section eleven hundred
+eleven-c of this chapter or an allegation of liability in accordance
+with section eleven hundred eighty-b of this chapter or an allegation of
+liability in accordance with section eleven hundred eighty-d of this
+chapter, is being contested, by a person in a timely fashion and a
+hearing upon the merits has been demanded, but has not yet been held,
+the bureau shall not issue any notice of fine or penalty to that person
+prior to the date of the hearing.
+  * NB Effective until September 6, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-a of this chapter or
@@ -201,7 +239,7 @@ contested, by a person in a timely fashion and a hearing upon the merits
 has been demanded, but has not yet been held, the bureau shall not issue
 any notice of fine or penalty to that person prior to the date of the
 hearing.
-  * NB Effective September 5, 2019 until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with sections eleven hundred eleven-b of this chapter, as
@@ -211,11 +249,12 @@ eleven-d of this chapter, or in accordance with section eleven hundred
 eleven-e of this chapter or section eleven hundred seventy-four-a of
 this chapter or an allegation of liability in accordance with section
 eleven hundred eleven-c of this chapter or an allegation of liability in
-accordance with section eleven hundred eighty-b of this chapter is being
-contested, by a person in a timely fashion and a hearing upon the merits
-has been demanded, but has not yet been held, the bureau shall not issue
-any notice of fine or penalty to that person prior to the date of the
-hearing.
+accordance with section eleven hundred eighty-b of this chapter or an
+allegation of liability in accordance with section eleven hundred
+eighty-d of this chapter is being contested, by a person in a timely
+fashion and a hearing upon the merits has been demanded, but has not yet
+been held, the bureau shall not issue any notice of fine or penalty to
+that person prior to the date of the hearing.
   * NB Effective and expires December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
@@ -224,10 +263,11 @@ accordance with section eleven hundred eleven-e of this chapter or
 section eleven hundred seventy-four-a of this chapter or in accordance
 with section eleven hundred eleven-c of this chapter or an allegation of
 liability in accordance with section eleven hundred eighty-b of this
-chapter is being contested, by a person in a timely fashion and a
-hearing upon the merits has been demanded, but has not yet been held,
-the bureau shall not issue any notice of fine or penalty to that person
-prior to the date of the hearing.
+chapter or an allegation of liability in accordance with section eleven
+hundred eighty-d of this chapter is being contested, by a person in a
+timely fashion and a hearing upon the merits has been demanded, but has
+not yet been held, the bureau shall not issue any notice of fine or
+penalty to that person prior to the date of the hearing.
   * NB Effective December 1, 2024 until September 20, 2025
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
@@ -237,59 +277,74 @@ accordance with section eleven hundred eleven-e of this chapter, or the
 bureau has been notified that an allegation of liability in accordance
 with section eleven hundred seventy-four-a of this chapter, or the
 bureau has been notified that an allegation of liability in accordance
-with section eleven hundred eighty-b of this chapter, is being
-contested, by a person in a timely fashion and a hearing upon the merits
-has been demanded, but has not yet been held, the bureau shall not issue
-any notice of fine or penalty to that person prior to the date of the
-hearing.
+with section eleven hundred eighty-b of this chapter, or an allegation
+of liability in accordance with section eleven hundred eighty-d of this
+chapter, is being contested, by a person in a timely fashion and a
+hearing upon the merits has been demanded, but has not yet been held,
+the bureau shall not issue any notice of fine or penalty to that person
+prior to the date of the hearing.
   * NB Effective September 20, 2025 until July 1, 2022
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred eleven-d of this chapter, is
 being contested, or the bureau has been notified that an allegation of
 liability in accordance with section eleven hundred eleven-e of this
-chapter, is being contested, or the bureau has been notified that an
-allegation of liability in accordance with section eleven hundred
-seventy-four-a of this chapter, is being contested, by a person in a
-timely fashion and a hearing upon the merits has been demanded, but has
-not yet been held, the bureau shall not issue any notice of fine or
-penalty to that person prior to the date of the hearing.
+chapter, or an allegation of liability in accordance with section eleven
+hundred eighty-d of this chapter, is being contested, or the bureau has
+been notified that an allegation of liability in accordance with section
+eleven hundred seventy-four-a of this chapter, is being contested, by a
+person in a timely fashion and a hearing upon the merits has been
+demanded, but has not yet been held, the bureau shall not issue any
+notice of fine or penalty to that person prior to the date of the
+hearing.
   * NB Effective July 1, 2022 until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
-in accordance with section eleven hundred eleven-e of this chapter, is
-being contested, or the bureau has been notified that an allegation of
-liability in accordance with section eleven hundred seventy-four-a of
-this chapter, is being contested, by a person in a timely fashion and a
-hearing upon the merits has been demanded, but has not yet been held,
-the bureau shall not issue any notice of fine or penalty to that person
-prior to the date of the hearing.
+in accordance with section eleven hundred eleven-e of this chapter, or
+an allegation of liability in accordance with section eleven hundred
+eighty-d of this chapter, is being contested, or the bureau has been
+notified that an allegation of liability in accordance with section
+eleven hundred seventy-four-a of this chapter, is being contested, by a
+person in a timely fashion and a hearing upon the merits has been
+demanded, but has not yet been held, the bureau shall not issue any
+notice of fine or penalty to that person prior to the date of the
+hearing.
   * NB Effective December 1, 2024 until December 1, 2024
   * 1-a. Fines and penalties. Whenever a plea of not guilty has been
 entered, or the bureau has been notified that an allegation of liability
 in accordance with section eleven hundred seventy-four-a of this
-chapter, is being contested, by a person in a timely fashion and a
-hearing upon the merits has been demanded, but has not yet been held,
-the bureau shall not issue any notice of fine or penalty to that person
-prior to the date of the hearing.
+chapter, is being contested,, or the bureau has been notified that an
+allegation of liability in accordance with section eleven hundred
+eighty-d of this chapter is being contested, by a person in a timely
+fashion and a hearing upon the merits has been demanded, but has not yet
+been held, the bureau shall not issue any notice of fine or penalty to
+that person prior to the date of the hearing.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * 1-a. Fines and penalties. Whenever a plea of not guilty has been
+entered by a person in a timely fashion and a hearing upon the merits
+has been demanded, but has not yet been held, the bureau shall not issue
+any notice of fine or penalty to that person prior to the date of the
+hearing.
   * NB Effective December 1, 2024
   2. Conduct of hearings.  * a. Every hearing for the adjudication of a
 charge of parking violation or an allegation of liability in accordance
 with section eleven hundred eleven-a of this chapter or in accordance
 with sections eleven hundred eleven-b of this chapter as added by
-sections sixteen of chapters twenty, twenty-one, and twenty-two of the
-laws of two thousand nine or in accordance with section eleven hundred
-eleven-d of this chapter or in accordance with section eleven hundred
-eleven-e of this chapter or an allegation of liability in accordance
-with section two thousand nine hundred eighty-five of the public
-authorities law or sections sixteen-a, sixteen-b and sixteen-c of
-chapter seven hundred seventy-four of the laws of nineteen hundred fifty
-or an allegation of liability in accordance with section eleven hundred
-eleven-c of this chapter or an allegation of liability in accordance
-with section eleven hundred eighty-b of this chapter, shall be held
-before a hearing examiner in accordance with rules and regulations
-promulgated by the bureau.
-  * NB Effective until September 5, 2019
+sections sixteen of chapters twenty, and twenty-two of the laws of two
+thousand nine or in accordance with section eleven hundred eleven-d of
+this chapter or in accordance with section eleven hundred eleven-e of
+this chapter or in accordance with section eleven hundred seventy-four-a
+of this chapter or an allegation of liability in accordance with section
+two thousand nine hundred eighty-five of the public authorities law or
+sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
+seventy-four of the laws of nineteen hundred fifty or an allegation of
+liability in accordance with section eleven hundred eleven-c of this
+chapter or an allegation of liability in accordance with section eleven
+hundred eighty-b of this chapter, or an allegation of liability in
+accordance with section eleven hundred eighty-d of this chapter, shall
+be held before a hearing examiner in accordance with rules and
+regulations promulgated by the bureau.
+  * NB Effective until September 6, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred eleven-a of this chapter or in accordance with sections
@@ -306,7 +361,7 @@ accordance with section eleven hundred eleven-c of this chapter or an
 allegation of liability in accordance with section eleven hundred
 eighty-b of this chapter, shall be held before a hearing examiner in
 accordance with rules and regulations promulgated by the bureau.
-  * NB Effective September 5, 2019 until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with sections
 eleven hundred eleven-b of this chapter, as added by sections sixteen of
@@ -316,9 +371,10 @@ accordance with section eleven hundred eleven-e of this chapter or in
 accordance with section eleven hundred seventy-four-a of this chapter or
 an allegation of liability in accordance with section eleven hundred
 eleven-c of this chapter or an allegation of liability in accordance
-with section eleven hundred eighty-b of this chapter, shall be held
-before a hearing examiner in accordance with rules and regulations
-promulgated by the bureau.
+with section eleven hundred eighty-b of this chapter or an allegation of
+liability in accordance with section eleven hundred eighty-d of this
+chapter, shall be held before a hearing examiner in accordance with
+rules and regulations promulgated by the bureau.
   * NB Effective and expires December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
@@ -328,8 +384,10 @@ chapter or an allegation of liability in accordance with section eleven
 hundred eleven-d of this chapter or an allegation of liability in
 accordance with section eleven hundred eleven-c of this chapter or an
 allegation of liability in accordance with section eleven hundred
-eighty-b of this chapter shall be held before a hearing examiner in
-accordance with rules and regulations promulgated by the bureau.
+eighty-b of this chapter or an allegation of liability in accordance
+with section eleven hundred eighty-d of this chapter shall be held
+before a hearing examiner in accordance with rules and regulations
+promulgated by the bureau.
   * NB Effective December 1, 2024 until September 20, 2025
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
@@ -337,30 +395,39 @@ eleven hundred seventy-four-a of this chapter or an allegation of
 liability in accordance with section eleven hundred eleven-e of this
 chapter or an allegation of liability in accordance with section eleven
 hundred eleven-d of this chapter or an allegation of liability in
-accordance with section eleven hundred eighty-b of this chapter shall be
-held before a hearing examiner in accordance with rules and regulations
-promulgated by the bureau.
+accordance with section eleven hundred eighty-b of this chapter or an
+allegation of liability in accordance with section eleven hundred
+eighty-d of this chapter shall be held before a hearing examiner in
+accordance with rules and regulations promulgated by the bureau.
   * NB Effective September 20, 2025 until July 1, 2022
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred seventy-four-a of this chapter or an allegation of
 liability in accordance with section eleven hundred eleven-e of this
 chapter or an allegation of liability in accordance with section eleven
-hundred eleven-d of this chapter shall be held before a hearing examiner
-in accordance with rules and regulations promulgated by the bureau.
+hundred eleven-d of this chapter or an allegation of liability in
+accordance with section eleven hundred eighty-d of this chapter shall be
+held before a hearing examiner in accordance with rules and regulations
+promulgated by the bureau.
   * NB Effective July 1, 2022 until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
 eleven hundred eleven-e of this chapter or an allegation of liability in
-accordance with section eleven hundred seventy-four-a of this chapter
-shall be held before a hearing examiner in accordance with rules and
-regulations promulgated by the bureau.
+accordance with section eleven hundred seventy-four-a of this chapter or
+an allegation of liability in accordance with section eleven hundred
+eighty-d of this chapter shall be held before a hearing examiner in
+accordance with rules and regulations promulgated by the bureau.
   * NB Effective December 1, 2024 until December 1, 2024
   * a. Every hearing for the adjudication of a charge of parking
 violation or an allegation of liability in accordance with section
-eleven hundred seventy-four-a of this chapter shall be held before a
-hearing examiner in accordance with rules and regulations promulgated by
-the bureau.
+eleven hundred seventy-four-a of this chapter or an allegation of
+liability in accordance with section eleven hundred eighty-d of this
+chapter shall be held before a hearing examiner in accordance with rules
+and regulations promulgated by the bureau.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * a. Every hearing for the adjudication of a charge of parking
+violation shall be held before a hearing examiner in accordance with
+rules and regulations promulgated by the bureau.
   * NB Effective December 1, 2024
   b. No charge may be established except upon proof by substantial
 evidence.
@@ -384,19 +451,21 @@ of a person charged before making a determination.
 a hearing at which liability in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with sections eleven hundred
 eleven-b of this chapter as added by sections sixteen of chapters
-twenty, twenty-one, and twenty-two of the laws of two thousand nine or
-in accordance with section eleven hundred eleven-d of this chapter is
-contested or in accordance with section eleven hundred eleven-e of this
-chapter is contested or of a hearing at which liability in accordance
-with section two thousand nine hundred eighty-five of the public
-authorities law or sections sixteen-a, sixteen-b and sixteen-c of
-chapter seven hundred seventy-four of the laws of nineteen hundred fifty
-is contested or of a hearing at which liability in accordance with
-section eleven hundred eleven-c of this chapter or a hearing at which
-liability in accordance with section eleven hundred eighty-b of this
-chapter is contested. Recording devices may be used for the making of
-the record.
-  * NB Effective until September 5, 2019
+twenty, and twenty-two of the laws of two thousand nine or in accordance
+with section eleven hundred eleven-d of this chapter is contested or in
+accordance with section eleven hundred eleven-e of this chapter or in
+accordance with section eleven hundred seventy-four-a of this chapter is
+contested or of a hearing at which liability in accordance with section
+two thousand nine hundred eighty-five of the public authorities law or
+sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
+seventy-four of the laws of nineteen hundred fifty is contested or of a
+hearing at which liability in accordance with section eleven hundred
+eleven-c of this chapter or of a hearing at which liability in
+accordance with section eleven hundred eighty-b of this chapter or of a
+hearing at which liability in accordance with section eleven hundred
+eighty-d of this chapter is contested. Recording devices may be used for
+the making of the record.
+  * NB Effective until September 6, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with sections eleven hundred
@@ -414,7 +483,7 @@ section eleven hundred eleven-c of this chapter or a hearing at which
 liability in accordance with section eleven hundred eighty-b of this
 chapter is contested. Recording devices may be used for the making of
 the record.
-  * NB Effective September 5, 2019 until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with sections eleven hundred
 eleven-b of this chapter, as added by sections sixteen of chapters
@@ -423,9 +492,11 @@ with section eleven hundred eleven-d of this chapter or in accordance
 with section eleven hundred eleven-e of this chapter or in accordance
 with section eleven hundred seventy-four-a of this chapter or of a
 hearing at which liability in accordance with section eleven hundred
-eleven-c of this chapter or a hearing at which liability in accordance
-with section eleven hundred eighty-b of this chapter is contested.
-Recording devices may be used for the making of the record.
+eleven-c of this chapter or of a hearing at which liability in
+accordance with section eleven hundred eighty-b of this chapter or of a
+hearing at which liability in accordance with section eleven hundred
+eighty-d of this chapter is contested. Recording devices may be used for
+the making of the record.
   * NB Effective and expires December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with section eleven hundred
@@ -433,37 +504,47 @@ seventy-four-a of this chapter or of a hearing at which liability in
 accordance with section eleven hundred eleven-e of this chapter or of a
 hearing at which liability in accordance with section eleven hundred
 eleven-d of this chapter or of a hearing at which liability in
-accordance with section eleven hundred eleven-c of this chapter or a
+accordance with section eleven hundred eleven-c of this chapter or of a
 hearing at which liability in accordance with section eleven hundred
-eighty-b of this chapter is contested. Recording devices may be used for
-the making of the record.
+eighty-b of this chapter or of a hearing at which liability in
+accordance with section eleven hundred eighty-d of this chapter is
+contested. Recording devices may be used for the making of the record.
   * NB Effective December 1, 2024 until September 20, 2025
   * g. A record shall be made of a hearing on a plea of not guilty or of
 a hearing at which liability in accordance with section eleven hundred
 seventy-four-a of this chapter or of a hearing at which liability in
 accordance with section eleven hundred eleven-e of this chapter or of a
 hearing at which liability in accordance with section eleven hundred
-eleven-d of this chapter or a hearing at which liability in accordance
-with section eleven hundred eighty-b of this chapter is contested.
-Recording devices may be used for the making of the record.
+eleven-d of this chapter or of a hearing at which liability in
+accordance with section eleven hundred eighty-b of this chapter or of a
+hearing at which liability in accordance with section eleven hundred
+eighty-d of this chapter is contested.  Recording devices may be used
+for the making of the record.
   * NB Effective September 20, 2025 until July 1, 2022
   * g. A record shall be made of a hearing on a plea of not guilty or a
 hearing at which liability in accordance with section eleven hundred
 eleven-d of this chapter is contested or of a hearing at which liability
 in accordance with section eleven hundred seventy-four-a of this chapter
 or a hearing at which liability in accordance with section eleven
-hundred eleven-e of this chapter is contested. Recording devices may be
-used for the making of the record.
+hundred eleven-e of this chapter or a hearing at which liability in
+accordance with section eleven hundred eighty-d of this chapter is
+contested. Recording devices may be used for the making of the record.
   * NB Effective July 1, 2022 until December 1, 2024
   * g. A record shall be made of a hearing on a plea of not guilty or a
 hearing at which liability in accordance with section eleven hundred
-eleven-e of this chapter is contested or a hearing at which liability in
-accordance with section eleven hundred seventy-four-a of this chapter is
-contested. Recording devices may be used for the making of the record.
-  * NB Effective December 1, 2024 until December 1, 2024
-  * g. A record shall be made of a hearing on a plea of not guilty or a
+eleven-e of this chapter or a hearing at which liability in accordance
+with section eleven hundred eighty-d of this chapter is contested or a
 hearing at which liability in accordance with section eleven hundred
 seventy-four-a of this chapter is contested. Recording devices may be
 used for the making of the record.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * g. A record shall be made of a hearing on a plea of not guilty or a
+hearing at which liability in accordance with section eleven hundred
+seventy-four-a of this chapter is contested or a hearing at which
+liability in accordance with section eleven hundred eighty-d of this
+chapter. Recording devices may be used for the making of the record.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * g. A record shall be made of a hearing on a plea of not guilty.
+Recording devices may be used for the making of the record.
   * NB Effective December 1, 2024
 ```

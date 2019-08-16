@@ -17,8 +17,9 @@ owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
 eleven-d of this chapter, or in accordance with section eleven hundred
-eleven-e of this chapter, and except an adjudication of liability of an
-owner for a violation of subdivision (d) of section eleven hundred
+eleven-e of this chapter, or in accordance with section eleven hundred
+seventy-four-a of this chapter, and except an adjudication of liability
+of an owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-b of this chapter, and except an adjudication in accordance with
 section eleven hundred eleven-c of this chapter of a violation of a bus
@@ -30,10 +31,13 @@ except an adjudication of liability of an owner for a violation of toll
 collection regulations pursuant to section two thousand nine hundred
 eighty-five of the public authorities law or sections sixteen-a,
 sixteen-b and sixteen-c of chapter seven hundred seventy-four of the
-laws of nineteen hundred fifty, there shall be levied in addition to any
-sentence, penalty or other surcharge required or permitted by law, an
-additional surcharge of twenty-eight dollars.
-  * NB Effective until September 5, 2019
+laws of nineteen hundred fifty, or other than an adjudication of
+liability of an owner for a violation of subdivision (b), (c), (d), (f)
+or (g) of section eleven hundred eighty of this chapter in accordance
+with section eleven hundred eighty-d of this chapter, there shall be
+levied in addition to any sentence, penalty or other surcharge required
+or permitted by law, an additional surcharge of twenty-eight dollars.
+  * NB Effective until September 6, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -63,7 +67,7 @@ sixteen-b and sixteen-c of chapter seven hundred seventy-four of the
 laws of nineteen hundred fifty, there shall be levied in addition to any
 sentence, penalty or other surcharge required or permitted by law, an
 additional surcharge of twenty-eight dollars.
-  * NB Effective until December 1, 2024
+  * NB Effective September 6, 2024 until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
 conviction for an offense under this chapter, except a conviction
@@ -84,8 +88,11 @@ adjudication of liability of an owner for a violation of subdivision
 (b), (c), (d), (f) or (g) of section eleven hundred eighty of this
 chapter in accordance with section eleven hundred eighty-b of this
 chapter, and except an adjudication of liability of an owner for a
-violation of toll collection regulations pursuant to section two
-thousand nine hundred eighty-five of the public authorities law or
+violation of subdivision (b), (c), (d), (f) or (g) of section eleven
+hundred eighty of this chapter in accordance with section eleven hundred
+eighty-d of this chapter, and except an adjudication of liability of an
+owner for a violation of toll collection regulations pursuant to section
+two thousand nine hundred eighty-five of the public authorities law or
 sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
 seventy-four of the laws of nineteen hundred fifty, there shall be
 levied in addition to any sentence, penalty or other surcharge required
@@ -108,13 +115,16 @@ seventy-four-a of this chapter, and except an adjudication of liability
 of an owner for a violation of subdivision (b), (c), (d), (f) or (g) of
 section eleven hundred eighty of this chapter in accordance with section
 eleven hundred eighty-b of this chapter, and except an adjudication of
-liability of an owner for a violation of toll collection regulations
-pursuant to section two thousand nine hundred eighty-five of the public
-authorities law or sections sixteen-a, sixteen-b and sixteen-c of
-chapter seven hundred seventy-four of the laws of nineteen hundred
-fifty, there shall be levied in addition to any sentence, penalty or
-other surcharge required or permitted by law, an additional surcharge of
-twenty-eight dollars.
+liability of an owner for a violation of subdivision (b), (c), (d), (f)
+or (g) of section eleven hundred eighty of this chapter in accordance
+with section eleven hundred eighty-d of this chapter, and except an
+adjudication of liability of an owner for a violation of toll collection
+regulations pursuant to section two thousand nine hundred eighty-five of
+the public authorities law or sections sixteen-a, sixteen-b and
+sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+hundred fifty, there shall be levied in addition to any sentence,
+penalty or other surcharge required or permitted by law, an additional
+surcharge of twenty-eight dollars.
   * NB Effective September 20, 2025 until July 1, 2022
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
@@ -130,13 +140,16 @@ eleven-a of this chapter or in accordance with section eleven hundred
 eleven-d of this chapter or in accordance with section eleven hundred
 eleven-e of this chapter, or in accordance with section eleven hundred
 seventy-four-a of this chapter, and except an adjudication of liability
-of an owner for a violation of toll collection regulations pursuant to
-section two thousand nine hundred eighty-five of the public authorities
-law or sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty, there shall
-be levied in addition to any sentence, penalty or other surcharge
-required or permitted by law, an additional surcharge of twenty-eight
-dollars.
+of an owner for a violation of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter in accordance with section
+eleven hundred eighty-d of this chapter, and except an adjudication of
+liability of an owner for a violation of toll collection regulations
+pursuant to section two thousand nine hundred eighty-five of the public
+authorities law or sections sixteen-a, sixteen-b and sixteen-c of
+chapter seven hundred seventy-four of the laws of nineteen hundred
+fifty, there shall be levied in addition to any sentence, penalty or
+other surcharge required or permitted by law, an additional surcharge of
+twenty-eight dollars.
   * NB Effective July 1, 2022 until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
@@ -149,15 +162,18 @@ pedestrians or bicyclists, and except an adjudication of liability of an
 owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
-eleven-e of this chapter, or in accordance with section eleven hundred
-seventy-four-a of this chapter, and except an adjudication of liability
-of an owner for a violation of toll collection regulations pursuant to
-section two thousand nine hundred eighty-five of the public authorities
-law or sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty, there shall
-be levied in addition to any sentence, penalty or other surcharge
-required or permitted by law, an additional surcharge of twenty-eight
-dollars.
+eleven-e of this chapter, and except an adjudication of liability of an
+owner for a violation of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter in accordance with section
+eleven hundred eighty-d of this chapter, or in accordance with section
+eleven hundred seventy-four-a of this chapter, and except an
+adjudication of liability of an owner for a violation of toll collection
+regulations pursuant to section two thousand nine hundred eighty-five of
+the public authorities law or sections sixteen-a, sixteen-b and
+sixteen-c of chapter seven hundred seventy-four of the laws of nineteen
+hundred fifty, there shall be levied in addition to any sentence,
+penalty or other surcharge required or permitted by law, an additional
+surcharge of twenty-eight dollars.
   * NB Effective December 1, 2024 until December 1, 2024
   * a. Notwithstanding any other provision of law, whenever proceedings
 in a court or an administrative tribunal of this state result in a
@@ -171,13 +187,34 @@ owner for a violation of subdivision (d) of section eleven hundred
 eleven of this chapter in accordance with section eleven hundred
 eleven-a of this chapter or in accordance with section eleven hundred
 seventy-four-a of this chapter, and except an adjudication of liability
-of an owner for a violation of toll collection regulations pursuant to
-section two thousand nine hundred eighty-five of the public authorities
-law or sections sixteen-a, sixteen-b and sixteen-c of chapter seven
-hundred seventy-four of the laws of nineteen hundred fifty, there shall
-be levied in addition to any sentence, penalty or other surcharge
-required or permitted by law, an additional surcharge of twenty-eight
-dollars.
+of an owner for a violation of subdivision (b), (c), (d), (f) or (g) of
+section eleven hundred eighty of this chapter in accordance with section
+eleven hundred eighty-d of this chapter, and except an adjudication of
+liability of an owner for a violation of toll collection regulations
+pursuant to section two thousand nine hundred eighty-five of the public
+authorities law or sections sixteen-a, sixteen-b and sixteen-c of
+chapter seven hundred seventy-four of the laws of nineteen hundred
+fifty, there shall be levied in addition to any sentence, penalty or
+other surcharge required or permitted by law, an additional surcharge of
+twenty-eight dollars.
+  * NB Effective December 1, 2024 until December 1, 2024
+  * a. Notwithstanding any other provision of law, whenever proceedings
+in a court or an administrative tribunal of this state result in a
+conviction for an offense under this chapter, except a conviction
+pursuant to section eleven hundred ninety-two of this chapter, or for a
+traffic infraction under this chapter, or a local law, ordinance, rule
+or regulation adopted pursuant to this chapter, except a traffic
+infraction involving standing, stopping, or parking or violations by
+pedestrians or bicyclists, and except an adjudication of liability of an
+owner for a violation of subdivision (d) of section eleven hundred
+eleven of this chapter in accordance with section eleven hundred
+eleven-a of this chapter, and except an adjudication of liability of an
+owner for a violation of toll collection regulations pursuant to section
+two thousand nine hundred eighty-five of the public authorities law or
+sections sixteen-a, sixteen-b and sixteen-c of chapter seven hundred
+seventy-four of the laws of nineteen hundred fifty, there shall be
+levied in addition to any sentence, penalty or other surcharge required
+or permitted by law, an additional surcharge of twenty-eight dollars.
   * NB Effective December 1, 2024
   b. Notwithstanding any other provision of law, whenever proceedings in
 a court of this state result in a conviction pursuant to section eleven

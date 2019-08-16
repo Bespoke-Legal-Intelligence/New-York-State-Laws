@@ -11,6 +11,7 @@
 - [§ 420.30 Remission of fines, restitution or reparation](420.30-remission-of-fines-restitution-or-reparation.md)
 - [§ 420.35 Mandatory surcharge and crime victim assistance fee; applicability to sentences mandating payment of fines](420.35-mandatory-surcharge-and-crime-victim-assistance.md)
 - [§ 420.40 Deferral of a mandatory surcharge; financial hardship hearings](420.40-deferral-of-a-mandatory-surcharge-financial.md)
+- [§ 420.45 Post-trial motion relating to certain instruments affecting residential real property](420.45-post-trial-motion-relating-to-certain.md)
 
 <details>
 <summary>Official heading of Article 420, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,8 @@ Section 420.05 Payment of fines, mandatory surcharges and fees by credit
                  applicability to sentences mandating payment of fines.
         420.40 Deferral of a mandatory surcharge; financial hardship
                  hearings.
+        420.45 Post-trial motion relating to certain instruments
+                 affecting residential real property.
 ```
 
 </details>
