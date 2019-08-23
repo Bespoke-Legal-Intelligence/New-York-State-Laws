@@ -14,6 +14,7 @@
 - [§ 42 Searchlights; unlawful to flash](42-searchlights-unlawful-to-flash.md)
 - [§ 42-A Tow-chains](42a-tow-chains.md)
 - [§ 43 Lights to be displayed](43-lights-to-be-displayed.md)
+- [§ 43-A Use of digital billboards](43a-use-of-digital-billboards.md)
 - [§ 44 Noise levels on pleasure vessels](44-noise-levels-on-pleasure-vessels.md)
 - [§ 45 Reckless operation of a vessel; speed](45-reckless-operation-of-a-vessel-speed.md)
 - [§ 45-A Beaching a disabled water craft](45a-beaching-a-disabled-water-craft.md)

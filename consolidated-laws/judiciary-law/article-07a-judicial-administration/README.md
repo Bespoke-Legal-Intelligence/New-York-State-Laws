@@ -19,7 +19,7 @@
 - [§ 219 Capital plans for court facilities](219-capital-plans-for-court-facilities.md)
 - [§ 219-A The New York state judicial institute](219a-the-new-york-state-judicial-institute.md)
 - [§ 219-B The New York state court officer academy](219b-the-new-york-state-court-officer-academy.md)
-- [§ 219-C Crimes involving sexual assault; judicial training](219c-crimes-involving-sexual-assault-judicial-training.md)
+- [§ 219-C Crimes involving sexual assault and the sexual abuse of minors; judicial training](219c-crimes-involving-sexual-assault-and-the-sexual-abuse-of-minors-judicial-training.md)
 - [§ 219-D Rules reviving certain actions; sexual offenses against children](219d-rules-reviving-certain-actions-sexual-offenses-against-children.md)
 
 <details>

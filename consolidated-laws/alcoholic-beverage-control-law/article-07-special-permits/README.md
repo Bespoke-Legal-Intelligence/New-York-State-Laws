@@ -19,6 +19,7 @@
 - [§ 96-B Reconditioning permit](96b-reconditioning-permit.md)
 - [§ 97 Temporary beer and wine permit](97-temporary-beer-and-wine-permit.md)
 - [§ 97-A Temporary retail permit](97a-temporary-retail-permit.md)
+- [§ 97-B Sale of alcoholic beverages at the New York state fair](97b-sale-of-alcoholic-beverages-at-the-new-york-state-fair.md)
 - [§ 98 Caterer's permit](98-caterers-permit.md)
 - [§ 99 Special permit to remain open during certain hours of the morning](99-special-permit-to-remain-open-during-certain-hours-of-the-morning.md)
 - [§ 99-A Charitable permits](99a-charitable-permits.md)
@@ -49,6 +50,7 @@ Section 90.    Kinds of permits.
         96-b.  Reconditioning permit.
         97.    Temporary beer and wine permit.
         97-a.  Temporary retail permit.
+        97-b.  Sale of alcoholic beverages at the New York state fair.
         98.    Caterer's permit.
         99.    Special permit to remain open during certain hours of the
                  morning.
