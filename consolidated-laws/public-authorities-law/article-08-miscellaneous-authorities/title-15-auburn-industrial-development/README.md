@@ -8,6 +8,7 @@
 - [§ 2300 Short title](2300-short-title.md)
 - [§ 2302 Definitions](2302-definitions.md)
 - [§ 2304 Auburn industrial development authority](2304-auburn-industrial-development-authority.md)
+- [§ 2305 Video recordings of open meetings and public hearings](2305-video-recordings-of-open-meetings-and-public-hearings.md)
 - [§ 2306 Purpose and powers of the authority](2306-purpose-and-powers-of-the-authority.md)
 - [§ 2307 Additional prerequisites to the provision of financial assistance](2307-additional-prerequisites-to-the-provision-of-financial.md)
 - [§ 2308 Civil service status of officers and employees](2308-civil-service-status-of-officers-and-employees.md)
@@ -43,6 +44,7 @@
 Section 2300.   Short title.
         2302.   Definitions.
         2304.   Auburn industrial development authority.
+        2305.   Video recordings of open meetings and public hearings.
         2306.   Purpose and powers of the authority.
         2307.   Additional prerequisites to the provision of financial
                   assistance.

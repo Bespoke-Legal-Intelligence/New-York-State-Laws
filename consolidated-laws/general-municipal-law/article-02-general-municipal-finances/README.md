@@ -3,8 +3,6 @@
 
 [General Municipal Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 3 Compensation for property of a municipal corporation, school district or district corporation taken by eminent domain](03-compensation-for-property-of-a-municipal-corporation-school-district-or-district.md)
@@ -12,7 +10,6 @@
 - [§ 3-B Limitation on real estate tax in New York city](03b-limitation-on-real-estate-tax-in-new-york-city.md)
 - [§ 3-C Limit upon real property tax levies by local governments](03c-limit-upon-real-property-tax-levies-by-local-governments.md)
 - [§ 3-D Certification of compliance with property tax freeze requirements](03d-certification-of-compliance-with-property-tax-freeze-requirements.md)
-- [§ 3-D\*2 Certification of compliance with tax levy limit](03d-2-certification-of-compliance-with-tax-levy-limit.md) *(repealed)*
 - [§ 4 Investigation of expenditures of towns and villages](04-investigation-of-expenditures-of-towns-and-villages.md)
 - [§ 5 Payment of fines, civil penalties, rent, rates, taxes, fees, charges and other amounts by credit card](05-payment-of-fines-civil-penalties-rent-rates-taxes-fees-charges-and-other-amounts.md)
 - [§ 5-A Electronic or wire transfers](05a-electronic-or-wire-transfers.md)

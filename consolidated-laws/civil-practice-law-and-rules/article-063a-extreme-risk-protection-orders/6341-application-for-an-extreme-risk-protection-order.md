@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 63-A — Extreme Risk Protection Orders](README.md)
 
 ```text
-  * § 6341. Application for an extreme risk protection order. In
+  § 6341. Application for an extreme risk protection order. In
 accordance with this article, a petitioner may file an application,
 which shall be sworn, and accompanying supporting documentation, setting
 forth the facts and circumstances justifying the issuance of an extreme
@@ -18,5 +18,4 @@ that the respondent owns, possesses or has access to a firearm, rifle or
 shotgun and if so, a request that the petitioner list or describe such
 firearms, rifles and shotguns, and the respective locations thereof,
 with as much specificity as possible.
-  * NB Effective August 24, 2019
 ```

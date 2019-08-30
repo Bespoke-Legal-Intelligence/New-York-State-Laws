@@ -166,6 +166,7 @@
 - [§ 399-Y\*2 Automated teller machine fee disclosure](399y-2-automated-teller-machine-fee-disclosure.md)
 - [§ 399-Y-1 Automated teller machines transaction denial; fees prohibited](399y-1-automated-teller-machines-transaction-denial-fees-prohibited.md)
 - [§ 399-YY Cable television company providing telephone services](399yy-cable-television-company-providing-telephone-services.md)
+- [§ 399-YYY Satellite television company providing television and/or telephone services](399yyy-satellite-television-company-providing-television-and-or-telephone-services.md)
 - [§ 399-Z Telemarketing; establishment of no telemarketing sales calls statewide registry; authorization of the transfer of telephone numbers on th...](399z-telemarketing-establishment-of-no-telemarketing-sales-calls-statewide-registry.md)
 - [§ 399-ZZ Telephone bills](399zz-telephone-bills.md)
 - [§ 399-ZZZ Prohibition of certain fee charges](399zzz-prohibition-of-certain-fee-charges.md)
@@ -397,6 +398,8 @@ Section 390.       Substitution of spurious oils for internal combustion
                      prohibited.
         399-yy.    Cable television company providing telephone
                      services.
+        399-yyy.   Satellite television company providing television
+                     and/or telephone services.
         399-z.     Telemarketing; establishment of no telemarketing
                      sales calls statewide registry; authorization of
                      the transfer of telephone numbers on the no

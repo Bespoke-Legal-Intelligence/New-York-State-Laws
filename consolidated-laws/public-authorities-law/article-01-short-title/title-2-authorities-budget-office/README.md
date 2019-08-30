@@ -8,6 +8,7 @@
 - [§ 4 Establishment of the independent authorities budget office](4-establishment-of-the-independent-authorities-budget-office.md)
 - [§ 5 Director of the authorities budget office](5-director-of-the-authorities-budget-office.md)
 - [§ 6 Powers and duties of the authorities budget office](6-powers-and-duties-of-the-authorities-budget-office.md)
+- [§ 6-A Power to suspend local authority board members and executive staff](6a-power-to-suspend-local-authority-board-members-and-executive-staff.md)
 - [§ 7 Reports of the authorities budget office](7-reports-of-the-authorities-budget-office.md)
 
 <details>
@@ -16,10 +17,12 @@
 ```text
                                  TITLE 2
                         AUTHORITIES BUDGET OFFICE
-Section 4. Establishment of the independent authorities budget office.
-        5. Director of the authorities budget office.
-        6. Powers and duties of the authorities budget office.
-        7. Reports of the authorities budget office.
+Section 4.   Establishment of the independent authorities budget office.
+        5.   Director of the authorities budget office.
+        6.   Powers and duties of the authorities budget office.
+        6-a. Power to suspend local authority board members and
+               executive staff.
+        7.   Reports of the authorities budget office.
 ```
 
 </details>

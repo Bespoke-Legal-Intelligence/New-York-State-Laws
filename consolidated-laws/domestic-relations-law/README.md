@@ -8,7 +8,7 @@
 | Senate code | DOM |
 | Type | Consolidated law, chapter 14 |
 | Sections | 172 |
-| Last changed | 23 Aug 2019 |
+| Last changed | 30 Aug 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Domestic Relations |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [30 Aug 2019](../../changes/2019/2019-08-30.md): 1 amended
 - [23 Aug 2019](../../changes/2019/2019-08-23.md): 2 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 1 amended
 - [7 Oct 2016](../../changes/2016/2016-10-07.md): 1 amended
 - [24 Jun 2016](../../changes/2016/2016-06-24.md): 1 amended
-- [27 May 2016](../../changes/2016/2016-05-27.md): 1 amended
 
 ## Contents
 

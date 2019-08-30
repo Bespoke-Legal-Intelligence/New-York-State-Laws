@@ -8,6 +8,7 @@
 - [§ 1950 Short title](1950-short-title.md)
 - [§ 1951 Definitions](1951-definitions.md)
 - [§ 1952 Troy industrial development authority](1952-troy-industrial-development-authority.md)
+- [§ 1952-A Video recordings of open meetings and public hearings](1952a-video-recordings-of-open-meetings-and-public-hearings.md)
 - [§ 1953 Purpose and powers of the authority](1953-purpose-and-powers-of-the-authority.md)
 - [§ 1953-A Additional prerequisites to the provision of financial assistance](1953a-additional-prerequisites-to-the-provision-of-financial.md)
 - [§ 1954 Civil service status of officers and employees](1954-civil-service-status-of-officers-and-employees.md)
@@ -42,6 +43,7 @@
 Section 1950.   Short title.
         1951.   Definitions.
         1952.   Troy industrial development authority.
+        1952-a. Video recordings of open meetings and public hearings.
         1953.   Purpose and powers of the authority.
         1953-a. Additional prerequisites to the provision of financial
                   assistance.

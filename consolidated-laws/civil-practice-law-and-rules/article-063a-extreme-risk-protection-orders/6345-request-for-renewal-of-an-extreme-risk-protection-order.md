@@ -4,8 +4,8 @@
 [Civil Practice Law and Rules](../README.md) › [Article 63-A — Extreme Risk Protection Orders](README.md)
 
 ```text
-  * § 6345. Request for renewal of an extreme risk protection order. 1.
-If a petitioner believes a person subject to an extreme risk protection
+  § 6345. Request for renewal of an extreme risk protection order. 1. If
+a petitioner believes a person subject to an extreme risk protection
 order continues to be likely to engage in conduct that would result in
 serious harm to himself, herself, or others, as defined in paragraph one
 or two of subdivision (a) of section 9.39 of the mental hygiene law,
@@ -29,5 +29,4 @@ the hearing. The court shall direct service of such application and the
 accompanying papers in the manner and in accordance with the protections
 for the petitioner set forth in subdivision six of section sixty-three
 hundred forty-two of this article.
-  * NB Effective August 24, 2019
 ```

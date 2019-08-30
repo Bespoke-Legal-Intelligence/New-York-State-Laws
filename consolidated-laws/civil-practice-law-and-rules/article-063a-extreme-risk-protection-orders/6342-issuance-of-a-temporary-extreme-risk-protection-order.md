@@ -4,8 +4,8 @@
 [Civil Practice Law and Rules](../README.md) › [Article 63-A — Extreme Risk Protection Orders](README.md)
 
 ```text
-  * § 6342. Issuance of a temporary extreme risk protection order. 1.
-Upon application of a petitioner pursuant to this article, the court may
+  § 6342. Issuance of a temporary extreme risk protection order. 1. Upon
+application of a petitioner pursuant to this article, the court may
 issue a temporary extreme risk protection order, ex parte or otherwise,
 to prohibit the respondent from purchasing, possessing or attempting to
 purchase or possess a firearm, rifle or shotgun, upon a finding that
@@ -144,5 +144,4 @@ or her;
   (d) possesses any registered firearms, rifles or shotguns; and
   (e) has been, or is, subject to any order of protection or has
 violated or allegedly violated any order of protection.
-  * NB Effective August 24, 2019
 ```

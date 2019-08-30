@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 63-A — Extreme Risk Protection Orders](README.md)
 
 ```text
-  * § 6340. Definitions. For the purposes of this article:
+  § 6340. Definitions. For the purposes of this article:
   1. "Extreme risk protection order" means a court-issued order of
 protection prohibiting a person from purchasing, possessing or
 attempting to purchase or possess a firearm, rifle or shotgun.
@@ -32,5 +32,4 @@ coaching certificate.
 protection order is or may be sought under this article.
   4. "Possess" shall have the same meaning as defined in subdivision
 eight of section 10.00 of the penal law.
-  * NB Effective August 24, 2019
 ```

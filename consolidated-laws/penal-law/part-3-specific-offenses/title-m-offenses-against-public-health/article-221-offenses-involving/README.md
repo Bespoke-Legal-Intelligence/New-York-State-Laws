@@ -6,8 +6,8 @@
 ## Contents
 
 - [§ 221.00 Marihuana; definitions](221.00-marihuana-definitions.md)
-- [§ 221.05 Unlawful possession of marihuana](221.05-unlawful-possession-of-marihuana.md)
-- [§ 221.10 Criminal possession of marihuana in the fifth degree](221.10-criminal-possession-of-marihuana-in-the-fifth.md)
+- [§ 221.05 Unlawful possession of marihuana in the second degree](221.05-unlawful-possession-of-marihuana-in-the-second.md)
+- [§ 221.10 Unlawful possession of marihuana in the first degree](221.10-unlawful-possession-of-marihuana-in-the-first.md)
 - [§ 221.15 Criminal possession of marihuana in the fourth degree](221.15-criminal-possession-of-marihuana-in-the-fourth.md)
 - [§ 221.20 Criminal possession of marihuana in the third degree](221.20-criminal-possession-of-marihuana-in-the-third.md)
 - [§ 221.25 Criminal possession of marihuana in the second degree](221.25-criminal-possession-of-marihuana-in-the-second.md)

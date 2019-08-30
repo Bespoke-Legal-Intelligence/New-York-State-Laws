@@ -18,7 +18,7 @@
 <summary>Official heading of Article 63-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE  63-A
+                              ARTICLE  63-A
                      EXTREME RISK PROTECTION ORDERS
 Section 6340. Definitions.
         6341. Application for an extreme risk protection order.
@@ -30,7 +30,6 @@ Section 6340. Definitions.
         6346. Expiration of an extreme risk protection order.
         6347. Effect of findings and determinations in subsequent
                 proceedings.
-  * NB Effective August 24, 2019
 ```
 
 </details>

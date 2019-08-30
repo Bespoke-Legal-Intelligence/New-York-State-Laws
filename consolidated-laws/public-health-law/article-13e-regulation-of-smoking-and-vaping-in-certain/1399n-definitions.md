@@ -38,13 +38,9 @@ liability company, corporation, partnership or other enterprise in which
 the primary activity is the retail sale of tobacco products and
 accessories, and in which the sale of other products is merely
 incidental.
-  * 8. "Smoking" means the burning of a lighted cigar, cigarette, pipe
-or any other matter or substance which contains tobacco.
-  * NB Effective until August 28, 2019
-  * 8. "Smoking" means the burning of a lighted cigar, cigarette, pipe
-or any other matter or substance which contains tobacco or marihuana as
+  8. "Smoking" means the burning of a lighted cigar, cigarette, pipe or
+any other matter or substance which contains tobacco or marihuana as
 defined in section thirty-three hundred two of this chapter.
-  * NB Effective August 28, 2019
   9. "Vaping" means the use of an electronic cigarette.
   10. "Electronic cigarette" shall have the same meaning as in
 subdivision thirteen of section thirteen hundred ninety-nine-aa of this

@@ -4,7 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 63-A — Extreme Risk Protection Orders](README.md)
 
 ```text
-  * § 6343. Issuance of a final extreme risk protection order. 1. In
+  § 6343. Issuance of a final extreme risk protection order. 1. In
 accordance with this article, no sooner than three business days nor
 later than six business days after service of a temporary extreme risk
 protection order and, alternatively, no later than ten business days
@@ -122,5 +122,4 @@ promptly hold a hearing, in accordance with this article, after
 providing reasonable notice to the petitioner. The respondent shall bear
 the burden to prove, by clear and convincing evidence, any change of
 circumstances that may justify a change to the order.
-  * NB Effective August 24, 2019
 ```
