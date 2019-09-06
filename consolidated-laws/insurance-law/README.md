@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ISC |
 | Type | Consolidated law, chapter 28 |
-| Sections | 1,018 |
-| Last changed | 9 Aug 2019 |
+| Sections | 1,019 |
+| Last changed | 6 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Insurance |
 
@@ -24,7 +24,7 @@
 ARTICLE   1. General provisions. (§§ 101-110)
           2. Organization of the department of financial services. (§§
                201-214)
-          3. Administrative and procedural provisions. (§§ 301-342)
+          3. Administrative and procedural provisions. (§§ 301-343)
           4. Insurance frauds prevention. (§§ 401-411)
           5. Certificates of insurance. (§§ 501-505)
 ```
@@ -33,6 +33,7 @@ ARTICLE   1. General provisions. (§§ 101-110)
 
 ## Recent changes
 
+- [6 Sep 2019](../../changes/2019/2019-09-06.md): 13 amended, 1 added
 - [9 Aug 2019](../../changes/2019/2019-08-09.md): 2 amended
 - [12 Jul 2019](../../changes/2019/2019-07-12.md): 3 amended
 - [5 Jul 2019](../../changes/2019/2019-07-05.md): 2 amended
@@ -42,7 +43,6 @@ ARTICLE   1. General provisions. (§§ 101-110)
 - [8 Feb 2019](../../changes/2019/2019-02-08.md): 2 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 6 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 10 amended
-- [14 Dec 2018](../../changes/2018/2018-12-14.md): 3 amended
 
 ## Contents
 

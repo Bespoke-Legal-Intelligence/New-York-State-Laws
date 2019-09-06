@@ -77,5 +77,5 @@ of the senate and the minority leader of the senate no less than
 annually, and it shall additionally issue such reports and
 recommendations as it deems necessary to carry out its duties and
 responsibilities.
-  * NB Repealed September 1, 2019
+  * NB Repealed September 1, 2021
 ```

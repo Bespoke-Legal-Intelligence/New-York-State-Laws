@@ -8,7 +8,7 @@
 | Senate code | PAR |
 | Type | Consolidated law, chapter 36-B |
 | Sections | 178 |
-| Last changed | 8 Feb 2019 |
+| Last changed | 6 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Parks, Recreation and Historic Preservation |
 
@@ -33,6 +33,7 @@
 
 ## Recent changes
 
+- [6 Sep 2019](../../changes/2019/2019-09-06.md): 2 amended
 - [8 Feb 2019](../../changes/2019/2019-02-08.md): 1 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 added
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 2 amended
@@ -42,7 +43,6 @@
 - [27 Oct 2017](../../changes/2017/2017-10-27.md): 2 amended
 - [20 Oct 2017](../../changes/2017/2017-10-20.md): 1 amended
 - [22 Sep 2017](../../changes/2017/2017-09-22.md): 1 amended
-- [15 Sep 2017](../../changes/2017/2017-09-15.md): 1 amended
 
 ## Contents
 

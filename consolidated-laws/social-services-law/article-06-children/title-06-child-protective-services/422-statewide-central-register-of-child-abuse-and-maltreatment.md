@@ -291,16 +291,7 @@ members of a citizen review panel shall not disclose to any person or
 government official any identifying information which the panel has been
 provided and shall not make public other information unless otherwise
 authorized by statute;
-  * (z) an entity with appropriate legal authority in another state to
-license, certify or otherwise approve prospective foster parents,
-prospective adoptive parents, prospective relative guardians or
-prospective successor guardians where disclosure of information
-regarding such prospective foster or prospective adoptive parents or
-prospective relative or prospective successor guardians and other
-persons over the age of eighteen residing in the home of such persons is
-required under title IV-E of the federal social security act; and
-  * NB Effective until September 1, 2019
-  * (z) an entity with appropriate legal authority in another state to
+  (z) an entity with appropriate legal authority in another state to
 license, certify or otherwise approve prospective foster parents,
 prospective adoptive parents, prospective relative guardians,
 prospective successor guardians or child care program where disclosure
@@ -311,7 +302,6 @@ persons or where child care is provided, as required under either title
 IV-E of the federal social security act or the federal child care and
 development block grant act (section nine thousand eight hundred
 fifty-eight, et seq. of title forty-two of the United States Code); and
-  * NB Effective September 1, 2019
   (aa) a social services official who is investigating whether an adult
 is in need of protective services in accordance with the provisions of
 section four hundred seventy-three of this chapter, when such official

@@ -51,7 +51,7 @@
 - [§ 389 Penalty for violations](389-penalty-for-violations.md)
 - [§ 390 Child day care; license or registration required](390-child-day-care-license-or-registration-required.md)
 - [§ 390-A Standards and training for child day care](390a-standards-and-training-for-child-day-care.md)
-- [§ 390-B Criminal history review of child care providers, generally](390b-criminal-history-review-of-child-care-providers-generally.md)
+- [§ 390-B Criminal history review and background clearances of child care providers, generally](390b-criminal-history-review-and-background-clearances-of-child-care.md)
 - [§ 390-C Notice of pesticide applications](390c-notice-of-pesticide-applications.md)
 - [§ 390-C\*2 Additional powers and duties of the office of children and family services](390c-2-additional-powers-and-duties-of-the-office-of-children-and-family.md)
 - [§ 390-D Requiring barriers to be placed around swimming pools and bodies of water on the grounds of family day care homes or group family day car...](390d-requiring-barriers-to-be-placed-around-swimming-pools-and-bodies.md)

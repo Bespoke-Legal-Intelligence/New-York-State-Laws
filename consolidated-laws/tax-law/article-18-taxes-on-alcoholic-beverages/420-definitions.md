@@ -49,9 +49,10 @@ description manufactured from malt, wholly or in part, or from any
 substitute therefor containing one-half of one per centum, or more, of
 alcohol by volume.
   6. "Wines" mean and include wine (both still and sparkling and when
-fortified by the addition of alcohol or spirits), fruit juice containing
-one-half of one per centum or more of alcohol by volume and all other
-beverages containing alcohol manufactured or produced by the
+fortified by the addition of alcohol or spirits), mead as defined in
+section three of the alcoholic beverage control law, fruit juice
+containing one-half of one per centum or more of alcohol by volume and
+all other beverages containing alcohol manufactured or produced by the
 fermentation of the natural sugar contents of fruits or other
 agricultural products containing sugar, provided the foregoing contain
 not more than twenty-four per centum of alcohol by volume, but shall not

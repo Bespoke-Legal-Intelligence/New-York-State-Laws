@@ -16,7 +16,6 @@
 - [§ 608 World trade center memorial scholarships](608-world-trade-center-memorial-scholarships.md)
 - [§ 608-A Military enhanced recognition, incentive and tribute ("MERIT") scholarships](608a-military-enhanced-recognition-incentive.md)
 - [§ 609 Tuition, aid and placement report](609-tuition-aid-and-placement-report.md)
-- [§ 609-A New York DREAM fund commission](609a-new-york-dream-fund-commission.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

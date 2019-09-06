@@ -5,21 +5,14 @@
 
 ```text
   § 390. Child day care; license or registration required. 1.
-Definitions.  (a) * (i) "Child day care" shall mean care for a child on
-a regular basis provided away from the child's residence for less than
-twenty-four hours per day by someone other than the parent, step-parent,
-guardian, or relative within the third degree of consanguinity of the
-parents or step-parents of such child.
-  * NB Effective until September 1, 2019
-  * (i) "Child day care" shall mean child care where a license or
-registration pursuant to this section is required and shall include care
-for a child on a regular basis provided away from the child's residence
-for less than twenty-four hours per day by someone other than: (1) the
-parent, step-parent, guardian, or relative within the third degree of
-consanguinity of the parents or step-parents of such child; or (2) an
-enrolled legally-exempt provider as such term is defined in paragraph
-(g) of this subdivision.
-  * NB Effective September 1, 2019
+Definitions.  (a) (i) "Child day care" shall mean child care where a
+license or registration pursuant to this section is required and shall
+include care for a child on a regular basis provided away from the
+child's residence for less than twenty-four hours per day by someone
+other than: (1) the parent, step-parent, guardian, or relative within
+the third degree of consanguinity of the parents or step-parents of such
+child; or (2) an enrolled legally-exempt provider as such term is
+defined in paragraph (g) of this subdivision.
   (ii) Child day care shall not refer to care provided in:
   (A) a day camp, as defined in the state sanitary code;
   (B) an after-school program operated for the purpose of religious
@@ -95,13 +88,12 @@ children at a permanent site before or after the period children
 enrolled in such program are ordinarily in school or during school lunch
 periods and may also provide such care on school holidays and those
 periods of the year in which school is not in session.
-  * (g) "Enrolled legally exempt provider" shall mean a person who is a
+  (g) "Enrolled legally exempt provider" shall mean a person who is a
 caregiver or entity that is not required to be licensed or registered
 pursuant to this section and that is enrolled to be a caregiver and
 provide subsidized child care services to eligible families in
 accordance with title five-C of this article and the regulations of the
 office of children and family services.
-  * NB Effective September 1, 2019
   2. * (a) Child day care centers caring for seven or more children and
 group family day care programs, as defined in subdivision one of this
 section, shall obtain a license from the office of children and family
@@ -179,11 +171,11 @@ suspension is necessary.
 openly display such license in the facility or home for which the
 license is issued. Child day care providers who have registered with the
 department shall provide proof of registration upon request.
-  * (d-1) (i) The office of children and family services shall
-promulgate regulations for inspections of enrolled legally exempt
-providers, which shall include the completion of a satisfactory
-inspection of the premises where care is to be provided, by the office
-of children and family services.
+  (d-1) (i) The office of children and family services shall promulgate
+regulations for inspections of enrolled legally exempt providers, which
+shall include the completion of a satisfactory inspection of the
+premises where care is to be provided, by the office of children and
+family services.
   (ii) Provided however, unless a complaint is made in or as otherwise
 authorized such inspections shall not be required when the enrolled
 legally exempt provider is an individual, age eighteen or older, and
@@ -196,7 +188,6 @@ services to in accordance with title five-C of this article:
 household from the child;
   (D) an aunt; or
   (E) an uncle.
-  * NB Effective September 1, 2019
   (e) Notwithstanding any other provision of this section, where a child
 is cared for by a parent, guardian or relative within the third degree
 of consanguinity of the parent of such child and such person

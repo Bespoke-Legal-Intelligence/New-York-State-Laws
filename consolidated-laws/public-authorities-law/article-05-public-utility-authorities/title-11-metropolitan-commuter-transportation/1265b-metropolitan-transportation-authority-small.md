@@ -153,5 +153,5 @@ legislation shall, for the initial year of the program, be in an
 aggregate amount of not less than ten million dollars, and shall not
 exceed one hundred million dollars, with the maximum amount in future
 years to be set by the chairman.
-  * NB Repealed December 31, 2019
+  * NB Repealed December 31, 2029
 ```

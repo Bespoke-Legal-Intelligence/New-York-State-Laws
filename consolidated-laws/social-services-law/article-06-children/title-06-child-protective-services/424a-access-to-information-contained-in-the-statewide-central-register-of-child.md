@@ -5,39 +5,22 @@
 
 ```text
   § 424-a. Access to information contained in the statewide central
-register of child abuse and maltreatment. 1. * (a) A licensing agency
+register of child abuse and maltreatment. 1.  (a) (i) A licensing agency
 shall inquire of the department and the department shall, subject to the
 provisions of paragraph (e) of this subdivision, inform such agency and
 the subject of the inquiry whether an applicant for a certificate,
-license or permit, assistants to group family day care providers, the
-director of a camp subject to the provisions of article thirteen-B of
-the public health law, a prospective successor guardian when a clearance
-is conducted pursuant to paragraph (d) of subdivision two of section
-four hundred fifty-eight-b of this article, and any person over the age
-of eighteen who resides in the home of a person who has applied to
-become an adoptive parent or a foster parent or to operate a family day
-care home or group family day care home or any person over the age of
-eighteen residing in the home of a prospective successor guardian when a
-clearance is conducted of a prospective successor guardian pursuant to
-this paragraph, has been or is currently the subject of an indicated
-child abuse and maltreatment report on file with the statewide central
-register of child abuse and maltreatment.
-  * NB Effective until September 1, 2019
-  * (a) (i) A licensing agency shall inquire of the department and the
-department shall, subject to the provisions of paragraph (e) of this
-subdivision, inform such agency and the subject of the inquiry whether
-an applicant for a certificate, license or permit, the director of a
-camp subject to the provisions of article thirteen-B of the public
-health law, a prospective successor guardian when a clearance is
-conducted pursuant to paragraph (d) of subdivision two of section four
-hundred fifty-eight-b of this article, and any person over the age of
-eighteen who resides in the home of a person who has applied to become
-an adoptive parent or a foster parent or any person over the age of
-eighteen residing in the home of a prospective successor guardian when a
-clearance is conducted of a prospective successor guardian pursuant to
-this paragraph, has been or is currently the subject of an indicated
-child abuse and maltreatment report on file with the statewide central
-register of child abuse and maltreatment.
+license or permit, the director of a camp subject to the provisions of
+article thirteen-B of the public health law, a prospective successor
+guardian when a clearance is conducted pursuant to paragraph (d) of
+subdivision two of section four hundred fifty-eight-b of this article,
+and any person over the age of eighteen who resides in the home of a
+person who has applied to become an adoptive parent or a foster parent
+or any person over the age of eighteen residing in the home of a
+prospective successor guardian when a clearance is conducted of a
+prospective successor guardian pursuant to this paragraph, has been or
+is currently the subject of an indicated child abuse and maltreatment
+report on file with the statewide central register of child abuse and
+maltreatment.
   (ii) A licensing agency shall inquire of the office whether an
 applicant for a certificate, license or permit to operate a child care
 program including a family day care home, group family day care home,
@@ -82,7 +65,6 @@ central register of child abuse and maltreatment. The office shall
 promulgate regulations related to the process by which providers and
 applicants will be informed whether the applicant is authorized or
 unauthorized to care for children based on the outcome of such inquiry.
-  * NB Effective September 1, 2019
   (b) (i) (A) Subject to the provisions of subdivision seven of this
 section, a provider agency shall inquire of the office and the office
 shall, subject to the provisions of paragraph (e) of this subdivision,
@@ -395,42 +377,7 @@ defined in subdivision four of section four hundred eighty-eight of this
 chapter, in regard to the employment of staff, or use of providers of
 goods and services and staff of such providers, consultants, interns and
 volunteers.
-  * 4. For purposes of this section, the term "licensing agency" shall
-mean an authorized agency which has received an application to become an
-adoptive parent or an authorized agency which has received an
-application for a certificate or license to receive, board or keep any
-child pursuant to the provisions of section three hundred seventy-six or
-three hundred seventy-seven of this article or an authorized agency
-which has received an application from a relative within the second
-degree or third degree of consanguinity of the parent of a child or a
-relative within the second degree or third degree of consanguinity of
-the step-parent of a child or children, or the child's legal guardian
-for approval to receive, board or keep such child, or an authorized
-agency that conducts a clearance pursuant to paragraph (d) of
-subdivision two of section four hundred fifty-eight-b of this article,
-or a state or local governmental agency which receives an application to
-provide child day care services in a child day care center, school-age
-child care program, family day care home or group family day care home
-pursuant to the provisions of section three hundred ninety of this
-article, or the department of health and mental hygiene of the city of
-New York, when such department receives an application for a certificate
-of approval to provide child day care services in a child day care
-center pursuant to the provisions of the health code of the city of New
-York, or the office of mental health or the office for people with
-developmental disabilities when such office receives an application for
-an operating certificate pursuant to the provisions of the mental
-hygiene law to operate a family care home, or a state or local
-governmental official who receives an application for a permit to
-operate a camp which is subject to the provisions of article thirteen-B
-of the public health law or the office of children and family services
-which has received an application for a certificate to receive, board or
-keep any child at a foster family home pursuant to articles nineteen-G
-and nineteen-H of the executive law or any other facility or provider
-agency, as defined in subdivision four of section four hundred
-eighty-eight of this chapter, in regard to any licensing or
-certification function carried out by such facility or agency.
-  * NB Effective until September 1, 2019
-  * 4. For purposes of this section, the term "licensing agency" shall
+  4. For purposes of this section, the term "licensing agency" shall
 mean an authorized agency which has received an application to become an
 adoptive parent or an authorized agency which has received an
 application for a certificate or license to receive, board or keep any
@@ -466,7 +413,6 @@ and nineteen-H of the executive law or any other facility or provider
 agency, as defined in subdivision four of section four hundred
 eighty-eight of this chapter, in regard to any licensing or
 certification function carried out by such facility or agency.
-  * NB Effective September 1, 2019
   5. (a) The office of children and family services, after consultation
 with the justice center for the protection of people with special needs,
 the office of mental health, the office for people with developmental

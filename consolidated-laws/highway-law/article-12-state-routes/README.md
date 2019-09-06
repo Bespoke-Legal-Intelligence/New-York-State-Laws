@@ -308,6 +308,7 @@
 - [§ 344-I\*8 Portion of the state highway system to be designated as the "Lance Corporal Aaron M](344i-8-portion-of-the-state-highway-system-to-be-designated-as-the-lance-corporal-aaron.md)
 - [§ 344-I\*9 Portion of the state highway system to be designated as the "Steve Godlewski Memorial Bridge"](344i-9-portion-of-the-state-highway-system-to-be-designated-as-the-steve-godlewski.md)
 - [§ 344-I\*10 Portion of state highway system to be designated as "NYPD Det](344i-10-portion-of-state-highway-system-to-be-designated-as-nypd-det.md)
+- [§ 344-I\*11 Portion of the state highway system to be designated as the "Private Charles S](344i-11-portion-of-the-state-highway-system-to-be-designated-as-the-private-charles-s.md)
 - [§ 344-J Portion of the state highway system to be designated as the "Chief George Bell Memorial Highway"](344j-portion-of-the-state-highway-system-to-be-designated-as-the-chief-george-bell.md)
 - [§ 344-K Portion of the state highway system to be designated as the "Officer Kevin F](344k-portion-of-the-state-highway-system-to-be-designated-as-the-officer-kevin-f.md)
 - [§ 344-K\*2 Portion of the state highway system to be designated as "Melvin Harris, Jr](344k-2-portion-of-the-state-highway-system-to-be-designated-as-melvin-harris-jr.md)
@@ -1027,6 +1028,9 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Steve Godlewski Memorial Bridge".
         344-i*10.  Portion of state highway system to be designated as
                      "NYPD Det. TSgt. Joseph G. Lemm Memorial Bridge".
+        344-i.     Portion of the state highway system to be designated
+                     as the "Private Charles S. Cooper, Jr. Memorial
+                     Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated

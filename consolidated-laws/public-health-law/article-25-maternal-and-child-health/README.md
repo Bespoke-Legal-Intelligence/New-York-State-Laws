@@ -17,6 +17,7 @@
 - [Title 5 — Children With Physical Disabilities](title-5-children-with-physical-disabilities/)
 - [Title 6\* — Federal Child Care and Adult Food Program](title-6-federal-child-care-and-adult-food/)
 - [Title 6 — Emergency Nutrition Aid Program For Pregnant Women and Adolescents](title-6-emergency-nutrition-aid-program/)
+- [Title 7 — Youth Sports](title-7-youth-sports/)
 - [Title 8 — Childhood Obesity Prevention Program](title-8-childhood-obesity-prevention-program/)
 
 <details>
@@ -25,19 +26,20 @@
 ```text
                                ARTICLE 25
                         MATERNAL AND CHILD HEALTH
-Title    I.   General provisions (§§ 2500-2508).
-         I-A. Child health insurance plan (§§ 2510-2511).
-         1-B. Adolescent pregnancy prevention and services program
-                (§§ 2515-2515-c).
-        II.   Prenatal care (§§ 2522-2532).
-        II-A. Early intervention program for infants and toddlers with
-                disabilities and their families (§§ 2540--2559-b).
-        IV.   Institutions for children (§§ 2570-2575).
-         V.   Children with physical disabilities (§§ 2580-2584).
-        VI*.  Federal child care and adult food program (§§ 2585-2589).
-        VI.   Emergency nutrition aid program for pregnant women and
-                adolescents (§§ 2590-2592)
-      VIII.   Childhood obesity prevention program (§§ 2599-a--2599-d).
+Title       I. General provisions (§§ 2500-2508).
+          I-A. Child health insurance plan (§§ 2510-2511).
+          1-B. Adolescent pregnancy prevention and services program (§§
+                  2515-2515-c).
+           II. Prenatal care (§§ 2522-2532).
+         II-A. Early intervention program for infants and toddlers with
+                  disabilities and their families (§§ 2540--2559-b).
+           IV. Institutions for children (§§ 2570-2575).
+            V. Children with physical disabilities (§§ 2580-2584).
+          VI*. Federal child care and adult food program (§§ 2585-2589).
+           VI. Emergency nutrition aid program for pregnant women and
+                  adolescents (§§ 2590-2592)
+          VII. Youth sports (§ 2595).
+         VIII. Childhood obesity prevention program (§§ 2599-a--2599-d).
 ```
 
 </details>

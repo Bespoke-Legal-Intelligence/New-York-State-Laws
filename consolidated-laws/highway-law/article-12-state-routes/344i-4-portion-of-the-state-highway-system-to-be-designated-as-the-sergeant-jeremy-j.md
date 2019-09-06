@@ -10,5 +10,5 @@
 "Sergeant Jeremy J. VanNostrand Memorial Highway". The portion of state
 route 5S in the town of Glen, county of Montgomery shall be designated
 and known as the "Sergeant Jeremy J. VanNostrand Memorial Highway".
-  * NB There are 10 § 344-i's
+  * NB There are 11 § 344-i's
 ```

@@ -182,6 +182,7 @@ Article
                  * VI.   Emergency nutrition aid program for pregnant
                           women and adolescents (§§2590-2592)
                  * NB Expired March 31, 1986
+                  VII.   Youth sports (§ 2595).
                  VIII.   Childhood obesity prevention program
                           (§§2599-a--2599-d).
   25-A.    Reproductive health act (§§ 2599-aa--2599-bb).

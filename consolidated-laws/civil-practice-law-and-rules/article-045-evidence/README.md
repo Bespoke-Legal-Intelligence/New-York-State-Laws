@@ -38,6 +38,7 @@
 - [§ 4531 Affidavit of service or posting notice by person unavailable at trial](4531-affidavit-of-service-or-posting-notice-by-person-unavailable-at-trial.md)
 - [§ 4532 Self-authentication of newspapers and periodicals of general circulation](4532-self-authentication-of-newspapers-and-periodicals-of-general-circulation.md)
 - [§ 4532-A Admissibility of graphic, numerical, symbolic or pictorial representations of medical or diagnostic tests](4532a-admissibility-of-graphic-numerical-symbolic-or-pictorial-representations.md)
+- [§ 4532-B An image, map, location, distance, calculation, or other information taken from a web mapping service, a global satellite imaging site, o...](4532b-an-image-map-location-distance-calculation-or-other-information-taken-from-a-web.md)
 - [§ 4533 Market reports](4533-market-reports.md)
 - [§ 4533-A Prima facie proof of damages](4533a-prima-facie-proof-of-damages.md)
 - [§ 4533-B Proof of payment by joint tort-feasor](4533b-proof-of-payment-by-joint-tort-feasor.md)
@@ -61,7 +62,7 @@
 <summary>Official heading of Article 45, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE   45
+                               ARTICLE 45
                                 EVIDENCE
         4501.   Self-incrimination.
         4502.   Spouse.
@@ -144,6 +145,7 @@
         4532-a. Admissibility of graphic, numerical, symbolic or
                   pictorial representations of medical or diagnostic
                   tests.
+        4532-b. (Enacted without section heading).
         4533.   Market reports.
         4533-a. Prima facie proof of damages.
         4533-b. Proof of payment by joint tort-feasor.
