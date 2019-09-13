@@ -8,7 +8,7 @@
 | Senate code | PBO |
 | Type | Consolidated law, chapter 47 |
 | Sections | 115 |
-| Last changed | 16 Aug 2019 |
+| Last changed | 13 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Officers |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [13 Sep 2019](../../changes/2019/2019-09-13.md): 1 amended
 - [16 Aug 2019](../../changes/2019/2019-08-16.md): 1 amended
 - [9 Aug 2019](../../changes/2019/2019-08-09.md): 1 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 1 amended
 - [11 Jan 2019](../../changes/2019/2019-01-11.md): 2 amended
 - [9 Nov 2018](../../changes/2018/2018-11-09.md): 1 amended
-- [31 Aug 2018](../../changes/2018/2018-08-31.md): 2 amended
 
 ## Contents
 

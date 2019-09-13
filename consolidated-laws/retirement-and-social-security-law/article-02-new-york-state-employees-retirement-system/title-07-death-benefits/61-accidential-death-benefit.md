@@ -4,11 +4,22 @@
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md) › [Title 7 — Death Benefits and Disability Retirement](README.md)
 
 ```text
-  § 61. Accidential death benefit. a. An accidential death benefit and
-the reserve-for-increased-take-home-pay shall be payable upon the death
-of a member if, upon application filed within two years after the death
-of such member, the comptroller shall determine, on the basis of the
+  § 61. * Accidential death benefit.
+  * NB Effective until January 1, 2020
+  * Accidental death benefit.
+  * NB Effective January 1, 2020
+a. * An accidential death benefit and the
+reserve-for-increased-take-home-pay shall be payable upon the death of a
+member if, upon application filed within two years after the death of
+such member, the comptroller shall determine, on the basis of the
 evidence, that such member:
+  * NB Effective until January 1, 2020
+  * An accidental death benefit and the
+reserve-for-increased-take-home-pay shall be payable upon the death of a
+member if, upon application filed within five years after the death of
+such member, the comptroller shall determine, on the basis of the
+evidence, that such member:
+  * NB Effective January 1, 2020
   1. Died before the effective date of his retirement, as the natural
 and proximate result of an accident sustained in the performance of duty
 in the service upon which his membership was based, and

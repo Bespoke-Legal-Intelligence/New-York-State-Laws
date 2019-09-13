@@ -14,7 +14,7 @@
 <summary>Official heading of Article 13-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 13-B
+                              ARTICLE 13-b
 Section 160-h. Grapes; definitions.
         160-i. Grades or standards; establishment; sale.
         160-j. Marking requirements.
