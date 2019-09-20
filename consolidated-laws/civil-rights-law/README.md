@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVR |
 | Type | Consolidated law, chapter 6 |
-| Sections | 109 |
-| Last changed | 26 Jul 2019 |
+| Sections | 119 |
+| Last changed | 20 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Rights |
 
@@ -29,10 +29,11 @@
 Assembly, do enact as follows:
 ```
 
-[Full chapter text (29 lines)](chapter-text.md)
+[Full chapter text (31 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [20 Sep 2019](../../changes/2019/2019-09-20.md): 2 amended, 10 added
 - [26 Jul 2019](../../changes/2019/2019-07-26.md): 1 added
 - [1 Mar 2019](../../changes/2019/2019-03-01.md): 1 amended
 - [1 Feb 2019](../../changes/2019/2019-02-01.md): 1 amended
@@ -57,4 +58,5 @@ Assembly, do enact as follows:
 - [Article 6 — Change of Name](article-06-change-of-name/)
 - [Article 7 — Miscellaneous Rights and Immunities](article-07-miscellaneous-rights-and-immunities/)
 - [Article 8 — Causes of Action For Alienation of Affections, Criminal Conversation, Seduction and Breach of Contract to Marry Abolished](article-08-causes-of-action-for-alienation-of-affections/)
-- [Article 9 — Laws Repealed; When to Take Effect](article-09-laws-repealed-when-to-take-effect/)
+- [Article 9 — Right to Call Police and Emergency Assistance/victim Protections](article-09-right-to-call-police-and-emergency-assistance/)
+- [Article 10 — Laws Repealed; When to Take Effect](article-10-laws-repealed-when-to-take-effect/)

@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 2594](2594.md)
+- [§ 2595](2595.md)
 
 <details>
 <summary>Official heading of Title 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

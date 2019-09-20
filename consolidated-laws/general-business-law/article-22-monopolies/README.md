@@ -15,6 +15,7 @@
 - [§ 343 Investigation by the attorney general](343-investigation-by-the-attorney-general.md)
 - [§ 345 Witnesses' immunity](345-witnesses-immunity.md)
 - [§ 347 Criminal prosecution](347-criminal-prosecution.md)
+- [§ 347-A Fines payable to the office of victim services](347a-fines-payable-to-the-office-of-victim-services.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -34,6 +35,7 @@ Section 340.   Contracts or agreements for monopoly or in restraint of
         343.   Investigation by the attorney general.
         345.   Witnesses' immunity.
         347.   Criminal prosecution.
+        347-a. Fines payable to the office of victim services.
 ```
 
 </details>

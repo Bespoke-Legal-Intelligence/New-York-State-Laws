@@ -50,5 +50,5 @@ in the blood.
 general pediatrics, primary care, internal medicine, primary care
 obstetrics, or primary care gynecology, without regard to board
 certification.
-  * NB Repealed January 1, 2020
+  * NB Repealed January 1, 2026
 ```

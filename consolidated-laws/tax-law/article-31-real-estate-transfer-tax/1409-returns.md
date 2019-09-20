@@ -12,12 +12,34 @@ chapter or to a public utility which is a provider of telecommunication
 services as defined in subdivision one of section one hundred
 eighty-six-e of this chapter, where the consideration is two dollars or
 less and is clearly stated as actual consideration in the instrument of
-conveyance. The return shall be filed with the recording officer before
-the instrument effecting the conveyance may be recorded. However, if the
-tax is paid to the commissioner pursuant to section fourteen hundred ten
-of this article, the return shall be filed with such commissioner at the
-time the tax is paid. In that instance, a receipt evidencing the filing
-of the return and the payment of tax shall be filed with the recording
+conveyance. When the grantor or grantee of a deed for residential real
+property containing one- to four-family dwelling units is a limited
+liability company, the joint return shall not be accepted for filing
+unless it is accompanied by a document which identifies the names and
+business addresses of all members, managers, and any other authorized
+persons, if any, of such limited liability company and the names and
+business addresses or, if none, the business addresses of all
+shareholders, directors, officers, members, managers and partners of any
+limited liability company or other business entity that are to be the
+members, managers or authorized persons, if any, of such limited
+liability company. The identification of such names and addresses shall
+not be deemed an unwarranted invasion of personal privacy pursuant to
+article six of the public officers law. If any such member, manager or
+authorized person of the limited liability company is itself a limited
+liability company or other business entity, the names and addresses of
+the shareholders, directors, officers, members, managers and partners of
+the limited liability company or other business entity shall also be
+disclosed until full disclosure of ultimate ownership by natural persons
+is achieved. For purposes of this subdivision, the terms "members",
+"managers", "authorized person", "limited liability company" and "other
+business entity" shall have the same meaning as those terms are defined
+in section one hundred two of the limited liability company law. The
+return shall be filed with the recording officer before the instrument
+effecting the conveyance may be recorded. However, if the tax is paid to
+the commissioner pursuant to section fourteen hundred ten of this
+article, the return shall be filed with such commissioner at the time
+the tax is paid. In that instance, a receipt evidencing the filing of
+the return and the payment of tax shall be filed with the recording
 officer before the instrument effecting the conveyance may be recorded.
 The recording officer shall handle such receipt in the same manner as a
 return filed with the recording officer.
@@ -26,15 +48,15 @@ Where a conveyance has more than one grantor or more than one grantee,
 the return shall be signed by all of such grantors and grantees. Where
 any or all of the grantors or any or all of the grantees have failed to
 sign a return, it shall be accepted as a return if signed by any one of
-the grantors or by any one of the grantees.  Provided, however, those
-not signing the return shall not be relieved of any liability for the
-tax imposed by this article and the period of limitations for assessment
-of tax or of additional tax shall not apply to any such party.
+the grantors or by any one of the grantees. Provided, however, those not
+signing the return shall not be relieved of any liability for the tax
+imposed by this article and the period of limitations for assessment of
+tax or of additional tax shall not apply to any such party.
   (c) Returns shall be preserved for three years and thereafter until
 the commissioner of taxation and finance permits them to be destroyed.
   (d) The commissioner shall prescribe the form of the return, the
 information which it shall contain and the documentation that shall
-accompany the return.  The commissioner shall prescribe that, for
+accompany the return. The commissioner shall prescribe that, for
 recorded conveyances, such return shall be included on the form required
 to be filed with a conveyance of real property by section two hundred
 fifty-three-b of this chapter and the regulations promulgated
@@ -43,7 +65,7 @@ form for purposes of the tax imposed by this article when the conveyance
 is pursuant to or in lieu of foreclosure or the conveyance consists in
 part of a mere change of identity or form of ownership or organization
 or the conveyance is one for which a credit for tax previously paid will
-be claimed.  In addition, the commissioner, in the commissioner's
+be claimed. In addition, the commissioner, in the commissioner's
 discretion, may enter into an agreement with the chief fiscal officer of
 the cities of New York, Yonkers or Mount Vernon to provide that a single
 return may be filed with a recording officer for purposes of the tax

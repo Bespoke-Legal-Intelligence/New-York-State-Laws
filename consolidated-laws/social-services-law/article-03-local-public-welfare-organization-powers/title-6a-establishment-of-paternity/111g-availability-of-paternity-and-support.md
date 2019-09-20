@@ -25,13 +25,13 @@ behalf of such persons.
   3. (a) A person who is receiving child support services pursuant to
 this section who has never received assistance pursuant to title IV-A of
 the federal social security act shall be subject to an annual service
-fee of twenty-five dollars for each child support case if at least five
-hundred dollars of support has been collected in the federal fiscal
-year. Where a custodial parent has children with different noncustodial
-parents, the order payable by each noncustodial parent shall be a
-separate child support case for the purpose of imposing an annual
-service fee. The fee shall be deducted from child support payments
-received on behalf of the individual receiving services.
+fee of thirty-five dollars for each child support case if at least five
+hundred fifty dollars of support has been collected in the federal
+fiscal year.  Where a custodial parent has children with different
+noncustodial parents, the order payable by each noncustodial parent
+shall be a separate child support case for the purpose of imposing an
+annual service fee. The fee shall be deducted from child support
+payments received on behalf of the individual receiving services.
   (b) In international cases under section 454(32) of the federal social
 security act which meet the criteria for imposition of the annual
 service fee under paragraph (a) of this subdivision, the annual service

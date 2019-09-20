@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 95", "kind": "section", "law_id": "CVR", "location_id": "95", "path": "ARTICLE 9 › SECTION 95", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/95.md", "title": "Defenses"} -->
+# Civil Rights Law § 95 — Defenses
+
+[Civil Rights Law](../README.md) › [Article 9 — Right to Call Police and Emergency Assistance/victim Protections](README.md)
+
+```text
+  § 95. Defenses. 1. It is a defense to any judicial or administrative
+action or proceeding taken by any municipality or municipal authority
+enforcing any local law or ordinance that the enforcement action
+directly or indirectly penalizes a residential occupant or property
+owner for the exercise of rights under this article. Prior to initiation
+of any such enforcement action or proceeding all parties and any
+residential occupant that may be so impacted shall be given written
+notice by the municipality of the protections of this article and shall
+have the right to be heard in the action or proceeding to advance the
+defenses provided by this article.
+  2. It is a defense in any action or proceeding by a landlord or other
+owner of real property to regain possession of that property that the
+action or proceeding directly or indirectly penalizes a residential
+occupant for the exercise of rights under this article. Any residential
+occupant whose right to continued occupancy may be impacted by the
+action or proceeding shall be given written notice of the action or
+proceeding and the protections of this article by the party initiating
+the action or proceeding. The residential occupant shall have the right
+to appear as a necessary party in accordance with the provisions of the
+civil practice law and rules and the real property actions and
+proceedings law in order to advance the defenses provided by this
+article.
+```

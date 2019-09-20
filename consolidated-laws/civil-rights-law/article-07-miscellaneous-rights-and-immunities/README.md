@@ -34,6 +34,7 @@
 - [§ 79-M Criminal interference with health care services, religious worship, funeral, burial or memorial service; injunction](79m-criminal-interference-with-health-care-services-religious-worship-funeral-burial.md)
 - [§ 79-N Bias-related violence or intimidation; civil remedy](79n-bias-related-violence-or-intimidation-civil-remedy.md)
 - [§ 79-N\*2 Funeral or bereavement leave](79n-2-funeral-or-bereavement-leave.md)
+- [§ 79-O Closed captioning in places of public accommodation, resort or amusement](79o-closed-captioning-in-places-of-public-accommodation-resort-or-amusement.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -77,6 +78,8 @@ Section 70.     Vexatious suits.
                   service; injunction.
         79-n.   Bias-related violence or intimidation; civil remedy.
         79-n*2. Funeral or bereavement leave.
+        79-o.   Closed captioning in places of public accommodation,
+                  resort or amusement.
 ```
 
 </details>

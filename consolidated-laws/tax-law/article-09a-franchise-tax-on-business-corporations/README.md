@@ -22,6 +22,7 @@
 - [§ 209-L Gift for ALS research and education](209l-gift-for-als-research-and-education.md)
 - [§ 209-L\*2 Gift for lupus education and prevention](209l-2-gift-for-lupus-education-and-prevention.md)
 - [§ 209-L\*3 Gift for military families](209l-3-gift-for-military-families.md)
+- [§ 209-M Gift for leukemia, lymphoma and myeloma research, education and treatment](209m-gift-for-leukemia-lymphoma-and-myeloma-research-education-and-treatment.md)
 - [§ 210 Computation of tax](210-computation-of-tax.md)
 - [§ 210-A Apportionment](210a-apportionment.md)
 - [§ 210-B Credits](210b-credits.md)
@@ -59,6 +60,8 @@ Section 208.     Definitions.
         209-L.   Gift for ALS research and education.
         209-L*2. Gift for lupus education and prevention.
         209-L*3. Gift for military families.
+        209-M.   Gift for leukemia, lymphoma and myeloma research,
+                   education and treatment.
         210.     Computation of tax.
         210-A.   Apportionment.
         210-B.   Credits.

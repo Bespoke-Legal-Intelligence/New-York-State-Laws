@@ -12,12 +12,15 @@ comprehensive statewide tobacco use prevention and control program.
 activities including, but not limited to:
   (a) Community programs to prevent and reduce tobacco use through local
 involvement and partnerships;
-  (b) School-based programs to prevent and reduce tobacco use;
-  (c) Marketing and advertising to discourage tobacco use;
+  (b) School-based programs to prevent and reduce tobacco use and use of
+electronic cigarettes;
+  (c) Marketing and advertising to discourage tobacco and liquid
+nicotine use;
   (d) Tobacco cessation programs for youth and adults;
   (e) Special projects to reduce the disparities in smoking prevalence
 among various populations;
-  (f) Restriction of youth access to tobacco products;
+  (f) Restriction of youth access to tobacco products, electronic
+cigarettes and liquid nicotine;
   (g) Surveillance of smoking rates; and
   (h) Any other activities determined by the commissioner to be
 necessary to implement the provisions of this section.
@@ -27,12 +30,13 @@ methods recognized as effective in reducing smoking and tobacco use.
 Eligible applicants may include, but not be limited to, a health care
 provider, schools, a college or university, a local public health
 department, a public health organization, a health care provider
-organization, association or society, or a professional education
-organization.
+organization, association or society, municipal corporation, or a
+professional education organization.
   3. (a) There shall be established a tobacco use prevention and control
 advisory board to advise the commissioner on tobacco use prevention and
-control issues, including methods to prevent and reduce tobacco use in
-the state.
+control issues and electronic cigarette and liquid nicotine use amongst
+minors, including methods to prevent and reduce tobacco use in the
+state.
   (b) The board shall consist of seventeen members who shall be
 appointed as follows: nine members by the governor; three members by the
 speaker of the assembly; three members by the temporary president of the

@@ -34,7 +34,7 @@ Section 2304.   Sexually transmitted diseases; treatment facilities;
                   transmitted diseases.
         2311.   Sexually transmitted disease list.
         2312.   Expedited partner therapy for chlamydia trachomatis
-                  infection.
+                  infection and other sexually transmitted infections.
 ```
 
 </details>

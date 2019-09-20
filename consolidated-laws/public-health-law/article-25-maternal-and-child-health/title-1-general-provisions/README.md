@@ -17,7 +17,7 @@
 - [§ 2500-F-1 Special program for HIV services for women and children, including adolescents](2500f-1-special-program-for-hiv-services-for-women-and-children-including.md)
 - [§ 2500-G Newborn infant hearing screening](2500g-newborn-infant-hearing-screening.md)
 - [§ 2500-H Statewide perinatal data system](2500h-statewide-perinatal-data-system.md)
-- [§ 2500-H\*2 Anaphylactic policy for school districts](2500h-2-anaphylactic-policy-for-school-districts.md)
+- [§ 2500-H\*2 Anaphylactic policy for school districts and child care providers](2500h-2-anaphylactic-policy-for-school-districts-and-child-care-providers.md)
 - [§ 2500-I Child food choking prevention](2500i-child-food-choking-prevention.md)
 - [§ 2500-J Autism spectrum disorders; screening of children](2500j-autism-spectrum-disorders-screening-of-children.md)
 - [§ 2500-K Maternal depression](2500k-maternal-depression.md)
@@ -52,7 +52,8 @@ Section 2500.     Maternal and child health; duties of commissioner.
                     children, including adolescents.
         2500-g.   Newborn infant hearing screening.
         2500-h.   Statewide perinatal data system.
-        2500-h*2. Anaphylactic policy for school districts.
+        2500-h*2. Anaphylactic policy for school districts and child
+                    care providers.
         2500-i.   Child food choking prevention.
         2500-j.   Autism spectrum disorders; screening of children.
         2500-k.   Maternal depression.

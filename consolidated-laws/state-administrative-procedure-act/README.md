@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | SAP |
 | Type | Consolidated law, chapter 82 |
-| Sections | 30 |
-| Last changed | 5 Apr 2019 |
+| Sections | 31 |
+| Last changed | 20 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Administrative Procedure Act |
 
@@ -31,6 +31,7 @@ AN ACT in relation to rule making and adjudication by state
 
 ## Recent changes
 
+- [20 Sep 2019](../../changes/2019/2019-09-20.md): 1 added
 - [5 Apr 2019](../../changes/2019/2019-04-05.md): 1 amended
 - [4 Jan 2019](../../changes/2019/2019-01-04.md): 1 amended
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 1 amended
@@ -40,7 +41,6 @@ AN ACT in relation to rule making and adjudication by state
 - [13 Jan 2017](../../changes/2017/2017-01-13.md): 5 amended
 - [2 Dec 2016](../../changes/2016/2016-12-02.md): 1 amended
 - [11 Nov 2016](../../changes/2016/2016-11-11.md): 1 amended
-- [16 Sep 2016](../../changes/2016/2016-09-16.md): 5 amended
 
 ## Contents
 

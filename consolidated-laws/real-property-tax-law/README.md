@@ -8,7 +8,7 @@
 | Senate code | RPT |
 | Type | Consolidated law, chapter 50-A |
 | Sections | 766 |
-| Last changed | 2 Aug 2019 |
+| Last changed | 20 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Tax |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [20 Sep 2019](../../changes/2019/2019-09-20.md): 1 amended
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 2 amended
 - [12 Jul 2019](../../changes/2019/2019-07-12.md): 5 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [22 Feb 2019](../../changes/2019/2019-02-22.md): 2 amended
 - [8 Feb 2019](../../changes/2019/2019-02-08.md): 1 amended, 1 added
 - [18 Jan 2019](../../changes/2019/2019-01-18.md): 1 amended
-- [11 Jan 2019](../../changes/2019/2019-01-11.md): 4 amended, 1 added, 12 removed
 
 ## Contents
 

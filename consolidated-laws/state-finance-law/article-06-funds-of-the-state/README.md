@@ -207,6 +207,7 @@
 - [§ 97-PPPP\*2 Sickle cell disease research and education fund](97pppp-2-sickle-cell-disease-research-and-education-fund.md)
 - [§ 97-QQQQ Cystic fibrosis research and education fund](97qqqq-cystic-fibrosis-research-and-education-fund.md)
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
+- [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
@@ -505,6 +506,8 @@ Section 70.        Classification of funds.
         97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
         97-rrrr.   Lupus education and prevention fund.
+        97-ssss.   Leukemia, lymphoma and myeloma research, education
+                     and treatment fund.
         97-xxxx.   State health innovation plan account.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.
