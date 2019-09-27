@@ -8,7 +8,7 @@
 | Senate code | EDP |
 | Type | Consolidated law, chapter 73 |
 | Sections | 50 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Last changed | 27 Sep 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Eminent Domain Procedure |
 
@@ -28,6 +28,10 @@
 ```
 
 [Full chapter text (21 lines)](chapter-text.md)
+
+## Recent changes
+
+- [27 Sep 2019](../../changes/2019/2019-09-27.md): 1 amended
 
 ## Contents
 
