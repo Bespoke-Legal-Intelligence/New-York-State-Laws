@@ -36,7 +36,7 @@
 - [§ 265.36 Unlawful possession of a large capacity ammunition feeding device](265.36-unlawful-possession-of-a-large-capacity.md)
 - [§ 265.37 Unlawful possession of certain ammunition feeding devices](265.37-unlawful-possession-of-certain-ammunition.md)
 - [§ 265.40 Purchase of rifles and/or shotguns in contiguous states](265.40-purchase-of-rifles-and-or-shotguns.md)
-- [§ 265.45 Safe storage of rifles, shotguns, and firearms](265.45-safe-storage-of-rifles-shotguns-and-firearms.md)
+- [§ 265.45 Failure to safely store rifles, shotguns, and firearms in the first degree](265.45-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.50 Criminal manufacture, sale, or transport of an undetectable firearm, rifle or shotgun](265.50-criminal-manufacture-sale-or-transport.md)
 - [§ 265.50\*2 Failure to safely store rifles, shotguns, and firearms in the second degree](265.50-2-failure-to-safely-store-rifles-shotguns.md)
 - [§ 265.55 Criminal possession of an undetectable firearm, rifle or shotgun](265.55-criminal-possession-of-an-undetectable-firearm.md)

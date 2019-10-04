@@ -4,7 +4,7 @@
 [Transportation Law](../README.md) › [Article 6 — Matters Relating to All Motor Carriers](README.md)
 
 ```text
-  * § 144. Fees and charges. The commissioner or authorized officer or
+  § 144. Fees and charges. The commissioner or authorized officer or
 employee of the department shall charge and collect eighty-five dollars
 for the inspection or reinspection of all motor vehicles transporting
 passengers subject to the department's inspection requirements pursuant
@@ -21,5 +21,4 @@ hundred forty of this article. The department may deny inspection of any
 motor vehicle transporting passengers subject to the department's
 inspection requirements if such fee is not paid within ninety days of
 the date noted on the department invoice.
-  * NB Effective October 1, 2019
 ```

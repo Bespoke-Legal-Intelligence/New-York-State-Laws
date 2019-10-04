@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 139", "kind": "section", "law_id": "COM", "location_id": "139", "path": "ARTICLE 4-B › SECTION 139", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/139.md", "title": "Advisory panel on employee-owned enterprises"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 139", "kind": "section", "law_id": "COM", "location_id": "139", "path": "ARTICLE 4-B › SECTION 139", "repealed": true, "repealed_date": "2019-10-04", "source": "nys-laws:COM/139.md", "title": "Advisory panel on employee-owned enterprises"} -->
 # Economic Development Law § 139 — Advisory panel on employee-owned enterprises
 
 [Economic Development Law](../README.md) › [Article 4-B — Division For Small-business](README.md)
+
+**Repealed** (4 Oct 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 139. Advisory panel on employee-owned enterprises. 1. Definition.

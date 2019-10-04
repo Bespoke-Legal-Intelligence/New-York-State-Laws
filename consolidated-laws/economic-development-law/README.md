@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 181 (7 repealed) |
-| Last changed | 20 Sep 2019 |
+| Sections | 181 (8 repealed) |
+| Last changed | 4 Oct 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [4 Oct 2019](../../changes/2019/2019-10-04.md): 1 repealed
 - [20 Sep 2019](../../changes/2019/2019-09-20.md): 2 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 3 amended
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 4 amended, 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 2 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 8 added
 - [8 Dec 2017](../../changes/2017/2017-12-08.md): 1 added
-- [4 Aug 2017](../../changes/2017/2017-08-04.md): 1 amended
 
 ## Contents
 

@@ -90,14 +90,10 @@ protracted impairment of physical or emotional health or protracted loss
 or impairment of the function of any bodily organ, or
   (iii) commits, or allows to be committed, an act of sexual abuse
 against such child as defined in the penal law.
-  * 5. "Juvenile delinquent" means a person as defined in section 301.2
-of the family court act.
-  * NB See ch. 59/2017 Pt. WWW § 106 sb b for further contingencies for
-10/1/2019
-  * 6. "Person in need of supervision" means a person as defined in
+  5. "Juvenile delinquent" means a person as defined in section 301.2 of
+the family court act.
+  6. "Person in need of supervision" means a person as defined in
 section seven hundred twelve of the family court act.
-  * NB See ch. 59/2017 Pt. WWW § 106 sb b for further contingencies for
-10/1/2019
   7. "Dependent child" means a child who is in the custody of, or wholly
 or partly maintained by an authorized agency or an institution, society
 or other organization of charitable, eleemosynary, correctional, or

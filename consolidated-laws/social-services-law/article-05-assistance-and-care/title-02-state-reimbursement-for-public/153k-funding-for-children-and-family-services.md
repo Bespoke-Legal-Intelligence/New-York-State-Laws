@@ -253,11 +253,9 @@ section through the thirtieth day of June, two thousand five. The final
 report shall include information regarding services delivery trends
 under the financing structure set forth in this section and innovative
 models of service provision to be considered for replication.
-  ** 12. Notwithstanding any law to the contrary, on or after January
+  12. Notwithstanding any law to the contrary, on or after January
 first, two thousand twenty, the state shall not reimburse for the cost
 of any placement of persons in need of supervision under article seven
 of the family court act.
-  ** NB See ch. 59/2017 Pt. WWW § 106 sb b for further contingencies for
-10/1/2019
   * NB Repealed June 30, 2022
 ```

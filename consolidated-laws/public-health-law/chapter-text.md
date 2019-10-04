@@ -198,6 +198,8 @@ Article
                           (§§2723-2724).
   27-C.    Birth defects institute (§§2730-2733).
   27-CC.   New York state traumatic brain injury program (§§2740-2744).
+  27-CCC.  Leukemia, lymphoma and myeloma research, education and
+            treatment program (§ 2747).
   27-D.    New York state burns care institute (§§2750-2752).
   27-DD.   State advisory panel on HIV/HBV infected health care workers
             (§§2760-2761).

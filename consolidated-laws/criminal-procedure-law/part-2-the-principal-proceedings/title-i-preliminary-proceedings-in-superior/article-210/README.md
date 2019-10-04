@@ -14,7 +14,7 @@
 - [§ 210.30 Motion to dismiss or reduce indictment on ground of insufficiency of grand jury evidence; motion to inspect grand jury minutes](210.30-motion-to-dismiss-or-reduce-indictment.md)
 - [§ 210.35 Motion to dismiss indictment; defective grand jury proceeding](210.35-motion-to-dismiss-indictment-defective.md)
 - [§ 210.40 Motion to dismiss indictment; in furtherance of justice](210.40-motion-to-dismiss-indictment.md)
-- [§ 210.43 Motion to remove juvenile offender to family court](210.43-motion-to-remove-juvenile-offender.md)
+- [§ 210.43 Motion to remove juvenile offender to family court](210.43-motion-to-remove-juvenile-offender.md) *(repealed)*
 - [§ 210.45 Motion to dismiss indictment; procedure](210.45-motion-to-dismiss-indictment-procedure.md)
 - [§ 210.46 Adjournment in contemplation of dismissal in marihuana cases in a superior court](210.46-adjournment-in-contemplation.md)
 - [§ 210.47 Adjournment in contemplation of dismissal in misdemeanor cases in superior court](210.47-adjournment-in-contemplation.md)
