@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 5 — Periodic Inspection of Motor Vehicles](README.md)
 
 ```text
-  * § 308-a. Mandatory reporting. If any motor vehicle is presented for
+  § 308-a. Mandatory reporting. If any motor vehicle is presented for
 inspection at a licensed official inspection station, and such vehicle
 has been altered, a vehicle commonly referred to as a "stretch
 limousine", so as to add seating capacity beyond that provided by the
@@ -20,5 +20,4 @@ three of subdivision (f) of part 79.20 of title fifteen of the codes,
 rules, and regulations of the state of New York and that is in
 compliance with part 567 of title forty-nine of the code of federal
 regulations.
-  * NB Effective October 9, 2019
 ```

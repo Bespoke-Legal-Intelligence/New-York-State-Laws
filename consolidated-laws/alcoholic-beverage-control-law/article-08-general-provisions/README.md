@@ -27,6 +27,7 @@
 - [§ 110 Information to be requested in applications for licenses or permits](110-information-to-be-requested-in-applications-for-licenses-or-permits.md)
 - [§ 110-A Notice of application for certain licenses to be published by applicant](110a-notice-of-application-for-certain-licenses-to-be-published-by-applicant.md)
 - [§ 110-B Notification to municipalities](110b-notification-to-municipalities.md)
+- [§ 110-C Public license query](110c-public-license-query.md)
 - [§ 111 License to be confined to premises licensed](111-license-to-be-confined-to-premises-licensed.md)
 - [§ 112 Bonds of licensees and permittees](112-bonds-of-licensees-and-permittees.md)
 - [§ 113 Premises for which no license shall be granted](113-premises-for-which-no-license-shall-be-granted.md)
@@ -96,6 +97,7 @@ Section 100.     Alcoholic beverages generally.
         110-a.   Notice of application for certain licenses to be
                    published by applicant.
         110-b.   Notification to municipalities.
+        110-c.   Public license query.
         111.     License to be confined to premises licensed.
         112.     Bonds of licensees and permittees.
         113.     Premises for which no license shall be granted.

@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 712. Application for a student loan servicer license; fees. 1. The
+  § 712. Application for a student loan servicer license; fees. 1. The
 application for a license to engage in the business of servicing student
 loans shall be in writing, under oath, and in the form prescribed by the
 superintendent. Notwithstanding article three of the state technology
@@ -35,5 +35,4 @@ superintendent.
 application with respect to a student loan servicer shall be
 accomplished by a fee as prescribed pursuant to section eighteen-a of
 this chapter.
-  * NB Effective October 9, 2019
 ```

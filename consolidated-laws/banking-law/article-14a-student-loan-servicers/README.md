@@ -26,7 +26,7 @@
 <summary>Official heading of Article 14-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 14-A
+                              ARTICLE 14-A
                          STUDENT LOAN SERVICERS
 Section 710. Definitions.
         711. Licensing.
@@ -45,7 +45,6 @@ Section 710. Definitions.
         723. Penalties for violations of this article.
         724. Severability of provisions.
         725. Compliance with other laws.
-  * NB Effective October 9, 2019
 ```
 
 </details>

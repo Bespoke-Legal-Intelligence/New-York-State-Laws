@@ -4,7 +4,7 @@
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
 
 ```text
-  * § 6-v. Asset forfeiture escrow fund. 1. As used in this section:
+  § 6-v. Asset forfeiture escrow fund. 1. As used in this section:
   a. The term "governing board", insofar as it is used in reference to a
 village, shall mean the board of trustees thereof; insofar as it is used
 in reference to a town, shall mean the town board thereof; insofar as it
@@ -81,5 +81,4 @@ asset forfeiture escrow fund to the governing board and the state
 comptroller. Such report shall be subject to examination and audit. The
 chief fiscal officer may account for such fund separate and apart from
 all other funds of the village, town, county, and city.
-  * NB Effective October 9, 2019
 ```

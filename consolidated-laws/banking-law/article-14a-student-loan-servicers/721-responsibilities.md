@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 721. Responsibilities. 1. If a student loan servicer regularly
+  § 721. Responsibilities. 1. If a student loan servicer regularly
 reports information to a consumer reporting agency, the servicer shall
 accurately report a borrower's payment performance to at least one
 consumer reporting agency that compiles and maintains files on consumers
@@ -62,5 +62,4 @@ following the final payment on such student loan or the sale, assignment
 or other transfer of the servicing of such student loan, whichever
 occurs first, or such longer period as may be required by any other
 provision of law.
-  * NB Effective October 9, 2019
 ```

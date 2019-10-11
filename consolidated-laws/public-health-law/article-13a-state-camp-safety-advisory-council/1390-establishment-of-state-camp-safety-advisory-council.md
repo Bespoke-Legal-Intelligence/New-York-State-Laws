@@ -42,5 +42,6 @@ at least twice a year, and more often if necessary, on the call of the
 chairman or on the call of the commissioner of health. The members of
 the council shall receive no compensation but shall be reimbursed for
 their reasonable traveling and other expenses incurred in the
-performance of their official duties.
+performance of their official duties. A majority of the appointed voting
+membership of the council shall constitute a quorum.
 ```

@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 718. Rules and Regulations. 1. In addition to such powers as may
+  § 718. Rules and Regulations. 1. In addition to such powers as may
 otherwise be prescribed by law, the superintendent is hereby authorized
 and empowered to promulgate such rules and regulations as may in the
 judgement of the superintendent be consistent with the purposes of this
@@ -24,5 +24,4 @@ of this article.
   2. The superintendent is hereby authorized and empowered to make such
 specific rulings, demands and findings as the superintendent may deem
 necessary for the proper conduct of the student loan servicing industry.
-  * NB Effective October 9, 2019
 ```

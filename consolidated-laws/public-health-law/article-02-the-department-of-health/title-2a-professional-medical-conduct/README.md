@@ -13,6 +13,7 @@
 - [§ 230-B Disciplinary proceedings for physician's assistants and specialist's assistants](230b-disciplinary-proceedings-for-physicians-assistants.md)
 - [§ 230-C Administrative review board for professional medical conduct](230c-administrative-review-board-for-professional-medical-conduct.md)
 - [§ 230-D Office-based surgery](230d-office-based-surgery.md)
+- [§ 230-E Unauthorized pelvic examinations](230e-unauthorized-pelvic-examinations.md)
 
 <details>
 <summary>Official heading of Title 2-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -29,6 +30,7 @@ Section 230.     State board for professional medical conduct;
         230-c.   Administrative review board for professional medical
                    conduct.
         230-d.   Office-based surgery.
+        230-e.   Unauthorized pelvic examinations.
 ```
 
 </details>

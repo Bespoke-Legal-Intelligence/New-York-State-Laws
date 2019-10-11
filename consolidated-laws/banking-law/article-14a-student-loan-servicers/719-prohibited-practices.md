@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 719. Prohibited practices. No student loan servicer shall:
+  § 719. Prohibited practices. No student loan servicer shall:
   1. Employ any scheme, device or artifice to defraud or mislead a
 borrower;
   2. Engage in any unfair, deceptive or predatory act or practice toward
@@ -35,5 +35,4 @@ necessary, a student loan servicer may request additional time up to a
 maximum of forty-five calendar days, provided that such request is
 accompanied by an explanation why such additional time is reasonable and
 necessary.
-  * NB Effective October 9, 2019
 ```

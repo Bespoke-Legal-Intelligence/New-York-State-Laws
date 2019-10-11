@@ -18,7 +18,7 @@
 - [§ 226-B Right to sublease or assign](226b-right-to-sublease-or-assign.md)
 - [§ 226-C Notice of rent increase or non-renewal of residential tenancy](226c-notice-of-rent-increase-or-non-renewal-of-residential-tenancy.md)
 - [§ 227 When tenant may surrender premises](227-when-tenant-may-surrender-premises.md)
-- [§ 227-A Termination of residential lease by senior citizens moving to a residence of a family member or entering certain health care facilities, ...](227a-termination-of-residential-lease-by-senior-citizens-moving-to-a-residence.md)
+- [§ 227-A Termination of residential lease by senior citizens or individuals with a disability moving to a residence of a family member or entering...](227a-termination-of-residential-lease-by-senior-citizens-or-individuals.md)
 - [§ 227-B Termination of certain contracts by senior citizens](227b-termination-of-certain-contracts-by-senior-citizens.md)
 - [§ 227-C Termination of residential lease by victims of domestic violence](227c-termination-of-residential-lease-by-victims-of-domestic-violence.md)
 - [§ 227-D Discrimination based on domestic violence status; prohibited](227d-discrimination-based-on-domestic-violence-status-prohibited.md)
@@ -73,10 +73,10 @@ Section  220.   Action for use and occupation.
          226-c. Notice of rent increase or non-renewal of residential
                   tenancy.
          227.   When tenant may surrender premises.
-         227-a. Termination of residential lease by senior citizens
-                  moving to a residence of a family member or entering
-                  certain health care facilities, adult care facilities
-                  or housing projects.
+         227-a. Termination of residential lease by senior citizens or
+                  individuals with a disability moving to a residence of
+                  a family member or entering certain health care
+                  facilities, adult care facilities or housing projects.
          227-b. Termination of certain contracts by senior citizens.
          227-c. Termination of residential lease by victims of domestic
                   violence.

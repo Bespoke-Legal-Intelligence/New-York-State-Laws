@@ -32,12 +32,19 @@ regulations, (g) bona fide funeral agreements up to a total of one
 thousand five hundred dollars in equity value per household member, (h)
 funds in an individual development account established in accordance
 with subdivision five of section three hundred fifty-eight of this
-chapter and section four hundred three of the social security act and
-(i) for a period of six months, real property which the household is
-making a good faith effort to sell, in accordance with department
-regulations and tangible personal property necessary for business or for
-employment purposes in accordance with department regulations. If
-federal law or regulations require the exemption or disregard of
+chapter and section four hundred three of the social security act, (i)
+for a period of six months, real property which the household is making
+a good faith effort to sell, in accordance with department regulations
+and tangible personal property necessary for business or for employment
+purposes in accordance with department regulations, and ** (j) funds in
+a qualified tuition program that satisfies the requirement of section
+529 of the Internal Revenue Code of 1986, as amended, and
+  ** NB There are 2 par (j)'s
+** (j) funds in a New York achieving a better life experience savings
+account established in accordance with article eighty-four of the mental
+hygiene law.
+  ** NB There are 2 par (j)'s
+If federal law or regulations require the exemption or disregard of
 additional income and resources in determining need for family
 assistance, or medical assistance not exempted or disregarded pursuant
 to any other provision of this chapter, the department may, by

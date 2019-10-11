@@ -13,7 +13,7 @@
 - [§ 825 Issuance of summons](825-issuance-of-summons.md)
 - [§ 826 Service of summons](826-service-of-summons.md)
 - [§ 827 Issuance of warrant; certificate of warrant](827-issuance-of-warrant-certificate-of-warrant.md)
-- [§ 828 Temporary order of protection; temporary order for child support](828-temporary-order-of-protection-temporary-order-for-child-support.md)
+- [§ 828 Temporary order of protection; temporary orders for child support and spousal maintenance](828-temporary-order-of-protection-temporary-orders-for-child-support-and-spousal.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -30,8 +30,8 @@ Section 821.   Originating proceedings.
         825.   Issuance of summons.
         826.   Service of summons.
         827.   Issuance of warrant; certificate of warrant.
-        828.   Temporary order of protection; temporary order for child
-                 support.
+        828.   Temporary order of protection; temporary orders for child
+                 support and spousal maintenance.
 ```
 
 </details>

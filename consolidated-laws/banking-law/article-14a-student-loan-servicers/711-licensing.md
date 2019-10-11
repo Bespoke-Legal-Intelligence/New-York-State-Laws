@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 711. Licensing. 1. Except as provided in subdivisions two, three,
+  § 711. Licensing. 1. Except as provided in subdivisions two, three,
 and four of this section, no person shall engage in the business of
 servicing student loans owed by one or more borrowers residing in this
 state without first being licensed by the superintendent as a student
@@ -46,5 +46,4 @@ hundred nineteen, seven hundred twenty-one, seven hundred twenty-two,
 seven hundred twenty-three, and seven hundred twenty-five of this
 article and any regulations applicable to student loan servicers
 promulgated by the superintendent.
-  * NB Effective October 9, 2019
 ```

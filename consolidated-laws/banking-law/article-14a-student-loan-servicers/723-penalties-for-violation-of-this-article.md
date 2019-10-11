@@ -4,8 +4,8 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 723. Penalties for violation of this article. 1. In addition to
-such penalties as may otherwise be applicable by law, including but not
+  § 723. Penalties for violation of this article. 1. In addition to such
+penalties as may otherwise be applicable by law, including but not
 limited to the penalties available under section forty-four of this
 chapter, the superintendent may, after notice and hearing, require any
 person found violating the provisions of this article or the rules or
@@ -19,5 +19,4 @@ aggregate economic gain attributable to the violation.
   2. Nothing in this article shall limit any statutory or common-law
 right of any person to bring any action in any court for any act, or the
 right of the state to punish any person for any violation of any law.
-  * NB Effective October 9, 2019
 ```

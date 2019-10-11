@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 716. Grounds for suspension or revocation of license. 1. After
+  § 716. Grounds for suspension or revocation of license. 1. After
 notice and hearing, the superintendent may revoke or suspend any license
 to engage in the business of a student loan servicer issued pursuant to
 this article if he or she shall find that:
@@ -70,5 +70,4 @@ one copy of such order in the office of the department and shall
 forthwith serve the other copy upon the student loan servicer. Any such
 order may be reviewed in the manner provided by article seventy-eight of
 the civil practice law and rules.
-  * NB Effective October 9, 2019
 ```

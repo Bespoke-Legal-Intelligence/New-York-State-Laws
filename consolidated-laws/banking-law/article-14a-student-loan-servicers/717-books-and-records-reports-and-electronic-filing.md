@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 717. Books and records; reports and electronic filing. 1. Each
+  § 717. Books and records; reports and electronic filing. 1. Each
 student loan servicer shall keep and use in its business such books,
 accounts and records as will enable the superintendent to determine
 whether such servicer or exempt organization is complying with the
@@ -30,5 +30,4 @@ other law to the contrary, the superintendent may require that any
 submission or approval as may be required by the superintendent be made
 or executed by electronic means if he or she deems it necessary to
 ensure the efficient administration of this article.
-  * NB Effective October 9, 2019
 ```

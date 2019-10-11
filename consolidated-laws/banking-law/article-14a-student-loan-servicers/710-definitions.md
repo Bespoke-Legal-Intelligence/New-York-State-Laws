@@ -4,8 +4,8 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 710. Definitions. 1. "Applicant" shall mean any person applying
-for a license under this article.
+  § 710. Definitions. 1. "Applicant" shall mean any person applying for
+a license under this article.
   2. "Borrower" shall mean any resident of this state who has received a
 student loan or agreed in writing to pay a student loan or any person
 who shares a legal obligation with such resident for repaying a student
@@ -60,5 +60,4 @@ Ensuring Continued Access to Student Loans Act and is presently owned by
 the government of the United States; and (c) any other student loan
 issued pursuant to a federal program that is identified by the
 superintendent as a "federal student loan" in a regulation.
-  * NB Effective October 9, 2019
 ```

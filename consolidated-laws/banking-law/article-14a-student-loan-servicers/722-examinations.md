@@ -4,7 +4,7 @@
 [Banking Law](../README.md) › [Article 14-A — Student Loan Servicers](README.md)
 
 ```text
-  * § 722. Examinations. 1. The superintendent may at any time, and as
+  § 722. Examinations. 1. The superintendent may at any time, and as
 often as he or she may determine, either personally or by a person duly
 designated by the superintendent, investigate the business and examine
 the books, accounts, records, and files used therein of every student
@@ -49,5 +49,4 @@ the superintendent is authorized by any other law to make an examination
 into the affairs of any exempt organization, this subdivision shall not
 be construed to limit in any way the superintendent's authority,
 regarding the subjects of such an examination, or otherwise.
-  * NB Effective October 9, 2019
 ```

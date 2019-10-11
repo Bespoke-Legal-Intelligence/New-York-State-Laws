@@ -20,6 +20,7 @@
 - [§ 3005-A Staffing standards; ambulance services and advanced life support first response services](3005a-staffing-standards-ambulance-services-and-advanced-life-support-first-response.md)
 - [§ 3005-B Emergency medical technician five year re-certification demonstration program](3005b-emergency-medical-technician-five-year-re-certification-demonstration-program.md)
 - [§ 3006 Quality improvement program](3006-quality-improvement-program.md)
+- [§ 3006-A Patient privacy](3006a-patient-privacy.md)
 - [§ 3007 Notice of alternative destination](3007-notice-of-alternative-destination.md)
 - [§ 3008 Applications for determinations of public need](3008-applications-for-determinations-of-public-need.md)
 - [§ 3009 Continuation of existing services](3009-continuation-of-existing-services.md)
@@ -41,40 +42,41 @@
 ```text
                                ARTICLE 30
                        EMERGENCY MEDICAL SERVICES
-Section  3000.    Declaration of policy and statement of purpose.
-         3000-a.  Emergency medical treatment.
-         3000-b.  Automated external defibrillators: Public access
-                    providers.
-         3000-c.  Epinephrine auto-injector devices.
-         3000-d.  Availability of resuscitation equipment in certain
-                    public places.
-         3001.    Definitions.
-         3002.    New York state emergency medical services council.
-         3002-a.  State emergency medical advisory committee.
-         3003.    Regional emergency medical services councils.
-         3003-a.  EMS program agencies.
-         3004-a.  Regional emergency medical advisory committees.
-         3005.    Ambulance service certificates.
-         3005-a.  Staffing standards; ambulance services and advanced
-                    life support first response services.
-         3005-b.  Emergency medical technician five year
-                    re-certification demonstration program.
-         3006.    Quality improvement program.
-         3007.    Notice of alternative destination.
-         3008.    Applications for determinations of public need.
-         3009.    Continuation of existing services.
-         3010.    Area of operation; transfers.
-         3011.    Powers and duties of the department and the
-                    commissioner.
-         3012.    Enforcement.
-         3013.    Immunity from liability.
-         3014.    Construction.
-         3015.    Separability.
-         3016.    Continuance of rules and regulations.
-         3017.    Emergency medical service, Suffolk county.
-         3030.    Advanced life support services.
-         3031.    Advanced life support system.
-         3032.    Rules and regulations.
+Section 3000.   Declaration of policy and statement of purpose.
+        3000-a. Emergency medical treatment.
+        3000-b. Automated external defibrillators: Public access
+                  providers.
+        3000-c. Epinephrine auto-injector devices.
+        3000-d. Availability of resuscitation equipment in certain
+                  public places.
+        3001.   Definitions.
+        3002.   New York state emergency medical services council.
+        3002-a. State emergency medical advisory committee.
+        3003.   Regional emergency medical services councils.
+        3003-a. EMS program agencies.
+        3004-a. Regional emergency medical advisory committees.
+        3005.   Ambulance service certificates.
+        3005-a. Staffing standards; ambulance services and advanced life
+                  support first response services.
+        3005-b. Emergency medical technician five year re-certification
+                  demonstration program.
+        3006.   Quality improvement program.
+        3006-a. Patient privacy.
+        3007.   Notice of alternative destination.
+        3008.   Applications for determinations of public need.
+        3009.   Continuation of existing services.
+        3010.   Area of operation; transfers.
+        3011.   Powers and duties of the department and the
+                  commissioner.
+        3012.   Enforcement.
+        3013.   Immunity from liability.
+        3014.   Construction.
+        3015.   Separability.
+        3016.   Continuance of rules and regulations.
+        3017.   Emergency medical service, Suffolk county.
+        3030.   Advanced life support services.
+        3031.   Advanced life support system.
+        3032.   Rules and regulations.
 ```
 
 </details>

@@ -4,12 +4,7 @@
 [Civil Practice Law and Rules](../README.md) › [Article 13-A — Proceeds of a Crime-forfeiture](README.md)
 
 ```text
-  * § 1352. Preservation of other rights and remedies. The remedies
-provided for in this article are not intended to substitute for or limit
-or supercede the lawful authority of any public officer or agency or
-other person to enforce any other right or remedy provided for by law.
-  * NB Effective until October 9, 2019
-  * § 1352. Preservation of other rights and remedies. The remedies
+  § 1352. Preservation of other rights and remedies. The remedies
 provided for in this article are not intended to substitute for or limit
 or supersede the lawful authority of any public officer or agency or
 other person to enforce any other right or remedy provided for by law.
@@ -20,5 +15,4 @@ provision of a prompt opportunity to be heard for the owner of seized
 property in order to ensure the legitimacy and the necessity of its
 continued retention by law enforcement, as well as clear notice of
 deadlines for accomplishing the return of such property.
-  * NB Effective October 9, 2019
 ```

@@ -12,7 +12,7 @@
 - [§ 191-C Payment of sales commission](191c-payment-of-sales-commission.md)
 - [§ 192 Cash payment of wages](192-cash-payment-of-wages.md)
 - [§ 193 Deductions from wages](193-deductions-from-wages.md)
-- [§ 194 Differential in rate of pay because of sex prohibited](194-differential-in-rate-of-pay-because-of-sex-prohibited.md)
+- [§ 194 Differential in rate of pay because of protected class status prohibited](194-differential-in-rate-of-pay-because-of-protected-class-status-prohibited.md)
 - [§ 194-A Wage or salary history inquiries prohibited](194a-wage-or-salary-history-inquiries-prohibited.md)
 - [§ 195 Notice and record-keeping requirements](195-notice-and-record-keeping-requirements.md)
 - [§ 196 Powers of commissioner](196-powers-of-commissioner.md)

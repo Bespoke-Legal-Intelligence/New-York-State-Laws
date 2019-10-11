@@ -24,7 +24,7 @@ Article
    2.      The department of health.
            Title    I.   Officers and employees (§§200--211-a).
                    II.   The public health council (§§220-229).
-                 II-A.   Professional medical conduct (§§230--230-d).
+                 II-A.   Professional medical conduct (§§230--230-e).
                * II-B.   New York state health services corps
                            (§§231-233).
                  * NB Expired July 18, 1996
