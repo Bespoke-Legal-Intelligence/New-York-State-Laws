@@ -1,0 +1,16 @@
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 399-S", "kind": "section", "law_id": "VAT", "location_id": "399-S", "path": "TITLE 3 › ARTICLE 12-D › SECTION 399-S", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/399-S.md", "title": "Pilot program scope and duration"} -->
+# Vehicle and Traffic Law § 399-S — Pilot program scope and duration
+
+[Vehicle and Traffic Law](../../README.md) › [Title 3 — Safety Responsibility; Financial Security; Equipment; Inspection; Size and Weight; and Other Provisions](../README.md) › [Article 12-D — Pre-licensing Course Internet Pilot Program](README.md)
+
+```text
+  * § 399-s. Pilot program scope and duration. The commissioner shall
+conduct a pilot program designed to evaluate utilizing the internet for
+delivering an approved pre-licensing course required by subparagraph (i)
+of paragraph (a) of subdivision four of section five hundred two of this
+chapter, by permitting qualified applicants to participate in the pilot
+program from June thirtieth, two thousand twenty to June thirtieth, two
+thousand twenty-five.
+  * NB Effective June 30, 2020
+  * NB Repealed June 30, 2025
+```

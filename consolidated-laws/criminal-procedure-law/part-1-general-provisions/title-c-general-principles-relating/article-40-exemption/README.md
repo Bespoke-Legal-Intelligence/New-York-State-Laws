@@ -10,6 +10,7 @@
 - [§ 40.30 Previous prosecution; what constitutes](40.30-previous-prosecution-what-constitutes.md)
 - [§ 40.40 Separate prosecution of jointly prosecutable offenses; when barred](40.40-separate-prosecution-of-jointly-prosecutable.md)
 - [§ 40.50 Previous prosecution; enterprise corruption](40.50-previous-prosecution-enterprise-corruption.md)
+- [§ 40.51 Previous prosecution: presidential reprieve, pardon or other form of clemency](40.51-previous-prosecution-presidential-reprieve.md)
 
 <details>
 <summary>Official heading of Article 40, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -23,6 +24,8 @@ Section 40.10 Previous prosecution; definitions of terms.
         40.40 Separate prosecution of jointly prosecutable offenses;
                 when barred.
         40.50 Previous prosecution; enterprise corruption.
+        40.51 Previous prosecution: presidential reprieve, pardon or
+                other form of clemency.
 ```
 
 </details>

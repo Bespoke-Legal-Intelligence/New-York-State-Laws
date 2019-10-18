@@ -14,7 +14,7 @@
 - [§ 136 Rules and regulations](136-rules-and-regulations.md)
 - [§ 137 Small business stationary source ombudsman program](137-small-business-stationary-source-ombudsman-program.md)
 - [§ 138 Small business pollution prevention and environmental compliance ombudsman program](138-small-business-pollution-prevention-and-environmental-compliance-ombudsman.md)
-- [§ 139 Advisory panel on employee-owned enterprises](139-advisory-panel-on-employee-owned-enterprises.md) *(repealed)*
+- [§ 139 Advisory panel on employee-owned enterprises](139-advisory-panel-on-employee-owned-enterprises.md)
 
 <details>
 <summary>Official heading of Article 4-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

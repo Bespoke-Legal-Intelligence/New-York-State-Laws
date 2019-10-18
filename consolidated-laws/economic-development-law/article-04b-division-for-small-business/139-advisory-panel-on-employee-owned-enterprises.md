@@ -1,9 +1,7 @@
-﻿<!-- nyslaw {"citation": "Economic Development Law § 139", "kind": "section", "law_id": "COM", "location_id": "139", "path": "ARTICLE 4-B › SECTION 139", "repealed": true, "repealed_date": "2019-10-04", "source": "nys-laws:COM/139.md", "title": "Advisory panel on employee-owned enterprises"} -->
+﻿<!-- nyslaw {"citation": "Economic Development Law § 139", "kind": "section", "law_id": "COM", "location_id": "139", "path": "ARTICLE 4-B › SECTION 139", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/139.md", "title": "Advisory panel on employee-owned enterprises"} -->
 # Economic Development Law § 139 — Advisory panel on employee-owned enterprises
 
 [Economic Development Law](../README.md) › [Article 4-B — Division For Small-business](README.md)
-
-**Repealed** (4 Oct 2019). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 139. Advisory panel on employee-owned enterprises. 1. Definition.
@@ -83,7 +81,7 @@ communities; and
 individuals to use when forming an employee-owned enterprise, and make
 such guide publicly available on the department's website.
   5. Reporting. The advisory panel shall issue a report no later than
-June thirtieth, two thousand nineteen outlining the findings and
+June thirtieth, two thousand twenty outlining the findings and
 recommendations of the panel. The report shall be delivered to the
 governor, the speaker of the assembly, the temporary president of the
 senate, the minority leader of the assembly, the minority leader of the
@@ -93,5 +91,5 @@ on economic development, the chair of the assembly committee on small
 business, the chair of the senate committee on commerce, economic
 development, and small business, the chair of the assembly committee on
 labor, and the chair of the senate committee on labor.
-  * NB Repealed October 1, 2019
+  * NB Repealed October 1, 2020
 ```

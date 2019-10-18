@@ -18,6 +18,7 @@
 - [Article 12-A — Motor Vehicle Repair Shop Registration Act](article-12a-motor-vehicle-repair-shop/)
 - [Article 12-B — Approval of Motor Vehicle Accident Prevention Courses](article-12b-approval-of-motor-vehicle/)
 - [Article 12-C — Accident Prevention Course Internet, and Other Technology Pilot Program](article-12c-accident-prevention-course/)
+- [Article 12-D — Pre-licensing Course Internet Pilot Program](article-12d-pre-licensing-course/)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -41,6 +42,7 @@ Article  4.    Application of this title.
         12-B.  Approval of motor vehicle accident prevention courses.
         12-C.  Accident prevention course internet, and other technology
                  pilot program.
+        12-D.  Pre-licensing course internet pilot program.
 ```
 
 </details>

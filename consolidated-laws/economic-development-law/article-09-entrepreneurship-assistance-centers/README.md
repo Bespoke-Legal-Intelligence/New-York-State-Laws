@@ -8,7 +8,6 @@
 - [§ 210 Definitions](210-definitions.md)
 - [§ 211 Entrepreneurship assistance centers](211-entrepreneurship-assistance-centers.md)
 - [§ 212 Reporting](212-reporting.md)
-- [§ 213 Reporting](213-reporting.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

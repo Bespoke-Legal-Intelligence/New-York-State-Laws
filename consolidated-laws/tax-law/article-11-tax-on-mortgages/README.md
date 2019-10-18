@@ -40,6 +40,7 @@
 - [§ 253-X Recording tax imposed by the county of Cattaraugus](253x-recording-tax-imposed-by-the-county-of-cattaraugus.md)
 - [§ 253-X\*2 Recording tax imposed by the county of Greene](253x-2-recording-tax-imposed-by-the-county-of-greene.md)
 - [§ 253-Y Recording tax imposed by the county of Madison](253y-recording-tax-imposed-by-the-county-of-madison.md)
+- [§ 253-Y\*2 Recording tax imposed by the county of Livingston](253y-2-recording-tax-imposed-by-the-county-of-livingston.md)
 - [§ 254 Optional tax on prior mortgages](254-optional-tax-on-prior-mortgages.md)
 - [§ 255 Supplemental mortgages](255-supplemental-mortgages.md)
 - [§ 256 Mortgages for indefinite amounts or for contract obligations](256-mortgages-for-indefinite-amounts-or-for-contract-obligations.md)
@@ -96,6 +97,7 @@ Section 250.     Definitions.
         253-x.   Recording tax imposed by the county of Cattaraugus.
         253-x*2. Recording tax imposed by the county of Greene.
         253-y.   Recording tax imposed by the county of Madison.
+        253-y*2. Recording tax imposed by the county of Livingston.
         254.     Optional tax on prior mortgages.
         255.     Supplemental mortgages.
         256.     Mortgages for indefinite amounts or for contract
