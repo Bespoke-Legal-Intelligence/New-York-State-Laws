@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
 
 ```text
-  § 630-g. Gift for leukemia, lymphoma and myeloma research, education
+  * § 630-g. Gift for leukemia, lymphoma and myeloma research, education
 and treatment. Effective for any tax year commencing on or after January
 first, two thousand twenty, an individual in any taxable year may elect
 to contribute to the leukemia, lymphoma and myeloma research, education
@@ -17,4 +17,5 @@ pursuant to this section shall be credited to the leukemia, lymphoma and
 myeloma research, education and treatment fund and used only for those
 purposes enumerated in section ninety-seven-ssss of the state finance
 law.
+  * NB There are 2 § 630-g's
 ```

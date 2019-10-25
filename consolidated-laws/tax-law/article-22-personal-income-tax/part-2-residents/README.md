@@ -45,6 +45,7 @@
 - [§ 630-F\*5 Gift for military families](630f-5-gift-for-military-families.md)
 - [§ 630-F\*6 Gift for city university of New York](630f-6-gift-for-city-university-of-new-york.md)
 - [§ 630-G Gift for leukemia, lymphoma and myeloma research, education and treatment](630g-gift-for-leukemia-lymphoma-and-myeloma-research-education-and-treatment.md)
+- [§ 630-G\*2 Gift for the William B](630g-2-gift-for-the-william-b.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -100,6 +101,8 @@ Section 611.     New York taxable income of a resident individual.
         630-f*6. Gift for city university of New York.
         630-g.   Gift for leukemia, lymphoma and myeloma research,
                    education and treatment.
+        630-g*2. Gift for the William B. Hoyt Memorial children and
+                   family trust fund.
 ```
 
 </details>

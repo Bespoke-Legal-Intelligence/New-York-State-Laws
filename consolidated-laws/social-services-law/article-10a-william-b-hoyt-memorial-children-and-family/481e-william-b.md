@@ -44,7 +44,7 @@ federal, state or local funds.
   4. The commissioner, with the advice and recommendations of the
 William B. Hoyt Memorial children and family trust fund advisory board,
 shall issue requests for proposals and specify methods to evaluate the
-effectiveness of proposed programs.  Such evaluation shall include but
+effectiveness of proposed programs. Such evaluation shall include but
 not be limited to the following:
   (a) appropriate accounting and fiscal control procedures which shall
 include the filing of an annual financial statement by each provider so
@@ -80,7 +80,7 @@ submitted either to the applicant or to the commissioner or to both. The
 commissioner shall give full consideration to any such comments received
 within twenty-one days after the application deadline and shall review
 the applications in relation to relevant local plans before approving or
-disapproving such applications.  The commissioner shall inform the local
+disapproving such applications. The commissioner shall inform the local
 commissioner of social services and the local youth bureau of the final
 disposition of the applications. No grant award shall be for a period in
 excess of twelve months unless renewed by the commissioner, with the
@@ -93,8 +93,8 @@ grant. No program shall receive funding after the fourth year unless the
 commissioner, annually, finds that the program effectively prevents
 family violence or provides a necessary service to victims of family
 violence.
-  7. Pursuant to subdivision one of this  section, the commissioner
-shall ensure that grants are awarded evenly across the state with
+  7. Pursuant to subdivision one of this section, the commissioner shall
+ensure that grants are awarded evenly across the state with
 consideration given to geographic areas with the greatest need and that
 priority is given to programs:
   (a) which are innovative; or
@@ -105,7 +105,7 @@ programs; and/or
 self-sufficiency.
   8. The commissioner with the advice and recommendations of the William
 B. Hoyt Memorial children and family trust fund advisory board shall
-submit a report prior to the fifteenth day of December beginning  in
+submit a report prior to the fifteenth day of December beginning in
 nineteen hundred eighty-five and annually thereafter to the governor and
 the legislature regarding the implementation and evaluation of the
 effectiveness of prevention and treatment services related to family
@@ -122,8 +122,19 @@ by service type;
   (d) the amount of funds used for the administration of such services;
   (e) a description of the nature and quality of services provided and
 the impact upon the populations and communities served and their
-potential for being replicated elsewhere; and
-  (f) all such other matters as may be necessary to inform the governor
+potential for being replicated elsewhere;
+  (f) a description of how the moneys of the fund collected pursuant to
+section six hundred thirty-g of the tax law were utilized during the
+preceding calendar year, including information concerning:
+  (i) the amount of money disbursed from the fund and the distribution
+process used for such disbursements;
+  (ii) recipients of the expenses from the fund;
+  (iii) the amount allotted to each;
+  (iv) the purposes for which such distributions were granted; and
+  (v) a summary financial plan for such monies which shall include
+estimates of all receipts and all disbursements for the current and
+succeeding fiscal years; and
+  (g) all such other matters as may be necessary to inform the governor
 and the legislature regarding the implementation and evaluation of the
 effectiveness of programs covered by this section and the success of
 such programs in accomplishing the intent of the legislature.

@@ -52,6 +52,7 @@
 - [Title 32 — Albany County Airport Authority](title-32-albany-county-airport-authority/)
 - [Title 33 — New York City Transitional Finance Authority](title-33-new-york-city-transitional-finance/)
 - [Title 34 — Syracuse Regional Airport Authority](title-34-syracuse-regional-airport-authority/)
+- [Title 35 — Roosevelt Island Operating Corporation](title-35-roosevelt-island-operating/)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -141,6 +142,8 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
                 (§§ 2799-aa--2799-uu).
        34.    Syracuse Regional Airport Authority
                 (§§2799-aaa--2799-zzz).
+       35.    Roosevelt Island Operating Corporation (§§
+                2799-aaaa--2799-qqqq).
 ```
 
 </details>

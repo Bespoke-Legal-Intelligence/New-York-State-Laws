@@ -13,7 +13,7 @@
 - [Article 131-B — Physician Assistants](article-131b-physician-assistants/)
 - [Article 131-C — Specialist Assistants](article-131c-specialist-assistants/)
 - [Article 132 — Chiropractic](article-132-chiropractic/)
-- [Article 133 — Dentistry and Dental Hygiene](article-133-dentistry-and-dental-hygiene/)
+- [Article 133 — Dentistry, Dental Hygiene, and Registered Dental Assisting](article-133-dentistry-dental-hygiene/)
 - [Article 134 — Licensed Perfusionists](article-134-licensed-perfusionists/)
 - [Article 135 — Veterinary Medicine and Animal Health Technology](article-135-veterinary-medicine-and-animal/)
 - [Article 136 — Physical Therapy and Physical Therapist Assistants](article-136-physical-therapy-and-physical/)
@@ -58,7 +58,8 @@ Article 130*.  General provisions (§§ 6500-6516).
         131-B. Physician assistants and specialist assistants
                  (§§ 6540-6548).
         132.   Chiropractic (§§ 6550-6556).
-        133.   Dentistry and dental hygiene (§§ 6600-6613).
+        133.   Dentistry, dental hygiene, and registered dental
+                 assisting (§§ 6600-6613).
         134.   Licensed perfusionists (§§ 6630-6636).
         135.   Veterinary medicine and animal health technology
                  (§§ 6700-6714).

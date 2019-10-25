@@ -72,6 +72,8 @@ Section 611.     New York taxable income of a resident individual.
                    research.
         630-g.   Gift for leukemia, lymphoma and myeloma research,
                    education and treatment.
+        630-g*2. Gift for the William B. Hoyt Memorial children and
+                   family trust fund.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

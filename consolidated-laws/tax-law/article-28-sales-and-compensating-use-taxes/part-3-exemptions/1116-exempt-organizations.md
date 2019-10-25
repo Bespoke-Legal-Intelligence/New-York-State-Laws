@@ -36,7 +36,12 @@ legislation, (except as otherwise provided in subsection (h) of section
 five hundred one of the United States internal revenue code of nineteen
 hundred fifty-four, as amended), and which does not participate in, or
 intervene in (including the publishing or distributing of statements),
-any political campaign on behalf of any candidate for public office;
+any political campaign on behalf of or in opposition to any candidate
+for public office. The provisions of this paragraph regarding political
+campaign activity shall be interpreted in the same manner as section
+501(c)(3) of the United States internal revenue code has been
+interpreted as of the effective date of the chapter of the laws of two
+thousand nineteen that amended this paragraph;
   (5) A post or organization of past or present members of the armed
 forces of the United States, or an auxiliary unit or society of, or a
 trust or foundation for, any such post or organization:

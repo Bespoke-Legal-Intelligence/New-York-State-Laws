@@ -243,6 +243,8 @@ Section 1260.     Revenues resulting from taxes administered by cities
                      the additional one-half of one percent rate of
                      sales and compensating use taxes in the city of
                      Yonkers.
+        1262-u.   Allocation and distribution of certain net collections
+                     in Genesee county.
         1263.     Deposit of funds and use of funds not having assigned
                      purposes.
         1264.     References to certain taxes or revenues from certain

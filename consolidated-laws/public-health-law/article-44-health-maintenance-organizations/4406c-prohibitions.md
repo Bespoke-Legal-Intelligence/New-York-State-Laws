@@ -130,6 +130,12 @@ parties mutually agree in writing to the termination or non-renewal and
 the plan provides notice to the enrollee at least thirty days in advance
 of the date of contract termination.
   * NB Repealed June 30, 2021
+  * 5-e. At least sixty days prior to the termination of a contract
+between a hospital and a health care plan, the parties shall utilize a
+mutually agreed upon mediator to assist in resolving any outstanding
+contractual issues. The results of the mediation shall not be binding on
+the parties.
+  * NB Effective January 1, 2020
   6. No health care plan which provides coverage for prescription drugs
 shall require, or enter into a contract which permits, a copayment which
 exceeds the usual and customary cost of such prescribed drug.

@@ -46,6 +46,7 @@
 - [§ 22 Claims against fire insurance proceeds; procedure](22-claims-against-fire-insurance-proceeds-procedure.md)
 - [§ 23 Flexible benefits program](23-flexible-benefits-program.md)
 - [§ 24 Corporation for the benefit of the city of New York](24-corporation-for-the-benefit-of-the-city-of-new-york.md)
+- [§ 25 Treatment of capital costs and restricted fund balances](25-treatment-of-capital-costs-and-restricted-fund-balances.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -111,6 +112,7 @@ Section 3.     Compensation for property of a municipal corporation,
         22.    Claims against fire insurance proceeds; procedure.
         23.    Flexible benefits program.
         24.    Corporation for the benefit of the city of New York.
+        25.    Treatment of capital costs and restricted fund balances.
 ```
 
 </details>

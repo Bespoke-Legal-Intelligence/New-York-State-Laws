@@ -21,6 +21,7 @@
 - [§ 6811 Misdemeanors](6811-misdemeanors.md)
 - [§ 6811-A Certain drugs to be clearly marked or labeled](6811a-certain-drugs-to-be-clearly-marked-or-labeled.md)
 - [§ 6811-B Door-to-door distribution of drugs prohibited](6811b-door-to-door-distribution-of-drugs-prohibited.md)
+- [§ 6811-C Patient notification of recalled drugs](6811c-patient-notification-of-recalled-drugs.md)
 - [§ 6812 Special provisions](6812-special-provisions.md)
 - [§ 6813 Seizure: 1](6813-seizure-1.md)
 - [§ 6814 Records of shipment](6814-records-of-shipment.md)
@@ -68,6 +69,7 @@ Section 6800.   Introduction.
         6811.   Misdemeanors.
         6811-a. Certain drugs to be clearly marked or labeled.
         6811-b. Door-to-door distribution of drugs prohibited.
+        6811-c. Patient notification of recalled drugs.
         6812.   Special provisions.
         6813.   Seizure:
         6814.   Records of shipment.

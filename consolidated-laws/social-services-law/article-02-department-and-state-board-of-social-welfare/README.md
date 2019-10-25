@@ -16,6 +16,7 @@
 - [§ 20-A Local personnel; limitations on department's power](20a-local-personnel-limitations-on-departments-power.md)
 - [§ 20-B Plan for in-home care of senior citizens](20b-plan-for-in-home-care-of-senior-citizens.md)
 - [§ 20-C Privatization](20c-privatization.md)
+- [§ 20-D Training of direct care workers in adverse childhood experiences](20d-training-of-direct-care-workers-in-adverse-childhood-experiences.md)
 - [§ 21 Welfare management system](21-welfare-management-system.md)
 - [§ 21-A Electronic benefit transfer system](21a-electronic-benefit-transfer-system.md)
 - [§ 22 Appeals and fair hearings; judicial review](22-appeals-and-fair-hearings-judicial-review.md)
@@ -55,6 +56,8 @@ Section 5.    Department of social welfare.
         20-a. Local personnel; limitations on department's power.
         20-b. Plan for in-home care of senior citizens.
         20-c. Privatization.
+        20-d. Training of direct care workers in adverse childhood
+                experiences.
         21.   Welfare management system.
         21-a. Electronic benefit transfer system.
         22.   Appeals and fair hearings; judicial review.

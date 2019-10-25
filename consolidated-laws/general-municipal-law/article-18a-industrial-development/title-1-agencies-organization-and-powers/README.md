@@ -8,7 +8,6 @@
 - [§ 850 Short title](850-short-title.md)
 - [§ 852 Policy and purposes of article](852-policy-and-purposes-of-article.md)
 - [§ 854 Definitions](854-definitions.md)
-- [§ 855](855.md)
 - [§ 856 Organization of industrial development agencies](856-organization-of-industrial-development-agencies.md)
 - [§ 857 Video recordings of open meetings and public hearings](857-video-recordings-of-open-meetings-and-public-hearings.md)
 - [§ 858 Purposes and powers of the agency](858-purposes-and-powers-of-the-agency.md)
