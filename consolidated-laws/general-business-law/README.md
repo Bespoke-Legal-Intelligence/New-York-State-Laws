@@ -8,7 +8,7 @@
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
 | Sections | 1,239 |
-| Last changed | 18 Oct 2019 |
+| Last changed | 1 Nov 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -33,6 +33,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 
 ## Recent changes
 
+- [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 amended
 - [18 Oct 2019](../../changes/2019/2019-10-18.md): 2 amended, 1 added
 - [4 Oct 2019](../../changes/2019/2019-10-04.md): 1 amended
 - [27 Sep 2019](../../changes/2019/2019-09-27.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [16 Aug 2019](../../changes/2019/2019-08-16.md): 2 added
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 5 amended, 1 added
 - [19 Jul 2019](../../changes/2019/2019-07-19.md): 1 added
-- [5 Jul 2019](../../changes/2019/2019-07-05.md): 1 amended
 
 ## Contents
 
@@ -164,7 +164,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 39-DD — Sale of Firearms, Rifles or Shotguns At Gun Shows](article-39dd-sale-of-firearms-rifles-or-shotguns-at-gun-shows/)
 - [Article 39-DDD — Private Sale or Disposal of Firearms, Rifles and Shotguns](article-39ddd-private-sale-or-disposal-of-firearms-rifles/)
 - [Article 39-E — Uniform Athlete Agents Act](article-39e-uniform-athlete-agents-act/)
-- [Article 39-F — Notification of Unauthorized Acquisition of Private Information](article-39f-notification-of-unauthorized-acquisition/)
+- [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](article-39f-notification-of-unauthorized-acquisition/)
 - [Article 39-G — Document Destruction Contractors](article-39g-document-destruction-contractors/)
 - [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)

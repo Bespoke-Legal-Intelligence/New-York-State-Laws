@@ -45,6 +45,7 @@
 - [§ 6829 Interpretation and translation requirements for prescription drugs and standardized medication labeling](6829-interpretation-and-translation-requirements-for-prescription-drugs.md)
 - [§ 6830 Standardized patient-centered data elements](6830-standardized-patient-centered-data-elements.md)
 - [§ 6831 Special provisions relating to outsourcing facilities](6831-special-provisions-relating-to-outsourcing-facilities.md)
+- [§ 6832 Limitations on assistance of an unlicensed person](6832-limitations-on-assistance-of-an-unlicensed-person.md)
 
 <details>
 <summary>Official heading of Article 137, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -96,6 +97,7 @@ Section 6800.   Introduction.
                   labeling.
         6830.   Standardized patient-centered data elements.
         6831.   Special provisions relating to outsourcing facilities.
+        6832.   Limitations on assistance of an unlicensed person.
 ```
 
 </details>

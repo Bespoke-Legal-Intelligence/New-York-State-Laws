@@ -9,6 +9,6 @@
 sixty-six hundred eight-b of this article or exempt pursuant to section
 sixty-six hundred ten of this article shall practice registered dental
 assisting. Only a person certified pursuant to section sixty-six hundred
-eight-b of this article shall use the title " registered dental
+eight-b of this article shall use the title "registered dental
 assistant".
 ```

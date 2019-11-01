@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "General Business Law § 899-BB", "kind": "section", "law_id": "GBS", "location_id": "899-BB", "path": "ARTICLE 39-F › SECTION 899-BB", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/899-BB.md", "title": "Data security protections"} -->
 # General Business Law § 899-BB — Data security protections
 
-[General Business Law](../README.md) › [Article 39-F — Notification of Unauthorized Acquisition of Private Information](README.md)
+[General Business Law](../README.md) › [Article 39-F — Notification of Unauthorized Acquisition of Private Information; Data Security Protections](README.md)
 
 ```text
   * § 899-bb. Data security protections. 1. Definitions. (a) "Compliant

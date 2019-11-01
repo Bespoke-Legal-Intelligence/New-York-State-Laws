@@ -45,6 +45,7 @@
 - [§ 226 Monuments and memorials](226-monuments-and-memorials.md)
 - [§ 226-A Patriotic observances](226a-patriotic-observances.md)
 - [§ 226-B Solid waste management; resource recovery](226b-solid-waste-management-resource-recovery.md)
+- [§ 226-C Waiver of fees for veterans' organizations](226c-waiver-of-fees-for-veterans-organizations.md)
 - [§ 227 Legalizing acts](227-legalizing-acts.md)
 - [§ 228 Disputed town boundaries](228-disputed-town-boundaries.md)
 - [§ 229 Erection and dissolution of towns](229-erection-and-dissolution-of-towns.md)
@@ -115,6 +116,7 @@ Section 200.   Compensation of supervisors.
         226.   Monuments and memorials.
         226-a. Patriotic observances.
         226-b. Solid waste management; resource recovery.
+        226-c. Waiver of fees for veterans' organizations.
         227.   Legalizing acts.
         228.   Disputed town boundaries.
         229.   Erection and dissolution of towns.

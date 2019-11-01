@@ -99,6 +99,15 @@ is maintained or possessed by a health care provider.
 primary responsibility for the care of the subject within the health
 care facility or if such practitioner is unavailable, a practitioner
 designated by such facility.
+  (j) "Cease to do business in this state" shall mean any case where a
+health care provider who has engaged in an on-going practice or business
+within this state as a health care provider, ceases to engage in such
+business, provided however, that this term shall not include a health
+care practitioner whose practice is merged, consolidated, combined, or
+acquired by another health care provider and he or she continues to
+provide services including medical care, diagnosis or treatment to
+patients as an employee, contractor, or owner of the merged,
+consolidated, combined, or acquired health care provider.
   2. Access by qualified persons. (a) Subject to the provisions of
 subdivision three of this section, upon the written request of any
 subject, a health care provider shall provide an opportunity, within ten
@@ -343,5 +352,23 @@ good faith, denies access to patient information.
   12. Immunity from liability. No health care provider shall be
 subjected to civil liability arising solely from granting or providing
 access to any patient information in accordance with this section.
+  13. (a) A health care provider which has in its possession patient
+information and/or patient medical records and which has determined to
+permanently cease to do business or practice in this state shall, at
+least thirty days prior to such action, make a good faith effort to
+notify each of the health care provider's current patients that the
+office will be closing and to inform each such patient of his or her
+right to request that his or her patient information and/or patient
+medical records be sent to a health care provider, health care facility
+or health care practitioner of the patient's choosing or, alternatively,
+that such information and records be returned to the patient.
+  (b) The provisions of this subdivision shall not affect any rights
+afforded pursuant to section seventeen of this title.
+  (c) Nothing in this subdivision shall affect the period of time that a
+health care provider is lawfully required to retain a patient's medical
+information and medical records.
+  (d) The provisions of this subdivision shall only apply with respect
+to a patient whose chart includes written permission to receive the
+notification described in paragraph (a) of this subdivision.
   * NB There are 2 § 18's
 ```

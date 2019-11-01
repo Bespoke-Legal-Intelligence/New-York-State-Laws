@@ -239,28 +239,17 @@ that the filing of a petition would not be in the best interest of the
 child; or (C) the agency has not provided to the parent or parents of
 the child such services as it deems necessary for the safe return of the
 child to the parent or parents, unless such services are not legally
-required; or * (D) the parent or parents are incarcerated, or
-participating in a residential substance abuse treatment program, or the
-prior incarceration or participation of a parent or parents in a
-residential substance abuse treatment program is a significant factor in
-why the child has been in foster care for fifteen of the last twenty-two
-months, provided that the parent maintains a meaningful role in the
-child's life based on the criteria set forth in subparagraph (v) of this
-paragraph and the agency has not documented a reason why it would
-otherwise be appropriate to file a petition pursuant to this section.
-  * NB Effective until October 25, 2019
-  * (D) the parent or parents are incarcerated, in immigration detention
-or immigration removal proceedings, or participating in a residential
-substance abuse treatment program, or the prior incarceration,
-immigration detention or immigration removal proceedings, or
-participation of a parent or parents in a residential substance abuse
+required; or (D) the parent or parents are incarcerated, in immigration
+detention or immigration removal proceedings, or participating in a
+residential substance abuse treatment program, or the prior
+incarceration, immigration detention or immigration removal proceedings,
+or participation of a parent or parents in a residential substance abuse
 treatment program is a significant factor in why the child has been in
 foster care for fifteen of the last twenty-two months, provided that the
 parent maintains a meaningful role in the child's life based on the
 criteria set forth in subparagraph (v) of this paragraph and the agency
 has not documented a reason why it would otherwise be appropriate to
 file a petition pursuant to this section.
-  * NB Effective October 25, 2019
   (ii) For the purposes of this section, a compelling reason whereby a
 social services official is not required to file a petition for
 termination of parental rights in accordance with subparagraph (i) of

@@ -84,6 +84,7 @@
 - [§ 209-EE Adoption of a code of ethics and disclosure of interests by fire companies](209ee-adoption-of-a-code-of-ethics-and-disclosure-of-interests-by-fire-companies.md)
 - [§ 209-F Outside service by local police forces; mobilization by governor; powers of sheriffs](209f-outside-service-by-local-police-forces-mobilization-by-governor-powers.md)
 - [§ 209-FF Provisions relating to certain accidental disability benefits](209ff-provisions-relating-to-certain-accidental-disability-benefits.md)
+- [§ 209-FFF Provisions relating to a membership date in the New York city police pension fund attributable to service in the titles of police cadet p...](209fff-provisions-relating-to-a-membership-date-in-the-new-york-city-police-pension.md)
 - [§ 209-G Liability for outside aid](209g-liability-for-outside-aid.md)
 - [§ 209-I Emergency service by volunteer firefighters](209i-emergency-service-by-volunteer-firefighters.md)
 - [§ 209-J Mutual aid programs in counties](209j-mutual-aid-programs-in-counties.md)
@@ -249,6 +250,11 @@ Section 200.      Defining qualifications of exempt volunteer
                     by governor; powers of sheriffs.
         209-ff.   Provisions relating to certain accidental disability
                     benefits.
+        209-fff.  Provisions relating to a membership date in the New
+                    York city police pension fund attributable to
+                    service in the titles of police cadet program and
+                    police cadet program II in the New York city police
+                    department cadet program.
         209-g.    Liability for outside aid.
         209-i.    Emergency service by volunteer firefighters.
         209-j.    Mutual aid programs in counties.

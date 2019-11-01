@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [§ 3-500 Alternative poll site staffing plan](3-500-alternative-poll-site-staffing-plan.md)
 - [§ 3-502 Nassau county; board of elections, special provisions](3-502-nassau-county-board-of-elections-special-provisions.md)
 - [§ 3-504 Suffolk county; board of elections, special provisions](3-504-suffolk-county-board-of-elections-special-provisions.md)
 - [§ 3-506 Boards of elections; voting materials in Russian](3-506-boards-of-elections-voting-materials-in-russian.md)
@@ -15,7 +16,8 @@
 ```text
                                  TITLE V
                           ALTERNATE PROVISIONS
-Section 3-502. Nassau county; board of elections, special provisions.
+Section 3-500. Alternative poll site staffing plan.
+        3-502. Nassau county; board of elections, special provisions.
         3-504. Suffolk county; board of elections, special provisions.
         3-506. Boards of elections; voting materials in Russian.
 ```

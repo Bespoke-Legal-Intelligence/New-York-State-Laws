@@ -35,6 +35,7 @@
 - [§ 342-DDD\*5 Portion of the state highway system to be designated as the "Lt](342ddd-5-portion-of-the-state-highway-system-to-be-designated-as-the-lt.md)
 - [§ 342-E Portion of state highway system to be designated as "The Roosevelt-Marcy Memorial Highway](342e-portion-of-state-highway-system-to-be-designated-as-the-roosevelt-marcy-memorial.md)
 - [§ 342-EE Portion of state highway system to be designated and known as the "Assemblyman Philip B](342ee-portion-of-state-highway-system-to-be-designated-and-known-as-the-assemblyman.md)
+- [§ 342-EEE Portion of the state highway system to be designated as the "Sidney Veterans' Memorial Highway"](342eee-portion-of-the-state-highway-system-to-be-designated-as-the-sidney-veterans.md)
 - [§ 342-F Portion of state highway system to be designated as the "Seaway Trail"](342f-portion-of-state-highway-system-to-be-designated-as-the-seaway-trail.md)
 - [§ 342-FF Portion of the state highway system to be designated as the "88th Infantry Division, the Blue Devils Memorial Highway"](342ff-portion-of-the-state-highway-system-to-be-designated-as-the-88th-infantry.md)
 - [§ 342-G Portion of the state highway system to be designated and known as the "Genesee River Parkway"](342g-portion-of-the-state-highway-system-to-be-designated-and-known-as-the-genesee.md)
@@ -377,6 +378,8 @@ Section 340-a.     Designation of state interstate routes.
         342-ee.    Portion of state highway system to be designated and
                      known as the "Assemblyman Philip B. Healey Memorial
                      Parkway."
+        342-eee.   Portion of the state highway system to be designated
+                     as the "Sidney Veterans' Memorial Highway".
         342-f.     Portion of state highway system to be designated as
                      the "Seaway Trail".
         342-ff.    Portion of the state highway system to be designated

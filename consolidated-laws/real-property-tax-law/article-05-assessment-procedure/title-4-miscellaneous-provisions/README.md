@@ -6,6 +6,7 @@
 ## Contents
 
 - [§ 560 Abandoned subdivisions](560-abandoned-subdivisions.md)
+- [§ 561 Payments in lieu of taxes; change of assessment; effective date](561-payments-in-lieu-of-taxes-change-of-assessment-effective-date.md)
 - [§ 562 Certain property used or occupied by a railroad](562-certain-property-used-or-occupied-by-a-railroad.md)
 - [§ 564 Privately-owned improvements on state lands](564-privately-owned-improvements-on-state-lands.md)
 - [§ 566 Dams and reservoirs](566-dams-and-reservoirs.md)
@@ -31,6 +32,8 @@
                                  TITLE 4
                         MISCELLANEOUS PROVISIONS
 Section 560.   Abandoned subdivisions.
+        561.   Payments in lieu of taxes; change of assessment;
+                 effective date.
         562.   Certain property used or occupied by a railroad.
         564.   Privately-owned improvements on state lands.
         566.   Dams and reservoirs.

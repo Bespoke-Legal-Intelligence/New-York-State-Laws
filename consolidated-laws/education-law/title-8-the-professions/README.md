@@ -18,6 +18,7 @@
 - [Article 135 — Veterinary Medicine and Animal Health Technology](article-135-veterinary-medicine-and-animal/)
 - [Article 136 — Physical Therapy and Physical Therapist Assistants](article-136-physical-therapy-and-physical/)
 - [Article 137 — Pharmacy](article-137-pharmacy/)
+- [Article 137-A — Registered Pharmacy Technicians](article-137a-registered-pharmacy-technicians/)
 - [Article 139 — Nursing](article-139-nursing/)
 - [Article 140 — Professional Midwifery Practice Act](article-140-professional-midwifery-practice-act/)
 - [Article 141 — Podiatry](article-141-podiatry/)
