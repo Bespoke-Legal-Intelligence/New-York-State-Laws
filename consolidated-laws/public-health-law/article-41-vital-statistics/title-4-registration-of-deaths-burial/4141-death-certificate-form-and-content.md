@@ -23,6 +23,8 @@ commissioner declares indefinite shall be returned to the physician,
 nurse practitioner, or person making the medical certificate for
 correction and more definite statement.
   (d) Where a death is caused by an opioid overdose, such information
-shall be indicated, including any related information as the
+shall be indicated on the certificate, including, if known to the person
+completing the death certificate, the specific opioid that caused the
+death of the decedent, along with any other related information as the
 commissioner may require.
 ```

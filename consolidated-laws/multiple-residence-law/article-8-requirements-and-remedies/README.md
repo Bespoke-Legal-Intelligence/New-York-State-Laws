@@ -8,6 +8,7 @@
 - [§ 300 Registry of owner](300-registry-of-owner.md)
 - [§ 301 Permits](301-permits.md)
 - [§ 302 Certificate of occupancy](302-certificate-of-occupancy.md)
+- [§ 302-A Unlawful occupation](302a-unlawful-occupation.md)
 - [§ 303 Enforcement](303-enforcement.md)
 - [§ 304 Penalties for violations](304-penalties-for-violations.md)
 - [§ 305 Nuisances](305-nuisances.md)
@@ -25,6 +26,7 @@
 Section 300.   Registry of owner.
         301.   Permits.
         302.   Certificate of occupancy.
+        302-a. Unlawful occupation.
         303.   Enforcement.
         304.   Penalties for violations.
         305.   Nuisances.

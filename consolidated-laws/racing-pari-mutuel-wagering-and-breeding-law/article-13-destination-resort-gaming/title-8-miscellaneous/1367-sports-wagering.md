@@ -4,7 +4,7 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 8 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 1367. Sports wagering. 1. As used in this section:
+  § 1367. Sports wagering. 1. As used in this section:
   (a) "Casino" means a licensed gaming facility at which gambling is
 conducted pursuant to the provisions of this article;
   (b) "Commission" means the commission established pursuant to section
@@ -121,5 +121,4 @@ commission deems appropriate, shall be conspicuously displayed in the
 sports wagering lounge and included in the terms and conditions of the
 account wagering system, and copies shall be made readily available to
 patrons.
-  * NB Effective upon (see 174/2013 § 52 sb (c))
 ```
