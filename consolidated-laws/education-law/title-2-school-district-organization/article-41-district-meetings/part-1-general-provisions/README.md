@@ -27,6 +27,7 @@
 - [§ 2018-A Absentee ballots for school district elections](2018a-absentee-ballots-for-school-district-elections.md)
 - [§ 2018-B Absentee ballots for school district elections by poll registration](2018b-absentee-ballots-for-school-district-elections.md)
 - [§ 2018-C Additional voting procedures](2018c-additional-voting-procedures.md)
+- [§ 2018-D Military voters](2018d-military-voters.md)
 - [§ 2019 Declaration in case of challenge of voter](2019-declaration-in-case-of-challenge-of-voter.md)
 - [§ 2019-A Voting by persons whose names are not in the registration poll ledgers](2019a-voting-by-persons-whose-names-are-not.md)
 - [§ 2020 Penalty for false declaration or unauthorized vote](2020-penalty-for-false-declaration-or-unauthorized.md)
@@ -35,7 +36,7 @@
 - [§ 2023 Levy of tax for certain purposes without vote; contingency budget](2023-levy-of-tax-for-certain-purposes-without-vote.md)
 - [§ 2023-A Limitations upon school district tax levies](2023a-limitations-upon-school-district-tax-levies.md)
 - [§ 2023-B Certification of compliance with property tax freeze requirements](2023b-certification-of-compliance-with-property-tax.md)
-- [§ 2023-B\*2 Certification of compliance with tax levy limit](2023b-2-certification-of-compliance-with-tax-levy.md)
+- [§ 2023-B\*2 Certification of compliance with tax levy limit](2023b-2-certification-of-compliance-with-tax-levy.md) *(repealed)*
 - [§ 2024 Reference to commissioner of education](2024-reference-to-commissioner-of-education.md)
 - [§ 2025 Procedures at school district meetings](2025-procedures-at-school-district-meetings.md)
 - [§ 2029 Poll list](2029-poll-list.md)
@@ -89,6 +90,7 @@ Section 2001.     Notice of first meeting of district.
         2018-b.   Absentee ballots for school district elections by poll
                     registration.
         2018-c.   Additional voting procedures.
+        2018-d.   Military voters.
         2019.     Declaration in case of challenge of voter.
         2019-a.   Voting by persons whose names are not in the
                     registration poll ledgers.

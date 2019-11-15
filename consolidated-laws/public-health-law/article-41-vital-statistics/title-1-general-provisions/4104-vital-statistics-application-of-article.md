@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 4104. Vital statistics; application of article. The provisions of
+  * § 4104. Vital statistics; application of article. The provisions of
 this article except for the provisions contained in paragraph (i) of
 subdivision two and subdivision four of section four thousand one
 hundred, section four thousand one hundred three, subdivision two of
@@ -15,4 +15,20 @@ section four thousand one hundred thirty-eight, subdivision eleven of
 section four thousand one hundred thirty-eight-c, and section four
 thousand one hundred seventy-nine of this article, shall not apply to
 the city of New York.
+  * NB Effective until January 15, 2020
+  * § 4104. Vital statistics; application of article. The provisions of
+this article except for the provisions contained in paragraph (i) of
+subdivision two and subdivision four of section four thousand one
+hundred, section four thousand one hundred three, subdivision two of
+section four thousand one hundred thirty-five, section four thousand one
+hundred thirty-five-b, subdivision eight of section four thousand one
+hundred seventy-four, paragraphs (b) and (e) of subdivision one,
+paragraph (a) and (b) of subdivision three, and subdivisions five and
+eight of section four thousand one hundred thirty-eight, subdivision
+eleven of section four thousand one hundred thirty-eight-c, paragraph
+(b) of subdivision three of section four thousand one hundred
+thirty-eight-d, section four thousand one hundred thirty-eight-e and
+section four thousand one hundred seventy-nine of this article, shall
+not apply to the city of New York.
+  * NB Effective January 15, 2020
 ```

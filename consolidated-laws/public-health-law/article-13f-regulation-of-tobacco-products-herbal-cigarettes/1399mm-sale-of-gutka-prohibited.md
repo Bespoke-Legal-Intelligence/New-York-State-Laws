@@ -4,50 +4,23 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  § 1399-mm. Sale of gutka prohibited. * 1. No person shall knowingly
-sell or provide gutka to any other person under eighteen years of age.
+  § 1399-mm. Sale of gutka prohibited.  1. No person shall knowingly
+sell or provide gutka to any other person under twenty-one years of age.
 No other provision of law authorizing the sale of tobacco products,
 other than subdivision two of this section, shall authorize the sale of
-gutka.  Any person who violates the provisions of this subdivision shall
+gutka. Any person who violates the provisions of this subdivision shall
 be subject to a civil penalty of not more than five hundred dollars.
-  * NB Effective until November 13, 2019
-  * 1. No person shall knowingly sell or provide gutka to any other
-person under twenty-one years of age. No other provision of law
-authorizing the sale of tobacco products, other than subdivision two of
-this section, shall authorize the sale of gutka. Any person who violates
-the provisions of this subdivision shall be subject to a civil penalty
-of not more than five hundred dollars.
-  * NB Effective November 13, 2019
   2. (a) The provisions of subdivision one of this section shall not
 apply to a tobacco business, as defined in section thirteen hundred
 ninety-nine-n of this chapter.
-  * (b) Any person operating a tobacco business wherein gutka is sold or
-offered for sale is prohibited from selling such gutka to individuals
-under eighteen years of age, and shall post in a conspicuous place a
-sign upon which there shall be imprinted the following statement, "SALE
-OF GUTKA TO PERSONS UNDER EIGHTEEN YEARS OF AGE IS PROHIBITED BY LAW."
-Such sign shall be printed on a white card in red letters at least
-one-half inch in height.
-  * NB Effective until November 13, 2019
-  * (b) Any person operating a tobacco business wherein gutka is sold or
+  (b) Any person operating a tobacco business wherein gutka is sold or
 offered for sale is prohibited from selling such gutka to individuals
 under twenty-one years of age, and shall post in a conspicuous place a
 sign upon which there shall be imprinted the following statement, "SALE
 OF GUTKA TO PERSONS UNDER TWENTY-ONE YEARS OF AGE IS PROHIBITED BY LAW."
 Such sign shall be printed on a white card in red letters at least
 one-half inch in height.
-  * NB Effective November 13, 2019
-  * (c) Sales of gutka by a tobacco business shall be made only to an
-individual who demonstrates, through a driver's license or other
-photographic identification card issued by a government entity or
-educational institution indicating that the individual is at least
-eighteen years of age. Such identification need not be required of any
-individual who reasonably appears to be at least twenty-five years of
-age, provided, however, that such appearance shall not constitute a
-defense in any proceeding alleging the sale of a tobacco product to an
-individual under eighteen years of age.
-  * NB Effective until November 13, 2019
-  * (c) Sales of gutka by a tobacco business shall be made only to an
+  (c) Sales of gutka by a tobacco business shall be made only to an
 individual who demonstrates, through a driver's license or other
 photographic identification card issued by a government entity or
 educational institution indicating that the individual is at least
@@ -56,7 +29,6 @@ individual who reasonably appears to be at least twenty-five years of
 age, provided, however, that such appearance shall not constitute a
 defense in any proceeding alleging the sale of a tobacco product to an
 individual under twenty-one years of age.
-  * NB Effective November 13, 2019
   (d) (i) Any person operating a tobacco business wherein gutka is sold
 or offered for sale may perform a transaction scan as a precondition for
 such purchases.

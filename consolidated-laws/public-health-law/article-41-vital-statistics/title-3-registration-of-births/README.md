@@ -20,6 +20,7 @@
 - [§ 4138-B Birth certificate: foreign country adoption](4138b-birth-certificate-foreign-country-adoption.md)
 - [§ 4138-C Adoption information registry](4138c-adoption-information-registry.md)
 - [§ 4138-D Mutual consent voluntary adoption registry](4138d-mutual-consent-voluntary-adoption-registry.md)
+- [§ 4138-E Adoptee's right to a certified copy of his or her birth certificate](4138e-adoptees-right-to-a-certified-copy-of-his-or-her-birth-certificate.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -45,6 +46,8 @@ Section 4130.   Births; registration.
         4138-b. Birth certificate: foreign country adoption.
         4138-c. Adoption information registry.
         4138-d. Mutual consent voluntary adoption registry.
+        4138-e. Adoptee's right to a certified copy of his or her birth
+                  certificate.
 ```
 
 </details>

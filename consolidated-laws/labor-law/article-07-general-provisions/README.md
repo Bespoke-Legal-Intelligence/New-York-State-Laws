@@ -34,6 +34,7 @@
 - [§ 203-B Seats for female employees](203b-seats-for-female-employees.md)
 - [§ 203-C Employee privacy protection](203c-employee-privacy-protection.md)
 - [§ 203-D Employee personal identifying information](203d-employee-personal-identifying-information.md)
+- [§ 203-E Prohibition of discrimination based on an employee's or a dependent's reproductive health decision making](203e-prohibition-of-discrimination-based-on-an-employees-or-a-dependents-reproductive.md)
 - [§ 204 Inspection of boilers; enforcement; fees; identification; exceptions](204-inspection-of-boilers-enforcement-fees-identification-exceptions.md)
 - [§ 204-B Refunds](204b-refunds.md)
 - [§ 205 Prohibition against eating meals in certain workrooms](205-prohibition-against-eating-meals-in-certain-workrooms.md)
@@ -120,6 +121,8 @@ Section 200.   General duty to protect health and safety of employees;
         203-b. Seats for female employees.
         203-c. Employee privacy protection.
         203-d. Employee personal identifying information.
+        203-e. Prohibition of discrimination based on an employee's or a
+                 dependent's reproductive health decision making.
         204.   Inspection of boilers; enforcement; fees; identification;
                  exceptions.
         204-b. Refunds.

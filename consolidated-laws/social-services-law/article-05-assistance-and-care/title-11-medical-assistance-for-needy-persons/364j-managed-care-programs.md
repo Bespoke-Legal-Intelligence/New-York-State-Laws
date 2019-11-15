@@ -972,6 +972,15 @@ president of the senate and the speaker of the assembly the annual
 Medicaid managed care operating reports submitted to the department from
 managed care plans that contract with the state to manage services
 provided under the Medicaid program.
+  (e) Increased rates, terms or scope of payment for behavioral health
+services under this title, where payment is made by a managed care
+provider under this section, as a result of a rate, coverage or other
+change made pursuant to a law, regulation, rule or official guidance,
+shall be deemed in effect on the same date that such change would have
+taken effect if payment were made other than by the managed care
+provider. Where payment is not made as of the effective date, the
+managed care provider shall make retroactive payments to the appropriate
+service providers.
   19. (a) The commissioner of health, in consultation with the
 commissioner, shall promulgate such regulations as are necessary to
 implement the provisions of this section provided, however, that the

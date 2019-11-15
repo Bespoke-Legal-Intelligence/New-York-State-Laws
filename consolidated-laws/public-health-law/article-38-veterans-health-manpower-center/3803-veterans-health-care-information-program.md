@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 38 — Veterans Health Manpower Center](README.md)
 
 ```text
-  § 3803. Veterans health care information program. 1. There is hereby
+  § 3803. Veterans health care information program. * 1. There is hereby
 created within the department the veterans health care information
 program (referred to in this section as the "program"), which shall
 provide information on health issues associated with military duty,
@@ -12,6 +12,17 @@ including but not limited to Agent Orange, Gulf War Syndromes, toxic
 materials or harmful physical agents such as, depleted uranium, and
 hepatitis C, for veterans, their surviving spouses and health care
 providers.
+  * NB Effective until May 9, 2020
+  * 1. There is hereby created within the department the veterans health
+care information program (referred to in this section as the "program"),
+which shall provide information on health issues associated with
+military duty, including but not limited to Agent Orange, spina bifida,
+Gulf War Syndromes, toxic materials or harmful physical agents such as,
+depleted uranium, and hepatitis C, and specific mental and physical
+health issues including post-traumatic stress disorder, traumatic brain
+injury and other brain-related injuries, for veterans, their surviving
+spouses, children of veterans and health care providers.
+  * NB Effective May 9, 2020
   2. The program shall include but not be limited to the following
 elements:
   (a) public service announcements;

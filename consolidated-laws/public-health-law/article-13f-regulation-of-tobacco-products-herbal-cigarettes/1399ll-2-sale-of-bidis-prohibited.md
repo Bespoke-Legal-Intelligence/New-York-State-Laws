@@ -16,33 +16,14 @@ hundred dollars.
   2. (a) The provisions of subdivision one of this section shall not
 apply to a tobacco business, as defined in subdivision eight of section
 thirteen hundred ninety-nine-aa of this article.
-  * (b) Any person operating a tobacco business wherein bidis is sold or
-offered for sale is prohibited from selling such bidis to individuals
-under eighteen years of age, and shall post in a conspicuous place a
-sign upon which there shall be imprinted the following statement, "SALE
-OF BIDIS TO PERSONS UNDER EIGHTEEN YEARS OF AGE IS PROHIBITED BY LAW."
-Such sign shall be printed on a white card in red letters at least
-one-half inch in height.
-  * NB Effective until November 13, 2019
-  * (b) Any person operating a tobacco business wherein bidis is sold or
+  (b) Any person operating a tobacco business wherein bidis is sold or
 offered for sale is prohibited from selling such bidis to individuals
 under twenty-one years of age, and shall post in a conspicuous place a
 sign upon which there shall be imprinted the following statement, "SALE
 OF BIDIS TO PERSONS UNDER TWENTY-ONE YEARS OF AGE IS PROHIBITED BY LAW."
 Such sign shall be printed on a white card in red letters at least
 one-half inch in height.
-  * NB Effective November 13, 2019
-  * (c) Sales of bidis by a tobacco business shall be made only to an
-individual who demonstrates, through a driver's license or other
-photographic identification card issued by a government entity or
-educational institution indicating that the individual is at least
-eighteen years of age. Such identification need not be required of any
-individual who reasonably appears to be at least twenty-five years of
-age, provided, however, that such appearance shall not constitute a
-defense in any proceeding alleging the sale of a tobacco product to an
-individual under eighteen years of age.
-  * NB Effective until November 13, 2019
-  * (c) Sales of bidis by a tobacco business shall be made only to an
+  (c) Sales of bidis by a tobacco business shall be made only to an
 individual who demonstrates, through a driver's license or other
 photographic identification card issued by a government entity or
 educational institution indicating that the individual is at least
@@ -51,7 +32,6 @@ individual who reasonably appears to be at least twenty-five years of
 age, provided, however, that such appearance shall not constitute a
 defense in any proceeding alleging the sale of a tobacco product to an
 individual under twenty-one years of age.
-  * NB Effective November 13, 2019
   (d)(i) Any person operating a tobacco business wherein bidis is sold
 or offered for sale may perform a transaction scan as a precondition for
 such purchases.

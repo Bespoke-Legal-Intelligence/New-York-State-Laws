@@ -525,6 +525,14 @@ current licensed home care service agency for the purpose of continuing
 the enrollee's care by such employee or employees, and the contract
 shall not count towards the limits on contracts under this paragraph for
 a period of three months.
+  (k) Increased rates, terms or scope of payment for behavioral health
+services under this section, where payment is made by an entity under
+this section, as a result of a rate, coverage or other change made
+pursuant to a law, regulation, rule or official guidance, shall be
+deemed in effect on the same date that such change would have taken
+effect if payment were made other than by the entity. Where payment is
+not made as of the effective date, the entity shall make retroactive
+payments to the appropriate service providers.
   8. Payment rates for managed long term care plan enrollees eligible
 for medical assistance. The commissioner shall establish payment rates
 for services provided to enrollees eligible under title XIX of the

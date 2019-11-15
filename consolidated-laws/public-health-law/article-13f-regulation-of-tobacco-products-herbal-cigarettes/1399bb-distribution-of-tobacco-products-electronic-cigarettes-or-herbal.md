@@ -26,68 +26,32 @@ not apply to the following locations:
   (a) private social functions when seating arrangements are under the
 control of the sponsor of the function and not the owner, operator,
 manager or person in charge of such indoor area;
-  * (b) conventions and trade shows; provided that the distribution is
-confined to designated areas generally accessible only to persons over
-the age of eighteen;
-  * NB Effective until November 13, 2019
-  * (b) conventions and trade shows; provided that the distribution is
+  (b) conventions and trade shows; provided that the distribution is
 confined to designated areas generally accessible only to persons over
 the age of twenty-one;
-  * NB Effective November 13, 2019
-  * (c) events sponsored by tobacco or herbal cigarette manufacturers
-provided that the distribution is confined to designated areas generally
-accessible only to persons over the age of eighteen;
-  * NB Effective until November 13, 2019
-  * (c) events sponsored by tobacco or herbal cigarette manufacturers
+  (c) events sponsored by tobacco or herbal cigarette manufacturers
 provided that the distribution is confined to designated areas generally
 accessible only to persons over the age of twenty-one;
-  * NB Effective November 13, 2019
   (d) bars as defined in subdivision one of section thirteen hundred
 ninety-nine-n of this chapter;
   (e) tobacco businesses as defined in subdivision eight of section
 thirteen hundred ninety-nine-aa of this article;
-  * (f) factories as defined in subdivision nine of section thirteen
-hundred ninety-nine-aa of this article and construction sites; provided
-that the distribution is confined to designated areas generally
-accessible only to persons over the age of eighteen.
-  * NB Effective until November 13, 2019
-  * (f) factories as defined in subdivision nine of section thirteen
+  (f) factories as defined in subdivision nine of section thirteen
 hundred ninety-nine-aa of this article and construction sites; provided
 that the distribution is confined to designated areas generally
 accessible only to persons over the age of twenty-one.
-  * NB Effective November 13, 2019
   3. No person shall distribute tobacco products or herbal cigarettes at
 the locations set forth in paragraphs (b), (c) and (f) of subdivision
 two of this section unless such person gives five days written notice to
 the enforcement officer.
-  * 4. No person engaged in the business of selling or otherwise
-distributing electronic cigarettes for commercial purposes, or any agent
-or employee of such person, shall knowingly, in furtherance of such
-business, distribute without charge any electronic cigarettes to any
-individual under eighteen years of age.
-  * NB Effective until November 13, 2019
-  * 4. No person engaged in the business of selling or otherwise
+  4. No person engaged in the business of selling or otherwise
 distributing electronic cigarettes for commercial purposes, or any agent
 or employee of such person, shall knowingly, in furtherance of such
 business, distribute without charge any electronic cigarettes to any
 individual under twenty-one years of age.
-  * NB Effective November 13, 2019
-  * 5. The distribution of tobacco products or herbal cigarettes
-pursuant to subdivision two of this section or the distribution without
-charge of electronic cigarettes shall be made only to an individual who
-demonstrates, through a driver's license or other photographic
-identification card issued by a government entity or educational
-institution indicating that the individual is at least eighteen years of
-age. Such identification need not be required of any individual who
-reasonably appears to be at least twenty-five years of age; provided,
-however, that such appearance shall not constitute a defense in any
-proceeding alleging the sale of a tobacco product, electronic cigarette
-or herbal cigarette or the distribution without charge of electronic
-cigarettes to an individual.
-  * NB Effective until November 13, 2019
-  * 5. The distribution of tobacco products or herbal cigarettes
-pursuant to subdivision two of this section or the distribution without
-charge of electronic cigarettes shall be made only to an individual who
+  5. The distribution of tobacco products or herbal cigarettes pursuant
+to subdivision two of this section or the distribution without charge of
+electronic cigarettes shall be made only to an individual who
 demonstrates, through a driver's license or other photographic
 identification card issued by a government entity or educational
 institution indicating that the individual is at least twenty-one years
@@ -97,5 +61,4 @@ however, that such appearance shall not constitute a defense in any
 proceeding alleging the sale of a tobacco product, electronic cigarette
 or herbal cigarette or the distribution without charge of electronic
 cigarettes to an individual.
-  * NB Effective November 13, 2019
 ```

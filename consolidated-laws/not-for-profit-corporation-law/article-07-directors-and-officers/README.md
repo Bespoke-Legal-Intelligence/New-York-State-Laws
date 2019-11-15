@@ -23,12 +23,12 @@
 - [§ 715 Related party transactions](715-related-party-transactions.md)
 - [§ 715-A Conflict of interest policy](715a-conflict-of-interest-policy.md)
 - [§ 715-B Whistleblower policy](715b-whistleblower-policy.md)
-- [§ 716 Loans to directors and officers](716-loans-to-directors-and-officers.md)
-- [§ 717 Duty of directors and officers](717-duty-of-directors-and-officers.md)
-- [§ 718 List of directors and officers](718-list-of-directors-and-officers.md)
+- [§ 716 Loans to directors, officers and key persons](716-loans-to-directors-officers-and-key-persons.md)
+- [§ 717 Duty of directors, officers and key persons](717-duty-of-directors-officers-and-key-persons.md)
+- [§ 718 List of directors, officers and key persons](718-list-of-directors-officers-and-key-persons.md)
 - [§ 719 Liability of directors in certain cases](719-liability-of-directors-in-certain-cases.md)
 - [§ 720 Actions against directors, officers and key persons](720-actions-against-directors-officers-and-key-persons.md)
-- [§ 720-A Liability of directors, officers and trustees](720a-liability-of-directors-officers-and-trustees.md)
+- [§ 720-A Liability of directors, officers, trustees and key persons](720a-liability-of-directors-officers-trustees-and-key-persons.md)
 - [§ 721 Nonexclusivity of statutory provisions for indemnification of directors and officers](721-nonexclusivity-of-statutory-provisions-for-indemnification-of-directors.md)
 - [§ 722 Authorization for indemnification of directors and officers](722-authorization-for-indemnification-of-directors-and-officers.md)
 - [§ 723 Payment of indemnification other than by court award](723-payment-of-indemnification-other-than-by-court-award.md)
@@ -60,12 +60,13 @@ Section 701.   Board of directors.
         715.   Related party transactions.
         715-a. Conflict of interest policy.
         715-b. Whistleblower policy.
-        716.   Loans to directors and officers.
-        717.   Duty of directors and officers.
-        718.   List of directors and officers.
+        716.   Loans to directors, officers and key persons.
+        717.   Duty of directors, officers and key persons.
+        718.   List of directors, officers and key persons.
         719.   Liability of directors in certain cases.
         720.   Actions against directors, officers and key persons.
-        720-a. Liability of directors, officers and trustees.
+        720-a. Liability of directors, officers, trustees and key
+                 persons.
         721.   Nonexclusivity of statutory provisions for
                  indemnification of directors and officers.
         722.   Authorization for indemnification of directors and

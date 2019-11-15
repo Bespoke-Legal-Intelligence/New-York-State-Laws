@@ -308,7 +308,7 @@ Article
            Title    I.   General provisions (§§4100-4104).
                    II.   Registration districts: registrars, physicians,
                           midwives and funeral directors (§§ 4120-4124).
-                  III.   Registration of births (§§4130--4138-d).
+                  III.   Registration of births (§§4130--4138-e).
                 III-A.   Filing of certificates of dissolution of
                           marriage (§4139).
                    IV.   Registration of deaths; burial permits

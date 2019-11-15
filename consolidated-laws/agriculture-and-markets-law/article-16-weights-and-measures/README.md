@@ -26,7 +26,7 @@
 - [§ 192 Sale and delivery of petroleum products](192-sale-and-delivery-of-petroleum-products.md)
 - [§ 192-A Fuel octane labelling requirements](192a-fuel-octane-labelling-requirements.md)
 - [§ 192-B Fuel lead content labelling and requirements](192b-fuel-lead-content-labelling-and-requirements.md)
-- [§ 192-C Motor fuel standards and labelling; cetane rating of diesel fuel; alcohol content](192c-motor-fuel-standards-and-labelling-cetane-rating-of-diesel-fuel-alcohol-content.md)
+- [§ 192-C Motor fuel standards and labelling; grade of diesel fuel; alcohol content](192c-motor-fuel-standards-and-labelling-grade-of-diesel-fuel-alcohol-content.md)
 - [§ 192-E Sale and delivery of liquefied petroleum gas](192e-sale-and-delivery-of-liquefied-petroleum-gas.md)
 - [§ 192-F Bulk sales or transportation; coal and coke](192f-bulk-sales-or-transportation-coal-and-coke.md)
 - [§ 192-G Methyl tertiary butyl ether; prohibited](192g-methyl-tertiary-butyl-ether-prohibited.md)

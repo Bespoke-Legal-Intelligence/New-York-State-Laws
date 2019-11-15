@@ -58,6 +58,7 @@
 - [§ 458 Veterans](458-veterans.md)
 - [§ 458-A Veterans; alternative exemption](458a-veterans-alternative-exemption.md)
 - [§ 458-B Exemption for Cold War veterans](458b-exemption-for-cold-war-veterans.md)
+- [§ 458-C Improvements to property of severely injured members of the armed forces of the United States](458c-improvements-to-property-of-severely-injured-members-of-the-armed-forces.md)
 - [§ 459 Persons who are physically disabled](459-persons-who-are-physically-disabled.md)
 - [§ 459-A Improvements to property made pursuant to the Americans with Disabilities Act of 1990](459a-improvements-to-property-made-pursuant-to-the-americans-with-disabilities-act.md)
 - [§ 459-B Physically disabled crime victims](459b-physically-disabled-crime-victims.md)
@@ -254,6 +255,8 @@ Section 420-a.   Nonprofit organizations; mandatory class.
         458.     Veterans.
         458-a.   Veteran; alternative exemption.
         458-b.   Exemption for Cold War veterans.
+        458-c.   Improvements to property of severely injured members of
+                   the armed forces of the United States.
         459.     Persons who are physically disabled.
         459-a.   Improvements to property made pursuant to the Americans
                    with Disabilities Act of 1990.

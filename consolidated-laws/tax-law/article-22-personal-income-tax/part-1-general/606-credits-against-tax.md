@@ -576,12 +576,27 @@ subsection, the taxpayer may not use the hiring of a qualified veteran
 that is the basis for this credit in the basis of any other credit
 allowed under this article.
   (2) Qualified veteran. A qualified veteran is an individual:
-  (A) who served on active duty in the United States army, navy, air
+  * (A) who served on active duty in the United States army, navy, air
 force, marine corps, coast guard or the reserves thereof, or who served
 in active military service of the United States as a member of the army
 national guard, air national guard, New York guard or New York naval
 militia; who was released from active duty by general or honorable
 discharge after September eleventh, two thousand one;
+  * NB Effective until November 12, 2020
+  * (A) who served on active duty in the United States army, navy, air
+force, marine corps, coast guard or the reserves thereof, or who served
+in active military service of the United States as a member of the army
+national guard, air national guard, New York guard or New York naval
+militia; who (i) was released from active duty by general or honorable
+discharge after September eleventh, two thousand one, or (ii) has a
+qualifying condition, as defined in section three hundred fifty of the
+executive law, and has received a discharge other than bad conduct or
+dishonorable from such service after September eleventh, two thousand
+one, or (iii) is a discharged LGBT veteran, as defined in section three
+hundred fifty of the executive law, and has received a discharge other
+than bad conduct or dishonorable from such service after September
+eleventh, two thousand one;
+  * NB Effective November 12, 2020
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
 thousand twenty; and
@@ -638,35 +653,35 @@ Not over $5,000                     $90.00  plus  an  amount  equal   to
                                     exemptions  for  which  the taxpayer
                                     (or in the case  of  a  husband  and
                                     wife,  taxpayers)  is  entitled to a
-                                    deduction  for  the taxable year for
-                                    federal income  tax  purposes  under
-                                    subsections  (b)  and (c) of section
+                                    deduction for the taxable  year  for
+                                    federal  income  tax  purposes under
+                                    subsections (b) and (c)  of  section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $5,000 but not over $6,000     $75.00 plus such an amount
 Over $6,000 but not over $7,000     $65.00 plus such an amount
 Over $7,000 but not over $20,000    $60.00 plus such an amount
 Over $20,000 but not over $22,000   $60.00  plus  an  amount  equal   to
-                                    $10.00  multiplied by a number which
+                                    $10.00 multiplied by a number  which
                                     is  one  less  than  the  number  of
-                                    exemptions  for  which  the taxpayer
-                                    (or in the case  of  a  husband  and
-                                    wife,  taxpayers)  is  entitled to a
-                                    deduction for the taxable  year  for
-                                    federal  income  tax  purposes under
-                                    subsections (b) and (c)  of  section
+                                    exemptions for  which  the  taxpayer
+                                    (or  in  the  case  of a husband and
+                                    wife, taxpayers) is  entitled  to  a
+                                    deduction  for  the taxable year for
+                                    federal income  tax  purposes  under
+                                    subsections  (b)  and (c) of section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $22,000 but not over $25,000   $50.00 plus such an amount
 Over $25,000 but not over $28,000   $40.00 plus an amount equal to $5.00
-                                    multiplied by a number which is  one
-                                    less  than  the number of exemptions
-                                    for which the taxpayer  (or  in  the
-                                    case   of   a   husband   and  wife,
-                                    taxpayers)   is   entitled   to    a
-                                    deduction  for  the taxable year for
-                                    federal income  tax  purposes  under
-                                    subsections  (b)  and (c) of section
+                                    multiplied  by a number which is one
+                                    less than the number  of  exemptions
+                                    for  which  the  taxpayer (or in the
+                                    case  of   a   husband   and   wife,
+                                    taxpayers)    is   entitled   to   a
+                                    deduction for the taxable  year  for
+                                    federal  income  tax  purposes under
+                                    subsections (b) and (c)  of  section
                                     one   hundred   fifty-one   of   the
                                     internal revenue code
 Over $28,000 but not over $32,000   $20.00 plus such an amount

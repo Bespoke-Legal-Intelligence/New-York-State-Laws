@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 2023-B*2", "kind": "section", "law_id": "EDN", "location_id": "2023-B*2", "path": "TITLE 2 › ARTICLE 41 › PART 1 › SECTION 2023-B*2", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/2023-B_2.md", "title": "Certification of compliance with tax levy limit"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 2023-B*2", "kind": "section", "law_id": "EDN", "location_id": "2023-B*2", "path": "TITLE 2 › ARTICLE 41 › PART 1 › SECTION 2023-B*2", "repealed": true, "repealed_date": "2019-11-15", "source": "nys-laws:EDN/2023-B_2.md", "title": "Certification of compliance with tax levy limit"} -->
 # Education Law § 2023-B*2 — Certification of compliance with tax levy limit
 
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md) › [Part 1 — General Provisions](README.md)
+
+**Repealed** (15 Nov 2019). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

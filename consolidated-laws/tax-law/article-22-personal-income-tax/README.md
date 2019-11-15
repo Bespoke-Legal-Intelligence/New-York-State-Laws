@@ -74,6 +74,7 @@ Section 611.     New York taxable income of a resident individual.
                    education and treatment.
         630-g*2. Gift for the William B. Hoyt Memorial children and
                    family trust fund.
+        630-g*3. Gift to the arts fund.
                PART III-NONRESIDENTS AND PART-YEAR RESIDENTS
 Section 631.     New York source income of a nonresident individual.
         632.     Nonresident partners and electing shareholders of S

@@ -8,7 +8,7 @@
 | Senate code | GCN |
 | Type | Consolidated law, chapter 22 |
 | Sections | 97 |
-| Last changed | 26 Jul 2019 |
+| Last changed | 15 Nov 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Construction |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 amended
 - [26 Jul 2019](../../changes/2019/2019-07-26.md): 1 amended
 
 ## Contents

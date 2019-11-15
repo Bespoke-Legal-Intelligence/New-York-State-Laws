@@ -62,7 +62,7 @@ medically contraindicated, the requirements of this section shall be
 inapplicable until such immunization is found no longer to be
 detrimental to such person's health or is no longer medically
 contraindicated.
-  8-a. Proof of honorable discharge from the armed services within ten
+  * 8-a. Proof of honorable discharge from the armed services within ten
 years from the date of application to an institution shall qualify as a
 certificate enabling a student to attend the institution pending actual
 receipt of immunization records from the armed services. If while
@@ -70,6 +70,16 @@ awaiting the receipt of actual immunization records a health risk shall
 arise at an institution, a student presenting a certificate under the
 terms of this subdivision shall be removed from the institution if
 proper immunization cannot be proved or otherwise rectified.
+  * NB Effective until November 12, 2020
+  * 8-a. Proof of discharge from the armed services within ten years
+from the date of application to an institution shall qualify as a
+certificate enabling a student to attend the institution pending actual
+receipt of immunization records from the armed services. If while
+awaiting the receipt of actual immunization records a health risk shall
+arise at an institution, a student presenting a certificate under the
+terms of this subdivision shall be removed from the institution if
+proper immunization cannot be proved or otherwise rectified.
+  * NB Effective November 12, 2020
   9. This section shall not apply to a person who holds genuine and
 sincere religious beliefs which are contrary to the practices herein
 required, and no certificate shall be required as a prerequisite to such

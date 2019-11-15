@@ -19,5 +19,5 @@ Notwithstanding any other provision of law all revenues collected
 pursuant to this section shall be credited to the William B. Hoyt
 Memorial children and family trust fund and used only for those purposes
 enumerated in article ten-A of the social services law.
-  * NB There are 2 § 630-g's
+  * NB There are 3 § 630-g's
 ```

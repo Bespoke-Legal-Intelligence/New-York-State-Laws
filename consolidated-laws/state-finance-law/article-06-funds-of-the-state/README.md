@@ -209,6 +209,7 @@
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
+- [§ 97-YYYY Arts fund](97yyyy-arts-fund.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
 - [§ 98 Investment of state funds](98-investment-of-state-funds.md)
 - [§ 98-A Investment of general funds, bond proceeds, and other funds not immediately required](98a-investment-of-general-funds-bond-proceeds-and-other-funds-not-immediately.md)
@@ -509,6 +510,7 @@ Section 70.        Classification of funds.
         97-ssss.   Leukemia, lymphoma and myeloma research, education
                      and treatment fund.
         97-xxxx.   State health innovation plan account.
+        97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other

@@ -4,9 +4,10 @@
 [County Law](../README.md) › [Article 5 — General Powers of Board of Supervisors](README.md)
 
 ```text
-  § 226-c. Waiver of fees for veterans' organizations. The Erie county
+  * § 226-c. Waiver of fees for veterans' organizations. The Erie county
 legislature is hereby authorized to waive fees, including but not
 limited to building permit review fees and fees associated with capital
 improvements to any post or hall owned by a not-for-profit
 congressionally chartered veterans' organization located in such county.
+  * NB There are 2 § 226-c's
 ```

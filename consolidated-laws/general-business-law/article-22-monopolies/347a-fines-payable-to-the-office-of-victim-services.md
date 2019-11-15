@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 22 — Monopolies](README.md)
 
 ```text
-  * § 347-a. Fines payable to the office of victim services. Following
+  § 347-a. Fines payable to the office of victim services. Following
 sentencing for a crime pursuant to section three hundred forty-one of
 this article or upon a judgment pursuant to section three hundred
 forty-two-a of this article, the court in its discretion may determine
@@ -12,5 +12,4 @@ that any fine or penalty or any portion thereof shall be paid to the
 office of victim services to be expended for any purpose of article
 twenty-two of the executive law as provided by subdivision nineteen of
 section six hundred twenty-three of such law.
-  * NB Effective November 12, 2019
 ```

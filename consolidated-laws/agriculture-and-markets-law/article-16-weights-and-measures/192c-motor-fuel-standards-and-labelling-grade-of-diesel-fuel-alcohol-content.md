@@ -1,17 +1,12 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 192-C", "kind": "section", "law_id": "AGM", "location_id": "192-C", "path": "ARTICLE 16 › SECTION 192-C", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/192-C.md", "title": "Motor fuel standards and labelling; cetane rating of diesel fuel; alcohol content"} -->
-# Agriculture and Markets Law § 192-C — Motor fuel standards and labelling; cetane rating of diesel fuel; alcohol content
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 192-C", "kind": "section", "law_id": "AGM", "location_id": "192-C", "path": "ARTICLE 16 › SECTION 192-C", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/192-C.md", "title": "Motor fuel standards and labelling; grade of diesel fuel; alcohol content"} -->
+# Agriculture and Markets Law § 192-C — Motor fuel standards and labelling; grade of diesel fuel; alcohol content
 
 [Agriculture and Markets Law](../README.md) › [Article 16 — Weights and Measures](README.md)
 
 ```text
-  § 192-c. * Motor fuel standards and labelling; cetane rating of diesel
-fuel; alcohol content.
-  * NB Effective until November 12, 2019
-  * Motor fuel standards and labelling; grade of diesel fuel; alcohol
-content.
-  * NB Effective November 12, 2019
-1. As used in this section, the following terms shall have the following
-meanings:
+  § 192-c. Motor fuel standards and labelling; grade of diesel fuel;
+alcohol content. 1. As used in this section, the following terms shall
+have the following meanings:
   a. "Co-solvent" means an alcohol with a higher molecular weight than
 methanol which is blended with methanol to prevent phase separation in
 gasoline.
@@ -69,16 +64,10 @@ the total volume, if the quantity of methanol exceeds three-tenths of
 one percent; and
   (ii) the presence of ethanol, as a percentage of the total volume, if
 such quantity exceeds one percent of the total volume.
-  * b. A refiner, distributor or reseller shall not transfer, sell or
-dispense diesel motor fuel in this state without delivering to the
-purchaser a bill, invoice or other instrument evidencing the transaction
-which shall indicate the cetane rating of such diesel motor fuel.
-  * NB Effective until November 12, 2019
-  * b. A refiner, distributor or reseller shall not transfer, sell or
+  b. A refiner, distributor or reseller shall not transfer, sell or
 dispense diesel motor fuel in this state without delivering to the
 purchaser a bill, invoice or other instrument evidencing the transaction
 which shall indicate the grade of such diesel motor fuel.
-  * NB Effective November 12, 2019
   c. For the purposes of this section, the instrument evidencing the
 transaction shall be on such form as may be required by the
 commissioner. The commissioner shall consult with the department of
@@ -119,14 +108,9 @@ one-quarter inch block letters on a contrasting background reading
 "Contains.....% Methanol" and "Contains.....% Co-Solvent", the blanks
 being filled in with the maximum percentage of methanol and minimum
 percentage of co-solvent in the gasoline.
-  * b. A retailer shall not transfer, sell, dispense or offer diesel
-motor fuel for sale in this state unless the retail petroleum dispensing
-device displays a sign disclosing the minimum cetane rating.
-  * NB Effective until November 12, 2019
-  * b. A retailer shall not transfer, sell, dispense or offer diesel
-motor fuel for sale in this state unless the retail petroleum dispensing
+  b. A retailer shall not transfer, sell, dispense or offer diesel motor
+fuel for sale in this state unless the retail petroleum dispensing
 device displays a sign disclosing the grade.
-  * NB Effective November 12, 2019
   6. No refiner, distributor, reseller or retailer shall store, sell,
 transfer, dispense or offer for sale gasoline or diesel motor fuel in
 this state without having in his or her possession a copy of the bill,

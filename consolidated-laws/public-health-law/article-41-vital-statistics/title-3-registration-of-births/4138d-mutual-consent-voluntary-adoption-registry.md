@@ -36,7 +36,7 @@ adoption, it shall notify the registrant that no record exists of the
 adoption and refer the registrant to the department's adoption
 information registry operated pursuant to section forty-one hundred
 thirty-eight-c of this title.
-  (b) If the agency determines that the agency was involved in such
+  * (b) If the agency determines that the agency was involved in such
 adoption, it shall transmit the registration to the adoption information
 registry operated by the department and the agency shall release the
 non-identifying information, as defined in section forty-one hundred
@@ -45,6 +45,13 @@ restrict the nature of the non-identifying information released pursuant
 to this section upon a reasonable determination that disclosure of such
 non-identifying information would not be in the adoptee's, the
 biological sibling's or parent's best interest.
+  * NB Effective until January 15, 2020
+  * (b) If the agency determines that the agency was involved in such
+adoption, it shall transmit the registration to the adoption information
+registry operated by the department and the agency shall release the
+non-identifying information, as defined in section forty-one hundred
+thirty-eight-c of this title, to the adopted person.
+  * NB Effective January 15, 2020
   4. Upon acceptance of a registration pursuant to this section, the
 department shall search the records of the department to determine
 whether the adoptee's adoption occurred within the state. The department
