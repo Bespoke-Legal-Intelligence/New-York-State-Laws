@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [§ 1802 Effect of failure to present claim If any claim is not presented on or before the day fixed in the notice published pursuant to the prece...](1802-effect-of-failure-to-present-claim-if-any-claim-is-not-presented.md)
+- [§ 1802 Effect of failure to present claim If any claim is not presented within 7 months from the date of issue of letters, the fiduciary shall n...](1802-effect-of-failure-to-present-claim-if-any-claim-is-not-presented-within-7.md)
 - [§ 1803 Form and verification of claims; service of notice 1](1803-form-and-verification-of-claims-service-of-notice-1.md)
 - [§ 1804 Contingent or unliquidated claims; retention of assets for estate taxes 1](1804-contingent-or-unliquidated-claims-retention-of-assets-for-estate-taxes-1.md)
 - [§ 1805 Determination of issues arising between representative and the estate; suspension of statute of limitations in certain cases 1](1805-determination-of-issues-arising-between-representative-and-the-estate.md)

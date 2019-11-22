@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "General Obligations Law § 5-337", "kind": "section", "law_id": "GOB", "location_id": "5-337", "path": "ARTICLE 5 › TITLE 3 › SECTION 5-337", "repealed": false, "repealed_date": null, "source": "nys-laws:GOB/5-337.md", "title": "Agreements requiring contractees to waive their rights in relation to expressing certain opinions about contractors void and unenforceable"} -->
+# General Obligations Law § 5-337 — Agreements requiring contractees to waive their rights in relation to expressing certain opinions about contractors void and unenforceable
+
+[General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 3 — Certain Prohibited Contracts and Provisions of Contracts](README.md)
+
+```text
+  * § 5-337. Agreements requiring contractees to waive their rights in
+relation to expressing certain opinions about contractors void and
+unenforceable. 1. (a) A contract or proposed contract for the sale or
+lease of consumer goods or services may not include a provision waiving
+the consumer's right to make any statement regarding the seller or
+lessor or its employees or agents, or concerning the goods or services.
+  (b) It shall be unlawful to threaten or to seek to enforce a provision
+made unlawful under this section, or to otherwise penalize a consumer
+for making any statement protected under this section.
+  2. Any waiver of the provisions of this section is contrary to public
+policy, and is void and unenforceable.
+  3. Any person or entity that violates this section shall be subject to
+a civil penalty not to exceed two thousand five hundred dollars for the
+first violation, and five thousand dollars for the second and for each
+subsequent violation, to be assessed and collected in a civil action
+brought by the consumer or by the attorney general. In addition, for a
+willful or intentional violation of this section, a consumer or the
+attorney general may recover a civil penalty not to exceed ten thousand
+dollars. Under this section, when the civil action is brought by the
+consumer, the civil penalty shall be payable to the consumer and when
+the civil action is brought by the attorney general, such civil penalty
+shall be payable to the state.
+  4. The penalty provided by this section is not an exclusive remedy,
+and does not affect any other relief or remedy provided by law. This
+section shall not be construed to prohibit or limit a person or business
+that hosts online consumer reviews or comments from removing a statement
+that is otherwise lawful to remove.
+  * NB Effective February 18, 2020
+```

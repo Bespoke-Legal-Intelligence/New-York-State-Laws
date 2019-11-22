@@ -127,6 +127,9 @@ organ, tissue or whole body donations, and the means by which the
 patient may make such a donation. The commissioner shall promulgate any
 rules and regulations necessary to implement the provisions of this
 paragraph.
+  * q. A statement indicating the policy of the facility regarding the
+granting of physician privileges to residents.
+  * NB Effective February 18, 2020
   4. Each facility shall give a copy of the statement to each patient at
 or prior to the time of admission to the facility, or to the appointed
 personal representative at the time of appointment and to each member of

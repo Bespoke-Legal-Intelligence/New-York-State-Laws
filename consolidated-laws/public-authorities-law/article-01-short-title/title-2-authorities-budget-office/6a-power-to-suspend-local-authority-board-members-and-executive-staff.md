@@ -4,7 +4,7 @@
 [Public Authorities Law](../../README.md) › [Article 1 — Short Title](../README.md) › [Title 2 — Authorities Budget Office](README.md)
 
 ```text
-  * § 6-a. Power to suspend local authority board members and executive
+  § 6-a. Power to suspend local authority board members and executive
 staff. 1. The authorities budget office shall have the authority,
 subject to subdivision two of this section, to suspend one or more
 members of a local authority board of directors, or the chief executive
@@ -91,5 +91,4 @@ of directors reached this determination.
   (c) For the purposes of this section, "reinstatement" shall mean the
 restoration of the rights, responsibilities, powers and duties of a
 board member or chief executive officer of a local authority.
-  * NB Effective November 20, 2019
 ```

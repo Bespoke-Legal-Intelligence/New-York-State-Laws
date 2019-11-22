@@ -24,6 +24,7 @@
 - [§ 5-334 Option or right to acquire interest in property](5-334-option-or-right-to-acquire-interest.md)
 - [§ 5-335 Limitation of reimbursement and subrogation claims in personal injury and wrongful death actions](5-335-limitation-of-reimbursement-and-subrogation.md)
 - [§ 5-336 Nondisclosure agreements](5-336-nondisclosure-agreements.md)
+- [§ 5-337 Agreements requiring contractees to waive their rights in relation to expressing certain opinions about contractors void and unenforceable](5-337-agreements-requiring-contractees-to-waive.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -68,6 +69,9 @@ Section 5-301.  Certain employment contracts void.
         5-335.  Limitation of reimbursement and subrogation claims in
                   personal injury and wrongful death actions.
         5-336.  Nondisclosure agreements.
+        5-337.  Agreements requiring contractees to waive their rights
+                  in relation to expressing certain opinions about
+                  contractors void and unenforceable.
 ```
 
 </details>

@@ -14,7 +14,7 @@
 - [§ 4011 Quality assurance](4011-quality-assurance.md)
 - [§ 4012 Payment for hospice](4012-payment-for-hospice.md)
 - [§ 4012-A Hospice supplemental financial assistance program for persons with special needs](4012a-hospice-supplemental-financial-assistance-program-for-persons-with-special-needs.md)
-- [§ 4012-B Hospice palliative care program for persons with advanced and progressive disease](4012b-hospice-palliative-care-program-for-persons-with-advanced-and-progressive.md)
+- [§ 4012-B Hospice palliative care](4012b-hospice-palliative-care.md)
 - [§ 4013 Hospice worker recruitment and retention program](4013-hospice-worker-recruitment-and-retention-program.md)
 - [§ 4013-B Home care services worker registry](4013b-home-care-services-worker-registry.md)
 - [§ 4014 Hospice residence pilot program](4014-hospice-residence-pilot-program.md)
@@ -37,8 +37,7 @@ Section 4000.   Legislative declaration.
         4012.   Payment for hospice.
         4012-a. Hospice supplemental financial assistance program for
                   persons with special needs.
-        4012-b. Hospice palliative care program for persons with
-                  advanced and progressive disease.
+        4012-b. Hospice palliative care.
         4013.   Hospice worker recruitment and retention program.
         4013-b. Home care services worker registry.
         4014.   Hospice residence pilot program.
