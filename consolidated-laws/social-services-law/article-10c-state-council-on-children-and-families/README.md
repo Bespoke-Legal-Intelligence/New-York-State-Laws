@@ -31,7 +31,7 @@ Section 483.   Council on children and families; chair.
         483-f. The children's plan.
         483-g. Early childhood advisory council.
         483-h. Internet mapping resource of school age child care
-                 providers and afterschool programs.
+                 providers and afterschool and home visiting programs.
 ```
 
 </details>

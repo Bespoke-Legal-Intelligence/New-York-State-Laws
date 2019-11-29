@@ -4,9 +4,9 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 7 — Ny State of Health](README.md)
 
 ```text
-  § 268. Statement of policy and purposes. The purpose of this title is
-to codify the establishment of the health benefit exchange in New York,
-known as NY State of Health, The Official Health Plan Marketplace
+  * § 268. Statement of policy and purposes. The purpose of this title
+is to codify the establishment of the health benefit exchange in New
+York, known as NY State of Health, The Official Health Plan Marketplace
 (Marketplace), in conformance with Executive Order 42 (Cuomo) issued
 April 12, 2012. The Marketplace shall continue to perform eligibility
 determinations for federal and state insurance affordability programs
@@ -37,4 +37,5 @@ continue to be properly integrated with insurance affordability
 programs, including Medicaid, child health plus and the basic health
 program, and such other health insurance programs as determined by the
 commissioner.
+  * NB There are 2 § 268's
 ```

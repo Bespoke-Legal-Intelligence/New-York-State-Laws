@@ -8,7 +8,7 @@
 | Senate code | PVH |
 | Type | Consolidated law, chapter 44-B |
 | Sections | 437 (7 repealed) |
-| Last changed | 15 Nov 2019 |
+| Last changed | 29 Nov 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Private Housing Finance |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 2 amended
 - [11 Oct 2019](../../changes/2019/2019-10-11.md): 1 amended
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 7 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 7 amended
 - [22 Jun 2018](../../changes/2018/2018-06-22.md): 7 amended
-- [27 Apr 2018](../../changes/2018/2018-04-27.md): 1 amended
 
 ## Contents
 

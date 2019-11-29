@@ -95,17 +95,31 @@ organizations requesting funding and the amounts requested for each
 request for proposal. The office of children and family services may
 also include any other information related to each program that it deems
 appropriate;
-  (i) make available to the council on children and families information
-regarding: (1) all recipients of grants awarded or administered by the
-office of children and family services for the purposes of providing
-afterschool programs; and (2) registered school age child care providers
-registered by the office of children and family services. For each grant
-recipient or provider the recipient's or provider's name, and the
-address at which the program is offered except for those who in
-accordance with paragraph eight-a of section three hundred ninety of
-this chapter have opted out of providing information online, and the
-phone number for the program will be made available no less than once a
-year; and
+  * (i) make available to the council on children and families
+information regarding: (1) all recipients of grants awarded or
+administered by the office of children and family services for the
+purposes of providing afterschool programs; and (2) registered school
+age child care providers registered by the office of children and family
+services. For each grant recipient or provider the recipient's or
+provider's name, and the address at which the program is offered except
+for those who in accordance with paragraph eight-a of section three
+hundred ninety of this chapter have opted out of providing information
+online, and the phone number for the program will be made available no
+less than once a year; and
+  * NB Effective until February 23, 2020
+  * (i) make available to the council on children and families
+information regarding: (1) all recipients of grants awarded or
+administered by the office of children and family services for the
+purposes of providing afterschool programs; (2) registered school age
+child care providers registered by the office of children and family
+services; and (3) home visiting programs that meet the criteria as
+required by section four hundred twenty-nine of this chapter regardless
+of whether they have a contract with or receive funding from the state.
+Such information shall be provided in accordance with the requirements
+set forth in subdivision two of section four hundred eighty-three-h of
+this chapter. Such information shall be made available no less than once
+a year; and
+  * NB Effective February 23, 2020
   * (i) exercise such other powers and perform such other duties as may
 be imposed by law.
   * NB Effective March 31, 2022

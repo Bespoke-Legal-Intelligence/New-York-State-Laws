@@ -67,6 +67,16 @@ amended by this chapter, with responsibility to supervise the plan for
 medical assistance as required by title XIX of the federal Social
 Security act, or its successor, and to adopt regulations as may be
 necessary to implement this plan.
+  * (w) make available to the council on children and families
+information, in a format identified by the council, regarding home
+visiting programs that meet the criteria as required by section four
+hundred twenty-nine of the social services law regardless of whether
+such program has a contract with or receive funding from the state. Such
+information shall be provided in accordance with the requirements set
+forth in subdivision two of section four hundred eighty-three-h of the
+social services law. Such information shall be made available no less
+than once a year.
+  * NB Effective February 23, 2020
   2. The department shall continue to exercise all of the functions,
 powers and duties which have been prescribed by law and which are being
 exercised by it when this chapter takes effect together with such

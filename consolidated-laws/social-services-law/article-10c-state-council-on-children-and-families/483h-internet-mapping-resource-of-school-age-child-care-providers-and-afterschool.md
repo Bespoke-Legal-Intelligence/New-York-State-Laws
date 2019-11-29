@@ -4,13 +4,13 @@
 [Social Services Law](../README.md) › [Article 10-C — State Council On Children and Families](README.md)
 
 ```text
-  § 483-h. Internet mapping resource of school age child care providers
-and afterschool programs. 1. The council, in accordance with information
-made available to it by the office of children and family services
-pursuant to section seventeen of this chapter and provided to it by the
-state education department pursuant to section three hundred five of the
-education law, shall develop and make available through a link on its
-website an internet mapping resource of:
+  * § 483-h. Internet mapping resource of school age child care
+providers and afterschool programs. 1. The council, in accordance with
+information made available to it by the office of children and family
+services pursuant to section seventeen of this chapter and provided to
+it by the state education department pursuant to section three hundred
+five of the education law, shall develop and make available through a
+link on its website an internet mapping resource of:
   (a) all recipients of competitive grants awarded or administered by
 the state office of children and family services or the state education
 department for the purpose of providing: afterschool programs or
@@ -31,4 +31,45 @@ program.
 section shall be updated no less than once a year.
   4. The council may include locations and information for additional
 relevant programs as it sees fit.
+  * NB Effective until February 23, 2020
+  * § 483-h. Internet mapping resource of school age child care
+providers and afterschool and home visiting programs. 1. The council, in
+accordance with information made available to it by the office of
+children and family services pursuant to section seventeen of this
+chapter; information provided to the council by the state education
+department pursuant to section three hundred five of the education law;
+and information provided by the department of health pursuant to section
+two hundred one of the public health law, shall develop and make
+available through a link on its website an internet mapping resource of:
+  (a) all recipients of competitive grants awarded or administered by
+the state office of children and family services or the state education
+department for the purpose of providing: afterschool programs or
+extended learning time, including but not limited to grants for such
+purposes awarded under section thirty-six hundred forty-one of the
+education law;
+  (b) all registered school age child care providers registered by the
+office of children and family services except for those who in
+accordance with subdivision eight-a of section three hundred ninety of
+this chapter have opted out of providing information online; and
+  (c) all home visiting programs that meet the criteria as required by
+section four hundred twenty-nine of this chapter regardless of whether
+they have a contract with or receive funding from the state, which
+provide the necessary information to the office of children and family
+services required pursuant to subdivision (i) of section seventeen of
+this chapter, or the department of health as required by paragraph (w)
+of subdivision one of section two hundred one of the public health law.
+  2. The internet mapping resource shall include the following
+information for each grant recipient, provider or program: (a) the
+recipient's, or provider's or program's name; (b), the address at which
+the recipient, provider or program is offered except for those who in
+accordance with subdivision eight-a of section three hundred ninety of
+this chapter have opted out of providing information online,; (c) the
+phone number for the recipient, provider or program; and (d) a general
+description of eligible individuals and families served by the
+particular recipient, provider or program.
+  3. The internet mapping resource described in subdivision one of this
+section shall be updated no less than once a year.
+  4. The council may include locations and information for additional
+relevant programs as it sees fit.
+  * NB Effective February 23, 2020
 ```

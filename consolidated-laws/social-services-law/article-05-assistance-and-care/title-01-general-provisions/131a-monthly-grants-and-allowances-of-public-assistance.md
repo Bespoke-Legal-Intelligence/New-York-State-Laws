@@ -289,10 +289,17 @@ child receiving such aid who is a full-time student;
   (vii) all of the income of a dependent child living with a parent or
 other caretaker relative, who is receiving such aid or for whom an
 application for such aid has been made, which is derived from
-participation in a program carried out under the federal job training
-partnership act (P.L. 97-300) provided, however, that in the case of
-earned income such disregard must be applied for at least, but no longer
-than, six months per calendar year for each such child.
+participation in (i) the summer youth employment program, provided
+however, that in the case of earned income such disregard must be
+applied for at least, but no longer than the length of such program; or
+(ii) a program carried out under the federal job training partnership
+act (P.L. 97-300) or any successor act, provided, however, that in the
+case of earned income such disregard must be applied for at least, but
+no longer than, six months per calendar year for each such child.
+Provided however, a local social services district may exempt all the
+income of an individual, up to the age of twenty-four, which is derived
+from their participation in the summer youth employment program, in
+accordance with clause (i) of this subparagraph;
   (viii) any federal income taxes refunded by reason of section
 thirty-two of the Internal Revenue Code of nineteen hundred eighty-six
 relating to the earned income tax credit or any payment by an employer

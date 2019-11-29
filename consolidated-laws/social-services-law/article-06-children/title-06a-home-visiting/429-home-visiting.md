@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 6-A — Home Visiting](README.md)
 
 ```text
-  § 429. Home visiting.  1. In accordance with a plan developed by the
+  § 429. Home visiting. 1. In accordance with a plan developed by the
 office of children and family services and approved by the director of
 the budget and within the amounts which the director of the budget
 determines should be made available therefor, such office, in
@@ -77,4 +77,15 @@ effective models for providing home visiting services and statutory
 changes which could improve the state's ability to prevent child abuse
 and maltreatment, improve healthy outcomes for families and empower
 families to develop and obtain their self-sufficiency goals.
+  * 8. Any home visiting program that meets the criteria delineated in
+this section as determined by factors set by the office of children and
+family services and the department of health, regardless of whether such
+program contracts with or receives funding from the state, may provide
+the necessary information to such offices as is required by subdivision
+(i) of section seventeen of this chapter or paragraph (w) of subdivision
+one of section two hundred one of the public health law in order for
+their program to be made available on the internet mapping resource
+maintained by the council on children and families pursuant to section
+four hundred eighty-three-h of this chapter.
+  * NB Effective February 23, 2020
 ```

@@ -8,6 +8,7 @@
 - [§ 770 Definitions](770-definitions.md)
 - [§ 771 Contract provisions](771-contract-provisions.md)
 - [§ 771-A Responsibilities of home improvement contractors](771a-responsibilities-of-home-improvement-contractors.md)
+- [§ 771-B Responsibilities of roofing contractors](771b-responsibilities-of-roofing-contractors.md)
 - [§ 772 Penalty for fraud](772-penalty-for-fraud.md)
 - [§ 773 Violations](773-violations.md)
 - [§ 774 Action by the attorney general](774-action-by-the-attorney-general.md)
@@ -20,14 +21,15 @@
 ```text
                               ARTICLE 36-A
                        HOME IMPROVEMENT CONTRACTS
-Section  770.    Definitions.
-         771.    Contract provisions.
-         771-a.  Responsibilities of home improvement contractors.
-         772.    Penalty for fraud.
-         773.    Violations.
-         774.    Action by the attorney general.
-         775.    Applicability.
-         776.    Severability.
+Section 770.   Definitions.
+        771.   Contract provisions.
+        771-a. Responsibilities of home improvement contractors.
+        771-b. Responsibilities of roofing contractors.
+        772.   Penalty for fraud.
+        773.   Violations.
+        774.   Action by the attorney general.
+        775.   Applicability.
+        776.   Severability.
 ```
 
 </details>
