@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-C — Supplemental Tax On Vapor Products](README.md)
 
 ```text
-  * § 1184. Administrative provisions. (a) Except as otherwise provided
+  § 1184. Administrative provisions. (a) Except as otherwise provided
 for in this article, the taxes imposed by this article shall be
 administered and collected in a like manner as and jointly with the
 taxes imposed by sections eleven hundred five and eleven hundred ten of
@@ -39,5 +39,4 @@ article and may furnish to the commissioner of health any such return or
 supply him or her with information concerning an item contained in any
 such return, or disclosed by any investigation of a liability under this
 article.
-  * NB Effective December 1, 2019
 ```

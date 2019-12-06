@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-C — Supplemental Tax On Vapor Products](README.md)
 
 ```text
-  * § 1186. Deposit and disposition of revenue. The taxes, interest, and
+  § 1186. Deposit and disposition of revenue. The taxes, interest, and
 penalties imposed by this article and collected or received by the
 commissioner shall be deposited daily with such responsible banks,
 banking houses or trust companies, as may be designated by the
@@ -25,5 +25,4 @@ control and insurance initiatives pool, a reasonable amount necessary to
 effectuate refunds of appropriations of the department to reimburse the
 department for the costs incurred to administer, collect and distribute
 the taxes imposed by this article.
-  * NB Effective December 1, 2019
 ```

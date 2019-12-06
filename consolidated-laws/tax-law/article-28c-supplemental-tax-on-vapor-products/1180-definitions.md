@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-C — Supplemental Tax On Vapor Products](README.md)
 
 ```text
-  * § 1180. Definitions. For the purposes of the taxes imposed by this
+  § 1180. Definitions. For the purposes of the taxes imposed by this
 article, the following terms shall mean:
   (a) "Vapor product" means any noncombustible liquid or gel, regardless
 of the presence of nicotine therein, that is manufactured in to a
@@ -16,5 +16,4 @@ device, or manufactured and dispensed pursuant to title five-A of
 article thirty-three of the public health law.
   (b) "Vapor products dealer" means a person licensed by the
 commissioner to sell vapor products in this state.
-  * NB Effective December 1, 2019
 ```

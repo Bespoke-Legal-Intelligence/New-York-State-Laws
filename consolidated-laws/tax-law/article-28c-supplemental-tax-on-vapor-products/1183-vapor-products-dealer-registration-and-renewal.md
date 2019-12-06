@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-C — Supplemental Tax On Vapor Products](README.md)
 
 ```text
-  * § 1183. Vapor products dealer registration and renewal. (a) Every
+  § 1183. Vapor products dealer registration and renewal. (a) Every
 person who intends to sell vapor products in this state must receive
 from the commissioner a certificate of registration prior to engaging in
 business. Such person must electronically submit a properly completed
@@ -106,5 +106,4 @@ violation within a period of five years, its vapor products certificate
 or certificates of registration issued to each place of business owned
 or operated by the vapor products dealer in this state, shall be revoked
 for a period of up to five years.
-  * NB Effective December 1, 2019
 ```

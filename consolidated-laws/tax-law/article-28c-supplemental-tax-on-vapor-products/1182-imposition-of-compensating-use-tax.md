@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 28-C — Supplemental Tax On Vapor Products](README.md)
 
 ```text
-  * § 1182. Imposition of compensating use tax. (a) Except to the extent
+  § 1182. Imposition of compensating use tax. (a) Except to the extent
 that vapor products have already been or will be subject to the tax
 imposed by section eleven hundred eighty-one of this article, or are
 otherwise exempt under this article, there is hereby imposed a use tax
@@ -25,5 +25,4 @@ her.
   (c) The tax due pursuant to this section shall be paid and reported no
 later than twenty days after such use on a form prescribed by the
 commissioner.
-  * NB Effective December 1, 2019
 ```

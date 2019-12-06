@@ -17,7 +17,7 @@
 <summary>Official heading of Article 28-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 28-C
+                              ARTICLE 28-C
                    SUPPLEMENTAL TAX ON VAPOR PRODUCTS
 Section 1180. Definitions.
         1181. Imposition of tax.
@@ -26,7 +26,6 @@ Section 1180. Definitions.
         1184. Administrative provisions.
         1185. Criminal penalties.
         1186. Deposit and disposition of revenue.
-  * NB Effective December 1, 2019
 ```
 
 </details>
