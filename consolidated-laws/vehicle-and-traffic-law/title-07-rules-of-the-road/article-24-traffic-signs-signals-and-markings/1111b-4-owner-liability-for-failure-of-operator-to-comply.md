@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1111-B*4", "kind": "section", "law_id": "VAT", "location_id": "1111-B*4", "path": "TITLE 7 › ARTICLE 24 › SECTION 1111-B*4", "repealed": false, "repealed_date": null, "source": "nys-laws:VAT/1111-B_4.md", "title": "Owner liability for failure of operator to comply with traffic-control indications"} -->
+﻿<!-- nyslaw {"citation": "Vehicle and Traffic Law § 1111-B*4", "kind": "section", "law_id": "VAT", "location_id": "1111-B*4", "path": "TITLE 7 › ARTICLE 24 › SECTION 1111-B*4", "repealed": true, "repealed_date": "2019-12-13", "source": "nys-laws:VAT/1111-B_4.md", "title": "Owner liability for failure of operator to comply with traffic-control indications"} -->
 # Vehicle and Traffic Law § 1111-B*4 — Owner liability for failure of operator to comply with traffic-control indications
 
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 24 — Traffic Signs, Signals and Markings](README.md)
+
+**Repealed** (13 Dec 2019). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

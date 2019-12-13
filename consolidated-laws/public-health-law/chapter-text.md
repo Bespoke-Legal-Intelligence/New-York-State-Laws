@@ -212,7 +212,7 @@ Article
   27-J.    Comprehensive care centers for eating disorders
             (§§2799-d--2799-i).
   27-K.    New York Wellness Works (§§2799-o--2799-r).
-  28.      Hospitals (§§2800-2826).
+  28.      Hospitals (§§2800-2827).
   28-A.    Nursing home companies (§§2850-2869).
   28-B.    Hospital mortgage loan construction (§§2870-2883).
   28-C.    Nurse manpower center (§§2890-2892).

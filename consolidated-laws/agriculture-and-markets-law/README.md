@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
-| Sections | 668 |
-| Last changed | 6 Dec 2019 |
+| Sections | 696 |
+| Last changed | 13 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 69 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (100 lines)](chapter-text.md)
+[Full chapter text (101 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [13 Dec 2019](../../changes/2019/2019-12-13.md): 11 amended, 28 added
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 1 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 amended
 - [8 Nov 2019](../../changes/2019/2019-11-08.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [13 Sep 2019](../../changes/2019/2019-09-13.md): 4 amended
 - [6 Sep 2019](../../changes/2019/2019-09-06.md): 1 amended
 - [16 Aug 2019](../../changes/2019/2019-08-16.md): 1 amended
-- [2 Aug 2019](../../changes/2019/2019-08-02.md): 1 amended
 
 ## Contents
 
@@ -108,4 +108,5 @@ Assembly, do enact as follows:
 - [Article 26-B — Animal Response Teams](article-26b-animal-response-teams/)
 - [Article 28 — Special Powers and Duties of the Department With Respect to Retail Food Stores, Food Service Establishments and Food Warehouses](article-28-special-powers-and-duties-of-the-department/)
 - [Article 29 — Growth of Industrial Hemp](article-29-growth-of-industrial-hemp/)
+- [Article 29-A — Regulation of Hemp Extract](article-29a-regulation-of-hemp-extract/)
 - [Article 30 — Saving Clauses; Laws Repealed; When to Take Effect](article-30-saving-clauses-laws-repealed-when-to-take-effect/)

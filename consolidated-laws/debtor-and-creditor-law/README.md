@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | DCD |
 | Type | Consolidated law, chapter 12 |
-| Sections | 193 |
-| Last changed | no change since 22 Sep 2014 (start of history) |
+| Sections | 194 |
+| Last changed | 13 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Debtor & Creditor |
 
@@ -28,6 +28,10 @@ Assembly, do enact as follows:
 ```
 
 [Full chapter text (28 lines)](chapter-text.md)
+
+## Recent changes
+
+- [13 Dec 2019](../../changes/2019/2019-12-13.md): 14 amended, 1 added
 
 ## Contents
 

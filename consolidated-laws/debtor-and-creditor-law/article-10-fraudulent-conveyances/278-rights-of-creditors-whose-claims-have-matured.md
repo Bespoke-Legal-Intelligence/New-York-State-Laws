@@ -4,7 +4,7 @@
 [Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
 
 ```text
-  § 278. Rights of creditors whose claims have matured. 1. Where a
+  * § 278. Rights of creditors whose claims have matured. 1. Where a
 conveyance or obligation is fraudulent as to a creditor, such creditor,
 when his claim has matured, may, as against any person except a
 purchaser for fair consideration without knowledge of the fraud at the
@@ -17,4 +17,20 @@ property conveyed.
   2. A purchaser who without actual fraudulent intent has given less
 than a fair consideration for the conveyance or obligation, may retain
 the property or obligation as security for repayment.
+  * NB Effective until April 4, 2020
+  * § 278. Extinguishment of claim for relief. A claim for relief with
+respect to a transfer or obligation under this article is extinguished
+unless action is brought:
+  (a) under paragraph one of subdivision (a) of section two hundred
+seventy-three of this article, not later than four years after the
+transfer was made or the obligation was incurred or, if later, not later
+than one year after the transfer or obligation was or could reasonably
+have been discovered by the claimant;
+  (b) under paragraph two of subdivision (a) of section two hundred
+seventy-three or subdivision (a) of section two hundred seventy-four of
+this article, not later than four years after the transfer was made or
+the obligation was incurred; or
+  (c) under subdivision (b) of section two hundred seventy-four of this
+article, not later than one year after the transfer was made.
+  * NB Effective April 4, 2020
 ```

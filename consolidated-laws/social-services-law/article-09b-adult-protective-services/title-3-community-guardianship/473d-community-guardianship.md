@@ -66,15 +66,18 @@ department;
 shall have a substantial interest in any corporation, organization or
 entity that provides services to any person for whom the community
 guardian program is conservator or committee;
-  (g) the community guardian program shall obtain annual assessments
-from two qualified psychiatrists or one qualified psychiatrist and one
-qualified psychologist who are independent of the community guardian
-program of persons for whom it serves as committee or conservator to
-determine whether continuation of the guardianship is necessary, and the
-appointing court shall be informed of the results of such assessments
-and may discharge the community guardian program as conservator or
-committee pursuant to sections 77.35 and 78.27 of the mental hygiene
-law;
+  (g) the community guardian program shall obtain annually a statement
+prepared by a physician, psychologist, nurse clinician, or social
+worker, or other person evaluating the condition and functional level of
+a person for whom the community guardian program serves as guardian
+pursuant to paragraph five of subdivision (b) of section 81.31 of the
+mental hygiene law and the appointing court shall be informed of the
+results of such evaluation or examination and may discharge or modify
+the powers of the guardian pursuant to section 81.36 of the mental
+hygiene law. The person conducting the evaluation pursuant to this
+paragraph shall not be affiliated with a community guardian program and
+shall be acting within their lawful scope of practice as established
+under the education law;
   (h) persons hired by the community guardian program to provide
 services to a person for whom the community guardian program has been
 named conservator or committee shall have expertise in one or more of

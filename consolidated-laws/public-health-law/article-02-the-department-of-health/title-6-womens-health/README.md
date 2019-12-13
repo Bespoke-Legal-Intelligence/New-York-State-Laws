@@ -19,7 +19,7 @@
                              WOMEN'S HEALTH
 Section 266.   Department website.
         267.   Feminine hygiene products in schools.
-        268*2. Statement of policy and purposes.
+        268*2. Informational materials concerning menstrual disorders.
   * NB There are 2 A2T6's
 ```
 

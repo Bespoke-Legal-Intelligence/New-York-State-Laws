@@ -44,4 +44,14 @@ and contents of the instruction.
 the provisions of this article, including but not limited to,
 regulations to further define the content and scope of any instruction
 provided to caregivers under this article.
+  4. Discharge of any patients who have a condition that requires a
+central venous line. As part of discharge planning for patients who will
+be discharged from a hospital with a central venous line, the identified
+caregiver shall be consulted as soon as possible, but not later than
+twenty-four hours prior to discharge, regarding his or her capabilities
+and limitations in administering medications and providing proper
+central venous line care. In the event that the identified caregiver is
+unwilling or unable to confidently provide proper care of the central
+venous line, appropriate services, which may include but not be limited
+to home health care services, shall be ordered.
 ```

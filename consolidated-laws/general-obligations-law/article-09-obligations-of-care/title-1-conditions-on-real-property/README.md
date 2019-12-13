@@ -8,6 +8,7 @@
 - [§ 9-101 Liability of receiver of rents and profits appointed in mortgage foreclosure](9-101-liability-of-receiver-of-rents-and-profits-appointed.md)
 - [§ 9-103 No duty to keep premises safe for certain uses; responsibility for acts of such users](9-103-no-duty-to-keep-premises-safe-for-certain-uses-responsibility.md)
 - [§ 9-105 Right of entry for professional land surveyor performing surveying services](9-105-right-of-entry-for-professional-land-surveyor-performing.md)
+- [§ 9-107 Genetically engineered or genetically modified organisms; affirmative defense](9-107-genetically-engineered-or-genetically-modified-organisms.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -15,12 +16,14 @@
 ```text
                                  TITLE 1
                        CONDITIONS ON REAL PROPERTY
-Section 9-101. Liability  of  receiver of rents and profits appointed in
+Section 9-101. Liability of receiver of rents and profits appointed in
                  mortgage foreclosure.
-        9-103. No  duty  to  keep  premises  safe  for   certain   uses;
+        9-103. No duty to keep premises safe for certain uses;
                  responsibility for acts of such users.
-        9-105. Right  of entry for professional land surveyor performing
+        9-105. Right of entry for professional land surveyor performing
                  surveying services.
+        9-107. Genetically engineered or genetically modified organisms;
+                 affirmative defense.
 ```
 
 </details>

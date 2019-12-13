@@ -39,4 +39,9 @@ commission that such alcoholic beverages have not been sold or used.
 four hundred thirty-four of this chapter, in lieu of such refund, may
 take credit therefor on a return filed pursuant to this section, unless
 the tax commission shall withdraw such privilege.
+  5. The commissioner shall provide any brewer, as such term is defined
+in subdivision five of section three of the alcoholic beverage control
+law, or any distiller, as such term is defined in subdivision ten of
+section three of the alcoholic beverage control law, with the option to
+file their tax returns electronically.
 ```

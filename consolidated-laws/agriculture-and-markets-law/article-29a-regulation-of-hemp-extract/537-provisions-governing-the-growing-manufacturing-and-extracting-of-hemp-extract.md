@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 537", "kind": "section", "law_id": "AGM", "location_id": "537", "path": "ARTICLE 29-A › SECTION 537", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/537.md", "title": "Provisions governing the growing, manufacturing and extracting of hemp extract"} -->
+# Agriculture and Markets Law § 537 — Provisions governing the growing, manufacturing and extracting of hemp extract
+
+[Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+```text
+  * § 537. Provisions governing the growing, manufacturing and
+extracting of hemp extract. 1. No licensed cannabinoid grower,
+manufacturer or extractor shall sell, or agree to sell or deliver in the
+state any hemp extract products, as the case may be, except in sealed
+containers containing quantities in accordance with size standards
+pursuant to rules adopted by the department. Such containers shall have
+affixed thereto such labels as may be required by the rules of the
+department.
+  2. Licensed cannabinoid growers shall be prohibited from using
+pesticides.
+  3. All hemp extract products shall be extracted and manufactured in
+accordance with good manufacturing processes, pursuant to Part 111 or
+117 of Title 21 of the Code of Federal Regulations as may be modified
+and decided upon by the commissioner in regulation.
+  4. Within thirty days of the effective date of this article, the
+department shall approve the manufacture, distribution, and sale of
+beverages containing no more than twenty milligrams of cannabidiol per
+twelve ounce beverage. The hemp extract used in such beverages shall be
+grown, extracted and manufactured in the state of New York. The
+department shall issue guidance on the label, warning, point of sale,
+and advertising for such beverages.
+  5. Terpenes derived from the hemp plant are generally recognized as
+safe.
+  * NB Effective March 8, 2020
+```

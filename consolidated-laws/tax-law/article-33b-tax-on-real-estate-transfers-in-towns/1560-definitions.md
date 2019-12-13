@@ -116,7 +116,7 @@ section six-s of the general municipal law.
 is located except in a county having a register, where it means the
 register of the county.
   11. "Designated community" means any town or city within the Hudson
-Valley counties of Putnam or Westchester.
+Valley counties of Putnam, Ulster, or Westchester.
   12. "Treasurer" means the county treasurer.
   13. "Governing body" means the town board of a town; or the board of
 aldermen, common council, council, or commission of a city.

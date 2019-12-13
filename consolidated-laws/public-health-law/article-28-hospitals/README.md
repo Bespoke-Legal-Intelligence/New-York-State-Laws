@@ -134,6 +134,7 @@
 - [§ 2825-E Health care facility transformation program: statewide II](2825e-health-care-facility-transformation-program-statewide-ii.md)
 - [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
+- [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -319,6 +320,7 @@ Section 2800.     Declaration of policy and statement of purpose.
         2825-f.   Health care facility transformation program: statewide
                     III.
         2826.     Temporary adjustment to reimbursement rates.
+        2827.     Plant-based food options.
 ```
 
 </details>

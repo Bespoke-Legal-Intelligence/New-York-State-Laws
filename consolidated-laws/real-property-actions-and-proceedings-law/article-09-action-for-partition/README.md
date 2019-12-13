@@ -46,6 +46,7 @@
 - [§ 981 Costs and expenses](981-costs-and-expenses.md)
 - [§ 991 Proceeding for share of unknown heirs; presumption of death; service](991-proceeding-for-share-of-unknown-heirs-presumption-of-death-service.md)
 - [§ 992 Judgment in proceeding for share of unknown heirs](992-judgment-in-proceeding-for-share-of-unknown-heirs.md)
+- [§ 993 Uniform partition of heirs property act](993-uniform-partition-of-heirs-property-act.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -104,6 +105,7 @@ Section 901. By whom maintainable.
         991. Proceeding for share of unknown heirs; presumption of
                death; service.
         992. Judgment in proceeding for share of unknown heirs.
+        993. Uniform partition of heirs property act.
 ```
 
 </details>
