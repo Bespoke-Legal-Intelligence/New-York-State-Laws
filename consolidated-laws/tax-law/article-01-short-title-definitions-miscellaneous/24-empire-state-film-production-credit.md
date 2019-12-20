@@ -270,14 +270,18 @@ hundred twenty million dollars in each year starting in two thousand ten
 through two thousand twenty-four provided however, seven million dollars
 of the annual allocation shall be available for the empire state film
 post production credit pursuant to section thirty-one of this article in
-two thousand thirteen and two thousand fourteen and twenty-five million
+two thousand thirteen and two thousand fourteen, twenty-five million
 dollars of the annual allocation shall be available for the empire state
 film post production credit pursuant to section thirty-one of this
 article in each year starting in two thousand fifteen through two
-thousand twenty-four. This amount shall be allocated by the governor's
-office for motion picture and television development among taxpayers in
-accordance with subdivision (a) of this section. If the commissioner of
-economic development determines that the aggregate amount of tax credits
+thousand twenty-four and five million dollars of the annual allocation
+shall be made available for the television writers' and directors' fees
+and salaries credit pursuant to section twenty-four-b of this article in
+each year starting in two thousand twenty through two thousand
+twenty-four. This amount shall be allocated by the governor's office for
+motion picture and television development among taxpayers in accordance
+with subdivision (a) of this section. If the commissioner of economic
+development determines that the aggregate amount of tax credits
 available from additional pool 2 for the empire state film production
 tax credit have been previously allocated, and determines that the
 pending applications from eligible applicants for the empire state film

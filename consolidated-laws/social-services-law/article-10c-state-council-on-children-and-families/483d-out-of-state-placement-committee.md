@@ -7,11 +7,11 @@
   § 483-d. Out-of-state placement committee. 1. Committee established.
 There is hereby established within the council an out-of-state placement
 committee comprised of the commissioner of children and family services,
-the commissioner of mental health, the commissioner of mental
-retardation and developmental disabilities, the commissioner of
-education, the commissioner of alcoholism and substance abuse services,
-the commissioner of health, and the director of the office of probation
-and correctional alternatives.
+the commissioner of mental health, the commissioner of the office for
+people with developmental disabilities, the commissioner of education,
+the commissioner of alcoholism and substance abuse services, the
+commissioner of health, and the director of the office of probation and
+correctional alternatives.
   2. Establishment of out-of-state placement registries. (a) Each member
 of the out-of-state placement committee which places or which has
 oversight responsibilities over agencies that place children in

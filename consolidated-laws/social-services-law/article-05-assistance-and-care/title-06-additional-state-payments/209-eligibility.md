@@ -161,15 +161,15 @@ amount of twenty-five dollars a month. Notwithstanding any inconsistent
 provision of subparagraph (ii) of paragraph (d) of subdivision one of
 this section, on or after January first, nineteen hundred eighty-eight,
 a resident of an intermediate care facility operated or issued an
-operating certificate by the office of mental retardation and
-developmental disabilities or a patient of a hospital operated by the
-office of mental health as defined in subdivision ten of section 1.03 of
-the mental hygiene law who is receiving or is eligible to receive
-supplemental security income payments and/or additional state payments
-shall receive a state payment for personal needs in the amount of five
-dollars a month. The department is authorized to promulgate necessary
-regulations to provide for the time and manner for payment of such
-personal allowance to such individuals.
+operating certificate by the office for people with developmental
+disabilities or a patient of a hospital operated by the office of mental
+health as defined in subdivision ten of section 1.03 of the mental
+hygiene law who is receiving or is eligible to receive supplemental
+security income payments and/or additional state payments shall receive
+a state payment for personal needs in the amount of five dollars a
+month. The department is authorized to promulgate necessary regulations
+to provide for the time and manner for payment of such personal
+allowance to such individuals.
   3. As used in subdivision two of this section:
   (a) "Living alone" shall mean living in a private household composed
 of one eligible individual or one eligible couple.
@@ -209,11 +209,11 @@ receiving respite services shall not be deemed to be receiving
 residential care.
   (e) "Receiving enhanced residential care" shall mean residing in a
 privately operated school for the mentally retarded and developmentally
-disabled which is certified by the office of mental retardation and
-developmental disabilities of the department of mental hygiene, in
-accordance with applicable provisions of law and regulations or an adult
-home, or enriched housing program certified by the department of health
-in accordance with applicable law, rules and regulations to the extent
+disabled which is certified by the office for people with developmental
+disabilities of the department of mental hygiene, in accordance with
+applicable provisions of law and regulations or an adult home, or
+enriched housing program certified by the department of health in
+accordance with applicable law, rules and regulations to the extent
 permitted by federal law and regulations.
   4. An eligible individual or an eligible couple shall be entitled to
 receive monthly an additional state payment in an amount equal to the

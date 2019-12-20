@@ -59,9 +59,9 @@ tiered interagency structure, as follows:
   (i) State tier III team. There is hereby established a state team
 designated as the "tier III team", which shall consist of the chair of
 the council, the commissioners of children and family services, mental
-health, health, education, alcohol and substance abuse services, and
-mental retardation and developmental disabilities, and the director of
-the office of probation and correctional alternatives, or their
+health, health, education, alcoholism and substance abuse services, and
+the office for people with developmental disabilities, and the director
+of the office of probation and correctional alternatives, or their
 designated representatives, and representatives of families of children
 with emotional and/or behavioral disorders. Other representatives may be
 added at the discretion of such team.

@@ -508,7 +508,7 @@ law, provided, however, that such APG payment methodology may be phased
 into effect in accordance with a schedule or schedules as jointly
 determined by the commissioner, the commissioner of mental health, the
 commissioner of alcoholism and substance abuse services, and the
-commissioner of mental retardation and developmental disabilities.
+commissioner of the office for people with developmental disabilities.
   (iii) Regulations issued pursuant to this paragraph may incorporate
 quality related measures limiting or excluding reimbursement related to
 potentially preventable conditions and complications; provided however,

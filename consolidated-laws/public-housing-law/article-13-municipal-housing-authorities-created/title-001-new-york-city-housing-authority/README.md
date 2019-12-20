@@ -15,6 +15,7 @@
 - [§ 402-C Notice upon denial of request](402c-notice-upon-denial-of-request.md)
 - [§ 402-C\*2 Notice of pre-termination meeting](402c-2-notice-of-pre-termination-meeting.md)
 - [§ 402-D The governor may issue an executive order, pursuant to article two-B of the executive law and subject to the availability of a state appr...](402d-the-governor-may-issue-an-executive-order.md)
+- [§ 402-E Disruption of vital services](402e-disruption-of-vital-services.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,7 @@ Section 400.     Validation.
         402-c.   Notice upon denial of request.
         402-c*2. Notice of pre-termination meeting.
         402-d.   (Enacted without section heading).
+        402-e.   Disruption of vital services.
 ```
 
 </details>

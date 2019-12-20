@@ -22,6 +22,7 @@
 - [Title 17 — Lead-acid Battery Recycling](title-17-lead-acid-battery/)
 - [Title 18 — Rechargeable Battery Recycling](title-18-rechargeable/)
 - [Title 19 — Waste Tire Management and Recycling](title-19-waste-tire/)
+- [Title 20 — Postconsumer Paint Collection Program](title-20-postconsumer/)
 - [Title 21 — Mercury-added Consumer Products](title-21-mercury-added/)
 - [Title 22 — Food Donation and Food Scraps Recycling](title-22-food-donation/)
 - [Title 23 — Vehicle Dismantling Facilities](title-23-vehicle/)
@@ -56,6 +57,7 @@ Title   1.   Solid and hazardous waste management policy and planning
        17.   Lead-acid battery recycling
        18.   Rechargeable battery recycling
        19.   Waste tire management and recycling
+       20.   Postconsumer paint collection program
        21.   Mercury-added consumer products
        22.   Food donation and food scraps recycling
        23.   Vehicle dismantling facilities

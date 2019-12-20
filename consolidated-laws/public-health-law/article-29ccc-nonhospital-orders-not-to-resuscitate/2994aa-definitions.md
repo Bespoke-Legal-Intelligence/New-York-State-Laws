@@ -59,8 +59,8 @@ registered professional nurses, and registered professional nurses,
 nursing staff and registered physician assistants assigned to the
 general hospital's emergency service.
   12. "Mental hygiene facility" means a residential facility operated or
-licensed by the office of mental health or the office of mental
-retardation and developmental disabilities.
+licensed by the office of mental health or the office for people with
+developmental disabilities.
   13. "Nonhospital order not to resuscitate" means an order that directs
 emergency medical services personnel, hospice personnel and hospital
 emergency services personnel not to attempt cardiopulmonary

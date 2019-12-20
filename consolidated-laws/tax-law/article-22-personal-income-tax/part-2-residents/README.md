@@ -24,6 +24,7 @@
 - [§ 625 Gift for fish and wildlife management](625-gift-for-fish-and-wildlife-management.md)
 - [§ 625-A Gifts to food banks](625a-gifts-to-food-banks.md)
 - [§ 626 The United States Olympic Committee/Lake Placid Olympic Training Center Fund](626-the-united-states-olympic-committee-lake-placid-olympic-training-center-fund.md)
+- [§ 626-A Gift for home delivered meals for seniors](626a-gift-for-home-delivered-meals-for-seniors.md)
 - [§ 627 Gift for breast cancer research and education](627-gift-for-breast-cancer-research-and-education.md)
 - [§ 627-A Gift for honor and remembrance of veterans](627a-gift-for-honor-and-remembrance-of-veterans.md)
 - [§ 627-B Gift for assisting homeless veterans](627b-gift-for-assisting-homeless-veterans.md)
@@ -76,6 +77,7 @@ Section 611.     New York taxable income of a resident individual.
         625-a.   Gifts to food banks.
         626.     The United States Olympic Committee/Lake Placid Olympic
                    Training Center Fund.
+        626-a.   Gift for home delivered meals for seniors.
         627.     Gift for breast cancer research and education.
         627-a.   Gift for honor and remembrance of veterans.
         627-b.   Gift for assisting homeless veterans.

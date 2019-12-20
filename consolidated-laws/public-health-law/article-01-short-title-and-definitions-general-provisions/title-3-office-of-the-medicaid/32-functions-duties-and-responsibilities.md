@@ -12,16 +12,16 @@ and may prescribe their duties and fix their compensation within the
 amounts appropriated therefor;
   2. to conduct and supervise activities to prevent, detect and
 investigate medical assistance program fraud and abuse amongst the
-following: the department; the offices of mental health, mental
-retardation and developmental disabilities, alcoholism and substance
-abuse services, temporary disability assistance, and children and family
-services;
+following: the department; the offices of mental health, alcoholism and
+substance abuse services, temporary disability assistance, and children
+and family services and the office for people with developmental
+disabilities;
   3. to coordinate, to the greatest extent possible, activities to
 prevent, detect and investigate medical assistance program fraud and
 abuse amongst the following: the department; the offices of mental
-health, mental retardation and developmental disabilities, alcoholism
-and substance abuse services, temporary disability assistance, and
-children and family services; the commission on quality of care and
+health, alcoholism and substance abuse services, temporary disability
+assistance, and children and family services and the office for people
+with developmental disabilities; the commission on quality of care and
 advocacy for persons with disabilities; the department of education; the
 fiscal agent employed to operate the medical assistance information and
 payment system; local governments and entities; and to work in a

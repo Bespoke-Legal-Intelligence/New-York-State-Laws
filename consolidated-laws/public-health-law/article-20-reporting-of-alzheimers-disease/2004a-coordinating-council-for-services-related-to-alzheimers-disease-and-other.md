@@ -17,9 +17,9 @@ disease and services for persons with incurable dementia.
 the commissioner of health, the director of the state office for the
 aging, the commissioner of children and family services, the
 commissioner of education, the commissioner of mental health and the
-commissioner of mental retardation and developmental disabilities who
-shall serve ex officio and who may designate representatives to act on
-their behalf.  The governor shall appoint seven other members with
+commissioner of the office for people with developmental disabilities
+who shall serve ex officio and who may designate representatives to act
+on their behalf.  The governor shall appoint seven other members with
 expertise in Alzheimer's disease, other dementia or elder care issues,
 at least two of whom shall represent not-for-profit corporations whose
 primary purpose is to provide access to experts in the care of persons

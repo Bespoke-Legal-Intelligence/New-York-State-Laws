@@ -529,7 +529,7 @@ is entitled to a personal needs allowance as follows:
 care facility, as defined by section twenty-eight hundred one of the
 public health law, the amount of fifty-five dollars per month;
   (B) for the personal expenses of a resident of an intermediate care
-facility operated or licensed by the office of mental retardation and
+facility operated or licensed by the office for people with
 developmental disabilities or a patient of a hospital operated by the
 office of mental health, as defined by subdivision ten of section 1.03
 of the mental hygiene law, the amount of thirty-five dollars per month.
@@ -540,7 +540,7 @@ is entitled to a personal needs allowance as follows:
 care facility, as defined by section twenty-eight hundred one of the
 public health law, the amount of fifty dollars per month;
   (B) for the personal expenses of a resident of an intermediate care
-facility operated or licensed by the office of mental retardation and
+facility operated or licensed by the office for people with
 developmental disabilities or a patient of a hospital operated by the
 office of mental health, as defined by subdivision ten of section 1.03
 of the mental hygiene law, the amount of thirty-five dollars per month.
@@ -1629,9 +1629,9 @@ for such assistance;
 than in an intermediate care facility for the developmentally disabled;
 and
   (ix) meet such other criteria as may be established by the
-commissioner of health, in conjunction with the commissioner of mental
-retardation and developmental disabilities, as may be necessary to
-administer the provisions of this subdivision in an equitable manner,
+commissioner of health, in conjunction with the commissioner of the
+office for people with developmental disabilities, as may be necessary
+to administer the provisions of this subdivision in an equitable manner,
 including those criteria established pursuant to paragraph d of this
 subdivision.
   c. For purposes of this subdivision, persons who "demonstrate complex
@@ -1642,7 +1642,7 @@ medical devices, nursing care, monitoring or prescribed medical therapy
 for the maintenance of life over a period expected to extend beyond
 twelve months.
   d. The commissioner of health, in conjunction with the commissioner of
-mental retardation and developmental disabilities, shall establish
+the office for people with developmental disabilities, shall establish
 selection criteria to ensure that participants are those who are most in
 need and reflect an equitable geographic distribution. Such selection
 criteria shall include, but not be limited to, the imminent risk of
@@ -1650,15 +1650,15 @@ institutionalization, the financial burden imposed upon the family as a
 result of the child's health care needs, and the level of stress within
 the family unit due to the unrelieved burden of caring for the child at
 home.
-  e. Social services districts, in consultation with the office of
-mental retardation and developmental disabilities, shall assess the
-eligibility of persons in accordance with the provisions of paragraph b
-of this subdivision, as well as the selection criteria established by
-the commissioner of health and the commissioner of mental retardation
-and developmental disabilities as required by paragraph d of this
+  e. Social services districts, in consultation with the office for
+people with developmental disabilities, shall assess the eligibility of
+persons in accordance with the provisions of paragraph b of this
+subdivision, as well as the selection criteria established by the
+commissioner of health and the commissioner of the office for people
+with developmental disabilities as required by paragraph d of this
 subdivision.
   f. The commissioner of health, in conjunction with the commissioner of
-mental retardation and developmental disabilities, shall designate
+the office for people with developmental disabilities, shall designate
 persons to assess the eligibility of persons under consideration for
 participation in the waiver program. Persons designated by such
 commissioners may include the person's physician, a representative of
@@ -1670,14 +1670,14 @@ developmental, habilitation and environmental needs of the person and
 shall serve as the basis for the development and provision of an
 appropriate plan of care for such person.
   g. Prior to a person's participation in the waiver program, the office
-of mental retardation and developmental disabilities shall undertake or
-arrange for the development of a written plan of care for the provision
-of services consistent with the level of care determined by the
-assessment, in accordance with criteria established by the commissioner
-of health, in consultation with the commissioner of mental retardation
-and developmental disabilities. Such plan of care shall be reviewed by
-such commissioners prior to the provision of services pursuant to the
-waiver program.
+for people with developmental disabilities shall undertake or arrange
+for the development of a written plan of care for the provision of
+services consistent with the level of care determined by the assessment,
+in accordance with criteria established by the commissioner of health,
+in consultation with the commissioner of the office for people with
+developmental disabilities. Such plan of care shall be reviewed by such
+commissioners prior to the provision of services pursuant to the waiver
+program.
   h. Home and community-based services which may be provided to persons
 specified in paragraph b of this subdivision shall, in addition to those
 services otherwise authorized, include (i) case management services;
@@ -1685,8 +1685,8 @@ services otherwise authorized, include (i) case management services;
 and community-based services, other than room and board, as may be
 approved by the secretary of the federal department of health and human
 services.
-  i. The office of mental retardation and developmental disabilities
-shall designate who may provide the home and community-based services
+  i. The office for people with developmental disabilities shall
+designate who may provide the home and community-based services
 identified in paragraph h of this subdivision, subject to the approval
 of the commissioner of health.
   j. Notwithstanding any other provision of this chapter other than
@@ -1696,20 +1696,20 @@ specified in paragraph b of this subdivision, the income and resources
 of a responsible relative shall not be deemed available for as long as
 the person meets the criteria specified in this subdivision.
   k. Before a person may participate in the waiver program specified in
-paragraph a of this subdivision, the office of mental retardation and
+paragraph a of this subdivision, the office for people with
 developmental disabilities shall determine that there is a reasonable
 expectation that the annual medical assistance expenditures for such
 person under the waiver would not exceed the expenditures for care in an
 intermediate care facility for the developmentally disabled that would
 have been made had the waiver not been granted.
   l. The commissioner of health, in conjunction with the commissioner of
-mental retardation and developmental disabilities, shall review the
+the office for people with developmental disabilities, shall review the
 plans of care and expenditure estimates prior to the participation of
 any person in the waiver program.
   m. Within one year of federal waiver approval, and on an annual basis
 thereafter, until such time as the waiver program is fully implemented,
-the commissioner of health, in conjunction with the commissioner of
-mental retardation and developmental disabilities, shall report on the
+the commissioner of health, in conjunction with the commissioner of the
+office for people with developmental disabilities, shall report on the
 status of the waiver program to the governor and the legislature. Such
 report shall specify the number of children participating in the waiver
 program, the geographic distribution of those so participating, health

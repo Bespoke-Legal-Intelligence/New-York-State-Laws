@@ -364,9 +364,8 @@ defined in paragraph (d) of this subdivision with the exception of:
 been required to spend all of their income for medical care, except
 their personal needs allowance or residents of community based
 residential facilities licensed by the office of mental health or the
-office of mental retardation and developmental disabilities who have
-been required to spend all of their income, except their personal needs
-allowance;
+office for people with developmental disabilities who have been required
+to spend all of their income, except their personal needs allowance;
   (iv) individuals enrolled in health maintenance organizations or other
 entities which provide comprehensive health services, or other managed
 care programs for services covered by such programs, except that such

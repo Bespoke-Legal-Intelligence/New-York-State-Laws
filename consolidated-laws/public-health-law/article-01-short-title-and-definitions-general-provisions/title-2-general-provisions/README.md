@@ -22,6 +22,7 @@
 - [§ 18 Access to patient information](18-access-to-patient-information.md)
 - [§ 18\*2 Registration and notification of boards of directors or trustees of certain voluntary, not-for-profit facilities or corporations](18-2-registration-and-notification-of-boards.md)
 - [§ 18-A Disclosure of information](18a-disclosure-of-information.md)
+- [§ 18-B Procedures in the course of education or training; consent](18b-procedures-in-the-course-of-education-or-training.md)
 - [§ 19 Reasonable charges for medicare beneficiaries](19-reasonable-charges-for-medicare-beneficiaries.md)
 - [§ 20 Accelerated death benefits](20-accelerated-death-benefits.md)
 - [§ 22 Health-related legal services program](22-health-related-legal-services-program.md)
@@ -54,6 +55,8 @@ Section 10.   Legal presumptions; evidence.
                 trustees of certain voluntary, not-for-profit facilities
                 or corporations.
         18-a. Disclosure of information.
+        18-b. Procedures in the course of education or training;
+                consent.
         19.   Reasonable charges for medicare beneficiaries.
         20.   Accelerated death benefits.
         22.   Health-related legal services program.

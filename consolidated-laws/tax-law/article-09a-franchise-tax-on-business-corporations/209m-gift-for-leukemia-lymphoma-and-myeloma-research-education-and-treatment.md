@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 9-A — Franchise Tax On Business Corporations](README.md)
 
 ```text
-  § 209-M. Gift for leukemia, lymphoma and myeloma research, education
+  * § 209-M. Gift for leukemia, lymphoma and myeloma research, education
 and treatment. Effective for any tax year commencing on or after January
 first, two thousand twenty, a taxpayer in any taxable year may elect to
 contribute to the support of the leukemia, lymphoma and myeloma
@@ -17,4 +17,5 @@ collected pursuant to this section shall be credited to the leukemia,
 lymphoma and myeloma research, education and treatment fund and shall be
 used only for those purposes enumerated in section ninety-seven-ssss of
 the state finance law.
+  * NB There are 2 § 209-M's
 ```

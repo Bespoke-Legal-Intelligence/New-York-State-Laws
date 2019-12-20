@@ -120,9 +120,9 @@ medical certainty. For the purpose of this article, cardiopulmonary
 resuscitation is presumed to be life-sustaining treatment without the
 necessity of a determination by an attending physician.
   20. "Mental hygiene facility" means a facility operated or licensed by
-the office of mental health or the office of mental retardation and
-developmental disabilities as defined in subdivision six of section 1.03
-of the mental hygiene law.
+the office of mental health or the office for people with developmental
+disabilities as defined in subdivision six of section 1.03 of the mental
+hygiene law.
   21. "Mental illness" means a mental illness as defined in subdivision
 twenty of section 1.03 of the mental hygiene law, and does not include
 dementia, such as Alzheimer's disease, or other disorders related to

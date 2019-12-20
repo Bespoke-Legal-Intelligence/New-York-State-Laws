@@ -21,8 +21,8 @@ education, sports, or recreation;
   (1) providing day services under an operating certificate issued by
 the department;
   (2) providing day treatment under an operating certificate issued by
-the office of mental health or office of mental retardation and
-developmental disabilities; or
+the office of mental health or the office for people with developmental
+disabilities; or
   (D) a kindergarten, pre-kindergarten, or nursery school for children
 three years of age or older, or after-school program for children
 operated by a public school district or by a private school or academy

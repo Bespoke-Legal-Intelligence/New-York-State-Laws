@@ -454,8 +454,8 @@ subdivision to the council on children and families.
   (c) When a child's report is submitted to the council on children and
 families pursuant to this subdivision, the council shall cooperate with
 adult service providers, such as the department of social services, the
-office of mental retardation and developmental disabilities, the office
-of mental health and the office of vocational rehabilitation of the
+office for people with and developmental disabilities, the office of
+mental health and the office of vocational rehabilitation of the
 education department in planning and coordinating such child's return to
 New York state for adult services. The council shall arrange with the
 appropriate state agency for the development of a recommendation of all
@@ -485,8 +485,8 @@ until the thirtieth day of June or until the termination of the school
 year, whichever shall first occur. Such notice shall be in writing and
 shall describe in detail the parent's or guardian's opportunity to
 consent to having such child's name and other information forwarded in a
-report to the commissioner of mental health, commissioner of mental
-retardation and developmental disabilities, commissioner of education or
+report to the commissioner of mental health, commissioner of the office
+for people with developmental disabilities, commissioner of education or
 commissioner of the office of children and family services or their
 designees for the purpose of determining whether such child will likely
 need services after the age of twenty-one and, if so, recommending
@@ -495,23 +495,23 @@ possible adult services.
 notwithstanding section three hundred seventy-two of this article, the
 social services official shall submit a report on such child's possible
 need for services after age twenty-one to the commissioner of mental
-health, commissioner of mental retardation and developmental
+health, commissioner of the office for people with developmental
 disabilities, commissioner of social services or commissioner of
 education or their designees for the development of a recommendation
 pursuant to section 7.37 or 13.37 of the mental hygiene law, section
-three hundred ninety-eight-c of this article or subdivision ten of
-section four thousand four hundred three of the education law. The
-social services official shall determine which commissioner shall
-receive the report by considering the child's handicapping condition. If
-the social services official determines that the child will need adult
-services from the department and such social services official is the
+three hundred ninety-eight-c of this title or subdivision ten of section
+four thousand four hundred three of the education law. The social
+services official shall determine which commissioner shall receive the
+report by considering the child's handicapping condition. If the social
+services official determines that the child will need adult services
+from the department and such social services official is the
 commissioner's designee pursuant to this subdivision and section three
-hundred ninety-eight-c of this article, such social services official
+hundred ninety-eight-c of this title, such social services official
 shall perform the services described in section three hundred
-ninety-eight-c of this article.
+ninety-eight-c of this title.
   (c) A copy of such report shall also be submitted to the department at
 the same time that such report is submitted to the commissioner of
-mental health, commissioner of mental retardation and developmental
+mental health, commissioner of the office for people with developmental
 disabilities or commissioner of education or their designees.
   (d) When the social services official is notified by the commissioner
 who received the report that such state agency is not responsible for

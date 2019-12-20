@@ -5,11 +5,11 @@
 
 ```text
   § 466-a. Agreements. The department shall enter into memorandums of
-understanding with the office of mental health and the office of mental
-retardation and developmental disabilities. The memorandums with the
-office of mental retardation and developmental disabilities and the
-office of mental health shall facilitate access by those offices to
-child care facilities providing transitional care to young adults as may
-be necessary for those offices to meet their responsibilities for
-monitoring the care of the young adults.
+understanding with the office of mental health and the office for people
+with developmental disabilities. The memorandums with the office for
+people with developmental disabilities and the office of mental health
+shall facilitate access by those offices to child care facilities
+providing transitional care to young adults as may be necessary for
+those offices to meet their responsibilities for monitoring the care of
+the young adults.
 ```

@@ -384,7 +384,7 @@ not take effect unless all necessary approvals under federal law and
 regulation have been obtained to receive federal financial participation
 in the costs of health care services provided pursuant to this
 paragraph.
-  (x) lactation counseling services for pregnant and postpartum women
+  * (x) lactation counseling services for pregnant and postpartum women
 when such services are ordered by a physician, registered physician
 assistant, registered nurse practitioner, or licensed midwife and
 provided by a certified lactation consultant, as determined by the
@@ -395,6 +395,26 @@ financial participation in the costs of health care services provided
 pursuant to this paragraph. Nothing in this paragraph shall be construed
 to modify any licensure, certification or scope of practice provision
 under title eight of the education law.
+  * NB Effective until January 1, 2020
+  * (x)(i) lactation counseling services for pregnant and postpartum
+women provided by a qualified lactation care provider, as determined by
+the commissioner of health; provided, however, that the provisions of
+this paragraph shall not take effect unless all necessary approvals
+under federal law and regulation have been obtained to receive federal
+financial participation in the costs of health care services provided
+pursuant to this paragraph. Nothing in this paragraph shall be construed
+to modify any licensure, certification or scope of practice provision
+under title eight of the education law.
+  (ii) For the purposes of this paragraph, the following terms shall
+have the following meanings:
+  (1) "Qualified lactation care provider" shall mean a person who
+possesses current certification as a lactation care provider from a
+certification program accredited by a nationally recognized accrediting
+agency.
+  (2) "Nationally recognized accrediting agency" shall mean a nationally
+recognized accrediting agency designated by the commissioner; provided
+that the commissioner shall designate more than one agency.
+  * NB Effective January 1, 2020
   (y) harm reduction counseling and services to reduce or minimize the
 adverse health consequences associated with drug use, provided by a
 qualified drug treatment program or community-based organization, as
@@ -639,14 +659,13 @@ thresholds or other limitations imposed on such therapy services in
 relation to a chronic condition in clinics certified under article
 twenty-eight of the public health law or article sixteen of the mental
 hygiene law shall be: (i) developed by the department of health in
-concurrence with the office of mental retardation and developmental
-disabilities; and (ii) in accord with nationally recognized professional
-standards. In the event that nationally recognized professional
-standards do not exist, such thresholds shall be based upon the
-reasonably recognized professional standards of those with a specific
-expertise in treating individuals served by clinics certified under
-article twenty-eight of the public health law or article sixteen of the
-mental hygiene law.
+concurrence with the office for people with developmental disabilities;
+and (ii) in accord with nationally recognized professional standards. In
+the event that nationally recognized professional standards do not
+exist, such thresholds shall be based upon the reasonably recognized
+professional standards of those with a specific expertise in treating
+individuals served by clinics certified under article twenty-eight of
+the public health law or article sixteen of the mental hygiene law.
   (b) Prior approval by the department of health of a physical therapy
 evaluation or an occupational therapy evaluation by a qualified
 practitioner practicing within the scope of such practitioner's

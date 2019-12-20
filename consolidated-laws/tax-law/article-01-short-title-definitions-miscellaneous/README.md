@@ -35,6 +35,7 @@
 - [§ 23 Environmental remediation insurance credit](23-environmental-remediation-insurance-credit.md)
 - [§ 24 Empire state film production credit](24-empire-state-film-production-credit.md)
 - [§ 24-A Musical and theatrical production credit](24a-musical-and-theatrical-production-credit.md)
+- [§ 24-B Television writers' and directors' fees and salaries credit](24b-television-writers-and-directors-fees-and-salaries-credit.md)
 - [§ 25 Disclosure of certain transactions and related information](25-disclosure-of-certain-transactions-and-related-information.md)
 - [§ 26 Security training tax credit](26-security-training-tax-credit.md)
 - [§ 27 Suspension of tax-exempt status of terrorist organizations](27-suspension-of-tax-exempt-status-of-terrorist-organizations.md)
@@ -110,6 +111,8 @@ Section  1.   Short title.
         23.   Environmental remediation insurance credit.
         24.   Empire state film production credit.
         24-a. Musical and theatrical production credit.
+        24-b. Television writers' and directors' fees and salaries
+                credit.
         25.   Disclosure of certain transactions and related
                 information.
         26.   Security training tax credit.

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STF |
 | Type | Consolidated law, chapter 56 |
-| Sections | 536 |
-| Last changed | 6 Dec 2019 |
+| Sections | 537 |
+| Last changed | 20 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Finance |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 amended, 1 added
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 1 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 added
 - [18 Oct 2019](../../changes/2019/2019-10-18.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 1 added
 - [19 Jul 2019](../../changes/2019/2019-07-19.md): 4 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 1 amended, 1 added
-- [3 May 2019](../../changes/2019/2019-05-03.md): 1 amended
 
 ## Contents
 

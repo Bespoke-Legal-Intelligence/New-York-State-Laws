@@ -5,8 +5,8 @@
 
 ```text
   § 2979. Rights to be publicized. 1. The commissioners of mental health
-and mental retardation and developmental disabilities shall prepare a
-statement summarizing the rights, duties, and requirements of this
+and the office for people with developmental disabilities shall prepare
+a statement summarizing the rights, duties, and requirements of this
 article and shall require that a copy of such statement:
   (a) be furnished by the hospital to patients or to persons on the
 surrogate list known to the hospital at or prior to the time of

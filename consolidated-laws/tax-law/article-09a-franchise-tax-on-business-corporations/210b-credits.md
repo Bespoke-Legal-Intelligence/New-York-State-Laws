@@ -2555,4 +2555,20 @@ receipt of its certificate of tax credit issued by the commissioner of
 the office of alcoholism and substance abuse services pursuant to
 section 32.38 of the mental hygiene law.
   * NB There are 2 sb 53's
+  54. Television writers' and directors' fees and salaries credit. (a)
+Allowance of credit. A taxpayer who is eligible pursuant to section
+twenty-four-b of this chapter shall be allowed a credit to be computed
+as provided in such section against the tax imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for any taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. Provided, however, that if the
+amount of the credit allowable under this subdivision for any taxable
+year reduces the tax to such amount or if the taxpayer otherwise pays
+tax based on the fixed dollar minimum amount, the excess shall be
+treated as an overpayment of tax to be credited or refunded in
+accordance with the provisions of section one thousand eighty-six of
+this chapter. Provided, further, the provisions of subsection (c) of
+section one thousand eighty-eight of this chapter notwithstanding, no
+interest shall be paid thereon.
 ```

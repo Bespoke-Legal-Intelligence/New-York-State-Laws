@@ -54,11 +54,11 @@ of this chapter; and a report on the operation of the child support
 enforcement program, as required by chapter six hundred eighty-five of
 the laws of nineteen hundred seventy-five;
   (e) work cooperatively with the commissioner of the office of mental
-health and the commissioner of the office of mental retardation and
-developmental disabilities to assist the commissioner of education in
-furnishing integrated employment services to individuals with severe
-disabilities, including the development of an integrated employment
-implementation plan pursuant to article twenty-one of the education law;
+health and the commissioner of the office for people with developmental
+disabilities to assist the commissioner of education in furnishing
+integrated employment services to individuals with severe disabilities,
+including the development of an integrated employment implementation
+plan pursuant to article twenty-one of the education law;
   (f) in conjunction with the commissioner of education, develop and
 annually review a plan to ensure coordination and access to education
 for homeless children, in accordance with the provisions of section

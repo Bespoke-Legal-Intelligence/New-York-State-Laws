@@ -7,8 +7,8 @@
   § 2744. The traumatic brain injury services coordinating council. 1.
 The traumatic brain injury services coordinating council is hereby
 established and shall consist of the following persons or their
-designees: the commissioner, the commissioner of mental retardation and
-developmental disabilities, the office of mental health, the
+designees: the commissioner, the commissioner of the office for people
+with developmental disabilities, the office of mental health, the
 commissioner of education, the commissioner of alcoholism and substance
 abuse services, the commissioner of social services, the state advocate
 for the disabled and the commission on quality of care for the mentally

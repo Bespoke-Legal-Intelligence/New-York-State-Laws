@@ -94,18 +94,18 @@ provided, however, that any such person who, on the fourth day of
 August, nineteen hundred ninety-seven was residing in a residential
 health care facility licensed by the department of health or in a
 residential facility licensed, operated or funded by the office of
-mental health or the office of mental retardation and developmental
-disabilities, and was in receipt of a medical assistance authorization
-based on a finding that he or she was a person permanently residing in
-the United States under color of law shall, if otherwise eligible, be
-eligible for medical assistance and provided, further, that any such
-person who, on the fourth day of August, nineteen hundred ninety-seven,
-was diagnosed as having AIDS, as defined in subdivision one of section
-two thousand seven hundred eighty of the public health law, and was in
-receipt of medical assistance authorization pursuant to title eleven of
-article five of this chapter based on a finding that he or she was a
-person permanently residing in the United States under color of law
-shall, if otherwise eligible, be eligible for medical assistance:
+mental health or the office for people with developmental disabilities,
+and was in receipt of a medical assistance authorization based on a
+finding that he or she was a person permanently residing in the United
+States under color of law shall, if otherwise eligible, be eligible for
+medical assistance and provided, further, that any such person who, on
+the fourth day of August, nineteen hundred ninety-seven, was diagnosed
+as having AIDS, as defined in subdivision one of section two thousand
+seven hundred eighty of the public health law, and was in receipt of
+medical assistance authorization pursuant to title eleven of article
+five of this chapter based on a finding that he or she was a person
+permanently residing in the United States under color of law shall, if
+otherwise eligible, be eligible for medical assistance:
   (i) a qualified alien who entered the United States less than five
 years earlier or for less than five years has had a status within the
 meaning of the term "qualified alien" as defined in section 431 of the

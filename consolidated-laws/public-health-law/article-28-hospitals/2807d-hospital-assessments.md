@@ -31,9 +31,9 @@ volunteer firefighters, and emergency service personnel.
   (c) On and after December first, nineteen hundred ninety-seven, the
 term "general hospital", as used in this section, includes specialty
 hospitals for persons who are developmentally disabled, licensed by the
-office of mental retardation and developmental disabilities and which
-are also issued an operating certificate pursuant to section
-twenty-eight hundred five of this article.
+office for people with developmental disabilities and which are also
+issued an operating certificate pursuant to section twenty-eight hundred
+five of this article.
   2. (a) (i) For general hospitals the overall assessment shall be
 six-tenths of one percent and the assessment shall vary from 0.5% to
 0.675% of each general hospital's gross receipts received from all

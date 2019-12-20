@@ -7,6 +7,7 @@
 
 - [§ 71-3701 Applicability of this title](71-3701-applicability-of-this-title.md)
 - [§ 71-3703 Enforcement of article 37](71-3703-enforcement-of-article-37.md)
+- [§ 71-3705 Enforcement of section 37-0115](71-3705-enforcement-of-section-37-0115.md)
 
 <details>
 <summary>Official heading of Title 37, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
                         ENFORCEMENT OF ARTICLE 37
 Section 71-3701. Applicability of this title.
         71-3703. Enforcement of article 37.
+        71-3705. Enforcement of section 37-0115.
 ```
 
 </details>

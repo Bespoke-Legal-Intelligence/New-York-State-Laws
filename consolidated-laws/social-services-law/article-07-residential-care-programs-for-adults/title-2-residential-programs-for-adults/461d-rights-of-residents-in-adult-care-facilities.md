@@ -51,6 +51,28 @@ incident involving such resident, unless the resident objects.
   (k) Every resident shall have the right to authorize those family
 members and other adults who will be given priority to visit consistent
 with the resident's ability to receive visitors.
+  * (l) Every resident or, in the case of a person who lacks capacity to
+consent to his or her health care, a person legally authorized to
+consent on behalf of the resident, shall have the right to be fully
+informed by his or her physician, or other health or mental health
+provider of his or her medical condition and proposed medication,
+treatment and services, unless medically contraindicated, and to refuse
+medication, treatment or services after being fully informed of the
+consequences of such actions; provided that an operator acting
+reasonably and in good faith, shall not be held liable or penalized for
+complying with the refusal of such medication, treatment or services by
+a resident or, in the case of a person who lacks capacity to consent to
+his or her health care, a person legally authorized to consent on behalf
+of the resident, who has been fully informed of the consequences of such
+refusal.
+  * NB Effective January 12, 2020
+  * (m) Every resident or, in the case of a person who lacks capacity to
+consent to his or her health care, a person legally authorized to
+consent on behalf of the resident, shall have the right to choose the
+resident's own health care providers for services not covered by his or
+her admission agreement, subject to limitations that may apply as a
+result of a resident's third party payor coverage.
+  * NB Effective January 12, 2020
   Waiver of any provision contained within this subdivision by a
 resident of an adult care facility shall be void.
   4. Every resident of a residence for adults, adult home or enriched

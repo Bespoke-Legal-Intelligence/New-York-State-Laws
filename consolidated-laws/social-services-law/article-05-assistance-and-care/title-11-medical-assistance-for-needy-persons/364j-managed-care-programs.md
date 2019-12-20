@@ -67,9 +67,9 @@ disabilities, alcoholism, alcohol abuse or substance abuse, or HIV
 infection/AIDS.
   (l) "Responsible special care agency". Whichever of the following
 state agencies has responsibility for the special care in question: the
-department of health, the office of mental health, the office of mental
-retardation and developmental disabilities, or the office of alcoholism
-and substance abuse services.
+department of health, the office of mental health, the office for people
+with developmental disabilities, or the office of alcoholism and
+substance abuse services.
   (m) "Special needs managed care plan" shall have the same meaning as
 in section forty-four hundred one of the public health law.
   (n) "Comprehensive HIV special needs plan" shall have the same meaning

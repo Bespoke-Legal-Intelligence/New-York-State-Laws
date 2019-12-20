@@ -64,19 +64,19 @@ exercise of subrogation rights by the insurer or plan administrator
 providing such benefits.
   4. Notwithstanding any other provision of law, the commissioner,
 pursuant to a memorandum of understanding with the commissioner of the
-office of mental retardation and developmental disabilities, shall
-develop and submit a medicaid home and community based services waiver,
-pursuant to section 1915c of the social security act, for the purpose of
-creating a waiver program to provide and finance services for children
-who qualify for the early intervention program. In further establishing
-eligibility criteria under the waiver program, the commissioner, in
-conjunction with the commissioner of the office of mental retardation
-and developmental disabilities, shall establish health, developmental
-and psycho-social criteria which shall permit the broadest eligibility
-based on criteria for the early intervention program and federal
-standards for participation in a waiver program. The waiver application
-shall be submitted pursuant to section 1915c of the social security act
-no later than January first, two thousand four.
+office for people with developmental disabilities, shall develop and
+submit a medicaid home and community based services waiver, pursuant to
+section 1915c of the social security act, for the purpose of creating a
+waiver program to provide and finance services for children who qualify
+for the early intervention program. In further establishing eligibility
+criteria under the waiver program, the commissioner, in conjunction with
+the commissioner of the office for people with developmental
+disabilities, shall establish health, developmental and psycho-social
+criteria which shall permit the broadest eligibility based on criteria
+for the early intervention program and federal standards for
+participation in a waiver program. The waiver application shall be
+submitted pursuant to section 1915c of the social security act no later
+than January first, two thousand four.
   5. Notwithstanding any law to the contrary, there is hereby
 established an early intervention demonstration project to be conducted
 in Albany, Montgomery, Rensselaer, Saratoga and Schenectady Counties.

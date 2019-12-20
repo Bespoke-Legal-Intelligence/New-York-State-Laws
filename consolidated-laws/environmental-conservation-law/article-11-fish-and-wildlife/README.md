@@ -18,6 +18,7 @@
 - [Title 17 — Importation and Sale of Fish, Wildlife and Game From Outside the State; Sale of Domestic and Foreign Game and Hatchery Trout; Bird Plumage; Taxidermy](title-17-importation-and-sale-of-fish/)
 - [Title 19 — Propagation; Shooting Preserves; Farm Fish Ponds; Fishing Preserves](title-19-propagation-shooting-preserves-farm/)
 - [Title 20 — New York State Bird Conservation Area Program](title-20-new-york-state-bird-conservation/)
+- [Title 20-A — Marine Mammal and Sea Turtle Protection Area](title-20a-marine-mammal-and-sea-turtle/)
 - [Title 21 — Conservation Areas and Facilities; Private Refuges and Posted Lands](title-21-conservation-areas-and-facilities/)
 - [Title 23 — Administration of Fish and Wildlife Law](title-23-administration-of-fish-and-wildlife/)
 - [Title 25 — Interstate Wildlife Violator Compact](title-25-interstate-wildlife-violator-compact/)
@@ -48,6 +49,7 @@ Title  1. Short title; definitions; general provisions
       19. Propagation; shooting preserves; farm fish ponds; fishing
             preserves
       20. New York state bird conservation area program
+    20-A. Marine mammal and sea turtle protection area
       21. Conservation areas and facilities; private refuges and posted
             lands
       23. Administration of fish and wildlife law

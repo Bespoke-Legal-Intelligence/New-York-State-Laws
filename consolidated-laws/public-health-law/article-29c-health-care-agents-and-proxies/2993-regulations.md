@@ -5,9 +5,9 @@
 
 ```text
   § 2993. Regulations. The commissioner of health, in consultation with
-the commissioners of the office of mental health and the office of
-mental retardation and developmental disabilities, shall establish such
-regulations as may be necessary for the implementation of this article,
-subject to the provisions of subdivision two of section two thousand
-nine hundred ninety-one of this article.
+the commissioners of the office of mental health and the office for
+people with developmental disabilities, shall establish such regulations
+as may be necessary for the implementation of this article, subject to
+the provisions of subdivision two of section two thousand nine hundred
+ninety-one of this article.
 ```

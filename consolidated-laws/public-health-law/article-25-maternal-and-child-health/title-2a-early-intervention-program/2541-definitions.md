@@ -160,8 +160,8 @@ family and service providers, as necessary and appropriate; and
 twenty-five hundred fifty-one of this title.
   17. "State early intervention service agencies" means the departments
 of health, education and social services and the offices of mental
-health, mental retardation and developmental disabilities and office of
-alcoholism and substance abuse services.
+health and alcoholism and substance abuse services and the office for
+people with developmental disabilities.
   18. "Year" shall mean the twelve-month period commencing July first
 unless otherwise specified.
 ```

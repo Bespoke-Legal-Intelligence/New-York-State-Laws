@@ -20,6 +20,26 @@ clinical assessments. Notwithstanding this requirement, nothing in this
 paragraph is intended to result in the hospital charging any amount for
 such services in addition to the applicable charge for the maternity
 inpatient hospital admission.
+  * (c) (i) The commissioner shall provide guidance to hospitals on
+obstetric hemorrhage protocols, in consultation with clinical experts,
+and develop or identify an existing toolkit on obstetric hemorrhage
+management, which may include a hemorrhage care checklist for use by
+hospitals as part of the protocols and guidance on simulation training.
+The commissioner shall report to the temporary president of the senate
+and the speaker of the assembly on data reported to the department under
+this paragraph within two years from the effective date of this
+paragraph, and every two years thereafter.
+  (ii) The hospital shall adopt, implement, periodically update and
+submit to the department standard protocols for management of obstetric
+hemorrhage. Such protocols shall address early recognition and
+assessment, readiness to respond in a multidisciplinary manner, and data
+reporting to the department sufficient for the department to monitor and
+report pursuant to this paragraph. Such protocols shall utilize risk
+assessment tools such as the toolkit established or identified by the
+department under this paragraph and shall include a response plan
+providing for the triage and transfer to higher level facilities if
+needed.
+  * NB Effective June 16, 2020
   2. This section shall not limit the mother's option to be discharged
 earlier than the time periods established in subdivision one of this
 section.

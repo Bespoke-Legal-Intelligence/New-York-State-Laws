@@ -13,7 +13,7 @@ provided in subdivision two of this section;
 any, providing victim assistance to the geographic area served by that
 hospital to establish the coordination of non-medical services to sexual
 offense victims who request such coordination and services;
-  (c) offering and making available appropriate HIV post-exposure
+  * (c) offering and making available appropriate HIV post-exposure
 treatment therapies; including a seven day starter pack of HIV
 post-exposure prophylaxis, in cases where it has been determined, in
 accordance with guidelines issued by the commissioner, that a
@@ -24,6 +24,19 @@ the executive law. With the consent of the victim of a sexual assault,
 the hospital emergency room department shall provide or arrange for an
 appointment for medical follow-up related to HIV post-exposure
 prophylaxis and other care as appropriate; and
+  * NB Effective until June 15, 2020
+  * (c) offering and making available appropriate HIV post-exposure
+treatment therapies; including a full regimen of HIV post-exposure
+prophylaxis, in cases where it has been determined, in accordance with
+guidelines issued by the commissioner, that a significant exposure to
+HIV has occurred. With the consent of the victim of a sexual assault,
+the hospital emergency room department shall provide or arrange for an
+appointment for medical follow-up related to HIV post-exposure
+prophylaxis and other care as appropriate, and inform the victim that
+payment assistance for such care may be available from the office of
+victim services pursuant to the provisions of article twenty-two of the
+executive law; and
+  * NB Effective June 15, 2020
   (d) ensuring sexual assault survivors are not billed for sexual
 assault forensic exams and are notified orally and in writing of the
 option to decline to provide private health insurance information and

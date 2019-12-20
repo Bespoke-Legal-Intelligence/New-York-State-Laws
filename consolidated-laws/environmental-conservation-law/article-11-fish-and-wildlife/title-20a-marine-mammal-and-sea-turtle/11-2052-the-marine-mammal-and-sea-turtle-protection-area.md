@@ -1,0 +1,28 @@
+﻿<!-- nyslaw {"citation": "Environmental Conservation Law § 11-2052", "kind": "section", "law_id": "ENV", "location_id": "11-2052", "path": "ARTICLE 11 › TITLE 20-A › SECTION 11-2052", "repealed": false, "repealed_date": null, "source": "nys-laws:ENV/11-2052.md", "title": "The marine mammal and sea turtle protection area advisory committee"} -->
+# Environmental Conservation Law § 11-2052 — The marine mammal and sea turtle protection area advisory committee
+
+[Environmental Conservation Law](../../README.md) › [Article 11 — Fish and Wildlife](../README.md) › [Title 20-A — Marine Mammal and Sea Turtle Protection Area](README.md)
+
+```text
+* § 11-2052. The marine mammal and sea turtle protection area advisory
+               committee.
+  There shall be created within the department the marine mammal and sea
+turtle protection area advisory committee whose non-governmental members
+shall serve without pay, meet not less than twice each year, and whose
+sole purpose shall be to advise as to the management, educational
+research and utilization of the marine mammal and sea turtle protection
+area. Provided, however, the utilization of such area shall be
+consistent with the mission of the department pursuant to section
+11-2050 of this title. In addition to representatives of the department,
+the advisory committee shall consist of, but not be limited to one
+representative each from the department of state, the marine resources
+advisory board, the office of parks, recreation and historic
+preservation, the state museum, American museum of natural history,
+Cornell laboratory of ornithology, environmental groups, marine
+education and research groups, the dean of the marine sciences research
+center at Stony Brook, the Suffolk county executive, and the town
+supervisors of Southold and Brookhaven. The commissioner may appoint
+additional members as appropriate, who shall serve at his or her
+pleasure.
+  * NB Repealed April 1, 2030
+```

@@ -9,14 +9,14 @@ care.  1. Any inconsistent provision of this chapter or other law
 notwithstanding, the department shall be responsible for furnishing
 public assistance and care to mentally disabled persons residing in
 family care homes licensed by the office of mental health or the office
-of mental retardation and developmental disabilities who are admitted to
-such facilities in accordance with regulations of the office which
-licenses the facility. However, the department may, at its option,
-discharge such responsiblity, in whole or in part, through social
-services districts designated to act as agents of the department. While
-so designated, a social services district shall act as agent of the
-department and shall be entitled to reimbursement as provided in section
-one hundred fifty-three of this chapter.
+for people with developmental disabilities who are admitted to such
+facilities in accordance with regulations of the office which licenses
+the facility. However, the department may, at its option, discharge such
+responsibility, in whole or in part, through social services districts
+designated to act as agents of the department. While so designated, a
+social services district shall act as agent of the department and shall
+be entitled to reimbursement as provided in section one hundred
+fifty-three of this article.
   2. The department shall possess and may exercise like powers and
 perform like duties in respect to the assistance and care of persons in
 family care as social services officials exercise and perform in

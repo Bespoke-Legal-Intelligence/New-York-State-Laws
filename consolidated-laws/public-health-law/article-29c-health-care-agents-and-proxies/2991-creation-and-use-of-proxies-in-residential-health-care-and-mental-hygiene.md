@@ -15,7 +15,7 @@ created and revoked;
   (c) to help ensure that each resident who creates a proxy while
 residing at the facility does so voluntarily.
   2. Such procedures shall be established in accordance with regulations
-issued by the commissioners of health, mental health, and mental
-retardation and developmental disabilities for facilities subject to
-their respective regulatory authorities.
+issued by the commissioners of health, mental health, and the office for
+people with developmental disabilities for facilities subject to their
+respective regulatory authorities.
 ```

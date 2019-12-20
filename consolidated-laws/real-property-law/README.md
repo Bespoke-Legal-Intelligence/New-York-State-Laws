@@ -7,10 +7,12 @@
 |---|---|
 | Senate code | RPP |
 | Type | Consolidated law, chapter 50 |
-| Sections | 418 |
-| Last changed | 13 Dec 2019 |
+| Sections | 419 |
+| Last changed | 20 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property |
+
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 
 **Short title (from the law itself):** Section 1. Short title. This chapter shall be known as the "Real Property Law."
 
@@ -31,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [20 Dec 2019](../../changes/2019/2019-12-20.md): 2 amended, 1 added
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 2 added
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [25 Oct 2019](../../changes/2019/2019-10-25.md): 1 amended
@@ -40,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Jul 2019](../../changes/2019/2019-07-19.md): 4 amended
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 7 amended, 5 added
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
-- [11 Jan 2019](../../changes/2019/2019-01-11.md): 1 amended
 
 ## Contents
 

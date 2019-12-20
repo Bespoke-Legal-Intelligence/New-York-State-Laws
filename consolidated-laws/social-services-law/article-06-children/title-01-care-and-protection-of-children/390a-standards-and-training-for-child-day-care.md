@@ -89,12 +89,25 @@ stages of the age groups for which the program provides care;
   (v) business record maintenance and management;
   (vi) child abuse and maltreatment identification and prevention;
   (vii) statutes and regulations pertaining to child day care;
-  (viii) statutes and regulations pertaining to child abuse and
+  * (viii) statutes and regulations pertaining to child abuse and
 maltreatment; and
-  (ix) for operators, program directors, employees and assistants of
+  * NB Effective until June 13, 2020
+  * (viii) statutes and regulations pertaining to child abuse and
+maltreatment;
+  * NB Effective June 13, 2020
+  * (ix) for operators, program directors, employees and assistants of
 family day care homes, group family day care homes and child day care
 centers, education and information on the identification, diagnosis and
 prevention of shaken baby syndrome.
+  * NB Effective until June 13, 2020
+  * (ix) for operators, program directors, employees and assistants of
+family day care homes, group family day care homes and child day care
+centers, education and information on the identification, diagnosis and
+prevention of shaken baby syndrome; and
+  * NB Effective June 13, 2020
+  * (x) adverse childhood experiences (ACEs), focused on understanding
+trauma and on nurturing resiliency.
+  * NB Effective June 13, 2020
   (c) For the thirty hours of biennial training required after the
 initial period of licensure or registration, each provider who can
 demonstrate basic competency shall determine in which of the specified

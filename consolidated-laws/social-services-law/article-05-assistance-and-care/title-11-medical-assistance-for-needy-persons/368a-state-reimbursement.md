@@ -95,8 +95,8 @@ hundred per centum of the amount expended for medical assistance for
 those individuals who are eligible pursuant to section three hundred
 sixty-six of this article as a result of a mental disability as
 determined by the commissioner in consultation with the commissioner of
-the office of mental health and the commissioner of the office of mental
-retardation and developmental disabilities and with the approval of the
+the office of mental health and the commissioner of the office for
+people with developmental disabilities and with the approval of the
 director of the budget after first deducting therefrom any federal funds
 properly received or to be received on account thereof.
   (ii) Notwithstanding any other provision of law to the contrary, on
@@ -107,8 +107,8 @@ April first, nineteen hundred ninety-two to the effective date of this
 subparagraph, to cover the medical assistance costs pursuant to this
 paragraph for rehabilitative services for residents of community
 residences licensed or operated by the office of mental health or for
-office of mental retardation and developmental disabilities home and
-community based waiver services.
+the office for people with developmental disabilities home and community
+based waiver services.
   (i) The full amount expended on behalf of the department for medical
 assistance furnished to persons described in subdivision eight of
 section three hundred sixty-five of this article, including the

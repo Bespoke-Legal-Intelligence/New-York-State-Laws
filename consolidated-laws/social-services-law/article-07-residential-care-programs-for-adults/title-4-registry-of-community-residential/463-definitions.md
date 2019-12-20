@@ -11,8 +11,8 @@ subject to licensure by the state which provides a supervised residence
 for mentally, emotionally, physically, or socially disabled persons or
 for persons in need of supervision or juvenile delinquents. This term
 includes, but is not limited to, community residences for the mentally
-disabled operated or licensed by the offices of mental health or mental
-retardation and developmental disabilities or by the divisions of the
+disabled operated or licensed by the office of mental health or office
+for people with developmental disabilities or by the divisions of the
 office of alcoholism and substance abuse, agency operated boarding
 homes, group homes or private proprietary homes for adults operated or
 licensed by the department of social services, group homes operated by,

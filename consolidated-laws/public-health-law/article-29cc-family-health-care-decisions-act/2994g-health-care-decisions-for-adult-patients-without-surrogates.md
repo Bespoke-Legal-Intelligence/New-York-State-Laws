@@ -141,7 +141,9 @@ health care facility or hospice, as applicable, including at least one
 physician or nurse practitioner who is not the patient's attending
 physician or attending nurse practitioner, or a court of competent
 jurisdiction, must review the decision and determine that it is
-consistent with such standards for surrogate decisions.
+consistent with such standards for surrogate decisions. This requirement
+shall not apply to decisions about routine medical treatment. Such
+decisions shall be governed by subdivision three of this section.
   6. Physician or nurse practitioner objection. If a physician or nurse
 practitioner consulted for a concurring opinion objects to an attending
 physician's or attending nurse practitioner's recommendation or

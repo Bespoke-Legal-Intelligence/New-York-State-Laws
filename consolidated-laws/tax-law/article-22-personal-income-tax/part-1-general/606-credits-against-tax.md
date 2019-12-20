@@ -2324,6 +2324,11 @@ care credit (jjj)                    fifty-three of section two hundred
 subsection (jjj)                     subdivision fifty-three of
                                      section two hundred ten-B
   * NB There are 2 clause (xliv)'s
+(xlv) Television writers'            Amount of credit for the sum of
+and directors' fees and salaries     qualified television writers' and
+credit under subsection (v)          directors' salaries credit
+                                     under subdivision fifty-four of
+                                     section two hundred ten-B
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3874,6 +3879,15 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
   ** NB Repealed March 31, 2022
+  (v) Television writers' and directors' fees and salaries credit. (1)
+Allowance of credit. A taxpayer who is eligible pursuant to section
+twenty-four-b of this chapter shall be allowed a credit to be computed
+as provided in such section against the tax imposed by this article.
+  (2) Application of credit. If the amount of the credit allowable under
+this subsection for any taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded as provided in section six hundred eighty-six of
+this article, provided, however, that no interest shall be paid thereon.
   (x) Low-income housing credit. (1) Allowance of credit. A taxpayer
 shall be allowed a credit against the tax imposed by this article with
 respect to the ownership of eligible low-income buildings, computed as

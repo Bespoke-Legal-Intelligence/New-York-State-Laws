@@ -4,7 +4,7 @@
 [Public Housing Law](../README.md) › [Article 6 — Special Taxes In Cities and Certain Villages](README.md)
 
 ```text
-  § 111. Review.  Any such tax may be reviewed by a proceeding under
+  § 111. Review. (a) Any such tax may be reviewed by a proceeding under
 article seventy-eight of the civil practice law and rules and any local
 law or ordinance imposing any such tax or taxes shall include provisions
 making such review available upon reasonable conditions including a
@@ -12,4 +12,11 @@ requirement that application for review be made within thirty days after
 the determination of the amount of the tax or taxes, and that the amount
 of the tax or taxes, interest and penalties and security for costs, be
 first deposited.
+  (b) Any city having a population of one million or more is hereby
+authorized to adopt and amend local laws that provide for the review of
+any such tax in the same manner as the review of the tax on cigarettes
+imposed by such city, including the ability to seek conciliation
+concerning determinations of such tax as well as review of such tax in
+the agency or tribunal authorized to review the tax on cigarettes
+imposed by such city.
 ```

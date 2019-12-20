@@ -8,7 +8,7 @@
 | Senate code | AGM |
 | Type | Consolidated law, chapter 69 |
 | Sections | 696 |
-| Last changed | 13 Dec 2019 |
+| Last changed | 20 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Agriculture & Markets |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [20 Dec 2019](../../changes/2019/2019-12-20.md): 2 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 11 amended, 28 added
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 1 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [20 Sep 2019](../../changes/2019/2019-09-20.md): 4 amended
 - [13 Sep 2019](../../changes/2019/2019-09-13.md): 4 amended
 - [6 Sep 2019](../../changes/2019/2019-09-06.md): 1 amended
-- [16 Aug 2019](../../changes/2019/2019-08-16.md): 1 amended
 
 ## Contents
 

@@ -59,7 +59,7 @@ resuscitation is presumed to be a life sustaining treatment without the
 necessity of a determination by an attending physician.
   10. "Mental hygiene facility" means a residential facility, excluding
 family care homes, operated or licensed by the office of mental health
-or the office of mental retardation and developmental disabilities.
+or the office for people with developmental disabilities.
   11. "Mental illness" means a mental illness as defined in subdivision
 twenty of section 1.03 of the mental hygiene law, provided, however,
 that mental illness shall not include dementia, such as alzheimer's

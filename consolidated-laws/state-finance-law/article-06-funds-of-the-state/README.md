@@ -48,6 +48,7 @@
 - [§ 91-C Special offset fiduciary account](91c-special-offset-fiduciary-account.md)
 - [§ 91-D Recruitment incentive and retention account](91d-recruitment-incentive-and-retention-account.md)
 - [§ 91-F Adult home quality enhancement fund](91f-adult-home-quality-enhancement-fund.md)
+- [§ 91-G Senior wellness in nutrition fund](91g-senior-wellness-in-nutrition-fund.md)
 - [§ 92 Tax stabilization reserve fund](92-tax-stabilization-reserve-fund.md)
 - [§ 92-B Stock transfer tax fund](92b-stock-transfer-tax-fund.md)
 - [§ 92-C State lottery fund](92c-state-lottery-fund.md)
@@ -315,6 +316,7 @@ Section 70.        Classification of funds.
         91-c.      Special offset fiduciary account.
         91-d.      Recruitment incentive and retention account.
         91-f.      Adult home quality enhancement fund.
+        91-g.      Senior wellness in nutrition fund.
         92.        Tax stabilization reserve fund.
         92-b.      Stock transfer tax fund.
         92-c.      State lottery fund.

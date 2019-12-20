@@ -25,7 +25,7 @@
 - [§ 57.00 Sale of bonds](57.00-sale-of-bonds.md)
 - [§ 57.10 Guidelines for sale of bonds and notes on a negotiated basis](57.10-guidelines-for-sale-of-bonds-and-notes-on-a-negotiated-basis.md)
 - [§ 58.00 Notice of sale of bonds](58.00-notice-of-sale-of-bonds.md)
-- [§ 58.10 Electronic public bond sale pilot program](58.10-electronic-public-bond-sale-pilot-program.md) *(repealed)*
+- [§ 58.10 Electronic open auction public bond sale pilot program](58.10-electronic-open-auction-public-bond-sale-pilot-program.md)
 - [§ 59.00 Bids opened publicly; amendments; awards](59.00-bids-opened-publicly-amendments-awards.md)
 - [§ 60.00 Sale of notes](60.00-sale-of-notes.md)
 - [§ 60.10 Sale of obligations to certain banks and trust companies authorized](60.10-sale-of-obligations-to-certain-banks-and-trust-companies-authorized.md)
@@ -66,6 +66,7 @@ Section 50.00   Agency prescribing terms, form and contents of
         57.10   Guidelines for sale of bonds and notes on a negotiated
                   basis.
         58.00   Notice of sale of bonds.
+        58.10   Electronic open auction public bond sale pilot program.
         59.00   Bids opened publicly; amendments; awards.
         60.00   Sale of notes.
         60.10   Sale of obligations to certain banks and trust companies

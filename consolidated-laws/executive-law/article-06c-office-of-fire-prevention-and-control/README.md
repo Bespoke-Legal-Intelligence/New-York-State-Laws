@@ -21,6 +21,7 @@
 - [§ 159 Advisory council for fire prevention and control](159-advisory-council-for-fire-prevention-and-control.md)
 - [§ 159-A Inclusion on the fallen firefighters memorial](159a-inclusion-on-the-fallen-firefighters-memorial.md)
 - [§ 159-C-1 Training; live fire conditions](159c-1-training-live-fire-conditions.md)
+- [§ 159-D Training for fire chiefs](159d-training-for-fire-chiefs.md)
 
 <details>
 <summary>Official heading of Article 6-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -48,6 +49,7 @@ Section 155.     Office of fire prevention and control; creation; state
         159.     Advisory council for fire prevention and control.
         159-a.   Inclusion on the fallen firefighters memorial.
         159-c-1. Training; live fire conditions.
+        159-d.   Training for fire chiefs.
 ```
 
 </details>

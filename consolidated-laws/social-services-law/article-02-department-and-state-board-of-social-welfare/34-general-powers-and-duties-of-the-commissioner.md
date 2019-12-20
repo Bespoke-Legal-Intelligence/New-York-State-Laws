@@ -30,7 +30,7 @@ governmental units, in accordance with law;
 to business, industry and labor to encourage their sponsorship of day
 care centers;
   (h) in consultation with the department of education, the department
-of health, the division for youth, the office of mental retardation and
+of health, the division for youth, the office for people with
 developmental disabilities and the office of mental health, establish
 guidelines for the acceptance by social services officials of notices
 that children in foster care are at risk of educational placements, as

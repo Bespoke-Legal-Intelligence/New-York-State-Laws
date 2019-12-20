@@ -8,7 +8,7 @@
 Committee established. There is hereby established within the council a
 restraint and crisis intervention technique committee comprised of the
 commissioner of children and family services, the commissioner of mental
-health, the commissioner of mental retardation and developmental
+health, the commissioner of the office for people with developmental
 disabilities, the commissioner of education and the commissioner of
 health. The committee shall include at least two representatives of
 statewide and regional provider organizations that represent providers

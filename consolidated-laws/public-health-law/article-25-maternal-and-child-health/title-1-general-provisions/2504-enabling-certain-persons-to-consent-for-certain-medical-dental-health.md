@@ -23,11 +23,12 @@ medical treatment which is sustaining life functions.
   3. Any person who is pregnant may give effective consent for medical,
 dental, health and hospital services relating to prenatal care.
   4. Medical, dental, health and hospital services may be rendered to
-persons of any age without the consent of a parent or legal guardian
-when, in the physician's judgment an emergency exists and the person is
-in immediate need of medical attention and an attempt to secure consent
-would result in delay of treatment which would increase the risk to the
-person's life or health.
+persons of any age without the consent of a parent, legal guardian or
+person possessing a lawful order of custody when, in the physician's
+judgment an emergency exists and the person is in immediate need of
+medical attention and an attempt to secure consent would result in delay
+of treatment which would increase the risk to the person's life or
+health.
   5. Where not otherwise already authorized by law to do so, any person
 in a parental relation to a child as defined in section twenty-one
 hundred sixty-four of this chapter and, (i) a grandparent, an adult

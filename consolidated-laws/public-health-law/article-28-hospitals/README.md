@@ -44,6 +44,9 @@
 - [§ 2803-U Hospital substance use disorder policies and procedures](2803u-hospital-substance-use-disorder-policies-and-procedures.md)
 - [§ 2803-V Lymphedema information distribution](2803v-lymphedema-information-distribution.md)
 - [§ 2803-V\*2 Standing orders for newborn care in a hospital](2803v-2-standing-orders-for-newborn-care-in-a-hospital.md)
+- [§ 2803-W Independent quality monitors for residential health care facilities](2803w-independent-quality-monitors-for-residential-health-care-facilities.md)
+- [§ 2803-X Requirements related to residential health care facilities and related assets](2803x-requirements-related-to-residential-health-care-facilities-and-related-assets.md)
+- [§ 2803-Y Provision of residency agreement](2803y-provision-of-residency-agreement.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
 - [§ 2804-A State task force on clinical practice guidelines and medical technology assessment](2804a-state-task-force-on-clinical-practice-guidelines-and-medical-technology.md)
 - [§ 2805 Approval of hospitals; operating certificates](2805-approval-of-hospitals-operating-certificates.md)
@@ -191,6 +194,11 @@ Section 2800.     Declaration of policy and statement of purpose.
                     procedures.
         2803-v.   Lymphedema information distribution.
         2803-v*2. Standing orders for newborn care in a hospital.
+        2803-w.   Independent quality monitors for residential health
+                    care facilities.
+        2803-x.   Requirements related to residential health care
+                    facilities and related assets.
+        2803-y.   Provision of residency agreement.
         2804.     Units for hospital and health-related affairs.
         2804-a.   State task force on clinical practice guidelines and
                     medical technology assessment.

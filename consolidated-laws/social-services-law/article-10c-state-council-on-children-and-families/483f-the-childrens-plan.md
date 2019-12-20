@@ -12,8 +12,8 @@ six. State child-serving agencies involved in the development of such
 plan shall assist, as needed, with such plan's implementation and such
 agencies shall sign off on all future reports and plans. Such agencies
 shall include, but not be limited to, the office of mental health, the
-office of mental retardation and developmental disabilities, the office
-of alcoholism and substance abuse services, the commission on quality of
+office for people with developmental disabilities, the office of
+alcoholism and substance abuse services, the commission on quality of
 care and advocacy for persons with disabilities, the office of children
 and family services, the state education department, the department of
 health, and the department of probation and correctional alternatives.

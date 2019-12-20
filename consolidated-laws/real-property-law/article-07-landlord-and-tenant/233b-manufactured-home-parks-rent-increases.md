@@ -4,8 +4,8 @@
 [Real Property Law](../README.md) › [Article 7 — Landlord and Tenant](README.md)
 
 ```text
-  § 233-b. Manufactured home parks; rent increases. 1. The provisions of
-this section shall apply to all manufactured homes located in a
+  * § 233-b. Manufactured home parks; rent increases. 1. The provisions
+of this section shall apply to all manufactured homes located in a
 manufactured home park as defined in section two hundred thirty-three of
 this article, however manufactured homes located in manufactured home
 parks that are subject to a regulatory agreement with a governmental
@@ -100,4 +100,5 @@ the court enters a final judgment declaring the rent increases or any
 part thereof unjustifiable and impermissible, the manufactured home park
 owner shall refund the amount of the impermissible increase to each
 tenant household.
+  * NB There are 2 § 233-b's
 ```
