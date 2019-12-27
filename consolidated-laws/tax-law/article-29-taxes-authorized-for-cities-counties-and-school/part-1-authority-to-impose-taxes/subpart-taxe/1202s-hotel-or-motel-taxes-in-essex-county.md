@@ -15,7 +15,7 @@ the term "hotel" or "motel" shall mean and include any facility
 providing lodging on an overnight basis and shall include those
 facilities designated and commonly known as "bed and breakfast" and
 "tourist" facilities.
-  The rates of such tax shall not exceed three percent of the per diem
+  The rates of such tax shall not exceed five percent of the per diem
 rental rate for each room, provided however, that such tax shall not be
 applicable to a permanent resident of a hotel or motel. For the purposes
 of this section the term "permanent resident" shall mean a person

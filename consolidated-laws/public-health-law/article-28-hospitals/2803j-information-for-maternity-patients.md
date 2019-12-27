@@ -63,7 +63,15 @@ in lieu of a leaflet.
 regarding the danger that window blinds pose to children including
 proper installation of blinds, examples of current standards and the
 potential fatal consequences from strangulation posed by window blinds.
+  ** NB There are 2 sb 1-e's
   ** NB Effective March 12, 2020
+  ** 1-e. The informational leaflet shall also include information on
+possible complications from pregnancy that can endanger the life or
+health of the newborn or the mother. The commissioner, in consultation
+with any state or local government maternal mortality review boards,
+shall review and update this information as necessary.
+  * NB There are 2 sb 1-e's
+  * NB Effective June 17, 2020
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

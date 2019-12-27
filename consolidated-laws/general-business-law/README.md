@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,240 |
-| Last changed | 20 Dec 2019 |
+| Sections | 1,253 |
+| Last changed | 27 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (169 lines)](chapter-text.md)
+[Full chapter text (170 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2019](../../changes/2019/2019-12-27.md): 4 amended, 13 added
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 3 amended
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 2 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 3 amended, 1 added
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [18 Oct 2019](../../changes/2019/2019-10-18.md): 2 amended, 1 added
 - [4 Oct 2019](../../changes/2019/2019-10-04.md): 1 amended
 - [27 Sep 2019](../../changes/2019/2019-09-27.md): 1 amended
-- [20 Sep 2019](../../changes/2019/2019-09-20.md): 1 added
 
 ## Contents
 
@@ -76,6 +76,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 11-B — Franchises For the Sale of Motor Fuels](article-11b-franchises-for-the-sale-of-motor-fuels/)
 - [Article 12 — Hotels and Boarding Houses](article-12-hotels-and-boarding-houses/)
 - [Article 12-B — Mercantile Establishments](article-12b-mercantile-establishments/)
+- [Article 12-C — Trampoline Park Safety](article-12c-trampoline-park-safety/)
 - [Article 13 — Silver, Gold and Diamonds](article-13-silver-gold-and-diamonds/)
 - [Article 13-A — Platinum Stamping](article-13a-platinum-stamping/)
 - [Article 13-B — Appraisers of Jewelry, Works of Art, Watches and Objects Made From or Containing Precious Stones or Metals](article-13b-appraisers-of-jewelry-works-of-art-watches/)

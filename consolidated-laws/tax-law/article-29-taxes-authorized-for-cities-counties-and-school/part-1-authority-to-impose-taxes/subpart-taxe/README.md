@@ -38,6 +38,7 @@
 - [§ 1202-E Hotel or motel taxes in Schenectady county](1202e-hotel-or-motel-taxes-in-schenectady.md)
 - [§ 1202-EE Hotel or motel taxes in the town of Woodbury](1202ee-hotel-or-motel-taxes-in-the-town.md)
 - [§ 1202-F Hotel or motel taxes in Tompkins county](1202f-hotel-or-motel-taxes-in-tompkins-county.md)
+- [§ 1202-FF Hotel or motel taxes in Chenango county](1202ff-hotel-or-motel-taxes-in-chenango.md)
 - [§ 1202-G Hotel or motel taxes in Cortland county](1202g-hotel-or-motel-taxes-in-cortland-county.md)
 - [§ 1202-G\*2 Tourist home, inn, hotel or motel taxes in Saratoga county and the city of Saratoga Springs](1202g-2-tourist-home-inn-hotel-or-motel-taxes.md)
 - [§ 1202-G\*3 Hotel or motel taxes in Steuben county](1202g-3-hotel-or-motel-taxes-in-steuben.md)

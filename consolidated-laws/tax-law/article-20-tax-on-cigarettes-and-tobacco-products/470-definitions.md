@@ -5,15 +5,17 @@
 
 ```text
   § 470. Definitions. When used in this article the following words
-shall have the meanings herein indicated:  1. "Cigarette." Any roll for
+shall have the meanings herein indicated: 1. "Cigarette." Any roll for
 smoking made wholly or in part of tobacco or of any other substance,
 irrespective of size or shape and whether or not such tobacco or
 substance is flavored, adulterated or mixed with any other ingredient,
 the wrapper or cover of which is made of paper or any other substance or
-material but is not made in whole or in part of tobacco.
+material but is not made in whole or in part of tobacco. "Cigarette"
+shall not include a research tobacco product.
   2. "Tobacco products." Any cigar, including a little cigar, or
 tobacco, other than cigarettes, intended for consumption by smoking,
-chewing, or as snuff.
+chewing, or as snuff. "Tobacco products" shall not include research
+tobacco products.
   2-a. "Roll-your-own tobacco." Any tobacco product that, because of its
 appearance, type, packaging or labeling, is suitable for use and likely
 to be offered to, or purchased by, consumers as tobacco for making
@@ -107,4 +109,16 @@ intended to be smoked.
 substance containing tobacco (other than any roll of tobacco that is a
 cigarette as defined in subdivision one of this section). "Cigar" shall
 include, except where expressly excluded, any little cigar.
+  20. "Research tobacco product." Anything that would otherwise be
+defined as a tobacco product or cigarette shall not be defined as a
+tobacco product or cigarette if it is made by a manufacturer
+specifically for an accredited college or university, to be held by the
+college or university until sale or transfer to a laboratory, hospital,
+medical center, institute, college or university, or other institution
+for health, scientific, or other research or experimental purposes. A
+research tobacco product shall carry a marking designating it as such
+and indicating it shall only be used for health, scientific, or other
+research or experimental purposes and not be offered for sale, sold, or
+distributed to consumers except as part of the health, scientific, or
+other research or experimental purpose.
 ```

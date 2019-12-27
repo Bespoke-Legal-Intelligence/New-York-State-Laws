@@ -57,6 +57,7 @@ Section 1201.      Taxes administered by cities of one million or more.
         1202-e.    Hotel or motel taxes in Schenectady county.
         1202-ee.   Hotel or motel taxes in the town of Woodbury.
         1202-f.    Hotel or motel taxes in Tompkins county.
+        1202-ff.   Hotel or motel taxes in Chenango county.
         1202-g.    Hotel or motel taxes in Cortland county.
         1202-g*2.  Tourist home, inn, hotel or motel taxes in Saratoga
                      county and the city of Saratoga Springs.

@@ -9,14 +9,25 @@ article, shall have the following meanings, unless the context otherwise
 requires:
   1. "Adult" means any person who is eighteen years of age or older or
 has married.
-  2. "Attending physician" means a physician, selected by or assigned to
-a patient pursuant to hospital policy, who has primary responsibility
+  * 2. "Attending physician" means a physician, selected by or assigned
+to a patient pursuant to hospital policy, who has primary responsibility
 for the treatment and care of the patient. Where more than one physician
 and/or nurse practitioner shares such responsibility, or where a
 physician or nurse practitioner is acting on the attending physician's
 or attending nurse practitioner's behalf, any such physician or nurse
 practitioner may act as an attending physician or attending nurse
 practitioner pursuant to this article.
+  * NB Effective until June 17, 2020
+  * 2. "Attending practitioner" means a physician, nurse practitioner or
+physician assistant, selected by or assigned to a patient pursuant to
+hospital policy, who has primary responsibility for the treatment and
+care of the patient. Where more than one physician, nurse practitioner
+or physician assistant shares such responsibility, or where a physician,
+nurse practitioner or physician assistant is acting on the attending
+practitioner's behalf, any such physician, nurse practitioner or
+physician assistant may act as an attending practitioner pursuant to
+this article.
+  * NB Effective June 17, 2020
   2-a. "Attending nurse practitioner" means a nurse practitioner,
 selected by or assigned to a patient pursuant to hospital policy, who
 has primary responsibility for the treatment and care of the patient.
@@ -30,13 +41,22 @@ regulations promulgated by the commissioner, to restore cardiac function
 or to support ventilation in the event of a cardiac or respiratory
 arrest. Cardiopulmonary resuscitation shall not include measures to
 improve ventilation and cardiac function in the absence of an arrest.
-  4. "Close friend" means any person, eighteen years of age or older,
+  * 4. "Close friend" means any person, eighteen years of age or older,
 who is a close friend of the patient, or a relative of the patient
 (other than a spouse, adult child, parent, brother or sister), who has
 maintained such regular contact with the patient as to be familiar with
 the patient's activities, health, and religious or moral beliefs, and
 who presents a signed statement to that effect to the attending
 physician or attending nurse practitioner.
+  * NB Effective until June 17, 2020
+  * 4. "Close friend" means any person, eighteen years of age or older,
+who is a close friend of the patient, or a relative of the patient
+(other than a spouse, adult child, parent, brother or sister), who has
+maintained such regular contact with the patient as to be familiar with
+the patient's activities, health, and religious or moral beliefs, and
+who presents a signed statement to that effect to the attending
+practitioner.
+  * NB Effective June 17, 2020
   5. "Decision-making capacity" means the ability to understand and
 appreciate the nature and consequences of proposed health care,
 including the benefits and risks of and alternatives to proposed health

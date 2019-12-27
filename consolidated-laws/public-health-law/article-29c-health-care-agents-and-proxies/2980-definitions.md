@@ -9,25 +9,38 @@ article, shall have the following meanings, unless the context otherwise
 requires:
   1. "Adult" means any person who is eighteen years of age or older, or
 is the parent of a child, or has married.
-  2. "Attending physician" means the physician, selected by or assigned
-to a patient, who has primary responsibility for the treatment and care
-of the patient. Where more than one physician shares such
+  * 2. "Attending physician" means the physician, selected by or
+assigned to a patient, who has primary responsibility for the treatment
+and care of the patient. Where more than one physician shares such
 responsibility, or where a physician is acting on the attending
 physician's behalf, any such physician may act as the attending
 physician pursuant to this article.
+  * NB Effective until June 17, 2020
+  * 2. "Attending practitioner" means the physician, physician
+assistant, or nurse practitioner, licensed or certified pursuant to
+title eight of the education law, selected by or assigned to a patient,
+who has primary responsibility for the treatment and care of the
+patient. Where more than one physician, physician assistant, or nurse
+practitioner shares such responsibility, or where a physician, physician
+assistant, or nurse practitioner is acting on the attending
+practitioner's behalf, any such physician, nurse practitioner, or
+physician assistant may act as the attending practitioner pursuant to
+this article.
+  * NB Effective June 17, 2020
   2-a. "Nurse practitioner" means a nurse practitioner certified under
 section sixty-nine hundred ten of the education law, practicing within
 his or her scope of practice.
   2-b. "Psychiatric nurse practitioner" means a nurse practitioner
 certified by the department of education as a psychiatric nurse
 practitioner.
-  2-c. "Attending nurse practitioner" means the nurse practitioner,
+  * 2-c. "Attending nurse practitioner" means the nurse practitioner,
 selected by or assigned to a patient, who has primary responsibility for
 the treatment and care of the patient. Where more than one nurse
 practitioner shares such responsibility, or where a nurse practitioner
 is acting on the attending nurse practitioner's behalf, any such nurse
 practitioner may act as the attending nurse practitioner pursuant to
 this article.
+  * NB Repealed June 17, 2020
   3. "Capacity to make health care decisions" means the ability to
 understand and appreciate the nature and consequences of health care
 decisions, including the benefits and risks of and alternatives to any
@@ -51,12 +64,20 @@ section two thousand eight hundred one of this chapter, and a mental
 hygiene facility as defined in subdivision ten of this section and a
 hospice as defined in subdivision one of section four thousand two of
 this chapter.
-  9-a. "Life-sustaining treatment" means any medical treatment or
+  * 9-a. "Life-sustaining treatment" means any medical treatment or
 procedure without which the patient will die within a relatively short
 time, as determined by an attending physician to a reasonable degree of
 medical certainty. For purposes of this article, cardiopulmonary
 resuscitation is presumed to be a life sustaining treatment without the
 necessity of a determination by an attending physician.
+  * NB Effective until June 17, 2020
+  * 9-a. "Life-sustaining treatment" means any medical treatment or
+procedure without which the patient will die within a relatively short
+time, as determined by an attending practitioner to a reasonable degree
+of medical certainty. For purposes of this article, cardiopulmonary
+resuscitation is presumed to be a life sustaining treatment without the
+necessity of a determination by an attending practitioner.
+  * NB Effective June 17, 2020
   10. "Mental hygiene facility" means a residential facility, excluding
 family care homes, operated or licensed by the office of mental health
 or the office for people with developmental disabilities.
@@ -65,9 +86,15 @@ twenty of section 1.03 of the mental hygiene law, provided, however,
 that mental illness shall not include dementia, such as alzheimer's
 disease or other disorders related to dementia.
   12. "Principal" means a person who has executed a health care proxy.
-  13. "Reasonably available" means that a person to be contacted can be
-contacted with diligent efforts by an attending physician or another
+  * 13. "Reasonably available" means that a person to be contacted can
+be contacted with diligent efforts by an attending physician or another
 person acting on behalf of the attending physician or the hospital.
+  * NB Effective until June 17, 2020
+  * 13. "Reasonably available" means that a person to be contacted can
+be contacted with diligent efforts by an attending practitioner or
+another person acting on behalf of the attending practitioner or the
+hospital.
+  * NB Effective June 17, 2020
   14. "Residential health care facility" means a residential health care
 facility as defined in subdivision three of section two thousand eight
 hundred one of this chapter.

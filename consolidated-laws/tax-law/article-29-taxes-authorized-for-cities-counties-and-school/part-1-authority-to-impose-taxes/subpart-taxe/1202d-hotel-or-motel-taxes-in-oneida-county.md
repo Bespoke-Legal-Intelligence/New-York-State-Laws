@@ -10,7 +10,7 @@ hereby authorized and empowered to adopt and amend local laws imposing
 in such county a tax, in addition to any other tax authorized and
 imposed pursuant to this article, such as the legislature has or would
 have the power and authority to impose upon persons occupying hotel or
-motel rooms in such county. The rates of such tax shall be two percent
+motel rooms in such county. The rates of such tax shall be five percent
 of the per diem rental rate for each room provided, however, such tax
 shall not be applicable to a permanent resident of such hotel or motel.
 For the purposes of this section the term "permanent resident" shall
@@ -107,13 +107,14 @@ filed as provided by law the tax may be assessed at any time.
 section shall be paid into the treasury of the county of Oneida and
 shall be credited to and deposited in the Oneida county trust and agency
 fund; the net collections therefrom shall thereafter be allocated by the
-county legislature of Oneida and shall be used solely for the purpose of
-promoting tourism and conventions by a not-for-profit corporation under
-contract with the county. Promotion of tourism and conventions being
-specifically defined as the retaining of staff for the purpose of
-placing and purchasing of advertising promoting the county, and engaging
-in such other efforts as are designed to induce tourist and convention
-attraction to Oneida county.
+county legislature of Oneida and shall be used for the promotion of
+tourism development, economic development, and other directly related
+and supporting activities by a not-for-profit and/or a public benefit
+corporation under contract with the county. Promotion of tourism and
+conventions being specifically defined as the retaining of staff for the
+purpose of placing and purchasing of advertising promoting the county,
+and engaging in such other efforts as are designed to induce tourist and
+convention attraction to Oneida county.
   (10) Each enactment of a local law may provide for the imposition of a
 hotel or motel tax for a period of time no longer than three years from
 the date of its enactment. Nothing in this section shall prohibit the

@@ -43,6 +43,7 @@
 - [§ 3224-A Standards for prompt, fair and equitable settlement of claims for health care and payments for health care services](3224a-standards-for-prompt-fair-and-equitable-settlement-of-claims-for-health-care.md)
 - [§ 3224-B Rules relating to the processing of health claims and overpayments to physicians](3224b-rules-relating-to-the-processing-of-health-claims-and-overpayments-to-physicians.md)
 - [§ 3224-C Coordination of benefits](3224c-coordination-of-benefits.md)
+- [§ 3224-D Prescription synchronization](3224d-prescription-synchronization.md)
 - [§ 3225 Eligibility for health insurance in cases of exposure to DES](3225-eligibility-for-health-insurance-in-cases-of-exposure-to-des.md)
 - [§ 3226 Reinsurance contracts excepted](3226-reinsurance-contracts-excepted.md)
 - [§ 3227 Interest upon surrenders, policy loans and other funds](3227-interest-upon-surrenders-policy-loans-and-other-funds.md)
@@ -139,6 +140,7 @@ Section 3201.   Approval of life, accident and health, credit
         3224-b. Rules relating to the processing of health claims and
                   overpayments to physicians.
         3224-c. Coordination of benefits.
+        3224-d. Prescription synchronization.
         3225.   Eligibility for health insurance in cases of exposure to
                   DES.
         3226.   Reinsurance contracts excepted.

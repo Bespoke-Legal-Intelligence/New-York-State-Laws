@@ -4,14 +4,14 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  § 1202-e. Hotel or motel taxes in Schenectady county.  (1)
+  § 1202-e. Hotel or motel taxes in Schenectady county. (1)
 Notwithstanding any other provisions of law to the contrary, the county
 of Schenectady is hereby authorized and empowered to adopt and amend
 local laws imposing in such county a tax, in addition to any other tax
 authorized and imposed pursuant to this article, such as the legislature
 has or would have the power and authority to impose upon persons
 occupying hotel or motel rooms in such county. The rates of such tax
-shall be four percent of the per diem rental rate for each room
+shall be five percent of the per diem rental rate for each room
 provided, however, such tax shall not be applicable to a permanent
 resident of such hotel or motel. For the purposes of this section the
 term "permanent resident" shall mean a person occupying any room or

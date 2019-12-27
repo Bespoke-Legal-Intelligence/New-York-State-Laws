@@ -15,7 +15,7 @@ section, the term "hotel" or "motel" shall mean and include any facility
 providing lodging on an overnight basis and shall include those
 facilities designated and commonly known as "bed and breakfast", inns
 and tourist homes.
-  b. (i) The rates of such tax shall not exceed four percent of the per
+  b. (i) The rates of such tax shall not exceed five percent of the per
 diem rental rate for each room, provided however, that such tax shall
 not be applicable to a permanent resident of a hotel or motel. For the
 purposes of this section the term "permanent resident" shall mean a
@@ -124,9 +124,12 @@ filing of a return, provided, however, that where no return has been
 filed as provided by law the tax may be assessed at any time.
   (9) All revenues resulting from the imposition of the tax under the
 local law shall be paid into the treasury of Niagara county and shall be
-credited to and deposited in the general fund of the county, thereafter
-to be allocated and paid to a not-for-profit corporation under contract
-with the county for the promotion of tourism in the county. Provided,
+credited to and deposited as follows: (a) the first four percentum (4%)
+shall be deposited in the general fund of the county thereafter to be
+allocated and paid to a not-for-profit corporation under contract with
+the county for the promotion of tourism in the county; and (b) the
+additional one percentum (1%) of such revenue from this tax shall be
+dedicated to the operation of the Discover Niagara shuttle. Provided,
 however, that such local law shall provide that the county shall be
 authorized to retain up to a maximum of five percent of such revenue to
 defer the necessary expenses of the county in administering such tax.

@@ -12,8 +12,8 @@ is hereby authorized and empowered to adopt and amend local laws
 imposing in such city a tax in addition to any tax authorized and
 imposed pursuant to this article such as the legislature has or would
 have the power and authority to impose on persons occupying hotel and
-motel rooms in such city. The rate of such tax shall be five per centum
-(5%) per day of the rent or charge for each room; provided, however,
+motel rooms in such city. The rate of such tax shall be six per centum
+(6%) per day of the rent or charge for each room; provided, however,
 such tax shall not be applicable to a permanent resident of a hotel. For
 the purposes of this section, the term "permanent resident" shall mean a
 person occupying any room or rooms in a hotel for at least thirty
@@ -106,17 +106,20 @@ filed as provided by law the tax may be assessed at any time.
 act shall be paid into the treasury of the city of Niagara Falls and
 shall be credited to and deposited in the general fund account of such
 city and shall be used only for the promotion of convention activities
-and tourism as follows: (a) from the first four percentum (4%), eighty
+and tourism as follows: (a) from the first four per centum (4%), eighty
 percent of such revenue from this tax shall be allocated and paid to a
 not-for-profit corporation under contract with the county for the
 promotion of tourism in the county; fifteen percent of such revenue
 shall be retained by the city of Niagara Falls for any city purpose; and
-the remaining five percent of said first four percentum (4%) of revenue
+the remaining five percent of said first four per centum (4%) of revenue
 shall be retained by the city of Niagara Falls for administration and
 collection costs; (b) the additional one percentum (1%) of such revenue
-from this tax shall be dedicated to the continuation of a trolley
-service for the purpose of transporting guests of hotels and motels to
-area tourism attractions. The terms "convention activities" and
+from this tax first authorized pursuant to chapter two hundred
+forty-seven of the laws of two thousand six shall be dedicated to the
+continuation of a trolley service for the purpose of transporting guests
+of hotels and motels to area tourism attractions; and (c) an additional
+one per centum (1%) of revenue shall be dedicated to the operation of
+the Discover Niagara shuttle. The terms "convention activities" and
 "tourism" may be defined by a resolution of the city council of the city
 of Niagara Falls.
   (10) If any provision of this section or the application thereof to

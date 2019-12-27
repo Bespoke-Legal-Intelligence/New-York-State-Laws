@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,672 |
-| Last changed | 20 Dec 2019 |
+| Sections | 1,673 |
+| Last changed | 27 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (338 lines)](chapter-text.md)
+[Full chapter text (339 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [27 Dec 2019](../../changes/2019/2019-12-27.md): 37 amended, 1 added
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 25 amended, 4 added
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 1 amended, 1 added
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [8 Nov 2019](../../changes/2019/2019-11-08.md): 1 amended
 - [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 amended
 - [25 Oct 2019](../../changes/2019/2019-10-25.md): 1 amended
-- [11 Oct 2019](../../changes/2019/2019-10-11.md): 3 amended, 2 added
 
 ## Contents
 
@@ -106,6 +106,7 @@ Assembly, do enact as follows:
 - [Article 27-H — The Tick-borne Disease Institute](article-27h-the-tick-borne-disease-institute/)
 - [Article 27-J — Comprehensive Care Centers For Eating Disorders](article-27j-comprehensive-care-centers-for-eating-disorders/)
 - [Article 27-K — New York Wellness Works](article-27k-new-york-wellness-works/)
+- [Article 27-L — Rare Disease Advisory Council](article-27l-rare-disease-advisory-council/)
 - [Article 28 — Hospitals](article-28-hospitals/)
 - [Article 28-A — Nursing Home Companies](article-28a-nursing-home-companies/)
 - [Article 28-B — Hospital Mortgage Loan Construction](article-28b-hospital-mortgage-loan-construction/)

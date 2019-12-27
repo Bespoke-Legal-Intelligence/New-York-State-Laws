@@ -27,10 +27,22 @@ or county authorized to impose the surcharge by this subdivision shall
 be imposed at the rate of thirty cents per month on each wireless
 communications device in service during any part of the month; provided,
 however, that the county of Broome may impose an additional surcharge at
-the rate of one dollar and ten cents per month. The surcharge must be
+the rate of one dollar and ten cents per month; provided, however, that
+the county of Madison may impose an additional surcharge at the rate of
+sixty-five cents per month. The surcharge must be reflected and made
+payable on bills rendered to the wireless communications customer for
+wireless communications service.
+  * NB Effective until July 27, 2029
+  * (b) Such surcharge on wireless communications service provided to a
+wireless communications customer with a place of primary use in a city
+or county authorized to impose the surcharge by this subdivision shall
+be imposed at the rate of thirty cents per month on each wireless
+communications device in service during any part of the month; provided,
+however, that the county of Madison may impose an additional surcharge
+at the rate of sixty-five cents per month. The surcharge must be
 reflected and made payable on bills rendered to the wireless
 communications customer for wireless communications service.
-  * NB Effective until July 27, 2029
+  * NB Effective July 27, 2029 until December 20, 2029
   * (b) Such surcharge on wireless communications service provided to a
 wireless communications customer with a place of primary use in a city
 or county authorized to impose the surcharge by this subdivision shall
@@ -38,23 +50,41 @@ be imposed at the rate of thirty cents per month on each wireless
 communications device in service during any part of the month. The
 surcharge must be reflected and made payable on bills rendered to the
 wireless communications customer for wireless communications service.
-  * NB Effective July 27, 2029
+  * NB Effective December 20, 2029
   * (c) Such surcharge on the retail sale of each prepaid wireless
 communications service, whether or not any tangible personal property is
 sold therewith, shall be imposed at the rate of thirty cents per retail
 sale within a city or county authorized to impose the surcharge by this
 subdivision; provided, however, that the county of Broome may impose an
 additional surcharge at the rate of one dollar and ten cents per retail
-sale. A sale of a prepaid wireless communications service occurs in such
-city or county if the sale takes place at a seller's business location
-in such city or county. If the sale does not take place at the seller's
-place of business, it shall be conclusively determined to take place at
-the purchaser's shipping address in such city or county or, if there is
-no item shipped, at the purchaser's billing address in such city or
-county, or, if the seller does not have that address, at such address
-that reasonably reflects the customer's location at the time of the sale
-of the prepaid wireless communications service.
+sale; provided, however, that the county of Madison may impose an
+additional surcharge at the rate of sixty-five cents per retail sale.  A
+sale of a prepaid wireless communications service occurs in such city or
+county if the sale takes place at a seller's business location in such
+city or county. If the sale does not take place at the seller's place of
+business, it shall be conclusively determined to take place at the
+purchaser's shipping address in such city or county or, if there is no
+item shipped, at the purchaser's billing address in such city or county,
+or, if the seller does not have that address, at such address that
+reasonably reflects the customer's location at the time of the sale of
+the prepaid wireless communications service.
   * NB Effective until July 27, 2029
+  * (c) Such surcharge on the retail sale of each prepaid wireless
+communications service, whether or not any tangible personal property is
+sold therewith, shall be imposed at the rate of thirty cents per retail
+sale within a city or county authorized to impose the surcharge by this
+subdivision; provided, however, that the county of Madison may impose an
+additional surcharge at the rate of sixty-five cents per retail sale. A
+sale of a prepaid wireless communications service occurs in such city or
+county if the sale takes place at a seller's business location in such
+city or county. If the sale does not take place at the seller's place of
+business, it shall be conclusively determined to take place at the
+purchaser's shipping address in such city or county or, if there is no
+item shipped, at the purchaser's billing address in such city or county,
+or, if the seller does not have that address, at such address that
+reasonably reflects the customer's location at the time of the sale of
+the prepaid wireless communications service.
+  * NB Effective July 27, 2029 until December 20, 2029
   * (c) Such surcharge on the retail sale of each prepaid wireless
 communications service, whether or not any tangible personal property is
 sold therewith, shall be imposed at the rate of thirty cents per retail
@@ -68,7 +98,7 @@ there is no item shipped, at the purchaser's billing address in such
 city or county, or, if the seller does not have that address, at such
 address that reasonably reflects the customer's location at the time of
 the sale of the prepaid wireless communications service.
-  * NB Effective July 27, 2029
+  * NB Effective December 20, 2029
   3. Any such local law, ordinance or resolution adopted pursuant to
 this section shall state the amount of the surcharges and the date on
 which both the wireless communications service supplier shall begin to

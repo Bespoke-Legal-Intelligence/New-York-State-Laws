@@ -7,6 +7,7 @@
 
 - [§ 1110 Redemption, generally](1110-redemption-generally.md)
 - [§ 1111 Redemption of residential or farm property in certain tax districts](1111-redemption-of-residential-or-farm-property-in-certain-tax.md)
+- [§ 1111-A Expedited foreclosure proceedings for vacant and abandoned residential real property](1111a-expedited-foreclosure-proceedings-for-vacant-and-abandoned.md)
 - [§ 1112 Redemption of property subject to more than one tax lien](1112-redemption-of-property-subject-to-more-than-one-tax-lien.md)
 - [§ 1113 Redemption of residential property for certain persons deployed by the military in certain tax districts](1113-redemption-of-residential-property-for-certain-persons.md)
 - [§ 1114 Redemption of a partial interest](1114-redemption-of-a-partial-interest.md)
@@ -17,13 +18,16 @@
 ```text
                                  TITLE 2
                                REDEMPTION
-Section 1110. Redemption, generally.
-        1111. Redemption of residential or farm property in certain tax
-                districts.
-        1112. Redemption of property subject to more than one tax lien.
-        1113. Redemption of residential property for certain persons
-                deployed by the military in certain tax districts.
-        1114. Redemption of a partial interest.
+Section 1110.   Redemption, generally.
+        1111.   Redemption of residential or farm property in certain
+                  tax districts.
+        1111-a. Expedited foreclosure proceedings for vacant and
+                  abandoned residential real property.
+        1112.   Redemption of property subject to more than one tax
+                  lien.
+        1113.   Redemption of residential property for certain persons
+                  deployed by the military in certain tax districts.
+        1114.   Redemption of a partial interest.
 ```
 
 </details>

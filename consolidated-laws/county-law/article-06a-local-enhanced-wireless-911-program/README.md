@@ -3,6 +3,8 @@
 
 [County Law](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 325 Definitions](325-definitions.md)
@@ -18,6 +20,7 @@
 - [§ 334 County of Onondaga enhanced 911 emergency telephone system](334-county-of-onondaga-enhanced-911-emergency-telephone-system.md)
 - [§ 335 County of Tompkins enhanced 911 emergency telephone system](335-county-of-tompkins-enhanced-911-emergency-telephone-system.md)
 - [§ 336 County of Broome enhanced 911 emergency telephone system](336-county-of-broome-enhanced-911-emergency-telephone-system.md)
+- [§ 336\*2 County of Madison enhanced 911 emergency telephone system](336-2-county-of-madison-enhanced-911-emergency-telephone-system.md)
 
 <details>
 <summary>Official heading of Article 6-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,6 +46,7 @@ Section 325.   Definitions.
         335.   County of Tompkins enhanced 911 emergency telephone
                  system.
         336.   County of Broome enhanced 911 emergency telephone system.
+        336*2. County of Broome enhanced 911 emergency telephone system.
 ```
 
 </details>

@@ -393,7 +393,10 @@ winery, brewery, farm brewery, cider producer, farm cidery, distillery,
 farm distillery, mead producer, farm meadery, wholesaler, or importer at
 a tasting held in accordance with the alcoholic beverage control law to
 a customer or prospective customer who consumes such wine, beer, cider,
-liquor or mead at such tasting.
+liquor or mead at such tasting. For purposes of this paragraph, a beer
+tasting shall meet the definition set forth in subdivision three-a of
+section fifty-one of the alcoholic beverage control law or paragraph (f)
+of subdivision two of section fifty-one-a of such law.
   (34) Textbooks purchased by full and part time college students for
 their courses; provided, however, that upon purchase such a student
 shall present a valid student identification card, and such a textbook

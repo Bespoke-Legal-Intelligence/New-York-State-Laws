@@ -18,6 +18,7 @@
 - [§ 407 Examinations](407-examinations.md)
 - [§ 408 Licenses; display; renewal; duplicates](408-licenses-display-renewal-duplicates.md)
 - [§ 408-A Trainee](408a-trainee.md)
+- [§ 408-B Domestic violence and sexual assault awareness education](408b-domestic-violence-and-sexual-assault-awareness-education.md)
 - [§ 409 Fees](409-fees.md)
 - [§ 410 Administration](410-administration.md)
 - [§ 411 Denial of license; complaints; notice of hearing](411-denial-of-license-complaints-notice-of-hearing.md)
@@ -49,6 +50,7 @@ Section 400.   Definitions.
         407.   Examinations.
         408.   Licenses; display; renewal; duplicates.
         408-a. Trainee.
+        408-b. Domestic violence and sexual assault awareness education.
         409.   Fees.
         410.   Administration.
         411.   Denial of license; complaints; notice of hearing.

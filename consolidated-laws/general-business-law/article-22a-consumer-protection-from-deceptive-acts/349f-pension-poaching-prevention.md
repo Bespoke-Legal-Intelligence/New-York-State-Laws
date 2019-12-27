@@ -4,8 +4,7 @@
 [General Business Law](../README.md) › [Article 22-A — Consumer Protection From Deceptive Acts and Practices](README.md)
 
 ```text
-  * § 349-f. Pension poaching prevention. 1. For purposes of this
-section:
+  § 349-f. Pension poaching prevention. 1. For purposes of this section:
   (a) The term "veterans' benefits matter" means the preparation,
 presentation, or prosecution of any claim affecting any person who has
 filed or expressed an intent to file a claim for any benefit, program,
@@ -99,5 +98,4 @@ jurisdiction to be invalid, such judgment shall not affect, impair, or
 invalidate the remainder thereof, but shall be confined in its operation
 to the clause, sentence, paragraph or part thereof directly involved in
 the controversy in which such judgment shall have been rendered.
-  * NB Effective December 21, 2019
 ```

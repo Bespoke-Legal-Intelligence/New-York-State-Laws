@@ -17,8 +17,14 @@ may disregard the order if:
 revoked, or that the order has been cancelled; or
   (b) Family members or others on the scene, excluding such personnel,
 object to the order and physical confrontation appears likely; and
-  2. Hospital emergency services physicians and hospital emergency
+  * 2. Hospital emergency services physicians and hospital emergency
 services nurse practitioners may direct that the order be disregarded if
 other significant and exceptional medical circumstances warrant
 disregarding the order.
+  * NB Effective until June 17, 2020
+  * 2. Hospital emergency services physicians and hospital emergency
+services nurse practitioners and physician assistants may direct that
+the order be disregarded if other significant and exceptional medical
+circumstances warrant disregarding the order.
+  * NB Effective June 17, 2020
 ```

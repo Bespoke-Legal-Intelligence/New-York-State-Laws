@@ -88,6 +88,6 @@ effect.
 also be filed with the county clerk of the county of Livingston, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
-  * NB There are 2 § 253-y's
+  * NB There are 3 § 253-y's
   * NB Repealed December 1, 2022
 ```

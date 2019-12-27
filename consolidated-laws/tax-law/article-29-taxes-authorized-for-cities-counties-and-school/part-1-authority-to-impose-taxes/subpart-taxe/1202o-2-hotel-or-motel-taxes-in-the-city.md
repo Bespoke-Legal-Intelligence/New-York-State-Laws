@@ -16,12 +16,12 @@ persons occupying hotel or motel rooms in such county. For the purposes
 of this section, the term "hotel" or "motel" shall mean and include any
 facility providing lodging on an overnight basis and shall include those
 facilities designated and commonly known as "bed and breakfast", inns,
-and tourist homes. The rates of such tax shall not exceed four percent
-of the per diem rental rate for each room, provided, however, that such
-tax shall not be applicable to a permanent resident of a hotel or motel.
-For the purposes of this section the term "permanent resident" shall
-mean a person occupying any room or rooms in a hotel or motel for at
-least fourteen consecutive days.
+and tourist homes. The rates of such tax shall not exceed five percent
+(5%) of the per diem rental rate for each room, provided, however, that
+such tax shall not be applicable to a permanent resident of a hotel or
+motel. For the purposes of this section the term "permanent resident"
+shall mean a person occupying any room or rooms in a hotel or motel for
+at least fourteen consecutive days.
   (2) Such tax may be collected and administered by the city treasurer
 or other fiscal officers of the city of Lockport by such means and in
 such manner as other taxes which are now collected and administered by
@@ -118,11 +118,14 @@ necessary expenses of the city in administering such tax. The revenue
 derived from the tax, after deducting the amount provided for
 administering such tax, as so authorized by local law, shall be
 allocated to enhance the general economy of the city of Lockport as
-follows: twenty-five percent of such revenue from this tax shall be used
-for the promotion of community and economic development in the city of
-Lockport; and the remaining seventy-five percent of said revenue shall
-be allocated and paid to a not-for-profit corporation under contract
-with the county for the promotion of tourism in the county.
+follows: (a) from the first four percent (4%), twenty-five percent of
+such revenue from this tax shall be used for the promotion of community
+and economic development in the city of Lockport; and the remaining
+seventy-five percent of the first four percent (4%) of said revenue
+shall be allocated and paid to a not-for-profit corporation under
+contract with the county for the promotion of tourism in the county; (b)
+the additional one percent (1%) of such revenue from this tax shall be
+dedicated to the operation of the discover Niagara shuttle.
   (10) Each enactment of such a local law may provide for the imposition
 of a hotel or motel tax for a period of time no longer than three years
 from the date of its enactment. Nothing in this section shall prohibit

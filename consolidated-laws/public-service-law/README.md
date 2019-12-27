@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBS |
 | Type | Consolidated law, chapter 48 |
-| Sections | 258 |
-| Last changed | 13 Dec 2019 |
+| Sections | 259 |
+| Last changed | 27 Dec 2019 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Service |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [27 Dec 2019](../../changes/2019/2019-12-27.md): 1 added
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 1 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [30 Aug 2019](../../changes/2019/2019-08-30.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [9 Nov 2018](../../changes/2018/2018-11-09.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 3 amended, 1 added
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 2 amended
-- [22 Dec 2017](../../changes/2017/2017-12-22.md): 1 amended
 
 ## Contents
 

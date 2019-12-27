@@ -16,6 +16,7 @@
 - [§ 714 Protection of critical infrastructure; storage facilities for hazardous substances](714-protection-of-critical-infrastructure-storage-facilities-for-hazardous.md)
 - [§ 716 Protection of critical infrastructure; commercial aviation, petroleum and natural gas fuel transmission facilities and pipelines](716-protection-of-critical-infrastructure-commercial-aviation-petroleum-and-natural.md)
 - [§ 717 Office of interoperable and emergency communications](717-office-of-interoperable-and-emergency-communications.md)
+- [§ 717-A Direct dialing to public service answering points](717a-direct-dialing-to-public-service-answering-points.md)
 - [§ 718 Voluntary surveillance access database](718-voluntary-surveillance-access-database.md)
 
 <details>
@@ -44,6 +45,7 @@ Section 709.   Division of homeland security and emergency services;
                  aviation, petroleum and natural gas fuel transmission
                  facilities and pipelines.
         717.   Office of interoperable and emergency communications.
+        717-a. Direct dialing to public service answering points.
         718.   Voluntary surveillance access database.
 ```
 
