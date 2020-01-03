@@ -8,7 +8,7 @@
 | Senate code | CNT |
 | Type | Consolidated law, chapter 11 |
 | Sections | 400 |
-| Last changed | 27 Dec 2019 |
+| Last changed | 3 Jan 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | County |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [3 Jan 2020](../../changes/2020/2020-01-03.md): 1 amended
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 3 amended, 2 added
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 3 amended, 1 added
 - [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
 - [5 Apr 2019](../../changes/2019/2019-04-05.md): 2 amended
 - [25 Jan 2019](../../changes/2019/2019-01-25.md): 1 amended
-- [11 Jan 2019](../../changes/2019/2019-01-11.md): 3 amended
 
 ## Contents
 

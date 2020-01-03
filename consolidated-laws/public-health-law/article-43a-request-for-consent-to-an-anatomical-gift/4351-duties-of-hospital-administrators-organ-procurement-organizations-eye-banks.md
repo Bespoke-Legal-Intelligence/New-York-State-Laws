@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43-A — Request For Consent to an Anatomical Gift](README.md)
 
 ```text
-  § 4351. Duties of hospital administrators, organ procurement
+  * § 4351. Duties of hospital administrators, organ procurement
 organizations, eye banks and tissue banks. 1. (a) When the death of a
 person in a hospital has occurred or is imminent, the hospital shall
 contact the federally designated organ procurement organization in order
@@ -134,4 +134,5 @@ training of persons who may be designated to perform the request, and
 the procedures to be employed in making it.
   13. The commissioner shall establish such additional regulations as
 are necessary for the implementation of this section.
+  * NB Repealed June 23, 2020
 ```

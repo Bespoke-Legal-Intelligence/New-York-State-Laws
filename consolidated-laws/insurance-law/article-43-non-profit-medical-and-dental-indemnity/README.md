@@ -8,6 +8,7 @@
 - [§ 4301 Organization of corporation; purposes; board of directors](4301-organization-of-corporation-purposes-board-of-directors.md)
 - [§ 4302 Permit and license to do business](4302-permit-and-license-to-do-business.md)
 - [§ 4303 Benefits](4303-benefits.md)
+- [§ 4303-A Prescription synchronization](4303a-prescription-synchronization.md)
 - [§ 4304 Individual contracts](4304-individual-contracts.md)
 - [§ 4305 Group contracts](4305-group-contracts.md)
 - [§ 4306 Required contract provisions](4306-required-contract-provisions.md)
@@ -56,6 +57,7 @@ Section 4301.   Organization of corporation; purposes; board of
                   directors.
         4302.   Permit and license to do business.
         4303.   Benefits.
+        4303-a. Prescription synchronization.
         4304.   Individual contracts.
         4305.   Group contracts.
         4306.   Required contract provisions.

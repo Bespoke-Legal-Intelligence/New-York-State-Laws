@@ -21,7 +21,8 @@
 - [§ 463 Review](463-review.md)
 - [§ 464 Costs and penalties](464-costs-and-penalties.md)
 - [§ 464-A Local laws](464a-local-laws.md)
-- [§ 465 Separability](465-separability.md)
+- [§ 465 License to store or use certain compounds](465-license-to-store-or-use-certain-compounds.md)
+- [§ 466 Separability](466-separability.md)
 
 <details>
 <summary>Official heading of Article 16, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -46,7 +47,8 @@ Section 450.   Application of article.
         463.   Review.
         464.   Costs and penalties.
         464-a. Local laws.
-        465.   Separability.
+        465.   License to store or use certain compounds.
+        466.   Separability.
 ```
 
 </details>

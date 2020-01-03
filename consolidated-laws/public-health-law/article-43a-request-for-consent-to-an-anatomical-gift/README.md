@@ -11,10 +11,11 @@
 <summary>Official heading of Article 43-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE 43-A
+                             * ARTICLE 43-A
                 REQUEST FOR CONSENT TO AN ANATOMICAL GIFT
 Section 4351. Duties of hospital administrators, organ procurement
                 organizations, eye banks and tissue banks.
+  * NB Repealed June 23, 2020
 ```
 
 </details>

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,738 |
-| Last changed | 20 Dec 2019 |
+| Sections | 1,755 |
+| Last changed | 3 Jan 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -29,10 +29,11 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
   Jersey and New York and the commonwealth of Pennsylvania in
 ```
 
-[Full chapter text (103 lines)](chapter-text.md)
+[Full chapter text (105 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [3 Jan 2020](../../changes/2020/2020-01-03.md): 1 amended, 17 added
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 5 amended, 9 added
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 4 amended, 1 added
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended, 1 added
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [20 Sep 2019](../../changes/2019/2019-09-20.md): 2 amended
 - [6 Sep 2019](../../changes/2019/2019-09-06.md): 8 amended
 - [12 Jul 2019](../../changes/2019/2019-07-12.md): 4 amended
-- [7 Jun 2019](../../changes/2019/2019-06-07.md): 1 amended
 
 ## Contents
 
@@ -82,6 +82,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 45 — State Nature and Historical Preserve Trust](article-45-state-nature-and-historical-preserve-trust/)
 - [Article 46 — Albany Pine Bush Preserve Commission](article-46-albany-pine-bush-preserve-commission/)
 - [Article 47 — County and Regional Environmental Management Councils](article-47-county-and-regional-environmental-management/)
+- [Article 48 — Environmental Justice](article-48-environmental-justice/)
 - [Article 49 — Protection of Natural and Man-made Beauty](article-49-protection-of-natural-and-man-made-beauty/)
 - [Article 51 — Inplementation of Environmental Quality Bond Act of 1972](article-51-inplementation-of-environmental-quality-bond-act/)
 - [Article 52 — Implementation of Environmental Quality Bond Act of 1986](article-52-implementation-of-environmental-quality-bond-act/)
@@ -94,3 +95,4 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 71 — Enforcement](article-71-enforcement/)
 - [Article 72 — Environmental Regulatory Program Fees](article-72-environmental-regulatory-program-fees/)
 - [Article 73 — New York State Canal Flood Mitigation Task Force](article-73-new-york-state-canal-flood-mitigation-task-force/)
+- [Article 75 — Climate Change](article-75-climate-change/)

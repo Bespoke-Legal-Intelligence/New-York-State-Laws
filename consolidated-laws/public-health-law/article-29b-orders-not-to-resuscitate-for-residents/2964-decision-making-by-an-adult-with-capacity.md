@@ -39,7 +39,7 @@ specified medical conditions, the attending physician or attending nurse
 practitioner must make a determination, to a reasonable degree of
 medical certainty, that such conditions exist, and include the
 determination in the patient's medical chart.
-  * NB Effective until January 1, 2020
+  * NB Effective until June 17, 2020
   * 2. (a) During hospitalization, an adult with capacity may express a
 decision consenting to an order not to resuscitate orally in the
 presence of at least two witnesses eighteen years of age or older, one

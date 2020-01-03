@@ -4,18 +4,16 @@
 [Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
 
 ```text
-  § 4307. Prohibition of sales and purchases of human organs. 1. It
+  § 4307. Prohibition of sales and purchases of human organs. 1. 1. It
 shall be unlawful for any person to knowingly acquire, receive, or
-otherwise transfer for valuable consideration any human organ for use in
-human transplantation. The term human organ means the human kidney,
-liver, heart, lung, bone marrow, and any other human organ or tissue as
-may be designated by the commissioner but shall exclude blood. The term
-"valuable consideration" does not include the reasonable payments
-associated with the removal, transportation, implantation, processing,
-preservation, quality control, and storage of a human organ or the
-expenses of travel, housing, and lost wages incurred by the donor of a
-human organ in connection with the donation of the organ. Any person who
-violates this section shall be guilty of a class E felony.
+otherwise transfer for valuable consideration any part for use in human
+transplantation. The term "valuable consideration" does not include the
+reasonable payments associated with the removal, transportation,
+implantation, processing, preservation, quality control, and storage of
+a part or the expenses of travel, housing, and lost wages incurred by
+the donor of a human organ in connection with the donation of the organ
+or human paired organ donation. Any person who violates this section
+shall be guilty of a class E felony.
   2. For the purposes of this section, the donation of a kidney or other
 organ from a live donor for transplantation into an individual
 conditioned upon the donation and transplantation of a similar organ

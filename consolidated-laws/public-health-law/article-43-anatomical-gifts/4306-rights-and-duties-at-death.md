@@ -5,31 +5,39 @@
 
 ```text
   § 4306. Rights and duties at death. 1. The donee may accept or reject
-the gift. If the donee accepts a gift of the entire body, he may,
+the gift. If the donee accepts a gift of the entire body, he or she may,
 subject to the terms of the gift, authorize embalming and the use of the
-body in funeral services.  If the gift is of a part of the body, the
+body in funeral services. If the gift is of a part of the body, the
 donee upon the death of the donor and prior to embalming, may cause the
 part to be removed without unnecessary mutilation. After removal of the
 part, custody of the remainder of the body vests in the surviving
 spouse, next of kin, or other persons under obligation to dispose of the
 body.
-  2.  When a donor is determined dead based on irreversible cessation of
+  2. When a donor is determined dead based on irreversible cessation of
 circulatory and respiratory functions, the time of death shall be
-certified by a physician.  Such physician may not participate in the
+certified by a physician. Such physician may not participate in the
 procedure to remove or transplant the body part. In all other cases the
 time of death shall be certified by the physician who attends the donor
 at his death and one other physician, neither of whom shall participate
 in the procedure for removing or transplanting the part.
-  3. A person who acts in good faith in accord with the terms of this
-article or with the anatomical gift laws of another state is not liable
-for damages in any civil action or subject to prosecution in any
-criminal proceeding for his act.
-  4. At the time of acceptance of the gift, when it is known that the
-donation will be used for other than transplantation purposes, the donee
-if requested by the donor or the donor's next of kin shall advise the
-donor or the donor's next of kin of the body parts to be utilized, the
-uses to which the body parts may be put, whether body parts may be
-transferred to other facilities or institutions and plans for the
-ultimate disposition of all body parts if the donor has not specified
-the ultimate disposition.
+  3. (a) A person who acts in good faith in accord with the terms of
+this article or with the anatomical gift laws of another jurisdiction is
+not liable for damages in any civil action or subject to prosecution in
+any criminal proceeding for his or her act.
+  (b) A person who documents the making, amending or revoking of an
+anatomical gift, acting reasonably and in good faith in accordance with
+this article, may accept an anatomical gift under this article made by a
+person who represents that he or she is entitled to consent to the
+donation.
+  (c) An entity under section forty-three hundred two or forty-three
+hundred ten of this article or a health care professional, or an agent
+or employee thereof, who or which documents, records, recovers,
+procures, obtains, or utilizes an organ or tissue in reasonable and good
+faith reliance on information provided to or contained in the New York
+state donate life registry shall not be liable in any civil or criminal
+action or proceeding for action based on such reliance.
+  4. Any employee or agent of a federally designated organ procurement
+organization, eye bank or tissue bank acting pursuant to this article
+shall be held to the same standard of confidentiality as that imposed on
+employees of a hospital.
 ```

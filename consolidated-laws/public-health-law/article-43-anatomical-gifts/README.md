@@ -12,6 +12,7 @@
 - [§ 4304 Delivery of document of gift](4304-delivery-of-document-of-gift.md)
 - [§ 4305 Revocation of the gift](4305-revocation-of-the-gift.md)
 - [§ 4306 Rights and duties at death](4306-rights-and-duties-at-death.md)
+- [§ 4306-A Advanced directives and health care proxies](4306a-advanced-directives-and-health-care-proxies.md)
 - [§ 4307 Prohibition of sales and purchases of human organs](4307-prohibition-of-sales-and-purchases-of-human-organs.md)
 - [§ 4308 Prohibition on charging a fee to a donor's estate](4308-prohibition-on-charging-a-fee-to-a-donors-estate.md)
 - [§ 4309 Application](4309-application.md)
@@ -21,21 +22,22 @@
 <summary>Official heading of Article 43, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              ARTICLE   43
+                               ARTICLE 43
                             ANATOMICAL GIFTS
-Section 4300. Definitions.
-        4301. Persons who may execute an anatomical gift.
-        4302. Persons who may become donees and purposes for which
-                anatomical gifts may be made.
-        4303. Manner of executing anatomical gifts.
-        4304. Delivery of document of gift.
-        4305. Revocation of the gift.
-        4306. Rights and duties at death.
-        4307. Prohibition of sales and purchases of human organs.
-        4308. Prohibition on charging a fee to a donor's estate.
-        4309. Application.
-        4310. New York state donate life registry for organ, eye and
-                tissue donations.
+Section 4300.   Definitions.
+        4301.   Persons who may execute an anatomical gift.
+        4302.   Uses and dispositions of anatomical gifts.
+        4303.   Manner of executing anatomical gifts.
+        4304.   Delivery of document of gift.
+        4305.   Amendments or revocation of the gift.
+        4306.   Rights and duties at death.
+        4306-a. Advanced directives and health care proxies.
+        4306-b. Withdrawal of life-sustaining treatment.
+        4307.   Prohibition of sales and purchases of human organs.
+        4308.   Prohibition on charging a fee to a donor's estate.
+        4309.   Application.
+        4310.   New York state donate life registry for organ, eye and
+                  tissue donations.
 ```
 
 </details>

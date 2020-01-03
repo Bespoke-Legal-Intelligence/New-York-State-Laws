@@ -1,0 +1,32 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 2805-Z", "kind": "section", "law_id": "PBH", "location_id": "2805-Z", "path": "ARTICLE 28 › SECTION 2805-Z", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2805-Z.md", "title": "Hospital domestic violence policies and procedures"} -->
+# Public Health Law § 2805-Z — Hospital domestic violence policies and procedures
+
+[Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
+
+```text
+  § 2805-z. Hospital domestic violence policies and procedures. 1. Every
+general hospital shall: (a) develop, maintain and disseminate written
+policies and procedures for the identification, assessment, treatment
+and referral of confirmed or suspected cases of domestic violence; (b)
+establish, and implement on an ongoing basis, a training program for all
+current and new employees regarding the policies and procedures
+established pursuant to this section; (c) designate a staff member to
+coordinate services to victims of domestic violence; and (d) contact the
+domestic violence or victim assistance organization providing victim
+assistance to the geographic area served by such hospital to establish
+the coordination of services to domestic violence victims.
+  2. Upon admittance or commencement of treatment of a confirmed or
+suspected domestic violence victim, such hospital shall advise the
+victim of the availability of the services of a domestic violence or
+victim assistance organization. If after receiving such advice the
+domestic violence victim wishes the presence of a domestic violence or
+victim assistance advocate, such hospital shall contact the appropriate
+organization and request that one be provided.
+  3. The commissioner shall promulgate such rules and regulations as may
+be necessary and proper to carry out effectively the provisions of this
+section. Prior to promulgating such rules and regulations, the
+commissioner shall consult with the office for the prevention of
+domestic violence and other such persons as the commissioner deems
+necessary to develop a model policy for hospitals to utilize in
+complying with this section.
+```
