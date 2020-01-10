@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2 — Private Property](README.md)
 
 ```text
-  * § 458-c. Improvements to property of severely injured members of the
+  § 458-c. Improvements to property of severely injured members of the
 armed forces of the United States. 1. For the purpose of this section,
 "member of the armed forces of the United States" shall mean a person
 who served in the army, navy, air force, marines, coast guard or a
@@ -111,5 +111,4 @@ to this section; and
   (b) limit eligibility for the exemption to those forms of alterations,
 installations, or improvements as are prescribed in such local law or
 resolution.
-  * NB Effective January 2, 2020
 ```

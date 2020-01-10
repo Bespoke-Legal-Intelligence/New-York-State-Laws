@@ -1,0 +1,47 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 720", "kind": "section", "law_id": "FCT", "location_id": "720", "path": "ARTICLE 7 › PART 2 › SECTION 720", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/720.md", "title": "Pre-dispositional placement"} -->
+# Family Court Act § 720 — Pre-dispositional placement
+
+[Family Court Act](../../README.md) › [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](../README.md) › [Part 2 — Custody](README.md)
+
+```text
+  § 720. Pre-dispositional placement. 1. No child to whom the provisions
+of this article may apply, shall be detained in any prison, jail,
+lockup, or other place used for adults or children convicted of crime or
+under arrest and charged with a crime.
+  2. The detention of a child in a secure detention or non-secure
+facility shall not be directed under any of the provisions of this
+article.
+  3. Pre-dispositional placement of a person alleged to be or
+adjudicated as a person in need of supervision shall be authorized only
+in a foster care program certified by the office of children and family
+services or a short-term safe house in accordance with section seven
+hundred thirty-nine of this article, or a certified or approved family
+boarding home pursuant to the social services law. The setting of the
+placement shall take into account:
+  (a) The proximity to the community in which the person alleged to be
+or adjudicated as a person in need of supervision lives with such
+person's parents or to which such person will be discharged; and
+  (b) The existing educational setting of such person and the proximity
+of such setting to the location of the placement setting.
+  4. (a) The court shall not order or direct pre-dispositional placement
+under this article, (i) unless the court determines and states in its
+written order; (1) that there is no substantial likelihood that the
+youth and his or her family will continue to benefit from diversion
+services, including but not limited to, any available respite services;
+and (2) that all available alternatives to detention have been
+exhausted; and (3) that pre-dispositional placement of the respondent is
+in the best interest of the respondent; and (4) that it would be
+contrary to the welfare of the respondent to continue in their own home;
+or (ii) if the sole basis for the petition is an allegation pursuant to
+paragraph (i) of subdivision (a) of section seven hundred twelve of this
+article.
+  (b) Where the youth is sixteen years of age or older, the court shall
+not order or direct pre-dispositional placement under this article,
+unless the court determines and states in its order that special
+circumstances exist to warrant such placement.
+  (c) If in addition to the provisions of this section, the respondent
+may be a sexually exploited child as defined in subdivision one of
+section four hundred forty-seven-a of the social services law, the court
+may direct the respondent to an available short-term safe house in
+accordance with section seven hundred thirty-nine of this article.
+```

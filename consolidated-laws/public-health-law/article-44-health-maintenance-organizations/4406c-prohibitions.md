@@ -19,14 +19,7 @@ appropriate regarding:
 the availability of other therapies, consultations, or tests; or
   (b) the provisions, terms, or requirements of the health care plan's
 products as they relate to the enrollee, where applicable.
-  * 3. No health care plan shall by contract, written policy or written
-procedure prohibit or restrict any health care provider from filing a
-complaint, making a report or commenting to an appropriate governmental
-body regarding the policies or practices of such health care plan which
-the provider believes may negatively impact upon the quality of, or
-access to, patient care.
-  * NB Effective until January 1, 2020
-  * 3. No health care plan shall by contract, written policy, written
+  3. No health care plan shall by contract, written policy, written
 procedure or practice prohibit or restrict any health care provider from
 filing a complaint, making a report or commenting to an appropriate
 governmental body regarding the policies or practices of such health
@@ -40,7 +33,6 @@ regarding policies or practices of such health care plan which may
 violate this chapter or the insurance law including subsection (g), (k),
 (l), (l-1) or (1-2) of section forty-three hundred three of the
 insurance law.
-  * NB Effective January 1, 2020
   4. No health care plan shall by contract, written policy or written
 procedure prohibit or restrict any health care provider from advocating
 to the health care plan on behalf of the enrollee for approval or
@@ -130,12 +122,11 @@ parties mutually agree in writing to the termination or non-renewal and
 the plan provides notice to the enrollee at least thirty days in advance
 of the date of contract termination.
   * NB Repealed June 30, 2021
-  * 5-e. At least sixty days prior to the termination of a contract
+  5-e. At least sixty days prior to the termination of a contract
 between a hospital and a health care plan, the parties shall utilize a
 mutually agreed upon mediator to assist in resolving any outstanding
 contractual issues. The results of the mediation shall not be binding on
 the parties.
-  * NB Effective January 1, 2020
   6. No health care plan which provides coverage for prescription drugs
 shall require, or enter into a contract which permits, a copayment which
 exceeds the usual and customary cost of such prescribed drug.

@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 11 — Procedures For Enforcement of Collection of Delinquent Taxes](../README.md) › [Title 2 — Redemption](README.md)
 
 ```text
-  * § 1111-a. Expedited foreclosure proceedings for vacant and abandoned
+  § 1111-a. Expedited foreclosure proceedings for vacant and abandoned
 residential real property. 1. Finding of vacancy and abandonment by
 affidavit. Except in cities with a population of one million or more, an
 enforcing officer or his or her agent may determine that a residential
@@ -88,5 +88,4 @@ section may apply to the supreme court for review by proceeding under
 article seventy-eight of the civil practice law and rules. Such
 proceeding must be instituted within four months of service of notice on
 the property owner.
-  * NB Effective January 1, 2020
 ```

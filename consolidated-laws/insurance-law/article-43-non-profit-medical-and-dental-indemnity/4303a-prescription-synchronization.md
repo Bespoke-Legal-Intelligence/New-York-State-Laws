@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4303-a. Prescription synchronization. (a) Every hospital service
+  § 4303-a. Prescription synchronization. (a) Every hospital service
 corporation and health service corporation providing prescription drug
 coverage when applicable to permit synchronization shall permit and
 apply a daily pro-rated cost-sharing rate to prescriptions that are
@@ -46,5 +46,4 @@ either of the following occurs:
   (i) The prescriber changes the dosage or frequency of administration
 of the prescription drug subject to a medication synchronization; or
   (ii) The prescriber prescribes a different drug.
-  * NB Effective January 1, 2020
 ```

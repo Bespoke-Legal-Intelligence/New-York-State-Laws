@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 12 — Family Support Services Programs](README.md)
 
 ```text
-  * § 458-m. Family support services programs. 1. As used in this title,
+  § 458-m. Family support services programs. 1. As used in this title,
 the term "family support services programs" shall mean a program
 established pursuant to this title to provide community-based supportive
 services to children and families with the goal of preventing a child
@@ -31,5 +31,4 @@ support services program.
   4. Family support services programs shall have the capacity to serve
 families outside of regular business hours including evenings and
 weekends.
-  * NB Effective January 1, 2020
 ```

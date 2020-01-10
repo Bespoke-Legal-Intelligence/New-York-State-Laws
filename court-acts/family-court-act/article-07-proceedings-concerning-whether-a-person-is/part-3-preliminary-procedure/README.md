@@ -11,7 +11,7 @@
 - [§ 736 Issuance of summons](736-issuance-of-summons.md)
 - [§ 737 Service of summons](737-service-of-summons.md)
 - [§ 738 Issuance of warrant for respondent or other person legally responsible for care](738-issuance-of-warrant-for-respondent-or-other-person-legally.md)
-- [§ 739 Release or detention after filing of petition and prior to order of disposition](739-release-or-detention-after-filing-of-petition-and-prior.md)
+- [§ 739 Release, pre-dispositional placement or referral after filing of petition and prior to order of disposition](739-release-pre-dispositional-placement-or-referral-after-filing.md)
 - [§ 740 Temporary order of protection](740-temporary-order-of-protection.md)
 
 <details>

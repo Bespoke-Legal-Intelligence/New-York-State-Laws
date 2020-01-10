@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 12 — Family Support Services Programs](README.md)
 
 ```text
-  * § 458-n. Funding for family support services programs. 1.
+  § 458-n. Funding for family support services programs. 1.
 Notwithstanding any other provision of law to the contrary, to the
 extent that funds are available for such purpose and specifically
 appropriated therefor, the office of children and family services shall
@@ -68,5 +68,4 @@ supervision and treatment services for juveniles program, may utilize
 any funding available to such municipality pursuant to section five
 hundred twenty-nine-b of the executive law to fund family support
 services programs pursuant to this title.
-  * NB Effective January 1, 2020
 ```

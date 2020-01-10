@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 771", "kind": "section", "law_id": "LAB", "location_id": "771", "path": "ARTICLE 21 › SECTION 771", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/771.md", "title": "List of relocated call centers"} -->
+# Labor Law § 771 — List of relocated call centers
+
+[Labor Law](../README.md) › [Article 21 — New York Call Center Jobs Act](README.md)
+
+```text
+  * § 771. List of relocated call centers. 1. A call center employer
+that intends to relocate a call center from New York state to a foreign
+country or any other state, or reduce call volume handled at call
+centers in New York state by at least thirty percent, measured as the
+call volume of the previous calendar month compared to the average
+monthly call volume of the previous twelve months, and intends to
+relocate such operations from New York state to a foreign country or any
+other state, shall notify the commissioner at least one hundred days
+before such relocation.
+  2. A call center employer that violates subdivision one of this
+section shall be subject to a civil penalty not to exceed ten thousand
+dollars for each day of such violation, except that the commissioner may
+reduce such amount for just cause shown.
+  3. The commissioner shall compile an annual list of all call center
+employers that relocate or reduce call volume pursuant to subdivision
+one of this section, and such list shall be made available to the public
+and shall prominently display a link to the list on the department's
+website.
+  4. The commissioner shall make the list created pursuant to
+subdivision three of this section, available to the public and shall
+prominently display a link to the list on the department's website.
+  * NB Effective June 30, 2020
+```

@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 19-A — Minimum Wage Standards and Protective Labor Practices For Farm Workers](README.md)
 
 ```text
-  * § 674-a. Farm laborers wage board. 1. Wage board. The commissioner
+  § 674-a. Farm laborers wage board. 1. Wage board. The commissioner
 shall hereby convene a farm laborers wage board. The wage board shall be
 comprised of three members: one representative of the farm bureau, one
 representative of the New York State AFL-CIO and one member appointed by
@@ -66,5 +66,4 @@ laborer.
 this chapter upon receipt of the wage board's recommendations. The
 commissioner may reconvene the same wage board or appoint a new wage
 board in compliance with section six hundred fifty-nine of this chapter.
-  * NB Effective January 1, 2020
 ```

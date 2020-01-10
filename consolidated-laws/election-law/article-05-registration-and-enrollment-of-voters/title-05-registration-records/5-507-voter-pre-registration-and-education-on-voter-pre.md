@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 5 — Registration Records](README.md)
 
 ```text
-  * § 5-507. Voter pre-registration and education on voter
+  § 5-507. Voter pre-registration and education on voter
 pre-registration. 1. Pre-registration. A person who is at least sixteen
 years of age and who is otherwise qualified to register to vote may
 pre-register to vote, and shall be automatically registered upon
@@ -16,5 +16,4 @@ include collaboration with county boards of elections to conduct voter
 registration and pre-registration in high schools. Completion and
 submission of voter registration or pre-registration forms shall not be
 a course requirement or graded assignment for students.
-  * NB Effective January 1, 2020
 ```

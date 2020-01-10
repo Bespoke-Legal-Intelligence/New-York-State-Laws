@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
 
 ```text
-  § 4307. Prohibition of sales and purchases of human organs. 1. 1. It
+  § 4307. Prohibition of sales and purchases of human organs. 1. It
 shall be unlawful for any person to knowingly acquire, receive, or
 otherwise transfer for valuable consideration any part for use in human
 transplantation. The term "valuable consideration" does not include the

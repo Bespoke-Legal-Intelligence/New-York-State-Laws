@@ -75,26 +75,8 @@ persons suffering from a communicable disease;
   (l) prescribe the qualifications that shall be possessed by persons in
 charge of diagnostic clinical laboratories as provided by the workmen's
 compensation law;
-  * (m) require that application be made for a permit to operate a farm
-or food processing labor camp as defined in the sanitary code; authorize
-appropriate officers or agencies to issue such a permit when the
-applicant is in compliance with the established regulations; prescribe
-standards for living quarters at farm and food processing labor camps,
-including provisions for sanitary conditions; light, air, and safety;
-protection from fire hazards; maintenance; and such other matters as may
-be appropriate for security of life or health, provided however, that
-the provisions of the sanitary code established pursuant to the
-provisions hereof shall apply to all farm and food processing labor
-camps intended to house migrant workers and which are occupied by five
-or more persons. In the preparation of such regulations, the public
-health and health planning council may request and shall receive
-technical assistance from the board of standards and appeals of the
-state department of labor and the state building code commission. Such
-regulation shall be enforced in the same manner as are other provisions
-of the sanitary code;
-  * NB Effective until January 1, 2021
-  * (m) require that application be made for a permit to operate a farm
-or food processing labor camp as defined in the sanitary code; authorize
+  (m) require that application be made for a permit to operate a farm or
+food processing labor camp as defined in the sanitary code; authorize
 appropriate officers or agencies to issue such a permit when the
 applicant is in compliance with the established regulations; prescribe
 standards for living quarters at farm and food processing labor camps,
@@ -109,7 +91,6 @@ council may request and shall receive technical assistance from the
 board of standards and appeals of the state department of labor and the
 state building code commission. Such regulation shall be enforced in the
 same manner as are other provisions of the sanitary code;
-  * NB Effective January 1, 2021
   (n) prescribe the qualifications of occupational therapists employed
 in public general hospitals and tuberculosis hospitals and sanitoria
 maintained pursuant to the general municipal law;

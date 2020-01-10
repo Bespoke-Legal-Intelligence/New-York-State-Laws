@@ -4,7 +4,7 @@
 [Real Property Tax Law](../../README.md) › [Article 5 — Assessment Procedure](../README.md) › [Title 4 — Miscellaneous Provisions](README.md)
 
 ```text
-  * § 575-a. Electric generating facility annual reports. 1. Every
+  § 575-a. Electric generating facility annual reports. 1. Every
 corporation, company, association, joint stock association, partnership
 and person, their lessees, trustees or receivers appointed by any court
 whatsoever, owning, operating or managing any electric generating
@@ -30,5 +30,4 @@ the time specified by it, shall forfeit to the people of the state the
 sum of up to ten thousand dollars for every such failure and the
 additional sum of up to one thousand dollars for each day that such
 failure continues.
-  * NB Effective January 1, 2020
 ```

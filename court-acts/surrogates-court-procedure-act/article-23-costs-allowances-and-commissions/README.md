@@ -10,15 +10,15 @@
 - [§ 2303 Security for costs 1](2303-security-for-costs-1.md)
 - [§ 2304 Costs of appeal 1](2304-costs-of-appeal-1.md)
 - [§ 2305 Fees of appraisers An appraiser is entitled in addition to his actual expenses, to a sum to be fixed by the court for his services in mak...](2305-fees-of-appraisers-an-appraiser-is-entitled-in-addition-to-his-actual-expenses.md)
-- [§ 2306 Annual statements to be furnished to beneficiaries Any trustee who is not required to furnish annual statements under either 2308 or 2309...](2306-annual-statements-to-be-furnished-to-beneficiaries-any-trustee-who-is-not.md)
+- [§ 2306 Annual statements to be furnished to beneficiaries Any trustee, donee of a power during minority or donee of a power in trust who is not ...](2306-annual-statements-to-be-furnished-to-beneficiaries-any-trustee-donee-of-a-power.md)
 - [§ 2307 Commissions of fiduciaries other than trustees 1](2307-commissions-of-fiduciaries-other-than-trustees-1.md)
 - [§ 2307-A Commissions of attorney-executor 1](2307a-commissions-of-attorney-executor-1.md)
-- [§ 2308 Commissions of trustees under wills of persons dying, or under lifetime trusts created, on or before August 31, 1956 1](2308-commissions-of-trustees-under-wills-of-persons-dying-or-under-lifetime-trusts.md)
-- [§ 2309 Commissions of trustees under wills of persons dying, or lifetime trusts established, after August 31, 1956 1](2309-commissions-of-trustees-under-wills-of-persons-dying-or-lifetime-trusts.md)
+- [§ 2308 Commissions of trustees, donees of power during minority and donees of powers in trust under wills of persons dying, or under lifetime tr...](2308-commissions-of-trustees-donees-of-power-during-minority-and-donees-of-powers.md)
+- [§ 2309 Commissions of trustees, of donees of powers during minority and of donees of powers in trust under wills of persons dying, or lifetime t...](2309-commissions-of-trustees-of-donees-of-powers-during-minority-and-of-donees.md)
 - [§ 2310 Payment on account of commissions 1](2310-payment-on-account-of-commissions-1.md)
 - [§ 2311 Ex parte application for advance payment of commissions 1](2311-ex-parte-application-for-advance-payment-of-commissions-1.md)
-- [§ 2312 Commissions of corporate trustees 1](2312-commissions-of-corporate-trustees-1.md)
-- [§ 2313 Multiple commissions of executors or trustees under wills of persons dying, or lifetime trusts established, after August 31, 1993 With re...](2313-multiple-commissions-of-executors-or-trustees-under-wills-of-persons-dying.md)
+- [§ 2312 Commissions of corporate trustees, including when acting as donees of powers during minority or donees of power in trust 1](2312-commissions-of-corporate-trustees-including-when-acting-as-donees-of-powers.md)
+- [§ 2313 Multiple commissions of executors or trustees, donees of powers during minority, or donees of power in trust under wills of persons dying...](2313-multiple-commissions-of-executors-or-trustees-donees-of-powers-during-minority.md)
 
 <details>
 <summary>Official heading of Article 23, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

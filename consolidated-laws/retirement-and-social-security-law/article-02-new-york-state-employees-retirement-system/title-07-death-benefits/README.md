@@ -9,7 +9,7 @@
 - [§ 60-A Guaranteed ordinary death benefit payable upon death of state employees](60a-guaranteed-ordinary-death-benefit-payable.md)
 - [§ 60-B Guaranteed ordinary death benefit for participating employers](60b-guaranteed-ordinary-death-benefit.md)
 - [§ 60-C Death benefit for vested members who die prior to retirement](60c-death-benefit-for-vested-members-who-die.md)
-- [§ 61 Accidential death benefit](61-accidential-death-benefit.md)
+- [§ 61 Accidental death benefit](61-accidental-death-benefit.md)
 - [§ 61-A Payment of interest on death benefits and accumulated contributions](61a-payment-of-interest-on-death-benefits.md)
 - [§ 62 Ordinary disability retirement](62-ordinary-disability-retirement.md)
 - [§ 63 Accidental disability retirement](63-accidental-disability-retirement.md)

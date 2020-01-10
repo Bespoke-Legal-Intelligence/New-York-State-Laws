@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3243. Discrimination because of sex or marital status in hospital,
+  § 3243. Discrimination because of sex or marital status in hospital,
 surgical or medical expense insurance. (a) With regard to an accident
 and health insurance policy that provides hospital, surgical, or medical
 expense coverage or a policy of student accident and health insurance,
@@ -36,5 +36,4 @@ policy; or
   (8) engage in sexual stereotyping.
   (b) For the purposes of this section, "sex" shall include sexual
 orientation, gender identity or expression, and transgender status.
-  * NB Effective January 1, 2020
 ```

@@ -4,8 +4,8 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3242. Prescription drug coverage. (a) Every insurer that delivers
-or issues for delivery in this state a policy that provides coverage for
+  § 3242. Prescription drug coverage. (a) Every insurer that delivers or
+issues for delivery in this state a policy that provides coverage for
 prescription drugs shall, with respect to the prescription drug
 coverage, publish an up-to-date, accurate, and complete list of all
 covered prescription drugs on its formulary drug list, including any
@@ -112,5 +112,4 @@ external appeal agent overturns the insurer's denial of an expedited
 exception request under paragraph three of this subsection, then the
 insurer shall provide coverage of the non-formulary prescription drug
 for the duration of the exigent circumstances.
-  * NB Effective January 1, 2020
 ```

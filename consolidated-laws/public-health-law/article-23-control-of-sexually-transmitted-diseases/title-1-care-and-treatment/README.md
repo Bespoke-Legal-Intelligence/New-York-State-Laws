@@ -12,7 +12,7 @@
 - [§ 2308 Sexually transmitted disease; pregnant women; blood test for syphilis](2308-sexually-transmitted-disease-pregnant-women-blood-test.md)
 - [§ 2308-A Sexually transmitted diseases; tests for sexually transmitted diseases](2308a-sexually-transmitted-diseases-tests-for-sexually.md)
 - [§ 2311 Sexually transmitted disease list](2311-sexually-transmitted-disease-list.md)
-- [§ 2312 Expedited partner therapy for chlamydia trachomatis infection](2312-expedited-partner-therapy-for-chlamydia-trachomatis.md)
+- [§ 2312 Expedited partner therapy for chlamydia trachomatis infection and other sexually transmitted infections](2312-expedited-partner-therapy-for-chlamydia-trachomatis.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

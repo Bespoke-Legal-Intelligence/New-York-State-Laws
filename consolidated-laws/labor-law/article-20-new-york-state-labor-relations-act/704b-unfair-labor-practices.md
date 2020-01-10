@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 20 — New York State Labor Relations Act](README.md)
 
 ```text
-  * § 704-b. Unfair labor practices. 1. It shall be an unfair labor
+  § 704-b. Unfair labor practices. 1. It shall be an unfair labor
 practice for a farm laborer or an employee organization representing
 farm laborers to strike any agricultural employer. The term "strike"
 shall mean, for the purposes of this section, any strike or other
@@ -28,5 +28,4 @@ this article.
   3. Nothing in this section shall be construed as to bar any proceeding
 brought pursuant to section seven hundred four or seven hundred five of
 this article.
-  * NB Effective January 1, 2020
 ```

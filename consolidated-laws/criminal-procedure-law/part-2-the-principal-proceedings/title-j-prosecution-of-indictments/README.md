@@ -7,7 +7,7 @@
 
 - [Article 220 — The Plea](article-220-the-plea/)
 - [Article 230 — Removal of Action](article-230-removal/)
-- [Article 240 — Discovery](article-240-discovery/)
+- [Article 240 — Discovery](article-240-discovery/) *(repealed)*
 - [Article 245 — Discovery](article-245-discovery/)
 - [Article 250 — Pre-trial Notices of Defenses](article-250-pre-trial/)
 - [Article 255 — Pre-trial Motions](article-255-pre-trial/)

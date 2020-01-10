@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4329. Prescription drug coverage. (a) Every corporation subject to
+  § 4329. Prescription drug coverage. (a) Every corporation subject to
 the provisions of this article that issues a contract that provides
 coverage for prescription drugs shall, with respect to the prescription
 drug coverage, publish an up-to-date, accurate, and complete list of all
@@ -114,5 +114,4 @@ of an expedited exception request under paragraph three of this
 subsection, then the corporation shall provide coverage of the
 non-formulary prescription drug for the duration of the exigent
 circumstances.
-  * NB Effective January 1, 2020
 ```

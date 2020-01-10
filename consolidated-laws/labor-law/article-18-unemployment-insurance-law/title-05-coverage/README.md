@@ -9,7 +9,7 @@
 - [§ 561 Voluntary election](561-voluntary-election.md)
 - [§ 562 Termination of coverage](562-termination-of-coverage.md)
 - [§ 563 Non-profit organizations](563-non-profit-organizations.md)
-- [§ 564 Agricultural labor](564-agricultural-labor.md)
+- [§ 564 Agricultural labor crew leaders](564-agricultural-labor-crew-leaders.md)
 - [§ 565 Governmental entities](565-governmental-entities.md)
 - [§ 566 Indian tribes](566-indian-tribes.md)
 

@@ -4,9 +4,9 @@
 [Labor Law](../README.md) › [Article 20 — New York State Labor Relations Act](README.md)
 
 ```text
-  * § 702-b. Impasse resolution procedures for agricultural employers
-and farm laborers. 1. For purposes of this section, an impasse may be
-deemed to exist if the parties fail to achieve agreement by the end of a
+  § 702-b. Impasse resolution procedures for agricultural employers and
+farm laborers. 1. For purposes of this section, an impasse may be deemed
+to exist if the parties fail to achieve agreement by the end of a
 forty-day period from the date of certification or recognition of an
 employee organization or from the expiration date of a collective
 bargaining agreement.
@@ -86,5 +86,4 @@ arbitrator's determination;
   v. the determination of the public arbitration panel shall be subject
 to review by a court of competent jurisdiction in the manner prescribed
 by law.
-  * NB Effective January 1, 2020
 ```

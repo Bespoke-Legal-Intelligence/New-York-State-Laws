@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 43 — Non-profit Medical and Dental Indemnity, or Health and Hospital Service Corporations](README.md)
 
 ```text
-  * § 4330. Discrimination because of sex or marital status in hospital,
+  § 4330. Discrimination because of sex or marital status in hospital,
 surgical or medical expense insurance. (a) With regard to a contract
 issued by a corporation subject to the provisions of this article that
 provides hospital, surgical, or medical expense coverage or a contract
@@ -36,5 +36,4 @@ contract; or
   (8) engage in sexual stereotyping.
   (b) For purposes of this section, "sex" shall include sexual
 orientation, gender identity or expression, and transgender status.
-  * NB Effective January 1, 2020
 ```

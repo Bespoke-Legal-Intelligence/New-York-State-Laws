@@ -12,11 +12,10 @@
 <summary>Official heading of Title 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE 12
+                                TITLE 12
                     FAMILY SUPPORT SERVICES PROGRAMS
 Section 458-m. Family support services programs.
         458-n. Funding for family support services programs.
-  * NB Effective January 1, 2020
 ```
 
 </details>

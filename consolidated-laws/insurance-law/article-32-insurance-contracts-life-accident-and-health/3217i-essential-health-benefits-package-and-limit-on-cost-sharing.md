@@ -4,9 +4,9 @@
 [Insurance Law](../README.md) › [Article 32 — Insurance Contracts - Life, Accident and Health, Annuities](README.md)
 
 ```text
-  * § 3217-i. Essential health benefits package and limit on
-cost-sharing.  (a) (1) For purposes of this article, "essential health
-benefits" shall mean the following categories of benefits:
+  § 3217-i. Essential health benefits package and limit on cost-sharing.
+(a) (1) For purposes of this article, "essential health benefits" shall
+mean the following categories of benefits:
   (A) ambulatory patient services;
   (B) emergency services;
   (C) hospitalization;
@@ -93,5 +93,4 @@ members exclusive of spouses and dependents; and
   (6) "student accident and health insurance" shall have the meaning set
 forth in subsection (a) of section three thousand two hundred forty of
 this article.
-  * NB Effective January 1, 2020
 ```

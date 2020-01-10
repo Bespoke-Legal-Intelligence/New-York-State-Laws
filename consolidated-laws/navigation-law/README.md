@@ -8,7 +8,7 @@
 | Senate code | NAV |
 | Type | Consolidated law, chapter 37 |
 | Sections | 219 |
-| Last changed | 13 Dec 2019 |
+| Last changed | 10 Jan 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Navigation |
 
@@ -33,6 +33,7 @@ Article  1.   Short title and definitions (§§ 1-2).
 
 ## Recent changes
 
+- [10 Jan 2020](../../changes/2020/2020-01-10.md): 2 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 3 amended
 - [23 Aug 2019](../../changes/2019/2019-08-23.md): 1 added
 - [9 Aug 2019](../../changes/2019/2019-08-09.md): 2 amended
@@ -42,7 +43,6 @@ Article  1.   Short title and definitions (§§ 1-2).
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended, 1 added
 - [4 Nov 2016](../../changes/2016/2016-11-04.md): 1 amended
 - [16 Sep 2016](../../changes/2016/2016-09-16.md): 1 amended
-- [19 Aug 2016](../../changes/2016/2016-08-19.md): 1 amended
 
 ## Contents
 

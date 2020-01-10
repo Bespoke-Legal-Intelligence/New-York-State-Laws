@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 3 — Election Officials](../README.md) › [Title 5 — Alternate Provisions](README.md)
 
 ```text
-  * § 3-500. Alternative poll site staffing plan. 1. Notwithstanding the
+  § 3-500. Alternative poll site staffing plan. 1. Notwithstanding the
 provisions of title four of this article, a board of elections may
 design an alternative poll site staffing plan to more efficiently
 conduct an election in accordance with this section. Such alternative
@@ -18,5 +18,4 @@ this chapter, provided the tabulation of votes by election district
 shall not be impaired unless consolidation of election districts for an
 election is otherwise permitted by this chapter, and such staffing plan
 complies with 9 NYCRR 6210.19(c).
-  * NB Effective January 1, 2020
 ```

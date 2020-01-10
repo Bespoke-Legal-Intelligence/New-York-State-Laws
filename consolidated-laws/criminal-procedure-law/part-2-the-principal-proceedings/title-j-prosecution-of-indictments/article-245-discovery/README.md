@@ -25,7 +25,7 @@
 <summary>Official heading of Article 245, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                           * ARTICLE      245
+                               ARTICLE 245
                                 DISCOVERY
 Section 245.10 Timing of discovery.
         245.20 Automatic discovery.
@@ -42,7 +42,6 @@ Section 245.10 Timing of discovery.
         245.75 Waiver of discovery by defendant.
         245.80 Remedies or sanctions for non-compliance.
         245.85 Admissibility of discovery.
-  * NB Effective January 1, 2020
 ```
 
 </details>

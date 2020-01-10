@@ -6,7 +6,7 @@
 ## Contents
 
 - [Part 1 — Jurisdiction](part-1-jurisdiction/)
-- [Part 2 — Custody and Detention](part-2-custody-and-detention/)
+- [Part 2 — Custody](part-2-custody/)
 - [Part 3 — Preliminary Procedure](part-3-preliminary-procedure/)
 - [Part 4 — Hearings](part-4-hearings/)
 - [Part 5 — Orders](part-5-orders/)

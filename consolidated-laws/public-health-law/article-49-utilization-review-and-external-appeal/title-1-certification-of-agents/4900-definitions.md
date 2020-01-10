@@ -22,22 +22,8 @@ national accrediting body appropriate to the profession; and
 health care provider who typically manages the medical condition or
 disease or provides the health care service or treatment under review;
 or
-  * (iii) for purposes of a determination involving substance use
-disorder treatment:
-  (A) a physician who possesses a current and valid non-restricted
-license to practice medicine and who specializes in behavioral health
-and has experience in the delivery of substance use disorder courses of
-treatment; or
-  (B) a health care professional other than a licensed physician who
-specializes in behavioral health and has experience in the delivery of
-substance use disorder courses of treatment and, where applicable,
-possesses a current and valid non-restricted license, certificate or
-registration or, where no provision for a license, certificate or
-registration exists, is credentialed by the national accrediting body
-appropriate to the profession; and
-  * NB Effective until January 1, 2020
-  * (iii) for purposes of a determination involving substance use
-disorder treatment:
+  (iii) for purposes of a determination involving substance use disorder
+treatment:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who specializes in behavioral health
 and has experience in the delivery of substance use disorder courses of
@@ -49,9 +35,8 @@ possesses a current and valid non-restricted license, certificate or
 registration or, where no provision for a license, certificate or
 registration exists, is credentialed by the national accrediting body
 appropriate to the profession; or
-  * NB Effective January 1, 2020
-  * (iv) for purposes of a determination involving treatment for a
-mental health condition:
+  (iv) for purposes of a determination involving treatment for a mental
+health condition:
   (A) a physician who possesses a current and valid non-restricted
 license to practice medicine and who specializes in behavioral health
 and has experience in the delivery of mental health courses of
@@ -63,7 +48,6 @@ current and valid non-restricted license, certificate, or registration
 or, where no provision for a license, certificate or registration
 exists, is credentialed by the national accrediting body appropriate to
 the profession; and
-  * NB Effective January 1, 2020
   (b) for purposes of title two of this article:
   (i) a physician who:
   (A) possesses a current and valid non-restricted license to practice

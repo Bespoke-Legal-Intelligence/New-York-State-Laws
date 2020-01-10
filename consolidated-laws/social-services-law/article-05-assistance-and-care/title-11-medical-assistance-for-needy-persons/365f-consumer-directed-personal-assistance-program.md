@@ -92,19 +92,7 @@ health law or the former sections three hundred sixty-five-f of this
 chapter may continue to provide such services under this section.
   4-a. Fiscal intermediary services. (a) For the purposes of this
 section:
-  * (i) "Fiscal intermediary" means an entity that provides fiscal
-intermediary services and has a contract for providing such services
-with:
-  (A) a local department of social services;
-  (B) an organization licensed under article forty-four of the public
-health law; or
-  (C) an accountable care organization certified under article
-twenty-nine-E of the public health law or an integrated delivery system
-composed primarily of health care providers recognized by the department
-as a performing provider system under the delivery system reform
-incentive payment program.
-  * NB Effective until January 1, 2020
-  * (i) "Fiscal intermediary" means an entity that provides fiscal
+  (i) "Fiscal intermediary" means an entity that provides fiscal
 intermediary services and has a contract for providing such services
 with the department of health and is selected through the procurement
 process described in paragraph (b) of this subdivision. Eligible
@@ -117,37 +105,7 @@ thousand one hundred twenty-one of the education law; or
   (B) have been established as fiscal intermediaries prior to January
 first, two thousand twelve and have been continuously providing such
 services for eligible individuals under this section.
-  * NB Effective January 1, 2020
-  * (ii) Fiscal intermediary services shall include the following
-services, performed on behalf of the consumer to facilitate his or her
-role as the employer:
-  (A) wage and benefit processing for consumer directed personal
-assistants;
-  (B) processing all income tax and other required wage withholdings;
-  (C) complying with workers' compensation, disability and unemployment
-requirements;
-  (D) maintaining personnel records for each consumer directed personal
-assistant, including time sheets and other documentation needed for
-wages and benefit processing and a copy of the medical documentation
-required pursuant to regulations established by the commissioner;
-  (E) ensuring that the health status of each consumer directed personal
-assistant is assessed prior to service delivery pursuant to regulations
-issued by the commissioner;
-  (F) maintaining records of service authorizations or reauthorizations;
-  (G) monitoring the consumer's or, if applicable, the designated
-representative's continuing ability to fulfill the consumer's
-responsibilities under the program and promptly notifying the
-authorizing entity of any circumstance that may affect the consumer's
-or, if applicable, the designated representative's ability to fulfill
-such responsibilities;
-  (H) complying with regulations established by the commissioner
-specifying the responsibilities of fiscal intermediaries providing
-services under this title; and
-  (I) entering into a department approved memorandum of understanding
-with the consumer that describes the parties' responsibilities under
-this program.
-  * NB Effective until January 1, 2020
-  * (ii) Fiscal intermediary services shall include the following
+  (ii) Fiscal intermediary services shall include the following
 services, performed on behalf of the consumer to facilitate his or her
 role as the employer:
   (A) wage and benefit processing for consumer directed personal
@@ -180,7 +138,6 @@ the commissioner, assisting consumers to perform the consumers'
 responsibilities under this section and department regulations in a
 manner that does not infringe upon the consumer's responsibilities and
 self-direction.
-  * NB Effective January 1, 2020
   (iii) Fiscal intermediaries are not responsible for, and fiscal
 intermediary services shall not include, fulfillment of the
 responsibilities of the consumer or, if applicable, the consumer's
@@ -198,15 +155,11 @@ personal care services, home health aide services and skilled nursing
 tasks that are included on the consumer's plan of care. A fiscal
 intermediary shall exercise reasonable care in properly carrying out its
 responsibilities under the program.
-  * (b) No entity shall provide, directly or through contract, fiscal
-intermediary services without an authorization as a fiscal intermediary
-issued by the commissioner in accordance with this subdivision.
-  * NB Effective until January 1, 2020
-  * (b) Notwithstanding any inconsistent provision of section one
-hundred sixty-three of the state finance law, or section one hundred
-forty-two of the economic development law the commissioner shall enter
-into contracts under this subdivision with eligible contractors that
-submit an offer for a contract, provided, however, that:
+  (b) Notwithstanding any inconsistent provision of section one hundred
+sixty-three of the state finance law, or section one hundred forty-two
+of the economic development law the commissioner shall enter into
+contracts under this subdivision with eligible contractors that submit
+an offer for a contract, provided, however, that:
   (i) the department shall post on its website:
   (A) a description of the proposed services to be provided pursuant to
 contracts in accordance with this subdivision;
@@ -244,17 +197,7 @@ hundred sixty-three of the state finance law; and
   (vi) the commissioner is authorized to reoffer contracts under the
 same terms of this subdivision, if determined necessary by the
 commissioner.
-  * NB Effective January 1, 2020
-  (c) * (i) The commissioner may require a fiscal intermediary to report
-on the direct care and administrative costs of personal assistance
-services as accounted for by the fiscal intermediary. The department may
-specify the frequency and format of such reports, determine the type and
-amount of information to be submitted, and require the submission of
-supporting documentation, provided, however, that the department shall
-provide no less than ninety calendar days' notice before such reports
-are due.
-  * NB Effective until January 1, 2020
-  * (i) The commissioner shall require a fiscal intermediary to report
+  (c) (i) The commissioner shall require a fiscal intermediary to report
 annually on the direct care and administrative costs of personal
 assistance services as accounted for by the fiscal intermediary. The
 department shall specify the format of such reports, determine the type
@@ -262,7 +205,6 @@ and amount of information to be submitted, and require the submission of
 supporting documentation, provided, however, that the department shall
 provide no less than ninety calendar days' notice before such reports
 are due.
-  * NB Effective January 1, 2020
   (ii) If the department determines that the cost report submitted by a
 provider is inaccurate or incomplete, the department shall notify the
 provider in writing and advise the provider of the correction or
@@ -279,21 +221,7 @@ by the date due for reasons beyond the provider's control.
 executive officer, or public official responsible for the operation of
 the provider. The cost report form shall include a certification form,
 which shall specify who must certify the report.
-  * 4-b. Actions involving the authorization of a fiscal intermediary.
-  (a) A fiscal intermediary's authorization may be revoked, suspended,
-limited or annulled upon thirty day's written notice to the fiscal
-intermediary, if the commissioner finds that the fiscal intermediary has
-failed to comply with the provisions of this subdivision or regulations
-promulgated hereunder. Notwithstanding the foregoing, upon determining
-that the public health or safety would be imminently endangered by the
-continued authorization of the fiscal intermediary, the commissioner may
-revoke, suspend, limit or annul the fiscal intermediary's authorization
-immediately.
-  (b) All orders or determinations under this subdivision shall be
-subject to review as provided in article seventy-eight of the civil
-practice law and rules.
-  * NB Effective until January 1, 2020
-  * 4-b. Actions involving the authorization of a fiscal intermediary.
+  4-b. Actions involving the authorization of a fiscal intermediary.
   (a) The department may terminate a fiscal intermediary's contract
 under this section or suspend or limit the fiscal intermediary's rights
 and privileges under the contract upon thirty day's written notice to
@@ -312,7 +240,6 @@ immediately upon written notice.
   (c) All orders or determinations under this subdivision shall be
 subject to review as provided in article seventy-eight of the civil
 practice law and rules.
-  * NB Effective January 1, 2020
   4-c. The commissioner shall convene and chair a stakeholder workgroup
 pertaining to fiscal intermediary services and the needs of consumers.
 The workgroup shall consist of, at a minimum, representatives of service
@@ -330,7 +257,7 @@ circumstances; inform criteria in relation to the development of quality
 reporting requirements; and work with the department to develop
 transition plans for consumers that may need to transition to another
 fiscal intermediary.
-  * 4-d. Fiscal intermediaries ceasing operation. (a) Where a fiscal
+  4-d. Fiscal intermediaries ceasing operation. (a) Where a fiscal
 intermediary is ceasing operation or will no longer serve the consumer's
 area, the fiscal intermediary shall:
   (i) deliver written notice forty-five calendar days in advance to the
@@ -368,7 +295,6 @@ chosen by the individual.
   (e) Any transfer under this subdivision shall not diminish any of an
 individual's rights relating to continuity of care, utilization review
 or fair hearing appeals and aid continuing.
-  * NB Effective January 1, 2020
   5. Waivers, regulation and effectiveness.
   (a) The commissioner may, subject to the approval of the director of
 the budget, file for such federal waivers as may be needed for the

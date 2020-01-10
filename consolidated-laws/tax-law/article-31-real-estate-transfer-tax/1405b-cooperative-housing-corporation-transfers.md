@@ -59,12 +59,11 @@ commissioner of taxation and finance may enter into an agreement with
 the chief fiscal officer of the city of New York to provide that a
 single information return may be filed for purposes of the tax imposed
 by this article and the real property transfer tax imposed by such city.
-  * (c) The information contained within information returns filed under
+  (c) The information contained within information returns filed under
 subdivision (b) of this section may be provided by the commissioner to
 local assessors for use in real property tax administration, and such
 information shall not be subject to the secrecy provisions set forth in
 section fourteen hundred eighteen of this chapter, provided, however,
 that the commissioner shall not disclose social security numbers or
 employer identification numbers.
-  * NB Effective January 1, 2020
 ```

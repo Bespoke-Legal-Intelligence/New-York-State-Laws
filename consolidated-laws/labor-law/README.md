@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 682 |
-| Last changed | 3 Jan 2020 |
+| Sections | 697 |
+| Last changed | 10 Jan 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (74 lines)](chapter-text.md)
+[Full chapter text (76 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [10 Jan 2020](../../changes/2020/2020-01-10.md): 15 amended, 15 added
 - [3 Jan 2020](../../changes/2020/2020-01-03.md): 2 amended, 1 added
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 2 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [16 Aug 2019](../../changes/2019/2019-08-16.md): 1 amended
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 1 amended
 - [19 Jul 2019](../../changes/2019/2019-07-19.md): 8 amended, 4 added
-- [12 Jul 2019](../../changes/2019/2019-07-12.md): 2 amended, 1 added
 
 ## Contents
 
@@ -75,6 +75,7 @@ Assembly, do enact as follows:
 - [Article 20-A — Labor and Management Improper Practices Act](article-20a-labor-and-management-improper-practices-act/)
 - [Article 20-B — Psychological Stress Evaluators and Employment](article-20b-psychological-stress-evaluators-and-employment/)
 - [Article 20-C — Retaliatory Action By Employers](article-20c-retaliatory-action-by-employers/)
+- [Article 21 — New York Call Center Jobs Act](article-21-new-york-call-center-jobs-act/)
 - [Article 22 — Boards of Inquiry In Labor Disputes](article-22-boards-of-inquiry-in-labor-disputes/)
 - [Article 22-A — Injunctions In Labor Disputes](article-22a-injunctions-in-labor-disputes/)
 - [Article 23 — Apprenticeship Training](article-23-apprenticeship-training/)
@@ -94,4 +95,5 @@ Assembly, do enact as follows:
 - [Article 30 — Asbestos or Products Containing Asbestos; Licensing](article-30-asbestos-or-products-containing-asbestos/)
 - [Article 31 — New York Professional Employer Act](article-31-new-york-professional-employer-act/)
 - [Article 32 — Licensing of Mold Inspection, Assessment and Remediation Specialists and Minimum Work Standards](article-32-licensing-of-mold-inspection-assessment/)
+- [Article 33 — Elevators and Other Conveyances; Licensing](article-33-elevators-and-other-conveyances-licensing/)
 - [Article 40 — When to Take Effect](article-40-when-to-take-effect/)

@@ -384,23 +384,11 @@ not take effect unless all necessary approvals under federal law and
 regulation have been obtained to receive federal financial participation
 in the costs of health care services provided pursuant to this
 paragraph.
-  * (x) lactation counseling services for pregnant and postpartum women
-when such services are ordered by a physician, registered physician
-assistant, registered nurse practitioner, or licensed midwife and
-provided by a certified lactation consultant, as determined by the
+  (x)(i) lactation counseling services for pregnant and postpartum women
+provided by a qualified lactation care provider, as determined by the
 commissioner of health; provided, however, that the provisions of this
 paragraph shall not take effect unless all necessary approvals under
 federal law and regulation have been obtained to receive federal
-financial participation in the costs of health care services provided
-pursuant to this paragraph. Nothing in this paragraph shall be construed
-to modify any licensure, certification or scope of practice provision
-under title eight of the education law.
-  * NB Effective until January 1, 2020
-  * (x)(i) lactation counseling services for pregnant and postpartum
-women provided by a qualified lactation care provider, as determined by
-the commissioner of health; provided, however, that the provisions of
-this paragraph shall not take effect unless all necessary approvals
-under federal law and regulation have been obtained to receive federal
 financial participation in the costs of health care services provided
 pursuant to this paragraph. Nothing in this paragraph shall be construed
 to modify any licensure, certification or scope of practice provision
@@ -414,7 +402,6 @@ agency.
   (2) "Nationally recognized accrediting agency" shall mean a nationally
 recognized accrediting agency designated by the commissioner; provided
 that the commissioner shall designate more than one agency.
-  * NB Effective January 1, 2020
   (y) harm reduction counseling and services to reduce or minimize the
 adverse health consequences associated with drug use, provided by a
 qualified drug treatment program or community-based organization, as
@@ -514,14 +501,7 @@ shall include the provision of evaluations and related services rendered
 pursuant to article eighty-nine of the education law and regulations of
 the commissioner of education by persons qualified to provide such
 services thereunder.
-  * (d) family planning services and supplies for eligible persons of
-childbearing age, including children under twenty-one years of age who
-can be considered sexually active, who desire such services and
-supplies, in accordance with the requirements of federal law and
-regulations and the regulations of the department. No person shall be
-compelled or coerced to accept such services or supplies.
-  * NB Effective until January 1, 2020
-  * (d) family planning services and twelve months of supplies for
+  (d) family planning services and twelve months of supplies for
 eligible persons of childbearing age, including children under
 twenty-one years of age who can be considered sexually active, who
 desire such services and supplies, in accordance with the requirements
@@ -530,7 +510,6 @@ Coverage of prescription contraceptives shall include a twelve-month
 supply that may be dispensed at one time or up to twelve times within
 one year from the date of the prescription. No person shall be compelled
 or coerced to accept such services or supplies.
-  * NB Effective January 1, 2020
   4. Any inconsistent provision of law notwithstanding, medical
 assistance shall not include, unless required by federal law and
 regulation as a condition of qualifying for federal financial
