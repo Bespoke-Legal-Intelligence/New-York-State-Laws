@@ -6,29 +6,7 @@
 ```text
   § 3000-c. Epinephrine auto-injector devices. 1. Definitions. As used
 in this section:
-  * (a) "Eligible person or entity" means (i) an ambulance service or
-advanced life support first response service; a certified first
-responder, emergency medical technician, or advanced emergency medical
-technician, who is employed by or an enrolled member of any such
-service; (ii) a children's overnight camp as defined in subdivision one
-of section thirteen hundred ninety-two of this chapter, a summer day
-camp as defined in subdivision two of section thirteen hundred
-ninety-two of this chapter, a traveling summer day camp as defined in
-subdivision three of section thirteen hundred ninety-two of this chapter
-or a person employed by such a camp; (iii) a school district, board of
-cooperative educational services, county vocational education and
-extension board, charter school, and non-public elementary and secondary
-school in this state or any person employed by any such entity, or
-employed by a contractor of such an entity while performing services for
-the entity; or (iv) a sports, entertainment, amusement, education,
-government, day care or retail facility; an educational institution,
-youth organization or sports league; an establishment that serves food;
-or a person employed by such entity; and (v) any other person or entity
-designated or approved, or in a category designated or approved pursuant
-to regulations of the commissioner in consultation with other
-appropriate agencies.
-  * NB Effective until January 11, 2020
-  * (a) "Eligible person or entity" means: (i) an ambulance service or
+  (a) "Eligible person or entity" means: (i) an ambulance service or
 advanced life support first response service; a certified first
 responder, firefighter in a city, town or village having a population of
 less than one million, emergency medical technician, or advanced
@@ -52,7 +30,6 @@ than one million; and (vi) any other person or entity designated or
 approved, or in a category designated or approved pursuant to
 regulations of the commissioner in consultation with other appropriate
 agencies.
-  * NB Effective January 11, 2020
   (b) "Epinephrine auto-injector device" means a single-use device used
 for the automatic injection of a premeasured dose of epinephrine into
 the human body for the purpose of emergency treatment of a person

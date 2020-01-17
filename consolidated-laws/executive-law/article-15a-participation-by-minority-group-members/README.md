@@ -9,7 +9,7 @@
 - [§ 311 Division of minority and women's business development](311-division-of-minority-and-womens-business-development.md)
 - [§ 311-A Minority and women-owned business enterprise statewide advocate](311a-minority-and-women-owned-business-enterprise-statewide-advocate.md)
 - [§ 312 Equal employment opportunities for minority group members and women](312-equal-employment-opportunities-for-minority-group-members-and-women.md)
-- [§ 312-A Study of minority and women-owned business enterprise programs](312a-study-of-minority-and-women-owned-business-enterprise-programs.md)
+- [§ 312-A Study of minority and women-owned business enterprises](312a-study-of-minority-and-women-owned-business-enterprises.md)
 - [§ 313 Opportunities for minority and women-owned business enterprises](313-opportunities-for-minority-and-women-owned-business-enterprises.md)
 - [§ 313-A Diversity practices of state contractors](313a-diversity-practices-of-state-contractors.md)
 - [§ 314 Statewide certification program](314-statewide-certification-program.md)

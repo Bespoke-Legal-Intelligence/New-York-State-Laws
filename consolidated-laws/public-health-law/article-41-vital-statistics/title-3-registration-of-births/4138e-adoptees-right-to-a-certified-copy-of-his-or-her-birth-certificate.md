@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 41 — Vital Statistics](../README.md) › [Title 3 — Registration of Births](README.md)
 
 ```text
-  * § 4138-e. Adoptee's right to a certified copy of his or her birth
+  § 4138-e. Adoptee's right to a certified copy of his or her birth
 certificate. 1. The legislature hereby states its intention to
 acknowledge, support and encourage the life-long health and well-being
 needs of persons who have been and will be adopted in this state. The
@@ -52,5 +52,4 @@ include the state commissioner of health, the commissioner of health and
 mental hygiene of the city of New York and for records of birth prior to
 January first, nineteen hundred fourteen, the local registrars of the
 cities of Albany, Buffalo and Yonkers.
-  * NB Effective January 15, 2020
 ```

@@ -58,16 +58,7 @@ notification is received by, or proper proof is submitted to, the
 commissioner by the clerk of a court of competent jurisdiction or the
 parents or their attorney, or the person himself, or his attorney, of a
 judgment, order or decree relating to parentage.
-  3. * (a) When a new certificate of birth is made the commissioner
-shall substitute such new certificate for the certificate of birth then
-on file, if any, and shall send the registrar of the district in which
-the birth occurred a copy of the new certificate of birth. The registrar
-shall make a copy of the new certificate for the local record and hold
-the contents of the original local record confidential along with all
-papers and copies pertaining thereto. It shall not be released or
-otherwise divulged except by order of a court of competent jurisdiction.
-  * NB Effective until January 15, 2020
-  * (a) When a new certificate of birth is made the commissioner shall
+  3. (a) When a new certificate of birth is made the commissioner shall
 substitute such new certificate for the certificate of birth then on
 file, if any, and shall send the registrar of the district in which the
 birth occurred a copy of the new certificate of birth. The registrar
@@ -77,32 +68,15 @@ papers and copies pertaining thereto. It shall not be released or
 otherwise divulged except by order of a court of competent jurisdiction
 or pursuant to section four thousand one hundred thirty-eight-e of this
 title.
-  * NB Effective January 15, 2020
-  * (b) Thereafter, when a verified transcript or certification of birth
-of such person is issued by the registrar, it shall be based upon the
-new certificate, except when an order of a court of competent
-jurisdiction shall require the issuance of a verified transcript or
-certification based upon the original local record of birth.
-  * NB Effective until January 15, 2020
-  * (b) Thereafter, when a verified transcript or certification of birth
+  (b) Thereafter, when a verified transcript or certification of birth
 of such person is issued by the registrar, it shall be based upon the
 new certificate, except when an order of a court of competent
 jurisdiction shall require the issuance of a verified transcript or
 certification based upon the original local record of birth or
 application is made pursuant to section four thousand one hundred
 thirty-eight-e of this title.
-  * NB Effective January 15, 2020
-  * 4. The commissioner may make a microfilm or other suitable copy of
-the original certificate of birth and all papers pertaining to the new
-certificate of birth. In such event, the original certificate and papers
-may be destroyed. All undestroyed certificates and papers and copies
-thereof shall be confidential and the contents thereof shall not be
-released or otherwise divulged except by order of a court of competent
-jurisdiction or pursuant to section forty-one hundred thirty-eight-c or
-forty-one hundred thirty-eight-d of this article.
-  * NB Effective until January 15, 2020
-  * 4. The commissioner may make a microfilm or other suitable copy of
-the original certificate of birth and all papers pertaining to the new
+  4. The commissioner may make a microfilm or other suitable copy of the
+original certificate of birth and all papers pertaining to the new
 certificate of birth. In such event, the original certificate and papers
 may be destroyed. All undestroyed certificates and papers and copies
 thereof shall be confidential and the contents thereof shall not be
@@ -110,21 +84,13 @@ released or otherwise divulged except by order of a court of competent
 jurisdiction or pursuant to section forty-one hundred thirty-eight-c,
 forty-one hundred thirty-eight-d or forty-one hundred thirty-eight-e of
 this title.
-  * NB Effective January 15, 2020
-  * 5. Thereafter, when a certified copy or certified transcript of the
-certificate of birth of such a person, or a certification of birth for
-such person is issued, it shall be based upon the new certificate of
-birth, except when an order of a court of competent jurisdiction shall
-require the issuance of a copy of the original certificate of birth.
-  * NB Effective until January 15, 2020
-  * 5. Thereafter, when a certified copy or certified transcript of the
+  5. Thereafter, when a certified copy or certified transcript of the
 certificate of birth of such a person, or a certification of birth for
 such person is issued, it shall be based upon the new certificate of
 birth, except when an order of a court of competent jurisdiction shall
 require the issuance of a copy of the original certificate of birth or
 application is made pursuant to section four thousand one hundred
 thirty-eight-e of this title.
-  * NB Effective January 15, 2020
   6. When the commissioner shall receive proper proof or notification
 pursuant to paragraphs (a), (b), or (c) of subdivision one of this
 section relating to a person born outside this state, such proof or
@@ -136,9 +102,8 @@ shall forward to such person, if eighteen years of age or more, or to
 the parents of such person, a certified copy, a certified transcript or
 a certification of birth, whichever he deems appropriate under the
 circumstances, without making any charge therefor.
-  * 8. An adopted person eighteen years of age or older, or the birth
+  8. An adopted person eighteen years of age or older, or the birth
 parent or parents, may submit to the registrar a notice of change of
 name and/or address and such information shall be attached to the
 original birth certificate of the adopted person.
-  * NB Effective January 15, 2020
 ```
