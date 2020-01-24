@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 521", "kind": "section", "law_id": "AGM", "location_id": "521", "path": "ARTICLE 29-A › SECTION 521", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/521.md", "title": "Rulemaking authority"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 521", "kind": "section", "law_id": "AGM", "location_id": "521", "path": "ARTICLE 29 › SECTION 521", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/521.md", "title": "Rulemaking authority"} -->
 # Agriculture and Markets Law § 521 — Rulemaking authority
 
-[Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
   * § 521. Rulemaking authority. 1. The department shall perform such
@@ -35,5 +35,12 @@ environmental conservation and the New York state energy research and
 development agency, shall promulgate necessary rules and regulations
 governing the safe production of hemp extract, including environmental
 and energy standards.
+  * NB Effective and Repealed March 8, 2020
+  * § 521. Severability. If any provision of this article or the
+application thereof to any person or circumstances is held invalid, such
+invalidity shall not affect other provisions or applications of the
+article which can be given effect without the invalid provision or
+application, and to this end the provisions of this article are declared
+to be severable.
   * NB Effective March 8, 2020
 ```

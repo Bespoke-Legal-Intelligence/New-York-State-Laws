@@ -20,5 +20,5 @@ all cannabis products manufactured by the licensee.
 such testing shall not be certified by the department and does not
 exempt the licensee from the requirements of quality assurance testing
 at a testing laboratory pursuant to this section.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

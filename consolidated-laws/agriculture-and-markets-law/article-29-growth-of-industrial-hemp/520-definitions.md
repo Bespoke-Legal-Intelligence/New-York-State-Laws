@@ -1,7 +1,7 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 520", "kind": "section", "law_id": "AGM", "location_id": "520", "path": "ARTICLE 29-A › SECTION 520", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/520.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 520", "kind": "section", "law_id": "AGM", "location_id": "520", "path": "ARTICLE 29 › SECTION 520", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/520.md", "title": "Definitions"} -->
 # Agriculture and Markets Law § 520 — Definitions
 
-[Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
 
 ```text
   * § 520. Definitions. Wherever used in this article unless otherwise
@@ -44,5 +44,21 @@ of such plant, including the seeds thereof and all derivatives,
 extracts, cannabinoids, isomers, acids, salts, and salts of isomers,
 whether growing or not, with a delta-9-tetrahydrocannabinol
 concentration of not more than 0.3 percent on a dry weight basis.
+  * NB Effective and Repealed March 8, 2020
+  * § 520. Hemp data collection and best farming practices. 1. The
+commissioner shall have the power to collect and publish data and
+research concerning, among other things, the growth, cultivation,
+production and processing methods of hemp and products derived from hemp
+and work with the New York state college of agriculture and life
+sciences at Cornell pursuant to section fifty-seven hundred twelve of
+the education law and Cornell cooperative extension pursuant to section
+two hundred twenty-four of the county law to promote best farming
+practices for hemp which are compatible with state water quality and
+other environmental objectives.
+  2. The department, in conjunction with the department of environmental
+conservation, shall promulgate all necessary rules and regulations, as
+well as a process for approval, governing the safe production of hemp,
+including, but not limited to, environmental and energy standards and
+restrictions on the use of pesticides.
   * NB Effective March 8, 2020
 ```

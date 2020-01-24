@@ -27,5 +27,5 @@ industrial hemp grower shall apply for a cannabinoid grower license
 provided it can demonstrate to the department that its cultivation of
 industrial hemp meets all the requirements for hemp extract cultivated
 under a cannabinoid grower license.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

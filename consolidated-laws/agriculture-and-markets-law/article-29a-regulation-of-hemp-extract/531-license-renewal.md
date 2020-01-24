@@ -32,5 +32,5 @@ may be based on the type of licensure sought, cultivation and/or
 production volume, or any other factors deemed reasonable and
 appropriate by the department to achieve the policy and purpose of this
 chapter.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

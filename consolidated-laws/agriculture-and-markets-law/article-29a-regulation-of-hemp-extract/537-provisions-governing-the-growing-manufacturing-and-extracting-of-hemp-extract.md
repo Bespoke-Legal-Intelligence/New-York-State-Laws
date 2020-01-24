@@ -27,5 +27,5 @@ department shall issue guidance on the label, warning, point of sale,
 and advertising for such beverages.
   5. Terpenes derived from the hemp plant are generally recognized as
 safe.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

@@ -95,7 +95,7 @@ supervision, for the purpose of, or as an incident to, research,
 teaching, or chemical analysis and not for sale; or
   (c) by a pharmacist as an incident to his dispensing of a controlled
 substance in the course of his professional practice.
-  21. "Marihuana" means all parts of the plant of the genus Cannabis,
+  * 21. "Marihuana" means all parts of the plant of the genus Cannabis,
 whether growing or not; the seeds thereof; the resin extracted from any
 part of the plant; and every compound, manufacture, salt, derivative,
 mixture, or preparation of the plant, its seeds or resin. It does not
@@ -104,6 +104,24 @@ oil or cake made from the seeds of the plant, any other compound,
 manufacture, salt, derivative, mixture, or preparation of the mature
 stalks (except the resin extracted therefrom), fiber, oil, or cake, or
 the sterilized seed of the plant which is incapable of germination.
+  * NB Effective until March 8, 2020
+  * 21. "Marihuana" means all parts of the plant of the genus Cannabis,
+whether growing or not; the seeds thereof; the resin extracted from any
+part of the plant; and every compound, manufacture, salt, derivative,
+mixture, or preparation of the plant, its seeds or resin. The term
+"marihuana" shall not include:
+  (a) the mature stalks of the plant, fiber produced from the stalks,
+oil or cake made from the seeds of the plant, any other compound,
+manufacture, salt, derivative, mixture, or preparation of the mature
+stalks (except the resin extracted therefrom), fiber, oil, or cake, or
+the sterilized seed of the plant which is incapable of germination;
+  (b) hemp, as defined in subdivision one of section five hundred five
+of the agriculture and markets law;
+  (c) cannabinoid hemp as defined in subdivision two of section
+thirty-three hundred ninety-eight of this chapter; or
+  (d) hemp extract as defined in subdivision five of section
+thirty-three hundred ninety-eight of this chapter.
+  * NB Effective March 8, 2020
   22. "Narcotic drug" means any of the following, whether produced
 directly or indirectly by extraction from substances of vegetable
 origin, or independently by means of chemical synthesis, or by a

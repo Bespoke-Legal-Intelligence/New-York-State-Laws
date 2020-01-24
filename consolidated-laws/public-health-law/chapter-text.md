@@ -282,6 +282,8 @@ Article
                           (§§3380-3397).
   33-A.    Controlled substances therapeutic research act
             (§§3397-a--3397-f).
+  33-B     Regulation of cannabinoid hemp and hemp extract (§§
+            3398--3398-u).
   34.      Funeral directing
            Title    I.   General provisions (§§3400-3404).
                    II.   Licensing and registration (§§3420-3429).

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,675 |
-| Last changed | 17 Jan 2020 |
+| Sections | 1,697 |
+| Last changed | 24 Jan 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (339 lines)](chapter-text.md)
+[Full chapter text (341 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Jan 2020](../../changes/2020/2020-01-24.md): 2 amended, 22 added
 - [17 Jan 2020](../../changes/2020/2020-01-17.md): 5 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 8 amended
 - [3 Jan 2020](../../changes/2020/2020-01-03.md): 10 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 1 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 2 amended, 1 added
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 3 amended
-- [15 Nov 2019](../../changes/2019/2019-11-15.md): 15 amended, 1 added
 
 ## Contents
 
@@ -135,6 +135,7 @@ Assembly, do enact as follows:
 - [Article 32-A — Recombinant Dna Experiments](article-32a-recombinant-dna-experiments/)
 - [Article 33 — Controlled Substances](article-33-controlled-substances/)
 - [Article 33-A — Controlled Substances Therapeutic Research Act](article-33a-controlled-substances-therapeutic-research-act/)
+- [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](article-33b-regulation-of-cannabinoid-hemp-and-hemp-extract/)
 - [Article 34 — Funeral Directing](article-34-funeral-directing/)
 - [Article 35 — Practice of Radiologic Technology](article-35-practice-of-radiologic-technology/)
 - [Article 35-A — Ultraviolet Radiation Devices](article-35a-ultraviolet-radiation-devices/)

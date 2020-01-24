@@ -1,0 +1,34 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 3398-E", "kind": "section", "law_id": "PBH", "location_id": "3398-E", "path": "ARTICLE 33-B › SECTION 3398-E", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3398-E.md", "title": "Information to be requested in applications for licenses"} -->
+# Public Health Law § 3398-E — Information to be requested in applications for licenses
+
+[Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
+
+```text
+  * § 3398-e. Information to be requested in applications for licenses.
+1.  The commissioner may specify the manner and form in which an
+application shall be submitted to the department for licensure under
+this article.
+  2. The commissioner may adopt regulations establishing what relevant
+information shall be included on an application for licensure under this
+article. Such information may include, but is not limited to:
+information about the applicant's identity; ownership and investment
+information, including the corporate structure; evidence of good moral
+character; financial statements; information about the premises to be
+licensed; information about the activities to be licensed; and any other
+relevant information specified in regulation.
+  3. All license applications shall be signed by the applicant if an
+individual, by a managing partner if a limited liability company, by an
+officer if a corporation, or by all partners if a partnership. Each
+person signing such application shall verify it as true under the
+penalties of perjury.
+  4. All license applications shall be accompanied by a check, draft or
+other forms of payment as the department may require or authorize in the
+reasonable amount required by this article for such license.
+  5. If there be any change, after the filing of the application or the
+granting, modification or renewal of a license, in any of the material
+facts required to be set forth in such application, a supplemental
+statement giving notice of such change, duly verified, shall be filed
+with the department within ten days after such change. Failure to do so,
+if willful and deliberate, may be grounds for revocation of the license.
+  * NB Effective May 1, 2020
+```

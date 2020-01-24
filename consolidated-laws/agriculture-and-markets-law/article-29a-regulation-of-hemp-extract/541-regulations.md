@@ -6,5 +6,5 @@
 ```text
   * § 541. Regulations. The commissioner shall make regulations to
 implement this article.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

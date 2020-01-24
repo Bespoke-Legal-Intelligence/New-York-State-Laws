@@ -14,5 +14,5 @@ licensed activities of the licensee;
 and
   5. such other information as the commissioner shall deem necessary to
 assure compliance with this chapter.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```

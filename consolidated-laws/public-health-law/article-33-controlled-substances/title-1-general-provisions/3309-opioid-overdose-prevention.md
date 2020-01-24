@@ -58,25 +58,9 @@ either: (1) pursue or maintain a non-patient-specific prescription with
 an authorized health care professional to dispense an opioid antagonist
 to a consumer upon request, as authorized by this section; or (2)
 register with the department as an opioid overdose prevention program.
-  * 3-a. Any distribution of opioid antagonists through this program
-shall include an informational card or sheet. The informational card or
-sheet shall include, at a minimum, information on:
-  (a) how to recognize symptoms of an opioid overdose;
-  (b) steps to take prior to and after an opioid antagonist is
-administered, including calling first responders;
-  (c) the number for the toll free office of alcoholism and substance
-abuse services HOPE line;
-  (d) how to access the office of alcoholism and substance abuse
-services' website; and
-  (e) any other information deemed relevant by the commissioner.
-  The educational card shall be provided in languages other than English
-as deemed appropriate by the commissioner. The department shall make
-such informational cards available to the opioid overdose prevention
-programs.
-  * NB Effective until January 19, 2020
-  * 3-a. Any distribution of opioid antagonists through this program
-shall include an informational card or sheet. The informational card or
-sheet shall include, at a minimum, information on:
+  3-a. Any distribution of opioid antagonists through this program shall
+include an informational card or sheet. The informational card or sheet
+shall include, at a minimum, information on:
   (a) how to recognize symptoms of an opioid overdose;
   (b) steps to take prior to and after an opioid antagonist is
 administered, including calling first responders;
@@ -91,7 +75,6 @@ three thousand-a of this chapter; and
 as deemed appropriate by the commissioner. The department shall make
 such informational cards available to the opioid overdose prevention
 programs.
-  * NB Effective January 19, 2020
   4. Use of an opioid antagonist pursuant to this section shall be
 considered first aid or emergency treatment for the purpose of any
 statute relating to liability.

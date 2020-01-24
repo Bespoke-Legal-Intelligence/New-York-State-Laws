@@ -5,8 +5,6 @@
 
 ## Contents
 
-- [§ 520 Definitions](520-definitions.md)
-- [§ 521 Rulemaking authority](521-rulemaking-authority.md)
 - [§ 522 Cannabinoid related hemp extract licensing](522-cannabinoid-related-hemp-extract-licensing.md)
 - [§ 523 Cannabinoid grower licenses](523-cannabinoid-grower-licenses.md)
 - [§ 524 Cannabinoid manufacturer license](524-cannabinoid-manufacturer-license.md)
@@ -70,7 +68,7 @@ Section 520. Definitions.
         545. Hemp workgroup.
         546. Prohibitions.
         547. Severability.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```
 
 </details>

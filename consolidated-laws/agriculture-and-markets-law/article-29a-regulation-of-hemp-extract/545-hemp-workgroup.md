@@ -13,5 +13,5 @@ opportunities for the promotion and marketing of industrial hemp and
 hemp extract as consistent with federal and state laws, rules and
 regulations, which workgroup shall continue for such time as the
 commissioner deems appropriate.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
 ```
