@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 233. Municipal gun buyback program. 1. There is hereby established
+  § 233. Municipal gun buyback program. 1. There is hereby established
 within the division of the state police a municipal gun buyback program.
 Agencies approved by the superintendent may participate subject to
 available appropriations and funds in the municipal gun buyback fund
@@ -37,5 +37,4 @@ and conforms to the rules and regulations promulgated by the
 superintendent and outlined in subdivision two of this section.
   5. For purposes of this section "agency" means the police force or
 department of any county, city, town, or village or a county sheriff.
-  * NB Effective January 27, 2020
 ```
