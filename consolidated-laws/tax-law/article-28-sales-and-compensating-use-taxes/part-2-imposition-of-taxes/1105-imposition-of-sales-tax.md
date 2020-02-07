@@ -267,6 +267,13 @@ the commissioner of education, or is incorporated by the regents of the
 university of the State of New York or with their consent or the consent
 of the commissioner of education as provided in section two hundred
 sixteen of the education law; and
+  (C) Sales by a brewery licensed under section fifty-one of the
+alcoholic beverage control law, or a farm brewery licensed under section
+fifty-one-a of such law, of no more than four samples of beer not
+exceeding four fluid ounces each, and each sample shall be a different
+beer than the others. Only a customer's first purchase during each
+calendar day at each licensed entity shall be exempt under this
+subparagraph.
   (e) (1) The rent for every occupancy of a room or rooms in a hotel in
 this state, except that the tax shall not be imposed upon (i) a
 permanent resident, or (ii) where the rent is not more than at the rate

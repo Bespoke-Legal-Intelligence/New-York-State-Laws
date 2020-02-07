@@ -393,10 +393,7 @@ winery, brewery, farm brewery, cider producer, farm cidery, distillery,
 farm distillery, mead producer, farm meadery, wholesaler, or importer at
 a tasting held in accordance with the alcoholic beverage control law to
 a customer or prospective customer who consumes such wine, beer, cider,
-liquor or mead at such tasting. For purposes of this paragraph, a beer
-tasting shall meet the definition set forth in subdivision three-a of
-section fifty-one of the alcoholic beverage control law or paragraph (f)
-of subdivision two of section fifty-one-a of such law.
+liquor or mead at such tasting.
   (34) Textbooks purchased by full and part time college students for
 their courses; provided, however, that upon purchase such a student
 shall present a valid student identification card, and such a textbook
@@ -554,6 +551,13 @@ supplies, maintenance and repairs.
 fifteen hundred two of the not-for-profit corporation law, and tangible
 personal property that will become a physical component part of such
 monuments.
+  (45) Sales by a brewery licensed under section fifty-one of the
+alcoholic beverage control law, or a farm brewery licensed under section
+fifty-one-a of such law, of no more than four samples of beer not
+exceeding four fluid ounces each, and each sample shall be a different
+beer than the others. Only a customer's first purchase during each
+calendar day at each licensed entity shall be exempt under this
+paragraph.
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall

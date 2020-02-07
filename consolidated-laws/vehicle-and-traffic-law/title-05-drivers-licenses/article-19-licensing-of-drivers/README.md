@@ -15,6 +15,7 @@
 - [§ 505 Duplicate and amended licenses and permits; change of address](505-duplicate-and-amended-licenses-and-permits-change-of-address.md)
 - [§ 506 Reexamination of licensees](506-reexamination-of-licensees.md)
 - [§ 507 Miscellaneous provisions](507-miscellaneous-provisions.md)
+- [§ 507-A Special requirements for for-hire vehicle motor carriers and drivers; drugs and alcohol](507a-special-requirements-for-for-hire-vehicle-motor-carriers-and-drivers.md)
 - [§ 508 Administrative procedures](508-administrative-procedures.md)
 - [§ 509 Violations](509-violations.md)
 
@@ -38,6 +39,8 @@ Section 501.   Drivers' licenses and learners' permits.
                  address.
         506.   Reexamination of licensees.
         507.   Miscellaneous provisions.
+        507-a. Special requirements for for-hire vehicle motor carriers
+                 and drivers; drugs and alcohol.
         508.   Administrative procedures.
         509.   Violations.
 ```

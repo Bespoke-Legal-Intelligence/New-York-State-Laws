@@ -13,7 +13,6 @@
 - [§ 1111-B Owner liability for failure of operator to comply with traffic-control indications](1111b-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-B\*2 Owner liability for failure of operator to comply with traffic-control indications](1111b-2-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-B\*3 Owner liability for failure of operator to comply with traffic-control indications](1111b-3-owner-liability-for-failure-of-operator-to-comply.md)
-- [§ 1111-B\*4 Owner liability for failure of operator to comply with traffic-control indications](1111b-4-owner-liability-for-failure-of-operator-to-comply.md) *(repealed)*
 - [§ 1111-C Owner liability for failure of operator to comply with bus lane restrictions](1111c-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D Owner liability for failure of operator to comply with traffic-control indications](1111d-owner-liability-for-failure-of-operator-to-comply.md)
 - [§ 1111-D\*2 Owner liability for failure of operator to comply with traffic-control indications](1111d-2-owner-liability-for-failure-of-operator-to-comply.md)
