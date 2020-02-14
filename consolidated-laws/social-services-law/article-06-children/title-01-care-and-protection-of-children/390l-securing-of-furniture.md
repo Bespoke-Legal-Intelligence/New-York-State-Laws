@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 6 — Children](../README.md) › [Title 1 — Care and Protection of Children](README.md)
 
 ```text
-  * § 390-l. Securing of furniture. 1. This section shall apply to any
+  § 390-l. Securing of furniture. 1. This section shall apply to any
 child day care center as defined in paragraph (c) of subdivision one of
 section three hundred ninety of this title, or any authorized agency as
 defined in paragraph (a) of subdivision ten of section three hundred
@@ -28,5 +28,4 @@ violation. The operator of the facility shall correct the violation
 immediately, upon notice. If the violation is not corrected, the office
 of children and family services may take enforcement action in
 accordance with the applicable sections of state law.
-  * NB Effective February 9, 2020
 ```

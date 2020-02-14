@@ -10,6 +10,7 @@
 - [Title 3 — Government Agency Reporting of Toxic Chemical Releases](title-03-government-agency/)
 - [Title 5 — Bisphenol a](title-05-bisphenol/)
 - [Title 7 — Tris](title-07-tris/)
+- [Title 9 — Toxic Chemicals In Children's Products](title-09-toxic-chemicals/)
 
 <details>
 <summary>Official heading of Article 37, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -62,6 +63,15 @@ Section 37-0701. Short title.
         37-0705. Child care products.
         37-0707. Preemption.
         37-0709. Rules and regulations.
+                                TITLE IX
+                 TOXIC CHEMICALS IN CHILDREN'S PRODUCTS
+Section 37-0901. Definitions.
+        37-0903. Consumer notice.
+        37-0905. Reporting on the use of chemicals.
+        37-0907. Sales prohibition.
+        37-0909. Applicability.
+        37-0911. Enforcement and implementation.
+        37-0913. Regulations.
 ```
 
 </details>
