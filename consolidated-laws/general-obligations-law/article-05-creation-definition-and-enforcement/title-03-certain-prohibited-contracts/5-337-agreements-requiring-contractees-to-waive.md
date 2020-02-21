@@ -4,7 +4,7 @@
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 3 — Certain Prohibited Contracts and Provisions of Contracts](README.md)
 
 ```text
-  * § 5-337. Agreements requiring contractees to waive their rights in
+  § 5-337. Agreements requiring contractees to waive their rights in
 relation to expressing certain opinions about contractors void and
 unenforceable. 1. (a) A contract or proposed contract for the sale or
 lease of consumer goods or services may not include a provision waiving
@@ -31,5 +31,4 @@ and does not affect any other relief or remedy provided by law. This
 section shall not be construed to prohibit or limit a person or business
 that hosts online consumer reviews or comments from removing a statement
 that is otherwise lawful to remove.
-  * NB Effective February 18, 2020
 ```
