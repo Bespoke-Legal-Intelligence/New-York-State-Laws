@@ -77,7 +77,7 @@ effective models for providing home visiting services and statutory
 changes which could improve the state's ability to prevent child abuse
 and maltreatment, improve healthy outcomes for families and empower
 families to develop and obtain their self-sufficiency goals.
-  * 8. Any home visiting program that meets the criteria delineated in
+  8. Any home visiting program that meets the criteria delineated in
 this section as determined by factors set by the office of children and
 family services and the department of health, regardless of whether such
 program contracts with or receives funding from the state, may provide
@@ -87,5 +87,4 @@ one of section two hundred one of the public health law in order for
 their program to be made available on the internet mapping resource
 maintained by the council on children and families pursuant to section
 four hundred eighty-three-h of this chapter.
-  * NB Effective February 23, 2020
 ```

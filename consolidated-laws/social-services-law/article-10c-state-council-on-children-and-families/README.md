@@ -13,7 +13,7 @@
 - [§ 483-E Restraint and crisis intervention technique committee](483e-restraint-and-crisis-intervention-technique-committee.md)
 - [§ 483-F The children's plan](483f-the-childrens-plan.md)
 - [§ 483-G Early childhood advisory council](483g-early-childhood-advisory-council.md)
-- [§ 483-H Internet mapping resource of school age child care providers and afterschool programs](483h-internet-mapping-resource-of-school-age-child-care-providers-and-afterschool.md)
+- [§ 483-H Internet mapping resource of school age child care providers and afterschool and home visiting programs](483h-internet-mapping-resource-of-school-age-child-care-providers-and-afterschool.md)
 
 <details>
 <summary>Official heading of Article 10-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
