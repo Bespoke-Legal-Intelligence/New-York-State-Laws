@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 28 — Bag Waste Reduction](README.md)
 
 ```text
-* § 27-2803. Plastic carryout bag ban.
+§ 27-2803. Plastic carryout bag ban.
   1. No person required to collect tax shall distribute any plastic
 carryout bags to its customers unless such bags are exempt bags as
 defined in subdivision one of section 27-2801 of this title.
@@ -12,5 +12,4 @@ defined in subdivision one of section 27-2801 of this title.
 a bag of any kind that they have brought for purposes of carrying goods.
   3. Nothing in this section shall be deemed to exempt the provisions
 set forth in title 27 of this article relating to at store recycling.
-  * NB Effective March 1, 2020
 ```

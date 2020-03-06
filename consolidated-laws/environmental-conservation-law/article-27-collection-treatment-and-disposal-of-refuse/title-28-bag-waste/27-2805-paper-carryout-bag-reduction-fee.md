@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 28 — Bag Waste Reduction](README.md)
 
 ```text
-* § 27-2805. Paper carryout bag reduction fee.
+§ 27-2805. Paper carryout bag reduction fee.
   1. (a) Notwithstanding any other provision of law to the contrary, any
 city and any county, other than a county wholly within such a city,
 acting through its local legislative body, is hereby authorized and
@@ -134,5 +134,4 @@ communities. Any remaining amount of paper carryout bag reduction fee
 monies and any related penalties and interest shall be deposited monthly
 into the environmental protection fund established pursuant to section
 ninety-two-s of the state finance law.
-  * NB Effective March 1, 2020
 ```

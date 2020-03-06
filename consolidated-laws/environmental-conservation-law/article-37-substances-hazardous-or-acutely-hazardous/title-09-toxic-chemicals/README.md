@@ -17,7 +17,7 @@
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE IX
+                                TITLE IX
                  TOXIC CHEMICALS IN CHILDREN'S PRODUCTS
 Section 37-0901. Definitions.
         37-0903. Consumer notice.
@@ -26,7 +26,6 @@ Section 37-0901. Definitions.
         37-0909. Applicability.
         37-0911. Enforcement and implementation.
         37-0913. Regulations.
-  * NB Effective March 1, 2020
 ```
 
 </details>

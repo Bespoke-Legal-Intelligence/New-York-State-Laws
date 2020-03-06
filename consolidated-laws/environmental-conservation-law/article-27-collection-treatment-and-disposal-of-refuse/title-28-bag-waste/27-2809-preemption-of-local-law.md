@@ -4,8 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 28 — Bag Waste Reduction](README.md)
 
 ```text
-* § 27-2809. Preemption of local law.
+§ 27-2809. Preemption of local law.
   Jurisdiction in all matters pertaining to plastic carryout bags is
 vested exclusively in the state.
-  * NB Effective March 1, 2020
 ```

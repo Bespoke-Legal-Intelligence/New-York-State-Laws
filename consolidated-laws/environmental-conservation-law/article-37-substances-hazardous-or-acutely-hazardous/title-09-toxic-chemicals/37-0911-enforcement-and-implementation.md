@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 9 — Toxic Chemicals In Children's Products](README.md)
 
 ```text
-* § 37-0911. Enforcement and implementation.
+§ 37-0911. Enforcement and implementation.
   1. Failure to provide notice. A children's product containing a
 dangerous chemical may not be sold, offered for sale or distributed for
 sale in this state unless the manufacturer has provided the notification
@@ -28,5 +28,4 @@ this title; or
   (c) attest that the manufacturer has notified persons who sell the
 product in this state that the sale of the children's product is
 prohibited.
-  * NB Effective March 1, 2020
 ```

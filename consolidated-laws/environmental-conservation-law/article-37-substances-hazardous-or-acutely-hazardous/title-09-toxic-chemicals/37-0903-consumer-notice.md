@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 9 — Toxic Chemicals In Children's Products](README.md)
 
 ```text
-* § 37-0903. Consumer notice.
+§ 37-0903. Consumer notice.
   1. Publishing of lists. Within one hundred eighty days of the
 effective date of this title, the department shall post lists of
 dangerous chemicals and chemicals of concern on the department's
@@ -40,5 +40,4 @@ evidence as:
 neurotoxicant, asthmagen, or endocrine disruptor;
   (ii) Persistent, bioaccumulative and toxic; or
   (iii) Very persistent and very bioaccumulative.
-  * NB Effective March 1, 2020
 ```

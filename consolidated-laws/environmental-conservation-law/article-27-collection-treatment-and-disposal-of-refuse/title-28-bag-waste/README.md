@@ -15,14 +15,13 @@
 <summary>Official heading of Title 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE 28
+                                TITLE 28
                            BAG WASTE REDUCTION
 Section 27-2801. Definitions.
         27-2803. Plastic carryout bag ban.
         27-2805. Paper carryout bag reduction fee.
         27-2807. Violations.
         27-2809. Preemption of local law.
-  * NB Effective March 1, 2020
 ```
 
 </details>

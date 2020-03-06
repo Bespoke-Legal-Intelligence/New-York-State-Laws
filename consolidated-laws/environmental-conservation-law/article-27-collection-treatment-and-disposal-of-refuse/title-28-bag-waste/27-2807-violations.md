@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 28 — Bag Waste Reduction](README.md)
 
 ```text
-* § 27-2807. Violations.
+§ 27-2807. Violations.
   1. Any person required to collect tax who violates any provision of
 section 27-2803 of this title shall receive a warning notice for the
 first such violation. A person required to collect tax shall be liable
@@ -19,5 +19,4 @@ attorney general are hereby authorized to enforce the provisions of this
 title, and all monies collected shall be deposited to the credit of the
 environmental protection fund established pursuant to section
 ninety-two-s of the state finance law.
-  * NB Effective March 1, 2020
 ```

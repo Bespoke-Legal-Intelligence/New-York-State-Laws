@@ -4,8 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 9 — Toxic Chemicals In Children's Products](README.md)
 
 ```text
-* § 37-0913. Regulations.
+§ 37-0913. Regulations.
   The department may adopt any rules and regulations it deems necessary
 to implement the provisions of this title.
-  * NB Effective March 1, 2020
 ```

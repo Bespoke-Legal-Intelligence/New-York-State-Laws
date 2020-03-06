@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 9 — Toxic Chemicals In Children's Products](README.md)
 
 ```text
-* § 37-0905. Reporting on the use of chemicals.
+§ 37-0905. Reporting on the use of chemicals.
   1. Reporting of chemical use. No later than twelve months after a
 dangerous chemical appears on the list published pursuant to section
 37-0903 of this title, every manufacturer who offers a children's
@@ -44,5 +44,4 @@ request pursuant to subdivision two of this section to cover the
 department's reasonable costs in the administration and enforcement of
 this title. Exclusive of fines and penalties, the state shall only
 recover its actual cost of administration and enforcement.
-  * NB Effective March 1, 2020
 ```

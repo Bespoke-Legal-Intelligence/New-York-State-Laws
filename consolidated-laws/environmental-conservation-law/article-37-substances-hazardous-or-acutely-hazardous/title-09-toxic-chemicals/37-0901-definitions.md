@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 37 — Substances Hazardous or Acutely Hazardous to Public Health, Safety or the Environment](../README.md) › [Title 9 — Toxic Chemicals In Children's Products](README.md)
 
 ```text
-* § 37-0901. Definitions.
+§ 37-0901. Definitions.
   As used in this title, unless the context otherwise indicates, the
 following terms have the following meanings.
   1. "Children's apparel" means any item of clothing that consists of
@@ -186,5 +186,4 @@ chemicals that is incidental to manufacturing, including an unintended
 by-product of chemical reactions during the manufacture of the
 children's product, a trace impurity in feed-stock, an incompletely
 reacted chemical mixture, or a degradation product.
-  * NB Effective March 1, 2020
 ```
