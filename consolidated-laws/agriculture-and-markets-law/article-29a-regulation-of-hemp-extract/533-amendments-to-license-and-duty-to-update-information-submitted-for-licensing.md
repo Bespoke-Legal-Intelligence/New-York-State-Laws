@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 533", "kind": "section", "law_id": "AGM", "location_id": "533", "path": "ARTICLE 29-A › SECTION 533", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/533.md", "title": "Amendments to license and duty to update information submitted for licensing"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 533", "kind": "section", "law_id": "AGM", "location_id": "533", "path": "ARTICLE 29-A › SECTION 533", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/533.md", "title": "Amendments to license and duty to update information submitted for licensing"} -->
 # Agriculture and Markets Law § 533 — Amendments to license and duty to update information submitted for licensing
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 533. Amendments to license and duty to update information

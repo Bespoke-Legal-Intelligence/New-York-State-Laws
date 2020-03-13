@@ -1,0 +1,29 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 506", "kind": "section", "law_id": "AGM", "location_id": "506", "path": "ARTICLE 29 › SECTION 506", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/506.md", "title": "Growth, sale, distribution, transportation and processing of hemp and products derived from such hemp permitted"} -->
+# Agriculture and Markets Law § 506 — Growth, sale, distribution, transportation and processing of hemp and products derived from such hemp permitted
+
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Hemp](README.md)
+
+```text
+  § 506. Growth, sale, distribution, transportation and processing of
+hemp and products derived from such hemp permitted. 1. Notwithstanding
+any provision of law to the contrary, hemp and products derived from
+such hemp are agricultural products which may be grown, cultivated,
+produced, processed, manufactured, possessed in the state, and sold,
+distributed, or transported in the state, pursuant to authorization
+under federal law, the provisions of this article, article
+thirty-three-B of the public health law or any other state law.
+  2. Notwithstanding any provision of law to the contrary restricting
+the growing or cultivating, processing, manufacturing, sale,
+distribution or transportation of hemp and products derived from such
+hemp, and subject to authorization of the growth and cultivation of hemp
+under federal law, the commissioner may: (a) authorize the growing,
+cultivating, processing and manufacturing of hemp as part of
+agricultural pilot programs conducted by the department or an
+institution of higher education to study the growth and cultivation,
+sale, distribution, transportation, processing and manufacturing of such
+hemp and products derived from such hemp provided that the sites and
+programs used for growing or cultivating hemp are authorized by, and
+registered with, the department; and (b) license the growth and
+cultivation of hemp, including the processing of hemp in connection with
+its growing and cultivation, and the sale of hemp plants or hemp seed.
+```

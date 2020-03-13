@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 510", "kind": "section", "law_id": "AGM", "location_id": "510", "path": "ARTICLE 29 › SECTION 510", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/510.md", "title": "Granting, suspending or revoking licenses"} -->
+# Agriculture and Markets Law § 510 — Granting, suspending or revoking licenses
+
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Hemp](README.md)
+
+```text
+  § 510. Granting, suspending or revoking licenses. After due notice and
+opportunity to be heard, as established by rules and regulations, the
+commissioner may decline to grant a new license, impose conditions or
+limits with respect to the grant of a license, modify an existing
+license or decline to renew a license, or suspend or revoke a license
+already granted, whenever the commissioner finds that:
+  1. A material statement contained in an application is or was false or
+misleading;
+  2. The applicant or licensee, or a person in a position of management
+and control thereof or of the licensed activity, does not have good
+moral character, necessary experience or competency, adequate
+facilities, equipment, process controls, testing capability or security,
+to grow, cultivate and process hemp in connection with its growing and
+cultivation or to sell hemp plants or hemp seed;
+  3. After appropriate notice and opportunity, the applicant or licensee
+has failed to produce any records or provide any information required by
+this article, the rules and regulations promulgated pursuant thereto or
+demanded by the commissioner, reasonably related to the administration
+and enforcement of this article;
+  4. The applicant or licensee, or any officer, director, partner, or
+other person exercising any position of management or control thereof
+has willfully failed to comply with any of the provisions of this
+article or rules and regulations promulgated pursuant thereto or other
+law of this state applicable to the licensed activity; or
+  5. The licensee has failed to comply with its compliance action plan
+established under section five hundred sixteen of this article.
+```

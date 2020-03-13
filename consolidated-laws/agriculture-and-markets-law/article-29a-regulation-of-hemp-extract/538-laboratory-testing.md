@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 538", "kind": "section", "law_id": "AGM", "location_id": "538", "path": "ARTICLE 29-A › SECTION 538", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/538.md", "title": "Laboratory testing"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 538", "kind": "section", "law_id": "AGM", "location_id": "538", "path": "ARTICLE 29-A › SECTION 538", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/538.md", "title": "Laboratory testing"} -->
 # Agriculture and Markets Law § 538 — Laboratory testing
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 538. Laboratory testing. 1. Every cannabinoid manufacturer and

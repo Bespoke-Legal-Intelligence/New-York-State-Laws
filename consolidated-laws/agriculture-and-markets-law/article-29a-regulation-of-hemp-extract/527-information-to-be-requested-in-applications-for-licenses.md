@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 527", "kind": "section", "law_id": "AGM", "location_id": "527", "path": "ARTICLE 29-A › SECTION 527", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/527.md", "title": "Information to be requested in applications for licenses"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 527", "kind": "section", "law_id": "AGM", "location_id": "527", "path": "ARTICLE 29-A › SECTION 527", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/527.md", "title": "Information to be requested in applications for licenses"} -->
 # Agriculture and Markets Law § 527 — Information to be requested in applications for licenses
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 527. Information to be requested in applications for licenses. 1.

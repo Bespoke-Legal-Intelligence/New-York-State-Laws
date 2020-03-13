@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 529", "kind": "section", "law_id": "AGM", "location_id": "529", "path": "ARTICLE 29-A › SECTION 529", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/529.md", "title": "Selection criteria"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 529", "kind": "section", "law_id": "AGM", "location_id": "529", "path": "ARTICLE 29-A › SECTION 529", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/529.md", "title": "Selection criteria"} -->
 # Agriculture and Markets Law § 529 — Selection criteria
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 529. Selection criteria. 1. An applicant shall furnish evidence:

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 542", "kind": "section", "law_id": "AGM", "location_id": "542", "path": "ARTICLE 29-A › SECTION 542", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/542.md", "title": "Cannabinoid permit"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 542", "kind": "section", "law_id": "AGM", "location_id": "542", "path": "ARTICLE 29-A › SECTION 542", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/542.md", "title": "Cannabinoid permit"} -->
 # Agriculture and Markets Law § 542 — Cannabinoid permit
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 542. Cannabinoid permit. The department is hereby authorized to

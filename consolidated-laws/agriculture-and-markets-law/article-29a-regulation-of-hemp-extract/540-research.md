@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 540", "kind": "section", "law_id": "AGM", "location_id": "540", "path": "ARTICLE 29-A › SECTION 540", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/540.md", "title": "Research"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 540", "kind": "section", "law_id": "AGM", "location_id": "540", "path": "ARTICLE 29-A › SECTION 540", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/540.md", "title": "Research"} -->
 # Agriculture and Markets Law § 540 — Research
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 540. Research. 1. The department shall promote research and

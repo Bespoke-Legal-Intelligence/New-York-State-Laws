@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 526", "kind": "section", "law_id": "AGM", "location_id": "526", "path": "ARTICLE 29-A › SECTION 526", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/526.md", "title": "Cannabinoid license applications"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 526", "kind": "section", "law_id": "AGM", "location_id": "526", "path": "ARTICLE 29-A › SECTION 526", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/526.md", "title": "Cannabinoid license applications"} -->
 # Agriculture and Markets Law § 526 — Cannabinoid license applications
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 526. Cannabinoid license applications. 1. Persons shall apply for

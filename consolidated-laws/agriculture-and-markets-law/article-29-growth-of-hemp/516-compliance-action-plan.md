@@ -1,10 +1,10 @@
 ﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 516", "kind": "section", "law_id": "AGM", "location_id": "516", "path": "ARTICLE 29 › SECTION 516", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/516.md", "title": "Compliance action plan"} -->
 # Agriculture and Markets Law § 516 — Compliance action plan
 
-[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Industrial Hemp](README.md)
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Hemp](README.md)
 
 ```text
-  * § 516. Compliance action plan. If the commissioner determines, after
+  § 516. Compliance action plan. If the commissioner determines, after
 notice and an opportunity to be heard, that a licensee has negligently
 violated a provision of this article or its rules or regulations, that
 licensee shall be required to comply with a corrective action plan
@@ -15,5 +15,4 @@ years following the commencement date of the compliance action plan.
 Notwithstanding the above, this provision shall not be applicable to a
 research partner conducting hemp research pursuant to a research partner
 agreement, the terms of which shall control.
-  * NB Effective March 8, 2020
 ```

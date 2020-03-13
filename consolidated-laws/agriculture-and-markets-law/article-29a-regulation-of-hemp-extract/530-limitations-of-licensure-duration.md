@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 530", "kind": "section", "law_id": "AGM", "location_id": "530", "path": "ARTICLE 29-A › SECTION 530", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/530.md", "title": "Limitations of licensure; duration"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 530", "kind": "section", "law_id": "AGM", "location_id": "530", "path": "ARTICLE 29-A › SECTION 530", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/530.md", "title": "Limitations of licensure; duration"} -->
 # Agriculture and Markets Law § 530 — Limitations of licensure; duration
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 530. Limitations of licensure; duration. 1. No license pursuant to

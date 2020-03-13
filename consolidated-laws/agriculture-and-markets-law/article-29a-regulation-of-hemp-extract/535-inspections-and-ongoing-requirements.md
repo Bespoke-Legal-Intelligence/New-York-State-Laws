@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 535", "kind": "section", "law_id": "AGM", "location_id": "535", "path": "ARTICLE 29-A › SECTION 535", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/535.md", "title": "Inspections and ongoing requirements"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 535", "kind": "section", "law_id": "AGM", "location_id": "535", "path": "ARTICLE 29-A › SECTION 535", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/535.md", "title": "Inspections and ongoing requirements"} -->
 # Agriculture and Markets Law § 535 — Inspections and ongoing requirements
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 535. Inspections and ongoing requirements. All licensees shall be

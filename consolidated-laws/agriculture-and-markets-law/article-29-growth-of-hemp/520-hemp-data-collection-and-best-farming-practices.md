@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 520", "kind": "section", "law_id": "AGM", "location_id": "520", "path": "ARTICLE 29 › SECTION 520", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/520.md", "title": "Hemp data collection and best farming practices"} -->
+# Agriculture and Markets Law § 520 — Hemp data collection and best farming practices
+
+[Agriculture and Markets Law](../README.md) › [Article 29 — Growth of Hemp](README.md)
+
+```text
+  § 520. Hemp data collection and best farming practices. 1. The
+commissioner shall have the power to collect and publish data and
+research concerning, among other things, the growth, cultivation,
+production and processing methods of hemp and products derived from hemp
+and work with the New York state college of agriculture and life
+sciences at Cornell pursuant to section fifty-seven hundred twelve of
+the education law and Cornell cooperative extension pursuant to section
+two hundred twenty-four of the county law to promote best farming
+practices for hemp which are compatible with state water quality and
+other environmental objectives.
+  2. The department, in conjunction with the department of environmental
+conservation, shall promulgate all necessary rules and regulations, as
+well as a process for approval, governing the safe production of hemp,
+including, but not limited to, environmental and energy standards and
+restrictions on the use of pesticides.
+```

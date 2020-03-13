@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 546", "kind": "section", "law_id": "AGM", "location_id": "546", "path": "ARTICLE 29-A › SECTION 546", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/546.md", "title": "Prohibitions"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 546", "kind": "section", "law_id": "AGM", "location_id": "546", "path": "ARTICLE 29-A › SECTION 546", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/546.md", "title": "Prohibitions"} -->
 # Agriculture and Markets Law § 546 — Prohibitions
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 546. Prohibitions. Except as authorized in this article, the

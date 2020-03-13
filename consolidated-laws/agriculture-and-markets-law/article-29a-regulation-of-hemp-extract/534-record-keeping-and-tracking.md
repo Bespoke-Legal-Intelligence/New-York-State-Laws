@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 534", "kind": "section", "law_id": "AGM", "location_id": "534", "path": "ARTICLE 29-A › SECTION 534", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/534.md", "title": "Record keeping and tracking"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 534", "kind": "section", "law_id": "AGM", "location_id": "534", "path": "ARTICLE 29-A › SECTION 534", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/534.md", "title": "Record keeping and tracking"} -->
 # Agriculture and Markets Law § 534 — Record keeping and tracking
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 534. Record keeping and tracking. 1. The commissioner shall, by

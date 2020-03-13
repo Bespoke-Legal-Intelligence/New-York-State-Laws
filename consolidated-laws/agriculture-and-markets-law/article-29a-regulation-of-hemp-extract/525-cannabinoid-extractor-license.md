@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 525", "kind": "section", "law_id": "AGM", "location_id": "525", "path": "ARTICLE 29-A › SECTION 525", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/525.md", "title": "Cannabinoid extractor license"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 525", "kind": "section", "law_id": "AGM", "location_id": "525", "path": "ARTICLE 29-A › SECTION 525", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/525.md", "title": "Cannabinoid extractor license"} -->
 # Agriculture and Markets Law § 525 — Cannabinoid extractor license
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 525. Cannabinoid extractor license. 1. A cannabinoid extractor

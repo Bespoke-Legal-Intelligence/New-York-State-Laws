@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 522", "kind": "section", "law_id": "AGM", "location_id": "522", "path": "ARTICLE 29-A › SECTION 522", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/522.md", "title": "Cannabinoid related hemp extract licensing"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 522", "kind": "section", "law_id": "AGM", "location_id": "522", "path": "ARTICLE 29-A › SECTION 522", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/522.md", "title": "Cannabinoid related hemp extract licensing"} -->
 # Agriculture and Markets Law § 522 — Cannabinoid related hemp extract licensing
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 522. Cannabinoid related hemp extract licensing. 1. Persons

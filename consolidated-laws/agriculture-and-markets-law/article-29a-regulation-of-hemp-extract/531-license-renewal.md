@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 531", "kind": "section", "law_id": "AGM", "location_id": "531", "path": "ARTICLE 29-A › SECTION 531", "repealed": false, "repealed_date": null, "source": "nys-laws:AGM/531.md", "title": "License renewal"} -->
+﻿<!-- nyslaw {"citation": "Agriculture and Markets Law § 531", "kind": "section", "law_id": "AGM", "location_id": "531", "path": "ARTICLE 29-A › SECTION 531", "repealed": true, "repealed_date": "2020-03-13", "source": "nys-laws:AGM/531.md", "title": "License renewal"} -->
 # Agriculture and Markets Law § 531 — License renewal
 
 [Agriculture and Markets Law](../README.md) › [Article 29-A — Regulation of Hemp Extract](README.md)
+
+**Repealed** (13 Mar 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 531. License renewal. 1. Each license, issued pursuant to this
