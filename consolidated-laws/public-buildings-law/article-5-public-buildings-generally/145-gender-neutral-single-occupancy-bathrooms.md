@@ -4,7 +4,7 @@
 [Public Buildings Law](../README.md) › [Article 5 — Public Buildings Generally](README.md)
 
 ```text
-  * § 145. Gender neutral single-occupancy bathrooms. 1. As used in this
+  § 145. Gender neutral single-occupancy bathrooms. 1. As used in this
 section:
   (a) "state agency" means any state department, office, board, bureau,
 commission, agency, or any public authority or public benefit
@@ -20,5 +20,4 @@ locked by the occupant to ensure privacy and security.
   2. Each state agency shall ensure that all single-occupancy bathrooms
 under its jurisdiction be designated as gender neutral in state-owned
 buildings and, where practicable, in state-leased buildings.
-  * NB Effective March 19, 2020
 ```

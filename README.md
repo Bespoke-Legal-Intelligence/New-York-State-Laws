@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 13 Mar 2020.*
+*Current through the publication of 20 Mar 2020.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [20 Mar 2020](changes/2020/2020-03-20.md): Alcoholic Beverage Control Law; Criminal Procedure Law; Executive Law; Family Court Act; General Business Law; Legislative Law; Public Buildings Law; State Administrative Procedure Act
 - [13 Mar 2020](changes/2020/2020-03-13.md): Agriculture and Markets Law; Education Law; General Business Law; Insurance Law; Military Law; Public Health Law; Real Property Law
 - [6 Mar 2020](changes/2020/2020-03-06.md): Alcoholic Beverage Control Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; Insurance Law; Mental Hygiene Law; Real Property Law; State Finance Law
 - [28 Feb 2020](changes/2020/2020-02-28.md): Banking Law; Executive Law; General Municipal Law; Public Health Law; Social Services Law
@@ -22,18 +23,17 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [14 Feb 2020](changes/2020/2020-02-14.md): Election Law; Environmental Conservation Law; Executive Law; Labor Law; Limited Liability Company Law; Social Services Law
 - [7 Feb 2020](changes/2020/2020-02-07.md): Alcoholic Beverage Control Law; Business Corporation Law; Education Law; Environmental Conservation Law; Executive Law; Labor Law; Mental Hygiene Law; Public Buildings Law; Public Service Law; Real Property Tax Law; State Administrative Procedure Act; Tax Law; Transportation Law; Vehicle and Traffic Law
 - [31 Jan 2020](changes/2020/2020-01-31.md): Business Corporation Law; Criminal Procedure Law; Executive Law; Not-for-Profit Corporation Law; Penal Law; Public Authorities Law; State Finance Law; Tax Law
-- [24 Jan 2020](changes/2020/2020-01-24.md): Agriculture and Markets Law; Executive Law; Public Health Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 242 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 228 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 216 |
-| [Education Law](consolidated-laws/education-law/README.md) | 215 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 229 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 221 |
+| [Education Law](consolidated-laws/education-law/README.md) | 214 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 194 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 145 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 144 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 142 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 114 |
 | [Election Law](consolidated-laws/election-law/README.md) | 114 |
@@ -41,7 +41,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 101 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | 95 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 94 |
-| [Family Court Act](court-acts/family-court-act/README.md) | 84 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 79 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 72 |
 
 ## Consolidated Laws
@@ -50,7 +50,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---|---:|---|
 | [Abandoned Property Law](consolidated-laws/abandoned-property-law/README.md) | ABP | 118 | 28 Apr 2017 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | AGM | 701 | 13 Mar 2020 |
-| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 179 | 6 Mar 2020 |
+| [Alcoholic Beverage Control Law](consolidated-laws/alcoholic-beverage-control-law/README.md) | ABC | 179 | 20 Mar 2020 |
 | [Alternative County Government Law](consolidated-laws/alternative-county-government-law/README.md) | ACG | 73 | no change since 22 Sep 2014 (start of history) |
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 253 | 20 Dec 2019 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 855 | 28 Feb 2020 |
@@ -63,7 +63,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 326 | 27 Dec 2019 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 400 | 3 Jan 2020 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 596 | 31 Jan 2020 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 596 | 20 Mar 2020 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 13 Dec 2019 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 17 Jan 2020 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 174 | 13 Dec 2019 |
@@ -75,10 +75,10 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 20 Dec 2019 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,762 | 6 Mar 2020 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 13 Dec 2019 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 912 | 6 Mar 2020 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 912 | 20 Mar 2020 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 41 | 10 Jan 2020 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,253 | 13 Mar 2020 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,253 | 20 Mar 2020 |
 | [General City Law](consolidated-laws/general-city-law/README.md) | GCT | 205 | 22 Nov 2019 |
 | [General Construction Law](consolidated-laws/general-construction-law/README.md) | GCN | 97 | 15 Nov 2019 |
 | [General Municipal Law](consolidated-laws/general-municipal-law/README.md) | GMU | 1,083 | 28 Feb 2020 |
@@ -88,7 +88,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,021 | 13 Mar 2020 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 537 | 20 Dec 2019 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 697 | 14 Feb 2020 |
-| [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 22 Nov 2019 |
+| [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 20 Mar 2020 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 29 Nov 2019 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 118 | 14 Feb 2020 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 10 Jan 2020 |
@@ -107,7 +107,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 13 Dec 2019 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 10 Jan 2020 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,161 | 31 Jan 2020 |
-| [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 53 | 7 Feb 2020 |
+| [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 53 | 20 Mar 2020 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,697 | 13 Mar 2020 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 20 Dec 2019 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 20 Dec 2019 |
@@ -125,7 +125,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 11 Jan 2019 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 697 | 28 Feb 2020 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 20 Apr 2018 |
-| [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 31 | 7 Feb 2020 |
+| [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 31 | 20 Mar 2020 |
 | [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 538 | 6 Mar 2020 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 97 | 25 Oct 2019 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 1 Nov 2019 |
@@ -183,7 +183,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | Law | Code | Sections | Last changed |
 |---|---|---:|---|
 | [Court of Claims Act](court-acts/court-of-claims-act/README.md) | CTC | 35 | 19 Apr 2019 |
-| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 6 Mar 2020 |
+| [Family Court Act](court-acts/family-court-act/README.md) | FCT | 652 | 20 Mar 2020 |
 | [New York City Civil Court Act](court-acts/new-york-city-civil-court-act/README.md) | CCA | 158 | 20 Dec 2019 |
 | [New York City Criminal Court Act](court-acts/new-york-city-criminal-court-act/README.md) | CRC | 33 | 3 May 2019 |
 | [Surrogate's Court Procedure Act](court-acts/surrogates-court-procedure-act/README.md) | SCP | 386 | 10 Jan 2020 |

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 26 — Division of Homeland Security and Emergency Services](README.md)
 
 ```text
-  * § 717-a. Direct dialing to public service answering points. 1. For
+  § 717-a. Direct dialing to public service answering points. 1. For
 purposes of this section, "public building" shall mean any building
 belonging to the state, county, town, village, school district or any
 other political or civil subdivision of state or local government.
@@ -30,5 +30,4 @@ an instructional sticker on or immediately adjacent to each telephone
 informing users of the phone's inability to directly dial 911 and the
 procedures to follow to connect to a 911 public service answering point
 in case of an emergency.
-  * NB Effective March 19, 2020
 ```

@@ -8,7 +8,7 @@
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
 | Sections | 912 |
-| Last changed | 6 Mar 2020 |
+| Last changed | 20 Mar 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [20 Mar 2020](../../changes/2020/2020-03-20.md): 6 amended
 - [6 Mar 2020](../../changes/2020/2020-03-06.md): 3 amended
 - [28 Feb 2020](../../changes/2020/2020-02-28.md): 1 amended
 - [21 Feb 2020](../../changes/2020/2020-02-21.md): 2 amended
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [24 Jan 2020](../../changes/2020/2020-01-24.md): 3 amended
 - [17 Jan 2020](../../changes/2020/2020-01-17.md): 16 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 4 amended
-- [3 Jan 2020](../../changes/2020/2020-01-03.md): 2 added
 
 ## Contents
 
