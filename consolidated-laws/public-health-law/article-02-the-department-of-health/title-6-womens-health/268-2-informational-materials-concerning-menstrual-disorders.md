@@ -23,5 +23,4 @@ physical, emotional, social, and academic life;
 disorders, as well as recommendations for follow-up care from a
 healthcare provider.
   * NB There are 2 § 268's
-  * NB Effective March 24, 2020
 ```

@@ -4,9 +4,9 @@
 [Executive Law](../README.md) › [Article 6-C — Office of Fire Prevention and Control](README.md)
 
 ```text
-  * § 159-b. Restrictions on the use of firefighting equipment
-containing PFAS chemicals. 1. As used in this section, unless the
-context clearly requires otherwise:
+  § 159-b. Restrictions on the use of firefighting equipment containing
+PFAS chemicals. 1. As used in this section, unless the context clearly
+requires otherwise:
   (a) "Chemical plant" means a large integrated plant or that portion of
 such a plant other than a refinery or distillery where flammable liquids
 are produced by chemical reactions or used in chemical reactions.
@@ -109,5 +109,4 @@ not to exceed ten thousand dollars for each repeat offense. Penalties
 collected under this section shall be deposited in the hazardous waste
 remedial fund created by section ninety-seven-b of the state finance
 law.
-  * NB Effective March 22, 2020
 ```

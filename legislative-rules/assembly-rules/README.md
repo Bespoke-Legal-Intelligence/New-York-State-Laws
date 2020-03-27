@@ -19,13 +19,13 @@
                         OF THE STATE OF NEW YORK
                                 2019-2020
   Rules of the Assembly for the years 2019--2020, as adopted by Assembly
-Resolution number 6 of 2019.
+Resolution number 644 of 2020.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 ```
 
-[Full chapter text (2,323 lines)](chapter-text.md)
+[Full chapter text (2,328 lines)](chapter-text.md)
 
 ## Contents
 
