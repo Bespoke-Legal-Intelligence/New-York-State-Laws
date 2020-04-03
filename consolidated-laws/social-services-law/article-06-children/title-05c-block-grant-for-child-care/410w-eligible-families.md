@@ -112,12 +112,11 @@ because all of the available funds are projected to be needed for open
 cases, shall provide all families whose eligibility for child care
 assistance or family share percentage will be impacted by such action
 with at least thirty days prior written notice of the action.
-  * 9. Parents and caretakers who are otherwise eligible for child care
+  9. Parents and caretakers who are otherwise eligible for child care
 assistance, and provided with such assistance, shall be able to utilize
 the assistance when care is necessary to enable them to sleep because
 they work non-traditional hours and have a child who is under the age of
 six and not in school for a full school day. The authorization for child
 care assistance shall be sufficient to allow the parent to obtain up to
 eight hours of sleep, as needed.
-  * NB Effective April 1, 2020
 ```
