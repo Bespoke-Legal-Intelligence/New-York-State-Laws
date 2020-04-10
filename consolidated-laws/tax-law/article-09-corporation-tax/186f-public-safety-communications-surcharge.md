@@ -141,8 +141,10 @@ state fiscal years two thousand eleven--two thousand twelve, two
 thousand twelve--two thousand thirteen, two thousand fourteen--two
 thousand fifteen, two thousand fifteen--two thousand sixteen, two
 thousand sixteen--two thousand seventeen, two thousand seventeen--two
-thousand eighteen, two thousand eighteen--two thousand nineteen and two
-thousand nineteen--two thousand twenty;
+thousand eighteen, two thousand eighteen--two thousand nineteen, two
+thousand nineteen--two thousand twenty, two thousand twenty--two
+thousand twenty-one and two thousand twenty-one--two thousand
+twenty-two;
   (c) Up to the sum of seventy-five million dollars annually may be used
 for the provision of grants or reimbursements to counties for the
 development, consolidation, or operation of public safety communications

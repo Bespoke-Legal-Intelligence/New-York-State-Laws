@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 278", "kind": "section", "law_id": "DCD", "location_id": "278", "path": "ARTICLE 10 › SECTION 278", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/278.md", "title": "Extinguishment of claim for relief"} -->
+# Debtor and Creditor Law § 278 — Extinguishment of claim for relief
+
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
+
+```text
+  § 278. Extinguishment of claim for relief. A claim for relief with
+respect to a transfer or obligation under this article is extinguished
+unless action is brought:
+  (a) under paragraph one of subdivision (a) of section two hundred
+seventy-three of this article, not later than four years after the
+transfer was made or the obligation was incurred or, if later, not later
+than one year after the transfer or obligation was or could reasonably
+have been discovered by the claimant;
+  (b) under paragraph two of subdivision (a) of section two hundred
+seventy-three or subdivision (a) of section two hundred seventy-four of
+this article, not later than four years after the transfer was made or
+the obligation was incurred; or
+  (c) under subdivision (b) of section two hundred seventy-four of this
+article, not later than one year after the transfer was made.
+```

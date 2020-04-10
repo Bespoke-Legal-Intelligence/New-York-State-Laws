@@ -4,9 +4,9 @@
 [Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
 
 ```text
-  § 77. Adolescent offender facilities. 1. (a) The state shall establish
-one or more facilities with enhanced security features and specially
-trained staff to serve the adolescent offenders sentenced to a
+  * § 77. Adolescent offender facilities. 1. (a) The state shall
+establish one or more facilities with enhanced security features and
+specially trained staff to serve the adolescent offenders sentenced to a
 determinate or indeterminate sentence for committing offenses on or
 after their sixteenth birthday who are determined to need an enhanced
 level of secure care which shall be managed by the department with the
@@ -69,4 +69,5 @@ available to the youth through the department, and the length of any
 applicable post-release supervision sentence. Nothing in this
 subdivision shall authorize a youth to remain in such facility beyond
 his or her twenty-third birthday.
+  * NB Repealed October 1, 2020
 ```

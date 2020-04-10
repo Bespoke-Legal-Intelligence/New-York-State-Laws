@@ -12,6 +12,8 @@
 - [§ 490.15 Soliciting or providing support for an act of terrorism in the first degree](490.15-soliciting-or-providing-support-for-an-act-of-terrorism-in-the-first.md)
 - [§ 490.20 Making a terroristic threat](490.20-making-a-terroristic-threat.md)
 - [§ 490.25 Crime of terrorism](490.25-crime-of-terrorism.md)
+- [§ 490.27 Domestic act of terrorism motivated by hate in the second degree](490.27-domestic-act-of-terrorism-motivated-by-hate-in-the-second-degree.md)
+- [§ 490.28 Domestic act of terrorism motivated by hate in the first degree](490.28-domestic-act-of-terrorism-motivated-by-hate-in-the-first-degree.md)
 - [§ 490.30 Hindering prosecution of terrorism in the second degree](490.30-hindering-prosecution-of-terrorism-in-the-second-degree.md)
 - [§ 490.35 Hindering prosecution of terrorism in the first degree](490.35-hindering-prosecution-of-terrorism-in-the-first-degree.md)
 - [§ 490.37 Criminal possession of a chemical weapon or biological weapon in the third degree](490.37-criminal-possession-of-a-chemical-weapon-or-biological-weapon.md)
@@ -37,6 +39,10 @@ Section 490.00  Legislative findings.
                   in the first degree.
         490.20  Making a terroristic threat.
         490.25  Crime of terrorism.
+        490.27  Domestic act of terrorism motivated by hate in the
+                  second degree.
+        490.28  Domestic act of terrorism motivated by hate in the first
+                  degree.
         490.30  Hindering prosecution of terrorism in the second degree.
         490.35  Hindering prosecution of terrorism in the first degree.
         490.37  Criminal possession of a chemical weapon or biological

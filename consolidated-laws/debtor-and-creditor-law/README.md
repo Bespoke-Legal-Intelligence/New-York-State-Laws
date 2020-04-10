@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | DCD |
 | Type | Consolidated law, chapter 12 |
-| Sections | 194 |
-| Last changed | 13 Dec 2019 |
+| Sections | 194 (1 repealed) |
+| Last changed | 10 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Debtor & Creditor |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [10 Apr 2020](../../changes/2020/2020-04-10.md): 14 amended, 1 repealed
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 14 amended, 1 added
 
 ## Contents
@@ -45,6 +46,6 @@ Assembly, do enact as follows:
 - [Article 6-A — Right of Set Off Against Unmatured Debts](article-06a-right-of-set-off-against-unmatured-debts/)
 - [Article 7 — Trustees For Insolvent and Imprisoned Debtors](article-07-trustees-for-insolvent-and-imprisoned-debtors/)
 - [Article 9 — Payment of Debts of Incompetent Person or Conservatee](article-09-payment-of-debts-of-incompetent-person/)
-- [Article 10 — Fraudulent Conveyances](article-10-fraudulent-conveyances/)
+- [Article 10 — Uniform Voidable Transactions Act](article-10-uniform-voidable-transactions-act/)
 - [Article 10-A — Personal Bankruptcy Exemptions](article-10a-personal-bankruptcy-exemptions/)
 - [Article 11 — Laws Repealed; When to Take Effect](article-11-laws-repealed-when-to-take-effect/)

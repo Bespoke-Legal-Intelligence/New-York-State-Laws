@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 465", "kind": "section", "law_id": "LAB", "location_id": "465", "path": "ARTICLE 16 › SECTION 465", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/465.md", "title": "License to store or use certain compounds"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 465", "kind": "section", "law_id": "LAB", "location_id": "465", "path": "ARTICLE 16 › SECTION 465", "repealed": true, "repealed_date": "2020-04-10", "source": "nys-laws:LAB/465.md", "title": "License to store or use certain compounds"} -->
 # Labor Law § 465 — License to store or use certain compounds
 
 [Labor Law](../README.md) › [Article 16 — Explosives](README.md)
+
+**Repealed** (10 Apr 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 465. License to store or use certain compounds. 1. No person shall

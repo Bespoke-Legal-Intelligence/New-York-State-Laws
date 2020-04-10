@@ -45,7 +45,7 @@ immunization.
   6. Anyone who acts in good faith based on the representation by a
 person that he is eligible to consent pursuant to the terms of this
 section shall be deemed to have received effective consent.
-  * 7. No person shall perform a pelvic examination or supervise the
+  7. No person shall perform a pelvic examination or supervise the
 performance of a pelvic examination on an anesthetized or unconscious
 patient unless the person performing the pelvic examination is legally
 authorized to do so and the person supervising the performance of the
@@ -63,5 +63,4 @@ would result in a delay of treatment which would increase the risk to
 the patient's life or health.
   Nothing in this subdivision diminishes any other requirement to obtain
 informed consent for a pelvic examination or any other procedure.
-  * NB Effective April 4, 2020
 ```

@@ -1,16 +1,10 @@
-﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 273", "kind": "section", "law_id": "DCD", "location_id": "273", "path": "ARTICLE 10 › SECTION 273", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/273.md", "title": "Conveyances by insolvent"} -->
-# Debtor and Creditor Law § 273 — Conveyances by insolvent
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 273", "kind": "section", "law_id": "DCD", "location_id": "273", "path": "ARTICLE 10 › SECTION 273", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/273.md", "title": "Transfer or obligation voidable as to present or future creditor"} -->
+# Debtor and Creditor Law § 273 — Transfer or obligation voidable as to present or future creditor
 
-[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
 
 ```text
-  * § 273. Conveyances by insolvent. Every conveyance made and every
-obligation incurred by a person who is or will be thereby rendered
-insolvent is fraudulent as to creditors without regard to his actual
-intent if the conveyance is made or the obligation is incurred without a
-fair consideration.
-  * NB Effective until April 4, 2020
-  * § 273. Transfer or obligation voidable as to present or future
+  § 273. Transfer or obligation voidable as to present or future
 creditor. (a) A transfer made or obligation incurred by a debtor is
 voidable as to a creditor, whether the creditor's claim arose before or
 after the transfer was made or the obligation was incurred, if the
@@ -49,5 +43,4 @@ lienor that transferred the assets to an insider of the debtor.
   (c) A creditor making a claim for relief under subdivision (a) of this
 section has the burden of proving the elements of the claim for relief
 by a preponderance of the evidence.
-  * NB Effective April 4, 2020
 ```

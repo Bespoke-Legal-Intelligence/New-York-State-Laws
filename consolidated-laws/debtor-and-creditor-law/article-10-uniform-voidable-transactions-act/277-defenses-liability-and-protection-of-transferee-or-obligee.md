@@ -1,21 +1,10 @@
-﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 277", "kind": "section", "law_id": "DCD", "location_id": "277", "path": "ARTICLE 10 › SECTION 277", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/277.md", "title": "Conveyance of partnership property"} -->
-# Debtor and Creditor Law § 277 — Conveyance of partnership property
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 277", "kind": "section", "law_id": "DCD", "location_id": "277", "path": "ARTICLE 10 › SECTION 277", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/277.md", "title": "Defenses, liability, and protection of transferee or obligee"} -->
+# Debtor and Creditor Law § 277 — Defenses, liability, and protection of transferee or obligee
 
-[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
 
 ```text
-  * § 277. Conveyance of partnership property. Every conveyance of
-partnership property and every partnership obligation incurred when the
-partnership is or will be thereby rendered insolvent, is fraudulent as
-to partnership creditors, if the conveyance is made or obligation is
-incurred,
-  a. To a partner, whether with or without a promise by him to pay
-partnership debts, or
-  b. To a person not a partner without fair consideration to the
-partnership as distinguished from consideration to the individual
-partners.
-  * NB Effective until April 4, 2020
-  * § 277. Defenses, liability, and protection of transferee or obligee.
+  § 277. Defenses, liability, and protection of transferee or obligee.
 (a) A transfer or obligation is not voidable under paragraph one of
 subdivision (a) of section two hundred seventy-three of this article
 against a person that took in good faith and for a reasonably equivalent
@@ -84,5 +73,4 @@ subdivision (b) of this section.
 section has the burden of proving the adjustment.
   (h) The standard of proof required to establish matters referred to in
 this section is preponderance of the evidence.
-  * NB Effective April 4, 2020
 ```

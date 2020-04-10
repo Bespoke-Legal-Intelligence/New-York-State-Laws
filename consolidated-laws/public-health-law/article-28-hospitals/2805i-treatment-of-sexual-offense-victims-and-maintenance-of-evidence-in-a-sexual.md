@@ -11,8 +11,11 @@ alleged victims of a sexual offense shall be responsible for:
 provided in subdivision two of this section;
   (b) contacting a rape crisis or victim assistance organization, if
 any, providing victim assistance to the geographic area served by that
-hospital to establish the coordination of non-medical services to sexual
-offense victims who request such coordination and services;
+hospital to establish the coordination of non-medical services,
+including but not limited to transportation within the geographic area
+served by that organization, upon the conclusion of initial medical
+services, free of charge from the medical facility to sexual offense
+victims who request such coordination and services;
   * (c) offering and making available appropriate HIV post-exposure
 treatment therapies; including a seven day starter pack of HIV
 post-exposure prophylaxis, in cases where it has been determined, in
@@ -196,9 +199,13 @@ obstetrician/gynecologist or other appropriate medical doctor shall be
 readily available to the forensic examiner if there is a need for more
 specialized medical evaluation or treatment.
   (3) Promptly after the examination is completed, the victim shall be
-permitted to shower, be provided with a change of clothing, and receive
-follow-up information, counseling, medical treatment and referrals for
-same.
+permitted to shower, be provided with a change of clothing, be informed
+that a rape crisis or victim assistance organization providing victim
+assistance to the geographic area served by that hospital is available
+to provide transportation within the geographic area served by that
+organization, upon the conclusion of initial medical services, free of
+charge from the medical facility, and receive follow-up information,
+counseling, medical treatment and referrals for same.
   (c) Nothing in this subdivision shall affect the existence or
 continued existence of any program in this state through which a trained
 nurse practitioner, physician assistant, registered nurse or physician
@@ -228,11 +235,14 @@ bill of rights shall be in plain, easy to understand language, and
 include the right of the victim to:
   (1) consult with a local rape crisis or local victim assistance
 organization, to have a representative of such organization accompany
-the victim through the sexual offense examination, and to have such an
+the victim through the sexual offense examination, to have such an
 organization be summoned by the medical facility, police agency,
 prosecutorial agency or other law enforcement agency before the
 commencement of the physical examination or interview, pursuant to this
-section;
+section, and to have such organization provide transportation within the
+geographic area served by that organization, free of charge from the
+medical facility to sexual offense victims who request such services
+upon discharge;
   (2) be offered and have made available at no cost appropriate
 post-exposure treatment therapies, including a seven day starter pack of
 HIV post-exposure prophylaxis in accordance with paragraph (c) of

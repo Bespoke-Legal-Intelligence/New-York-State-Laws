@@ -1,22 +1,10 @@
-﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 270", "kind": "section", "law_id": "DCD", "location_id": "270", "path": "ARTICLE 10 › SECTION 270", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/270.md", "title": "Definition of terms"} -->
-# Debtor and Creditor Law § 270 — Definition of terms
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 270", "kind": "section", "law_id": "DCD", "location_id": "270", "path": "ARTICLE 10 › SECTION 270", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/270.md", "title": "Definitions"} -->
+# Debtor and Creditor Law § 270 — Definitions
 
-[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
 
 ```text
-  * § 270. Definition of terms. In this article "assets" of a debtor
-means property not exempt from liability for his debts. To the extent
-that any property is liable for any debts of the debtor, such property
-shall be included in his assets.
-  "Conveyance" includes every payment of money, assignment, release,
-transfer, lease, mortgage or pledge of tangible or intangible property,
-and also the creation of any lien or incumbrance.
-  "Creditor" is a person having any claim, whether matured or unmatured,
-liquidated or unliquidated, absolute, fixed or contingent.
-  "Debt" includes any legal liability, whether matured or unmatured,
-liquidated or unliquidated, absolute, fixed or contingent.
-  * NB Effective until April 4, 2020
-  * § 270. Definitions. As used in this article:
+  § 270. Definitions. As used in this article:
   (a) "Affiliate" means:
   (1) a person that directly or indirectly owns, controls or holds with
 power to vote, twenty percent or more of the outstanding voting
@@ -116,5 +104,4 @@ release, lease, license, and creation of a lien or other encumbrance.
   (q) "Valid lien" means a lien that is effective against the holder of
 a judicial lien subsequently obtained by legal or equitable process or
 proceedings.
-  * NB Effective April 4, 2020
 ```

@@ -9,6 +9,7 @@
 - [§ 91 Rules](091-rules.md)
 - [§ 92 Deputies](092-deputies.md)
 - [§ 93 Custody of records](093-custody-of-records.md)
+- [§ 93-A Examination of reports](093a-examination-of-reports.md)
 - [§ 94 Joint commission on public ethics; functions, powers and duties; review of financial disclosure statements; advisory opinions; investigat...](094-joint-commission-on-public-ethics-functions-powers-and-duties-review.md)
 - [§ 94-A Consumer protection division](094a-consumer-protection-division.md)
 - [§ 94-B Office for new Americans](094b-office-for-new-americans.md)
@@ -63,6 +64,7 @@ Section 90.    Department of state; secretary of state.
         91.    Rules.
         92.    Deputies.
         93.    Custody of records.
+        93-a.  Examination of reports.
         94.    Joint commission on public ethics; functions, powers and
                  duties; review of financial disclosure statements;
                  advisory opinions; investigation and enforcement.

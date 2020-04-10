@@ -1,0 +1,24 @@
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 274", "kind": "section", "law_id": "DCD", "location_id": "274", "path": "ARTICLE 10 › SECTION 274", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/274.md", "title": "Transfer or obligation voidable as to present creditor"} -->
+# Debtor and Creditor Law § 274 — Transfer or obligation voidable as to present creditor
+
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
+
+```text
+  § 274. Transfer or obligation voidable as to present creditor. (a) A
+transfer made or obligation incurred by a debtor is voidable as to a
+creditor whose claim arose before the transfer was made or the
+obligation was incurred if the debtor made the transfer or incurred the
+obligation without receiving a reasonably equivalent value in exchange
+for the transfer or obligation and the debtor was insolvent at that time
+or the debtor became insolvent as a result of the transfer or
+obligation.
+  (b) A transfer made by a debtor is voidable as to a creditor whose
+claim arose before the transfer was made if the transfer was made to an
+insider for an antecedent debt, the debtor was insolvent at that time,
+and the insider had reasonable cause to believe that the debtor was
+insolvent.
+  (c) Subject to subdivision (b) of section two hundred seventy-one of
+this article, a creditor making a claim for relief under subdivision (a)
+or (b) of this section has the burden of proving the elements of the
+claim for relief by a preponderance of the evidence.
+```

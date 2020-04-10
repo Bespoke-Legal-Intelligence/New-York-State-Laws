@@ -261,6 +261,7 @@
 - [§ 99-FF Parks retail stores fund](99ff-parks-retail-stores-fund.md)
 - [§ 99-FF\*2 New York central business district trust fund](99ff-2-new-york-central-business-district-trust-fund.md)
 - [§ 99-GG Golf fund](99gg-golf-fund.md)
+- [§ 99-HH Criminal justice discovery compensation fund](99hh-criminal-justice-discovery-compensation-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -574,6 +575,7 @@ Section 70.        Classification of funds.
         99-ff.     Parks retail stores fund.
         99-ff*2.   New York central business district trust fund.
         99-gg.     Golf fund.
+        99-hh.     Criminal justice discovery compensation fund.
 ```
 
 </details>

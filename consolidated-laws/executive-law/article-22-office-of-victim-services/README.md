@@ -19,7 +19,6 @@
 - [§ 630 Emergency awards](630-emergency-awards.md)
 - [§ 631 Awards](631-awards.md)
 - [§ 631-A Crime victim service programs](631a-crime-victim-service-programs.md)
-- [§ 631-B Safe way home transportation program](631b-safe-way-home-transportation-program.md)
 - [§ 632 Manner of payment](632-manner-of-payment.md)
 - [§ 632-A Crime victims](632a-crime-victims.md)
 - [§ 633 Confidentiality of records](633-confidentiality-of-records.md)
@@ -47,7 +46,6 @@ Section 620.   Declaration of policy and legislative intent.
         630.   Emergency awards.
         631.   Awards.
         631-a. Crime victim service programs.
-        631-b. Safe way home transportation program.
         632.   Manner of payment.
         632-a. Crime victims.
         633.   Confidentiality of records.

@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 30 — Emergency Medical Services](README.md)
 
 ```text
-  * § 3006-a. Patient privacy. 1. As used in this section:
+  § 3006-a. Patient privacy. 1. As used in this section:
   (a) "Individual identifying information" means information identifying
 or tending to identify a patient.
   (b) "Marketing" means advertising, detailing, marketing, promotion, or
@@ -83,5 +83,4 @@ authorized or required by law.
 under section three thousand twelve of this article, the attorney
 general shall have the authority to bring an action to enforce
 compliance with this section without referral by the commissioner.
-  * NB Effective April 4, 2020
 ```

@@ -1,15 +1,10 @@
-﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 276", "kind": "section", "law_id": "DCD", "location_id": "276", "path": "ARTICLE 10 › SECTION 276", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/276.md", "title": "Conveyance made with intent to defraud"} -->
-# Debtor and Creditor Law § 276 — Conveyance made with intent to defraud
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 276", "kind": "section", "law_id": "DCD", "location_id": "276", "path": "ARTICLE 10 › SECTION 276", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/276.md", "title": "Remedies of creditor"} -->
+# Debtor and Creditor Law § 276 — Remedies of creditor
 
-[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
 
 ```text
-  * § 276. Conveyance made with intent to defraud. Every conveyance made
-and every obligation incurred with actual intent, as distinguished from
-intent presumed in law, to hinder, delay, or defraud either present or
-future creditors, is fraudulent as to both present and future creditors.
-  * NB Effective until April 4, 2020
-  * § 276. Remedies of creditor. (a) In an action for relief against a
+  § 276. Remedies of creditor. (a) In an action for relief against a
 transfer or obligation under this article, a creditor, subject to the
 limitations in section two hundred seventy-seven of this article, may
 obtain:
@@ -28,5 +23,4 @@ or of other property of the transferee; or
   (b) If a creditor has obtained a judgment on a claim against the
 debtor, the creditor, if the court so orders, may levy execution on the
 asset transferred or its proceeds.
-  * NB Effective April 4, 2020
 ```

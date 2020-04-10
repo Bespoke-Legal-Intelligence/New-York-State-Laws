@@ -7,6 +7,7 @@
 
 - [§ 1 Short title](1-short-title.md)
 - [§ 2 Definitions](2-definitions.md)
+- [§ 3 Pay equity](3-pay-equity.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,6 +17,7 @@
                         SHORT TITLE; DEFINITIONS
 Section 1. Short title.
         2. Definitions.
+        3. Pay equity.
 ```
 
 </details>

@@ -22,7 +22,7 @@
 - [§ 212 Local government procedures](212-local-government-procedures.md)
 - [§ 213 Judicial review and enforcement](213-judicial-review-and-enforcement.md)
 - [§ 214 Management and confidential employees; membership and office in employee organizations](214-management-and-confidential-employees-membership-and-office-in-employee.md)
-- [§ 215 Agency shop fee deductions](215-agency-shop-fee-deductions.md)
+- [§ 215 Dues or agency shop fee deductions](215-dues-or-agency-shop-fee-deductions.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -52,7 +52,7 @@ Section 200.   Statement of policy.
         213.   Judicial review and enforcement.
         214.   Management and confidential employees; membership and
                  office in employee organizations.
-        215.   Agency shop fee deductions.
+        215.   Dues or agency shop fee deductions.
 ```
 
 </details>

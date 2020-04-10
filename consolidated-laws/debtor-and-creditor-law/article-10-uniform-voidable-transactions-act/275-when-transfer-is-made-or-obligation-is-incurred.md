@@ -1,16 +1,10 @@
-﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 275", "kind": "section", "law_id": "DCD", "location_id": "275", "path": "ARTICLE 10 › SECTION 275", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/275.md", "title": "Conveyances by a person about to incur debts"} -->
-# Debtor and Creditor Law § 275 — Conveyances by a person about to incur debts
+﻿<!-- nyslaw {"citation": "Debtor and Creditor Law § 275", "kind": "section", "law_id": "DCD", "location_id": "275", "path": "ARTICLE 10 › SECTION 275", "repealed": false, "repealed_date": null, "source": "nys-laws:DCD/275.md", "title": "When transfer is made or obligation is incurred"} -->
+# Debtor and Creditor Law § 275 — When transfer is made or obligation is incurred
 
-[Debtor and Creditor Law](../README.md) › [Article 10 — Fraudulent Conveyances](README.md)
+[Debtor and Creditor Law](../README.md) › [Article 10 — Uniform Voidable Transactions Act](README.md)
 
 ```text
-  * § 275. Conveyances by a person about to incur debts. Every
-conveyance made and every obligation incurred without fair consideration
-when the person making the conveyance or entering into the obligation
-intends or believes that he will incur debts beyond his ability to pay
-as they mature, is fraudulent as to both present and future creditors.
-  * NB Effective until April 4, 2020
-  * § 275. When transfer is made or obligation is incurred. For the
+  § 275. When transfer is made or obligation is incurred. For the
 purposes of this article:
   (a) a transfer is made:
   (1) with respect to an asset that is real property other than a
@@ -38,5 +32,4 @@ asset transferred; and
   (1) if oral, when it becomes effective between the parties; or
   (2) if evidenced by a record, when the record signed by the obligor is
 delivered to or for the benefit of the obligee.
-  * NB Effective April 4, 2020
 ```
