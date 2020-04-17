@@ -617,8 +617,9 @@ community-based diagnostic and treatment centers, and hospitals.
 except in the case of a child or children who also becomes eligible for
 medical assistance, benefits under this title shall be considered
 secondary to any other plan of insurance or benefit program, except the
-physically handicapped children's program and the early intervention
-program, under which an eligible child may have coverage.
+children and youth with special health care needs support services
+program and the early intervention program, under which an eligible
+child may have coverage.
   11. (a) An approved organization shall submit required reports and
 information to the commissioner in such form and at times, at least
 annually, as may be required by the commissioner and specified in

@@ -10,8 +10,8 @@ is licensed as provided in this article.
   2. The department shall license each applicant who submits an
 application on a form prescribed by the commissioner and meets the
 requirements of this article and any rules or regulations promulgated
-pursuant to this article, upon payment of a registration fee of thirty
-dollars.
+pursuant to this article, upon payment of a registration fee of one
+hundred twenty dollars.
   3. The commissioner shall promulgate such rules and regulations as are
 necessary to effectuate the provisions of this article, including, but
 not limited to, establishing staggered biennial registration periods and

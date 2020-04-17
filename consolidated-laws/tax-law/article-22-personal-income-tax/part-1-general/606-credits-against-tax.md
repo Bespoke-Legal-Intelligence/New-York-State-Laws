@@ -565,7 +565,7 @@ as provided in section six hundred eighty-six of this article, provided,
 however, that no interest shall be paid thereon.
   (a-2) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-one, a taxpayer shall be allowed a
+January first, two thousand twenty-two, a taxpayer shall be allowed a
 credit, to be computed as provided in this subsection, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -599,7 +599,7 @@ eleventh, two thousand one;
   * NB Effective November 12, 2020
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty; and
+thousand twenty-one; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -918,8 +918,8 @@ joint federal return but who are required to determine their New York
 taxes separately, the credit allowed pursuant to this subsection may be
 applied against the tax of either or divided between them as they may
 elect.
-  (6) Notification. The commissioner shall periodically, but not less
-than every three years, make efforts to alert taxpayers that may be
+  (6) Notification. (A) The commissioner shall periodically, but not
+less than every three years, make efforts to alert taxpayers that may be
 currently eligible to receive the credit provided under this subsection,
 and the credit provided under any local law enacted pursuant to
 subsection (f) of section thirteen hundred ten of this chapter, as to
@@ -929,6 +929,15 @@ such data as may be appropriate and available, including, but not
 limited to, data available from the United States Department of
 Treasury, Internal Revenue Service and New York state income tax returns
 for preceding tax years.
+  (B) If the department determines that the taxpayer is eligible to
+receive the credit provided under this subsection but has not claimed
+such credit on his or her return, the department shall compute the
+taxpayer's liability and allow the credit, and, if applicable, issue any
+refund for the allowable credit amount provided under this subsection.
+Any refund paid pursuant to this subparagraph shall be deemed to be a
+refund of an overpayment of tax as provided in section six hundred
+eighty-six of this article, provided, however, that no interest shall be
+paid thereon.
   (7) Reports. The commissioner shall prepare a preliminary written
 report after July thirty-first and a final written report after December
 thirty-first of each calendar year, which shall contain statistical
@@ -2324,11 +2333,15 @@ care credit (jjj)                    fifty-three of section two hundred
 subsection (jjj)                     subdivision fifty-three of
                                      section two hundred ten-B
   * NB There are 2 clause (xliv)'s
-(xlv) Television writers'            Amount of credit for the sum of
+* (xlv) Television writers'          Amount of credit for the sum of
 and directors' fees and salaries     qualified television writers' and
 credit under subsection (v)          directors' salaries credit
                                      under subdivision fifty-four of
                                      section two hundred ten-B
+  * NB Effective on the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3879,7 +3892,7 @@ year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
   ** NB Repealed March 31, 2022
-  (v) Television writers' and directors' fees and salaries credit. (1)
+  * (v) Television writers' and directors' fees and salaries credit. (1)
 Allowance of credit. A taxpayer who is eligible pursuant to section
 twenty-four-b of this chapter shall be allowed a credit to be computed
 as provided in such section against the tax imposed by this article.
@@ -3888,6 +3901,10 @@ this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
+  * NB Effective on the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
   (x) Low-income housing credit. (1) Allowance of credit. A taxpayer
 shall be allowed a credit against the tax imposed by this article with
 respect to the ownership of eligible low-income buildings, computed as
@@ -3920,17 +3937,21 @@ hundred eighty-six of this article, provided, however, that no interest
 shall be paid thereon.
   (3) Credit recapture. For provisions requiring recapture of credit,
 see subdivision (c) of section twenty of this chapter.
-  (aa) Long-term care insurance credit. (1) Residents. A taxpayer shall
-be allowed a credit against the tax imposed by this article equal to
-twenty percent of the premium paid during the taxable year for long-term
-care insurance. In order to qualify for such credit, the taxpayer's
-premium payment must be for the purchase of or for continuing coverage
-under a long-term care insurance policy that qualifies for such credit
-pursuant to section one thousand one hundred seventeen of the insurance
-law. If the amount of the credit allowable under this subsection for any
-taxable year shall exceed the taxpayer's tax for such year, the excess
-may be carried over to the following year or years and may be deducted
-from the taxpayer's tax for such year or years.
+  (aa) Long-term care insurance credit. (1) Residents. There shall be
+allowed a credit against the tax imposed by this article in an amount
+equal to twenty percent of the premiums paid during the taxable year for
+long-term care insurance. The credit amount shall not exceed one
+thousand five hundred dollars and shall be allowed only if the amount of
+New York adjusted gross income required to be reported on the return is
+less than two hundred fifty thousand dollars. In order to qualify for
+such credit, the taxpayer's premium payment must be for the purchase of
+or for continuing coverage under a long-term care insurance policy that
+qualifies for such credit pursuant to section one thousand one hundred
+seventeen of the insurance law. If the amount of the credit allowable
+under this subsection for any taxable year shall exceed the taxpayer's
+tax for such year, the excess may be carried over to the following year
+or years and may be deducted from the taxpayer's tax for such year or
+years.
   (2) Nonresidents and part-year residents. In the case of a nonresident
 taxpayer or a part-year resident taxpayer, the credit determined under
 this subsection shall be limited to the amount determined by multiplying

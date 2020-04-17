@@ -89,7 +89,7 @@ owner's equity shall be calculated without regard to any surplus created
 by revaluation of assets and shall not include amounts resulting from
 mortgage amortization where the payment therefor has been provided by
 real property cost reimbursement.
-  * NB Effective until March 31, 2020
+  * NB Effective until March 31, 2025
   * (d) For facilities granted operating certificates on or after March
 tenth, nineteen hundred seventy-five, recognition of real property costs
 in such regulations shall be based upon historical costs to the owner of
@@ -100,7 +100,7 @@ subdivision, owner's equity shall be calculated without regard to any
 surplus created by revaluation of assets and shall not include amounts
 resulting from mortgage amortization where the payment therefor has been
 provided by real property cost reimbursement.
-  * NB Effective March 31, 2020
+  * NB Effective March 31, 2025
   (e) All transactions, including leases and mortgages, which are not
 bona fide and reasonable shall be disregarded.
   2-b. Notwithstanding any inconsistent provision of this section, or
@@ -219,10 +219,17 @@ regard to extended care for persons with traumatic brain injury and for
 the cost of providing hepatitis B vaccinations shall continue on and
 after January first, two thousand nine.
   (iv) The capital cost component of rates on and after January first,
-two thousand nine shall fully reflect the cost of local property taxes
-and payments made in lieu of local property taxes, as reported in each
-facility's cost report submitted for the year two years prior to the
-rate year.
+two thousand nine shall: (A) fully reflect the cost of local property
+taxes and payments made in lieu of local property taxes, as reported in
+each facility's cost report submitted for the year two years prior to
+the rate year; (B) provided, however, notwithstanding any inconsistent
+provision of this article, commencing April first, two thousand twenty
+for rates of payment for patients eligible for payments made by state
+governmental agencies, the capital cost component determined in
+accordance with this subparagraph and inclusive of any shared savings
+for eligible facilities that elect to refinance their mortgage loans
+pursuant to paragraph (d) of subdivision two-a of this section, shall be
+reduced by the commissioner by five percent.
   (v) The direct component of the operating component of rates of
 payment shall include allowable direct therapy costs and associated
 overhead costs and shall exclude administrative overhead costs related
@@ -723,10 +730,6 @@ initial trend factor was established and one prospective final annual
 adjustment to the trend factors to reflect such price movements and to
 be effective on January first, two years after the initial trend factor
 was established.
-  10. Subject to the availability of funds, the provisions of clause (B)
-of subparagraph (iii) of paragraph (e) of subdivision one of section
-twenty-eight hundred seven-c of this article shall apply to residential
-health care facilities.
   11. Residential health care facility reimbursement rate promulgation.
 With regard to a residential health care facility, the provisions of
 subdivision seven of section twenty-eight hundred seven of this article
@@ -833,17 +836,20 @@ beginning April first, two thousand fourteen, April first, two thousand
 fifteen and April first, two thousand sixteen and of up to five hundred
 million dollars in such aggregate annual additional payments for the
 state fiscal years beginning April first, two thousand seventeen, April
-first, two thousand eighteen, and April first, two thousand nineteen.
-The amount allocated to each eligible public residential health care
-facility for this period shall be computed in accordance with the
-provisions of paragraph (f) of this subdivision, provided, however, that
-patient days shall be utilized for such computation reflecting actual
-reported data for two thousand three and each representative succeeding
-year as applicable, and provided further, however, that, in consultation
-with impacted providers, of the funds allocated for distribution in the
-state fiscal year beginning April first, two thousand thirteen, up to
-thirty-two million dollars may be allocated in accordance with paragraph
-(f-1) of this subdivision.
+first, two thousand eighteen, and April first, two thousand nineteen,
+and of up to five hundred million dollars in such aggregate annual
+additional payments for the state fiscal years beginning April first,
+two thousand twenty, April first, two thousand twenty-one, and April
+first, two thousand twenty-two. The amount allocated to each eligible
+public residential health care facility for this period shall be
+computed in accordance with the provisions of paragraph (f) of this
+subdivision, provided, however, that patient days shall be utilized for
+such computation reflecting actual reported data for two thousand three
+and each representative succeeding year as applicable, and provided
+further, however, that, in consultation with impacted providers, of the
+funds allocated for distribution in the state fiscal year beginning
+April first, two thousand thirteen, up to thirty-two million dollars may
+be allocated in accordance with paragraph (f-1) of this subdivision.
   (f) The amount allocated to each eligible public residential health
 care facility for each period shall be calculated as the result of (A)
 the total payment for each period multiplied by (B) the ratio of patient
@@ -1382,7 +1388,11 @@ the facility's attempt to re-finance its existing mortgage debt.
 for rate periods on and after April first, two thousand eleven, the
 commissioner may reduce or eliminate the payment factor for return on or
 return of equity in the capital cost component of Medicaid rates of
-payment for services provided by residential health care facilities.
+payment for services provided by residential health care facilities, and
+for rate periods on and after April first, two thousand twenty, there
+shall be no payment factor for residual equity reimbursement in the
+capital cost component of Medicaid rates of payment for services
+provided by residential health care facilities.
   e. Notwithstanding any other provision of law or regulation to the
 contrary, the commissioner shall adopt or amend on an emergency basis
 any regulation the commissioner determines necessary to implement any

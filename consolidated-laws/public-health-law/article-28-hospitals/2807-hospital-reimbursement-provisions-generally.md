@@ -515,6 +515,26 @@ potentially preventable conditions and complications; provided however,
 such quality related measures shall not include any preventable
 conditions and complications not identified for Medicare nonpayment or
 limited payment.
+  * (iv) Effective April first, two thousand twenty, regulations issued
+pursuant to this paragraph for public general hospitals or public health
+systems, other than those operated by the state of New York or the state
+university of New York, located in a city having a population of one
+million or more shall reflect additional reimbursement for costs, to the
+extent permitted under 42 CFR 447.321(b)(1) and based on actual
+utilization of services. Such rate add-on shall be contingent upon
+federal financial participation and approval, and subject to the terms
+of a binding memorandum of understanding executed between the department
+of health and the public general hospital or public health system
+receiving the rate add-on. If payment of such rate add-on is projected
+to cause Medicaid disbursements for such period to exceed the projected
+department of health Medicaid state funds in the enacted budget
+financial plan pursuant to subdivision three of section twenty-three of
+the state finance law, as determined by the director of the budget, or
+the memorandum of understanding is not executed or is breached, the
+commissioner, in consultation with the director of the budget, may
+either cancel or reduce payment of such rate add-on to achieve
+compliance with the enacted budget financial plan.
+  * NB Repealed March 31, 2023
   (f)(i) The commissioner shall periodically measure the utilization and
 intensity of services provided to medical assistance recipients in
 ambulatory settings. Such analysis shall include, but not be limited to:
@@ -928,34 +948,6 @@ operating cost component of the rate promulgated by the commissioner for
 each diagnostic and treatment center with base year administrative and
 general costs exceeding the average.
   * NB Expired March 31, 2011
-  14-a. Notwithstanding any provision of law to the contrary, and
-subject to federal financial participation, the commissioner is
-authorized to establish, pursuant to regulations, a statewide general
-hospital quality pool for the purpose of incentivizing and facilitating
-quality improvements in general hospitals. Awards from such pool shall
-be subject to approval by the director of budget. If federal financial
-participation is unavailable, then the non-federal share of awards made
-pursuant to this subdivision may be made as state grants.
-  (a) Thirty days prior to adopting or applying a methodology or
-procedure for making an allocation or modification to an allocation made
-pursuant to this subdivision, the commissioner shall provide written
-notice to the chairs of the senate finance committee, the assembly ways
-and means committee, and the senate and assembly health committees with
-regard to the intent to adopt or apply the methodology or procedure,
-including a detailed explanation of the methodology or procedure.
-  (b) Thirty days prior to executing an allocation or modification to an
-allocation made pursuant to this subdivision, the commissioner shall
-provide written notice to the chairs of the senate finance committee,
-the assembly ways and means committee, and the senate and assembly
-health committees with regard to the intent to distribute such funds.
-Such notice shall include, but not be limited to, information on the
-methodology used to distribute the funds, the facility specific
-allocations of the funds, any facility specific project descriptions or
-requirements for receiving such funds, the multi-year impacts of these
-allocations, and the availability of federal matching funds. The
-commissioner shall provide quarterly reports to the chair of the senate
-finance committee and the chair of the assembly ways and means committee
-on the distribution and disbursement of such funds.
   15. Notwithstanding any inconsistent provision of law, including
 subdivision fourteen of this section, the facility-specific impact of
 eliminating the statewide cap on administrative and general costs, as
@@ -1261,7 +1253,7 @@ published on the applicable website of the authorizing commissioner and
 shall include a description of each waiver, including a citation of each
 regulation waived, and a description of the project of which such relief
 was granted.
-  * NB Expires April 1, 2020
+  * NB Expires April 1, 2021
   21. (a) Notwithstanding any contrary provision of law and subject to
 the receipt of all necessary federal approvals and the availability of
 federal financial participation, the commissioner is authorized to enter
@@ -1336,34 +1328,4 @@ period as the authorizing commissioner any determine. Any regulatory
 relief granted pursuant to this subdivision shall be described,
 including each regulation waived and the project it relates to, in the
 report provided pursuant to paragraph (b) of this subdivision.
-  22. Notwithstanding any provision of law to the contrary, and subject
-to federal financial participation, general hospitals designated as sole
-community hospitals in accordance with title XVIII of the federal social
-security act shall be eligible for enhanced payments or reimbursement
-for inpatient and/or outpatient services of up to twelve million dollars
-under a supplemental or revised rate methodology, established by the
-commissioner in regulation, for the purpose of promoting access and
-improving the quality of care. If federal financial participation is
-unavailable, then the non-federal share of such payments pursuant to
-this subdivision may be made as state grants.
-  (a) Thirty days prior to adopting or applying a methodology or
-procedure for making an allocation or modification to an allocation made
-pursuant to this subdivision, the commissioner shall provide written
-notice to the chairs of the senate finance committee, the assembly ways
-and means committee, and the senate and assembly health committees with
-regard to the intent to adopt or apply the methodology or procedure,
-including a detailed explanation of the methodology or procedure.
-  (b) Thirty days prior to executing an allocation or modification to an
-allocation made pursuant to this subdivision, the commissioner shall
-provide written notice to the chairs of the senate finance committee,
-the assembly ways and means committee, and the senate and assembly
-health committees with regard to the intent to distribute such funds.
-Such notice shall include, but not be limited to, information on the
-methodology used to distribute the funds, the facility specific
-allocations of the funds, any facility specific project descriptions or
-requirements for receiving such funds, the multi-year impacts of these
-allocations, and the availability of federal matching funds. The
-commissioner shall provide quarterly reports to the chair of the senate
-finance committee and the chair of the assembly ways and means committee
-on the distribution and disbursement of such funds.
 ```

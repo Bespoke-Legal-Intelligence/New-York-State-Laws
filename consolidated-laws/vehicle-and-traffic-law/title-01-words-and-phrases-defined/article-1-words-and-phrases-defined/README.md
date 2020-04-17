@@ -17,6 +17,7 @@
 - [§ 102 Bicycle](102-bicycle.md)
 - [§ 102-A Bicycle lane](102a-bicycle-lane.md)
 - [§ 102-B Bicycle path](102b-bicycle-path.md)
+- [§ 102-C Bicycle with electric assist](102c-bicycle-with-electric-assist.md)
 - [§ 103 Bureau](103-bureau.md)
 - [§ 104 Bus](104-bus.md)
 - [§ 105 Business district](105-business-district.md)
@@ -41,6 +42,7 @@
 - [§ 114-B Emergency operation](114b-emergency-operation.md)
 - [§ 114-C Escort vehicle](114c-escort-vehicle.md)
 - [§ 114-D Electric personal assistive mobility device](114d-electric-personal-assistive-mobility-device.md)
+- [§ 114-E Electric scooter](114e-electric-scooter.md)
 - [§ 115 Explosives](115-explosives.md)
 - [§ 115-A Fire vehicle](115a-fire-vehicle.md)
 - [§ 115-B Flagperson](115b-flagperson.md)
@@ -154,6 +156,7 @@ Section 100.   Definition of words and phrases.
         102.   Bicycle.
         102-a. Bicycle lane.
         102-b. Bicycle path.
+        102-c. Bicycle with electric assist.
         103.   Bureau.
         104.   Bus.
         105.   Business district.
@@ -178,6 +181,7 @@ Section 100.   Definition of words and phrases.
         114-b. Emergency operation.
         114-c. Escort vehicle.
         114-d. Electric personal assistive mobility device.
+        114-e. Electric scooter.
         115.   Explosives.
         115-a. Fire vehicle.
         115-b. Flagperson.

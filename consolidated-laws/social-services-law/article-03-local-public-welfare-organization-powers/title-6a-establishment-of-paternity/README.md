@@ -35,7 +35,7 @@
           ESTABLISHMENT OF PATERNITY AND ENFORCEMENT OF SUPPORT
 Section 111-a. Federal aid; state plan.
         111-b. Functions, powers and duties of the department.
-        111-c. Functions,   powers   and   duties   of  social  services
+        111-c. Functions, powers and duties of social services
                  officials.
         111-d. State reimbursement.
         111-e. Reimbursement to the state.
@@ -44,9 +44,9 @@ Section 111-a. Federal aid; state plan.
         111-h. Support collection unit.
         111-i. Child support standards.
         111-j. Interception of unemployment insurance benefits.
-        111-k. Procedures relating  to  acknowledgements  of  paternity,
+        111-k. Procedures relating to acknowledgements of parentage,
                  agreements to support, and genetic tests.
-        111-m. Agreement  relating  to information obtained by the state
+        111-m. Agreement relating to information obtained by the state
                  directory of new hires.
         111-n. Review and cost of living adjustment of support orders.
         111-o. Data matches with financial institutions.

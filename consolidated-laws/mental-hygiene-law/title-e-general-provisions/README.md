@@ -6,6 +6,7 @@
 ## Contents
 
 - [Article 29 — General Provisions Relating to In-patient Facilities](article-29-general-provisions-relating/)
+- [Article 30 — Comprehensive Care Centers For Eating Disorders](article-30-comprehensive-care-centers/)
 - [Article 31 — Regulation and Quality Control of Services For the Mentally Disabled](article-31-regulation-and-quality-control/)
 - [Article 32 — Regulation and Quality Control of Chemical Dependence Services and Compulsive Gambling Services](article-32-regulation-and-quality-control/)
 - [Article 33 — Rights of Patients](article-33-rights-of-patients/)
@@ -30,6 +31,7 @@
                                  TITLE E
                            GENERAL PROVISIONS
 Article 29 General provisions relating to in-patient facilities
+        30 Comprehensive care centers for eating disorders
         31 Regulation and quality control of services for the mentally
              disabled
         32 Regulation and quality control of chemical dependence

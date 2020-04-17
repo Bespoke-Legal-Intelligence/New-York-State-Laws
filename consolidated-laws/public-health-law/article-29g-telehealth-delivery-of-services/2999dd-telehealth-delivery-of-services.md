@@ -6,7 +6,11 @@
 ```text
   § 2999-dd. Telehealth delivery of services. 1. Health care services
 delivered by means of telehealth shall be entitled to reimbursement
-under section three hundred sixty-seven-u of the social services law.
+under section three hundred sixty-seven-u of the social services law;
+provided however, reimbursement for additional modalities, provider
+categories and originating sites specified in accordance with section
+twenty-nine hundred ninety-nine-ee of this article shall be contingent
+upon federal financial participation.
   2. The department of health, the office of mental health, the office
 of alcoholism and substance abuse services, and the office for people
 with developmental disabilities shall coordinate on the issuance of a

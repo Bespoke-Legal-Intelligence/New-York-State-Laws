@@ -247,21 +247,21 @@ adjustments shall be the same as if calculated retrospectively.
   (b) Notwithstanding the provisions of paragraph (a) of this
 subdivision, for covered lives assessment rate periods on and after
 January first, two thousand fifteen through December thirty-first, two
-thousand twenty, for amounts collected in the aggregate in excess of one
-billion forty-five million dollars on an annual basis, prospective
-adjustments shall be suspended if the annual reconciliation calculation
-from the prior year would otherwise result in a decrease to the regional
-allocation of the specified gross annual payment amount for that region,
-provided, however, that such suspension shall be lifted upon a
-determination by the commissioner, in consultation with the director of
-the budget, that sixty-five million dollars in aggregate collections on
-an annual basis over and above one billion forty-five million dollars on
-an annual basis have been reserved and set aside for deposit in the HCRA
-resources fund. Any amounts collected in the aggregate at or below one
-billion forty-five million dollars on an annual basis, shall be subject
-to regional adjustments reconciling any decreases or increases to the
-regional allocation in accordance with paragraph (a) of this
-subdivision.
+thousand twenty-three, for amounts collected in the aggregate in excess
+of one billion forty-five million dollars on an annual basis,
+prospective adjustments shall be suspended if the annual reconciliation
+calculation from the prior year would otherwise result in a decrease to
+the regional allocation of the specified gross annual payment amount for
+that region, provided, however, that such suspension shall be lifted
+upon a determination by the commissioner, in consultation with the
+director of the budget, that sixty-five million dollars in aggregate
+collections on an annual basis over and above one billion forty-five
+million dollars on an annual basis have been reserved and set aside for
+deposit in the HCRA resources fund. Any amounts collected in the
+aggregate at or below one billion forty-five million dollars on an
+annual basis, shall be subject to regional adjustments reconciling any
+decreases or increases to the regional allocation in accordance with
+paragraph (a) of this subdivision.
   7. (a) In the case two or more specified third-party payors covering a
 single contract holder where both specified third-party payors cover
 separate components of the inpatient care benefits otherwise subject to
@@ -412,5 +412,5 @@ and for the time periods covered by such agreements, provided, however,
 that the commissioner may audit future retroactive adjustments to
 payments made for such periods based on reports filed by payors
 subsequent to such agreements.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
 ```

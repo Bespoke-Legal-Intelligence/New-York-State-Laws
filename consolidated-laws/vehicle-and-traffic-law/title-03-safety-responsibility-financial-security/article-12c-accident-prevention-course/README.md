@@ -24,7 +24,7 @@ Section 399-k. Accident prevention course internet technology pilot
         399-m. Pilot program scope and duration.
         399-n. Regulations.
         399-o. Report by commissioner.
-  * NB Repealed April 1, 2020
+  * NB Repealed April 1, 2022
 ```
 
 </details>

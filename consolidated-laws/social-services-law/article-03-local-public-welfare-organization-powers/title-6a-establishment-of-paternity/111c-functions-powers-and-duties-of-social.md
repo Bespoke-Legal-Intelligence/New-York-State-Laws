@@ -5,11 +5,18 @@
 
 ```text
   § 111-c. Functions, powers and duties of social services officials.
-1. Each social services district shall establish a single organizational
-unit which shall be responsible for such district's activities in
-assisting the state in the location of absent parents, establishment of
-paternity and enforcement and collection of support in accordance with
-the regulations of the department.
+* 1. Each social services district shall establish a single
+organizational unit which shall be responsible for such district's
+activities in assisting the state in the location of absent parents,
+establishment of paternity and enforcement and collection of support in
+accordance with the regulations of the department.
+  * NB Effective until February 15, 2021
+  * 1. Each social services district shall establish a single
+organizational unit which shall be responsible for such district's
+activities in assisting the state in the location of absent parents,
+establishment of parentage and enforcement and collection of support in
+accordance with the regulations of the department.
+  * NB Effective February 15, 2021
   2. Each social services district shall:
   a. obtain assignments to the state and to such district of support
 rights of each applicant for or recipient of public assistance required
@@ -38,10 +45,16 @@ assure compliance with federal child support program requirements.
 person in a proceeding under article four, five, five-A or five-B of the
 family court act in an attempt to obtain support payments from such
 potential respondent or respondent;
-  g. obtain from respondent, when appropriate and in accordance with the
-procedures established by section one hundred eleven-k of this chapter,
-an acknowledgement of paternity or an agreement to make support
+  * g. obtain from respondent, when appropriate and in accordance with
+the procedures established by section one hundred eleven-k of this
+chapter, an acknowledgement of paternity or an agreement to make support
 payments, or both;
+  * NB Effective until February 15, 2021
+  * g. obtain from respondent, when appropriate and in accordance with
+the procedures established by section one hundred eleven-k of this
+chapter, an acknowledgement of parentage or an agreement to make support
+payments, or both;
+  * NB Effective February 15, 2021
   h. report periodically to consumer reporting agencies (as defined in
 section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f))
 information regarding past-due support owed by the parent owing support.
@@ -64,14 +77,23 @@ informing such parent of the proposed release of the information to the
 consumer reporting agency and informing such parent of the opportunity
 to be heard and the methods available for contesting the accuracy of the
 information.
-  3. Notwithstanding the foregoing, the social services official shall
+  * 3. Notwithstanding the foregoing, the social services official shall
 not be required to establish the paternity of any child born
 out-of-wedlock, or to secure support for any child, with respect to whom
 such official has determined that such actions would be detrimental to
 the best interests of the child, in accordance with procedures and
 criteria established by regulations of the department consistent with
 federal law.
-  4. a. A social services district represents the interests of the
+  * NB Effective until February 15, 2021
+  * 3. Notwithstanding the foregoing, the social services official shall
+not be required to establish the parentage of any child born
+out-of-wedlock, or to secure support for any child, with respect to whom
+such official has determined that such actions would be detrimental to
+the best interests of the child, in accordance with procedures and
+criteria established by regulations of the department consistent with
+federal law.
+  * NB Effective February 15, 2021
+  * 4. a. A social services district represents the interests of the
 district in performing its functions and duties as provided in this
 title and not the interests of any party. The interests of a district
 shall include, but are not limited to, establishing paternity, and
@@ -87,4 +109,22 @@ the individual has a right to retain his or her own legal counsel.
   c. A social services district may appear in any action to establish
 paternity, or to establish, modify, or enforce an order of support when
 an individual is receiving services under this title.
+  * NB Effective until February 15, 2021
+  * 4. a. A social services district represents the interests of the
+district in performing its functions and duties as provided in this
+title and not the interests of any party. The interests of a district
+shall include, but are not limited to, establishing parentage, and
+establishing, modifying and enforcing child support orders.
+  b. Notwithstanding any other provision of law, the provision of child
+support services pursuant to this title does not constitute nor create
+an attorney-client relationship between the individual receiving
+services and any attorney representing or appearing for the district. A
+social services district shall provide notice to any individual
+requesting or receiving services that the attorney representing or
+appearing for the district does not represent the individual and that
+the individual has a right to retain his or her own legal counsel.
+  c. A social services district may appear in any action to establish
+parentage, or to establish, modify, or enforce an order of support when
+an individual is receiving services under this title.
+  * NB Effective February 15, 2021
 ```

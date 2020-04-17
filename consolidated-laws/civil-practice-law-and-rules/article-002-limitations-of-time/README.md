@@ -21,6 +21,7 @@
 - [§ 213-A Residential rent overcharge](213a-residential-rent-overcharge.md)
 - [§ 213-B Action by a victim of a criminal offense](213b-action-by-a-victim-of-a-criminal-offense.md)
 - [§ 213-C Action by victim of conduct constituting certain sexual offenses](213c-action-by-victim-of-conduct-constituting-certain-sexual-offenses.md)
+- [§ 213-D Actions to be commenced within three years; medical debt](213d-actions-to-be-commenced-within-three-years-medical-debt.md)
 - [§ 214 Actions to be commenced within three years: for non-payment of money collected on execution; for penalty created by statute; to recover c...](214-actions-to-be-commenced-within-three-years-for-non-payment-of-money-collected.md)
 - [§ 214-A Action for medical, dental or podiatric malpractice to be commenced within two years and six months; exceptions](214a-action-for-medical-dental-or-podiatric-malpractice-to-be-commenced-within-two.md)
 - [§ 214-B Action to recover damages for personal injury caused by contact with or exposure to phenoxy herbicides](214b-action-to-recover-damages-for-personal-injury-caused-by-contact-with-or-exposure.md)
@@ -107,6 +108,7 @@
         213-b. Action by a victim of a criminal offense.
         213-c. Action by victim of conduct constituting certain sexual
                  offenses.
+        213-d. Actions to be commenced within three years; medical debt.
         214.   Actions to be commenced within three years: for non-
                  payment of money collected on execution; for penalty
                  created by statute; to recover chattel; for injury to

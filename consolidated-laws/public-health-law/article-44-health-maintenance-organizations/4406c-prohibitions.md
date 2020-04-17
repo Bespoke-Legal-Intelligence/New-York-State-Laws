@@ -142,25 +142,57 @@ non-preferred brand drug category).
   * 7. Any contract provision, written policy or written procedure in
 violation of this section shall be deemed to be void and unenforceable.
   * NB There are 2 sub 7's
-  8. (a) A health care plan shall not deny payment to a general hospital
+  8. (a) No health care plan shall by contract, written policy or
+procedure, or by any other means, deny payment to a general hospital
 certified pursuant to article twenty-eight of this chapter for a claim
-for medically necessary inpatient services resulting from an emergency
-admission provided by a general hospital solely on the basis that the
-general hospital did not timely notify such health care plan that the
-services had been provided.
+for medically necessary inpatient services, observation services, or
+emergency department services provided by a general hospital solely on
+the basis that the general hospital did not comply with certain
+administrative requirements of such health care plan with respect to
+those services.
   (b) Nothing in this subdivision shall preclude a general hospital and
-a health care plan from agreeing to requirements for timely notification
-that medically necessary inpatient services resulting from an emergency
-admission have been provided and to reductions in payment for failure to
-timely notify; provided, however that: (i) any requirement for timely
-notification must provide for a reasonable extension of timeframes for
-notification for emergency services provided on weekends or federal
-holidays, (ii) any agreed to reduction in payment for failure to timely
-notify shall not exceed the lesser of two thousand dollars or twelve
-percent of the payment amount otherwise due for the service provided,
-and (iii) any agreed to reduction in payment shall not be imposed if the
+a health care plan from agreeing to certain administrative requirements
+relating to payment for inpatient services, observation services, or
+emergency department services, including, but not limited to, timely
+notification that medically necessary inpatient services have been
+provided and to reductions in payment for failure to comply with certain
+administrative requirements including timely notification; provided,
+however that: (i) any requirement for timely notification must provide
+for a reasonable extension of timeframes for notification for services
+provided on weekends or federal holidays, (ii) any agreed to reduction
+in payment for failure to meet administrative requirements, including
+timely notification shall not exceed seven and one-half percent of the
+payment amount otherwise due for the service provided, and (iii) any
+agreed to reduction in payment for failure to meet administrative
+requirements including timely notification shall not be imposed if the
 patient's coverage could not be determined by the hospital after
-reasonable efforts at the time the inpatient services were provided.
+reasonable efforts at the time the services were provided.
+  (c) The provisions of this subdivision shall not apply to the denial
+of a claim: (i) based on a reasonable belief of a health care plan of
+fraud or intentional misconduct resulting in a misrepresentation of
+patient diagnosis or the services provided, or abusive billing; (ii)
+when required by a state or federal government program or coverage that
+is provided by this state or a municipality thereof to its respective
+employees, retirees or members; (iii) that is a duplicate claim, is a
+claim submitted late pursuant to subsection (g) of section thirty-two
+hundred twenty-four-a of the insurance law, or is for services for a
+benefit that is not covered under the insured's contract or for a
+patient determined to be ineligible for coverage; (iv) except in the
+case of medically necessary inpatient services resulting from an
+emergency admission, where there is not an existing participating
+provider agreement between a health care plan and a general hospital; or
+(v) where the hospital has repeatedly and systematically, over the
+previous twelve month period, failed to seek prior authorization for
+services for which prior authorization was required.
+  (d) For purposes of this subdivision, an "administrative requirement"
+shall not include requirements: (i) imposed on a health care plan or
+provider pursuant to federal or state laws, regulations or guidance; or
+(ii) established by the state or federal government applicable to health
+care plans offering benefits under a state or federal government
+program.
+  (e) The prohibition on denials set forth in this subdivision shall not
+apply to claims for services for which a request for preauthorization
+was denied by the health care plan prior to delivery of the service.
   9. A health care plan shall not require a prior authorization
 determination for services provided in a neonatal intensive care unit of
 a general hospital certified pursuant to article twenty-eight of this

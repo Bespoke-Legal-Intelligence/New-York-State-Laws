@@ -314,7 +314,82 @@ public hospitals, including major public hospitals operated by public
 benefit corporations, and shall also not be applied to distributions
 made pursuant to subparagraph (ii), (iii) or (iv) of paragraph (b) of
 subdivision five-b of this section.
-  5-d. (a) Notwithstanding any inconsistent provision of this section,
+  * 5-d. (a) Notwithstanding any inconsistent provision of this section,
+section twenty-eight hundred seven-w of this article or any other
+contrary provision of law, and subject to the availability of federal
+financial participation, for periods on and after January first, two
+thousand twenty, through March thirty-first, two thousand twenty-three,
+all funds available for distribution pursuant to this section, except
+for funds distributed pursuant to subparagraph (v) of paragraph (b) of
+subdivision five-b of this section, and all funds available for
+distribution pursuant to section twenty-eight hundred seven-w of this
+article, shall be reserved and set aside and distributed in accordance
+with the provisions of this subdivision.
+  (b) The commissioner shall promulgate regulations, and may promulgate
+emergency regulations, establishing methodologies for the distribution
+of funds as described in paragraph (a) of this subdivision and such
+regulations shall include, but not be limited to, the following:
+  (i) Such regulations shall establish methodologies for determining
+each facility's relative uncompensated care need amount based on
+uninsured inpatient and outpatient units of service from the cost
+reporting year two years prior to the distribution year, multiplied by
+the applicable medicaid rates in effect January first of the
+distribution year, as summed and adjusted by a statewide cost adjustment
+factor and reduced by the sum of all payment amounts collected from such
+uninsured patients, and as further adjusted by application of a nominal
+need computation that shall take into account each facility's medicaid
+inpatient share.
+  (ii) Annual distributions pursuant to such regulations for the two
+thousand twenty through two thousand twenty-two calendar years shall be
+in accord with the following:
+  (A) one hundred thirty-nine million four hundred thousand dollars
+shall be distributed as Medicaid Disproportionate Share Hospital ("DSH")
+payments to major public general hospitals; and
+  (B) nine hundred sixty-nine million nine hundred thousand dollars as
+Medicaid DSH payments to eligible general hospitals, other than major
+public general hospitals.
+  For the calendar years two thousand twenty through two thousand
+twenty-two, the total distributions to eligible general hospitals, other
+than major public general hospitals, shall be subject to an aggregate
+reduction of one hundred fifty million dollars annually, provided that
+eligible general hospitals, other than major public general hospitals,
+that qualify as enhanced safety net hospitals under section two thousand
+eight hundred seven-c of this article shall not be subject to such
+reduction.
+  Such reduction shall be determined by a methodology to be established
+by the commissioner. Such methodology may take into account the payor
+mix of each non-public general hospital, including the percentage of
+inpatient days paid by Medicaid.
+  (iii) For calendar years two thousand twenty through two thousand
+twenty-two, sixty-four million six hundred thousand dollars shall be
+distributed to eligible general hospitals, other than major public
+general hospitals, that experience a reduction in indigent care pool
+payments pursuant to this subdivision, and that qualify as enhanced
+safety net hospitals under section two thousand eight hundred seven-c of
+this article as of April first, two thousand twenty. Such distribution
+shall be established pursuant to regulations promulgated by the
+commissioner and shall be proportional to the reduction experienced by
+the facility.
+  (iv) Such regulations shall reserve one percent of the funds available
+for distribution in the two thousand fourteen and two thousand fifteen
+calendar years, and for calendar years thereafter, pursuant to this
+subdivision, subdivision fourteen-f of section twenty-eight hundred
+seven-c of this article, and sections two hundred eleven and two hundred
+twelve of chapter four hundred seventy-four of the laws of nineteen
+hundred ninety-six, in a "financial assistance compliance pool" and
+shall establish methodologies for the distribution of such pool funds to
+facilities based on their level of compliance, as determined by the
+commissioner, with the provisions of subdivision nine-a of this section.
+  (c) The commissioner shall annually report to the governor and the
+legislature on the distribution of funds under this subdivision
+including, but not limited to:
+  (i) the impact on safety net providers, including community providers,
+rural general hospitals and major public general hospitals;
+  (ii) the provision of indigent care by units of services and funds
+distributed by general hospitals; and
+  (iii) the extent to which access to care has been enhanced.
+  * NB Effective until March 31, 2023
+  * 5-d. (a) Notwithstanding any inconsistent provision of this section,
 section twenty-eight hundred seven-w of this article or any other
 contrary provision of law, and subject to the availability of federal
 financial participation, for periods on and after January first, two
@@ -396,6 +471,7 @@ rural general hospitals and major public general hospitals;
   (ii) the provision of indigent care by units of services and funds
 distributed by general hospitals; and
   (iii) the extent to which access to care has been enhanced.
+  * NB Effective March 31, 2023
   6. Funds reserved for high need adjustments shall be distributed to
 general hospitals, excluding major public general hospitals, with
 nominal need in excess of four percent as follows: each general

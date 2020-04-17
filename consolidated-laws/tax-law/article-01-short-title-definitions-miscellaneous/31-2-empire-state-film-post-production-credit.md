@@ -15,14 +15,14 @@ credit against such tax, pursuant to the provisions referenced in
 subdivision (c) of this section to be computed as provided in this
 subdivision.
   (2) The amount of the credit shall be the product (or pro rata share
-of the product, in the case of a member of a partnership) of thirty
+of the product, in the case of a member of a partnership) of twenty-five
 percent and the qualified post production costs paid in the production
 of a qualified film at a qualified post production facility located
 within the metropolitan commuter transportation district as defined in
-section twelve hundred sixty-two of the public authorities law or
-thirty-five percent and the qualified post production costs paid in the
-production of a qualified film at a qualified post production facility
-located elsewhere in the state.
+section twelve hundred sixty-two of the public authorities law or thirty
+percent and the qualified post production costs paid in the production
+of a qualified film at a qualified post production facility located
+elsewhere in the state.
   (3) (i) A taxpayer shall not be eligible for the credit established by
 this section for qualified post production costs, excluding the costs
 for visual effects and animation, unless the qualified post production
@@ -60,7 +60,7 @@ the credit may be claimed and in the next two succeeding taxable years,
 with one-third of the amount of the credit allowed being claimed in each
 year.
   (6) For the period two thousand fifteen through two thousand
-twenty-four, in addition to the amount of credit established in
+twenty-five, in addition to the amount of credit established in
 paragraph two of this subdivision, a taxpayer shall be allowed a credit
 equal to the product (or pro rata share of the product, in the case of a
 member of a partnership) of ten percent and the amount of wages or
@@ -81,7 +81,7 @@ Schenectady, Schoharie, Schuyler, Seneca, St. Lawrence, Steuben, Tioga,
 Tompkins, Wayne, Wyoming, or Yates. The aggregate amount of tax credits
 allowed pursuant to the authority of this paragraph shall be five
 million dollars each year during the period two thousand fifteen through
-two thousand twenty-four of the annual allocation made available to the
+two thousand twenty-five of the annual allocation made available to the
 empire state film post production credit pursuant to paragraph four of
 subdivision (e) of section twenty-four of this article. Such aggregate
 amount of credits shall be allocated by the governor's office for motion
@@ -101,7 +101,7 @@ in no event may the total of the credits allocated under this paragraph
 and the credits allocated under paragraph five of subdivision (a) of
 section twenty-four of this article exceed five million dollars in any
 year during the period two thousand fifteen through two thousand
-twenty-four.
+twenty-five.
   (b) Definitions. As used in this section the following terms shall
 have the following meanings:
   (1) "Qualified film production company" and "qualified film" shall

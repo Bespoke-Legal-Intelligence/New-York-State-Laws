@@ -22,7 +22,7 @@ that meets conditions for ACO certification as set forth in regulations
 made by the commissioner pursuant to section twenty-nine hundred
 ninety-nine-q of this article. The commissioner shall not issue any new
 certificate under this article after December thirty-first, two thousand
-twenty.
+twenty-four.
   4. (a) Notwithstanding subdivision three of this section, the
 commissioner shall issue a certificate of authority as a Medicare-only
 ACO to an entity authorized by CMS to be an accountable care

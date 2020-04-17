@@ -21,6 +21,9 @@
 - [§ 222-A Prevention of dust hazard in public works](222a-prevention-of-dust-hazard-in-public-works.md)
 - [§ 223 Enforcement of article](223-enforcement-of-article.md)
 - [§ 224 Contracting for public work; enforcement](224-contracting-for-public-work-enforcement.md)
+- [§ 224-A Prevailing wage requirements applicable to construction projects performed under private contract](224a-prevailing-wage-requirements-applicable-to-construction-projects-performed.md)
+- [§ 224-B Stop-work orders](224b-stop-work-orders.md)
+- [§ 224-C Public subsidy board](224c-public-subsidy-board.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -52,6 +55,10 @@ Section 220.   Hours, wages and supplements.
         222-a. Prevention of dust hazard in public works.
         223.   Enforcement of article.
         224.   Contracting for public work; enforcement.
+        224-a. Prevailing wage requirements applicable to construction
+                 projects performed under private contract.
+        224-b. Stop-work orders.
+        224-c. Public subsidy board.
 ```
 
 </details>

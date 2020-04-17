@@ -29,6 +29,7 @@
 - [§ 364-JJ Special advisory review panel on Medicaid managed care](364jj-special-advisory-review-panel-on-medicaid-managed-care.md)
 - [§ 364-KK Condition of Participation](364kk-condition-of-participation.md)
 - [§ 364-M Statewide patient centered medical home program](364m-statewide-patient-centered-medical-home-program.md)
+- [§ 364-N Diabetes and chronic disease self-management pilot program](364n-diabetes-and-chronic-disease-self-management-pilot.md)
 - [§ 365 Responsibility for assistance](365-responsibility-for-assistance.md)
 - [§ 365-A Character and adequacy of assistance](365a-character-and-adequacy-of-assistance.md)
 - [§ 365-B Local medical plans: professional directors](365b-local-medical-plans-professional-directors.md)
@@ -120,6 +121,8 @@ Section 363.     Declaration of objects.
         364-jj.  Special advisory review panel on Medicaid managed care.
         364-kk.  Condition of Participation.
         364-m.   Statewide patient centered medical home program.
+        364-n.   Diabetes and chronic disease self-management pilot
+                   program.
         365.     Responsibility for assistance.
         365-a.   Character and adequacy of assistance.
         365-b.   Local medical plans: professional directors.

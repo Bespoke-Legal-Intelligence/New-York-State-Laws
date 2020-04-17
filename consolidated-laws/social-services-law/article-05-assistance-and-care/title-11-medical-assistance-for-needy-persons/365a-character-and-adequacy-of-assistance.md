@@ -127,22 +127,48 @@ approved home health agency when such services are determined to be cost
 effective and appropriate to meet the recipient's needs for assistance
 subject to the provisions of section three hundred sixty-seven-j and
 section three hundred sixty-seven-o of this title;
-  (e) (i) personal care services, including personal emergency response
+  (e) * (i) personal care services, including personal emergency
+response services, shared aide and an individual aide, subject to the
+provisions of subparagraphs (ii), (iii), and (iv) of this paragraph,
+furnished to an individual who is not an inpatient or resident of a
+hospital, nursing facility, intermediate care facility for the mentally
+retarded, or institution for mental disease, as determined to meet the
+recipient's needs for assistance when cost effective and appropriate,
+and when prescribed by a physician, in accordance with the recipient's
+plan of treatment and provided by individuals who are qualified to
+provide such services, who are supervised by a registered nurse and who
+are not members of the recipient's family, and furnished in the
+recipient's home or other location;
+  * NB Effective until October 1, 2020
+  * (i) personal care services, including personal emergency response
 services, shared aide and an individual aide, subject to the provisions
-of subparagraphs (ii), (iii), and (iv) of this paragraph, furnished to
-an individual who is not an inpatient or resident of a hospital, nursing
-facility, intermediate care facility for the mentally retarded, or
-institution for mental disease, as determined to meet the recipient's
-needs for assistance when cost effective and appropriate, and when
-prescribed by a physician, in accordance with the recipient's plan of
-treatment and provided by individuals who are qualified to provide such
-services, who are supervised by a registered nurse and who are not
-members of the recipient's family, and furnished in the recipient's home
-or other location;
-  (ii) the commissioner is authorized to adopt standards, pursuant to
+of subparagraphs (ii), (iii), (iv), (v) and (vi) of this paragraph,
+furnished to an individual who is not an inpatient or resident of a
+hospital, nursing facility, intermediate care facility for individuals
+with intellectual disabilities, or institution for mental disease, as
+determined to meet the recipient's needs for assistance when cost
+effective and appropriate, and when prescribed by a qualified
+independent physician selected or approved by the department of health,
+in accordance with the recipient's plan of treatment and provided by
+individuals who are qualified to provide such services, who are
+supervised by a registered nurse and who are not members of the
+recipient's family, and furnished in the recipient's home or other
+location;
+  * NB Effective October 1, 2020
+  * (ii) the commissioner is authorized to adopt standards, pursuant to
 emergency regulation, for the provision and management of services
 available under this paragraph for individuals whose need for such
 services exceeds a specified level to be determined by the commissioner;
+  * NB Effective until October 1, 2020
+  * (ii) the commissioner is authorized to adopt standards, pursuant to
+emergency regulation, for the provision, management and assessment of
+services available under this paragraph for individuals whose need for
+such services exceeds a specified level to be determined by the
+commissioner, and who with the provision of such services is capable of
+safely remaining in the community in accordance with the standards set
+forth in Olmstead v. LC by Zimring, 527 US 581 (1999) and consider
+whether an individual is capable of safely remaining in the community;
+  * NB Effective October 1, 2020
   (iii) the commissioner shall provide assistance to persons receiving
 services under this paragraph who are transitioning to receiving care
 from a managed long term care plan certified pursuant to section
@@ -152,6 +178,25 @@ title;
   (iv) personal care services available pursuant to this paragraph shall
 not exceed eight hours per week for individuals whose needs are limited
 to nutritional and environmental support functions;
+  * (v) subject to the availability of federal financial participation,
+personal care services other than personal emergency response services
+available pursuant to this paragraph shall be available only to
+individuals assessed as needing at least limited assistance with
+physical maneuvering with more than two activities of daily living, or
+for individuals with a dementia or Alzheimer's diagnosis, assessed as
+needing at least supervision with more than one activity of daily
+living, as defined and determined by using an evidenced based validated
+assessment instrument approved by the commissioner and in accordance
+with regulations of the department and any applicable state and federal
+laws by an independent assessor. The provisions of this subparagraph
+shall only apply to individuals who receive an initial authorization for
+such services on or after October first, two thousand twenty;
+  * NB Effective October 1, 2020
+  * (vi) In establishing any standards for the provision, management or
+assessment of personal care services the state shall meet the standards
+set forth in Olmstead v. LC by Zimring, 527 US 581 (1999) and consider
+whether an individual is capable of safely remaining in the community;
+  * NB Effective October 1, 2020
   (f) preventive, prophylactic and other routine dental care, services
 and supplies;
   (g) sickroom supplies, eyeglasses, prosthetic appliances and dental
@@ -216,14 +261,20 @@ States department of health and human services, or, in the case of a
 drug not requiring a prescription, in excess of the maximum reimbursable
 amount established by the commissioner of health pursuant to paragraph
 (a) of subdivision four of this section;
-  (h) speech therapy, and when provided at the direction of a physician
-or nurse practitioner, physical therapy including related rehabilitative
-services and occupational therapy; provided, however, that speech
-therapy and occupational therapy each shall be limited to coverage of
-twenty visits per year; physical therapy shall be limited to coverage of
-forty visits per year; such limitation shall not apply to persons with
-developmental disabilities or, notwithstanding any other provision of
-law to the contrary, to persons with traumatic brain injury;
+  * (h) speech therapy, and when provided at the direction of a
+physician or nurse practitioner, physical therapy including related
+rehabilitative services and occupational therapy; provided, however,
+that speech therapy and occupational therapy each shall be limited to
+coverage of twenty visits per year; physical therapy shall be limited to
+coverage of forty visits per year; such limitation shall not apply to
+persons with developmental disabilities or, notwithstanding any other
+provision of law to the contrary, to persons with traumatic brain
+injury;
+  * NB Effective until October 1, 2020
+  * (h) speech therapy, and when provided at the direction of a
+physician or nurse practitioner, physical therapy including related
+rehabilitative services and occupational therapy;
+  * NB Effective October 1, 2020
   (i) laboratory and x-ray services; and
   (j) transportation when essential and appropriate to obtain medical
 care, services and supplies otherwise available under the medical
@@ -480,6 +531,16 @@ program intended to accomplish the purpose of this section.
 federal Centers for Disease Control (CDC), provided by a community-based
 organization, and designed to prevent individuals at risk of developing
 diabetes from developing Type 2 diabetes.
+  * (hh) The commissioner is authorized to establish one or more
+maternal health promotion pilot programs in one or more counties or
+regions of the state, for the purpose of providing Medicaid
+reimbursement of the prenatal maternal childbirth education and
+preparation classes for enrollees, and transportation to and from such
+classes, for the purpose of improving maternal outcomes and reducing
+maternal-infant mortality.  The commissioner is authorized to establish
+fees for the reimbursement of such classes, subject to the approval of
+the state director of the budget.
+  * NB Effective October 1, 2020
   3. Any inconsistent provisions of this section notwithstanding,
 medical assistance shall include:
   (a) early and periodic screening and diagnosis of eligible persons
@@ -543,8 +604,13 @@ which are non preferred drugs pursuant to section two hundred
 seventy-two of the public health law, or the clinical drug review
 program under section two hundred seventy-four of the public health law,
 unless prior authorization is granted or not required;
-  (b) care and services of chiropractors and supplies related to the
+  * (b) care and services of chiropractors and supplies related to the
 practice of chiropractic;
+  * NB Effective until October 1, 2020
+  * (b) care and services of chiropractors and supplies related to the
+practice of chiropractic, except as provided for by the commissioner
+pursuant to a pilot program approved under federal law and regulation;
+  * NB Effective October 1, 2020
   (c) care and services of an optometrist for using drugs in excess of
 the maximum reimbursable amounts for optometric care and services
 established by the commissioner and approved by the director of the

@@ -57,21 +57,24 @@ populations;
 this chapter;
   (s) a hospice as defined in article forty of this chapter;
   (t) credentialed alcoholism and substance abuse counselors
-credentialed by the office of alcoholism and substance abuse services or
-by a credentialing entity approved by such office pursuant to section
-19.07 of the mental hygiene law;
-  (u) providers authorized to provide services and service coordination
-under the early intervention program pursuant to article twenty-five of
-this chapter;
+credentialed by the office of addiction services and supports or by a
+credentialing entity approved by such office pursuant to section 19.07
+of the mental hygiene law;
   (v) clinics licensed or certified under article sixteen of the mental
 hygiene law and certified and non-certified day and residential programs
 funded or operated by the office for people with developmental
-disabilities; and
-  (w) any other provider as determined by the commissioner pursuant to
+disabilities;
+  (w) a care manager employed by or under contract to a health home
+program, patient centered medical home, office for people with
+developmental disabilities Care Coordination Organization (CCO), hospice
+or a voluntary foster care agency certified by the office of children
+and family services certified and licensed pursuant to article
+twenty-nine-i of this chapter; and
+  (x) any other provider as determined by the commissioner pursuant to
 regulation or, in consultation with the commissioner, by the
 commissioner of the office of mental health, the commissioner of the
-office of alcoholism and substance abuse services, or the commissioner
-of the office for people with developmental disabilities pursuant to
+office of addiction services and supports, or the commissioner of the
+office for people with developmental disabilities pursuant to
 regulation.
   3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of

@@ -4,10 +4,10 @@
 [Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 2-F — Abatement of Tax Payments For Certain Industrial and Commercial Properties In a City of One Million or More Persons](README.md)
 
 ```text
-  § 489-dddddd. Applying for benefits. 1. Application. (a) Application
+  § 489-dddddd. Applying for benefits. 1. Application.  (a) Application
 for benefits pursuant to this title may be made immediately following
 the effective date of a local law enacted pursuant to this title and
-continuing until March first, two thousand twenty-two.
+continuing until March first, two thousand twenty-five.
   (b) Application content. The preliminary and final applications shall
 be in any format designated by the commissioner, including electronic
 format. The applications shall require, and applicants shall provide,
@@ -47,8 +47,8 @@ administrative charges or fees necessary to defray expenses in
 administering this benefit program.
   3. (a) No benefits pursuant to this title shall be granted for
 construction work performed pursuant to a building permit issued after
-April first, two thousand twenty-two.
+April first, two thousand twenty-five.
   (b) If no building permit was required, then no benefits pursuant to
 this title shall be granted for construction work that is commenced
-after April first, two thousand twenty-two.
+after April first, two thousand twenty-five.
 ```

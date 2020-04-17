@@ -456,11 +456,18 @@ five hundred thousand dollars, for the period January first, two
 thousand eighteen through December thirty-first, two thousand eighteen,
 seven million five hundred thousand dollars, for the period January
 first, two thousand nineteen through December thirty-first, two thousand
-nineteen, seven million five hundred thousand dollars, and for the
-period January first, two thousand twenty through March thirty-first,
-two thousand twenty, in the amount of one million six hundred thousand
-dollars, provided, however, that for periods on and after January first,
-two thousand eight, such additional payments shall be distributed to
+nineteen, seven million five hundred thousand dollars, for the period
+January first, two thousand twenty through December thirty-first, two
+thousand twenty, seven million five hundred thousand dollars, for the
+period January first, two thousand twenty-one through December
+thirty-first, two thousand twenty-one, seven million five hundred
+thousand dollars, for the period January first, two thousand twenty-two
+through December thirty-first, two thousand twenty-two, seven million
+five hundred thousand dollars, and for the period January first, two
+thousand twenty-three through March thirty-first, two thousand
+twenty-three, in the amount of one million six hundred thousand dollars,
+provided, however, that for periods on and after January first, two
+thousand eight, such additional payments shall be distributed to
 voluntary, non-profit diagnostic and treatment centers and to public
 diagnostic and treatment centers in accordance with paragraph (g) of
 subdivision four of this section. In the event that federal financial

@@ -17,6 +17,7 @@
 - [§ 195 Notice and record-keeping requirements](195-notice-and-record-keeping-requirements.md)
 - [§ 196 Powers of commissioner](196-powers-of-commissioner.md)
 - [§ 196-A Complaints by employees to commissioner](196a-complaints-by-employees-to-commissioner.md)
+- [§ 196-B Sick leave requirements](196b-sick-leave-requirements.md)
 - [§ 196-D Gratuities](196d-gratuities.md)
 - [§ 197 Civil penalty](197-civil-penalty.md)
 - [§ 198 Costs, remedies](198-costs-remedies.md)
@@ -46,6 +47,7 @@ Section 190.   Definitions.
         195.   Notice and record-keeping requirements.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
+        196-b. Sick leave requirements.
         196-d. Gratuities.
         197.   Civil penalty.
         198.   Costs, remedies.

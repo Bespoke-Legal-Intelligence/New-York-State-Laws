@@ -30,11 +30,14 @@ pharmacy savings target of eighty-five million dollars;
   (c) for state fiscal year two thousand nineteen--two thousand twenty,
 be limited to the ten-year rolling average of the medical component of
 the consumer price index plus four percent and minus a pharmacy savings
-target of eighty-five million dollars; and
+target of eighty-five million dollars;
   (d) for state fiscal year two thousand twenty--two thousand
 twenty-one, be limited to the ten-year rolling average of the medical
-component of the consumer price index plus four percent and minus a
-pharmacy savings target of eighty-five million dollars.
+component of the consumer price index plus two percent; and
+  (e) for state fiscal year two thousand twenty-one--two thousand
+twenty-two and fiscal years thereafter, be limited in accordance with
+subdivision one of section ninety-one of part H of chapter fifty-nine of
+the laws of two thousand eleven, as amended.
   3. The department and the division of the budget shall assess on a
 quarterly basis the projected total amount to be expended in the year on
 a cash basis by the Medicaid program for each drug, and the projected
@@ -191,11 +194,14 @@ disclosed by the drug utilization review board in a form that identifies
 a specific manufacturer or prices charged for drugs by such
 manufacturer.
   6. (a) If the drug utilization review board recommends a target rebate
-amount and the department is unsuccessful in entering into a rebate
-agreement with the manufacturer of the drug satisfactory to the
-department, the drug manufacturer shall in that event be required to
-provide to the department, on a standard reporting form developed by the
-department, the following information:
+amount or if the commissioner identifies a drug as a high cost drug
+pursuant to subparagraph (vii) of paragraph (e) of subdivision 7 of
+section three hundred sixty-seven-a of the social services law and the
+department is unsuccessful in entering into a rebate arrangement with
+the manufacturer of the drug satisfactory to the department, the drug
+manufacturer shall in that event be required to provide to the
+department, on a standard reporting form developed by the department,
+the following information:
   (i) the actual cost of developing, manufacturing, producing (including
 the cost per dose of production), and distributing the drug;
   (ii) research and development costs of the drug, including payments to
@@ -231,22 +237,27 @@ two of this section, the commissioner may: subject any drug of a
 manufacturer referred to the drug utilization review board under this
 section to prior approval in accordance with existing processes and
 procedures when such manufacturer has not entered into a supplemental
-rebate agreement as required by this section; direct managed care plans
-to remove from their Medicaid formularies those drugs that the drug
-utilization review board recommends a target rebate amount for and the
-manufacturer has failed to enter into a rebate agreement required by
-this section; promote the use of cost effective and clinically
-appropriate drugs other than those of a manufacturer who has a drug that
-the drug utilization review board recommends a target rebate amount and
-the manufacturer has failed to enter into a rebate agreement required by
-this section; allow manufacturers to accelerate rebate payments under
-existing rebate contracts; and such other actions as authorized by law.
-The commissioner shall provide written notice to the legislature thirty
-days prior to taking action pursuant to this paragraph, unless action is
-necessary in the fourth quarter of a fiscal year to prevent total
-Medicaid drug expenditures from exceeding the limitation imposed by
-subdivision two of this section, in which case such notice to the
-legislature may be less than thirty days.
+rebate arrangement as required by this section; direct a managed care
+plan to limit or reduce reimbursement for a drug provided by a medical
+practitioner if the drug utilization review board recommends a target
+rebate amount for such drug and the manufacturer has failed to enter
+into a rebate arrangement required by this section; direct managed care
+plans to remove from their Medicaid formularies any drugs of a
+manufacturer who has a drug that the drug utilization review board
+recommends a target rebate amount for and the manufacturer has failed to
+enter into a rebate arrangement required by this section; promote the
+use of cost effective and clinically appropriate drugs other than those
+of a manufacturer who has a drug that the drug utilization review board
+recommends a target rebate amount and the manufacturer has failed to
+enter into a rebate arrangement required by this section; allow
+manufacturers to accelerate rebate payments under existing rebate
+contracts; and such other actions as authorized by law. The commissioner
+shall provide written notice to the legislature thirty days prior to
+taking action pursuant to this paragraph, unless action is necessary in
+the fourth quarter of a fiscal year to prevent total Medicaid drug
+expenditures from exceeding the limitation imposed by subdivision two of
+this section, in which case such notice to the legislature may be less
+than thirty days.
   (b) The commissioner shall be authorized to take the actions described
 in paragraph (a) of this subdivision only so long as total Medicaid drug
 expenditures are projected to exceed the annual growth limitation

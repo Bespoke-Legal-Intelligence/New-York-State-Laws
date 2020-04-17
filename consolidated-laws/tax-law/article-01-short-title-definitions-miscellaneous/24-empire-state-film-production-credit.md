@@ -14,7 +14,7 @@ chapter, shall be allowed a credit against such tax, pursuant to the
 provisions referenced in subdivision (c) of this section, to be computed
 as hereinafter provided.
   (2) The amount of the credit shall be the product (or pro rata share
-of the product, in the case of a member of a partnership) of thirty
+of the product, in the case of a member of a partnership) of twenty-five
 percent and the qualified production costs paid or incurred in the
 production of a qualified film, provided that: (i) the qualified
 production costs (excluding post production costs) paid or incurred
@@ -44,10 +44,10 @@ of such qualified film. The credit shall be allowed for the taxable year
 in which the production of such qualified film is completed. However, in
 the case of a qualified film that receives funds from additional pool 2,
 no credit shall be claimed before the later of (1) the taxable year the
-production of the qualified film is complete, or (2) the taxable year
-immediately following the allocation year for which the film has been
-allocated credit by the governor's office for motion picture and
-television development. If the amount of the credit is at least one
+production of the qualified film is complete, or (2) the first taxable
+year beginning immediately after the allocation year for which the film
+has been allocated credit by the governor's office for motion picture
+and television development. If the amount of the credit is at least one
 million dollars but less than five million dollars, the credit shall be
 claimed over a two year period beginning in the first taxable year in
 which the credit may be claimed and in the next succeeding taxable year,
@@ -79,7 +79,7 @@ of this section, only from companies registered to collect and remit
 state and local sales and use taxes pursuant to articles twenty-eight
 and twenty-nine of this chapter.
   (5) For the period two thousand fifteen through two thousand
-twenty-four, in addition to the amount of credit established in
+twenty-five, in addition to the amount of credit established in
 paragraph two of this subdivision, a taxpayer shall be allowed a credit
 equal to the product (or pro rata share of the product, in the case of a
 member of a partnership) of ten percent and the amount of wages or
@@ -101,7 +101,7 @@ St. Lawrence, Steuben, Sullivan, Tioga, Tompkins, Ulster, Warren,
 Washington, Wayne, Wyoming, or Yates. The aggregate amount of tax
 credits allowed pursuant to the authority of this paragraph shall be
 five million dollars each year during the period two thousand fifteen
-through two thousand twenty-four of the annual allocation made available
+through two thousand twenty-five of the annual allocation made available
 to the program pursuant to paragraph four of subdivision (e) of this
 section. Such aggregate amount of credits shall be allocated by the
 governor's office for motion picture and television development among
@@ -119,7 +119,7 @@ of this section. However, in no event may the total of the credits
 allocated under this paragraph and the credits allocated under paragraph
 five of subdivision (a) of section thirty-one of this article exceed
 five million dollars in any year during the period two thousand fifteen
-through two thousand twenty-four.
+through two thousand twenty-five.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified production costs" means production costs only to the
@@ -140,20 +140,43 @@ or any part thereof, props, makeup, wardrobe, film processing, camera,
 sound recording, set construction, lighting, shooting, editing and
 meals.
   (3) "Qualified film" means a feature-length film, television film,
-relocated television production, television pilot and/or each episode of
-a television series, regardless of the medium by means of which the
-film, pilot or episode is created or conveyed. "Qualified film" shall
-not include (i) a documentary film, news or current affairs program,
-interview or talk program, "how-to" (i.e., instructional) film or
-program, film or program consisting primarily of stock footage, sporting
-event or sporting program, game show, award ceremony, film or program
-intended primarily for industrial, corporate or institutional end-users,
-fundraising film or program, daytime drama (i.e., daytime "soap opera"),
-commercials, music videos or "reality" program, or (ii) a production for
-which records are required under section 2257 of title 18, United States
-code, to be maintained with respect to any performer in such production
-(reporting of books, films, etc. with respect to sexually explicit
-conduct).
+relocated television production, television pilot or television series,
+regardless of the medium by means of which the film, pilot or series is
+created or conveyed. For the purposes of the credit provided by this
+section only, a "qualified film" with the exception of a television
+pilot, whose majority of principal photography shooting days in the
+production of the qualified film are shot in Westchester, Rockland,
+Nassau, or Suffolk county or any of the five New York City boroughs
+shall have a minimum budget of one million dollars. A "qualified film",
+with the exception of a television pilot, whose majority of principal
+photography shooting days in the production of the qualified film are
+shot in any other county of the state than those listed in the preceding
+sentence shall have a minimum budget of two hundred fifty thousand
+dollars. "Qualified film" shall not include: (i) a documentary film,
+news or current affairs program, interview or talk program, "how-to"
+(i.e., instructional) film or program, film or program consisting
+primarily of stock footage, sporting event or sporting program, game
+show, award ceremony, film or program intended primarily for industrial,
+corporate or institutional end-users, fundraising film or program,
+daytime drama (i.e., daytime "soap opera"), commercials, music videos or
+"reality" program; (ii) a production for which records are required
+under section 2257 of title 18, United States code, to be maintained
+with respect to any performer in such production (reporting of books,
+films, etc. with respect to sexually explicit conduct); or (iii) other
+than a relocated television production, a television series commonly
+known as variety entertainment, variety sketch and variety talk, i.e., a
+program with components of improvisational or scripted content
+(monologues, sketches, interviews), either exclusively or in combination
+with other entertainment elements such as musical performances, dancing,
+cooking, crafts, pranks, stunts, and games and which may be further
+defined in regulations of the commissioner of economic development.
+However, a qualified film shall include a television series as described
+in subparagraph (iii) of this paragraph only if an application for such
+series has been deemed conditionally eligible for the tax credit under
+this section prior to April first, two thousand twenty, such series
+remains in continuous production for each season, and an annual
+application for each season of such series is continually submitted for
+such series after April first, two thousand twenty.
   (4) "Film production facility" shall mean a building and/or complex of
 buildings and their improvements and associated back-lot facilities in
 which films are or are intended to be regularly produced and which
@@ -264,24 +287,75 @@ three hundred fifty million dollars in two thousand nine. This
 additional amount shall be allocated by the governor's office for motion
 picture and television development among taxpayers in accordance with
 subdivision (a) of this section.
-  (4) Additional pool 2 - The aggregate amount of tax credits allowed in
-subdivision (a) of this section shall be increased by an additional four
-hundred twenty million dollars in each year starting in two thousand ten
-through two thousand twenty-four provided however, seven million dollars
-of the annual allocation shall be available for the empire state film
-post production credit pursuant to section thirty-one of this article in
-two thousand thirteen and two thousand fourteen, twenty-five million
-dollars of the annual allocation shall be available for the empire state
-film post production credit pursuant to section thirty-one of this
-article in each year starting in two thousand fifteen through two
-thousand twenty-four and five million dollars of the annual allocation
-shall be made available for the television writers' and directors' fees
-and salaries credit pursuant to section twenty-four-b of this article in
-each year starting in two thousand twenty through two thousand
-twenty-four. This amount shall be allocated by the governor's office for
-motion picture and television development among taxpayers in accordance
-with subdivision (a) of this section. If the commissioner of economic
-development determines that the aggregate amount of tax credits
+  * (4) Additional pool 2 - The aggregate amount of tax credits allowed
+in subdivision (a) of this section shall be increased by an additional
+four hundred twenty million dollars in each year starting in two
+thousand ten through two thousand twenty-four provided however, seven
+million dollars of the annual allocation shall be available for the
+empire state film post production credit pursuant to section thirty-one
+of this article in two thousand thirteen and two thousand fourteen and
+twenty-five million dollars of the annual allocation shall be available
+for the empire state film post production credit pursuant to section
+thirty-one of this article in each year starting in two thousand fifteen
+through two thousand twenty-four. This amount shall be allocated by the
+governor's office for motion picture and television development among
+taxpayers in accordance with subdivision (a) of this section. If the
+commissioner of economic development determines that the aggregate
+amount of tax credits available from additional pool 2 for the empire
+state film production tax credit have been previously allocated, and
+determines that the pending applications from eligible applicants for
+the empire state film post production tax credit pursuant to section
+thirty-one of this article is insufficient to utilize the balance of
+unallocated empire state film post production tax credits from such
+pool, the remainder, after such pending applications are considered,
+shall be made available for allocation in the empire state film tax
+credit pursuant to this section, subdivision twenty of section two
+hundred ten-B and subsection (gg) of section six hundred six of this
+chapter. Also, if the commissioner of economic development determines
+that the aggregate amount of tax credits available from additional pool
+2 for the empire state film post production tax credit have been
+previously allocated, and determines that the pending applications from
+eligible applicants for the empire state film production tax credit
+pursuant to this section is insufficient to utilize the balance of
+unallocated film production tax credits from such pool, then all or part
+of the remainder, after such pending applications are considered, shall
+be made available for allocation for the empire state film post
+production credit pursuant to this section, subdivision thirty-two of
+section two hundred ten-B and subsection (qq) of section six hundred six
+of this chapter. The governor's office for motion picture and television
+development must notify taxpayers of their allocation year and include
+the allocation year on the certificate of tax credit. Taxpayers eligible
+to claim a credit must report the allocation year directly on their
+empire state film production credit tax form for each year a credit is
+claimed and include a copy of the certificate with their tax return. In
+the case of a qualified film that receives funds from additional pool 2,
+no empire state film production credit shall be claimed before the later
+of the taxable year the production of the qualified film is complete, or
+the taxable year immediately following the allocation year for which the
+film has been allocated credit by the governor's office for motion
+picture and television development.
+  * NB Effective until the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
+  * (4) Additional pool 2 - The aggregate amount of tax credits allowed
+in subdivision (a) of this section shall be increased by an additional
+four hundred twenty million dollars in each year starting in two
+thousand ten through two thousand twenty-five provided however, seven
+million dollars of the annual allocation shall be available for the
+empire state film post production credit pursuant to section thirty-one
+of this article in two thousand thirteen and two thousand fourteen,
+twenty-five million dollars of the annual allocation shall be available
+for the empire state film post production credit pursuant to section
+thirty-one of this article in each year starting in two thousand fifteen
+through two thousand twenty-five and five million dollars of the annual
+allocation shall be made available for the television writers' and
+directors' fees and salaries credit pursuant to section twenty-four-b of
+this article in each year starting in two thousand twenty through two
+thousand twenty-five. This amount shall be allocated by the governor's
+office for motion picture and television development among taxpayers in
+accordance with subdivision (a) of this section. If the commissioner of
+economic development determines that the aggregate amount of tax credits
 available from additional pool 2 for the empire state film production
 tax credit have been previously allocated, and determines that the
 pending applications from eligible applicants for the empire state film
@@ -315,6 +389,10 @@ taxable year the production of the qualified film is complete, or the
 taxable year immediately following the allocation year for which the
 film has been allocated credit by the governor's office for motion
 picture and television development.
+  * NB Effective on the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
   (f) (1) With regard to certificates of tax credit issued on or after
 January first, two thousand twenty, the commissioner of economic
 development shall reduce by one-quarter of one percent the amount of

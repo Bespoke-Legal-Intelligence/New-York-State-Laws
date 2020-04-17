@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,697 |
-| Last changed | 10 Apr 2020 |
+| Sections | 1,702 |
+| Last changed | 17 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (341 lines)](chapter-text.md)
+[Full chapter text (340 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Apr 2020](../../changes/2020/2020-04-17.md): 60 amended, 14 added, 9 removed
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 4 amended
 - [3 Apr 2020](../../changes/2020/2020-04-03.md): 1 amended
 - [27 Mar 2020](../../changes/2020/2020-03-27.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [17 Jan 2020](../../changes/2020/2020-01-17.md): 5 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 8 amended
 - [3 Jan 2020](../../changes/2020/2020-01-03.md): 10 amended, 2 added
-- [27 Dec 2019](../../changes/2019/2019-12-27.md): 37 amended, 1 added
 
 ## Contents
 
@@ -74,6 +74,7 @@ Assembly, do enact as follows:
 - [Article 14 — Regulation of Camps For Children](article-14-regulation-of-camps-for-children/)
 - [Article 15 — Insect Control](article-15-insect-control/)
 - [Article 16 — Pesticide Control Board](article-16-pesticide-control-board/)
+- [Article 17 — Ingredient Disclosures For Vapor Products and E-cigarettes](article-17-ingredient-disclosures-for-vapor-products-and-e/)
 - [Article 20 — Reporting of Alzheimer's Disease](article-20-reporting-of-alzheimers-disease/)
 - [Article 20-A — Alzheimer's Community Assistance Program](article-20a-alzheimers-community-assistance-program/)
 - [Article 21 — Control of Acute Communicable Diseases](article-21-control-of-acute-communicable-diseases/)
@@ -88,6 +89,7 @@ Assembly, do enact as follows:
 - [Article 24-E — Information About Hysterectomy](article-24e-information-about-hysterectomy/)
 - [Article 25 — Maternal and Child Health](article-25-maternal-and-child-health/)
 - [Article 25-A — Reproductive Health Act](article-25a-reproductive-health-act/)
+- [Article 25-B — Gestational Surrogacy](article-25b-gestational-surrogacy/)
 - [Article 26 — Helen Hayes Hospital](article-26-helen-hayes-hospital/)
 - [Article 26-A — New York State Veterans' Home](article-26a-new-york-state-veterans-home/)
 - [Article 27 — Bureau of Chronic Disease and Geriatrics](article-27-bureau-of-chronic-disease-and-geriatrics/)
@@ -101,10 +103,8 @@ Assembly, do enact as follows:
 - [Article 27-DD — State Advisory Panel On Hiv/hbv Infected Health Care Workers](article-27dd-state-advisory-panel-on-hiv-hbv-infected-health/)
 - [Article 27-E — The Acquired Immune Deficiency Syndrome Institute](article-27e-the-acquired-immune-deficiency-syndrome/)
 - [Article 27-F — Hiv and Aids Related Information](article-27f-hiv-and-aids-related-information/)
-- [Article 27-G — Cystic Fibrosis Health Care Program](article-27g-cystic-fibrosis-health-care-program/)
 - [Article 27-H\* — Diabetes Research and Education Program](article-27h-diabetes-research-and-education-program/)
 - [Article 27-H — The Tick-borne Disease Institute](article-27h-the-tick-borne-disease-institute/)
-- [Article 27-J — Comprehensive Care Centers For Eating Disorders](article-27j-comprehensive-care-centers-for-eating-disorders/)
 - [Article 27-K — New York Wellness Works](article-27k-new-york-wellness-works/)
 - [Article 27-L — Rare Disease Advisory Council](article-27l-rare-disease-advisory-council/)
 - [Article 28 — Hospitals](article-28-hospitals/)
@@ -130,6 +130,7 @@ Assembly, do enact as follows:
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)
 - [Article 30-C — Emergency Medical Services For Children](article-30c-emergency-medical-services-for-children/)
+- [Article 30-D — Emergency or Disaster Treatment Protection Act](article-30d-emergency-or-disaster-treatment-protection-act/)
 - [Article 31 — Human Blood and Transfusion Services](article-31-human-blood-and-transfusion-services/)
 - [Article 32 — Live Pathogenic Microorganisms or Viruses](article-32-live-pathogenic-microorganisms-or-viruses/)
 - [Article 32-A — Recombinant Dna Experiments](article-32a-recombinant-dna-experiments/)

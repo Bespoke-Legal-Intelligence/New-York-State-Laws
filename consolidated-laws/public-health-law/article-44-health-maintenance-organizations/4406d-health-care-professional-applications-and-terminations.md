@@ -60,6 +60,57 @@ is provisionally credentialed upon submission of such claim. A health
 care plan shall not deny, after appeal, a claim for services provided by
 a provisionally credentialed health care professional solely on the
 ground that the claim was not timely filed.
+  (c) A newly-licensed physician, a physician who has recently relocated
+to this state from another state and has not previously practiced in
+this state, or a physician who has changed his or her corporate
+relationship such that it results in the issuance of a new tax
+identification number under which such physician's services are billed
+for and who previously had a participation contract with the health care
+plan immediately prior to the event that changed his or her corporate
+relationship, who becomes employed by a general hospital or diagnostic
+and treatment center licensed pursuant to article twenty-eight of this
+chapter, or a facility licensed under article sixteen, article
+thirty-one or article thirty-two of the mental hygiene law which has a
+participating provider contract with a health care plan, and whose other
+employed physicians participate in the in-network portion of a health
+care plan's network, shall be deemed "provisionally credentialed" and
+may participate in the in-network portion of a health care plan's
+network during this time period upon: (i) the health care plan's receipt
+of the hospital and physician's completed sections of the insurer's
+credentialing application; and (ii) the health care plan being notified
+in writing that the health care professional has been granted hospital
+privileges pursuant to the requirements of section twenty-eight hundred
+five-k of this chapter. However, a provisionally credentialed physician
+shall not be designated as an enrollee's primary care physician until
+such time as the physician has been fully credentialed by the health
+care plan. Notwithstanding any other provision of law, a health care
+plan shall not be required to make any payments to the licensed general
+hospital, the licensed diagnostic and treatment center or a facility
+licensed under article sixteen, article thirty-one or article thirty-two
+of the mental hygiene law for the service provided by a provisionally
+credentialed physician, until and unless the physician is fully
+credentialed by the health care plan, provided, however, that upon being
+fully credentialed, the licensed general hospital, the licensed
+diagnostic and treatment center or a facility licensed under article
+sixteen, article thirty-one or article thirty-two of the mental hygiene
+law shall be paid for all services provided by the physician for up to
+sixty days after submission of the completed application that the
+credentialed physician provided to the health care plan's insureds from
+the date the physician fully met the requirements to be provisionally
+credentialed pursuant to this paragraph. Should the application
+ultimately be denied by the health care plan, the health care plan shall
+not be liable for any payment to the licensed general hospital, the
+licensed diagnostic and treatment center or a facility licensed under
+article sixteen, article thirty-one or article thirty-two of the mental
+hygiene law for the services provided by the provisionally credentialed
+health care professional; and the licensed general hospital, the
+licensed diagnostic and treatment center or a facility licensed under
+article sixteen, article thirty-one or article thirty-two of the mental
+hygiene law shall not pursue reimbursement from the insured, except to
+collect the copayment or coinsurance or deductible amount that otherwise
+would have been payable had the insured received services from a health
+care professional participating in the in-network portion of a health
+care plan's network.
   2. (a) A health care plan shall not terminate a contract with a health
 care professional unless the health care plan provides to the health
 care professional a written explanation of the reasons for the proposed

@@ -125,7 +125,7 @@ Article
   13-E.    Regulation of smoking and vaping in certain public areas
             (§§1399-n--1399-x).
   13-F.    Regulation of tobacco products and herbal cigarettes;
-            distribution to minors (§§1399-aa--1399-mm).
+            distribution to minors (§§1399-aa--1399-mm-3).
   13-G.    Tobacco escrow funds (§§1399-nn--1399-pp).
   13-H.    Regulation of sharps (§§1399-ss--1399-ww).
   14.      Regulation of camps for children (§§1400-1407).
@@ -206,11 +206,8 @@ Article
   27-E.    The acquired immune deficiency syndrome institute
             (§§2775-2779).
   27-F.    HIV and AIDS related information (§§2780-2787).
-  27-G.    Cystic Fibrosis health care program (§2795).
   27-H*.   Diabetes research and education program (§2796).
   27-H.    The Tick-Borne Disease Institute (§§2797--2798).
-  27-J.    Comprehensive care centers for eating disorders
-            (§§2799-d--2799-i).
   27-K.    New York Wellness Works (§§2799-o--2799-r).
   27-L.    Rare disease advisory council (§2799-u).
   28.      Hospitals (§§2800-2827).
@@ -250,13 +247,15 @@ Article
             2999-n--2999-r).
   29-F.    Improved integration of health care and financing (§§
             2999-aa--2999-bb).
-  29-G.    Telehealth delivery of services (§§ 2999-cc--2999-dd).
+  29-G.    Telehealth delivery of services (§§ 2999-cc--2999-ee).
   29-I.    Medical services for foster children (§ 2999-gg).
   30.      Emergency medical services (§§3000-3032).
   30-A.    Emergency medical services personnel training act of nineteen
             hundred eighty-six (§§3050-3054).
   30-B.    Emergency medical, trauma and disaster care (§§3060-3066).
   30-C.    Emergency medical services for children (§§3070-3075).
+  30-D.    Emergency  or disaster treatment protection act (§§
+            3080-3082).
   31.      Human blood and transfusion services
            Title    I.   General provisions (§3100).
                    II.   Regulation of the business of blood donating

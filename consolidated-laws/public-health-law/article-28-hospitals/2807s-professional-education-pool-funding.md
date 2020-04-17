@@ -212,8 +212,8 @@ enrollment counts for the applicable month.
 two thousand nine through December thirty-first, two thousand fourteen,
 shall be nine hundred forty-four million dollars.
   (xv) A gross annual statewide amount for the period January first, two
-thousand fifteen through December thirty-first, two thousand twenty,
-shall be one billion forty-five million dollars.
+thousand fifteen through December thirty-first, two thousand
+twenty-three, shall be one billion forty-five million dollars.
   (b) The amount specified in paragraph (a) of this subdivision shall be
 allocated among the regions based on each region's proportional share of
 the sum of the estimated revenue of all general hospitals in the region,
@@ -305,7 +305,7 @@ for the period April first, two thousand eleven through March
 thirty-first, two thousand twelve;
   (xiii) twenty-three million eight hundred thirty-six thousand dollars
 each state fiscal year for the period April first, two thousand twelve
-through March thirty-first, two thousand twenty;
+through March thirty-first, two thousand twenty-three;
   (xiv) provided, however, for periods prior to January first, two
 thousand nine, amounts set forth in this paragraph may be reduced by the
 commissioner in an amount to be approved by the director of the budget
@@ -381,5 +381,5 @@ article, and shall not be included in gross revenue received for
 purposes of the assessments pursuant to section twenty-eight hundred
 seven-d of this article, subject to the provisions of subdivision twelve
 of section twenty-eight hundred seven-d of this article.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
 ```

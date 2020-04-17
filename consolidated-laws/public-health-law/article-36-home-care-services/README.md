@@ -10,6 +10,7 @@
 - [§ 3605 Licensure of home care services agencies](3605-licensure-of-home-care-services-agencies.md)
 - [§ 3605-A Proceedings involving the license of a home care services agency](3605a-proceedings-involving-the-license-of-a-home-care-services-agency.md)
 - [§ 3605-B Registration of licensed home care services agencies](3605b-registration-of-licensed-home-care-services-agencies.md)
+- [§ 3605-C Authorization to enroll and provide medical assistance](3605c-authorization-to-enroll-and-provide-medical-assistance.md)
 - [§ 3606 Establishment of certified home health agencies](3606-establishment-of-certified-home-health-agencies.md)
 - [§ 3606-A Certified home health agency construction](3606a-certified-home-health-agency-construction.md)
 - [§ 3607 Grants for expansion of services](3607-grants-for-expansion-of-services.md)
@@ -48,6 +49,7 @@ Section 3600.   Declaration of legislative findings and intent.
         3605-a. Proceedings involving the license of a home care
                   services agency.
         3605-b. Registration of licensed home care services agencies.
+        3605-c. Authorization to enroll and provide medical assistance.
         3606.   Establishment of certified home health agencies.
         3606-a. Certified home health agency construction.
         3607.   Grants for expansion of services.

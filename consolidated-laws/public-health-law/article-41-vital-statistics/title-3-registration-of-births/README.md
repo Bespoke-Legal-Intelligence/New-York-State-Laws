@@ -35,8 +35,7 @@ Section 4130.   Births; registration.
         4134.   Birth certificate; unnamed child.
         4135.   Birth certificate; child born out of wedlock.
         4135-a. Birth certificate; child born in prison.
-        4135-b. Voluntary acknowledgments of paternity; child born out
-                  of wedlock.
+        4135-b. Voluntary acknowledgments of parentage.
         4136.   Birth certificate; statement as to blood test.
         4137.   Births; notice of recording.
         4138.   Birth certificate; new certificate in case of subsequent

@@ -20,10 +20,16 @@ the tax shall be three and seventy-nine hundredths cents per gallon;
 natural sparkling cider containing more than three and two-tenths per
 centum of alcohol by volume, upon which the tax shall be three and
 seventy-nine hundredths cents per gallon;
-  (e) Sixty-seven cents per liter upon liquors containing not more than
-twenty-four per centum of alcohol by volume except liquors containing
-not more than two per centum of alcohol by volume, upon which the tax
-shall be one cent per liter; and
+  * (e) Sixty-seven cents per liter upon liquors containing not more
+than twenty-four per centum of alcohol by volume except liquors
+containing not more than two per centum of alcohol by volume, upon which
+the tax shall be one cent per liter; and
+  * NB Effective until June 1, 2020
+  * (e) Sixty-seven cents per liter upon liquors containing not more
+than twenty-four per centum of alcohol by volume except liquors
+containing not more than two per centum of alcohol by volume, upon which
+the tax shall be zero; and
+  * NB Effective June 1, 2020
   (f) One dollar and seventy cents per liter upon all other liquors;
 when sold or used within this state, except when sold or used under such
 circumstances that this state is without power to impose such tax or
@@ -50,7 +56,7 @@ tax; provided also that the commissioner may permit the sale of cider
 without tax by a holder of a cider producer's license issued by the
 state liquor authority to a holder of a cider producer's license or a
 cider wholesaler's license issued by such authority.
-  (g) For purposes of this chapter, it is presumed that liquors are
+  * (g) For purposes of this chapter, it is presumed that liquors are
 possessed for the purpose of sale in this state if the quantity of
 liquors possessed in this state, imported or caused to be imported into
 this state or produced, distilled, manufactured, compounded, mixed or
@@ -74,6 +80,31 @@ in the hands of the purchaser in the same manner and to the same extent
 as if such purchaser had imported or caused the same to be imported into
 this state or had produced, distilled, manufactured, brewed, compounded,
 mixed or fermented the same within this state.
+  * NB Effective until June 1, 2020
+  * (g) For purposes of this chapter, it is presumed that liquors are
+possessed for the purpose of sale in this state if the quantity of
+liquors possessed in this state, imported or caused to be imported into
+this state or produced, distilled, manufactured, compounded, mixed or
+fermented in this state exceeds ninety liters. Such presumption may be
+rebutted by the introduction of substantial evidence to the contrary. In
+any case where the quantity of alcoholic beverages taxable pursuant to
+this article is a fractional part of one liter (or one gallon in the
+case of beers) or an amount greater than a whole multiple of liters (or
+gallons in the case of beers), the amount of tax levied and imposed on
+such fractional part of one liter (or one gallon in the case of beers),
+or fractional part of a liter (or gallon) in excess of a whole multiple
+of liters or gallons shall be such fractional part of the rate imposed
+by paragraphs (a) through (f).
+  Notwithstanding any other provision of this article, the commissioner
+may permit the purchase of alcoholic beverages without tax by a person
+registered as a distributor under section four hundred twenty-one of
+this article from another person so registered, in which event the
+alcoholic beverage so purchased shall be subject to the taxes imposed by
+this article in the hands of the purchaser in the same manner and to the
+same extent as if such purchaser had imported or caused the same to be
+imported into this state or had produced, distilled, manufactured,
+brewed, compounded, mixed or fermented the same within this state.
+  * NB Effective September 1, 2020
   2. Such taxes shall be due on the twentieth day of the month following
 the month in which such alcoholic beverages are sold or used by such
 distributor or noncommercial importer, regardless of whether or not a

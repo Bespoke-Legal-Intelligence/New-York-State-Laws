@@ -460,7 +460,7 @@ municipal law to the empire zone enterprise which is the basis of the
 credit.
   (g-1) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-one, a taxpayer shall be allowed a
+January first, two thousand twenty-two, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -494,7 +494,7 @@ eleventh, two thousand one;
   * NB Effective November 12, 2020
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty; and
+thousand twenty-one; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or

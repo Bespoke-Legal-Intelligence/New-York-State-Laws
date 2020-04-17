@@ -20,6 +20,7 @@
 - [Article 34-A — Operation of Motorcycles](article-34a-operation-of-motorcycles/)
 - [Article 34-B — Riding Horses](article-34b-riding-horses/)
 - [Article 34-C — Operation of Electric Personal Assistive Mobility Devices](article-34c-operation-of-electric-personal/)
+- [Article 34-D — Operation of Electric Scooters](article-34d-operation-of-electric-scooters/)
 
 <details>
 <summary>Official heading of Title 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -43,6 +44,8 @@ Article 23.   Obedience to and effect of traffic laws.
         34.   Operation of bicycles and play devices.
         34-A. Operation of motorcycles.
         34-B. Riding horses.
+        34-C. Operation of electric personal assistive mobility devices.
+        34-D. Operation of electric scooters.
 ```
 
 </details>

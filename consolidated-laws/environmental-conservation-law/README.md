@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,762 |
-| Last changed | 3 Apr 2020 |
+| Sections | 1,787 |
+| Last changed | 17 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -29,10 +29,11 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
   Jersey and New York and the commonwealth of Pennsylvania in
 ```
 
-[Full chapter text (105 lines)](chapter-text.md)
+[Full chapter text (107 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Apr 2020](../../changes/2020/2020-04-17.md): 8 amended, 25 added
 - [3 Apr 2020](../../changes/2020/2020-04-03.md): 1 amended
 - [6 Mar 2020](../../changes/2020/2020-03-06.md): 12 amended
 - [14 Feb 2020](../../changes/2020/2020-02-14.md): 7 added
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 4 amended, 1 added
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended, 1 added
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 2 amended
-- [15 Nov 2019](../../changes/2019/2019-11-15.md): 3 amended
 
 ## Contents
 
@@ -91,6 +91,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 55 — Sole Source Aquifer Protection](article-55-sole-source-aquifer-protection/)
 - [Article 56 — Implementation of the Clean Water/clean Air Bond Act of 1996](article-56-implementation-of-the-clean-water-clean-air-bond/)
 - [Article 57 — Long Island Pine Barrens Maritime Reserve Act](article-57-long-island-pine-barrens-maritime-reserve-act/)
+- [Article 58 — Implementation of the Environmental Bond Act of 2020 "restore Mother Nature"](article-58-implementation-of-the-environmental-bond-act/)
 - [Article 70 — Uniform Procedures](article-70-uniform-procedures/)
 - [Article 71 — Enforcement](article-71-enforcement/)
 - [Article 72 — Environmental Regulatory Program Fees](article-72-environmental-regulatory-program-fees/)

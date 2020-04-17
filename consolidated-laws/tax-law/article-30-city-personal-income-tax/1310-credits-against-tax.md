@@ -324,4 +324,12 @@ within fifteen days of its enactment. However, the state department of
 taxation and finance may allow additional time for such certified copy
 to be mailed if it deems such action to be consistent with its duties
 under this article.
+  (6) If the department determines that the taxpayer is eligible to
+receive the credit provided under this subsection but has not claimed
+such credit on his or her return, the department shall compute and issue
+any refund for the allowable credit amount provided under this
+subsection. Any refund paid pursuant to this paragraph shall be deemed
+to be a refund of an overpayment of tax as provided in section six
+hundred eighty-six of this chapter, provided, however, that no interest
+shall be paid thereon.
 ```

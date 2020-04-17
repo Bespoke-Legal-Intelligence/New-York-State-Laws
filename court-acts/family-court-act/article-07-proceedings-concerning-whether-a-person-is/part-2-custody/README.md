@@ -9,9 +9,7 @@
 - [§ 723 Duties of private person before and after taking into custody](723-duties-of-private-person-before-and-after-taking-into-custody.md)
 - [§ 724 Duties of police officer or peace officer after taking into custody or on delivery by private person](724-duties-of-police-officer-or-peace-officer-after-taking-into-custody.md)
 - [§ 725 Summons or warrant on failure to appear](725-summons-or-warrant-on-failure-to-appear.md)
-- [§ 727 Rules of court authorizing release before filing of petition](727-rules-of-court-authorizing-release-before-filing-of-petition.md) *(repealed)*
 - [§ 728 Discharge, release or pre-dispositional placement by judge after hearing and before filing of petition in custody cases](728-discharge-release-or-pre-dispositional-placement-by-judge-after-hearing.md)
-- [§ 729 Duration of detention before filing of petition or hearing](729-duration-of-detention-before-filing-of-petition-or-hearing.md) *(repealed)*
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

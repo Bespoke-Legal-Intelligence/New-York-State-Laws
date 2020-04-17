@@ -51,4 +51,37 @@ hookah or water pipe.
   13. "Electronic cigarette" or "e-cigarette" means an electronic device
 that delivers vapor which is inhaled by an individual user, and shall
 include any refill, cartridge and any other component of such a device.
+  * 14. "Price reduction instrument" means any coupon, voucher, rebate,
+card, paper, note, form, statement, ticket, image, or other issue,
+whether in paper, digital, or any other form, used for commercial
+purposes to receive an article, product, service, or accommodation
+without charge or at a discounted price.
+  * NB Effective July 1, 2020
+  * 15. "Listed or non-discounted price" means the price listed for
+cigarettes, tobacco products, or vapor products intended or reasonably
+expected to be used with or for the consumption of nicotine, on their
+packages or any related shelving, posting, advertising or display at the
+location where the cigarettes, tobacco products, or vapor products
+intended or reasonably expected to be used with or for the consumption
+of nicotine, are sold or offered for sale, including all applicable
+taxes.
+  * NB Effective July 1, 2020
+  * 16. "Retail dealer" means a person licensed by the commissioner of
+taxation and finance to sell cigarettes, tobacco products, or vapor
+products in this state.
+  * NB Effective July 1, 2020
+  * 17. "Vapor products" means any noncombustible liquid or gel,
+regardless of the presence of nicotine therein, that is manufactured
+into a finished product for use in an electronic cigarette, including
+any device that contains such noncombustible liquid or gel. "Vapor
+product" shall not include any device, or any component thereof, that
+does not contain such noncombustible liquid or gel, or any product
+approved by the United States food and drug administration as a drug or
+medical device, or manufactured and dispensed pursuant to title five-A
+of article thirty-three of this chapter.
+  * NB Effective July 1, 2020
+  * 18. "Vapor products dealer" means a person licensed by the
+commissioner of taxation and finance to sell vapor products in this
+state.
+  * NB Effective July 1, 2020
 ```

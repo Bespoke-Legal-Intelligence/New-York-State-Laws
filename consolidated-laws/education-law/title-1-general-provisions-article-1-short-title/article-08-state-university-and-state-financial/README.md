@@ -21,6 +21,7 @@
 - [§ 359 Reports of the state university trustees](359-reports-of-the-state-university-trustees.md)
 - [§ 360 Powers to Regulate Traffic on University Grounds](360-powers-to-regulate-traffic-on-university.md)
 - [§ 361 START-UP NY program leases](361-start-up-ny-program-leases.md)
+- [§ 363 Curing Alzheimer's health consortium](363-curing-alzheimers-health-consortium.md)
 - [§ 364 Separability](364-separability.md)
 - [§ 365 Construction](365-construction.md)
 
@@ -50,6 +51,7 @@ Section 350.   Definitions.
         359.   Reports of the state university trustees.
         360.   Powers to regulate traffic on university grounds.
         361.   START-UP NY program leases.
+        363.   Curing Alzheimer's health consortium.
         364.   Separability.
         365.   Construction.
 ```

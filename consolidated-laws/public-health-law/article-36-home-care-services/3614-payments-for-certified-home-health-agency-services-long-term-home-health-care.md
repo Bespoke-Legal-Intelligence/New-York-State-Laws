@@ -349,7 +349,7 @@ beneficiaries eligible for medical assistance under title XIX of the
 federal social security act based upon the allowances determined in
 accordance with this subdivision.
   * NB Expires June 30, 2021
-  * 6. (a) The commissioner shall, subject to the approval of the state
+  6. (a) The commissioner shall, subject to the approval of the state
 director of the budget, establish capitated rates of payment for
 services provided by assisted living programs as defined by paragraph
 (a) of subdivision one of section four hundred sixty-one-l of the social
@@ -407,13 +407,6 @@ two thousand eleven, the commissioner shall provide the governor, the
 speaker of the assembly, the temporary president of the senate, and the
 chairpersons of the assembly and senate health committees with a report
 setting forth the conclusions of such study.
-  * NB There are 2 sub 6's
-  * 6. Subject to the availability of funds, the provisions of clause
-(B) of subparagraph (iii) of paragraph (e) of subdivision one of section
-twenty-eight hundred seven-c of this chapter shall apply to certified
-home health agencies, long term home health care programs and AIDS home
-care programs.
-  * NB There are 2 sub 6's
   7. * Notwithstanding any inconsistent provision of law or regulation,
 for purposes of establishing rates of payment by governmental agencies
 for certified home health agencies for the period April first, nineteen
@@ -608,7 +601,16 @@ thirty-first, two thousand eighteen, up to one hundred million dollars;
   (n) for the period April first, two thousand eighteen through March
 thirty-first, two thousand nineteen, up to one hundred million dollars;
   (o) for the period April first, two thousand nineteen through March
-thirty-first, two thousand twenty, up to one hundred million dollars.
+thirty-first, two thousand twenty, up to one hundred million dollars;
+  (p) for the period April first, two thousand twenty through March
+thirty-first, two thousand twenty-one, up to one hundred million
+dollars;
+  (q) for the period April first, two thousand twenty-one through March
+thirty-first, two thousand twenty-two, up to one hundred million
+dollars;
+  (r) for the period April first, two thousand twenty-two through March
+thirty-first, two thousand twenty-three, up to one hundred million
+dollars.
   10. (a) Such adjustments to rates of payments shall be allocated
 proportionally based on each certified home health agency, long term
 home health care program, AIDS home care and hospice program's home

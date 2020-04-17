@@ -13,5 +13,5 @@ aid in the planning, development and implementation of comprehensive
 health services plans. The total amount expended pursuant to this
 section shall not exceed the amount appropriated for such purposes in
 any fiscal year.
-  * NB Expires March 31, 2020
+  * NB Expires March 31, 2023
 ```

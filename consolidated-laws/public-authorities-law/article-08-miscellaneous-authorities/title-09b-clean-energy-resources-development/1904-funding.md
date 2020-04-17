@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Public Authorities Law § 1904", "kind": "section", "law_id": "PBA", "location_id": "1904", "path": "ARTICLE 8 › TITLE 9-B › SECTION 1904", "repealed": false, "repealed_date": null, "source": "nys-laws:PBA/1904.md", "title": "Funding"} -->
+# Public Authorities Law § 1904 — Funding
+
+[Public Authorities Law](../../README.md) › [Article 8 — Miscellaneous Authorities](../README.md) › [Title 9-B — Clean Energy Resources Development and Incentives Program](README.md)
+
+```text
+  * § 1904. Funding. 1. The authority may seek funding from any
+authorized or other available source to administer this program.
+  2. Without limiting the foregoing, the authority shall submit a
+petition or other appropriate filing to the commission describing the
+activities it has taken and plans to undertake in furtherance of the
+policy embodied in this title. Such filing may include a request for
+funding to allow such activities to proceed promptly and for a period of
+at least five years from the date of the order responding to such
+petition. The commission shall, in accordance with and as promptly as
+authorized by existing law and regulation but in no event more than four
+months following the submission of the petition, issue an order
+responding to such petition subject to any necessary and reasonable
+limitations based on the public service law.
+  * NB Repealed December 31, 2030
+```

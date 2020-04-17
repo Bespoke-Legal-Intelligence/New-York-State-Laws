@@ -4,7 +4,12 @@
 [Domestic Relations Law](../README.md) › [Article 8 — Surrogate Parenting Contracts](README.md)
 
 ```text
-  § 122. Public policy. Surrogate parenting contracts are hereby
+  * § 122. Public policy. Surrogate parenting contracts are hereby
 declared contrary to the public policy of this state, and are void and
 unenforceable.
+  * NB Effective until February 15, 2021
+  * § 122. Public policy. Genetic surrogate parenting agreements are
+hereby declared contrary to the public policy of this state, and are
+void and unenforceable.
+  * NB Effective February 15, 2021
 ```

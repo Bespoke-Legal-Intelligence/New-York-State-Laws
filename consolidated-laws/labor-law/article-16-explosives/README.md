@@ -21,7 +21,6 @@
 - [§ 463 Review](463-review.md)
 - [§ 464 Costs and penalties](464-costs-and-penalties.md)
 - [§ 464-A Local laws](464a-local-laws.md)
-- [§ 465 License to store or use certain compounds](465-license-to-store-or-use-certain-compounds.md) *(repealed)*
 - [§ 466 Separability](466-separability.md)
 
 <details>

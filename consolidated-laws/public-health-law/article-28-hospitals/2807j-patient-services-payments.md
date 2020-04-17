@@ -773,10 +773,10 @@ accumulated for the period January first, nineteen hundred ninety-nine
 through December thirty-first, nineteen hundred ninety-nine, and
   (iv) seven hundred sixty-five million dollars annually of the funds
 accumulated for the periods January first, two thousand through December
-thirty-first, two thousand nineteen, and
+thirty-first, two thousand twenty-two, and
   (v) one hundred ninety-one million two hundred fifty thousand dollars
 of the funds accumulated for the period January first, two thousand
-twenty through March thirty-first, two thousand twenty.
+twenty-three through March thirty-first, two thousand twenty-three.
   (b) funds shall be accumulated in a health care initiatives pool
 established by the commissioner, for distribution in accordance with
 section twenty-eight hundred seven-l of this article, in the following
@@ -835,5 +835,5 @@ article, and shall not be included in gross revenue received for
 purposes of the assessments pursuant to section twenty-eight hundred
 seven-d of this article, subject to the provisions of subdivision twelve
 of section twenty-eight hundred seven-d of this article.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
 ```

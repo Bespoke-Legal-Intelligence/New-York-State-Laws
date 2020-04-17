@@ -240,6 +240,34 @@ impose such an assessment.
 maintenance of children with disabilities, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,
 if approved by the office of children and family services, be subject to
+fifty-six and eight hundred forty-eight thousandths percent
+reimbursement by the school district, in accordance with paragraph c of
+subdivision one of section forty-four hundred five of the education law,
+after first deducting therefrom any federal funds received or to be
+received on account of such expenditures, except that in the case of a
+student attending a state-operated school for the deaf or blind pursuant
+to article eighty-seven or eighty-eight of the education law who was not
+placed in such school by a school district such expenditures shall be
+subject to fifty percent reimbursement by the school district after
+first deducting therefrom any federal funds received or to be received
+on account of such expenditures. Such expenditures shall not be subject
+to the limitations on state reimbursement contained in subdivision two
+of section one hundred fifty-three-k of this title. In the event of the
+failure of the school district to make the maintenance payment pursuant
+to the provisions of this subdivision, the state comptroller shall
+withhold state reimbursement to any such school district in an amount
+equal to the unpaid obligation for maintenance and pay over such sum to
+the social services district upon certification of the commissioner of
+the office of children and family services and the commissioner of
+education that such funds are overdue and owed by such school district.
+The commissioner of the office of children and family services, in
+consultation with the commissioner of education, shall promulgate
+regulations to implement the provisions of this subdivision.
+  * NB Effective until April 1, 2021
+  * 10. Expenditures made by a social services district for the
+maintenance of children with disabilities, placed by school districts,
+pursuant to section forty-four hundred five of the education law shall,
+if approved by the office of children and family services, be subject to
 eighteen and four hundred twenty-four thousandths percent reimbursement
 by the state and thirty-eight and four hundred twenty-four thousandths
 percent reimbursement by school districts, except for social services
@@ -269,7 +297,7 @@ such funds are overdue and owed by such school district. The
 commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective until June 30, 2022
+  * NB Effective April 1, 2021 until June 30, 2022
   * 10. Expenditures made by a social services district for the
 maintenance of handicapped children, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,

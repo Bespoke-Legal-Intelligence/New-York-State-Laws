@@ -24,7 +24,7 @@ consecutive taxable years commencing in the first taxable year that the
 taxpayer receives a certificate of tax credit or the first taxable year
 listed on its preliminary schedule of benefits, whichever is later,
 provided that no tax credits may be allowed for taxable years beginning
-on or after January first, two thousand thirty. The taxpayer shall be
+on or after January first, two thousand forty. The taxpayer shall be
 allowed to claim only the amount listed on the certificate of tax credit
 for that taxable year. Such certificate must be attached to the
 taxpayer's return. No cost or expense paid or incurred by the taxpayer

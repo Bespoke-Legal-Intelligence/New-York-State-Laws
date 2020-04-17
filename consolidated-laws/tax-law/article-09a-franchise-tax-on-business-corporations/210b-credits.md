@@ -1819,11 +1819,11 @@ whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
   29. Hire a vet credit. (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-one, a taxpayer shall be allowed a
+January first, two thousand twenty-two, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
-veteran within the state. The taxpayer may claim the credit in the year
+veteran within the state.  The taxpayer may claim the credit in the year
 in which the qualified veteran completes one year of employment by the
 taxpayer. If the taxpayer claims the credit allowed under this
 subdivision, the taxpayer may not use the hiring of a qualified veteran
@@ -1853,7 +1853,7 @@ eleventh, two thousand one;
   * NB Effective November 12, 2020
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty; and
+thousand twenty-one; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -2555,7 +2555,7 @@ receipt of its certificate of tax credit issued by the commissioner of
 the office of alcoholism and substance abuse services pursuant to
 section 32.38 of the mental hygiene law.
   * NB There are 2 sb 53's
-  54. Television writers' and directors' fees and salaries credit. (a)
+  * 54. Television writers' and directors' fees and salaries credit. (a)
 Allowance of credit. A taxpayer who is eligible pursuant to section
 twenty-four-b of this chapter shall be allowed a credit to be computed
 as provided in such section against the tax imposed by this article.
@@ -2571,4 +2571,8 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
+  * NB Effective on the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
 ```

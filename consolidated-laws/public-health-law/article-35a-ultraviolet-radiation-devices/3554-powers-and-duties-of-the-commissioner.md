@@ -8,9 +8,9 @@
 shall inspect each tanning facility licensed under this article and each
 ultraviolet radiation device used, offered, or made available for use in
 such facility, not less than biennially. The commissioner may establish
-a fee for such inspection, which shall not exceed fifty dollars per
-ultraviolet radiation device; provided, however, that no facility shall
-be required to pay any such fee on more than one occasion in any
+a fee for such inspection, which shall not exceed two hundred dollars
+per ultraviolet radiation device; provided, however, that no facility
+shall be required to pay any such fee on more than one occasion in any
 biennial registration period. The commissioner may appoint and
 designate, from time to time, persons to make the inspections authorized
 by this article.

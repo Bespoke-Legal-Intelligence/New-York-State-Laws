@@ -47,7 +47,7 @@ ten of this section; and
   (v) adjustments for any modifications to the case payments determined
 in accordance with paragraph (a), (b), (c) or (d) of subdivision four of
 this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a) Payments to general hospitals for reimbursement of inpatient
 hospital services provided to patients eligible for payments made by
 state governmental agencies; or provided in accordance with policies
@@ -77,7 +77,7 @@ ten of this section; and
   (v) adjustments for any modifications to the case payments determined
 in accordance with paragraph (a), (b), (c) or (d) of subdivision four of
 this section.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (a-1) Payments made by local governmental agencies to general
 hospitals for reimbursement of inpatient hospital services provided to
 inmates of local correctional facilities as defined in subdivision
@@ -85,14 +85,14 @@ sixteen of section two of the correction law shall be at the rates of
 payment determined pursuant to this section for state governmental
 agencies, excluding adjustments pursuant to subdivision fourteen-f of
 this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a-1) Payments made by local governmental agencies to general
 hospitals for reimbursement of inpatient hospital services provided to
 inmates of local correctional facilities as defined in subdivision
 sixteen of section two of the correction law shall be at the rates of
 payment determined pursuant to this section for state governmental
 agencies.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (a-2) (i) With the exception of those enrollees covered under a
 payment rate methodology agreement negotiated with a general hospital,
 payments for inpatient hospital services provided to patients eligible
@@ -118,7 +118,7 @@ forty-three of the insurance law shall be the rates of payment that
 would be paid under the medical assistance program determined pursuant
 to this section, excluding adjustments pursuant to subdivision
 fourteen-f of this section.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * (a-3) Notwithstanding any inconsistent provision of law:
   (i) the commissioner shall establish, subject to the approval of the
 director of the budget, discrete rates of payment for general hospitals
@@ -159,7 +159,7 @@ based payments per discharge; and
   (ii) such rates of payment may be established by the commissioner on
 any appropriate payment basis, including a case mix adjusted per
 discharge basis.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * (b) For patients discharged prior to January first, nineteen hundred
 ninety-seven, payments to general hospitals for reimbursement of
 inpatient hospital services provided to patients eligible for payments
@@ -222,7 +222,7 @@ be treated along with the reason for the admission or, except as may
 affect qualification for payments in accordance with paragraph (b) or
 (d) of subdivision four of this section, for days within the inlier stay
 determined to be medically unnecessary.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b) Payments to general hospitals for reimbursement of inpatient
 hospital services provided to patients eligible for payments pursuant to
 the comprehensive motor vehicle insurance reparations act; or enrolled
@@ -266,7 +266,7 @@ along with the reason for the admission or, except as may affect
 qualification for payments in accordance with paragraph (b) or (d) of
 subdivision four of this section, for days within the inlier stay
 determined to be medically unnecessary.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (c) Charge based payments. For patients discharged prior to January
 first, nineteen hundred ninety-seven, payments to general hospitals for
 reimbursement of inpatient hospital services provided to those for whom
@@ -286,7 +286,7 @@ patient is identified. Each general hospital shall establish a charge
 schedule and inpatient charges from this schedule shall be applied
 uniformly for all inpatient charge based payments made in accordance
 with this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c) Charge based payments. Payments to general hospitals for
 reimbursement of inpatient hospital services provided to those for whom
 a case based payment per discharge system is not authorized by paragraph
@@ -305,7 +305,7 @@ patient is identified. Each general hospital shall establish a charge
 schedule and inpatient charges from this schedule shall be applied
 uniformly for all inpatient charge based payments made in accordance
 with this section.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (d) The components of rates of payment calculated in accordance with
 this section related to inpatient operating costs shall be based on
 general hospital reimbursable inpatient operating costs used in
@@ -528,14 +528,6 @@ adjustment specified in items (I) and (II) of this clause related to
 outpatient costs as a component of such payments is not approved by the
 federal government then such outpatient costs shall not be considered in
 calculating such adjustment.
-  (B) Health personnel development.
-  Four million five hundred thousand dollars shall be allocated for
-labor adjustments to be made available for health occupation development
-and workplace demonstration programs authorized pursuant to section
-twenty-eight hundred seven-h of this article. The commissioner is
-directed to make rate adjustments subject to the approval of the
-director of the budget to cover the cost of such programs, which shall
-be made available for the duration of such programs.
   (C) Thirty-three million dollars shall be allocated for technology
 advances and changes in medical practice. A fixed amount per bed shall
 be allocated to the costs of each general hospital based on the total
@@ -1030,7 +1022,7 @@ established in accordance with this section shall be negotiated.
 provisions of paragraphs (a), (b) and (c) of this subdivision shall not
 apply to payments for patients discharged on or after January first,
 nineteen hundred ninety-seven.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   3. Diagnosis-related groups and weights. (a) The commissioner shall
 establish as a basis for case classification for case based rates of
 payment the same system of diagnosis-related groups for classification
@@ -1178,7 +1170,7 @@ commissioner shall issue a report to the governor and the legislature
 describing the updated data utilization applicable, in accordance with
 the provisions of this paragraph, to periods on and after two thousand
 eight and setting forth the factors considered in developing it.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c) The commissioner shall determine an appropriate weighting factor
 for each diagnosis-related group which reflects the relative general
 hospital resources used by all patients, other than beneficiaries of
@@ -1221,7 +1213,7 @@ shall expeditiously make available for inspection by general hospitals
 and payors the data, consistent with appropriate department procedures
 for the release and protection of confidential data, and the methodology
 utilized to determine the appropriate weighting factors.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (d) The commissioner shall consult with technical advisory groups as
 necessary in establishing diagnosis-related groups and weights in
 accordance with paragraphs (a), (b) and (c) of this subdivision and in
@@ -1264,7 +1256,7 @@ for an initial review and a reconsideration review but the final step in
 such dispute resolution process shall be an independent party unrelated
 to the payor which party shall be approved by the commissioner pursuant
 to this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * The commissioner shall establish, in accordance with rules and
 regulations adopted by the council and approved by the commissioner, a
 payment dispute resolution system to resolve disputes between payors of
@@ -1290,7 +1282,7 @@ beneficiaries or enrolled members for an initial review and a
 reconsideration review but the final step in such dispute resolution
 process shall be an independent party unrelated to the payor which party
 shall be approved by the commissioner pursuant to this section.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   In the event a third party payor or patient desires to challenge the
 appropriateness of a bill for hospital services rendered by a general
 hospital for a particular patient, or in the event a general hospital
@@ -1822,7 +1814,7 @@ be reduced by three and thirty-three hundredths percent to encourage
 improved productivity and efficiency. Such election shall not alter the
 calculation of the group price component calculated pursuant to
 subparagraph (i) of paragraph (a) of subdivision seven of this section;
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (f) where a general hospital having two hundred or less certified
 acute care beds, based on the total number of inpatient acute care beds
 for which such general hospital is certified pursuant to the operating
@@ -1863,7 +1855,7 @@ hundredths percent to encourage improved productivity and efficiency.
 Such election shall not alter the calculation of the group price
 component calculated pursuant to subparagraph (i) of paragraph (a) of
 subdivision seven of this section;
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (f) where a general hospital having two hundred or less certified
 acute care beds, based on the total number of inpatient acute care beds
 for which such general hospital is certified pursuant to the operating
@@ -1880,7 +1872,7 @@ operating cost per discharge determined in accordance with subdivision
 six of this section. Such election shall not alter the calculation of
 the group price component calculated pursuant to subparagraph (i) of
 paragraph (a) of subdivision seven of this section;
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * NB There are 2 par (f)'s
   (g) in cases where general hospitals or distinct units of general
 hospitals, other than those specified in paragraphs (e) and (f) of this
@@ -1999,7 +1991,7 @@ improved productivity and efficiency. The facility will be eligible to
 receive the financial incentives for the physician specialty weighting
 incentive towards primary care pursuant to subparagraph (ii) of
 paragraph (a) of subdivision twenty-five of this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (k) for facilities designated by the federal department of health
 and human services as an exempt acute care children's hospital, payment
 effective January first, nineteen hundred ninety-four will be based upon
@@ -2033,7 +2025,7 @@ The facility will be eligible to receive the financial incentives for
 the physician specialty weighting incentive towards primary care
 pursuant to subparagraph (ii) of paragraph (a) of subdivision
 twenty-five of this section.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (k) for facilities designated by the federal department of health
 and human services as an exempt acute care children's hospital, payment
 effective January first, nineteen hundred ninety-four will be based upon
@@ -2046,7 +2038,7 @@ ninety-four. The facility will be eligible to receive the financial
 incentives for the physician specialty weighting incentive towards
 primary care pursuant to subparagraph (ii) of paragraph (a) of
 subdivision twenty-five of this section.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * NB There are 2 par (k)'s
   (l) Notwithstanding any inconsistent provision of this section and
 subject to the availability of federal financial participation, rates of
@@ -2235,7 +2227,7 @@ fifty-five percent of the general hospital's group category average
 inpatient reimbursable operating cost per discharge (price) determined
 in accordance with paragraph (a) of subdivision seven of this section,
 such that the composite sum equals one hundred percent.
-  ** NB Effective until December 31, 2020
+  ** NB Effective until December 31, 2023
   ** (A) Except as provided in clause (B) of this subparagraph, for
 annual rate years commencing on or after January first, nineteen hundred
 ninety, average reimbursable inpatient operating cost per discharge
@@ -2247,7 +2239,7 @@ fifty-five percent of the general hospital's group category average
 inpatient reimbursable operating cost per discharge (price) determined
 in accordance with paragraph (a) of subdivision seven of this section,
 such that the composite sum equals one hundred percent.
-  ** NB Effective December 31, 2020
+  ** NB Effective December 31, 2023
   ** NB There are 2 clause (A)'s
   * (B) For discharges on or after April first, nineteen hundred
 ninety-five for purposes of reimbursement of inpatient hospital services
@@ -2411,7 +2403,7 @@ discharge; and
 education expenses reflected in the general hospital's group category
 average inpatient operating cost per discharge in accordance with
 subdivision twenty-five of this section as amended.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * NB There are 3 subpar (iv)'s
   * (v) for discharges on or after August first, nineteen hundred
 ninety-six through March thirty-first, nineteen hundred ninety-seven for
@@ -2454,7 +2446,7 @@ discharge; and
 education expenses reflected in the general hospital's group category
 average inpatient operating cost per discharge in accordance with
 subdivision twenty-five of this section as amended.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * (vi) for discharges on or after April first, nineteen hundred
 ninety-seven through March thirty-first, nineteen hundred ninety-nine
 and for discharges on or after July first, nineteen hundred ninety-nine
@@ -2505,7 +2497,7 @@ discharge; and
 education expenses reflected in the general hospital's group category
 average inpatient operating cost per discharge in accordance with
 subdivision twenty-five of this section as amended.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (vi) for discharges on or after April first, nineteen hundred
 ninety-seven through March thirty-first, nineteen hundred ninety-nine
 and for discharges on or after July first, nineteen hundred ninety-nine
@@ -2548,7 +2540,7 @@ discharge; and
 education expenses reflected in the general hospital's group category
 average inpatient operating cost per discharge in accordance with
 subdivision twenty-five of this section as amended.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (c) Notwithstanding any inconsistent provision of this section,
 commencing July first, nineteen hundred ninety-six through March
 thirty-first, nineteen hundred ninety-nine and July first, nineteen
@@ -2596,7 +2588,7 @@ payments made by state governmental agencies, for a per case (or for
 exempt hospitals a per diem) unit of service reduction in rates of
 payment for patients eligible for payments made by state governmental
 agencies for such general hospital.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c) Notwithstanding any inconsistent provision of this section,
 commencing July first, nineteen hundred ninety-six through March
 thirty-first, nineteen hundred ninety-nine and July first, nineteen
@@ -2630,7 +2622,7 @@ payments made by state governmental agencies, for a per case (or for
 exempt hospitals a per diem) unit of service reduction in rates of
 payment for patients eligible for payments made by state governmental
 agencies for such general hospital.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   6. Operating costs. (a) A general hospital's hospital-specific average
 reimbursable inpatient operating cost per discharge shall be determined
 in accordance with rules and regulations adopted by the council and
@@ -2792,7 +2784,7 @@ the outlier portion of long stay outliers for each general hospital
 participating in the determination of the weighting factors shall be
 removed from each diagnosis-related group before calculating the
 weighting factors;
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (iii) an estimate of inpatient costs which are related to a hospital
 stay in excess of the long stay threshold for long stay patients as
 defined in paragraph (c) of subdivision four of this section shall be
@@ -2834,7 +2826,7 @@ associated with the outlier portion of long stay outliers for each
 general hospital participating in the determination of the weighting
 factors shall be removed from each diagnosis-related group before
 calculating the weighting factors;
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (iii) an estimate of inpatient costs which are related to a hospital
 stay in excess of the long stay threshold for long stay patients as
 defined in paragraph (c) of subdivision four of this section shall be
@@ -2876,7 +2868,7 @@ the outlier portion of long stay outliers for each general hospital
 participating in the determination of the weighting factors shall be
 removed from each diagnosis-related group before calculating the
 weighting factors;
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (iv) an estimate of inpatient costs which are related to short stay
 patients as defined in paragraph (d) of subdivision four of this section
 shall be eliminated from reimbursable inpatient operating costs
@@ -3065,18 +3057,31 @@ period, each as determined in accordance with paragraph (a) of this
 subdivision, adjusted to reflect increases or decreases in volume of
 service in such prior rate period compared to statistics applied in
 determining the capital related inpatient expenses component of rates of
-payment based on a budget for such prior rate period. Notwithstanding
-any inconsistent provision of subparagraph (i) of paragraph (e) of
-subdivision nine of this section, capital related inpatient expenses of
-a general hospital included in the computation of rates of payment based
-on a budget shall not be included in the computation of a volume
-adjustment made in accordance with such subparagraph. Adjustments to
-rates of payment for a general hospital made pursuant to this paragraph
-shall be made in accordance with paragraph (c) of subdivision eleven of
-this section.  Such adjustments shall not be carried forward except for
-such volume adjustment as may be authorized in accordance with
-subparagraph (i) of paragraph (e) of subdivision nine of this section
-for such general hospital.
+payment based on a budget for such prior rate period. For rates
+effective on and after April first, two thousand twenty, the budgeted
+capital-related expenses add-on as described in paragraph (a) of this
+subdivision, based on a budget submitted in accordance to paragraph (a)
+of this subdivision, shall be reduced by five percent relative to the
+rate in effect on such date; and the actual capital expenses add-on as
+described in paragraph (a) of this subdivision, based on actual expenses
+and statistics through appropriate audit procedures in accordance with
+paragraph (a) of this subdivision shall be reduced by five percent
+relative to the rate in effect on such date. For any rate year, all
+reconciliation add-on amounts calculated on and after April first, two
+thousand twenty shall be reduced by ten percent, and all reconciliation
+recoupment amounts calculated on or after April first, two thousand
+twenty shall increase by ten percent. Notwithstanding any inconsistent
+provision of subparagraph (i) of paragraph (e) of subdivision nine of
+this section, capital related inpatient expenses of a general hospital
+included in the computation of rates of payment based on a budget shall
+not be included in the computation of a volume adjustment made in
+accordance with such subparagraph. Adjustments to rates of payment for a
+general hospital made pursuant to this paragraph shall be made in
+accordance with paragraph (c) of subdivision eleven of this section.
+Such adjustments shall not be carried forward except for such volume
+adjustment as may be authorized in accordance with subparagraph (i) of
+paragraph (e) of subdivision nine of this section for such general
+hospital.
   * (e) Notwithstanding any inconsistent provision of this subdivision,
 commencing April first, nineteen hundred ninety-five, when a factor for
 reconciliation of budgeted capital related inpatient expenses to actual
@@ -3284,7 +3289,7 @@ trend factor for the current year.
   (4) At the time adjustments are made to the trend factors in
 accordance with this paragraph, adjustments shall be made to all
 inpatient rates of payment affected by the trend factor adjustment.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * 10. Trend factors. (a) The commissioner, in accordance with the
 methodology developed pursuant to paragraph (b) of this subdivision,
 shall establish trend factors to project for the effects of inflation.
@@ -3313,7 +3318,7 @@ first, two years after the initial trend factor was established. At the
 same time adjustments are made to the trend factors in accordance with
 this paragraph, adjustments shall be made to all inpatient rates of
 payment affected by the adjusted trend factors.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   11. Special provisions. (a) Notwithstanding any inconsistent provision
 of this chapter or any other law to the contrary, payment for inpatient
 hospital services provided on or after January first, nineteen hundred
@@ -3372,7 +3377,7 @@ effect. No recalculation of the basis for distribution of funds from bad
 debt and charity care regional pools determined in accordance with
 subdivision seventeen of this section shall be made for a prospective
 adjustment which reflects the retroactive impact of an adjustment.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c)(i) Adjustments to rates made pursuant to this section shall be
 made prospectively on the next following January or July unless
 otherwise specifically authorized provided, however, that adjustments to
@@ -3404,7 +3409,7 @@ from bad debt and charity care regional pools determined in accordance
 with subdivision seventeen of this section shall be made for a
 prospective adjustment which reflects the retroactive impact of an
 adjustment.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (d) Working capital. General hospitals may include as a financing or
 working capital charge an addition of two percent of any valid claim not
 paid within thirty days of submission or determination of payor
@@ -3459,7 +3464,7 @@ assistance pursuant to title eleven of article five of the social
 services law, including such patients enrolled in health maintenance
 organizations, that exceed the allowable statewide increase determined
 in accordance with clause (B-1) of this subparagraph.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * In order to allow for real increases in general hospital case mix
 while limiting the effect of potential case mix changes that are the
 result of changes in coding practices rather than real changes in case
@@ -3485,7 +3490,7 @@ article five of the social services law, including such patients
 enrolled in health maintenance organizations, that exceed the allowable
 statewide increase determined in accordance with clause (B-1) of this
 subparagraph.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * In order to allow for real increases in general hospital case mix
 while limiting the effect of potential case mix changes that are the
 result of changes in coding practices rather than real changes in case
@@ -3498,7 +3503,7 @@ based on increases in statewide average assignment to diagnosis-related
 groups for all patients other than beneficiaries of title XVIII of the
 federal social security act (medicare), that exceed the allowable
 statewide increase determined in accordance with this subparagraph.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (A) The increase in the statewide average case mix in a rate year
 during the period January first, nineteen hundred eighty-eight through
 December thirty-first, nineteen hundred ninety-three from the nineteen
@@ -3552,7 +3557,7 @@ per year of the nineteen hundred eighty-seven statewide average case
 mix. Nineteen hundred ninety-two case mix shall be determined based on
 nineteen hundred ninety-two data received by the department by April
 thirtieth, nineteen hundred ninety-three.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (B) The increase in the statewide average case mix in a rate year
 during the period January first, nineteen hundred ninety-four through
 June thirtieth, nineteen hundred ninety-six from the nineteen hundred
@@ -3587,7 +3592,7 @@ increases at a percentage per year of the nineteen hundred eighty-seven
 statewide average case mix. Nineteen hundred ninety-two case mix shall
 be determined based on nineteen hundred ninety-two data received by the
 department by April thirtieth, nineteen hundred ninety-three.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (B-1) The increase in the statewide average case mix in the periods
 January first, nineteen hundred ninety-seven through March thirty-first,
 two thousand and on and after April first, two thousand through March
@@ -3632,7 +3637,7 @@ paragraph effective July first, nineteen hundred ninety-four shall be
 reflected in a prospective adjustment to rates of payment for such
 payors for the period July first, nineteen hundred ninety-four through
 December thirty-first, nineteen hundred ninety-four.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (D) If in any rate year the cumulative case mix increase exceeds the
 allowable statewide increase, rates of payment to general hospitals
 shall be adjusted in accordance with rules and regulations adopted by
@@ -3650,7 +3655,7 @@ nineteen hundred ninety-four shall be reflected in a prospective
 adjustment to rates of payment for such payors for the period July
 first, nineteen hundred ninety-four through December thirty-first,
 nineteen hundred ninety-four.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (E) Such methodology shall take into account past trends of individual
 general hospitals' case mix changes, and, within the aggregate allowable
 statewide increase in case mix, permit general hospitals to appeal to
@@ -3668,7 +3673,7 @@ interim basis, shall be applied to rates of payment for state
 governmental agencies during the period January first, nineteen hundred
 ninety-seven through March thirty-first, two thousand and periods on and
 after April first, two thousand.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * (G) Adjustments determined in accordance with clause (B) of this
 subparagraph for the period  January first, nineteen hundred ninety-six
 through December thirty-first, nineteen hundred ninety-six on a final
@@ -3676,7 +3681,7 @@ basis, and in accordance with subparagraph (ii) of this paragraph on an
 interim basis, shall be applied to rates of payment for state
 governmental agencies during the period January first, nineteen hundred
 ninety-seven through March thirty-first, two thousand.
-  * NB Effective and repealed December 31, 2020
+  * NB Effective and repealed December 31, 2023
   * (ii) (A) The commissioner shall, in accordance with rules and
 regulations adopted by the council and approved by the commissioner, for
 purposes of payments on an interim basis periodically compute an
@@ -3725,7 +3730,7 @@ services law eligible for payments made by state governmental agencies
 or by health maintenance organizations, that exceed the allowable
 statewide increase as determined in accordance with clause (B-1) of
 subparagraph (i) of this paragraph.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (ii) The commissioner shall, in accordance with rules and
 regulations adopted by the council and approved by the commissioner, for
 purposes of payments on an interim basis periodically compute an
@@ -3763,7 +3768,7 @@ syndrome, tuberculosis, epidemics or other catastrophes resulting in
 extraordinary hospital utilization shall not be subject to this
 limitation, pursuant to rules and regulations adopted by the council and
 approved by the commissioner.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (iii) The commissioner shall, in accordance with rules and regulations
 adopted by the council and approved by the commissioner, periodically
 prospectively adjust for purposes of payments on an interim basis
@@ -4001,7 +4006,7 @@ nineteen hundred ninety-six proportionally based on each such general
 hospital's proportional share of the total funds allocated pursuant to
 this paragraph as in effect for the period of July first, nineteen
 hundred ninety-five through June thirtieth, nineteen hundred ninety-six.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   (s-1) To the extent funds are available pursuant to the provisions of
 paragraph (s-2) of this subdivision and otherwise notwithstanding any
 inconsistent provision of law to the contrary, for the rate periods
@@ -4125,7 +4130,7 @@ extent allowable under federal law, provided however that the department
 shall not be required to reconcile payments made pursuant to paragraph
 (s) of this subdivision applicable to periods prior to September first,
 nineteen hundred ninety-seven.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   (s-6) To the extent funds are available otherwise notwithstanding any
 inconsistent provision of law to the contrary, for rate periods April
 first, two thousand three through March thirty-first, two thousand five,
@@ -4293,7 +4298,7 @@ same rate of payment as that foreign corporation pays for its own
 subscribers.
   * (e) The provisions of this subdivision shall not apply to patients
 discharged on or after January first, nineteen hundred ninety-seven.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   13. Restitution authorization. In enforcing the provisions of
 subdivisions one and twelve of this section, the commissioner may, in
 addition to the penalties and injunctions set forth in section twelve of
@@ -4325,7 +4330,7 @@ as established by chapter one thousand sixteen of the laws of nineteen
 hundred sixty-nine as amended and all other public general hospitals
 having annual inpatient operating costs in excess of twenty-five million
 dollars.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a) With the exception of rates of payment for services provided to
 beneficiaries of title XVIII of the federal social security act
 (medicare), all rates and general hospital charges, including rates of
@@ -4347,7 +4352,7 @@ as established by chapter one thousand sixteen of the laws of nineteen
 hundred sixty-nine as amended and all other public general hospitals
 having annual inpatient operating costs in excess of twenty-five million
 dollars.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (b) The allowance shall be a percentage to reflect the needs for the
 financing of losses resulting from bad debts and the costs of charity
 care of general hospitals within article forty-three insurance law
@@ -4534,7 +4539,7 @@ to the higher of such adjustment for the nineteen hundred ninety-one
 rate period or for the nineteen hundred ninety-three rate period. The
 adjustment may be made to rates of payment or as aggregate payments to
 an eligible hospital.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c) Notwithstanding any inconsistent provision of this subdivision,
 a supplementary bad debt and charity care adjustment shall be determined
 and provided for each of the nineteen hundred ninety-four, nineteen
@@ -4546,12 +4551,12 @@ hospital equal to the higher of such adjustment for the nineteen hundred
 ninety-one rate period or for the nineteen hundred ninety-three rate
 period. The adjustment may be made to rates of payment or as aggregate
 payments to an eligible hospital.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (d) Notwithstanding any inconsistent provision of law, the
 provisions of paragraphs (a), (b) and (c) of this subdivision shall not
 apply to payments for patients discharged on or after January first,
 nineteen hundred ninety-seven.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   14-b. General health care services allowance. (a) With the exception
 of rates of payment for services provided to beneficiaries of title
 XVIII of the federal social security act (medicare), all rates and
@@ -4577,11 +4582,11 @@ one and forty-two hundredths percent; and
   * (v) for the January first, nineteen hundred ninety-six through
 December thirty-first, nineteen hundred ninety-six rate period, an
 allowance of one and nine hundredths percent.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (v) for the January first, nineteen hundred ninety-six through June
 thirtieth, nineteen hundred ninety-six rate period, an allowance of one
 and nine hundredths percent.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (b) For rate periods beginning on or after January first, nineteen
 hundred ninety-one but prior to January first, nineteen hundred
 ninety-four, funds will be accumulated and made available in regional
@@ -4690,7 +4695,7 @@ reimbursable inpatient costs, excluding inpatient costs related to
 services provided to beneficiaries of title XVIII of the federal social
 security act (medicare), computed without consideration of inpatient
 uncollectible amounts, and after application of the trend factor.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a) With the exception of rates of payment for services provided to
 beneficiaries of title XVIII of the federal social security act
 (medicare), all rates and general hospital charges established for rate
@@ -4705,7 +4710,7 @@ reimbursable inpatient costs, excluding inpatient costs related to
 services provided to beneficiaries of title XVIII of the federal social
 security act (medicare), computed without consideration of inpatient
 uncollectible amounts, and after application of the trend factor.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (b) A statewide pool shall be created through the submissions by or on
 behalf of general hospitals of the allowance included in rates and
 charges in accordance with paragraph (a) of this subdivision. Funds
@@ -4755,7 +4760,7 @@ for beneficiaries eligible for medical assistance under title XIX of the
 federal social security act based upon the adjustment provided herein as
 a component of such payments are granted. The adjustment may be made to
 rates of payment or as aggregate payments to an eligible hospital.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a) Notwithstanding any inconsistent provision of this section,
 payment for inpatient hospital services for persons eligible for
 payments made by state governmental agencies for rate periods during the
@@ -4773,7 +4778,7 @@ assistance under title XIX of the federal social security act based upon
 the adjustment provided herein as a component of such payments are
 granted. The adjustment may be made to rates of payment or as aggregate
 payments to an eligible hospital.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (b) A supplementary low income patient adjustment for the period
 January first, nineteen hundred ninety-one through December
 thirty-first, nineteen hundred ninety-three shall be determined, subject
@@ -4885,7 +4890,7 @@ need.
   (v) The provisions of this subdivision shall not apply to a general
 hospital eligible for distributions made pursuant to paragraph (c) of
 subdivision nineteen of this section.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b) A supplementary low income patient adjustment for the period
 January first, nineteen hundred ninety-one through December
 thirty-first, nineteen hundred ninety-three shall be determined, subject
@@ -4997,7 +5002,7 @@ need.
   (v) The provisions of this subdivision shall not apply to a general
 hospital eligible for distributions made pursuant to paragraph (c) of
 subdivision nineteen of this section.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (c) A supplementary low income patient adjustment provided in
 accordance with this subdivision for rate periods during the period
 January first, nineteen hundred ninety-one through December
@@ -5034,7 +5039,7 @@ local assistance account appropriation.
 provisions of paragraphs (a) and (b) of this subdivision shall not apply
 to payments for patients discharged on or after January first, nineteen
 hundred ninety-seven.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * 14-f. Public general hospital indigent care adjustment.
 Notwithstanding any inconsistent provision of this section and subject
 to the availability of federal financial participation, payment for
@@ -5061,7 +5066,7 @@ hospital payments received pursuant to sections twenty-eight hundred
 seven-k and twenty-eight hundred seven-w of this article. The adjustment
 may be made to rates of payment or as aggregate payments to an eligible
 hospital.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * 14-f. Public general hospital indigent care adjustment.
 Notwithstanding any inconsistent provision of this section, payment for
 inpatient hospital services for persons eligible for payments made by
@@ -5083,7 +5088,7 @@ eligible for medical assistance under title XIX of the federal social
 security act based upon the adjustment provided herein as a component of
 such payments are granted. The adjustment may be made to rates of
 payment or as aggregate payments to an eligible hospital.
-  * NB Effective and repealed December 31, 2020
+  * NB Effective and repealed December 31, 2023
   15. Special provisions for payments by governmental agencies. In the
 event that federal financial participation in payments made for
 beneficiaries eligible for medical assistance under title XIX of the
@@ -5211,7 +5216,7 @@ hospital based grant programs for the period April first, nineteen
 hundred ninety-four through June thirtieth, nineteen hundred ninety-six
 and for the period July first, nineteen hundred ninety-six through March
 thirty-first, nineteen hundred ninety-seven.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (g) Notwithstanding any inconsistent provision of law to the
 contrary, from interest heretofore earned or hereinafter earned on funds
 in bad debt and charity care regional pools and the bad debt and charity
@@ -5223,7 +5228,7 @@ health's special revenue fund - other, hospital based grants program
 account, for purposes of services and expenses related to general
 hospital based grant programs for the period April first, nineteen
 hundred ninety-four through June thirtieth, nineteen hundred ninety-six.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   16-a. Pool administration, general. (a) If a general hospital fails to
 timely file a report with the department of funds due to a regional pool
 or a statewide pool established pursuant to this section, the
@@ -5247,7 +5252,7 @@ established for rate years nineteen hundred ninety-four and nineteen
 hundred ninety-five and nineteen hundred ninety-six to provide an
 uninterrupted continuation of services and may be amended as may be
 necessary.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b) Notwithstanding any inconsistent provision of section one
 hundred twelve or one hundred seventy-four of the state finance law or
 any other law, at the discretion of the commissioner and the
@@ -5260,7 +5265,7 @@ hundred ninety-five and for the rate period January first, nineteen
 hundred ninety six through June thirtieth, nineteen hundred ninety-six
 to provide an uninterrupted continuation of services and may be amended
 as may be necessary.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   17. Bad debt and charity care regional pool distributions. Funds
 accumulated in bad debt and charity care regional pools, including
 income from invested funds, from the allowance specified in paragraph
@@ -5380,7 +5385,7 @@ pool established pursuant to this subdivision. Such assessment shall be
 submitted to a statewide pool as designated by the commissioner and
 distributed on a monthly basis in accordance with subdivision twenty of
 this section. The assessment shall be:
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * The commissioner shall create a bad debt and charity care and
 capital statewide pool which shall be funded by a transfer of funds,
 which is hereby authorized, for the period January first, nineteen
@@ -5411,7 +5416,7 @@ statewide pool established pursuant to this subdivision. Such assessment
 shall be submitted to a statewide pool as designated by the commissioner
 and distributed on a monthly basis in accordance with subdivision twenty
 of this section. The assessment shall be:
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (a) one and seventy-five thousandths percent of each general
 hospital's gross revenue received for inpatient hospital services
 provided during the period January first, nineteen hundred eighty-eight
@@ -5424,7 +5429,7 @@ general hospital's gross revenue received for inpatient hospital
 services provided during annual periods beginning on or after January
 first, nineteen hundred ninety through December thirty-first, nineteen
 hundred ninety-nine and on or after January first, two thousand,
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (a) one and seventy-five thousandths percent of each general
 hospital's gross revenue received for inpatient hospital services
 provided during the period January first, nineteen hundred eighty-eight
@@ -5437,7 +5442,7 @@ general hospital's gross revenue received for inpatient hospital
 services provided during annual periods beginning on or after January
 first, nineteen hundred ninety through December thirty-first, nineteen
 hundred ninety-nine,
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (a) one and seventy-five thousandths percent of each general
 hospital's gross revenue received for inpatient hospital services
 provided during the period January first, nineteen hundred eighty-eight
@@ -5449,7 +5454,7 @@ thirty-first, nineteen hundred eighty-nine; and one percent of each
 general hospital's gross revenue received for inpatient hospital
 services provided during annual rate periods beginning on or after
 January first, nineteen hundred ninety,
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (b) provided, however, subject to the provisions of paragraph (e) of
 this subdivision there shall be no assessment against those voluntary
 non-profit and private proprietary general hospitals which qualify for
@@ -5459,13 +5464,13 @@ first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-seven which qualified for distributions made in
 accordance with paragraph (c) of subdivision nineteen of this section as
 of December thirty-first, nineteen hundred ninety-five, and
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b) provided, however, subject to the provisions of paragraph (e) of
 this subdivision there shall be no assessment against those voluntary
 non-profit and private proprietary general hospitals which qualify for
 distributions made in accordance with paragraph (c) of subdivision
 nineteen of this section, and
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (c) provided further, however, subject to the provisions of
 paragraph (e) of this subdivision the assessment against those voluntary
 non-profit and private proprietary general hospitals which qualified for
@@ -5478,7 +5483,7 @@ percent of gross revenue received and for the annual assessment period
 January first, nineteen hundred ninety-nine through December
 thirty-first, nineteen hundred ninety-nine be abated in the amount of
 one-quarter of one percent of gross revenue received.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c) provided further, however, subject to the provisions of
 paragraph (e) of this subdivision the assessment against those voluntary
 non-profit and private proprietary general hospitals which qualified for
@@ -5495,7 +5500,7 @@ accordance with paragraph (c) of subdivision nineteen of this section be
 abated in the amount of two-thirds of one percent of gross revenue
 received and for the next succeeding annual rate period be abated in the
 amount of one-third of one percent of gross revenue received.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (d) Gross revenue received shall mean all moneys received for or on
 account of inpatient hospital service, provided, however, that subject
 to the provisions of paragraph (e) of this subdivision gross revenue
@@ -5529,7 +5534,7 @@ assistance payments which include state share amounts authorized
 pursuant to section twenty-eight hundred seven-v of this article that
 are not disproportionate share hospital payments shall be included
 within the meaning of gross revenue for purposes of this subdivision.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (d) Gross revenue received shall mean all moneys received for or on
 account of inpatient hospital service, provided, however, that subject
 to the provisions of paragraph (e) of this subdivision gross revenue
@@ -5548,7 +5553,7 @@ two-a of this section, or, if effective, the adjustment provided in
 accordance with subdivision fifteen of this section or the adjustment
 provided in accordance with section eighteen of chapter two hundred
 sixty-six of the laws of nineteen hundred eighty-six as amended.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (e) Each exclusion of hospitals or sources of gross revenue received
 from the assessments effective on or after October first, nineteen
 hundred ninety-two established pursuant to this subdivision shall be
@@ -5659,12 +5664,12 @@ authorized in accordance with subdivision eighteen of this section for
 periods through December thirty-first, nineteen hundred ninety-six,
 including income from invested funds, shall be distributed or retained
 in accordance with the following sequence:
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * Funds accumulated in the statewide pool created by the assessment
 authorized in accordance with subdivision eighteen of this section,
 including income from invested funds, shall be distributed or retained
 in accordance with the following sequence:
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (a) Funds shall be distributed by the commissioner to bad debt and
 charity care regional pools established pursuant to subdivision sixteen
 of this section to provide additional funds for distribution from such
@@ -5698,14 +5703,14 @@ authority, to the health facility restructuring pool established
 pursuant to section twenty-eight hundred fifteen of this article or to
 the general hospital indigent care pool established pursuant to section
 twenty-eight hundred seven-k of this article.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b) An amount not to exceed seventeen million dollars may annually
 be placed in a statewide account in accordance with rules and
 regulations adopted by the council and approved by the commissioner for
 the purpose of securing financing of capital improvement projects for
 general hospitals qualifying for distributions made in accordance with
 paragraph (c) of this subdivision.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (b-1) An amount equal to: twenty million dollars annually for the
 period January first, nineteen hundred ninety-one through December
 thirty-first, nineteen hundred ninety-three; thirty million dollars for
@@ -5739,7 +5744,7 @@ authorized to be reserved annually to meet premium requirements pursuant
 to sections twenty-five hundred ten and twenty-five hundred eleven of
 this chapter for a rate year and shall refund such moneys when pool
 funds become available pursuant to this paragraph for such rate year.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b-1) An amount equal to: twenty million dollars annually for the
 period January first, nineteen hundred ninety-one through December
 thirty-first, nineteen hundred ninety-three; thirty million dollars for
@@ -5770,7 +5775,7 @@ annually to meet premium requirements pursuant to sections twenty-five
 hundred ten and twenty-five hundred eleven of this chapter for a rate
 year and shall refund such moneys when pool funds become available
 pursuant to this paragraph for such rate year.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (b-2) Funds available for distribution in accordance with paragraphs
 (c) and (d) of this subdivision shall be deposited by the commissioner
 and credited to a special revenue-other fund to be established by the
@@ -5861,7 +5866,7 @@ fifteen of section two hundred six of this chapter and department of
 health administrative costs related thereto; and (F) for initiatives to
 improve public health and to expand the availability of health care
 services.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * The remaining balance shall be reserved and accumulated from year to
 year by the commissioner for priority distributions in accordance with
 rules and regulations adopted by the council and approved by the
@@ -5877,7 +5882,7 @@ evaluations of health care provider services; and (E) for quality
 improvement program grants and contracts pursuant to subdivision fifteen
 of section two hundred six of this chapter and department of health
 administrative costs related thereto.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   Notwithstanding any provision of law to the contrary, a sum not to
 exceed three million five hundred thousand dollars from funds available
 for distribution pursuant to this subparagraph may be allocated and
@@ -6073,7 +6078,7 @@ health care coverage for uninsured or underinsured children, and the
 balance of funds accumulated in the statewide pool shall be
 proportionally allocated in accordance with paragraphs (a), (b), (c) and
 (d) of this subdivision.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * 19-a. Health care services allowance statewide pool distribution.
 Funds accumulated in the statewide pool created by the allowance
 authorized in accordance with subparagraphs (ii) and (iii) of paragraph
@@ -6236,7 +6241,7 @@ health care coverage for uninsured or underinsured children, and the
 balance of funds accumulated in the statewide pool shall be
 proportionally allocated in accordance with paragraphs (a), (b),(c) and
 (d) of this subdivision.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * 19-b. Funds accumulated in the statewide pool created by the
 assessment authorized in accordance with subdivision eighteen of this
 section for a period during the period January first, nineteen hundred
@@ -6247,7 +6252,7 @@ consolidated with funds accumulated from the allowance pursuant to
 subdivision two of section twenty-eight hundred seven-j of this article
 for such period and allocated in accordance with subdivision nine of
 section twenty-eight hundred seven-j of this article.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * 19-b. Funds accumulated in the statewide pool created by the
 assessment authorized in accordance with subdivision eighteen of this
 section for a period during the period January first, nineteen hundred
@@ -6258,7 +6263,7 @@ allowance pursuant to subdivision two of section twenty-eight hundred
 seven-j of this article for such period and allocated in accordance with
 subdivision nine of section twenty-eight hundred seven-j of this
 article.
-  * NB Effective and repealed December 31, 2020
+  * NB Effective and repealed December 31, 2023
   20. Payments to pools. (a) Payments by or on behalf of general
 hospitals to bad debt and charity care regional pools of funds due based
 on the allowance included in rates and charges in accordance with
@@ -6428,7 +6433,7 @@ hundred seven-k of this article for periods during the period January
 first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine and on and after January first, two
 thousand equal to one-half of such reduction.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (b)(i) No public general hospital may receive in total from
 disproportionate share payment distributions made in accordance with
 subdivision seventeen of this section and adjustments in accordance with
@@ -6490,7 +6495,7 @@ participation from funds available pursuant to section twenty-eight
 hundred seven-k of this article for periods during the period January
 first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine equal to one-half of such reduction.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (b) (i) No public general hospital may receive in total from
 disproportionate share payment distributions made in accordance with
 subdivision seventeen of this section and adjustments in accordance with
@@ -6528,7 +6533,7 @@ general hospital shall receive a supplementary distribution not as a
 disproportionate share payment and not subject to federal financial
 participation from funds available pursuant to subdivision seventeen of
 this section equal to one-half of such reduction.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (c)(i) No general hospital other than a public general hospital may
 receive in total from disproportionate share payment distributions made
 in accordance with paragraph (b) of subdivision fourteen-c, subdivision
@@ -6600,7 +6605,7 @@ hundred seven-k of this article for periods during the period January
 first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine and on and after January first, two
 thousand equal to one-half of such reduction.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (c)(i) No general hospital other than a public general hospital may
 receive in total from disproportionate share payment distributions made
 in accordance with paragraph (b) of subdivision fourteen-c, subdivision
@@ -6670,7 +6675,7 @@ participation from funds available pursuant to section twenty-eight
 hundred seven-k of this article for periods during the period January
 first, nineteen hundred ninety-seven through December thirty-first,
 nineteen hundred ninety-nine equal to one-half of such reduction.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (c) (i) No general hospital other than a public general hospital may
 receive in total from disproportionate share payment distributions made
 in accordance with paragraph (b) of subdivision fourteen-c, subdivision
@@ -6717,7 +6722,7 @@ hospital, such general hospital shall receive a supplementary
 distribution not as a disproportionate share payment and not subject to
 federal financial participation from funds available pursuant to such
 subdivisions equal to one-half of such reduction.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (d)(i) Commencing April first, nineteen hundred ninety-four, no
 general hospital may be eligible to receive disproportionate share
 payments determined in accordance with subdivision twenty-six of this
@@ -6748,7 +6753,7 @@ article for periods during the period January first, nineteen hundred
 ninety-seven through December thirty-first, nineteen hundred ninety-nine
 and on and after January first, two thousand without consideration of
 subparagraph (i) of this paragraph.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (d)(i) Commencing April first, nineteen hundred ninety-four, no
 general hospital may be eligible to receive disproportionate share
 payments determined in accordance with subdivision twenty-six of this
@@ -6778,7 +6783,7 @@ twenty-eight hundred seven-k of this article for periods during the
 period January first, nineteen hundred ninety-seven through December
 thirty-first, nineteen hundred ninety-nine without consideration of
 subparagraph (i) of this paragraph.
-  * NB Effective and expires December 31, 2020
+  * NB Effective and expires December 31, 2023
   * (d)(i) Commencing April first, nineteen hundred ninety-four, no
 general hospital may be eligible to receive disproportionate share
 payments determined in accordance with subdivision twenty-six of this
@@ -6796,7 +6801,7 @@ seventeen of this section equal to one-half of the distributions for
 which such general hospital would have been qualified pursuant to
 subdivision seventeen of this section without consideration of
 subparagraph (i) of this paragraph.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   * (e) For purposes of calculations pursuant to paragraphs (b) and (c)
 of this subdivision of maximum disproportionate share payment
 distributions for a year or part thereof, costs incurred of furnishing
@@ -6817,7 +6822,7 @@ commissioner consistent with requirements of the secretary of the
 department of health and human services for purposes of federal
 financial participation pursuant to title XIX of the federal social
 security act in disproportionate share payments.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2023
   * (e) For purposes of calculations pursuant to paragraphs (b) and (c)
 of this subdivision of maximum disproportionate share payment
 distributions for a rate year or part thereof, costs incurred of
@@ -6838,7 +6843,7 @@ methodology established by the commissioner consistent with requirements
 of the secretary of the department of health and human services for
 purposes of federal financial participation pursuant to title XIX of the
 federal social security act in disproportionate share payments.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2023
   (e-1) For periods on and after January first, two thousand eleven, for
 purposes of calculations pursuant to paragraphs (b) and (c) of this
 subdivision of maximum disproportionate share payment distributions for
@@ -7181,7 +7186,7 @@ of payment as a one hundred percent facility specific adjustment and
 shall not affect the calculation of the group category average inpatient
 reimbursable operating cost per discharge for such retrospective period
 for any other general hospital.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   * 29. Coinsurance and deductibles. (a) If a general hospital and a
 third-party payor agree to a negotiated payment methodology for a period
 on or after January first, nineteen hundred ninety-seven that is based
@@ -7198,7 +7203,7 @@ any patient covered by such third-party payor as the primary payor shall
 not exceed the amount calculated by applying the deductible and
 coinsurance amounts to the amount due on the basis of such negotiated
 payment arrangement.
-  * NB Expires December 31, 2020
+  * NB Expires December 31, 2023
   30. General hospital recruitment and retention of health care workers.
 Notwithstanding any inconsistent provision of this section and subject
 to the availability of federal financial participation:
@@ -7611,6 +7616,26 @@ refined (APR) case mix methodology, utilizing diagnostic related groups
 with assigned weights that incorporate differing levels of severity of
 patient condition and the associated risk of mortality, and as may be
 periodically updated by the commissioner;
+  * (iv-a) Effective April first, two thousand twenty, such rates for
+public general hospitals or public health systems, other than those
+operated by the state of New York or the state university of New York,
+located in a city having a population of one million or more shall
+include a rate add-on that reflects reimbursement for costs, to the
+extent permitted under 42 CFR 447.272(b)(1) and based on actual
+utilization of services. Such rate add-on shall be contingent upon
+federal financial participation and approval, and subject to the terms
+of a binding memorandum of understanding executed between the department
+of health and the public general hospital or public health system
+receiving the rate add-on. If payment of such rate add-on is projected
+to cause Medicaid disbursements for such period to exceed the projected
+department of health Medicaid state funds in the enacted budget
+financial plan pursuant to subdivision three of section twenty-three of
+the state finance law, as determined by the director of the budget, or
+memorandum of understanding is not executed or is breached, the
+commissioner, in consultation with the director of budget, may either
+cancel or reduce payment of such rate add-on to achieve compliance with
+the enacted budget financial plan.
+  * NB Repealed March 31, 2023
   (v) such regulations shall incorporate quality related measures,
 including, but not limited to, potentially preventable re-admissions
 (PPRs) and provide for rate adjustments or payment disallowances related

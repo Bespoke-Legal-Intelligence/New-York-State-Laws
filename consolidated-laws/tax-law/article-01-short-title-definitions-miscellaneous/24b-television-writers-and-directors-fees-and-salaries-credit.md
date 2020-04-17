@@ -4,7 +4,7 @@
 [Tax Law](../README.md) › [Article 1 — Short Title; Definitions; Miscellaneous](README.md)
 
 ```text
-  § 24-b. Television writers' and directors' fees and salaries credit.
+  * § 24-b. Television writers' and directors' fees and salaries credit.
 (a)(1) A taxpayer which is a qualified film production company, or a
 qualified independent film production company, or which is a sole
 proprietor of or a member of a partnership which is a qualified film
@@ -25,8 +25,10 @@ television pilot or a single episode of a television series, and (ii)
 the credit amount shall not exceed one hundred fifty thousand dollars
 for qualified television writers' and directors' fees and salaries
 claimed for such expenses incurred for the employment of any one
-specific writer or director. The credit shall be allowed for the taxable
-year in which the production of such qualified film is completed.
+specific writer or director. In addition, under no circumstances shall
+the credit amount include fees or salaries for more than one director
+per episode. The credit shall be allowed for the taxable year in which
+the production of such qualified film is completed.
   (3) No qualified television writers' and directors' fees and salaries
 used by a taxpayer either as the basis for the allowance of the credit
 provided for pursuant to this section or used in the calculation of the
@@ -35,54 +37,57 @@ to claim any other credit allowed pursuant to this chapter.
   (b) Definitions. As used in this section, the following terms shall
 have the following meanings:
   (1) "Qualified film production company" is a corporation, partnership,
-limited partnership, or other entity or individual which or who is
-principally engaged in the production of a qualified film and controls
-the qualified film during production.
+limited partnership, or other entity or individual whose project is
+conditionally eligible to receive a tax credit under section twenty-four
+of this article which or who is principally engaged in the production of
+a qualified film and controls the qualified film during production.
   (2) "Qualified independent film production company" is a corporation,
-partnership, limited partnership, or other entity or individual, that or
-who (i) is principally engaged in the production of a qualified film
-with a maximum budget of fifteen million dollars, (ii) controls the
-qualified film during production, and (iii) either is not a publicly
-traded entity, or no more than five percent of the beneficial ownership
-of which is owned, directly or indirectly, by a publicly traded entity.
+partnership, limited partnership, or other entity or individual whose
+project is conditionally eligible to receive a tax credit under section
+twenty-four of this article, that or who (i) is principally engaged in
+the production of a qualified film with a maximum budget of fifteen
+million dollars, (ii) controls the qualified film during production, and
+(iii) either is not a publicly traded entity, or no more than five
+percent of the beneficial ownership of which is owned, directly or
+indirectly, by a publicly traded entity.
   (3) "Qualified film" means a television film, television pilot and/or
 each episode of a television series, regardless of the medium by means
 of which the film, pilot or episode is created or conveyed.
   (4) "Qualified television writers' and directors' fees and salaries"
-means: (i) salaries or fees paid to a writer or director who receives an
-on-air credit; (ii) for a non-credited writer, up to seventy-five
-thousand dollars in salaries or fees per series of episodes. Provided
-that in each case, such writer or director is a minority group member,
-as defined in subdivision eight of section three hundred ten of the
-executive law, or a woman, and provided, further, that salaries or fees
-paid to any writer or director who is a profit participant in the
-qualified film shall not be eligible.
-  (5) "Writer" means a person who is: (i) engaged by a qualified film
+means salaries or fees paid to a writer or director who receives an
+on-air credit, provided that in each case, such writer or director is a
+minority group member, as defined in subdivision eight of section three
+hundred ten of the executive law, or a woman, and provided, further,
+that salaries or fees paid to any writer or director who is a profit
+participant in the qualified film shall not be eligible. Such fees shall
+not include relocation fees or hotel costs and per diems. In addition,
+such fees shall not include salaries or fees paid to writers or
+directors for work done on episodes of television series that were
+deemed conditionally eligible for the tax credit under section
+twenty-four of this article prior to the tax year for which the credit
+is first available.
+  (5) "Writer" means a person who is engaged by a qualified film
 production company or a qualified independent film production company to
-write literary material (including making changes or revisions in
-literary material), when the company has the right by contract to direct
-the performance of personal services in writing or preparing such
-material or in making revisions, modifications or changes therein; or
-(ii) engaged by the company and who performs services (at the company's
-direction or with its consent) in writing or preparing such literary
-material or making revisions, modifications, or changes in such
-material; and (iii) who reports to work regularly in a writers room
-located in the state.
-  (6) "Literary material" shall be deemed to include stories,
-adaptations, treatments, original treatments, scenarios, continuities,
-teleplays, screenplays, dialogue, scripts, sketches, plots, outlines,
-narrative synopses, routines, narrations, and formats.
-  (7) "Writers room" means a room or physical location where writers
-employed by a qualified film production company or qualified independent
-film production company write or revise literary materials utilized in a
-qualified film.
-  (8) "Director" means an individual employed or retained to direct the
+write television scripts, outlines, rewrites, stories, or teleplays for
+television series and who reports to work regularly in a writers room
+located in the state. For the purposes of this definition, "writer"
+shall not include showrunners or executive producers.
+  (6) "Writers room" means a room or physical location in the state
+where writers employed by a qualified film production company or
+qualified independent film production company write television scripts,
+outlines, rewrites, stories, or teleplays for television series utilized
+in a qualified film. A writers room is located in the state only if it
+is in use in the state at least eighty percent of the time it is in
+existence.
+  (7) "Director" means an individual employed or retained to direct the
 production, as the word "direct" is commonly used in the motion picture
-industry, and who would be classified as a director under the basic
+industry, who would be classified as a director under the basic
 agreement in place between the Association of Motion Picture and
-Television Producers and the Director's Guild of America and who is a
-resident of New York.
-  (9) "Profit participant" is an individual who has negotiated for a
+Television Producers and the Director's Guild of America and who must
+meet the minimum criteria for work on qualified productions in New York
+state as established by the commissioner of economic development by
+regulation.
+  (8) "Profit participant" is an individual who has negotiated for a
 percentage of profits generated by a qualified film. Profit
 participation does not include monies contractually required by
 collectively bargained agreements for reuse of a qualified film on
@@ -119,18 +124,17 @@ the aggregate amount of tax credits allowed for such year under this
 section, such excess shall be treated as having been applied for on the
 first day of the subsequent year.
   (2) The commissioner of economic development, after consulting with
-the commissioner, shall promulgate regulations by October thirty-first,
-two thousand nineteen to establish procedures for the allocation of tax
-credits as required by subdivision (a) of this section. Such rules and
-regulations shall include provisions describing the application process,
-the due dates for such applications, the standards which shall be used
-to evaluate the applications, the documentation that will be provided to
-taxpayers to substantiate to the department the amount of tax credits
-allocated to such taxpayers, and such other provisions as deemed
-necessary and appropriate. Notwithstanding any other provisions to the
-contrary in the state administrative procedure act, such rules and
-regulations may be adopted on an emergency basis if necessary to meet
-such October thirty-first, two thousand nineteen deadline.
+the commissioner, shall promulgate regulations to establish procedures
+for the allocation of tax credits as required by subdivision (a) of this
+section. Such rules and regulations shall include provisions describing
+the application process, the due dates for such applications, the
+standards which shall be used to evaluate the applications, the
+documentation that will be provided to taxpayers to substantiate to the
+department the amount of tax credits allocated to such taxpayers, and
+such other provisions as deemed necessary and appropriate.
+Notwithstanding any other provisions to the contrary in the state
+administrative procedure act, such rules and regulations may be adopted
+on an emergency basis.
   (f) The department of economic development shall submit to the
 governor, the temporary president of the senate, and the speaker of the
 assembly, an annual report to be submitted on February first of each
@@ -154,4 +158,8 @@ commissioner of the department of economic development regarding
 continuing modification, repeal of such act, and such other information
 regarding the act as the commissioner of the department of economic
 development may feel useful and appropriate.
+  * NB Effective on the first of January next succeeding the date the
+department of economic development provides notice to the legislative
+bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
+chapter 683 of 2019
 ```

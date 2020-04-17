@@ -36,10 +36,12 @@ chapter concerning the denial, suspension or revocation of any permit,
 certificate or license, and to any hearing held pursuant to section four
 hundred fifty-five of this chapter.
   * 2-a. With regard to fair hearings held in connection with appeals
-under the fully integrated duals advantage demonstration program, the
-commissioner may contract for the sole purpose of assisting staff of the
-office for such purpose.
-  * NB Expires January 1, 2021
+for integrated fair hearing and appeals processes for individuals dually
+eligible for medical assistance and benefits available under titles
+XVIII and XIX of the federal social security act, the commissioner may
+contract for the sole purpose of assisting staff of the office for such
+purpose.
+  * NB Expires January 1, 2024
   3. Persons entitled to appeal to the department pursuant to this
 section shall include:
   (a) Applicants for or recipients of aid to dependent children,

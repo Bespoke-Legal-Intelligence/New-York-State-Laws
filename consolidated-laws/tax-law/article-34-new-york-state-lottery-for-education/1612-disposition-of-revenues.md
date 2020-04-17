@@ -409,7 +409,10 @@ be deposited into an account of the franchised corporation established
 pursuant to section two hundred six of the racing, pari-mutuel wagering
 and breeding law to be used for capital expenditures in maintaining and
 upgrading Aqueduct racetrack, Belmont Park racetrack and Saratoga race
-course.
+course. Capital expenditures may include funding the construction of and
+initially equipping a state-based equine drug testing and research
+laboratory to be used pursuant to subdivision seven of section nine
+hundred two of the racing, pari-mutuel wagering and breeding law.
   4. Three percent of the total revenue wagered after payout for prizes
 to be deposited into an account of the franchised corporation
 established pursuant to section two hundred six of the racing,

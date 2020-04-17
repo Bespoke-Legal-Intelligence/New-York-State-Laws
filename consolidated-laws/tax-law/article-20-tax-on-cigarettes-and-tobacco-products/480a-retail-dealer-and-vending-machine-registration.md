@@ -86,6 +86,14 @@ to avoid the effect of the previous revocation for the same premises:
 would indicate that the sale or lease is entered into for the primary
 purpose of permitting the original registrant to avoid the effect of the
 previous revocation for the same premises.
+  * (f) In addition to the grounds for refusal of a registration
+specified in section eleven hundred thirty-four of this chapter, the
+commissioner may refuse to register any person as a retail dealer where
+any tax under this chapter, or a tax or fee administered by the
+commissioner under any other law, has been finally determined to be due
+from such person, or from a person required to collect tax with respect
+to such person or another person, and has not been paid.
+  * NB Effective September 1, 2020
   2. (a) (i) Every retail dealer and every person owning or, if the
 owner is not the operator, then any person operating one or more vending
 machines through which cigarettes or tobacco products are sold in this
@@ -145,7 +153,7 @@ of amounts to be collected under such articles or this section, any
 registration required under such articles or this section, and the
 payment of taxes under such articles, or of fees under this section
 shall be on a joint basis.
-  (d) Except as otherwise provided in this section, all the provisions
+  * (d) Except as otherwise provided in this section, all the provisions
 of article twenty-eight of this chapter relating to the personal
 liability for the tax, administration, collection and determination of
 tax, and deposit and disposition of revenue, including section eleven
@@ -183,6 +191,45 @@ thirty-nine of this chapter shall apply to the refund or credit
 authorized by the preceding sentence and for such purposes, such refund
 or credit shall be deemed a refund of tax paid in error provided,
 however, no interest shall be allowed or paid on any such refund.
+  * NB Effective until September 1, 2020
+  * (d) Except as otherwise provided in this section, all the provisions
+of article twenty-eight of this chapter relating to the personal
+liability for the tax, administration, collection and determination of
+tax, and deposit and disposition of revenue, including section eleven
+hundred thirty-eight of this chapter relating to determination of tax
+and section eleven hundred forty-five of this chapter (but only
+paragraphs one and two of subdivision (a) of such section) relating to
+penalties and interest for failure to file a return or pay tax within
+the time required, shall apply to the applications for registration and
+the fees for filing such applications required by this section and the
+penalty imposed pursuant to subdivision three of this section, as if
+such applications were returns required under section eleven hundred
+thirty-six of this chapter and such filing fees, penalties and interest
+were taxes required to be paid pursuant to such article twenty-eight, in
+the same manner and with the same force and effect as if the language of
+such provisions of such article twenty-eight had been incorporated in
+full into this article, except to the extent that any such provision is
+either inconsistent with a provision of this section or is not relevant
+thereto and with such other modifications as may be necessary to adapt
+the language of such provisions to the provisions of this section.
+Provided, however, that the commissioner of taxation and finance shall
+refund or credit an application fee paid with respect to the
+registration of a vending machine or a retail place of business in this
+state through which cigarettes or tobacco products were to be sold if,
+prior to the beginning of the calendar year with respect to which such
+registration relates, the certificate of registration described in
+paragraph (a) of this subdivision is returned to the department of
+taxation and finance, or if such certificate has been destroyed, the
+retail dealer or vending machine operator satisfactorily accounts to the
+commissioner for the missing certificate, but such vending machine or
+retail place of business may not be used to sell cigarettes or tobacco
+products in this state during such calendar year, unless it is
+re-registered. The provisions of section eleven hundred thirty-nine of
+this chapter shall apply to the refund or credit authorized by the
+preceding sentence and for such purposes, such refund or credit shall be
+deemed a refund of tax paid in error provided, however, no interest
+shall be allowed or paid on any such refund.
+  * NB Effective September 1, 2020
   3. In addition to any other penalty imposed by this chapter: (a) Any
 retail dealer who violates the provisions of this section, after due
 notice and an opportunity for a hearing, for a first violation is liable
@@ -200,7 +247,7 @@ than seven hundred fifty dollars but not to exceed two thousand dollars
 and for a second or subsequent violation within three years following a
 prior finding of violation be liable for a civil fine not less than two
 thousand dollars but not to exceed six thousand dollars.
-  4. (a) If a retail dealer possesses or sells unstamped or unlawfully
+  * 4. (a) If a retail dealer possesses or sells unstamped or unlawfully
 stamped packages of cigarettes, or if a retail dealer is also licensed
 as an agent pursuant to section four hundred seventy-two and it
 possesses unlawfully stamped packages of cigarettes or sells unstamped
@@ -283,6 +330,84 @@ suspension or revocation shall constitute cause, for purposes of section
 one hundred eighteen of the alcoholic beverage control law, for
 revocation, cancellation or suspension of any license or permit issued
 pursuant to such law.
+  * NB Effective until September 1, 2020
+  * 4. (a) If a retail dealer possesses or sells unstamped or unlawfully
+stamped packages of cigarettes, or if a retail dealer is also licensed
+as an agent pursuant to section four hundred seventy-two and it
+possesses unlawfully stamped packages of cigarettes or sells unstamped
+or unlawfully stamped packages of cigarettes at retail, (i) its
+registration shall be revoked for a period of one year, or (ii) for a
+second such possession or sale within a period of five years by a retail
+dealer or any affiliated person of such retail dealer, the registration
+of such retail dealer and the registration of any retail dealer that is
+an affiliated person of such retail dealer shall be revoked for a period
+of three years, or (iii) for a third such possession or sale within a
+period of five years by a retail dealer or any affiliated person of such
+retail dealer, the registration of such retail dealer and the
+registration of any retail dealer that is an affiliated person of such
+retail dealer shall be revoked for a period of five years. A retail
+dealer registration shall be revoked pursuant to this subdivision
+immediately upon such dealer's receipt of written notice of revocation
+from the commissioner. If unstamped or unlawfully stamped cigarettes are
+found in a retail dealer's warehouse or a warehouse of any affiliated
+person of such retail dealer, the revocation of the retail dealer's
+registration pursuant to this subdivision shall be applicable to each
+retail place of business in this state through which such retail dealer
+and any affiliated person of such retail dealer sells cigarettes.
+  (b) A retail dealer who is notified of a revocation of its
+registration pursuant to this subdivision shall have the right to have
+the revocation reviewed by the commissioner or his or her designee by
+contacting the department at a telephone number or an address to be
+disclosed in the notice of revocation within ten days of such dealer's
+receipt of such notification. The retail dealer may present written
+evidence or argument in support of its defense to the revocation, or may
+appear at a scheduled conference with the commissioner or his or her
+designee to present oral arguments and written and oral evidence in
+support of such defense. The commissioner or his or her designee is
+authorized to delay the effective date of the revocation to enable the
+retail dealer to present further evidence or arguments in connection
+with the revocation.  The commissioner or his or her designee shall
+cancel the revocation of registration if the commissioner or his or her
+designee is not satisfied by a preponderance of the evidence that the
+retail dealer possessed or sold unstamped or unlawfully stamped packages
+of cigarettes.
+  (c) An order of revocation of a retail dealer registration shall not
+be reviewable by the division of tax appeals, but may be reviewed
+pursuant to article seventy-eight of the civil practice law and rules by
+a proceeding commenced in the supreme court within four months of the
+revocation of registration petitioning that the order of revocation be
+enjoined or set aside. Such proceeding shall be instituted in the county
+where the commissioner has his or her principal office. Upon the filing
+of such petition the court shall have jurisdiction to set aside such
+order of revocation, in whole or in part, or to dismiss the petition.
+The jurisdiction of the supreme court shall be exclusive and its order
+dismissing the petition or enjoining or setting aside such order, in
+whole or in part, shall be final, subject to review by the appellate
+division of the supreme court and the court of appeals in the same
+manner and form and with the same effect as provided by law for appeals
+from a judgment in a special proceeding. All such proceedings shall be
+heard and determined by the court and by any appellate court as
+expeditiously as possible and with lawful precedence over other civil
+matters. All such proceedings for review shall be heard on the petition,
+transcript and other papers, and on appeal shall be heard on the record,
+without requirement of printing.
+  (d) After review of the revocation of registration by the commissioner
+or his or her designee is complete, or the time within which a retail
+dealer may request such review has expired without such a request having
+been made, notice of the revocation of a retail dealer registration
+pursuant to this subdivision shall be given by the commissioner to the
+head of the division of the lottery for the purpose of enforcement of
+section sixteen hundred seven of this chapter and such division may
+suspend or revoke any license issued with respect to a lottery agent's
+specific location pursuant to article thirty-four of this chapter if
+such lottery agent is a retail dealer of cigarettes whose registration
+for such location is suspended or revoked pursuant to this section. In
+addition, notice of such revocation shall also be given to the state
+liquor authority and such revocation shall constitute cause, for
+purposes of section one hundred eighteen of the alcoholic beverage
+control law, for revocation, cancellation or suspension of any license
+or permit issued pursuant to such law.
+  * NB Effective September 1, 2020
   5. Except for subdivision (i) of section eighteen hundred fourteen of
 this chapter, the criminal penalties set forth in article thirty-seven
 of this chapter shall not apply to a violation of this section.

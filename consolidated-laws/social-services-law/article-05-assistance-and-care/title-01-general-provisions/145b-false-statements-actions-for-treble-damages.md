@@ -68,69 +68,93 @@ repayment shall bear interest from the date the payment was made to said
 provider or supplier to the date of said refund or repayment. Interest
 shall be at the maximum legal rate in effect on the date the payment was
 made to said provider or supplier.
-  4. (a) The department of health may require the payment of a monetary
-penalty as restitution to the medical assistance program by any person
-who fails to comply with the standards of the medical assistance program
-or of generally accepted medical practice in a substantial number of
-cases or grossly and flagrantly violated such standards and receives, or
-causes to be received by another person, payment from the medical
-assistance program when such person knew, or had reason to know, that:
-  (i) the payment involved the providing or ordering of care, services
+  4. (a) The Medicaid inspector general, in consultation with the
+department of health, may require the payment of a monetary penalty as
+restitution to the medical assistance program by any person who fails to
+comply with the standards of the medical assistance program or standards
+of generally accepted medical practice in a substantial number of cases
+or grossly and flagrantly violated such standards and:
+  (i) receives, or causes to be received by another person, payment from
+the medical assistance program when such person knew, or had reason to
+know, that:
+  (A) the payment involved the providing or ordering of care, services
 or supplies that were medically improper, unnecessary or in excess of
 the documented medical needs of the person to whom they were furnished;
-  (ii) the care, services or supplies were not provided as claimed;
-  (iii) the person who ordered or prescribed care, services or supplies
-which was medically improper, unnecessary or in excess of the documented
-medical need of the person to whom they were furnished was suspended or
-excluded from the medical assistance program at the time the care,
-services or supplies were furnished; or
-  (iv) the services or supplies for which payment was received were not,
-in fact, provided.
-  (b) For each claim, the department of health is authorized to recover
-any overpayment, unauthorized payment, or otherwise inappropriate
-payment and if twenty-five percent or more of those claims which were
-the subject of an audit by the department of health result in
-overpayments, unauthorized payments or otherwise inappropriate payments
-and for which the claims were submitted by a person for payment under
-the medical assistance program, the department may also impose a
-monetary penalty against any person, or persons, who received the
-overpayment, unauthorized payment, or otherwise inappropriate payment
-for such claim. If less than twenty-five percent of identified claims
-result in overpayments, unauthorized payments or otherwise inappropriate
-payments then the department of health may recover such monies or may
-impose a monetary penalty, but not both. In addition, the department of
-health is also authorized to recover any overpayment, unauthorized
-payment, or otherwise inappropriate payment and impose a monetary
-penalty against any person, or persons, other than a recipient of an
-item or service under the medical assistance program, who caused the
-overpayment, unauthorized payment, or otherwise inappropriate payment to
-be received by the other person or persons. All of the foregoing actions
-may be taken by the department of health for the same claim. In
-determining the amount of any monetary penalty to be imposed, the
-department of health must take into consideration the following: (i) the
-number and total value of the claims for payment from the medical
-assistance program which were the underlying basis of the determination
-to impose a monetary penalty; (ii) the effect, if any, on the quality of
-medical care provided to recipients of medical assistance as a result of
-the acts of the person; (iii) the degree of culpability of the person in
-committing the proscribed actions and any mitigating circumstances; (iv)
-any prior violations committed by the person relating to the medical
-assistance program, Medicare or other social services programs which
-resulted in either a criminal or administrative sanction, penalty, or
-recoupment; and (v) any other facts relating to the nature and
-seriousness of the violations including any exculpatory facts. However,
-in no event can the department of health recover overpayments,
-unauthorized payments, or otherwise inappropriate payments from any
-person, or persons, for a single claim, in an amount that exceeds the
-amount paid for such claim. In no event shall the monetary penalty
-imposed exceed ten thousand dollars for each item or service which was
-the subject of the determination herein, except that where a penalty
-under this section has been imposed on a person within the previous five
-years, such penalty shall not exceed thirty thousand dollars for each
-item or service which was the subject of the determination herein.
-  (c) Amounts collected pursuant to this subdivision shall be
+  (B) the care, services or supplies were not provided as claimed;
+  (C) the person who ordered, prescribed, or furnished the care,
+services or supplies which were medically improper, unnecessary or in
+excess of the documented medical need of the person to whom they were
+furnished was suspended or excluded from the medical assistance program
+at the time the care, services or supplies were furnished; or
+  (D) the services or supplies for which payment was received were not,
+in fact, provided; or
+  (ii) such person fails to grant timely access to facilities and
+records, upon reasonable notice, to the Medicaid inspector general, the
+Medicaid fraud control unit of the attorney general's office, or the
+department of health for the purpose of audits, investigations, reviews,
+or other statutory functions. For purposes of this subparagraph,
+"reasonable notice" means a written request made by a properly
+identified agent of the Medicaid inspector general, the Medicaid fraud
+control unit of the attorney general's office, or the department of
+health either, during hours that the individual or entity is open for
+business, or mailed to the individual or entity to an address on file
+with the department of health or last known address. The request shall
+include a statement of the authority for the request, the definition of
+"reasonable notice", and the penalties for failure to comply;
+  (iii) such person knew or should have known that an overpayment has
+been identified and does not report, return and explain the overpayment
+in accordance with subdivision six of section three hundred
+sixty-three-d of this article;
+  (iv) such person arranges or contracts, by employment, agreement, or
+otherwise, with an individual or entity that the person knows or should
+know is suspended or excluded from the medical assistance program at the
+time such arrangement or contract regarding activities related to the
+medical assistance program is made.
+  (v) For purposes of this paragraph, "person" as used in subparagraph
+(i) does not include recipients of the medical assistance program; and
+"person" as used in subparagraphs (ii) -- (iv), is as defined in
+paragraph (e) of subdivision (6) of section three hundred sixty-three-d
+of this chapter.
+  (b) In determining the amount of any monetary penalty to be imposed,
+the Medicaid inspector general, in consultation with the department of
+health, shall take into consideration the following:
+  (i) the number and total value of the claims for payment from the
+medical assistance program which were the underlying basis of the
+determination to impose a monetary penalty;
+  (ii) the effect, if any, on the quality of medical care provided to
+recipients of medical assistance as a result of the acts of the person;
+  (iii) the degree of culpability of the person in committing the
+proscribed actions and any mitigating circumstances;
+  (iv) any prior violations committed by the person relating to the
+medical assistance program, Medicare or other social services programs
+which resulted in either a criminal or administrative sanction, penalty,
+or recoupment; and
+  (v) any other facts relating to the nature and seriousness of the
+violations including any exculpatory facts.
+  (c) (i) For subparagraphs (i), (iii), and (iv) of paragraph (a) of
+this subdivision, in no event shall the monetary penalty imposed exceed
+ten thousand dollars for each item or service which was the subject of
+the determination herein, except that where a penalty under this section
+has been imposed on a person within the previous five years, such
+penalty shall not exceed thirty thousand dollars for each item or
+service which was the subject of the determination herein.
+  (ii) For subparagraph (ii) of paragraph (a) of this subdivision, in no
+event shall the monetary penalty exceed fifteen thousand dollars for
+each day of the failure described in such subparagraph.
+  (d) Amounts collected pursuant to this subdivision shall be
 apportioned between the local social services district and the state in
 accordance with the regulations of the department of health.
+  (e) For the purposes of this subdivision, "gross and flagrant
+violation" shall mean conduct which has an adverse effect on the fiscal
+integrity of the medical assistance program and:
+  (i) which substantially impairs the delivery of high quality medical
+care, services, or supplies; or
+  (ii) which substantially impairs the oversight and administration of
+the program.
+  (f) A person against whom a monetary penalty is imposed pursuant to
+this subdivision shall be entitled to notice and an opportunity to be
+heard, including the right to request a hearing pursuant to section
+twenty-two of this chapter.
   5. When in the course of conducting an investigation relating to the
 investigation relating to the medical assistance program, a local social
 services district deduces that a provider may have committed criminal

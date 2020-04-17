@@ -24,4 +24,15 @@ calendar year and will take effect for the immediately succeeding
 calendar year.  If an election is made after December first of a
 calendar year, it will first take effect in the second succeeding
 calendar year.
+  (d) If an employer determines that the election made pursuant to
+subsection (b) of this section was in error and such employer does not
+wish to participate in the program for the calendar year and has taken
+no action to comply with the requirements of this article, the employer
+may revoke the election to participate in the program. For the calendar
+year two thousand twenty, such revocation of the employer election may
+be made on or before April fifteenth, two thousand twenty. For calendar
+years beginning two thousand twenty-one and thereafter, such revocation
+of the employer election must be made no later than January fifteenth of
+the immediately succeeding calendar year after the employer election was
+made.
 ```

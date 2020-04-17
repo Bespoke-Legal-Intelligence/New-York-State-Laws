@@ -32,6 +32,12 @@ a program that provides education or training for persons to meet any
 requirement established by the department for providing home health aide
 services or personal care services, which program is approved by the
 department or the state education department.
+  1-a. Each home care services worker shall obtain an individual unique
+identifier from the state by or before a date determined by the
+commissioner in consultation with the Medicaid inspector general. Any
+personal information submitted to obtain such unique identifier shall be
+maintained as confidential pursuant to article six-A of the public
+officers law ("New York state privacy protection law").
   2. The department shall develop and maintain a home care services
 worker registry of persons who have successfully completed a
 state-approved education or training program. Information in the

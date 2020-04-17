@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 91 |
-| Last changed | 28 Jun 2019 |
+| Sections | 94 |
+| Last changed | 17 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (118 lines)](chapter-text.md)
+[Full chapter text (121 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Apr 2020](../../changes/2020/2020-04-17.md): 7 amended, 3 added
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 3 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 6 amended, 1 added
 - [14 Dec 2018](../../changes/2018/2018-12-14.md): 4 amended
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 4 amended, 1 added
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
-- [21 Apr 2017](../../changes/2017/2017-04-21.md): 6 amended
 
 ## Contents
 
@@ -138,3 +138,6 @@ Section  1.     Short title.
 - [§ 51 No title](51-no-title.md)
 - [§ 52 Small business innovation research (SBIR)/small business technology transfer (STTR) technical assistance program](52-small-business-innovation-research-sbir-small-business-technology-transfer-sttr.md)
 - [§ 53 No title](53-no-title.md)
+- [§ 54 No title](54-no-title.md)
+- [§ 55 No title](55-no-title.md)
+- [§ 56 State-supported debt; 2021](56-state-supported-debt-2021.md)

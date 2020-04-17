@@ -35,6 +35,8 @@
 - [§ 341 Notification regarding qualified health insurance plans](341-notification-regarding-qualified-health-insurance-plans.md)
 - [§ 342 Public awareness to finance long term care](342-public-awareness-to-finance-long-term-care.md)
 - [§ 343 Mental health and substance use disorder parity report](343-mental-health-and-substance-use-disorder-parity-report.md)
+- [§ 344 Mental health and substance use disorder parity compliance programs](344-mental-health-and-substance-use-disorder-parity-compliance-programs.md)
+- [§ 345 Health care claims reports](345-health-care-claims-reports.md)
 
 <details>
 <summary>Official heading of Article 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -81,6 +83,9 @@ Section 301. Regulations by superintendent.
         341. Notification regarding qualified health insurance plans.
         342. Public awareness to finance long term care.
         343. Mental health and substance use disorder parity report.
+        344. Mental health and substance use disorder parity compliance
+               programs.
+        345. Health care claims reports.
 ```
 
 </details>

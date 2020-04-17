@@ -3,8 +3,6 @@
 
 [Education Law](../../../README.md) › [Title 2 — School District Organization](../../README.md) › [Article 41 — District Meetings](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 2001 Notice of first meeting of district](2001-notice-of-first-meeting-of-district.md)
@@ -36,7 +34,6 @@
 - [§ 2023 Levy of tax for certain purposes without vote; contingency budget](2023-levy-of-tax-for-certain-purposes-without-vote.md)
 - [§ 2023-A Limitations upon school district tax levies](2023a-limitations-upon-school-district-tax-levies.md)
 - [§ 2023-B Certification of compliance with property tax freeze requirements](2023b-certification-of-compliance-with-property-tax.md)
-- [§ 2023-B\*2 Certification of compliance with tax levy limit](2023b-2-certification-of-compliance-with-tax-levy.md) *(repealed)*
 - [§ 2024 Reference to commissioner of education](2024-reference-to-commissioner-of-education.md)
 - [§ 2025 Procedures at school district meetings](2025-procedures-at-school-district-meetings.md)
 - [§ 2029 Poll list](2029-poll-list.md)

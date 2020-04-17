@@ -40,9 +40,9 @@ persons named in the report.
 interpretation and assessment of reports of abuse and maltreatment made
 to the statewide central register described in section four hundred
 twenty-two of this article. Such guidelines shall include information,
-standards and criteria for the identification of credible evidence of
-alleged abuse and maltreatment required to determine whether a report
-may be indicated.
+standards and criteria for the identification of evidence of alleged
+abuse and maltreatment as required to determine whether a report may be
+indicated pursuant to this article.
   3. promulgate regulations setting forth requirements for the
 performance by local social services departments of the duties and
 powers imposed and conferred upon them by the provisions of this title

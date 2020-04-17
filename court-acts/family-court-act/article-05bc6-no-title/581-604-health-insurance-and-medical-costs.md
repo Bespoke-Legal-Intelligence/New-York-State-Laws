@@ -1,0 +1,23 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 581-604", "kind": "section", "law_id": "FCT", "location_id": "581-604", "path": "ARTICLE 5-BC6 › SECTION 581-604", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/581-604.md", "title": "Health insurance and medical costs"} -->
+# Family Court Act § 581-604 — Health insurance and medical costs
+
+[Family Court Act](../README.md) › [Article 5-BC6 — No title](README.md)
+
+```text
+  * § 581-604. Health insurance and medical costs. A person acting as
+surrogate has the right to have a comprehensive health insurance policy
+that covers preconception care, prenatal care, major medical treatments,
+hospitalization and behavioral health care for a term that extends
+throughout the duration of the expected pregnancy and for twelve months
+after the birth of the child, a stillbirth, a miscarriage resulting in
+termination of pregnancy, or termination of the pregnancy, to be paid
+for by the intended parent or parents. The intended parent or parents
+shall also pay for or reimburse the person acting as surrogate for all
+co-payments, deductibles and any other out-of-pocket medical costs
+associated with pregnancy, childbirth, or postnatal care that accrue
+through twelve months after the birth of the child, a stillbirth, a
+miscarriage, or the termination of the pregnancy. A person acting as a
+surrogate who is receiving no compensation may waive the right to have
+the intended parent or parents make such payments or reimbursements.
+  * NB Effective February 15, 2021
+```

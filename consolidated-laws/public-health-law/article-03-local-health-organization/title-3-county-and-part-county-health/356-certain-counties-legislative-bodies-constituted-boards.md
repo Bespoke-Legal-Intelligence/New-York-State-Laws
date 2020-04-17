@@ -16,16 +16,17 @@ having a county charter, optional or alternative form of government,
 shall constitute the board of health of such county and shall have all
 the powers and duties of a board of health of a county or part-county
 health district including the power to appoint a full-time or part-time
-county health director.  The county health director may serve as
-director of the physically handicapped children's program and may employ
-such persons as shall be necessary to enable him to carry into effect
-the orders and regulations of the board of health and the provisions of
-this chapter and of the sanitary code, and fix their compensation within
-the limits of the appropriation therefor. The members of a legsiative
-body shall not receive additional compensation by reason of serving as
-members of a board of health. The county health director, so appointed,
-shall have all the powers and duties prescribed in section three hundred
-fifty-two of this article.
+county health director. The county health director may serve as director
+of the children and youth with special health care needs support
+services program and may employ such persons as shall be necessary to
+enable the county health director to carry into effect the orders and
+regulations of the board of health and the provisions of this chapter
+and of the sanitary code, and fix their compensation within the limits
+of the appropriation therefor. The members of a legislative body shall
+not receive additional compensation by reason of serving as members of a
+board of health. The county health director, so appointed, shall have
+all the powers and duties prescribed in section three hundred fifty-two
+of this title.
   2. (a) With the approval of the county health director, the trustee or
 board of trustees of any common school district or the board of
 education of any union free school district or central school district

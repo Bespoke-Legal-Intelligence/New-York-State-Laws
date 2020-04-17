@@ -21,9 +21,6 @@ factors in the area in which the hospice is located, costs of hospice
 programs of comparable size, the need for incentives to improve services
 and institute economies, and applicable medicare reimbursement
 regulations.
-  4. Subject to the availability of funds, the provisions of clause (B)
-of subparagraph (iii) of paragraph (e) of subdivision one of section
-twenty-eight hundred seven-c of this chapter shall apply to hospices.
   5. The commissioner shall establish a methodology as of July first,
 two thousand eighteen subject to federal financial participation that
 shall ensure a prospective ten-percent increase in the medicaid

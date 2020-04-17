@@ -18,27 +18,37 @@ assessments required by this section. In addition, the department shall
 provide technical assistance and such other assistance as may be
 necessary to assist such districts in assuring access to the program for
 eligible individuals.
-  2. Eligibility. All eligible individuals receiving home care shall be
-provided notice of the availability of the program, and no less
-frequently than annually thereafter, and shall have the opportunity to
-apply for participation in the program. Each social services district
-shall file an implementation plan with the commissioner of the
-department of health, which shall be updated annually. Such updates
-shall be submitted no later than November thirtieth of each year.
-Beginning on June thirtieth, two thousand nine, the plans and updates
-submitted by districts shall require the approval of the department.
-Implementation plans shall include district enrollment targets, describe
-methods for the provision of notice and assistance to interested
-individuals eligible for enrollment in the program, and shall contain
-such other information as shall be required by the department. An
-"eligible individual", for purposes of this section is a person who:
-  (a) is eligible for long term care and services provided by a
+  2. Eligibility.  All eligible individuals receiving home care shall
+have the opportunity to apply for participation in the program no less
+than annually. Each social services district shall file an
+implementation plan with the commissioner of the department of health,
+which shall be updated annually. Such updates shall be submitted no
+later than November thirtieth of each year. Beginning on June thirtieth,
+two thousand nine, the plans and updates submitted by districts shall
+require the approval of the department. Implementation plans shall
+include district enrollment targets, describe methods for the provision
+of notice and assistance to interested individuals eligible for
+enrollment in the program, and shall contain such other information as
+shall be required by the department. An "eligible individual", for
+purposes of this section is a person who:
+  * (a) is eligible for long term care and services provided by a
 certified home health agency, long term home health care program or AIDS
 home care program authorized pursuant to article thirty-six of the
 public health law, or is eligible for personal care services provided
 pursuant to this article;
+  * NB Effective until October 1, 2020
+  * (a) is eligible for long term care and services provided by a
+certified home health agency, long term home health care program or AIDS
+home care program authorized pursuant to article thirty-six of the
+public health law, or is eligible for personal care services provided
+pursuant to this article, and who with the provision of such services is
+capable of safely remaining in the community in accordance with the
+standards set forth in Olmstead v. LC by Zimring, 527 US 581 (1999) and
+consider whether an individual is capable of safely remaining in the
+community;
+  * NB Effective October 1, 2020
   (b) is eligible for medical assistance;
-  (c) has been determined by the social services district, pursuant to
+  * (c) has been determined by the social services district, pursuant to
 an assessment of the person's appropriateness for the program, conducted
 with an appropriate long term home health care program, a certified home
 health agency, or an AIDS home care program or pursuant to the personal
@@ -49,6 +59,26 @@ a designated relative or other adult who is able and willing to assist
 in making informed choices, as to the type and quality of services,
 including but not limited to such services as nursing care, personal
 care, transportation and respite services; and
+  * NB Effective until October 1, 2020
+  * (c) has been determined by the social services district, pursuant to
+an assessment of the person's appropriateness for the program, conducted
+with an appropriate long term home health care program, a certified home
+health agency, or an AIDS home care program or pursuant to the personal
+care program, as being in need of home care services or private duty
+nursing and as needing at least limited assistance with physical
+maneuvering with more than two activities of daily living, or for
+persons with a dementia or Alzheimer's diagnosis, as needing at least
+supervision with more than one activity of daily living, provided that
+the provisions related to activities of daily living in this paragraph
+shall only apply to persons who initially seek eligibility for the
+program on or after October first, two thousand twenty, and who is able
+and willing or has a designated representative, including a legal
+guardian able and willing to make informed choices, or a designated
+relative or other adult who is able and willing to assist in making
+informed choices, as to the type and quality of services, including but
+not limited to such services as nursing care, personal care,
+transportation and respite services; and
+  * NB Effective October 1, 2020
   (d) meets such other criteria, as may be established by the
 commissioner, which are necessary to effectively implement the
 objectives of this section.
@@ -58,30 +88,35 @@ such program as mutually agreed to by the eligible individual and
 provider and as documented in the eligible individual's record,
 including, but not limited to, recruiting, hiring and supervising their
 personal assistants. For the purposes of this section, personal
-assistant shall mean an adult who provides services under this section
-to the eligible individual under the eligible individual's instruction,
-supervision and direction or under the instruction, supervision and
-direction of the eligible individual's designated representative,
-provided that a person legally responsible for an eligible individual's
-care and support, an eligible individual's spouse or designated
-representative may not be the personal assistant for the eligible
-individual; however, a personal assistant may include any other adult
-relative of the eligible individual, provided, however, that the program
-determines that the services provided by such relative are consistent
-with an individual's plan of care and that the aggregate cost for such
-services does not exceed the aggregate costs for equivalent services
-provided by a non-relative personal assistant. Such individuals shall be
-assisted as appropriate with service coverage, supervision, advocacy and
-management. Providers shall not be liable for fulfillment of
-responsibilities agreed to be undertaken by the eligible individual.
-This subdivision, however, shall not diminish the participating
-provider's liability for failure to exercise reasonable care in properly
-carrying out its responsibilities under this program, which shall
-include monitoring such individual's continuing ability to fulfill those
-responsibilities documented in his or her records. Failure of the
-individual to carry out his or her agreed to responsibilities may be
-considered in determining such individual's continued appropriateness
-for the program.
+assistant shall mean an adult who has obtained an individual unique
+identifier from the state by or before a date determined by the
+commissioner of health in consultation with the Medicaid inspector
+general, and provides services under this section to the eligible
+individual under the eligible individual's instruction, supervision and
+direction or under the instruction, supervision and direction of the
+eligible individual's designated representative, provided that a person
+legally responsible for an eligible individual's care and support, an
+eligible individual's spouse or designated representative may not be the
+personal assistant for the eligible individual; however, a personal
+assistant may include any other adult relative of the eligible
+individual, provided, however, that the program determines that the
+services provided by such relative are consistent with an individual's
+plan of care and that the aggregate cost for such services does not
+exceed the aggregate costs for equivalent services provided by a
+non-relative personal assistant. Any personal information submitted to
+obtain such unique identifier shall be maintained as confidential
+pursuant to article six-A of the public officers law ("New York state
+privacy protection law"). Such individuals shall be assisted as
+appropriate with service coverage, supervision, advocacy and management.
+Providers shall not be liable for fulfillment of responsibilities agreed
+to be undertaken by the eligible individual. This subdivision, however,
+shall not diminish the participating provider's liability for failure to
+exercise reasonable care in properly carrying out its responsibilities
+under this program, which shall include monitoring such individual's
+continuing ability to fulfill those responsibilities documented in his
+or her records. Failure of the individual to carry out his or her agreed
+to responsibilities may be considered in determining such individual's
+continued appropriateness for the program.
   4. Participating providers. All agencies or individuals who meet the
 qualifications to provide home health, personal care or nursing services
 and who elect to provide such services to persons receiving medical

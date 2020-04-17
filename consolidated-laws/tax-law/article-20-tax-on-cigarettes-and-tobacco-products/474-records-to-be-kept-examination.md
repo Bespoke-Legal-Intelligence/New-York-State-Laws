@@ -79,4 +79,16 @@ and assessed by this article, each such person is hereby directed and
 required to give to the commissioner of taxation and finance or his duly
 authorized representatives, the means, facilities and opportunity for
 such examinations as are herein provided for and required.
+  5. Every accredited college, university or hospital that receives
+research tobacco products as defined in subdivision twenty of section
+four hundred seventy of this article shall, in good faith, file an
+annual information return on or before the last day of January reporting
+all research tobacco products received by such college, university or
+hospital or its affiliated researcher within the preceding calendar
+year. Such return shall be in the form and shall include such
+information as the commissioner prescribes by regulation. Any person
+required to file an information return by this subdivision who willfully
+fails to timely file such return or willfully fails to provide any
+material information required to be reported on such return may be
+subject to a penalty of up to one thousand dollars.
 ```

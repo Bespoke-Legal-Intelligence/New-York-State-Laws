@@ -33,6 +33,7 @@
 - [§ 837-R Office of sex offender management](837r-office-of-sex-offender-management.md)
 - [§ 837-S Search for sex offense conviction records of emergency medical technician and other first responder applicants](837s-search-for-sex-offense-conviction-records-of-emergency-medical-technician.md)
 - [§ 837-T Use of force reporting](837t-use-of-force-reporting.md)
+- [§ 837-U The division of criminal justice services, in conjunction with the chief administrator of the courts, shall collect data and report annua...](837u-the-division-of-criminal-justice-services-in-conjunction-with-the-chief.md)
 - [§ 838 Identification of unknown dead and missing persons](838-identification-of-unknown-dead-and-missing-persons.md)
 - [§ 838-A Maintenance of sexual offense evidence kits](838a-maintenance-of-sexual-offense-evidence-kits.md)
 - [§ 838-B Victim's right to notice](838b-victims-right-to-notice.md)
@@ -98,6 +99,10 @@ Section 835.     Definitions.
                    medical technician and other first responder
                    applicants.
         837-t.   Use of force reporting.
+        837-u.   The division of criminal justice services, in
+                   conjunction with the chief administrator of the
+                   courts, shall collect data and report annually
+                   regarding pretrial release and detention.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

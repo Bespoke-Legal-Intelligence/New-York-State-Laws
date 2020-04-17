@@ -93,6 +93,12 @@ health, in consultation with the commissioner and the superintendent of
 financial services. Approved clinical review criteria shall have inter
 rater reliability testing completed by December thirty-first, two
 thousand nineteen.
+  (k) Establishment of a requirement that emergency department and
+inpatient hospital services rendered by a general hospital certified
+pursuant to article twenty-eight of this chapter to an enrollee to treat
+COVID-19 during a declared state disaster emergency related to COVID-19
+shall not be denied on retrospective review on the basis that such
+services were not medically necessary.
   2. Each utilization review agent shall assure adherence to the
 requirements stated in subdivision one of this section by all
 contractors, subcontractors, subvendors, agents and employees affiliated

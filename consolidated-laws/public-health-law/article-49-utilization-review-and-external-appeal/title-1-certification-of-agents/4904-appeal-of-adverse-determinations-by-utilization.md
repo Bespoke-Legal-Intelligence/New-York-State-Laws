@@ -83,12 +83,14 @@ necessary information to file the appeal from said determination. The
 utilization review agent must provide written acknowledgment of the
 filing of the appeal to the appealing party within fifteen days of such
 filing and shall make a determination with regard to the appeal within
-sixty days of the receipt of necessary information to conduct the
-appeal. The utilization review agent shall notify the enrollee, the
-enrollee's designee and, where appropriate, the enrollee's health care
-provider, in writing, of the appeal determination within two business
-days of the rendering of such determination. The notice of the appeal
-determination shall include:
+thirty days of the receipt of necessary information to conduct the
+appeal and, upon overturning the adverse determination, shall comply
+with subsection (a) of section three thousand two hundred twenty-four-a
+of the insurance law as applicable. The utilization review agent shall
+notify the enrollee, the enrollee's designee and, where appropriate, the
+enrollee's health care provider, in writing, of the appeal determination
+within two business days of the rendering of such determination. The
+notice of the appeal determination shall include:
   (a) the reasons for the determination; provided, however, that where
 the adverse determination is upheld on appeal, the notice shall include
 the clinical rationale for such determination; and
@@ -97,7 +99,21 @@ with a description, jointly promulgated by the commissioner and the
 superintendent of financial services as required pursuant to subdivision
 five of section forty-nine hundred fourteen of this article, of the
 external appeal process established pursuant to title two of this
-article and the time frames for such external appeals.
+article and the time frames for such external appeals. A utilization
+review agent shall have procedures for obtaining an enrollee's, or
+enrollee's designee's, preference for receiving notifications, which
+shall be in accordance with applicable federal law and with guidance
+developed by the commissioner. Written and telephone notification to an
+enrollee or the enrollee's designee under this section may be provided
+by electronic means where the enrollee or the enrollee's designee has
+informed the organization in advance of a preference to receive such
+notifications by electronic means. An organization shall permit the
+enrollee and the enrollee's designee to change the preference at any
+time. To the extent practicable, written and telephone notification to
+the enrollee's health care provider shall be transmitted electronically,
+in a manner and in a form agreed upon by the parties. The utilization
+review agent shall retain documentation of preferred notification
+methods and present such records to the commissioner upon request.
   4. Both expedited and standard appeals shall only be conducted by
 clinical peer reviewers, provided that any such appeal shall be reviewed
 by a clinical peer reviewer other than the clinical peer reviewer who

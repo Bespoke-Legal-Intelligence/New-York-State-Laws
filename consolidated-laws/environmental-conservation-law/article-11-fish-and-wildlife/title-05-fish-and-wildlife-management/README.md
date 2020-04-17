@@ -28,6 +28,7 @@
 - [§ 11-0535 Endangered and threatened species, species of special concern](11-0535-endangered-and-threatened-species-species-of-special.md)
 - [§ 11-0535-A Illegal ivory articles and rhinoceros horns](11-0535-a-illegal-ivory-articles-and-rhinoceros-horns.md)
 - [§ 11-0535-B Vulnerable species](11-0535-b-vulnerable-species.md)
+- [§ 11-0535-C Endangered and threatened species mitigation bank fund](11-0535-c-endangered-and-threatened-species-mitigation-bank.md)
 - [§ 11-0536 Sale of certain wild animals or wild animal products prohibited](11-0536-sale-of-certain-wild-animals-or-wild-animal-products.md)
 - [§ 11-0537 Bald and golden eagles; prohibited acts](11-0537-bald-and-golden-eagles-prohibited-acts.md)
 - [§ 11-0538 Direct contact between public and big cats prohibited](11-0538-direct-contact-between-public-and-big-cats.md)
@@ -77,6 +78,8 @@ Section 11-0501.   Fish and wildlife management practices cooperative
                      concern.
         11-0535-a. Illegal ivory articles and rhinoceros horns.
         11-0535-b. Vulnerable species.
+        11-0535-c. Endangered and threatened species mitigation bank
+                     fund.
         11-0536.   Sale of certain wild animals or wild animal products
                      prohibited.
         11-0537.   Bald and golden eagles; prohibited acts.

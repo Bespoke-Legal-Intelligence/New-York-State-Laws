@@ -14,6 +14,7 @@
 - [§ 108 Applicability of business corporation law to insurers](108-applicability-of-business-corporation-law-to-insurers.md)
 - [§ 109 Penalties; civil actions](109-penalties-civil-actions.md)
 - [§ 110 Cooperation with other regulatory agencies](110-cooperation-with-other-regulatory-agencies.md)
+- [§ 111 Investigation by the superintendent with respect to prescription drugs](111-investigation-by-the-superintendent-with-respect-to-prescription-drugs.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -30,7 +31,9 @@ Section 101. Short title.
         107. Definitions of terms of general use in this chapter.
         108. Applicability of business corporation law to insurers.
         109. Penalties; civil actions.
-        110. Cooperation with other regulatory agencies.
+110.    Cooperation with other regulatory agencies.
+         111.Investigation by the superintendent with respect to
+               prescription drugs.
 ```
 
 </details>

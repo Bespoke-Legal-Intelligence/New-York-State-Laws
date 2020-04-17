@@ -34,7 +34,8 @@ not limited to home and community-based and institution-based long term
 care and ancillary services (that shall include medical supplies and
 nutritional supplements) that are necessary to meet the needs of persons
 whom the plan is authorized to enroll. The managed long term care plan
-may also cover primary care and acute care if so authorized.
+may also cover primary care, acute care and behavioral health services
+if so authorized.
   2. Certificate of authority; form. An eligible applicant shall submit
 an application for a certificate of authority to operate a managed long
 term care plan upon forms prescribed by the commissioner. Such eligible
@@ -139,12 +140,16 @@ regulations promulgated pursuant thereto. To the extent that the
 provisions of this section are inconsistent with the provisions of this
 chapter or the provisions of the insurance law, the provisions of this
 section shall prevail.
-  6. Approval authority. (a) An applicant shall be issued a certificate
+  6. Approval authority.  (a) An applicant shall be issued a certificate
 of authority as a managed long term care plan upon a determination by
 the commissioner that the applicant complies with the operating
 requirements for a managed long term care plan under this section. The
 commissioner shall issue no more than seventy-five certificates of
 authority to managed long term care plans pursuant to this section.
+Nothing in this section shall be construed as requiring the department
+to contract with or to contract for a particular line of business with
+an entity certified under this section for the provision of services
+available under title eleven of article five of the social services law.
   (b) An operating demonstration shall be issued a certificate of
 authority as a managed long term care plan upon a determination by the
 commissioner that such demonstration complies with the operating
@@ -162,6 +167,78 @@ determines that the applicant meets the requirements of subdivision
 three of this section. The majority leader of the senate or the speaker
 of the assembly may assign their authority to recommend one or more
 applicants under this section to the commissioner.
+  (d) (i) Effective April first, two thousand twenty, and expiring March
+thirty-first, two thousand twenty-two, the commissioner shall place a
+moratorium on the processing and approval of applications seeking a
+certificate of authority as a managed long term care plan pursuant to
+this section, including applications seeking authorization to expand an
+existing managed long term care plan's approved service area or scope of
+eligible enrollee populations. Such moratorium shall not apply to:
+  (A) applications submitted to the department prior to January first,
+two thousand twenty;
+  (B) applications seeking approval to transfer ownership or control of
+an existing managed long term care plan;
+  (C) applications demonstrating to the commissioner's satisfaction that
+submission of the application for consideration would be appropriate to
+address a serious concern with care delivery, such as a lack of adequate
+access to managed long term care plans in a geographic area or a lack of
+adequate and appropriate care, language and cultural competence, or
+special needs services; and
+  (D) applications seeking to operate under the PACE (Program of
+All-Inclusive Care for the Elderly) model as authorized by federal
+public law 105-33, subtitle I of title IV of the Balanced Budget Act of
+1997, or to serve individuals dually eligible for services and benefits
+under titles XVIII and XIX of the federal social security act in
+conjunction with an affiliated Medicare Dual Eligible Special Needs
+Plan, based on the need for such plans and the experience of applicants
+in serving dually eligible individuals as determined by the commissioner
+in their discretion.
+  (ii) For the duration of the moratorium, the commissioner shall assess
+the public need for managed long term care plans that are not integrated
+with an affiliated Medicare plan, the ability of such plans to provide
+high quality and cost effective care for their membership, and based on
+such assessment develop a process and conduct an orderly wind-down and
+elimination of such plans, which shall coincide with the expiration of
+the moratorium unless the commissioner determines that a longer
+wind-down period is needed.
+  (e) For the duration of the moratorium under paragraph (d) of this
+subdivision, the commissioner shall establish, and enforce by means of a
+premium withholding equal to three percent of the base rate, an annual
+cap on total enrollment (enrollment cap) for each managed long term care
+plan, subject to subparagraphs (ii) and (iii) of this paragraph, based
+on a percentage of each plan's reported enrollment as of October first,
+two thousand twenty.
+  (i) The specific percentage of each plan's enrollment cap shall be
+established by the commissioner based on: (A) the ability of individuals
+eligible for such plans to access health and long term care services,
+(B) plan quality of care scores, (C) historical plan disenrollment, (D)
+the projected growth of individuals eligible for such plans in different
+regions of the state, (E) historical plan enrollment of patients with
+varying levels of need and acuity, and (F) other factors in the
+commissioner's discretion to ensure compliance with federal
+requirements, appropriate access to plan services, and choice by
+eligible individuals.
+  (ii) In the event that a plan exceeds its annual enrollment cap, the
+commissioner is authorized under this paragraph to retain all or a
+portion of the premium withheld based on the amount over which a plan
+exceeds its enrollment cap. Penalties assessed pursuant to this
+subdivision shall be determined by regulation.
+  (iii) The commissioner may not establish an annual cap on total
+enrollment under this paragraph for plans' lines of business operating
+under the PACE (Program of All-Inclusive Care for the Elderly) model as
+authorized by federal public law 105-33, subtitle I of title IV of the
+Balanced Budget Act of 1997, or that serve individuals dually eligible
+for services and benefits under titles XVIII and XIX of the federal
+social security act in conjunction with an affiliated Medicare Dual
+Eligible Special Needs Plan.
+  (f) In implementing the provisions of paragraphs (d) and (e) of this
+subdivision, the commissioner shall, to the extent practicable, consider
+and select methodologies that seek to maximize continuity of care and
+minimize disruption to the provider labor workforce, and shall, to the
+extent practicable and consistent with the ratios set forth herein,
+continue to support contracts between managed long term care plans and
+licensed home care services agencies that are based on a commitment to
+quality and value.
   7. Program oversight and administration. (a)(i) The commissioner shall
 promulgate regulations to implement this section and to ensure the
 quality, appropriateness and cost-effectiveness of the services provided
@@ -232,6 +309,16 @@ care plans and other care coordination models and to develop guidelines
 for such care coordination models. The guidelines shall be finalized and
 posted on the department's website no later than November fifteen, two
 thousand eleven.
+  (iii) Notwithstanding and in addition to any provision of subparagraph
+(i) of this paragraph and subject to any federal requirements, persons
+dually eligible for medical assistance and benefits under the federal
+Medicare program who are enrolled in a Medicare Dual Eligible Special
+Needs Plan and who do not require community-based long term care
+services, as specified by the commissioner, for a continuous period of
+more than one hundred and twenty days shall be required to enroll with
+an available affiliated plan certified pursuant to this section when
+program features and reimbursement rates are approved by the
+commissioner.
   (v) The following medical assistance recipients shall not be eligible
 to participate in a managed long term care program or other care
 coordination model established pursuant to this paragraph until program
@@ -270,11 +357,21 @@ hundred sixty-six of the social services law;
   (11) a person who is eligible for medical assistance pursuant to
 paragraph (b) of subdivision four of section three hundred sixty-six of
 the social services law;
-  (12) Native Americans; and
+  (12) Native Americans;
   (13) a person who is permanently placed in a nursing home for a
 consecutive period of three months or more. In implementing this
 provision, the department shall continue to support service delivery and
-outcomes that result in community living for enrollees.
+outcomes that result in community living for enrollees; and
+  (14) a person who has not been assessed as needing at least limited
+assistance with physical maneuvering with more than two activities of
+daily living, or for individuals with a dementia or Alzheimer's
+diagnosis, assessed as needing at least supervision with more than one
+activity of daily living, as defined and determined using an evidenced
+based validated assessment instrument approved by the commissioner and
+in accordance with applicable state and federal law and regulations of
+the department, provided that the provisions of this clause shall not
+apply to a person who has been continuously enrolled in a managed long
+term care program beginning prior to October first, two thousand twenty.
   (v-a) For purposes of clause two of subparagraph (v) of this
 paragraph, program features shall be substantially comparable to those
 services available to traumatic brain injury waiver participants as of
@@ -301,8 +398,12 @@ shall have no less than thirty days to select a managed long term care
 provider, and shall be provided with information to make an informed
 choice. Where a participant has not selected such a provider, the
 commissioner shall assign such participant to a managed long term care
-provider, taking into account quality, capacity and geographic
-accessibility.
+provider, taking into account consistency with any prior community-based
+direct care workers having recently served the recipient, quality
+performance criteria, capacity and geographic accessibility. During the
+period prior to receiving services from a managed long term care
+provider assigned under this subparagraph, the person may receive
+services under fee for service Medicaid.
   (vii) If another long term care plan certified under this section is
 available, medical assistance recipients required to enroll in such
 plans pursuant to this section, including recipients who have been
@@ -432,9 +533,9 @@ a contractor selected pursuant to paragraph (d) of this subdivision.
 demonstration paid for by government funds shall be based upon a
 comprehensive assessment of the medical, social and environmental needs
 of the recipient of the services. Such assessment shall be performed at
-least every six months by the managed long term care plan serving the
-enrollee. The commissioner shall prescribe the forms on which the
-assessment will be made.
+least annually by the managed long term care plan serving the enrollee.
+The commissioner shall prescribe the forms on which the assessment will
+be made.
   (h) * The commissioner and, in the case of a plan arranging for or
 providing services operated, certified, funded, authorized or approved
 by the office for people with developmental disabilities, the

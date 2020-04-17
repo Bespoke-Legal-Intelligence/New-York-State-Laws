@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Public Health Law § 1399-II-1", "kind": "section", "law_id": "PBH", "location_id": "1399-II-1", "path": "ARTICLE 13-F › SECTION 1399-II-1", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1399-II-1.md", "title": "Electronic cigarette and vaping prevention, awareness and control program"} -->
+# Public Health Law § 1399-II-1 — Electronic cigarette and vaping prevention, awareness and control program
+
+[Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
+
+```text
+  * § 1399-ii-1. Electronic cigarette and vaping prevention, awareness
+and control program. The commissioner shall, in consultation and
+collaboration with the commissioner of education, establish and develop
+an electronic cigarette and vaping prevention, control and awareness
+program within the department. Such program shall be designed to educate
+students, parents and school personnel about the health risks associated
+with vapor product use and control measures to reduce the prevalence of
+vaping, particularly among persons less than twenty-one years of age.
+Such program shall include, but not be limited to, the creation of
+age-appropriate instructional tools and materials that may be used by
+all schools, and marketing and advertising materials to discourage
+electronic cigarette use.
+  * NB Effective July 1, 2020
+```

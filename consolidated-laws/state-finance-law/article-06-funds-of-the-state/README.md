@@ -210,6 +210,7 @@
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-SSSS\*2 Elevator and related conveyances safety program account](97ssss-2-elevator-and-related-conveyances-safety-program-account.md)
+- [§ 97-TTTT Restore mother nature bond fund](97tttt-restore-mother-nature-bond-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-YYYY Arts fund](97yyyy-arts-fund.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
@@ -262,6 +263,9 @@
 - [§ 99-FF\*2 New York central business district trust fund](99ff-2-new-york-central-business-district-trust-fund.md)
 - [§ 99-GG Golf fund](99gg-golf-fund.md)
 - [§ 99-HH Criminal justice discovery compensation fund](99hh-criminal-justice-discovery-compensation-fund.md)
+- [§ 99-HH\*2 Public health emergency charitable gifts trust fund](99hh-2-public-health-emergency-charitable-gifts-trust-fund.md)
+- [§ 99-HH\*3 Endangered and threatened species mitigation bank fund](99hh-3-endangered-and-threatened-species-mitigation-bank-fund.md)
+- [§ 99-HH\*4 Behavioral health parity compliance fund](99hh-4-behavioral-health-parity-compliance-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -515,6 +519,7 @@ Section 70.        Classification of funds.
                      and treatment fund.
         97-ssss*2. Elevator and related conveyances safety program
                      account.
+        97-tttt.   Restore mother nature bond fund.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
@@ -576,6 +581,10 @@ Section 70.        Classification of funds.
         99-ff*2.   New York central business district trust fund.
         99-gg.     Golf fund.
         99-hh.     Criminal justice discovery compensation fund.
+        99-hh*2.   Public health emergency charitable gifts trust fund.
+        99-hh*3.   Endangered and threatened species mitigation bank
+                     fund.
+        99-hh*4.   Behavioral health parity compliance fund.
 ```
 
 </details>

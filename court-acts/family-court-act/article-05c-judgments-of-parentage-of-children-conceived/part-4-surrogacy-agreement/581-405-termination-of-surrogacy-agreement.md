@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 581-405", "kind": "section", "law_id": "FCT", "location_id": "581-405", "path": "ARTICLE 5-C › PART 4 › SECTION 581-405", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/581-405.md", "title": "Termination of surrogacy agreement"} -->
+# Family Court Act § 581-405 — Termination of surrogacy agreement
+
+[Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
+
+```text
+  * § 581-405. Termination of surrogacy agreement. After the execution
+of a surrogacy agreement but before the person acting as surrogate
+becomes pregnant by means of assisted reproduction, the person acting as
+surrogate, the spouse of the person acting as surrogate, if applicable,
+or any intended parent may terminate the surrogacy agreement by giving
+notice of termination in a record to all other parties. Upon proper
+termination of the surrogacy agreement the parties are released from all
+obligations recited in the surrogacy agreement except that the intended
+parent or parents remains responsible for all expenses that are
+reimbursable under the agreement which have been incurred by the person
+acting as surrogate through the date of termination. If the intended
+parent or parents terminate the surrogacy agreement pursuant to this
+section after the person acting as surrogate has taken any medication or
+commenced treatment to further embryo transfer, such intended parent or
+parents shall be responsible for paying for or reimbursing the person
+acting as surrogate for all co-payments, deductibles, any other
+out-of-pocket medical costs, and any other economic losses incurred
+within twelve months of the termination of the agreement and associated
+with taking such medication or undertaking such treatment. Unless the
+agreement provides otherwise, the person acting as surrogate is entitled
+to keep all payments received and obtain all payments to which the
+person is entitled up until the date of termination of the agreement.
+Neither a person acting as surrogate nor the spouse of the person acting
+as surrogate, if any, is liable to the intended parent or parents for
+terminating a surrogacy agreement as provided in this section.
+  * NB Effective February 15, 2021
+```

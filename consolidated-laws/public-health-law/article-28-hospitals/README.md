@@ -81,7 +81,6 @@
 - [§ 2806-B Residential health care facilities; revocation of operating certificate](2806b-residential-health-care-facilities-revocation-of-operating-certificate.md)
 - [§ 2807 Hospital reimbursement provisions; generally](2807-hospital-reimbursement-provisions-generally.md)
 - [§ 2807-A General hospital nineteen hundred eighty-six and nineteen hundred eighty-seven inpatient rates and charges](2807a-general-hospital-nineteen-hundred-eighty-six-and-nineteen-hundred-eighty-seven.md)
-- [§ 2807-BBB Health occupation development and workplace demonstration programs](2807bbb-health-occupation-development-and-workplace-demonstration-programs.md)
 - [§ 2807-B Outstanding payments and reports due under subdivision eighteen of section twenty-eight hundred seven-c, sections twenty-eight hundred se...](2807b-outstanding-payments-and-reports-due-under-subdivision-eighteen-of-section.md)
 - [§ 2807-C General hospital inpatient reimbursement for annual rate periods beginning on or after January first, nineteen hundred eighty-eight](2807c-general-hospital-inpatient-reimbursement-for-annual-rate-periods-beginning.md)
 - [§ 2807-D Hospital assessments](2807d-hospital-assessments.md)
@@ -89,7 +88,6 @@
 - [§ 2807-D-1 Hospital quality contributions](2807d-1-hospital-quality-contributions.md)
 - [§ 2807-E Uniform bills](2807e-uniform-bills.md)
 - [§ 2807-F Health maintenance organization payment factor](2807f-health-maintenance-organization-payment-factor.md)
-- [§ 2807-G Health workforce retraining program](2807g-health-workforce-retraining-program.md)
 - [§ 2807-I Service and quality improvement grants](2807i-service-and-quality-improvement-grants.md)
 - [§ 2807-J Patient services payments](2807j-patient-services-payments.md)
 - [§ 2807-K General hospital indigent care pool](2807k-general-hospital-indigent-care-pool.md)
@@ -249,14 +247,11 @@ Section 2800.     Declaration of policy and statement of purpose.
         2807-a.   General hospital nineteen hundred eighty-six and
                     nineteen hundred eighty-seven inpatient rates and
                     charges.
-        2807-b.    Outstanding payments and reports due under
-                    subdivision eighteen of section twenty-eight hundred
-                    seven-c, sections twenty-eight hundred seven-d,
-                    twenty-eight hundred seven-j, twenty-eight hundred
-                    seven-s and twenty-eight hundred seven-t of this
-                    article.
-        2807-bbb. Health occupation development and workplace
-                    demonstration programs.
+        2807-b.   Outstanding payments and reports due under subdivision
+                    eighteen of section twenty-eight hundred seven-c,
+                    sections twenty-eight hundred seven-d, twenty-eight
+                    hundred seven-j, twenty-eight hundred seven-s and
+                    twenty-eight hundred seven-t of this article.
         2807-c.   General hospital inpatient reimbursement for annual
                     rate periods beginning on or after January first,
                     nineteen hundred eighty-eight.

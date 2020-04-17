@@ -395,8 +395,8 @@ the department shall develop and implement a payment methodology to
 provide for timely payments for inpatient hospital services eligible for
 case based payments per discharge based on diagnosis-related groups
 provided during the period January first, nineteen hundred eighty-eight
-through March thirty-first two thousand twenty, by such hospitals which
-elect to participate in the system.
+through March thirty-first two thousand twenty-three, by such hospitals
+which elect to participate in the system.
   (b) In developing a payment methodology the department shall consider
 a system under which hospitals may be reimbursed on the basis of
 inpatient admissions, adjusted to payment on the basis of discharge

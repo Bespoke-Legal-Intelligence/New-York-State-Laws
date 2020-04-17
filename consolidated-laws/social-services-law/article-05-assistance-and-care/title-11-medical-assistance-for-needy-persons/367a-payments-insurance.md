@@ -192,8 +192,13 @@ services for which benefits are provided under the policy or contract
 are rendered. Liable third parties shall not deny a claim made by a
 social services official or the department in conformance with this
 paragraph solely on the basis of the date of submission of the claim,
-the type or format of the claim form, or a failure to present proper
-documentation at the point-of-sale that is the basis of the claim. The
+the type or format of the claim form, a failure to obtain prior
+authorization, or a failure to present proper documentation at the
+point-of-sale that is the basis of the claim. Liable third parties shall
+respond to a request for payment within sixty calendar days after
+receipt of written proof of loss or claim for payment for health care
+services provided to a recipient of Medicaid who is covered by the third
+party and shall not charge a fee to process or adjudicate a claim. The
 local social services district or the department shall also notify the
 carrier when the exercise of subrogation rights has terminated because a
 person is no longer receiving assistance under this title. Such carrier
@@ -421,7 +426,7 @@ initial prescription plus all subsequent prescriptions for the same
 underlying condition for up to a total of thirty-days supply of such
 opioid shall not exceed the amount set forth in subparagraph (iii) of
 this paragraph.
-  * NB Repealed March 31, 2024
+  * NB Repealed March 31, 2026
   (d) Co-payments shall apply to the following services, subject to such
 exceptions for subcategories of these services as recognized by the
 commissioner in regulations, provided in accordance with section three
@@ -546,32 +551,37 @@ manufacturer (as provided for under section 1927.4(b)(1)(A) of the
 federal social security act) shall provide such data by zip code, if
 requested, for drugs covered under a rebate agreement.
   * (e) During the period from April first, two thousand fifteen through
-March thirty-first, two thousand twenty, the commissioner may, in lieu
-of a managed care provider, negotiate directly and enter into an
-agreement with a pharmaceutical manufacturer for the provision of
-supplemental rebates relating to pharmaceutical utilization by enrollees
-of managed care providers pursuant to section three hundred sixty-four-j
-of this title and may also negotiate directly and enter into such an
-agreement relating to pharmaceutical utilization by medical assistance
-recipients not so enrolled. Such rebates shall be limited to drug
-utilization in the following classes: antiretrovirals approved by the
-FDA for the treatment of HIV/AIDS and hepatitis C agents for which the
-pharmaceutical manufacturer has in effect a rebate agreement with the
-federal secretary of health and human services pursuant to 42 U.S.C. §
-1396r-8, and for which the state has established standard clinical
-criteria. No agreement entered into pursuant to this paragraph shall
-have an initial term or be extended beyond the expiration or repeal of
-this paragraph.
-  (i) The manufacturer shall not pay supplemental rebates to a managed
-care provider, or any of a managed care provider's agents, including but
-not limited to any pharmacy benefit manager on the two classes of drugs
-subject to this paragraph when the state is collecting supplemental
-rebates and standard clinical criteria are imposed on the managed care
-provider.
+March thirty-first, two thousand twenty-three, the commissioner may, in
+lieu of a managed care provider or pharmacy benefit manager, negotiate
+directly and enter into an arrangement with a pharmaceutical
+manufacturer for the provision of supplemental rebates relating to
+pharmaceutical utilization by enrollees of managed care providers
+pursuant to section three hundred sixty-four-j of this title and may
+also negotiate directly and enter into such an agreement relating to
+pharmaceutical utilization by medical assistance recipients not so
+enrolled. Such rebate arrangements shall be limited to the following:
+antiretrovirals approved by the FDA for the treatment of HIV/AIDS,
+opioid dependence agents and opioid antagonists listed in a statewide
+formulary established pursuant to subparagraph (vii) of this paragraph,
+hepatitis C agents, high cost drugs as provided for in subparagraph
+(viii) of this paragraph, gene therapies as provided for in subparagraph
+(ix) of this paragraph, and any other class or drug designated by the
+commissioner for which the pharmaceutical manufacturer has in effect a
+rebate arrangement with the federal secretary of health and human
+services pursuant to 42 U.S.C. § 1396r-8, and for which the state has
+established standard clinical criteria. No agreement entered into
+pursuant to this paragraph shall have an initial term or be extended
+beyond the expiration or repeal of this paragraph.
+  (i) The manufacturer shall not enter into any rebate arrangements with
+a managed care provider, or any of a managed care provider's agents,
+including but not limited to any pharmacy benefit manager on the gene
+therapy, drug, or drug classes subject to this paragraph when the state
+has a rebate arrangement in place and standard clinical criteria are
+imposed on the managed care provider.
   (ii) The commissioner shall establish adequate rates of reimbursement
 which shall take into account both the impact of the commissioner
-negotiating such rebates and any limitations imposed on the managed care
-provider's ability to establish clinical criteria relating to the
+negotiating such arrangements and any limitations imposed on the managed
+care provider's ability to establish clinical criteria relating to the
 utilization of such drugs. In developing the managed care provider's
 reimbursement rate, the commissioner shall identify the amount of
 reimbursement for such drugs as a separate and distinct component from
@@ -583,17 +593,17 @@ December thirty-first. The report shall analyze the adequacy of rates to
 managed care providers for drug expenditures related to the classes
 under this paragraph.
   (iv) Nothing in this paragraph shall be construed to require a
-pharmaceutical manufacturer to enter into a supplemental rebate
-agreement with the commissioner relating to pharmaceutical utilization
+pharmaceutical manufacturer to enter into a rebate arrangement
+satisfactory to the commissioner relating to pharmaceutical utilization
 by enrollees of managed care providers pursuant to section three hundred
 sixty-four-j of this title or relating to pharmaceutical utilization by
 medical assistance recipients not so enrolled.
   (v) All clinical criteria, including requirements for prior approval,
 and all utilization review determinations established by the state as
-described in this paragraph for either of the drug classes subject to
-this paragraph shall be developed using evidence-based and peer-reviewed
-clinical review criteria in accordance with article two-A of the public
-health law, as applicable.
+described in this paragraph for the gene therapies, drugs, or drug
+classes subject to this paragraph shall be developed using
+evidence-based and peer-reviewed clinical review criteria in accordance
+with article two-A of the public health law, as applicable.
   (vi) All prior authorization and utilization review determinations
 related to the coverage of any drug subject to this paragraph shall be
 subject to article forty-nine of the public health law, section three
@@ -602,7 +612,110 @@ insurance law, as applicable. Nothing in this paragraph shall diminish
 any rights relating to access, prior authorization, or appeal relating
 to any drug class or drug afforded to a recipient under any other
 provision of law.
-  * NB Repealed March 31, 2023
+  (vii) The department shall publish a statewide formulary of opioid
+dependence agents and opioid antagonists, which shall include as
+"preferred drugs" all drugs in such classes, which shall include all
+subclasses of a given drug that have a different pharmacological route
+of administration, provided that:
+  (A) for all drugs that are included as of the date of the enactment of
+this subparagraph on a formulary of a managed care provider, as defined
+in section three hundred sixty-four-j of this title, or in the Medicaid
+fee-for-service preferred drug program pursuant to section two hundred
+seventy-two of the public health law, the cost to the department for
+such drug is equal to or less than the lowest cost paid for the drug by
+any managed care provider or by the Medicaid fee-for-service program
+after the application of any rebates, as of the date that the department
+implements the statewide formulary established by this subparagraph.
+Where there is a generic version of the drug approved by the Food and
+Drug Administration as bioequivalent to a brand name drug pursuant to 21
+U.S.C. § 355(j)(8)(B), the cost to the department for the brand and
+generic versions shall be equal to or less than the lower of the two
+maximum costs determined pursuant to the previous sentence; and
+  (B) for all drugs that are not included as of the date of the
+enactment of this subparagraph on a formulary of a managed care
+provider, as defined in section three hundred sixty-four-j of this
+title, or in the Medicaid fee-for-service preferred drug program
+pursuant to section two hundred seventy-two of the public health law,
+the department is able to obtain the drug at a cost that is equal to or
+less than the lowest cost to the department of other comparable drugs in
+the class, after the application of any rebates. Where there is a
+generic version of the drug approved by the Food and Drug Administration
+as bioequivalent to a brand name drug pursuant to 21 U.S.C. §
+355(j)(8)(B), the cost to the department for the brand and generic
+versions shall be equal to or less than the lower of the two maximum
+costs determined pursuant to the previous sentence.
+  (viii) The commissioner may identify and refer high cost drugs, as
+defined in clause (D) of this subparagraph, that are not included as of
+the date of the enactment of this subparagraph on a formulary of a
+managed care provider or covered by the Medicaid fee for service of
+program to the drug utilization review board established by section
+three hundred sixty-nine-bb of this article for a recommendation as to
+whether a target supplemental Medicaid rebate should be paid by the
+manufacturer of the drug to the department and the target amount of the
+rebate.
+  (A) If the commissioner intends to refer a high cost drug to the drug
+utilization review board pursuant to this subparagraph, the commissioner
+shall notify the manufacturer of such drug and shall attempt to reach
+agreement with the manufacturer on a rebate arrangement satisfactory to
+the commissioner for the drug prior to referring the drug to the drug
+utilization review board for review. Such arrangement may be based on
+evidence based research, including, but not limited to, such research
+operated or conducted by or for other state governments, the federal
+government, the governments of other nations, and third party payers or
+multi-state coalitions, provided however that the department shall
+account for the effectiveness of the drug in treating the conditions for
+which it is prescribed or in improving a patient's health, quality of
+life, or overall health outcomes, and the likelihood that use of the
+drug will reduce the need for other medical care, including
+hospitalization.
+  (B) In the event that the commissioner and the manufacturer have
+previously agreed to a rebate arrangement for a drug pursuant to this
+paragraph, the drug shall not be referred to the drug utilization review
+board for any further rebate agreement for the duration of the previous
+rebate agreement, provided however, the commissioner may refer a drug to
+the drug utilization review board if the commissioner determines there
+are significant and substantiated utilization or market changes, new
+evidence-based research, or statutory or federal regulatory changes that
+warrant additional rebates. In such cases, the department shall notify
+the manufacturer and provide evidence of the changes or research that
+would warrant additional rebates, and shall attempt to reach agreement
+with the manufacturer on a rebate for the drug prior to referring the
+drug to the drug utilization review board for review.
+  (C) If the commissioner is unsuccessful in entering into a rebate
+arrangement with the manufacturer of the drug satisfactory to the
+department, the drug manufacturer shall in that event be required to
+provide to the department, on a standard reporting form developed by the
+department, the information as described in subdivision six of section
+two hundred eighty of the public health law. All information disclosed
+pursuant to this clause shall be considered confidential and shall not
+be disclosed by the department in a form that identifies a specific
+manufacturer or prices charged for drugs by such manufacturer.
+  (D) For the purposes of this subparagraph, the term "high cost drug"
+shall mean a brand name drug or biologic that has a launch wholesale
+acquisition cost of thirty thousand dollars or more per year or course
+of treatment, or a biosimilar drug that has a launch wholesale
+acquisition cost that is not at least fifteen percent lower than the
+referenced brand biologic at the time the biosimilar is launched, or a
+generic drug that has a wholesale acquisition cost of one hundred
+dollars or more for a thirty day supply or recommended dosage approved
+for labeling by the federal Food and Drug Administration, or a brand
+name drug or biologic that has a wholesale acquisition cost increase of
+three thousand dollars or more in any twelve-month period, or course of
+treatment if less than twelve months.
+  (ix) For purposes of this paragraph, a "gene therapy" is a drug (A)
+approved under section 505 of the Federal Food, Drug and Cosmetics Act
+or licensed under subsection (a) or (k) of section 351 of the Public
+Health Services Act; (B) that treats a rare disease or condition, as
+defined in 21 USC § 360bb(a)(2), that is life-threatening, as defined in
+42 CFR 321.18; (C) is considered a gene therapy by the federal Food and
+Drug Administration for which a biologics license pursuant to 21 CFR
+600-680 is held; (D) if administered in accordance with the labeling of
+such drug, is expected to result in either the cure of such disease or
+condition or a reduction in the symptoms of such disease or condition
+that materially improves the patient's length or quality of life; and
+(E) is expected to achieve the result described in clause (D) of this
+subparagraph after not more than three administrations.
+  * NB Repealed March 31, 2026
   * (f) (1) The department may require manufacturers of drugs other than
 single source drugs and innovator multiple source drugs, as such terms
 are defined in 42 U.S.C. § 1396r-8(k), to provide rebates to the
@@ -662,7 +775,7 @@ sixteen; and
   (iv) The total drug spend on generic drugs for the preceding year in
 comparison to the total drug spend on generic drugs during two thousand
 fourteen, two thousand fifteen, and two thousand sixteen.
-  * NB Repealed March 31, 2020
+  * NB Repealed March 31, 2022
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth or a comprehensive psychiatric
@@ -675,7 +788,7 @@ title nineteen of the federal social security act to a residential
 treatment facility for children and youth for service to a person whose
 need for care and treatment in such a facility was not certified
 pursuant to section 9.51 of the mental hygiene law.
-  * NB Effective until July 1, 2020
+  * NB Effective until July 1, 2024
   * 8. No government agency shall purchase, pay for, or make
 reimbursement or grants-in-aid for any service in a residential
 treatment facility for children and youth unless at the time such
@@ -687,7 +800,7 @@ nineteen of the federal social security act to a residential treatment
 facility for children and youth for service to a person whose need for
 care and treatment in such a facility was not certified pursuant to
 section 9.51 of the mental hygiene law.
-  * NB Effective July 1, 2020
+  * NB Effective July 1, 2024
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -829,7 +942,7 @@ paragraph shall not take effect unless all necessary approvals under
 federal law and regulation have been obtained to receive federal
 financial participation in the costs of services provided under this
 paragraph.
-  * NB Effective until March 31, 2020
+  * NB Effective until March 31, 2023
   * 9. Notwithstanding any inconsistent provision of law or regulation
 to the contrary, for those drugs which may not be dispensed without a
 prescription as required by section sixty-eight hundred ten of the
@@ -876,7 +989,7 @@ cents per prescription; and
   (ii) for prescription drugs categorized as brand-name prescription
 drug by the prescription drug pricing service used by the department,
 four dollars and fifty cents per prescription.
-  * NB Effective March 31, 2020
+  * NB Effective March 31, 2023
   10. Any provider except for those providers certified under article
 twenty-eight of the public health law, of ordered services or supplies
 under the medical assistance program may be required to provide

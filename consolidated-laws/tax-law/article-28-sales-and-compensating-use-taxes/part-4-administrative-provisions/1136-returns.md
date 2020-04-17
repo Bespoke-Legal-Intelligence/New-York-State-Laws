@@ -196,7 +196,7 @@ franchisee to the franchisor, the total amount of sales by the
 franchisor to the franchisee, and any income reported to the franchisor
 by each franchisee, along with the information required by paragraph two
 of this subdivision.
-  (C) Every wholesaler, as defined by section three of the alcoholic
+  * (C) Every wholesaler, as defined by section three of the alcoholic
 beverage control law, if it has made a sale of an alcoholic beverage, as
 defined by section four hundred twenty of this chapter, without
 collecting sales or use tax during the period covered by the return,
@@ -226,6 +226,72 @@ section fifty-one of the alcoholic beverage control law who produces
 less than sixty thousand barrels of beer a year, or a person operating
 pursuant to any combination of such licenses, shall not be subject to
 any of the requirements of this subdivision.
+  * NB Effective until June 1, 2020
+  * (C) Every wholesaler, as defined by section three of the alcoholic
+beverage control law, if it has made a sale of an alcoholic beverage, as
+defined by section four hundred twenty of this chapter, without
+collecting sales or use tax during the period covered by the return,
+except (i) a sale to a person that has furnished an exempt organization
+certificate to the wholesaler for that sale; or (ii) a sale to another
+wholesaler whose license under the alcoholic beverage control law does
+not allow it to make retail sales of the alcoholic beverage. For each
+vendor, operator, or recipient to whom the wholesaler has made a sale
+without collecting sales or compensating use tax, the return must
+include the total value of those sales made during the period covered by
+the return (excepting the sales described in clauses (i) and (ii) of
+this subparagraph) and the vendor's, operator's or recipient's state
+liquor authority license number, along with the information required by
+paragraph two of this subdivision.
+  * NB Effective June 1, 2020
+  * (D) Notwithstanding the provisions of subparagraph (C) of this
+paragraph, a person operating pursuant to any of the following licenses
+shall not be subject to any of the requirements of this subdivision: (i)
+a farm winery license, as provided in section seventy-six-a of the
+alcoholic beverage control law; (ii) a winery license, as provided in
+section seventy-six of the alcoholic beverage control law, where the
+number of gallons of wine, cider and mead produced annually by such
+person does not exceed the annual limits on the number of finished
+gallons of wine, cider and mead permitted to be produced by a farm
+winery under subdivision eight of section seventy-six-a of the alcoholic
+beverage control law; (iii) a farm distillery license, as provided in
+subdivision two-c of section sixty-one of the alcoholic beverage control
+law; (iv) a distiller's license, as provided in section sixty-one of the
+alcoholic beverage control law, where the number of gallons of liquor
+produced annually by such person does not exceed the annual limits on
+the number of gallons of liquor permitted to be produced by a farm
+distillery under paragraph (f) of subdivision two-c of section sixty-one
+of the alcoholic beverage control law; (v) a farm cidery license, as
+provided in section fifty-eight-c of the alcoholic beverage control law;
+(vi) a cider producers' license, as provided in section fifty-eight of
+the alcoholic beverage control law, where the number of gallons of cider
+produced annually by such person does not exceed the annual limits on
+the number of gallons of cider permitted to be produced by a farm cidery
+under subdivision ten of section fifty-eight-c of the alcoholic beverage
+control law; (vii) a farm brewery license, as provided in section
+fifty-one-a of the alcoholic beverage control law; (viii) a brewer's
+license, as provided in section fifty-one of the alcoholic beverage
+control law, where the number of finished barrels of beer, cider and
+braggot produced annually by such person does not exceed the annual
+number of finished barrels of beer, cider and braggot permitted to be
+produced by a farm brewery under subdivision ten of section fifty-one-a
+of the alcoholic beverage control law; (ix) a farm meadery license, as
+provided in section thirty-one of the alcoholic beverage control law; or
+(x) a mead producers' license, as provided in section thirty of the
+alcoholic beverage control law, where the number of gallons of mead and
+braggot produced annually by such person does not exceed the annual
+number of finished barrels of mead and braggot permitted to be produced
+by a farm meadery under subdivision ten of section thirty-one of the
+alcoholic beverage control law. Nothing in this subparagraph shall
+exempt a person operating pursuant to multiple licenses under the
+alcoholic beverage control law from the requirements of subparagraph (C)
+of this paragraph if such person produces an amount of any alcoholic
+beverage in excess of the amounts permitted to be produced annually by a
+person who holds only a farm winery, farm cidery, farm distillery, farm
+brewery or farm meadery license for such beverage, nor shall this
+section exempt any person holding a wholesalers' license under the
+alcoholic beverage control law from the requirements of subparagraph (C)
+of this paragraph.
+  * NB Effective June 1, 2020
   (2) The returns required by paragraph one of this subdivision must
 also include, for each vendor, operator, or recipient about whom
 information is required to be reported under such paragraph, the name

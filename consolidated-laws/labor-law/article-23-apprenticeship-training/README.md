@@ -9,6 +9,7 @@
 - [§ 811 Powers and duties of industrial commissioner; personnel](811-powers-and-duties-of-industrial-commissioner-personnel.md)
 - [§ 812 Related and supplemental instruction](812-related-and-supplemental-instruction.md)
 - [§ 813 State apprenticeship and training council](813-state-apprenticeship-and-training-council.md)
+- [§ 813-A Annual reports by apprenticeship programs](813a-annual-reports-by-apprenticeship-programs.md)
 - [§ 814 Local, regional and state joint apprenticeship committees](814-local-regional-and-state-joint-apprenticeship-committees.md)
 - [§ 815 Suggested standards for apprenticeship agreements](815-suggested-standards-for-apprenticeship-agreements.md)
 - [§ 816 Apprenticeship agreements](816-apprenticeship-agreements.md)

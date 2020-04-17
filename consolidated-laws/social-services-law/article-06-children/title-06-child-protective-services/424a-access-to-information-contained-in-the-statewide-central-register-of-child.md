@@ -156,7 +156,7 @@ eight hundred thirty-seven-k of the executive law or persons residing or
 regularly visiting said location are the subject of an indicated child
 abuse and maltreatment report on file with the statewide central
 register of child abuse and maltreatment.
-  (e) (i) Subject to the provisions of subparagraph (ii) of this
+  * (e) (i) Subject to the provisions of subparagraph (ii) of this
 paragraph, the department shall inform the provider or licensing agency,
 or child care resource and referral programs pursuant to subdivision six
 of this section whether or not the person is the subject of an indicated
@@ -240,6 +240,166 @@ subject of an indicated report of child abuse and maltreatment; the
 department shall also notify the subject of the inquiry of his or her
 fair hearing rights granted pursuant to paragraph (c) of subdivision two
 of this section.
+  * NB Effective until January 1, 2022
+  * (e) (i) Subject to the provisions of subparagraph (ii) of this
+paragraph, the office of children and family services shall inform the
+provider or licensing agency, or child care resource and referral
+programs pursuant to subdivision six of this section whether or not the
+person is the subject of an indicated child abuse and maltreatment
+report only if:
+  (A) (I) the time for the subject of the report to request an amendment
+of the record of the report pursuant to subdivision eight of section
+four hundred twenty-two has expired without any such request having been
+made; or
+  (II) such request was made within such time and a fair hearing
+regarding the request has been finally determined by the commissioner
+and the record of the report has not been amended to unfound the report
+or delete the person as a subject of the report; and
+  (B) (I) the person is the subject of an indicated report of child
+abuse; or
+  (II) the person is not the subject of an indicated report of child
+abuse and is the subject of a report of child maltreatment where the
+indication for child maltreatment occurred within less than eight years
+from the date of the inquiry.
+  (ii) If the subject of an indicated report of child abuse or
+maltreatment has not requested an amendment of the record of the report
+and an inquiry is made to the office of children and family services
+pursuant to this subdivision concerning the subject of the report, such
+office shall, as expeditiously as possible but within no more than ten
+working days of receipt of the inquiry, determine whether, in fact, the
+person about whom an inquiry is made is the subject of an indicated
+report. Upon making a determination that the person about whom the
+inquiry is made is the subject of an indicated report of child abuse and
+maltreatment, the office of children and family services shall
+immediately send a written request to the child protective service or
+state agency which was responsible for investigating the allegations of
+abuse or maltreatment for all records, reports and other information
+maintained by the service or state agency on the subject. The service or
+state agency shall, as expeditiously as possible but within no more than
+twenty working days of receiving such request, forward all records,
+reports and other information it maintains on the indicated report to
+the office of children and family services, including a copy of any
+petition or court order based on the allegations that were indicated.
+Where a proceeding pursuant to article ten of the family court act is
+pending based on the same allegations that were indicated, the office of
+children and family services shall stay determination of whether there
+is a fair preponderance of the evidence to support the indication until
+the disposition of such family court proceeding. Unless such
+determination has been stayed, the office of children and family
+services shall, within fifteen working days of receiving such records,
+reports and other information from the child protective service or state
+agency, review all records, reports and other information in its
+possession concerning the subject and determine whether there is a fair
+preponderance of the evidence to find that the subject had committed the
+act or acts of child abuse or maltreatment giving rise to the indicated
+report.
+  (iii) If it is determined, after affording such service or state
+agency a reasonable opportunity to present its views, that there is not
+a fair preponderance of the evidence in the record to find that the
+subject committed such act or acts, the office of children and family
+services shall amend the record to indicate that the report was
+unfounded and notify the inquiring party that the person about whom the
+inquiry is made is not the subject of an indicated report.
+  (iv) (A) If it is determined after a review by the office of all
+records, reports and information in its possession concerning the
+subject of the report that there is a preponderance of the evidence to
+find that the subject committed the act or acts of child abuse or
+maltreatment giving rise to the indicated report, the office shall also
+determine whether such act or acts are relevant and reasonably related
+to issues concerning the employment of the subject by a provider agency
+or the subject being allowed to have regular and substantial contact
+with individuals cared for by a provider agency or the approval or
+disapproval of an application which has been submitted by the subject to
+a licensing agency, based on guidelines developed pursuant to
+subdivision five of this section. If it is determined that such act or
+acts are not relevant and related to such issues, the office shall be
+precluded from informing the provider or licensing agency which made the
+inquiry to the office pursuant to this section that the person about
+whom the inquiry is made is the subject of an indicated report of child
+abuse or maltreatment.
+  (B) Where the subject of the report is not the subject of any
+indicated report of child abuse and is the subject of a report of child
+maltreatment where the indication for child maltreatment occurred more
+than eight years prior to the date of the inquiry, any such indication
+of child maltreatment shall be deemed to be not relevant and reasonably
+related to employment.
+  (v) If it is determined after a review by the office of children and
+family services of all records, reports and information in its
+possession concerning the subject of the report that there is a fair
+preponderance of the evidence to prove that the subject committed the
+act or acts of abuse or maltreatment giving rise to the indicated report
+the office of children and family services shall notify the subject of
+the determination of such report and of the subject's right to request a
+fair hearing. If the subject shall request a hearing, the office of
+children and family services shall schedule a fair hearing and shall
+provide notice of the scheduled hearing date to the subject, the
+statewide central register and, as appropriate, to the child protective
+service which investigated such report.
+  (vi) The burden of proof in such a hearing shall be on the child
+protective service which investigated the report. In such a hearing,
+where a family court proceeding pursuant to article ten of the family
+court act has occurred and where the petition for such proceeding
+alleges that a respondent in that proceeding committed abuse or
+maltreatment against the subject child in regard to an allegation
+contained in a report indicated pursuant to this section: (A) where the
+court finds that such respondent did commit abuse or maltreatment there
+shall be an irrebuttable presumption in a fair hearing held pursuant to
+this subdivision that said allegation is substantiated by a fair
+preponderance of the evidence as to that respondent on that allegation;
+and (B) where such child protective service withdraws such petition with
+prejudice, where the family court dismisses such petition, or where the
+family court finds on the merits in favor of the respondent, there shall
+be an irrebuttable presumption in a fair hearing held pursuant to this
+subdivision that said allegation as to that respondent has not been
+proven by a fair preponderance of the evidence.
+  (vii) If it shall be determined at the fair hearing that there is no
+fair preponderance of the evidence in the record to find that the
+subject committed an act or acts of child abuse or maltreatment, the
+office of children and family services shall amend the record as to that
+respondent on that allegation to reflect that such a finding was made at
+the administrative hearing, order any child protective service which
+investigated the report as to that respondent to similarly amend its
+records of such report, notify the subject of the determination, and
+notify the inquiring party that the person about whom such inquiry was
+made is not the subject of an indicated report on that allegation.
+  (viii) Upon a determination at the fair hearing that the subject has
+been shown, by a fair preponderance of the evidence to have committed
+the act or acts of child abuse or maltreatment giving rise to the
+indicated report, the hearing officer shall determine, based on
+guidelines developed by the office of children and family services
+pursuant to subdivision five of this section, whether such act or acts
+are relevant and reasonably related to the subject being allowed to have
+regular and substantial contact with children who are cared for by a
+provider agency as defined in subdivision three of this section, or
+relevant and reasonably related to the approval or disapproval of an
+application submitted by the subject to a licensing agency as defined in
+subdivision four of this section.
+  (ix) Upon a determination made at a fair hearing that the act or acts
+of abuse or maltreatment are relevant and reasonably related to the
+employment of the subject by a provider agency as defined in subdivision
+three of this section, the subject being allowed to have regular and
+substantial contact with children who are cared for by a provider agency
+as defined in subdivision three of this section, or relevant and
+reasonably related to the approval or disapproval of an application
+submitted by the subject to a licensing agency as defined in subdivision
+four of this section, the office of children and family services shall
+notify the subject and shall inform the inquiring party that the person
+about whom such inquiry was made is the subject of an indicated report
+of child abuse or maltreatment.
+  (x) The failure to determine at the fair hearing that the act or acts
+of abuse or maltreatment are relevant and reasonably related to the
+employment of the subject by a provider agency as defined in subdivision
+three of this section, the subject being allowed to have regular and
+substantial contact with children who are cared for by a provider agency
+as defined in subdivision three of this section, or relevant and
+reasonably related to the approval or disapproval of an application
+submitted by the subject to a licensing agency as defined in subdivision
+four of this section, shall preclude the office of children and family
+services from informing a provider agency as defined in subdivision
+three of this section or licensing agency as defined in subdivision four
+of this section that such person is the subject of an indicated report
+of child abuse or maltreatment on that allegation.
+  * NB Effective January 1, 2022
   (f) The office of children and family services shall charge a fee of
 twenty-five dollars when it conducts a search of its records within the
 statewide central register for child abuse or maltreatment in accordance

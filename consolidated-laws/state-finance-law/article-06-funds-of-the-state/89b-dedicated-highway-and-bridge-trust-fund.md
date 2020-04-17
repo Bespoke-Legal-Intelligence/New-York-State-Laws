@@ -39,7 +39,7 @@ provided pursuant to agreements entered into in accordance with section
 ninety-nine-r of the general municipal law, and (iv) any other moneys
 collected therefor or credited or transferred thereto from any other
 fund, account or source.
-  * NB Effective until April 1, 2020
+  * NB Effective until April 1, 2022
   * (a) The special obligation reserve and payment account shall consist
 (i) of all moneys required to be deposited in the dedicated highway and
 bridge trust fund pursuant to the provisions of sections two hundred
@@ -60,7 +60,7 @@ transportation for services provided pursuant to agreements entered into
 in accordance with section ninety-nine-r of the general municipal law,
 and (iv) any other moneys collected therefor or credited or transferred
 thereto from any other fund, account or source.
-  * NB Effective April 1, 2020 until June 30, 2020
+  * NB Effective April 1, 2022 until June 30, 2020
   * (a) The special obligation reserve and payment account shall consist
 (i) of all moneys required to be deposited in the dedicated highway and
 bridge trust fund pursuant to the provisions of sections two hundred
@@ -108,7 +108,7 @@ transportation for services provided pursuant to agreements entered into
 in accordance with section ninety-nine-r of the general municipal law,
 and (iv) any other moneys collected therefor or credited or transferred
 thereto from any other fund, account or source.
-  * NB Effective June 30, 2025 until April 1, 2020
+  * NB Effective June 30, 2025 until April 1, 2022
   * (a) The special obligation reserve and payment account shall consist
 (i) of all moneys required to be deposited in the dedicated highway and
 bridge trust fund pursuant to the provisions of sections two hundred
@@ -129,7 +129,7 @@ transportation for services provided pursuant to agreements entered into
 in accordance with section ninety-nine-r of the general municipal law,
 and (iv) any other moneys collected therefor or credited or transferred
 thereto from any other fund, account or source.
-  * NB Effective April 1, 2020
+  * NB Effective April 1, 2022
   (b) Moneys in the special obligation reserve and payment account
 shall, following appropriation by the legislature, be used to pay
 amounts due to the New York state thruway authority as dedicated highway
@@ -325,7 +325,7 @@ agreement payments as provided and authorized by section three hundred
 eighty of the public authorities law, section eleven of chapter three
 hundred twenty-nine of the laws of nineteen hundred ninety-one, as
 amended, and sections sixty-eight-c and sixty-nine-o of this chapter.
-  * NB Effective until April 1, 2020
+  * NB Effective until April 1, 2022
   * a. Moneys in the dedicated highway and bridge trust fund shall,
 following appropriation by the legislature, be utilized for:
 reconstruction, replacement, reconditioning, restoration, rehabilitation
@@ -417,7 +417,7 @@ section three hundred eighty of the public authorities law, section
 eleven of chapter three hundred twenty-nine of the laws of nineteen
 hundred ninety-one, as amended, and sections sixty-eight-c and
 sixty-nine-o of this chapter.
-  * NB Effective April 1, 2020
+  * NB Effective April 1, 2022
   b. Subject to appropriation therefor and subject to subdivision four
 of this section, beginning the first day of April, nineteen hundred
 ninety-three, an amount of moneys in the dedicated highway and bridge

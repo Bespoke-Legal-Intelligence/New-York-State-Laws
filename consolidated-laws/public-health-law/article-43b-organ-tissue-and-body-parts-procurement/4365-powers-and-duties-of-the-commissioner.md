@@ -48,11 +48,41 @@ recommendations to the commissioner within sixty days. The commissioner
 shall not act in a manner inconsistent with the recommendations of the
 council without first providing to the council a written explanation of
 the reasons therefor.
-  4. The commissioner may inquire into the operation of banks and
+  * 4. The commissioner may inquire into the operation of banks and
 storage facilities and may conduct periodic inspections of banks and
 storage facilities including methods, procedures, materials, staff and
 equipment.
-  5. Organ procurement organizations, banks, storage facilities, and
+  * NB Effective until February 15, 2021
+  * 4. The commissioner, in consultation with the transplant council,
+shall promulgate regulations on the donation of ova. Such regulations
+shall include, but not be limited to:
+  (a) guidelines and procedures for obtaining fully informed consent
+from potential donors, including but not limited to a full disclosure of
+any known or potential health risks of the ova donation process;
+  (b) the development and distribution, in printed form and on the
+department's website, of informational material relating to the donation
+of ova;
+  (c) the establishment of a voluntary central tracking registry of ova
+donor information, as reported by banks and storage facilities licensed
+pursuant to this article upon the affirmative consent of an ova donor.
+Such registry shall provide a means for gathering and maintaining
+accurate information on the:
+  (i) number of ova and the number of times ova have been donated from a
+single donor;
+  (ii) health information of the donor at the time of the donation; and
+  (iii) other information deemed appropriate by the commissioner.
+  In addition, all such regulations shall maintain the anonymity of the
+donor and any resulting offspring and govern access to information
+maintained by the registry. Such registry shall comply with all state
+and federal laws and regulations related to maintaining the privacy and
+confidentiality of records contained within the registry; and
+  (d) the development of best practices and procedures, in consultation
+with the American college of obstetricians and gynecologists, American
+society for reproductive medicine and other medical organizations, for
+ova donation, ova retrieval, and in vitro fertilization for the
+protection of the health and safety of the donor.
+  * NB Effective February 15, 2021
+  * 5. Organ procurement organizations, banks, storage facilities, and
 other persons engaged in procurement activities shall submit, in a form
 prescribed by the department, periodic reports of procurement, storage
 and distribution activities and such other information as the
@@ -61,16 +91,40 @@ Where available, the commissioner shall utilize information reported by
 organ procurement organizations to the organ procurement and
 transplantation network established pursuant to section three hundred
 seventy-two of the federal public health services act.
-  6. In consultation with the transplant council, the commissioner is
+  * NB Effective until February 15, 2021
+  * 5. The commissioner may inquire into the operation of banks and
+storage facilities and may conduct periodic inspections of banks and
+storage facilities including methods, procedures, materials, staff and
+equipment.
+  * NB Effective February 15, 2021
+  * 6. In consultation with the transplant council, the commissioner is
 authorized to establish subcategories of licenses based upon the tissue
 and non-transplant organs to be procured or stored by banks and storage
 facilities and the activities to be conducted and may include different
 standards for each subcategory of license.
-  7. Nothing contained within this article shall limit the authority of
-the council on human blood and transfusion services to adopt rules and
-regulations concerning blood and bone marrow in accordance with article
-thirty-one of this chapter.
-  8. The commissioner, in cooperation and consultation with the
+  * NB Effective until February 15, 2021
+  * 6. Organ procurement organizations, banks, storage facilities, and
+other persons engaged in procurement activities shall submit, in a form
+prescribed by the department, periodic reports of procurement, storage
+and distribution activities and such other information as the
+commissioner may require to carry out the provisions of this article.
+Where available, the commissioner shall utilize information reported by
+organ procurement organizations to the organ procurement and
+transplantation network established pursuant to section three hundred
+seventy-two of the federal public health services act.
+  * NB Effective February 15, 2021
+  * 7. Nothing contained within this article shall limit the authority
+of the council on human blood and transfusion services to adopt rules
+and regulations concerning blood and bone marrow in accordance with
+article thirty-one of this chapter.
+  * NB Effective until February 15, 2021
+  * 7. In consultation with the transplant council, the commissioner is
+authorized to establish subcategories of licenses based upon the tissue
+and non-transplant organs to be procured or stored by banks and storage
+facilities and the activities to be conducted and may include different
+standards for each subcategory of license.
+  * NB Effective February 15, 2021
+  * 8. The commissioner, in cooperation and consultation with the
 transplant council and other interested parties, shall develop and
 distribute, in printed form and on the department's internet website,
 informational materials relating to the live donation of organs and
@@ -82,4 +136,23 @@ access to insurance and assistance;
 income tax purposes, granted to living organ and tissue donors; and
   (d) the protections and benefits granted pursuant to the living donor
 protection act of two thousand eighteen.
+  * NB Effective until February 15, 2021
+  * 8. Nothing contained within this article shall limit the authority
+of the council on human blood and transfusion services to adopt rules
+and regulations concerning blood and bone marrow in accordance with
+article thirty-one of this chapter.
+  * NB Effective February 15, 2021
+  * 9. The commissioner, in cooperation and consultation with the
+transplant council and other interested parties, shall develop and
+distribute, in printed form and on the department's internet website,
+informational materials relating to the live donation of organs and
+tissue, including, but not limited to:
+  (a) the benefits of live organ and tissue donation;
+  (b) the impact of the donation of organs or tissue on the donors'
+access to insurance and assistance;
+  (c) the reduction in federal adjusted gross income, for state personal
+income tax purposes, granted to living organ and tissue donors; and
+  (d) the protections and benefits granted pursuant to the living donor
+protection act of two thousand eighteen.
+  * NB Effective February 15, 2021
 ```

@@ -35,6 +35,7 @@
 - [§ 391-S Restricted access to retail sale of dextromethorphan, commonly known as "dxm"](391s-restricted-access-to-retail-sale-of-dextromethorphan-commonly-known-as-dxm.md)
 - [§ 391-S\*2 Sale and distribution of novelty lighters prohibited](391s-2-sale-and-distribution-of-novelty-lighters-prohibited.md)
 - [§ 391-T Sale of small animals; instructions on care](391t-sale-of-small-animals-instructions-on-care.md)
+- [§ 391-U Pricing goods and services on the basis of gender prohibited](391u-pricing-goods-and-services-on-the-basis-of-gender-prohibited.md)
 - [§ 392 Second-hand watches](392-second-hand-watches.md)
 - [§ 392-A Sale of new computers](392a-sale-of-new-computers.md)
 - [§ 392-B False labels and misrepresentations](392b-false-labels-and-misrepresentations.md)
@@ -66,6 +67,7 @@
 - [§ 396-A Representation by savings and loan association of insurance on accounts](396a-representation-by-savings-and-loan-association-of-insurance-on-accounts.md)
 - [§ 396-AA Simulated check](396aa-simulated-check.md)
 - [§ 396-AA\*2 Unsolicited telefacsimile advertising](396aa-2-unsolicited-telefacsimile-advertising.md)
+- [§ 396-AAA Public display of tobacco and electronic cigarette advertisements and smoking paraphernalia prohibited](396aaa-public-display-of-tobacco-and-electronic-cigarette-advertisements-and-smoking.md)
 - [§ 396-B Advertisements](396b-advertisements.md)
 - [§ 396-BB Sale of motor fuels to disabled persons](396bb-sale-of-motor-fuels-to-disabled-persons.md)
 - [§ 396-C Advertisements by persons engaged in dental business relating to dentures and bridges](396c-advertisements-by-persons-engaged-in-dental-business-relating-to-dentures.md)
@@ -219,6 +221,8 @@ Section 390.       Substitution of spurious oils for internal combustion
                      commonly known as "dxm".
         391-s*2.   Sale and distribution of novelty lighters prohibited.
         391-t.     Sale of small animals; instructions on care.
+        391-u.     Pricing goods and services on the basis of gender
+                     prohibited.
         392.       Second-hand watches.
         392-a.     Sale of new computers.
         392-b.     False labels and misrepresentations.

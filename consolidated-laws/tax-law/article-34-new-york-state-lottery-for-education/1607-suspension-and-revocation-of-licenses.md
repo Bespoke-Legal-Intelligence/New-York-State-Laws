@@ -34,11 +34,18 @@ d or e of section sixteen hundred five of this article.
 hundred forty-seven of the social services law.
   h. A violation of article thirteen-F of the public health law as
 provided in this subdivision:
-  1. A license shall be suspended for a period of six months upon
+  * 1. A license shall be suspended for a period of six months upon
 notification to the division by the commissioner of health of a lottery
 sales agent's accumulation of three or more points pursuant to
 subdivision three of section thirteen hundred ninety-nine-ee of the
 public health law.
+  * NB Effective until July 1, 2020
+  * 1. A license shall be suspended for a period of one year upon
+notification to the division by the commissioner of health of a lottery
+sales agent's accumulation of three or more points pursuant to
+subdivision three of section thirteen hundred ninety-nine-ee of the
+public health law.
+  * NB Effective July 1, 2020
   2. A license shall be revoked for one year upon notification to the
 division by the commissioner of health of a lottery sales agent's fourth
 violation of article thirteen-F of the public health law within a three

@@ -30,6 +30,7 @@
 - [§ 71-2727 Enforcement of articles 27 and 71 of this chapter](71-2727-enforcement-of-articles-27-and-71-of-this-chapter.md)
 - [§ 71-2728 Enforcement of title 27 of article 27 of this chapter](71-2728-enforcement-of-title-27-of-article-27-of-this-chapter.md)
 - [§ 71-2729 Enforcement of title 26 of article 27 of this chapter](71-2729-enforcement-of-title-26-of-article-27-of-this-chapter.md)
+- [§ 71-2730 Enforcement of title 30 of article 27 of this chapter](71-2730-enforcement-of-title-30-of-article-27-of-this-chapter.md)
 
 <details>
 <summary>Official heading of Title 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -80,6 +81,7 @@ Section 71-2701. Applicability of title.
         71-2727. Enforcement of articles 27 and 71 of this chapter.
         71-2728. Enforcement of title 27 of article 27 of this chapter.
         71-2729. Enforcement of title 26 of article 27 of this chapter.
+        71-2730. Enforcement of title 30 of article 27 of this chapter.
 ```
 
 </details>

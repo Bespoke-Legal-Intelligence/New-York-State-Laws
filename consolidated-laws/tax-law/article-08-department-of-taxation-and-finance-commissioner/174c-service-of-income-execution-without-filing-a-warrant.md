@@ -61,5 +61,5 @@ shall also include in this list the names of taxpayers whose income
 executions are cancelled or discharged during that period. The
 department of state shall upon receipt post such a list to their
 website.
-  * NB Repealed April 1, 2020
+  * NB Repealed April 1, 2025
 ```

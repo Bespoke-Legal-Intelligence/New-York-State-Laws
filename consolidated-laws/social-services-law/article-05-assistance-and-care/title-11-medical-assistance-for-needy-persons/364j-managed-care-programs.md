@@ -1253,6 +1253,9 @@ naltrexone for detoxification or maintenance treatment of opioid
 addiction unless the prescription is for a non-preferred or
 non-formulary form of the drug or as otherwise required by section
 1927(k)(6) of the Social Security Act.
+  26-c. Managed care providers shall not require prior authorization for
+methadone, when used for opioid use disorder and administered or
+dispensed in an opioid treatment program.
   ** 27. The commissioner of the department of health may make any
 necessary amendments to a contract pursuant to this section with a
 managed care provider, as defined in paragraph (b) of subdivision one of
@@ -1465,47 +1468,69 @@ to paragraph (e) of subdivision two of section three hundred
 sixty-five-a of this title or section three hundred sixty-five-f of this
 title, respectively, or other long-term care, and provide such care or
 services as appropriate, pending approval by such provider or program.
-  32. (a) The commissioner may, in his or her discretion, apply
+  32. (a) The commissioner, or for the purposes of subparagraph (iv) of
+paragraph (c) of this subdivision, the Medicaid inspector general in
+consultation with the commissioner, may, in his or her discretion, apply
 penalties to managed care organizations subject to this section and
 article forty-four of the public health law, including managed long term
 care plans, for untimely or inaccurate submission of encounter data;
 provided however, no penalty shall be assessed if the managed care
-organization submits, in good faith, timely and accurate data that is
-not successfully received by the department as a result of department
-system failures or technical issues that are beyond the control of the
-managed care organization.
-  (b) The commissioner shall consider the following prior to assessing a
-penalty against a managed care organization and have the discretion to
-reduce or eliminate a penalty:
-  (i) the degree to which the data submitted is inaccurate and the
-frequency of inaccurate data submissions by the managed care
-organization;
-  (ii) the degree to which the data submitted is untimely and the
-frequency of untimely data submissions by the managed care organization;
+organization submits, in good faith, timely and accurate data and a
+material amount of such data is not successfully received by the
+department as a result of department system failures or technical issues
+that are beyond the control of the managed care organization.
+  (b) The commissioner, or for the purposes of subparagraph (iv) of
+paragraph (c) of this subdivision, the Medicaid inspector general in
+consultation with the commissioner, shall consider the following when
+determining whether to assess a penalty against a managed care
+organization and the amount of such penalty:
+  (i) the degree to which the managed care organization submitted
+inaccurate data at a category of service level and the frequency of such
+inaccurate data submissions by the managed care organization;
+  (ii) the degree to which the managed care organization submitted
+untimely data or no data and the frequency of such untimely data
+submissions or failures to submit by the managed care organization; and
   (iii) the timeliness of the managed care organization in curing or
-correcting inaccurate or untimely data;
-  (iv) whether the untimely or inaccurate data was submitted by the
-managed care organization or a third party;
-  (v) whether the managed care organization has taken corrective action
-to reduce the likelihood of future inaccurate or untimely data
-submissions; and
-  (vi) whether the managed care organization was or should have been
-aware of inaccurate or untimely data.
-  For purposes of this section, "encounter data" shall mean the
-transactions required to be reported under the model contract. Any
-penalty assessed under this subdivision shall be calculated as a
-percentage of the administrative component of the Medicaid premium
-calculated by the department.
-  (c) Such penalties shall be as follows:
-  (i) for encounter data submitted or resubmitted past the deadlines set
-forth in the model contract, Medicaid premiums shall be reduced by one
-and one-half percent; and
-  (ii) for incomplete or inaccurate encounter data that fails to conform
-to department developed benchmarks for completeness and accuracy,
-Medicaid premiums shall be reduced by one-half percent; and
-  (iii) for submitted data that results in a rejection rate in excess of
-ten percent of department developed volume benchmarks, Medicaid premiums
-shall be reduced by one-half percent.
+correcting inaccurate or untimely data.
+  For purposes of this section, "encounter data" shall mean all
+encounter records or adjustments to previously submitted records which
+the managed care organization has received and processed from provider
+encounter or claim records of all contracted services rendered to an
+enrollee of the managed care organization in the current or any
+preceding month. Any penalty assessed under this subdivision shall be
+calculated as a percentage of the Medicaid capitated premium calculated
+by the department and paid to the managed care organization.
+  (c) (i) Penalties assessed pursuant to this subdivision against a
+managed care organization other than a managed long term care plan
+certified pursuant to section forty-four hundred three-f of the public
+health law shall be as follows:
+  (A) for encounter data submitted or resubmitted past the deadlines set
+forth in the model contract, the Medicaid capitated premiums shall be
+reduced by one-third percent; and
+  (B) for incomplete or inaccurate encounter data, evaluated at a
+category of service level, that fails to conform to department developed
+benchmarks for completeness and accuracy, the Medicaid capitated
+premiums shall be reduced by one and one-third percent; and
+  (C) for submitted data that results in a rejection rate in excess of
+ten percent of department developed volume benchmarks, the Medicaid
+capitated premiums shall be reduced by one-third percent.
+  (ii) Penalties assessed pursuant to this subdivisions against a
+managed long term care plan certified pursuant to section forty-four
+hundred three-f of the public health law shall be as follows:
+  (A) for encounter data submitted or resubmitted past the deadlines set
+forth in the model contract, the Medicaid capitated premiums shall be
+reduced by one-quarter percent;
+  (B) for incomplete or inaccurate encounter data, evaluated at a
+category of service level, that fails to conform to department developed
+benchmarks for completeness and accuracy, the Medicaid capitated
+premiums shall be reduced by one percent; and
+  (C) for submitted data that results in a rejection rate in excess of
+ten percent of department developed volume benchmarks, the Medicaid
+capitated premiums shall be reduced by one-quarter percent.
+  (iii) For incomplete or inaccurate encounter data, identified in the
+course of an audit, investigation or review by the Medicaid inspector
+general, the Medicaid capitated premiums shall be reduced by an
+additional one percent.
   (d) (i) Penalties under this subdivision may be applied to any and all
 circumstances described in paragraph (b) of this subdivision until the
 managed care organization complies with the requirements for submission
@@ -1514,7 +1539,7 @@ of encounter data.
 shall be assessed against managed care organizations in addition to
 those provided for in this subdivision, provided, however, that nothing
 in this paragraph shall prohibit the imposition of penalties, in cases
-of fraud or abuse, otherwise authorized by law.
+of fraud, waste or abuse, otherwise authorized by law.
   33. For services under this title provided by residential health care
 facilities under article twenty-eight of the public health law, the
 commissioner shall direct managed care organizations licensed under
@@ -1621,6 +1646,88 @@ cover the cost of providing pharmacy benefit management services. The
 reporting required in this subdivision shall be supplemental to and
 included with other existing reporting requirements, including but not
 limited to any quarterly reporting requirements.
-  * NB Repealed March 31, 2024 (per ch. 165/1991)
-  * NB Repealed March 31, 2024 (per ch. 710/1988)
+  ** 38. (a) When a patient's health care provider prescribes an opioid
+dependence agent or opioid antagonist that is not on the statewide
+formulary of opioid dependence agents and opioid antagonists, the
+prescriber shall consult with the managed care plan to confirm that in
+his or her reasonable professional judgment, the patient's clinical
+condition is consistent with the criteria for approval of the
+non-preferred or non-formulary drug. Such criteria shall include:
+  (i) the preferred drug has been tried by the patient and has failed to
+produce the desired health outcomes;
+  (ii) the patient has tried the preferred drug and has experienced
+unacceptable side effects;
+  (iii) the patient has been stabilized on a non-preferred drug and
+transition to the preferred or formulary drug would be medically
+contraindicated; or
+  (iv) other clinical indications identified by the committee for the
+patient's use of the non-preferred drug, which shall include
+consideration of the medical needs of special populations, including
+children, elderly, chronically ill, persons with mental health
+conditions, persons affected by HIV/AIDS and pregnant persons with a
+substance use disorder.
+  (b) The managed care plan shall have a process for a patient, or the
+patient's prescribing health care provider, to request a review for a
+prescription drug that is not on the statewide formulary of opioid
+dependence agents and opioid antagonists, consistent with 42 C.F.R.
+438.210(d), or any successor regulation.
+  (c) A managed care plan's failure to comply with the requirements of
+this subdivision shall be subject to a one thousand dollar fine per
+violation.
+  ** NB There are 2 sb 38's
+  ** 38. Penalties for the submission of misstated cost reports. (a) For
+purposes of this subdivision, managed care provider shall also include
+managed long-term care plans.
+  (b) The Medicaid inspector general may, in his or her discretion and
+in consultation with the commissioner, impose a penalty on a managed
+care provider whose filed cost report contained a misstatement of fact
+including:
+  (i) unsubstantiated or improper costs;
+  (ii) number of member months;
+  (iii) number of events.
+  For purposes of this paragraph, number of events shall include, but
+not be limited to understated births or deliveries.
+  (c) (i) For misstatements found in subparagraph (i) of paragraph (b)
+of this subdivision, the penalty shall be equal to the amount of the
+misstatement multiplied by two.
+  (ii) For misstatements found in subparagraph (ii) of paragraph (b) of
+this subdivision, the penalty shall be the amount of the premium
+capitation paid by the department for the region per member month.
+  (iii) For misstatements found in subparagraph (iii) of paragraph (b)
+of this subdivision, the penalty shall be the amount of the supplemental
+capitation paid by the department for the region per member event.
+  (d) Any penalty imposed under this subdivision may be recovered by the
+department in any manner authorized by law.
+  (e) The managed care provider against whom a penalty is imposed
+pursuant to this subdivision shall be entitled to notice and an
+opportunity to be heard in accordance with section twenty-two of this
+chapter.
+  ** NB There are 2 sb 38's
+  39. Medicaid fraud, waste and abuse prevention. (a) For purposes of
+this subdivision, managed care provider shall also include managed
+long-term care plans.
+  (b) Managed care providers shall adopt and implement policies and
+procedures designed to detect and prevent fraud, waste and abuse. This
+shall include the adoption and implementation of a compliance program as
+required by section three hundred sixty-three-d of this title and the
+terms of the contract between the managed care provider and the state,
+and for managed care providers with an enrolled population of one
+thousand or more persons in the aggregate in any given year, the
+establishment of a special investigation unit which will have primary
+responsibility for implementing the managed care provider's policies and
+procedures to detect and prevent fraud, waste and abuse, as it relates
+to the managed care provider's participation in the medical assistance
+program.
+  (c) The managed care provider shall coordinate its fraud, waste and
+abuse prevention activities with the Medicaid inspector general and the
+department of health. The Medicaid inspector general, in consultation
+with the department of health, may promulgate regulations establishing
+standards and requirements for the operation of managed care provider
+fraud, waste and abuse prevention activities, including requirements for
+special investigation units. The provisions of this subdivision
+notwithstanding, the managed care provider shall continue to comply with
+all the requirements of section forty-four hundred fourteen of the
+public health law.
+  * NB Repealed March 31, 2026 (per ch. 165/1991)
+  * NB Repealed March 31, 2026 (per ch. 710/1988)
 ```

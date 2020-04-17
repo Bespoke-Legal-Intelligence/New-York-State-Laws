@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,253 |
-| Last changed | 10 Apr 2020 |
+| Sections | 1,260 |
+| Last changed | 17 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (170 lines)](chapter-text.md)
+[Full chapter text (172 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [17 Apr 2020](../../changes/2020/2020-04-17.md): 3 amended, 7 added
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
 - [27 Mar 2020](../../changes/2020/2020-03-27.md): 1 amended
 - [20 Mar 2020](../../changes/2020/2020-03-20.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 3 amended
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 2 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 3 amended, 1 added
-- [22 Nov 2019](../../changes/2019/2019-11-22.md): 1 amended
 
 ## Contents
 
@@ -170,4 +170,5 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 40 — Laws Repealed; When to Take Effect](article-40-laws-repealed-when-to-take-effect/)
 - [Article 41 — Combative Sports](article-41-combative-sports/)
 - [Article 43 — New York State Secure Choice Savings Program](article-43-new-york-state-secure-choice-savings-program/)
+- [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](article-44-regulation-of-surrogacy-programs-and-assisted/)
 - [Article 46 — Laws Repealed; When to Take Effect](article-46-laws-repealed-when-to-take-effect/)

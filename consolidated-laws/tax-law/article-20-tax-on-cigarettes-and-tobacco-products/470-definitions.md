@@ -34,7 +34,7 @@ or barter, conditional or otherwise, in any manner or by any means
 whatever or any agreement therefor.
   5. "Retail sale" or "sale at retail" means a sale to a consumer or to
 any other person for any purpose other than resale.
-  6. "Wholesale price." The established price for which a manufacturer
+  * 6. "Wholesale price." The established price for which a manufacturer
 sells tobacco products to a distributor, before the allowance of any
 discount, trade allowance, rebate or other reduction.
   In the absence of such an established price, a manufacturer's invoice
@@ -44,6 +44,15 @@ which such tobacco products were purchased shall be presumed to be the
 wholesale price, unless evidence of a lower wholesale price shall be
 established or any industry standard of markups relating to the purchase
 price in relation to the wholesale price shall be established.
+  * NB Effective until October 1, 2020
+  * 6. "Wholesale price." The price for which a manufacturer or other
+person sells tobacco products to a distributor, including the federal
+excise taxes paid by the manufacturer or other person, before the
+allowance of any discount, trade allowance, rebate or other reduction.
+  The invoice received by a distributor with respect to its purchase of
+a tobacco product shall be presumptive evidence of the wholesale price
+of such tobacco product.
+  * NB Effective October 1, 2020
   7. "Dealer." Any wholesale dealer and retail dealer as hereinafter
 defined.
   8. "Wholesale dealer." Any person who (a) sells cigarettes or tobacco
@@ -53,8 +62,17 @@ vending machines in, at or upon premises owned or occupied by any other
 person, or (c) sells cigarettes or tobacco products to an Indian nation
 or tribe or to a reservation cigarette seller on a qualified
 reservation.
-  9. "Retail dealer." Any person other than a wholesale dealer engaged
+  * 9. "Retail dealer." Any person other than a wholesale dealer engaged
 in selling cigarettes or tobacco products.
+  * NB Effective until September 1, 2020
+  * 9. "Retail dealer." Any person other than a wholesale dealer engaged
+in selling cigarettes or tobacco products. For purposes of section four
+hundred eighty-a of this article and section eleven hundred thirty-four
+of this chapter, such term shall include for each such person engaged in
+selling cigarettes or tobacco products all "persons required to collect
+tax," as defined in subdivision one of section eleven hundred thirty-one
+of this chapter.
+  * NB Effective September 1, 2020
   10. "Package." The individual package, box or other container in or
 from which retail sales of cigarettes are normally made or intended to
 be made.
@@ -109,16 +127,19 @@ intended to be smoked.
 substance containing tobacco (other than any roll of tobacco that is a
 cigarette as defined in subdivision one of this section). "Cigar" shall
 include, except where expressly excluded, any little cigar.
-  20. "Research tobacco product." Anything that would otherwise be
-defined as a tobacco product or cigarette shall not be defined as a
-tobacco product or cigarette if it is made by a manufacturer
-specifically for an accredited college or university, to be held by the
-college or university until sale or transfer to a laboratory, hospital,
-medical center, institute, college or university, or other institution
-for health, scientific, or other research or experimental purposes. A
-research tobacco product shall carry a marking designating it as such
-and indicating it shall only be used for health, scientific, or other
-research or experimental purposes and not be offered for sale, sold, or
-distributed to consumers except as part of the health, scientific, or
-other research or experimental purpose.
+  20. "Research tobacco product." A tobacco product or cigarette that is
+labeled as a research tobacco product, manufactured for use in research
+for health, scientific, or similar experimental purposes, is exclusively
+used for such purposes by an accredited college, university or hospital,
+or a researcher affiliated with an accredited college, university or
+hospital, and is not offered for sale or sold to consumers for any
+purpose.
+  * 21. "Affiliated person." Persons are affiliated persons with respect
+to each other where one of such persons has an ownership interest of
+more than five percent, whether direct or indirect, in the other, or
+where an ownership interest of more than five percent, whether direct or
+indirect, is held in each of such persons by another person, or by a
+group of other persons that are affiliated persons with respect to each
+other.
+  * NB Effective September 1, 2020
 ```

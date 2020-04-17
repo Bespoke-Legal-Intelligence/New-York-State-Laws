@@ -136,7 +136,19 @@ determination made by the organization including the date of the
 determination and the titles and, in the case of clinical
 determinations, the credentials, of the organization's personnel who
 reviewed the appeal.
-  15. The rights and remedies conferred in this article upon enrollees
+  15. An organization shall have procedures for obtaining an enrollee's,
+or enrollee's designee's, preference for receiving notifications, which
+shall be in accordance with applicable federal law and with guidance
+developed by the commissioner. Written and telephone notification to an
+enrollee or the enrollee's designee under this section may be provided
+by electronic means where the enrollee or the enrollee's designee has
+informed the organization in advance of a preference to receive such
+notification by electronic means. An organization shall permit the
+enrollee and the enrollee's designee to change the preference at any
+time. The organization shall retain documentation of preferred
+notification methods and present such records to the commissioner upon
+request.
+  16. The rights and remedies conferred in this article upon enrollees
 shall be cumulative and in addition to and not in lieu of any other
 rights or remedies available under law.
   * NB There are 2 § 4408-a's

@@ -4,11 +4,11 @@
 [Public Health Law](../README.md) › [Article 40 — Hospice](README.md)
 
 ```text
-  § 4013. Hospice worker recruitment and retention program. 1. The
+  § 4013. Hospice worker recruitment and retention program.  1. The
 commissioner shall, subject to the provisions of subdivision two of this
-section, increase medical assistance rates of payment by three percent
-for hospice services provided on and after December first, two thousand
-two, for purposes of improving recruitment and retention of
+section, increase medical assistance rates of payment by up to three
+percent for hospice services provided on and after December first, two
+thousand two, for purposes of improving recruitment and retention of
 non-supervisory workers or workers with direct patient care
 responsibility.
   2. Hospice services providers which have their rates adjusted pursuant

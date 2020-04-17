@@ -43,7 +43,7 @@ calculated on the basis of no less than one hundred thirty percent of
 Medicaid or Medicare rates of reimbursement, whichever is higher. If no
 such rate exists, costs shall be reimbursed as defined by the
 commissioner in regulation.
-  * NB Effective until December 31, 2020
+  * NB Effective until December 31, 2021
   * 4. The amount of qualifying health care costs to be paid from the
 fund shall be calculated: (a) with respect to services provided in
 private physician practices on the basis of one hundred percent of the
@@ -51,7 +51,7 @@ usual and customary rates, as defined by the commissioner in regulation;
 or (b) with respect to all other services, on the basis of Medicaid
 rates of reimbursement or, where no such rates are available, as defined
 by the commissioner in regulation.
-  * NB Effective December 31, 2020
+  * NB Effective December 31, 2021
   5. Claims for the payment or reimbursement from the fund of qualifying
 health care costs shall be made upon forms prescribed and furnished by
 the fund administrator in conjunction with regulations establishing a

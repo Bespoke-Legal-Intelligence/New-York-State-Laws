@@ -34,6 +34,7 @@
 - [Title 27\*2 — Drug Management and Disposal](title-27-2-drug-management/)
 - [Title 28 — Bag Waste Reduction](title-28-bag-waste/)
 - [Article 27T29 — Title 29 Mercury Thermostat Collection Act](article-27t29-title-29/)
+- [Title 30 — No title](title-30-no-title/)
 
 <details>
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -71,6 +72,8 @@ Title   1.   Solid and hazardous waste management policy and planning
        27*2. Drug management and disposal
        28.   Bag waste reduction
        29.   Mercury thermostat collection act
+       30.   Expanded polystyrene foam container and polystyrene loose
+               fill packaging ban
 ```
 
 </details>

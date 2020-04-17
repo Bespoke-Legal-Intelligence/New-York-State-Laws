@@ -22,20 +22,18 @@ determination involving health care services which require
 pre-authorization and provide notice of a determination to the enrollee
 or enrollee's designee and the enrollee's health care provider by
 telephone and in writing within three business days of receipt of the
-necessary information. To the extent practicable, such written
-notification to the enrollee's health care provider shall be transmitted
-electronically, in a manner and in a form agreed upon by the parties.
-The notification shall identify; (i) whether the services are considered
-in-network or out-of-network; (ii) and whether the enrollee will be held
-harmless for the services and not be responsible for any payment, other
-than any applicable co-payment or co-insurance; (iii) as applicable, the
-dollar amount the health care plan will pay if the service is
-out-of-network; and (iv) as applicable, information explaining how an
-enrollee may determine the anticipated out-of-pocket cost for
-out-of-network health care services in a geographical area or zip code
-based upon the difference between what the health care plan will
-reimburse for out-of-network health care services and the usual and
-customary cost for out-of-network health care services.
+necessary information. The notification shall identify; (i) whether the
+services are considered in-network or out-of-network; (ii) and whether
+the enrollee will be held harmless for the services and not be
+responsible for any payment, other than any applicable co-payment or
+co-insurance; (iii) as applicable, the dollar amount the health care
+plan will pay if the service is out-of-network; and (iv) as applicable,
+information explaining how an enrollee may determine the anticipated
+out-of-pocket cost for out-of-network health care services in a
+geographical area or zip code based upon the difference between what the
+health care plan will reimburse for out-of-network health care services
+and the usual and customary cost for out-of-network health care
+services.
   (b) With regard to individual or group contracts authorized pursuant
 to article forty-four of this chapter, for utilization review
 determinations involving proposed mental health and/or substance use
@@ -173,4 +171,19 @@ department of financial services, in development of the standards, shall
 take into consideration existing electronic prior authorization
 standards including National Council for Prescription Drug Programs
 (NCPDP) electronic prior authorization standard transactions.
+  9. A utilization review agent shall have procedures for obtaining an
+enrollee's, or enrollee's designee's, preference for receiving
+notifications, which shall be in accordance with applicable federal law
+and with guidance developed by the commissioner. Written and telephone
+notification to an enrollee or the enrollee's designee under this
+section may be provided by electronic means where the enrollee or the
+enrollee's designee has informed the organization in advance of
+preference to receive such notifications by electronic means. An
+organization shall permit the enrollee and the enrollee's designee to
+change the preference at any time. To the extent practicable, such
+written and telephone notification to the enrollee's health care
+provider shall be transmitted electronically, in a manner and in a form
+agreed upon by the parties. The utilization review agent shall retain
+documentation of preferred notification methods and present such records
+to the commissioner upon request.
 ```

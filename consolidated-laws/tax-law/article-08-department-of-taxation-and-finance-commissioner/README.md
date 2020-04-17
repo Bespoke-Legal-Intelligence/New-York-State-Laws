@@ -29,7 +29,7 @@
 - [§ 171-T Reciprocal offset agreements with the United States or other states](171t-reciprocal-offset-agreements-with-the-united-states-or-other-states.md)
 - [§ 171-U Verification of income eligibility for basic STAR exemption](171u-verification-of-income-eligibility-for-basic-star-exemption.md)
 - [§ 171-V Enforcement of delinquent tax liabilities through the suspension of drivers' licenses](171v-enforcement-of-delinquent-tax-liabilities-through-the-suspension-of-drivers.md)
-- [§ 171-Y Enforcement of delinquent state tax liabilities through the suspension of eligibility for STAR exemptions](171y-enforcement-of-delinquent-state-tax-liabilities-through-the-suspension.md)
+- [§ 171-W State support for the local enforcement of past-due property taxes](171w-state-support-for-the-local-enforcement-of-past-due-property-taxes.md)
 - [§ 171-Z Information sharing with the comptroller regarding unclaimed funds](171z-information-sharing-with-the-comptroller-regarding-unclaimed-funds.md)
 - [§ 172 Official seal](172-official-seal.md)
 - [§ 173 Review by commissioner](173-review-by-commissioner.md)
@@ -85,8 +85,8 @@ Section 170.     Department of taxation and finance.
                    exemption.
         171-v.   Enforcement of delinquent tax liabilities through the
                    suspension of drivers' licenses.
-        171-y.   Enforcement of delinquent state tax liabilities through
-                   the suspension of eligibility for STAR exemptions.
+        171-w.   State support for the local enforcement of past-due
+                   property taxes.
         171-z.   Information sharing with the comptroller regarding
                    unclaimed funds.
         172.     Official seal.

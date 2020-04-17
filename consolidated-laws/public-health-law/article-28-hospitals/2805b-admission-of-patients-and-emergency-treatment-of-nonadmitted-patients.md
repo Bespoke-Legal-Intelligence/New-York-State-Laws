@@ -104,7 +104,7 @@ as such term is defined in section 1.03 of the mental hygiene law, and
 subject to the provisions of section 31.27 of such law, shall only be
 permitted following the designation of the programs by the commissioners
 of health and mental health to receive such patients.
-  * NB Effective until July 1, 2020
+  * NB Effective until July 1, 2024
   * 3. A general hospital within a city with a population of one million
 or more may request the emergency medical service of such city's health
 and hospitals corporation or any person, firm, organization or
@@ -123,7 +123,7 @@ such city's health and hospitals corporation.
 best interest of the patients, require their transport directly to
 specialty referral centers shall be permitted following the designation
 of such specialty referral centers.
-  * NB Effective July 1, 2020
+  * NB Effective July 1, 2024
   4. Nothing in this section shall be construed to deny to the attending
 physician the right to evaluate the medical needs of persons arriving at
 the hospital for emergency treatment and to delay or deny medical

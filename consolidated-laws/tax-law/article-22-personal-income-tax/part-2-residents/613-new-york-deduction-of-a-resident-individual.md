@@ -4,8 +4,17 @@
 [Tax Law](../../README.md) › [Article 22 — Personal Income Tax](../README.md) › [Part 2 — Residents](README.md)
 
 ```text
-  § 613. New York deduction of a resident individual.  The New York
+  § 613. New York deduction of a resident individual. The New York
 deduction of a resident individual shall be his New York standard
 deduction unless he elects to deduct his New York itemized deduction
-under the conditions set forth in section six hundred fifteen.
+under the conditions set forth in section six hundred fifteen of this
+article. If an individual taxpayer has elected to deduct his New York
+itemized deduction computed pursuant to section six hundred fifteen of
+this article, but the department determines that the New York standard
+deduction allowable pursuant to section six hundred fourteen of this
+article is greater, the department shall recompute the taxpayer's tax
+liability pursuant to section six hundred eleven of this article using
+the New York standard deduction provided in section six hundred fourteen
+of this article. The department will notify the taxpayer of any
+adjustment to the election.
 ```
