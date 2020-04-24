@@ -15,7 +15,13 @@
                 REQUEST FOR CONSENT TO AN ANATOMICAL GIFT
 Section 4351. Duties of hospital administrators, organ procurement
                 organizations, eye banks and tissue banks.
-  * NB Repealed June 23, 2020
+  * NB Effective until June 23, 2020
+                              * ARTICLE 43-A
+           ANATOMICAL GIFT DUTIES OF HOSPITALS AND PROCUREMENT
+                              ORGANIZATIONS
+Section 4351. Duties of hospital administrators, organ procurement
+                organizations, banks or storage facilities.
+  * NB Effective June 23, 2020
 ```
 
 </details>

@@ -64,5 +64,5 @@ carry out its powers and duties. Additionally, all other agencies of the
 state or subdivisions thereof shall, at the request of the chair,
 provide the task force with such facilities, assistance, and data as
 will enable the task force to carry out its powers and duties.
-  * NB Repealed March 31, 2020
+  * NB Repealed March 31, 2021
 ```

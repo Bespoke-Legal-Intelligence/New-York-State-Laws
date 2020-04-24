@@ -26,10 +26,10 @@
 ```text
                                ARTICLE 25
                         MATERNAL AND CHILD HEALTH
-Title       I. General provisions (§§ 2500-2508).
+Title       I. General provisions (§§ 2500--2509-a).
           I-A. Child health insurance plan (§§ 2510-2511).
           1-B. Adolescent pregnancy prevention and services program (§§
-                  2515-2515-c).
+                  2515--2515-c).
            II. Prenatal care (§§ 2522-2532).
          II-A. Early intervention program for infants and toddlers with
                   disabilities and their families (§§ 2540--2559-b).

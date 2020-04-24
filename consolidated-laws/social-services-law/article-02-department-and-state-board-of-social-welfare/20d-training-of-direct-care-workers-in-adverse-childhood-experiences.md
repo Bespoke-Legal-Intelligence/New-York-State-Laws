@@ -4,7 +4,7 @@
 [Social Services Law](../README.md) › [Article 2 — Department and State Board of Social Welfare](README.md)
 
 ```text
-  * § 20-d. Training of direct care workers in adverse childhood
+  § 20-d. Training of direct care workers in adverse childhood
 experiences. 1. As used in this section:
   (a) "Direct-care employees" means the employees of domestic violence
 shelters, safe dwellings, and domestic violence programs identified by
@@ -43,5 +43,4 @@ children and family services shall, within amounts appropriated for such
 purpose, contract with a certifying organization to provide a
 certification of completion to each direct-care employee who satisfies
 the requirements of such training program.
-  * NB Effective April 20, 2020
 ```

@@ -9,7 +9,7 @@
 - [§ 3-A Rate of interest on judgments and accrued claims against municipal corporations](03a-rate-of-interest-on-judgments-and-accrued-claims-against-municipal-corporations.md)
 - [§ 3-B Limitation on real estate tax in New York city](03b-limitation-on-real-estate-tax-in-new-york-city.md)
 - [§ 3-C Limit upon real property tax levies by local governments](03c-limit-upon-real-property-tax-levies-by-local-governments.md)
-- [§ 3-D Certification of compliance with property tax freeze requirements](03d-certification-of-compliance-with-property-tax-freeze-requirements.md)
+- [§ 3-D Certification of compliance with tax levy limit](03d-certification-of-compliance-with-tax-levy-limit.md)
 - [§ 4 Investigation of expenditures of towns and villages](04-investigation-of-expenditures-of-towns-and-villages.md)
 - [§ 5 Payment of fines, civil penalties, rent, rates, taxes, fees, charges and other amounts by credit card](05-payment-of-fines-civil-penalties-rent-rates-taxes-fees-charges-and-other-amounts.md)
 - [§ 5-A Electronic or wire transfers](05a-electronic-or-wire-transfers.md)
@@ -61,8 +61,7 @@ Section 3.     Compensation for property of a municipal corporation,
                  municipal corporations.
         3-b.   Limitation on real estate tax in New York city.
         3-c.   Limit upon real property tax levies by local governments.
-        3-d.   Certification of compliance with property tax freeze
-                 requirements.
+        3-d.   Certification of compliance with tax levy limit.
         4.     Investigation of expenditures of towns and villages.
         5.     Payment of fines, civil penalties, rent, rates, taxes,
                  fees, charges and other amounts by credit card.

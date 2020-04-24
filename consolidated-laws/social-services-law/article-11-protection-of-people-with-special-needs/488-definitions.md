@@ -163,8 +163,8 @@ facility or provider agency.
 justice center for the protection of people with special needs as
 established by article twenty of the executive law.
   4. "Facility" or "provider agency" shall mean:
-  (a) a facility or program in which services are provided and which is
-operated, licensed or certified by the office of mental health, the
+  * (a) a facility or program in which services are provided and which
+is operated, licensed or certified by the office of mental health, the
 office for people with developmental disabilities or the office of
 alcoholism and substance abuse services, including but not limited to
 psychiatric centers, inpatient psychiatric units of a general hospital,
@@ -177,6 +177,22 @@ hygiene law, or services provided in programs or facilities that are
 operated by the office of mental health and located in state
 correctional facilities under the jurisdiction of the department of
 corrections and community supervision;
+  * NB Effective until July 2, 2020
+  * (a) a facility or program in which services are provided and which
+is operated, licensed or certified by the office of mental health, the
+office for people with developmental disabilities or the office of
+addiction services and supports, including but not limited to
+psychiatric centers, inpatient psychiatric units of a general hospital,
+developmental centers, intermediate care facilities, community
+residences, group homes and family care homes, provided, however, that
+such term shall not include a secure treatment facility as defined in
+section 10.03 of the mental hygiene law, services defined in paragraphs
+four and five of subdivision (a) of section 16.03 of the mental hygiene
+law, or services provided in programs or facilities that are operated by
+the office of mental health and located in state correctional facilities
+under the jurisdiction of the department of corrections and community
+supervision;
+  * NB Effective July 2, 2020
   (b) any program or facility that is operated by the office of children
 and family services for juvenile delinquents or juvenile offenders
 placed in the custody of the commissioner of such office and any

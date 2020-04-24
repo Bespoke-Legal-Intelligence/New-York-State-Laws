@@ -15,10 +15,7 @@ section and such other material as deemed appropriate by the
 commissioner. Hospitals and birth centers may also elect to distribute
 additional explanatory material along with the maternity patients
 informational leaflet. The commissioner shall make the information
-contained in the leaflet available on the department's website and shall
-cause a sufficient number of leaflets to be printed or photocopied to
-allow each pediatric primary care provider in the state to provide the
-leaflet to parents at a child's six month appointment.
+contained in the leaflet available on the department's website.
   1-a. The informational leaflet shall also include an explanation of
 the special provisions relating to maternity care and coverage under the
 insurance law and section two thousand eight hundred three-n of this
@@ -45,18 +42,12 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
-  ** 1-e. The informational leaflet shall also include information
-regarding the danger that window blinds pose to children including
-proper installation of blinds, examples of current standards and the
-potential fatal consequences from strangulation posed by window blinds.
-  ** NB There are 2 sb 1-e's
   ** 1-e. The informational leaflet shall also include information on
 possible complications from pregnancy that can endanger the life or
 health of the newborn or the mother. The commissioner, in consultation
 with any state or local government maternal mortality review boards,
 shall review and update this information as necessary.
-  ** NB There are 2 sb 1-e's
-  ** NB Effective June 17, 2020
+  ** NB Effective and Repealed June 17, 2020
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

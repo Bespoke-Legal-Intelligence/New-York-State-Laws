@@ -69,5 +69,5 @@ this article.
 adult care facility is requesting approval to utilize no more than five
 beds or five percent of its certified capacity, whichever is less, for
 temporary residential care.
-  * NB Expires July 1, 2020
+  * NB Expires July 1, 2023
 ```

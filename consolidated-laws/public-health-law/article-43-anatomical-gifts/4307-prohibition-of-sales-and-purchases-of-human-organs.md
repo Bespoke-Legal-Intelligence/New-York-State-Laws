@@ -11,9 +11,9 @@ transplantation. The term "valuable consideration" does not include the
 reasonable payments associated with the removal, transportation,
 implantation, processing, preservation, quality control, and storage of
 a part or the expenses of travel, housing, and lost wages incurred by
-the donor of a human organ in connection with the donation of the organ
-or human paired organ donation. Any person who violates this section
-shall be guilty of a class E felony.
+the donor of a human part in connection with the donation of the part or
+living donation. Any person who violates this section shall be guilty of
+a class E felony.
   2. For the purposes of this section, the donation of a kidney or other
 organ from a live donor for transplantation into an individual
 conditioned upon the donation and transplantation of a similar organ

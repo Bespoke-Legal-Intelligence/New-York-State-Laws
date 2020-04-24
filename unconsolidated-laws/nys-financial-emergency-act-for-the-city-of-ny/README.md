@@ -9,7 +9,7 @@
 | Type | Unconsolidated law |
 | Session law | L. 1975, ch. 868 |
 | Sections | 20 |
-| Last changed | 25 Oct 2019 |
+| Last changed | 24 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | NYS Financial Emergency Act for the city of NY 868/75 |
 
@@ -32,6 +32,7 @@ Section  1.   Short title.
 
 ## Recent changes
 
+- [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [25 Oct 2019](../../changes/2019/2019-10-25.md): 1 amended
 - [12 Jul 2019](../../changes/2019/2019-07-12.md): 1 amended
 - [6 Jul 2018](../../changes/2018/2018-07-06.md): 1 amended

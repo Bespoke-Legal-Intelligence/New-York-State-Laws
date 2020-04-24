@@ -25,5 +25,5 @@ Such written mandatory corrective plans shall include caps on
 administrative and general costs that are unrelated to providing direct
 care (including providing at least minimum staffing levels as determined
 by the department) or care coordination.
-  * NB Effective April 14, 2020
+  * NB There are 2 § 2803-w's
 ```

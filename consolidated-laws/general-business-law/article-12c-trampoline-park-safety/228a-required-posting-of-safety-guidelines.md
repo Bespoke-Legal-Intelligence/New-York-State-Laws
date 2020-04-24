@@ -1,10 +1,12 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 228-A", "kind": "section", "law_id": "GBS", "location_id": "228-A", "path": "ARTICLE 12-C › SECTION 228-A", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/228-A.md", "title": "Required posting of safety guidelines"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 228-A", "kind": "section", "law_id": "GBS", "location_id": "228-A", "path": "ARTICLE 12-C › SECTION 228-A", "repealed": true, "repealed_date": "2020-04-24", "source": "nys-laws:GBS/228-A.md", "title": "Required posting of safety guidelines"} -->
 # General Business Law § 228-A — Required posting of safety guidelines
 
 [General Business Law](../README.md) › [Article 12-C — Trampoline Park Safety](README.md)
 
+**Repealed** (24 Apr 2020). The text below is what the Senate publishes for this repealed provision.
+
 ```text
-  * § 228-a. Required posting of safety guidelines. 1. The owner and/or
+  § 228-a. Required posting of safety guidelines. 1. The owner and/or
 operator of a trampoline park shall conspicuously post a sign containing
 safety and instructional rules and guidelines to be followed by
 participants while at the trampoline park or using a commercial
@@ -25,5 +27,4 @@ participants and parents or guardians in the case of a minor, shall
 familiarize themselves with the posted safety warnings so that they may
 make an informed decision of whether to participate in or on the
 trampoline notwithstanding the risks.
-  * NB Effective April 18, 2020
 ```

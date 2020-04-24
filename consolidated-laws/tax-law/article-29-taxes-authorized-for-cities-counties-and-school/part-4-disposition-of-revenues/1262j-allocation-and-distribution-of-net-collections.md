@@ -35,11 +35,11 @@ Suffolk.
 collections received by the county of Suffolk as a result of the
 increase of one percent to the tax authorized by section twelve hundred
 ten of this article for the period beginning June first, two thousand
-one and ending November thirtieth, two thousand twenty, imposed by local
-laws or resolutions (by simple majority) by the county legislature, and
-signed by the county executive, the county of Suffolk shall allocate
-such net collections as follows: no less than one-eighth and no more
-than three-eighths of such net collections received shall be dedicated
-for public safety purposes and the balance shall be deposited in the
-general fund of the county of Suffolk.
+one and ending November thirtieth, two thousand twenty-three, imposed by
+local laws or resolutions (by simple majority) by the county
+legislature, and signed by the county executive, the county of Suffolk
+shall allocate such net collections as follows: no less than one-eighth
+and no more than three-eighths of such net collections received shall be
+dedicated for public safety purposes and the balance shall be deposited
+in the general fund of the county of Suffolk.
 ```

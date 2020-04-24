@@ -192,12 +192,12 @@ gift is made under this subdivision, either: (a) the authorizing party
 shall indicate in the document or message that he or she has no actual
 notice of contrary indications by the decedent and no reason to believe
 that an anatomical gift is contrary to the decedent's religious or moral
-beliefs; or (b) an agent of the federally designated organ procurement
-organization or of the donee shall make reasonable efforts to inquire of
-the authorizing party or otherwise determine that the authorizing party
-has no actual notice of contrary indications by the decedent and no
-reason to believe that an anatomical gift is contrary to the decedent's
-religious or moral beliefs.
+beliefs; or (b) an agent of the organ procurement organization or of the
+donee shall make reasonable efforts to inquire of the authorizing party
+or otherwise determine that the authorizing party has no actual notice
+of contrary indications by the decedent and no reason to believe that an
+anatomical gift is contrary to the decedent's religious or moral
+beliefs.
   5. The donee shall not accept the gift under the following
 circumstances:
   (a) the donee has actual notice of contrary indication by the

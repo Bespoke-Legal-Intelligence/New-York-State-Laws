@@ -138,7 +138,7 @@ makes a single return jointly with his or her spouse under subsection
 (b) of section thirteen hundred six of this article and on the city
 taxable income of every city resident surviving spouse shall be
 determined in accordance with the following table:
-  For taxable years beginning after two thousand twenty:
+  For taxable years beginning after two thousand twenty-three:
 If the city taxable income is:         The tax is:
 Not over $21,600                       1.18% of the city taxable income
 Over $21,600 but not                   $255 plus 1.435% of excess
@@ -150,7 +150,7 @@ Over $90,000                           $1,245 plus 1.48% of excess
   (2) Resident heads of households. The tax under this section for each
 taxable year on the city taxable income of every city resident head of a
 household shall be determined in accordance with the following table:
-  For taxable years beginning after two thousand twenty:
+  For taxable years beginning after two thousand twenty-three:
 If the city taxable income is:         The tax is:
 Not over $14,400                       1.18% of the city taxable income
 Over $14,400 but not                   $170 plus 1.435% of excess
@@ -168,7 +168,7 @@ subsection (b) of section thirteen hundred six of this article or a city
 resident head of household or a city resident surviving spouse, and on
 the city taxable income of every city resident estate and trust shall be
 determined in accordance with the following table:
-  For taxable years beginning after two thousand twenty:
+  For taxable years beginning after two thousand twenty-three:
 If the city taxable income is:         The tax is:
 Not over $12,000                       1.18% of the city taxable income
 Over $12,000 but not                   $142 plus 1.435% of excess

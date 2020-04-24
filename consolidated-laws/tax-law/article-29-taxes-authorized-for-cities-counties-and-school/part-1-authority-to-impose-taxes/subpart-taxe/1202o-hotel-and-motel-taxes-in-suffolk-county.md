@@ -104,7 +104,7 @@ progress on the promotion of the county of Suffolk as a film friendly
 location, and annual statistics of the revenue generated pursuant to
 paragraph (f) of this subdivision.
   (7) Such local law shall provide for the imposition of a hotel or
-motel tax until December thirty-first, two thousand twenty.
+motel tax until December thirty-first, two thousand twenty-three.
   (8) This section shall not authorize the imposition of such tax upon
 any transaction, by or with any of the following in accordance with
 section twelve hundred thirty of this chapter:

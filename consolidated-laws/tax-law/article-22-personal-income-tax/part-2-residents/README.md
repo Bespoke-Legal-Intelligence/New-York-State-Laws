@@ -48,6 +48,7 @@
 - [§ 630-G Gift for leukemia, lymphoma and myeloma research, education and treatment](630g-gift-for-leukemia-lymphoma-and-myeloma-research-education-and-treatment.md)
 - [§ 630-G\*2 Gift for the William B](630g-2-gift-for-the-william-b.md)
 - [§ 630-G\*3 Gift to the arts fund](630g-3-gift-to-the-arts-fund.md)
+- [§ 630-H New York state campaign finance fund check-off](630h-new-york-state-campaign-finance-fund-check-off.md)
 
 <details>
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -107,6 +108,7 @@ Section 611.     New York taxable income of a resident individual.
         630-g*2. Gift for the William B. Hoyt Memorial children and
                    family trust fund.
         630-g*3. Gift to the arts fund.
+        630-h.   New York state campaign finance fund check-off.
 ```
 
 </details>

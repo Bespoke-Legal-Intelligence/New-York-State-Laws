@@ -83,5 +83,5 @@ also be filed with the county clerk of the county of Greene, the
 secretary of state and the state comptroller within five days after the
 date it is duly enacted.
   * NB There are 2 § 253-x's
-  * NB Repealed December 1, 2020
+  * NB Repealed December 1, 2023
 ```

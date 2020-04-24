@@ -1,0 +1,14 @@
+﻿<!-- nyslaw {"citation": "Family Court Act § 580-208", "kind": "section", "law_id": "FCT", "location_id": "580-208", "path": "ARTICLE 5-B › PART 2 › SECTION 580-208", "repealed": false, "repealed_date": null, "source": "nys-laws:FCT/580-208.md", "title": "Child support orders for two or more obligees"} -->
+# Family Court Act § 580-208 — Child support orders for two or more obligees
+
+[Family Court Act](../../README.md) › [Article 5-B — Uniform Interstate Family Support Act](../README.md) › [Part 2 — Jurisdiction](README.md)
+
+```text
+  § 580-208. Child support orders for two or more obligees. In
+responding to registrations or petitions for enforcement of two or more
+child support orders in effect at the same time with regard to the same
+obligor and different individual obligees, at least one of which was
+issued by a tribunal of another state or a foreign country, a tribunal
+of this state shall enforce those orders in the same manner as if the
+orders had been issued by a tribunal of this state.
+```

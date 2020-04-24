@@ -18,8 +18,8 @@ domestic partner, child, parent, sibling, grandchild, grandparent, or
 guardian of the individual who makes, amends, revokes, or refuses to
 make an anatomical gift, or a close friend, or another adult who is
 related to the decedent by blood, marriage, or adoption.
-  4. "Document of gift" means an organ donor card, whole body organ
-donor card, driver's license authorization to make an anatomical gift,
+  4. "Document of gift" means an organ donor card, whole body donor
+card, driver's license authorization to make an anatomical gift,
 pursuant to paragraph (a) of subdivision one of section five hundred
 four of the vehicle and traffic law, authorization to make an anatomical
 gift pursuant to any of the methods in subdivision five of section
@@ -27,7 +27,10 @@ forty-three hundred ten of this article, or any other written
 authorization for an anatomical gift. The term "document of gift"
 includes a statement on a driver's license, identification card,
 enrollment in a donor registry, or any other anatomical gift document
-valid pursuant to the laws of this or any other state.
+valid pursuant to the laws of this or any other state or of any document
+of gift valid pursuant to the laws of any other country appearing on a
+list of countries maintained by the commissioner for such purpose and
+published on the department's website.
   5. "Domestic partner" has the same meaning as described in subdivision
 seven of section twenty-nine hundred ninety-four-a of this chapter.
   6. "Donee" means an individual or entity authorized to accept an
@@ -46,35 +49,7 @@ individual. The term does not include a guardian ad litem.
 under the laws of any state and includes a hospital operated by the
 United States Government, a state, or a subdivision thereof, although
 not required to be licensed under state laws.
-  11. "Human paired organ donation" means the donation and receipt of
-human organs under the following circumstances:
-  (a) An individual (referred to in this subdivision as the "first
-donor") desires to make a living donation of a human organ specifically
-to a particular patient (referred to in this subdivision as "first
-patient"), but such donor is biologically incompatible as a donor for
-such patient.
-  (b) A second individual (referred to in this subdivision as the
-"second donor") desires to make a living donation of a human organ
-specifically to a second particular patient (referred to in this
-subdivision as the "second patient"), but such donor is biologically
-incompatible as a donor for such patient.
-  (c) Subject to paragraph (d) of this subdivision, the first donor is
-biologically compatible as a donor of a human organ for the second
-patient, and the second donor is biologically compatible as a donor of a
-human organ for the first patient.
-  (d) If there is any additional donor-patient pair as described in
-paragraph (a) or (b) of this subdivision, each donor in the group of
-donor-patient pairs is biologically compatible as a donor of a human
-organ for a patient in such group.
-  (e) All donors and patients in the group of donor-patient pairs
-(whether two pairs, or more than two pairs) enter into a single
-agreement to donate and receive such human organs, respectively,
-according to such biological compatibility in the group.
-  (f) Other than as described in paragraph (e) of this subdivision, no
-valuable consideration is knowingly acquired, received, or otherwise
-transferred with respect to the human organs referred to in such
-paragraph.
-  12. "Non-transplant anatomic bank" means any person or facility that
+  11. "Non-transplant anatomic bank" means any person or facility that
 solicits, retrieves, performs donor selection and/or testing, preserves,
 transport, allocates, distributes, acquires, processes, stores, or
 arranges for the storage of non-transplant anatomic parts, including
@@ -103,6 +78,9 @@ and
   (d) An employee of the federal government, provided an anatomical gift
 consent document has been executed in accordance with section
 forty-three hundred one of this article.
+  12. "Organ" shall have the same definition as in article forty-three-B
+of this chapter, but shall not be applied to heart valves for the
+purposes of this article.
   13. "Organ procurement organization" means a person designated by the
 secretary of the United States Department of Health and Human Services
 as an organ procurement organization.

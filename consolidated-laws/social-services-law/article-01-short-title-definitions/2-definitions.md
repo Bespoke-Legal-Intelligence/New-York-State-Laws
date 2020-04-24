@@ -78,7 +78,7 @@ to live independently. In addition, a residence for adults, enriched
 housing program or an adult home may provide services to non-residents
 in accordance with the provisions of section four hundred sixty-one-k of
 this chapter.
-  * NB Effective until July 1, 2020
+  * NB Effective until July 1, 2023
   * 21. Adult care facility shall mean a family type home for adults, a
 shelter for adults, a residence for adults, an enriched housing program
 or an adult home, which provides temporary or long-term residential care
@@ -88,7 +88,7 @@ twenty-eight of the public health law or articles nineteen, twenty-three
 and thirty-one of the mental hygiene law, are by reason of physical or
 other limitations associated with age, physical or mental disabilities
 or other factors, unable or substantially unable to live independently.
-  * NB Effective July 1, 2020
+  * NB Effective July 1, 2023
   22. A family type home for adults shall mean an adult care facility
 established and operated for the purpose of providing long-term
 residential care and personal care and/or supervision to four or fewer

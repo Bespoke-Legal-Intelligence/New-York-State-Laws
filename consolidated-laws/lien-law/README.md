@@ -8,7 +8,7 @@
 | Senate code | LIE |
 | Type | Consolidated law, chapter 33 |
 | Sections | 175 |
-| Last changed | 29 Nov 2019 |
+| Last changed | 24 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Lien |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 amended
 - [31 Aug 2018](../../changes/2018/2018-08-31.md): 1 amended

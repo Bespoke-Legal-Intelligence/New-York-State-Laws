@@ -9,6 +9,9 @@
 - [Part 2 — Judgment of Parentage](part-2-judgment-of-parentage/)
 - [Part 3 — Child of Assisted Reproduction](part-3-child-of-assisted-reproduction/)
 - [Part 4 — Surrogacy Agreement](part-4-surrogacy-agreement/)
+- [Part 5 — Payment to Donors and Persons Acting As Surrogates](part-5-payment-to-donors-and-persons-acting/)
+- [Part 6 — Surrogates' Bill of Rights](part-6-surrogates-bill-of-rights/)
+- [Article 5-CP7 — Part 7 Miscellaneous Provisions](article-5cp7-part-7-miscellaneous-provisions/)
 
 <details>
 <summary>Official heading of Article 5-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

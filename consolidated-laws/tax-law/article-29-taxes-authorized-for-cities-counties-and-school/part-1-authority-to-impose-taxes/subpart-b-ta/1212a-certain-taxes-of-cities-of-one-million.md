@@ -104,7 +104,7 @@ duly licensed and admitted to practice law in this state. The local law
 imposing the taxes authorized by this paragraph may provide for
 exclusions and exemptions in addition to those provided for in such
 paragraph. Provided, however, that the tax hereby authorized shall not
-be imposed after November thirtieth, two thousand twenty.
+be imposed after November thirtieth, two thousand twenty-three.
   (b) (1) All provisions set forth in article twenty-eight of this
 chapter applicable to the taxes imposed under section eleven hundred
 five, including the definition and exemption provisions of such article,

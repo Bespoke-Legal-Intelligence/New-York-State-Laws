@@ -7,7 +7,6 @@
 
 - [Part 1 — General Provisions](part-1-general-provisions/)
 - [Part 2 — Jurisdiction](part-2-jurisdiction/)
-- [Part 2C — Reconciliation of Multiple Orders](part-2c-reconciliation-of-multiple-orders/)
 - [Part 3 — Civil Provisions of General Application](part-3-civil-provisions-of-general/)
 - [Part 4 — Establishment of Support Order or Determination of Parentage](part-4-establishment-of-support-order/)
 - [Part 5 — Enforcement of Support Order Without Registration](part-5-enforcement-of-support-order-without/)

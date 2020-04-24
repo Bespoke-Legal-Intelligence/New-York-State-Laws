@@ -8,7 +8,7 @@
 | Senate code | FCT |
 | Type | Court act |
 | Sections | 687 |
-| Last changed | 17 Apr 2020 |
+| Last changed | 24 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Family Court Act |
 
@@ -31,6 +31,7 @@
 
 ## Recent changes
 
+- [24 Apr 2020](../../changes/2020/2020-04-24.md): 7 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 5 amended, 37 added, 2 removed
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 6 amended
 - [20 Mar 2020](../../changes/2020/2020-03-20.md): 1 amended
@@ -40,7 +41,6 @@
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 3 amended
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 4 amended
 - [1 Nov 2019](../../changes/2019/2019-11-01.md): 1 amended
-- [11 Oct 2019](../../changes/2019/2019-10-11.md): 3 amended
 
 ## Contents
 
@@ -52,9 +52,6 @@
 - [Article 5-A — Special Provisions Relating to Enforcement of Support and Establishment of Paternity](article-05a-special-provisions-relating-to-enforcement/)
 - [Article 5-B — Uniform Interstate Family Support Act](article-05b-uniform-interstate-family-support-act/)
 - [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](article-05c-judgments-of-parentage-of-children-conceived/)
-- [Article 5-BC5 — No title](article-05bc5-no-title/)
-- [Article 5-BC6 — No title](article-05bc6-no-title/)
-- [Article 5-CP7 — Part 7 Miscellaneous Provisions](article-05cp7-part-7-miscellaneous-provisions/)
 - [Article 6 — Permanent Termination of Parental Rights, Adoption, Guardianship and Custody](article-06-permanent-termination-of-parental-rights/)
 - [Article 7 — Proceedings Concerning Whether a Person Is In Need of Supervision](article-07-proceedings-concerning-whether-a-person-is/)
 - [Article 8 — Family Offenses Proceedings](article-08-family-offenses-proceedings/)

@@ -4,15 +4,21 @@
 [Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
 
 ```text
-  * § 4306-a. Advanced directives and health care proxies. 1. If a
-patient in a hospital has a declaration or advance health care directive
-or proxy document pursuant to article twenty-nine-C of this chapter, and
-terms of the declaration, directive or proxy document concerning
-life-sustaining treatment are in conflict with the express or implied
-terms of a potential anatomical gift with regard to the administration
-of measures necessary to ensure the medical suitability of a part for
-transplantation or therapy, the prospective donor's attending physician
-and the prospective donor shall confer to resolve the conflict.
+  * § 4306-a. Advanced directives and health care proxies.  1. If a
+prospective donor in a hospital has a declaration or advance health care
+directive and terms of the declaration, directive or proxy document
+concerning life-sustaining treatment are in conflict with the express or
+implied terms of a potential anatomical gift with regard to the
+administration of measures necessary to ensure the medical suitability
+of a part for transplantation or therapy, the prospective donor's
+attending physician and the prospective donor shall confer to resolve
+the conflict. For purposes of this section, an advance directive shall
+mean a written or oral instruction by the adult patient relating to the
+provision of health care to the patient when an adult becomes
+incapacitated, including but not limited to a health care proxy, a
+consent to the issuance of an order not to resuscitate or other orders
+for life-sustaining treatment recorded in a patient's medical record, or
+a legally-recognized statement of wishes or beliefs.
   2. If such prospective donor is incapable of resolving the conflict,
 and the patient in such declaration, directive, or proxy document did
 not expressly reject being a donor, then the health care proxy acting

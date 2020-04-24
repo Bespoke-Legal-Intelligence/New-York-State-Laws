@@ -4,7 +4,7 @@
 [Navigation Law](../README.md) › [Article 6 — Pilots and Pilotage Fees, Port of New York](README.md)
 
 ```text
-  § 89-a. Pilotage on the Hudson river; rates. 1. Every foreign vessel
+  § 89-a. Pilotage on the Hudson river; rates.  1. Every foreign vessel
 and every American vessel under register, except vessels proceeding
 otherwise than by sea and of less than three hundred gross registered
 tons and having a fully loaded draft of seven feet or less, entering or
@@ -13,7 +13,7 @@ Main street, Yonkers, west to Alpine, New Jersey, or navigating any of
 the waters of the Hudson river north of said line and south of the dam
 at Troy, New York, shall take a Hudson river pilot licensed under the
 authority of this article.  Notwithstanding the provisions of this
-subdivision, recreational vessels as defined in section 2101(25) of
+subdivision, recreational vessels as defined in section 2101 (34) of
 title 46 of the United States Code of less than two hundred feet in
 length may be exempted from the compulsory state pilotage requirement at
 the discretion of the board of commissioners of pilots. Whenever the
@@ -24,8 +24,8 @@ such vessel. The pilotage authorized to be collected whenever a pilot
 shall be refused by a vessel shall be sued for and recovered in the name
 of the pilot tendering such service. Such pilotage, when recovered,
 shall belong to and may be retained by such pilot for his own benefit
-and use. Recreational vessels as defined in section 2101(25) of title 46
-of the United States Code may be exempted from the compulsory state
+and use. Recreational vessels as defined in section 2101 (34) of title
+46 of the United States Code may be exempted from the compulsory state
 pilotage requirement pursuant to this subdivision at the discretion of
 the board of commissioners of pilots.
   2. It shall be unlawful for any person not licensed as a Hudson river

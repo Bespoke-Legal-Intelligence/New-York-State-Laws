@@ -4,15 +4,17 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  § 2805-z. Hospital domestic violence policies and procedures. 1. Every
-general hospital shall: (a) develop, maintain and disseminate written
-policies and procedures for the identification, assessment, treatment
-and referral of confirmed or suspected cases of domestic violence; (b)
-establish, and implement on an ongoing basis, a training program for all
-current and new employees regarding the policies and procedures
-established pursuant to this section; (c) designate a staff member to
-coordinate services to victims of domestic violence; and (d) contact the
-domestic violence or victim assistance organization providing victim
+  * § 2805-z. Hospital domestic violence policies and procedures. 1.
+Every general hospital shall: (a) develop, maintain and disseminate
+written policies and procedures for the identification, assessment,
+treatment and referral of confirmed or suspected cases of domestic
+violence; (b) establish, and implement on an ongoing basis, a training
+program for all nursing, medical, social work and other clinical
+personnel, and security personnel working in hospital service units
+regarding the policies and procedures established pursuant to this
+section; and (c) designate a staff member to contact the domestic
+violence or victim assistance organization identified by the
+commissioner under subdivision three of this section providing victim
 assistance to the geographic area served by such hospital to establish
 the coordination of services to domestic violence victims.
   2. Upon admittance or commencement of treatment of a confirmed or
@@ -28,5 +30,9 @@ section. Prior to promulgating such rules and regulations, the
 commissioner shall consult with the office for the prevention of
 domestic violence and other such persons as the commissioner deems
 necessary to develop a model policy for hospitals to utilize in
-complying with this section.
+complying with this section and to identify the domestic violence or
+victim assistance organizations operating in each hospital's geographic
+area, a list of which the commissioner shall provide to hospitals with
+the model policy.
+  * NB Effective December 23, 2020
 ```

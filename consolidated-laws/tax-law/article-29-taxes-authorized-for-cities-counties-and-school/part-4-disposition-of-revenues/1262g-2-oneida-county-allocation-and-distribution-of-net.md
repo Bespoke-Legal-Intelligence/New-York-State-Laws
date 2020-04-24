@@ -41,21 +41,23 @@ fourteen through August thirty-first, two thousand fifteen; September
 first, two thousand fifteen through August thirty-first, two thousand
 sixteen; and September first, two thousand sixteen through August
 thirty-first, two thousand seventeen; September first, two thousand
-seventeen through August thirty-first, two thousand eighteen; and
-September first, two thousand eighteen through August thirty-first, two
-thousand twenty, to an allocation on a per capita basis, utilizing
-figures from the latest decennial federal census or special population
-census taken pursuant to section twenty of the general municipal law,
-completed and published prior to the end of the year for which such
-allocation is made, which special census must include the entire area of
-such county, to be allocated and distributed among the towns of Oneida
-county by appropriation of its board of legislators; provided, further,
-that nothing herein shall require such board of legislators to make any
-such appropriation until it has been notified by any town by appropriate
-resolution and, in any case where there is a village wholly or partly
-located within a town, a resolution of every such village, embodying the
-agreement of such town and village or villages upon the amount of such
-appropriation to be distributed to such village or villages out of the
-allocation to the town or towns in which it is located.
+seventeen through August thirty-first, two thousand eighteen; September
+first, two thousand eighteen through August thirty-first, two thousand
+twenty; and September first, two thousand twenty through August
+thirty-first, two thousand twenty-three, to an allocation on a per
+capita basis, utilizing figures from the latest decennial federal census
+or special population census taken pursuant to section twenty of the
+general municipal law, completed and published prior to the end of the
+year for which such allocation is made, which special census must
+include the entire area of such county, to be allocated and distributed
+among the towns of Oneida county by appropriation of its board of
+legislators; provided, further, that nothing herein shall require such
+board of legislators to make any such appropriation until it has been
+notified by any town by appropriate resolution and, in any case where
+there is a village wholly or partly located within a town, a resolution
+of every such village, embodying the agreement of such town and village
+or villages upon the amount of such appropriation to be distributed to
+such village or villages out of the allocation to the town or towns in
+which it is located.
   * NB There are 2 § 1262-g's
 ```

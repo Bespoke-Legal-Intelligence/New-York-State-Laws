@@ -45,6 +45,7 @@
 - [§ 2803-V Lymphedema information distribution](2803v-lymphedema-information-distribution.md)
 - [§ 2803-V\*2 Standing orders for newborn care in a hospital](2803v-2-standing-orders-for-newborn-care-in-a-hospital.md)
 - [§ 2803-W Independent quality monitors for residential health care facilities](2803w-independent-quality-monitors-for-residential-health-care-facilities.md)
+- [§ 2803-W\*2 Disclosure of information concerning pregnancy complications](2803w-2-disclosure-of-information-concerning-pregnancy-complications.md)
 - [§ 2803-X Requirements related to residential health care facilities and related assets](2803x-requirements-related-to-residential-health-care-facilities-and-related-assets.md)
 - [§ 2803-Y Provision of residency agreement](2803y-provision-of-residency-agreement.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
@@ -195,6 +196,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2803-v*2. Standing orders for newborn care in a hospital.
         2803-w.   Independent quality monitors for residential health
                     care facilities.
+        2803-w*2. Disclosure of information concerning pregnancy
+                    complications.
         2803-x.   Requirements related to residential health care
                     facilities and related assets.
         2803-y.   Provision of residency agreement.
@@ -260,7 +263,6 @@ Section 2800.     Declaration of policy and statement of purpose.
         2807-d-1. Hospital quality contributions.
         2807-e.   Uniform bills.
         2807-f.   Health maintenance organization payment factor.
-        2807-g.   Health workforce retraining program.
         2807-i.   Service and quality improvement grants.
         2807-j.   Patient services payments.
         2807-k.   General hospital indigent care pool.

@@ -436,15 +436,16 @@ regulation have been obtained to receive federal financial participation
 in the costs of health care services provided pursuant to this
 paragraph.
   (x)(i) lactation counseling services for pregnant and postpartum women
-provided by a qualified lactation care provider, as determined by the
-commissioner of health; provided, however, that the provisions of this
-paragraph shall not take effect unless all necessary approvals under
-federal law and regulation have been obtained to receive federal
-financial participation in the costs of health care services provided
-pursuant to this paragraph. Nothing in this paragraph shall be construed
-to modify any licensure, certification or scope of practice provision
-under title eight of the education law.
-  (ii) For the purposes of this paragraph, the following terms shall
+when such services are ordered by a physician, physician assistant,
+nurse practitioner, or midwife and provided by a qualified lactation
+care provider, as determined by the commissioner of health; provided,
+however, that the provisions of this paragraph shall not take effect
+unless all necessary approvals under federal law and regulation have
+been obtained to receive federal financial participation in the costs of
+health care services provided pursuant to this paragraph. Nothing in
+this paragraph shall be construed to modify any licensure, certification
+or scope of practice provision under title eight of the education law.
+  (ii) for the purposes of this paragraph, the following terms shall
 have the following meanings:
   (1) "Qualified lactation care provider" shall mean a person who
 possesses current certification as a lactation care provider from a

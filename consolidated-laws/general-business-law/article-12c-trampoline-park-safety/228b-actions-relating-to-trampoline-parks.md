@@ -1,10 +1,12 @@
-﻿<!-- nyslaw {"citation": "General Business Law § 228-B", "kind": "section", "law_id": "GBS", "location_id": "228-B", "path": "ARTICLE 12-C › SECTION 228-B", "repealed": false, "repealed_date": null, "source": "nys-laws:GBS/228-B.md", "title": "Actions relating to trampoline parks"} -->
+﻿<!-- nyslaw {"citation": "General Business Law § 228-B", "kind": "section", "law_id": "GBS", "location_id": "228-B", "path": "ARTICLE 12-C › SECTION 228-B", "repealed": true, "repealed_date": "2020-04-24", "source": "nys-laws:GBS/228-B.md", "title": "Actions relating to trampoline parks"} -->
 # General Business Law § 228-B — Actions relating to trampoline parks
 
 [General Business Law](../README.md) › [Article 12-C — Trampoline Park Safety](README.md)
 
+**Repealed** (24 Apr 2020). The text below is what the Senate publishes for this repealed provision.
+
 ```text
-  * § 228-b. Actions relating to trampoline parks. 1. In any contract or
+  § 228-b. Actions relating to trampoline parks. 1. In any contract or
 agreement between the operator or owner of a trampoline park and a
 participant, or parent or guardian in the case of a minor, any portion
 of the contract or any clause which purports to designate, restrict, or
@@ -12,5 +14,4 @@ limit the venue in which a claim shall be adjudicated or arbitrated
 shall be deemed void as against public policy.
   2. Nothing in this section shall be deemed to affect the validity of
 any other aspect of a contract.
-  * NB Effective April 18, 2020
 ```

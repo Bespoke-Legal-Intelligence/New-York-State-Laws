@@ -540,6 +540,10 @@ subsection (c) of section 965 of the internal revenue code.
 250(a)(1)(A) of the internal revenue code.
   (25) The amount of any federal deduction allowed pursuant to section
 250(a)(1)(B)(i) of the internal revenue code.
+  (26) For taxable years beginning in two thousand nineteen and two
+thousand twenty, the amount of the increase in the federal interest
+deduction allowed pursuant to section 163(j)(10)(A)(i) of the internal
+revenue code.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

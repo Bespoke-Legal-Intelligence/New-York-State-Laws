@@ -133,6 +133,8 @@ Article
            Title    I.   Municipal insect control (§§1500-1503).
                    II.   County insect control (§§1520-1531).
   16.      Pesticide control board (§§1601-1609).
+  17.      Ingredient disclosures for vapor products and e-cigarettes
+            (§§ 1700-1702).
   20.      Reporting of Alzheimer's Disease (§§2000--2004-a).
   20-a.    Alzheimer's Community Assistance Program (§§2005-2009).
   21.      Control of acute communicable diseases
@@ -166,7 +168,7 @@ Article
             committee (§§2490--2490-a).
   24-E.    Information about hysterectomy (§§2495--2499-a).
   25.      Maternal and child health
-           Title    I.   General provisions (§§2500-2509).
+           Title    I.   General provisions (§§2500--2509-a).
                   I-A.   Child health insurance plan (§§2510-2511).
                   1-B.   Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).
@@ -186,6 +188,7 @@ Article
                  VIII.   Childhood obesity prevention program
                           (§§2599-a--2599-d).
   25-A.    Reproductive health act (§§ 2599-aa--2599-bb).
+  25-B.    Gestational surrogacy (§ 2599-cc).
   26.      Helen Hayes Hospital (§§2600-2602).
   26-A.    New York state veterans' home (§§2630-2635).
   27.      Bureau of chronic disease and geriatrics (§§2700-2702).
@@ -209,7 +212,6 @@ Article
   27-H*.   Diabetes research and education program (§2796).
   27-H.    The Tick-Borne Disease Institute (§§2797--2798).
   27-K.    New York Wellness Works (§§2799-o--2799-r).
-  27-L.    Rare disease advisory council (§2799-u).
   28.      Hospitals (§§2800-2827).
   28-A.    Nursing home companies (§§2850-2869).
   28-B.    Hospital mortgage loan construction (§§2870-2883).

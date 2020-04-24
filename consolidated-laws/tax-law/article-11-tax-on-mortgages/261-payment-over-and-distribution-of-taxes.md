@@ -96,7 +96,7 @@ correctional facility and public safety building complex and the county
 composting facility; * (n) with respect to the county of Fulton, to the
 county treasurer of such county for deposit into the general fund of the
 county of Fulton;
-  * NB Repealed November 30, 2020
+  * NB Repealed November 30, 2023
 (o) with respect to the county of Steuben, to the county treasurer of
 such county for deposit into the general fund of the county of Steuben;
 (p) with respect to the remaining counties of the state except

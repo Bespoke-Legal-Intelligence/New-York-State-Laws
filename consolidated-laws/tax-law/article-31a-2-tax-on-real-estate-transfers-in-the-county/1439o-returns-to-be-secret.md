@@ -39,6 +39,6 @@ shall bring action to set aside or review the tax based thereon.
 provisions of this section shall be dismissed from office and be
 incapable of holding any public office in this state for a period of
 five years thereafter.
-  * NB Repealed December 31, 2020
+  * NB Repealed December 31, 2023
   * NB There are 3 § 1439-o's
 ```

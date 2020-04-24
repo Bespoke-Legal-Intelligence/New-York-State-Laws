@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-x. Requirements related to residential health care facilities
+  § 2803-x. Requirements related to residential health care facilities
 and related assets. 1. The operator of a residential health care
 facility shall notify the commissioner of any common or familial
 ownership of any corporation, other entity or individual providing
@@ -27,5 +27,4 @@ to the undepreciated value of capital assets for which the provider has
 been funded or reimbursed through Medicaid rate adjustments or otherwise
 funded or reimbursed with resources provided by the state for the
 purpose of improvement or transformation.
-  * NB Effective April 14, 2020
 ```

@@ -6,38 +6,34 @@
 ## Contents
 
 - [§ 220 Definitions](220-definitions.md)
-- [§ 221 Business permits](221-business-permits.md)
-- [§ 221-A Exemptions](221a-exemptions.md)
-- [§ 222 Permit suspension or revocation](222-permit-suspension-or-revocation.md)
-- [§ 223 Compliance with industry standards](223-compliance-with-industry-standards.md)
-- [§ 224 Trampoline park employee training, equipment and supervision](224-trampoline-park-employee-training-equipment-and-supervision.md)
-- [§ 225 Reporting of injuries; emergency response plan](225-reporting-of-injuries-emergency-response-plan.md)
-- [§ 226 Annual registration to the department](226-annual-registration-to-the-department.md)
-- [§ 227 Inspection](227-inspection.md)
-- [§ 228 Insurance](228-insurance.md)
-- [§ 228-A Required posting of safety guidelines](228a-required-posting-of-safety-guidelines.md)
-- [§ 228-B Actions relating to trampoline parks](228b-actions-relating-to-trampoline-parks.md)
+- [§ 221 Exemptions](221-exemptions.md)
+- [§ 221-A Exemptions](221a-exemptions.md) *(repealed)*
+- [§ 222 Compliance with industry standards](222-compliance-with-industry-standards.md)
+- [§ 223 Trampoline park employee training, equipment and supervision](223-trampoline-park-employee-training-equipment-and-supervision.md)
+- [§ 224 Availability of information; emergency response plan](224-availability-of-information-emergency-response-plan.md)
+- [§ 225 Inspection](225-inspection.md)
+- [§ 226 Insurance](226-insurance.md)
+- [§ 227 Required posting of safety guidelines](227-required-posting-of-safety-guidelines.md)
+- [§ 228 Actions relating to trampoline parks](228-actions-relating-to-trampoline-parks.md)
+- [§ 228-A Required posting of safety guidelines](228a-required-posting-of-safety-guidelines.md) *(repealed)*
+- [§ 228-B Actions relating to trampoline parks](228b-actions-relating-to-trampoline-parks.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 12-C, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 12-C
+                              ARTICLE 12-C
                          TRAMPOLINE PARK SAFETY
-Section 220.   Definitions.
-        221.   Business permits.
-        221-a. Exemptions.
-        222.   Permit suspension or revocation.
-        223.   Compliance with industry standards.
-        224.   Trampoline park employee training, equipment and
-                 supervision.
-        225.   Reporting of injuries; emergency response plan.
-        226.   Annual registration to the department.
-        227.   Inspection.
-        228.   Insurance.
-        228-a. Required posting of safety guidelines.
-        228-b. Actions relating to trampoline parks.
-  * NB Effective April 18, 2020
+Section 220. Definitions.
+        221. Exemptions.
+        222. Compliance with industry standards.
+        223. Trampoline park employee training, equipment and
+               supervision.
+        224. Availability of information; emergency response plan.
+        225. Inspection.
+        226. Insurance.
+        227. Required posting of safety guidelines.
+        228. Actions relating to trampoline parks.
 ```
 
 </details>

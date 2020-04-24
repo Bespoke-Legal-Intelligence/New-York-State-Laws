@@ -69,8 +69,7 @@ refusal.
 consent to his or her health care, a person legally authorized to
 consent on behalf of the resident, shall have the right to choose the
 resident's own health care providers for services not covered by his or
-her admission agreement, subject to limitations that may apply as a
-result of a resident's third party payor coverage.
+her admission agreement.
   Waiver of any provision contained within this subdivision by a
 resident of an adult care facility shall be void.
   4. Every resident of a residence for adults, adult home or enriched

@@ -54,7 +54,27 @@ active women;
   (u) Syphilis screening for all pregnant women or other women at
 increased risk; and
   (v) Well-woman visits to obtain recommended preventive services.
-  2. The department shall also consider making use of social media
+  ** 2. The department shall also consider making use of social media
 networks for the purposes of advancing such initiatives.
+  ** NB Effective until June 17, 2020
+  ** 2. The commissioner shall develop and update as necessary
+information on possible complications from pregnancy that can endanger
+the life or health of the newborn or the mother for purposes of
+advancing women's health initiatives, pursuant to subdivision one of
+this section. Such information shall be developed in consultation with
+any state or local government maternal mortality review boards and
+health care providers or other experts in the field of women and newborn
+health. Such information shall be posted on the website in a printable
+format, in each of the top six languages spoken in the state, other than
+English, according to the latest available data from the United States
+Census Bureau, to allow all general hospitals, diagnostic and treatment
+centers, obstetricians, primary care providers, midwives, and other
+health care programs providing women's wellness services to provide the
+information to their patients as part of their wellness education or
+prenatal care activities.
+  ** NB Effective June 17, 2020
+  ** 3. The department shall also consider making use of social media
+networks for the purposes of advancing such initiatives.
+  ** NB Effective June 17, 2020
   * NB There are 2 § 266's
 ```

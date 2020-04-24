@@ -24,7 +24,7 @@ applicable to a permanent resident of such rooms in lodging facilities
 having less than five rentable units. For the purposes of this section,
 the term "permanent resident" shall mean a person occupying any room or
 rooms in a hotel or motel for at least thirty consecutive days.
-  * NB Effective until November 30, 2020
+  * NB Effective until November 30, 2023
   * (1) Notwithstanding any other provision of law to the contrary, the
 county of Chautauqua is hereby authorized and empowered to adopt and
 amend local laws imposing in such county a tax, in addition to any other
@@ -42,7 +42,7 @@ applicable to a permanent resident of such rooms in lodging facilities
 having less than five rentable units. For the purposes of this section,
 the term "permanent resident" shall mean a person occupying any room or
 rooms in a hotel or motel for at least thirty consecutive days.
-  * NB Effective November 30, 2020
+  * NB Effective November 30, 2023
   (2) Such tax may be collected and administered by the county treasurer
 or other fiscal officers of Chautauqua county by such means and in such
 manner as other taxes which are now collected and administered by such
@@ -165,7 +165,7 @@ Chautauqua county. Such local laws shall provide that the county shall
 be authorized to retain up to a maximum of ten percent of such revenue
 to defer the necessary expenses of the county in administering such tax
 and such programs.
-  * NB Effective until November 30, 2020
+  * NB Effective until November 30, 2023
   * (9) All revenues resulting from the imposition of the tax under the
 local laws shall be paid into the treasury of the county of Chautauqua
 and shall be credited to and deposited in a special tourism and
@@ -185,7 +185,7 @@ attractions; and such other programs as authorized by local law. Such
 local laws shall provide that the county shall be authorized to retain
 up to a maximum of ten percent of such revenue to defer the necessary
 expenses of the county in administering such tax.
-  * NB Effective November 30, 2020
+  * NB Effective November 30, 2023
   (10) If any provision of this section or the application thereof to
 any person or circumstance shall be held invalid, the remainder of this
 section and the application of such provision to other persons or

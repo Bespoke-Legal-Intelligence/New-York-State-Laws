@@ -23,48 +23,48 @@ adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is three-quarters percent additional to the three
 percent rate authorized above in this paragraph for such county for the
 period beginning January first, nineteen hundred eighty-six and ending
-November thirtieth, two thousand twenty, subject to the limitation set
-forth in section twelve hundred sixty-two-e of this article, and also at
-a rate which is one-half percent additional to the three percent rate
-authorized above in this paragraph, and which is also additional to the
-three-quarters percent rate also authorized above in this clause for
+November thirtieth, two thousand twenty-three, subject to the limitation
+set forth in section twelve hundred sixty-two-e of this article, and
+also at a rate which is one-half percent additional to the three percent
+rate authorized above in this paragraph, and which is also additional to
+the three-quarters percent rate also authorized above in this clause for
 such county, for the period beginning September first, nineteen hundred
-ninety-one and ending November thirtieth, two thousand twenty;
+ninety-one and ending November thirtieth, two thousand twenty-three;
   (3) the county of Rensselaer is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning September first, nineteen hundred ninety-four
-and ending November thirtieth, two thousand twenty;
+and ending November thirtieth, two thousand twenty-three;
   (4) the county of Erie is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes (i) at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning January tenth, nineteen hundred eighty-eight and ending
-November thirtieth, two thousand twenty; and (ii) at a rate which is
-three-quarters of one percent additional to the three percent rate
+November thirtieth, two thousand twenty-three; and (ii) at a rate which
+is three-quarters of one percent additional to the three percent rate
 authorized above in this paragraph, and which is also additional to the
 one percent rate also authorized above in this clause for such county,
 for the period beginning December first, two thousand eleven, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (5) the county of Cattaraugus is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning March first, nineteen hundred eighty-six and
-ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three;
   (6) the county of Wyoming is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (7) the county of Ulster is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, two thousand two and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (8) the county of Allegany is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is: (i) one percent additional to the three
@@ -73,60 +73,61 @@ period beginning December first, nineteen hundred eighty-six and ending
 November thirtieth, two thousand four; and (ii) one and one-half percent
 additional to the three percent rate authorized above in this paragraph
 for such county for the period beginning December first, two thousand
-four and ending November thirtieth, two thousand twenty;
+four and ending November thirtieth, two thousand twenty-three;
   (9) the county of Cayuga is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (10) the county of Albany is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (11) the county of Tompkins is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one-half or one percent additional to the three
 percent rate authorized above in this paragraph for such county for the
 period beginning December first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (12) the county of Cortland is hereby further authorized and empowered
 to adopt and amend local laws, ordinances, or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (13) the county of Oneida is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is: (i) one percent additional to the three
 percent rate authorized above in this paragraph for such county for the
 period beginning September first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty; and also (ii) at a rate which
-is three-quarters of one percent or one-half of one percent additional
-to the three percent rate authorized above in this paragraph, and which
-is also additional to the one percent rate also authorized above in this
-clause for such county, for the period beginning December first, two
-thousand eight and ending November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three; and also (ii) at a rate
+which is three-quarters of one percent or one-half of one percent
+additional to the three percent rate authorized above in this paragraph,
+and which is also additional to the one percent rate also authorized
+above in this clause for such county, for the period beginning December
+first, two thousand eight and ending November thirtieth, two thousand
+twenty-three;
   (14) the county of Suffolk is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning June first, two thousand one and ending November thirtieth,
-two thousand twenty;
+two thousand twenty-three;
   (15) the county of Greene is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning March first, nineteen hundred ninety-three, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (16) the county of Orleans is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning June first, nineteen hundred ninety-three, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (17) the county of Tioga is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is: (i) one-half of one percent additional to the
@@ -135,133 +136,135 @@ for the period beginning September first, nineteen hundred ninety-three,
 and ending November thirtieth, two thousand three; and (ii) one percent
 additional to the three percent rate authorized above in this paragraph
 for such county for the period beginning December first, two thousand
-five, and ending November thirtieth, two thousand twenty;
+five, and ending November thirtieth, two thousand twenty-three;
   (18) the county of Broome is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning March first, nineteen hundred ninety-four, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (19) the county of Herkimer is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (20) the county of Genesee is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (21) the county of Columbia is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning March first, nineteen hundred ninety-five, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (22) the county of Schuyler is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, nineteen hundred ninety-nine, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (23) the county of Rockland is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is: (i) five-eighths of one percent additional to
 the three percent rate authorized above in this paragraph for such
 county for the period beginning March first, two thousand two, and
-ending November thirtieth, two thousand twenty; and also (ii) at a rate
-which is three-eighths of one percent additional to the three percent
-rate authorized above in this paragraph, and which is also additional to
-the five-eighths of one percent rate also authorized above in this
-clause for such county, for the period beginning March first, two
-thousand seven and ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three; and also (ii) at a
+rate which is three-eighths of one percent additional to the three
+percent rate authorized above in this paragraph, and which is also
+additional to the five-eighths of one percent rate also authorized above
+in this clause for such county, for the period beginning March first,
+two thousand seven and ending November thirtieth, two thousand
+twenty-three;
   (24) the county of Chenango is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, two thousand two, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (25) the county of Monroe is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for the period beginning
 December first, nineteen hundred ninety-three and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (26) the county of Steuben is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning December first, nineteen hundred ninety-two and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (27) the county of Chemung is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning December first, two thousand two, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   (28) the county of Seneca is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate that is one percent additional to the three percent rate
 authorized above in this paragraph for such county for the period
 beginning December first, two thousand two and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * (29) the county of Niagara is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning March first, two thousand three, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (29)'s
   * (29) the county of Dutchess is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is three-quarters of one percent
 additional to the three percent rate authorized above in this paragraph
 for such county for the period beginning March first, two thousand
-three, and ending November thirtieth, two thousand twenty,
+three, and ending November thirtieth, two thousand twenty-three,
   * NB There are 2 clause (29)'s
   (30) the county of Yates is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, two thousand three, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * (31) the county of Schenectady is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one-half of one percent
 additional to the three percent rate authorized above in this paragraph
 for such county for the period beginning June first, two thousand three,
-and ending November thirtieth, two thousand twenty;
+and ending November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (31)'s
   * (31) the county of Montgomery is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand three, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (31)'s
   (32) the county of Livingston is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand three, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (33) the county of Sullivan is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate that is: (i) one-half of one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand three, and ending
-November thirtieth, two thousand twenty; and (ii) an additional one-half
-of one percent in addition to the other rates authorized above in this
-paragraph for such county for the period beginning June first, two
-thousand seven and ending November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three; and (ii) an additional
+one-half of one percent in addition to the other rates authorized above
+in this paragraph for such county for the period beginning June first,
+two thousand seven and ending November thirtieth, two thousand
+twenty-three;
   * (34) the county of Otsego is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning December first, two thousand three, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * NB There are 3 clause (34)'s
   * (34) the county of Delaware is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
@@ -275,70 +278,70 @@ to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate that is one percent additional to the three percent rate
 authorized above in this paragraph for such county for the period
 beginning December first, two thousand five, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * NB There are 3 clause (34)'s
   * (35) the county of Schoharie is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (35)'s
   * (35) the county of Madison is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (35)'s
   * (35) the county of Orange is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is three-quarters of one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (35)'s
   * (36) the county of Clinton is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning December first, two thousand seven, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 4 clause (36)'s
   * (36) the county of Lewis is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate that is one percent additional to the three percent rate
 authorized above in this paragraph for such county for the period
 beginning June first, two thousand four, and ending November thirtieth,
-two thousand twenty;
+two thousand twenty-three;
   * NB There are 4 clause (36)'s
   * (36) the county of Oswego is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, two thousand four, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * NB There are 4 clause (36)'s
   * (36) the county of Essex is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning December first, two thousand thirteen, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * NB There are 4 clause (36)'s
   * (37) the county of Jefferson is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning December first, two thousand fifteen, and
-ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (37)'s
   * (37) the county of Onondaga is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand four, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (37)'s
   (38) the county of Chautauqua is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
@@ -358,13 +361,13 @@ county for the period beginning December first, two thousand ten and
 ending November thirtieth, two thousand fifteen; and (v) one percent
 additional to the three percent rate authorized above in this clause for
 such county for the period beginning December first, two thousand
-fifteen and ending November thirtieth, two thousand twenty;
+fifteen and ending November thirtieth, two thousand twenty-three;
   * (39) the county of Fulton is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such county for the period
 beginning September first, two thousand five, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * NB There are 2 clause (39)'s
   * (39) the county of Putnam is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
@@ -374,54 +377,54 @@ for the period beginning September first, two thousand five and ending
 August thirty-first, two thousand seven; and (ii) one percent additional
 to the three percent rate authorized above in this paragraph for such
 county for the period beginning September first, two thousand seven and
-ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (39)'s
   * (40) the county of Franklin is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning June first, two thousand six and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (40)'s
   * (40) the county of Ontario is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is: (A) one-eighth of one percent
 additional to the three percent rate authorized above in this paragraph
 for such county for the period beginning June first, two thousand six
-and ending November thirtieth, two thousand twenty; and also (B) at a
-rate that is three-eighths of one percent additional to the three
+and ending November thirtieth, two thousand twenty-three; and also (B)
+at a rate that is three-eighths of one percent additional to the three
 percent rate authorized above in this paragraph, and that is also
 additional to the one-eighth of one percent rate authorized in this
 clause for such county, for the period beginning September first, two
-thousand nine and ending November thirtieth, two thousand twenty;
+thousand nine and ending November thirtieth, two thousand twenty-three;
   * NB There are 2 clause (40)'s
   * (41) The county of St. Lawrence is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning December first, two thousand thirteen and
-ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (41)'s
   * (41) The county of Hamilton is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning December first, two thousand thirteen and
-ending November thirtieth, two thousand twenty;
+ending November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (41)'s
   * (41) the county of Delaware is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning September first, two thousand two, and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   * NB There are 3 clause (41)'s
   (42) the county of Westchester is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate that is one percent additional to the
 three percent rate authorized above in this paragraph for such county
 for the period beginning August first, two thousand nineteen and ending
-November thirtieth, two thousand twenty;
+November thirtieth, two thousand twenty-three;
   (ii) with respect to the following cities * (1) the city of Yonkers is
 hereby further authorized and empowered to adopt and amend local laws,
 ordinances or resolutions imposing such taxes at a rate which is: (a)
@@ -429,13 +432,13 @@ one percent additional to the three percent rate authorized above in
 this paragraph for such city; and (b) one-half of one percent in
 addition to the other rates authorized in this paragraph for such city
 for the period beginning September first, two thousand fifteen and
-ending November thirtieth, two thousand twenty;
-  * NB Effective until November 30, 2020
+ending November thirtieth, two thousand twenty-three;
+  * NB Effective until November 30, 2023
   * (1) the city of Yonkers is hereby further authorized and empowered
 to adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such city;
-  * NB Effective November 30, 2020
+  * NB Effective November 30, 2023
   (2) the city of Mount Vernon is hereby further authorized and
 empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
@@ -458,7 +461,7 @@ empowered to adopt and amend local laws, ordinances or resolutions
 imposing such taxes at a rate which is one percent additional to the
 three percent rate authorized above in this paragraph for such city for
 the period beginning September first, nineteen hundred ninety-three and
-ending December thirty-first, two thousand twenty;
+ending December thirty-first, two thousand twenty-three;
   (5) the city of Fulton is hereby further authorized and empowered to
 adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
@@ -470,7 +473,7 @@ adopt and amend local laws, ordinances or resolutions imposing such
 taxes at a rate which is one percent additional to the three percent
 rate authorized above in this paragraph for such city for the period
 beginning September first, two thousand four, and ending November
-thirtieth, two thousand twenty;
+thirtieth, two thousand twenty-three;
   * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
@@ -493,7 +496,7 @@ Putnam and Schenectady; one-eighth of one percent and three-eighths of
 one percent for the county of Ontario; one-half of one percent and
 one-half of one percent for the county of Sullivan; one percent and
 one-half of one percent for the city of Yonkers;
-  * NB Effective until November 30, 2020
+  * NB Effective until November 30, 2023
   * (iii) the maximum rate referred to in section twelve hundred
 twenty-four of this article shall be calculated without reference to the
 following additional rates authorized in subparagraphs (i) and (ii) of
@@ -515,7 +518,7 @@ for the county of Rockland; one-half of one percent for the counties of
 Putnam and Schenectady; one-eighth of one percent and three-eighths of
 one percent for the county of Ontario; and one-half of one percent and
 one-half of one percent for the county of Sullivan;
-  * NB Effective November 30, 2020
+  * NB Effective November 30, 2023
   (iv) with respect to certain counties in the metropolitan commuter
 transportation district, if the county of Dutchess, the county of Orange
 or the county of Rockland withdraws from the metropolitan commuter

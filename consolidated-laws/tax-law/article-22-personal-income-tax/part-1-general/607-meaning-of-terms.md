@@ -15,7 +15,11 @@ hundred eighty-six (unless a reference to the internal revenue code of
 nineteen hundred fifty-four is clearly intended), and amendments
 thereto, and other provisions of the laws of the United States relating
 to federal income taxes, as the same may be or become effective at any
-time or from time to time for the taxable year.
+time or from time to time for the taxable year. Provided however, for
+taxable years beginning before January first, two thousand twenty-two,
+any amendments made to the internal revenue code of nineteen hundred
+eighty-six after March first, two thousand twenty shall not apply to
+this article.
   (b) Marital or other status. An individual's marital or other status
 under section six hundred one, subsection (b) of section six hundred six
 and section six hundred fourteen shall be the same as his marital or

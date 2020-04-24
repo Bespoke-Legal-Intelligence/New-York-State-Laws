@@ -8,7 +8,7 @@
 authorized by this article, any city imposing such taxes is hereby
 authorized and empowered to adopt and amend local laws imposing in any
 such city for each taxable year beginning after nineteen hundred ninety
-but before two thousand twenty-one, an additional tax on the city
+but before two thousand twenty-four, an additional tax on the city
 taxable income of every city resident individual, estate and trust, to
 be calculated for each taxable year as follows: (i) for each taxable
 year beginning after nineteen hundred ninety but before nineteen hundred
@@ -20,7 +20,7 @@ rate of fourteen percent of the tax for such taxable year determined
 pursuant to such section thirteen hundred four.
   (2) Notwithstanding paragraph one of this subsection, for each taxable
 year beginning after nineteen hundred ninety-nine but before two
-thousand twenty-one, any city imposing such additional tax may by local
+thousand twenty-four, any city imposing such additional tax may by local
 law impose such tax at a rate that is less than fourteen percent and may
 impose such tax at more than one rate depending upon the filing status
 and city taxable income of such city resident individual, estate or

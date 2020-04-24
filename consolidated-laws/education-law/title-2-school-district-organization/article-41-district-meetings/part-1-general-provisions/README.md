@@ -33,7 +33,7 @@
 - [§ 2022 Vote on school district budgets and on the election of school district trustees and board of education members](2022-vote-on-school-district-budgets.md)
 - [§ 2023 Levy of tax for certain purposes without vote; contingency budget](2023-levy-of-tax-for-certain-purposes-without-vote.md)
 - [§ 2023-A Limitations upon school district tax levies](2023a-limitations-upon-school-district-tax-levies.md)
-- [§ 2023-B Certification of compliance with property tax freeze requirements](2023b-certification-of-compliance-with-property-tax.md)
+- [§ 2023-B Certification of compliance with tax levy limit](2023b-certification-of-compliance-with-tax-levy.md)
 - [§ 2024 Reference to commissioner of education](2024-reference-to-commissioner-of-education.md)
 - [§ 2025 Procedures at school district meetings](2025-procedures-at-school-district-meetings.md)
 - [§ 2029 Poll list](2029-poll-list.md)

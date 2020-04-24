@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,702 |
-| Last changed | 17 Apr 2020 |
+| Sections | 1,703 |
+| Last changed | 24 Apr 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (340 lines)](chapter-text.md)
+[Full chapter text (342 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [24 Apr 2020](../../changes/2020/2020-04-24.md): 20 amended, 2 added, 1 removed
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 60 amended, 14 added, 9 removed
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 4 amended
 - [3 Apr 2020](../../changes/2020/2020-04-03.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [24 Jan 2020](../../changes/2020/2020-01-24.md): 2 amended, 22 added
 - [17 Jan 2020](../../changes/2020/2020-01-17.md): 5 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 8 amended
-- [3 Jan 2020](../../changes/2020/2020-01-03.md): 10 amended, 2 added
 
 ## Contents
 
@@ -106,7 +106,6 @@ Assembly, do enact as follows:
 - [Article 27-H\* — Diabetes Research and Education Program](article-27h-diabetes-research-and-education-program/)
 - [Article 27-H — The Tick-borne Disease Institute](article-27h-the-tick-borne-disease-institute/)
 - [Article 27-K — New York Wellness Works](article-27k-new-york-wellness-works/)
-- [Article 27-L — Rare Disease Advisory Council](article-27l-rare-disease-advisory-council/)
 - [Article 28 — Hospitals](article-28-hospitals/)
 - [Article 28-A — Nursing Home Companies](article-28a-nursing-home-companies/)
 - [Article 28-B — Hospital Mortgage Loan Construction](article-28b-hospital-mortgage-loan-construction/)

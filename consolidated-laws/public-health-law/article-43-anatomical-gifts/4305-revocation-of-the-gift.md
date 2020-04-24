@@ -22,46 +22,50 @@ provided for revocation or amendment of wills or as provided in
 subdivision one of this section.
   * NB Effective until June 23, 2020
   * § 4305. Amendments or revocation of the gift. 1. An individual who
-has created a document of gift may amend or revoke the gift by:
-  (a) a record signed by:
-  (i) the donor;
-  (ii) another person authorized to make the anatomical gift; or
-  (iii) another individual acting at the direction of the donor or other
-person authorized to make the anatomical gift if those individuals are
-physically unable to sign; or
-  (b) an oral statement of revocation made in the presence of two
-persons, at least one of whom is a disinterested witness; or
-  (c) a later-executed document of gift that amends or revokes a
-previous anatomical gift or portion of an anatomical gift either
-expressly or by inconsistency; or
+has created a document of gift may only amend or revoke his or her gift
+by:
+  (a) a record signed, subsequently to the creation of the document of
+gift by:
+  (i) such individual;
+  (ii) another person authorized to make the anatomical gift on behalf
+of such individual; or
+  (iii) another person acting at the direction of such individual or
+other person authorized to make the anatomical gift if such individual
+is unable to sign; or
+  (b) an oral statement of revocation, subsequent to the creation of the
+gift, made by such individual in the presence of two persons, at least
+one of whom is a disinterested witness; or
+  (c) a later-executed document of gift made by such individual that
+amends or revokes a previous anatomical gift or portion of an anatomical
+gift either expressly or by inconsistency; or
   (d) a statement during a terminal illness or injury addressed to an
-attending physician and communicated to the donee; or
-  (e) a signed card or document, found on the prospective donor's person
-or in the prospective donor's effects; or
-  (f) the individual's will, whether or not the will is admitted to
-probate or invalidated after the individual's death.
-  2. (a) Subject to paragraphs (b) and (c) of this subdivision, an
-individual authorized to make an anatomical gift pursuant to subdivision
-two of section forty-three hundred one of this article may revoke or
-amend such gift by:
-  (i) a record signed by the donor; or
-  (ii) an oral statement of revocation made in the presence of two
+attending physician and communicated to the donee made by such
+individual; or
+  (e) a signed card or document, found on such individual's person or in
+such individual's effects; or
+  (f) such individual's will, created subsequently to the creation of
+the document of gift, whether or not the will is admitted to probate or
+invalidated after such individual's death.
+  2. (a) Subject to paragraphs (b) and (c) of this subdivision, a person
+authorized to make an anatomical gift on behalf of another individual
+pursuant to subdivision two of section forty-three hundred one of this
+article may revoke or amend such gift by:
+  (i) a record signed by that individual; or
+  (ii) an oral statement of revocation, subsequent to the creation of
+the document of gift, made by that individual in the presence of two
 persons, at least one of whom is a disinterested witness; or
   (iii) a later-executed document of gift that amends or revokes a
-previous anatomical gift or portion of an anatomical gift, either
-expressly or by inconsistency.
+previous anatomical gift or portion of an anatomical gift made by that
+individual, either expressly or by inconsistency.
   (b) If more than one member of a class listed in subparagraph (iv),
 (vi), (vii), or (viii) of paragraph (a) of subdivision two of section
 forty-three hundred one of this article is reasonably available, a gift
 made pursuant to subdivision two of section forty-three hundred one of
-this article may be amended only if a majority of the reasonably
-available members agree to the amending of the gift, or revoked only if
-a majority of the reasonably available members agree to the revoking of
-the gift or if they are equally divided as to whether to revoke the
-gift.
-  (c) A revocation is effective only if, before an incision has been
-made to remove a part from the donor's body or before invasive
-procedures have begun to prepare the recipient, the procurement
+this article shall be amended or revoked only if a majority of the
+reasonably available members agree.
+  (c) An amendment or revocation is effective only if, before an
+incision has been made to remove a part from the donor's body or before
+invasive procedures have begun to prepare the recipient, the procurement
 organization, transplant hospital, or physician or technician knows of
 the revocation.
   3. Any document of gift may be revoked in the manner set out in
@@ -72,8 +76,8 @@ provided for revocation or amendment of wills or as provided in
 subdivision one of this section.
   5. In the absence of contrary indications by the donor, a revocation
 or amendment of an anatomical gift is not a refusal to make another
-anatomical gift, either by the prospective donor or another person
-specified in subdivision two of section forty-three hundred one of this
-article.
+anatomical gift not otherwise prohibited by the revocation or amendment,
+either by the prospective donor or another person specified in
+subdivision two of section forty-three hundred one of this article.
   * NB Effective June 23, 2020
 ```

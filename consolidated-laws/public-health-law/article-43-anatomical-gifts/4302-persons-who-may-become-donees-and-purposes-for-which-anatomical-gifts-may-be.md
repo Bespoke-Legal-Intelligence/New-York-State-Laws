@@ -62,8 +62,8 @@ gift may be used only for transplantation or therapy, and the gift
 passes in accordance with subdivision six of this section.
   5. If a document of gift specifies only a general intent to make an
 anatomical gift by words such as "donor", "organ donor" or "body donor",
-or by a symbol or statement of similar import, the gift may be used only
-for transplantation or therapy, and the gift passes in accordance with
+or a statement of similar import, the gift may be used only for
+transplantation or therapy, and the gift passes in accordance with
 subdivision six of this section.
   6. For purposes of subdivisions four, five and paragraph (b) of
 subdivision one of this section, the following rules apply:
@@ -77,7 +77,7 @@ procurement organization as custodian of the organ.
 other than an anatomical gift under paragraph (b) of subdivision one of
 this section, passes to the organ procurement organization as custodian
 of the organ.
-  8. If a potential donor has been referred to a procurement
+  8. If a prospective donor has been referred to a procurement
 organization or tissue bank pursuant to state or federal law, and the
 procurement organization has determined that the gift is medically
 unsuitable for transplant, or to the extent that a non-transplant
