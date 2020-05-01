@@ -42,7 +42,11 @@ facilities if needed.
   (ii) The hospital shall maintain and furnish protocols for management
 of obstetric hemorrhage required pursuant to subparagraph (i) of this
 paragraph to the department, immediately upon request.
-  3. The commissioner shall develop guidance to hospitals on obstetric
+  * NB Effective June 16, 2020
+  2. This section shall not limit the mother's option to be discharged
+earlier than the time periods established in subdivision one of this
+section.
+  * 3. The commissioner shall develop guidance to hospitals on obstetric
 hemorrhage protocols, in consultation with clinical experts, and develop
 or identify an existing toolkit on obstetric hemorrhage management,
 which may include a hemorrhage care checklist for use by hospitals as
@@ -50,7 +54,4 @@ part of the protocols and guidance on simulation training. The
 commissioner shall post the guidance and toolkit on the department's
 website.
   * NB Effective June 16, 2020
-  2. This section shall not limit the mother's option to be discharged
-earlier than the time periods established in subdivision one of this
-section.
 ```

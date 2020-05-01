@@ -46,5 +46,5 @@ determined necessary to manage and oversee the Medicaid program provided
 however, any personally identifying information obtained pursuant to
 this subdivision shall remain confidential and shall be used solely for
 the purposes of this subdivision.
-  * NB Repealed April 31, 2022
+  * NB Repealed April 3, 2022
 ```

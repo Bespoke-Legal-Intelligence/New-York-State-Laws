@@ -397,7 +397,7 @@ other persons named in the report shall be legally sealed forthwith by
 the central register and any local child protective services which
 investigated the report. Such unfounded reports may only be unsealed and
 made available:
-  * NB Effective January 1, 2020
+  * NB Effective January 1, 2022
   (i) to the office of children and family services for the purpose of
 supervising a social services district;
   (ii) to the office of children and family services and local or

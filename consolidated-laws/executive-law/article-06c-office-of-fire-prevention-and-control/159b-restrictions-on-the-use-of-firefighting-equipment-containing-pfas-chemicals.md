@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 159-B", "kind": "section", "law_id": "EXC", "location_id": "159-B", "path": "ARTICLE 6-C › SECTION 159-B", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/159-B.md", "title": "Restrictions on the use of firefighting equipment containing PFAS chemicals"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 159-B", "kind": "section", "law_id": "EXC", "location_id": "159-B", "path": "ARTICLE 6-C › SECTION 159-B", "repealed": true, "repealed_date": "2020-05-01", "source": "nys-laws:EXC/159-B.md", "title": "Restrictions on the use of firefighting equipment containing PFAS chemicals"} -->
 # Executive Law § 159-B — Restrictions on the use of firefighting equipment containing PFAS chemicals
 
 [Executive Law](../README.md) › [Article 6-C — Office of Fire Prevention and Control](README.md)
+
+**Repealed** (1 May 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 159-b. Restrictions on the use of firefighting equipment containing

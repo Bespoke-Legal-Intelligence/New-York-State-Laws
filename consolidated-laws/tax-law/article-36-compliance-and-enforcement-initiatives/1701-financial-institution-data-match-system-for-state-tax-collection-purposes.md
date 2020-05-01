@@ -40,7 +40,7 @@ information it obtains from both the department and the financial
 institution confidential, and any employee, agent or representative of
 that third party is prohibited from disclosing that information to
 anyone other than the department or the financial institution.
-  * NB Effective unitl April 1, 2025
+  * NB Effective until April 1, 2025
   * (a) To assist the commissioner in the collection of debts, the
 department must develop and operate a financial institution data match
 system for the purpose of identifying and seizing the non-exempt assets
