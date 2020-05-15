@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "General Municipal Law § 3-D", "kind": "section", "law_id": "GMU", "location_id": "3-D", "path": "ARTICLE 2 › SECTION 3-D", "repealed": false, "repealed_date": null, "source": "nys-laws:GMU/3-D.md", "title": "Certification of compliance with tax levy limit"} -->
+﻿<!-- nyslaw {"citation": "General Municipal Law § 3-D", "kind": "section", "law_id": "GMU", "location_id": "3-D", "path": "ARTICLE 2 › SECTION 3-D", "repealed": true, "repealed_date": "2020-05-15", "source": "nys-laws:GMU/3-D.md", "title": "Certification of compliance with tax levy limit"} -->
 # General Municipal Law § 3-D — Certification of compliance with tax levy limit
 
 [General Municipal Law](../README.md) › [Article 2 — General Municipal Finances](README.md)
+
+**Repealed** (15 May 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3-d. Certification of compliance with tax levy limit. 1. Upon the
