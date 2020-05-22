@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-mm-3. Carrier oils. 1. For the purposes of this section
+  § 1399-mm-3. Carrier oils. 1. For the purposes of this section
 "carrier oils" shall mean any ingredient of a vapor product intended to
 control the consistency or other physical characteristics of such vapor
 product, to control the consistency or other physical characteristics of
@@ -30,5 +30,4 @@ If any provision of this section is declared to be inapplicable to any
 specific category, type, or kind of carrier oil, the provisions of this
 section shall nonetheless continue to apply with respect to all other
 carrier oils.
-  * NB Effective May 18, 2020
 ```

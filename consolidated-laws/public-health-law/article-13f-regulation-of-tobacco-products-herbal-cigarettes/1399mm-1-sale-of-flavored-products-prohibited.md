@@ -4,19 +4,19 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-mm-1. Sale of flavored products prohibited. 1. For the
-purposes of this section "flavored" shall mean any vapor product
-intended or reasonably expected to be used with or for the consumption
-of nicotine, with a distinguishable taste or aroma, other than the taste
-or aroma of tobacco, imparted either prior to or during consumption of
-such product or a component part thereof, including but not limited to
-tastes or aromas relating to any fruit, chocolate, vanilla, honey,
-candy, cocoa, dessert, alcoholic beverage, mint, wintergreen, menthol,
-herb or spice, or any concept flavor that imparts a taste or aroma that
-is distinguishable from tobacco flavor but may not relate to any
-particular known flavor. A vapor product intended or reasonably expected
-to be used with or for the consumption of nicotine, shall be presumed to
-be flavored if a product's retailer, manufacturer, or a manufacturer's
+  § 1399-mm-1. Sale of flavored products prohibited. 1. For the purposes
+of this section "flavored" shall mean any vapor product intended or
+reasonably expected to be used with or for the consumption of nicotine,
+with a distinguishable taste or aroma, other than the taste or aroma of
+tobacco, imparted either prior to or during consumption of such product
+or a component part thereof, including but not limited to tastes or
+aromas relating to any fruit, chocolate, vanilla, honey, candy, cocoa,
+dessert, alcoholic beverage, mint, wintergreen, menthol, herb or spice,
+or any concept flavor that imparts a taste or aroma that is
+distinguishable from tobacco flavor but may not relate to any particular
+known flavor. A vapor product intended or reasonably expected to be used
+with or for the consumption of nicotine, shall be presumed to be
+flavored if a product's retailer, manufacturer, or a manufacturer's
 agent or employee has made a statement or claim directed to consumers or
 the public, whether expressed or implied, that such product or device
 has a distinguishable taste or aroma other than the taste or aroma of
@@ -47,5 +47,4 @@ expected to be used with or for the consumption of nicotine that the
 U.S. Food and Drug Administration has authorized to legally market as
 defined under 21 U.S.C. § 387j and that has received a premarket review
 approval order under 21 U.S.C. § 387j(c) et seq.
-  * NB Effective May 18, 2020
 ```

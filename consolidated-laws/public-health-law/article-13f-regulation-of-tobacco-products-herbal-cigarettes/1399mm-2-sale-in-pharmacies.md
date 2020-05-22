@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-mm-2. Sale in pharmacies. 1. No tobacco product, herbal
+  § 1399-mm-2. Sale in pharmacies. 1. No tobacco product, herbal
 cigarette, or vapor product intended or reasonably expected to be used
 with or for the consumption of nicotine, shall be sold in a pharmacy or
 in a retail establishment that contains a pharmacy operated as a
@@ -24,5 +24,4 @@ pursuant to a hearing conducted in accordance with section twelve-a of
 this chapter. Nothing in this section shall be construed to prohibit the
 commissioner from commencing a proceeding for injunctive relief to
 compel compliance with this section.
-  * NB Effective May 18, 2020
 ```

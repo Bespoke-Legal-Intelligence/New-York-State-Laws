@@ -4,14 +4,14 @@
 [Tax Law](../README.md) › [Article 8 — Department of Taxation and Finance; Commissioner of Taxation and Finance](README.md)
 
 ```text
-  * § 171-w. State support for the local enforcement of past-due
-property taxes. 1. Legislative findings. The legislature finds that
-local governments have limited means to enforce the collection of
-past-due property taxes. The legislature further finds that it is
-appropriate for the state to support the local enforcement of past-due
-property taxes by authorizing the commissioner to administer a program
-to disallow STAR credits and exemptions to delinquent property owners
-based on information reported to him or her by municipal officials.
+  § 171-w. State support for the local enforcement of past-due property
+taxes. 1. Legislative findings. The legislature finds that local
+governments have limited means to enforce the collection of past-due
+property taxes. The legislature further finds that it is appropriate for
+the state to support the local enforcement of past-due property taxes by
+authorizing the commissioner to administer a program to disallow STAR
+credits and exemptions to delinquent property owners based on
+information reported to him or her by municipal officials.
   2. Definitions. For the purposes of this section:
   (a) "Delinquent property owner" means a STAR recipient whose primary
 residence is subject to past-due property taxes.
