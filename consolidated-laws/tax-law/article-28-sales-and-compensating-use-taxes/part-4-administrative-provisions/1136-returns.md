@@ -196,38 +196,7 @@ franchisee to the franchisor, the total amount of sales by the
 franchisor to the franchisee, and any income reported to the franchisor
 by each franchisee, along with the information required by paragraph two
 of this subdivision.
-  * (C) Every wholesaler, as defined by section three of the alcoholic
-beverage control law, if it has made a sale of an alcoholic beverage, as
-defined by section four hundred twenty of this chapter, without
-collecting sales or use tax during the period covered by the return,
-except (i) a sale to a person that has furnished an exempt organization
-certificate to the wholesaler for that sale; or (ii) a sale to another
-wholesaler whose license under the alcoholic beverage control law does
-not allow it to make retail sales of the alcoholic beverage. For each
-vendor, operator, or recipient to whom the wholesaler has made a sale
-without collecting sales or compensating use tax, the return must
-include the total value of those sales made during the period covered by
-the return (excepting the sales described in clauses (i) and (ii) of
-this subparagraph) and the vendor's, operator's or recipient's state
-liquor authority license number, along with the information required by
-paragraph two of this subdivision. A person operating pursuant to a farm
-winery license as provided in section seventy-six-a of the alcoholic
-beverage control law, or a person operating pursuant to a winery license
-as provided in section seventy-six of the alcoholic beverage control law
-and whose winery manufactures less than one hundred fifty thousand
-finished gallons of wine annually, or a person operating pursuant to a
-farm distillery license as provided in subdivision two-c of section
-sixty-one of such law, or a person operating pursuant to a farm cidery
-license as provided in section fifty-eight-c of the alcoholic beverage
-control law, or a person operating pursuant to a farm brewery license as
-provided in section fifty-one-a of the alcoholic beverage control law,
-or a person operating pursuant to a brewer's license as provided in
-section fifty-one of the alcoholic beverage control law who produces
-less than sixty thousand barrels of beer a year, or a person operating
-pursuant to any combination of such licenses, shall not be subject to
-any of the requirements of this subdivision.
-  * NB Effective until June 1, 2020
-  * (C) Every wholesaler, as defined by section three of the alcoholic
+  (C) Every wholesaler, as defined by section three of the alcoholic
 beverage control law, if it has made a sale of an alcoholic beverage, as
 defined by section four hundred twenty of this chapter, without
 collecting sales or use tax during the period covered by the return,
@@ -242,8 +211,7 @@ the return (excepting the sales described in clauses (i) and (ii) of
 this subparagraph) and the vendor's, operator's or recipient's state
 liquor authority license number, along with the information required by
 paragraph two of this subdivision.
-  * NB Effective June 1, 2020
-  * (D) Notwithstanding the provisions of subparagraph (C) of this
+  (D) Notwithstanding the provisions of subparagraph (C) of this
 paragraph, a person operating pursuant to any of the following licenses
 shall not be subject to any of the requirements of this subdivision: (i)
 a farm winery license, as provided in section seventy-six-a of the
@@ -291,7 +259,6 @@ brewery or farm meadery license for such beverage, nor shall this
 section exempt any person holding a wholesalers' license under the
 alcoholic beverage control law from the requirements of subparagraph (C)
 of this paragraph.
-  * NB Effective June 1, 2020
   (2) The returns required by paragraph one of this subdivision must
 also include, for each vendor, operator, or recipient about whom
 information is required to be reported under such paragraph, the name

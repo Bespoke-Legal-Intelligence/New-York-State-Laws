@@ -8,7 +8,7 @@
 | Senate code | PEN |
 | Type | Consolidated law, chapter 40 |
 | Sections | 870 |
-| Last changed | 24 Apr 2020 |
+| Last changed | 5 Jun 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Penal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [5 Jun 2020](../../changes/2020/2020-06-05.md): 4 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 1 amended
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 22 amended, 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [6 Dec 2019](../../changes/2019/2019-12-06.md): 2 amended, 1 added
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 1 amended
-- [8 Nov 2019](../../changes/2019/2019-11-08.md): 12 amended
 
 ## Contents
 

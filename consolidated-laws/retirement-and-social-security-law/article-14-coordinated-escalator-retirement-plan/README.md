@@ -29,6 +29,7 @@
 - [§ 508 Death benefits](508-death-benefits.md)
 - [§ 508-A Death benefit for vested members who die prior to retirement](508a-death-benefit-for-vested-members-who-die-prior-to-retirement.md)
 - [§ 509 Accidental death benefits](509-accidental-death-benefits.md)
+- [§ 509-A COVID-19 benefit](509a-covid-19-benefit.md)
 - [§ 510 Escalation of benefits](510-escalation-of-benefits.md)
 - [§ 511 Coordination with social security benefits](511-coordination-with-social-security-benefits.md)
 - [§ 512 Final average salary](512-final-average-salary.md)
@@ -90,6 +91,7 @@ Section 500.   Application.
         508-a. Death benefit for vested members who die prior to
                  retirement.
         509.   Accidental death benefits.
+        509-a. COVID-19 benefit.
         510.   Escalation of benefits.
         511.   Coordination with social security benefits.
         512.   Final average salary.

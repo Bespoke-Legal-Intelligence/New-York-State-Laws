@@ -18,7 +18,7 @@
 - [§ 507-B Placement and commitment; papers to be furnished](507b-placement-and-commitment-papers-to-be-furnished.md)
 - [§ 507-C Restrictive placements](507c-restrictive-placements.md)
 - [§ 507-D Confinement of juvenile delinquents under sentence of the courts of the United States](507d-confinement-of-juvenile-delinquents-under-sentence-of-the-courts.md)
-- [§ 508 Juvenile offender facilities](508-juvenile-offender-facilities.md)
+- [§ 508 Juvenile offender and adolescent offender facilities](508-juvenile-offender-and-adolescent-offender-facilities.md)
 - [§ 509 Transfers to state hospitals and schools in the department of mental hygiene](509-transfers-to-state-hospitals-and-schools-in-the-department-of-mental.md)
 
 <details>
