@@ -8,7 +8,7 @@
 | Senate code | GMU |
 | Type | Consolidated law, chapter 24 |
 | Sections | 1,084 (1 repealed) |
-| Last changed | 15 May 2020 |
+| Last changed | 12 Jun 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Municipal |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 Jun 2020](../../changes/2020/2020-06-12.md): 1 amended
 - [15 May 2020](../../changes/2020/2020-05-15.md): 1 repealed
 - [1 May 2020](../../changes/2020/2020-05-01.md): 1 amended, 1 added
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 5 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 1 amended
 - [3 Jan 2020](../../changes/2020/2020-01-03.md): 1 amended
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 1 amended
-- [20 Dec 2019](../../changes/2019/2019-12-20.md): 1 added
 
 ## Contents
 

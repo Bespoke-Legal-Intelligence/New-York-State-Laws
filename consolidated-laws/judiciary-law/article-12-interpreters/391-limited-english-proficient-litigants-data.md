@@ -4,9 +4,8 @@
 [Judiciary Law](../README.md) › [Article 12 — Interpreters](README.md)
 
 ```text
-  * § 391. Limited English proficient litigants' data. 1. For the
-purposes of this section, the following terms shall have the following
-meanings:
+  § 391. Limited English proficient litigants' data. 1. For the purposes
+of this section, the following terms shall have the following meanings:
   (a) "primary language" means the dominant language a litigant speaks
 in everyday situations, including but not limited to their home, work,
 school, and community environments;
@@ -43,5 +42,4 @@ section shall be construed to permit the office of court administration
 to use, disseminate, or publish any identifying information, including a
 litigant's name, date of birth, social security number, docket number,
 or other unique identifier.
-  * NB Effective June 9, 2020
 ```
