@@ -17,9 +17,10 @@ office of addiction services and supports, or the commissioner of the
 office for people with developmental disabilities, as applicable, the
 commissioner may specify in regulation additional acceptable modalities
 for the delivery of health care services via telehealth, including but
-not limited to audio-only telephone communications, online portals and
-survey applications, and may specify additional categories of
-originating sites at which a patient may be located at the time health
-care services are delivered to the extent such additional modalities and
-originating sites are deemed appropriate for the populations served.
+not limited to audio-only or video-only telephone communications, online
+portals and survey applications, and may specify additional categories
+of originating sites at which a patient may be located at the time
+health care services are delivered to the extent such additional
+modalities and originating sites are deemed appropriate for the
+populations served.
 ```

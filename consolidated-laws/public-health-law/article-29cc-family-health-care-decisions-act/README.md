@@ -10,7 +10,7 @@
 - [§ 2994-C Determination of incapacity](2994c-determination-of-incapacity.md)
 - [§ 2994-D Health care decisions for adult patients by surrogates](2994d-health-care-decisions-for-adult-patients-by-surrogates.md)
 - [§ 2994-E Decisions about life-sustaining treatment for minor patients](2994e-decisions-about-life-sustaining-treatment-for-minor-patients.md)
-- [§ 2994-F Obligations of attending physician or attending nurse practitioner](2994f-obligations-of-attending-physician-or-attending-nurse-practitioner.md)
+- [§ 2994-F Obligations of attending practitioner](2994f-obligations-of-attending-practitioner.md)
 - [§ 2994-G Health care decisions for adult patients without surrogates](2994g-health-care-decisions-for-adult-patients-without-surrogates.md)
 - [§ 2994-I Specific policies for orders not to resuscitate](2994i-specific-policies-for-orders-not-to-resuscitate.md)
 - [§ 2994-J Revocation of consent](2994j-revocation-of-consent.md)

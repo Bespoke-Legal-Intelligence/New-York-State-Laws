@@ -5,56 +5,15 @@
 
 ```text
   § 2983. Determination of lack of capacity to make health care
-decisions for the purpose of empowering agent. * 1. Determination by
-attending physician or attending nurse practitioner. (a) A determination
-that a principal lacks capacity to make health care decisions shall be
-made by the attending physician or attending nurse practitioner to a
-reasonable degree of medical certainty. The determination shall be made
-in writing and shall contain such attending physician's or attending
-nurse practitioner's opinion regarding the cause and nature of the
-principal's incapacity as well as its extent and probable duration. The
+decisions for the purpose of empowering agent.  1. Determination by
+attending practitioner. (a) A determination that a principal lacks
+capacity to make health care decisions shall be made by the attending
+practitioner to a reasonable degree of medical certainty.  The
+determination shall be made in writing and shall contain such attending
+practitioner's opinion regarding the cause and nature of the principal's
+incapacity as well as its extent and probable duration. The
 determination shall be included in the patient's medical record. For a
 decision to withdraw or withhold life-sustaining treatment, the
-attending physician or attending nurse practitioner who makes the
-determination that a principal lacks capacity to make health care
-decisions must consult with another physician or nurse practitioner to
-confirm such determination. Such consultation shall also be included
-within the patient's medical record.
-  (b) If an attending physician or attending nurse practitioner of a
-patient in a general hospital or mental hygiene facility determines that
-a patient lacks capacity because of mental illness, the attending
-physician or attending nurse practitioner who makes the determination
-must be, or must consult, for the purpose of confirming the
-determination, with a qualified psychiatrist. A record of such
-consultation shall be included in the patient's medical record.
-  (c) If the attending physician or attending nurse practitioner
-determines that a patient lacks capacity because of a developmental
-disability, the attending physician or attending nurse practitioner who
-makes the determination must be, or must consult, for the purpose of
-confirming the determination, with a physician, nurse practitioner or
-clinical psychologist who either is employed by a developmental
-disabilities services office named in section 13.17 of the mental
-hygiene law, or who has been employed for a minimum of two years to
-render care and service in a facility operated or licensed by the office
-for people with developmental disabilities, or has been approved by the
-commissioner of developmental disabilities in accordance with
-regulations promulgated by such commissioner. Such regulations shall
-require that a physician, nurse practitioner or clinical psychologist
-possess specialized training or three years experience in treating
-developmental disabilities. A record of such consultation shall be
-included in the patient's medical record.
-  (d) A physician or nurse practitioner who has been appointed as a
-patient's agent shall not make the determination of the patient's
-capacity to make health care decisions.
-  * NB Effective until June 17, 2020
-  * 1. Determination by attending practitioner. (a) A determination that
-a principal lacks capacity to make health care decisions shall be made
-by the attending practitioner to a reasonable degree of medical
-certainty.  The determination shall be made in writing and shall contain
-such attending practitioner's opinion regarding the cause and nature of
-the principal's incapacity as well as its extent and probable duration.
-The determination shall be included in the patient's medical record. For
-a decision to withdraw or withhold life-sustaining treatment, the
 attending practitioner who makes the determination that a principal
 lacks capacity to make health care decisions must consult with another
 physician, physician assistant, or nurse practitioner to confirm such
@@ -85,17 +44,10 @@ patient's medical record.
   (d) A physician, physician assistant, or nurse practitioner who has
 been appointed as a patient's agent shall not make the determination of
 the patient's capacity to make health care decisions.
-  * NB Effective June 17, 2020
-  * 2. Request for a determination. If requested by the agent, an
-attending physician or attending nurse practitioner shall make a
-determination regarding the principal's capacity to make health care
-decisions for the purposes of this article.
-  * NB Effective until June 17, 2020
-  * 2. Request for a determination. If requested by the agent, an
+  2. Request for a determination. If requested by the agent, an
 attending practitioner shall make a determination regarding the
 principal's capacity to make health care decisions for the purposes of
 this article.
-  * NB Effective June 17, 2020
   3. Notice of determination. Notice of a determination that a principal
 lacks capacity to make health care decisions shall promptly be given:
 (a) to the principal, orally and in writing, where there is any
@@ -114,18 +66,7 @@ incapacity or to a health care decision made by an agent, the
 principal's objection or decision shall prevail unless the principal is
 determined by a court of competent jurisdiction to lack capacity to make
 health care decisions.
-  * 6. Confirmation of lack of capacity. (a) The attending physician or
-attending nurse practitioner shall confirm the principal's continued
-incapacity before complying with an agent's health care decisions, other
-than those decisions made at or about the time of the initial
-determination made pursuant to subdivision one of this section. The
-confirmation shall be stated in writing and shall be included in the
-principal's medical record.
-  (b) The notice requirements set forth in subdivision three of this
-section shall not apply to the confirmation required by this
-subdivision.
-  * NB Effective until June 17, 2020
-  * 6. Confirmation of lack of capacity. (a) The attending practitioner
+  6. Confirmation of lack of capacity. (a) The attending practitioner
 shall confirm the principal's continued incapacity before complying with
 an agent's health care decisions, other than those decisions made at or
 about the time of the initial determination made pursuant to subdivision
@@ -134,17 +75,9 @@ shall be included in the principal's medical record.
   (b) The notice requirements set forth in subdivision three of this
 section shall not apply to the confirmation required by this
 subdivision.
-  * NB Effective June 17, 2020
-  * 7. Effect of recovery of capacity. In the event the attending
-physician or attending nurse practitioner determines that the principal
-has regained capacity, the authority of the agent shall cease, but shall
-recommence if the principal subsequently loses capacity as determined
-pursuant to this section.
-  * NB Effective until June 17, 2020
-  * 7. Effect of recovery of capacity. In the event the attending
+  7. Effect of recovery of capacity. In the event the attending
 practitioner determines that the principal has regained capacity, the
 authority of the agent shall cease, but shall recommence if the
 principal subsequently loses capacity as determined pursuant to this
 section.
-  * NB Effective June 17, 2020
 ```

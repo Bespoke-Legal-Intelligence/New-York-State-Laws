@@ -14,6 +14,5 @@ of 2014, to pregnant patients as clinically appropriate, but prior to
 discharge. Such information shall also be provided by every diagnostic
 and treatment center offering prenatal care services upon the initial
 prenatal care visit.
-  * NB Effective June 17, 2020
   * NB There are 2 § 2803-w's
 ```

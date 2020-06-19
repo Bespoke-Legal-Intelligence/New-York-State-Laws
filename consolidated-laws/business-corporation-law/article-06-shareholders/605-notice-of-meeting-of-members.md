@@ -1,0 +1,123 @@
+﻿<!-- nyslaw {"citation": "Business Corporation Law § 605", "kind": "section", "law_id": "BSC", "location_id": "605", "path": "ARTICLE 6 › SECTION 605", "repealed": false, "repealed_date": null, "source": "nys-laws:BSC/605.md", "title": "Notice of meeting of members"} -->
+# Business Corporation Law § 605 — Notice of meeting of members
+
+[Business Corporation Law](../README.md) › [Article 6 — Shareholders](README.md)
+
+```text
+* § 605. Notice of meeting of members.
+  (a) Whenever under the provisions of this chapter members are required
+or permitted to take any action at a meeting, written notice shall state
+the place, date and hour of the meeting, for the duration of the state
+disaster emergency declared by executive order two hundred two that
+began on March seventh, two thousand twenty, the means of electronic
+communication, if any, by which members may participate in the
+proceedings of the meeting pursuant to paragraph (a) of section six
+hundred three of this article and, unless it is an annual meeting,
+indicate that it is being issued by or at the direction of the person or
+persons calling the meeting. Notice of a special meeting shall also
+state the purpose or purposes for which the meeting is called. A copy of
+the notice of any meeting shall be given, personally, by mail, or by
+facsimile telecommunications or by electronic mail, to each member
+entitled to vote at such meeting. If the notice is given personally, by
+first class mail or by facsimile telecommunications or by electronic
+mail, it shall be given not less than ten nor more than fifty days
+before the date of the meeting; if mailed by any other class of mail, it
+shall be given not less than thirty nor more than sixty days before such
+date. If mailed, such notice is given when deposited in the United
+States mail, with postage thereon prepaid, directed to the member at his
+address as it appears on the record of members, or, if he shall have
+filed with the secretary of the corporation a written request that
+notices to him be mailed to some other address, then directed to him at
+such other address. If sent by facsimile telecommunication or mailed
+electronically, such notice is given when directed to the member's fax
+number or electronic mail address as it appears on the record of
+members, or, to such fax number or other electronic mail address as
+filed with the secretary of the corporation. Notwithstanding the
+foregoing, such notice shall not be deemed to have been given
+electronically (1) if the corporation is unable to deliver two
+consecutive notices to the member by facsimile telecommunication or
+electronic mail; or (2) the corporation otherwise becomes aware that
+notice cannot be delivered to the member by facsimile telecommunication
+or electronic mail. An affidavit of the secretary or other person giving
+the notice or of a transfer agent of the corporation that the notice
+required by this section has been given shall, in the absence of fraud,
+be prima facie evidence of the facts therein stated. Whenever a
+corporation has more than five hundred members, the notice may be served
+by publication in a newspaper published in the county in the state in
+which the principal office of the corporation is located, once a week
+for three successive weeks next preceding the date of the meeting,
+provided that the corporation shall also prominently post notice of such
+meeting on the homepage of any website maintained by the corporation
+continuously from the date of publication through the date of the
+meeting. A corporation shall send notice of meetings by first class mail
+to any member who requests in writing that such notices be delivered by
+such method.
+  (b) When a meeting is adjourned to another time or place, it shall not
+be necessary, unless the by-laws require otherwise, to give any notice
+of the adjourned meeting if the time and place to which the meeting is
+adjourned and, for the duration of the state disaster emergency declared
+by executive order two hundred two that began on March seventh, two
+thousand twenty, the means of electronic communications, if any, by
+which members may participate in the proceedings of the meeting pursuant
+to paragraph (a) of section six hundred three of this article are
+announced at the meeting at which the adjournment is taken, and at the
+adjourned meeting any business may be transacted that might have been
+transacted on the original date of the meeting. However, if after the
+adjournment the board fixes a new record date for the adjourned meeting,
+a notice of the adjourned meeting shall be given to each member of
+record on the new record date entitled to notice under paragraph (a) of
+this section.
+  (c) Nothing required in paragraphs (a) or (b) of this section shall
+limit, restrict or supersede other forms of voting and participation.
+  * NB Effective until December 31, 2021
+* § 605. Notice of meetings of shareholders.
+  (a) Whenever under the provisions of this chapter shareholders are
+required or permitted to take any action at a meeting, notice shall be
+given stating the place, date and hour of the meeting, the means of
+electronic communications, if any, by which shareholders and
+proxyholders may participate in the proceedings of the meeting and vote
+or grant proxies at such meeting and, unless it is the annual meeting,
+indicating that it is being issued by or at the direction of the person
+or persons calling the meeting. Notice of a special meeting shall also
+state the purpose or purposes for which the meeting is called. Notice of
+any meeting of shareholders may be written or electronic. If, at any
+meeting, action is proposed to be taken which would, if taken, entitle
+shareholders fulfilling the requirements of section 623 (Procedure to
+enforce shareholder's right to receive payment for shares) to receive
+payment for their shares, the notice of such meeting shall include a
+statement of that purpose and to that effect and shall be accompanied by
+a copy of section 623 or an outline of its material terms. Notice of any
+meeting shall be given not fewer than ten nor more than sixty days
+before the date of the meeting, provided, however, that such notice may
+be given by third class mail not fewer than twenty-four nor more than
+sixty days before the date of the meeting, to each shareholder entitled
+to vote at such meeting. If mailed, such notice is given when deposited
+in the United States mail, with postage thereon prepaid, directed to the
+shareholder at the shareholder's address as it appears on the record of
+shareholders, or, if the shareholder shall have filed with the secretary
+of the corporation a request that notices to the shareholder be mailed
+to some other address, then directed to him at such other address. If
+transmitted electronically, such notice is given when directed to the
+shareholder's electronic mail address as supplied by the shareholder to
+the secretary of the corporation or as otherwise directed pursuant to
+the shareholder's authorization or instructions. An affidavit of the
+secretary or other person giving the notice or of a transfer agent of
+the corporation that the notice required by this section has been given
+shall, in the absence of fraud, be prima facie evidence of the facts
+therein stated.
+  (b) When a meeting is adjourned to another time or place, it shall not
+be necessary, unless the by-laws require otherwise, to give any notice
+of the adjourned meeting if the time and place to which the meeting is
+adjourned and the means of electronic communications, if any, by which
+shareholders and proxyholders may participate in the proceedings of the
+meeting and/or vote or grant proxies at the meeting are announced at the
+meeting at which the adjournment is taken, and at the adjourned meeting
+any business may be transacted that might have been transacted on the
+original date of the meeting. However, if after the adjournment the
+board fixes a new record date for the adjourned meeting, a notice of the
+adjourned meeting shall be given to each shareholder of record on the
+new record date entitled to notice under paragraph (a).
+  (c) Nothing required in paragraphs (a) and (b) of this section shall
+limit, restrict or supersede other forms of voting and participation.
+  * NB Effective December 31, 2021
+```

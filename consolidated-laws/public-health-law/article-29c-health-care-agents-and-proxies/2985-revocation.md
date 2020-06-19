@@ -22,24 +22,13 @@ eighty-two of this article.
   (e) The appointment of the principal's spouse as health care agent
 shall be revoked upon the divorce or legal separation of the principal
 and spouse, unless the principal specifies otherwise.
-  * 2. Duty to record revocation. (a) A physician or nurse practitioner
-who is informed of or provided with a revocation of a health care proxy
-shall immediately (i) record the revocation in the principal's medical
-record and (ii) notify the agent and the medical staff responsible for
-the principal's care of the revocation.
-  (b) Any member of the staff of a health care provider informed of or
-provided with a revocation of a health care proxy pursuant to this
-section shall immediately notify a physician or nurse practitioner of
-such revocation.
-  * NB Effective until June 17, 2020
-  * 2. Duty to record revocation. (a) A physician, physician assistant,
-or nurse practitioner who is informed of or provided with a revocation
-of a health care proxy shall immediately (i) record the revocation in
-the principal's medical record and (ii) notify the agent and the medical
+  2. Duty to record revocation. (a) A physician, physician assistant, or
+nurse practitioner who is informed of or provided with a revocation of a
+health care proxy shall immediately (i) record the revocation in the
+principal's medical record and (ii) notify the agent and the medical
 staff responsible for the principal's care of the revocation.
   (b) Any member of the staff of a health care provider informed of or
 provided with a revocation of a health care proxy pursuant to this
 section shall immediately notify a physician, physician assistant, or
 nurse practitioner of such revocation.
-  * NB Effective June 17, 2020
 ```

@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 19 — Medical and Health Service](README.md)
 
 ```text
-  * § 921. Training of unlicensed school personnel to administer certain
+  § 921. Training of unlicensed school personnel to administer certain
 medications. 1. The board of education or trustees of each school
 district and board of cooperative educational services and nonpublic
 schools are authorized, but not obligated to have licensed registered
@@ -26,5 +26,4 @@ nonpublic schools and/or their agents or employees shall incur no legal
 or financial liability as a result of any harm or injury sustained by a
 pupil or other person caused by reasonable and good faith compliance
 with this section.
-  * NB There are 2 § 921's
 ```

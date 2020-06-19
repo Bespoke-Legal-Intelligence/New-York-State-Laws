@@ -1,0 +1,22 @@
+﻿<!-- nyslaw {"citation": "Civil Rights Law § 28", "kind": "section", "law_id": "CVR", "location_id": "28", "path": "ARTICLE 3 › SECTION 28", "repealed": false, "repealed_date": null, "source": "nys-laws:CVR/28.md", "title": "Medical attention for persons under arrest"} -->
+# Civil Rights Law § 28 — Medical attention for persons under arrest
+
+[Civil Rights Law](../README.md) › [Article 3 — Privilege From Arrest](README.md)
+
+```text
+  § 28. Medical attention for persons under arrest. When a person is
+under arrest or otherwise in the custody of a police officer, peace
+officer or other law enforcement representative or entity, such officer,
+representative or entity shall have a duty to provide attention to the
+medical and mental health needs of such person, and obtain assistance
+and treatment of such needs for such person, which are reasonable and
+provided in good faith under the circumstances. Any person who has not
+received such reasonable and good faith attention, assistance or
+treatment and who, as a result, suffers serious physical injury or
+significant exacerbation of an injury or condition shall have a cause of
+action against such officer, representative, and/or entity. In any such
+civil action, the court, in addition to awarding actual damages and
+costs, may award reasonable attorneys' fees to a successful plaintiff.
+The provisions of this section are in addition to, but shall not
+supersede, any other rights or remedies available in law or equity.
+```

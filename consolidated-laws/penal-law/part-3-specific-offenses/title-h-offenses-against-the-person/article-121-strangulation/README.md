@@ -8,6 +8,7 @@
 - [§ 121.11 Criminal obstruction of breathing or blood circulation](121.11-criminal-obstruction-of-breathing-or-blood-circulation.md)
 - [§ 121.12 Strangulation in the second degree](121.12-strangulation-in-the-second-degree.md)
 - [§ 121.13 Strangulation in the first degree](121.13-strangulation-in-the-first-degree.md)
+- [§ 121.13-A Aggravated strangulation](121.13-a-aggravated-strangulation.md)
 - [§ 121.14 Medical or dental purpose](121.14-medical-or-dental-purpose.md)
 
 <details>
@@ -16,10 +17,11 @@
 ```text
                                ARTICLE 121
                    STRANGULATION AND RELATED OFFENSES
-Section 121.11 Criminal obstruction of breathing or blood circulation.
-        121.12 Strangulation in the second degree.
-        121.13 Strangulation in the first degree.
-        121.14 Medical or dental purpose.
+Section 121.11   Criminal obstruction of breathing or blood circulation.
+        121.12   Strangulation in the second degree.
+        121.13   Strangulation in the first degree.
+        121.13-a Aggravated strangulation.
+        121.14   Medical or dental purpose.
 ```
 
 </details>

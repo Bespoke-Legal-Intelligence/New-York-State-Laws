@@ -10,16 +10,7 @@ health care decisions regarding health care provided in a hospital, and
 to decisions regarding hospice care without regard to where the decision
 is made or where the care is provided, for a patient who lacks
 decision-making capacity, except as limited by this section.
-  * 2. Prior to seeking or relying upon a health care decision by a
-surrogate for a patient under this article, the attending physician or
-attending nurse practitioner shall make reasonable efforts to determine
-whether the patient has a health care agent appointed pursuant to
-article twenty-nine-C of this chapter. If so, health care decisions for
-the patient shall be governed by such article, and shall have priority
-over decisions by any other person except the patient or as otherwise
-provided in the health care proxy.
-  * NB Effective until June 17, 2020
-  * 2. Prior to seeking or relying upon a health care decision by a
+  2. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, the attending practitioner
 shall make reasonable efforts to determine whether the patient has a
 health care agent appointed pursuant to article twenty-nine-C of this
@@ -27,38 +18,7 @@ chapter. If so, health care decisions for the patient shall be governed
 by such article, and shall have priority over decisions by any other
 person except the patient or as otherwise provided in the health care
 proxy.
-  * NB Effective June 17, 2020
-  * 3. Prior to seeking or relying upon a health care decision by a
-surrogate for a patient under this article, if the attending physician
-or attending nurse practitioner has reason to believe that the patient
-has a history of receiving services for mental retardation or a
-developmental disability; it reasonably appears to the attending
-physician or attending nurse practitioner that the patient has mental
-retardation or a developmental disability; or the attending physician or
-attending nurse practitioner has reason to believe that the patient has
-been transferred from a mental hygiene facility operated or licensed by
-the office of mental health, then such physician or nurse practitioner
-shall make reasonable efforts to determine whether paragraphs (a), (b)
-or (c) of this subdivision are applicable:
-  (a) If the patient has a guardian appointed by a court pursuant to
-article seventeen-A of the surrogate's court procedure act, health care
-decisions for the patient shall be governed by section seventeen hundred
-fifty-b of the surrogate's court procedure act and not by this article.
-  (b) If a patient does not have a guardian appointed by a court
-pursuant to article seventeen-A of the surrogate's court procedure act
-but falls within the class of persons described in paragraph (a) of
-subdivision one of section seventeen hundred fifty-b of such act,
-decisions to withdraw or withhold life-sustaining treatment for the
-patient shall be governed by section seventeen hundred fifty-b of the
-surrogate's court procedure act and not by this article.
-  (c) If a health care decision for a patient cannot be made under
-paragraphs (a) or (b) of this subdivision, but consent for the decision
-may be provided pursuant to the mental hygiene law or regulations of the
-office of mental health or the office for people with developmental
-disabilities, then the decision shall be governed by such statute or
-regulations and not by this article.
-  * NB Effective until June 17, 2020
-  * 3. Prior to seeking or relying upon a health care decision by a
+  3. Prior to seeking or relying upon a health care decision by a
 surrogate for a patient under this article, if the attending
 practitioner has reason to believe that the patient has a history of
 receiving services for mental retardation or a developmental disability;
@@ -86,7 +46,6 @@ may be provided pursuant to the mental hygiene law or regulations of the
 office of mental health or the office for people with developmental
 disabilities, then the decision shall be governed by such statute or
 regulations and not by this article.
-  * NB Effective June 17, 2020
   4. If, after reasonable efforts, it is determined that a health care
 decision for the patient cannot be made pursuant to subdivision two or
 three of this section, then the health care decision shall be made

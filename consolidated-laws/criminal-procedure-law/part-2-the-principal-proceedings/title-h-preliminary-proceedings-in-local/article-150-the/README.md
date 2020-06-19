@@ -7,7 +7,6 @@
 
 - [§ 150.10 Appearance ticket; definition, form and content](150.10-appearance-ticket-definition-form.md)
 - [§ 150.20 Appearance ticket; when and by whom issuable](150.20-appearance-ticket-when-and-by-whom.md)
-- [§ 150.30 Appearance ticket; issuance and service thereof after arrest upon posting of pre-arraignment bail](150.30-appearance-ticket-issuance-and-service.md) *(repealed)*
 - [§ 150.40 Appearance ticket; where returnable; how and where served](150.40-appearance-ticket-where-returnable-how.md)
 - [§ 150.50 Appearance ticket; filing a local criminal court accusatory instrument; dismissal of insufficient instrument](150.50-appearance-ticket-filing-a-local.md)
 - [§ 150.60 Appearance ticket; defendant's failure to appear](150.60-appearance-ticket-defendants-failure.md)

@@ -10,81 +10,13 @@ decision-making capacity unless determined otherwise pursuant to this
 section or pursuant to court order, or unless a guardian is authorized
 to decide about health care for the adult pursuant to article eighty-one
 of the mental hygiene law.
-  * 2. Initial determination by attending physician or attending nurse
-practitioner. An attending physician or attending nurse practitioner
-shall make an initial determination that an adult patient lacks
-decision-making capacity to a reasonable degree of medical certainty.
-Such determination shall include an assessment of the cause and extent
-of the patient's incapacity and the likelihood that the patient will
-regain decision-making capacity.
-  * NB Effective until June 17, 2020
-  * 2. Initial determination by attending practitioner. An attending
+  2. Initial determination by attending practitioner. An attending
 practitioner shall make an initial determination that an adult patient
 lacks decision-making capacity to a reasonable degree of medical
 certainty. Such determination shall include an assessment of the cause
 and extent of the patient's incapacity and the likelihood that the
 patient will regain decision-making capacity.
-  * NB Effective June 17, 2020
-  * 3. Concurring determinations. (a) An initial determination that a
-patient lacks decision-making capacity shall be subject to a concurring
-determination, independently made, where required by this subdivision. A
-concurring determination shall include an assessment of the cause and
-extent of the patient's incapacity and the likelihood that the patient
-will regain decision-making capacity, and shall be included in the
-patient's medical record. Hospitals shall adopt written policies
-identifying the training and credentials of health or social services
-practitioners qualified to provide concurring determinations of
-incapacity.
-  (b) (i) In a residential health care facility, a health or social
-services practitioner employed by or otherwise formally affiliated with
-the facility must independently determine whether an adult patient lacks
-decision-making capacity.
-  (ii) In a general hospital a health or social services practitioner
-employed by or otherwise formally affiliated with the facility must
-independently determine whether an adult patient lacks decision-making
-capacity if the surrogate's decision concerns the withdrawal or
-withholding of life-sustaining treatment.
-  (iii) With respect to decisions regarding hospice care for a patient
-in a general hospital or residential health care facility, the health or
-social services practitioner must be employed by or otherwise formally
-affiliated with the general hospital or residential health care
-facility.
-  (c) (i) If the attending physician or attending nurse practitioner
-makes an initial determination that a patient lacks decision-making
-capacity because of mental illness, either such physician must have the
-following qualifications, or another physician with the following
-qualifications must independently determine whether the patient lacks
-decision-making capacity: a physician licensed to practice medicine in
-New York state, who is a diplomate or eligible to be certified by the
-American Board of Psychiatry and Neurology or who is certified by the
-American Osteopathic Board of Neurology and Psychiatry or is eligible to
-be certified by that board. A record of such consultation shall be
-included in the patient's medical record.
-  (ii) If the attending physician or attending nurse practitioner makes
-an initial determination that a patient lacks decision-making capacity
-because of a developmental disability, either such physician or nurse
-practitioner must have the following qualifications, or another
-professional with the following qualifications must independently
-determine whether the patient lacks decision-making capacity: a
-physician or clinical psychologist who either is employed by a
-developmental disabilities services office named in section 13.17 of the
-mental hygiene law, or who has been employed for a minimum of two years
-to render care and service in a facility operated or licensed by the
-office for people with developmental disabilities, or has been approved
-by the commissioner of developmental disabilities in accordance with
-regulations promulgated by such commissioner. Such regulations shall
-require that a physician or clinical psychologist possess specialized
-training or three years experience in treating developmental
-disabilities. A record of such consultation shall be included in the
-patient's medical record.
-  (d) If an attending physician or attending nurse practitioner has
-determined that the patient lacks decision-making capacity and if the
-health or social services practitioner consulted for a concurring
-determination disagrees with the attending physician's or the attending
-nurse practitioner's determination, the matter shall be referred to the
-ethics review committee if it cannot otherwise be resolved.
-  * NB Effective until June 17, 2020
-  * 3. Concurring determinations. (a) An initial determination that a
+  3. Concurring determinations. (a) An initial determination that a
 patient lacks decision-making capacity shall be subject to a concurring
 determination, independently made, where required by this subdivision. A
 concurring determination shall include an assessment of the cause and
@@ -140,7 +72,6 @@ decision-making capacity and if the health or social services
 practitioner consulted for a concurring determination disagrees with the
 attending practitioner's determination, the matter shall be referred to
 the ethics review committee if it cannot otherwise be resolved.
-  * NB Effective June 17, 2020
   4. Informing the patient and surrogate. Notice of a determination that
 a surrogate will make health care decisions because the adult patient
 has been determined to lack decision-making capacity shall promptly be
@@ -170,18 +101,7 @@ adjudged incompetent for all purposes and, in the case of a patient's
 objection to treatment, makes any other finding required by law to
 authorize the treatment, or (b) another legal basis exists for
 overriding the patient's decision.
-  * 7. Confirmation of continued lack of decision-making capacity. An
-attending physician or attending nurse practitioner shall confirm the
-adult patient's continued lack of decision-making capacity before
-complying with health care decisions made pursuant to this article,
-other than those decisions made at or about the time of the initial
-determination. A concurring determination of the patient's continued
-lack of decision-making capacity shall be required if the subsequent
-health care decision concerns the withholding or withdrawal of
-life-sustaining treatment. Health care providers shall not be required
-to inform the patient or surrogate of the confirmation.
-  * NB Effective until June 17, 2020
-  * 7. Confirmation of continued lack of decision-making capacity. An
+  7. Confirmation of continued lack of decision-making capacity. An
 attending practitioner shall confirm the adult patient's continued lack
 of decision-making capacity before complying with health care decisions
 made pursuant to this article, other than those decisions made at or
@@ -190,5 +110,4 @@ of the patient's continued lack of decision-making capacity shall be
 required if the subsequent health care decision concerns the withholding
 or withdrawal of life-sustaining treatment. Health care providers shall
 not be required to inform the patient or surrogate of the confirmation.
-  * NB Effective June 17, 2020
 ```

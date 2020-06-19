@@ -42,12 +42,6 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
-  ** 1-e. The informational leaflet shall also include information on
-possible complications from pregnancy that can endanger the life or
-health of the newborn or the mother. The commissioner, in consultation
-with any state or local government maternal mortality review boards,
-shall review and update this information as necessary.
-  ** NB Effective and Repealed June 17, 2020
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

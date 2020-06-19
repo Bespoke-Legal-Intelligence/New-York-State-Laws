@@ -20,7 +20,6 @@
 - [§ 158 Firefighting training](158-firefighting-training.md)
 - [§ 159 Advisory council for fire prevention and control](159-advisory-council-for-fire-prevention-and-control.md)
 - [§ 159-A Inclusion on the fallen firefighters memorial](159a-inclusion-on-the-fallen-firefighters-memorial.md)
-- [§ 159-B Restrictions on the use of firefighting equipment containing PFAS chemicals](159b-restrictions-on-the-use-of-firefighting-equipment-containing-pfas-chemicals.md) *(repealed)*
 - [§ 159-C-1 Training; live fire conditions](159c-1-training-live-fire-conditions.md)
 - [§ 159-D Training for fire chiefs](159d-training-for-fire-chiefs.md)
 

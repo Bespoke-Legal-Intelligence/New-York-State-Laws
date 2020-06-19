@@ -6,19 +6,12 @@
 ```text
   § 2994-aa. Definitions. 1. "Adult" means any person who is eighteen
 years of age or older, or is the parent of a child or has married.
-  * 2. "Attending physician" means the physician who has primary
-responsibility for the treatment and care of the patient. Where more
-than one physician or nurse practitioner shares such responsibility, any
-such physician or nurse practitioner may act as the attending physician
-or attending nurse practitioner pursuant to this article.
-  * NB Effective until June 17, 2020
-  * 2. "Attending practitioner" means the physician, nurse practitioner
-or physician assistant who has primary responsibility for the treatment
-and care of the patient. Where more than one physician, nurse
-practitioner or physician assistant shares such responsibility, any such
-physician, nurse practitioner or physician assistant may act as the
-attending practitioner pursuant to this article.
-  * NB Effective June 17, 2020
+  2. "Attending practitioner" means the physician, nurse practitioner or
+physician assistant who has primary responsibility for the treatment and
+care of the patient. Where more than one physician, nurse practitioner
+or physician assistant shares such responsibility, any such physician,
+nurse practitioner or physician assistant may act as the attending
+practitioner pursuant to this article.
   2-a. "Attending nurse practitioner" means the nurse practitioner who
 has primary responsibility for the treatment and care of the patient.
 Where more than one physician and/or nurse practitioner shares such

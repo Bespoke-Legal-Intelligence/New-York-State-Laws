@@ -9,7 +9,7 @@
 - [§ 415-A Vehicle dismantlers and other persons engaged in the transfer or disposal of junk and salvage vehicles](415a-vehicle-dismantlers-and-other-persons-engaged.md)
 - [§ 415-B Local regulation of vehicle dismantlers in cities having a population in excess of one million](415b-local-regulation-of-vehicle-dismantlers-in-cities-having.md)
 - [§ 415-C Sale of salvaged inflatable restraint systems; restrictions](415c-sale-of-salvaged-inflatable-restraint-systems-restrictions.md)
-- [§ 416 Limited use of dealer's and transporter's number plates by vendee or lessee](416-limited-use-of-dealers-and-transporters-number-plates.md)
+- [§ 416 Limited use of dealer's, manufacturer's, and transporter's number plates by vendee or lessee](416-limited-use-of-dealers-manufacturers-and-transporters-number.md)
 - [§ 416-A Bumper quality label requirements](416a-bumper-quality-label-requirements.md)
 - [§ 416-B Vehicle data recording devices](416b-vehicle-data-recording-devices.md)
 - [§ 417 Certificates by retail dealers on sales of second hand motor vehicles](417-certificates-by-retail-dealers-on-sales-of-second-hand-motor.md)

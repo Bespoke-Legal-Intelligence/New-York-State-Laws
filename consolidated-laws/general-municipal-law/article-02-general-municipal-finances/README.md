@@ -9,7 +9,6 @@
 - [§ 3-A Rate of interest on judgments and accrued claims against municipal corporations](03a-rate-of-interest-on-judgments-and-accrued-claims-against-municipal-corporations.md)
 - [§ 3-B Limitation on real estate tax in New York city](03b-limitation-on-real-estate-tax-in-new-york-city.md)
 - [§ 3-C Limit upon real property tax levies by local governments](03c-limit-upon-real-property-tax-levies-by-local-governments.md)
-- [§ 3-D Certification of compliance with tax levy limit](03d-certification-of-compliance-with-tax-levy-limit.md) *(repealed)*
 - [§ 4 Investigation of expenditures of towns and villages](04-investigation-of-expenditures-of-towns-and-villages.md)
 - [§ 5 Payment of fines, civil penalties, rent, rates, taxes, fees, charges and other amounts by credit card](05-payment-of-fines-civil-penalties-rent-rates-taxes-fees-charges-and-other-amounts.md)
 - [§ 5-A Electronic or wire transfers](05a-electronic-or-wire-transfers.md)
@@ -46,7 +45,7 @@
 - [§ 22 Claims against fire insurance proceeds; procedure](22-claims-against-fire-insurance-proceeds-procedure.md)
 - [§ 23 Flexible benefits program](23-flexible-benefits-program.md)
 - [§ 24 Corporation for the benefit of the city of New York](24-corporation-for-the-benefit-of-the-city-of-new-york.md)
-- [§ 25 Treatment of capital costs and restricted fund balances](25-treatment-of-capital-costs-and-restricted-fund-balances.md)
+- [§ 25 Treatment of capital costs and certain fund balances of the city of New York; revenue stabilization fund of such city](25-treatment-of-capital-costs-and-certain-fund-balances-of-the-city-of-new-york.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -110,7 +109,9 @@ Section 3.     Compensation for property of a municipal corporation,
         22.    Claims against fire insurance proceeds; procedure.
         23.    Flexible benefits program.
         24.    Corporation for the benefit of the city of New York.
-        25.    Treatment of capital costs and restricted fund balances.
+        25.    Treatment of capital costs and certain fund balances of
+                 the city of New York; revenue stabilization fund of
+                 such city.
 ```
 
 </details>

@@ -20,75 +20,20 @@ domestic partner;
   (d) A parent;
   (e) A brother or sister eighteen years of age or older;
   (f) A close friend.
-  * 2. Restrictions on who may be a surrogate. An operator,
-administrator, or employee of a hospital or a mental hygiene facility
-from which the patient was transferred, or a physician or nurse
-practitioner who has privileges at the hospital or a health care
-provider under contract with the hospital may not serve as the surrogate
-for any adult who is a patient of such hospital, unless such individual
-is related to the patient by blood, marriage, domestic partnership, or
+  2. Restrictions on who may be a surrogate. An operator, administrator,
+or employee of a hospital or a mental hygiene facility from which the
+patient was transferred, or a physician, nurse practitioner or physician
+assistant who has privileges at the hospital or a health care provider
+under contract with the hospital may not serve as the surrogate for any
+adult who is a patient of such hospital, unless such individual is
+related to the patient by blood, marriage, domestic partnership, or
 adoption, or is a close friend of the patient whose friendship with the
-patient preceded the patient's admission to the facility. If a physician
-or nurse practitioner serves as surrogate, the physician or nurse
-practitioner shall not act as the patient's attending physician or
-attending nurse practitioner after his or her authority as surrogate
-begins.
-  * NB Effective until June 17, 2020
-  * 2. Restrictions on who may be a surrogate. An operator,
-administrator, or employee of a hospital or a mental hygiene facility
-from which the patient was transferred, or a physician, nurse
-practitioner or physician assistant who has privileges at the hospital
-or a health care provider under contract with the hospital may not serve
-as the surrogate for any adult who is a patient of such hospital, unless
-such individual is related to the patient by blood, marriage, domestic
-partnership, or adoption, or is a close friend of the patient whose
-friendship with the patient preceded the patient's admission to the
-facility. If a physician, nurse practitioner or physician assistant
-serves as surrogate, the physician, nurse practitioner or physician
-assistant shall not act as the patient's attending practitioner after
-his or her authority as surrogate begins.
-  * NB Effective June 17, 2020
-  * 3. Authority and duties of surrogate. (a) Scope of surrogate's
-authority.
-  (i) Subject to the standards and limitations of this article, the
-surrogate shall have the authority to make any and all health care
-decisions on the adult patient's behalf that the patient could make.
-  (ii) Nothing in this article shall obligate health care providers to
-seek the consent of a surrogate if an adult patient has already made a
-decision about the proposed health care, expressed orally or in writing
-or, with respect to a decision to withdraw or withhold life-sustaining
-treatment expressed either orally during hospitalization in the presence
-of two witnesses eighteen years of age or older, at least one of whom is
-a health or social services practitioner affiliated with the hospital,
-or in writing. If an attending physician or attending nurse practitioner
-relies on the patient's prior decision, the physician or nurse
-practitioner shall record the prior decision in the patient's medical
-record. If a surrogate has already been designated for the patient, the
-attending physician or attending nurse practitioner shall make
-reasonable efforts to notify the surrogate prior to implementing the
-decision; provided that in the case of a decision to withdraw or
-withhold life-sustaining treatment, the attending physician or attending
-nurse practitioner shall make diligent efforts to notify the surrogate
-and, if unable to notify the surrogate, shall document the efforts that
-were made to do so.
-  (b) Commencement of surrogate's authority. The surrogate's authority
-shall commence upon a determination, made pursuant to section
-twenty-nine hundred ninety-four-c of this article, that the adult
-patient lacks decision-making capacity and upon identification of a
-surrogate pursuant to subdivision one of this section. In the event an
-attending physician or nurse practitioner determines that the patient
-has regained decision-making capacity, the authority of the surrogate
-shall cease.
-  (c) Right and duty to be informed. Notwithstanding any law to the
-contrary, the surrogate shall have the right to receive medical
-information and medical records necessary to make informed decisions
-about the patient's health care. Health care providers shall provide and
-the surrogate shall seek information necessary to make an informed
-decision, including information about the patient's diagnosis,
-prognosis, the nature and consequences of proposed health care, and the
-benefits and risks of and alternative to proposed health care.
-  * NB Effective until June 17, 2020
-  * 3. Authority and duties of surrogate. (a) Scope of surrogate's
+patient preceded the patient's admission to the facility. If a
+physician, nurse practitioner or physician assistant serves as
+surrogate, the physician, nurse practitioner or physician assistant
+shall not act as the patient's attending practitioner after his or her
+authority as surrogate begins.
+  3. Authority and duties of surrogate. (a) Scope of surrogate's
 authority.
   (i) Subject to the standards and limitations of this article, the
 surrogate shall have the authority to make any and all health care
@@ -125,7 +70,6 @@ the surrogate shall seek information necessary to make an informed
 decision, including information about the patient's diagnosis,
 prognosis, the nature and consequences of proposed health care, and the
 benefits and risks of and alternatives to proposed health care.
-  * NB Effective June 17, 2020
   4. Decision-making standards. (a) The surrogate shall make health care
 decisions:
   (i) in accordance with the patient's wishes, including the patient's
@@ -144,54 +88,7 @@ and best interests shall be patient-centered; health care decisions
 shall be made on an individualized basis for each patient, and shall be
 consistent with the values of the patient, including the patient's
 religious and moral beliefs, to the extent reasonably possible.
-  * 5. Decisions to withhold or withdraw life-sustaining treatment. In
-addition to the standards set forth in subdivision four of this section,
-decisions by surrogates to withhold or withdraw life-sustaining
-treatment (including decisions to accept a hospice plan of care that
-provides for the withdrawal or withholding of life-sustaining treatment)
-shall be authorized only if the following conditions are satisfied, as
-applicable:
-  (a)(i) Treatment would be an extraordinary burden to the patient and
-an attending physician or attending nurse practitioner determines, with
-the independent concurrence of another physician or nurse practitioner,
-that, to a reasonable degree of medical certainty and in accord with
-accepted medical standards, (A) the patient has an illness or injury
-which can be expected to cause death within six months, whether or not
-treatment is provided; or (B) the patient is permanently unconscious; or
-  (ii) The provision of treatment would involve such pain, suffering or
-other burden that it would reasonably be deemed inhumane or
-extraordinarily burdensome under the circumstances and the patient has
-an irreversible or incurable condition, as determined by an attending
-physician or attending nurse practitioner with the independent
-concurrence of another physician or nurse practitioner to a reasonable
-degree of medical certainty and in accord with accepted medical
-standards.
-  (b) In a residential health care facility, a surrogate shall have the
-authority to refuse life-sustaining treatment under subparagraph (ii) of
-paragraph (a) of this subdivision only if the ethics review committee,
-including at least one physician or nurse practitioner who is not
-directly responsible for the patient's care, or a court of competent
-jurisdiction, reviews the decision and determines that it meets the
-standards set forth in this article. This requirement shall not apply to
-a decision to withhold cardiopulmonary resuscitation.
-  (c) In a general hospital, if the attending physician or attending
-nurse practitioner objects to a surrogate's decision, under subparagraph
-(ii) of paragraph (a) of this subdivision, to withdraw or withhold
-nutrition and hydration provided by means of medical treatment, the
-decision shall not be implemented until the ethics review committee,
-including at least one physician or nurse practitioner who is not
-directly responsible for the patient's care, or a court of competent
-jurisdiction, reviews the decision and determines that it meets the
-standards set forth in this subdivision and subdivision four of this
-section.
-  (d) Providing nutrition and hydration orally, without reliance on
-medical treatment, is not health care under this article and is not
-subject to this article.
-  (e) Expression of decisions. The surrogate shall express a decision to
-withdraw or withhold life-sustaining treatment either orally to an
-attending physician or attending nurse practitioner or in writing.
-  * NB Effective until June 17, 2020
-  * 5. Decisions to withhold or withdraw life-sustaining treatment. In
+  5. Decisions to withhold or withdraw life-sustaining treatment. In
 addition to the standards set forth in subdivision four of this section,
 decisions by surrogates to withhold or withdraw life-sustaining
 treatment (including decisions to accept a hospice plan of care that
@@ -235,5 +132,4 @@ subject to this article.
   (e) Expression of decisions. The surrogate shall express a decision to
 withdraw or withhold life-sustaining treatment either orally to an
 attending practitioner or in writing.
-  * NB Effective June 17, 2020
 ```

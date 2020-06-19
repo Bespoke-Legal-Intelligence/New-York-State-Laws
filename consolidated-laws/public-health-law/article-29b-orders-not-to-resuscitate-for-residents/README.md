@@ -15,7 +15,7 @@
 - [§ 2967 Decision-making on behalf of a minor patient](2967-decision-making-on-behalf-of-a-minor-patient.md)
 - [§ 2968 Effect of order not to resuscitate on other treatment](2968-effect-of-order-not-to-resuscitate-on-other-treatment.md)
 - [§ 2969 Revocation of consent to order not to resuscitate](2969-revocation-of-consent-to-order-not-to-resuscitate.md)
-- [§ 2970 Physician and nurse practitioner review of the order not to resuscitate](2970-physician-and-nurse-practitioner-review-of-the-order-not-to-resuscitate.md)
+- [§ 2970 Physician, nurse practitioner and physician assistant review of the order not to resuscitate](2970-physician-nurse-practitioner-and-physician-assistant-review-of-the-order-not.md)
 - [§ 2971 Interinstitutional transfers](2971-interinstitutional-transfers.md)
 - [§ 2972 Dispute mediation system](2972-dispute-mediation-system.md)
 - [§ 2973 Judicial review](2973-judicial-review.md)

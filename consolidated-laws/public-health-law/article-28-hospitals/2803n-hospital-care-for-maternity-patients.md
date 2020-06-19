@@ -12,16 +12,7 @@ a caesarean section, and for more than forty-eight hours when medically
 necessary. For a caesarean section, inpatient care for mothers and
 newborns shall be offered for not less than ninety-six hours after
 childbirth, and for more than ninety-six hours when medically necessary.
-  * (b) Maternity care shall also include, at minimum, parent education,
-assistance and training in breast or bottle feeding, education on
-maternal depression, education on maternal depression screening and
-referrals, and the performance of any necessary maternal and newborn
-clinical assessments. Notwithstanding this requirement, nothing in this
-paragraph is intended to result in the hospital charging any amount for
-such services in addition to the applicable charge for the maternity
-inpatient hospital admission.
-  * NB Effective until June 17, 2020
-  * (b) Maternity care shall also include, at minimum, parent education,
+  (b) Maternity care shall also include, at minimum, parent education,
 assistance and training in breast or bottle feeding, education on
 maternal depression, education on maternal depression screening and
 referrals, and the performance of any necessary or appropriate maternal
@@ -30,8 +21,7 @@ referrals. Notwithstanding this requirement, nothing in this paragraph
 is intended to result in the hospital charging any amount for such
 services in addition to the applicable charge for the maternity
 inpatient hospital admission.
-  * NB Effective June 17, 2020
-  * (c) (i) The hospital shall adopt, implement and periodically update
+  (c) (i) The hospital shall adopt, implement and periodically update
 standard protocols for management of obstetric hemorrhage. Such
 protocols shall address early recognition and assessment and readiness
 to respond in a multidisciplinary manner. Such protocols shall utilize
@@ -42,16 +32,14 @@ facilities if needed.
   (ii) The hospital shall maintain and furnish protocols for management
 of obstetric hemorrhage required pursuant to subparagraph (i) of this
 paragraph to the department, immediately upon request.
-  * NB Effective June 16, 2020
   2. This section shall not limit the mother's option to be discharged
 earlier than the time periods established in subdivision one of this
 section.
-  * 3. The commissioner shall develop guidance to hospitals on obstetric
+  3. The commissioner shall develop guidance to hospitals on obstetric
 hemorrhage protocols, in consultation with clinical experts, and develop
 or identify an existing toolkit on obstetric hemorrhage management,
 which may include a hemorrhage care checklist for use by hospitals as
 part of the protocols and guidance on simulation training. The
 commissioner shall post the guidance and toolkit on the department's
 website.
-  * NB Effective June 16, 2020
 ```

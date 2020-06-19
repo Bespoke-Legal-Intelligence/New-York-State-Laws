@@ -44,6 +44,7 @@
 - [§ 231 Uniform identification cards for retired police officers](231-uniform-identification-cards-for-retired-police-officers.md)
 - [§ 232 Sexual assault victims unit](232-sexual-assault-victims-unit.md)
 - [§ 233 Municipal gun buyback program](233-municipal-gun-buyback-program.md)
+- [§ 234 New York state police body-worn cameras program](234-new-york-state-police-body-worn-cameras-program.md)
 
 <details>
 <summary>Official heading of Article 11, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -98,6 +99,7 @@ Section 210.   Division of state police.
         231.   Uniform identification cards for retired police officers.
         232.   Sexual assault victims unit.
         233.   Municipal gun buyback program.
+        234.   New York state police body-worn cameras program.
 ```
 
 </details>

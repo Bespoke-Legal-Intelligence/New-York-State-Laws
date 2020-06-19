@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 27 — Licensing of Nail Specialty, Natural Hair Styling, Esthetics and Cosmetology](README.md)
 
 ```text
-  * § 408-b. Domestic violence and sexual assault awareness education.
-The department shall ensure that domestic violence and sexual assault
+  § 408-b. Domestic violence and sexual assault awareness education. The
+department shall ensure that domestic violence and sexual assault
 awareness education courses are made available to all licensees and
 applicants for a license or renewal pursuant to this article and that
 such courses are offered through the department's website. The
@@ -18,5 +18,4 @@ prevention and intervention of domestic violence or sexual assault in
 New York state, shall develop and provide access to domestic violence
 and sexual assault awareness education courses appropriate for those
 licensed under this article.
-  * NB Effective June 17, 2020
 ```

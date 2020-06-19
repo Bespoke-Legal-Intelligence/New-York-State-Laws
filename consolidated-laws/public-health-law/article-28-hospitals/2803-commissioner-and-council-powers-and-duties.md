@@ -461,4 +461,47 @@ but not limited to, clinical impairment.
 health center from providing off-site services in accordance with
 department regulations.
   * NB There are 2 sb 11's
+  12. (a) Each residential health care facility shall, no later than
+ninety days after the effective date of this subdivision and annually
+thereafter, or more frequently as may be directed by the commissioner,
+prepare and make available to the public on the facility's website, and
+immediately upon request, in a form acceptable to the commissioner, a
+pandemic emergency plan which shall include but not be limited to:
+  (i) a communication plan:
+  (A) to update authorized family members and guardians of infected
+residents at least once per day and upon a change in a resident's
+condition and at least once a week to update all residents and
+authorized families and guardians on the number of infections and deaths
+at the facility, by electronic or such other means as may be selected by
+each authorized family member or guardian; and
+  (B) that includes a method to provide all residents with daily access,
+at no cost, to remote videoconference or equivalent communication
+methods with family members and guardians; and
+  (ii) protection plans against infection for staff, residents and
+families, including:
+  (A) a plan for hospitalized residents to be readmitted to such
+residential health care facility after treatment, in accordance with all
+applicable laws and regulations; and
+  (B) a plan for such residential health care facility to maintain or
+contract to have at least a two-month supply of personal protective
+equipment; and
+  (iii) a plan for preserving a resident's place in a residential health
+care facility if such resident is hospitalized, in accordance with all
+applicable laws and regulations.
+  (b) The residential health care facility shall prepare and comply with
+the pandemic emergency plan. Failure to do so shall be a violation of
+this subdivision and may be subject to civil penalties pursuant to
+section twelve and twelve-b of this chapter. The commissioner shall
+review each residential health care facility for compliance with its
+plan and the applicable regulations in accordance with paragraphs (a)
+and (b) of subdivision one of this section.
+  (c) Within thirty days after the residential health care facility's
+receipt of written notice of noncompliance such residential health care
+facility shall submit a plan of correction in such form and manner as
+specified by the commissioner for achieving compliance with its plan and
+with the applicable regulations. The commissioner shall ensure each such
+residential health care facility complies with its plan of correction
+and the applicable regulations.
+  (d) The commissioner shall promulgate any rules and regulations
+necessary to implement the provisions of this subdivision.
 ```

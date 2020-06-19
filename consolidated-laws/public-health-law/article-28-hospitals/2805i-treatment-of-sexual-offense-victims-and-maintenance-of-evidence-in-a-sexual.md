@@ -5,37 +5,8 @@
 
 ```text
   § 2805-i. Treatment of sexual offense victims and maintenance of
-evidence in a sexual offense. * 1. Every hospital providing treatment to
+evidence in a sexual offense.  1. Every hospital providing treatment to
 alleged victims of a sexual offense shall be responsible for:
-  (a) maintaining sexual offense evidence and the chain of custody as
-provided in subdivision two of this section;
-  (b) contacting a rape crisis or victim assistance organization, if
-any, providing victim assistance to the geographic area served by that
-hospital to establish the coordination of non-medical services,
-including but not limited to transportation within the geographic area
-served by that organization, upon the conclusion of initial medical
-services, free of charge from the medical facility to sexual offense
-victims who request such coordination and services;
-  (c) offering and making available appropriate HIV post-exposure
-treatment therapies; including a seven day starter pack of HIV
-post-exposure prophylaxis, in cases where it has been determined, in
-accordance with guidelines issued by the commissioner, that a
-significant exposure to HIV has occurred, and informing the victim that
-payment assistance for such therapies may be available from the office
-of victim services pursuant to the provisions of article twenty-two of
-the executive law. With the consent of the victim of a sexual assault,
-the hospital emergency room department shall provide or arrange for an
-appointment for medical follow-up related to HIV post-exposure
-prophylaxis and other care as appropriate; and
-  (d) ensuring sexual assault survivors are not billed for sexual
-assault forensic exams and are notified orally and in writing of the
-option to decline to provide private health insurance information and
-have the office of victim services reimburse the hospital for the exam
-pursuant to subdivision thirteen of section six hundred thirty-one of
-the executive law.
-  * NB Effective until June 15, 2020
-  * 1. Every hospital providing treatment to alleged victims of a sexual
-offense shall be responsible for:
   (a) maintaining sexual offense evidence and the chain of custody as
 provided in subdivision two of this section;
   (b) informing sexual offense victims of the availability of rape
@@ -66,7 +37,6 @@ option to decline to provide private health insurance information and
 have the office of victim services reimburse the hospital for the exam
 pursuant to subdivision thirteen of section six hundred thirty-one of
 the executive law.
-  * NB Effective June 15, 2020
   2. Sexual offense evidence shall be collected and maintained as
 follows:
   (a) All sexual offense evidence shall be kept in a locked, separate

@@ -60,6 +60,9 @@ this chapter;
 credentialed by the office of addiction services and supports or by a
 credentialing entity approved by such office pursuant to section 19.07
 of the mental hygiene law;
+  (u) providers authorized to provide services and service coordination
+under the early intervention program pursuant to article twenty-five of
+this chapter;
   (v) clinics licensed or certified under article sixteen of the mental
 hygiene law and certified and non-certified day and residential programs
 funded or operated by the office for people with developmental
@@ -96,15 +99,20 @@ communication technologies by telehealth providers to deliver health
 care services, which shall include the assessment, diagnosis,
 consultation, treatment, education, care management and/or
 self-management of a patient. Telehealth shall not include delivery of
-health care services by means of audio-only telephone communication,
-facsimile machines, or electronic messaging alone, though use of these
-technologies is not precluded if used in conjunction with telemedicine,
-store and forward technology, or remote patient monitoring. For purposes
-of this section, telehealth shall be limited to telemedicine, store and
-forward technology, and remote patient monitoring. This subdivision
-shall not preclude the delivery of health care services by means of
-"home telehealth" as used in section thirty-six hundred fourteen of this
-chapter.
+health care services by means of facsimile machines, or electronic
+messaging alone, though use of these technologies is not precluded if
+used in conjunction with telemedicine, store and forward technology, or
+remote patient monitoring. For purposes of this section, telehealth
+shall be limited to telemedicine, store and forward technology, remote
+patient monitoring and audio-only telephone communication, except that
+with respect to the medical assistance program established under section
+three hundred sixty-six of the social services law, and the child health
+insurance plan under title one-A of article twenty-five of this chapter,
+telehealth shall include audio-only telephone communication only to the
+extent defined in regulations as may be promulgated by the commissioner.
+This subdivision shall not preclude the delivery of health care services
+by means of "home telehealth" as used in section thirty-six hundred
+fourteen of this chapter.
   5. "Telemedicine" means the use of synchronous, two-way electronic
 audio visual communications to deliver clinical health care services,
 which shall include the assessment, diagnosis, and treatment of a

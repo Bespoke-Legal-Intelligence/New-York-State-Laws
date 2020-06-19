@@ -4,32 +4,11 @@
 [Public Health Law](../README.md) › [Article 29-CC — Family Health Care Decisions Act](README.md)
 
 ```text
-  § 2994-s. Remedy. * 1. Any hospital, attending physician or nurse
-practitioner that refuses to honor a health care decision by a surrogate
-made pursuant to this article and in accord with the standards set forth
-in this article shall not be entitled to compensation for treatment,
-services, or procedures refused by the surrogate, except that this
-subdivision shall not apply:
-  (a) when a hospital, physician or nurse practitioner exercises the
-rights granted by section twenty-nine hundred ninety-four-n of this
-article, provided that the physician, nurse practitioner or hospital
-promptly fulfills the obligations set forth in section twenty-nine
-hundred ninety-four-n of this article;
-  (b) while a matter is under consideration by the ethics review
-committee, provided that the matter is promptly referred to and
-considered by the committee;
-  (c) in the event of a dispute between individuals on the surrogate
-list; or
-  (d) if the physician, nurse practitioner or hospital prevails in any
-litigation concerning the surrogate's decision to refuse the treatment,
-services or procedure. Nothing in this section shall determine or affect
-how disputes among individuals on the surrogate list are resolved.
-  * NB Effective until June 17, 2020
-  * 1. Any hospital, attending practitioner that refuses to honor a
-health care decision by a surrogate made pursuant to this article and in
-accord with the standards set forth in this article shall not be
-entitled to compensation for treatment, services, or procedures refused
-by the surrogate, except that this subdivision shall not apply:
+  § 2994-s. Remedy. 1. Any hospital, attending practitioner that refuses
+to honor a health care decision by a surrogate made pursuant to this
+article and in accord with the standards set forth in this article shall
+not be entitled to compensation for treatment, services, or procedures
+refused by the surrogate, except that this subdivision shall not apply:
   (a) when a hospital, physician, nurse practitioner or physician
 assistant exercises the rights granted by section twenty-nine hundred
 ninety-four-n of this article, provided that the physician, nurse
@@ -46,7 +25,6 @@ hospital prevails in any litigation concerning the surrogate's decision
 to refuse the treatment, services or procedure. Nothing in this section
 shall determine or affect how disputes among individuals on the
 surrogate list are resolved.
-  * NB Effective June 17, 2020
   2. The remedy provided in this section is in addition to and
 cumulative with any other remedies available at law or in equity or by
 administrative proceedings to a patient, a health care agent appointed
