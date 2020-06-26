@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 19 Jun 2020.*
+*Current through the publication of 26 Jun 2020.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [26 Jun 2020](changes/2020/2020-06-26.md): Business Corporation Law; Criminal Procedure Law; Education Law; Labor Law; Not-for-Profit Corporation Law; Public Health Law; Real Property Tax Law; State Finance Law; Vehicle and Traffic Law
 - [19 Jun 2020](changes/2020/2020-06-19.md): Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Criminal Procedure Law; Education Law; Elder Law; Executive Law; General Business Law; General Municipal Law; Judiciary Law; Labor Law; NYS Financial Emergency Act for the city of NY; Not-for-Profit Corporation Law; Penal Law; Port of New York Authority; Public Authorities Law; Public Health Law; Public Officers Law; Public Service Law; Religious Corporations Law; Social Services Law; Vehicle and Traffic Law
 - [12 Jun 2020](changes/2020/2020-06-12.md): Election Law; General Business Law; General Municipal Law; Judiciary Law; Labor Law
 - [5 Jun 2020](changes/2020/2020-06-05.md): Education Law; Executive Law; Penal Law; Public Authorities Law; Retirement and Social Security Law; Tax Law
@@ -22,21 +23,20 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [22 May 2020](changes/2020/2020-05-22.md): Environmental Conservation Law; Public Health Law; Tax Law; Vehicle and Traffic Law
 - [15 May 2020](changes/2020/2020-05-15.md): Correction Law; General Municipal Law; Public Health Law
 - [8 May 2020](changes/2020/2020-05-08.md): Criminal Procedure Law; Domestic Relations Law; Environmental Conservation Law; Executive Law; Judiciary Law; Transportation Law
-- [1 May 2020](changes/2020/2020-05-01.md): Alcoholic Beverage Control Law; Domestic Relations Law; Election Law; Executive Law; General Business Law; General Municipal Law; Insurance Law; Public Authorities Law; Public Health Law; Retirement and Social Security Law; Social Services Law; Tax Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 354 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 204 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 203 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 355 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 205 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 201 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 199 |
-| [Education Law](consolidated-laws/education-law/README.md) | 171 |
+| [Education Law](consolidated-laws/education-law/README.md) | 174 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 158 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 146 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 144 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 144 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 126 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 128 |
 | [Election Law](consolidated-laws/election-law/README.md) | 119 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 117 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | 115 |
@@ -55,7 +55,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Arts and Cultural Affairs Law](consolidated-laws/arts-and-cultural-affairs-law/README.md) | ACA | 253 | 20 Dec 2019 |
 | [Banking Law](consolidated-laws/banking-law/README.md) | BNK | 856 | 19 Jun 2020 |
 | [Benevolent Orders Law](consolidated-laws/benevolent-orders-law/README.md) | BVO | 20 | 5 May 2017 |
-| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 249 | 19 Jun 2020 |
+| [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 249 | 26 Jun 2020 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 24 Apr 2020 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 796 | 19 Jun 2020 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 120 | 19 Jun 2020 |
@@ -63,11 +63,11 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 327 | 15 May 2020 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 400 | 24 Apr 2020 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 582 | 19 Jun 2020 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 582 | 26 Jun 2020 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 10 Apr 2020 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 8 May 2020 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 174 | 24 Apr 2020 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,897 | 19 Jun 2020 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,897 | 26 Jun 2020 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 19 Jun 2020 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 419 | 12 Jun 2020 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,025 | 1 May 2020 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 537 | 19 Jun 2020 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 701 | 19 Jun 2020 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 701 | 26 Jun 2020 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 17 Apr 2020 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 118 | 14 Feb 2020 |
@@ -100,7 +100,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Municipal Housing Authorities Law](consolidated-laws/municipal-housing-authorities-law/README.md) | MHA | 19 | no change since 22 Sep 2014 (start of history) |
 | [Navigation Law](consolidated-laws/navigation-law/README.md) | NAV | 219 | 24 Apr 2020 |
 | [New York State Printing and Public Documents Law](consolidated-laws/new-york-state-printing-and-public-documents-law/README.md) | PPD | 16 | no change since 22 Sep 2014 (start of history) |
-| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 259 | 19 Jun 2020 |
+| [Not-for-Profit Corporation Law](consolidated-laws/not-for-profit-corporation-law/README.md) | NPC | 259 | 26 Jun 2020 |
 | [Parks, Recreation and Historic Preservation Law](consolidated-laws/parks-recreation-and-historic-preservation-law/README.md) | PAR | 179 | 13 Dec 2019 |
 | [Partnership Law](consolidated-laws/partnership-law/README.md) | PTR | 163 | 25 Nov 2016 |
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 871 | 19 Jun 2020 |
@@ -108,7 +108,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 17 Apr 2020 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,168 | 19 Jun 2020 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 53 | 10 Apr 2020 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,703 | 19 Jun 2020 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,703 | 26 Jun 2020 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 24 Apr 2020 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 20 Dec 2019 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 115 | 19 Jun 2020 |
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 329 | 3 Jan 2020 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 420 | 24 Apr 2020 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 769 | 24 Apr 2020 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 769 | 26 Jun 2020 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Jun 2020 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 547 | 5 Jun 2020 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 19 Apr 2019 |
@@ -126,7 +126,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 698 | 19 Jun 2020 |
 | [Soil and Water Conservation Districts Law](consolidated-laws/soil-and-water-conservation-districts-law/README.md) | SWC | 18 | 20 Apr 2018 |
 | [State Administrative Procedure Act](consolidated-laws/state-administrative-procedure-act/README.md) | SAP | 31 | 24 Apr 2020 |
-| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 546 | 24 Apr 2020 |
+| [State Finance Law](consolidated-laws/state-finance-law/README.md) | STF | 546 | 26 Jun 2020 |
 | [State Law](consolidated-laws/state-law/README.md) | STL | 97 | 17 Apr 2020 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 24 Apr 2020 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
@@ -135,7 +135,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 3 May 2019 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 324 | 8 May 2020 |
 | [Uniform Commercial Code](consolidated-laws/uniform-commercial-code/README.md) | UCC | 627 | 5 Oct 2018 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 950 | 19 Jun 2020 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | VAT | 950 | 26 Jun 2020 |
 | [Village Law](consolidated-laws/village-law/README.md) | VIL | 241 | 22 Nov 2019 |
 | [Volunteer Ambulance Workers' Benefit Law](consolidated-laws/volunteer-ambulance-workers-benefit-law/README.md) | VAW | 55 | 11 Nov 2016 |
 | [Volunteer Firefighters' Benefit Law](consolidated-laws/volunteer-firefighters-benefit-law/README.md) | VOL | 59 | 24 Apr 2020 |

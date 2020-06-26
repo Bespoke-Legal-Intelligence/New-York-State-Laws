@@ -7,10 +7,10 @@
 
 - [§ 4300 Definitions](4300-definitions.md)
 - [§ 4301 Persons who may execute an anatomical gift](4301-persons-who-may-execute-an-anatomical-gift.md)
-- [§ 4302 Persons who may become donees and purposes for which anatomical gifts may be made](4302-persons-who-may-become-donees-and-purposes-for-which-anatomical-gifts-may-be.md)
+- [§ 4302 Uses and dispositions of anatomical gifts](4302-uses-and-dispositions-of-anatomical-gifts.md)
 - [§ 4303 Manner of executing anatomical gifts](4303-manner-of-executing-anatomical-gifts.md)
 - [§ 4304 Delivery of document of gift](4304-delivery-of-document-of-gift.md)
-- [§ 4305 Revocation of the gift](4305-revocation-of-the-gift.md)
+- [§ 4305 Amendments or revocation of the gift](4305-amendments-or-revocation-of-the-gift.md)
 - [§ 4306 Rights and duties at death](4306-rights-and-duties-at-death.md)
 - [§ 4306-A Advanced directives and health care proxies](4306a-advanced-directives-and-health-care-proxies.md)
 - [§ 4307 Prohibition of sales and purchases of human organs](4307-prohibition-of-sales-and-purchases-of-human-organs.md)

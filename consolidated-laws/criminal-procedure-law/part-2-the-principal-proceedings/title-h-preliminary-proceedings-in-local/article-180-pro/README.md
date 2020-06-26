@@ -11,7 +11,7 @@
 - [§ 180.40 Proceedings upon felony complaint; application in superior court following hearing or waiver of hearing](180.40-proceedings-upon-felony-complaint.md)
 - [§ 180.50 Proceedings upon felony complaint; reduction of charge](180.50-proceedings-upon-felony-complaint.md)
 - [§ 180.60 Proceedings upon felony complaint; the hearing; conduct thereof](180.60-proceedings-upon-felony-complaint.md)
-- [§ 180.65 Hearing upon felony complaint; emergency provision during disaster emergency](180.65-hearing-upon-felony-complaint.md)
+- [§ 180.65 Hearing upon felony complaint; emergency provision during During the period of the COVID-19 state disaster emergency, as declared pursuan...](180.65-hearing-upon-felony-complaint.md)
 - [§ 180.70 Proceedings upon felony complaint; disposition of felony complaint after hearing](180.70-proceedings-upon-felony-complaint.md)
 - [§ 180.75 Proceedings upon felony complaint; juvenile offender](180.75-proceedings-upon-felony-complaint.md)
 - [§ 180.80 Proceedings upon felony complaint; release of defendant from custody upon failure of timely disposition](180.80-proceedings-upon-felony-complaint.md)

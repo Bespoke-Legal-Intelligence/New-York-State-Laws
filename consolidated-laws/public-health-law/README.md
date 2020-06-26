@@ -8,7 +8,7 @@
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
 | Sections | 1,703 |
-| Last changed | 19 Jun 2020 |
+| Last changed | 26 Jun 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [26 Jun 2020](../../changes/2020/2020-06-26.md): 6 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 44 amended
 - [22 May 2020](../../changes/2020/2020-05-22.md): 3 amended
 - [15 May 2020](../../changes/2020/2020-05-15.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 4 amended
 - [3 Apr 2020](../../changes/2020/2020-04-03.md): 1 amended
 - [27 Mar 2020](../../changes/2020/2020-03-27.md): 1 amended
-- [13 Mar 2020](../../changes/2020/2020-03-13.md): 3 amended
 
 ## Contents
 
@@ -149,7 +149,7 @@ Assembly, do enact as follows:
 - [Article 41 — Vital Statistics](article-41-vital-statistics/)
 - [Article 42 — Cadavers](article-42-cadavers/)
 - [Article 43 — Anatomical Gifts](article-43-anatomical-gifts/)
-- [Article 43-A — Request For Consent to an Anatomical Gift](article-43a-request-for-consent-to-an-anatomical-gift/)
+- [Article 43-A — Anatomical Gift Duties of Hospitals and Procurement Organizations](article-43a-anatomical-gift-duties-of-hospitals/)
 - [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](article-43b-organ-tissue-and-body-parts-procurement/)
 - [Article 44 — Health Maintenance Organizations](article-44-health-maintenance-organizations/)
 - [Article 45 — Medical Referral Services](article-45-medical-referral-services/)

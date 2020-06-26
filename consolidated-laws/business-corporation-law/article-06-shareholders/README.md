@@ -9,7 +9,7 @@
 - [§ 602 Meetings of shareholders](602-meetings-of-shareholders.md)
 - [§ 603 Special meeting for election of directors](603-special-meeting-for-election-of-directors.md)
 - [§ 604 Fixing record date](604-fixing-record-date.md)
-- [§ 605 Notice of meeting of members](605-notice-of-meeting-of-members.md)
+- [§ 605 Notice of meetings of shareholders](605-notice-of-meetings-of-shareholders.md)
 - [§ 606 Waivers of notice](606-waivers-of-notice.md)
 - [§ 607 List of shareholders at meetings](607-list-of-shareholders-at-meetings.md)
 - [§ 608 Quorum of shareholders](608-quorum-of-shareholders.md)

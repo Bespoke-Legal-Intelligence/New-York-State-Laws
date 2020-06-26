@@ -32,18 +32,4 @@ appropriate procedures. In the absence of a designation, or if the
 designee is not available, the donee or other person authorized to
 accept the gift may employ or authorize any surgeon or physician for the
 purpose.
-  * 5. Any gift by a person designated in subdivision two of section
-four thousand three hundred one of this article shall be by a document
-signed by him or her or made by his or her telegraphic, recorded
-telephonic, or other recorded message. Where a gift is made under this
-subdivision, either: (a) the donor shall indicate in the document or
-message that he or she has no actual notice of contrary indications by
-the decedent and no reason to believe that an anatomical gift is
-contrary to the decedent's religious or moral beliefs; or (b) an agent
-of the federally designated organ procurement organization or of the
-donee shall make reasonable effort to inquire of the donor or otherwise
-determine that the donor has no actual notice of contrary indications by
-the decedent and no reason to believe that an anatomical gift is
-contrary to the decedent's religious or moral beliefs.
-  * NB Repealed June 23, 2020
 ```

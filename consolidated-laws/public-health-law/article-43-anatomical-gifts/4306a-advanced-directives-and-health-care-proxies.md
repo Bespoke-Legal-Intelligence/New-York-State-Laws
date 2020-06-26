@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43 — Anatomical Gifts](README.md)
 
 ```text
-  * § 4306-a. Advanced directives and health care proxies.  1. If a
+  § 4306-a. Advanced directives and health care proxies.  1. If a
 prospective donor in a hospital has a declaration or advance health care
 directive and terms of the declaration, directive or proxy document
 concerning life-sustaining treatment are in conflict with the express or
@@ -35,5 +35,4 @@ the conflict, measures necessary to ensure the medical suitability of
 the part may not be withheld or withdrawn from the patient if
 withholding or withdrawing the measures is not contraindicated by
 appropriate end-of-life care.
-  * NB Effective June 23, 2020
 ```
