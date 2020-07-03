@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 17 — Instruction In Certain Subjects](README.md)
 
 ```text
-  * § 803-b. Courses of study in prevention of child sexual exploitation
+  § 803-b. Courses of study in prevention of child sexual exploitation
 and child sexual abuse. 1. All pupils in grades K-8 in all public
 schools in the state shall receive instruction designed to prevent child
 sexual exploitation and child sexual abuse. Such program shall be
@@ -21,5 +21,4 @@ appropriate and developed according to the needs and abilities of pupils
 at successive grade levels in order to provide awareness, skills,
 information, self-confidence and support to aid in the prevention of
 child sexual exploitation and child sexual abuse.
-  * NB Effective July 1, 2020
 ```

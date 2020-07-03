@@ -7,22 +7,7 @@
   § 1399-ee. Hearings; penalties. 1. Hearings with respect to violation
 of this article shall be conducted in the same manner as hearings
 conducted under article thirteen-E of this chapter.
-  * 2. If the enforcement officer determines after a hearing that a
-violation of this article has occurred, he or she shall impose a civil
-penalty of a minimum of three hundred dollars, but not to exceed one
-thousand dollars for a first violation, and a minimum of five hundred
-dollars, but not to exceed one thousand five hundred dollars for each
-subsequent violation, unless a different penalty is otherwise provided
-in this article. The enforcement officer shall advise the retail dealer
-that upon the accumulation of three or more points pursuant to this
-section the department of taxation and finance shall suspend the
-dealer's registration. If the enforcement officer determines after a
-hearing that a retail dealer was selling tobacco products while their
-registration was suspended or permanently revoked pursuant to
-subdivision three or four of this section, he or she shall impose a
-civil penalty of twenty-five hundred dollars.
-  * NB Effective until July 1, 2020
-  * 2. If the enforcement officer determines after a hearing that a
+  2. If the enforcement officer determines after a hearing that a
 violation of this article has occurred, he or she shall impose a civil
 penalty of a minimum of three hundred dollars, but not to exceed one
 thousand five hundred dollars for a first violation, and a minimum of
@@ -36,7 +21,6 @@ after a hearing that a retail dealer was selling tobacco products while
 their registration was suspended or permanently revoked pursuant to
 subdivision three or four of this section, he or she shall impose a
 civil penalty of twenty-five hundred dollars.
-  * NB Effective July 1, 2020
   3. (a) Imposition of points. If the enforcement officer determines,
 after a hearing, that the retail dealer violated subdivision one of
 section thirteen hundred ninety-nine-cc of this article with respect to
@@ -61,28 +45,15 @@ first day of the month following the assignment of points.
 paragraph (a) of this subdivision shall be reinspected at least two
 times a year by the enforcement officer until points assessed are
 removed from the retail dealer's record.
-  * (e) Suspension. If the department determines that a retail dealer
-has accumulated three points or more, the department shall direct the
-commissioner of taxation and finance to suspend such dealer's
-registration for six months. The three points serving as the basis for a
-suspension shall be erased upon the completion of the six month penalty.
-  * NB Effective until July 1, 2020
-  * (e) Suspension. If the department determines that a retail dealer
-has accumulated three points or more, the department shall direct the
+  (e) Suspension. If the department determines that a retail dealer has
+accumulated three points or more, the department shall direct the
 commissioner of taxation and finance to suspend such dealer's
 registration for one year. The three points serving as the basis for a
 suspension shall be erased upon the completion of the one year penalty.
-  * NB Effective July 1, 2020
-  * (f) Surcharge. A fifty dollar surcharge to be assessed for every
-violation will be made available to enforcement officers and shall be
-used solely for compliance checks to be conducted to determine
+  (f) Surcharge. A two hundred fifty dollar surcharge to be assessed for
+every violation will be made available to enforcement officers and shall
+be used solely for compliance checks to be conducted to determine
 compliance with this section.
-  * NB Effective until July 1, 2020
-  * (f) Surcharge. A two hundred fifty dollar surcharge to be assessed
-for every violation will be made available to enforcement officers and
-shall be used solely for compliance checks to be conducted to determine
-compliance with this section.
-  * NB Effective July 1, 2020
   4. (a) If the enforcement officer determines, after a hearing, that a
 retail dealer has violated this article while their registration was
 suspended pursuant to subdivision three of this section, he or she

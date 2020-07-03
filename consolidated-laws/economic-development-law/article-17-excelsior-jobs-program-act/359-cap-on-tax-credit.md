@@ -4,8 +4,8 @@
 [Economic Development Law](../README.md) › [Article 17 — Excelsior Jobs Program Act](README.md)
 
 ```text
-§ 359. Cap on tax credit. The total amount of tax credits issued by the
-commissioner for any taxable year may not exceed the limitations set
+  § 359. Cap on tax credit. The total amount of tax credits issued by
+the commissioner for any taxable year may not exceed the limitations set
 forth in this section. One-half of any amount of tax credits not awarded
 for a particular taxable year may be used by the commissioner to award
 tax credits in another taxable year.

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 35 — Division of Criminal Justice Services](README.md)
 
 ```text
-  * § 837-u. The division of criminal justice services, in conjunction
+  § 837-u. The division of criminal justice services, in conjunction
 with the chief administrator of the courts, shall collect data and
 report annually regarding pretrial release and detention. Such data and
 report shall contain information categorized by gender, racial and
@@ -29,5 +29,4 @@ published eighteen months after this section shall have become a law,
 and shall include data from the first twelve months following the
 enactment of this section. Reports for subsequent years shall be
 published annually on or before that date thereafter.
-  * NB Effective July 2, 2020
 ```

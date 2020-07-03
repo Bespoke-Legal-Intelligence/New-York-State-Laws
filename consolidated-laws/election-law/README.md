@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ELN |
 | Type | Consolidated law, chapter 17 |
-| Sections | 419 |
-| Last changed | 12 Jun 2020 |
+| Sections | 419 (1 repealed) |
+| Last changed | 3 Jul 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Election |
 
@@ -31,6 +31,7 @@ of section forty-two of the public officers law and amending such law in
 
 ## Recent changes
 
+- [3 Jul 2020](../../changes/2020/2020-07-03.md): 15 amended, 1 repealed
 - [12 Jun 2020](../../changes/2020/2020-06-12.md): 6 amended
 - [1 May 2020](../../changes/2020/2020-05-01.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 9 amended, 14 added
@@ -40,7 +41,6 @@ of section forty-two of the public officers law and amending such law in
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 11 amended
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 1 amended
 - [20 Dec 2019](../../changes/2019/2019-12-20.md): 8 amended
-- [13 Dec 2019](../../changes/2019/2019-12-13.md): 5 amended
 
 ## Contents
 

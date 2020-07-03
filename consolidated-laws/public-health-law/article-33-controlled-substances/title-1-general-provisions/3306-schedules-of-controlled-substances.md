@@ -84,57 +84,36 @@ ethyl-4-piperidinyl} -N-phenylpropanamide).
 -propanamide.
   (54) Tilidine.
   (55) Trimeperidine.
-  * (56) 3,4-dichloro-N-{(1-dimethylamino) cyclohexylmethyl}benzamide.
+  (56) 3,4-dichloro-N-{(1-dimethylamino)cyclohexylmethyl}benzamide.
 Some trade or other names: AH-7921.
-  * NB Effective until July 2, 2020
-  * (56) 3,4-dichloro-N-{(1-dimethylamino)cyclohexylmethyl}benzamide.
-Some trade or other names: AH-7921.
-  * NB Effective July 2, 2020
-  * (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide (Acetyl
-Fentanyl).
-  * NB Effective until July 2, 2020
-  * (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide. Some trade or
+  (57) N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide. Some trade or
 other names: Acetyl Fentanyl.
-  * NB Effective July 2, 2020
-  * (58) N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide. Other name:
+  (58) N-(1-phenethylpiperidin-4-yl)-N-phenylbutyramide. Other name:
 Butyryl Fentanyl.
-  * NB Effective July 2, 2020
-  * (59) N-{1-{2-hydroxy-2-(thiophen-2-yl)ethyl}piperidin-4-yl}-N-phenylp-
+  (59) N-{1-{2-hydroxy-2-(thiophen-2-yl)ethyl}piperidin-4-yl}-N-phenylp-
 ropionamide. Other name: Beta-Hydroxythiofentanyl.
-  * NB Effective July 2, 2020
-  * (60) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide.
-Other name: Furanyl Fentanyl.
-  * NB Effective July 2, 2020
-  * (61) 3,4-Dichloro-N-{2-(dimethylamino)
-cyclohexyl}-N-methylbenzamide.  Other name: U-47700.
-  * NB Effective July 2, 2020
-  * (62) N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide. Other names:
+  (60) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide. Other
+name: Furanyl Fentanyl.
+  (61) 3,4-Dichloro-N-{2-(dimethylamino) cyclohexyl}-N-methylbenzamide.
+Other name: U-47700.
+  (62) N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide. Other names:
 Acryl Fentanyl or Acryloylfentanyl.
-  * NB Effective July 2, 2020
-  * (63) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide.
+  (63) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide.
 Other names: 4-fluoroisobutyryl fentanyl, para-fluoroisobutyryl
 fentanyl.
-  * NB Effective July 2, 2020
-  * (64) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide.
+  (64) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide.
 Other names: ortho-fluorofentanyl or 2-fluorofentanyl.
-  * NB Effective July 2, 2020
-  * (65) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carbox-
+  (65) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carbox-
 amide. Other name: tetrahydrofuranyl fentanyl.
-  * (66) 2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide.
-Other name: methoxyacetyl fentanyl.
-  * NB Effective July 2, 2020
-  * (67) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide.
+  (66) 2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide. Other
+name: methoxyacetyl fentanyl.
+  (67) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide.
 Other name: cyclopropyl fentanyl.
-  * NB Effective July 2, 2020
-  * (68) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide. Other
+  (68) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide. Other
 name: para-fluorobutyrylfentanyl.
-  * NB Effective July 2, 2020
-  * (69) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetam-
+  (69) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetam-
 ide. Other name: Ocfentanil.
-  * NB Effective July 2, 2020
-  * (70) 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine. Other name:
-MT-45.
-  * NB Effective July 2, 2020
+  (70) 1-cyclohexyl-4-(1,2-diphenylethyl)piperazine. Other name: MT-45.
   (c) Opium derivatives. Unless specifically excepted or unless listed
 in another schedule, any of the following opium derivatives, its salts,
 isomers, and salts of isomers whenever the existence of such salts,
@@ -496,8 +475,7 @@ carboxylic acid.
   (26) Sufentanil.
   (27) Remifentanil.
   (28) Tapentadol.
-  * (29) Thiafentanil.
-  * NB Effective July 2, 2020
+  (29) Thiafentanil.
   (d) Stimulants. Unless specifically excepted or unless listed in
 another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a stimulant

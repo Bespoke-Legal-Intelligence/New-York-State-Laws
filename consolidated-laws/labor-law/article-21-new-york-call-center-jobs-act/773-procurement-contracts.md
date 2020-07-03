@@ -4,13 +4,12 @@
 [Labor Law](../README.md) › [Article 21 — New York Call Center Jobs Act](README.md)
 
 ```text
-  * § 773. Procurement contracts. The head of each state agency shall
-use reasonable best efforts to ensure that all state-business-related
+  § 773. Procurement contracts. The head of each state agency shall use
+reasonable best efforts to ensure that all state-business-related
 contracts for call center and customer service work be performed by
 state contractors or other agents or subcontractors entirely within the
 state of New York. Presence on the list described in section seven
 hundred seventy-one of this article shall be considered a negative
 indication of ability to maintain jobs in the state as part of any
 vendor responsibility analysis.
-  * NB Effective June 30, 2020
 ```

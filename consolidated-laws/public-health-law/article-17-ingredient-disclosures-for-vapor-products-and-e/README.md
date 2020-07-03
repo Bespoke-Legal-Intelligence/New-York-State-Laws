@@ -13,13 +13,12 @@
 <summary>Official heading of Article 17, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * ARTICLE 17
+                               ARTICLE 17
                        INGREDIENT DISCLOSURES FOR
                      VAPOR PRODUCTS AND E-CIGARETTES
 Section 1700. Definitions.
         1701. Disclosure.
         1702. Penalties.
-  * NB Effective July 1, 2020
 ```
 
 </details>

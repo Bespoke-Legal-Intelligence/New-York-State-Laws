@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Election Law § 7-108", "kind": "section", "law_id": "ELN", "location_id": "7-108", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-108", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/7-108.md", "title": "Ballots; form for elections"} -->
+﻿<!-- nyslaw {"citation": "Election Law § 7-108", "kind": "section", "law_id": "ELN", "location_id": "7-108", "path": "ARTICLE 7 › TITLE 1 › SECTION 7-108", "repealed": true, "repealed_date": "2020-07-03", "source": "nys-laws:ELN/7-108.md", "title": "Ballots; form for elections"} -->
 # Election Law § 7-108 — Ballots; form for elections
 
 [Election Law](../../README.md) › [Article 7 — Election Ballot](../README.md) › [Title 1 — Form of Ballots](README.md)
+
+**Repealed** (3 Jul 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 7-108. Ballots; form for elections. 1. Upon ballots for a general

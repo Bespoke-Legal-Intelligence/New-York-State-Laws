@@ -4,8 +4,7 @@
 [Labor Law](../README.md) › [Article 21 — New York Call Center Jobs Act](README.md)
 
 ```text
-  * § 776. Regulations. The commissioner shall promulgate such rules and
+  § 776. Regulations. The commissioner shall promulgate such rules and
 regulations as shall be necessary and proper to effectuate the purposes
 and provisions of this article.
-  * NB Effective June 30, 2020
 ```

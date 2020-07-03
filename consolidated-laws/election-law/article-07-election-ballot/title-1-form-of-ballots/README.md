@@ -7,12 +7,12 @@
 
 - [§ 7-100 Ballots; provision for](7-100-ballots-provision.md)
 - [§ 7-102 Ballot; placing names and ballot proposals thereon](7-102-ballot-placing-names-and-ballot-proposals-thereon.md)
-- [§ 7-104 Ballots; form of, voting machine](7-104-ballots-form-of-voting-machine.md)
+- [§ 7-104 Ballots; form of](7-104-ballots-form.md)
 - [§ 7-105 Ballot accountability](7-105-ballot-accountability.md)
-- [§ 7-106 Election day paper ballots; form of](7-106-election-day-paper-ballots-form.md)
-- [§ 7-108 Ballots; form for elections](7-108-ballots-form-for-elections.md)
-- [§ 7-110 Ballots; form for ballot proposals](7-110-ballots-form-for-ballot-proposals.md)
-- [§ 7-114 Ballots; form for primary election](7-114-ballots-form-for-primary-election.md)
+- [§ 7-106 Ballots; form of, for ballot scanners, general, primary, or special elections; additional requirements](7-106-ballots-form-of-for-ballot-scanners-general-primary-or-special-elections.md)
+- [§ 7-108 Ballots; form for elections](7-108-ballots-form-for-elections.md) *(repealed)*
+- [§ 7-110 Ballots; form for ballot proposals; additional requirements](7-110-ballots-form-for-ballot-proposals-additional-requirements.md)
+- [§ 7-114 Ballots; form for primary election; additional requirements](7-114-ballots-form-for-primary-election-additional-requirements.md)
 - [§ 7-116 Ballots; order of names on](7-116-ballots-order-of-names.md)
 - [§ 7-118 Ballots; facsimile and sample](7-118-ballots-facsimile-and-sample.md)
 - [§ 7-120 Ballots; emergency use, to be furnished](7-120-ballots-emergency-use-to-be-furnished.md)
@@ -36,7 +36,6 @@ Section 7-100. Ballots; provision for.
         7-104. Ballots; form of, voting machine.
         7-105. Ballot accountability.
         7-106. Election day paper ballots; form of.
-        7-108. Ballots; form for elections.
         7-110. Ballots; form for ballot proposals.
         7-114. Ballots; form for primary election.
         7-116. Ballots; order of names on.

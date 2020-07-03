@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 21 — New York Call Center Jobs Act](README.md)
 
 ```text
-  * § 770. Definitions. As used in this article:
+  § 770. Definitions. As used in this article:
   1. The term "call center" means a facility or other operation whereby
 employees receive phone calls or other electronic communication for the
 purpose of providing customer assistance.
@@ -24,5 +24,4 @@ jobs retention program credit, economic transformation and facility
 redevelopment program tax credit, excelsior jobs program credit,
 employee training incentive program tax credit, empire state
 apprenticeship program tax credit, and employment incentive tax credit.
-  * NB Effective June 30, 2020
 ```

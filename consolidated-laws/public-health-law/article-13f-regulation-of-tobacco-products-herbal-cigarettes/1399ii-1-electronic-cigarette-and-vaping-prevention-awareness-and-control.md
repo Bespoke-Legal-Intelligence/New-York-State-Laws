@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-ii-1. Electronic cigarette and vaping prevention, awareness
-and control program. The commissioner shall, in consultation and
+  § 1399-ii-1. Electronic cigarette and vaping prevention, awareness and
+control program. The commissioner shall, in consultation and
 collaboration with the commissioner of education, establish and develop
 an electronic cigarette and vaping prevention, control and awareness
 program within the department. Such program shall be designed to educate
@@ -16,5 +16,4 @@ Such program shall include, but not be limited to, the creation of
 age-appropriate instructional tools and materials that may be used by
 all schools, and marketing and advertising materials to discourage
 electronic cigarette use.
-  * NB Effective July 1, 2020
 ```

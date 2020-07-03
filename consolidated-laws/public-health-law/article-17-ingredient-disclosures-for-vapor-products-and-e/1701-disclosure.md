@@ -4,13 +4,13 @@
 [Public Health Law](../README.md) › [Article 17 — Ingredient Disclosures For Vapor Products and E-cigarettes](README.md)
 
 ```text
-  * § 1701. Disclosure. 1. Manufacturers of vapor products or
-e-cigarettes distributed, sold, or offered for sale in this state,
-whether at retail or wholesale, shall furnish to the commissioner for
-public record and post on such manufacturer's website, in a manner
-prescribed by the commissioner that is readily accessible to the public
-and machine readable, information regarding such products pursuant to
-rules or regulations which shall be promulgated by the commissioner.
+  § 1701. Disclosure. 1. Manufacturers of vapor products or e-cigarettes
+distributed, sold, or offered for sale in this state, whether at retail
+or wholesale, shall furnish to the commissioner for public record and
+post on such manufacturer's website, in a manner prescribed by the
+commissioner that is readily accessible to the public and machine
+readable, information regarding such products pursuant to rules or
+regulations which shall be promulgated by the commissioner.
   (a) For each vapor product, the information posted pursuant to this
 subdivision shall include, but shall not be limited to:
   (i) a list naming each ingredient of such vapor product in descending
@@ -65,5 +65,4 @@ process the disclosure of which would compromise such manufacturer's
 competitive position. The commissioner shall not approve any exceptions
 under this subdivision with respect to any ingredient published as a
 chemical of concern on one or more lists identified by the commissioner.
-  * NB Effective July 1, 2020
 ```

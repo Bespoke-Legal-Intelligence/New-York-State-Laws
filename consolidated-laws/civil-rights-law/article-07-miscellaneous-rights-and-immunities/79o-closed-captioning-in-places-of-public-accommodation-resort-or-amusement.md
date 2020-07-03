@@ -4,9 +4,9 @@
 [Civil Rights Law](../README.md) › [Article 7 — Miscellaneous Rights and Immunities](README.md)
 
 ```text
-  * § 79-o. Closed captioning in places of public accommodation, resort
-or amusement. 1. A place of public accommodation, resort or amusement,
-as defined in subdivision nine of section two hundred ninety-two of the
+  § 79-o. Closed captioning in places of public accommodation, resort or
+amusement. 1. A place of public accommodation, resort or amusement, as
+defined in subdivision nine of section two hundred ninety-two of the
 executive law, shall upon request be required to have closed captioning
 enabled on all televisions that are located in the public area of such
 establishment during regular hours of business. The regular hours of
@@ -25,5 +25,4 @@ activated will visually display a transcription of the audio portion of
 video programming; and
   (b) "public area" shall mean the section of a place of public
 accommodation, resort or amusement that is open to the general public.
-  * NB Effective July 1, 2020
 ```

@@ -4,11 +4,10 @@
 [Labor Law](../README.md) › [Article 21 — New York Call Center Jobs Act](README.md)
 
 ```text
-  * § 774. State benefits for workers. No provision of this article
-shall be construed to permit withholding or denial of payments,
-compensation, or benefits under any other state law, including but not
-limited to state unemployment compensation, disability payments or
-worker retraining or readjustment funds, to workers employed by call
-center employers that relocate to a foreign country.
-  * NB Effective June 30, 2020
+  § 774. State benefits for workers. No provision of this article shall
+be construed to permit withholding or denial of payments, compensation,
+or benefits under any other state law, including but not limited to
+state unemployment compensation, disability payments or worker
+retraining or readjustment funds, to workers employed by call center
+employers that relocate to a foreign country.
 ```

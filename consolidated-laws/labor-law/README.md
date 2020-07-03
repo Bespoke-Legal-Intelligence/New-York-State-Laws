@@ -8,7 +8,7 @@
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
 | Sections | 701 |
-| Last changed | 26 Jun 2020 |
+| Last changed | 3 Jul 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [3 Jul 2020](../../changes/2020/2020-07-03.md): 7 amended
 - [26 Jun 2020](../../changes/2020/2020-06-26.md): 2 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 2 amended
 - [12 Jun 2020](../../changes/2020/2020-06-12.md): 9 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [14 Feb 2020](../../changes/2020/2020-02-14.md): 9 amended
 - [7 Feb 2020](../../changes/2020/2020-02-07.md): 1 amended
 - [10 Jan 2020](../../changes/2020/2020-01-10.md): 15 amended, 15 added
-- [3 Jan 2020](../../changes/2020/2020-01-03.md): 2 amended, 1 added
 
 ## Contents
 

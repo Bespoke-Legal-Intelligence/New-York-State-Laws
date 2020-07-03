@@ -124,23 +124,13 @@ demonstrated.
   8. This section shall be construed to require the employment of such
 employees as may be necessary and qualified to perform or provide the
 specialized services indicated by federal or state requirements.
-  * 9. Upon determining that a person is eligible for any form or
-category of public assistance, the social services official shall issue
-to any such person to whom payment is to be made, an appropriate
-identification card, with a photograph affixed, in a form approved by
-the department, which shall be used as the department, by regulation,
-may prescribe for improved administration. Any person, including the
-drawee bank, may require the presentation of such identification card as
-a condition for the acceptance and payment of a public assistance check.
-  * NB Effective until July 1, 2020
-  * 9. Upon determining that a person is eligible for any form or
-category of public assistance, the social services official shall issue
-to any such person to whom payment is to be made, an appropriate payment
-access card, in a form approved by the office of temporary and
-disability assistance, which shall be used as the office of temporary
-and disability assistance, by regulation, may prescribe for improved
+  9. Upon determining that a person is eligible for any form or category
+of public assistance, the social services official shall issue to any
+such person to whom payment is to be made, an appropriate payment access
+card, in a form approved by the office of temporary and disability
+assistance, which shall be used as the office of temporary and
+disability assistance, by regulation, may prescribe for improved
 administration.
-  * NB Effective July 1, 2020
   10. Any applicant who voluntarily terminated his or her employment or
 voluntarily reduced his or her earning capacity for the purpose of
 qualifying for public assistance or a larger amount thereof shall be

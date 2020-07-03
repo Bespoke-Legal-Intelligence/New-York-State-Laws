@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 13-F — Regulation of Tobacco Products, Herbal Cigarettes and Smoking Paraphernalia; Distribution to Minors](README.md)
 
 ```text
-  * § 1399-dd-1. Public display of tobacco product and electronic
+  § 1399-dd-1. Public display of tobacco product and electronic
 cigarette advertisements and smoking paraphernalia prohibited. 1. For
 purposes of this section:
   (a) "Advertisement" means words, pictures, photographs, symbols,
@@ -47,5 +47,4 @@ partnership, association or any other business entity in violation of
 this section shall be subject to a civil penalty of not more than five
 hundred dollars for a first violation and not more than one thousand
 dollars for a second or subsequent violation.
-  * NB Effective July 1, 2020
 ```

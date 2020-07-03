@@ -100,32 +100,7 @@ the social services law, including those that are subject to this
 article and are unable to access direct reimbursement from state and/or
 federal funded health programs.
   * NB Effective March 31, 2023
-  * (b) Residential health care facilities licensed pursuant to article
-twenty-eight of this chapter and certified home health care agencies and
-long-term home health care programs certified or approved pursuant to
-article thirty-six of this chapter or a health home, or any
-subcontractor of such health home, who contracts with or is approved or
-otherwise authorized by the department to provide health home services
-to all those enrolled pursuant to a diagnosis of a developmental
-disability as defined in subdivision twenty-two of section 1.03 of the
-mental hygiene law and enrollees who are under twenty-one years of age
-under section three hundred sixty-five-l of the social services law, or
-any entity that provides home and community based services to enrollees
-who are under twenty-one years of age under a demonstration program
-pursuant to section eleven hundred fifteen of the federal social
-security act, may, subject to the availability of federal financial
-participation, claim as reimbursable costs under the medical assistance
-program, costs reflecting the fee established pursuant to law by the
-division of criminal justice services for processing a criminal history
-information check, the fee imposed by the federal bureau of
-investigation for a national criminal history check, and costs
-associated with obtaining the fingerprints, provided, however, that for
-the purposes of determining rates of payment pursuant to article
-twenty-eight of this chapter for residential health care facilities,
-such reimbursable fees and costs shall be reflected as timely as
-practicable in such rates within the applicable rate period.
-  * NB Effective until July 2, 2020
-  * (b) Residential health care facilities licensed pursuant to article
+  (b) Residential health care facilities licensed pursuant to article
 twenty-eight of this chapter and certified home health care agencies and
 long-term home health care programs certified or approved pursuant to
 article thirty-six of this chapter or a health home, or any
@@ -151,66 +126,7 @@ however, that for the purposes of determining rates of payment pursuant
 to article twenty-eight of this chapter for residential health care
 facilities, such reimbursable fees and costs shall be reflected as
 timely as practicable in such rates within the applicable rate period.
-  * NB Effective July 2, 2020
-  * 10. Notwithstanding subdivision eleven of section eight hundred
-forty-five-b of the executive law, a certified home health agency,
-licensed home care services agency or long term home health care program
-certified, licensed or approved under article thirty-six of this chapter
-or a home care services agency exempt from certification or licensure
-under article thirty-six of this chapter, a hospice program under
-article forty of this chapter, or an adult home, enriched housing
-program or residence for adults licensed under article seven of the
-social services law, or a health home, or any subcontractor of such
-health home, who contracts with or is approved or otherwise authorized
-by the department to provide health home services to all enrollees
-enrolled pursuant to a diagnosis of a developmental disability as
-defined in subdivision twenty-two of section 1.03 of the mental hygiene
-law and enrollees who are under twenty-one years of age under section
-three hundred sixty-five-l of the social services law, or any entity
-that provides home and community based services to enrollees who are
-under twenty-one years of age under a demonstration program pursuant to
-section eleven hundred fifteen of the federal social security act may
-temporarily approve a prospective employee while the results of the
-criminal history information check and the determination are pending,
-upon the condition that the provider conducts appropriate direct
-observation and evaluation of the temporary employee, while he or she is
-temporarily employed, and the care recipient; provided, however, that
-for a health home, or any subcontractor of a health home, who contracts
-with or is approved or otherwise authorized by the department to provide
-health home services to all enrollees enrolled pursuant to a diagnosis
-of developmental disability as defined in subdivision twenty-two of
-section 1.03 of the mental hygiene law and enrollees who are under
-twenty-one years of age under section three hundred sixty-five-l of the
-social services law, or any entity that provides home and community
-based services to enrollees who are under twenty-one years of age under
-a demonstration program pursuant to section eleven hundred fifteen of
-the federal social security act, direct observation and evaluation of
-temporary employees shall not be required until July first, two thousand
-nineteen. The results of such observations shall be documented in the
-temporary employee's personnel file and shall be maintained. For
-purposes of providing such appropriate direct observation and
-evaluation, the provider shall utilize an individual employed by such
-provider with a minimum of one year's experience working in an agency
-certified, licensed or approved under article thirty-six of this chapter
-or an adult home, enriched housing program or residence for adults
-licensed under article seven of the social services law, a health home,
-or any subcontractor of such health home, who contracts with or is
-approved or otherwise authorized by the department to provide health
-home services to those enrolled pursuant to a diagnosis of a
-developmental disability as defined in subdivision twenty-two of section
-1.03 of the mental hygiene law and enrollees who are under twenty-one
-years of age under section three hundred sixty-five-l of the social
-services law, or any entity that provides home and community based
-services to enrollees who are under twenty-one years of age under a
-demonstration program pursuant to section eleven hundred fifteen of the
-federal social security act. If the temporary employee is working under
-contract with another provider certified, licensed or approved under
-article thirty-six of this chapter, such contract provider's appropriate
-direct observation and evaluation of the temporary employee, shall be
-considered sufficient for the purposes of complying with this
-subdivision.
-  * NB Effective until July 2, 2020
-  * 10. Notwithstanding subdivision eleven of section eight hundred
+  10. Notwithstanding subdivision eleven of section eight hundred
 forty-five-b of the executive law, a certified home health agency,
 licensed home care services agency or long term home health care program
 certified, licensed or approved under article thirty-six of this chapter
@@ -275,7 +191,6 @@ thirty-six of this chapter, such contract provider's appropriate direct
 observation and evaluation of the temporary employee, shall be
 considered sufficient for the purposes of complying with this
 subdivision.
-  * NB Effective July 2, 2020
   11. No provider shall seek, directly or indirectly, to obtain from a
 prospective employee, temporary employee or employee compensation in any
 form for the payment of the fee or any facility costs associated with

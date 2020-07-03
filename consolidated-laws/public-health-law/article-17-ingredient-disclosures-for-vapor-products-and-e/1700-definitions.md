@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 17 — Ingredient Disclosures For Vapor Products and E-cigarettes](README.md)
 
 ```text
-  * § 1700. Definitions. As used in this article, the following terms
+  § 1700. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Vapor products" shall mean any vapor product, as defined by
 section thirteen hundred ninety-nine-aa of this chapter, intended or
@@ -61,5 +61,4 @@ product or e-cigarette imported into the United States, "manufacturer"
 shall mean the importer or first domestic distributor of such product if
 the entity that manufactures such product or whose brand name is affixed
 to such product does not have a presence in the United States.
-  * NB Effective July 1, 2020
 ```
