@@ -736,4 +736,59 @@ period of time recommended by the evaluation. If the qualified
 practitioner provides documentation that is in accord with reasonably
 recognized professional standards, the recommended treatment plan shall
 be final, and the prior approval request shall be approved.
+  10. The department of health shall establish or procure the services
+of an independent assessor or assessors no later than October 1, 2022,
+in a manner and schedule as determined by the commissioner of health, to
+take over from local departments of social services, Medicaid Managed
+Care providers, and Medicaid managed long term care plans performance of
+assessments and reassessments required for determining individuals'
+needs for personal care services, including as provided through the
+consumer directed personal assistance program, and other services or
+programs available pursuant to the state's medical assistance program as
+determined by such commissioner for the purpose of improving efficiency,
+quality, and reliability in assessment and to determine individuals'
+eligibility for Medicaid managed long term care plans. Notwithstanding
+the provisions of section one hundred sixty-three of the state finance
+law, or sections one hundred forty-two and one hundred forty-three of
+the economic development law, or any contrary provision of law,
+contracts may be entered or the commissioner may amend and extend the
+terms of a contract awarded prior to the effective date and entered into
+pursuant to subdivision twenty-four of section two hundred six of the
+public health law, as added by section thirty-nine of part C of chapter
+fifty-eight of the laws of two thousand eight, and a contract awarded
+prior to the effective date and entered into to conduct enrollment
+broker and conflict-free evaluation services for the Medicaid program,
+if such contract or contract amendment is for the purpose of procuring
+such assessment services from an independent assessor; provided,
+however, in the case of a contract entered into after the effective date
+of this section, that:
+  (a) The department of health shall post on its website, for a period
+of no less than thirty days:
+  (i) A description of the proposed services to be provided pursuant to
+the contract or contracts;
+  (ii) The criteria for selection of a contractor or contractors
+including, but not limited to, being unaffiliated with any entity
+certified under article forty-four of the public health law or any
+service provider licensed under article thirty-six of the public health
+law, demonstrated cultural and linguistic competence, experience in
+evaluating the service needs of individuals with disabilities seeking to
+live in the community, and demonstrated compliance with all applicable
+state and federal laws. Furthermore, the selection criteria shall
+consider and give preference to whether a prospective contractor is a
+not-for-profit organization;
+  (iii) The period of time during which a prospective contractor may
+seek selection, which shall be no less than thirty days after such
+information is first posted on the website; and
+  (iv) The manner by which a prospective contractor may submit a
+proposal for selection, which may include submission by electronic
+means;
+  (b) All reasonable and responsive submissions that are received from
+prospective contractors in a timely fashion shall be reviewed by the
+commissioner of health;
+  (c) The commissioner of health shall select such contractor or
+contractors that are best suited to serve the purposes of this section
+and the needs of recipients; and
+  (d) All decisions made and approaches taken pursuant to this section
+shall be documented in a procurement record as defined in section one
+hundred sixty-three of the state finance law.
 ```
