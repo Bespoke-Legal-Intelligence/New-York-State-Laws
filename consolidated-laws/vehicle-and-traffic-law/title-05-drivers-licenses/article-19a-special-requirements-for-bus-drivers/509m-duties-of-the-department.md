@@ -6,12 +6,7 @@
 ```text
   § 509-m. Duties of the department. The department of motor vehicles
 shall:
-  * 1. At least once every three years, review the bus driver files of
-each motor carrier, provided, however, that the commissioner may review
-such bus driver files at his discretion at any other time during regular
-business hours.
-  * NB Effective until August 1, 2020
-  * 1. At least once every three years, review the bus driver files of
+  1. At least once every three years, review the bus driver files of
 each motor carrier, provided, however, that the commissioner may review
 such bus driver files at his discretion at any other time during regular
 business hours. Provided, however, that the commissioner shall review at
@@ -22,7 +17,6 @@ the driver pursuant to operating authority issued by the commissioner of
 transportation, and annually verify whether each such driver holds a
 valid driver's license valid for the operation of such altered motor
 vehicle.
-  * NB Effective August 1, 2020
   2. Establish regulations and forms for the orderly administration of
 and compliance with this article. Regulations shall also be established
 which are necessary for implementation of the process for appeal
@@ -56,7 +50,7 @@ provision of objective data concerning the driving history of a bus
 driver who is subject to regulation under this article. Such form shall
 be completed by current or former employers of such bus drivers upon the
 request of a prospective or subsequent employer.
-  * 8. Maintain and annually update its website to provide information
+  8. Maintain and annually update its website to provide information
 with regard to each motor carrier that operates altered motor vehicles
 commonly referred to as "stretch limousines" designed to carry nine or
 more passengers including the driver pursuant to operating authority
@@ -77,5 +71,4 @@ number disqualified from operating such altered motor vehicles, the
 number of convictions and accidents involving any such driver employed
 by such motor carrier during the preceding twelve months, and the number
 of convictions and accidents per ten thousand miles traveled.
-  * NB Effective August 1, 2020
 ```

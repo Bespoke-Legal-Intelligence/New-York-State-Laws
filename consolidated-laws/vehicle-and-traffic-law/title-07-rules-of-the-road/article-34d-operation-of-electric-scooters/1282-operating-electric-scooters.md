@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 34-D — Operation of Electric Scooters](README.md)
 
 ```text
-  * § 1282. Operating electric scooters. 1. No electric scooter shall be
+  § 1282. Operating electric scooters. 1. No electric scooter shall be
 used to carry more than one person at one time. No person operating an
 electric scooter shall carry any person as a passenger in a pack
 fastened to the operator or fastened to the electric scooter. The
@@ -139,5 +139,4 @@ presence of such person's parent or guardian and where such parent or
 guardian is eighteen years of age or more. Such summons shall only be
 issued to such parent or guardian, and shall not be issued to the person
 less than sixteen years of age.
-  * NB Effective August 1, 2020
 ```

@@ -9,17 +9,17 @@ contrary, except as provided in subdivision two of this section, any
 health care facility or health care professional shall have immunity
 from any liability, civil or criminal, for any harm or damages alleged
 to have been sustained as a result of an act or omission in the course
-of arranging for or providing health care services, if:
-  (a) the health care facility or health care professional is arranging
-for or providing health care services pursuant to a COVID-19 emergency
-rule or otherwise in accordance with applicable law;
-  (b) the act or omission occurs in the course of arranging for or
-providing health care services and the treatment of the individual is
-impacted by the health care facility's or health care professional's
-decisions or activities in response to or as a result of the COVID-19
-outbreak and in support of the state's directives; and
-  (c) the health care facility or health care professional is arranging
-for or providing health care services in good faith.
+of providing health care services, if:
+  (a) the health care facility or health care professional is providing
+health care services in accordance with applicable law, or where
+appropriate pursuant to a COVID-19 emergency rule;
+  (b) the act or omission occurs in the course of providing health care
+services and the treatment of the individual is impacted by the health
+care facility's or health care professional's decisions or activities in
+response to or as a result of the COVID-19 outbreak and in support of
+the state's directives; and
+  (c) the health care facility or health care professional is providing
+health care services in good faith.
   2. The immunity provided by subdivision one of this section shall not
 apply if the harm or damages were caused by an act or omission
 constituting willful or intentional criminal misconduct, gross

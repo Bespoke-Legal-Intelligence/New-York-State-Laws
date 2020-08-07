@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 34-D — Operation of Electric Scooters](README.md)
 
 ```text
-  * § 1285. Lamps and other equipment. 1. Every electric scooter when in
+  § 1285. Lamps and other equipment. 1. Every electric scooter when in
 use during the period from one-half hour after sunset to one-half hour
 before sunrise shall be equipped with a lamp on the front which shall
 emit a white light visible during hours of darkness from a distance of
@@ -18,5 +18,4 @@ scooter shall not be equipped with nor shall any person use upon an
 electric scooter any siren or whistle.
   3. Every electric scooter shall be equipped with a brake that enables
 the operator to bring the electric scooter to a controlled stop.
-  * NB Effective August 1, 2020
 ```

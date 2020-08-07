@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 34-D — Operation of Electric Scooters](README.md)
 
 ```text
-  * § 1281. Traffic laws apply to persons operating electric scooters;
+  § 1281. Traffic laws apply to persons operating electric scooters;
 local laws. 1. Every person riding an electric scooter upon a roadway
 shall be granted all of the rights and shall be subject to all of the
 duties applicable to the driver of a vehicle and the rider of a bicycle
@@ -53,5 +53,4 @@ boundaries of such prohibited areas.
   3. No person shall operate an electric scooter unless such operation
 is in compliance with the provisions of this chapter, and any regulation
 or order or local law or ordinance adopted pursuant to this article.
-  * NB Effective August 1, 2020
 ```

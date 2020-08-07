@@ -4,8 +4,8 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 34-D — Operation of Electric Scooters](README.md)
 
 ```text
-  * § 1289. Operation of an electric scooter while under the influence
-of alcohol or drugs. 1. Offenses; criminal penalties. (a) Operating an
+  § 1289. Operation of an electric scooter while under the influence of
+alcohol or drugs. 1. Offenses; criminal penalties. (a) Operating an
 electric scooter while ability impaired. No person shall operate an
 electric scooter while the person's ability to operate such electric
 scooter is impaired by the consumption of alcohol.
@@ -226,5 +226,4 @@ section, no part of this section may be enforced unless in conjunction
 with a crash involving an operator of an electric scooter. For the
 purposes of this subdivision, "crash" shall mean colliding with a
 vehicle, person, building or other object.
-  * NB Effective August 1, 2020
 ```

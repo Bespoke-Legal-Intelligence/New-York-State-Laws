@@ -4,7 +4,7 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 7 — Rules of the Road](../README.md) › [Article 34-D — Operation of Electric Scooters](README.md)
 
 ```text
-  * § 1284. Riding on roadways, shoulders, and lanes reserved for
+  § 1284. Riding on roadways, shoulders, and lanes reserved for
 non-motorized vehicles and devices. 1. Upon all roadways, any electric
 scooter shall be operated either on a usable bicycle or in-line skate
 lane or, if a usable bicycle or in-line skate lane has not been
@@ -30,5 +30,4 @@ operate such scooters single file.
   3. Any person operating an electric scooter who is entering a roadway
 from a private road, driveway, alley or over a curb shall come to a full
 stop before entering the roadway.
-  * NB Effective August 1, 2020
 ```

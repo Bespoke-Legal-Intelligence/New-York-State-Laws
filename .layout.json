@@ -2,8 +2,8 @@
  "layout": "L3-20261108",
  "names_sha": "5468e5b02aa45fcf",
  "names_table": "nys_law_names_v0_1_1.tsv",
- "source_commits_included": 3302,
- "source_head": "1a43cc44c2d9b1d66e3810832a7cf85350f85c4c",
+ "source_commits_included": 3309,
+ "source_head": "e748a8b2a38b62c2bafc182f841aab77e4163846",
  "source_repo": "nys-laws",
  "transform": "nyslaw_readable_v0.1.4",
  "widths": {

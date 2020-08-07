@@ -20,7 +20,7 @@
 <summary>Official heading of Article 34-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 34-D
+                              ARTICLE 34-D
                      OPERATION OF ELECTRIC SCOOTERS
 Section 1280. Effect of regulations.
         1281. Traffic laws apply to persons operating electric scooters;
@@ -37,7 +37,6 @@ Section 1280. Effect of regulations.
                 scooter without reporting in the first degree.
         1289. Operation of an electric scooter while under the influence
                 of alcohol or drugs.
-  * NB Effective August 1, 2020
 ```
 
 </details>

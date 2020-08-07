@@ -39,12 +39,9 @@ in a comparable role.
   5. The term "health care services" means services provided by a health
 care facility or a health care professional, regardless of the location
 where those services are provided, that relate to:
-  (a) the diagnosis, prevention, or treatment of COVID-19;
-  (b) the assessment or care of an individual with a confirmed or
-suspected case of COVID-19; or
-  (c) the care of any other individual who presents at a health care
-facility or to a health care professional during the period of the
-COVID-19 emergency declaration.
+  (a) the diagnosis or treatment of COVID-19; or
+  (b) the assessment or care of an individual as it relates to COVID-19,
+when such individual has a confirmed or suspected case of COVID-19.
   6. The term "volunteer organization" means any organization, company
 or institution that has made its facility or facilities available to
 support the state's response and activities under the COVID-19 emergency
