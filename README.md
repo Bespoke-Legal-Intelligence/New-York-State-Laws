@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 14 Aug 2020.*
+*Current through the publication of 21 Aug 2020.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [21 Aug 2020](changes/2020/2020-08-21.md): Real Property Tax Law
 - [14 Aug 2020](changes/2020/2020-08-14.md): Agriculture and Markets Law; Executive Law; Vehicle and Traffic Law
 - [7 Aug 2020](changes/2020/2020-08-07.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Environmental Conservation Law; Public Health Law; Real Property Law; Transportation Law; Vehicle and Traffic Law
 - [31 Jul 2020](changes/2020/2020-07-31.md): Town Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [17 Jul 2020](changes/2020/2020-07-17.md): Civil Rights Law; Election Law
 - [10 Jul 2020](changes/2020/2020-07-10.md): State Finance Law
 - [3 Jul 2020](changes/2020/2020-07-03.md): Business Corporation Law; Civil Rights Law; Criminal Procedure Law; Economic Development Law; Education Law; Election Law; Executive Law; General Business Law; General Municipal Law; Judiciary Law; Labor Law; Mental Hygiene Law; Penal Law; Public Health Law; Retirement and Social Security Law; Social Services Law; State Finance Law; Tax Law; Vehicle and Traffic Law
-- [26 Jun 2020](changes/2020/2020-06-26.md): Business Corporation Law; Criminal Procedure Law; Education Law; Labor Law; Not-for-Profit Corporation Law; Public Health Law; Real Property Tax Law; State Finance Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 355 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 211 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 175 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 206 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 167 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 155 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 154 |
-| [Education Law](consolidated-laws/education-law/README.md) | 144 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 144 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 139 |
-| [Election Law](consolidated-laws/election-law/README.md) | 130 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 119 |
-| [Family Court Act](court-acts/family-court-act/README.md) | 116 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 109 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 143 |
+| [Education Law](consolidated-laws/education-law/README.md) | 141 |
+| [Election Law](consolidated-laws/election-law/README.md) | 129 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 127 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 118 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 114 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 106 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 104 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 96 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 83 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 94 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 81 |
 
 ## Consolidated Laws
 
@@ -118,7 +118,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Rapid Transit Law](consolidated-laws/rapid-transit-law/README.md) | RAT | 79 | no change since 22 Sep 2014 (start of history) |
 | [Real Property Actions and Proceedings Law](consolidated-laws/real-property-actions-and-proceedings-law/README.md) | RPA | 329 | 3 Jan 2020 |
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 420 | 7 Aug 2020 |
-| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 769 | 26 Jun 2020 |
+| [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 769 | 21 Aug 2020 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Jun 2020 |
 | [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 547 | 3 Jul 2020 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 19 Apr 2019 |
