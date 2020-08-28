@@ -31,6 +31,7 @@
 - [§ 171-V Enforcement of delinquent tax liabilities through the suspension of drivers' licenses](171v-enforcement-of-delinquent-tax-liabilities-through-the-suspension-of-drivers.md)
 - [§ 171-W State support for the local enforcement of past-due property taxes](171w-state-support-for-the-local-enforcement-of-past-due-property-taxes.md)
 - [§ 171-Z Information sharing with the comptroller regarding unclaimed funds](171z-information-sharing-with-the-comptroller-regarding-unclaimed-funds.md)
+- [§ 171-AA E-file authorizations collected by tax return preparers](171aa-e-file-authorizations-collected-by-tax-return-preparers.md)
 - [§ 172 Official seal](172-official-seal.md)
 - [§ 173 Review by commissioner](173-review-by-commissioner.md)
 - [§ 173-A Hearing rights upon notice and demand](173a-hearing-rights-upon-notice-and-demand.md)
@@ -89,6 +90,8 @@ Section 170.     Department of taxation and finance.
                    property taxes.
         171-z.   Information sharing with the comptroller regarding
                    unclaimed funds.
+        171-aa.  E-file authorizations collected by tax return
+                   preparers.
         172.     Official seal.
         173.     Review by commissioner.
         173-a.   Hearing rights upon notice and demand.

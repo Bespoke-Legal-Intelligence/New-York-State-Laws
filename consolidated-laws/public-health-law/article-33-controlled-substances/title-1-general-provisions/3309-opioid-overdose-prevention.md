@@ -32,10 +32,14 @@ risk of experiencing an opioid-related overdose, or a family member,
 friend or other person in a position to assist a person experiencing or
 at risk of experiencing an opioid-related overdose, or an organization
 registered as an opioid overdose prevention program pursuant to this
-section or a school district, public library, board of cooperative
-educational services, county vocational education and extension board,
-charter school, non-public elementary and/or secondary school in this
-state or any person employed by such district, library board or school.
+section or any person or entity or any person employed by the person or
+entity.
+  (v) As used in this section, "entity" includes, but is not limited to,
+a school district, public library, board of cooperative educational
+services, county vocational education and extension board, charter
+school, non-public elementary or secondary school, restaurant, bar,
+retail store, shopping mall, barber shop, beauty parlor, theater,
+sporting or event center, inn, hotel or motel.
   (b)(i) A health care professional may prescribe by a patient-specific
 or non-patient-specific prescription, dispense or distribute, directly
 or indirectly, an opioid antagonist to an opioid antagonist recipient.
@@ -75,17 +79,14 @@ three thousand-a of this chapter; and
 as deemed appropriate by the commissioner. The department shall make
 such informational cards available to the opioid overdose prevention
 programs.
-  4. Use of an opioid antagonist pursuant to this section shall be
+  4. (a) Use of an opioid antagonist pursuant to this section shall be
 considered first aid or emergency treatment for the purpose of any
 statute relating to liability.
-  A recipient, opioid overdose prevention program, school district,
-public library, board of cooperative educational services, county
-vocational education and extension board, charter school, non-public
-elementary school and/or secondary school in the state, or any person
-employed by such district, public library, board or school under this
-section, acting reasonably and in good faith in compliance with this
-section, shall not be subject to criminal, civil or administrative
-liability solely by reason of such action.
+  (b) A recipient, opioid overdose prevention program, person or entity,
+or any person employed by the person or entity, acting reasonably and in
+good faith in compliance with this section, shall not be subject to
+criminal, civil or administrative liability solely by reason of such
+action.
   5. The commissioner shall publish findings on statewide opioid
 overdose data that reviews overdose death rates and other information to
 ascertain changes in the cause and rates of opioid overdoses, including

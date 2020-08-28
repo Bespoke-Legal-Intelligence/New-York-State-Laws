@@ -11,13 +11,6 @@ prescribed by the commissioner. The fact that an individual's name is
 signed to a return, statement, or other document, shall be prima facie
 evidence for all purposes that the return, statement or other document
 was actually signed by him or her.
-  (2) In the case of an electronically filed individual's personal
-income tax return prepared by a tax preparer, an authorization to file
-any return, statement or other document required to be made pursuant to
-this article signed by the taxpayer in accordance with the regulations
-or instructions prescribed by the commissioner and received
-electronically by the tax preparer shall satisfy the signature
-requirements under this article.
   (b) Partnerships. Any return, statement or other document required of
 a partnership shall be signed by one or more partners. The fact that a
 partner's name is signed to a return, statement, or other document,
