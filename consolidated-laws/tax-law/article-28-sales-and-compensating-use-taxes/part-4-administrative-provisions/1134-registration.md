@@ -111,26 +111,6 @@ pursuant to the authority of article twenty-nine of this chapter, (v)
 fails to obtain a bond pursuant to paragraph two of subdivision (e) of
 section eleven hundred thirty-seven of this part, or fails to comply
 with a notice issued by the commissioner pursuant to paragraph three of
-such subdivision, or (vi) has been convicted of a crime provided for in
-this chapter, the commissioner may revoke or suspend such certificate of
-authority and all duplicates thereof. Provided, however, that the
-commissioner may revoke or suspend a certificate of authority based on
-the grounds set forth in clause (vi) of this subparagraph only where the
-conviction referred to occurred not more than one year prior to the date
-of revocation or suspension.
-  * NB Effective until September 1, 2020
-  * (A) Where a person who holds a certificate of authority (i)
-willfully fails to file a report or return required by this article,
-(ii) willfully files, causes to be filed, gives or causes to be given a
-report, return, certificate or affidavit required under this article
-which is false, (iii) willfully fails to comply with the provisions of
-paragraph two or three of subdivision (e) of section eleven hundred
-thirty-seven of this article, (iv) willfully fails to prepay, collect,
-truthfully account for or pay over any tax imposed under this article or
-pursuant to the authority of article twenty-nine of this chapter, (v)
-fails to obtain a bond pursuant to paragraph two of subdivision (e) of
-section eleven hundred thirty-seven of this part, or fails to comply
-with a notice issued by the commissioner pursuant to paragraph three of
 such subdivision, (vi) has been convicted of a crime provided for in
 this chapter, or (vii) where such person, or any person affiliated with
 such person as such term is defined in subdivision twenty-one of section
@@ -148,7 +128,7 @@ certificate of authority based on the grounds set forth in clause (vii)
 of this subparagraph, such suspension or revocation shall continue for
 as long as the revocation of the retail dealer registration pursuant to
 section four hundred eighty-a of this chapter remains in effect.
-  * NB Effective September 1, 2020 until December 31, 2024
+  * NB Effective until December 31, 2024
   * (A) Where a person who holds a certificate of authority (i)
 willfully fails to file a report or return required by this article,
 (ii) willfully files, causes to be filed, gives or causes to be given a
@@ -176,47 +156,7 @@ of this subparagraph, such suspension or revocation shall continue for
 as long as the revocation of the retail dealer registration pursuant to
 section four hundred eighty-a of this chapter remains in effect.
   * NB Effective December 31, 2024
-  * (B) Where a person files a certificate of registration for a
-certificate of authority under this subdivision and in considering such
-application the commissioner ascertains that (i) any tax imposed under
-this chapter or any related statute, as defined in section eighteen
-hundred of this chapter, has been finally determined to be due from such
-person and has not been paid in full, (ii) a tax due under this article
-or any law, ordinance or resolution enacted pursuant to the authority of
-article twenty-nine of this chapter has been finally determined to be
-due from an officer, director, partner or employee of such person, and,
-where such person is a limited liability company, also a member or
-manager of such person, in the officer's, director's, partner's,
-member's, manager's or employee's capacity as a person required to
-collect tax on behalf of such person or another person and has not been
-paid, (iii) such person has been convicted of a crime provided for in
-this chapter within one year from the date on which such certificate of
-registration is filed, (iv) an officer, director, partner or employee of
-such person, and, where such person is a limited liability company, also
-a member or manager of such person, which officer, director, partner,
-member, manager or employee is a person required to collect tax on
-behalf of such person filing a certificate of registration has in the
-officer's, director's, partner's, member's, manager's or employee's
-capacity as a person required to collect tax on behalf of such person or
-of another person been convicted of a crime provided for in this chapter
-within one year from the date on which such certificate of registration
-is filed, (v) a shareholder owning more than fifty percent of the number
-of shares of stock of such person (where such person is a corporation)
-entitling the holder thereof to vote for the election of directors or
-trustees, who owned more than fifty percent of the number of such shares
-of another person (where such other person is a corporation) at the time
-any tax imposed under this chapter or any related statute as defined in
-section eighteen hundred of this chapter was finally determined to be
-due and where such tax has not been paid in full, or at the time such
-other person was convicted of a crime provided for in this chapter
-within one year from the date on which such certificate of registration
-is filed, or (vi) a certificate of authority issued to such person has
-been revoked or suspended pursuant to subparagraph (A) of this paragraph
-within one year from the date on which such certificate of registration
-is filed, the commissioner may refuse to issue a certificate of
-authority.
-  * NB Effective until September 1, 2020
-  * (B) Where a person files a certificate of registration for a
+  (B) Where a person files a certificate of registration for a
 certificate of authority under this subdivision and in considering such
 application the commissioner ascertains that (i) any tax imposed under
 this chapter or any related statute, as defined in section eighteen
@@ -261,7 +201,6 @@ has been revoked pursuant to subparagraph (iii) of paragraph (a) of
 subdivision four of such section four hundred eighty-a, where such
 revocation remains in effect, the commissioner may refuse to issue a
 certificate of authority.
-  * NB Effective September 1, 2020
   (C) In any of the foregoing instances where the commissioner may
 suspend or revoke or refuse to issue a certificate of authority, the
 commissioner may condition the retention or issuance of a certificate of

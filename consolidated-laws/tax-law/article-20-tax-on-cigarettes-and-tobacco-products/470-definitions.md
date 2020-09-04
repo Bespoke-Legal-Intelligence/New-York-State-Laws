@@ -62,17 +62,13 @@ vending machines in, at or upon premises owned or occupied by any other
 person, or (c) sells cigarettes or tobacco products to an Indian nation
 or tribe or to a reservation cigarette seller on a qualified
 reservation.
-  * 9. "Retail dealer." Any person other than a wholesale dealer engaged
-in selling cigarettes or tobacco products.
-  * NB Effective until September 1, 2020
-  * 9. "Retail dealer." Any person other than a wholesale dealer engaged
+  9. "Retail dealer." Any person other than a wholesale dealer engaged
 in selling cigarettes or tobacco products. For purposes of section four
 hundred eighty-a of this article and section eleven hundred thirty-four
 of this chapter, such term shall include for each such person engaged in
 selling cigarettes or tobacco products all "persons required to collect
 tax," as defined in subdivision one of section eleven hundred thirty-one
 of this chapter.
-  * NB Effective September 1, 2020
   10. "Package." The individual package, box or other container in or
 from which retail sales of cigarettes are normally made or intended to
 be made.
@@ -134,12 +130,11 @@ used for such purposes by an accredited college, university or hospital,
 or a researcher affiliated with an accredited college, university or
 hospital, and is not offered for sale or sold to consumers for any
 purpose.
-  * 21. "Affiliated person." Persons are affiliated persons with respect
+  21. "Affiliated person." Persons are affiliated persons with respect
 to each other where one of such persons has an ownership interest of
 more than five percent, whether direct or indirect, in the other, or
 where an ownership interest of more than five percent, whether direct or
 indirect, is held in each of such persons by another person, or by a
 group of other persons that are affiliated persons with respect to each
 other.
-  * NB Effective September 1, 2020
 ```

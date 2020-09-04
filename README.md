@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 28 Aug 2020.*
+*Current through the publication of 4 Sep 2020.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [4 Sep 2020](changes/2020/2020-09-04.md): Environmental Conservation Law; Tax Law
 - [28 Aug 2020](changes/2020/2020-08-28.md): Criminal Procedure Law; Election Law; Environmental Conservation Law; Executive Law; Local Finance Law; Penal Law; Public Health Law; Public Service Law; Real Property Law; Tax Law
 - [21 Aug 2020](changes/2020/2020-08-21.md): Real Property Tax Law
 - [14 Aug 2020](changes/2020/2020-08-14.md): Agriculture and Markets Law; Executive Law; Vehicle and Traffic Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [31 Jul 2020](changes/2020/2020-07-31.md): Town Law
 - [24 Jul 2020](changes/2020/2020-07-24.md): Criminal Procedure Law; Social Services Law
 - [17 Jul 2020](changes/2020/2020-07-17.md): Civil Rights Law; Election Law
-- [10 Jul 2020](changes/2020/2020-07-10.md): State Finance Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 357 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 208 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 166 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 159 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 156 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 356 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 205 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 164 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 161 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 159 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 143 |
 | [Education Law](consolidated-laws/education-law/README.md) | 138 |
 | [Election Law](consolidated-laws/election-law/README.md) | 133 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 127 |
 | [Labor Law](consolidated-laws/labor-law/README.md) | 118 |
-| [Family Court Act](court-acts/family-court-act/README.md) | 114 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 113 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 106 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 104 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 94 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 85 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 91 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 82 |
 
 ## Consolidated Laws
 
@@ -73,7 +73,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 24 Apr 2020 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,786 | 28 Aug 2020 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,786 | 4 Sep 2020 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 17 Apr 2020 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 918 | 28 Aug 2020 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 47 | 24 Apr 2020 |
@@ -130,7 +130,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [State Law](consolidated-laws/state-law/README.md) | STL | 97 | 17 Apr 2020 |
 | [State Technology Law](consolidated-laws/state-technology-law/README.md) | STT | 26 | 24 Apr 2020 |
 | [Statute of Local Governments](consolidated-laws/statute-of-local-governments/README.md) | SLG | 9 | no change since 22 Sep 2014 (start of history) |
-| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,210 | 28 Aug 2020 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | TAX | 1,210 | 4 Sep 2020 |
 | [Town Law](consolidated-laws/town-law/README.md) | TWN | 359 | 31 Jul 2020 |
 | [Transportation Corporations Law](consolidated-laws/transportation-corporations-law/README.md) | TCP | 73 | 3 May 2019 |
 | [Transportation Law](consolidated-laws/transportation-law/README.md) | TRA | 324 | 7 Aug 2020 |
