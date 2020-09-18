@@ -75,24 +75,15 @@ anaphylactic causative agents, including food and other allergens; and
 developed adequate verbal communication and comprehension skills and
 with the parents or guardians of all children about foods that are safe
 and unsafe and about strategies to avoid exposure to unsafe food.
-  ** 3. On or before June thirtieth, two thousand eight, an anaphylactic
-policy shall be jointly forwarded by the commissioner and the
-commissioner of education to each local school board of education,
-charter school, and board of cooperative educational services in the
-state. Each such board and charter school shall consider and take action
-in response to such anaphylactic policy.
-  ** NB Effective until September 12, 2020
-  ** 3. At least once per calendar year, schools shall send a
-notification to the parents and/or guardians of all children under the
-care of such schools to make them aware of such anaphylactic policies,
-as developed by the commissioner. For children under the care of the
-child day care providers, such notification shall be provided by the
-child day care provider when the child is enrolled and annually
-thereafter. Such notifications shall include contact information for
-parents and guardians to engage further with the school or child day
-care provider to learn more about individualized aspects of such
-policies.
-  ** NB Effective September 12, 2020
+  3. At least once per calendar year, schools shall send a notification
+to the parents and/or guardians of all children under the care of such
+schools to make them aware of such anaphylactic policies, as developed
+by the commissioner. For children under the care of the child day care
+providers, such notification shall be provided by the child day care
+provider when the child is enrolled and annually thereafter. Such
+notifications shall include contact information for parents and
+guardians to engage further with the school or child day care provider
+to learn more about individualized aspects of such policies.
   4. Within six months of the effective date of the chapter of the laws
 of two thousand nineteen which amended this section, the anaphylactic
 policies established under this section shall be jointly forwarded by
