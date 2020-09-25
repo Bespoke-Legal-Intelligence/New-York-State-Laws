@@ -314,6 +314,7 @@
 - [§ 344-K Portion of the state highway system to be designated as the "Officer Kevin F](344k-portion-of-the-state-highway-system-to-be-designated-as-the-officer-kevin-f.md)
 - [§ 344-K\*2 Portion of the state highway system to be designated as "Melvin Harris, Jr](344k-2-portion-of-the-state-highway-system-to-be-designated-as-melvin-harris-jr.md)
 - [§ 344-K\*3 Portion of the state highway system to be designated as the "Charles 'Chuck' Kelly Memorial Highway"](344k-3-portion-of-the-state-highway-system-to-be-designated-as-the-charles-chuck-kelly.md)
+- [§ 344-L Portion of the state highway system to be designated as the "Savannah Marie Williams Memorial Highway"](344l-portion-of-the-state-highway-system-to-be-designated-as-the-savannah-marie.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1043,6 +1044,8 @@ Section 340-a.     Designation of state interstate routes.
                      as "Melvin Harris, Jr. Way".
         344-k*3.   Portion of the state highway system to be designated
                      as the "Charles 'Chuck' Kelly Memorial Highway".
+        344-l.     Portion of the state highway system to be designated
+                     as the "Savannah Marie Williams Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 
