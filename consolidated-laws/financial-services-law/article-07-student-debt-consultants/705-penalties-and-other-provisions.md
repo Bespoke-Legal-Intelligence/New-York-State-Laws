@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 7 — Student Debt Consultants](README.md)
 
 ```text
-  * § 705. Penalties and other provisions. (a) If the superintendent
+  § 705. Penalties and other provisions. (a) If the superintendent
 finds, after notice and hearing, that a consultant has knowingly
 violated any provision of this article and the violation was material,
 the superintendent may: (1) make null and void any agreement between the
@@ -29,5 +29,4 @@ as contrary to public policy.
   (d) The provisions of this article are not exclusive and are in
 addition to any other requirements, rights, remedies, and penalties
 provided by law.
-  * NB Effective September 30, 2020
 ```

@@ -4,7 +4,7 @@
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11 — Medical Assistance For Needy Persons](README.md)
 
 ```text
-  * § 364-n. Diabetes and chronic disease self-management pilot program.
+  § 364-n. Diabetes and chronic disease self-management pilot program.
 The commissioner of health may establish a diabetes and chronic disease
 self-management pilot program in one or more counties or regions of the
 state for the purpose of improving clinical outcomes. Payments under
@@ -17,5 +17,4 @@ provisions of this section shall not take effect unless all necessary
 approvals under federal law and regulation have been obtained to receive
 federal financial participation for the costs of services provided under
 this section.
-  * NB Effective October 1, 2020
 ```

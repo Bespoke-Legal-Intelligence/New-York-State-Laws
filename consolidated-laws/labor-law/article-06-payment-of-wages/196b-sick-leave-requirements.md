@@ -4,8 +4,8 @@
 [Labor Law](../README.md) › [Article 6 — Payment of Wages](README.md)
 
 ```text
-  * § 196-b. Sick leave requirements. 1. Every employer shall be
-required to provide its employees with sick leave as follows:
+  § 196-b. Sick leave requirements. 1. Every employer shall be required
+to provide its employees with sick leave as follows:
   a. For employers with four or fewer employees in any calendar year,
 each employee shall be provided with up to forty hours of unpaid sick
 leave in each calendar year; provided, however, an employer that employs
@@ -161,5 +161,4 @@ sick leave.
 which shall include making information available on its website and
 otherwise informing employers and employees of the provisions of this
 section.
-  * NB Effective September 30, 2020
 ```

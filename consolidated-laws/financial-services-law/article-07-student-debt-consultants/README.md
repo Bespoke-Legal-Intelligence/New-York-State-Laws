@@ -16,7 +16,7 @@
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * ARTICLE 7
+                                ARTICLE 7
                         STUDENT DEBT CONSULTANTS
 Section 701. Definitions.
         702. Prohibitions.
@@ -24,7 +24,6 @@ Section 701. Definitions.
         704. Student debt consulting contracts.
         705. Penalties and other provisions.
         706. Rules and regulations.
-  * NB Effective September 30, 2020
 ```
 
 </details>

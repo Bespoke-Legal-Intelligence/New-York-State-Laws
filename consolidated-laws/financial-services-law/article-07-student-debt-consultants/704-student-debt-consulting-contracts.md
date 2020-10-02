@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 7 — Student Debt Consultants](README.md)
 
 ```text
-  * § 704. Student debt consulting contracts. (a) A student debt
+  § 704. Student debt consulting contracts. (a) A student debt
 consulting contract shall:
   (1) contain the entire agreement of the parties;
   (2) be provided in writing to the borrower for review before signing;
@@ -84,5 +84,4 @@ given in accordance with this subsection, the consultant shall return
 any original contract and any other documents signed by or provided by
 the borrower. Cancellation shall release the borrower of all obligations
 to pay any fees or compensation to the consultant.
-  * NB Effective September 30, 2020
 ```

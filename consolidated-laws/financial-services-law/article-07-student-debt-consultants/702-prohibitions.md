@@ -4,7 +4,7 @@
 [Financial Services Law](../README.md) › [Article 7 — Student Debt Consultants](README.md)
 
 ```text
-  * § 702. Prohibitions. A student debt consultant is prohibited from
+  § 702. Prohibitions. A student debt consultant is prohibited from
 doing the following:
   (a) performing student debt consulting services without a legal
 written, fully-executed contract with a borrower that comports with the
@@ -30,5 +30,4 @@ applied towards the borrower's student loans.
 contract that does not fully comply with the provisions of this article;
 or
   (i) engaging in any unfair, deceptive, or abusive act or practice.
-  * NB Effective September 30, 2020
 ```

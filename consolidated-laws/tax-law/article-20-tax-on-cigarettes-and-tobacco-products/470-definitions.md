@@ -34,25 +34,13 @@ or barter, conditional or otherwise, in any manner or by any means
 whatever or any agreement therefor.
   5. "Retail sale" or "sale at retail" means a sale to a consumer or to
 any other person for any purpose other than resale.
-  * 6. "Wholesale price." The established price for which a manufacturer
-sells tobacco products to a distributor, before the allowance of any
-discount, trade allowance, rebate or other reduction.
-  In the absence of such an established price, a manufacturer's invoice
-price of any tobacco product shall be presumptive evidence of the
-wholesale price of such tobacco product, and in its absence the price at
-which such tobacco products were purchased shall be presumed to be the
-wholesale price, unless evidence of a lower wholesale price shall be
-established or any industry standard of markups relating to the purchase
-price in relation to the wholesale price shall be established.
-  * NB Effective until October 1, 2020
-  * 6. "Wholesale price." The price for which a manufacturer or other
+  6. "Wholesale price." The price for which a manufacturer or other
 person sells tobacco products to a distributor, including the federal
 excise taxes paid by the manufacturer or other person, before the
 allowance of any discount, trade allowance, rebate or other reduction.
   The invoice received by a distributor with respect to its purchase of
 a tobacco product shall be presumptive evidence of the wholesale price
 of such tobacco product.
-  * NB Effective October 1, 2020
   7. "Dealer." Any wholesale dealer and retail dealer as hereinafter
 defined.
   8. "Wholesale dealer." Any person who (a) sells cigarettes or tobacco

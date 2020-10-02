@@ -1312,11 +1312,7 @@ of the federal social security act.
   (v) "resources" has the same meaning given to such term in section
 1613 of the federal social security act, without regard to the exclusion
 provided for in subsection (a)(1) of such section.
-  * (vi) "look-back period" means the sixty-month period immediately
-preceding the date that an institutionalized individual is both
-institutionalized and has applied for medical assistance.
-  * NB Effective until October 1, 2020
-  * (vi) "look-back period" means the sixty-month period immediately
+  (vi) "look-back period" means the sixty-month period immediately
 preceding the date that an institutionalized individual is both
 institutionalized and has applied for medical assistance, or in the case
 of a non-institutionalized individual, subject to federal approval, the
@@ -1326,7 +1322,6 @@ of long term care services. Nothing herein precludes a review of
 eligibility for retroactive authorization for medical expenses incurred
 during the three months prior to the month of application for medical
 assistance.
-  * NB Effective October 1, 2020
   (vii) "institutionalized individual" means any individual who is an
 in-patient in a nursing facility, including an intermediate care
 facility for the mentally retarded, or who is an in-patient in a medical
@@ -1347,28 +1342,19 @@ hospital which is equivalent to the care which is provided in a nursing
 facility; and care, services or supplies provided pursuant to a waiver
 granted pursuant to subsection (c) of section 1915 of the federal social
 security act or successor federal waiver.
-  * (xi) "non-institutionalized individual" means an individual who is
-not an institutionalized individual, as defined in clause (vii) of this
+  (xi) "non-institutionalized individual" means an individual who is not
+an institutionalized individual, as defined in clause (vii) of this
 subparagraph.
-  * NB Effective October 1, 2020
-  * (xii) "long term care services" means home health care services,
+  (xii) "long term care services" means home health care services,
 private duty nursing services, personal care services, assisted living
 program services and such other services for which medical assistance is
 otherwise available under this chapter which are designated as long term
 care services in the regulations of the department.
-  * NB Effective October 1, 2020
   (2) The uncompensated value of an asset is the fair market value of
 such asset at the time of transfer less any outstanding loans,
 mortgages, or other encumbrances on the asset, minus the amount of the
 compensation received in exchange for the asset.
-  (3) * In determining the medical assistance eligibility of an
-institutionalized individual, any transfer of an asset by the individual
-or the individual's spouse for less than fair market value made within
-or after the look-back period shall render the individual ineligible for
-nursing facility services for the period of time specified in
-subparagraph five of this paragraph. For purposes of this paragraph:
-  * NB Effective until October 1, 2020
-  * In determining the medical assistance eligibility of an
+  (3) In determining the medical assistance eligibility of an
 institutionalized individual, any transfer of an asset by the individual
 or the individual's spouse for less than fair market value made within
 or after the look-back period shall render the individual ineligible for
@@ -1380,7 +1366,6 @@ less than fair market value made within or after the look-back period
 shall render the individual ineligible for community based long term
 care services for the period of time specified in subparagraph five of
 this paragraph. For purposes of this paragraph:
-  * NB Effective October 1, 2020
   (i) the purchase of an annuity shall be treated as the disposal of an
 asset for less than fair market value unless: the state is named as the
 beneficiary in the first position for at least the total amount of

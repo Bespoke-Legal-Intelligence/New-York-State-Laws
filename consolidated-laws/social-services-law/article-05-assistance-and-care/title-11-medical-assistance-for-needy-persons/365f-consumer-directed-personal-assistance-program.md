@@ -31,13 +31,7 @@ of notice and assistance to interested individuals eligible for
 enrollment in the program, and shall contain such other information as
 shall be required by the department. An "eligible individual", for
 purposes of this section is a person who:
-  * (a) is eligible for long term care and services provided by a
-certified home health agency, long term home health care program or AIDS
-home care program authorized pursuant to article thirty-six of the
-public health law, or is eligible for personal care services provided
-pursuant to this article;
-  * NB Effective until October 1, 2020
-  * (a) is eligible for long term care and services provided by a
+  (a) is eligible for long term care and services provided by a
 certified home health agency, long term home health care program or AIDS
 home care program authorized pursuant to article thirty-six of the
 public health law, or is eligible for personal care services provided
@@ -46,21 +40,8 @@ capable of safely remaining in the community in accordance with the
 standards set forth in Olmstead v. LC by Zimring, 527 US 581 (1999) and
 consider whether an individual is capable of safely remaining in the
 community;
-  * NB Effective October 1, 2020
   (b) is eligible for medical assistance;
-  * (c) has been determined by the social services district, pursuant to
-an assessment of the person's appropriateness for the program, conducted
-with an appropriate long term home health care program, a certified home
-health agency, or an AIDS home care program or pursuant to the personal
-care program, as being in need of home care services or private duty
-nursing and is able and willing or has a designated representative,
-including a legal guardian able and willing to make informed choices, or
-a designated relative or other adult who is able and willing to assist
-in making informed choices, as to the type and quality of services,
-including but not limited to such services as nursing care, personal
-care, transportation and respite services; and
-  * NB Effective until October 1, 2020
-  * (c) has been determined by the social services district, pursuant to
+  (c) has been determined by the social services district, pursuant to
 an assessment of the person's appropriateness for the program, conducted
 with an appropriate long term home health care program, a certified home
 health agency, or an AIDS home care program or pursuant to the personal
@@ -78,7 +59,6 @@ relative or other adult who is able and willing to assist in making
 informed choices, as to the type and quality of services, including but
 not limited to such services as nursing care, personal care,
 transportation and respite services; and
-  * NB Effective October 1, 2020
   (d) meets such other criteria, as may be established by the
 commissioner, which are necessary to effectively implement the
 objectives of this section.

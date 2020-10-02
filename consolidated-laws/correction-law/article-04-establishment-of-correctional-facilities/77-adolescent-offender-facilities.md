@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Correction Law § 77", "kind": "section", "law_id": "COR", "location_id": "77", "path": "ARTICLE 4 › SECTION 77", "repealed": false, "repealed_date": null, "source": "nys-laws:COR/77.md", "title": "Adolescent offender facilities"} -->
+﻿<!-- nyslaw {"citation": "Correction Law § 77", "kind": "section", "law_id": "COR", "location_id": "77", "path": "ARTICLE 4 › SECTION 77", "repealed": true, "repealed_date": "2020-10-02", "source": "nys-laws:COR/77.md", "title": "Adolescent offender facilities"} -->
 # Correction Law § 77 — Adolescent offender facilities
 
 [Correction Law](../README.md) › [Article 4 — Establishment of Correctional Facilities, Commitments to Department and Custody of Inmates](README.md)
+
+**Repealed** (2 Oct 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 77. Adolescent offender facilities. 1. (a) The state shall
