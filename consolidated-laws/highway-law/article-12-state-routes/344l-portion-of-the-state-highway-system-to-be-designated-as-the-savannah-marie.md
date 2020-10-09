@@ -4,10 +4,11 @@
 [Highway Law](../README.md) › [Article 12 — State Routes](README.md)
 
 ```text
-  § 344-l. Portion of the state highway system to be designated as the
+  * § 344-l. Portion of the state highway system to be designated as the
 "Savannah Marie Williams Memorial Highway". All that portion of the
 state highway system constituting state route sixty-three between court
 street and its intersection with state route twenty-a, in the town of
 Geneseo, county of Livingston, shall be designated and known as the
 "Savannah Marie Williams Memorial Highway".
+  * NB There are 2 § 344-l's
 ```
