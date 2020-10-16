@@ -10,6 +10,7 @@
 - [§ 14.05 Statewide historic preservation program](14.05-statewide-historic-preservation-program.md)
 - [§ 14.07 State register of historic places; inventory of historic property; statewide comprehensive historic preservation plan](14.07-state-register-of-historic-places.md)
 - [§ 14.09 State agency activities affecting historic or cultural property; notice and comment](14.09-state-agency-activities-affecting.md)
+- [§ 14.11 Historic business preservation registry](14.11-historic-business-preservation-registry.md)
 
 <details>
 <summary>Official heading of Article 14, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,6 +26,7 @@ Section 14.01 Declaration of policy.
                 plan.
         14.09 State agency activities affecting historic or cultural
                 property; notice and comment.
+        14.11 Historic business preservation registry.
 ```
 
 </details>

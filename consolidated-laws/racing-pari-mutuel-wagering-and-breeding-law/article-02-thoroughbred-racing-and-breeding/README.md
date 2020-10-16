@@ -58,7 +58,7 @@
 - [§ 247 Racing zones](247-racing-zones.md)
 - [§ 248 Racing season; allotment of dates for racing](248-racing-season-allotment-of-dates-for-racing.md)
 - [§ 249 Pari-mutuel employees to be citizens and residents](249-pari-mutuel-employees-to-be-citizens-and-residents.md)
-- [§ 250 Power of state racing and wagering board to impose penalties](250-power-of-state-racing-and-wagering-board-to-impose-penalties.md)
+- [§ 250 Power of commission to impose penalties](250-power-of-commission-to-impose-penalties.md)
 - [§ 251 Definitions](251-definitions.md)
 - [§ 252 New York state thoroughbred breeding and development fund](252-new-york-state-thoroughbred-breeding-and-development-fund.md)
 - [§ 253 Powers of the fund](253-powers-of-the-fund.md)
@@ -136,8 +136,7 @@ Section 201.   Incorporation.
         247.   Racing zones.
         248.   Racing season; allotment of dates for racing.
         249.   Pari-mutuel employees to be citizens and residents.
-        250.   Power of state racing and wagering board to impose
-                 penalties.
+        250.   Power of commission to impose penalties.
         251.   Definitions.
         252.   New York state thoroughbred breeding and development
                  fund.

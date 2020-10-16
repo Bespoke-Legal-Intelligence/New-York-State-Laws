@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 576", "kind": "section", "law_id": "EXC", "location_id": "576", "path": "ARTICLE 21 › SECTION 576", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/576.md", "title": "Batterers project"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 576", "kind": "section", "law_id": "EXC", "location_id": "576", "path": "ARTICLE 21 › SECTION 576", "repealed": true, "repealed_date": "2020-10-16", "source": "nys-laws:EXC/576.md", "title": "Batterers project"} -->
 # Executive Law § 576 — Batterers project
 
 [Executive Law](../README.md) › [Article 21 — New York State Office For the Prevention of Domestic Violence](README.md)
+
+**Repealed** (16 Oct 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 576. Batterers project. 1. Definitions. As used in this section:

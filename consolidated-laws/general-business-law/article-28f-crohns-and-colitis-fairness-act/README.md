@@ -8,6 +8,7 @@
 - [§ 491 Definition](491-definition.md)
 - [§ 492 Access to restroom facilities](492-access-to-restroom-facilities.md)
 - [§ 493 Required changes](493-required-changes.md)
+- [§ 494 Denial of access](494-denial-of-access.md)
 
 <details>
 <summary>Official heading of Article 28-F, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -18,6 +19,7 @@
 Section 491. Definition.
         492. Access to restroom facilities.
         493. Required changes.
+        494. Denial of access.
 ```
 
 </details>

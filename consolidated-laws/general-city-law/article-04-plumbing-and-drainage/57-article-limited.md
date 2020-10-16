@@ -4,9 +4,14 @@
 [General City Law](../README.md) › [Article 4 — Plumbing and Drainage](README.md)
 
 ```text
-  § 57. Article limited. 1. This article shall not apply to any of the
+  § 57. Article limited. * 1. This article shall not apply to any of the
 following cities: New York, Binghamton, Schenectady, Elmira, Beacon,
 Hornell, Olean and Poughkeepsie.
+  * NB Effective until November 6, 2020
+  * 1. This article shall not apply to any of the following cities: New
+York, Binghamton, Schenectady, Elmira, Beacon, Hornell, Olean,
+Poughkeepsie and Cortland.
+  * NB Effective November 6, 2020
   2. This article, with the exception of section fifty-six-a thereof,
 shall not apply to the city of Glens Falls and the city of Middletown.
 ```

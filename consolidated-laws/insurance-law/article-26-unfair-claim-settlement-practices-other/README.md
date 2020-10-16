@@ -23,6 +23,7 @@
 - [§ 2614 Discrimination because of past lawful travel](2614-discrimination-because-of-past-lawful-travel.md)
 - [§ 2615 Genetic testing written informed consent](2615-genetic-testing-written-informed-consent.md)
 - [§ 2616 Discrimination because of status as a living organ or tissue donor](2616-discrimination-because-of-status-as-a-living-organ-or-tissue-donor.md)
+- [§ 2617 Unfair discrimination for the use of prescriptions to block the effects of opioids](2617-unfair-discrimination-for-the-use-of-prescriptions-to-block-the-effects.md)
 
 <details>
 <summary>Official heading of Article 26, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -55,6 +56,8 @@ Section 2601.   Unfair claim settlement practices; penalties.
         2615.   Genetic testing written informed consent.
         2616.   Discrimination because of status as a living organ or
                   tissue donor.
+        2617.   Unfair discrimination for the use of prescriptions to
+                  block the effects of opioids.
 ```
 
 </details>

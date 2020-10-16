@@ -854,6 +854,15 @@ nor any person in attendance at any such meeting be required to testify
 as to what transpired thereat.
   ** NB Repealed July 1, 2023
   * NB Expires July 1, 2023
+  (h) The office of professional medical conduct shall post on its
+website information on patients' rights and reporting options under this
+subdivision regarding professional misconduct, which shall specifically
+include information on reporting instances of misconduct involving
+sexual harassment and assault. All physicians' practice settings shall
+conspicuously post signage, visible to their patients, directing such
+patients to the office of professional medical conduct's website for
+information about their rights and how to report professional
+misconduct.
   12. Summary action. (a) Whenever the commissioner, (i) after being
 presented with information indicating that a licensee is causing,
 engaging in or maintaining a condition or activity which has resulted in

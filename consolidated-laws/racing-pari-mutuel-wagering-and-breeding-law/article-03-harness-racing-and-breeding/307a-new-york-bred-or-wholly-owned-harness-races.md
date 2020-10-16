@@ -1,14 +1,14 @@
-﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 307-A", "kind": "section", "law_id": "PML", "location_id": "307-A", "path": "ARTICLE 3 › SECTION 307-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/307-A.md", "title": "New York bred or wholly owned harness races"} -->
-# Racing, Pari-Mutuel Wagering and Breeding Law § 307-A — New York bred or wholly owned harness races
+﻿<!-- nyslaw {"citation": "Racing, Pari-Mutuel Wagering and Breeding Law § 307-A", "kind": "section", "law_id": "PML", "location_id": "307-A", "path": "ARTICLE 3 › SECTION 307-A", "repealed": false, "repealed_date": null, "source": "nys-laws:PML/307-A.md", "title": "New York-bred or wholly owned harness races"} -->
+# Racing, Pari-Mutuel Wagering and Breeding Law § 307-A — New York-bred or wholly owned harness races
 
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 3 — Harness Racing and Breeding](README.md)
 
 ```text
-  § 307-a. New York bred or wholly owned harness races. (a) Any
+  § 307-a. New York-bred or wholly owned harness races. (a) Any
 association or corporation licensed to conduct harness race meetings at
 which pari-mutuel betting is permitted may, if in its sole discretion
 such association or corporation determines that it would be beneficial,
-offer non-stakes races which are limited to New York bred horses or
+offer non-stakes races that are limited to New York-bred horses or
 horses wholly owned by New York state residents. These races may be
 written on such terms and conditions as any other race authorized
 pursuant to law or regulation of the commission, notwithstanding any

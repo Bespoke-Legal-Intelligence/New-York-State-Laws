@@ -5,23 +5,23 @@
 
 ## Contents
 
-- [§ 401 General powers of state racing and wagering board](401-general-powers-of-state-racing-and-wagering-board.md)
+- [§ 401 General powers of commission](401-general-powers-of-commission.md)
 - [§ 402 Incorporation](402-incorporation.md)
-- [§ 403 Filing of information concerning stock transfers; necessity for board's approval](403-filing-of-information-concerning-stock-transfers-necessity.md)
+- [§ 403 Filing of information concerning stock transfers; necessity for commission approval](403-filing-of-information-concerning-stock-transfers-necessity.md)
 - [§ 404 Right to hold quarter horse race meetings and races](404-right-to-hold-quarter-horse-race-meetings-and-races.md)
 - [§ 405 Pari-mutuel betting at quarter horse races](405-pari-mutuel-betting-at-quarter-horse-races.md)
 - [§ 406 State admission tax](406-state-admission-tax.md)
 - [§ 407 Licenses for quarter horse race meetings](407-licenses-for-quarter-horse-race-meetings.md)
 - [§ 408 Officials at quarter horse race meetings](408-officials-at-quarter-horse-race-meetings.md)
 - [§ 409 Licenses for participants and employees at quarter horse race meetings](409-licenses-for-participants-and-employees-at-quarter-horse-race.md)
-- [§ 410 Power of state racing and wagering board to impose fines and penalties](410-power-of-state-racing-and-wagering-board-to-impose-fines.md)
+- [§ 410 Power of commission to impose fines and penalties](410-power-of-commission-to-impose-fines-and-penalties.md)
 - [§ 411 Refunds](411-refunds.md)
 - [§ 412 Special police officers](412-special-police-officers.md)
 - [§ 413 Place and manner of conducting pari-mutuel betting](413-place-and-manner-of-conducting-pari-mutuel-betting.md)
 - [§ 414 Construction](414-construction.md)
 - [§ 415 Bond required of corporation or association conducting pari-mutuel betting](415-bond-required-of-corporation-or-association-conducting-pari.md)
 - [§ 416 Books and records of pari-mutuel betting](416-books-and-records-of-pari-mutuel-betting.md)
-- [§ 417 Filing of certain agreements with state racing and wagering board](417-filing-of-certain-agreements-with-state-racing-and-wagering.md)
+- [§ 417 Filing of certain agreements with commission](417-filing-of-certain-agreements-with-commission.md)
 - [§ 418 Disposition of pari-mutuel pools](418-disposition-of-pari-mutuel-pools.md)
 - [§ 419 Revocation of license](419-revocation-of-license.md)
 - [§ 420 Hearing of refusal or revocation of license](420-hearing-of-refusal-or-revocation-of-license.md)
@@ -48,10 +48,10 @@
 ```text
                                ARTICLE IV
                     QUARTER HORSE RACING AND BREEDING
-Section 401. General powers of state racing and wagering board.
+Section 401. General powers of commission.
         402. Incorporation.
         403. Filing of information concerning stock transfers; necessity
-               for board's approval.
+               for commission approval.
         404. Right to hold quarter horse race meetings and races.
         405. Pari-mutuel betting at quarter horse races.
         406. State admission tax.
@@ -59,8 +59,7 @@ Section 401. General powers of state racing and wagering board.
         408. Officials at quarter horse race meetings.
         409. Licenses for participants and employees at quarter horse
                race meetings.
-        410. Power of state racing and wagering board to impose fines
-               and penalties.
+        410. Power of commission to impose fines and penalties.
         411. Refunds.
         412. Special police officers.
         413. Place and manner of conducting pari-mutuel betting.
@@ -68,8 +67,7 @@ Section 401. General powers of state racing and wagering board.
         415. Bond required of corporation or association conducting
                pari-mutuel betting.
         416. Books and records of pari-mutuel betting.
-        417. Filing of certain agreements with state racing and wagering
-               board.
+        417. Filing of certain agreements with commission.
         418. Disposition of pari-mutuel pools.
         419. Revocation of license.
         420. Hearing of refusal or revocation of license.

@@ -4,7 +4,7 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../../README.md) › [Article 13 — Destination Resort Gaming](../README.md) › [Title 1 — General Provisions](README.md)
 
 ```text
-  § 1306. Powers of the board. The New York state resort gaming facility
+  § 1306. Powers of the board. The New York state gaming facility
 location board shall select, following a competitive process and subject
 to the restrictions of this article, no more than four entities to apply
 to the commission for gaming facility licenses. In exercising its

@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 206-B", "kind": "section", "law_id": "LAB", "location_id": "206-B", "path": "ARTICLE 7 › SECTION 206-B", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/206-B.md", "title": "Employment of females after child-birth prohibited"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 206-B", "kind": "section", "law_id": "LAB", "location_id": "206-B", "path": "ARTICLE 7 › SECTION 206-B", "repealed": true, "repealed_date": "2020-10-16", "source": "nys-laws:LAB/206-B.md", "title": "Employment of females after child-birth prohibited"} -->
 # Labor Law § 206-B — Employment of females after child-birth prohibited
 
 [Labor Law](../README.md) › [Article 7 — General Provisions](README.md)
+
+**Repealed** (16 Oct 2020). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 206-b. Employment of females after child-birth prohibited. No owner,

@@ -4,8 +4,8 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 1 — Supervision and Regulation](README.md)
 
 ```text
-  § 101. Definitions. As used in this article, the following terms shall
-have the following meanings:
+  § 101. Definitions. As used in this chapter, the following terms shall
+have the following meanings, unless the context requires otherwise:
   1. "Public officer" shall mean every elected state and local officer
 and every other state and local officer, as defined in section two of
 the public officers law, whose duties relate to pari-mutuel racing

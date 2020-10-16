@@ -5,25 +5,25 @@
 
 ## Contents
 
-- [§ 301 General powers of state racing and wagering board; harness racing defined; super exotic bet defined, authorized](301-general-powers-of-state-racing-and-wagering-board-harness-racing.md)
+- [§ 301 General powers of commission; harness racing defined; super exotic bet defined, authorized](301-general-powers-of-commission-harness-racing-defined-super-exotic-bet.md)
 - [§ 302 Incorporation](302-incorporation.md)
-- [§ 303 Filing of information concerning stock transfers; necessity for board's approval](303-filing-of-information-concerning-stock-transfers-necessity-for-boards.md)
+- [§ 303 Filing of information concerning stock transfers; necessity for commission approval](303-filing-of-information-concerning-stock-transfers-necessity.md)
 - [§ 303-A Non-managing ownership of standardbred horses](303a-non-managing-ownership-of-standardbred-horses.md)
 - [§ 304 Right to hold harness race meetings and races](304-right-to-hold-harness-race-meetings-and-races.md)
 - [§ 305 Pari-mutuel betting at harness races](305-pari-mutuel-betting-at-harness-races.md)
 - [§ 306 State admission tax](306-state-admission-tax.md)
 - [§ 307 Licenses for harness race meetings](307-licenses-for-harness-race-meetings.md)
-- [§ 307-A New York bred or wholly owned harness races](307a-new-york-bred-or-wholly-owned-harness-races.md)
+- [§ 307-A New York-bred or wholly owned harness races](307a-new-york-bred-or-wholly-owned-harness-races.md)
 - [§ 308 Officials at harness horse race meetings](308-officials-at-harness-horse-race-meetings.md)
 - [§ 309 Licenses for participants and employees at harness race meetings](309-licenses-for-participants-and-employees-at-harness-race-meetings.md)
-- [§ 310 Power of the state racing and wagering board to impose fines and penalties](310-power-of-the-state-racing-and-wagering-board-to-impose-fines.md)
+- [§ 310 Power of the commission to impose fines and penalties](310-power-of-the-commission-to-impose-fines-and-penalties.md)
 - [§ 311 Refunds](311-refunds.md)
 - [§ 312 Special police officers](312-special-police-officers.md)
 - [§ 313 Place and manner of conducting pari-mutuel betting](313-place-and-manner-of-conducting-pari-mutuel-betting.md)
 - [§ 314 Construction with other laws](314-construction-with-other-laws.md)
 - [§ 315 Bond required of corporation or association conducting pari-mutuel betting](315-bond-required-of-corporation-or-association-conducting-pari-mutuel.md)
 - [§ 316 Books and records of pari-mutuel betting](316-books-and-records-of-pari-mutuel-betting.md)
-- [§ 317 Filing of certain agreements with the state racing and wagering board](317-filing-of-certain-agreements-with-the-state-racing-and-wagering-board.md)
+- [§ 317 Filing of certain agreements with the commission](317-filing-of-certain-agreements-with-the-commission.md)
 - [§ 318 Disposition of on-track pari-mutuel pools; harness races](318-disposition-of-on-track-pari-mutuel-pools-harness-races.md)
 - [§ 319 Capital improvements](319-capital-improvements.md)
 - [§ 320 Revocation of license](320-revocation-of-license.md)
@@ -49,23 +49,21 @@
 ```text
                                ARTICLE III
                        HARNESS RACING AND BREEDING
-Section 301.   General powers of state racing and wagering board;
-                 harness racing defined; super exotic bet defined,
-                 authorized.
+Section 301.   General powers of commission; harness racing defined;
+                 super exotic bet defined, authorized.
         302.   Incorporation.
         303.   Filing of information concerning stock transfers;
-                 necessity for board's approval.
+                 necessity for commission approval.
         303-a. Non-managing ownership of standardbred horses.
         304.   Right to hold harness race meetings and races.
         305.   Pari-mutuel betting at harness races.
         306.   State admission tax.
         307.   Licenses for harness race meetings.
-        307-a. New York bred or wholly owned harness races.
+        307-a. New York-bred or wholly owned harness races.
         308.   Officials at harness horse race meetings.
         309.   Licenses for participants and employees at harness race
                  meetings.
-        310.   Power of the state racing and wagering board to impose
-                 fines and penalties.
+        310.   Power of the commission to impose fines and penalties.
         311.   Refunds.
         312.   Special police officers.
         313.   Place and manner of conducting pari-mutuel betting.
@@ -73,8 +71,7 @@ Section 301.   General powers of state racing and wagering board;
         315.   Bond required of corporation or association conducting
                  pari-mutuel betting.
         316.   Books and records of pari-mutuel betting.
-        317.   Filing of certain agreements with the state racing and
-                 wagering board.
+        317.   Filing of certain agreements with the commission.
         318.   Disposition of on-track pari-mutuel pools; harness races.
         319.   Capital improvements.
         320.   Revocation of license.

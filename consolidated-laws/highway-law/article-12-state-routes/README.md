@@ -316,6 +316,7 @@
 - [§ 344-K\*3 Portion of the state highway system to be designated as the "Charles 'Chuck' Kelly Memorial Highway"](344k-3-portion-of-the-state-highway-system-to-be-designated-as-the-charles-chuck-kelly.md)
 - [§ 344-L Portion of the state highway system to be designated as the "Savannah Marie Williams Memorial Highway"](344l-portion-of-the-state-highway-system-to-be-designated-as-the-savannah-marie.md)
 - [§ 344-L\*2 Portion of the state highway system to be designated as the "Firefighter/EMT Michael J](344l-2-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-emt.md)
+- [§ 344-L\*3 Portion of the state highway system to be designated as the "Sandra L](344l-3-portion-of-the-state-highway-system-to-be-designated-as-the-sandra-l.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1050,6 +1051,8 @@ Section 340-a.     Designation of state interstate routes.
         344-l*2.   Portion of the state highway system to be designated
                      as the "Firefighter/EMT Michael J. Field Memorial
                      Bridge".
+        344-l*3.   Portion of the state highway system to be designated
+                     as the "Sandra L. Wilson Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

@@ -1,4 +1,4 @@
-﻿<!-- nyslaw {"kind": "chapter", "law_id": "PAR", "location_id": "-CH36-B", "source": "nys-laws:PAR/-CH36-B.md", "title": "Parks, recreation and historic preservation"} -->
+﻿<!-- nyslaw {"kind": "chapter", "law_id": "PAR", "location_id": "-CH36-B", "source": "nys-laws:PAR/-CH36-B.md", "title": "Parks, Recreation and Historic Preservation"} -->
 # Parks, Recreation and Historic Preservation Law — chapter text as published
 
 [Parks, Recreation and Historic Preservation Law](README.md)
@@ -41,7 +41,7 @@ Article
                                        TITLE C
                      PARKS, RECREATION AND HISTORIC PRESERVATION
    13.    General provisions (§§ 13.01-13.31)
-   14.    Historic Preservation (§§ 14.01-14.09)
+   14.    Historic Preservation (§§ 14.01-14.11)
    15.    Park and recreation land acquisition bond acts
             (§§ 15.01-15.13)
    17.    Outdoor recreation development bond act (§§ 17.01-17.11)

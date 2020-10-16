@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 575 New York state office for the prevention of domestic violence](575-new-york-state-office-for-the-prevention-of-domestic-violence.md)
-- [§ 576 Batterers project](576-batterers-project.md)
+- [§ 576 Batterers project](576-batterers-project.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -17,7 +17,6 @@
                    THE PREVENTION OF DOMESTIC VIOLENCE
 Section 575. New  York  state  office  for  the  prevention  of domestic
                violence.
-        576. Batterers project.
 ```
 
 </details>
