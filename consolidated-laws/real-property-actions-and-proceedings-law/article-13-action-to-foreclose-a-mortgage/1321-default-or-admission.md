@@ -4,7 +4,7 @@
 [Real Property Actions and Proceedings Law](../README.md) › [Article 13 — Action to Foreclose a Mortgage](README.md)
 
 ```text
-  § 1321. Default or admission.  1. If the defendant fails to answer
+  § 1321. Default or admission. 1. If the defendant fails to answer
 within the time allowed or the right of the plaintiff is admitted by the
 answer, upon motion of the plaintiff, the court shall ascertain and
 determine the amount due, or direct a referee to compute the amount due
@@ -17,7 +17,9 @@ in a general answer by his guardian, or if any of the defendants be
 absentees, the order of reference also shall direct the referee to take
 proof of the facts and circumstances stated in the complaint and to
 examine the plaintiff or his agent, on oath, as to any payments which
-have been made.
+have been made. The order of reference shall also include the name and
+telephone number of the mortgage servicer for a plaintiff involving a
+mortgage foreclosure of a one- to four-family residential property.
   2. When he moves for judgment, the plaintiff shall show whether any of
 the defendants who have not appeared are absentees.
 ```

@@ -471,14 +471,7 @@ subdivision, the taxpayer may not use the hiring of a qualified veteran
 that is the basis for this credit in the basis of any other credit
 allowed under this article.
   (2) Qualified veteran. A qualified veteran is an individual:
-  * (A) who served on active duty in the United States army, navy, air
-force, marine corps, coast guard or the reserves thereof, or who served
-in active military service of the United States as a member of the army
-national guard, air national guard, New York guard or New York naval
-militia; who was released from active duty by general or honorable
-discharge after September eleventh, two thousand one;
-  * NB Effective until November 12, 2020
-  * (A) who served on active duty in the United States army, navy, air
+  (A) who served on active duty in the United States army, navy, air
 force, marine corps, coast guard or the reserves thereof, or who served
 in active military service of the United States as a member of the army
 national guard, air national guard, New York guard or New York naval
@@ -491,7 +484,6 @@ one, or (iii) is a discharged LGBT veteran, as defined in section three
 hundred fifty of the executive law, and has received a discharge other
 than bad conduct or dishonorable from such service after September
 eleventh, two thousand one;
-  * NB Effective November 12, 2020
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
 thousand twenty-one; and

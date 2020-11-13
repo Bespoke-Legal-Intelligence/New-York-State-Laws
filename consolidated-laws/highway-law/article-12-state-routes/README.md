@@ -317,6 +317,7 @@
 - [§ 344-L Portion of the state highway system to be designated as the "Savannah Marie Williams Memorial Highway"](344l-portion-of-the-state-highway-system-to-be-designated-as-the-savannah-marie.md)
 - [§ 344-L\*2 Portion of the state highway system to be designated as the "Firefighter/EMT Michael J](344l-2-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-emt.md)
 - [§ 344-L\*3 Portion of the state highway system to be designated as the "Sandra L](344l-3-portion-of-the-state-highway-system-to-be-designated-as-the-sandra-l.md)
+- [§ 344-L\*4 Portion of the state highway system to be designated as the "Firefighter Tim Gunther Memorial Highway"](344l-4-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-tim.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1053,6 +1054,8 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         344-l*3.   Portion of the state highway system to be designated
                      as the "Sandra L. Wilson Memorial Highway".
+        344-l*4.   Portion of the state highway system to be designated
+                     as the "Firefighter Tim Gunther Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

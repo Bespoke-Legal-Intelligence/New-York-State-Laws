@@ -53,6 +53,36 @@ paragraph (b) of subdivision two of section four hundred sixty-three-a
 of this chapter; and a report on the operation of the child support
 enforcement program, as required by chapter six hundred eighty-five of
 the laws of nineteen hundred seventy-five;
+  * (d-1) in consultation with the commissioner of the division of
+criminal justice, submit a report to the governor, the speaker of the
+assembly, the temporary president of the senate and the chairs of the
+assembly and senate standing committee on social services, on the
+services provided to human trafficking survivors for the purpose of
+assessing the availability, utilization and necessity for such services.
+The initial report shall be provided one year after the effective date
+of this subdivision and annually thereafter and shall include, but not
+be limited to, the following:
+  (i) the number of human trafficking referrals made to the office of
+temporary and disability assistance including the number of confirmed
+cases;
+  (ii) the number of human trafficking survivors that received housing
+and/or services, with specific information about the type of housing or
+service;
+  (iii) the number of human trafficking survivors that did not receive
+housing and/or services, and an indication as to what type of housing
+and/or service was requested and whether such housing and/or services
+were denied due to a lack of availability or because the case was not
+confirmed; and
+  (iv) information pertaining to the types of services provided by
+providers such as: (1) the number of current contracts to provide
+housing and services for human trafficking survivors and their annual
+funding levels, broken down by contract; (2) the number of contracts
+and/or services that have ended, been terminated or not renewed and the
+reason why; (3) the types of housing and/or services that are provided,
+as well as the availability of such services, including the geographic
+location of such housing or service; and (4) any other information the
+office of temporary and disability assistance deems appropriate.
+  * NB Effective May 10, 2021
   (e) work cooperatively with the commissioner of the office of mental
 health and the commissioner of the office for people with developmental
 disabilities to assist the commissioner of education in furnishing

@@ -4,39 +4,20 @@
 [Public Health Law](../README.md) › [Article 26-A — New York State Veterans' Home](README.md)
 
 ```text
-  § 2632. Admission to home. 1. * Every veteran of the armed forces of
-the United States, who (i) was separated or discharged under honorable
-conditions after serving on active duty therein for a period of not less
-than thirty days, or (ii) was separated or discharged under honorable
-conditions after serving on active duty therein for a period of not less
-than thirty days and who was a recipient of the armed forces
-expeditionary medal, navy expeditionary medal or marine corps
-expeditionary medal for participation in operations in Lebanon from June
-first, nineteen hundred eighty-three to December first, nineteen hundred
-eighty-seven, in Grenada from October twenty-third, nineteen hundred
-eighty-three to November twenty-first, nineteen hundred eighty-three, or
-in Panama from December twentieth, nineteen hundred eighty-nine to
-January thirty-first, nineteen hundred ninety, or in Bosnia and
-Herzgegovina from November twenty-first, nineteen hundred ninety-five to
-November first, two thousand seven, or was a recipient of the Kosovo
-campaign medal or (iii) was separated or discharged under honorable
-conditions after serving on active duty therein for a period of not less
-than thirty days and who served during the period of actual hostilities
-of either
-  * NB Effective until November 12, 2020
-  * Every veteran of the armed forces of the United States, who (i) (A)
-was separated or discharged under honorable conditions after serving on
-active duty therein for a period of not less than thirty days, or (B)
-has a qualifying condition, as defined in section three hundred fifty of
-the executive law, and has received a discharge other than bad conduct
-or dishonorable after serving on active duty therein for a period of not
-less than thirty days, or (C) is a discharged LGBT veteran, as defined
-in section three hundred fifty of the executive law, and has received a
-discharge other than bad conduct or dishonorable after serving on active
-duty therein for a period of not less than thirty days, or (ii) (A) was
-separated or discharged under honorable conditions after serving on
-active duty therein for a period of not less than thirty days or (B) has
-a qualifying condition, as defined in section three hundred fifty of the
+  § 2632. Admission to home. 1.  Every veteran of the armed forces of
+the United States, who (i) (A) was separated or discharged under
+honorable conditions after serving on active duty therein for a period
+of not less than thirty days, or (B) has a qualifying condition, as
+defined in section three hundred fifty of the executive law, and has
+received a discharge other than bad conduct or dishonorable after
+serving on active duty therein for a period of not less than thirty
+days, or (C) is a discharged LGBT veteran, as defined in section three
+hundred fifty of the executive law, and has received a discharge other
+than bad conduct or dishonorable after serving on active duty therein
+for a period of not less than thirty days, or (ii) (A) was separated or
+discharged under honorable conditions after serving on active duty
+therein for a period of not less than thirty days or (B) has a
+qualifying condition, as defined in section three hundred fifty of the
 executive law, and has received a discharge other than bad conduct or
 dishonorable after serving on active duty therein for a period of not
 less than thirty days, or (C) is a discharged LGBT veteran, as defined
@@ -63,63 +44,30 @@ in section three hundred fifty of the executive law, and has received a
 discharge other than bad conduct or dishonorable after serving on active
 duty therein for a period of not less than thirty days, and who served
 during the period of actual hostilities of either
-  * NB Effective November 12, 2020
   (a) the Spanish-American war; or
   (b) the incidental insurrection in the Philippines prior to July
 fourth, nineteen hundred two; or
   (c) world war I between April sixth, nineteen hundred seventeen and
 November eleventh, nineteen hundred eighteen, both inclusive; or
-  * (d) world war II between December seventh, nineteen hundred
-forty-one and December thirty-first, nineteen hundred forty-six, both
-inclusive, or who was employed by the War Shipping Administration or
-Office of Defense Transportation or their agents as a merchant seaman
-documented by the United States Coast Guard or Department of Commerce,
-or as a civil servant employed by the United States Army Transport
-Service (later redesignated as the United States Army Transportation
-Corps, Water Division) or the Naval Transportation Service; and who
-served satisfactorily as a crew member during the period of armed
-conflict, December seventh, nineteen hundred forty-one, to August
-fifteenth, nineteen hundred forty-five, aboard merchant vessels in
-oceangoing, i.e., foreign, intercoastal, or coastwise service as such
-terms are defined under federal law (46 USCA 10301 & 10501) and further
-to include "near foreign" voyages between the United States and Canada,
-Mexico, or the West Indies via ocean routes, or public vessels in
-oceangoing service or foreign waters and who has received a Certificate
-of Release or Discharge from Active Duty and a discharge certificate, or
-an Honorable Service Certificate/Report of Casualty, from the Department
-of Defense, or who served as a United States civilian employed by the
-American Field Service and served overseas under United States Armies
-and United States Army Groups in world war II during the period of armed
-conflict, December seventh, nineteen hundred forty-one through May
-eighth, nineteen hundred forty-five, and who was discharged or released
-therefrom under honorable conditions, or who served as a United States
-civilian Flight Crew and Aviation Ground Support Employee of Pan
-American World Airways or one of its subsidiaries or its affiliates and
-served overseas as a result of Pan American's contract with Air
-Transport Command or Naval Air Transport Service during the period of
-armed conflict, December fourteenth, nineteen hundred forty-one through
-August fourteenth, nineteen hundred forty-five, and who was discharged
-or released therefrom under honorable conditions; or
-  * NB Effective until November 12, 2020
-  * (d) world war II between December seventh, nineteen hundred
-forty-one and December thirty-first, nineteen hundred forty-six, both
-inclusive, or who was employed by the War Shipping Administration or
-Office of Defense Transportation or their agents as a merchant seaman
-documented by the United States Coast Guard or Department of Commerce,
-or as a civil servant employed by the United States Army Transport
-Service (later redesignated as the United States Army Transportation
-Corps, Water Division) or the Naval Transportation Service; and who
-served satisfactorily as a crew member during the period of armed
-conflict, December seventh, nineteen hundred forty-one, to August
-fifteenth, nineteen hundred forty-five, aboard merchant vessels in
-oceangoing, i.e., foreign, intercoastal, or coastwise service as such
-terms are defined under federal law (46 USCA 10301 & 10501) and further
-to include "near foreign" voyages between the United States and Canada,
-Mexico, or the West Indies via ocean routes, or public vessels in
-oceangoing service or foreign waters and who has received a Certificate
-of Release or Discharge from Active Duty and a discharge certificate, or
-an Honorable Service Certificate/Report of Casualty, from the Department
-of Defense, or who served as a United States civilian employed by the
+  (d) world war II between December seventh, nineteen hundred forty-one
+and December thirty-first, nineteen hundred forty-six, both inclusive,
+or who was employed by the War Shipping Administration or Office of
+Defense Transportation or their agents as a merchant seaman documented
+by the United States Coast Guard or Department of Commerce, or as a
+civil servant employed by the United States Army Transport Service
+(later redesignated as the United States Army Transportation Corps,
+Water Division) or the Naval Transportation Service; and who served
+satisfactorily as a crew member during the period of armed conflict,
+December seventh, nineteen hundred forty-one, to August fifteenth,
+nineteen hundred forty-five, aboard merchant vessels in oceangoing,
+i.e., foreign, intercoastal, or coastwise service as such terms are
+defined under federal law (46 USCA 10301 & 10501) and further to include
+"near foreign" voyages between the United States and Canada, Mexico, or
+the West Indies via ocean routes, or public vessels in oceangoing
+service or foreign waters and who has received a Certificate of Release
+or Discharge from Active Duty and a discharge certificate, or an
+Honorable Service Certificate/Report of Casualty, from the Department of
+Defense, or who served as a United States civilian employed by the
 American Field Service and served overseas under United States Armies
 and United States Army Groups in world war II during the period of armed
 conflict, December seventh, nineteen hundred forty-one through May
@@ -143,7 +91,6 @@ discharge other than bad conduct or dishonorable from such service, or
 (vi) is a discharged LGBT veteran, as defined in section three hundred
 fifty of the executive law, and has received a discharge other than bad
 conduct or dishonorable from such service; or
-  * NB Effective November 12, 2020
   (e) Korean conflict between June twenty-seventh, nineteen hundred
 fifty and January thirty-first, nineteen hundred fifty-five, both
 inclusive; or

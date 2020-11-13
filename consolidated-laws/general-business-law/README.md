@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GBS |
 | Type | Consolidated law, chapter 20 |
-| Sections | 1,260 |
-| Last changed | 16 Oct 2020 |
+| Sections | 1,262 |
+| Last changed | 13 Nov 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Business |
 
@@ -29,10 +29,11 @@ AN ACT relating to general business, constituting chapter twenty of the
   Assembly, do enact as follows:
 ```
 
-[Full chapter text (172 lines)](chapter-text.md)
+[Full chapter text (173 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [13 Nov 2020](../../changes/2020/2020-11-13.md): 5 amended, 2 added
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended, 2 added
 - [2 Oct 2020](../../changes/2020/2020-10-02.md): 1 amended
 - [3 Jul 2020](../../changes/2020/2020-07-03.md): 1 amended
@@ -42,7 +43,6 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [1 May 2020](../../changes/2020/2020-05-01.md): 1 amended, 1 added, 3 removed
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 16 amended, 3 repealed
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 3 amended, 7 added
-- [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
 
 ## Contents
 
@@ -118,6 +118,7 @@ AN ACT relating to general business, constituting chapter twenty of the
 - [Article 29-A — Unauthorized or Improper Use of Credit Cards and Debit Cards](article-29a-unauthorized-or-improper-use-of-credit-cards/)
 - [Article 29-AAA — Credit Card Registration Services](article-29aaa-credit-card-registration-services/)
 - [Article 29-B — Prohibited Credit Card Practices Involving Providers of Travel Services](article-29b-prohibited-credit-card-practices-involving/)
+- [Article 29-BB — Prohibited Service Offer Practices](article-29bb-prohibited-service-offer-practices/)
 - [Article 29-C — Radio and Television Tubes](article-29c-radio-and-television-tubes/)
 - [Article 29-CC — Modem Hijacking Deterrence Act](article-29cc-modem-hijacking-deterrence-act/)
 - [Article 29-D — Notes Given For Patent Rights and For a Speculative Consideration](article-29d-notes-given-for-patent-rights/)
