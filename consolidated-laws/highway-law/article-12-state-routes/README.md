@@ -318,6 +318,9 @@
 - [§ 344-L\*2 Portion of the state highway system to be designated as the "Firefighter/EMT Michael J](344l-2-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-emt.md)
 - [§ 344-L\*3 Portion of the state highway system to be designated as the "Sandra L](344l-3-portion-of-the-state-highway-system-to-be-designated-as-the-sandra-l.md)
 - [§ 344-L\*4 Portion of the state highway system to be designated as the "Firefighter Tim Gunther Memorial Highway"](344l-4-portion-of-the-state-highway-system-to-be-designated-as-the-firefighter-tim.md)
+- [§ 344-L\*5 Portion of the state highway system to be designated as the "North Dansville Veterans Memorial Highway"](344l-5-portion-of-the-state-highway-system-to-be-designated-as-the-north-dansville.md)
+- [§ 344-L\*6 Portion of the state highway system to be designated as the "Colchester Veterans Memorial Bridge"](344l-6-portion-of-the-state-highway-system-to-be-designated-as-the-colchester-veterans.md)
+- [§ 344-L\*7 Portion of the state highway system to be designated as the "Wappinger Veterans Memorial Highway"](344l-7-portion-of-the-state-highway-system-to-be-designated-as-the-wappinger-veterans.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1056,6 +1059,12 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Sandra L. Wilson Memorial Highway".
         344-l*4.   Portion of the state highway system to be designated
                      as the "Firefighter Tim Gunther Memorial Highway".
+        344-l*5.   Portion of the state highway system to be designated
+                     as the "North Dansville Veterans Memorial Highway".
+        344-l*6.   Portion of the state highway system to be designated
+                     as the "Colchester Veterans Memorial Bridge".
+        344-l*7.   Portion of the state highway system to be designated
+                     as the "Wappinger Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 
