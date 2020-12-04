@@ -10,10 +10,12 @@
 - [§ 50-C Private right of action](50c-private-right-of-action.md)
 - [§ 50-D Personnel records of court officers](50d-personnel-records-of-court-officers.md)
 - [§ 50-E Personnel records of bridge and tunnel officers, sergeants and lieutenants](50e-personnel-records-of-bridge-and-tunnel-officers-sergeants-and-lieutenants.md)
+- [§ 50-F Right of publicity](50f-right-of-publicity.md)
 - [§ 51 Action for injunction and for damages](51-action-for-injunction-and-for-damages.md)
 - [§ 52 Televising, broadcasting or taking motion pictures of certain proceedings prohibited](52-televising-broadcasting-or-taking-motion-pictures-of-certain-proceedings.md)
 - [§ 52-A Private right of action for unwarranted video imaging of residential premises](52a-private-right-of-action-for-unwarranted-video-imaging-of-residential-premises.md)
 - [§ 52-B Private right of action for unlawful dissemination or publication of an intimate image](52b-private-right-of-action-for-unlawful-dissemination-or-publication-of-an-intimate.md)
+- [§ 52-C Private right of action for unlawful dissemination or publication of a sexually explicit depiction of an individual](52c-private-right-of-action-for-unlawful-dissemination-or-publication-of-a-sexually.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -29,6 +31,7 @@ Section 50.   Right of privacy.
         50-d. Personnel records of court officers.
         50-e. Personnel records of bridge and tunnel officers, sergeants
                 and lieutenants.
+        50-f. Right of publicity.
         51.   Action for injunction and for damages.
         52.   Televising, broadcasting or taking motion pictures of
                 certain proceedings prohibited.
@@ -36,6 +39,9 @@ Section 50.   Right of privacy.
                 residential premises.
         52-b. Private right of action for unlawful dissemination or
                 publication of an intimate image.
+        52-c. Private right of action for unlawful dissemination or
+                publication of a sexually explicit depiction of an
+                individual.
 ```
 
 </details>

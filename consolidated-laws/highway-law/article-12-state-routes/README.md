@@ -321,6 +321,7 @@
 - [§ 344-L\*5 Portion of the state highway system to be designated as the "North Dansville Veterans Memorial Highway"](344l-5-portion-of-the-state-highway-system-to-be-designated-as-the-north-dansville.md)
 - [§ 344-L\*6 Portion of the state highway system to be designated as the "Colchester Veterans Memorial Bridge"](344l-6-portion-of-the-state-highway-system-to-be-designated-as-the-colchester-veterans.md)
 - [§ 344-L\*7 Portion of the state highway system to be designated as the "Wappinger Veterans Memorial Highway"](344l-7-portion-of-the-state-highway-system-to-be-designated-as-the-wappinger-veterans.md)
+- [§ 344-L\*8 Portion of the state highway system to be designated as the "Charles W](344l-8-portion-of-the-state-highway-system-to-be-designated-as-the-charles-w.md)
 - [§ 345-A Abandonment and transfer of state highways](345a-abandonment-and-transfer-of-state-highways.md)
 
 <details>
@@ -1065,6 +1066,8 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Colchester Veterans Memorial Bridge".
         344-l*7.   Portion of the state highway system to be designated
                      as the "Wappinger Veterans Memorial Highway".
+        344-l*8.   Portion of the state highway system to be designated
+                     as the "Charles W. Howard Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
 ```
 

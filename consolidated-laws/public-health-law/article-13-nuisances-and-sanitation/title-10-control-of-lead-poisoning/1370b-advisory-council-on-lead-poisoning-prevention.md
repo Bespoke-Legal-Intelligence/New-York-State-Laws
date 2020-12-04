@@ -26,7 +26,9 @@ designee.
 for their services, except that each of them may be allowed necessary
 and actual expenses which he or she shall incur in the performance of
 his or her duties under this article.
-  3. The council shall meet as often as may be deemed necessary to
+  3. A majority of the appointed voting membership of the council shall
+constitute a quorum.
+  4. The council shall meet as often as may be deemed necessary to
 fulfill its responsibilities. The council shall have the following
 powers and duties:
   (a) To develop a comprehensive statewide plan to prevent lead

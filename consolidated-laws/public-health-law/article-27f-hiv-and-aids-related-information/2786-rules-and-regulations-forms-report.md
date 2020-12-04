@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 27-F — Hiv and Aids Related Information](README.md)
 
 ```text
-  § 2786. Rules and regulations; forms; report.  1. The commissioner
+  § 2786. Rules and regulations; forms; report. 1. The commissioner
 shall promulgate rules and regulations concerning implementation of this
 article for health facilities, health care providers and other persons
 to whom this article is applicable. The commissioner shall also develop
@@ -29,26 +29,27 @@ determined pursuant to paragraph (a) of subdivision four of section
 twenty-seven hundred eighty-two or section twenty-seven hundred
 eighty-five of this article.
   2. (a) Each state agency authorized pursuant to this article to obtain
-confidential HIV related information shall, in consultation with the
-department of health, promulgate regulations: (1) to provide safequards
-to prevent discrimination, abuse or other adverse actions directed
-toward protected individuals; (2) to prohibit the disclosure of such
-information except in accordance with this article; (3) to seek to
-protect individuals in contact with the protected individual when such
-contact creates a significant risk of contracting or transmitting HIV
-infection through the exchange of body fluids, and (4) to establish
-criteria for determining when it is reasonably necessary for a provider
-of a health or social service or the state agency or a local government
-agency to have or to use confidential HIV related information for
-supervision, monitoring, investigation, or administration and for
-determining which employees and agents may, in the ordinary course of
-business of the agency or provider, be authorized to access confidential
-HIV related information pursuant to the provisions of paragraphs (l) and
-(m) of subdivision one and subdivision six of section twenty-seven
-hundred eighty-two of this article; and provided further that such
-regulations shall be promulgated by the chairperson of the commission of
-correction where disclosure is made pursuant to paragraphs (n) and (o)
-of subdivision one of section twenty-seven hundred eighty-two of this
+confidential HIV related information and the board of correction of the
+city of New York shall, in consultation with the department of health,
+promulgate regulations: (1) to provide safequards to prevent
+discrimination, abuse or other adverse actions directed toward protected
+individuals; (2) to prohibit the disclosure of such information except
+in accordance with this article; (3) to seek to protect individuals in
+contact with the protected individual when such contact creates a
+significant risk of contracting or transmitting HIV infection through
+the exchange of body fluids, and (4) to establish criteria for
+determining when it is reasonably necessary for a provider of a health
+or social service or the state agency or a local government agency to
+have or to use confidential HIV related information for supervision,
+monitoring, investigation, or administration and for determining which
+employees and agents may, in the ordinary course of business of the
+agency or provider, be authorized to access confidential HIV related
+information pursuant to the provisions of paragraphs (l) and (m) of
+subdivision one and subdivision six of section twenty-seven hundred
+eighty-two of this article; and provided further that such regulations
+shall be promulgated by the chairperson of the commission of correction
+where disclosure is made pursuant to paragraphs (n) and (o) of
+subdivision one of section twenty-seven hundred eighty-two of this
 article.
   (b) The department of health, in consultation with agencies referred
 to in paragraph (a) of this subdivision, shall submit a report to the

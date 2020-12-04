@@ -86,14 +86,13 @@ subdivision two of section twenty-seven hundred eighty-six of this
 article, to the extent the medical director is authorized to access
 records containing such information in order to carry out his or her
 functions, powers and duties with respect to the protected individual;
-or
-  (o) an employee or agent of the commission of correction, in
-accordance with paragraph (a) of subdivision two of section twenty-seven
-hundred eighty-six of this article, to the extent the employee or agent
-is authorized to access records containing such information in order to
-carry out the commission's functions, powers and duties with respect to
-the protected individual, pursuant to article three of the correction
-law.
+  (o) an employee or agent of the commission of correction or the board
+of correction of the city of New York, in accordance with paragraph (a)
+of subdivision two of section twenty-seven hundred eighty-six of this
+article, to the extent the employee or agent is authorized to access
+records containing such information in order to carry out the
+commission's functions, powers and duties with respect to the protected
+individual, pursuant to article three of the correction law;
   (p) an attorney appointed to represent a minor pursuant to the social
 services law or the family court act, with respect to confidential HIV
 related information relating to the minor and for the purpose of

@@ -16,7 +16,8 @@ whom the record of birth relates including an authorized representative
 of the office of children and family services or a local social services
 district if the person is in the care and custody or custody and
 guardianship of such entity.
-  3. (a) The registrar shall be entitled to a fee of ten dollars for
+  3. (a) Except as otherwise provided in paragraph (b) of this
+subdivision, the registrar shall be entitled to a fee of ten dollars for
 each certification of birth or death or for each certified copy or
 certified transcript of any record of a birth or of a death or for a
 certification that a search discloses no record of a birth or of a
@@ -38,9 +39,10 @@ statistics.
 following county jurisdictions the fee shall be set by the county health
 commissioner: Chemung, Monroe, Onondaga, Tompkins; and in the following
 local jurisdictions the fee shall be set by the local legislative body:
-city of Oswego, city of Albany. In such jurisdictions, the fee may be
-set up to the amount charged by the commissioner as prescribed in
-subdivision two of section forty-one hundred seventy-four of this title.
+city of Oswego, city of Albany, city of Jamestown. In such
+jurisdictions, the fee may be set up to the amount charged by the
+commissioner as prescribed in subdivision two of section forty-one
+hundred seventy-four of this title.
   4. All fees for searches, certification, certified copies and
 certified transcripts collected by a registrar of vital statistics in a
 state hospital, charitable or penal institution shall be transmitted by

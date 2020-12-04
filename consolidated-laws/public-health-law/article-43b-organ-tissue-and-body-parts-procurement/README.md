@@ -14,6 +14,7 @@
 - [§ 4366 Enforcement](4366-enforcement.md)
 - [§ 4367 Separability](4367-separability.md)
 - [§ 4368 New York state gift of life medal of honor](4368-new-york-state-gift-of-life-medal-of-honor.md)
+- [§ 4369 Bone marrow registry information](4369-bone-marrow-registry-information.md)
 
 <details>
 <summary>Official heading of Article 43-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -21,15 +22,16 @@
 ```text
                               ARTICLE 43-B
           ORGAN, TISSUE AND BODY PARTS PROCUREMENT AND STORAGE
-Section 4360.  Definitions.
-        4361.  Transplant council.
-        4362.  Organ procurement organizations.
-        4363.  Waiting lists for organs.
-        4364.  Licensure of banks and storage facilities.
-        4365.  Powers and duties of the commissioner.
-        4366.  Enforcement.
-        4367.  Separability.
-        4368.  New York state gift of life medal of honor.
+Section 4360. Definitions.
+        4361. Transplant council.
+        4362. Organ procurement organizations.
+        4363. Waiting lists for organs.
+        4364. Licensure of banks and storage facilities.
+        4365. Powers and duties of the commissioner.
+        4366. Enforcement.
+        4367. Separability.
+        4368. New York state gift of life medal of honor.
+        4369. Bone marrow registry information.
 ```
 
 </details>

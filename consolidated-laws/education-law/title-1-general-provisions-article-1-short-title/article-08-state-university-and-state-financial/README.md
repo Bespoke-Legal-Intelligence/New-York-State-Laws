@@ -15,6 +15,7 @@
 - [§ 355-A Powers and duties of trustees--personnel functions](355a-powers-and-duties-of-trustees-personnel.md)
 - [§ 355-B Investments in designated obligations; indemnifications](355b-investments-in-designated-obligations.md)
 - [§ 355-C College opportunity to prepare for employment](355c-college-opportunity-to-prepare.md)
+- [§ 355-D Educational opportunity centers](355d-educational-opportunity-centers.md)
 - [§ 356 Councils of state-operated institutions; powers and duties](356-councils-of-state-operated-institutions.md)
 - [§ 357 Statutory or contract colleges](357-statutory-or-contract-colleges.md)
 - [§ 358 State aid for certain higher educational institutions](358-state-aid-for-certain-higher-educational.md)
@@ -44,6 +45,7 @@ Section 350.   Definitions.
         355-a. Powers and duties of trustees--personnel functions.
         355-b. Investments in designated obligations; indemnifications.
         355-c. College opportunity to prepare for employment.
+        355-d. Educational opportunity centers.
         356.   Councils of state-operated institutions; powers and
                  duties.
         357.   Statutory or contract colleges.
