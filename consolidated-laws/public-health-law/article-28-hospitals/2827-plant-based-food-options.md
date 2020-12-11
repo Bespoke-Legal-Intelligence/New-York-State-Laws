@@ -4,8 +4,8 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2827. Plant-based food options. 1. Upon request by a patient or
-the patient's lawful representative in a hospital providing inpatient or
+  § 2827. Plant-based food options. 1. Upon request by a patient or the
+patient's lawful representative in a hospital providing inpatient or
 residential care, the hospital shall offer the patient a plant-based
 food option as an alternative to every meal or snack offered in food
 service to the patient. All the hospital's written material describing
@@ -38,5 +38,4 @@ professional is considering prescribing or ordering a patient
 nutritional support product under this subdivision, the health care
 professional shall consider and advise the requester whether a medically
 suitable plant-based food option is reasonably available.
-  * NB Effective December 6, 2020
 ```

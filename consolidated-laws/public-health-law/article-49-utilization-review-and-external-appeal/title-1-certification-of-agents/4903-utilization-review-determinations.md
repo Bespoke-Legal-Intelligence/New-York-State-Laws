@@ -22,6 +22,9 @@ determination involving health care services which require
 pre-authorization and provide notice of a determination to the enrollee
 or enrollee's designee and the enrollee's health care provider by
 telephone and in writing within three business days of receipt of the
+necessary information, or for inpatient rehabilitation services
+following an inpatient hospital admission provided by a hospital or
+skilled nursing facility, within one business day of receipt of the
 necessary information. The notification shall identify; (i) whether the
 services are considered in-network or out-of-network; (ii) and whether
 the enrollee will be held harmless for the services and not be
