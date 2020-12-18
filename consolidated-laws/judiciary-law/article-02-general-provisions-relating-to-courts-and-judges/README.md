@@ -10,6 +10,7 @@
 - [§ 2-B General powers of courts of record](02b-general-powers-of-courts-of-record.md)
 - [§ 3 Use of term "court" prohibited](03-use-of-term-court-prohibited.md)
 - [§ 4 Sittings of courts to be public](04-sittings-of-courts-to-be-public.md)
+- [§ 4-A Certain powers of the courts regarding civil arrests](04a-certain-powers-of-the-courts-regarding-civil-arrests.md)
 - [§ 5 Courts not to sit on Sunday except in special cases nor on Saturday in certain cases](05-courts-not-to-sit-on-sunday-except-in-special-cases-nor-on-saturday-in-certain.md)
 - [§ 6 Adjournment of term of court of record to future day](06-adjournment-of-term-of-court-of-record-to-future-day.md)
 - [§ 7 Adjournment of term on non-appearance of judge](07-adjournment-of-term-on-non-appearance-of-judge.md)
@@ -67,6 +68,7 @@ Section 2.    Courts of record.
         2-b.  General powers of courts of record.
         3.    Use of term "court" prohibited.
         4.    Sittings of courts to be public.
+        4-a.  Certain powers of the courts regarding civil arrests.
         5.    Courts not to sit on Sunday except in special cases nor on
                 Saturday in certain cases.
         6.    Adjournment of term of court of record to future day.

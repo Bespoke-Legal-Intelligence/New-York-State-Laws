@@ -23,7 +23,7 @@
 - [§ 93 Provisions for financing home relief](93-provisions-for-financing-home-relief.md)
 - [§ 94 Federal donated commodities](94-federal-donated-commodities.md)
 - [§ 95 Supplemental nutrition assistance program (SNAP)](95-supplemental-nutrition-assistance-program-snap.md)
-- [§ 95-A State food stamp outreach program](95a-state-food-stamp-outreach-program.md)
+- [§ 95-A State supplemental nutrition assistance program outreach program](95a-state-supplemental-nutrition-assistance-program.md)
 - [§ 96 Use of subprofessional staff](96-use-of-subprofessional-staff.md)
 - [§ 97 Low-income home energy assistance program](97-low-income-home-energy-assistance-program.md)
 
@@ -53,7 +53,8 @@ Section 80.   Records.
         93.   Provisions for financing home relief.
         94.   Federal donated commodities.
         95.   Supplemental nutrition assistance program (SNAP).
-        95-a. State food stamp outreach program.
+        95-a. State supplemental nutrition assistance program outreach
+                program.
         96.   Use of subprofessional staff.
         97.   Low-income home energy assistance program.
 ```

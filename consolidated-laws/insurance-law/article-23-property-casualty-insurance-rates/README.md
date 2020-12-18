@@ -41,6 +41,7 @@
 - [§ 2335-A Prohibition of rate increases for persons involved in emergency use of vehicles](2335a-prohibition-of-rate-increases-for-persons-involved-in-emergency-use-of-vehicles.md)
 - [§ 2336 Motor vehicle liability, comprehensive and collision insurance rates; premium reductions in certain cases](2336-motor-vehicle-liability-comprehensive-and-collision-insurance-rates-premium.md)
 - [§ 2336-A Snowmobile liability insurance rates; premium reductions in certain cases](2336a-snowmobile-liability-insurance-rates-premium-reductions-in-certain-cases.md)
+- [§ 2336-B Boat liability insurance rates; premium reductions in certain cases](2336b-boat-liability-insurance-rates-premium-reductions-in-certain-cases.md)
 - [§ 2337 Private passenger automobile physical damage insurance; statistics on use of anti-theft devices and the maximum discount for all anti-the...](2337-private-passenger-automobile-physical-damage-insurance-statistics-on-use-of-anti.md)
 - [§ 2338 Appeal from rate service organization action](2338-appeal-from-rate-service-organization-action.md)
 - [§ 2339 Charging or receiving of rates; deviations](2339-charging-or-receiving-of-rates-deviations.md)
@@ -57,6 +58,7 @@
 - [§ 2350 Flexible rating for nonbusiness automobile insurance policies](2350-flexible-rating-for-nonbusiness-automobile-insurance-policies.md)
 - [§ 2351 Homeowners' insurance policies](2351-homeowners-insurance-policies.md)
 - [§ 2352 Multiple rating programs](2352-multiple-rating-programs.md)
+- [§ 2353 For-hire motor vehicle safety program; reduction in rates of certain commercial risk insurance premiums for motor vehicles](2353-for-hire-motor-vehicle-safety-program-reduction-in-rates-of-certain-commercial.md)
 
 <details>
 <summary>Official heading of Article 23, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -117,6 +119,8 @@ Section 2301.   Purpose.
                   insurance rates; premium reductions in certain cases.
         2336-a. Snowmobile liability insurance rates; premium reductions
                   in certain cases.
+        2336-b. Boat liability insurance rates; premium reductions in
+                  certain cases.
         2337.   Private passenger automobile physical damage insurance;
                   statistics on use of anti-theft devices and the
                   maximum discount for all anti-theft devices.
@@ -140,6 +144,9 @@ Section 2301.   Purpose.
                   policies.
         2351.   Homeowners' insurance policies.
         2352.   Multiple rating programs.
+        2353.   For-hire motor vehicle safety program; reduction in
+                  rates of certain commercial risk insurance premiums
+                  for motor vehicles.
 ```
 
 </details>

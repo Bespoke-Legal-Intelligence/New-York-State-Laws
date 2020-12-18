@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 3 — Privilege From Arrest](README.md)
 
 ```text
-  § 28. Medical attention for persons under arrest. When a person is
+  * § 28. Medical attention for persons under arrest. When a person is
 under arrest or otherwise in the custody of a police officer, peace
 officer or other law enforcement representative or entity, such officer,
 representative or entity shall have a duty to provide attention to the
@@ -19,4 +19,5 @@ civil action, the court, in addition to awarding actual damages and
 costs, may award reasonable attorneys' fees to a successful plaintiff.
 The provisions of this section are in addition to, but shall not
 supersede, any other rights or remedies available in law or equity.
+  * NB There are 2 § 28's
 ```

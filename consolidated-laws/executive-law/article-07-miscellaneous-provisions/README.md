@@ -27,6 +27,7 @@
 - [§ 170-B Employee loans](170b-employee-loans.md)
 - [§ 170-B\*2 Racial references contained in state and municipal forms](170b-2-racial-references-contained-in-state-and-municipal-forms.md)
 - [§ 170-C Regulatory penalties for small businesses](170c-regulatory-penalties-for-small-businesses.md)
+- [§ 170-D Programs to assist small businesses; publication of list](170d-programs-to-assist-small-businesses-publication-of-list.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -62,6 +63,8 @@ Section 161.     Certain searches, the filing of papers, and certified
         170-b*2. Racial references contained in state and municipal
                    forms.
         170-c.   Regulatory penalties for small businesses.
+        170-d.   Programs to assist small businesses; publication of
+                   list.
 ```
 
 </details>

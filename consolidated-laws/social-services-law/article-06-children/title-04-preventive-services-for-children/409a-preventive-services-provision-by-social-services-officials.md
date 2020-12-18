@@ -280,4 +280,46 @@ this section shall be disregarded in determining the state's
 expenditures for purposes of federal matching payments under sections
 four hundred twenty-three, four hundred thirty-four and four hundred
 seventy-four of this chapter.
+  11. (a) The office of children and family services shall collect the
+following data regarding preventive services, as defined in section four
+hundred nine of this title, and compile an annual report on such data by
+local social services district:
+  (i) the total number of children and families receiving preventive
+services at the end of each month;
+  (ii) the total annual number of unduplicated children and families
+receiving preventive services including how many new preventive cases
+were opened during the preceding calendar year and to the extent
+practicable, the referral source for each new case;
+  (iii) the average length of time preventive services were provided for
+each child or family during the preceding calendar year, as well as an
+indication of whether such case had been closed during such year;
+  (iv) a descriptive list of the services and their utilization rate in
+each local social services district which utilize preventive service
+funding as allowable under section one hundred fifty-three-k of this
+chapter;
+  (v) a descriptive list, and their utilization rate if practicable, of
+other preventive services provided by a local social services district
+that does not utilize preventive service funding pursuant to section one
+hundred fifty-three-k of this chapter. For purposes of this paragraph,
+other preventive services shall include primary preventive services
+which may be funded through community optional preventive services
+funding, home visiting funds or other federal, state or local funds;
+  (vi) the total number of children who entered foster care during the
+preceding calendar year who had received preventive services at any
+point during the twelve-months prior to their entry into foster care;
+and
+  (vii) any other information the commissioner may deem necessary to
+include in said report.
+  (b) The office of children and family services shall submit such
+report to the governor, the speaker of the assembly, the temporary
+president of the senate, the chairpersons of the assembly and senate
+children and families committees, the chairperson of the assembly ways
+and means committee and the chairperson of the senate finance committee
+starting no later than September first, two thousand twenty-one. Such
+report shall include data and information required by paragraph (a) of
+this subdivision for the preceding calendar year, to the extent such
+information is available. When practicable, such information shall be
+disaggregated by age, sex, race and ethnicity.
+  (c) The initial report shall include the aforementioned data from the
+preceding two calendar years.
 ```

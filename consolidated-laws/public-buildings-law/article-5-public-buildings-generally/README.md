@@ -11,6 +11,7 @@
 - [§ 143 Lighting restrictions](143-lighting-restrictions.md)
 - [§ 144 Lactation room in public buildings](144-lactation-room-in-public-buildings.md)
 - [§ 145 Gender neutral single-occupancy bathrooms](145-gender-neutral-single-occupancy-bathrooms.md)
+- [§ 146 Prohibit symbols of hate](146-prohibit-symbols-of-hate.md)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -24,6 +25,7 @@ Section 140. Fire and emergency protection in public buildings.
         143. Lighting restrictions.
         144. Lactation room in public buildings.
         145. Gender neutral single-occupancy bathrooms.
+        146. Prohibit symbols of hate.
 ```
 
 </details>

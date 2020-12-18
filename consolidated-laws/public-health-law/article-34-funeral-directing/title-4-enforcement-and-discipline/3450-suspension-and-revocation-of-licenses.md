@@ -47,42 +47,25 @@ undertaker, or embalmer, or funeral director;
 temporarily or permanently, of his license or certificate of
 registration thereof or of the certificate of registration of such
 funeral firm to any other person, partnership or corporation;
-  * (l) has paid, given, has caused to be paid or given or offered to
-pay or to give to any person a commission or other valuable
-consideration for the solicitation or procurement, either directly or
-indirectly, of funeral patronage, or has accepted any consideration
-(including without limitation a commission, rebate, or discount or
-direct or indirect price reduction on merchandise from the current value
-thereof) from any financial institution or trust company, or agent
-thereof, with whom the funeral director deposits funds paid for funeral
-services in advance of need pursuant to subdivision one of section four
-hundred fifty-three of the general business law except that the funeral
-director may accept, from the financial institution, trust company or
-agent thereof, up to twenty-five hundredths of one percent of the fee
-authorized under paragraph (b) of subdivision three of section four
-hundred fifty-three of the general business law for administrative
-services provided by the funeral director, or has accepted any
-consideration (including without limitation a commission or gift) from
-any insurer or agent thereof, to sell, offer or promote the sale of any
-policy of insurance payable, expressly or as marketed, at the death of
-the insured for funeral or burial expenses;
-  * NB Effective until June 30, 2022
-  * (l) has paid, given, has caused to be paid or given or offered to
-pay or to give to any person a commission or other valuable
-consideration for the solicitation or procurement, either directly or
-indirectly, of funeral patronage, or has accepted any consideration
-(including without limitation a commission, rebate, or discount or
-direct or indirect price reduction on merchandise from the current value
-thereof) from any financial institution or trust company, or agent
-thereof, with whom the funeral director deposits funds paid for funeral
-services in advance of need pursuant to subdivision one of section four
-hundred fifty-three of the general business law except that the funeral
-director may accept, from the financial institution, trust company or
-agent thereof, up to twenty-five hundredths of one percent of the fee
-authorized under paragraph (b) of subdivision three of section four
-hundred fifty-three of the general business law for administrative
-services provided by the funeral director;
-  * NB Effective June 30, 2022
+  (l) has paid, given, has caused to be paid or given or offered to pay
+or to give to any person a commission or other valuable consideration
+for the solicitation or procurement, either directly or indirectly, of
+funeral patronage, or has accepted any consideration (including without
+limitation a commission, rebate, or discount or direct or indirect price
+reduction on merchandise from the current value thereof) from any
+financial institution or trust company, or agent thereof, with whom the
+funeral director deposits funds paid for funeral services in advance of
+need pursuant to subdivision one of section four hundred fifty-three of
+the general business law except that the funeral director may accept,
+from the financial institution, trust company or agent thereof, up to
+twenty-five hundredths of one percent of the fee authorized under
+paragraph (b) of subdivision three of section four hundred fifty-three
+of the general business law for administrative services provided by the
+funeral director, or has accepted any consideration (including without
+limitation a commission or gift) from any insurer or agent thereof, to
+sell, offer or promote the sale of any policy of insurance payable,
+expressly or as marketed, at the death of the insured for funeral or
+burial expenses;
   (m) has been guilty of fraudulent, misleading or deceptive
 advertising;
   (n) has practiced funeral directing, undertaking or embalming, or has

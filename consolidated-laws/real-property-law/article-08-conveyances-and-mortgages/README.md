@@ -55,6 +55,7 @@
 - [§ 280 Reverse mortgage loans for persons sixty years of age or older](280-reverse-mortgage-loans-for-persons-sixty-years-of-age-or-older.md)
 - [§ 280-A Reverse mortgage loans for persons seventy years of age or older](280a-reverse-mortgage-loans-for-persons-seventy-years-of-age-or-older.md)
 - [§ 280-B Federal home equity conversion mortgage regulation](280b-federal-home-equity-conversion-mortgage-regulation.md)
+- [§ 280-D Federal home equity conversion mortgage default and foreclosure regulation](280d-federal-home-equity-conversion-mortgage-default-and-foreclosure-regulation.md)
 - [§ 281 Credit line mortgage](281-credit-line-mortgage.md)
 - [§ 282 Mortgagor's right to recover attorneys' fees in actions or proceedings arising out of foreclosures of residential property](282-mortgagors-right-to-recover-attorneys-fees-in-actions-or-proceedings-arising-out.md)
 
@@ -136,6 +137,8 @@ Section 240.   Definitions and use of terms.
         280-a. Reverse mortgage loans for persons seventy years of age
                  or older.
         280-b. Federal home equity conversion mortgage regulation.
+        280-d. Federal home equity conversion mortgage default and
+                 foreclosure regulation.
         281.   Credit line mortgage.
         282.   Mortgagor's right to recover attorneys' fees in actions
                  or proceedings arising out of foreclosures of

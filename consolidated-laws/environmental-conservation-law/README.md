@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,787 |
-| Last changed | 4 Dec 2020 |
+| Sections | 1,788 |
+| Last changed | 18 Dec 2020 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -29,10 +29,11 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
   Jersey and New York and the commonwealth of Pennsylvania in
 ```
 
-[Full chapter text (107 lines)](chapter-text.md)
+[Full chapter text (105 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [18 Dec 2020](../../changes/2020/2020-12-18.md): 4 amended, 1 added
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 4 amended, 1 added
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 2 amended
 - [25 Sep 2020](../../changes/2020/2020-09-25.md): 1 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [22 May 2020](../../changes/2020/2020-05-22.md): 1 amended
 - [8 May 2020](../../changes/2020/2020-05-08.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 37 amended, 1 added, 2 removed
-- [17 Apr 2020](../../changes/2020/2020-04-17.md): 8 amended, 25 added
 
 ## Contents
 

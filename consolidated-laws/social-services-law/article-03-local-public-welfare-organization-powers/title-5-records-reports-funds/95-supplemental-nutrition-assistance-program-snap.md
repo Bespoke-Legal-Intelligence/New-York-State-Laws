@@ -13,7 +13,20 @@ relative to the submission and approval of such plan, and may make such
 arrangements and take such action, not inconsistent with law, as may be
 required to obtain and retain such approval, to implement such plan, and
 to secure for the state the benefits available.
-  (b) The office is authorized to accept a designation, in accordance
+  (b) The office shall promptly seek necessary federal approval needed
+to enter into an agreement with all grocery retailers prepared to offer
+SNAP online purchasing or subsequently available programs in order to
+maximize availability of online fresh food purchasing options throughout
+the state. Within one hundred eighty days after the effective date of
+this paragraph, the office shall develop a plan to maximize SNAP online
+purchasing options in the state. The office shall periodically review
+and revise the plan. The plan, and any updates of such plan, shall be
+submitted to the governor, the speaker of the assembly, and the
+temporary president of the senate. The office shall continue to seek all
+necessary waivers from the United States department of agriculture, food
+and nutrition service, to the extent necessary for the office to carry
+out the plan, pursuant to federal law and regulations.
+  (c) The office is authorized to accept a designation, in accordance
 with the provisions of section twenty-nine of this chapter, under any
 other federal law which may make SNAP benefits available for needy
 families and individuals, and to perform such functions as may be
@@ -87,9 +100,12 @@ participate:
 by the recipient or by an authorized representative. When an eligible
 recipient under this section is issued SNAP benefits, such SNAP benefits
 may be used to purchase food items from a food distributor by the
-recipient or by an authorized representative. Any other transfer or sale
-of authorizations to participate or SNAP benefits shall constitute an
-unauthorized use of said authorizations or benefits;
+recipient or by an authorized representative. Recipients shall be able
+to use SNAP benefits to purchase groceries from eligible online grocery
+retailers and to have groceries delivered pursuant to federal laws and
+regulations. Any other transfer or sale of authorizations to participate
+or SNAP benefits shall constitute an unauthorized use of said
+authorizations or benefits;
   (ii) Shall require the office of temporary and disability assistance
 to provide the state education department a dataset which contains a
 listing of students ages three to eighteen who receive federal

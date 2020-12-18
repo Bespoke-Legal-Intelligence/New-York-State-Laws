@@ -4,7 +4,7 @@
 [General Obligations Law](../../README.md) › [Article 5 — Creation, Definition and Enforcement of Contractual Obligations](../README.md) › [Title 15 — Statutory Short Form and Other Powers of Attorney For Financial and Estate Planning](README.md)
 
 ```text
-  § 5-1514. Certain gift transactions; formal requirements; statutory
+  * § 5-1514. Certain gift transactions; formal requirements; statutory
 form. 1. If the principal intends to authorize the agent to make gifts
 other than gifts authorized by subdivision fourteen of section 5-1502I
 of this title, the principal must expressly grant such authority either
@@ -282,4 +282,5 @@ Address                            Address
 ___________________________        _________________________
 City, State, Zip code              City, State, Zip code
 (g) This document prepared by: ____________________________"
+  * NB Repealed June 13, 2021
 ```

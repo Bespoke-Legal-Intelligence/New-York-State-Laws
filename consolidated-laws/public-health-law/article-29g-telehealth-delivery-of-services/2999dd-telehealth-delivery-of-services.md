@@ -23,4 +23,20 @@ three hundred sixty-seven-u of the social services law; and (b) be
 designed to assist consumers, providers, and health plans in
 understanding and facilitating the appropriate use of telehealth in
 addressing barriers to care.
+  3. (a) Dental telehealth services shall adhere to the standards of
+appropriate patient care required in other dental health care settings,
+including but not limited to appropriate patient examination, taking of
+x-rays, and review of a patient's medical and dental history. All dental
+telehealth providers shall identify themselves to patients, including
+providing the professional's New York state license number. No dental
+telehealth provider shall attempt to waive liability for its telehealth
+services in advance of delivering such telehealth services and no dental
+telehealth provider shall attempt to prevent a patient from filing any
+complaint with any governmental agency or authority.
+  (b) This subdivision shall not be construed to diminish requirements
+for other telehealth services.
+  4. Nothing in this article shall be deemed to allow any person to
+provide any service for which a license, registration, certification or
+other authorization under title eight of the education law is required
+and which the person does not possess.
 ```

@@ -83,6 +83,30 @@ as well as the availability of such services, including the geographic
 location of such housing or service; and (4) any other information the
 office of temporary and disability assistance deems appropriate.
   * NB Effective May 10, 2021
+  * NB There are 2 sb (d-1)'s
+  * (d-1)(1) in consultation with each local health department in the
+county in which the homeless shelter is located, the commissioner of the
+department of health, the commissioners of the department of homeless
+services, and the commissioner of the New York city department of health
+and mental hygiene, shall collect information regarding the sheltered
+and unsheltered homeless population, during a state disaster emergency,
+declared pursuant to executive order two hundred two of two thousand
+twenty in response to the novel coronavirus (COVID-19) pandemic,
+including but not limited to:
+  (i) the number of confirmed infected individuals;
+  (ii) the number of hospitalizations;
+  (iii) the number of deaths;
+  (iv) information regarding the individual, if known; (a) age; (b)
+race; (c) family composition; (d) shelter status; (e) type of shelter
+including: family shelter, a shelter for adults, a hotel, an emergency
+apartment, a domestic violence shelter, a runaway and homeless youth
+shelter, or as a safe house for refugees; (f) any known risk factors;
+and (g) any other information the office deems appropriate.
+  (2) utilizing the information collected pursuant to paragraph (1) of
+this subdivision, the commissioners shall publish a report containing
+such information aggregated by county and post it on the website of each
+respective agency.
+  * NB There are 2 sb (d-1)'s
   (e) work cooperatively with the commissioner of the office of mental
 health and the commissioner of the office for people with developmental
 disabilities to assist the commissioner of education in furnishing
@@ -330,4 +354,50 @@ any other person for the payment of mortgages or liens.
   * (k) exercise such other powers and perform such other duties as may
 be imposed by law.
   * NB Repealed March 31, 2022
+  (l) submit a report to the governor, the speaker of the assembly and
+the temporary president of the senate beginning December thirty-first,
+two thousand twenty, and quarterly thereafter, regarding youth placed in
+foster care settings and the recruitment of foster parents. Such report
+shall be made publicly available online and shall provide information,
+as required pursuant to this subdivision, aggregated by local social
+services districts and foster care settings. For the purposes of this
+subdivision, foster care settings shall include, but not be limited to,
+foster boarding homes, approved relative homes, group homes, group
+residences, agency operated boarding homes, supervised independent
+living arrangements, therapeutic foster care and child care
+institutions. The report shall include, but not be limited to, the
+following information:
+  (i) the total number of youth placed in a foster care setting at the
+time of the report, as well as a comparison to the total number of youth
+in care since the previous report was submitted;
+  (ii) the reasons why such youth have been placed in a foster care
+setting, with the total number of youth per category at the time of the
+report. Such reasons shall include, but not be limited to, voluntary
+placement pursuant to section three hundred fifty-eight-a of this
+chapter, a termination of parental rights pursuant to section three
+hundred eighty-four-b of this chapter, placements pursuant to articles
+ten and ten-C of the family court act, or pursuant to a contract, grant
+or other agreement with the federal government;
+  (iii) to the extent such information is available, the total number of
+youth placed in a foster care setting at the time of the report that are
+in need of or receiving specialized services, either due to a mental
+health illness or another disorder that may require additional supports
+and services, including specialized educational services;
+  (iv) to the extent such information is available, how many youth at
+the time of the report have been previously placed in a foster care
+setting in the state;
+  (v) the total number of foster families that are currently certified
+in the state at the time of the report and whether that number has
+increased or decreased since the previous report was submitted;
+  (vi) how many children and/or families have received preventive
+services through a local social services district, and of those children
+and/or families, how many youth were successfully kept out of foster
+care due to such services within the last calendar year for the initial
+report, and then since the previous report was submitted for all
+subsequent reports;
+  (vii) the total number of placement options that have been certified
+as a qualified residential treatment program, as defined by 42 USCS §
+672; and
+  (viii) the efforts the state has taken to recruit and retain foster
+parents in the state.
 ```
