@@ -9,6 +9,7 @@
 - [§ 5-302 Enrollment; completion](5-302-enrollment-completion.md)
 - [§ 5-304 Enrollment; change of enrollment or new enrollment by previously registered voters](5-304-enrollment-change-of-enrollment-or-new-enrollment-by-previously.md)
 - [§ 5-306 Enrollment; correction of](5-306-enrollment-correction.md)
+- [§ 5-308 Enrollment; automatic voter registration](5-308-enrollment-automatic-voter-registration.md)
 - [§ 5-310 Enrollment; forms of affidavits, mailing requirements](5-310-enrollment-forms-of-affidavits-mailing-requirements.md)
 
 <details>
@@ -19,9 +20,10 @@
                                ENROLLMENT
 Section 5-300. Enrollment; generally.
         5-302. Enrollment; completion.
-        5-304. Enrollment;  change  of  enrollment  or new enrollment by
+        5-304. Enrollment; change of enrollment or new enrollment by
                  previously registered voters.
         5-306. Enrollment; correction of.
+        5-308. Enrollment; automatic voter registration.
         5-310. Enrollment; forms of affidavits, mailing requirements.
 ```
 

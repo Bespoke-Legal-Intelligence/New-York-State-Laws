@@ -1,0 +1,36 @@
+﻿<!-- nyslaw {"citation": "Election Law § 5-904", "kind": "section", "law_id": "ELN", "location_id": "5-904", "path": "ARTICLE 5 › TITLE 9 › SECTION 5-904", "repealed": false, "repealed_date": null, "source": "nys-laws:ELN/5-904.md", "title": "Presumption of innocent authorized error"} -->
+# Election Law § 5-904 — Presumption of innocent authorized error
+
+[Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 9 — Automatic Voter Registration](README.md)
+
+```text
+  * § 5-904. Presumption of innocent authorized error. 1.
+Notwithstanding subdivision six of section 5-210 of this article or any
+other law to the contrary, a person who is ineligible to vote who fails
+to decline to register or pre-register to vote in accordance with the
+provisions of this section and did not willfully and knowingly seek to
+register or pre-register to vote knowing that he or she is not eligible
+to do so:
+  (a) shall not be guilty of any crime as the result of the applicant's
+failure to make such declination;
+  (b) shall be deemed to have been registered or pre-registered with
+official authorization; and
+  (c) such act may not be considered as evidence of a claim to
+citizenship.
+  2. Notwithstanding subdivision six of section 5-210 of this article or
+any other law to the contrary, a person who is ineligible to vote who
+fails to decline to register or pre-register to vote in accordance with
+the provisions of this section, who then either votes or attempts to
+vote in an election held after the effective date of that person's
+registration, and who did not willfully and knowingly seek to register
+or pre-register to vote knowing that he or she is not eligible to do so,
+and did not subsequently vote or attempt to vote knowing that he or she
+is not eligible to do so:
+  (a) shall not be guilty of any crime as the result of the applicant's
+failure to make such declination and subsequent vote or attempt to vote;
+  (b) shall be deemed to have been registered or pre-registered with
+official authorization; and
+  (c) such act may not be considered as evidence of a claim to
+citizenship.
+  * NB Effective January 1, 2023
+```

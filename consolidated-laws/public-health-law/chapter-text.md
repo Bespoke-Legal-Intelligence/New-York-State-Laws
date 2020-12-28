@@ -169,7 +169,7 @@ Article
             committee (§§2490--2490-a).
   24-E.    Information about hysterectomy (§§2495--2499-a).
   25.      Maternal and child health
-           Title    I.   General provisions (§§2500--2509-a).
+           Title    I.   General provisions (§§2500--2509-b).
                   I-A.   Child health insurance plan (§§2510-2511).
                   1-B.   Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).

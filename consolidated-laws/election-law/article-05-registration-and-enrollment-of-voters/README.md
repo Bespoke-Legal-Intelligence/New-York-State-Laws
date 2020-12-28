@@ -13,6 +13,7 @@
 - [Title 6 — Filing and Custody of Registration Records](title-06-filing-and-custody-of-registration/)
 - [Title 7 — Checks Against Fraudulent Practices](title-07-checks-against-fraudulent-practices/)
 - [Title 8 — Electronic Personal Voter Registration Process](title-08-electronic-personal-voter/)
+- [Title 9 — Automatic Voter Registration](title-09-automatic-voter-registration/)
 
 <details>
 <summary>Official heading of Article 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -28,6 +29,7 @@ TITLE    I. General provisions.
         VI. Filing and custody of registration records.
        VII. Checks against fraudulent practices.
       VIII. Electronic personal voter registration process.
+        IX. Automatic voter registration.
 ```
 
 </details>

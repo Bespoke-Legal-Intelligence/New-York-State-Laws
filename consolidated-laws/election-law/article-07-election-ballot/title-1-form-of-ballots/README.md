@@ -10,7 +10,6 @@
 - [§ 7-104 Ballots; form of](7-104-ballots-form.md)
 - [§ 7-105 Ballot accountability](7-105-ballot-accountability.md)
 - [§ 7-106 Ballots; form of, for ballot scanners, general, primary, or special elections; additional requirements](7-106-ballots-form-of-for-ballot-scanners-general-primary-or-special-elections.md)
-- [§ 7-108 Ballots; form for elections](7-108-ballots-form-for-elections.md) *(repealed)*
 - [§ 7-110 Ballots; form for ballot proposals; additional requirements](7-110-ballots-form-for-ballot-proposals-additional-requirements.md)
 - [§ 7-114 Ballots; form for primary election; additional requirements](7-114-ballots-form-for-primary-election-additional-requirements.md)
 - [§ 7-116 Ballots; order of names on](7-116-ballots-order-of-names.md)

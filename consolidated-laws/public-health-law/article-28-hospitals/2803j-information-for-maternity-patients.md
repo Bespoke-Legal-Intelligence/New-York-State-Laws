@@ -4,23 +4,50 @@
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 
 ```text
-  * § 2803-j. Information for maternity patients.  1. The commissioner
-shall require that every hospital and birth center shall prepare in
-printed or photocopied form and distribute at the time of pre-booking
-directly to each prospective maternity patient and, upon request, to the
-general public an informational leaflet. Such leaflet shall be designed
-by the commissioner and shall contain brief definitions of maternity
-related procedures and practices as specified in subdivision two of this
-section and such other material as deemed appropriate by the
-commissioner. Hospitals and birth centers may also elect to distribute
-additional explanatory material along with the maternity patients
-informational leaflet. The commissioner shall make the information
-contained in the leaflet available on the department's website.
-  1-a. The informational leaflet shall also include an explanation of
+  * § 2803-j. Information for maternity patients.  ** 1. The
+commissioner shall require that every hospital and birth center shall
+prepare in printed or photocopied form and distribute at the time of
+pre-booking directly to each prospective maternity patient and, upon
+request, to the general public an informational leaflet. Such leaflet
+shall be designed by the commissioner and shall contain brief
+definitions of maternity related procedures and practices as specified
+in subdivision two of this section and such other material as deemed
+appropriate by the commissioner. Hospitals and birth centers may also
+elect to distribute additional explanatory material along with the
+maternity patients informational leaflet. The commissioner shall make
+the information contained in the leaflet available on the department's
+website.
+  ** NB Effective until February 20, 2021
+  ** 1. The commissioner shall require that every hospital and birth
+center shall prepare in printed or photocopied form and distribute at
+the time of pre-booking directly to each prospective maternity patient
+and, upon request, to the general public an informational leaflet. Such
+leaflet shall also be distributed to any expectant mother who presents
+at the hospital during pregnancy. Such leaflet shall be designed by the
+commissioner and shall contain brief definitions of maternity related
+procedures and practices as specified in subdivision two of this section
+and such other material as deemed appropriate by the commissioner.
+Hospitals and birth centers may also elect to distribute additional
+explanatory material along with the maternity patients informational
+leaflet. The commissioner shall make the information contained in the
+leaflet available on the department's website.
+  ** NB Effective February 20, 2021
+  ** 1-a. The informational leaflet shall also include an explanation of
 the special provisions relating to maternity care and coverage under the
 insurance law and section two thousand eight hundred three-n of this
 chapter, and suggest that expectant parents check their insurance
 policies for the details of their maternity coverage.
+  ** NB Effective until February 20, 2021
+  ** 1-a. The informational leaflet shall also include:
+  (a) an explanation of the special provisions relating to maternity
+care and coverage under the insurance law and section twenty-eight
+hundred three-n of this article, and suggest that expectant parents
+check their insurance policies for the details of their maternity
+coverage; and
+  (b) a statement that the medical assistance program provides coverage
+for all income-eligible pregnant women and children residing in the
+state regardless of immigration status.
+  ** NB Effective February 20, 2021
   1-b. The informational leaflet shall also include information relating
 to the physical and mental health of the maternity patient after
 discharge from the hospital, including, but not limited to, information
@@ -42,6 +69,11 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
+  ** 1-f. The informational leaflet shall also include information
+relating to pre-term labor and premature birth, including but not
+limited to definitions and information on the risks that pre-term labor
+and premature birth pose to the expectant mother and fetus.
+  ** NB Effective February 20, 2021
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
 birth center, as provided by the commissioner, including but not limited

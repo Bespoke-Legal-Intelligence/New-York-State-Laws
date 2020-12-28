@@ -11,6 +11,7 @@
 - [§ 2-B Use of student social security numbers restricted](2b-use-of-student-social-security-numbers-restricted.md)
 - [§ 2-C Release of student information to certain entities](2c-release-of-student-information-to-certain-entities.md)
 - [§ 2-D Unauthorized release of personally identifiable information](2d-unauthorized-release-of-personally-identifiable.md)
+- [§ 2-E Use of biometric identifying technology](2e-use-of-biometric-identifying-technology.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,6 +26,7 @@ Section 1.   Short title.
         2-c. Release of student information to certain entities.
         2-d. Unauthorized release of personally identifiable
                information.
+        2-e. Use of biometric identifying technology.
 ```
 
 </details>

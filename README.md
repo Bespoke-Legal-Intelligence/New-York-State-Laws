@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 18 Dec 2020.*
+*Current through the publication of 28 Dec 2020.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [28 Dec 2020](changes/2020/2020-12-28.md): Civil Rights Law; Domestic Relations Law; Education Law; Election Law; Environmental Conservation Law; Public Health Law; Public Housing Law
 - [18 Dec 2020](changes/2020/2020-12-18.md): Agriculture and Markets Law; Civil Rights Law; Criminal Procedure Law; Economic Development Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Municipal Law; General Obligations Law; Insurance Law; Judiciary Law; Navigation Law; Not-for-Profit Corporation Law; Penal Law; Public Buildings Law; Public Health Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Law; Social Services Law; State Finance Law; Uniform City Court Act
 - [11 Dec 2020](changes/2020/2020-12-11.md): General City Law; Public Health Law
 - [4 Dec 2020](changes/2020/2020-12-04.md): Agriculture and Markets Law; Civil Rights Law; Correction Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; Highway Law; Mental Hygiene Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Social Services Law; Tax Law; Town Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [13 Nov 2020](changes/2020/2020-11-13.md): Banking Law; Civil Practice Law and Rules; Civil Rights Law; Civil Service Law; Correction Law; County Law; Criminal Procedure Law; Domestic Relations Law; Economic Development Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Family Court Act; General Business Law; General City Law; General Construction Law; General Municipal Law; Highway Law; Insurance Law; Judiciary Law; Labor Law; Mental Hygiene Law; Military Law; Private Housing Finance Law; Public Health Law; Public Housing Law; Public Officers Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Social Services Law; Tax Law; Town Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [6 Nov 2020](changes/2020/2020-11-06.md): Criminal Procedure Law; Family Court Act; Penal Law; Vehicle and Traffic Law
 - [16 Oct 2020](changes/2020/2020-10-16.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Civil Practice Law and Rules; Correction Law; County Law; Election Law; Executive Law; General Business Law; General City Law; General Construction Law; General Municipal Law; Highway Law; Insurance Law; Labor Law; New York City Civil Court Act; Parks, Recreation and Historic Preservation Law; Public Health Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; State Finance Law; Town Law; Vehicle and Traffic Law
-- [9 Oct 2020](changes/2020/2020-10-09.md): Domestic Relations Law; Highway Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 330 |
-| [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 175 |
-| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 157 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 148 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 144 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 131 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 118 |
-| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 109 |
-| [Education Law](consolidated-laws/education-law/README.md) | 99 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 95 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 94 |
-| [Family Court Act](court-acts/family-court-act/README.md) | 94 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 87 |
-| [Election Law](consolidated-laws/election-law/README.md) | 85 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 78 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 265 |
+| [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 173 |
+| [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 151 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 136 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 131 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 116 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 108 |
+| [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 104 |
+| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 93 |
+| [Family Court Act](court-acts/family-court-act/README.md) | 91 |
+| [Education Law](consolidated-laws/education-law/README.md) | 88 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 85 |
+| [Election Law](consolidated-laws/election-law/README.md) | 83 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 71 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 58 |
 
 ## Consolidated Laws
 
@@ -58,22 +58,22 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Business Corporation Law](consolidated-laws/business-corporation-law/README.md) | BSC | 249 | 3 Jul 2020 |
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 24 Apr 2020 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 796 | 13 Nov 2020 |
-| [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 123 | 18 Dec 2020 |
+| [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 123 | 28 Dec 2020 |
 | [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 171 | 13 Nov 2020 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 327 | 4 Dec 2020 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 400 | 13 Nov 2020 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | CPL | 582 | 18 Dec 2020 |
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 10 Apr 2020 |
-| [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 13 Nov 2020 |
+| [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 28 Dec 2020 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 174 | 18 Dec 2020 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,898 | 4 Dec 2020 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,899 | 28 Dec 2020 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 19 Jun 2020 |
-| [Election Law](consolidated-laws/election-law/README.md) | ELN | 419 | 18 Dec 2020 |
+| [Election Law](consolidated-laws/election-law/README.md) | ELN | 423 | 28 Dec 2020 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
 | [Employers' Liability Law](consolidated-laws/employers-liability-law/README.md) | EML | 18 | no change since 22 Sep 2014 (start of history) |
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 24 Apr 2020 |
-| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,788 | 18 Dec 2020 |
+| [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,788 | 28 Dec 2020 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 17 Apr 2020 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 918 | 18 Dec 2020 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 47 | 2 Oct 2020 |
@@ -108,8 +108,8 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 4 Dec 2020 |
 | [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,168 | 4 Dec 2020 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 54 | 18 Dec 2020 |
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,707 | 18 Dec 2020 |
-| [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 13 Nov 2020 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,708 | 28 Dec 2020 |
+| [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 28 Dec 2020 |
 | [Public Lands Law](consolidated-laws/public-lands-law/README.md) | PBL | 78 | 20 Dec 2019 |
 | [Public Officers Law](consolidated-laws/public-officers-law/README.md) | PBO | 115 | 13 Nov 2020 |
 | [Public Service Law](consolidated-laws/public-service-law/README.md) | PBS | 262 | 18 Dec 2020 |
