@@ -12,6 +12,7 @@
 - [Title 5 — Typhoid Fever](title-5-typhoid-fever/)
 - [Title 6 — Poliomyelitis and Other Diseases](title-6-poliomyelitis-and-other-diseases/)
 - [Title 7 — Hepatitis C](title-7-hepatitis-c/)
+- [Title 8 — Novel Coronavirus, Covid-19](title-8-novel-coronavirus-covid-19/)
 
 <details>
 <summary>Official heading of Article 21, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -25,7 +26,8 @@ Title   I. General provisions (§§ 2100-2112).
        IV. Rabies (§§ 2140-2146).
         V. Typhoid fever (§§ 2150-2153).
        VI. Poliomyelitis and other diseases (§§ 2160-2168).
-      VII. Hepatitis C (§§ 2170-2171)
+      VII. Hepatitis C (§§ 2170-2171).
+        8. Novel coronavirus, COVID-19 (§§ 2180-2182).
 ```
 
 </details>

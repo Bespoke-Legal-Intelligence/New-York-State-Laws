@@ -33,6 +33,7 @@
 - [§ 409-J Emergency alert notification system in public schools; cities with a population of one million or more](409j-emergency-alert-notification-system-in-public.md)
 - [§ 409-K Pesticide alternatives](409k-pesticide-alternatives.md)
 - [§ 409-L Posting child abuse hotline telephone number](409l-posting-child-abuse-hotline-telephone-number.md)
+- [§ 409-M Gender neutral single-occupancy bathroom facilities](409m-gender-neutral-single-occupancy-bathroom-facilities.md)
 - [§ 410 Officials not to be interested in sales, leases or contracts](410-officials-not-to-be-interested-in-sales-leases.md)
 - [§ 412 Condemnation of schoolhouse and erection of new schoolhouse in place thereof](412-condemnation-of-schoolhouse-and-erection-of-new.md)
 - [§ 413 Use of school buildings for examinations](413-use-of-school-buildings-for-examinations.md)
@@ -90,6 +91,7 @@ Section 401.   Sites; designation and change.
                  cities with a population of one million or more.
         409-k. Pesticide alternatives.
         409-l. Posting child abuse hotline telephone number.
+        409-m. Gender neutral single-occupancy bathroom facilities.
         410.   Officials not to be interested in sales, leases or
                  contracts.
         412.   Condemnation of schoolhouse and erection of new

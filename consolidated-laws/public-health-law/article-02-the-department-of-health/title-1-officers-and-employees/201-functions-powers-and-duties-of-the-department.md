@@ -76,14 +76,13 @@ information shall be provided in accordance with the requirements set
 forth in subdivision two of section four hundred eighty-three-h of the
 social services law. Such information shall be made available no less
 than once a year.
-  * (x) produce an annual report analyzing the costs related to the
-sexual assault examination direct reimbursement program as created under
+  (x) produce an annual report analyzing the costs related to the sexual
+assault examination direct reimbursement program as created under
 subdivision thirteen of section six hundred thirty-one of the executive
 law and provide such report to the office of victim services on or
 before September first of each year. Such report shall be provided to
 the governor, temporary president of the senate and the speaker of the
 assembly.
-  * NB Effective June 15, 2020
   2. The department shall continue to exercise all of the functions,
 powers and duties which have been prescribed by law and which are being
 exercised by it when this chapter takes effect together with such

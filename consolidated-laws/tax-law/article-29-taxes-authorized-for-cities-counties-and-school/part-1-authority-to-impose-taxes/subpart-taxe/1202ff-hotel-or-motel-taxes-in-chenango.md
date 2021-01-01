@@ -4,7 +4,7 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  § 1202-ff. Hotel or motel taxes in Chenango county. (1)
+  * § 1202-ff. Hotel or motel taxes in Chenango county. (1)
 Notwithstanding any other provisions of law to the contrary, the county
 of Chenango is hereby authorized and empowered to adopt and amend local
 laws imposing in such county a tax, in addition to any other tax
@@ -122,4 +122,5 @@ from the effective date of its enactment. Nothing in this section shall
 prohibit the adoption and enactment of local laws, pursuant to the
 provisions of this section, upon the expiration of any other local law
 adopted pursuant to this section.
+  * NB There are 2 § 1202-ff's
 ```

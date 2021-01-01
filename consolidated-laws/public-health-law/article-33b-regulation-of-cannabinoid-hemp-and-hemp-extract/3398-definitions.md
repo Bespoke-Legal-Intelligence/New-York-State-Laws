@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398.  Definitions. As used in this article, the following terms
+  § 3398.  Definitions. As used in this article, the following terms
 shall have the following meanings, unless the context clearly requires
 otherwise:
   1. "Cannabinoid" means the phytocannabinoids found in hemp and does
@@ -53,5 +53,4 @@ authorized pursuant to article twenty-nine of the agriculture and
 markets law; or
   (b) mere transportation, such as by common carrier or another entity
 or individual.
-  * NB Effective May 1, 2020
 ```

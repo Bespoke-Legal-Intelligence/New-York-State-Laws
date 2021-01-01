@@ -4,10 +4,10 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398-a. Rulemaking authority. The commissioner may make
-regulations pursuant to this article for the processing, distribution,
-marketing, transportation and sale of cannabinoid hemp and hemp extracts
-used for human consumption, which may include, but not be limited to:
+  § 3398-a. Rulemaking authority. The commissioner may make regulations
+pursuant to this article for the processing, distribution, marketing,
+transportation and sale of cannabinoid hemp and hemp extracts used for
+human consumption, which may include, but not be limited to:
   1. Specifying forms, establishing application, reasonable
 administration and renewal fees, or license duration;
   2. Establishing the qualifications and criteria for licensing, as
@@ -32,5 +32,4 @@ of licenses, consistent with the state administrative procedures act;
   10. Restrictions governing the advertising and marketing of
 cannabinoid hemp, hemp extract and products derived therefrom; and
   11. Any other regulations necessary to implement this article.
-  * NB Effective May 1, 2020
 ```

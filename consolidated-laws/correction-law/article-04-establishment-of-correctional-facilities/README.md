@@ -11,11 +11,11 @@
 - [§ 72 Confinement of persons by the department](72-confinement-of-persons-by-the-department.md)
 - [§ 72-A Community treatment facilities](72a-community-treatment-facilities.md)
 - [§ 72-B Discharge of inmates to adult care facilities](72b-discharge-of-inmates-to-adult-care-facilities.md)
+- [§ 72-C Placement of individuals with children](72c-placement-of-individuals-with-children.md)
 - [§ 73 Residential treatment facilities](73-residential-treatment-facilities.md)
 - [§ 74 Discharge on holidays, Saturdays and Sundays](74-discharge-on-holidays-saturdays-and-sundays.md)
 - [§ 75 Notice of voting rights](75-notice-of-voting-rights.md)
 - [§ 76 Notice of transitional services for inmates released from correctional facilities](76-notice-of-transitional-services-for-inmates-released-from-correctional.md)
-- [§ 77 Adolescent offender facilities](77-adolescent-offender-facilities.md) *(repealed)*
 - [§ 78 Discharge plans](78-discharge-plans.md)
 - [§ 79 Leasing of state institutions to cities or counties for the confinement of prisoners](79-leasing-of-state-institutions-to-cities-or-counties-for-the-confinement.md)
 - [§ 79-A Closure of correctional facilities; notice](79a-closure-of-correctional-facilities-notice.md)
@@ -36,6 +36,7 @@ Section 70.   Establishment, use and designation of correctional
         72.   Confinement of persons by the department.
         72-a. Community treatment facilities.
         72-b. Discharge of inmates to adult care facilities.
+        72-c. Placement of individuals with children.
         73.   Residential treatment facilities.
         74.   Discharge on holidays, Saturdays and Sundays.
         75.   Notice of voting rights.

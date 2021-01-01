@@ -44,5 +44,6 @@ identify the extent to which the department's prior recommendations have
 been successfully implemented in practice and the apparent impact that
 the implementation of such recommended changes has had on breastfeeding
 rates in the preceding years.
+  * NB There are 2 § 2500-l's
   * NB Effective January 1, 2021
 ```

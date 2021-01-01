@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
-§ 27-3001. Definitions.
+* § 27-3001. Definitions.
   For the purposes of this title, the following terms shall have the
 following meanings:
   1. "Covered food service provider" means a person engaged in the
@@ -41,4 +41,5 @@ and beverages.
 polystyrene resin that has not been expanded, extruded, or foamed.
   8. "Store" means a retail or wholesale establishment other than a
 covered food service provider.
+  * NB There are 2 § 27-3001's
 ```

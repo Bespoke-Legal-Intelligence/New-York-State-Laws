@@ -4,11 +4,10 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398-f. Fees. The department may charge licensees a reasonable
+  § 3398-f. Fees. The department may charge licensees a reasonable
 license fee. Such fee may be based on the activities permitted by the
 license, the amount of cannabinoid hemp or hemp extract to be processed
 or extracted by the licensee, the gross annual receipts of the licensee
 for the previous license period, or any other factors reasonably deemed
 appropriate by the department.
-  * NB Effective May 1, 2020
 ```

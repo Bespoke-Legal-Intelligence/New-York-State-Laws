@@ -4,8 +4,8 @@
 [Civil Rights Law](../README.md) › [Article 7 — Miscellaneous Rights and Immunities](README.md)
 
 ```text
-  § 79-p. Recording certain activities. 1. Definitions. For purposes of
-this section, the following terms shall have the following meanings:
+  * § 79-p. Recording certain activities. 1. Definitions. For purposes
+of this section, the following terms shall have the following meanings:
   (a) "Officer" means any peace officer, police officer, security
 officer, security guard or similar official who is engaged in a law
 enforcement activity;
@@ -72,4 +72,5 @@ all other federal law, state law, law of the city of New York or the
 administrative code of the city of New York, and all other civil
 remedies, including monetary damages, created by statute, ordinance,
 regulation or common law.
+  * NB There are 2 § 79-p's
 ```

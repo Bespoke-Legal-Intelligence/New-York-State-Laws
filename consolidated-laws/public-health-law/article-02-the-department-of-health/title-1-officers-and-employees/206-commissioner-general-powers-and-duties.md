@@ -1007,39 +1007,42 @@ policy or practice instituted in facilities operated by the department
 of corrections and community supervision, and in all local correctional
 facilities, as defined in subdivision sixteen of section two of the
 correction law, regarding human immunodeficiency virus (HIV), acquired
-immunodeficiency syndrome (AIDS), and hepatitis C (HCV) including the
-prevention of the transmission of HIV and HCV and the treatment of AIDS,
-HIV and HCV among inmates. Such review shall be performed annually and
-shall focus on whether such HIV, AIDS or HCV policy or practice is
+immunodeficiency syndrome (AIDS), hepatitis C (HCV), and emerging
+infectious diseases, including the prevention of the transmission of and
+the treatment of such infections and diseases among inmates. Such review
+shall be performed annually, and more frequently as determined by the
+commissioner, and shall focus on whether such policy or practice is
 consistent with current, generally accepted medical standards and
-procedures used to prevent the transmission of HIV and HCV and to treat
-AIDS, HIV and HCV among the general public. In performing such reviews,
-in order to determine the quality and adequacy of care and treatment
-provided, department personnel are authorized to enter correctional
-facilities and inspect policy and procedure manuals and medical
-protocols, interview health services providers and inmate-patients,
-review medical grievances, and inspect a representative sample of
-medical records of inmates known to be infected with HIV or HCV or have
-AIDS. Prior to initiating a review of a correctional system, the
-commissioner shall inform the public, including patients, their families
-and patient advocates, of the scheduled review and invite them to
-provide the commissioner with relevant information. Upon the completion
-of such review, the department shall, in writing, approve such policy or
-practice as instituted in facilities operated by the department of
-corrections and community supervision, and in any local correctional
-facility, or, based on specific, written recommendations, direct the
-department of corrections and community supervision, or the authority
-responsible for the provision of medical care to inmates in local
-correctional facilities to prepare and implement a corrective plan to
-address deficiencies in areas where such policy or practice fails to
+procedures used to prevent the transmission of and to treat those
+infections and diseases among the general public. In performing such
+reviews, in order to determine the quality and adequacy of care and
+treatment provided, department personnel are authorized to enter
+correctional facilities and inspect policy and procedure manuals and
+medical protocols, interview health services providers and
+inmate-patients, review medical grievances, and inspect a representative
+sample of medical records of inmates known to be infected with any such
+infections or diseases. Prior to initiating a review of a correctional
+system, the commissioner shall inform the public, including patients,
+their families and patient advocates, of the scheduled review and invite
+them to provide the commissioner with relevant information. Upon the
+completion of such review, the department shall, in writing, approve
+such policy or practice as instituted in facilities operated by the
+department of corrections and community supervision, and in any local
+correctional facility, or, based on specific, written recommendations,
+direct the department of corrections and community supervision, or the
+authority responsible for the provision of medical care to inmates in
+local correctional facilities to prepare and implement a corrective plan
+to address deficiencies in areas where such policy or practice fails to
 conform to current, generally accepted medical standards and procedures.
 The commissioner shall monitor the implementation of such corrective
 plans and shall conduct such further reviews as the commissioner deems
-necessary to ensure that identified deficiencies in HIV, AIDS and HCV
-policies and practices are corrected. All written reports pertaining to
-reviews provided for in this subdivision shall be maintained, under such
+necessary to ensure that identified deficiencies in those policies and
+practices are corrected. All written reports pertaining to reviews
+provided for in this subdivision shall be maintained, under such
 conditions as the commissioner shall prescribe, as public information
-available for public inspection.
+available for public inspection. As used in this subdivision, "emerging
+infectious disease" means an infection that has increased recently or is
+threatening to increase in the near future.
   27. The commissioner shall promulgate regulations to require that a
 manufacturer or other entity selling, leasing, or otherwise providing
 any drug, device, or health care service shall not, directly or

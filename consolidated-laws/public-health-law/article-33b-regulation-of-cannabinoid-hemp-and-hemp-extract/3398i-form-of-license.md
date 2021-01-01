@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398-i. Form of license. Licenses issued pursuant to this article
+  § 3398-i. Form of license. Licenses issued pursuant to this article
 shall specify:
   1. The name and address of the licensee;
   2. The activities permitted by the license;
@@ -14,5 +14,4 @@ licensed activities of the licensee;
 and
   5. Such other information as the commissioner shall deem necessary to
 assure compliance with this chapter.
-  * NB Effective May 1, 2020
 ```

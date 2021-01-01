@@ -4,14 +4,14 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398-m. Packaging and labeling of cannabinoid hemp and hemp
-extract.  1. Cannabinoid hemp processors shall be required to provide
-appropriate label warning to consumers, and restricted from making
-unapproved label claims, as determined by the department, concerning the
-potential impact on or benefit to human health resulting from the use of
-cannabinoid hemp, hemp extract and products derived therefrom for human
-consumption, which labels shall be affixed to those products when sold,
-pursuant to rules and regulations that the department may adopt.
+  § 3398-m. Packaging and labeling of cannabinoid hemp and hemp extract.
+1. Cannabinoid hemp processors shall be required to provide appropriate
+label warning to consumers, and restricted from making unapproved label
+claims, as determined by the department, concerning the potential impact
+on or benefit to human health resulting from the use of cannabinoid
+hemp, hemp extract and products derived therefrom for human consumption,
+which labels shall be affixed to those products when sold, pursuant to
+rules and regulations that the department may adopt.
   2. The department may, by rules and regulations, require processors to
 establish a code, including, but not limited to QR code, for labels and
 establish methods and procedures for determining, among other things,
@@ -28,5 +28,4 @@ grounds for the seizure or quarantine of the product, the imposition of
 a civil penalty against a processor or retailer, and the suspension,
 revocation or cancellation of a license, in accordance with this
 article.
-  * NB Effective May 1, 2020
 ```

@@ -8,7 +8,7 @@
 | Senate code | ELD |
 | Type | Consolidated law, chapter 35-A |
 | Sections | 45 |
-| Last changed | 19 Jun 2020 |
+| Last changed | 1 Jan 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Elder |
 
@@ -31,6 +31,7 @@ Section 101.   Short title.
 
 ## Recent changes
 
+- [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 1 amended
@@ -40,7 +41,6 @@ Section 101.   Short title.
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 1 amended
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 1 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 3 amended
-- [5 Oct 2018](../../changes/2018/2018-10-05.md): 1 added
 
 ## Contents
 

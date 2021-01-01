@@ -14,6 +14,7 @@
 - [§ 37-0113 Lead and mercury-added wheel weights; prohibited](37-0113-lead-and-mercury-added-wheel-weights.md)
 - [§ 37-0115 Lead-containing jewelry](37-0115-lead-containing-jewelry.md)
 - [§ 37-0117 Prohibition of cosmetic products and personal care products containing 1,4-dioxane](37-0117-prohibition-of-cosmetic-products-and-personal.md)
+- [§ 37-0119 Prohibition against certain uses of trichloroethylene](37-0119-prohibition-against-certain-uses.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -33,6 +34,8 @@ Section 37-0101.   Definitions.
         37-0115.   Lead-containing jewelry.
         37-0117.   Prohibition of cosmetic products and personal care
                      products containing 1,4-dioxane.
+        37-0119.   Prohibition against certain uses of
+                     trichloroethylene.
 ```
 
 </details>

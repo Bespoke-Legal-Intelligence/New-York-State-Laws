@@ -77,5 +77,5 @@ subsection (b) of section two thousand three hundred five of this
 article, except that this article shall not be construed as requiring an
 insurer to become a member of or subscriber to a rate service
 organization.
-  * NB Expires July 1, 2020
+  * NB Expires July 1, 2023
 ```

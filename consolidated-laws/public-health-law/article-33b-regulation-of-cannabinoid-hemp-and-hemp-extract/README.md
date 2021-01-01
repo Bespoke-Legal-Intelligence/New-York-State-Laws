@@ -32,7 +32,7 @@
 <summary>Official heading of Article 33-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 33-B
+                              ARTICLE 33-B
              REGULATION OF CANNABINOID HEMP AND HEMP EXTRACT
 Section 3398.   Definitions.
         3398-a. Rulemaking authority.
@@ -59,7 +59,6 @@ Section 3398.   Definitions.
         3398-s. Prohibitions.
         3398-t. Special use permits.
         3398-u. Severability.
-  * NB Effective May 1, 2020
 ```
 
 </details>

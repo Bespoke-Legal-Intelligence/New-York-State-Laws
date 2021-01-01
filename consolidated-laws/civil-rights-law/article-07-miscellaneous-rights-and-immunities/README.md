@@ -36,6 +36,7 @@
 - [§ 79-N\*2 Funeral or bereavement leave](79n-2-funeral-or-bereavement-leave.md)
 - [§ 79-O Closed captioning in places of public accommodation, resort or amusement](79o-closed-captioning-in-places-of-public-accommodation-resort-or-amusement.md)
 - [§ 79-P Recording certain activities](79p-recording-certain-activities.md)
+- [§ 79-P\*2 Gender neutral single-occupancy bathroom facilities](79p-2-gender-neutral-single-occupancy-bathroom-facilities.md)
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -82,6 +83,7 @@ Section 70.     Vexatious suits.
         79-o.   Closed captioning in places of public accommodation,
                   resort or amusement.
         79-p.   Recording certain activities.
+        79-p*2. Gender neutral single-occupancy bathroom facilities.
 ```
 
 </details>

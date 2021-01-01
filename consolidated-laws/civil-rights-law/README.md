@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | CVR |
 | Type | Consolidated law, chapter 6 |
-| Sections | 123 |
-| Last changed | 28 Dec 2020 |
+| Sections | 124 |
+| Last changed | 1 Jan 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Civil Rights |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 amended, 1 added
 - [28 Dec 2020](../../changes/2020/2020-12-28.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended, 1 added
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 2 added
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 1 amended, 2 added, 1 removed
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 1 amended
 - [27 Dec 2019](../../changes/2019/2019-12-27.md): 1 amended
-- [27 Sep 2019](../../changes/2019/2019-09-27.md): 1 amended
 
 ## Contents
 

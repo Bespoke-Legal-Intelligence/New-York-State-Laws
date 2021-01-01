@@ -146,6 +146,7 @@ Article
                     V.   Typhoid fever (§§2150-2153).
                    VI.   Poliomyelitis and Other Diseases (§§2160-2168).
                   VII.   Hepatitis C (§§2170-2171).
+                    8.   Novel coronavirus, COVID-19 (§§2180-2182).
   21-A.    Long-term care resident and employee immunization act
             (§§2190-2196).
   22.      Control of tuberculosis

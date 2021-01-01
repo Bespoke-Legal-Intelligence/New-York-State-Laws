@@ -53,6 +53,7 @@
 - [§ 41 Rules governing hearings](41-rules-governing-hearings.md)
 - [§ 42 Youth education, employment and training program](42-youth-education-employment-and-training-program.md)
 - [§ 43 Transfer of funds to the unemployment insurance occupational training fund](43-transfer-of-funds-to-the-unemployment-insurance-occupational-training-fund.md)
+- [§ 44 Workplace fatality registry; construction](44-workplace-fatality-registry-construction.md)
 
 <details>
 <summary>Official heading of Article 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -122,6 +123,7 @@ Section 10.   Department of labor; commissioner of labor.
         42.   Youth education, employment and training program.
         43.   Transfer of funds to the unemployment insurance
                 occupational training fund.
+        44.   Workplace fatality registry; construction.
 ```
 
 </details>

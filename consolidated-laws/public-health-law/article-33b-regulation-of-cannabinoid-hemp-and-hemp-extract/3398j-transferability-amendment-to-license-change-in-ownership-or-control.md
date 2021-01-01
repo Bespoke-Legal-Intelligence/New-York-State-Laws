@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  * § 3398-j. Transferability; amendment to license; change in ownership
+  § 3398-j. Transferability; amendment to license; change in ownership
 or control. 1. Licenses issued under this article are not transferable,
 absent written consent of the commissioner.
   2. Upon application of a licensee, a license may be amended to add or
@@ -14,5 +14,4 @@ corporate change or change of location without prior written approval of
 the commissioner. The commissioner may make regulations allowing for
 certain types of changes in ownership without the need for prior written
 approval.
-  * NB Effective May 1, 2020
 ```

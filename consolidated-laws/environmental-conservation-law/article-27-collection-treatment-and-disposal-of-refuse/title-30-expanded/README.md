@@ -15,7 +15,7 @@
 <summary>Official heading of Title 30, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 30
+                               * TITLE 30
      EXPANDED POLYSTYRENE FOAM CONTAINER AND POLYSTYRENE LOOSE FILL
                               PACKAGING BAN
 Section 27-3001. Definitions.
@@ -24,6 +24,7 @@ Section 27-3001. Definitions.
         27-3005. Exemptions and waivers.
         27-3007. Preemption.
         27-3009. Severability.
+  * NB There are 2 A27T30's
 ```
 
 </details>
