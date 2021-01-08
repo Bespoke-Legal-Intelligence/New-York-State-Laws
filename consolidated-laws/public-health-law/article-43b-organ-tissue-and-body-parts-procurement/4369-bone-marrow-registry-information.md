@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 43-B — Organ, Tissue and Body Parts Procurement and Storage](README.md)
 
 ```text
-  * § 4369. Bone marrow registry information. 1. The commissioner, with
+  § 4369. Bone marrow registry information. 1. The commissioner, with
 the assistance of the transplant council, shall develop and make
 available information regarding bone marrow donation and registries,
 including but not limited to the National Marrow Donor Program "Be The
@@ -29,5 +29,4 @@ registered with the bone marrow registry, the physician, physician
 assistant or nurse practitioner providing primary care shall provide
 information developed and disseminated by the department regarding the
 bone marrow registry to the patient.
-  * NB Effective January 1, 2021
 ```

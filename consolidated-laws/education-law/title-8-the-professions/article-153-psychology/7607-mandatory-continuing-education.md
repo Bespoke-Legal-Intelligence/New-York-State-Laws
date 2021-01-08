@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 153 — Psychology](README.md)
 
 ```text
-  * § 7607. Mandatory continuing education. 1. (a) Each psychologist
+  § 7607. Mandatory continuing education. 1. (a) Each psychologist
 required under this article to register triennially with the department
 to practice in this state, shall comply with the provisions for
 mandatory continuing education prescribed in subdivision two of this
@@ -91,5 +91,4 @@ department. Such fee shall be payable on or before the first day of each
 triennial registration period, and shall be paid in addition to the
 triennial registration fee required by subdivision eight of section
 seventy-six hundred three of this article.
-  * NB Effective January 1, 2021
 ```

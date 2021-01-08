@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 31 — Construction and Demolition Waste](README.md)
 
 ```text
-* §  27-3101. Waste tracking documents.
+§  27-3101. Waste tracking documents.
   1. All generators in a city with a population of one million or more
 that generate construction and demolition waste, as defined in section
 71-2702 of this chapter, shall provide waste transporters with a waste
@@ -27,5 +27,4 @@ or facility upon delivery of the solid waste and provide a copy of the
 tracking document to the receiving location or facility.
   3. Failure to maintain such tracking documents is a class A
 misdemeanor.
-  * NB Effective January 1, 2021
 ```

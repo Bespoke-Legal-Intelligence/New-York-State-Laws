@@ -4,39 +4,21 @@
 [Tax Law](../../../README.md) › [Article 29 — Taxes Authorized For Cities, Counties and School Districts](../../README.md) › [Part 1 — Authority to Impose Taxes](../README.md) › [Subpart A — Taxes Administered By Cities, Counties and School Districts](README.md)
 
 ```text
-  * § 1202-j. Hotel or motel taxes in Otsego county. ** (1)
-Notwithstanding any other provisions of law to the contrary, the county
-of Otsego is hereby authorized and empowered to adopt and amend local
-laws imposing in such county a tax, in addition to any other tax
-authorized and imposed pursuant to this article such as the legislature
-has or would have the power and authority to impose upon persons
-occupying hotel or motel rooms in such county. For the purposes of this
-section, the term "hotel" or "motel" shall mean and include any facility
-consisting of rentable units and providing lodging on an overnight
-basis.
-  The rates of such tax shall not exceed four percent of the per diem
-rental rate for each room, provided however, that such tax shall not be
-applicable to a permanent resident of a hotel or motel. For the purposes
-of this section the term "permanent resident" shall mean a person
-occupying any room or rooms in a hotel or motel for at least thirty
-consecutive days.
-  ** NB Effective until January 1, 2021
-  ** (1) Notwithstanding any other provisions of law to the contrary,
-the county of Otsego is hereby authorized and empowered to adopt and
-amend local laws imposing in such county a tax, in addition to any other
-tax authorized and imposed pursuant to this article such as the
-legislature has or would have the power and authority to impose upon
-persons occupying hotel or motel rooms in such county. For the purposes
-of this section, the term "hotel" or "motel" shall mean and include any
-facility consisting of rentable units and providing lodging on an
-overnight basis.
+  * § 1202-j. Hotel or motel taxes in Otsego county. (1) Notwithstanding
+any other provisions of law to the contrary, the county of Otsego is
+hereby authorized and empowered to adopt and amend local laws imposing
+in such county a tax, in addition to any other tax authorized and
+imposed pursuant to this article such as the legislature has or would
+have the power and authority to impose upon persons occupying hotel or
+motel rooms in such county. For the purposes of this section, the term
+"hotel" or "motel" shall mean and include any facility consisting of
+rentable units and providing lodging on an overnight basis.
   The rates of such tax shall not exceed six percent of the per diem
 rental rate for each room, provided however, that such tax shall not be
 applicable to a permanent resident of a hotel or motel. For the purposes
 of this section the term "permanent resident" shall mean a person
 occupying any room or rooms in a hotel or motel for at least thirty
 consecutive days.
-  ** NB Effective January 1, 2021
   (2) Such tax may be collected and administered by the county treasurer
 or other fiscal officers of Otsego county by such means and in such
 manner as other taxes which are now collected and administered by such

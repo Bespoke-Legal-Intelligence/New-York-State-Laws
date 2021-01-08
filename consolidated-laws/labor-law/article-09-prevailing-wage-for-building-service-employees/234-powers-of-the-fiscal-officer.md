@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Labor Law § 234", "kind": "section", "law_id": "LAB", "location_id": "234", "path": "ARTICLE 9 › SECTION 234", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/234.md", "title": "Powers of the fiscal officer"} -->
 # Labor Law § 234 — Powers of the fiscal officer
 
-[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees](README.md)
+[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](README.md)
 
 ```text
   § 234. Powers of the fiscal officer. 1. In addition to the powers
@@ -9,15 +9,16 @@ enumerated elsewhere in this article, the fiscal officer shall have the
 power:
   (a) to cause an investigation to be made to determine the wages
 prevailing in any locality in all crafts, trades and occupations
-involved in service work; in making such investigation, the fiscal
-officer may utilize wage and fringe benefit data from various sources
-including, but not limited to, data and determinations of federal, state
-or other governmental agencies;
+involved in service work or work involving the employment of covered
+airport workers; in making such investigation, the fiscal officer may
+utilize wage and fringe benefit data from various sources including, but
+not limited to, data and determinations of federal, state or other
+governmental agencies;
   (b) to institute and conduct inspections at the site of the work or
 elsewhere in aid of the effective administration and enforcement of the
 provisions of this article;
   (c) to examine the books, documents and records pertaining to the
-wages paid to, and the hours of work performed by, service employees;
+wages paid to, and the hours of work performed by, employees;
   (d) to hold the hearings provided for in this article, and in
 connection therewith to issue subpoenas, administer oaths and examine
 witnesses.  The enforcement of a subpoena issued under this section
@@ -26,6 +27,10 @@ shall be regulated by the civil practice law and rules;
 recognized occupational category of the service employees involved and
 to determine whether such work has been performed by the employees in
 such classification;
+  (e-1) to make a classification by craft, trade or other generally
+recognized occupational category of the covered airport workers and to
+determine whether such work has been performed by the employees in such
+classification;
   (f) to require a contractor to file with the fiscal officer a record
 of the wages actually paid by such contractor to the employees and of
 their hours of work;

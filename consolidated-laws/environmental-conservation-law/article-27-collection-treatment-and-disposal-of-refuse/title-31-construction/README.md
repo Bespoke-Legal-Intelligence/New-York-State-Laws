@@ -11,10 +11,9 @@
 <summary>Official heading of Title 31, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               * TITLE 31
+                                TITLE 31
                     CONSTRUCTION AND DEMOLITION WASTE
 Section 27-3101. Waste tracking documents.
-  * NB Effective January 1, 2021
 ```
 
 </details>

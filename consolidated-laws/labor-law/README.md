@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 702 |
-| Last changed | 1 Jan 2021 |
+| Sections | 705 |
+| Last changed | 8 Jan 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [8 Jan 2021](../../changes/2021/2021-01-08.md): 10 amended, 3 added
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 added, 1 removed
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 2 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [26 Jun 2020](../../changes/2020/2020-06-26.md): 2 amended
 - [19 Jun 2020](../../changes/2020/2020-06-19.md): 2 amended
 - [12 Jun 2020](../../changes/2020/2020-06-12.md): 9 amended
-- [24 Apr 2020](../../changes/2020/2020-04-24.md): 6 amended
 
 ## Contents
 
@@ -56,7 +56,7 @@ Assembly, do enact as follows:
 - [Article 7 — General Provisions](article-07-general-provisions/)
 - [Article 8 — Public Work](article-08-public-work/)
 - [Article 8-A — Grade Crossing Elimination Work; Hours, Wages, Employment and General Requirements](article-08a-grade-crossing-elimination-work-hours-wages/)
-- [Article 9 — Prevailing Wage For Building Service Employees](article-09-prevailing-wage-for-building-service-employees/)
+- [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](article-09-prevailing-wage-for-building-service-employees/)
 - [Article 10 — Building Construction, Demolition and Repair Work](article-10-building-construction-demolition-and-repair-work/)
 - [Article 11 — Factories](article-11-factories/)
 - [Article 12 — Fair Wages Task Force](article-12-fair-wages-task-force/)

@@ -1,17 +1,19 @@
 ﻿<!-- nyslaw {"citation": "Labor Law § 233", "kind": "section", "law_id": "LAB", "location_id": "233", "path": "ARTICLE 9 › SECTION 233", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/233.md", "title": "Record keeping"} -->
 # Labor Law § 233 — Record keeping
 
-[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees](README.md)
+[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](README.md)
 
 ```text
   § 233. Record keeping. 1. In all cases where service work is being
-performed pursuant to a contract therefor, the contractor shall keep
-original payrolls or transcripts thereof, subscribed and confirmed by
-him as true, under penalties of perjury, showing the hours and days
-worked by each employee, the craft, trade or occupation at which he was
-employed, and the wages paid.
+performed pursuant to a contract therefor, or where work is being
+performed pursuant to a contract involving the employment of covered
+airport workers, the contractor shall keep original payrolls or
+transcripts thereof, subscribed and confirmed by him as true, under
+penalties of perjury, showing the hours and days worked by each
+employee, the craft, trade or occupation at which he was employed, and
+the wages paid.
   2. Where the wages paid include sums which are not paid directly to
-the workmen weekly and which are expended for supplements, the records
+the employees weekly and which are expended for supplements, the records
 required to be maintained shall include a record of such hourly payment
 on behalf of such employees, the supplement for which such payment has
 been made, and the name and address of the person to whom such payment

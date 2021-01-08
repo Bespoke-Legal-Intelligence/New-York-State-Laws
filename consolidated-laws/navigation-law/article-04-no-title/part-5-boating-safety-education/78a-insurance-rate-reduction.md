@@ -4,18 +4,10 @@
 [Navigation Law](../../README.md) › [Article 4 — No title](../README.md) › [Part 5 — Boating Safety Education](README.md)
 
 ```text
-  * § 78-a. Insurance rate reduction. Any insurance carrier licensed to
-issue yacht or boating liability insurance in this state is authorized
-to grant rate reductions with the approval of the department of
-financial services to any owner of a yacht or boat who has successfully
-completed a boating safety course or holds a valid United States Coast
-Guard operators license.
-  * NB Effective until January 1, 2021
-  * § 78-a. Insurance rate reduction. Any insurance carrier licensed to
+  § 78-a. Insurance rate reduction. Any insurance carrier licensed to
 issue yacht or boating liability insurance in this state is authorized
 to grant rate reductions with the approval of the department of
 financial services to any owner of a yacht or boat who has successfully
 completed a boating safety course or an advanced boating safety course
 or holds a valid United States Coast Guard operators license.
-  * NB Effective January 1, 2021
 ```

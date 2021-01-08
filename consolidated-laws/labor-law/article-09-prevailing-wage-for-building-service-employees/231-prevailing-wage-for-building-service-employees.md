@@ -1,13 +1,13 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 231", "kind": "section", "law_id": "LAB", "location_id": "231", "path": "ARTICLE 9 › SECTION 231", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/231.md", "title": "Prevailing wage"} -->
-# Labor Law § 231 — Prevailing wage
+﻿<!-- nyslaw {"citation": "Labor Law § 231", "kind": "section", "law_id": "LAB", "location_id": "231", "path": "ARTICLE 9 › SECTION 231", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/231.md", "title": "Prevailing wage for building service employees"} -->
+# Labor Law § 231 — Prevailing wage for building service employees
 
-[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees](README.md)
+[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](README.md)
 
 ```text
-  § 231. Prevailing wage.  1. Every contractor shall pay a service
-employee under a contract for building service work a wage of not less
-than the prevailing wage in the locality for the craft, trade or
-occupation of the service employee.
+  § 231. Prevailing wage for building service employees. 1. Every
+contractor shall pay a service employee under a contract for building
+service work a wage of not less than the prevailing wage in the locality
+for the craft, trade or occupation of the service employee.
   2. The obligation of a contractor to pay prevailing supplements may be
 discharged by furnishing any equivalent combinations of fringe benefits
 or by making equivalent or differential payments in cash under rules and

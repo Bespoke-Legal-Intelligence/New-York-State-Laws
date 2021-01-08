@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
 
 ```text
-  * § 2336-b. Boat liability insurance rates; premium reductions in
+  § 2336-b. Boat liability insurance rates; premium reductions in
 certain cases. (a) Any schedule of rates or rating plan for boat
 liability insurance submitted to the superintendent shall provide for an
 appropriate reduction in premium charges, as described in section
@@ -35,5 +35,4 @@ actuarially appropriate reduction of the premium for such insured's
 yacht or boating liability insurance.
   (d) The superintendent may establish, by rule or otherwise, standards
 or guidelines to be used to accomplish the provisions of this section.
-  * NB Effective January 1, 2021
 ```

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 6 — Department of State](README.md)
 
 ```text
-  * § 93-a. Examination of reports. The secretary of state shall examine
+  § 93-a. Examination of reports. The secretary of state shall examine
 all reports required to be filed with the department of state pursuant
 to article seven-A of this chapter in order to determine the nature and
 extent of the in-kind support provided by any covered entity to one or
@@ -36,5 +36,4 @@ complete this report. Provided however that such report shall not
 include the names and addresses of individual donors to covered entities
 nor shall such report include the covered entity's Internal Revenue
 Service Form 990 Schedule B.
-  * NB Effective January 1, 2021
 ```
