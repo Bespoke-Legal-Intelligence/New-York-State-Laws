@@ -46,8 +46,6 @@ Section 2875.   Ground for cancellation of contract by public authority.
         2880.   Prompt payment.
         2880-a. Contracts for the financing of local water supply
                   systems.
-        2881.   Purchases from federal general service administration
-                  supply schedules and other governmental agencies.
 ```
 
 </details>
