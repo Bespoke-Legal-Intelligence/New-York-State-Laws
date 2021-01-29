@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Education Law § 2-E", "kind": "section", "law_id": "EDN", "location_id": "2-E", "path": "TITLE 1 › ARTICLE 1 › SECTION 2-E", "repealed": false, "repealed_date": null, "source": "nys-laws:EDN/2-E.md", "title": "Use of biometric identifying technology"} -->
+﻿<!-- nyslaw {"citation": "Education Law § 2-E", "kind": "section", "law_id": "EDN", "location_id": "2-E", "path": "TITLE 1 › ARTICLE 1 › SECTION 2-E", "repealed": true, "repealed_date": "2021-01-29", "source": "nys-laws:EDN/2-E.md", "title": "Use of biometric identifying technology"} -->
 # Education Law § 2-E — Use of biometric identifying technology
 
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 1 — Short Title and Definitions](README.md)
+
+**Repealed** (29 Jan 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 2-e. Use of biometric identifying technology. 1. As used in this

@@ -280,30 +280,31 @@ this section shall be disregarded in determining the state's
 expenditures for purposes of federal matching payments under sections
 four hundred twenty-three, four hundred thirty-four and four hundred
 seventy-four of this chapter.
-  11. (a) The office of children and family services shall collect the
+  * 11. (a) The office of children and family services shall collect the
 following data regarding preventive services, as defined in section four
 hundred nine of this title, and compile an annual report on such data by
 local social services district:
-  (i) the total number of children and families receiving preventive
-services at the end of each month;
+  (i) the total number of children and families admitted to or receiving
+a new service authorization for preventive services during the preceding
+calendar year;
   (ii) the total annual number of unduplicated children and families
-receiving preventive services including how many new preventive cases
-were opened during the preceding calendar year and to the extent
-practicable, the referral source for each new case;
-  (iii) the average length of time preventive services were provided for
-each child or family during the preceding calendar year, as well as an
-indication of whether such case had been closed during such year;
-  (iv) a descriptive list of the services and their utilization rate in
-each local social services district which utilize preventive service
-funding as allowable under section one hundred fifty-three-k of this
-chapter;
-  (v) a descriptive list, and their utilization rate if practicable, of
+receiving one or more days of preventive services including how many new
+preventive cases were opened during the preceding calendar year and to
+the extent such information is known and available after making all
+diligent efforts, the referral source for each new case;
+  (iii) the total number of children and families whose preventive
+services authorization was closed during the preceding calendar year;
+  (iv) a descriptive list of the services and their utilization rate, if
+practicable, in each local social services district which utilize
+preventive service funding as allowable under section one hundred
+fifty-three-k of this chapter;
+  (v) a descriptive list and their utilization rate, if practicable, of
 other preventive services provided by a local social services district
 that does not utilize preventive service funding pursuant to section one
 hundred fifty-three-k of this chapter. For purposes of this paragraph,
-other preventive services shall include primary preventive services
-which may be funded through community optional preventive services
-funding, home visiting funds or other federal, state or local funds;
+other preventive services shall include but not be limited to primary
+preventive services which may be funded through community optional
+preventive services funding or home visiting funds;
   (vi) the total number of children who entered foster care during the
 preceding calendar year who had received preventive services at any
 point during the twelve-months prior to their entry into foster care;
@@ -322,4 +323,5 @@ information is available. When practicable, such information shall be
 disaggregated by age, sex, race and ethnicity.
   (c) The initial report shall include the aforementioned data from the
 preceding two calendar years.
+  * NB Repealed September 1, 2024
 ```

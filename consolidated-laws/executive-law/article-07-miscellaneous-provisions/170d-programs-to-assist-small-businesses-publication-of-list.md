@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Executive Law § 170-D", "kind": "section", "law_id": "EXC", "location_id": "170-D", "path": "ARTICLE 7 › SECTION 170-D", "repealed": false, "repealed_date": null, "source": "nys-laws:EXC/170-D.md", "title": "Programs to assist small businesses; publication of list"} -->
+﻿<!-- nyslaw {"citation": "Executive Law § 170-D", "kind": "section", "law_id": "EXC", "location_id": "170-D", "path": "ARTICLE 7 › SECTION 170-D", "repealed": true, "repealed_date": "2021-01-29", "source": "nys-laws:EXC/170-D.md", "title": "Programs to assist small businesses; publication of list"} -->
 # Executive Law § 170-D — Programs to assist small businesses; publication of list
 
 [Executive Law](../README.md) › [Article 7 — Miscellaneous Provisions](README.md)
+
+**Repealed** (29 Jan 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 170-d. Programs to assist small businesses; publication of list. 1.

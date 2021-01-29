@@ -262,6 +262,10 @@ certificate of authority, the commissioner shall issue, within such time
 as the commissioner may prescribe, a new certificate of authority,
 without charge, to each registrant and a duplicate thereof for each
 additional place of business of such registrant.
+  (6) By January first, two thousand twenty-two, the department shall
+create and maintain a publicly accessible, searchable database
+containing the certificate of authority number and any corresponding
+identifying information for each vendor in the state.
   (b) (1) Every show promoter shall, at least ten days prior to the
 opening of a show, file with the commissioner of taxation and finance a
 notice stating the location and dates of such show, in a form prescribed

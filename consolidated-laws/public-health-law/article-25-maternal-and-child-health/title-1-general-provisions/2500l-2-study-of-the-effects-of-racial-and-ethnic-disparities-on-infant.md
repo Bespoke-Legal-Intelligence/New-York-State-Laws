@@ -42,5 +42,4 @@ been successfully implemented in practice and the apparent impact that
 the implementation of such recommended changes has had on infant
 mortality in the preceding years.
   * NB There are 2 § 2500-l's
-  * NB Effective January 22, 2021
 ```

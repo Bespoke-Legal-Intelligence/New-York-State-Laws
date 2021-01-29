@@ -15,7 +15,7 @@
 - [§ 1506-A Cemetery corporations; restrictions](1506a-cemetery-corporations-restrictions.md)
 - [§ 1506-B Transfer of lands of Valley View Rural Cemetery](1506b-transfer-of-lands-of-valley-view-rural-cemetery.md)
 - [§ 1506-C Abandoned cemetery maintenance by cemetery corporations](1506c-abandoned-cemetery-maintenance-by-cemetery-corporations.md)
-- [§ 1506-D Cemetery merger authorization](1506d-cemetery-merger-authorization.md)
+- [§ 1506-D Additional requirements for merger or consolidation of cemetery corporations in certain circumstances](1506d-additional-requirements-for-merger-or-consolidation-of-cemetery-corporations.md)
 - [§ 1507 Trust funds](1507-trust-funds.md)
 - [§ 1507-A State cemetery board citizens advisory council](1507a-state-cemetery-board-citizens-advisory-council.md)
 - [§ 1508 Reports by cemeteries](1508-reports-by-cemeteries.md)
@@ -49,7 +49,8 @@ Section 1501.   Declaration of policy.
         1506-a. Cemetery corporations; restrictions.
         1506-b. Transfer of lands of Valley View Rural Cemetery.
         1506-c. Abandoned cemetery maintenance by cemetery corporations.
-        1506-d. Cemetery merger authorization.
+        1506-d. Additional requirements for merger or consolidation of
+                  cemetery corporations in certain circumstances.
         1507.   Trust funds.
         1507-a. State cemetery board citizens advisory council.
         1508.   Reports by cemeteries.

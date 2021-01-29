@@ -13,6 +13,7 @@
 - [§ 105 Functions, powers and duties of the council](105-functions-powers-and-duties-of-the-council.md)
 - [§ 106 Responsibility to respond to the freedom of information law for certain data](106-responsibility-to-respond-to-the-freedom-of-information-law-for-certain-data.md)
 - [§ 106-A Health care proxy information](106a-health-care-proxy-information.md)
+- [§ 106-B Use of biometric identifying technology in schools](106b-use-of-biometric-identifying-technology-in-schools.md)
 - [§ 107 Severability](107-severability.md)
 
 <details>
@@ -31,6 +32,7 @@ Section 101.   Definitions.
         106.   Responsibility to respond to the freedom of information
                  law for certain data.
         106-a. Health care proxy information.
+        106-b. Use of biometric identifying technology in schools.
         107.   Severability.
 ```
 

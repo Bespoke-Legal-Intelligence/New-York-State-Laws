@@ -18,6 +18,7 @@
 - [§ 397 Equipping motor vehicles with radio receiving sets capable of receiving signals on the frequencies allocated for police use](397-equipping-motor-vehicles-with-radio-receiving-sets.md)
 - [§ 397-A Radar detectors and laser detectors prohibited](397a-radar-detectors-and-laser-detectors-prohibited.md)
 - [§ 397-B Vehicle leases that are not sales or security interests](397b-vehicle-leases-that-are-not-sales-or-security.md)
+- [§ 397-C For-hire motor vehicle safety program](397c-for-hire-motor-vehicle-safety-program.md)
 
 <details>
 <summary>Official heading of Article 12, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -47,6 +48,7 @@ Section.390.   Inspection of motor vehicles and motorcycles.
                  allocated for police use.
         397-a. Radar detectors and laser detectors prohibited.
         397-b. Vehicle leases that are not sales or security interests.
+        397-c. For-hire motor vehicle safety program.
 ```
 
 </details>
