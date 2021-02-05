@@ -41,7 +41,7 @@
 - [§ 132 Certificates of official character of notaries public](132-certificates-of-official-character-of-notaries-public.md)
 - [§ 133 Certification of notarial signatures](133-certification-of-notarial-signatures.md)
 - [§ 134 Signature and seal of county clerk](134-signature-and-seal-of-county-clerk.md)
-- [§ 135 Assistance of other agencies](135-assistance-of-other-agencies.md)
+- [§ 135 Powers and duties; in general; of notaries public who are attorneys at law](135-powers-and-duties-in-general-of-notaries-public-who-are-attorneys-at-law.md)
 - [§ 135-A Notary public or commissioner of deeds; acting without appointment; fraud in office](135a-notary-public-or-commissioner-of-deeds-acting-without-appointment-fraud.md)
 - [§ 135-B Advertising by notaries public](135b-advertising-by-notaries-public.md)
 - [§ 136 Notarial fees](136-notarial-fees.md)

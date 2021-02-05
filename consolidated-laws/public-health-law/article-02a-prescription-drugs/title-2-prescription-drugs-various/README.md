@@ -7,6 +7,8 @@
 
 - [§ 278 Prescription drug retail price lists](278-prescription-drug-retail-price-lists.md)
 - [§ 279 Prescriber education](279-prescriber-education.md)
+- [§ 279-A Drug assistance demonstration program](279a-drug-assistance-demonstration-program.md)
+- [§ 279-B Emergency prescriptions](279b-emergency-prescriptions.md)
 - [§ 280 Medicaid drug cap](280-medicaid-drug-cap.md)
 - [§ 280-A Pharmacy benefit managers](280a-pharmacy-benefit-managers.md)
 - [§ 280-B Unused prescription drug donation and redispensing program](280b-unused-prescription-drug-donation-and-redispensing-program.md)
@@ -20,6 +22,8 @@
                  PRESCRIPTION DRUGS; VARIOUS PROVISIONS
 Section 278.   Prescription drug retail price lists.
         279.   Prescriber education.
+        279-a. Drug assistance demonstration program.
+        279-b. Emergency prescriptions.
         280.   Medicaid drug cap.
         280-a. Pharmacy benefit managers.
         280-b. Unused prescription drug donation and redispensing

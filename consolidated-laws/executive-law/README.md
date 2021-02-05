@@ -8,7 +8,7 @@
 | Senate code | EXC |
 | Type | Consolidated law, chapter 18 |
 | Sections | 918 (1 repealed) |
-| Last changed | 29 Jan 2021 |
+| Last changed | 5 Feb 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Executive |
 
@@ -33,6 +33,7 @@ The People of the State of New York, represented in Senate and Assembly,
 
 ## Recent changes
 
+- [5 Feb 2021](../../changes/2021/2021-02-05.md): 1 amended
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 1 amended, 1 repealed
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 6 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 4 amended, 1 added, 1 removed
@@ -42,7 +43,6 @@ The People of the State of New York, represented in Senate and Assembly,
 - [18 Sep 2020](../../changes/2020/2020-09-18.md): 1 amended
 - [28 Aug 2020](../../changes/2020/2020-08-28.md): 1 amended
 - [14 Aug 2020](../../changes/2020/2020-08-14.md): 3 amended
-- [3 Jul 2020](../../changes/2020/2020-07-03.md): 1 amended
 
 ## Contents
 

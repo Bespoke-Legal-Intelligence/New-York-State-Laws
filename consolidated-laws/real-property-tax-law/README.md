@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | RPT |
 | Type | Consolidated law, chapter 50-A |
-| Sections | 770 |
-| Last changed | 8 Jan 2021 |
+| Sections | 771 |
+| Last changed | 5 Feb 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Real Property Tax |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                           REAL PROPERTY TAX LAW
 ```
 
-[Full chapter text (41 lines)](chapter-text.md)
+[Full chapter text (43 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [5 Feb 2021](../../changes/2021/2021-02-05.md): 1 added
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 3 amended, 1 added
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 3 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 13 amended
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 1 amended
 - [7 Feb 2020](../../changes/2020/2020-02-07.md): 2 amended
-- [10 Jan 2020](../../changes/2020/2020-01-10.md): 5 amended
 
 ## Contents
 
@@ -68,4 +68,5 @@ Assembly, do enact as follows:
 - [Article 16 — Consolidated Assessing Units](article-16-consolidated-assessing-units/)
 - [Article 18 — Preservation of Class Share of Taxes In Municipal Corporations Except Counties Within a City, Included Within the Boundaries of a Special Assessing Unit and Limitation On Increases In Assessments Therein](article-18-preservation-of-class-share-of-taxes/)
 - [Article 19 — Preservation of Class Share of Taxes Other Than In Special Assessing Units](article-19-preservation-of-class-share-of-taxes-other-than/)
+- [Article 19-A — Special Deferments and Installment Payments During the Covid-19 State of Emergency](article-19a-special-deferments-and-installment-payments/)
 - [Article 20 — Construction; Laws Repealed; Effective Date](article-20-construction-laws-repealed-effective-date/)

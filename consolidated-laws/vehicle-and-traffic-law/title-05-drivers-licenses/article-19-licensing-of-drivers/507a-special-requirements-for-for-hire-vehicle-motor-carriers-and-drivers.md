@@ -4,11 +4,11 @@
 [Vehicle and Traffic Law](../../README.md) › [Title 5 — Drivers' Licenses](../README.md) › [Article 19 — Licensing of Drivers](README.md)
 
 ```text
-  * § 507-a. Special requirements for for-hire vehicle motor carriers
-and drivers; drugs and alcohol. 1. (a) All motor carriers shall be
-required to conduct pre-employment and random drug and alcohol testing
-in accordance with the provisions and requirements of Part 382 of Title
-49 of the Code of Federal Regulations on all drivers of any for-hire
+  § 507-a. Special requirements for for-hire vehicle motor carriers and
+drivers; drugs and alcohol. 1. (a) All motor carriers shall be required
+to conduct pre-employment and random drug and alcohol testing in
+accordance with the provisions and requirements of Part 382 of Title 49
+of the Code of Federal Regulations on all drivers of any for-hire
 vehicle having a seating capacity of nine or more passengers, including
 the driver, regardless of a commercial driver's license endorsement.
 Every such driver shall be included in the random testing pool from
@@ -103,5 +103,4 @@ vehicle" shall mean a taxicab or livery having a seating capacity of
 nine or more passengers, including the driver, including an altered
 motor vehicle commonly referred to as a "stretch limousine" having a
 seating capacity of nine or more passengers, including the driver.
-  * NB Effective February 3, 2021
 ```
