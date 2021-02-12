@@ -25,7 +25,7 @@ Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 ```
 
-[Full chapter text (2,328 lines)](chapter-text.md)
+[Full chapter text (2,330 lines)](chapter-text.md)
 
 ## Contents
 

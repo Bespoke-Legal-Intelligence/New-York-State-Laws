@@ -12,11 +12,10 @@
 <summary>Official heading of Article 29-BB, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 29-BB
+                              ARTICLE 29-BB
                    PROHIBITED SERVICE OFFER PRACTICES
 Section 527.   Definitions.
         527-a. Unlawful practices.
-  * NB Effective February 9, 2021
 ```
 
 </details>

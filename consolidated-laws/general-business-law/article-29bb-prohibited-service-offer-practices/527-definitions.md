@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 29-BB — Prohibited Service Offer Practices](README.md)
 
 ```text
-  * § 527. Definitions. For the purposes of this article, the following
+  § 527. Definitions. For the purposes of this article, the following
 definitions shall apply:
   1. "Automatic renewal" means a plan or arrangement in which a paid
 subscription or purchasing agreement is automatically renewed at the end
@@ -36,5 +36,4 @@ household purposes.
   5. "Continuous service" means a plan or arrangement in which a
 subscription or purchasing agreement continues until the consumer
 cancels the service.
-  * NB Effective February 9, 2021
 ```

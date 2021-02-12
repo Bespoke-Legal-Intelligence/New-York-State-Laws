@@ -4,9 +4,9 @@
 [General Business Law](../README.md) › [Article 29-BB — Prohibited Service Offer Practices](README.md)
 
 ```text
-  * § 527-a. Unlawful practices. 1. It shall be unlawful for any
-business making an automatic renewal or continuous service offer to a
-consumer in this state to do any of the following:
+  § 527-a. Unlawful practices. 1. It shall be unlawful for any business
+making an automatic renewal or continuous service offer to a consumer in
+this state to do any of the following:
   a. fail to present the automatic renewal offer terms or continuous
 service offer terms in a clear and conspicuous manner before the
 subscription or purchasing agreement is fulfilled and in visual
@@ -105,5 +105,4 @@ state or federal law; and
   e. sellers and administrators of a service contract, as defined
 pursuant to section seven thousand nine hundred two of the insurance
 law.
-  * NB Effective February 9, 2021
 ```
