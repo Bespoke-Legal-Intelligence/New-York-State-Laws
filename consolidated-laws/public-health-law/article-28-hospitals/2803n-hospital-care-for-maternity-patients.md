@@ -42,4 +42,17 @@ which may include a hemorrhage care checklist for use by hospitals as
 part of the protocols and guidance on simulation training. The
 commissioner shall post the guidance and toolkit on the department's
 website.
+  * 4. The hospital shall adopt, implement and periodically update
+standard protocols for management of other emergency medical conditions
+related to pregnancy for expectant mothers being admitted to the
+hospital or presenting to the emergency department, including but not
+limited to pre-term labor. Such protocols shall require the hospital to
+determine whether an expectant mother is experiencing an emergency
+medical condition, and upon making a diagnosis of an emergency medical
+condition, admit the expectant mother to the hospital or treat them in
+the emergency room for close observation and continuous monitoring until
+it is deemed medically safe for discharge or transfer in accordance with
+state and federal requirements including the federal Emergency Medical
+Treatment and Labor Act (EMTALA).
+  * NB Effective June 20, 2021
 ```

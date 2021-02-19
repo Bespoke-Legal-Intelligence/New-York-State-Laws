@@ -4,9 +4,8 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Article 5-CP7 — Part 7 Miscellaneous Provisions](README.md)
 
 ```text
-  * § 581-703. Parent under section seventy of the domestic relations
-law.  The term "parent" in section seventy of the domestic relations law
-shall include a person established to be a parent under this article or
-any other relevant law.
-  * NB Effective February 15, 2021
+  § 581-703. Parent under section seventy of the domestic relations law.
+The term "parent" in section seventy of the domestic relations law shall
+include a person established to be a parent under this article or any
+other relevant law.
 ```

@@ -32,7 +32,7 @@
 - [§ 7.43 The children's plan](7.43-the-childrens-plan.md)
 - [§ 7.45 Retaliatory personnel actions](7.45-retaliatory-personnel-actions.md)
 - [§ 7.47 Mental illness anti-stigma grants](7.47-mental-illness-anti-stigma-grants.md)
-- [§ 7.48 Frontline workers trauma informed care advisory council](7.48-frontline-workers-trauma-informed-care-advisory-council.md)
+- [§ 7.48 Frontline workers trauma informed care advisory council](7.48-frontline-workers-trauma-informed-care-advisory-council.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -77,7 +77,6 @@ Section 7.01    Declaration of policy.
         7.43    The children's plan.
         7.45    Retaliatory personnel actions.
         7.47    Mental illness anti-stigma grants.
-        7.48    Frontline workers trauma informed care advisory council.
 ```
 
 </details>

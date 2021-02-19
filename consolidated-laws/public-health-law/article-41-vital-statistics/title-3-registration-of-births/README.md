@@ -12,7 +12,7 @@
 - [§ 4134 Birth certificate; unnamed child](4134-birth-certificate-unnamed-child.md)
 - [§ 4135 Birth certificate; child born out of wedlock](4135-birth-certificate-child-born-out-of-wedlock.md)
 - [§ 4135-A Birth certificate; child born in prison](4135a-birth-certificate-child-born-in-prison.md)
-- [§ 4135-B Voluntary acknowledgments of paternity; child born out of wedlock](4135b-voluntary-acknowledgments-of-paternity-child-born-out-of-wedlock.md)
+- [§ 4135-B Voluntary acknowledgments of parentage](4135b-voluntary-acknowledgments-of-parentage.md)
 - [§ 4136 Birth certificate; statement as to blood test](4136-birth-certificate-statement-as-to-blood-test.md)
 - [§ 4137 Births; notice of recording](4137-births-notice-of-recording.md)
 - [§ 4138 Birth certificate; new certificate in case of subsequent marriage of unwed parents; adoption; adjudication of parentage; change of name](4138-birth-certificate-new-certificate-in-case-of-subsequent-marriage-of-unwed.md)

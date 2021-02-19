@@ -15,7 +15,7 @@
 - [§ 111-H Support collection unit](111h-support-collection-unit.md)
 - [§ 111-I Child support standards](111i-child-support-standards.md)
 - [§ 111-J Interception of unemployment insurance benefits](111j-interception-of-unemployment-insurance.md)
-- [§ 111-K Procedures relating to acknowledgments of paternity, agreements to support, and genetic tests](111k-procedures-relating-to-acknowledgments.md)
+- [§ 111-K Procedures relating to acknowledgments of parentage, agreements to support, and genetic tests](111k-procedures-relating-to-acknowledgments.md)
 - [§ 111-M Agreement relating to information obtained by the state directory of new hires](111m-agreement-relating-to-information-obtained.md)
 - [§ 111-N Review and cost of living adjustment of support orders](111n-review-and-cost-of-living-adjustment.md)
 - [§ 111-O Data matches with financial institutions](111o-data-matches-with-financial-institutions.md)

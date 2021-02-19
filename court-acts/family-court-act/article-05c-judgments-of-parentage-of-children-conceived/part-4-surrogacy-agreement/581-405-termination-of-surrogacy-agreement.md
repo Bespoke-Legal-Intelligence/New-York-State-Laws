@@ -4,9 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-405. Termination of surrogacy agreement. After the execution
-of a surrogacy agreement but before the person acting as surrogate
-becomes pregnant by means of assisted reproduction, the person acting as
+  § 581-405. Termination of surrogacy agreement. After the execution of
+a surrogacy agreement but before the person acting as surrogate becomes
+pregnant by means of assisted reproduction, the person acting as
 surrogate, the spouse of the person acting as surrogate, if applicable,
 or any intended parent may terminate the surrogacy agreement by giving
 notice of termination in a record to all other parties. Upon proper
@@ -29,5 +29,4 @@ person is entitled up until the date of termination of the agreement.
 Neither a person acting as surrogate nor the spouse of the person acting
 as surrogate, if any, is liable to the intended parent or parents for
 terminating a surrogacy agreement as provided in this section.
-  * NB Effective February 15, 2021
 ```

@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "ENV", "location_id": "A27T31", "path": "ARTICLE 27 › TITLE 31", "source": "nys-laws:ENV/A27T31.md", "title": "Construction and Demolition Waste"} -->
-# Title 31 — Construction and Demolition Waste
+﻿<!-- nyslaw {"kind": "container", "law_id": "ENV", "location_id": "A27T31", "path": "ARTICLE 27 › TITLE 31", "source": "nys-laws:ENV/A27T31.md", "title": "Construction and Demolition Debris"} -->
+# Title 31 — Construction and Demolition Debris
 
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md)
 
@@ -12,7 +12,7 @@
 
 ```text
                                 TITLE 31
-                    CONSTRUCTION AND DEMOLITION WASTE
+                   CONSTRUCTION AND DEMOLITION DEBRIS
 Section 27-3101. Waste tracking documents.
 ```
 

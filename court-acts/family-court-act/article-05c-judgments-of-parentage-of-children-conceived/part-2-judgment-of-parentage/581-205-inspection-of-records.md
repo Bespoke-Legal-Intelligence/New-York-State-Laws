@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 2 — Judgment of Parentage](README.md)
 
 ```text
-  * § 581-205. Inspection of records. Court records relating to
+  § 581-205. Inspection of records. Court records relating to
 proceedings under this article shall be sealed, provided, however, that
 the office of temporary and disability assistance, a child support unit
 of a social services district or a child support agency of another state
@@ -16,5 +16,4 @@ social security act, may obtain a copy of a judgment of parentage. The
 parties to the proceeding and the child shall have the right to inspect
 and make copies of the entire court record, including, but not limited
 to, the name of the person acting as surrogate and any known donors.
-  * NB Effective February 15, 2021
 ```

@@ -71,5 +71,31 @@ patients as part of their wellness education or prenatal care
 activities.
   3. The department shall also consider making use of social media
 networks for the purposes of advancing such initiatives.
+  ** 4. Information pursuant to subdivision two of this section shall
+include information related to pre-term labor and premature birth,
+including but not limited to definitions and information on the risks of
+pre-term labor and premature birth to the expectant mother and fetus, as
+well as signs and symptoms of pre-term labor. The information shall also
+include:
+  (a) a statement that the medical assistance program provides coverage
+for all income-eligible pregnant women residing in the state regardless
+of immigration status; and
+  (b) a statement informing individuals of their right to request a
+hospital discharge review in accordance with section twenty-eight
+hundred three-i of this article if they believe they are being asked to
+leave a hospital too soon; and
+  (c) a statement informing individuals that hospitals must determine
+whether an expectant mother is experiencing an emergency medical
+condition, and upon making a diagnosis of an emergency medical
+condition, admit the expectant mother to the general hospital or treat
+them in the emergency room for close observation and continuous
+monitoring until it is deemed medically safe for discharge or transfer
+in accordance with state and federal requirements including the federal
+Emergency Medical Treatment and Labor Act (EMTALA).
+  ** NB Effective December 22, 2021
+  ** 5. The department shall develop educational materials to be
+provided to emergency room medical staff regarding the state and federal
+discharge and transfer requirements.
+  ** NB Effective December 22, 2021
   * NB There are 2 § 266's
 ```

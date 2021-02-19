@@ -22,5 +22,5 @@ article and as may be necessary and appropriate to interpret and
 implement the provisions of this article.
   (d) Such rules and regulations as may be necessary for the enforcement
 of this article.
-  * NB Effective June 21, 2021
+  * NB Effective January 1, 2022
 ```

@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-402. Eligibility to enter surrogacy agreement. (a) A person
+  § 581-402. Eligibility to enter surrogacy agreement. (a) A person
 acting as surrogate shall be eligible to enter into an enforceable
 surrogacy agreement under this article if the person acting as surrogate
 has met the following requirements at the time the surrogacy agreement
@@ -112,5 +112,4 @@ prior to execution of the surrogacy agreement.
   (c) where the spouse of an intended parent is not a required party to
 the agreement, the spouse is not an intended parent and shall not have
 rights or obligations to the child.
-  * NB Effective February 15, 2021
 ```

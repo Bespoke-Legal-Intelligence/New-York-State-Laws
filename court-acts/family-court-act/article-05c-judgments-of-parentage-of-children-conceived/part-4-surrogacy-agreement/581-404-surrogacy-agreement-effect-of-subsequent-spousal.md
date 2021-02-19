@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-404. Surrogacy agreement: effect of subsequent spousal
+  § 581-404. Surrogacy agreement: effect of subsequent spousal
 relationship. (a) After the execution of a surrogacy agreement under
 this article, the subsequent spousal relationship of the person acting
 as surrogate does not affect the validity of a surrogacy agreement, the
@@ -18,5 +18,4 @@ surrogacy agreement under this article, the subsequent spousal
 relationship of the intended parent does not affect the validity of a
 surrogacy agreement, and the consent of the spouse of the intended
 parent to the agreement shall not be required.
-  * NB Effective February 15, 2021
 ```

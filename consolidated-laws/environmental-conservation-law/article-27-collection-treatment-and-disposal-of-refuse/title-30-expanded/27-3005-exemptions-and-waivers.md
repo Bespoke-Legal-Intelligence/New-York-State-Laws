@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
-* § 27-3005. Exemptions and waivers.
+§ 27-3005. Exemptions and waivers.
   1. Notwithstanding any inconsistent provision of law, this title shall
 not apply to:
   (a) Prepackaged food filled or sealed prior to receipt at a covered
@@ -31,5 +31,4 @@ or use of an alternative product that is not composed of expanded
 polystyrene foam would create an undue financial hardship. Such
 financial hardship waiver shall be valid for twelve months and shall be
 renewable upon application to the department.
-  * NB There are 2 § 27-3005's
 ```

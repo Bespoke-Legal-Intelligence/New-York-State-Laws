@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](README.md)
 
 ```text
-  * § 1401. Surrogacy programs regulated under this article. The
+  § 1401. Surrogacy programs regulated under this article. The
 provisions of this article apply to surrogacy programs arranging or
 facilitating transactions contemplated by a surrogacy agreement under
 part four of article five-C of the family court act if:
@@ -13,5 +13,4 @@ part four of article five-C of the family court act if:
 resides in New York state during the term of the surrogacy agreement; or
   (c) Any medical procedures under the surrogacy agreement are performed
 in New York state.
-  * NB Effective February 15, 2021
 ```

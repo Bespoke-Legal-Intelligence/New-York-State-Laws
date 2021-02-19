@@ -14,14 +14,13 @@
 <summary>Official heading of Article 5-CP7, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * PART 7
+                                 PART 7
                         MISCELLANEOUS PROVISIONS
 Section 581-701. Remedial.
         581-702. Severability.
         581-703. Parent under section seventy of the domestic relations
                    law.
         581-704. Interpretation.
-  * NB Effective February 15, 2021
 ```
 
 </details>

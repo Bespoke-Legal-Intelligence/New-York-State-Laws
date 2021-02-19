@@ -4,8 +4,8 @@
 [General Business Law](../README.md) › [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](README.md)
 
 ```text
-  * § 1404. Regulations. 1. The department of health, in consultation
-with the department of financial services, shall promulgate rules and
+  § 1404. Regulations. 1. The department of health, in consultation with
+the department of financial services, shall promulgate rules and
 regulations to implement the requirements of this article regarding
 surrogacy programs and assisted reproduction service providers in a
 manner that ensures the safety and health of gamete providers and
@@ -21,5 +21,4 @@ regarding the practices of surrogacy programs and assisted reproduction
 service providers and all business transactions related to surrogacy and
 gamete provision in New York state, with recommendations for any
 necessary amendments to this article.
-  * NB Effective February 15, 2021
 ```

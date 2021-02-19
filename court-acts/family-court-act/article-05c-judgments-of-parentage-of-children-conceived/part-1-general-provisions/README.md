@@ -16,7 +16,6 @@
                            GENERAL PROVISIONS
 Section 581-101. Purpose.
         581-102. Definitions.
-  * NB Effective February 15, 2021
 ```
 
 </details>

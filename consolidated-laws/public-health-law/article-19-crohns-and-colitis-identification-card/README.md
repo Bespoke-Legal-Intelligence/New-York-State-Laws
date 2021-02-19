@@ -16,7 +16,7 @@
                  CROHN'S AND COLITIS IDENTIFICATION CARD
 Section 1900. Definition.
         1901. Crohn's and colitis identification card.
-  * NB Effective May 31, 2021
+  * NB Effective and Repealed May 31, 2021
 ```
 
 </details>

@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 3 — Child of Assisted Reproduction](README.md)
 
 ```text
-  * § 581-307. Effect of death of intended parent. If an individual who
+  § 581-307. Effect of death of intended parent. If an individual who
 consented in a record to be a parent by assisted reproduction dies
 before the transfer of eggs, sperm, or embryos, the deceased individual
 is not a parent of the resulting child unless the deceased individual
@@ -14,5 +14,4 @@ provided that the record complies with the estates, powers and trusts
 law. Any rights of the child born after the death of an intended parent
 may be enforced by a government agency authorized by law, including but
 not limited to a department of social services.
-  * NB Effective February 15, 2021
 ```

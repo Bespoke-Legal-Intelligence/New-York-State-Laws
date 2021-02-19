@@ -10,7 +10,7 @@
 - [§ 513 Obligation of parents](513-obligation-of-parents.md)
 - [§ 514 Liability of father to mother](514-liability-of-father-to-mother.md)
 - [§ 515 Governmental obligation to child](515-governmental-obligation-to-child.md)
-- [§ 516-A Acknowledgment of paternity](516a-acknowledgment-of-paternity.md)
+- [§ 516-A Acknowledgment of parentage](516a-acknowledgment-of-parentage.md)
 - [§ 517 Time for instituting proceedings](517-time-for-instituting-proceedings.md)
 - [§ 518 Effect of death, absence, or mental illness of mother](518-effect-of-death-absence-or-mental-illness-of-mother.md)
 - [§ 519 Effect of death, absence or mental illness of putative father](519-effect-of-death-absence-or-mental-illness-of-putative-father.md)

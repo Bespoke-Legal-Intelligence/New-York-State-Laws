@@ -4,7 +4,7 @@
 [Environmental Conservation Law](../../README.md) › [Article 27 — Collection, Treatment and Disposal of Refuse and Other Solid Waste](../README.md) › [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](README.md)
 
 ```text
-* § 27-3003. Expanded polystyrene foam container and polystyrene loose
+§ 27-3003. Expanded polystyrene foam container and polystyrene loose
                fill packaging ban.
   1. (a) Beginning January first, two thousand twenty-two, no covered
 food service provider or store shall sell, offer for sale, or distribute
@@ -17,5 +17,4 @@ fill packaging in the state.
 regulations as it shall deem necessary to implement the provisions of
 this title including criteria related to what constitutes comparable
 costs pursuant to subdivision two of section 27-3005 of this title.
-  * NB There are 2 § 27-3003's
 ```

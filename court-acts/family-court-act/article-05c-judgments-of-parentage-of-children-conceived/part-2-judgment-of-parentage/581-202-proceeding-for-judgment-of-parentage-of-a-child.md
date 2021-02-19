@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 2 — Judgment of Parentage](README.md)
 
 ```text
-  * § 581-202. Proceeding for judgment of parentage of a child conceived
+  § 581-202. Proceeding for judgment of parentage of a child conceived
 through assisted reproduction. (a) A proceeding for a judgment of
 parentage with respect to a child conceived through assisted
 reproduction may be commenced:
@@ -109,5 +109,4 @@ health will amend the birth certificate in an expedited manner and seal
 the previously issued birth certificate except that it may be rendered
 accessible to the child at eighteen years of age or the legal parent or
 parents.
-  * NB Effective February 15, 2021
 ```

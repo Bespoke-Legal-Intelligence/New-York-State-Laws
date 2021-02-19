@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2500-L", "kind": "section", "law_id": "PBH", "location_id": "2500-L", "path": "ARTICLE 25 › TITLE 1 › SECTION 2500-L", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2500-L.md", "title": "Study of the effects of racial and ethnic disparities on breastfeeding rates"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2500-L", "kind": "section", "law_id": "PBH", "location_id": "2500-L", "path": "ARTICLE 25 › TITLE 1 › SECTION 2500-L", "repealed": true, "repealed_date": "2021-02-19", "source": "nys-laws:PBH/2500-L.md", "title": "Study of the effects of racial and ethnic disparities on breastfeeding rates"} -->
 # Public Health Law § 2500-L — Study of the effects of racial and ethnic disparities on breastfeeding rates
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+**Repealed** (19 Feb 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 2500-l. Study of the effects of racial and ethnic disparities on

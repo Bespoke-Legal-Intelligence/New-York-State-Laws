@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Domestic Relations Law § 73", "kind": "section", "law_id": "DOM", "location_id": "73", "path": "ARTICLE 5 › SECTION 73", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/73.md", "title": "Legitimacy of children born by artificial insemination"} -->
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 73", "kind": "section", "law_id": "DOM", "location_id": "73", "path": "ARTICLE 5 › SECTION 73", "repealed": true, "repealed_date": "2021-02-19", "source": "nys-laws:DOM/73.md", "title": "Legitimacy of children born by artificial insemination"} -->
 # Domestic Relations Law § 73 — Legitimacy of children born by artificial insemination
 
 [Domestic Relations Law](../README.md) › [Article 5 — The Custody and Wages of Children](README.md)
+
+**Repealed** (19 Feb 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 73. Legitimacy of children born by artificial insemination. 1. Any

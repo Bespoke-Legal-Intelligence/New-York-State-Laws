@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | MHY |
 | Type | Consolidated law, chapter 27 |
-| Sections | 490 |
-| Last changed | 4 Dec 2020 |
+| Sections | 490 (1 repealed) |
+| Last changed | 19 Feb 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Mental Hygiene |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [19 Feb 2021](../../changes/2021/2021-02-19.md): 1 amended, 1 repealed
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 2 amended, 1 added
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 added
 - [2 Oct 2020](../../changes/2020/2020-10-02.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [27 Mar 2020](../../changes/2020/2020-03-27.md): 1 amended
 - [6 Mar 2020](../../changes/2020/2020-03-06.md): 2 amended
 - [7 Feb 2020](../../changes/2020/2020-02-07.md): 1 amended
-- [20 Dec 2019](../../changes/2019/2019-12-20.md): 2 amended
 
 ## Contents
 

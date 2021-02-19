@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 5 — Payment to Donors and Persons Acting As Surrogates](README.md)
 
 ```text
-  * § 581-502. Compensation. (a) Compensation may be paid to a donor or
+  § 581-502. Compensation. (a) Compensation may be paid to a donor or
 person acting as surrogate based on medical risks, physical discomfort,
 inconvenience and the responsibilities they are undertaking in
 connection with their participation in the assisted reproduction. Under
@@ -21,5 +21,4 @@ genome-related traits of the gametes or embryos.
 phenotypic characteristics of the donor or of any resulting children.
   (e) Compensation to an embryo donor shall be limited to storage fees,
 transportation costs and attorneys' fees.
-  * NB Effective February 15, 2021
 ```

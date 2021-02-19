@@ -16,7 +16,7 @@
 <summary>Official heading of Part 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * PART 2
+                                 PART 2
                           JUDGMENT OF PARENTAGE
 Section 581-201. Judgment of parentage.
         581-202. Proceeding for judgment of parentage of a child
@@ -27,7 +27,6 @@ Section 581-201. Judgment of parentage.
                    spouses.
         581-205. Inspection of records.
         581-206. Jurisdiction, and exclusive continuing jurisdiction.
-  * NB Effective February 15, 2021
 ```
 
 </details>

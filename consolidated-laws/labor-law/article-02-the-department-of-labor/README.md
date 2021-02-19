@@ -37,7 +37,7 @@
 - [§ 27 Safety and health standards](27-safety-and-health-standards.md)
 - [§ 27-A Safety and health standards for public employees](27a-safety-and-health-standards-for-public-employees.md)
 - [§ 27-B Duty of public employers to develop and implement programs to prevent workplace violence](27b-duty-of-public-employers-to-develop-and-implement-programs-to-prevent-workplace.md)
-- [§ 27-C Duty of public employers to develop operation plans in the event of certain declared public health emergencies](27c-duty-of-public-employers-to-develop-operation-plans-in-the-event-of-certain.md)
+- [§ 27-C Preparation of public employers for state disaster emergencies involving public health](27c-preparation-of-public-employers-for-state-disaster-emergencies-involving-public.md)
 - [§ 29 Procedure for issuing safety and health rules](29-procedure-for-issuing-safety-and-health-rules.md)
 - [§ 30 Variations](30-variations.md)
 - [§ 31 Duty to furnish information and facilitate inspections](31-duty-to-furnish-information-and-facilitate-inspections.md)
@@ -103,8 +103,8 @@ Section 10.   Department of labor; commissioner of labor.
         27-a. Safety and health standards for public employees.
         27-b. Duty of public employers to develop and implement programs
                 to prevent workplace violence.
-        27-c. Duty of public employers to develop operation plans in the
-                event of certain declared public health emergencies.
+        27-c. Preparation of public employers for state disaster
+                emergencies involving public health.
         29.   Procedure for issuing safety and health rules.
         30.   Variations.
         31.   Duty to furnish information and facilitate inspections.

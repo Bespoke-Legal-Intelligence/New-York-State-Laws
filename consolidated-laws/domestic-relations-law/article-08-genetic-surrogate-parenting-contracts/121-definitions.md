@@ -1,0 +1,21 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 121", "kind": "section", "law_id": "DOM", "location_id": "121", "path": "ARTICLE 8 › SECTION 121", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/121.md", "title": "Definitions"} -->
+# Domestic Relations Law § 121 — Definitions
+
+[Domestic Relations Law](../README.md) › [Article 8 — Genetic Surrogate Parenting Contracts](README.md)
+
+```text
+  § 121. Definitions. When used in this article, unless the context or
+subject matter manifestly requires a different interpretation:
+  1. "Genetic surrogate" shall mean a person who gives birth to a child
+who is the person's genetic child pursuant to a genetic surrogate
+parenting agreement.
+  2. "Genetic surrogate parenting agreement" shall mean any agreement,
+oral or written, in which:
+  (a) a genetic surrogate agrees either to be inseminated with the sperm
+of a person who is not their spouse or to be impregnated with an embryo
+that is the product of the genetic surrogate's ovum fertilized with the
+sperm of a person who is not their spouse; and
+  (b) the genetic surrogate agrees to, or intends to, surrender or
+consent to the adoption of the child born as a result of such
+insemination or impregnation.
+```

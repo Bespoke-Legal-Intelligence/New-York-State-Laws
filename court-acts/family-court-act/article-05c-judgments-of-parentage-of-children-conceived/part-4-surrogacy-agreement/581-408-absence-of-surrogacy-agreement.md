@@ -4,8 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-408. Absence of surrogacy agreement. Where there is no
-surrogacy agreement, the parentage of the child will be determined based
-on other laws of this state.
-  * NB Effective February 15, 2021
+  § 581-408. Absence of surrogacy agreement. Where there is no surrogacy
+agreement, the parentage of the child will be determined based on other
+laws of this state.
 ```

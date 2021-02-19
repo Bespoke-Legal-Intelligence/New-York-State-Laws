@@ -1,0 +1,38 @@
+﻿<!-- nyslaw {"citation": "Domestic Relations Law § 123", "kind": "section", "law_id": "DOM", "location_id": "123", "path": "ARTICLE 8 › SECTION 123", "repealed": false, "repealed_date": null, "source": "nys-laws:DOM/123.md", "title": "Prohibitions and penalties"} -->
+# Domestic Relations Law § 123 — Prohibitions and penalties
+
+[Domestic Relations Law](../README.md) › [Article 8 — Genetic Surrogate Parenting Contracts](README.md)
+
+```text
+  § 123. Prohibitions and penalties. 1. No person or other entity shall
+knowingly request, accept, receive, pay or give any fee, compensation or
+other remuneration, directly or indirectly, in connection with any
+genetic surrogate parenting agreement, or induce, arrange or otherwise
+assist in arranging a genetic surrogate parenting agreement for a fee,
+compensation or other remuneration, except for:
+  (a) payments in connection with the adoption of a child permitted by
+subdivision six of section three hundred seventy-four of the social
+services law and disclosed pursuant to subdivision eight of section one
+hundred fifteen of this chapter; or
+  (b) payments for reasonable and actual medical fees and hospital
+expenses for artificial insemination or in vitro fertilization services
+incurred by the genetic surrogate in connection with the birth of the
+child.
+  2. (a) Any party to a genetic surrogate parenting agreement or the
+spouse of any part to a genetic surrogate parenting agreement who
+violate this section shall be subject to a civil penalty not to exceed
+five hundred dollars.
+  (b) Any other person or entity who or which induces, arranges or
+otherwise assists in the formation of a genetic surrogate parenting
+contract for a fee, compensation or other remuneration or otherwise
+violates this section shall be subject to a civil penalty not to exceed
+ten thousand dollars and forfeiture to the state of any such fee,
+compensation or remuneration in accordance with the provisions of
+subdivision (a) of section seven thousand two hundred one of the civil
+practice law and rules, for the first such offense. Any person or entity
+who or which induces, arranges or otherwise assists in the formation of
+a genetic surrogate parenting contract for a fee, compensation or other
+remuneration or otherwise violates this section, after having been once
+subject to a civil penalty for violating this section, shall be guilty
+of a felony.
+```

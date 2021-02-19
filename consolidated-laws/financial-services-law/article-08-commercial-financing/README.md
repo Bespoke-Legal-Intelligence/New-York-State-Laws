@@ -36,7 +36,7 @@ Section 801. Definitions.
         810. Additional information.
         811. Rules and regulations.
         812. Penalties.
-  * NB Effective June 21, 2021
+  * NB Effective January 1, 2022
 ```
 
 </details>

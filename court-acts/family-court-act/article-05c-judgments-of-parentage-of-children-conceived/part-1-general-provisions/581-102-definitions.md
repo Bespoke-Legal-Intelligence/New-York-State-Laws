@@ -4,9 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 1 — General Provisions](README.md)
 
 ```text
-  * § 581-102. Definitions. (a) "Assisted reproduction" means a method
-of causing pregnancy other than sexual intercourse and includes but is
-not limited to:
+  § 581-102. Definitions. (a) "Assisted reproduction" means a method of
+causing pregnancy other than sexual intercourse and includes but is not
+limited to:
   1. intrauterine or vaginal insemination;
   2. donation of gametes;
   3. donation of embryos;
@@ -85,5 +85,4 @@ territory or insular possession subject to the jurisdiction of the
 United States.
   (t) "Transfer" means the placement of an embryo or gametes into the
 body of a person with the intent to achieve pregnancy and live birth.
-  * NB Effective February 15, 2021
 ```

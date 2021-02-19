@@ -35,8 +35,7 @@
 - [Title 28 — Bag Waste Reduction](title-28-bag-waste/)
 - [Article 27T29 — Title 29 Mercury Thermostat Collection Act](article-27t29-title-29/)
 - [Title 30 — Expanded Polystyrene Foam Container and Polystyrene Loose Fill Packaging Ban](title-30-expanded/)
-- [Title 30\*2 — Excess Food Act](title-30-2-excess-food-act/)
-- [Title 31 — Construction and Demolition Waste](title-31-construction/)
+- [Title 31 — Construction and Demolition Debris](title-31-construction/)
 
 <details>
 <summary>Official heading of Article 27, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -76,7 +75,6 @@ Title   1.   Solid and hazardous waste management policy and planning
        29.   Mercury thermostat collection act
        30.   Expanded polystyrene foam container and polystyrene loose
                fill packaging ban
-       30*2. Excess food act
        31.   Construction and demolition waste
 ```
 

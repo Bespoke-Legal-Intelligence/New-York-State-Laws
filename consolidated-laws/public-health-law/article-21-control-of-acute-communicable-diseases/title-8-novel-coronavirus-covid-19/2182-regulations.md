@@ -4,6 +4,6 @@
 [Public Health Law](../../README.md) › [Article 21 — Control of Acute Communicable Diseases](../README.md) › [Title 8 — Novel Coronavirus, Covid-19](README.md)
 
 ```text
-  § 2182. Regulations. The commissioner shall make regulations
-implementing this title.
+  § 2182. Regulations. The commissioner shall make regulations as
+reasonably necessary to implement this title.
 ```

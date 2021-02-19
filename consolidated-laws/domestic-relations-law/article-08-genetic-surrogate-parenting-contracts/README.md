@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "DOM", "location_id": "A8", "path": "ARTICLE 8", "source": "nys-laws:DOM/A8.md", "title": "Surrogate Parenting Contracts"} -->
-# Article 8 — Surrogate Parenting Contracts
+﻿<!-- nyslaw {"kind": "container", "law_id": "DOM", "location_id": "A8", "path": "ARTICLE 8", "source": "nys-laws:DOM/A8.md", "title": "Genetic Surrogate Parenting Contracts"} -->
+# Article 8 — Genetic Surrogate Parenting Contracts
 
 [Domestic Relations Law](../README.md)
 
@@ -15,10 +15,7 @@
 
 ```text
                                 ARTICLE 8
-                     * SURROGATE PARENTING CONTRACTS
-  * NB Effective until February 15, 2021
-                  * GENETIC SURROGATE PARENTING CONTRACTS
-  * NB Effective February 15, 2021
+                  GENETIC SURROGATE PARENTING CONTRACTS
 Section 121. Definitions.
         122. Public policy.
         123. Prohibitions and penalties.

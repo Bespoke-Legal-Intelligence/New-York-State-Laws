@@ -4,9 +4,9 @@
 [Public Health Law](../README.md) › [Article 25-B — Gestational Surrogacy](README.md)
 
 ```text
-  * § 2599-cc. Gestational surrogacy. 1. The commissioner shall
-promulgate regulations on the practice of gestational surrogacy. Such
-regulations shall include, but not be limited to:
+  § 2599-cc. Gestational surrogacy. 1. The commissioner shall promulgate
+regulations on the practice of gestational surrogacy. Such regulations
+shall include, but not be limited to:
   (a) guidelines and procedures for obtaining fully informed consent
 from potential persons acting as surrogates, including but not limited
 to a full disclosure of any known or potential health risks and mental
@@ -39,5 +39,4 @@ acting as surrogate and any resulting offspring and govern access to
 information maintained by the registry. Such registry shall comply with
 all state and federal laws and regulations related to maintaining the
 privacy and confidentiality of records contained with the registry.
-  * NB Effective February 15, 2021
 ```

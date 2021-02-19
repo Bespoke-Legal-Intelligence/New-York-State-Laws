@@ -17,7 +17,7 @@
 <summary>Official heading of Part 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * PART 3
+                                 PART 3
                      CHILD OF ASSISTED REPRODUCTION
 Section 581-301. Scope of article.
         581-302. Status of donor.
@@ -29,7 +29,6 @@ Section 581-301. Scope of article.
                    parents which transfers legal rights and
                    dispositional control to one intended parent.
         581-307. Effect of death of intended parent.
-  * NB Effective February 15, 2021
 ```
 
 </details>

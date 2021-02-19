@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 3 — Child of Assisted Reproduction](README.md)
 
 ```text
-  * § 581-304. Consent to assisted reproduction. (a) Where the intended
+  § 581-304. Consent to assisted reproduction. (a) Where the intended
 parent who gives birth to a child by means of assisted reproduction is a
 spouse, the consent of both spouses to the assisted reproduction is
 presumed and neither spouse may challenge the parentage of the child,
@@ -19,5 +19,4 @@ section shall not preclude a finding that such consent existed if the
 court finds by clear and convincing evidence that at the time of the
 assisted reproduction the intended parents agreed to conceive and parent
 the child together.
-  * NB Effective February 15, 2021
 ```

@@ -12,11 +12,10 @@
 <summary>Official heading of Part 5, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * PART 5
+                                 PART 5
            PAYMENT TO DONORS AND PERSONS ACTING AS SURROGATES
 Section 581-501. Reimbursement.
         581-502. Compensation.
-  * NB Effective February 15, 2021
 ```
 
 </details>

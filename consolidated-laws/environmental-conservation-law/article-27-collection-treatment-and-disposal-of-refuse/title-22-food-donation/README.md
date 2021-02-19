@@ -14,6 +14,7 @@
 - [§ 27-2213 Regulations](27-2213-regulations.md)
 - [§ 27-2215 Exclusions](27-2215-exclusions.md)
 - [§ 27-2217 Annual report](27-2217-annual-report.md)
+- [§ 27-2218 Supermarket excess edible food](27-2218-supermarket-excess-edible-food.md)
 - [§ 27-2219 Severability](27-2219-severability.md)
 
 <details>
@@ -31,6 +32,7 @@ Section 27-2201. Definitions.
         27-2213. Regulations.
         27-2215. Exclusions.
         27-2217. Annual Report.
+        27-2218. Supermarket excess edible food.
         27-2219. Severability.
 ```
 

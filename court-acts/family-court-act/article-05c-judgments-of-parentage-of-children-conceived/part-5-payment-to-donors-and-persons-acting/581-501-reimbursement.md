@@ -4,10 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 5 — Payment to Donors and Persons Acting As Surrogates](README.md)
 
 ```text
-  * § 581-501. Reimbursement. A donor who has entered into a valid
+  § 581-501. Reimbursement. A donor who has entered into a valid
 agreement to be a donor may receive reimbursement from an intended
 parent or parents for economic losses incurred in connection with the
 donation which result from the retrieval or storage of gametes or
 embryos.
-  * NB Effective February 15, 2021
 ```

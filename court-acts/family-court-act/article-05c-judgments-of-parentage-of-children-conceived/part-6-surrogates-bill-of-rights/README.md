@@ -17,7 +17,7 @@
 <summary>Official heading of Part 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                * PART 6
+                                 PART 6
                        SURROGATES' BILL OF RIGHTS
 Section 581-601. Applicability.
         581-602. Health and welfare decisions.
@@ -26,7 +26,6 @@ Section 581-601. Applicability.
         581-605. Counseling.
         581-606. Life insurance.
         581-607. Termination of surrogacy agreement.
-  * NB Effective February 15, 2021
 ```
 
 </details>

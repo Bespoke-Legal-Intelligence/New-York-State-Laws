@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 3 — Child of Assisted Reproduction](README.md)
 
 ```text
-  * § 581-306. Effect of embryo disposition agreement between intended
+  § 581-306. Effect of embryo disposition agreement between intended
 parents which transfers legal rights and dispositional control to one
 intended parent. (a) An embryo disposition agreement between intended
 parents with joint dispositional control of an embryo shall be binding
@@ -35,5 +35,4 @@ of legal rights and dispositional control may not be declared to be a
 parent for any purpose without his or her consent. The parent awarded
 legal rights and dispositional control of the embryos shall, in this
 instance, be declared to be the only parent of the child.
-  * NB Effective February 15, 2021
 ```

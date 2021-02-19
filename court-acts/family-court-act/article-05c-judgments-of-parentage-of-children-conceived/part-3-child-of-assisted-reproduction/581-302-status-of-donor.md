@@ -4,9 +4,8 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 3 — Child of Assisted Reproduction](README.md)
 
 ```text
-  * § 581-302. Status of donor. A donor is not a parent of a child
+  § 581-302. Status of donor. A donor is not a parent of a child
 conceived by means of assisted reproduction where there is proof of
 donative intent under subdivision (d) of section 581-202 of this
 article.
-  * NB Effective February 15, 2021
 ```

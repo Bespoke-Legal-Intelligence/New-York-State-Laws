@@ -4,9 +4,8 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 6 — Surrogates' Bill of Rights](README.md)
 
 ```text
-  * § 581-607. Termination of surrogacy agreement. A person acting as
+  § 581-607. Termination of surrogacy agreement. A person acting as
 surrogate has the right to terminate a surrogacy agreement prior to
 becoming pregnant by means of assisted reproduction pursuant to section
 581-405 of this article.
-  * NB Effective February 15, 2021
 ```

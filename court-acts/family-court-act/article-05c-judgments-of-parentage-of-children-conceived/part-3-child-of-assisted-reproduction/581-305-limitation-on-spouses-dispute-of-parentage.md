@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 3 — Child of Assisted Reproduction](README.md)
 
 ```text
-  * § 581-305. Limitation on spouses' dispute of parentage of child of
+  § 581-305. Limitation on spouses' dispute of parentage of child of
 assisted reproduction. (a) Neither spouse may challenge the marital
 presumption of parentage of a child created by assisted reproduction
 during the marriage unless the court finds by clear and convincing
@@ -22,5 +22,4 @@ to the use of assisted reproduction.
   (c) The limitation provided in this section applies to a spousal
 relationship that has been declared invalid after assisted reproduction
 or artificial insemination.
-  * NB Effective February 15, 2021
 ```

@@ -19,7 +19,7 @@
 <summary>Official heading of Part 4, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                               *    PART 4
+                                 PART 4
                            SURROGACY AGREEMENT
 Section 581-401. Surrogacy agreement authorized.
         581-402. Eligibility to enter surrogacy agreement.
@@ -31,7 +31,6 @@ Section 581-401. Surrogacy agreement authorized.
         581-407. Insufficient surrogacy agreement.
         581-408. Absence of surrogacy agreement.
         581-409. Dispute as to surrogacy agreement.
-  * NB Effective February 15, 2021
 ```
 
 </details>

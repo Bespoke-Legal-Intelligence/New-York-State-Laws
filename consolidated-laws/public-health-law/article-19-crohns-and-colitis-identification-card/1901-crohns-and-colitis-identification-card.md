@@ -30,5 +30,5 @@ painful conditions and need immediate access to a restroom."
 twenty-eight-F of the general business law; and
   (b) the following statement: "Complaints regarding enforcement should
 be directed to the New York State Attorney General's Consumer Helpline".
-  * NB Effective May 31, 2021
+  * NB Effective and Repealed May 31, 2021
 ```

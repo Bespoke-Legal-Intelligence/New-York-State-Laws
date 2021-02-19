@@ -86,13 +86,13 @@ subdivision two of section twenty-seven hundred eighty-six of this
 article, to the extent the medical director is authorized to access
 records containing such information in order to carry out his or her
 functions, powers and duties with respect to the protected individual;
-  (o) an employee or agent of the commission of correction or the board
-of correction of the city of New York, in accordance with paragraph (a)
-of subdivision two of section twenty-seven hundred eighty-six of this
-article, to the extent the employee or agent is authorized to access
-records containing such information in order to carry out the
-commission's functions, powers and duties with respect to the protected
-individual, pursuant to article three of the correction law;
+  (o) an employee or agent of the commission of correction, in
+accordance with paragraph (a) of subdivision two of section twenty-seven
+hundred eighty-six of this article, to the extent the employee or agent
+is authorized to access records containing such information in order to
+carry out the commission's functions, powers and duties with respect to
+the protected individual, pursuant to article three of the correction
+law;
   (p) an attorney appointed to represent a minor pursuant to the social
 services law or the family court act, with respect to confidential HIV
 related information relating to the minor and for the purpose of
@@ -115,6 +115,13 @@ approved under the provisions of 45 CFR part 46 or 42 USC 300 V-1, for
 the purpose of reviewing and monitoring research involving human
 subjects, provided that in no event shall any qualified researcher
 disclose information tending to identify the subjects of the research.
+  (s) an employee or agent of the board of correction of the city of New
+York, in accordance with paragraph (a) of subdivision two of section
+twenty-seven hundred eighty-six of this article, to the extent the
+employee or agent is authorized to access records containing such
+information in order to carry out the board's functions, powers and
+duties with respect to the protected individual, pursuant to the charter
+of the city of New York.
   2. A state, county or local health officer may disclose confidential
 HIV related information when:
   (a) disclosure is specifically authorized or required by federal or

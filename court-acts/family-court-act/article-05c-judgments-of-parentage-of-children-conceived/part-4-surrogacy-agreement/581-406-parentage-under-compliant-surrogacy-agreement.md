@@ -4,10 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-406. Parentage under compliant surrogacy agreement. Upon the
+  § 581-406. Parentage under compliant surrogacy agreement. Upon the
 birth of a child conceived by assisted reproduction under a surrogacy
 agreement that complies with this part, each intended parent is, by
 operation of law, a parent of the child and neither the person acting as
 a surrogate nor the person's spouse, if any, is a parent of the child.
-  * NB Effective February 15, 2021
 ```

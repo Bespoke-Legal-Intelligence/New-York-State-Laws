@@ -4,7 +4,7 @@
 [Insurance Law](../README.md) › [Article 23 — Property/casualty Insurance Rates](README.md)
 
 ```text
-  * § 2353. For-hire motor vehicle safety program; reduction in rates of
+  § 2353. For-hire motor vehicle safety program; reduction in rates of
 certain commercial risk insurance premiums for motor vehicles. (a) For
 the purposes of this section, an association shall mean an association
 where all the eligible members of the association have the same
@@ -76,5 +76,4 @@ national safety council's defensive driving course, authorized under
 section two thousand three hundred thirty-six of this article.
   (g) The superintendent may promulgate any rules and regulations
 necessary to implement the provisions of this section.
-  * NB Effective February 13, 2021
 ```

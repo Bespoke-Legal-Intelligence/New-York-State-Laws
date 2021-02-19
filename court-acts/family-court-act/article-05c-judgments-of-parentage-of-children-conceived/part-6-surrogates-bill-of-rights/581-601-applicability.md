@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 6 — Surrogates' Bill of Rights](README.md)
 
 ```text
-  * § 581-601. Applicability. The rights enumerated in this part shall
+  § 581-601. Applicability. The rights enumerated in this part shall
 apply to any person acting as surrogate in this state, notwithstanding
 any surrogacy agreement, judgment of parentage, memorandum of
 understanding, verbal agreement or contract to the contrary. Except as
@@ -13,5 +13,4 @@ waive or limit any of the rights in this part is void as against public
 policy. The rights enumerated in this part are not exclusive, and are in
 addition to any other rights provided by law, regulation, or a surrogacy
 agreement that meets the requirements of this article.
-  * NB Effective February 15, 2021
 ```

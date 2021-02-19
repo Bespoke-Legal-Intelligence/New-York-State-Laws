@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 2 — Judgment of Parentage](README.md)
 
 ```text
-  * § 581-201. Judgment of parentage. (a) A civil proceeding may be
+  § 581-201. Judgment of parentage. (a) A civil proceeding may be
 maintained to adjudicate the parentage of a child under the
 circumstances set forth in this article. This proceeding is governed by
 the civil practice law and rules.
@@ -21,5 +21,4 @@ legally establish the child-parent relationship of either a child born
 through assisted reproduction under part three of this article or a
 child born pursuant to a surrogacy agreement under part four of this
 article.
-  * NB Effective February 15, 2021
 ```

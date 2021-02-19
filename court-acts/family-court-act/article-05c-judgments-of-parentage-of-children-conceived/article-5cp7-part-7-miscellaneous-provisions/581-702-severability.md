@@ -4,8 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Article 5-CP7 — Part 7 Miscellaneous Provisions](README.md)
 
 ```text
-  * § 581-702. Severability. The invalidation of any part of this
+  § 581-702. Severability. The invalidation of any part of this
 legislation by a court of competent jurisdiction shall not result in the
 invalidation of any other part.
-  * NB Effective February 15, 2021
 ```

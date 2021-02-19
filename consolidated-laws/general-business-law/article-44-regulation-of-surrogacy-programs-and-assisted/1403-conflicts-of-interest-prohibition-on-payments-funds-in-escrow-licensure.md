@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 44 — Regulation of Surrogacy Programs and Assisted Reproduction Service Providers](README.md)
 
 ```text
-  * § 1403. Conflicts of interest; prohibition on payments; funds in
+  § 1403. Conflicts of interest; prohibition on payments; funds in
 escrow; licensure; notice of surrogates' bill of rights. A surrogacy
 program to which this article applies:
   (a) Shall keep all funds paid by or on behalf of the intended parent
@@ -30,5 +30,4 @@ promulgated and become effective; and
 at the time of consultation with such surrogacy program, are provided
 with written notice of the surrogates' bill of rights enumerated in part
 six of article five-C of the family court act.
-  * NB Effective February 15, 2021
 ```

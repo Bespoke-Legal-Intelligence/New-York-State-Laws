@@ -8,7 +8,7 @@
 - [§ 70 Habeas corpus for child detained by parent](70-habeas-corpus-for-child-detained-by-parent.md)
 - [§ 71 Special proceeding or habeas corpus to obtain visitation rights in respect to certain infant siblings](71-special-proceeding-or-habeas-corpus-to-obtain-visitation-rights-in-respect.md)
 - [§ 72 Special proceeding or habeas corpus to obtain visitation rights or custody in respect to certain infant grandchildren](72-special-proceeding-or-habeas-corpus-to-obtain-visitation-rights-or-custody.md)
-- [§ 73 Legitimacy of children born by artificial insemination](73-legitimacy-of-children-born-by-artificial-insemination.md)
+- [§ 73 Legitimacy of children born by artificial insemination](73-legitimacy-of-children-born-by-artificial-insemination.md) *(repealed)*
 - [§ 74 Certain provisions relating to the custody of children by persons who are not the parents of such children](74-certain-provisions-relating-to-the-custody-of-children-by-persons-who-are-not.md)
 
 <details>
@@ -23,7 +23,6 @@ Section 70. Habeas corpus for child detained by parent.
         72. Special proceeding or habeas corpus to obtain visitation
               rights or custody in respect to certain infant
               grandchildren.
-        73. Legitimacy of children born by artificial insemination.
         74. Certain provisions relating to the custody of children by
               persons who are not the parents of such children.
 ```

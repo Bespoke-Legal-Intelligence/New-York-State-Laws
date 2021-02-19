@@ -4,12 +4,11 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 6 — Surrogates' Bill of Rights](README.md)
 
 ```text
-  * § 581-602. Health and welfare decisions. A person acting as
-surrogate has the right to make all health and welfare decisions
-regarding them-self and their pregnancy, including but not limited to
-whether to consent to a cesarean section or multiple embryo transfer, to
-utilize the services of a health care practitioner of their choosing,
-whether to terminate or continue the pregnancy, and whether to reduce or
-retain the number of fetuses or embryos they are carrying.
-  * NB Effective February 15, 2021
+  § 581-602. Health and welfare decisions. A person acting as surrogate
+has the right to make all health and welfare decisions regarding
+them-self and their pregnancy, including but not limited to whether to
+consent to a cesarean section or multiple embryo transfer, to utilize
+the services of a health care practitioner of their choosing, whether to
+terminate or continue the pregnancy, and whether to reduce or retain the
+number of fetuses or embryos they are carrying.
 ```

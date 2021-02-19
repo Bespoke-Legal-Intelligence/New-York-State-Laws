@@ -1007,18 +1007,17 @@ policy or practice instituted in facilities operated by the department
 of corrections and community supervision, and in all local correctional
 facilities, as defined in subdivision sixteen of section two of the
 correction law, regarding human immunodeficiency virus (HIV), acquired
-immunodeficiency syndrome (AIDS), hepatitis C (HCV), and emerging
-infectious diseases, including the prevention of the transmission of and
-the treatment of such infections and diseases among inmates. Such review
-shall be performed annually, and more frequently as determined by the
-commissioner, and shall focus on whether such policy or practice is
-consistent with current, generally accepted medical standards and
-procedures used to prevent the transmission of and to treat those
-infections and diseases among the general public. In performing such
-reviews, in order to determine the quality and adequacy of care and
-treatment provided, department personnel are authorized to enter
-correctional facilities and inspect policy and procedure manuals and
-medical protocols, interview health services providers and
+immunodeficiency syndrome (AIDS), hepatitis C (HCV), and COVID-19,
+including the prevention of the transmission of and the treatment of
+such infections and diseases among inmates. Such review shall be
+performed at least annually, and shall focus on whether such policy or
+practice is consistent with current, generally accepted medical
+standards and procedures used to prevent the transmission of and to
+treat those infections and diseases among the general public. In
+performing such reviews, in order to determine the quality and adequacy
+of care and treatment provided, department personnel are authorized to
+enter correctional facilities and inspect policy and procedure manuals
+and medical protocols, interview health services providers and
 inmate-patients, review medical grievances, and inspect a representative
 sample of medical records of inmates known to be infected with any such
 infections or diseases. Prior to initiating a review of a correctional
@@ -1040,9 +1039,7 @@ necessary to ensure that identified deficiencies in those policies and
 practices are corrected. All written reports pertaining to reviews
 provided for in this subdivision shall be maintained, under such
 conditions as the commissioner shall prescribe, as public information
-available for public inspection. As used in this subdivision, "emerging
-infectious disease" means an infection that has increased recently or is
-threatening to increase in the near future.
+available for public inspection.
   27. The commissioner shall promulgate regulations to require that a
 manufacturer or other entity selling, leasing, or otherwise providing
 any drug, device, or health care service shall not, directly or

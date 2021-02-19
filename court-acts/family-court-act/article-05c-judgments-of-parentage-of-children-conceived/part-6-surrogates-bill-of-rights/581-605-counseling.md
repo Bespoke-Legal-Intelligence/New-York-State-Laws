@@ -4,10 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 6 — Surrogates' Bill of Rights](README.md)
 
 ```text
-  * § 581-605. Counseling. A person acting as surrogate has the right to
+  § 581-605. Counseling. A person acting as surrogate has the right to
 obtain a comprehensive health insurance policy that covers behavioral
 health care and will cover the cost of psychological counseling to
 address issues resulting from their participation in a surrogacy and
 such policy shall be paid for by the intended parent or parents.
-  * NB Effective February 15, 2021
 ```

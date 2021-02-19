@@ -30,27 +30,16 @@ sufficient authority to make a new birth certificate with conforming
 change in surname for any of such person's children under the age of
 eighteen years whose record of birth is on file in the state health
 department; or,
-  * (e) the certificate of birth of a child born out of wedlock as
-defined in paragraph (b) of subdivision one of section four thousand one
-hundred thirty-five of this article has been filed without entry of the
-name of the father and the commissioner thereafter receives the
-acknowledgment of paternity pursuant to section one hundred eleven-k of
-the social services law or section four thousand one hundred
-thirty-five-b of this article executed by the putative father and mother
-which authorizes the entry of the name of such father, and which may
-also authorize a conforming change in the surname of the child.
-  * NB Effective until February 15, 2021
-  * (e) the certificate of birth of a child born out of wedlock as
-defined in paragraph (b) of subdivision one of section four thousand one
-hundred thirty-five of this article has been filed without entry of the
-name of the signatory other than the person who gave birth and the
-commissioner thereafter receives the acknowledgment of parentage
-pursuant to section one hundred eleven-k of the social services law or
-section four thousand one hundred thirty-five-b of this article executed
-by the person who gave birth and the other signatory which authorizes
-the entry of the name of such other signatory, and which may also
-authorize a conforming change in the surname of the child.
-  * NB Effective February 15, 2021
+  (e) the certificate of birth of a child born out of wedlock as defined
+in paragraph (b) of subdivision one of section four thousand one hundred
+thirty-five of this article has been filed without entry of the name of
+the signatory other than the person who gave birth and the commissioner
+thereafter receives the acknowledgment of parentage pursuant to section
+one hundred eleven-k of the social services law or section four thousand
+one hundred thirty-five-b of this article executed by the person who
+gave birth and the other signatory which authorizes the entry of the
+name of such other signatory, and which may also authorize a conforming
+change in the surname of the child.
   2. (a) On every new certificate of birth made pursuant to this
 section, a notation that it is filed pursuant to section four thousand
 one hundred thirty-eight of the public health law shall be entered

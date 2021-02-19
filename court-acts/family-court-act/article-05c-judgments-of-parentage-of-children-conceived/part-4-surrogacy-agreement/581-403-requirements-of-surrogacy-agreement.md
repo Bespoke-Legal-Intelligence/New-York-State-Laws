@@ -4,9 +4,9 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 4 — Surrogacy Agreement](README.md)
 
 ```text
-  * § 581-403. Requirements of surrogacy agreement. A surrogacy
-agreement shall be deemed to have satisfied the requirements of this
-article and be enforceable if it meets the following requirements:
+  § 581-403. Requirements of surrogacy agreement. A surrogacy agreement
+shall be deemed to have satisfied the requirements of this article and
+be enforceable if it meets the following requirements:
   (a) it shall be in a signed record verified or executed before two
 non-party witnesses by:
   (1) each intended parent, and
@@ -130,5 +130,4 @@ agreement are not assignable; and
 the embryo transfer, designating a guardian for all resulting children
 and authorizing their executor to perform the intended parent's or
 parents' obligations pursuant to the surrogacy agreement.
-  * NB Effective February 15, 2021
 ```

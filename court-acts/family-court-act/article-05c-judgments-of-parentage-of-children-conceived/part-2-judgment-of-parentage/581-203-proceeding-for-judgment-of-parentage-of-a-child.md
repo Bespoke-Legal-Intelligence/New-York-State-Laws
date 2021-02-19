@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 2 — Judgment of Parentage](README.md)
 
 ```text
-  * § 581-203. Proceeding for judgment of parentage of a child conceived
+  § 581-203. Proceeding for judgment of parentage of a child conceived
 pursuant to a surrogacy agreement. (a) The proceeding may be commenced
 (1) in any county where an intended parent resided any time after the
 surrogacy agreement was executed; (2) in the county where the child was
@@ -73,5 +73,4 @@ if the court determines the agreement is in substantial compliance with
 the requirements of this article. In the event that any other
 requirements of subdivision (c) of this section are not met, the court
 shall determine parentage according to part four of this article.
-  * NB Effective February 15, 2021
 ```

@@ -4,7 +4,7 @@
 [Family Court Act](../../README.md) › [Article 5-C — Judgments of Parentage of Children Conceived Through Assisted Reproduction or Pursuant to Surrogacy Agreements](../README.md) › [Part 2 — Judgment of Parentage](README.md)
 
 ```text
-  * § 581-206. Jurisdiction, and exclusive continuing jurisdiction. (a)
+  § 581-206. Jurisdiction, and exclusive continuing jurisdiction. (a)
 Proceedings pursuant to this article may be instituted in the supreme or
 family court or surrogates court.
   (b) Subject to the jurisdictional standards of section seventy-six of
@@ -12,5 +12,4 @@ the domestic relations law, the court conducting a proceeding under this
 article has exclusive, continuing jurisdiction of all matters relating
 to the determination of parentage until the child attains the age of one
 hundred eighty days.
-  * NB Effective February 15, 2021
 ```

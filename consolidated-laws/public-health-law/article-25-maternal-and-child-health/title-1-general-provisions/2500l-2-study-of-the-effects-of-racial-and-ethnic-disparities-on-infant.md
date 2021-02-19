@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2500-L*2", "kind": "section", "law_id": "PBH", "location_id": "2500-L*2", "path": "ARTICLE 25 › TITLE 1 › SECTION 2500-L*2", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2500-L_2.md", "title": "Study of the effects of racial and ethnic disparities on infant mortality"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 2500-L*2", "kind": "section", "law_id": "PBH", "location_id": "2500-L*2", "path": "ARTICLE 25 › TITLE 1 › SECTION 2500-L*2", "repealed": true, "repealed_date": "2021-02-19", "source": "nys-laws:PBH/2500-L_2.md", "title": "Study of the effects of racial and ethnic disparities on infant mortality"} -->
 # Public Health Law § 2500-L*2 — Study of the effects of racial and ethnic disparities on infant mortality
 
 [Public Health Law](../../README.md) › [Article 25 — Maternal and Child Health](../README.md) › [Title 1 — General Provisions](README.md)
+
+**Repealed** (19 Feb 2021). The text below is what the Senate publishes for this repealed provision.
 
 *An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
 

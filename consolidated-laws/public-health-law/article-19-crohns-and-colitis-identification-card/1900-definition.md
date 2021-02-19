@@ -8,5 +8,5 @@
 condition" means Crohn's disease, ulcerative colitis, any other
 inflammatory bowel disease, irritable bowel syndrome or any other
 medical condition that requires immediate access to a toilet facility.
-  * NB Effective May 31, 2021
+  * NB Effective and Repealed May 31, 2021
 ```

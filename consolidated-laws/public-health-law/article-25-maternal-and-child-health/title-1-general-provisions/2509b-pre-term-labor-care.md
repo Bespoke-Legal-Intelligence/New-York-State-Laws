@@ -20,5 +20,5 @@ birth delivery on the mother and on her fetus as required by section
 twenty-eight hundred three-j of this chapter.
   2. As used in this section, "general hospital" means a general
 hospital as defined in section twenty-eight hundred one of this chapter.
-  * NB Effective February 20, 2021
+  * NB Effective and Repealed December 22, 2021
 ```

@@ -11,10 +11,9 @@
 <summary>Official heading of Article 25-B, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 25-B
+                              ARTICLE 25-B
                           GESTATIONAL SURROGACY
 Section 2599-cc. Gestational surrogacy.
-  * NB Effective February 15, 2021
 ```
 
 </details>
