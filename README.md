@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 26 Feb 2021.*
+*Current through the publication of 5 Mar 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [5 Mar 2021](changes/2021/2021-03-05.md): Executive Law; Mental Hygiene Law
 - [26 Feb 2021](changes/2021/2021-02-26.md): Executive Law
 - [19 Feb 2021](changes/2021/2021-02-19.md): Agriculture and Markets Law; Correction Law; Domestic Relations Law; Education Law; Election Law; Environmental Conservation Law; Estates, Powers and Trusts Law; Executive Law; Family Court Act; Financial Services Law; General Business Law; General Municipal Law; Insurance Law; Labor Law; Mental Hygiene Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Real Property Law; Social Services Law; Vehicle and Traffic Law
 - [12 Feb 2021](changes/2021/2021-02-12.md): Banking Law; General Business Law
@@ -22,13 +23,12 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [29 Jan 2021](changes/2021/2021-01-29.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Insurance Law; Labor Law; Not-for-Profit Corporation Law; Public Health Law; Public Service Law; Social Services Law; State Technology Law; Tax Law; Vehicle and Traffic Law; Workers' Compensation Law
 - [22 Jan 2021](changes/2021/2021-01-22.md): Election Law
 - [15 Jan 2021](changes/2021/2021-01-15.md): Tax Law
-- [8 Jan 2021](changes/2021/2021-01-08.md): Education Law; Election Law; Environmental Conservation Law; Executive Law; General Obligations Law; Insurance Law; Labor Law; Navigation Law; Penal Law; Private Housing Finance Law; Public Health Law; Public Housing Law; Public Service Law; Real Property Actions and Proceedings Law; Real Property Tax Law; Social Services Law; Tax Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 271 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 270 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 173 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 159 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 117 |
@@ -40,7 +40,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Education Law](consolidated-laws/education-law/README.md) | 92 |
 | [Election Law](consolidated-laws/election-law/README.md) | 79 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | 76 |
-| [Social Services Law](consolidated-laws/social-services-law/README.md) | 72 |
+| [Social Services Law](consolidated-laws/social-services-law/README.md) | 69 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | 66 |
 | [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 53 |
 
@@ -75,7 +75,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Energy Law](consolidated-laws/energy-law/README.md) | ENG | 67 | 24 Apr 2020 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | ENV | 1,774 | 19 Feb 2021 |
 | [Estates, Powers and Trusts Law](consolidated-laws/estates-powers-and-trusts-law/README.md) | EPT | 361 | 19 Feb 2021 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 918 | 26 Feb 2021 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | EXC | 918 | 5 Mar 2021 |
 | [Financial Services Law](consolidated-laws/financial-services-law/README.md) | FIS | 59 | 19 Feb 2021 |
 | [General Associations Law](consolidated-laws/general-associations-law/README.md) | GAS | 23 | 9 Jan 2015 |
 | [General Business Law](consolidated-laws/general-business-law/README.md) | GBS | 1,262 | 19 Feb 2021 |
@@ -92,7 +92,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 118 | 14 Feb 2020 |
 | [Local Finance Law](consolidated-laws/local-finance-law/README.md) | LFN | 164 | 28 Aug 2020 |
-| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 490 | 19 Feb 2021 |
+| [Mental Hygiene Law](consolidated-laws/mental-hygiene-law/README.md) | MHY | 490 | 5 Mar 2021 |
 | [Military Law](consolidated-laws/military-law/README.md) | MIL | 304 | 13 Nov 2020 |
 | [Multiple Dwelling Law](consolidated-laws/multiple-dwelling-law/README.md) | MDW | 189 | 28 Jun 2019 |
 | [Multiple Residence Law](consolidated-laws/multiple-residence-law/README.md) | MRE | 105 | 8 Nov 2019 |
