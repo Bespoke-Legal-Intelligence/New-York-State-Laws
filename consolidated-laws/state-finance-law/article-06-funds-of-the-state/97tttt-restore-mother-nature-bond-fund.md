@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "State Finance Law § 97-TTTT", "kind": "section", "law_id": "STF", "location_id": "97-TTTT", "path": "ARTICLE 6 › SECTION 97-TTTT", "repealed": false, "repealed_date": null, "source": "nys-laws:STF/97-TTTT.md", "title": "Restore mother nature bond fund"} -->
+﻿<!-- nyslaw {"citation": "State Finance Law § 97-TTTT", "kind": "section", "law_id": "STF", "location_id": "97-TTTT", "path": "ARTICLE 6 › SECTION 97-TTTT", "repealed": true, "repealed_date": "2021-03-12", "source": "nys-laws:STF/97-TTTT.md", "title": "Restore mother nature bond fund"} -->
 # State Finance Law § 97-TTTT — Restore mother nature bond fund
 
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
+
+**Repealed** (12 Mar 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 97-tttt. Restore mother nature bond fund. 1. There is hereby

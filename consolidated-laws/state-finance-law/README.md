@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | STF |
 | Type | Consolidated law, chapter 56 |
-| Sections | 546 |
-| Last changed | 18 Dec 2020 |
+| Sections | 546 (1 repealed) |
+| Last changed | 12 Mar 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | State Finance |
 
@@ -33,6 +33,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [12 Mar 2021](../../changes/2021/2021-03-12.md): 1 amended, 1 repealed
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 2 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 amended
 - [10 Jul 2020](../../changes/2020/2020-07-10.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 17 amended, 4 added
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 2 amended, 1 added
 - [6 Mar 2020](../../changes/2020/2020-03-06.md): 1 amended
-- [31 Jan 2020](../../changes/2020/2020-01-31.md): 1 amended
 
 ## Contents
 
