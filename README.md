@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 12 Mar 2021.*
+*Current through the publication of 19 Mar 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [19 Mar 2021](changes/2021/2021-03-19.md): Civil Service Law; Education Law; Labor Law; Public Authorities Law; Retirement and Social Security Law
 - [12 Mar 2021](changes/2021/2021-03-12.md): Education Law; Election Law; Executive Law; Mental Hygiene Law; State Finance Law; Town Law; Vehicle and Traffic Law
 - [5 Mar 2021](changes/2021/2021-03-05.md): Executive Law; Mental Hygiene Law
 - [26 Feb 2021](changes/2021/2021-02-26.md): Executive Law
@@ -22,27 +23,26 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [12 Feb 2021](changes/2021/2021-02-12.md): Banking Law; General Business Law
 - [5 Feb 2021](changes/2021/2021-02-05.md): Civil Practice Law and Rules; Criminal Procedure Law; Economic Development Law; Executive Law; Labor Law; Penal Law; Public Health Law; Real Property Tax Law; Social Services Law; Transportation Law; Vehicle and Traffic Law
 - [29 Jan 2021](changes/2021/2021-01-29.md): Agriculture and Markets Law; Alcoholic Beverage Control Law; Education Law; Election Law; Environmental Conservation Law; Executive Law; Insurance Law; Labor Law; Not-for-Profit Corporation Law; Public Health Law; Public Service Law; Social Services Law; State Technology Law; Tax Law; Vehicle and Traffic Law; Workers' Compensation Law
-- [22 Jan 2021](changes/2021/2021-01-22.md): Election Law
 
 ## Most changed in the past 12 months
 
 | Law | Sections changed |
 |---|---:|
-| [Public Health Law](consolidated-laws/public-health-law/README.md) | 270 |
+| [Public Health Law](consolidated-laws/public-health-law/README.md) | 267 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 173 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 147 |
 | [Tax Law](consolidated-laws/tax-law/README.md) | 117 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 113 |
 | [Executive Law](consolidated-laws/executive-law/README.md) | 111 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 110 |
-| [Education Law](consolidated-laws/education-law/README.md) | 97 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 94 |
+| [Education Law](consolidated-laws/education-law/README.md) | 98 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 95 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 93 |
 | [Election Law](consolidated-laws/election-law/README.md) | 80 |
-| [Insurance Law](consolidated-laws/insurance-law/README.md) | 73 |
+| [Insurance Law](consolidated-laws/insurance-law/README.md) | 72 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 69 |
-| [General Business Law](consolidated-laws/general-business-law/README.md) | 64 |
-| [Agriculture and Markets Law](consolidated-laws/agriculture-and-markets-law/README.md) | 53 |
+| [General Business Law](consolidated-laws/general-business-law/README.md) | 63 |
+| [Correction Law](consolidated-laws/correction-law/README.md) | 50 |
 
 ## Consolidated Laws
 
@@ -59,7 +59,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Canal Law](consolidated-laws/canal-law/README.md) | CAL | 88 | 24 Apr 2020 |
 | [Civil Practice Law and Rules](consolidated-laws/civil-practice-law-and-rules/README.md) | CVP | 796 | 5 Feb 2021 |
 | [Civil Rights Law](consolidated-laws/civil-rights-law/README.md) | CVR | 124 | 1 Jan 2021 |
-| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 171 | 13 Nov 2020 |
+| [Civil Service Law](consolidated-laws/civil-service-law/README.md) | CVS | 172 | 19 Mar 2021 |
 | [Cooperative Corporations Law](consolidated-laws/cooperative-corporations-law/README.md) | CCO | 64 | 20 Dec 2019 |
 | [Correction Law](consolidated-laws/correction-law/README.md) | COR | 327 | 19 Feb 2021 |
 | [County Law](consolidated-laws/county-law/README.md) | CNT | 400 | 13 Nov 2020 |
@@ -67,7 +67,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 10 Apr 2020 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 19 Feb 2021 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 174 | 5 Feb 2021 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,900 | 12 Mar 2021 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,900 | 19 Mar 2021 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 1 Jan 2021 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 423 | 12 Mar 2021 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
@@ -87,7 +87,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,029 | 19 Feb 2021 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 539 | 1 Jan 2021 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 705 | 19 Feb 2021 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 706 | 19 Mar 2021 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 17 Apr 2020 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 118 | 14 Feb 2020 |
@@ -106,7 +106,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Penal Law](consolidated-laws/penal-law/README.md) | PEN | 871 | 5 Feb 2021 |
 | [Personal Property Law](consolidated-laws/personal-property-law/README.md) | PEP | 135 | 13 Dec 2019 |
 | [Private Housing Finance Law](consolidated-laws/private-housing-finance-law/README.md) | PVH | 437 | 19 Feb 2021 |
-| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,168 | 19 Feb 2021 |
+| [Public Authorities Law](consolidated-laws/public-authorities-law/README.md) | PBA | 3,168 | 19 Mar 2021 |
 | [Public Buildings Law](consolidated-laws/public-buildings-law/README.md) | PBB | 54 | 18 Dec 2020 |
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | PBH | 1,714 | 19 Feb 2021 |
 | [Public Housing Law](consolidated-laws/public-housing-law/README.md) | PBG | 331 | 8 Jan 2021 |
@@ -120,7 +120,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Real Property Law](consolidated-laws/real-property-law/README.md) | RPP | 421 | 19 Feb 2021 |
 | [Real Property Tax Law](consolidated-laws/real-property-tax-law/README.md) | RPT | 771 | 5 Feb 2021 |
 | [Religious Corporations Law](consolidated-laws/religious-corporations-law/README.md) | RCO | 337 | 19 Jun 2020 |
-| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 547 | 3 Jul 2020 |
+| [Retirement and Social Security Law](consolidated-laws/retirement-and-social-security-law/README.md) | RSS | 551 | 19 Mar 2021 |
 | [Rural Electric Cooperative Law](consolidated-laws/rural-electric-cooperative-law/README.md) | REL | 46 | 19 Apr 2019 |
 | [Second Class Cities Law](consolidated-laws/second-class-cities-law/README.md) | SCC | 147 | 11 Jan 2019 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | SOS | 698 | 19 Feb 2021 |

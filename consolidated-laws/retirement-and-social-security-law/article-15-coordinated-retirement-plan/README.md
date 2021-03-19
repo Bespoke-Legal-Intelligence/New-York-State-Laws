@@ -44,6 +44,7 @@
 - [§ 607-G Retirement for disability benefits incurred in the performance of duty; Westchester county district attorney investigators](607g-retirement-for-disability-benefits-incurred-in-the-performance-of-duty.md)
 - [§ 607-H Disability benefits; Westchester county district attorney investigators](607h-disability-benefits-westchester-county-district-attorney-investigators.md)
 - [§ 607-I COVID-19 benefit](607i-covid-19-benefit.md)
+- [§ 607-I\*2 COVID-19 benefit](607i-2-covid-19-benefit.md)
 - [§ 608 Final average salary](608-final-average-salary.md)
 - [§ 609 Credit for service](609-credit-for-service.md)
 - [§ 610 Options](610-options.md)
@@ -134,6 +135,7 @@ Section 600.     Application.
         607-h.   Disability benefits; Westchester county district
                    attorney investigators.
         607-i.   COVID-19 benefit.
+        607-i*2. COVID-19 benefit.
         608.     Final average salary.
         609.     Credit for service.
         610.     Options.

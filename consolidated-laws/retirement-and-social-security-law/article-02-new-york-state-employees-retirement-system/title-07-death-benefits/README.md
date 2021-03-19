@@ -3,6 +3,8 @@
 
 [Retirement and Social Security Law](../../README.md) › [Article 2 — New York State Employees' Retirement System](../README.md)
 
+*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
+
 ## Contents
 
 - [§ 60 Ordinary death benefit](60-ordinary-death-benefit.md)
@@ -12,6 +14,7 @@
 - [§ 61 Accidental death benefit](61-accidental-death-benefit.md)
 - [§ 61-A Payment of interest on death benefits and accumulated contributions](61a-payment-of-interest-on-death-benefits.md)
 - [§ 61-B COVID-19 benefit](61b-covid-19-benefit.md)
+- [§ 61-B\*2 COVID-19 benefit](61b-2-covid-19-benefit.md)
 - [§ 62 Ordinary disability retirement](62-ordinary-disability-retirement.md)
 - [§ 63 Accidental disability retirement](63-accidental-disability-retirement.md)
 - [§ 63-A Performance of duty disability retirement](63a-performance-of-duty-disability-retirement.md)
@@ -28,32 +31,33 @@
 ```text
                                  TITLE 7
                 DEATH BENEFITS AND DISABILITY RETIREMENT
-Section 60.    Ordinary death benefit.
-        60-a.  Guaranteed ordinary death benefit payable upon death of
-                 state employees.
-        60-b.  Guaranteed ordinary death benefit for participating
-                 employers.
-        60-c.  Death benefit for vested members who die prior to
-                 retirement.
-        61.    Accidental death benefit.
-        61-a.  Payment of interest on death benefits and accumulated
-                 contributions.
-        61-b.  COVID-19 benefit.
-        62.    Ordinary disability retirement.
-        63.    Accidental disability retirement.
-        63-a.  Performance of duty disability retirement.
-        63-b.  Performance of duty disability retirement; certain county
-                 employees.
-        63-c.  Disability benefits.
-        63-d.  Uniformed court officers and peace officers; certain
-                 disabilities.
-        63-e.  Retirement for disability incurred in performance of
-                 duty; Westchester county district attorney
-                 investigators.
-        63-f.  Disability benefits; Westchester county district attorney
-                 investigators.
-        64.    Payment of both pensions for accident and other benefits
-                 prohibited.
+Section 60.     Ordinary death benefit.
+        60-a.   Guaranteed ordinary death benefit payable upon death of
+                  state employees.
+        60-b.   Guaranteed ordinary death benefit for participating
+                  employers.
+        60-c.   Death benefit for vested members who die prior to
+                  retirement.
+        61.     Accidental death benefit.
+        61-a.   Payment of interest on death benefits and accumulated
+                  contributions.
+        61-b.   COVID-19 benefit.
+        61-b*2. COVID-19 benefit.
+        62.     Ordinary disability retirement.
+        63.     Accidental disability retirement.
+        63-a.   Performance of duty disability retirement.
+        63-b.   Performance of duty disability retirement; certain
+                  county employees.
+        63-c.   Disability benefits.
+        63-d.   Uniformed court officers and peace officers; certain
+                  disabilities.
+        63-e.   Retirement for disability incurred in performance of
+                  duty; Westchester county district attorney
+                  investigators.
+        63-f.   Disability benefits; Westchester county district
+                  attorney investigators.
+        64.     Payment of both pensions for accident and other benefits
+                  prohibited.
 ```
 
 </details>

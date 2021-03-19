@@ -16,6 +16,7 @@
 - [§ 159 Group insurance or mass merchandising policies or programs](159-group-insurance-or-mass-merchandising-policies-or-programs.md)
 - [§ 159-A Disability program](159a-disability-program.md)
 - [§ 159-B Excused leave to undertake a screening for cancer](159b-excused-leave-to-undertake-a-screening-for-cancer.md)
+- [§ 159-C Leave time for COVID-19 vaccination](159c-leave-time-for-covid-19-vaccination.md)
 
 <details>
 <summary>Official heading of Article 10, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -41,6 +42,7 @@ Section 150.   Suspension of pension and annuity during public
                  programs.
         159-a. Disability program.
         159-b. Excused leave to undertake a screening for cancer.
+        159-c. Leave time for COVID-19 vaccination.
 ```
 
 </details>
