@@ -21,8 +21,6 @@
 - [§ 2500-I Child food choking prevention](2500i-child-food-choking-prevention.md)
 - [§ 2500-J Autism spectrum disorders; screening of children](2500j-autism-spectrum-disorders-screening-of-children.md)
 - [§ 2500-K Maternal depression](2500k-maternal-depression.md)
-- [§ 2500-L Study of the effects of racial and ethnic disparities on breastfeeding rates](2500l-study-of-the-effects-of-racial-and-ethnic-disparities-on-breastfeeding.md) *(repealed)*
-- [§ 2500-L\*2 Study of the effects of racial and ethnic disparities on infant mortality](2500l-2-study-of-the-effects-of-racial-and-ethnic-disparities-on-infant.md) *(repealed)*
 - [§ 2501 Health and welfare services to all children; duty of local boards](2501-health-and-welfare-services-to-all-children-duty-of-local-boards.md)
 - [§ 2502 Report of certain conditions](2502-report-of-certain-conditions.md)
 - [§ 2503 Drug information to be furnished expectant mothers](2503-drug-information-to-be-furnished-expectant-mothers.md)

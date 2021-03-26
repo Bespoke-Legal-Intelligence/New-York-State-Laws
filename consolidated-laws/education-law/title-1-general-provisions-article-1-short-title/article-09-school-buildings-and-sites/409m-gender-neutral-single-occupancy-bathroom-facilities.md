@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 9 — School Buildings and Sites](README.md)
 
 ```text
-  * § 409-m. Gender neutral single-occupancy bathroom facilities. The
+  § 409-m. Gender neutral single-occupancy bathroom facilities. The
 board of education or trustees of every school district or, in the case
 of the city school district of New York, the chancellor, and every board
 of cooperative educational services, charter school and nonpublic school
@@ -16,5 +16,4 @@ designated by the posting of such on or near the entry door of each
 facility. For purposes of this section, "single-occupancy bathroom"
 shall have the same meaning as paragraph (d) of subdivision one of
 section one hundred forty-five of the public buildings law.
-  * NB Effective March 23, 2021
 ```

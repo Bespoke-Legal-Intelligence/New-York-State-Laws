@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 11 — Public Water Supplies; Sewerage and Sewage Control](../README.md) › [Title 3 — Annual Water Supply Statement](README.md)
 
 ```text
-  § 1152. Annual water supply statement; delivery. * 1. Each water works
+  § 1152. Annual water supply statement; delivery. 1. Each water works
 corporation shall provide a water supply statement to its customers
 annually. The annual water supply statement shall either be mailed to
 each customer or published in at least one newspaper of general
@@ -14,36 +14,18 @@ shall provide ample notification by announcing the publication date and
 newspaper name either on the customers bill or in the newspaper in which
 the statement shall appear. A limited number of additional copies, in a
 quantity to be determined by the water works corporation, shall be
-provided to customers upon request.
-  * NB Effective until March 20, 2021
-  * 1. Each water works corporation shall provide a water supply
-statement to its customers annually. The annual water supply statement
-shall either be mailed to each customer or published in at least one
-newspaper of general circulation in the area served by the water works
-corporation. If the statement is to be published in a newspaper, the
-water works corporation shall provide ample notification by announcing
-the publication date and newspaper name either on the customers bill or
-in the newspaper in which the statement shall appear. A limited number
-of additional copies, in a quantity to be determined by the water works
-corporation, shall be provided to customers upon request. In addition,
-the statement must be posted on the water works corporation's website,
-if such exists, or be made available to the municipality or
-municipalities in which the water works corporation services to be
-posted on such municipalities' website, if such exists.
-  * NB Effective March 20, 2021
+provided to customers upon request. In addition, the statement must be
+posted on the water works corporation's website, if such exists, or be
+made available to the municipality or municipalities in which the water
+works corporation services to be posted on such municipalities' website,
+if such exists.
   2. Each water works corporation shall also provide one copy of each
 annual water supply statement to the commissioner and the state
 commissioner of environmental conservation.
-  * 3. The annual water supply statement shall be mailed or published on
-or before the thirty-first day of May of each year and shall apply to
-data received by the water works corporation during the preceding
-calendar year.
-  * NB Effective until March 20, 2021
-  * 3. The annual water supply statement shall be mailed or published,
-and posted online on or before the thirty-first day of May of each year
-and shall apply to data received by the water works corporation during
-the preceding calendar year.
-  * NB Effective March 20, 2021
+  3. The annual water supply statement shall be mailed or published, and
+posted online on or before the thirty-first day of May of each year and
+shall apply to data received by the water works corporation during the
+preceding calendar year.
   4. The information required by subdivision four of section eleven
 hundred fifty-one of this title for each source of water may be placed
 in a supplement to the annual water supply statement instead of in the

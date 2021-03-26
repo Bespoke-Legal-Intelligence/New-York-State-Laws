@@ -48,6 +48,7 @@
 - [§ 2803-W\*2 Disclosure of information concerning pregnancy complications](2803w-2-disclosure-of-information-concerning-pregnancy-complications.md)
 - [§ 2803-X Requirements related to residential health care facilities and related assets](2803x-requirements-related-to-residential-health-care-facilities-and-related-assets.md)
 - [§ 2803-Y Provision of residency agreement](2803y-provision-of-residency-agreement.md)
+- [§ 2803-Z Transfer, discharge and voluntary discharge requirements for residential health care facilities](2803z-transfer-discharge-and-voluntary-discharge-requirements-for-residential-health.md)
 - [§ 2804 Units for hospital and health-related affairs](2804-units-for-hospital-and-health-related-affairs.md)
 - [§ 2804-A State task force on clinical practice guidelines and medical technology assessment](2804a-state-task-force-on-clinical-practice-guidelines-and-medical-technology.md)
 - [§ 2805 Approval of hospitals; operating certificates](2805-approval-of-hospitals-operating-certificates.md)
@@ -201,6 +202,8 @@ Section 2800.     Declaration of policy and statement of purpose.
         2803-x.   Requirements related to residential health care
                     facilities and related assets.
         2803-y.   Provision of residency agreement.
+        2803-z.   Transfer, discharge and voluntary discharge
+                    requirements for residential health care facilities.
         2804.     Units for hospital and health-related affairs.
         2804-a.   State task force on clinical practice guidelines and
                     medical technology assessment.
