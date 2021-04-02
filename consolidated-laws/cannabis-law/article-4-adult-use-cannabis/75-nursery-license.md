@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Cannabis Law § 75", "kind": "section", "law_id": "CAN", "location_id": "75", "path": "ARTICLE 4 › SECTION 75", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/75.md", "title": "Nursery license"} -->
+# Cannabis Law § 75 — Nursery license
+
+[Cannabis Law](../README.md) › [Article 4 — Adult-use Cannabis](README.md)
+
+```text
+  § 75. Nursery license. 1. A nursery license shall authorize the
+production, sale and distribution of clones, immature plants, seeds, and
+other agricultural products used specifically for the planting,
+propagation, and cultivation of cannabis by licensed adult-use
+cultivators, cooperatives, microbusinesses or registered organizations.
+For the purposes of this section, the office shall provide
+recommendations to the board for the application process, license
+criteria and scope of licensed activities for this class of license. The
+granting of such licenses shall promote social and economic equity
+applicants as provided for in this chapter.
+  2. A person or entity holding an adult-use cultivator's license may
+apply for, and obtain, one nursery license to sell directly to other
+cultivators, cooperatives, microbusinesses, or registered organizations.
+```

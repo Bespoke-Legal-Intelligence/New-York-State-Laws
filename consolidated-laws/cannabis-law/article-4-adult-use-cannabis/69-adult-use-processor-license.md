@@ -1,0 +1,35 @@
+﻿<!-- nyslaw {"citation": "Cannabis Law § 69", "kind": "section", "law_id": "CAN", "location_id": "69", "path": "ARTICLE 4 › SECTION 69", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/69.md", "title": "Adult-use processor license"} -->
+# Cannabis Law § 69 — Adult-use processor license
+
+[Cannabis Law](../README.md) › [Article 4 — Adult-use Cannabis](README.md)
+
+```text
+  § 69. Adult-use processor license. 1. A processor's license shall
+authorize the acquisition, possession, processing and sale of cannabis
+from the licensed premises of the adult-use cultivator by such licensee
+to duly licensed processors or distributors. A person holding an
+adult-use processor's license may apply for, and obtain, one
+distributor's license solely for the distribution of their own products.
+  2. For purposes of this section, processing shall include, but not be
+limited to, blending, extracting, infusing, packaging, labeling,
+branding and otherwise making or preparing cannabis products. Processing
+shall not include the cultivation of cannabis.
+  3. No processor shall be engaged in any other business on the premises
+to be licensed; except that a person issued an adult-use cannabis
+cultivator, processor, and/or distributor license may hold and operate
+all issued licenses on the same premises.
+  4. No cannabis processor licensee may hold more than one cannabis
+processor license provided a single license may authorize processor
+activities at multiple locations, as set out in regulations by the
+board.
+  5. No adult-use cannabis processor shall have a direct or indirect
+interest, including by stock ownership, interlocking directors, mortgage
+or lien, personal or real property, management agreement, share parent
+companies or affiliated organizations or any other means, in any
+premises licensed as an adult-use cannabis retail dispensary or in any
+business licensed as an adult-use cannabis retail dispensary or in any
+registered organization registered pursuant to article three of this
+chapter.
+  6. Adult-use processor licensees are subject to minimum operating
+requirements as determined by the board in regulation.
+```

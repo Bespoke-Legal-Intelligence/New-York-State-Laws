@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-r. Hemp workgroup. The commissioner, in consultation with the
+  * § 3398-r. Hemp workgroup. The commissioner, in consultation with the
 commissioner of the department of agriculture and markets, may appoint a
 New York state hemp and hemp extract workgroup, composed of growers,
 researchers, producers, processors, manufacturers and trade
@@ -13,4 +13,6 @@ cannabinoid hemp programs, state and federal policies and policy
 initiatives, and opportunities for the promotion and marketing of
 cannabinoid hemp and hemp extract as consistent with federal and state
 laws, rules and regulations.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

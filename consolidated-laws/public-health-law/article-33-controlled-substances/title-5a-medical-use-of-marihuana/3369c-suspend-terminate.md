@@ -8,5 +8,7 @@
 commissioner and/or the superintendent of state police that there is a
 risk to the public health or safety, the governor may immediately
 terminate all licenses issued to registered organizations.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

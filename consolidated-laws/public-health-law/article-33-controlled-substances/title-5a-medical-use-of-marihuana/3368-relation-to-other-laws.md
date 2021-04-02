@@ -15,5 +15,7 @@ health plan under this chapter or the insurance law to provide coverage
 for medical marihuana. Nothing in this title shall be construed to
 require coverage for medical marihuana under article twenty-five of this
 chapter or article five of the social services law.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

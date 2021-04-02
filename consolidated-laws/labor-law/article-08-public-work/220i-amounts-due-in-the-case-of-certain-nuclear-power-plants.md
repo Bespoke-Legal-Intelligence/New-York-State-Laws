@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Labor Law § 220-I", "kind": "section", "law_id": "LAB", "location_id": "220-I", "path": "ARTICLE 8 › SECTION 220-I", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/220-I.md", "title": "Amounts due in the case of certain nuclear power plants"} -->
+﻿<!-- nyslaw {"citation": "Labor Law § 220-I", "kind": "section", "law_id": "LAB", "location_id": "220-I", "path": "ARTICLE 8 › SECTION 220-I", "repealed": true, "repealed_date": "2021-04-02", "source": "nys-laws:LAB/220-I.md", "title": "Amounts due in the case of certain nuclear power plants"} -->
 # Labor Law § 220-I — Amounts due in the case of certain nuclear power plants
 
 [Labor Law](../README.md) › [Article 8 — Public Work](README.md)
+
+**Repealed** (2 Apr 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 220-i. Amounts due in the case of certain nuclear power plants. 1.
@@ -19,5 +21,5 @@ to section two hundred twenty of this article.
 privileges, or remedies of any current or former employee under any
 other law or regulation or under any collective bargaining agreement or
 employment contract.
-  * NB Effective March 31, 2021
+  * NB Effective and Repealed March 31, 2021
 ```

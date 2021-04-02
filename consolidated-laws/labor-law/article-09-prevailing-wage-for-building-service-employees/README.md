@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "LAB", "location_id": "A9", "path": "ARTICLE 9", "source": "nys-laws:LAB/A9.md", "title": "Prevailing Wage For Building Service Employees and Covered Airport Workers"} -->
-# Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers
+﻿<!-- nyslaw {"kind": "container", "law_id": "LAB", "location_id": "A9", "path": "ARTICLE 9", "source": "nys-laws:LAB/A9.md", "title": "Prevailing Wage For Building Service Employees"} -->
+# Article 9 — Prevailing Wage For Building Service Employees
 
 [Labor Law](../README.md)
 
@@ -8,9 +8,9 @@
 ## Contents
 
 - [§ 230 Definitions](230-definitions.md)
-- [§ 231 Prevailing wage for building service employees](231-prevailing-wage-for-building-service-employees.md)
-- [§ 231-A Prevailing wage in the case of certain nuclear power plants](231a-prevailing-wage-in-the-case-of-certain-nuclear-power-plants.md)
-- [§ 231-A\*2 Prevailing wage for covered airport workers](231a-2-prevailing-wage-for-covered-airport-workers.md)
+- [§ 231 Prevailing wage](231-prevailing-wage.md)
+- [§ 231-A Prevailing wage in the case of certain nuclear power plants](231a-prevailing-wage-in-the-case-of-certain-nuclear-power-plants.md) *(repealed)*
+- [§ 231-A\*2 Prevailing wage for covered airport workers](231a-2-prevailing-wage-for-covered-airport-workers.md) *(repealed)*
 - [§ 232 Overtime](232-overtime.md)
 - [§ 233 Record keeping](233-record-keeping.md)
 - [§ 234 Powers of the fiscal officer](234-powers-of-the-fiscal-officer.md)
@@ -26,13 +26,9 @@
 
 ```text
                                 ARTICLE 9
-   PREVAILING WAGE FOR BUILDING SERVICE EMPLOYEES AND COVERED AIRPORT
-                                 WORKERS
+             PREVAILING WAGE FOR BUILDING SERVICE EMPLOYEES
 Section 230.     Definitions.
-        231.     Prevailing wage for building service employees.
-        231-a.   Prevailing wage in the case of certain nuclear power
-                   plants.
-        231-a*2. Prevailing wage for covered airport workers.
+        231.     Prevailing wage.
         232.     Overtime.
         233.     Record keeping.
         234.     Powers of the fiscal officer.

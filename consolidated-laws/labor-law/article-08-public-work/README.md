@@ -14,7 +14,7 @@
 - [§ 220-F Labor policy of the state with regard to public work contracts; participation in an international boycott prohibited](220f-labor-policy-of-the-state-with-regard-to-public-work-contracts-participation.md)
 - [§ 220-G Additional enforcement of article](220g-additional-enforcement-of-article.md)
 - [§ 220-H Occupational Safety and Health Administration (OSHA) construction safety and health course](220h-occupational-safety-and-health-administration-osha-construction-safety.md)
-- [§ 220-I Amounts due in the case of certain nuclear power plants](220i-amounts-due-in-the-case-of-certain-nuclear-power-plants.md)
+- [§ 220-I Amounts due in the case of certain nuclear power plants](220i-amounts-due-in-the-case-of-certain-nuclear-power-plants.md) *(repealed)*
 - [§ 221 Company stores](221-company-stores.md)
 - [§ 221-A Permits required](221a-permits-required.md)
 - [§ 221-B Issue of permits](221b-issue-of-permits.md)
@@ -49,7 +49,6 @@ Section 220.   Hours, wages and supplements.
         220-g. Additional enforcement of article.
         220-h. Occupational Safety and Health Administration (OSHA)
                  construction safety and health course.
-        220-i. Amounts due in the case of certain nuclear power plants.
         221.   Company stores.
         221-a. Permits required.
         221-b. Issue of permits.

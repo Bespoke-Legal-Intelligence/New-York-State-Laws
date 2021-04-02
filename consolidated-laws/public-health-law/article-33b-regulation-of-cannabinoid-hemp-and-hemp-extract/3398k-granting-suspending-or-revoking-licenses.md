@@ -4,14 +4,14 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-k. Granting, suspending or revoking licenses. After due notice
-and an opportunity to be heard, established by rules and regulations,
-the commissioner may decline to grant a new license, impose conditions
-or limits with respect to the grant of a license, modify an existing
-license or decline to renew a license, and may suspend or revoke a
-license already granted after due notice and an opportunity to be heard,
-as established by rules and regulations, whenever the commissioner finds
-that:
+  * § 3398-k. Granting, suspending or revoking licenses. After due
+notice and an opportunity to be heard, established by rules and
+regulations, the commissioner may decline to grant a new license, impose
+conditions or limits with respect to the grant of a license, modify an
+existing license or decline to renew a license, and may suspend or
+revoke a license already granted after due notice and an opportunity to
+be heard, as established by rules and regulations, whenever the
+commissioner finds that:
   1. A material statement contained in an application is or was false or
 misleading;
   2. The applicant or licensee, or a person in a position of management
@@ -31,4 +31,6 @@ any other person exercising any position of management or control
 thereof or of the licensed activity has willfully failed to comply with
 any of the provisions of this article or regulations under it and other
 laws of this state applicable to the licensed activity.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

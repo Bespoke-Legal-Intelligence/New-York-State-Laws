@@ -1,0 +1,20 @@
+﻿<!-- nyslaw {"citation": "Labor Law § 696-D", "kind": "section", "law_id": "LAB", "location_id": "696-D", "path": "ARTICLE 19-D › SECTION 696-D", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/696-D.md", "title": "Commissioner's powers of investigation"} -->
+# Labor Law § 696-D — Commissioner's powers of investigation
+
+[Labor Law](../README.md) › [Article 19-D — Minimum Wage Rates For Covered Airport Workers](README.md)
+
+```text
+  § 696-d. Commissioner's powers of investigation. The commissioner or
+his or her authorized representative shall have the power to:
+  1. investigate the compensation of covered airport workers in the
+state;
+  2. enter the place of business or employment of any employer for the
+purpose of (a) examining and inspecting any and all books, registers,
+payrolls, and other records that in any way relate to or have a bearing
+upon the compensation provided to, or the hours worked by any employees,
+and (b) ascertaining whether the provisions of this article and the
+rules and regulations promulgated hereunder are being complied with; and
+  3. require from any employer full and correct statements and reports
+in writing, at such times as the commissioner may deem necessary, of the
+compensation provided to and the hours by such employer's employees.
+```

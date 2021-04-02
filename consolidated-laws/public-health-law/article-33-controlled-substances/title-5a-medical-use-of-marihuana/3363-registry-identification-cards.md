@@ -158,5 +158,7 @@ certification, then in the case of a special certification, a registry
 application or renewal application that otherwise conforms with the
 requirements of this section shall not require the use of a form or the
 payment of an application fee.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

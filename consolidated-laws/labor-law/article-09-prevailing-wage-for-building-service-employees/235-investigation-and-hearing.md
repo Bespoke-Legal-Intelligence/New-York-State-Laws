@@ -1,17 +1,17 @@
 ﻿<!-- nyslaw {"citation": "Labor Law § 235", "kind": "section", "law_id": "LAB", "location_id": "235", "path": "ARTICLE 9 › SECTION 235", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/235.md", "title": "Investigation and hearing"} -->
 # Labor Law § 235 — Investigation and hearing
 
-[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](README.md)
+[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees](README.md)
 
 ```text
   § 235. Investigation and hearing.  1. Whenever the fiscal officer has
-reason to believe that an employee has been paid less than the wages
-stipulated in the contract, or if such contract has no wage schedule
-attached thereto and the fiscal officer has reason to believe that an
-employee has been paid less than the wages prevailing for his craft,
-trade or occupation, the fiscal officer may, and upon receipt of a
-written complaint from an employee employed thereon, shall conduct a
-special investigation to determine the facts relating thereto.
+reason to believe that a service employee has been paid less than the
+wages stipulated in the contract, or if such contract has no wage
+schedule attached thereto and the fiscal officer has reason to believe
+that a service employee has been paid less than the wages prevailing for
+his craft, trade or occupation, the fiscal officer may, and upon receipt
+of a written complaint from an employee employed thereon, shall conduct
+a special investigation to determine the facts relating thereto.
   2. a. At the start of such investigation the fiscal officer may notify
 the financial officer of the public agency interested who shall, at the
 direction of the fiscal officer, forthwith withhold from any payment due
@@ -76,11 +76,10 @@ notified party.
   f. The money shall be held in trust pending completion of the
 investigation.
   3. If, despite the requirements of law, the contract for the service
-work or work involving the employment of covered airport workers has
-been awarded without the annexation thereto of the schedule of wages
-provided for in this article, the fiscal officer shall determine in the
-proceeding before him the wages prevailing at the time the work was
-performed for the crafts, trades or occupations of the employees
+work has been awarded without the annexation thereto of the schedule of
+wages provided for in this article, the fiscal officer shall determine
+in the proceeding before him the wages prevailing at the time the work
+was performed for the crafts, trades or occupations of the employees
 involved.
   4. In an investigation conducted under the provisions of this section,
 the inquiry of the fiscal officer shall not extend to work performed

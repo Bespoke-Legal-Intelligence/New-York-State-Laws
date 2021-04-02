@@ -4,9 +4,9 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-d. Cannabinoid license applications. 1. Persons shall apply for
-a license under this article by submitting an application upon a form
-supplied by the department, providing all the relevant requested
+  * § 3398-d. Cannabinoid license applications. 1. Persons shall apply
+for a license under this article by submitting an application upon a
+form supplied by the department, providing all the relevant requested
 information, verified by the applicant or an authorized representative
 of the applicant.
   2. A separate license shall be required for each facility at which
@@ -14,4 +14,6 @@ processing or retail sales are conducted; however, an applicant may
 submit one application for separate licensure at multiple locations.
   3. Each applicant shall remit with its application the fee for each
 requested license, which shall be a reasonable fee.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

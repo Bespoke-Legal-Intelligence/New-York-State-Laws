@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-c. Cannabinoid hemp retailer license. 1. Retailers selling
+  * § 3398-c. Cannabinoid hemp retailer license. 1. Retailers selling
 cannabinoid hemp, in final form to consumers within the state, shall be
 required to obtain a cannabinoid hemp retailer license from the
 department.
@@ -12,4 +12,6 @@ department.
 for such license, to establish the period during which such license is
 authorized, which shall be one year or more, and to make rules and
 regulations necessary to implement this section.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

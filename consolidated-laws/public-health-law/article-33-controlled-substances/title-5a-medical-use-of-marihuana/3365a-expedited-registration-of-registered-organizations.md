@@ -52,5 +52,7 @@ authorized under the program, based on therapeutics and patient safety.
   6. A registered organization under this section may apply under
 section thirty-three hundred sixty-five of this title to receive or
 renew registration.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

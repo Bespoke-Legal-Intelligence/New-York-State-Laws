@@ -4,9 +4,10 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-e. Information to be requested in applications for licenses. 1.
-The commissioner may specify the manner and form in which an application
-shall be submitted to the department for licensure under this article.
+  * § 3398-e. Information to be requested in applications for licenses.
+1.  The commissioner may specify the manner and form in which an
+application shall be submitted to the department for licensure under
+this article.
   2. The commissioner may adopt regulations establishing what relevant
 information shall be included on an application for licensure under this
 article. Such information may include, but is not limited to:
@@ -29,4 +30,6 @@ facts required to be set forth in such application, a supplemental
 statement giving notice of such change, duly verified, shall be filed
 with the department within ten days after such change. Failure to do so,
 if willful and deliberate, may be grounds for revocation of the license.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

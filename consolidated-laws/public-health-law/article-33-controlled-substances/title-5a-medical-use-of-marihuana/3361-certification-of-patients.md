@@ -80,5 +80,7 @@ health.
   (b) The department shall create the form to be used for a special
 certification and shall make that form available to be downloaded from
 the department's website.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

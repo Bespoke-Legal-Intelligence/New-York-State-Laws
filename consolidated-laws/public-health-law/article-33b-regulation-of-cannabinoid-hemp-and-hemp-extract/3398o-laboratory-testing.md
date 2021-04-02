@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-o. Laboratory testing. Every cannabinoid hemp processor shall
+  * § 3398-o. Laboratory testing. Every cannabinoid hemp processor shall
 contract with an independent commercial laboratory to test the hemp
 extract and products produced by the licensed processor. The
 commissioner shall establish the necessary qualifications or
@@ -18,4 +18,6 @@ or offered for sale within the state, for testing by the department.
 This section shall not obligate the department, in any way, to perform
 any testing on hemp, cannabinoid hemp, hemp extract or product derived
 therefrom.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

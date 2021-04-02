@@ -174,55 +174,57 @@ N, N-diethyltryptamine; DET.
 12, 13-octahydro-2-methoxy-6, 9-methano-5h-pyrido {1',2':1,2} azepino
 {5,4-b} indole: tabernanthe iboga.
   (12) Lysergic acid diethylamide.
-  (13) Marihuana.
-  (14) Mescaline.
-  (15) Parahexyl. Some trade or other names: 3-Hexyl-1-hydroxy-
+  (13) Mescaline.
+  (14) Parahexyl. Some trade or other names: 3-Hexyl-1-hydroxy-
 7,8,9,10-tetra hydro-6,6,9-trimethyl-6H-dibenfo{b,d} pyran.
-  (16) Peyote. Meaning all parts of the plant presently classified
+  (15) Peyote. Meaning all parts of the plant presently classified
 botanically as Lophophora williamsii Lemaire, whether growing or not,
 the seeds thereof, any extract from any part of such plant, and every
 compound, manufacture, salts, derivative, mixture, or preparation of
 such plant, its seeds or extracts.
-  (17) N-ethyl-3-piperidyl benzilate.
-  (18) N-methyl-3-piperidyl benzilate.
-  (19) Psilocybin.
-  (20) Psilocyn.
-  (21) Tetrahydrocannabinols. Synthetic equivalents of the substances
+  (16) N-ethyl-3-piperidyl benzilate.
+  (17) N-methyl-3-piperidyl benzilate.
+  (18) Psilocybin.
+  (19) Psilocyn.
+  (20) Tetrahydrocannabinols. Synthetic tetrahydrocannabinols not
+derived from the cannabis plant that are equivalents of the substances
 contained in the plant, or in the resinous extractives of cannabis, sp.
 and/or synthetic substances, derivatives, and their isomers with similar
 chemical structure and pharmacological activity such as the following:
-  /\1 cis or trans tetrahydrocannabinol, and their optical isomers
-  /\6 cis or trans tetrahydrocannabinol, and their optical isomers
-  /\3, 4 cis or trans tetrahydrocannabinol, and its optical isomers
+  delta 1 cis or trans tetrahydrocannabinol, and their optical isomers
+  delta 6 cis or trans tetrahydrocannabinol, and their optical isomers
+  delta 3, 4 cis or trans tetrahydrocannabinol, and its optical isomers
 (since nomenclature of these substances is not internationally
 standardized, compounds of these structures, regardless of numerical
-designation of atomic positions covered).
-  (22) Ethylamine analog of phencyclidine. Some trade or other names:
+designation of atomic positions covered). Any Federal Food and Drug
+Administration approved product containing tetrahydrocannabinol shall
+not be considered a synthetic tetrahydrocannabinol.
+  (21) Ethylamine analog of phencyclidine. Some trade or other names:
 N-ethyl-1-phenylcyclohexylamine, (1-phenylcyclohexyl) ethylamine,
 N-(1-phenylcyclohexyl) ethylamine cyclohexamine, PCE.
-  (23) Pyrrolidine analog of phencyclidine. Some trade or other names
+  (22) Pyrrolidine analog of phencyclidine. Some trade or other names
 1-(1-phenylcyclohexyl)-pyrrolidine; PCPy, PHP.
-  (24) Thiophene analog of phencyclidine. Some trade or other names:
+  (23) Thiophene analog of phencyclidine. Some trade or other names:
 1-{1-(2-thienyl)-cyclohexyl}-piperidine, 2-thienylanalog of
 phencyclidine, TPCP, TCP.
-  (25) 3,4-methylenedioxymethamphetamine (MDMA).
-  (26) 3,4-methylendioxy-N-ethylamphetamine (also known as
+  (24) 3,4-methylenedioxymethamphetamine (MDMA).
+  (25) 3,4-methylendioxy-N-ethylamphetamine (also known as
 N-ethyl-alpha-methyl-3,4 (methylenedioxy) phenethylamine, N-ethyl MDA,
 MDE, MDEA.
-  (27) N-hydroxy-3,4-methylenedioxyamphetamine (also known as
+  (26) N-hydroxy-3,4-methylenedioxyamphetamine (also known as
 N-hydroxy-alpha-methyl-3,4 (methylenedioxy) phenethylamine, and
 N-hydroxy MDA.
-  (28) 1-{1- (2-thienyl) cyclohexyl} pyrrolidine. Some other names:
+  (27) 1-{1- (2-thienyl) cyclohexyl} pyrrolidine. Some other names:
 TCPY.
-  (29) Alpha-ethyltryptamine. Some trade or other names:  etryptamine;
+  (28) Alpha-ethyltryptamine. Some trade or other names: etryptamine;
 Monase; Alpha-ethyl-1H-indole-3-ethanamine; 3- (2-aminobutyl) indole;
 Alpha-ET or AET.
-  (30) 2,5-dimethoxy-4-ethylamphetamine. Some trade or other names:
+  (29) 2,5-dimethoxy-4-ethylamphetamine. Some trade or other names:
 DOET.
-  (31) 4-Bromo-2,5-dimethoxyphenethylamine. Some trade or other names:
+  (30) 4-Bromo-2,5-dimethoxyphenethylamine. Some trade or other names:
 2-(4-bromo-2,5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB;
 2C-B, Nexus.
-  (32) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7), its
+  (31) 2,5-dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7), its
 optical isomers, salts and salts of isomers.
   (33) 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine,
 also known as 25I-NBOMe; 2C-I-NBOMe; 25I; or Cimbi-5.

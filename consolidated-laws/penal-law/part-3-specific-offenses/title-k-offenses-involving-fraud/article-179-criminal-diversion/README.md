@@ -5,11 +5,11 @@
 
 ## Contents
 
-- [§ 179.00 Criminal diversion of medical marihuana; definitions](179.00-criminal-diversion-of-medical-marihuana-definitions.md)
-- [§ 179.05 Criminal diversion of medical marihuana; limitations](179.05-criminal-diversion-of-medical-marihuana-limitations.md)
-- [§ 179.10 Criminal diversion of medical marihuana in the first degree](179.10-criminal-diversion-of-medical-marihuana-in-the-first.md)
-- [§ 179.11 Criminal diversion of medical marihuana in the second degree](179.11-criminal-diversion-of-medical-marihuana.md)
-- [§ 179.15 Criminal retention of medical marihuana](179.15-criminal-retention-of-medical-marihuana.md)
+- [§ 179.00 Criminal diversion of medical cannabis; definitions](179.00-criminal-diversion-of-medical-cannabis-definitions.md)
+- [§ 179.05 Criminal diversion of medical cannabis; limitations](179.05-criminal-diversion-of-medical-cannabis-limitations.md)
+- [§ 179.10 Criminal diversion of medical cannabis in the first degree](179.10-criminal-diversion-of-medical-cannabis-in-the-first.md)
+- [§ 179.11 Criminal diversion of medical cannabis in the second degree](179.11-criminal-diversion-of-medical-cannabis-in-the-second.md)
+- [§ 179.15 Criminal retention of medical cannabis](179.15-criminal-retention-of-medical-cannabis.md)
 
 <details>
 <summary>Official heading of Article 179, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -17,14 +17,14 @@
 ```text
                               * ARTICLE 179
                  CRIMINAL DIVERSION OF MEDICAL MARIHUANA
-Section 179.00 Criminal diversion of medical marihuana; definitions.
-        179.05 Criminal diversion of medical marihuana; limitations.
-        179.10 Criminal diversion of medical marihuana in the first
+Section 179.00 Criminal diversion of medical cannabis; definitions.
+        179.05 Criminal diversion of medical cannabis; limitations.
+        179.10 Criminal diversion of medical cannabis in the first
                  degree.
-        179.11 Criminal diversion of medical marihuana in the second
+        179.11 Criminal diversion of medical cannabis in the second
                  degree.
-        179.15 Criminal retention of medical marihuana.
-  * NB Repealed July 5, 2021
+        179.15 Criminal retention of medical cannabis.
+  * NB Repealed July 5, 2028
 ```
 
 </details>

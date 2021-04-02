@@ -40,5 +40,7 @@ she does not want his or her name and other information disclosed, that
 practitioner's name and other information shall thereafter not be public
 information or maintained on the department's website, unless the
 practitioner cancels the request.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

@@ -16,5 +16,7 @@ accommodating expedited access for patients with special certifications
 and for registered organizations under the emergency medical marihuana
 access program under section thirty-three hundred sixty-five-a of this
 title.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

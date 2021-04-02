@@ -105,7 +105,7 @@ Article  1.   Short title; definitions (§§ 1-2).
          7.   Residential care programs for adults and children
                         (§§ 460--463-b).
          Title  1.    General provisions (§§ 460--460-h).
-                2.    Residential programs for adults (§§ 461--461-t).
+                2.    Residential programs for adults (§§ 461--461-u).
                 3.    Residential programs for children (§§ 462--462-b).
                 4.    Registry of community residential facilities
                         (§§ 463--463-b).

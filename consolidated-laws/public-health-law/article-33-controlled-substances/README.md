@@ -126,8 +126,6 @@ Section 3380.   Inhalation of certain toxic vapors or fumes and certain
         3381.   Sale and possession of hypodermic syringes and
                   hypodermic needles.
         3381-a. Destruction of hypodermic syringes and needles.
-        3382.   Growing of the plant known as Cannabis by unlicensed
-                  persons.
         3383.   Imitation controlled substances.
         3384.   Information program for retailers.
         3385.   Enforcement.

@@ -4,7 +4,9 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-l. Record keeping and tracking. Every licensee shall keep, in
+  * § 3398-l. Record keeping and tracking. Every licensee shall keep, in
 such form as the commissioner may direct, such relevant records as may
 be required pursuant to regulations under this article.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

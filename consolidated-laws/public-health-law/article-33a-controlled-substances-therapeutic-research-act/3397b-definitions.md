@@ -5,9 +5,9 @@
 
 ```text
   § 3397-b. Definitions. As used in this article:
-  1. "Marijuana" means marijuana as defined in section thirty-three
-hundred two of this chapter and shall also include tetrahydrocannabinols
-or a chemical derivative of tetrahydrocannabinol.
+  1. "Cannabis" means cannabis as defined in section 222.00 of the penal
+law and shall also include tetrahydrocannabinols or a chemical
+derivative of tetrahydrocannabinol.
   2. "Physician" means a person licensed to practice medicine in the
 state of New York including a person authorized to practice medicine in
 a federal medical facility in the state.

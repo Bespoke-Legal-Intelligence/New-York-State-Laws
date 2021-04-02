@@ -20,7 +20,6 @@
 - [§ 240.32 Aggravated harassment of an employee by an inmate](240.32-aggravated-harassment-of-an-employee.md)
 - [§ 240.35 Loitering](240.35-loitering.md)
 - [§ 240.36 Loitering in the first degree](240.36-loitering-in-the-first-degree.md)
-- [§ 240.37 Loitering for the purpose of engaging in a prostitution offense](240.37-loitering-for-the-purpose-of-engaging.md) *(repealed)*
 - [§ 240.40 Appearance in public under the influence of narcotics or a drug other than alcohol](240.40-appearance-in-public-under-the-influence.md)
 - [§ 240.45 Criminal nuisance in the second degree](240.45-criminal-nuisance-in-the-second-degree.md)
 - [§ 240.46 Criminal nuisance in the first degree](240.46-criminal-nuisance-in-the-first-degree.md)

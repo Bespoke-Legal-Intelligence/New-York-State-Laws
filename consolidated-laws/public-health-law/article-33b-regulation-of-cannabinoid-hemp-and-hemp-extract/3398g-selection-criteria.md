@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-g. Selection criteria. 1. The applicant, if an individual or
+  * § 3398-g. Selection criteria. 1. The applicant, if an individual or
 individuals, shall furnish evidence of the individual's good moral
 character, and if an entity, the applicant shall furnish evidence of the
 good moral character of the individuals who have or will have
@@ -22,4 +22,6 @@ issued a license, the commissioner shall notify the applicant in writing
 of the specific reason or reasons for denial.
   5. No license pursuant to this article may be issued to an individual
 under the age of eighteen years.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

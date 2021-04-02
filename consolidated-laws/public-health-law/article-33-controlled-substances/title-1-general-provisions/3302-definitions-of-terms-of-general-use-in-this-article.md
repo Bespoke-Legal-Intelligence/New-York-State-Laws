@@ -21,35 +21,27 @@ person would not be permitted to engage in such conduct. It does not
 include a common or contract carrier, public warehouseman, or employee
 of the carrier or warehouseman when acting in the usual and lawful
 course of the carrier's or warehouseman's business.
-  4. "Concentrated Cannabis" means
-  (a) the separated resin, whether crude or purified, obtained from a
-plant of the genus Cannabis; or
-  (b) a material, preparation, mixture, compound or other substance
-which contains more than two and one-half percent by weight of delta-9
-tetrahydrocannabinol, or its isomer, delta-8 dibenzopyran numbering
-system, or delta-1 tetrahydrocannabinol or its isomer, delta 1 (6)
-monoterpene numbering system.
-  5. "Controlled substance" means a substance or substances listed in
-section thirty-three hundred six of this chapter.
-  6. "Commissioner" means commissioner of health of the state of New
+  4. "Controlled substance" means a substance or substances listed in
+section thirty-three hundred six of this title.
+  5. "Commissioner" means commissioner of health of the state of New
 York.
-  7. "Deliver" or "delivery" means the actual, constructive or attempted
+  6. "Deliver" or "delivery" means the actual, constructive or attempted
 transfer from one person to another of a controlled substance, whether
 or not there is an agency relationship.
-  8. "Department" means the department of health of the state of New
+  7. "Department" means the department of health of the state of New
 York.
-  9. "Dispense" means to deliver a controlled substance to an ultimate
+  8. "Dispense" means to deliver a controlled substance to an ultimate
 user or research subject by lawful means, including by means of the
 internet, and includes the packaging, labeling, or compounding necessary
 to prepare the substance for such delivery.
-  10. "Distribute" means to deliver a controlled substance, including by
+  9. "Distribute" means to deliver a controlled substance, including by
 means of the internet, other than by administering or dispensing.
-  11. "Distributor" means a person who distributes a controlled
+  10. "Distributor" means a person who distributes a controlled
 substance.
-  12. "Diversion" means manufacture, possession, delivery or use of a
+  11. "Diversion" means manufacture, possession, delivery or use of a
 controlled substance by a person or in a manner not specifically
 authorized by law.
-  13. "Drug" means
+  12. "Drug" means
   (a) substances recognized as drugs in the official United States
 Pharmacopoeia, official Homeopathic Pharmacopoeia of the United States,
 or official National Formulary, or any supplement to any of them;
@@ -58,27 +50,27 @@ treatment, or prevention of disease in man or animals; and
   (c) substances (other than food) intended to affect the structure or a
 function of the body of man or animal. It does not include devices or
 their components, parts, or accessories.
-  14. "Federal agency" means the Drug Enforcement Administration, United
+  13. "Federal agency" means the Drug Enforcement Administration, United
 States Department of Justice, or its successor agency.
-  15. "Federal controlled substances act" means the Comprehensive Drug
+  14. "Federal controlled substances act" means the Comprehensive Drug
 Abuse Prevention and Control Act of 1970, Public Law 91-513, and any act
 or acts amendatory or supplemental thereto or regulations promulgated
 thereunder.
-  16. "Federal registration number" means such number assigned by the
+  15. "Federal registration number" means such number assigned by the
 Federal agency to any person authorized to manufacture, distribute,
 sell, dispense or administer controlled substances.
-  17. "Habitual user" means any person who is, or by reason of repeated
+  16. "Habitual user" means any person who is, or by reason of repeated
 use of any controlled substance for non-legitimate or unlawful use is in
 danger of becoming, dependent upon such substance.
-  18. "Institutional dispenser" means a hospital, veterinary hospital,
+  17. "Institutional dispenser" means a hospital, veterinary hospital,
 clinic, dispensary, maternity home, nursing home, mental hospital or
 similar facility approved and certified by the department as authorized
 to obtain controlled substances by distribution and to dispense and
 administer such substances pursuant to the order of a practitioner.
-  19. "License" means a written authorization issued by the department
+  18. "License" means a written authorization issued by the department
 or the New York state department of education permitting persons to
 engage in a specified activity with respect to controlled substances.
-  20. "Manufacture" means the production, preparation, propagation,
+  19. "Manufacture" means the production, preparation, propagation,
 compounding, cultivation, conversion or processing of a controlled
 substance, either directly or indirectly or by extraction from
 substances of natural origin, or independently by means of chemical
@@ -95,23 +87,7 @@ supervision, for the purpose of, or as an incident to, research,
 teaching, or chemical analysis and not for sale; or
   (c) by a pharmacist as an incident to his dispensing of a controlled
 substance in the course of his professional practice.
-  21. "Marihuana" means all parts of the plant of the genus Cannabis,
-whether growing or not; the seeds thereof; the resin extracted from any
-part of the plant; and every compound, manufacture, salt, derivative,
-mixture, or preparation of the plant, its seeds or resin. The term
-"marihuana" shall not include:
-  (a) the mature stalks of the plant, fiber produced from the stalks,
-oil or cake made from the seeds of the plant, any other compound,
-manufacture, salt, derivative, mixture, or preparation of the mature
-stalks (except the resin extracted therefrom), fiber, oil, or cake, or
-the sterilized seed of the plant which is incapable of germination;
-  (b) hemp, as defined in subdivision one of section five hundred five
-of the agriculture and markets law;
-  (c) cannabinoid hemp as defined in subdivision two of section
-thirty-three hundred ninety-eight of this chapter; or
-  (d) hemp extract as defined in subdivision five of section
-thirty-three hundred ninety-eight of this chapter.
-  22. "Narcotic drug" means any of the following, whether produced
+  20. "Narcotic drug" means any of the following, whether produced
 directly or indirectly by extraction from substances of vegetable
 origin, or independently by means of chemical synthesis, or by a
 combination of extraction and chemical synthesis:
@@ -119,29 +95,29 @@ combination of extraction and chemical synthesis:
 preparation of opium or opiate;
   (b) any salt, compound, isomer, derivative, or preparation thereof
 which is chemically equivalent or identical with any of the substances
-referred to in subdivision (a), but not including the isoquinoline
-alkaloids of opium;
+referred to in paragraph (a) of this subdivision, but not including the
+isoquinoline alkaloids of opium;
   (c) opium poppy and poppy straw.
-  23. "Opiate" means any substance having an addiction-forming or
+  21. "Opiate" means any substance having an addiction-forming or
 addiction-sustaining liability similar to morphine or being capable of
 conversion into a drug having addiction-forming or addiction-sustaining
 liability. It does not include, unless specifically designated as
-controlled under section 3306 of this article, the dextrorotatory isomer
-of 3-methoxy-n-methylmorphinan and its salts (dextromethorphan). It does
-include its racemic and levorotatory forms.
-  24. "Opium poppy" means the plant of the species Papaver somniferum
+controlled under section thirty-three hundred six of this title, the
+dextrorotatory isomer of 3-methoxy-n-methylmorphinan and its salts
+(dextromethorphan). It does include its racemic and levorotatory forms.
+  22. "Opium poppy" means the plant of the species Papaver somniferum
 L., except its seeds.
-  25. "Person" means individual, institution, corporation, government or
+  23. "Person" means individual, institution, corporation, government or
 governmental subdivision or agency, business trust, estate, trust,
 partnership or association, or any other legal entity.
-  26. "Pharmacist" means any person licensed by the state department of
+  24. "Pharmacist" means any person licensed by the state department of
 education to practice pharmacy.
-  27. "Pharmacy" means any place registered as such by the New York
+  25. "Pharmacy" means any place registered as such by the New York
 state board of pharmacy and registered with the Federal agency pursuant
 to the federal controlled substances act.
-  28. "Poppy straw" means all parts, except the seeds, of the opium
+  26. "Poppy straw" means all parts, except the seeds, of the opium
 poppy, after mowing.
-  29. "Practitioner" means:
+  27. "Practitioner" means:
   A physician, dentist, podiatrist, veterinarian, scientific
 investigator, or other person licensed, or otherwise permitted to
 dispense, administer or conduct research with respect to a controlled
@@ -150,62 +126,62 @@ licensed pursuant to this article. Such person shall be deemed a
 "practitioner" only as to such substances, or conduct relating to such
 substances, as is permitted by his license, permit or otherwise
 permitted by law.
-  30. "Prescribe" means a direction or authorization, by prescription,
+  28. "Prescribe" means a direction or authorization, by prescription,
 permitting an ultimate user lawfully to obtain controlled substances
 from any person authorized by law to dispense such substances.
-  31. "Prescription" shall mean an official New York state prescription,
-an electronic prescription, an oral prescription, an out-of-state
-prescription, or any one.
-  32. "Sell" means to sell, exchange, give or dispose of to another, or
+  29. "Prescription" shall mean an official New York state prescription,
+an electronic prescription, an oral prescription or an out-of-state
+prescription.
+  30. "Sell" means to sell, exchange, give or dispose of to another, or
 offer or agree to do the same.
-  33. "Ultimate user" means a person who lawfully obtains and possesses
+  31. "Ultimate user" means a person who lawfully obtains and possesses
 a controlled substance for his own use or the use by a member of his
 household or for an animal owned by him or in his custody. It shall also
 mean and include a person designated, by a practitioner on a
 prescription, to obtain such substance on behalf of the patient for whom
 such substance is intended.
-  34. "Internet" means collectively computer and telecommunications
+  32. "Internet" means collectively computer and telecommunications
 facilities which comprise the worldwide network of networks that employ
 a set of industry standards and protocols, or any predecessor or
 successor protocol to such protocol, to exchange information of all
 kinds. "Internet," as used in this article, also includes other
 networks, whether private or public, used to transmit information by
 electronic means.
-  35. "By means of the internet" means any sale, delivery, distribution,
+  33. "By means of the internet" means any sale, delivery, distribution,
 or dispensing of a controlled substance that uses the internet, is
 initiated by use of the internet or causes the internet to be used.
-  36. "Online dispenser" means a practitioner, pharmacy, or person in
+  34. "Online dispenser" means a practitioner, pharmacy, or person in
 the United States that sells, delivers or dispenses, or offers to sell,
 deliver, or dispense, a controlled substance by means of the internet.
-  37. "Electronic prescription" means a prescription issued with an
+  35. "Electronic prescription" means a prescription issued with an
 electronic signature and transmitted by electronic means in accordance
 with regulations of the commissioner and the commissioner of education
 and consistent with federal requirements. A prescription generated on an
 electronic system that is printed out or transmitted via facsimile is
 not considered an electronic prescription and must be manually signed.
-  38. "Electronic" means of or relating to technology having electrical,
+  36. "Electronic" means of or relating to technology having electrical,
 digital, magnetic, wireless, optical, electromagnetic or similar
 capabilities. "Electronic" shall not include facsimile.
-  39. "Electronic record" means a paperless record that is created,
+  37. "Electronic record" means a paperless record that is created,
 generated, transmitted, communicated, received or stored by means of
 electronic equipment and includes the preservation, retrieval, use and
 disposition in accordance with regulations of the commissioner and the
 commissioner of education and in compliance with federal law and
 regulations.
-  40. "Electronic signature" means an electronic sound, symbol, or
+  38. "Electronic signature" means an electronic sound, symbol, or
 process, attached to or logically associated with an electronic record
 and executed or adopted by a person with the intent to sign the record,
 in accordance with regulations of the commissioner and the commissioner
 of education.
-  41. "Registry" or "prescription monitoring program registry" means the
+  39. "Registry" or "prescription monitoring program registry" means the
 prescription monitoring program registry established pursuant to section
 thirty-three hundred forty-three-a of this article.
-  42. "Compounding" means the combining, admixing, mixing, diluting,
+  40. "Compounding" means the combining, admixing, mixing, diluting,
 pooling, reconstituting, or otherwise altering of a drug or bulk drug
 substance to create a drug with respect to an outsourcing facility under
 section 503B of the federal Food, Drug and Cosmetic Act and further
 defined in this section.
-  43. "Outsourcing facility" means a facility that:
+  41. "Outsourcing facility" means a facility that:
   (a) is engaged in the compounding of sterile drugs as defined in
 section sixty-eight hundred two of the education law;
   (b) is currently registered as an outsourcing facility pursuant to

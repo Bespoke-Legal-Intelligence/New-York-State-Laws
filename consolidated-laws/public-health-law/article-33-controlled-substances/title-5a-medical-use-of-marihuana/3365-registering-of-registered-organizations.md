@@ -178,5 +178,7 @@ organization. The commissioner shall ensure that such registered
 organizations and dispensing sites are geographically distributed across
 the state. The commission may register additional registered
 organizations.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

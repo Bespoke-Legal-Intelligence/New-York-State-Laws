@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | LAB |
 | Type | Consolidated law, chapter 31 |
-| Sections | 706 |
-| Last changed | 26 Mar 2021 |
+| Sections | 715 (3 repealed) |
+| Last changed | 2 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Labor |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                                LABOR LAW.
 ```
 
-[Full chapter text (76 lines)](chapter-text.md)
+[Full chapter text (78 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [2 Apr 2021](../../changes/2021/2021-04-02.md): 14 amended, 9 added, 3 repealed
 - [26 Mar 2021](../../changes/2021/2021-03-26.md): 1 amended
 - [19 Mar 2021](../../changes/2021/2021-03-19.md): 1 added
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 4 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 added, 1 removed
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 2 amended
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 1 repealed
-- [2 Oct 2020](../../changes/2020/2020-10-02.md): 2 amended
 
 ## Contents
 
@@ -56,7 +56,7 @@ Assembly, do enact as follows:
 - [Article 7 — General Provisions](article-07-general-provisions/)
 - [Article 8 — Public Work](article-08-public-work/)
 - [Article 8-A — Grade Crossing Elimination Work; Hours, Wages, Employment and General Requirements](article-08a-grade-crossing-elimination-work-hours-wages/)
-- [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](article-09-prevailing-wage-for-building-service-employees/)
+- [Article 9 — Prevailing Wage For Building Service Employees](article-09-prevailing-wage-for-building-service-employees/)
 - [Article 10 — Building Construction, Demolition and Repair Work](article-10-building-construction-demolition-and-repair-work/)
 - [Article 11 — Factories](article-11-factories/)
 - [Article 12 — Fair Wages Task Force](article-12-fair-wages-task-force/)
@@ -71,6 +71,7 @@ Assembly, do enact as follows:
 - [Article 19-A — Minimum Wage Standards and Protective Labor Practices For Farm Workers](article-19a-minimum-wage-standards-and-protective-labor/)
 - [Article 19-B — Domestic Workers and Household Employees](article-19b-domestic-workers-and-household-employees/)
 - [Article 19-C — Representation of Child Care Providers](article-19c-representation-of-child-care-providers/)
+- [Article 19-D — Minimum Wage Rates For Covered Airport Workers](article-19d-minimum-wage-rates-for-covered-airport-workers/)
 - [Article 20 — New York State Labor Relations Act](article-20-new-york-state-labor-relations-act/)
 - [Article 20-A — Labor and Management Improper Practices Act](article-20a-labor-and-management-improper-practices-act/)
 - [Article 20-B — Psychological Stress Evaluators and Employment](article-20b-psychological-stress-evaluators-and-employment/)

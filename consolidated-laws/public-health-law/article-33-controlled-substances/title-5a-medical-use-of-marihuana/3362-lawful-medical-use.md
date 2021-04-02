@@ -37,5 +37,7 @@ certification.
   (b) a person possessing medical marihuana under this title shall
 possess his or her registry identification card at all times when in
 immediate possession of medical marihuana.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

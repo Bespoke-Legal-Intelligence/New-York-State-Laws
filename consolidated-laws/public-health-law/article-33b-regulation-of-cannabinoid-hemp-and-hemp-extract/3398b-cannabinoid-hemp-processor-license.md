@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-b. Cannabinoid hemp processor license. 1. Persons processing
+  * § 3398-b. Cannabinoid hemp processor license. 1. Persons processing
 cannabinoid hemp or hemp extract used for human consumption, whether in
 intermediate or final form, shall be required to obtain a cannabinoid
 hemp processor license from the department.
@@ -36,4 +36,6 @@ provided that the research partner is actively performing research
 pursuant to such agreement and is able to demonstrate compliance with
 this article, as determined by the department, after notice and an
 opportunity to be heard.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

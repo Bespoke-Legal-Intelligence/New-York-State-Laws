@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Cannabis Law § 71", "kind": "section", "law_id": "CAN", "location_id": "71", "path": "ARTICLE 4 › SECTION 71", "repealed": false, "repealed_date": null, "source": "nys-laws:CAN/71.md", "title": "Adult-use distributor license"} -->
+# Cannabis Law § 71 — Adult-use distributor license
+
+[Cannabis Law](../README.md) › [Article 4 — Adult-use Cannabis](README.md)
+
+```text
+  § 71. Adult-use distributor license. 1. A distributor's license shall
+authorize the acquisition, possession, distribution and sale of cannabis
+from the licensed premises of a licensed adult-use cultivator,
+processor, adult-use cooperative, microbusiness, or registered
+organization authorized pursuant to this chapter to sell adult-use
+cannabis, to duly licensed retail dispensaries and on-site consumption
+sites.
+  2. No distributor shall have a direct or indirect economic interest in
+any microbusiness, adult-use retail dispensary, adult-use on-site
+consumption licensee or in any registered organization registered
+pursuant to article three of this chapter. This restriction shall not
+prohibit a registered organization authorized pursuant to section
+thirty-nine of this chapter, from being granted licensure by the board
+to distribute adult-use cannabis products cultivated and processed by
+the registered organization to licensed adult-use retail dispensaries.
+  3. Any distributor with a direct or indirect interest in a licensed
+cultivator or processor, shall only distribute cannabis or cannabis
+products cultivated and/or processed by such licensee.
+  4. Nothing in subdivision two of this section shall prevent a
+distributor from charging an appropriate fee, authorized by the board,
+for the distribution of cannabis, including based on the volume of
+cannabis distributed.
+  5. Adult-use distributor licensees are subject to minimum operating
+requirements as determined by the board in regulation.
+```

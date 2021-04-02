@@ -19,5 +19,7 @@ caregivers.
 after the effective date of this title, to the governor and the
 legislature on the medical use of marihuana under this title and make
 appropriate recommendations.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

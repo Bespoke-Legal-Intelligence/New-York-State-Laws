@@ -44,7 +44,9 @@ Section 3360.   Definitions.
         3369-c. Suspend; terminate.
         3369-d. Pricing.
         3369-e. Severability.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```
 
 </details>

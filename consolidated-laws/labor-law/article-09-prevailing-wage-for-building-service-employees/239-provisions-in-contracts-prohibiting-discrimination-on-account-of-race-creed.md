@@ -1,13 +1,12 @@
 ﻿<!-- nyslaw {"citation": "Labor Law § 239", "kind": "section", "law_id": "LAB", "location_id": "239", "path": "ARTICLE 9 › SECTION 239", "repealed": false, "repealed_date": null, "source": "nys-laws:LAB/239.md", "title": "Provisions in contracts prohibiting discrimination on account of race, creed, color, national origin, age or sex"} -->
 # Labor Law § 239 — Provisions in contracts prohibiting discrimination on account of race, creed, color, national origin, age or sex
 
-[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees and Covered Airport Workers](README.md)
+[Labor Law](../README.md) › [Article 9 — Prevailing Wage For Building Service Employees](README.md)
 
 ```text
   § 239. Provisions in contracts prohibiting discrimination on account
 of race, creed, color, national origin, age or sex. Every contract for
-service work or work involving the employment of covered airport workers
-shall contain provisions by which the contractor agrees:
+service work shall contain provisions by which the contractor agrees:
   (1) that in the hiring of employees for the performance of work under
 the contract or any subcontract thereunder within the territorial limits
 of this state, no contractor, subcontractor, nor any person acting on
@@ -20,12 +19,12 @@ shall, in any manner, discriminate against or intimidate any employee
 hired for the performance of work under the contract on account of race,
 creed, color, national origin, age, sex or disability;
   (3) that there may be deducted from the amount payable to the
-contractor by the public agency under the contract for service work a
-penalty of fifty dollars for each person for each day during which such
-person was discriminated against or intimidated in violation of the
-provisions of the contract;
-  (4) that the contract for service work may be cancelled or terminated
-by the public agency, and all moneys due or to become due thereunder may
-be forfeited for a second or any subsequent violation of the terms or
-conditions of this section of the contract.
+contractor by the public agency under the contract a penalty of fifty
+dollars for each person for each day during which such person was
+discriminated against or intimidated in violation of the provisions of
+the contract;
+  (4) that the contract may be cancelled or terminated by the public
+agency, and all moneys due or to become due thereunder may be forfeited
+for a second or any subsequent violation of the terms or conditions of
+this section of the contract.
 ```

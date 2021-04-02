@@ -6,7 +6,7 @@
 ## Contents
 
 - [Article 220 — Controlled Substances Offenses](article-220-controlled-substances/)
-- [Article 221 — Offenses Involving Marihuana](article-221-offenses-involving/)
+- [Article 222 — Cannabis](article-222-cannabis/)
 - [Article 225 — Gambling Offenses](article-225-gambling-offenses/)
 - [Article 230 — Prostitution Offenses](article-230-prostitution-offenses/)
 - [Article 235 — Obscenity and Related Offenses](article-235-obscenity-and-related/)

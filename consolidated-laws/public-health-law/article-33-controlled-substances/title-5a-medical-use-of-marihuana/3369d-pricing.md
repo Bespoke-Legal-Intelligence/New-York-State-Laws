@@ -15,5 +15,7 @@ commissioner shall consider the fixed and variable costs of producing
 the form of marihuana and any other factor the commissioner, in his or
 her discretion, deems relevant to determining the per dose price of each
 form of medical marihuana.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

@@ -62,42 +62,44 @@ purposes of maintaining the security and confidentiality of the
 information contained in the registry, by:
   (a) a practitioner, or a designee authorized by such practitioner
 pursuant to paragraph (b) of subdivision two of section thirty-three
-hundred forty-three-a or section thirty-three hundred sixty-one of this
-article, for the purposes of: (i) informing the practitioner that a
-patient may be under treatment with a controlled substance by another
-practitioner; (ii) providing the practitioner with notifications of
-controlled substance activity as deemed relevant by the department,
-including but not limited to a notification made available on a monthly
-or other periodic basis through the registry of controlled substances
-activity pertaining to his or her patient; (iii) allowing the
-practitioner, through consultation of the prescription monitoring
-program registry, to review his or her patient's controlled substances
-history as required by section thirty-three hundred forty-three-a or
-section thirty-three hundred sixty-one of this article; and (iv)
-providing to his or her patient, or person authorized pursuant to
-paragraph (j) of subdivision one of this section, upon request, a copy
-of such patient's controlled substance history as is available to the
-practitioner through the prescription monitoring program registry; or
+hundred forty-three-a, section thirty-three hundred sixty-one of this
+article or section thirty of the cannabis law, for the purposes of: (i)
+informing the practitioner that a patient may be under treatment with a
+controlled substance by another practitioner; (ii) providing the
+practitioner with notifications of controlled substance activity as
+deemed relevant by the department, including but not limited to a
+notification made available on a monthly or other periodic basis through
+the registry of controlled substances activity pertaining to his or her
+patient; (iii) allowing the practitioner, through consultation of the
+prescription monitoring program registry, to review his or her patient's
+controlled substances history as required by section thirty-three
+hundred forty-three-a, section thirty-three hundred sixty-one of this
+article or section thirty of the cannabis law; and (iv) providing to his
+or her patient, or person authorized pursuant to paragraph (j) of
+subdivision one of this section, upon request, a copy of such patient's
+controlled substance history as is available to the practitioner through
+the prescription monitoring program registry; or
   (b) a pharmacist, pharmacy intern or other designee authorized by the
 pharmacist pursuant to paragraph (b) of subdivision three of section
 thirty-three hundred forty-three-a of this article, for the purposes of:
 (i) consulting the prescription monitoring program registry to review
 the controlled substances history of an individual for whom one or more
-prescriptions for controlled substances or certifications for marihuana
+prescriptions for controlled substances or certifications for cannabis
 is presented to the pharmacist, pursuant to section thirty-three hundred
 forty-three-a of this article; and (ii) receiving from the department
 such notifications of controlled substance activity as are made
 available by the department; or
-  (c) an individual employed by a registered organization for the
-purpose of consulting the prescription monitoring program registry to
-review the controlled substances history of an individual for whom one
-or more certifications for marihuana is presented to that registered
-organization, pursuant to section thirty-three hundred sixty-four of
-this article. Unless otherwise authorized by this article, an individual
-employed by a registered organization will be provided access to the
-prescription monitoring program in the sole discretion of the
-commissioner.
-  * NB Effective until July 5, 2021
+  (c) an individual employed by a registered organization as defined in
+section three of the cannabis law, for the purpose of consulting the
+prescription monitoring program registry to review the controlled
+substances history of an individual for whom one or more certifications
+for cannabis is presented to that registered organization, pursuant to
+section thirty-three hundred sixty-four of this article or section
+thirty-four of the cannabis law. Unless otherwise authorized by this
+article or by the cannabis law, an individual employed by a registered
+organization will be provided access to the prescription monitoring
+program in the sole discretion of the commissioner.
+  * NB Effective until July 5, 2028
   * 2. The prescription monitoring program registry may be accessed,
 under such terms and conditions as are established by the department for
 purposes of maintaining the security and confidentiality of the
@@ -128,7 +130,7 @@ prescriptions for controlled substances is presented to the pharmacist,
 pursuant to section thirty-three hundred forty-three-a of this article;
 and (ii) receiving from the department such notifications of controlled
 substance activity as are made available by the department.
-  * NB Effective July 5, 2021
+  * NB Effective July 5, 2028
   3. Where it has reason to believe that a crime related to the
 diversion of controlled substances has been committed, the department
 may notify appropriate law enforcement agencies and provide relevant

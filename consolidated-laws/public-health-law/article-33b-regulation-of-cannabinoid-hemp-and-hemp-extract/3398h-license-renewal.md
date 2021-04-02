@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-h. License renewal. 1. Each license, issued pursuant to this
+  * § 3398-h. License renewal. 1. Each license, issued pursuant to this
 article, may be renewed upon application therefor by the licensee and
 the payment of the reasonable fee for such license as specified by this
 article.
@@ -19,4 +19,6 @@ expiration of the current license.
 specified renewal application and renewal fee from a licensee if, in
 addition to the selection criteria set out in this article, the
 licensee's license is not under suspension and has not been revoked.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

@@ -99,5 +99,7 @@ to become a registered organization.
   18. "Special certification" means a special certification made under
 subdivision nine of section thirty-three hundred sixty-one of this
 title.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```

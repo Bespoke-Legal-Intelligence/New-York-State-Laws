@@ -4,7 +4,7 @@
 [Public Health Law](../README.md) › [Article 33-B — Regulation of Cannabinoid Hemp and Hemp Extract](README.md)
 
 ```text
-  § 3398-n. Processing of cannabinoid hemp and hemp extract. 1. No
+  * § 3398-n. Processing of cannabinoid hemp and hemp extract. 1. No
 processor shall sell or agree to sell or deliver in the state any
 cannabinoid hemp, hemp extract or product derived therefrom, used for
 human consumption, except in sealed containers containing quantities in
@@ -31,4 +31,6 @@ or methods used in processing cannabinoid hemp, hemp extract and
 products derived therefrom; and (b) prohibit, or expressly allow,
 certain products or product classes derived from cannabinoid hemp or
 hemp extract, to be processed.
+  * NB Repealed 6 months after the full cannabis control board created
+by Article 2 of the cannabis law has been appointed
 ```

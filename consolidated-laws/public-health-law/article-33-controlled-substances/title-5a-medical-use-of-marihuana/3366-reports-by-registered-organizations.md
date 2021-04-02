@@ -15,5 +15,7 @@ record retention and surveillance systems, relating to all medical
 marihuana at every stage of acquiring, possession, manufacture, sale,
 delivery, transporting, distributing, or dispensing by the registered
 organization, subject to regulations of the commissioner.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028 and Repealed 6 months after the full
+cannabis control board created by Article 2 of the cannabis law has been
+appointed
 ```
