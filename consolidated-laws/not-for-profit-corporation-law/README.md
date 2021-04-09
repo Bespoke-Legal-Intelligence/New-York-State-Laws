@@ -8,7 +8,7 @@
 | Senate code | NPC |
 | Type | Consolidated law, chapter 35 |
 | Sections | 260 |
-| Last changed | 29 Jan 2021 |
+| Last changed | 9 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Not-for-Profit Corporation |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [9 Apr 2021](../../changes/2021/2021-04-09.md): 2 amended
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 3 amended
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 1 amended, 1 added
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [29 Nov 2019](../../changes/2019/2019-11-29.md): 2 amended, 1 added
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 5 amended
 - [20 Sep 2019](../../changes/2019/2019-09-20.md): 1 amended
-- [19 Apr 2019](../../changes/2019/2019-04-19.md): 2 amended
 
 ## Contents
 

@@ -8,8 +8,8 @@
 | Senate code | UDA |
 | Type | Unconsolidated law |
 | Session law | L. 1968, ch. 174 |
-| Sections | 94 |
-| Last changed | 17 Apr 2020 |
+| Sections | 95 |
+| Last changed | 9 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Urban Development Corporation Act 174/68 |
 
@@ -30,10 +30,11 @@ Section  1.     Short title.
         *6-a.   Sale or lease of infrastructure projects.
 ```
 
-[Full chapter text (121 lines)](chapter-text.md)
+[Full chapter text (122 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Apr 2021](../../changes/2021/2021-04-09.md): 1 added
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 7 amended, 3 added
 - [28 Jun 2019](../../changes/2019/2019-06-28.md): 3 amended
 - [19 Apr 2019](../../changes/2019/2019-04-19.md): 6 amended, 1 added
@@ -43,7 +44,6 @@ Section  1.     Short title.
 - [20 Apr 2018](../../changes/2018/2018-04-20.md): 5 amended, 2 added
 - [5 Jan 2018](../../changes/2018/2018-01-05.md): 1 amended
 - [22 Dec 2017](../../changes/2017/2017-12-22.md): 4 amended, 1 added
-- [28 Apr 2017](../../changes/2017/2017-04-28.md): 2 amended
 
 ## Contents
 
@@ -100,6 +100,7 @@ Section  1.     Short title.
 - [§ 16-Z Marketing orders](16z-marketing-orders.md)
 - [§ 16-AA Life sciences initiatives program](16aa-life-sciences-initiatives-program.md)
 - [§ 16-DD Community development revolving loan program](16dd-community-development-revolving-loan-program.md)
+- [§ 16-EE Loans to social and economic equity applicants](16ee-loans-to-social-and-economic-equity-applicants.md)
 - [§ 17 Bonds and notes of the corporation](17-bonds-and-notes-of-the-corporation.md)
 - [§ 18 Bond authorization](18-bond-authorization.md)
 - [§ 19 Security for bonds or notes; construction and acquisition of projects](19-security-for-bonds-or-notes-construction-and-acquisition-of-projects.md)

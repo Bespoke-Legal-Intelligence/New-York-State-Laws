@@ -114,4 +114,6 @@ that such taxes are specifically referred to in the agreement, and the
 sale or distribution, including transportation, of any cigarettes to the
 nation's or tribe's qualified reservation shall be in accordance with
 the provisions of such agreement.
+  7. The taxes imposed under this section shall not apply to adult-use
+cannabis products subject to tax under article twenty-C of this chapter.
 ```

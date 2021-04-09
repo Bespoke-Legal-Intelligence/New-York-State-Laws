@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3081", "kind": "section", "law_id": "PBH", "location_id": "3081", "path": "ARTICLE 30-D › SECTION 3081", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3081.md", "title": "Definitions"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3081", "kind": "section", "law_id": "PBH", "location_id": "3081", "path": "ARTICLE 30-D › SECTION 3081", "repealed": true, "repealed_date": "2021-04-09", "source": "nys-laws:PBH/3081.md", "title": "Definitions"} -->
 # Public Health Law § 3081 — Definitions
 
 [Public Health Law](../README.md) › [Article 30-D — Emergency or Disaster Treatment Protection Act](README.md)
+
+**Repealed** (9 Apr 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3081. Definitions. As used in this article:

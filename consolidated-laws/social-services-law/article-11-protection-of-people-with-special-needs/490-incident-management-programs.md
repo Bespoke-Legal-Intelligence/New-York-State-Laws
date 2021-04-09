@@ -29,7 +29,7 @@ response to reportable incidents is shared, consistent with applicable
 law, with the justice center, in the form and manner required by the
 justice center and, for facilities or provider agencies that are not
 state operated, with the applicable state oversight agency which shall
-provide such information to the justice center; and
+provide such information to the justice center;
   (f) incident review committees are established; provided, however,
 that the regulations may authorize an exemption from this requirement,
 when appropriate, based on the size of the facility or provider agency
@@ -48,7 +48,9 @@ trends and patterns concerning reportable incidents; and (iv) make
 recommendations to the director of the facility or provider agency to
 assist in reducing reportable incidents. Members of the committee shall
 be trained in confidentiality laws and regulations, and shall comply
-with section seventy-four of the public officers law.
+with section seventy-four of the public officers law; and
+  (g) safe storage, administration, and diversion prevention policies
+regarding controlled substances and medical cannabis.
   2. Notwithstanding any other provision of law, except as may be
 provided by section 33.25 of the mental hygiene law, records, reports or
 other information maintained by the justice center, state oversight

@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 11 — Division of State Police](README.md)
 
 ```text
-  * § 234. New York state police body-worn cameras program. 1. There is
+  § 234. New York state police body-worn cameras program. 1. There is
 hereby created within the division of state police a New York state
 police body-worn cameras program. The purpose of the program is to
 increase accountability and evidence for law enforcement and the
@@ -45,5 +45,4 @@ cameras to allow for the recording of interactions required by this
 section; and
   (c) ensuring officers have access to body-worn cameras for the
 recording of instances required by this section.
-  * NB Effective April 1, 2021
 ```

@@ -7,7 +7,7 @@
 
 - [§ 771 Discontinuation of treatment by agency or institution](771-discontinuation-of-treatment-by-agency-or-institution.md)
 - [§ 772 Action on return from agency or institution](772-action-on-return-from-agency-or-institution.md)
-- [§ 773 Petition for transfer for incorrigibility](773-petition-for-transfer-for-incorrigibility.md)
+- [§ 773 Petition for transfer](773-petition-for-transfer.md)
 - [§ 774 Action on petition for transfer](774-action-on-petition-for-transfer.md)
 - [§ 775 Order on hearing](775-order-on-hearing.md)
 - [§ 776 Failure to comply with terms and conditions of suspended judgment](776-failure-to-comply-with-terms-and-conditions-of-suspended.md)
@@ -26,7 +26,7 @@
                          COMPLIANCE WITH ORDERS
 Section 771.   Discontinuation of treatment by agency or institution.
         772.   Action on return from agency or institution.
-        773.   Petition for transfer for incorrigibility.
+        773.   Petition for transfer.
         774.   Action on petition for transfer.
         775.   Order on hearing.
         776.   Failure to comply with terms and conditions of suspended

@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | GOB |
 | Type | Consolidated law, chapter 24-A |
-| Sections | 205 |
-| Last changed | 2 Apr 2021 |
+| Sections | 209 |
+| Last changed | 9 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | General Obligations |
 
@@ -27,10 +27,11 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (34 lines)](chapter-text.md)
+[Full chapter text (35 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Apr 2021](../../changes/2021/2021-04-09.md): 4 added
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 4 amended
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 16 amended
@@ -40,7 +41,6 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 1 added
 - [18 Oct 2019](../../changes/2019/2019-10-18.md): 2 amended
 - [16 Aug 2019](../../changes/2019/2019-08-16.md): 1 amended
-- [19 Jul 2019](../../changes/2019/2019-07-19.md): 1 amended
 
 ## Contents
 
@@ -57,4 +57,5 @@ Became a law April 23, 1963, with the approval of the Governor.  Passed,
 - [Article 18 — Safety In Skiing Code](article-18-safety-in-skiing-code/)
 - [Article 18-A — Specifications of Liability For Employers and Employees](article-18a-specifications-of-liability-for-employers/)
 - [Article 18-B — Safety In Agricultural Tourism](article-18b-safety-in-agricultural-tourism/)
+- [Article 18-C — Libor Discontinuance](article-18c-libor-discontinuance/)
 - [Article 19 — Laws Repealed; Effective Date](article-19-laws-repealed-effective-date/)

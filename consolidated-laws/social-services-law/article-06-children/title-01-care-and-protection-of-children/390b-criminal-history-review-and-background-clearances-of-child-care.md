@@ -129,44 +129,49 @@ children for whom child care services are or will be provided, that
 resides in a home where child care is provided in a home setting where
 the child does not reside has been convicted of a crime other than one
 set forth in subparagraph (iv) of paragraph (a) of subdivision three of
-this section, the office of children and family services shall conduct a
-safety assessment of the program and take all appropriate steps to
-protect the health and safety of the children in the program, and may
-deny, limit, suspend, revoke or reject such program's license or
-registration or terminate or reject such program's enrollment, as
-applicable, unless the office of children and family services,
-determines in its discretion, that continued operation by the child day
-care program or enrolled legally-exempt provider will not in any way
-jeopardize the health, safety or welfare of the children cared for in
-the program or by the provider.
+this section, and unless such crime is eligible for expungement pursuant
+to section 160.50 of the criminal procedure law, the office of children
+and family services shall conduct a safety assessment of the program and
+take all appropriate steps to protect the health and safety of the
+children in the program, and may deny, limit, suspend, revoke or reject
+such program's license or registration or terminate or reject such
+program's enrollment, as applicable, unless the office of children and
+family services, determines in its discretion, that continued operation
+by the child day care program or enrolled legally-exempt provider will
+not in any way jeopardize the health, safety or welfare of the children
+cared for in the program or by the provider.
   (b) In relation to child day care programs and any enrolled
 legally-exempt provider, when a clearance conducted pursuant to this
 section reveals that any existing employee or volunteer with the
 potential for unsupervised contact with children has been convicted of a
 crime other than one set forth in subparagraph (iv) of paragraph (a) of
-subdivision three of this section, the office of children of family
-services shall conduct a safety assessment of the program and take all
-appropriate steps to protect the health and safety of the children in
-the program. The office of children and family services may direct the
-program or provider to terminate the employee or volunteer based on such
-a conviction, consistent with article twenty-three-A of the correction
-law.
+subdivision three of this section, and unless such crime is eligible for
+expungement pursuant to section 160.50 of the criminal procedure law,
+the office of children of family services shall conduct a safety
+assessment of the program and take all appropriate steps to protect the
+health and safety of the children in the program. The office of children
+and family services may direct the program or provider to terminate the
+employee or volunteer based on such a conviction, consistent with
+article twenty-three-A of the correction law.
   (c) (i) In relation to any child day care programs and any enrolled
 legally-exempt providers, where a clearance conducted pursuant to this
 section reveals a conviction for a crime other than one set forth in
 subparagraph (iv) of paragraph (a) of subdivision three of this section,
-for any prospective employee or volunteer, the office of children and
-family services may direct that such person not be hired, as applicable,
-based on such a conviction, consistent with article twenty-three-A of
-the correction law.
+and unless such crime is eligible for expungement pursuant to section
+160.50 of the criminal procedure law, for any prospective employee or
+volunteer, the office of children and family services may direct that
+such person not be hired, as applicable, based on such a conviction,
+consistent with article twenty-three-A of the correction law.
   (ii) In relation to any child day care program and any enrolled
 legally-exempt provider, when a clearance conducted pursuant to this
 section reveals a conviction for a crime other than one set forth in
 subparagraph (iv) of paragraph (a) of subdivision three of this section,
-for any prospective caregiver seeking enrollment, or applicant to be a
-director or operator, the office of children and family services may
-deny the application or enrollment, consistent with article
-twenty-three-A of the correction law.
+and unless such crime is eligible for expungement pursuant to section
+160.50 of the criminal procedure law, for any prospective caregiver
+seeking enrollment, or applicant to be a director or operator, the
+office of children and family services may deny the application or
+enrollment, consistent with article twenty-three-A of the correction
+law.
   (d) (i) Where a clearance conducted pursuant to this section reveals
 that an applicant to be the operator or director of a child day care
 program, or applicant to be a caregiver, or anyone who is not related in

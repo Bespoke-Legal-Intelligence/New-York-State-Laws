@@ -258,8 +258,6 @@ Article
             hundred eighty-six (§§3050-3054).
   30-B.    Emergency medical, trauma and disaster care (§§3060-3066).
   30-C.    Emergency medical services for children (§§3070-3075).
-  30-D.    Emergency  or disaster treatment protection act (§§
-            3080-3082).
   31.      Human blood and transfusion services
            Title    I.   General provisions (§3100).
                    II.   Regulation of the business of blood donating

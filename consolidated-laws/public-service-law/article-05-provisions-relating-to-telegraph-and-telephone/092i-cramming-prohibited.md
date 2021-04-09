@@ -4,7 +4,7 @@
 [Public Service Law](../README.md) › [Article 5 — Provisions Relating to Telegraph and Telephone Lines and to Telephone and Telegraph Corporations](README.md)
 
 ```text
-  * § 92-i. Cramming prohibited. 1. For the purposes of this section,
+  § 92-i. Cramming prohibited. 1. For the purposes of this section,
 "cramming" means the inclusion and imposition of charges on the invoice
 or bill of a customer from a telephone corporation at the request of a
 third party or billing aggregator that (a) were not authorized by the
@@ -45,5 +45,4 @@ charges on bills or invoices of telephone corporations. Any failure by a
 telephone corporation to comply with the provisions of this section may
 be redressed as provided in subdivision three of section ninety-six of
 this article or as otherwise authorized by law.
-  * NB Effective April 5, 2021
 ```

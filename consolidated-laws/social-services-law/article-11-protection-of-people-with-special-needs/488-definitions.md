@@ -82,7 +82,11 @@ report a reportable incident upon discovery.
 shall mean any administration by a custodian to a service recipient of:
 a controlled substance as defined by article thirty-three of the public
 health law, without a prescription; or other medication not approved for
-any use by the federal food and drug administration. It also shall
+any use by the federal food and drug administration, except for the
+administration of medical cannabis when such administration is in
+accordance with article three of the cannabis law, and any regulations
+promulgated thereunder, as well as the policies or procedures of the
+facility or provider agency governing such custodians. It also shall
 include a custodian unlawfully using or distributing a controlled
 substance as defined by article thirty-three of the public health law,
 at the workplace or while on duty.

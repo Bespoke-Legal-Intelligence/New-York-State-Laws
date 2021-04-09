@@ -4,7 +4,7 @@
 [Executive Law](../README.md) › [Article 5 — Department of Law](README.md)
 
 ```text
-  * § 75. Law enforcement misconduct investigative office. 1.
+  § 75. Law enforcement misconduct investigative office. 1.
 Jurisdiction. This section shall, subject to the limitations contained
 in this section, confer upon the law enforcement misconduct
 investigative office jurisdiction over all covered agencies. For the
@@ -133,5 +133,4 @@ contained in such report.
 diminish the rights, privileges, benefits or remedies that accrue to any
 employee pursuant to any agreement entered into pursuant to article
 fourteen of the civil service law.
-  * NB Effective April 1, 2021
 ```

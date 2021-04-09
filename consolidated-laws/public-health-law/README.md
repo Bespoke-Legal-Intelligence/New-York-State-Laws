@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,714 (1 repealed) |
-| Last changed | 2 Apr 2021 |
+| Sections | 1,714 (4 repealed) |
+| Last changed | 9 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (344 lines)](chapter-text.md)
+[Full chapter text (342 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [9 Apr 2021](../../changes/2021/2021-04-09.md): 3 repealed
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 43 amended, 1 added, 1 repealed
 - [26 Mar 2021](../../changes/2021/2021-03-26.md): 2 amended, 1 added, 2 removed
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 19 amended, 2 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 25 amended, 4 added
 - [28 Dec 2020](../../changes/2020/2020-12-28.md): 1 amended, 1 added
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 3 amended
-- [11 Dec 2020](../../changes/2020/2020-12-11.md): 2 amended
 
 ## Contents
 
@@ -130,7 +130,7 @@ Assembly, do enact as follows:
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)
 - [Article 30-C — Emergency Medical Services For Children](article-30c-emergency-medical-services-for-children/)
-- [Article 30-D — Emergency or Disaster Treatment Protection Act](article-30d-emergency-or-disaster-treatment-protection-act/)
+- [Article 30-D — Emergency or Disaster Treatment Protection Act](article-30d-emergency-or-disaster-treatment-protection-act/) *(repealed)*
 - [Article 31 — Human Blood and Transfusion Services](article-31-human-blood-and-transfusion-services/)
 - [Article 32 — Live Pathogenic Microorganisms or Viruses](article-32-live-pathogenic-microorganisms-or-viruses/)
 - [Article 32-A — Recombinant Dna Experiments](article-32a-recombinant-dna-experiments/)

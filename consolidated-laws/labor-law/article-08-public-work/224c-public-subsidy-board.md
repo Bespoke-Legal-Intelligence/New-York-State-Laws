@@ -4,7 +4,7 @@
 [Labor Law](../README.md) › [Article 8 — Public Work](README.md)
 
 ```text
-  * § 224-c. Public subsidy board. 1. A board on public subsidies,
+  § 224-c. Public subsidy board. 1. A board on public subsidies,
 hereinafter "the board", is hereby created, to consist of thirteen
 members. The thirteen members shall be appointed by the governor as
 follows: one member upon the recommendation of the temporary president
@@ -94,5 +94,4 @@ economic experts. The board will reference well-established economic
 indexes and accepted economic factors tied to the construction industry,
 including but not limited to construction industry employment, wages,
 and overall construction activity.
-  * NB Effective April 1, 2021
 ```

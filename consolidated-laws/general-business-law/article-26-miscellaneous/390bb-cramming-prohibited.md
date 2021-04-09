@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  * § 390-bb. Cramming prohibited. 1. For the purposes of this section,
+  § 390-bb. Cramming prohibited. 1. For the purposes of this section,
 "cramming" means the inclusion and imposition of charges on the invoice
 or bill for telephone service to a customer from a cable television
 company, as defined in section two hundred twelve of the public service
@@ -39,5 +39,4 @@ without the consent of the customer having been obtained as provided in
 subdivision two of this section shall be void and unenforceable, and
 shall be removed from the bill or invoice upon notice from such
 customer.
-  * NB Effective April 5, 2021
 ```

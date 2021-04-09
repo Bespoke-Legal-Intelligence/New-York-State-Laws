@@ -1,0 +1,31 @@
+﻿<!-- nyslaw {"citation": "Tax Law § 496", "kind": "section", "law_id": "TAX", "location_id": "496", "path": "ARTICLE 20-C › SECTION 496", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/496.md", "title": "Records to be kept; penalties"} -->
+# Tax Law § 496 — Records to be kept; penalties
+
+[Tax Law](../README.md) › [Article 20-C — Tax On Adult-use Cannabis Products](README.md)
+
+```text
+  * § 496. Records to be kept; penalties. (a) Records to be kept. Every
+distributor on whom tax is imposed under this article and every person
+who sells adult-use cannabis products at retail shall maintain complete
+and accurate records in such form as the commissioner may require
+including, but not limited to, such items as the total THC content of
+the adult-use cannabis products sold to or produced by such person;
+complete records of every retail sale of adult-use cannabis, and any
+other record or information required by the commissioner. Such records
+must be preserved for a period of three years after the filing of the
+return to which such records relate and must be provided to the
+commissioner upon request.
+  (b) Penalties. In addition to any other penalty provided in this
+article or otherwise imposed by law, every distributor on whom tax is
+imposed under this article and every person who sells adult-use cannabis
+products at retail who fails to maintain or make available to the
+commissioner the records required by this section is subject to a
+penalty not to exceed five hundred dollars for each month or part
+thereof for which the failure occurs. This penalty may not be imposed
+more than once for failures for the same monthly period or part thereof.
+If the commissioner determines that a failure to maintain or make
+available records in any month was entirely due to reasonable cause and
+not to willful neglect, the commissioner must remit the penalty for that
+month.
+  * NB Effective April 1, 2022
+```

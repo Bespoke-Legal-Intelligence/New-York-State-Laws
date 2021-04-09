@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3080", "kind": "section", "law_id": "PBH", "location_id": "3080", "path": "ARTICLE 30-D › SECTION 3080", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3080.md", "title": "Declaration of purpose"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3080", "kind": "section", "law_id": "PBH", "location_id": "3080", "path": "ARTICLE 30-D › SECTION 3080", "repealed": true, "repealed_date": "2021-04-09", "source": "nys-laws:PBH/3080.md", "title": "Declaration of purpose"} -->
 # Public Health Law § 3080 — Declaration of purpose
 
 [Public Health Law](../README.md) › [Article 30-D — Emergency or Disaster Treatment Protection Act](README.md)
+
+**Repealed** (9 Apr 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3080. Declaration of purpose. A public health emergency that occurs

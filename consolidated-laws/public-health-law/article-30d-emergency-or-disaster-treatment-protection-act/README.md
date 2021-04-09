@@ -3,11 +3,13 @@
 
 [Public Health Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 3080 Declaration of purpose](3080-declaration-of-purpose.md)
-- [§ 3081 Definitions](3081-definitions.md)
-- [§ 3082 Limitation of liability](3082-limitation-of-liability.md)
+- [§ 3080 Declaration of purpose](3080-declaration-of-purpose.md) *(repealed)*
+- [§ 3081 Definitions](3081-definitions.md) *(repealed)*
+- [§ 3082 Limitation of liability](3082-limitation-of-liability.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 30-D, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

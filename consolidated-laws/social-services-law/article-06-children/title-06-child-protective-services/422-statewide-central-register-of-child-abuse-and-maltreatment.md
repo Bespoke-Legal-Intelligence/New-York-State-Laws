@@ -491,7 +491,15 @@ central register shall be expunged ten years after the reported child's
 eighteenth birthday. In any case and at any time, the commissioner of
 the office of children and family services may amend any record upon
 good cause shown and notice to the subjects of the report and other
-persons named in the report.
+persons named in the report. Provided however, any report indicated for
+maltreatment based solely on the purchase, possession or consumption of
+cannabis, without a showing that the child's physical, mental or
+emotional condition was impaired or was in imminent danger of becoming
+impaired in accordance with the definition of child maltreatment as
+provided for in section four hundred twelve of this title is established
+by a fair preponderance of the evidence shall immediately be sealed upon
+a request pursuant to subdivision eight of this section or section four
+hundred twenty-four-a of this title.
   7. At any time, a subject of a report and other persons named in the
 report may receive, upon request, a copy of all information contained in
 the central register; provided, however, that the commissioner is

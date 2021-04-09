@@ -1,17 +1,18 @@
-﻿<!-- nyslaw {"citation": "Tax Law § 490", "kind": "section", "law_id": "TAX", "location_id": "490", "path": "ARTICLE 20-B › SECTION 490", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/490.md", "title": "Definitions"} -->
-# Tax Law § 490 — Definitions
+﻿<!-- nyslaw {"citation": "Tax Law § 490", "kind": "section", "law_id": "TAX", "location_id": "490", "path": "ARTICLE 20-B › SECTION 490", "repealed": false, "repealed_date": null, "source": "nys-laws:TAX/490.md", "title": "Excise tax on medical cannabis"} -->
+# Tax Law § 490 — Excise tax on medical cannabis
 
-[Tax Law](../README.md) › [Article 20-B — Excise Tax On Medical Marihuana](README.md)
+[Tax Law](../README.md) › [Article 20-B — Excise Tax On Medical Cannabis](README.md)
 
 ```text
-  * § 490. Definitions. 1. (a) All definitions of terms applicable to
-title five-A of article thirty-three of the public health law shall
-apply to this article.
+  * § 490. Excise tax on medical cannabis. 1. (a) For purposes of this
+article, the terms "medical cannabis," "registered organization,"
+"certified patient," and "designated caregiver" shall have the same
+definitions as in section three of the cannabis law.
   (b) As used in this section, where not otherwise specifically defined
 and unless a different meaning is clearly required "gross receipt" means
 the amount received in or by reason of any sale, conditional or
-otherwise, of medical marihuana or in or by reason of the furnishing of
-medical marihuana from the sale of medical marihuana provided by a
+otherwise, of medical cannabis or in or by reason of the furnishing of
+medical cannabis from the sale of medical cannabis provided by a
 registered organization to a certified patient or designated caregiver.
 Gross receipt is expressed in money, whether paid in cash, credit or
 property of any kind or nature, and shall be determined without any
@@ -20,10 +21,10 @@ cost of materials, labor or services used or other costs, interest or
 discount paid, or any other expenses whatsoever. "Amount received" for
 the purpose of the definition of gross receipt, as the term gross
 receipt is used throughout this article, means the amount charged for
-the provision of medical marihuana.
+the provision of medical cannabis.
   2. There is hereby imposed an excise tax on the gross receipts from
-the sale of medical marihuana by a registered organization to a
-certified patient or designated caregiver, to be paid by the registered
+the sale of medical cannabis by a registered organization to a certified
+patient or designated caregiver, to be paid by the registered
 organization, at the rate of seven percent. The tax imposed by this
 article shall be charged against and be paid by the registered
 organization and shall not be added as a separate charge or line item on
@@ -32,16 +33,16 @@ price given to the retail customer.
   3. The commissioner may make, adopt and amend rules, regulations,
 procedures and forms necessary for the proper administration of this
 article.
-  4. Every registered organization that makes sales of medical marihuana
+  4. Every registered organization that makes sales of medical cannabis
 subject to the tax imposed by this article shall, on or before the
 twentieth date of each month, file with the commissioner a return on
 forms to be prescribed by the commissioner, showing its receipts from
-the retail sale of medical marihuana during the preceding calendar month
+the retail sale of medical cannabis during the preceding calendar month
 and the amount of tax due thereon. Such returns shall contain such
 further information as the commissioner may require. Every registered
 organization required to file a return under this section shall, at the
 time of filing such return, pay to the commissioner the total amount of
-tax due on its retail sales of medical marihuana for the period covered
+tax due on its retail sales of medical cannabis for the period covered
 by such return. If a return is not filed when due, the tax shall be due
 on the day on which the return is required to be filed.
   5. Whenever the commissioner shall determine that any moneys received
@@ -75,13 +76,13 @@ pursuant to the provisions of section one hundred seventy-one-a of this
 chapter, provided that an amount equal to one hundred percent collected
 under this article less any amount determined by the commissioner to be
 reserved by the comptroller for refunds or reimbursements shall be paid
-by the comptroller to the credit of the medical marihuana trust fund
+by the comptroller to the credit of the medical cannabis trust fund
 established by section eighty-nine-h of the state finance law.
-  8. A registered organization that dispenses medical marihuana shall
-provide to the department information on where the medical marihuana was
-dispensed and where the medical marihuana was manufactured. A registered
-organization that obtains marihuana from another registered organization
+  8. A registered organization that dispenses medical cannabis shall
+provide to the department information on where the medical cannabis was
+dispensed and where the medical cannabis was manufactured. A registered
+organization that obtains cannabis from another registered organization
 shall obtain from such registered organization information on where the
-medical marihuana was manufactured.
-  * NB Repealed July 5, 2021
+medical cannabis was manufactured.
+  * NB Repealed July 5, 2028
 ```

@@ -35,37 +35,7 @@ commissioner of health.
 are implemented, the commissioner shall assure compliance with
 applicable standards governing the safety and quality of transportation
 of the population served.
-  * 4. The commissioner of health is authorized to assume responsibility
-from a local social services official for the provision and
-reimbursement of transportation costs under this section. If the
-commissioner elects to assume such responsibility, the commissioner
-shall notify the local social services official in writing as to the
-election, the date upon which the election shall be effective and such
-information as to transition of responsibilities as the commissioner
-deems prudent. The commissioner is authorized to contract with a
-transportation manager or managers to manage transportation services in
-any local social services district, other than transportation services
-provided or arranged for enrollees of managed long term care plans
-issued certificates of authority under section forty-four hundred
-three-f of the public health law. Any transportation manager or managers
-selected by the commissioner to manage transportation services shall
-have proven experience in coordinating transportation services in a
-geographic and demographic area similar to the area in New York state
-within which the contractor would manage the provision of services under
-this section. Such a contract or contracts may include responsibility
-for: review, approval and processing of transportation orders;
-management of the appropriate level of transportation based on
-documented patient medical need; and development of new technologies
-leading to efficient transportation services. If the commissioner elects
-to assume such responsibility from a local social services district, the
-commissioner shall examine and, if appropriate, adopt quality assurance
-measures that may include, but are not limited to, global positioning
-tracking system reporting requirements and service verification
-mechanisms. Any and all reimbursement rates developed by transportation
-managers under this subdivision shall be subject to the review and
-approval of the commissioner.
-  * NB Effective until April 4, 2021
-  * 4. (a) The commissioner of health is authorized to assume
+  4. (a) The commissioner of health is authorized to assume
 responsibility from a local social services official for the provision
 and reimbursement of transportation costs under this section. If the
 commissioner elects to assume such responsibility, the commissioner
@@ -213,7 +183,6 @@ that has a contract with the commissioner in accordance with this
 paragraph. Providers of adult day health care may elect to, but shall
 not be required to, use the services of the transportation management
 broker.
-  * NB Effective April 1, 2021
   5. Notwithstanding any contrary provision of law, and subject to
 federal financial participation, the commissioner of health shall make
 adjustments to payments under this section, for the purposes of

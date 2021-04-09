@@ -6,7 +6,7 @@
 ## Contents
 
 - [§ 1180 Definitions](1180-definitions.md)
-- [§ 1181 Imposition of Tax](1181-imposition-of-tax.md)
+- [§ 1181 Imposition of tax](1181-imposition-of-tax.md)
 - [§ 1182 Imposition of compensating use tax](1182-imposition-of-compensating-use-tax.md)
 - [§ 1183 Vapor products dealer registration and renewal](1183-vapor-products-dealer-registration-and-renewal.md)
 - [§ 1184 Administrative provisions](1184-administrative-provisions.md)

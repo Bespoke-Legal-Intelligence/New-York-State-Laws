@@ -79,9 +79,13 @@ believe that an applicant or recipient is abusing or dependent on
 alcohol or drugs, the social services district shall require a formal
 alcohol or substance abuse assessment, which may include drug testing,
 to be performed by an alcohol and/or substance abuse professional
-credentialed by the office of alcoholism and substance abuse services.
-The assessment may be performed directly by the district or pursuant to
-contract with the district.
+credentialed by the office of addiction services and supports. Provided
+however, if the applicant or recipient tests positive for the presence
+of cannabis, the positive result alone shall not be sufficient to
+establish a dependence for purposes of requiring an individual to
+participate in a treatment program pursuant to paragraph (c) of this
+subdivision. The assessment may be performed directly by the district or
+pursuant to contract with the district.
   (c) The social services official shall refer applicants and recipients
 whom it determines are presently unable to work by reason of their need
 for treatment for alcohol or substance abuse based on the formal

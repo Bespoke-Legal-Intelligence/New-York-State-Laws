@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 3082", "kind": "section", "law_id": "PBH", "location_id": "3082", "path": "ARTICLE 30-D › SECTION 3082", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/3082.md", "title": "Limitation of liability"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 3082", "kind": "section", "law_id": "PBH", "location_id": "3082", "path": "ARTICLE 30-D › SECTION 3082", "repealed": true, "repealed_date": "2021-04-09", "source": "nys-laws:PBH/3082.md", "title": "Limitation of liability"} -->
 # Public Health Law § 3082 — Limitation of liability
 
 [Public Health Law](../README.md) › [Article 30-D — Emergency or Disaster Treatment Protection Act](README.md)
+
+**Repealed** (9 Apr 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   § 3082. Limitation of liability. 1. Notwithstanding any law to the

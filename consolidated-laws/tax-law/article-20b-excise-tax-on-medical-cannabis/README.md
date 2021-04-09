@@ -1,11 +1,11 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A20-B", "path": "ARTICLE 20-B", "source": "nys-laws:TAX/A20-B.md", "title": "Excise Tax On Medical Marihuana"} -->
-# Article 20-B — Excise Tax On Medical Marihuana
+﻿<!-- nyslaw {"kind": "container", "law_id": "TAX", "location_id": "A20-B", "path": "ARTICLE 20-B", "source": "nys-laws:TAX/A20-B.md", "title": "Excise Tax On Medical Cannabis"} -->
+# Article 20-B — Excise Tax On Medical Cannabis
 
 [Tax Law](../README.md)
 
 ## Contents
 
-- [§ 490 Definitions](490-definitions.md)
+- [§ 490 Excise tax on medical cannabis](490-excise-tax-on-medical-cannabis.md)
 - [§ 491 Returns to be secret](491-returns-to-be-secret.md)
 
 <details>
@@ -13,10 +13,10 @@
 
 ```text
                              * ARTICLE 20-B
-                     EXCISE TAX ON MEDICAL MARIHUANA
-Section 490. Definitions.
+                     EXCISE TAX ON MEDICAL CANNABIS
+Section 490. Excise tax on medical cannabis.
         491. Returns to be secret.
-  * NB Repealed July 5, 2021
+  * NB Repealed July 5, 2028
 ```
 
 </details>

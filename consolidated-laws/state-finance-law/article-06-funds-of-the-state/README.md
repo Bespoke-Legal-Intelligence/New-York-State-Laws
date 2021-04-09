@@ -38,7 +38,7 @@
 - [§ 89-E Alzheimer's disease assistance fund](89e-alzheimers-disease-assistance-fund.md)
 - [§ 89-F Workers' compensation security fund payment account](89f-workers-compensation-security-fund-payment-account.md)
 - [§ 89-G Accident prevention course internet, and other technology pilot program fund](89g-accident-prevention-course-internet-and-other-technology-pilot-program-fund.md)
-- [§ 89-H Medical marihuana trust fund](89h-medical-marihuana-trust-fund.md)
+- [§ 89-H Medical cannabis trust fund](89h-medical-cannabis-trust-fund.md)
 - [§ 89-I Military family relief fund](89i-military-family-relief-fund.md)
 - [§ 90 New York state department of transportation highway safety program fund](90-new-york-state-department-of-transportation-highway-safety-program-fund.md)
 - [§ 90-A New York state passenger facility charge fund](90a-new-york-state-passenger-facility-charge-fund.md)
@@ -213,7 +213,6 @@
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-SSSS\*2 Elevator and related conveyances safety program account](97ssss-2-elevator-and-related-conveyances-safety-program-account.md)
-- [§ 97-TTTT Restore mother nature bond fund](97tttt-restore-mother-nature-bond-fund.md) *(repealed)*
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-YYYY Arts fund](97yyyy-arts-fund.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
@@ -269,6 +268,9 @@
 - [§ 99-HH\*2 Public health emergency charitable gifts trust fund](99hh-2-public-health-emergency-charitable-gifts-trust-fund.md)
 - [§ 99-HH\*3 Endangered and threatened species mitigation bank fund](99hh-3-endangered-and-threatened-species-mitigation-bank-fund.md)
 - [§ 99-HH\*4 Behavioral health parity compliance fund](99hh-4-behavioral-health-parity-compliance-fund.md)
+- [§ 99-II New York state cannabis revenue fund](99ii-new-york-state-cannabis-revenue-fund.md)
+- [§ 99-JJ New York state drug treatment and public education fund](99jj-new-york-state-drug-treatment-and-public-education-fund.md)
+- [§ 99-KK New York state community grants reinvestment fund](99kk-new-york-state-community-grants-reinvestment-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -314,7 +316,7 @@ Section 70.        Classification of funds.
         89-f.      Workers' compensation security fund payment account.
         89-g.      Accident prevention course internet, and other
                      technology pilot program fund.
-        89-h.      Medical marihuana trust fund.
+        89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
         90.        New York state department of transportation highway
                      safety program fund.
@@ -592,6 +594,10 @@ Section 70.        Classification of funds.
         99-hh*3.   Endangered and threatened species mitigation bank
                      fund.
         99-hh*4.   Behavioral health parity compliance fund.
+        99-ii.     New York state cannabis revenue fund.
+        99-jj.     New York state drug treatment and public education
+                     fund.
+        99-kk.     New York state community grants reinvestment fund.
 ```
 
 </details>

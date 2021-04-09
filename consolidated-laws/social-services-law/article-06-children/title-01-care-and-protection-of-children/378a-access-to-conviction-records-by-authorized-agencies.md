@@ -169,7 +169,9 @@ child pornography; or (iv) a crime involving violence, including rape,
 sexual assault, or homicide, other than a crime involving physical
 assault or battery; or
   (B) a felony conviction within the past five years for physical
-assault, battery, or a drug-related offense; or
+assault, battery, or a drug-related offense, unless such offense is
+eligible for expungement pursuant to section 160.50 of the criminal
+procedure law; or
   (2) Notwithstanding any other provision of law to the contrary, a
 final determination of an application for certification or approval of a
 prospective foster parent or prospective adoptive parent and, in
