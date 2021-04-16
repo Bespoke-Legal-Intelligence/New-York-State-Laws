@@ -39,8 +39,9 @@ the primary activity is the retail sale of tobacco products and
 accessories, and in which the sale of other products is merely
 incidental.
   8. "Smoking" means the burning of a lighted cigar, cigarette, pipe or
-any other matter or substance which contains tobacco or marihuana as
-defined in section thirty-three hundred two of this chapter.
+any other matter or substance which contains tobacco or cannabis as
+defined in section 222.00 of the penal law, or cannabinoid hemp as
+defined in section three of the cannabis law.
   9. "Vaping" means the use of an electronic cigarette.
   10. "Electronic cigarette" shall have the same meaning as in
 subdivision thirteen of section thirteen hundred ninety-nine-aa of this

@@ -55,9 +55,9 @@ hundred ninety-nine-t of this article, at least two weeks prior to such
 function. The enforcement officer shall keep a record of all tobacco
 sampling events, and such record shall be made available for public
 inspection. No such facility shall permit smoking and vaping under this
-subdivision for more than two days in any calendar year; (i) Retail
-electronic cigarette stores, provided however, that such stores may only
-permit the use of electronic cigarettes; and
+subdivision for more than two days in any calendar year;
+  (i) Retail electronic cigarette stores, provided however, that such
+stores may only permit the use of electronic cigarettes; and
   (j) Adult-use on-site consumption premises authorized pursuant to
 article four of the cannabis law, provided however, that such locations
 may only permit the smoking or vaping of cannabis.

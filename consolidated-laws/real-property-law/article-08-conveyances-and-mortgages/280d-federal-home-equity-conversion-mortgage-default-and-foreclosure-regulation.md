@@ -4,7 +4,7 @@
 [Real Property Law](../README.md) › [Article 8 — Conveyances and Mortgages](README.md)
 
 ```text
-  * § 280-d. Federal home equity conversion mortgage default and
+  § 280-d. Federal home equity conversion mortgage default and
 foreclosure regulation. 1. For the purposes of this section, the
 following terms shall have the following meanings:
   (a) Reverse mortgage loan. A reverse mortgage loan as defined in
@@ -56,5 +56,4 @@ attorney's fees.
 commencing an action to foreclose upon a home equity conversion mortgage
 which is subject to the provisions of this section, and failure to
 comply therewith shall be a complete defense to a foreclosure action.
-  * NB Effective April 14, 2021
 ```

@@ -13,16 +13,12 @@
 <summary>Official heading of Title 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                              * TITLE VIII
+                               TITLE VIII
              ELECTRONIC PERSONAL VOTER REGISTRATION PROCESS
 Section 5-800. Electronic voter registration transmittal system.
         5-802. Online voter registration application.
         5-804. Failure to provide exemplar signature not to prevent
                  registration.
-  * NB Effective whichever is earlier: April 12, 2021 OR 5 days after
-the date of certification by the state board of elections that the
-information technology infrastructure to substantially implement these
-provisions is functional
 ```
 
 </details>

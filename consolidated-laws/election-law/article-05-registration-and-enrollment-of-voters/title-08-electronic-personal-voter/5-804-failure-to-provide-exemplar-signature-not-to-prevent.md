@@ -4,7 +4,7 @@
 [Election Law](../../README.md) › [Article 5 — Registration and Enrollment of Voters](../README.md) › [Title 8 — Electronic Personal Voter Registration Process](README.md)
 
 ```text
-  * § 5-804. Failure to provide exemplar signature not to prevent
+  § 5-804. Failure to provide exemplar signature not to prevent
 registration. 1. If a voter registration exemplar signature is not
 provided by an applicant who submits a voter registration application
 pursuant to this title, the local board shall seek to obtain such
@@ -27,8 +27,4 @@ electronic upload to the board of elections through the electronic voter
 registration transmittal system. If such voter does not provide the
 required exemplar signature, when the voter appears to vote the voter
 shall be entitled to vote by affidavit ballot.
-  * NB Effective whichever is earlier: April 12, 2021 OR 5 days after
-the date of certification by the state board of elections that the
-information technology infrastructure to substantially implement these
-provisions is functional
 ```
