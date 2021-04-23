@@ -35,6 +35,7 @@
 - [§ 145 Acceptance of final payment under a state contract](145-acceptance-of-final-payment-under-a-state-contract.md)
 - [§ 146 Certain construction contracts involving steel](146-certain-construction-contracts-involving-steel.md)
 - [§ 147 Mentor-protege program](147-mentor-protege-program.md)
+- [§ 148 Certain contracts involving personal protective equipment and medical supplies](148-certain-contracts-involving-personal-protective-equipment-and-medical-supplies.md)
 
 <details>
 <summary>Official heading of Article 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -80,6 +81,8 @@ Section 135.   Separate specifications for contract work for the state.
         145.   Acceptance of final payment under a state contract.
         146.   Certain construction contracts involving steel.
         147.   Mentor-protege program.
+        148.   Certain contracts involving personal protective equipment
+                 and medical supplies.
 ```
 
 </details>

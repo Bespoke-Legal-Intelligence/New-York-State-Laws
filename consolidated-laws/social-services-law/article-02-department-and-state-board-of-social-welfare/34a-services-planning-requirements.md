@@ -98,22 +98,13 @@ services plan or annual implementation reports; and
   (c) each local social services district shall submit a revised version
 of its multi-year services plan or annual implementation report, or
 parts thereof.
-  6. * (a) Notwithstanding any other provision of law, the office of
+  6. (a) Notwithstanding any other provision of law, the office of
 children and family services shall plan for the statewide
 implementation, by the thirty-first day of December, two thousand eight,
 of the use by counties of a child and family services plan that combines
 the multi-year consolidated services plan required by this section and
 the comprehensive plan required by section four hundred twenty of the
 executive law into a single plan.
-  * NB Effective until December 31, 2021
-  * (a) Notwithstanding any other provision of law, the office of
-children and family services shall plan for the statewide
-implementation, by the thirty-first day of December, two thousand eight,
-of the use by counties of a child and family services plan that combines
-the multi-year consolidated services plan required by this section and
-the county comprehensive plan required by section four hundred twenty of
-the executive law into a single plan.
-  * NB Effective December 31, 2021
   (b) All counties shall implement a county child and family services
 plan prior to or by the two thousand eight plan year in accordance with
 a schedule developed by the office of children and family services and

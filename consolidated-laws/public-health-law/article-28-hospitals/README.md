@@ -112,6 +112,7 @@
 - [§ 2808-B Certification of financial statements and financial information](2808b-certification-of-financial-statements-and-financial-information.md)
 - [§ 2808-C Reimbursement of general hospital inpatient services](2808c-reimbursement-of-general-hospital-inpatient-services.md)
 - [§ 2808-D Nursing home quality improvement demonstration program](2808d-nursing-home-quality-improvement-demonstration-program.md)
+- [§ 2808-E Residential health care for children with medical fragility in transition to young adults and young adults with medical fragility demonst...](2808e-residential-health-care-for-children-with-medical-fragility-in-transition.md)
 - [§ 2809 Residential health care facilities; powers to require security](2809-residential-health-care-facilities-powers-to-require-security.md)
 - [§ 2810 Residential health care facilities; receivership](2810-residential-health-care-facilities-receivership.md)
 - [§ 2811 Discounts and splitting fees with medical referral services; prohibited](2811-discounts-and-splitting-fees-with-medical-referral-services-prohibited.md)
@@ -140,6 +141,7 @@
 - [§ 2825-F Health care facility transformation program: statewide III](2825f-health-care-facility-transformation-program-statewide-iii.md)
 - [§ 2826 Temporary adjustment to reimbursement rates](2826-temporary-adjustment-to-reimbursement-rates.md)
 - [§ 2827 Plant-based food options](2827-plant-based-food-options.md)
+- [§ 2828 Residential health care facilities; minimum direct resident care spending](2828-residential-health-care-facilities-minimum-direct-resident-care-spending.md)
 
 <details>
 <summary>Official heading of Article 28, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -296,6 +298,9 @@ Section 2800.     Declaration of policy and statement of purpose.
         2808-c.   Reimbursement of general hospital inpatient services.
         2808-d.   Nursing home quality improvement demonstration
                     program.
+        2808-e.   Residential health care for children with medical
+                    fragility in transition to young adults and young
+                    adults with medical fragility demonstration program.
         2809.     Residential health care facilities; powers to require
                     security.
         2810.     Residential health care facilities; receivership.
@@ -335,6 +340,8 @@ Section 2800.     Declaration of policy and statement of purpose.
                     III.
         2826.     Temporary adjustment to reimbursement rates.
         2827.     Plant-based food options.
+        2828.     Residential health care facilities; minimum direct
+                    resident care spending.
 ```
 
 </details>

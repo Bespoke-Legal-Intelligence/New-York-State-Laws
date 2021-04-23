@@ -3058,30 +3058,39 @@ subdivision, adjusted to reflect increases or decreases in volume of
 service in such prior rate period compared to statistics applied in
 determining the capital related inpatient expenses component of rates of
 payment based on a budget for such prior rate period. For rates
-effective on and after April first, two thousand twenty, the budgeted
-capital-related expenses add-on as described in paragraph (a) of this
-subdivision, based on a budget submitted in accordance to paragraph (a)
-of this subdivision, shall be reduced by five percent relative to the
-rate in effect on such date; and the actual capital expenses add-on as
-described in paragraph (a) of this subdivision, based on actual expenses
-and statistics through appropriate audit procedures in accordance with
-paragraph (a) of this subdivision shall be reduced by five percent
-relative to the rate in effect on such date. For any rate year, all
-reconciliation add-on amounts calculated on and after April first, two
-thousand twenty shall be reduced by ten percent, and all reconciliation
-recoupment amounts calculated on or after April first, two thousand
-twenty shall increase by ten percent. Notwithstanding any inconsistent
-provision of subparagraph (i) of paragraph (e) of subdivision nine of
-this section, capital related inpatient expenses of a general hospital
-included in the computation of rates of payment based on a budget shall
-not be included in the computation of a volume adjustment made in
-accordance with such subparagraph. Adjustments to rates of payment for a
-general hospital made pursuant to this paragraph shall be made in
-accordance with paragraph (c) of subdivision eleven of this section.
-Such adjustments shall not be carried forward except for such volume
-adjustment as may be authorized in accordance with subparagraph (i) of
-paragraph (e) of subdivision nine of this section for such general
-hospital.
+effective April first, two thousand twenty through March thirty-first,
+two thousand twenty-one, the budgeted capital-related expenses add-on as
+described in paragraph (a) of this subdivision, based on a budget
+submitted in accordance to paragraph (a) of this subdivision, shall be
+reduced by five percent relative to the rate in effect on such date; and
+the actual capital expenses add-on as described in paragraph (a) of this
+subdivision, based on actual expenses and statistics through appropriate
+audit procedures in accordance with paragraph (a) of this subdivision
+shall be reduced by five percent relative to the rate in effect on such
+date. For rates effective on and after April first, two thousand
+twenty-one, the budgeted capital-related expenses add-on as described in
+paragraph (a) of this subdivision, based on a budget submitted in
+accordance to paragraph (a) of this subdivision, shall be reduced by ten
+percent relative to the rate in effect on such date; and the actual
+capital expenses add-on as described in paragraph (a) of this
+subdivision, based on actual expenses and statistics through appropriate
+audit procedures in accordance with paragraph (a) of this subdivision
+shall be reduced by ten percent relative to the rate in effect on such
+date. For any rate year, all reconciliation add-on amounts calculated on
+and after April first, two thousand twenty shall be reduced by ten
+percent, and all reconciliation recoupment amounts calculated on or
+after April first, two thousand twenty shall increase by ten percent.
+Notwithstanding any inconsistent provision of subparagraph (i) of
+paragraph (e) of subdivision nine of this section, capital related
+inpatient expenses of a general hospital included in the computation of
+rates of payment based on a budget shall not be included in the
+computation of a volume adjustment made in accordance with such
+subparagraph. Adjustments to rates of payment for a general hospital
+made pursuant to this paragraph shall be made in accordance with
+paragraph (c) of subdivision eleven of this section. Such adjustments
+shall not be carried forward except for such volume adjustment as may be
+authorized in accordance with subparagraph (i) of paragraph (e) of
+subdivision nine of this section for such general hospital.
   * (e) Notwithstanding any inconsistent provision of this subdivision,
 commencing April first, nineteen hundred ninety-five, when a factor for
 reconciliation of budgeted capital related inpatient expenses to actual
@@ -3094,7 +3103,7 @@ determined in accordance with paragraphs (a), (b) and (c) of this
 subdivision for such prior year and capital related inpatient expenses
 for such prior year calculated based on the hospital's average capital
 related inpatient expenses computed on a per diem basis.
-  * NB Effective through March 31, 2021
+  * NB Effective through March 31, 2023
   * (f) Notwithstanding any inconsistent provision of this section,
 commencing April first, nineteen hundred ninety-five for purposes of
 determining the capital related inpatient expenses component of rates of
@@ -3105,7 +3114,7 @@ shall be decreased by the commissioner to reflect the percentage amount
 by which the budget for the base year two years prior to the rate year
 for capital related inpatient expenses of the hospital exceeded actual
 expenses.
-  * NB Effective through March 31, 2021
+  * NB Effective through March 31, 2023
   * (g) Notwithstanding any inconsistent provision of this article,
 commencing April first, nineteen hundred ninety-five for rates of
 payment for patients eligible for payments made by state governmental
@@ -3117,7 +3126,7 @@ seven of this article shall be adjusted by the commissioner to exclude
 such expenses related to:
   (i) forty-four percent of the costs of major movable equipment; and
   (ii) staff housing.
-  * NB Effective through March 31, 2021
+  * NB Effective through March 31, 2023
   9. Adjustments. For annual rate periods beginning on or after January
 first, nineteen hundred eighty-eight:
   (a) The commissioner shall on his own initiative, or on the basis of a

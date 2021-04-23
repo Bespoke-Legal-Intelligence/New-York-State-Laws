@@ -11,7 +11,7 @@ subsequently sold by such purchaser in accordance with subdivision (a),
 purchaser in accordance with subdivision (c), (d), (f), (g), (i), (l) or
 (m) of this section, which gallonage has been included in the measure of
 the tax imposed by this article on a petroleum business:
-  * NB Effective until September 1, 2021
+  * NB Effective until September 1, 2026
   * A subsequent purchaser shall be eligible for reimbursement of tax
 with respect to the following gallonage, subsequently sold by such
 purchaser in accordance with subdivision (a), (b), (e), (h), (j) or (k)
@@ -19,7 +19,7 @@ of this section or used by such purchaser in accordance with subdivision
 (c), (d), (f), (g), (i), (l) or (m) of this section, which gallonage has
 been included in the measure of the tax imposed by this article on a
 petroleum business:
-  * NB Effective September 1, 2021
+  * NB Effective September 1, 2026
   (a) Non-highway Diesel motor fuel used for heating purposes. (1) Total
 residential heating reimbursement. Non-highway Diesel motor fuel
 purchased in this state and sold by such purchaser to a consumer for use
@@ -300,7 +300,7 @@ absorption by it of the entire amount of the tax imposed pursuant to
 this article. Provided, that the commissioner shall require such
 documentary proof to qualify for any reimbursement provided hereunder as
 the commissioner deems appropriate.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   * (o) (1) Partial reimbursement for B20. B20 purchased in this state
 and sold by such purchaser in this state where (i) the tax imposed
 pursuant to this article has been paid with respect to such B20 and the
@@ -314,7 +314,7 @@ provided hereunder as the commissioner deems appropriate.
 reimbursement under this subdivision shall be determined by multiplying
 the quantity of B20 times twenty percent of the applicable taxes
 otherwise imposed by this article on such fuel.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   (p) Reimbursement for motor fuel and diesel motor fuel used by a
 voluntary ambulance service, as defined in section three thousand one of
 the public health law, a fire company or a fire department, as defined

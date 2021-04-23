@@ -565,7 +565,7 @@ as provided in section six hundred eighty-six of this article, provided,
 however, that no interest shall be paid thereon.
   (a-2) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-two, a taxpayer shall be allowed a
+January first, two thousand twenty-three, a taxpayer shall be allowed a
 credit, to be computed as provided in this subsection, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -591,7 +591,7 @@ than bad conduct or dishonorable from such service after September
 eleventh, two thousand one;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-one; and
+thousand twenty-two; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1420,6 +1420,129 @@ taxable year shall exceed the taxpayer's tax for such year, the excess
 shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
+  (e-2) Real property tax relief credit. (1) For purposes of this
+subsection:
+  (A) "Qualified taxpayer" means a resident individual of the state who
+owned and primarily resided for six months or more of the taxable year
+in real property that either received the STAR exemption authorized by
+section four hundred twenty-five of the real property tax law or that
+qualified the taxpayer to receive the school tax relief credit
+authorized by subsection (eee) of this section.
+  (B) "Qualified gross income" means the adjusted gross income of the
+qualified taxpayer for the taxable year for federal income tax purposes
+and, for taxable year two thousand twenty-one computed without regard to
+the last sentence of subdivision (a) of section six hundred seven of
+this article. In computing qualified gross income, the net amount of
+loss reported on Federal Schedule C, D, E, or F shall not exceed three
+thousand dollars per schedule. In addition, the net amount of any other
+separate category of loss shall not exceed three thousand dollars. The
+aggregate amount of all losses included in computing qualified gross
+income shall not exceed fifteen thousand dollars.
+  (C) "Residence" means a dwelling in this state owned by the taxpayer
+and used by the taxpayer as his or her primary residence, and so much of
+the land abutting it, not exceeding one acre, as is reasonably necessary
+for use of the dwelling as a home, and may consist of a part of a
+multi-dwelling or multi-purpose building including a cooperative or
+condominium. Residence includes a trailer or mobile home, used
+exclusively for residential purposes and defined as real property
+pursuant to paragraph (g) of subdivision twelve of section one hundred
+two of the real property tax law.
+  (D) "Qualifying real property taxes" means all real property taxes,
+special ad valorem levies and special assessments, exclusive of
+penalties and interest, levied by a taxing jurisdiction on the residence
+owned and occupied by a qualified taxpayer and paid by the qualified
+taxpayer during the taxable year, provided that to the extent the total
+amount of real property taxes so paid includes school district taxes,
+the amount of the school tax relief (STAR) credit claimed pursuant to
+subsection (eee) of this section, if any, shall be deducted from such
+amount.
+  A qualified taxpayer may elect to include any additional amount that
+would have been levied by a taxing jurisdiction and paid by the
+qualified taxpayer in the absence of an exemption from real property
+taxation pursuant to section four hundred sixty-seven of the real
+property tax law. If tenant-stockholders in a cooperative housing
+corporation have met the requirements of section two hundred sixteen of
+the internal revenue code by which they are allowed a deduction for real
+estate taxes, the amount of taxes so allowable, or which would be
+allowable if the taxpayer had filed returns on a cash basis, shall be
+qualifying real property taxes. If a residence is an integral part of a
+larger unit, qualifying real property taxes shall be limited to that
+amount of such taxes paid as may be reasonably apportioned to such
+residence. If a taxpayer owned and occupied two residences in the state
+during different periods in the same taxable year, qualifying real
+property taxes shall be the sum of the prorated qualifying real property
+taxes attributable to the taxpayer during the periods such taxpayer
+occupied each of such residences. A taxpayer who owned and occupied a
+residence in the state for part of the taxable year and rented a
+residence in the state for part of the same taxable year, may include
+the proration of qualifying real property taxes on the residence owned.
+Provided, however, for purposes of the credit allowed under this
+subsection, qualifying real property taxes may be included by a
+qualified taxpayer only to the extent that such taxpayer or the spouse
+of such taxpayer occupied such residence for one hundred eighty-three
+days or more of the taxable year, owned the residence and paid such
+taxes.
+  (E) "Excess real property tax" means the excess of qualifying real
+property taxes over six percent of qualified gross income.
+  (2) For tax years beginning on or after January first, two thousand
+twenty-one and before January first, two thousand twenty-four, a
+qualified taxpayer shall be allowed a credit as provided in paragraph
+three of this subsection against the taxes imposed by this article. If
+the credit exceeds the tax for such year under this article, the excess
+shall be treated as an overpayment, to be credited or refunded, without
+interest.
+  (3) Determination of credit. The credit amount allowed under this
+subsection shall be the product of the excess real property tax and the
+applicable percentage of the excess real property tax, calculated as
+follows:
+  (A) For qualified taxpayers whose qualified gross income is
+seventy-five thousand dollars or less, the applicable percentage shall
+be fourteen percent.
+  (B) For qualified taxpayers whose qualified gross income is greater
+than seventy-five thousand dollars but less than or equal to one hundred
+fifty thousand dollars, the applicable percentage shall be the
+difference between (i) fourteen percent and (ii) five percent multiplied
+by a fraction, the numerator of which is the difference between the
+qualified taxpayer's qualified gross income as defined by this
+subsection and seventy-five thousand dollars, and the denominator of
+which is seventy-five thousand dollars.
+  (C) For qualified taxpayers whose qualified gross income is greater
+than one hundred fifty thousand dollars but less than or equal to two
+hundred fifty thousand dollars, the applicable percentage shall be the
+difference between (i) nine percent and (ii) six percent multiplied by a
+fraction, the numerator of which is the difference between the qualified
+taxpayer's qualified gross income and one hundred fifty thousand
+dollars, and the denominator of which is one hundred thousand dollars.
+  (4) No credit shall be allowed under this subsection if the amount
+determined pursuant to paragraph three is less than two hundred fifty
+dollars, provided further that if the amount determined pursuant to
+paragraph three is in excess of three hundred fifty dollars the taxpayer
+shall be allowed a credit of three hundred fifty dollars.
+  (5) The commissioner may prescribe that the credit under this
+subsection shall be determined in whole or in part by the use of tables
+prescribed by such commissioner. Such tables shall set forth the credit
+to the nearest dollar.
+  (6) No credit shall be granted under this subsection:
+  (A) To a property owner if qualified gross income for the taxable year
+exceeds two hundred fifty thousand dollars.
+  (B) To a property owner unless: (i) the property is used for
+residential purposes; (ii) not more than twenty percent of the rental
+income, if any, from the property is from rental for nonresidential
+purposes; and (iii) the property is occupied as a residence in whole or
+in part by one or more of the owners of the property.
+  (C) To an individual with respect to whom a deduction under subsection
+(c) of section one hundred fifty-one of the internal revenue code is
+allowable to another taxpayer for the taxable year.
+  (D) With respect to a residence that is wholly exempted from real
+property taxation.
+  (E) To an individual who is not a resident individual of the state for
+the entire taxable year.
+  (7) In the case of a taxpayer who has itemized deductions from federal
+adjusted gross income, and whose federal itemized deductions include an
+amount for real estate taxes paid, the New York itemized deduction
+otherwise allowable under section six hundred fifteen of this chapter
+shall be reduced by the amount of the credit claimed under this
+subsection.
   (f) Credit for the special additional mortgage recording tax.  (1) For
 taxable years beginning before nineteen hundred eighty-eight, a taxpayer
 shall be allowed a credit, to be credited against the tax imposed by
@@ -1948,7 +2071,7 @@ subsection (qq)                      costs of a qualified film
 * (xxxii) Economic transformation    Amount of credit under subdivision
 and facility redevelopment credit    thirty-five
                                      of section two hundred ten-B
-  * NB Repealed December 31, 2021
+  * NB Repealed December 31, 2026
 * (xxxiii) New York youth jobs       Amount of credit under
 program tax credit                   subdivision thirty-six
                                      of section two hundred ten-B
@@ -1993,7 +2116,7 @@ subsection (u)                       production expenditures and
                                      theatrical production under
                                      subdivision forty-seven of
                                      section two hundred ten-B
-  ** NB Repealed March 31, 2022
+  ** NB Repealed January 1, 2026
 ** (xl) Workers with disabilities    Amount of
 tax credit under subsection (zz)     credit under subdivision
                                      forty-eight of section two
@@ -2034,6 +2157,13 @@ credit under subsection (v)          directors' salaries credit
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
 chapter 683 of 2019
+(xlvii) Restaurant return-to-work    Amount of credit under
+tax credit                           subdivision fifty-six of
+                                     section two hundred ten-B
+* (xlviii) New York city musical     Amount of credit under
+and theatrical production            subdivision fifty-seven of
+tax credit                           section two hundred ten-B
+  * NB Repealed January 1, 2024
   (2) The reduction of a shareholder's proportionate interest in the
 corporation shall be treated as a disposition of property for which a
 redetermination of credit is required under subsections (a), (j) and (l)
@@ -3583,7 +3713,7 @@ this subsection for any taxable year exceeds the taxpayer's tax for such
 year, the excess shall be treated as an overpayment of tax to be
 credited or refunded as provided in section six hundred eighty-six of
 this article, provided, however, that no interest shall be paid thereon.
-  ** NB Repealed March 31, 2022
+  ** NB Repealed January 1, 2026
   * (v) Television writers' and directors' fees and salaries credit. (1)
 Allowance of credit. A taxpayer who is eligible pursuant to section
 twenty-four-b of this chapter shall be allowed a credit to be computed
@@ -4056,7 +4186,9 @@ before January first, two thousand twenty-five, a taxpayer shall be
 allowed a credit as hereinafter provided, against the tax imposed by
 this article, in an amount equal to one hundred percent of the amount of
 credit allowed the taxpayer with respect to a certified historic
-structure under internal revenue code section 47(c)(3), determined
+structure, and one hundred fifty percent of the amount of credit allowed
+the taxpayer with respect to a certified historic structure that is a
+small project, under internal revenue code section 47(c)(3), determined
 without regard to ratably allocating the credit over a five year period
 as required by subsection (a) of such section 47, with respect to a
 certified historic structure located within the state. Provided,
@@ -4106,6 +4238,9 @@ estimate, a census tract that qualified for eligibility under this
 program before information about the change was released will remain
 eligible for a credit under this subsection for an additional two
 calendar years.
+  (6) For purposes of this subsection the term "small project" means
+qualified rehabilitation expenditures totaling two million five hundred
+thousand dollars or less.
   (pp) Historic homeownership rehabilitation credit. (1) For taxable
 years beginning on or after January first, two thousand seven, a
 taxpayer shall be allowed a credit, to be computed as hereinafter
@@ -4355,7 +4490,7 @@ year, the excess will be treated as an overpayment of tax to be credited
 or refunded in accordance with the provisions of section six hundred
 eighty-six of this article, provided, however, that no interest will be
 paid thereon.
-  * NB Repealed December 31, 2021
+  * NB Repealed December 31, 2026
   * (tt) New York youth jobs program tax credit.  (1) A taxpayer that
 has been certified by the commissioner of labor as a qualified employer
 pursuant to section twenty-five-a of the labor law and received an
@@ -4927,6 +5062,10 @@ subsequent registration statement shall also include a copy of such
 rules and regulations. The commissioner shall provide the commissioner
 of housing and community renewal with the information contained in each
 report no later than thirty days after the receipt thereof.
+  (iii) Beginning with the two thousand twenty-two taxable year, to
+receive the credit authorized by this subsection, an owner of a mobile
+home described by clause (i) of this subparagraph shall register for
+such credit in the manner prescribed by the commissioner.
   (C) In the case of a primary residence that is located in two or more
 school districts, the applicable basic or enhanced STAR tax savings for
 the school district portion shall be determined as follows:
@@ -5303,6 +5442,60 @@ shall be treated as an overpayment of tax to be credited or refunded in
 accordance with the provisions of section six hundred eighty-six of this
 article, provided, however, that no interest shall be paid thereon.
   * NB There are 3 subsection (jjj)'s
+  (kkk) Credit for pass-through entity tax. (1) A taxpayer partner or
+member of an electing partnership and a taxpayer shareholder of an
+electing S corporation subject to tax under article twenty-four-A of
+this chapter shall be entitled to a credit against the tax imposed by
+this article as provided in this subsection. For purposes of this
+subsection, the terms "electing partnership," "electing S corporation,"
+"pass-through entity tax," and "direct share of pass-through entity tax"
+shall have the same meanings as used in article twenty-four-A of this
+chapter.
+  (2) The credit shall be equal to the partner's, member's or
+shareholder's direct share of the pass-through entity tax.
+  (3) If a taxpayer is a partner, member or shareholder in multiple
+electing partnerships and/or electing S corporations subject to tax
+pursuant to article twenty-four-A of this chapter, the taxpayer's credit
+shall be the sum of such credits calculated pursuant to paragraph two of
+this subsection with regard to each entity in which the taxpayer has a
+direct ownership interest.
+  (4) If the amount of the credit allowable pursuant to this subsection
+for any taxable year exceeds the tax due for such year pursuant to this
+article, the excess shall be treated as an overpayment, to be credited
+or refunded, without interest.
+  (5) Limitation on credit. No credit shall be allowed to a taxpayer
+under this subsection unless the electing partnership or electing S
+corporation provided sufficient information to identify the taxpayer on
+its pass-through entity tax return as required under paragraph two of
+subsection (c) of section eight hundred sixty-five of this article for
+an electing partnership or paragraph two of subsection (d) of section
+eight hundred sixty-five of this article for an electing S corporation.
+The credit allowed to a taxpayer under this subsection shall not exceed
+the direct share of pass-through entity tax reported by such electing
+partnership or electing S corporation attributable to such taxpayer on
+the entity's return filed pursuant to section eight hundred sixty-five
+of this article.
+  (lll) Restaurant return-to-work tax credit. (1) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-six of this chapter, against the tax imposed by this
+article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for the taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+will be paid thereon.
+  * (mmm) New York city musical and theatrical production tax credit.
+(1) Allowance of credit. A taxpayer shall be allowed a credit, to be
+computed as provided in section twenty-four-c of this chapter, against
+the tax imposed by this article.
+  (2) Application of credit. If the amount of the credit allowed under
+this subsection for the taxable year exceeds the taxpayer's tax for such
+year, the excess shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section six
+hundred eighty-six of this article, provided, however, that no interest
+shall be paid thereon.
+  * NB Repealed January 1, 2024
   (vvv) Empire state apprenticeship tax credit. (1)(A) A taxpayer that
 has been certified by the commissioner of labor as a certified employer
 pursuant to section twenty-five-c of the labor law shall be allowed a

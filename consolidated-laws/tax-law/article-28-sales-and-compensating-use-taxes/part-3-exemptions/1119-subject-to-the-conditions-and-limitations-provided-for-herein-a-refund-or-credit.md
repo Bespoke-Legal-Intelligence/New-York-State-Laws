@@ -381,5 +381,5 @@ this article.
   (5) The terms "participant", "economic transformation area", and
 "certificate of eligibility" shall have the same meaning as those terms
 have in section four hundred of the economic development law.
-  * NB Repealed December 31, 2021
+  * NB Repealed December 31, 2026
 ```

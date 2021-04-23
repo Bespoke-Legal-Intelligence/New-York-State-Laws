@@ -499,6 +499,10 @@ program intended to accomplish the purpose of this section.
 federal Centers for Disease Control (CDC), provided by a community-based
 organization, and designed to prevent individuals at risk of developing
 diabetes from developing Type 2 diabetes.
+  * (gg) addiction and mental health services and supports provided by
+facilities licensed pursuant to article thirty-six of the mental hygiene
+law.
+  * NB Effective October 1, 2021
   (hh) The commissioner is authorized to establish one or more maternal
 health promotion pilot programs in one or more counties or regions of
 the state, for the purpose of providing Medicaid reimbursement of the

@@ -406,6 +406,19 @@ registered programs; and
   (v) publicize the department's toll-free telephone number for making
 complaints of violations of child day care requirements related to
 programs which are required to be licensed or registered.
+  * (c) The office of children and family services shall implement a
+statewide campaign to educate parents and other consumers of child day
+care programs about adverse childhood experiences, the importance of
+protective factors, and the availability of services for children at
+risk for or experiencing adverse childhood experiences as defined in
+paragraph (c) of subdivision one of section twenty-d of this chapter.
+Such statewide campaign, shall include but is not limited to, providing
+all licensed, registered and enrolled child care providers with
+educational materials developed pursuant to subdivision two of section
+three hundred seventy-c of this chapter. The educational materials may
+be made available electronically and shall be offered to parents and
+other consumers at the time of enrollment.
+  * NB Effective April 1, 2022
   8. The department shall establish and maintain a list of all current
 registered and licensed child day care programs and a list of all
 programs whose license or registration has been revoked, rejected,

@@ -163,4 +163,24 @@ sixteen hundred eighty of the public authorities law shall be subject to
 fifty percent state reimbursement from the office of children and family
 services, net of any available federal funds, for the portion of the
 costs that exceed the district's foster care block grant allocation.
+  * (6) (a) Any federal paycheck protection program loan forgiveness
+funding or other extraordinary federal funding, as determined by the
+office of children and family services, received by an authorized agency
+as defined in subdivision ten of section three hundred seventy-one of
+this article, to the extent consistent with federal law, shall be
+disregarded when calculating the maximum state aid rate when such
+funding is utilized for allowable costs or expenses incurred due to the
+state of emergency that was declared in executive order two hundred two
+on March seventh, two thousand twenty. Allowable costs or expenses shall
+include costs incurred due to the pandemic, as allowable pursuant to the
+program through which such funding was received or, to the extent
+permitted by federal law, expenses related to offsetting lost revenue
+due to a reduction in placements that can be directly attributed to the
+novel coronavirus (COVID-19) pandemic.
+  (b) The office of children and family services shall hold harmless the
+prospective maximum state aid rate to the extent that extraordinary
+federal revenue was disregarded in accordance with paragraph (a) of this
+subdivision for the two thousand twenty-one--two thousand twenty-two
+rate year and subsequent applicable rate years.
+  * NB Repealed April 16, 2026
 ```

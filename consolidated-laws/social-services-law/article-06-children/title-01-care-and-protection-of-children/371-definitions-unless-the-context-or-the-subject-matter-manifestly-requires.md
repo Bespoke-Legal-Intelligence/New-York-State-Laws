@@ -196,4 +196,14 @@ who, based upon their circumstances, are appropriate for transition to
 the level of care and supervision provided in the program. Each
 supervised independent living unit shall be located in the community
 separate from any of the agency's other congregate dwellings.
+  * 22. "Supervised setting" shall mean a residential placement in the
+community approved and supervised by an authorized agency or the local
+social services district in accordance with the regulations of the
+office of children and family services to provide a transitional
+experience for older youth in which such youth may live independently. A
+supervised setting includes, but is not limited to, placement in a
+supervised independent living program, as defined in subdivision
+twenty-one of this section.
+  * NB Effective September 29, 2021 if certain conditions are met (see
+chapter 56 of 2021, Part L, § 17 sb (a))
 ```

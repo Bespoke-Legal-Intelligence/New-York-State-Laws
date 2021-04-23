@@ -8,6 +8,8 @@
 shall have the following meanings:
   1. "Distant site" means a site at which a telehealth provider is
 located while delivering health care services by means of telehealth.
+Any site within the United States or United States' territories is
+eligible to be a distant site for delivery and payment purposes.
   2. "Telehealth provider" means:
   (a) a physician licensed pursuant to article one hundred thirty-one of
 the education law;
@@ -72,8 +74,13 @@ program, patient centered medical home, office for people with
 developmental disabilities Care Coordination Organization (CCO), hospice
 or a voluntary foster care agency certified by the office of children
 and family services certified and licensed pursuant to article
-twenty-nine-i of this chapter; and
-  (x) any other provider as determined by the commissioner pursuant to
+twenty-nine-i of this chapter;
+  (x) certified peer recovery advocate services providers certified by
+the commissioner of addiction services and supports pursuant to section
+19.18-b of the mental hygiene law, peer providers credentialed by the
+commissioner of addiction services and supports and peers certified or
+credentialed by the office of mental health; and
+  (y) any other provider as determined by the commissioner pursuant to
 regulation or, in consultation with the commissioner, by the
 commissioner of the office of mental health, the commissioner of the
 office of addiction services and supports, or the commissioner of the
@@ -81,19 +88,7 @@ office for people with developmental disabilities pursuant to
 regulation.
   3. "Originating site" means a site at which a patient is located at
 the time health care services are delivered to him or her by means of
-telehealth. Originating sites shall be limited to: (a) facilities
-licensed under articles twenty-eight and forty of this chapter; (b)
-facilities as defined in subdivision six of section 1.03 of the mental
-hygiene law; (c) certified and non-certified day and residential
-programs funded or operated by the office for people with developmental
-disabilities; (d) private physician's or dentist's offices located
-within the state of New York; (e) any type of adult care facility
-licensed under title two of article seven of the social services law;
-(f) public, private and charter elementary and secondary schools, school
-age child care programs, and child day care centers within the state of
-New York; and (g) the patient's place of residence located within the
-state of New York or other temporary location located within or outside
-the state of New York.
+telehealth.
   4. "Telehealth" means the use of electronic information and
 communication technologies by telehealth providers to deliver health
 care services, which shall include the assessment, diagnosis,

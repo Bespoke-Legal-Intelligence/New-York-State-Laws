@@ -24,6 +24,7 @@
 - [§ 633 Confidentiality of records](633-confidentiality-of-records.md)
 - [§ 634 Subrogation](634-subrogation.md)
 - [§ 635 Severability of provisions](635-severability-of-provisions.md)
+- [§ 636 Community violence intervention act](636-community-violence-intervention-act.md)
 
 <details>
 <summary>Official heading of Article 22, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -51,6 +52,7 @@ Section 620.   Declaration of policy and legislative intent.
         633.   Confidentiality of records.
         634.   Subrogation.
         635.   Severability of provisions.
+        636.   Community violence intervention act.
 ```
 
 </details>

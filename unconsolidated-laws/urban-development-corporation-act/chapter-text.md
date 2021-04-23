@@ -76,6 +76,7 @@ bond act in November, 1992
         16-aa.  Life sciences initiatives program.
         16-dd.  Community development revolving loan program.
         16-ee.  Loans to social and economic equity applicants.
+        16-ff.  COVID-19 pandemic small business recovery grant program.
         17.     Bonds and notes of the corporation.
         18.     Bond authorization.
         19.     Security for bonds or notes; construction and
@@ -126,6 +127,10 @@ bond act in November, 1992
                   program.
         53.     (Enacted without section heading).
         54.     (Enacted without section heading).
+        54-a.   Personal income tax notes; 2022.
         55.     (Enacted without section heading).
+        55-a.   Line of credit facilities; 2022.
         56.     State-supported debt; 2021.
+        56-a.   State-supported debt; 2022.
+        57.     (Enacted without section heading).
 ```

@@ -7,19 +7,19 @@
   § 44. Employer-provided child care credit. (a) General. A taxpayer
 subject to tax under article nine-A, twenty-two, or thirty-three of this
 chapter shall be allowed a credit against such tax in an amount equal to
-the portion of the credit that is allowed to the taxpayer under section
-45F of the internal revenue code that is attributable to (i) qualified
-child care expenditures paid or incurred with respect to a qualified
-child care facility with a situs in the state, and to (ii) qualified
-child care resource and referral expenditures paid or incurred with
-respect to the taxpayer's employees working in the state. The credit
-allowable under this subdivision for any taxable year shall not exceed
-one hundred fifty thousand dollars. If the entity operating the
-qualified child care facility is a partnership or a New York S
-corporation, then such cap shall be applied at the entity level, so the
-aggregate credit allowed to all the partners or shareholders of such
-entity in a taxable year does not exceed one hundred fifty thousand
-dollars.
+two hundred percent of the portion of the credit that is allowed to the
+taxpayer under section 45F of the internal revenue code that is
+attributable to (i) qualified child care expenditures paid or incurred
+with respect to a qualified child care facility with a situs in the
+state, and to (ii) qualified child care resource and referral
+expenditures paid or incurred with respect to the taxpayer's employees
+working in the state. The credit allowable under this subdivision for
+any taxable year shall not exceed five hundred thousand dollars. If the
+entity operating the qualified child care facility is a partnership or a
+New York S corporation, then such cap shall be applied at the entity
+level, so the aggregate credit allowed to all the partners or
+shareholders of such entity in a taxable year does not exceed five
+hundred thousand dollars.
   (b) Credit recapture. If there is a cessation of operation or change
 in ownership, as defined by section 45F of the internal revenue code
 relating to a qualified child care facility with a situs in the state,

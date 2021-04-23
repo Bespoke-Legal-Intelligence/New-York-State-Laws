@@ -21,6 +21,7 @@
 - [Title 11-C — Medicaid Drug Utilization Review](title-11c-medicaid-drug-utilization-review/)
 - [Title 11-D — Family Health Plus Program](title-11d-family-health-plus-program/)
 - [Title 12 — Community Centers and Services For Senior Citizens](title-12-community-centers-and-services/)
+- [Title 12-A — Supports and Services For Youth Suffering From Adverse Childhood Experiences](title-12a-supports-and-services-for-youth/)
 - [Title 13 — State Heating Fuel Crisis Assistance](title-13-state-heating-fuel-crisis-assistance/)
 
 <details>
@@ -47,9 +48,11 @@ Title  1.   General provisions (§§ 131--152-b).
       11-B. Health insurance continuation program for persons with AIDS.
               (§§ 369-k--369-n).
       11-C. Medicaid drug utilization review (§§ 369-aa--369-dd).
-      11-D. Family health plus program (§ 369-gg).
+      11-D. Family health plus program (§ 369-gg-369-hh).
       12.   Community centers and services for senior citizens
               (§§ 370--370-b).
+      12-A. Supports and services for youth suffering from adverse
+              childhood experiences (§ 370-c).
       13.   State heating fuel crisis assistance (§ 370-aa).
 ```
 

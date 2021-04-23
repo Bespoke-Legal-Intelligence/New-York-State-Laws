@@ -7,23 +7,46 @@
   § 1283. Liability for tax; special provisions. Notwithstanding any
 provision of law to the contrary: (a) The taxicab owner or HAIL base, as
 the case may be, shall be liable for the tax imposed by this article.
-  (b) If the taxicab owner has designated an agent, then the agent shall
-be jointly liable with the taxicab owner for the tax on trips occurring
-during the period that such designation is in effect. Even if the TLC
-has specified that the taxicab owner's agent cannot operate as an agent,
-that agent shall be jointly liable with the taxicab owner if the agent
-has acted for the taxicab owner. During the period that a taxicab
-owner's designation of an agent is in effect, the agent shall file the
-returns required by this article and pay any tax due with such return,
-but the taxicab owner shall not be relieved of liability for tax,
-penalty or interest due under this article, or for the filing of returns
-required to be filed, unless the agent has timely filed accurate returns
-and timely paid the tax required to be paid under this article. If a
-taxicab owner has designated an agent, then the agent must perform any
-act this article requires the taxicab owner to perform, but the failure
-of such agent to perform any such act shall not relieve the taxicab
-owner from the obligation to perform such act or from any liability that
-may arise from failure to perform the act.
+  (b) (1) If the taxicab owner has designated an agent, then the agent
+shall be jointly liable with the taxicab owner for the tax on trips
+occurring during the period that such designation is in effect. Even if
+the TLC has specified that the taxicab owner's agent cannot operate as
+an agent, that agent shall be jointly liable with the taxicab owner if
+the agent has acted for the taxicab owner. During the period that a
+taxicab owner's designation of an agent is in effect, the agent shall
+file the returns required by this article and pay any tax due with such
+return, but the taxicab owner shall not be relieved of liability for
+tax, penalty or interest due under this article, or for the filing of
+returns required to be filed, unless the agent has timely filed accurate
+returns and timely paid the tax required to be paid under this article.
+If a taxicab owner has designated an agent, then the agent must perform
+any act this article requires the taxicab owner to perform, but the
+failure of such agent to perform any such act shall not relieve the
+taxicab owner from the obligation to perform such act or from any
+liability that may arise from failure to perform the act.
+  (2) (A) Notwithstanding the foregoing, a TSP that collects the trip
+record and the trip fare on behalf of a taxicab owner or a HAIL vehicle
+owner shall withhold from daily collections the taxes due on such trips,
+and shall withhold from such collections the taxes due on cash trips. If
+the TSP's daily collections, after retaining any fees to which it is
+entitled pursuant to a contract with such taxicab owner or HAIL vehicle
+owner, are insufficient to cover the taxes due on such cash trips, the
+TSP shall withhold an amount from subsequent daily collections, to the
+extent funds are available, until all taxes due for a quarterly period
+described in section twelve hundred eighty-four of this article have
+been withheld. If a TSP is unable to withhold all the taxes due in such
+quarterly period, it shall withhold such unwithheld taxes from daily
+collections in the next quarterly period. A TSP shall be jointly liable
+for the tax due on all trips for which it collects the trip record, but
+shall be relieved of liability for any taxes attributable to cash trips
+for which it was unable to withhold the taxes due because there was
+insufficient daily collections during four successive quarterly periods.
+  (B) For any period that the TSP collects trip records on behalf of a
+taxicab owner or HAIL vehicle owner, the TSP shall file returns
+reporting the tax due on all trips for which it collected trip records
+and shall remit the taxes withheld on all such trips and shall report
+any unwithheld taxes due because of insufficient daily collections to
+cover the taxes due on cash trips.
   (c) (1) Although the tax is imposed on the taxicab owner or the HAIL
 base, the city or the TLC shall adopt or amend ordinances or regulations
 to ensure that the economic incidence of the tax is passed through to

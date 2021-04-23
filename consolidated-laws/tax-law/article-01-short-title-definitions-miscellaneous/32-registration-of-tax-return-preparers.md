@@ -177,36 +177,28 @@ commissioner.
 provided for in this subdivision, then the tax return preparer must pay
 a penalty of five hundred dollars for each such violation, in addition
 to any other penalties provided for in this section.
-  *(g) (1) If a tax return preparer or facilitator is required to
-register or re-register with the department pursuant to paragraph one or
-three of subdivision (b) of this section, as applicable, and fails to do
-so in accordance with the terms of this section, then the tax return
-preparer of facilitator must pay a penalty of two hundred fifty dollars.
-Provided, however, that if the tax return preparer or facilitator
-complies with the registration requirements of this section within
-ninety calendar days after notification of assessment of this penalty is
-sent by the department, then this penalty must be abated. If the tax
-return preparer or facilitator continues to fail to register or
-re-register after the ninety calendar day period, the tax return
-preparer or facilitator must pay an additional penalty of five hundred
-dollars if the failure is for not more than one month, with an
-additional five hundred dollars for each additional month or fraction
-thereof during which the failure continues. Once the ninety calendar
-days specified in this paragraph have expired, the penalty can be waived
-only for good cause shown by the tax return preparer or facilitator.
-  (2) If a commercial tax return preparer fails to pay the fee as
-required in paragraph one of subdivision (c) of this section, for a
-calendar year, then the commercial tax return preparer must pay a
-penalty of fifty dollars for each return the commercial tax return
-preparer has filed with the department in that calendar year. Provided
-however, that if the commercial tax return preparer complies with the
-payment requirements of paragraph one of subdivision (c) of this
-section, within ninety calendar days after notification of the
-assessment of this penalty is sent by the department, then this penalty
-must be abated. The maximum penalty that may be imposed under this
+  (g) (1) The department shall issue a notice to a tax return preparer
+or facilitator for failure to register or re-register with the
+department pursuant to paragraph one or three of subdivision (b) of this
+section, which shall set forth a fifteen day period to cure the failure
+to register or re-register. The commissioner is authorized to send such
+notice electronically to the tax return preparer's or facilitator's
+online services account. A tax return preparer or facilitator who fails
+to register or re-register in accordance with such notice must pay a
+penalty of two hundred fifty dollars. The penalty can be waived only for
+good cause shown by the tax return preparer or facilitator.
+  (2) The department shall issue a notice to a commercial tax return
+preparer who fails to pay the fee as required in paragraph one of
+subdivision (c) of this section, for a calendar year, which shall set
+forth a fifteen day period to cure the failure to pay the fee. The
+commissioner is authorized to send such notice electronically to the
+commercial tax return preparer's online services account. A commercial
+tax return preparer who fails to pay the fee in accordance with such
+notice must pay a penalty of fifty dollars for each return the
+commercial tax return preparer has filed with the department in that
+calendar year. The maximum penalty that may be imposed under this
 paragraph on any commercial tax return preparer during any calendar year
-must not exceed five thousand dollars. Once the ninety calendar days
-specified in this paragraph have expired, the penalty can be waived only
+must not exceed five thousand dollars. The penalty can be waived only
 for good cause shown by the commercial tax return preparer.
   (3) If a tax return preparer fails to sign his or her name to any
 return that requires the tax return preparer's signature, or a
@@ -256,8 +248,38 @@ occurrence. This penalty can be waived only for good cause shown.
   (6) The penalties provided for by this subdivision must be paid upon
 notice and demand and will be assessed, collected and paid in the same
 manner as taxes under article twenty-seven of this chapter.
-  *NB There are 2 sb (g)'s
-  *(g) The provisions of this section will apply exclusively to the
+  * (h) (1) Tax return preparers and facilitators must prominently and
+conspicuously display a copy of their registration certificate issued
+pursuant to this section, for the current registration period, at their
+place of business and at any other location where they provide tax
+return preparation and/or facilitation services, in an area where
+taxpayers using their services are able to see and review such
+registration certificate.
+  (2) Tax return preparers and facilitators must prominently and
+conspicuously display at their place of business and at any other
+location where they provide tax return preparation and/or facilitation
+services the following documents:
+  (A) a current price list, in at least fourteen-point type, that
+includes, but is not limited to, a list of all services offered by the
+tax return preparer and/or facilitator; the minimum fee charged for each
+service, including the fee charged for each type of federal or New York
+state tax return to be prepared and facilitation service to be provided;
+and a list of each factor that may increase a stated fee and the
+specific additional fees or range of possible additional fees when each
+factor applies; and
+  (B) a copy of the most recent Consumer Bill of Rights Regarding Tax
+Preparers published by the department pursuant to section three hundred
+seventy-two of the general business law.
+  (3) A tax return preparer or facilitator who fails to comply with any
+of the requirements of this subdivision must pay a penalty of five
+hundred dollars for the first month of non-compliance and five hundred
+dollars for each subsequent month of non-compliance thereafter. The
+maximum penalty that may be imposed under this subdivision on any tax
+return preparer or facilitator during any calendar year must not exceed
+ten thousand dollars. The penalty can be waived only for good cause
+shown by the tax return preparer or facilitator.
+  * NB Effective January 1, 2022
+  (i) The provisions of this section will apply exclusively to the
 registration of tax return preparers and facilitators with the
 department, payment of the registration fee if required by commercial
 tax return preparers, the signing of returns and use of the unique
@@ -267,5 +289,4 @@ prescribing additional requirements applicable to tax return preparers
 or facilitators will not be affected by the provisions of this section
 except as set forth expressly herein, and will remain in full force and
 effect.
-  *NB There are 2 sb (g)'s
 ```

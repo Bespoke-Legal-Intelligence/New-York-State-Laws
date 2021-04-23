@@ -8,9 +8,9 @@
 carrier to whom a certificate of registration was issued shall file on
 or before the last day of each month a return for the preceding calendar
 month where a carrier's total tax liability under this article for the
-preceding calendar year exceeded four thousand dollars. Where a
+preceding calendar year exceeded twelve thousand dollars. Where a
 carrier's total tax liability under this article for the preceding
-calendar year did not exceed four thousand dollars or where a carrier
+calendar year did not exceed twelve thousand dollars or where a carrier
 was not subject to such tax in the preceding calendar year, returns
 shall be filed quarterly, on or before the last day of the calendar
 month following each of the calendar quarters: January through March,
@@ -22,8 +22,8 @@ periodic basis other than a calendar month or quarter. The commissioner
 may permit the filing of returns on an annual basis, provided the
 carrier was subject to the tax under this article during the entire
 preceding calendar year and the carrier's total tax liability under this
-article for such year did not exceed two hundred fifty dollars. Such
-annual returns shall be filed on or before January thirty-first of the
+article for such year did not exceed twelve hundred dollars. Such annual
+returns shall be filed on or before January thirty-first of the
 succeeding calendar year. Returns shall be filed with the commissioner
 on forms to be furnished by such commissioner for such purpose and shall
 contain such data, information or matter as the commissioner may require

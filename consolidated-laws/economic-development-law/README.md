@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | COM |
 | Type | Consolidated law, chapter 15 |
-| Sections | 174 |
-| Last changed | 5 Feb 2021 |
+| Sections | 184 |
+| Last changed | 23 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Economic Development Law |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER XV OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (45 lines)](chapter-text.md)
+[Full chapter text (46 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Apr 2021](../../changes/2021/2021-04-23.md): 10 amended, 10 added
 - [5 Feb 2021](../../changes/2021/2021-02-05.md): 1 amended
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 1 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 1 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 2 amended
 - [15 Nov 2019](../../changes/2019/2019-11-15.md): 3 amended
 - [18 Oct 2019](../../changes/2019/2019-10-18.md): 1 amended, 7 removed
-- [4 Oct 2019](../../changes/2019/2019-10-04.md): 1 repealed
 
 ## Contents
 
@@ -82,3 +82,4 @@ Assembly, do enact as follows:
 - [Article 20 — Empire State Jobs Retention Program](article-20-empire-state-jobs-retention-program/)
 - [Article 21 — Start-up Ny Program](article-21-start-up-ny-program/)
 - [Article 22 — Employee Training Incentive Program](article-22-employee-training-incentive-program/)
+- [Article 25 — Restaurant Return-to-work Tax Credit Program](article-25-restaurant-return-to-work-tax-credit-program/)

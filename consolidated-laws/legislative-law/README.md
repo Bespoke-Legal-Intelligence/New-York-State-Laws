@@ -8,7 +8,7 @@
 | Senate code | LEG |
 | Type | Consolidated law, chapter 32 |
 | Sections | 128 (1 repealed) |
-| Last changed | 17 Apr 2020 |
+| Last changed | 23 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Legislative |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [23 Apr 2021](../../changes/2021/2021-04-23.md): 14 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 14 amended
 - [20 Mar 2020](../../changes/2020/2020-03-20.md): 1 amended
 - [22 Nov 2019](../../changes/2019/2019-11-22.md): 1 amended
@@ -40,7 +41,6 @@ Assembly, do enact as follows:
 - [27 Apr 2018](../../changes/2018/2018-04-27.md): 15 amended
 - [12 Jan 2018](../../changes/2018/2018-01-12.md): 1 amended
 - [28 Apr 2017](../../changes/2017/2017-04-28.md): 14 amended
-- [30 Sep 2016](../../changes/2016/2016-09-30.md): 2 amended
 
 ## Contents
 

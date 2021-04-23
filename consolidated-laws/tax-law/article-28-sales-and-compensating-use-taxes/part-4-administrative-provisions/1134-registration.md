@@ -41,7 +41,7 @@ certificate of registration, in a form prescribed by such commissioner,
 within thirty days after the day on which the cumulative total, for the
 immediately preceding four quarterly periods ending on the last day of
 February, May, August and November, of such person's gross receipts from
-sales of property delivered in this state exceeds three hundred thousand
+sales of property delivered in this state exceeds five hundred thousand
 dollars and number of such sales exceeds one hundred. Every person who
 is a vendor solely by reason of clause (F) of subparagraph (i) of
 paragraph eight of subdivision (b) of section eleven hundred one of this
@@ -112,22 +112,28 @@ fails to obtain a bond pursuant to paragraph two of subdivision (e) of
 section eleven hundred thirty-seven of this part, or fails to comply
 with a notice issued by the commissioner pursuant to paragraph three of
 such subdivision, (vi) has been convicted of a crime provided for in
-this chapter, or (vii) where such person, or any person affiliated with
+this chapter, (vii) where such person, or any person affiliated with
 such person as such term is defined in subdivision twenty-one of section
 four hundred seventy of this chapter, has had a retail dealer
 registration issued pursuant to section four hundred eighty-a of this
 chapter revoked pursuant to subparagraph (iii) of paragraph (a) of
-subdivision four of such section four hundred eighty-a, the commissioner
-may revoke or suspend such certificate of authority and all duplicates
-thereof. Provided, however, that the commissioner may revoke or suspend
-a certificate of authority based on the grounds set forth in clause (vi)
-of this subparagraph only where the conviction referred to occurred not
-more than one year prior to the date of revocation or suspension; and
-provided further that where the commissioner revokes or suspends a
+subdivision four of such section four hundred eighty-a, or (viii) has
+not obtained a valid retail dealer registration under section four
+hundred eighty-a of this chapter and such person possesses or sells
+unstamped or unlawfully stamped packages of cigarettes three or more
+times within a period of five years, the commissioner may revoke or
+suspend such certificate of authority and all duplicates thereof.
+Provided, however, that the commissioner may revoke or suspend a
+certificate of authority based on (a) the grounds set forth in clause
+(vi) of this subparagraph only where the conviction referred to occurred
+not more than one year prior to the date of revocation or suspension;
+and provided further that where the commissioner revokes or suspends a
 certificate of authority based on the grounds set forth in clause (vii)
 of this subparagraph, such suspension or revocation shall continue for
 as long as the revocation of the retail dealer registration pursuant to
-section four hundred eighty-a of this chapter remains in effect.
+section four hundred eighty-a of this chapter remains in effect, or (b)
+the grounds set forth in clause (viii) of this subparagraph, such
+suspension or revocation shall be for a period of five years.
   * NB Effective until December 31, 2024
   * (A) Where a person who holds a certificate of authority (i)
 willfully fails to file a report or return required by this article,
@@ -138,23 +144,29 @@ paragraph two or three of subdivision (e) of section eleven hundred
 thirty-seven of this article, (iv) willfully fails to prepay, collect,
 truthfully account for or pay over any tax imposed under this article or
 pursuant to the authority of article twenty-nine of this chapter, (v)
-has been convicted of a crime provided for in this chapter, or (vi)
-where such person, or any person affiliated with such person as such
-term is defined in subdivision twenty-one of section four hundred
-seventy of this chapter, has had a retail dealer registration issued
-pursuant to section four hundred eighty-a of this chapter suspended or
-revoked pursuant to subparagraph (iii) of paragraph (a) of subdivision
-four of such section four hundred eighty-a, the commissioner may revoke
-or suspend such certificate of authority and all duplicates thereof.
-Provided, however, that the commissioner may revoke or suspend a
-certificate of authority based on the grounds set forth in clause (v) of
-this subparagraph only where the conviction referred to occurred not
-more than one year prior to the date of revocation or suspension; and
-provided further that where the commissioner revokes or suspends a
-certificate of authority based on the grounds set forth in clause (vi)
-of this subparagraph, such suspension or revocation shall continue for
-as long as the revocation of the retail dealer registration pursuant to
-section four hundred eighty-a of this chapter remains in effect.
+has been convicted of a crime provided for in this chapter, (vi) where
+such person, or any person affiliated with such person as such term is
+defined in subdivision twenty-one of section four hundred seventy of
+this chapter, has had a retail dealer registration issued pursuant to
+section four hundred eighty-a of this chapter suspended or revoked
+pursuant to subparagraph (iii) of paragraph (a) of subdivision four of
+such section four hundred eighty-a, or (vii) has not obtained a valid
+retail dealer registration under section four hundred eighty-a of this
+chapter and such person possesses or sells unstamped or unlawfully
+stamped packages of cigarettes three or more times within a period of
+five years, the commissioner may revoke or suspend such certificate of
+authority and all duplicates thereof. Provided, however, that the
+commissioner may revoke or suspend a certificate of authority based on
+(a) the grounds set forth in clause (v) of this subparagraph only where
+the conviction referred to occurred not more than one year prior to the
+date of revocation or suspension; and provided further that where the
+commissioner revokes or suspends a certificate of authority based on the
+grounds set forth in clause (vi) of this subparagraph, such suspension
+or revocation shall continue for as long as the revocation of the retail
+dealer registration pursuant to section four hundred eighty-a of this
+chapter remains in effect, or (b) the grounds set forth in clause (vii)
+of this subparagraph, such suspension or revocation shall be for a
+period of five years.
   * NB Effective December 31, 2024
   (B) Where a person files a certificate of registration for a
 certificate of authority under this subdivision and in considering such
@@ -193,14 +205,22 @@ within one year from the date on which such certificate of registration
 is filed, (vi) a certificate of authority issued to such person has been
 revoked or suspended pursuant to subparagraph (A) of this paragraph
 within one year from the date on which such certificate of registration
-is filed, or (vii) a retail dealer registration issued pursuant to
-section four hundred eighty-a of this chapter to such person, or to any
-person affiliated with such person as such term is defined in
-subdivision twenty-one of section four hundred seventy of this chapter,
-has been revoked pursuant to subparagraph (iii) of paragraph (a) of
-subdivision four of such section four hundred eighty-a, where such
-revocation remains in effect, the commissioner may refuse to issue a
-certificate of authority.
+is filed, (vii) a retail dealer registration issued pursuant to section
+four hundred eighty-a of this chapter to such person, or to any person
+affiliated with such person as such term is defined in subdivision
+twenty-one of section four hundred seventy of this chapter, has been
+revoked pursuant to subparagraph (iii) of paragraph (a) of subdivision
+four of such section four hundred eighty-a, where such revocation
+remains in effect, or (viii) such person has not obtained a valid retail
+dealer registration under section four hundred eighty-a of this chapter
+and has possessed or sold unstamped or unlawfully stamped packages of
+cigarettes three or more times within a period of five years, the
+commissioner may refuse to issue a certificate of authority; provided
+however that under the circumstances described in clause (viii) of this
+subparagraph, such person shall not be eligible to submit a certificate
+of registration for a certificate of authority until five years after
+its last possession or sale of unstamped or unlawfully stamped packages
+of cigarettes within such five year period.
   (C) In any of the foregoing instances where the commissioner may
 suspend or revoke or refuse to issue a certificate of authority, the
 commissioner may condition the retention or issuance of a certificate of

@@ -11,12 +11,31 @@ imposed by this article, including transportation network companies as
 defined in article forty-four-B of the vehicle and traffic law, shall be
 liable for the surcharge imposed by this article, except that in the
 case of taxicab trips and HAIL vehicle trips that are also subject to
-tax pursuant to article twenty-nine-A of this chapter, only the taxicab
-owner or HAIL base liable for that tax shall be the person liable for
-the surcharge imposed by this article. For purposes of this section, the
-terms "taxicab trips," "HAIL vehicle trips," "taxicab owner," and "HAIL
-base" shall have the same meaning as they do in section twelve hundred
-eighty of this chapter.
+tax pursuant to article twenty-nine-A of this chapter: (1) a TSP that
+collected the trip record and trip fare shall withhold from daily
+collections the surcharges due on such trips, and shall withhold from
+such collections the surcharges due on cash trips. If the TSP's daily
+collections, after retaining any fees to which it is entitled pursuant
+to a contract with such taxicab owner or HAIL vehicle owner, are
+insufficient to cover the surcharges due on such cash trips, the TSP
+shall withhold an amount from subsequent daily collections, to the
+extent funds are available, until all surcharges due for a monthly
+period have been withheld. If a TSP is unable to withhold all the
+surcharges due in a monthly period, it shall withhold such unwithheld
+surcharges from daily collections in the next monthly period. A TSP
+shall be jointly liable for the surcharge imposed by this article for
+all trips for which the TSP collected the trip record, but shall be
+relieved of liability for any surcharges attributable to cash trips for
+which it was unable to withhold the surcharges because there were
+insufficient daily collections during twelve successive monthly periods.
+(2) The TSP shall be responsible for filing monthly returns reporting
+the surcharges due on all trips for which it collected trip records,
+shall remit the surcharges withheld on all such trips and shall report
+any unwithheld surcharges due because of insufficient daily collections
+to cover the tax due on cash trips. For purposes of this section, the
+terms "taxicab trips," "HAIL vehicle trips," "taxicab owner," "HAIL
+base," "TSP" and "cash trip" shall have the same meaning as they do in
+section twelve hundred eighty of this chapter.
   (b) Notwithstanding any law to the contrary: (1) The surcharge imposed
 by this article must be passed along to passengers and separately stated
 on any receipt that is provided to such passengers. The passing along of

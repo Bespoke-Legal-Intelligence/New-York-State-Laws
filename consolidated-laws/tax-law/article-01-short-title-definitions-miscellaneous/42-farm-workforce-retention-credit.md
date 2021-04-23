@@ -59,7 +59,7 @@ thousand twenty and before January first, two thousand twenty-one, the
 amount of the credit allowed under this section shall be equal to the
 product of the total number of eligible farm employees and four hundred
 dollars. For taxable years beginning on or after January first, two
-thousand twenty-one and before January first, two thousand twenty-two,
+thousand twenty-one and before January first, two thousand twenty-five,
 the amount of the credit allowed under this section shall be equal to
 the product of the total number of eligible farm employees and six
 hundred dollars.

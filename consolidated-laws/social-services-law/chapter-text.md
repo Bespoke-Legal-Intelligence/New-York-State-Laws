@@ -67,12 +67,14 @@ Article  1.   Short title; definitions (§§ 1-2).
                         with AIDS.  (§§ 369-k--369-n)
                 11-C. Medicaid drug utilization review.
                         (§§ 369-aa--369-cc).
-                11-D. Family health plus program. (§§ 369-gg).
-                12.   Community centers and services for senior citizens
-                        (§§ 370--370-b).
+                11-D. Basic health program. (§§ 369-gg-369-hh).
+                12.   Community centers and services for senior
+                        citizens. (§§ 370--370-b).
+                12-A. Supports and services for youth suffering from
+                        adverse childhood experiences. (§ 370-c).
                 13.   State Heating Fuel Crisis Assistance. (§ 370-aa).
          6.   Children (§§ 371-458-l).
-         Title  1.    Care and protection of children (§§ 371-391).
+         Title  1.    Care and protection of children (§§ 371-393).
                 2.    Powers and duties of public welfare officials
                         (§§ 395-404).
                 3.    Child welfare services (§§ 406-408).

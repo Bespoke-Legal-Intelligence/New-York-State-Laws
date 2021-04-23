@@ -592,16 +592,16 @@ within the territorial limits of the United States with the authority to
 impose a tax, charge, or fee.
   * (29) "E85" shall have the same meaning as in subdivision twenty-two
 of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   * (30) "B20" shall have the same meaning as in subdivision
 twenty-three of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   * (31) "CNG" shall have the same meaning as in subdivision twenty-four
 of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   * (32) "Hydrogen" shall have the same meaning as in subdivision
 twenty-five of section two hundred eighty-two of this chapter.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   (33) Modular home. A one- to three-family residential structure
 constructed at the building site from modular home modules, where the
 modules are connected and such structure is finished using building

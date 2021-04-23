@@ -19,7 +19,7 @@ and compensating use taxes, whether or not the item is sold in liquid
 form. Nothing in this subparagraph shall be construed as exempting food
 or drink from the tax imposed under subdivision (d) of section eleven
 hundred five of this article.
-  (B) Until May thirty first, two thousand twenty-one, the food and
+  (B) Until May thirty first, two thousand twenty-two, the food and
 drink excluded from the exemption provided by clauses (i), (ii) and
 (iii) of subparagraph (A) of this paragraph, and bottled water, shall be
 exempt under this subparagraph when sold for one dollar and fifty cents
@@ -542,7 +542,7 @@ container.
 exclusively in the engine of a motor vehicle and natural gas purchased
 and converted into CNG, for use or for sale for use or consumption
 directly and exclusively in the engine of a motor vehicle.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
   (43) Ferry boats used directly and predominantly to provide ferry
 service for vehicles and passengers within a county or counties by a
 ferry company whose rates for that ferry service are regulated by the
@@ -561,6 +561,22 @@ exceeding four fluid ounces each, and each sample shall be a different
 beer than the others. Only a customer's first purchase during each
 calendar day at each licensed entity shall be exempt under this
 paragraph.
+  * (46) Breast pump replacement parts and breast pump collection and
+storage supplies to an individual purchaser for home use. For purposes
+of this subdivision:
+  (A) "Breast pump replacement parts" shall mean items used in
+conjunction with a breast pump to collect milk expressed from a human
+breast and shall include, but not be limited to: breast shields and
+breast shield connectors; breast pump tubes and tubing adapters; breast
+pump valves and membranes; backflow protectors and backflow protector
+adapters; and bottles and bottle caps specific to the operation of the
+breast pump.  "Breast pump replacement parts" does not include storage
+bags and infant feeding bottles that are not specifically designed for,
+or a component part of, a breast pump.
+  (B) "Breast pump collection and storage supplies" shall mean breast
+milk storage bags used to collect breast milk and to store collected
+breast milk until it is ready for consumption.
+  * NB Effective September 1, 2021
   (b) (i) Telephony and telegraphy and telephone and telegraph service
 used by newspapers, electronic news services, radio broadcasters and
 television broadcasters in the collection or dissemination of news shall
@@ -742,7 +758,7 @@ if all of such fuel is consumed other than on the public highways of
 this state (except for the use of the public highways to reach adjacent
 farmlands or adjacent lands used in a commercial horse boarding
 operation, or both).
-  * NB Effective until September 1, 2021
+  * NB Effective until September 1, 2026
   * (j) The exemptions provided in this section shall not apply to the
 tax required to be prepaid pursuant to the provisions of section eleven
 hundred two of this article nor to the taxes imposed by sections eleven
@@ -764,7 +780,7 @@ if all of such fuel is consumed other than on the public highways of
 this state (except for the use of the public highways to reach adjacent
 farmlands or adjacent lands used in a commercial horse boarding
 operation, or both).
-  * NB Effective September 1, 2021
+  * NB Effective September 1, 2026
   (k) Receipts from the sale of food eligible to be purchased with
 coupons issued under or pursuant to the federal food stamp act of
 nineteen hundred seventy-seven (7 U.S.C. § 2011 et seq.), as amended,
@@ -1472,10 +1488,10 @@ subdivision if the person bears a relationship to such person described
 in section two hundred sixty-seven of the internal revenue code. The
 exemption provided by this subdivision shall not apply to sales made,
 services rendered, or uses occurring after June thirtieth, two thousand
-twenty-one, except with respect to sales made, services rendered, or
+twenty-four, except with respect to sales made, services rendered, or
 uses occurring pursuant to binding contracts entered into on or before
 such date; but in no case shall such exemption apply after June
-thirtieth, two thousand twenty-four.
+thirtieth, two thousand twenty-seven.
   * NB There are 2 sb (jj)'s
   * (kk) Rent paid by a room remarketer to an operator that is not a
 room remarketer for an occupancy that the room remarketer intends to

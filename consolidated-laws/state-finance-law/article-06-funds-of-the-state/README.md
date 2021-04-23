@@ -213,6 +213,7 @@
 - [§ 97-RRRR Lupus education and prevention fund](97rrrr-lupus-education-and-prevention-fund.md)
 - [§ 97-SSSS Leukemia, lymphoma and myeloma research, education and treatment fund](97ssss-leukemia-lymphoma-and-myeloma-research-education-and-treatment-fund.md)
 - [§ 97-SSSS\*2 Elevator and related conveyances safety program account](97ssss-2-elevator-and-related-conveyances-safety-program-account.md)
+- [§ 97-TTTT Restore mother nature bond fund](97tttt-restore-mother-nature-bond-fund.md)
 - [§ 97-XXXX State health innovation plan account](97xxxx-state-health-innovation-plan-account.md)
 - [§ 97-YYYY Arts fund](97yyyy-arts-fund.md)
 - [§ 97-AAAAA Opioid stewardship fund](97aaaaa-opioid-stewardship-fund.md)
@@ -271,6 +272,8 @@
 - [§ 99-II New York state cannabis revenue fund](99ii-new-york-state-cannabis-revenue-fund.md)
 - [§ 99-JJ New York state drug treatment and public education fund](99jj-new-york-state-drug-treatment-and-public-education-fund.md)
 - [§ 99-KK New York state community grants reinvestment fund](99kk-new-york-state-community-grants-reinvestment-fund.md)
+- [§ 99-LL New York state council on the arts cultural programs fund](99ll-new-york-state-council-on-the-arts-cultural-programs-fund.md)
+- [§ 99-MM Emergency rental assistance municipal corporation allocation fund](99mm-emergency-rental-assistance-municipal-corporation-allocation-fund.md)
 
 <details>
 <summary>Official heading of Article 6, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -529,6 +532,7 @@ Section 70.        Classification of funds.
                      and treatment fund.
         97-ssss*2. Elevator and related conveyances safety program
                      account.
+        97-tttt.   Restore mother nature bond fund.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
@@ -598,6 +602,10 @@ Section 70.        Classification of funds.
         99-jj.     New York state drug treatment and public education
                      fund.
         99-kk.     New York state community grants reinvestment fund.
+        99-ll.     New York state council on the arts cultural programs
+                     fund.
+        99-mm.     Emergency rental assistance municipal corporation
+                     allocation fund.
 ```
 
 </details>

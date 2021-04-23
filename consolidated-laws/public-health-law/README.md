@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,714 (4 repealed) |
-| Last changed | 16 Apr 2021 |
+| Sections | 1,714 |
+| Last changed | 23 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (342 lines)](chapter-text.md)
+[Full chapter text (343 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Apr 2021](../../changes/2021/2021-04-23.md): 21 amended, 4 added, 4 removed
 - [16 Apr 2021](../../changes/2021/2021-04-16.md): 2 amended
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 3 repealed
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 43 amended, 1 added, 1 repealed
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 1 amended
 - [8 Jan 2021](../../changes/2021/2021-01-08.md): 2 amended
 - [1 Jan 2021](../../changes/2021/2021-01-01.md): 25 amended, 4 added
-- [28 Dec 2020](../../changes/2020/2020-12-28.md): 1 amended, 1 added
 
 ## Contents
 
@@ -126,11 +126,11 @@ Assembly, do enact as follows:
 - [Article 29-F — Improved Integration of Health Care and Financing](article-29f-improved-integration-of-health-care/)
 - [Article 29-G — Telehealth Delivery of Services](article-29g-telehealth-delivery-of-services/)
 - [Article 29-I — Medical Services For Foster Children](article-29i-medical-services-for-foster-children/)
+- [Article 29-J — Medical Respite Program](article-29j-medical-respite-program/)
 - [Article 30 — Emergency Medical Services](article-30-emergency-medical-services/)
 - [Article 30-A — Emergency Medical Services Personnel Training Act of Nineteen Hundred Eighty-six](article-30a-emergency-medical-services-personnel-training/)
 - [Article 30-B — Emergency Medical, Trauma and Disaster Care](article-30b-emergency-medical-trauma-and-disaster-care/)
 - [Article 30-C — Emergency Medical Services For Children](article-30c-emergency-medical-services-for-children/)
-- [Article 30-D — Emergency or Disaster Treatment Protection Act](article-30d-emergency-or-disaster-treatment-protection-act/) *(repealed)*
 - [Article 31 — Human Blood and Transfusion Services](article-31-human-blood-and-transfusion-services/)
 - [Article 32 — Live Pathogenic Microorganisms or Viruses](article-32-live-pathogenic-microorganisms-or-viruses/)
 - [Article 32-A — Recombinant Dna Experiments](article-32a-recombinant-dna-experiments/)

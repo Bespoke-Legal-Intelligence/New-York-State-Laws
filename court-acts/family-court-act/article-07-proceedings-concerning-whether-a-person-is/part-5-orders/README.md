@@ -11,6 +11,7 @@
 - [§ 755 Suspended judgment](755-suspended-judgment.md)
 - [§ 756 Placement](756-placement.md)
 - [§ 756-A Extension of placement](756a-extension-of-placement.md)
+- [§ 756-B Court review of placement in a qualified residential treatment program](756b-court-review-of-placement-in-a-qualified-residential-treatment-program.md)
 - [§ 757 Probation](757-probation.md)
 - [§ 758-A Restitution](758a-restitution.md)
 - [§ 759 Order of protection](759-order-of-protection.md)
@@ -29,6 +30,8 @@ Section 751.   Order dismissing petition.
         755.   Suspended judgment.
         756.   Placement.
         756-a. Extension of placement.
+        756-b. Court review of placement in a qualified residential
+                 treatment program.
         757.   Probation.
         758-a. Restitution.
         759.   Order of protection.

@@ -19,15 +19,15 @@ medical corporation organized under and governed by article forty-four
 of this chapter, which has entered into a regulatory agreement in
 accordance with the provisions of section twenty-eight hundred
 seventy-three of this article.
-  * 3-a. "Eligible secured hospital borrower". A not-for-profit hospital
-corporation organized under the laws of this state, which has been
-designated by the commissioner and the public health council as a needed
-facility eligible to receive distributions from the reimbursement pools
+  3-a. "Secured hospital project bonds" shall mean outstanding bonds
+issued on behalf of a not-for-profit hospital corporation organized
+under the laws of this state, which hospital has previously been
+designated by the commissioner and the public health council to be
+eligible to receive distributions from the reimbursement pools
 established pursuant to paragraph (c) of subdivision nine of section
 twenty-eight hundred seven-a of this chapter, or any successor pool or
 pools established to serve a substantially similar purpose to such
 pools.
-  * NB Expired December 31, 2015
   4. "Project". "Hospital project". A specific work or improvement,
 including lands, buildings, improvements, fixtures and articles of
 personal property, acquired, constructed, rehabilitated, owned and

@@ -9,6 +9,7 @@
 - [§ 409-E Family service plan](409e-family-service-plan.md)
 - [§ 409-F Uniform case recording](409f-uniform-case-recording.md)
 - [§ 409-G Training of child welfare personnel](409g-training-of-child-welfare-personnel.md)
+- [§ 409-H Assessment of appropriateness of placement in a qualified residential treatment program](409h-assessment-of-appropriateness-of-placement-in-a-qualified-residential.md)
 
 <details>
 <summary>Official heading of Title 4-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -16,10 +17,12 @@
 ```text
                                 TITLE 4-A
            CHILD WELFARE SERVICES PLANNING AND ADMINISTRATION
-Section  409-d.  District-wide child welfare services plan.
-         409-e.  Family service plan.
-         409-f.  Uniform case recording.
-         409-g.  Training of child welfare personnel.
+Section 409-d. District-wide child welfare services plan.
+        409-e. Family service plan.
+        409-f. Uniform case recording.
+        409-g. Training of child welfare personnel.
+        409-h. Assessment of appropriateness of placement in a qualified
+                 residential treatment program.
 ```
 
 </details>

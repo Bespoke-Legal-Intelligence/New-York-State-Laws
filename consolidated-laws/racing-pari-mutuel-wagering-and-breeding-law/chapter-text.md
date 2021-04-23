@@ -8,7 +8,7 @@ The text the Senate publishes at the top level of this law. For some laws this i
 ```text
                   CHAPTER 47-A OF THE CONSOLIDATED LAWS
               RACING, PARI-MUTUEL WAGERING AND BREEDING LAW
-Article I.    Supervision and regulation. (§§ 101-129)
+Article I.    Supervision and regulation. (§§ 101-135)
         II.   Thoroughbred racing and breeding. (§§ 201-257)
         III.  Harness racing and breeding. (§§ 301-336)
         IV.   Quarter horse racing and breeding. (§§ 401-436)

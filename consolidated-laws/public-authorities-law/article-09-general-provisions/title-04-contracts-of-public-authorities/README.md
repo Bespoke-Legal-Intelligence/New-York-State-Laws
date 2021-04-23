@@ -14,6 +14,7 @@
 - [§ 2878 Statement of non-collusion in bids or proposals to public authority](2878-statement-of-non-collusion-in-bids-or-proposals-to-public.md)
 - [§ 2878-A Purchasing of products](2878a-purchasing-of-products.md)
 - [§ 2878-B Source separation of wastes](2878b-source-separation-of-wastes.md)
+- [§ 2878-C Certain contracts involving personal protective equipment and medical supplies](2878c-certain-contracts-involving-personal-protective-equipment.md)
 - [§ 2879 Procurement contracts](2879-procurement-contracts.md)
 - [§ 2879-A Comptroller approval of contracts](2879a-comptroller-approval-of-contracts.md)
 - [§ 2879-B Labor peace](2879b-labor-peace.md)
@@ -39,6 +40,8 @@ Section 2875.   Ground for cancellation of contract by public authority.
                   public authority.
         2878-a. Purchasing of products.
         2878-b. Source separation of wastes.
+        2878-c. Certain contracts involving personal protective
+                  equipment and medical supplies.
         2879.   Procurement contracts.
         2879-a. Public authorities contracts; limitations.
         2879-b. Labor peace.

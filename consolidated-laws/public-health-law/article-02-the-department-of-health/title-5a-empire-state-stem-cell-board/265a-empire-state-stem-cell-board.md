@@ -4,7 +4,7 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
 
 ```text
-  § 265-a. Empire state stem cell board. 1. The empire state stem cell
+  * § 265-a. Empire state stem cell board. 1. The empire state stem cell
 board ("board"), comprised of a funding committee and an ethics
 committee, both of which shall be chaired by the commissioner, is hereby
 created within the department for the purpose of administering the
@@ -13,7 +13,9 @@ ninety-nine-p of the state finance law. The board is hereby empowered,
 subject to annual appropriations and other funding authorized or made
 available, to make grants to basic, applied, translational or other
 research and development activities that will advance scientific
-discoveries in fields related to stem cell biology.
+discoveries in fields related to stem cell biology; provided, however,
+that the board shall not make any grants on or after April first, two
+thousand twenty-one.
   2. No grants made available in the fund from any source shall be
 directly or indirectly utilized for research involving human
 reproductive cloning.
@@ -36,4 +38,5 @@ higher limit for a particular grantee.
   5. The existence of the empire state stem cell board shall continue
 until there are no longer any assets or money available for
 distribution.
+  * NB Repealed December 31, 2025
 ```

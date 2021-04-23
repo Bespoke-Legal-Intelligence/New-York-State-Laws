@@ -19,6 +19,7 @@
 - [§ 353.4 Transfer of certain juvenile delinquents](353.4-transfer-of-certain-juvenile-delinquents.md)
 - [§ 353.5 Designated felony acts; restrictive placement](353.5-designated-felony-acts-restrictive-placement.md)
 - [§ 353.6 Restitution](353.6-restitution.md)
+- [§ 353.7 Placement in qualified residential treatment programs](353.7-placement-in-qualified-residential-treatment-programs.md)
 - [§ 354.1 Retention and destruction of fingerprints of persons alleged to be juvenile delinquents](354.1-retention-and-destruction-of-fingerprints-of-persons-alleged-to-be-juvenile.md)
 - [§ 354.2 Duties of counsel](354.2-duties-of-counsel.md)
 - [§ 355.1 New hearing; staying, modifying or terminating an order](355.1-new-hearing-staying-modifying-or-terminating-an-order.md)
@@ -48,6 +49,7 @@ Section 350.1. Time of dispositional hearing.
         353.4. Transfer of certain juvenile delinquents.
         353.5. Designated felony acts; restrictive placement.
         353.6. Restitution.
+        353.7. Placement in qualified residential treatment programs.
         354.1. Retention and destruction of fingerprints of persons
                  alleged to be juvenile delinquents.
         354.2. Duties of counsel.

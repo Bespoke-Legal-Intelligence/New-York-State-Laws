@@ -20,6 +20,7 @@
 - [§ 224 Requirement for adequate service](224-requirement-for-adequate-service.md)
 - [§ 224-A Consumer protection](224a-consumer-protection.md)
 - [§ 224-B Cable bills](224b-cable-bills.md)
+- [§ 224-C Broadband and fiber optic services](224c-broadband-and-fiber-optic-services.md)
 - [§ 225 Rates](225-rates.md)
 - [§ 226 Abandonment of service](226-abandonment-of-service.md)
 - [§ 227 Termination of franchises](227-termination-of-franchises.md)
@@ -55,6 +56,7 @@ Section 211.   Statement of policy.
         224.   Requirement for adequate service.
         224-a. Consumer protection.
         224-b. Cable bills.
+        224-c. Broadband and fiber optic services.
         225.   Rates.
         226.   Abandonment of service.
         227.   Termination of franchises.

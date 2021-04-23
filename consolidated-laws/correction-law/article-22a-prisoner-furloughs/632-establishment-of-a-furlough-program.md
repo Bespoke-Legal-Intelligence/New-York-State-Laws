@@ -12,5 +12,5 @@ employment opportunities for inmates who are eligible to participate in
 a furlough program and (b) supervising inmates during their
 participation in a furlough program outside the premises of the
 institution.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2023
 ```

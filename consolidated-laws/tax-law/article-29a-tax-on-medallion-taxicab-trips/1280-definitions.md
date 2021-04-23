@@ -106,4 +106,10 @@ a customer calling a HAIL base to request service and the HAIL base
 dispatching the call to the driver of the HAIL vehicle, and for which
 the taximeter is required to be in the recording or hired position
 designating such a trip.
+  (v) "Technology service provider" or "TSP" means a person that acts by
+employment, contract or otherwise on behalf of one or more taxicab
+owners or HAIL vehicle owners to collect the trip record for a taxicab
+trip or HAIL vehicle trip.
+  (w) "Cash trip" means any trip for which the TSP collects the trip
+record but does not collect the fare.
 ```

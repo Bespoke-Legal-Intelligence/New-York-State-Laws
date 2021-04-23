@@ -10,7 +10,6 @@
 - [§ 302 Taxable status date](302-taxable-status-date.md)
 - [§ 304 Subject of assessment](304-subject-of-assessment.md)
 - [§ 305 Assessment methods and standard](305-assessment-methods-and-standard.md)
-- [§ 307 Standards of assessment in certain assessing units](307-standards-of-assessment-in-certain-assessing.md)
 - [§ 307-A Additional tax on class one property](307a-additional-tax-on-class-one-property.md)
 
 <details>
@@ -24,7 +23,6 @@ Section 300.   Property subject to taxation.
         302.   Taxable status date.
         304.   Subject of assessment.
         305.   Assessment methods and standard.
-        307.   Standards of assessment in certain assessing units.
         307-a. Additional tax on class one property.
 ```
 

@@ -170,7 +170,7 @@ Article
             committee (§§2490--2490-a).
   24-E.    Information about hysterectomy (§§2495--2499-a).
   25.      Maternal and child health
-           Title    I.   General provisions (§§2500--2509-b).
+           Title    I.   General provisions (§§2500--2509-c).
                   I-A.   Child health insurance plan (§§2510-2511).
                   1-B.   Adolescent pregnancy prevention and services
                           program (§§ 2515-2515-c).
@@ -214,7 +214,7 @@ Article
   27-H*.   Diabetes research and education program (§2796).
   27-H.    The Tick-Borne Disease Institute (§§2797--2798).
   27-K.    New York Wellness Works (§§2799-o--2799-r).
-  28.      Hospitals (§§2800-2827).
+  28.      Hospitals (§§2800-2828).
   28-A.    Nursing home companies (§§2850-2869).
   28-B.    Hospital mortgage loan construction (§§2870-2883).
   28-C.    Nurse manpower center (§§2890-2892).
@@ -253,6 +253,7 @@ Article
             2999-aa--2999-bb).
   29-G.    Telehealth delivery of services (§§ 2999-cc--2999-ee).
   29-I.    Medical services for foster children (§ 2999-gg).
+  29-J.    Medical respite program (§ 2999-hh).
   30.      Emergency medical services (§§3000-3032).
   30-A.    Emergency medical services personnel training act of nineteen
             hundred eighty-six (§§3050-3054).

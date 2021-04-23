@@ -4,11 +4,11 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
 
 ```text
-  § 265-c. Ethics committee. 1. There shall be an ethics committee which
-shall have thirteen members appointed by the governor, except for the
-commissioner who shall serve as an ex officio member. Six members shall
-be appointed directly by the governor; two shall be appointed on the
-nomination of the temporary president of the senate; two shall be
+  * § 265-c. Ethics committee. 1. There shall be an ethics committee
+which shall have thirteen members appointed by the governor, except for
+the commissioner who shall serve as an ex officio member. Six members
+shall be appointed directly by the governor; two shall be appointed on
+the nomination of the temporary president of the senate; two shall be
 appointed on the nomination of the speaker of the assembly; one shall be
 appointed on the nomination of the senate minority leader; and one shall
 be appointed on the nomination of the assembly minority leader. A member
@@ -43,4 +43,5 @@ each member appointed shall serve a term of three years and no more than
 two terms of three years each. A vacancy in the membership of the board
 shall be filled for the unexpired portion of the term in the same manner
 as the original appointment.
+  * NB Repealed December 31, 2025
 ```

@@ -306,6 +306,6 @@ one, the taxpayer shall be required to add back as tax in the last year
 of its benefit period the portion of the economic transformation and
 facility redevelopment tax credits claimed in the years of its benefit
 period necessary to achieve a cost benefit ratio of ten to one.
-  * NB Repealed December 31, 2021
+  * NB Repealed December 31, 2026
   * NB There are 2 § 35's
 ```

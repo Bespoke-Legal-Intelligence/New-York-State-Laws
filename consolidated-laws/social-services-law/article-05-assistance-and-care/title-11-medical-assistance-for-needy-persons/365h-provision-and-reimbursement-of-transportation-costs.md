@@ -216,7 +216,7 @@ commissioner for an extension prior to the due date and establishes to
 the satisfaction of the commissioner that the provider cannot submit the
 cost report or corrected or additional information by the due date for
 reasons beyond the provider's control.
-  * NB Repealed 10 years after the contract entered into pursuant to
+  * NB Repealed 16 years after the contract entered into pursuant to
 this section 365-h is executed
   * § 365-h. Provision and reimbursement of transportation costs. 1. The
 local social services official shall have responsibility for prior
@@ -244,6 +244,6 @@ cost transportation is reasonably available to eligible persons.
 are implemented, the commissioner shall assure compliance with
 applicable standards governing the safety and quality of transportation
 of the population served.
-  * NB Effective 10 years after the contract entered into pursuant to
+  * NB Effective 16 years after the contract entered into pursuant to
 this section 365-h has been executed
 ```

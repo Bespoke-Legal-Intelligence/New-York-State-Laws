@@ -389,6 +389,10 @@ one hundred eighteen of the internal revenue code, from the term
 "contribution to the capital of the taxpayer" by paragraph two of
 subsection (b) of section one hundred eighteen of the internal revenue
 code.
+  (21) The amount of any gain added back to determine entire net income
+in a previous taxable year pursuant to subparagraph twenty-seven of
+paragraph (b) of subdivision nine of this section that is included in
+federal gross income for the taxable year.
   (b) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (1) in the case of an alien corporation that under any provision of
@@ -544,6 +548,9 @@ subsection (c) of section 965 of the internal revenue code.
 thousand twenty, the amount of the increase in the federal interest
 deduction allowed pursuant to section 163(j)(10)(A)(i) of the internal
 revenue code.
+  (27) The amount of any gain excluded from federal gross income for the
+taxable year by subparagraph (A) of paragraph (1) of subsection (a) of
+section 1400Z-2 of the internal revenue code.
   (c-1)(1) Notwithstanding any other provision of this article, in the
 case of a taxpayer which is a foreign air carrier holding a foreign air
 carrier permit issued by the United States department of transportation

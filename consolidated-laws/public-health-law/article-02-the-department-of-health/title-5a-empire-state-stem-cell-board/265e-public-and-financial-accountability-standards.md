@@ -4,9 +4,9 @@
 [Public Health Law](../../README.md) › [Article 2 — The Department of Health](../README.md) › [Title 5-A — Empire State Stem Cell Board](README.md)
 
 ```text
-  § 265-e. Public and financial accountability standards. 1. Report. The
-board shall issue an annual report to the public, which sets forth its
-activities, grants awarded, grants in progress, research
+  * § 265-e. Public and financial accountability standards. 1. Report.
+The board shall issue an annual report to the public, which sets forth
+its activities, grants awarded, grants in progress, research
 accomplishments, and future program directions. Each annual report shall
 include, but not be limited to the following:
   (a) number and dollar amounts of research and facilities grants;
@@ -36,4 +36,5 @@ such agreement for amounts of funding from sources other than the state.
 the law to the contrary, the board is authorized to receive
 contributions from any governmental entity, for profit and
 not-for-profit corporation, association or person.
+  * NB Repealed December 31, 2025
 ```

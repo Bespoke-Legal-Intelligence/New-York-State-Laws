@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | SOS |
 | Type | Consolidated law, chapter 55 |
-| Sections | 699 |
-| Last changed | 9 Apr 2021 |
+| Sections | 704 |
+| Last changed | 23 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Social Services |
 
@@ -29,10 +29,11 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
   The People of the State of New York, represented in Senate and
 ```
 
-[Full chapter text (125 lines)](chapter-text.md)
+[Full chapter text (127 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [23 Apr 2021](../../changes/2021/2021-04-23.md): 23 amended, 5 added
 - [9 Apr 2021](../../changes/2021/2021-04-09.md): 7 amended
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 1 added
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 3 amended
@@ -42,7 +43,6 @@ Became a law April 18, 1940, with approval of the Governor.  Passed,
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 4 amended
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 1 amended
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 3 amended
-- [2 Oct 2020](../../changes/2020/2020-10-02.md): 5 amended
 
 ## Contents
 

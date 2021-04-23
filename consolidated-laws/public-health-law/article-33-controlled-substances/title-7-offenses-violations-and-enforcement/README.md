@@ -8,7 +8,6 @@
 - [§ 3380 Inhalation of certain toxic vapors or fumes, and certain hazardous inhalants; sale of glue and hazardous inhalants in certain cases](3380-inhalation-of-certain-toxic-vapors-or-fumes-and-certain.md)
 - [§ 3381 Sale and possession of hypodermic syringes and hypodermic needles](3381-sale-and-possession-of-hypodermic-syringes-and-hypodermic.md)
 - [§ 3381-A Destruction of hypodermic syringes and needles](3381a-destruction-of-hypodermic-syringes-and-needles.md)
-- [§ 3382 Growing of the plant known as Cannabis by unlicensed persons](3382-growing-of-the-plant-known-as-cannabis-by-unlicensed.md) *(repealed)*
 - [§ 3383 Imitation controlled substances](3383-imitation-controlled-substances.md)
 - [§ 3384 Information program for retailers](3384-information-program-for-retailers.md)
 - [§ 3385 Enforcement](3385-enforcement.md)

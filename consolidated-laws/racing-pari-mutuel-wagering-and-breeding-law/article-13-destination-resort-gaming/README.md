@@ -13,7 +13,7 @@
 - [Title 6 — Taxation and Fees](title-6-taxation-and-fees/)
 - [Title 7 — Problem Gambling](title-7-problem-gambling/)
 - [Title 8 — Miscellaneous Provisions](title-8-miscellaneous/)
-- [Title 9 — Gaming Inspector General](title-9-gaming-inspector/)
+- [Title 9 Gaming Inspector General](title-9-gaming-inspector-general.md)
 
 <details>
 <summary>Official heading of Article 13, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

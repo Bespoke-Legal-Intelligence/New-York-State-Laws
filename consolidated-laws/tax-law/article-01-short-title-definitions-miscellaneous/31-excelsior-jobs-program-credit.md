@@ -12,6 +12,7 @@ the credit, allowable for up to ten consecutive taxable years, is the
 sum of the following four credit components:
   (1) the excelsior jobs tax credit component;
   (2) the excelsior investment tax credit component;
+  (2-a) the excelsior child care services tax credit component;
   (3) the excelsior research and development tax credit component; and
   (4) the excelsior real property tax credit component.
   (b) To be eligible for the excelsior jobs program credit, the taxpayer

@@ -38,9 +38,9 @@ Section 343.   Declaration of object.
         345.   Definition.
         348.   Application for family assistance.
         349.   Eligibility.
-        349-a. Procedures   to  insure  the  protection  of  victims  of
+        349-a. Procedures to insure the protection of victims of
                  domestic violence.
-        349-b. Deserted, abandoned and out-of-wedlock children;  special
+        349-b. Deserted, abandoned and out-of-wedlock children; special
                  provisions.
         350.   Character and adequacy.
         350-a. Protective payments.
@@ -49,16 +49,15 @@ Section 343.   Declaration of object.
         352-a. Children born out of wedlock; special provisions.
         353.   Grant of aid.
         355.   Rules, regulations and forms.
-        356.   Moneys  to  be  provided  by  counties  and  cities;  how
+        356.   Moneys to be provided by counties and cities; how
                  expended.
         357.   Quarterly estimates.
-        358.   Federal temporary assistance  for  needy  families  block
+        358.   Federal temporary assistance for needy families block
                  grant.
         358-a. Dependent children in foster care.
         358-b. Limitations on state reimbursement for foster care.
         358-c. Rules of court.
-        360.   Real property of legally responsible relatives; deeds and
-                 mortgages may be required.
+        360.   Real property of legally responsible relatives.
 ```
 
 </details>

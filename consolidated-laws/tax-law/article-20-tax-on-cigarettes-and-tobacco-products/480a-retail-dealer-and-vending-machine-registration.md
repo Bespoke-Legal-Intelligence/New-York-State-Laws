@@ -285,4 +285,27 @@ or permit issued pursuant to such law.
   5. Except for subdivision (i) of section eighteen hundred fourteen of
 this chapter, the criminal penalties set forth in article thirty-seven
 of this chapter shall not apply to a violation of this section.
+  6. (a) No retail dealer who has its retail dealer registration
+cancelled, suspended or revoked pursuant to this section or has been
+forbidden from selling cigarettes or tobacco products pursuant to
+paragraph (j) of subdivision one of section four hundred eighty of this
+article shall possess cigarettes or tobacco products in any place of
+business, cart, stand, truck or other merchandising device in this state
+beginning on the tenth day after such cancellation, suspension,
+revocation, or forbiddance and continuing for the duration of the same;
+provided however, such retail dealer shall not be prohibited before the
+tenth day after such cancellation, suspension, revocation, or
+forbiddance from selling or transferring its inventory of lawfully
+stamped cigarettes or tobacco products on which the taxes imposed by
+this article have been assumed or paid to a properly registered retail
+dealer whose registration is not cancelled, suspended, or revoked or who
+has not been forbidden from selling cigarettes or tobacco products.
+  (b) No retail dealer shall possess cigarettes or tobacco products in
+any place of business, cart, stand, truck or other merchandising device
+in this state unless it has obtained a valid retail dealer registration
+from the commissioner.
+  (c) The possession of cigarettes or tobacco products by an unlicensed
+retail dealer in violation of paragraph (a) or (b) of this subdivision
+shall be subject to the penalties authorized by subdivision three of
+this section.
 ```

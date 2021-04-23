@@ -263,7 +263,7 @@ education that such funds are overdue and owed by such school district.
 The commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective until April 1, 2021
+  * NB Effective until April 1, 2022
   * 10. Expenditures made by a social services district for the
 maintenance of children with disabilities, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,
@@ -297,7 +297,7 @@ such funds are overdue and owed by such school district. The
 commissioner of the office of children and family services, in
 consultation with the commissioner of education, shall promulgate
 regulations to implement the provisions of this subdivision.
-  * NB Effective April 1, 2021 until June 30, 2022
+  * NB Effective April 1, 2022 until June 30, 2022
   * 10. Expenditures made by a social services district for the
 maintenance of handicapped children, placed by school districts,
 pursuant to section forty-four hundred five of the education law shall,

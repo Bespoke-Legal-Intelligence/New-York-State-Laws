@@ -4,7 +4,7 @@
 [State Finance Law](../README.md) › [Article 6 — Funds of the State](README.md)
 
 ```text
-  § 99-p. Empire state stem cell trust fund. 1. There is hereby
+  * § 99-p. Empire state stem cell trust fund. 1. There is hereby
 established in the joint custody of the state comptroller and the
 commissioner of taxation and finance a special revenue fund to be known
 as the "empire state stem cell trust fund".
@@ -22,4 +22,5 @@ research.
   4. Money shall be payable from the fund on the audit and warrant of
 the state comptroller on vouchers approved and certified by the
 commissioner of health.
+  * NB Repealed December 31, 2025
 ```

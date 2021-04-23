@@ -58,16 +58,14 @@ request. The alleged sexual offense victim shall be given the option of
 providing contact information for purposes of receiving notice of the
 planned destruction of such evidence after the expiration of the
 twenty-year period.
-  (d) Until April first, two thousand twenty-one, or earlier if
-determined feasible by the director of budget pursuant to paragraph (g)
-of this subdivision, hospitals shall be responsible for securing
-long-term sexual offense evidence pursuant to this section, after which
-such storage shall be the responsibility of the custodian(s) identified
-in the plan approved by the director of budget pursuant to paragraph (g)
-of this subdivision. Hospitals may enter into contracts with other
-entities that will ensure appropriate and secure long-term storage of
-sexual offense evidence pursuant to this section until April first, two
-thousand twenty-one.
+  (d) Until September thirtieth, two thousand twenty-two, or earlier if
+determined feasible by the director of budget, hospitals shall be
+responsible for securing long-term sexual offense evidence pursuant to
+this section, after which such storage shall be the responsibility of
+the office of victim services. Hospitals may enter into contracts with
+other entities that will ensure appropriate and secure long-term storage
+of sexual offense evidence pursuant to this section until September
+thirtieth, two thousand twenty-two.
   (e) Beginning April first, two thousand eighteen, the department, the
 office of victim services, the division of criminal justice services and
 the division of state police shall jointly study, evaluate and make
@@ -76,47 +74,28 @@ evidence for twenty years, including studying options for the use of:
 state-owned or operated facilities; facilities owned or operated by
 local government or law enforcement agencies; and facilities owned or
 operated by private entities.
-  (f) On or before December first, two thousand nineteen, such agencies
-shall submit a joint plan to the director of budget, speaker of the
-assembly, and president pro tempore of the senate, which shall at a
-minimum include: recommended storage location(s) for sexual offense
-evidence; a schedule for sexual offense evidence held by hospitals
-pursuant to this section to be transferred to such storage location(s)
-by April first, two thousand twenty-one; and tracking, monitoring and
-notification option(s).
-  (g) On or before January first, two thousand twenty, the director of
-budget shall approve a plan that, at a minimum, establishes: storage
-location(s) for sexual offense evidence by no later than April first,
-two thousand twenty-one; a reasonable schedule for sexual offense
-evidence maintained by hospitals pursuant to this section to be
-transferred to such storage location(s); and tracking, monitoring and
-notification system(s).
-  (h) Between thirty and ten days prior to the transfer of sexual
-offense evidence to the storage location(s) identified in the plan
-approved by the director of budget pursuant to paragraph (g) of this
-subdivision, hospitals shall make diligent efforts to notify the alleged
-sexual offense victim of the transfer of custody for the remainder of
-the twenty-year storage period.
-  (i) On April first, two thousand twenty-one, or earlier if determined
-feasible by the director of budget, responsibility for long-term storage
-of sexual offense evidence shall transfer to the custodian(s) identified
-in the plan approved by the director of budget pursuant to paragraph (g)
-of this subdivision.
-  (j) After April first, two thousand twenty-one, or earlier if
+  (f) Between thirty and ten days prior to the transfer of sexual
+offense evidence to the office of victim services, hospitals shall make
+diligent efforts to notify the alleged sexual offense victim of the
+transfer of custody for the remainder of the twenty-year storage period.
+  (g) On September thirtieth, two thousand twenty-two, or earlier if
+determined feasible by the director of budget, responsibility for
+long-term storage of sexual offense evidence shall transfer to the
+office of victim services.
+  (h) After September thirtieth, two thousand twenty-two, or earlier if
 determined feasible by the director of budget, hospitals shall ensure
 transfer of sexual offense evidence collected pursuant to this section
-to the custodian(s) identified in the plan approved by the director of
-budget pursuant to paragraph (g) of this subdivision within ten days of
-collection of such evidence, while maintaining chain of custody.
-  (k) At least ninety days prior to the expiration of the twenty-year
-storage period for any sexual offense evidence, the custodian(s) of the
-sexual offense evidence shall make diligent efforts to contact the
-alleged sexual offense victim to notify the alleged sexual offense
-victim that the sexual offense evidence will be discarded in compliance
-with state and local health codes and that the alleged sexual offense
-victim's clothes and personal effects will be returned to the alleged
-sexual offense victim upon request.
-  (l) Notwithstanding any other provision in this section, sexual
+to the office of victim services within ten days of collection of such
+evidence, while maintaining chain of custody.
+  (i) At least ninety days prior to the expiration of the twenty-year
+storage period for any sexual offense evidence, the office of victim
+services shall make diligent efforts to contact the alleged sexual
+offense victim to notify the alleged sexual offense victim that the
+sexual offense evidence will be discarded in compliance with state and
+local health codes and that the alleged sexual offense victim's clothes
+and personal effects will be returned to the alleged sexual offense
+victim upon request.
+  (j) Notwithstanding any other provision in this section, sexual
 offense evidence shall not continue to be stored where: (i) such
 evidence is not privileged and law enforcement requests its release, in
 which case the custodian(s) shall comply with such request; or (ii) such

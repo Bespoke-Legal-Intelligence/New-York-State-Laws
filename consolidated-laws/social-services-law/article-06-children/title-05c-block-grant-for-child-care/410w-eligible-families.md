@@ -99,8 +99,25 @@ the earned income of a dependent child under the age of eighteen, who is
 not legally responsible for the child or children for which child care
 assistance is sought, shall be disregarded when determining the
 eligibility of a household for a child care subsidy.
-  8. Notwithstanding any other provision of law, rule or regulations to
-the contrary, a social services district that implements a plan
+  * 8. Notwithstanding any other provision of law, rule or regulations
+to the contrary, a social services district that implements a plan
+amendment to the child care portion of its child and family services
+plan, either as part of an annual plan update, or through a separate
+plan amendment process, where such amendment reduces eligibility for, or
+increases the family share percentage of, families receiving child care
+services, or that implements the process for closing child care cases as
+set forth in the district's approved child and family services plan, due
+to the district determining that it cannot maintain its current caseload
+because all of the available funds are projected to be needed for open
+cases, shall provide all families whose eligibility for child care
+assistance or family share percentage will be impacted by such action
+with at least thirty days prior written notice of the action. Provided,
+however, that a family receiving assistance pursuant to this title shall
+not be required to contribute more than ten percent of their income
+exceeding the federal poverty level.
+  * NB Effective until April 16, 2024
+  * 8. Notwithstanding any other provision of law, rule or regulations
+to the contrary, a social services district that implements a plan
 amendment to the child care portion of its child and family services
 plan, either as part of an annual plan update, or through a separate
 plan amendment process, where such amendment reduces eligibility for, or
@@ -112,6 +129,7 @@ because all of the available funds are projected to be needed for open
 cases, shall provide all families whose eligibility for child care
 assistance or family share percentage will be impacted by such action
 with at least thirty days prior written notice of the action.
+  * NB Effective April 16, 2024
   9. Parents and caretakers who are otherwise eligible for child care
 assistance, and provided with such assistance, shall be able to utilize
 the assistance when care is necessary to enable them to sleep because

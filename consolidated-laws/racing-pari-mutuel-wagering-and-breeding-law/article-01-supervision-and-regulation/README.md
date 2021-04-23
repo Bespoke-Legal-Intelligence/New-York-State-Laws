@@ -39,6 +39,12 @@
 - [§ 127 Transfer of assets and liabilities](127-transfer-of-assets-and-liabilities.md)
 - [§ 128 Promulgation of rules and regulations](128-promulgation-of-rules-and-regulations.md)
 - [§ 129 Construction of other laws or provisions](129-construction-of-other-laws-or-provisions.md)
+- [§ 130 The office of gaming inspector general](130-the-office-of-gaming-inspector-general.md)
+- [§ 131 Gaming inspector general; functions and duties](131-gaming-inspector-general-functions-and-duties.md)
+- [§ 132 Powers](132-powers.md)
+- [§ 133 Responsibilities of the commission and its officers and employees](133-responsibilities-of-the-commission-and-its-officers-and-employees.md)
+- [§ 134 Transfer of employees](134-transfer-of-employees.md)
+- [§ 135 Transfer of records](135-transfer-of-records.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -83,6 +89,13 @@ Section 100.   Legislative intent.
         127.   Transfer of assets and liabilities.
         128.   Promulgation of rules and regulations.
         129.   Construction of other laws of provisions.
+        130.   The office of gaming inspector general.
+        131.   Gaming inspector general; functions and duties.
+        132.   Powers.
+        133.   Responsibilities of the commission and its officers and
+                 employees.
+        134.   Transfer of employees.
+        135.   Transfer of records.
 ```
 
 </details>

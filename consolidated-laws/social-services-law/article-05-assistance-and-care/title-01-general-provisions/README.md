@@ -10,6 +10,7 @@
 - [§ 131 Assistance, care and services to be given](131-assistance-care-and-services-to-be-given.md)
 - [§ 131-A Monthly grants and allowances of public assistance](131a-monthly-grants-and-allowances-of-public-assistance.md)
 - [§ 131-AA Monthly statistical reports](131aa-monthly-statistical-reports.md)
+- [§ 131-AAA Availability of adverse childhood experiences services](131aaa-availability-of-adverse-childhood-experiences-services.md)
 - [§ 131-B Fees for services](131b-fees-for-services.md)
 - [§ 131-C Inclusion of parents and siblings of a minor in the public assistance household](131c-inclusion-of-parents-and-siblings-of-a-minor-in-the-public-assistance.md)
 - [§ 131-D Substance abuse rehabilitative and preventive services](131d-substance-abuse-rehabilitative-and-preventive-services.md)
@@ -82,6 +83,7 @@
 Section 131.     Assistance, care and services to be given.
         131-a.   Monthly grants and allowances of public assistance.
         131-aa.  Monthly statistical reports.
+        131-aaa. Availability of adverse childhood experiences services.
         131-b.   Fees for services.
         131-c.   Inclusion of parents and siblings of a minor in the
                    public assistance household.

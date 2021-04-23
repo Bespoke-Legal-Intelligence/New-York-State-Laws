@@ -209,9 +209,110 @@ denied;
   (v) all decisions made and approaches taken pursuant to this paragraph
 shall be documented in a procurement record as defined in section one
 hundred sixty-three of the state finance law; and
-  (vi) the commissioner is authorized to reoffer contracts under the
-same terms of this subdivision, if determined necessary by the
-commissioner.
+  (vi) the commissioner is authorized to either reoffer contracts or
+utilize the previous offer, to ensure that all provisions of this
+section are met.
+  (b-1) Following the initial selection of contractors pursuant to this
+subdivision the commissioner is instructed to survey for information
+relating to the additional selection criteria under this paragraph and
+paragraph (b-2) of this subdivision, in writing in a manner determined
+by the commissioner, from all applicants that were qualified by the
+commissioner as meeting minimum requirements of the procurement process
+described in paragraph (b) of this subdivision including those that were
+not awarded contracts under that process:
+  (i) whether the applicant is formed as a charitable corporation under
+article two of the not-for-profit corporation law or authorized as a
+foreign corporation under article thirteen of the not-for-profit
+corporation law;
+  (ii) was the applicant performing administrative services as a fiscal
+intermediary prior to January first, two thousand twelve and has it
+continuously provided such services for eligible individuals pursuant to
+this section since that date;
+  (iii) the address the applicant listed as its primary mailing address
+on its most recently filed state corporate tax return or its Federal
+Return of Organization Exempt From Income Tax form (form 990);
+  (iv) whether the applicant is currently authorized, funded, approved
+or certified to deliver state plan or home and community-based waiver
+supports and services to individuals with intellectual and developmental
+disabilities by the office for people with developmental disabilities;
+  (v) whether the applicant has historically provided fiscal
+intermediary administrative services to racial and ethnic minority
+residents or new Americans, as defined in section ninety-four-b of the
+executive law, in such consumers' primary language, as evidenced by
+information and materials provided to consumers in the consumers'
+primary language or languages; and
+  (vi) whether the applicant is verified as a minority or woman-owned
+business enterprise pursuant to section three hundred fourteen of the
+executive law.
+  (b-2) The commissioner shall give applicants thirty days to respond to
+the survey. The failure of any applicants to respond to the survey and
+provide the information sought within such thirty-day period shall
+disqualify such applicants from consideration of any additional awards.
+Following receipt of the survey responses from applicants, the
+commissioner shall make awards to qualified applicants that previously
+submitted applications, in addition to any awards already announced, as
+may be necessary to ensure the commissioner has made awards as follows:
+  (i) the commissioner shall make awards to one or two additional
+applicants, to the extent that such applications were received, that are
+located in each county with a population of more than two hundred
+thousand but less than five hundred thousand as evidenced by the primary
+mailing address from the information surveyed under subparagraph (iii)
+of paragraph (b-1) of this subdivision.
+  (ii) the commissioner shall make awards to one or two additional
+applicants, to the extent that such applications were received, that are
+located in each county with a population of five hundred thousand or
+more as evidenced by the primary mailing address from the information
+surveyed under subparagraph (iii) of paragraph (b-1) of this
+subdivision.
+  (iii) to provide geographic distribution that would ensure access in
+different regions of the state the commissioner shall make awards to at
+least two additional applicants, to the extent that such applications
+were received, that are currently authorized, funded, approved or
+certified to deliver state plan or home and community-based waiver
+supports and services to individuals with intellectual and developmental
+disabilities by the office for people with developmental disabilities
+and meet the following criteria:
+  (A) are organized as a not-for-profit corporation pursuant to article
+two of the not-for-profit corporation law or authorized as a foreign
+corporation under article thirteen of the not-for-profit corporation
+law; or
+  (B) have been performing administrative services as fiscal
+intermediaries prior to January first, two thousand twelve and have been
+continuously providing such services for eligible individuals pursuant
+to this section since that date.
+  (iv) to provide geographic distribution that would ensure access in
+different regions of the state the commissioner shall make awards to at
+least two additional applicants, to the extent that such applications
+were received, that serve racial and ethnic minority residents,
+religious minority residents, or new Americans in those consumers'
+primary language, as evidenced by information and materials provided to
+consumers in the consumers' primary language or languages and meet the
+following criteria:
+  (A) are organized as a not-for-profit corporation pursuant to the
+not-for-profit corporation law or authorized as a foreign corporation
+under article thirteen of the not-for-profit corporation law; or
+  (B) have been performing administrative services as fiscal
+intermediaries prior to January first, two thousand twelve and have been
+continuously providing such services for eligible individuals pursuant
+to this section since that date.
+  (v) to provide geographic distribution that would ensure access in
+different regions of the state the commissioner shall make awards to at
+least two additional applicants, to the extent that such applications
+were received, that have been verified as a minority or woman-owned
+business enterprise pursuant to section three hundred fourteen of the
+executive law.
+  (vi) Notwithstanding the requirements of this paragraph, the
+commissioner may only make awards to the extent that applicants that
+meet the prescribed criteria, as evidenced by the results of the survey
+required under paragraph (b-1) of this subdivision, submitted qualifying
+applications and the commissioner shall not be required to make awards
+where no applicant meets the prescribed criteria.
+  (b-3) In awarding any new contracts pursuant to paragraph (b-2) of
+this subdivision, the commissioner shall not rescore the offers based on
+the results of the survey required under paragraph (b-1) of this
+subdivision, but shall award such contracts to the next highest scoring
+applicant or applicants that meet the criteria under paragraph (b-2) of
+this subdivision.
   (c) (i) The commissioner shall require a fiscal intermediary to report
 annually on the direct care and administrative costs of personal
 assistance services as accounted for by the fiscal intermediary. The
@@ -303,11 +404,20 @@ failed to submit an offer for a contract, or has been denied a contract
 under this section, all the provisions of this subdivision shall apply
 except subparagraph (i) of paragraph (a) of this subdivision, notice of
 which to all parties shall be provided by the department as appropriate.
-  (d) The local social services district or managed care plan, as
+  (d) where a fiscal intermediary is acquired by, merges with, sells
+assets to, or engages in a transaction of a similar nature with a fiscal
+intermediary that was awarded a contract pursuant to subdivision four-a
+of this section, all the provisions of this subdivision shall apply. In
+providing notice under subparagraph (i) of paragraph (a) of this
+subdivision, the fiscal intermediary may inform the notice recipient of
+the applicable transaction and, if applicable, the ability of the
+consumer to remain with the awarded fiscal intermediary in accordance
+with any guidance issued by the commissioner.
+  (e) The local social services district or managed care plan, as
 appropriate, shall supervise the transition of services and transfer of
 records and maintain provision of services by the personal assistant(s)
 chosen by the individual.
-  (e) Any transfer under this subdivision shall not diminish any of an
+  (f) Any transfer under this subdivision shall not diminish any of an
 individual's rights relating to continuity of care, utilization review
 or fair hearing appeals and aid continuing.
   5. Waivers, regulation and effectiveness.

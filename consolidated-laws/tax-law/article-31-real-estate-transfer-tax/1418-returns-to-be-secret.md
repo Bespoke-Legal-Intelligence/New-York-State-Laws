@@ -96,7 +96,10 @@ combined process established pursuant to an agreement entered into with
 the commissioner pursuant to paragraph viii of subdivision one-e of
 section three hundred thirty-three of the real property law. The
 commissioner may redisclose such information to the extent authorized by
-section five hundred seventy-four of the real property tax law.
+section five hundred seventy-four of the real property tax law. The
+commissioner may also disclose any information reported pursuant to
+paragraph two of subdivision (a) of section fourteen hundred nine of
+this article.
   (i) (1) Notwithstanding the provisions of subdivision (a) of this
 section, upon written request from the chairperson of the committee on
 ways and means of the United States House of Representatives, the

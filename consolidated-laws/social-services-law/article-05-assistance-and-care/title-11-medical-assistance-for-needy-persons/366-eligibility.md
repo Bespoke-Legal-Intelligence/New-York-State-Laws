@@ -2079,7 +2079,7 @@ provide medical assistance for those children receiving kinship
 guardianship assistance payments under title ten of article six of this
 chapter who are not automatically eligible for such medical assistance
 under title IV-E of the federal social security act.
-  14. The commissioner of health may make any available amendments to
+  * 14. The commissioner of health may make any available amendments to
 the state plan for medical assistance submitted pursuant to section
 three hundred sixty-three-a of this title, or, if an amendment is not
 possible, develop and submit an application for any waiver or approval
@@ -2094,6 +2094,24 @@ plan certified pursuant to section forty-four hundred three-f of the
 public health law; and (iii) do not meet the criteria to be considered
 an "institutionalized spouse" for purposes of section three hundred
 sixty-six-c of this title.
+  * NB Effective until January 1, 2022
+  * 14. The commissioner of health may make any available amendments to
+the state plan for medical assistance submitted pursuant to section
+three hundred sixty-three-a of this title, or, if an amendment is not
+possible, develop and submit an application for any waiver or approval
+under the federal social security act that may be necessary to disregard
+or exempt an amount of income, for the purpose of assisting with housing
+costs, for individuals receiving coverage of nursing facility services
+under this title, other than short-term rehabilitation services, and for
+individuals in receipt of medical assistance while in an adult home, as
+defined in subdivision twenty-five of section two of this chapter, who:
+are (i) discharged to the community; and (ii) if eligible, enrolled or
+required to enroll and have initiated the process of enrolling in a plan
+certified pursuant to section forty-four hundred three-f of the public
+health law; and (iii) do not meet the criteria to be considered an
+"institutionalized spouse" for purposes of section three hundred
+sixty-six-c of this title.
+  * NB Effective January 1, 2022
   15. The commissioner may contract with one or more entities to engage
 in education, outreach services, and facilitated enrollment activities
 for aged, blind, and disabled persons who may be eligible for coverage

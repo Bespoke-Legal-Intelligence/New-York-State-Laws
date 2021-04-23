@@ -65,6 +65,7 @@
 - [§ 390-L Securing of furniture](390l-securing-of-furniture.md)
 - [§ 391 Violation; injunction](391-violation-injunction.md)
 - [§ 392 Services for relative and non-relative kinship caregivers](392-services-for-relative-and-non-relative-kinship-caregivers.md)
+- [§ 393 Court review of placement in a qualified residential treatment program](393-court-review-of-placement-in-a-qualified-residential-treatment-program.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -149,6 +150,8 @@ Section 371.     Definitions.
         390-l.   Securing of furniture.
         391.     Violation; injunction.
         392.     Services for relative caregivers.
+        393.     Court review of placement in a qualified residential
+                   treatment program.
 ```
 
 </details>

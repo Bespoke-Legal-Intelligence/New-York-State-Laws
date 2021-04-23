@@ -16,7 +16,7 @@ Became a law February 17, 1909, with the approval of the Governor.
 Assembly, do enact as follows:
                    CHAPTER 60 OF THE CONSOLIDATED LAWS
                                  TAX LAW
-Article 1.      Short title; definitions; miscellaneous (§§ 1-44).
+Article 1.      Short title; definitions; miscellaneous (§§ 1-46).
         8.      Department of taxation and finance; commissioner of
                   taxation and finance (§§ 170-179).
         9.      Corporation tax (§§ 182--207-b).
@@ -43,6 +43,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-44).
        23.       Metropolitan commuter transportation mobility tax
                    (§§ 800-807).
        24.       Employer compensation expense program (§§ 850-857).
+       24-A.     Pass-through entity tax (§§ 860-866).
        25.       Reciprocal enforcement of tax liabilities
                    (§§ 901-903).
        26.       Estate tax (§§ 951-999-a).
@@ -63,7 +64,7 @@ Article 1.      Short title; definitions; miscellaneous (§§ 1-44).
        30.       City personal income tax (§§ 1300-1313).
        30-A.     City income tax surcharge (§§ 1320-1333)
        30-B.     City earnings tax on nonresidents (§§ 1340-1343).
-       31.       Real estate transfer tax (§§ 1400-1422).
+       31.       Real estate transfer tax (§§ 1400-1423).
        31-A.     Tax on real property transfers for transportation
                    assistance (§§ 1424-1437).
        31-A-1.   Tax on real estate transfers in the town of Red Hook

@@ -4,7 +4,7 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 3 — Harness Racing and Breeding](README.md)
 
 ```text
-  § 306. State admission tax.  1. Every corporation, association or
+  * § 306. State admission tax. 1. Every corporation, association or
 person holding a harness horse race meeting pursuant to sections two
 hundred twenty-two through seven hundred five of this chapter shall
 collect in addition to the admission price of tickets sold or otherwise
@@ -38,4 +38,5 @@ together with the expense of such examination. A penalty of five per
 centum and interest at the rate of one per centum per month from the due
 date to the date of payment of the tax shall be payable in case any tax
 imposed by this section is not paid when due.
+  * NB Repealed November 1, 2021
 ```

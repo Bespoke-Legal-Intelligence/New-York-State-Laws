@@ -6,12 +6,28 @@
 ```text
   § 1401. Definitions. When used in this article, unless otherwise
 expressly stated:
-  (a) "Person" means an individual, partnership, limited liability
+  * (a) "Person" means an individual, partnership, limited liability
 company, society, association, joint stock company, corporation, estate,
 receiver, trustee, assignee, referee or any other person acting in a
 fiduciary or representative capacity, whether appointed by a court or
 otherwise, any combination of individuals, and any other form of
 unincorporated enterprise owned or conducted by two or more persons.
+  * NB Effective until July 1, 2021
+  * (a) (1) "Person" means an individual, partnership, limited liability
+company, society, association, joint stock company, corporation, estate,
+receiver, trustee, assignee, referee or any other person acting in a
+fiduciary or representative capacity, whether appointed by a court or
+otherwise, any combination of individuals, and any other form of
+unincorporated enterprise owned or conducted by two or more persons.
+  (2) "Person" shall include any individual, corporation, partnership or
+limited liability company or an officer or employee of any corporation
+(including a dissolved corporation), or a member or employee of any
+partnership, or a member, manager or employee of a limited liability
+company, who as such officer, employee, manager or member is under a
+duty to act for such corporation, partnership, limited liability company
+or individual proprietorship in complying with any requirement of this
+article, or has so acted.
+  * NB Effective July 1, 2021
   (b) "Controlling interest" means (i) in the case of a corporation,
 either fifty percent or more of the total combined voting power of all
 classes of stock of such corporation, or fifty percent or more of the
@@ -24,7 +40,7 @@ entity.
 present or future, vested or contingent, in lands, tenements or
 hereditaments, including buildings, structures and other improvements
 thereon, which are located in whole or in part within the state of New
-York.  It shall not include rights to sepulture.
+York. It shall not include rights to sepulture.
   (d) "Consideration" means the price actually paid or required to be
 paid for the real property or interest therein, including payment for an
 option or contract to purchase real property, whether or not expressed

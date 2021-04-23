@@ -131,4 +131,24 @@ United States House of Representatives, or to the United States Senate,
 then such inspection and/or submission shall occur in a manner
 consistent with federal law as informed by the requirements and
 procedures established in 26 U.S.C. Section 6103(f).
+  (e) Notwithstanding the provisions of subdivision (a) of this section,
+the commissioner may, in his or her discretion, permit the proper
+officer of the taxi and limousine commission of the city of New York
+(TLC) or the duly authorized representative of such officer, to inspect
+any return filed under this article, or may furnish to such officer or
+such officer's authorized representative an abstract of any such return
+or supply such person with information concerning an item contained in
+any such return, or disclosed by any investigation of tax liability
+under this article; but such permission shall be granted or such
+information furnished only if the TLC shall have furnished the
+commissioner with all information requested by the commissioner pursuant
+to this article and shall have permitted the commissioner or the
+commissioner's authorized representative to make any inspection of any
+records or reports concerning for-hire transportation trips subject to
+the surcharge imposed by this article, and any persons required to
+collect such surcharge, filed with or possessed by the TLC that the
+commissioner may have requested from the TLC. Provided, further, that
+the commissioner may disclose to the TLC whether or not a person liable
+for the surcharge imposed by this article has paid all of the surcharges
+due under this article as of any given date.
 ```

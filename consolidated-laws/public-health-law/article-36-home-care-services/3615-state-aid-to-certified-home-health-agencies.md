@@ -103,7 +103,7 @@ minimum and maximum grant levels.
   11. Recipients of grants shall submit to the commissioner reports on
 the use of grants provided under this section at such times and in such
 format as the commissioner may prescribe.
-  * NB Effective until June 30, 2021
+  * NB Effective until June 30, 2023
   * § 3615. State grants to certified home health agencies. 1. State
 grants shall be provided to certified home health agencies to assist in
 developing and ensuring their capacity to meet community need. Funds for
@@ -205,5 +205,5 @@ and maximum grant levels.
   11. Recipients of grants shall submit to the commissioner reports on
 the use of grants provided under this section at such times and in such
 format as the commissioner may prescribe.
-  * NB Effective June 30, 2021
+  * NB Effective June 30, 2023
 ```

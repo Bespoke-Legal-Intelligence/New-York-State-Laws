@@ -97,10 +97,10 @@ Provided, however, if a taxpayer claims this credit because it is a
 member of a limited liability company or a partner in a partnership,
 only the amount of credit earned by the entity and not the amount of
 credit claimed by the taxpayer may be released.
-  (e) Maximum amount of credits. (1) The aggregate amount of tax credits
-allowed under this section, subdivision forty-seven of section two
-hundred ten-B and subsection (u) of section six hundred six of this
-chapter in any calendar year shall be four million dollars. Such
+  (e) Maximum amount of credits.  (1) The aggregate amount of tax
+credits allowed under this section, subdivision forty-seven of section
+two hundred ten-B and subsection (u) of section six hundred six of this
+chapter in any calendar year shall be eight million dollars. Such
 aggregate amount of credits shall be allocated by the department of
 economic development among taxpayers in order of priority based upon the
 date of filing an application for allocation of musical and theatrical
@@ -167,5 +167,5 @@ commissioner of the department of economic development regarding
 continuing modification, repeal of such act, and such other information
 regarding the act as the commissioner of the department of economic
 development may feel useful and appropriate.
-  * NB Repealed March 31, 2022
+  * NB Repealed January 1, 2026
 ```

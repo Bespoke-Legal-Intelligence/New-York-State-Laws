@@ -218,7 +218,7 @@ provision of law notwithstanding, the acceptance by the social services
 official of a surrender of a child born out of wedlock from the mother
 or father of such child shall relieve the parent executing such
 surrender from any and all liability for the support of such child.
-  (g) (1) Place children in its care and custody or its custody and
+  (g) * (1) Place children in its care and custody or its custody and
 guardianship, in suitable instances, in family homes, agency boarding
 homes, group homes or institutions under the proper safeguards. Such
 placements can be made either directly, or through an authorized agency,
@@ -250,6 +250,43 @@ care and custody or its custody and guardianship in a federally funded
 job corps program and may receive reimbursement for the approved costs
 of appropriate program administration and supervision pursuant to a plan
 developed by the department and approved by the director of the budget.
+  * NB Effective until September 29, 2021 if certain conditions are met
+(see chapter 56 of 2021, Part L, § 17 sb (a))
+  * (1) Place children in its care and custody or its custody and
+guardianship, in suitable instances, in supervised settings, family
+homes, agency boarding homes, group homes or institutions under the
+proper safeguards. Such placements can be made either directly, or
+through an authorized agency, except that, direct placements in agency
+boarding homes or group homes may be made by the social services
+district only if the office of children and family services has
+authorized the district to operate such homes in accordance with the
+provisions of section three hundred seventy-four-b of this article and
+only if suitable care is not otherwise available through an authorized
+agency under the control of persons of the same religious faith as the
+child. Where such district places a child in a supervised setting,
+agency boarding home, group home or institution, either directly, or
+through an authorized agency, the district shall certify in writing to
+the office of children and family services, that such placement was made
+because it offers the most appropriate and least restrictive level of
+care for the child, and, is more appropriate than a family foster home
+placement, or, that such placement is necessary because there are no
+qualified foster families available within the district who can care for
+the child. If placements in agency boarding homes, group homes or
+institutions are the result of a lack of foster parents within a
+particular district, the office of children and family services shall
+assist such district to recruit and train foster parents. Placements
+shall be made only in institutions visited, inspected and supervised in
+accordance with title three of article seven of this chapter and
+conducted in conformity with the applicable regulations of the
+supervising state agency in accordance with title three of article seven
+of this chapter. With the approval of the office of children and family
+services, a social services district may place a child in its care and
+custody or its custody and guardianship in a federally funded job corps
+program and may receive reimbursement for the approved costs of
+appropriate program administration and supervision pursuant to a plan
+developed by the department and approved by the director of the budget.
+  * NB Effective September 29, 2021 if certain conditions are met (see
+chapter 56 of 2021, Part L, § 17 sb (a))
   (2) A social services district may place a child in its care and
 custody or its custody and guardianship in a home or facility operated
 or licensed by any office of the department of mental hygiene, subject
@@ -410,7 +447,7 @@ When a child is removed from his home pursuant to the provisions of this
 subdivision, the social services official shall promptly inform the
 parent or person responsible for such child's care and the family court
 of his action.
-  10. Any provision of this chapter or any other law notwithstanding,
+  * 10. Any provision of this chapter or any other law notwithstanding,
 where a foster child for whom a social services official has been making
 foster care payments is in attendance at a college or university away
 from his foster family boarding home, group home, agency boarding home
@@ -420,6 +457,22 @@ behalf of said child had the child been cared for in a foster family
 boarding home, to such college or university in lieu of payment to the
 foster parents or authorized agency, for the purpose of room and board,
 if not otherwise provided.
+  * NB Effective until September 29, 2021 if certain conditions are met
+(see chapter 56 of 2021, Part L, § 17 sb (a))
+  * 10. Any provision of this chapter or any other law notwithstanding,
+where a foster child for whom a social services official has been making
+foster care payments is in attendance at a college or university away
+from his or her foster family boarding home, group home, agency boarding
+home or institution, and residing in a supervised setting or other
+approved location, a social services official may make foster payments,
+at a rate to be developed by the office of children and family services,
+to such college or university, provider of room and board, or youth, as
+appropriate, in lieu of payment to the foster parents or authorized
+agency, for the purpose of room and board, if not otherwise provided.
+Such rate shall be no lower than the rate paid for a child's care in a
+foster family boarding home.
+  * NB Effective September 29, 2021 if certain conditions are met (see
+chapter 56 of 2021, Part L, § 17 sb (a))
   11. In the case of a child who is adjudicated a person in need of
 supervision or a juvenile delinquent and is placed by the family court
 with the division for youth and who is placed by the division for youth

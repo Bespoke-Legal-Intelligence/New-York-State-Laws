@@ -14,7 +14,6 @@
 - [§ 220-F Labor policy of the state with regard to public work contracts; participation in an international boycott prohibited](220f-labor-policy-of-the-state-with-regard-to-public-work-contracts-participation.md)
 - [§ 220-G Additional enforcement of article](220g-additional-enforcement-of-article.md)
 - [§ 220-H Occupational Safety and Health Administration (OSHA) construction safety and health course](220h-occupational-safety-and-health-administration-osha-construction-safety.md)
-- [§ 220-I Amounts due in the case of certain nuclear power plants](220i-amounts-due-in-the-case-of-certain-nuclear-power-plants.md) *(repealed)*
 - [§ 221 Company stores](221-company-stores.md)
 - [§ 221-A Permits required](221a-permits-required.md)
 - [§ 221-B Issue of permits](221b-issue-of-permits.md)
@@ -25,6 +24,7 @@
 - [§ 224-A Prevailing wage requirements applicable to construction projects performed under private contract](224a-prevailing-wage-requirements-applicable-to-construction-projects-performed.md)
 - [§ 224-B Stop-work orders](224b-stop-work-orders.md)
 - [§ 224-C Public subsidy board](224c-public-subsidy-board.md)
+- [§ 224-D Wage requirements for certain renewable energy systems](224d-wage-requirements-for-certain-renewable-energy-systems.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -60,6 +60,7 @@ Section 220.   Hours, wages and supplements.
                  projects performed under private contract.
         224-b. Stop-work orders.
         224-c. Public subsidy board.
+        224-d. Wage requirements for certain renewable energy systems.
 ```
 
 </details>

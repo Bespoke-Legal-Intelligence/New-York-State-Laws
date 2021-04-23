@@ -35,12 +35,17 @@ sale, conveyance or other disposition of the shares of stock in a
 cooperative housing corporation is a principal residence of the seller
 or transferor within the meaning of section 121 of the Internal Revenue
 Code;
-  (d) A recording officer shall not record or accept for record any deed
-unless accompanied by a form prescribed by the commissioner pursuant to
-subsection (b) of this section and the payment of any estimated tax
-shown as payable on such form, or unless such form includes a
-certification by the transferor that this section is inapplicable to the
-sale or transfer.
+  (d) A recording officer shall not record or accept for recording any
+deed unless one of the following conditions is satisfied:
+  (1) it is accompanied by a receipt issued by the commissioner
+indicating that the estimated tax required by this section has been paid
+to the commissioner either electronically or as otherwise prescribed by
+him or her;
+  (2) it is accompanied by a form prescribed by the commissioner
+pursuant to subsection (b) of this section and the payment of any
+estimated tax shown as payable on such form; or
+  (3) such receipt or form includes a certification by the transferor
+that this section is inapplicable to the sale or transfer.
   (e) Every recording officer shall act as an agent of the commissioner
 for purposes of collecting the estimated personal income tax, if any,
 shown to be payable upon the form prescribed pursuant to subsection (b)

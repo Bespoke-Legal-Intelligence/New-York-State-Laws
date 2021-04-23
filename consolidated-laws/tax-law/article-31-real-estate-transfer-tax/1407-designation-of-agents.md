@@ -33,37 +33,50 @@ county (other than the counties comprising New York city) and New York
 city shall pay all expenses occasioned by the duties of their respective
 recording officers to collect the tax imposed by this article, including
 any expense for extra clerks.
-  (c) Every recording officer designated to act as such agent shall
-retain, from the real estate transfer tax which he collects, the sum of
-one dollar for each of the first five thousand conveyances accepted for
-recording and for which he has issued a documentary stamp or metering
-machine stamp or upon which instrument effecting the conveyance he has
-noted payment of the tax or that no tax is due, pursuant to any other
-method for payment of the tax provided for in the regulations of the
-commissioner of taxation and finance, during each annual period
-commencing on the first day of August and ending on the next succeeding
-thirty-first day of July and seventy-five cents for each conveyance in
-excess of five thousand accepted for recording and for which he has
-issued such a stamp or upon which instrument effecting the conveyance he
-has noted payment of the tax or that no tax is due, pursuant to such
-other method, during such annual period. Such fee shall be payable even
-though the stamp issued or such notation shows that no tax is due. Such
-a fee paid to the register of the city of New York shall belong to the
-city of New York and such a fee paid to a recording officer of a county
-outside such city shall belong to such officer's county. With respect to
-any other agents designated to act pursuant to subdivision (a) of this
-section, the commissioner of taxation and finance shall have the power
-to provide, at his discretion, for payment of a fee to such agent, in
-such manner and amount and subject to such limitations as he may
-determine, but any such fee for any annual period shall not be greater
-than the sum of one dollar for each of the first five thousand
+  (c) 1. When a recording officer designated to act as such agent is
+presented with a conveyance for recording that is accompanied by a
+receipt issued by the commissioner pursuant to subdivision (c) of
+section fourteen hundred twenty-three of this article, such recording
+officer shall be relieved of the responsibility to collect the real
+estate transfer tax thereon. He or she shall nonetheless be entitled to
+the portion of such tax that he or she would otherwise have retained
+pursuant to this subdivision, as provided by subdivision (b) of section
+fourteen hundred twenty-three of the tax law.
+  2. When a recording officer is presented with a conveyance for
+recording that is not accompanied by a receipt described in paragraph
+one of this subdivision, he or she shall collect the applicable real
+estate transfer tax and shall retain, from the real estate transfer tax
+which he or she collects, the sum of one dollar for each of the first
+five thousand conveyances accepted for recording and for which he or she
+has issued a documentary stamp or metering machine stamp or upon which
+instrument effecting the conveyance he or she has noted payment of the
+tax or that no tax is due, pursuant to any other method for payment of
+the tax provided for in the regulations of the commissioner of taxation
+and finance, during each annual period commencing on the first day of
+August and ending on the next succeeding thirty-first day of July and
+seventy-five cents for each conveyance in excess of five thousand
+accepted for recording and for which he or she has issued such a stamp
+or upon which instrument effecting the conveyance he or she has noted
+payment of the tax or that no tax is due, pursuant to such other method,
+during such annual period. Such fee shall be payable even though the
+stamp issued or such notation shows that no tax is due. Such a fee paid
+to the register of the city of New York shall belong to the city of New
+York and such a fee paid to a recording officer of a county outside such
+city shall belong to such officer's county. With respect to any other
+agents designated to act pursuant to subdivision (a) of this section,
+the commissioner of taxation and finance shall have the power to
+provide, at his or her discretion, for payment of a fee to such agent,
+in such manner and amount and subject to such limitations as he or she
+may determine, but any such fee for any annual period shall not be
+greater than the sum of one dollar for each of the first five thousand
 conveyances for which such agent has issued a documentary stamp or
 metering machine stamp or upon which instrument effecting the conveyance
-he has noted payment of the tax or that no tax is due, pursuant to any
-other method for payment of the tax provided for in the regulations of
-the commissioner of taxation and finance, during such annual period and
-seventy-five cents for each conveyance in excess of five thousand for
-which such agent has issued such a stamp or upon which instrument
-effecting the conveyance such agent has noted payment of the tax or that
-no tax is due, pursuant to such other method, during such annual period.
+he or she has noted payment of the tax or that no tax is due, pursuant
+to any other method for payment of the tax provided for in the
+regulations of the commissioner of taxation and finance, during such
+annual period and seventy-five cents for each conveyance in excess of
+five thousand for which such agent has issued such a stamp or upon which
+instrument effecting the conveyance such agent has noted payment of the
+tax or that no tax is due, pursuant to such other method, during such
+annual period.
 ```

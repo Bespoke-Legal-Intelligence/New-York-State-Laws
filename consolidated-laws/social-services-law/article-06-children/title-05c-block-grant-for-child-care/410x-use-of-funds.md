@@ -91,8 +91,16 @@ caretaker relatives; or through such other arrangement as the department
 finds appropriate. Such regulations shall require the use of at least
 one method by which child care arranged by the parent or caretaker
 relative can be paid.
-  6. Pursuant to department regulations, child care assistance shall be
-provided on a sliding fee basis based upon the family's ability to pay.
+  * 6. Pursuant to department regulations, child care assistance shall
+be provided on a sliding fee basis based upon the family's ability to
+pay; provided, however, that a family receiving assistance pursuant to
+this title shall not be required to contribute more than ten percent of
+their income exceeding the federal poverty level.
+  * NB Effective until April 16, 2024
+  * 6. Pursuant to department regulations, child care assistance shall
+be provided on a sliding fee basis based upon the family's ability to
+pay.
+  * NB Effective April 16, 2024
   7. A social services district may suspend the eligibility of a
 provider who is not required to be licensed or registered under section
 three hundred ninety of this article to provide child care assistance

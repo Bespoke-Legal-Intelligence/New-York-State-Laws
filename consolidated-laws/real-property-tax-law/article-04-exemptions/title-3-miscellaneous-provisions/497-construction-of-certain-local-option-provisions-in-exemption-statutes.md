@@ -1,0 +1,33 @@
+﻿<!-- nyslaw {"citation": "Real Property Tax Law § 497", "kind": "section", "law_id": "RPT", "location_id": "497", "path": "ARTICLE 4 › TITLE 3 › SECTION 497", "repealed": false, "repealed_date": null, "source": "nys-laws:RPT/497.md", "title": "Construction of certain local option provisions in exemption statutes"} -->
+# Real Property Tax Law § 497 — Construction of certain local option provisions in exemption statutes
+
+[Real Property Tax Law](../../README.md) › [Article 4 — Exemptions](../README.md) › [Title 3 — Miscellaneous Provisions](README.md)
+
+```text
+  § 497. Construction of certain local option provisions in exemption
+statutes. 1. Population restrictions. When an exemption statute makes
+one or more options available to municipal corporations having a
+population within a specified range, and the governing body of a
+municipal corporation adopts a local law or resolution exercising such
+an option while its population is within the specified range, a
+subsequent change in the population of the municipal corporation that
+places it outside the specified range shall not render such local law or
+resolution ineffective or invalid, nor shall it impair the ability of
+the governing body to amend or repeal such local law or resolution to
+the same extent as if its population were still within the specified
+range. Provided, however, that this subdivision shall not apply to any
+exemption statute that expressly provides that a local law or resolution
+adopted thereunder shall become ineffective or invalid if the population
+of the municipal corporation subsequently experiences a change that
+places it outside the specified range.
+  2. Filing provisions. When an exemption statute makes one or more
+options available to some or all municipal corporations, and further
+provides that a municipal corporation adopting a local law or resolution
+exercising such an option shall file a copy thereof with one or more
+state agencies other than the department of state, but if such statute
+does not expressly provide that a local law or resolution exercising
+such an option shall not take effect until a copy thereof is filed with
+the specified state agency or agencies, then a failure to comply with
+such filing provision shall not render such local law or resolution
+ineffective or invalid.
+```

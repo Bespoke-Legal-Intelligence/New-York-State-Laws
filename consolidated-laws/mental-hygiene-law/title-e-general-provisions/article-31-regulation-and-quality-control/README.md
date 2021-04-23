@@ -32,6 +32,7 @@
 - [§ 31.31 Improper expenditure of moneys](31.31-improper-expenditure-of-moneys.md)
 - [§ 31.33 Mental health special needs plans](31.33-mental-health-special-needs-plans.md)
 - [§ 31.35 Review of criminal history information concerning certain prospective employees](31.35-review-of-criminal-history-information-concerning-certain.md)
+- [§ 31.36 Crisis stabilization services](31.36-crisis-stabilization-services.md)
 - [§ 31.37 Mental health incident review panels](31.37-mental-health-incident-review-panels.md)
 
 <details>
@@ -76,6 +77,7 @@ Section 31.01  Evaluation of services for the mentally disabled.
         31.33  Mental health special needs plans.
         31.35  Review of criminal history information concerning certain
                  prospective employees.
+        31.36  Crisis stabilization services.
         31.37  Mental health incident review panels.
 ```
 

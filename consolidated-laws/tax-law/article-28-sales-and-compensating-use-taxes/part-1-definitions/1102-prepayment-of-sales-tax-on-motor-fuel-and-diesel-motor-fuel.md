@@ -28,7 +28,7 @@ filling station for such E85 to be dispensed directly into a motor
 vehicle for use in the operation of such vehicle, and except aviation
 gasoline sold for use in commercial aircraft and general aviation
 aircraft.
-  * NB Effective until September 1, 2021
+  * NB Effective until September 1, 2026
   * (1) Every distributor of motor fuel shall pay, as a prepayment on
 account of the taxes imposed by this article and pursuant to the
 authority of article twenty-nine of this chapter, a tax on each gallon
@@ -48,7 +48,7 @@ paragraph four of such subdivision for its own use and consumption and
 except kero-jet fuel when imported by an airline for use in its
 airplanes, and except aviation gasoline sold for use in commercial
 aircraft and general aviation aircraft.
-  * NB Effective September 1, 2021
+  * NB Effective September 1, 2026
   * (2) Every distributor of diesel motor fuel shall pay, as a
 prepayment on account of the taxes imposed by this article and pursuant
 to the authority of article twenty-nine of this chapter, a tax upon the
@@ -90,7 +90,7 @@ chapter, or (B) within such a terminal where it has been so delivered.
 Provided, however, that the exemption set forth in this subparagraph
 shall not apply to any highway diesel motor fuel if it is removed from a
 terminal, other than by pipeline, barge, tanker or other vessel.
-  * NB Effective until September 1, 2021
+  * NB Effective until September 1, 2026
   * (2) Every distributor of diesel motor fuel shall pay, as a
 prepayment on account of the taxes imposed by this article and pursuant
 to the authority of article twenty-nine of this chapter, a tax upon the
@@ -132,7 +132,7 @@ where it has been so delivered. Provided, however, that the exemption
 set forth in this subparagraph shall not apply to any highway diesel
 motor fuel once it is removed from a terminal, other than by pipeline,
 barge, tanker or other vessel.
-  * NB Effective September 1, 2021
+  * NB Effective September 1, 2026
   (3) The amount of such prepayment per gallon shall be computed
 pursuant to the provisions of subdivision (e) of section eleven hundred
 eleven of this article. Provided, further, no motor fuel or diesel motor

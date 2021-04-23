@@ -15,7 +15,7 @@
 - [§ 421-C Exemption of certain new multiple dwellings from local taxation](421c-exemption-of-certain-new-multiple-dwellings-from-local-taxation.md)
 - [§ 421-D Exemption of multiple dwellings financed by the New York state housing finance agency from local taxation](421d-exemption-of-multiple-dwellings-financed-by-the-new-york-state-housing-finance.md)
 - [§ 421-E Exemption of cooperative, condominium, homesteading and rental projects from local taxation](421e-exemption-of-cooperative-condominium-homesteading-and-rental-projects-from-local.md)
-- [§ 421-F Exemption of capital improvements to residential buildings](421f-exemption-of-capital-improvements-to-residential-buildings.md)
+- [§ 421-F Exemption of capital improvements to residential buildings and certain new construction](421f-exemption-of-capital-improvements-to-residential-buildings-and-certain-new.md)
 - [§ 421-FF Exemption of capital improvements to residential buildings in cities with a population between twenty-seven thousand five hundred and twe...](421ff-exemption-of-capital-improvements-to-residential-buildings-in-cities.md)
 - [§ 421-G Exemption from local taxation of certain multiple dwellings](421g-exemption-from-local-taxation-of-certain-multiple-dwellings.md)
 - [§ 421-H Exemption of capital improvements to multiple dwelling buildings within certain cities](421h-exemption-of-capital-improvements-to-multiple-dwelling-buildings-within-certain.md)

@@ -3,14 +3,10 @@
 
 [Labor Law](../README.md)
 
-*An asterisk in a number (for example Article 24\* or § 20-C\*2) is the Senate's mark for a number the Legislature has used more than once: the marked article or section is a different one from the unmarked one with the same number. \*2 means the second one enacted with that number.*
-
 ## Contents
 
 - [§ 230 Definitions](230-definitions.md)
 - [§ 231 Prevailing wage](231-prevailing-wage.md)
-- [§ 231-A Prevailing wage in the case of certain nuclear power plants](231a-prevailing-wage-in-the-case-of-certain-nuclear-power-plants.md) *(repealed)*
-- [§ 231-A\*2 Prevailing wage for covered airport workers](231a-2-prevailing-wage-for-covered-airport-workers.md) *(repealed)*
 - [§ 232 Overtime](232-overtime.md)
 - [§ 233 Record keeping](233-record-keeping.md)
 - [§ 234 Powers of the fiscal officer](234-powers-of-the-fiscal-officer.md)

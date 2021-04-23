@@ -127,5 +127,5 @@ the cost of tuition.
   10. The tuition benefit provided by this section shall be effective
 beginning with the school semester or quarter following its enactment
 into law.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2026
 ```

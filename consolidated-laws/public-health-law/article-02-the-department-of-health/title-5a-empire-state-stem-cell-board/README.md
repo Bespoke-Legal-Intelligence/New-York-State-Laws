@@ -17,7 +17,7 @@
 <summary>Official heading of Title 5-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                                TITLE 5-A
+                               * TITLE 5-A
                       EMPIRE STATE STEM CELL BOARD
 Section 265.   Definition.
         265-a. Empire state stem cell board.
@@ -26,6 +26,7 @@ Section 265.   Definition.
         265-d. Members.
         265-e. Public and financial accountability standards.
         265-f. Severability.
+  * NB Repealed December 31, 2025
 ```
 
 </details>

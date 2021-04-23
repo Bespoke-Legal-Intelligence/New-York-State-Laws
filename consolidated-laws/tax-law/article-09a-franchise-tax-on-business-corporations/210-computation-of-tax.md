@@ -28,24 +28,29 @@ reason of the application of the rate applicable to small business
 taxpayers, then with respect to such taxpayer the tax referred to in the
 previous sentence shall be higher of the amounts prescribed in
 paragraphs (a) and (d) of this subdivision.
-  (a) Business income base. For taxable years beginning before January
+  (a) Business income base.  For taxable years beginning before January
 first, two thousand sixteen, the amount prescribed by this paragraph
 shall be computed at the rate of seven and one-tenth percent of the
 taxpayer's business income base. For taxable years beginning on or after
 January first, two thousand sixteen, the amount prescribed by this
 paragraph shall be six and one-half percent of the taxpayer's business
-income base. The taxpayer's business income base shall mean the portion
-of the taxpayer's business income apportioned within the state as
-hereinafter provided. However, in the case of a small business taxpayer,
-as defined in paragraph (f) of this subdivision, the amount prescribed
-by this paragraph shall be computed pursuant to subparagraph (iv) of
-this paragraph and in the case of a manufacturer, as defined in
-subparagraph (vi) of this paragraph, the amount prescribed by this
-paragraph shall be computed pursuant to subparagraph (vi) of this
-paragraph, and, in the case of a qualified emerging technology company,
-as defined in subparagraph (vii) of this paragraph, the amount
-prescribed by this paragraph shall be computed pursuant to subparagraph
-(vii) of this paragraph.
+income base. For taxable years beginning on or after January first, two
+thousand twenty-one and before January first, two thousand twenty-four
+for any taxpayer with a business income base for the taxable year of
+more than five million dollars, the amount prescribed by this paragraph
+shall be seven and one-quarter percent of the taxpayer's business income
+base. The taxpayer's business income base shall mean the portion of the
+taxpayer's business income apportioned within the state as hereinafter
+provided. However, in the case of a small business taxpayer, as defined
+in paragraph (f) of this subdivision, the amount prescribed by this
+paragraph shall be computed pursuant to subparagraph (iv) of this
+paragraph and in the case of a manufacturer, as defined in subparagraph
+(vi) of this paragraph, the amount prescribed by this paragraph shall be
+computed pursuant to subparagraph (vi) of this paragraph, and, in the
+case of a qualified emerging technology company, as defined in
+subparagraph (vii) of this paragraph, the amount prescribed by this
+paragraph shall be computed pursuant to subparagraph (vii) of this
+paragraph.
   (iv) for taxable years beginning before January first, two thousand
 sixteen, if the business income base is not more than two hundred ninety
 thousand dollars the amount shall be six and one-half percent of the
@@ -287,43 +292,49 @@ election is to be in effect. Once an election is made for a taxable
 year, it shall be irrevocable for that taxable year. A separate election
 must be made for each loss year. This election applies to all members of
 a combined group.
-  (b) Capital base. (1) (i) The amount prescribed by this paragraph
+  (b) Capital base.  (1) (i) The amount prescribed by this paragraph
 shall be computed at .15 percent for each dollar of the taxpayer's total
 business capital, or the portion thereof apportioned within the state as
 hereinafter provided for taxable years beginning before January first,
-two thousand sixteen. However, in the case of a cooperative housing
+two thousand sixteen.  However, in the case of a cooperative housing
 corporation as defined in the internal revenue code, the applicable rate
 shall be .04 percent until taxable years beginning on or after January
-first, two thousand twenty. The rate of tax for subsequent tax years
-shall be as follows: .125 percent for taxable years beginning on or
-after January first, two thousand sixteen and before January first, two
-thousand seventeen; .100 percent for taxable years beginning on or after
-January first, two thousand seventeen and before January first, two
-thousand eighteen; .075 percent for taxable years beginning on or after
-January first, two thousand eighteen and before January first, two
-thousand nineteen; .050 percent for taxable years beginning on or after
-January first, two thousand nineteen and before January first, two
-thousand twenty; .025 percent for taxable years beginning on or after
-January first, two thousand twenty and before January first, two
-thousand twenty-one; and zero percent for years beginning on or after
-January first, two thousand twenty-one. The rate of tax for a qualified
-New York manufacturer shall be .132 percent for taxable years beginning
-on or after January first, two thousand fifteen and before January
-first, two thousand sixteen, .106 percent for taxable years beginning on
-or after January first, two thousand sixteen and before January first,
-two thousand seventeen, .085 percent for taxable years beginning on or
-after January first, two thousand seventeen and before January first,
-two thousand eighteen; .056 percent for taxable years beginning on or
-after January first, two thousand eighteen and before January first, two
-thousand nineteen; .038 percent for taxable years beginning on or after
-January first, two thousand nineteen and before January first, thousand
-twenty; .019 percent for taxable years beginning on or after January
-first, two thousand twenty and before January first, two thousand
-twenty-one; and zero percent for years beginning on or after January
-first, two thousand twenty-one. (ii) In no event shall the amount
-prescribed by this paragraph exceed three hundred fifty thousand dollars
-for qualified New York manufacturers and for all other taxpayers five
-million dollars.
+first, two thousand twenty and zero percent for taxable years beginning
+on or after January first, two thousand twenty-one. The rate of tax for
+subsequent tax years shall be as follows: .125 percent for taxable years
+beginning on or after January first, two thousand sixteen and before
+January first, two thousand seventeen; .100 percent for taxable years
+beginning on or after January first, two thousand seventeen and before
+January first, two thousand eighteen; .075 percent for taxable years
+beginning on or after January first, two thousand eighteen and before
+January first, two thousand nineteen; .050 percent for taxable years
+beginning on or after January first, two thousand nineteen and before
+January first, two thousand twenty; .025 percent for taxable years
+beginning on or after January first, two thousand twenty and before
+January first, two thousand twenty-one; and .1875 percent for years
+beginning on or after January first, two thousand twenty-one and before
+January first, two thousand twenty-four, and zero percent for taxable
+years beginning on or after January first, two thousand twenty-four.
+Provided however, for taxable years beginning on or after January first,
+two thousand twenty-one, the rate of tax for a small business as defined
+in paragraph (f) of this subdivision shall be zero percent. The rate of
+tax for a qualified New York manufacturer shall be .132 percent for
+taxable years beginning on or after January first, two thousand fifteen
+and before January first, two thousand sixteen, .106 percent for taxable
+years beginning on or after January first, two thousand sixteen and
+before January first, two thousand seventeen, .085 percent for taxable
+years beginning on or after January first, two thousand seventeen and
+before January first, two thousand eighteen; .056 percent for taxable
+years beginning on or after January first, two thousand eighteen and
+before January first, two thousand nineteen; .038 percent for taxable
+years beginning on or after January first, two thousand nineteen and
+before January first, two thousand twenty; .019 percent for taxable
+years beginning on or after January first, two thousand twenty and
+before January first, two thousand twenty-one; and zero percent for
+years beginning on or after January first, two thousand twenty-one. (ii)
+In no event shall the amount prescribed by this paragraph exceed three
+hundred fifty thousand dollars for qualified New York manufacturers and
+for all other taxpayers five million dollars.
   (2) For purposes of subparagraph one of this paragraph, the term
 "manufacturer" shall mean a taxpayer that during the taxable year is
 principally engaged in the production of goods by manufacturing,

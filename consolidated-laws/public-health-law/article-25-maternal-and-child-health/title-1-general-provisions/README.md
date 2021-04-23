@@ -34,6 +34,7 @@
 - [§ 2509 Maternal mortality review board](2509-maternal-mortality-review-board.md)
 - [§ 2509-A Corded window blind leaflet](2509a-corded-window-blind-leaflet.md)
 - [§ 2509-B Pre-term labor care](2509b-pre-term-labor-care.md)
+- [§ 2509-C Availability of adverse childhood experiences services](2509c-availability-of-adverse-childhood-experiences-services.md)
 
 <details>
 <summary>Official heading of Title 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -77,6 +78,8 @@ Section 2500.     Maternal and child health; duties of commissioner.
         2509.     Maternal mortality review board.
         2509-a.   Corded window blind leaflet.
         2509-b.   Pre-term labor care.
+        2509-c.   Availability of adverse childhood experiences
+                    services.
 ```
 
 </details>

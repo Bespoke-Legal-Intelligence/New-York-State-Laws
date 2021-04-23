@@ -11,6 +11,7 @@
 - [§ 304 Statutory designation of secretary of state as agent of domestic corporations formed under article four of this chapter and authorized fo...](304-statutory-designation-of-secretary-of-state-as-agent-of-domestic.md)
 - [§ 305 Registered agent for service of process](305-registered-agent-for-service-of-process.md)
 - [§ 306 Service of process](306-service-of-process.md)
+- [§ 306-A Electronic service of process](306a-electronic-service-of-process.md)
 - [§ 307 Service of process on unauthorized foreign corporation](307-service-of-process-on-unauthorized-foreign-corporation.md)
 - [§ 308 Records and certificates of department of state](308-records-and-certificates-of-department-of-state.md)
 - [§ 309 Personal jurisdiction and service of process on non-domiciliary resident director, officer, key person or agent](309-personal-jurisdiction-and-service-of-process-on-non-domiciliary-resident.md)
@@ -21,20 +22,21 @@
 ```text
                                 ARTICLE 3
                   CORPORATE NAME AND SERVICE OF PROCESS
-Section 301. Corporate name; general.
-        302. Corporate name; exceptions.
-        303. Reservation of name.
-        304. Statutory designation of secretary of state as agent of
-               domestic corporations formed under article four of this
-               chapter and authorized foreign corporations for service
-               of process.
-        305. Registered agent for service of process.
-        306. Service of process.
-        307. Service of process on unauthorized foreign corporation.
-        308. Records and certificates of department of state.
-        309. Personal jurisdiction and service of process on
-               non-domiciliary resident director, officer, key employee
-               or agent.
+Section 301.   Corporate name; general.
+        302.   Corporate name; exceptions.
+        303.   Reservation of name.
+        304.   Statutory designation of secretary of state as agent of
+                 domestic corporations formed under article four of this
+                 chapter and authorized foreign corporations for service
+                 of process.
+        305.   Registered agent for service of process.
+        306.   Service of process.
+        306-a. Electronic service of process.
+        307.   Service of process on unauthorized foreign corporation.
+        308.   Records and certificates of department of state.
+        309.   Personal jurisdiction and service of process on
+                 non-domiciliary resident director, officer, key
+                 employee or agent.
 ```
 
 </details>

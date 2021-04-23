@@ -4,7 +4,7 @@
 [Tax Law](../../README.md) › [Article 28 — Sales and Compensating Use Taxes](../README.md) › [Part 4 — Administrative Provisions](README.md)
 
 ```text
-  § 1146. Returns to be secret. (a) Except in accordance with proper
+  § 1146. Returns to be secret. * (a) Except in accordance with proper
 judicial order or as otherwise provided by law, it shall be unlawful for
 the tax commission, any tax commissioner, any officer or employee of the
 department of taxation and finance, any person engaged or retained by
@@ -64,6 +64,71 @@ the tax commission has refused to issue a certificate of authority,
 those persons holding direct payment permits pursuant to section eleven
 hundred thirty-two or those persons whose direct payment permits have
 been suspended or revoked by the tax commission.
+  * NB Effective until November 1, 2021
+  * (a) Except in accordance with proper judicial order or as otherwise
+provided by law, it shall be unlawful for the commissioner, any officer
+or employee of the department of taxation and finance, any person
+engaged or retained by such department on an independent contract basis,
+or any person who in any manner may acquire knowledge of the contents of
+a return or report filed with the commissioner pursuant to this article,
+to divulge or make known in any manner any particulars set forth or
+disclosed in any such return or report. The officers charged with the
+custody of such returns and reports shall not be required to produce any
+of them or evidence of anything contained in them in any action or
+proceeding in any court, except on behalf of the commissioner in an
+action or proceeding under the provisions of the tax law or in any other
+action or proceeding involving the collection of a tax due under this
+chapter to which the state or the commissioner is a party or a claimant,
+or on behalf of any party to any action, proceeding or hearing under the
+provisions of this article when the returns, reports or facts shown
+thereby are directly involved in such action, proceeding or hearing, in
+any of which events the court, or in the case of a hearing, the
+commissioner may require the production of, and may admit into evidence,
+so much of said returns, reports or of the facts shown thereby, as are
+pertinent to the action, proceeding or hearing and no more. The
+commissioner may, nevertheless, publish a copy or a summary of any
+decision rendered after a hearing required by this article. Nothing
+herein shall be construed to prohibit the delivery to a person who has
+filed a return or report or his duly authorized representative of a
+certified copy of any return or report filed in connection with his tax.
+Nor shall anything herein be construed to prohibit the delivery to a
+person required to collect the tax under this article or a purchaser,
+transferee or assignee personally liable under the provisions of
+subdivision (c) of section eleven hundred forty-one of this chapter for
+the tax due from the seller, transferor or assignor, of any return or
+report filed under this article in connection with such tax provided,
+however, that there may be delivered only so much of said return, report
+or of the facts shown thereby as are pertinent to a determination of the
+taxes due or liability owed by such person or purchaser, transferee or
+assignee and no more or to prohibit the publication of statistics so
+classified as to prevent the identification of particular returns or
+reports and the items thereof, or the inspection by the attorney general
+or other legal representatives of the state of the return or report of
+any person required to collect or pay the tax who shall bring action to
+review the tax based thereon, or against whom an action or proceeding
+under this chapter has been recommended by the commissioner of taxation
+and finance or the attorney general or has been instituted, or the
+inspection of the returns or reports required under this article by the
+comptroller or duly designated officer or employee of the state
+department of audit and control, for purposes of the audit of a refund
+of any tax paid by a person required to collect or pay the tax under
+this article. Provided, further, nothing herein shall be construed to
+prohibit the disclosure, in such manner as the commissioner deems
+appropriate, of the names and other appropriate identifying information
+of those persons holding certificates of authority pursuant to section
+eleven hundred thirty-four of this article, those persons whose
+certificates of authority have been suspended or revoked, those persons
+whose certificates of authority have expired, those persons who have
+filed a certificate of registration for a certificate of authority where
+the commissioner has refused to issue a certificate of authority, those
+persons holding direct payment permits pursuant to section eleven
+hundred thirty-two or those persons whose direct payment permits have
+been suspended or revoked by the commissioner; and provided further that
+nothing herein shall be construed to prohibit the disclosure, in such
+manner as the commissioner deems appropriate, of information related to
+the tax on admissions to race tracks and simulcast facilities to the
+gaming commission or the division of the budget.
+  * NB Effective November 1, 2021
   (b) Notwithstanding the provisions of subdivision (a) of this section,
 the tax commission may, in its discretion, permit the proper officer of
 any city, county or school district imposing any tax authorized by

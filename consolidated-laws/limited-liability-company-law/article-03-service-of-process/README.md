@@ -7,6 +7,7 @@
 
 - [§ 301 Statutory designation of secretary of state as agent for service of process](301-statutory-designation-of-secretary-of-state-as-agent-for-service-of-process.md)
 - [§ 301-A Resignation for receipt of process](301a-resignation-for-receipt-of-process.md)
+- [§ 301-B Electronic service of process](301b-electronic-service-of-process.md)
 - [§ 302 Registered agent for service of process](302-registered-agent-for-service-of-process.md)
 - [§ 303 Service of process on limited liability companies](303-service-of-process-on-limited-liability-companies.md)
 - [§ 304 Service of process on unauthorized foreign limited liability companies](304-service-of-process-on-unauthorized-foreign-limited-liability-companies.md)
@@ -21,6 +22,7 @@
 Section 301.   Statutory designation of secretary of state as agent for
                  service of process.
         301-A. Resignation for receipt of process.
+        301-b. Electronic service of process.
         302.   Registered agent for service of process.
         303.   Service of process on limited liability companies.
         304.   Service of process on unauthorized foreign limited

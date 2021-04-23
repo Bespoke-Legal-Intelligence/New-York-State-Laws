@@ -52,26 +52,31 @@ for any joint, multi-jurisdiction, out-of-state video lottery gaming; or
 for games known as: (A) the "Daily Numbers Game" or "Win 4", discrete
 games in which the participants select no more than three or four of
 their own numbers to match with three or four numbers drawn by the
-division for purposes of determining winners of such games, (B) "Pick
-10", offered no more than once daily, in which participants select from
+commission for purposes of determining winners of such games, (B) "Pick
+10", offered no more than twice daily, in which participants select from
 a specified field of numbers a subset of ten numbers to match against a
-subset of numbers to be drawn by the division from such field of numbers
-for the purpose of determining winners of such game, (C) "Take 5",
-offered no more than once daily, in which participants select from a
-specified field of numbers a subset of five numbers to match against a
-subset of five numbers to be drawn by the division from such field of
+subset of numbers to be drawn by the commission from such field of
+numbers for the purpose of determining winners of such game, (C) "Take
+5", offered no more than twice daily, in which participants select from
+a specified field of numbers a subset of five numbers to match against a
+subset of five numbers to be drawn by the commission from such field of
 numbers for purposes of determining winners of such game; or
   (5) forty percent of the total amount for which tickets have been sold
-for: (A) "Lotto", offered no more than once daily, a discrete game in
+for: (A) "Lotto", offered no more than twice daily, a discrete game in
 which all participants select a specific subset of numbers to match a
 specific subset of numbers, as prescribed by rules and regulations
-promulgated and adopted by the division, from a larger specific field of
-numbers, as also prescribed by such rules and regulations and (B) with
-the exception of the game described in paragraph one of this
-subdivision, such other state-operated lottery games which the division
-may introduce, offered no more than once daily, commencing on or after
+promulgated and adopted by the commission, from a larger specific field
+of numbers, as also prescribed by such rules and regulations and (B)
+with the exception of the game described in paragraph one of this
+subdivision, such other state-operated lottery games that the commission
+may introduce, offered no more than twice daily, commencing on or after
 forty-five days following the official publication of the rules and
 regulations for such game.
+  (6) the commission shall make a report on the revenues derived from
+the additional lottery drawings pursuant to paragraphs four and five of
+this subdivision and shall submit such report to the governor, the
+speaker of the assembly, and the temporary president of the senate by
+the first day of March two thousand twenty-two.
   The moneys in the lottery prize account shall be paid out of such
 account on the audit and warrant of the comptroller on vouchers
 certified or approved by the director or his or her duly designated

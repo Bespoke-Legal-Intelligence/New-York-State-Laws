@@ -4,21 +4,22 @@
 [Tax Law](../README.md) › [Article 31 — Real Estate Transfer Tax](README.md)
 
 ```text
-  § 1409. Returns. (a) A joint return shall be filed by both the grantor
-and the grantee for each conveyance whether or not a tax is due thereon
-other than a conveyance of an easement or license to a public utility as
-defined in subdivision two of section one hundred eighty-six-a of this
-chapter or to a public utility which is a provider of telecommunication
-services as defined in subdivision one of section one hundred
-eighty-six-e of this chapter, where the consideration is two dollars or
-less and is clearly stated as actual consideration in the instrument of
-conveyance. When the grantor or grantee of a deed for residential real
-property containing one- to four-family dwelling units is a limited
-liability company, the joint return shall not be accepted for filing
-unless it is accompanied by a document which identifies the names and
-business addresses of all members, managers, and any other authorized
-persons, if any, of such limited liability company and the names and
-business addresses or, if none, the business addresses of all
+  § 1409. Returns. (a) (1) A joint return shall be filed by both the
+grantor and the grantee for each conveyance whether or not a tax is due
+thereon other than a conveyance of an easement or license to a public
+utility as defined in subdivision two of section one hundred
+eighty-six-a of this chapter or to a public utility which is a provider
+of telecommunication services as defined in subdivision one of section
+one hundred eighty-six-e of this chapter, where the consideration is two
+dollars or less and is clearly stated as actual consideration in the
+instrument of conveyance.
+  (2) When the grantor or grantee of a deed for a building used as
+residential real property containing up to four family dwelling units is
+a limited liability company, the joint return shall not be accepted for
+filing unless it is accompanied by a document which identifies the names
+and business addresses of all members, managers, and any other
+authorized persons, if any, of such limited liability company and the
+names and business addresses or, if none, the business addresses of all
 shareholders, directors, officers, members, managers and partners of any
 limited liability company or other business entity that are to be the
 members, managers or authorized persons, if any, of such limited
@@ -26,32 +27,35 @@ liability company. The identification of such names and addresses shall
 not be deemed an unwarranted invasion of personal privacy pursuant to
 article six of the public officers law. If any such member, manager or
 authorized person of the limited liability company is itself a limited
-liability company or other business entity, the names and addresses of
+liability company or other business entity other than a publicly traded
+entity, a REIT, a UPREIT, or a mutual fund, the names and addresses of
 the shareholders, directors, officers, members, managers and partners of
 the limited liability company or other business entity shall also be
 disclosed until full disclosure of ultimate ownership by natural persons
 is achieved. For purposes of this subdivision, the terms "members",
 "managers", "authorized person", "limited liability company" and "other
 business entity" shall have the same meaning as those terms are defined
-in section one hundred two of the limited liability company law. The
-return shall be filed with the recording officer before the instrument
-effecting the conveyance may be recorded. However, if the tax is paid to
-the commissioner pursuant to section fourteen hundred ten of this
-article, the return shall be filed with such commissioner at the time
-the tax is paid. In that instance, a receipt evidencing the filing of
-the return and the payment of tax shall be filed with the recording
+in section one hundred two of the limited liability company law.
+  (3) The return shall be filed with the recording officer before the
+instrument effecting the conveyance may be recorded. However, if the tax
+is paid to the commissioner pursuant to section fourteen hundred ten of
+this article, the return shall be filed with such commissioner at the
+time the tax is paid. In that instance, a receipt evidencing the filing
+of the return and the payment of tax shall be filed with the recording
 officer before the instrument effecting the conveyance may be recorded.
 The recording officer shall handle such receipt in the same manner as a
 return filed with the recording officer.
-  (b) The return shall be signed by both the grantor and the grantee.
-Where a conveyance has more than one grantor or more than one grantee,
-the return shall be signed by all of such grantors and grantees. Where
-any or all of the grantors or any or all of the grantees have failed to
-sign a return, it shall be accepted as a return if signed by any one of
-the grantors or by any one of the grantees. Provided, however, those not
-signing the return shall not be relieved of any liability for the tax
-imposed by this article and the period of limitations for assessment of
-tax or of additional tax shall not apply to any such party.
+  (b) Subject to the provisions of section fourteen hundred twenty-three
+of this article, the return shall be signed by both the grantor and the
+grantee. Where a conveyance has more than one grantor or more than one
+grantee, the return shall be signed by all of such grantors and
+grantees. Where any or all of the grantors or any or all of the grantees
+have failed to sign a return, it shall be accepted as a return if signed
+by any one of the grantors or by any one of the grantees. Provided,
+however, those not signing the return shall not be relieved of any
+liability for the tax imposed by this article and the period of
+limitations for assessment of tax or of additional tax shall not apply
+to any such party.
   (c) Returns shall be preserved for three years and thereafter until
 the commissioner of taxation and finance permits them to be destroyed.
   (d) The commissioner shall prescribe the form of the return, the

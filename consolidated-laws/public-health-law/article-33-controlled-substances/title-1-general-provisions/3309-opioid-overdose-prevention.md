@@ -111,5 +111,5 @@ on reducing overdoses, and ways to further reduce overdoses.
 specified in subdivision five of this section to each county every three
 months. Such information and data may be utilized by a county or any
 combination thereof as it works to address the opioid epidemic.
-  * NB Repealed March 31, 2021
+  * NB Repealed March 31, 2026
 ```

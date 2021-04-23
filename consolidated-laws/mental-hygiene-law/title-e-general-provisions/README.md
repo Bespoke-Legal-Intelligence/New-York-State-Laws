@@ -10,6 +10,7 @@
 - [Article 31 — Regulation and Quality Control of Services For the Mentally Disabled](article-31-regulation-and-quality-control/)
 - [Article 32 — Regulation and Quality Control of Chemical Dependence Services and Compulsive Gambling Services](article-32-regulation-and-quality-control/)
 - [Article 33 — Rights of Patients](article-33-rights-of-patients/)
+- [Article 36 — Addiction and Mental Health Services and Supports](article-36-addiction-and-mental-health-services/)
 - [Article 41 — Local Services](article-41-local-services/)
 - [Article 43 — Fees For Services](article-43-fees-for-services/)
 - [Article 47 — Mental Hygiene Legal Service](article-47-mental-hygiene-legal-service/)
@@ -37,6 +38,7 @@ Article 29 General provisions relating to in-patient facilities
         32 Regulation and quality control of chemical dependence
              services and compulsive gambling services
         33 Rights of patients
+        36 Addiction and mental health services and supports
         41 Local and unified services
         43 Fees for services
         47 Mental hygiene legal service

@@ -16,6 +16,7 @@
 - [§ 574 Information to be furnished by recording officers and assessors](574-information-to-be-furnished-by-recording-officers-and-assessors.md)
 - [§ 575 Assessor's annual reports](575-assessors-annual-reports.md)
 - [§ 575-A Electric generating facility annual reports](575a-electric-generating-facility-annual-reports.md)
+- [§ 575-B Solar or wind energy systems](575b-solar-or-wind-energy-systems.md)
 - [§ 576 Assessment under cooperative agreements](576-assessment-under-cooperative-agreements.md)
 - [§ 578 County assistance under cooperative agreements](578-county-assistance-under-cooperative-agreements.md)
 - [§ 579 Coordinated assessment programs](579-coordinated-assessment-programs.md)
@@ -46,6 +47,7 @@ Section 560.   Abandoned subdivisions.
                  assessors.
         575.   Assessor's annual reports.
         575-a. Electric generating facility annual reports.
+        575-b. Solar or wind energy systems.
         576.   Assessment under cooperative agreements.
         578.   County assistance under cooperative agreements.
         579.   Coordinated assessment programs.

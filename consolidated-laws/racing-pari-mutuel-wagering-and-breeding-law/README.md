@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PML |
 | Type | Consolidated law, chapter 47-A |
-| Sections | 362 |
-| Last changed | 16 Oct 2020 |
+| Sections | 365 |
+| Last changed | 23 Apr 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Racing, Pari-Mutuel Wagering and Breeding Law |
 
@@ -17,7 +17,7 @@
 ```text
                   CHAPTER 47-A OF THE CONSOLIDATED LAWS
               RACING, PARI-MUTUEL WAGERING AND BREEDING LAW
-Article I.    Supervision and regulation. (§§ 101-129)
+Article I.    Supervision and regulation. (§§ 101-135)
         II.   Thoroughbred racing and breeding. (§§ 201-257)
         III.  Harness racing and breeding. (§§ 301-336)
         IV.   Quarter horse racing and breeding. (§§ 401-436)
@@ -29,6 +29,7 @@ Article I.    Supervision and regulation. (§§ 101-129)
 
 ## Recent changes
 
+- [23 Apr 2021](../../changes/2021/2021-04-23.md): 20 amended, 7 added, 4 removed
 - [16 Oct 2020](../../changes/2020/2020-10-16.md): 158 amended
 - [24 Apr 2020](../../changes/2020/2020-04-24.md): 2 amended
 - [17 Apr 2020](../../changes/2020/2020-04-17.md): 13 amended
@@ -38,7 +39,6 @@ Article I.    Supervision and regulation. (§§ 101-129)
 - [11 Oct 2019](../../changes/2019/2019-10-11.md): 1 amended
 - [6 Sep 2019](../../changes/2019/2019-09-06.md): 1 amended
 - [2 Aug 2019](../../changes/2019/2019-08-02.md): 1 amended
-- [19 Apr 2019](../../changes/2019/2019-04-19.md): 19 amended
 
 ## Contents
 

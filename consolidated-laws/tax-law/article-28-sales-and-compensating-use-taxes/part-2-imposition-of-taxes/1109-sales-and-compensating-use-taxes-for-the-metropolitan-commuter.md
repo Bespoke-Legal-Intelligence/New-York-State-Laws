@@ -5,7 +5,7 @@
 
 ```text
   § 1109. Sales and compensating use taxes for the metropolitan commuter
-transportation district. (a) General. In addition to the taxes imposed
+transportation district. * (a) General. In addition to the taxes imposed
 by sections eleven hundred five and eleven hundred ten of this article,
 there is hereby imposed within the territorial limits of the
 metropolitan commuter transportation district created and established
@@ -19,6 +19,23 @@ taxes imposed by this section in the same manner and with the same force
 and effect as if the language of those sections had been incorporated in
 full into this section and had expressly referred to the taxes imposed
 by this section.
+  * NB Effective until November 1, 2021
+  * (a) General. In addition to the taxes imposed by sections eleven
+hundred five and eleven hundred ten of this article, there is hereby
+imposed within the territorial limits of the metropolitan commuter
+transportation district created and established pursuant to section
+twelve hundred sixty-two of the public authorities law, and there shall
+be paid, additional taxes, at the rate of three-eighths of one percent,
+which shall be identical to the taxes imposed by sections eleven hundred
+five and eleven hundred ten of this article. Such sections and the other
+sections of this article, including the definition and exemption
+provisions, shall apply for purposes of the taxes imposed by this
+section in the same manner and with the same force and effect as if the
+language of those sections had been incorporated in full into this
+section and had expressly referred to the taxes imposed by this section.
+Notwithstanding the foregoing, the tax imposed by this section shall not
+apply to admissions to race tracks or simulcast facilities.
+  * NB Effective November 1, 2021
   (b) Transitional provisions. (1) With respect to the one-fourth
 percent rate imposed effective September first, nineteen hundred
 eighty-one, the transitional provisions contained in subdivisions (a),

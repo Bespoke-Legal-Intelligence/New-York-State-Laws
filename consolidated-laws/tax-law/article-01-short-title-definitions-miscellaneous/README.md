@@ -36,6 +36,7 @@
 - [§ 24 Empire state film production credit](24-empire-state-film-production-credit.md)
 - [§ 24-A Musical and theatrical production credit](24a-musical-and-theatrical-production-credit.md)
 - [§ 24-B Television writers' and directors' fees and salaries credit](24b-television-writers-and-directors-fees-and-salaries-credit.md)
+- [§ 24-C New York city musical and theatrical production tax credit](24c-new-york-city-musical-and-theatrical-production-tax-credit.md)
 - [§ 25 Disclosure of certain transactions and related information](25-disclosure-of-certain-transactions-and-related-information.md)
 - [§ 26 Security training tax credit](26-security-training-tax-credit.md)
 - [§ 27 Suspension of tax-exempt status of terrorist organizations](27-suspension-of-tax-exempt-status-of-terrorist-organizations.md)
@@ -64,6 +65,7 @@
 - [§ 43 Life sciences research and development tax credit](43-life-sciences-research-and-development-tax-credit.md)
 - [§ 43\*2 Single member limited liability companies and eligibility for tax credits](43-2-single-member-limited-liability-companies-and-eligibility-for-tax-credits.md)
 - [§ 44 Employer-provided child care credit](44-employer-provided-child-care-credit.md)
+- [§ 46 Restaurant return-to-work tax credit](46-restaurant-return-to-work-tax-credit.md)
 
 <details>
 <summary>Official heading of Article 1, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -113,6 +115,8 @@ Section  1.   Short title.
         24-a. Musical and theatrical production credit.
         24-b. Television writers' and directors' fees and salaries
                 credit.
+        24-c. New York city musical and theatrical production tax
+                credit.
         25.   Disclosure of certain transactions and related
                 information.
         26.   Security training tax credit.
@@ -148,6 +152,7 @@ Section  1.   Short title.
         43*2. Single member limited liability companies and eligibility
                 for tax credits.
         44.   Employer-provided child care credit.
+        46.   Restaurant return-to-work tax credit.
 ```
 
 </details>

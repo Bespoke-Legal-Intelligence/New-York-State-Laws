@@ -42,8 +42,8 @@ construed as limiting or mitigating the effect of any statute of
 limitations or any other provision of law relating to the authority of
 such commissioner to issue a notice of deficiency or to allow a credit
 or refund on an overpayment.
-  (5) Amounts of less than one dollar. No interest shall be allowed or
-paid if the amount thereof is less than one dollar.
+  (5) Amounts of less than five dollars. No interest shall be allowed or
+paid if the amount thereof is less than five dollars.
   (b) Advance payment of tax and estimated tax.--The provisions of
 subsections (h) and (i) of section one thousand eighty-seven applicable
 in determining the date of payment of tax for purposes of determining

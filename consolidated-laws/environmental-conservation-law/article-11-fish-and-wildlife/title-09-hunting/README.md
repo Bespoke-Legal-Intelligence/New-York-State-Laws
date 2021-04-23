@@ -24,6 +24,7 @@
 - [§ 11-0929 Hunting by minors](11-0929-hunting-by-minors.md)
 - [§ 11-0931 Prohibitions on the use and possession of firearms](11-0931-prohibitions-on-the-use-and-possession-of-firearms.md)
 - [§ 11-0933 Taking small game by crossbow](11-0933-taking-small-game-by-crossbow.md)
+- [§ 11-0935 Deer hunting pilot program](11-0935-deer-hunting-pilot-program.md)
 
 <details>
 <summary>Official heading of Title 9, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -56,6 +57,7 @@ Section 11-0901. Prohibitions.
         11-0929. Hunting by minors.
         11-0931. Prohibitions on the use and possession of firearms.
         11-0933. Taking small game by crossbow.
+        11-0935. Deer hunting pilot program.
 ```
 
 </details>

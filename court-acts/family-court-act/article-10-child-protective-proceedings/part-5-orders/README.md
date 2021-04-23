@@ -15,6 +15,7 @@
 - [§ 1055 Placement](1055-placement.md)
 - [§ 1055-A Substantial failure of a material condition of surrender; enforcement of a contact agreement](1055a-substantial-failure-of-a-material-condition-of-surrender-enforcement.md)
 - [§ 1055-B Custody or guardianship with a parent or parents, relatives or suitable persons pursuant to article six of this act or guardianship with ...](1055b-custody-or-guardianship-with-a-parent-or-parents-relatives-or-suitable-persons.md)
+- [§ 1055-C Court review of placement in a qualified residential treatment program](1055c-court-review-of-placement-in-a-qualified-residential-treatment-program.md)
 - [§ 1056 Order of protection](1056-order-of-protection.md)
 - [§ 1056-A Firearms; surrender and license suspension, revocation and ineligibility](1056a-firearms-surrender-and-license-suspension-revocation-and-ineligibility.md)
 - [§ 1057 Release of the child to the respondent or respondents; supervision of the respondent or respondents](1057-release-of-the-child-to-the-respondent-or-respondents-supervision.md)
@@ -43,6 +44,8 @@ Section 1051.   Sustaining or dismissing petition.
                   of this act or guardianship with relatives or suitable
                   persons pursuant to article seventeen of the
                   surrogate's court procedure act.
+        1055-c. Court review of placement in a qualified residential
+                  treatment program.
         1056.   Order of protection.
         1056-a. Firearms; surrender and license suspension, revocation
                   and ineligibility.

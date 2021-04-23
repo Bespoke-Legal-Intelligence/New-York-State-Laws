@@ -56,7 +56,17 @@ for the taxable year in which the certificate of completion is issued if
 the qualified tangible property is placed in service prior to the
 issuance of the certificate of completion. This credit component shall
 only be allowed for up to one hundred twenty months after the date of
-the issuance of such certificate of completion.
+the issuance of such certificate of completion, provided, however, that
+for qualified sites to which a certificate of completion is issued on or
+after March twentieth, two thousand ten, but prior to January first, two
+thousand twelve, the commissioner may extend the credit component for up
+to one hundred forty-four months after the date of such issuance, if the
+commissioner, in consultation with the commissioner of environmental
+conservation, determines that the requirements for the credit would have
+been met if not for the restrictions related to the state disaster
+emergency declared pursuant to executive order 202 of 2020 or any
+extension thereof or subsequent executive order issued in response to
+the novel coronavirus (COVID-19) pandemic.
   (ii) The tangible property credit component shall be allowed with
 respect to property leased to a second party only if such second party
 is either (A) not a party responsible for the disposal of hazardous

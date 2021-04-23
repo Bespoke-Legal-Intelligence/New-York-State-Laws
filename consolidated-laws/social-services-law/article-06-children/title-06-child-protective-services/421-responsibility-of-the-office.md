@@ -36,13 +36,30 @@ danger to the life, health or safety of a child and which require
 immediate, personal contact between the local child protective service
 and the subject of the report, the subject's family, or any other
 persons named in the report.
-  (c) issue guidelines to assist local child protective services in the
-interpretation and assessment of reports of abuse and maltreatment made
-to the statewide central register described in section four hundred
+  * (c) issue guidelines to assist local child protective services in
+the interpretation and assessment of reports of abuse and maltreatment
+made to the statewide central register described in section four hundred
 twenty-two of this article. Such guidelines shall include information,
 standards and criteria for the identification of evidence of alleged
 abuse and maltreatment as required to determine whether a report may be
 indicated pursuant to this article.
+  * NB Effective until April 1, 2022
+  * (c) issue guidelines to assist local child protective services in
+the interpretation and assessment of reports of abuse and maltreatment
+made to the statewide central register described in section four hundred
+twenty-two of this article. Such guidelines shall include information,
+standards and criteria for the identification of evidence of alleged
+abuse and maltreatment as required to determine whether a report may be
+indicated pursuant to this article. Provided further, the office of
+children and family services shall update such guidelines, standards and
+criteria issued to the local child protective services to include
+protocols to reduce implicit bias in the decision-making processes,
+strategies for identifying adverse childhood experiences as defined in
+paragraph (c) of subdivision one of section twenty-d of this chapter,
+and guidelines to assist in recognizing signs of abuse or maltreatment
+while interacting virtually. The office may utilize existing programs or
+materials established pursuant to section twenty-d of this chapter.
+  * NB Effective April 1, 2022
   3. promulgate regulations setting forth requirements for the
 performance by local social services departments of the duties and
 powers imposed and conferred upon them by the provisions of this title

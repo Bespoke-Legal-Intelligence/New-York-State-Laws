@@ -268,7 +268,7 @@ chapter and the transfer of custody and guardianship or care and custody
 of the child to a local social services official the court shall
 determine in its order the services and assistance needed to assist the
 child in learning independent living skills.
-  (g) In any case in which an order has been issued pursuant to this
+  * (g) In any case in which an order has been issued pursuant to this
 section approving a foster care placement instrument, the social
 services official or authorized agency charged with custody or care of
 the child shall report any anticipated change in placement to the court
@@ -283,6 +283,40 @@ district or authorized agency shall subsequently notify the court and
 attorneys for the parties, including the attorney for the child, of the
 date the placement change occurred; such notice shall occur no later
 than one business day following the placement change.
+  * NB Effective until September 29, 2021 if certain conditions are met
+(see chapter 56 of 2021, Pt. L, §17 sb (a))
+  * (g) (i) In any case in which an order has been issued pursuant to
+this section approving a foster care placement instrument, the social
+services official or authorized agency charged with custody or care of
+the child shall report the initial placement and any anticipated change
+in placement to the court and the attorneys for the parties, including
+the attorney for the child, forthwith, but not later than one business
+day following either the decision to make the initial placement or to
+change the placement or the actual date the initial placement or
+placement change occurred, whichever is sooner. Such notice shall
+indicate the date that the placement change is anticipated to occur or
+the date the placement change occurred, as applicable. Provided,
+however, if such notice lists an anticipated date for the initial
+placement or placement change, the local social services district or
+authorized agency shall subsequently notify the court and attorneys for
+the parties, including the attorney for the child, of the date the
+placement or placement change occurred; such notice shall occur no later
+than one business day following the placement or placement change.
+  (ii) When a child whose legal custody was transferred to the
+commissioner of a local social services district in accordance with this
+section resides in a qualified residential treatment program, as defined
+in section four hundred nine-h of this chapter, and where such child's
+initial placement or change in placement in such program commenced on or
+after September twenty-ninth, two thousand twenty-one, upon receipt of
+notice required pursuant to subparagraph (i) of this paragraph and
+motion of the local social services district, the court shall schedule a
+court review to make an assessment and determination of such placement
+in accordance with section three hundred ninety-three of this chapter.
+Notwithstanding any other provision of law to the contrary, such court
+review shall occur no later than sixty days from the date the placement
+of the child in the qualified residential treatment program commenced.
+  * NB Effective September 29, 2021 if certain conditions are met (see
+chapter 56 of 2021, Part L. § 17 sb (a))
   (4) Notice. (a) Upon the filing of a petition pursuant to this
 section, the family court judge shall direct that service of a notice of
 the proceeding and a copy of the petition shall be made upon such

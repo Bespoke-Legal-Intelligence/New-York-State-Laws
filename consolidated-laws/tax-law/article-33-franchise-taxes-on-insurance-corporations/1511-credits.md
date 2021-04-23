@@ -460,7 +460,7 @@ municipal law to the empire zone enterprise which is the basis of the
 credit.
   (g-1) Hire a vet credit.  (1) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-two, a taxpayer shall be allowed a
+January first, two thousand twenty-three, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -486,7 +486,7 @@ than bad conduct or dishonorable from such service after September
 eleventh, two thousand one;
   (B) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-one; and
+thousand twenty-two; and
   (C) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -1463,7 +1463,9 @@ before January first, two thousand twenty-five, a taxpayer shall be
 allowed a credit as hereinafter provided, against the tax imposed by
 this article, in an amount equal to one hundred percent of the amount of
 credit allowed the taxpayer with respect to a certified historic
-structure under internal revenue code section 47(c)(3), determined
+structure, and one hundred fifty percent of the amount of credit allowed
+the taxpayer with respect to a certified historic structure that is a
+small project, under internal revenue code section 47(c)(3), determined
 without regard to ratably allocating the credit over a five year period
 as required by subsection (a) of such section 47, with respect to a
 certified historic structure located within the state. Provided,
@@ -1520,6 +1522,9 @@ estimate, a census tract that qualified for eligibility under this
 program before information about the change was released will remain
 eligible for a credit under this subdivision for an additional two
 calendar years.
+  (6) For purposes of this subdivision "small project" means qualified
+rehabilitation expenditures totaling two million five hundred thousand
+dollars or less.
   * NB There are 3 sb§ (y)'s
   (z) Temporary deferral refundable payout credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided
@@ -1549,7 +1554,7 @@ refunded in accordance with the provisions of section one thousand
 eighty-six of this chapter. Provided, however, the provisions of
 subsection (c) of section one thousand eighty-eight of this chapter
 notwithstanding, no interest will be paid thereon.
-  * NB Repealed December 31, 2021
+  * NB Repealed December 31, 2026
   (bb) Empire state jobs retention program credit. (1) Allowance of
 credit. A taxpayer shall be allowed a credit, to be computed as provided
 in section thirty-six of this chapter, against the taxes imposed by this

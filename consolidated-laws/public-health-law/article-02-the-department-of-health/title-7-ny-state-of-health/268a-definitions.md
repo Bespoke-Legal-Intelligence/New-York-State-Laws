@@ -60,9 +60,15 @@ in accordance with section two hundred sixty-eight-d of this title.
 to applicable law and certified by the Marketplace in accordance with
 section two hundred sixty-eight-d of this title, including a stand-alone
 dental plan.
-  8. "Insurance affordability program" means Medicaid, child health
+  * 8. "Insurance affordability program" means Medicaid, child health
 plus, the basic health program and any other health insurance subsidy
 program designated as such by the commissioner.
+  * NB Effective until October 1, 2021
+  * 8. "Insurance affordability program" means Medicaid, child health
+plus, the basic health program, post-partum extended coverage and any
+other health insurance subsidy program designated as such by the
+commissioner.
+  * NB Effective October 1, 2021
   9. "Eligible individual" means an individual, including a minor, who
 is eligible to enroll in an insurance affordability program or other
 health insurance program as determined by the commissioner.

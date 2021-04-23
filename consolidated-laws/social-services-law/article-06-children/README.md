@@ -31,7 +31,7 @@
 ```text
                                 ARTICLE 6
                                 CHILDREN
-Title 1.    Care and protection of children (§§ 371-392).
+Title 1.    Care and protection of children (§§ 371-393).
       1-A.  State commission on the quality of foster care
               (§§ 393--393-b).
       2.    Powers and duties of public welfare officials (§§ 395-404).

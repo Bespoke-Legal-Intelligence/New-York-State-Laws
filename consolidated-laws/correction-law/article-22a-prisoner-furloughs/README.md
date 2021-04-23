@@ -22,7 +22,7 @@ Section 630.  Applicability.
         632.  Establishment of a furlough program.
         633.  Procedure for furlough release of eligible inmates.
         634.  Conduct of inmates participating in furlough program.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2023
 ```
 
 </details>

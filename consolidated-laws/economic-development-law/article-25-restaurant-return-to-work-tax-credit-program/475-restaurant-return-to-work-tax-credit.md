@@ -1,0 +1,19 @@
+﻿<!-- nyslaw {"citation": "Economic Development Law § 475", "kind": "section", "law_id": "COM", "location_id": "475", "path": "ARTICLE 25 › SECTION 475", "repealed": false, "repealed_date": null, "source": "nys-laws:COM/475.md", "title": "Restaurant return-to-work tax credit"} -->
+# Economic Development Law § 475 — Restaurant return-to-work tax credit
+
+[Economic Development Law](../README.md) › [Article 25 — Restaurant Return-to-work Tax Credit Program](README.md)
+
+```text
+  § 475. Restaurant return-to-work tax credit. 1. A business entity in
+the restaurant return-to-work tax credit program that meets the
+eligibility requirements of section four hundred seventy-three of this
+article may be eligible to claim a credit equal to five thousand dollars
+per each full-time equivalent net employee increase as defined in
+subdivision eight of section four hundred seventy-two of this article.
+  2. A business entity, including a partnership, limited liability
+company and subchapter S corporation, may not receive in excess of fifty
+thousand dollars in tax credits under this program.
+  3. The credit shall be allowed as provided in sections forty-six,
+subdivision fifty-six of section two hundred ten-B and subsection (lll)
+of section six hundred six of the tax law.
+```

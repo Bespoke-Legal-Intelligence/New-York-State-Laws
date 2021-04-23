@@ -137,6 +137,10 @@ by the taxpayer under section 78 of the internal revenue code that is
 attributable to the income required to be included in the taxpayer's
 federal gross income pursuant to subsection (a) of section 951A of such
 code.
+  (W) The amount of any gain added back to determine entire net income
+in a previous taxable year pursuant to subparagraph (Z) of paragraph two
+of this subdivision that is included in federal gross income for the
+taxable year.
   (2) Entire net income shall be determined without the exclusion,
 deduction or credit of:
   (A) the amount of any specific exemption or credit allowed in any law
@@ -286,6 +290,9 @@ article twenty-three of this chapter.
 250(a)(1)(A) of the internal revenue code.
   (Y) The amount of the federal deduction allowed pursuant to section
 250(a)(1)(B) of the internal revenue code.
+  (Z) The amount of any gain excluded from federal gross income for the
+taxable year by subparagraph (A) of paragraph (1) of subsection (a) of
+section 1400Z-2 of the internal revenue code.
   (3) In determining entire net income, there shall be subtracted, to
 the extent not deductible in determining federal taxable income:
   (A) interest on indebtedness incurred or continued to purchase or

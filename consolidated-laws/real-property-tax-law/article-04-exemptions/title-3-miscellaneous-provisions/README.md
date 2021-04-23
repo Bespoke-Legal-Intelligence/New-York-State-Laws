@@ -17,6 +17,7 @@
 - [§ 494-A Exemption from taxation of property upon transfer of title in certain instances](494a-exemption-from-taxation-of-property-upon-transfer-of-title-in-certain.md)
 - [§ 495 Exemption reports](495-exemption-reports.md)
 - [§ 496 Voluntary renunciation of an exemption](496-voluntary-renunciation-of-an-exemption.md)
+- [§ 497 Construction of certain local option provisions in exemption statutes](497-construction-of-certain-local-option-provisions-in-exemption-statutes.md)
 
 <details>
 <summary>Official heading of Title 3, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -42,6 +43,8 @@ Section 490.     Exemption from special ad valorem levies and special
                    title in certain instances.
         495.     Exemption reports.
         496.     Voluntary renunciation of an exemption.
+        497.     Construction of certain local option provisions in
+                   exemption statutes.
 ```
 
 </details>

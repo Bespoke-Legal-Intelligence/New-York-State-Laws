@@ -4,10 +4,11 @@
 [Executive Law](../../README.md) › [Article 19-G — Office of Children and Family Services](../README.md) › [Title 2 — Facilities](README.md)
 
 ```text
-  § 504. Division facilities. 1. The division shall operate and maintain
-secure, limited secure and non-secure facilities for the care, custody,
-treatment, housing, education, rehabilitation and guidance of youth
-placed with or committed to the division.
+  § 504. Division facilities. 1. The office of children and family
+services shall operate and maintain secure, limited secure and
+non-secure facilities for the care, custody, treatment, housing,
+education, rehabilitation and guidance of youth placed with or committed
+to the office of children and family services.
   2. Each separate facility may bear the name, designated by the
 division, of an individual known for outstanding service to youth.
   3. A youth attending a local public school while in residence at a

@@ -4,7 +4,7 @@
 [Racing, Pari-Mutuel Wagering and Breeding Law](../README.md) › [Article 2 — Thoroughbred Racing and Breeding](README.md)
 
 ```text
-  § 227. Admission tax. 1. Every corporation holding a race meeting
+  * § 227. Admission tax. 1. Every corporation holding a race meeting
 pursuant to this article shall collect in addition to the admission
 price of tickets sold or otherwise disposed of, if any for each such
 meeting held by such corporation, a tax equivalent to four per centum of
@@ -39,4 +39,5 @@ together with the expense of such examination. A penalty of five per
 centum and interest at the rate of one per centum per month from the due
 date to the date of payment of the tax shall be payable in case any tax
 imposed by this section is not paid when due.
+  * NB Repealed November 1, 2021
 ```

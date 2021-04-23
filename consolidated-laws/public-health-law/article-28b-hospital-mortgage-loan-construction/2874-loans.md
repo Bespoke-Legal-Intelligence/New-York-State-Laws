@@ -42,4 +42,12 @@ commissioner and the agency.
   4. Any inconsistent provision of law to the contrary notwithstanding,
 mortgages of an eligible borrower shall be exempt from the mortgage
 recording taxes imposed by article eleven of the tax law.
+  5. The dormitory authority of the state of New York and the New York
+state urban development corporation are each hereby authorized to issue
+bonds in one or more series pursuant to article 5-C or article 5-F of
+the state finance law for the purpose of refunding outstanding secured
+hospital project bonds, as defined in subdivision three-a of section
+twenty-eight hundred seventy-two of this article, and to finance one or
+more related debt service reserve funds and to pay costs of issuance
+attributable to such refunding bonds.
 ```

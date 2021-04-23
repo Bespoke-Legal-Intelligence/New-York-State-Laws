@@ -1739,17 +1739,19 @@ section one thousand eighty-six of this chapter. Provided, however, the
 provisions of subsection (c) of section one thousand eighty-eight of
 this chapter notwithstanding, no interest shall be paid thereon.
   26. Credit for rehabilitation of historic properties.  (a) Application
-of credit. (i) For taxable years beginning on or after January first,
+of credit.  (i) For taxable years beginning on or after January first,
 two thousand ten, and before January first, two thousand twenty-five, a
 taxpayer shall be allowed a credit as hereinafter provided, against the
 tax imposed by this article, in an amount equal to one hundred percent
 of the amount of credit allowed the taxpayer for the same taxable year
-with respect to a certified historic structure under internal revenue
-code section 47(c)(3), determined without regard to ratably allocating
-the credit over a five year period as required by subsection (a) of such
-section 47, with respect to a certified historic structure located
-within the state. Provided, however, the credit shall not exceed five
-million dollars.
+with respect to a certified historic structure, and one hundred fifty
+percent of the amount of credit allowed the taxpayer with respect to a
+certified historic structure that is a small project, under internal
+revenue code section 47(c)(3), determined without regard to ratably
+allocating the credit over a five year period as required by subsection
+(a) of such section 47, with respect to a certified historic structure
+located within the state. Provided, however, the credit shall not exceed
+five million dollars.
   (ii) For taxable years beginning on or after January first, two
 thousand twenty-five, a taxpayer shall be allowed a credit as
 hereinafter provided, against the tax imposed by this article, in an
@@ -1803,6 +1805,9 @@ estimate, a census tract that qualified for eligibility under this
 program before information about the change was released will remain
 eligible for a credit under this subdivision for an additional two
 calendar years.
+  (f) For purposes of this subdivision "small project" means qualified
+rehabilitation expenditures totaling two million five hundred thousand
+dollars or less.
   27. Credits of New York S corporations. (a) General. Notwithstanding
 the provisions of this section, no carryover of credit allowable in a
 New York C year shall be deducted from the tax otherwise due under this
@@ -1817,9 +1822,9 @@ allowed as provided in subdivision nine of this section, and the
 carryover of any such credit shall be determined without regard to
 whether the credit is carried from a New York C year to a New York S
 year or vice-versa.
-  29. Hire a vet credit. (a) Allowance of credit. For taxable years
+  29. Hire a vet credit.  (a) Allowance of credit. For taxable years
 beginning on or after January first, two thousand fifteen and before
-January first, two thousand twenty-two, a taxpayer shall be allowed a
+January first, two thousand twenty-three, a taxpayer shall be allowed a
 credit, to be computed as provided in this subdivision, against the tax
 imposed by this article, for hiring and employing, for not less than one
 year and for not less than thirty-five hours each week, a qualified
@@ -1845,7 +1850,7 @@ than bad conduct or dishonorable from such service after September
 eleventh, two thousand one;
   (2) who commences employment by the qualified taxpayer on or after
 January first, two thousand fourteen, and before January first, two
-thousand twenty-one; and
+thousand twenty-two; and
   (3) who certifies by signed affidavit, under penalty of perjury, that
 he or she has not been employed for thirty-five or more hours during any
 week in the one hundred eighty day period immediately prior to his or
@@ -2313,7 +2318,7 @@ accordance with the provisions of section one thousand eighty-six of
 this chapter. Provided, further, the provisions of subsection (c) of
 section one thousand eighty-eight of this chapter notwithstanding, no
 interest shall be paid thereon.
-  * NB Repealed March 31, 2022
+  * NB Repealed January 1, 2026
   * 48. Workers with disabilities tax credit. (a) A qualified employer,
 as defined in paragraph one of subdivision (b) of section twenty-five-b
 of the labor law, shall be entitled to a credit against the tax imposed
@@ -2567,4 +2572,37 @@ interest shall be paid thereon.
 department of economic development provides notice to the legislative
 bill drafting commission of a determination pursuant to § 6 sb 2 (b) of
 chapter 683 of 2019
+  56. Restaurant return-to-work tax credit. (a) Allowance of credit. A
+taxpayer shall be allowed a credit, to be computed as provided in
+section forty-six of this chapter, against the taxes imposed by this
+article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest will be paid thereon.
+  * 57. New York city musical and theatrical production tax credit. (a)
+Allowance of credit. A taxpayer shall be allowed a credit, to be
+computed as provided in section twenty-four-c of this chapter, against
+the taxes imposed by this article.
+  (b) Application of credit. The credit allowed under this subdivision
+for the taxable year shall not reduce the tax due for such year to less
+than the amount prescribed in paragraph (d) of subdivision one of
+section two hundred ten of this article. However, if the amount of
+credit allowed under this subdivision for the taxable year reduces the
+tax to such amount or if the taxpayer otherwise pays tax based on the
+fixed dollar minimum amount, any amount of credit thus not deductible in
+such taxable year shall be treated as an overpayment of tax to be
+credited or refunded in accordance with the provisions of section one
+thousand eighty-six of this chapter. Provided, however, the provisions
+of subsection (c) of section one thousand eighty-eight of this chapter
+notwithstanding, no interest shall be paid thereon.
+  * NB Repealed January 1, 2024
 ```

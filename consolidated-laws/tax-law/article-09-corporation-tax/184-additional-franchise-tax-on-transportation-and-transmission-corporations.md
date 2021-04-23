@@ -159,15 +159,12 @@ corporate or organized capacity, nor
 capacity, but
   (iv) which is doing business or employing capital in this state by
 conducting at least one but fewer than twelve trips into this state
-during the calendar year,
-shall annually pay a tax equal to fifteen dollars for each trip
-conducted into this state. If the only property a corporation owns or
-leases in this state is a vehicle or vehicles used to conduct trips, it
-shall not be considered, for purposes of clause (ii) of this
-subparagraph, to be owning or leasing property in this state.
-  (2) The commissioner of taxation and finance may prescribe such forms
-as he may deem necessary to report such tax in a simplified manner.
-  (3) For purposes of this subdivision, a corporation classed as a
+during the calendar year, shall not be taxed under the provisions of
+this article. If the only property a corporation owns or leases in this
+state is a vehicle or vehicles used to conduct trips, it shall not be
+considered, for purposes of clause (ii) of this subparagraph, to be
+owning or leasing property in this state.
+  (2) For purposes of this subdivision, a corporation classed as a
 "taxicab" or "omnibus" shall be considered to be conducting a trip into
 New York state when one of its vehicles enters New York state and
 transports passengers to, from, or to and from a location in New York
@@ -179,10 +176,6 @@ corporation conducts into New York state shall be calculated by
 determining the number of trips each vehicle owned, leased or operated
 by the corporation conducts into New York state and adding those numbers
 together.
-  (4) Provided, however, that the provisions of this paragraph shall not
-apply to any corporation which does not file its franchise tax report in
-a timely manner (determined with regard to any extension of time for
-filing).
   3. Any corporation, joint-stock company or association formed for or
 principally engaged in the conduct of subway railroad, elevated
 railroad, or surface railroad not operated by steam, business, whose
