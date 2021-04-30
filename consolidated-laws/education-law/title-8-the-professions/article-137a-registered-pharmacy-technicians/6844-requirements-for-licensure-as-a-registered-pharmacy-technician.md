@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137-A — Registered Pharmacy Technicians](README.md)
 
 ```text
-  * § 6844. Requirements for licensure as a registered pharmacy
+  § 6844. Requirements for licensure as a registered pharmacy
 technician. To qualify for licensure as a "registered pharmacy
 technician", an applicant shall fulfill the following requirements:
   1. Application: file an application with the department;
@@ -17,5 +17,4 @@ certification program acceptable to the department;
 department; and
   6. Fee: pay a fee determined by the department for initial license and
 for each triennial registration period.
-  * NB Effective April 25, 2021
 ```

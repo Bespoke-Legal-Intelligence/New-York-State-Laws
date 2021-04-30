@@ -15,7 +15,7 @@
 <summary>Official heading of Article 137-A, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
 
 ```text
-                             * ARTICLE 137-A
+                              ARTICLE 137-A
                      REGISTERED PHARMACY TECHNICIANS
 Section 6840. Introduction.
         6841. Definition of the practice of registered pharmacy
@@ -25,7 +25,6 @@ Section 6840. Introduction.
                 title "registered pharmacy technician".
         6844. Requirements for licensure as a registered pharmacy
                 technician.
-  * NB Effective April 25, 2021
 ```
 
 </details>

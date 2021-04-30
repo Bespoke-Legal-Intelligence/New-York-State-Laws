@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137-A — Registered Pharmacy Technicians](README.md)
 
 ```text
-  * § 6842. Definitions. As used in this article:
+  § 6842. Definitions. As used in this article:
   1. "Licensed pharmacist" means a person licensed to practice pharmacy
 pursuant to article one hundred thirty-seven of this title.
   2. "Pharmacy intern" means a person practicing under a limited permit
@@ -26,5 +26,4 @@ substance to create a drug.
   5. "Drugs", "pharmacopeia", "labeling" and "sterile drug" shall have
 the same definitions as set forth in section sixty-eight hundred two of
 this title.
-  * NB Effective April 25, 2021
 ```

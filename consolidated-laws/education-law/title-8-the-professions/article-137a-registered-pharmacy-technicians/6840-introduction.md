@@ -4,9 +4,8 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137-A — Registered Pharmacy Technicians](README.md)
 
 ```text
-  * § 6840. Introduction. This article applies to the profession of
+  § 6840. Introduction. This article applies to the profession of
 registered pharmacy technician. The general provisions for all
 professions contained in article one hundred thirty of this title shall
 apply to this article.
-  * NB Effective April 25, 2021
 ```

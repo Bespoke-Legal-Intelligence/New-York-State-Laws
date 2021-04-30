@@ -248,7 +248,7 @@ occurrence. This penalty can be waived only for good cause shown.
   (6) The penalties provided for by this subdivision must be paid upon
 notice and demand and will be assessed, collected and paid in the same
 manner as taxes under article twenty-seven of this chapter.
-  * (h) (1) Tax return preparers and facilitators must prominently and
+  (h) (1) Tax return preparers and facilitators must prominently and
 conspicuously display a copy of their registration certificate issued
 pursuant to this section, for the current registration period, at their
 place of business and at any other location where they provide tax
@@ -270,8 +270,8 @@ factor applies; and
   (B) a copy of the most recent Consumer Bill of Rights Regarding Tax
 Preparers published by the department pursuant to section three hundred
 seventy-two of the general business law.
-  (3) A tax return preparer or facilitator who fails to comply with any
-of the requirements of this subdivision must pay a penalty of five
+  * (3) A tax return preparer or facilitator who fails to comply with
+any of the requirements of this subdivision must pay a penalty of five
 hundred dollars for the first month of non-compliance and five hundred
 dollars for each subsequent month of non-compliance thereafter. The
 maximum penalty that may be imposed under this subdivision on any tax

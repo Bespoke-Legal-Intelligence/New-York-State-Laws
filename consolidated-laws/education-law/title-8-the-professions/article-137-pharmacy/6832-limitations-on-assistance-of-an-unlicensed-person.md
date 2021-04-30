@@ -4,10 +4,10 @@
 [Education Law](../../README.md) › [Title 8 — The Professions](../README.md) › [Article 137 — Pharmacy](README.md)
 
 ```text
-  * § 6832. Limitations on assistance of an unlicensed person. 1.
-Subject to the limitations set forth in subdivision two of this section,
-an unlicensed person may assist a licensed pharmacist in the dispensing
-of drugs by:
+  § 6832. Limitations on assistance of an unlicensed person. 1. Subject
+to the limitations set forth in subdivision two of this section, an
+unlicensed person may assist a licensed pharmacist in the dispensing of
+drugs by:
   (a) receiving written or electronically transmitted prescriptions,
 except that in the case of electronically transmitted prescriptions the
 licensed pharmacist or pharmacy intern shall review the prescription to
@@ -59,5 +59,4 @@ are not also engaged in performing the activities set forth in paragraph
 section. The licensed pharmacist shall provide the degree of supervision
 of such persons as may be appropriate to ensure compliance with the
 relevant provisions of regulations of the commissioner.
-  * NB Effective April 25, 2021
 ```
