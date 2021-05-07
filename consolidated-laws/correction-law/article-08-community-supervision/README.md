@@ -11,6 +11,7 @@
 - [§ 206 Applications for presumptive release or conditional release](206-applications-for-presumptive-release-or-conditional-release.md)
 - [§ 207 Cooperation](207-cooperation.md)
 - [§ 208 Deputization of out-of-state officers](208-deputization-of-out-of-state-officers.md)
+- [§ 209 Notice of voting rights](209-notice-of-voting-rights.md)
 
 <details>
 <summary>Official heading of Article 8, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>
@@ -27,6 +28,7 @@ Section 201. Authority and responsibility for community supervision.
                release.
         207. Cooperation.
         208. Deputization of out-of-state officers.
+        209. Notice of voting rights.
 ```
 
 </details>

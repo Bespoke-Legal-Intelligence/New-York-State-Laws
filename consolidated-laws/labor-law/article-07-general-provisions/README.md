@@ -66,6 +66,7 @@
 - [§ 217 Employee notification and remittance of premiums; group policies of accident and health insurance](217-employee-notification-and-remittance-of-premiums-group-policies-of-accident.md)
 - [§ 218 Violations of certain provisions; civil penalties](218-violations-of-certain-provisions-civil-penalties.md)
 - [§ 218-A Sun safety education for state employees](218a-sun-safety-education-for-state-employees.md)
+- [§ 218-B Prevention of occupational exposure to an airborne infectious disease](218b-prevention-of-occupational-exposure-to-an-airborne-infectious-disease.md)
 - [§ 219 Violations of certain wage payment provisions; interest, filing of order as judgment](219-violations-of-certain-wage-payment-provisions-interest-filing-of-order.md)
 - [§ 219-A Affirmation in lieu of oath](219a-affirmation-in-lieu-of-oath.md)
 - [§ 219-C Public notice of employer violations](219c-public-notice-of-employer-violations.md)
@@ -166,6 +167,8 @@ Section 200.   General duty to protect health and safety of employees;
                  policies of accident and health insurance.
         218.   Violations of certain provisions; civil penalties.
         218-a. Sun safety education for state employees.
+        218-b. Prevention of occupational exposure to an airborne
+                 infectious disease.
         219.   Violations of certain wage payment provisions; interest,
                  filing of order as judgment.
         219-a. Affirmation in lieu of oath.

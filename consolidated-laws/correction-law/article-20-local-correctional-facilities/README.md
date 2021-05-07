@@ -30,6 +30,7 @@
 - [§ 507 Removal of prisoners in case of fire](507-removal-of-prisoners-in-case-of-fire.md)
 - [§ 508 Removal of sick prisoners from jail](508-removal-of-sick-prisoners-from-jail.md)
 - [§ 509 Absence of inmate for funeral and deathbed visits](509-absence-of-inmate-for-funeral-and-deathbed-visits.md)
+- [§ 510 Voting upon release](510-voting-upon-release.md)
 - [§ 514 Confinement of civil prisoner](514-confinement-of-civil-prisoner.md)
 - [§ 523 Revocation of designation of jail](523-revocation-of-designation-of-jail.md)
 - [§ 524 Manner and effect of revocation](524-manner-and-effect-of-revocation.md)
@@ -68,6 +69,7 @@ Section 500.   Application of article.
         507.   Removal of prisoners in case of fire.
         508.   Removal of sick prisoners from jail.
         509.   Absence of inmate for funeral and deathbed visits.
+        510.   Voting upon release.
         514.   Confinement of civil prisoners.
         523.   Revocation of designation of jail.
         524.   Manner and effect of revocation.
