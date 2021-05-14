@@ -4,7 +4,7 @@
 [General Business Law](../README.md) › [Article 26 — Miscellaneous](README.md)
 
 ```text
-  § 399-zzzzz. Broadband service for low-income consumers. 1. For the
+  * § 399-zzzzz. Broadband service for low-income consumers. 1. For the
 purposes of this section, the term "broadband service" shall mean a
 mass-market retail service that provides the capability to transmit data
 to and receive data from all or substantially all internet endpoints,
@@ -129,4 +129,5 @@ connection with any such proposed application, the attorney general is
 authorized to take proof and make a determination of the relevant facts
 and to issue subpoenas in accordance with the civil practice law and
 rules.
+  * NB There are 2 § 399-zzzzz's
 ```

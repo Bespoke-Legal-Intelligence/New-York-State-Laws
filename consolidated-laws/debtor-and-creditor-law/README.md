@@ -8,7 +8,7 @@
 | Senate code | DCD |
 | Type | Consolidated law, chapter 12 |
 | Sections | 194 (1 repealed) |
-| Last changed | 10 Apr 2020 |
+| Last changed | 14 May 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Debtor & Creditor |
 
@@ -31,6 +31,7 @@ Assembly, do enact as follows:
 
 ## Recent changes
 
+- [14 May 2021](../../changes/2021/2021-05-14.md): 1 amended
 - [10 Apr 2020](../../changes/2020/2020-04-10.md): 14 amended, 1 repealed
 - [13 Dec 2019](../../changes/2019/2019-12-13.md): 14 amended, 1 added
 

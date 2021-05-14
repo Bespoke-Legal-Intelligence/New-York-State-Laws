@@ -82,7 +82,6 @@ reason why; (3) the types of housing and/or services that are provided,
 as well as the availability of such services, including the geographic
 location of such housing or service; and (4) any other information the
 office of temporary and disability assistance deems appropriate.
-  * NB Effective May 10, 2021
   * NB There are 2 sb (d-1)'s
   * (d-1)(1) in consultation with each local health department and each
 social services district in the county in which a publicly funded
