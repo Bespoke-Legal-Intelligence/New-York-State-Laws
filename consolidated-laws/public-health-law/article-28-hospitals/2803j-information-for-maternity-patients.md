@@ -64,6 +64,10 @@ including sleep space and sleep position, and discussion on how to
 reduce the risk of infant death through safe sleep practices. The
 information described in this subdivision may take the form of a video
 in lieu of a leaflet.
+  ** 1-f. The informational leaflet shall also include information
+relating to pre-term labor and premature birth, including but not
+limited to definitions and information on the risks that pre-term labor
+and premature birth pose to the expectant mother and fetus.
   ** NB Effective and Repealed December 22, 2021
   2. Such leaflet shall also include statistics relating to the annual
 percentage of maternity related procedures performed at such hospital or
