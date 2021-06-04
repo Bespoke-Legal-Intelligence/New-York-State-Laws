@@ -16,7 +16,7 @@
 - [§ 2801-E Voluntary residential health care facility rightsizing demonstration program](2801e-voluntary-residential-health-care-facility-rightsizing-demonstration-program.md)
 - [§ 2801-F Residential health care facility quality incentive payment program](2801f-residential-health-care-facility-quality-incentive-payment-program.md)
 - [§ 2801-G Community forum on hospital closure](2801g-community-forum-on-hospital-closure.md)
-- [§ 2801-H Personal caregiving visitors for nursing home residents during public health emergencies](2801h-personal-caregiving-visitors-for-nursing-home-residents-during-public-health.md)
+- [§ 2801-H Personal caregiving and compassionate caregiving visitors to nursing home residents during declared local or state health emergencies](2801h-personal-caregiving-and-compassionate-caregiving-visitors-to-nursing-home.md)
 - [§ 2802 Approval of construction](2802-approval-of-construction.md)
 - [§ 2802-A Transitional care unit demonstration program](2802a-transitional-care-unit-demonstration-program.md)
 - [§ 2803 Commissioner and council; powers and duties](2803-commissioner-and-council-powers-and-duties.md)

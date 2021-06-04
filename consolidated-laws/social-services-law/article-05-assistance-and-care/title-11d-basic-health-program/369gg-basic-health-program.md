@@ -1,7 +1,7 @@
 ﻿<!-- nyslaw {"citation": "Social Services Law § 369-GG", "kind": "section", "law_id": "SOS", "location_id": "369-GG", "path": "ARTICLE 5 › TITLE 11-D › SECTION 369-GG", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/369-GG.md", "title": "Basic health program"} -->
 # Social Services Law § 369-GG — Basic health program
 
-[Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-D — Family Health Plus Program](README.md)
+[Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md) › [Title 11-D — Basic Health Program](README.md)
 
 ```text
   § 369-gg. Basic health program. 1. Definitions. For purposes of this
@@ -15,15 +15,6 @@ three-e of the public health law;
   (b) "Approved organization" means an eligible organization approved by
 the commissioner to underwrite a basic health insurance plan pursuant to
 this title;
-  * (c) "Health care services" means the services and supplies as
-defined by the commissioner in consultation with the superintendent of
-financial services, and shall be consistent with and subject to the
-essential health benefits as defined by the commissioner in accordance
-with the provisions of the patient protection and affordable care act
-(P.L.  111-148) and consistent with the benefits provided by the
-reference plan selected by the commissioner for the purposes of defining
-such benefits;
-  * NB Effective until June 1, 2021
   * (c) "Health care services" means (i) the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -33,8 +24,8 @@ with the provisions of the patient protection and affordable care act
 reference plan selected by the commissioner for the purposes of defining
 such benefits, and (ii) dental and vision services as defined by the
 commissioner;
-  * NB Effective June 1, 2021 and Repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
   * (c) "Health care services" means the services and supplies as
 defined by the commissioner in consultation with the superintendent of
 financial services, and shall be consistent with and subject to the
@@ -49,16 +40,12 @@ repealed
 criteria for certification described in § 1311(c) of the Patient
 Protection and Affordable Care Act (P.L. 111-148), and is offered to
 individuals through the health insurance exchange marketplace; and
-  * (e) "Basic health insurance plan" means a standard health plan,
-separate and apart from qualified health plans, that is issued by an
-approved organization and certified in accordance with this section.
-  * NB Effective until June 1, 2021
   * (e) "Basic health insurance plan" means a standard health plan
 providing health care services, separate and apart from qualified health
 plans, that is issued by an approved organization and certified in
 accordance with this section.
-  * NB Effective June 1, 2021 and Repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
   * (e) "Basic health insurance plan" means a standard health plan,
 separate and apart from qualified health plans, that is issued by an
 approved organization and certified in accordance with this section.
@@ -105,30 +92,12 @@ eligible to receive coverage for health care services pursuant to the
 provisions of this title if such alien would be ineligible for medical
 assistance under title eleven of this article due to his or her
 immigration status.
-  An applicant who fails to make an applicable premium payment shall
-lose eligibility to receive coverage for health care services in
-accordance with time frames and procedures determined by the
-commissioner.
-  * NB Effective until June 1, 2021
-  * (d) (i) has household income at or below two hundred percent of the
-federal poverty line defined and annually revised by the United States
-department of health and human services for a household of the same
-size; and (ii) has household income that exceeds one hundred
-thirty-three percent of the federal poverty line defined and annually
-revised by the United States department of health and human services for
-a household of the same size; however, MAGI eligible aliens lawfully
-present in the United States with household incomes at or below one
-hundred thirty-three percent of the federal poverty line shall be
-eligible to receive coverage for health care services pursuant to the
-provisions of this title if such alien would be ineligible for medical
-assistance under title eleven of this article due to his or her
-immigration status.
   An applicant who fails to make an applicable premium payment, if any,
 shall lose eligibility to receive coverage for health care services in
 accordance with time frames and procedures determined by the
 commissioner.
-  * NB Effective June 1, 2021 and Repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
   * (d) (i) has household income at or below two hundred percent of the
 federal poverty line defined and annually revised by the United States
 department of health and human services for a household of the same
@@ -179,23 +148,6 @@ such assistance.
   * 5. Premiums and cost sharing. (a) Subject to federal approval, the
 commissioner shall establish premium payments enrollees shall pay to
 approved organizations for coverage of health care services pursuant to
-this title. Such premium payments shall be established in the following
-manner:
-  (i) up to twenty dollars monthly for an individual with a household
-income above one hundred and fifty percent of the federal poverty line
-but at or below two hundred percent of the federal poverty line defined
-and annually revised by the United States department of health and human
-services for a household of the same size; and
-  (ii) no payment is required for individuals with a household income at
-or below one hundred and fifty percent of the federal poverty line
-defined and annually revised by the United States department of health
-and human services for a household of the same size.
-  (b) The commissioner shall establish cost sharing obligations for
-enrollees, subject to federal approval.
-  * NB Effective until June 1, 2021
-  * 5. Premiums and cost sharing. (a) Subject to federal approval, the
-commissioner shall establish premium payments enrollees shall pay to
-approved organizations for coverage of health care services pursuant to
 this title. No payment is required for individuals with a household
 income at or below two hundred percent of the federal poverty line
 defined and annually revised by the United States department of health
@@ -204,8 +156,8 @@ and human services for a household of the same size.
 enrollees, subject to federal approval. There shall be no cost-sharing
 obligations for enrollees for dental and vision services as defined in
 subparagraph (ii) of paragraph (c) of subdivision one of this section.
-  * NB Effective June 1, 2021 and Repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
   * 5. Premiums and cost sharing. (a) Subject to federal approval, the
 commissioner shall establish premium payments enrollees shall pay to
 approved organizations for coverage of health care services pursuant to
@@ -257,19 +209,6 @@ services to the state pursuant to 42 U.S.C. 18051(d) shall be deposited
 in trust.  Funds from the trust shall be used for providing health
 benefits through an approved organization, which, at a minimum, shall
 include essential health benefits as defined in 42 U.S.C. 18022(b); to
-reduce the premiums and cost sharing of participants in the basic health
-program; or for such other purposes as may be allowed by the secretary
-of health and human services. Health benefits available through the
-basic health program shall be provided by one or more approved
-organizations pursuant to an agreement with the department of health and
-shall meet the requirements of applicable federal and state laws and
-regulations.
-  * NB Effective until June 1, 2021
-  * 7. Any funds transferred by the secretary of health and human
-services to the state pursuant to 42 U.S.C. 18051(d) shall be deposited
-in trust.  Funds from the trust shall be used for providing health
-benefits through an approved organization, which, at a minimum, shall
-include essential health benefits as defined in 42 U.S.C. 18022(b); to
 reduce the premiums, if any, and cost sharing of participants in the
 basic health program; or for such other purposes as may be allowed by
 the secretary of health and human services. Health benefits available
@@ -277,8 +216,8 @@ through the basic health program shall be provided by one or more
 approved organizations pursuant to an agreement with the department of
 health and shall meet the requirements of applicable federal and state
 laws and regulations.
-  * NB Effective June 1, 2021 and Repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
   * 7. Any funds transferred by the secretary of health and human
 services to the state pursuant to 42 U.S.C. 18051(d) shall be deposited
 in trust.  Funds from the trust shall be used for providing health

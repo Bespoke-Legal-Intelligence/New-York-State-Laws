@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | ENV |
 | Type | Consolidated law, chapter 43-B |
-| Sections | 1,775 |
-| Last changed | 23 Apr 2021 |
+| Sections | 1,791 |
+| Last changed | 4 Jun 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Environmental Conservation |
 
@@ -29,10 +29,11 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
   Jersey and New York and the commonwealth of Pennsylvania in
 ```
 
-[Full chapter text (103 lines)](chapter-text.md)
+[Full chapter text (105 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Jun 2021](../../changes/2021/2021-06-04.md): 1 amended, 16 added
 - [23 Apr 2021](../../changes/2021/2021-04-23.md): 3 amended, 1 added
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 9 amended, 1 added, 21 removed
 - [29 Jan 2021](../../changes/2021/2021-01-29.md): 2 amended
@@ -42,7 +43,6 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [18 Dec 2020](../../changes/2020/2020-12-18.md): 4 amended, 1 added
 - [4 Dec 2020](../../changes/2020/2020-12-04.md): 4 amended, 1 added
 - [13 Nov 2020](../../changes/2020/2020-11-13.md): 2 amended
-- [25 Sep 2020](../../changes/2020/2020-09-25.md): 1 amended
 
 ## Contents
 
@@ -91,6 +91,7 @@ An ACT to repeal and reenact chapter forty-three-B of the consolidated
 - [Article 55 — Sole Source Aquifer Protection](article-55-sole-source-aquifer-protection/)
 - [Article 56 — Implementation of the Clean Water/clean Air Bond Act of 1996](article-56-implementation-of-the-clean-water-clean-air-bond/)
 - [Article 57 — Long Island Pine Barrens Maritime Reserve Act](article-57-long-island-pine-barrens-maritime-reserve-act/)
+- [Article 58 — Implementation of the Environmental Bond Act of 2022 "restore Mother Nature"](article-58-implementation-of-the-environmental-bond-act/)
 - [Article 70 — Uniform Procedures](article-70-uniform-procedures/)
 - [Article 71 — Enforcement](article-71-enforcement/)
 - [Article 72 — Environmental Regulatory Program Fees](article-72-environmental-regulatory-program-fees/)

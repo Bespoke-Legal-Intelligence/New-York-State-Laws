@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"kind": "container", "law_id": "SOS", "location_id": "A5T11-D", "path": "ARTICLE 5 › TITLE 11-D", "source": "nys-laws:SOS/A5T11-D.md", "title": "Family Health Plus Program"} -->
-# Title 11-D — Family Health Plus Program
+﻿<!-- nyslaw {"kind": "container", "law_id": "SOS", "location_id": "A5T11-D", "path": "ARTICLE 5 › TITLE 11-D", "source": "nys-laws:SOS/A5T11-D.md", "title": "Basic Health Program"} -->
+# Title 11-D — Basic Health Program
 
 [Social Services Law](../../README.md) › [Article 5 — Assistance and Care](../README.md)
 
@@ -13,11 +13,9 @@
 
 ```text
                                TITLE 11-D
-                      * FAMILY HEALTH PLUS PROGRAM
-  * NB Effective until June 1, 2021
-                          * BASIC HEALTH PROGRAM
-  * NB Effective June 1, 2021 and repealed if federal approval is
-withdrawn or 42 U.S.C. 18051 is repealed
+                         * BASIC HEALTH PROGRAM
+  * NB Repealed if federal approval is withdrawn or 42 U.S.C. 18051 is
+repealed
                        * FAMILY HEALTH PLUS PROGRAM
   * NB Effective if federal approval is withdrawn or 42 U.S.C. 18051 is
 repealed

@@ -135,7 +135,6 @@ Article
   16.      Pesticide control board (§§1601-1609).
   17.      Ingredient disclosures for vapor products and e-cigarettes
             (§§ 1700-1702).
-  19.      Crohn's and Colitis identification card (§§ 1900-1901).
   20.      Reporting of Alzheimer's Disease (§§2000--2004-a).
   20-a.    Alzheimer's Community Assistance Program (§§2005-2009).
   21.      Control of acute communicable diseases

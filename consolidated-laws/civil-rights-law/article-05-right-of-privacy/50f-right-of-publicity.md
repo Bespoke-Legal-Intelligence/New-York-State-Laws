@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 5 — Right of Privacy](README.md)
 
 ```text
-  * § 50-f. Right of publicity. 1. For purposes of this section:
+  § 50-f. Right of publicity. 1. For purposes of this section:
   a. "deceased performer" means a deceased natural person domiciled in
 this state at the time of death who, for gain or livelihood, was
 regularly engaged in acting, singing, dancing, or playing a musical
@@ -193,5 +193,4 @@ prohibited by this section.
 enlarge, the protections that 47 U.S.C. § 230 confers on an interactive
 computer service for content provided by another information content
 provider, as such terms are defined in 47 U.S.C. § 230.
-  * NB Effective May 29, 2021
 ```

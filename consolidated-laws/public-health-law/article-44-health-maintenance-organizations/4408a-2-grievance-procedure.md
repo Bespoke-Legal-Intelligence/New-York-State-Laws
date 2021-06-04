@@ -24,23 +24,15 @@ organization denies a service as an adverse determination as defined in
 article forty-nine of this chapter, the organization shall inform the
 enrollee or the enrollee's designee of the appeal rights provided for in
 article forty-nine of this chapter.
-  ** (b) The notice to an enrollee describing the grievance process
-shall explain: (i) the process for filing a grievance with the
-organization; (ii) the timeframes within which a grievance determination
-must be made; and (iii) the right of an enrollee to designate a
-representative to file a grievance on behalf of the enrollee.
-  ** NB Effective until May 31, 2021
-  ** (b) The notice to an enrollee describing the grievance process
-shall explain: (i) the process for filing a grievance with the
-organization; (ii) the timeframes within which a grievance determination
-must be made; (iii) the right of an enrollee to designate a
-representative to file a grievance on behalf of the enrollee; and (iv)
-notice of the name, address, phone number and website of the department
-designated consumer assistance program and the independent substance use
-disorder and mental health ombudsman established by section 33.27 of the
-mental hygiene law on all notices of adverse determinations, grievances
-and appeals.
-  ** NB Effective May 1, 2020
+  (b) The notice to an enrollee describing the grievance process shall
+explain: (i) the process for filing a grievance with the organization;
+(ii) the timeframes within which a grievance determination must be made;
+(iii) the right of an enrollee to designate a representative to file a
+grievance on behalf of the enrollee; and (iv) notice of the name,
+address, phone number and website of the department designated consumer
+assistance program and the independent substance use disorder and mental
+health ombudsman established by section 33.27 of the mental hygiene law
+on all notices of adverse determinations, grievances and appeals.
   (c) The organization shall assure that the grievance procedure is
 reasonably accessible to those who do not speak English.
   3. (a) The organization may require an enrollee to file a grievance in
@@ -97,13 +89,7 @@ writing to the enrollee or to the enrollee's designee. In the case of a
 determination made in conformance with subparagraph (i) of subdivision
 four of this section, notice shall be made by telephone directly to the
 enrollee with written notice to follow within three business days.
-  ** 7. The notice of a determination shall include: (i) the detailed
-reasons for the determination; (ii) in cases where the determination has
-a clinical basis, the clinical rationale for the determination; and
-(iii) the procedures for the filing of an appeal of the determination,
-including a form for the filing of such an appeal.
-  * NB Effective until May 31, 2021
-  ** 7. The notice of a determination shall include: (i) the detailed
+  7. The notice of a determination shall include: (i) the detailed
 reasons for the determination; (ii) in cases where the determination has
 a clinical basis, the clinical rationale for the determination; (iii)
 the procedures for the filing of an appeal of the determination,
@@ -113,7 +99,6 @@ consumer assistance program and the independent substance use disorder
 and mental health ombudsman established by section 33.27 of the mental
 hygiene law on all notices of adverse determinations, grievances and
 appeals.
-  * NB Effective May 31, 2021
   8. An enrollee or an enrollee's designee shall have not less than
 sixty business days after receipt of notice of the grievance
 determination to file a written appeal, which may be submitted by letter

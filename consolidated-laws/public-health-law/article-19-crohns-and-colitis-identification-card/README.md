@@ -3,10 +3,12 @@
 
 [Public Health Law](../README.md)
 
+**Repealed.**
+
 ## Contents
 
-- [§ 1900 Definition](1900-definition.md)
-- [§ 1901 Crohn's and colitis identification card](1901-crohns-and-colitis-identification-card.md)
+- [§ 1900 Definition](1900-definition.md) *(repealed)*
+- [§ 1901 Crohn's and colitis identification card](1901-crohns-and-colitis-identification-card.md) *(repealed)*
 
 <details>
 <summary>Official heading of Article 19, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

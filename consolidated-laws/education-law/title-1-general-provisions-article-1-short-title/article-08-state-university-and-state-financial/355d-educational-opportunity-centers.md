@@ -4,7 +4,7 @@
 [Education Law](../../README.md) › [Title 1 — General Provisions Article 1 Short Title and Definitions (§§](../README.md) › [Article 8 — State University and State Financial Assistance For Higher Education](README.md)
 
 ```text
-  * § 355-d. Educational opportunity centers. 1. There shall be created
+  § 355-d. Educational opportunity centers. 1. There shall be created
 within the state university of New York a comprehensive system of higher
 education programs and services that promote the growth and stability of
 the state's educationally and economically challenged communities as
@@ -44,5 +44,4 @@ center;
   (c) program objectives including coordination with the university's
 long range mission and goals; and
   (d) program evaluation and reporting.
-  * NB Effective May 31, 2021
 ```

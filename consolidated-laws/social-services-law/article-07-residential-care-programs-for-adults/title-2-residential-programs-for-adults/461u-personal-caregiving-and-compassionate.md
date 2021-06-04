@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Social Services Law § 461-U", "kind": "section", "law_id": "SOS", "location_id": "461-U", "path": "ARTICLE 7 › TITLE 2 › SECTION 461-U", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/461-U.md", "title": "Personal caregiving visitors for residents of adult care facilities during public health emergencies"} -->
-# Social Services Law § 461-U — Personal caregiving visitors for residents of adult care facilities during public health emergencies
+﻿<!-- nyslaw {"citation": "Social Services Law § 461-U", "kind": "section", "law_id": "SOS", "location_id": "461-U", "path": "ARTICLE 7 › TITLE 2 › SECTION 461-U", "repealed": false, "repealed_date": null, "source": "nys-laws:SOS/461-U.md", "title": "Personal caregiving and compassionate caregiving visitors for residents of adult care facilities during declared local or state health em..."} -->
+# Social Services Law § 461-U — Personal caregiving and compassionate caregiving visitors for residents of adult care facilities during declared local or state health em...
 
 [Social Services Law](../../README.md) › [Article 7 — Residential Care Programs For Adults and Children](../README.md) › [Title 2 — Residential Programs For Adults](README.md)
 

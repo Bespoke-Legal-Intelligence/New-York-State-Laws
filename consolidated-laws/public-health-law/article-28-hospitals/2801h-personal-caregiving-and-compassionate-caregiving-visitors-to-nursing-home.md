@@ -1,5 +1,5 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 2801-H", "kind": "section", "law_id": "PBH", "location_id": "2801-H", "path": "ARTICLE 28 › SECTION 2801-H", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2801-H.md", "title": "Personal caregiving visitors for nursing home residents during public health emergencies"} -->
-# Public Health Law § 2801-H — Personal caregiving visitors for nursing home residents during public health emergencies
+﻿<!-- nyslaw {"citation": "Public Health Law § 2801-H", "kind": "section", "law_id": "PBH", "location_id": "2801-H", "path": "ARTICLE 28 › SECTION 2801-H", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/2801-H.md", "title": "Personal caregiving and compassionate caregiving visitors to nursing home residents during declared local or state health emergencies"} -->
+# Public Health Law § 2801-H — Personal caregiving and compassionate caregiving visitors to nursing home residents during declared local or state health emergencies
 
 [Public Health Law](../README.md) › [Article 28 — Hospitals](README.md)
 

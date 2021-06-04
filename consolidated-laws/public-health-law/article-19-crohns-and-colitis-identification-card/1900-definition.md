@@ -1,7 +1,9 @@
-﻿<!-- nyslaw {"citation": "Public Health Law § 1900", "kind": "section", "law_id": "PBH", "location_id": "1900", "path": "ARTICLE 19 › SECTION 1900", "repealed": false, "repealed_date": null, "source": "nys-laws:PBH/1900.md", "title": "Definition"} -->
+﻿<!-- nyslaw {"citation": "Public Health Law § 1900", "kind": "section", "law_id": "PBH", "location_id": "1900", "path": "ARTICLE 19 › SECTION 1900", "repealed": true, "repealed_date": "2021-06-04", "source": "nys-laws:PBH/1900.md", "title": "Definition"} -->
 # Public Health Law § 1900 — Definition
 
 [Public Health Law](../README.md) › [Article 19 — Crohn's and Colitis Identification Card](README.md)
+
+**Repealed** (4 Jun 2021). The text below is what the Senate publishes for this repealed provision.
 
 ```text
   * § 1900. Definition. As used in this article, "eligible medical

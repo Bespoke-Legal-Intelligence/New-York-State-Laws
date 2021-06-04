@@ -867,18 +867,10 @@ that managed care providers have sufficient capacity to meet the needs
 of their enrollees, which shall include patient to provider ratios,
 travel and distance standards and appropriate waiting times for
 appointments.
-  ** 9. Managed care providers shall inform participants of such
-provider's grievance procedure and utilization review procedures
-required pursuant to sections forty-four hundred eight-c and forty-nine
-hundred of the public health law. A managed care provider or local
+  9. Managed care providers shall inform participants of such provider's
+grievance procedure and utilization review procedures under article
+forty-nine of the public health law. A managed care provider or local
 social services district, as appropriate, shall provide notice to
-participants of their respective rights to a fair hearing and aid
-continuing in accordance with applicable state and federal law.
-  ** NB Effective until May 31, 2021
-  ** 9. Managed care providers shall inform participants of such
-provider's grievance procedure and utilization review procedures under
-article forty-nine of the public health law. A managed care provider or
-local social services district, as appropriate, shall provide notice to
 participants of their respective rights to a fair hearing and aid
 continuing in accordance with applicable state and federal law. Managed
 care providers shall provide written notice of the name, address, phone
@@ -887,7 +879,6 @@ consumer assistance program and the independent substance use disorder
 and mental health ombudsman established by section 33.27 of the mental
 hygiene law on all notices of adverse determinations, grievances and
 appeals.
-  ** NB Effective May 31, 2021
   10. The commissioner of health shall be authorized to establish
 requirements regarding provision and reimbursement of emergency care.
   10-a. For managed care providers with negotiated rates of payment for

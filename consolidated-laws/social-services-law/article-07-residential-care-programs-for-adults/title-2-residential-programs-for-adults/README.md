@@ -25,7 +25,7 @@
 - [§ 461-R Food services](461r-food-services.md)
 - [§ 461-S Enhancing the quality of adult living program for adult care facilities](461s-enhancing-the-quality-of-adult-living-program.md)
 - [§ 461-T Review of criminal history information concerning prospective direct care employees](461t-review-of-criminal-history-information.md)
-- [§ 461-U Personal caregiving visitors for residents of adult care facilities during public health emergencies](461u-personal-caregiving-visitors-for-residents.md)
+- [§ 461-U Personal caregiving and compassionate caregiving visitors for residents of adult care facilities during declared local or state health em...](461u-personal-caregiving-and-compassionate.md)
 
 <details>
 <summary>Official heading of Title 2, as the Senate publishes it: its name and, usually, a list of what it contains. It is a table of contents, not law text; each section's text is in its own file, listed above.</summary>

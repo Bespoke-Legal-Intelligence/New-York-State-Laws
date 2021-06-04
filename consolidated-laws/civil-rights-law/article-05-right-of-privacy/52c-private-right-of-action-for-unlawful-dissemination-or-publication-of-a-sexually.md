@@ -4,7 +4,7 @@
 [Civil Rights Law](../README.md) › [Article 5 — Right of Privacy](README.md)
 
 ```text
-  * § 52-c. Private right of action for unlawful dissemination or
+  § 52-c. Private right of action for unlawful dissemination or
 publication of a sexually explicit depiction of an individual. 1. For
 the purposes of this section:
   a. "depicted individual" means an individual who appears, as a result
@@ -88,5 +88,4 @@ provisions of this section are severable.
 enlarge, the protections that 47 U.S.C. § 230 confers on an interactive
 computer service for content provided by another information content
 provider, as such terms are defined in 47 U.S.C. § 230.
-  * NB Effective May 29, 2021
 ```

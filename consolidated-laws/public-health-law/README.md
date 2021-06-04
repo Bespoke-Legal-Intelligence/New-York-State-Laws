@@ -7,8 +7,8 @@
 |---|---|
 | Senate code | PBH |
 | Type | Consolidated law, chapter 45 |
-| Sections | 1,714 |
-| Last changed | 21 May 2021 |
+| Sections | 1,714 (2 repealed) |
+| Last changed | 4 Jun 2021 |
 | First in this history | 22 Sep 2014 |
 | Senate name | Public Health |
 
@@ -29,10 +29,11 @@ Assembly, do enact as follows:
                    CHAPTER 45 OF THE CONSOLIDATED LAWS
 ```
 
-[Full chapter text (343 lines)](chapter-text.md)
+[Full chapter text (342 lines)](chapter-text.md)
 
 ## Recent changes
 
+- [4 Jun 2021](../../changes/2021/2021-06-04.md): 2 amended, 2 repealed
 - [21 May 2021](../../changes/2021/2021-05-21.md): 1 amended
 - [14 May 2021](../../changes/2021/2021-05-14.md): 1 amended
 - [30 Apr 2021](../../changes/2021/2021-04-30.md): 2 amended
@@ -42,7 +43,6 @@ Assembly, do enact as follows:
 - [2 Apr 2021](../../changes/2021/2021-04-02.md): 43 amended, 1 added, 1 repealed
 - [26 Mar 2021](../../changes/2021/2021-03-26.md): 2 amended, 1 added, 2 removed
 - [19 Feb 2021](../../changes/2021/2021-02-19.md): 19 amended, 2 repealed
-- [5 Feb 2021](../../changes/2021/2021-02-05.md): 2 added
 
 ## Contents
 
@@ -75,7 +75,7 @@ Assembly, do enact as follows:
 - [Article 15 — Insect Control](article-15-insect-control/)
 - [Article 16 — Pesticide Control Board](article-16-pesticide-control-board/)
 - [Article 17 — Ingredient Disclosures For Vapor Products and E-cigarettes](article-17-ingredient-disclosures-for-vapor-products-and-e/)
-- [Article 19 — Crohn's and Colitis Identification Card](article-19-crohns-and-colitis-identification-card/)
+- [Article 19 — Crohn's and Colitis Identification Card](article-19-crohns-and-colitis-identification-card/) *(repealed)*
 - [Article 20 — Reporting of Alzheimer's Disease](article-20-reporting-of-alzheimers-disease/)
 - [Article 20-A — Alzheimer's Community Assistance Program](article-20a-alzheimers-community-assistance-program/)
 - [Article 21 — Control of Acute Communicable Diseases](article-21-control-of-acute-communicable-diseases/)
