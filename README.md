@@ -6,7 +6,7 @@ history of every published change since 22 Sep 2014. One commit per weekly publi
 **Read [NOTICE.md](NOTICE.md) first**: unofficial; statute text is not claimed; the Senate's
 political-fundraising condition applies; not legal advice.
 
-*Current through the publication of 4 Jun 2021.*
+*Current through the publication of 11 Jun 2021.*
 
 **How to use it:** open a law below, then an article, then a section. Section text is shown line for line
 as the Senate publishes it. Each law's page lists its recent changes; [changes/](changes/) has one digest per
@@ -15,6 +15,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 
 ## Recently changed
 
+- [11 Jun 2021](changes/2021/2021-06-11.md): Education Law; Labor Law
 - [4 Jun 2021](changes/2021/2021-06-04.md): Civil Rights Law; Correction Law; Education Law; Environmental Conservation Law; Executive Law; General Business Law; Public Health Law; Public Housing Law; Social Services Law
 - [28 May 2021](changes/2021/2021-05-28.md): Election Law
 - [21 May 2021](changes/2021/2021-05-21.md): Education Law; Public Health Law; Public Service Law
@@ -22,7 +23,6 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 - [7 May 2021](changes/2021/2021-05-07.md): Correction Law; Criminal Procedure Law; Education Law; Election Law; Executive Law; Judiciary Law; Labor Law; Mental Hygiene Law; Public Officers Law; State Finance Law
 - [30 Apr 2021](changes/2021/2021-04-30.md): Civil Service Law; Criminal Procedure Law; Education Law; Executive Law; Public Health Law; Tax Law
 - [23 Apr 2021](changes/2021/2021-04-23.md): Banking Law; Business Corporation Law; Civil Practice Law and Rules; Civil Service Law; Correction Law; Court of Claims Act; Criminal Procedure Law; Economic Development Law; Education Law; Environmental Conservation Law; Executive Law; Family Court Act; General Associations Law; General Business Law; General Municipal Law; Insurance Law; Judiciary Law; Labor Law; Legislative Law; Limited Liability Company Law; Medical Care Facilities Finance Agency; Mental Hygiene Law; Military Law; New York City Criminal Court Act; Not-for-Profit Corporation Law; Partnership Law; Penal Law; Private Housing Finance Law; Public Authorities Law; Public Health Law; Public Housing Law; Public Officers Law; Public Service Law; Racing, Pari-Mutuel Wagering and Breeding Law; Real Property Law; Real Property Tax Law; Social Services Law; State Finance Law; Tax Law; Transportation Law; Urban Development Corporation Act; Vehicle and Traffic Law
-- [16 Apr 2021](changes/2021/2021-04-16.md): Election Law; Family Court Act; Public Health Law; Real Property Law; Vehicle and Traffic Law
 
 ## Most changed in the past 12 months
 
@@ -30,13 +30,13 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 |---|---:|
 | [Public Health Law](consolidated-laws/public-health-law/README.md) | 241 |
 | [Racing, Pari-Mutuel Wagering and Breeding Law](consolidated-laws/racing-pari-mutuel-wagering-and-breeding-law/README.md) | 189 |
-| [Education Law](consolidated-laws/education-law/README.md) | 118 |
-| [Tax Law](consolidated-laws/tax-law/README.md) | 107 |
-| [Executive Law](consolidated-laws/executive-law/README.md) | 103 |
+| [Education Law](consolidated-laws/education-law/README.md) | 117 |
+| [Tax Law](consolidated-laws/tax-law/README.md) | 105 |
+| [Executive Law](consolidated-laws/executive-law/README.md) | 102 |
 | [Environmental Conservation Law](consolidated-laws/environmental-conservation-law/README.md) | 92 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | 86 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | 87 |
 | [Criminal Procedure Law](consolidated-laws/criminal-procedure-law/README.md) | 84 |
-| [Penal Law](consolidated-laws/penal-law/README.md) | 82 |
+| [Penal Law](consolidated-laws/penal-law/README.md) | 78 |
 | [Family Court Act](court-acts/family-court-act/README.md) | 74 |
 | [Vehicle and Traffic Law](consolidated-laws/vehicle-and-traffic-law/README.md) | 68 |
 | [Social Services Law](consolidated-laws/social-services-law/README.md) | 68 |
@@ -68,7 +68,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Debtor and Creditor Law](consolidated-laws/debtor-and-creditor-law/README.md) | DCD | 194 | 14 May 2021 |
 | [Domestic Relations Law](consolidated-laws/domestic-relations-law/README.md) | DOM | 172 | 19 Feb 2021 |
 | [Economic Development Law](consolidated-laws/economic-development-law/README.md) | COM | 184 | 23 Apr 2021 |
-| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,900 | 4 Jun 2021 |
+| [Education Law](consolidated-laws/education-law/README.md) | EDN | 1,900 | 11 Jun 2021 |
 | [Elder Law](consolidated-laws/elder-law/README.md) | ELD | 45 | 1 Jan 2021 |
 | [Election Law](consolidated-laws/election-law/README.md) | ELN | 423 | 28 May 2021 |
 | [Eminent Domain Procedure Law](consolidated-laws/eminent-domain-procedure-law/README.md) | EDP | 50 | 27 Sep 2019 |
@@ -88,7 +88,7 @@ publication date. A section's History view (or `git log --follow -- <file>`) is 
 | [Indian Law](consolidated-laws/indian-law/README.md) | IND | 97 | 11 Jan 2019 |
 | [Insurance Law](consolidated-laws/insurance-law/README.md) | ISC | 1,029 | 23 Apr 2021 |
 | [Judiciary Law](consolidated-laws/judiciary-law/README.md) | JUD | 539 | 7 May 2021 |
-| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 715 | 7 May 2021 |
+| [Labor Law](consolidated-laws/labor-law/README.md) | LAB | 715 | 11 Jun 2021 |
 | [Legislative Law](consolidated-laws/legislative-law/README.md) | LEG | 128 | 23 Apr 2021 |
 | [Lien Law](consolidated-laws/lien-law/README.md) | LIE | 175 | 24 Apr 2020 |
 | [Limited Liability Company Law](consolidated-laws/limited-liability-company-law/README.md) | LLC | 119 | 23 Apr 2021 |
